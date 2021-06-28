@@ -4,7 +4,7 @@
       "docset_name": "learn-dynamics-pr",
       "build_source_folder": "learn-dynamics-pr",
       "build_output_subfolder": "learn-dynamics-pr",
-      "locale": "ar-sa",
+      "locale": "ar-SA",
       "monikers": [],
       "moniker_ranges": [],
       "xref_query_tags": [
@@ -30,8 +30,10 @@
   "notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
-    "main-sxs"
+    "master-sxs"
   ],
+  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/learn-dynamics-pr",
+  "git_repository_branch_open_to_public_contributors": "master",
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
@@ -39,7 +41,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.ar-sa",
+      "url": "https://github.com/Microsoft/templates.docs.msft.ar-SA",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -49,15 +51,10 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "main": "main"
+        "master": "master"
       }
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  },
   "dependent_packages": [
     {
       "id": "Microsoft.OpenPublishing.CommonPlugins",
@@ -66,5 +63,10 @@
       "target_framework": "net45",
       "version": "latest"
     }
-  ]
+  ],
+  "branch_target_mapping": {},
+  "need_generate_pdf_url_template": false,
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }

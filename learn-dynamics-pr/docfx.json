@@ -454,82 +454,121 @@
     "markdownEngineName": "markdig",
     "localization_scopes": {
       "dyn365-business-central/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-customer-service/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-guides/**/*.yml": [
-      "de-de",
-      "es-es",
-      "fr-fr",
-      "ja-jp"
+        "ar-sa",
+        "de-de",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-field-service/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-finance-operations/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-marketing/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-project-operations/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-sales/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "power-platform/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-commerce/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
        "dyn365-human-resources/**/*.yml": [
+        "ar-sa",         
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "dyn365-fraud-protection/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
         "fr-fr",
-        "ja-jp"
+        "it-it",
+        "ja-jp",
+        "pt-br"
       ],
       "wwl-dynamics/**/*.yml": [
+        "ar-sa",
         "de-de",
         "es-es",
+        "it-it",
         "fr-fr",
         "ja-jp"
+        "pt-br",
       ],
       "wwl-mba/**/*.yml": [
         "de-de",
