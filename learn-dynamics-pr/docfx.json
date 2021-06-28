@@ -567,8 +567,8 @@
         "es-es",
         "it-it",
         "fr-fr",
-        "ja-jp"
-        "pt-br",
+        "ja-jp",
+        "pt-br"
       ],
       "wwl-mba/**/*.yml": [
         "de-de",
