@@ -45,12 +45,12 @@
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-component-framework",
       "redirect_document_id": false
     },
-      {
+    {
       "source_path": "learn-dynamics-pr/power-platform/web-resources-power-platform/7-check.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-component-framework",
       "redirect_document_id": false
     },
-      {
+    {
       "source_path": "learn-dynamics-pr/power-platform/web-resources-power-platform/8-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-component-framework",
       "redirect_document_id": false
@@ -69,12 +69,12 @@
       "source_path": "learn-dynamics-pr/dyn365-marketing/advanced-event-management-marketing/3-payment.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/6-registration",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/advanced-event-management-marketing/4-registration.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/5-sessions",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/9-venues.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/4-create",
@@ -84,12 +84,12 @@
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/6-sessions.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/5-sessions",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/7-tracks.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/5-sessions",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/8-speakers.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/5-sessions",
@@ -99,17 +99,17 @@
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/10-sponsorship.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/5-sessions",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/12-registration.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/6-registration",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/create-event-marketing/5-team.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/create-event-marketing/7-team",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/introduction-developing-power-platform/4-developer-guide.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/introduction-developing-power-platform/",
@@ -119,42 +119,42 @@
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/2-configuring-organization-settings.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/3-configuring-business-management.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/4-configuring-marketing-settings.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/4-marketing-insights.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/6-reviewing-quota-limits.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/9-setting-up-linkedin-integration.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/10-customize-marketing.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/11-knowledge-check.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/9-knowledge-check",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/get-started-advanced-configuration/12-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-advanced-configuration/10-summary",
@@ -164,37 +164,37 @@
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/index.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/01-introduction.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/1-configure-sms-channels.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/2-sms-setting.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/3-facebook-channel.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/4-check.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/configure-message-channels/5-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/work-customer-service-omnichannel/",
       "redirect_document_id": false
-    }, 
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-customer-profile/2-ingest-data.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/unified-customer-profile/",
@@ -229,7 +229,7 @@
       "source_path": "learn-dynamics-pr/dyn365-customer-service/work-with-business-process-flows-dynamics-365/index.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/create-business-process-flow/",
       "redirect_document_id": false
-    },        
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/paths/dyn365-voice-of-customer/index.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/create-surveys/",
@@ -11003,6 +11003,581 @@
     {
       "source_path": "learn-dynamics-pr/wwl-mba/dynamics-365-customer-insights/6-summary-resources.md",
       "redirect_url": "https://docs.microsoft.com/learn/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/paths/dynamics-365-fundamentals/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/4-build-sales-contracts.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/8-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/3-pipeline-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/5-relationship-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/6-sales-insights.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/9-summary-resources.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-sales/7-customer-experience-forms-pro.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/3-account-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/4-case-lifecycle-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/7-community-portal.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/8-customer-service-insights.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/9-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/5-knowledge-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/6-omnichannel-customer-service.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-customer-service/10-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/2-connected-field-service.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/7-dynamics-365-guides.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/6-dynamics-365-remote-assist.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/5-field-service-mobile.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/8-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/4-resource-scheduling-optimization.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/3-service-resource-scheduling.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-field-service/9-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-field-service/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/6-event-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/7-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/2-lead-generation.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/3-lead-qualification.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/4-manage-customer-journeys.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/5-segmentation.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-marketing/8-summary-resources.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/3-benefits-dataverse.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/4-dynamics-365-reporting.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/5-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/2-power-platform.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/connect-analyze-dynamics-365-data/6-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/4-integration-with-3rd-party-apps.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/3-integration-across-microsoft-products.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/2-integration-across-dynamics-365-apps.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/5-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/dynamics-365-customer-data-platform-customer-engagement-apps-integration/6-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/7-business-central-instead-other-dynamics-365-products.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/3-finance.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/8-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/5-project-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/6-sales-service.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/9-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-business-central/4-supply-chain.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/4-additional-capabilities.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/3-core-product-capabilities.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/5-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-finance/6-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/4-benefits-management-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/5-employee-development.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/3-employee-self-service-personnel-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/6-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/7-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-human-resources/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-microsoft-dynamics-365-human-resources/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/7-asset-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/12-test-your-knowledge.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/9-manufacturing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/4-master-planning.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/10-modernize-operations.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/6-procurement-sourcing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/3-product-information.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/5-sales-order-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/13-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/introduction-dynamics-365-supply-chain-management/8-warehouse-management.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-supply-chain-management/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/4-benefits-cloud-computing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/3-cloud-computing-services.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/5-compliance-terms-requirements.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/8-deployment.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/9-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/7-public-private-hybrid-clouds.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/10-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/6-types-cloud-services.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/principles-cloud-computing-dynamics-365-deployment/2-what-cloud-computing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/3-encryption.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/2-cloud-security.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/5-data-loss-prevention.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/9-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/4-authentication.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/6-security-model-driven-apps.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/8-security-business-central.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/7-security-finance-operations-apps.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/10-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
       "redirect_document_id": false
     }
   ]
