@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.08-unit-test
+title: إجراء اختبارات الوحدة
+metadata:
+  title: إجراء اختبارات الوحدة
+  description: تعرف على كيفية إجراء اختبارات الوحدة في تطبيقات Finance and Operations.
+  ms.date: 07/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: aeb9fa6da0e84c183d2216a2bb66a1cb036e6b53
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071774"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/08-unit-test.md)]

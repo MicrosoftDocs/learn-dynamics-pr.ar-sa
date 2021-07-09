@@ -1,0 +1,25 @@
+---
+ms.openlocfilehash: c9bc76b810c03a48469f8b4467aaf5f0dd347eb1
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071557"
+---
+<span data-ttu-id="54efe-101">تستخدم فئات تطبيقات Finance and Operations لغة تطوير X++ وهي لغة برمجة موجهة للكائنات.</span><span class="sxs-lookup"><span data-stu-id="54efe-101">Classes for Finance and Operations apps use the X++ development language, which is an object-oriented programming language.</span></span> <span data-ttu-id="54efe-102">تحتوي الفئات على بيانات تحدد حالة الكائن والأساليب التي تحدد سلوك الكائن.</span><span class="sxs-lookup"><span data-stu-id="54efe-102">Classes contain data that define an object's state and methods that define an object's behavior.</span></span> <span data-ttu-id="54efe-103">تحتوي العناصر مثل الجداول والنماذج على فئات خارج جاهزة للتشغيل.</span><span class="sxs-lookup"><span data-stu-id="54efe-103">Elements such as tables and forms contain classes out of the box.</span></span> <span data-ttu-id="54efe-104">يمكن تعديل هذه العناصر من خلال الامتداد لإضافة المزيد من الأساليب التي تتحكم في سلوك العنصر.</span><span class="sxs-lookup"><span data-stu-id="54efe-104">These elements can be modified through extension to add more methods that control the element's behavior.</span></span> <span data-ttu-id="54efe-105">من خلال نافذة **مستكشف الحلول** في Visual Studio، يمكنك إضافة فئة جديدة أو فئة قابلة للتشغيل إلى المشروع الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="54efe-105">Through the **Solution Explorer** window in Visual Studio, you can add a new class or runnable class to your project.</span></span> 
+
+<span data-ttu-id="54efe-106">تحتوي الفئة القابلة للتشغيل على أسلوب رئيسي فارغ ويتم الإعلان عنها على أنها `public static void`.</span><span class="sxs-lookup"><span data-stu-id="54efe-106">A runnable class contains an empty main method and is declared as `public static void`.</span></span> <span data-ttu-id="54efe-107">يمكن استدعاء العديد من أنواع الأساليب في الفئات.</span><span class="sxs-lookup"><span data-stu-id="54efe-107">Many types of methods can be called in classes.</span></span> <span data-ttu-id="54efe-108">تفرض بعض الأساليب الوصول إلى الأسلوب من خلال فئات أخرى، مثل الأساليب `public` و`private` و`protected`.</span><span class="sxs-lookup"><span data-stu-id="54efe-108">Some methods dictate access to the method from other classes, like `public`, `private`, and `protected` methods.</span></span> <span data-ttu-id="54efe-109">بينما يتم استخدام أساليباً أخرى عند معاجلة البيانات، مثل `select` و`insert` و`update` و`delete`.</span><span class="sxs-lookup"><span data-stu-id="54efe-109">Others are used when you are manipulating data, such as `select`, `insert`, `update`, and `delete` methods.</span></span> <span data-ttu-id="54efe-110">يمكن التعليق على الأساليب أو أي كود داخل الفئة لشرح الغرض من هذا الكود.</span><span class="sxs-lookup"><span data-stu-id="54efe-110">Methods, or any code within a class, can be commented on to explain the purpose of that code.</span></span>
+
+## <a name="links-to-related-modules-and-sites-for-specific-topics"></a><span data-ttu-id="54efe-111">ارتباطات لوحدات نمطية ذات صلة لموضوعات معينة</span><span class="sxs-lookup"><span data-stu-id="54efe-111">Links to related modules (and sites) for specific topics</span></span>
+
+
+| <span data-ttu-id="54efe-112">الموضوع</span><span class="sxs-lookup"><span data-stu-id="54efe-112">Topic</span></span> | <span data-ttu-id="54efe-113">الارتباط </span><span class="sxs-lookup"><span data-stu-id="54efe-113">Link</span></span>|
+ | ------------- | ------------- |
+ | <span data-ttu-id="54efe-114">نظره عامة على أنواع وأساليب فئات متعددة</span><span class="sxs-lookup"><span data-stu-id="54efe-114">Overview of various class types and methods</span></span>| [<span data-ttu-id="54efe-115">الفئات والأساليب</span><span class="sxs-lookup"><span data-stu-id="54efe-115">Classes and methods</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-classes-methods/?azure-portal=true)|
+ | <span data-ttu-id="54efe-116">أساليب معالجة البيانات</span><span class="sxs-lookup"><span data-stu-id="54efe-116">Data manipulation methods</span></span>| [<span data-ttu-id="54efe-117">تحديد بيانات X++ والمعالجة</span><span class="sxs-lookup"><span data-stu-id="54efe-117">X++ data selection and manipulation</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-data-query/?azure-portal=true)|
+| <span data-ttu-id="54efe-118">تعلُّم أساسيات X++</span><span class="sxs-lookup"><span data-stu-id="54efe-118">Learn the basics of X++</span></span>| [<span data-ttu-id="54efe-119">ابدأ في التطوير باستخدام X ++ في تطبيقات Finance and Operations</span><span class="sxs-lookup"><span data-stu-id="54efe-119">Get started with development using X++ in Finance and Operations apps</span></span>](https://docs.microsoft.com/learn/modules/get-started-xpp-finance-operations/?azure-portal=true)|
+
+
+
+
+

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops
+metadata:
+  title: إعداد الوظائف الدُفعية في تطبيقات Finance and Operations
+  description: باستخدام الوظائف الدُفعية، يمكنك تجنب إبطاء جهاز الكمبيوتر أو الخادم أثناء ساعات العمل المعتادة. يمكنك تشغيل العديد من المهام في تطبيقات Finance and Operations كجزء من الوظائف الدُفعية. علي سبيل المثال، يمكن أن تتضمن الوظائف الدُفعية مهام تقارير الطباعة أو أداء الصيانة أو إرسال المستندات الإلكترونية.
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c6e7c262c19fe7fca6be401fa09a5afcee19ecdf
+  ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/21/2021
+  ms.locfileid: "6072555"
+title: إعداد الوظائف الدُفعية في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nباستخدام الوظائف الدُفعية، يمكنك تجنب إبطاء جهاز الكمبيوتر أو الخادم أثناء ساعات العمل المعتادة. يمكنك تشغيل العديد من المهام في تطبيقات Finance and Operations كجزء من الوظائف الدُفعية. علي سبيل المثال، يمكن أن تتضمن الوظائف الدُفعية مهام تقارير الطباعة أو أداء الصيانة أو إرسال المستندات الإلكترونية.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- ‏‫المعالجة الدُفعية‬\n- معالجة الدُفعة وخوادم الدُفعات\n- التخطيط لمخطط خادم الدُفعة \n- التخطيط لإدارة خادم الدُفعة \n- المعالجة الدُفعية للتقارير\n- نسخ وظيفة دفعية\n- تنشيط فترات الدُفعة\n- دور أمان مدير الوظيفة الدفعية\n- التشغيل من خلال الميزة\n- كيفية إلغاء تأمين دفتر يومية\n"
+prerequisites: المعرفة العامة لـ Microsoft Windows، والقدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+iconUrl: /learn/achievements/setup-batch-jobs-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.1-batch-processing-overview
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.2-batch-processing-and-batch-servers
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.3-batch-processing-reports-and-setup-alerts
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.4-copy-a-batch-job
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.5-batch-manager-role
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.5-1-journal-unlock-feature
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.6-exercise-batch-jobs-and-set-up-alerts
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.7-setup-batch-jobs-in-f-and-o-quiz
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.8-setup-batch-jobs-in-f-and-o-summary
+badge:
+  uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.badge

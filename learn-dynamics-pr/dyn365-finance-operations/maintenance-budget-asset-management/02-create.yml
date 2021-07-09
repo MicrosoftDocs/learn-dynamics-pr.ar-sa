@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.maintenance-budget-asset-management.02-create
+title: إنشاء موازنات الصيانة
+metadata:
+  title: إنشاء موازنات الصيانة
+  description: توضح هذه الوحدة كيفية إنشاء موازنات الصيانة
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 52d7c742c702bfa6941375be12852455fec13acb
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071854"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create.md)]"

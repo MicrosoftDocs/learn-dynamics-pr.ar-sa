@@ -1,0 +1,23 @@
+---
+ms.openlocfilehash: 365f639ee1292919920f2f0ad64e91e9930fdb72
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071277"
+---
+<span data-ttu-id="ad10a-101">تعرفت في هذه الوحدة على كيفية اكتشاف العديد من مشكلات الأداء وتشخيصها وعرضها داخل بيئات تطبيقات Finance and Operations باستخدام العديد من الأدوات من محلل التتبع إلى المقاييس الصحية في LCS.</span><span class="sxs-lookup"><span data-stu-id="ad10a-101">In this module, you learned how to discover, diagnose, and view various performance issues within your Finance and Operations apps environments by using a multitude of tools from Trace parser to Health metrics in LCS.</span></span>
+
+<span data-ttu-id="ad10a-102">للحصول على تجربة إعداد واستمرار ناجحة، من المفيد معرفة واستكشاف المشكلات الصحية التي تحدث في بيئاتك وإصلاحها.</span><span class="sxs-lookup"><span data-stu-id="ad10a-102">To have a successful onboarding and continuing experience, it is helpful to know and troubleshoot health issues that occur in your environments.</span></span> <span data-ttu-id="ad10a-103">بمساعدة أدوات مراقبة المجموعة والتشخيص في LCS، وقدرة محلل التتبع على إجراء اختبار حمل العمل، ومساعدة Performance SDK في تسجيلات المهام للأداء في عملية الأعمال، ويمكنك الاحتفاظ بنظرة شاملة عن صحة كل بيئة.</span><span class="sxs-lookup"><span data-stu-id="ad10a-103">With the help of the collection monitoring and diagnostics tools in LCS, the Trace parser's ability to perform load testing, and the Performance SDK's help with task recordings for performance in business processes, you can retain a holistic view of the health of every environment.</span></span>
+
+## <a name="links-to-related-modules-and-sites-for-specific-topics"></a><span data-ttu-id="ad10a-104">ارتباطات لوحدات نمطية ذات صلة لموضوعات معينة</span><span class="sxs-lookup"><span data-stu-id="ad10a-104">Links to related modules (and sites) for specific topics</span></span>
+
+
+| <span data-ttu-id="ad10a-105">الموضوع</span><span class="sxs-lookup"><span data-stu-id="ad10a-105">Topic</span></span> | <span data-ttu-id="ad10a-106">الرابط</span><span class="sxs-lookup"><span data-stu-id="ad10a-106">Link</span></span> |
+ | ------------- | ------------- |
+ | <span data-ttu-id="ad10a-107">نظرة عامة على محلل التتبع</span><span class="sxs-lookup"><span data-stu-id="ad10a-107">Trace parser overview</span></span>| [<span data-ttu-id="ad10a-108">تشخيص المشكلات وتحليل الأداء باستخدام محلل التتبع</span><span class="sxs-lookup"><span data-stu-id="ad10a-108">Diagnose issues and analyze performance by using Trace parser</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/trace-parser)|
+ | <span data-ttu-id="ad10a-109">البرنامج التعليمي لمحلل التتبع</span><span class="sxs-lookup"><span data-stu-id="ad10a-109">Trace parser tutorial</span></span>| [<span data-ttu-id="ad10a-110">التقاط تتبعات باستخدام محلل التتبع</span><span class="sxs-lookup"><span data-stu-id="ad10a-110">Take traces by using Trace parser</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/trace-trace-tutorial)|
+| <span data-ttu-id="ad10a-111">برنامج Performance SDK التعليمي ودليل الإعداد</span><span class="sxs-lookup"><span data-stu-id="ad10a-111">Performance SDK tutorial and setup guide</span></span>| [<span data-ttu-id="ad10a-112">اختبار المستخدم الفردي باستخدام مسجل المهام وPerformance SDK</span><span class="sxs-lookup"><span data-stu-id="ad10a-112">Single-user testing with Task recorder and the Performance SDK</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/single-user-test-perf-sdk)|
+ | <span data-ttu-id="ad10a-113">نظرة عامة حول رؤى SQL وتحليل الأداء</span><span class="sxs-lookup"><span data-stu-id="ad10a-113">SQL Insights overview and performance analysis</span></span> | [<span data-ttu-id="ad10a-114">استكشاف أخطاء الأداء وإصلاحها باستخدام الأدوات في Lifecycle Services (LCS)</span><span class="sxs-lookup"><span data-stu-id="ad10a-114">Performance troubleshooting using tools in Lifecycle Services (LCS)</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/performancetroubleshooting)|
+| <span data-ttu-id="ad10a-115">نظرة عامة ومعلومات حول مراقبة صحة LCS</span><span class="sxs-lookup"><span data-stu-id="ad10a-115">LCS health monitoring overview and information</span></span>| [<span data-ttu-id="ad10a-116">أدوات المراقبة والتشخيص في Lifecycle Services (LCS)</span><span class="sxs-lookup"><span data-stu-id="ad10a-116">Monitoring and diagnostics tools in Lifecycle Services (LCS)</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/monitoring-diagnostics)|
+

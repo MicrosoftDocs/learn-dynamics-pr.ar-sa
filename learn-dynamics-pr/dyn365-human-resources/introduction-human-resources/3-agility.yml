@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-human-resources.3-agility
+title: زيادة السرعة التنظيمية
+metadata:
+  title: زيادة السرعة التنظيمية
+  description: تعلم كيفية زيادة السرعة التنظيمية.
+  ms.date: 02/01/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 558fb7ae0101b2f17d09b44e8d625923662283fa
+  ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "6072688"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-agility.md)]"

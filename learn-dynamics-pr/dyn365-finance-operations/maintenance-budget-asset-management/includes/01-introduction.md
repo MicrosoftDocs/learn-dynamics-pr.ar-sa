@@ -1,0 +1,17 @@
+---
+ms.openlocfilehash: 919ca76b7b22d6c48a750dab0a8c74875d880028
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071853"
+---
+<span data-ttu-id="ffeb8-101">تتيح موازنات الصيانة للمؤسسات فرصة للتنبؤ بالتكاليف المتوقعة للصيانة الوقائية للأصول.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-101">Maintenance budgets provide a place for organizations to forecast expected costs for preventative maintenance on assets.</span></span> <span data-ttu-id="ffeb8-102">في هذه الوحدة النمطية، ستتعلم عملية إنشاء موازنات الصيانة وتحديثها في إدارة الأصول في Dynamics 365 Supply Chain Management.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-102">In this module, you will learn the process of creating and updating maintenance budgets in Asset Management for Dynamics 365 Supply Chain Management.</span></span>
+
+<span data-ttu-id="ffeb8-103">توفر موازنات الصيانة نظرة عامة على التكاليف المتوقعة.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-103">Maintenance budgets provide an overview of expected costs.</span></span> <span data-ttu-id="ffeb8-104">وقد ترغب مؤسستك في الاطّلاع على التكاليف والموازنة للصيانة الوقائية لأسطول الشاحنات.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-104">Your organization might want to have visibility to the costs and budget for preventative maintenance for your truck fleet.</span></span> <span data-ttu-id="ffeb8-105">يمكنك استخدام إدارة الأصول لإنشاء موازنة لما ستكون عليه التكاليف المتوقعة للصيانة الوقائية.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-105">You can use Asset Management to create a budget of what the expected costs will be for your preventative maintenance.</span></span> <span data-ttu-id="ffeb8-106">يمكنك فيما بعد تحديث الموازنة بالتكاليف الفعلية.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-106">You can later update the budget with actual costs.</span></span> 
+
+<span data-ttu-id="ffeb8-107">تستخدم إدارة الأصول أنواع التكاليف التالية لحساب موازنات الصيانة:</span><span class="sxs-lookup"><span data-stu-id="ffeb8-107">Asset Management uses the following cost types for calculating maintenance budgets:</span></span> 
+
+- <span data-ttu-id="ffeb8-108">**وقائية** - يستعرض هذا النوع بنود جدول الصيانة التي تم تعيينها للبدء خلال فترة الموازنة.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-108">**Preventive** – This type looks at the maintenance schedule lines that are set to start during the budget period.</span></span> 
+- <span data-ttu-id="ffeb8-109">**تصحيحية** - يستعرض هذا النوع سجلات الصيانة التصحيحية السابقة التي تتضمن التكاليف التصحيحية لفترة الموازنة.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-109">**Corrective** – This type looks at past corrective maintenance records that include corrective costs for the budget period.</span></span>
+- <span data-ttu-id="ffeb8-110">**استثمارية** - يشمل هذا النوع تكاليف الموازنة للأصول النشطة التي لها تاريخ استبدال مجدول خلال فترة الموازنة وقيمة الاستبدال ذات الصلة.</span><span class="sxs-lookup"><span data-stu-id="ffeb8-110">**Investment** – This type includes budget costs for active assets with a scheduled replacement date during the budget period and their related replacement value.</span></span>

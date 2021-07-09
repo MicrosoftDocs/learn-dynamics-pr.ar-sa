@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations
+metadata:
+  title: إنشاء مساحات عمل في تطبيقات Finance and Operations
+  description: تُعد مساحات العمل مراكز عمل مخصصة مع البيانات والتقارير والحركات ويتم تصميمها لزيادة كفاءه المهام اليومية. ويمكن للمطورين إنشاء مساحات العمل وتعديلها. توجد العديد من الأسباب لتصميم وإنشاء مساحة عمل في بيئة المطور بدلاً من واجهة المستخدم. على سبيل المثال، قد تتطلب أعمالك وجود إطارات متجانبة لمؤشرات الأداء الرئيسية (KPI) أو المكونات التحليلية أو مكونات استخلاص البيانات أو الميزات المتقدمة الأخرى التي لا يمكن إنشاؤها أو تعديلها في واجهة المستخدم.
+  ms.date: 02/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d60ec14a9837889d901caf289c2f8b636d1faead
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072233"
+title: إنشاء مساحات عمل في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتُعد مساحات العمل مراكز عمل مخصصة مع البيانات والتقارير والحركات ويتم تصميمها لزيادة كفاءه المهام اليومية. ويمكن للمطورين إنشاء مساحات العمل وتعديلها. توجد العديد من الأسباب لتصميم وإنشاء مساحة عمل في بيئة المطور بدلاً من واجهة المستخدم. على سبيل المثال، قد تتطلب أعمالك وجود إطارات متجانبة لمؤشرات الأداء الرئيسية (KPI) أو المكونات التحليلية أو مكونات استخلاص البيانات أو الميزات المتقدمة الأخرى التي لا يمكن إنشاؤها أو تعديلها في واجهة المستخدم. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصميم مؤشرات الأداء الرئيسية (KPIs) وإنشاؤها.\n- إنشاء عناصر مساحة العمل.\n- استخدم لغة تعريف التقرير (RDL) لإنشاء تقارير مخصصة.\n- تنفيذ مكونات التقارير في مساحات العمل.\n"
+prerequisites: >
+  - المعرفة الأساسية بتطبيقات Finance and Operations.
+
+  - الوصول إلى بيئة تحتوي على عينة قياسية من البيانات في تطبيقات Finance and Operations، ومتصلة بـ Microsoft Power BI.
+iconUrl: /learn/achievements/build-workspaces-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.1-kpi
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.2-drill-through
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.3-reusable-rdl
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.4-built-in-kpi
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.5-exercise-workspace
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.6-check
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations.7-summary
+badge:
+  uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations.badge

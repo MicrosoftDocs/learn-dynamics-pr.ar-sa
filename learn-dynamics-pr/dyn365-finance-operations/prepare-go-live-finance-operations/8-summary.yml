@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.8-prepare-go-live-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص لوحدة التحضير لبدء العرض المباشر باستخدام تطبيقات Finance and Operations
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a4a17cd433a36da0d605e4b8af4ee36257aee9ca
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071253"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-prepare-go-live-summary.md)]

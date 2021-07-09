@@ -1,0 +1,39 @@
+---
+ms.openlocfilehash: fdcc2bdd055cb643f430379a31486125920d6dc6
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072301"
+---
+<span data-ttu-id="d4f82-101">تعتبر Lifecycle Services (LCS) أداة تساعد المطورين في إدارة دورة حياة تطبيقات Finance and Operations.</span><span class="sxs-lookup"><span data-stu-id="d4f82-101">Lifecycle Services (LCS) is a tool that aids developers in managing the lifecycle of Finance and Operations implementations.</span></span> <span data-ttu-id="d4f82-102">لاستخدام LCS، انتقل إلى [https://lcs.dynamics.com](https://lcs.dynamics.com/v2/?azure-portal=true) وقم بتسجيل الدخول باستخدام بيانات اعتماد Microsoft Azure Active Directory (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="d4f82-102">To use LCS, go to [https://lcs.dynamics.com](https://lcs.dynamics.com/v2/?azure-portal=true) and sign in with your Microsoft Azure Active Directory (Azure AD) credentials.</span></span> <span data-ttu-id="d4f82-103">توفر أداة LCS العديد من الأدوات التي يمكنك استخدامها لنشر وصيانة بيئاتك المحلية أو المستندة إلى السحابة.</span><span class="sxs-lookup"><span data-stu-id="d4f82-103">LCS provides several tools that you can use to deploy and maintain your cloud-based or on-premises environments.</span></span> 
+
+<span data-ttu-id="d4f82-104">بالنسبة للحلول المستندة إلى السحابة، تعتبر LCS أداة باسم البيئات المستضافة على الشبكة السحابية.</span><span class="sxs-lookup"><span data-stu-id="d4f82-104">For cloud-based solutions, LCS has a tool named Cloud-hosted environments.</span></span> <span data-ttu-id="d4f82-105">يمكن استخدام هذه الأداة لنشر بيئات Finance and Operations في Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d4f82-105">This tool can be used to deploy your Finance and Operations environments on Azure AD.</span></span> <span data-ttu-id="d4f82-106">يمكنك استخدام الأداة لتحديد نوع البيئة التي تريد نشرها: عرض توضيحي أو مطور أو اختبار.</span><span class="sxs-lookup"><span data-stu-id="d4f82-106">You can use the tool to select the type of environment that you want to deploy: Demo, Developer, or Test.</span></span> <span data-ttu-id="d4f82-107">بناءً على اختيارك، توفر الأداة العدد المناسب من الأجهزة الظاهرية في Azure AD مع تثبيت كافة المتطلبات الأساسية المطلوبة عليها.</span><span class="sxs-lookup"><span data-stu-id="d4f82-107">Based on your selection, the tool provisions the appropriate number of virtual machines in Azure AD with all the needed prerequisites installed on them.</span></span>
+
+<span data-ttu-id="d4f82-108">بالنسبة لعمليات التنفيذ المحلية لـ Finance + Operations، ستحتاج إلى إعداد مشروع محلي في LCS.</span><span class="sxs-lookup"><span data-stu-id="d4f82-108">For on-premises implementations of Finance + Operations, you will need to set up an on-premises project in LCS.</span></span> <span data-ttu-id="d4f82-109">في مشروع LCS، انتقل إلى **البيئة > ‏‫بيئة الاختبار المعزولة‬ > تكوين**.</span><span class="sxs-lookup"><span data-stu-id="d4f82-109">In your LCS project, go to **Environment > Sandbox > Configure**.</span></span> <span data-ttu-id="d4f82-110">في الجهاز الظاهري لوحدة تحكم المجال الأساسية، ستحتاج إلى تشغيل هذا البرنامج النصي في PowerShell:</span><span class="sxs-lookup"><span data-stu-id="d4f82-110">In the primary domain controller virtual machine, you will need to run this script in the PowerShell:</span></span> 
+
+`.\Get-DeploymentSettings.ps1 -ConfigurationFilePath
+.\ConfigTemplate.xml` 
+
+<span data-ttu-id="d4f82-111">بالنسبة لعمليات النشر الجديدة، حدد تحديد مخطط البيئة، وأكمل المعالج للبدء في نشر بيئتك.</span><span class="sxs-lookup"><span data-stu-id="d4f82-111">For new deployments, select your environment topology, and complete the wizard to start the deployment of your environment.</span></span>
+
+<span data-ttu-id="d4f82-112">لنشر الكود في البيئات المحلية، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="d4f82-112">To deploy code to on-premises environments, follow these steps:</span></span>
+
+1.  <span data-ttu-id="d4f82-113">قم بتحميل حزمة قابلة للنشر إلى مكتبة أصول LCS بالانتقال إلى علامة التبويب **حزمة برامج قابلة للنشر** وتحديد زر علامة الجمع (**+**).</span><span class="sxs-lookup"><span data-stu-id="d4f82-113">Upload a deployable package to the LCS Asset Library by going to the **Software deployable package** tab and selecting the plus (**+**)    button.</span></span>
+2.  <span data-ttu-id="d4f82-114">في مشروع LCS، حدد إما ‏‫بيئة الاختبار المعزولة‬ أو بيئة الإنتاج.</span><span class="sxs-lookup"><span data-stu-id="d4f82-114">In your LCS project, select either the sandbox or production environment.</span></span>
+3.  <span data-ttu-id="d4f82-115">حدد **تكوين**.</span><span class="sxs-lookup"><span data-stu-id="d4f82-115">Select **Configure**.</span></span>
+4.  <span data-ttu-id="d4f82-116">في أداة النشر، أدخل اسم البيئة.</span><span class="sxs-lookup"><span data-stu-id="d4f82-116">In the deployment tool, enter the environment name.</span></span>
+5.  <span data-ttu-id="d4f82-117">حدد **الإعدادات المتقدمة**.</span><span class="sxs-lookup"><span data-stu-id="d4f82-117">Select **Advanced settings**.</span></span>
+6.  <span data-ttu-id="d4f82-118">حدد علامة التبويب **تخصيص أصول الحلول**.</span><span class="sxs-lookup"><span data-stu-id="d4f82-118">Select the **Customize solution assets** tab.</span></span>
+7.  <span data-ttu-id="d4f82-119">في الحقل **حدد حزم AOT المراد توزيعها**، حدد الحزمة القابلة للنشر.</span><span class="sxs-lookup"><span data-stu-id="d4f82-119">In the **Select the AOT packages to be deployed** field, select the deployable package.</span></span>
+8.  <span data-ttu-id="d4f82-120">حدد **تم**.</span><span class="sxs-lookup"><span data-stu-id="d4f82-120">Select **Done**.</span></span>
+9.  <span data-ttu-id="d4f82-121">أعد نشر البيئة.</span><span class="sxs-lookup"><span data-stu-id="d4f82-121">Redeploy the environment.</span></span>
+
+<span data-ttu-id="d4f82-122">يحتوي LCS أيضاً علىأدوات للحفاظ على البيئة وتنفيذ تطبيقات Finance and Operations وFinance + Operations (المحلية)، كالتالي:</span><span class="sxs-lookup"><span data-stu-id="d4f82-122">LCS also has tools to maintain your environment and implementation of Finance and Operations apps and Finance + Operations (on-premises), such as the following:</span></span>
+
+-   <span data-ttu-id="d4f82-123">المشروعات والمناهج التي تتعقب المهام والأحداث الرئيسية المطلوبة لتلقي بيئة إنتاج.</span><span class="sxs-lookup"><span data-stu-id="d4f82-123">Projects and methodologies that track tasks and milestones that are required to receive a production environment.</span></span>
+-   <span data-ttu-id="d4f82-124">يمكنك استخدام أداة LCS لتقدير عدد التراخيص التي ستحتاجها.</span><span class="sxs-lookup"><span data-stu-id="d4f82-124">You can use LCS to estimate the number of licenses that you will need.</span></span>
+-   <span data-ttu-id="d4f82-125">يمكنك مراقبة حالة البيئات من صفحة **البيئة التفصيلية**.</span><span class="sxs-lookup"><span data-stu-id="d4f82-125">You can monitor the status of environments from the **Detailed    environment** page.</span></span>
+-   <span data-ttu-id="d4f82-126">هناك بحث عن مشكلة للعثور على الحلول البديلة الموجودة وحلول للمشكلات الشائعة.</span><span class="sxs-lookup"><span data-stu-id="d4f82-126">There is an issue search to find existing workarounds and solutions    for common problems.</span></span>
+-   <span data-ttu-id="d4f82-127">تتم جدولة كافة الترقيات والتحديثات من خلال LCS.</span><span class="sxs-lookup"><span data-stu-id="d4f82-127">All upgrades and updates are scheduled through LCS.</span></span>
+-   <span data-ttu-id="d4f82-128">يمكنك استخدام أداة LCS لنسخ البيانات من بيئة إلى أخرى.</span><span class="sxs-lookup"><span data-stu-id="d4f82-128">You can use LCS to copy data from one environment to another.</span></span>

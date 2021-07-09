@@ -1,0 +1,17 @@
+---
+ms.openlocfilehash: ef3d94e40b5866d37012f43474c5685556b5042a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071500"
+---
+<span data-ttu-id="07dbd-101">لديك خياران عند التفكير في المصادر الخارجية التي يمكنك استخدامها لتطبيقات Finance and Operations.</span><span class="sxs-lookup"><span data-stu-id="07dbd-101">You have two options when considering the external sources that you can use for Finance and Operations apps.</span></span> <span data-ttu-id="07dbd-102">إذا كنت تبحث فقط في استخدام البيانات لتقارير Power BI ومساحات العمل التحليلية الموجودة في Finance and Operations، فإن الخيار الأفضل هو استخدام "مخزن الكيانات".</span><span class="sxs-lookup"><span data-stu-id="07dbd-102">If you are only looking into using data for Power BI reporting and analytical workspaces that are in Finance and Operations, then the best option is to use the Entity Store.</span></span>
+
+<span data-ttu-id="07dbd-103">لمزيد من المعلومات حول تكامل Power BI مع "مخزن الكيانات"، انتقل إلى تكامل [Power BI مع "مخزن الكيانات"](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/power-bi-integration-entity-store/?azure-portal=true).</span><span class="sxs-lookup"><span data-stu-id="07dbd-103">For more information on Power BI integration with the Entity Store, go to [Power BI integration with Entity store](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/power-bi-integration-entity-store/?azure-portal=true).</span></span>
+
+<span data-ttu-id="07dbd-104">إذا كنت ترغب في تصدير البيانات من تطبيقات Finance and Operations إلى مستودع البيانات الخاص بك، فاستخدم أدوات تحليلية بخلاف Power BI التي تتطلب وصول Transact-SQL ‏(T-SQL) إلى البيانات التي تريد تحليلها، وإذا كنت بحاجة إلى تكامل دُفعات مع أنظمة أخرى، فإن BYOD هو المصدر الخارجي الصحيح لك.</span><span class="sxs-lookup"><span data-stu-id="07dbd-104">If you want to export data from Finance and Operations apps to your own data warehouse, use analytical tools other than Power BI that require Transact-SQL (T-SQL) access to the data that you want to analyze, and if you need batch integration with other systems, then BYOD is the correct external source for you.</span></span>
+
+<span data-ttu-id="07dbd-105">بالنسبة إلى BYOD، ستحتاج إلى إنشاء قاعدة بيانات SQL منفصلة يتم استضافتها في Microsoft Azure.</span><span class="sxs-lookup"><span data-stu-id="07dbd-105">For BYOD, you will need to create a separate SQL database that is hosted in Microsoft Azure.</span></span> <span data-ttu-id="07dbd-106">تعتمد الخيارات، مثل قواعد البيانات المتميزة، على احتياجاتك والأدوات التي سيتم دمجها مع بياناتك.</span><span class="sxs-lookup"><span data-stu-id="07dbd-106">The options, such as premium databases, are dependent on your needs and the tools that will be integrating with your data.</span></span>
+
+<span data-ttu-id="07dbd-107">نوصي بالاستفادة من Power BI المضمّن و"مخزن الكيانات" لاستخدام تقارير العمليات الافتراضية كخيار أول لك.</span><span class="sxs-lookup"><span data-stu-id="07dbd-107">We recommend that you take advantage of embedded Power BI and the Entity Store to use the default operations reports as your first choice.</span></span> <span data-ttu-id="07dbd-108">يعتبر BYOD خياراً تكميلياً يمكنك استخدامه كما تريد.</span><span class="sxs-lookup"><span data-stu-id="07dbd-108">BYOD is considered a complementary option that you can use as you require.</span></span> 

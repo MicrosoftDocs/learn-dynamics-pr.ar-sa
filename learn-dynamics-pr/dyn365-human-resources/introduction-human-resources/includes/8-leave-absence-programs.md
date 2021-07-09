@@ -1,0 +1,25 @@
+---
+ms.openlocfilehash: f9ade6566897a4d55d9cfb7acbba431668d77135
+ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "6072673"
+---
+<span data-ttu-id="86039-101">يساعدك Dynamics 365 Human Resources على توفير مزايا إجازات ممتازة للعاملين لديك.</span><span class="sxs-lookup"><span data-stu-id="86039-101">Dynamics 365 Human Resources helps you provide excellent leave benefits to your workers.</span></span> <span data-ttu-id="86039-102">توفر مساحة العمل **‏‫الإجازة والغياب‬** إطاراً مرناً لإنشاء خطط إجازة جديدة.</span><span class="sxs-lookup"><span data-stu-id="86039-102">The **Leave and absence** workspace offers a flexible framework for creating new leave plans.</span></span> <span data-ttu-id="86039-103">كما يوفر أيضاً مهام سير عمل لإدارة الطلبات وصفحة خدمة ذاتية بديهية للموظفين لطلب إجازة.</span><span class="sxs-lookup"><span data-stu-id="86039-103">It also provides workflows for managing requests and an intuitive self-service page for employees to request time off.</span></span> <span data-ttu-id="86039-104">وتساعد التحليلات مؤسستك على قياس أرصدة الإجازات والاستخدام لخطط الإجازات ومراقبتها.</span><span class="sxs-lookup"><span data-stu-id="86039-104">Analytics help your organization measure and monitor leave balances and usage for your leave plans.</span></span>
+
+<span data-ttu-id="86039-105">وتوفر ميزة إدارة الإجازة والغياب إطار عمل مرن لتحديد عملية إدارة الغياب.</span><span class="sxs-lookup"><span data-stu-id="86039-105">The leave and absence management feature offers a flexible framework for defining the absence management process.</span></span> <span data-ttu-id="86039-106">يمكنك إنشاء خطط الإجازة والغياب لتحديد كيفية استحقاق الموظفين للإجازات أو كيفية منحهم للإجازات.</span><span class="sxs-lookup"><span data-stu-id="86039-106">You can create leave and absence plans to determine how employees accrue or are granted time off.</span></span> <span data-ttu-id="86039-107">بعد تسجيل الموظفين في خطة، يمكنهم إرسال طلبات إجازة للموافقة عليها من قبل المديرين.</span><span class="sxs-lookup"><span data-stu-id="86039-107">After employees enroll in a plan, they can submit time-off requests for approval by managers.</span></span>
+
+<span data-ttu-id="86039-108">ويسمح تعقب الإجازات لمديري المستوى الأول ومديري الموارد البشرية بمعرفة الموظفين الذين حصلوا على إجازة وعدد الأيام المتبقية لدى كل موظف.</span><span class="sxs-lookup"><span data-stu-id="86039-108">Leave tracking allows first-level managers and HR managers to see who is taking time off and how much time off that each employee still has.</span></span>
+
+<span data-ttu-id="86039-109">يتيح تطبيق Dynamics 365 Human Resources في Microsoft Teams للموظفين طلب الإجازة بسرعة وعرض معلومات رصيد الإجازات في Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="86039-109">The Dynamics 365 Human Resources app in Microsoft Teams lets employees quickly request time off and view the time-off balance information in Microsoft Teams.</span></span> <span data-ttu-id="86039-110">ويمكن للموظفين التفاعل مع روبوت لطلب المعلومات وبدء طلب إجازة.</span><span class="sxs-lookup"><span data-stu-id="86039-110">Employees can interact with a bot to request information and start a leave request.</span></span> <span data-ttu-id="86039-111">كما يمكنهم إرسال معلومات إلى الآخرين حول الإجازة القادمة خارج تطبيق Human Resources.</span><span class="sxs-lookup"><span data-stu-id="86039-111">They can also send information to others about upcoming time off outside of the Human Resources app.</span></span>
+
+> [!div class="mx-imgBorder"]
+> <span data-ttu-id="86039-112">[![عرض الارصدة في تطبيق Dynamics 365 Human Resources Teams .](../media/teams-view-balances-ss.png)](../media/teams-view-balances-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="86039-112">[![View balances in the Dynamics 365 Human Resources Teams app.](../media/teams-view-balances-ss.png)](../media/teams-view-balances-ss.png#lightbox)</span></span> 
+
+<span data-ttu-id="86039-113">يمكن للمديرين اعتماد طلبات الإجازة في Teams.</span><span class="sxs-lookup"><span data-stu-id="86039-113">Managers can approve time-off requests in Teams.</span></span>
+
+> [!div class="mx-imgBorder"]
+> <span data-ttu-id="86039-114">[![اعتماد طلبات الإجازة في تطبيق Dynamics 365 Human Resources Teams.](../media/teams-approve-requests-ss.png)](../media/teams-approve-requests-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="86039-114">[![Approve leave requests in the Dynamics 365 Human Resources Teams app.](../media/teams-approve-requests-ss.png)](../media/teams-approve-requests-ss.png#lightbox)</span></span>
+
+<span data-ttu-id="86039-115">لمزيد من المعلومات، راجع [نظرة عامة حول الإجازة والغياب](https://docs.microsoft.com/dynamics365/human-resources/hr-leave-and-absence-overview/?azure-portal=true).</span><span class="sxs-lookup"><span data-stu-id="86039-115">For more information, see [Leave and absence overview](https://docs.microsoft.com/dynamics365/human-resources/hr-leave-and-absence-overview/?azure-portal=true).</span></span>

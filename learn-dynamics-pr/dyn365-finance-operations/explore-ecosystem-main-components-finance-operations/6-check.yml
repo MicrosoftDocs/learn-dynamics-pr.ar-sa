@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b5d40d238876df9577a41e9308003bd6e0c8341c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071696"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي مما يلي لا تحتويه الحزمة القابلة للنشر؟
+    choices:
+    - content: كود المصدر
+      isCorrect: true
+      explanation: لا تشتمل الحزم القابلة للنشر على التعليمات البرمجية المصدر. هي تتضمن بيانات التعريف والثنائيات والنماذج.
+    - content: بيانات التعريف
+      isCorrect: false
+      explanation: يتم تضمين بيانات التعريف كملفات XML في الحزمة القابلة للنشر.
+    - content: الثنائيات
+      isCorrect: false
+      explanation: يتم تضمين الثنائيات في الحزم القابلة للنشر.
+    - content: نماذج التطبيق
+      isCorrect: false
+      explanation: يتم استخدام نماذج التطبيقات أثناء إنشاء الحزم القابلة للنشر.
+  - content: ما أنواع التقارير المتوفرة لتطبيقات Finance and Operations؟
+    choices:
+    - content: SQL Server Reporting Services
+      isCorrect: false
+      explanation: تتوفر SQL Server Reporting Services أو تقارير SSRS مع تطبيقات Finance and Operations.
+    - content: Power BI
+      isCorrect: false
+      explanation: يتوفر Power BI بتنسيقات متعددة في تطبيقات Finance and Operations
+    - content: التقارير المالية
+      isCorrect: false
+      explanation: هناك العديد من التقارير المالية المضمنة في تطبيقات Finance and Operations.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: جميع الإجابات صحيحة. تشتمل تقارير تطبيقات Finance and Operations على تقارير SSRS وتقارير Power BI والتقارير المالية عن طريق استخدام مصمم التقارير المالية.
+  - content: أي من نماذج التطبيق التالية يشتمل على معظم العناصر الموجودة في الوحدات النمطية لتطبيقات Finance and Operations؟
+    choices:
+    - content: مركز التطبيق
+      isCorrect: false
+      explanation: في حين أنه توجد عناصر في نموذج مركز التطبيق، فإن معظم العناصر غير مدرجة في هذا النموذج.
+    - content: أساس التطبيق
+      isCorrect: false
+      explanation: تم العثور على بعض العناصر في نموذج أساس التطبيق، ولكن الجزء الأكبر موجود في مجموعة التطبيق.
+    - content: مجموعة التطبيق
+      isCorrect: true
+      explanation: يتم العثور على معظم العناصر التي تشكل الوحدات النمطية لتطبيقات Finance and Operations في مجموعة التطبيق.
+    - content: النظام الأساسي للتطبيق
+      isCorrect: false
+      explanation: لا يشتمل نموذج النظام الأساسي للتطبيق على بعض العناصر ولكن معظم العناصر موجودة في مجموعه التطبيق.

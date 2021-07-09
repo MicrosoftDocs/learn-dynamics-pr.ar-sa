@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.7-exercise-import-a-user-and-assign-security-role
+title: تدريب - استيراد مستخدم وتعيين دور أمان له
+metadata:
+  title: تدريب - استيراد مستخدم وتعيين دور أمان له
+  description: تدرب على استيراد مستخدم وتعيين دور أمان في تطبيقات Finance and Operations.
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d0691c4af662ba895fbdcfd23a4b31efdda9b74f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071325"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-exercise-import-a-user-and-assign-security-role.md)]

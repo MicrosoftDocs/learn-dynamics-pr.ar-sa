@@ -1,0 +1,27 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.9-exercise-create-consolidated-report-organization-hierarchy
+title: معمل - إنشاء تقرير مُجمع باستخدام التدرج الهرمي للمؤسسة
+labId: 76399
+metadata:
+  title: معمل - إنشاء تقرير مُجمع باستخدام التدرج الهرمي للمؤسسة
+  description: ‏‫التدرّب على إنشاء تقرير مُجمع باستخدام التدرج الهرمي للمؤسسة في تطبيقات Finance and Operations.
+  ms.date: 07/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 67477143b5b9e407aadd1dd1a3ab03c6c11df9f9
+  ms.sourcegitcommit: 2ab9511cb587be3de564a422c843360dd7b7c61f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2020
+  ms.locfileid: "6072045"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs-2.md)]
+
+  [!include[](includes/9-exercise-create-consolidated-report-organization-hierarchy.md)]
+
+  [!include[](../includes/non-final-lab-end.md)]

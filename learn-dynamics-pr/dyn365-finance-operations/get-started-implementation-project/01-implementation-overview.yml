@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-implementation-project.01-implementation-overview
+title: نظرة عامة على مشروع التنفيذ
+metadata:
+  title: نظرة عامة على مشروع التنفيذ
+  description: تقدم هذه الوحدة نظرة عامة على مشروع تنفيذ Finance and Operations.
+  ms.date: 03/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: bdea30e8a897c968d5f5b96ff2fd55daf38af2c3
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071740"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-implementation-overview.md)]"

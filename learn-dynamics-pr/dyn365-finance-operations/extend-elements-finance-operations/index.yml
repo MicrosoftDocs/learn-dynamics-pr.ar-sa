@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.extend-elements-dynamics-365-finance-operations
+metadata:
+  title: توسيع العناصر في تطبيقات Finance and Operations
+  description: يتم تخصيص العناصر في تطبيقات Finance and Operations من خلال الملحقات لمساعدتك في تعديل الخصائص أو إضافة مكونات أو إزالة عناصر التحكم.
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fd043d22da2cb229012d21ce2b6d6c4dc84c7448
+  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2021
+  ms.locfileid: "6072564"
+title: توسيع العناصر في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يتم تخصيص العناصر في تطبيقات Finance and Operations من خلال الملحقات لمساعدتك في تعديل الخصائص أو إضافة مكونات أو إزالة عناصر التحكم.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء ملحقات لتخصيص تطبيقات Finance and Operations.\n- توسيع جدول.\n- إنشاء ملحق النموذج.\n"
+prerequisites: >
+  - الإلمام بتطبيقات Finance and Operations
+
+  - خبرة متوسطة بالترميز في X++، بما في ذلك إنشاء ملحقات الفئات
+
+  - معرفه إطار عمل الملحق في تطبيقات Finance and Operations
+
+  - فهم كيفية إنشاء ملحق فئة جديد وإضافة أساليب جديدة
+
+  - معرفة كيفية إضافة أساليب معالج الأحداث إلى فئة
+iconUrl: /learn/achievements/extend-elements-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.extend-elements-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.extend-elements-dynamics-365-finance-operations.2-table
+- learn-dynamics.extend-elements-dynamics-365-finance-operations.3-form
+- learn-dynamics.extend-elements-dynamics-365-finance-operations.4-exercise
+- learn-dynamics.extend-elements-dynamics-365-finance-operations.5-check
+- learn-dynamics.extend-elements-dynamics-365-finance-operations.6-summary
+badge:
+  uid: learn-dynamics.extend-elements-dynamics-365-finance-operations.badge

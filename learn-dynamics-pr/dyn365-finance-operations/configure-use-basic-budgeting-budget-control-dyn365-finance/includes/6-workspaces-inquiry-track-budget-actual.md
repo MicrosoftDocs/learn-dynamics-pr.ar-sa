@@ -1,0 +1,25 @@
+---
+ms.openlocfilehash: 316b06cf3b7fc56d56f8a5ed10da3d08f0639df2
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6071120"
+---
+<span data-ttu-id="f3208-101">يمكن لمدير الموازنة مراجعة الحالة الحالية للموازنة في مساحة عمل **موازنات دفتر الأستاذ والتنبؤات** .</span><span class="sxs-lookup"><span data-stu-id="f3208-101">The budget manager can review the current state of a budget in the **Ledger budgets and forecasts** workspace.</span></span>
+
+<span data-ttu-id="f3208-102">توفر علامتا التبويب **المصروفات أعلى من الموازنة**  و **الإيرادات أقل من الموازنة** علامة تبويب سريعة لعرض مجموعات الأبعاد المالية التي لا يتم فيها استيفاء أهداف الموازنة أو تقترب من الحد.</span><span class="sxs-lookup"><span data-stu-id="f3208-102">The **Expense over budget** and **Revenue under budget** tabs provide a quick view of the financial dimension combinations where budget targets aren't being met or are approaching the threshold.</span></span>
+
+<span data-ttu-id="f3208-103">يمكنك تخصيص النسبة المئوية لحد الموازنة ومجموعات الأبعاد المالية المستخدمة في علامات التبويب هذه عن طريق تحديد **تكوين مساحة العمل الخاصة بي**.</span><span class="sxs-lookup"><span data-stu-id="f3208-103">You can personalize the budget threshold percentage and financial dimension sets that are used on those tabs by selecting **Configure my workspace**.</span></span>
+
+<span data-ttu-id="f3208-104">يمكنك النقر فوق **مديرو الوحدات** لعرض العاملين المسؤولين عن مجموعات الأبعاد المالية المحددة التي يتم تحديدها في علامات التبويب هذه.</span><span class="sxs-lookup"><span data-stu-id="f3208-104">You can click **Unit managers** to view the workers who are responsible for specific financial dimension combinations that are selected on those tabs.</span></span>
+
+<span data-ttu-id="f3208-105">على سبيل المثال، إذا لاحظت أن موازنة المصروفات الخاصة بقسم العمليات ستتجاوز حد الموازنة، فيمكنك العثور على مدير قسم العمليات والاتصال به بسهولة لمناقشة المشكلة.</span><span class="sxs-lookup"><span data-stu-id="f3208-105">For example, if you notice that the expense budget of the Operations department is going over the budget threshold, you can easily find and contact the Operations department manager to discuss the issue.</span></span>
+
+![لقطة شاشة لصفحة مساحة عملي.](../media/configure-my-workspace.png)
+
+<span data-ttu-id="f3208-107">يحدد الحقل **مدير القسم** في صفحة **وحدات المؤسسة** المديرين الذين يدعمون مجموعات الأبعاد المالية المحددة.</span><span class="sxs-lookup"><span data-stu-id="f3208-107">The **Department manager** field on the **Organization Units** page determines which managers support specific financial dimension combinations.</span></span> <span data-ttu-id="f3208-108">حدد **راجع المزيد** أسفل علامة التبويب لفتح صفحة الاستعلام **الموازنة مقابل البيانات الفعلية** لمزيد من التفاصيل حول مبالغ الموازنة مقابل المبالغ الفعلية.</span><span class="sxs-lookup"><span data-stu-id="f3208-108">Select **See more** at the bottom of the tab to open the **Budget vs actuals** inquiry page for more details about budget amounts versus actual amounts.</span></span>
+
+<span data-ttu-id="f3208-109">تتيح لك صفحة الاستعلام **الموازنة مقابل البيانات الفعلية** إمكانية التنقل في تفاصيل الموازنة مقابل المبالغ الفعلية.</span><span class="sxs-lookup"><span data-stu-id="f3208-109">The **Actual vs budget** inquiry page lets you drill into the details of the budget versus actual amounts.</span></span> <span data-ttu-id="f3208-110">حدد بنداً في صفحة الاستعلام، ثم حدد **أرصدة الفترة** لعرض الموازنة والمبالغ الفعلية التي تنتشر عبر فترات مالية.</span><span class="sxs-lookup"><span data-stu-id="f3208-110">Select a line on the inquiry page, and then select **Period balances** to view budget and actual amounts that are spread across fiscal periods.</span></span> <span data-ttu-id="f3208-111">توفر صفحة **إدخالات حساب الموازنة** تصفحاً لتفاصيل مبلغ الموازنة في إدخالات سجل الموازنة.</span><span class="sxs-lookup"><span data-stu-id="f3208-111">The **Budget account entries** page provides drill-through to the details of the budget amount in budget register entries.</span></span> <span data-ttu-id="f3208-112">تفتح صفحة **إدخالات دفتر اليومية العام** حركات دفتر الأستاذ المضمنة في المبلغ الفعلي المحتسب.</span><span class="sxs-lookup"><span data-stu-id="f3208-112">The **General journal entries** page opens the ledger transactions that are included in the calculated Actuals amount.</span></span>
+
+<span data-ttu-id="f3208-113">يمكن للشركة التي تستخدم وظيفة تخطيط الموازنة إنشاء تنبؤات بالموازنة واستخدامها في مساحة العمل **موازنات دفتر الأستاذ والتنبؤات**.</span><span class="sxs-lookup"><span data-stu-id="f3208-113">A company that is using Budget planning functionality can create and use budget forecasts in the **Ledger budgets and forecasts** workspace.</span></span>

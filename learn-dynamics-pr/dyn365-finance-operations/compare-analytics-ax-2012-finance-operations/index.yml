@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.compare-analytics-ax-2012-finance-operations
+metadata:
+  title: مقارنة التقارير والتحليلات في تطبيقات Finance and Operations مع Dynamics AX 2012
+  description: تتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات Finance and Operations أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة.
+  ms.date: 03/09/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 50d4a791f181de75badf6d39b510768c1c95a99c
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072413"
+title: مقارنة التقارير والتحليلات في تطبيقات Finance and Operations مع Dynamics AX 2012
+summary: "[!include[](../includes/module-banner.md)] \nتتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات Finance and Operations أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- إعداد التقارير وتحليل Power BI المستخدم مع AX 2012.\n- تتوفر خيارات إعداد التقارير في تطبيقات Finance and Operations.\n- خدمات تصدير البيانات في تطبيقات Finance and Operations.\n- كيفية تحديث مستودع البيانات الخاص بك.\n- كيفية تحديث التحليلات والتقارير الخاصة بك.\n"
+prerequisites: "- معرفه Dynamics AX 2012\n- فهم إمكانيات إعداد التقارير  \n"
+iconUrl: /learn/achievements/compare-analytics-ax-2012-finance-operations.svg
+levels:
+- intermediate
+roles:
+- solution-architect
+- functional-consultant
+- administrator
+products:
+- dynamics-finance-operations
+- dynamics-scm
+- dynamics-finance
+units:
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.01-introduction
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.02-report-power-bi-analysis
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.03a-report-options
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.03-data-export-components
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.04-modernize-data-warehouse
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.05-modernize-analytics-report
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.06-check
+- learn-dynamics.compare-analytics-ax-2012-finance-operations.07-summary
+badge:
+  uid: learn-dynamics.compare-analytics-ax-2012-finance-operations.badge

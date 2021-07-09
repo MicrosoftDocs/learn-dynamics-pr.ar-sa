@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-asset-management.04-4-integration
+title: قدرات تكامل إدارة الأصول
+metadata:
+  title: قدرات تكامل إدارة الأصول
+  description: تصف هذه الوحدة قدرات تكامل إدارة الأصول
+  ms.date: 12/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a5d6486334d93f89195930a6477129e533754e0f
+  ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/15/2020
+  ms.locfileid: "6072112"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-4-integration.md)]"

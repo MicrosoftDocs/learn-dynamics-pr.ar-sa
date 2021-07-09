@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-functional-locations-asset-management.07-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e53013e0f1b5981f1e0f3aa5f1eb605a47c0049e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071165"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: عند إغلاق موقع العمل، تقوم بتعيين حالة دورة حياة العمل على "منتهية"، لكن يجب أيضاً تغيير حالة دورة الحياة الخاصة بالأصول التي تم تثبيتها في هذا الموقع على" ليست قيد الاستخدام". فأي صفحة وحقل تستخدمهما لتحديث حالة الأصل تلقائياً؟
+    choices:
+    - content: نموذج دورة الحياة
+      isCorrect: false
+      explanation: يسمح لك الحقل "نموذج دورة الحياة" بإنشاء عمليات تجميع متنوعة للتدفقات الخاصة بأنواع مختلفة من مواقع العمل.
+    - content: حالة دورة الحياة
+      isCorrect: true
+      explanation: من خلال تحديد حالة دورة الحياة على أنها "ليست قيد الاستخدام" في العمود "حالة الأصل"، يقوم النظام تلقائياً بتحديث حالة الأصل المرتبطة على "ليست قيد الاستخدام" عند تغيير حالة دورة حياة العمل إلى "منتهية".
+    - content: تم تحديد حالات دورة الحياة
+      isCorrect: false
+      explanation: "\"تم تحديد حالات دورة الحياة\" عبارة عن مربع قسم يسمح لك باختيار العديد من حالات دورة الحياة المراد تضمينها في نموذج دورة الحياة."
+  - content: (املأ المساحة الفارغة) يتم استخدام _______________ لإدارة المتطلبات الخاصة بمواقع العمل، بما في ذلك كيفية تثبيت الأصول على موقع العمل.
+    choices:
+    - content: حالات دورة حياة العمل
+      isCorrect: false
+      explanation: تحدد حالات دورة حياة العمل العديد من الحالات التي يمكن أن يمر بها موقع العمل.
+    - content: نماذج دورة حياة العمل
+      isCorrect: false
+      explanation: تقوم نماذج دورة حياة العمل بإنشاء تدفق دورة الحياة الذي يمكن استخدامه لأنواع مختلفة من مواقع العمل.
+    - content: أنواع مواقع العمل
+      isCorrect: true
+      explanation: تُستخدم أنواع مواقع العمل لإدارة المتطلبات المتنوعة المرتبطة بمواقع العمل.
+  - content: يمكن إنشاء أنواع السمات لأنواع مواقع العمل والأصول و______________ (املأ المساحة الفارغة).
+    choices:
+    - content: جدولة أمر العمل
+      isCorrect: false
+      explanation: لا يمكنك إنشاء أنواع سمات لجدولة أمر العمل.
+    - content: مواقع العمل
+      isCorrect: true
+      explanation: عند إنشاء موقع عمل، يمكنك إضافة أنواع السمات للمساعدة على تحديد متطلبات سمة الأصل.
+    - content: طلبات الصيانة
+      isCorrect: false
+      explanation: لا يمكنك إنشاء أنواع سمات لطلبات الصيانة.
+    - content: حالات دورة الحياة
+      isCorrect: false
+      explanation: لا يمكنك إنشاء سمة لتحديد حالة دورة حياة.

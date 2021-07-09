@@ -1,0 +1,24 @@
+---
+ms.openlocfilehash: 9dca3d515a896894c8aa07dc9f07ba584cf31ea6
+ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "6072777"
+---
+<span data-ttu-id="eaa67-101">قد يقوم العامل الذي يتم توظيفه من قِبل أحد الكيانات القانونية في إحدى المؤسسات بأداء عمل لكيان قانوني آخر في المؤسسة نفسها.</span><span class="sxs-lookup"><span data-stu-id="eaa67-101">A worker who is employed by one legal entity in an organization might perform work for another legal entity in the same organization.</span></span> <span data-ttu-id="eaa67-102">وفي هذه الحالة، يمكنك استخدام ميزة المصروفات بين شركات شقيقة لتعيين مصروفات العامل إلى الكيان القانوني الذي تم إجراء العمل لصالحه.</span><span class="sxs-lookup"><span data-stu-id="eaa67-102">In this situation, you can use the intercompany expense feature to assign the worker’s expenses to the legal entity for which the work was performed.</span></span> <span data-ttu-id="eaa67-103">يُشار إلى الكيان القانوني الذي يوظف العامل باسم الكيان القانوني المُقرض.</span><span class="sxs-lookup"><span data-stu-id="eaa67-103">The legal entity that employs the worker is referred to as the "loaning legal entity."</span></span> <span data-ttu-id="eaa67-104">ويشار إلى الكيان القانوني الذي يتكبد العامل المصروفات لصالحه باسم "الكيان القانوني المقترض".</span><span class="sxs-lookup"><span data-stu-id="eaa67-104">The legal entity for which the worker incurs expenses is referred to as the "borrowing legal entity."</span></span>
+
+## <a name="set-up-tax-posting-for-intercompany-expenses"></a><span data-ttu-id="eaa67-105">إعداد ترحيل الضريبة للمصروفات بين شركات شقيقة</span><span class="sxs-lookup"><span data-stu-id="eaa67-105">Set up tax posting for intercompany expenses</span></span>
+
+<span data-ttu-id="eaa67-106">إذا كنت ترغب في استخدام مجموعات ضرائب انتفاع مرتبطة بالكيان القانوني المُقرض بدلاً من الكيان القانوني المقترض في تقرير المصروفات، فيجب عليك تكوينها في الصفحة **معلمات دفتر الأستاذ العام**، في علامة التبويب السريعة **ضريبة المبيعات**.</span><span class="sxs-lookup"><span data-stu-id="eaa67-106">If you want to use tax groups that are associated with the loaning legal entity instead of the borrowing legal entity in your expense report, you must configure it on the **General ledger parameters** page, on the **Sales tax** FastTab.</span></span> <span data-ttu-id="eaa67-107">عند تعيين الحقل **الكيان القانوني لترحيل الضريبة بين شركات شقيقة** على **المصدر** وتعيين الحقل **تطبيق قواعد فرض ضريبة المبيعات** على **لا**، سيتم استخدام مجموعة الضريبة للكيان القانوني المُقرض.</span><span class="sxs-lookup"><span data-stu-id="eaa67-107">When the **Legal entity for intercompany tax posting** field is set to **Source** and the **Apply sales tax taxation rules** field is set to **No**, the tax combination for the loaning legal entity will be used.</span></span>
+
+<span data-ttu-id="eaa67-108">[ ![ لقطة شاشة للصفحة "معلمات دفتر الأستاذ العام".](../media/intercompany-sales-tax-ssm.png)](../media/intercompany-sales-tax-ssm.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="eaa67-108">[ ![ Screenshot of the General ledger parameters page.](../media/intercompany-sales-tax-ssm.png)](../media/intercompany-sales-tax-ssm.png#lightbox)</span></span>
+
+
+<span data-ttu-id="eaa67-109">إذا تم تعيين الحقل **الكيان القانوني لترحيل الضريبة بين شركات شقيقة** على **الوجهة**، فإنه يتم استخدام مجموعة الضريبة للكيان القانوني المقترض.</span><span class="sxs-lookup"><span data-stu-id="eaa67-109">If the **Legal entity for intercompany tax posting** field is set to **Destination**, the tax combination for the borrowing legal entity is used.</span></span> <span data-ttu-id="eaa67-110">قد يكون لدى المقاطعات والمناطق قواعد مختلفة.</span><span class="sxs-lookup"><span data-stu-id="eaa67-110">Counties and regions might have different rules.</span></span> 
+
+<span data-ttu-id="eaa67-111">على سبيل المثال، في الولايات المتحدة، عند تعيين هذه المعلمة على **المصدر**، يجب أيضاً تكوين الحقل **ضريبة المبيعات مستحقة القبض** في الصفحة الجديدة **مجموعات ترحيل دفتر الأستاذ**.</span><span class="sxs-lookup"><span data-stu-id="eaa67-111">For example, in the United States, when this parameter is set to **Source**, the **Sales tax receivable** field must also be configured on the new **Ledger posting groups** page.</span></span> 
+
+<span data-ttu-id="eaa67-112">ويستخدم مشغل المحاسبة المعلومات من هذا الحقل لإدخال المحاسبة المرتبط بالضريبة.</span><span class="sxs-lookup"><span data-stu-id="eaa67-112">The accounting engine uses the information from this field for tax-related accounting entry.</span></span> <span data-ttu-id="eaa67-113">ويكون السلوك متسقاً لبنود المصروفات التي يتم ترحيلها مع مشروع أو من دونه.</span><span class="sxs-lookup"><span data-stu-id="eaa67-113">The behavior is consistent for expense lines that are posted with or without a project.</span></span>
+
+

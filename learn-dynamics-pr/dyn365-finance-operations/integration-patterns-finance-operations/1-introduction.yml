@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations.1-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تقدم هذه الوحدة تعريف أنماط وسيناريوهات تكامل البيانات في وحدة تطبيقات Finance and Operations.
+  ms.date: 07/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b0733762a0f874c494cf25790f4b5b9a1adc6bf7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071338"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction.md)]

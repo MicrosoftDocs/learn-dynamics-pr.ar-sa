@@ -1,0 +1,44 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.extending-dynamics-365-finance-operations
+metadata:
+  title: توسيع تطبيقات Finance and Operations
+  description: تسمح الملحقات للمطورين بإجراء تغييرات على تجربة المستخدم النهائي في تطبيقات Finance and Operations من خلال تنفيذ تعديلات على التعليمات البرمجية التي لا تؤثر على التعليمات البرمجية الأساسية. ومن بين المزايا الأخرى، تتيح الملحقات للمطورين تحديث تطبيقات Finance and Operations للالتزام بعمليات الأعمال والتغييرات المطلوبة.
+  ms.date: 07/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f227035fb1300d86351205d7248a45262d271d21
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074759"
+title: توسيع تطبيقات Finance and Operations
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  تسمح الملحقات للمطورين بإجراء تغييرات على تجربة المستخدم في تطبيقات Finance and Operations من خلال تنفيذ تعديلات على التعليمات البرمجية التي لا تؤثر على التعليمات البرمجية الأساسية. ومن بين المزايا الأخرى، تتيح الملحقات للمطورين تحديث تطبيقات Finance and Operations للالتزام بعمليات الأعمال والتغييرات المطلوبة.
+prerequisites: >
+  - المعرفة والخبرة الأساسية للتطوير الموجه للعناصر.
+
+  - مهارات التطوير الأساسية في تطبيقات Finance and Operations.
+
+  - المعرفة العامة بأنظمة تخطيط موارد المؤسسات (ERP).
+
+  - المعرفة الأساسية ببيئة التطوير المتكامل (IDE) أو Visual Studio.
+iconUrl: /learn/achievements/extending-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations
+- learn-dynamics.extend-elements-dynamics-365-finance-operations
+- learn-dynamics.business-events-dynamics-365-finance-operations
+trophy:
+  uid: learn-dynamics.extending-dynamics-365-finance-operations.trophy

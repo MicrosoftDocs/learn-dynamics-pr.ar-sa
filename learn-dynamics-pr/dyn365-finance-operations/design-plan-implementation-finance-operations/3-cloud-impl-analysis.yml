@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.3-cloud-impl-analysis
+title: تنفيذ السحابة - التحليل
+metadata:
+  title: تنفيذ السحابة - التحليل
+  description: تعد هذه الوحدة ملخصاً للخطوات الواردة في خطوة التحليل الخاصة بتنفيذ السحابة لتطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 59d45f8fd8377786195ed21054eb450f5a875470
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071391"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-cloud-impl-analysis.md)]
