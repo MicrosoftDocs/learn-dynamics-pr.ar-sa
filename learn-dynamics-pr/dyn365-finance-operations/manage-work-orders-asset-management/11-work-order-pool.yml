@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-work-orders-asset-management.11-work-order-pool
+title: أوعية أوامر العمل
+metadata:
+  title: أوعية أوامر العمل
+  description: تصف هذه الوحدة أوعية أوامر العمل
+  ms.date: 02/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 968f31c673bf363a91761fadb64a3c11faa46076
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071519"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-work-order-pool.md)]"

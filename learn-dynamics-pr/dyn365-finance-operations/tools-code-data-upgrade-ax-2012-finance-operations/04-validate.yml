@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tools-code-data-upgrade-ax-2012-finance-operations.04-validate
+title: مرحلة التحقق من الصحة
+metadata:
+  title: مرحلة التحقق من الصحة
+  description: تعرف على المهام المضمنة في مرحلة التحقق من الصحة لعملية الترقية من Dynamics AX 2012 إلى تطبيقات Finance and Operations.
+  ms.date: 02/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e003c84c9d43b5bf3cb9b76b13684e324ad30858
+  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6072286"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-validate.md)]"

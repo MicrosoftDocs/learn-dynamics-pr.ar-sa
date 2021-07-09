@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.9-on-premises-impl-test-deploy-and-operate
+title: التنفيذ المحلي - الاختبار والنشر والتشغيل
+metadata:
+  title: التنفيذ المحلي - الاختبار والنشر والتشغيل
+  description: تلخص هذه الوحدة خطوات اختبار ونشر عملية تنفيذ تطبيقات Finance and Operations محلياً.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fd4bc5d8ba39f4883b91d93d2fb9ac089e4a2671
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071987"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-on-premises-impl-test-deploy-and-operate.md)]

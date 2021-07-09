@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-discrete-bom-route-versioned-products-scm.9-exercise
+title: تمرين - إنشاء منتج هندسي وإصداره
+metadata:
+  title: تمرين - إنشاء منتج هندسي وإصداره
+  description: خطوات إنشاء منتج هندسي وإصداره.
+  ms.date: 04/30/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 3401b9a41c3afefc49741301c6dac6e80de3386b
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072576"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-exercise.md)]"

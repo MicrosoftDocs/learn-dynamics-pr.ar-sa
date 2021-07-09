@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.7-prepare-go-live-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4c46290d36452b0942316f3440e3afead8f5714f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071255"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: عميلك جاهز لبدء العرض المباشر وطلب منك توزيع بيئة التشغيل. ما الذي يجب عمله أولاً؟
+    choices:
+    - content: يجب عليك توزيع بيئة جديدة ثم تطلق عليها بيئة تشغيل.
+      isCorrect: false
+      explanation: يجب على جميع عملاء تطبيقات Finance and Operations استكمال مراجعة العرض المباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك.
+    - content: اتصل بالدعم الهندسي Dynamics Service Engineering (DSE).
+      isCorrect: false
+      explanation: يجب على العميل طلب توزيع بيئة التشغيل وإرساله إلى Microsoft فقط بعد انتهاء المهندس المعماري الخاص بـ FastTrack من التقييم.
+    - content: استكمل مراجعة العرض المباشر مع فريق Microsoft FastTrack.
+      isCorrect: true
+      explanation: يجب على جميع عملاء تطبيقات Finance and Operations استكمال مراجعة العرض المباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك.
+  - content: عميلك جاهز لبدء العرض المباشر وطلب منك توزيع بيئة التشغيل من خلال اتصاله بفريق Microsoft FastTrack. ماذا يحدث بعد ذلك؟
+    choices:
+    - content: يقوم فريق Microsoft FastTrack بتوزيع بيئة التشغيل الخاصة بك.
+      isCorrect: false
+      explanation: لم يقم فريق Microsoft FastTrack بتوزيع بيئة التشغيل الخاصة بك.
+    - content: يقوم دعم Dynamics Service Engineering (DSE) بتوزيع بيئة التشغيل الخاصة بك.
+      isCorrect: false
+      explanation: يقوم دعم Dynamics Service Engineering (DSE) بتوزيع بيئة التشغيل بعد أن يستكمل فريق Microsoft FastTrack إنهاء التقييم.
+    - content: يراجع فريق Microsoft FastTrack المشروع ويقدم تقييماً.
+      isCorrect: true
+      explanation: بعد إرسال قائمة التحقق، سيقوم المهندس المعماري المعني بحلول Microsoft بمراجعة المشروع وتقديم تقييم يصف المخاطر المحتملة وأفضل الممارسات والتوصيات لبدء عرض مباشر ناجح للمشروع. في بعض الحالات، قد يقوم مهندس الحلول بتمييز عوامل المخاطرة وطلب خطة تقليل الأثر. عند اكتمال التقييم، سيشير المهندس المعماري للحلول إلى جاهزيتك لطلب بيئة الإنتاج في LCS.
+  - content: يطلب عميلك نسخة من قاعدة البيانات لاستعادتها في بيئة وضع الحماية. من المسؤول عن هذه العملية؟
+    choices:
+    - content: مسؤول خادم SQL Server
+      isCorrect: false
+      explanation: لا يمكن لمسؤول SQL تقييم بيئة التشغيل. تتم إدارتها بواسطة Dynamics Service Engineering (DSE).
+    - content: فريق Microsoft FastTrack
+      isCorrect: false
+      explanation: لا يتحمل فريق Microsoft FastTrack مسؤولية إنشاء نسخة من قاعده بيانات التشغيل.
+    - content: الدعم الهندسي Dynamics Service Engineering (DSE)
+      isCorrect: true
+      explanation: إذا احتاج العميل إلى طلب نسخة من قاعدة البيانات لاستعادتها إلى بيئة وضع الحماية، فيجب عليك إرسال الطلب إلى Dynamics Service Engineering (DSE) لنسخ قاعدة بيانات التشغيل وإتاحتها في مكتبة الأصول الخاصة بمشروع LCS.

@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.navigating-in-f-and-o
+metadata:
+  title: التنقل في تطبيقات Finance and Operations
+  description: توضح هذه الوحدة كيفية التنقل في تطبيقات Finance and Operations.
+  ms.date: 02/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8b4bc6e5257c70a52f9e74a1867602a08d436bb8
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072191"
+title: التنقل في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تعرف على اكتشاف كيفية التنقل في تطبيقات Finance and Operations وتحديد موقع ما تحتاجه بسرعة.
+abstract: "سوف تتعرف في هذه الوحدة على: \n- كيف تعمل مساحات العمل على زيادة الإنتاجية\n- تقنيات التصفية\n- البحث في تطبيقات Finance and Operations\n- مقارنة طرق العرض\n- أوضاع العرض والتحرير\n"
+prerequisites: بلا
+iconUrl: /learn/achievements/navigating-in-f-and-o.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.navigating-in-f-and-o.1-navigating-in-f-and-o-introduction
+- learn-dynamics.navigating-in-f-and-o.2-navigation-elements
+- learn-dynamics.navigating-in-f-and-o.3-workspaces-driving-productivity
+- learn-dynamics.navigating-in-f-and-o.4-filtering-techniques
+- learn-dynamics.navigating-in-f-and-o.5-searching
+- learn-dynamics.navigating-in-f-and-o.6-comparing-views
+- learn-dynamics.navigating-in-f-and-o.7-view-and-edit-mode
+- learn-dynamics.navigating-in-f-and-o.9-navigating-in-f-and-o-quiz
+- learn-dynamics.navigating-in-f-and-o.8-navigating-in-f-and-o-summary
+badge:
+  uid: learn-dynamics.navigating-in-f-and-o.badge

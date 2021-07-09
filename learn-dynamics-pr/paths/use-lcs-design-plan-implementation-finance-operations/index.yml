@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+metadata:
+  title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
+  description: تُعد Lifecycle Services بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام.
+  brand: dynamics
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operation
+  ms.openlocfilehash: 471f3977404da079906d2f8cfc82664f2e99d327
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074763"
+title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتُعد Lifecycle Services (LCS) بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام. \n"
+prerequisites: >
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية.
+iconUrl: /learn/achievements/use-lcs-to-design-and-plan-an-implementation-of-f-and-o.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- administrator
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-with-lcs
+- learn-dynamics.design-plan-implementation-in-f-and-o
+trophy:
+  uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o.trophy

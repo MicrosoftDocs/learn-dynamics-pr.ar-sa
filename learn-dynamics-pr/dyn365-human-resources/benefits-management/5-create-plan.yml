@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.benefits-management.5-create-plan
+title: إنشاء خطط الميزة
+metadata:
+  title: إنشاء خطط الميزة
+  description: تعرَّف على كيفية إنشاء خطط الميزة خطوة بخطوة.
+  ms.date: 04/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 180c9ffd19a520efea5bb501c66cf8197047b8cb
+  ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/07/2021
+  ms.locfileid: "6072703"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-create-plan.md)]"

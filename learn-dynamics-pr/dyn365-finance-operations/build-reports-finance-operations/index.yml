@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.build-reports-dynamics-365-finance-operations
+metadata:
+  title: إنشاء تقارير لتطبيقات Finance and Operations
+  description: لدى المؤسسات الكثير من البيانات. عند زيادة حجم إحدى المؤسسات، تصبح قدرتها على توفير سياق لجميع تلك البيانات ذات أهمية متزايدة. يمكن للتقارير تنظيم البيانات بطريقة مفيدة. تتضمن تطبيقات Finance and Operations أدوات إعداد التقارير لمساعدتك في إنشاء تقارير لمؤسستك وSQL Server Reporting Services (SSRS) وMicrosoft Power BI وتقارير Microsoft Excel. يمكنك استخدام أدوات إعداد التقارير هذه لتصور مجموعة بيانات بعدة طرق، بما في ذلك كتخطيط جدولي مع جداول قابلة للطي وباستخدام لوحات المعلومات. ستقوم خلال هذه الوحدة ببناء أساس لتصميم التقارير وإنشائها وتعديلها.
+  ms.date: 06/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 109552bcd859af7986f5ff5438a6e562af2ddf86
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072231"
+title: إنشاء تقارير لتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nلدى المؤسسات الكثير من البيانات. عند زيادة حجم إحدى المؤسسات، تصبح قدرتها على توفير سياق لجميع تلك البيانات ذات أهمية متزايدة. يمكن للتقارير تنظيم البيانات بطريقة مفيدة. تتضمن تطبيقات Finance and Operations أدوات إعداد التقارير لمساعدتك في إنشاء تقارير لمؤسستك وSQL Server Reporting Services (SSRS) وMicrosoft Power BI وتقارير Microsoft Excel. يمكنك استخدام أدوات إعداد التقارير هذه لتصور مجموعة بيانات بعدة طرق، بما في ذلك كتخطيط جدولي مع جداول قابلة للطي وباستخدام لوحات المعلومات. ستقوم خلال هذه الوحدة ببناء أساس لتصميم التقارير وإنشائها وتعديلها. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصميم تقارير SSRS وإنشائها وتعديلها.\n- قم بإنشاء تقرير Power BI وتعديله باستخدام بيانات تطبيقات Finance and Operations.\n- قم بإنشاء تقرير Excel وتعديله باستخدام بيانات تطبيقات Finance and Operations.\n"
+prerequisites: >
+  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+
+  - الفهم الأساسي للبرمجة الموجهة للكائنات
+iconUrl: /learn/achievements/build-reports-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.build-reports-dynamics-365-finance-operations.01-ssrs-reports
+- learn-dynamics.build-reports-dynamics-365-finance-operations.02-power-bi-reports
+- learn-dynamics.build-reports-dynamics-365-finance-operations.03-excel-reports
+- learn-dynamics.build-reports-dynamics-365-finance-operations.04-exercise-deploy-report
+- learn-dynamics.build-reports-dynamics-365-finance-operations.05-check
+- learn-dynamics.build-reports-dynamics-365-finance-operations.06-summary
+badge:
+  uid: learn-dynamics.build-reports-dynamics-365-finance-operations.badge

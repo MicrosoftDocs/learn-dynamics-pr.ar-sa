@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-extensibility-finance-operations.4-augment-source-code
+title: زيادة الكود المصدر
+metadata:
+  title: زيادة الكود المصدر
+  description: تعرف على كيفية زيادة الكود المصدر باستخدام إطار عمل قابلية التوسعة في تطبيقات Finance and Operations.
+  ms.date: 03/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: bf1b76c54fcfa53b3648eff94d4f50383134bd87
+  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6072538"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-augment-source-code.md)]"

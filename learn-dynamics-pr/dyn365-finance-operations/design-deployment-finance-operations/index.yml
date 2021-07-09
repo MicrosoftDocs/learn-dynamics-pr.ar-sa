@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.design-deployment-dynamics-365-finance-operations
+metadata:
+  title: استكشاف اعتبارات التصميم والنشر لتطبيقات Finance and Operations
+  description: سيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات Finance and Operations، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2a60d61fa6847051cba8125b10e722c59051ad40
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072209"
+title: استكشاف اعتبارات التصميم والنشر لتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nسيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات Finance and Operations، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أنماط التصميم وعملية نشر التعليمات البرمجية.\n- تحديد استراتيجيات نشر التعليمات البرمجية.\n- التعرف على المهام والأنشطة الخاصة بما بعد النشر.\n"
+prerequisites: "- المعرفة الأساسية لتطوير التعليمات البرمجية \n- المعرفة الأساسية لترقية التعليمات البرمجية والتحكم في الإصدار من خلال Visual Studio DevOps\n- الإلمام بـ Microsoft Dynamics Lifecycle Services\n- الإلمام بتطبيقات Finance and Operations\n"
+iconUrl: /learn/achievements/design-deployment-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.2-business
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.3-specs
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.4-gaps
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.5-design
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.6-deploy
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.8-frameworks
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.9-check
+- learn-dynamics.design-deployment-dynamics-365-finance-operations.10-summary
+badge:
+  uid: learn-dynamics.design-deployment-dynamics-365-finance-operations.badge

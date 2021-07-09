@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.upgrades-updates-finance-operations-apps.03-upgrade-8x-10x
+title: التحديث من الإصدار 8.x إلى الإصدار 10.0.x لتطبيق Finance and Operations
+metadata:
+  title: التحديث من الإصدار 8.x إلى الإصدار 10.0.x لتطبيق Finance and Operations
+  description: تعرف على كيفية التحديث من الإصدار 8.x إلى الإصدار 10.0.x لتطبيق Finance and Operations
+  ms.date: 04/12/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 704b491b3b8774eabeb6e16be70c292dc87204ed
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071308"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-upgrade-8x-10x.md)]"

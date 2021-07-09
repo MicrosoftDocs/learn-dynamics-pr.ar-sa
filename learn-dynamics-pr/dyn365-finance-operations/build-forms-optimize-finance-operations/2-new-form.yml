@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.2-new-form
+title: إضافة نموذج جديد إلى مشروع وتطبيق نمط
+metadata:
+  title: إضافة نموذج جديد إلى مشروع وتطبيق نمط
+  description: تعرف على كيفية إضافة نموذج جديد إلى مشروع وتطبيق نمط في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0c1b9a36b7993e68ad055d9ffbfd47b980a50eca
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071759"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-new-form.md)]

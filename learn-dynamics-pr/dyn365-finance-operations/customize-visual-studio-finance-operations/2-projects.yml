@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customize-using-vs-dynamics-365-finance-operations.2-projects
+title: إنشاء المشاريع وبناؤها
+metadata:
+  title: إنشاء المشاريع وبناؤها
+  description: تعرف على كيفية إنشاء المشاريع وبنائها في Visual Studio.
+  ms.date: 07/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 206f8ebd2c8fa2843311fc4713221561264ebfd2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071993"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-projects.md)]

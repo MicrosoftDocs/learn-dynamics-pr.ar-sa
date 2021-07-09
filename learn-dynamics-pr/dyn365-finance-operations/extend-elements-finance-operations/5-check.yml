@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-elements-dynamics-365-finance-operations.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f89750486fe735989538dc61f5b9d2203c1cfeb0
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071526"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من العبارات التالية صحيح فيما يتعلق بامتدادات الجداول؟
+    choices:
+    - content: يتم استخدام نافذة "خصائص" لتحرير أي خاصية لجدول.
+      isCorrect: false
+      explanation: يمكن استخدام النافذة "خصائص" لضبط بعض خصائص الجدول، وليس الخصائص التي تظهر باهتة.
+    - content: في حين أنه يمكن إضافة حقل جديد إلى امتداد جدول، لا يمكن إنشاء فهرس جديد.
+      isCorrect: false
+      explanation: يمكنك إضافة حقول وفهارس جديدة إلى امتداد جدول.
+    - content: يمكنك استخدام معالج الأحداث لإضافة منطق تسلسل عمل إلى جدول.
+      isCorrect: true
+      explanation: تتم إضافة معالجات الأحداث إلى جدول باستخدام الامتدادات. يمكنك إنشاء فئة جديدة تقوم بتوسيع الجدول المرغوب وتمكين الوصول إلى حقوله وأساليبه.
+    - content: يتم استخدام امتدادات الجداول عندما لا يمكن الحصول على السلوك المرغوب للعنصر من خلال التراكب.
+      isCorrect: false
+      explanation: غير مسموح بالتراكب في تطبيقات Finance and Operations.  يتم إجراء التخصيصات باستخدام الامتدادات.
+  - content: تحتاج إلى إنشاء امتداد لنموذج FMCustomer.  أي المهام التالية لا يمكن إنجازه بعد إنشاء امتداد النموذج؟
+    choices:
+    - content: قم بتغيير نمط النموذج من التفاصيل الرئيسية إلى جدول المحتويات.
+      isCorrect: true
+      explanation: لا يمكنك تغيير نمط نموذج موجود. إذا كنت بحاجة إلى نمط نموذج مختلف، فيجب عليك إنشاء نموذج جديد.
+    - content: أضف مصدر بيانات آخر إلى النموذج.
+      isCorrect: false
+      explanation: يمكنك إضافة مصدر بيانات إلى نموذج FMCustomer عن طريق إنشاء امتداد للنموذج.
+    - content: أضِف علامة تبويب جزء الإجراءات إلى عنصر تحكم جزء الإجراءات.
+      isCorrect: false
+      explanation: يمكنك إضافة علامة تبويب جزء الإجراءات إلى عنصر تحكم ApplicationBar (جزء الإجراءات) عن طريق إنشاء امتداد نموذج.
+    - content: حدد حقلاً من عقدة الحقول الخاصة بمصدر بيانات، واسحبه إلى عنصر تحكم شبكة.
+      isCorrect: false
+      explanation: يمكنك سحب حقل من الجزء الأيمن من مصمم النماذج إلى عنصر تحكم الشبكة في الجزء الأيسر عن طريق إنشاء امتداد.  يمكنك تنفيذ هذا الإجراء باستخدام حقل من مصدر بيانات موجود أو باستخدام حقل من مصدر بيانات تمت إضافته حديثاً.

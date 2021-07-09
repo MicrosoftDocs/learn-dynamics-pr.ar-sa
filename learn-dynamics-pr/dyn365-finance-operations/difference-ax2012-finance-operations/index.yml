@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.difference-ax2012-finance-operations
+metadata:
+  title: الاختلافات الرئيسية بين Dynamics AX 2012 وتطبيقات Finance and Operations
+  description: الاختلافات الرئيسية بين Dynamics AX 2012 وتطبيقات Finance and Operations
+  ms.date: 02/05/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4958d713e19164c774590af3d6b62848182cfa3a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072186"
+title: الاختلافات الرئيسية بين Dynamics AX 2012 وتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة للمتعلمين سحابة Microsoft Dynamics 365 وتراجع التغييرات الهيكلية والمكونات بين Dynamics AX 2012 وتطبيقات Finance and Operations. ومن خلال فهم هذه التغييرات، يمكنك اتخاذ قرارات أفضل لترقية حل Dynamics AX 2012 الخاص بك إلى Dynamics 365.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- كيف تساعد Microsoft العملاء للقيام بالترقية.\n- The Microsoft Cloud.\n- الاختلافات الهيكلية والتشغيلية بين AX 2012 وتطبيقات Finance and Operations.\n"
+prerequisites: >
+  - معرفه Dynamics AX 2012
+
+  - فهم تقنيات التطوير
+iconUrl: /learn/achievements/difference-ax2012-finance-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- administrator
+- developer
+products:
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.difference-ax2012-finance-operations.01-introduction
+- learn-dynamics.difference-ax2012-finance-operations.02-programs
+- learn-dynamics.difference-ax2012-finance-operations.03-cloud
+- learn-dynamics.difference-ax2012-finance-operations.04-cloud-concepts
+- learn-dynamics.difference-ax2012-finance-operations.05-architecture
+- learn-dynamics.difference-ax2012-finance-operations.06-operation
+- learn-dynamics.difference-ax2012-finance-operations.07-check
+- learn-dynamics.difference-ax2012-finance-operations.08-summary
+badge:
+  uid: learn-dynamics.difference-ax2012-finance-operations.badge

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-analytics-ax-2012-finance-operations.02-report-power-bi-analysis
+title: إعداد التقارير وتحليل Power BI
+metadata:
+  title: إعداد التقارير وتحليل Power BI
+  description: تعرف على إعداد التقارير وتحليل Power BI في Dynamics AX 2012 واعتبارات الترقية إلى تطبيقات Finance and Operations.
+  ms.date: 03/09/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: befa16d10b5f33a418fe94aeed14d80e599f081e
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072426"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-report-power-bi-analysis.md)]"

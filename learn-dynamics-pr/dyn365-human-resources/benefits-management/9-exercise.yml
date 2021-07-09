@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.benefits-management.9-exercise
+title: تمرين - إنشاء برنامج الائتمان المرن
+metadata:
+  title: تمرين - إنشاء برنامج الائتمان المرن
+  description: إنشاء برنامج الائتمان المرن خطوة بخطوة.
+  ms.date: 04/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: a46242da850068483bddc4dd1b7b8e1fa0c4a71d
+  ms.sourcegitcommit: fbcbc6f89d1c361bdf63e394196510ca682ec671
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072694"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-exercise.md)]"

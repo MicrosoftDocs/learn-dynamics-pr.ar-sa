@@ -1,0 +1,68 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.navigating-in-f-and-o.9-navigating-in-f-and-o-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 01/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 4ec1c5b8f80fb6aae6c7f104e4e990c71a5f3bc8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071660"
+title: اختبر معلوماتك
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما هو عنصر واجهة المستخدم الذي يعد جزءاً مضمناً ينزلق من اليسار ويحتوي على معايير تصفية متعددة يمكن تطبيقها على المحتوى المستهدف؟
+    choices:
+    - content: QuickFilter
+      isCorrect: false
+      explanation: يُعد QuickFilter عبارة عن آلية تصفية يوفرها إطار العمل والتي يمكن أن تظهر فوق أي قائمة أو شبكة بسيطة، وتوفر تصفية سريعة لعمود واحد.
+    - content: جزء عامل التصفية
+      isCorrect: true
+      explanation: يُعد "جزء عامل التصفية" جزءاً مضمناً ينزلق من اليسار ويحتوي على معايير تصفية متعددة يمكن تطبيقها على المحتوى المستهدف.
+    - content: تصفيه عمود الشبكة
+      isCorrect: false
+      explanation: يمكن للمستخدم تحديد شروط التصفية وإجراء فرز أحادي العمود باستخدام قائمة منسدلة يتم فتحها من رأس عمود الشبكة.
+    - content: عوامل التصفية/الفرز المتقدمة
+      isCorrect: false
+      explanation: يتم العثور على شاشة التصفية/الفرز المتقدمة بالنقر فوق الزر "خيارات" ويتم استخدامها لمزيد من استعلامات البحث المتقدمة.
+  - content: عند استخدام ميزة البحث في التنقل للعثور على صفحة، ماذا تُظهر نتائج البحث؟
+    choices:
+    - content: عنوان الصفحة فقط.
+      isCorrect: false
+      explanation: تُظهر نتائج البحث أكثر من مجرد عنوان الصفحة.
+    - content: مسار التنقل وعنوان الصفحة.
+      isCorrect: true
+      explanation: تُظهر نتائج البحث عنوان الصفحة ومسار التنقل، حتى تعرف موقع الصفحة في التطبيق. يمكن أن يساعدك مسار التنقل أيضاً في التمييز بين صفحتين متشابهتين أو أكثر في النتائج
+    - content: البيانات أو الإجراءات الموجودة في الصفحة
+      isCorrect: false
+      explanation: تُستخدم ميزة البحث هذه للعثور على الصفحات ومسارات التنقل في النظام، وليس العثور على بيانات أو إجراءات محددة.
+  - content: عند فتح صفحة قائمة في تطبيقات Finance and Operations، ما هو الوضع الذي تظهر فيه المعلومات في القائمة؟
+    choices:
+    - content: وضع التحرير
+      isCorrect: false
+      explanation: في معظم الصفحات، يمكنك تحديد الزر "تحرير" في جزء الإجراءات للتبديل إلى وضع التحرير.
+    - content: وضع طريقة العرض
+      isCorrect: true
+      explanation: يتم فتح صفحات القائمة في وضع العرض افتراضياً. في معظم الصفحات، يمكنك تحديد الزر "تحرير" في جزء الإجراءات للتبديل إلى وضع التحرير.
+    - content: وضع القائمة
+      isCorrect: false
+      explanation: لا تُعد القائمة وضع عرض
+  - content: ما طريقه العرض التي تتيح امكانيه تحديث سجلات متعددة في نفس الوقت؟
+    choices:
+    - content: طريقة عرض البنود
+      isCorrect: false
+      explanation: تعرض طريقو عرض البنود سجلاً مفرداً.
+    - content: طريقة عرض الرأس
+      isCorrect: false
+      explanation: تعرض طريقة عرض الرأس سجلاً مفرداً.
+    - content: طريقة عرض الشبكة
+      isCorrect: true
+      explanation: تتيح طريقة عرض الشبكة عرض سجلات متعددة وتحديثها في نفس الوقت.

@@ -1,0 +1,45 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.introduction-develop-dynamics-365-finance-operations
+metadata:
+  title: مقدمة حول التطوير باستخدام تطبيقات Finance and Operations
+  description: بصفتك مطوراً يعمل مع تطبيقات Finance and Operations، فمن الأهمية بمكان أن يكون لديك فهم قوي لمكونات البنية الرئيسية لنظام Dynamics 365 البيئي وتطبيقات Finance and Operations. ستدعم المعرفة بمفاهيم المطورين الأساسية، بما في ذلك القدرات الفنية والتعليمات البرمجية المصدر وأطر الاختبار وأدوات إعداد التقارير، جهودك الإضافية في بناء مهارات التطوير التي يمكنك تطبيقها على تطبيقات Finance and Operations.
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8feb28241d90e28c6fb4ccd332e313c20f370340
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074760"
+title: مقدمة حول التطوير باستخدام تطبيقات Finance and Operations
+summary: "[!include[](../../includes/lp-banner.md)]\n\nبصفتك مطوراً يعمل مع تطبيقات Finance and Operations، فمن الأهمية بمكان أن يكون لديك فهم قوي لمكونات البنية الرئيسية لنظام Dynamics 365 البيئي وتطبيقات Finance and Operations. ستدعم المعرفة بمفاهيم المطورين الأساسية، بما في ذلك القدرات الفنية والتعليمات البرمجية المصدر وأطر الاختبار وأدوات إعداد التقارير، جهودك الإضافية في بناء مهارات التطوير التي يمكنك تطبيقها على تطبيقات Finance and Operations. \n"
+prerequisites: >
+  - المعرفة الأساسية بتطبيقات Finance and Operations.
+
+  - المعرفة الأساسية بـ Lifecycle Services.
+
+  - الفهم الأساسي لـ Visual Studio.
+
+  - الإلمام بالتطوير الموجهة للعناصر.
+iconUrl: /learn/achievements/introduction-develop-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations
+- learn-dynamics.design-deployment-dynamics-365-finance-operations
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
+- learn-dynamics.explore-reporting-tools-dynamics-365-finance-operations
+trophy:
+  uid: learn-dynamics.introduction-develop-dynamics-365-finance-operations.trophy

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-work-orders-asset-management.16-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: هذه الوحدة تلخص إنشاء وإدارة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  ms.date: 02/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c61a22d5b1c959f25f564361b1c21eb525ae82e6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071825"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/16-summary.md)]"

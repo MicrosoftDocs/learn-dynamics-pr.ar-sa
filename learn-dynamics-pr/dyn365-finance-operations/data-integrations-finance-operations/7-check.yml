@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/20/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0c4d01e06feddedde9b82bda1eccfd027cde46ea
+  ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2020
+  ms.locfileid: "6072062"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما المكونات المضمنة في قوالب مكامل البيانات ؟
+    choices:
+    - content: تعيينات الحقول
+      isCorrect: true
+      explanation: تأتي تعيينات الحقول مع قوالب مكامل البيانات الجاهزة. تأتي الكيانات المحددة مسبقاً جاهزة للتشغيل أيضاً.
+    - content: مساحة عمل إدارة البيانات
+      isCorrect: false
+      explanation: توجد مساحة عمل إدارة البيانات في واجهة المستخدم ولا تتوفر جاهزة مع قوالب مكامل البيانات.
+    - content: كود X++‎
+      isCorrect: false
+      explanation: لا يتم تضمين كود X ++ مع قوالب تكامل البيانات.
+    - content: SDK
+      isCorrect: false
+      explanation: لا يتم تضمين مجموعات أدوات SDK مع قوالب مكامل البيانات.
+  - content: لاستخدام OAuth 2.0 مع تطبيقات Finance and Operations، فإنه يجب أولاً تسجيل التطبيق. أين يمكنك القيام بذلك؟
+    choices:
+    - content: الوحدة النمطية لإدارة النظام
+      isCorrect: false
+      explanation: لم تقم بتسجيل تطبيقات Finance and Operations الخاصة بـ OAuth في الوحدة النمطية لإدارة النظام.
+    - content: مركز تعليمات مسؤول Microsoft 365
+      isCorrect: false
+      explanation: لم تقم بتسجيل تطبيقات Finance and Operations الخاصة بـ OAuth في مدخل Microsoft 365.
+    - content: مدخل Microsoft Azure
+      isCorrect: true
+      explanation: لتسجيل تطبيقات Finance and Operations التي تستخدم OAuth، قم بالتسجيل في مدخل Microsoft Azure.
+    - content: مدخل Power Apps
+      isCorrect: false
+      explanation: لم تقم بتسجيل تطبيقات Finance and Operations الخاصة بـ OAuth في مدخل Power Apps.
+  - content: أي مما يلي يُستخدم لتمكين تدفق البيانات بين تطبيقات Finance and Operations وغيره من تطبيقات Dynamics 365 الأخرى؟
+    choices:
+    - content: Power Automate
+      isCorrect: false
+      explanation: لا يُستخدم Power Automate لتمكين تدفق البيانات فيما بين تطبيقات Dynamics 365.
+    - content: Microsoft Dataverse
+      isCorrect: true
+      explanation: يُستخدم Dataverse لتمكين تدفق البيانات فيما بين تطبيقات Dynamics 365.
+    - content: كيانات البيانات
+      isCorrect: false
+      explanation: لا تُستخدم كيانات البيانات لتمكين تدفق البيانات فيما بين تطبيقات Dynamics 365.
+    - content: مساحة عمل إدارة البيانات
+      isCorrect: false
+      explanation: لا تُستخدم مساحة عمل إدارة البيانات لتمكين تدفق البيانات بين تطبيقات Dynamics 365.

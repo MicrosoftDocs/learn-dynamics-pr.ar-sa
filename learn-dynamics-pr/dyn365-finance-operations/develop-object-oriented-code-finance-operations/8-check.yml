@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.8-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 21d74fff2a1fd82764ea06acd824a1754551a3dd
+  ms.sourcegitcommit: 45337c216dae17eda3fd77996e054b20515eb8dc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2020
+  ms.locfileid: "6072100"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الأساليب التي يمكنك تمديدها لاستخدام سلسلة الأوامر؟
+    choices:
+    - content: تم إقرار الأساليب بالكلمة الأساسية الأخيرة
+      isCorrect: false
+      explanation: لا يمكن ان تستخدم الأساليب النهائية سلسلة الأوامر.
+    - content: الأساليب الخاصة
+      isCorrect: false
+      explanation: لا يمكن أن تستخدم الأساليب الخاصة سلسلة الأوامر.
+    - content: الأساليب العامة والمحمية
+      isCorrect: true
+      explanation: يمكن أن تستخدم الأساليب المحمية والعامة سلسلة من الأوامر.
+    - content: الأساليب المعلمة باستخدام سمة قابل للحجز (خاطئة)
+      isCorrect: false
+      explanation: لا يمكن للأساليب التي لها سمة قابل للحجز المعينة إلى false استخدام سلسلة الأوامر.
+  - content: أي من العبارات التالية غير صحيح فيما يتعلق بإقرارات المتغيرات؟
+    choices:
+    - content: يمكنك استخدام var لإقرار المتغيرات المحلية لإقرارات عدادات التكرار الحلقي
+      isCorrect: false
+      explanation: هذه العبارة صحيحة. يمكنك استخدام var لإقرار المتغيرات المحلية لإقرارات عدادات التكرار الحلقي.
+    - content: يمكنك إقرار متغير أينما يمكن توفير العبارات.
+      isCorrect: false
+      explanation: هذه العبارة صحيحة. يمكنك إقرار متغير أينما يمكن توفير العبارات.
+    - content: يمكنك إقرار متغير بعد استخدام المتغير.
+      isCorrect: true
+      explanation: هذه العبارة غير صحيحة. لا يمكنك إقرار متغير بعد استخدامه في الكود.
+    - content: يمكنك إقرار متغيرات في نطاقات أصغر، والتي لا يمكن الإشارة إلى المتغيرات خارجها.
+      isCorrect: false
+      explanation: هذه العبارة صحيحة. يمكنك إقرار متغيرات في نطاقات أصغر، والتي لا يمكن الإشارة إلى المتغيرات خارجها.

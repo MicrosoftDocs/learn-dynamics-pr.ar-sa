@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.07-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/05/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 27f83ccf18e3beab0906bba8dde389b215a9d3bc
+  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/13/2021
+  ms.locfileid: "6072252"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أنت تتعامل مع ISV. وقام موفر ISV بتسليم حزمة قابلة للتوزيع يمكن تطبيقها على الحل الخاص بك. فأي من العبارات الآتية صحيحة بشأن الحزمة التي استلمتها؟
+    choices:
+    - content: يمكنك عرض جميع أكواد المصدر للحلول.
+      isCorrect: false
+      explanation: تتعذر عليك رؤية كود المصدر من حزمة قابلة للتوزيع.
+    - content: يمكنك عرض الثنائيات الضرورية لوقت التشغيل.
+      isCorrect: true
+      explanation: لأن هذه الحزمة حزمة برامج قابلة للتوزيع، يمكنك فقط رؤية الثنائيات.
+    - content: يمكن فقط لموفر ISV تطبيق الحزمة على البيئات الخاصة بك.
+      isCorrect: false
+      explanation: يجب على شريكك، أو عليك بصفتك العميل، تطبيق الحزم على البيئات.
+  - content: لقد كتبت الكود في بيئة المطور لديك. وأنت الآن جاهز لإرسال الكود الخاص بك لترقية الكود. فما المهمة الأولى التي يجب عليك إكمالها؟
+    choices:
+    - content: تنفيذ إجراء الحصول على أحدث إصدار.
+      isCorrect: true
+      explanation: يجب عليك تنفيذ إجراء الحصول على أحدث إصدار، ثم البناء للتأكد من أنك تقوم بترقية الكود الجيد.
+    - content: ترقية الكود إلى الإصدار.
+      isCorrect: false
+      explanation: لن تقوم أبداً بترقية الكود من التطوير إلى الإصدار. تستطيع Microsoft فقط ترقية الكود إلى الإصدار (التشغيل).
+    - content: بناء الكود الخاص بك.
+      isCorrect: false
+      explanation: يجب تنفيذ إجراء "الحصول على أحدث إصدار" قبل البناء.
+  - content: ما نوع مشغل البناء الذي لا يبدأ البناء مباشرةً بعد إجراء تسجيل الدخول؟
+    choices:
+    - content: البناء المبوَّب
+      isCorrect: false
+      explanation: سيقوم البناء المبوَّب بتشغيل تسجيل الدخول.
+    - content: البناء المجدول
+      isCorrect: true
+      explanation: لا يتم بناء البناء المجدول تلقائياً عندما يتم تسجيل دخول الكود.
+    - content: التكامل المستمر
+      isCorrect: false
+      explanation: سيقوم هذا المشغِّل ببدء البناء مباشرةً بعد إجراء تسجيل الدخول.

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.personalize-dynamics-365-finance-ops.14-exercise-create-use-record-template
+title: المعمل - إنشاء واستخدام قالب سجل
+labId: 64204
+metadata:
+  title: المعمل - إنشاء واستخدام قالب سجل
+  description: مارس إنشاء قالب سجل واستخدامه في Dynamics 365 لتطبيقات Finance and Operations.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3d3e3e65b990016a346480c3ca467af90585ce83
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6072030"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/14-exercise-create-use-record-template.md)] \n[!include[](../includes/standalone-lab-end.md)]"

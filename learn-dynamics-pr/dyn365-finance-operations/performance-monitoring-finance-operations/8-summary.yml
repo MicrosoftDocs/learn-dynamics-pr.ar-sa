@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.8-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعرفت عليه حول العمل مع أدوات الأداء والمراقبة في وحدة تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d9ed0ee7e0e63d468ae43eb782a4dcba8adcd4c8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071279"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-summary.md)]

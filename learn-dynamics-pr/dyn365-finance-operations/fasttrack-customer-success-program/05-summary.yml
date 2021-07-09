@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.fasttrack-customer-success-program.05-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص وحدة برنامج نجاح العميل FastTrack لتطبيقات Finance and Operations.
+  ms.date: 03/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: bbb167bae4987dd99ea7e718160b4ccbda8b4cd5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071951"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-summary.md)]"

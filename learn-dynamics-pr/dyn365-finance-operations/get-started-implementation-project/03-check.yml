@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-implementation-project.03-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 9d0c56ac482d48a56d56fc57b385a164059f0388
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071978"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما العناصر الرئيسية التي يجب مراعاتها عند التخطيط لمشروع؟
+    choices:
+    - content: النطاق والوقت والجودة
+      isCorrect: false
+      explanation: الجودة مهمة، ولكن هذا العنصر هو نتيجة تجميع عناصر تخطيط المشروع للنطاق والوقت والموازنة.
+    - content: النطاق والوقت والموازنة والمخاطر
+      isCorrect: true
+      explanation: العناصر الرئيسية لمثلث إدارة المشروع هي النطاق والوقت والموازنة، ولكن يتم تضمين المخاطر لأنها عناصر مهمة يجب مراعاتها في بداية المشروع.
+    - content: النطاق، والوقت، والموازنة
+      isCorrect: false
+      explanation: العناصر الرئيسية لمثلث إدارة المشروع هي النطاق والوقت والموازنة، ولكن يجب تضمين المخاطر لأنها عناصر مهمة يجب مراعاتها منذ بداية المشروع.
+  - content: ما المراحل الرئيسية التي تتعرض لها جميع مشروعات تنفيذ Finance and Operations؟
+    choices:
+    - content: التحليل، والتصميم، والاختبار، والتوزيع، والتشغيل
+      isCorrect: false
+      explanation: وتكون هذه المراحل من منهجية LCS. يتم استخدام هذه المراحل أيضاً في مشروع LCS، ومع ذلك، فهي لا تزال جزءاً من المنهجية العامة للمشروع الذي يتضمن البدء والتنفيذ والإعداد والتشغيل.
+    - content: البدء، والتصميم، والإنشاء، والتنفيذ، والإعداد، والتشغيل
+      isCorrect: false
+      explanation: يعد التصميم والإنشاء جزأين من مرحلة التنفيذ.
+    - content: البدء، والتنفيذ، والإعداد، والتشغيل
+      isCorrect: true
+      explanation: هذه هي المراحل الرئيسية التي يمر بها كل تنفيذ.

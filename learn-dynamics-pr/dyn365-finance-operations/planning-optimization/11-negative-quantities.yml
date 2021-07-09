@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.11-negative-quantities
+title: التخطيط بالكميات الحالية السالبة
+metadata:
+  title: التخطيط بالكميات الحالية السالبة
+  description: تعرف على كيفية التخطيط للكميات الفعلية السالبة باستخدام تحسين التخطيط لـ Dynamics 365 Supply Chain Management.
+  ms.date: 11/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2cf974561cd29be26cb633fc75fb93d64b341069
+  ms.sourcegitcommit: bf84bcc4cecc28fa675c8c86577dc8561491bebf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/24/2020
+  ms.locfileid: "6072077"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-negative-quantities.md)]"

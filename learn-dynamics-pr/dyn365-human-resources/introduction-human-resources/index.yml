@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.introduction-human-resources
+metadata:
+  title: بدء استخدام Dynamics 365 Human Resources
+  description: وباستخدام المزايا والبرامج الحديثة، يساعدك Dynamics 365 Human Resources على جذب المواهب والاحتفاظ بها. تساعدك هذه الوحدة على البدء في استخدام Human Resources.
+  ms.date: 02/01/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 7f647388bf69bc63d482446fcef97d0e35c90292
+  ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "6072692"
+title: بدء استخدام Dynamics 365 Human Resources
+summary: "[!include[](../includes/module-banner.md)] \nيقوم Dynamics 365 Human Resources بالتشغيل التلقائي لمهام الموارد البشرية طوال دورة حياة التوظيف، بما في ذلك إدارة المؤسسة والتوظيف والتعويضات والمزايا والإجازات والغياب والأداء والكثير غير ذلك.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على فوائد Human Resources.\n- استكشف ميزات Human Resources ووظائفه.\n- التعرف على الطرق المختلفة لتوسيع إمكانيات Human Resources ودمجه.\n"
+prerequisites: "- المعرفة العامة للمفاهيم وممارسات Human Resources\n- الفهم الأساسي لمفاهيم السحابة \n"
+iconUrl: /learn/achievements/introduction-human-resources.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-human-resources
+units:
+- learn-dynamics.introduction-human-resources.1-introduction
+- learn-dynamics.introduction-human-resources.2-manage-organization
+- learn-dynamics.introduction-human-resources.3-agility
+- learn-dynamics.introduction-human-resources.4-transform-experiences
+- learn-dynamics.introduction-human-resources.5-hr-programs
+- learn-dynamics.introduction-human-resources.6-workforce-insights
+- learn-dynamics.introduction-human-resources.7-benefits
+- learn-dynamics.introduction-human-resources.8-leave-absence-programs
+- learn-dynamics.introduction-human-resources.9-integrate
+- learn-dynamics.introduction-human-resources.10-check
+- learn-dynamics.introduction-human-resources.11-summary
+badge:
+  uid: learn-dynamics.introduction-human-resources.badge
