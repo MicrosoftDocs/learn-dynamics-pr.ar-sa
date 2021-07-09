@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-work-orders-asset-management.15-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: afcfd7f9df553824b6be69a5d295bc77b884776b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071192"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ويتم حساب فترة توقف الصيانة وفقاً لأمر العمل استناداً إلى أي من الخيارات التالية؟
+    choices:
+    - content: نوع الوظيفة المحددة الموجودة في أمر العمل
+      isCorrect: false
+      explanation: لا يتعلق توقف العمل بنوع الوظيفة.
+    - content: الوقت المطلوب في موقع العمل
+      isCorrect: false
+      explanation: لا توجد أي علاقة بين موقع العمل وفترة التعطل.
+    - content: وقت البدء ووقت الانتهاء الذي قمت بإدخاله كوقت توقف
+      isCorrect: true
+      explanation: ويمكن أن يحتوي كل أمر من أوامر العمل على خطوات وأوقات مختلفة، ويتم حسابها حسب الأوقات التي يتم إدخالها.
+    - content: ساعات العمل التي يتم إعدادها في التقويم
+      isCorrect: false
+      explanation: بينما قد يؤثر هذا العامل على حساب وقت التعطل، لا يعتمد التوقف عن العمل علي التقويم.
+  - content: أي من الخيارات التالية يٌعد أفضل وصف لقائمة فحص الصيانة؟
+    choices:
+    - content: وهي مطلوبة في كافة أوامر العمل
+      isCorrect: false
+      explanation: قائمة اختيار الصيانة غير مطلوبة في كافة أوامر العمل
+    - content: يتم ملء هذا الحقل تلقائياً استناداً إلى نوع الوظيفة
+      isCorrect: false
+      explanation: لا يحدد نوع الوظيفة قائمة الاختيار.
+    - content: وهو يستند إلى الأصل المحدد
+      isCorrect: false
+      explanation: ويمكن أن يكون لكل أصل أخطاء مختلفة. لذلك، لا يمكن أن تكون قائمة الاختيار محددة لأحد الأصول.
+    - content: وهو يستند إلى ما هو مطلوب في كل مرة
+      isCorrect: true
+      explanation: ويختلف كل موقف عن الآخر. يمكن أن تختلف قائمة الاختيار وفقا لنوع المشكلة وخطورتها.
+  - content: هل يجب أن يتضمن كل نتيجة لأمر العمل الذي تم إدخاله تحديثاً للعداد؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: إدخالات العداد غير مطلوبة
+    - content: لا
+      isCorrect: true
+      explanation: ليست هناك ضرورة لتحديث العدادات في نهاية أمر العمل.

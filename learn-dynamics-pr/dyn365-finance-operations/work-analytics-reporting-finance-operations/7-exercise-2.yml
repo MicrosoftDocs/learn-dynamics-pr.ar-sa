@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.7-exercise-add-account-properties
+title: المعمل - إضافة خصائص الحساب إلى تصميم تقرير
+labId: 76397
+metadata:
+  title: المعمل - إضافة خصائص الحساب إلى تصميم تقرير
+  description: تدرب على إضافة خصائص الحساب إلى تصميم تقرير في تطبيقات Finance and Operations.
+  ms.date: 07/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ab9885983ef3e1635145ded6e74d01d7366d662f
+  ms.sourcegitcommit: 2ab9511cb587be3de564a422c843360dd7b7c61f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2020
+  ms.locfileid: "6072047"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/7-exercise-add-account-properties.md)] \n[!include[](../includes/non-final-lab-end.md)]"

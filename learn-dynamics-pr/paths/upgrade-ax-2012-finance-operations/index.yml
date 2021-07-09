@@ -1,0 +1,50 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.upgrade-ax-2012-finance-operations
+metadata:
+  title: ترقيه Dynamics AX 2012 إلى تطبيقات Finance and Operations
+  description: تعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 بنجاح إلى تطبيقات Finance and Operations.
+  ms.date: 03/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4472c2c5e3de92001ded49088fde6ebf57708d64
+  ms.sourcegitcommit: c332416640d93a9a9f8ba875c22bdb8e2eb64c3e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6074770"
+title: ترقيه Dynamics AX 2012 إلى تطبيقات Finance and Operations
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 بنجاح إلى تطبيقات Finance and Operations. من الخطوات الأولى لاكتشاف اختلافات البنية الرئيسية، تبدأ العمل مع عملية الترقية، وأدوات ترقية التعليمات البرمجية والبيانات، بأفضل الطرق لإعادة تصميم تكاملك وتحليلاتك وإعداد التقارير المستند إلى أحدث القدرات. \n"
+prerequisites: >
+  - معرفه Dynamics AX 2012
+
+  - الإلمام بنظام Dynamics 365 البيئي وتطبيقات Finance and Operations.
+
+  - يمكنك التعرف على مفاهيم المطور الأساسية، بما في ذلك القدرات التقنية والتعليمات البرمجية المصدر وأطر الاختبار وأدوات إعداد التقارير.
+
+  - المعرفة والخبرة الأساسية للتطوير الموجه للعناصر.
+
+  - المعرفة الأساسية ببيئة التطوير المتكامل (IDE) أو Visual Studio.
+iconUrl: /learn/achievements/upgrade-ax-2012-finance-operations.svg
+levels:
+- intermediate
+roles:
+- solution-architect
+- functional-consultant
+- developer
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+modules:
+- learn-dynamics.difference-ax2012-finance-operations
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations
+- learn-dynamics.tools-code-data-upgrade-ax-2012-finance-operations
+- learn-dynamics.compare-integration-ax-2012-finance-operations
+- learn-dynamics.compare-analytics-ax-2012-finance-operations
+- learn-dynamics.get-started-extensibility-finance-operations
+trophy:
+  uid: learn-dynamics.upgrade-ax-2012-finance-operations.trophy

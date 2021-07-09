@@ -1,0 +1,77 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.12-plan-and-implement-security-in-f-and-o-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 6b2a553846edcbdfba99ca2336a20c7504c51954
+  ms.sourcegitcommit: 3187888623499a3f582eb5557bd468f4e8c40546
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/31/2020
+  ms.locfileid: "6072042"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من العبارات التالية تصف الأمان المستند إلى الدور في تطبيقات Finance and Operations؟
+    choices:
+    - content: يمكن تعيين الرسم الجمركي لدور أمان واحد فقط.
+      isCorrect: false
+      explanation: يمكن تعيين الرسم الجمركي لأدوار أمان متعددة.
+    - content: يمكن تعيين الامتياز لدور أمان واحد فقط.
+      isCorrect: false
+      explanation: يمكن تعيين الامتياز لأدوار أمان متعددة.
+    - content: يتم منح الوصول لأدوار الأمان فقط.
+      isCorrect: true
+      explanation: يتم منح الوصول إلى أدوار الأمان فقط، وليس على المستخدمين الفرديين.
+    - content: لا يمكن تعريف دور أمان كمجموعة من أدوار الأمان الأخرى.
+      isCorrect: false
+      explanation: يمكن تعريف دور أمان كمجموعة من أدوار الأمان الأخرى. يمكن القيام بذلك باستخدام ميزات النسخ المتماثل والنسخ.
+  - content: أي من صفحات الأمان التالية في تطبيقات Finance and Operations يتم استخدامها لإدارة الامتيازات؟
+    choices:
+    - content: ‏‏تعيين المستخدمين إلى دور
+      isCorrect: false
+      explanation: لا يتوفر لصفحة تعيين المستخدمين إلى الدور الخيار لإدارة الامتيازات.
+    - content: تكوين الأمان
+      isCorrect: true
+      explanation: تمكن صفحة تكوين الأمان المسؤولين من إدارة الامتيازات.
+    - content: الأدوار الخارجية
+      isCorrect: false
+      explanation: وتتيح صفحة الأدوار الخارجية للمسؤولين إمكانية تعيين أدوار الأمان إلى دور خارجي، مثل العميل أو المورد.
+    - content: حسابات أمان المستخدم غير النشطة
+      isCorrect: false
+      explanation: لا يتوفر لصفحة حسابات أمان المستخدم غير النشطة الخيار لإدارة الامتيازات.
+  - content: أي من تقارير الأمان التالية في تطبيقات Finance and Operations توفر طريقة عرض للأذونات الفعالة لكل دور أمان؟
+    choices:
+    - content: تعيينات أدوار المستخدمين
+      isCorrect: false
+      explanation: ينشئ التقرير تعيينات أدوار المستخدمين طريقة عرض لتعيينات أدوار المستخدمين الحالية في النظام.
+    - content: تعيينات الأدوار للمستخدمين
+      isCorrect: false
+      explanation: يوفر تقرير ‏‏تعيين الدور إلى المستخدم تجميعاً لتعيينات الأدوار.
+    - content: الوصول الفعال لدور الأمان
+      isCorrect: true
+      explanation: يوفر تقرير الوصول الفعال لدور الأمان طريقة عرض للأذونات الفعالة لكل دور أمان.
+    - content: تعيينات رسوم الأمان
+      isCorrect: false
+      explanation: يقدم تقرير تعيينات رسوم الأمان طريقة عرض لجميع المهام التي يتضمنها أحد الأدوار.
+  - content: للتوافق مع المتطلبات التنظيمية، مثل تلك التي من Sarbanes-Oxley (SOX) ومقاييس التقارير المالية الدولية (معايير IFRS)، أي صفحة يجب استخدامها؟
+    choices:
+    - content: الفصل بين المهام
+      isCorrect: true
+      explanation: تساعد صفحة الفصل بين المهام تطبيقات Finance and Operations على التوافق مع المتطلبات التنظيمية، مثل تلك التي Sarbanes-Oxley (SOX) ومقاييس إعداد التقارير المالية الدولية (معايير IFRS) وإدارة الأغذية والعقاقير الأمريكية (FDA).
+    - content: الأدوار الخارجية
+      isCorrect: false
+      explanation: وتتيح صفحة الأدوار الخارجية للمسؤولين إمكانية تعيين أدوار الأمان إلى دور خارجي، مثل العميل أو المورد.
+    - content: ‏‏تعيين المستخدمين إلى دور
+      isCorrect: false
+      explanation: لا يتوفر لصفحة تعيين المستخدمين إلى الدور الخيار لإدارة الامتيازات.
+    - content: حسابات أمان المستخدم غير النشطة
+      isCorrect: false
+      explanation: تسمح لك الصفحة حسابات أمان المستخدم غير النشطة بتعريف الحسابات الخاملة وتحديد ما إذا كانت الحسابات ممكنة أو معطلة.

@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.build-edt-enums-dynamics-365-finance-operations
+metadata:
+  title: إنشاء أنواع البيانات الموسعة والتعدادات لتطبيقات Finance and Operations
+  description: أنواع البيانات الموسعة (EDT) والتعدادات الأساسية (enums) هي أنواع البيانات التي يتم إنشاؤها وإدارتها في بيئة التطوير. تمثل التعدادات الأساسية قائمة بالأحرف، في حين أن أنواع البيانات الموسعة (EDT) هي أنواع بيانات قابلة لإعادة الاستخدام ولها تعريف محدد. تحتوي شجرة مكونات البرنامج (AOT) في تطبيقات Finance and Operations على العديد من أنواع البيانات الموسعة (EDT) الحالية والتعدادات الأساسية التي يمكن تمديدها للاستخدام في مشروعك، أو يمكنك إنشاء أنواع بيانات جديدة. وستركز هذه الوحدة على إنشاء أنواع بيانات جديدة.
+  ms.date: 06/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1a6ef2524fd1280473a1e7e941f48c2bf75a9fd1
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072181"
+title: إنشاء أنواع البيانات الموسعة والتعدادات لتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nأنواع البيانات الموسعة (EDT) والتعدادات الأساسية (enums) هي أنواع البيانات التي يتم إنشاؤها وإدارتها في بيئة التطوير. تمثل التعدادات الأساسية قائمة بالأحرف، في حين أن أنواع البيانات الموسعة (EDT) هي أنواع بيانات قابلة لإعادة الاستخدام ولها تعريف محدد. تحتوي شجرة مكونات البرنامج (AOT) في تطبيقات Finance and Operations على العديد من أنواع البيانات الموسعة (EDT) الحالية والتعدادات الأساسية التي يمكن تمديدها للاستخدام في مشروعك، أو يمكنك إنشاء أنواع بيانات جديدة. وستركز هذه الوحدة على إنشاء أنواع بيانات جديدة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- حدد الأنواع المختلفة من أنواع البيانات الموسعة (EDT).\n- تعرف على استخدام التعدادات الأساسي (base enums).\n- حدد كيفية عرض أنواع البيانات الموسعة (EDT) والتعدادات الأساسية في واجهة مستخدم تطبيقات Finance and Operations.\n- إنشاء تعداد أساسي.\n"
+prerequisites: "- الفهم الأساسي لأنظمه تخطيط موارد المؤسسة \n- المعرفة الأساسية بشروط التطوير وتفاصيله\n"
+iconUrl: /learn/achievements/build-edt-enums-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations.2-edt
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations.3-base-enum
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations.4-lab
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations.5-check
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations.6-summary
+badge:
+  uid: learn-dynamics.build-edt-enums-dynamics-365-finance-operations.badge

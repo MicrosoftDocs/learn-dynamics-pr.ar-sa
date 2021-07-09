@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.13-exercise-configure-a-new-legal-entity
+title: المعمل - تكوين كيان قانوني جديد
+labId: 74811
+metadata:
+  title: المعمل - تكوين كيان قانوني جديد
+  description: مارس تكوين كيان قانوني جديد في تطبيقات Finance and Operations.
+  ms.date: 06/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: aa969aa840fe08d493c6addb6f4c109404b09a81
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071332"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/13-exercise-configure-new-legal-entity.md)] \n[!include[](../includes/non-final-lab-end.md)]"

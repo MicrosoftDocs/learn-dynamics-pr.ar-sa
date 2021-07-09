@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations
+metadata:
+  title: إنشاء النماذج وتحسين أداء النموذج في تطبيقات Finance and Operations
+  description: يتم إنشاء النماذج وإدارتها في Visual Studio وسيتم عرضها على المستخدم كصفحات ويب. وتوضح هذه الوحدة كيفية إنشاء النماذج وإدارتها في بيئة مطوري تطبيقات Finance and Operations، إلى جانب كيفية تحسين أداء النماذج.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 684ea53e6e8514f97bb0dc4acc19e0372797833c
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072216"
+title: إنشاء النماذج وتحسين أداء النموذج في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nيتم إنشاء النماذج وإدارتها في Visual Studio وسيتم عرضها على المستخدم كصفحات ويب. وتوضح هذه الوحدة كيفية إنشاء النماذج وإدارتها في بيئة مطوري تطبيقات Finance and Operations، إلى جانب كيفية تحسين أداء النماذج. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء نموذج جديد.\n- تطبيق نمط نموذج.\n- أضف مصدر بيانات إلى نموذج.\n- أضف الشبكات والحقول والمجموعات إلى نموذج.\n- اكتشف أنواع عناصر القائمة.\n- قم بإنشاء عنصر قائمة وإضافته إلى نموذج.\n- قم بتشغيل نموذج واختبر وظائفه.\n- تعرف على الأدوات المستندة إلى المستعرض وPerformance Timer المستخدمة لتحسين أداء النموذج.\n"
+prerequisites: >
+  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+
+  - الفهم الأساسي للبرمجة الموجهة للكائنات
+
+  - المعرفة الأساسية بتطبيقات Finance and Operations
+iconUrl: /learn/achievements/build-forms-optimize-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.2-new-form
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.3-data-source
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.4-grids
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.5-menu-items
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.6-test-form
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.7-optimize
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.8-form-load
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.9-exercise
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.10-check
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.11-summary
+badge:
+  uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.badge

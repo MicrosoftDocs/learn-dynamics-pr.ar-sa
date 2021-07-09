@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.5-composite
+title: العمل باستخدام كيانات البيانات المركبة
+metadata:
+  title: العمل باستخدام كيانات البيانات المركبة
+  description: تعرَّف على كيفية العمل باستخدام كيانات البيانات المركبة في تطبيقات Finance and Operations.
+  ms.date: 07/20/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: bbfbb7c233821f68c62398124901b491f0941051
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071550"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-composite.md)]

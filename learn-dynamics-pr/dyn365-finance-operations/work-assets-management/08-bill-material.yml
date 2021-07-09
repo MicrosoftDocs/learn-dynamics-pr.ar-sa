@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-assets-management.08-bill-material
+title: قوائم مكونات الأصناف الخاصة بالأصول
+metadata:
+  title: قوائم مكونات الأصناف الخاصة بالأصول
+  description: تتناول هذه الوحدة قوائم مكونات الأصناف الخاصة بالأصول.
+  ms.date: 02/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 19f4ebd11b91e45f6425e9488cb7bd2704e5d95b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071374"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-bill-material.md)]"

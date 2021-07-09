@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-analytics-ax-2012-finance-operations.04-modernize-data-warehouse
+title: تحديث مستودع البيانات
+metadata:
+  title: تحديث مستودع البيانات
+  description: تعرف على كيفية تحديث مستودع البيانات عند الترقية إلى تطبيقات Finance and Operations.
+  ms.date: 03/09/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 19f0090d628a0110dce4f3fdba70d16ee247e5d4
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072417"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-modernize-data-warehouse.md)]"

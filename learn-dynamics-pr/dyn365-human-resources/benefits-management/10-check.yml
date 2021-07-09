@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.benefits-management.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: c3b6a56edddb6770abb60563b2faf64306b3f521
+  ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/07/2021
+  ms.locfileid: "6072713"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أين يمكنك تمكين مساحة العمل "إدارة الميزات"؟
+    choices:
+    - content: Microsoft Dynamics 365 Lifecycle Services
+      isCorrect: false
+      explanation: لا تقم بتمكين الميزات أو تعطيلها في Lifecycle Services.
+    - content: إدارة الميزات
+      isCorrect: true
+      explanation: يمكنك تمكين "إدارة الميزات" في "إدارة النظام > إدارة الميزات".
+    - content: محددات الموارد البشرية المشتركة
+      isCorrect: false
+      explanation: يمكنك إخفاء نماذج الميزات القديمة في "معلمات الموارد البشرية المشتركة" بعد تمكين "إدارة الميزات".
+  - content: كيف تقوم بإعداد برنامج الائتمان المرن‬؟
+    choices:
+    - content: لا تدعم "الموارد البشرية" برامج الائتمان المرن.
+      isCorrect: false
+      explanation: ورغم أنه لا يمكنك إعداد برامج الائتمان المرن في مساحة العمل "الميزات القديمة"، يمكنك القيام بذلك في "إدارة الميزات".
+    - content: قم بإنشاء خطة ميزة جديدة، ثم حدد "برنامج ائتمان مرن" في "نوع الخطة".
+      isCorrect: false
+      explanation: تكون برامج الائتمان المرن منفصلة عن خطط الميزات.
+    - content: في "الخطط" الموجودة في مساحة العمل "إدارة الميزات"، حدد "برامج الائتمان المرن".
+      isCorrect: true
+      explanation: يوجد الخيار المخصص لإنشاء برنامج ائتمان مرن في "الخطط" الموجودة في مساحة العمل "إدارة الميزات".
+  - content: ما خطوات تسجيل الموظفين في خطة الميزة؟
+    choices:
+    - content: تكوين "معلمات إدارة الميزات" وإنشاء خطة الميزة وتكوين "معلمات الخدمة الذاتية للموظفين"
+      isCorrect: false
+      explanation: ويتم تضمين هذه الخطوات في إنشاء خطة الميزة.
+    - content: معالجة الأهلية ومطالبة الموظفين باختيار خيارات التغطية الخاصة بهم وتأكيد اختيارات الموظفين
+      isCorrect: true
+      explanation: هذه هي خطوات تسجيل الموظفين في خطة الميزة.
+    - content: تكوين "معلمات إدارة الميزات" وإنشاء خطة الميزة ومعالجة نتائج الأهلية
+      isCorrect: false
+      explanation: تمثل خطوتين من هذه الخطوات جزءاً من خطة إنشاء الميزة، وتمثل خطوة واحدة منها جزءاً من تسجيل الموظفين في إحدى الخطط.

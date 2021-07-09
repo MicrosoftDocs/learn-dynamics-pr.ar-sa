@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-assets-management.10-asset-view
+title: طريقة عرض الأصل
+metadata:
+  title: طريقة عرض الأصل
+  description: تصف هذه الوحدة الصفحة "طريقة عرض الأصل"
+  ms.date: 02/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 140a62a85e27b6388ef92bf711094045f00ebeaa
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071793"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-asset-view.md)]"

@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-analytics-reporting-finance-operations
+metadata:
+  title: تكوين التحليلات وإعداد التقارير والعمل معها في تطبيقات Finance and Operations
+  description: يمكن لقادة الأعمال اتخاذ قرارات مهمة في شركتهم إذا كانت لديهم رؤية دقيقة للبيانات المالية والتشغيلية الأساسية. يمكن لمستخدم الأعمال أيضاً تكوين أداة إعداد التقارير الإلكترونية واستخدامها بدون كتابة سطر واحد من التعليمات البرمجية، لاعتماد متطلبات تنظيمية جديدة وإنشاء مستندات الأعمال بالتنسيق المطلوب لتبادل المعلومات إلكترونياً مع الهيئات الحكومية والبنوك والأطراف الأخرى.
+  ms.date: 12/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 41ff5e95f22b0596cba82b18fa69ea0548647dd7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074757"
+title: تكوين التحليلات وإعداد التقارير والعمل معها في تطبيقات Finance and Operations
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيمكن لقادة الأعمال اتخاذ قرارات مهمة في شركتهم إذا كانت لديهم رؤية دقيقة للبيانات المالية والتشغيلية الأساسية. يمكن لمستخدم الأعمال أيضاً تكوين أداة إعداد التقارير الإلكترونية واستخدامها بدون كتابة سطر واحد من التعليمات البرمجية، لاعتماد متطلبات تنظيمية جديدة وإنشاء مستندات الأعمال بالتنسيق المطلوب لتبادل المعلومات إلكترونياً مع الهيئات الحكومية والبنوك والأطراف الأخرى. \n"
+prerequisites: >
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+
+  - معرفة العمليات المالية والمحاسبية
+
+  - القدرة على استخدام الصيغ في Microsoft Excel
+iconUrl: /learn/achievements/configure-analytics-reporting-finance-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+modules:
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops
+- learn-dynamics.configure-electronic-reporting
+trophy:
+  uid: learn-dynamics.configure-analytics-reporting-finance-operations.trophy

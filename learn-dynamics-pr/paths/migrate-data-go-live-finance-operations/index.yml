@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+metadata:
+  title: ترحيل البيانات والعرض المباشر لتطبيقات Finance and Operations
+  description: بصفتك مستشاراً ومطوراً وظيفياً، ينبغي أن تفهم كيفية تجهيز بيانات عميلك للترحيل، والعمل مع إدارة البيانات، وإجراء اختبار قبول المستخدم للعرض المباشر لتطبيقات Finance and Operations.
+  ms.date: 04/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ddcd34ab9aab551568fb4101d2eb6c9e95a398a6
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074762"
+title: ترحيل البيانات والعرض المباشر لتطبيقات Finance and Operations
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  وبصفتك مستشاراً وظيفياً، ينبغي أن تفهم كيفية تجهيز بيانات عميلك للترحيل، والعمل مع إدارة البيانات، وإجراء اختبار قبول المستخدم للعرض المباشر لتطبيقات Finance and Operations.
+prerequisites: "- الفهم الأساسي لتطبيقات Finance and Operations، بما في ذلك المفاهيم الأساسية ومهارات التنقل الأساسية في التطبيق\n- الفهم الأساسي لإضافة الكيانات والحقول والعلاقات في تطبيقات Finance and Operations\n-   فهم كيفية إنشاء كيان قانوني في تطبيقات Finance and Operations \n"
+iconUrl: /learn/achievements/migrate-data-and-go-live-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.migrate-data-and-go-live-in-dynamics-365-for-finance-ops.trophy

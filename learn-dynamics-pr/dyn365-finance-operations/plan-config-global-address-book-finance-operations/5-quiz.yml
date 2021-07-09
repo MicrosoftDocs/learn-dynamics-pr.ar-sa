@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.5-plan-config-global-address-book-in-f-and-o-knowledge-check
+metadata:
+  title: اختبر معلوماتك.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: bd6636640038c0c73b8976327c1fa3d747777e80
+  ms.sourcegitcommit: 399a8fbdc04e0e9851dc1d202615f3279376202c
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/11/2020
+  ms.locfileid: "6072057"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من الأطراف التالية ينبغي إنشاؤها لأحد المقاولين؟
+    choices:
+    - content: المتطوع المحتمل
+      isCorrect: false
+      explanation: المتطوع المحتمل هو طرف يمكنه توفير خدمة أو ميزة لكيان قانوني.
+    - content: العامل
+      isCorrect: true
+      explanation: العامل هو شخص يحمل دور موظف أو مقاول، والذي يدفع مقابل الخدمات.
+    - content: المستخدم
+      isCorrect: false
+      explanation: المستخدم هو شخص يعد مستخدماً للنظام.
+    - content: المورّد
+      isCorrect: false
+      explanation: المورد هو طرف يوفر منتجات لكيان قانوني أو أكثر مقابل الدفع.
+  - content: أي من الأطراف التالية يجب إنشاؤه لشركة توفر المنتجات لشركتك؟
+    choices:
+    - content: المتطوع المحتمل
+      isCorrect: false
+      explanation: المتطوع المحتمل هو طرف يمكنه توفير خدمة أو ميزة لكيان قانوني.
+    - content: العامل
+      isCorrect: false
+      explanation: العامل هو شخص يحمل دور موظف أو مقاول، والذي يدفع مقابل الخدمات.
+    - content: المستخدم
+      isCorrect: false
+      explanation: المستخدم هو شخص يعد مستخدماً للنظام.
+    - content: المورّد
+      isCorrect: true
+      explanation: المورد هو طرف يوفر منتجات لكيان قانوني أو أكثر مقابل الدفع.

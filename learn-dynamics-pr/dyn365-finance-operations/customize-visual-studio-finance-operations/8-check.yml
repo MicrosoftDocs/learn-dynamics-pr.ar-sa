@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customize-using-vs-dynamics-365-finance-operations.8-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 01/20/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d2d3dcd230fe4b01be8ed142b2736f3791ed33f6
+  ms.sourcegitcommit: 6d878af45b3cea618d7cf3fcd9a2f9a06675210d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "6072130"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: تحتاج إلى تغيير كيفية عمل VendorInvoiceLineEntity. أي من الإجراءات التالية يجب أن تتخذه لتبدأ؟
+    choices:
+    - content: قم بإنشاء كيان جديد وانسخ جميع الخصائص من VendorInvoiceLineEntity.
+      isCorrect: false
+      explanation: لن يؤدي إنشاء كيان جديد ونسخ الخصائص إلى تحميل كيانك بدلاً من الأصل، لذلك لن تسري التغييرات التي أجريتها في الواجهة الأمامية.
+    - content: تمديد VendorInvoiceLineEntity.
+      isCorrect: true
+      explanation: يمكن تعديل معظم العناصر بالامتداد.
+    - content: قم بتراكب التغييرات التي أجريتها على VendorInvoiceLineEntity الموجودة.
+      isCorrect: false
+      explanation: كان هذا الخيار في الإصدارات الأقدم ولكن تم إهماله لأنه أقل دعماً من الامتدادات.
+    - content: قم بتحرير VendorInvoiceLineEntity مباشرةً.
+      isCorrect: false
+      explanation: يعتبر VendorInvoiceLineEntity كيان نظام تم تأمينه، حتى يتعذر عليك القيام بذلك إذا حاولت.
+  - content: متى يصبح الكود الخاص بك متاحاً محلياً في تطبيقات Finance and Operations؟
+    choices:
+    - content: عند قيامك بالحفظ
+      isCorrect: false
+      explanation: لا يؤثر الحفظ على بيانات التعريف.
+    - content: عند جمع التغييرات التي قمت بها
+      isCorrect: false
+      explanation: لا يترتب على جمع التغييرات إنشاء بيانات التعريف لهذه التغييرات.
+    - content: عندما تقوم بإيداع التغييرات في التحكم بالمصادر.
+      isCorrect: false
+      explanation: لا يؤثر إيداع التغييرات في التحكم بالمصادر على بيانات التعريف.
+    - content: عند قيامك بالبناء.
+      isCorrect: true
+      explanation: البناء هو ما يقوم بإنشاء بيانات التعريف لتعكس الكود الخاص بك، أما بيانات التعريف فهي ما تستخدمه تطبيقات Finance and Operations لتحديد سلوكياتها.
+  - content: لقد قمت بتمديد جدول لإضافة حقول في Visual studio، وقمت بإجراء بناء، لكنك لا ترى الحقول الجديدة التي أضفتها إلى الجدول. أي من الإجراءات التالية يجب عليك تنفيذها لضمان تحديث تمديد الجدول الخاص بك وعرضه في الجدول؟
+    choices:
+    - content: تصحيح كود الجدول
+      isCorrect: false
+      explanation: لا يجب عليك تصحيح كود الجدول لتتأكد من مزامنة تغييرات الجدول.
+    - content: مزامنة قاعدة البيانات
+      isCorrect: true
+      explanation: إذا لم تتم مزامنة الجدول الخاص بك، فيجب إجراء مزامنة قاعدة البيانات.
+    - content: قم بتشغيل تحليل الكود في الحل
+      isCorrect: false
+      explanation: لن يؤدي تشغيل تحليل الكود إلى مزامنة بيانات تعريف الجدول.
+    - content: قم بإنشاء حزمة قابلة للنشر
+      isCorrect: false
+      explanation: لا يؤدي إنشاء حزمة قابلة للنشر إلى تحديث الجدول.

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.13-common-integration-fo-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تنفيذ ميزات التكامل المشتركة في وحدة تطبيقات Finance and Operations.
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9a47491fa8ed3df8fc34a5595e7303d672de24a8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071974"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/13-common-integration-fo-summary.md)]

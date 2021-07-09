@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-deployment-dynamics-365-finance-operations.8-frameworks
+title: أُطر عمل تطبيقات Finance and Operations
+metadata:
+  title: أُطر عمل تطبيقات Finance and Operations
+  description: تعرّف على أُطر عمل تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/perf-test/testing-validation
+  ms.openlocfilehash: 439399e8e9a8cfb809c1c67866af346f16572f2f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071871"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-frameworks.md)]

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.difference-ax2012-finance-operations.04-cloud-concepts
+title: مفاهيم السحابة
+metadata:
+  title: مفاهيم السحابة
+  description: تعرف على مفاهيم السحابة.
+  ms.date: 02/02/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 938b8be9a79df37adbda28a17b34a12baed61c33
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072205"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-cloud-concepts.md)]"

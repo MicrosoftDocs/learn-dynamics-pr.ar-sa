@@ -1,0 +1,35 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-events-dynamics-365-finance-operations.4-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن السؤال التالي للوقوف على ما تعلمته
+  ms.date: 07/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7c7460f95492392ab8463c7d398a6e99e0586f7c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071434"
+durationInMinutes: 5
+quiz:
+  title: أجب عن السؤال التالي للوقوف على ما تعلمته
+  questions:
+  - content: ما نوع الفئة التي تدعم إنشاء حدث الاعمال وبناء الحمولة وإرسال حدث الأعمال؟
+    choices:
+    - content: فئة عقد أحداث الأعمال
+      isCorrect: false
+      explanation: تقوم فئة عقد أحداث الأعمال بتعريف حمولة حدث الأعمال والسماح بملء العقد في وقت التشغيل.
+    - content: فئة معالج الأحداث
+      isCorrect: false
+      explanation: يعد معالج الأحداث طريقة تتيح لك كتابة الكود أو نسخه لعنصر ما يتم تشغيله عند وقوع حدث معين.
+    - content: فئة حدث
+      isCorrect: false
+      explanation: فئة الحدث غير موجودة.
+    - content: فئة حدث الأعمال
+      isCorrect: true
+      explanation: تعمل فئة حدث الأعمال على توسيع فئة BusinessEventsBase وتدعم إنشاء حدث الأعمال وبناء الحمولة وإرسال حدث الأعمال.

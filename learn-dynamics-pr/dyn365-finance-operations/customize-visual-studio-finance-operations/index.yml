@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.customize-using-vs-dynamics-365-finance-operations
+metadata:
+  title: تخصيص تطبيقات Finance and Operations باستخدام Visual Studio
+  description: يُعد Visual Studio بيئة التطوير المتكامل (IDE) لتطوير تطبيقات Finance and Operations. يمكن للمطورين إنشاء حزم قابلة للنشر تحتوي على مشاريع وعناصر مخزنة كبيانات تعريف. يتيح التطوير في Visual Studio للمستخدمين بتخصيص تجربة تطبيقات Finance and Operations.
+  ms.date: 07/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 25c373dfd06311298b497a2dbbd251aa3a608e9d
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072199"
+title: تخصيص تطبيقات Finance and Operations باستخدام Visual Studio
+summary: "[!include[](../includes/module-banner.md)]\n\nيُعد Visual Studio بيئة التطوير المتكامل (IDE) لتطوير تطبيقات Finance and Operations. يمكن للمطورين إنشاء حزم قابلة للنشر تحتوي على مشاريع وعناصر مخزنة كبيانات تعريف. يتيح التطوير في Visual Studio للمستخدمين بتخصيص تجربة تطبيقات Finance and Operations. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء وبناء المشاريع والحزم القابلة للنشر في Visual Studio. \n- استخدم مستكشف التطبيقات لإدارة العناصر.\n- مزامنة تغييرات قاموس البيانات مع قاعدة بيانات التطبيق.\n- العمل في مصمم العنصر لإنشاء عناصر.\n"
+prerequisites: >
+  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+
+  - الفهم الأساسي للميزات الجاهزة Visual Studio
+iconUrl: /learn/achievements/customize-using-vs-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.2-projects
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.3-metadata
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.4-deploy
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.5-synchronize
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.6-element-design
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.7-exercise
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.8-check
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations.9-summary
+badge:
+  uid: learn-dynamics.customize-using-vs-dynamics-365-finance-operations.badge

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.preventive-reactive-asset-management
+metadata:
+  title: استخدم الصيانة الوقائية والتفاعلية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: تركز هذه الوحدة على مراجعة خطط الصيانة والجدولة، وتحديد جولات الصيانة، وإنشاء أوامر عمل للصيانة، ثم التخطيط لوقت التوقف لإجراء الصيانة.
+  ms.date: 02/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ca8b77e12920471a4236307b53b90befb3bc9d10
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071459"
+title: استخدم الصيانة الوقائية والتفاعلية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتحتاج كافة الآلات والمعدات المستخدمة في الإنتاج والمستودعات إلى صيانة. ويشبه ذلك أخذ سيارتك إلى خدمة الصيانة. تتخذ إجراءات وقائية وتقوم بتغيير الزيت بانتظام، وتخطط لفترة التوقف عندما لا تتمكن من استخدام سيارتك حتى اكتمال الصيانة. يعتمد نجاح مؤسستك على تخطيط الصيانة ووقت التوقف وتكلفة صيانة أصولك. وهذا هو المكان الذي يمكن أن تساعد فيه إدارة الأصول لـ Dynamics 365 Supply Chain Management. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- افهم ما الصيانة الوقائية\n- تحديد خطط الصيانة وربطها بأصل\n- إنشاء دورات صيانة للأصول التي تتطلب الصيانة على فترات منتظمة\n- إنشاء جداول الصيانة والتكاليف المدرجة في الموازنة المقترنة بها لإجراء الصيانة الوقائية للأصول\n- إنشاء أوامر عمل لمهام الصيانة الوقائية\n- تحديد أنشطة وقت التوقف لإجراء الصيانة لمهام الصيانة المجدولة على الأصول ذات الصلة لفترة محددة\n"
+prerequisites: "- المعرفة العامة بإدارة الأصول وعمليات supply chain management. \n- القدرة على التنقل في Dynamics 365 Supply Chain Management.\n"
+iconUrl: /learn/achievements/preventive-reactive-asset-mgmt-dyn365-supply-chain-mgmt.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.preventive-reactive-asset-management.01-introduction
+- learn-dynamics.preventive-reactive-asset-management.02-maintenance-plan
+- learn-dynamics.preventive-reactive-asset-management.02-1-interval-types
+- learn-dynamics.preventive-reactive-asset-management.02-2-assign-asset
+- learn-dynamics.preventive-reactive-asset-management.02-3-schedule-plan
+- learn-dynamics.preventive-reactive-asset-management.03-maintenance-round
+- learn-dynamics.preventive-reactive-asset-management.04-maintenance-schedule
+- learn-dynamics.preventive-reactive-asset-management.05-maintenance-cost
+- learn-dynamics.preventive-reactive-asset-management.06-maintenance-downtime
+- learn-dynamics.preventive-reactive-asset-management.07-exercise-1
+- learn-dynamics.preventive-reactive-asset-management.08-exercise-2
+- learn-dynamics.preventive-reactive-asset-management.09-check
+- learn-dynamics.preventive-reactive-asset-management.10-summary
+badge:
+  uid: learn-dynamics.preventive-reactive-asset-mgmt-dyn365-supply-chain-mgmt.badge

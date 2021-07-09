@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.02-configure-vs
+title: تكوين Visual Studio للاتصال بـ Azure DevOps
+metadata:
+  title: تكوين Visual Studio للاتصال بـ Azure DevOps
+  description: تعرف على كيفية تكوين Visual Studio للاتصال بـ Azure DevOps في تطبيقات Finance and Operations.
+  ms.date: 07/03/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c033e5334ec7fd571a04a22a43d2af1063c85a9f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071835"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/02-configure-vs.md)]

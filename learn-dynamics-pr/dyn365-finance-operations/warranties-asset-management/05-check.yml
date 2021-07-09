@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.warranties-asset-management.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d8fab9682a9bcdbdc530cc2875ad840a7ab1f046
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071250"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الخطوة الأولى التي يلزمك اتخاذها بشأن الضمانات؟
+    choices:
+    - content: التحقق من الضمان
+      isCorrect: false
+      explanation: لا يلزمك التحقق من الضمان
+    - content: إرفاق اتفاقية الضمان إلى أحد الأصول
+      isCorrect: false
+      explanation: تتمثل الخطوة الثانية في إضافة اتفاقية الضمان إلى أحد الأصول أو نوع الأصل.
+    - content: إنشاء اتفاقية ضمان
+      isCorrect: true
+      explanation: يُعد إنشاء اتفاقية ضمان الخطوة الأولى التي يلزمك اتخاذها بشأن الضمانات.
+  - content: ما الذي يحدث عند محاولة إنشاء أمر عمل على أصل يشمله الضمان؟
+    choices:
+    - content: تم منعك من إنشاء أمر عمل
+      isCorrect: false
+      explanation: لم يتم منعك من إنشاء أمر العمل.
+    - content: تتلقى إخطاراً بشأن الضمان
+      isCorrect: true
+      explanation: سينبهك النظام إلى حقيقة وجود اتفاقية ضمان، ثم يسأل ما إذا كنت ترغب في إلغاء أمر العمل.
+    - content: لا يحدث أي شيء
+      isCorrect: false
+      explanation: ستتلقى إخطاراً بشأن اتفاقية الضمان.
+  - content: هل صحيح أنه عند إنشاء أمر عمل، يمكنك تغيير تاريخ بدء الضمان؟
+    choices:
+    - content: 'نعم '
+      isCorrect: true
+      explanation: عند إنشاء أمر عمل، يقوم تاريخ بدء الضمان بإدخال تاريخ إنشاء أمر العمل تلقائياً، ولكن يمكنك تغيير التاريخ يدوياً لتعكس تاريخ بدء الضمان الفعلي.
+    - content: 'لا '
+      isCorrect: false
+      explanation: يمكنك تغيير تاريخ بدء الضمان يدوياً في أمر العمل.

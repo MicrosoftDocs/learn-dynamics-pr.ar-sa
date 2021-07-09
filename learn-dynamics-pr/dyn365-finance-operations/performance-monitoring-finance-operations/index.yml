@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations
+metadata:
+  title: العمل باستخدام أدوات الأداء والمراقبة في تطبيقات Finance and Operations
+  description: تعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services (LCS) لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4ef5fbcf26a0d8516f732b2fe3492c12949461c7
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072187"
+title: العمل باستخدام أدوات الأداء والمراقبة في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services (LCS) لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات Finance and Operations. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تشخيص مشكلات الأداء باستخدام محلل التتبع.\n- استكشف اختبار حمل العمل باستخدام Performance SDK.\n- راقب الأداء باستخدام لوحة معلومات رؤى SQL.\n- مراقبة مقاييس سلامة الخادم في LCS.\n"
+prerequisites: >
+  - الفهم المتقدم لـ Visual Studio
+
+  - الفهم الأساسي للبيانات الوظيفية وعمليات الأعمال
+
+  - الفهم الأساسي والتنقل في LCS
+iconUrl: /learn/achievements/performance-monitoring-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.2-trace-parser
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.3-perf-sdk
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.4-perf-sql
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.4-2-sql-trace
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.5-health-lcs
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.6-exercise
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.7-check
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations.8-summary
+badge:
+  uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.badge

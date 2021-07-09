@@ -1,0 +1,65 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.6-prepare-data-migration-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 03/08/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: d921ff098021a8f05d0b4bf253936d2c7dd94113
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071515"
+title: اختبر معلوماتك
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من الخيارات التالية يتيح التكامل الواسع بين تطبيقات Finance and Operations وغيره من المنتجات والأنظمة والتطبيقات الأخرى؟
+    choices:
+    - content: تكامل Excel
+      isCorrect: false
+      explanation: لا تدعم بعض المنتجات أو التطبيقات Excel.
+    - content: خدمة مخصصة
+      isCorrect: false
+      explanation: بالنسبة لبعض التطبيقات، يكون إنشاء خدمات مخصصة أمراً مكلفاً أو مستحيلاً نظراً لحالتها القديمة وتصميمها المغلق.
+    - content: OData
+      isCorrect: true
+      explanation: تتمثل إحدى مزايا OData في أنها تتيح التكامل الواسع عبر المنتجات.
+  - content: أي من الخيارات التالية يتيح تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وأي تطبيق أو خدمة تابعة لجهة خارجية؟
+    choices:
+    - content: تكامل Excel
+      isCorrect: false
+      explanation: لا تدعم بعض المنتجات أو التطبيقات Excel.
+    - content: خدمة مخصصة
+      isCorrect: false
+      explanation: بالنسبة لبعض التطبيقات، يكون إنشاء خدمات مخصصة أمراً مكلفاً أو مستحيلاً نظراً لحالتها القديمة وتصميمها المغلق.
+    - content: واجهة برمجة تطبيقات (API) بيانات الدُفعة
+      isCorrect: true
+      explanation: تتيح واجهة برمجة التطبيقات (API) لبيانات الدُفعات مع التكامل المتكرر تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وأي تطبيق أو خدمة تابعة لجهة خارجية؟
+  - content: يتفاعل تطبيق Excel Data Connector مع مصنفات Microsoft Excel من خلال أحد الإجراءات التالية؟
+    choices:
+    - content: خدمات الويب الخارجية
+      isCorrect: false
+      explanation: الإجابة الصحيحة هي OData.
+    - content: خدمة مخصصة
+      isCorrect: false
+      explanation: لا تحتاج إلى إنشاء خدمة مخصصة لتطبيق موصل بيانات Excel للتكامل، فهو يستخدم OData.
+    - content: OData
+      isCorrect: true
+      explanation: يتفاعل تطبيق Excel Data Connector مع مصنفات Excel وخدمات OData التي تم إنشاؤها لكيانات البيانات المكشوفة بشكل عام.
+  - content: يعمل لدى شركة طاقة عمال ميدانيون يقومون بجدولة مهام تركيب السخانات. تستخدم هذه الشركة تطبيقات Finance and Operations لمكتب الشئون الإدارية وبرامج الجهات الخارجية كخدمة (SaaS) لجدولة المواعيد. عندما يقوم العاملون الميدانيون بجدولة المواعيد، فيجب عليهم النظر في مدى توفر المخزون للتأكد من توفر أجزاء التركيب الخاصة بالمهمة. يلزم توفر البيانات في الوقت الحقيقي. الحد الأقصى لحجم البيانات هو 1،000 سجل لكل ساعة والتكرار مؤقت. أي من أنماط التكامل التالية يجب أن تستخدمه؟
+    choices:
+    - content: خدمات الويب الخارجية
+      isCorrect: false
+      explanation: لاستهلاك خدمة ويب خارجية، يجب أن تقوم أولاً إنشائها. يجب عليك دائماً تقليل التكلفة الخاصة بعميلك. لذلك، يمكنك أن تطلب مباشرةً من المطور الخاص بك إنشاء خدمة مخصصة بدلاً من ذلك. وإلا فستحتاج إلى تطوير خدمة ويب ثم استهلاكها. قد يكون من المستحيل تقريباً استخدام خدمة الويب القياسية لأنك قد تحتاج إلى العمل مع REST.
+    - content: تكامل Excel
+      isCorrect: false
+      explanation: يجب عليك إنشاء خدمة مخصصة لأن تكامل Excel لا يدعم التكامل في الوقت الحقيقي.
+    - content: خدمة مخصصة
+      isCorrect: true
+      explanation: في تطبيقات Finance and Operations، اطلب من المطور إنشاء خدمة مخصصة لحساب المخزون الفعلي الفعلي لصنف محدد. في تطبيق الجدولة، قم بإجراء استدعاء في الوقت الحقيقي لنقطة نهاية خدمة مخصصة، من خلال SOAP أو REST، لاسترداد معلومات المخزون للصنف المحدد.

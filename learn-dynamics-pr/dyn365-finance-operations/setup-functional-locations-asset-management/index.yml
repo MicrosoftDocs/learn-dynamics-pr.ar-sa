@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.setup-functional-locations-asset-management
+metadata:
+  title: اعداد المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: قبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. تُستخدم المواقع الوظيفية لتحديد مكان تثبيت الأصول الفعلية.
+  ms.date: 02/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 01759537ead5b3eb088ae1fc7d53acac34195c58
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071797"
+title: اعداد المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \n\nقبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. تُستخدم المواقع الوظيفية لتحديد مكان تثبيت الأصول الفعلية.\n"
+abstract: "ستتعرف في هذه الوحدة على كيفية إعداد: \n- حالات دورة حياة موقع العمل\n- نماذج دورة حياة موقع العمل\n- أنواع مواقع العمل\n- أنواع السمات\n"
+prerequisites: >
+  - المعرفة العامة بإدارة الأصول.
+
+  - المعرفة العامة بالتنقل الأساسي في Supply Chain Management.
+
+  - معرفة عمليات Supply Chain Management.
+iconUrl: /learn/achievements/setup-func-loc-asset-mgmt-dyn365-supply-chain-mgmt.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.setup-functional-locations-asset-management.01-introduction
+- learn-dynamics.setup-functional-locations-asset-management.02-functional-location-lifecycle-state
+- learn-dynamics.setup-functional-locations-asset-management.03-configure-functional-location-type
+- learn-dynamics.setup-functional-locations-asset-management.04-maintenance-attribute-type
+- learn-dynamics.setup-functional-locations-asset-management.05-exercise-1
+- learn-dynamics.setup-functional-locations-asset-management.06-exercise-2
+- learn-dynamics.setup-functional-locations-asset-management.07-check
+- learn-dynamics.setup-functional-locations-asset-management.08-summary
+badge:
+  uid: learn-dynamics.setup-func-loc-asset-mgmt-dyn365-supply-chain-mgmt.badge

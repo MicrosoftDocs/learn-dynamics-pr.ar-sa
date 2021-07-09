@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.connect-power-platform-dynamics-365-finance-operations
+metadata:
+  title: الاتصال بخدمات Power Platform باستخدام تطبيقات Finance and Operations
+  description: تُعد خدمات Power Platform مثل Power Apps وPower Automate وCommon Data Model من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات Finance and Operations.
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f3658cab784ccc804a34a0299ccaa6be42f22418
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072179"
+title: الاتصال بخدمات Power Platform باستخدام تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nتُعد خدمات Power Platform مثل Power Apps وPower Automate وCommon Data Model من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات Finance and Operations. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتوصيل بيانات تطبيقات Finance and Operations الخاصة بك باستخدام Power Automate.\n- الاتصال ببيانات تطبيقات Finance and Operations الخاصة بك باستخدام Power Apps.\n- تعرف على Common Data Model لتجميع البيانات من أنظمة وتطبيقات متعددة معاً.\n"
+prerequisites: >
+  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+
+  - الإلمام بتطبيقات Finance and Operations
+iconUrl: /learn/achievements/connect-power-platform-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.connect-power-platform-dynamics-365-finance-operations.1-connect-flow
+- learn-dynamics.connect-power-platform-dynamics-365-finance-operations.2-power-apps
+- learn-dynamics.connect-power-platform-dynamics-365-finance-operations.2-2-common-data-model
+- learn-dynamics.connect-power-platform-dynamics-365-finance-operations.3-check
+- learn-dynamics.connect-power-platform-dynamics-365-finance-operations.4-summary
+badge:
+  uid: learn-dynamics.connect-power-platform-dynamics-365-finance-operations.badge

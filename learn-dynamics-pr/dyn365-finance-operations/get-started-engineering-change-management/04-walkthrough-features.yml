@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-engineering-change-management.04-walkthrough-features
+title: الاستعراض الشامل للميزات
+metadata:
+  title: الاستعراض الشامل للميزات
+  description: تعرف على الميزات المضمنة في إدارة التغيير الهندسي.
+  ms.date: 01/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-scm
+  ms.openlocfilehash: 372df043fcc7beb6ce5d2089a1cd855a9220d00c
+  ms.sourcegitcommit: 4ce9caef7d38158f172e82412bc70ae36883e42f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2021
+  ms.locfileid: "6072142"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-walkthrough-features.md)]"

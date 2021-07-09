@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.9-apply-purposes-and-policies
+title: تطبيق الأغراض والسياسات
+metadata:
+  title: تطبيق الأغراض والسياسات
+  description: توضح هذه الوحدة كيفية تطبيق الأغراض والسياسات على التدرجات الهرمية للمؤسسة في تطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 809b7230a266edbea784f33b98d33e044090b4be
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071170"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-apply-purposes-policies.md)]

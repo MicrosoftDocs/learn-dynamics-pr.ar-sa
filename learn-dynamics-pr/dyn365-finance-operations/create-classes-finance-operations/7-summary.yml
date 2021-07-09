@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-classes-dynamics-365-finance-operations.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعلمته عن إنشاء الفئات في الوحدة النمطية لتطبيقات Finance and Operations.
+  ms.date: 07/16/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9fa6f29a5195335e9f3b6d302628a5e600cabaf6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071559"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-summary.md)]

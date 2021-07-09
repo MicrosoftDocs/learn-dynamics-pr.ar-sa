@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.benefits-management.8-exercise
+title: تدريب-إنشاء خطة ميزات
+metadata:
+  title: تدريب-إنشاء خطة ميزات
+  description: قم بإنشاء خطة ميزات خطوة بخطوة.
+  ms.date: 04/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 2b577eaf7281f40dc7d48e4f48abf969e768cb51
+  ms.sourcegitcommit: fbcbc6f89d1c361bdf63e394196510ca682ec671
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072696"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-exercise.md)]"

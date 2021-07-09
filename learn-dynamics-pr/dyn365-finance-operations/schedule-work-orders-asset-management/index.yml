@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.schedule-work-orders-asset-management
+metadata:
+  title: جدولة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: يتم إنشاء جداول لعمال الصيانة والأصول والأدوات الأخرى عند جدولة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management.
+  ms.date: 05/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1fe256af98d311b55393c24897bd5a460cbc9446
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071637"
+title: جدولة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nيتم إنشاء جداول لعمال الصيانة والأصول والأدوات الأخرى عند جدولة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء تقويمات العمال والجدولة. \n- تعريف عمال الصيانة المفضلين وتعيينهم. \n- جدولة أوامر العمل وإرسالها، بما في ذلك الجدولة لتاريخ ووقت محددين.\n- راجع مهام صيانة أمر العمل المجدول لتعيين موارد لمهام الصيانة. \n- تعرف على كيفية حساب القدرة الإنتاجية على أوامر العمل المجدولة حسب فترات محددة.\n"
+prerequisites: "- المعرفة العامة بإدارة الأصول وعمليات supply chain management. \n- القدرة على التنقل في Dynamics 365 Supply Chain Management.\n"
+iconUrl: /learn/achievements/schedule-work-orders-asset-mgmt-dyn365-scm.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.schedule-work-orders-asset-management.01-introduction
+- learn-dynamics.schedule-work-orders-asset-management.02-configure-workers
+- learn-dynamics.schedule-work-orders-asset-management.03-schedule-dispatch
+- learn-dynamics.schedule-work-orders-asset-management.04-calculate-capacity
+- learn-dynamics.schedule-work-orders-asset-management.05-exercise-1
+- learn-dynamics.schedule-work-orders-asset-management.06-exercise-2
+- learn-dynamics.schedule-work-orders-asset-management.07-check
+- learn-dynamics.schedule-work-orders-asset-management.08-summary
+badge:
+  uid: learn-dynamics.schedule-work-orders-asset-mgmt-dyn365-scm.badge

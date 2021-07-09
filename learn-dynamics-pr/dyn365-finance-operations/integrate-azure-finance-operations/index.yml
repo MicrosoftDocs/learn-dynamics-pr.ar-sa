@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations
+metadata:
+  title: تكامل تطبيقات Finance and Operations مع Microsoft Azure
+  description: تم عمل تكامل بين تطبيقات Finance and Operations مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك.
+  ms.date: 07/23/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 770c4e49cc036a51e9ea2382ea03c1a66fad2a93
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072211"
+title: تكامل تطبيقات Finance and Operations مع Microsoft Azure
+summary: "[!include[](../includes/module-banner.md)]\n\nتم عمل تكامل بين تطبيقات Finance and Operations مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التطوير والتكامل باستخدام Logic Apps.\n- تكامل تطبيقات Finance and Operations مع تطبيقات المؤسسة.\n- تطوير وتكامل Microsoft Power Platform. \n- التنفيذ التلقائي لـ EAI وB2B وEDI والعمليات التجارية.\n- استخدام البيانات من خدمة التعلم الآلي من Azure.\n- تمكين الاتصال مع الخدمات الخارجية.\n"
+prerequisites: >
+  - الإلمام بتطبيقات Finance and Operations
+
+  - الإلمام بالبرمجة الموجهة للعناصر
+
+  - المعرفة الأساسية بـ Microsoft Dynamics Lifecycle Services
+iconUrl: /learn/achievements/integrate-azure-dynamics-365-finance-operations.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.2-logic-apps
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.3-power
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.4-enterprise
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.5-automate
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.6-machine-learn
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.7-connect-external
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.8-optimize
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.9-check
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations.10-summary
+badge:
+  uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations.badge

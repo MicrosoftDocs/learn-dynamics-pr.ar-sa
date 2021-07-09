@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 57937304978a458b892d65d5a972437889cc8c2a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071608"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: عند تطوير نموذج جديد لتطبيقات Finance and Operations، هل حقاً يُعد تطبيق نمط النموذج خطوة إلزامية؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: رغم أن تطبيق نمط النموذج يُعد أفضل الممارسات، فإنه ليس إلزامياً.
+    - content: لا
+      isCorrect: true
+      explanation: يوصى بشدة بتطبيق نمط النموذج ويُعد أفضل الممارسات عند إنشاء نموذج جديد، لكنه ليس إلزامياً.
+  - content: عند تلبية جميع المتطلبات الخاصة بنمط النموذج، ما الذي يجب القيام به قبل إنشاء النموذج ومعاينته في نافذة المستعرض؟
+    choices:
+    - content: تشغيل تقرير نمط النماذج.
+      isCorrect: false
+      explanation: يكون تقرير نمط النماذج ملفاً بتنسيق ‎.csv يسرد جميع النماذج الموجودة في النظام. ولا يُعد خطوة ضرورية قبل معاينة النموذج.
+    - content: التحقق من الوظيفة الإضافية لإحصائيات النموذج.
+      isCorrect: false
+      explanation: تقدم الوظيفة الإضافية لإحصائيات النموذج نظرة عامة حول عناصر التحكم وتغطية النمط في نموذج محدد. ولا يُعد خطوة ضرورية قبل معاينة النموذج.
+    - content: تعيين النموذج الذي تريد معاينته على أنه كائن بدء التشغيل للمشروع.
+      isCorrect: true
+      explanation: يجب أولاً تعيين النموذج الذي تريد معاينته على أنه كائن بدء التشغيل للمشروع بالنقر بزر الماوس الأيمن فوق النموذج الموجود في النافذة "مستكشف الحلول" وتحديد ذلك الخيار.
+    - content: إجراء إعادة بناء للنموذج.
+      isCorrect: false
+      explanation: ستؤدي إعادة بناء النموذج إلى فرض إعادة بناء العناصر الموجودة في المشروع وتجميعها. ولن تقوم بتشغيل النموذج إلا إذا تم تعيين النموذج بالفعل على أنه كائن بدء التشغيل.
+  - content: ترغب في إرفاق تقرير بأحد أصناف القائمة بحيث يتم عرض التقرير عندما يقوم المستخدم بتحديد صنف القائمة. فما نوع صنف القائمة الذي يجب استخدامه لتنفيذ هذه المهمة؟
+    choices:
+    - content: صنف قائمة العرض
+      isCorrect: false
+      explanation: يتم استخدام صنف قائمة العرض لتقديم النماذج أو كائنات الحوار.
+    - content: صنف قائمة الإخراج‬
+      isCorrect: true
+      explanation: يتم استخدام صنف قائمة الإخراج لعرض نتيجة أو تقرير وطباعتهما، مثل تقرير SSRS.
+    - content: صنف قائمة الإجراءات‬
+      isCorrect: false
+      explanation: يتم استخدام صنف قائمة الإجراءات لتشغيل الكود، مثل الفئة أو المهمة.
+    - content: صنف قائمة النافذة
+      isCorrect: false
+      explanation: لا يوجد صنف قائمة النافذة في تطبيقات Finance and Operations.

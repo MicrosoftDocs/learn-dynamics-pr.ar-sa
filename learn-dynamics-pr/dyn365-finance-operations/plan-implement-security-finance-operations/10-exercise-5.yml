@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.10-exercise-exclude-users-from-a-role-assignment
+title: معمل - استبعاد المستخدمين من تعيين الدور
+labId: 63310
+metadata:
+  title: معمل - استبعاد المستخدمين من تعيين الدور
+  description: تدرب على استبعاد المستخدمين من تعيين الدور في تطبيقات Finance and Operations.
+  ms.date: 04/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6fbe9b27fe7b9cb0673974e93da3c26bbb616437
+  ms.sourcegitcommit: 3187888623499a3f582eb5557bd468f4e8c40546
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/31/2020
+  ms.locfileid: "6072040"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/10-exercise-exclude-users-from-a-role-assignment.md)] \n[!include[](../includes/non-final-lab-end.md)]"

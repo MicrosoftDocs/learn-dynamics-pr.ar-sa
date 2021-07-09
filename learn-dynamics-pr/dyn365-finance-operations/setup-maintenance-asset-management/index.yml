@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.setup-maintenance-asset-management
+metadata:
+  title: إعداد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: لاستخدام مكونات الصيانة لإدارة الأصول في مؤسستك لـ Dynamics 365 Supply Chain Management، يجب أولاً إعداد إطار العمل. ستوضح هذه الوحدة كيفية تكوين طلبات الصيانة وأنواع الطلبات وحالات دورة الحياة وإنشاء مسؤوليات عامل الصيانة.
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 674149b9b7fd9de1172ba48fdb0b90933e8d3000
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071773"
+title: إعداد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nلاستخدام مكونات الصيانة لإدارة الأصول في مؤسستك لـ Dynamics 365 Supply Chain Management، يجب أولاً إعداد إطار العمل. ستوضح هذه الوحدة كيفية تكوين طلبات الصيانة وأنواع الطلبات وحالات دورة الحياة وإنشاء مسؤوليات عامل الصيانة.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين طلبات الصيانة.\n- قم بمراجعة كيفية إعداد حالات دورة حياة.\n- تحديد كيفية إنشاء أنواع طلب الصيانة.\n- إنشاء مسؤوليات عمال الصيانة في إدارة الأصول. \n"
+prerequisites: >
+  - المعرفة العامة بإدارة الأصول.
+
+  - الإلمام بشروط الصيانة والعمليات.
+
+  - القدرة على التنقل في Dynamics 365 Supply Chain Management.
+iconUrl: /learn/achievements/setup-maintenance-asset-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.setup-maintenance-asset-management.01-introduction
+- learn-dynamics.setup-maintenance-asset-management.02-create-maintenance-request-state
+- learn-dynamics.setup-maintenance-asset-management.03-create-maintenance-request-model
+- learn-dynamics.setup-maintenance-asset-management.04-create-maintenance-request-type
+- learn-dynamics.setup-maintenance-asset-management.05-maintenance-worker
+- learn-dynamics.setup-maintenance-asset-management.06-exercise
+- learn-dynamics.setup-maintenance-asset-management.07-check
+- learn-dynamics.setup-maintenance-asset-management.08-summary
+badge:
+  uid: learn-dynamics.setup-maintenance-asset-management.badge

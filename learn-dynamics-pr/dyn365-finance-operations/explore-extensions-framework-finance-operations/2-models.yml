@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations.2-models
+title: وحدات التخصيص
+metadata:
+  title: وحدات التخصيص
+  description: تعرف على نماذج التخصيص في إطار عمل التوسيع في تطبيقات Finance and Operations.
+  ms.date: 07/04/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e970147444d77a3b6446d7676a90e67b9cc500f3
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071868"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-models.md)]

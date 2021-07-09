@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enable-engineering-change-management.5-exercise
+title: التمرين - إنشاء قاعدة أهمية
+metadata:
+  title: التمرين - إنشاء قاعدة أهمية
+  description: اطلع على خطوات إنشاء قاعدة أهمية لطلب تغيير في المستند.
+  ms.date: 05/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d0cd2501b4b5a08c41e16d75b178223e19d2dcd5
+  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6072660"
+durationInMinutes: 13
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-exercise.md)]"

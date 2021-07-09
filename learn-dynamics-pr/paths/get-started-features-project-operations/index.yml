@@ -1,0 +1,48 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-features-project-operations
+metadata:
+  title: بدء استخدام الميزات الموجودة في Dynamics 365 Project Operations
+  description: تعرف على الميزات في Dynamics 365 Project Operations
+  ms.date: 05/03/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 45a1156384be0851b1c45ff72ee1f10db6bca8d9
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6074771"
+title: بدء استخدام الميزات الموجودة في Dynamics 365 Project Operations
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  باستخدام Dynamics 365 Project Operations، يمكنك الحصول على الرؤية والتعاون والمرونة اللازمة لدفع النجاح عبر عملك الذي يرتكز على المشروع، من التوقعات مُضياً بالمدفوعات وصولاً إلى الأرباح. تعرف على إمكانيات Project Operations في مسار التعلم هذا.
+prerequisites: >
+  - المعرفة الأساسية لعمليات إدارة المشاريع.
+
+  - المعرفة العامة بكيفية التنقل في Dynamics 365 Project Operations.
+iconUrl: /learn/achievements/get-started-features-project-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-field-service
+modules:
+- learn-dynamics.get-started-project-operations
+- learn-dynamics.get-started-project-sales-management
+- learn-dynamics.get-started-project-management
+- learn-dynamics.get-started-project-resource-management
+- learn-dynamics.get-started-project-work-management
+- learn-dynamics.get-started-invoicing-project-operations
+- learn-dynamics.get-started-project-accounting
+trophy:
+  uid: learn-dynamics.get-started-features-project-operations.trophy

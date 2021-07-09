@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customize-using-vs-dynamics-365-finance-operations.6-element-design
+title: استخدام مصمم العنصر لإنشاء عناصر
+metadata:
+  title: استخدام مصمم العنصر لإنشاء عناصر
+  description: تعرّف على كيفية استخدام مصمم العنصر لإنشاء عناصر.
+  ms.date: 07/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 97570016c7568358e0d4c63cd73a1716178ced2b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071408"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-element-design.md)]

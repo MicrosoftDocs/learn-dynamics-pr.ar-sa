@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops
+metadata:
+  title: تخطيط دفتر العناوين العمومي وتكوينه في تطبيقات Finance and Operations
+  description: يُعد دفتر العناوين العمومي (GAB) مستودعاً مركزياً للبيانات الرئيسية التي يجب تخزينها لجميع الأشخاص والمؤسسات الداخلية والخارجية التي تتفاعل معها الشركة. عند تغيير أحد العناوين، يتعين إجراء التحديث في مكان واحد فقط. ويتم تحديث جميع السجلات المرتبطة الأخرى تلقائياً.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c2a8358056ad4c7c01aa1b12d2c0cbc8825409fc
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072210"
+title: تخطيط دفتر العناوين العمومي وتكوينه في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يُعد دفتر العناوين العمومي (GAB) مستودعاً مركزياً للبيانات الرئيسية التي يجب تخزينها لجميع الأشخاص والمؤسسات الداخلية والخارجية التي تتفاعل معها الشركة. عند تغيير أحد العناوين، يتعين إجراء التحديث في مكان واحد فقط. ويتم تحديث جميع السجلات المرتبطة الأخرى تلقائياً.
+abstract: "ستتعرف في هذه الوحدة على: \n- ما هو دفتر العناوين العمومي؟\n- كيفية عمل دفتر العناوين العمومي.\n- كيفية التخطيط لدفتر العناوين العمومي ودفاتر العناوين الأخرى\n"
+prerequisites: المعرفة العامة بتطبيقات Finance and Operations
+iconUrl: /learn/achievements/plan-config-global-address-book-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.1-plan-config-global-address-book-in-f-and-o-introduction
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.2-how-global-address-book-works
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.3-plan-global-and-other-address-books
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.4-exercise-configure-address-books
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.5-exercise-duplicate-checking
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.5-plan-config-global-address-book-in-f-and-o-knowledge-check
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.6-plan-config-global-address-book-in-f-and-o-summary
+badge:
+  uid: learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.badge

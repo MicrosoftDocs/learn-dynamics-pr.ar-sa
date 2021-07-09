@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-edt-enums-dynamics-365-finance-operations.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b2b6b288aa2bbd70e685cc1a47060b6609c6ca25
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071763"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: كيف يتم تمثيل Enums الأساسية وتخزينها في قاعدة البيانات؟
+    choices:
+    - content: قيمة سلسلة حرفية
+      isCorrect: false
+      explanation: يرى المستخدمون قيمة سلسلة حرفية في واجهة المستخدم، ولكن لا يتم تخزين القيمة الحرفية في قاعدة البيانات.
+    - content: قيمة رقمية
+      isCorrect: true
+      explanation: يتم تخزين Enums الأساسية كقيم رقمية (مثل 0، 1، 2) في قاعدة البيانات.
+    - content: حرف أبجدي
+      isCorrect: false
+      explanation: يتم استخدام القيم الرقمية، وليس الحروف الأبجدية، عند تخزين Enums الأساسية في قاعدة البيانات.
+    - content: سلسلة من الحروف الرقمية والأبجدية.
+      isCorrect: false
+      explanation: يتم تخزين القيم الرقمية فقط في قاعدة البيانات.
+  - content: نوصي باستخدام أنواع EDT كلما أمكن في ترميز تطبيقات Finance and Operations. أي من هذه العبارات ليس ضمن مزايا استخدام أنواع EDT؟
+    choices:
+    - content: أنواع EDT أسهل بكثير في التحويل البرمجي.
+      isCorrect: true
+      explanation: يتم تحويل أنواع EDT برمجياً بالطريقة نفسها التي يتم بها ذلك لأي نوع بيانات أساسي.
+    - content: أنواع EDT قابلة لإعادة الاستخدام على مدى النظام.
+      isCorrect: false
+      explanation: أنواع EDT قابلة لإعادة الاستخدام على مدى النظام.
+    - content: الكود سهل القراءة.
+      isCorrect: false
+      explanation: الكود سهل القراءة لأنواع EDT لأنها تتم الإشارة اليها بالاسم.
+    - content: يمكن توارث الخصائص من أنواع EDT الأصل.
+      isCorrect: false
+      explanation: ترث أنواع EDT الخصائص من الأصل الخاص بها، ويمكن استخدامها بتنسيق هرمي.
+  - content: يمكن عرض التعداد الأساسي بطرق متعددة في واجهة مستخدم تطبيقات Finance and Operations. أي مما يلي ليس مثالاً لكيفية عرض Enum أساسي في واجهة المستخدم؟
+    choices:
+    - content: أزرار الخيارات
+      isCorrect: false
+      explanation: أزرار الخيارات هي تعدادات أساسية يتم تمثيلها في واجهة المستخدم.
+    - content: شريط تمرير
+      isCorrect: false
+      explanation: شريط التمرير هو تعداد أساسي يُستخدم في واجهة المستخدم.
+    - content: حقل التاريخ
+      isCorrect: true
+      explanation: حقل التاريخ هو نوع EDT، وليس تعداداً أساسياً، يُستخدم في واجهة المستخدم.
+    - content: قائمة منسدلة
+      isCorrect: false
+      explanation: القائمة المنسدلة هي تعداد أساسي يتم عرضه في واجهة المستخدم.

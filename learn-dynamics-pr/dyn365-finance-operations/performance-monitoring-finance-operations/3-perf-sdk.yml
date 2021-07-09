@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.3-perf-sdk
+title: اختبار الحمل باستخدام Performance SDK
+metadata:
+  title: اختبار الحمل باستخدام Performance SDK
+  description: تعرف على كيفية اختبار الحمل باستخدام Performance SDK في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: cbc3c142a25a1836f81749d7a17757795ae60f09
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071285"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-perf-sdk.md)]

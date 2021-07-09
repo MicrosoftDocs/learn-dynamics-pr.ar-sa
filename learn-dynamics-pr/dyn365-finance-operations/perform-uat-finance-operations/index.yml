@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops
+metadata:
+  title: إجراء اختبار قبول المستخدم في تطبيقات Finance and Operations
+  description: يعد اختبار قبول المستخدم خطوة مهمة في إعداد البث المباشر. يمكنك استخدام RSAT للتنفيذ التلقائي لحالات الاختبار.
+  ms.date: 06/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 30e87704f6dcc0544a056a7286ab6bef2583080a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072197"
+title: إجراء اختبار قبول المستخدم في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  بعد معالجة جميع متطلبات العملاء من خلال التكوين والتخصيص والتكامل، تحتاج إلى معرفة كيفية إجراء اختبار قبول المستخدم (UAT) في تطبيقات Finance and Operations للتحقق من صحة الحل. يعد اختبار قبول المستخدم خطوة مهمة في إعداد البث المباشر. يمكنك إجراء الاختبارات التلقائية باستخدام Regression suite automation tool (RSAT).
+abstract: "سوف تتعرف في هذه الوحدة على: \n- حالات الاختبار ومتطلبات الأعمال\n- أفضل الممارسات لتسجيل حالات الاختبار\n- مسجل المهام\n- كيفية إنشاء مكتبة BPM \n- كيفية مزامنة خطة الاختبار وتكوينها في Azure DevOps\n- كيفية تشغيل حالات الاختبار يدوياً وتلقائياً\n- The Regression suite automation tool (RSAT) \n"
+prerequisites: >
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+
+  - القدرة على استخدام Dynamics Lifecycle Services (LCS)
+
+  - الفهم العام لعمليات الاختبار
+iconUrl: /learn/achievements/perform-uat-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.01-perform-uat-introduction
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.02-create-uat-libraries
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.03-record-test-cases-save-to-bpm
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.04-synchronize-configure-test-plan
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.05-run-your-tests
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.06-data-task-automation
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.07-exercise-build-test-scripts
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.08-perform-uat-quiz
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops.09-perform-uat-summary
+badge:
+  uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.8-on-premises-impl-design-and-develop
+title: التنفيذ محلياً - التصميم والتطوير
+metadata:
+  title: التنفيذ محلياً - التصميم والتطوير
+  description: تلخص هذه الوحدة خطوات تصميم وتطوير عملية تنفيذ تطبيقات Finance and Operations محلياً.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: bff353048c0f9239e590f742b34c5a0cf0e2c7ce
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071982"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-on-premises-impl-design-and-develop.md)]

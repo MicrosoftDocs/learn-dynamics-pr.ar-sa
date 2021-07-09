@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations.7-connect-external
+title: تمكين الاتصال مع الخدمات الخارجية
+metadata:
+  title: تمكين الاتصال مع الخدمات الخارجية
+  description: تعرَّف على كيفية تمكني الاتصال مع الخدمات الخارجية في تطبيقات Finance and Operations.
+  ms.date: 07/23/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 92421203dca1e61dad9d2797c991456ab1d4a2bc
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071961"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-connect-external.md)]

@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops
+metadata:
+  title: تحضير البيانات للترحيل إلى تطبيقات Finance and Operations
+  description: عندما يحين وقت ترحيل البيانات، كلما عرفت المزيد من المعلومات، أصبح من الأسهل التحكم في التعقيد التشغيلي وخفض التكاليف. يجب أن تكون استمرارية عمل عميلك على رأس أولوياتك. تعرف على كيفية تحضير البيانات للترحيل، باستخدام إطار عمل إدارة البيانات لإدارة كيانات البيانات وحزم كيانات البيانات في تطبيقات Finance and Operations.
+  ms.date: 12/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 203d621ddf858b9e831e0f725ac22a7fa6091334
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072193"
+title: تحضير البيانات للترحيل إلى تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  عندما يحين وقت ترحيل البيانات، كلما عرفت المزيد من المعلومات، أصبح من الأسهل التحكم في التعقيد التشغيلي وخفض التكاليف. يجب أن تكون استمرارية عمل عميلك على رأس أولوياتك. تعرف على كيفية تحضير البيانات للترحيل، باستخدام إطار عمل إدارة البيانات لإدارة كيانات البيانات وحزم كيانات البيانات في تطبيقات Finance and Operations.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- يمكنك اختيار استراتيجية تكامل البيانات (استيراد/تصدير).\n- حدد سيناريوهات الترحيل الشائعة والأدوات في تطبيقات Finance and Operations. \n- يمكنك فهم ميزة إحضار قاعدة البيانات الخاصة بك (BYOD).\n- تحديد الأنظمة (القديمة) ذات الصلة.\n- تحديد البيانات الثابتة المشتركة بين الصناعات واستيرادها.\n- قم بإنشاء خطط اختبار لترحيل البيانات ومراجعتها. \n- حدد البيانات المصدر واستخرجها.\n- حدد كيانات وعناصر البيانات ذات الصلة.\n- قم بإنشاء تعيين الحقل بين هياكل البيانات المصدر والهدف.\n- يمكنك اختبار ترحيل البيانات والتحقق من صحة الإخراج. \n- يمكنك دعم الانتقال بين الأنظمة الموجودة والتي تم ترحيلها.\n"
+prerequisites: >
+  - المعرفة العامة بـ Microsoft Windows
+
+  - الفهم جيد لتطبيقات Finance and Operations، بما في ذلك المفاهيم الأساسية ومهارات التنقل الأساسية في التطبيق
+
+  - الفهم الجيد لإضافة الكيانات والحقول والعلاقات إلى تطبيقات Finance and Operations
+iconUrl: /learn/achievements/prepare-data-migration-to-dynamics-365-finance-ops.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.1-prepare-data-migration-module-introduction
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.2-data-integration-strategy
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.3-common-migration-scenarios-tools
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.4-bring-your-own-database
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.5-perform-test-migration-validate-output
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.6-prepare-data-migration-quiz
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.7-prepare-data-migration-summary
+badge:
+  uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.badge

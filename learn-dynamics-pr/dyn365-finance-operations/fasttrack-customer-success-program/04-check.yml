@@ -1,0 +1,40 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.fasttrack-customer-success-program.04-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 5950daffc7eee505bdb512f1d38ef6188d061322
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071950"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما نوع المصادر التعليمية الرسمية التي تدعم التنفيذ؟
+    choices:
+    - content: Tech Talks، وMicrosoft Docs، ومدونات مجتمع Dynamics 365، وMicrosoft Learn
+      isCorrect: true
+      explanation: هذه هي المصادر التي يشارك فيها مهندسو الحلول رسمياً لتقديم جميع المعلومات التي يمكن أن تدعم التنفيذ.
+    - content: YouTube، Facebook، LinkedIn
+      isCorrect: false
+      explanation: على الرغم من أنه يمكنك العثور على معلومات قيمة من خلال قنوات أخرى، فإن هذه المصادر ليست المصادر الرسمية التي يقدم مهندسو حلول FastTrack المعلومات منها. فيمكنهم الحصول على معلوماتهم من هذه المصادر، ولكن المواد الممتازة يتم توفيرها من الشركاء، والمتميزين، وغيرهم من الأشخاص الذين لديهم خبرة واسعة في Finance and Operations.
+  - content: ما الغرض من مخطط الحل؟
+    choices:
+    - content: يمكن لـ FastTrack معرفة المزيد عن المشروع وبالتالي يمكنه التنفيذ جنباً إلى جنب مع الشريك طوال المشروع.
+      isCorrect: false
+      explanation: سوف يفهم FastTrack بنية المشروع، وسيوفر إرشادات حول أفضل الممارسات والحلول التي تتناسب بشكل أفضل مع سيناريوهات الأعمال، وسيساعد المؤسسات على جعل التنفيذ أكثر فعالية.
+    - content: تحديد المخاطر، و‏‫ضمان فهم العميل، و‏‫ضمان نتائج العميل.
+      isCorrect: true
+      explanation: سوف يفهم FastTrack بنية المشروع، وسيوفر إرشادات حول أفضل الممارسات والحلول التي تتناسب بشكل أفضل مع سيناريوهات الأعمال، وسيساعد المؤسسات على جعل التنفيذ أكثر فعالية.
+    - content: توفير قائمة بالأنشطة المطلوب تنفيذها قبل العرض المباشر.
+      isCorrect: false
+      explanation: يمكن أن تكون قائمة الأنشطة المطلوب تنفيذها قبل العرض المباشر ‏‫قابلة للتسليم من مخطط الحل.

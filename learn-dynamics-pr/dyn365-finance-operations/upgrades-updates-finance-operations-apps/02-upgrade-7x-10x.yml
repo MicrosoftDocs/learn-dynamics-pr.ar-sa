@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.upgrades-updates-finance-operations-apps.02-upgrade-7x-10x
+title: الترقية من الإصدار 7 إلى الإصدار 10 في Finance and Operations
+metadata:
+  title: الترقية من الإصدار 7 إلى الإصدار 10 في Finance and Operations
+  description: إذا كان لديك إصدار سابق من Finance and Operations مثل 7.0 (RTW)، أو 7.1 (1611)، أو 7.2 (يوليو 2017)، أو 7.3، يمكنك معرفة كيفية تطبيق ترقية الخدمة الذاتية إلى الإصدار 10.
+  ms.date: 04/12/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 50022d5ce63036f89b5f4d851645b8de47cbfb0d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071307"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-upgrade-7x-10x.md)]"

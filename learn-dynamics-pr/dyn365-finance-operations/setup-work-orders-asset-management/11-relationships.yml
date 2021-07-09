@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-work-orders-asset-management.11-relationships
+title: العلاقات بين نماذج دورة الحياة الخاصة بأمر العمل وأنواع أوامر العمل وحالات دوره الحياة لأمر العمل
+metadata:
+  title: العلاقات بين نماذج دورة الحياة الخاصة بأمر العمل وأنواع أوامر العمل وحالات دوره الحياة لأمر العمل
+  description: تصف هذه الوحدة العلاقات بين نماذج دورة الحياة الخاصة بأمر العمل وأنواع أوامر العمل وحالات دوره الحياة لأمر العمل
+  ms.date: 02/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5112244b21a7890a8660a13a575ed0ce149be732
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071586"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-relationships.md)]"

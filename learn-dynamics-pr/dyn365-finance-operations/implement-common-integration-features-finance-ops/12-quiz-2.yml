@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.12-common-integration-fo-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 38896c896f20bbf78fac0858702bc7a1a6a7bc33
+  ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2020
+  ms.locfileid: "6072064"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي مما يلي يسمح لك بالتكامل بين Dynamics 365 Sales وFinance and Operations؟
+    choices:
+    - content: يجب أن تقوم بإنشاء موصل مخصص.
+      isCorrect: false
+      explanation: لست بحاجة إلى إعداد موصل مخصص نظراً لأنه يمكنك استخدام Microsoft Dataverse لتمكين تدفق البيانات بين تطبيقات Finance and Operations وDynamics 365 Sales.
+    - content: التكامل هو وظيفة مضمنة في Finance and Operations.
+      isCorrect: false
+      explanation: يجب استخدام Dataverse لتمكين تدفق البيانات بين Finance and Operations وSales.
+    - content: Dataverse
+      isCorrect: true
+      explanation: يمكنك استخدام Dataverse لتمكين تدفق البيانات بين Finance and Operations وSales. يمكن أن تتدفق معلومات العميل الموجودة في Sales إلى Finance and Operations. لا يتعين عليك نقل البيانات يدوياً أو استخدام أداة تكامل بيانات تابعة لجهة خارجية.
+  - content: اي من سيناريوهات الطباعة التالية يمكنه تصدير إصدار PDF؟
+    choices:
+    - content: طباعة ما تشاهده
+      isCorrect: false
+      explanation: يقوم خيار "طباعة ما تشاهده" بطباعة ما يتم عرضه حالياً في المستعرض، وعند الطباعة، يتم إنشاء نسخة "ملائمة للطباعة" من صفحة الويب للمستعرض. هذه الخاصية مدعومة من قبل وظيفة العرض في عميل HTML5 في المستعرض.
+    - content: الطباعة على جهاز شبكة
+      isCorrect: false
+      explanation: يمكنك إرسال مستند الدقة إلى جهاز طابعة في أحد المجالات. يتم إرسال مستند الدقة إلى تطبيق عميل يتم تشغيله على خادم تتم استضافته في مجال العميل. يتطلب هذا الدعم من تطبيقات العميل ومن الخدمات التي تتم استضافتها في Microsoft Azure.
+    - content: طباعة تفاعلية
+      isCorrect: true
+      explanation: يمكنك تصدير نسخة PDF من التقرير وتنزيلها إلى المستعرض لطباعة مستند دقيق على جهاز متصل محلياً. ويستخدم هذا تطبيقات العميل وخدمات Microsoft 365. لعرض ملفات PDF، يجب أن تقوم بتثبيت Adobe Acrobat Reader.
+  - content: اي من سيناريوهات الطباعة التالية يمكنه استخدام عميل HTML5؟
+    choices:
+    - content: طباعة ما تشاهده
+      isCorrect: true
+      explanation: لطباعة ما يتم عرضه حالياً في المستعرض، وعند الطباعة، يتم إنشاء نسخة "ملائمة للطباعة" من صفحة الويب للمستعرض. هذه الخاصية مدعومة من قبل وظيفة العرض في عميل HTML5 في المستعرض.
+    - content: الطباعة على جهاز شبكة
+      isCorrect: false
+      explanation: الطباعة على جهاز الشبكة لا تستخدم عميل HTML5.
+    - content: طباعة تفاعلية
+      isCorrect: false
+      explanation: الطباعة التفاعلية لا تستخدم عميل HTML5.

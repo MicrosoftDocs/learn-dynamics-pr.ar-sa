@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-asset-management.01-overview
+title: النظرة العامة والفوائد
+metadata:
+  title: النظرة العامة والفوائد
+  description: تغطي هذه الوحدة النظرة العامة وفوائد إدارة الأصول
+  ms.date: 02/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 076ba0bfb9da65b3413009770c61f694243805cd
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071748"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-overview.md)]"

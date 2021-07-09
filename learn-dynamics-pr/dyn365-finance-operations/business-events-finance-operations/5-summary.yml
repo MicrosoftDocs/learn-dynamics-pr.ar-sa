@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-events-dynamics-365-finance-operations.5-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعلمته عن استهلاك أحداث الأعمال في الوحدة النمطية لتطبيقات Finance and Operations.
+  ms.date: 07/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a4ce5221649be59016ac7a75d1687d94b6766239
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072004"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-summary.md)]

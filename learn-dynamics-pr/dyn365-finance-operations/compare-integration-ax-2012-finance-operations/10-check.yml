@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-integration-ax-2012-finance-operations.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: cc224626166f7211be0b18c89bc63b467a149f0e
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072398"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يجب إعداد مهمة الدُفعة في مساحة عمل إدارة البيانات التي ستقوم بتصدير بيانات العميل من تطبيقات Finance and Operations. أي نوع أنواع التكامل هذا؟
+    choices:
+    - content: متزامنة
+      isCorrect: false
+      explanation: لن تكون المهمة المتكررة متزامنة.
+    - content: غير متزامنة
+      isCorrect: true
+      explanation: مهمة تصدير الدُفعة عبارة عن تكامل بيانات غير متزامن.
+    - content: ثنائية الاتجاه
+      isCorrect: false
+      explanation: يتم تدفق البيانات في اتجاه واحد في هذا السيناريو.
+  - content: ما المفهوم الذي تستخدمه إذا كنت بحاجة إلى تلقي الأنظمة الخارجية إخطارات من تطبيقات Finance and Operations؟
+    choices:
+    - content: سير العمل
+      isCorrect: false
+      explanation: لا يمنحك سير العمل القدرة على تلقي إخطارات خارج Dynamics 365.
+    - content: Power Apps
+      isCorrect: false
+      explanation: لا تمنحك Power Apps سير العمل القدرة على تلقي إخطارات خارج Dynamics 365.
+    - content: Dataverse
+      isCorrect: false
+      explanation: لا تمنحك Dataverse سير العمل القدرة على تلقي إخطارات خارج Dynamics 365.
+    - content: أحداث الأعمال
+      isCorrect: true
+      explanation: يمكنك استخدام أحداث الأعمال لجعل الأنظمة الخارجية تتلقى إخطارات من تطبيقات Finance and Operations.
+  - content: ما الخدمة التي يتم استخدامها لمصادقة تطبيقات Finance and Operations؟
+    choices:
+    - content: مصادقة Windows
+      isCorrect: false
+      explanation: تستخدم Dynamics AX ‏2012 مصادقة Windows.
+    - content: مصادقة Azure Active Directory
+      isCorrect: true
+      explanation: تستخدم Dynamics 365 مصادقة Azure AD.
+    - content: مصادقة SAML
+      isCorrect: false
+      explanation: لا تُستخدم مصادقة SAML لـ Dynamics 365.

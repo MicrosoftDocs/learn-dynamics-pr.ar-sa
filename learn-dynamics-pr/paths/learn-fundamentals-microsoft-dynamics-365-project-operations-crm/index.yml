@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm
+metadata:
+  title: تعرف على أساسيات Microsoft Dynamics 365 Project Operations (CRM)
+  description: تعرف على أساسيات Microsoft Dynamics 365 Project Operations (CRM)
+  ms.date: 03/08/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 6cfa2c009298bdc36cd82d7c2d3d13cc922df3e9
+  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2021
+  ms.locfileid: "6074768"
+title: تعرف على أساسيات Microsoft Dynamics 365 Project Operations (CRM)
+prerequisites: >
+  يجب أن يكون لديك فهم أساسي لمبادئ Customer Engagement وعمليات الأعمال. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+summary: >
+  هل أنت جديد على Dynamics 365؟ تقدم هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لـ Customer Engagement، وما يشتركون فيه، بالإضافة إلى أي تطبيق من تطبيقات Dynamics 365 Customer Engagement. ابدأ بمسار التعلم هذا للتعرف على مكونات إدارة علاقات العملاء في Dynamics 365 Project Operations.
+iconUrl: /learn/achievements/explore-microsoft-dynamics-365-project-operations-crm.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-project-operations
+modules:
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps
+- learn.wwl.examine-dynamics-365-project-operations
+- learn.wwl.describe-sales-capabilities-of-dynamics-365-project-operations
+- learn.wwl.plan-projects-with-dynamics-365-project-operations
+- learn.wwl.review-resource-utilization-capabilities-of-dynamics-365-project-operations
+trophy:
+  uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm.trophy

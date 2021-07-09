@@ -1,0 +1,46 @@
+### YamlMime:LearningPath
+uid: learn.wwl.config-d365-finance-operations-apps
+metadata:
+  title: تكوين التطبيقات في Finance and Operations
+  description: يُعد المسار التعليمي الخاص بتطبيقات Dynamics 365 Finance and Operations جسراً بين دورة الأساسيات والدورة الرئيسية
+  ms.date: 10/19/2020
+  author: wwlpublish
+  ms.author: jablak
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 149ca55395a1e1c6018543a29c94f00af57bc9fe
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074758"
+title: تكوين التطبيقات في Finance and Operations
+prerequisites: >
+  إما:
+
+  - إكمال MB-901 Microsoft Dynamics 365 Fundamentals (أو سابقه أو لاحقه) بنجاح، أو
+
+  - ما يعادل المعرفة على المستوى الميداني والإلمام بالوحدات النمطية
+summary: >
+  وتُعد هذه الدورة التدريبية جسراً بين الدورة التدريبية "أساسيات Dynamics 365" والدورة التدريبية الرئيسية "تطبيقات Dynamics 365 Finance and Operations.
+iconUrl: /learn/achievements/configure-dynamics-365-finance-operations-apps.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-human-resources
+- dynamics-scm
+modules:
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps
+trophy:
+  uid: learn.wwl.config-d365-finance-operations-apps.trophy

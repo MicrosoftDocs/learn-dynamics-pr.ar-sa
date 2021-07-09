@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-integration-ax-2012-finance-operations.11-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص مقارنة عمليات الدمج في تطبيقات Finance and Operations باستخدام وحدة Dynamics AX 2012.
+  ms.date: 03/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 33bd00ad41bc14451e21c49ba2752b4430f41e07
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072396"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-summary.md)]"

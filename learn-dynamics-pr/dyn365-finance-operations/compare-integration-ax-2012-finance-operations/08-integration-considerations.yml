@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-integration-ax-2012-finance-operations.08-integration-considerations
+title: اعتبارات التكامل
+metadata:
+  title: اعتبارات التكامل
+  description: تعرف على ما تجب مراعاته عند اتخاذ القرارات بشأن تكامل البيانات.
+  ms.date: 03/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b2a777fef5f4a976c75b0040621eec99cdcfd7b2
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072401"
+durationInMinutes: 18
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-integration-considerations.md)]"

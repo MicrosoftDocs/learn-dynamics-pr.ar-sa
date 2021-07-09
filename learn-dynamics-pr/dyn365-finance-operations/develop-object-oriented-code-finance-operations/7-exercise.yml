@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.7-exercise
+title: تدريب - إنشاء امتداد باستخدام سلسلة أمر
+metadata:
+  title: تدريب - إنشاء امتداد باستخدام سلسلة أمر
+  description: تدرب على إنشاء امتداد باستخدام سلسله أمر (CoC) في تطبيقات Finance and Operations.
+  ms.date: 06/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 23d5a61d9a5985ee537ec1ac8c53a40f6f274091
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071215"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-exercise.md)]

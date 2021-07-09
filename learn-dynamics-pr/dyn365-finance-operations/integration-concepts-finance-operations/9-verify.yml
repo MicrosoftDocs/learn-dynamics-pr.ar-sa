@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.9-verify
+title: التحقق من بيانات المصدر والهدف للتدقيق
+metadata:
+  title: التحقق من بيانات المصدر والهدف للتدقيق
+  description: التعرف على كيفية التحقق من البيانات المصدر والهدف للتدقيق في تطبيقات Finance and Operations.
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 699f1258eb656cf69d8dcb76e04b6c1fafc34ed4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071422"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-verify.md)]

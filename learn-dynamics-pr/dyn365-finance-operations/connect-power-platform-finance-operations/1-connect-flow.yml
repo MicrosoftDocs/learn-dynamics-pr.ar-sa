@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.connect-power-platform-dynamics-365-finance-operations.1-connect-flow
+title: اتصال بيانات تطبيقات Finance and Operations باستخدام Power Automate
+metadata:
+  title: اتصال بيانات تطبيقات Finance and Operations باستخدام Power Automate
+  description: تعرف على كيفية توصيل بيانات تطبيقات Finance and Operations باستخدام Power Automate.
+  ms.date: 07/23/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5ce8e151845ddc16ee4228dd48e7677932b5fca9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071245"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-connect-flow.md)]

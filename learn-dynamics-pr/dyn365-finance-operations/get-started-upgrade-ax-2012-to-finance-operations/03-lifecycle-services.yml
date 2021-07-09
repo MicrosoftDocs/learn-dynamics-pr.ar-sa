@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.03-lifecycle-services
+title: Lifecycle Services
+metadata:
+  title: Lifecycle Services
+  description: تعرف على Microsoft Dynamics 365 Lifecycle Services وكيفية استخدامها في عملية الترقية.
+  ms.date: 02/05/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4b4a17664e67f83d069a4171a2b8e7d369db0495
+  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/13/2021
+  ms.locfileid: "6072261"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-lifecycle-services.md)]"

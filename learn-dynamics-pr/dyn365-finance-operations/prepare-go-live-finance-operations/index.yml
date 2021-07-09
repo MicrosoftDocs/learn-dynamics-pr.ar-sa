@@ -1,0 +1,60 @@
+### YamlMime:Module
+uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops
+metadata:
+  title: الاستعداد لبدء العرض المباشر مع تطبيقات Finance and Operations
+  description: يصبح كل عملك الشاق ناجحاً عند نقل الحل المنفذ في تطبيقات Finance and Operations إلى بيئة الإنتاج. إذا كنت تريد عميلاً سعيداً وحلاً عالي الجودة وراحة البال خلال هذه المرحلة المهمة، والتي تُعرف باسم العرض المباشر. تعرف على كيفية الاستعداد لبدء العرض المباشر لمشروع تطبيقات Finance and Operations باستخدام Dynamics Lifecycle Services (LCS).
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c1e35a3297de97667c6532dcac767f5544df2376
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072182"
+title: الاستعداد لبدء العرض المباشر مع تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يصبح كل عملك الشاق ناجحاً عند نقل الحل المنفذ في تطبيقات Finance and Operations إلى بيئة الإنتاج. إذا كنت تريد عميلاً سعيداً وحلاً عالي الجودة وراحة البال خلال هذه المرحلة المهمة، والتي تُعرف باسم العرض المباشر. تعرف على كيفية الاستعداد لبدء العرض المباشر لمشروع تطبيقات Finance and Operations باستخدام Dynamics Lifecycle Services (LCS).
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- الاستعداد لبدء العرض المباشر\n- إكمال منهجية Lifecycle Services ‏(LCS)\n- إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك\n- تقييم العرض المباشر لـ FastTrack\n- طلب بيئة الإنتاج\n"
+prerequisites: >
+  - المعرفة العامة بالكتابة التقنية
+
+  - معرفة الأدوات المتاحة في Lifecycle services لتطبيقات Finance and Operations
+
+  - الفهم الأساسي لتطبيقات Finance and Operations، بما في ذلك المفاهيم الأساسية ومهارات التنقل الأساسية في التطبيق
+
+  - الفهم الأساسي لإضافة الكيانات والحقول والعلاقات إلى تطبيقات Finance and Operations
+
+  - التعرف على كيفية إنشاء كيان قانوني في تطبيقات Finance and Operations
+
+  - التعرف على كيفية العمل مع إدارة البيانات في تطبيقات Finance and Operations
+
+  - فهم وظائف تطبيقات Finance and Operations
+iconUrl: /learn/achievements/prepare-go-live-in-dynamics-365-finance-ops.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- developer
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.1-prepare-go-live-introduction
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.2-understand-go-live-process
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.3-complete-lcs-methodology
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.4-perform-user-acceptance-testing
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.5-fasttrack-go-live-assessment
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.6-request-production-environment
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.7-prepare-go-live-quiz
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.8-prepare-go-live-summary
+badge:
+  uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.badge

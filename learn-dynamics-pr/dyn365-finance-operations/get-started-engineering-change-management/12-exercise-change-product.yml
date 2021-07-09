@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-engineering-change-management.12-exercise-change-product
+title: التمرين - إجراء تغييرات على المنتج باستخدام أمر التغيير الهندسي
+metadata:
+  title: التمرين - إجراء تغييرات على المنتج باستخدام أمر التغيير الهندسي
+  description: قم بإجراء تغييرات على المنتج باستخدام أمر التغيير الهندسي.
+  ms.date: 01/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-scm
+  ms.openlocfilehash: 90e6b0ccda035548dec16fe2940f6463b16bae3a
+  ms.sourcegitcommit: 4ce9caef7d38158f172e82412bc70ae36883e42f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2021
+  ms.locfileid: "6072156"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-exercise-change-product.md)]"

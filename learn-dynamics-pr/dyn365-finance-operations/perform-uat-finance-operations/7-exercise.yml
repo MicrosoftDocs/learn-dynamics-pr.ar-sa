@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.07-exercise-build-test-scripts
+title: تدريب-إنشاء نصوص اختبارات لاختبار وظائف العمل
+metadata:
+  title: تدريب-إنشاء نصوص اختبارات لاختبار وظائف العمل
+  description: تدرب على إنشاء نصوص اختبارات لاختبار وظائف العمل في تطبيقات Finance and Operations.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 46c5135f3a975ae7078e812283540450b2a8a85a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071815"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/07-exercise-build-test-scripts.md)]

@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.get-help-with-f-and-o
+metadata:
+  title: الحصول على التعليمات ومعرفة المزيد حول تطبيقات Finance and Operations
+  description: توضح هذه الوحدة كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات Finance and Operations.
+  ms.date: 02/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 87bb59646f6386cecefb44661b1ebe81c58d6a5f
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072190"
+title: الحصول على التعليمات ومعرفة المزيد حول تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات Finance and Operations. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- موقع مستندات Microsoft\n- التعليمات المضمّنة في المنتجات\n- كيفية تخصيص مواضيع التعليمات\n- حماية الخصوصية والبيانات الشخصية الخاصة بعملاءك\n"
+prerequisites: بلا
+iconUrl: /learn/achievements/get-help-with-d365-f-and-o.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.get-help-with-f-and-o.1-get-help-with-f-and-o-introduction
+- learn-dynamics.get-help-with-f-and-o.3-microsoft-docs-site
+- learn-dynamics.get-help-with-f-and-o.4-in-product-help
+- learn-dynamics.get-help-with-f-and-o.5-customize-help-topics
+- learn-dynamics.get-help-with-f-and-o.6-general-data-protection-regulation
+- learn-dynamics.get-help-with-f-and-o.7-get-help-with-f-and-o-summary
+badge:
+  uid: learn-dynamics.get-help-with-d365-f-and-o.badge

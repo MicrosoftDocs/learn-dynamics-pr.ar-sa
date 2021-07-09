@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-classes-dynamics-365-finance-operations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/16/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a2cd7a0c69a1edb382135bc65758a102ea679158
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071558"
+durationInMinutes: 10
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما نوع الأسلوب الذي تتم إضافته تلقائياً عندما تقوم بإنشاء فئة قابلة للتشغيل بدلاً من فئة؟
+    choices:
+    - content: أسلوب `new`
+      isCorrect: false
+      explanation: يتم استخدام الأسلوب `new` لإنشاء مثيل للفئة ولا تتم إضافته تلقائياً إلى فئة قابلة للتشغيل.
+    - content: أسلوب `static`
+      isCorrect: false
+      explanation: يتم استخدام الأسلوب `static` للعمل مع البيانات الموجودة في جدول ولا تتم إضافتها تلقائياً إلى فئة قابلة للتشغيل.
+    - content: أسلوب `main`
+      isCorrect: true
+      explanation: تتم إضافة الأسلوب `main` تلقائياً إلى فئة قابلة للتشغيل. ولذلك، يمكنك إضافة فئة قابلة للتشغيل بدلاً من فئة إلى مشروعك.
+    - content: أسلوب `finalize `
+      isCorrect: false
+      explanation: يقوم أسلوب `finalize` بإنهاء مثيل الفئة. لا تتم إضافته تلقائياً إلى فئة قابلة للتشغيل.
+  - content: ما نوع الأسلوب الذي سيسمح باستدعاء الأسلوب من أي مكان يمكن الوصول إلى الفئة الخاصة به؟
+    choices:
+    - content: أسلوب `public`
+      isCorrect: true
+      explanation: يمكن استدعاء الأساليب التي تم تعريفها على أنها `public` من أي مكان يمكن للفئة الوصول إليه.
+    - content: أسلوب `private`
+      isCorrect: false
+      explanation: يمكن استدعاء الأساليب التي تم تعريفها على أنها `private` من الأساليب ضمن نفس الفئة.
+    - content: أسلوب `access`
+      isCorrect: false
+      explanation: لا يوجد الأسلوب `access` في تطبيقات Finance and Operations.
+    - content: أسلوب `protected`
+      isCorrect: false
+      explanation: يمكن استدعاء الأساليب التي تم تعريفها على أنها `protected` فقط من الأساليب في الفئة أو الأساليب الموجودة في فئة فرعيه للفئة.
+  - content: إذا أردت تحديث سجل في الجدول `SampleTable` الذي يحتوي على رقم الحساب 1234 باستخدام أسلوب التحديث. قبل استدعاء أسلوب التحديث، ما العبارة‬ المستخدمة في بداية هذه الجملة لتحديد موقع السجل sampleTable.AccountNum == “1234”؟
+    choices:
+    - content: حيث sampleTable.AccountNum == “1234”
+      isCorrect: true
+      explanation: يتم استخدام عبارة `where` لتحديد الحالة التي سيقوم أسلوب التحديث باختبارها أثناء معالجة كل صف في الجدول `SampleTable`.
+    - content: تحديد موقع sampleTable.AccountNum == “1234”
+      isCorrect: false
+      explanation: العبارة "تحديد الموقع" غير موجودة في الترميز الخاص بتطبيقات Finance and Operations.
+    - content: الانضمام sampleTable.AccountNum == “1234”
+      isCorrect: false
+      explanation: تربط العبارة `join` بين جدولين في عمود مشترك بين كلا الجدولين. وهي لا تحدد موقع سجل معين.
+    - content: forUpdate sampleTable.AccountNum == “1234”
+      isCorrect: false
+      explanation: يتم استخدام العبارة `forUpdate` لتحديد الجدول، وليس السجل الذي ستقوم بتحديثه.

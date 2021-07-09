@@ -1,0 +1,46 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.connect-to-dynamics-365-finance-operations
+metadata:
+  title: الاتصال بتطبيقات Finance and Operations
+  description: يعد التكامل والقدرة على الوصول إلى بياناتك في تطبيقات Finance and Operations من الإمكانات المهمة. ويمكن للمطورين الذين تعلموا إنشاء التعليمات البرمجية وتوسيعها في تطبيقات Finance and Operations تعزيز معرفتهم بالتطوير من خلال التعرف على تكامل البيانات وكيف يمكن أن يكون للاتصال بالبيانات تأثيرات إيجابية على المستخدمين.
+  ms.date: 07/30/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 85fd4fb539afc3fe46cb97cdca89de0088bf920d
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074761"
+title: الاتصال بتطبيقات Finance and Operations
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيعد التكامل والقدرة على الوصول إلى بياناتك في تطبيقات Finance and Operations من الإمكانات المهمة. ويمكن للمطورين الذين تعلموا إنشاء التعليمات البرمجية وتوسيعها في تطبيقات Finance and Operations تعزيز معرفتهم بالتطوير من خلال التعرف على تكامل البيانات وكيف يمكن أن يكون للاتصال بالبيانات تأثيرات إيجابية على المستخدمين. \n"
+prerequisites: >
+  - المعرفة الأساسية والخبرة في التطوير الموجه للعناصر.
+
+  - المعرفة العامة بأنظمة تخطيط موارد المؤسسات (ERP).
+
+  - المعرفة الأساسية باستخدام بيئة التطوير المتكامل (IDE) أو Visual Studio.
+
+  - معرفة كيفية إنشاء التعليمات البرمجية وتوسيعها في تطبيقات Finance and Operations.
+iconUrl: /learn/achievements/connect-to-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- administrator
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations
+- learn-dynamics.data-package-api-dynamics-365-finance-operations
+- learn-dynamics.data-integrations-dynamics-365-finance-operations
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations
+- learn-dynamics.integrate-azure-dynamics-365-finance-operations
+- learn-dynamics.connect-power-platform-dynamics-365-finance-operations
+trophy:
+  uid: learn-dynamics.connect-to-dynamics-365-finance-operations.trophy

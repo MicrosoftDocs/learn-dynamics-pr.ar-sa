@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-deployment-dynamics-365-finance-operations.9-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a4521f44b3c1579cd87e7a64d963b1c96db12645
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071869"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما هو المبدأ التوجيهي في إنشاء بنية التفريع للتنفيذ الخاص بك؟
+    choices:
+    - content: جعلها معقدة
+      isCorrect: false
+      explanation: لا تريد استراتيجية تفريع معقدة للغاية لأنها ستؤدي إلى عمل وتخطيط غير ضروريين.
+    - content: الاحتفاظ بها دائما كما هي
+      isCorrect: false
+      explanation: لا تريد أن تكون استراتيجية التفرع هي نفسها في كل تنفيذ، لأن كل تنفيذ يكون فريداً عن غيره.
+    - content: الاحتفاظ ببساطتها
+      isCorrect: true
+      explanation: حافظ على أن تكون بنية التفريع بسيطة دون تعقيدها، وتأكد من سهولة التنقل في استراتيجيتك وستنتج تدفق الكود الصحيح لتنفيذك.
+  - content: أي من الميزات التالية تُستخدم مع أداة Regression Suite Automation (RSAT)؟
+    choices:
+    - content: مسجل المهام
+      isCorrect: true
+      explanation: يمكنك استخدام مسجل المهام، الذي يسجل لأداة تكوين عمليات الأعمال (BPM)، لإنشاء مكتبات اختبار قبول المستخدم.
+    - content: إطار ترحيل البيانات
+      isCorrect: false
+      explanation: يتم استخدام إطار ترحيل البيانات لترحيل البيانات، لا يتم استخدامه مع أداة RSAT.
+    - content: حزم البرامج القابلة للنشر
+      isCorrect: false
+      explanation: تُستخدم حزم البرامج القابلة للنشر لنشر التعليمات البرمجية في بيئة، ولا يمكن استخدامها مع أداة RSAT.
+  - content: أي مما يلي ليس مفهوم أعمال ذا صلة يجب مراعاته قبل وأثناء تنفيذ تطبيقات Finance and Operations؟
+    choices:
+    - content: عدد المستخدمين
+      isCorrect: false
+      explanation: يُعد عدد المستخدمين مهم بالنسبة لحجم البيئة والترخيص، ويمكن أن يؤثر على أداء البيئات أثناء التنفيذ بأكمله. ويُعد اعتباراً مهماً.
+    - content: عدد الحركات في الشهر
+      isCorrect: false
+      explanation: يُعد عدد الحركات في الشهر اعتباراً مهماً لتغيير حجم البيئة ويمكن أن يؤثر على مقياس التنفيذ بأكمله.
+    - content: الموسمية
+      isCorrect: false
+      explanation: تُعد موسمية شركتك أحد الاعتبارات ذات الأهمية الكبيرة عند التفكير في التنفيذ والتخطيط له.
+    - content: التحقق من الطباعة
+      isCorrect: true
+      explanation: تُعد عمليات التحقق من الطباعة بمثابه أحد التفاصيل التي يتعين مناقشتها عن التنفيذ، ولكنها ليست مفهوم أعمال يجب أخذه في الاعتبار والذي من شأنه تغيير أي اعتبارات كبيرة أخري أثناء التنفيذ.

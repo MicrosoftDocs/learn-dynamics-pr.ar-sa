@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-package-api-dynamics-365-finance-operations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1f68d1e5ef9711b7315ef00f84ea5462ea4246cd
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071394"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي مما يلي لا يمثل رسالة استجابة يمكنك تلقيها عند استخدام `GetExecutionSummaryStatus` لمراقبة حالة واجهة برمجة التطبيقات (API)؟
+    choices:
+    - content: ‏‫ليس قيد التشغيل‬
+      isCorrect: false
+      explanation: إن "‏‫ليس قيد التشغيل"‬ هي الحالة التي يمكن إرجاعها عند استخدام `GetExecutionSummaryStatus`.
+    - content: فشل
+      isCorrect: false
+      explanation: إن ‏"‫فشل"‬ هي الحالة التي يمكن إرجاعها عند استخدام `GetExecutionSummaryStatus`.
+    - content: ‏‫تم الإلغاء‬
+      isCorrect: false
+      explanation: إن "‏‫تم الإلغاء‬"‬ هي الحالة التي يمكن إرجاعها عند استخدام `GetExecutionSummaryStatus`.
+    - content: البدء
+      isCorrect: true
+      explanation: إن "‏‫البدء" هي الحالة التي يمكن إرجاعها عند استخدام `GetExecutionSummaryStatus`.
+  - content: أين سيكون بمقدورك تمكين تعقب التغييرات للكيانات؟
+    choices:
+    - content: Visual Studio
+      isCorrect: false
+      explanation: لم يتم تمكين تعقب التغييرات في Visual Studio.
+    - content: معلمات كيان البيانات في كائن AOT
+      isCorrect: false
+      explanation: لم يتم تمكين تعقب التغييرات في AOT.
+    - content: مساحة عمل إدارة البيانات
+      isCorrect: true
+      explanation: يتم تمكين تعقب التغييرات باستخدام مساحة عمل إدارة البيانات في تطبيقات Finance and Operations.
+    - content: الوحدة النمطية لإدارة النظام
+      isCorrect: false
+      explanation: لم يتم تمكين تعقب التغييرات في وحدة إدارة النظام.
+  - content: هل صحيح أن استيراد واجهات برمجة التطبيقات (API) غير معتمد لعمليات النشر المحلية؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: يتم دعم استيراد واجهات برمجة التطبيقات (API) لعمليات النشر المحلية
+    - content: لا
+      isCorrect: true
+      explanation: يتم دعم استيراد واجهات برمجة التطبيقات (API) لعمليات النشر المحلية.

@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.build-dynamics-365-finance-operations
+metadata:
+  title: إنشاء تطبيقات Finance and Operations
+  description: يتطلب التطوير في Finance and Operations فهماً أساسياً للمهام المطلوبة لإنشاء عناصر جديدة وتخصيص تطبيقات Finance and Operations. تتضمن المهام فهم كودX++ وVisual Studio، بالإضافة إلى القدرة على إنشاء وتعديل العناصر الأساسية للنظام.
+  ms.date: 07/30/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 42a8c0a60b55f8bfca0e2e6e90718d970e5ac277
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074764"
+title: إنشاء تطبيقات Finance and Operations
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيتطلب التطوير في Finance and Operations فهماً أساسياً للمهام المطلوبة لإنشاء عناصر جديدة وتخصيص تطبيقات Finance and Operations. تتضمن المهام فهم كودX++ وVisual Studio، بالإضافة إلى القدرة على إنشاء وتعديل العناصر الأساسية للنظام. \n"
+prerequisites: "- الإلمام بنظام Dynamics 365 البيئي وتطبيقات Finance and Operations. \n- يمكنك التعرف على مفاهيم المطور الأساسية، بما في ذلك القدرات التقنية والتعليمات البرمجية المصدر وأطر الاختبار وأدوات إعداد التقارير. \n- المعرفة والخبرة الأساسية للتطوير الموجه للعناصر.\n- المعرفة العامة بأنظمة تخطيط موارد المؤسسات (ERP).\n- المعرفة الأساسية ببيئة التطوير المتكامل (IDE) أو Visual Studio.\n"
+iconUrl: /learn/achievements/build-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.customize-using-vs-dynamics-365-finance-operations
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations
+- learn-dynamics.application-lifecycle-dynamics-365-finance-operations
+- learn-dynamics.build-edt-enums-dynamics-365-finance-operations
+- learn-dynamics.build-tables-dynamics-365-finance-operations
+- learn-dynamics.build-forms-optimize-dynamics-365-finance-operations
+- learn-dynamics.create-classes-dynamics-365-finance-operations
+- learn-dynamics.build-reports-dynamics-365-finance-operations
+- learn-dynamics.build-workspaces-dynamics-365-finance-operations
+- learn-dynamics.role-security-dynamics-365-finance-operations
+- learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations
+trophy:
+  uid: learn-dynamics.build-dynamics-365-finance-operations.trophy

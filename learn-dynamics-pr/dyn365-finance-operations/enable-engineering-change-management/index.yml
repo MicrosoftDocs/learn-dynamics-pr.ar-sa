@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.enable-engineering-change-management
+metadata:
+  title: تمكين إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
+  description: تعرف على كيفية إنشاء الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management.
+  ms.date: 05/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9af1255c97ef9270de769a1884ed8b35cec325b4
+  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6072650"
+title: تمكين إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nلاستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management، توجد بعض الإعدادات المطلوبة. يجب تمكين الميزة، وتحديد الخطورة. يجب أيضاً تحديد مالكي المنتج، وتكوين مهام سير العمل للموافقة على أوامر التغيير الهندسية وطلبات التغيير الهندسة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين ميزة إدارة التغيير الهندسي والتراخيص.\n- إعداد درجات خطورة التغيير الهندسي‬ وقواعد الخطورة.\n- إعداد مالكي المنتج.\n- استخدام سير العمل مع إدارة التغيير الهندسي\n"
+prerequisites: >
+  - المعرفة العامة بسلسلة التوريد وعمليات إدارة معلومات المنتجات
+
+  - المعرفة بكيفية التنقل في Dynamics 365 Supply Chain Management.
+iconUrl: /learn/achievements/enable-engineering-change-management.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.enable-engineering-change-management.1-introduction
+- learn-dynamics.enable-engineering-change-management.2-engineering-severities
+- learn-dynamics.enable-engineering-change-management.3-severity-rule-sets
+- learn-dynamics.enable-engineering-change-management.4-product-owners
+- learn-dynamics.enable-engineering-change-management.4-2-engineering-worfklows
+- learn-dynamics.enable-engineering-change-management.5-exercise
+- learn-dynamics.enable-engineering-change-management.6-check
+- learn-dynamics.enable-engineering-change-management.7-summary
+badge:
+  uid: learn-dynamics.enable-engineering-change-management.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-events-dynamics-365-finance-operations.3-new-event
+title: إنشاء حدث أعمال جديد
+metadata:
+  title: إنشاء حدث أعمال جديد
+  description: تعرف على كيفية إنشاء حدث أعمال جديد في تطبيقات Finance and Operations.
+  ms.date: 07/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c426d859a3b05caa4b1e0a9b08a7d61e02fa1ebc
+  ms.sourcegitcommit: 559d615530124a81234ea2a525ecfaa3b79cd038
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "6072070"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-new-event.md)]

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-edt-enums-dynamics-365-finance-operations.4-lab
+title: تمرين عملي - إنشاء تعداد أساسي، وإضافة عناصر، وتحديث الخصائص
+metadata:
+  title: تمرين عملي - إنشاء تعداد أساسي، وإضافة عناصر، وتحديث الخصائص
+  description: تدرّب على إنشاء تعداد أساسي، وإضافة عناصر، وتحديث الخصائص في تطبيقات Finance and Operations.
+  ms.date: 04/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f09d705a94dbbd044eabb7bff78074b649b1d74f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071762"
+labId: 63328
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/4-lab.md)] \n[!include[](../includes/standalone-lab-end.md)]"

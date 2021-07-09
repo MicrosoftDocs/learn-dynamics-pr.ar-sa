@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.1-plan-implement-legal-entities-in-f-and-o-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة إلى تخطيط وتنفيذ الكيانات القانونية في وحدة تطبيقات Finance and Operations
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7202c011c89d058b77c5b1ca29d07c0b52e9a5f8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071816"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction.md)]

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-xpp-dynamics-365-finance-operations.5-cond-statement
+title: استخدام العبارات الشرطية والتكرارية
+metadata:
+  title: استخدام العبارات الشرطية والتكرارية
+  description: تعرَّف على كيفية استخدام العبارات الشرطية والتكرارية في X++‎ في تطبيقات Finance and Operations.
+  ms.date: 07/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 54eb379792e7c65e5a8d5d81b5fd527ac0538a63
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071947"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-cond-statement.md)]

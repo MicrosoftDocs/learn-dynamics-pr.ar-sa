@@ -1,0 +1,64 @@
+---
+ms.openlocfilehash: aeb5f7f5161541443e261edde11102f25ab8de43
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071399"
+---
+يمكن للمطورين استيراد وتصدير واجهات برمجة التطبيقات (API) بين تطبيقات Finance and Operations وعمليات التوزيع المحلية. ضع في اعتبارك أن هناك بعض الاختلافات الأساسية مع هذه العمليات لعمليات التوزيع المحلية وعلى السحابة: 
+
+-   بالنسبة لعمليات التوزيع المحلية، تمت إضافة الدعم لواجهة برمجة تطبيقات (API) REST لحزمة إدارة البيانات على الرغم من عدم تغيير أسماء واجهة برمجة التطبيقات (API). بهذه الطريقة، يمكن لـ Microsoft الاحتفاظ بمجموعة API واحدة لكل من عمليات التوزيع السحابية وعمليات التوزيع المحلية.
+-   تستخدم حزمة واجهة برمجة تطبيقات (API) إطار عمل إدارة البيانات OAuth 2.0 لتفويض الوصول.
+-   لعمليات التوزيع المحلية، تتم إدارة التفويض من خلال Active Directory Federation Services ‏(AD FS).
+-   لا يتم دعم واجهات برمجة التطبيقات (API) للتكامل المتكرر لعمليات التوزيع المحلية.
+
+## <a name="importing-apis"></a>استيراد واجهات برمجة التطبيقات (API)
+
+لبدء عملية استيراد حزمة البيانات، يتم استخدام واجهة برمجة تطبيقات (API) **ImportFromPackage** لبدء الاستيراد من حزمة بيانات. يتم تحميل حزمة البيانات إلى وحدة تخزين Blob المرتبطة بتنفيذ تطبيقات Finance and Operations.
+
+بالنسبة لعمليات التوزيع المحلية، سيتم بدء الاستيراد من ملف التخزين المحلي الذي تم تحميله مسبقاً.
+
+فيما يلي مثال على الرمز المستخدم لبدء عملية الاستيراد.
+```csharp
+POST /data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.**ImportFromPackage**
+BODY
+{
+    "packageUrl":"<string>",
+    "definitionGroupId":"<string>",
+    "executionId":"<string>",
+    "execute":<bool>,
+    "overwrite":<bool>,
+    "legalEntityId":"<string>"
+}
+```
+تصف القائمة التالية عناصر الرمز المختلفة:
+
+-    يبدأ `ImportPackageFrom` الاستيراد.
+-    `packageurl` هو اسم ملف فريد يُستخدم لتعقب معرفات الكائنات الثنائية كبيرة الحجم. يمكنك تضمين معرف فريد عمومي (GUID) للمساعدة في ضمان اسم ملف فريد.
+-    `definitionGroupID` عبارة عن سلسلة تمثل اسم مشروع البيانات للاستيراد.
+-    `executionId` هو المعرف الذي يجب استخدامه للوظيفة. إذا تم تعيين معرف فارغ، فسيتم إنشاء معرف تنفيذ جديد تلقائياً.
+-    `execute` هو قيمة منطقية. إذا تم تعيين المعلمة إلى **صواب**، فسيتم تشغيل الخطوة الهدف.
+-    `overwrite` هي أيضاً قيمة منطقية يجب تعيينها إلى **خطأ** عند استخدام كيان مركب في حزمة، إذا لم يكن الأمر كذلك، فيجب تعيين هذا إلى **صواب**.
+-    `legalentityId` هو الكيان القانوني للاستيراد.
+
+إذا اكتمل الاستيراد بنجاح، فستتلقى استجابة نجاح JSON.
+
+## <a name="exporting-apis"></a>تصدير واجهات برمجة التطبيقات (API)
+
+تصدير واجهات برمجة التطبيقات (API) مشابه للاستيراد. الفرق هو أن واجهة برمجة تطبيقات (API) **ExportToPackage** تُستخدم لبدء التصدير. ينطبق هذا على عمليات التوزيع السحابية والمحلية.
+
+فيما يلي مثال على الرمز المستخدم لبدء عملية التصدير.
+```csharp
+POST
+/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.**ExportToPackage**
+BODY
+{
+    "definitionGroupId":"<Data project Id>",
+    "packageName":"<Name to use for downloaded file.>",
+    "executionId":"<Execution Id if it is a rerun>",
+    "reExecute":<bool>,
+    "legalEntityId":"<Legal entity Id>"
+}
+```
+إذا تم الانتهاء من التصدير بنجاح، فستتلقى استجابة نجاح JSON.

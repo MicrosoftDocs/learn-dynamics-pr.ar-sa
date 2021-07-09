@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-engineering-change-management
+metadata:
+  title: إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
+  description: تعرف على كيفية إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management.
+  ms.date: 05/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 794deae1b041b2e588e00ef68b10ed0b35ed0803
+  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6074773"
+title: إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تحتاج الجهات المصنعة حالياً إلى إدارة قوية لبيانات المنتجات، والتحكم في الإصدار، وإدارة التغيير الهندسي للنجاح في عالم تتقلص فيه دورات حياة المنتجات باستمرار، وتزداد متطلبات الجودة والموثوقية، ويزداد التركيز على سلامة المنتج. تعرف على كيفية إعداد إدارة التغيير الهندسي في مسار التعليم هذا.
+prerequisites: "- المعرفة العامة بكيفية التنقل في Dynamics 365 Supply Chain Management.\n- معرفة عمليات Supply Chain Management. \n"
+iconUrl: /learn/achievements/set-up-engineering-change-management.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-engineering-change-management
+- learn-dynamics.set-up-versioned-products-engineering-change-management
+- learn-dynamics.enable-engineering-change-management
+trophy:
+  uid: learn-dynamics.set-up-engineering-change-management.trophy

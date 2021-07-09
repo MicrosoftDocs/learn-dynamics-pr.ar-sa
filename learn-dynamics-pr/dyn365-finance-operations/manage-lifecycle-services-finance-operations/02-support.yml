@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.02-support
+title: أداء مهام الدعم
+metadata:
+  title: أداء مهام الدعم
+  description: تعرف على كيفية أداء مهام الدعم باستخدام Lifecycle Services في تطبيقات Finance and Operations.
+  ms.date: 12/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fa2c943ef8d375e54b0713d4c8ac7d3c39115e57
+  ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/15/2020
+  ms.locfileid: "6072110"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/02-support.md)]

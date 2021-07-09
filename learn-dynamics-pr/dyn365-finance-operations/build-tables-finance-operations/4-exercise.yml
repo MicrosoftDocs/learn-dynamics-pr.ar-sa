@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-tables-dynamics-365-finance-operations.4-exercise
+title: تمرين عملي - إنشاء جدول وإضافة حقول وإنشاء مجموعات الحقول
+labId: 63330
+metadata:
+  title: تمرين عملي - إنشاء جدول وإضافة حقول وإنشاء مجموعات الحقول
+  description: تدّرب على إنشاء جدول وإضافة حقول وإنشاء مجموعات الحقول في تطبيقات Finance and Operations.
+  ms.date: 05/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: abfee974ee5c51e65a926da9788080b9d13e8bf4
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072620"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/4-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

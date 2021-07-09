@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.register-report-consumption-asset-management
+metadata:
+  title: تسجيل الاستهلاك والإبلاغ عنه في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: يتم إكمال تسجيلات الاستهلاك عند اكتمال مهمة الصيانة لأحد أوامر العمل. يغذي التسجيل التكاليف المرتبطة بالأصل وتقارير الاستهلاك في إدارة الأصول لـ Dynamics 365 Supply Chain Management.
+  ms.date: 02/12/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: be8c938eae4d004b21f6ed8fbde705856945b640
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071166"
+title: تسجيل الاستهلاك والإبلاغ عنه في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nيتم إكمال تسجيلات الاستهلاك عند اكتمال مهمة الصيانة لأحد أوامر العمل. يغذي التسجيل التكاليف المرتبطة بالأصل وتقارير الاستهلاك في إدارة الأصول لـ Dynamics 365 Supply Chain Management.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n-  تسجيل الاستهلاك، وترحيل دفاتر اليومية.\n-  إنشاء تقارير الاستهلاك لتعقب الاستهلاك المرحل في أوامر العمل وإدارته.\n"
+prerequisites: >
+  - المعرفة العامة بإدارة الأصول وعمليات supply chain management.
+
+  - القدرة على التنقل في Dynamics 365 Supply Chain Management.
+iconUrl: /learn/achievements/register-report-consumption-asset-management-dyn365-scm.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.register-report-consumption-asset-management.01-introduction
+- learn-dynamics.register-report-consumption-asset-management.02-register-consumption
+- learn-dynamics.register-report-consumption-asset-management.03-consumption-report
+- learn-dynamics.register-report-consumption-asset-management.04-exercise
+- learn-dynamics.register-report-consumption-asset-management.05-check
+- learn-dynamics.register-report-consumption-asset-management.06-summary
+badge:
+  uid: learn-dynamics.register-report-consumption-asset-management-dyn365-scm.badge

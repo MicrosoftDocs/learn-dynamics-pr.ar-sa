@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.upgrades-updates-finance-operations-apps
+metadata:
+  title: تحديثات تطبيقات Finance and Operations وترقيتها
+  description: يتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور Finance and Operations العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى الخدمة السحابية Finance and Operations.
+  ms.date: 04/12/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 45a5d13e81759669bdaaf3734997966424eaafa4
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072213"
+title: تحديثات تطبيقات Finance and Operations وترقيتها
+summary: "[!include[](../includes/module-banner.md)] \nيتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور Finance and Operations العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى الخدمة السحابية Finance and Operations. \n"
+abstract: "ستتعرف في هذه الوحدة على: \n- كيفيه الترقية من Dynamics AX القديم (AX 2012 وAX 2009). \n- كيفية التحديث من إصدارات Finance and Operations السابقة 7.0 و7.1 و7.2 و7.3 و8.0 إلى الإصدار 10. \n"
+prerequisites: "- المعرفة بتطبيقات Finance and Operations\n- فهم تقنيات التطوير \n- المعرفة بـ Lifecycle Services (LCS)\n"
+iconUrl: /learn/achievements/upgrades-updates-finance-operations-apps.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.upgrades-updates-finance-operations-apps.01-introduction
+- learn-dynamics.upgrades-updates-finance-operations-apps.02-upgrade-7x-10x
+- learn-dynamics.upgrades-updates-finance-operations-apps.03-upgrade-8x-10x
+- learn-dynamics.upgrades-updates-finance-operations-apps.04-data-upgrade
+- learn-dynamics.upgrades-updates-finance-operations-apps.05-upgrade-ax2012
+- learn-dynamics.upgrades-updates-finance-operations-apps.06-upgrade-ax2009
+- learn-dynamics.upgrades-updates-finance-operations-apps.07-check
+- learn-dynamics.upgrades-updates-finance-operations-apps.08-summary
+badge:
+  uid: learn-dynamics.upgrades-updates-finance-operations-apps.badge

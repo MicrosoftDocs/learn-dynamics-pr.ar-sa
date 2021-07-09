@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations.9-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/23/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d92d3e3d0b0358a9c01a548a5d8f3e5e5ea40a83
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071672"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي مما يلي لا يحتوي على موصل مباشر لتطبيقات Finance and Operations؟
+    choices:
+    - content: Power Automate
+      isCorrect: false
+      explanation: يحتوي Power Automate على موصلات مباشرة لتطبيقات Finance and Operations.
+    - content: Azure Logic Apps
+      isCorrect: false
+      explanation: تحتوي Azure Logic Apps على موصلات مباشرة لتطبيقات Finance and Operations.
+    - content: Power BI
+      isCorrect: true
+      explanation: للاتصال بتطبيقات Finance and Operations من Power BI، استخدم موصل OData.
+    - content: Power Apps
+      isCorrect: false
+      explanation: يمكن توصيل Power Apps مباشرة بتطبيقات Finance and Operations.
+  - content: أي مما يلي لا يمكن تشغيله تلقائياً باستخدام Logic Apps؟
+    choices:
+    - content: إرسال إعلامات بالبريد الإلكتروني باستخدام Microsoft 365 عند وقوع أحداث في أنظمة وتطبيقات وخدمات مختلفة.
+      isCorrect: false
+      explanation: تحتوي Logic Apps على موصلات لإرسال رسائل البريد الإلكتروني باستخدام Outlook وقراءة المدخلات من مجموعة متنوعة من الأنظمة والتطبيقات والخدمات.
+    - content: انقل الملفات التي تم تحميلها من خادم SFTP أو FTP إلى Azure Storage.
+      isCorrect: false
+      explanation: توفر Logic Apps موصلات إلى SFTP وFTP وAzure Storage.
+    - content: يمكنك مراقبة المنشورات على Twitter الخاصة بموضوع معين، وتحليل ‏‫التوجهات، وإنشاء تنبيهات أو مهام للأصناف التي تحتاج إلى المراجعة.
+      isCorrect: false
+      explanation: تتوفر الموصلات لـ Twitter، ويتم إرسال تنبيات بالبريد الكتروني عبر Outlook، وتحليل النص، والعديد أنواع من المنطق.
+    - content: قم بتحديث الجداول في Power BI عند تغيير البيانات في تطبيقات Finance and Operations.
+      isCorrect: true
+      explanation: سيتم بالفعل تحديث جدول Power BI المتصل بدون مساعدة Logic Apps.
+  - content: أي مما يلي لست مطالباً بتسجيل خدمة لربطه بتطبيقات Finance and Operations؟
+    choices:
+    - content: Azure Active Directory
+      isCorrect: false
+      explanation: يجب عليك تسجيل الخدمات مع Azure AD قبل توصيلها بتطبيقات Finance and Operations.
+    - content: تطبيقات Finance and Operations
+      isCorrect: false
+      explanation: يُعد تسجيل الخدمة باستخدام تطبيقات Finance and Operations ضرورياً ليتم التعرف على الخدمة.
+    - content: Lifecycle Services
+      isCorrect: true
+      explanation: لا تحدد Lifecycle Services ما إذا كان بإمكان الخدمة الاتصال بتطبيقات Finance and Operations أم لا.

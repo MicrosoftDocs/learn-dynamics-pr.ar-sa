@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.10-distributed-order-management-policy
+title: سياسة إدارة الأوامر الموزعة (DOM)
+metadata:
+  title: سياسة إدارة الأوامر الموزعة (DOM)
+  description: تصف هذه الوحدة سياسة إدارة الأوامر الموزعة (DOM) في Dynamics 365 لتطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f03509e87258f15205a366b3407d58007674143a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071813"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-distributed-order-management-policy.md)]

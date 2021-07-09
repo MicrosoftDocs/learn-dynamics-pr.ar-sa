@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-reporting-tools-dynamics-365-finance-operations.03-implement-security-reqs
+title: تنفيذ متطلبات أمان التقارير
+metadata:
+  title: تنفيذ متطلبات أمان التقارير
+  description: تعرف على كيفية تنفيذ متطلبات أمان التقارير في تطبيقات Finance and Operations.
+  ms.date: 06/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: cc8d7b65217fdac72f4912580c08e554314208c6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071682"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/03-implement-security-reqs.md)]

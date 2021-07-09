@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.request-changes-products-engineering-change-management-scm.3-change-orders
+title: أوامر تغيير الهندسي
+metadata:
+  title: أوامر تغيير الهندسي
+  description: تعرف على أوامر التغيير الهندسي.
+  ms.date: 05/02/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 9cd78c2d22532c2604f09fd3d6f3297143d11795
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072631"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-change-orders.md)]"

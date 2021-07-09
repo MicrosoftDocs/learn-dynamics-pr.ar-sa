@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.2-different-types-reports-inquiries
+title: فهم الأنواع المختلفة للتقارير والاستعلامات
+metadata:
+  title: فهم الأنواع المختلفة للتقارير والاستعلامات
+  description: توضح هذه الوحدة الأنواع المختلفة للتقارير والاستعلامات في تطبيقات Finance and Operations.
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7cff8139ce5b92fa79dfa9ad7d91421ab462e601
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071415"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-different-types-reports-inquiries.md)]

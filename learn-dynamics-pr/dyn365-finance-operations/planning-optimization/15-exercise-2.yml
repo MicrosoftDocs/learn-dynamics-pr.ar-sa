@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.15-exercise-2
+title: التمرين - اعتماد أمر مخطط
+metadata:
+  title: التمرين - اعتماد أمر مخطط
+  description: مارس الموافقة علي أمر مخطط باستخدام تحسين أداء التخطيط لـ Dynamics 365 Supply Chain Management.
+  ms.date: 11/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: edac1035a65d704917872c137bb9ea01e8aae9b0
+  ms.sourcegitcommit: bf84bcc4cecc28fa675c8c86577dc8561491bebf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/24/2020
+  ms.locfileid: "6072079"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/15-exercise-2.md)]"

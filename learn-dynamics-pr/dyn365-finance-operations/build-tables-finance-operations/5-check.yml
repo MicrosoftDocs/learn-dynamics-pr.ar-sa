@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-tables-dynamics-365-finance-operations.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f3f29230f151345339869f4aee753d4c2134f725
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072007"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: يرث الجدول الفرعي خصائص من جدول أصلي. ما الخاصيتان اللتان تعملان معاً للتحكم في توارث الجدول؟
+    choices:
+    - content: خاصيتا Support Inheritance وTable Type
+      isCorrect: false
+      explanation: تُستخدم الخاصية Table Type فقط لتحديد ما إذا كان الجدول سيكون مؤقتاً.
+    - content: خاصيتا Table Type وExtends
+      isCorrect: false
+      explanation: تُستخدم الخاصية Table Type فقط لتحديد ما إذا كان الجدول سيكون مؤقتاً.
+    - content: خاصيتا Extends وSupport Inheritance
+      isCorrect: true
+      explanation: يمكن تحديد الخاصية Supports Inheritance على أساس "نعم" أو "لا" لتحديد ما إذا كان الجدول يدعم التوريث. وتُستخدم الخاصية Extends لتحديد الجدول الذي سيتم التوارث منه أو توسيعه.
+    - content: خاصيتا Allow Inheritance وExtends
+      isCorrect: false
+      explanation: خاصية Allow Inheritance غير موجودة. الخاصية سُميت Supports Inheritance.
+  - content: هل صحيح أنه إذا تم أُجري تعديل على مجموعة حقول، كإضافة حقل جديد، فإن أي نماذج تحتوي على مجموعة الحقول هذه سيتم تحديثها تلقائياً لإظهار هذه الإضافة.
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: تخزن مجموعات الحقول تجميعات منطقية للحقول، مثل الحقول المختلفة المرتبطة بعنوان ما. إذا تمت إضافة حقول إلى مجموعة حقول، وكانت مجموعة الحقول هذه مستخدمة في نموذج، فسيتم تحديث النموذج تلقائياً ليعكس الحقول الجديدة التي أُضيفت إلى مجموعة الحقول في الجدول.
+    - content: لا
+      isCorrect: false
+      explanation: يتم تحديث النماذج تلقائياً بأي تغييرات يتم اجراؤها على مجموعات الحقول المضمنة.
+  - content: الفهرس هو عنصر مهم تتم إضافته إلى جدول. أي العبارات التالية صحيح فيما يتعلق بالفهارس؟
+    choices:
+    - content: ترتيب الأعمدة في أحد الفهارس ليس مهماً.
+      isCorrect: false
+      explanation: إن ترتيب الأعمدة في أحد الفهارس مهم، ويجب تنظيمه من الأكثر إلى الأقل دقة.
+    - content: يجب تعيين الخاصية "السماح بالنسخ المكررة" إلى "نعم" في الفهرس الأساسي.
+      isCorrect: false
+      explanation: يجب تعيين الخاصية "السماح بالنسخ المكررة" إلى "لا" في الفهرس الأساسي، لأنها مفتاح فريد.
+    - content: وينظِّم الفهرس غير المتفاوت المسافات البياناتِ في جدول وفقاً لترتيب الفهرس.
+      isCorrect: false
+      explanation: كما ينظِّم الفهرس المتفاوت المسافات، وليس غير المتفاوت المسافات، البياناتِ في جدول وفقاً لترتيب الفهرس.
+    - content: يتم استخدام فهرس لتحسين سرعة استرداد البيانات.
+      isCorrect: true
+      explanation: الغرض الأساسي من الفهرس هو زيادة سرعة استرداد البيانات.

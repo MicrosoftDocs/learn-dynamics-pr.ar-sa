@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.17-plan-implement-legal-entities-in-f-and-o-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 03ed820b627ffae81a68b4e60e183ff0ed1294af
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071513"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: اي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات Finance and Operations تتحكم في حدود الإنفاق لإحدى الشركات التجارية؟
+    choices:
+    - content: التحكم الداخلي في النفقات
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في النفقات سياسات السفر والنفقات مثل الوجبات والسفر.
+    - content: التحكم الداخلي للتدبير
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي للتدبير سياسات الشراء للأعمال التجارية. وهي تساعد في إنشاء بنية سياسة تتماشى مع احتياجات المؤسسة للشراء الاستراتيجي.
+    - content: التحكم الداخلي في التخويل بالتوقيع
+      isCorrect: true
+      explanation: يحدد التحكم الداخلي في التخويل بالتوقيع السياسات التي تتحكم في حدود الإنفاق.
+    - content: التحكم الداخلي في دفعة الموردين
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في دفعة الموردين سياسة تتحقق من صحة المورد الذي يُصرح لموظفي الحسابات الدائنة بإصدار مدفوعات له.
+  - content: اي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات Finance and Operations تحدد سياسات الشراء لإحدى الشركات التجارية؟
+    choices:
+    - content: التحكم الداخلي في النفقات
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في النفقات سياسات السفر والنفقات مثل الوجبات والسفر.
+    - content: التحكم الداخلي للتدبير
+      isCorrect: true
+      explanation: يحدد التحكم الداخلي للتدبير سياسات الشراء للأعمال التجارية. وهي تساعد في إنشاء بنية سياسة تتماشى مع احتياجات المؤسسة للشراء الاستراتيجي.
+    - content: التحكم الداخلي في التخويل بالتوقيع
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في التخويل بالتوقيع السياسات التي تتحكم في حدود الإنفاق.
+    - content: التحكم الداخلي في دفعة الموردين
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في دفعة الموردين سياسة تتحقق من صحة المورد الذي يُصرح لموظفي الحسابات الدائنة بإصدار مدفوعات له.
+  - content: اي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات Finance and Operations يتحقق من المورد الذي تم تخويل موظفي حسابات المقبوضات المشتريات لإنشاء دفعة له؟
+    choices:
+    - content: التحكم الداخلي في النفقات
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في النفقات سياسات السفر والنفقات مثل الوجبات والسفر.
+    - content: التحكم الداخلي للتدبير
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي للتدبير سياسات الشراء للأعمال التجارية. وهي تساعد في إنشاء بنية سياسة تتماشى مع احتياجات المؤسسة للشراء الاستراتيجي.
+    - content: التحكم الداخلي في التخويل بالتوقيع
+      isCorrect: false
+      explanation: يحدد التحكم الداخلي في التخويل بالتوقيع السياسات التي تتحكم في حدود الإنفاق.
+    - content: التحكم الداخلي في دفعة الموردين
+      isCorrect: true
+      explanation: يحدد التحكم الداخلي في دفعة الموردين سياسة تتحقق من صحة المورد الذي يُصرح لموظفي الحسابات الدائنة بإصدار مدفوعات له.

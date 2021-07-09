@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.3-complete-lcs-methodology
+title: إكمال منهجية Lifecycle Services
+metadata:
+  title: إكمال منهجية Lifecycle Services
+  description: توضح هذه الوحدة كيفية إكمال منهجية Lifecycle Services.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
+  ms.openlocfilehash: 7ec8e970abc2bfd532eff74c6be1e700bdec3eaf
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071264"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-complete-lcs-methodology.md)]

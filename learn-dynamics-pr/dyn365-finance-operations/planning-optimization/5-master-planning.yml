@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.5-master-planning
+title: التخطيط الرئيسي واتفاقيات الشراء التجارية
+metadata:
+  title: التخطيط الرئيسي واتفاقيات الشراء التجارية
+  description: تعرَّف على التخطيط الرئيسي واتفاقيات الشراء التجارية باستخدام تحسين التخطيط في Dynamics 365 Supply Chain Management.
+  ms.date: 11/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5cc8678b03ff7aa4d3164c37550a9dfb8a534cfb
+  ms.sourcegitcommit: 01f8d224bf1e548ba0cbe53b3e2150c43302c125
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/04/2020
+  ms.locfileid: "6072094"
+durationInMinutes: 18
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-master-planning.md)]"

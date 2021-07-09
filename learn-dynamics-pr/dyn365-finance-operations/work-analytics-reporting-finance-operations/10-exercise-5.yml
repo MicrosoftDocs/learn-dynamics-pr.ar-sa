@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.10-exercise-create-side-by-side-departmental
+title: معمل - إنشاء تقرير أقسام جنباً إلى جنب
+labId: 76400
+metadata:
+  title: معمل - إنشاء تقرير أقسام جنباً إلى جنب
+  description: تدرب على إنشاء تقرير أقسام جنباً إلى جنب في تطبيقات Finance and Operations.
+  ms.date: 07/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c2ebacc9daff2084e0f415df4c728eecca0135c6
+  ms.sourcegitcommit: 2ab9511cb587be3de564a422c843360dd7b7c61f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2020
+  ms.locfileid: "6072043"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/10-exercise-create-side-by-side-departmental.md)] \n[!include[](../includes/non-final-lab-end.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.6-internal-organizations-as-legal-entities-vs-operating-units
+title: تحديد ما إذا كنت تريد اتخاذ نموذجاً للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل
+metadata:
+  title: تحديد ما إذا كنت تريد اتخاذ نموذجاً للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل
+  description: تصف هذه الوحدة كيفية تحديد ما إذا كان سيتم اتخاذ نموذجاً للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل في تطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 01638df19cd1129a13b0a765b65d5c9069d20095
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071175"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-legal-entities-vs-operating-units.md)]

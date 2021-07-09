@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.5-health-lcs
+title: مراقبة مقاييس سلامة الخادم في LCS
+metadata:
+  title: مراقبة مقاييس سلامة الخادم في LCS
+  description: تعرَّف على كيفية مراقبة مقاييس سلامة الخادم في LCS في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0e264014a66fa74baa24c5729c88b4cd7b4e6068
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071282"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-health-lcs.md)]

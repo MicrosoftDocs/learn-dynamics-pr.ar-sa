@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations
+metadata:
+  title: إدارة التعليمات البرمجية المصدر باستخدام التحكم في الإصدار في تطبيقات Finance and Operations
+  description: عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات Finance and Operations، يعني ذلك استخدام Azure DevOps ضمن Visual Studio.
+  ms.date: 07/03/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 460a814ba30efd47a8dbd22e3e3afa9a41a63393
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072198"
+title: إدارة التعليمات البرمجية المصدر باستخدام التحكم في الإصدار في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات Finance and Operations، يعني ذلك استخدام Azure DevOps ضمن Visual Studio.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتكوين Visual Studio للاتصال بـ Azure DevOps.\n- استخدم أفضل الممارسات للتحكم في الإصدار.\n- إدارة مراجعات التعليمات البرمجية وتنفيذها\n"
+prerequisites: >
+  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+
+  - الفهم الأساسي لمفاهيم الترميز
+
+  - المعرفة والقدرة على تطوير تطبيقات Finance and Operations
+
+  - الفهم الأساسي لـ Visual Studio
+iconUrl: /learn/achievements/manage-source-code-using-version-control-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.01-introduction
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.02-configure-vs
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.03-visual-studio
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.04-code-review
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.05-check
+- learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.06-summary
+badge:
+  uid: learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations.badge

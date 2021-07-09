@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-discrete-bom-route-versioned-products-scm.3-product-version-bom
+title: إعداد قائمة مكونات صنف إصدار المنتج
+metadata:
+  title: إعداد قائمة مكونات صنف إصدار المنتج
+  description: تعرف على كيفية إعداد قائمة مكونات صنف إصدار المنتج.
+  ms.date: 04/30/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: a5406de2bad1c3a914991b971389fb2ceb298167
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072629"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-product-version-bom.md)]"

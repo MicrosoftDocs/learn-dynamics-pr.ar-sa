@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.4-source-control
+title: عمليات التحكم بالمصادر
+metadata:
+  title: عمليات التحكم بالمصادر
+  description: تعرّف على عمليات التحكم بالمصادر في تطبيقات Finance and Operations.
+  ms.date: 06/21/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 46cd6dee39dcc9d3e8558c67c561a29ac564c3aa
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071790"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-source-control.md)]

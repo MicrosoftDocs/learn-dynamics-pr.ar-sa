@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
+metadata:
+  title: استكشاف إطار عمل الاختبار والأدوات في تطبيقات Finance and Operations
+  description: في تطبيقات Finance and Operations، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظاماً لإدارة سجل نظيف للاختبار.
+  ms.date: 07/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a99f35eaa211be2138d096263f2c1434d2dea20c
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072214"
+title: استكشاف إطار عمل الاختبار والأدوات في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nفي تطبيقات Finance and Operations، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظاماً لإدارة سجل نظيف للاختبار. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- القدرات والفوائد الخاصة بإطار عمل اختبار الوحدة.\n- إمكانيات مسجل المهام وفوائده.\n- فوائد أداه أفضل الممارسات.\n"
+prerequisites: >
+  - الفهم الأساسي لـ Visual Studio
+
+  - فهم شروط التطوير الموجه للعناصر وتفاصيله‬
+
+  - فهم لغة التطوير X++
+
+  - المعرفة العامة بتطبيقات Finance and Operations
+
+  - فهم العناصر والنماذج والحزم
+iconUrl: /learn/achievements/explore-test-framework-tools-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.01-introduction
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.02-framework
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.03-acceptance-test-library
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.04-task-recorder
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.05-best-practice
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.06-errors
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.07-configure
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.08-unit-test
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.09-issues
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.10-check
+- learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.11-summary
+badge:
+  uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.badge

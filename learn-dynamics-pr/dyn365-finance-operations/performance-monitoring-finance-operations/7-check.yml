@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b357fd51716572d3aa8e85d4567ce2e54ba772ce
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071278"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما أداة الأداء التي يمكن أن تستهلك عمليات التتبع وتحلل الأداء؟
+    choices:
+    - content: مجموعة SDK الخاصة بالأداء
+      isCorrect: false
+      explanation: تُستخدم مجموعة SDK الخاصة بالأداء لاختبار البيئة في ظل ظروف التحميل العادية والفعلية.
+    - content: مراقبة السلامة
+      isCorrect: false
+      explanation: تُستخدم مراقبة السلامة في LCS لمراقبة البيئات.
+    - content: رؤى SQL
+      isCorrect: false
+      explanation: يتم استخدام رؤى SQL لتحليل الأداء واستكشاف الأخطاء وإصلاحها المتقدم. لا تستهلك عمليات التتبع.
+    - content: محلل التتبع
+      isCorrect: true
+      explanation: محلل التتبع هو أداة أداء تستهلك عمليات التتبع وتحلل أداء البيئة.
+  - content: تحتاج إلى رؤية نشاط مستخدم فردي في بيئة معينة. كيف يتم إنجاز هذه المهمة؟
+    choices:
+    - content: تحقق من مراقب النشاط في LCS.
+      isCorrect: true
+      explanation: للاطلاع على نشاط مستخدم فردي لبيئة معينة، تحقق من مراقب النشاط في LCS.
+    - content: استخدم Visual Studio لتشغيل التشخيص.
+      isCorrect: false
+      explanation: لا يستخدم Visual Studio لمراقبة نشاط المستخدم.
+    - content: تحقق من صفحة التفاصيل الكاملة لبيئةٍ في LCS.
+      isCorrect: false
+      explanation: تعرض لك صفحة التفاصيل الكاملة في LCS تفاصيلاً خاصة بالبيئة، وليس المستخدم. وهي لا تعرض تفاصيل عن نشاط المستخدم في بيئة معينة.
+    - content: استعرض الوحدة النمطية لإدارة النظام في تطبيقات Finance and Operations.
+      isCorrect: false
+      explanation: لن تعرض لك الوحدة النمطية لإدارة النظام تفاصيل عن نشاط المستخدم في بيئة معينة.
+  - content: هل صحيح أنه يتم إرسال بعض عمليات التشخيص بمقاييس السلامة في LCS مباشرةً إلى فريق هندسة الخدمات في Microsoft؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: يتم إرسال بعض التشخيصات مباشرةً إلى Microsoft من واجهة المقاييس الصحية في LCS ليقوم بمراجعتها الفريق الهندسي.
+    - content: لا
+      isCorrect: false
+      explanation: العبارة صحيحة بشأن أنه يتم إرسال بعض التشخيصات من لوحة معلومات مقاييس الصحة في LCS مباشرةً إلى فريق هندسة الخدمات في Microsoft.

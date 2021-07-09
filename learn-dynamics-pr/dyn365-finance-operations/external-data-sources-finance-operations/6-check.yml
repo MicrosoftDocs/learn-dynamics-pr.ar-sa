@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4182a287721d7bbd5c6fa1512fd7126178e06bee
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071212"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أين يمكنك إنشاء تصدير بيانات لمصدر بيانات مخصص؟
+    choices:
+    - content: Visual Studio
+      isCorrect: false
+      explanation: لا تستخدم Visual Studio لإنشاء مشروع تصدير.
+    - content: مساحة عمل إدارة البيانات
+      isCorrect: true
+      explanation: يمكنك إنشاء مشروعات تصدير البيانات في مساحة عمل إدارة البيانات في تطبيقات Finance and Operations.
+    - content: SQL Server Management Studio
+      isCorrect: false
+      explanation: لا تستخدم SQL Server Management Studio لإنشاء مشروع تصدير.
+    - content: الوحدة النمطية لإدارة النظام
+      isCorrect: false
+      explanation: لا تستخدم الوحدة النمطية لأداره النظام لإنشاء مشروع تصدير.
+  - content: هل صحيح أن معظم كيانات البيانات ستتضمن جدولاً واحداً فقط؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: يجب أن تحتوي معظم كيانات البيانات على عدة جداول مرتبطة لتمثيل الكائن. ومع ذلك، قد يكون هناك بعض الحالات التي يتم فيها استخدام جدول مفرد.
+    - content: لا
+      isCorrect: true
+      explanation: يجب أن تحتوي معظم كيانات البيانات على عدة جداول مرتبطة لتمثيل الكائن. ومع ذلك، قد يكون هناك بعض الحالات التي يتم فيها استخدام جدول مفرد.
