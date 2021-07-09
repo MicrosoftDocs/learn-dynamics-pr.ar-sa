@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-accounting.03-project-categories
+title: فئات المشاريع
+metadata:
+  title: فئات المشاريع
+  description: تعرف على فئات المشاريع في Dynamics 365 Project Operations.
+  ms.date: 04/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: f95db2f7a0f8c7715bb5a3e0e784f7c2a3f4309b
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072846"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-project-categories.md)]"

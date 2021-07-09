@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-receivable-daily-procedures-in-dynamics-365-finance-ops.7-exercise-work-invoices-sales
+title: تمرين - التعامل مع الفواتير من أوامر المبيعات
+metadata:
+  title: تمرين - التعامل مع الفواتير من أوامر المبيعات
+  description: تدرب على التعامل مع الفواتير من أوامر المبيعات في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 065e6a3dcfefe01d7bec80ea6409d778889fcf86
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070869"
+durationInMinutes: 11
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-exercise-work-invoices-sales.md)]

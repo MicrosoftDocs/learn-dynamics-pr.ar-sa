@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.2-inbound-operations
+title: العمليات الواردة
+metadata:
+  title: العمليات الواردة
+  description: توضح هذه الوحدة العمليات الواردة في إدارة المخزون في Supply Chain Management.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e98eb4226d8a2454eceee68d2c653bc3973e323d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073350"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-inbound-operations.md)]

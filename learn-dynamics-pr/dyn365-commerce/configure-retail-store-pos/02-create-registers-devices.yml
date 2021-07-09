@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-retail-store-pos.02-create-registers-devices
+title: إنشاء سجلات وأجهزة
+metadata:
+  title: إنشاء سجلات وأجهزة
+  description: تعرف على كيفية إنشاء سجلات وأجهزة في Dynamics 365 Commerce.
+  ms.date: 04/07/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 367a6e85adfa819975f930561aefa0adbf7c8b17
+  ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/07/2021
+  ms.locfileid: "6070491"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create-registers-devices.md)]"

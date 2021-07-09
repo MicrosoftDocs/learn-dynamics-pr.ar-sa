@@ -1,0 +1,44 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-expense-management
+metadata:
+  title: التعامل مع إدارة المصروفات في Dynamics 365 Project Operations
+  description: قم بزيادة الربحية إلى الحد الأقصى وتقليل التكلفة من خلال إمكانات إدارة المصروفات الدقيقة في Dynamics 365 Project Operations.
+  ms.date: 12/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9beaa8b447204c3b10bb39588882f9494ddeca90
+  ms.sourcegitcommit: 5cb6c3699007b81548c86148dcf9317dcafeec14
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/07/2020
+  ms.locfileid: "6074774"
+title: التعامل مع إدارة المصروفات في Dynamics 365 Project Operations
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  قم بزيادة الربحية إلى الحد الأقصى وتقليل التكلفة من خلال إمكانات إدارة المصروفات الدقيقة في Dynamics 365 Project Operations. تعرف على كيفية تكوين تقارير المصروفات وإنشائها والموافقة عليها.
+prerequisites: >
+  - المعرفة الأساسية بعمليات إدارة المصروفات.
+
+  - المعرفة العامة بكيفية التنقل في Dynamics 365 Project Operations.
+iconUrl: /learn/achievements/work-expense-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-expense-management
+- learn-dynamics.set-up-configure-expense-management
+- learn-dynamics.create-process-expense-reports
+- learn-dynamics.work-travel-requisitions
+trophy:
+  uid: learn-dynamics.work-expense-management.trophy

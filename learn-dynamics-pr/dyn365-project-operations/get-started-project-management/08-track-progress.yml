@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-management.08-track-progress
+title: تعقب تقدم المشروع
+metadata:
+  title: تعقب تقدم المشروع
+  description: تعرف على كيفية تعقب تقدم المشروع في Dynamics 365 Project Operations
+  ms.date: 04/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: e91a99252046d8943e579a7954b282653df01645
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072878"
+durationInMinutes: 13
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-track-progress.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-fixed-kanbans.4-process-fixed-kanban
+title: معالجة كانبان ثابت
+metadata:
+  title: معالجة كانبان ثابت
+  description: يشرح هذا الموضوع كيفية معالجة وظائف كانبان ثابتة.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 59bcb1a6c88e606e86d84f35c0a1637899ae8396
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073495"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-process-fixed-kanban.md)]

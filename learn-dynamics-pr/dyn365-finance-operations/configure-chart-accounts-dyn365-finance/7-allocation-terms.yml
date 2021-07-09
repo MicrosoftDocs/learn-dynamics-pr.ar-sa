@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.7-allocation-terms
+title: شروط التوزيع
+metadata:
+  title: شروط التوزيع
+  description: توضح هذه الوحدة شروط التوزيع في Dynamics 365 Finance.
+  ms.date: 02/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b3b0b1eb033355542cf39c1d3cf7d0a45b901ebd
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070761"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-allocation-terms.md)]

@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.extend-commerce
+metadata:
+  title: توسيع Dynamics 365 Commerce
+  description: يوفر النظام الأساسي لـ Microsoft Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضاً مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.
+  ms.date: 04/06/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 3ee11b99e2ee8710bf4670b359cb9ff9d22c7be3
+  ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/06/2021
+  ms.locfileid: "6070486"
+title: توسيع Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيوفر النظام الأساسي لـ Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضاً مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.   \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المكونات المختلفة لـ Dynamics 365 Commerce. \n- تعرف على كيفية توسيع مكونات Commerce المختلفة.\n"
+prerequisites: >
+  - الفهم العام لـ Microsoft Dynamics 365 Commerce
+
+  - الفهم العام للوظيفة الإضافية للتجارة الإلكترونية لـ Microsoft Dynamics 365 Commerce
+
+  - نظرة عامة على مكونات توسيع Dynamics 365 Commerce
+
+  - المعرفة الأساسية بـ Dynamics 365 Lifecycle Services
+iconUrl: /learn/achievements/extend-commerce.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.extend-commerce.01-introduction
+- learn-dynamics.extend-commerce.02-overview
+- learn-dynamics.extend-commerce.03-components-retail-sdk
+- learn-dynamics.extend-commerce.04-point-of-sale
+- learn-dynamics.extend-commerce.05-commerce-runtime
+- learn-dynamics.extend-commerce.06-exercise-1
+- learn-dynamics.extend-commerce.07-exercise-2
+- learn-dynamics.extend-commerce.08-typescript-proxy
+- learn-dynamics.extend-commerce.09-e-commerce
+- learn-dynamics.extend-commerce.10-develop-module-e-commerce
+- learn-dynamics.extend-commerce.11-develop-data-action-theme
+- learn-dynamics.extend-commerce.12-exercise-3
+- learn-dynamics.extend-commerce.13-exercise-4
+- learn-dynamics.extend-commerce.14-check
+- learn-dynamics.extend-commerce.15-summary
+badge:
+  uid: learn-dynamics.extend-commerce.badge

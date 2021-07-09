@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.data-distribution
+metadata:
+  title: توزيع البيانات في Dynamics 365 Commerce
+  description: يستند توزيع البيانات في Dynamics 365 Commerce على Commerce Data Exchange، والذي ينقل البيانات بين المركز الرئيسي (HQ) في Commerce والقنوات المختلفة.
+  ms.date: 07/06/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-commerce
+  ms.openlocfilehash: a6eb7a9f74f1050a630825b46746c50eb4d75454
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070393"
+title: توزيع البيانات في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيستند توزيع البيانات في Dynamics 365 Commerce على Commerce Data Exchange، والذي ينقل البيانات بين المركز الرئيسي (HQ) في Commerce والقنوات المختلفة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف مكونات توزيع البيانات وكيف تتم مزامنة البيانات بين Commerce Headquarters والقنوات المختلفة.\n- احصل على نظرة عامة على جدول التوزيع.\n- تعرف على الفرق بين الخدمة في الوقت الحقيقي وغير المتزامن. \n"
+prerequisites: >
+  - الفهم العام لقنوات Dynamics 365 Commerce
+
+  - الفهم العام لبنية Dynamics 365 Commerce
+iconUrl: /learn/achievements/data-distribution-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.data-distribution.01-introduction
+- learn-dynamics.data-distribution.02-components
+- learn-dynamics.data-distribution.03-real-time-async-service
+- learn-dynamics.data-distribution.04-schedules
+- learn-dynamics.data-distribution.05-check
+- learn-dynamics.data-distribution.06-summary
+badge:
+  uid: learn-dynamics.data-distribution-commerce.badge

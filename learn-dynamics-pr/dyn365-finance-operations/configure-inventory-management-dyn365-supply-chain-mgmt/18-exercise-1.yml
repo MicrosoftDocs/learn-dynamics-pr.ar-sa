@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.18-exercise-create-new-warehouse-layout
+title: المعمل - إنشاء تخطيط مستودع جديد
+labId: 63309
+metadata:
+  title: المعمل - إنشاء تخطيط مستودع جديد
+  description: تدرب على إنشاء تخطيط مستودع جديد في Supply Chain Management.
+  ms.date: 04/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 897eae5bc9e963e7c4fd774d9bdd99896ef966a6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073235"
+durationInMinutes: 22
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/18-exercise-create-new-warehouse-layout.md)] \n[!include[](../includes/non-final-lab-end.md)]"

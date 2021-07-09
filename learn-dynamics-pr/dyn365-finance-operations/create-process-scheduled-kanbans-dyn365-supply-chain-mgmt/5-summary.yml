@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-scheduled-kanbans.5-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: يمكنك مراجعة ما تعلمته عن إنشاء بطاقات كانبان المجدولة ومعالجتها في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 647c592df0e977115c9a676562cdaf46a1b86e38
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073196"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-summary.md)]

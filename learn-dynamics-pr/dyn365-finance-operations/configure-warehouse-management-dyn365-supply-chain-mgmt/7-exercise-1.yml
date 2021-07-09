@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.7-exercise-configure-warehouse-management
+title: مختبر - تكوين إدارة المستودعات
+labId: 64129
+metadata:
+  title: مختبر - تكوين إدارة المستودعات
+  description: تدرب على تكوين إدارة المستودعات في Supply Chain Management.
+  ms.date: 03/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: aee515bb73ca52cf95e18f5f0cca83819cefeeb8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073167"
+durationInMinutes: 35
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/7-exercise-configure-warehouse-management.md)] \n[!include[](../includes/non-final-lab-end.md)]"

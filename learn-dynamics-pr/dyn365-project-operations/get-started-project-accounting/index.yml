@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-project-accounting
+metadata:
+  title: بدء استخدام محاسبة المشاريع في Dynamics 365 Project Operations
+  description: يقدم Microsoft Dynamics 365 Project Operations حل أعمال متكاملاً مع إمكانات محاسبة المشروع في كل مرحلة من مراحل المشروع.
+  ms.date: 04/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 504a30be8224d42a04fc71fd962d2b74075cce4b
+  ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/11/2021
+  ms.locfileid: "6072931"
+title: بدء استخدام محاسبة المشاريع في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nيقدم Dynamics 365 Project Operations حل أعمال متكاملاً مع إمكانات محاسبة المشروع في كل مرحلة من مراحل المشروع. يسجل فريق المشروع الوقت والمصروفات والحركات الأخرى المرتبطة بالمشروع، ويضمن محاسب المشروع أن يتم حساب هذه الحركات وتسجيلها بدقة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على إمكانات محاسبة المشروع في Dynamics 365 Project Operations.\n- تعرف على كيفية استخدام الوقت والمواد وطرق فوترة الأسعار الثابتة لإقرار الإيرادات.\n"
+prerequisites: "- المعرفة العامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365\n- معرفة كيفية استخدام تطبيقات Dynamics 365 \n- المعرفة الأساسية بـ Dynamics 365 Project Operations\n- المعرفة الأساسية بـ Microsoft Dynamics 365 Finance\n"
+iconUrl: /learn/achievements/get-started-project-accounting.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance-operations
+- dynamics-finance
+units:
+- learn-dynamics.get-started-project-accounting.01-introduction
+- learn-dynamics.get-started-project-accounting.02-financial-dimensions
+- learn-dynamics.get-started-project-accounting.03-project-categories
+- learn-dynamics.get-started-project-accounting.04-accounting-internal
+- learn-dynamics.get-started-project-accounting.05-accounting-billable
+- learn-dynamics.get-started-project-accounting.06-cost-revenue-profiles
+- learn-dynamics.get-started-project-accounting.07-integration-journal
+- learn-dynamics.get-started-project-accounting.08-revenue-recognition
+- learn-dynamics.get-started-project-accounting.09-check
+- learn-dynamics.get-started-project-accounting.10-summary
+badge:
+  uid: learn-dynamics.get-started-project-accounting.badge

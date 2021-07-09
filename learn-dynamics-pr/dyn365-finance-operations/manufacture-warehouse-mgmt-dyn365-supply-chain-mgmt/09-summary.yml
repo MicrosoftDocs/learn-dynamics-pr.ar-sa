@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manufacture-wms-dyn365-fo.09-manufacture-wms-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص وحدة استخدام إدارة المستودع للتصنيع في Dynamics 365 Supply Chain Management.
+  ms.date: 05/06/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: af60c02b68a2145f181f02c324355f74264e295b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073385"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/09-manufacture-wms-summary.md)]

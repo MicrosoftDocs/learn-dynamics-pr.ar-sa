@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-manufacturing-execution
+metadata:
+  title: التعامل مع تنفيذ التصنيع في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول كيفية تكوين تنفيذ التصنيع واستخدامه في Dynamics 365 Supply Chain Management.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8bb6872d95b5c0e1f30b07f04e83d50ef1f973ef
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6073871"
+title: التعامل مع تنفيذ التصنيع في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتُستخدم وحدة تنفيذ التصنيع في المقام الأول لشركات التصنيع. يمكن استخدامه لتسجيل استهلاك الوقت والأصناف في وظائف الإنتاج أو المشاريع. قبل البدء في استخدام تنفيذ التصنيع لتسجيلات الوظائف، يجب إعداد معلمات الإنتاج المختلفة التي تحدد كيفية ووقت ترحيل التسجيلات أثناء عملية الإنتاج. تؤثر إعدادات محددات الإنتاج في إدارة المخزون وإدارة الإنتاج وحساب التكلفة.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على عملية تنفيذ التصنيع.\n- تحديد الأدوار في تنفيذ التصنيع.\n- معالجة أوامر الإنتاج.\n- اكتشاف مهام سير عمل العملية لإدارة عملية الإنتاج.\n"
+prerequisites: "- المعرفة العامة بعمليات التصنيع\n- المعرفة العامة بالموارد البشرية \n- فهم كيفية التعامل مع موارد إدارة المؤسسة\n- القدرة على استخدام Supply Chain Management للمعالجة الأساسية\n"
+iconUrl: /learn/achievements/work-with-manufacturing-execution-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-manufacturing-execution.1-introduction-manufacturing-execution
+- learn-dynamics.work-with-manufacturing-execution.2-understand-manufacturing-execution
+- learn-dynamics.work-with-manufacturing-execution.3-identify-roles
+- learn-dynamics.work-with-manufacturing-execution.4-planning-consideration
+- learn-dynamics.work-with-manufacturing-execution.5-configure-manufacturing-execution
+- learn-dynamics.work-with-manufacturing-execution.6-control-production
+- learn-dynamics.work-with-manufacturing-execution.6-2-report-finished-job-card
+- learn-dynamics.work-with-manufacturing-execution.7-exercises-manufacturing-execution
+- learn-dynamics.work-with-manufacturing-execution.8-knowledge-check
+- learn-dynamics.work-with-manufacturing-execution.9-summary
+badge:
+  uid: learn.work-with-manufacturing-execution-in-dynamics-365-for-finance-ops.badge

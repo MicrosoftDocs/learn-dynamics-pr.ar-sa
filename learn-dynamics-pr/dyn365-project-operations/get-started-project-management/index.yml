@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-project-management
+metadata:
+  title: بدء استخدام إدارة المشاريع في Dynamics 365 Project Operations
+  description: تساعدك أدوات إدارة المشاريع في Dynamics 365 Project Operations في تشغيل المشاريع. تساعد أدوات الجدولة مديري المشروعات والفرق في الحفاظ على إنتاجيتهم.
+  ms.date: 04/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 0d976b9ee770a60e2bda6a295a57955981494d29
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072869"
+title: بدء استخدام إدارة المشاريع في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nتساعدك أدوات إدارة المشاريع في Dynamics 365 Project Operations في تشغيل المشاريع. تساعد أدوات الجدولة مديري المشروعات والفرق في الحفاظ على إنتاجيتهم. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مراحل المشروع وتقويمات المشروع.\n- إنشاء خطة مشروع.\n- تقدير المشروع. \n- طلب موارد المشروع.\n- مراجعة الموارد.\n- تحديث مشروع.\n- تعقب عملية المشروع.\n- الموافقة على الوقت والمصروفات.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات إدارة المشاريع
+
+  - المعرفة العامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365
+
+  - معرفة كيفية استخدام تطبيقات Dynamics 365
+
+  - المعرفة الأساسية بـ Microsoft Dynamics 365 Project Operations
+iconUrl: /learn/achievements/get-started-project-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance-operations
+- dynamics-finance
+units:
+- learn-dynamics.get-started-project-management.01-introduction
+- learn-dynamics.get-started-project-management.02-project-stages
+- learn-dynamics.get-started-project-management.03-project-calendars
+- learn-dynamics.get-started-project-management.04-work-breakdown-structure
+- learn-dynamics.get-started-project-management.05-project-resources
+- learn-dynamics.get-started-project-management.06-estimates
+- learn-dynamics.get-started-project-management.07-update-project
+- learn-dynamics.get-started-project-management.08-track-progress
+- learn-dynamics.get-started-project-management.09-approve-time-expense
+- learn-dynamics.get-started-project-management.10-exercise
+- learn-dynamics.get-started-project-management.11-check
+- learn-dynamics.get-started-project-management.12-summary
+badge:
+  uid: learn-dynamics.get-started-project-management.badge

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.2-different-types-of-journals
+title: فهم الأنواع المختلفة من دفاتر اليومية وإعدادها
+metadata:
+  title: فهم الأنواع المختلفة من دفاتر اليومية وإعدادها
+  description: تصف هذه الوحدة الأنواع المختلفة لدفاتر اليومية وإعدادها في Dynamics 365 Finance.
+  ms.date: 02/22/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/ledger-journal-types
+  ms.openlocfilehash: 91a719c6c882bf4ba0ce9797f73a75d0464ab67f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070592"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-different-types-of-journals.md)]

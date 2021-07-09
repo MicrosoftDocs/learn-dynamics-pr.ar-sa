@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-call-center.03-order-on-hold
+title: ضع طلب مركز اتصال قيد الانتظار، ثم قم بتحريره من الانتظار
+metadata:
+  title: ضع طلب مركز اتصال قيد الانتظار، ثم قم بتحريره من الانتظار
+  description: تصف هذه الوحدة كيفية وضع طلب مركز اتصال قيد الانتظار وإطلاق سراحه من الانتظار
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: eb3ad62f39f884775f5ed27b4f5ecdfcfb957d69
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070241"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-order-on-hold.md)]"

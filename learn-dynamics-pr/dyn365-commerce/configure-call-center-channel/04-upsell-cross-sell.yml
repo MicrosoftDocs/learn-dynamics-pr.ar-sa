@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-call-center-channel.04-upsell-cross-sell
+title: البيع المرتقي والبيع التكميلي في مراكز الاتصال
+metadata:
+  title: البيع المرتقي والبيع التكميلي في مراكز الاتصال
+  description: تصف هذه الوحدة ميزات البيع المرتقي والبيع التكميلي في مراكز الاتصال
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 6fea8156fec6ff563f58b412cbb28c3fc699bbec
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070368"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-upsell-cross-sell.md)]"

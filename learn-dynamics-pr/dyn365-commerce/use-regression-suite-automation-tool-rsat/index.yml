@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.use-regression-suite-automation-tool-rsat
+metadata:
+  title: استخدام RSAT مع Dynamics 365 Commerce
+  description: تتيح لك Regression suite automation tool ‏(RSAT) التحقق من صحة الاختبار لـ Dynamics 365 Commerce تلقائياً.
+  ms.date: 07/06/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 49302a1ac61910630ae1b301a64f9b24e55c9155
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070210"
+title: استخدام RSAT مع Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nتتيح لك Regression suite automation tool ‏(RSAT) التحقق من صحة الاختبار لـ Dynamics 365 Commerce تلقائياً. إنه يمكّن مستخدمي الطاقة الوظيفية من تسجيل المهام التجارية باستخدام مسجل الاختبار ثم تحويلها إلى مجموعة من الاختبارات الآلية للتحقق من صحة عناصر واجهة المستخدم والبيانات والعمليات التجارية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ميزات RSAT.\n- تعرف على كيفية استخدام ميزة اختبار المُسجل لإنشاء حالات الاختبار وتكوينها وتشغيلها والتحقيق فيها والإبلاغ عنها. \n"
+prerequisites: "- الوصول إلى مستأجر العميل Dynamics 365 Lifecycle Services ‏(LCS) وAzure DevOps\n- المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce\n- المعرفة الأساسية بعمليات البيع بالتجزئة\n- تم تثبيت Microsoft Excel \n"
+iconUrl: /learn/achievements/rsat-commerce.svg
+levels:
+- intermediate
+roles:
+- developer
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.use-regression-suite-automation-tool-rsat.01-introduction
+- learn-dynamics.use-regression-suite-automation-tool-rsat.02-reasons
+- learn-dynamics.use-regression-suite-automation-tool-rsat.03-create-test-recording
+- learn-dynamics.use-regression-suite-automation-tool-rsat.04-install-configure
+- learn-dynamics.use-regression-suite-automation-tool-rsat.05-load-test-cases-run-automation
+- learn-dynamics.use-regression-suite-automation-tool-rsat.06-check
+- learn-dynamics.use-regression-suite-automation-tool-rsat.07-summary
+badge:
+  uid: learn-dynamics.rsat-commerce.badge

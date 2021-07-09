@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.8-setup-fixed-asset-groups
+title: إعداد مجموعات الأصول الثابتة
+metadata:
+  title: إعداد مجموعات الأصول الثابتة
+  description: توضح هذه الوحدة كيفية إعداد مجموعات الأصول الثابتة في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c1ce225da4e4cd202b1fca454b4a2c1a9e72673c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070729"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-setup-fixed-asset-groups.md)]

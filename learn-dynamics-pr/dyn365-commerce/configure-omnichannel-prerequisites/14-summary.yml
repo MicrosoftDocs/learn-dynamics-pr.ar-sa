@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-omnichannel-prerequisites.14-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين المتطلبات المسبقة للقناة متعددة الاتجاهات في الوحدة النمطية Dynamics 365 Commerce
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 15cf7c55b3d0d658f6c262b3a30d72a4465ca699
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070184"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/14-summary.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.4-select-a-fiscal-calendar
+title: تحديد تقويم مالي
+metadata:
+  title: تحديد تقويم مالي
+  description: تصف هذه الوحدة كيفية تحديد تقويم مالي في Dynamics 365 Finance.
+  ms.date: 02/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6fb22646c7910e79fef6c3a4241d70b680482cf2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070575"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-select-a-fiscal-calendar.md)]

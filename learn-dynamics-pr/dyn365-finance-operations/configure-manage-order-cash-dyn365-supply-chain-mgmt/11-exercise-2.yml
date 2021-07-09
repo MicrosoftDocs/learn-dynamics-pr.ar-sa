@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-order-to-cash.11-exercise-configure-use-commissions
+title: 'معمل: تكوين العمولات واستخدامها'
+labId: 72802
+metadata:
+  title: 'معمل: تكوين العمولات واستخدامها'
+  description: تدرب على تكوين العمولات واستخدامها.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9f1579cb40a0ef1d44710a05db59448a65fe98f5
+  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/13/2021
+  ms.locfileid: "6073704"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/11-exercise-configure-use-commissions.md)] \n[!include[](../includes/standalone-lab-end.md)]"

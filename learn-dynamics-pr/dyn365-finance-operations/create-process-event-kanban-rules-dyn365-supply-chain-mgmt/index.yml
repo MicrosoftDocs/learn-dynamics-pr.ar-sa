@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.create-process-event-kanban-rules
+metadata:
+  title: إنشاء قواعد كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول كيفية إنشاء قواعد كانبان ومعالجتها في Dynamics 365 Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f0249840382a69d240ba9ffcbb866ed583ec74d5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073200"
+title: إنشاء قواعد كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك استخدام قواعد كانبان الأحداث لتشغيل وإنشاء المشكلات ذات الصلة بالمواد الخام عند إنشاء بنود المبيعات، أو تقدير أوامر الإنتاج، أو إنشاء كانبان من قواعد كانبان الأحداث، أو تشغيل معالجة حدث الربط حيث وصل المخزون إلى الحد الأدنى من الكمية. توضح هذه الوحدة كيفية إنشاء بطاقات كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قواعد كانبان الأحداث.\n- إنشاء كانبان حدث بند المبيعات وإدارته.\n- إنشاء كانبان حدث بند قائمة مكونات الصنف وإدارته.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - فهم كيفية التعامل مع إدارة المخزون
+
+  - المعرفة العامة حول كيفية التعامل مع إدارة المستودعات
+
+  - المعلومات العامة حول عمليات كانبان للتصنيع والسحب
+iconUrl: /learn/achievements/create-and-process-kanbans-in-microsoft-dynamics-365-for-finance-and-operations.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.create-process-event-kanban-rules.1-introduction-create-event-kanbans
+- learn-dynamics.create-process-event-kanban-rules.2-configure-event-kanban-rules
+- learn-dynamics.create-process-event-kanban-rules.3-configure-sales-kanban-stock-replenishment
+- learn-dynamics.create-process-event-kanban-rules.4-exercise-create-event-kanban-sales-order
+- learn-dynamics.create-process-event-kanban-rules.5-exercise-create-kanban-line-event
+- learn-dynamics.create-process-event-kanban-rules.6-knowledge-check
+- learn-dynamics.create-process-event-kanban-rules.7-summary
+badge:
+  uid: learn.create-and-process-kanbans-in-microsoft-dynamics-365-for-finance-and-operations.badge

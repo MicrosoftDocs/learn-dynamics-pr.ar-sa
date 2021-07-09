@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.introduction-architecture-deployment
+metadata:
+  title: مقدمه إلى هندسة وتوزيع Dynamics 365 Commerce
+  description: يوفر Dynamics 365 Commerce إمكانات إدارية، يُشار إليها أيضاً باسم مكون Commerce Headquarters، والذي يمكّن تكوين المنتجات والموظفين والعمليات التجارية والوظائف الأخرى المطلوبة للأعمال. إنه أيضاً تطبيق يستخدمه عمال مركز الاتصال لتوفير مهام سير العمل المساعدة المتعلقة بـ Commerce.
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 5383a2c2cd5d1f5cb5c8459f1cc75729037256f6
+  ms.sourcegitcommit: 7b8e0bce77648fe20efb0bf63bce723b8a30cfaf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/28/2021
+  ms.locfileid: "6070524"
+title: مقدمه إلى هندسة وتوزيع Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيوفر Dynamics 365 Commerce إمكانات إدارية، يُشار إليها أيضاً باسم مكون Commerce Headquarters، والذي يمكّن تكوين المنتجات والموظفين والعمليات التجارية والوظائف الأخرى المطلوبة للأعمال. إنه أيضاً تطبيق يستخدمه عمال مركز الاتصال لتوفير مهام سير العمل المساعدة المتعلقة بـ Commerce. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على بنية ومكونات Commerce الأساسية.\n- اكتشف خيارات مخطط Commerce في المتجر.\n- تعرف على كيفية تحديد أفضل خيار مخطط لعمليات التوزيع في المتجر. \n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce
+iconUrl: /learn/achievements/architecture-deployment-commerce.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+- administrator
+- solution-architect
+- developer
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.introduction-architecture-deployment.01-introduction
+- learn-dynamics.introduction-architecture-deployment.02-components
+- learn-dynamics.introduction-architecture-deployment.03-data-distribution
+- learn-dynamics.introduction-architecture-deployment.04-in-store-topology
+- learn-dynamics.introduction-architecture-deployment.05-check
+- learn-dynamics.introduction-architecture-deployment.06-summary
+badge:
+  uid: learn-dynamics.architecture-deployment-commerce.badge

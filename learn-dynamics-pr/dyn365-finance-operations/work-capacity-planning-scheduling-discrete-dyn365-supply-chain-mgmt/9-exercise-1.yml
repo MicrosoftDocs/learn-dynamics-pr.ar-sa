@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.9-exercise-start-discrete-production-order
+title: التمرين - بدء أمر إنتاج منفصل
+metadata:
+  title: التمرين - بدء أمر إنتاج منفصل
+  description: تدرب على بدء أمر إنتاج منفصل في Dynamics 365 Supply Chain Management.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e69d1510fd2850eea9755cedba8478a6f9257b8e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073547"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-exercise-start-discrete-production-order.md)]

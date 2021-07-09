@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-product-configuration
+metadata:
+  title: بدء استخدام تكوين المنتج في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول كيفية بدء استخدام تكوين المنتج في Dynamics 365 Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1a54e43d8fa31530a64e4e63987fcffaa970257d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073520"
+title: بدء استخدام تكوين المنتج في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتكوين المنتج هو أداة تكوين منتجات مستندة إلى القيد تستخدم تكنولوجيا منتج  Microsoft Solver Foundation ‏(MSF) تم تصميمها للنمذجة وحل القيود. يمكنك استخدام تكوين المنتج لإنشاء نماذج تكوين المنتج وصيانتها وإعادة استخدام المكونات وأنواع السمات في Dynamics 365 Supply Chain Management. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- مصطلحات مهمة لمساعدتك على فهم المفاهيم والعمليات المرتبطة بتكوين المنتج.\n- سيناريو تكوين المنتج الشامل.\n- المجالات المختلفة التي تغطي عملية تكوين المنتج. \n- نموذج تكوين المنتج.\n- كيفية إنشاء نموذج تكوين منتج.\n"
+prerequisites: >
+  -  المعرفة العامة بعمليات التصنيع
+
+  -  معرفة معلومات حول إنشاء المنتجات وقائمة مكونات الصنف في Supply Chain Management
+iconUrl: /learn/achievements/get-started-with-product-configuration-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-product-configuration.1-introduction-product-configuration
+- learn-dynamics.get-started-product-configuration.2-understand-product-configuration-model
+- learn-dynamics.get-started-product-configuration.3-build-product-configuration-model
+- learn-dynamics.get-started-product-configuration.3a-expression-constraints-table-constraints
+- learn-dynamics.get-started-product-configuration.3b-validate-test-configuration-model
+- learn-dynamics.get-started-product-configuration.3c-finalize-configuration-model
+- learn-dynamics.get-started-product-configuration.3d-setup-product-configuration-model
+- learn-dynamics.get-started-product-configuration.3e-calculations-for-product-configuration-model
+- learn-dynamics.get-started-product-configuration.3f-solver-strategy-product-configuration-model
+- learn-dynamics.get-started-product-configuration.3g-reuse
+- learn-dynamics.get-started-product-configuration.3-1-release
+- learn-dynamics.get-started-product-configuration.3-2-customize
+- learn-dynamics.get-started-product-configuration.4-exercise-build-test-product-configuration-model
+- learn-dynamics.get-started-product-configuration.5-knowledge-check
+- learn-dynamics.get-started-product-configuration.6-summary
+badge:
+  uid: learn.get-started-with-product-configuration-in-dynamics-365-for-finance-ops.badge

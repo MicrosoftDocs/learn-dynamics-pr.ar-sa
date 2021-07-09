@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-commerce.03-components-retail-sdk
+title: مكونات الملحق في Retail SDK
+metadata:
+  title: مكونات الملحق في Retail SDK
+  description: تعرف على المكونات الموجودة في Retail SDK التي يجب تخصيصها لسيناريوهات مختلفة.
+  ms.date: 09/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: cec821a6a6e38fb512129480b244de4dfee71ffc
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070090"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-components-retail-sdk.md)]"

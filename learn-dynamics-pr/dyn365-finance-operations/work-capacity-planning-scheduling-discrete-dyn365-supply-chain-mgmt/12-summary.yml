@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.12-work-capacity-planning-scheduling-discrete-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص العمل مع تخطيط القدرة الإنتاجية وجدولتها في التصنيع المنفصل في الوحدة النمطية Dynamics 365 Supply Chain Management.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 00873294d75d534dcfd776bcecd0834100845ede
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073556"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/12-summary.md)]

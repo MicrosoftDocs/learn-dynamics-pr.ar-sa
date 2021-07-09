@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-pricing.05-retail-discount-types
+title: أنواع خصومات البيع بالتجزئة
+metadata:
+  title: أنواع خصومات البيع بالتجزئة
+  description: تعرف على أنواع خصومات البيع بالتجزئة في Dynamics 365 Commerce.
+  ms.date: 04/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: ed800e6dd7cdfe0142f04c97f0b2ef619405e2c1
+  ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/22/2021
+  ms.locfileid: "6070509"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-retail-discount-types.md)]"

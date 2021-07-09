@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.2-settle-transactions-undo-settlements
+title: تسوية الحركات والتراجع عن التسويات
+metadata:
+  title: تسوية الحركات والتراجع عن التسويات
+  description: توضح هذه الوحدة كيفية تسوية الحركات والتراجع عن التسويات في Dynamics 365 Finance.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 03999f144a53f5019b2f10875ff2e8f02f227f97
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070894"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-settle-transactions.md)]

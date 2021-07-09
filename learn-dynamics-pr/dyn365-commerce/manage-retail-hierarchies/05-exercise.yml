@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-hierarchies.05-exercise
+title: تمرين - إضافة منتجات إلى التدرجات الهرمية التكميلية
+metadata:
+  title: تمرين - إضافة منتجات إلى التدرجات الهرمية التكميلية
+  description: تدرب على إضافة منتجات إلى التدرجات الهرمية التكميلية.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 4b7fed15331de4cbec2e7f5d9817d65db8fdf7d8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070391"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-exercise.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-merchandising.08-exercise-1
+title: تمرين - إنشاء فرز وإضافة فئة منتج واستبعاد صنف
+metadata:
+  title: تمرين - إنشاء فرز وإضافة فئة منتج واستبعاد صنف
+  description: تدرب على إنشاء فرز وإضافة فئة منتج واستبعاد صنف في Dynamics 365 Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 544f1316a982c55dc3e16413f4776a3a3570869b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070058"
+durationInMinutes: 13
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-exercise-1.md)]"

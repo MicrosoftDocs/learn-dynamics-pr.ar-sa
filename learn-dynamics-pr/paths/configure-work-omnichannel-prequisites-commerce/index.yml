@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-work-omnichannel-prequisites-commerce
+metadata:
+  title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات والتعامل معها في Dynamics 365 Commerce
+  description: قبل إنشاء أي قناة من قنوات Dynamics 365 Commerce واستخدامها، هناك العديد من المتطلبات الأساسية التي يجب إعدادها. يصف مسار التعلم هذا تكوين هذه المتطلبات الأساسية لتمكين الحركات الناجحة في القنوات التجارية وكيفية التعامل معها.
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: a91273b682804c3255d657571e3c3b63dcc5723f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074542"
+title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات والتعامل معها في Dynamics 365 Commerce
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  قبل إنشاء أي قناة من قنوات Dynamics 365 Commerce واستخدامها، هناك العديد من المتطلبات الأساسية التي يجب إعدادها. يصف مسار التعلم هذا تكوين هذه المتطلبات الأساسية لتمكين الحركات الناجحة في القنوات التجارية وكيفية التعامل معها.
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/work-configure-omnichannel-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.configure-omnichannel-prerequisites
+- learn-dynamics.manage-retail-hierarchies
+- learn-dynamics.work-merchandising
+- learn-dynamics.manage-retail-pricing
+trophy:
+  uid: learn-dynamics.work-configure-omnichannel-commerce.trophy

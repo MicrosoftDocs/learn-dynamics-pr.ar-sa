@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-omnichannel-prerequisites.13-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 54f80f835f09957a4dbc55148d7fb36cf6c50678
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070324"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يمكن أن تطلب نقطة البيع (POS) سبباً لسبب إلغاء أحد المنتجات من إحدى الحركات من خلال تعيين كود معلومات. أي من الخيارات التالية هو النوع الذي يحدث فيه الإجراء؟
+    choices:
+    - content: ملف تعريف الوظائف
+      isCorrect: true
+      explanation: يحتوي خيار ملف تعريف الوظائف على إعدادات لكافة الإجراءات في نقطة البيع حيث يمكن للمستخدمين تعيين رمز معلومات محدد مسبقاً لإجراءات محددة في نقطة البيع.
+    - content: قناة Commerce
+      isCorrect: false
+      explanation: يتم تعيين ملف تعريف وظيفة قناة Commerce حيث يتم إعداد هذا المطلب.
+    - content: المنتج
+      isCorrect: false
+      explanation: لا يوجد في المنتج رموز المعلومات التي تم إعدادها عليها مباشرة. يمكن تعيين أكواد المعلومات إلى ملفات تعريف الوظائف.
+    - content: ملف تعريف الأجهزة
+      isCorrect: false
+      explanation: يتم استخدام التشكيل الجانبي للجهاز لتكوين الأجهزة الفعلية لقناة Commerce التي لا تعتمد عليها رموز المعلومات.
+  - content: أي من المكونات التالية يجب إنشاؤه أولاً عند إنشاء مستودع لقناة Commerce الجديدة؟
+    choices:
+    - content: المستودع
+      isCorrect: false
+      explanation: يتطلب مكون المستودع تكوين موقع قبل إنشاء مستودع.
+    - content: الموقع
+      isCorrect: true
+      explanation: الموقع هو التكوين الأعلى مستوى وليس لديه متطلبات مسبقة لإنشائه.
+    - content: ممر
+      isCorrect: false
+      explanation: تتطلب الممرات إنشاء مستودع.
+    - content: الموقع
+      isCorrect: false
+      explanation: تتطلب المواقع إنشاء مستودع.

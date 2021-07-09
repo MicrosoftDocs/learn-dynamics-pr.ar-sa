@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.3-product-dimension
+title: تكوين أبعاد المنتج
+metadata:
+  title: تكوين أبعاد المنتج
+  description: تصف هذه الوحدة تكوين أبعاد المنتج في Dynamics 365 Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5a22e7f6841e3a62741c5cc18306a9bc0a50b31f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073033"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-product-dimension.md)]

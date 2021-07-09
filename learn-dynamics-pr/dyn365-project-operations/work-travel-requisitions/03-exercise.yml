@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-travel-requisitions.03-exercise
+title: تمرين - إنشاء طلب سفر
+metadata:
+  title: تمرين - إنشاء طلب سفر
+  description: تدرب على إنشاء طلب سفر.
+  ms.date: 12/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 40a7c4bd990eab895c9e323023e6f1d9ea28c205
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072798"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-exercise.md)]"

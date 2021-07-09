@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-input-location
+title: تمرين عملي - تحديد مواقع الإدخالات لاستهلاك الموارد
+labId: 72486
+metadata:
+  title: تمرين عملي - تحديد مواقع الإدخالات لاستهلاك الموارد
+  description: تدرب على تحديد مواقع الإدخالات لاستهلاك الموارد في Dynamics 365 Supply Chain Management.
+  ms.date: 05/27/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2a1d7f26bb5067b2b39a9c06fb623a39e66bbd45
+  ms.sourcegitcommit: 1db1a4773342b2ae6e7cbcf5c471b051fafa2bbd
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6073572"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)] \n[!include[](includes/07-exercise-input-location.md)] \n[!include[](../includes/non-final-lab-end.md)]"

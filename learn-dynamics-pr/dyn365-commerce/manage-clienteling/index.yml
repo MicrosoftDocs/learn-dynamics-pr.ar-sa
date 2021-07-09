@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-clienteling
+metadata:
+  title: إدارة clienteling في Dynamics 365 Commerce
+  description: يُمكّن Clienteling شركاء المبيعات من أن يصبحوا مستشارين موثوقين وإقامة علاقات طويلة الأمد مع عملائهم.
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 6d54b40226e2b34a575d4020def4a0fa950e5e98
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070254"
+title: إدارة clienteling في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيُمكّن Clienteling شركاء المبيعات من أن يصبحوا مستشارين موثوقين وإقامة علاقات طويلة الأمد مع عملائهم. يساعد Dynamics 365 Customer Insights المؤسسات على جمع بيانات متباينة، سواء كان ذلك من مصادر الحركات أو المراقبة أو السلوك، للحصول على رؤية موحدة للعملاء، واشتقاق رؤى ذكية تدفع العمليات التجارية الأساسية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على حل clienteling في Dynamics 365 Commerce.\n- تعرف على الغرض من البيع المساعد.\n- تعلم مزايا استخدام Dynamics 365 Customer Insights مع clienteling. \n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce
+iconUrl: /learn/achievements/manage-clienting-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.manage-clienteling.01-introduction
+- learn-dynamics.manage-clienteling.02-assisted-selling
+- learn-dynamics.manage-clienteling.03-client-book
+- learn-dynamics.manage-clienteling.04-activities-notes
+- learn-dynamics.manage-clienteling.05-customer-insights
+- learn-dynamics.manage-clienteling.06-check
+- learn-dynamics.manage-clienteling.09-summary
+badge:
+  uid: learn-dynamics.manage-clienting-commerce.badge

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.update-commerce.05-update-pos-devices
+title: تحديث أجهزة نقطة البيع
+metadata:
+  title: تحديث أجهزة نقطة البيع
+  description: تعرف على كيفية تحديث أجهزة نقطة البيع.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: f73eb4f941c4faba87559d23b05892b0b104f3d2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070153"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-update-pos-devices.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.8-cash-flow-forecast-reports
+title: فهم التنبؤ بالتدفق النقدي والإبلاغ عنه
+metadata:
+  title: فهم التنبؤ بالتدفق النقدي والإبلاغ عنه
+  description: توضح هذه الوحدة التنبؤ بالتدفق النقدي والإبلاغ عنه في Dynamics 365 Finance.
+  ms.date: 03/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a10fecab9ae2d2860a22c04878eb4a014d90418e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070948"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-cash-flow-forecast-reports.md)]

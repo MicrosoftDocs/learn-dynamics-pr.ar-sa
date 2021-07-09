@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.create-transactions-call-center
+metadata:
+  title: إنشاء الحركات في مركز الاتصال في Dynamics 365 Commerce
+  description: ويكون مركز الاتصال في Dynamics 365 Commerce هو قناه حيث يمكنك إنشاء وإلغاء وإرجاع أوامر مبيعات التجزئة لمركز الاتصال.
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 56a9d420bffa2d0e96fa60ac692b84521bafc6be
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070369"
+title: إنشاء الحركات في مركز الاتصال في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nويعد مركز الاتصال في Dynamics 365 Commerce القناة التي يمكنك فيها إنشاء وإلغاء وإرجاع أوامر مبيعات التجزئة لمركز الاتصال، ووضع أمر مركز اتصال قيد الانتظار وتحريره من الانتظار، وإنشاء أوامر استمرارية لنماذج الأعمال القائمة على الاشتراك.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء أمر مركز اتصال وإلغائه وإعادته.\n- ضع أمر مركز الاتصال قيد الانتظار وحرره من الانتظار.  \n"
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce.
+
+  - فهم قناة مركز الاتصال في Commerce.
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة.
+iconUrl: /learn/achievements/create-transactions-call-center-commerce.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.create-transactions-call-center.01-create-order
+- learn-dynamics.create-transactions-call-center.02-cancel-return-customer-order
+- learn-dynamics.create-transactions-call-center.03-order-on-hold
+- learn-dynamics.create-transactions-call-center.04-exercise
+- learn-dynamics.create-transactions-call-center.05-check
+- learn-dynamics.create-transactions-call-center.06-summary
+badge:
+  uid: learn-dynamics.create-transactions-call-center-commerce.badge

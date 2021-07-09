@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.4-record-vendor-invoices
+title: تسجيل فواتير المورّدين
+metadata:
+  title: تسجيل فواتير المورّدين
+  description: تعرف على كيفية تسجيل فواتير المورّدين في Dynamics 365 Finance.
+  ms.date: 03/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/vendor-transaction-list-page
+  ms.openlocfilehash: c61f4e55328ea21be7879277eb4a4b26013253d2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070800"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-record-vendor-invoices.md)]

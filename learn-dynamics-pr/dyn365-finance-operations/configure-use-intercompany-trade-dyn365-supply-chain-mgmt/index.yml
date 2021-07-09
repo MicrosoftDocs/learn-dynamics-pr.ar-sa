@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-use-intercompany-trade
+metadata:
+  title: تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول تكوين العلاقات التجارية بين الشركات الشقيقة واستخدامها ومعالجة الأوامر بين الشركات الشقيقة في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3b1a84f53189326023640f8f2d72c35875db5e39
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073434"
+title: تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما تشتري وتبيع المؤسسات الكبيرة بين الشركات التابعة لها. تسهل Dynamics 365 Supply Chain Management التجارة بين الشركات الشقيقة بحيث يمكن للكيانات القانونية للمؤسسة تداول السلع في حين يتم إنشاء جميع الوثائق تلقائياً للكيانات القانونية المشاركة، مما يوفر الوقت والمال للمؤسسة. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين منتجات للعلاقات التجارية بين الشركات الشقيقة.\n- تكوين العلاقات التجارية بين الشركات الشقيقة.\n- تكوين الاتفاقيات بين الشركات الشقيقة.\n- معالجة الأوامر بين الشركات الشقيقة.\n- معالجة عمليات التسليم المباشرة بين الشركات الشقيقة.\n- معالجة التكاليف بين الشركات الشقيقة.\n- التعرف على معالجة سلسلة أمر الإرجاع بين الشركات الشقيقة.\n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- معرفة إجراءات التدبير إلى الدفع\n- معرفة إجراءات الأمر إلى النقد\n"
+iconUrl: /learn/achievements/configure-use-intercompany-trade-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-use-intercompany-trade.1-introduction-to-configure-use-intercompany-trade
+- learn-dynamics.configure-use-intercompany-trade.2-understand-intercompany-trading
+- learn-dynamics.configure-use-intercompany-trade.3-set-up-intercompany-trade-relations
+- learn-dynamics.configure-use-intercompany-trade.4-process-intercompany-chain-orders
+- learn-dynamics.configure-use-intercompany-trade.5-set-up-intercompany-agreements-direct-deliveries
+- learn-dynamics.configure-use-intercompany-trade.6-exercise-configure-intercompany-relations
+- learn-dynamics.configure-use-intercompany-trade.7-exercise-process-purchase-order-initiated-intercompany-chain
+- learn-dynamics.configure-use-intercompany-trade.8-exercise-process-sales-order-initiated-intercompany-chain
+- learn-dynamics.configure-use-intercompany-trade.9-exercise-process-returns-intercompany
+- learn-dynamics.configure-use-intercompany-trade.10-exercise-process-intercompany-direct-delivery
+- learn-dynamics.configure-use-intercompany-trade.11-knowledge-check
+- learn-dynamics.configure-use-intercompany-trade.12-summary
+badge:
+  uid: learn.configure-use-intercompany-trade-in-dynamics-365-for-finance-ops.badge

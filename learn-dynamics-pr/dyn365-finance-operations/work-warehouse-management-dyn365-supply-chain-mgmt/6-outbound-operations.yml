@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-warehouse-management.6-outbound-operations
+title: العمليات الصادرة
+metadata:
+  title: العمليات الصادرة
+  description: تعرف على كيفية التعامل مع أمر المبيعات لأداء العمليات الصادرة في Supply Chain Management.
+  ms.date: 01/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 18da0ae9e125c088f7e3a03db73c734f95019f64
+  ms.sourcegitcommit: 759e1a8890aa7d487a0e54652ba951ee697de172
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/27/2021
+  ms.locfileid: "6073652"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-outbound-operations.md)]

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-commerce.06-exercise-1
+title: تمرين - إنشاء مشغل CRT جديد
+metadata:
+  title: تمرين - إنشاء مشغل CRT جديد
+  description: ممارسة إنشاء مشغل CRT جديد في Dynamics 365 Commerce.
+  ms.date: 09/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 2fecc651c60312baa7bbe530b6d15de58f50c837
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070087"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-exercise-1.md)]"

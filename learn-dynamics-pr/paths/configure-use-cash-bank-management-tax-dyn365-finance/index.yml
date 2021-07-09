@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-use-cash-bank-management-tax-d365-finance-ops
+metadata:
+  title: تكوين واستخدام النقد وإدارة البنوك وضريبة المبيعات في Dynamics 365 Finance
+  description: يمكنك استخدام وحدة إدارة النقد والبنوك في Dynamics 365 Finance للاحتفاظ بالحسابات البنكية الخاصة بالمؤسسة والمستندات المالية المقترنة بتلك الحسابات البنكية. يجب على جميع الشركات جمع ودفع الضرائب لمختلف هيئات الضرائب. في مسار التعلم هذا سوف تتعلم كيفية تكوين واستخدام هذه المجالات في Dynamics 365 Finance.
+  ms.date: 04/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0e0aa1a958f13b08dd43749561abbafeabff1fb4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074548"
+title: تكوين واستخدام النقد وإدارة البنوك وضريبة المبيعات في Dynamics 365 Finance
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يمكنك استخدام وحدة إدارة النقد والبنوك في Dynamics 365 Finance للاحتفاظ بالحسابات البنكية الخاصة بالمؤسسة والمستندات المالية المقترنة بتلك الحسابات البنكية. يجب على جميع الشركات جمع ودفع الضرائب لمختلف هيئات الضرائب. في مسار التعلم هذا سوف تتعلم كيفية تكوين واستخدام هذه المجالات في Dynamics 365 Finance.
+prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة.\n- القدرة على استخدام Finance للمعالجة الأساسية.\n- تعرف على كيفية إعداد دفتر الأستاذ العام في Finance. \n"
+iconUrl: /learn/achievements/configure-use-cash-bank-management-sales-tax-d365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops
+- learn-dynamics.configure-letters-of-credit-guarantees-in-dynamics-365-finance-ops
+- learn-dynamics.configure-and-process-postdated-checks-in-dynamics-365-finance-ops
+- learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.configure-use-cash-bank-management-sales-tax-d365-finance-ops.trophy

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.5-exercise-perform-write-offs
+title: تمرين عملي - إجراء عمليات الشطب
+labId: 72075
+metadata:
+  title: تمرين عملي - إجراء عمليات الشطب
+  description: تدرّب على إجراء عمليات الشطب في Dynamics 365 Finance.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1d53b9e3f4b041272f3160018021bdd4a5207ad7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070723"
+durationInMinutes: 21
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/5-exercise-perform-write-offs.md)] \n[!include[](../includes/non-final-lab-end.md)]"

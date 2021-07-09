@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops
+metadata:
+  title: بدء استخدام التصنيع المنفصلة في Dynamics 365 Supply Chain Management
+  description: وإذا كانت الشركة تنتج عدة منتجات بسيطة فقط، فيمكن جدولة عملية الإنتاج يدوياً بواسطة قطع قائمة مكونات الصنف (BOM) الصحيحة التي تصل إلى صالة الإنتاج‬، في الوقت المناسب وعند المورد المناسب. وتوضح هذه الوحدة ما هو التصنيع المنفصل وكيفية عمل في Dynamics 365 Supply Chain Management.
+  ms.date: 03/27/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 81d31851e598e81e880484927ff1e6ab1c7cafca
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073298"
+title: بدء استخدام التصنيع المنفصلة في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  وإذا كانت الشركة تنتج عدة منتجات بسيطة فقط، فيمكن جدولة عملية الإنتاج يدوياً بواسطة قطع قائمة مكونات الصنف (BOM) الصحيحة التي تصل إلى صالة الإنتاج‬، في الوقت المناسب وعند المورد المناسب. وتوضح هذه الوحدة ما هو التصنيع المنفصل وكيفية عمل في Dynamics 365 Supply Chain Management.
+abstract: "سوف تتعرف في هذه الوحدة على: \n- مفاهيم التصنيع المنفصل\n- حالات أمر الإنتاج\n- مراحل الإنتاج\n- قائمة مكونات الصنف (BOM)\n- الموارد\n- المسارات والعمليات\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - فهم كيفية التعامل مع إدارة المخزون
+
+  - فهم كيفية التعامل مع إدارة المستودعات
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية
+iconUrl: /learn/achievements/get-started-discrete-manufacturing-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.1-get-started-discrete-manufacturing-introduction
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.2-discrete-production-life-cycle
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.3-master-planning-planned-production-orders
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.4-bill-of-materials
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.5-working-bom-item-configurations
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.6-create-a-bom
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.7-production-orders
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.8-exercise-create-simple-bom-without-version
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.9-exercise-create-bom-bom-designer
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.10-exercise-create-bom-with-version
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.11-exercise-create-process-production-order
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.12-get-started-discrete-manufacturing-quiz
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.13-get-started-discrete-manufacturing-summary
+badge:
+  uid: learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.badge

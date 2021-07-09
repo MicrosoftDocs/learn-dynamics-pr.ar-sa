@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-statement-posting
+metadata:
+  title: إدارة ترحيل كشف الحساب في Dynamics 365 Commerce
+  description: بيانات البيع بالتجزئة وإنشاء الأوامر في الوقت الحقيقي تقريباً هي عملية تحويل حركات البيع بالتجزئة في Dynamics 365 Commerce إلى حركات مادية ومالية.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 7f47fd5c098e0dde42c9af6421ba730f3fb60b5f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070203"
+title: إدارة ترحيل كشف الحساب في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nبيانات البيع بالتجزئة وإنشاء الأوامر في الوقت الحقيقي تقريباً هي عملية تحويل حركات البيع بالتجزئة في Dynamics 365 Commerce إلى حركات مادية ومالية حتى تتمكن من حساب المبيعات في التمويل والمخزون.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف الفرق بين ترحيل كشوف حساب البيع بالتجزئة التقليدية وإنشاء الأمر في الوقت الحقيقي تقريباً. \n- تعرف على كيفية تمكين إنشاء الطلبات في الوقت الحقيقي تقريباً والتعامل معه.\n- تعرف على كيفية إنشاء وحساب وترحيل كشوف حساب البيع بالتجزئة.\n"
+prerequisites: "- فهم Dynamics 365 Commerce\n- فهم كيفية إنشاء الحركات وتوزيع البيانات في Commerce\n- المعرفة العامة بالتنقل الأساسي داخل Commerce\n- المعرفة الأساسية بعمليات البيع بالتجزئة \n"
+iconUrl: /learn/achievements/manage-statement-posting-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.manage-statement-posting.01-introduction
+- learn-dynamics.manage-statement-posting.02-process
+- learn-dynamics.manage-statement-posting.03-work
+- learn-dynamics.manage-statement-posting.04-near-real-time-order-creation
+- learn-dynamics.manage-statement-posting.05-check
+- learn-dynamics.manage-statement-posting.06-summary
+badge:
+  uid: learn-dynamics.manage-statement-posting-commerce.badge

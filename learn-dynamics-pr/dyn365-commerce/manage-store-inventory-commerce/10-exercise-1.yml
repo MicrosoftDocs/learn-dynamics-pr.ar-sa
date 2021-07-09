@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-store-inventory-commerce.10-exercise-1
+title: 'تدريب: إنشاء طلب تحويل من نقطة البيع'
+metadata:
+  title: 'تدريب: إنشاء طلب تحويل من نقطة البيع'
+  description: تدرب على إنشاء طلب تحويل من نقطة البيع في Dynamics 365 Commerce.
+  ms.date: 09/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: ccb5a9208992c00e70490eb51e3c93ef3197b8fa
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070311"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-1.md)]"

@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops
+metadata:
+  title: التعامل مع كشف التكاليف في Dynamics 365 Supply Chain Management
+  description: تحتاج شركات التصنيع إلى حساب التكاليف المتعلقة بالسلع النهائية التي يتم إنتاجها مثل العمالة والمواد والتكاليف الإضافية والنفقات العامة. يمكنك تكوين Dynamics 365 Supply Chain Management لحساب تكاليف قائمة مكونات الصنف الخاصة بالسلع النهائية في الإنتاج. بالإضافة إلى ذلك، يمكنك إنشاء كشوف تكاليف مقسمة حسب فئات تكلفة معينة، ودمج تكاليف التوجيه، وحتى إضافة تكاليف إضافية وتكاليف غير مباشرة أخرى. يمكن للشركات بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والميزانيات ومراقبة التكاليف وما إلى ذلك.
+  ms.date: 05/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 65ddfecf2d04fdd3af31121bef19a7e675984020
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073526"
+title: التعامل مع كشف التكاليف في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتحتاج شركات التصنيع إلى حساب التكاليف المتعلقة بالسلع النهائية التي يتم إنتاجها مثل العمالة والمواد والتكاليف الإضافية والنفقات العامة. يمكنك تكوين Dynamics 365 Supply Chain Management لحساب تكاليف قائمة مكونات الصنف الخاصة بالسلع النهائية في الإنتاج. بالإضافة إلى ذلك، يمكنك إنشاء كشوف تكاليف مقسمة حسب فئات تكلفة معينة، ودمج تكاليف التوجيه، وحتى إضافة تكاليف إضافية وتكاليف غير مباشرة أخرى. يمكن للشركات بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والميزانيات ومراقبة التكاليف وما إلى ذلك. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين كشف التكاليف.\n- إجراء حساب قائمة مكونات الصنف وتحليل التكاليف باستخدام كشف التكاليف. \n"
+prerequisites: >
+  - فهم كيفية التعامل مع إدارة معلومات المنتج في Supply Chain Management
+
+  - فهم كيفية التعامل مع إدارة المخزون
+
+  - فهم كيفية التعامل مع إدارة المستودعات
+iconUrl: /learn/achievements/work-with-costing-sheet-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.01-work-with-costing-sheet-intro
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.02-costing-versions
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.03-cost-groups
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.04-calculation-groups
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.05-costing-sheets
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.06-bom-calculations
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.07-bom-measurements
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.08-bom-reports
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.09-analyze-bom-costs
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.10-work-with-costing-sheet-quiz
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.11-work-with-costing-sheet-summary
+badge:
+  uid: learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.badge

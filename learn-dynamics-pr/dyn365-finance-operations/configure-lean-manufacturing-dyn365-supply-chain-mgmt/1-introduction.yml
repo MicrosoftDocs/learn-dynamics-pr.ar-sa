@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-lean-manufacturing.1-introduction-to-configure-lean-manufacturing
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: يطرح هذا الموضوع مقدمة حول lean manufacturing في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7c0c1765d380244c1eccd221332d574363f51198
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073026"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction-to-configure-lean-manufacturing.md)]

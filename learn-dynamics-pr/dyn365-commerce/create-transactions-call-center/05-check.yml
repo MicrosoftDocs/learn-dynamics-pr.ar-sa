@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-call-center.05-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 9afbbf75affad91e1d9c03c0b7a3694f639f21d7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070335"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما هو التسلسل الصحيح للخطوات اللازمة لإنشاء أمر مبيعات لمركز اتصال في Commerce؟
+    choices:
+    - content: تحديد العميل، إنشاء أمر مبيعات، إضافة أصناف، إدخال المدفوعات، إكمال، إرسال
+      isCorrect: true
+      explanation: هذا الخيار هو التسلسل الصحيح للخطوات اللازمة لإنشاء أمر مبيعات لمركز اتصال.
+    - content: تحديد العميل، إضافة أصناف، إرسال، إدخال المدفوعات، إكمال
+      isCorrect: false
+      explanation: الإرسال هو الخطوة الاخيرة من الإجراء.
+    - content: إدخال المدفوعات، إضافة أصناف، تحديد العميل، إرسال، إكمال
+      isCorrect: false
+      explanation: لا يمكن إدخال المدفوعات قبل تحديد عميل وبدء أمر جديد.
+    - content: إضافة أصناف، تحديد العميل، إدخال المدفوعات، إكمال، إرسال
+      isCorrect: false
+      explanation: لا يمكن إضافة أصناف قبل تحديد عميل وإنشاء أمر جديد.
+  - content: أي الخيارات التالية تمثل معنى علامة "عدم المعالجة" في أمر مبيعات مركز الاتصال؟
+    choices:
+    - content: لا يمتلك مستخدم مركز الاتصال الحق في معالجة الأمر.
+      isCorrect: false
+      explanation: علامة "عدم المعالجة" غير مرتبطة بحقوق مستخدم مركز الاتصال.
+    - content: سيتم حظر الأمر من أي عملية دفع أو تنفيذ منتظمة.
+      isCorrect: true
+      explanation: يتم تعيين علامة "عدم المعالجة" عندما يتم وضع الأمر قيد الانتظار أو عندما يتم تعديل أمر مركز الاتصال بشكل فعال. عند التعيين، يتم حظر الأمر من أي عملية دفع أو تنفيذ منتظمة.
+    - content: قام العميل بإلغاء الأمر.
+      isCorrect: false
+      explanation: لا يتم تطبيق علامة "عدم المعالجة" على أمر تم إلغاؤه.

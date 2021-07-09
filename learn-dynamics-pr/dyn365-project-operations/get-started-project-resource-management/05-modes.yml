@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-resource-management.05-modes
+title: أوضاع إدارة الموارد
+metadata:
+  title: أوضاع إدارة الموارد
+  description: تعرف على أوضاع إدارة الموارد في Dynamics 365 Project Operations.
+  ms.date: 04/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: c6d2b73155a55d81fe360cdbfbd754a1bcdde3e1
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072903"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-modes.md)]"

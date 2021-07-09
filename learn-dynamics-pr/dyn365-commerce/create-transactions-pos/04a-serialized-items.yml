@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-pos.04a-serialized-items
+title: التعامل مع الأصناف المتسلسلة في نقطة البيع (POS)
+metadata:
+  title: التعامل مع الأصناف المتسلسلة في نقطة البيع (POS)
+  description: تعرف على كيفية التعامل مع الأصناف المتسلسلة في نقطة البيع (POS).
+  ms.date: 04/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: c5909882b0bc0a064436861935d575fe493174d3
+  ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/22/2021
+  ms.locfileid: "6070506"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04a-serialized-items.md)]"

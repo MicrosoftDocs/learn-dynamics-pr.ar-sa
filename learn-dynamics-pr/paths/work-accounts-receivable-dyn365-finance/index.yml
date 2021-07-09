@@ -1,0 +1,45 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-accounts-receivable-d365-finance-ops
+metadata:
+  title: التعامل مع الحسابات المدينة في Dynamics 365 Finance
+  description: قم بتكوين وحدة الحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر المبيعات. في مسار التعلم هذا، ستتعلم أيضاً كيفية القيام بالمهام اليومية في الحسابات المدينة.
+  ms.date: 04/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0d434db2267194168edf1f57c72d77b796b5a139
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074549"
+title: التعامل مع الحسابات المدينة في Dynamics 365 Finance
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  قم بتكوين وحدة الحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر المبيعات. في مسار التعلم هذا، ستتعلم أيضاً كيفية القيام بالمهام اليومية في الحسابات المدينة.
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة.
+
+  - القدرة على استخدام Finance للمعالجة الأساسية.
+
+  - الفهم العام لفوترة أمر المبيعات.
+iconUrl: /learn/achievements/work-with-accounts-receivable-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops
+- learn-dynamics.accounts-receivable-daily-procedures-in-dynamics-365-finance-ops
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.work-with-accounts-receivable-in-dynamics-365-for-finance-ops.trophy

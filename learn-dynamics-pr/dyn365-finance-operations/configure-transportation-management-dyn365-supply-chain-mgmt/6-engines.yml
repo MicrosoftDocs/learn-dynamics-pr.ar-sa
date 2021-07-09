@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.6-transportation-management-engines
+title: محركات إدارة النقل
+metadata:
+  title: محركات إدارة النقل
+  description: توضح هذه الوحدة محركات إدارة النقل في Dynamics 365 Supply Chain Management.
+  ms.date: 03/20/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8e2e211fd314b0a0cd3c2fb88f9dd790a1c89df9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073282"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-transportation-management-engines.md)]

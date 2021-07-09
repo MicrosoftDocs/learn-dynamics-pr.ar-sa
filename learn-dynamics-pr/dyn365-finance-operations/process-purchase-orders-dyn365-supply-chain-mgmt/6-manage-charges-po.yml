@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-purchase-orders-finance.6-manage-charges-po
+title: إدارة المصاريف لأوامر الشراء
+metadata:
+  title: إدارة المصاريف لأوامر الشراء
+  description: التعرف على إدارة المصاريف الخاصة بأوامر الشراء في Supply Chain Management.
+  ms.date: 05/21/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 52282ad2a9d4862dfd950a619c90d1d8863c75fe
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072962"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-manage-charges-po.md)]

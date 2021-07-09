@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-letters-of-credit-guarantees-in-dynamics-365-finance-ops.7-process-letter-of-guarantee
+title: معالجة خطاب الضمان
+metadata:
+  title: معالجة خطاب الضمان
+  description: توضح هذه الوحدة كيفية معالجة خطاب الضمان في Finance.
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 81707e470bf6e969e74ca81264b75506d15958c4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070923"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-process-letter-of-guarantee.md)]

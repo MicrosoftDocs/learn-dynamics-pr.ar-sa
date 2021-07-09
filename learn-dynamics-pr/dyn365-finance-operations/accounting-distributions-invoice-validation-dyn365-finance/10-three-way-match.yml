@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.10-three-way-matching
+title: سياسة المطابقة الثلاثية
+metadata:
+  title: سياسة المطابقة الثلاثية
+  description: توضح هذه الوحدة سياسة المطابقة الثلاثية في Dynamics 365 Finance.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 516902fc7cc7f6dc0707f99e3eaf02d02244f09f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070972"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-three-way-matching.md)]

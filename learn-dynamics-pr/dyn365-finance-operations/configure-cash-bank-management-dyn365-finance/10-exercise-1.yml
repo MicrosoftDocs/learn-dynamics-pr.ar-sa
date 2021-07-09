@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.10-exercise-create-bank-transaction-types-groups
+title: 'معمل: إنشاء أنواع الحركات البنكية ومجموعات الحركات البنكية'
+labId: 64516
+metadata:
+  title: 'معمل: إنشاء أنواع الحركات البنكية ومجموعات الحركات البنكية'
+  description: تدرب على إنشاء أنواع الحركات البنكية ومجموعات الحركات البنكية Dynamics 365 Finance.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: aa61a2fb296e2bb20db8bac0b0b35876f2541420
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070962"
+durationInMinutes: 18
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise-create-bank-transaction-types-groups.md)] \n[!include[](../includes/non-final-lab-end.md)]"

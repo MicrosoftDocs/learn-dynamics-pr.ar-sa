@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-resource-management.12-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص الشروع في العمل باستخدام إدارة الموارد في الوحدة النمطية Dynamics 365 Project Operations
+  ms.date: 04/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: e3083913bc4c458313f481b9477f73c7c16fec16
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072896"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-summary.md)]"

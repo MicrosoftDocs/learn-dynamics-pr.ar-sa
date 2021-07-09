@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-architecture-project-operations.5-licensing
+title: ترخيص Dynamics 365
+metadata:
+  title: ترخيص Dynamics 365
+  description: تعرّف على ترخيص Dynamics 365.
+  ms.date: 5/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: b1e988717b4b5b7bbd16530de67e321462541ec9
+  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/20/2021
+  ms.locfileid: "6083800"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-licensing.md)]"

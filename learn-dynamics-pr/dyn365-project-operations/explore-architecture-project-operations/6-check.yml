@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-architecture-project-operations.6-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 5/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 3500c3c745ca4c5d051afea4ff4326970f2eaccd
+  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/20/2021
+  ms.locfileid: "6083795"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما وظيفة الكتابة المزدوجة في Dynamics 365؟
+    choices:
+    - content: تقوم الكتابة المزدوجة بدمج تطبيقات Finance and Operations مع Microsoft SQL Server.
+      isCorrect: false
+      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات Finance and Operations. ومع ذلك، لا يمكن دمجها مع Microsoft SQL Server.
+    - content: تقوم الكتابة المزدوجة بدمج تطبيقات Finance and Operations مع تطبيقات Customer Engagement.
+      isCorrect: true
+      explanation: توفر ميزة الكتابة المزدوجة تفاعلاً شبه فوري بين تطبيقات Customer Engagement وتطبيقات Finance and Operations.
+    - content: تقوم الكتابة المزدوجة بدمج Dynamics 365 Business Central مع تطبيقات Customer Engagement.
+      isCorrect: false
+      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات Finance and Operations.
+    - content: تقوم الكتابة المزدوجة بإدارة خدمات الاسترداد لقاعدة بيانات Finance and Operations.
+      isCorrect: false
+      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات Finance and Operations ولكنها ليست مدمجة في خدمة استرداد.
+  - content: ما برنامج إدارة المشاريع المدمج مباشرةً في تطبيق Project Operations؟
+    choices:
+    - content: Project for the Web
+      isCorrect: true
+      explanation: يتكامل Project for the Web مع Dynamics 365 من خلال قاعدة بيانات Dataverse مشتركة.
+    - content: Project Online
+      isCorrect: false
+      explanation: لا يمكن لـ Project Online التكامل مع Project Operations.
+    - content: Microsoft Planner
+      isCorrect: false
+      explanation: لم يتم دمج Microsoft Planner مع Project Operations.
+    - content: Project Standard 2019
+      isCorrect: false
+      explanation: لم يتم دمج Project Standard 2019 مع Project Operations.
+  - content: ما تطبيق Dynamics 365 الذي كان بمثابة مقدمة لتطبيق Project Operations؟
+    choices:
+    - content: Project Online
+      isCorrect: false
+      explanation: لم يكن Project Online تطبيق Dynamics 365.
+    - content: Dynamics 365 Business Central
+      isCorrect: false
+      explanation: لم يكن Dynamics 365 Business Central مقدمة لتطبيق Project Operations.
+    - content: Project Service Automation
+      isCorrect: true
+      explanation: كان Project Service Automation مقدمة لتطبيق Project Operations.
+    - content: Project Server 2016
+      isCorrect: false
+      explanation: لم يكن Project Server 2016 تطبيق Dynamics 365.

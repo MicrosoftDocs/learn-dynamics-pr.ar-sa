@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-intercompany-trade.1-introduction-to-configure-use-intercompany-trade
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: توفر الوظيفة بين الشركات الشقيقة في Dynamics 365 Supply Chain Management آلية لتوحيد البيانات الثابتة والديناميكية من شركات متعددة ككيانات قانونية منفصلة في قاعدة بيانات واحدة. تمكّن التجارة بين الشركات الشقيقة مواقع التصنيع ومراكز التوزيع وفروع المبيعات المنتشرة عالمياً للعمل كمؤسسة واحدة موحدة. يشرح هذا الموضوع كيفية تكوين العلاقات التجارية بين الشركات الشقيقة واستخدامها ومعالجة الأوامر بين الشركات الشقيقة في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5f8f4cfa09663fe8e2580e5ddbecb2d9cb7cb175
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073130"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction-to-configure-use-intercompany-trade.md)]

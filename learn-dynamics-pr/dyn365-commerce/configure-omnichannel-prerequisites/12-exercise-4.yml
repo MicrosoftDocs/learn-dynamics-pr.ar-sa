@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-omnichannel-prerequisites.12-exercise-4
+title: 'تدريب: إنشاء مستودع لقناة Commerce'
+metadata:
+  title: 'تدريب: إنشاء مستودع لقناة Commerce'
+  description: تدرب على إنشاء مستودع لقناة Commerce في Dynamics 365 Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: ef961bea9349654a62b91739eb19b65724f6dbbc
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070326"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-exercise-4.md)]"

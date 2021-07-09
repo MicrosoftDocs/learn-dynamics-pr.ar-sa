@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-order-fulfillment.02-distributed-order-management
+title: إدارة الأوامر الموزعة
+metadata:
+  title: إدارة الأوامر الموزعة
+  description: تصف هذه الوحدة إدارة الأوامر الموزعة (DOM) في Dynamic 365 Commerce
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 43a1854818cbc36ed7c97bc7d6d7cc5e2a081fed
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070404"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-distributed-order-management.md)]"

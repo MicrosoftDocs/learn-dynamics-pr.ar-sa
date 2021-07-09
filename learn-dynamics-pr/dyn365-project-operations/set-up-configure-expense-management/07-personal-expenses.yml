@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-configure-expense-management.07-personal-expenses
+title: المصروفات الشخصية في أحد تقارير المصروفات
+metadata:
+  title: المصروفات الشخصية في أحد تقارير المصروفات
+  description: تعرف على كيفية التعامل مع المصروفات الشخصية في أحد تقارير المصروفات في Dynamics 365 Project Operations.
+  ms.date: 11/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 7b4adbc97d14b27b96015c8e09a569f0bca92f6b
+  ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2020
+  ms.locfileid: "6072786"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-personal-expenses.md)]"

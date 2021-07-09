@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.13-exercise-process-inbound-shipment
+title: 'معمل: معالجة شحنة واردة'
+labId: 72483
+metadata:
+  title: 'معمل: معالجة شحنة واردة'
+  description: تدرب على معالجة شحنة واردة في Dynamics 365 Supply Chain Management.
+  ms.date: 05/27/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a74cca7222e21299a38fa968790c152794d337bc
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6073584"
+durationInMinutes: 30
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/13-exercise-process-inbound-shipment.md)] \n[!include[](../includes/non-final-lab-end.md)]"

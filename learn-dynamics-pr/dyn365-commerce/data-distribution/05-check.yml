@@ -1,0 +1,37 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-distribution.05-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/06/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-commerce
+  ms.openlocfilehash: 7c0b3ad43dc7cf20d5b862900708e1769b3d170e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070147"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: تُمكّن ‏‫الخدمة في الوقت الفعلي أي‬ من الإجراءات التالية؟
+    choices:
+    - content: يمكن للمركز الرئيسي استرداد البيانات من المخازن
+      isCorrect: false
+      explanation: تمكّن الخدمة في الوقت الفعلي المتاجر من استرداد البيانات من المركز الرئيسي، وليس العكس. تقوم الخدمات غير المتزامنة بتحميل البيانات إلى المركز الرئيسي.
+    - content: يمكن للمخازن استرداد البيانات من المركز الرئيسي
+      isCorrect: true
+      explanation: تمكّن الخدمة في الوقت الفعلي أجهزة نقاط البيع الفردية والمتاجر عبر الإنترنت من استرداد بيانات محددة من المركز الرئيسي في الوقت الفعلي.
+  - content: ما الغرض من استخدام وظائف التحميل (وظائف P)؟
+    choices:
+    - content: للحصول على البيانات التي تم تغييرها من المركز الرئيسي إلى القنوات.
+      isCorrect: false
+      explanation: يؤدي تحميل الوظائف إلى سحب حركات المبيعات من إحدى القنوات إلى قاعدة بيانات Commerce. تنزيل ‏‫مهام المجدول‬ لنقل البيانات من المركز الرئيسي إلى القنوات.
+    - content: للحصول على الحركات التي تم إنشاؤها من القنوات إلى المركز الرئيسي.
+      isCorrect: true
+      explanation: يؤدي تحميل الوظائف إلى سحب حركات المبيعات من إحدى القنوات إلى قاعدة بيانات Commerce.

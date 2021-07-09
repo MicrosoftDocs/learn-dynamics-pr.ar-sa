@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.4-manage-customer-credit-collections
+title: إدارة ائتمان العميل والتحصيلات
+metadata:
+  title: إدارة ائتمان العميل والتحصيلات
+  description: تصف هذه الوحدة كيفية إدارة ائتمان العميل والتحصيلات‬ في Dynamics 365 Finance.
+  ms.date: 03/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9ec4c222e1a52b1e6491dca5439bdc9f44ac2399
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070725"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-manage-customer-credit-collections.md)]

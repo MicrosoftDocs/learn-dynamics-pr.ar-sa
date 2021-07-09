@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-configure-expense-management.06-intercompany-expenses
+title: المصروفات بين الشركات الشقيقة
+metadata:
+  title: المصروفات بين الشركات الشقيقة
+  description: التعرف على المصروفات بين الشركات الشقيقة في Dynamics 365 Project Operations.
+  ms.date: 11/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 79975b14e080ecc6ff5a43695fe80775f952f265
+  ms.sourcegitcommit: 01f8d224bf1e548ba0cbe53b3e2150c43302c125
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/04/2020
+  ms.locfileid: "6072751"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-intercompany-expenses.md)]"

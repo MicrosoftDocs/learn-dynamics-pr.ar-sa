@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-dynamics.deploy-commerce-environments
+metadata:
+  title: نشر بيئات Dynamics 365 Commerce
+  description: نشر بيئة Dynamics 365 Commerce مختلف عن نشر بيئات Dynamics 365 العادية. يعد نشر Commerce Scale Unit والتجارة الإلكترونية، والتأكد من خطوات ما بعد التوفير الصحيحة في Commerce Headquarters من المكونات النموذجية لتطبيق Commerce.
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e63c39adb1bf96649c82813f9debe59d715a4a51
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070092"
+title: نشر بيئات Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nنشر بيئة Dynamics 365 Commerce مختلف عن نشر بيئات Dynamics 365 العادية. يعد نشر Commerce Scale Unit والتجارة الإلكترونية، والتأكد من خطوات ما بعد التوفير الصحيحة في Commerce Headquarters من المكونات النموذجية لتطبيق Commerce. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيعاب نماذج التوزيع المتنوعة. \n- التعرف علي كيفية توزيع وحدات Cloud Scale Units في Dynamics Lifecycle Services ‏(LCS).\n- التعرف على كيفية توزيع التجارة الإلكترونية. \n- التعرف على التوزيع الجماعي.   \n"
+prerequisites: >
+  - فهم بنية Dynamics 365 Commerce
+
+  - معرفة عمليات النشر
+
+  - الوصول إلى مشروع LCS والأذونات اللازمة لنشر بيئة
+
+  - اشتراك Microsoft Azure كمسؤول مساعد
+
+  - التحقق من اتصال اشتراك Azure بمشروع LCS
+iconUrl: /learn/achievements/deploy-commerce-environments.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- developer
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.deploy-commerce-environments.00-introduction
+- learn-dynamics.deploy-commerce-environments.01-deploy-patterns
+- learn-dynamics.deploy-commerce-environments.02-deploy-considerations
+- learn-dynamics.deploy-commerce-environments.03-commerce-cloud-scale-unit
+- learn-dynamics.deploy-commerce-environments.04-deploy-e-commerce
+- learn-dynamics.deploy-commerce-environments.05-post-provision
+- learn-dynamics.deploy-commerce-environments.06-mass-deploy
+- learn-dynamics.deploy-commerce-environments.07-exercise-1
+- learn-dynamics.deploy-commerce-environments.08-exercise-2
+- learn-dynamics.deploy-commerce-environments.09-check
+- learn-dynamics.deploy-commerce-environments.10-summary
+badge:
+  uid: learn-dynamics.deploy-commerce-environments.badge

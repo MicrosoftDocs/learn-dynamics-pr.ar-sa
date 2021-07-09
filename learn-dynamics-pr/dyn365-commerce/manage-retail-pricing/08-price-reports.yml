@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-pricing.08-price-reports
+title: استخدام تقارير الأسعار
+metadata:
+  title: استخدام تقارير الأسعار
+  description: تعرف على كيفية استخدام تقارير الأسعار في Dynamics 365 Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 924de2335944ae20e0f61148c34e2d0ee828359d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070059"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-price-reports.md)]"

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-expense-management
+metadata:
+  title: بدء استخدام إدارة المصروفات في Dynamics 365 Project Operations
+  description: تعرف على وحدة إدارة المصروفات في Microsoft Dynamics 365 Project Operations، التي تسمح للمؤسسات بتعقب وإدارة مصروفات الموظفين.
+  ms.date: 11/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: c2fec8d88f90f5bd008214e2d077c6e3e061f135
+  ms.sourcegitcommit: e89d827732cdd3cc30cf06ddd86ab3bc0fb19a2b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6072812"
+title: بدء استخدام إدارة المصروفات في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nتسمح وحدة إدارة المصروفات في Microsoft Dynamics 365 Project Operations للمؤسسات بتعقب وإدارة مصروفات الموظفين. تتيح لك إدارة المصروفات تخزين معلومات الدفع واستيراد معاملات بطاقات الائتمان وتعقب الأموال التي ينفقها الموظفون عندما يتكبدون مصروفات لمؤسستك. يمكنك أيضاً إعداد سياسات المصروفات وتنفيذ الموافقات تلقائياً وتوفير عملية أعمال مبسطة باستخدام Project Operations. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على إمكانات إدارة المصروفات.\n- اكتشاف ميزات إدارة المصروفات.\n- مراجعة الاعتبارات للتخطيط لاستخدام وحدة إدارة المصروفات في Project Operations.\n"
+prerequisites: بلا
+iconUrl: /learn/achievements/get-started-expense-management.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-expense-management.1-introduction
+- learn-dynamics.get-started-expense-management.2-plan
+- learn-dynamics.get-started-expense-management.3a-intercompany
+- learn-dynamics.get-started-expense-management.3-financial-management
+- learn-dynamics.get-started-expense-management.4-per-diems
+- learn-dynamics.get-started-expense-management.5-journals-accounts
+- learn-dynamics.get-started-expense-management.6-payment-methods
+- learn-dynamics.get-started-expense-management.7-taxes
+- learn-dynamics.get-started-expense-management.8-policies
+- learn-dynamics.get-started-expense-management.9-expense-categories
+- learn-dynamics.get-started-expense-management.10-check
+- learn-dynamics.get-started-expense-management.11-summary
+badge:
+  uid: learn-dynamics.get-started-expense-management.badge

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-resource-management.04-administration
+title: إدارة الموارد
+metadata:
+  title: إدارة الموارد
+  description: تعرف على الخيارات المتاحة لمساعدتك في إدارة الموارد Dynamics 365 Project Operations.
+  ms.date: 04/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 688578114a9aa7f13bd39134a0eb9b918cb9d563
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072912"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-administration.md)]"

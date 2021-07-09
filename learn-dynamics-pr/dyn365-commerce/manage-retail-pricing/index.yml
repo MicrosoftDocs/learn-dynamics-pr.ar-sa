@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-retail-pricing
+metadata:
+  title: إدارة تسعير البيع بالتجزئة في Dynamics 365 Commerce
+  description: يحتوي Dynamics 365 Commerce على محرك تسعير بقناة متعددة الاتجاهات يمكن استخدامه عبر جميع Commerce.
+  ms.date: 04/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: dbd196f5d73d4e5bf5df233de1d169b18cd92719
+  ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/22/2021
+  ms.locfileid: "6070503"
+title: إدارة تسعير البيع بالتجزئة في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيحتوي Dynamics 365 Commerce على محرك تسعير بقناة متعددة الاتجاهات يمكن استخدامه عبر جميع Commerce. إن امتلاك هذا الإصدار الفردي من البيانات التي يمكن لقنوات Commerce استخدامها لسحب الأسعار والخصومات وأولويات الخصم والقسائم والعروض الترويجية، يعني أن الأسعار يمكن أن تكون متسقة أو خاصة بالقناة حسب الحاجة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على سعر المبيعات وتسويات الأسعار.\n- تعرف على محرك تسعير البيع بالتجزئة وتفاصيله.\n- تعرف على كيفية تكوين مجموعات الأسعار.\n- اكتشف أنواع خصومات البيع بالتجزئة وتعامل معها. \n- تعرف على تقارير الأسعار. \n- التعرف علي كيفيه استخدام محرك تشعير Dynamics 365 Commerce لإنشاء عرض أسعار مبيعات في Dynamics 365 Sales.\n"
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/manage-retail-pricing-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.manage-retail-pricing.01-retail-sales-price
+- learn-dynamics.manage-retail-pricing.02-retail-price-groups
+- learn-dynamics.manage-retail-pricing.03-trade-agreement-pricing
+- learn-dynamics.manage-retail-pricing.03-1-sales-quote
+- learn-dynamics.manage-retail-pricing.04-price-adjustments
+- learn-dynamics.manage-retail-pricing.05-retail-discount-types
+- learn-dynamics.manage-retail-pricing.06-discounts-prioritization
+- learn-dynamics.manage-retail-pricing.07-pricing-priorities
+- learn-dynamics.manage-retail-pricing.08-price-reports
+- learn-dynamics.manage-retail-pricing.09-exercise-1
+- learn-dynamics.manage-retail-pricing.10-exercise-2
+- learn-dynamics.manage-retail-pricing.11-exercise-3
+- learn-dynamics.manage-retail-pricing.12-check
+- learn-dynamics.manage-retail-pricing.13-summary
+badge:
+  uid: learn-dynamics.manage-retail-pricing-commerce.badge

@@ -1,0 +1,55 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين عملية التدبير إلى الشراء وتنفيذها في Dynamics 365 Supply Chain Management
+  description: التدبير إلى الشراء هو الخطوة الأولى في عملية التدبير إلى الدفع تتضمن عملية التدبير إلى الشراء قيام مندوب التدبير بالبحث عن مورد وطلب مادة أو خدمة ليتم شراؤها.
+  ms.date: 03/30/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c7487fb13921240588834dd5e6ab257a3961da16
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073062"
+title: تكوين عملية التدبير إلى الشراء وتنفيذها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nالتدبير إلى الشراء هو الخطوة الأولى في عملية التدبير إلى الدفع تتضمن عملية التدبير إلى الشراء قيام مندوب التدبير بالبحث عن مورد وطلب مادة أو خدمة ليتم شراؤها. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تطبيق عمليات التدبير والتوريد في سيناريو الأعمال.\n- استخدام سياسات الشراء.\n- إنشاء موردين والحفاظ عليهم.\n- إنشاء طلبات شراء ومعالجتها.\n- إنشاء طلب عرض أسعار ومعالجته.\n"
+prerequisites: >
+  - المعرفة العامة بـ Supply Chain Management وعمليات التدبير
+
+  - المعرفة العامة بإجراءات المخزون
+
+  - المعرفة الأساسية بإجراءات المستودع
+
+  - القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية
+iconUrl: /learn/achievements/configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.1-configure-procure-to-purchase-intro
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.3-procurement-scenario
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.2-overview-procure-to-purchase-process
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.3-1-using-procurement-catalogs
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.6-create-purchase-requisition
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.7-create-process-rfq
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.7-2-create-purchase-orders
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.4-vendor-categories-catalogs
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.5-evaluate-vendor-put-on-hold
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.8-use-purchasing-policies
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.9-exercise-create-process-purchase-requisition
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.10-exercise-create-process-rfq
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.11-exercise-create-purchase-policies
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.12-configure-procure-to-purchase-quiz
+- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.13-configure-procure-to-purchase-summary
+badge:
+  uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.badge

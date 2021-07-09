@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.ratings-reviews.04-consume-product-ratings
+title: استهلاك تقديرات المنتج في كل القناة متعددة الاتجاهات
+metadata:
+  title: استهلاك تقديرات المنتج في كل القناة متعددة الاتجاهات
+  description: تصف هذه الوحدة كيفية استهلاك تقديرات المنتج في كل القناة متعددة الاتجاهات
+  ms.date: 06/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 4434fa4c1352f8726a381551989557e5a3d86c7d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070169"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-consume-product-ratings.md)]"

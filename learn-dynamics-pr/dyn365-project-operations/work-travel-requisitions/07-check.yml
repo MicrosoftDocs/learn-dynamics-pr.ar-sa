@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-travel-requisitions.07-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 12/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 53d4a7aaecd51bfed98151579cc935a8b7a0dd99
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072795"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: تتطلب مؤسستك تقديم طلب سفر قبل أن يتكبد الموظف مصروفات يتم تحميلها على المؤسسة. أي من الحالات التالية ينطبق عليها هذا المطلب؟
+    choices:
+    - content: تحميل المصروفات على بطاقة مدينة تابعة للشركة
+      isCorrect: false
+      explanation: جميع الخيارات صحيحة.
+    - content: الإنفاق النقدي الذي تم استلامه من سلفة نقدية
+      isCorrect: false
+      explanation: جميع الخيارات صحيحة.
+    - content: تكبد مصروفات نثرية
+      isCorrect: false
+      explanation: جميع الخيارات صحيحة.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: سواء كان الموظف يقوم بتحميل مصروفات على بطاقة مدينة تابعة للشركة، أو ينفق النقد الذي تم استلامه من سلفة نقدية، أو يتكبد نفقات نثرية، فمن المنتظر أن يقوم بإنشاء طلب سفر ليتم تعويضه من قبل المؤسسة.
+  - content: ماذا يحدث إذا قام أي موافق في سير العمل بإرجاع طلب سفر؟
+    choices:
+    - content: يتم إرجاع طلب السفر إلى مُنشئ سير العمل، وهو المستخدم الذي قدَّم الطلب.
+      isCorrect: true
+      explanation: يتم إرسال طلب السفر مرة أخرى إلى المنشئ وإعادة تشغيل سير العمل.
+    - content: يتم إرجاع طلب السفر إلى الموافق السابق، إن وجد. في حالة عدم إدراج موافق آخر، يتم إرساله إلى منشئ سير العمل.
+      isCorrect: false
+      explanation: يتم إرسال طلب السفر مرة أخرى إلى مُنشئ سير العمل، بغض النظر عن الموافقين الآخرين.
+    - content: يتم إرسال طلب السفر إلى الموافق التالي.
+      isCorrect: false
+      explanation: يتم إرسال طلب السفر مرة أخرى إلى مُنشئ سير العمل، بغض النظر عن الموافقين الآخرين.
+  - content: هل صحيح أنه قبل تقديم سلفة نقدية للموافقة عليها، يجب إدراج جميع الفئات مع التكلفة التقديرية لكل مصروفات؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: لا يمكنك إضافة فئات إلى السلفة النقدية.
+    - content: لا
+      isCorrect: true
+      explanation: تتوفر فقط قيمة مقدرة للمبلغ الإجمالي للسلفة النقدية. ولا يتم سرد الفئات الفردية.

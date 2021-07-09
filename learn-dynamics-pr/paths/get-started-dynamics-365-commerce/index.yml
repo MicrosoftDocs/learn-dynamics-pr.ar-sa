@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-dynamics-365-commerce
+metadata:
+  title: بدء استخدام Dynamics 365 Commerce
+  description: تستند Dynamics 365 Commerce إلى إمكانات Dynamics 365 Retail الثابتة وتقدم حلاً شاملاً ومتعدد الاتجاهات لتوحيد الخبرة الرقمية وخبرة مركز الاتصالات وخبرة المتجر وخبرة مكتب الدعم. يُمكّنك Dynamics 365 Commerce من بناء ولاء للعلامة التجارية من خلال مشاركات العملاء المخصصة، وزيادة الإيرادات من خلال تحسين إنتاجية الموظفين، وتحسين العمليات لتقليل التكاليف، وتعزيز كفاءات سلسلة التوريد، وفي النهاية على تحقيق نتائج أعمال أفضل.
+  ms.date: 10/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 8f75ce54dafb0a820217ddf53d0c9a652c892adb
+  ms.sourcegitcommit: e89d827732cdd3cc30cf06ddd86ab3bc0fb19a2b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6074546"
+title: بدء استخدام Dynamics 365 Commerce
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  تستند Dynamics 365 Commerce إلى إمكانات Dynamics 365 Retail الثابتة وتقدم حلاً شاملاً ومتعدد الاتجاهات لتوحيد الخبرة الرقمية وخبرة مركز الاتصالات وخبرة المتجر وخبرة مكتب الدعم. يُمكّنك Dynamics 365 Commerce من بناء ولاء للعلامة التجارية من خلال مشاركات العملاء المخصصة، وزيادة الإيرادات من خلال تحسين إنتاجية الموظفين، وتحسين العمليات لتقليل التكاليف، وتعزيز كفاءات سلسلة التوريد، وفي النهاية على تحقيق نتائج أعمال أفضل.
+prerequisites: بلا
+iconUrl: /learn/achievements/get-started-commerce.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- administrator
+- developer
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.wwl.introduction-dynamics-365-commerce
+- learn-dynamics.get-started-commerce-channels
+- learn-dynamics.introduction-architecture-deployment
+- learn-dynamics.get-started-fraud-protection
+trophy:
+  uid: learn-dynamics.get-started-commerce.trophy

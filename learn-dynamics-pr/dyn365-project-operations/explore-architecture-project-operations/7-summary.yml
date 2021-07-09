@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-architecture-project-operations.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص هندسة Project Operations.
+  ms.date: 5/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 8034c4f3519105280cca2105bef4e21643c83bea
+  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/20/2021
+  ms.locfileid: "6083801"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

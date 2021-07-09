@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-online-presence.04-6-fragments
+title: الأجزاء
+metadata:
+  title: الأجزاء
+  description: تعرف على كيفية التعامل مع الأجزاء في أداة إنشاء الموقع Dynamics 365 Commerce.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b1bbcee68d262e6915ae1c57572111c5fa9c539b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070406"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-6-fragments.md)]"

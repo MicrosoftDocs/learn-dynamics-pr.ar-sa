@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-merchandising.10-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 17040bc5efde90d6b3775ad9eb3ef2aa860ef758
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070185"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يجب أن يكون المنتج الوحيد الذي تم جرده قابلاً للبحث في نقاط البيع من خلال المواد المكونة له وسنة إنتاجه ودرجة التأثير البيئي. ما الميزات التي يجب تكوينها لتخزين هذه القيم؟
+    choices:
+    - content: أبعاد المنتجات
+      isCorrect: false
+      explanation: يمكن استخدام أبعاد المنتجات لإنشاء منتجات متعددة قابلة للبيع، وليس منتجاً واحداً.
+    - content: سمات المنتج
+      isCorrect: true
+      explanation: يمكن أن تحتوي سمات المنتجات على بيانات وصفية مكملة حول منتج يمكن البحث عليه داخل نقطة البيع.
+    - content: فئات المنتجات
+      isCorrect: false
+      explanation: يتم استخدام فئات المنتجات لتجميع المنتجات التي يتم البحث فيها وفقاً للتسلسل الهرمي التابع/الأصل، وليس بواسطة معايير متعددة.
+    - content: كتالوجات المنتجات
+      isCorrect: false
+      explanation: لن تسهل كتالوجات المنتجات معايير البحث داخل نقطة البيع.
+  - content: يجب بيع العديد من الأصناف التي يمكن بيعها بشكل فردي في الوقت ذاته باعتبارها وحدة SKU واحدة داخل نقطة البيع. ما الميزات التي يجب استخدامها لإنجاز هذه المهمة؟
+    choices:
+    - content: أصول المنتجات
+      isCorrect: false
+      explanation: تستخدم أصول المنتجات لتحديد متغيرات المنتجات الفردية القابلة للبيع من منتج واحد، وليس لبيع منتجات متعددة معاً.
+    - content: قوائم مكونات الأصناف (BOM)‬
+      isCorrect: false
+      explanation: تحتوي قوائم مكونات الأصناف على عناصر لم يتم بيعها بشكل فردي كبضائع منتهية، كما أنها غير مدعومة للاستخدام داخل نقطة البيع.
+    - content: الخلط والمطابقة
+      isCorrect: false
+      explanation: يتم استخدام ميزة الخلط والمطابقة لتحديد الخصومات عند بيع مجموعة من المنتجات معاً، وليس لتسهيل عملية بيع المنتجات معاً.
+    - content: المجموعات
+      isCorrect: true
+      explanation: تتكون المجموعات من عدة سلع نهائية يتم تجميعها معاً كمنتج واحد قابل للبيع للاستخدام داخل نقطة البيع.

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.2-overview-public-sector
+title: نظرة عامة حول متطلبات القطاع العام وميزاته
+metadata:
+  title: نظرة عامة حول متطلبات القطاع العام وميزاته
+  description: توفر هذه الوحدة نظرة عامة على متطلبات القطاع العام وميزاته في Dynamics 365 Finance.
+  ms.date: 04/16/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ef53e1d3093a5802a552e195d067a88cfb4ff45d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070744"
+durationInMinutes: 13
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-overview-public-sector.md)]

@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-resource-management.11-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 58ffdc69a7e69f2e31d8de53dd03af49d233e892
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072910"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يقع مقر مؤسستك في جورجيا والولايات التابعة لها وقامت بتوسيع عملياتها لتتضمن خط إنتاج جديد في كاليفورنيا، الولايات الأميركية. لقد قمت بإضافة الموظفين الجُدد كموارد مشروع في عمليات المشروع. يجب تغيير جدول هؤلاء الموظفين لأنهم في مناطق زمنية مختلفة. كيف يمكن إكمال هذه المهمة بكفاءة أكبر؟
+    choices:
+    - content: قم بتعديل وقت العمل لكل موظف جديد.
+      isCorrect: false
+      explanation: يقوم هذا الإجراء بإكمال المهمة ولكنه يستغرق أقصى قدر من العمل.
+    - content: لا شيء، لأن عمليات المشروع على دراية بموقع الموظفين الجُدد.
+      isCorrect: false
+      explanation: لا يقوم هذا الاجراء بتغيير جدول الموظفين الجُدد.
+    - content: إنشاء قالب تقويم مشروع جديد وتعيينه للموظفين الجُدد
+      isCorrect: true
+      explanation: يقوم هذا الإجراء بإكمال المهمة في أقل قدر من الوقت.
+    - content: يجب على المسؤول تعديل المنطقة الزمنية لكل موظف في إعدادات متقدمة > النظام > الأمن > المستخدمين.
+      isCorrect: false
+      explanation: لا يؤدي تغيير المنطقة الزمنية إلى تغيير جدول الموظفين.
+  - content: ما نوع المورد غير الصالح في عمليات المشروع؟
+    choices:
+    - content: الطاقم
+      isCorrect: false
+      explanation: الطاقم هو نوع مورد صالح.
+    - content: الفريق
+      isCorrect: true
+      explanation: الفريق ليس نوع مورد صالح.
+    - content: المجموعة
+      isCorrect: false
+      explanation: المجموعة هي نوع مورد صالح.
+    - content: المعدات
+      isCorrect: false
+      explanation: المعدات هي نوع مورد صالح.
+  - content: أنت مدير موارد يعمل في شركة Fabrikam. قامت المؤسسة بتكوين وضع إدارة الموارد كمختلط. تتلقى مكالمة من أحد مديري المشروع، وهو مستاء من تخصيص المورد المسمى حاسم الذي تم تعيينه في الأصل إلى خطة المشروع الخاصة بهم إلى مدير مشروع آخر. ما الذي تسبب في هي المشكلة؟
+    choices:
+    - content: ارتكب مدير الموارد خطأ ما.
+      isCorrect: false
+      explanation: لم يقم مدير الموارد بخطأ، لأن مدير المشروع قد عين المورد فقط ولم يقم بالحجز المحدد للمورد.
+    - content: لم يقم مدير المشروع بحجز المورد مبدئياً.
+      isCorrect: false
+      explanation: لا يلتزم الحجز المبدئي للمورد بقدرة المورد على خطة المشروع. كان مدير المشروع بحاجة إلى الحجز المحدد للمورد.
+    - content: لم يقم مدير المشروع بالحجز المحدد للمورد.
+      isCorrect: true
+      explanation: يعتبر الحجز المحدد للمورد هو الطريقة الوحيدة للالتزام بقدرة المورد.
+    - content: مساعد الجدولة معطل.
+      isCorrect: false
+      explanation: مساعد الجدولة غير معطل. كان مدير المشروع بحاجة إلى الحجز المحدد للمورد.

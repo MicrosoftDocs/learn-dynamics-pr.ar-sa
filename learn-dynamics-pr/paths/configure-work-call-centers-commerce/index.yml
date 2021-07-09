@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-work-call-centers-commerce
+metadata:
+  title: تكوين مراكز الاتصال والتعامل معها في Dynamics 365 Commerce
+  description: Dynamics 365 Commerce هو حل قناة متعددة الاتجاهات يوفر قناة مركز اتصال مع إمكانات لإعدادات معالجة أوامر معينة افتراضية وبيانات افتراضية لأوامر المبيعات التي أنشأها مستخدمو مركز الاتصال.
+  ms.date: 07/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: d3b004b14c0cef41331cf19a98a9e0b5c000a80f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074543"
+title: تكوين مراكز الاتصال والتعامل معها في Dynamics 365 Commerce
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  Dynamics 365 Commerce هو حل قناة متعددة الاتجاهات يوفر قناة مركز اتصال مع إمكانات لإعدادات معالجة أوامر معينة افتراضية وبيانات افتراضية لأوامر المبيعات التي أنشأها مستخدمو مركز الاتصال.
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/configure-work-call-centers-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.configure-call-center-channel
+- learn-dynamics.create-transactions-call-center
+trophy:
+  uid: learn-dynamics.configure-work-call-centers-commerce.trophy

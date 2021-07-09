@@ -1,0 +1,53 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+metadata:
+  title: تكوين مؤسستك في تطبيقات Finance and Operations
+  description: كمستشار وظيفي يتعامل مع تطبيقات Finance and Operations، يجب فهم كيفية إعداد مؤسسة لعميلك. يوضح لك مسار التعلم هذا، من بين المهام الأخرى، كيفية إعداد الكيانات القانونية وتنفيذ إعدادات الأمان وتخصيص واجهة المستخدم للمستخدمين وتصميم تطبيقات الأجهزة المحمولة وإنشائها وتنفيذ عمليات تكامل مشتركة.
+  brand: dynamics
+  ms.date: 03/14/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operation
+  ms.openlocfilehash: 330a2f1b89e2381ecebb86a988239320713409ed
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074553"
+title: تكوين مؤسستك في تطبيقات Finance and Operations
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  كمستشار وظيفي يتعامل مع تطبيقات Finance and Operations، يجب فهم كيفية إعداد مؤسسة لعميلك. يوضح لك مسار التعلم هذا، من بين المهام الأخرى، كيفية إعداد الكيانات القانونية وتنفيذ إعدادات الأمان وتخصيص واجهة المستخدم للمستخدمين وتصميم تطبيقات الأجهزة المحمولة وإنشائها وتنفيذ عمليات تكامل مشتركة.
+prerequisites: >
+  - المعرفة الجيدة بتطبيقات Finance and Operations
+
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+
+  - معرفة عامة بميزات الأجهزة المحمولة الأساسية والتنقل
+
+  - فهم جيد لمتطلبات العملاء
+iconUrl: /learn/achievements/configure-your-organization-in-finance-and-ops.svg
+levels:
+- intermediate
+- advanced
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+modules:
+- learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops
+- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops
+- learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops
+- learn-dynamics.design-and-build-mobile-apps-for-dynamics-365-finance-ops
+- learn-dynamics.personalize-dynamics-365-finance-ops
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.configure-your-organization-in-finance-and-ops.trophy

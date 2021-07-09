@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-expense-management.6-payment-methods
+title: طرق الدفع
+metadata:
+  title: طرق الدفع
+  description: تعرف على طرق الدفع في إدارة المصروفات في Dynamics 365 Project Operations.
+  ms.date: 11/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 315c0697865bc0ae74da93986c4b67ae706d2652
+  ms.sourcegitcommit: a06280974aa467ea2a047b012153260ccab187e2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/23/2020
+  ms.locfileid: "6072717"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-payment-methods.md)]"

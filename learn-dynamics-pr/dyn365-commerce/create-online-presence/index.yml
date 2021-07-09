@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.create-online-presence
+metadata:
+  title: إنشاء حضور عبر الإنترنت في Dynamics 365 Commerce
+  description: يضيف Dynamics 365 Commerce مجموعة أدوات أصلية للتجارة الإلكترونية إلى إمكانات Dynamics 365 الحالية.
+  ms.date: 04/07/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 124adec9aff90a63d0fedeb6714b781a2b799738
+  ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/07/2021
+  ms.locfileid: "6070497"
+title: إنشاء حضور عبر الإنترنت في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيضيف Dynamics 365 Commerce مجموعة أدوات أصلية للتجارة الإلكترونية إلى إمكانات Dynamics 365 الحالية. إنه مصمم لتبسيط أعمال بائع التجزئة من خلال حل شامل عبر القنوات التقليدية والناشئة. تشمل الإمكانات أدوات تطوير وتأليف مدمجة، وواجهات متاجر رقمية ذكية وجذابة، ومنصة تسويق وتجارة متصلة، وغير ذلك الكثير. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء وإدارة متجر على الإنترنت. \n- تعرف على كيفية استخدام أداة إنشاء المواقع لإنشاء موقع تجارة إلكترونية وإدارته.\n- تعرف علي مكتبة الوحدات واستخدمها. \n"
+prerequisites: "- الفهم العام لـ Dynamics 365 Commerce وقنوات Commerce \n"
+iconUrl: /learn/achievements/create-online-presence-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.create-online-presence.01-introduction
+- learn-dynamics.create-online-presence.02-create-online-store
+- learn-dynamics.create-online-presence.03-commerce-starter-kit
+- learn-dynamics.create-online-presence.04-1-site-builder
+- learn-dynamics.create-online-presence.04-2-templates
+- learn-dynamics.create-online-presence.04-3-layouts
+- learn-dynamics.create-online-presence.04-4-page-instance
+- learn-dynamics.create-online-presence.04-5-page-url
+- learn-dynamics.create-online-presence.04-6-fragments
+- learn-dynamics.create-online-presence.04-7-render
+- learn-dynamics.create-online-presence.05-media-library
+- learn-dynamics.create-online-presence.06-publish-groups
+- learn-dynamics.create-online-presence.07-create-e-commerce-site
+- learn-dynamics.create-online-presence.08-exercise-1
+- learn-dynamics.create-online-presence.09-exercise-2
+- learn-dynamics.create-online-presence.10-check
+- learn-dynamics.create-online-presence.11-summary
+badge:
+  uid: learn-dynamics.create-online-presence-commerce.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.1-create-products-product-masters-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: في هذه الوحدة النمطية، ستتعلم كيفية إنشاء المنتجات وأصول المنتجات في Supply Chain Management.
+  ms.date: 03/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a7ebb4649499854d53384073c714cd8e841ca79b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073485"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-create-products-product-masters-introduction.md)]

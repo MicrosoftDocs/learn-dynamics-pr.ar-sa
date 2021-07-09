@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.08-formula-features
+title: ميزات المعادلات
+metadata:
+  title: ميزات المعادلات
+  description: توضح هذه الوحدة ميزات المعادلات في التصنيع التحويلي في Dynamics 365 Supply Chain Management.
+  ms.date: 04/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e708403d59c98d65c4b8b23a4e5ede78c4674258
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072998"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/08-formula-features.md)]

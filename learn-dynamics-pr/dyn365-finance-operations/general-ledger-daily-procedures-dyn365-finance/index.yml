@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops
+metadata:
+  title: تنفيذ الإجراءات اليومية لدفتر الأستاذ العام في Dynamics 365 Finance
+  description: يساعد Dynamics 365 Finance في جعل معالجة دفتر اليومية العامة أسهل ويضمن التقاط البيانات الصحيحة وعدم المساس بالرقابة الداخلية. دعنا نتعرف على عمليات دفتر الأستاذ العام، ثم ننفذ الإجراءات اليومية في دفتر الأستاذ العام.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4a4ac4ba6618e2724512230340993641d0a2ec46
+  ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/06/2021
+  ms.locfileid: "6071148"
+title: تنفيذ الإجراءات اليومية لدفتر الأستاذ العام في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nيساعد Dynamics 365 Finance في جعل معالجة دفتر اليومية العامة أسهل ويضمن التقاط البيانات الصحيحة وعدم المساس بالرقابة الداخلية. دعنا نتعرف على عمليات دفتر الأستاذ العام، ثم ننفذ الإجراءات اليومية في دفتر الأستاذ العام. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- عمليات دفتر الأستاذ العام. \n- حسابات التحكم في الرصيد.\n- عناصر التحكم في دفتر اليومية.\n- قوالب الإيصالات.\n- تسويات دفتر الأستاذ.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - معرفة التنقل الأساسي في Finance
+
+  - التعرف على كيفية إعداد دفتر الأستاذ العام في Finance
+iconUrl: /learn/achievements/general-ledger-daily-procedures-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.1-general-ledger-daily-introduction
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.2-balance-control-accounts
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.3-process-journal-entry
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.4-work-with-gl-processes
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.5-ledger-settlements
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.6-create-voucher-templates
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.7-set-up-journal-controls
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.8-exercise-create-and-use-a-voucher-template
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.9-general-ledger-daily-quiz
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.10-general-ledger-daily-summary
+badge:
+  uid: learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops.badge

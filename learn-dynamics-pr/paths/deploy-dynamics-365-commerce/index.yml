@@ -1,0 +1,60 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.deploy-dynamics-365-commerce
+metadata:
+  title: نشر وتوسيع Dynamics 365 Commerce
+  description: يصف مسار التعلم هذا كيفية نشر وتوسيع Dynamics 365 Commerce
+  ms.date: 09/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b7d2433e22aea2dba57abe112d3cd28ac38d5ac7
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074545"
+title: نشر وتوسيع Dynamics 365 Commerce
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يصف مسار التعلم هذا كيفية نشر بيئات Dynamics 365 Commerce وتنفيذ خطوات ما بعد التوفير، من أجل عمليات تنفيذ Commerce الناجحة باستخدام الهيكل الصحيح لاحتياجات أعمال كل تاجر تجزئة. كما يغطي كيفية توسيع Dynamics 365 Commerce.
+prerequisites: >
+  - المعرفة العامة بوقت تشغيل التجارة (CRT)
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة العامة بـ Lifecycle services ونقاط البيع (POS) ومثبت الخدمة الذاتية
+
+  - المعرفة العامة بتطبيق Microsoft Windows Installer ‏(MSI)
+
+  - المعرفة العامة بخدمات معلومات الإنترنت (IIS) وكيفية التعامل مع شهادات الخادم
+
+  - الوصول إلى Microsoft Dynamics ‏Lifecycle services، والأذونات اللازمة لنشر بيئة
+
+  - اشتراك Microsoft Azure كمسؤول مساعد
+
+  - معرفة مكونات توسيع Dynamics 365 Commerce
+iconUrl: /learn/achievements/deploy-dynamics-365-commerce.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- solution-architect
+- developer
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.introduction-architecture-deployment
+- learn-dynamics.data-distribution
+- learn-dynamics.deploy-commerce-environments
+- learn-dynamics.update-commerce
+- learn-dynamics.use-regression-suite-automation-tool-rsat
+- learn-dynamics.extend-commerce
+trophy:
+  uid: learn-dynamics.deploy-dynamics-365-commerce.trophy

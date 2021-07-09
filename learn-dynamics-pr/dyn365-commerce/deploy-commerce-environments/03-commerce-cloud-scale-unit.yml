@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-commerce-environments.03-commerce-cloud-scale-unit
+title: توزيع Commerce Cloud Scale Unit (CSU)‎
+metadata:
+  title: توزيع Commerce Cloud Scale Unit (CSU)‎
+  description: توضح هذه الوحدة كيفية توزيع Commerce Cloud Scale Unit
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e03162d9ee9473d73943aac631a88f17e864a8f7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070101"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-commerce-cloud-scale-unit.md)]"

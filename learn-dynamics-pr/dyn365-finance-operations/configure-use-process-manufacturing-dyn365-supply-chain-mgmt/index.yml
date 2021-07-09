@@ -1,0 +1,72 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين التصنيع التحويلي في Dynamics 365 Supply Chain Management
+  description: يرتبط التصنيع التحويلي بالمعادلات ووصفات التصنيع، بينما يستخدم التصنيع المنفصل وحدات منفصلة وقوائم مكونات الأصناف. تُستخدم التصنيع التحويلي في بيئات التصنيع حيث يتم إكمال الإنتاج على دُفعات أو عمليات شبه مستمرة.
+  ms.date: 04/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ae7338b50173486f0d46690ac1cd89f5f2f10fc2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073262"
+title: تكوين التصنيع التحويلي في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يرتبط التصنيع التحويلي بالمعادلات ووصفات التصنيع، بينما يستخدم التصنيع المنفصل وحدات منفصلة وقوائم مكونات الأصناف. تُستخدم التصنيع التحويلي في بيئات التصنيع حيث يتم إكمال الإنتاج على دُفعات أو عمليات شبه مستمرة.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين التصنيع التحويلي.\n- إدارة المعادلات.\n- إنشاء أصناف وزن التعبئة وتكوينها.\n- إنشاء المنتجات المساعدة والمنتجات الثانوية.\n- تكوين الموردين المعتمدين.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع، بما في ذلك التصنيع التحويلي
+
+  - معرفه عمليات إدارة المخزون
+
+  - معرفه عمليات إدارة المستودعات
+iconUrl: /learn/achievements/configure-process-manufacturing-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.01-configure-process-manufacturing-intro
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.02-item-types
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.03-production-type-setup
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.04-setup-packaging-and-batch-attributes
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.05-shelf-life-related-setup
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.06-Item-model-group-product-compliance-approved-vendors
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.07-formulas-formula-lines-formula-versions
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.08-formula-features
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.09-approve-activate-formulas-formula-versions
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.10-use-step-consumption
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.11-catch-weight
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.12-transaction-adjustments
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.13-catch-weight-item-handling-policy
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.14-supported-scenarios
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.15-catch-weight-tags
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.16-co-products
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.17-by-products
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.18-burden-allocation
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.19-planning-items
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.20-configure-approved-vendors
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.21-exercise-create-approved-vendor-list
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.22-exercise-create-use-partial-visibility-catch-weight-item
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.23-exercise-use-catch-weight-items
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.24-exercise-create-co-products-and-by-products
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.25-exercise-create-new-formula-with-version-from-released-products
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.26-exercise-copy-and-modify-formula-versions
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.27-exercise-create-and-update-scalable-formula
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.28-exercise-create-percentage-based-formula
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.29-exercise-create-a-step-consumption-formula
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.30-configure-process-manufacturing-quiz
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.31-configure-process-manufacturing-summary
+badge:
+  uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.badge

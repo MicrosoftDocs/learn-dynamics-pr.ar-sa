@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-purchase-orders-finance.8a-exercise
+title: مختبر - إنشاء أمر شراء
+labId: 72819
+metadata:
+  title: مختبر - إنشاء أمر شراء
+  description: تدرب على إنشاء أمر شراء في Supply Chain Management.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 62ca8698af57dbbf14d0be7259d21f2a7476e985
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072961"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/8a-exercise.md)] \n[!include[](../includes/non-final-lab-end.md)]"

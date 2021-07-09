@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops
+metadata:
+  title: تنفيذ الإجراءات اليومية لحسابات المدفوعات في Dynamics 365 Finance
+  description: يُعد شراء البضائع لإعادة بيعها أو كمواد للتصنيع أو الخدمات مسؤولية كبيرة. يعد تعقب تلك المشتريات والدفع للموردين الذين يوردون البضائع تحدياً بنفس القدر. يجب على المؤسسات مراقبة حسابات المدفوعات عن كثب وتنفيذ الإجراءات حتى تتمكن الإدارة بسهولة من الحصول على المعلومات المالية التي تحتاجها للبقاء على اطلاع بالتغييرات في تكاليف السلع. لإعطاء عرض دقيق للوضع المالي للشركة، يتم تضمين جميع المصروفات التي تؤثر على صافي الربح في حسابات المدفوعات.
+  ms.date: 01/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3eee7530a5f0f25b06004c644eba0a761c8d2673
+  ms.sourcegitcommit: 0484f01637a384540476f9c6e45ba64bd86526a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/19/2021
+  ms.locfileid: "6071014"
+title: تنفيذ الإجراءات اليومية لحسابات المدفوعات في Dynamics 365 Finance
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يُعد شراء البضائع لإعادة بيعها أو كمواد للتصنيع أو الخدمات مسؤولية كبيرة. يعد تعقب تلك المشتريات والدفع للموردين الذين يوردون البضائع تحدياً بنفس القدر. يجب على المؤسسات مراقبة حسابات المدفوعات عن كثب وتنفيذ الإجراءات حتى تتمكن الإدارة بسهولة من الحصول على المعلومات المالية التي تحتاجها للبقاء على اطلاع بالتغييرات في تكاليف السلع. لإعطاء عرض دقيق للوضع المالي للشركة، يتم تضمين جميع المصروفات التي تؤثر على صافي الربح في حسابات المدفوعات.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تسجيل الفواتير ومعالجة المدفوعات.  \n- إدارة الدفعات المقدمة وتطبيقها. \n"
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة
+
+  - فهم عام لفوترة أمر الشراء
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+iconUrl: /learn/achievements/accounts-payable-daily-procedures-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.1-accounts-payable-daily-introduction
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.2-invoice-types-accounts-payable
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.3-incoming-invoice-payments
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.4-record-vendor-invoices
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.5-modify-due-discount-dates
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.6-cash-discounts-from-vendors
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.7-create-vendor-payments
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.8-reverse-vendor-payment
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.9-manage-prepayments-invoices
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.10-exercise-record-an-invoice
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.11-exercise-record-vendor-invoice
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.12-exercise-process-vendor-payment
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.13-accounts-payable-daily-quiz
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.14-accounts-payable-daily-summary
+badge:
+  uid: learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.badge

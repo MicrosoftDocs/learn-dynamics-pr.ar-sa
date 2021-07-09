@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops
+metadata:
+  title: بدء استخدام محاسبة التكاليف في Dynamics 365 Finance
+  description: تتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك.
+  ms.date: 03/13/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9744ee9ac316bca31750a7e1c3c645e6a6d40cd4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070829"
+title: بدء استخدام محاسبة التكاليف في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- مساحة عمل التحكم في التكلفة.\n- كيفية إنشاء تقرير محاسبة التكاليف باستخدام معالج بدء استخدام محاسبة التكاليف.\n"
+prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n- القدرة على استخدام Finance للمعالجة الأساسية\n- الفهم العام لسيناريوهات الأمر إلى النقد\n- الفهم العام لسيناريوهات الشراء إلى الدفع\n- الفهم العام لتكاليف المخزون والمستودع \n- الفهم العام لتكاليف التصنيع\n"
+iconUrl: /learn/achievements/get-started-with-cost-accounting-in-dynamics-365-finance-ops.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.1-get-started-cost-accounting-introduction
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.2-configure-cost-control-workspace
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.3-work-cost-accounting-wizard
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.4-exercise-configure-cost-accounting-wizard
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.5-get-started-cost-accounting-quiz
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.6-get-started-cost-accounting-summary
+badge:
+  uid: learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops.badge

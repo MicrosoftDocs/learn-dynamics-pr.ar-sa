@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-customer-engagement-shopping-experience-commerce
+metadata:
+  title: إدارة مشاركة العملاء وتجربة التسوق في Dynamics 365 Commerce
+  description: تساعد إدارة مشاركة العملاء وتحسين تجربة التسوق المستهلكين على اتخاذ قرارات شراء أفضل وبناء ولاء للعلامات التجارية لمتاجر التجزئة مما يؤدي في النهاية إلى زيادة الإيرادات.
+  ms.date: 06/25/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b3836820e93eda5588227cf724a90efc8ce99d0c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074540"
+title: إدارة مشاركة العملاء وتجربة التسوق في Dynamics 365 Commerce
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتساعد إدارة مشاركة العملاء وتحسين تجربة التسوق المستهلكين على اتخاذ قرارات شراء أفضل وبناء ولاء للعلامات التجارية لمتاجر التجزئة مما يؤدي في النهاية إلى زيادة الإيرادات. \n"
+prerequisites: >
+  - المعرفة العامة بـ Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/manage-customer-engagement-shopping-experience-commerce.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.manage-customer-engagement
+- learn-dynamics.product-discovery
+- learn-dynamics.ratings-reviews
+- learn-dynamics.product-recommendations
+- learn-dynamics.manage-clienteling
+trophy:
+  uid: learn-dynamics.manage-customer-engagement-shopping-experience-commerce.trophy

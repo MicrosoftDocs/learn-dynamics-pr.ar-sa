@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-pos.03-pick-up-ship
+title: إنشاء نقطة البيع وشحن أمر العميل
+metadata:
+  title: إنشاء نقطة البيع وشحن أمر العميل
+  description: تعرف على كيفية إنشاء نقطة بيع لاستلام وشحن طلب العميل
+  ms.date: 03/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: ab1181e2f63244f27f23e3dafa7e2f41823e4b9a
+  ms.sourcegitcommit: f126707f3cd62c9afe92b7822710824f46c75cb3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/25/2021
+  ms.locfileid: "6070465"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-pick-up-ship.md)]"

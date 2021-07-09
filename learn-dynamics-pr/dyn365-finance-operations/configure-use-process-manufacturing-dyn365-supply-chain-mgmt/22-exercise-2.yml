@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.22-exercise-create-use-partial-visibility-catch-weight-item
+title: تدريب - إنشاء واستخدام صنف وزن تعبئة الرؤية الجزئية
+metadata:
+  title: تدريب - إنشاء واستخدام صنف وزن تعبئة الرؤية الجزئية
+  description: تدرب على إنشاء واستخدام صنف وزن تعبئة الرؤية الجزئية في Dynamics 365 Supply Chain Management.
+  ms.date: 04/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7f62e4f8b5bb3fe0dcd26b71700e666006a5b947
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073178"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/22-exercise-create-use-partial-visibility-catch-weight-item.md)]

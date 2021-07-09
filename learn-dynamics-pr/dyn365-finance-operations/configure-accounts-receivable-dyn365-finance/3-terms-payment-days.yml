@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.3-terms-payment-days
+title: شروط الدفع وأيام الدفع
+metadata:
+  title: شروط الدفع وأيام الدفع
+  description: تصف هذه الوحدة شروط الدفع وأيام الدفع في Dynamics 365 Finance.
+  ms.date: 03/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4c89caada99fa2a502332521044542ebbec09350
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070971"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-terms-payment-days.md)]

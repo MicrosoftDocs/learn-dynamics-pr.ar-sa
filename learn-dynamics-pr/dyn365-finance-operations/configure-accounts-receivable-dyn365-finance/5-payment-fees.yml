@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.5-payment-fees
+title: رسوم الدفع
+metadata:
+  title: رسوم الدفع
+  description: تصف هذه الوحدة رسوم الدفع في Dynamics 365 Finance.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e925122646eb5a9b4a9115655deb75ba27d1a704
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070969"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-payment-fees.md)]

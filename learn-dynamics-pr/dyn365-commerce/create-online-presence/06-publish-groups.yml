@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-online-presence.06-publish-groups
+title: مجموعات النشر
+metadata:
+  title: مجموعات النشر
+  description: تعرف على المفهوم الخاص بمجموعات النشر في Dynamics 365 Commerce.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: efe3a6659b58b632b8587fcc433cd1b8fc5687e5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070398"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-publish-groups.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-statement-posting.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة حول إدارة ترحيل كشف الحساب في الوحدة النمطية للحل Dynamics 365 Commerce
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: d5415d2019cf3202e7bec815fb51828e0bbfc1fb
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070177"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

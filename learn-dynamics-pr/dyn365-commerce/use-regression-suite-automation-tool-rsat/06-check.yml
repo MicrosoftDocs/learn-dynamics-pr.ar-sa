@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-regression-suite-automation-tool-rsat.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/06/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b85fe2c16eb43aca9467fcf8bdd5f865f3fc649a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070211"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ماذا يعني الاختصار RSAT في Dynamics 365؟
+    choices:
+    - content: أدوات إدارة الخادم البعيد
+      isCorrect: false
+      explanation: أداة إدارة الخادم البعيد هي أحد مكونات Windows Server للإدارة عن بُعد لأجهزة الكمبيوتر الأخرى التي تعمل أيضاً بنظام التشغيل هذا.
+    - content: أداة التقييم الذاتي للمخاطر
+      isCorrect: false
+      explanation: أداة التقييم الذاتي للمخاطر هي تطبيق آمن قائم على الويب تم تصميمه لمساعدة المديرين في تحديد الثغرات الأمنية وإدارتها لتقليل المخاطر.
+    - content: Regression Suite Automation Tool
+      isCorrect: true
+      explanation: RSAT هو اختصار للمصطلح Regression Suite Automation Tool، والذي يمكّن مستخدمي الطاقة الوظيفية من تسجيل مهام الأعمال باستخدام مسجل الاختبار وتحويلها إلى مجموعة من الاختبارات الآلية للتحقق من صحة عناصر واجهة المستخدم والبيانات وعملية الأعمال.
+  - content: لماذا يجب عليك استخدام RSAT؟
+    choices:
+    - content: للحفاظ على التعليمات البرمجية وكتابتها
+      isCorrect: false
+      explanation: تعمل بيئة التطوير على كتابة التعليمات البرمجية وصيانتها، على سبيل المثال Visual Studio، لذلك ليس RSAT هو ما يقوم بتمكينها.
+    - content: لتطبيق تحديث
+      isCorrect: false
+      explanation: لتطبيق تحديث على أي بيئة في Dynamics 365 Commerce، تحتاج إلى الوصول إلى LCS، وليس RSAT.
+    - content: لأتمتة الاختبارات
+      isCorrect: true
+      explanation: لأتمتة الاختبارات، يتعين عليك استخدام RSAT، مما يقلل بشكل كبير من وقت وتكلفة اختبار قبول المستخدم ويوفر خيارات للتحقيق في فشل الاختبارات.

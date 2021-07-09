@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.02-master-planning-setup
+title: اعتبارات التخطيط الرئيسي والإعداد
+metadata:
+  title: اعتبارات التخطيط الرئيسي والإعداد
+  description: تعرف على ‏‫اعتبارات التخطيط الرئيسي والإعداد في Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b8dca95865954f96243494c510d0a863964aebed
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073307"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/02-master-planning-setup.md)]

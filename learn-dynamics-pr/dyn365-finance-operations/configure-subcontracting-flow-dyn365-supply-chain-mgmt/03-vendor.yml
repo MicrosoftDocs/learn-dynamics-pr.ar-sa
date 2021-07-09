@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-activity-based-subcontracting-production-flow-costing-dynamics-365-finance-ops.03-subcontracting-a-vendor
+title: التعاقد من الباطن مع مورد
+metadata:
+  title: التعاقد من الباطن مع مورد
+  description: تصف هذه الوحدة التعاقد من الباطن مع مورد في Dynamics 365 Supply Chain Management.
+  ms.date: 04/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: df70f0e75b873ff642bcdd00e3862df4b12883d6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073058"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/03-subcontracting-a-vendor.md)]

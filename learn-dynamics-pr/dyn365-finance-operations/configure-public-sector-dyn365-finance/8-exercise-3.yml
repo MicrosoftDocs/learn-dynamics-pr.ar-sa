@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.8-exercise-configure-billing-codes
+title: مختبر - تكوين واستخدام أكواد الفوترة للفواتير ذات النص الحر
+labId: 72077
+metadata:
+  title: مختبر - تكوين واستخدام أكواد الفوترة للفواتير ذات النص الحر
+  description: التدرب على تكوين واستخدام أكواد الفوترة للفواتير ذات النص الحر Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 43091cf9d1d3c58a9e0d4ea015428396f5354ace
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6071000"
+durationInMinutes: 16
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/8-exercise-configure-billing-codes.md)] \n[!include[](../includes/standalone-lab-end.md)]"

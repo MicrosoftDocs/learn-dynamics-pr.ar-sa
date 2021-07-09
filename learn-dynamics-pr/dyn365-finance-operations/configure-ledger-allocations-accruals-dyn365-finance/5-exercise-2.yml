@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.5-exercise-config-test-ledger-allocation-rules
+title: تدريب - تكوين قواعد توزيع دفتر الأستاذ واختبارها
+metadata:
+  title: تدريب - تكوين قواعد توزيع دفتر الأستاذ واختبارها
+  description: تدرّب على تكوين قواعد توزيع دفتر الأستاذ واختبارها في Dynamics 365 Finance.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d01470d649752454cdef131c1043de761337d31e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070599"
+durationInMinutes: 16
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-exercise-config-test-ledger-allocation-rules.md)]

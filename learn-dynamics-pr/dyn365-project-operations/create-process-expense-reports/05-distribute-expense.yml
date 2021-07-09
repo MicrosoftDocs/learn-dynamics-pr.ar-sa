@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-expense-reports.05-distribute-expense
+title: توزيع المصروفات
+metadata:
+  title: توزيع المصروفات
+  description: تعرّف على كيفية توزيع المصروفات في Dynamics 365 Project Operations.
+  ms.date: 11/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 77c5337645a3d7f95852dcf76cf69b2a4ad253df
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072799"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-distribute-expense.md)]"

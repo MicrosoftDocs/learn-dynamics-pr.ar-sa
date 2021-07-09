@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.11-fixed-assets-roll-forward-report
+title: تقرير سجل نشاط الأصول الثابتة
+metadata:
+  title: تقرير سجل نشاط الأصول الثابتة
+  description: تصف هذه الوحدة تقرير سجل نشاط الأصول الثابتة في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8b1356d4973a6217195620ed160509c56fdb9456
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070731"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-fixed-assets-roll-forward-report.md)]

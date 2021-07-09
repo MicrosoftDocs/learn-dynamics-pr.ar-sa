@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-receivable-daily-procedures-in-dynamics-365-finance-ops.4-create-payments-customer-invoices
+title: إنشاء دفعات فواتير العميل لأوامر المبيعات ومعالجتها
+metadata:
+  title: إنشاء دفعات فواتير العميل لأوامر المبيعات ومعالجتها
+  description: تصف هذه الوحدة كيفية إنشاء دفعات فواتير العميل ومعالجتها لأوامر المبيعات في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: dbc37cf17888718b1c2c8cf69d66a763ae7c55d0
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070880"
+durationInMinutes: 18
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-create-payments-customer-invoices.md)]

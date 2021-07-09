@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.create-transactions-pos
+metadata:
+  title: إنشاء الحركات في نقطة البيع في Dynamics 365 Commerce
+  description: يمكن تنفيذ الحركات في نقطة البيع (POS) في Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق.
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 913d1f72367af037af6e93834aabbd4e090a008f
+  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2021
+  ms.locfileid: "6070520"
+title: إنشاء الحركات في نقطة البيع في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيمكن تنفيذ الحركات في نقطة البيع (POS) في Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- أنشئ حركات الدفع نقداً والاستلام فوراً لعميل عابر.\n- أنشئ أمر عميل.\n- قم بإلغاء الحركات وإرجاعها.\n- قم بتعليق حركة واستدعائها. \n- تعامل مع الأصناف المتسلسلة. \n"
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة العامة بقنوات البيع بالتجزئة ونقطة البيع
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/create-transactions-point-sales-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.create-transactions-pos.01-introduction
+- learn-dynamics.create-transactions-pos.02-create-cash-carry
+- learn-dynamics.create-transactions-pos.03a-product-search
+- learn-dynamics.create-transactions-pos.03-pick-up-ship
+- learn-dynamics.create-transactions-pos.04a-serialized-items
+- learn-dynamics.create-transactions-pos.04-suspend-recall
+- learn-dynamics.create-transactions-pos.05a-edit
+- learn-dynamics.create-transactions-pos.05-void
+- learn-dynamics.create-transactions-pos.06-cancel
+- learn-dynamics.create-transactions-pos.07-return
+- learn-dynamics.create-transactions-pos.08-exercise-1
+- learn-dynamics.create-transactions-pos.09-exercise-2
+- learn-dynamics.create-transactions-pos.10-exercise-3
+- learn-dynamics.create-transactions-pos.11-check
+- learn-dynamics.create-transactions-pos.12-summary
+badge:
+  uid: learn-dynamics.create-transactions-point-sales-commerce.badge

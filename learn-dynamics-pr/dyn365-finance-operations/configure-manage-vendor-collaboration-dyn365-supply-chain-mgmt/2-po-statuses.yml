@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.2-purchase-order-statuses
+title: حالات أمر الشراء مع تعاون المورد
+metadata:
+  title: حالات أمر الشراء مع تعاون المورد
+  description: تصف هذه الوحدة حالات أمر الشراء مع تعاون المورد في إدارة سلسلة التوريد.
+  ms.date: 03/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 13807043f48432b6e9f98827306f17297a2b4356
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073218"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-purchase-order-statuses.md)]

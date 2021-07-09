@@ -1,0 +1,27 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.11-exercise-create-bank-group-and-account
+title: 'معمل: إنشاء مجموعة بنكية وحساب بنكي'
+labId: 64517
+metadata:
+  title: 'معمل: إنشاء مجموعة بنكية وحساب بنكي'
+  description: تدرب على إنشاء مجموعة بنكية وحساب بنكي في Dynamics 365 Finance.
+  ms.date: 01/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3afdf2bb2cf278ceda3a175aa98f4241422ee778
+  ms.sourcegitcommit: 6d878af45b3cea618d7cf3fcd9a2f9a06675210d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "6071017"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs-2.md)]
+
+  [!include[](includes/11-exercise-create-bank-group-and-account.md)]
+
+  [!include[](../includes/non-final-lab-end.md)]

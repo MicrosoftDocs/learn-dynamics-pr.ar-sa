@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-inventory-reports-in-dynamics-365-finance-ops.9-use-inventory-reports-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص استخدام تقارير المخزون في وحدة Supply Chain Management.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4bcb7f7185c58a2d19da102ef26249f91a238a6e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073382"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-use-inventory-reports-summary.md)]

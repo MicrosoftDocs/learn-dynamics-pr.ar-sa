@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-project-sales-management
+metadata:
+  title: بدء استخدام إدارة مبيعات المشاريع في Dynamics 365 Project Operations
+  description: تختلف عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المشروع عن عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المنتج. والسبب في ذلك أن دورات المبيعات الخاصة بالمؤسسات المستندة إلى المشروع أطول، وتتطلب تقنيات تقدير مخصصة لتحليل عروض الأسعار وإنشائها لكل صفقة.
+  ms.date: 04/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: d8e162aa1318c7d304d6b7d08158ff05c232acc4
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072856"
+title: بدء استخدام إدارة مبيعات المشاريع في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nتختلف عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المشروع عن عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المنتج. والسبب في ذلك أن دورات المبيعات الخاصة بالمؤسسات المستندة إلى المشروع أطول، وتتطلب تقنيات تقدير مخصصة لتحليل عروض الأسعار وإنشائها لكل صفقة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعلم كيفية إنشاء قوائم الأسعار.\n- إنشاء عملاء المشاريع المتوقعين والفرص.\n-  التعرف على كيفية إنشاء عروض أسعار لعقود المشاريع.\n"
+prerequisites: >
+  -  الفهم الأساسي لعمليات إدارة المشاريع
+
+  -  المعرفة العامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365
+
+  -  معرفة كيفية استخدام تطبيقات Dynamics 365
+
+  -  المعرفة الأساسية بـ Dynamics 365 Project Operations
+iconUrl: /learn/achievements/get-started-project-sales-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-sales
+units:
+- learn-dynamics.get-started-project-sales-management.01-introduction
+- learn-dynamics.get-started-project-sales-management.02-price-lists
+- learn-dynamics.get-started-project-sales-management.03-project-leads
+- learn-dynamics.get-started-project-sales-management.04-project-opportunities
+- learn-dynamics.get-started-project-sales-management.05-project-quotes
+- learn-dynamics.get-started-project-sales-management.06-project-contracts
+- learn-dynamics.get-started-project-sales-management.07-exercise
+- learn-dynamics.get-started-project-sales-management.08-check
+- learn-dynamics.get-started-project-sales-management.09-summary
+badge:
+  uid: learn-dynamics.get-started-project-sales-management.badge

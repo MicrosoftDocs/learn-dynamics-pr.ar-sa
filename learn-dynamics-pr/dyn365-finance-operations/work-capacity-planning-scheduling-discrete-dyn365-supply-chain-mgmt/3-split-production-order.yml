@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.3-split-a-production-order
+title: تقسيم أمر إنتاج
+metadata:
+  title: تقسيم أمر إنتاج
+  description: توضح هذه الوحدة كيفية تقسيم أمر إنتاج في Dynamics 365 Supply Chain Management.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 602dc532d6bcfc0c04bd6524c880a0df5a7a62a9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073553"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-split-production-order.md)]

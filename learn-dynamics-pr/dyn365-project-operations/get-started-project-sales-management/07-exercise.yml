@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-sales-management.07-exercise
+title: تمرين – أنشطة مبيعات المشروع
+metadata:
+  title: تمرين – أنشطة مبيعات المشروع
+  description: تدرب على إنشاء حساب عميل وعرض أسعار مبيعات جديد ونسخ عرض أسعار مبيعات جديد وتعديله وتحويل عرض أسعار مبيعات إلى عقد مشروع.
+  ms.date: 04/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 0f700853bf4070bc1c318912331f2076b6fee8d9
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072834"
+durationInMinutes: 35
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-exercise.md)]"

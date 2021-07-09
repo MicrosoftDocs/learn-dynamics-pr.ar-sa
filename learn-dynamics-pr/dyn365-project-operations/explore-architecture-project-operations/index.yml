@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.explore-architecture-project-operations
+metadata:
+  title: استكشاف بنية Dynamics 365 Project Operations
+  description: تعرف على بنية Dynamics 365 Project Operations.
+  ms.date: 5/20/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 75d47895404561d4a18d1970ebead1cd80d9a641
+  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/20/2021
+  ms.locfileid: "6083802"
+title: استكشاف بنية Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nيتكامل Dynamics 365 Project Operations مع تطبيقات Dynamics 365 الأخرى وMicrosoft 365 وحلول المجال.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف بنية منتج Dynamics 365 Project Operations.\n- التعرف على كيف يمكن أن يساعد Project للويب في تعميق إمكانية التشغيل التفاعلي باستخدام Dynamics 365.\n- اكتشاف كيفيه قيام الكيانات داخل Dataverse بمساعدتك في تخزين البيانات وإدارتها بطريقه أكثر أماناً.\n- التعرف على كيفية تكامل إطار عمل الكتابة المزدوجة بين تطبيقات Finance and Operations وMicrosoft Dataverse.\n- راجع المعلمات فيما يتعلق بترخيص المنتج.\n"
+prerequisites: "- المعرفة العامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365\n- معرفة كيفية استخدام تطبيقات Dynamics 365\n- المعرفة الأساسية بعمليات المشاريع \n"
+iconUrl: /learn/achievements/explore-architecture-project-operations.svg
+levels:
+- intermediate
+roles:
+- solution-architect
+- administrator
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+- dynamics-sales
+- dynamics-field-service
+units:
+- learn-dynamics.explore-architecture-project-operations.1-introduction
+- learn-dynamics.explore-architecture-project-operations.2-project-web
+- learn-dynamics.explore-architecture-project-operations.3-dataverse
+- learn-dynamics.explore-architecture-project-operations.4-dual-write-integration
+- learn-dynamics.explore-architecture-project-operations.5-licensing
+- learn-dynamics.explore-architecture-project-operations.6-check
+- learn-dynamics.explore-architecture-project-operations.7-summary
+badge:
+  uid: learn-dynamics.explore-architecture-project-operations.badge

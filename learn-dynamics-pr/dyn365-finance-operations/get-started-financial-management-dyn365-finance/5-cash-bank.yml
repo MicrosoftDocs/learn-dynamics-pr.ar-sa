@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.5-cash-bank-management
+title: إدارة النقد والبنوك
+metadata:
+  title: إدارة النقد والبنوك
+  description: هذه الوحدة تصف الوحدة النمطية لإدارة النقد والبنوك في Finance.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 60885fb3cb44ebe0e2bcc6b56118c7b3fc065cce
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070823"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-cash-bank-management.md)]

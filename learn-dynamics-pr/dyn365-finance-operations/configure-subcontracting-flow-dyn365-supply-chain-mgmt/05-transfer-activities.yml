@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-activity-based-subcontracting-production-flow-costing-dynamics-365-finance-ops.05-transfer-activities
+title: أنشطة النقل كأنشطة تعاقد من الباطن
+metadata:
+  title: أنشطة النقل كأنشطة تعاقد من الباطن
+  description: توضح هذه الوحدة أنشطة النقل كأنشطة تعاقد من الباطن في Dynamics 365 Supply Chain Management.
+  ms.date: 04/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 753a7178863839892adb9b59078c868dad4cf5c5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073061"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05-transfer-activities.md)]

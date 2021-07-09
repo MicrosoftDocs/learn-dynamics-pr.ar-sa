@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.04-setup-packaging-and-batch-attributes
+title: اعداد سمات التعبئة والدُفعات
+metadata:
+  title: اعداد سمات التعبئة والدُفعات
+  description: تصف هذه الوحدة إعداد التعبئة للمنتجات المجمعة والمحزّمة ومعالجة الدُفعات في عملية التصنيع في Dynamics 365 Supply Chain Management.
+  ms.date: 04/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a66a1c1fc4dd7438c3584a0909ab93eebc7474b9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073432"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/04-setup-packaging-batch-attributes.md)]

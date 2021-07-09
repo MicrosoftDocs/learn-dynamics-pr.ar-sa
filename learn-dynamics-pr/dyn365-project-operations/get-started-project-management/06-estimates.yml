@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-management.06-estimates
+title: التقديرات
+metadata:
+  title: التقديرات
+  description: تعرف على التقديرات في Dynamics 365 Project Operations.
+  ms.date: 04/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 04369a7b80660a87ee7aa48b88896d59e177fa9a
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072884"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-estimates.md)]"

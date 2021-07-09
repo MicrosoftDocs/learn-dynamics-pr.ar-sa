@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-work-management.05-full-expense
+title: التوزيع الكامل للمصروفات
+metadata:
+  title: التوزيع الكامل للمصروفات
+  description: تعرف على التوزيع الكامل للمصروفات في Dynamics 365 Project Operations.
+  ms.date: 04/13/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: a767c5266800557a6d9007d80e88dcee69eeba16
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072861"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-full-expense.md)]"

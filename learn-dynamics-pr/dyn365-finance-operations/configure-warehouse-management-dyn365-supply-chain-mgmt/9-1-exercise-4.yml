@@ -1,0 +1,27 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-1-exercise-4
+title: المعمل - إنشاء صنف وزن التعبئة
+labId: 71855
+metadata:
+  title: المعمل - إنشاء صنف وزن التعبئة
+  description: تدرب على إنشاء صنف وزن التعبئة في Supply Chain Management.
+  ms.date: 05/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b5f699b6885e04417b2d8aaf4e07b88205b51ec6
+  ms.sourcegitcommit: 92dc7d01a500c2ef16f130203f4ebfe1a7950200
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/28/2020
+  ms.locfileid: "6073578"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs-2.md)]
+
+  [!include[](includes/9-1-exercise-4.md)]
+
+  [!include[](../includes/standalone-lab-end.md)]

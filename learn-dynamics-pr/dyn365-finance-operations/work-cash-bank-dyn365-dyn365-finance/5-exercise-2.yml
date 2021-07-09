@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.5-exercise-use-bank-management-workspace
+title: تدريب - استخدام مساحة عمل إدارة البنك
+metadata:
+  title: 'تدريب: استخدام مساحة عمل إدارة البنك في Dynamics 365 Finance.'
+  description: تدرّب على استخدام مساحة عمل إدارة البنك
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d05e6a64b431f3a1900acd26e89fef78a7accc0d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070607"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-exercise-use-bank-management-workspace.md)]

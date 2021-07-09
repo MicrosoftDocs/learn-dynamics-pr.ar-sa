@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.work-travel-requisitions
+metadata:
+  title: التعامل مع طلبات السفر في Dynamics 365 Project Operations
+  description: تعلم كيفية التعامل مع طلبات السفر في Microsoft Dynamics 365 Project Operations.
+  ms.date: 12/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 006311d53183343fd49c90f1564779a8a88852b7
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072797"
+title: التعامل مع طلبات السفر في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nباستخدام طلبات السفر، يمكن لمؤسستك التأكد من أن نفقات السفر التي يتم تكبدها للأعمال مرخصة واتباع سياسات المؤسسة، مع ضمان الحفاظ على الموازنات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء طلب سفر.\n- مراجعة خيارات طلبات السفر.\n- التعرف على عملية الموافقة على طلب السفر. \n"
+prerequisites: >
+  - معرفة كيفية التنقل في وحدة إدارة المصروفات في Dynamics 365 Project Operations
+
+  - معرفه عمليات إدارة المصروفات
+iconUrl: /learn/achievements/work-travel-requisitions.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-travel-requisitions.01-introduction
+- learn-dynamics.work-travel-requisitions.02-create-requisition
+- learn-dynamics.work-travel-requisitions.03-exercise
+- learn-dynamics.work-travel-requisitions.04-approve-requisition
+- learn-dynamics.work-travel-requisitions.05-create-cash-advance
+- learn-dynamics.work-travel-requisitions.06-update-cash-advance
+- learn-dynamics.work-travel-requisitions.07-check
+- learn-dynamics.work-travel-requisitions.08-summary
+badge:
+  uid: learn-dynamics.work-travel-requisitions.badge

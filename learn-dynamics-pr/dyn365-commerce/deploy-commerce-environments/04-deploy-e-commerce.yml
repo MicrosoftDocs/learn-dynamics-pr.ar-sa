@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-commerce-environments.04-deploy-e-commerce
+title: توزيع e-Commerce
+metadata:
+  title: توزيع e-Commerce
+  description: تصف هذه الوحدة كيفية توزيع e-Commerce
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 96d67fdadaad6913f1880c03f80f48550812c1ca
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070100"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-deploy-e-commerce.md)]"

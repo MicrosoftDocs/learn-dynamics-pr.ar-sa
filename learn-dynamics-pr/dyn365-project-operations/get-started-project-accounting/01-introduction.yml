@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-accounting.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة حول البدء من خلال محاسبة المشروع في الوحدة النمطية للحل Dynamics 365 Project Operations
+  ms.date: 04/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 743f3addd50363d0bf9897f0c4557a06502a281e
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072847"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

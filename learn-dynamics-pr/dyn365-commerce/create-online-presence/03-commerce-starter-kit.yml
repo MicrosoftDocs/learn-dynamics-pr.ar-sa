@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-online-presence.03-commerce-starter-kit
+title: مكتبة الوحدات
+metadata:
+  title: مكتبة الوحدات
+  description: تعرف على مكتبة الوحدات في Dynamics 365 Commerce.
+  ms.date: 04/06/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 45335c8f318e0afb83e87990e0d4d45748fcca19
+  ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/06/2021
+  ms.locfileid: "6070482"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-commerce-starter-kit.md)]"
