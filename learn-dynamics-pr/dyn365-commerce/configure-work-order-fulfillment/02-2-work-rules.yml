@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-order-fulfillment.02-2-work-rules
+title: العمل باستخدام قواعد DOM
+metadata:
+  title: العمل باستخدام قواعد DOM
+  description: توضح هذه الوحدة كيفية العمل مع قواعد DOM في Dynamic 365 Commerce
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: f44bc2162b17fd50126c93b602d15a6dd2b2032f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070408"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-2-work-rules.md)]"

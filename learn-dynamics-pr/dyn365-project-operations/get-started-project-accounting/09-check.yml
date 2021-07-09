@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-accounting.09-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 103ce0ae4d950c945a081d76c75dcb99bbf92401
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072839"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: لماذا تستخدم إطار عمل الأبعاد المالية في Project Operations؟
+    choices:
+    - content: يساعد في تطوير البنية عند إنشاء مكعبات Azure SQL OLAP.
+      isCorrect: false
+      explanation: لا يقوم إطار عمل الأبعاد المالية بتطوير البنية عند إنشاء مكعبات Azure SQL OLAP.
+    - content: يساعد على تطوير بنية تقرير مبيعات Power BI.
+      isCorrect: false
+      explanation: لا يساعد إطار عمل الأبعاد المالية في تطوير بنية تقرير مبيعات Power BI.
+    - content: يوفر رؤى إضافية حول حركات دفتر الأستاذ العام ودفتر الأستاذ الفرعي للمشروع.
+      isCorrect: true
+      explanation: يوفر إطار عمل الأبعاد المالية رؤى إضافية حول حركات دفتر الأستاذ العام ودفتر الأستاذ الفرعي للمشروع.
+    - content: يوفر رؤى إضافية حول تكاليف المشروع والحركات المالية للمشروع.
+      isCorrect: false
+      explanation: لا يوفر إطار عمل الأبعاد المالية رؤى إضافية حول تكاليف المشروع والحركات المالية للمشروع.
+  - content: هل يمكن أن يحتوي المشروع على حركات الوقت والمواد وحركات السعر الثابت؟
+    choices:
+    - content: لا، لا يمكن
+      isCorrect: false
+      explanation: يمكن أن يحتوي المشروع على حركات الوقت والمواد وحركات السعر الثابت.
+    - content: نعم، يمكن.
+      isCorrect: true
+      explanation: يمكن أن يحتوي المشروع على حركات الوقت والمواد وحركات السعر الثابت.
+  - content: أنت مدير مشروع في شركة Fabrikam Robotics. ونجحت شركتك في إبرام عقد مشروع مع شركة Adatum بهدف تحسين المعدات. ستدفع Adatum مبلغاً ثابتاً قدره 10,000.0 دولار أمريكي لتغطية مصروفات المشروع المتكبدة. ما طريقة الفواتير المستخدمة في هذه الحالة؟
+    choices:
+    - content: طريقة فوترة الوقت والمواد
+      isCorrect: false
+      explanation: لا يتوفر مبلغ محدد مسبقاً عند استخدام طريقة فوترة الوقت والمواد.
+    - content: طريقة فوترة السعر المتغير
+      isCorrect: false
+      explanation: طريقة فوترة السعر المتغير غير موجودة.
+    - content: طريقة فوترة السعر الثابت
+      isCorrect: true
+      explanation: يتم استخدام طريقة فوترة السعر الثابت. ستدفع Adatum مبلغاً أساسياً (أو ثابتاً) قدره 10,000.0 دولار أمريكي.
+    - content: طريقة فوترة المبيعات المتراكمة
+      isCorrect: false
+      explanation: طريقة فوترة المبيعات المتراكمة غير موجودة.

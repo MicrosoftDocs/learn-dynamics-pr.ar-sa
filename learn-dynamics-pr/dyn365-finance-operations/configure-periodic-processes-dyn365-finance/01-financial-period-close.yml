@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-periodic-processes-d365-finance-ops.01-configure-financial-period-close
+title: تكوين إقفال الفترة المالية
+metadata:
+  title: تكوين إقفال الفترة المالية
+  description: تصف هذه الوحدة كيفية تكوين إغلاق الفترة المالية في Dynamics 365 Finance.
+  ms.date: 05/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/close-general-ledger-at-period-end
+  ms.openlocfilehash: e445431a086310ab11f971c4095031d7447da330
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070919"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/01-configure-financial-period-close.md)]

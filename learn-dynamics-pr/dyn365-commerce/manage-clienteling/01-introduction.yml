@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clienteling.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: وتقدم هذه الوحدة تقنية clienteling في الحل Dynamics 365 Commerce
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 228f99c9def5fb61443e9acf25fe25e4065eef95
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070230"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

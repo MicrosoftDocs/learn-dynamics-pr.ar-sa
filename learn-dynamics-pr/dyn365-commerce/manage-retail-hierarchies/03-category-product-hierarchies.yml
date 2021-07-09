@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-hierarchies.03-category-product-hierarchies
+title: التدرج الهرمي للفئة والمنتجات
+metadata:
+  title: التدرج الهرمي للفئة والمنتجات
+  description: تعرف على التدرجات الهرمية للفئات والمنتجات في Dynamics 365 Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: a8a1cfc33beb5b5fd81c77bf7d26457cb675094c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070219"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-category-product-hierarchies.md)]"

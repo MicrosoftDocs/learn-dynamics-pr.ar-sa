@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.23-resource-groups
+title: مجموعات الموارد
+metadata:
+  title: مجموعات الموارد
+  description: توضح هذه الوحدة مجموعات الموارد في الوحدة النمطية للتحكم بالإنتاج في Dynamics 365 Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4961983d28127587befa2c088a5a4e26aa762827
+  ms.sourcegitcommit: a75654cf38878575ac4c290f791ccd70a36b59ff
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/02/2020
+  ms.locfileid: "6073617"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/23-resource-groups.md)]

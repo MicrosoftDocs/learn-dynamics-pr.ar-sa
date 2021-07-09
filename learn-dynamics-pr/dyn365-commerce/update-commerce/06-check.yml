@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.update-commerce.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: cefb5a258ea1d4e6453cdbc85bab499ecf700cb6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070257"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من سيناريوهات تحديث النظام التالية يسمح للعملاء بتحديث البيئات الخاصة بهم قبل العملاء الآخرين؟
+    choices:
+    - content: التحديث التلقائي
+      isCorrect: false
+      explanation: إن التحديثات التلقائية مؤتمتة ويتم تشغيلها وفقاً لجدول زمني قياسي.
+    - content: الإصدار الأول
+      isCorrect: true
+      explanation: يمكن للعملاء الذين يشاركون في برنامج الإصدار الأول تحديث البيئات الخاصة بهم مبكراً.
+    - content: التحديث الذاتي
+      isCorrect: false
+      explanation: يتيح التحديث الذاتي للعملاء إمكانية تأخير التحديثات المحتملة مؤقتاً.
+  - content: بعد تحديث نقطة البيع الحديثة، أي من الخيارات التالية يُعد الخيار الصحيح فيما يتعلق بإعدادات التكوين؟
+    choices:
+    - content: لا يتم تعديل إعدادات التكوين.
+      isCorrect: true
+      explanation: سيستخدم المثبت إعدادات التكوين المثبتة حالياً، ولن يؤدي التحديث إلى تغيير إعدادات نقطة البيع الحديثة لـ Commerce.
+    - content: يتم تعديل إعدادات التكوين.
+      isCorrect: false
+      explanation: لا يتم تعديل إعدادات التكوين القائمة أثناء عملية التحديث.
+    - content: تتم إزالة إعدادات التكوين.
+      isCorrect: false
+      explanation: لا يمكن إزالة إعدادات التكوين لأن المعلومات الافتراضية مطلوبة.

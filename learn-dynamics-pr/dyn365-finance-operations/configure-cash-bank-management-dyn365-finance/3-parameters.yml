@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.3-cash-bank-management-parameters
+title: إعداد معلمات إدارة البنك والنقدية
+metadata:
+  title: إعداد معلمات إدارة البنك والنقدية
+  description: توضح هذه الوحدة كيفية إعداد معلمات إدارة البنك والنقدية في Dynamics 365 Finance.
+  ms.date: 03/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 23dd1ff5507fbe10d78df53dbd1da5294d8f7b86
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070955"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-cash-bank-management-parameters.md)]

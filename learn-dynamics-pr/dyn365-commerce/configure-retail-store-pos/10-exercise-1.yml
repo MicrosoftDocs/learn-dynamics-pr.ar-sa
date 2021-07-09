@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-retail-store-pos.10-exercise-1
+title: 'تدريب: إقران هوية مستخدم'
+metadata:
+  title: 'تدريب: إقران هوية مستخدم'
+  description: تدرب على إقران ربط مستخدم للتأكد من أن العامل يمكنه تنشيط جهاز نقطة البيع في المتجر ضمن Dynamics 365 Commerce.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: bfa09094ec1322ff021d78cf39401fa2e747d64e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070131"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-1.md)]"

@@ -1,0 +1,45 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-with-accounts-payable-in-dynamics-365-for-finance-and-ops
+metadata:
+  title: التعامل مع حسابات المدفوعات في Dynamics 365 Finance
+  description: حسابات المدفوعات هي التزام مستحق للدائن عندما تطلب سلعاً أو خدمات دون الدفع نقداً مقدماً، مما يعني أنك تشتري سلعاً بالائتمان. تعرف علي كيفية تكوين حسابات المدفوعات في Dynamics 365 Finance، وتسجيل فواتير المورّد، وتوزيع المصروفات، والضريبة، والتكاليف عبر الحسابات.
+  brand: dynamics
+  ms.date: 03/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operation
+  ms.openlocfilehash: ebd8ff9fb72c28fc1461e54539e6b5ddf71559cb
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074550"
+title: التعامل مع حسابات المدفوعات في Dynamics 365 Finance
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  حسابات المدفوعات هي التزام مستحق للدائن عندما تطلب سلعاً أو خدمات دون الدفع نقداً مقدماً، مما يعني أنك تشتري سلعاً بالائتمان. تعرف علي كيفية تكوين حسابات المدفوعات في Dynamics 365 Finance، وتسجيل فواتير المورّد، وتوزيع المصروفات، والضريبة، والتكاليف عبر الحسابات.
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة.
+
+  - فهم عام لفوترة أمر الشراء.
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+iconUrl: /learn/achievements/work-with-accounts-payable-in-dynamics-365-for-finance-and-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops
+- learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops
+- learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.work-with-accounts-payable-in-dynamics-365-for-finance-and-ops.trophy

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-resource-management.10-exercise
+title: 'تدريب: العمل باستخدام الموارد'
+metadata:
+  title: 'تدريب: العمل باستخدام الموارد'
+  description: تدرب على العمل باستخدام الموارد الموجودة في Dynamics 365 Project Operations.
+  ms.date: 04/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: c885afe795860532050783cb83dfdd1dcf2e4210
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072914"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise.md)]"

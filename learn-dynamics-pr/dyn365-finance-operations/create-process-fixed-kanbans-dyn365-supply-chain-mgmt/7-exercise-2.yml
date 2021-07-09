@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-fixed-kanbans.7-exercise-fixed-kanban-job-processing
+title: تمرين - معالجة وظيفة كانبان ثابتة
+metadata:
+  title: تمرين - معالجة وظيفة كانبان ثابتة
+  description: تدرب على معالجة وظيفة كانبان الثابتة.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 147ce039a745dba45e28c22de0a9aa87ac25ce56
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073198"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-exercise-fixed-kanban-job-processing.md)]

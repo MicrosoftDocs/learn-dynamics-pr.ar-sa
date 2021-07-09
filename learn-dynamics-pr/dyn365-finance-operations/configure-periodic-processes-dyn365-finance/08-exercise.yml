@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-periodic-processes-d365-finance-ops.08-exercise-perform-a-consolidation
+title: تمرين عملي - إجراء عملية دمج
+labId: 72820
+metadata:
+  title: تمرين عملي - إجراء عملية دمج
+  description: تدرب على إجراء عملية دمج في Dynamics 365 Finance.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 89200138afb8c5853fe9f47e66a427704e12efc5
+  ms.sourcegitcommit: 92dc7d01a500c2ef16f130203f4ebfe1a7950200
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/28/2020
+  ms.locfileid: "6070992"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/08-exercise-perform-a-consolidation.md)] \n[!include[](../includes/standalone-lab-end.md)]"

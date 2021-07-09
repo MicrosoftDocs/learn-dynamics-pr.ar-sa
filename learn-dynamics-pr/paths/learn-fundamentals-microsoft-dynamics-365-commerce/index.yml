@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+metadata:
+  title: تعلُّم أساسيات Microsoft Dynamics 365 Commerce
+  description: تعلُّم أساسيات Microsoft Dynamics 365 Commerce
+  ms.date: 03/04/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 5482af40033608df0eb96d7583e7a488fded94d7
+  ms.sourcegitcommit: e89d827732cdd3cc30cf06ddd86ab3bc0fb19a2b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6074547"
+title: تعلُّم أساسيات Microsoft Dynamics 365 Commerce
+prerequisites: >
+  يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+summary: >
+  هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، وكلٍّ من تطبيقي Dynamics 365 finance and operations. ابدأ بمسار التعلم هذا لمعرفة المزيد حول Dynamics 365 Commerce.
+iconUrl: /learn/achievements/dynamics-commerce.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-fraud-protection
+modules:
+- learn.wwl.get-introduced-finance-operations-apps
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection
+trophy:
+  uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce.trophy

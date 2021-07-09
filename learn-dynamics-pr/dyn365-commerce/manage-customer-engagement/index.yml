@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-customer-engagement
+metadata:
+  title: إدارة مشاركة العملاء في Dynamics 365 Commerce
+  description: الهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضاً عن العلامة التجارية لمتجر التجزئة.
+  ms.date: 03/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: a9e92f2e04cfd41b9bc5ac168c8aee3439836588
+  ms.sourcegitcommit: 3d984582e4fe316c7b6725a5de93570693cd67e3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/26/2021
+  ms.locfileid: "6070468"
+title: إدارة مشاركة العملاء في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nالهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضاً عن العلامة التجارية لمتجر التجزئة. يدعم Dynamics 365 Commerce برامج الولاء، والانتماءات، وبطاقات الهدايا، التي يمكن أن تساعد في تحفيز العملاء على التعامل مع العلامة التجارية لتاجر التجزئة.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم مفاهيم إدارة الولاء.\n- تعرف على كيفية تكوين برامج الولاء.\n- تعرف على الانتماءات.\n- تعرف على بطاقات الهدايا.\n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce وقنواتها
+
+  - الفهم العام لتسعير البيع بالتجزئة وخصائصه
+
+  - فهم عام لبرامج الولاء للبيع بالتجزئة والحوافز وبطاقات الهدايا
+iconUrl: /learn/achievements/customer-engagement-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.manage-customer-engagement.01-introduction
+- learn-dynamics.manage-customer-engagement.02-loyalty-management
+- learn-dynamics.manage-customer-engagement.03-affiliations
+- learn-dynamics.manage-customer-engagement.04-gift-cards
+- learn-dynamics.manage-customer-engagement.05-exercise
+- learn-dynamics.manage-customer-engagement.06-check
+- learn-dynamics.manage-customer-engagement.07-summary
+badge:
+  uid: learn-dynamics.customer-engagement-commerce.badge

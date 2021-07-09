@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-store-inventory-commerce.05-create-outbound-transfer
+title: إنشاء أمر نقل صادر من نقطة بيع
+metadata:
+  title: إنشاء أمر نقل صادر من نقطة بيع
+  description: تعلم كيفية إنشاء أمر نقل صادر من نقطة بيع في Dynamics 365 Commerce.
+  ms.date: 03/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 81414fa05b85d03167f5be2d516a932c0b7a71db
+  ms.sourcegitcommit: fad7e19f41ef8a36544e4479ca7dca6653d218d6
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/29/2021
+  ms.locfileid: "6070473"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-create-outbound-transfer.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.9-main-account-closing-options
+title: خيارات إغلاق الحساب الرئيسي
+metadata:
+  title: خيارات إغلاق الحساب الرئيسي
+  description: توضح هذه الوحدة خيارات إغلاق الحساب الرئيسي في Dynamics 365 Finance.
+  ms.date: 02/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4253d8b1fb1de9554bf140609014b3592e5765e9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070760"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-main-account-closing-options.md)]

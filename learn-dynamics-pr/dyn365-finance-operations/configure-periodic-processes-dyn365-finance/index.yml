@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-periodic-processes-d365-finance-ops
+metadata:
+  title: تكوين وإجراء عمليات دورية في Dynamics 365 Finance
+  description: يمكنك إكمال إجراءات الإقفال لفترة مٌحددة أو سنة. يؤدي إغلاق العمليات إلى إعداد النظام لفترة جديدة. في هذه الوحدة، ستتعلم كيفية الإعداد للعمليات الدورية وتكوينها وتنفيذها في Dynamics 365 Finance.
+  ms.date: 02/02/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8aef17febd615bfe8c4bb80eb6057a6d186e45e7
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6071038"
+title: تكوين وإجراء عمليات دورية في Dynamics 365 Finance
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يمكنك إكمال إجراءات الإقفال لفترة مٌحددة أو سنة. يؤدي إغلاق العمليات إلى إعداد النظام لفترة جديدة. في هذه الوحدة، ستتعلم كيفية الإعداد للعمليات الدورية وتكوينها وتنفيذها في Dynamics 365 Finance.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين إقفال الفترة المالية. \n- تسوية البنوك. \n- إجراء عمليات الإقفال الدورية وإقفال السنة.\n- إعداد الإيداعات الدورية.\n- تكوين عمليات المورد 1099 والتعامل معها.\n- إجراء عمليات إعادة تقييم العملة الأجنبية.\n- إجراء عمليات الاستبعاد والدمج المالي.\n- معالجة إعداد تقارير الضرائب لنهاية السنة.\n"
+prerequisites: >
+  - معرفة العمليات المالية والمحاسبية
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+iconUrl: /learn/achievements/configure-periodic-processes-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.01-configure-financial-period-close
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.02-bank-reconciliations
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.03-year-end-1099
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.04-run-foreign-currency-revaluation
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.05-process-end-of-year-close
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.06-perform-financial-consolidations
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.07-exercise-perform-year-end-close
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.08-exercise-perform-a-consolidation
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.09-configure-periodic-processes-quiz
+- learn-dynamics.configure-periodic-processes-d365-finance-ops.10-configure-periodic-processes-summary
+badge:
+  uid: learn-dynamics.configure-periodic-processes-dynamics-365-finance-ops.badge

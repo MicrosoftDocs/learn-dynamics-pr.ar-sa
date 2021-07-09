@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-manufacturing-execution.7-exercises-manufacturing-execution
+title: مختبر - تنفيذ التصنيع
+labId: 73276
+metadata:
+  title: مختبر - تنفيذ التصنيع
+  description: تدرب على تكوين واستخدام تنفيذ التصنيع في Supply Chain Management.
+  ms.date: 06/09/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ca103ca2b6c2f5591a34cc3b60345509a0222b79
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073337"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/7-exercises-manufacturing-execution.md)] \n[!include[](../includes/standalone-lab-end.md)]"

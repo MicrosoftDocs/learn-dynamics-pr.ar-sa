@@ -1,0 +1,55 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين إدارة الأصول الثابتة في Dynamics 365 Finance
+  description: يجب أن تتوافق طريقة التعامل مع الأصول الثابتة مع كلٍ من معايير المحاسبة العالمية وقوانين المحاسبة في كل بلد أو منطقة. وقد تتضمن المتطلبات قواعد لتسجيل حركات الامتلاك والتخلص، والإهلاك ومدة البقاء وعمليات رفع وخفض قيمة الأصول الثابتة. تتضمن وظيفة الأصول الثابتة في Dynamics 365 Finance العديد من هذه المعايير والقواعد.
+  ms.date: 03/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d4e87b876bd164c7c3878baec56295974e11090b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070601"
+title: تكوين إدارة الأصول الثابتة في Dynamics 365 Finance
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يجب أن تتوافق طريقة التعامل مع الأصول الثابتة مع كلٍ من معايير المحاسبة العالمية وقوانين المحاسبة في كل بلد أو منطقة. وقد تتضمن المتطلبات قواعد لتسجيل حركات الامتلاك والتخلص، والإهلاك ومدة البقاء وعمليات رفع وخفض قيمة الأصول الثابتة. تتضمن وظيفة الأصول الثابتة في Dynamics 365 Finance العديد من هذه المعايير والقواعد.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الأصول الثابتة.\n- تكوين معلمات الأصول الثابتة.\n- تمكين تكامل الأصول الثابتة مع الشراء. \n- إنشاء الأصول الثابتة.\n"
+prerequisites: >
+  - الحصول على فهم أساسي لعمليات الأصول الثابتة
+
+  - الحصول على فهم أساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+iconUrl: /learn/achievements/configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.1-configure-fixed-assets-introduction
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.2-fixed-assets-current
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.3-accounting-fixed-assets
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.4-relationships-fixed-assets-comp
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.5-configure-fixed-assets-comp
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.6-derived-books
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.7-enable-fixed-asset-integ
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.8-fixed-asset-transaction
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.9-demo-create-fixed-assets
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.10-exercise-config-fixed-assets
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.11-exercise-create-assets-ap
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.12-exercise-setup-depr-profile
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.13-configure-fixed-assets-quiz
+- learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.14-config-fixed-assets-summary
+badge:
+  uid: learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.badge

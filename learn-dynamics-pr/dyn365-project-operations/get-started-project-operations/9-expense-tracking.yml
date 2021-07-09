@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-operations.9-expense-tracking
+title: تعقب المصروفات
+metadata:
+  title: تعقب المصروفات
+  description: تعرف على تعقب المصروفات في Dynamics 365 Project Operations
+  ms.date: 11/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 73a25d6fc1dbfb161f9668c87244f6925fec3cbc
+  ms.sourcegitcommit: 4b4c577d0ed6f404844e888513f019d1780e6d0c
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/27/2020
+  ms.locfileid: "6072725"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-expense-tracking.md)]"

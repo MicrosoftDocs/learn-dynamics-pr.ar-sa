@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.4-general-ledger
+title: دفتر الأستاذ العام
+metadata:
+  title: دفتر الأستاذ العام
+  description: هذه الوحدة تصف الوحدة النمطية "دفتر الأستاذ العام" في Finance.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a00bc167dd6fd0c867b548fdd6346cf3955abed6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070821"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-general-ledger.md)]

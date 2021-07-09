@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-management.02-project-stages
+title: مراحل المشروع
+metadata:
+  title: مراحل المشروع
+  description: تعرف على مراحل المشروع التي تعكس حالة المشروع أثناء تقدمه.
+  ms.date: 04/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: a35ad80d5604dec8df1c447c6e355dacc57ab283
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072876"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-project-stages.md)]"

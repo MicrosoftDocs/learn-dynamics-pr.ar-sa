@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops.8-sales-tax-exemption
+title: الإعفاء من ضريبة المبيعات
+metadata:
+  title: الإعفاء من ضريبة المبيعات
+  description: توضح هذه الوحدة الإعفاء من ضريبة المبيعات في Dynamics 365 Finance.
+  ms.date: 03/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5cb008b2bef404169f852080c50c5c5a13be2b75
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070781"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-sales-tax-exemption.md)]

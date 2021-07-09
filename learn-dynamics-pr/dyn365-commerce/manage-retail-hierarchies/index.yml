@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-retail-hierarchies
+metadata:
+  title: إدارة التدرجات الهرمية للبيع بالتجزئة في Dynamics 365 Commerce
+  description: تستخدم أنواع التدرجات الهرمية في Dynamics 365 Commerce للتسويق والتسعير والعروض الترويجية وإعداد التقارير وتخطيط المجموعات.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: cdc0e9964fb7593a3ad637e878d4278f792d4f2c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070386"
+title: إدارة التدرجات الهرمية للبيع بالتجزئة في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nتستخدم أنواع التدرجات الهرمية في Dynamics 365 Commerce للتسويق والتسعير والعروض الترويجية وإعداد التقارير وتخطيط المجموعات. باستخدام التدرج الهرمي للفئات، يمكنك هيكلة منتجاتك، وكذلك إعداد سمات المنتج وخصائصه والحفاظ عليها على مستوى الفئة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف أنواع التسلسل الهرمي للمؤسسات والمنتجات ومزاياها الرئيسية.\n- تعرف على كيفية إدارة وتكوين التدرج الهرمي للمؤسسة والتدرج الهرمي للمنتج. \n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce
+iconUrl: /learn/achievements/manage-retail-hierarchies-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.manage-retail-hierarchies.01-introduction
+- learn-dynamics.manage-retail-hierarchies.02-organization-hierarchies-purpose
+- learn-dynamics.manage-retail-hierarchies.03-category-product-hierarchies
+- learn-dynamics.manage-retail-hierarchies.04-create-product-hierarchies
+- learn-dynamics.manage-retail-hierarchies.05-exercise
+- learn-dynamics.manage-retail-hierarchies.06-check
+- learn-dynamics.manage-retail-hierarchies.07-summary
+badge:
+  uid: learn-dynamics.manage-retail-hierarchies-commerce.badge

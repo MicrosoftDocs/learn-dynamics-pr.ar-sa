@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-work-order-fulfillment
+metadata:
+  title: التكوين والعمل مع تنفيذ الأوامر في Dynamics 365 Commerce
+  description: السعر والمنتجات ليسا من أهم العوامل لقرارات الشراء للعملاء.
+  ms.date: 04/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 5e70d38beeff2a86740c0ea51ed76f777f707b75
+  ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/21/2021
+  ms.locfileid: "6070498"
+title: التكوين والعمل مع تنفيذ الأوامر في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nفي الوقت الحالي، مع عمليات التجارة والنظام البيئي المتغير باستمرار، لا يعتبر السعر والمنتجات أهم العوامل لقرارات الشراء للعملاء. يهدف بائعو التجزئة إلى رحلة عميل تبرز من خلال المشاركة المخصصة والتفاعلات الخالية من الاحتكاكات والخبرات المتولدة عبر القناة متعددة الاتجاهات المتكاملة بشكل كامل.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف كيفية إعداد إدارة الأوامر الموزعة (DOM) ومعالجتها.\n- تعرف على تفاصيل القواعد وتكوين التكلفة والوساطة في الأوامر.\n- تعرف على تنفيذ أوامر المتجر وعمليات استلام أوامر العملاء.\n"
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - فهم قنوات Commerce وقدراتها على تنفيذ الأوامر
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/configure-work-order-fulfillment-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.configure-work-order-fulfillment.01-introduction
+- learn-dynamics.configure-work-order-fulfillment.02-distributed-order-management
+- learn-dynamics.configure-work-order-fulfillment.02-2-work-rules
+- learn-dynamics.configure-work-order-fulfillment.03-manage-cost-configuration
+- learn-dynamics.configure-work-order-fulfillment.04-order-brokering
+- learn-dynamics.configure-work-order-fulfillment.05-store-order-fulfillment
+- learn-dynamics.configure-work-order-fulfillment.06a-process-pickups
+- learn-dynamics.configure-work-order-fulfillment.06-exercise-1
+- learn-dynamics.configure-work-order-fulfillment.07-exercise-2
+- learn-dynamics.configure-work-order-fulfillment.08-exercise-3
+- learn-dynamics.configure-work-order-fulfillment.09-check
+- learn-dynamics.configure-work-order-fulfillment.10-summary
+badge:
+  uid: learn-dynamics.configure-work-order-fulfillment-commerce.badge

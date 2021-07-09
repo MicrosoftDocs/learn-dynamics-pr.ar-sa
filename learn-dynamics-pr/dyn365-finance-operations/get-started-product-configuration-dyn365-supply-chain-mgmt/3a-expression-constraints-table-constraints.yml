@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-product-configuration.3a-expression-constraints-table-constraints
+title: قيود التعبير وقيود الجدول في نماذج تكوين المنتج
+metadata:
+  title: قيود التعبير وقيود الجدول في نماذج تكوين المنتج
+  description: توضح هذه الوحدة قيود التعبيرات وقيود الجداول في نماذج تكوين المنتجات في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4703adb8e2552e5e6276785aa0e061a142f6271b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073525"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3a-expression-constraints-table-constraints.md)]

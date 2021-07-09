@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-use-budgeting-d365-finance-ops
+metadata:
+  title: تكوين الموازنات واستخدامها في Dynamics 365 Finance
+  description: تحدد كل مؤسسة، سواء كانت خاصة أو عامة، أهدافاً مالية وتشغيلية من خلال إنشاء الموازنات. من خلال الطبيعة التعاونية والقائمة على العمليات لتخطيط الموازنة، يمكنك جعل عملية موازنتك أكثر كفاءةً.
+  ms.date: 04/13/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f7f5fa4cb526c8b0c9b513273673ed6fc3cfbda0
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074551"
+title: تكوين الموازنات واستخدامها في Dynamics 365 Finance
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  تحدد كل مؤسسة، سواء كانت خاصة أو عامة، أهدافاً مالية وتشغيلية من خلال إنشاء الموازنات. من خلال الطبيعة التعاونية والقائمة على العمليات لتخطيط الموازنة، يمكنك جعل عملية موازنتك أكثر كفاءةً.
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة.
+
+  - القدرة على استخدام Finance للمعالجة الأساسية.
+
+  - الفهم العام لفوترة أمر الشراء وأمر المبيعات.
+iconUrl: /learn/achievements/configure-and-use-budgeting-in-dynamics-365-for-finance-and-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-use-basic-budgeting-budget-control-in-dynamics-365-finance-ops
+- learn-dynamics.configure-use-budget-planning
+trophy:
+  uid: learn-dynamics.configure-and-use-budgeting-in-dynamics-365-for-finance-and-operations.trophy

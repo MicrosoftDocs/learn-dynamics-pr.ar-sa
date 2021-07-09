@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-basic-budgeting-budget-control-in-dynamics-365-finance-ops.9-configure-budget-control-2
+title: تكوين رقابة الموازنة (تابع)
+metadata:
+  title: تكوين رقابة الموازنة (تابع)
+  description: تصف هذه الوحدة كيفية تكوين مراقبة الموازنة في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f815102cdf31aac92e472781dad90b6387c93e8d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070669"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-configure-budget-control-2.md)]

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-receivable-daily-procedures-in-dynamics-365-finance-ops.3-payments-for-free-text-invoices
+title: الفواتير المتكررة ذات النص الحر
+metadata:
+  title: الفواتير المتكررة ذات النص الحر
+  description: توضح هذه الوحدة كيفية إنشاء الفواتير المتكررة ذات النص الحر في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/tasks/deposit-customer-payments
+  ms.openlocfilehash: 6d8cbe6148cfbf4ef6fbf54bf4891d19d9eaafff
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070855"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-payments-for-free-text-invoices.md)]

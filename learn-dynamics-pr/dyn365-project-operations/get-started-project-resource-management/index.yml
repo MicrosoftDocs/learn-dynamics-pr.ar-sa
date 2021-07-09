@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-project-resource-management
+metadata:
+  title: بدء استخدام إدارة الموارد في Dynamics 365 Project Operations
+  description: الموارد هي الأصول الأكثر أهميةً في المؤسسة المستندة إلى الخدمات.
+  ms.date: 04/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: adcd38d2914ff02497243e07edebdb7728c4f0ae
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072892"
+title: بدء استخدام إدارة الموارد في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nالموارد هي الأصول الأكثر أهميةً في المؤسسة المستندة إلى الخدمات. إن القدرة على العثور على الموارد المناسبة في الوقت المناسب، وحجز تلك الموارد في المشاريع، ثم الاحتفاظ بها مستخدمة سيساعد المؤسسة على تحقيق أهداف الإيرادات وأهداف رضا العملاء. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على الحجوزات والتعيينات.\n- اكتشف الوظائف المختلفة لعرض تسوية الموارد.\n- استخدام حالات الحجز لتحديد عمليات الأعمال الفريدة لشركتك.\n- اكتشاف الخيارات المتاحة لمساعدتك في إدارة الموارد.\n- التعرف على أوضاع إدارة الموارد.\n- استكشاف طرق توزيع الحجز المختلفة التي يمكنك استخدامها.\n- التعرف على كيفية استخدام مساعد الجدولة لحجز الموارد.\n- التعرف على كيف يمكنك حجز مورد مباشرة.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات إدارة المشاريع
+
+  - المعرفة العامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365
+
+  - معرفة كيفية استخدام تطبيقات Dynamics 365
+
+  - المعرفة الأساسية بـ Microsoft Dynamics 365 Project Operations
+
+  - المعرفة الأساسية بأدارة المشاريع في Dynamics 365 Project Operations
+iconUrl: /learn/achievements/get-started-project-resource-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-field-service
+units:
+- learn-dynamics.get-started-project-resource-management.01-introduction
+- learn-dynamics.get-started-project-resource-management.02-booking-assignments
+- learn-dynamics.get-started-project-resource-management.03-booking-status
+- learn-dynamics.get-started-project-resource-management.04-administration
+- learn-dynamics.get-started-project-resource-management.05-modes
+- learn-dynamics.get-started-project-resource-management.06-allocation-methods
+- learn-dynamics.get-started-project-resource-management.07-schedule-assistant
+- learn-dynamics.get-started-project-resource-management.08-book-resource
+- learn-dynamics.get-started-project-resource-management.09-resource-utilization
+- learn-dynamics.get-started-project-resource-management.10-exercise
+- learn-dynamics.get-started-project-resource-management.11-check
+- learn-dynamics.get-started-project-resource-management.12-summary
+badge:
+  uid: learn-dynamics.get-started-project-resource-management.badge

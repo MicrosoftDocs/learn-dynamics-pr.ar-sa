@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-store-inventory-commerce.14-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e15ff375b42a1390a29bdd48ebfdf13a45afc2a4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070174"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يرغب المقر الرئيسي‬ في إجراء الجرد لعدد 10 أصناف. ما العملية التي يجب استخدامها؟
+    choices:
+    - content: دفاتر يومية جرد المخزون التي تم إنشاؤها في مقر Commerce الرئيسي
+      isCorrect: true
+      explanation: يتم استخدام دفاتر يومية جرد المخزون التي تم إنشاؤها في مقر Commerce الرئيسي لطلب عمليات جرد المخزون لأحد المتاجر الموجودة في نقطة البيع.
+    - content: دفتر يومية حركة المخزون في مقر Commerce الرئيسي
+      isCorrect: false
+      explanation: يتم استخدام دفاتر يومية حركات المخزون لنقل المخزون من موقع إلى آخر، ولا يتم استخدامها لجرد المخزون.
+    - content: دفتر يومية تسوية المخزون في مقر Commerce الرئيسي
+      isCorrect: false
+      explanation: يتم استخدام دفاتر يومية تسويات المخزون لتسوية المخزون في النظام ولكن بدون تعقب البيانات الخاصة بالجرد.
+  - content: يجب أن يتم تزويد الموجود في مركز التوزيع ضمن 50 متجر. ما الوظائف التي يمكن أن تساعد على تسهيل توزيع منتج جديد لهذه المتاجر؟
+    choices:
+    - content: أوامر الشراء
+      isCorrect: false
+      explanation: يمكن استخدام أوامر الشراء لطلب مخزون جديد لـ 50 متجر ولكن ليس لنقل المخزون الموجود بالفعل في مركز التوزيع.
+    - content: دفع المشتري
+      isCorrect: true
+      explanation: يمكن لوظيفة دفع المشتري أن تقوم تلقائياً بإنشاء عمليات نقل للمنتجات في مركز توزيع إلى متاجر متعددة استنادا إلى صيغة مرجحة. فإنه يبسط بشكل كبير توزيع تلك المنتجات على المتاجر.
+    - content: عمليات جرد المخزون
+      isCorrect: false
+      explanation: يتم استخدام عمليات جرد المخزون لجرد المخزون الموجود في المتاجر، وليس لنقل المنتجات.
+    - content: دفاتر يومية تعديل المخزون
+      isCorrect: false
+      explanation: قد تشكل دفاتر يومية تسوية المخزون مشكلة في الاستخدام لأن طبقة التكاليف في المخزون ستفقد إذا قمت بضبطها خارج مركز التوزيع وإلى أحد المتاجر كتعديلات منفصلة. يؤدي استخدام أمر النقل مع وظيفة دفع المشتري إلى الاحتفاظ بطبقات التكلفة دون تغيير.

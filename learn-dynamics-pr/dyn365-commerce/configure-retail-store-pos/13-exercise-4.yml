@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-retail-store-pos.13-exercise-4
+title: 'تدريب: إنشاء منصب وتعيين أذونات نقطة البيع لعامل'
+metadata:
+  title: 'تدريب: إنشاء منصب وتعيين أذونات نقطة البيع لعامل'
+  description: تدرب على إنشاء منصب وتعيين أذونات نقطة البيع لعامل في Dynamics 365 Commerce.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: a00b360628567f6799fbdc584a819cb079490172
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070126"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-exercise-4.md)]"

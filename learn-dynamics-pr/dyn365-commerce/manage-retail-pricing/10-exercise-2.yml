@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-pricing.10-exercise-2
+title: 'تدريب: إنشاء اتفاقيات تجارية باستخدام قواعد تسعير الفئات'
+metadata:
+  title: 'تدريب: إنشاء اتفاقيات تجارية باستخدام قواعد تسعير الفئات'
+  description: ‏‫في هذا التدريب، ستقوم بإنشاء اتفاقيات تجارية باستخدام قواعد تسعير الفئات.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 59481c95a469ff10702738aa9495fea2d5fed774
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070268"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-2.md)]"

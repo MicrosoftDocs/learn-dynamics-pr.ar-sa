@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.13-configure-procure-to-purchase-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: في هذه الوحدة النمطية، لقد تعرّفت على عملية التدبير إلى الشراء وكيفية إعدادها وإجرائها في Supply Chain Management.
+  ms.date: 03/30/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e569c642bd16fd53e6bc974f8454df30d0468049
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073315"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/13-configure-procure-to-purchase-summary.md)]

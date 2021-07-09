@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.14-configure-item-groups-model-groups
+title: تكوين مجموعات الأصناف ومجموعات نماذج الأصناف
+metadata:
+  title: تكوين مجموعات الأصناف ومجموعات نماذج الأصناف
+  description: توضح هذه الوحدة كيفية تكوين مجموعات الأصناف ومجموعات نماذج الأصناف في ‏‫Supply Chain Management‬.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 345f927406a514ed28a84d75093cce94c80f17af
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073240"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/14-configure-item-groups-model-groups.md)]

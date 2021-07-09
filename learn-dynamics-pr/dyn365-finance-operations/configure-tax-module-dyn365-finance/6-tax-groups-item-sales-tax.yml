@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops.6-config-tax-groups-item-sales-tax
+title: تكوين مجموعات ضريبة المبيعات ومجموعات ضريبة مبيعات الأصناف
+metadata:
+  title: تكوين مجموعات ضريبة المبيعات ومجموعات ضريبة مبيعات الأصناف
+  description: تعرف على كيفية تكوين مجموعات ضريبة المبيعات ومجموعات ضريبة مبيعات الأصناف في Dynamics 365 Finance.
+  ms.date: 03/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6e084ac87e5d89448deb1d415d3867f826ea4514
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070782"
+durationInMinutes: 13
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-config-tax-groups-item-sales-tax.md)]

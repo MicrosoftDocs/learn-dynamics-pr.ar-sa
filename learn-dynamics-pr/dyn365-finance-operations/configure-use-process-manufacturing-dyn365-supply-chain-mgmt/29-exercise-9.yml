@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.29-exercise-create-a-step-consumption-formula
+title: تدريب - إنشاء معادلة استهلاك الخطوة
+metadata:
+  title: تدريب - إنشاء معادلة استهلاك الخطوة
+  description: تدرب علي إنشاء معادلة استهلاك الخطوة في Dynamics 365 Supply Chain Management.
+  ms.date: 04/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 65160ea89bced98187b22312ab11c5a9444b7dc6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073123"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/29-exercise-create-step-consumption-formula.md)]

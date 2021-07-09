@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.ratings-reviews
+metadata:
+  title: التعامل مع التقييمات والمراجعات في Dynamics 365 Commerce
+  description: تساعد التقييمات والمراجعات العملاء في التعرف على المنتجات قبل اتخاذ قرار الشراء من خلال إظهار رأي العملاء الآخرين بشأن هذه المنتجات. يمكن أن تعمل التقييمات والمراجعات أيضاً كآلية للتعليقات يمكن لتجار التجزئة استخدامها لتحسين جودة المنتج وبالتالي زيادة المبيعات.
+  ms.date: 06/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 0c5aae26c9e85f7f6f2204493abf3e2dec820229
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070162"
+title: التعامل مع التقييمات والمراجعات في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nتساعد التقييمات والمراجعات العملاء في التعرف على المنتجات قبل اتخاذ قرار الشراء من خلال إظهار رأي العملاء الآخرين بشأن هذه المنتجات. يمكن أن تعمل التقييمات والمراجعات أيضاً كآلية للتعليقات يمكن لتجار التجزئة استخدامها لتحسين جودة المنتج وبالتالي زيادة المبيعات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إدارة التقييمات والمراجعات وتكوينها ومزامنتها في Dynamics 365 Commerce.\n- تعرف على كيفية استهلاك تقييمات المنتجات للمساعدة في تفاعل العملاء.\n"
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+
+  - المعرفة العامة بالتنقل الأساسي داخل أداة التأليف
+iconUrl: /learn/achievements/ratings-reviews-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.ratings-reviews.01-introduction
+- learn-dynamics.ratings-reviews.03-manage
+- learn-dynamics.ratings-reviews.04-consume-product-ratings
+- learn-dynamics.ratings-reviews.05-exercise-1
+- learn-dynamics.ratings-reviews.06-exercise-2
+- learn-dynamics.ratings-reviews.07-exercise-3
+- learn-dynamics.ratings-reviews.08-check
+- learn-dynamics.ratings-reviews.09-summary
+badge:
+  uid: learn-dynamics.ratings-reviews-commerce.badge

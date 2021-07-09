@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.9-manage-prepayments-invoices
+title: إدارة الدفعات المقدمة وفواتير الدفع المقدم
+metadata:
+  title: إدارة الدفعات المقدمة وفواتير الدفع المقدم
+  description: توضح هذه الوحدة كيفية إدارة الدفعات المقدمة وفواتير الدفع المقدم في Dynamics 365 Finance.
+  ms.date: 01/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3106718160dcee39bcb9518eb11178254ceff2d8
+  ms.sourcegitcommit: 0484f01637a384540476f9c6e45ba64bd86526a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/19/2021
+  ms.locfileid: "6071013"
+durationInMinutes: 11
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-manage-prepayments-invoices.md)]

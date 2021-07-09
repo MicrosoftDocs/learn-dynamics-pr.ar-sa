@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-inventory-reports-in-dynamics-365-finance-ops.2-abc-inventory-classification
+title: تصنيف المخزون ABC
+metadata:
+  title: تصنيف المخزون ABC
+  description: تصف هذه الوحدة تصنيف المخزون ABC في ‏‫Supply Chain Management‬.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3d4297810681b0fe049debcdec0837f81c313f43
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073355"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-abc-inventory-classification.md)]

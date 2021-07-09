@@ -1,0 +1,51 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-use-general-ledger-dynamics-365-finance-ops
+metadata:
+  title: تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance
+  description: يُمكّن Dynamics 365 Finance مستخدمي الأعمال من التحكم في الشؤون المالية وإدارة الأموال بمعلومات دقيقة في أي وقت للتخطيط المالي والتنبؤ، والبقاء على اطلاع بأدوات التحليل. نظراً لأن التمويل هو قلب الأعمال، ووحدة دفتر الأستاذ العام هي قلب الإدارة المالية، يوضح لك مسار التعلم هذا كيفية إعداد الوظائف في وحدة دفتر الأستاذ العام.
+  brand: dynamics
+  ms.date: 03/22/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operation
+  ms.openlocfilehash: 7ad1d4b61386d9386483a6200e7015264a8e7b1d
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074554"
+title: تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يُمكّن Dynamics 365 Finance مستخدمي الأعمال من التحكم في الشؤون المالية وإدارة الأموال بمعلومات دقيقة في أي وقت للتخطيط المالي والتنبؤ، والبقاء على اطلاع بأدوات التحليل. نظراً لأن التمويل هو قلب الأعمال، ووحدة دفتر الأستاذ العام هي قلب الإدارة المالية، يوضح لك مسار التعلم هذا كيفية إعداد الوظائف في وحدة دفتر الأستاذ العام. كما تغطي هذه الوحدة كيفية إكمال إجراءات الإقفال لفترة مٌحددة أو سنة.
+prerequisites: >
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - معرفة العمليات المالية والمحاسبية
+
+  - فهم عام لفوترة أمر الشراء
+iconUrl: /learn/achievements/configure-and-use-the-general-ledger-in-dynamics-365-for-finance-and-operations.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops
+- learn-dynamics.configure-currencies-in-dynamics-365-finance-ops
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops
+- learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops
+- learn-dynamics.general-ledger-daily-procedures-in-dynamics-365-finance-ops
+- learn-dynamics.intercompany-accounting-in-dynamics-365-finance-ops
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops
+- learn-dynamics.configure-periodic-processes-d365-finance-ops
+trophy:
+  uid: learn-dynamics.configure-and-use-the-general-ledger-in-dynamics-365-for-finance-and-operations.trophy

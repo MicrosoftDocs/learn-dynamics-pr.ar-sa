@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-commerce-channels.04-call-center-channels
+title: قنوات مركز الاتصال
+metadata:
+  title: قنوات مركز الاتصال
+  description: تصف هذه الوحدة قنوات مركز الاتصال Dynamics 365 Commerce
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: ea68744168fcec465042a1af440e71324894dd85
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070277"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-call-center-channels.md)]"

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.5-waive-reinstate
+title: التنازل عن رسوم الفائدة أو إعادة المطالبة بها أو عكسها
+metadata:
+  title: التنازل عن رسوم الفائدة أو إعادة المطالبة بها أو عكسها
+  description: تصف هذه الوحدة كيفية التنازل عن رسوم الفائدة أو إعادة المطالبة بها أو عكسها في Dynamics 365 Finance.
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/waive-reinstate-reverse-interest-fees
+  ms.openlocfilehash: 223ccdca54bd91304c6621123b8c397934a18842
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070933"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-waive-reinstate.md)]

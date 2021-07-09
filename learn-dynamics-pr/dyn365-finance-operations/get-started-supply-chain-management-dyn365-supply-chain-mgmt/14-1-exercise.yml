@@ -1,0 +1,27 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.14-1-exercise
+title: 'معمل: استكشاف Dynamics 365 Supply Chain Management'
+labId: 82820
+metadata:
+  title: 'معمل: استكشاف Dynamics 365 Supply Chain Management'
+  description: استكشاف Dynamics 365 Supply Chain Management
+  ms.date: 10/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 926de7c753f10cabe6f97f427011f53abac8cbd1
+  ms.sourcegitcommit: 21f36fc8fbb74c94cbb90234a4274665cba0865d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/22/2020
+  ms.locfileid: "6073570"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs.md)]
+
+  [!include[](includes/14-1-exercise.md)]
+
+  [!include[](../includes/standalone-lab-end.md)]

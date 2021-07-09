@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.11-configure-use-positive-pay
+title: تكوين دفع موجب واستخدامه
+metadata:
+  title: تكوين دفع موجب واستخدامه
+  description: تعرّف على كيفية تكوين الدفع الموجب واستخدامه في Dynamics 365 Finance.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/set-up-generate-positive-pay-files
+  ms.openlocfilehash: a11ce6d8bf36060ac197545b35bc500cae6b3ac5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070695"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-configure-use-positive-pay.md)]

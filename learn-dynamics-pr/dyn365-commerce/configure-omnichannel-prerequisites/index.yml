@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-omnichannel-prerequisites
+metadata:
+  title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات في Dynamics 365 Commerce
+  description: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات يتيح الحركات الناجحة في قنوات التجارة.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 22cc59de6bfb9d9ca954ebf592af6c8a11c4a773
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6070527"
+title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nقبل إنشاء قنوات Dynamics 365 Commerce واستخدامها، يجب إكمال العديد من المتطلبات الأساسية. يتيح تكوين تلك المتطلبات الأساسية الحركات الناجحة في قنوات التجارة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على متطلبات التكوين العامة الأساسية لقنوات Dynamics 365 Commerce وكيفية تكوينها. \n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce
+
+  - فهم عام لعمليات البيع بالتجزئة الأساسية
+iconUrl: /learn/achievements/configure-omni-channel-prerequisites-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.configure-omnichannel-prerequisites.01-introduction
+- learn-dynamics.configure-omnichannel-prerequisites.02-initialize-seed-data
+- learn-dynamics.configure-omnichannel-prerequisites.03-configure-parameters
+- learn-dynamics.configure-omnichannel-prerequisites.04-configure-distribution-schedules
+- learn-dynamics.configure-omnichannel-prerequisites.05-configure-retail-warehouse
+- learn-dynamics.configure-omnichannel-prerequisites.06-configure-payment-methods
+- learn-dynamics.configure-omnichannel-prerequisites.06-1-incremental-capture
+- learn-dynamics.configure-omnichannel-prerequisites.061-payment-connector-paypal
+- learn-dynamics.configure-omnichannel-prerequisites.062-set-up-payment-connector
+- learn-dynamics.configure-omnichannel-prerequisites.07-configure-modes-delivery
+- learn-dynamics.configure-omnichannel-prerequisites.08-configure-info-codes
+- learn-dynamics.configure-omnichannel-prerequisites.09-exercise-1
+- learn-dynamics.configure-omnichannel-prerequisites.10-exercise-2
+- learn-dynamics.configure-omnichannel-prerequisites.11-exercise-3
+- learn-dynamics.configure-omnichannel-prerequisites.12-exercise-4
+- learn-dynamics.configure-omnichannel-prerequisites.13-check
+- learn-dynamics.configure-omnichannel-prerequisites.14-summary
+badge:
+  uid: learn-dynamics.configure-omni-channel-prerequisites-commerce.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-order-to-cash.2-create-confirm-sales-quotations
+title: إنشاء عروض أسعار المبيعات وتأكيدها
+metadata:
+  title: إنشاء عروض أسعار المبيعات وتأكيدها
+  description: تعرف على كيفية إنشاء عروض أسعار المبيعات وتأكيدها.
+  ms.date: 04/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c7f959657bdd0764c017c55372fb1edf2b983694
+  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/13/2021
+  ms.locfileid: "6073690"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-create-confirm-sales-quotations.md)]

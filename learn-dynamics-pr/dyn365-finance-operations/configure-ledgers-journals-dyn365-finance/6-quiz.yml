@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.6-configure-ledgers-journals-quiz
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 02/22/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 346825c364e47acd51a5e6403982a7497ceb6d9d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070587"
+title: تحقق من مستوى معرفتك
+durationInMinutes: 10
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي نوع من أنواع دفتر اليومية التالية ينشئ ملفاً يمكن إرساله إلى بنك مؤسستك؟
+    choices:
+    - content: حوالة العميل البنكية
+      isCorrect: true
+      explanation: يُنشئ نوع دفتر يومية حوالات بنك العميل ملف تحويل فاتورة صرف يمكن إرساله إلى بنك مؤسستك.
+    - content: عملية عكس الشيكات البنكية
+      isCorrect: false
+      explanation: يعكس نوع دفتر يومية عكس الشيك البنكي الشيك المرحل.
+    - content: التوزيع
+      isCorrect: false
+      explanation: يُنشئ نوع دفتر يومية التوزيع حركات التوزيع في دفتر يومية التوزيعات.
+  - content: أي مما يلي يصف أفضل مزايا مخطط الحسابات في Finance؟
+    choices:
+    - content: لا يمكن استخدام مخطط الحسابات لأكثر من كيان قانوني واحد.
+      isCorrect: false
+      explanation: لا يمكن استخدام مخطط الحسابات لأكثر من كيان قانوني واحد.
+    - content: يمكن استخدام مخطط الحسابات لقسم واحد فقط لكيان قانوني.
+      isCorrect: false
+      explanation: لم يتم إعداد مخططات الحسابات للتقسيم، بل تم تكوينها لدفتر الأستاذ الذي يمثل كياناً قانونياً.
+    - content: يمكن استخدام مخطط الحسابات للعديد من الكيانات القانونية في المؤسسة.
+      isCorrect: true
+      explanation: يمكن استخدام مخطط الحسابات للعديد من الكيانات القانونية في المؤسسة.
+  - content: أي تقرير من التقارير التالية يحتوي على خيار لعرض الحركات حسب اليوم والحساب والبُعد والفترة؟
+    choices:
+    - content: بيان البعد.
+      isCorrect: true
+      explanation: يعرض بيان البعد الحركات حسب اليوم والحساب، وهناك أيضاً خيارات لإظهار الحركات حسب البعد والفترة.
+    - content: الحركات المرحلة بواسطة دفتر اليومية.
+      isCorrect: false
+      explanation: تُظهر الحركات المرسلة حسب دفتر اليومية الحركات التي تم ترحيلها إلى دفتر يومية، مجمعة حسب الإيصال.
+    - content: في صفحة الحسابات الرئيسية، في قائمة نوع الحساب الرئيسي، حدد الربح والخسارة.
+      isCorrect: false
+      explanation: يعرض التقرير الحساب حسب دفتر اليومية، وبحسب الحركة، والمحاسبة، وعملة التقارير. كما يعرض أيضاً كل بند في دفتر اليومية تم استخدامه كإزاحة.

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manufacture-wms-dyn365-fo.06-visibility-exceptions
+title: إمكانية رؤية استثناءات المواد
+metadata:
+  title: إمكانية رؤية استثناءات المواد
+  description: توضح هذه الوحدة إمكانية رؤية استثناءات المواد في Dynamics 365 Supply Chain Management.
+  ms.date: 05/06/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/production-control/improved-visibility-into-material-exceptions
+  ms.openlocfilehash: 6bb4f8bee77714bbefc99bd43f910002fc22ad62
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073291"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/06-visibility-exceptions.md)]

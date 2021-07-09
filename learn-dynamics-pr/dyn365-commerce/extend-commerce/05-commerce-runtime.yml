@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-commerce.05-commerce-runtime
+title: ملحقات Commerce Runtime
+metadata:
+  title: ملحقات Commerce Runtime
+  description: يمكنك مراجعة ملحقات Commerce Runtime (CRT) في Dynamics 365 Commerce.
+  ms.date: 09/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 39612767477a403a99685a1b0c5757d8835cbf0f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070082"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-commerce-runtime.md)]"

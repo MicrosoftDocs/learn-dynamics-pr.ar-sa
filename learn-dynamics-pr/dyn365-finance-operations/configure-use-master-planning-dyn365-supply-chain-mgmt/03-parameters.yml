@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.03-master-planning-parameters
+title: صفحة معايير التخطيط الرئيسي
+metadata:
+  title: صفحة معايير التخطيط الرئيسي
+  description: تعرف على معلومات حول صفحة محددات التخطيط الرئيسي في Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6c805ee7779dc149feb4d4f44d16818c6d4ca904
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073274"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/03-master-planning-parameters.md)]

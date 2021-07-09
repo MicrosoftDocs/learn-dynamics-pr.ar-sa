@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-basic-budgeting-budget-control-in-dynamics-365-finance-ops.16-configure-basic-budget-control-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين واستخدام الموازنة الأساسية والتحكم في الميزانية في وحدة Dynamics 365 Finance النمطية
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2a05833824db9ab786e632e9c7df3f247bb8df0d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070554"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/16-configure-basic-budget-control-summary.md)]

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.2-3-record-batch-quality
+title: تدريب - تسجيل قيم سمات الدُفعة باستخدام أوامر الجودة
+metadata:
+  title: تدريب - تسجيل قيم سمات الدُفعة باستخدام أوامر الجودة
+  description: التدرب على العمل مع سمات الدُفعة.
+  ms.date: 11/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3144c259b666e32ca562d24b28d279d4de448049
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073449"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-3-record-batch-quality.md)]

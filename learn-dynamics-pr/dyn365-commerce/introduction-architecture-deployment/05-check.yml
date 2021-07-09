@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-architecture-deployment.05-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e050f6ab6e8749103ab4d08283d4ebaa8987bbf1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070232"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما هو الفرق الرئيسي بين نقطة البيع السحابية‬ (CPOS) ‫ونقطة البيع الحديثة (MPOS)؟
+    choices:
+    - content: تقدم نقطة البيع السحابية إمكانات دون الاتصال بالإنترنت وإمكانات عبر الإنترنت.
+      isCorrect: false
+      explanation: تتوفر نقطة البيع السحابية عبر الإنترنت فقط.
+    - content: لا توفر نقطة البيع السحابية إمكانات دون الاتصال بالإنترنت.
+      isCorrect: true
+      explanation: لا توفر نقطة البيع السحابية إمكانات دون الاتصال بالإنترنت. تتوفر نقطة البيع السحابية عبر الإنترنت فقط بينما تحتوي نقطة البيع الحديثة على إمكانات دون الاتصال بالإنترنت.
+    - content: لا يمكن استخدام نقطة البيع السحابية إلا على الأجهزة التي تعمل باللمس.
+      isCorrect: false
+      explanation: يمكن استخدام نقطة البيع السحابية عبر نقاط متعددة، وليس فقط على الأجهزة التي تعمل باللمس.
+  - content: أي من الخيارات التالية هو نظام عرض موقع الويب الموجه للعملاء الخاص بـ Commerce؟
+    choices:
+    - content: Dynamics 365 Commerce
+      isCorrect: false
+      explanation: Dynamics 365 Commerce هو الحل الكامل للتجارة، بما في ذلك واجهة متجر التجارة الإلكترونية.
+    - content: واجهة متجر التجارة الإلكترونية
+      isCorrect: true
+      explanation: تُعد واجهة متجر التجارة الإلكترونية بمثابة نظام عرض موقع الويب الموجه للعملاء.
+    - content: نقطة البيع السحابية
+      isCorrect: false
+      explanation: تُعد نقطة البيع السحابية بمثابة نظام نقاط البيع المستند إلى المتصفح.
+  - content: أي من الخيارات التالية يٌعد أفضل وصف لـ Commerce Scale Unit؟
+    choices:
+    - content: حل عبر الأنظمة الأساسية وتطبيق دون اتصال بالإنترنت
+      isCorrect: false
+      explanation: تمثل نقطة البيع الحديثة حلاً عبر الأنظمة الأساسية لجميع العمليات داخل المتجر ويمكن نشرها كتطبيق يتمتع بإمكانات دون الاتصال بالإنترنت.
+    - content: نقطة تكامل مركزية لجميع مناطق Commerce
+      isCorrect: true
+      explanation: تعمل Commerce Scale Unit كنقطة تكامل مركزية لكافة مناطق الأعمال التجارية وتقوم بتشغيل حل القناة متعددة الاتجاهات عبر المتاجر الفعلية والمتاجر الرقمية.
+    - content: واجهة مستندة إلى الويب لإدارة المحتوى
+      isCorrect: false
+      explanation: يُعد Site Builder بمثابة واجهة تأليف مستندة إلى الويب لإدارة المحتوى وأنظمة عرض موقع الويب لواجهة المتجر.

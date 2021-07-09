@@ -1,0 +1,25 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.11-exercise-configure-customer-posting
+title: 'معمل: تكوين ملفات تعريف ترحيل العميل'
+labId: 64514
+metadata:
+  title: 'معمل: تكوين ملفات تعريف ترحيل العميل'
+  description: تدرب على تكوين ملفات تعريف ترحيل العميل في Dynamics 365 Finance.
+  ms.date: 03/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fa21243d3facd8fec2bc1dc1b174abcd30508dbf
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070627"
+durationInMinutes: 30
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs.md)]
+
+  [!include[](includes/11-exercise-configure-customer-posting.md)]

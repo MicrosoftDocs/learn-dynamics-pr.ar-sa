@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.product-recommendations.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-commerce
+  ms.openlocfilehash: 9bbd47e57294ba890282b17210d370f5c3a1d810
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070213"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من المهام التالية تسمح توصيات المنتج للعملاء بأدائها؟
+    choices:
+    - content: إنشاء قوائم التوصيات
+      isCorrect: false
+      explanation: يتم إنشاء قوائم التوصيات تلقائياً بواسطة خدمة التوصية الأصلية وليس بواسطة العميل أو بائع التجزئة. يتوفر لدى التجار خيار تنظيم قوائم التحرير يدوياً، إذا رغبوا في ذلك.
+    - content: البحث عن منتجات جديدة ذات صلة
+      isCorrect: true
+      explanation: تتيح توصيات المنتج للعملاء إمكانية العثور على المنتجات ذات الصلة بهم.
+    - content: توصية المنتجات
+      isCorrect: false
+      explanation: يتم إنشاء توصيات المنتجات بواسطة Commerce لاقتراح المنتجات للعميل. وهو لا يسمح للعميل بالتوصية بالمنتجات للعملاء الآخرين.
+  - content: أي من الخيارات التالية هو نوع توصية منتج آلي (حسابي)؟
+    choices:
+    - content: البحث بالفئة
+      isCorrect: false
+      explanation: البحث عن الفئة هو نوع قائمة المنتجات حسب الفئة الموجود في الوحدة النمطية لمجموعة المنتجات ويمكن تكوينه يدوياً ضمن Commerce. يمتلك بائعو التجزئة خيار تصفية توصيات الخوارزميات الحالية حسب فئة التدرج الهرمي للتنقل.
+    - content: المنتجات ذات الصلة
+      isCorrect: false
+      explanation: المنتجات ذات الصلة هي نوع قائمة موجود في الوحدة النمطية لمجموعة المنتجات ويمكن تكوينه يدوياً من ضمن شبكة Commerce.
+    - content: أفضل المبيعات
+      isCorrect: true
+      explanation: الأكثر مبيعاً هو نوع تلقائي من قوائم توصيات المنتجات في وحدة مجموعة المنتجات.
+  - content: تتوفر قوائم التوصيات المخصصة لأي من العملاء التاليين؟
+    choices:
+    - content: كل العملاء
+      isCorrect: false
+      explanation: قوائم التوصيات المخصصة متاحة فقط للعملاء الذين قاموا بتسجيل الدخول.
+    - content: العملاء الضيوف
+      isCorrect: false
+      explanation: العملاء الضيوف هم مستخدمون مجهولون لـ Commerce، وبالتالي، فإن وظيفة التخصيص غير متاحة لهم.
+    - content: العملاء الذين قاموا بتسجيل الدخول
+      isCorrect: true
+      explanation: لا تتوفر قوائم التوصيات المخصصة إلا للعملاء الذين قاموا بتسجيل الدخول في حالة قيامهم باختيار الحصول على الوظيفة.

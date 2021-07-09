@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.create-transactions-e-commerce
+metadata:
+  title: إنشاء الحركات في التجارة الإلكترونية في Dynamics 365 Commerce
+  description: تمنح القنوات عبر الإنترنت في Dynamics 365 Commerce العملاء خيار شراء المنتجات من متجر تاجر التجزئة عبر الإنترنت من خلال موقع التجارة الإلكترونية.
+  ms.date: 03/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 910e4208615a6b4ed7b154eeef6be3a3cc71d5fb
+  ms.sourcegitcommit: fad7e19f41ef8a36544e4479ca7dca6653d218d6
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/29/2021
+  ms.locfileid: "6070474"
+title: إنشاء الحركات في التجارة الإلكترونية في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nتمنح القنوات عبر الإنترنت في Dynamics 365 Commerce العملاء خيار شراء المنتجات من متجر تاجر التجزئة عبر الإنترنت من خلال موقع التجارة الإلكترونية.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء الأوامر في موقع التجارة الإلكترونية.\n- تعرف على كيفية استدعاء أوامر التجارة الإلكترونية في نقطة البيع (POS).\n"
+prerequisites: "- الفهم العام لـ Dynamics 365 Commerce \n- فهم القنوات التجارية عبر الإنترنت وموقع التجارة الإلكترونية \n"
+iconUrl: /learn/achievements/create-transactions-e-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.create-transactions-e-commerce.01-introduction
+- learn-dynamics.create-transactions-e-commerce.02-create-customer-order
+- learn-dynamics.create-transactions-e-commerce.03-buy-online-pick-up-store
+- learn-dynamics.create-transactions-e-commerce.04-exercise-1
+- learn-dynamics.create-transactions-e-commerce.05-exercise-2
+- learn-dynamics.create-transactions-e-commerce.06-exercise-3
+- learn-dynamics.create-transactions-e-commerce.07-check
+- learn-dynamics.create-transactions-e-commerce.08-summary
+badge:
+  uid: learn-dynamics.create-transactions-e-commerce.badge

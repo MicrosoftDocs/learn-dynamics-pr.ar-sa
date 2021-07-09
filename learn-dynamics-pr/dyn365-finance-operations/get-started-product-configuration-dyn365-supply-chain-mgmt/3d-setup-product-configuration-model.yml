@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-product-configuration.3d-setup-product-configuration-model
+title: إعداد نموذج تكوين منتج
+metadata:
+  title: إعداد نموذج تكوين منتج
+  description: توضح هذه الوحدة العمليات الحسابية لنماذج تكوين المنتج في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f9ffbcc3cb81ca5b3dafd25962c055a54db5519c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073523"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3d-setup-product-configuration-model.md)]

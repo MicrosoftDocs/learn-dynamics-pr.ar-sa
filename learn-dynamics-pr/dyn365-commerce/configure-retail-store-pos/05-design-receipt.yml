@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-retail-store-pos.05-design-receipt
+title: تصميم تخطيط إيصال
+metadata:
+  title: تصميم تخطيط إيصال
+  description: تعرف على كيفية تصميم تخطيط إيصال في Dynamics 365 Commerce.
+  ms.date: 04/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 74dc55c7dcf4007a539a22e5db7fa705d1432bdb
+  ms.sourcegitcommit: 1644d13d1691ec90e3bea654b51d3c057fe7e697
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/25/2021
+  ms.locfileid: "6070513"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-design-receipt.md)]"

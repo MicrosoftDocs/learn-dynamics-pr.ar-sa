@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-cost-accounting-supply-chains-dyn365-finance
+metadata:
+  title: بدء استخدام محاسبة التكاليف لسلاسل التوريد في Dynamics 365 Finance
+  description: تتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك.
+  ms.date: 12/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c65bd6f81dfa88eed7bf0537878c3203a6481ca1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074552"
+title: بدء استخدام محاسبة التكاليف لسلاسل التوريد في Dynamics 365 Finance
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك. \n"
+prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n - القدرة على استخدام Finance للمعالجة الأساسية\n - الفهم العام لسيناريوهات الأمر إلى النقد\n - الفهم العام لسيناريوهات الشراء إلى الدفع\n - الفهم العام لتكاليف المخزون والمستودع \n - الفهم العام لتكاليف التصنيع\n"
+iconUrl: /learn/achievements/get-started-cost-accounting-supply-chains-dyn365-finance.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-with-cost-accounting-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.get-started-cost-accounting-supply-chains-dyn365-finance.trophy

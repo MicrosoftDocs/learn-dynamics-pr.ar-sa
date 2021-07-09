@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-commerce.14-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: f51f3197c6743346e79cddd209c18e063f625f57
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070074"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما هو المكون الذي يطلب منك كتابة الملحق الخاص بك في التجميع الخاص بك؟
+    choices:
+    - content: نقطة البيع (POS)
+      isCorrect: false
+      explanation: ملحقات نقطة البيع هي ملحقات UX، مثل عناصر التحكم المخصصة وأزرار الأشرطة، بحيث لا تحتاج إلى كتابتها في التجميع الخاص بها.
+    - content: Commerce runtime (CRT)
+      isCorrect: true
+      explanation: عند تمديد CRT، يجب عليك كتابة الملحق الخاص بك في التجميع الخاص بك. بعد كتابة ملحق المشغل في التجميع الخاص بك، يجب نسخ مكتبة الملحق إلى مجلد صندوق Commerce Scale Unit وإضافة إدخال في مقطع التكوين من ملف commerceRuntime.config لـ CRT بحيث يتم تحميل المشغل في وقت التشغيل.
+    - content: Retail Server
+      isCorrect: false
+      explanation: يستخدم Retail Server وكيلاً لاستهلاك الإجراءات من ملحقات CSU.
+  - content: أي من الملحقات التالية لا يمكن إضافتها في طرق عرض نقطة البيع التي تحتوي على شبكة؟
+    choices:
+    - content: الأعمدة المخصصة
+      isCorrect: false
+      explanation: يمكن إضافة الأعمدة المخصصة في الشبكة، بنفس طريقة أعمدة نقطة البيع القياسية.
+    - content: عناصر التحكم المخصصة
+      isCorrect: true
+      explanation: لا يمكن إضافة عناصر التحكم المخصصة إلى الشبكة لأن عناصر التحكم تتطلب مساحة أكبر وسيصبح من الصعب الحفاظ على طريقة العرض.
+    - content: أزرار شريط التطبيقات
+      isCorrect: false
+      explanation: يمكن إضافة أزرار شريط التطبيقات في أي من طرق العرض، وبالتالي لا تنطوي على أي قيود.

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.12-create-entity-backed-financial-dimension
+title: إنشاء بُعد مالي مدعوم بالكيان
+metadata:
+  title: إنشاء بُعد مالي مدعوم بالكيان
+  description: توضح هذه الوحدة كيفية إنشاء بُعد مالي مدعوم بالكيان في Dynamics 365 Finance.
+  ms.date: 02/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a424b868671c810de73b84af6b704dff60bf0189
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070942"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/12-create-entity-backed-financial-dimension.md)]

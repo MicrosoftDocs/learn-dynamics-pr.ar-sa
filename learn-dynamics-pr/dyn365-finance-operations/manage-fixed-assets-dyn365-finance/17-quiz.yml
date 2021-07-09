@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.17-manage-fixed-assets-fo-quiz
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 3bcd346fd77b83c2b90d18de9ad8cf3e78467938
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070648"
+title: تحقق من مستوى معرفتك
+durationInMinutes: 9
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما معلمة الأصول الثابتة التي يجب تحديدها بحيث يمكن للمستخدم إنشاء أصل ثابت من أمر شراء؟
+    choices:
+    - content: السماح بالحصول على الأصل من الشراء
+      isCorrect: false
+      explanation: هذه ليست المعلمة التي يجب تحديدها لإنشاء أصل ثابت من أمر شراء.
+    - content: تقييد ترحيل امتلاك الأصول إلى مجموعة مستخدمين
+      isCorrect: false
+      explanation: هذه ليست المعلمة التي يجب تحديدها لإنشاء أصل ثابت من أمر شراء.
+    - content: إنشاء أصل أثناء ترحيل إيصال استلام المنتجات أو الفاتورة
+      isCorrect: true
+      explanation: يجب تحديد هذه المعلمة من قِبل المستخدم لإنشاء أصل ثابت من أمر شراء.
+    - content: مراعاة حد الرسملة
+      isCorrect: false
+      explanation: هذه ليست المعلمة التي يجب تحديدها لإنشاء أصل ثابت من أمر شراء.
+  - content: ما معلمة الأصول الثابتة التي يجب تحديدها للسماح بنشر عمليات امتلاك الأصول من فاتورة المورد؟
+    choices:
+    - content: السماح بالحصول على الأصل من الشراء
+      isCorrect: true
+      explanation: يجب تحديد هذه المعلمة للسماح بنشر عمليات امتلاك الأصول من فاتورة المورد.
+    - content: تقييد ترحيل امتلاك الأصول إلى مجموعة مستخدمين
+      isCorrect: false
+      explanation: هذه ليست المعلمة التي يجب تحديدها للسماح بنشر عمليات امتلاك الأصول من فاتورة المورد.
+    - content: إنشاء أصل أثناء ترحيل إيصال استلام المنتجات أو الفاتورة
+      isCorrect: false
+      explanation: هذه ليست المعلمة التي يجب تحديدها للسماح بنشر عمليات امتلاك الأصول من فاتورة المورد.
+    - content: مراعاة حد الرسملة
+      isCorrect: false
+      explanation: هذه ليست المعلمة التي يجب تحديدها للسماح بنشر عمليات امتلاك الأصول من فاتورة المورد.
+  - content: أي مما يلي ليس نوع حركة إهلاك؟
+    choices:
+    - content: الإهلاك
+      isCorrect: false
+      explanation: الإهلاك هو نوع حركة إهلاك.
+    - content: تسوية الإهلاك
+      isCorrect: false
+      explanation: تسوية الإهلاك هي أحد أنواع حركات الإهلاك.
+    - content: الإهلاك العادي
+      isCorrect: true
+      explanation: الإهلاك العادي ليس من ضمن حركات الإهلاك.
+    - content: الإهلاك الاستثنائي
+      isCorrect: false
+      explanation: الإهلاك الاستثنائي هو أحد أنواع حركات الإهلاك.

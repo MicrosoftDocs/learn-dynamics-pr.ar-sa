@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.8-exercise-configure-reservation-hierarchies
+title: مختبر - تكوين التدرجات الهرمية للحجوزات
+labId: 64130
+metadata:
+  title: مختبر - تكوين التدرجات الهرمية للحجوزات
+  description: تدرب على تكوين التدرجات الهرمية للحجوزات في Supply Chain Management.
+  ms.date: 04/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f95c41a995cf1bcac51d694ca1205fc1376fcb82
+  ms.sourcegitcommit: 92dc7d01a500c2ef16f130203f4ebfe1a7950200
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/28/2020
+  ms.locfileid: "6073577"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/8-exercise-configure-reservation-hierarchies.md)] \n[!include[](../includes/non-final-lab-end.md)]"

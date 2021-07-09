@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-retail-store-pos
+metadata:
+  title: تكوين متجر البيع بالتجزئة ونقطه البيع في Dynamics 365 Commerce
+  description: يتيح Dynamics 365 Commerce التكوين المركزي وإدارة قنوات Commerce المتعددة.
+  ms.date: 04/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b5b69ec531e970cf71b208b84be575327b0cdac1
+  ms.sourcegitcommit: 1644d13d1691ec90e3bea654b51d3c057fe7e697
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/25/2021
+  ms.locfileid: "6070512"
+title: تكوين متجر البيع بالتجزئة ونقطه البيع في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيتيح Dynamics 365 Commerce التكوين المركزي وإدارة قنوات Commerce المتعددة. تعتبر متطلبات عمليات تقليدية فريدة من نوعها مقارنة بقنوات Commerce الأخرى. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين ملفات التعريف وإنشاء السجلات والأجهزة.\n- تعرف على كيفية تصميم الإيصالات وتخطيطات الشاشة.\n- تعرف على كيفية تكوين بطاقة العامل وتعيين العمليات والأذونات.\n- تعرف على كيفية إنشاء متجر بيع بالتجزئة.\n- قم بتنشيط Modern POS ‏(MPOS) وCloud POS ‏(CPOS).\n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce والقنوات المختلفة
+
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/configure-point-sales-retail-store-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.configure-retail-store-pos.01-introduction
+- learn-dynamics.configure-retail-store-pos.02-create-registers-devices
+- learn-dynamics.configure-retail-store-pos.03-profiles
+- learn-dynamics.configure-retail-store-pos.04-design-screen
+- learn-dynamics.configure-retail-store-pos.05-design-receipt
+- learn-dynamics.configure-retail-store-pos.06-create-workers
+- learn-dynamics.configure-retail-store-pos.07-create-retail-store
+- learn-dynamics.configure-retail-store-pos.08-activate-modern-pos
+- learn-dynamics.configure-retail-store-pos.09-activate-cloud-pos
+- learn-dynamics.configure-retail-store-pos.10-exercise-1
+- learn-dynamics.configure-retail-store-pos.11-exercise-2
+- learn-dynamics.configure-retail-store-pos.12-exercise-3
+- learn-dynamics.configure-retail-store-pos.13-exercise-4
+- learn-dynamics.configure-retail-store-pos.14-check
+- learn-dynamics.configure-retail-store-pos.15-summary
+badge:
+  uid: learn-dynamics.configure-point-sales-retail-store-commerce.badge

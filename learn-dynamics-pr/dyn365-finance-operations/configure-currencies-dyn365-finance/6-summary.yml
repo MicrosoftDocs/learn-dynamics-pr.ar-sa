@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-currencies-in-dynamics-365-finance-ops.6-configure-currencies-in-f-and-o-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص لكيفية تكوين واستيراد أسعار صرف العملات في Dynamics 365 Finance
+  ms.date: 02/22/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 98cb93e7b204cbc6795fc75beebd2bd8548d57b9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070658"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-configure-currencies-in-f-and-o-summary.md)]

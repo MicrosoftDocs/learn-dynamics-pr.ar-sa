@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-fixed-kanbans.5-kanban-quantity-calculations-circulating-kanbans
+title: عمليات حساب كمية كانبان وبطاقات كانبان المتداولة
+metadata:
+  title: عمليات حساب كمية كانبان وبطاقات كانبان المتداولة
+  description: يوضح هذا الدرس كيفية العمل باستخدام عمليات حساب كمية كانبان في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ed20c90147313987498d004e9f61e6d5c1c2d6c4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073111"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-kanban-quantity-calculations-circulating-kanbans.md)]

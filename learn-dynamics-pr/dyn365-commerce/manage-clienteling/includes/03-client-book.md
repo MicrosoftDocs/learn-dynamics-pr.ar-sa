@@ -1,0 +1,22 @@
+---
+ms.openlocfilehash: b1d9c25efc7125441af862e43017c636692883ed
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070226"
+---
+<span data-ttu-id="0656f-101">يساعد Commerce منظمي المبيعات في تكوين علاقات طويلة الأمد مع العملاء الرئيسيين.</span><span class="sxs-lookup"><span data-stu-id="0656f-101">Commerce helps sales associates form long-term relationships with key customers.</span></span> <span data-ttu-id="0656f-102">ويُعد دفتر العميل إحدى الطرق الفعالة في إقامة علاقات مع العملاء التي تساعد في هذه المهمة.</span><span class="sxs-lookup"><span data-stu-id="0656f-102">The Client Book is a clienteling capability that helps with this task.</span></span>
+
+<span data-ttu-id="0656f-103">يعرض دفتر العميل معلومات الاتصال لكل عميل، بما في ذلك ثلاث خصائص إضافية تم تحديدها في المركز الرئيسي لـ Commerce استناداً إلى أهم ثلاث رؤى يجب أن يعرفها شركاء المبيعات عن العملاء.</span><span class="sxs-lookup"><span data-stu-id="0656f-103">The Client Book shows contact information for each customer, including three additional properties that are defined in Commerce Headquarters based on the three most important insights that the sales associates should know about the customers.</span></span> 
+
+<span data-ttu-id="0656f-104">على سبيل المثال، يهتم تاجر تجزئة في مجال الموضة بالعلامات التجارية المفضلة لدى المتسوقين، بينما قد يرغب تاجر التجزئة للساعات في معرفة التواريخ المهمة، مثل أعياد الميلاد، لأنها هدية نموذجية لمثل هذه المناسبات.</span><span class="sxs-lookup"><span data-stu-id="0656f-104">For example, a fashion retailer is interested in shoppers’ preferred brands, while a watch retailer might want to know important dates, such as birthdays, because it’s a typical present for such occasions.</span></span> 
+
+<span data-ttu-id="0656f-105">يتيح لك دفتر العميل تصفية العملاء بناءً على المعايير.</span><span class="sxs-lookup"><span data-stu-id="0656f-105">The Client Book lets you filter customers based on criteria.</span></span> 
+
+<span data-ttu-id="0656f-106">على سبيل المثال، وصلت مجموعة جديدة من حقائب اليد إلى المتجر، وتريد الاتصال بعملائك الذين أظهروا انجذاباً إلى هذه المنتجات في الماضي.</span><span class="sxs-lookup"><span data-stu-id="0656f-106">For example, a new collection of handbags has arrived in the store, and you want to contact your customers who have shown affinity to such products in the past.</span></span> 
+
+<span data-ttu-id="0656f-107">يعرض دفتر العميل مجموعة من العملاء الذين ينتمون إلى منظم واحد أو مجموعة من المنظمين.</span><span class="sxs-lookup"><span data-stu-id="0656f-107">The Client Book shows a collection of customers who belong to one associate or a group of associates.</span></span> <span data-ttu-id="0656f-108">الفكرة هي أن تجار التجزئة المتميزين يمكن أن يكون لديهم نهج شخصي للعملاء الرئيسيين والسماح دائماً للمنظمين ذاتهم بالتواصل مع العميل لخلق هذا الشعور بوجود متسوق شخصي.</span><span class="sxs-lookup"><span data-stu-id="0656f-108">The idea is that high-end retailers can have a personalized approach to key customers and always let the same associates communicate with the customer to create this feeling of having a personal shopper.</span></span> <span data-ttu-id="0656f-109">لذلك، فإن دفتر العميل هو المكان المناسب للحفاظ على هؤلاء العملاء معاً لفهم شخصياتهم والمعلومات الأساسية المتعلقة بهم.</span><span class="sxs-lookup"><span data-stu-id="0656f-109">Therefore, the Client Book is the place to keep these customers together to understand who they are and the key information about them.</span></span> 
+
+<span data-ttu-id="0656f-110">من حين لآخر، لا يكون الاتصال الفردي مع العميل هو الخيار المفضل، بدلاً من ذلك، تتم إدارة مجموعة من العملاء الرئيسيين على مستوى المتجر.</span><span class="sxs-lookup"><span data-stu-id="0656f-110">Occasionally, a one-to-one connection with the customer is not a preferred option; rather, a group of key customers are managed on a store level.</span></span> <span data-ttu-id="0656f-111">في هذا السيناريو، يمكن أن يعرض دفتر العميل قائمة بجميع العملاء الذين تتم إدارتهم بواسطة جميع منظمي المبيعات في متجر معين.</span><span class="sxs-lookup"><span data-stu-id="0656f-111">In this scenario, the Client Book can show the list of all customers who are managed by all sales associates of a specific store.</span></span> 
+ 

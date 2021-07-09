@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.work-merchandising
+metadata:
+  title: التعامل مع الترويج في Dynamics 365 Commerce
+  description: Dynamics 365 Commerce هو حل ترويج شامل يمكن استخدامه لإدارة دورة حياة المنتج من الإنشاء إلى الصيانة والتوزيع والنشر عبر قنوات Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 6a766ce3fe6c3ec727e31db38d37976abb5677c9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070255"
+title: التعامل مع الترويج في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nDynamics 365 Commerce هو حل ترويج شامل يمكن استخدامه لإدارة دورة حياة المنتج من الإنشاء إلى الصيانة والتوزيع والنشر عبر قنوات Commerce. يمكن إكمال عمليات المنتجات والترويج باستمرار باستخدام تدفقات العمل المضمنة وصفحات واجهة المستخدم.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على معلومات حول الترويج الشامل في Dynamics 365 Commerce.\n- اكتشف كيفية تكوين منتجات Commerce.\n- يمكنك إنشاء كتالوجات وإدارة صور المنتج.\n- تعرف على كيفية التعامل مع السمات والمجموعات.\n"
+prerequisites: >
+  - المعرفة الأساسية لعمليات البيع بالتجزئة وDynamics 365 Commerce
+iconUrl: /learn/achievements/work-merchandising-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.work-merchandising.01-introduction
+- learn-dynamics.work-merchandising.02-product-management
+- learn-dynamics.work-merchandising.03-product-categories
+- learn-dynamics.work-merchandising.04-product-attributes
+- learn-dynamics.work-merchandising.05-product-assortments-catalogs
+- learn-dynamics.work-merchandising.06-retail-product-kits
+- learn-dynamics.work-merchandising.07-manage-product-images
+- learn-dynamics.work-merchandising.08-exercise-1
+- learn-dynamics.work-merchandising.09-exercise-2
+- learn-dynamics.work-merchandising.10-check
+- learn-dynamics.work-merchandising.11-summary
+badge:
+  uid: learn-dynamics.work-merchandising-commerce.badge

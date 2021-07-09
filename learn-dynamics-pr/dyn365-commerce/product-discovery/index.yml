@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.product-discovery
+metadata:
+  title: اكتشاف المنتج في Dynamics 365 Commerce
+  description: يعد اكتشاف المنتج في Dynamics 365 Commerce طريقة سريعة وبسيطة لعملاء التجزئة لاكتشاف المنتجات من خلال استعراض الفئات واستخدام البحث والتصفية.
+  ms.date: 06/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 1e0663f121ac49dcdb101533d6a00ce7ec42a440
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070263"
+title: اكتشاف المنتج في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \n\nيعد اكتشاف المنتج في Dynamics 365 Commerce طريقة سريعة وبسيطة لعملاء التجزئة لاكتشاف المنتجات من خلال استعراض الفئات واستخدام البحث والتصفية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على اكتشاف المنتج ومزاياه.\n- التعرف على أنواع اكتشاف المنتج.\n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce
+iconUrl: /learn/achievements/product-discovery-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.product-discovery.01-introduction
+- learn-dynamics.product-discovery.02-types
+- learn-dynamics.product-discovery.03-check
+- learn-dynamics.product-discovery.04-summary
+badge:
+  uid: learn-dynamics.product-discovery-commerce.badge

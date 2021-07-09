@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-inventory-closing-adjustment
+title: إقفال المخزون وتعديله
+metadata:
+  title: إقفال المخزون وتعديله
+  description: تصف هذه الوحدة إقفال المخزون وتعديله في ‏‫Supply Chain Management‬.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/cost-management/inventory-close
+  ms.openlocfilehash: 836b8493f2d20c6ee8718af2d5ab55943b736a4b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073237"
+durationInMinutes: 18
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/17-inventory-closing-adjustment.md)]

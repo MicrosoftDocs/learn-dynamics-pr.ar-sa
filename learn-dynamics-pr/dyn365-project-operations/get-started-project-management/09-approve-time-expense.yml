@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-management.09-approve-time-expense
+title: الموافقة على الوقت والمصروفات
+metadata:
+  title: الموافقة على الوقت والمصروفات
+  description: تعرّف على كيفية الموافقة على الوقت والمصروفات في Dynamics 365 Project Operations.
+  ms.date: 04/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: a48bcebf953d143f63841570a758dc7edb2d86a8
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072870"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-approve-time-expense.md)]"

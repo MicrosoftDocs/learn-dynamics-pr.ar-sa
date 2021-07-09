@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-basic-budgeting-budget-control-in-dynamics-365-finance-ops.11-inquires-reports-budget-analysis
+title: استخدام الاستعلامات والتقارير لتحليل الموازنة
+metadata:
+  title: استخدام الاستعلامات والتقارير لتحليل الموازنة
+  description: تصف هذه الوحدة كيفية استخدام الاستعلامات والتقارير الخاصة بتحليل الموازنة في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ca94af8023b83295a1d26e1a09be499741e419fd
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070561"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-inquires-reports-budget-analysis.md)]

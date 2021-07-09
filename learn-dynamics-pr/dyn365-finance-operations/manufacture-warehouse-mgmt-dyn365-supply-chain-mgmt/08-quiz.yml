@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manufacture-wms-dyn365-fo.08-manufacture-wms-quiz
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 05/06/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 92a9ab6dae01e3901fbe5c46a85f47984f2d5ae5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073387"
+title: تحقق من مستوى معرفتك
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من خيارات الإعداد التالية للمواد الخام في عمليات المسار اختياري في النظام؟
+    choices:
+    - content: إقران الأصناف في BOM
+      isCorrect: false
+      explanation: يُعد إقران الأصناف في BOM أحد خيارات الإعداد اللازمة للمواد الخام في عمليات المسار.
+    - content: تحديد متطلبات الموارد على المسار
+      isCorrect: false
+      explanation: يُعد تحديد متطلبات الموارد على المسار أحد خيارات الإعداد اللازمة للمواد الخام في عمليات المسار.
+    - content: تعيين فئة العمل
+      isCorrect: false
+      explanation: يُعد تعيين فئة العمل أحد خيارات الإعداد اللازمة للمواد الخام في عمليات المسار.
+    - content: تحديد موقع الإدخال الافتراضي للمستودع
+      isCorrect: true
+      explanation: يُعد تحديد موقع الإدخال الافتراضي للمستودع أمراً اختيارياً.
+  - content: لانتقاء المواد الخام مبدآن من مبادئ الانتقاء - انتقاء الأمر والتدريج. ما المبدأ المستخدم لانتقاء الكمية الكاملة على لوحة الترخيص المنتقاة؟
+    choices:
+    - content: انتقاء الأمر
+      isCorrect: false
+      explanation: يُستخدم انتقاء الأمر عندما يجري انتقاء الكمية المطلوبة.
+    - content: التدريج
+      isCorrect: true
+      explanation: يُستخدم التدريج عندما يجري نقل الكمية الكاملة في لوحة الترخيص المنتقاة.

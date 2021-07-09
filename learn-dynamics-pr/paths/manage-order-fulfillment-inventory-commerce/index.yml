@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-order-fulfillment-inventory-commerce
+metadata:
+  title: إدارة تنفيذ الأوامر والمخزون في Dynamics 365 Commerce
+  description: تلعب إدارة المخزون الفعالة دوراً مهماً في صناعة البيع بالتجزئة.
+  ms.date: 07/20/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 31d77567eca8ce44875b368b8aad18ba4bcf0f93
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074544"
+title: إدارة تنفيذ الأوامر والمخزون في Dynamics 365 Commerce
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  تلعب الإدارة الفعالة للمخزون دوراً مهماً في صناعة التجزئة، حيث يمكن أن يكون للقدرة على الحصول على عرض محدث للمخزون الحالي ونقل البضائع وتسجيلها بسهولة تأثير كبير على نجاح بائع التجزئة في خدمة العملاء وزيادة إيرادات المبيعات.
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - فهم قنوات Commerce وقدراتها على تنفيذ الأوامر
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+iconUrl: /learn/achievements/manage-order-fulfillment-inventory-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.manage-store-inventory-commerce
+- learn-dynamics.configure-work-order-fulfillment
+trophy:
+  uid: learn-dynamics.manage-order-fulfillment-inventory-commerce.trophy

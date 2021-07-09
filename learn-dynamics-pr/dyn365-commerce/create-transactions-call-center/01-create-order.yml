@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-call-center.01-create-order
+title: إنشاء أمر مركز اتصال
+metadata:
+  title: إنشاء أمر مركز اتصال
+  description: توضح هذه الوحدة كيفية إنشاء أمر مركز اتصال في Commerce
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: af85c0d4d0f28fad12865088fbd7cc18aeedf4c1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070340"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-create-order.md)]"

@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-invoicing-project-operations.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: a5c8e0360a98b8cdc6fdec742bf67dfce341ea53
+  ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/11/2021
+  ms.locfileid: "6072942"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أنت مدير مشروعات يعمل في شركة Fabrikam. عادةً ما تقوم مؤسستك بإنشاء فواتير في اليوم الأول والخامس عشر من كل شهر. ومع ذلك، فإن المدير المالي يريد منك إنشاء فاتورة لعقد مشروع Adventure Works على الفور. فماذا تفعل؟
+    choices:
+    - content: حدد المرحلة الرئيسية للمشروع الفردي ثم حددها على أنها جاهزة للفاتورة.
+      isCorrect: false
+      explanation: لا يقوم هذا الاجراء بإنشاء الفاتورة على الفور.
+    - content: إنشاء فاتورة جديدة من صفحة قائمة الفواتير في Project Operations.
+      isCorrect: false
+      explanation: لا يمكنك إنشاء الفاتورة فوراً من صفحة قائمة الفواتير في Project Operations. يمكنك القيام بذلك فقط في المبيعات.
+    - content: في صفحة قائمة عقود المشروع، افتح عقد المشروع ثم حدد إنشاء فاتورة.
+      isCorrect: true
+      explanation: يقوم هذا الاجراء بإنشاء الفاتورة على الفور.
+    - content: تكوين إنشاء فاتورة تلقائية من الإعدادات > إعداد الفاتورة المتكررة.
+      isCorrect: false
+      explanation: لا يقوم هذا الاجراء بإنشاء الفاتورة على الفور.
+  - content: أين يتم إنشاء الفواتير الأولية للمشروع؟
+    choices:
+    - content: في دفتر يومية التكامل‬ ‫في قسم الشؤون المالية
+      isCorrect: false
+      explanation: لا يتم إنشاء الفواتير الأولية للمشروع في قسم الشؤون المالية.
+    - content: في منطقة المبيعات في تطبيق Project Operations
+      isCorrect: true
+      explanation: لا يمكن إنشاء الفواتير الأولية للمشروع إلا في منطقة المبيعات في Project Operations.
+    - content: في منطقة المبيعات في قسم المبيعات
+      isCorrect: false
+      explanation: لا يتم إجراء الفواتير الأولية للمشروع في منطقة المبيعات في قسم المبيعات.
+    - content: في مقترح فاتورة المشروع في قسم الشؤون المالية
+      isCorrect: false
+      explanation: لا يتم إنشاء الفواتير الأولية للمشروع في قسم الشؤون المالية.
+  - content: أين يمكنك العثور على جميع القيم الفعلية للمبيعات التي لم يتم تحرير فواتير بها عبر جميع عقود المشروع؟
+    choices:
+    - content: قائمة فاتورة أمر المبيعات
+      isCorrect: false
+      explanation: لن تجد جميع القيم الفعلية للمبيعات التي لم يتم تحرير فواتير بها عبر جميع عقود المشروع في قائمة فاتورة أمر المبيعات.
+    - content: قائمة المراحل الرئيسية للأسعار الثابتة
+      isCorrect: false
+      explanation: لن تجد جميع القيم الفعلية للمبيعات التي لم يتم تحرير فواتير بها عبر جميع عقود المشروع في قائمة المراحل الرئيسية للأسعار الثابتة.
+    - content: تراكم فوترة الوقت والمواد
+      isCorrect: true
+      explanation: ستجد جميع القيم الفعلية للمبيعات التي لم يتم تحرير فواتير بها والتي لم يتم تحرير فواتيرها عبر جميع عقود المشروع في وقت تراكم فوترة ‏‫الوقت والمواد.
+    - content: قائمة دفتر يومية التكامل
+      isCorrect: false
+      explanation: لن تجد جميع القيم الفعلية للمبيعات التي لم يتم تحرير فواتير بها عبر جميع عقود المشروع في قائمة دفتر يومية التكامل.

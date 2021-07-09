@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.10-1-vendor-invoice-workflow
+title: سير عمل فاتورة المورد
+metadata:
+  title: سير عمل فاتورة المورد
+  description: تصف هذه الوحدة سير عمل فاتورة المورد في Dynamics 365 Finance.
+  ms.date: 01/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ea1b917a4adaca7abb9d88f475e3debbb86d2c2d
+  ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/28/2021
+  ms.locfileid: "6071020"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-1-vendor-invoice-workflow.md)]

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-use-budget-planning
+metadata:
+  title: تكوين تخطيط الموازنة واستخدامه في Dynamics 365 Finance
+  description: توفر هذه الوحدة معلومات حول كيفية تكوين واستخدام عمليات تخطيط الموازنة.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 61cfba3c162ea968fa3cdc515270ef70c88bc7d7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070777"
+title: تكوين تخطيط الموازنة واستخدامه في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nمع الطبيعة التعاونية والقائمة على العملية لوظيفة تخطيط الموازنة في Dynamics 365 Finance، يمكنك جعل عملية موانتك أكثر كفاءة وتضمين المزيد من الأشخاص في العملية، كل ذلك مع تقليل عدد الملفات التي يتم إرسالها عبر البريد الإلكتروني وتقليل الإدخال اليدوي. تخطيط الموازنة هو أداة تجلب تحسينات على حلك الحالي للموازنات المستند إلى Microsoft Excel.  \n"
+abstract: >
+  سوف تتعرف في هذه الوحدة على كيفية:
+
+  - تكوين مكونات تخطيط الموازنة
+prerequisites: >
+  - فهم أساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية
+
+  - فهم أساسي لإعداد الموازنات
+iconUrl: /learn/achievements/configure-and-use-budget-planning-processes-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-use-budget-planning.1-introduction-budget-planning
+- learn-dynamics.configure-use-budget-planning.2-configure-budget-planning-components
+- learn-dynamics.configure-use-budget-planning.3-exercise-configure-budget-planning
+- learn-dynamics.configure-use-budget-planning.4-knowledge-check
+- learn-dynamics.configure-use-budget-planning.5-summary
+badge:
+  uid: learn.configure-and-use-budget-planning-processes-in-dynamics-365-finance-ops.badge

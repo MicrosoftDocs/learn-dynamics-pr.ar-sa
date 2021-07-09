@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-statement-posting.04-near-real-time-order-creation
+title: العمل مع إنشاء الأوامر في الوقت الحقيقي تقريباً
+metadata:
+  title: العمل مع إنشاء الأوامر في الوقت الحقيقي تقريباً
+  description: تعرف على كيفية العمل مع إنشاء الأوامر في الوقت الحقيقي تقريباً في Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: fbfa611caf796acd1e304e013b0fb22762824758
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070205"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-near-real-time-order-creation.md)]"

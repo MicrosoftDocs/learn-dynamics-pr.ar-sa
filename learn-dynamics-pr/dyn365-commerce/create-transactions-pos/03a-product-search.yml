@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-pos.03a-product-search
+title: البحث عن المنتج والعميل في نقطة البيع
+metadata:
+  title: البحث عن المنتج والعميل في نقطة البيع
+  description: تعرف على البحث عن المنتج والعميل في نقطة البيع.
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 75b0c8db1b3460d560a68d5f0a831be4a77233e4
+  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2021
+  ms.locfileid: "6070518"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03a-product-search.md)]"

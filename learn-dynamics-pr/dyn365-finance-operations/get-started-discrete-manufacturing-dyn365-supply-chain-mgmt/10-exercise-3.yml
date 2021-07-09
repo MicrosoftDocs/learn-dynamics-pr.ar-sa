@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.10-exercise-create-bom-with-version
+title: 'تدريب: إنشاء قائمة مكونات الصنف باستخدام إصدار'
+metadata:
+  title: 'تدريب: إنشاء قائمة مكونات الصنف باستخدام إصدار'
+  description: تدرب على إنشاء قائمة مكونات الصنف باستخدام إصدار في Supply Chain Management.
+  ms.date: 03/27/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0e01d56867c6faf254bb0d78e748847aa00b207a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073425"
+durationInMinutes: 13
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-exercise-create-bom-with-version.md)]

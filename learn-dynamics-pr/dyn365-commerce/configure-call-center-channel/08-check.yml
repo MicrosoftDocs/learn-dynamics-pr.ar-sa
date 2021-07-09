@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-call-center-channel.08-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b85a043e7a608b7712a61c7b4ba659ab13afd37e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070366"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الخطوة الضرورية التالية التي تلي ربط قناة مركز الاتصال الخاص بك بوضع التسليم بحيث يمكن استخدامها في أثناء إدخال الأمر؟
+    choices:
+    - content: تشغيل الوظيفة الدفعية "معالجة أوضاع تسليم".
+      isCorrect: true
+      explanation: يؤدي تشغيل الوظيفة الدفعية "معالجة أوضاع التسليم" إلى تعيين وضع تسليم لمجموعات مركز الاتصال والمنتج والعنوان ذات الصلة.
+    - content: إنشاء طريقة دفع.
+      isCorrect: false
+      explanation: لا يرتبط إنشاء طريقة الدفع بتعيين أوضاع التسليم لمركز الاتصال.
+    - content: تعيين مركز الاتصال للتدرج الهرمي للمؤسسات.
+      isCorrect: false
+      explanation: يجب أن يتم تعيين مركز اتصال للتدرج الهرمي للمؤسسات قبل إنشاء وضع التسليم.
+    - content: تشغيل الوظائف الدفعية في جدول التوزيع.
+      isCorrect: false
+      explanation: لا يرتبط تشغيل الوظائف الدفعية في جدول التوزيع بوضع التسليم.
+  - content: في مركز الاتصال، ما الذي يفرضه الخيار "تمكين معالجة إكمال الطلب"؟
+    choices:
+    - content: ميزة الأصناف الإضافية والمكملة
+      isCorrect: false
+      explanation: يتم فرض ميزة الأصناف الإضافية والمكملة من خلال الخيار "تمكين البيع المباشر".
+    - content: التقاط منطق التحقق من صحة الدفع والدفع
+      isCorrect: true
+      explanation: يفرض الخيار "تمكين معالجة إكمال الطلب" في مركز الاتصال التقاط منطق التحقق من صحة الدفع والدفع.
+    - content: المستخدمون المخولون لتغيير السعر في سطر أمر المبيعات
+      isCorrect: false
+      explanation: يمكن للمستخدمين المخولين تغيير السعر في سطر أمر المبيعات عند تعيين الخيار "تمكين التحكم في سعر الأمر" على "نعم".

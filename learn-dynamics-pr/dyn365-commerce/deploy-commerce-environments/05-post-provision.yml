@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-commerce-environments.05-post-provision
+title: تنفيذ خطوات ما بعد التزويد
+metadata:
+  title: تنفيذ خطوات ما بعد التزويد
+  description: توضح هذه الوحدة كيفية خطوات ما بعد التزويد
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 5ea66a4b744f7308ce7869cd419a7e49c102c0b6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070102"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-post-provision.md)]"

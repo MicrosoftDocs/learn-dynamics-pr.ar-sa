@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.33-configure-discrete-manufacturing-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين التصنيع المنفصل في الوحدة النمطية Dynamics 365 Supply Chain Management
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c2922fdfba7fb6762c52bf72ec927957405d4255
+  ms.sourcegitcommit: a75654cf38878575ac4c290f791ccd70a36b59ff
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/02/2020
+  ms.locfileid: "6073621"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/33-configure-discrete-manufacturing-summary.md)]

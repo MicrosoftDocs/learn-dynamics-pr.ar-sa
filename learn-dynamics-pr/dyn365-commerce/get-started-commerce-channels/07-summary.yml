@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-commerce-channels.07-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: تقدم هذه الوحدة ملخصاً لوحدة الشروع في العمل بقنوات Dynamics 365 Commerce
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 88e154df2cfdc46074826d9f420e3ac36eb6a88d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070143"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-summary.md)]"

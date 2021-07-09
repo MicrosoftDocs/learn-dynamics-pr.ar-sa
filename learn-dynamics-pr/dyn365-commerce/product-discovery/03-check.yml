@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.product-discovery.03-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 3ba0bf47373defacb8996f85c4f19dc3ffa5cb53
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070134"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية يحدد اكتشاف المنتج في Dynamics 365 Commerce؟
+    choices:
+    - content: فرز المنتجات
+      isCorrect: false
+      explanation: تعد القدرة على فرز المنتجات جزءاً من عملية اكتشاف المنتجات، ولكنها ليست العملية بالكامل.
+    - content: أداه أساسية لتفاعل العميل
+      isCorrect: true
+      explanation: يعد اكتشاف المنتج أداة أساسية لتفاعل العميل تتضمن البحث عن المنتجات وفرزها وتصفيتها واستعراضها.
+    - content: البحث المدعوم من المجموعة
+      isCorrect: false
+      explanation: يتم استخدام البحث المدعوم من المجموعة لتوفير نتائج بحث سريعة وذات صلة.
+  - content: يمكّنك البحث المستند إلى السمات من القيام بأي من المهام التالية؟
+    choices:
+    - content: تعيين معايير إضافية للبحث الخاص بك
+      isCorrect: true
+      explanation: يوفر البحث المستند إلى السمات خيار استخدام سمات المنتج لتحسين مجموعة النتائج بشكل أكبر.
+    - content: فصل المنتجات في فئات
+      isCorrect: false
+      explanation: يتيح البحث المستند إلى السمات للعميل تحديد موقع المنتجات ولكن دون تنظيمها في فئات.
+    - content: العثور على جميع سمات المنتج
+      isCorrect: false
+      explanation: يتيح البحث المستند إلى السمات للعميل تحديد موقع المنتجات استناداً إلى سماتها، ولكنه لا يوفر خيار العثور على جميع سمات المنتج.
+  - content: كيف يزودك Commerce بأداء بحث محسَّن؟
+    choices:
+    - content: عن طريق التحميل المسبق لقائمة المنتجات
+      isCorrect: false
+      explanation: سيكون استرداد جميع بيانات المنتج لإجراء بحث غير فعال نظراً للعدد الكبير المحتمل من المنتجات.
+    - content: عن طريق تقييد عدد المنتجات
+      isCorrect: false
+      explanation: تقييد عدد المنتجات في Commerce ليس خياراً لأن Commerce مصمم للتوسع وفقاً لاحتياجات العملاء.
+    - content: من خلال التكامل مع Bing
+      isCorrect: true
+      explanation: يتكامل Commerce مع Bing لتوفير أداء بحث محسَّن واكتشاف متسق للمنتج وتجارب بحث محسّنة عبر جميع قنوات Commerce.

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-expense-reports.02-create-expense-report
+title: إنشاء تقرير المصروفات
+metadata:
+  title: إنشاء تقرير المصروفات
+  description: تعرّف على كيفية إنشاء تقرير مصروفات في Dynamics 365 Project Operations.
+  ms.date: 11/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 9e9a76a5a7b58fd79f311914d511e6bc68a5e873
+  ms.sourcegitcommit: 8a2fdbfa638a3ada8569777c0f1b408a6839504f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "6072740"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create-expense-report.md)]"

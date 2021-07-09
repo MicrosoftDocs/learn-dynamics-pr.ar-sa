@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-hierarchies.04-create-product-hierarchies
+title: إنشاء التدرجات الهرمية للمنتجات وتعيين المنتجات
+metadata:
+  title: إنشاء التدرجات الهرمية للمنتجات وتعيين المنتجات
+  description: تعرف على كيفية إنشاء التدرجات الهرمية للمنتجات وتعيين المنتجات بتنسيق Dynamics 365 Commerce.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 3f5a1e863b06f80966c831d3d3de1acc5d9f678e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070209"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-create-product-hierarchies.md)]"

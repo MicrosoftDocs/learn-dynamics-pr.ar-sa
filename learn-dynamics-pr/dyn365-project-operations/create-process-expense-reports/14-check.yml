@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-expense-reports.14-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 11/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: cf047fe147311b1fcf04504bb8a39ae95a832ef7
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072804"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: عند إنشاء نهج مصروفات، أي من أنواع النهج التالية غير متاح لك لتحديده؟
+    choices:
+    - content: التحذير
+      isCorrect: false
+      explanation: يُتيح التحذير للعامل إرسال تقرير مصروفات أو طلب سفر، ولكن سيتم تمييز المصروفات لجميع الموافقين وللإبلاغ عنها لاحقاً.
+    - content: توقف نهائي
+      isCorrect: true
+      explanation: لا يُعد التوقف النهائي أحد أنواع النهج.
+    - content: الخطأ
+      isCorrect: false
+      explanation: يتطلب نهج الخطأ من العامل مراجعة المصروفات للامتثال للسياسة قبل إرسال تقرير المصروفات أو طلب السفر.
+    - content: التبرير‬‏‫
+      isCorrect: false
+      explanation: يتطلب نهج التبرير من العامل أو المدير إدخال تبرير لتجاوز مبلغ السياسة قبل إرسال تقرير المصروفات أو طلب السفر.
+  - content: هل صحيح أنه عند إضافة ضيف إلى حساب، يتذكر النظام الضيوف الذين تمت إضافتهم مسبقاً إلى تقارير المصروفات الأخرى؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: يمكنك الاختيار من قائمة الضيوف التي أضفتها إلى التقارير السابقة، كما تتوفر قائمة زملاء العمل للاختيار منها.
+    - content: لا
+      isCorrect: false
+      explanation: يمكنك الاختيار من قائمة الضيوف التي أضفتها إلى التقارير السابقة، كما تتوفر قائمة زملاء العمل للاختيار منها.
+  - content: هل صحيح أنه عند إنشاء تفويض لإدارة الموافقات الخاصة بك أثناء قضاء إجازتك، يلزم وجود تاريخ "من" و"إلى"؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: يعتبر تاريخ "من" و"إلى" إلزامياً عند إعداد تفويض.
+    - content: لا
+      isCorrect: false
+      explanation: يعتبر تاريخ "من" و"إلى" إلزامياً عند إعداد تفويض.
+  - content: ما هو تقرير إدارة المصروفات الذي يعرض كافة تقارير المصروفات التي تم إكمالها بواسطة كل اسم عامل وتفاصيل فئة المصروفات؟
+    choices:
+    - content: تفاصيل فئة المصروفات
+      isCorrect: false
+      explanation: هذا ليس تقريراً في إدارة المصروفات.
+    - content: المصروفات الشخصية
+      isCorrect: false
+      explanation: يقدم تقرير المصروفات الشخصية تفاصيل أي نفقات شخصية تتم إضافتها إلى تقرير المصروفات.
+    - content: أنواع المصروفات حسب الموظف
+      isCorrect: true
+      explanation: تحتوي أنواع المصروفات لكل موظف على تفاصيل كافة تقارير المصروفات لكل موظف، بالإضافة إلى تفاصيل الفئة/البند.

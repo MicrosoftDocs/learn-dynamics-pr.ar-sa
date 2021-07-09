@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-customer-engagement.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: f5d97bb7ab57de516e30cbda9509d9da16bb8f65
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070224"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يمكن استخدام بطاقات الهدايا كوسيلة للدفع في أي من القنوات التالية؟
+    choices:
+    - content: نقطة البيع الحديثة ونقطة البيع السحابية فقط
+      isCorrect: false
+      explanation: تمثل ‏‫نقطة البيع الحديثة ونقطة البيع السحابية متجر البيع بالتجزئة. يمكن استخدام بطاقات الهدايا في المتاجر التقليدية، ولكن يمكن استخدامها أيضاً في القنوات الأخرى
+    - content: جميع قنوات Commerce
+      isCorrect: true
+      explanation: يمكن استخدام بطاقات الهدايا كوسيلة دفع القناة متعددة الاتجاهات في جميع قنوات Commerce.
+    - content: موقع التجارة الإلكترونية ومركز الاتصال فقط
+      isCorrect: false
+      explanation: يمكن استخدام بطاقات الهدايا في موقع التجارة الإلكترونية ومركز الاتصال، ولكن يمكن استخدامها أيضاً في متاجر التجزئة الأخرى التابعة لقنوات Commerce.
+  - content: يتم استخدام فترات التاريخ لتحديد أي من الخيارات التالية؟
+    choices:
+    - content: فترة الصلاحية الخاصة بمستويات برنامج الولاء
+      isCorrect: true
+      explanation: تُظهر فترات التاريخ فترة صلاحية مستويات الولاء. وهي غير قابلة للتطبيق إذا كان برنامج الولاء الخاص بك لا يحتوي على مستويات.
+    - content: فترة صلاحية برنامج الولاء
+      isCorrect: false
+      explanation: ترتبط فترات التاريخ فقط بمستويات برنامج الولاء وليس بالبرنامج.
+    - content: تاريخ انتهاء الصلاحية الخاص بنقاط الشراء
+      isCorrect: false
+      explanation: ترتبط فترات التاريخ فقط بمستويات برنامج الولاء وليس بنقاط الشراء.
+  - content: يجب أن تكون الانتماءات التي تم إنشاؤها مرتبطة دائماً بأي من الخيارات التالية؟
+    choices:
+    - content: عميل محدد
+      isCorrect: false
+      explanation: يمكن ربط الانتماءات بسجل العميل لبدء التعيين التلقائي للخصم أو التسعير ذي الصلة عند إضافة عميل إلى حركة. ولكن هذه العملية ليست إلزامية.
+    - content: خصم
+      isCorrect: false
+      explanation: يمكن ربط الانتماءات بالخصومات. ولكن يمكن استخدامها أيضاً للتسعير التفاضلي بدلاً من ذلك، وفي هذه الحالة، لا يتم ربطها بالخصومات.
+    - content: مجموعة الأسعار
+      isCorrect: true
+      explanation: تُعد مجموعة الأسعار بمثابة الرابط بين الانتماءات والخصومات أو الأسعار ذات الصلة التي يجب تطبيقها على الانتماء. فبدون مجموعة أسعار، لا يمكن بناء هذا الجسر في النظام.

@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.18_get-started-production-control-quiz
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 05/27/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: db4e456ee5c1d6f76eab49ca55bba4ce25151f70
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072984"
+title: تحقق من مستوى معرفتك
+durationInMinutes: 10
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما القيم الافتراضية التي تستخدمها Supply Chain Management إذا لم يتم تعيين محددات التحكم في الإنتاج لتكون خاصة بالموقع؟
+    choices:
+    - content: قم بمطالبة المستخدم بتعيين كل إعداد.
+      isCorrect: false
+      explanation: يستخدم النظام إعدادات محددات الشركة إذا لم يتم تعيين محددات التحكم في الإنتاج على خاصة بالموقع.
+    - content: استخدم محددات الشركة التي تم تكوينها.
+      isCorrect: true
+      explanation: يستخدم النظام إعدادات محددات الشركة إذا لم يتم تعيين محددات التحكم في الإنتاج على خاصة بالموقع.
+    - content: حدث خطأ في الإنتاج عند تجربة وظائف الإنتاج.
+      isCorrect: false
+      explanation: يستخدم النظام إعدادات محددات الشركة إذا لم يتم تعيين محددات التحكم في الإنتاج على خاصة بالموقع.
+  - content: إذا قامت الشركة بإعداد معلمات التحكم في الإنتاج الخاصة بالموقع 1، ولكنها لا تقوم بإعدادها للموقع 2، فما هي المعلمات التي سيتم استخدامها في الموقع 2؟
+    choices:
+    - content: سيتم استخدام المعلمات الخاصة بالموقع 1 في الموقع 2.
+      isCorrect: false
+      explanation: لا يتم تطبيق المعلمات الخاصة بالموقع على المواقع المتعددة في النظام.
+    - content: سيتم استخدام معلمات التحكم في الإنتاج المحددة بواسطة الشركة للموقع 2.
+      isCorrect: true
+      explanation: إذا لم يتم تحديد أي معلمات خاصة بالموقع، سوف يستخدم النظام معلمات التحكم في الإنتاج المحددة بواسطة الشركة.
+    - content: لن يتم تطبيق أي معلمات على الموقع 2.
+      isCorrect: false
+      explanation: سيتم استخدام معلمات التحكم في الإنتاج المحددة بواسطة الشركة للموقع 2.
+    - content: تكون المعلمات الخاصة بالموقع مطلوبة لكل موقع.
+      isCorrect: false
+      explanation: تكون المعلمات الخاصة بالموقع غير مطلوبة لكل موقع.
+  - content: أي من عمليات ترحيل الإنتاج التالية يمكن وصفها على أنها حساب المخزون لإزالة قيمة المواد الخام من المخزون؟
+    choices:
+    - content: التكلفة التقديرية للمواد المستهلكة
+      isCorrect: true
+      explanation: التكلفة التقديرية للمواد المستهلكة هي حساب المخزون لإزالة قيمة المواد الخام من المخزون.
+    - content: التكلفة التقديرية للمواد المستهلكة، WIP
+      isCorrect: false
+      explanation: الغرض من هذا الحساب هو العمل كمقابل لإصدار قائمة الانتقاء ولتحريك قيمة المخزون أو زيادة قيمة العمل في حساب مخزون العملية.
+    - content: تكلفة التصنيع التقديرية
+      isCorrect: false
+      explanation: هذا هو حساب المخزون لإضافة القيمة الفعلية للسلع المنتهية إلى المخزون.
+    - content: تكلفة التصنيع التقديرية، WIP
+      isCorrect: false
+      explanation: الغرض من هذا الحساب هو العمل كمقابل للتقرير كحساب استلام منتهٍ ولإزالة قيمة المخزون أو تقليل قيمة العمل في حساب مخزون العملية.
+  - content: أي مما يلي هو نوع دفتر يومية الإنتاج في Supply Chain Management والذي يتم استخدامه للإبلاغ عن العمالة بتفاصيل مثل أوقات البدء والانتهاء؟
+    choices:
+    - content: قائمة الانتقاء
+      isCorrect: false
+      explanation: يتم استخدام دفتر يومية قائمة الانتقاء لإصدار المواد الخام إلى WIP.
+    - content: بطاقة المسار
+      isCorrect: false
+      explanation: يتم استخدام دفتر يومية بطاقة المسار للإبلاغ عن العمالة كإجماليات.
+    - content: الإبلاغ كمنتهٍ
+      isCorrect: false
+      explanation: يتم استخدام التقرير كدفتر يومية منتهٍ لاستلام السلع المنتهية في المخزون والإبلاغ عن الكميات الجيدة والسيئة.
+    - content: بطاقة الوظيفة
+      isCorrect: true
+      explanation: يتم استخدام دفتر يومية بطاقة الوظيفة للإبلاغ عن العمالة بتفاصيل مثل أوقات البدء والانتهاء.
+  - content: أين تم إنشاء ذاكرة التخزين المؤقتة Redis لإعداد IoT؟
+    choices:
+    - content: Lifecycle services
+      isCorrect: false
+      explanation: لم تقم بتكوين ذاكرة التخزين المؤقتة Redis وإعدادها في LCS.
+    - content: صفحة محددات Supply Chain Management
+      isCorrect: false
+      explanation: لا يمكنك إعداد ذاكرة التخزين المؤقتة Redis في المحددات.
+    - content: مدخل Azure
+      isCorrect: true
+      explanation: يمكنك إعداد ذاكرة التخزين المؤقتة Redis من صفحة "جميع الخدمات" في مدخل Azure.

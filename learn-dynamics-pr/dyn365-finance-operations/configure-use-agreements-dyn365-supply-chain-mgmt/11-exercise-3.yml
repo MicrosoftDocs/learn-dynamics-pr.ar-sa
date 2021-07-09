@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.11-exercise-create-trade-agreements
+title: 'تدريب: إنشاء اتفاقيات تجارية'
+metadata:
+  title: 'تدريب: إنشاء اتفاقيات تجارية'
+  description: تدرب على إنشاء اتفاقيات تجارية في Supply Chain Management.
+  ms.date: 03/26/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6ca32b3fed6e05b52d2ca09b1f5ed76e7c285f53
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073115"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-exercise-create-trade-agreements.md)]

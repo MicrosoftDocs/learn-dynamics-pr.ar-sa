@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-travel-requisitions.04-approve-requisition
+title: الموافقة على طلب السفر
+metadata:
+  title: الموافقة على طلب السفر
+  description: تعرف على كيفية الموافقة على طلب السفر.
+  ms.date: 12/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 484a57d612dc27b7096c1fb88726cc314ccafc40
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072806"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-approve-requisition.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-retail-store-pos.09-activate-cloud-pos
+title: تنشيط نقطة بيع المجموعة (CPOS)
+metadata:
+  title: تنشيط نقطة بيع المجموعة (CPOS)
+  description: تعرف على كيفية تنشيط CPOS في Dynamics 365 Commerce.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: a566da4fcae904d059c007c08ffd0aa534ab7e29
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070357"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-activate-cloud-pos.md)]"

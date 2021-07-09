@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing
+metadata:
+  title: تحديد سمات الدُفعات للتصنيع التحويلي وتكوينها في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول كيفية تكوين سمات الدُفعات في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 146cfb9b09b7648f69ed547487bcad47f09c719a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073295"
+title: تحديد سمات الدُفعات للتصنيع التحويلي وتكوينها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nفي كثير من الأحيان، يطلب العملاء متطلبات محددة لنتائج السلع النهائية من التصنيع التحويلي. على سبيل المثال، في صناعة الجبن، يعد الحليب أحد المواد الخام المستخدمة في إنتاج الجبن ويمكن أن يكون له سمات مثل محتوى الدهون والنسبة المئوية للوزن. يمكن أن يكون للجبن المنتج من الحليب سمات أخرى، مثل الرطوبة والعمر. إذا لم تتم تلبية متطلبات العميل، فسيتعين عليك إما إعادة صياغة العملية أو بدء عملية دفعة جديدة. للتأكد من أن الشركات المصنعة للعمليات تلبي متطلبات العملاء، يجب عليك تحديد سمات الدُفعات التي تعكس متطلبات العميل. بالإضافة إلى ذلك، بعد فحص الجودة، يجب أن تلبي البضائع النهائية القيمة أو نطاق القيم من سمات الدُفعات. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- سمات الدُفعات.\n- عملية موازنة الدفعات.\n- إدارة القوة. \n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - معرفة كيفية التعامل مع إدارة المخزون
+
+  - معرفة كيفية التعامل مع إدارة المستودعات
+iconUrl: /learn/achievements/identify-and-configure-batch-attributes-for-process-manufacturing-in-dyn-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.1-identify-configure-batch-attributes
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.1-2-assign-reserve-batch-attributes
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.1-3-active-ingredient
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.1-4-ingredient-types
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.1-5-process
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.2-exercise-work-with-batch-attributes
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.2-2-record-batch-attribute-create
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.2-3-record-batch-quality
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.2-4-reservation-sales
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.3-knowledge-check
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing.4-summary
+badge:
+  uid: learn.identify-and-configure-batch-attributes-for-process-manufacturing-in-dyn-365-for-finance-ops.badge

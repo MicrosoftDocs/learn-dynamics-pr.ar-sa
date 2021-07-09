@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-and-process-postdated-checks-in-dynamics-365-finance-ops.3-set-up-postdated-checks
+title: إعداد شيكات بتاريخ لاحق
+metadata:
+  title: إعداد شيكات بتاريخ لاحق
+  description: تصف هذه الوحدة كيفية إعداد شيكات بتاريخ لاحق في Finance.
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9e22e948e933598a1faa1062867e735768bd7262
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070678"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-set-up-postdated-checks.md)]

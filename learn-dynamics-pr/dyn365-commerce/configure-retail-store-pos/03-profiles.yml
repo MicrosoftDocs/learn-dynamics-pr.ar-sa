@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-retail-store-pos.03-profiles
+title: إنشاء الملفات التعريف الوظيفية والمرئية
+metadata:
+  title: إنشاء الملفات التعريف الوظيفية والمرئية
+  description: تعرف على كيفية إنشاء ملفات التعريف الوظيفية والمرئية Dynamics 365 Commerce.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: bc1acabe663ba08fe4fd7cb5257aca42610fb7cf
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070320"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-profiles.md)]"

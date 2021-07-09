@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-commerce-channels.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e9bbb7e0206027588f81e6ddf0e1d58e6d753dcb
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070334"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من مكونات التجارة الإلكترونية التالية مسؤول عن تخزين جميع محتويات البيانات وبيانات التكوين؟
+    choices:
+    - content: CMS بدون أجهزة ملحقة‬
+      isCorrect: true
+      explanation: CMS بدون أجهزة ملحقة هو المكون المسؤول عن تخزين محتوى البيانات وتكوينها في التجارة الإلكترونية.
+    - content: استدعاء
+      isCorrect: false
+      explanation: يتم استخدام مكون العرض للواجهة المرئية الخاصة بالمتجر.
+    - content: إدارة الأصول الرقمية
+      isCorrect: false
+      explanation: تُستخدم إدارة الأصول الرقمية لإدارة ملفات الوسائط في التجارة الإلكترونية، ولكنها تعتمد على ‏‫CMS بدون أجهزة ملحقة‬‬ كمكون رئيسي لإدارة البيانات.
+  - content: تسمح لك نقطة البيع الحديثة (MPOS) بإنجاز أي من المهام التالية؟
+    choices:
+    - content: إدارة قنوات التجارة الإلكترونية بشكل مركزي
+      isCorrect: false
+      explanation: المركز الرئيسي لـ Commerce هو المكون الرئيسي المسؤول عن إدارة أنواع مختلفة من القنوات.
+    - content: إدارة أحد مراكز الاتصال
+      isCorrect: false
+      explanation: تتم إدارة قنوات مركز الاتصال بواسطة المركز الرئيسي لـ Commerce.
+    - content: إدارة عمليات متجر البيع بالتجزئة مع وصول محدود إلى الشبكة
+      isCorrect: true
+      explanation: تتيح لك MPOS إمكانية إنشاء متجر بيع بالتجزئة لتجار التجزئة المهتمين بالوصول الموثوق إلى الشبكة.

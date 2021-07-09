@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-e-commerce.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة حول إنشاء الحركات في التجارة الإلكترونية في الوحدة النمطية للحل Dynamics 365 Commerce
+  ms.date: 03/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 61d8f8ee028ee7a6fbc3ea5498b592aa1e57e68b
+  ms.sourcegitcommit: fad7e19f41ef8a36544e4479ca7dca6653d218d6
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/29/2021
+  ms.locfileid: "6070471"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

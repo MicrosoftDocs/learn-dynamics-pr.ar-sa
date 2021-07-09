@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops
+metadata:
+  title: إنشاء قائمة مكونات الصنف في Dynamics 365 Supply Chain Management
+  description: تحدد قائمة مكونات الصنف (BOM) المكونات المطلوبة لإنتاج منتج. قد تكون المكونات الأساسية مواد خام، منتجات نصف مصنعة أو مقادير. يمكن الرجوع إلى الخدمات في BOM، في بعض الحالات. مع ذلك، تصف BOMs عادةً الموارد المادية المطلوبة. عند دمج المسار أو تدفق الإنتاج الذي يصف العمليات والموارد المطلوبة لبناء منتج، تقوم قائمة مكونات الصنف (BOM) بإنشاء نماذج لحساب التكلفة المقدرة للمنتج.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e9c0574969ae2813b24dd66dff2f4d1264440514
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073531"
+title: إنشاء قائمة مكونات الصنف في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تحدد قائمة مكونات الصنف (BOM) المكونات المطلوبة لإنتاج منتج. قد تكون المكونات الأساسية مواد خام، منتجات نصف مصنعة أو مقادير. يمكن الرجوع إلى الخدمات في BOM، في بعض الحالات. مع ذلك، تصف BOMs عادةً الموارد المادية المطلوبة. عند دمج المسار أو تدفق الإنتاج الذي يصف العمليات والموارد المطلوبة لبناء منتج، تقوم قائمة مكونات الصنف (BOM) بإنشاء نماذج لحساب التكلفة المقدرة للمنتج.
+abstract: "في هذه الوحدة، ستتعلم كيفية إنشاء قائمة مكونات الصنف وإصدارات قوائم مكونات الأصناف باستخدام مصمم قائمة مكونات الصنف في Supply Chain Management. \n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- فهم كيفية إنشاء المنتجات في Supply Chain Management\n- المعرفة العامة بإجراءات المخزون في Supply Chain Management\n"
+iconUrl: /learn/achievements/create-bill-of-materials-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.1-create-bill-of-materials-introduction
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.5-create-bom-bom-designer
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.2-bom-formula-versions
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.3-bom-line-types
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.4-bom-levels
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.6-exercise-create-bom-bom-designer
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.7-create-bill-of-materials-quiz
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.8-create-bill-of-materials-summary
+badge:
+  uid: learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-purchase-orders-finance.7-create-vendor-returns
+title: إنشاء مرتجعات المورد
+metadata:
+  title: إنشاء مرتجعات المورد
+  description: تعرف على كيفية إنشاء مرتجعات المورد في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d0afff95da8df36a9294d092ff067412e1eb334c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073164"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-create-vendor-returns.md)]

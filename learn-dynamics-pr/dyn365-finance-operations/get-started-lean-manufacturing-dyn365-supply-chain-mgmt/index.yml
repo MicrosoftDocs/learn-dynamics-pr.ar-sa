@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-with-lean-manufacturing
+metadata:
+  title: بدء استخدام lean manufacturing في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول lean manufacturing في Dynamics 365 Supply Chain Management.
+  ms.date: 04/06/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 83e625f54d7b688cc3f24c3fe09d6745cd2d61bd
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073299"
+title: بدء استخدام lean manufacturing في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nفي السعي لتحقيق الكمال، يُعد lean manufacturing رحلة للتحسين المتواصل. الهدف هو إنتاج ما يريده العميل بالضبط، عندما يريده العميل، وبطريقة اقتصادية. بالنسبة إلى lean manufacturing، الكمال هو الغاية المنشودة. يمكنك استخدام lean manufacturing في بيئة تصنيع موحدة (مختلطة الوضع) تجمع بين العديد من استراتيجيات التوريد والإنتاج والاستعانة بالمصادر. تتضمن هذه الاستراتيجيات أوامر الإنتاج وأوامر الدُفعات للصناعات التحويلية وأوامر الشراء وأوامر النقل. تتكون بنية lean manufacturing في Dynamics 365 Supply Chain Management من تدفقات الإنتاج والأنشطة وقواعد كانبان. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على lean manufacturing. \n- استكشاف مفاهيم ومصطلحات lean. \n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - معرفة كيفية التعامل مع إدارة المخزون
+
+  - فهم كيفية التعامل مع إدارة المستودعات
+iconUrl: /learn/achievements/get-started-with-lean-manufacturing-in-microsoft-dynamics-365-for-finance-and-operations.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-with-lean-manufacturing.1-introduction-to-lean-manufacturing
+- learn-dynamics.get-started-with-lean-manufacturing.2-understand-lean-concepts-terminology
+- learn-dynamics.get-started-with-lean-manufacturing.3-knowledge-check
+- learn-dynamics.get-started-with-lean-manufacturing.4-summary
+badge:
+  uid: learn-dynamics.get-started-with-lean-manufacturing-in-microsoft-dynamics-365-for-finance-and-operations.badge

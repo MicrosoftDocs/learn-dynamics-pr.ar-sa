@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-intercompany-trade.7-exercise-process-purchase-order-initiated-intercompany-chain
+title: 'التمرين - معالجة سلسلة أوامر مشتركة بين شركات شقيقة بدأها أمر شراء:'
+metadata:
+  title: 'التمرين - معالجة سلسلة أوامر مشتركة بين شركات شقيقة بدأها أمر شراء:'
+  description: تدرب على معالجة سلسلة بين الشركات الشقيقة بدأها أمر الشراء في Supply Chain Management.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3fdcee3b0086ea2c5383c6c701f924fbca4c0a5e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073535"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-exercise-process-purchase-order-initiated-intercompany-chain.md)]

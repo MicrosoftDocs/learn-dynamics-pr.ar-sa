@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-order-fulfillment.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تقدم هذه الوحدة إعداد التكوين والعمل من خلال تنفيذ الأمر في الوحدة النمطية للحل Dynamics 365 Commerce
+  ms.date: 07/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 257e4ec840387afc9cbae267741a9131e296dd67
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070120"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

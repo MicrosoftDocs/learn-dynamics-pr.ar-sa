@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clienteling.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن السؤال التالي لترى ما تعلمته.
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 7d102659e768e3591adf07355e8678aaccb94386
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070278"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية يمثل أفضل وصف لقاعدة العملاء؟
+    choices:
+    - content: توفر قاعدة العملاء إمكانات البيع المساعد في المتاجر، مثل التحسين ومقارنة المنتجات وتوافر الصنف.
+      isCorrect: true
+      explanation: تعد قاعدة العملاء أداة تزود تجار التجزئة بإمكانات البيع المساعد التي تشمل ميزات من قبيل التحسين والمقارنة وتوافر الصنف.
+    - content: لا يمكن استخدام قاعدة العملاء في المركز الرئيسي لـ Commerce.
+      isCorrect: false
+      explanation: تُعد الملاحظات مكون من مكونات قاعدة العملاء يتم حفظها في المركز الرئيسي لـ Commerce، ويمكن استخدامها في صفحة تفاصيل العميل وفي مركز الاتصال (متاح أيضاً من خلال المركز الرئيسي).
+    - content: تُعد قاعدة العملاء ميزة في Dynamics 365 Customer Insights، ولا يمكن استخدامها دون تكامل بين Commerce وCustomer Insights.
+      isCorrect: false
+      explanation: تُعد قاعدة العملاء ميزة في Commerce، ويمكن استخدامها بشكل مستقل عن التكامل مع Customer Insights. ويمكن إثرائها بمقاييس من Customer Insights.
+  - content: أي من الخيارات التالية يعرض مجموعة من معلومات الاتصال لكل عميل، بما في ذلك ثلاث خصائص إضافية محددة في المركز الرئيسي لـ Commerce؟
+    choices:
+    - content: دفتر العميل
+      isCorrect: true
+      explanation: يعرض دفتر العميل معلومات الاتصال الخاصة بمجموعة من العملاء، بما في ذلك ثلاث خصائص إضافية تم تحديدها في المركز الرئيسي لـ Commerce استناداً إلى أهم ثلاث رؤى يجب أن يعرفها شركاء المبيعات عن العملاء.
+    - content: الأنشطة
+      isCorrect: false
+      explanation: يمكن تحديد أنواع مختلفة من الأنشطة، مثل زيارات المتجر والمواعيد ومعلومات جهات الاتصال. لا يتم تقديم الأنشطة كمجموعة من العملاء.
+    - content: ملاحظات
+      isCorrect: false
+      explanation: يتم حفظ الملاحظات في المركز الرئيسي ويمكن عرضها قبل كل تفاعل على صفحة تفاصيل العميل في مركز الاتصال أو في ملف تعريف العميل. لا يتم تقديم الملاحظات كمجموعة من العملاء.

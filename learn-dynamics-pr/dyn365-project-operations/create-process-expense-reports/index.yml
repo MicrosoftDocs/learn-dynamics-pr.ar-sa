@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-dynamics.create-process-expense-reports
+metadata:
+  title: إنشاء تقارير المصروفات ومعالجتها في Dynamics 365 Project Operations
+  description: تعرف على كيفية إنشاء تقارير المصروفات ومعالجتها في Microsoft Dynamics 365 Project Operations.
+  ms.date: 11/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 1c7ecd17a25391c2f5bb70fc5bfd1c29fc835e5c
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072789"
+title: إنشاء تقارير المصروفات ومعالجتها في Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nتمت إعادة تصميم إدخال تقرير المصروفات في Dynamics 365 Project Operations لتبسيط تجربة المستخدم وتقليل الوقت المطلوب لإكمال التقارير. في هذه الوحدة، ستتعلم كيفية إنشاء تقارير المصروفات والتعامل معها.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة سياسات تقارير المصروفات وقواعد المصروفات اليومية.\n- إنشاء تقرير المصروفات والحفاظ عليها.\n- التعرف علي المصروفات بين الشركات الشقيقة.\n- التعرف على كيفية ترحيل تقارير المصروفات والموافقة عليها وتفويضها.\n- اكتشاف خيارات إعداد التقارير لإدارة المصروفات.\n"
+prerequisites: >
+  - معرفه عمليات إدارة المصروفات
+
+  - المعرفة الأساسية بكيفية التنقل في Dynamics 365 Project Operations
+
+  - المعرفة الأساسية بوحدة إدارة المصروفات في Dynamics 365 Project Operations
+iconUrl: /learn/achievements/create-process-expense-reports.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.create-process-expense-reports.01-introduction
+- learn-dynamics.create-process-expense-reports.02-create-expense-report
+- learn-dynamics.create-process-expense-reports.03-intercompany
+- learn-dynamics.create-process-expense-reports.04-itemize-by-line
+- learn-dynamics.create-process-expense-reports.05-distribute-expense
+- learn-dynamics.create-process-expense-reports.06-add-guests
+- learn-dynamics.create-process-expense-reports.07-attach-receipts
+- learn-dynamics.create-process-expense-reports.08-submit-to-workflow
+- learn-dynamics.create-process-expense-reports.09-approve-expense
+- learn-dynamics.create-process-expense-reports.10-delegate
+- learn-dynamics.create-process-expense-reports.11-post-report
+- learn-dynamics.create-process-expense-reports.12-reporting-options
+- learn-dynamics.create-process-expense-reports.13-exercise
+- learn-dynamics.create-process-expense-reports.14-check
+- learn-dynamics.create-process-expense-reports.15-summary
+badge:
+  uid: learn-dynamics.create-process-expense-reports.badge

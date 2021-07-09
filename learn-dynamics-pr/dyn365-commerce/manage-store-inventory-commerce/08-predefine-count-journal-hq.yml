@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-store-inventory-commerce.08-predefine-count-journal-hq
+title: التحديد المسبق لدفتر يومية جرد في المركز الرئيسي وإكمال الجرد من نقطة البيع
+metadata:
+  title: التحديد المسبق لدفتر يومية جرد في المركز الرئيسي وإكمال الجرد من نقطة البيع
+  description: تعرف على كيفية إجراء التحديد المسبق لدفتر يومية جرد في المركز الرئيسي وإكمال الجرد من نقطة البيع في Dynamics 365 Commerce.
+  ms.date: 09/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 3f9eec003bc3f387d99eb5e593a4cf813b997941
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070312"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-predefine-count-journal-hq.md)]"

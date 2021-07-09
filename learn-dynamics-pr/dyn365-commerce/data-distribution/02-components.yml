@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-distribution.02-components
+title: توزيع البيانات والمكونات
+metadata:
+  title: توزيع البيانات والمكونات
+  description: تصف هذه الوحدة توزيع البيانات والمكونات في الحل Dynamics 365 Commerce
+  ms.date: 07/06/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-commerce
+  ms.openlocfilehash: 4c7e4eaa5f824e8b00c3b94d617ce8378deb04b6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070152"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-components.md)]"

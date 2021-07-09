@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clienteling.02-assisted-selling
+title: عملية البيع المساعد
+metadata:
+  title: عملية البيع المساعد
+  description: تصف هذه الوحدة عملية البيع المساعد في Dynamics 365 Commerce
+  ms.date: 06/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 273477a42a19403fc03511de61e0536c51192cd5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070228"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-assisted-selling.md)]"

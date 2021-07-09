@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-manufacturing-execution.6-2-report-finished-job-card
+title: الإبلاغ عن الانتهاء من جهاز بطاقة الوظيفة
+metadata:
+  title: الإبلاغ عن الانتهاء من جهاز بطاقة الوظيفة
+  description: تعلم كيفية الإبلاغ عن الانتهاء من جهاز بطاقة الوظيفة
+  ms.date: 12/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3a1160e80ca3859cee09c6c914a4e0bb275ddd4f
+  ms.sourcegitcommit: 0456455773a21d446002e9ed88740714b6159399
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/23/2020
+  ms.locfileid: "6073635"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-2-report-finished-job-card.md)]

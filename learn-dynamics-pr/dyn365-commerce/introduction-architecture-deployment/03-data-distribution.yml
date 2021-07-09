@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-architecture-deployment.03-data-distribution
+title: توزيع البيانات
+metadata:
+  title: توزيع البيانات
+  description: تصف هذه الوحدة توزيع البيانات في Dynamics 365 Commerce
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 4cc906fec36dc70ea7a8223b5cbada72fa41603b
+  ms.sourcegitcommit: 7b8e0bce77648fe20efb0bf63bce723b8a30cfaf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/28/2021
+  ms.locfileid: "6070525"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-data-distribution.md)]"

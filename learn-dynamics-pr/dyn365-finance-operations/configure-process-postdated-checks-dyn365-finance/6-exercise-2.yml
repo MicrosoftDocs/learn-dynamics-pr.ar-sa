@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-and-process-postdated-checks-in-dynamics-365-finance-ops.6-exercise-register-postdated-check
+title: تمرين - تسجيل تفاصيل شيك بتاريخ لاحق للعميل والمورد
+metadata:
+  title: تمرين - تسجيل تفاصيل شيك بتاريخ لاحق للعميل والمورد
+  description: تدرب على تسجيل تفاصيل شيك بتاريخ لاحق لعميل ومورد في Finance.
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8600d53fe43a84ccdf4b481490b67fa8838de731
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070675"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-exercise-register-postdated-check.md)]

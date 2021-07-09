@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-store-inventory-commerce.11-exercise-2
+title: 'تدريب: شحن أمر تحويل من نقطة البيع'
+metadata:
+  title: 'تدريب: شحن أمر تحويل من نقطة البيع'
+  description: تدرب على شحن أمر تحويل من نقطة البيع في Dynamics 365 Commerce.
+  ms.date: 09/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 5f671d21e0ce66cc83d7337be23e77f881bdd17e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070308"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-exercise-2.md)]"

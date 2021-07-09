@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-commerce.13-exercise-4
+title: 'تدريب: إنشاء تكوين حزمة ونشرها'
+metadata:
+  title: 'تدريب: إنشاء تكوين حزمة ونشرها'
+  description: تدرب على إنشاء تكوين حزمة ونشرها في Dynamics 365 Commerce.
+  ms.date: 09/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 0b7658d02db1a19e8bd2b05abed0b6bae858b09f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070076"
+durationInMinutes: 60
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-exercise-4.md)]"

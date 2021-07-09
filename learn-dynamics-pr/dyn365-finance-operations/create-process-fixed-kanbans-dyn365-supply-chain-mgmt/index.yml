@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.create-process-fixed-kanbans
+metadata:
+  title: إنشاء بطاقات كانبان الثابتة ومعالجتها في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول كيفية التعامل مع بطاقات كانبان الثابتة في lean manufacturing.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 045bd65ba141dcbc4f3d195a4d5b6be3a23ca059
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073197"
+title: إنشاء بطاقات كانبان الثابتة ومعالجتها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لوحة جدولة كانبان لمخطط الإنتاج التحكم في خطة الإنتاج لوظائف كانبان وتحسينها. فهي تجعل تدفق وظائف كانبان شفافاً وتمنح مخطط الإنتاج أداة تعمل على تحسين وتعديل خطة الإنتاج لخلية عمل lean manufacturing. ترتبط قواعد كانبان في Dynamics 365 Supply Chain Management بتدفقات الإنتاج باعتبارها الأساس الذي يحدد أنشطة كانبان. يمكن إعداد قواعد كانبان لدعم مجموعة متنوعة من سيناريوهات التجهيز للمخزون والتصنيع حسب الطلب. تشرح هذه الوحدة كيفية التعامل مع لوحات جدولة كانبان وتصف أنواع كانبان واستراتيجيات تزويد كانبان وقواعد كانبان للكمية الثابتة. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- قواعد كانبان.\n- بطاقات كانبان التصنيع.\n- بطاقات كانبان السحب.\n- بطاقات كانبان للكمية الثابتة.\n- عمليات حساب كمية كانبان وبطاقات كانبان المتداولة. \n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - معرفة كيفية التعامل مع إدارة المخزون
+
+  - فهم كيفية التعامل مع إدارة المستودعات
+iconUrl: /learn/achievements/create-process-fixed-kanbans-in-microsoft-dynamics-365-for-finance-and-operations.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.create-process-fixed-kanbans.1-introduction-create-process-fixed-kanbans
+- learn-dynamics.create-process-fixed-kanbans.2-understand-kanban-boards
+- learn-dynamics.create-process-fixed-kanbans.3-configure-fixed-kanban-rule
+- learn-dynamics.create-process-fixed-kanbans.4-process-fixed-kanban
+- learn-dynamics.create-process-fixed-kanbans.5-kanban-quantity-calculations-circulating-kanbans
+- learn-dynamics.create-process-fixed-kanbans.6-exercise-configure-fixed-quantity-kanban-rule
+- learn-dynamics.create-process-fixed-kanbans.7-exercise-fixed-kanban-job-processing
+- learn-dynamics.create-process-fixed-kanbans.8-knowledge-check
+- learn-dynamics.create-process-fixed-kanbans.9-summary
+badge:
+  uid: learn.create-process-fixed-kanbans-in-microsoft-dynamics-365-for-finance-and-operations.badge

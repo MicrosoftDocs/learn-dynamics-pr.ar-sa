@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.2-inventory-dimensions-in-production
+title: تكوين أبعاد المخزون في الإنتاج
+metadata:
+  title: تكوين أبعاد المخزون في الإنتاج
+  description: توضح هذه الوحدة تكوين أبعاد المخزون في عملية الإنتاج في Dynamics 365 Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9b63c6748f8e430e2ffddda97cd2085aaa5e2cec
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073159"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-inventory-dimensions-in-production.md)]

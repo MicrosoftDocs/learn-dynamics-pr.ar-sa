@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-retail-hierarchies.06-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: fee43e7d0af1a8e4e4e9ad021ebb47d78b9d302e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070389"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من أنواع التدرجات الهرمية التالية يمكن أن يتواجد منها واحد فقط في كيان قانوني؟
+    choices:
+    - content: التدرج الهرمي التنظيمي
+      isCorrect: false
+      explanation: يمكن أن تتواجد تدرجات هرمية تنظيمية متعددة لكيان قانوني لأغراض ومتطلبات العمل المختلفة.
+    - content: التدرج الهرمي التكميلي
+      isCorrect: false
+      explanation: يمكن أن تتواجد تدرجات هرمية تكميلية متعددة لكيان قانوني لمتطلبات العمل المختلفة.
+    - content: التدرج الهرمي للمنتجات
+      isCorrect: true
+      explanation: يمكن أن يوجد فقط تدرج هرمي واحد للمنتجات في Commerce وهو يترأس العديد من العمليات التجارية، ويعد التدرج الهرمي الافتراضي للمنتجات في نظام العمليات.
+    - content: التدرج الهرمي للتنقل
+      isCorrect: false
+      explanation: يمكن أن توجد تدرجات هرمية متعددة للتنقل لمتطلبات قنوات Commerce المختلفة.
+  - content: تريد إحدى الشركات تصميم متاجر البيع بالتجزئة الخاصة بها حسب المنطقة. ما هو التدرج الهرمي الذي يجب أن تستخدمه؟
+    choices:
+    - content: ‏‫التدرج الهرمي التنظيمي
+      isCorrect: true
+      explanation: تُستخدم التدرجات الهرمية التنظيمية لنمذجة كيان أعمال في تدرج هرمي رسومي باستخدام أنواع مختلفة من وحدات التشغيل، مثل المتاجر ووحدات الأعمال (المناطق).
+    - content: ‏‫التدرج الهرمي التكميلي
+      isCorrect: false
+      explanation: يُستخدم التدرج الهرمي التكميلي للمنتجات، وليس للكيانات التجارية.
+    - content: التدرج الهرمي للتنقل
+      isCorrect: false
+      explanation: يُستخدم التدرج الهرمي للتنقل للمنتجات وليس للكيانات التجارية.
+    - content: التدرج الهرمي للمنتجات
+      isCorrect: false
+      explanation: يُستخدم التدرج الهرمي للمنتجات في Commerce للمنتجات، وليس للكيانات التجارية.

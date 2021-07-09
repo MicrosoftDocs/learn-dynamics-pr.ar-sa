@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.2-benefits-financial-management
+title: مزايا Dynamics 365 Finance
+metadata:
+  title: مزايا Dynamics 365 Finance
+  description: تصف هذه الوحدة مزايا Dynamics 365 Finance.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 21bf8710366682cee40be2634bfe3289d422083d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070826"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-benefits-financial-management.md)]

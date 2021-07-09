@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-management.04-work-breakdown-structure
+title: خطة المشروع - هيكل تنظيم العمل
+metadata:
+  title: خطة المشروع - هيكل تنظيم العمل
+  description: تعرف على هيكل تنظيم العمل في خطة المشروع Dynamics 365 Project Operations.
+  ms.date: 04/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 15813ae810ce4a28800702da08bb146ea6016752
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072885"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-work-breakdown-structure.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-call-center-channel.07-exercise-2
+title: تمرين - تكوين مكونات فرصة زيادة البيع
+metadata:
+  title: تمرين - تكوين مكونات فرصة زيادة البيع
+  description: يتيح لك هذا التمرين التدرب على كيفية تكوين مكونات فرصة زيادة البيع
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 97cd50024e445c2fdb97613bfa137a4387b3e5a1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070365"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-exercise-2.md)]"

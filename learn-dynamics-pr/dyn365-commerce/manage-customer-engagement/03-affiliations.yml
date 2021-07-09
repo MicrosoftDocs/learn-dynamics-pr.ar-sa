@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-customer-engagement.03-affiliations
+title: الانتماءات
+metadata:
+  title: الانتماءات
+  description: تصف هذه الوحدة كيفية استخدام الانتماءات في Dynamics 365 Commerce
+  ms.date: 03/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e6c17de599a2342160eeb2fc0b049a7ec8ab6f47
+  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6070463"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-affiliations.md)]"

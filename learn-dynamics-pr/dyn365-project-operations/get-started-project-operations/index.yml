@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-project-operations
+metadata:
+  title: بدء استخدام Dynamics 365 Project Operations
+  description: تعرف على Dynamics 365 Project Operations وكيف يُمكّن مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة وإدارة دورة الحياة الكاملة للمشروع.
+  ms.date: 04/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 97565acb015a549b6e23d06c82cc4c0a0ddb9442
+  ms.sourcegitcommit: a7b407c61c431b95ffa16628a89ee966a9e108b1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/08/2021
+  ms.locfileid: "6072826"
+title: بدء استخدام Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nيُمكّن Microsoft Dynamics 365 Project Operations مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. يوفر للشركات كل ما تحتاجه لإدارة دورة حياة المشروع من مبيعات المشروع إلى إعداد الفواتير والمحاسبة للمشاريع. يوفر تحليلات ورؤى قيّمة حول استخدام الموارد، والتوافر، والهوامش الإجمالية، وتتبع التقدم والإنفاق على المشاريع. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على مزايا Dynamics 365 Project Operations.\n- اكتشاف الميزات في Project Operations.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات إدارة المشاريع.
+
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365.
+
+  - معرفة كيفية استخدام تطبيقات Dynamics 365.
+
+  - فهم أساسي لمفاهيم السحابة وMicrosoft Power Platform.
+iconUrl: /learn/achievements/get-started-project-operations.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-project-operations
+- dynamics-finance-operations
+- dynamics-finance
+units:
+- learn-dynamics.get-started-project-operations.1-introduction
+- learn-dynamics.get-started-project-operations.2-benefits
+- learn-dynamics.get-started-project-operations.3-overview
+- learn-dynamics.get-started-project-operations.4-deployment
+- learn-dynamics.get-started-project-operations.5-sales-management
+- learn-dynamics.get-started-project-operations.6-project-management
+- learn-dynamics.get-started-project-operations.7-resource-management
+- learn-dynamics.get-started-project-operations.8-time-tracking
+- learn-dynamics.get-started-project-operations.9-expense-tracking
+- learn-dynamics.get-started-project-operations.10-proforma-invoicing
+- learn-dynamics.get-started-project-operations.11-project-accounting
+- learn-dynamics.get-started-project-operations.12-check
+- learn-dynamics.get-started-project-operations.13-summary
+badge:
+  uid: learn-dynamics.get-started-project-operations.badge

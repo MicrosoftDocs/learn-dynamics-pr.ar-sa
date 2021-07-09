@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.6-exercise-setup-funds
+title: مختبر - إعداد الصناديق
+labId: 71860
+metadata:
+  title: مختبر - إعداد الصناديق
+  description: تدرب على إنشاء الصناديق في Dynamics 365 Finance.
+  ms.date: 05/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: bc9ee9710e5a62b92d187bd2f414c4b93d787fdf
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070612"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/6-exercise-setup-funds.md)] \n[!include[](../includes/non-final-lab-end.md)]"

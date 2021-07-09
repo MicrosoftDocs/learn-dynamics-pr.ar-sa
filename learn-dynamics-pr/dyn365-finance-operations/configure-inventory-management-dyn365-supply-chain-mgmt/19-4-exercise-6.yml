@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-4-exercise-use-counting-journal
+title: المعمل - استخدام دفتر يومية الجرد
+labId: 63313
+metadata:
+  title: المعمل - استخدام دفتر يومية الجرد
+  description: تدرب على استخدام دفتر يومية الجرد في Supply Chain Management.
+  ms.date: 04/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: adb69b6e67cbfb774f51e653e2f3ce680037f366
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6073598"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/19-4-exercise-use-counting-journal.md)] \n[!include[](../includes/standalone-lab-end.md)]"

@@ -1,0 +1,65 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-operations.12-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 11/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: bd22634d1269947942ecb5c486343240bf43e4cc
+  ms.sourcegitcommit: 49e41fceff1cf34140f3ad833073b7bea9669c68
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "6072757"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: النشر الخفيف هو التعامل مع الفواتير الأولية‬، أي من قدرات تطبيقات Dynamics 365 التالية يمكنه استخدامها؟
+    choices:
+    - content: Finance and Operations
+      isCorrect: false
+      explanation: يمكن استخدام تطبيقات Finance and Operations في عمليات المشروع لسيناريو المورد/غير المخزن وعمليات المشروع لسيناريو أمر الإنتاج/المخزن.
+    - content: Customer Engagement
+      isCorrect: true
+      explanation: بالنسبة للنشر الخفيف المعروف بالتعامل مع الفواتير الأولية، يمكن استخدام تطبيقات Customer Engagement‬ فقط.
+    - content: Dynamics 365 Business Central
+      isCorrect: false
+      explanation: لا يمكن استخدام عمليات المشروع مع Dynamics 365 Business Central.
+  - content: حدد أحد تدفقات العمليات التجارية التالية المعتمدة للصفقات المستندة إلى المشروع.
+    choices:
+    - content: ‏‫عميل متوقع لسير إجراءات عمل عملية فرصة محتملة‬
+      isCorrect: true
+      explanation: يُعد العميل المتوقع لعمل عملية فرصة محتملة في عمليات المشروع ملحقاً للعميل المتوقع لسير إجراءات عملية فرصة في Dynamics 365 Sales.
+    - content: هاتف لعملية الحالة
+      isCorrect: false
+      explanation: يتم استخدام الهاتف لعملية الحالة في ‏‫Dynamics 365 Customer Service‬.
+    - content: ‏‏إجراءات عمل أمر العمل
+      isCorrect: false
+      explanation: تستخدم حالة إجراءات عمل أمر العمل في Dynamics 365 Field Service.
+  - content: هل صحيح أن التعيينات هي التزام الموارد العامة بمهام المشروع في جدول المشروع؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: يمكن أن تكون الموارد مسماة أو عامة.
+    - content: لا
+      isCorrect: false
+      explanation: يمكن استخدام الموارد المسماة أو العامة.
+  - content: ما مراحل المشروع المحددة في سير إجراءات العمل الافتراضية؟
+    choices:
+    - content: بدء > خطة > تنفيذ > مراقبة > إغلاق
+      isCorrect: false
+      explanation: لا تُعد البدء والتنفيذ والمراقبة مراحل المشروع في عمليات المشروع.
+    - content: عرض أسعار > خطة > تسليم > إكمال > إغلاق
+      isCorrect: false
+      explanation: المرحلة "جديد" مفقودة.
+    - content: جديد > عرض أسعار > خطة > تسليم > إكمال > إغلاق
+      isCorrect: true
+      explanation: 'يستخدم سير إجراءات العمل الافتراضي المراحل: "جديد، عرض أسعار، خطة، تسليم، إكمال، إغلاق".'
+    - content: بدء > خطة > تنفيذ > إغلاق
+      isCorrect: false
+      explanation: لا تُعد البدء والتنفيذ مراحل المشروع في عمليات المشروع.

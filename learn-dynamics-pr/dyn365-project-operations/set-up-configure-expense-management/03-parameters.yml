@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-configure-expense-management.03-parameters
+title: معايير إدارة المصروفات
+metadata:
+  title: معايير إدارة المصروفات
+  description: تعرف على معايير إدارة المصروفات Dynamics 365 Project Operations.
+  ms.date: 11/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 19dd4af60e7df5150dd7e0fa9f8a672709f944e7
+  ms.sourcegitcommit: 01f8d224bf1e548ba0cbe53b3e2150c43302c125
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/04/2020
+  ms.locfileid: "6072750"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-parameters.md)]"

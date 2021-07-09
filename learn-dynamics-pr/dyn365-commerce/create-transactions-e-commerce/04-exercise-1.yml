@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-transactions-e-commerce.04-exercise-1
+title: تمرين ـ إنشاء أمر عبر الإنترنت كضيف
+metadata:
+  title: تمرين ـ إنشاء أمر عبر الإنترنت كضيف
+  description: في هذا التمرين، ستقوم بإنشاء أمر عبر الإنترنت كضيف.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 9832ab7b237cfde169aaefeb3d1fbb3803fa10ca
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070355"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-exercise-1.md)]"

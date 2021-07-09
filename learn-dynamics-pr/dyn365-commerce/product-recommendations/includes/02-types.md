@@ -1,0 +1,25 @@
+---
+ms.openlocfilehash: 3c9a90a25414f61688d69a1fc1de245a58b27d88
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070261"
+---
+<span data-ttu-id="7d204-101">توصيات منتجات القناة متعددة الاتجاهات قابلة للتكامل مع حل Commerce.</span><span class="sxs-lookup"><span data-stu-id="7d204-101">Omnichannel product recommendations are integrable with the Commerce solution.</span></span> <span data-ttu-id="7d204-102">من خلال تمكين هذه الخدمة، يمكن لبائعي التجزئة تحسين اكتشاف المنتجات من خلال توصيات المنتجات التلقائية في أي مكان عبر الشركة (عبر الإنترنت، ونقطة البيع، ومركز الاتصال، والمزيد).</span><span class="sxs-lookup"><span data-stu-id="7d204-102">With this service enabled, retailers can improve product discovery with automated product recommendations anywhere across the business (online, POS, call center, and more).</span></span> <span data-ttu-id="7d204-103">الأنواع المتوفرة من توصيات المنتج التلقائية في Commerce هي:</span><span class="sxs-lookup"><span data-stu-id="7d204-103">The available types of automated product recommendations in Commerce are:</span></span>
+
+- <span data-ttu-id="7d204-104">**‬‏‫الخوارزمية أو التلقائية**</span><span class="sxs-lookup"><span data-stu-id="7d204-104">**Algorithmic or Automated**</span></span>
+    - <span data-ttu-id="7d204-105">**جديد** - تعرض هذه القائمة أحدث المنتجات المتاحة للقنوات والكتالوجات، بناءً على التاريخ.</span><span class="sxs-lookup"><span data-stu-id="7d204-105">**New** -This list shows the newest products that are available to channels and catalogs, based on date.</span></span>
+    - <span data-ttu-id="7d204-106">**الأكثر مبيعاً** - تعرض هذه القائمة المنتجات المرتبة حسب أعلى عدد من مبيعات الوحدات.</span><span class="sxs-lookup"><span data-stu-id="7d204-106">**Best selling** - This list shows products ranked by the highest number of unit sales.</span></span>
+    - <span data-ttu-id="7d204-107">**متداول** - توضح هذه القائمة التقاطع بين المنتجات الجديدة والأكثر مبيعاً، أي المنتجات الأعلى أداءً في فترة معينة.</span><span class="sxs-lookup"><span data-stu-id="7d204-107">**Trending** - This list shows the intersection of new and best-selling products, in other words, the highest-performing products for a given period.</span></span> 
+
+
+- <span data-ttu-id="7d204-108">**التعلّم الآلي بالذكاء الاصطناعي**</span><span class="sxs-lookup"><span data-stu-id="7d204-108">**AI-Machine learning**</span></span> 
+    - <span data-ttu-id="7d204-109">**‬‏‫الأشياء المشتراة معاً بشكل متكرر** - توصي هذه القائمة بالمنتجات التي يتم شراؤها بشكل شائع مع محتويات سلة التسوق الحالية للمستهلك.</span><span class="sxs-lookup"><span data-stu-id="7d204-109">**Frequently bought together** - This list recommends products that are commonly purchased together with the contents of the consumer’s current cart.</span></span>
+    - <span data-ttu-id="7d204-110">**‬‏‫الأشخاص يفضلون أيضاً** - تعرض هذه القائمة المنتجات الموصى بها لمنتج أولي معين بناءً على أنماط شراء المستهلك.</span><span class="sxs-lookup"><span data-stu-id="7d204-110">**People also like** - This list shows recommended products for a given seed product based on consumer purchase patterns.</span></span>
+    - <span data-ttu-id="7d204-111">**منتقاة من أجلك** - توفر هذه القائمة توصيات مخصصة بناءً على سجل الشراء لمستخدم قام بتسجيل الدخول.</span><span class="sxs-lookup"><span data-stu-id="7d204-111">**Picks for you** - This list provides personalized recommendations based on the purchase history of a signed-in user.</span></span>
+
+<span data-ttu-id="7d204-112">بالإضافة إلى ذلك، يمكنك استخدام **المنتجات حسب الفئة**، **مرتبطة بالمنتجات**، **نتائج البحث**، و **توصيات منتجات مختارة‬** من داخل وحدة مجموعة المنتجات لتكوين قوائم التوصيات يدوياً.</span><span class="sxs-lookup"><span data-stu-id="7d204-112">Additionally, you can use the **Products by Category**, **Related to Products**, **Search results**, and **Curated product lists** from within the product collection module to manually configure recommendation lists.</span></span>
+
+<span data-ttu-id="7d204-113">في Commerce، يمكن لتجار التجزئة أيضاً إتاحة توصيات منتجات مخصصة.</span><span class="sxs-lookup"><span data-stu-id="7d204-113">In Commerce, retailers can also make personalized product recommendations available.</span></span> <span data-ttu-id="7d204-114">نتيجة لذلك، يمكن دمج التوصيات المخصصة في تجربة العملاء عبر الإنترنت وفي نقطة البيع.</span><span class="sxs-lookup"><span data-stu-id="7d204-114">As a result, personalized recommendations can be incorporated into the online customer experience and at the point of sale.</span></span> <span data-ttu-id="7d204-115">عند تشغيل وظيفة التخصيص، يمكن للنظام إقران شراء المستخدم بمعلومات استعراض المنتج لإنشاء توصيات منتج فردية.</span><span class="sxs-lookup"><span data-stu-id="7d204-115">When the personalization functionality is turned on, the system can associate a user's purchase and product browsing information to generate individualized product recommendations.</span></span>
+

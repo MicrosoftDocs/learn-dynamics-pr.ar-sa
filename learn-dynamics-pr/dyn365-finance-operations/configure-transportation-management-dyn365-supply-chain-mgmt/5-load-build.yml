@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.5-load-building-strategy
+title: استراتيجية إنشاء الحِمل
+metadata:
+  title: استراتيجية إنشاء الحِمل
+  description: تصف هذه الوحدة استراتيجية إنشاء الحِمل في Dynamics 365 Supply Chain Management.
+  ms.date: 02/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2f9fb8b47d5fd8b4630d7452663d8861c15353a3
+  ms.sourcegitcommit: de79d56e760ae35a1ea1549067da2fba04de7088
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/01/2021
+  ms.locfileid: "6073661"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-load-building-strategy.md)]

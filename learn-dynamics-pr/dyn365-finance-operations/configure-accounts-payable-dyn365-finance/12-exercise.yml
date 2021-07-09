@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.12-exercise-configure-ap-components
+title: 'معمل: تكوين مكونات الحسابات الدائنة'
+labId: 64528
+metadata:
+  title: 'معمل: تكوين مكونات الحسابات الدائنة'
+  description: تدرب على تكوين مكونات الحسابات الدائنة في Dynamics 365 Finance.
+  ms.date: 04/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 84258b08cdf8b4570bf84672e6ad32e0fc084b6d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070700"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/12-exercise-configure-ap-components.md)] \n[!include[](../includes/standalone-lab-end.md)]"

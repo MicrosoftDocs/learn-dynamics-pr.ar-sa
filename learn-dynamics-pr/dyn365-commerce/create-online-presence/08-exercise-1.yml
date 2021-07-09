@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-online-presence.08-exercise-1
+title: تمرين - تحديث صفحة ونشرها في موقع تجارة إلكترونية
+metadata:
+  title: تمرين - تحديث صفحة ونشرها في موقع تجارة إلكترونية
+  description: ستقوم في هذا التمرين بتحديث صفحة ونشرها في موقع تجارة إلكترونية.
+  ms.date: 07/17/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: fc348828839bed21c643267cb55f935352119c2f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070303"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-exercise-1.md)]"

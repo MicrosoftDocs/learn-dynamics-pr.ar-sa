@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-work-e-commerce
+metadata:
+  title: تكوين التجارة الإلكترونية والتعامل معها في Dynamics 365 Commerce
+  description: تمكّن القنوات عبر الإنترنت وموقع التجارة الإلكترونية في Dynamics 365 Commerce تجار التجزئة من إنشاء حضور عبر الإنترنت لعلامتهم التجارية.
+  ms.date: 07/13/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 6c40138dbf5679156b087b1878ef501000845d0e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074541"
+title: تكوين التجارة الإلكترونية والتعامل معها في Dynamics 365 Commerce
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تمكّن القنوات عبر الإنترنت وموقع التجارة الإلكترونية في Dynamics 365 Commerce تجار التجزئة من إنشاء حضور عبر الإنترنت لعلامتهم التجارية.
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Commerce
+
+  - فهم قنوات التجارة عبر الإنترنت وموقع التجارة الإلكترونية
+iconUrl: /learn/achievements/configure-work-e-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+modules:
+- learn-dynamics.create-online-presence
+- learn-dynamics.create-transactions-e-commerce
+trophy:
+  uid: learn-dynamics.configure-work-e-commerce.trophy

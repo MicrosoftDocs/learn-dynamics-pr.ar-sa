@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-expense-management.9-expense-categories
+title: فئات المصروفات والفئات المشتركة
+metadata:
+  title: فئات المصروفات والفئات المشتركة
+  description: تعرف على فئات المصروفات والفئات المشتركة في إدارة المصروفات في Dynamics 365 Project Operations.
+  ms.date: 11/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: a4c16f24a77438daec249c78299e421c32c20ce2
+  ms.sourcegitcommit: a06280974aa467ea2a047b012153260ccab187e2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/23/2020
+  ms.locfileid: "6072719"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-expense-categories.md)]"

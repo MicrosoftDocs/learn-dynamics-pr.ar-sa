@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-store-inventory-commerce
+metadata:
+  title: إدارة مخزون المتجر في Dynamics 365 Commerce
+  description: يوفر Microsoft Dynamics 365 Commerce وظائف لإدارة مخزون المتجر، بما في ذلك إمكانات تجديد مخزون المتجر، وعمليات مخزون المخزن الواردة والصادرة، وجرد مخزون المتجر، وإمكانات البحث في مخزون المتجر.
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b216e29f58d4dcf16c60c57590a2b228f1f78a17
+  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2021
+  ms.locfileid: "6070519"
+title: إدارة مخزون المتجر في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيوفر Dynamics 365 Commerce وظائف لإدارة مخزون المتجر، بما في ذلك إمكانات تجديد مخزون المتجر، وعمليات مخزون المخزن الواردة والصادرة، وجرد مخزون المتجر، وإمكانات البحث في مخزون المتجر.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المفاهيم الأساسية لإدارة مخزون المتجر في Dynamics 365 Commerce.\n- تعرف على كيفية إدارة التزويد الأساسي لمخزون المتجر باستخدام مخزون من مستودع آخر أو مخزون آخر صادر من أمر شراء.\n- تعرف على كيفية استلام المخزون في المتجر باستخدام العملية الواردة.\n- تعرف على كيفية شحن أوامر التحويل الصادرة في المتجر باستخدام العملية الصادرة.\n- تعلم كيفية إجراء عمليات جرد المخزون في تطبيق نقطة البيع (POS).\n- تعرف على كيفية إجراء بحث في المخزون من نقطة البيع.\n"
+prerequisites: >
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
+
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+
+  - المعرفة العامة بنقطة البيع
+iconUrl: /learn/achievements/manage-store-inventory-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.manage-store-inventory-commerce.01-introduction
+- learn-dynamics.manage-store-inventory-commerce.02-replenish-stores
+- learn-dynamics.manage-store-inventory-commerce.03-receive-store-inventory
+- learn-dynamics.manage-store-inventory-commerce.04-request-inbound-transfer
+- learn-dynamics.manage-store-inventory-commerce.05-create-outbound-transfer
+- learn-dynamics.manage-store-inventory-commerce.06-process-shipment-outbound
+- learn-dynamics.manage-store-inventory-commerce.07-count-journal-pos
+- learn-dynamics.manage-store-inventory-commerce.08-predefine-count-journal-hq
+- learn-dynamics.manage-store-inventory-commerce.09-inventory-lookup
+- learn-dynamics.manage-store-inventory-commerce.10-exercise-1
+- learn-dynamics.manage-store-inventory-commerce.11-exercise-2
+- learn-dynamics.manage-store-inventory-commerce.12-exercise-3
+- learn-dynamics.manage-store-inventory-commerce.13-exercise-4
+- learn-dynamics.manage-store-inventory-commerce.14-check
+- learn-dynamics.manage-store-inventory-commerce.15-summary
+badge:
+  uid: learn-dynamics.manage-store-inventory-commerce.badge

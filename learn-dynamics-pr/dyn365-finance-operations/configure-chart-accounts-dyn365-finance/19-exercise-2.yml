@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.19-exercise-create-advanced-rule-structure
+title: المعمل - إنشاء بنية قاعدة متقدمة
+labId: 64191
+metadata:
+  title: المعمل - إنشاء بنية قاعدة متقدمة
+  description: تدرب على إنشاء بنية قاعدة متقدمة في Dynamics 365 for Finance and Operations.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2dad3602a97c5a5a2fbab6a165bedd8555827a0a
+  ms.sourcegitcommit: 604c633dd0ef93dcc60ff5cc956d9ea1ec728f22
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "6070996"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/19-exercise-create-advanced-rule-structure.md)] \n[!include[](../includes/standalone-lab-end.md)]"

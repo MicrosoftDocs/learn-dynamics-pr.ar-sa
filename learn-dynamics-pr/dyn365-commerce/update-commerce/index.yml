@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.update-commerce
+metadata:
+  title: تحديث Dynamics 365 Commerce
+  description: يقدم إصدار واحد حلاً إلى طراز تحديث خدمة تأجير البرامج (SaaS) للتطبيق Dynamics 365 Commerce لمنح العملاء الفرصة لتحديث بيئتهم.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e3ef24f698eb2eed727c62867e5d779e2f306251
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6070532"
+title: تحديث Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيقدم إصدار واحد حلاً إلى طراز تحديث خدمة تأجير البرامج (SaaS) للتطبيق Dynamics 365 Commerce لمنح العملاء الفرصة لتحديث بيئتهم من خلال أحدث عمليات الإصلاحات السريعة والتحسينات والوظائف الجديدة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على تحديثات الخدمة والإجراءات لتطبيق التحديثات.\n- تعرف على كيفية تحديث تطبيق Modern POS. \n"
+prerequisites: >
+  - المعرفة الأساسية بعمليات البيع بالتجزئة
+
+  - معرفة عامة بخدمات Dynamics Lifecycle Services ‏(LCS) ونقطة البيع ومثبت الخدمة الذاتية
+
+  - الفهم العام لبنية Commerce ومكوناتها
+iconUrl: /learn/achievements/update-commerce.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- developer
+- administrator
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn-dynamics.update-commerce.01-introduction
+- learn-dynamics.update-commerce.02-system-updates
+- learn-dynamics.update-commerce.03-system-update-scenarios
+- learn-dynamics.update-commerce.04-view-apply-system-updates
+- learn-dynamics.update-commerce.05-update-pos-devices
+- learn-dynamics.update-commerce.06-check
+- learn-dynamics.update-commerce.07-summary
+badge:
+  uid: learn-dynamics.update-commerce.badge

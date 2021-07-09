@@ -1,0 +1,32 @@
+---
+ms.openlocfilehash: f9fc38e93539005ecfeaf2f261e2d5ca673c9a04
+ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "6070427"
+---
+<span data-ttu-id="bc8a6-101">خدمة الوقت الحقيقي هي خدمة متكاملة توفر اتصالاً في الوقت الفعلي بين المقر الرئيسي (HQ)والقنوات.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-101">Real-time service is an integrated service that provides real-time communication between Headquarters (HQ) and the channels.</span></span> <span data-ttu-id="bc8a6-102">تتيح الخدمة لأجهزة نقطة البيع الفردية والمتاجر عبر الإنترنت إمكانية استرداد بيانات محددة من المقر الرئيسي في الوقت الفعلي.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-102">This service enables individual POS computers and online stores to retrieve specific data from Headquarters in real time.</span></span> <span data-ttu-id="bc8a6-103">على سبيل المثال، إذا كنت تقوم بإنشاء أوامر شراء أو أوامر مبيعات أو أوامر تحويل تتضمن حقولاً كمخزون أو عمليات بحث عن الأسعار، فإن هذه الخدمة توفر بيانات حديثة ومحدثة من المقر الرئيسي.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-103">For example, if you are creating purchase orders, sales orders, or transfer orders that include fields as inventory or price lookups, this service provides fresh and updated data from HQ.</span></span> 
+
+<span data-ttu-id="bc8a6-104">تُظهر الصورة التالية تدفق البيانات (الرئيسية والمعاملات) ومخازن البيانات المختلفة التي تستند إلى البنية المحددة.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-104">The following image shows the flow of data (master and transactional) and the various data stores that are based on the selected topology.</span></span>
+
+<span data-ttu-id="bc8a6-105">[ ![هيكل التجارة وتدفق البيانات في Dynamics 365 Commerce.](../media/commerce-architecture-data-sync.jpg) ](../media/commerce-architecture-data-sync.jpg#lightbox)</span><span class="sxs-lookup"><span data-stu-id="bc8a6-105">[ ![Commerce architecture and flow of data in Dynamics 365 Commerce.](../media/commerce-architecture-data-sync.jpg) ](../media/commerce-architecture-data-sync.jpg#lightbox)</span></span>
+
+
+<span data-ttu-id="bc8a6-106">على الرغم من إمكانية إجراء معظم العمليات الرئيسية في قاعدة بيانات القناة المحلية، فإن المهام التالية تتطلب وصولاً مباشراً إلى البيانات المخزنة في المقر الرئيسي:</span><span class="sxs-lookup"><span data-stu-id="bc8a6-106">Though most key operations can be performed in the local channel database, the following tasks require direct access to the data that is stored in Headquarters:</span></span>
+
+- <span data-ttu-id="bc8a6-107">إصدار واستبدال بطاقات الهدايا</span><span class="sxs-lookup"><span data-stu-id="bc8a6-107">Issuing and redeeming gift cards</span></span>
+- <span data-ttu-id="bc8a6-108">استبدال نقاط الولاء</span><span class="sxs-lookup"><span data-stu-id="bc8a6-108">Redeeming loyalty points</span></span>
+- <span data-ttu-id="bc8a6-109">إصدار واسترداد المذكرات الدائنة</span><span class="sxs-lookup"><span data-stu-id="bc8a6-109">Issuing and redeeming credit memos</span></span>
+- <span data-ttu-id="bc8a6-110">إنشاء وتحديث سجلات العملاء</span><span class="sxs-lookup"><span data-stu-id="bc8a6-110">Creating and updating customer records</span></span>
+- <span data-ttu-id="bc8a6-111">إنشاء وتحديث واستكمال أوامر المبيعات</span><span class="sxs-lookup"><span data-stu-id="bc8a6-111">Creating, updating, and completing sales orders</span></span>
+- <span data-ttu-id="bc8a6-112">استلام المخزون مقابل أمر الشراء أو أمر التحويل</span><span class="sxs-lookup"><span data-stu-id="bc8a6-112">Receiving inventory against a purchase order or transfer order</span></span>
+- <span data-ttu-id="bc8a6-113">جرد المخزون</span><span class="sxs-lookup"><span data-stu-id="bc8a6-113">Performing inventory counts</span></span>
+- <span data-ttu-id="bc8a6-114">استرجاع حركات المبيعات عبر المتاجر وإتمام معاملات الإرجاع</span><span class="sxs-lookup"><span data-stu-id="bc8a6-114">Retrieving sales transactions across stores and completing return transactions</span></span>
+
+<span data-ttu-id="bc8a6-115">يتم استخدام الخدمات غير المتزامنة مع Microsoft SQL Server لتعقب التغييرات في قاعدة بيانات التجارة لتحديد تغييرات البيانات التي يجب إرسالها إلى القنوات كمجموعات بيانات.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-115">Async services with Microsoft SQL Server change tracking on the Commerce database is used to determine the data changes that must be sent to channels as datasets.</span></span> <span data-ttu-id="bc8a6-116">بناءً على جدول التوزيع، سيقوم المقر الرئيسي بحزم تلك البيانات وحفظها في (‏‏‏‏مخزن الكائنات الثنائية كبيرة الحجم لـ Microsoft Azure ).</span><span class="sxs-lookup"><span data-stu-id="bc8a6-116">Based on a distribution schedule, Headquarters will package that data and save it to central storage (Microsoft Azure Blob storage).</span></span> 
+
+<span data-ttu-id="bc8a6-117">تستخدم معالجة دُفعة منفصلة Commerce Data Exchange:مكتبة Async Client لإدراج حزمة البيانات هذه في قاعدة بيانات القناة.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-117">A separate batch process uses Commerce Data Exchange: Async Client library to insert this data package into the channel database.</span></span> 
+
+<span data-ttu-id="bc8a6-118">على سبيل المثال، لديك قنوات متعددة، ويمكن لكل قناة إنشاء طلبات العملاء.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-118">For example, you have multiple channels, and each channel can create customer orders.</span></span> <span data-ttu-id="bc8a6-119">يجب على المقر الرئيسي تسجيل طلبات العملاء واستخدامها للإحصاءات للإنتاج.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-119">Headquarters should register those customer orders and use them for statistics for production.</span></span> <span data-ttu-id="bc8a6-120">عند إنشاء أوامر العملاء في الوضع غير المتزامن، يتم سحبها وإدراجها في وظائف التجارة عن طريق Pull‏ (P).</span><span class="sxs-lookup"><span data-stu-id="bc8a6-120">When customer orders are created in asynchronous mode, they are pulled and inserted into Commerce by Pull (P) jobs.</span></span> <span data-ttu-id="bc8a6-121">سيتم إنشاء أوامر المبيعات المقابلة يدوياً أو من خلال عملية معالجة دُفعة لوظيفة المجدول لتحميل البيانات.</span><span class="sxs-lookup"><span data-stu-id="bc8a6-121">The corresponding sales orders will be created manually or through a batch process of the scheduler job for uploading data.</span></span>
+

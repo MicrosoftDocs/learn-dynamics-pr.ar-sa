@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-project-sales-management.08-check
+title: تحقق من مستوى معرفتك
+metadata:
+  title: تحقق من مستوى معرفتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 2d9c1283f92330bd90abc3a90cf3a2f7a259de3d
+  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/19/2021
+  ms.locfileid: "6072843"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: هل صحيح أنه لا يمكنك إنشاء عرض أسعار للمشروع إلا إذا قمت بإنشاء فرصة مشروع أولاً؟
+    choices:
+    - content: نعم، هذا صحيح.
+      isCorrect: false
+      explanation: يمكنك إنشاء عروض أسعار المشروع مباشرةً دون إنشاء فرصة مشروع.
+    - content: لا، هذا خطأ
+      isCorrect: true
+      explanation: يمكنك إنشاء عروض أسعار المشروع مباشرةً دون إنشاء فرصة مشروع.
+  - content: قدمت شركتك لعميلك عرض أسعار لمشروع لقدر كبير من العمل. راجع العميل عرض الأسعار ووافق عليه. فما الذي ينبغي لك فعله بعد ذلك؟
+    choices:
+    - content: إنشاء فاتورة مشروع جديد.
+      isCorrect: false
+      explanation: من السابق لأوانه إنشاء فاتورة مشروع جديد. تحتاج إلى إنشاء عقد مشروع أولاً.
+    - content: إنشاء عقد مشروع جديد مباشرةً.
+      isCorrect: false
+      explanation: مع أنه يمكنك إنشاء عقد مشروع جديد مباشرةً، إلا أن الأمر يتطلب عملاً أكثر من تغيير حالة عرض أسعار المشروع إلى "إغلاق كمكسب".
+    - content: تغيير حالة عرض أسعار المشروع إلى "إغلاق كمكسب".
+      isCorrect: true
+      explanation: سيؤدي تغيير الحالة إلى "إغلاق كمكسب" إلى تحويل عرض أسعار المشروع إلى عقد مشروع.
+  - content: هل يمكنك إنشاء مشروع جديد دون إقرانه مباشرةً بعرض أسعار مشروع أو عقد مشروع؟
+    choices:
+    - content: نعم، يمكنك.
+      isCorrect: true
+      explanation: يمكنك في البداية إنشاء مشروع جديد من دون عرض أسعار مشروع أو عقد مشروع مرتبط. سوف تقوم بإقران المشروع لاحقاً في هذه العملية.
+    - content: لا، لا يمكنك.
+      isCorrect: false
+      explanation: يمكنك إنشاء مشروع جديد مباشرةً دون ربطه مباشرةً بعرض أسعار مشروع أو عقد. سوف تقوم بإقران المشروع لاحقاً في هذه العملية.

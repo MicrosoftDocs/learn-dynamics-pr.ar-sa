@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.07-bom-measurements
+title: قياسات BOM
+metadata:
+  title: قياسات BOM
+  description: تشرح هذه الوحدة قياسات BOM في Dynamics 365 Supply Chain Management.
+  ms.date: 04/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b57a6bb3337d8843666496f4c8fca02adfbeef4c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6073248"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/07-bom-measurements.md)]

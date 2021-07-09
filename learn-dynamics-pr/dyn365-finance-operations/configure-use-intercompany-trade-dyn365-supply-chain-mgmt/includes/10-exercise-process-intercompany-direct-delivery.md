@@ -1,0 +1,59 @@
+---
+ms.openlocfilehash: ff29fb27ca8ba37db210d5ed2ec621c00ff10c91
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6073128"
+---
+<span data-ttu-id="55b56-101">في **DEMF**، طلب العميل Southridge Video **DE-016** عدد 2 قطعة من الصنف رقم **0001**.</span><span class="sxs-lookup"><span data-stu-id="55b56-101">In **DEMF**, the customer Southridge Video **DE-016** orders two pieces of item number **0001**.</span></span> <span data-ttu-id="55b56-102">افترض أنه ليس لديك مخزون فعلي متوفر.</span><span class="sxs-lookup"><span data-stu-id="55b56-102">Assume that you have no on-hand inventory available.</span></span>
+<span data-ttu-id="55b56-103">لذلك، يجب إنشاء سلسلة بين الشركات الشقيقة.</span><span class="sxs-lookup"><span data-stu-id="55b56-103">Therefore, you must create an intercompany chain.</span></span> <span data-ttu-id="55b56-104">للحفاظ على التفاعل اليدوي إلى أدنى حد ممكن، يجب إنشاء هذه السلسلة تلقائياً.</span><span class="sxs-lookup"><span data-stu-id="55b56-104">To keep manual interaction to a minimum, this chain should be created automatically.</span></span> <span data-ttu-id="55b56-105">يقع تاريخ التسليم في أقرب وقت ممكن، وبالتالي تطلب من المورد **USMF** شحن الأصناف مباشرةً إلى العميل Southridge Video.</span><span class="sxs-lookup"><span data-stu-id="55b56-105">The delivery date is as soon as possible, so you ask the vendor, **USMF**, to ship the items directly to the customer Southridge Video.</span></span>
+
+1.  <span data-ttu-id="55b56-106">في **DEMF**، افتح **‏‫التدبير والتوريد‬ > الموردين > كافة الموردين**.</span><span class="sxs-lookup"><span data-stu-id="55b56-106">In **DEMF**, open **Procurement and sourcing > Vendors > All Vendors**.</span></span>
+2.  <span data-ttu-id="55b56-107">حدد **حساب المورد US-001**، ثم حدد **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="55b56-107">Select **Vendor account US-001** and then select **Edit**.</span></span>
+3.  <span data-ttu-id="55b56-108">حدد علامة التبويب **عام** ثم حدد **بين شركات شقيقة**.</span><span class="sxs-lookup"><span data-stu-id="55b56-108">Select the **General** tab and then select **Intercompany**.</span></span>
+4.  <span data-ttu-id="55b56-109">حدد **سياسات أوامر الشراء**.</span><span class="sxs-lookup"><span data-stu-id="55b56-109">Select **Purchase order policies**.</span></span>
+5.  <span data-ttu-id="55b56-110">في مجموعة حقل **أمر المبيعات الأصلي (تسليم مباشر)**، قم بإجراء الإعداد التالي.</span><span class="sxs-lookup"><span data-stu-id="55b56-110">In the **Original sales order (direct delivery)** field group,    perform the following setup.</span></span>
+6.  <span data-ttu-id="55b56-111">قم بمسح المعلمة **طباعة إيصال التعبئة تلقائياً**.</span><span class="sxs-lookup"><span data-stu-id="55b56-111">Clear the **Print packing slip automatically** parameter.</span></span>
+7.  <span data-ttu-id="55b56-112">حدد المعلمة **ترحيل الفاتورة تلقائياً**.</span><span class="sxs-lookup"><span data-stu-id="55b56-112">Select the **Post invoice automatically** parameter.</span></span>
+8.  <span data-ttu-id="55b56-113">قم بمسح المعلمة **طباعة الفاتورة تلقائياً**.</span><span class="sxs-lookup"><span data-stu-id="55b56-113">Clear the **Print invoice automatically** parameter.</span></span>
+9.  <span data-ttu-id="55b56-114">في حقل مجموعة **أمر شراء بين شركات شقيقة (تسليم مباشر)**، قم بمسح المعلمة **طباعة إيصال التعبئة تلقائياً**.</span><span class="sxs-lookup"><span data-stu-id="55b56-114">In the **Intercompany purchase order (direct delivery)** field group, clear the **Print packing slip automatically** parameter.</span></span>
+10. <span data-ttu-id="55b56-115">حدد المعلمة **ترحيل الفاتورة تلقائياً**.</span><span class="sxs-lookup"><span data-stu-id="55b56-115">Select the **Post invoice automatically** parameter.</span></span>
+11. <span data-ttu-id="55b56-116">قم بمسح المعلمة **طباعة الفاتورة تلقائياً**.</span><span class="sxs-lookup"><span data-stu-id="55b56-116">Clear the **Print invoice automatically** parameter.</span></span>
+12. <span data-ttu-id="55b56-117">حدد **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="55b56-117">Select **Save**.</span></span>
+13. <span data-ttu-id="55b56-118">حدد **نعم**.</span><span class="sxs-lookup"><span data-stu-id="55b56-118">Select **Yes**.</span></span>
+14. <span data-ttu-id="55b56-119">أغلق الصفحة.</span><span class="sxs-lookup"><span data-stu-id="55b56-119">Close the page.</span></span>
+
+
+<span data-ttu-id="55b56-120">**تعيين المعلمات الخاصة بالعميل وإنشاء السلسلة بين الشركات الشقيقة**</span><span class="sxs-lookup"><span data-stu-id="55b56-120">**Set parameters on the customer and create the intercompany chain**</span></span>
+
+1. <span data-ttu-id="55b56-121">في **DEMF**، افتح **المبيعات والتسويق > العملاء > كافة العملاء**.</span><span class="sxs-lookup"><span data-stu-id="55b56-121">In **DEMF**, open **Sales and marketing > Customers > All Customers**.</span></span>
+17. <span data-ttu-id="55b56-122">حدد **حساب العميل DE-016**، ثم حدد **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="55b56-122">Select **Customer account DE-016** and then select **Edit**.</span></span>
+18. <span data-ttu-id="55b56-123">قم بتوسيع علامة التبويب السريعة **التفاصيل المتنوعة** وحدد معلمات **إنشاء أوامر بين شركات شقيقة** و **تسليم مباشر**.</span><span class="sxs-lookup"><span data-stu-id="55b56-123">Expand the **Miscellaneous details** FastTab and select the **Create    intercompany orders** and the **Direct delivery** parameters.</span></span>
+19. <span data-ttu-id="55b56-124">في جزء الإجراء، حدد علامة التبويب **بيع** ثم حدد علامة التبويب **أمر مبيعات**.</span><span class="sxs-lookup"><span data-stu-id="55b56-124">Select the **Sell** tab on the Action Pane and then select **Sales    order**.</span></span>
+20. <span data-ttu-id="55b56-125">في الجزء السفلي من صفحة **أمر المبيعات**، قم بإنشاء بند أمر مبيعات جديد **لصنف رقم 0001** وكمية عدد 2.</span><span class="sxs-lookup"><span data-stu-id="55b56-125">In the lower part of the **Sales order** page, create a new sales    order line for **Item number 0001** and a quantity of two.</span></span>
+21. <span data-ttu-id="55b56-126">في جزء الإجراءات حدد **أمر مبيعات**، ثم حدد علامة تبويب **تسليم مباشر**.</span><span class="sxs-lookup"><span data-stu-id="55b56-126">Select **Sales order** on the Action Pane and select **Direct delivery**.</span></span>
+22. <span data-ttu-id="55b56-127">لاحظ أنه يتم تحديد المورد **USMF** **US-001** تلقائياً.</span><span class="sxs-lookup"><span data-stu-id="55b56-127">Note that **USMF**, vendor **US-001**, is automatically selected.</span></span>
+23. <span data-ttu-id="55b56-128">حدد خانة الاختيار **تضمين**.</span><span class="sxs-lookup"><span data-stu-id="55b56-128">Select the **Include** check box.</span></span>
+24. <span data-ttu-id="55b56-129">حدد **موافق**.</span><span class="sxs-lookup"><span data-stu-id="55b56-129">Select **OK**.</span></span> <span data-ttu-id="55b56-130">قد تتلقى تحذيراً بشأن حد الائتمان؛ تجاهله.</span><span class="sxs-lookup"><span data-stu-id="55b56-130">You might receive a credit limit warning; ignore it.</span></span>
+26. <span data-ttu-id="55b56-131">قم بتوسيع شريط المعلومات وحدد تفاصيل الرسالة.</span><span class="sxs-lookup"><span data-stu-id="55b56-131">Expand the information bar and select the message details.</span></span>
+27. <span data-ttu-id="55b56-132">تأكد من أنه تم إنشاء أمر مبيعات بين شركات شقيقة.</span><span class="sxs-lookup"><span data-stu-id="55b56-132">Confirm that an intercompany sales order has been created.</span></span>
+28. <span data-ttu-id="55b56-133">تأكد من أنه تم إنشاء أمر الشراء.</span><span class="sxs-lookup"><span data-stu-id="55b56-133">Confirm that a purchase order has been created.</span></span>
+29. <span data-ttu-id="55b56-134">حدد عنوانا آخر لأمر المبيعات ولاحظ أنه يتم تلقائياً إنشاء أمر شراء وتسليم مباشر لأمر المبيعات بين الشركات الشقيقة.</span><span class="sxs-lookup"><span data-stu-id="55b56-134">Select another sales order header and notice that a purchase order    and an intercompany sales order direct delivery are created    automatically.</span></span>
+
+<span data-ttu-id="55b56-135">**تحديث إيصال تعبئة أمر المبيعات بين الشركات الشقيقة**</span><span class="sxs-lookup"><span data-stu-id="55b56-135">**Update the intercompany sales order packing slip**</span></span>
+
+1. <span data-ttu-id="55b56-136">افتح أمر المبيعات الأصلي الذي تم إنشاؤه مسبقاً، وحدد علامة التبويب **إدارة**، ثم حدد **أمر مبيعات بين شركات شقيقة**.</span><span class="sxs-lookup"><span data-stu-id="55b56-136">Open the original sales order that was previously created, select the    **Manage** tab, and then select **Intercompany sales order**.</span></span>
+1. <span data-ttu-id="55b56-137">حدد **الانتقاء والتعبئة** في جزء الإجراء، ثم حدد **ترحيل إيصال التعبئة**.</span><span class="sxs-lookup"><span data-stu-id="55b56-137">Select **Pick and Pack** on the Action Pane and then select **Post    packing slip**.</span></span>
+1. <span data-ttu-id="55b56-138">حدد **الكل** في حقل **الكمية**، ثم حدد **موافق**.</span><span class="sxs-lookup"><span data-stu-id="55b56-138">Select **All** in the **Quantity** field and then select **OK**.</span></span>
+1. <span data-ttu-id="55b56-139">حدد **موافق**.</span><span class="sxs-lookup"><span data-stu-id="55b56-139">Select **OK**.</span></span>
+1. <span data-ttu-id="55b56-140">قم بتوسيع **تفاصيل البند** في جزء الإجراء.</span><span class="sxs-lookup"><span data-stu-id="55b56-140">Expand the **Line details** on the Action Pane.</span></span>
+1. <span data-ttu-id="55b56-141">تحقق من أن عنوان التسليم خاص بـ Southridge Video، والعميل الأصلي هو **DEMF**.</span><span class="sxs-lookup"><span data-stu-id="55b56-141">Verify that the delivery address is for Southridge Video, the original customer in    **DEMF**.</span></span>
+1. <span data-ttu-id="55b56-142">ملاحظة: تم تعيين حالة أمر المبيعات بين الشركات الشقيقة على **تم التسليم**.</span><span class="sxs-lookup"><span data-stu-id="55b56-142">Note the intercompany sales order status is set to **Delivered**.</span></span>
+1. <span data-ttu-id="55b56-143">أغلق أمر المبيعات بين الشركات الشقيقة.</span><span class="sxs-lookup"><span data-stu-id="55b56-143">Close the intercompany sales order.</span></span> <span data-ttu-id="55b56-144">تم الآن العودة إلى أمر المبيعات الأصلي.</span><span class="sxs-lookup"><span data-stu-id="55b56-144">You are now back in the original sales order.</span></span> <span data-ttu-id="55b56-145">لاحظ حالة الأمر.</span><span class="sxs-lookup"><span data-stu-id="55b56-145">Note the status of the order.</span></span>
+1. <span data-ttu-id="55b56-146">قم بتحديث صفحة أمر المبيعات الأصلية.</span><span class="sxs-lookup"><span data-stu-id="55b56-146">Refresh the original sales order page.</span></span>
+1. <span data-ttu-id="55b56-147">لاحظ أن حالة الأمر هي **تم التسليم**.</span><span class="sxs-lookup"><span data-stu-id="55b56-147">Note that the status of the order is **Delivered**.</span></span>
+1. <span data-ttu-id="55b56-148">في **إدارة**، حدد **أمر شراء** ضمن جزء الإجراء.</span><span class="sxs-lookup"><span data-stu-id="55b56-148">In **Manage**, on the Action Pane, select **Purchase order**.</span></span>
+1. <span data-ttu-id="55b56-149">لاحظ أن حالة الأمر هي **تم الاستلام**.</span><span class="sxs-lookup"><span data-stu-id="55b56-149">Note that the status of the order is **Received**.</span></span>
+1. <span data-ttu-id="55b56-150">قم بتوسيع **تفاصيل البند** في جزء الإجراء.</span><span class="sxs-lookup"><span data-stu-id="55b56-150">Expand the **Line details** in the Action Pane.</span></span>
+1. <span data-ttu-id="55b56-151">تحقق من أن عنوان التسليم خاص بـ Southridge Video، والعميل الأصلي هو **DEMF**.</span><span class="sxs-lookup"><span data-stu-id="55b56-151">Verify that the delivery address is for Southridge Video, the original customer in    **DEMF**.</span></span>

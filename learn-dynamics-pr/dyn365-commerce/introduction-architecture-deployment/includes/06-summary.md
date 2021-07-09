@@ -1,0 +1,13 @@
+---
+ms.openlocfilehash: 7c5d908d89287ccb4bc30929b9ccec47d59c3242
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070235"
+---
+<span data-ttu-id="83870-101">تم تصميم Dynamics 365 Commerce ليكون نظاماً أساسياً قوياً يعمل مع تطبيقا Dynamics 365 لإنشاء تدفق سلس من العمليات التجارية عبر وظائف متعددة في المؤسسة.</span><span class="sxs-lookup"><span data-stu-id="83870-101">Dynamics 365 Commerce is designed to be a robust platform that works with various Dynamics 365 apps to create a seamless flow of business processes across various functions in the organization.</span></span> <span data-ttu-id="83870-102">يقوم التكامل الجاهز بين محرك التجارة بدون أجهزة ملحقة‬‬ وإدارة Commerce بتوسيع تغطية هذه العمليات التجارية المترابطة هذه عبر المكتب الخلفي وقنوات Commerce.</span><span class="sxs-lookup"><span data-stu-id="83870-102">The out-of-the-box integration between the headless Commerce engine and Commerce headquarters further expands the coverage of these interconnected business processes across the back-office and Commerce channels.</span></span> 
+
+<span data-ttu-id="83870-103">من خلال العمل مع قنوات Commerce، يمكنك التفاعل مع عملائك من خلال واجهة متجر للتجارة الإلكترونية أو CPOS أو MPOS أو من خلال مركز اتصال.</span><span class="sxs-lookup"><span data-stu-id="83870-103">By working with Commerce channels, you can interact with your customers through an e-Commerce storefront, a CPOS, or MPOS, or through a call center.</span></span> <span data-ttu-id="83870-104">باستخدام أنواع مختلفة من الهياكل داخل المتجر، يمكنك تغطية جميع سيناريوهات التوزيع الممكنة، اعتماداً على احتياجات العملاء وإمكانيات الشبكة والمواقع الجغرافية.</span><span class="sxs-lookup"><span data-stu-id="83870-104">By using different types of in-store topologies, you can potentially cover all possible scenarios of deployment, depending on the needs of the customers, the network capabilities, and geographical locations.</span></span> 
+
+<span data-ttu-id="83870-105">تتيح لك الطبيعة المركزية لقدرات تخزين البيانات في Commerce، بالإضافة إلى قوة الذكاء الاصطناعي والتحليلات، إمكانية استخلاص المعلومات والحصول على مؤشرات الأداء الأساسية التي يمكن استخدامها لتحسين عمليات الأعمال وأتمتتها عبر جميع القنوات.</span><span class="sxs-lookup"><span data-stu-id="83870-105">The centralized nature of the data-storing capabilities of Commerce, together with the power of AI and analytics, enable you to derive insights and get key performance indicators that can be used to optimize and automate business processes across all channels.</span></span>

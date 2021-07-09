@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.14-exercise-define-ledger-posting-production
+title: 'معمل: تعريف ترحيل دفتر الأستاذ للإنتاج'
+labId: 72665
+metadata:
+  title: 'معمل: تعريف ترحيل دفتر الأستاذ للإنتاج'
+  description: تدرب على تعريف ترحيل دفتر الأستاذ للإنتاج في Supply Chain Management.
+  ms.date: 03/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8cbece4d3b149b3b84c7bddb27707a36658e4f6a
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6073587"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/14-exercise-define-ledger-posting-production.md)] \n[!include[](../includes/non-final-lab-end.md)]"

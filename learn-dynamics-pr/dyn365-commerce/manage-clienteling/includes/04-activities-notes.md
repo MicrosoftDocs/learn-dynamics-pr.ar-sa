@@ -1,0 +1,20 @@
+---
+ms.openlocfilehash: c512ed1527257712c976272c572419951e4473b7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070275"
+---
+<span data-ttu-id="c2199-101">يمكن للقنوات عبر الإنترنت أن تقدم معلومات قيمة عن العميل دون مطالبة العميل صراحة بمشاركة هذه المعلومات.</span><span class="sxs-lookup"><span data-stu-id="c2199-101">Online channels can provide valuable information about the customer without requiring the customer to explicitly share such information.</span></span> <span data-ttu-id="c2199-102">في المقابل، يمكن أن توفر اختيارات العميل في المتاجر عبر الإنترنت ملفاً شخصياً جديراً بالملاحظة عن العميل.</span><span class="sxs-lookup"><span data-stu-id="c2199-102">Correspondingly, a customer’s selections in the online stores can provide a noteworthy profile of the customer.</span></span> <span data-ttu-id="c2199-103">ومع ذلك، عندما يذهب العميل إلى متجر مادي، فإنه يشارك بشكل صريح المعلومات التي يجب أن يلتقطها مندوب المبيعات وإلا فسيتم فقدها.</span><span class="sxs-lookup"><span data-stu-id="c2199-103">However, when the customer goes to a physical store, they explicitly share information that must be captured by the sales associate or it will be lost.</span></span> <span data-ttu-id="c2199-104">عندما يتم التقاط المعلومات، فإنها تساعد في إنشاء ملف تعريف العميل الذي يمكن أن يساعد في التفاعلات المستقبلية وفهم العميل بشكل أفضل وتقديم توصيات أكثر تخصيصاً، مما سيؤدي في النهاية إلى تجربة تسوق أفضل وزيادة المبيعات.</span><span class="sxs-lookup"><span data-stu-id="c2199-104">When the information is captured, it helps create a customer profile that can help in future interactions, understand the customer better, and provide more personalized recommendations, which will ultimately lead to a better shopping experience and increased sales.</span></span> 
+
+<span data-ttu-id="c2199-105">بصرف النظر عن سمات دفتر العميل، يمكن لشركاء المبيعات أيضاً استخدام ميزة الأنشطة والملاحظات لجمع معلومات مهمة.</span><span class="sxs-lookup"><span data-stu-id="c2199-105">Apart from the Client Book attributes, sales associates can also use the activities and notes feature to gather important information.</span></span> <span data-ttu-id="c2199-106">يمكن تحديد أنواع الأنشطة المختلفة، مثل:</span><span class="sxs-lookup"><span data-stu-id="c2199-106">Various activity types can be defined, such as:</span></span>
+
+- <span data-ttu-id="c2199-107">زيارات المتجر</span><span class="sxs-lookup"><span data-stu-id="c2199-107">Store visits</span></span>
+- <span data-ttu-id="c2199-108">المواعيد</span><span class="sxs-lookup"><span data-stu-id="c2199-108">Appointments</span></span>
+- <span data-ttu-id="c2199-109">معلومات جهة الاتصال.</span><span class="sxs-lookup"><span data-stu-id="c2199-109">Contact information.</span></span> 
+ 
+<span data-ttu-id="c2199-110">يمكن الاطلاع على هذه الأنشطة في نقطة البيع (POS) أو المقر التجاري.</span><span class="sxs-lookup"><span data-stu-id="c2199-110">These activities can be viewed in point of sale (POS) or Commerce Headquarter.</span></span> <span data-ttu-id="c2199-111">يمكن أيضاً استخدام الملاحظات النصية المجانية لالتقاط معلومات عامة.</span><span class="sxs-lookup"><span data-stu-id="c2199-111">Free text notes can also be used to capture generic information.</span></span> <span data-ttu-id="c2199-112">يتم حفظ هذه الملاحظات في المقر الرئيسي ويمكن عرضها قبل كل تفاعل على صفحة تفاصيل العميل في مركز الاتصال أو في ملف تعريف العميل.</span><span class="sxs-lookup"><span data-stu-id="c2199-112">These notes are saved in HQ and can be viewed before each interaction on the customer details page in the call center or on the customer profile.</span></span>
+ 
+<span data-ttu-id="c2199-113">يمكن عرض الملاحظات والأنشطة من قبل جميع شركاء المبيعات الذين يعملون في نفس الكيان القانوني ولا يقتصرون على الشريك الذي أضاف العميل إلى دفتر العميل.</span><span class="sxs-lookup"><span data-stu-id="c2199-113">Notes and activities can be viewed by all sales associates who are employed at the same legal entity and are not limited to the associate who added the customer to the Client Book.</span></span> 
+

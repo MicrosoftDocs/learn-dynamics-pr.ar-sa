@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-letters-of-credit-guarantees-in-dynamics-365-finance-ops.2-what-is-letter-of-credit
+title: ما المقصود بخطاب الاعتماد؟
+metadata:
+  title: ما المقصود بخطاب الاعتماد؟
+  description: استخدم خطابات الاعتماد في الشؤون المالية لشراء السلع وبيعها عبر الحدود الدولية.
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e83c439f590a0e6fbbdc90a645cf435da3be6067
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070683"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-what-is-letter-of-credit.md)]

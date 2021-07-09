@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.10-define-configure-financial-dimensions
+title: تعريف الأبعاد المالية وتكوينها
+metadata:
+  title: تعريف الأبعاد المالية وتكوينها
+  description: توضح هذه الوحدة كيفية تحديد الأبعاد المالية ومجموعات الأبعاد في Dynamics 365 Finance وتكوينها.
+  ms.date: 02/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/financial-dimensions
+  ms.openlocfilehash: 3e32703f254c897510d22334da14c728e86df797
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070943"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-define-configure-financial-dimensions.md)]
