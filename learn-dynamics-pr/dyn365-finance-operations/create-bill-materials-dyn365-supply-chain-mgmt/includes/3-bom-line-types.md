@@ -1,0 +1,27 @@
+---
+ms.openlocfilehash: ea0a0a7685ad8e8efbb0c7f1b221ebc218288c6a
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6073779"
+---
+
+<span data-ttu-id="1efb7-101">تقدم Supply Chain Management أنواع متعددة من بنود قائمة مكونات الصنف:</span><span class="sxs-lookup"><span data-stu-id="1efb7-101">Supply Chain Management offers various BOM line types:</span></span>
+
+-   <span data-ttu-id="1efb7-102">**الصنف** - حدد نوع بند الصنف للمواد أو الخدمات التي يتم استهلاكها مباشرةً، والتي لا تحتاج إلى عملية تحديد إضافية لإجمالي المكونات المطلوبة‬ أو توريد مثبت سعر.</span><span class="sxs-lookup"><span data-stu-id="1efb7-102">**Item** - Select the Item line type for materials or services that are directly consumed and that don't require further explosion or pegged supply.</span></span>
+
+-   <span data-ttu-id="1efb7-103">**التوريد مثبت السعر‬** - حدد نوع بند التوريد مثبت السعر‬ عندما ترغب في إنشاء إنتاج فرعي أو كانبان لحدث بند قائمة مكونات الصنف، أو أمر شراء مباشر لأي متغير منتج يشير إليه بند قائمة مكونات الصنف.</span><span class="sxs-lookup"><span data-stu-id="1efb7-103">**Pegged supply** - Select the Pegged supply line type when you want to create a sub production, a BOM line event kanban, or a direct purchase order for any product variant that the BOM line references.</span></span>
+    <span data-ttu-id="1efb7-104">يتم إنشاء الإنتاج الفرعي أو كانبان الحدث أو أمر الشراء عند تقدير أمر الإنتاج.</span><span class="sxs-lookup"><span data-stu-id="1efb7-104">The sub production, event kanban, or purchase order is created when you estimate the production order.</span></span> <span data-ttu-id="1efb7-105">يتم حجز كميات الأصناف المطلوبة تلقائياً لأمر الإنتاج الذي يتم استهلاكه.</span><span class="sxs-lookup"><span data-stu-id="1efb7-105">The required item quantities are automatically reserved for the consuming production order.</span></span>
+
+-   <span data-ttu-id="1efb7-106">**وهمي** - حدد نوع بند الصنف الوهمي عندما ترغب في تحديد إجمالي المكونات المطلوبة لأي صنف منخفض المستوى من أصناف قائمة مكونات الصنف (BOM) الموجودة في بند قائمة مكونات الصنف (BOM).</span><span class="sxs-lookup"><span data-stu-id="1efb7-106">**Phantom** - Select the Phantom line type when you want to explode any lower-level BOM items that are contained on the BOM line.</span></span> <span data-ttu-id="1efb7-107">عند استخدام بنود قائمة مكونات صنف من نوع وهمي، يتم استبدال بند قائمة مكونات الصنف الأصل الذي يشير إلى متغير المنتج الذي يتضمن قائمة مكونات صنف وهمية بأصناف مكونات يتم سردها كبنود قائمة مكونات صنف في قائمة مكونات الصنف هذه.</span><span class="sxs-lookup"><span data-stu-id="1efb7-107">When using BOM lines of the Phantom type, the parent BOM line that refers to a product variant that has a phantom BOM is replaced by the component items that are listed as BOM lines in that BOM.</span></span> <span data-ttu-id="1efb7-108">يتم تحديد ذلك بواسطة إصدار قائمة مكونات الصنف النشطة المعمول بها لمتغير المنتج هذا.</span><span class="sxs-lookup"><span data-stu-id="1efb7-108">This is determined by the applicable active BOM version of that product variant.</span></span> <span data-ttu-id="1efb7-109">وإذا كان متغير المنتج يتضمن مساراً نشطاً قابلاً للتطبيق، فيتم دمج عمليات هذا المسار في المسار الأصلي.</span><span class="sxs-lookup"><span data-stu-id="1efb7-109">If the product variant has an applicable active route, the operations of that route are merged into the parent route.</span></span>
+
+    <span data-ttu-id="1efb7-110">لاحظ أنه يتم استخدام القوائم الوهمية عادةً لتبسيط العملية الهندسية.</span><span class="sxs-lookup"><span data-stu-id="1efb7-110">Note that phantoms are typically used to simplify the engineering process.</span></span> <span data-ttu-id="1efb7-111">يؤثر الاستخدام المكثف لقوائم مكونات الصنف الوهمية على مستويات متعددة على الأداء، وتحديداً في سيناريوهات التصنيع المتكررة.</span><span class="sxs-lookup"><span data-stu-id="1efb7-111">Extensive use of phantom BOMs in many levels influences performance, especially in highly repetitive manufacturing scenarios.</span></span> <span data-ttu-id="1efb7-112">لتحسين الأداء، يجب عليك تجنب التدرجات الهرمية العميقة لقوائم مكونات الصنف الوهمية.</span><span class="sxs-lookup"><span data-stu-id="1efb7-112">To improve performance, you should avoid deep hierarchies of phantoms.</span></span> <span data-ttu-id="1efb7-113">بدلاً من ذلك، استخدم مسارات وقوائم مكونات الصنف (BOM) الخاصة بالإنتاج التي تم تحديد إجمالي مكوناتها بشكل مسبق.</span><span class="sxs-lookup"><span data-stu-id="1efb7-113">Instead, use pre-exploded production BOMs and routes.</span></span>
+
+-   <span data-ttu-id="1efb7-114">**المورد** - حدد نوع بند المورد إذا كانت عملية الإنتاج تستخدم مقاول من الباطن وأنت تريد أن يتم إنشاء إنتاج فرعي أو أمر شراء تلقائياً للمقاول من الباطن.</span><span class="sxs-lookup"><span data-stu-id="1efb7-114">**Vendor** - Select the Vendor line type if the production process uses a subcontractor and you want a sub production or purchase order to be created automatically for the subcontractor.</span></span>
+
+    <span data-ttu-id="1efb7-115">**إدارة معلومات المنتج > ‏‫قوائم مكونات الصنف والمعادلات‬ > قوائم مكونات الصنف**
+    ![لقطة شاشة لصفحة قوائم مكونات الصنف مع تمييز أنواع بنود قوائم مكونات الصنف.](../media/bom-lines.png)</span><span class="sxs-lookup"><span data-stu-id="1efb7-115">**Product information management > Bills of material and formulas > Bills of materials**
+![Screenshot of a Bills of materials page with BOM line types highlighted.](../media/bom-lines.png)</span></span>
+
+
