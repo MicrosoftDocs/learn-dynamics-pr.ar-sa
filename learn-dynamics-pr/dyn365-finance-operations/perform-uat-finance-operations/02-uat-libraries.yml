@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.02-create-uat-libraries
+title: إنشاء مكتبات اختبار قبول المستخدم
+metadata:
+  title: إنشاء مكتبات اختبار قبول المستخدم
+  description: تعرف على كيفية إنشاء مكتبات اختبار قبول المستخدم باستخدام تسجيلات المهام ومكتبة BPM في تطبيقات Finance and Operations.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/using-task-guides-and-bpm-to-create-user-acceptance-tests
+  ms.openlocfilehash: a930bb2d98c231c12baa959ed129389646327660
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071522"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/02-create-uat-libraries.md)]

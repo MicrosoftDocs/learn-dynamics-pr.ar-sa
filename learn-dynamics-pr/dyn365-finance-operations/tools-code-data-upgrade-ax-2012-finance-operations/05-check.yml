@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tools-code-data-upgrade-ax-2012-finance-operations.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5e035ba4186fefcae5700a29f1eaf02170f58935
+  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6072285"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الخدمة التي يمكنك من خلالها تشغيل أداة ترقية الكود؟
+    choices:
+    - content: Azure
+      isCorrect: false
+      explanation: أداة ترقية الكود غير موجودة في Azure.
+    - content: Azure SQL
+      isCorrect: false
+      explanation: أداة ترقية الكود غير موجودة في Azure SQL.
+    - content: Lifecycle Services
+      isCorrect: true
+      explanation: يمكنك تشغيل الأداة من خلال الانتقال إلى القائمة "Lifecycle Services" وتحديد الخيار "ترقية الكود".
+    - content: مساحة عمل إدارة البيانات
+      isCorrect: false
+      explanation: أداة ترقية الكود غير موجودة في "مساحة عمل إدارة البيانات".
+  - content: يحتاج فريقك إلى تحديد عمليات التخصيص التي تم تطويرها في ‎Dynamics AX 2012 والتي يمكن استبدالها بوظيفة أساسية في تطبيقات Finance and Operations. ما المرحلة التي يجب إكمال ذلك فيها؟
+    choices:
+    - content: التحليل
+      isCorrect: true
+      explanation: سيتم الانتهاء من هذه المهمة أثناء تحليل الفروق والملاءمة خلال مرحلة "التحليل".
+    - content: التنفيذ
+      isCorrect: false
+      explanation: يجب إكمال هذه المهمة قبل مرحلة "التنفيذ".
+    - content: التحقق
+      isCorrect: false
+      explanation: يجب إجراء تحليل الفروق والملاءمة قبل مرحلة "التحقق".
+  - content: أثناء عملية ترقيه الكود، قمتَ بتحديد تخصيص لا يمكن حله بالامتداد. فما الذي ينبغي لك فعله؟
+    choices:
+    - content: تراكب الكود الأساسي لتلبية احتياجات التخصيص الخاصة بالأعمال.
+      isCorrect: false
+      explanation: يجب عدم تراكب الكود الأساسي مطلقاً.
+    - content: توظيف أحد المطورين لإنشاء نقطه امتداد
+      isCorrect: false
+      explanation: لا يمكنك توظيف أحد المطورين لإنشاء نقطه امتداد.
+    - content: إنشاء طلب قابلية التوسع بواسطة Microsoft
+      isCorrect: true
+      explanation: في هذه الحالة، ستحتاج إلى تسجيل طلب تمديد في خدمة Lifecycle Services.

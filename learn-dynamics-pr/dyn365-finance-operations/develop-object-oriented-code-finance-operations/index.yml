@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations
+metadata:
+  title: تطوير التعليمات البرمجية الموجهة للعناصر في تطبيقات Finance and Operations
+  description: تُعد البرمجة الموجهة للعناصر (OOP) نموذج برمجة تم تصميمه حول الكائنات وكيفية التعامل معها. تناقش هذه الوحدة مفاهيم البرمجة الموجهة للعناصر حتى تتمكن من تطوير التخصيصات في تطبيقات Finance and Operations.
+  ms.date: 06/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 186308101996e6256211a8cfccb3fa04a4210a94
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072174"
+title: تطوير التعليمات البرمجية الموجهة للعناصر في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتُعد البرمجة الموجهة للعناصر (OOP) نموذج برمجة تم تصميمه حول الكائنات وكيفية التعامل معها. تناقش هذه الوحدة مفاهيم البرمجة الموجهة للعناصر حتى تتمكن من تطوير التخصيصات في تطبيقات Finance and Operations. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف أهمية البرمجة الموجهة للعناصر لتطبيقات Finance and Operations.\n- تعرف على أهمية الفئات المجردة والتوريث في البرمجة الموجهة للعناصر.\n- التعرف على الواجهات.\n- استخدم سلسله الأوامر (CoC).\n- تعرف على كيفية تنفيذ تحديد النطاق في كود X++.\n- حدد وقت استخدام المراجع والقيم.\n"
+prerequisites: >
+  - الفهم الأساسي لـ Visual Studio
+
+  - الفهم الأساسي لـ X++
+iconUrl: /learn/achievements/develop-object-oriented-code-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.2-inheritance
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.3-attributes
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.4-chain-command
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.5-scoping
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.6-interface
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.7-exercise
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.8-check
+- learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.9-summary
+badge:
+  uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations.badge

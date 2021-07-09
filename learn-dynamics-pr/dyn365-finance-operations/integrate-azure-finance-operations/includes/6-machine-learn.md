@@ -1,0 +1,24 @@
+---
+ms.openlocfilehash: 597612bab037ad9c7b2a9afd2f6e3fd708bc4738
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071964"
+---
+<span data-ttu-id="5ace9-101">تتمثل إحدى ميزات تطبيقات Finance and Operations في التكامل السلس مع ‏‫التعلم الآلي من Azure‬، مثل ‏‫التنبؤ بالطلب‬، حيث يتم استخدامه للتنبؤ بالطلب من أوامر المبيعات في Dynamics 365 Supply Chain Management.</span><span class="sxs-lookup"><span data-stu-id="5ace9-101">One advantage of Finance and Operations apps is the seamless integration with Azure Machine Learning, such as Demand Forecasting, where it is used to predict demand from sales orders in Dynamics 365 Supply Chain Management.</span></span> <span data-ttu-id="5ace9-102">لإنشاء التنبؤ الأساسي، يجب تمرير ملخص للحركات التاريخية إلى خدمة التعلم الآلي من Azure التي تتم استضافتها على Azure.</span><span class="sxs-lookup"><span data-stu-id="5ace9-102">To generate the baseline forecast, a summary of historical transactions must be passed to an Azure Machine Learning service that is hosted on Azure.</span></span>
+
+<span data-ttu-id="5ace9-103">لتمكين خدمة خدمة التعلم الآلي من Azure للتنبؤ بطلب، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="5ace9-103">To enable the Azure Machine Learning service for Demand Forecasting, follow these steps:</span></span>
+
+1.  <span data-ttu-id="5ace9-104">في إدارة سلسله التوريد، انتقل إلى **التخطيط الرئيسي > إعداد > التنبؤ بالطلب > معلمات التنبؤ بالطلب**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-104">In Supply Chain Management, go to **Master planning > Setup > Demand forecasting > Demand forecasting parameters**.</span></span>
+2.  <span data-ttu-id="5ace9-105">افتح علامة التبويب **عام**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-105">Open the **General** tab.</span></span>
+3.  <span data-ttu-id="5ace9-106">في حقل **إستراتيجية إنشاء التنبؤ**، حدد **التعلم الآلي من Azure**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-106">In the **Forecast generation strategy** field, select **Azure Machine Learning**.</span></span>
+4.  <span data-ttu-id="5ace9-107">قد يظهر تحذيرً يفيد بأنه، **لم يتم تعيين معلمات خدمة التعلم الألى من Azure. راجع تفاصيل الرسالة للحصول على إرشادات التوزيع.**</span><span class="sxs-lookup"><span data-stu-id="5ace9-107">A warning might appear that reads, **Azure Machine Learning service parameters are not set. See message details for deployment instructions.**</span></span> <span data-ttu-id="5ace9-108">في حالة ظهور هذه الرسالة، حدد **تفاصيل الرسالة** لكشف عملية الإعداد المتبقية.</span><span class="sxs-lookup"><span data-stu-id="5ace9-108">If you do receive this message, select **Message details** to reveal the remaining setup process.</span></span> <span data-ttu-id="5ace9-109">أكمل الخطوات التالية قبل الانتقال إلى الخطوة التالية.</span><span class="sxs-lookup"><span data-stu-id="5ace9-109">Complete those steps before moving on to the next step.</span></span>
+5.  <span data-ttu-id="5ace9-110">انتقل إلى **معرض الذكاء الاصطناعي من Azure** في استوديو التعلم الآلي من Azure.</span><span class="sxs-lookup"><span data-stu-id="5ace9-110">Go to the **Azure AI Gallery** in Azure Machine Learning Studio.</span></span>
+6.  <span data-ttu-id="5ace9-111">قم بتوزيع تجربتك مباشرةً من المعرض.</span><span class="sxs-lookup"><span data-stu-id="5ace9-111">Deploy your experiment directly from the gallery.</span></span>
+7.  <span data-ttu-id="5ace9-112">حدد **تشغيل** لبدء التجربة.</span><span class="sxs-lookup"><span data-stu-id="5ace9-112">Select **Run** to start the experiment.</span></span>
+8.  <span data-ttu-id="5ace9-113">حدد **توزيع خدمة الويب**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-113">Select **Deploy Web Service**.</span></span>
+9.  <span data-ttu-id="5ace9-114">انتقل إلى **التخطيط الرئيسي > التنبؤ > التنبؤ بالطلب > إنشاء تنبؤ بالأساس الإحصائي**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-114">Go to **Master planning > Forecasting > Demand forecasting > Generate statistical baseline forecast**.</span></span>
+10. <span data-ttu-id="5ace9-115">أدخل المعلمات الخاصة بالتنبؤ الأساسي وحدد **موافق**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-115">Enter the parameters for the baseline forecast and select **OK**.</span></span>
+11. <span data-ttu-id="5ace9-116">عند اكتمال التنبؤ الأساسي، انتقل إلى **التخطيط الرئيسي > التنبؤ > التنبؤ بالطلب > التنبؤ بالطلب المعدل**.</span><span class="sxs-lookup"><span data-stu-id="5ace9-116">When the baseline forecast is completed, go to **Master planning > Forecasting > Demand forecasting > Adjusted demand forecast**.</span></span>
+12. <span data-ttu-id="5ace9-117">حدد **تخويل التنبؤ بالطلب المعدل** من جزء الإجراء.</span><span class="sxs-lookup"><span data-stu-id="5ace9-117">Select **Authorize adjusted demand forecast** from the Action Pane.</span></span> 

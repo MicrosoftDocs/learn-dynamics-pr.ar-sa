@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.6-create-email-template
+title: إنشاء ‏‏قالب بريد إلكتروني
+metadata:
+  title: إنشاء ‏‏قالب بريد إلكتروني
+  description: توضح هذه الوحدة كيفية إنشاء قالب بريد إلكتروني في Finance and Operations.
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 49f41608ae7af8006f80b6904462ab8d156699de
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071940"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-create-email-template.md)]

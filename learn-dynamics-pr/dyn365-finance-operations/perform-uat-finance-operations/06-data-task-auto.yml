@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.06-data-task-automation
+title: أتمتة مهام البيانات
+metadata:
+  title: أتمتة مهام البيانات
+  description: التعرف على أتمتة مهام البيانات في تطبيقات Finance and Operations.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 089b1d18ef65d332347d600e81e391d48b887fc7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071290"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/06-data-task-automation.md)]

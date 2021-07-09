@@ -1,0 +1,66 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-reports-dynamics-365-finance-operations.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d2a80e623de97a52dcee139e82d79cf87e9456ea
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071572"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما أنواع مصادر البيانات التي يمكنك استخدامها عند إنشاء تقرير؟
+    choices:
+    - content: الاستعلام
+      isCorrect: false
+      explanation: يمكن تحديد أنواع مصادر بيانات إضافية.
+    - content: منطق العمل
+      isCorrect: false
+      explanation: يمكن تحديد أنواع مصادر بيانات إضافية.
+    - content: فئة RDP
+      isCorrect: false
+      explanation: يمكن تحديد أنواع مصادر بيانات إضافية.
+    - content: موفر التعداد AX
+      isCorrect: false
+      explanation: يمكن تحديد أنواع مصادر بيانات إضافية.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: يُعد الاستعلام ومنطق العمل وفئة RDP وموفر التعداد AX أنواع مصادر البيانات التي يمكنك تحديدها.
+  - content: ما الذي تفعله الوظيفة "فتح في Excel" ولا تفعله الوظيفة "تصدير إلى Excel"؟
+    choices:
+    - content: لا يوجد اختلاف.
+      isCorrect: false
+      explanation: توجد اختلافات بين الوظيفتين "فتح في Excel" و"تصدير إلى Excel".
+    - content: تستخدم الوظيفة "فتح في Excel" كيانات البيانات التي تتيح لك نشر التغييرات التي تطرأ على البيانات مرة أخرى إلى Finance and Operations.
+      isCorrect: true
+      explanation: تستخدم الوظيفة "تصدير إلى Excel" بيانات الشبكة ولا تمنحك خيار نشر البيانات مرة أخرى إلى Finance and Operations.
+    - content: تستخدم الوظيفة "فتح في Excel" بيانات الشبكة.
+      isCorrect: false
+      explanation: تستخدم الوظيفة "فتح في Excel" كيان بيانات، وليس بيانات الشبكة.
+    - content: لا يمكنك تصفية البيانات من خلال الوظيفة "فتح في Excel"، ولكن يمكنك ذلك باستخدام "تصدير إلى Excel".
+      isCorrect: false
+      explanation: يمكنك تصفية البيانات في الوظيفة "فتح في Excel".
+  - content: يستغرق تشغيل التقرير وقتاً طويلاً. عند النظر إلى الاستعلام، تلاحظ عدم استخدام العديد من الحقول في التقرير. لتحسين هذا التقرير، كيف تجب معالجة هذه الحقول غير المستخدمة لزيادة الأداء؟
+    choices:
+    - content: إزالة الحقول غير المستخدمة من التقرير.
+      isCorrect: true
+      explanation: يمكن أن تساعد إزالة أي حقول غير مستخدمة من التقرير على تحسين أداء التقرير.
+    - content: الاحتفاظ بالحقول غير المستخدمة.
+      isCorrect: false
+      explanation: يمكن أن تتسبب الحقول غير المستخدمة في بطء الأداء. إذا لم تكن الحقول مستخدمة أو مطلوبة، فتجب إزالتها.
+    - content: استخدام مقسم طريقة عرض البيانات لتصفية البيانات.
+      isCorrect: false
+      explanation: لن تؤدي إضافة مقسمات طرق العرض لإخفاء الحقول غير المستخدمة إلى زيادة الأداء، بل إنها قد تؤدي إلى خفض الأداء.
+    - content: حذف الحقول غير المستخدمة من الجدول.
+      isCorrect: false
+      explanation: قد تكون الحقول غير المستخدمة مطلوبة في مكان آخر.

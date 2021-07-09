@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations.4-statements
+title: متى تُستخدم العبارات المستندة إلى مجموعة والعمليات المستندة إلى صف
+metadata:
+  title: متى تُستخدم العبارات المستندة إلى مجموعة والعمليات المستندة إلى صف
+  description: تعرّف متى تستخدم العبارات المستندة إلى مجموعة والعمليات المستندة إلى صف في تطبيقات Finance and Operations.
+  ms.date: 07/03/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4bcb879888b132e312745a19335113bdae9f5726
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071452"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-statements.md)]

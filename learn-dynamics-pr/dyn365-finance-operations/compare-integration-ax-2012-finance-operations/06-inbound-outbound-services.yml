@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-integration-ax-2012-finance-operations.06-inbound-outbound-services
+title: الخدمات الواردة والصادرة
+metadata:
+  title: الخدمات الواردة والصادرة
+  description: التعرف على الاختلافات بين الخدمات الواردة والصادرة.
+  ms.date: 03/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a8cd829d0df3ec16c698e3514e4aba0703522893
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072452"
+durationInMinutes: 13
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-inbound-outbound-services.md)]"

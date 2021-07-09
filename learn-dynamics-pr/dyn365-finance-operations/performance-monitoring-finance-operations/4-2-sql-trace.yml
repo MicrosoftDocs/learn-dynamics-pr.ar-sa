@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.4-2-sql-trace
+title: إنشاء تتبع SQL باستخدام SQL Profiler
+metadata:
+  title: إنشاء تتبع SQL باستخدام SQL Profiler
+  description: تعرف على كيفية إنشاء تتبع SQL باستخدام SQL Profiler في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7af4e63ba7414545595469f3404c23cc829b0625
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071289"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-2-sql-trace.md)]

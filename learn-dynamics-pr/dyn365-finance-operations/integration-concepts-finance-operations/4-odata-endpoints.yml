@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.4-odata-endpoints
+title: الكشف عن نقاط نهاية OData من كيانات البيانات
+metadata:
+  title: الكشف عن نقاط نهاية OData من كيانات البيانات
+  description: تعرّف على كيفية الكشف عن نقاط نهاية OData من كيانات البيانات في تطبيقات Finance and Operations.
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 94fd52a98ea167ff261c988af262f2f12bdf3827
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071934"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-odata-endpoints.md)]

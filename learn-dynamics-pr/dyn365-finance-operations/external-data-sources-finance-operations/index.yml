@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations
+metadata:
+  title: إدارة مصادر البيانات مع مخازن البيانات الخارجية في تطبيقات Finance and Operations
+  description: غالباً ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات Finance and Operations، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل.
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d02f6b21ae1cb0704c22c4ecc4ee254727e1c89a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072221"
+title: إدارة مصادر البيانات مع مخازن البيانات الخارجية في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات Finance and Operations، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على المفاهيم الأساسية لإحضار قاعدة البيانات الخاصة بك (BYOD) ومزاياها مقارنةً بمخزن الكيانات. \n- إنشاء مصادر بيانات مخصصة وإدارتها.\n- تعرف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل \n"
+prerequisites: >
+  - الفهم المتقدم لتطبيقات Finance and Operations
+
+  - الفهم المتقدم لكيانات البيانات
+
+  - الفهم الأساسي للبرمجة الموجهة للكائنات
+
+  - الفهم الأساسي لهياكل SQL وقواعد البيانات
+iconUrl: /learn/achievements/external-data-sources-dynamics-365-finance-operations.svg
+levels:
+- advanced
+roles:
+- administrator
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.2-data-source
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.3-custom-data
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.4-performance
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.5-exercise
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.6-check
+- learn-dynamics.external-data-sources-dynamics-365-finance-operations.7-summary
+badge:
+  uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.8-form-load
+title: تحسين تحميل النماذج وأدائها
+metadata:
+  title: تحسين تحميل النماذج وأدائها
+  description: التعرف على كيفية تحسين تحميل النماذج وأدائها في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a121c3a312bb78145f5694d33c0553880d6f9b2e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071729"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-form-load.md)]

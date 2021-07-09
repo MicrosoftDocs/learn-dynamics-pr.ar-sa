@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-tables-dynamics-365-finance-operations.6-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعلمته عن بناء الجداول في تطبيقات Finance and Operations.
+  ms.date: 06/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 750d1aa606e3af5d8732807b0e340397a6967bbf
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6072005"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-summary.md)]

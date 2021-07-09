@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.compare-analytics-ax-2012-finance-operations.06-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/09/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a26c553dd7e72195c72277089183bbb750478e54
+  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "6072420"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما إمكانات التقارير الآتية تسمح للمستخدمين بعرض البيانات التي يحتاجون إليها في مساحات العمل وصفحات القوائم و‏‫الإطارات المتجانبة، باستخدام التصفية المتقدمة وطرق العرض المحفوظة؟
+    choices:
+    - content: إعداد التقارير الإلكترونية
+      isCorrect: false
+      explanation: يتم استخدام إعداد التقارير الإلكترونية لتكوين تنسيقات للمستندات الإلكترونية الواردة والصادرة وفقاً للمتطلبات القانونية لمختلف البلدان و/أو المناطق.
+    - content: عناصر التحكم الأصلية
+      isCorrect: true
+      explanation: تتيح لك عناصر التحكم الأصلية عرض البيانات في مساحات العمل وصفحات القوائم والإطارات المتجانبة باستخدام تصفية متقدمة وطرق العرض المحفوظة.
+    - content: Power BI Embedded
+      isCorrect: false
+      explanation: تقارير Power BI Embedded لا توفر هذه الإمكانات.
+  - content: أي الأساليب الآتية موصى باستخدامها لإنشاء تقارير Power BI كبيرة الحجم باستخدام تطبيقات Finance and Operations؟
+    choices:
+    - content: إحضار قاعدة بياناتك الخاصة
+      isCorrect: false
+      explanation: لا يوصى بأسلوب ‏‫إحضار قاعدة بياناتك الخاصة لإنشاء تقارير كبيرة الحجم.
+    - content: تصدير إلى Data Lake
+      isCorrect: true
+      explanation: يوصى بأسلوب تصدير إلى Data Lake لإنشاء تقارير كبيرة الحجم.
+    - content: تكامل Power BI
+      isCorrect: false
+      explanation: يوصى بأسلوب تكامل Power BI لإنشاء تقارير كبيرة الحجم.
+  - content: أي الخيارات الآتية يتيح إجراء تحليلات البيانات الكبيرة والذكاء الاصطناعي؟
+    choices:
+    - content: إحضار قاعدة بياناتك الخاصة
+      isCorrect: false
+      explanation: لا يُستخدم ‏‫إحضار قاعدة بياناتك الخاصة لإجراء تحليلات البيانات الكبيرة والذكاء الاصطناعي.
+    - content: تكامل Power BI
+      isCorrect: false
+      explanation: لا يُستخدم تكامل Power BI لإجراء تحليلات البيانات الكبيرة والذكاء الاصطناعي.
+    - content: تصدير إلى Data Lake
+      isCorrect: true
+      explanation: يُتيح ‏‫الأسلوب التصدير إلى Data Lake‬ لإجراء تحليلات البيانات الكبيرة والذكاء الاصطناعي.

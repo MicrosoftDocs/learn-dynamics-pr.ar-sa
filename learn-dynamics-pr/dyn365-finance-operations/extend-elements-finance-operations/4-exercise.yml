@@ -1,0 +1,25 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-elements-dynamics-365-finance-operations.4-exercise
+title: تمرين عملي - توسيع نموذج وإضافة عناصر التحكم
+labId: 64126
+metadata:
+  title: تمرين عملي - توسيع نموذج وإضافة عناصر التحكم
+  description: تدرّب على توسيع نموذج وإضافة عناصر تحكم في تطبيقات Finance and Operations.
+  ms.date: 04/26/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: cf4de4c9275f80f09f2cf28aefebdfc4a8cf1e5d
+  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2021
+  ms.locfileid: "6072565"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs.md)]
+
+  [!include[](includes/4-exercise.md)]

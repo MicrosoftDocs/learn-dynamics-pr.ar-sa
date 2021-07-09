@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.7-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/21/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a61e3db6cd920b255965c9416c3a163cbdba5d7c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071786"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من الإجراءات التالية ليس من أفضل الممارسات التي يجب مراعاتها عند البرمجة؟
+    choices:
+    - content: كود التعليق للتواصل مع المطورين الآخرين
+      isCorrect: false
+      explanation: يعتبر كود التعليق للتواصل مع المطورين الآخرين من أفضل الممارسات لإظهار الغرض من الكود للآخرين.
+    - content: استخدم معيار تسمية لمؤسسة
+      isCorrect: false
+      explanation: يعتبر استخدام معيار تسمية لمؤسسة من أفضل الممارسات.
+    - content: حد تعليقات الكود لتقصير السلاسل النصية
+      isCorrect: true
+      explanation: إن الحد من تعليقات الكود لتقصير السلاسل النصية ليس من أفضل الممارسات لأن استخدام التعليقات يجب أن يكون غير مقيد.
+    - content: يجب أن يكون لكل عنصر تسمية معينة في نافذة الخصائص
+      isCorrect: false
+      explanation: يعتبر وضع تسمية معينة لكل عنصر في نافذة الخصائص أفضل ممارسة نظراً لضرورة وجود تسميات بواجهة المستخدم.
+  - content: عند نشر حل قائم على السحابة لتطبيقات Finance and Operations، فما العملية المتوفرة للتحكم بالمصادر؟
+    choices:
+    - content: خدمات Azure DevOps
+      isCorrect: true
+      explanation: تعتبر خدمات Azure DevOps عرض قائماً على السحابة للتحكم بالمصادر.
+    - content: خادم Azure DevOps
+      isCorrect: false
+      explanation: يعتبر خادم Azure DevOps عرض محلي للتحكم بالمصادر.
+    - content: خادم أساس الفريق Visual Studio
+      isCorrect: false
+      explanation: يعتبر خادم أساس الفريق Visual Studio الاسم السابق لخادم Azure DevOps. لا يقدم تحكماً بالمصادر مستند إلى السحابة.
+  - content: لاحظت بعض مشكلات الأداء حيث تستغرق مهام معينة وقتاً أطول مما ينبغي. أثناء التحقيق في مشكلة الأداء، ستجد أن هناك عبارة "while select" يمكن تحسينها في أحد النماذج. أنت تتوقع أنه قد تكون هناك عبارات "While select" أخرى يمكن تحسينها أيضاً في النماذج. كيف يمكنك استخدام البحث في بيانات التعريف للعثور على النماذج باستخدام عبارات "While select"؟
+    choices:
+    - content: 'الكود: "while"'
+      isCorrect: false
+      explanation: 'سيُعيد الكود: "while" الكود بالكامل الذي يحتوي على "while"، وهذا أكثر مما تحتاجه.'
+    - content: 'الأسلوب، الكود: "while" النوع: نموذج'
+      isCorrect: true
+      explanation: 'سيُعيد الأسلوب الكود: "while" النوع: نموذج، أساليب النموذج التي تستخدم While select في الكود.'
+    - content: 'الأسلوب "while"، النوع: نموذج'
+      isCorrect: false
+      explanation: 'سيحاول الأسلوب "while"، النوع: نموذج، إرجاع أساليب النموذج التي تحمل الاسم "while".'
+    - content: 'الاسم: while'
+      isCorrect: false
+      explanation: 'يحاول الاسم: while إرجاع أي عنصر بالاسم "while".'

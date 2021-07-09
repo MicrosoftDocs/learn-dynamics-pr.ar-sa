@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.6-request-production-environment
+title: طلب بيئة تشغيل
+metadata:
+  title: طلب بيئة تشغيل
+  description: تعرف على كيفية طلب بيئة إنتاج في تطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
+  ms.openlocfilehash: 45fed8388e1b77ee3a44aeaa3d9a19b05aef98a7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071258"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-request-production-environment.md)]

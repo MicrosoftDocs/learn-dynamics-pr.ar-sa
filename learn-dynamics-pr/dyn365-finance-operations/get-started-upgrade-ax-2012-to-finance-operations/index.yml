@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations
+metadata:
+  title: بدء عملية الترقية من Dynamics AX 2012 إلى تطبيقات Finance and Operations
+  description: التعرف على عملية الترقية من Microsoft Dynamics AX 2012 إلى تطبيقات Finance and Operations.
+  ms.date: 02/05/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 31d72827688f20ecbfde5389401f630a852fdc38
+  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/13/2021
+  ms.locfileid: "6072251"
+title: بدء عملية الترقية من Dynamics AX 2012 إلى تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)] \nعند الترقية من Microsoft Dynamics AX 2012 إلى Dynamics 365، يمكن للمؤسسات استخدام منهجية الترقية لتطبيقات Finance and Operations لاتباع عملية محددة مسبقاً، جنباً إلى جنب مع الارتباطات والوثائق الداعمة، للتغلب على التحديات مع تغييرات النظام الأساسي والمنتج.\n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- استراتيجية الترقية وأفضل الممارسات.\n- Microsoft Dynamics 365 Lifecycle Services.\n- إدارة دورة حياة التطبيق.\n- أدوات الحل في تطبيقات Finance and Operations مقارنة بتلك الموجودة في Dynamics AX 2012.\n"
+prerequisites: >
+  - معرفه Dynamics AX 2012
+
+  - معرفة عمليات التطوير
+iconUrl: /learn/achievements/get-started-upgrade-ax-2012-to-finance-operations.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- solution-architect
+products:
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.01-introduction
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.03-lifecycle-services
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.04-application-lifecycle-management
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.04-2-artifact
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.05-build
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.06-strategy-best-practices
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.07-check
+- learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.08-summary
+badge:
+  uid: learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.badge

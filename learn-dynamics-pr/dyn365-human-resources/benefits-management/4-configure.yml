@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.benefits-management.4-configure
+title: تكوين محددات إدارة المزايا
+metadata:
+  title: تكوين محددات إدارة المزايا
+  description: التعرف على كيفية تكوين خيارات التغطية وأنواع الخطط وقواعد الأهلية والأسعار والخصومات وتكرارات المدفوعات.
+  ms.date: 04/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 6d208b026ecbf4ef28848678e1dc283a03eb14c7
+  ms.sourcegitcommit: fbcbc6f89d1c361bdf63e394196510ca682ec671
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072697"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-configure.md)]"

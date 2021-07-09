@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.10-debug-json
+title: تصحيح الأخطاء باستخدام رموز ويب JSON المميزة.
+metadata:
+  title: تصحيح الأخطاء باستخدام رموز ويب JSON المميزة.
+  description: تعرف على كيفية تصحيح الأخطاء باستخدام رموز ويب JSON المميزة (JWTs).
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 28aad8058e653759262bcde92ba22239e7507b16
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071896"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-debug-json.md)]

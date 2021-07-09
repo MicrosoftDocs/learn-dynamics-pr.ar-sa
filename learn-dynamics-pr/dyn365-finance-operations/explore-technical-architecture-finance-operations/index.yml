@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations
+metadata:
+  title: استكشاف البنية التقنية لتطبيقات Finance and Operations
+  description: لبدء التطوير في Finance and Operations، ينبغي عليك فهم المفاهيم الأساسية للتطوير، بما في ذلك الحزم والنماذج والعناصر. بالإضافة إلى ذلك، وبصفتك مطوراً، ستحتاج إلى فهم أدوات وعمليات إدارة ‏‫بيانات التعريف والتحكم في المصدر باستخدام Azure DevOps. وأخيراً، ستناقش هذه الوحدة أيضاً الغرض من Lifecycle Services (LCS) والحزم القابلة للنشر وأهميتها خلال تطوير تطبيقات Finance and Operations وتنفيذها.
+  ms.date: 06/21/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6f4831005e69b8094853c8e179a4613f5200206a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072180"
+title: استكشاف البنية التقنية لتطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  لبدء التطوير في Finance and Operations، ينبغي عليك فهم المفاهيم الأساسية للتطوير، بما في ذلك الحزم والنماذج والعناصر. بالإضافة إلى ذلك، وبصفتك مطوراً، ستحتاج إلى فهم أدوات وعمليات إدارة ‏‫بيانات التعريف والتحكم في المصدر باستخدام Azure DevOps. وأخيراً، ستناقش هذه الوحدة أيضاً الغرض من Lifecycle Services (LCS) والحزم القابلة للنشر وأهميتها خلال تطوير تطبيقات Finance and Operations وتنفيذها.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- ‏‫التمييز بين البنية المحلية وبنية السحابة لـ Finance and Operations.\n- تعرف على الأغراض والعلاقات بين الحزم والنماذج والعناصر.\n- تفصيل إدارة بيانات التعريف وعمليات التحكم بالمصدر.\n- استخدام Lifecycle Services (LCS) وفهم الغرض منها.\n"
+prerequisites: >
+  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+iconUrl: /learn/achievements/explore-technical-architecture-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.1-cloud-on-prem
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.2-elem-model-pack
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.3-metadata-manage
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.4-source-control
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.5-conform-code
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.6-lcs
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.7-check
+- learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.8-summary
+badge:
+  uid: learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.badge

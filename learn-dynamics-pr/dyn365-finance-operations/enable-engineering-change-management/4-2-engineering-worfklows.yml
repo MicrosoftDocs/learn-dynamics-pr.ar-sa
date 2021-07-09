@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enable-engineering-change-management.4-2-engineering-worfklows
+title: مهام سير العمل الهندسي
+metadata:
+  title: مهام سير العمل الهندسي
+  description: معرفة طريقة التعامل مع مهام سير العمل الهندسي.
+  ms.date: 05/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 84b39b1703f3d815a9298d85aa00d3c7aa220c44
+  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6072664"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-2-engineering-worfklows.md)]"

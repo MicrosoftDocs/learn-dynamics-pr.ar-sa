@@ -1,0 +1,31 @@
+---
+ms.openlocfilehash: 04dde5b12274388bf344691f94471c905ac237e5
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072455"
+---
+<span data-ttu-id="2db46-101">يُعد دفتر العناوين العمومي (GAB) مستودعاً مركزياً للبيانات الرئيسية التي يجب تخزينها لجميع الأشخاص والمؤسسات الداخلية والخارجية التي تتفاعل معها الشركة.</span><span class="sxs-lookup"><span data-stu-id="2db46-101">The global address book (GAB) is a centralized repository for master data that must be stored for all internal and external persons and organizations that the company interacts with.</span></span> <span data-ttu-id="2db46-102">عند تغيير أحد العناوين، يتعين إجراء التحديث في مكان واحد فقط.</span><span class="sxs-lookup"><span data-stu-id="2db46-102">When an address changes, the update only needs to be made in one place.</span></span> <span data-ttu-id="2db46-103">ويتم تحديث جميع السجلات المرتبطة الأخرى تلقائياً.</span><span class="sxs-lookup"><span data-stu-id="2db46-103">All the other associated records are updated automatically.</span></span>
+
+<span data-ttu-id="2db46-104">يتم تضمين دفتر العناوين العمومي بشكل جاهز مع جميع تطبيقات Finance and Operations.</span><span class="sxs-lookup"><span data-stu-id="2db46-104">The global address book is included out of the box with all Finance and Operations apps.</span></span>
+
+<span data-ttu-id="2db46-105">تتضمن البيانات المرتبطة بسجلات الطرف اسم الطرف وعنوانه ومعلومات الاتصال الخاصة به.</span><span class="sxs-lookup"><span data-stu-id="2db46-105">The data that is associated with party records includes the party's name, address, and contact information.</span></span> <span data-ttu-id="2db46-106">تختلف التفاصيل الأخرى، اعتماداً على ما إذا كان الطرف شخصاً أو مؤسسة.</span><span class="sxs-lookup"><span data-stu-id="2db46-106">Other details vary, depending on whether the party is a person or an organization.</span></span> 
+
+<span data-ttu-id="2db46-107">يتم تعيين كل سجل طرف إلى طرف، ويمكن ربط كل طرف بواحد أو أكثر من أدوار الطرف في الشركة.</span><span class="sxs-lookup"><span data-stu-id="2db46-107">Each party record is assigned to a party, and each party can be associated with one or more party roles in a company.</span></span> <span data-ttu-id="2db46-108">تشمل أدوار الطرف العميل والعميل المتوقع والعامل والمستخدم والمورد والمنافس ومقدم الطلب وجهة الاتصال.</span><span class="sxs-lookup"><span data-stu-id="2db46-108">Party roles include customer, prospect, worker, user, vendor, competitor, applicant, and contact.</span></span> 
+
+## <a name="party-roles"></a><span data-ttu-id="2db46-109">أدوار الأطراف</span><span class="sxs-lookup"><span data-stu-id="2db46-109">Party roles</span></span>
+
+<span data-ttu-id="2db46-110">يشار إلى الأدوار المرتبطة بسجلات الأطراف على أنها أدوار الأطراف.</span><span class="sxs-lookup"><span data-stu-id="2db46-110">Roles that are associated with party records are referred to as party roles.</span></span> <span data-ttu-id="2db46-111">هناك العديد من أدوار الأطراف، ويمكن تعيينها لكل من أنواع الأطراف والشخص والمؤسسة.</span><span class="sxs-lookup"><span data-stu-id="2db46-111">There are several party roles, and they can be assigned to both party types, person and organization.</span></span> <span data-ttu-id="2db46-112">فيما يلي تعريفات لكل دور طرف:</span><span class="sxs-lookup"><span data-stu-id="2db46-112">Here are the definitions for each party role:</span></span>
+
+- <span data-ttu-id="2db46-113">**العميل** - الأفراد أو الشركات أو الكيانات الأخرى الذين يشترون السلع والخدمات التي ينتجها أفراد أو شركات أو كيانات أخرى.</span><span class="sxs-lookup"><span data-stu-id="2db46-113">**Customer** - Individuals, companies, or other entities who purchase goods and services that are produced by other individuals, companies, or entities.</span></span>
+- <span data-ttu-id="2db46-114">**العميل المتوقع** - طرف قد يقدم خدمة أو ميزة لكيان قانوني.</span><span class="sxs-lookup"><span data-stu-id="2db46-114">**Prospect** - A party that might provide a service or benefit to a legal entity.</span></span>
+- <span data-ttu-id="2db46-115">**العامل** - شخص يتولى دور موظف أو مقاول ويتقاضى أجره مقابل الخدمات.</span><span class="sxs-lookup"><span data-stu-id="2db46-115">**Worker** - A person who assumes the role of an employee or a contractor, and who is paid in exchange for services.</span></span>
+- <span data-ttu-id="2db46-116">**المورد** - طرف يقوم بتوريد المنتجات إلى كيان قانوني واحد أو أكثر مقابل الدفع.</span><span class="sxs-lookup"><span data-stu-id="2db46-116">**Vendor** - A party that supplies products to one or more legal entities in exchange for payment.</span></span>
+- <span data-ttu-id="2db46-117">**المنافس** - شخص أو مؤسسة تقدم سلعاً أو خدمات تشبه السلع أو الخدمات التي يوفرها عملك.</span><span class="sxs-lookup"><span data-stu-id="2db46-117">**Competitor** - A person or organization that provides goods or services that are similar to the goods or services that your business provides.</span></span>
+- <span data-ttu-id="2db46-118">**مقدم الطلب** - الشخص الذي يقدم طلباً رسمياً مكتوباً أو إلكترونياً للعمل لدى مؤسسة أو لشغل منصب فيها.</span><span class="sxs-lookup"><span data-stu-id="2db46-118">**Applicant** - A person who makes a formal written or electronic request to work for or fill an open position in an organization.</span></span>
+- <span data-ttu-id="2db46-119">**جهة الاتصال** - شخص، سواء داخل مؤسستك أو خارجها، قمت بإنشاء إدخال له.</span><span class="sxs-lookup"><span data-stu-id="2db46-119">**Contact** -  A person, either inside or outside your organization, that you have created an entry for.</span></span> <span data-ttu-id="2db46-120">في هذا الإدخال، يمكنك حفظ معلومات مثل شارع الشخص وعناوين بريده الإلكتروني وأرقام الهاتف والفاكس وعناوين URL لصفحات الويب.</span><span class="sxs-lookup"><span data-stu-id="2db46-120">In this entry, you can save information such as the person's street and email addresses, telephone and fax numbers, and webpage URLs.</span></span>
+
+<span data-ttu-id="2db46-121">**عام > عام > دفتر عناوين عمومي**</span><span class="sxs-lookup"><span data-stu-id="2db46-121">**Common > Common > Global address book**</span></span> 
+
+![لقطة شاشة لدفتر العناوين العمومي مع تمييز طرف جديد.](../media/gab-2.png)

@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.11-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2c6b8500602ac9685ec5b87619b5ee183a387e27
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071910"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أنت ترغب في تحسين تتبع عمليات التحقق من صحة البيانات الخاصة بمؤسستك بشكل أفضل لترقية تطبيقات Finance and Operations. ما الأداة التي تتناسب بشكل أفضل مع احتياجاتك؟
+    choices:
+    - content: رموز ويب JSON المميزة
+      isCorrect: false
+      explanation: يتم استخدام رموز ويب JSON لاستكشاف مشكلات مصادقة الخدمة وإصلاحها.
+    - content: Power Apps مضمن
+      isCorrect: false
+      explanation: Power Apps هي خدمة للمطورين والمستخدمين غير الفنيين لإنشاء تطبيقات أعمال مخصصة للأجهزة المحمولة والأجهزة اللوحية والويب دون كتابة التعليمات البرمجية.
+    - content: مساحة عمل قائمة التحقق من صحة البيانات
+      isCorrect: true
+      explanation: تُستخدم مساحة العمل قائمة التحقق من صحة البيانات لتعقب عمليات التحقق من صحة البيانات أثناء تنفيذ جديد، أو بعد الترقية، أو بعد الترحيل.
+  - content: تسمح وظيفة Excel الإضافية لتطبيقات  Finance and Operations بالتعامل مع البيانات في كيان البيانات. ما المهمة التي لا يمكن إنجازها باستخدام وظيفة Excel الإضافية؟
+    choices:
+    - content: إضافة سجل جديد إلى كيان البيانات الخاص بك.
+      isCorrect: false
+      explanation: يمكنك إضافة سجل جديد باستخدام الزر جديد في الوظيفة الإضافية.
+    - content: حذف سجل جديد إلى كيان البيانات الخاص بك.
+      isCorrect: false
+      explanation: يمكنك حذف سجل جديد باستخدام الزر حذف في الوظيفة الإضافية.
+    - content: نشر البيانات المعدلة مره أخرى إلى تطبيقات Finance and Operations.
+      isCorrect: false
+      explanation: يمكنك نشر تغييرات البيانات الخاصة بك إلى تطبيقات Finance and Operations مرة أخرى باستخدام الزر "نشر" في الوظيفة الإضافية.
+    - content: قم بإنشاء كيان بيانات جديد.
+      isCorrect: true
+      explanation: لا يمكنك إنشاء كيان بيانات جديد في وظيفة Excel الإضافية. لقد تم هذا في Visual Studio.

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.11-exercise-print-customer-vendor-account-statements
+title: المعمل - طباعة كشوف حسابات العملاء
+labId: 72696
+metadata:
+  title: المعمل - طباعة كشوف حسابات العملاء
+  description: مارس طباعة كشوف حسابات العملاء.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 11b5ff06983beedfdc2e8f137715a5bfb59f5c6b
+  ms.sourcegitcommit: 2ab9511cb587be3de564a422c843360dd7b7c61f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2020
+  ms.locfileid: "6072046"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/11-exercise-print-customer-vendor-account-statements.md)] \n[!include[](../includes/standalone-lab-end.md)]"

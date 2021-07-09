@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.2-implementation-methodologies
+title: استخدام منهجيات التنفيذ من أجل تنفيذ ناجح
+metadata:
+  title: استخدام منهجيات التنفيذ من أجل تنفيذ ناجح
+  description: توضح هذه الوحدة كيفية استخدام منهجيات التنفيذ من أجل تنفيذ ناجح في تطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9fba13bf2085a932f9a29f4bb1803783d49e2a6f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071396"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-implementation-methodologies.md)]

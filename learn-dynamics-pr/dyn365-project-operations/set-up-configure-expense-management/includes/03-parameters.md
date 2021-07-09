@@ -1,0 +1,53 @@
+---
+ms.openlocfilehash: 6f7a206bdd056a459406090396208fff6f9c0be1
+ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "6072778"
+---
+<span data-ttu-id="3e768-101">تُعد صفحة **معلمات إدارة المصروفات** هي صفحة الإعدادات الرئيسية لقدرات إدارة المصروفات.</span><span class="sxs-lookup"><span data-stu-id="3e768-101">The **Expense management parameters** page is the main settings page for expense management capabilities.</span></span> <span data-ttu-id="3e768-102">تُعد معلمات إدارة المصروفات مهمة، وغالباً ما تشير العديد من الميزات أو الخدمات الأخرى إلى هذه المعلمات.</span><span class="sxs-lookup"><span data-stu-id="3e768-102">The expense management parameters are important, and many other features or services often refer to these parameters.</span></span> <span data-ttu-id="3e768-103">عندما تكون مؤسستك في مرحلة التخطيط الأولي لإدارة المصروفات، تأكد من توجيه عناية خاصة لهذه الإعدادات والتخطيط للإعدادات التي ستتبناها مؤسستك.</span><span class="sxs-lookup"><span data-stu-id="3e768-103">When your organization is in its initial expense management planning phase, make sure that you pay close attention to these settings and plan the settings that your organization will adopt.</span></span>
+
+<span data-ttu-id="3e768-104">تحتوي صفحة **معلمات إدارة المصروفات** على خمس علامات تبويب تتحكم في مواضيع متنوعة:</span><span class="sxs-lookup"><span data-stu-id="3e768-104">The **Expense management parameters** page has five tabs that control a variety of topics:</span></span>
+
+- <span data-ttu-id="3e768-105">عام </span><span class="sxs-lookup"><span data-stu-id="3e768-105">General</span></span>
+- <span data-ttu-id="3e768-106">الأمور المالية</span><span class="sxs-lookup"><span data-stu-id="3e768-106">Financial</span></span>
+- <span data-ttu-id="3e768-107">المصروف اليومي</span><span class="sxs-lookup"><span data-stu-id="3e768-107">Per diem</span></span>
+- <span data-ttu-id="3e768-108">صفحات تغطية الفاكس</span><span class="sxs-lookup"><span data-stu-id="3e768-108">Fax cover pages</span></span>
+- <span data-ttu-id="3e768-109">مكافحة الفساد</span><span class="sxs-lookup"><span data-stu-id="3e768-109">Anti-corruption</span></span>
+
+## <a name="general"></a><span data-ttu-id="3e768-110">عام</span><span class="sxs-lookup"><span data-stu-id="3e768-110">General</span></span> 
+<span data-ttu-id="3e768-111">تحتوي علامة التبويب **عام** على خيارات وإعدادات متنوعة يمكن لمؤسستك تمكينها أو تعطيلها.</span><span class="sxs-lookup"><span data-stu-id="3e768-111">The **General** tab contains various options and settings that your organization can enable or disable.</span></span> <span data-ttu-id="3e768-112">تتوفر لك الحقول لإدخال المعدلات التي سيتم الخصم منها، مثل **المعدل القياسي للمسافة بالميل**.</span><span class="sxs-lookup"><span data-stu-id="3e768-112">Fields are available for you to enter rates to charge against, such as the **Standard rate of mileage**.</span></span>
+
+ 
+<span data-ttu-id="3e768-113">[ ![ لقطة شاشة لعلامة التبويب "عام" في صفحة معلمات إدارة المصروفات.](../media/expense-parameters-general-ss.png) ](../media/expense-parameters-general-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="3e768-113">[ ![ Screenshot of the General tab in the Expense management parameters page.](../media/expense-parameters-general-ss.png) ](../media/expense-parameters-general-ss.png#lightbox)</span></span>
+
+
+## <a name="financial"></a><span data-ttu-id="3e768-114">الأمور المالية</span><span class="sxs-lookup"><span data-stu-id="3e768-114">Financial</span></span>
+<span data-ttu-id="3e768-115">تتيح لك علامة تبويب **الأمور المالية** تعيين الخيارات المالية الأساسية حول كيفية تأثير المصروفات على دفتر الأستاذ الخاص بالمؤسسة، والضريبة التي يتم تحصيلها خلال عمليات شراء الموظفين، وماذا سيكون اسم دفتر يومية دفتر الأستاذ.</span><span class="sxs-lookup"><span data-stu-id="3e768-115">The **Financial** tab allows you to set base financial options about how expenses affect the organization's ledger, the tax that is collected during employee purchases, and what the ledger journal name will be.</span></span> 
+
+<span data-ttu-id="3e768-116">[ ![لقطة شاشة لعلامة تبويب "الأمور المالية" في صفحة معلمات إدارة المصروفات.](../media/expense-parameters-financial-ss.png) ](../media/expense-parameters-financial-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="3e768-116">[ ![ Screenshot of the Financial tab in the Expense management parameters page.](../media/expense-parameters-financial-ss.png) ](../media/expense-parameters-financial-ss.png#lightbox)</span></span>
+
+## <a name="per-diem"></a><span data-ttu-id="3e768-117">المصروف اليومي</span><span class="sxs-lookup"><span data-stu-id="3e768-117">Per diem</span></span>
+<span data-ttu-id="3e768-118">تتضمن علامة التبويب **المصروف اليومي** سلسلة من حقول الإدخال التي تتطلب منك إدخال البيانات الرقمية المتعلقة بالمعدلات والنسب المئوية.</span><span class="sxs-lookup"><span data-stu-id="3e768-118">The **Per diem** tab includes a series of input fields that require you to enter numerical data regarding rates and percentages.</span></span> <span data-ttu-id="3e768-119">إذا كنت قادماً من نظام آخر لإدارة المصروفات، فقد يتم نقل القيم نفسها حتى تتمكن من مواصلة استخدامها.</span><span class="sxs-lookup"><span data-stu-id="3e768-119">If you are coming from another expense management system, you might carry over the same values so that you can continue using them.</span></span> <span data-ttu-id="3e768-120">يجد العديد من المستخدمين أن معلمات **المصروف اليومي** قوية وتوفر المرونة والتحكم للمؤسسة التي تقوم بإعداد نظام التشغيل.</span><span class="sxs-lookup"><span data-stu-id="3e768-120">Many users find that the **Per diem** parameters are robust and give flexibility and control to the organization that is setting up the operating system.</span></span>
+
+
+<span data-ttu-id="3e768-121">[ ![لقطة شاشة لعلامة التبويب "المصروف اليومي" في صفحة "معلمات إدارة المصروفات".](../media/expense-parameters-per-diem-ss.png) ](../media/expense-parameters-per-diem-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="3e768-121">[ ![ Screenshot of the Per diem tab in the Expense management parameters page.](../media/expense-parameters-per-diem-ss.png) ](../media/expense-parameters-per-diem-ss.png#lightbox)</span></span>
+
+## <a name="fax-cover-pages"></a><span data-ttu-id="3e768-122">صفحات تغطية الفاكس</span><span class="sxs-lookup"><span data-stu-id="3e768-122">Fax cover pages</span></span>
+<span data-ttu-id="3e768-123">بالنسبة للمؤسسات التي ترسل المعلومات المتعلقة بالمصروفات عبر الفاكس، تسمح صفحة **معلمات إدارة المصروفات** بإنشاء صفحات غلاف الفاكس.</span><span class="sxs-lookup"><span data-stu-id="3e768-123">For organizations that fax expense-related information, the **Expense management parameters** page allows for the generation of fax cover pages.</span></span> <span data-ttu-id="3e768-124">وتتضمن هذه الصفحات الأكواد الشريطية التي تم ترميزها باستخدام المعرف الفريد للموظف مثل رقم الموظف أو الاسم المستعار.</span><span class="sxs-lookup"><span data-stu-id="3e768-124">These pages include bar codes that are encoded with the employee's unique identifier such as an employee number or alias.</span></span> <span data-ttu-id="3e768-125">تتضمن علامة التبويب **صفحات غلاف الفاكس** أيضاً مربع نص حيث يمكنك إدخال الإرشادات التي يتم ملؤها تلقائياً للمساعدة في توجيه الموظف الذي يرسل مستند مصروفات الفاكس.</span><span class="sxs-lookup"><span data-stu-id="3e768-125">The **Fax cover pages** tab also includes a text box where you can enter instructions that auto-populate to help guide the employee who is submitting the fax expense document.</span></span> 
+
+<span data-ttu-id="3e768-126">[ ![ لقطة شاشة لعلامة تبويب صفحات غلاف الفاكس في صفحة معلمات إدارة المصروفات.](../media/expense-parameters-fax-cover-pages-ss.png) ](../media/expense-parameters-fax-cover-pages-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="3e768-126">[ ![ Screenshot of the Fax cover pages tab in the Expense management parameters page.](../media/expense-parameters-fax-cover-pages-ss.png) ](../media/expense-parameters-fax-cover-pages-ss.png#lightbox)</span></span>
+
+
+## <a name="anti-corruption"></a><span data-ttu-id="3e768-127">مكافحة الفساد</span><span class="sxs-lookup"><span data-stu-id="3e768-127">Anti-corruption</span></span>
+<span data-ttu-id="3e768-128">تُعد علامة التبويب **مكافحة الفساد** واضحة ولكنها مهمة في تذكير جميع الموظفين بالحفاظ على المبادئ القانونية والأخلاقية في العمل عند إرسال تقارير المصروفات.</span><span class="sxs-lookup"><span data-stu-id="3e768-128">The **Anti-corruption** tab is straightforward, yet critical, in reminding all employees about maintaining an ethical and legal business when submitting their expense reports.</span></span> <span data-ttu-id="3e768-129">في علامة التبويب هذه، يمكنك كتابة شهادة تصديق مكافحة الفساد الخاصة بمؤسستك.</span><span class="sxs-lookup"><span data-stu-id="3e768-129">In this tab, you can write your organization's anti-corruption attestation.</span></span> <span data-ttu-id="3e768-130">يمكنك اختيار أن تكون لديك رسالة واحدة للمرسل ورسالة منفصلة للمعتمد.</span><span class="sxs-lookup"><span data-stu-id="3e768-130">You can choose to have one message for the submitter and a separate message for the approver.</span></span> 
+
+<span data-ttu-id="3e768-131">تتضمن الصفحة ميزة الترجمة المبتكرة، والتي تضمن أن جميع الموظفين، بغض النظر عن لغتهم الأم، يمكنهم قراءة شهادة تصديق مكافحة الفساد الخاصة بالمؤسسة وفهمها قبل أن يتمكنوا من إرسال المصروفات.</span><span class="sxs-lookup"><span data-stu-id="3e768-131">Embedded within the page is the innovative translation feature, which ensures that all employees, regardless of their native language, can read and understand the organization's anti-corruption attestation before they can submit an expense.</span></span>
+
+<span data-ttu-id="3e768-132">[ ![ لقطة شاشة لعلامة التبويب مكافحة الفساد في صفحة معلمات إدارة المصروفات.](../media/expense-parameters-anti-corruption-ss.png) ](../media/expense-parameters-anti-corruption-ss.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="3e768-132">[ ![ Screenshot of the Anti-corruption tab in the Expense management parameters page.](../media/expense-parameters-anti-corruption-ss.png) ](../media/expense-parameters-anti-corruption-ss.png#lightbox)</span></span>
+
+<span data-ttu-id="3e768-133">شاهد الفيديو التالي للحصول على عرض توضيحي لصفحة **معلمات إدارة المصروفات**.</span><span class="sxs-lookup"><span data-stu-id="3e768-133">Watch the following video for a demonstration of the **Expense management parameters** page.</span></span>
+
+ > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4IWng]
+

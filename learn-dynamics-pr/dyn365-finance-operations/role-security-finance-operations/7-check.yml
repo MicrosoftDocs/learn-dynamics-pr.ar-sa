@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.role-security-dynamics-365-finance-operations.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/08/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d54a33f22b0f3bd94c24debaa257c29848466cc9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071541"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من عناصر الأمان التالية سيتم استخدامه لمنح حق الوصول إلى عنصر قائمة أو حقل معين في تطبيقات Finance and Operations؟
+    choices:
+    - content: الرسوم
+      isCorrect: false
+      explanation: تستخدم الرسوم للتحكم في عملية الأعمال، وليس عنصر قائمة أو حقل معين.
+    - content: الدور
+      isCorrect: false
+      explanation: يتوافق الدور مع مجموعة من مسؤوليات الوظيفة اليومية، وليس عنصر أو حقل محدد في القائمة.
+    - content: الإذن
+      isCorrect: true
+      explanation: الأذونات هي أكثر عناصر الأمان دقة، ويتم استخدامها لمنح حق الوصول إلى عناصر قائمة وحقول وجداول محددة.
+    - content: الامتياز
+      isCorrect: false
+      explanation: يمثل الامتياز الوصول لأداء مهمة وظيفية، وليس عنصر قائمة أو حقل معين.
+  - content: أي من عناصر الأمان التالية يتم تعيينه مباشرةً للمستخدم ويمثل أقل تحكم أمني متعدد المستويات؟
+    choices:
+    - content: الرسوم
+      isCorrect: false
+      explanation: يتم تعيين الرسوم لدور، وليس لمستخدم.
+    - content: الدور
+      isCorrect: true
+      explanation: يتم تعيين الدور مباشرةً لأحد المستخدمين. يتم تضمين جميع عناصر الأمان الأخرى مثل الرسوم والامتيازات والأذونات داخل الدور.
+    - content: الإذن
+      isCorrect: false
+      explanation: يتم تعيين إذن لامتياز، وهو عبارة عن التحكم في الأمان متعدد المستويات.
+    - content: الامتياز
+      isCorrect: false
+      explanation: تم تعيين امتياز لرسم. بالرغم من أنه يمكن تخصيصه لمستخدم، إلا أنه لا يوصي بذلك. في التسلسل الهرمي للأمان، يكون الإذن أعلى بقليلٍ من التحكم الأمني متعدد المستويات.
+  - content: ما إطار العمل المستخدم لتعيين سياسات أمان البيانات لأدوار الأمان في تطبيقات Finance and Operations؟
+    choices:
+    - content: ‏‫إطار أمان البيانات القابل للتوسع
+      isCorrect: true
+      explanation: يتم استخدام إطار عمل أمان البيانات القابل للتوسيع (XDS) لتعيين سياسات أمان البيانات لأدوار الأمان، التي تمنع الوصول إلى جدول أو صف أو حقل معين.
+    - content: إطار عمل أذونات الأمان
+      isCorrect: false
+      explanation: إطار عمل أذونات الأمان غير موجود في تطبيقات Finance and Operations.
+    - content: إطار أمان البيانات المسموح به
+      isCorrect: false
+      explanation: إطار عمل أمان البيانات المسموح به غير موجود في تطبيقات Finance and Operations.
+    - content: إطار عمل أمان مستوى السجل
+      isCorrect: false
+      explanation: تم استخدام إطار عمل أمان مستوى السجل (RLS) في Microsoft Dynamics AX 2012 والإصدارات السابقة من Dynamics وليس تطبيقات Finance and Operations.

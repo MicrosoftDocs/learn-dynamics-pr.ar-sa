@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-reporting-tools-dynamics-365-finance-operations.06-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5e3d97563ba85eebad35e74b7761330b75ea324b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071911"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: تحتاج إلى إنشاء تقرير يمكن لمستخدم power إنشاؤه لاستكشاف البيانات. يجب أن يستغرق إنشاء التقرير بضع دقائق فقط ويحتاج إلى السماح للمستخدم بإنشاء المخططات ولوحات المعلومات. ولا يحتاج هذا التقرير إلى طباعته أو إرساله عبر البريد الإلكتروني أو تصديره إلى ملف. ما أداة إعداد التقارير التي ينبغي استخدامها؟
+    choices:
+    - content: طرق العرض التشغيلية
+      isCorrect: false
+      explanation: تستخدم طرق العرض التشغيلية لمراقبة البيانات وتتطلب التطوير.
+    - content: مستندات الأعمال
+      isCorrect: false
+      explanation: تُستخدم مستندات الأعمال لتسجيل بيانات حركات الأعمال، مثل الفاتورة.
+    - content: الأدوات التحليلية والمرئيات
+      isCorrect: true
+      explanation: الأدوات التحليلية والمرئيات يتم إنشاؤها من قِبل المستخدم وتسمح بالاستكشاف السريع للبيانات.
+    - content: إعداد التقارير المالية
+      isCorrect: false
+      explanation: يتم استخدام أداة إعداد التقارير المالية للإبلاغ عن بيانات المحاسبة.
+  - content: أنت تقوم بتنفيذ تطبيقات Finance and Operations وتحتاج إلى منح وصول المستخدم إلى بعض البيانات وعناصر القوائم ومنعه. ما الأدوات المتوفرة التي ستسمح لك بتنفيذ بذلك؟
+    choices:
+    - content: الأمان المستند إلى الدور
+      isCorrect: false
+      explanation: أداة الأمان المستند إلى الدور تمنح المستخدمين إمكانية الوصول إلى صفحات وتقارير معينة استناداً إلى دور المستخدم.
+    - content: ‏‫إطار أمان البيانات القابل للتوسع
+      isCorrect: false
+      explanation: أداة إطار عمل أمان البيانات القابلة للتوسع تمنع وصول المستخدم إلى جداول وحقول وصفوف معينة.
+    - content: أداة إطار عمل أذونات الجداول
+      isCorrect: false
+      explanation: أداة إطار عمل أذونات الجداول تعمل كذلك على حماية بعض البيانات من المستخدمين الذين يقومون بعرض البيانات في جدول.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: الأمان المستند إلى الدور وإطار عمل أمان البيانات القابلة للتوسع وإطار عمل أذونات الجداول عبارة عن أدوات تسمح لك بمنح وصول المستخدم إلى بيانات معينة ومنعه.
+  - content: ما الأسباب الكامنة وراء توزيع تقرير من PowerShell؟
+    choices:
+    - content: يمكنك توزيع كافة التقارير مرة واحدة، ويمكنك توزيع التقارير في البيئات التي ليست بيئات تشغيل ولا يتوفر لديك Visual Studio.
+      isCorrect: true
+      explanation: وهذه هي الأسباب التي قد تحتاجها إلى استخدام الأمر PowerShell لتوزيع تقرير.
+    - content: لا يوجد سبب لتوزيع تقارير من PowerShell. ويجب أن يتم توزيعها دائماً من Visual Studio.
+      isCorrect: false
+      explanation: وقد يلزم توزيع كافة التقارير باستخدام PowerShell. يتم استخدام Visual Studio فقط لتوزيع التقرير مرة واحدة.
+    - content: ويمكن استخدام PowerShell لتوزيع تقارير في بيئة التشغيل.
+      isCorrect: false
+      explanation: ويجب ألا يستخدم الأمر PowerShell لتوزيع التقارير في بيئة التشغيل.
+    - content: إذا كنت ترغب في توزيع تقارير إلى تطبيقات Finance and Operations، فيجب عليك استخدام PowerShell.
+      isCorrect: false
+      explanation: كما يُتيح لك Visual Studio توزيع التقارير.

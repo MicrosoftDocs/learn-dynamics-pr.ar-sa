@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-discrete-bom-route-versioned-products-scm
+metadata:
+  title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
+  description: تعرف على كيفية إنشاء منتج هندسي جديد، وتضمين قائمة مكونات الصنف والمسارات والتعامل مع التغييرات التي تم إجراؤها على المنتج.
+  ms.date: 04/30/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 4872a0cda70a2b36a8823d5a8c1d2d021a3f6e6f
+  ms.sourcegitcommit: 567643c6f57edb821768e02042f3f8f2455383f5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6074994"
+title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء منتج هندسي جديد، وتضمين قائمة مكونات الصنف والمسارات والتعامل مع التغييرات التي تم إجراؤها على المنتج في Microsoft Dynamics 365 Supply Chain Management.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء منتج هندسي.\n- إصدار المنتج للكيانات القانونية الأخرى.\n- مراجعة إصدار منتج في كيان قانوني جاهز للعمل وقبوله.\n- صيانة دورة حياة المنتج.\n- قم بإجراء فحوصات الجاهزية على المنتج.\n"
+prerequisites: "- إعداد الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management وتكوينها\n- المعرفة الأساسية لقوائم مكونات الصنف (BOMs) والطرق وعمليات Supply Chain Management  \n"
+iconUrl: /learn/achievements/manage-discrete-bom-route-versioned-products-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.1-introduction
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.2-engineering-product
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.3-product-version-bom
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.4-product-version-route
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.5-release-product
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.6-review-accept
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.7-life-cycle-state
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.8-readiness-checks
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.9-exercise
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.10-check
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm.11-summary
+badge:
+  uid: learn-dynamics.manage-discrete-bom-route-versioned-products-scm.badge

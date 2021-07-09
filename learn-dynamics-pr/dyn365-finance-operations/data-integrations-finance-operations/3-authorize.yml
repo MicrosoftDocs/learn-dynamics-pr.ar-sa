@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.3-authorize
+title: تنفيذ التفويض لدعم التكامل
+metadata:
+  title: تنفيذ التفويض لدعم التكامل
+  description: تعرف على كيفية تنفيذ التفويض لدعم التكامل في تطبيقات Finance and Operations.
+  ms.date: 07/20/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b0a9df9afbfedfbd3b7137538ccc1b4e50edbd4a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071552"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-authorize.md)]

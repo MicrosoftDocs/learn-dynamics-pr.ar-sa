@@ -1,0 +1,55 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops
+metadata:
+  title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
+  description: يمكنك تصدير البيانات أو استيرادها في تطبيقات Finance and Operations باستخدام مساحة عمل إدارة البيانات. تحقق من صحة البيانات من خلال التشغيل المرحلي لبيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بيانات تطبيقات Finance and Operations.
+  ms.date: 05/06/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5e9b1664b7f9feb1d9b3cccb476194016250d70a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072222"
+title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يمكنك تصدير البيانات أو استيرادها في تطبيقات Finance and Operations باستخدام مساحة عمل إدارة البيانات. تحقق من صحة البيانات من خلال التشغيل المرحلي لبيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بيانات تطبيقات Finance and Operations.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- حدد النمط الصحيح لسيناريو معين لاستخدام النظام الأساسي لإدارة البيانات للتكامل باستخدام كيانات البيانات. \n- تعامل مع مساحة عمل إدارة البيانات.\n- تصدير البيانات من كيان قانوني.\n- استيراد البيانات إلى كيان قانوني. \n- العمل مع وظائف استيراد وتصدير البيانات.\n- تنظيف الجداول المرحلية.\n"
+prerequisites: >
+  - المعرفة العامة بـ Microsoft Windows
+
+  - الفهم الأساسي لتطبيقات Finance and Operations، بما في ذلك المفاهيم الأساسية ومهارات التنقل الأساسية في التطبيق
+
+  - الفهم الأساسي لإضافة الكيانات والحقول والعلاقات إلى تطبيقات Finance and Operations
+iconUrl: /learn/achievements/work-with-data-management-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.1-work-data-management-introduction
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.2-data-management-concepts
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.3-data-entities-data-management-integration
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.4-data-management-workspace
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.5-standard-enhanced-views-tiles
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.6-templates-data-management
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.7-export-import-copy-data
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.8-exercise-explore-data-management-workspace
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.9-exercise-export-import-data
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.10-work-data-management-quiz
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.11-work-data-management-summary
+badge:
+  uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.badge

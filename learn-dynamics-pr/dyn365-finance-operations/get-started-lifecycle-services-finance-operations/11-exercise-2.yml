@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-lcs.11-exercise-create-a-business-process-in-a-bpm
+title: التمرين - إنشاء عملية أعمال في أداة تكوين عمليات الأعمال
+metadata:
+  title: التمرين - إنشاء عملية أعمال في أداة تكوين عمليات الأعمال
+  description: مارس إنشاء عملية أعمال في نموذج عملية أعمال في تطبيقات Finance and Operations.
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5bda98a95dc334458bdbaee5ddfc33d3af18a35f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071905"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-exercise-create-a-business-process-in-a-bpm.md)]

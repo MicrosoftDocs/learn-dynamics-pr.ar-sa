@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.03-record-test-cases-save-to-bpm
+title: تسجيل حالات الاختبار والحفظ في مكتبة BPM
+metadata:
+  title: تسجيل حالات الاختبار والحفظ في مكتبة BPM
+  description: تعرف على كيفية تسجيل حالات الاختبار والحفظ في مكتبة BPM في تطبيقات Finance and Operations.
+  ms.date: 12/10/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c8c4a754c1bc1ba55876742d7f585e7380842e0a
+  ms.sourcegitcommit: 78ea46e483aafad65e41acedd862d74917e0bce5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/10/2020
+  ms.locfileid: "6072105"
+durationInMinutes: 9
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/03-record-test-cases-save-to-bpm.md)]

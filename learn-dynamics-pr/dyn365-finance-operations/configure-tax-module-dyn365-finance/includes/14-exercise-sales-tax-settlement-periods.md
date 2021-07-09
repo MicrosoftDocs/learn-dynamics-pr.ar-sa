@@ -1,0 +1,31 @@
+---
+ms.openlocfilehash: 326d4d1687bc8db70c6d6449aca5ab6c4e395aa2
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070740"
+---
+<span data-ttu-id="fe511-101">في هذا التدريب، سوف تقوم بإعداد فترات تسوية ضريبة المبيعات.</span><span class="sxs-lookup"><span data-stu-id="fe511-101">In this exercise, you will set up sales tax settlement periods.</span></span>
+
+1.  <span data-ttu-id="fe511-102">انتقل إلى **الضريبة > الضرائب غير المباشرة > ضريبة المبيعات > فترات تسوية ضريبة المبيعات**.</span><span class="sxs-lookup"><span data-stu-id="fe511-102">Go to **Tax > Indirect taxes > Sales tax > Sales tax settlement periods**.</span></span>
+2.  <span data-ttu-id="fe511-103">حدد **جديد** في جزء الإجراءات.</span><span class="sxs-lookup"><span data-stu-id="fe511-103">Select **New** in the Action Pane.</span></span>
+3.  <span data-ttu-id="fe511-104">في الحقل **فترة التسوية**، اكتب قيمة.</span><span class="sxs-lookup"><span data-stu-id="fe511-104">In the **Settlement period** field, type a value.</span></span>
+4.  <span data-ttu-id="fe511-105">في حقل **الوصف** أدخل قيمة.</span><span class="sxs-lookup"><span data-stu-id="fe511-105">In the **Description** field, type a value.</span></span>
+5.  <span data-ttu-id="fe511-106">في الحقل **المرجع**، حدد هيئة ضريبة المبيعات التي تتلقى التقارير والمدفوعات التي تم إنشاؤها لفتره التسوية.</span><span class="sxs-lookup"><span data-stu-id="fe511-106">In the **Authority** field, select the sales tax authority that receives the reports and the payments that are created for the settlement period.</span></span>
+6.  <span data-ttu-id="fe511-107">في القائمة، قم بالبحث عن السجل المطلوب وحدده.</span><span class="sxs-lookup"><span data-stu-id="fe511-107">In the list, find and select the desired record.</span></span>
+7.  <span data-ttu-id="fe511-108">في حقل **شروط الدفع**، حدد زر القائمة المنسدلة لفتح البحث.</span><span class="sxs-lookup"><span data-stu-id="fe511-108">In the **Terms of payment** field, select the drop-down button to open the lookup.</span></span> <span data-ttu-id="fe511-109">في القائمة، قم بالبحث عن السجل المطلوب وحدده.</span><span class="sxs-lookup"><span data-stu-id="fe511-109">In the list, find and select the desired record.</span></span>
+8.  <span data-ttu-id="fe511-110">في القائمة، حدد الارتباط في الصف المحدد.</span><span class="sxs-lookup"><span data-stu-id="fe511-110">In the list, select the link in the selected row.</span></span>
+9.  <span data-ttu-id="fe511-111">حدد نوعاً **للتسوية لكل فترة**.</span><span class="sxs-lookup"><span data-stu-id="fe511-111">Select a type for the **Settlement per intervals**.</span></span>
+10. <span data-ttu-id="fe511-112">أدخل عدد **وحدات الفاصل الزمني للفترات** لكل فترة.</span><span class="sxs-lookup"><span data-stu-id="fe511-112">Enter the number of **Period interval units** per period.</span></span> <span data-ttu-id="fe511-113">على سبيل المثال، يتضمن ربع السنة 3 أشهر.</span><span class="sxs-lookup"><span data-stu-id="fe511-113">For example, a quarter has 3 months.</span></span>
+11. <span data-ttu-id="fe511-114">حدد خانة الاختيار **استخدام معالجة المجموعة لتسوية ضريبة المبيعات** أو قم بإلغاء تحديدها.</span><span class="sxs-lookup"><span data-stu-id="fe511-114">Select or clear the **Use batch processing for sales tax settlement** check box.</span></span>
+    - <span data-ttu-id="fe511-115">يمكن معالجة عملية التسوية لفترة التسوية كمهمة مجموعة في الخلفية.</span><span class="sxs-lookup"><span data-stu-id="fe511-115">The settlement process for the settlement period can be processed as a batch job in the background.</span></span> <span data-ttu-id="fe511-116">ينصح بذلك للعديد من حركات الضريبة خلال فتره زمنية.</span><span class="sxs-lookup"><span data-stu-id="fe511-116">This is recommended for many tax transactions within a period interval.</span></span>
+12. <span data-ttu-id="fe511-117">قم بتمكين أو تعطيل خانة الاختيار **منع إنشاء حركات ضريبة مقابلة**.</span><span class="sxs-lookup"><span data-stu-id="fe511-117">Enable or disable the **Prevent generating offset tax transactions** check box.</span></span>
+    - <span data-ttu-id="fe511-118">بشكل افتراضي، يقوم النظام بإنشاء حركات ضريبة مقابلة خلال عملية التسوية، والتي يمكن أن تؤدي إلى حدوث مشكلات في الأداء في حاله وجود العديد من حركات الضريبة في فتره زمنية.</span><span class="sxs-lookup"><span data-stu-id="fe511-118">By default, the system generates offset tax transactions during the settlement process, which can cause performance issues if many tax transactions exist within a period interval.</span></span> <span data-ttu-id="fe511-119">حدد خانة الاختيار هذه لمنع إنشاء حركات ضريبة مقابلة.</span><span class="sxs-lookup"><span data-stu-id="fe511-119">Select this check box to prevent generating offset tax transactions.</span></span>
+13. <span data-ttu-id="fe511-120">قم بتوسيع علامة التبويب **الفترات الزمنية**.</span><span class="sxs-lookup"><span data-stu-id="fe511-120">Expand the **Period intervals** tab.</span></span>
+14. <span data-ttu-id="fe511-121">حدد **إضافة**.</span><span class="sxs-lookup"><span data-stu-id="fe511-121">Select **Add**.</span></span>
+15. <span data-ttu-id="fe511-122">في الحقل **تاريخ البداية**، أدخل تاريخاً.</span><span class="sxs-lookup"><span data-stu-id="fe511-122">In the **From date** field, enter a date.</span></span>
+16. <span data-ttu-id="fe511-123">في الحقل **تاريخ الانتهاء**، أدخل تاريخاً.</span><span class="sxs-lookup"><span data-stu-id="fe511-123">In the **To date** field, enter a date.</span></span>
+17. <span data-ttu-id="fe511-124">حدد **فترة زمنية جديدة**.</span><span class="sxs-lookup"><span data-stu-id="fe511-124">Select **New period interval**.</span></span> <span data-ttu-id="fe511-125">عند إدخال الفاصل الزمني للفترة الأولى، يمكن إنشاء فترات جديدة تلقائياً.</span><span class="sxs-lookup"><span data-stu-id="fe511-125">When the first period interval has been entered, new periods can be created automatically.</span></span> <span data-ttu-id="fe511-126">يمكنك العودة لاحقاً وإضافة فترات زمنية جديدة، كما هو مطلوب.</span><span class="sxs-lookup"><span data-stu-id="fe511-126">You can return later and add new period intervals, as required.</span></span>
+18. <span data-ttu-id="fe511-127">أغلق الصفحة.</span><span class="sxs-lookup"><span data-stu-id="fe511-127">Close the page.</span></span>
+

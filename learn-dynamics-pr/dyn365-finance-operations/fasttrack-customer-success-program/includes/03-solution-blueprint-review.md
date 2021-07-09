@@ -1,0 +1,35 @@
+---
+ms.openlocfilehash: e1b9f3c8b3ad597416328ff1dc793f159b2cc279
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072276"
+---
+<span data-ttu-id="97f52-101">يتم إجراء مراجعة مخطط الحل بواسطة مهندس الحلول في Microsoft الذي تم تعيينه للمشروع.</span><span class="sxs-lookup"><span data-stu-id="97f52-101">The solution blueprint review is conducted by the solution architect at Microsoft who is assigned to the project.</span></span> <span data-ttu-id="97f52-102">يتم إجراء هذه المراجعة من خلال ورشة عمل، حيث يتم وصف تفاصيل العمليات التجارية ومتطلبات النظام، والتي سيقدم مهندس الحلول توصيات وإجراءات مقترحة للتنفيذ الأكثر كفاءة.</span><span class="sxs-lookup"><span data-stu-id="97f52-102">This review is accomplished through a workshop, where details of the business processes and system requirements are described, for which the solution architect will provide recommendations and suggested actions for the most efficient implementation.</span></span> <span data-ttu-id="97f52-103">تتم جدولة ورش العمل بشكل دوري أثناء التنفيذ، مما سيساعد المؤسسات فيما يلي:</span><span class="sxs-lookup"><span data-stu-id="97f52-103">Workshops are scheduled periodically during the implementation, which will help organizations to:</span></span> 
+
+-   <span data-ttu-id="97f52-104">ضمان نتائج العميل.</span><span class="sxs-lookup"><span data-stu-id="97f52-104">Ensure customer outcome.</span></span> 
+-   <span data-ttu-id="97f52-105">تحديد المخاطر.</span><span class="sxs-lookup"><span data-stu-id="97f52-105">Identify risks.</span></span>
+-   <span data-ttu-id="97f52-106">تشجيع التواصل المبكر.</span><span class="sxs-lookup"><span data-stu-id="97f52-106">Drive communication early.</span></span> 
+-   <span data-ttu-id="97f52-107">ضمان فهم العميل.</span><span class="sxs-lookup"><span data-stu-id="97f52-107">Ensure customer understanding.</span></span> 
+-   <span data-ttu-id="97f52-108">تحديد المواضع التي يمكن لـ Microsoft الإفادة بها.</span><span class="sxs-lookup"><span data-stu-id="97f52-108">Identify where Microsoft can help.</span></span>
+
+## <a name="cloud-solution-architecture-blueprint"></a><span data-ttu-id="97f52-109">مخطط بنية حل السحابة</span><span class="sxs-lookup"><span data-stu-id="97f52-109">Cloud solution architecture blueprint</span></span> 
+<span data-ttu-id="97f52-110">تعمل أنواع متعددة من البنى على تشكيل مخطط بنية الحلول السحابية الكاملة.</span><span class="sxs-lookup"><span data-stu-id="97f52-110">Multiple types of architectures shape the complete cloud solution architecture blueprint.</span></span> <span data-ttu-id="97f52-111">تتكوّن كل بنية من عناصر رئيسية مختلفة يجب مراجعتها خلال ورش العمل هذه.</span><span class="sxs-lookup"><span data-stu-id="97f52-111">Each architecture is compounded by different key elements that need to be reviewed during these workshops.</span></span>
+
+-   <span data-ttu-id="97f52-112">**بنية العمليات** - إدارة النطاق، وتحليل الأعمال، وإدارة الملاءمة والفجوات والمتطلبات، وإدارة الاختبار، والتدريب</span><span class="sxs-lookup"><span data-stu-id="97f52-112">**Process architecture** - Scope management, business analysis, requirements and fit gap management, test management, and training</span></span> 
+-   <span data-ttu-id="97f52-113">**بنية التطبيقات** - مكونات Microsoft والشركاء والعملاء</span><span class="sxs-lookup"><span data-stu-id="97f52-113">**Application architecture** - Microsoft, partner, and customer components</span></span> 
+-   <span data-ttu-id="97f52-114">**بنية البيانات** - الكيانات، والتدفقات، واستراتيجية الترحيل / الترقية، واستراتيجية الصيانة، وتغيير الحجم</span><span class="sxs-lookup"><span data-stu-id="97f52-114">**Data architecture** - Entities, flows, migration/upgrade strategy, maintenance strategy, and sizing</span></span> 
+-   <span data-ttu-id="97f52-115">**بنية التكامل** - كتالوج التكامل، وتصميم الواجهة، وتصميم البرنامج الوسيط، والتصميم التشغيلي</span><span class="sxs-lookup"><span data-stu-id="97f52-115">**Integration architecture** - Integration catalog, interface design, middleware design, and operational design</span></span> 
+-   <span data-ttu-id="97f52-116">**بنية المعلومات** - العملية التحليلية، والاستعلام، والتنبيه، والتشغيل التلقائي</span><span class="sxs-lookup"><span data-stu-id="97f52-116">**Intelligence architecture** - Analytical process, inquiry, alerting, and automation</span></span> 
+-   <span data-ttu-id="97f52-117">**بنية الأمان** - المصادقة، والتحكم بالوصول، والشبكة، والتشفير</span><span class="sxs-lookup"><span data-stu-id="97f52-117">**Security architecture** - Authentication, access control, network, and encryption</span></span> 
+-   <span data-ttu-id="97f52-118">**بنية التحديث المستمر** - إدارة دورة حياة التطبيق (ALM)، واستراتيجية البيئة، وتصميم اختبار التراجع، والتصميم التنظيمي</span><span class="sxs-lookup"><span data-stu-id="97f52-118">**Continuous update architecture** - Application Lifecycle management (ALM), environment strategy, regression test design, and organizational design</span></span> 
+-   <span data-ttu-id="97f52-119">**بنية النظام الأساسي** - استراتيجية المثيل، والأداء، واستمرارية الأعمال، ونموذج التوزيع</span><span class="sxs-lookup"><span data-stu-id="97f52-119">**Platform architecture** - Instance strategy, performance, business continuance, and deployment model</span></span> 
+-   <span data-ttu-id="97f52-120">**الجدول الزمني/النهج** - إدارة المتطلبات، ومنهجية الاختبار، ونموذج المشاركة في الأعمال، وإدارة التغيير / خطة الطرح، وفحوصات السلامة المجدولة</span><span class="sxs-lookup"><span data-stu-id="97f52-120">**Timeline/Approach** - Requirement management, test methodology, business participation model, change management/rollout plan, and scheduled sanity checks</span></span> 
+
+
+## <a name="when-blueprint-reviews-happen"></a><span data-ttu-id="97f52-121">عند حدوث مراجعات المخطط</span><span class="sxs-lookup"><span data-stu-id="97f52-121">When blueprint reviews happen</span></span>
+<span data-ttu-id="97f52-122">يعرض الرسم التخطيطي التالي نموذج مشاركة مألوفاً مع فريق FastTrack وتنفيذ المراجعة.</span><span class="sxs-lookup"><span data-stu-id="97f52-122">The following diagram shows a typical engagement model with the FastTrack team and the review implementation.</span></span> <span data-ttu-id="97f52-123">عندما لا يتفاعل المشروع مع مهندس FastTrack المخصص، نوصيك بمراعاة نقاط التحقق هذه كجزء من التخطيط بين الشريك والعميل.</span><span class="sxs-lookup"><span data-stu-id="97f52-123">When a project does not interact with an allocated FastTrack architect, we recommend that you consider these checkpoints as part of your planning between partner and customer.</span></span> 
+
+<span data-ttu-id="97f52-124">[![رسم تخطيطي لنموذج مشاركة مألوف مع فريق FastTrack وتنفيذ المراجعة.](../media/solution-blueprint.jpg)](../media/solution-blueprint.jpg#lightbox)</span><span class="sxs-lookup"><span data-stu-id="97f52-124">[![Diagram of a typical engagement model with the FastTrack team and the review implementation.](../media/solution-blueprint.jpg)](../media/solution-blueprint.jpg#lightbox)</span></span>
+

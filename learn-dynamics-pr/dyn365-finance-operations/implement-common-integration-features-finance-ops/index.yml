@@ -1,0 +1,60 @@
+### YamlMime:Module
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops
+metadata:
+  title: تنفيذ ميزات التكامل المشترك في تطبيقات Finance and Operations
+  description: تم دمج Microsoft Excel مع تطبيقات Finance and Operations. يتيح ذلك إمكانية سحب البيانات مباشرة من تطبيقات Finance and Operations، ومعالجة البيانات في Excel، وحفظها مرة أخرى إلى تطبيقات Finance and Operations. يمكنك أيضاً إرسال رسائل البريد الإلكتروني مباشرة عبر تطبيقات Finance and Operations أو باستخدام Microsoft Outlook. يمكنك طباعة المستندات من أي مكان من متصفحك إلى طابعة شبكة شركتك، لذا فقد لا تكون تجربة الطباعة أسهل.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0c11e8cfe8464d1f5c262cfa4b6a06cb82f4aa75
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6072645"
+title: تنفيذ ميزات التكامل المشترك في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  [!include[](../includes/specific-module-banner.md)]
+
+
+  تم دمج Microsoft Excel مع تطبيقات Finance and Operations. يتيح ذلك إمكانية سحب البيانات مباشرة من تطبيقات Finance and Operations، ومعالجة البيانات في Excel، وحفظها مرة أخرى إلى تطبيقات Finance and Operations. يمكنك أيضاً إرسال رسائل البريد الإلكتروني مباشرة عبر تطبيقات Finance and Operations أو باستخدام Microsoft Outlook. يمكنك طباعة المستندات من أي مكان من متصفحك إلى طابعة شبكة شركتك، لذا فقد لا تكون تجربة الطباعة أسهل.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إجراء تكامل Microsoft Office في تطبيقات Finance and Operations\n- تكوين البريد الكتروني (SMTP/Exchange)\n- إنشاء قوالب بريد إلكتروني وتعديلها\n- إعداد طباعة الشبكة\n- تكامل البيانات من مصادر متعددة في Microsoft Dataverse للتطبيقات\n"
+prerequisites: >
+  - الحصول على فهم أساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+
+  - الحصول على فهم عام لفوترة أمر الشراء
+
+  - الحصول على فهم عام لفوترة أمر المبيعات
+iconUrl: /learn/achievements/implement-common-integration-features-in-dynamics-365-finance-ops.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.1-common-integration-introduction
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.2-office-integration-fo
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.3-excel-workbook-designer
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.4-document-management
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.5-configure-emails-smtp-exchange
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.6-create-email-template
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.7-power-bi-fo
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.8-set-up-network-printing
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.9-integrate-data-common-data-service
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.10-exercise-work-office-integration
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.11-exercise-excel-workbook-designer
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.12-common-integration-fo-quiz
+- learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.13-common-integration-fo-summary
+badge:
+  uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.badge

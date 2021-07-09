@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.controls-reports-asset-management.03-work-order-date
+title: حساب التحكم في تاريخ أمر العمل
+metadata:
+  title: حساب التحكم في تاريخ أمر العمل
+  description: تصف هذه الوحدة حساب التحكم في تاريخ أمر العمل
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e8fefb432439cfc4979a82b492bafa0aeb7b9b23
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071240"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-work-order-date.md)]"

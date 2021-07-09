@@ -1,0 +1,65 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.implement-finance-operations
+metadata:
+  title: تنفيذ تطبيقات Finance and Operations
+  description: تعرف على أهم العناصر وأفضل الممارسات لتنفيذ تطبيقات Finance and Operations بنجاح. من الخطوة الأولى حيث تخطط منهجية مشروعك وتصممها، واستخدام خدمات "FastTrack" واستراتيجية التطوير وإدارة البيانات وأكثر من ذلك بكثير، إلى أفضل الطرق للحفاظ على عملياتك ومراقبتها بعد العرض المباشر.
+  ms.date: 04/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d48e81648ea94ef307c6168b62f8947137541cfe
+  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2021
+  ms.locfileid: "6074769"
+title: تنفيذ تطبيقات Finance and Operations
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  تعرف على أهم العناصر وأفضل الممارسات لتنفيذ تطبيقات Finance and Operations بنجاح. من الخطوة الأولى حيث تخطط منهجية مشروعك وتصممها، واستخدام خدمات "FastTrack" واستراتيجية التطوير وإدارة البيانات وأكثر من ذلك بكثير، إلى أفضل الطرق للحفاظ على عملياتك ومراقبتها بعد العرض المباشر.
+prerequisites: >
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+
+  - معرفه عمليات تنفيذ العملاء
+iconUrl: /learn/achievements/implement-finance-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+modules:
+- learn-dynamics.get-started-implementation-project
+- learn-dynamics.fasttrack-customer-success-program
+- learn-dynamics.get-started-with-lcs
+- learn-dynamics.design-plan-implementation-in-f-and-o
+- learn-dynamics.perform-uat-in-dynamics-365-finance-ops
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops
+- learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops
+- learn-dynamics.application-lifecycle-dynamics-365-finance-operations
+- learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations
+- learn-dynamics.business-events-dynamics-365-finance-operations
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations
+- learn-dynamics.data-integrations-dynamics-365-finance-operations
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops
+- learn-bizapps.wwl.introduction-power-platform
+- learn-bizapps.wwl.build-app-solution
+- learn-bizapps.wwl.introduction-common-data-service
+- learn-bizapps.wwl.build-simple-dashboard
+- learn-bizapps.wwl.build-automated-solution
+- learn-dynamics.design-and-build-mobile-apps-for-dynamics-365-finance-ops
+- learn-dynamics.upgrades-updates-finance-operations-apps
+- learn-dynamics.performance-monitoring-dynamics-365-finance-operations
+- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops
+- learn-dynamics.role-security-dynamics-365-finance-operations
+- learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.implement-finance-operations.trophy

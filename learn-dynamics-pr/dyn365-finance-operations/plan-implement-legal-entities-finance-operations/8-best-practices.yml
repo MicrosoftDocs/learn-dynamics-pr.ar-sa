@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.8-best-practices-modeling-organizations-and-hierarchies
+title: أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية
+metadata:
+  title: أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية
+  description: تصف هذه الوحدة أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية في تطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 872492768ed598bc5004670554387a1daed78c69
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071172"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-best-practices-organizations-hierarchies.md)]

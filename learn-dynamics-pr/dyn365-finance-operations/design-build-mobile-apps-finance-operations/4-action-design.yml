@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-and-build-mobile-apps-for-dynamics-365-finance-ops.4-action-design-guidelines
+title: إرشادات تصميم الإجراءات
+metadata:
+  title: إرشادات تصميم الإجراءات
+  description: توضح هذه الوحدة إرشادات تصميم الإجراءات الخاصة بتطبيقات الأجهزة المحمولة في تطبيقات Finance and Operations.
+  ms.date: 03/08/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0c232871558102765c052753e7e4f240479287c3
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071715"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-action-design-guidelines.md)]

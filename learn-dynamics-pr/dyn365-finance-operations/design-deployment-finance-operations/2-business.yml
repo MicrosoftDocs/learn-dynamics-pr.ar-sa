@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-deployment-dynamics-365-finance-operations.2-business
+title: تحديد مفاهيم الأعمال ذات الصلة
+metadata:
+  title: تحديد مفاهيم الأعمال ذات الصلة
+  description: تعرف على كيفية تحديد مفاهيم الأعمال ذات الصلة في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/getting-started-with-associated-technologies
+  ms.openlocfilehash: 16687043d20ced5a51076fbcdbea41704740903f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071872"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-business.md)]

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-lcs.9-get-product-updates-from-lcs
+title: الحصول على تحديثات المنتج من LCS
+metadata:
+  title: الحصول على تحديثات المنتج من LCS
+  description: توضح هذه الوحدة كيفية الحصول على تحديثات المنتج من LCS وتطبيقها على مثيل تطبيقات Finance and Operations.
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7332cbf51d84283cea6feae6b55c13a4caa3fe12
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071948"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-get-product-updates-from-lcs.md)]

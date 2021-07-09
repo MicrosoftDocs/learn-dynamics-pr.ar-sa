@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.design-plan-implementation-in-f-and-o
+metadata:
+  title: تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
+  description: توضح هذه الوحدة كيفية تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها باستخدام Lifecycle Services.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b81f72463f39b895311aab4cd796e471618c947d
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072226"
+title: تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  وباستخدام التخطيط المناسب، ستكون عملية تنفيذ تطبيقات Finance and Operations ناجحة. بعد قيام أحد العملاء بتوقيع الاتفاقيات لشراء تراخيص تطبيقات Finance and Operations، يبدأ عملك كمستشار وظيفي من خلال إدارة دورة حياة التطبيق والتحرك نحو التنفيذ القابل للتوقيت والقابل للتكرار، وعالي الجودة.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بإعداد وثائق المتطلبات المجمعة باستخدام المنهجيات في Lifecycle Services (LCS). \n- حدد سيناريوهات حالة الاستخدام.\n- تعرف على كيفية المشاركة في إنشاء مستندات متطلبات الأعمال (BRD). \n- افهم أهمية إنشاء العمليات الموثقة وصيانتها.\n- ويمكنك المشاركة في عمليات التخطيط المستندة إلى المرحلة وتصميم الحلول.\n- ويتيح وصف الحالة المستقبلية لعمليات الأعمال استناداً إلى حل مقترح.\n- حدد وقت الإنشاء مقابل الشراء.\n- قم بإنشاء مستندات التصميم الوظيفي (FDD).\n"
+prerequisites: القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+iconUrl: /learn/achievements/design-plan-implementation-in-f-and-o.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- solution-architect
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.design-plan-implementation-in-f-and-o.1-design-plan-implementation-in-f-and-o-introduction
+- learn-dynamics.design-plan-implementation-in-f-and-o.2-implementation-methodologies
+- learn-dynamics.design-plan-implementation-in-f-and-o.3-cloud-impl-analysis
+- learn-dynamics.design-plan-implementation-in-f-and-o.4-cloud-impl-design-and-develop
+- learn-dynamics.design-plan-implementation-in-f-and-o.5-cloud-impl-test
+- learn-dynamics.design-plan-implementation-in-f-and-o.6-cloud-impl-deploy-and-operate
+- learn-dynamics.design-plan-implementation-in-f-and-o.7-on-premises-impl-analysis
+- learn-dynamics.design-plan-implementation-in-f-and-o.8-on-premises-impl-design-and-develop
+- learn-dynamics.design-plan-implementation-in-f-and-o.9-on-premises-impl-test-deploy-and-operate
+- learn-dynamics.design-plan-implementation-in-f-and-o.11-gathering-and-analyzing-the-requirements
+- learn-dynamics.design-plan-implementation-in-f-and-o.12-create-functional-design-documents
+- learn-dynamics.design-plan-implementation-in-f-and-o.14-design-plan-implementation-in-f-and-o-quiz
+- learn-dynamics.design-plan-implementation-in-f-and-o.13-design-plan-implementation-in-f-and-o-summary
+badge:
+  uid: learn-dynamics.design-plan-implementation-in-f-and-o.badge

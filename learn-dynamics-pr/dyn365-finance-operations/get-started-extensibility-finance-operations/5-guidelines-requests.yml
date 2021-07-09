@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-extensibility-finance-operations.5-guidelines-requests
+title: إرشادات القابلية للتوسعة وطلباتها
+metadata:
+  title: إرشادات القابلية للتوسعة وطلباتها
+  description: تعرف على الإرشادات الخاصة بطلبات قابلية التوسعة في إطار عمل قابلية التوسعة في تطبيقات Finance and Operations.
+  ms.date: 03/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0568c0715b5f6404b723c4bc65dbf3407bb562a0
+  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6072537"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-guidelines-requests.md)]"

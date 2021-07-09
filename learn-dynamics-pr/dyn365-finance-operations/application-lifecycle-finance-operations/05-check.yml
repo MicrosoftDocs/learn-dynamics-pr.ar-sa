@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.application-lifecycle-dynamics-365-finance-operations.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/21/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d327a1be8ecced9b68378b24c0a57382c1402c7f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071733"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أنت تعمل في مشروع له متطلبات غير محددة ومن المتوقع حدوث متطلبات جديدة أثناء المشروع. فما المنهجية التي تلائم بشكل أفضل هذا النوع من المشاريع؟
+    choices:
+    - content: منهجية الشلال
+      isCorrect: false
+      explanation: يتم استخدام منهجية الشلال بشكل أفضل عند تحديد كافة المتطلبات في البداية.
+    - content: منهجية Agile
+      isCorrect: true
+      explanation: تفيد منهجية Agile عندما تكون المتطلبات غير محددة ومن المتوقع أن تكون هناك متطلبات إضافية خلال دورة حياة المشروع.
+    - content: المنهجية الحلزونية
+      isCorrect: false
+      explanation: تُعد المنهجية الحلزونية منهجية أفضل للتعامل مع المشاريع المعقدة التي تحتاج إلى تقييم المخاطر.
+  - content: ينضم مطور جديد إلى فريق المشروع. وبصفتك مدير المشروع، يجب أن تطلب بيئة جديدة ليستخدمها المطور. فما نوع البيئة التي يجب أن تطلبها؟
+    choices:
+    - content: بيئة من المستوى 1
+      isCorrect: true
+      explanation: بيئات المستوى 1 مخصصة للتطوير.
+    - content: بيئة من المستوى 2
+      isCorrect: false
+      explanation: بيئات المستوى 2 مصممة لاختبار قبول المستخدم وبيئة التشغيل.
+    - content: بيئة تشغيل
+      isCorrect: false
+      explanation: تُعد بيئة التشغيل بيئتك المباشرة ولا تُستخدم للتطوير.

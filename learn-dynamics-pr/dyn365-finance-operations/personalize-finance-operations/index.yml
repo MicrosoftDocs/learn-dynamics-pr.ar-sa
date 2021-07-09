@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-dynamics.personalize-dynamics-365-finance-ops
+metadata:
+  title: تخصيص تطبيقات Finance and Operations
+  description: ومن خلال تخصيص واجهه المستخدم في تطبيقات Finance and Operations، يمكنك التعامل مع موظفي المؤسسة للعمل بشكل أكثر كفاءه. يساعد التخصيص مديري الأقسام على فرض واجهة مستخدم محددة لموظفيهم دون الحاجة إلى التخصيص.
+  ms.date: 04/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2c70129f4cea2c2cc98eef94755ea490add417c1
+  ms.sourcegitcommit: 567643c6f57edb821768e02042f3f8f2455383f5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6074947"
+title: تخصيص تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nومن خلال تخصيص واجهه المستخدم في تطبيقات Finance and Operations، يمكنك التعامل مع موظفي المؤسسة للعمل بشكل أكثر كفاءه. يساعد التخصيص مديري الأقسام على فرض واجهة مستخدم محددة لموظفيهم دون الحاجة إلى التخصيص. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- وصف خيارات المستخدم وتطبيقها\n- التميّيز بين التخصيص والتخصيص من خلال إضفاء الطابع الشخصي\n- إنشاء التخصيص وتصديره واستيراده\n- إنشاء قوالب سجل وتعديلها\n- استخدام طرق العرض المحفوظة\n"
+prerequisites: >
+  - المعرفة العامة بـ Microsoft Windows
+
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+iconUrl: /learn/achievements/personalize-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.personalize-dynamics-365-finance-ops.1-personalize-finance-ops-introduction
+- learn-dynamics.personalize-dynamics-365-finance-ops.2-customization-versus-personalization
+- learn-dynamics.personalize-dynamics-365-finance-ops.3-apply-user-options
+- learn-dynamics.personalize-dynamics-365-finance-ops.4-implicit-personalization
+- learn-dynamics.personalize-dynamics-365-finance-ops.5-explicit-personalization
+- learn-dynamics.personalize-dynamics-365-finance-ops.6-work-with-personalization
+- learn-dynamics.personalize-dynamics-365-finance-ops.11-administrate-personalization
+- learn-dynamics.personalize-dynamics-365-finance-ops.11-2-saved-views
+- learn-dynamics.personalize-dynamics-365-finance-ops.7-personalization-toolbar
+- learn-dynamics.personalize-dynamics-365-finance-ops.8-personalize-a-workspace
+- learn-dynamics.personalize-dynamics-365-finance-ops.9-personalize-a-dashboard
+- learn-dynamics.personalize-dynamics-365-finance-ops.10-personalize-inventory-dimensions
+- learn-dynamics.personalize-dynamics-365-finance-ops.12-create-and-maintain-record-templates
+- learn-dynamics.personalize-dynamics-365-finance-ops.13-exercise-personalize-user-options
+- learn-dynamics.personalize-dynamics-365-finance-ops.14-exercise-create-use-record-template
+- learn-dynamics.personalize-dynamics-365-finance-ops.15-personalize-finance-ops-quiz
+- learn-dynamics.personalize-dynamics-365-finance-ops.16-personalize-finance-ops-summary
+badge:
+  uid: learn-dynamics.personalize-dynamics-365-finance-ops.badge

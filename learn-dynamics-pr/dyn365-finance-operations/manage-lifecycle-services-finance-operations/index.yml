@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations
+metadata:
+  title: إدارة تطبيقات Finance and Operations باستخدام Lifecycle Services
+  description: تساعدك Lifecycle Services على استضافة بيئات تطبيقات Finance and Operations. يوفر عمليات قابلة للتكرار لدعم النجاح المتسق مع كل تسليم. تتوفر Lifecycle Services للعملاء والشركاء كجزء من خطط الدعم الخاصة بهم.
+  ms.date: 07/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1d0b55fa56a9b0ec81765304c206dd2e5629a126
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072188"
+title: إدارة تطبيقات Finance and Operations باستخدام Lifecycle Services
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تساعدك Lifecycle Services على استضافة بيئات تطبيقات Finance and Operations. يوفر عمليات قابلة للتكرار لدعم النجاح المتسق مع كل تسليم. تتوفر Lifecycle Services للعملاء والشركاء كجزء من خطط الدعم الخاصة بهم.
+abstract: "سوف تتعرف في هذه الوحدة على: \n- أداء مهام الدعم.\n- توفير البيئات وإدارتها.\n- إدارة مكتبات الأصول.\n- إدارة عملية ترقية التعليمات البرمجية بين إصدارات تطبيقات Finance and Operations.\n"
+prerequisites: >
+  - المعرفة الأساسية للبنية الأساسية لتطبيقات Finance and Operations
+
+  - القدرة على التنقل خلال Lifecycle Services
+iconUrl: /learn/achievements/manage-lcs-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.01-introduction
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.02-support
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.03-environments
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.04-asset-library
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.05-upgrade
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.06-check
+- learn-dynamics.manage-lcs-dynamics-365-finance-operations.07-summary
+badge:
+  uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.badge

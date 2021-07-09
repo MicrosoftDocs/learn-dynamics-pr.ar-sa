@@ -1,0 +1,26 @@
+---
+ms.openlocfilehash: bc9a62e04e7eec28de4215612cb96466db9a4f8a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071364"
+---
+<span data-ttu-id="3c846-101">يستخدم Finance and Operations بيانات التعريف لتحديد العناصر.</span><span class="sxs-lookup"><span data-stu-id="3c846-101">Finance and Operations uses metadata to define elements.</span></span> <span data-ttu-id="3c846-102">يمكن استخدام بيانات التعريف للبحث عن عناصر مثل النماذج والجداول والتعليمات البرمجية باستخدام ميزة **البحث عن بيانات تعريف**.</span><span class="sxs-lookup"><span data-stu-id="3c846-102">Metadata can be used to search for elements like forms, tables, and code by using the **Metadata search** feature.</span></span> <span data-ttu-id="3c846-103">يمكن الوصول إلى بحث بيانات التعريف من **Visual Studio > Dynamics 365 > البحث عن بيانات التعريف**.</span><span class="sxs-lookup"><span data-stu-id="3c846-103">Metadata search can be accessed from **Visual Studio > Dynamics 365 > Metadata search**.</span></span> <span data-ttu-id="3c846-104">يتيح لك البحث على أساس بيانات التعريف العثور على العناصر ذات الصلة.</span><span class="sxs-lookup"><span data-stu-id="3c846-104">Searching elements based on metadata allows you to find related elements.</span></span> 
+
+<span data-ttu-id="3c846-105">على سبيل المثال، قد تحتاج إلى العثور على جدول ولكن لا يمكنك تذكر الاسم الكامل.</span><span class="sxs-lookup"><span data-stu-id="3c846-105">For example, you might need to find a table but can’t remember the full name.</span></span> <span data-ttu-id="3c846-106">أنت تعلم أن "cust" جزء من الاسم.</span><span class="sxs-lookup"><span data-stu-id="3c846-106">You know that "cust" is part of the name.</span></span> <span data-ttu-id="3c846-107">يمكنك استخدام البحث في بيانات التعريف للعثور على جميع الجداول التي تحتوي على كلمة "cust" في الاسم.</span><span class="sxs-lookup"><span data-stu-id="3c846-107">You can use the metadata search to find all the tables that have "cust" in the name.</span></span> <span data-ttu-id="3c846-108">يمكنك البحث عن العناصر بناءً على اسم العنصر ونوع العنصر والنموذج الذي يوجد به العنصر وخصائص العنصر والقصاصات البرمجية.</span><span class="sxs-lookup"><span data-stu-id="3c846-108">You can search elements based on the name of the element, type of element, model that the element is in, properties of the element, and code snippets.</span></span>
+
+<span data-ttu-id="3c846-109">البنية المراد البحث عنها في **البحث عن بيانات التعريف** هي:</span><span class="sxs-lookup"><span data-stu-id="3c846-109">The syntax for searching in the **Metadata search** is:</span></span>
+
+`*<filter_1>:<filter_1_value> [<filter_2>:<filter_2_value>...
+<filter_N>:<filter_N_value>]*`
+
+![لقطة شاشة للبحث عن بيانات التعريف في Visual Studio.](../media/metadata-search-1.png)
+
+<span data-ttu-id="3c846-111">تتضمن الكلمات الأساسية التي يمكنك استخدامها في **البحث عن بيانات التعريف**:</span><span class="sxs-lookup"><span data-stu-id="3c846-111">Keywords that you can use in the **Metadata search** include:</span></span>
+
+-   <span data-ttu-id="3c846-112">**الاسم** - قم بالتصفية حسب اسم العنصر.</span><span class="sxs-lookup"><span data-stu-id="3c846-112">**Name** - Filter by element name.</span></span> <span data-ttu-id="3c846-113">هذا هو أيضاً عامل التصفية الافتراضي إذا لم يتم تحديد كلمة أساسية.</span><span class="sxs-lookup"><span data-stu-id="3c846-113">This is also the default filter  if no keyword is specified.</span></span> <span data-ttu-id="3c846-114">يمكن استخدام الفاصلة للبحث عن أسماء عناصر متعددة.</span><span class="sxs-lookup"><span data-stu-id="3c846-114">A comma can be used to search for multiple element names.</span></span>
+-   <span data-ttu-id="3c846-115">**النوع** - قم بالتصفية حسب نوع العنصر.</span><span class="sxs-lookup"><span data-stu-id="3c846-115">**Type** - Filter by element type.</span></span> <span data-ttu-id="3c846-116">يمكن استخدام الفاصلة بعد العنصر لتحديد العناصر الفرعية.</span><span class="sxs-lookup"><span data-stu-id="3c846-116">A comma can be used after an    element to specify sub elements.</span></span>
+-   <span data-ttu-id="3c846-117">**النموذج** - قم بالتصفية حسب اسم النموذج.</span><span class="sxs-lookup"><span data-stu-id="3c846-117">**Model** - Filter by model name.</span></span> <span data-ttu-id="3c846-118">ستبحث كل قيمة مفصولة بفاصلة عن نموذج في تطبيقك.</span><span class="sxs-lookup"><span data-stu-id="3c846-118">Each comma-separated value will    look for a model in your application.</span></span>
+-   <span data-ttu-id="3c846-119">**الخاصية** - تصفية الخصائص في النماذج.</span><span class="sxs-lookup"><span data-stu-id="3c846-119">**Property** - Filters properties on forms.</span></span> <span data-ttu-id="3c846-120">يجب أن تكون كل قيمة مفصولة بفاصلة خاصية في النموذج.</span><span class="sxs-lookup"><span data-stu-id="3c846-120">Each comma-separated    value should be a property on the form.</span></span>
+-   <span data-ttu-id="3c846-121">**التعليمة البرمجية** - قم بتصفية القصاصات البرمجية.</span><span class="sxs-lookup"><span data-stu-id="3c846-121">**Code** - Filter code snippets.</span></span> <span data-ttu-id="3c846-122">يجب أن تكون القصاصة البرمجية في علامات اقتباس.</span><span class="sxs-lookup"><span data-stu-id="3c846-122">The code snippet should be in    quotes.</span></span>

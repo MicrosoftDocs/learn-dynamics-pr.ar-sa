@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-help-with-f-and-o.4-in-product-help
+title: التعليمات المضمّنة في المنتجات
+metadata:
+  title: التعليمات المضمّنة في المنتجات
+  description: تصف هذه الوحدة التعليمات المضمّنة في المنتجات في تطبيقات Finance and Operations بما في ذلك أوصاف الحقول ودلائل المهام.
+  ms.date: 01/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 00679f03d0a6fc6c5f470b4e29ce0c010120e29c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071864"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-in-product-help.md)]

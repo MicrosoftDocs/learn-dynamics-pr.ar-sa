@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-reporting-tools-dynamics-365-finance-operations.05-lab
+title: معمل - تعيين متطلبات التفويض في جداول قاعدة البيانات
+metadata:
+  title: معمل - تعيين متطلبات التفويض في جداول قاعدة البيانات
+  description: ممارسة إعداد متطلبات التفويض في جداول قاعدة البيانات في تطبيقات Finance and Operations.
+  ms.date: 06/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 20b0425bceb6caf61a2f82751ff3e10585c7e0fd
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071681"
+labId: 63332
+durationInMinutes: 15
+content: "[!include[](../includes/accessing-labs.md)]\n[!include[](includes/05-lab.md)] \n[!include[](../includes/standalone-lab-end.md)]"

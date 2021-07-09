@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.benefits-management
+metadata:
+  title: إنشاء خطط مزايا في Dynamics 365 Human Resources
+  description: تعرف على كيفية تمكين إدارة المزايا في Dynamics 365 Human Resources، وإنشاء خطط مزايا، وتسجيل الموظفين.
+  ms.date: 04/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 118faea883b5bd3a65a71f1caf740af107a88a72
+  ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/07/2021
+  ms.locfileid: "6072701"
+title: إنشاء خطط مزايا في Dynamics 365 Human Resources
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تمكين إدارة المزايا في Dynamics 365 Human Resources، وإنشاء خطط مزايا، وتسجيل الموظفين.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة المزايا في Human Resources.\n- استخدم إدارة الميزات لتمكين مساحة عمل إدارة المزايا.\n- تعرف على كيفية إنشاء خطة مزايا في Human Resources.\n- تعرف على كيفية تسجيل الموظفين في خطة المزايا.\n- إنشاء برنامج الائتمان المرن.\n"
+prerequisites: المعرفة العامة للمفاهيم وممارسات Human Resources
+iconUrl: /learn/achievements/benefits-management.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-human-resources
+units:
+- learn-dynamics.benefits-management.1-introduction
+- learn-dynamics.benefits-management.2-overview
+- learn-dynamics.benefits-management.3-enable
+- learn-dynamics.benefits-management.4-configure
+- learn-dynamics.benefits-management.5-create-plan
+- learn-dynamics.benefits-management.6-self-service
+- learn-dynamics.benefits-management.7-enroll
+- learn-dynamics.benefits-management.8-exercise
+- learn-dynamics.benefits-management.9-exercise
+- learn-dynamics.benefits-management.10-check
+- learn-dynamics.benefits-management.11-summary
+badge:
+  uid: learn-dynamics.benefits-management.badge

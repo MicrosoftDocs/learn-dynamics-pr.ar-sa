@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-functional-locations-assets-management.02-create-functional-locations
+title: إنشاء مواقع العمل
+metadata:
+  title: إنشاء مواقع العمل
+  description: توضح هذه الوحدة كيفية إنشاء مواقع العمل في إدارة الأصول
+  ms.date: 02/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 283e1880cf75a2e23a4a7b2bf944603fa60bceae
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071622"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create-functional-locations.md)]"

@@ -1,0 +1,58 @@
+---
+ms.openlocfilehash: f3ca320db409330a17a50ffe7c707ac4147b5419
+ms.sourcegitcommit: 01f8d224bf1e548ba0cbe53b3e2150c43302c125
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "6072091"
+---
+<span data-ttu-id="83a7a-101">تستخدم هذه التمرينات شركة **USMF** في بيانات العرض التوضيحي القياسي.</span><span class="sxs-lookup"><span data-stu-id="83a7a-101">These exercises use the **USMF** company in the standard demo data.</span></span> 
+
+## <a name="scenario"></a><span data-ttu-id="83a7a-102">السيناريو</span><span class="sxs-lookup"><span data-stu-id="83a7a-102">Scenario</span></span>
+<span data-ttu-id="83a7a-103">تم تثبيت الوظيفة الإضافية لتحسين أداء التخطيط، والآن يجب إعداد النظام لكي يقوم بمعالجة اتفاقيات الشراء التجارية.</span><span class="sxs-lookup"><span data-stu-id="83a7a-103">The Planning Optimization Add-in has been installed, and now the system needs to be set up to handle purchase trade agreements.</span></span> 
+
+> [!NOTE]
+> <span data-ttu-id="83a7a-104">يمكن إجراء هذا التمرين أيضاً دون تحسين التخطيط باستخدام مشغل التخطيط الرئيسي المضمن.</span><span class="sxs-lookup"><span data-stu-id="83a7a-104">This exercise can also be performed without Planning Optimization by using the built-in master planning engine.</span></span>
+
+
+## <a name="enable-the-purchase-trade-agreements-for-planning-optimization-feature"></a><span data-ttu-id="83a7a-105">تمكين اتفاقيات الشراء التجارية لميزه تحسين التخطيط</span><span class="sxs-lookup"><span data-stu-id="83a7a-105">Enable the Purchase trade agreements for Planning Optimization feature</span></span>
+
+<span data-ttu-id="83a7a-106">لتمكين ميزة **اتفاقيات الشراء التجارية لتحسين التخطيط**، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="83a7a-106">To enable the **Purchase trade agreements for Planning Optimization** feature, follow these steps:</span></span>
+
+1.  <span data-ttu-id="83a7a-107">في الشركة **USMF**، حدد مساحة عمل **إدارة الميزات**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-107">In the company **USMF**, select the **Feature management** workspace.</span></span>
+2.  <span data-ttu-id="83a7a-108">حدد **الكل**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-108">Select **All**.</span></span>
+3.  <span data-ttu-id="83a7a-109">في عمود **الوحدة النمطية**، أدخل **التخطيط الرئيسي** في حقل **عامل التصفية**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-109">In the **Module** column, enter **Master planning** in the **Filter** field.</span></span> 
+4.  <span data-ttu-id="83a7a-110">ضع المؤشر على بند **الاتفاقيات التجارية للشراء من أجل تحسين التخطيط**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-110">Place your cursor on the line for **Purchase trade agreements for Planning Optimization**.</span></span> 
+5.  <span data-ttu-id="83a7a-111">في الجزء الأيسر، حدد **تمكين الآن**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-111">In the right pane, select **Enable now**.</span></span>
+6.  <span data-ttu-id="83a7a-112">أغلق الصفحة.</span><span class="sxs-lookup"><span data-stu-id="83a7a-112">Close the page.</span></span>
+
+## <a name="prepare-supply-chain-management-to-evaluate-purchase-trade-agreements-during-master-planning"></a><span data-ttu-id="83a7a-113">إعداد Supply Chain Management لتقييم اتفاقيات الشراء التجارية أثناء التخطيط الرئيسي</span><span class="sxs-lookup"><span data-stu-id="83a7a-113">Prepare Supply Chain Management to evaluate purchase trade agreements during master planning</span></span>
+
+<span data-ttu-id="83a7a-114">لإعداد Supply Chain Management لتقييم اتفاقيات الشراء التجارية أثناء التخطيط الرئيسي، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="83a7a-114">To prepare Supply Chain Management to evaluate purchase trade agreements during master planning, follow these steps:</span></span>
+
+1.  <span data-ttu-id="83a7a-115">انتقل إلى **التخطيط الرئيسي > الإعداد > معلمات التخطيط الرئيسي**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-115">Go to **Master planning > Setup > Master planning parameters**.</span></span> 
+2.  <span data-ttu-id="83a7a-116">ضمن علامة التبويب **الأوامر المخططة**، في مجموعة **المورد**، قم بتعيين القيم التالية:</span><span class="sxs-lookup"><span data-stu-id="83a7a-116">On the **Planned orders** tab, in the **Vendor** group, set the following values:</span></span>
+    - <span data-ttu-id="83a7a-117">**البحث عن الاتفاقية التجارية** - قم بتعيين هذا الخيار على **نعم** لتضمين الاتفاقيات التجارية للشراء في التخطيط الرئيسي.</span><span class="sxs-lookup"><span data-stu-id="83a7a-117">**Find trade agreement** – Set this option to **Yes** to include purchase trade agreements in master planning.</span></span>
+    - <span data-ttu-id="83a7a-118">**معيار البحث** – حدد **أقل سعر للوحدة**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-118">**Search criterion** – Select **Lowest unit price**.</span></span> 
+3.  <span data-ttu-id="83a7a-119">انتقل إلى **التدبير وتحديد الموارد > الإعداد > الأسعار والخصومات > تنشيط السعر/الخصم**، ثم تأكد من تعيين الخيار **المورد** إلى **نعم**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-119">Go to **Procurement and sourcing > Setup > Prices and discounts > Activate price/discount**, and then make sure that the **Vendor** option is set to **Yes**.</span></span>
+
+## <a name="prepare-a-released-product-to-evaluate-purchase-trade-agreements-during-master-planning"></a><span data-ttu-id="83a7a-120">إعداد منتج صادر لتقييم اتفاقيات الشراء التجارية أثناء التخطيط الرئيسي</span><span class="sxs-lookup"><span data-stu-id="83a7a-120">Prepare a released product to evaluate purchase trade agreements during master planning</span></span>
+
+<span data-ttu-id="83a7a-121">لإعداد منتج صادر لتقييم اتفاقيات الشراء التجارية أثناء التخطيط الرئيسي، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="83a7a-121">To prepare a released product to evaluate purchase trade agreements during master planning, follow these steps:</span></span>
+
+1.  <span data-ttu-id="83a7a-122">انتقل إلى **إدارة معلومات المنتجات > المنتجات > المنتجات الصادرة**، ثم افتح رقم المنتج **D0001**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-122">Go to **Product information management > Products > Released products**, and then open product number **D0001**.</span></span>
+2.  <span data-ttu-id="83a7a-123">في علامة التبويب السريعة **الشراء**، تأكد من عدم تعيين أي مورد في حقل **المورد**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-123">On the **Purchase** FastTab, make sure that no vendor is assigned in the **Vendor** field.</span></span>
+3.  <span data-ttu-id="83a7a-124">في جزء الإجراءات، ضمن علامة التبويب **الخطة**، في المجموعة **تغطية**، حدد **تغطيه الصنف** لفتح الصفحة **تغطية الصنف** الخاصة بالمنتج المحدد.</span><span class="sxs-lookup"><span data-stu-id="83a7a-124">On the Action Pane, on the **Plan** tab, in the **Coverage** group, select **Item coverage** to open the **Item coverage** page for the selected product.</span></span> 
+4.  <span data-ttu-id="83a7a-125">تحقق من صحة الإعدادات التالية:</span><span class="sxs-lookup"><span data-stu-id="83a7a-125">Verify the following settings:</span></span>
+    - <span data-ttu-id="83a7a-126">في علامة التبويب **عام**، قم بإلغاء تحديد خيار **استخدام إعدادات محددة** لجعل تحسين التخطيط يستخدم الاتفاقيات التجارية للشراء لتحديد مورد.</span><span class="sxs-lookup"><span data-stu-id="83a7a-126">On the **General** tab, clear the option for **Use Specific Settings** to have Planning Optimization use purchase trade agreements to select a vendor.</span></span> 
+    - <span data-ttu-id="83a7a-127">في علامة التبويب **مدة العميل المحتمل**، قم بإلغاء تحديد كافة خانات اختيار **الشراء** و **الإنتاج** و **التحويل**، والتي تتيح امكانيه التخطيط لتحسين الاتفاقيات التجارية الخاصة بالشراء لتحديد أوقات وصول البضاعة.</span><span class="sxs-lookup"><span data-stu-id="83a7a-127">On the **Lead time** tab, clear all check boxes for **Purchase**, **Production**, and **Transfer**, which will allow Planning Optimization to use purchase trade agreements to select lead times.</span></span> 
+5.  <span data-ttu-id="83a7a-128">قم بإغلاق صفحة **تغطية الصنف** للرجوع إلى صفحة **التفاصيل** الخاصة بالمنتج المحدد.</span><span class="sxs-lookup"><span data-stu-id="83a7a-128">Close the **Item coverage** page to return to the **Details** page for the selected product.</span></span>
+6.  <span data-ttu-id="83a7a-129">في جزء الإجراءات، ضمن علامة التبويب **الخطة**، في المجموعة **التنبؤ**، حدد **التنبؤ بالتوريد** لفتح صفحة **التنبؤ بالتوريد**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-129">On the Action Pane, on the **Plan** tab, in the **Forecast** group, select **Supply forecast** to open the **Supply forecast** page.</span></span> <span data-ttu-id="83a7a-130">تأكد من أن أي من الصفوف المعروضة لها قيمة في عمود **حساب المورد**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-130">Make sure that none of the rows that are shown have a value in the **Vendor account** column.</span></span>
+7.  <span data-ttu-id="83a7a-131">قم بإغلاق صفحة **التنبؤ بالتوريد** للرجوع إلى صفحة **التفاصيل** الخاصة بالمنتج المحدد.</span><span class="sxs-lookup"><span data-stu-id="83a7a-131">Close the **Supply forecast** page to return to the **Details** page for the selected product.</span></span>
+8.  <span data-ttu-id="83a7a-132">في جزء الإجراءات، ضمن علامة التبويب **شراء**، في المجموعة **اتفاقيات تجارية**، حدد **عرض الاتفاقيات التجارية**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-132">On the Action Pane, on the **Purchase** tab, in the **Trade agreements** group, select **View trade agreements**.</span></span> <span data-ttu-id="83a7a-133">قد لا تشاهد اتفاقيات تجارية مدرجة.</span><span class="sxs-lookup"><span data-stu-id="83a7a-133">You might not see trade agreements listed.</span></span> 
+9.  <span data-ttu-id="83a7a-134">في الجزء السفلي، لاحظ أنه قد تم تعيين الخيار **تجاهل الحد الأدنى لوقت الإنتاج** على **لا** لأنه يجب تعيينه لتحسين التخطيط لاستخدام الحد الأدنى لوقت الإنتاج في الاتفاقية.</span><span class="sxs-lookup"><span data-stu-id="83a7a-134">In the bottom pane, note that the **Disregard lead time** option is set to **No** because this must be set for Planning Optimization to use the lead time in the agreement.</span></span> 
+10. <span data-ttu-id="83a7a-135">أغلق الصفحة.</span><span class="sxs-lookup"><span data-stu-id="83a7a-135">Close the page.</span></span>
+11. <span data-ttu-id="83a7a-136">في جزء الإجراءات، ضمن علامة التبويب **الخطة**، في المجموعة **إعدادات الأمر**، حدد **إعدادات الأمر الافتراضية** لفتح الصفحة **إعدادات الأمر الافتراضي** الخاصة بالمنتج.</span><span class="sxs-lookup"><span data-stu-id="83a7a-136">On the Action Pane, on the **Plan** tab, in the **Order settings** group, select **Default order settings** to open the **Default order settings** page for the product.</span></span> 
+12. <span data-ttu-id="83a7a-137">في علامة التبويب السريعة **أمر الشراء**، قم بعرض قيمة الحقل **الحد الأدنى لوقت إنتاج المشتريات**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-137">On the **Purchase order** FastTab, view the value of the **Purchase lead time** field.</span></span> <span data-ttu-id="83a7a-138">إذا لم يتم تحديد تجاوز وقت الإنتاج لتغطية الصنف، سيقوم تحسين التخطيط باستخدام هذه القيمة عند تحديد الاتفاقيات التجارية التي يتم فيها تعيين خيار **تجاهل الحد الأدنى لوقت الإنتاج** إلى **نعم**.</span><span class="sxs-lookup"><span data-stu-id="83a7a-138">If no item coverage lead-time override is defined, Planning Optimization will use this value when it selects trade agreements where the **Disregard lead time** option is set to **Yes**.</span></span> 
+
+

@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-implementation-project
+metadata:
+  title: بدء مشروع تنفيذ Finance and Operations
+  description: ستساعدك دورة حياة تنفيذ Finance and Operations على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ Finance and Operations، والأدوات المتاحة لدعمها.
+  ms.date: 07/27/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 6c985ab7d515d79eefaf27ea0f4202aad6793012
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072229"
+title: بدء مشروع تنفيذ Finance and Operations
+summary: "[!include[](../includes/module-banner.md)] \nستساعدك دورة حياة تنفيذ Finance and Operations على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ Finance and Operations، والأدوار المضمنة والأدوات المتاحة لدعمها.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n  - تعرف على رحلة التنفيذ لمشروع Finance and Operations ناجح.  \n  - تحديد المراحل المختلفة لتنفيذ Finance and Operations.  \n"
+prerequisites: "- المعرفة الأساسية بتطبيقات Finance and Operations. \n"
+iconUrl: /learn/achievements/get-started-finance-operations-implementation-project.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.get-started-implementation-project.01-implementation-overview
+- learn-dynamics.get-started-implementation-project.01-2-roles
+- learn-dynamics.get-started-implementation-project.02-project-phases
+- learn-dynamics.get-started-implementation-project.02-2-planning-architecture
+- learn-dynamics.get-started-implementation-project.02-3-combine-tool-solutions
+- learn-dynamics.get-started-implementation-project.03-check
+- learn-dynamics.get-started-implementation-project.04-summary
+badge:
+  uid: learn-dynamics.get-started-finance-operations-implementation-project.badge

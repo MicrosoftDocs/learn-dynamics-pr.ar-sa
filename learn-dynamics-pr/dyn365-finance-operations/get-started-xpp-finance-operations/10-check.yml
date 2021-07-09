@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-xpp-dynamics-365-finance-operations.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 28f355107ae966fb1dd397e8b2a836ce9504196d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071860"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: تحتاج إلى إنشاء نوع بيانات لمتغير وتعيينه. وتجب إتاحة وصول المتغير فقط إلى قائمة محددة من القيم "المخزون" و"البيع" و"الشراء". فما نوع البيانات الذي ينبغي استخدامه؟
+    choices:
+    - content: يجب استخدام نوع بيانات السلسلة.
+      isCorrect: false
+      explanation: لا يقوم نوع بيانات السلسلة بتقييد المتغير إلى قائمة محددة.
+    - content: يجب استخدام نوع بيانات التعداد.
+      isCorrect: true
+      explanation: يتيح لك نوع التعداد استخدام قائمة محددة من القيم.
+    - content: يجب استخدام نوع بيانات العدد الصحيح.
+      isCorrect: false
+      explanation: لا يسمح نوع بيانات العدد الصحيح بأحرف السلسلة.
+    - content: يجب استخدام نوع البيانات المركبة للحاوية.
+      isCorrect: false
+      explanation: تسمح لك الحاوية بالاحتفاظ بقيم متعددة من أنواع البيانات المختلفة. ولا تقيدك بقائمة محددة.
+  - content: تحتاج إلى عبارة شرطية تتحقق مما إذا كان المتغير يساوي "قيد التقدم" أو "مكتمل" أو "مُلغى". يجب تشغيل كود مختلف، اعتماداً على ما يساويه المتغير. يجب تشغيل كتلة كود افتراضية إذا كان المتغير لا يساوي أياً من القيم. ما العبارة الشرطية الأكثر ملائمة؟
+    choices:
+    - content: معالجة الأخطاء
+      isCorrect: false
+      explanation: معالجة الأخطاء ليست عبارة شرطية.
+    - content: التشغيل الثلاثي
+      isCorrect: false
+      explanation: يتحقق التشغيل الثلاثي فقط من صحة القيمة أو التعبير. وبناءً على النتائج، يتخذ التشغيل إجراءات مختلفة.
+    - content: عبارة If
+      isCorrect: false
+      explanation: لا تسمح عبارة If بالعديد من فروع الكود استناداً إلى القيمة. تتحقق عبارات If ما إذا كان التعبير صحيحاً أو خطأ، ثم تقوم بتشغيل الكود أو لا تقوم بتشغيله.
+    - content: عبارة Switch
+      isCorrect: true
+      explanation: تتيح لك عبارة Switch إمكانية استخدام الحالات. فإذا تطابقت الحالة مع قيمة تعبير Switch، فيمكنك تشغيل كتلة كود معينة. كما يمكن استخدام الحالة الافتراضية في حالة عدم تطابق أي حالات أخرى.
+  - content: يتم أحياناً طرح خطأ في كتلة try…catch معينة. وأنت تعلم أن المشكلة يمكن إصلاحها داخل الكود أثناء كتلة كود معالجة الأخطاء. فما العبارة التي يمكنك استخدامها عند العثور على الخطأ لتشغيل الكود مرة أخرى؟
+    choices:
+    - content: يجب استخدام عبارة throw في عبارة catch لإعادة تشغيل كتلة try.
+      isCorrect: false
+      explanation: لا تقوم عبارة throw بإعادة تشغيل كتلة try عند العثور على خطأ.
+    - content: يجب استخدام عبارة finally في عبارة catch لإعادة تشغيل كتلة try.
+      isCorrect: false
+      explanation: تقوم عبارة finally بتشغيل الكود بغض النظر عن كيفية إنهاء كتلة try. لا تحاول إعادة تشغيل كتلة try.
+    - content: يمكن استخدام عبارة retry في عبارة catch لإعادة تشغيل كتلة try.
+      isCorrect: true
+      explanation: ستقوم عبارة retry بإعادة تشغيل كتلة try لمنح الكود فرصة أخرى للنجاح.
+    - content: يجب استخدام وظيفة نظام الأعمال في عبارة catch لإعادة تشغيل كتلة try.
+      isCorrect: false
+      explanation: يتم استخدام وظيفة نظام الأعمال لحساب البيانات المالية أو إدخالها. ولا تُستخدم لمعالجة الأخطاء.

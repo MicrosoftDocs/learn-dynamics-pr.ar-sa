@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.13-design-plan-implementation-in-f-and-o-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تصميم وتخطيط تنفيذ وحدة تطبيقات Finance and Operations
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2b713512c38650c2bfa342329c6b8a89d93bbb04
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071395"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/13-design-plan-implementation-in-f-and-o-summary.md)]

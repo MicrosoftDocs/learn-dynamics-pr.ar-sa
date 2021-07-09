@@ -1,0 +1,60 @@
+---
+ms.openlocfilehash: ab7280fb46e5b738b504ba6362021bddd0077b66
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072462"
+---
+<span data-ttu-id="24250-101">عندما تقوم بإنشاء حالات دورة حياة طلب الصيانة اللازمة، يمكنك تجميعها معاً لإنشاء نموذج دورة حياة طلب الصيانة.</span><span class="sxs-lookup"><span data-stu-id="24250-101">When you've created the necessary maintenance request lifecycle states, you can group them together to create a maintenance request lifecycle model.</span></span> <span data-ttu-id="24250-102">يحدد نموذج دورة الحياة العملية أو التدفق لطلب الصيانة.</span><span class="sxs-lookup"><span data-stu-id="24250-102">The lifecycle model determines the process or flow for a maintenance request.</span></span> <span data-ttu-id="24250-103">يمكنك إنشاء أكبر عدد من نماذج دورة الحياة المختلفة التي تحتاج إليها، على سبيل المثال، قد يكون لتدفق العطل/الإصلاح سير عمل مختلف عن طلب أمر التغيير.</span><span class="sxs-lookup"><span data-stu-id="24250-103">You can create as many different lifecycle models as you need, for example, a break-fix flow might have a different workflow than a change order request.</span></span> 
+
+> [!Important]
+> <span data-ttu-id="24250-104">يتعين عليك إنشاء نموذج دورة حياة طلب صيانة واحد على الأقل لاستخدام طلبات الصيانة.</span><span class="sxs-lookup"><span data-stu-id="24250-104">You must create at least one maintenance request lifecycle model to use maintenance requests.</span></span> 
+
+<span data-ttu-id="24250-105">لإنشاء نموذج دورة حياة طلب الصيانة، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="24250-105">To create a maintenance request lifecycle model, follow these steps:</span></span>
+
+1.  <span data-ttu-id="24250-106">انتقل إلى **إدارة الأصول > الإعداد > طلبات الصيانة > نماذج دورة الحياة**.</span><span class="sxs-lookup"><span data-stu-id="24250-106">Go to **Asset Management > Setup > Maintenance requests > Lifecycle models**.</span></span>
+2.  <span data-ttu-id="24250-107">حدد **جديد** لإنشاء نموذج جديد لدورة حياة طلب الصيانة.</span><span class="sxs-lookup"><span data-stu-id="24250-107">Select **New** to create a new maintenance request lifecycle model.</span></span>
+3.  <span data-ttu-id="24250-108">في الحقل **نموذج دورة الحياة**، أدخل معرفاً لنموذج دورة الحياة مثل **قياسي**.</span><span class="sxs-lookup"><span data-stu-id="24250-108">In the **Lifecycle model** field, enter an ID for the lifecycle model such as **Standard**.</span></span>
+4.  <span data-ttu-id="24250-109">في الحقل **الاسم**، أدخل اسماً وصفياً مثل **نموذج طلب قياسي**.</span><span class="sxs-lookup"><span data-stu-id="24250-109">In the **Name** field, enter a descriptive name such as **Standard request model**.</span></span> 
+    
+    <span data-ttu-id="24250-110">في علامة التبويب السريعة **التفاصيل**، تعرض حالات دورة الحياة تلقائياً عدد حالات دورة الحياة المحددة في نموذج دورة الحياة هذا.</span><span class="sxs-lookup"><span data-stu-id="24250-110">On the **Details** FastTab, the Lifecycle states automatically shows the number of lifecycle states that are selected in this lifecycle model.</span></span> 
+    > [!NOTE]
+    > <span data-ttu-id="24250-111">عند تكوين نماذج دورة حياة طلب صيانة جديدة بشكل أولي، سيكون هذا الحقل فارغاً حتى يتم تحديد حالات دورة الحياة وحفظها في علامة التبويب السريعة حالات دورة الحياة.</span><span class="sxs-lookup"><span data-stu-id="24250-111">When you are initially configuring new Maintenance request lifecycle models, this field will be blank until lifecycle states have been selected and saved in the Lifecycle states FastTab.</span></span> 
+    
+    <span data-ttu-id="24250-112">يعرض الحقل **أنواع طلبات الصيانة** عدد أنواع طلبات الصيانة التي تستخدم نموذج دورة الحياة هذا.</span><span class="sxs-lookup"><span data-stu-id="24250-112">The **Maintenance request types** field shows the number of maintenance request types that use this lifecycle model.</span></span>
+    
+    > [!NOTE]
+    > <span data-ttu-id="24250-113">عندما تقوم بتكوين نماذج دورة حياة طلب صيانة جديدة بشكل أولي، سيكون هذا الحقل فارغاً حتى يتم ربط نموذج دورة حياة طلب الصيانة هذا بأنواع طلبات الصيانة.</span><span class="sxs-lookup"><span data-stu-id="24250-113">When you are initially configuring new Maintenance request lifecycle models, this field will be blank until this Maintenance request lifecycle model has been associated with Maintenance request types.</span></span>
+5.  <span data-ttu-id="24250-114">**احفظ** السجل.</span><span class="sxs-lookup"><span data-stu-id="24250-114">**Save** the record.</span></span>
+6.  <span data-ttu-id="24250-115">ضمن علامة التبويب السريعة **حالات دورة الحياة**، تظهر حالات دورة الحياة النشطة في قسم **حالات دورة الحياة المتبقية** ناحية اليسار.</span><span class="sxs-lookup"><span data-stu-id="24250-115">Under the **Lifecycle states** FastTab, the active lifecycle states appear in the **Lifecycle states remaining** section at the left.</span></span> <span data-ttu-id="24250-116">هذه هي الحالات التي يمكن تضمينها في مجموعة نماذج دورة حياة طلب الصيانة الجديدة.</span><span class="sxs-lookup"><span data-stu-id="24250-116">These are the states that can be included in the new maintenance request lifecycle model group.</span></span>
+7.  <span data-ttu-id="24250-117">لنقل حالة دورة حياة معيّنة إلى قسم **حالات دورة الحياة المحددة**، حدد الحالة المراد نقلها في قسم حالات دورة الحياة المتبقية، ثم حدد زر سهم إلى اليمين.</span><span class="sxs-lookup"><span data-stu-id="24250-117">To move a specific lifecycle state to the **Lifecycle states selected** section, select the state in the Lifecycle states remaining section to be moved and then select the right arrow button.</span></span> 
+8.  <span data-ttu-id="24250-118">لتحديد جميع حالات دورة الحياة لتضمينها في النموذج، حدد زر سهم نقل الكل إلى اليمين لنقل التحديد بالكامل من قسم **حالات دورة الحياة المتبقية** إلى قسم **حالات دورة الحياة المحددة**.</span><span class="sxs-lookup"><span data-stu-id="24250-118">To select all of the lifecycle states to be included in the model, select the right move all arrow button to move the entire selection from the **Lifecycle states remaining** section over to the **Lifecycle states selected** section.</span></span>
+9.  <span data-ttu-id="24250-119">لإزالة حالة دورة حياة محددة من النموذج، حدد حالة دورة الحياة المراد إزالتها من القسم **حالات دورة الحياة المحددة**، ثم حدد زر السهم الأيسر لنقلها مرة أخرى إلى القسم **حالات دورة الحياة المتبقية**.</span><span class="sxs-lookup"><span data-stu-id="24250-119">To remove a specific lifecycle state from the model, select the lifecycle state to be removed from the **Lifecycle states selected** section and then select the left arrow button to move it back to the **Lifecycle states remaining** section.</span></span>
+10. <span data-ttu-id="24250-120">لإزالة التحديد بالكامل من النموذج، حدد زر سهم نقل الكل إلى اليسار.</span><span class="sxs-lookup"><span data-stu-id="24250-120">To remove the entire selection from the model, select the left move all arrow button.</span></span> <span data-ttu-id="24250-121">وبعد ذلك يتمّ إرجاع جميع حالات دورة الحياة في قسم **حالات دورة الحياة المحددة** إلى قسم **حالات دورة الحياة المتبقية**.</span><span class="sxs-lookup"><span data-stu-id="24250-121">All the lifecycle states in the **Lifecycle states selected** section are then moved back to the **Lifecycle states remaining** section.</span></span>
+11. <span data-ttu-id="24250-122">حدد **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="24250-122">Select **Save**.</span></span>
+
+    <span data-ttu-id="24250-123">**إدارة الأصول > الإعداد > طلبات الصيانة > نماذج دورة الحياة**.</span><span class="sxs-lookup"><span data-stu-id="24250-123">**Asset Management > Setup > Maintenance requests > Lifecycle models**</span></span>
+
+    <span data-ttu-id="24250-124">[![لقطة شاشة لصفحة تحديثات حالة دورة الحياة مع تمييز التفاصيل.](../media/maintenance-request-lifecycle-models-ssm.png)](../media/maintenance-request-lifecycle-models-ssm.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="24250-124">[![Screenshot of the Lifecycle state updates page with details highlighted.](../media/maintenance-request-lifecycle-models-ssm.png)](../media/maintenance-request-lifecycle-models-ssm.png#lightbox)</span></span>
+ 
+> [!NOTE]
+> <span data-ttu-id="24250-125">يمكنك تغيير ترتيب قسم **حالات دورة الحياة المحددة** من خلال تحديد الحالة واستخدام السهمين لأعلى ولأسفل على يمين القسم لنقل الحالة.</span><span class="sxs-lookup"><span data-stu-id="24250-125">You can change the order of your **Lifecycle states selected** section by selecting the state and using the up and down arrows at the right of the section to move the state.</span></span>
+
+## <a name="lifecycle-state-updates"></a><span data-ttu-id="24250-126">تحديثات حالة دورة الحياة</span><span class="sxs-lookup"><span data-stu-id="24250-126">Lifecycle state updates</span></span>
+<span data-ttu-id="24250-127">عند إنشاء نموذج دورة حياة طلب الصيانة، يتعين عليك تحديد كيفية سير الحالات في النظام.</span><span class="sxs-lookup"><span data-stu-id="24250-127">When the maintenance request lifecycle model is created, you must define how the states can flow in the system.</span></span> <span data-ttu-id="24250-128">يتم تحديد هذا التعريف من خلال سير إجراءات العمل بالشركة وتصميمها.</span><span class="sxs-lookup"><span data-stu-id="24250-128">This definition is determined by your company’s process flow and design.</span></span> <span data-ttu-id="24250-129">يحدد هذا الإجراء خطوة بخطوة التحديثات المسموح بها لحالات دورة الحياة التي أنشأتها.</span><span class="sxs-lookup"><span data-stu-id="24250-129">This step-by-step procedure defines the allowed updates for the lifecycle states that you have created.</span></span> 
+
+1.  <span data-ttu-id="24250-130">في الصفحة **نماذج دورة الحياة لطلب الصيانة**، حدد **تحديثات حالة دورة الحياة** في جزء الإجراء.</span><span class="sxs-lookup"><span data-stu-id="24250-130">While in the **Maintenance request lifecycle models** page, select **Lifecycle state updates** in the Action Pane.</span></span> 
+2.  <span data-ttu-id="24250-131">بجوار كل حالة دورة حياة، حدد الحالة التي يمكن تغيير الحالة إليها.</span><span class="sxs-lookup"><span data-stu-id="24250-131">Next to each lifecycle state, select the status that the state can be changed to.</span></span> 
+    <span data-ttu-id="24250-132">[![صفحة التحديثات المسموح بها من جانب الإعداد لحالات دورة حياة طلب الصيانة.](../media/updates-allowed-maintenance-lifecycle-states-ssm.png)](../media/updates-allowed-maintenance-lifecycle-states-ssm.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="24250-132">[![Setup allowed updates for Maintenance request lifecycle states page.](../media/updates-allowed-maintenance-lifecycle-states-ssm.png)](../media/updates-allowed-maintenance-lifecycle-states-ssm.png#lightbox)</span></span>
+ 
+    <span data-ttu-id="24250-133">على سبيل المثال:</span><span class="sxs-lookup"><span data-stu-id="24250-133">For example:</span></span> 
+    - <span data-ttu-id="24250-134">يمكن تغيير **جديد** إلى **نشط**.</span><span class="sxs-lookup"><span data-stu-id="24250-134">**New** can be changed to **Active**.</span></span> 
+    - <span data-ttu-id="24250-135">يمكن تغيير **نشط** إلى **انتهى**.</span><span class="sxs-lookup"><span data-stu-id="24250-135">**Active** can be changed to **Ended**.</span></span> 
+    - <span data-ttu-id="24250-136">يمكن تغيير **منتهي** إلى **نشط**.</span><span class="sxs-lookup"><span data-stu-id="24250-136">**Ended** can be changed to **Active**.</span></span>
+
+3.  <span data-ttu-id="24250-137">حدد **موافق** لحفظ التحديثات.</span><span class="sxs-lookup"><span data-stu-id="24250-137">Select **OK** to save your updates.</span></span>
+
+<span data-ttu-id="24250-138">شاهد الفيديو التالي لمعرفة المزيد حول إنشاء نماذج دورة حياة طلب الصيانة.</span><span class="sxs-lookup"><span data-stu-id="24250-138">Watch the following video to learn more about creating maintenance request lifecycle models.</span></span> 
+
+ > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4oErv]

@@ -1,0 +1,14 @@
+---
+ms.openlocfilehash: 33bdb39a390cee5902398fd29f2b0d4809d2d580
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071222"
+---
+<span data-ttu-id="ef7e4-101">تُعد البرمجة الموجهة للعناصر (OOP) نموذج برمجة تم تصميمه حول الكائنات وكيفية التعامل معها.</span><span class="sxs-lookup"><span data-stu-id="ef7e4-101">Object-oriented programming (OOP) is a programming paradigm that is modeled around objects and how you manipulate them.</span></span> <span data-ttu-id="ef7e4-102">يمكن أن تكون الكائنات أشياء مادية، مثل سيارة أو دراجة، أو مفاهيم أكثر تجريداً، مثل الرسائل والمجموعات والمعلمات.</span><span class="sxs-lookup"><span data-stu-id="ef7e4-102">Objects can be physical objects, such as a car or a bicycle, or more abstract concepts, such as messages, collections, and parameters.</span></span> <span data-ttu-id="ef7e4-103">الكائنات لها سمات (بيانات) وسلوك (أساليب).</span><span class="sxs-lookup"><span data-stu-id="ef7e4-103">Objects have attributes (data) and behavior (methods).</span></span>
+
+<span data-ttu-id="ef7e4-104">عند التطوير باستخدام لغة موجهة للكائنات، ستحتاج أولاً إلى تحديد الكائنات التي يجب معالجتها وكيفية ارتباطها ببعضها البعض.</span><span class="sxs-lookup"><span data-stu-id="ef7e4-104">When developing with an object-oriented language, you will first need to define the objects to manipulate and how they relate to each other.</span></span> <span data-ttu-id="ef7e4-105">تم تطوير تطبيقات Finance and Operations باستخدام لغة X++ الموجهة للكائنات، والتي توفر فئات نظام لمجموعة واسعة من مجالات برمجة النظام.</span><span class="sxs-lookup"><span data-stu-id="ef7e4-105">Finance and Operations apps are developed by using the object-oriented language X++, which provides system classes for a broad range of system programming areas.</span></span> <span data-ttu-id="ef7e4-106">ستناقش هذه الوحدة مفاهيم البرمجة الموجهة للكائنات حتى تتمكن من تطوير التخصيصات في Finance and Operations.</span><span class="sxs-lookup"><span data-stu-id="ef7e4-106">This module will discuss concepts for object-oriented programming so you can develop customizations in Finance and Operations.</span></span> 
+
+<span data-ttu-id="ef7e4-107">في هذه الوحدة، سوف تتعلم المفاهيم الأساسية للبرمجة الموجهة للكائنات كمطور تطبيقات Finance and Operations، وX++ هي لغة البرمجة المستخدمة في التطوير وهي لغة موجهة للكائنات.</span><span class="sxs-lookup"><span data-stu-id="ef7e4-107">In this module, you will learn the basic concepts of object-oriented-programming because as a Finance and Operations apps developer, X++ is the programming language used for development and it is an object-oriented language.</span></span>
+  

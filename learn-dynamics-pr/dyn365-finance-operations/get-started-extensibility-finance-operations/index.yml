@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-extensibility-finance-operations
+metadata:
+  title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات Finance and Operations
+  description: نظراً لكون تطبيقات Finance and Operations حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.
+  ms.date: 03/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1650c3de1b1a9c76bc572cc4a6407419f3528fc0
+  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6072550"
+title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)] \nنظراً لكون تطبيقات Finance and Operations حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- إطار عمل القابلية للتوسع وكيف تعمل الملحقات.\n- الطرق المختلفة لتخصيص التطبيق.\n- طرق مختلفة لتنفيذ ملحق التعليمات البرمجية.\n- كيفية إرسال طلب قابلية التوسعة.\n"
+prerequisites: >
+  - معرفه Dynamics AX 2012
+
+  - المعرفة بتطبيقات Finance and Operations
+
+  - معرفة تقنيات التطوير
+
+  - خبرة بالترميز في لغة X++
+iconUrl: /learn/achievements/get-started-extensibility-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+- functional-consultant
+products:
+- dynamics-finance-operations
+- dynamics-scm
+- dynamics-finance
+units:
+- learn-dynamics.get-started-extensibility-finance-operations.1-introduction
+- learn-dynamics.get-started-extensibility-finance-operations.2-how-extensions-work
+- learn-dynamics.get-started-extensibility-finance-operations.3-work-with-elements
+- learn-dynamics.get-started-extensibility-finance-operations.4-augment-source-code
+- learn-dynamics.get-started-extensibility-finance-operations.5-guidelines-requests
+- learn-dynamics.get-started-extensibility-finance-operations.6-check
+- learn-dynamics.get-started-extensibility-finance-operations.7-summary
+badge:
+  uid: learn-dynamics.get-started-extensibility-finance-operations.badge

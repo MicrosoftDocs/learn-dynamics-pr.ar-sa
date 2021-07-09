@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 07/04/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2fbaed54af0e1ef77724b55334481316b4183cff
+  ms.sourcegitcommit: b9be1fa219842266c6aecd648ba283550b2f271f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/21/2020
+  ms.locfileid: "6072023"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ان إنشاء التمديدات هو الأسلوب المستخدم لتنفيذ التخصيصات في تطبيقات Finance and Operations. أي مما يلي يعد فائدة من استخدام التمديدات بدلاً من التراكب؟
+    choices:
+    - content: يستغرق إنشاء التمديدات وقتاً أقل.
+      isCorrect: false
+      explanation: يمكن أن يستغرق إنشاء التمديدات وقتاً أطول من عناصر التراكب.
+    - content: يتم تقليل أوقات الإنشاء بالتمديدات.
+      isCorrect: true
+      explanation: يتم تقليل أوقات الإنشاء والتجميع البرمجي بالتمديدات لأنه ليس من الضروري تحويل النموذج الذي يتم تمديده.
+    - content: يتم نشر التحديثات بشكل أقل تكراراً باستخدام التمديدات.
+      isCorrect: false
+      explanation: تنشر Microsoft التحديثات بشكل متكرر وسريع أكثر عند استخدام التمديدات.
+    - content: تزيد تكلفة الحفاظ على التمديدات عن التراكب.
+      isCorrect: false
+      explanation: في كثير من الحالات لا يكلف الحفاظ على التمديدات أي شيء لأنه من غير المحتمل أن تتسبب التحديثات في وقوع أي مشكلات.
+  - content: أي من العبارات التالية صحيح فيما يتعلق بتمديد التعدادات في Visual Studio؟
+    choices:
+    - content: يمكن تمديد التعدادات، حيث يتم تعيين الخاصية IsExtensible إلى True.
+      isCorrect: true
+      explanation: يجب تعيين الخاصية IsExtensible للتعداد إلى True لتتمكن من إنشاء تمديد.
+    - content: يمكن تمديد أي تعداد في Visual Studio.
+      isCorrect: false
+      explanation: لا يمكن تمديد كل تعداد في Visual Studio. يجب تعيين الخاصية IsExtensible إلى True ويجب عليك الإشارة إلى النموذج الذي يحتوي على التعداد.
+    - content: يمكن تمديد التعدادات الموجودة في نموذج مجموعة التطبيق فقط.
+      isCorrect: false
+      explanation: يمكن تمديد التعدادات الموجودة في النماذج الأخرى إذا تم تعيين الخاصية IsExtensible إلى True وأنت تقوم بالإشارة إلى النموذج الذي يحتوي على التعداد.
+    - content: يمكن تمديد التعدادات، حيث يتم تعيين الخاصية IsExtensible إلى False.
+      isCorrect: false
+      explanation: يجب تعيين الخاصية IsExtensible للتعداد إلى True وليس False لتتمكن من إنشاء ذلك التعداد.
+  - content: تريد إنشاء امتداد من عنصر في AOT. ما الذي يجب عليك التحقق منه لإنشاء هذا الامتداد؟
+    choices:
+    - content: تأكد من تعيين قاعدة بيانات المزامنة في خاصية الإنشاء على True.
+      isCorrect: false
+      explanation: في حين أنه من من الأفضل القيام بذلك، إلا أنه ليس من الضروري مزامنة قاعدة البيانات في البناء لإنشاء التمديدات.
+    - content: تحقق من أنك تشير إلى النموذج الذي يضم العنصر الذي تريد تمديده.
+      isCorrect: true
+      explanation: لإنشاء امتداد لعنصر، يجب عليك التحقق من أنك تشير إلى النموذج الذي يوجد فيه العنصر.
+    - content: تحقق من تعيين AOT إلى طريقة عرض النموذج بدلاً من طريقة العرض الكلاسيكية.
+      isCorrect: false
+      explanation: يعد تعيين شجرة AOT إلى طريقة عرض النموذج أو طريقة العرض الكلاسيكية بمثابه تفضيلات شخصية. فلن يؤثر هذا علىقدرتك على إنشاء امتداد.

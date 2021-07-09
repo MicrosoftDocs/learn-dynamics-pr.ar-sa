@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-package-api-dynamics-365-finance-operations.2-api
+title: استيراد واجهات برمجة التطبيقات (API) وتصديرها
+metadata:
+  title: استيراد واجهات برمجة التطبيقات (API) وتصديرها
+  description: تعرف على كيفية استيراد واجهات برمجة التطبيقات (API) وتصديرها في تطبيقات Finance and Operations.
+  ms.date: 07/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e5a28ccbc12184a69bee9438b9094841ec10d2f7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071397"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-api.md)]

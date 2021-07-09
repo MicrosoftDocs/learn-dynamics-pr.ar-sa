@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-product-version-engineering-change-management
+metadata:
+  title: إدارة معلومات إصدار المنتج في Dynamics 365 Supply Chain Management
+  description: تعرف على كيفية إدارة معلومات إصدار المنتج في Dynamics 365 Supply Chain Management
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1b08f6121e0dab850a9416b8b8d255b1a25f43bf
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6074772"
+title: إدارة معلومات إصدار المنتج في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  توفر الوظيفة الإضافية لإدارة التغيير الهندسي في Dynamics 365 Supply Chain Management عملية منظمة لإدارة معلومات إصدار المنتج أثناء دورة حياة المنتج الهندسي.
+prerequisites: "- المعرفة العامة بكيفية التنقل في Dynamics 365 Supply Chain Management.\n- معرفة عمليات Supply Chain Management. \n"
+iconUrl: /learn/achievements/manage-product-version-engineering-change-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-engineering-change-management
+- learn-dynamics.manage-discrete-bom-route-versioned-products-scm
+- learn-dynamics.request-changes-products-engineering-change-management-scm
+trophy:
+  uid: learn-dynamics.manage-product-version-engineering-change-management.trophy

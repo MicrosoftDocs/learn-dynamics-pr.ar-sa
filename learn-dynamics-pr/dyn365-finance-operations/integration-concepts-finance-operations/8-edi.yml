@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.8-edi
+title: تنزيل حلول تبادل المستندات الإلكترونية
+metadata:
+  title: تنزيل حلول تبادل المستندات الإلكترونية
+  description: تعرف على كيفية تنزيل حلول تبادل المستندات الإلكترونية (EDI) في تطبيقات Finance and Operations.
+  ms.date: 07/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: de975fd377aeaefc4086d2a80b0a19d6def6d700
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071590"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-edi.md)]

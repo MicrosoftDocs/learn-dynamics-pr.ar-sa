@@ -1,0 +1,79 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-asset-management.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 12/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9444b28fcdd618dd5abccab5c868def6403b33a8
+  ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/15/2020
+  ms.locfileid: "6072113"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما العبارة الصحيحة فيما يتعلق بمواقع العمل؟
+    choices:
+    - content: يمكن تغيير هيكل مواقع العمل استناداً إلى الموقع الفعلي.
+      isCorrect: false
+      explanation: تُعد مواقع العمل ثابتة، ولا يمكنك تغيير المكان الذي توجد فيه.
+    - content: تكاليف الأصول ثابتة ولا تتغير أبداً.
+      isCorrect: false
+      explanation: ترتبط تكاليف الأصول دائماً بموقع العمل الذي يتم تثبيت الأصل فيه حالياً. إذا قمت بتثبيت أصل في موقع جديد، فسيستخدم الأصل تلقائياً الأبعاد المالية المرتبطة بموقع العمل الجديد.
+    - content: تُستخدم مواقع العمل لإدارة الأصول في المواقع.
+      isCorrect: true
+      explanation: تُستخدم مواقع العمل لإدارة الأصول في المواقع وتتضمن تعقب تكاليف الأصول المرتبطة بموقع العمل الذي تم تثبيت الأصل فيه.
+  - content: يمكن تثبيت الأصول في مواقع العمل. ما العبارة الصحيحة فيما يتعلق بالأصول ومواقع العمل؟
+    choices:
+    - content: يمكن تثبيت الأصول في مواقع العمل، كما يمكن تثبيتها في مواقع العمل الأخرى لاحقاً، حسب الحاجة.
+      isCorrect: true
+      explanation: هذه العبارة صحيحة.
+    - content: الأبعاد المالية المستخدمة لتكاليف الأصول مرتبطة بالأصل، وليس موقع العمل.
+      isCorrect: false
+      explanation: تكاليف الأصول تتبع دائماً موقع الأصل. إذا تم تثبيت الأصل في موقع عمل جديد، فإنه يكتسب البعد المالي لموقع العمل هذا.
+    - content: يمكن إنشاء الأصول في هيكل هرمي فقط.
+      isCorrect: false
+      explanation: يمكن إنشاء الأصول في هيكل هرمي، ويمكن أن ترتبط أيضاً بمواقع العمل.
+  - content: أي من الخيارات الآتية يحتوي على نماذج لأنواع أوامر العمل؟
+    choices:
+    - content: نشط أو منتهي أو ليس قيد الاستخدام
+      isCorrect: false
+      explanation: ستكون الخيارات "نشط" أو "منتهي" أو "ليس قيد الاستخدام" حالات مواقع العمل أو دورة حياة الأصول.
+    - content: الصيانة الوقائية أو الصيانة التصحيحية أو الفحص
+      isCorrect: true
+      explanation: تتضمن أنواع أوامر العمل الصيانة الوقائية أو الصيانة التصحيحية أو الفحص.
+    - content: تلقائية أو يدوية
+      isCorrect: false
+      explanation: تُعد الطريقة التلقائية أو اليدوية الطريقتين التي يمكن من خلالهما إنشاء أوامر العمل.
+  - content: أي من العمليات الآتية سيتعين عليك إكمالها إذا قام مسؤول النظام بنشر مساحة عمل جديدة؟
+    choices:
+    - content: إزالة تثبيت التطبيق وإعادة تثبيته على جهازك المحمول
+      isCorrect: false
+      explanation: لا يلزم إزالة تثبيت التطبيق وإعادة تثبيته على جهازك المحمول.
+    - content: إزالة تثبيت التطبيق وإيقاف تشغيل الجهاز، ثم إعادة تثبيت التطبيق
+      isCorrect: false
+      explanation: لا يلزم إزالة تثبيت التطبيق وإيقاف تشغيل جهازك المحمول، ثم إعادة تثبيت التطبيق.
+    - content: تحديث قائمة مساحات العمل المحمولة
+      isCorrect: true
+      explanation: سيُطلب منك تحديث قائمة مساحات العمل المحمولة على جهازك المحمول.
+  - content: أي التطبيقات الآتية يُستخدم للاستفادة من إخطارات أحداث الأعمال؟
+    choices:
+    - content: Microsoft Dataverse
+      isCorrect: false
+      explanation: يُستخدم Microsoft Dataverse لدمج خدمة Field service و"إدارة الأصول"، وليس أحداث الأعمال.
+    - content: Power Automate
+      isCorrect: true
+      explanation: تستخدم أحداث الأعمال Power Automate.
+    - content: FMTDataHelper
+      isCorrect: false
+      explanation: يُستخدم FMTDataHelper في البرنامج التعليمي Visual studio.
+    - content: قالب دمج البيانات
+      isCorrect: false
+      explanation: يُستخدم "قالب دمج البيانات" لدمج خدمة Field service وإدارة الأصول، وليس أحداث الأعمال.

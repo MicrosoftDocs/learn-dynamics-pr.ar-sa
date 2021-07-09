@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/01/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 82ec840a4211209c0a75cbbcb1d7dd6fbc3c7b74
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071389"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي مما يأتي ليس ضمن وظائف مسجل المهام؟
+    choices:
+    - content: إنشاء إرشادات مهام للعملية يمكن للمستخدمين اتباعها.
+      isCorrect: false
+      explanation: يمكن لمسجل المهام إنشاء إرشادات المهام.
+    - content: إنشاء اختبارات الوحدة في Visual Studio.
+      isCorrect: false
+      explanation: يمكن لمسجل المهام إنشاء اختبارات الوحدة.
+    - content: التشغيل بشكل دوري لإكمال مهمة تلقائياً.
+      isCorrect: true
+      explanation: لا يقوم مسجل المهام بإكمال المهام تلقائياً.
+    - content: إنشاء تشغيل خاضع للسيطرة يقيد المستخدمين بالقدرة فقط على تحديد العناصر داخل تسجيل المهام.
+      isCorrect: false
+      explanation: يمكن تشغيل مسجل المهام تحت السيطرة.
+  - content: وتقوم بتشغيل مصحح الأخطاء. تأتي نقطة التوقف إلى بند مضمونه custTable.insert(). كيف يمكنك التحول إلى أسلوب "الإدراج"؟
+    choices:
+    - content: حدد الزر "دخول".
+      isCorrect: true
+      explanation: سينتقل الزر "دخول" إلى الأسلوب "إدراج" لمتابعة تصحيح الأخطاء.
+    - content: حدد الزر "تخطي".
+      isCorrect: false
+      explanation: سينتقل الزر "تخطي" إلى البند التالي ولا يدخل في الأسلوب "إدراج".
+    - content: حدد الزر "خروج".
+      isCorrect: false
+      explanation: سيقوم الزر "خروج" بتشغيل الكود حتى تكتمل الوظيفة ولا ينتقل إلى الأسلوب "إدراج".

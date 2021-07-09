@@ -1,0 +1,21 @@
+---
+ms.openlocfilehash: 92f923010e293868adfb4ea7886c68b0e507955f
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071469"
+---
+<span data-ttu-id="90132-101">لاختبار حل العميل وتقييمه قبل العرض المباشر، يجب أن تكون لديك بيئة من تطبيقات Finance and Operations، مع جميع التكوينات والتخصيصات المحتملة من خلال الملحقات.</span><span class="sxs-lookup"><span data-stu-id="90132-101">To test and evaluate the customer solution prior to go-live, you need to have an environment of Finance and Operations apps, with all the configurations and possible customizations through extensions.</span></span>
+
+<span data-ttu-id="90132-102">ومن المفيد دائماً أن تكون لديك منهجية لضمان تنظيم الإنشاء والاختبار وتخطيطهما بشكل صحيح لسيناريوهات حالات اختبار قصيرة وفعالة وتركز على الأدوار.</span><span class="sxs-lookup"><span data-stu-id="90132-102">It is always beneficial to have a methodology to ensure that creation and testing is organized and planned properly for short, efficient, and role-focused test case scenarios.</span></span>
+
+<span data-ttu-id="90132-103">للتحقق من صحة الحل الذي ربما تم تخصيصه بواسطة الملحقات، أو عند تحديد المشكلات المحتملة في وظائف تطبيقات Finance and Operations التي نتجت عن تكوين خاطئ، عليك إنشاء حالات اختبار.</span><span class="sxs-lookup"><span data-stu-id="90132-103">To validate the solution that might have been customized by extensions, or when you are identifying possible issues with functionality of Finance and Operations apps that were caused by wrong configuration, you need to create test cases.</span></span> <span data-ttu-id="90132-104">ويمكن أن تساعدك حالات الاختبار، كمستشار وظيفي، وتساعد المستخدمين في الموافقة على مستندات قبول المستخدم.</span><span class="sxs-lookup"><span data-stu-id="90132-104">Test cases can help you, as a functional consultant, and users to approve the user acceptance documents.</span></span>
+
+<span data-ttu-id="90132-105">يمكنك استخدام مسجل المهام وأداة تكوين عمليات الأعمال (BPM) لإنشاء مكتبات اختبار قبول المستخدم.</span><span class="sxs-lookup"><span data-stu-id="90132-105">You can use the task recorder and business process modeler (BPM) to create user acceptance test libraries.</span></span> <span data-ttu-id="90132-106">يعد مسجل المهام أداة فعالة لتسجيل حالات الاختبار، ويمكنك تنظيمها حسب أداة تكوين عمليات الأعمال (BPM).</span><span class="sxs-lookup"><span data-stu-id="90132-106">The task recorder is a powerful tool to record test cases, and you can organize them by business processes by using BPM.</span></span>
+
+<span data-ttu-id="90132-107">يمكنك استخدام أداة تكوين عمليات الأعمال (BPM) لتوزيع مكتبات الاختبار للعملاء من خلال Lifecycle Services (LCS) وحلول LCS.</span><span class="sxs-lookup"><span data-stu-id="90132-107">You can use BPM to distribute test libraries to your customers through Lifecycle Services (LCS) and LCS solutions.</span></span> <span data-ttu-id="90132-108">يمكنك أيضاً استخدام أداة تكوين عمليات الأعمال (BPM) لكتابة مكتبات الاختبار وتوزيعها عبر مشاريع وفرق مختلفة.</span><span class="sxs-lookup"><span data-stu-id="90132-108">You can also use BPM to write and distribute test libraries across different projects and teams.</span></span>
+
+<span data-ttu-id="90132-109">نظراً لعدم إمكانية مزامنة أداة تكوين عمليات الأعمال (BPM) مع Azure DevOps المعروف سابقاً باسم Visual Studio Team Services، يتم إنشاء حالات الاختبار تلقائياً (بما في ذلك خطوات الاختبار) في مشروع Azure DevOps.</span><span class="sxs-lookup"><span data-stu-id="90132-109">Because BPM can be synchronized with Azure DevOps (formerly known as Visual Studio Team Services), test cases are automatically created (including test steps) in your Azure DevOps project.</span></span>
+
+<span data-ttu-id="90132-110">ومن الممكن أن يعمل Azure DevOps بعد ذلك كأداة لتكوين الاختبارات وإدارتها حيث يمكنك إنشاء خطط اختبار ومجموعات اختبار مستهدفة وإدارة تشغيل الاختبارات والتحقق من النتائج.</span><span class="sxs-lookup"><span data-stu-id="90132-110">Azure DevOps can then serve as your test configuration and test management tool where you can create targeted test plans and test suites, manage the running of tests, and investigate results.</span></span>

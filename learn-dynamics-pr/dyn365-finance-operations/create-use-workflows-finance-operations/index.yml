@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops
+metadata:
+  title: العمل مع مهام سير العمل في تطبيقات Finance and Operations
+  description: تتطلب بعض المؤسسات الموافقة على عمليات معينة من قبل مستخدم آخر غير الشخص الذي يقوم بإدخال السجل. قد تتطلب عمليات سير العمل هذه الموافقة اليدوية أو الموافقة على سير العمل أو عدم الموافقة.
+  ms.date: 03/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 85fe5d32927c9b780b380571368a60a3a4146c95
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072232"
+title: العمل مع مهام سير العمل في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتتطلب بعض المؤسسات الموافقة على عمليات معينة من قبل مستخدم آخر غير الشخص الذي يقوم بإدخال السجل. قد تتطلب عمليات سير العمل هذه الموافقة اليدوية أو الموافقة على سير العمل أو عدم الموافقة. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- استخدم بنية سير العمل والعناصر والإجراءات \n- إنشاء وإعداد مهام سير العمل \n- تكوين خصائص سير العمل\n- تكوين مهمة يدوية في سير عمل\n- تكوين مهمة تلقائية في سير العمل\n- تكوين عملية الموافقة في سير العمل\n- تعيين مستخدمين لعناصر سير العمل\n- تكوين خطوة الموافقة في سير العمل\n- استخدام وظائف أصناف العمل\n"
+prerequisites: >
+  - المعرفة العامة بـ Microsoft Windows
+
+  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+iconUrl: /learn/achievements/create-use-workflows-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.1-configure-workflows-introduction
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.2-workflow-types-business-processes
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.3-create-set-up-workflows
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.4-assign-users-workflow-elements
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.5-work-items-functionality
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.6-exercise-create-purchase-requisition-workflow
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.7-configure-workflows-quiz
+- learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.8-configure-workflows-summary
+badge:
+  uid: learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.badge

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.3-dev-deploy
+title: عمليات التطوير والتوزيع
+metadata:
+  title: عمليات التطوير والتوزيع
+  description: تعرف على عمليات التطوير والتوزيع في تطبيقات Finance and Operations.
+  ms.date: 06/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 57b45f38db0f9f649ddde0fba58b03a5894d191e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071689"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-dev-deploy.md)]

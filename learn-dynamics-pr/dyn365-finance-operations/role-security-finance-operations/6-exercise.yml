@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.role-security-dynamics-365-finance-operations.6-exercise
+title: المعمل - إنشاء دور أمان جديد وإضافة مهام
+labId: 62668
+metadata:
+  title: المعمل - إنشاء دور أمان جديد وإضافة مهام
+  description: التدرب على إنشاء دور أمان جديد وإضافة مهام في تطبيقات Finance and Operations.
+  ms.date: 05/01/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: aa7f5165f57ace67753ae16b3bbd2de46d534484
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071496"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/6-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

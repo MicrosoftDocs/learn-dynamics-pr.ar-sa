@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.7-power-bi-fo
+title: Power BI في Finance and Operations
+metadata:
+  title: Power BI في Finance and Operations
+  description: توضح هذه الوحدة Power BI في Finance and Operations.
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d66a9b912b38b69b199ab173ed69cd68b792c0d6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071941"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-power-bi-fo.md)]

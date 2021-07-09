@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.3-batch-processing-reports-and-setup-alerts
+title: معالجة الدُفعات للتقارير وإعداد التنبيهات
+metadata:
+  title: معالجة الدُفعات للتقارير وإعداد التنبيهات
+  description: توضح هذه الوحدة معالجة الدُفعات للتقارير وإعداد التنبيهات في تطبيقات Finance and Operations.
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c6d66e91b38dee50f06b15c98a2aa2bdf9c60356
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071352"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-batch-processing-reports-and-setup-alerts.md)]

@@ -1,0 +1,19 @@
+---
+ms.openlocfilehash: a6ce5c0ad08261bcd087289ceb1731e011f9c1eb
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072950"
+---
+<span data-ttu-id="18769-101">تسمح المشاريع الداخلية للشركات بتعقب التكلفة المرتبطة بالأنشطة التي لا يتم إصدار فواتير بها للعميل.</span><span class="sxs-lookup"><span data-stu-id="18769-101">Internal projects allow companies to track cost that is related to activities that aren't being billed to a customer.</span></span> <span data-ttu-id="18769-102">تتضمن أمثلة المشاريع الداخلية:</span><span class="sxs-lookup"><span data-stu-id="18769-102">Examples of internal projects include:</span></span>
+
+- <span data-ttu-id="18769-103">تطوير منتج، مثل تطبيق محمول، وتتبع التكلفة المرتبطة بالتطوير.</span><span class="sxs-lookup"><span data-stu-id="18769-103">Developing a product, such as a mobile app, and tracking the cost that is associated with the development.</span></span>
+- <span data-ttu-id="18769-104">إدارة المصروفات ووقت ما قبل البيع.</span><span class="sxs-lookup"><span data-stu-id="18769-104">Managing presale time and expense.</span></span> <span data-ttu-id="18769-105">يمكن تحويل هذا المشروع الداخلي ما قبل البيع لاحقاً إلى مشروع قابل للفوترة إذا تم الفوز بعرض الأسعار.</span><span class="sxs-lookup"><span data-stu-id="18769-105">This presale internal project can be converted later to a billable project if the quote is won.</span></span>
+
+<span data-ttu-id="18769-106">يتم التعامل مع أي مشروع غير مرتبط بعقد في Project Operations باعتباره داخلياً.</span><span class="sxs-lookup"><span data-stu-id="18769-106">Any project that is not associated with a contract in Project Operations is treated as internal.</span></span> <span data-ttu-id="18769-107">لا يتم استخدام ملفات تعريف تكلفة المشروع وإيراداته لتحديد قواعد المحاسبة للمشروع.</span><span class="sxs-lookup"><span data-stu-id="18769-107">Project cost and revenue profiles aren't used to determine accounting rules for the project.</span></span> <span data-ttu-id="18769-108">يتم دائماً ترحيل تكلفة المشروع الداخلية باستخدام مبادئ الأرباح والخسائر.</span><span class="sxs-lookup"><span data-stu-id="18769-108">Internal project cost is always posted by using profit and loss principles.</span></span> <span data-ttu-id="18769-109">يتم تحديد حسابات دفتر الأستاذ لعمليات الترحيل في صفحة **إعداد ترحيل دفتر الأستاذ**.</span><span class="sxs-lookup"><span data-stu-id="18769-109">Ledger accounts for postings are defined on the **Ledger posting setup** page.</span></span>
+
+- <span data-ttu-id="18769-110">يتم ترحيل الحركات الزمنية عن طريق خصم حساب **التكلفة** وإضافة ائتمان لحساب **تخصيص الرواتب**.</span><span class="sxs-lookup"><span data-stu-id="18769-110">Time transactions are posted by debiting the **Cost** account and crediting the **Payroll allocation** account.</span></span>
+- <span data-ttu-id="18769-111">يتم ترحيل حركات المصروفات عن طريق خصم حساب **التكلفة** وإضافة ائتمان إلى **الحساب المقابل للمصروفات**.</span><span class="sxs-lookup"><span data-stu-id="18769-111">Expense transactions are posted by debiting the **Cost** account and crediting the **Offset account for expense**.</span></span>
+
+<span data-ttu-id="18769-112">بعد ترحيل الحركات إلى المشروع، إذا كان المشروع مقترنا بعقد مشروع، سيقوم النظام بعكس كافة الحركات التراكمية وإنشاء حركات قابلة للفوترة جديدة.</span><span class="sxs-lookup"><span data-stu-id="18769-112">After transactions are posted to the project, if the project is associated with a project contract, the system reverses all accumulated transactions and creates new billable transactions.</span></span> <span data-ttu-id="18769-113">تتبع الحركات القابلة للفوترة قواعد المحاسبة المحددة في ملف تعريف الإيرادات وتكلفة المشروع.</span><span class="sxs-lookup"><span data-stu-id="18769-113">The billable transactions follow the accounting rules that are defined in project cost and revenue profile.</span></span>

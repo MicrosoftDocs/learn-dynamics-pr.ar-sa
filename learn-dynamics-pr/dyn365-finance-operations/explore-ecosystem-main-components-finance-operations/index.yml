@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations
+metadata:
+  title: استكشاف النظام البيئي والمكونات الرئيسية لتطبيقات Finance and Operations
+  description: يوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات Finance and Operations التي من المهم أن تعرفها قبل أن تبدء في التطوير.
+  ms.date: 06/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 653308680191e34f5712118f96329481589223ea
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072223"
+title: استكشاف النظام البيئي والمكونات الرئيسية لتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات Finance and Operations التي من المهم أن تعرفها قبل أن تبدء في التطوير. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف النظم البيئية لـ Dynamics 365.\n- تعرف على المكونات الرئيسية لتطبيقات Finance and Operations.\n- تعرف على خيارات النشر المحلية والسحابة.\n- استكشف عملية التطوير والنشر لتطبيقات Finance and Operations\n"
+prerequisites: بلا
+iconUrl: /learn/achievements/explore-ecosystem-main-components-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.1-apps
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.2-on-prem-cloud-based
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.3-dev-deploy
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.4-ui
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.5-reporting
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.6-check
+- learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.7-summary
+badge:
+  uid: learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.badge

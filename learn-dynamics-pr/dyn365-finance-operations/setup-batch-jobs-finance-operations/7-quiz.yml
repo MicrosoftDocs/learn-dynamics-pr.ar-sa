@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.7-setup-batch-jobs-in-f-and-o-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 8c3658b57e73751001a53f365035a5f9be8b72f3
+  ms.sourcegitcommit: f312f3c4dbb875448b80ac38abe605ce4cdd9244
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/25/2020
+  ms.locfileid: "6072083"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما الوظيفة التي تستخدمها لإنشاء نفس وظائف الدُفعة للكيانات القانونية المختلفة؟
+    choices:
+    - content: تكرار الوظيفة الدفعية
+      isCorrect: false
+      explanation: الوظيفة الدفعية هذه غير موجودة.
+    - content: نسخ الوظيفة الدفعية
+      isCorrect: true
+      explanation: عندما ترغب في إنشاء نفس الوظائف لكيانات قانونية مختلفة، يمكنك استخدام وظيفة نسخ الوظيفة الدفعية لنسخ وظيفة دفعية موجودة ومهام الدُفعات، بما في ذلك التكرارات.
+    - content: مهمة الدُفعة
+      isCorrect: false
+      explanation: مهمة الدُفعة هي نشاط يتم تشغيله بواسطة وظيفة دفعية.
+    - content: مجموعة الدُفعات
+      isCorrect: false
+      explanation: استخدم مجموعات الدفعات لتصنيف مهام الدفعات وتشغيلها على خوادم محددة.
+  - content: أي من الخيارات التالية في مربع حوار التنبيه ليس خياراً صالحاً للإبلاغ عن الرسائل وإرسالها لإحدى الوظائف؟
+    choices:
+    - content: تم الإنهاء
+      isCorrect: false
+      explanation: يعتبر تم الإنهاء خياراً صالحاً.
+    - content: إكمال
+      isCorrect: true
+      explanation: لا يعتبر مكتمل خياراً صالحاً.
+    - content: ‏‫تم الإلغاء‬
+      isCorrect: false
+      explanation: يعتبر مُلغى خياراً صالحاً.
+    - content: الخطأ
+      isCorrect: false
+      explanation: يعتبر خطأ خياراً صالحاً.
+  - content: أي من الخيارات التالية مهمة دفعات؟
+    choices:
+    - content: السماح للمسؤول بتحديد مثيل AOS الذي يقوم بتشغيل المهمة.
+      isCorrect: false
+      explanation: مجموعة الدُفعات هي التي تتيح للمسؤول تحديد مثيل AOS الذي يقوم بتشغيل المهمة.
+    - content: تتكون من مجموعات أو مهام دفعات متعددة.
+      isCorrect: false
+      explanation: تتكون الوظيفة الدفعية من مهمة دفعة واحدة أو أكثر.
+    - content: هو نشاط يتم تشغيله بواسطة وظيفة دفعات.
+      isCorrect: true
+      explanation: يمكنك إضافة مهام دفعات لها أنواع متعددة من التبعيات إلى وظيفة دفعية.

@@ -1,0 +1,50 @@
+---
+ms.openlocfilehash: bc77676e9effc817bcbaa43a7b63286fa3635533
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072434"
+---
+<span data-ttu-id="929da-101">يمكن أن يحتوي أي أمر عمل على أجزاء أو مستلزمات يجب شراؤها لإكمال العمل.</span><span class="sxs-lookup"><span data-stu-id="929da-101">Any work order can have parts or supplies that need to be purchased to complete the work.</span></span> <span data-ttu-id="929da-102">تتيح لك إدارة الأصول ربط أي طلب شراء أو أمر شراء من خلال المشروع.</span><span class="sxs-lookup"><span data-stu-id="929da-102">Asset Management allows you to link any purchase requisition or purchase order through the project.</span></span> 
+
+<span data-ttu-id="929da-103">على سبيل المثال، قد يكون لديك ضاغط هواء يحتاج إلى عامل تصفية هواء جديد لا يتوفر لديك حالياً لاستبداله.</span><span class="sxs-lookup"><span data-stu-id="929da-103">For example, you might have an air compressor that needs a new air filter that you do not currently have in stock to replace.</span></span> <span data-ttu-id="929da-104">يمكنك إنشاء طلب شراء لشراء عامل تصفية الهواء الذي تحتاجه لضاغط الهواء.</span><span class="sxs-lookup"><span data-stu-id="929da-104">You can create a purchase requisition to purchase the air filter that you need for the air compressor.</span></span> 
+
+<span data-ttu-id="929da-105">عند إنشاء طلب شراء في **‏‫التدبير والتوريد‬ > طلبات الشراء > جميع طلبات الشراء**، يمكنك إضافة معلومات المشروع في صفحة مربع الحوار **إنشاء طلب شراء**.</span><span class="sxs-lookup"><span data-stu-id="929da-105">When you create a purchase requisition in **Procurement and sourcing > Purchase requisitions > All purchase requisitions**, you can add the project information on the **Create purchase requisition** dialog page.</span></span> <span data-ttu-id="929da-106">لتحديد المشروع، حدد **الكيان القانوني للشراء** من القائمة المنسدلة ثم حدد المشروع الذي تم تعيين طلب الشراء له باستخدام القائمة المنسدلة **معرف المشروع**.</span><span class="sxs-lookup"><span data-stu-id="929da-106">To specify the project, select the **Buying legal entity** from the drop-down menu and then specify the project that the purchase requisition is for by using the **Project ID** drop-down menu.</span></span> <span data-ttu-id="929da-107">لمعرفة المزيد حول كيفية إنشاء طلبات الشراء والتعامل معها، انتقل إلى [إنشاء طلب شراء](https://docs.microsoft.com/learn/modules/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/6-requisition/?azure-portal=true).</span><span class="sxs-lookup"><span data-stu-id="929da-107">To learn more about how to create and work with purchase requisitions, go to [Create a purchase requisition](https://docs.microsoft.com/learn/modules/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/6-requisition/?azure-portal=true).</span></span> 
+
+![لقطة شاشة لصفحة إنشاء طلب شراء مع تمييز مشروع افتراضي محدد.](../media/create-purchase-requisition-ssm.png)
+ 
+<span data-ttu-id="929da-109">لعرض طلبات الشراء المتعلقة بأوامر العمل، يمكنك استخدام صفحة **طلب الشراء الخاص بأمر العمل**.</span><span class="sxs-lookup"><span data-stu-id="929da-109">To view purchase requisitions that are related to work orders, you can use the **Work order purchase requisition** page.</span></span> <span data-ttu-id="929da-110">عند الانتقال إلى **تقييم الأصول > عام > التدبير > طلب الشراء الخاص بأمر العمل**، يمكنك مشاهدة طلب تم إنشاؤه لمشروع.</span><span class="sxs-lookup"><span data-stu-id="929da-110">When you go to **Asset management > Common > Procurement > Work order purchase requisition**, you can see a requisition that was created for a project.</span></span> <span data-ttu-id="929da-111">يمكنك أيضاً معرفة مكان عرض أمر العمل أو الطلب المحدد.</span><span class="sxs-lookup"><span data-stu-id="929da-111">You can also see where to view the specific work order or requisition.</span></span> 
+
+<span data-ttu-id="929da-112">[![لقطة شاشة لصفحة طلب شراء أمر العمل.](../media/work-order-purchase-requisition-ssm.png)](../media/work-order-purchase-requisition-ssm.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="929da-112">[![Screenshot of the Work order purchase requisition page.](../media/work-order-purchase-requisition-ssm.png)](../media/work-order-purchase-requisition-ssm.png#lightbox)</span></span>
+  
+<span data-ttu-id="929da-113">ويُعد عرض أوامر الشراء هو نفس عملية عرض طلبات الشراء.</span><span class="sxs-lookup"><span data-stu-id="929da-113">Viewing purchase orders is the same process as viewing purchase requisitions.</span></span> 
+
+<span data-ttu-id="929da-114">**الحسابات الدائنة > أوامر الشراء > جميع أوامر الشراء**</span><span class="sxs-lookup"><span data-stu-id="929da-114">**Accounts payable > Purchase orders > All purchase orders**</span></span>
+
+![لقطة شاشة لتفاصيل إنشاء أمر شراء مع تمييز المراجع.](../media/create-purchase-order-ssm.png)
+ 
+<span data-ttu-id="929da-116">يمكنك أيضاً عرض أمر الشراء من صفحة **شراء أمر العمل** من خلال الانتقال إلى **تقييم الأصول > عام > التدبير > شراء أمر العمل**.</span><span class="sxs-lookup"><span data-stu-id="929da-116">You can also see the purchase order from the **Work order purchase** page by going to **Asset Management > Common > Procurement > Work order purchase**.</span></span>
+ 
+<span data-ttu-id="929da-117">[![لقطة شاشة لصفحة شراء أمر العمل.](../media/work-order-purchase-ssm.png)](../media/work-order-purchase-ssm.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="929da-117">[![Screenshot of the Work order purchase page.](../media/work-order-purchase-ssm.png)](../media/work-order-purchase-ssm.png#lightbox)</span></span>
+
+<span data-ttu-id="929da-118">وفي كلتا الحالتين، ستظهر هذه المستندات أيضاً في صفحة **تفاصيل المشروع** في إدارة المشاريع والمحاسبة.</span><span class="sxs-lookup"><span data-stu-id="929da-118">In both cases, these documents will also appear on the **Project details** page in Project management and accounting.</span></span> 
+
+## <a name="create-a-purchase-order-from-a-work-order"></a><span data-ttu-id="929da-119">إنشاء أمر شراء من أمر عمل</span><span class="sxs-lookup"><span data-stu-id="929da-119">Create a purchase order from a work order</span></span>
+<span data-ttu-id="929da-120">السيناريو: يحتاج أحد ضواغط الهواء لديك إلى عامل تصفية هواء جديد، ولكن ليس لديك حالياً أي عوامل تصفية في المخزون.</span><span class="sxs-lookup"><span data-stu-id="929da-120">Scenario: one of your air compressors needs a new air filter, but you currently don’t have any filters in stock.</span></span> <span data-ttu-id="929da-121">من صفحة **جميع أوامر العمل** ومهمة أمر العمل، يمكنك إنشاء أمر شراء أو طلب شراء ذي صلة.</span><span class="sxs-lookup"><span data-stu-id="929da-121">From the **All work orders** page and work order job, you can create a related purchase order or purchase requisition.</span></span> 
+
+1.  <span data-ttu-id="929da-122">انتقل إلى **إدارة الأصول > عام > أوامر العمل > جميع أوامر العمل** أو **أوامر العمل النشطة**، حدد أمر العمل حيث تريد إضافة أمر شراء، ثم حدد **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="929da-122">Go to **Asset management > Common > Work orders > All work orders** or **Active work orders**, select the work order where you need to add a purchase order, and then select **Edit**.</span></span>
+2.  <span data-ttu-id="929da-123">في علامة التبويب السريعة **مهام صيانة أوامر العمل**، حدد مهمة أمر العمل التي تحتاج إليها لإنشاء أمر الشراء.</span><span class="sxs-lookup"><span data-stu-id="929da-123">On the **Work order maintenance jobs** FastTab, select the work order job where you need to create the purchase order.</span></span>
+3.  <span data-ttu-id="929da-124">من القائمة المنسدلة **مهام العناصر**، حدد **أمر الشراء** من مهمة أمر العمل.</span><span class="sxs-lookup"><span data-stu-id="929da-124">From the **Item tasks** drop-down menu, select **Purchase order** from work order job.</span></span>
+4.  <span data-ttu-id="929da-125">في صفحة **أوامر شراء المشروع**، حدد **جديد** لإنشاء أمر الشراء.</span><span class="sxs-lookup"><span data-stu-id="929da-125">On the **Project purchase orders** page, select **New** to create the purchase order.</span></span>
+
+<span data-ttu-id="929da-126">يوضح الفيديو التالي كيفية إنشاء أمر شراء من أمر عمل.</span><span class="sxs-lookup"><span data-stu-id="929da-126">The following video shows how to create a purchase order from a work order.</span></span>
+
+ > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4pC6F]
+
+## <a name="project-relation-between-work-order-and-purchase-order-or-purchase-requisition"></a><span data-ttu-id="929da-127">علاقة المشروع بين أمر العمل وأمر الشراء أو طلب الشراء</span><span class="sxs-lookup"><span data-stu-id="929da-127">Project relation between work order and purchase order or purchase requisition</span></span>
+<span data-ttu-id="929da-128">يمكن إقران مشروع بأمر عمل، وعند حدوث ذلك، يتم إنشاء رقم نشاط تلقائياً كلما تمت إضافة مهمة صيانة، كما هو موضح في لقطة الشاشة التالية.</span><span class="sxs-lookup"><span data-stu-id="929da-128">A project can be associated with a work order and, when that happens, an activity number is automatically created whenever a maintenance job is added, as shown in the following screenshot.</span></span>
+ 
+<span data-ttu-id="929da-129">[![لقطة شاشة لصفحة أمر العمل مع تمييز رقم النشاط.](../media/work-order-activity-ssm.png)](../media/work-order-activity-ssm.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="929da-129">[![Screenshot of the Work order page with activity number highlighted.](../media/work-order-activity-ssm.png)](../media/work-order-activity-ssm.png#lightbox)</span></span>
+
+<span data-ttu-id="929da-130">عند إنشاء أمر شراء، يتم تحديث النشاط تلقائياً ويعمل كعلاقة بين أمر الشراء وأمر العمل.</span><span class="sxs-lookup"><span data-stu-id="929da-130">When you create a purchase order, the activity is automatically updated and serves as the relation between the purchase order and the work order.</span></span>

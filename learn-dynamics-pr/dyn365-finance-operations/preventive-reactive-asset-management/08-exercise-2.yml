@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.preventive-reactive-asset-management.08-exercise-2
+title: تمرين - تحديث جدول الصيانة
+metadata:
+  title: تمرين - تحديث جدول الصيانة
+  description: يوضح لك هذا التمرين كيفية تحديث جدول الصيانة
+  ms.date: 02/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b8a1939a25312b4b090b8525e0376e8671273524
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071509"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-exercise-2.md)]"

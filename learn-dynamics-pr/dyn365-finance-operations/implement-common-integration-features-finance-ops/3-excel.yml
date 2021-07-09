@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.3-excel-workbook-designer
+title: مصمم مصنفات Excel
+metadata:
+  title: مصمم مصنفات Excel
+  description: توضح هذه الوحدة مصمم مصنفات Excel في Finance and Operations.
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5f5cd211e7db2461594c86aa656ff3ff49a87606
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071970"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-excel-workbook-designer.md)]

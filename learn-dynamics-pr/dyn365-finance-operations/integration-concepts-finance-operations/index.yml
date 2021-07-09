@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations
+metadata:
+  title: تنفيذ مفاهيم وحلول تكامل البيانات لتطبيقات Finance and Operations
+  description: قم بالاتصال ببيانات تطبيقات Finance and Operations باستخدام كيانات البيانات، حيث يتم الوصول إلى البيانات خارج التطبيق وباستخدام نقاط النهاية والتطبيقات الخارجية المختلفة.
+  ms.date: 12/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3b7046a6a710b218f589f521ede006723104de00
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072196"
+title: تنفيذ مفاهيم وحلول تكامل البيانات لتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nقم بالاتصال ببيانات تطبيقات Finance and Operations باستخدام كيانات البيانات، حيث يتم الوصول إلى البيانات خارج التطبيق وباستخدام نقاط النهاية والتطبيقات الخارجية المختلفة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء كيان بيانات.\n- تمكين قدرات إدارة البيانات.\n- كشف نقاط نهاية ‏‫بروتوكول البيانات المفتوحة (OData)‬ بكيانات البيانات.\n- تحديد نقاط نهاية الخدمة المخصصة.\n- اكتشاف خدمات الويب الخارجية المتوفرة للاستخدام.\n- استهلاك خدمات ويب خارجية.\n- قم بالاتصال ببياناتك باستخدام الوظيفة الإضافية لـ Microsoft Excel.\n- اتصل ببياناتك باستخدام Microsoft Power Apps.\n"
+prerequisites: >
+  - معرفة متوسطة بتطبيقات Finance and Operations
+
+  - معرفة متوسطة بالبرمجة الموجهة للعناصر
+
+  - تجربة استخدام Visual Studio
+iconUrl: /learn/achievements/integration-concepts-dynamics-365-finance-operations.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.2-entity
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.3-custom-service
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.4-odata-endpoints
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.5-external-web
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.6-excel
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.7-powerapps
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.8-edi
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.9-verify
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.10-debug-json
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.11-check
+- learn-dynamics.integration-concepts-dynamics-365-finance-operations.12-summary
+badge:
+  uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.badge

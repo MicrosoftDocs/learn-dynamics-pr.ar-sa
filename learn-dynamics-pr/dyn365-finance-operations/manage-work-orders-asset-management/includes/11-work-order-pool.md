@@ -1,0 +1,59 @@
+---
+ms.openlocfilehash: 7e823725340c70e20d4c62a125cb588fa84477f3
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072381"
+---
+<span data-ttu-id="411d2-101">يتم استخدام أوعية أوامر العمل لتجميع أوامر العمل معاً لأسباب مختلفة للأعمال.</span><span class="sxs-lookup"><span data-stu-id="411d2-101">Work order pools are used to group work orders together for various business reasons.</span></span> <span data-ttu-id="411d2-102">تتضمن أنواع أوامر العمل التي يمكن تجميعها معاً:</span><span class="sxs-lookup"><span data-stu-id="411d2-102">Types of work orders that can be pooled together include:</span></span>
+
+- <span data-ttu-id="411d2-103">معدات تقنية معينة تتطلب تجهيزات معتمدة</span><span class="sxs-lookup"><span data-stu-id="411d2-103">Specific technical equipment that requires certified mechanics</span></span>
+- <span data-ttu-id="411d2-104">المواقع الفعلية</span><span class="sxs-lookup"><span data-stu-id="411d2-104">Physical locations</span></span>
+- <span data-ttu-id="411d2-105">أطقم العمل، على سبيل المثال، العاملون في الوردية الليلية</span><span class="sxs-lookup"><span data-stu-id="411d2-105">Work crews, for example, night shift workers</span></span>
+
+## <a name="create-a-work-order-pool"></a><span data-ttu-id="411d2-106">إنشاء مجموعة أوامر عمل</span><span class="sxs-lookup"><span data-stu-id="411d2-106">Create a work order pool</span></span>
+<span data-ttu-id="411d2-107">اتبع الخطوات التالية لإنشاء مجموعة أوامر العمل:</span><span class="sxs-lookup"><span data-stu-id="411d2-107">Follow these steps to create a work order pool:</span></span>
+
+1.  <span data-ttu-id="411d2-108">انتقل إلى **أداره الأصول > شائع > أوعية أوامر العمل > كافة أوعية أوامر العمل** أو **أوعية أوامر العمل النشطة**، وحدد **جديد**.</span><span class="sxs-lookup"><span data-stu-id="411d2-108">Go to **Asset management > Common > Work order pools > All work order pools** or **Active work order pools**, and select **New**.</span></span>
+2.  <span data-ttu-id="411d2-109">في الحقل **الوعاء**، أدخل معرفاً لوعاء أوامر العمل هذا.</span><span class="sxs-lookup"><span data-stu-id="411d2-109">In the **Pool** field, enter an ID for this work order pool.</span></span>
+3.  <span data-ttu-id="411d2-110">في حقل **الاسم**، أدخل اسماً مثل **وردية ليلية**.</span><span class="sxs-lookup"><span data-stu-id="411d2-110">In the **Name** field, enter a name such as **Night Shift**.</span></span>
+4.  <span data-ttu-id="411d2-111">قم بتعيين الخيار **النشط** إلى **نعم** إذا أردت جعل وعاء أوامر العمل هذا نشطاً.</span><span class="sxs-lookup"><span data-stu-id="411d2-111">Set the **Active** option to **Yes** if you want to make this work order pool active.</span></span>
+5.  <span data-ttu-id="411d2-112">قم بتعيين الخيار **حذف علاقات أمر العمل** إلى **نعم** إذا كنت ترغب في إزالة أوامر العمل تلقائياً من وعاء أوامر العمل بعد الانتهاء منها.</span><span class="sxs-lookup"><span data-stu-id="411d2-112">Set the **Delete work order relations** option to **Yes** if you want work orders to be automatically removed from the work order pool after they are done.</span></span> 
+6.  <span data-ttu-id="411d2-113">في الحقل **حذف حالة دورة الحياة**، حدد حالة دورة الحياة لأمر العمل النهائي.</span><span class="sxs-lookup"><span data-stu-id="411d2-113">In the **Delete lifecycle state** field, select the final work order lifecycle state.</span></span> <span data-ttu-id="411d2-114">على سبيل المثال، عند اكتمال أمر عمل، يمكن تعيين حالة دورة الحياة تلقائياً إلى حذف العلاقات لأوعية أوامر العمل.</span><span class="sxs-lookup"><span data-stu-id="411d2-114">For example, when a work order is complete, you can have the lifecycle state automatically set to delete relations to work order pools.</span></span>
+7.  <span data-ttu-id="411d2-115">في علامة التبويب السريعة **أوامر العمل**، حدد **إضافة بند** لإضافة أوامر العمل.</span><span class="sxs-lookup"><span data-stu-id="411d2-115">In the **Work orders** FastTab, select **Add line** to add work orders.</span></span>
+8.  <span data-ttu-id="411d2-116">في الحقل **أمر العمل**، حدد أمر العمل.</span><span class="sxs-lookup"><span data-stu-id="411d2-116">In the **Work order** field, select a work order.</span></span> <span data-ttu-id="411d2-117">يتم تحديث الحقول المرتبطة تلقائيا.</span><span class="sxs-lookup"><span data-stu-id="411d2-117">The related fields are automatically updated.</span></span>
+
+<span data-ttu-id="411d2-118">وهناك ميزه أخرى **لوعاء أوامر العمل** هي العمود **ترتيب الفرز**، حيث يمكنك تحديد أولوية أوامر العمل، كما هو موضح في الصورة التالية.</span><span class="sxs-lookup"><span data-stu-id="411d2-118">Another feature of a **Work order pool** is the **Sort order** column, where you can prioritize the work orders, as shown in the following image.</span></span>
+
+![لقطه شاشة لعمود فرز أوامر العمل.](../media/work-order-pool-ssm.png)
+ 
+<span data-ttu-id="411d2-120">في القائمة **وعاء أوامر العمل**، في القسم **عرض وعاء أوامر العمل المرتبطة**، يمكنك تحديد **القدرة الإنتاجية** لفتح مربع الحوار  **حساب القدرة الإنتاجية** لتحديد المعلمات.</span><span class="sxs-lookup"><span data-stu-id="411d2-120">On the **Work order pool** menu, in the **View work order pool related** section, you can select **Capacity load** to open the **Calculate capacity load** dialog box to select the parameters.</span></span> <span data-ttu-id="411d2-121">ووفقاً للتحديدات التي قمت بها، يمكنك عرض القدرة الإنتاجية الخاصة بجدول الصيانة وأوامر العمل غير المجدولة وأوامر العمل المجدولة.</span><span class="sxs-lookup"><span data-stu-id="411d2-121">Based on your selections, you can view the capacity load for the maintenance schedule, unscheduled work orders, and scheduled work orders.</span></span> <span data-ttu-id="411d2-122">تعرض لقطة الشاشة التالية نطاق تاريخ أوامر العمل وإجمالي الساعات المحسوبة.</span><span class="sxs-lookup"><span data-stu-id="411d2-122">The following screenshot shows the date range of work orders and the total hours calculated.</span></span> 
+
+![لقطة شاشة لعرض القدرة الإنتاجية بالساعات المميزة.](../media/capacity-load-ssm.png)
+ 
+<span data-ttu-id="411d2-124">مثل القدرة الإنتاجية، يمكنك تحديد **التنبؤ بالأصناف** لفتح مربع الحوار **حساب التنبؤ بالأصناف**.</span><span class="sxs-lookup"><span data-stu-id="411d2-124">Like capacity load, you can select **Item forecast** to open the **Calculate item forecast** dialog box.</span></span> <span data-ttu-id="411d2-125">في مربع الحوار هذا، يمكنك إجراء التحديدات اللازمة لحساب التنبؤات وعرضها للأصناف (الأجزاء الاحتياطية والأصناف المطلوبة الأخرى) المرتبطة بجدول الصيانة وأوامر العمل غير المجدولة وأوامر العمل المجدولة.</span><span class="sxs-lookup"><span data-stu-id="411d2-125">In this dialog box, you can make your selections to calculate and view forecasts for items (spare parts and other required items) that are related to the maintenance schedule, unscheduled work orders, and scheduled work orders.</span></span> 
+
+<span data-ttu-id="411d2-126">لعرض قائمة طلبات الشراء المرتبطة بأوامر العمل في وعاء أوامر العمل، في جزء الإجراء، في علامة التبويب **وعاء أوامر العمل**، في القسم **التدبير**، حدد **طلب شراء أمر العمل** لفتح الصفحة **طلب الشراء الخاص بأمر العمل**.</span><span class="sxs-lookup"><span data-stu-id="411d2-126">To view a list of purchase requisitions that are related to the work orders in the work order pool, on the Action Pane, on the **Work order pool** tab, in the **Procurement** section, select **Work order purchase requisition** to open the **Work order purchase requisition** page.</span></span>
+
+<span data-ttu-id="411d2-127">لعرض قائمة طلبات الشراء المرتبطة بأوامر العمل في وعاء أوامر العمل، في جزء الإجراء، في علامة التبويب **وعاء أوامر العمل**، في القسم **التدبير**، حدد **طلب شراء أمر العمل** لفتح الصفحة **طلب الشراء الخاص بأمر العمل**.</span><span class="sxs-lookup"><span data-stu-id="411d2-127">To view a list of purchase orders that are related to the work orders in the work order pool, on the Action Pane, on the **Work order pool** tab, in the **Procurement** section, select **Work order purchase** to open the **Work order purchase** page.</span></span>
+
+<span data-ttu-id="411d2-128">لحذف كافة بنود أمر العامل، قم بتعيين الزر **حذف علاقات أمر العمل** إلى **نعم**.</span><span class="sxs-lookup"><span data-stu-id="411d2-128">To delete all worker order lines, set the **Delete work order relations** button to **Yes**.</span></span> <span data-ttu-id="411d2-129">ويعد هذا الخيار مفيداً إذا كنت ترغب في إنشاء وعاء فارغ يمكنك استخدامه لاحقا لأوامر العمل الأخرى، على سبيل المثال.</span><span class="sxs-lookup"><span data-stu-id="411d2-129">This option is useful if, for example, you want to create an empty pool that you can use later for other work orders.</span></span> <span data-ttu-id="411d2-130">عندما تكون مستعداً لاستخدام وعاء أمر العمل لإنشاء علاقات أمر عمل جديدة لاحقاً، تذكر تعيين الزر **حذف علاقات أمر العمل** إلى **لا**.</span><span class="sxs-lookup"><span data-stu-id="411d2-130">When you're ready to use the work order pool to create new work order relations later, remember to set the **Delete work order relations** button to **No**.</span></span>
+
+<span data-ttu-id="411d2-131">تعرض اللقطة التالية مثالاً لصفحة **وعاء أوامر العمل**.</span><span class="sxs-lookup"><span data-stu-id="411d2-131">The following screenshot shows an example of the **Work order pool** page.</span></span>
+
+<span data-ttu-id="411d2-132">**إدارة الأصول > شائع > أوعية أوامر العمل > كافة أوعية أوامر العمل**</span><span class="sxs-lookup"><span data-stu-id="411d2-132">**Asset management > Common > Work order pools > All work order pools**</span></span>
+
+![لقطة شاشة لتفاصيل صفحة وعاء أوامر العمل.](../media/work-order-pool-page-ssm.png)
+
+## <a name="add-a-work-order-to-a-work-order-pool"></a><span data-ttu-id="411d2-134">إضافة أمر عمل إلى وعاء أوامر عمل</span><span class="sxs-lookup"><span data-stu-id="411d2-134">Add a work order to a work order pool</span></span>
+<span data-ttu-id="411d2-135">يمكنك أيضاً إضافة أمر عمل إلى وعاء أوامر عمل من الصفحة **كافة أوامر العمل**.</span><span class="sxs-lookup"><span data-stu-id="411d2-135">You can also add a work order to a work order pool from the **All work orders** page.</span></span>
+
+1.  <span data-ttu-id="411d2-136">انتقل إلى **إدارة الأصول > عام > أوامر العمل > جميع أوامر العمل**.</span><span class="sxs-lookup"><span data-stu-id="411d2-136">Go to **Asset management > Common > Work orders > All work orders**.</span></span>
+2.  <span data-ttu-id="411d2-137">حدد أمر عمل لفتح الصفحة الخاصة به.</span><span class="sxs-lookup"><span data-stu-id="411d2-137">Select a work order to open its page.</span></span> <span data-ttu-id="411d2-138">في المجموعة **صيانة**، حدد **وعاء أوامر العمل** لفتح مربع الحوار **الاحتفاظ بوعاء أوامر العمل**.</span><span class="sxs-lookup"><span data-stu-id="411d2-138">In the **Maintain** group, select **Work order pool** to open the **Maintain work order pool** dialog box.</span></span>
+3.  <span data-ttu-id="411d2-139">في الحقل **إضافة/إزالة**، حدد **إضافة** لإضافة وعاء أمر العمل ثم من الحقل **الوعاء**، يمكنك تحديد وعاء أوامر العمل من القائمة المنسدلة.</span><span class="sxs-lookup"><span data-stu-id="411d2-139">In the **Add/remove** field, select **Add** to add the work order pool and then from the **Pool** field, you can select the work order pool from the drop-down menu.</span></span>
+4.  <span data-ttu-id="411d2-140">عند الانتهاء، حدد **موافق**.</span><span class="sxs-lookup"><span data-stu-id="411d2-140">When you are finished, select **OK**.</span></span>
+
+    <span data-ttu-id="411d2-141">**إدارة الأصول > شائع > أوامر العمل > كافة أوامر العمل** > تحديد أمر عمل > **وعاء أوامر العمل**</span><span class="sxs-lookup"><span data-stu-id="411d2-141">**Asset management > Common > Work orders > All work orders** > select a work order > **Work order pool**</span></span>
+ 
+    ![لقطة شاشة لصفحة صيانة أوعية أوامر العمل مع تمييز الوعاء.](../media/maintain-work-order-pool-ssm.png)

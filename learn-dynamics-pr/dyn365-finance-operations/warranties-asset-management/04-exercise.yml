@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.warranties-asset-management.04-exercise
+title: تمرين – إعداد الضمان
+metadata:
+  title: تمرين – إعداد الضمان
+  description: في هذه الوحدة، ستقوم بإعداد ضمان
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 23ef6a4b91119eb7eb13a04b634efb6e52391213
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071252"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-exercise.md)]"

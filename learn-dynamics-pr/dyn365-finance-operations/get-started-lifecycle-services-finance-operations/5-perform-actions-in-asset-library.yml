@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-lcs.5-perform-actions-in-asset-library
+title: تنفيذ الإجراءات في مكتبة الأصول
+metadata:
+  title: تنفيذ الإجراءات في مكتبة الأصول
+  description: توضح هذه الوحدة كيفية تنفيذ العديد من الإجراءات في مكتبة الأصول في تطبيقات Finance and Operations.
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1e4db1cdc25b58a743f5a012817a142ba5fff004
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071976"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-perform-actions-in-asset-library.md)]

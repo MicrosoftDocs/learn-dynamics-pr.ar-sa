@@ -1,0 +1,24 @@
+---
+ms.openlocfilehash: 605bceac17aa015c5f14e6d8c3509583ce181b35
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071494"
+---
+<span data-ttu-id="209a8-101">تستند بنية الأمان في تطبيقات Finance and Operations إلى الأدوار، ويجب تعيين دور لجميع المستخدمين للوصول إلى التطبيق.</span><span class="sxs-lookup"><span data-stu-id="209a8-101">The security structure in Finance and Operations apps is role-based, and all users must be assigned a role to gain access to the application.</span></span> 
+
+<span data-ttu-id="209a8-102">يستخدم الأمان المستند إلى الأدوار تسلسلاً هرمياً، مع أذونات تمثل عناصر التحكم في الأمان الأكثر دقة والأدوار التي تمثل التحكم الأقل دقة.</span><span class="sxs-lookup"><span data-stu-id="209a8-102">Role-based security uses a hierarchy, with permissions representing the most granular security control and roles representing the least granular control.</span></span> <span data-ttu-id="209a8-103">يتم تعيين الأذونات للامتيازات، ويتم تعيين الامتيازات للواجبات، ويتم تعيين الواجبات للأدوار.</span><span class="sxs-lookup"><span data-stu-id="209a8-103">Permissions are assigned to privileges, privileges are assigned to duties, and duties are assigned to roles.</span></span> <span data-ttu-id="209a8-104">يمثل الدور المسؤوليات اليومية الواسعة للوظيفة.</span><span class="sxs-lookup"><span data-stu-id="209a8-104">A role represents the broad, daily responsibilities for a job.</span></span> <span data-ttu-id="209a8-105">ويرتبط الواجب بعملية تجارية.</span><span class="sxs-lookup"><span data-stu-id="209a8-105">A duty correlates to a business process.</span></span> <span data-ttu-id="209a8-106">ويمثل الامتياز الوصول لأداء مهمة وظيفية.</span><span class="sxs-lookup"><span data-stu-id="209a8-106">A privilege represents access to perform a job task.</span></span> <span data-ttu-id="209a8-107">وأخيراً، يمثل الإذن الوصول إلى كائن قابل للتأمين، مثل زر أو حقل أو صفحة معينة في واجهة المستخدم.</span><span class="sxs-lookup"><span data-stu-id="209a8-107">Lastly, a permission represents access to a securable object, such as a specific button, field, or page in the user interface.</span></span>
+
+<span data-ttu-id="209a8-108">بينما يتم تعيين المستخدمين لأدوار في تطبيق تطبيقات Finance and Operations باستخدام وحدة إدارة النظام، يتم إنشاء أدوار وواجبات وامتيازات وأذونات جديدة في Visual Studio.</span><span class="sxs-lookup"><span data-stu-id="209a8-108">While users are assigned to roles in the Finance and Operations apps application by using the System administration module, new roles, duties, privileges, and permissions are created in Visual Studio.</span></span> <span data-ttu-id="209a8-109">ترفض سياسة أمان البيانات الوصول إلى عناصر معينة في واجهة المستخدم.</span><span class="sxs-lookup"><span data-stu-id="209a8-109">A data security policy denies access to certain elements in the user interface.</span></span>
+<span data-ttu-id="209a8-110">باستخدام إطار عمل XDS، يمكنك تعيين سياسات أمان البيانات للأدوار.</span><span class="sxs-lookup"><span data-stu-id="209a8-110">By using the XDS framework, you can assign data security policies to roles.</span></span>
+
+<span data-ttu-id="209a8-111">تحدد سياسات أذونات الأمان الوصول إلى أجزاء مختلفة من النظام ويتم إنشاؤها بناءً على الاستعلامات.</span><span class="sxs-lookup"><span data-stu-id="209a8-111">Security permissions policies define access to various parts of the system and are created based on queries.</span></span> <span data-ttu-id="209a8-112">توجد العديد من سياسات الأمان في AOT، ولكن مثلها مثل عناصر الأمان الأخرى، يمكنك إنشاء سياسات أمان جديدة عن طريق إضافة عنصر إلى مشروعك في نافذة **مستكشف الحلول**.</span><span class="sxs-lookup"><span data-stu-id="209a8-112">Many security policies exist in the AOT, but like other security elements, you can create new security policies by adding an item to your project in the **Solution Explorer** window.</span></span> 
+
+## <a name="links-to-related-modules-and-sites-for-specific-topics"></a><span data-ttu-id="209a8-113">ارتباطات لوحدات نمطية ذات صلة لموضوعات معينة</span><span class="sxs-lookup"><span data-stu-id="209a8-113">Links to related modules (and sites) for specific topics</span></span> 
+
+
+| <span data-ttu-id="209a8-114">الموضوع</span><span class="sxs-lookup"><span data-stu-id="209a8-114">Topic</span></span> | <span data-ttu-id="209a8-115">الرابط</span><span class="sxs-lookup"><span data-stu-id="209a8-115">Link</span></span>|
+ | ------------- | ------------- |
+ | <span data-ttu-id="209a8-116">نظرة عامة حول الأمان المستند إلى الدور</span><span class="sxs-lookup"><span data-stu-id="209a8-116">Role-based security overview</span></span>   | [<span data-ttu-id="209a8-117">الأمان المستند إلى الدور</span><span class="sxs-lookup"><span data-stu-id="209a8-117">Role-based security</span></span>](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security/?azure-portal=true)|
+

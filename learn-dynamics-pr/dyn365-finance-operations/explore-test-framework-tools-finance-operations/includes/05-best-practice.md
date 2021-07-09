@@ -1,0 +1,35 @@
+---
+ms.openlocfilehash: 28d93b6f10c4bbdba962be06afa428bb0986b0a6
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072329"
+---
+
+<span data-ttu-id="ec374-101">يمكن استخدام أداة "أفضل الممارسات" للحفاظ على بقاء الكود X++ نظيفاً وموحداً حتى يتمكن المطورين المستقبليين من قراءة الكود لمعرفة التخصيصات التي تم إجراؤها.</span><span class="sxs-lookup"><span data-stu-id="ec374-101">Best practices can be used to keep X++ code clean and uniform so that future developers can easily read the code to see what customizations have been done.</span></span> <span data-ttu-id="ec374-102">إضافة إلى ذلك، يمكن أن تساعد أداة "أفضل الممارسات" على مواكبة الكود لعمليات الترقية المستقبلية للحد من المشاكل.</span><span class="sxs-lookup"><span data-stu-id="ec374-102">Additionally, best practices can help keep code in line for future upgrades to alleviate issues.</span></span> <span data-ttu-id="ec374-103">لتمكين فحص أداة "أفضل الممارسات"، يمكنك الانتقال إلى **Visual Studio > Dynamics 365 > خيارات > أداة "أفضل الممارسات"** وعرض أفضل الممارسات لكل نموذج.</span><span class="sxs-lookup"><span data-stu-id="ec374-103">To enable a best practice check, you can go to **Visual Studio > Dynamics 365 > Options > Best Practices** and view the best practices for each model.</span></span> <span data-ttu-id="ec374-104">يمكنك أيضاً إيقاف تشغيل أداة "أفضل الممارسات" لنماذج معينة في صفحة **أداة "أفضل الممارسات"**.</span><span class="sxs-lookup"><span data-stu-id="ec374-104">You can also turn off best practices for specific models on the **Best Practices** page.</span></span>
+
+![لقطه شاشه لصفحة أداة "أفضل الممارسات" الخاصة بـ Visual studio.](../media/best-practices.png)
+
+<span data-ttu-id="ec374-106">يتم تشغيل فحص أداة "أفضل الممارسات" في أثناء عملية البناء.</span><span class="sxs-lookup"><span data-stu-id="ec374-106">The best practice check is run during the build.</span></span> <span data-ttu-id="ec374-107">في نافذة **النتائج**، يمكنك رؤية كافة مشاكل أداة "أفضل الممارسات" وموقع كل مشكلة.</span><span class="sxs-lookup"><span data-stu-id="ec374-107">In the **Results** window, you can see all the best practice issues and the location of each issue.</span></span> <span data-ttu-id="ec374-108">يمكنك أيضاً تشغيل فحص أداة "أفضل الممارسات" من موجه الأوامر.</span><span class="sxs-lookup"><span data-stu-id="ec374-108">You can also run the best practice check from the command prompt.</span></span> <span data-ttu-id="ec374-109">يمكنك تشغيل أداة "أفضل الممارسات" لكافة النماذج وعناصر معينة وكافة العناصر الموجودة في النموذج، والعناصر الموجودة في كافة النماذج ثم كتابة الإخراج في ملف السجل.</span><span class="sxs-lookup"><span data-stu-id="ec374-109">You can run best practices for all forms, specific elements, all items in a model, and items in all models and then write the output to a log file.</span></span> <span data-ttu-id="ec374-110">تعرض القائمة الآتية بعض القصاصات البرمجية لكيفية تشغيل أداة "أفضل الممارسات" مقابل العناصر المختلفة في موجه الأوامر.</span><span class="sxs-lookup"><span data-stu-id="ec374-110">The following list shows some code snippets for how to run best practices against different elements in the command prompt.</span></span>
+
+-   <span data-ttu-id="ec374-111">**تشغيل أداة "أفضل الممارسات" في كافة النماذج في وحده نمطيه** - `xppbp     -module:FleetManagement form:*`</span><span class="sxs-lookup"><span data-stu-id="ec374-111">**Run best practice on all forms in a module** - `xppbp     -module:FleetManagement form:*`</span></span>
+
+-   <span data-ttu-id="ec374-112">**تشغيل أداة "أفضل الممارسات" في عناصر معينة** - `xppbp  -module:FleetManagement class:MyClass form:MyForm`</span><span class="sxs-lookup"><span data-stu-id="ec374-112">**Run best practice on specific elements** - `xppbp  -module:FleetManagement class:MyClass form:MyForm`</span></span>
+
+-   <span data-ttu-id="ec374-113">**تشغيل أداة "أفضل الممارسات" في كافة العناصر الموجودة في النموذج (ولهذا النموذج الواحد فقط الموجود في الوحدة النمطية)** - `xppbp -module:FleetManagement -model:FleetManagement -all`</span><span class="sxs-lookup"><span data-stu-id="ec374-113">**Run best practice on all items in the model (and only for this one model in the module)** - `xppbp -module:FleetManagement -model:FleetManagement -all`</span></span>
+
+-   <span data-ttu-id="ec374-114">**تشغيل أداة "أفضل الممارسات" على كافة العناصر في جميع النماذج الموجودة في الوحدة النمطية** - `xppbp -module:FleetManagement -all`</span><span class="sxs-lookup"><span data-stu-id="ec374-114">**Run best practice on all items in all models in the module** - `xppbp -module:FleetManagement -all`</span></span>
+
+-   <span data-ttu-id="ec374-115">**كتابة إخراج أداة "أفضل الممارسات" في ملفات السجل** - `xppbp -module:FleetManagement -all -xmllog=Log.xml -log=Log.txt`</span><span class="sxs-lookup"><span data-stu-id="ec374-115">**Write the best practice output to log files** - `xppbp -module:FleetManagement -all -xmllog=Log.xml -log=Log.txt`</span></span>
+
+<span data-ttu-id="ec374-116">يمكنك منع عمليات فحص أداة "أفضل الممارسات" لكل نموذج.</span><span class="sxs-lookup"><span data-stu-id="ec374-116">You can suppress best practice checks for each model.</span></span> <span data-ttu-id="ec374-117">ولتنفيذ ذلك، يمكنك النقر بزر الماوس الأيمن فوق مشروع وتحديد **تحرير عمليات منع أداة "أفضل الممارسات"**.</span><span class="sxs-lookup"><span data-stu-id="ec374-117">To do this, you can right-click your project and select **Edit best practice suppressions**.</span></span> <span data-ttu-id="ec374-118">سيؤدي ذلك إلى فتح ملف XML حيث يمكنك منع أداة "أفضل الممارسات".</span><span class="sxs-lookup"><span data-stu-id="ec374-118">This will open an XML file where you can suppress best practices.</span></span> <span data-ttu-id="ec374-119">ستحتاج إلى إضافة النموذج الذي ترغب في منعه باستخدام العلامات `DiagnosticType` و`Severity` و`Path` و`Moniker` و`Justification`.</span><span class="sxs-lookup"><span data-stu-id="ec374-119">You will need to add the model that you want to suppress by using the tags `DiagnosticType`, `Severity`, `Path`, `Moniker`, and `Justification`.</span></span> <span data-ttu-id="ec374-120">يجب أن تتمكن من نسخ المعلومات من ملف BuildModelResult.xml الخاص بالنموذج الذي تم إنشاؤه في أثناء عملية البناء في ملف **Edit Best Practice Suppressions XML‎**.</span><span class="sxs-lookup"><span data-stu-id="ec374-120">You should be able to copy the information from the model's BuildModelResult.xml that is created during the build into the **Edit Best Practice Suppressions XML** file.</span></span> <span data-ttu-id="ec374-121">قد تحتاج رسالة التبرير إلى تعديل حتى تصبح أكثر وضوحاً.</span><span class="sxs-lookup"><span data-stu-id="ec374-121">The justification message might need to be modified to be more meaningful.</span></span>
+```xml
+<Diagnostic>
+     <DiagnosticType>BestPractices</DiagnosticType>
+     <Severity>Warning</Severity>
+     <Path>AxForm/AssetWarehouseTransfer/Design</Path>
+     <Moniker>BPErrorFormDesignPatternUnspecified</Moniker>
+     <Justification>Microsoft surely assigns a pattern  soon.</Justification>
+</Diagnostic>
+```

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-work-orders-asset-management.10-work-order-report
+title: تقرير أمر العمل
+metadata:
+  title: تقرير أمر العمل
+  description: هذه الوحدة توضح تقرير أمر العمل
+  ms.date: 02/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4ce498e7252319987efb7c0762c6bc35b38d7b6b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071333"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-work-order-report.md)]"

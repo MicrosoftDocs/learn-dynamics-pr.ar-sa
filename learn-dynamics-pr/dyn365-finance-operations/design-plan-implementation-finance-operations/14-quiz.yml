@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.14-design-plan-implementation-in-f-and-o-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 48d29d513b90dd877c3665563b242fd39b41412c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071401"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: اي من المستندات التالية توفر وثائق متعمقة لتفاصيل الحل ومخطط الحل الذي يتم تمثيله في تدفق نهاية إلى نهاية؟
+    choices:
+    - content: مستند تصميم تقني (TDD)
+      isCorrect: false
+      explanation: يتضمن مستند التصميم الفني معلومات حول الطريقة البرمجية لكيفية تنفيذ المطلب.
+    - content: مستند تصميم الحل (SDD)
+      isCorrect: true
+      explanation: مستند تصميم الحل (SDD) عبارة وثائق متعمقة لتفاصيل الحل ومخطط الحل الذي يتم تمثيله في تدفق نهاية إلى نهاية.
+    - content: مستند تصميم وظيفي (FDD)
+      isCorrect: false
+      explanation: يصف مستند التصميم الوظيفي ميزات التخصيصات المخططة.
+  - content: أي من المستندات التالية تصف ميزات التخصيصات التي تريدها؟
+    choices:
+    - content: مستند تصميم تقني (TDD)
+      isCorrect: false
+      explanation: يتضمن مستند التصميم الفني معلومات حول الطريقة البرمجية لكيفية تنفيذ المطلب.
+    - content: مستند تصميم الحل (SDD)
+      isCorrect: false
+      explanation: مستند تصميم الحل (SDD) عبارة وثائق متعمقة لتفاصيل الحل ومخطط الحل الذي يتم تمثيله في مخطط تدفق نهاية إلى نهاية يعرض كل عناصر الحل.
+    - content: مستند تصميم وظيفي (FDD)
+      isCorrect: true
+      explanation: يصف مستند التصميم الوظيفي ميزات التخصيصات المخططة.
+  - content: أي من المستندات التالية يتضمن معلومات حول الطريقة البرمجية لكيفية تنفيذ المطلب؟
+    choices:
+    - content: مستند تصميم تقني (TDD)
+      isCorrect: true
+      explanation: يتضمن مستند التصميم الفني معلومات حول الطريقة البرمجية لكيفية تنفيذ المطلب.
+    - content: مستند تصميم الحل (SDD)
+      isCorrect: false
+      explanation: مستند تصميم الحل (SDD) عبارة وثائق متعمقة لتفاصيل الحل ومخطط الحل الذي يتم تمثيله في مخطط تدفق نهاية إلى نهاية يعرض كل عناصر الحل.
+    - content: مستند تصميم وظيفي (FDD)
+      isCorrect: false
+      explanation: يصف مستند التصميم الوظيفي (FDD) ميزات التخصيصات المخططة.

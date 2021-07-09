@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.12-analytics-reporting-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: b00d7649b63437008b96795149ee910cf9a96f80
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071796"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من محتوى Power BI التالي مخصص لوحدات تحكم التكاليف أو أي شخص مسؤول عن أداء التحكم في التكلفة لمؤسسة؟
+    choices:
+    - content: تحليل محاسبة التكاليف
+      isCorrect: true
+      explanation: محتوى Power BI الحالي مخصص لوحدات تحكم التكاليف أو أي شخص مسؤول عن أداء التحكم في التكلفة لمؤسسة.
+    - content: الأداء المالي
+      isCorrect: false
+      explanation: يصف هذا المحتوى لوحة المعلومات والتقارير المضمنة، كما يوفر معلومات حول نموذج البيانات والوحدات التي تم استخدامها لبناء الحل.
+    - content: إدارة التحصيلات والائتمان
+      isCorrect: false
+      explanation: يمكن لمديري الائتمان والتحصيلات وموظفي التحصيلات الاستفادة من محتوى Power BI الحالي. ويوفر مقاييس الائتمان والتحصيلات الأساسية، مثل الأيام المستحقة للمبيعات والرصيد المتأخر وكشف الدائن والعملاء الذين يزيدون من حد الائتمان الخاص بهم. ويستخدم بيانات الحركة ويوفر طرق عرض مجمعة للائتمان والتحصيلات عبر كافة الشركات. كما يوفر تصنيفاً تفصيلياً لكل شركة ومجموعة عملاء وعميل.
+  - content: ما هو اسم الأداة المستخدمة في تخصيص القوائم المالية وإنشائها مثل الميزانية العمومية وكشوف الدخل وكشوفات التدفق النقدي؟
+    choices:
+    - content: مصمم التقارير المالية
+      isCorrect: true
+      explanation: هذه هي الأداة المرنة المستخدمة في تخصيص القوائم المالية وإنشائها مثل الميزانيات العمومية وكشوف الدخل وكشوفات التدفق النقدي. باستخدام هذه الأداة، يمكنك إنشاء تقارير مالية متقدمة لقادة ماليين.
+    - content: SQL Server Reporting Services (SSRS)
+      isCorrect: false
+      explanation: يستخدم هذا الأمر بشكل أساسي لمستندات الأعمال وسيناريوهات الطباعة عالية الجودة المشتركة مع الفواتير وكشوف التعبئة وقوائم الانتقاء والمزيد.
+    - content: إعداد التقارير الإلكترونية
+      isCorrect: false
+      explanation: تتيح لك هذه الأداة إمكانية تكوين المستندات الإلكترونية وفقاً للمتطلبات القانونية لمختلف البلدان أو المناطق.

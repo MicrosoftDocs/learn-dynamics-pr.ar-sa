@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.business-events-dynamics-365-finance-operations
+metadata:
+  title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
+  description: توفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال.
+  ms.date: 07/10/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 87485d1d089c17673a1475e2ab7a80be3fc1dadb
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072230"
+title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n"
+prerequisites: >
+  - الإلمام بتطبيقات Finance and Operations
+
+  - خبرة متوسطة بالترميز في X++، بما في ذلك إنشاء ملحقات الفئات
+
+  - معرفه إطار عمل الملحق في تطبيقات Finance and Operations
+
+  - فهم كيفية إنشاء ملحق فئة جديد وإضافة أساليب جديدة
+iconUrl: /learn/achievements/business-events-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.business-events-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.business-events-dynamics-365-finance-operations.2-framework
+- learn-dynamics.business-events-dynamics-365-finance-operations.3-new-event
+- learn-dynamics.business-events-dynamics-365-finance-operations.4-check
+- learn-dynamics.business-events-dynamics-365-finance-operations.5-summary
+badge:
+  uid: learn-dynamics.business-events-dynamics-365-finance-operations.badge

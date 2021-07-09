@@ -1,0 +1,14 @@
+---
+ms.openlocfilehash: ee510d3eb732e90c230fa2848e05bd10d973aafe
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071449"
+---
+<span data-ttu-id="80488-101">يحدد نطاق المتغير أين يمكن الوصول إلى المتغير.</span><span class="sxs-lookup"><span data-stu-id="80488-101">The scope of a variable defines where the variable can be accessed.</span></span>
+<span data-ttu-id="80488-102">تسمى المتغيرات التي تم تعريفها في إقرارات الفئة *متغيرات المثيل*.</span><span class="sxs-lookup"><span data-stu-id="80488-102">Variables that are declared in the class declarations are called *instance variables*.</span></span> <span data-ttu-id="80488-103">يمكن الوصول إلى متغيرات المثيل، إذا لم يتم تعريفها بشكل خاص، من أي أسلوب في الفئة ومن أساليب داخل فئة ممتدة من الفئة الأصلية.</span><span class="sxs-lookup"><span data-stu-id="80488-103">Instance variables, if they aren't declared private, can be accessed from any method in the class and from methods within a class that are extended from the original class.</span></span>
+ 
+<span data-ttu-id="80488-104">يتم تعريف المتغيرات المحلية بأسلوبٍ ولا يمكن الوصول إليها إلا بالطريقة التي تم التصريح عنها بها.</span><span class="sxs-lookup"><span data-stu-id="80488-104">Local variables are declared in a method and can only be accessed in the method that they are declared in.</span></span> <span data-ttu-id="80488-105">عندما يتم تعريف متغير، فإنه يشغل الذاكرة لتخزين القيمة.</span><span class="sxs-lookup"><span data-stu-id="80488-105">When a variable is declared, it takes up memory to store the value.</span></span>
+
+<span data-ttu-id="80488-106">يخصص تعريف كل المتغيرات الخاصة بك في تعريف الفئة ذاكرةً لكل متغير حتى تنتهي العملية.</span><span class="sxs-lookup"><span data-stu-id="80488-106">Declaring all your variables in the class declaration allocates memory for every variable until the process is finished.</span></span> <span data-ttu-id="80488-107">يمكن أن يساعد استخدام المتغيرات المحلية في تقليل الحمل من خلال تخصيص الذاكرة فقط أثناء الوقت الذي يتم فيه تشغيل الأسلوب.</span><span class="sxs-lookup"><span data-stu-id="80488-107">Using local variables can help reduce overhead by only allocating memory during the time when the method is running.</span></span> <span data-ttu-id="80488-108">عند انتهاء كتلة الكود التي تم تعريف المتغير بها، فسيتم تحرير الذاكرة.</span><span class="sxs-lookup"><span data-stu-id="80488-108">When the code block in which the variable is declared finishes, the memory is freed.</span></span> <span data-ttu-id="80488-109">نوصي بتعريف المتغيرات في أصغر نطاق ممكن لتحسين كفاءة الذاكرة.</span><span class="sxs-lookup"><span data-stu-id="80488-109">We recommend that you declare variables at the smallest scope possible to optimize memory efficiency.</span></span>

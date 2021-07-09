@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-xpp-dynamics-365-finance-operations
+metadata:
+  title: بدء التطوير باستخدام X++ في تطبيقات Finance and Operations
+  description: تُعد X++ لغة موجهه للعناصر. تقدم هذه الوحدة تطوير X++ لتطبيقات Finance and Operations، والتي يتم إجراؤها في Visual Studio.
+  ms.date: 12/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e3448d5d486d11d45c22230846fc6b9ea77e5e60
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072200"
+title: بدء التطوير باستخدام X++ في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتُعد X++ لغة موجهه للعناصر. تقدم هذه الوحدة تطوير X++ لتطبيقات Finance and Operations، والتي يتم إجراؤها في Visual Studio. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعريف مكونات الفئات.\n- إنشاء مثيل لفئة ما.\n- إنشاء كائنات في المنشيء.\n- معالجة البيانات باستخدام X++.\n- حدد الأنواع المختلفة من ‏‫العبارات المشروطة.\n- كتابة ‏‫العبارات المشروطة.\n- كتابة عبارات الحلقات.\n- استخدام العبارات التكرارية.\n- تحديد عبارات التعامل مع الاستثناءات.\n- كتابة عبارات التعامل مع الاستثناءات.\n- التعرف على استخدام القيم الثابتة ووظيفتها.\n"
+prerequisites: >
+  - الفهم الأساسي لتقنيات التطوير
+iconUrl: /learn/achievements/get-started-xpp-dynamics-365-finance-operations.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.2-base-types
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.3-constructs
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.4-sql
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.5-cond-statement
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.6-exceptions
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.7-const-values
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.8-runtime
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.9-dotnet
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.10-check
+- learn-dynamics.get-started-xpp-dynamics-365-finance-operations.11-summary
+badge:
+  uid: learn-dynamics.get-started-xpp-dynamics-365-finance-operations.badge

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.9-exercise
+title: معمل - إنشاء نموذج
+labId: 64122
+metadata:
+  title: معمل - إنشاء نموذج
+  description: ‏‫‏‫التدرّب على إنشاء نموذج في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6a780a8e8bcc7aca8d08c44bd9716b53e5c31c9b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071727"
+durationInMinutes: 30
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)] \n[!include[](includes/9-exercise.md)]"

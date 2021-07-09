@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.schedule-work-orders-asset-management.07-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1ab4b66727c38a42ffb3ec1f67badafe0ed35d6f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071639"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الوظيفة التي يجب استخدامها إذا كنت ترغب في جدولة عامل محدد لأمر عمل؟
+    choices:
+    - content: جدولة أمر العمل
+      isCorrect: false
+      explanation: لا يتم استخدام جدولة أمر العمل لتحديد عامل لأمر العمل.
+    - content: الإرسال
+      isCorrect: true
+      explanation: إذا كنت ترغب في جدولة عامل محدد لأمر عمل، فيمكنك استخدام وظيفة "الإرسال" في أمر العمل.
+    - content: مهام الصيانة المجدولة لأمر العمل
+      isCorrect: false
+      explanation: يجب استخدام وظيفة أمر الإرسال لجدولة عامل محدد لأمر العمل.
+    - content: مجموعة أمر العمل
+      isCorrect: false
+      explanation: يتم استخدام مجموعات أوامر العمل لتجميع أوامر العمل.
+  - content: أنت تقوم بجدولة أوامر العمل. وتحتاج إلى التأكد من أنك لا تقوم بالحجز المزدوج للموارد المجدولة لأوامر عمل أخرى. فما أفضل طريقة للقيام بذلك؟
+    choices:
+    - content: عرض جميع أوامر العمل المجدولة والتحقق من الموارد المجدولة.
+      isCorrect: false
+      explanation: رغم أنه يمكنك استخدام هذه الطريقة، إلا أنه توجد طريقة أكثر فعالية لضمان عدم الحجز المزدوج للموارد.
+    - content: عرض الملحوظات في أوامر العمل النشطة لضمان عدم حجز الموارد الأخرى.
+      isCorrect: false
+      explanation: يجب عدم استخدام الملحوظات لعرض الجدولة لأوامر العمل.
+    - content: تعيين "القدرة الإنتاجية المحدودة" على "نعم" في جميع الموارد عند جدولة أمر العمل.
+      isCorrect: true
+      explanation: ستقوم بتعيين شريط التبديل "القدرة الإنتاجية المحدودة" على "نعم" في الموارد، وذلك للتأكد من عدم الحجز المزدوج.
+  - content: أي من المهام الآتية يمكن القيام بها في الصفحة "مهام الصيانة المجدولة لأمر العمل"؟
+    choices:
+    - content: إنشاء نوع موقع عمل جديد
+      isCorrect: false
+      explanation: يمكنك استخدام الصفحة "نوع موقع العمل" لإنشاء نوع موقع عمل جديد
+    - content: إنشاء مجموعة أوامر عمل
+      isCorrect: false
+      explanation: لا يمكنك إنشاء مجموعات أوامر عمل جديدة من الصفحة "مهام الصيانة المجدولة لأمر العمل"
+    - content: عرض ملحوظات أمر العمل وإضافتها
+      isCorrect: true
+      explanation: يمكنك عرض ملحوظات أمر العمل وإضافتها من الصفحة "مهام الصيانة المجدولة لأمر العمل" من خلال تحديد "الملحوظات" في جزء الإجراء.

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.3-manage-users-and-security
+title: إدارة المستخدمين والأمان
+metadata:
+  title: إدارة المستخدمين والأمان
+  description: توضح هذه الوحدة كيفية إدارة المستخدمين والأمان.
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a0d2eab4247a4cc59184942cbf944d6e3e46f028
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071512"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-manage-users-and-security.md)]

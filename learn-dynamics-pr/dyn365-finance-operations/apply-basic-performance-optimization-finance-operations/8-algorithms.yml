@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations.8-algorithms
+title: تطبيق خوارزميات المعالجة المتوازية
+metadata:
+  title: تطبيق خوارزميات المعالجة المتوازية
+  description: تعرف علة كيفية تطبيق خوارزميات المعالجة المتوازية في تطبيقات Finance and Operations.
+  ms.date: 07/03/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2786f159860379b71a275dfce92f79897ff2ac45
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071612"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-algorithms.md)]

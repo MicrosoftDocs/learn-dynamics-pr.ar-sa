@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations.3-patterns
+title: الأنماط المتزامنة وغير المتزامنة
+metadata:
+  title: الأنماط المتزامنة وغير المتزامنة
+  description: تعرف على الأنماط المتزامنة وغير المتزامنة في تطبيقات Finance and Operations.
+  ms.date: 07/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8116074437ce392052f8e392d83dd9069d2c3358
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071887"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-patterns.md)]

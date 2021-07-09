@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-functional-locations-asset-management.06-exercise-2
+title: تمرين - إنشاء أنواع موقع العمل
+metadata:
+  title: تمرين - إنشاء أنواع موقع العمل
+  description: تتضمن هذه الوحدة تمريناً على كيفية إنشاء أنواع مواقع العمل
+  ms.date: 02/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 151c09adf0f4ba69149d92d12dd987de23da14fc
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071478"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-exercise-2.md)]"

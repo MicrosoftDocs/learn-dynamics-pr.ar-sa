@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-asset-leasing-finance.17-exercise-2
+title: التمرين - إنشاء جدول دفعات الإيجار
+metadata:
+  title: التمرين - إنشاء جدول دفعات الإيجار
+  description: مارس إنشاء جدول دفعات الإيجار في Dynamics 365 Finance.
+  ms.date: 03/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5d538d0e6bcc2bd19ea30fe0ad792699f00ac14b
+  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2021
+  ms.locfileid: "6072336"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/17-exercise-2.md)]"

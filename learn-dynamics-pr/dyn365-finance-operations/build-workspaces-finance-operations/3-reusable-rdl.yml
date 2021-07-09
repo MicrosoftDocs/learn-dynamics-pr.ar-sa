@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations.3-reusable-rdl
+title: إنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL
+metadata:
+  title: إنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL
+  description: توضح هذه الوحدة كيفية قم بإنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL في Finance and Operations.
+  ms.date: 06/21/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3140dc22cda6f68d9117f46c43ada610363e8647
+  ms.sourcegitcommit: 399a8fbdc04e0e9851dc1d202615f3279376202c
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/11/2020
+  ms.locfileid: "6072054"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-reusable-rdl.md)]

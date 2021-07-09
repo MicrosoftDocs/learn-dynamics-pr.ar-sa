@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations
+metadata:
+  title: تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات Finance and Operations
+  description: بصفتك مطوراً، فستكون بشكل عام جزءاً من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات Finance and Operations وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.
+  ms.date: 07/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1f60b7a1babbdd4e1080cf48f4e503fc8918cfc3
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072217"
+title: تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nبصفتك مطوراً، فستكون بشكل عام جزءاً من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات Finance and Operations وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد واجهات برمجة تطبيقات الويب المتكاملة.\n- استكشف سيناريوهات تكامل البيانات المتاحة.\n- حدد الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة.\n"
+prerequisites: >
+  - الفهم الأساسي لتطبيقات Finance and Operations
+iconUrl: /learn/achievements/integration-patterns-dynamics-365-finance-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations.2-api
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations.3-patterns
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations.4-scenarios
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations.5-check
+- learn-dynamics.integration-patterns-dynamics-365-finance-operations.6-summary
+badge:
+  uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations.badge

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-asset-leasing-finance.02-leasing-elements
+title: عناصر التأجير
+metadata:
+  title: عناصر التأجير
+  description: تعرف على عناصر عملية الأعمال لتأجير الأصول في Dynamics 365 Finance.
+  ms.date: 03/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7fed1aaf8934084ea09a0a0628ba4405f236ff12
+  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2021
+  ms.locfileid: "6072343"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-leasing-elements.md)]"

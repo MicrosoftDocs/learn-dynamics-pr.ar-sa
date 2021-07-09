@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-tables-dynamics-365-finance-operations.1-create
+title: إنشاء الجداول وحقول الجدول
+metadata:
+  title: إنشاء الجداول وحقول الجدول
+  description: التعرف على كيفية إنشاء الجداول وحقول الجداول في تطبيقات Finance and Operations.
+  ms.date: 06/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 643d68c79790dd5b5494884dfcdb181d12ab3db1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071607"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-create.md)]

@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.data-package-api-dynamics-365-finance-operations
+metadata:
+  title: تنفيذ واجهة برمجة التطبيقات (API) لحزمة إدارة البيانات لتطبيقات Finance and Operations
+  description: تتيح لك واجهة برمجة التطبيقات (API) الخاصة بنقل الحالة التمثيلية (REST) الخاصة بحزمة إطار عمل إدارة البيانات التكامل مع تطبيقات Finance and Operations باستخدام حزم البيانات.
+  ms.date: 07/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d201d9bbe6d930c4a5b60face7a95afb398365d4
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072189"
+title: تنفيذ واجهة برمجة التطبيقات (API) لحزمة إدارة البيانات لتطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لك واجهة برمجة التطبيقات (API) الخاصة بنقل الحالة التمثيلية (REST) الخاصة بحزمة إطار عمل إدارة البيانات التكامل مع تطبيقات Finance and Operations باستخدام حزم البيانات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيراد وتصدير واجهات برمجة التطبيقات (API) بين عمليات النشر السحابية لتطبيقات Finance and Operations وعمليات النشر المحلية.\n- استيراد وتصدير واجهات برمجة التطبيقات (API) بين عمليات النشر المحلية.\n- استخدم GetExecutionSummaryStatus للحصول على حالة وتوافر واجهات برمجة التطبيقات (API).\n"
+prerequisites: >
+  - المعرفة الأساسية بتطبيقات Finance and Operations
+
+  - الفهم الأساسي للبرمجة الموجهة للعناصر
+
+  - خبرة التطوير باستخدام لغة البرمجة X++
+
+  - الفهم الأساسي لعمليات التكامل المتكررة ومفاهيم تكامل البيانات
+iconUrl: /learn/achievements/data-package-api-dynamics-365-finance-operations.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.1-introduction
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.2-api
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.3-status
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.4-entity
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.5-wrapper-class
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.6-check
+- learn-dynamics.data-package-api-dynamics-365-finance-operations.7-summary
+badge:
+  uid: learn-dynamics.data-package-api-dynamics-365-finance-operations.badge

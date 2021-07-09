@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.9-integrate-data-common-data-service
+title: تكامل البيانات من مصادر متعددة في Microsoft Dataverse للتطبيقات
+metadata:
+  title: تكامل البيانات من مصادر متعددة في Dataverse للتطبيقات
+  description: تصف هذه الوحدة كيفية تكامل البيانات من مصادر متعددة في Dataverse للتطبيقات في Finance and Operations.
+  ms.date: 03/12/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7f755ae15f8ee6378be1f731728815e85f310b2c
+  ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2020
+  ms.locfileid: "6072060"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-integrate-data-common-data-service.md)]

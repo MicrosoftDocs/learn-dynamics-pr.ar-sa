@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.controls-reports-asset-management
+metadata:
+  title: استخدام عناصر التحكم والتقارير في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: لإدارة أصولك بشكل فعال في إدارة الأصول لـ Dynamics 365 Supply Chain Management، يمكنك استخدام عناصر التحكم والتقارير.
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6fbbb4ad4e70bb4837a45cb3b7ec5db24997eb99
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071565"
+title: استخدام عناصر التحكم والتقارير في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nلإدارة أصولك بشكل فعال في إدارة الأصول لـ Dynamics 365 Supply Chain Management، يمكنك استخدام عناصر التحكم والتقارير.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- احسب مقارنات التكاليف الفعلية مقارنة بالتكاليف المدرجة في الموازنة باستخدام عنصر التحكم في تاريخ أمر العمل والتكلفة.\n- احسب الساعات الفعلية مقارنة بالساعات المدرجة في الموازنة باستخدام عنصر التحكم في ساعات أمر العمل.\n- قم بإنشاء عملية حسابية تحلل العدد الإجمالي للأخطاء خلال فترة محددة.\n- قم بإنشاء حساب مؤشر الأداء الرئيسي (KPI) الذي يتتبع أداء الأصول المحددة وأنواع الأصول.\n- حدد عملية حسابية توضح متى وما هي الفترة التي يُستخدم فيها الأصول.\n- قم بإنشاء التنبؤ الذي يتعقب مهام الصيانة المرتبطة بالمشاريع ويتكامل مع وحدات إدارة المشروع والمحاسبة.\n"
+prerequisites: "- المعرفة العامة بإدارة الأصول وعمليات Supply Chain Management.\n- القدرة على التنقل في Dynamics 365 Supply Chain Management. \n"
+iconUrl: /learn/achievements/controls-asset-mgmt-dyn365-supply-chain-mgmt.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.controls-reports-asset-management.01-introduction
+- learn-dynamics.controls-reports-asset-management.02-cost-control
+- learn-dynamics.controls-reports-asset-management.03-work-order-date
+- learn-dynamics.controls-reports-asset-management.04-work-order-hour
+- learn-dynamics.controls-reports-asset-management.05-asset-fault-cost
+- learn-dynamics.controls-reports-asset-management.06-asset-kpi
+- learn-dynamics.controls-reports-asset-management.07-item-where-used
+- learn-dynamics.controls-reports-asset-management.08-maintenance-status
+- learn-dynamics.controls-reports-asset-management.09-exercise-1
+- learn-dynamics.controls-reports-asset-management.10-exercise-2
+- learn-dynamics.controls-reports-asset-management.11-check
+- learn-dynamics.controls-reports-asset-management.12-summary
+badge:
+  uid: learn-dynamics.controls-asset-mgmt-dyn365-supply-chain-mgmt.badge

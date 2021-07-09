@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.3-create-number-sequence
+title: إنشاء تسلسل رقمي
+metadata:
+  title: إنشاء تسلسل رقمي
+  description: توضح هذه الوحدة كيفية إنشاء تسلسل رقمي في تطبيقات Finance and Operations.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 95f6f0b1167f31f3d180c9e11b98571d478f678e
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6072646"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-create-number-sequence.md)]

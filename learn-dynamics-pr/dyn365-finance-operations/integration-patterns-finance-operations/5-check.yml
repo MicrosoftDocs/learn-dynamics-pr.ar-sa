@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3219eb09f5f39969209d4e5a1570b09472d6be49
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071335"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي أنواع التكاملات التالية يجب عليك تحديدها عند الحاجة إلى استيراد البيانات بشكل غير متزامن إلى تطبيقات Finance and Operations من نظام طرف آخر على أساس بالساعة؟
+    choices:
+    - content: تكامل OData
+      isCorrect: false
+      explanation: تكامل OData غير صحيح. تحتاج إلى تكامل غير متزامن بتكرار محدد.
+    - content: تكامل بيانات الدُفعة
+      isCorrect: true
+      explanation: يجب تحديد تكامل بيانات دُفعة لسيناريوهات غير متزامنة مثل هذه لعمليات التكامل التي يتم تشغيلها بواسطة دُفعة.
+    - content: تكامل الخدمة المخصصة
+      isCorrect: false
+      explanation: بشكل عام، يتم تحديد تكامل الخدمة المخصصة لعمليات التكامل في الوقت الحقيقي.
+  - content: ما نوع واجهة برمجة تطبيقات (API) التكامل التي تدعم تنسيقات الملفات وحزمة البيانات كليهما؟
+    choices:
+    - content: إطار عمل إدارة البيانات
+      isCorrect: false
+      explanation: لا يدعم إطار عمل إدارة البيانات سوى حزم البيانات.
+    - content: OData
+      isCorrect: false
+      explanation: OData هو نوع خدمة داخل إطار عمل إدارة البيانات.
+    - content: عمليات تكامل متكررة
+      isCorrect: true
+      explanation: تدعم عمليات التكامل المتكررة كلاً من الملفات وحزم البيانات.
+  - content: هل صحيح أن كلاً من عمليات التكامل المتكررة وإطار عمل إدارة البيانات يدعمان بروتوكولات REST؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: كلاً من عمليات التكامل المتكررة وإطار عمل إدارة البيانات يدعمان بروتوكولات REST.
+    - content: لا
+      isCorrect: false
+      explanation: كلاً من عمليات التكامل المتكررة وإطار عمل إدارة البيانات يدعمان بروتوكولات REST.

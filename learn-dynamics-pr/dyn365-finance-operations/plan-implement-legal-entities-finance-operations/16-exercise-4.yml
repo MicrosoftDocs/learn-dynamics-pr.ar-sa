@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.16-exercise-set-up-a-number-sequence
+title: المعمل - إعداد تسلسل رقمي
+labId: 76401
+metadata:
+  title: المعمل - إعداد تسلسل رقمي
+  description: مارس إعداد تسلسل رقمي في تطبيقات Finance and Operations.
+  ms.date: 07/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f0891bc1d6f1ab21b2d30393506524ea124b24e0
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6072033"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/16-exercise-set-up-number-sequence.md)] \n[!include[](../includes/standalone-lab-end.md)]"

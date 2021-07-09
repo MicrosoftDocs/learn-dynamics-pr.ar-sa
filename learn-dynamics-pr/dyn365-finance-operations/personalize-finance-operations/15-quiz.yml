@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.personalize-dynamics-365-finance-ops.15-personalize-finance-ops-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/20/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 34e5609e65f0e30c8a215b171c9a99246a1e4fec
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071466"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: إذا أردت إعادة ترتيب الحقول في صفحة شبكة، أي من الأدوات التالية يجب عليك استخدامه على شريط أدوات إضفاء الطابع الشخصي؟
+    choices:
+    - content: أداة المحدد
+      isCorrect: false
+      explanation: يتم استخدام أداة المحدد لاجراء العديد من الأشياء، ولكنك لن تقوم بتحديد هذا الخيار لإعادة ترتيب الحقول.
+    - content: أداة التحريك
+      isCorrect: true
+      explanation: تسمح لك أداة التحريك بنقل الحقول الموجودة في الصفحة.
+    - content: جعل الأداة غير مرئية
+      isCorrect: false
+      explanation: تسمح لك الأداة "جعله غير ظاهر" بتحديد الحقول التي تريد إخفاءها من العرض. يمكنك أيضاً استخدامه لجعل الحقول المخفية مرئية مرة أخرى.
+  - content: كيف يمكنك الوصول إلى شريط أدوات إضفاء الطابع الشخصي الأساسية؟
+    choices:
+    - content: انقر بزر الماوس الأيمن فوق صف الشبكة، أو التسمية، أو الوصف
+      isCorrect: true
+      explanation: يمكنك الوصول إلى شريط أدوات إضفاء الطابع الشخصي الأساسي بالنقر بزر الماوس الأيمن فوق الشبكة أو الصف أو التسمية أو الوصف على نموذج التفاصيل.
+    - content: من علامة التبويب خيارات في جزء الإجراءات
+      isCorrect: false
+      explanation: يقوم هذا الاجراء بفتح شريط أدوات إضفاء الطابع الشخصي، الذي يوفر بعض الوظائف نفسها، ولكنه يقوم أيضاً بتطبيق التغييرات على النموذج بأكمله
+    - content: من الوحدة النمطية لإدارة النظام
+      isCorrect: false
+      explanation: يمكنك الوصول إلى التفضيلات وخيارات المستخدم من الوحدة النمطية لإدارة النظام، ولكن هذا ليس مكان وصولك إلى شريط أدوات إضفاء الطابع الشخصي الأساسية.

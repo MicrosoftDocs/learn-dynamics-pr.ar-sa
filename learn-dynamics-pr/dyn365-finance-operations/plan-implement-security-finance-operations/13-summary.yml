@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.13-plan-and-implement-security-in-f-and-o-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تخطيط وتنفيذ الأمان في وحدة تطبيقات Finance and Operations
+  ms.date: 02/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 27829e00a2ab499af3774012b757fce57c0f437d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071329"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/13-plan-and-implement-security-in-f-and-o-summary.md)]

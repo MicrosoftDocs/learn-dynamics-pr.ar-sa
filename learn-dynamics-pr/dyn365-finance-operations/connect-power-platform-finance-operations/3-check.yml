@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.connect-power-platform-dynamics-365-finance-operations.3-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2c6737252f20bea63ad06a3fe829a638d9c98247
+  ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2020
+  ms.locfileid: "6072065"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أنت مطور لشركة Contoso ‏Electronics وتحتاج إلى إنشاء تطبيق Power App يستخدم البيانات الموجودة في CustTable. لقد حددت المثيل، والآن تحتاج إلى تحديد الجدول الذي ستستخدمه لمصدر البيانات داخل التطبيق. عندما تحاول العثور على CustTable، لا يمكنك العثور عليه في قائمة اختيار جدول في Power Apps. ما الذي يمكنك التحقق منه لتشخيص سبب عدم عرض الجدول؟
+    choices:
+    - content: تأكد من تمكين كيان البيانات في مساحة عمل إدارة البيانات.
+      isCorrect: false
+      explanation: لا تحتاج إلى تمكين كيانات البيانات.
+    - content: تحقق من تعيين الخاصية IsPublic في كيان البيانات إلى "لا".
+      isCorrect: false
+      explanation: يجب أن يكون كيان البيانات عاماً.
+    - content: تحقق من تعيين الخاصية IsPublic في كيان البيانات إلى "نعم".
+      isCorrect: true
+      explanation: تحتاج إلى التحقق من أن كيان البيانات عام؛ إذا لم يكن عاماً، فلن تتمكن من الوصول إليه خارج تطبيقات Finance and Operations
+  - content: أي من العبارات التالية يعتبر صحيحاً فيما يتعلق بتكوين الكتابة المزدوجة في تطبيقات Finance and Operations؟
+    choices:
+    - content: تم تكوين الكتابة المزدوجة في مساحة عمل إدارة الميزات.
+      isCorrect: false
+      explanation: تم تكوين الكتابة المزدوجة في مساحة عمل إدارة البيانات.
+    - content: يجب أن تكون مسؤولاً عن بيئة Microsoft Dataverse لإنشاء الارتباط بين التطبيقات.
+      isCorrect: true
+      explanation: عند إنشاء الارتباط بين التطبيقين، سترى فقط بيئات Dataverse التي تكون مسؤولاً فيها.
+    - content: تم إنشاء الارتباط بين تطبيقات Finance and Operations والتطبيق المستند إلى النموذج في Microsoft Azure.
+      isCorrect: false
+      explanation: يتم إجراء الإعداد في تطبيقات Finance and Operations.
+    - content: تم إنشاء الارتباط بين تطبيقات Finance and Operations والتطبيق المستند إلى النموذج في Dynamics Lifecycle Services ‏(LCS).
+      isCorrect: false
+      explanation: يتم إجراء الإعداد في تطبيقات Finance and Operations.

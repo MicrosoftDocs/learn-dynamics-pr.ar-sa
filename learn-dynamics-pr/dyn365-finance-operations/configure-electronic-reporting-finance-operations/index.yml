@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-electronic-reporting
+metadata:
+  title: تكوين التقارير الإلكترونية في Dynamics 365 Finance
+  description: توفر هذه الوحدة معلومات حول كيفية تكوين التقارير الإلكترونية والعمل معها.
+  ms.date: 05/19/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2902068433e457729fe9ee39988045d41d82bb6c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071424"
+title: تكوين التقارير الإلكترونية في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nبدلاً من توسيع التعليمات البرمجية لـ Dynamics 365 Finance لتلبية الميزات التنظيمية والامتثال لبلدان أو مناطق مختلفة، يمكن لمستخدم الأعمال تكوين أداة التقارير الإلكترونية واستخدامها بدون كتابة سطر واحد من التعليمات البرمجية. يمكنك على سبيل المثال اعتماد متطلبات تنظيمية جديدة وإنشاء مستندات أعمال بالتنسيق المطلوب لتبادل المعلومات إلكترونياً مع الهيئات الحكومية والبنوك والأطراف الأخرى. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين التقارير الإلكترونية \n- أضف موفراً جديداً لإعداد التقارير الإلكترونية وقم بتمييزه على أنه نشط\n- إنشاء مستند إلكتروني بتنسيق معين\n- إنشاء تكوينات التقارير الإلكترونية\n  \n"
+prerequisites: >
+  - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية
+
+  - معرفة العمليات المالية والمحاسبية
+
+  - القدرة على استخدام الصيغ في Microsoft Excel
+iconUrl: /learn/achievements/configure-electronic-reporting-in-dynamics-365-for-finance-and-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-electronic-reporting.1-introduction-to-electronic-reporting
+- learn-dynamics.configure-electronic-reporting.2-configure-electronic-reporting
+- learn-dynamics.configure-electronic-reporting.4f-exercise-generate-electronic-documents-for-payments
+- learn-dynamics.configure-electronic-reporting.5-knowledge-check
+- learn-dynamics.configure-electronic-reporting.6-summary
+badge:
+  uid: learn-dynamics.configure-electronic-reporting-in-dynamics-365-for-finance-and-operations.badge

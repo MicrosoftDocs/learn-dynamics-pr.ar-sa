@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.06-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8619f5ad5af017fbce6def9ee5bfbcd9b76a2279
+  ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2020
+  ms.locfileid: "6072117"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي العمليات الآتية يتعذر إجراؤها من Lifecycle Services؟
+    choices:
+    - content: توزيع بيئة جديدة
+      isCorrect: false
+      explanation: تساعدك Lifecycle Services على توزيع بيئات جديدة.
+    - content: تحديث الكود في بيئة حالية
+      isCorrect: false
+      explanation: يمكنك تحديث الكود في بيئة حالية باستخدام ميزة "تطبيق التحديثات" في القائمة "الصيانة" في الصفحة "التفاصيل الكاملة" للبيئة.
+    - content: استعادة صورة بيئة.
+      isCorrect: true
+      explanation: لا يمكنك استعادة صورة بيئة في Lifecycle Services.
+    - content: ترقية بيئة إلى إصدار نظام أساسي جديد.
+      isCorrect: false
+      explanation: يمكنك ترقية الكود في إصدار نظام أساسي جديد باستخدام ميزة "تطبيق التحديثات" في القائمة "الصيانة" في الصفحة "التفاصيل الكاملة" للبيئة.
+  - content: أي الخدمات الآتية لا يمكن إعادة تشغيلها في Lifecycle Services لبيئة من الطبقة 2؟
+    choices:
+    - content: خدمة IIS
+      isCorrect: false
+      explanation: يمكن إعادة تشغيل خدمة IIS في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
+    - content: خدمة الدُّفعات
+      isCorrect: false
+      explanation: يمكن إعادة تشغيل خدمة الدُّفعات في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
+    - content: خدمة تشخيص Lifecycle Services
+      isCorrect: false
+      explanation: يمكن إعادة تشغيل خدمة تشخيص Lifecycle Services في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
+    - content: خدمة AOS
+      isCorrect: true
+      explanation: تتعذر إعادة تشغيل خدمة AOS من Lifecycle Services.
+    - content: خدمة إعداد التقارير
+      isCorrect: false
+      explanation: يمكن إعادة تشغيل خدمة إعداد التقارير في Lifecycle Services للبيئات من الطبقة 2 وما فوق.

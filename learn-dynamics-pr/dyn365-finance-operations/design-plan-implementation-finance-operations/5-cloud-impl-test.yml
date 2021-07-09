@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-plan-implementation-in-f-and-o.5-cloud-impl-test
+title: تطبيق السحابة - اختبار
+metadata:
+  title: تطبيق السحابة - اختبار
+  description: تعد هذه الوحدة ملخصاً للخطوات الواردة في خطوة الاختبار الخاصة بتنفيذ السحابة لتطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e01480428ff86da4407297156ac852b2790606f2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071702"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-cloud-impl-test.md)]

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-help-with-f-and-o.7-get-help-with-f-and-o-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص الحصول على تعليمات ومعرفه المزيد حول الوحدة النمطية للتطبيقات Finance and Operations.
+  ms.date: 01/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 269dcaf17bd76f202791df9218f341e913e49e8f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071980"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-get-help-with-f-and-o-summary.md)]

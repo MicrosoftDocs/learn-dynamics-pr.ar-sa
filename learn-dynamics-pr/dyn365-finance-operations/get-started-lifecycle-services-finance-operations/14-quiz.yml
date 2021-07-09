@@ -1,0 +1,88 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-lcs.14-get-started-with-lcs-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 2a9a98f915baa3bd073eec5a3b29dacbd6eed9cd
+  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6072296"
+title: اختبر معلوماتك
+durationInMinutes: 9
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما الذي يوفر منهجاً مفصلاً يعرض كل مرحلة من مراحل المشروع، وتوفر أحداث رئيسية عالية المستوى يتم استخدامها لتتبع التسليمات وأهداف المشروع؟
+    choices:
+    - content: المستودع المركزي لـ LCS
+      isCorrect: false
+      explanation: لا يوجد شيء في LCS يسمى المستودع المركزي. ومع ذلك، LCS هو المستودع المركزي لمعظم الأدوات لتحضير مشروع ونشره لتطبيقات Finance and Operations أو Dynamics 365 Commerce.
+    - content: مساحة عمل المشروع LCS
+      isCorrect: true
+      explanation: توفر مساحة عمل المشروع LCS منهجاً مفصلاً يعرض كل مرحلة من مراحل المشروع، وتوفر أحداث رئيسية عالية المستوى يتم استخدامها لتتبع التسليمات وأهداف المشروع.
+    - content: عنصر التحكم الموحد
+      isCorrect: false
+      explanation: لا يوجد شيء في عنصر التحكم الموحد المسمى LCS. ومع ذلك، يقدم LCS التحكم الموحد عبر البيئات المنشورة المستندة إلى السحابة.
+  - content: إن تحليل ومراقبة سلامة البيئة الخاصة بك باستخدام المقاييس مثل المكون، والبيئة، والمشروع، والمؤسسة يشار إليها على أنها الشروط التالية؟
+    choices:
+    - content: مراقبة السلامة
+      isCorrect: false
+      explanation: مراقبة السلامة ليست مصطلحاً مستخدماً في تطبيقات Finance and Operations
+    - content: مراقبة البيئة
+      isCorrect: true
+      explanation: تسمح مراقبة البيئة بمراقبة السلامة التشغيلية للبيئات الخاصة بك. وهي تحتوي على طرق عرض ظاهرة لكي تتمكن من تحليل الأداء حسب المكون والبيئة والمشروع والمؤسسة.
+    - content: مراقبة النظام
+      isCorrect: false
+      explanation: مراقبة النظام ليست هي المصطلح الصحيح لهذا الموقف.
+    - content: التحليل البيئي
+      isCorrect: false
+      explanation: التحليل البيئي ليس مصطلحاً مستخدماً في تطبيقات Finance and Operations.
+  - content: ما الخطوة الأولى الموصى بها قبل الاتصال بمشروع LCS لاسترداد تسجيلات المهمة؟
+    choices:
+    - content: 'تحديد مشروع LCS المطلوب الاتصال به:'
+      isCorrect: false
+      explanation: نوصي أولا المستخدمين بالتأكد من وجود مكتبة BPM في LCS قبل تحديد مشروع LCS للاتصال به.
+    - content: قم بتعيين ترتيب عرض مكتبات BPM.
+      isCorrect: false
+      explanation: يعد تعيين ترتيب عرض مكتبات BPM الخطوة الأخيرة في الاتصال بـ LCS. نوصي المستخدمين أولاً بالتأكد من وجود مكتبة BPM في LCS.
+    - content: تأكد من وجود مكتبة BPM في LCS.
+      isCorrect: true
+      explanation: قبل الاتصال بمشروع LCS، فمن المهم التأكد أولاً من وجود مكتبة BPM في LCS.
+    - content: حدد مكتبات BPM لاسترداد تسجيلات المهام منها.
+      isCorrect: false
+      explanation: تحديد مكتبات BPM لاسترداد تسجيلات المهام من هو الخطوة الثانية إلى الخطوة الأخيرة في الاتصال بـ LCS. نوصي المستخدمين أولاً بالتأكد من وجود مكتبة BPM في LCS.
+  - content: ما هو الخيار الذي يمكن أن يقوم به مسجل المهام تلقائياً بتشغيل خطوات تسجيل موجود باستخدام الصفحات والقيم التي تم تسجيلها في الأصل؟
+    choices:
+    - content: إنشاء تسجيل جديد
+      isCorrect: false
+      explanation: تسمح لك خيارات إنشاء التسجيل بإنشاء تسجيل جديد.
+    - content: تشغيل التسجيل كدليل
+      isCorrect: false
+      explanation: يتيح لك الخيار تشغيل التسجيل كدليل إمكانية تشغيل تسجيل المهام كدليل مهام بدلاً من ذلك.
+    - content: تحرير التسجيل
+      isCorrect: false
+      explanation: على الرغم من أنه يمكنك تحرير تسجيل من خلال وظيفة التشغيل، فإن تحرير التسجيل هو أيضا وضع يتيح لك إجراء عمليات تحرير بسيطة على التسجيل دون الحاجة إلى إعادة تشغيل التسجيل بالكامل.
+    - content: تشغيل التسجيل
+      isCorrect: true
+      explanation: يمكن لخيار تشغيل التسجيل تلقائياً تشغيل خطوات تسجيل موجود باستخدام الصفحات والقيم التي تم تسجيلها في الأصل. يمكن استخدام وضع التشغيل أيضاً لتحديث تسجيل موجود إذا تم اجراء تغييرات على التطبيق الأساسي، وقامت هذه التغييرات بتغيير خطوات العملية التجارية المطلوبة للسيناريو.
+  - content: عند التحديد لحفظ تسجيل المهمة كتسجيل مطور، ما هو نوع الملف الذي تم اختياره للملف؟
+    choices:
+    - content: .xml
+      isCorrect: true
+      explanation: عند الاختيار لحفظ تسجيل المهمة كتسجيل مطور، يكون نوع الملف هو .xml.
+    - content: .html
+      isCorrect: false
+      explanation: لا يكون .html هو نوع الملف المستخدم لحفظ تسجيل مهام كتسجيل مطور.
+    - content: .docx
+      isCorrect: false
+      explanation: لا يكون .docx هو نوع الملف المستخدم لحفظ تسجيل مهام كتسجيل مطور.
+    - content: .txt
+      isCorrect: false
+      explanation: لا يكون .txt هو نوع الملف المستخدم لحفظ تسجيل مهام كتسجيل مطور.

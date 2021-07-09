@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.preventive-reactive-asset-management.05-maintenance-cost
+title: تكلفة جدول الصيانة
+metadata:
+  title: تكلفة جدول الصيانة
+  description: توضح هذه الوحدة تكلفه جدول الصيانة
+  ms.date: 02/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7c86403424967dbb69d2124ecb44ed52925a6b10
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071653"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-maintenance-cost.md)]"

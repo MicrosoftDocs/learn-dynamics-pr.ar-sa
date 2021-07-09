@@ -1,0 +1,57 @@
+### YamlMime:Module
+uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops
+metadata:
+  title: تخطيط الكيانات القانونية وتنفيذها في تطبيقات Finance and Operations
+  description: الكيان القانوني هو مؤسسة يتم تعريفها من خلال التسجيل مع سلطة قانونية. يمكن للكيانات القانونية إبرام عقود ويُطلب منها إعداد بيانات تقدم تقارير عن أدائها. يجب عليك تخطيط وتكوين مؤسستك وإنشاء كيانات قانونية كأحد الخطوات الأولى لتنفيذ تطبيقات Finance and Operations.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3d90a4df51d881d37ebb09092c3b4525e4714a95
+  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "6072643"
+title: تخطيط الكيانات القانونية وتنفيذها في تطبيقات Finance and Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  الكيان القانوني هو مؤسسة يتم تعريفها من خلال التسجيل مع سلطة قانونية. يمكن للكيانات القانونية إبرام عقود ويُطلب منها إعداد بيانات تقدم تقارير عن أدائها. يجب عليك تخطيط وتكوين مؤسستك وإنشاء كيانات قانونية كأحد الخطوات الأولى لتنفيذ تطبيقات Finance and Operations.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- يمكنك إنشاء كيان قانوني وإنشاء التسلسلات الرقمية. \n- قم بإنشاء تسلسل رقمي.\n- قم بإنشاء تدرجات المؤسسة الهرمية.\n- قم بتعيين أغراض وسياسات للتدرجات الهرمية.\n- قم بتكوين التقويمات والفترات الزمنية.\n"
+prerequisites: >
+  - المعرفة العامة بـ Microsoft Windows
+
+  - المعرفة العامة بالتنقل الأساسي في تطبيقات Finance and Operations
+iconUrl: /learn/achievements/plan-implement-legal-entities-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+units:
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.1-plan-implement-legal-entities-in-f-and-o-introduction
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.2-create-a-legal-entity
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.3-create-number-sequence
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.4-organizational-hierarchies-and-operating-units
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.5-plan-organizational-hierarchy
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.6-internal-organizations-as-legal-entities-vs-operating-units
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.7-internal-organizations-as-legal-entities-vs-operating-units-cont
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.8-best-practices-modeling-organizations-and-hierarchies
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.9-apply-purposes-and-policies
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.10-distributed-order-management-policy
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.11-configure-calendars
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.13-exercise-configure-a-new-legal-entity
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.14-exercise-create-an-operating-unit
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.15-exercise-create-an-organization-hierarchy
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.16-exercise-set-up-a-number-sequence
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.17-plan-implement-legal-entities-in-f-and-o-quiz
+- learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.18-plan-implement-legal-entities-in-f-and-o-summary
+badge:
+  uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.badge

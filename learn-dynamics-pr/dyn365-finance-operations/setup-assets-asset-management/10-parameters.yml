@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-assets-asset-management.10-parameters
+title: إعداد معلمات إدارة الأصول
+metadata:
+  title: إعداد معلمات إدارة الأصول
+  description: هذه الوحدة تتناول كيفية إعداد معلمات إدارة الأصول
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-finance-operations
+  ms.openlocfilehash: 7164a74fb344a9fc2c2a8d0a77de61cbb4c5f3e9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071357"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-parameters.md)]"

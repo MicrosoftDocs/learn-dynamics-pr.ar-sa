@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-human-resources.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/01/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 56d0608881c8cddb51d8f934bbd7b14747f3df89
+  ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "6072685"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما القيمة التي تقدمها Dynamics 365 Human Resources؟
+    choices:
+    - content: توفر مستوى أعلى من رضا العملاء من خلال مدخل خدمة ذاتية وخيارات الدعم بين النظراء
+      isCorrect: false
+      explanation: رغم أن Dynamics 365 Human Resources توفر خيارات الخدمة الذاتية للمديرين والموظفين، فإنها لا توفر مداخل أو خيارات دعم خارجية موجهة للعملاء. وهذه إحدى ميزات Dynamics 365 Customer Service.
+    - content: عروض مؤتمتة لإدارة الموظفين والمزايا والإجازة والغياب والأداء لتحسين الاحتفاظ بالموظفين ومشاركتهم
+      isCorrect: true
+      explanation: تساعدك Dynamics 365 Human Resources على مشاركة الموظفين والاحتفاظ بهم مع أتمتة مهام الموارد البشرية الشائعة والسماح لك بتوفير المزايا الحديثة ومجموعات التعويضات.
+    - content: وحدة نمطية شاملة لكشف الرواتب مع إعداد تقارير IRS والامتثال لها
+      isCorrect: false
+      explanation: توفر Dynamics 365 Human Resources نظامُا بيئياً للتوسع يسمح لك بالاتصال بموفر كشوف الرواتب المفضل لدى مؤسستك.
+  - content: أي مما يأتي يُعد إحدى ميزات Dynamics 365 Human Resources؟
+    choices:
+    - content: إدارة الإجازة والغياب في Microsoft Teams
+      isCorrect: true
+      explanation: يسمح تطبيق Dynamics 365 Human Resources ‏Teams للموظفين والمديرين بتتبع طلبات الإجازة والغياب وطلبها وإدارتها في Teams.
+    - content: تتبع المشروع واستهلاك التكلفة‬
+      isCorrect: false
+      explanation: يُعد تتبع المشروع واستهلاك التكلفة من ميزات Dynamics 365 Project Service Automation.
+    - content: ترحيل الوظيفة ومدخل التوظيف
+      isCorrect: false
+      explanation: لا توفر Dynamics 365 Human Resources نظاماً أساسياً شاملاً للتوظيف، ولكنها تتكامل بشكل جيد مع أنظمة تتبع مقدمي الطلبات (ATS) مثل LinkedIn Talent Hub.

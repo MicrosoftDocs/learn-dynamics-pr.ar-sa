@@ -1,0 +1,36 @@
+---
+ms.openlocfilehash: f8e18d70849ce56a90e34434787f80632e3f6d3d
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072425"
+---
+<span data-ttu-id="ab8cf-101">تعد SQL Server Reporting Services (SSRS) النظام الأساسي لإعداد التقارير لـ Dynamics AX 2012.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-101">SQL Server Reporting Services (SSRS) is the primary reporting platform for Dynamics AX 2012.</span></span> <span data-ttu-id="ab8cf-102">يتم تشغيل التقارير الافتراضية المعرّفة مسبقاً التي يتم توفيرها مع Dynamics AX على النظام الأساسي SSRS.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-102">The default, predefined reports that are provided with Dynamics AX run on the SSRS platform.</span></span> <span data-ttu-id="ab8cf-103">ومع ذلك، فإن التقارير المحلية لا تقتصر فقط على تقارير SSRS.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-103">However, on-premises reporting is not only limited to SSRS reporting.</span></span> 
+
+<span data-ttu-id="ab8cf-104">تشمل العديد من إمكانات إعداد التقارير التي يمكنك استخدامها مع Dynamics AX 2012ما يلي:</span><span class="sxs-lookup"><span data-stu-id="ab8cf-104">Several reporting capabilities that you might use with Dynamics AX 2012 are:</span></span>
+
+- <span data-ttu-id="ab8cf-105">تقارير SSRS</span><span class="sxs-lookup"><span data-stu-id="ab8cf-105">SSRS reports</span></span> 
+- <span data-ttu-id="ab8cf-106">التقارير المالية باستخدام أداة تقارير الإدارة</span><span class="sxs-lookup"><span data-stu-id="ab8cf-106">Financial reports using Management reporter</span></span> 
+- <span data-ttu-id="ab8cf-107">تقارير SSRS وPower BI على قاعدة بيانات منسوخة</span><span class="sxs-lookup"><span data-stu-id="ab8cf-107">SSRS and Power BI reports on replicated database</span></span> 
+- <span data-ttu-id="ab8cf-108">استعلامات SQL المرتجلة مباشرةً على قاعدة البيانات أو المضمنة في Microsoft Excel</span><span class="sxs-lookup"><span data-stu-id="ab8cf-108">Improvised SQL queries directly on the database or embedded in Microsoft Excel</span></span> 
+- <span data-ttu-id="ab8cf-109">تقارير Power BI باستخدام نموذج بيانات جدولي</span><span class="sxs-lookup"><span data-stu-id="ab8cf-109">Power BI reports using a tabular data model</span></span>
+
+<span data-ttu-id="ab8cf-110">قبل أن تقرر كيفية إنشاء التقارير الخاصة بك في تطبيقات Finance and Operations، ضع في اعتبارك كيفية استخدام هذه التقارير.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-110">Before you decide how to build your reporting in Finance and Operations apps, consider how your reports are used.</span></span> <span data-ttu-id="ab8cf-111">اطرح على نفسك أسئلة، مثل:</span><span class="sxs-lookup"><span data-stu-id="ab8cf-111">Ask yourself questions, such as:</span></span>
+
+- <span data-ttu-id="ab8cf-112">هل يجب طباعة التقرير على الورق؟</span><span class="sxs-lookup"><span data-stu-id="ab8cf-112">Does the report need to be printed on paper?</span></span> 
+- <span data-ttu-id="ab8cf-113">هل يجب إرسال التقرير إلى جهة حكومية في نهاية السنة؟</span><span class="sxs-lookup"><span data-stu-id="ab8cf-113">Does the report need to be submitted to a government agency at year-end?</span></span> 
+
+<span data-ttu-id="ab8cf-114">تأكد من فهمك لاحتياجات التقارير الخاصة بك عند الترقية حتى تتمكن من اتخاذ قرارات مدروسة.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-114">Make sure that you understand your reporting needs when upgrading so that you can make informed decisions.</span></span> 
+
+<span data-ttu-id="ab8cf-115">يمكن وصف الأنواع الثلاثة لنماذج إعداد التقارير التي يمكن استخدامها مع تقارير Dynamics AX 2012 على ثلاث مراحل.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-115">The three types of reporting models that might be used with Dynamics AX 2012 reporting can be described in three stages.</span></span> 
+
+<span data-ttu-id="ab8cf-116">[ ![رسم تخطيطي يوضح المراحل الثلاث التي تمثل الأنواع الثلاثة لنماذج إعداد التقارير.](../media/stages.png) ](../media/stages.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="ab8cf-116">[ ![Diagram showing the three stages representing the three types of reporting models.](../media/stages.png) ](../media/stages.png#lightbox)</span></span>
+
+
+- <span data-ttu-id="ab8cf-117">**المرحلة 1** - تعرض سيناريو إعداد تقارير يتم فيه إنشاء تصميم التقارير بالكامل حول قاعدة بيانات الإنتاج.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-117">**Stage 1** - Shows a reporting scenario where the entire reporting design is built around the production database.</span></span> <span data-ttu-id="ab8cf-118">المرحلة الأولى هي سيناريو أبسط مع الحجم الصغير والبنية الأكثر بساطة.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-118">Stage one is a simpler scenario with little volume and a more simplified architecture.</span></span> <span data-ttu-id="ab8cf-119">AOS هو خادم كائنات Axapta في الرسم التخطيطي أعلاه.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-119">AOS is the Axapta Object Server in the diagram above.</span></span>
+- <span data-ttu-id="ab8cf-120">**المرحلة 2** - تعرض النسخ المتماثل لقاعدة البيانات من قاعدة بيانات AX (AXDB).</span><span class="sxs-lookup"><span data-stu-id="ab8cf-120">**Stage 2** - Shows database replication from AX database (AXDB).</span></span> <span data-ttu-id="ab8cf-121">في هذه المرحلة، يمكنك إحضار مصادر بيانات أخرى، وتشغيل عملية الاستخراج، والتحويل، والتحميل (ETL)، وتنسيق نموذج البيانات الخاص بك الذي تم تحسينه لإعداد التقارير.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-121">In this stage, you might bring in other data sources, run the Extract, Transform, and Load (ETL) process, and curate your own data model that is optimized for reporting.</span></span> <span data-ttu-id="ab8cf-122">وأخيراً، في **المرحلة 2**، ستستخدم أدوات، مثل Power BI، وExcel، وSQL Server Reporting Services، لإنشاء التقارير وخدمتها للمستخدمين.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-122">Finally, in **Stage 2**, you will use tools, such as Power BI, Excel, SQL Server Reporting Services, to build and serve reports to users.</span></span> 
+- <span data-ttu-id="ab8cf-123">**المرحلة 3** - تتضمن المتطلبات المعقدة والحجم الكبير.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-123">**Stage 3** - Includes complex requirements and large volume.</span></span> <span data-ttu-id="ab8cf-124">في **المرحلة 3**، يمكنك استخدام مستودع بيانات يتم ملؤه من قاعدة بيانات منسوخة وعمليات ETL.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-124">In **Stage 3**, you might use a data warehouse that gets populated from replicated database and ETL processes.</span></span> <span data-ttu-id="ab8cf-125">يمكنك أيضاً استخدام نموذج بيانات جدولي أو مكعبات مع SSRS ثم استخدام Power BI، أو Excel، أو SSRS لخدمة التقارير للمستخدمين.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-125">You might also use a tabular data model or cubes with SSRS and then use Power BI, Excel, or SSRS to serve reports to users.</span></span> 
+
+<span data-ttu-id="ab8cf-126">بالنسبة لكل مرحلة من هذه المراحل، يجب أن تكون قادراً على تحويل الاحتياجات والاستخدامات إلى حل سحابي.</span><span class="sxs-lookup"><span data-stu-id="ab8cf-126">For each of these stages, you need to be able to transform the needs and uses into a cloud solution.</span></span> 
+

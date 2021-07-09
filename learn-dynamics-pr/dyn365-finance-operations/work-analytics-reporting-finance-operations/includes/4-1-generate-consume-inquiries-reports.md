@@ -1,0 +1,30 @@
+---
+ms.openlocfilehash: 5d6f0361d8aac0cfa1b0bfd30714e3d8353a517f
+ms.sourcegitcommit: 3833275c8745f85b270c9e80e875d58ac3c482f2
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "6072121"
+---
+<span data-ttu-id="7b84e-101">في تطبيقات Finance and Operations، يمكنك تنفيذ المهام التالية باستخدام التقارير والاستعلامات:</span><span class="sxs-lookup"><span data-stu-id="7b84e-101">In Finance and Operations apps, you can perform the following tasks with reports and inquiries:</span></span>
+
+- <span data-ttu-id="7b84e-102">تصدير تقارير التطبيق كمستندات Word.</span><span class="sxs-lookup"><span data-stu-id="7b84e-102">Export application reports as Word documents.</span></span>
+- <span data-ttu-id="7b84e-103">خيارات التصدير أثناء معاينة المستندات.</span><span class="sxs-lookup"><span data-stu-id="7b84e-103">Export options while previewing documents.</span></span>
+- <span data-ttu-id="7b84e-104">إرسال المستندات إلى طابعات الشبكات أثناء المعاينة عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="7b84e-104">Send documents to network printers while previewing online.</span></span>
+
+## <a name="export-application-reports-as-word-documents"></a><span data-ttu-id="7b84e-105">تصدير تقارير التطبيق كمستندات Word</span><span class="sxs-lookup"><span data-stu-id="7b84e-105">Export application reports as Word documents</span></span>
+<span data-ttu-id="7b84e-106">يمكن للمستخدم إنشاء مستندات قابلة للتحرير باستخدام تعريفات التصميم القائمة على لغة تعريف التقارير (RDL).</span><span class="sxs-lookup"><span data-stu-id="7b84e-106">By using Report Definition Language (RDL) based design definitions, a user can create editable documents.</span></span> <span data-ttu-id="7b84e-107">ويقدم Dynamics 365 حلول محددة خاصة بالتطبيقات تسمح لك بالوصول إلى طرق عرض الأعمال المحددة مسبقاً لبيانات تطبيقات Finance وSupply Chain Management.</span><span class="sxs-lookup"><span data-stu-id="7b84e-107">Dynamics 365 offers specific application solutions that allow you to access predetermined business views of Finance and Supply Chain Management apps data.</span></span> <span data-ttu-id="7b84e-108">وعند الانتهاء، يمكن تصدير البيانات إلى تنسيقات PDF وCSV وتنسيقات Microsoft Office الأخرى.</span><span class="sxs-lookup"><span data-stu-id="7b84e-108">When completed, the data can be exported to PDF, CSV, and other Microsoft Office formats.</span></span> 
+
+<span data-ttu-id="7b84e-109">بالإضافة إلى التنسيقات المذكورة أعلاه، يمكن تحميل التقارير التي تم إنشاؤها باستخدام خدمة مستضافة بالسحابة كمستند Microsoft Word قياسي.</span><span class="sxs-lookup"><span data-stu-id="7b84e-109">In addition to the formats mentioned above, reports created using the cloud-hosted service can be downloaded as a standard Microsoft Word document.</span></span> 
+
+> [!NOTE]
+> <span data-ttu-id="7b84e-110">ينتج عن طلب الحصول على أكثر من تقرير في وقت واحد وجود ملف من نوع ZIP يجب تنزيله وإلغاء ضغطه قبل استخدام مستندات Word.</span><span class="sxs-lookup"><span data-stu-id="7b84e-110">A request for more than one report at a time results in a .ZIP file that must be downloaded and uncompressed before using the Word documents.</span></span>
+
+## <a name="export-options-while-previewing-documents"></a><span data-ttu-id="7b84e-111">خيارات التصدير أثناء معاينة المستندات</span><span class="sxs-lookup"><span data-stu-id="7b84e-111">Export options while previewing documents</span></span>
+<span data-ttu-id="7b84e-112">ونظراً لأن معظم المستخدمين يفضلون عرض مستنداتهم قبل تصديرها، تتوفر خيارات شريط الأدوات على جميع الأجهزة المدعومة، مما يوفر حلاَ بسيطاً وسهل الاستخدام لتصدير المستندات.</span><span class="sxs-lookup"><span data-stu-id="7b84e-112">Because most users prefer to view their documents before exporting them, toolbar options are available on all supported devices, providing a simple and intuitive solution for exporting documents.</span></span> <span data-ttu-id="7b84e-113">وللمزيد من المعلومات حول معاينة PDF، راجع [معاينة مستندات PDF باستخدام عارض PDF](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/preview-pdf-documents/?azure-portal=true).</span><span class="sxs-lookup"><span data-stu-id="7b84e-113">For more information on PDF previewing, see [Preview PDF documents using a PDF viewer](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/preview-pdf-documents/?azure-portal=true).</span></span>
+
+<span data-ttu-id="7b84e-114">وبخلاف عارض التقارير، الذي استخدم HTML لعرض المستندات قبل تصديرها، فإن إجراءات شريط الأدوات الجديدة تُحوِّل المستندات إلى تنسيق يضمن تناسقاً أفضل عند التنزيل.</span><span class="sxs-lookup"><span data-stu-id="7b84e-114">Unlike the Report Viewer, which used HTML to display documents before exporting them, the new toolbar actions convert documents into a format that ensures better consistency when downloaded.</span></span>
+
+## <a name="send-documents-to-network-printers-while-previewing-online"></a><span data-ttu-id="7b84e-115">إرسال المستندات إلى طابعات الشبكات أثناء المعاينة عبر الإنترنت</span><span class="sxs-lookup"><span data-stu-id="7b84e-115">Send documents to network printers while previewing online</span></span>
+<span data-ttu-id="7b84e-116">وبالإضافة إلى الطباعة على الأجهزة المحلية، يمكن للمستخدمين أيضاً تحديد إرسال المستندات مباشرةً إلى طابعات الشبكات المدعومة من Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="7b84e-116">In addition to printing on local devices, users can also select to send documents directly to Dynamics 365-supported network printers.</span></span> <span data-ttu-id="7b84e-117">يساعد تسهيل وصول المستخدمين إلى خيارات الطباعة الشبكية المباشرة الشركات في تعزيز الكفاءة من خلال طباعة التقارير المتصلة بالطابعات القائمة على الشبكات حتى عند العمل عن بُعد من أجهزتهم المحمولة أو أي جهاز كمبيوتر متصل بالإنترنت.</span><span class="sxs-lookup"><span data-stu-id="7b84e-117">Making direct networking printing options easily accessible to users helps companies enhance efficiency by printing reports connected to network-based printers even when working remotely from their mobile devices or any computer connected to the internet.</span></span> 
+

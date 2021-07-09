@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-extensibility-finance-operations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5aef7881e415c67f38f8b71143f64568fefc89f8
+  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6072535"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من العبارات التالية غير صحيح فيما يتعلق بالنماذج؟
+    choices:
+    - content: يمكنك إنشاء نموذج يحتوي على عناصر نموذج جديدة فقط
+      isCorrect: false
+      explanation: هذه العبارة صحيحة.
+    - content: يتم تجميع النماذج برمجياً في تجميع منفصل خاص بهم.
+      isCorrect: false
+      explanation: هذه العبارة صحيحة.
+    - content: يمكنك استخدام النماذج لتراكب التعليمات البرمجية الأساسية.
+      isCorrect: true
+      explanation: هذه هي العبارة غير الصحيحة. ستستخدم نماذج لتوسيع التطبيق.
+  - content: ما النموذج الذي يحتوي على المستوي الأقل من عناصر المستوي التي يتم الاتصال بها باستخدام kernel؟
+    choices:
+    - content: مجموعة التطبيق
+      isCorrect: false
+      explanation: تحتوي مجموعة التطبيقات على عناصر خاصة بالتطبيق.
+    - content: النظام الأساسي للتطبيق
+      isCorrect: true
+      explanation: يحتوي النظام الأساسي للتطبيق على المستوي الأقل من عناصر المستوي التي يتم الاتصال بها باستخدام kernel.
+    - content: أساس التطبيق
+      isCorrect: false
+      explanation: يحتوي أساس التطبيق على وظائف الإطار التي تتم مشاركتها بواسطة كافة التطبيقات.
+  - content: يجب إرسال طلب قابلية التوسعة. أي من العبارات التالية غير صحيح فيما يتعلق بطلبات قابلية التوسعة؟
+    choices:
+    - content: يجب عليك تسجيل الطلب مباشرهً قبل العرض المباشر.
+      isCorrect: false
+      explanation: يجب تسجيل الطلبات في أقرب وقت ممكن.
+    - content: يجب أن تصف سيناريو الأعمال الخاص بك في الطلب.
+      isCorrect: true
+      explanation: صف سيناريو الأعمال الخاص بك في الطلب. يجب عليك التأكد من أنك تذكر سيناريو الطلب بوضوح.
+    - content: يمكنك تسجيل طلب قابلية للتوسعة في Azure DevOps
+      isCorrect: false
+      explanation: ستقوم بتسجيل طلب قابلية توسعة في خدمات دوره الحياة.

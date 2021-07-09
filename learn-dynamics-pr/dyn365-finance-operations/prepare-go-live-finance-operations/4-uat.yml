@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.4-perform-user-acceptance-testing
+title: إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك
+metadata:
+  title: إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك
+  description: تعرّف على إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك في تطبيقات Finance and Operations.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
+  ms.openlocfilehash: 764454a0064a3314bc355ac879bfbcfa20ec30ca
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071260"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-perform-user-acceptance-testing.md)]

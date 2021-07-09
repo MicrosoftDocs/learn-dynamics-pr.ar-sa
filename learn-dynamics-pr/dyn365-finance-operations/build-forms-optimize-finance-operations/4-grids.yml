@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.4-grids
+title: إضافة الشبكات والحقول والمجموعات إلى نموذج
+metadata:
+  title: إضافة الشبكات والحقول والمجموعات إلى نموذج
+  description: تعرّف على كيفية إضافة الشبكات والحقول والمجموعات إلى أحد النماذج في تطبيقات Finance and Operations.
+  ms.date: 07/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 447bacfe9d5a6fe94fceb7aff07d91826dea08a4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071441"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-grids.md)]

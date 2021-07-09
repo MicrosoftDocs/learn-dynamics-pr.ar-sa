@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.preventive-reactive-asset-management.02-3-schedule-plan
+title: جدولة خطط الصيانة
+metadata:
+  title: جدولة خطط الصيانة
+  description: تصف هذه الوحدة كيفية جدولة خطط الصيانة
+  ms.date: 02/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5259e8587c424aa7d3a03a58b737743dc539f93c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071322"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-3-schedule-plan.md)]"
