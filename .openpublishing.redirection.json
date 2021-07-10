@@ -11579,6 +11579,46 @@
       "source_path": "learn-dynamics-pr/wwl-dynamics/recognize-dynamics-365-security/10-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-marketing/",
       "redirect_document_id": false
-    }
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/index.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/1-introduction.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/2-data-management-framework.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/3-office-365-integration.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/4-integration-with-3rd-party-apps.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/5-business-events.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/6-knowledge-check.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/7-summary.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    }    
   ]
 }
