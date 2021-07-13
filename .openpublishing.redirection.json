@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-clients/1-outlook-client.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/manage-clients/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-business-central/produce-items-warehouse/4-exercise.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/produce-items-warehouse",
       "redirect_document_id": false
