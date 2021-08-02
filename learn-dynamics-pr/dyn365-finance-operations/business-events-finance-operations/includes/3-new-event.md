@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0bb0e63905dfbd561270642386aae5bc8a3bc26c
-ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+ms.openlocfilehash: 3d74842add40aed5b4805ab1522a0d6b54f47c82
+ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "6072024"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "6112099"
 ---
 لتنفيذ حدث عمل جديد، تحتاج إلى إنشاء عقد، وإنشاء الحدث، ثم إضافة رمز لإرسال الحدث.
 
@@ -47,7 +47,7 @@ ms.locfileid: "6072024"
 4. أضف أسلوب `buildContract`. يجب تزيين الأسلوب باستخدام السمتين `Wrappable(true)` و`Replaceable(true)`، وسيتم استدعاؤه فقط عند تمكين حدث أعمال لإحدى الشركات.
 
     ```xpp
-   [Replaceable(true)]
+   [Wrappable(true)], [Replaceable(true)]
    public BusinessEventsContract buildContract()
    {
       return

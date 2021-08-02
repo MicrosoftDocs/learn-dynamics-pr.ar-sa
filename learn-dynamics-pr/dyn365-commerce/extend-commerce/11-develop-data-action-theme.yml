@@ -4,16 +4,16 @@ title: تطوير إجراءات البيانات والسمات في التجا
 metadata:
   title: تطوير إجراءات البيانات والسمات في التجارة الإلكترونية
   description: تعرّف على كيفية إنشاء إجراء بيانات مخصص وسمة مخصصة في موقع Commerce عبر الإنترنت في Dynamics 365 Commerce.
-  ms.date: 09/04/2020
+  ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 73b3b783cebcf760d66743cde2a9b0bef023bcd4
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 5896457306626e129f9a9fac4428ee3540821dfb
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070080"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225252"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-develop-data-action-theme.md)]"

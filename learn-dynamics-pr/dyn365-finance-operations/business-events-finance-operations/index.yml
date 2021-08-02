@@ -3,17 +3,17 @@ uid: learn-dynamics.business-events-dynamics-365-finance-operations
 metadata:
   title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
   description: توفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال.
-  ms.date: 07/10/2019
+  ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 87485d1d089c17673a1475e2ab7a80be3fc1dadb
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 0aac62e9796e4469044a15f97d41e87883e9c9f7
+  ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072230"
+  ms.lasthandoff: 05/27/2021
+  ms.locfileid: "6112081"
 title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n"

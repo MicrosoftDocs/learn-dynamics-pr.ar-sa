@@ -1,23 +1,14 @@
 ---
-ms.openlocfilehash: fda161929b9823bd13b0cb14d0f87b0114a96f54
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ea5bdcd228788e89593c940bba126c3367eaddab
+ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071462"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "6112093"
 ---
-شاهد كل مقطع من مقاطع الفيديو هذه للتعرف على كيفية العمل مع إضفاء الطابع الشخصي على تطبيقات Finance and Operations:
+شاهد الفيديو التالي للتعرف على كيفية التعامل مع التخصيص في وحدة إدارة النظام الخاصة بتطبيقات Finance and Operations:
 
-&nbsp;
+
      
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4ag6m] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWEZG4] 
 
-&nbsp;
-
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4aiKa] 
-
-&nbsp;
-
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4a5L6]  

@@ -4,16 +4,16 @@ title: Dataverse
 metadata:
   title: Dataverse
   description: تعرّف على Dataverse.
-  ms.date: 5/19/2021
+  ms.date: 5/20/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-project-operations
-  ms.openlocfilehash: 1dd97abbfb1de7154d2e66558aa502d31f653f77
-  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+  ms.openlocfilehash: 5e6602039eb091791bb849aaa4c7f071a1258dc9
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/20/2021
-  ms.locfileid: "6083806"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225669"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-dataverse.md)]"

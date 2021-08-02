@@ -4,16 +4,16 @@ title: تهيئة البيانات الأولية في Commerce
 metadata:
   title: تهيئة البيانات الأولية في Commerce
   description: تعرف على كيفية تهيئة البيانات الأولية في Dynamics 365 Commerce.
-  ms.date: 07/15/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 77ac275d36d50e37cd7082b8b8c2564e5dc4df28
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: d37b75fbf24871a0a5c33faa00d8f1a95168cb17
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070346"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226461"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-initialize-seed-data.md)]"

@@ -4,16 +4,16 @@ title: تكوين معلمات Commerce
 metadata:
   title: تكوين معلمات Commerce
   description: تعرف على كيفية تكوين المعلمات في Dynamics 365 Commerce.
-  ms.date: 07/15/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: c6958fd58150f3ac3a80ab63e98a1d729e335bf8
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: f36be0eca8ab384544e772e401942fb383b51958
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070345"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226456"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-configure-parameters.md)]"

@@ -4,16 +4,16 @@ title: مثيل الصفحة
 metadata:
   title: مثيل الصفحة
   description: تعرف على كيفية التعامل مع مثيل الصفحة في أداة إنشاء الموقع Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 04/07/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 92dfe9f7515e55f96cf79c04a93deb783756b516
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a6e0a24cbbe0103c1010f2a0ed17cbde1cd4ec87
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070372"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225137"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-4-page-instance.md)]"

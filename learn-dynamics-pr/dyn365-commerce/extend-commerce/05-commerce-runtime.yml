@@ -4,16 +4,16 @@ title: ملحقات Commerce Runtime
 metadata:
   title: ملحقات Commerce Runtime
   description: يمكنك مراجعة ملحقات Commerce Runtime (CRT) في Dynamics 365 Commerce.
-  ms.date: 09/04/2020
+  ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 39612767477a403a99685a1b0c5757d8835cbf0f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 796b5204fb8794e51fcc02b81a59e9da32dda938
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070082"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226570"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-commerce-runtime.md)]"

@@ -4,16 +4,16 @@ title: استخدام تقارير الأسعار
 metadata:
   title: استخدام تقارير الأسعار
   description: تعرف على كيفية استخدام تقارير الأسعار في Dynamics 365 Commerce.
-  ms.date: 07/15/2020
+  ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 924de2335944ae20e0f61148c34e2d0ee828359d
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: e89e1d43b78d10882d9a2c1180385caf6c70f06f
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070059"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226384"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-price-reports.md)]"

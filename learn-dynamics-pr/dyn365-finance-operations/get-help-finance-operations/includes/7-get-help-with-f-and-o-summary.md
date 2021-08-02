@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: ab440f1bbbca213f05b56f3646b3724ffd2c1f00
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 8d3abb6a5e70ad108f843158eea68cdfa8f18bd9
+ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071979"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6185162"
 ---
 تعلمت في هذه الوحدة طرقاً يمكنك من خلالها معرفة المزيد حول تطبيقات Finance and Operations.
 
-إذا كنت ترغب في معرفة المزيد حول تطبيقات Dynamics 365 الأخرى، نوصي بالاطلاع على مسار تعليم القواعد الأساسية لـ [Microsoft Dynamics 365](https://docs.microsoft.com/learn/paths/dynamics-365-fundamentals//?azure-portal=true) حيث يمكنك أيضاً معرفة المزيد حول مفاهيم السحابة وPower Platform.
+إذا كنت ترغب في معرفة المزيد حول تطبيقات Dynamics 365 الأخرى، نوصي بالاطلاع على مسار تعليم القواعد الأساسية لـ [Microsoft Dynamics 365](https://docs.microsoft.com/learn/paths/dynamics-365-fundamentals//?azure-portal=true) حيث يمكنك أيضاً معرفة المزيد حول مفاهيم السحابة وMicrosoft Power Platform.
 
 هناك العديد من الموارد الأخرى المتاحة لك. 
 

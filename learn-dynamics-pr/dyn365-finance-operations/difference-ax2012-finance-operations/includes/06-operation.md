@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0925adac5fe378592802d51ca0bd5ffb6df68ddd
-ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+ms.openlocfilehash: 51b1337765c503e4a5538ba6295cc35736be41f7
+ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6072203"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6185247"
 ---
 تناقش الأقسام الآتية الاختلافات التشغيلية بين AX ‏2012 وتطبيقات Finance and Operations. 
 
@@ -17,7 +17,7 @@ ms.locfileid: "6072203"
 
 عند الحصول على اشتراكك لتطبيقات Finance and Operations، ستبدأ عملية الإعداد للخدمة من خلال Lifecycle Services. وتشبه هذه العملية الحصول على وسائط التثبيت ومفاتيح الترخيص ومواد التثبيت لـ AX ‏2012. 
 
-بعد ذلك، ستقوم بالتوزيع. يمكنك توزيع التطبيق بسرعة على Azure. ومن المهم مراعاة أنه يمكن توزيع تطبيقات Finance and Operations على مجموعة فرعية من مناطق Azure. للحصول على المزيد من المعلومات، راجع [توفُر Dynamics 365 وPower Platform](https://dynamics.microsoft.com/geographic-availability/?azure-portal=true). على عكس AX‏ 2012، لا يلزمك إجراء تخطيط الأجهزة أو إكمال خطوات التثبيت. 
+بعد ذلك، ستقوم بالتوزيع. يمكنك توزيع التطبيق بسرعة على Azure. ومن المهم مراعاة أنه يمكن توزيع تطبيقات Finance and Operations على مجموعة فرعية من مناطق Azure. للحصول على المزيد من المعلومات، راجع [توفُر Dynamics 365 وMicrosoft Power Platform](https://dynamics.microsoft.com/geographic-availability/?azure-portal=true). على عكس AX‏ 2012، لا يلزمك إجراء تخطيط الأجهزة أو إكمال خطوات التثبيت. 
 
 كما يتم تبسيط الخدمة، كالقدرة على اكتشاف التحديثات وإصلاحات الأخطاء، وذلك باستخدام Lifecycle Services. ومقارنةً بـ AX‏ 2012، لم تعد بحاجة إلى استخدام الخطوات اليدوية لاكتشاف الإصلاحات العاجلة وتثبيتها. 
 

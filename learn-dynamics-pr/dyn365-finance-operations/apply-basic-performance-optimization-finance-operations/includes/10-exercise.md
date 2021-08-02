@@ -1,32 +1,32 @@
 ---
-ms.openlocfilehash: bf3c65d487e950d6a341bc3082cf206fd09ed977
-ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+ms.openlocfilehash: a1ac9344d173229a1fb8a4273175b603af952c27
+ms.sourcegitcommit: 967ea3943f0c52cfbc7029bcfdc2e8f149283e54
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "6072561"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6217979"
 ---
 
 ## <a name="scenario"></a>السيناريو
-تم تكليف مطور تطبيقات Finance and Operations بإنشاء مهمة لتحديث تفاوت "السعر" إلى 2 بالمائة لجميع الأصناف الموجودة في مجموعة منتجات التلفزيون.
+بصفتك مطور تطبيقات Finance and Operations يمكنك استخدام فئات قابلة للتشغيل لاختبار الكود الخاص بك. في هذا التمرين المعملي، ستقوم بإنشاء مشروع جديد في Visual Studio، وكتابة فئة قابلة للتشغيل، ثم تشغيل الكود داخل التطبيق للتأكد من أنه يعمل كما هو متوقع.
 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد
 
 1. قم بتصغير نافذة Internet Explorer. 
-2. افتح Visual Studio
+2. افتح Visual Studio.
 3. حدد **نعم** في النافذة **هل ترغب في السماح لهذا التطبيق بإجراء تغييرات على الجهاز؟**.
 4. افتح القائمة **ملف** وحدد **جديد > مشروع**.
 5. في مربع الحوار **مشروع جديد**، تأكد من تحديد **Dynamics 365** في الجزء الأيسر ضمن **مثبت**.
-6. في الجزء الأوسط، حدد **العمليات المالية**.
-7. قم بتسمية المشروع **PriceToleranceUpdateJob**.
+6. في الجزء الأوسط، حدد **Finance and Operations**.
+7. اسم المشروع **RunnableClass**.
 8. حدد **موافق**.
-9. لضمان الرجوع إلى مجموعة التطبيقات الصحيحة، انتقل إلى قائمة **Dynamics 365**
+9. للتأكد من الإشارة إلى مجموعة التطبيقات الصحيحة، انتقل إلى قائمة **Dynamics 365**
 10. حدد **إدارة النماذج > تحديث معلمات النموذج**
 11. حدد نموذج **FleetManagement** من القائمة المنسدلة **اسم النموذج**. 
-12. حدد **التالي**، ثم تأكد من تحديد **ApplicationSuite** في القائمة المنسدلة **الحزم المشار إليها**. 
+12. حدد **التالي**،ثم تأكد من تحديد **ApplicationSuite** في القائمة المنسدلة **تحديد الحزم المرجعية**. 
 13. حدد **التالي** ثم **إنهاء**.
-14. افتح القائمة **Dynamics 365** في الشريط.
+14. افتح قائمة **Dynamics 365** في الشريط مرة أخرى.
 15. حدد **الخيارات**.
 16. ضمن عُقدة **Dynamics 365** في الجزء الأيمن، حدد **المشاريع**.
 17. تأكد من تحديد مربعي الاختيار الخاصتين بكل من **تنظيم المشروعات حسب نوع العنصر** و **ومزامنة قاعدة البيانات في البناء الخاص بالمشروع الذي تم إنشاؤه حديثاً**.
@@ -35,35 +35,41 @@ ms.locfileid: "6072561"
 
 ## <a name="create-a-runnable-class"></a>إنشاء فئة قابلة للتشغيل 
 
-1. في النافذة **مستكشف الحلول**، انقر بزر الماوس الأيمن فوق مشروع **PriceToleranceUpdateJob**.
+1. في نافذة **مستكشف الحلول** انقر بزر الماوس الأيمن فوق مشروع **RunnableClass**.
 2. حدد **إضافة > عنصر جديد**.
 3. في الجزء الأيمن، حدد **عناصر Dynamics 365** ثم حدد **الرمز**.
 4. في الجزء الأوسط، حدد **فئة قابلة للتشغيل (مهمة)**.
-5. أدخل **PriceToleranceUpdate** في الحقل **الاسم**.
+5. أدخل **SampleClass** في حقل **الاسم**.
 6. حدد **إضافة**.
-7. سيتم الآن فتح الفئة القابلة للتشغيل **PriceToleranceUpdate** في النافذة "مصمم العناصر".
-8. قم بإزالة الكود الموجود في النافذة "مصمم العناصر"، ثم قم بإدخال الكود الآتي سطراً بسطر:
+7. سيتم الآن فتح فئة التشغيل **SampleClass** في نافذة مصمم الأصناف.
+8. قم بإزالة الكود الموجود في نافذة **Element designer** ثم أدخل الرمز التالي سطراً بسطر. لاحظ أن الطريقة الرئيسية قد تمت إضافتها بالفعل منذ أن حددت فئة قابلة للتشغيل. 
    
    ```xpp
-   class PriceToleranceUpdate
+   class SampleClass
    {
-        Public static void main(Args _args)
+    /// <summary>
+    /// Runs the class with the specified arguments.
+    /// </summary>
+    /// >param name = "_args">The specified arguments.</param>
+
+    Public static void main(Args _args)
         {
-        InventTable inventTable;
-        InventItemGroupItem inventItemGroupItem;
-                UPDATE_RECORDSET inventTable
-                SETTING
-                     ItemPriceToleranceGroupId = "2%"
-                JOIN inventItemGroupItem
-                      Where inventItemGroupItem.Itemid == inventTable.itemid
-                      && inventItemGroupItem.ItemGroupId == 'Television';
+            FMCustomer fmcustomers;
+
+        fmcustomers.FirstName = "Jane";
+        fmcustomers.LastName = "Doe";
+        fmcustomers.Email = "jane.doe@contoso.com";
+        fmcustomers.insert();
+
+        Info("Your record has been inserted.");
        }
    }
    ```
-9. احفظ الفئة القابلة للتشغيل.
-10. انقر بزر الماوس الأيمن فوق مشروع **PriceToleranceUpdateJob** وحدد **بناء**.
-11. انقر بزر الماوس الأيمن فوق الفئة القابلة للتشغيل **PriceToleranceUpdate** وحدد **تعيين ككائن بدء التشغيل**.
-12. من شريط الأدوات، حدد الخيار **تصحيح الأخطاء > البدء دون تصحيح الأخطاء** لتشغيل الفئة.
+9. احفظ فئة التشغيل.
+10. انقر بزر الماوس الأيمن فوق مشروع **RunnableClass** وحدد **إنشاء**.
+11. انقر بزر الماوس الأيمن فوق **Sample Class** فئة قابلة للتشغيل وحدد **تعيين ككائن بدء التشغيل**.
+12. من شريط الأدوات، حدد الخيار **تصحيح > البدء بدون تصحيح الأخطاء** لتشغيل الفصل.
+13. سيظهر عداء الفصل في نافذة المتصفح، عند تنفيذ الرمز، وسيظهر Infolog مع **تم إدراج السجل الخاص بك.**.
 
 
 

@@ -3,17 +3,17 @@ uid: learn-dynamics.create-classes-dynamics-365-finance-operations
 metadata:
   title: إنشاء فئات في تطبيقات Finance and Operations
   description: تُعتبر الفئات عبارة عن كتل من التعليمات البرمجية التي تحتوي على بيانات وأساليب. عند تطوير تطبيقات Finance and Operations، ستستخدم لغة X++ لإنشاء فئات جديدة.
-  ms.date: 07/16/2019
+  ms.date: 06/03/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1e183ec144ddd6a611a77adfcc818b27872c8443
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 529a3ada67ceaa63931b5e70877aacc1fd67d92e
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072195"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6185235"
 title: إنشاء فئات في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتُعتبر الفئات عبارة عن كتل من التعليمات البرمجية التي تحتوي على بيانات وأساليب. عند تطوير تطبيقات Finance and Operations، ستستخدم لغة X++ لإنشاء فئات جديدة. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على استخدام الفئات في تطوير تطبيقات Finance and Operations.\n- إنشاء فئة جديدة تمت إضافتها إلى مشروع.\n- إضافة أساليب إلى فئة.\n- راجع أنواع الأساليب التي يمكن استخدامها في فئة.\n"

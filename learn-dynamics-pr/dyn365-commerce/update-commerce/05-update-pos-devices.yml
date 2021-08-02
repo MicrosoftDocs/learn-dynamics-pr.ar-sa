@@ -4,16 +4,16 @@ title: تحديث أجهزة نقطة البيع
 metadata:
   title: تحديث أجهزة نقطة البيع
   description: تعرف على كيفية تحديث أجهزة نقطة البيع.
-  ms.date: 07/17/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: f73eb4f941c4faba87559d23b05892b0b104f3d2
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 8d878a4a0bea5d0440dba014ade12268cd31384b
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070153"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6224992"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-update-pos-devices.md)]"

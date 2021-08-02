@@ -4,16 +4,16 @@ title: إنشاء نقطة البيع وشحن أمر العميل
 metadata:
   title: إنشاء نقطة البيع وشحن أمر العميل
   description: تعرف على كيفية إنشاء نقطة بيع لاستلام وشحن طلب العميل
-  ms.date: 03/25/2021
+  ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: ab1181e2f63244f27f23e3dafa7e2f41823e4b9a
-  ms.sourcegitcommit: f126707f3cd62c9afe92b7822710824f46c75cb3
+  ms.openlocfilehash: 70372eb97b3e0871df7d86db7b10bc2d4d02a5a6
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/25/2021
-  ms.locfileid: "6070465"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225330"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-pick-up-ship.md)]"

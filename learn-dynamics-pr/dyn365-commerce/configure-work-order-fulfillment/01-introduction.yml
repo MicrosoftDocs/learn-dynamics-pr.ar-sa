@@ -4,16 +4,16 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: تقدم هذه الوحدة إعداد التكوين والعمل من خلال تنفيذ الأمر في الوحدة النمطية للحل Dynamics 365 Commerce
-  ms.date: 07/10/2020
+  ms.date: 04/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 257e4ec840387afc9cbae267741a9131e296dd67
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a5b46d399c094b1cf9300afe0e084f8520f3e518
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070120"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226326"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

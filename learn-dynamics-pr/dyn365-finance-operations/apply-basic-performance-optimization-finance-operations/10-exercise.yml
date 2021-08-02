@@ -5,16 +5,16 @@ labId: 59573
 metadata:
   title: معمل - تحديث العديد من المنتجات في الوقت نفسه باستخدام ‎X‎ + +‎
   description: تدرب على تحديث منتجات متعددة في الوقت نفسه باستخدام X + +‎ في تطبيقات Finance and Operations.
-  ms.date: 04/21/2021
+  ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 80ba86dc298beab4a6ff5eb1d5d450c1aa8bfd7b
-  ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+  ms.openlocfilehash: 692b55281eeac1576ded0c995111b7a02e662b83
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/22/2021
-  ms.locfileid: "6072560"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6185835"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

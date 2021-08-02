@@ -4,16 +4,16 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة حول تحديث الوحدة النمطية للحل Dynamics 365 Commerce
-  ms.date: 07/17/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 21b230e54394f0640be6ec21ae383ef16087587e
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 90782b57583cba102a2f8fd13cf2d070c4c749c0
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070159"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225028"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.hr-leave-absence.9-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: b2cfbd4c71d846c9f174bd681c15877bc082f48b
+  ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/09/2021
+  ms.locfileid: "6214419"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: كيف يمكنك إعداد ساعات العطلة لمنع الموظفين من الإعلان عنها كأيام عطلة مدفوعة الأجر؟
+    choices:
+    - content: لا يمكنك إنجاز هذه المهمة. يجب على الموظفين دائماً الإعلان عن العطلات كأيام عطلة مدفوعة الأجر.
+      isCorrect: false
+      explanation: يمكنك إعداد العطلات المدفوعة الأجر حتى لا يضطر الموظفون إلى تضمينها في الإجازة المطلوبة.
+    - content: قم بإعداد العطل المدفوعة في علامة التبويب التقويم في صفحة معلمات الإجازة والغياب.
+      isCorrect: false
+      explanation: علامة التبويب التقويم هو المكان الذي تقوم فيه بتكوين إعدادات عرض التقويم لخدمة الموظف الذاتية.
+    - content: قم بتكوين ساعات الإجازة في تقويم وقت العمل في مساحة عمل إدارة المؤسسة.
+      isCorrect: true
+      explanation: يمكنك إعداد العطلات المدفوعة في تقويم وقت العمل.
+  - content: ما الذي يجب عليك القيام به لمنع الموظفين من قضاء وقت العطلة أثناء إجازة غياب طويلة؟
+    choices:
+    - content: لا شيء يجب القيام به. لا تزال الإجازة مدفوعة الأجر تتراكم.
+      isCorrect: false
+      explanation: يمكنك إعداد مساحة عمل الإجازة والغياب لضمان عدم حصول الموظفين على إجازة مدفوعة الأجر لأنواع معينة من الإجازات.
+    - content: انتقل إلى سجل الموظف في Human Resources وأوقف استحقاق الإجازة.
+      isCorrect: true
+      explanation: يمكنك استخدام الخيار تعليق الإجازة في سجل الموظف لتعيين تاريخ بدء وانتهاء لتعليق استحقاق أنواع الإجازات المحددة.
+    - content: إلغاء تسجيل الموظف من خطة الإجازة مدفوعة الأجر.
+      isCorrect: false
+      explanation: لا يتعين عليك إلغاء تسجيل موظف بالكامل من خطة إجازة لتجنب تراكم الإجازة مدفوعة الأجر.
+  - content: إلى أين ترسل طلب إجازة؟
+    choices:
+    - content: أرسل طلب إجازة في مساحة عمل الخدمة الذاتية للموظف في Human Resources أو من خلال تطبيق Dynamics 365 Human Resources في Teams.
+      isCorrect: true
+      explanation: يمكنك إرسال طلبات الإجازات في الخدمة الذاتية للموظف أو باستخدام تطبيق Dynamics 365 Human Resources في Teams. في تطبيق Teams، يمكنك إرسال الطلبات باستخدام الروبوت أو باستخدام علامة التبويب "الإجازة".
+    - content: يمكنك فقط إرسال طلبات الإجازات في مساحة عمل الخدمة الذاتية للموظف في Human Resources.
+      isCorrect: false
+      explanation: يمكنك إرسال طلبات الإجازات في الخدمة الذاتية للموظف أو باستخدام تطبيق Dynamics 365 Human Resources في Teams.
+    - content: يمكنك إرسال طلب إجازة فقط في مساحة عمل الإجازة والغياب.
+      isCorrect: false
+      explanation: يمكنك إرسال طلبات الإجازات في الخدمة الذاتية للموظف أو باستخدام تطبيق Dynamics 365 Human Resources في Teams.

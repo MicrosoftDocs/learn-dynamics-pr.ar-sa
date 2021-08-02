@@ -4,16 +4,16 @@ title: 'تدريب: إنشاء وحدة جديدة'
 metadata:
   title: 'تدريب: إنشاء وحدة جديدة'
   description: تدرب على إنشاء وحدة جديدة في Dynamics 365 Commerce.
-  ms.date: 09/04/2020
+  ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 4b567024e9a6eebc589d44490f9e20201ee68ade
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 0a4d77a7f8e3de667aece141116f78c31a2e112d
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070078"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226558"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-exercise-3.md)]"

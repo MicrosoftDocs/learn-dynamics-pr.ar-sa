@@ -4,16 +4,16 @@ title: تحرير أمر عميل موجود
 metadata:
   title: تحرير أمر عميل موجود
   description: التعرف على كيفية تحرير أمر عميل موجود في نقطة بيع.
-  ms.date: 04/21/2021
+  ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 9b99fa2e293b8461ce19f58bbe78e17912b027f6
-  ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
+  ms.openlocfilehash: b5bad6195598895f79f5e46087348c5c5add9277
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/21/2021
-  ms.locfileid: "6070501"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225300"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05a-edit.md)]"

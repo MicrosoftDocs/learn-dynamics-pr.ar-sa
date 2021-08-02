@@ -1,17 +1,17 @@
 ---
-ms.openlocfilehash: e245355f3402faf6b74741b82c80a518427bca01
-ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+ms.openlocfilehash: b7c90a16187226b6a85c4718d816dcf4a8f14ae2
+ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6072204"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6185265"
 ---
 تم عمل تكامل بين تطبيقات Microsoft Azure مع Finance and Operations للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. تقوم الأقسام التالية بمراجعة مفاهيم Microsoft Azure وغيرها من مفاهيم السحابة التي يجب وضعها في الاعتبار عند الترقية إلى حل سحابة Dynamics 365.
 
 ## <a name="microsoft-azure-considerations"></a>اعتبارات Microsoft Azure
 خذ بعين الاعتبار المفاهيم التالية عند العمل مع Microsoft Azure:
 
-- **تحديد مركز بيانات Azure** - ضع في اعتبارك الموضع الذي تريد توزيع مركز بياناتك إليه باستخدام Azure والجوانب الأكثر منطقية لمؤسستك. للحصول على المزيد من المعلومات، راجع [توفُر Dynamics 365 وPower Platform](https://dynamics.microsoft.com/geographic-availability/?azure-portal=true). 
+- **تحديد مركز بيانات Azure** - ضع في اعتبارك الموضع الذي تريد توزيع مركز بياناتك إليه باستخدام Azure والجوانب الأكثر منطقية لمؤسستك. للحصول على المزيد من المعلومات، راجع [توفُر Dynamics 365 وMicrosoft Power Platform](https://dynamics.microsoft.com/geographic-availability/?azure-portal=true). 
 
     يجب أن تتضمن الاعتبارات الإضافية لاختيار مركز البيانات الخاص بك الاعتبارات القانونية والجغرافية، وسيادة البيانات، واختبار سرعة Azure (زمن الانتقال)، وMicrosoft Azure ExpressRoute. ومن المهم مراعاة أنه يمكن توزيع تطبيقات Finance and Operations على مجموعة فرعية من مناطق Azure. لمزيد من المعلومات، راجع القسم **توافر الخدمة في مناطق Azure** في صفحة [نظرة عامة حول التوزيع عبر السحابة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/cloud-deployment-overview?azure-portal=true&toc=/dynamics365/finance/toc.json#service-availability-in-azure-regions). 
 
@@ -22,7 +22,7 @@ ms.locfileid: "6072204"
 ## <a name="azure-regions"></a>مناطق Azure
 يمكن توزيع تطبيقات Finance and Operations في مجموعة فرعية من مراكز بيانات Microsoft Azure باستخدام Microsoft Dynamics 365 Lifecycle Services. يتوفر Azure بشكل عام في مراكز البيانات والمواقع الجغرافية حول العالم. باستخدام تطبيقات Finance and Operations، يمكن للعملاء تحديد المنطقة أو مركز البيانات الذي سيتم فيه تخزين بيانات العملاء. قد تقوم Microsoft بنسخ البيانات إلى مناطق أخرى لضمان استمرارية البيانات، ولكنك لن تقوم بنسخ بيانات العميل أو نقلها خارج الموقع الجغرافي. 
 
-للحصول على المزيد من المعلومات، راجع [توفُر Dynamics 365 وPower Platform](https://dynamics.microsoft.com/geographic-availability/?azure-portal=true).
+للحصول على المزيد من المعلومات، راجع [توفُر Dynamics 365 وMicrosoft Power Platform](https://dynamics.microsoft.com/geographic-availability/?azure-portal=true).
 
 بعد أن تفكر في الوقت الذي تريد فيه أن يكون لديك مركز بيانات Azure، يجب أن تفكر في موقع مرافق الإنتاج أو المستودع أو المستخدمين أو معظم قاعدة عملائك. يجب تحديد عوامل الموقع هذه قبل بدء التنفيذ. يمكنك تغيير المناطق لاحقاً في المشروع، على الرغم من أن هذا الجهد كبير ويمكن أن يشمل وقت التعطل عن العمل.
 
@@ -43,23 +43,23 @@ ms.locfileid: "6072204"
 
 لمزيد من المعلومات، راجع [حماية الهوية والوصول باستخدام Azure Active Directory](https://docs.microsoft.com/learn/paths/m365-identity//?azure-portal=true).
 
-## <a name="power-platform"></a>Power Platform
-تقدم Microsoft cloud العديد من المفاهيم الجديدة التي تقدم طرقاً جديدة لتصميم الحل. يحتوي كل من Dynamics 365، وPower Platform، وAzure على نظام بنائي منسق خارج تطبيقات Finance and Operations التي يمكنك الاستفادة منها لتوسيع الحل والتكامل معه بسلاسة.
+## <a name="microsoft-power-platform"></a>Microsoft Power Platform
+تقدم Microsoft cloud العديد من المفاهيم الجديدة التي تقدم طرقاً جديدة لتصميم الحل. يحتوي كل من Dynamics 365، وMicrosoft Power Platform، وAzure على نظام بنائي منسق خارج تطبيقات Finance and Operations التي يمكنك الاستفادة منها لتوسيع الحل والتكامل معه بسلاسة.
 
 تعد Microsoft Power Platform مجموعة منتجات تقدم حلول أعمال مبتكرة عبر نظام أساسي متكامل بسلاسة. يسمح كل من Power BI، وPower Apps، وPower Automate، وPower Virtual Agents لأي شركة بتحليل وتصور أداء الأعمال في الوقت الفعلي، وإنشاء تطبيقات مخصصة بسرعة، وأتمتة مهام سير العمل، ودمج إمكانات الذكاء الاصطناعي.
 
-يوفر Power Platform واجهة بأكواد قليلة لأي مستخدم لإنشاء تطبيقات مخصصة بسرعة مع توفير أدوات فعالة للمطورين المحترفين في الوقت نفسه. يتيح لك هذا التوفير إمكانية دمج الحلول المبتكرة عبر Azure، وMicrosoft 365، وDynamics 365، والتطبيقات المستقلة. عند تقاطع هذه المنتجات يكمن التحول الرقمي، الذي يمنح العميل القدرة على الابتكار في أي مكان مع إطلاق العنان للقيمة في كل مكان.
+يوفر Microsoft Power Platform واجهة بأكواد قليلة لأي مستخدم لإنشاء تطبيقات مخصصة بسرعة مع توفير أدوات فعالة للمطورين المحترفين في الوقت نفسه. يتيح لك هذا التوفير إمكانية دمج الحلول المبتكرة عبر Azure، وMicrosoft 365، وDynamics 365، والتطبيقات المستقلة. عند تقاطع هذه المنتجات يكمن التحول الرقمي، الذي يمنح العميل القدرة على الابتكار في أي مكان مع إطلاق العنان للقيمة في كل مكان.
 
 ## <a name="dataverse"></a>Dataverse
-تمثل Microsoft Dataverse خدمة بيانات قائمة على السحابة بعدد قليل من الأكواد وشبكة تطبيقات تتيح لك استخدام الاتصال والأمان المحسّن لخدمات Microsoft. يتصل Dataverse بكافة واجهات Power Platform بحيث يمكن إدارة الشركة وأتمتتها وتحسينها بالكامل. باستخدام الكيانات والحقول القياسية والقدرة على تحديد العلاقات بين بياناتك، تم تصميم Dataverse للحصول على حلول فعالة وقابلة للتوسعة. 
+تمثل Microsoft Dataverse خدمة بيانات قائمة على السحابة بعدد قليل من الأكواد وشبكة تطبيقات تتيح لك استخدام الاتصال والأمان المحسّن لخدمات Microsoft. يتصل Dataverse بكافة واجهات Microsoft Power Platform بحيث يمكن إدارة الشركة وأتمتتها وتحسينها بالكامل. باستخدام الكيانات والحقول القياسية والقدرة على تحديد العلاقات بين بياناتك، تم تصميم Dataverse للحصول على حلول فعالة وقابلة للتوسعة. 
 
 تم تصميم Dataverse للاتصال بتطبيقات Finance and Operations. يمكنك استخدام الأدوات المضمنة، مثل الكتابة المزدوجة، التي تمكنك من مشاركة البيانات عبر تطبيقات Dynamics 365 بسلاسة وسرعة. 
 
 بالإضافة إلى ميزة الكتابة المزدوجة، تتوفر جميع كيانات OData في تطبيقات Finance and Operations ككيانات ظاهرية في Dataverse. الآن، يمكنك إعداد تجارب في تطبيقات مشاركة العملاء باستخدام البيانات مباشرةً من تطبيقات Finance and Operations مع الإمكانية الكاملة للإنشاء والقراءة والتحديث والكتابة، دون الحاجة إلى النسخ إلى Dataverse. يمكنك استخدام مداخل Power Apps لإنشاء مواقع ويب خارجية تمكِّن سيناريوهات التعاون لعمليات الأعمال في تطبيقات Finance and Operations.
 
-توفر الكيانات الظاهرية آلية لك لاستخدام Power Platform مع تطبيقات Finance and Operations دون الحاجة إلى نسخ البيانات فعلياً إلى Dataverse. استخدم هذا الدليل لتحديد ما إذا كانت المتطلبات ستحتاج إلى كتابة مزدوجة أو تكامل بيانات أو كيانات ظاهرية. الكيانات الظاهرية وأداة دمج البيانات / الكتابة المزدوجة هي تقنيات تكميلية، مما يعني أنه يمكن استخدامها معاً، إذا لزم الأمر.
+توفر الكيانات الظاهرية آلية لك لاستخدام Microsoft Power Platform مع تطبيقات Finance and Operations دون الحاجة إلى نسخ البيانات فعلياً إلى Dataverse. استخدم هذا الدليل لتحديد ما إذا كانت المتطلبات ستحتاج إلى كتابة مزدوجة أو تكامل بيانات أو كيانات ظاهرية. الكيانات الظاهرية وأداة دمج البيانات / الكتابة المزدوجة هي تقنيات تكميلية، مما يعني أنه يمكن استخدامها معاً، إذا لزم الأمر.
 
-## <a name="azure-plus-power-platform-equals-no-limits"></a>لا حدود لاستخدامات Power Platform وAzure معاً
-تواصل Microsoft تقديم الخدمات داخل Azure وPower Platform، مما سيؤدي إلى تمكين الأشخاص والمؤسسات للقيام بالمزيد. علاوة على ذلك، لن تواجه أي حدود مع استخدام Power Apps لأنها تتمتع باتصال واسع النطاق في Azure لخدمات الحوسبة أو واجهة برمجة التطبيقات (API)، مثل Azure Functions أو إدارة واجهة برمجة التطبيقات (API) أو Azure Kubernetes Service ‏(AKS). يمكن أيضاً لـ Power Apps الاتصال بكافة خدمات بيانات Azure، مثل Azure SQL أو Azure Cosmos DB أو مستودع بيانات SQL. بالإضافة إلى ذلك، تعمل جميع أدوات التطوير القياسية. يمكنك استخدام Visual Studio لكتابة المكونات الإضافية، وكتابة الأكواد لكتابة عناصر التحكم المخصصة، واستخدام Azure DevOps في التوزيع.
+## <a name="azure-plus-microsoft-power-platform-equals-no-limits"></a>لا حدود لاستخدامات Microsoft Power Platform وAzure معاً
+تواصل Microsoft تقديم الخدمات داخل Azure وMicrosoft Power Platform، مما سيؤدي إلى تمكين الأشخاص والمؤسسات للقيام بالمزيد. علاوة على ذلك، لن تواجه أي حدود مع استخدام Power Apps لأنها تتمتع باتصال واسع النطاق في Azure لخدمات الحوسبة أو واجهة برمجة التطبيقات (API)، مثل Azure Functions أو إدارة واجهة برمجة التطبيقات (API) أو Azure Kubernetes Service ‏(AKS). يمكن أيضاً لـ Power Apps الاتصال بكافة خدمات بيانات Azure، مثل Azure SQL أو Azure Cosmos DB أو مستودع بيانات SQL. بالإضافة إلى ذلك، تعمل جميع أدوات التطوير القياسية. يمكنك استخدام Visual Studio لكتابة المكونات الإضافية، وكتابة الأكواد لكتابة عناصر التحكم المخصصة، واستخدام Azure DevOps في التوزيع.
  
-[ ![رسم تخطيطي يوضح كيفية الاتصال الذي يوفره Power Platform وAzure.](../media/no-limits-c.png) ](../media/no-limits-c.png#lightbox)
+[ ![رسم تخطيطي يوضح كيفية الاتصال الذي يوفره Microsoft Power Platform وAzure.](../media/no-limits-c.png) ](../media/no-limits-c.png#lightbox)

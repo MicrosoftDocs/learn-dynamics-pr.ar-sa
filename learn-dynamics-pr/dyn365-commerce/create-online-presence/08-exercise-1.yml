@@ -4,16 +4,16 @@ title: تمرين - تحديث صفحة ونشرها في موقع تجارة إ
 metadata:
   title: تمرين - تحديث صفحة ونشرها في موقع تجارة إلكترونية
   description: ستقوم في هذا التمرين بتحديث صفحة ونشرها في موقع تجارة إلكترونية.
-  ms.date: 07/17/2020
+  ms.date: 04/07/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: fc348828839bed21c643267cb55f935352119c2f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: ea677e0be25f801aede8fd079e0ebc70cfb9bd0b
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070303"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225603"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-exercise-1.md)]"

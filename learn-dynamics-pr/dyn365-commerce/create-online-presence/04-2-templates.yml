@@ -4,16 +4,16 @@ title: القوالب
 metadata:
   title: القوالب
   description: تعرف على كيفية استخدام القوالب في أداة إنشاء الموقع Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 04/07/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 5b21838f31e669e97a78d07af63235fc37b1d7c2
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b2273f53e2b1f082d22e5554ea15a5900cdd760c
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070377"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225149"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-2-templates.md)]"

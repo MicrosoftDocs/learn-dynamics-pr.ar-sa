@@ -4,16 +4,16 @@ title: وساطة الأمر
 metadata:
   title: وساطة الأمر
   description: تصف هذه الوحدة وساطة الأمر في Dynamics 365 Commerce
-  ms.date: 07/10/2020
+  ms.date: 04/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 0c5ca843de05cfd31ee4e50d0c7102880f58e11f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: c7e8ebb7b5ae6215fede9e5f69b6c6b27c898ef4
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070055"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226302"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-order-brokering.md)]"

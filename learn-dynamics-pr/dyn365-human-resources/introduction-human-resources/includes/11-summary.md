@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: ccb5c53f36f616f9809d7ce4b8151e0b412d6dab
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: c8c3f179aa191670d6b87ee4340a2d3386e3bed7
+ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072683"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6185462"
 ---
 تشرح هذه الوحدة النمطية كيفية استخدام Dynamics 365 Human Resources لإنشاء مساحة عمل يمكن لكل من الموظفين والمؤسسة الاستفادة منها. لقد قمت بمراجعة كيفية قيام الموارد البشرية بالمساعدة في تحسين البرامج مثل التعويض والمغادرة والغياب والامتثال والرواتب.
 
-يمكن ان يؤدي Dynamics 365 Human Resources إلى تمكين موظفيك ومساعدتك على بناء فرق العمل بنجاح وتحديث العاملين. يتم إنشاء الموارد البشرية على خدمات السحابة من Microsoft Azure وPower Platform.
+يمكن ان يؤدي Dynamics 365 Human Resources إلى تمكين موظفيك ومساعدتك على بناء فرق العمل بنجاح وتحديث العاملين. يتم إنشاء الموارد البشرية على خدمات السحابة من Microsoft Azure وMicrosoft Power Platform.
 
 ## <a name="resources"></a>الموارد
 

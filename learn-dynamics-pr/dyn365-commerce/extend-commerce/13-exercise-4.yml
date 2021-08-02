@@ -4,16 +4,16 @@ title: 'تدريب: إنشاء تكوين حزمة ونشرها'
 metadata:
   title: 'تدريب: إنشاء تكوين حزمة ونشرها'
   description: تدرب على إنشاء تكوين حزمة ونشرها في Dynamics 365 Commerce.
-  ms.date: 09/04/2020
+  ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 0b7658d02db1a19e8bd2b05abed0b6bae858b09f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a7500ed87d9665d9f1ef4764d7567df984135960
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070076"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225246"
 durationInMinutes: 60
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-exercise-4.md)]"

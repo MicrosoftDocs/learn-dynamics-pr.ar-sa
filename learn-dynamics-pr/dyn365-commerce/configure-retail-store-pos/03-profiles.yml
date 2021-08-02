@@ -4,16 +4,16 @@ title: إنشاء الملفات التعريف الوظيفية والمرئي�
 metadata:
   title: إنشاء الملفات التعريف الوظيفية والمرئية
   description: تعرف على كيفية إنشاء ملفات التعريف الوظيفية والمرئية Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 04/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: bc1acabe663ba08fe4fd7cb5257aca42610fb7cf
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 0c66b87579987f387525bb6e982baa14b17a045b
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070320"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225394"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-profiles.md)]"

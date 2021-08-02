@@ -4,16 +4,16 @@ title: تمرين - إنشاء مشغل CRT جديد
 metadata:
   title: تمرين - إنشاء مشغل CRT جديد
   description: ممارسة إنشاء مشغل CRT جديد في Dynamics 365 Commerce.
-  ms.date: 09/04/2020
+  ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 2fecc651c60312baa7bbe530b6d15de58f50c837
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 5d824652f0e7ab4e3fdef663ca8ad3fad8f2b486
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070087"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226564"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-exercise-1.md)]"

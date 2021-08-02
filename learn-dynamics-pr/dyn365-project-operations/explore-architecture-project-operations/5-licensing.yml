@@ -4,16 +4,16 @@ title: ترخيص Dynamics 365
 metadata:
   title: ترخيص Dynamics 365
   description: تعرّف على ترخيص Dynamics 365.
-  ms.date: 5/19/2021
+  ms.date: 5/20/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-project-operations
-  ms.openlocfilehash: b1e988717b4b5b7bbd16530de67e321462541ec9
-  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+  ms.openlocfilehash: 2585c9a2365edede09ad39a6a3bfdecdf9ec133e
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/20/2021
-  ms.locfileid: "6083800"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225663"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-licensing.md)]"

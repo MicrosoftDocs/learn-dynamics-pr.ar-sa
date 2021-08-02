@@ -4,16 +4,16 @@ title: 'تدريب: إقران هوية مستخدم'
 metadata:
   title: 'تدريب: إقران هوية مستخدم'
   description: تدرب على إقران ربط مستخدم للتأكد من أن العامل يمكنه تنشيط جهاز نقطة البيع في المتجر ضمن Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 04/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: bfa09094ec1322ff021d78cf39401fa2e747d64e
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b54badc7702d588910a54b01569f8b17f50a0bd4
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070131"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225555"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-1.md)]"

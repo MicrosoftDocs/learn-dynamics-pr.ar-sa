@@ -4,16 +4,16 @@ title: أنواع توصيات المنتجات
 metadata:
   title: أنواع توصيات المنتجات
   description: توضح هذه الوحدة أنواع توصيات المنتج في Dynamics 365 Commerce
-  ms.date: 06/15/2020
+  ms.date: 04/28/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learing-d365-commerce
-  ms.openlocfilehash: 6a22b25b368707255ca40b973158ebc5f47e5027
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a660270e0ff7778e16784ff08352b2d3a01b0ebe
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070260"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226202"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-types.md)]"

@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.hr-leave-absence
+metadata:
+  title: إدارة الإجازة والغياب في Dynamics 365 Human Resources
+  description: يساعدك Microsoft Dynamics 365 Human Resources على تقديم مزايا إجازة تنافسية ومرنة لعمالك. تعرف على كيفية إنشاء خطط الإجازات وإدارة طلبات الإجازات وتوفير تجربة إجازة الخدمة الذاتية.
+  ms.date: 06/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: dcd183d8c64e5857f91055a16f62ea1943602299
+  ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/09/2021
+  ms.locfileid: "6214412"
+title: إدارة الإجازة والغياب في Dynamics 365 Human Resources
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء خطط الإجازات وإدارة طلبات الإجازات في Dynamics 365 Human Resources.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف إمكانات مساحة عمل الإجازة والغياب في Human Resources.\n- تعرف على كيفية تكوين معلمات الإجازة والغياب.\n- تعرف على كيفية إنشاء خطة إجازة وغياب في Human Resources.\n- تعرف على كيفية تعيين الموظفين إلى خطة إجازة وغياب.\n- إنشاء برنامج حيث يمكن للموظفين شراء إجازة وبيعها.\n- تعرف على كيفية إدارة طلبات الإجازات.\n- تعرف على كيفية استخدام تطبيق Dynamics 365 Human Resources في Microsoft Teams.\n"
+prerequisites: المعرفة العامة للمفاهيم وممارسات Human Resources
+iconUrl: /learn/achievements/hr-leave-absence.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-human-resources
+units:
+- learn-dynamics.hr-leave-absence.1-introduction
+- learn-dynamics.hr-leave-absence.2-set-up-leave-absence
+- learn-dynamics.hr-leave-absence.3-create-plan
+- learn-dynamics.hr-leave-absence.4-accrual
+- learn-dynamics.hr-leave-absence.5-buy-sell-leave
+- learn-dynamics.hr-leave-absence.6-manage-leave-absence
+- learn-dynamics.hr-leave-absence.7-exercise-plan
+- learn-dynamics.hr-leave-absence.8-exercise-enroll
+- learn-dynamics.hr-leave-absence.9-check
+- learn-dynamics.hr-leave-absence.10-summary
+badge:
+  uid: learn-dynamics.hr-leave-absence.badge

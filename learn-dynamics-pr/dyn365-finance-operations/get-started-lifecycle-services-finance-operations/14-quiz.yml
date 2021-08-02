@@ -3,19 +3,19 @@ uid: learn-dynamics.get-started-with-lcs.14-get-started-with-lcs-quiz
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 02/07/2020
+  ms.date: 05/25/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 2a9a98f915baa3bd073eec5a3b29dacbd6eed9cd
-  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+  ms.openlocfilehash: 270a87230ceee394d04882135b26854b08695fa9
+  ms.sourcegitcommit: 3324107dda65bf4fa3fa471a0c110a135dbfadd2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/04/2021
-  ms.locfileid: "6072296"
+  ms.lasthandoff: 05/25/2021
+  ms.locfileid: "6097061"
 title: اختبر معلوماتك
-durationInMinutes: 9
+durationInMinutes: 16
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
@@ -85,4 +85,46 @@ quiz:
       explanation: لا يكون .docx هو نوع الملف المستخدم لحفظ تسجيل مهام كتسجيل مطور.
     - content: .txt
       isCorrect: false
-      explanation: لا يكون .txt هو نوع الملف المستخدم لحفظ تسجيل مهام كتسجيل مطور.
+      explanation: .txt ليس نوع الملف المستخدم لحفظ مهمة تسجيل كتسجيل مطور.
+  - content: ما الذي يتيح لك إنشاء وعرض وتعديل تدفقات العمليات القياسية داخل Finance and Operations تطبيقات؟
+    choices:
+    - content: أداة تكوين عمليات الأعمال (BPM)
+      isCorrect: true
+      explanation: يتيح لك أداة تكوين عمليات الأعمال (BPM) إنشاء تدفقات العملية القياسية وعرضها وتعديلها داخل Finance and Operations تطبيقات. تقوم BPM بتوحيد تدفقات العملية والتوثيق واستخدامها طوال دورة حياة التنفيذ.
+    - content: مسجل المهام
+      isCorrect: false
+      explanation: مسجل المهام هو أداة يمكنك استخدامها لتسجيل الإجراءات التي تتخذها في واجهة مستخدم المنتج (UI).
+    - content: حزمة قابلة للنشر
+      isCorrect: false
+      explanation: الحزمة القابلة للنشر هي وحدة نشر يمكن تطبيقها على أي Finance and Operations بيئة تطبيقات.
+    - content: التكوين ومدير البيانات
+      isCorrect: false
+      explanation: يتيح لك مدير التكوين والبيانات نسخ التكوين من مثيل إلى آخر.
+  - content: أين ستبحث عن الحلول الحالية والحلول للمشكلات المعروفة في Finance and Operations تطبيقات؟
+    choices:
+    - content: أدلة المهام
+      isCorrect: false
+      explanation: دليل المهام عبارة عن تجربة تفاعلية خاضعة للرقابة وموجهة تقودك خلال خطوات مهمة أو عملية تجارية.
+    - content: مكتبة الأصول المشتركة
+      isCorrect: false
+      explanation: تستخدم Microsoft وشركاؤها مكتبة الأصول المشتركة لمشاركة الأصول عبر العديد من المستأجرين والمشاريع والبيئات في Lifecycle Services.
+    - content: إدارة الحلول
+      isCorrect: false
+      explanation: إدارة الحلول عبارة عن مجموعة من الأدوات، مثل حزم البرامج القابلة للنشر، والشعارات، والتقارير المخصصة، التي يمكن تطبيقها على مشروع جديد، لذلك عندما يتم نشر البيئة، ستتضمن جميع العناصر الأثرية
+    - content: بحث عن قضية
+      isCorrect: true
+      explanation: يساعدك البحث عن المشكلات في العثور على الحلول والحلول الحالية للمشكلات المعروفة في Finance and Operations تطبيقات. يمكنك استخدام البحث عن المشكلات للبحث عن مشكلات المنتج وتحديد ما إذا كان قد تم حل المشكلة أم أنها مفتوحة أم بها حل بديل.
+  - content: ما الأداة التي ستستخدمها لنشر Microsoft Dynamics بيئات على Microsoft Azure؟
+    choices:
+    - content: أداة إعداد المشروع
+      isCorrect: false
+      explanation: أداة Project onboarding هي أداة خطوة بخطوة لتكوين إعدادات Lifecycle Services الأساسية اللازمة لبدء مشروع Lifecycle Services الخاص بك.
+    - content: البيئات المستضافة على السحابة
+      isCorrect: true
+      explanation: البيئات المستضافة على السحابة هي أداة يمكنك استخدامها لنشر Microsoft Dynamics بيئات على Microsoft Azure.
+    - content: منهجيات
+      isCorrect: false
+      explanation: توفر المنهجيات أداة يمكنك استخدامها لضمان مشاريع تنفيذ أكثر قابلية للتكرار ويمكن التنبؤ بها.
+    - content: حزمة البرامج القابلة للنشر
+      isCorrect: false
+      explanation: تعتبر حزمة البرامج القابلة للنشر أحد أنواع الأصول. يمثل نوع الأصل هذا جميع الحزم المستخدمة لتحديث بيئة بأحدث مجموعة من التحديثات.

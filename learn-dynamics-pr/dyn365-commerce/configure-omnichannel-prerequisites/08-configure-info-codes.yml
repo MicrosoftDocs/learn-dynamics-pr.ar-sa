@@ -4,16 +4,16 @@ title: تكوين أكواد المعلومات
 metadata:
   title: تكوين أكواد المعلومات
   description: تعرف على كيفية تكوين أكواد المعلومات في Dynamics 365 Commerce.
-  ms.date: 07/15/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 2d3046c89c7c0c81fa4dd607a74cc42d298a5220
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: ce52a78aa159c3381727f9aa7e8bf2ca88a364c9
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070362"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226426"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-configure-info-codes.md)]"

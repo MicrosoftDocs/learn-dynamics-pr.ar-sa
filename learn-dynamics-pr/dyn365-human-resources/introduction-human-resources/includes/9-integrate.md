@@ -1,17 +1,17 @@
 ---
-ms.openlocfilehash: 0e59d3c2b3fa3ca6fef7ad0088b4080ffb8a045d
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: a3ed99c7734e15040f2314006cf4d0d178903e5a
+ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072678"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "6185156"
 ---
 يتكامل Dynamics 365 Human Resources مع Microsoft 365 وغيرها من أنظمة الموارد البشرية الأكثر استخداماً، بما في ذلك كشوف المرتبات وإدارة المواهب والتوظيف وLinkedIn لمركزة برامج الموارد البشرية الخاصة بك.
 
 > [!div class="mx-imgBorder"]
 > [![رسم توضيحي للنظام الأساسي لـ Dynamics 365.](../media/platform-c.png)](../media/platform-c.png#lightbox)
 
-## <a name="create-solutions-with-power-platform"></a>إنشاء حلول باستخدام Power Platform
+## <a name="create-solutions-with-microsoft-power-platform"></a>إنشاء حلول باستخدام Microsoft Power Platform
 
 باستخدام Microsoft Power Platform، يمكنك إنشاء حلول باستخدام الموارد البشرية ومن أجلها لتلبية الاحتياجات الفريدة لمؤسستك.
 
