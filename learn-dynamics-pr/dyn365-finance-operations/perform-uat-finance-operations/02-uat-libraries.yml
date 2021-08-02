@@ -4,18 +4,18 @@ title: إنشاء مكتبات اختبار قبول المستخدم
 metadata:
   title: إنشاء مكتبات اختبار قبول المستخدم
   description: تعرف على كيفية إنشاء مكتبات اختبار قبول المستخدم باستخدام تسجيلات المهام ومكتبة BPM في تطبيقات Finance and Operations.
-  ms.date: 04/05/2019
+  ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/using-task-guides-and-bpm-to-create-user-acceptance-tests
-  ms.openlocfilehash: a930bb2d98c231c12baa959ed129389646327660
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b5345fad568f398a5adfc45118270a1621d54d46
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071522"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257028"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

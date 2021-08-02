@@ -4,17 +4,17 @@ title: إضافة فئة إلى مشروع
 metadata:
   title: إضافة فئة إلى مشروع
   description: تعرف على كيفية إضافة فئة إلى مشروع في تطبيقات Finance and Operations.
-  ms.date: 07/16/2019
+  ms.date: 06/03/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3a18b1289d19fdd40c904edc47aec0c1dbb837fa
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 0db0af7dc618726c4dafea51e486e96211202e09
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071925"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257706"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

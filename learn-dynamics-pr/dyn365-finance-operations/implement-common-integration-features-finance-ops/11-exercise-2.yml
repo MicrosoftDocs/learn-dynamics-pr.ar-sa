@@ -5,16 +5,16 @@ labId: 64197
 metadata:
   title: المعمل - استخدام مصمم مصنف Excel
   description: مارس استخدام مصمم مصنف Excel في تطبيقات Finance and Operations.
-  ms.date: 05/06/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 6addc2e12f87261d41c0c7e01f2b0b1d51398d85
-  ms.sourcegitcommit: 604c633dd0ef93dcc60ff5cc956d9ea1ec728f22
+  ms.openlocfilehash: 9377166c7d1f8d85a1cc5c8220825268cc842796
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/29/2020
-  ms.locfileid: "6072029"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256614"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/11-exercise-excel-workbook-designer.md)] \n[!include[](../includes/standalone-lab-end.md)]"

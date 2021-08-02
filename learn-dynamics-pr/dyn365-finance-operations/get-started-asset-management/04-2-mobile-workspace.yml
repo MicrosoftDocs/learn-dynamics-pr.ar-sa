@@ -4,16 +4,16 @@ title: تثبيت مساحة العمل المحمولة لإدارة الأصو
 metadata:
   title: تثبيت مساحة العمل المحمولة لإدارة الأصول
   description: توضح هذه الوحدة كيفية تثبيت مساحة عمل الأجهزة المحمولة لإدارة الأصول
-  ms.date: 02/04/2020
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: b7698f7a159a0a714163b32325fd487f6fcc46cb
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 02c5bf6e822986ce0dbd805925e65e3730c69c44
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071742"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255129"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-2-mobile-workspace.md)]"

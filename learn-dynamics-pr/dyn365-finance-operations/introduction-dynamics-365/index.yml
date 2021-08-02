@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.wwl.introduction-dynamics-365
+metadata:
+  title: مقدمة إلى Microsoft Dynamics ‏365
+  description: مقدمة إلى Microsoft Dynamics ‏365
+  ms.date: 03/05/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: e8d5dc6b4e5dabfbfa833b527591550f1b9f0541
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446842"
+title: مقدمة إلى Microsoft Dynamics ‏365
+summary: يُحدث Dynamics 365 ثورة في CRM وERP من خلال تطبيق الذكاء على جميع أشكال البيانات. فهو يمكن المؤسسات من التطور من قرارات الأعمال التفاعلية إلى الرؤى الاستباقية التي تسمح لموظفيك بتسريع نتائج الأعمال.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - اكتشف تطبيقات Dynamics 365.
+
+  - التعرف على قيمة الأعمال في تطبيقات Dynamics 365 وكيف أنها تدعم التحول الرقمي.
+
+  - فهم دور الذكاء الاصطناعي والواقع المختلط في Dynamics.
+prerequisites: ''
+iconUrl: /learn/achievements/introduction-to-microsoft-dynamics-365.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.wwl.introduction-dynamics-365.introduction
+- learn-dynamics.wwl.introduction-dynamics-365.digital-transformation-business-transformation
+- learn-dynamics.wwl.introduction-dynamics-365.microsoft-business-applications
+- learn-dynamics.wwl.introduction-dynamics-365.artificial-intelligence
+- learn-dynamics.wwl.introduction-dynamics-365.mixed-reality
+- learn-dynamics.wwl.introduction-dynamics-365.knowledge-check
+- learn-dynamics.wwl.introduction-dynamics-365.summary
+badge:
+  uid: learn-dynamics.wwl.introduction-dynamics-365.badge

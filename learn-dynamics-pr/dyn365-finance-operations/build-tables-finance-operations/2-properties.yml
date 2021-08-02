@@ -4,17 +4,17 @@ title: تعبئة خصائص الجدول والحقل
 metadata:
   title: تعبئة خصائص الجدول والحقل
   description: تعرف على كيفية تعبئة خصائص الجدول والحقل في تطبيقات Finance and Operations.
-  ms.date: 06/24/2019
+  ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 028fa8216d13be86be1cd00240facdcb17630b52
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: d21a0b13c50aadcb9704bd62f2a10b93b1327d80
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6072009"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256283"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

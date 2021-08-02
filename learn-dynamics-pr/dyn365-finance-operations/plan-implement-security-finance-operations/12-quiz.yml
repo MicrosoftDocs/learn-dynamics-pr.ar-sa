@@ -3,17 +3,17 @@ uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.12-p
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 02/18/2019
+  ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 6b2a553846edcbdfba99ca2336a20c7504c51954
-  ms.sourcegitcommit: 3187888623499a3f582eb5557bd468f4e8c40546
+  ms.openlocfilehash: 9fbe89efb0de52d4c6c726770cb601d089f4ae39
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/31/2020
-  ms.locfileid: "6072042"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255857"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:

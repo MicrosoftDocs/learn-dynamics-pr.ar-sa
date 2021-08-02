@@ -4,17 +4,17 @@ title: وحدات التخصيص
 metadata:
   title: وحدات التخصيص
   description: تعرف على نماذج التخصيص في إطار عمل التوسيع في تطبيقات Finance and Operations.
-  ms.date: 07/04/2019
+  ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: e970147444d77a3b6446d7676a90e67b9cc500f3
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: fb74e707ee4245603dd05fcbce8e8f46fd19efca
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071868"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6254600"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

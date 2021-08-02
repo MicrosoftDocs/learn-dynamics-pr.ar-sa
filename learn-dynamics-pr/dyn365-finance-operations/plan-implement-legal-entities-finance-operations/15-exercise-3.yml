@@ -5,16 +5,16 @@ labId: 74813
 metadata:
   title: المعمل - إنشاء تدرج هرمي لمؤسسة
   description: مارس إنشاء تدرج هرمي للمؤسسة في تطبيقات Finance and Operations.
-  ms.date: 06/23/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2bf4f83cab7449c582ca76193bef8c511aa0d4dc
-  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.openlocfilehash: 0d95a110945fa6c2df7d05b5a843bf14ef36eb08
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/30/2020
-  ms.locfileid: "6072035"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256494"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/15-exercise-create-organization-hierarchy.md)] \n[!include[](../includes/non-final-lab-end.md)]"

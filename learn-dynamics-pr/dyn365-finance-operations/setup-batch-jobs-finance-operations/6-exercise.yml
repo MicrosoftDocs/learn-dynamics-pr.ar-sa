@@ -5,17 +5,17 @@ labId: 64188
 metadata:
   title: المعمل-العمل مع وظائف الدُفعة وإعداد التنبيهات
   description: تدرب على العمل مع وظائف الدُفعة وإعداد التنبيهات في تطبيقات Finance and Operations.
-  ms.date: 04/22/2020
+  ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 054fdca7745af96cbe9402fc8dee87499693327e
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 2811e2471c9a0c0759139851720b18c0f0aec0bb
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071638"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253111"
 durationInMinutes: 25
 content: >-
   [!include[](../includes/unit-banner.md)]

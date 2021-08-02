@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.wwl.introduction-dynamics-365.mixed-reality
+title: الواقع المختلط
+metadata:
+  title: الواقع المختلط
+  description: الواقع المختلط
+  ms.date: 03/05/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 70d28144b6e84524660bc49a41df973b6a1beab3
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446835"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/5-mixed-reality.md)]'

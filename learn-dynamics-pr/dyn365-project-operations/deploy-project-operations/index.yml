@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.deploy-project-operations
+metadata:
+  title: نشر سيناريوهات Dynamics 365 Project Operations
+  description: تدعم Microsoft Dynamics 365 Project Operations خيارات نشر متعددة لعملاء Dynamics 365 الجدد والحاليين.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 8f0102ddf449aa799f473b065a2a67106cde37a7
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446599"
+title: نشر سيناريوهات Dynamics 365 Project Operations
+summary: "[!include[](../includes/module-banner.md)] \nيدعم Microsoft Dynamics 365 Project Operations خيارات نشر متعددة لتتطابق مع متطلباتك. سواء كنت من عملاء Dynamics 365 الحاليين أو الجدد، بإمكان Project Operations دعم احتياجاتك.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- نشر Dynamics 365 Project Operations لسيناريوهات المنتجات غير المخزنة أو المورد.\n- نشر Dynamics 365 Project Operations لسيناريوهات النشر الخفيف.\n- نشر Dynamics 365 Project Operations لسيناريوهات أوامر الإنتاج أو المنتجات المخزنة.\n- تكوين خرائط جدول ثنائية الكتابة وتشغيلها.\n"
+prerequisites: معرفة عامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365، ومعرفة كيفية استخدام تطبيقات Dynamics 365.
+iconUrl: /learn/achievements/deploy-project-operations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-project-operations
+units:
+- learn-dynamics.deploy-project-operations.1-introduction
+- learn-dynamics.deploy-project-operations.2-dual-write
+- learn-dynamics.deploy-project-operations.3-resource-non-stocked
+- learn-dynamics.deploy-project-operations.4-exercise
+- learn-dynamics.deploy-project-operations.5-lite-deployment
+- learn-dynamics.deploy-project-operations.6-stocked-production-based
+- learn-dynamics.deploy-project-operations.7-exercise
+- learn-dynamics.deploy-project-operations.8-exercise
+- learn-dynamics.deploy-project-operations.9-check
+- learn-dynamics.deploy-project-operations.10-summary
+badge:
+  uid: learn-dynamics.deploy-project-operations.badge

@@ -4,17 +4,17 @@ title: أفضل الممارسات لنمذجة المؤسسات والتدرج�
 metadata:
   title: أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية
   description: تصف هذه الوحدة أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية في تطبيقات Finance and Operations.
-  ms.date: 02/28/2019
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 872492768ed598bc5004670554387a1daed78c69
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: fbdf5bdd35b34eeb837383ca505d11bc22fd173f
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071172"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256440"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

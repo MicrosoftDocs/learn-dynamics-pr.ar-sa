@@ -3,17 +3,17 @@ uid: learn.wwl.explore-microsoft-dynamics-365-finance
 metadata:
   title: تعلُّم أساسيات Microsoft Dynamics 365 Finance
   description: تعلُّم أساسيات Microsoft Dynamics 365 Finance
-  ms.date: 03/04/2021
+  ms.date: 06/28/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 376ec655702348a86f6b458cd5ca6fc1d13b450b
-  ms.sourcegitcommit: e89d827732cdd3cc30cf06ddd86ab3bc0fb19a2b
+  ms.openlocfilehash: b10e23819e117448ecf6dccebfee57e05fb334a5
+  ms.sourcegitcommit: 25999e53fa21290493ff5e287874d99bceeddbac
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/04/2021
-  ms.locfileid: "6074555"
+  ms.lasthandoff: 06/28/2021
+  ms.locfileid: "6309417"
 title: تعلُّم أساسيات Microsoft Dynamics 365 Finance
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.

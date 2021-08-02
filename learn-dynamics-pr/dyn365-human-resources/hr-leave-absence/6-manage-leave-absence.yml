@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.hr-leave-absence.6-manage-leave-absence
+title: إدارة إجازة الموظف وغيابه
+metadata:
+  title: إدارة إجازة الموظف وغيابه
+  description: تعرف على كيفية تسوية الأرصدة وتعليق الإجازة وطلب الإجازة وعرض حالة الطلب وإدارة الطلبات في تطبيق Human Resources في Teams.
+  ms.date: 06/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 98e341222e8d11a5df953294e93448c4f0e6b1c3
+  ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/09/2021
+  ms.locfileid: "6214415"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-manage-leave-absence.md)]"

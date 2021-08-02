@@ -4,17 +4,17 @@ title: Power BI في Finance and Operations
 metadata:
   title: Power BI في Finance and Operations
   description: توضح هذه الوحدة Power BI في Finance and Operations.
-  ms.date: 03/12/2019
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d66a9b912b38b69b199ab173ed69cd68b792c0d6
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 09469fb9a7d8385374b8660ce3b1ec7361c25683
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071941"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256602"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

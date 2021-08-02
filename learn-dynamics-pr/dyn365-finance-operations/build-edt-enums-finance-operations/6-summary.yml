@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: راجع ما تعلمته عن إنشاء أنواع البيانات الموسعة والتعدادات الخاصة بتطبيقات Finance and Operations.
-  ms.date: 06/24/2019
+  ms.date: 04/22/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: e8233efee99f51846f8b6245b23bc5c54022115d
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: d368f952e4f5535756e2255becf995562dc5e17c
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071761"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256313"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

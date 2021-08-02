@@ -4,16 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص الشروع في العمل باستخدام مشروع تنفيذ Finance and Operations
-  ms.date: 03/28/2020
+  ms.date: 07/27/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: a04edf7d90b4ee5a2e8cb1c9c069b4c3190f1084
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: be1f5bdf1072067e86c9d19ae97b90b14bacf308
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071739"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255099"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-summary.md)]"

@@ -4,17 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: تقدم هذه الوحدة توسيع العناصر في وحدة تطبيقات Finance and Operations.
-  ms.date: 07/10/2019
+  ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 855fd6d920d57e80422c3eb6fc2abd748e278044
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 14a78d31f5b9e56ddd634dc121fb6738db4a40b7
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071685"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6254564"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

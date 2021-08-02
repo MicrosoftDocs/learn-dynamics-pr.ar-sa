@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: راجع ما تعلمته حول عمليات تنفيذ إدارة تطبيقات Finance and Operations باستخدام وحدة Lifecycle Services.
-  ms.date: 07/11/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0c514448c2c86d5c6a79e9b6c2f75d36353c448c
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: e6bd370e78603e01d21d2bdfa6072a338362f6a4
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071473"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255947"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

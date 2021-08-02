@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: راجع ما تعلمته حول بدء استخدام التطوير بلغة X++ للوحدة النمطية لتطبيقات Finance and Operations.
-  ms.date: 07/12/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 46b43d88232af2f2e3afcab2eac60ca162e2a66b
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: e29e3aab9f23dac09954e24eeb8c67ad115c38b4
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071900"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255003"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

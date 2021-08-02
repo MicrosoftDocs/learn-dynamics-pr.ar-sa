@@ -3,17 +3,17 @@ uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops
 metadata:
   title: تحضير البيانات للترحيل إلى تطبيقات Finance and Operations
   description: عندما يحين وقت ترحيل البيانات، كلما عرفت المزيد من المعلومات، أصبح من الأسهل التحكم في التعقيد التشغيلي وخفض التكاليف. يجب أن تكون استمرارية عمل عميلك على رأس أولوياتك. تعرف على كيفية تحضير البيانات للترحيل، باستخدام إطار عمل إدارة البيانات لإدارة كيانات البيانات وحزم كيانات البيانات في تطبيقات Finance and Operations.
-  ms.date: 12/17/2020
+  ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 203d621ddf858b9e831e0f725ac22a7fa6091334
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 7ce33b5b3e29bee6fb5369a3d3bbb06846a6842f
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072193"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257990"
 title: تحضير البيانات للترحيل إلى تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

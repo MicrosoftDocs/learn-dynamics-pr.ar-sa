@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.wwl.introduction-dynamics-365-commerce
+metadata:
+  title: مقدمة إلى Dynamics 365 Commerce
+  description: مقدمة إلى Dynamics 365 Commerce
+  ms.date: 01/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 517c358cc111d13ff48de3b4160b3d686e8361a0
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446793"
+title: مقدمة إلى Dynamics 365 Commerce
+summary: يوفر Dynamics 365 Commerce حلاً كاملاً للقناة متعددة الاتجاهات يدمج تجارب المكتب الخلفي، والتجارب في المتجر، والتجارب الرقمية لتخصيص مشاركة العملاء، وزيادة إنتاجية الموظفين، وتحسين العمليات، وتقديم نتائج أعمال أفضل.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - اكتشاف خيارات النشر.
+
+  - التعرف على أنظمة نقاط البيع.
+
+  - استكشاف القناة متعددة الاتجاهات والترويج.
+prerequisites: >
+  بلا
+iconUrl: /learn/achievements/introduction-to-dynamics-365-retail.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- dynamics-365
+- dynamics-retail
+units:
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.introduction
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.drive-unified-commerce
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.core-retail
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.merchandising-inventory
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.fraud-protection
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.knowledge-check
+- learn-dynamics.wwl.introduction-dynamics-365-commerce.summary
+badge:
+  uid: learn-dynamics.wwl.introduction-dynamics-365-commerce.badge

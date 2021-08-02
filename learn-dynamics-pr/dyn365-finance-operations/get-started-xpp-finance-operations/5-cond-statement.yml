@@ -4,17 +4,17 @@ title: استخدام العبارات الشرطية والتكرارية
 metadata:
   title: استخدام العبارات الشرطية والتكرارية
   description: تعرَّف على كيفية استخدام العبارات الشرطية والتكرارية في X++‎ في تطبيقات Finance and Operations.
-  ms.date: 07/12/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 54eb379792e7c65e5a8d5d81b5fd527ac0538a63
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 093d8e81eba210d5927a661cb2df2cb6e380bd33
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071947"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253321"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

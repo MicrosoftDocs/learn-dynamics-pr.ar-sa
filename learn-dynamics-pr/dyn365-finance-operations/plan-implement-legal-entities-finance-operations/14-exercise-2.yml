@@ -5,16 +5,16 @@ labId: 74812
 metadata:
   title: المعمل - إنشاء وحدة تشغيل
   description: مارس إنشاء وحدة تشغيل في تطبيقات Finance and Operations.
-  ms.date: 06/23/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 160c1beeff8efd63d9718412b245f819a82329bb
-  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.openlocfilehash: 999354e29570f5a86420a7d0af82d2a51671b658
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/30/2020
-  ms.locfileid: "6072036"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256500"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/14-exercise-create-operating-unit.md)] \n[!include[](../includes/non-final-lab-end.md)]"

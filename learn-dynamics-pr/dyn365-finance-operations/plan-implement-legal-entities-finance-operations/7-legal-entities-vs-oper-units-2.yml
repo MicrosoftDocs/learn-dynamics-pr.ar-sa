@@ -4,17 +4,17 @@ title: تحديد ما إذا كنت تريد اتخاذ نموذجاً للمؤ
 metadata:
   title: تحديد ما إذا كنت تريد اتخاذ نموذجاً للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل (تابع).
   description: تتابع هذه الوحدة المشكلات التي يجب أخذها في الاعتبار عند تقرير ما إذا كان سيتم اتخاذ نموذج للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل في تطبيقات Finance and Operations.
-  ms.date: 02/28/2019
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: a7b5551199821cb7aa02d2cea936273c1054978f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: f88a92d3263e65426d6f6f47b2ccac87ba4ff78b
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071173"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256446"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

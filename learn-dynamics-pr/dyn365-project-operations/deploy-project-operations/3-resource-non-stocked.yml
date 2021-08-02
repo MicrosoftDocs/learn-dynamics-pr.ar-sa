@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-project-operations.3-resource-non-stocked
+title: Project Operations لسيناريوهات الموارد أو غير المخزنة
+metadata:
+  title: Project Operations لسيناريوهات الموارد أو غير المخزنة
+  description: تعلم كيفية نشر Project Operations بدون Finance and Operations وMicrosoft Dynamics 365 Customer Engagement تطبيقات.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: c19e0c5a5c5dde2afac813b512d14aa6b4baf7c3
+  ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/18/2021
+  ms.locfileid: "6272506"
+durationInMinutes: 23
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-resource-non-stocked.md)]"

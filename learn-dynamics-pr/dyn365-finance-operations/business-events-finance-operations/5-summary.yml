@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: راجع ما تعلمته عن استهلاك أحداث الأعمال في الوحدة النمطية لتطبيقات Finance and Operations.
-  ms.date: 07/10/2019
+  ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: a4ce5221649be59016ac7a75d1687d94b6766239
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: beed08b060d9019a8c4d9e649dd3554a0fabef3e
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6072004"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6254023"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

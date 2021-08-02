@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops.15-personalize-finance-
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 02/20/2019
+  ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 34e5609e65f0e30c8a215b171c9a99246a1e4fec
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 4e79e37285997377149643152f0f43f8c64b5f60
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071466"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255959"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

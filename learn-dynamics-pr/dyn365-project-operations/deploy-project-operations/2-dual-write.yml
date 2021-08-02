@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-project-operations.2-dual-write
+title: الكتابة المزدوجة
+metadata:
+  title: الكتابة المزدوجة
+  description: تعرف على كيفية ربط البيئات وتمكين تطبيقات الأعمال من العمل معاً.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 8bef66aec0b0df8543fb4e1b16bf630d8ce8615e
+  ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/18/2021
+  ms.locfileid: "6272495"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-dual-write.md)]"

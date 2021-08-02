@@ -4,17 +4,17 @@ title: تطوير كيان وتمكينه لتصدير البيانات
 metadata:
   title: تطوير كيان وتمكينه لتصدير البيانات
   description: تعرف على كيفية تطوير كيان وتمكينه لتصدير البيانات في تطبيقات Finance and Operations.
-  ms.date: 07/25/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 590c3bd0fa5b29d2c67703c0a267f023fb742665
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 83470971ee717aeac6ef12ebe6242b279c23daf9
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071205"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256590"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -4,17 +4,17 @@ title: تطوير تعليمات برمجية لتوسيع إطار عمل
 metadata:
   title: تطوير تعليمات برمجية لتوسيع إطار عمل
   description: تعرّف على طريقة تطوير تعليمات برمجية لتوسيع إطار عمل في تطبيقات Finance and Operations.
-  ms.date: 07/04/2019
+  ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 59f59eccb317cc90de1678527be4ad92378e276d
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b24e564f8d6e44ce1cc29c0591057b9160d414c1
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071365"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6254588"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

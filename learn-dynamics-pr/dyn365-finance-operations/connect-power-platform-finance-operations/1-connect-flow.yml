@@ -4,17 +4,17 @@ title: اتصال بيانات تطبيقات Finance and Operations باستخ�
 metadata:
   title: اتصال بيانات تطبيقات Finance and Operations باستخدام Power Automate
   description: تعرف على كيفية توصيل بيانات تطبيقات Finance and Operations باستخدام Power Automate.
-  ms.date: 07/23/2019
+  ms.date: 06/19/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 5ce8e151845ddc16ee4228dd48e7677932b5fca9
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 19de8049ec88270c872a7dac179c2958a9260e40
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071245"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253933"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

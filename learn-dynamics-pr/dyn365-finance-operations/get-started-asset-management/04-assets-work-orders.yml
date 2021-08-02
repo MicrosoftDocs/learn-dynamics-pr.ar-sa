@@ -4,16 +4,16 @@ title: الأصول وأوامر العمل
 metadata:
   title: الأصول وأوامر العمل
   description: تصف هذه الوحدة الأصول وأوامر العمل
-  ms.date: 02/04/2020
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 59fa1fb4f3b4a96d975dae017b5692ad9b0a1fae
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a8cfb400b034b13c3117424217d4c1dc79d9ee92
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071741"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255117"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-assets-work-orders.md)]"

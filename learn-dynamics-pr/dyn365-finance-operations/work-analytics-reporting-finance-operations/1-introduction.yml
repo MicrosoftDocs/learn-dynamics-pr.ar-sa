@@ -4,17 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: في هذه الوحدة، ستتعرف على كيفية التعامل مع التحليلات وإعداد التقارير في تطبيقات Finance and Operations.
-  ms.date: 03/11/2019
+  ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 30d6b821c12658155cbccfa6817eff2f25076f70
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 94aa2cb0a330d7d2d7066d2d8d2320aab480b210
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071529"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253639"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -4,17 +4,17 @@ title: نسخ وظيفة دفعية
 metadata:
   title: نسخ وظيفة دفعية
   description: توضح هذه الوحدة كيفية نسخ وظيفة دفعية في تطبيقات Finance and Operations.
-  ms.date: 02/18/2019
+  ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 7f8be4a31b72671e435c77707759d93d5b9816b0
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 09530dd8f3edc309caba46c93a3f1a7245e8133b
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071385"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253141"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

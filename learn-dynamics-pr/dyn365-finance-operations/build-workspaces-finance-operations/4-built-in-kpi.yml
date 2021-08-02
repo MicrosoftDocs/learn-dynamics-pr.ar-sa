@@ -4,17 +4,17 @@ title: تطبيق مؤشرات KPI المضمنة والمخططات والمك�
 metadata:
   title: تطبيق مؤشرات KPI المضمنة والمخططات والمكونات الأخرى لإعداد التقارير
   description: تصف هذه الوحدة كيفية تطبيق مؤشرات KPI المضمنة والمخططات والمكونات الأخرى لإعداد التقارير في تطبيقات Finance and Operations.
-  ms.date: 06/21/2019
+  ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: ee39304ce3d96293dfabf54426f14669d0aa58cd
-  ms.sourcegitcommit: 399a8fbdc04e0e9851dc1d202615f3279376202c
+  ms.openlocfilehash: 3349d6518101d96a1502d2727230f115462f1be3
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/11/2020
-  ms.locfileid: "6072053"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257478"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

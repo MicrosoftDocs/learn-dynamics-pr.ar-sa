@@ -4,17 +4,17 @@ title: إضافة الحقول ومجموعات الحقول والفهارس و
 metadata:
   title: إضافة الحقول ومجموعات الحقول والفهارس والعلاقات
   description: تعرف على إضافة الحقول ومجموعات الحقول والفهارس والعلاقات في تطبيقات Finance and Operations.
-  ms.date: 06/24/2019
+  ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 940a1ac1c148ba8f0e0d4dff04e2209503289687
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: c9fdce7ae91ddf561a516548722be1cf4119fcdf
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6072008"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256872"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

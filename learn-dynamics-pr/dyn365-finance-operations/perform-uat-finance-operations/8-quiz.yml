@@ -3,17 +3,17 @@ uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.08-perform-uat-quiz
 metadata:
   title: اختبار قبول المستخدم في فحص معرفة تطبيقات Finance and Operations
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 04/05/2019
+  ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: f8c2a3cce9299ebf8f2450ce59947b6fb57092b4
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 24a783e86c9c74c69b436d25de600be83f42b1f2
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071817"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257310"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:

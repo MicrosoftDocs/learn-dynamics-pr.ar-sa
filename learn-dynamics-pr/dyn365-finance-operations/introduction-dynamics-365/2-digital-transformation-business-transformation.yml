@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.wwl.introduction-dynamics-365.digital-transformation-business-transformation
+title: التحول الرقمي هو تحول الأعمال
+metadata:
+  title: التحول الرقمي هو تحول الأعمال
+  description: التحول الرقمي هو تحول الأعمال
+  ms.date: 03/05/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 2728bb5e2f874575e3bb0860a36e8273c575eb28
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446844"
+azureSandbox: false
+durationInMinutes: 8
+content: '[!include[](includes/2-digital-transformation-business-transformation.md)]'

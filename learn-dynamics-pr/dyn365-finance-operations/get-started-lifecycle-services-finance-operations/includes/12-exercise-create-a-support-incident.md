@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: 22ec585041cba9737f12f4246153b9c3f55a3b16
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 4c59c2ba1c93907532036544ac29ea5906885897
+ms.sourcegitcommit: 5f53f949cbde18868b43912efd7b8292994a8044
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071909"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "6301473"
 ---
 ستقوم باستخدام بيئة المشروع التي قمت بإنشائها في اشتراك Azure، وتسجيل حدث دعم من تطبيقات Finance and Operations. ستتمكن من عرض الحادث في خدمات دوره الحياة (LCS) وAzure DevOps (تعرف أيضا بخدمات الفريق Visual Studio أو VSTS)، وعرض بيانات حماية البيئة المقترنة. 
 
 ### <a name="connect-the-environment-to-lifecycle-services"></a>قم بتوصيل البيئة بخدمات دوره الحياة
-1.  من مدخل LCS ([https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true))، انتقل إلى تفاصيل البيئة الخاصة بك وأبدأ البيئة إذا لم تكن قد بدأت بالفعل. 
+1.  من بوابة LCS ([https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true))، انتقل إلى تفاصيل بيئتك وابدأ البيئة إذا لم تكن قد بدأت بالفعل. 
 2.  قم بتسجيل الدخول إلى تطبيقات Finance and Operations. انتقل إلى **إدارة النظام > الإعداد > معلمات النظام**. 
 3.  انتقل إلى علامة التبويب **تعليمات**. قد تتلقى إعلاماً للاتصال بـ Lifecycle Services.
 4.  حدد الارتباط في الرسالة، ثم **حدد هنا للاتصال بـ Lifecycle services**. في علامة التبويب الجديدة، تظهر رسالة تشير إلى **نجاح** العملية.

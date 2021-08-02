@@ -4,16 +4,16 @@ title: مصطلحات ومفاهيم إدارة الأصول
 metadata:
   title: مصطلحات ومفاهيم إدارة الأصول
   description: تغطي هذه الوحدة مصطلحات ومفاهيم إدارة الأصول
-  ms.date: 02/04/2020
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 450e0e6e99ddb70daf40aab2f2bd72df3fca590c
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: ebc2475f63d1f0047a7cc062ea36b4fce3838b7c
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071747"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255141"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-terminology.md)]"

@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.product-recommendations.03a-similar
-title: التسوق بحثاً عن أشكال مماثلة
+title: تسوقي بمظهر مماثل
 metadata:
-  title: التسوق بحثاً عن أشكال مماثلة
-  description: تصف هذه الوحدة ميزة "التسوق بحثاً عن أشكال مماثلة" في Dynamics 365 Commerce.
+  title: تسوقي بمظهر مماثل
+  description: تصف هذه الوحدة متجر المظهر المتشابه في Dynamics 365 Commerce.
   ms.date: 04/28/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learing-d365-commerce
-  ms.openlocfilehash: 4148b77f29b044ac70c38a37a52ba9d98fa0b48d
-  ms.sourcegitcommit: 7b8e0bce77648fe20efb0bf63bce723b8a30cfaf
+  ms.openlocfilehash: 3de28eb0c9dc9d60362061a8da846db17bae0cea
+  ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/28/2021
-  ms.locfileid: "6070522"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "6307650"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03a-similar.md)]"

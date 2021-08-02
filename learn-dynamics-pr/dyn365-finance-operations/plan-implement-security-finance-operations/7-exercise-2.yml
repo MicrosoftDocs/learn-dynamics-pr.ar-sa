@@ -4,17 +4,17 @@ title: تدريب - استيراد مستخدم وتعيين دور أمان ل�
 metadata:
   title: تدريب - استيراد مستخدم وتعيين دور أمان له
   description: تدرب على استيراد مستخدم وتعيين دور أمان في تطبيقات Finance and Operations.
-  ms.date: 02/18/2019
+  ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d0691c4af662ba895fbdcfd23a4b31efdda9b74f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: afba9c29e848a6603744900641f4150ea1e358da
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071325"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255815"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -5,16 +5,16 @@ labId: 63311
 metadata:
   title: المعمل - استيراد مستخدمين بشكل مجمع كوظيفة دُفعة
   description: تدرب على استيراد المستخدمين بشكل مجمع كوظيفة دُفعة في تطبيقات Finance and Operations.
-  ms.date: 04/22/2020
+  ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 4a3292769590b54cd286253be87d902e745584dc
-  ms.sourcegitcommit: 3187888623499a3f582eb5557bd468f4e8c40546
+  ms.openlocfilehash: e4b230db0e7c4e1299d4a287854b768af6908464
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/31/2020
-  ms.locfileid: "6072039"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256428"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/8-exercise-import-users-in-bulk-as-a-batch-job.md)] \n[!include[](../includes/non-final-lab-end.md)]"

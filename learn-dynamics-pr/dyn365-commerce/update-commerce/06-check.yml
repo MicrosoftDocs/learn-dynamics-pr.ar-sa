@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.update-commerce.06-check
-title: تحقق من مستوى معرفتك
+title: اختبر معلوماتك
 metadata:
-  title: تحقق من مستوى معرفتك
+  title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 07/17/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: cefb5a258ea1d4e6453cdbc85bab499ecf700cb6
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: ba900938e779887710bb1f8cf2bac2729e62db3a
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070257"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225022"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

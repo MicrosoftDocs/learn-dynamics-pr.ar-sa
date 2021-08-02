@@ -4,17 +4,17 @@ title: تكوين التقويمات والفترات الزمنية
 metadata:
   title: تكوين التقويمات والفترات الزمنية
   description: توضح هذه الوحدة كيفية تكوين التقويمات واستخدام الفترات الزمنية الخاصة بالتاريخ في تطبيقات Finance and Operations.
-  ms.date: 02/28/2019
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 38ac791bd60301285696ee95d51e9c5e0155cb6f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 77e9af82032525470b1cc8ba11fb11181c75acef
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071654"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255887"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

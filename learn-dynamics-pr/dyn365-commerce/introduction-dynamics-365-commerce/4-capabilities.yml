@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.wwl.introduction-dynamics-365-commerce.merchandising-inventory
+title: قدرات إضافية
+metadata:
+  title: قدرات إضافية
+  description: قدرات إضافية
+  ms.date: 01/27/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 26d0d938bb7ce4d479f9cf18f55b2675c7ee92b8
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446802"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/4-capabilities.md)]'

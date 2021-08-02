@@ -4,17 +4,17 @@ title: مقارنة طرق العرض
 metadata:
   title: مقارنة طرق العرض
   description: تصف هذه الوحدة طرق العرض المتنوعة المتوفرة في تطبيقات Finance and Operations - طريقة عرض الشبكة وطريقة عرض التفاصيل وطريقة عرض السطر وطريقة عرض الرأس.
-  ms.date: 01/31/2019
+  ms.date: 02/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: c0a9215e43940d9c748aa558a8f388a8a1b6bc33
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: bc6f7199dc39b4400947064e9609130788bc107c
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071664"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6254817"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

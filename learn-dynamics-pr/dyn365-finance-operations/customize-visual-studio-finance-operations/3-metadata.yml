@@ -4,17 +4,17 @@ title: إدارة بيانات التعريف باستخدام مستكشف ال
 metadata:
   title: إدارة بيانات التعريف باستخدام مستكشف التطبيقات
   description: تعرف على كيفية إدارة بيانات التعريف باستخدام مستكشف التطبيقات.
-  ms.date: 07/12/2019
+  ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 43be5783efc1a291c8f2baa063dbf0d5b9134ae7
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 26e6a01ea2140d4241189ef7a2b616e56c127058
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071409"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6256680"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

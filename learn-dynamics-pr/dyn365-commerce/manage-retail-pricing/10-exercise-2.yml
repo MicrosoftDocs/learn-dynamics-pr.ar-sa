@@ -4,16 +4,16 @@ title: 'تدريب: إنشاء اتفاقيات تجارية باستخدام ق
 metadata:
   title: 'تدريب: إنشاء اتفاقيات تجارية باستخدام قواعد تسعير الفئات'
   description: ‏‫في هذا التدريب، ستقوم بإنشاء اتفاقيات تجارية باستخدام قواعد تسعير الفئات.
-  ms.date: 07/15/2020
+  ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 59481c95a469ff10702738aa9495fea2d5fed774
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a5b0a35553168b318ff7dee38356c6cdea034fa1
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070268"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225844"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-2.md)]"

@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: راجع ما تعرفت عليه حول تخصيص تطبيقات Finance and Operations باستخدام وحدة Visual Studio.
-  ms.date: 07/12/2019
+  ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3bf9dcfc6c5ba61e43099ce715a15ccfdde24d3a
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 604b809c7283e44e1cd3e64874244cc7794120c4
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071405"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253405"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

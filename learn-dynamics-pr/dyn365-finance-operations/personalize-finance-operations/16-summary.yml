@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص الوحدة النمطية لإضفاء الطابع الشخصي على تطبيقات Finance and Operations.
-  ms.date: 02/20/2019
+  ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: bdf6c167529568a353c86c2d00b3953c187fdd52
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: f9703f31e0e249cf664f4238e1dec595c870f476
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071464"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253249"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

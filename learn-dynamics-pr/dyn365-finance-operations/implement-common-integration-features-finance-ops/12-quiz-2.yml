@@ -3,17 +3,17 @@ uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-financ
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 03/12/2019
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 38896c896f20bbf78fac0858702bc7a1a6a7bc33
-  ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+  ms.openlocfilehash: bbe14a66b29eabe6a70c36d46616d337fb20ed23
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/17/2020
-  ms.locfileid: "6072064"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255989"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:

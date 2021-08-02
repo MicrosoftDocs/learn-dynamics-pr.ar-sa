@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops
 metadata:
   title: تخصيص تطبيقات Finance and Operations
   description: ومن خلال تخصيص واجهه المستخدم في تطبيقات Finance and Operations، يمكنك التعامل مع موظفي المؤسسة للعمل بشكل أكثر كفاءه. يساعد التخصيص مديري الأقسام على فرض واجهة مستخدم محددة لموظفيهم دون الحاجة إلى التخصيص.
-  ms.date: 04/19/2021
+  ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2c70129f4cea2c2cc98eef94755ea490add417c1
-  ms.sourcegitcommit: 567643c6f57edb821768e02042f3f8f2455383f5
+  ms.openlocfilehash: 3237d5b9735c84d5e1f1f7bec2ffa0a34f34cf8c
+  ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2021
-  ms.locfileid: "6074947"
+  ms.lasthandoff: 05/27/2021
+  ms.locfileid: "6112021"
 title: تخصيص تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nومن خلال تخصيص واجهه المستخدم في تطبيقات Finance and Operations، يمكنك التعامل مع موظفي المؤسسة للعمل بشكل أكثر كفاءه. يساعد التخصيص مديري الأقسام على فرض واجهة مستخدم محددة لموظفيهم دون الحاجة إلى التخصيص. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- وصف خيارات المستخدم وتطبيقها\n- التميّيز بين التخصيص والتخصيص من خلال إضفاء الطابع الشخصي\n- إنشاء التخصيص وتصديره واستيراده\n- إنشاء قوالب سجل وتعديلها\n- استخدام طرق العرض المحفوظة\n"

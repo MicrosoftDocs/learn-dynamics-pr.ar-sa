@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.wwl.introduction-dynamics-365-commerce.fraud-protection
+title: Dynamics 365 Fraud Protection
+metadata:
+  title: Dynamics 365 Fraud Protection
+  description: Dynamics 365 Fraud Protection
+  ms.date: 01/27/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 7092413e408059e2f7a5017013463cf0a0c83a4a
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446797"
+azureSandbox: false
+durationInMinutes: 3
+content: '[!include[](includes/5-fraud-protection.md)]'

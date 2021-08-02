@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.hr-leave-absence.2-set-up-leave-absence
+title: قم بإعداد الإجازة والغياب
+metadata:
+  title: قم بإعداد الإجازة والغياب
+  description: تكوين المعلمات وإنشاء تقويم وإضافة أيام العطل وإنشاء سير عمل طلب الإجازة وتكوين أنواع وقواعد الإجازة والغياب.
+  ms.date: 06/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: a1f8b17364473cd01869c49cb13578cc9ad4f88c
+  ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/09/2021
+  ms.locfileid: "6214425"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-set-up-leave-absence.md)]"

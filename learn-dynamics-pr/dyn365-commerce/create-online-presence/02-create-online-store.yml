@@ -4,16 +4,16 @@ title: إنشاء متجر على الإنترنت
 metadata:
   title: إنشاء متجر على الإنترنت
   description: تعرف على كيفية إنشاء متجر على الإنترنت في Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 04/07/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 7fc32869f4105347208a22dc007af5e1ab831faf
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: dd09b7370489c14fd2990324521f23c085f0daaf
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070050"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226145"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create-online-store.md)]"

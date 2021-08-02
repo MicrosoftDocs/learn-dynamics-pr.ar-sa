@@ -5,16 +5,16 @@ labId: 64192
 metadata:
   title: المعمل - استكشاف مساحة عمل إدارة البيانات
   description: تدرب على استكشاف مساحة عمل إدارة البيانات في تطبيقات Finance and Operations.
-  ms.date: 05/04/2021
+  ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 6c04c6c022e517b6eb1e7a3907cdfdea59c52ae0
-  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+  ms.openlocfilehash: 2779f1badb6816494589dc55066a023417c680e4
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/06/2021
-  ms.locfileid: "6072622"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253105"
 durationInMinutes: 24
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/8-exercise-explore-data-management-workspace.md)] \n[!include[](../includes/non-final-lab-end.md)]"

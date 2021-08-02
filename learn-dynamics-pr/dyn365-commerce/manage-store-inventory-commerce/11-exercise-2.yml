@@ -4,16 +4,16 @@ title: 'تدريب: شحن أمر تحويل من نقطة البيع'
 metadata:
   title: 'تدريب: شحن أمر تحويل من نقطة البيع'
   description: تدرب على شحن أمر تحويل من نقطة البيع في Dynamics 365 Commerce.
-  ms.date: 09/15/2020
+  ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 5f671d21e0ce66cc83d7337be23e77f881bdd17e
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 1692dd2e2f9d20dd2c43cf935447c315b22bc011
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070308"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225997"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-exercise-2.md)]"

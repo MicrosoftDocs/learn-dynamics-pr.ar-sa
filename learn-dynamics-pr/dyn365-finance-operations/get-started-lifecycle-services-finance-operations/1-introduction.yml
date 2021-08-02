@@ -4,17 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة إلى Lifecycle Services
   description: مقدمة إلى Lifecycle Services لتطبيقات Finance and Operations
-  ms.date: 02/07/2020
+  ms.date: 05/25/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 011ae3eb126023a23624ad9a2aeb638bf69badce
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 45cce08b1e328a841189523e9a6ad952a1dd303a
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071602"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253351"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

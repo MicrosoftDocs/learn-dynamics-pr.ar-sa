@@ -5,16 +5,16 @@ labId: 86498
 metadata:
   title: 'معمل: إنشاء تقرير مصروفات وإرساله إلى سير عمل'
   description: تدرب على إنشاء تقرير مصروفات وإرساله إلى سير عمل في Dynamics 365 Project Operations.
-  ms.date: 12/18/2020
+  ms.date: 11/26/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: da035e62a541a0694ae5dcbdf04096eb7a2eaed6
-  ms.sourcegitcommit: 297785c01f1172231dcc21fde2943c8e35e0aa0b
+  ms.openlocfilehash: 99f22e6d2520046185e4622369be4f0e182a4056
+  ms.sourcegitcommit: 39f5c983a461623111bafbeb74caba62b848aa29
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/18/2020
-  ms.locfileid: "6072811"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6262529"
 durationInMinutes: 17
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](../includes/accessing-labs.md)] \n[!include[](includes/13-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

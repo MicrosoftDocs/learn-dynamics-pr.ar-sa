@@ -4,16 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص وحدة الاختلافات الرئيسية بين Dynamics AX 2012وتطبيقات ‎Finance and Operations.
-  ms.date: 02/02/2021
+  ms.date: 02/05/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 44c525ea78847df9f28e8638f3fd24b39172f5b8
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 8b6eae1b3ed59a675b1a730f96762833a57b6e82
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072228"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257454"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-summary.md)]"

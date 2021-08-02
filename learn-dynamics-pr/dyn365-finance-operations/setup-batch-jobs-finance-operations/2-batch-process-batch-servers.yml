@@ -4,17 +4,17 @@ title: معالجة الدُفعة وخوادم الدُفعات
 metadata:
   title: معالجة الدُفعة وخوادم الدُفعات
   description: توضح هذه الوحدة معالجة الدُفعات وخوادم الدُفعات في تطبيقات Finance and Operations.
-  ms.date: 02/18/2019
+  ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 638f48690193967e9268aaaf4a8799c33b5133db
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 4525a54d2b8c0f193518d4abf81de99f31a80d57
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071386"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6253147"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

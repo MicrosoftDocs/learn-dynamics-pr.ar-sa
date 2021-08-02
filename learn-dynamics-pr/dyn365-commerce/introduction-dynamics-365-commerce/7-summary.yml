@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.wwl.introduction-dynamics-365-commerce.summary
+title: الملخص والموارد
+metadata:
+  title: الملخص والموارد
+  description: الملخص والموارد
+  ms.date: 01/27/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 98ca9c2d59d29a65ffacca0c9a0a081608a86fc1
+  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/08/2021
+  ms.locfileid: "6446795"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/7-summary.md)]'

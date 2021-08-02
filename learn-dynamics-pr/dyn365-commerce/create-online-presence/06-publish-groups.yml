@@ -4,16 +4,16 @@ title: مجموعات النشر
 metadata:
   title: مجموعات النشر
   description: تعرف على المفهوم الخاص بمجموعات النشر في Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 04/07/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: efe3a6659b58b632b8587fcc433cd1b8fc5687e5
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 3c2c6e54346badc2d9fe05aee5d339fa7e7cd345
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070398"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6225615"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-publish-groups.md)]"

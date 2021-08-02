@@ -4,18 +4,18 @@ title: مزامنة خطة الاختبار وتكوينها في Azure DevOps
 metadata:
   title: مزامنة خطة الاختبار وتكوينها في Azure DevOps
   description: تعرف على كيفية مزامنة خطة الاختبار وتكوينها في Azure DevOps في تطبيقات Finance and Operations.
-  ms.date: 04/05/2019
+  ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/synchronize-bpm-vsts#configure-your-lcs-project-to-connect-to-azure-devops
-  ms.openlocfilehash: 77df0cc43ef0bc71cee24438703a947b5711a9bf
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: f1e6dfb9a2ab473511ba43c56c441ac653e39c59
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071819"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6258044"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]
