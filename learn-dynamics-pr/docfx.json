@@ -63,6 +63,17 @@
         "dest": "modules"
       },
       {
+      "src": "dyn365-intelligent-order-management",
+      "files": [
+        "**.yml",
+        "**/*.md"
+      ],
+      "exclude": [
+          "**/includes/**"
+      ],   
+      "dest": "modules"
+      },
+      {
         "src": "dyn365-guides",
         "files": [
          "**.yml",
@@ -228,6 +239,7 @@
           "dyn365-finance/**",
           "dyn365-finance-operations/**",
           "dyn365-fraud-protection/**",
+          "dyn365-intelligent-order-management/**",
           "dyn365-marketing/**",
           "dyn365-sales/**",
           "dyn365-supply-chain-management/**",
@@ -350,6 +362,17 @@
           "**/*.jpeg"
         ],
         "dest": "modules"
+      },
+      {
+      "src": "dyn365-intelligent-order-management",
+      "files": [
+        "**/*.gif",
+        "**/*.png",
+        "**/*.svg",
+        "**/*.jpg",
+        "**/*.jpeg"
+      ],
+      "dest": "modules"
       },
       {
         "src": "dyn365-marketing",
@@ -489,6 +512,7 @@
         "dyn365-marketing/**/*.yml": ["Dynamics 365", "Marketing"],
         "dyn365-guides/**/*.yml": ["Dynamics 365", "Guides"],
         "dyn365-human-resources/**/*.yml": ["Dynamics 365", "Human Resources"],
+        "dyn365-intelligent-order-management/**/*.yml": ["Dynamics 365", "Finance and Operations", "Supply Chain Management", "Commerce", "Finance"],
         "dyn365-supply-chain-management/**/*.yml": ["Dynamics 365", "Unified Operations", "Supply Chain Management", "Finance and Operations"],
         "dyn365-sales/**/*.yml": ["Dynamics 365", "Sales", "Customer Voice"],
         "power-platform/**/*.yml": ["Power Platform", "Power Apps"],
@@ -554,7 +578,16 @@
           "ja-jp",
           "pt-br"
       ],
-      "dyn365-marketing/**/*.yml": [
+        "dyn365-intelligent-order-management/**/*.yml": [
+          "ar-sa",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "ja-jp",
+          "pt-br"
+      ],
+        "dyn365-marketing/**/*.yml": [
           "ar-sa",
           "de-de",
           "es-es",
