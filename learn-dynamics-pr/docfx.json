@@ -518,6 +518,26 @@
         "power-platform/**/*.yml": ["Power Platform", "Power Apps"],
         "wwl-dynamics/**/*.yml": ["Dynamics 365"],
         "wwl-mba/**/*.yml": ["Dynamics 365", "Power Platform"]
+      },
+      "ms.service": {
+        "dyn365-business-central/**/*.yml": "dynamics365-business-central",
+        "dyn365-commerce/**/*.yml": "dynamics-365-commerce",
+        "dyn365-customer-service/**/*.yml": "dynamics-365-customerservice",
+        "dyn365-fast-track/**/*.yml": "dynamics-365-cross-app",
+        "dyn365-field-service/**/*.yml": "dynamics-365-field-service",
+        "dyn365-finance/**/*.yml": "dynamics-365-finance",
+        "dyn365-finance-operations/**/*.yml": "dynamics-365-finance",
+        "dyn365-project-operations/**/*.yml": "dynamics-365-project-operations",
+        "dyn365-fraud-protection/**/*.yml": "dynamics-365-fraud-protection",
+        "dyn365-marketing/**/*.yml": "dynamics-365-marketing",
+        "dyn365-guides/**/*.yml": "dynamics-365-guides",
+        "dyn365-human-resources/**/*.yml": "dynamics-365-human-resources",
+        "dyn365-sales/**/*.yml": "dynamics-365-sales",
+        "dyn365-supply-chain-managmenet/**/*.yml": "dynamics-365-supply-chain",
+        "power-platform/**/*.yml": "power-platform",
+        "wwl-dynamics/**/*.yml": "dynamics-365-cross-app",
+        "wwl-mba/**/*.yml": "dynamics-365-cross-app",
+        "paths/**/*.yml": "dynamics-365-cross-app"
       }
     },
     "template": [],
