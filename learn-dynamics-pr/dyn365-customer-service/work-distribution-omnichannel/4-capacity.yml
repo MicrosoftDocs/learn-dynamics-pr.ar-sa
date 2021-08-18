@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-distribution-omnichannel.4-capacity
+title: قدرة إنتاجية تدفق العمل
+metadata:
+  title: قدرة إنتاجية تدفق العمل
+  description: تعرف على قدرة إنتاجية تدفق العمل.
+  ms.date: 1/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: d1a7c405d53df6ec199b11b27913f53702c3e4b4
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658429"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-capacity.md)]"

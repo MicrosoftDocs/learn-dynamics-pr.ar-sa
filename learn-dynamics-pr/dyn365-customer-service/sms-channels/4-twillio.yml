@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.sms-channels.4-twillio
+title: قم بتكوين إعدادات وأرقام Twilio SMS
+metadata:
+  title: قم بتكوين إعدادات وأرقام Twilio SMS
+  description: تعرف على كيفية تكوين إعدادات وأرقام Twilio SMS.
+  ms.date: 08/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 6baa2403bcb738c126185a68d479555ff656f4b3
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658361"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-twillio.md)]"

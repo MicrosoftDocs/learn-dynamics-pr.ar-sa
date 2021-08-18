@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.social-channels.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 08/06/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-voice
+  ms.openlocfilehash: c325f96d383fa565159903a41189390fb736df94
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658404"
+durationInMinutes: 1
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أنت تستعد لنشر مختلف منصات المراسلة الاجتماعية في بيئة القناة متعددة الاتجاهات لـ Customer Service. أي من منصات المراسلة الاجتماعية التالية تتطلب Twilio للتعامل مع معالجة الرسائل؟
+    choices:
+    - content: Facebook
+      isCorrect: false
+      explanation: يستخدم WhatsApp منصة Twilio لمعالجة الرسائل. ستحتاج مؤسستك إلى أن يكون لديها حساب Twilio متصل برقم أعمالك على WhatsApp.
+    - content: WhatsApp
+      isCorrect: true
+      explanation: يستخدم WhatsApp منصة Twilio لمعالجة الرسائل. ستحتاج مؤسستك إلى أن يكون لديها حساب Twilio متصل برقم أعمالك على WhatsApp.
+    - content: WeChat
+      isCorrect: false
+      explanation: يستخدم WhatsApp منصة Twilio لمعالجة الرسائل. ستحتاج مؤسستك إلى أن يكون لديها حساب Twilio متصل برقم أعمالك على WhatsApp.
+    - content: Twitter
+      isCorrect: false
+      explanation: يستخدم WhatsApp منصة Twilio لمعالجة الرسائل. ستحتاج مؤسستك إلى أن يكون لديها حساب Twilio متصل برقم أعمالك على WhatsApp.
+  - content: لقد أكملت مؤخرًا إعدادات العملية لقناة Twitter في القناة متعددة الاتجاهات لـ Customer Service.  بعد التكوين، لاحظت أن الرسائل الواردة من Twitter لا تصل.  تعمل القنوات الاجتماعية الأخرى المكونة على النحو المنشود.  أي مما يلي يعد السبب الأكثر احتمالاً؟
+    choices:
+    - content: لم يتم تمكين المراسلة المباشرة لاسم المستخدم على Twitter.
+      isCorrect: true
+      explanation: لاستخدام Twitter في القناة متعددة الاتجاهات لـ Customer Service، يجب تمكين اسم المستخدم على Twitter المستخدم من قبل الشركة للمراسلة المباشرة وإلا لن تصل الرسائل.  يتم استخدام Twilio فقط مع قناة تطبيق What's.  عند توفير القناة متعددة الاتجاهات لـ Customer Service وتكوينها وتمكين القنوات الاجتماعية، عندئذ يمكنك تكوين كل القنوات الاجتماعية.   تنطبق قواعد التوجيه هنا نظرًا لعدم وصول أي رسائل.
+    - content: لم تقم بإقران Twitter باشتراك Twilio.
+      isCorrect: false
+      explanation: لاستخدام Twitter في القناة متعددة الاتجاهات لـ Customer Service، يجب تمكين اسم المستخدم على Twitter المستخدم من قبل الشركة للمراسلة المباشرة وإلا لن تصل الرسائل.  يتم استخدام Twilio فقط مع قناة تطبيق What's.  عند توفير القناة متعددة الاتجاهات لـ Customer Service وتكوينها وتمكين القنوات الاجتماعية، عندئذ يمكنك تكوين كل القنوات الاجتماعية.   تنطبق قواعد التوجيه هنا نظرًا لعدم وصول أي رسائل.
+    - content: لم تقم بتمكين Twitter عند توفير القناة متعددة الاتجاهات لـ Customer Service.
+      isCorrect: false
+      explanation: لاستخدام Twitter في القناة متعددة الاتجاهات لـ Customer Service، يجب تمكين اسم المستخدم على Twitter المستخدم من قبل الشركة للمراسلة المباشرة وإلا لن تصل الرسائل.  يتم استخدام Twilio فقط مع قناة تطبيق What's.  عند توفير القناة متعددة الاتجاهات لـ Customer Service وتكوينها وتمكين القنوات الاجتماعية، عندئذ يمكنك تكوين كل القنوات الاجتماعية.   تنطبق قواعد التوجيه هنا نظرًا لعدم وصول أي رسائل.
+    - content: لم تقم بإعداد قواعد التوجيه بشكل صحيح.
+      isCorrect: false
+      explanation: لاستخدام Twitter في القناة متعددة الاتجاهات لـ Customer Service، يجب تمكين اسم المستخدم على Twitter المستخدم من قبل الشركة للمراسلة المباشرة وإلا لن تصل الرسائل.  يتم استخدام Twilio فقط مع قناة تطبيق What's.  عند توفير القناة متعددة الاتجاهات لـ Customer Service وتكوينها وتمكين القنوات الاجتماعية، عندئذ يمكنك تكوين كل القنوات الاجتماعية.   تنطبق قواعد التوجيه هنا نظرًا لعدم وصول أي رسائل.
+  - content: يتعين عليك تكوين القناة متعددة الاتجاهات لـ Customer Service حتى يتمكن العملاء من إرسال طلبات من Facebook.  لديك الترخيص اللازم، ماذا تفعل أولاً لتكوين Facebook؟
+    choices:
+    - content: قم بإنشاء مسار عمل Facebook.
+      isCorrect: false
+      explanation: قبل تكوين أي قناة اجتماعية داخل بيئة، يجب تمكين المراسلة الاجتماعية.  بمجرد تمكينها، سيتم إنشاء مسارات العمل الافتراضية لجميع القنوات المدعومة مثل Facebook وLine وTwitter وWhatsApp وWeChat.
+    - content: تعرف على قناة Facebook.
+      isCorrect: false
+      explanation: قبل تكوين أي قناة اجتماعية داخل بيئة، يجب تمكين المراسلة الاجتماعية.  بمجرد تمكينها، سيتم إنشاء مسارات العمل الافتراضية لجميع القنوات المدعومة مثل Facebook وLine وTwitter وWhatsApp وWeChat.
+    - content: يمكنك تمكين المراسلة الاجتماعية لمؤسستك.
+      isCorrect: true
+      explanation: قبل تكوين أي قناة اجتماعية داخل بيئة، يجب تمكين المراسلة الاجتماعية.  بمجرد تمكينها، سيتم إنشاء مسارات العمل الافتراضية لجميع القنوات المدعومة مثل Facebook وLine وTwitter وWhatsApp وWeChat.
+    - content: تكوين Twilio لمعالجة طلبات الرسالة.
+      isCorrect: false
+      explanation: قبل تكوين أي قناة اجتماعية داخل بيئة، يجب تمكين المراسلة الاجتماعية.  بمجرد تمكينها، سيتم إنشاء مسارات العمل الافتراضية لجميع القنوات المدعومة مثل Facebook وLine وTwitter وWhatsApp وWeChat.  يستخدم WhatsApp منصة Twilio لمعالجة الرسائل. ستحتاج مؤسستك إلى أن يكون لديها حساب Twilio متصل برقم أعمالك على WhatsApp.

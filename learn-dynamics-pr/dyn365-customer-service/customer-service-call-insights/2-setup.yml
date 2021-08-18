@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-service-call-insights.2-setup
+title: الإعداد والتكوين
+metadata:
+  title: الإعداد والتكوين
+  description: تعرف على عمليات الإعداد والتكوين لمعلومات المكالمات.
+  ms.date: 08/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-customer-insights
+  ms.openlocfilehash: 51bb829afc615c6d60b2d595d0eb2f7e02a3992b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658368"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-setup.md)]"

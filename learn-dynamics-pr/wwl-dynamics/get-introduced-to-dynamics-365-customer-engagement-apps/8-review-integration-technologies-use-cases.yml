@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.review-integration-technologies-use-cases
+title: مراجعة تقنيات التكامل وحالات الاستخدام
+metadata:
+  title: مراجعة تقنيات التكامل وحالات الاستخدام
+  description: مراجعة تقنيات التكامل وحالات الاستخدام
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 5bbb268ac73bcc76d7c5c99fdac53ee5f447bfd9
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658568"
+azureSandbox: false
+durationInMinutes: 7
+content: '[!include[](includes/8-review-integration-technologies-use-cases.md)]'

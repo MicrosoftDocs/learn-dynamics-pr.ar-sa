@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads
+metadata:
+  title: استخدم صفوف انتظار Microsoft Dynamics 365 Customer Service لإدارة أحمال عمل الحالة
+  description: استخدم صفوف انتظار Microsoft Dynamics 365 Customer Service لإدارة أحمال عمل الحالة
+  ms.date: 02/02/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 1294758cdf8db0f81b36ab3339b98491a7b9b478
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658351"
+title: استخدم صفوف انتظار Microsoft Dynamics 365 Customer Service لإدارة أحمال عمل الحالة
+summary: "[!include[](../includes/module-banner.md)]\n\nغالبًا ما تستخدم مراكز دعم العملاء صفوف الانتظار لإدارة توجيه الحالات الواردة حتى تتم معالجتها بطريقة منظمة وفي الوقت المناسب.         \n"
+abstract: >
+  لنُلقِ نظرة على ما يلي:
+
+  - تحديد أنواع مختلفة من صفوف انتظار Microsoft Dynamics 365المتوفرة
+
+  - إنشاء صف انتظار، بالإضافة إلى تحديد أعضاء صف الانتظار
+
+  - تعيين عناصر صف الانتظار واختيارها وتحريرها
+
+  - تحديد مجموعات قواعد التوجيه لنقل العناصر إلى صفوف انتظار معينة
+
+  - إعداد كيانات Dynamics 365 أخرى بحيث يمكن استخدامها مع صفوف الانتظار
+prerequisites: يجب أن يتمتع الجمهور المستهدف بالفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365. يعد الإلمام بإنشاء الحالات وإدارتها في Dynamics 365 مفيدًا أيضًا.
+iconUrl: /learn/achievements/managing-customer-service-workloads-using-queues.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.1-dynamics-365-queues-overview
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.2-configuring-entities-for-queues
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.3-creating-a-dynamics-365-queue
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.4-working-with-queues
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.5-use-queues-to-manage-case-workloads
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.6-routing-rule-sets
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.7-use-routing-rules-to-assign-cases-to-specific-queues
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.8-knowledge-check
+- learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.9-summary-and-clean-up
+badge:
+  uid: learn.using-dynamics-365-queues-to-manage-case-workloads.badge

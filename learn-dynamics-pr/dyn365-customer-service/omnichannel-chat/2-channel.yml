@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.omnichannel-chat.2-channel
+title: إنشاء قناة محادثة
+metadata:
+  title: إنشاء قناة محادثة
+  description: تعرف على كيفية إنشاء قناة محادثة.
+  ms.date: 4/24/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: fc6c6eace5e1f4577efa807eeb5f0391790f9753
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658348"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-channel.md)]"

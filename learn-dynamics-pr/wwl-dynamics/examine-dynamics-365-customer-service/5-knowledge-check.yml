@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-customer-service.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 338789150b5a6f610b3a2b52ddbc4455063b751c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658552"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/5-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أي من أنواع سجلات Dynamics 365 Customer Service التالية قد تستخدمها على الأرجح لتوفير حل لمشكلة شائعة؟
+    choices:
+    - content: الحالة
+      isCorrect: false
+      explanation: غير صحيح. تمثل القضايا حدث واحد للخدمة. الحالة هي المشكلة التي يعمل عليها المندوب والتي تتطلب حلاً أو إجابة.
+    - content: المقالة المعرفية
+      isCorrect: true
+      explanation: صحيح. تعد المقالات المعرفية مقالات إعلامية تُستخدم لمساعدة ممثلي خدمة العملاء على حل الحالات.
+    - content: الصف
+      isCorrect: false
+      explanation: غير صحيح. الصف هو المكان المناسب لتنظيم وتخزين الأنشطة والحالات التي يُنتظر حلها.
+  - content: ما هي الميزات المتوفرة في Dynamics 365 Customer Service التي يتم استخدامها للمساعدة في إرشاد ممثلي خدمة العملاء خلال دورة حياة التعامل مع حالة من البداية إلى النهاية؟
+    choices:
+    - content: سير إجراءات العمل
+      isCorrect: true
+      explanation: صحيح. يتضمن نظام Dynamics 365 Customer Service الجاهز سير إجراءات العمل من الهاتف إلى الحالة. كما يساعد على ضمان قيام ممثلي خدمة العملاء بالحصول جميع المعلومات الضرورية أثناء عملهم خلال المراحل المختلفة لعملية دقة الحالة.
+    - content: الاستحقاق
+      isCorrect: false
+      explanation: غير صحيح. تُستخدم الاستحقاقات لتحديد مقدار خدمات الدعم التي يحق للعميل الحصول عليها. يجب اعتبار الاستحقاقات على أنها عقود دعم.
+    - content: اتفاقية مستوى الخدمة
+      isCorrect: false
+      explanation: غير صحيح. تشكل اتفاقيات مستوى الخدمة طريقة لتتبع أوقات استجابة العملاء وتحديدها. لا توفر أي إرشادات للمستخدم.
+  - content: أثناء العمل على إحدى الحالات، أضفت نشاط مكالمة هاتفية لتسجيل مكالمة أجريتها للعميل. أين سيتم عرض نشاط المكالمة الهاتفية في سجل الحالة؟
+    choices:
+    - content: اللوحة ذات الصلة
+      isCorrect: false
+      explanation: غير صحيح. لا تعرض اللوحة ذات الصلة معلومات النشاط. تعرض معلومات أخرى ذات صلة مثل الحالات الأخرى للعميل. توفر اللوحة ذات الصلة القدرة على البحث عن المقالات المعرفية التي قد تساعد في حل المشكلة.
+    - content: قسم المعلومات العامة
+      isCorrect: false
+      explanation: غير صحيح. يتوفر المخطط الزمني للسجل في Dynamics 365 لمعظم السجلات بما في ذلك الحالات. يعرض جميع الأنشطة والملاحظات والمنشورات المتعلقة بسجل محدد استنادًا إلى تاريخ إضافتها.
+    - content: الخط الزمني للسجل
+      isCorrect: true
+      explanation: صحيح. الصف هو المكان المناسب لتنظيم وتخزين الأنشطة والحالات التي يُنتظر حلها.

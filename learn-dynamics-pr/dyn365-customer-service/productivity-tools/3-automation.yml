@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.productivity-tools.3-automation
+title: استخدام التنفيذ التلقائي لتمرير المعلمات
+metadata:
+  title: استخدام التنفيذ التلقائي لتمرير المعلمات
+  description: تعرف على كيفية استخدام التنفيذ التلقائي لتمرير المعلمات.
+  ms.date: 08/07/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: c796b4efe776a603e0369fe1a6c4d1490d2b3690
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658336"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-automation.md)]"

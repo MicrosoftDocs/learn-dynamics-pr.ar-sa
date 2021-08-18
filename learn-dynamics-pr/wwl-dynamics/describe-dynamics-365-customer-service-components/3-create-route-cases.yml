@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-dynamics-365-customer-service-components.create-route-cases
+title: إنشاء الحالات وتوجيهها
+metadata:
+  title: إنشاء الحالات وتوجيهها
+  description: إنشاء الحالات وتوجيهها
+  ms.date: 07/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: a6b03e84594c6097ba135875adddcd9fd2985e52
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660424"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/3-create-route-cases.md)]'

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 37104795b9d98215dc32849fcd20498b95efda6f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658573"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/10-knowledge-check.md)]
+quiz:
+  questions:
+  - content: أي من الإجابات التالية يمثل تطبيقاً من تطبيقات الطرف الأول لـ Microsoft Business Applications؟
+    choices:
+    - content: Azure
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن Azure لا يقع في خط منتجات Microsoft Business Application.
+    - content: Office 365
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن Office 365 لا يقع في خط منتجات Microsoft Business Application.
+    - content: Dynamics 365 Field Service
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن Dynamics 365 Field Service يقع في خط منتجات Microsoft Business Application.
+  - content: أي من التطبيقات التالية يمكن دمجها مع Dynamics 365 لتوفير قدرات إدارة المستندات التي تتضمن إصداراً وتعاوناً؟
+    choices:
+    - content: Microsoft Word
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأنه Microsoft Word لا يوفر قدرات إدارة المستندات.
+    - content: Microsoft Excel
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأنه Microsoft Excel لا يوفر قدرات إدارة المستندات.
+    - content: Microsoft SharePoint
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن SharePoint عبارة عن تطبيق إدارة مستندات يمكن دمجه مع Dynamics 365.
+  - content: أي من خيارات البحث أو التصفية التالية سيتم استخدامها إذا كنت ترغب في عرض قائمة بالحسابات ذات الأوامر المفتوحة؟
+    choices:
+    - content: التصفية المتقدمة
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن قدرات "تصفية متقدمة" توفر القدرة على تصفية البيانات باستخدام تفاصيل من جداول Dynamics 365 متعددة.
+    - content: بحث سريع
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذا خيار بحث يسمح فقط بالبحث عن جدول واحد في كل مرة.
+    - content: البحث حسب الفئة
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأنه في حين أن هذا خيار بحث متعدد الكيانات سيبحث في كيانات متعددة، إلا أنه لا يسمح لك بتصفية البيانات استناداً إلى جداول متعددة.

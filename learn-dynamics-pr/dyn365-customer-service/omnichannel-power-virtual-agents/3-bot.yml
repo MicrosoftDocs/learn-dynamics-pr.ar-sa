@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.omnichannel-power-virtual-agents.3-bot
+title: تكوين روبوت Power Virtual Agents
+metadata:
+  title: تكوين روبوت Power Virtual Agents
+  description: تعرف على كيفية تكوين روبوت Power Virtual Agents.
+  ms.date: 08/05/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-customer-service
+  ms.openlocfilehash: b355c9a25160d6ce38d17fbb71131a19afec8d3e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658341"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-bot.md)]"

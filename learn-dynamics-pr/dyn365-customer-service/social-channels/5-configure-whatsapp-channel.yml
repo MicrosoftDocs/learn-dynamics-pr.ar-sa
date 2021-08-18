@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.social-channels.5-configure-whatsapp-channel
+title: قم بتكوين قناة WhatsApp من خلال Twilio
+metadata:
+  title: قم بتكوين قناة WhatsApp من خلال Twilio
+  description: تعرف على كيفية تكوين قناة WhatsApp من خلال Twilio.
+  ms.date: 08/06/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-voice
+  ms.openlocfilehash: 6b8277b086e2b19a00809b102ab72c83a913c58d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658406"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-configure-whatsapp-channel.md)]"

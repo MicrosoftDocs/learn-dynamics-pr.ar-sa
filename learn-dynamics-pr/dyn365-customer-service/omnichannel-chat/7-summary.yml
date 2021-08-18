@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.omnichannel-chat.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص عناصر واجهة مستخدم قناة التوزيع في القناة متعددة الاتجاهات لوحدة Dynamics 365 Customer Service
+  ms.date: 4/24/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 0adf4997de93a60a188cb428c35f9163ec736cf7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658385"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

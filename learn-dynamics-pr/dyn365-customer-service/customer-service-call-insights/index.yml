@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.customer-service-call-insights
+metadata:
+  title: استخدام معلومات المكالمات في خدمة العملاء
+  description: تعرف على معلومات المكالمات في خدمة العملاء Microsoft Dynamics 365.
+  ms.date: 08/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-customer-insights
+  ms.openlocfilehash: 3ba02a809f0e82a671189b5db180c0a283136274
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658436"
+title: استخدام معلومات المكالمات في خدمة العملاء
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على معلومات المكالمات في خدمة العملاء Microsoft Dynamics 365. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد معلومات المكالمات وتكوينها.\n- تعرف على الاحتفاظ بالبيانات وحذفها. \n- تحليل الأداء. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/customer-service-call-insights.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-cust-svc-insights
+units:
+- learn-dynamics.customer-service-call-insights.1-introduction
+- learn-dynamics.customer-service-call-insights.2-setup
+- learn-dynamics.customer-service-call-insights.3-data
+- learn-dynamics.customer-service-call-insights.4-performance
+- learn-dynamics.customer-service-call-insights.5-check
+- learn-dynamics.customer-service-call-insights.6-summary
+badge:
+  uid: learn-dynamics.customer-service-call-insights.badge

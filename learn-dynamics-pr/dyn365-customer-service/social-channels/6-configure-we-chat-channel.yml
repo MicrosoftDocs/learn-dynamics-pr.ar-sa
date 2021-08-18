@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.social-channels.6-configure-we-chat-channel
+title: تكوين قناة WeChat
+metadata:
+  title: تكوين قناة WeChat
+  description: تعرف على كيفية تكوين قناة WeChat.
+  ms.date: 08/06/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-voice
+  ms.openlocfilehash: 5821f1fa368c69361242dd650be9052c6164963a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658407"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-configure-we-chat-channel.md)]"

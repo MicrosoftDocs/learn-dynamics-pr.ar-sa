@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.6-routing-rule-sets
+title: مجموعات قواعد التوجيه
+metadata:
+  title: مجموعات قواعد التوجيه
+  description: مجموعات قواعد التوجيه
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 77cc08712f23d56afb92fd8e3c60d46350af014b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658373"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-routing-rule-sets.md)]

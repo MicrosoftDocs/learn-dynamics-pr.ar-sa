@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.create-smart-assist-omnichannel
+metadata:
+  title: إنشاء حل المساعدة الذكية في القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
+  description: هل تريد إنشاء روبوتات مخصصة وتوصيلها بالبيئات لتقديم التوصيات ذات الصلة إلى المناديب؟ توضح هذه الوحدة كيفية إنشاء بطاقات تكيفية وروبوتات مخصصة وكيفية تمكين جزء الإنتاجية.
+  ms.date: 07/29/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 93a8392eb7856590cced94ac17a0b74bc8aedaf0
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658358"
+title: إنشاء حل المساعدة الذكية في القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)] \nهل تريد إنشاء روبوتات مخصصة وتوصيلها بالبيئات لتقديم التوصيات ذات الصلة إلى المناديب؟ توضح هذه الوحدة كيفية إنشاء بطاقات تكيفية وروبوتات مخصصة وكيفية تمكين جزء الإنتاجية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتب بطاقات تكيفية تعرض المحتوى لروبوت المساعدة الذكية.\n- إنشاء روبوت المساعدة الذكية.\n- إنشاء مستخدم روبوت.\n- إضافة روبوت المساعدة الذكية إلى دفق العمل.\n- تمكين جزء الإنتاجية.\n"
+prerequisites: لاستخدام المساعدة الذكية، يجب نشر حل أدوات إنتاجية Dynamics 365 في بيئتك. يمكنك تنزيله مجانًا من Microsoft AppSource.
+iconUrl: /learn/achievements/create-smart-assist-omnichannel.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.create-smart-assist-omnichannel.1-introduction
+- learn-dynamics.create-smart-assist-omnichannel.2-adaptive-cards
+- learn-dynamics.create-smart-assist-omnichannel.3-build-smart-assist-bot
+- learn-dynamics.create-smart-assist-omnichannel.4-enable-smart-assist
+- learn-dynamics.create-smart-assist-omnichannel.5-check
+- learn-dynamics.create-smart-assist-omnichannel.6-summary
+badge:
+  uid: learn-dynamics.create-smart-assist-omnichannel.badge

@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.productivity-tools
+metadata:
+  title: ابدأ باستخدام أدوات الإنتاجية Dynamics 365
+  description: تساعد أدوات الإنتاجية Dynamics 365 المناديب على تنفيذ عملياتهم اليومية بشكل أسرع وبكفاءة وبأسلوب يتوافق مع العمليات.
+  ms.date: 08/07/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: e7325cef0e45378338e0247e31e4e976f6238262
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658378"
+title: ابدأ باستخدام أدوات الإنتاجية Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتساعد أدوات الإنتاجية Dynamics 365 المناديب على تنفيذ عملياتهم اليومية بشكل أسرع وبكفاءة وبأسلوب يتوافق مع العمليات.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام وحدات الماكرو.\n- تعرف على كيفية استخدام الأتمتة.\n- استكشف استخدام البرامج النصية للمندوب.\n- تعرف على كيفية استخدام المساعدة الذكية.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/productivity-tools.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.productivity-tools.1-introduction
+- learn-dynamics.productivity-tools.2-macros
+- learn-dynamics.productivity-tools.3-automation
+- learn-dynamics.productivity-tools.4-agent-scripts
+- learn-dynamics.productivity-tools.5-smart-assist
+- learn-dynamics.productivity-tools.6-check
+- learn-dynamics.productivity-tools.7-summary
+badge:
+  uid: learn-dynamics.productivity-tools.badge

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.entity-record-routing.4-triggering
+title: تشغيل التوجيه
+metadata:
+  title: تشغيل التوجيه
+  description: تعرف على كيفية تشغيل المسار.
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8d60740d81f9edca4a44787ff6375f84959831a7
+  ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6658531"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-triggering.md)]"

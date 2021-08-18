@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-service-call-insights.3-data
+title: الاحتفاظ بالبيانات وحذفها
+metadata:
+  title: الاحتفاظ بالبيانات وحذفها
+  description: تعرف على الاحتفاظ بالبيانات وحذفها.
+  ms.date: 08/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-customer-insights
+  ms.openlocfilehash: 7098e2f56f08f0785922882d0a978e287a3fc2bb
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658401"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-data.md)]"

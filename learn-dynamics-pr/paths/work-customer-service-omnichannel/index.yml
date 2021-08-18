@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-customer-service-omnichannel
+metadata:
+  title: التواصل مع العملاء والتفاعل معهم باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
+  description: يشكل تطوير حلول القناة متعددة الاتجاهات الحقيقية ونشرها أمرًا حاسمًا لنجاح أي مؤسسة توفر خدمة عملاء لعملائها.  من خلال ضمان تجربة موحدة وسياقية بغض النظر عن القناة المستخدمة، يمكن للمؤسسات تعزيز رضا العملاء وحل المشاكل بشكل أسرع مما يزيد من الإيرادات.  باستخدام حل القناة متعددة الاتجاهات لـ Customer Service في Dynamics 365، تستطيع المؤسسات نشر حل حقيقي وموجود للقناة متعددة الاتجاهات داخل مؤسسة Dynamics 365 التي تستخدمها كل يوم.
+  ms.date: 01/23/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 692e76af38fd40a6b9e179b15c50a15f4bdfd93a
+  ms.sourcegitcommit: 54a09afb7455ed2825cc24a7243a1f180505ee1b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/30/2021
+  ms.locfileid: "6658512"
+title: التواصل مع العملاء والتفاعل معهم باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيشكل تطوير حلول القناة متعددة الاتجاهات الحقيقية ونشرها أمرًا حاسمًا لنجاح أي مؤسسة توفر خدمة عملاء لعملائها.  من خلال ضمان تجربة موحدة وسياقية بغض النظر عن القناة المستخدمة، يمكن للمؤسسات تعزيز رضا العملاء وحل المشاكل بشكل أسرع مما يزيد من الإيرادات.  باستخدام حل القناة متعددة الاتجاهات لـ Customer Service في Dynamics 365، تستطيع المؤسسات نشر حل حقيقي وموجود للقناة متعددة الاتجاهات داخل مؤسسة Dynamics 365 التي تستخدمها كل يوم.    \n"
+prerequisites: "- فهم أساسي لـ Dynamics 365 Customer Service. \n"
+iconUrl: /learn/achievements/work-customer-service-omnichannel.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+modules:
+- learn-dynamics.getting-started-omnichannel
+- learn-dynamics.entity-record-routing
+- learn-dynamics.work-distribution-omnichannel
+- learn-dynamics.sms-channels
+- learn-dynamics.social-channels
+- learn-dynamics.omnichannel-chat
+- learn-dynamics.create-smart-assist-omnichannel
+- learn-dynamics.customer-service-call-insights
+- learn-dynamics.omnichannel-power-virtual-agents
+- learn-dynamics.productivity-tools
+trophy:
+  uid: learn-dynamics.work-customer-service-omnichannel.trophy

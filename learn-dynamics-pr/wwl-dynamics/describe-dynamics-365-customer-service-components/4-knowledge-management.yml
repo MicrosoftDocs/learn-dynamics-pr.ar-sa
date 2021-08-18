@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-dynamics-365-customer-service-components.knowledge-management
+title: وصف إدارة المعرفة في Dynamics 365 Customer Service
+metadata:
+  title: وصف إدارة المعرفة في Dynamics 365 Customer Service
+  description: وصف إدارة المعرفة في Dynamics 365 Customer Service
+  ms.date: 07/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: b18348ad1031dcdc270245ca4495b702c48e0e2a
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660349"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/4-knowledge-management.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-customer-service.get-introduced-with
+title: تعرف على Dynamics 365 Customer Service
+metadata:
+  title: تعرف على Dynamics 365 Customer Service
+  description: تعرف على Dynamics 365 Customer Service
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 4693b898491eadcc72e1a251499522fd3228068f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658553"
+azureSandbox: false
+durationInMinutes: 9
+content: '[!include[](includes/4-get-introduced.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.productivity-tools.5-smart-assist
+title: المساعدة الذكية
+metadata:
+  title: المساعدة الذكية
+  description: تعرف على كيفية استخدام المساعدة الذكية.
+  ms.date: 08/07/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8b1810486d29744cedef40f04d68473aaefd887e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658399"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-smart-assist.md)]"

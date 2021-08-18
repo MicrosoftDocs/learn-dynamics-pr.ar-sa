@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-service-call-insights.4-performance
+title: تحليل الأداء
+metadata:
+  title: تحليل الأداء
+  description: تعرف على تحليل الأداء.
+  ms.date: 08/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-customer-insights
+  ms.openlocfilehash: 20fc183b4bfdf0bd4f2e12eb1718331c5000314e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658350"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-performance.md)]"

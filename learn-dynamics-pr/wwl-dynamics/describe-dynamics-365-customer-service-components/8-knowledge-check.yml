@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-dynamics-365-customer-service-components.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 3b3217f0bc393740a9dffa26eb8286be14e58cc3
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660638"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أثناء العمل على إحدى الحالات، أضفت نشاط مكالمة هاتفية لتسجيل مكالمة أجريتها للعميل. أين سيتم عرض نشاط المكالمة الهاتفية في سجل الحالة؟
+    choices:
+    - content: عمليات سير إجراءات العمل
+      isCorrect: false
+      explanation: غير صحيح. توفر عمليات سير الإجراءات إرشادات عند العمل على الحالات. كما يساعد على ضمان حصول ممثلي خدمة العملاء على جميع المعلومات الضرورية أثناء عملهم خلال عملية حل الحالة.
+    - content: الخط الزمني للسجل
+      isCorrect: true
+      explanation: صحيح. يتوفر الجدول الزمني للسجل في Dynamics 365 لمعظم السجلات بما في ذلك الحالات. يعرض جميع الأنشطة والملاحظات والمنشورات المتعلقة بسجل محدد استنادًا إلى تاريخ إضافتها.
+    - content: قسم المعلومات العامة
+      isCorrect: false
+      explanation: غير صحيح. لا يتضمن قسم المعلومات العامة أي معلومات عن النشاط، فهو يركز بشكل أساسي على عناصر مثل عنوان الحالة والموضوع والعميل والأصل.
+  - content: ما هو الحقل الذي يتم البحث فيه افتراضيًا لتقديم اقتراحات المقالة المعرفية؟
+    choices:
+    - content: عنوان الحالة
+      isCorrect: true
+      explanation: صحيح. تم تكوين التطبيق الجاهز لاستخدام حقل "عنوان الحالة".
+    - content: وصف الحالة
+      isCorrect: false
+      explanation: غير صحيح. تم تكوين التطبيق الجاهز لاستخدام حقل "عنوان الحالة".
+    - content: رقم الحالة
+      isCorrect: false
+      explanation: غير صحيح. تم تكوين التطبيق الجاهز لاستخدام حقل "عنوان الحالة".
+  - content: أي من العناصر التالية يمثل عقد دعم يوفر للعميل مقدارًا معينًا من ساعات الدعم خلال إطار زمني محدد؟
+    choices:
+    - content: اتفاقية مستوى الخدمة
+      isCorrect: false
+      explanation: غير صحيح. تشكل اتفاقيات مستوى الخدمة طريقة لتحديد أوقات استجابة العملاء وتعقبها.
+    - content: الاستحقاق
+      isCorrect: true
+      explanation: صحيح. تمثل الاستحقاقات عقود دعم في Dynamics 365 Customer Service. يتم استخدامها لتحديد مقدار خدمات الدعم التي يحق للعميل الحصول عليها.
+    - content: الصف
+      isCorrect: false
+      explanation: غير صحيح. الصف هو المكان المناسب لتنظيم وتخزين الأنشطة والحالات التي يُنتظر حلها.

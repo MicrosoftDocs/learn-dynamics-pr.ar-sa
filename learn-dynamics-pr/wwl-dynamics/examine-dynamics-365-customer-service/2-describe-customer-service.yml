@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-customer-service.describe-customer-service
+title: وصف خدمة العملاء
+metadata:
+  title: وصف خدمة العملاء
+  description: وصف خدمة العملاء
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 7a87cf4a2291e1fe5ae0595956433bb3e8fa4b22
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658555"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/2-describe-customer-service.md)]'

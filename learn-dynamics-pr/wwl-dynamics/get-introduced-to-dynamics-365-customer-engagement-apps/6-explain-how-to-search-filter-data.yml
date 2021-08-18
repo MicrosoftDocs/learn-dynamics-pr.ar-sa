@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.explain-how-to-search-filter-data
+title: توضيح كيفية البحث عن البيانات وتصفيتها
+metadata:
+  title: توضيح كيفية البحث عن البيانات وتصفيتها
+  description: توضيح كيفية البحث عن البيانات وتصفيتها
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 6553d852fbbd52cd8b1c4a7938432ec4238cda50
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658571"
+azureSandbox: false
+durationInMinutes: 13
+content: '[!include[](includes/6-explain-how-to-search-filter-data.md)]'

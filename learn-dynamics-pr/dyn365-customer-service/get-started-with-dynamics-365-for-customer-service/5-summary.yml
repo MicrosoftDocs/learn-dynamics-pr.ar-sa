@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.customer-service-get-started.5-summary-cleanup
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerapps
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d6385d6b3a05169c030901a9a0434af87ef071f8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658419"
+title: الملخص
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-summary-cleanup.md)]

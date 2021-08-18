@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-smart-assist-omnichannel.3-build-smart-assist-bot
+title: إنشاء روبوت المساعدة الذكية
+metadata:
+  title: إنشاء روبوت المساعدة الذكية
+  description: تعرف على كيفية إنشاء روبوت المساعدة الذكية.
+  ms.date: 07/29/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 83491ac4c44ac9d4e921496d4eed7d3fc6e81623
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658426"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-build-smart-assist-bot.md)]"

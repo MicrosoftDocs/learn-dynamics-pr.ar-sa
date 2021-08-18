@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.omnichannel-power-virtual-agents.6-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص لدمج روبوت Power Virtual Agents مع القناة متعددة الاتجاهات لـ Customer Service
+  ms.date: 08/05/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-dyn365-customer-service
+  ms.openlocfilehash: 2b2d0f1110443c6dd876f7cec6536c880c6ae87e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658338"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

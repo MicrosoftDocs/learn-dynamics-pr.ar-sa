@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.omnichannel-chat
+metadata:
+  title: نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
+  description: تعرف على كيفية نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service.
+  ms.date: 4/24/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8012c0c6d0304e6edc86116a181a3801f10ee30f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658411"
+title: نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)] \nيتيح عنصر واجهة مستخدم المحادثة للعملاء إمكانية الاتصال بمناديب الخدمة وتقديم المساعدة في الإجابة على استفساراتهم بسرعة. تتناول هذه الوحدة عملية نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قناة محادثة.\n- السماح بتنزيل نسخ المحادثة المكتوبة والملفات.\n- استخدام استطلاعات ما قبل المحادثة.\n- قم بتضمين عنصر واجهة مستخدم المحادثة في المدخل. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/omnichannel-chat.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.omnichannel-chat.1-introduction
+- learn-dynamics.omnichannel-chat.2-channel
+- learn-dynamics.omnichannel-chat.3-transcripts
+- learn-dynamics.omnichannel-chat.4-survey
+- learn-dynamics.omnichannel-chat.5-widget
+- learn-dynamics.omnichannel-chat.6a-proactive
+- learn-dynamics.omnichannel-chat.6-check
+- learn-dynamics.omnichannel-chat.7-summary
+badge:
+  uid: learn-dynamics.omnichannel-chat.badge

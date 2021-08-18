@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-dynamics-365-customer-service-components.explain-case-management
+title: اشرح إدارة الحالة في Dynamics 365 Customer Service
+metadata:
+  title: اشرح إدارة الحالة في Dynamics 365 Customer Service
+  description: اشرح إدارة الحالة في Dynamics 365 Customer Service
+  ms.date: 07/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 716546686a632cd17e85506b910d94c6b5aff659
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660357"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/5-explain-case-management.md)]'

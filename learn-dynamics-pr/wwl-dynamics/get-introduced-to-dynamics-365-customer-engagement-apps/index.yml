@@ -1,0 +1,57 @@
+### YamlMime:Module
+uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps
+metadata:
+  title: تعرف على تطبيقات إشراك العملاء
+  description: تعرف على تطبيقات إشراك العملاء
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 49ea68ee91c424bef39be39e17fde0a2c077cb6d
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658543"
+title: تعرف على تطبيقات إشراك العملاء
+summary: تشرح هذه الوحدة تطبيقات إشراك العملاء في Dynamics 365 وميزاتها المشتركة، بما في ذلك التكامل والإبلاغ والبحث.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - شرح إشراك العملاء
+
+  - وصف Microsoft Dataverse
+
+  - قائمة تطبيقات إشراك العملاء في Dynamics 365
+
+  - وصف المكونات والميزات الشائعة لتطبيقات إشراك العملاء في Dynamics 365
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/get-introduced-to-the-dynamics-365-customer-engagement-apps.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- student
+products:
+- dynamics-365
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-marketing
+- dynamics-sales
+units:
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.introduction
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.define
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.describe-microsoft-dataverse
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.examine
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.work-with-customers-activities
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.explain-how-to-search-filter-data
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.examine-product-catalog
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.review-integration-technologies-use-cases
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.examine-out-of-box-reporting-capabilities
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.knowledge-check
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.summary
+badge:
+  uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.badge

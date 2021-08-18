@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.omnichannel-chat.5-widget
+title: قم بتضمين عنصر واجهة مستخدم المحادثة في المدخل
+metadata:
+  title: قم بتضمين عنصر واجهة مستخدم المحادثة في المدخل
+  description: تعرف على كيفية تضمين عنصر واجهة مستخدم المحادثة في المدخل.
+  ms.date: 4/24/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 0882f49f3566745fa7cb084e2b05f22fe7df37f7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658345"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-widget.md)]"

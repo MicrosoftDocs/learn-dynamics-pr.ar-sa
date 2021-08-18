@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.work-with-customers-activities
+title: العمل مع العملاء والأنشطة
+metadata:
+  title: العمل مع العملاء والأنشطة
+  description: العمل مع العملاء والأنشطة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 5752108c0863051b6f6244a33473d16c7c69a68f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658560"
+azureSandbox: false
+durationInMinutes: 14
+content: '[!include[](includes/5-work-customers-activities.md)]'

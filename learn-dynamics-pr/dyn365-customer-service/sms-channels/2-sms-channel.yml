@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.sms-channels.2-sms-channel
+title: تكوين دعم الرسائل القصيرة
+metadata:
+  title: تكوين دعم الرسائل القصيرة
+  description: تعرف على كيفية تكوين دعم الرسائل القصيرة.
+  ms.date: 08/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: fec44e1f60d3f787b907b718ce4201e73f88ed24
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658363"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-sms-channel.md)]"

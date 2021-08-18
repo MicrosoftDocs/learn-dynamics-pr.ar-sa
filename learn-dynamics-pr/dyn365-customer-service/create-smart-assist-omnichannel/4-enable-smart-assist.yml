@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-smart-assist-omnichannel.4-enable-smart-assist
+title: ادمج روبوتاً مساعداً ذكياً مع القناة متعددة الاتجاهات لـ Customer Service
+metadata:
+  title: ادمج روبوتاً مساعداً ذكياً مع القناة متعددة الاتجاهات لـ Customer Service
+  description: تعرف على كيفية دمج روبوتاً مساعداً ذكياً مع القناة متعددة الاتجاهات لـ Customer Service.
+  ms.date: 07/29/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 3188c14302a5f6672f8963472933b706bbbf835a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658424"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-enable-smart-assist.md)]"

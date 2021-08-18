@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn.wwl.review-other-customer-service-apps
+metadata:
+  title: مراجعة تطبيقات خدمة العملاء الأخرى
+  description: مراجعة تطبيقات خدمة العملاء الأخرى
+  ms.date: 07/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 31886804144e9d5df5640be71e17598b84bc3d0c
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660516"
+title: مراجعة تطبيقات خدمة العملاء الأخرى
+summary: تشرح هذه الوحدة النمطية تطبيقات خدمة العملاء الأخرى التي تم دمجها مع Dynamics 365 Customer Service.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - وصف القناة متعددة الاتجاهات لـ Customer Service
+
+  - مناقشة متى وكيف يمكن الاستفادة من Customer Service Insights
+
+  - شرح جدولة خدمة العملاء
+
+  - وصف Connected Customer Service
+prerequisites: ''
+iconUrl: /learn/achievements/review-additional-customer-service-apps.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-cust-svc-insights
+- dynamics-customer-service
+units:
+- learn.wwl.review-other-customer-service-apps.introduction
+- learn.wwl.review-other-customer-service-apps.get-introduced
+- learn.wwl.review-other-customer-service-apps.learn-how-to-use-customer-service-scheduling
+- learn.wwl.review-other-customer-service-apps.view-remote-device-management-with-connected
+- learn.wwl.review-other-customer-service-apps.view-how-to-use-omnichannel-for
+- learn.wwl.review-other-customer-service-apps.explore-customer-service-workspace
+- learn.wwl.review-other-customer-service-apps.view-capabilities-of-dynamics-365-insights
+- learn.wwl.review-other-customer-service-apps.knowledge-check
+- learn.wwl.review-other-customer-service-apps.summary
+badge:
+  uid: learn.wwl.review-other-customer-service-apps.badge

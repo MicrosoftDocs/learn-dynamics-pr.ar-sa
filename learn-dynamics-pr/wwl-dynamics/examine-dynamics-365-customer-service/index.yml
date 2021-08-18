@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn.wwl.examine-dynamics-365-customer-service
+metadata:
+  title: استكشاف Dynamics 365 Customer Service
+  description: استكشاف Dynamics 365 Customer Service
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: c4ff7b46963e66a44d2157271de01178f8cbcb4f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658561"
+title: استكشاف Dynamics 365 Customer Service
+summary: تشرح لك هذه الوحدة Dynamics 365 Customer Service وكيفية دعمها لعملية خدمة العملاء.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - وصف استراتيجيات خدمة العملاء
+
+  - توضيح المجال الرئيسي ومصطلحات التطبيق
+
+  - بدء استخدام Dynamics 365 Customer Service.
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/review-additional-customer-service-apps.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-customer-service
+units:
+- learn.wwl.examine-dynamics-365-customer-service.introduction
+- learn.wwl.examine-dynamics-365-customer-service.describe-customer-service
+- learn.wwl.examine-dynamics-365-customer-service.explain-key-terminology
+- learn.wwl.examine-dynamics-365-customer-service.get-introduced-with
+- learn.wwl.examine-dynamics-365-customer-service.knowledge-check
+- learn.wwl.examine-dynamics-365-customer-service.summary
+badge:
+  uid: learn.wwl.examine-dynamics-365-customer-service.badge

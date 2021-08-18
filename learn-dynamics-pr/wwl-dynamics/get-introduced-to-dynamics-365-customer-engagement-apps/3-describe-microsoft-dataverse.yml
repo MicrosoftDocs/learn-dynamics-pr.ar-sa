@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.describe-microsoft-dataverse
+title: وصف Microsoft Dataverse
+metadata:
+  title: وصف Microsoft Dataverse
+  description: وصف Microsoft Dataverse
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 629b42f896722ce45b39e55a6f9653d28010b41e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6658570"
+azureSandbox: false
+durationInMinutes: 3
+content: '[!include[](includes/3-describe-microsoft-dataverse.md)]'

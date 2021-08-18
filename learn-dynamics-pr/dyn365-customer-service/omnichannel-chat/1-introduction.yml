@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.omnichannel-chat.1-introduction
+title: مقدمة لقنوات الدردشة
+metadata:
+  title: مقدمة لقنوات الدردشة
+  description: تعرف على أساسيات قنوات الدردشة.
+  ms.date: 4/24/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bf849cdb3492e4655c12588c84340f21cb9dc320
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658356"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

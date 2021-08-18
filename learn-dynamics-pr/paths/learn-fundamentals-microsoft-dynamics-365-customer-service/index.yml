@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service
+metadata:
+  title: تعرف على أساسيات خدمة العملاء في Microsoft Dynamics 365
+  description: تعرف على أساسيات خدمة العملاء في Microsoft Dynamics 365
+  ms.date: 06/28/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 2acb823000c7b8efe31d60c816d93740aee9dfad
+  ms.sourcegitcommit: 25999e53fa21290493ff5e287874d99bceeddbac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/28/2021
+  ms.locfileid: "6658536"
+title: تعرف على أساسيات خدمة العملاء في Microsoft Dynamics 365
+prerequisites: >
+  يجب أن يكون لديك فهم أساسي لمبادئ Customer Engagement وعمليات الأعمال. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+summary: >
+  هل أنت جديد على Dynamics 365؟ تقدم هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لـ Customer Engagement والعناصر المشتركة فيه، بالإضافة إلى أي تطبيق من تطبيقات Dynamics 365 Customer Engagement. ابدأ بمسار التعليم هذا للتعرف على Dynamics 365 Customer Service.
+iconUrl: /learn/achievements/explore-microsoft-dynamics-365-customer-service.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-customer-service
+modules:
+- learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps
+- learn.wwl.examine-dynamics-365-customer-service
+- learn.wwl.describe-dynamics-365-customer-service-components
+- learn.wwl.review-other-customer-service-apps
+trophy:
+  uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service.trophy

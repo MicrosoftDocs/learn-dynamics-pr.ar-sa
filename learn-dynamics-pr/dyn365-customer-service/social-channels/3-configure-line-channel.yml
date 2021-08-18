@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.social-channels.3-configure-line-channel
+title: تكوين قناة LINE
+metadata:
+  title: تكوين قناة LINE
+  description: تعرف على كيفية تكوين قناة LINE.
+  ms.date: 08/06/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-voice
+  ms.openlocfilehash: 56506eeedf80653e001f50271a33cec0c9425da9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658408"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-configure-line-channel.md)]"

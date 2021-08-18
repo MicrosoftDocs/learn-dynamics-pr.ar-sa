@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.getting-started-omnichannel
+metadata:
+  title: بدء استخدام القناة متعددة الاتجاهات لـ Customer Service
+  description: باستخدام القناة متعددة الاتجاهات لـ Customer Service، يمكن للمناديب تقديم الخدمة لعدة عملاء عبر قنوات مختلفة مباشرة من داخل بيئة Dynamics 365 لديهم. تتناول هذه الوحدة ميزات ووظائف القناة متعددة الاتجاهات.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: fcb9f321504e2428710a55775fc42018f823cb78
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658353"
+title: بدء استخدام القناة متعددة الاتجاهات لـ Customer Service
+summary: "[!include[](../includes/module-banner.md)] \n\nباستخدام القناة متعددة الاتجاهات لـ Customer Service، يمكن للمناديب تقديم الخدمة لعدة عملاء عبر قنوات مختلفة مباشرة من داخل بيئة Dynamics 365 لديهم. تتناول هذه الوحدة ميزات ووظائف القناة متعددة الاتجاهات.    \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على تجربة المندوب وإدارة الجلسات.\n- العمل مع المحادثات وملخصات العملاء. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/getting-started-omnichannel.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.getting-started-omnichannel.1-introduction
+- learn-dynamics.getting-started-omnichannel.2-agent-experience
+- learn-dynamics.getting-started-omnichannel.3-sessions
+- learn-dynamics.getting-started-omnichannel.4-conversations
+- learn-dynamics.getting-started-omnichannel.5-customer-summary
+- learn-dynamics.getting-started-omnichannel.6-agent-productivity
+- learn-dynamics.getting-started-omnichannel.6-check
+- learn-dynamics.getting-started-omnichannel.7-summary
+badge:
+  uid: learn-dynamics.getting-started-omnichannel.badge
