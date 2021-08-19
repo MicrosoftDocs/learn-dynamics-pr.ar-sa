@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.5-overview-prod-process-life-cycle
+title: نظرة عامة على عملية الإنتاج ودورة حياة الإنتاج
+metadata:
+  title: نظرة عامة على عملية الإنتاج ودورة حياة الإنتاج
+  description: تصف هذه الوحدة عملية الإنتاج ودورة حياة الإنتاج في Supply Chain Management.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8259d1064c7c0c9058b615839eaa99e050c97383
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667920"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-overview-prod-process-life-cycle.md)]

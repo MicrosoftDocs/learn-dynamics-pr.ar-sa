@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.9-conf-credit-coll-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 72c8b074c7bfb1f5877419c09127684fb3db810d
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677537"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: تخطط شركتك لفرض فائدة على مدفوعات العملاء المتأخرة. تقوم بإعداد رموز الفائدة المطلوبة في Finance. ما الخطوة التالية؟
+    choices:
+    - content: تطبيق رموز الفائدة على مجموعات العملاء.
+      isCorrect: false
+      explanation: لا يمكنك تطبيق رموز الفائدة على مجموعة عملاء مباشرة.
+    - content: تطبيق رموز الفائدة على العميل.
+      isCorrect: false
+      explanation: لا يمكنك تطبيق رموز الفائدة على العميل مباشرة.
+    - content: تطبيق رموز الفائدة على ملفات تعريف ترحيل العملاء.
+      isCorrect: true
+      explanation: بعد إعداد رموز الفائدة، يجب عليك تعيينها في ملف تعريف ترحيل العميل.
+  - content: تخطط شركتك لتحصيل فائدة على المدفوعات المتأخرة للعملاء المقيمين في ولاية كاليفورنيا بالولايات المتحدة. تقوم بإعداد رموز الفائدة المطلوبة في Finance. أي إعداد من الإعدادات التالية يجب أن تستخدمه في ملفات تعريف ترحيل العملاء؟
+    choices:
+    - content: جدول
+      isCorrect: false
+      explanation: يسمح لك الجدول فقط بربط رمز فائدة واحد بعميل واحد.
+    - content: 'الكل '
+      isCorrect: false
+      explanation: يعني الكل أنه سيتم تطبيق نفس رمز الفائدة على جميع العملاء.
+    - content: المجموعة
+      isCorrect: true
+      explanation: من خلال اختيار المجموعة واختيار مجموعة عملاء كاليفورنيا في ملف تعريف ترحيل العميل، يمكنك تحقيق هدفك.

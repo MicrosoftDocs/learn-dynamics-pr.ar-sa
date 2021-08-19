@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.convert-engineering-product-supply-chain-management
+metadata:
+  title: تحويل منتج موجود إلى منتج هندسي في Dynamics 365 Supply Chain Management
+  description: تعلم كيفية تحويل منتج موجود إلى منتج هندسي في Dynamics 365 Supply Chain Management.
+  ms.date: 06/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 978d8c399091de877cb513039ab26c1e411e3f6a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668361"
+title: تحويل منتج موجود إلى منتج هندسي في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nالمنتج الهندسي في Dynamics 365 Supply Chain Management هو منتج يتم التحكم في إصداره من خلال الوظيفة الإضافية لإدارة التغييرات الهندسية لـ Microsoft Dynamics 365 Supply Chain Management. يمكنك تحويل منتج موجود إلى منتج هندسي.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تفعيل إدارة التغيير بالمنتجات الحالية.\n- تمكين فئات المنتجات الهندسية.\n- تشغيل معالج التحويل إلى منتج هندسي.\n"
+prerequisites: >
+  - معرفة عمليات Supply Chain Management.
+
+  - كيفية التنقل في Dynamics 365 Supply Chain Management.
+
+  - معرفة الوظيفة الإضافية لإدارة التغيير الهندسي.
+iconUrl: /learn/achievements/convert-engineering-product-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-scm
+units:
+- learn-dynamics.convert-engineering-product-supply-chain-management.1-introduction
+- learn-dynamics.convert-engineering-product-supply-chain-management.2-change-management
+- learn-dynamics.convert-engineering-product-supply-chain-management.3-product-categories
+- learn-dynamics.convert-engineering-product-supply-chain-management.4-convert-wizard
+- learn-dynamics.convert-engineering-product-supply-chain-management.5-check
+- learn-dynamics.convert-engineering-product-supply-chain-management.6-summary
+badge:
+  uid: learn-dynamics.convert-engineering-product-supply-chain-management.badge

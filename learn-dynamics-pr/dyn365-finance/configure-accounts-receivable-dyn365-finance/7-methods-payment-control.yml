@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.7-methods-payment-control
+title: طرق الدفع والتحكم في الدفع
+metadata:
+  title: طرق الدفع والتحكم في الدفع
+  description: توضح هذه الوحدة طرق الدفع والتحكم في الدفع في Dynamics 365 Finance.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7c9627e1e773a56b625e63a45e3fab0299345955
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677293"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-methods-payment-control.md)]

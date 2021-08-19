@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-assets-management.12-exercise
+title: المعمل - العمل مع الأصول
+labId: 72799
+metadata:
+  title: المعمل - العمل مع الأصول
+  description: تساعدك هذه الوحدة على التدرب على العمل مع الأصول
+  ms.date: 05/21/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 462d8ac4d39b9ddc95169ae7de91e7772d91207c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668111"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/12-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

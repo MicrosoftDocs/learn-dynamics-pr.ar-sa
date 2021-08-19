@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops.19-configure-tax-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص الخاص بتكوين الوحدة النمطية للضريبة في وحدة Dynamics 365 Finance النمطية.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4d41a1c06a79438546f390dd3d465d8e7319888c
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677422"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/19-configure-tax-summary.md)]

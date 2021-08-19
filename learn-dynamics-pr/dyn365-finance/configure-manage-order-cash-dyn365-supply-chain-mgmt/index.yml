@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-manage-order-to-cash
+metadata:
+  title: تكوين عملية الأمر إلى النقد وإدارتها في Dynamics 365 Supply Chain Management
+  description: تدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير والحسابات المدينة في العملية التدفقات النقدية للشركة.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7b861897eae6c0709c706b8466b051c58cb0e5c9
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677682"
+title: تكوين عملية الأمر إلى النقد وإدارتها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير والحسابات المدينة في العملية التدفقات النقدية للشركة.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إجراء عملية الأمر إلى النقد.\n- تكوين العمولات واستخدامها.\n- تكوين البحث عن العميل والصنف.\n- إنشاء عروض أسعار المبيعات وتأكيدها.\n- إنشاء أوامر المبيعات وتأكيدها.\n- طباعة قوائم الانتقاء وترحيلها.\n- إنشاء فاتورة أمر مبيعات وترحيلها.\n- تكوين رموز تعليق الأوامر.\n- معالجة مرتجعات العميل.\n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المبيعات\n- المعرفة العامة بإجراءات الحسابات المدينة\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
+iconUrl: /learn/achievements/configure-and-manage-the-order-to-cash-process-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-manage-order-to-cash.1-order-to-cash-process
+- learn-dynamics.configure-manage-order-to-cash.2-create-confirm-sales-quotations
+- learn-dynamics.configure-manage-order-to-cash.2-1-create-process-sales-orders
+- learn-dynamics.configure-manage-order-to-cash.3-sales-order-entry-scenarios
+- learn-dynamics.configure-manage-order-to-cash.4-sales-order-picking-processes
+- learn-dynamics.configure-manage-order-to-cash.5-configure-order-promising
+- learn-dynamics.configure-manage-order-to-cash.6-configure-order-hold-codes
+- learn-dynamics.configure-manage-order-to-cash.7-process-customer-returns
+- learn-dynamics.configure-manage-order-to-cash.8-configure-use-commissions
+- learn-dynamics.configure-manage-order-to-cash.9-configure-customer-item-search
+- learn-dynamics.configure-manage-order-to-cash.10-exercise-create-sales-order
+- learn-dynamics.configure-manage-order-to-cash.11-exercise-configure-use-commissions
+- learn-dynamics.configure-manage-order-to-cash.12-knowledge-check
+- learn-dynamics.configure-manage-order-to-cash.13-configure-order-to-cash-summary
+badge:
+  uid: learn-dynamics.configure-and-manage-the-order-to-cash-process-in-dynamics-365-for-finance-ops.badge

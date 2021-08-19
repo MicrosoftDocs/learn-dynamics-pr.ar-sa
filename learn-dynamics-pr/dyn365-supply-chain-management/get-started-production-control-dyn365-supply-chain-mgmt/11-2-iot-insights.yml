@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.11-2-iot-insights
+title: تحليلات ومعلومات ‏‫حول إنترنت الأشياء‬
+metadata:
+  title: تحليلات ومعلومات ‏‫حول إنترنت الأشياء‬
+  description: تصف هذه الوحدة معلومات إنترنت الأشياء والرؤى المستفيضة في Supply Chain Management.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e2ed0053c1624e8d73ce99255999cf0e9eef03b5
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667408"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-2-iot-insights.md)]

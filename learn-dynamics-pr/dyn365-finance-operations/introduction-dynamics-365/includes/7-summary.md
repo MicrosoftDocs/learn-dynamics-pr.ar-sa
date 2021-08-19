@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 79d2bf46a8dad90b57f2c939ce91cce134d769be
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: c3af93dd95320ebd8ea53b9e99bb34299186f4ef
+ms.sourcegitcommit: c8884bde6b4fb84c6869af4ee3e4b4ae3724a271
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446839"
+ms.lasthandoff: 07/21/2021
+ms.locfileid: "6647508"
 ---
 في هذه الوحدة، تعرفت على بعض الإمكانات والميزات الأساسية المتوفرة كجزء من Microsoft Dynamics ‏365. تضمنت هذه المقدمة مناقشة حول التحول الرقمي والحاجة إلى إنشاء تطبيقات أعمال معيارية حديثة تعمل معاً على منصة واحدة. أخيراً، تعرفت على تطبيقات الأعمال المختلفة المتاحة كجزء من Customer Engagement وFinance and Operations وPower Platform. 
 
@@ -22,7 +22,7 @@ ms.locfileid: "6446839"
 
 - اتبع [مدونة فريق Dynamics 365 ](https://community.dynamics.com/365/b/365teamblog) للبقاء على اطلاع.
 
-- اقرأ [وثائق Dynamics 365](https://docs.microsoft.com/dynamics365/) لمعرفة المزيد.
+- اقرأ [وثائق Dynamics 365](/dynamics365/) لمعرفة المزيد.
 
 - خطط [لأحداث Dynamics 365](https://dynamics.microsoft.com/events/).
 
@@ -32,27 +32,27 @@ ms.locfileid: "6446839"
 
  **التطبيقات المستندة إلى النماذج**
 
-- اقرأ وثائق [Microsoft Dynamics ‏365 Sales](https://docs.microsoft.com/dynamics365/sales-enterprise/help-hub/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics ‏365 Sales](/dynamics365/sales-enterprise/help-hub/) لمعرفة المزيد.
 
-- اقرأ وثائق [Microsoft Dynamics ‏365 Marketing](https://docs.microsoft.com/dynamics365/marketing/help-hub/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics ‏365 Marketing](/dynamics365/marketing/help-hub/) لمعرفة المزيد.
 
-- اقرأ وثائق [Microsoft Dynamics ‏365 Customer Service](https://docs.microsoft.com/dynamics365/customer-service/help-hub/) لمعرفة المزيد. 
+- اقرأ وثائق [Microsoft Dynamics ‏365 Customer Service](/dynamics365/customer-service/help-hub/) لمعرفة المزيد. 
 
-- اقرأ وثائق [Microsoft Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365/field-service/user-guide/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics 365 Field Service](/dynamics365/field-service/user-guide/) لمعرفة المزيد.
 
 **تطبيقات Finance and Operations**
 
-- اقرأ وثائق [Microsoft Dynamics 365 Human Resources](https://docs.microsoft.com/dynamics365/talent/talent-welcome/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics 365 Human Resources](/dynamics365/talent/talent-welcome/) لمعرفة المزيد.
 
-- اقرأ وثائق [Microsoft Dynamics 365 Commerce](https://docs.microsoft.com/dynamics365/retail/index/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics 365 Commerce](/dynamics365/retail/index/) لمعرفة المزيد.
 
-- اقرأ وثائق [Microsoft Dynamics 365 Finance](https://docs.microsoft.com/dynamics365/finance/index/) لمعرفة المزيد. 
+- اقرأ وثائق [Microsoft Dynamics 365 Finance](/dynamics365/finance/index/) لمعرفة المزيد. 
 
-- اقرأ وثائق [Microsoft Dynamics 365 Supply Chain Management](https://docs.microsoft.com/dynamics365/supply-chain/index/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics 365 Supply Chain Management](/dynamics365/supply-chain/index/) لمعرفة المزيد.
 
 **Business Central**
 
-- اقرأ وثائق [Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/dynamics365/business-central/index/) لمعرفة المزيد.
+- اقرأ وثائق [Microsoft Dynamics 365 Business Central](/dynamics365/business-central/index/) لمعرفة المزيد.
 
  **الذكاء الاصطناعي**
 
@@ -62,8 +62,8 @@ ms.locfileid: "6446839"
 
 **الواقع المختلط**
 
-- اقرأ وثائق [Microsoft HoloLens](https://docs.microsoft.com/hololens/) لمعرفة المزيد. 
+- اقرأ وثائق [Microsoft HoloLens](/hololens/) لمعرفة المزيد. 
 
 - اقرأ موقع ويب [الواقع المختلط](https://dynamics.microsoft.com/mixed-reality/overview) لمعرفة المزيد.
 
-- اقرأ وثائق [الواقع المختلط](https://docs.microsoft.com/dynamics365/mixed-reality) لمعرفة المزيد.
+- اقرأ وثائق [الواقع المختلط](/dynamics365/mixed-reality) لمعرفة المزيد.

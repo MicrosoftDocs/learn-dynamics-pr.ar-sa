@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.5-defining-products-as-not-stocked
+title: تعريف المنتجات كغير مخزّنة
+metadata:
+  title: تعريف المنتجات كغير مخزّنة
+  description: تصف هذه الوحدة كيفية تعريف المنتجات كغير مخزّنة في Supply Chain Management.
+  ms.date: 05/18/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a7157b9c89a9125f08d18d8790360b49a4537392
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668158"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-defining-products-as-not-stocked.md)]

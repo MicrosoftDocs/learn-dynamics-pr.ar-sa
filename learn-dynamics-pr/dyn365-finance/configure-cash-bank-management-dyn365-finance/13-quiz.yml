@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.13-config-cash-bank-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 01/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 2b9dea61580df6e1466eee8741d289770084e787
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677121"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ترغب في حذف شيك من التمويل. ما الحالة التي يجب أن يكون عليها الشيك قبل أن يتم حذفه؟
+    choices:
+    - content: تم الإنشاء
+      isCorrect: true
+      explanation: يمكن حذف الشيكات ذات الحالة "تم الإنشاء" فقط.
+    - content: مدفوع
+      isCorrect: false
+      explanation: لا يمكن حذف الشيكات ذات الحالة "مدفوع".
+    - content: تمت المعالجة
+      isCorrect: false
+      explanation: لا توجد حالة فحص تسمى "تمت المعالجة" في التمويل.
+    - content: لاغٍ
+      isCorrect: false
+      explanation: لا يمكن حذف الشيكات ذات الحالة "لاغٍ".
+  - content: إذا كنت تستخدم الشيكات المطبوعة مسبقاً، ما الطريقة التي تحددها في حقل أسلوب التحقق من الرقم؟
+    choices:
+    - content: مجاني
+      isCorrect: false
+      explanation: إذا كنت تستخدم "مجاني"، فهذا يعني أنه ليس لديك شيكات مطبوعة مسبقاً بأرقام الشيكات المطبوعة بالفعل. يمكنك تحديد رقم الشيك في وقت إنشاء الدفعات في صفحة دفتر يومية الدفع.
+    - content: ثابت
+      isCorrect: true
+      explanation: إذا كنت تستخدم "ثابت"، فهذا يعني أنه ليس لديك شيكات مطبوعة مسبقاً بأرقام الشيكات المطبوعة بالفعل.
+    - content: طباعة
+      isCorrect: false
+      explanation: الطباعة ليست خياراً صالحاً عند إعداد أسلوب رقم الشيك.
+    - content: الأصل
+      isCorrect: false
+      explanation: الأصل ليست خياراً صالحاً عند إعداد أسلوب رقم الشيك.
+  - content: يجب أن تقوم Annie، مسؤول الدفاتر، بإنشاء شيكات مرقمة من 45701 إلى 45706. ما القيم التي يجب إدخالها في حقلي "من" و"الكمية" للقيام بذلك؟
+    choices:
+    - content: أدخل 45701 في الحقل "من" و5 في الحقل "الكمية".
+      isCorrect: false
+      explanation: ينشئ هذا الأسلوب الشيكات من 45701 إلى 45705.
+    - content: أدخل 45706 في الحقل "من" و5 في الحقل "الكمية".
+      isCorrect: false
+      explanation: ينشئ هذا الأسلوب الشيكات من 45706 إلى 45710.
+    - content: أدخل 45701 في الحقل "من" و6 في الحقل "الكمية".
+      isCorrect: true
+      explanation: ينشئ هذا الأسلوب الشيكات من 45701 إلى 45706.
+    - content: أدخل 45706 في الحقل "من" و6 في الحقل "الكمية".
+      isCorrect: false
+      explanation: ينشئ هذا الأسلوب الشيكات من 45706 إلى 45711.

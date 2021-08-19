@@ -1,0 +1,24 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.1-configure-public-sector-intro
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة حول تكوين الإدارة المالية للقطاع العام في وحدة Dynamics 365 Finance النمطية
+  ms.date: 05/31/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/public-sector/year-end-processing-public-sector, https://docs.microsoft.com/dynamics365/unified-operations/financials/public-sector/tasks/create-advanced-ledger-entry-public-sector
+  ms.openlocfilehash: 5ee8e9954183709be2f792a4d3165281aa94e568
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677697"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-configure-public-sector-intro.md)]

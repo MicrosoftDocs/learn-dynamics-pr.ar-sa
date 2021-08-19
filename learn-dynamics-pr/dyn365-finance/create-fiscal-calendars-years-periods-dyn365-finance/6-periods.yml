@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.6-maintain-periods-for-your-organization
+title: الاحتفاظ بفترات مؤسستك
+metadata:
+  title: الاحتفاظ بفترات مؤسستك
+  description: توضح هذه الوحدة كيفية الاحتفاظ بفترات مؤسستك في Dynamics 365 Finance
+  ms.date: 04/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d71dff0c902c5ef177ff9cc7e376266f48e192f7
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677254"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-maintain-periods-for-your-organization.md)]
