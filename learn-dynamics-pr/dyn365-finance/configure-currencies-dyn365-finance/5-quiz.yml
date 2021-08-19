@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-currencies-in-dynamics-365-finance-ops.5-configure-currencies-in-f-and-o-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: b3ec05b392948127160c5a5fa1ee6f81e1501181
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677656"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما نوع العملة المعروفة باسم عملة دفتر الأستاذ؟
+    choices:
+    - content: عملة المحاسبة.
+      isCorrect: true
+      explanation: عملة المحاسبة هي وحدة القياس النقدية المستخدمة لتسجيل القيمة النقدية المحولة للحركات الاقتصادية في حسابات دفتر الأستاذ. قد يُشار إليها أيضاً باسم عملة "الشركة" أو عملة دفتر الأستاذ.
+    - content: عملة التحويل الثلاثي.
+      isCorrect: false
+      explanation: التحويل الثلاثي للعملة هو العملية التي يجب أن يتم فيها تحويل مبالغ من عملة وطنية إلى عملة وطنية أخرى مشاركة من خلال مقارنتها بعملة أخرى، مثل اليورو.
+    - content: عملة التقارير.
+      isCorrect: false
+      explanation: عملة التقارير هي عملة محاسبة ثانوية في الوحدات النمطية المالية تقيس القيمة النقدية المحولة للحركات.
+  - content: ما نوع العملة المعروفة كعملة ثانوية؟
+    choices:
+    - content: عملة المحاسبة.
+      isCorrect: false
+      explanation: عملة المحاسبة هي وحدة القياس النقدية المستخدمة لتسجيل القيمة النقدية المحولة للحركات الاقتصادية في حسابات دفتر الأستاذ. قد يُشار إليها أيضاً باسم عملة "الشركة" أو عملة دفتر الأستاذ.
+    - content: عملة التحويل الثلاثي.
+      isCorrect: false
+      explanation: عملة التحويل الثلاثي هي العملية التي يجب أن يتم فيها تحويل مبالغ من عملة وطنية إلى عملة وطنية أخرى مشاركة من خلال مقارنتها بعملة أخرى، مثل اليورو.
+    - content: عملة التقارير.
+      isCorrect: true
+      explanation: عملة التقارير هي عملة محاسبة ثانوية في الوحدات النمطية المالية تقيس القيمة النقدية المحولة للحركات.

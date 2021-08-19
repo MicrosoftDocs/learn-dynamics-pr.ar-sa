@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.schedule-work-orders-asset-management.06-exercise-2
+title: المعمل - إنشاء أمر عمل وجدولته
+labId: 72121
+metadata:
+  title: المعمل - إنشاء أمر عمل وجدولته
+  description: في هذه الوحدة، ستتمرن على كيفية إنشاء أمر عمل وجدولته
+  ms.date: 06/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 917adada03614d5fb99ae1eddd228cb198e930ad
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668435"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/06-exercise-2.md)] \n[!include[](../includes/standalone-lab-end.md)]"

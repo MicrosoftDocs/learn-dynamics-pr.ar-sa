@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.8-lean-manufacturing
+title: Lean manufacturing
+metadata:
+  title: Lean manufacturing
+  description: توضح هذه الوحدة lean manufacturing في ‏‫Supply Chain Management‬.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ffdec4e7a9d0ed0d26affdfba467975f71cee488
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667919"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-lean-manufacturing.md)]

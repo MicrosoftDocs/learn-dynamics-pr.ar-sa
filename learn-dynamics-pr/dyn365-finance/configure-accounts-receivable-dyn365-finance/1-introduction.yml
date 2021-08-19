@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.1-configure-accounts-receivable-intro
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة حول تكوين الحسابات المدينة في وحدة Dynamics 365 Finance النمطية
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 053c25a3dd5d7c76e9745b05454d8c78a5b7a48f
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677181"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-configure-accounts-receivable-intro.md)]

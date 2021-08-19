@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.12-exercise-create-a-direct-debit-mandate
+title: 'معمل: إنشاء حساب بنكي يمثل جزءاً من مجموعة بنكية'
+labId: 88387
+metadata:
+  title: 'معمل: إنشاء حساب بنكي يمثل جزءاً من مجموعة بنكية'
+  description: تدرب على إنشاء حساب بنكي يمثل جزءاً من مجموعة بنكية.
+  ms.date: 01/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b0308cb5c085f52b645c5211a2ba644a5a0ab9eb
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677120"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)] \n[!include[](includes/12-exercise-create-a-direct-debit-mandate.md)] \n[!include[](../includes/standalone-lab-end.md)]"

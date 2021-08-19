@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-organization.11-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: bb69c3952d3f56b53e88515a98106b22f2317a11
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693266"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية ليس نوع وحدة تشغيل في Dynamics 365 Human Resources؟
+    choices:
+    - content: القسم
+      isCorrect: false
+      explanation: القسم هو وحدة تشغيل في التطبيق.
+    - content: مركز التكلفة
+      isCorrect: false
+      explanation: ‏‫مركز التكلفة هو وحدة تشغيل في التطبيق.
+    - content: الفريق
+      isCorrect: true
+      explanation: الفريق ليس وحدة تشغيل في الموارد البشرية.
+    - content: تدفق القيم
+      isCorrect: false
+      explanation: تدفق القيم هو وحدة تشغيل في التطبيق.
+  - content: أي من أدوار التوقيع الإلكتروني التالية هو الشخص الذي يوفر التوقيعات الإلكترونية للمستندات والعمليات التي تتطلب توقيعاً؟
+    choices:
+    - content: الموقع
+      isCorrect: true
+      explanation: دور الموقع هو الشخص الذي يوفر التوقيعات الإلكترونية للمستندات والعمليات التي تتطلب توقيعاً.
+    - content: مسؤول التوقيع الإلكتروني
+      isCorrect: false
+      explanation: يقوم مسؤول التوقيع الإلكتروني بإعداد معلمات متطلبات التوقيع والموافقين عليها، ويتلقى التنبيهات عندما يتعذر التحقق من التواقيع.
+    - content: مدقق التوقيع الإلكتروني
+      isCorrect: false
+      explanation: مدقق التوقيع الإلكتروني هو شخص يستعرض سجل قاعدة البيانات وسجل مراجعة التوقيع.
+  - content: ما هي أداة تخزين الملفات التي توصي بها Microsoft لإدارة المستندات؟
+    choices:
+    - content: OneDrive
+      isCorrect: false
+      explanation: OneDrive ليست أداة التخزين الموصى بها.
+    - content: SharePoint Online
+      isCorrect: true
+      explanation: SharePoint Online ليست أداة التخزين الموصى بها.
+    - content: Azure Data Lake Storage
+      isCorrect: false
+      explanation: Azure Data Lake Storage ليس الحل الموصى به.
+    - content: Dataverse
+      isCorrect: false
+      explanation: Dataverse ليس الحل الموصى به.

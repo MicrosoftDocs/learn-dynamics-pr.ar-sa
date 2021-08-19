@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-warehouse-management.8-packing-containerization
+title: التعبئة والتعبئة في حاويات
+metadata:
+  title: التعبئة والتعبئة في حاويات
+  description: تعرف على كيفية تكوين التعبئة والتعبئة في الحاويات في Supply Chain Management.
+  ms.date: 06/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6c8eea7130a9c3284f8c42423083e7551d635ff9
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668249"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-packing-containerization.md)]

@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-personnel
+metadata:
+  title: إدارة الموظفين باستخدام Dynamics 365 Human Resources
+  description: توضح هذه الوحدة النمطية كيفية إدارة الموظفين في Microsoft Dynamics 365 Human Resources.
+  ms.date: 07/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: aa4263bcaa33d9d36c884ddacada8df99087e949
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6692927"
+title: إدارة الموظفين باستخدام Dynamics 365 Human Resources
+summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة، ستتعلم كيفية إنشاء مكونات التطبيقات والتحكم فيها مثل الأقسام والوظائف. بالإضافة إلى ذلك، ستتعرف على كيفية إدارة التغييرات داخل مؤسستك.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء الأقسام والوظائف والمناصب.\n- استخدام وظائف التعيين.\n- العمل مع عملية الإعداد.\n- إدارة الترجمات.\n- العمل مع تطوير المهارات.\n- إدارة الأداء وعملية التهيئة.\n- تعرّف على السلامة والامتثال في أماكن العمل.\n"
+prerequisites: >
+  - تعلُّم أساسيات Microsoft Dynamics 365 Human Resources
+
+  - إدارة مؤسستك باستخدام Microsoft Dynamics 365 Human Resources
+iconUrl: /learn/achievements/manage-personnel.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-human-resources
+units:
+- learn-dynamics.manage-personnel.1-introduction
+- learn-dynamics.manage-personnel.2-create-departments
+- learn-dynamics.manage-personnel.3-create-positions
+- learn-dynamics.manage-personnel.4-recruit
+- learn-dynamics.manage-personnel.5-onboard-offboard-transitions
+- learn-dynamics.manage-personnel.6-develop-skills
+- learn-dynamics.manage-personnel.7-manage-performance
+- learn-dynamics.manage-personnel.8-safety-compliance
+- learn-dynamics.manage-personnel.9-exercise
+- learn-dynamics.manage-personnel.10-exercise
+- learn-dynamics.manage-personnel.11-check
+- learn-dynamics.manage-personnel.12-summary
+badge:
+  uid: learn-dynamics.manage-personnel.badge

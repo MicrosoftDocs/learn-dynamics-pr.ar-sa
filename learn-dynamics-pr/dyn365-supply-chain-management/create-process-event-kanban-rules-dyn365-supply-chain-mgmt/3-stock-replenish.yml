@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-event-kanban-rules.3-configure-sales-kanban-stock-replenishment
+title: المتاح للتعهد
+metadata:
+  title: المتاح للتعهد
+  description: يوضح هذا الموضوع ميزات المتاح للتعهد
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 94afea9861c88c374dbbfe00c0038e9c50dea36a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667290"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-configure-sales-kanban-stock-replenishment.md)]

@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.work-assets-management
+metadata:
+  title: العمل مع الأصول في إدارة الأصول لــ Dynamics 365 Supply Chain Management
+  description: تتيح إدارة الأصول لـ Dynamics 365 Supply Chain Management بمؤسستك إدارة مواردك بفعالية من خلال تحديد مواقع الأصول. يمكنك جدولة مهام الصيانة المتعلقة بهذه الأصول وتعقب الاستخدام ومراجعة التقارير المرتبطة بالأصول ومواقعها.
+  ms.date: 05/21/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ef76d921f865885cbdfb40367132d4a3503b836f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667102"
+title: العمل مع الأصول في إدارة الأصول لــ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتتيح إدارة الأصول لـ Dynamics 365 Supply Chain Management بمؤسستك إدارة مواردك بفعالية من خلال تحديد مواقع الأصول. يمكنك جدولة مهام الصيانة المتعلقة بهذه الأصول وتعقب الاستخدام ومراجعة التقارير المرتبطة بالأصول ومواقعها. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء الأصول ونقلها وإزالتها وتثبيتها.\n- راجع كيفية إنشاء الأصول بناءً على أوامر الشراء.\n- تحديد كيفية إنشاء قوائم مكونات الأصناف للأصول.\n- تعرف على كيفية استخدام صفحة \"عرض الأصل\" وصفحة \"نظرة عامة على سمة الأصل\".\n"
+prerequisites: "- المعرفة العامة بإدارة الأصول وعمليات supply chain management. \n- القدرة على التنقل في Dynamics 365 Supply Chain Management.\n"
+iconUrl: /learn/achievements/assets-asset-mgmt-dyn365-supply-chain-mgmt.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-assets-management.01-introduction
+- learn-dynamics.work-assets-management.02-all-assets
+- learn-dynamics.work-assets-management.03-create-asset
+- learn-dynamics.work-assets-management.04-multi-level-asset
+- learn-dynamics.work-assets-management.05-copy-asset
+- learn-dynamics.work-assets-management.06-move-remove-install
+- learn-dynamics.work-assets-management.07-purchase-orders
+- learn-dynamics.work-assets-management.08-bill-material
+- learn-dynamics.work-assets-management.09-event-history
+- learn-dynamics.work-assets-management.10-asset-view
+- learn-dynamics.work-assets-management.11-asset-attribute
+- learn-dynamics.work-assets-management.12-exercise
+- learn-dynamics.work-assets-management.13-check
+- learn-dynamics.work-assets-management.14-summary
+badge:
+  uid: learn-dynamics.assets-asset-mgmt-dyn365-supply-chain-mgmt.badge

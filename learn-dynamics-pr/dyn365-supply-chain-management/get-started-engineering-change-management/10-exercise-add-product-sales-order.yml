@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-engineering-change-management.10-exercise-add-product-sales-order
+title: تمرين - إضافة المنتج الهندسي إلى أمر مبيعات
+metadata:
+  title: تمرين - إضافة المنتج الهندسي إلى أمر مبيعات
+  description: إضافة المنتج الهندسي إلى أمر مبيعات
+  ms.date: 01/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-scm
+  ms.openlocfilehash: d205072a13f52510b0797d021fd7938da8203086
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668210"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-add-product-sales-order.md)]"

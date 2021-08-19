@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-purchase-orders-finance.1-set-up-purchasing-parameters
+title: إعداد محددات الشراء
+metadata:
+  title: إعداد محددات الشراء
+  description: تعرف على كيفية إعداد محددات الشراء في Supply Chain Management.
+  ms.date: 06/09/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8c0c157f037c4060d112f5cc7b4780c47fad8c78
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667186"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-set-up-purchasing-parameters.md)]

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.preventive-reactive-asset-management.02-2-assign-asset
+title: تعيين خطة صيانة لأحد الأصول
+metadata:
+  title: تعيين خطة صيانة لأحد الأصول
+  description: توضح هذه الوحدة كيفية تعيين خطة صيانة لأحد الأصول
+  ms.date: 05/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5531dd7f73917f752aac6feebf95b542fcbf200e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667739"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-2-assign-asset.md)]"

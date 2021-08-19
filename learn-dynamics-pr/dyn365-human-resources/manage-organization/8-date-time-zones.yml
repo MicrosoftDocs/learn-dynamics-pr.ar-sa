@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-organization.8-date-time-zones
+title: تعيين التواريخ والمناطق الزمنية
+metadata:
+  title: تعيين التواريخ والمناطق الزمنية
+  description: تعرّف على كيفية تعيين حقول التاريخ والوقت والمناطق الزمنية.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: a8eec4ff2f307806f775abb56a1d6652157b2cc4
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693263"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-date-time-zones.md)]"

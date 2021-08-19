@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.4-2-credit-management
+title: إدارة الائتمان
+metadata:
+  title: إدارة الائتمان
+  description: تصف هذه الوحدة ميزة إدارة الائتمان في Dynamics 365 Finance.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d88ece4e2f5a95b26337403e40a4ade78fba6105
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677806"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-2-credit-management.md)]

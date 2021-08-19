@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-manufacturing-execution.5-configure-manufacturing-execution
+title: تكوين تنفيذ التصنيع
+metadata:
+  title: تكوين تنفيذ التصنيع
+  description: تعرّف على كيفية تكوين معلمات تنفيذ التصنيع وإعداداتها في "التحكم بالإنتاج" لتسجيل وقت العامل واستهلاك الصنف في مهام الإنتاج. يوضّح هذا الموضوع كيفية معالجة أوامر الإنتاج باستخدام تنفيذ التصنيع.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 443f0855c3cebcdd563279fd48150b7c67cc88c0
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668061"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-configure-manufacturing-execution.md)]

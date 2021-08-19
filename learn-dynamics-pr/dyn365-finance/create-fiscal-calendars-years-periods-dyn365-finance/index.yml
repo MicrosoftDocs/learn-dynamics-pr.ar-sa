@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops
+metadata:
+  title: إنشاء التقويمات والسنوات والفترات المالية في Dynamics 365 Finance
+  description: عند تسجيل البيانات المالية في Dynamics 365 Finance، يجب عليك تضمين تاريخ الحركة. باستخدام التقويم المالي وتقسيمه إلى شرائح من السنوات والفترات، يمكنك نشر البيانات المالية أو تسجيلها في فترة مفتوحة محددة مسبقاً.
+  ms.date: 04/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
+  ms.openlocfilehash: 31cddc35a25a8dc1f34c824ce8364cf8b8b6aaf7
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677605"
+title: إنشاء التقويمات والسنوات والفترات المالية في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nعند تسجيل البيانات المالية في Dynamics 365 Finance، يجب عليك تضمين تاريخ الحركة. باستخدام التقويم المالي وتقسيمه إلى شرائح من السنوات والفترات، يمكنك نشر البيانات المالية أو تسجيلها في فترة مفتوحة محددة مسبقاً. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- التمييز بين دفتر الأستاذ والتقويمات المالية. \n- تكوين التقويمات والسنوات والفترات المالية وإعدادها.\n- إنشاء فترات التاريخ واستخدامها.\n"
+prerequisites: >
+  - فهم أساسي لعمليات التمويل والمحاسبة.
+
+  - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية.
+
+  - المعرفة العامة بالتنقل الأساسي في Dynamics 365 Finance.
+iconUrl: /learn/achievements/create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.1-create-fiscal-calendars-f-and-o-introduction
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.2-fiscal-calendars-fiscal-years-and-periods
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.3-create-fiscal-calendars-years-and-periods
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.4-select-a-fiscal-calendar
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.5-define-budget-cycle-time-spans
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.6-maintain-periods-for-your-organization
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.7-create-date-intervals
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.8-exercise-create-fiscal-calendar-year-and-periods
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.9-exercise-create-date-interval-for-august
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.10-create-fiscal-calendars-f-and-o-quiz
+- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.11-create-fiscal-calendars-f-and-o-summary
+badge:
+  uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.badge

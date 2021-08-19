@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.5-warehouse-processes
+title: عمليات المستودع
+metadata:
+  title: عمليات المستودع
+  description: تعرّف على عمليات المستودع في Supply Chain Management.
+  ms.date: 06/03/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 358af0cd1a637d30f311f8151f71902855aad972
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667500"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-warehouse-processes.md)]

@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين توزيعات دفتر الأستاذ والاستحقاقات في Dynamics 365 Finance
+  description: يتم استخدام الاستحقاقات في المحاسبة على أساس الاستحقاق لتعقب الإيرادات التي تم الاعتراف بها في الفترة التي تم اكتسابها فيها، وليس عند استلام الدفعة، ولتتبع المصروفات (التكاليف) التي يتم الاعتراف بها عند حدوثها، وليس عند السداد.  تُستخدم التوزيعات لتوزيع المبالغ عبر مجموعات حسابات دفتر الأستاذ المتعددة. إنها تساعد على ضمان تحميل المصروفات أو الإيرادات للكائن الصحيح في المحاسبة. باستخدام ميزات التوزيعات والاستحقاقات في Dynamics 365 Finance، يمكن للقادة الماليين إنشاء القواعد، وتكوين المصدر والوجهة، وجدولة المهمة مرة واحدة فقط، ويتولى Finance الباقي.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3f6944aaa06a33d4b10b17ed60b55b45c5c5a487
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677437"
+title: تكوين توزيعات دفتر الأستاذ والاستحقاقات في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nيتم استخدام الاستحقاقات في المحاسبة على أساس الاستحقاق لتعقب الإيرادات التي تم الاعتراف بها في الفترة التي تم اكتسابها فيها، وليس عند استلام الدفعة، ولتتبع المصروفات (التكاليف) التي يتم الاعتراف بها عند حدوثها، وليس عند السداد.  تُستخدم التوزيعات لتوزيع المبالغ عبر مجموعات حسابات دفتر الأستاذ المتعددة. إنها تساعد على ضمان تحميل المصروفات أو الإيرادات للكائن الصحيح في المحاسبة. باستخدام ميزات التوزيعات والاستحقاقات في Dynamics 365 Finance، يمكن للقادة الماليين إنشاء القواعد، وتكوين المصدر والوجهة، وجدولة المهمة مرة واحدة فقط، ويتولى Finance الباقي.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين الاستحقاقات واستخدامها.\n- تكوين التوزيعات واستخدامها.\n"
+prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n- التعرف على كيفية إعداد دفتر الأستاذ العام في Finance\n- القدرة على استخدام Finance للمعالجة الأساسية\n- المعرفة العامة بالتنقل الأساسي في Finance \n"
+iconUrl: /learn/achievements/configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.1-configure-ledger-allocations-accruals-intro
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.2-configure-apply-accrual-schemes
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.3-configure-ledger-allocation-rules
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.4-exercise-configure-use-accrual-schemes
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.5-exercise-config-test-ledger-allocation-rules
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.6-config-ledger-allocations-accruals-quiz
+- learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.7-config-ledger-allocations-accruals-summary
+badge:
+  uid: learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.badge

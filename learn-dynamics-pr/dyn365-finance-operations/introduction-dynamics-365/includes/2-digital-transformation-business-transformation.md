@@ -1,21 +1,17 @@
 ---
-ms.openlocfilehash: d448166487324210d694efba7d7af31aa0ed9e2b
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: 423cfd6d8e9ddb2d840783f9a6055cb7256f8bcc
+ms.sourcegitcommit: c8884bde6b4fb84c6869af4ee3e4b4ae3724a271
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446840"
+ms.lasthandoff: 07/21/2021
+ms.locfileid: "6647660"
 ---
 
 تسمح تطبيقات الأعمال Dynamics 365 للمؤسسات بتحويل مؤسستها رقمياً. فهي تزيل تعقيد أنظمة إدارة علاقات العملاء (CRM) وإدارة موارد المؤسسة (ERP) المنفصلة عن طريق إنشاء تطبيقات أعمال معيارية حديثة تعمل معاً على نظام أساسي واحد. تمنح التطبيقات المؤسسات المرونة في اعتماد التكنولوجيا عندما تحتاج إليها لتحسين نتائج الأعمال.
 
 التحول الرقمي هو دمج التكنولوجيا الرقمية في جميع مجالات الأعمال. والهدف من التحول الرقمي هو تغيير كيفية عمل المؤسسات وتقديم قيمة للعملاء.
 
- 
-
-|  |  |
-| ------------ | ------------- | 
-| ![أيقونة تشير إلى تشغيل الفيديو](../media/video-icon.png) | شاهد هذا الفيديو لمشاهدة نائب رئيس شركة Microsoft‏، James Phillips، يشرح التحول الرقمي. |
+شاهد هذا الفيديو لمشاهدة نائب رئيس شركة Microsoft‏، James Phillips، يشرح التحول الرقمي.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kn34]
 
@@ -38,10 +34,7 @@ ms.locfileid: "6446840"
 > [!div class="mx-imgBorder"]
 > ![رسم يوضح حلقة التعليقات الرقمية](../media/m01-image01-digital-trans.png)
 
-
-|  |  |
-| ------------ | ------------- | 
-| ![أيقونة تشير إلى تشغيل الفيديو](../media/video-icon.png) | شاهد هذا الفيديو لمشاهدة نائب رئيس شركة Microsoft‏، James Phillips، يشرح كيف تم تصميم تطبيقات Microsoft خصيصاً لدعم التحول الرقمي.
+شاهد هذا الفيديو لمشاهدة نائب رئيس شركة Microsoft‏، James Phillips، يشرح كيف تم تصميم تطبيقات Microsoft خصيصاً لدعم التحول الرقمي.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kn35]
 

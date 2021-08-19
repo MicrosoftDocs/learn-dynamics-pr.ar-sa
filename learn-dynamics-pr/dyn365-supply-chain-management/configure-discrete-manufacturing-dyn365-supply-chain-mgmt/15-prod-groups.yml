@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.15-production-groups
+title: مجموعات الإنتاج
+metadata:
+  title: مجموعات الإنتاج
+  description: توضح هذه الوحدة مجموعات الإنتاج في الوحدة النمطية للتحكم بالإنتاج في Dynamics 365 Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d3c06c388c8b193094f649b6c287fb7f69264149
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668017"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/15-production-groups.md)]

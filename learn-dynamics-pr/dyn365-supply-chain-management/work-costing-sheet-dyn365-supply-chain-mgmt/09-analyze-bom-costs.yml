@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.09-analyze-bom-costs
+title: تمرين عملي - تحليل تكاليف BOM باستخدام كشف التكاليف
+labId: 72804
+metadata:
+  title: تمرين عملي - تحليل تكاليف BOM باستخدام كشف التكاليف
+  description: تردب على تحليل تكاليف BOM باستخدام كشف التكاليف في Dynamics 365 Supply Chain Management.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: e9ec8e8362f74eb92db852a3239259b1aef12d51
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667888"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/09-analyze-bom-costs.md)] \n[!include[](../includes/standalone-lab-end.md)]"

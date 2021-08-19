@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.7-2-create-purchase-orders
+title: إنشاء أوامر شراء
+metadata:
+  title: إنشاء أوامر شراء
+  description: تعرف على كيفية إنشاء أمر شراء في Supply Chain Management.
+  ms.date: 05/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: cdd571c87752c7618e0e9188e1376278821ebda4
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667829"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-2-create-purchase-orders.md)]
