@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-product-configuration.4-exercise-build-test-product-configuration-model
+title: التمرين - إنشاء نموذج تكوين منتج واستخدامه
+metadata:
+  title: التمرين - إنشاء نموذج تكوين منتج واستخدامه
+  description: تدرّب على إنشاء نموذج تكوين منتج واستخدامه.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: be55e9d928801de07fd68fdfe70da3c856d1490e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667270"
+durationInMinutes: 26
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-exercise-build-test-product-configuration-model.md)]

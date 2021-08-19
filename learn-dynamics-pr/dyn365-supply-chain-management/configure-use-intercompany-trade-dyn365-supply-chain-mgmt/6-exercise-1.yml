@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-intercompany-trade.6-exercise-configure-intercompany-relations
+title: المختبر - تكوين العلاقات بين الشركات الشقيقة
+labId: 92091
+metadata:
+  title: المختبر - تكوين العلاقات بين الشركات الشقيقة
+  description: تدرب على تكوين العلاقات بين الشركات الشقيقة في Supply Chain Management.
+  ms.date: 06/02/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6c83ca7dba5089324c30164d750badd0c87a5dc8
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668327"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)] \n[!include[](includes/6-exercise-configure-intercompany-relations.md)] \n[!include[](../includes/standalone-lab-end.md)]"

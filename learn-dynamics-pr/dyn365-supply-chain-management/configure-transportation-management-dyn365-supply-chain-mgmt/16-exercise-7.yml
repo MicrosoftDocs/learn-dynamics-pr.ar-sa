@@ -1,0 +1,27 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.16-exercise-work-with-appointment-scheduling
+title: 'معمل: العمل باستخدام جدولة المواعيد'
+labId: 72485
+metadata:
+  title: 'معمل: العمل باستخدام جدولة المواعيد'
+  description: تدرب على العمل باستخدام جدولة المواعيد في Dynamics 365 Supply Chain Management.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 26c4c440fb6baa88354f9a9c1dc0b6579ab25691
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667514"
+durationInMinutes: 11
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs-2.md)]
+
+  [!include[](includes/16-exercise-work-with-appointment-scheduling.md)]
+
+  [!include[](../includes/standalone-lab-end.md)]

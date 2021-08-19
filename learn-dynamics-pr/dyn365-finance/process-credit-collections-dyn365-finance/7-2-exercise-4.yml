@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.7-2-exercise-4
+title: مختبر - إعداد إدارة الائتمان
+labId: 72479
+metadata:
+  title: مختبر - إعداد إدارة الائتمان
+  description: تدرب على إعداد إدارة الائتمان في Dynamics 365 Finance.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4aaf6d4fd94049c1f9931c2f0bc76f4ebd1cf801
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677819"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/7-2-exercise-4.md)] \n[!include[](../includes/standalone-lab-end.md)]"

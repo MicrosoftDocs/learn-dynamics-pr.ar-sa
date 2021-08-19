@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-asset-leasing-finance.19-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص العمل باستخدام تأجير الأصل في وحدة Dynamics 365 Finance.
+  ms.date: 03/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 329e27cf3430b00e33e8241d2dda59fb2904c626
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677591"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/19-summary.md)]"

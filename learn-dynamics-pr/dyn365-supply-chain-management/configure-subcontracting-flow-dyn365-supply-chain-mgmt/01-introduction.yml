@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-activity-based-subcontracting-production-flow-costing-dynamics-365-finance-ops.01-overview-subcontracting-prod-flow-costing
+title: نظرة عامة على تكاليف التعاقد من الباطن وتدفق الإنتاج
+metadata:
+  title: نظرة عامة على تكاليف التعاقد من الباطن وتدفق الإنتاج
+  description: توفر هذه الوحدة نظرة عامة على تكاليف التعاقد من الباطن وتدفق الإنتاج في Dynamics 365 Supply Chain Management
+  ms.date: 04/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7bd42a14a4f28893c3fe83d6c75ac2ba2d06dee8
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668383"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/01-overview.md)]

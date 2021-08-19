@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.6-create-vendor-groups
+title: إنشاء مجموعات الموردين
+metadata:
+  title: إنشاء مجموعات الموردين
+  description: تعرف على كيفية إنشاء مجموعات الموردين في Dynamics 365 Finance.
+  ms.date: 05/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8ab222f83addc2d7f6bcede78b043d551aeea7ee
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677154"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-create-vendor-groups.md)]

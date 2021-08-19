@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.11-integration-general-ledger-production
+title: التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم بالإنتاج
+metadata:
+  title: التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم بالإنتاج
+  description: تصف هذه الوحدة التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم في الإنتاج في Supply Chain Management.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 64530459d306608b4fa4114892b63fff271a028e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667768"
+durationInMinutes: 9
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-integration-general-ledger-production.md)]

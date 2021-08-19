@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.register-report-consumption-asset-management.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/12/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6c0b4960e71087d505bc8e56796d57e5e69fd4c9
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667530"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي مما يأتي تتضمنه أنواع الاستهلاك؟
+    choices:
+    - content: الساعات والأصناف والأصول
+      isCorrect: false
+      explanation: الأصول ليست أحد أنواع الاستهلاك.
+    - content: الساعات والأصناف والمصروفات
+      isCorrect: true
+      explanation: تمثل الساعات والأصناف والمصروفات أنواع الاستهلاك.
+  - content: ما الترتيب الصحيح للأبعاد المالية المرتبطة بتسجيلات الساعات والمصروفات؟
+    choices:
+    - content: الأبعاد المالية من رأس دفتر اليومية، الأبعاد المالية من مشروع أمر العمل ذي الصلة، الأبعاد المالية من المورد.
+      isCorrect: true
+      explanation: هذا الخيار هو الترتيب الصحيح للأبعاد المالية المرتبطة بتسجيلات الساعات والمصروفات.
+    - content: الأبعاد المالية من رأس دفتر اليومية، الأبعاد المالية من مشروع أمر العمل، الأبعاد المالية من الصنف
+      isCorrect: false
+      explanation: الأبعاد المالية من الصنف ليست جزءاً من الأبعاد المالية لتسجيلات الساعات والمصروفات.
+    - content: الأبعاد المالية من رأس دفتر اليومية، الأبعاد المالية من مشروع أمر العمل ذي الصلة، الأبعاد المالية من الموقع.
+      isCorrect: false
+      explanation: الأبعاد المالية من الموقع ليست جزءاً من الأبعاد المالية لتسجيلات الساعات والمصروفات.
+  - content: ما التقارير التي تعرض تفاصيل الاستهلاك؟
+    choices:
+    - content: تقرير الاستهلاك "الصنف" وتقرير الاستهلاك "أمر العمل"
+      isCorrect: false
+      explanation: لا يُعد تقرير الاستهلاك "الصنف" تقرير استهلاك صالحاً.
+    - content: تقرير الاستهلاك "الساعات" وتقرير الاستهلاك "الأصل"
+      isCorrect: false
+      explanation: لا يُعد تقرير الاستهلاك "الساعات" تقرير استهلاك صالحاً.
+    - content: تقرير الاستهلاك "الأصل" وتقرير الاستهلاك "أوامر العمل"
+      isCorrect: true
+      explanation: تقرير الاستهلاك "الأصل" وتقرير الاستهلاك "أوامر العمل" هما التقريران اللذان يعرضان تفاصيل الاستهلاك.

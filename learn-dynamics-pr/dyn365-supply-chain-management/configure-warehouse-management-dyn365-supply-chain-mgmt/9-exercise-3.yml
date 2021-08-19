@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-exercise-configure-disposition-codes-location-directives
+title: مختبر - تكوين رموز التخلص وتوجيهات المواقع
+labId: 64131
+metadata:
+  title: مختبر - تكوين رموز التخلص وتوجيهات المواقع
+  description: تدرب على تكوين رموز التخلص وتوجيهات المواقع في Supply Chain Management.
+  ms.date: 06/03/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4c7dd5df022ca1145d21188d7c8dd0d1b3ade1ac
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667791"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/9-exercise-configure-disposition-codes-location-directives.md)] \n[!include[](../includes/non-final-lab-end.md)]"

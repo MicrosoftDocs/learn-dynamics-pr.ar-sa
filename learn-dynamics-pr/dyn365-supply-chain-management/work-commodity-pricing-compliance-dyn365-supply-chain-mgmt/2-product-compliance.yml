@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-commidity-pricing-compliance.2-configure-product-compliance
+title: تكوين توافق المنتجات
+metadata:
+  title: تكوين توافق المنتجات
+  description: يشرح هذا الموضوع كيفية تكوين توافق المنتج في Supply Chain Management.
+  ms.date: 04/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 70cafba401892c3b08fcb5894cede04eb29979e4
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667861"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-configure-product-compliance.md)]

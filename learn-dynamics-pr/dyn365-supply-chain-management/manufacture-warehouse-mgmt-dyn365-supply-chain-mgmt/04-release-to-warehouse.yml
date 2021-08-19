@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manufacture-wms-dyn365-fo.04-release-to-warehouse
+title: قم بتحرير قائمة المواد وبنود المعادلة إلى المستودع
+metadata:
+  title: قم بتحرير قائمة المواد وبنود المعادلة إلى المستودع
+  description: تصف هذه الوحدة كيفية تحرير قائمة مكونات الصنف وبنود المعادلة إلى المستودع في Dynamics 365 Supply Chain Management.
+  ms.date: 06/09/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/production-control/releasing-bom-and-formula-lines-to-warehouse
+  ms.openlocfilehash: 848f855b0ac82bc810f01a47239c3d4fe8e12e05
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667723"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/04-release-to-warehouse.md)]

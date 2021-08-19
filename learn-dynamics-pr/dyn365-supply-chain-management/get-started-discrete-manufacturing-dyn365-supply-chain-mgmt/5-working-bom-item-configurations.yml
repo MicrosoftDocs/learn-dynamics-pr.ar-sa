@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops.5-working-bom-item-configurations
+title: العمل باستخدام تكوينات قائمة مكونات الصنف وتكوينات الصنف
+metadata:
+  title: العمل باستخدام تكوينات قائمة مكونات الصنف وتكوينات الصنف
+  description: تصف هذه الوحدة العمل باستخدام تكوينات قائمة مكونات الصنف وتكوينات الصنف في Supply Chain Management.
+  ms.date: 03/27/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9d12e7d77b04a73b31e447f2ebf9da908ffcac79
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667427"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-working-bom-item-configurations.md)]

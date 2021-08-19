@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops
+metadata:
+  title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
+  description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3c169a42f3be2d17e927a2dc2cc078f2a114ba91
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677807"
+title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد  \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- كيفية استخدام كشوف حسابات العملاء.\n- كيفية معالجة التحصيلات. \n- كيفية استخدام ميزة إدارة الائتمان.\n"
+prerequisites: >
+  - الحصول على فهم أساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - الحصول على فهم عام لفوترة أمر المبيعات
+
+  - معرفة كيفية تكوين الائتمان والتحصيلات في Finance
+iconUrl: /learn/achievements/process-credit-collections-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.1-process-credit-collections-intro
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.2-customer-account-statement
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.3-about-working-with-collections
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.4-manage-customer-credit-collections
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.4-2-credit-management
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.5-exercise-perform-write-offs
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.6-exercise-process-collection-letter
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.7-exercise-generate-accounts-r-aging
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.7-2-exercise-4
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.8-process-credit-collections-quiz
+- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.9-process-credit-collections-summary
+badge:
+  uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.badge

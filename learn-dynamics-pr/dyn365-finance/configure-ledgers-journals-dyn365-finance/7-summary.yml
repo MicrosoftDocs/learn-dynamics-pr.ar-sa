@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.7-configure-ledgers-journals-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين دفاتر الأستاذ ودفاتر اليومية في وحدة Dynamics 365 Finance.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2be57d1171f8d2616996b141b57dacf713ef22d7
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677675"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-configure-ledgers-journals-summary.md)]
