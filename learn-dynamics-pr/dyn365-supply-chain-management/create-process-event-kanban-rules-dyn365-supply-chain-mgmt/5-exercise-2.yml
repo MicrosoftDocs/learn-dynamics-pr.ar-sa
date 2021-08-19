@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-event-kanban-rules.5-exercise-create-kanban-line-event
+title: تدريب - إعداد قاعدة كانبان لحدث بند قائمة مكونات الصنف
+metadata:
+  title: تدريب - إعداد قاعدة كانبان لحدث بند قائمة مكونات الصنف
+  description: تدرّب على إعداد قاعدة كانبان لحدث بند قائمة مكونات الصنف.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5edcb1f74bf79cc0790e7d724997cb585f83ca1d
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667438"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-exercise-create-kanban-line-event.md)]

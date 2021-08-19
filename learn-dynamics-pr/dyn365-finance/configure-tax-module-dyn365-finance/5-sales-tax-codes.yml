@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops.5-create-sales-tax-codes
+title: إنشاء أكواد ضريبة المبيعات
+metadata:
+  title: إنشاء أكواد ضريبة المبيعات
+  description: تعرّف على كيفية إنشاء أكواد ضريبة المبيعات في Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 154e541c559745294a2c8a65e662051de14127e0
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677445"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-create-sales-tax-codes.md)]

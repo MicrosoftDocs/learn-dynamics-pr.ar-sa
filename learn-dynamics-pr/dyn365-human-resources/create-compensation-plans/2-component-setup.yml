@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-compensation-plans.2-component-setup
+title: إعداد مكونات التعويض الثابت
+metadata:
+  title: إعداد مكونات التعويض الثابت
+  description: تعرف على كيفية إعداد مكونات التعويض الثابت.
+  ms.date: 07/21/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: b8642b42f386d799f6957e0f6b4071474d5a5523
+  ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6656563"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-component-setup.md)]"

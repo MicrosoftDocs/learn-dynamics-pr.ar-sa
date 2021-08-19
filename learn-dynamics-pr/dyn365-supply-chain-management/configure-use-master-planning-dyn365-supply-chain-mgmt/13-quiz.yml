@@ -1,0 +1,88 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.13-configure-use-master-planning-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 12/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: c357b378560e6263592b891c4d67a69ee2b586c5
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668366"
+title: اختبر معلوماتك
+durationInMinutes: 10
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي مما يلي ليس من أنواع رسائل الإجراءات للأوامر المخططة؟
+    choices:
+    - content: تقدم
+      isCorrect: false
+      explanation: يشير التقدم إلى أنه يجب تحريك أمر مخطط في الوقت المناسب.
+    - content: تأجيل
+      isCorrect: false
+      explanation: يشير التأجيل إلى أنه يجب تأجيل أمر مخطط له.
+    - content: متابعة
+      isCorrect: true
+      explanation: لا تُعد المتابعة نوعاً من الرسائل الإجرائية للأوامر المخططة.
+    - content: تخفيض
+      isCorrect: false
+      explanation: يشير الانخفاض إلى أنه يجب تقليل الحركات لمنع مستويات المخزون الزائدة.
+  - content: عندما يقوم التخطيط الرئيسي بإنشاء أوامر مخططة، فما هي حالتها الأولية؟
+    choices:
+    - content: غير معالجة
+      isCorrect: true
+      explanation: عندما يقوم التخطيط الرئيسي بإنشاء أوامر مخططة، تكون حالة الأوامر المخططة هي حالة "غير معالجة".
+    - content: غير مؤكد
+      isCorrect: false
+      explanation: في حال اخترت عدم تأكيد أمر مخطط، يمكنك منحه حالة "مكتمل".
+    - content: مكتمل
+      isCorrect: false
+      explanation: هذه هي الحالة التي تم تعيينها عند اختيار عدم تأكيد أحد الأوامر.
+    - content: موافق عليه
+      isCorrect: false
+      explanation: هذه هي الحالة المحجوزة للأوامر المخططة الثابتة.
+  - content: تريد إضافة رسالة إجراء إلى مجموعة تغطية سيتم عرضها في حالة الوصول إلى مستويات المخزون الزائدة. ما نوع رسالة الإجراء التي ستقوم بإعدادها؟
+    choices:
+    - content: تقدم
+      isCorrect: false
+      explanation: تشير رسائل الإجراءات المسبقة إلى أنه يجب نقل الأوامر المخططة إلى الأمام في الوقت المناسب.
+    - content: تأجيل
+      isCorrect: false
+      explanation: تشير رسائل تأجيل الإجراء إلى أنه يجب تأجيل أمر واحد أو أكثر من الأوامر المخططة.
+    - content: زيادة
+      isCorrect: false
+      explanation: قم بزيادة رسائل الإجراء يشير إلى أن الحركات يجب زيادتها لمنع عمليات النقص في المخزون.
+    - content: تخفيض
+      isCorrect: true
+      explanation: تشير رسائل الإجراء إلى أنه يجب تقليل الحركات لمنع مستويات المخزون الزائدة.
+  - content: أي مما يلي يمكن تكوينه لإنشاء عمليات شراء للأصناف عندما ينخفض مستوى المخزون الخاص بك إلى ما دون نقطة معينة؟
+    choices:
+    - content: مستويات المخزون الاحتياطي
+      isCorrect: true
+      explanation: يمكنك تكوين مستويات مخزون الأمان لضمان أن يكون لديك دائما مبلغ معين في متناول اليد، وتوليد عمليات شراء عند انخفاض مستوى أقل من المستوى المحدد.
+    - content: الحد الأدنى لمستويات المخزون
+      isCorrect: false
+      explanation: تدفع مستويات المخزون الدنيا المتطلبات للاحتفاظ بكمية معينة من الصنف في مستودعك، ولكن هذا لا يولد عمليات شراء.
+    - content: التنبؤات بالطلبات
+      isCorrect: false
+      explanation: تقدر توقعات الطلب مقدار المنتج المطلوب خلال فترة معينة.
+  - content: أي مما يلي يمكنك استخدامه لتقدير مقدار المنتج الذي ستحتاجه خلال فترة محددة لأوامر الشراء المخطط لها؟
+    choices:
+    - content: تنبؤات الطلب أو التوريد
+      isCorrect: true
+      explanation: يمكنك استخدام تقديرات في التنبؤات لتحديد مقدار المنتج الذي تحتاجه خلال فترة زمنية محددة.
+    - content: عروض أسعار المبيعات
+      isCorrect: false
+      explanation: يمكنك استخدام معلومات عرض أسعار المبيعات في التقديرات التي تم تشكيلها لأوامر الشراء المخططة في إخراج التخطيط الرئيسي.
+    - content: أوامر المبيعات
+      isCorrect: false
+      explanation: يمكنك استخدام أوامر التوريد كمصدر رئيسي للمعلومات الخاصة باشتقاق متطلبات الشراء.
+    - content: قائمة مكونات الصنف
+      isCorrect: false
+      explanation: تحدد قائمة مكونات الصنف المنتجات المطلوبة لصنع منتج نهائي.

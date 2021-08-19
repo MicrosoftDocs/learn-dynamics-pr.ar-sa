@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-basic-budgeting-budget-control-in-dynamics-365-finance-ops.5-configure-basic-budgeting
+title: تكوين إعداد الموازنات الأساسية
+metadata:
+  title: تكوين إعداد الموازنات الأساسية
+  description: تصف هذه الوحدة كيفية تكوين إعداد الموازنات الأساسية في Dynamics 365 Finance.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/budget-control-overview-configuration
+  ms.openlocfilehash: 3dfa9b6a4a302ae2547aef48faf5b85237520390
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677342"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-configure-basic-budgeting.md)]

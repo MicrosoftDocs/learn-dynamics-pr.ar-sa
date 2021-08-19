@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops
+metadata:
+  title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance.
+  description: يمكنك استخدام وحدة إدارة النقد والبنوك في Dynamics 365 Finance للاحتفاظ بالحسابات البنكية الخاصة بالمؤسسة والمستندات المالية المقترنة بتلك الحسابات البنكية. وتشمل هذه المستندات إيصالات الإيداع والشيكات والكمبيالات والسندات الإذنية. كما يُمكنك تسوية كشوف الحسابات البنكية‬ وطباعة البيانات البنكية في التقارير القياسية.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0fddb675911f550d02d957f7dd4ff2ea4db60b14
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677799"
+title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance.
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يمكنك استخدام وحدة إدارة النقد والبنوك في Dynamics 365 Finance للاحتفاظ بالحسابات البنكية الخاصة بالمؤسسة والمستندات المالية المقترنة بتلك الحسابات البنكية. وتشمل هذه المستندات إيصالات الإيداع والشيكات والكمبيالات والسندات الإذنية. كما يُمكنك تسوية كشوف الحسابات البنكية‬ وطباعة البيانات البنكية في التقارير القياسية.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تعامل مع عمليات إدارة النقد والبنوك.\n- استخدم مساحات عمل إدارة النقد والبنوك.\n- أنشئ الودائع. \n- قم بإلغاء الدفعات.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة
+
+  - التعرف على كيفية إعداد دفتر الأستاذ العام في Dynamics 365 Finance
+
+  - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية
+
+  - معرفة التنقل الأساسي داخل Dynamics 365 Finance
+iconUrl: /learn/achievements/work-with-cash-and-bank-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.1-work-with-cash-and-bank-introduction
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.2-use-cash-and-bank-processes
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.3-use-cash-and-bank-workspaces
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.4-exercise-make-deposit-and-payment-reversal
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.5-exercise-use-bank-management-workspace
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.6-work-with-cash-and-bank-quiz
+- learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.7-work-with-cash-and-bank-summary
+badge:
+  uid: learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.badge

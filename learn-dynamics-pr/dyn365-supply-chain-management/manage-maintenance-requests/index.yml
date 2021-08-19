@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-maintenance-requests
+metadata:
+  title: إدارة طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: تعد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management أساسية في الحفاظ على تشغيل أصولك القيّمة بكفاءة، مع إدارة وقت التوقف عن العمل وحماية إنتاجيتك الإجمالية. وتحدد هذه الوحدة طلبات الصيانة، وكيفية إنشاء طلبات الصيانة، واستخدام قروض الأصول، وتعقب الأصول الواردة والصادرة، وإعداد التقارير.
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a9b9eb4710cca15f2b1ba68f354a9b04f6089d2c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667211"
+title: إدارة طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتعد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management أساسية في الحفاظ على تشغيل أصولك القيّمة بكفاءة، مع إدارة وقت التوقف عن العمل وحماية إنتاجيتك الإجمالية. وتحدد هذه الوحدة طلبات الصيانة، وكيفية إنشاء طلبات الصيانة، واستخدام قروض الأصول، وتعقب الأصول الواردة والصادرة، وإعداد التقارير.    \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام طلبات الصيانة وإنشاؤها.\n- راجع كيفية إنشاء أمر عمل من طلبات الصيانة.\n- تحديد قروض الأصول وكيفية استخدامها في إدارة الأصول.\n- تعرف على الأصول الواردة والصادرة.\n- راجع كيفية استخدام تقارير طلبات الصيانة لتحسين أداء مؤسستك.\n"
+prerequisites: "- المعرفة العامة بإدارة الأصول وعمليات supply chain management. \n- القدرة على التنقل في Dynamics 365 Supply Chain Management.\n"
+iconUrl: /learn/achievements/manage-maintenance-requests-asset-mgmt-dyn365-scm.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.manage-maintenance-requests.01-introduction
+- learn-dynamics.manage-maintenance-requests.02-view-request
+- learn-dynamics.manage-maintenance-requests.03-maintenance-lifecycle
+- learn-dynamics.manage-maintenance-requests.04-create-request
+- learn-dynamics.manage-maintenance-requests.05-create-work-order
+- learn-dynamics.manage-maintenance-requests.06-asset-loan
+- learn-dynamics.manage-maintenance-requests.07-inbound-outbound
+- learn-dynamics.manage-maintenance-requests.08-request-workspace
+- learn-dynamics.manage-maintenance-requests.09-work-order-workspace
+- learn-dynamics.manage-maintenance-requests.10-request-report
+- learn-dynamics.manage-maintenance-requests.11-exercise-1
+- learn-dynamics.manage-maintenance-requests.12-exercise-2
+- learn-dynamics.manage-maintenance-requests.13-check
+- learn-dynamics.manage-maintenance-requests.14-summary
+badge:
+  uid: learn-dynamics.manage-maintenance-requests-asset-mgmt-dyn365-scm.badge

@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-assets-asset-management.20-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-finance-operations
+  ms.openlocfilehash: 6476931d2d57ded83cbd56f476dbfe928df7d797
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667698"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: هل صحيح أنه يمكنك تعيين مصنع واحد فقط لنوع الأصل؟
+    choices:
+    - content: 'نعم '
+      isCorrect: false
+      explanation: لا يقتصر نوع الأصل على جهة تصنيع واحدة فقط.
+    - content: 'لا '
+      isCorrect: true
+      explanation: يمكن أن يكون لنوع الأصل العديد من الشركات المصنعة للاختيار من بينها.
+  - content: تحدد حالات دورة حياة الأصول حالة أي مما يلي؟
+    choices:
+    - content: نوع مهمة الصيانة
+      isCorrect: false
+      explanation: هذا هو نوع الوظيفة وليس حالة الصيانة المطلوبة على الأصل.
+    - content: حالة الأصل
+      isCorrect: true
+      explanation: تحتوي الأصول على حالات دورة حياة مخصصة لتحديد الحالة الحالية لكل أصل.
+    - content: حالة أمر العمل للأصل
+      isCorrect: false
+      explanation: أوامر العمل لها حالات دورة حياة خاصة بها منفصلة عن الأصل.
+  - content: تم إعداد العمال مبدئياً في أي وحدة في Dynamics 365؟
+    choices:
+    - content: الموارد البشرية
+      isCorrect: true
+      explanation: عند إنشاء النظام في البداية، تنشئ مؤسستك جميع الموظفين (العاملين) في النظام من خلال وحدة الموارد البشرية.
+    - content: إدارة الأصول
+      isCorrect: false
+      explanation: يتم إعداد العمال في وحدة الموارد البشرية، مما يجعل من الممكن بعد ذلك تحديد العامل في إدارة الأصول.
+    - content: إدارة المشروعات ومحاسبتها
+      isCorrect: false
+      explanation: لم يتم إعداد العمال في إدارة المشاريع والمحاسبة.

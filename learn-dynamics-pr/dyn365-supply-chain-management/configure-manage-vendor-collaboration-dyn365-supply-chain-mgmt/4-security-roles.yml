@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.4-setup-vendor-collaboration-security-roles
+title: إعداد أدوار الأمان الخاصة بتعاون المورّد
+metadata:
+  title: إعداد أدوار الأمان الخاصة بتعاون المورّد
+  description: اعرف كيفية إعداد أدوار الأمان الخاصة بتعاون المورّد في Supply Chain Management.
+  ms.date: 01/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0864d084cebfe96761cf49462089a64c316b045f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667629"
+durationInMinutes: 9
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-setup-vendor-collaboration-security-roles.md)]

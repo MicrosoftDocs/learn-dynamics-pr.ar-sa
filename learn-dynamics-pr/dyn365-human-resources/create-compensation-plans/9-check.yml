@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-compensation-plans.9-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/21/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 422a56dfc25398f7dda3842c4ad2934f98ead078
+  ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6656559"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: إذا كنت على وشك منح موظفيك منحة أسهم، فأي خطة تعويض ستقوم بإعدادها؟
+    choices:
+    - content: خطة تعويض منح الأسهم
+      isCorrect: false
+      explanation: خطة تعويض الأسهم ليست واحدة من نوعي خطط التعويض التي يمكنك إعدادها في الموارد البشرية.
+    - content: الخطة الثابتة للتعويض
+      isCorrect: false
+      explanation: خطة التعويض الثابتة مثالية للتعويض العادي، مثل الرواتب أو الدفع بالساعة.
+    - content: خطة التعويض المتغيرة
+      isCorrect: true
+      explanation: يمكنك إعداد خطة تعويض متغيرة لمنح الموظفين مكافأة أسهم.
+  - content: ما الذي يجب تكوينه أولاً قبل إعداد خطة تعويض ثابتة؟
+    choices:
+    - content: أنواع التعويض وقواعد الاستحقاق
+      isCorrect: false
+      explanation: تحتاج إلى إعداد هذه العناصر قبل أن تتمكن من إنشاء خطة تعويض متغيرة.
+    - content: مستويات التعويض والنقاط المرجعية وشبكات التعويض وعدد مرات الدفع
+      isCorrect: true
+      explanation: تحتاج إلى إعداد هذه العناصر الأربعة قبل أن تتمكن من إنشاء خطة تعويض ثابتة.
+    - content: خيارات التغطية والخصومات وخطط الائتمان المرن
+      isCorrect: false
+      explanation: هذه الخيارات هي تلك التي يمكنك تكوينها في مساحة عمل إدارة المزايا ضمن الموارد البشرية.
+  - content: ما الذي يجب عليك ضمانه أولاً قبل تشغيل عملية التعويض؟
+    choices:
+    - content: قواعد الأهلية
+      isCorrect: true
+      explanation: لن تتم عملية التعويض ضد الموظفين الذين لا يستوفون معايير الأهلية المحددة في قواعد الأهلية.
+    - content: تواريخ انتهاء صلاحية الميزة
+      isCorrect: false
+      explanation: هذا الخيار هو الذي تحتاج إلى تكوينه لإدارة المزايا في الموارد البشرية.
+    - content: تواريخ استحقاق الإجازة
+      isCorrect: false
+      explanation: هذا الخيار هو الخيار الذي تحتاج إلى تكوينه لمعالجة طلبات الإجازة والغياب في الموارد البشرية.

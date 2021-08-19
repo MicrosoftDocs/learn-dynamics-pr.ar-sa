@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-personnel.2-create-departments
+title: إنشاء أقسام
+metadata:
+  title: إنشاء أقسام
+  description: تعرف على كيفية إنشاء أقسام.
+  ms.date: 07/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 89dc20a9d1b21956097a510ed902e873335f2c94
+  ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/29/2021
+  ms.locfileid: "6691179"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-create-departments.md)]"

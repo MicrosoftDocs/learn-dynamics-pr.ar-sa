@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-intercompany-trade.11-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/02/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 1b229d78ccf12b4008df5cb2c242eab06d19f2b9
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667510"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: في عملية أمر الشراء التي تم البدء بها بين الشركات الشقيقة، ما هو المستند الذي يقوم أمر الشراء في الشركة المشتراة بإنشائه في شركة العميل؟
+    choices:
+    - content: أمر المبيعات
+      isCorrect: false
+      explanation: أمر المبيعات ليس هو الإجابة الصحيحة.
+    - content: أمر مبيعات مشترك بين الشركات الشقيقة
+      isCorrect: true
+      explanation: أمر المبيعات المشترك بين الشركات الشقيقة ليس هو الإجابة الصحيحة.
+    - content: اتفاقية البيع
+      isCorrect: false
+      explanation: اتفاقية المبيعات ليست هي الإجابة الصحيحة.
+  - content: أين يمكنك تمكين أوامر الإنشاء التلقائي بين الشركات الشقيقة ومعلمات التسليم المباشر في النظام؟
+    choices:
+    - content: في رأس أمر المبيعات
+      isCorrect: true
+      explanation: يمكنك تمكين أوامر الإنشاء التلقائي بين الشركات الشقيقة ومعلمات التسليم المباشر على رأس أمر المبيعات هو الجواب الصحيح.
+    - content: في نهج تعيين القيمة
+      isCorrect: false
+      explanation: لا يمكنك تمكين أوامر الإنشاء التلقائي بين الشركات الشقيقة ومعلمات التسليم المباشر على نهج تعيين القيمة ليس بالجواب الصحيح.
+    - content: في سياسات إجراءات أوامر المبيعات
+      isCorrect: false
+      explanation: لا يمكنك تمكين أوامر الإنشاء التلقائي بين الشركات الشقيقة ومعلمات التسليم المباشر سياسات إجراءات أوامر المبيعات.

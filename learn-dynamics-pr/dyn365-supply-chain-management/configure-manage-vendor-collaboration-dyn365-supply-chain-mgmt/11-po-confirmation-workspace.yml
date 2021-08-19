@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.11-work-with-po-in-po-confirmation-workspace
+title: مساحة عمل تأكيد أمر الشراء
+metadata:
+  title: مساحة عمل تأكيد أمر الشراء
+  description: تعرّف على كيفية العمل باستخدام أوامر الشراء في مساحة عمل تأكيد أمر الشراء في Supply Chain Management.
+  ms.date: 01/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3c1f765111310419d052c7d183f871b9f3a85f38
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667633"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/11-work-with-po-in-po-confirmation-workspace.md)]

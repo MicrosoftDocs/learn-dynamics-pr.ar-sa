@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-engineering-change-management.02-features
+title: نظرة عامة على الميزات
+metadata:
+  title: نظرة عامة على الميزات
+  description: نظرة عامة على الميزات في إدارة التغيير الهندسي.
+  ms.date: 01/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-scm
+  ms.openlocfilehash: e9134d9624b341ad7bf2eb36ca3314cbda1d82c2
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668216"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-features.md)]"

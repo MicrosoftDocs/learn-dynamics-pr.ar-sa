@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-budget-planning.2-configure-budget-planning-components
+title: تكوين مكونات تخطيط الموازنة
+metadata:
+  title: تكوين مكونات تخطيط الموازنة
+  description: يتكون مستند خطة الموازنة من رأس خطة الموازنة، وبنود خطة الموازنة، وتفاصيل خطة الموازنة. يمكن للمؤسسة إنشاء خطة موازنة واحدة أو أكثر لعملية تخطيط موازنة معينة. تحتوي خطة الموازنة على بنود خطة موازنة. يمكن لكل بند من بنود خطة الموازنة أن يشير اختيارياً إلى مصادر أخرى، بما في ذلك الأصول والمشاريع القائمة أو الأصول والمشاريع المقترحة، كما يمكنه التنبؤ بالمواضع‬. يوضح هذا الموضوع كيفية تكوين مكونات تخطيط الموازنة.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 33b557b6812615ee36c0049a457b8b725e80c628
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677761"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-configure-budget-planning-components.md)]

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.1-overview-fixed-assets
+title: نظرة عامة‬
+metadata:
+  title: نظرة عامة‬
+  description: توفر هذه الوحدة نظرة عامة على الأصول الثابتة في Dynamics 365 Finance.
+  ms.date: 04/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9b6da3ac8b5c0e442088091d33d62b856da3eccf
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677212"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-overview-fixed-assets.md)]

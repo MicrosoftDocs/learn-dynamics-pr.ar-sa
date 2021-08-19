@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops.4-config-settlement-periods
+title: تكوين فترات تسوية ضريبة المبيعات
+metadata:
+  title: تكوين فترات تسوية ضريبة المبيعات
+  description: اعرف كيفية تكوين فترات تسوية ضريبة المبيعات في Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0dd6bddace445d898b69a4e9ad3aae063b1290ad
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677504"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-config-settlement-periods.md)]

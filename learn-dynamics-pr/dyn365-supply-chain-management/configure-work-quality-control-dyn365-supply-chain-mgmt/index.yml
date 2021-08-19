@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين مراقبة الجودة وإدارة الجودة والتعامل معهما في Dynamics 365 Supply Chain Management
+  description: من العوامل الهامة التي تؤثر في سمعة الشركة في السوق اليوم هي جودة البضائع والخدمات الخاصة بها. من خلال وجود إجراء قياسي لفحص جودة المنتجات عند وصولها من الموردين، والانتقال عبر سلسلة التوريد، وإرسالها إلى العملاء، يمكن للشركات تقليل عدد المرتجعات والاحتفاظ بسمعتها في السوق.
+  ms.date: 03/19/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 72db93c4b4ef6270a1d5012bac93551a012f6e12
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667300"
+title: تكوين مراقبة الجودة وإدارة الجودة والتعامل معهما في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nمن العوامل الهامة التي تؤثر في سمعة الشركة في السوق اليوم هي جودة البضائع والخدمات الخاصة بها. من خلال وجود إجراء قياسي لفحص جودة المنتجات عند وصولها من الموردين، والانتقال عبر سلسلة التوريد، وإرسالها إلى العملاء، يمكن للشركات تقليل عدد المرتجعات والاحتفاظ بسمعتها في السوق. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين إدارة الجودة\n- تنفيذ عمليات التحكم في الجودة\n- تطبيق حظر المخزون\n- إجراء إدارة العزل\n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- المعرفة الأساسية بإجراءات التحكم في الجودة\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
+iconUrl: /learn/achievements/configure-work-with-quality-control-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.1-configure-work-with-quality-control-intro
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.3-configure-quality-management
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.4-perform-quality-contro-management-processes
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.5-apply-inventory-blocking
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.6-perform-quarantine-management
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.7-exercise-create-process-quality-order
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.8-exercise-create-process-nonconformance-order
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.9-configure-work-with-quality-control-quiz
+- learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.10-configure-work-with-quality-control-summary
+badge:
+  uid: learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.badge

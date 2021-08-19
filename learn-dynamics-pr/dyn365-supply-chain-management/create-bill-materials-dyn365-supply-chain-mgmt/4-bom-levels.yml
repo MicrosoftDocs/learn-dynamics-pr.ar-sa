@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops.4-bom-levels
+title: مستويات قائمة مكونات الصنف (BOM)
+metadata:
+  title: مستويات قائمة مكونات الصنف (BOM)
+  description: تصف هذه الوحدة مستويات قائمة مكونات الصنف (BOM) في Supply Chain Management.
+  ms.date: 03/18/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 60ae5cdd0d06b6e8d37d6e21b54cec02a1c233f2
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667131"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-bom-levels.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aeb5f7f5161541443e261edde11102f25ab8de43
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 80db2b3b88fc733c89a75b3fe6f6f666857cb885
+ms.sourcegitcommit: 7ec2735d4a7c2f8d9603161a2339f66e7fa5d42c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071399"
+ms.lasthandoff: 07/20/2021
+ms.locfileid: "6645988"
 ---
 يمكن للمطورين استيراد وتصدير واجهات برمجة التطبيقات (API) بين تطبيقات Finance and Operations وعمليات التوزيع المحلية. ضع في اعتبارك أن هناك بعض الاختلافات الأساسية مع هذه العمليات لعمليات التوزيع المحلية وعلى السحابة: 
 
@@ -34,7 +34,7 @@ BODY
 ```
 تصف القائمة التالية عناصر الرمز المختلفة:
 
--    يبدأ `ImportPackageFrom` الاستيراد.
+-    يبدأ `ImportFromPackage` الاستيراد.
 -    `packageurl` هو اسم ملف فريد يُستخدم لتعقب معرفات الكائنات الثنائية كبيرة الحجم. يمكنك تضمين معرف فريد عمومي (GUID) للمساعدة في ضمان اسم ملف فريد.
 -    `definitionGroupID` عبارة عن سلسلة تمثل اسم مشروع البيانات للاستيراد.
 -    `executionId` هو المعرف الذي يجب استخدامه للوظيفة. إذا تم تعيين معرف فارغ، فسيتم إنشاء معرف تنفيذ جديد تلقائياً.

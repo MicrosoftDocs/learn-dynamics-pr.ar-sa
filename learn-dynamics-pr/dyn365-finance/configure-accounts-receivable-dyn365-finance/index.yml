@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين الحسابات المدينة في Dynamics 365 Finance
+  description: يتعين عليك تكوين الوحدة النمطية للحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر التوريد. توضح هذه الوحدة كيفية استلام المدفوعات باستخدام العديد من أنواع الدفع المختلفة مثل النقدية والشيكات وبطاقات الائتمان والمدفوعات الإلكترونية من العملاء.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2d50ebba91e9e5d07c68331854c294a07eab6c9c
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677529"
+title: تكوين الحسابات المدينة في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nيتعين عليك تكوين الوحدة النمطية للحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر التوريد. توضح هذه الوحدة كيفية استلام المدفوعات باستخدام العديد من أنواع الدفع المختلفة مثل النقدية والشيكات وبطاقات الائتمان والمدفوعات الإلكترونية من العملاء. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الحسابات المدينة.\n- إنشاء عميل والمحافظة عليه. \n- تكوين مدفوعات العميل.\n- إعداد ملفات تعريف ترحيل العملاء.\n- تكوين رسوم الحسابات المدينة.\n"
+prerequisites: >
+  - فهم أساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - المعرفة العامة بالتنقل الأساسي داخل Finance
+
+  - فهم عام لفوترة أمر المبيعات
+iconUrl: /learn/achievements/configure-accounts-receivable-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.1-configure-accounts-receivable-intro
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.2-payment-schedule
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.3-terms-payment-days
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.4-cash-discounts
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.5-payment-fees
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.6-setup-credit-card-payment-service
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.7-methods-payment-control
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.8-create-maintain-customers
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.9-setup-customer-posting-profiles
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.10-configure-accounts-receivable-charges
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.11-exercise-configure-customer-posting
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.12-exercise-create-new-customer
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.13-configure-ar-quiz
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.14-configure-ar-summary
+badge:
+  uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.badge

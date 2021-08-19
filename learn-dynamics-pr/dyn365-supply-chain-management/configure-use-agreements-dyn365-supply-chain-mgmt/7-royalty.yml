@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.7-configure-royalty-contract-management
+title: تكوين إدارة عقود الولاء
+metadata:
+  title: تكوين إدارة عقود الولاء
+  description: تعرف على كيفية تكوين إدارة عقود الولاء في Supply Chain Management.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/trade-allowance
+  ms.openlocfilehash: ef35f20dd99ed4e4f7e22904cdc3d730316f3bb4
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667150"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-configure-royalty-contract-management.md)]
