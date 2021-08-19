@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.21-config-chart-accounts-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين مخطط الحسابات في الوحدة النمطية Dynamics 365 Finance
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5341551bf5580a9a30bcf564c26fdf1972118966
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677263"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/21-config-chart-accounts-summary.md)]

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-intercompany-trade.5-set-up-intercompany-agreements-direct-deliveries
+title: إعداد الاتفاقيات بين الشركات الشقيقة وعمليات التسليم المباشر
+metadata:
+  title: إعداد الاتفاقيات بين الشركات الشقيقة وعمليات التسليم المباشر
+  description: يوضّح هذا الموضوع كيفية معالجة الأوامر بين الشركات الشقيقة في Supply Chain Management.
+  ms.date: 06/02/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f9f71f57c11fa40697cf0e27e5c4b6fa82ac154c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667140"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-set-up-intercompany-agreements-direct-deliveries.md)]

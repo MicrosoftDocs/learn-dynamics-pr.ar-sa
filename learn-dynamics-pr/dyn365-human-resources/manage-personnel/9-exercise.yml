@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-personnel.9-exercise
+title: تدريب - إنشاء مشروع توظيف جماعي
+metadata:
+  title: تدريب - إنشاء مشروع توظيف جماعي
+  description: تعرّف على كيفية إنشاء مشروع توظيف جماعي.
+  ms.date: 07/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 7cd5169a17636310f6dfcfe402365a5853691cfc
+  ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/29/2021
+  ms.locfileid: "6691182"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-exercise.md)]"

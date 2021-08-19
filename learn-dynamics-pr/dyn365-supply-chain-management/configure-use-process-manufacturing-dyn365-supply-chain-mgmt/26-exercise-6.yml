@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.26-exercise-copy-and-modify-formula-versions
+title: تدريب - نسخ إصدارات المعادلة وتعديلها
+metadata:
+  title: تدريب - نسخ إصدارات المعادلة وتعديلها
+  description: تدرب على نسخ إصدارات المعادلة وتعديلها في Dynamics 365 Supply Chain Management.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6e869581d2b68f375f2e546e5119096c278d759c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667953"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/26-exercise-copy-modify-formula-versions.md)]

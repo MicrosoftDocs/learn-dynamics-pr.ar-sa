@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.2-overview-procure-to-purchase-process
+title: نظرة عامة على عملية التدبير إلى الشراء
+metadata:
+  title: نظرة عامة على عملية التدبير إلى الشراء
+  description: توفر هذه الوحدة نظرة عامة على عملية التدبير إلى الشراء في إدارة سلسلة التوريد.
+  ms.date: 05/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5e33180efc3baa3123b6122e5743770f89cdc6fe
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668388"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-overview-procure-to-purchase-process.md)]

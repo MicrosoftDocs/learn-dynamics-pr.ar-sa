@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-warehouse-management
+metadata:
+  title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
+  description: تتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في إدارة سلسلة التوريد، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.
+  ms.date: 06/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 56a9580716c9af909f6f71b4461c83893a665d8a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667644"
+title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في إدارة سلسلة التوريد، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية تنفيذ: \n- العمليات الواردة\n- العمليات الصادرة\n- انتقاء نظام المجموعة\n- التعبئة والتعبئة في حاويات\n- الجرد الدوري\n- التحويلات والتزويد\n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Supply Chain Management للمعالجة الأساسية \n"
+iconUrl: /learn/achievements/work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-warehouse-management.1-configure-mobile-device
+- learn-dynamics.work-with-warehouse-management.2-configure-work-type-menu-items
+- learn-dynamics.work-with-warehouse-management.3-inbound-operations
+- learn-dynamics.work-with-warehouse-management.4-cycle-counting
+- learn-dynamics.work-with-warehouse-management.5-transfers-replenishment
+- learn-dynamics.work-with-warehouse-management.6-outbound-operations
+- learn-dynamics.work-with-warehouse-management.6-1-warehouse-work
+- learn-dynamics.work-with-warehouse-management.6-1-2-material-handling-equipment-interface
+- learn-dynamics.work-with-warehouse-management.6-2-sales-order-picking-shipment-consolidation
+- learn-dynamics.work-with-warehouse-management.7-cluster-picking
+- learn-dynamics.work-with-warehouse-management.8-packing-containerization
+- learn-dynamics.work-with-warehouse-management.9-exercise-configure-mobile-devices
+- learn-dynamics.work-with-warehouse-management.10-exercise-perform-inbound-operations
+- learn-dynamics.work-with-warehouse-management.14-exercise-perform-cycle-counting
+- learn-dynamics.work-with-warehouse-management.15-exercise-perform-transfers-replenishment
+- learn-dynamics.work-with-warehouse-management.16-exercise-configure-wave-processing
+- learn-dynamics.work-with-warehouse-management.12-exercise-perform-cluster-picking
+- learn-dynamics.work-with-warehouse-management.13-exercise-perform-packing-containerization
+- learn-dynamics.work-with-warehouse-management.17-knowledge-check
+- learn-dynamics.work-with-warehouse-management.18-summary
+badge:
+  uid: learn-dynamics.work-with-warehouse-management-in-dynamics-365-for-finance-ops.badge

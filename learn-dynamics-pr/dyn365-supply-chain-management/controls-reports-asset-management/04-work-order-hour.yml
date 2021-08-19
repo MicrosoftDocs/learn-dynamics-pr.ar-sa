@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.controls-reports-asset-management.04-work-order-hour
+title: حساب التحكم في ساعة أمر العمل
+metadata:
+  title: حساب التحكم في ساعة أمر العمل
+  description: تصف هذه الوحدة حساب التحكم في الساعة لأمر العمل
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 53393aa8a6d9a4feafaea5feedc0d5f7d51a258e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667299"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-work-order-hour.md)]"

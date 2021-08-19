@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops
+metadata:
+  title: التعامل مع تخطيط القدرة الإنتاجية وجدولتها في Dynamics 365 Supply Chain Management
+  description: يتمثل دور نظام الجدولة في Dynamics 365 Supply Chain Management في تخطيط عملية الإنتاج الفعلية بحيث يتم تعيين تاريخ ووقت بدء وانتهاء لكل عملية في مسار الإنتاج، وأن تكون المواد المطلوبة للإنتاج متاحة عند بدء العملية.
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d166ccad1e9ac4986f074c3216293343d3daa0f1
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667864"
+title: التعامل مع تخطيط القدرة الإنتاجية وجدولتها في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يتمثل دور نظام الجدولة في Dynamics 365 Supply Chain Management في تخطيط عملية الإنتاج الفعلية بحيث يتم تعيين تاريخ ووقت بدء وانتهاء لكل عملية في مسار الإنتاج، وأن تكون المواد المطلوبة للإنتاج متاحة عند بدء العملية.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- العمل مع تخطيط القدرات. \n- جدولة أمر إنتاج.\n- تقسيم أمر إنتاج.\n- إعداد الخردة والنفايات.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع ودورة حياة أمر الإنتاج
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - فهم كيفية التعامل مع إدارة المخزون
+
+  - فهم كيفية التعامل مع إدارة المستودعات
+iconUrl: /learn/achievements/work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.1-work-capacity-planning-scheduling-discrete-introduction
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.2-scheduling-options
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.3-split-a-production-order
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.4-operations-scheduling
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.5-job-scheduling
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.6-scheduling-options-gantt-chart
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.7-resource-scheduling
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.8-scrap-and-waste
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.9-exercise-start-discrete-production-order
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.10-exercise-run-resource-schedule
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.11-work-capacity-planning-scheduling-discrete-quiz
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.12-work-capacity-planning-scheduling-discrete-summary
+badge:
+  uid: learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.badge

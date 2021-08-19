@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.convert-engineering-product-supply-chain-management.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 7b3d3b41ccacefb34e2ddbe844e24ca5cb376c58
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667492"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية يصف نتائج تحويل منتج قياسي إلى منتج هندسي؟
+    choices:
+    - content: سيتم إصدار المنتج، وسيتم تعقب التغييرات في المنتج بأوامر التغيير.
+      isCorrect: true
+      explanation: سيتم إصدار المنتج، وسيتم تعقب التغييرات في المنتج بأوامر التغيير.
+    - content: يجب دائماً إنشاء طلبات التغيير حتى يكون للمنتج تغيير.
+      isCorrect: false
+      explanation: سيتم إصدار المنتج، وسيتم تعقب التغييرات في المنتج بأوامر التغيير.
+    - content: لا يمكنك إجراء تحديثات في الإصدار
+      isCorrect: false
+      explanation: سيتم إصدار المنتج، وسيتم تعقب التغييرات في المنتج بأوامر التغيير.
+  - content: أي من الشروط التالية يجب أن تتحقق حتى تتمكن من تحويل منتج إلى منتج هندسي؟
+    choices:
+    - content: يجب ألا يكون المنتج رئيسياً للمنتج مع المتغيرات.
+      isCorrect: false
+      explanation: يجب أن تكون أبعاد المنتج هي نفسها قبل التحويل وبعده.
+    - content: يجب ألا يحتوي المنتج على قائمة مكونات الصنف (BOM).
+      isCorrect: false
+      explanation: يجب أن تكون أبعاد المنتج هي نفسها قبل التحويل وبعده.
+    - content: يجب أن تكون أبعاد المنتج هي نفسها قبل التحويل وبعده.
+      isCorrect: true
+      explanation: يجب أن تكون أبعاد المنتج هي نفسها قبل التحويل وبعده.
+  - content: أي من العبارات التالية صحيح فيما يتعلق بوقت تحويل منتج به قائمة مكونات الصنف إلى منتج هندسي؟
+    choices:
+    - content: يجب عليك دائماً إنشاء قائمة مكونات الصنف جديدة.
+      isCorrect: false
+      explanation: يمكنك أن تقرر استخدام قائمة مكونات الصنف الحالية باعتبارها قائمة مكونات الصنف الهندسية، لذا يتم تعقب التغييرات عليها.
+    - content: يمكنك أن تقرر استخدام قائمة مكونات الصنف الحالية باعتبارها قائمة مكونات الصنف الهندسية، لذا يتم تعقب التغييرات عليها.
+      isCorrect: true
+      explanation: يمكنك أن تقرر استخدام قائمة مكونات الصنف الحالية باعتبارها قائمة مكونات الصنف الهندسية، لذا يتم تعقب التغييرات عليها.
+    - content: لا يمكنك إنشاء قائمة مكونات صنف هندسية للمنتج القياسي.
+      isCorrect: false
+      explanation: يمكنك أن تقرر استخدام قائمة مكونات الصنف الحالية باعتبارها قائمة مكونات الصنف الهندسية، لذا يتم تعقب التغييرات عليها.

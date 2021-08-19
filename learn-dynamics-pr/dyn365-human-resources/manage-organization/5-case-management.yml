@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-organization.5-case-management
+title: تكوين إدارة الحالة‬
+metadata:
+  title: تكوين إدارة الحالة‬
+  description: تعرّف على كيفية تكوين إدارة الحالات لقانون الإجازات الطبية والعائلية (FMLA).
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 3e9623555e7adfec53c19de2c097346dd7976c52
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693265"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-case-management.md)]"

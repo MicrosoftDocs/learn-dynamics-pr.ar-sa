@@ -1,0 +1,60 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops
+metadata:
+  title: الشروع في العمل باستخدام التحكم في الإنتاج في Dynamics 365 Supply Chain Management
+  description: تبدأ دورة حياة الإنتاج بإنشاء أمر الإنتاج أو أمر الدفعة أو كانبان. وينتهي بصنف منتهٍ ومصنع وجاهز إما لعميل أو لمرحلة أخرى من الإنتاج.  تتطلب كل خطوة في دورة الحياة أنواعاً مختلفة من المعلومات لإكمال العملية. ومع اكتمال كل خطوة، يُظهر أمر الإنتاج أو أمر الدفعة أو كانبان تغييراً في حالة الإنتاج. وتتطلب الأنواع المختلفة من المنتجات عمليات تصنيع مختلفة.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9d7764c2bad155d67f85d7aa47be2d452d8e0bf7
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667257"
+title: الشروع في العمل باستخدام التحكم في الإنتاج في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتبدأ دورة حياة الإنتاج بإنشاء أمر الإنتاج أو أمر الدفعة أو كانبان. وينتهي بصنف منتهٍ ومصنع وجاهز إما لعميل أو لمرحلة أخرى من الإنتاج. تتطلب كل خطوة في دورة الحياة أنواعاً مختلفة من المعلومات لإكمال العملية. ومع اكتمال كل خطوة، يُظهر أمر الإنتاج أو أمر الدفعة أو كانبان تغييراً في حالة الإنتاج. وتتطلب الأنواع المختلفة من المنتجات عمليات تصنيع مختلفة.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- منهجيات‬ التصنيع المنفصل والتصنيع محدود الفاقد والتصنيع التحويلي‬ \n- التصنيع الموحد \n- كيفية تكوين التحكم في الإنتاج للتصنيع الموحد\n- تخطيط القدرة الإنتاجية\n- التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم بالإنتاج\n- مجموعات الإنتاج\n- كيفية العمل باستخدام مفاتيح التوزيع\n- إحصاءات وذكاء إنترنت الأشياء في Supply Chain Management\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج في Supply Chain Management
+
+  - فهم كيفية التعامل مع إدارة المخزون في Supply Chain Management
+
+  - فهم كيفية التعامل مع إدارة المستودعات في Supply Chain Management
+iconUrl: /learn/achievements/get-started-with-production-control-in-dynamics-365-finance-ops.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.1_get-started-production-control-intro
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.2-core-concepts-production-control
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.3-understand-unified-manufacturing
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.4-manufacturing-principles
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.5-overview-prod-process-life-cycle
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.6-discrete-manufacturing
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.7-process-manufacturing
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.8-lean-manufacturing
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.9-configure-production-control-unified-manufacturing
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.10-capacity-planning
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.11-integration-general-ledger-production
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.11-2-iot-insights
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.12-exercise-define-production-control-parameters
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.13-exercise-create-production-pools
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.14-exercise-define-ledger-posting-production
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.15-exercise-define-ledger-posting-resources
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.16-exercise-configure-item-prices
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.17-exercise-create-manage-resources
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.18_get-started-production-control-quiz
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.19_get-started-production-control-summary
+badge:
+  uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.badge

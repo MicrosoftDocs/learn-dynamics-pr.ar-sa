@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.10-exercise-record-an-invoice
+title: 'تدريب: تسجيل فاتورة'
+metadata:
+  title: 'تدريب: تسجيل فاتورة'
+  description: تدرب على تسجيل فاتورة في Dynamics 365 Finance.
+  ms.date: 01/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/tasks/record-vendor-invoice-invoice-journal
+  ms.openlocfilehash: 9a2a0f3c0f27a73af1082a2ca221a061445f746a
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677246"
+durationInMinutes: 18
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-exercise-record-an-invoice.md)]

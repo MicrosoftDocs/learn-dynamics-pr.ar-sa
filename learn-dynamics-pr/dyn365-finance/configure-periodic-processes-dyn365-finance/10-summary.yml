@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-periodic-processes-d365-finance-ops.10-configure-periodic-processes-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص العمليات الدورية للتكوين والتنفيذ في وحدة Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 8c24a71f1155846452e27b3ac7a60ea7301b829b
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677482"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-configure-periodic-processes-summary.md)]

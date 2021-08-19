@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.4-apply-filters
+title: تطبيق عوامل التصفية على خطة
+metadata:
+  title: تطبيق عوامل التصفية على خطة
+  description: تعرف على كيفية تطبيق عوامل التصفية على خطة عند استخدام خاصية تحسين التخطيط لـ Dynamics 365 Supply Chain Management.
+  ms.date: 05/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 718f9dc0cb493ef7b2314f823c3def808bbd601b
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667742"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-apply-filters.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.03-cost-groups
+title: مجموعات التكاليف
+metadata:
+  title: مجموعات التكاليف
+  description: توضح هذه الوحدة مجموعات التكاليف في Dynamics 365 Supply Chain Management.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4c6b27f7a8aa4c6b7be848b5cdafb54a8418319f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667340"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/03-cost-groups.md)]

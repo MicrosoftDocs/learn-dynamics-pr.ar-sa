@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.05-shelf-life-related-setup
+title: الإعداد المرتبط بفترة الصلاحية
+metadata:
+  title: الإعداد المرتبط بفترة الصلاحية
+  description: تصف هذه الوحدة الإعداد المرتبط بفترة الصلاحية في تصنيع العملية في Dynamics 365 Supply Chain Management.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 646f062921031a1619496496f385f4246585bae6
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667800"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05-shelf-life-related-setup.md)]

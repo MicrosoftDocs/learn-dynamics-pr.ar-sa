@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.9-reconcile-freight
+title: تسويه الشحن في إدارة النقل
+metadata:
+  title: تسويه الشحن في إدارة النقل
+  description: تصف هذه الوحدة كيفية تسوية الشحن في إدارة النقل في Dynamics 365 Supply Chain Management.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 690861f7ed89f1a6d1fd729ecae44b638eecfad5
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667155"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-reconcile-freight.md)]

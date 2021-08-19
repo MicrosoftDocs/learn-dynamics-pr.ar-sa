@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops.28-exercise-create-percentage-based-formula
+title: تدريب - إنشاء معادلة تستند إلى النسبة المئوية
+metadata:
+  title: تدريب - إنشاء معادلة تستند إلى النسبة المئوية
+  description: تدرب علي إنشاء معادلة تستند إلى النسبة المئوية في Dynamics 365 Supply Chain Management.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2e349ebf94174489f5058b33eae1c3b122ba65fc
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667951"
+durationInMinutes: 16
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/28-exercise-create-percentage-based-formula.md)]

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-assets-asset-management.14-purchase-order
+title: إنشاء أصول استناداً إلى أوامر الشراء
+metadata:
+  title: إنشاء أصول استناداً إلى أوامر الشراء
+  description: هذه الوحدة توضح كيفية إنشاء الأصول استناداً إلى أوامر الشراء.
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-finance-operations
+  ms.openlocfilehash: 92b466420db01e9f292eb4989b381c352f16df49
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667379"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/14-purchase-order.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.9-credit-collections
+title: عمليات التحصيل والائتمان
+metadata:
+  title: عمليات التحصيل والائتمان
+  description: توضح هذه الوحدة الائتمان والتحصيلات في Finance.
+  ms.date: 10/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d9390081b73a38eeceab629296b5b31980904e02
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677686"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-credit-collections.md)]

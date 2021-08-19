@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.1_get-started-production-control-intro
+title: مقدمة
+metadata:
+  title: مقدمة حول الشروع في التحكم بالإنتاج في وحدة Supply Chain Management النمطية.
+  description: في هذه الوحدة النمطية، ستتعلم كيفية الشروع في التحكم بالإنتاج في Supply Chain Management.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: abbf9d648859fa048d39092fb5158c4dcbe40186
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667770"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1_get-started-production-control-intro.md)]

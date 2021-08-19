@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-versioned-products-engineering-change-management.12-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 62006b7e449287ad36e0ce954e509a9118bc32c8
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668433"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الذي يشير إلى القيمة الافتراضية وسياسات منتج هندسي؟
+    choices:
+    - content: السمة
+      isCorrect: false
+      explanation: يمكن إضافة سمة إلى إحدى الفئات.
+    - content: فئة
+      isCorrect: true
+      explanation: وتشير الفئة إلى القيم والسياسات الافتراضية. تقوم كل فئة بتأسيس السلوك الافتراضي للمنتجات الموجودة في هذه الفئة.
+    - content: سياسة إصدار المنتج
+      isCorrect: false
+      explanation: تغطي سياسة إصدار المنتج إصدار منتج لكيان قانوني آخر.
+  - content: ما المقصود بفحص النظام؟
+    choices:
+    - content: سيتحقق المستخدم من صحة السجل، ويتحمل المستخدم مسؤولية تحديد ما إذا كان قد تم استيفاء شرط الجاهزية.
+      isCorrect: false
+      explanation: يعتبر هذا النوع من التحقق من المستخدم فحص يدوي.
+    - content: يتطلب فحص النظام أن يجيب المستخدم على سلسلة من الأسئلة من قائمة التحقق، وسيحدد النظام بعد ذلك ما إذا كانت المعايير قد استوفيت أم لا.
+      isCorrect: false
+      explanation: يعد هذا النوع من الفحص قائمة تحقق.
+    - content: سيتحقق النظام من وجود سجل صالح، وفقاً لإعداد السياسة.
+      isCorrect: true
+      explanation: سيقوم النظام بالتحقق مما إذا كان السجل موجوداً في الحقل المحدد في فحص الاستعداد.
+  - content: اي من الخيارات التالية ليس حقلاً مطلوباً عند إعداد تفاصيل فئة منتج هندسي؟
+    choices:
+    - content: مؤسسة الهندسة
+      isCorrect: false
+      explanation: هذا الحقل مطلوب.
+    - content: قاعدة رقم الإصدار
+      isCorrect: false
+      explanation: هذا الحقل مطلوب.
+    - content: مجموعة أبعاد المنتجات
+      isCorrect: false
+      explanation: هذا الحقل مطلوب.
+    - content: سياسة جاهزية المنتج
+      isCorrect: true
+      explanation: هذا الحقل غير مطلوب.

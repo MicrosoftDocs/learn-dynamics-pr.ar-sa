@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.register-report-consumption-asset-management.02-register-consumption
+title: تسجيل الاستهلاك
+metadata:
+  title: تسجيل الاستهلاك
+  description: توضح هذه الوحدة كيفية تسجيل الاستهلاك في إدارة الأصول
+  ms.date: 02/12/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c52503ce5fcefa582f12ff0c326cb2bc87e4ba9a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667902"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-register-consumption.md)]"

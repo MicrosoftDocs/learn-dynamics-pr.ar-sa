@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-receivable-daily-procedures-in-dynamics-365-finance-ops.8-exercise-process-invoice-settle
+title: تمرين - معالجة فاتورة وتسويتها مقابل دفع
+metadata:
+  title: تمرين - معالجة فاتورة وتسويتها مقابل دفع
+  description: تدرب على معالجة فاتورة وتسويتها مقابل دفع في Dynamics 365 Finance.
+  ms.date: 11/08/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 37cf56459460771fc8d9651c81929ddcb52e6dc7
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677354"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-exercise-process-invoice-settle.md)]

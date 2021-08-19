@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-organization.9-exercise
+title: تدريب - إعداد إدارة المستندات
+metadata:
+  title: تدريب - إعداد إدارة المستندات
+  description: اتبع الخطوات لإعداد إدارة المستندات.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 168e49ce9152fae5b5bba385c5f3bc7036e9a0b0
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693271"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-exercise.md)]"

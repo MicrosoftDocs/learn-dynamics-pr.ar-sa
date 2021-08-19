@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.controls-reports-asset-management.11-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 39246c3572730b9c9735722c7d39f4a58dd5950e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667942"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: يعمل حقل المستوى على تعيين مدى تفاصيل سطور الصنف التي تريدها لأماكن العمل. ما هو المستوى الذي يعرض كافة القيم التفصيلية لكافة البنود في موقع عمل متعدد المستويات؟
+    choices:
+    - content: مستوى 1
+      isCorrect: false
+      explanation: يعني المستوى 1 أنه ستتم إضافة كافة المواقع مع بعضها في موقع عمل متعدد المستويات ويتم عرضها في موقع عمل من المستوى الأعلى.
+    - content: مستوى 0
+      isCorrect: true
+      explanation: المستوي 0 يعني انك ستشاهد كافة القيم التفصيلية لكافة البنود المتعددة المستويات في موقع العمل
+    - content: مستوى 2
+      isCorrect: false
+      explanation: المستوى 2 ليس تعيين مستوى صالحاً.
+  - content: أي من الحسابات التالية تسمح لك بمعرفة الساعات التي يتم استهلاكها نحو إكمال أمر العمل؟
+    choices:
+    - content: التحكم بساعات أمر العمل
+      isCorrect: true
+      explanation: يسمح لك التحكم في ساعات أمر العمل الاطلاع على تقرير بالساعات التي يتم استهلاكها نحو إكمال أمر العمل.
+    - content: مكان استخدام الصنف
+      isCorrect: false
+      explanation: توفر العملية الحسابية مكان استخدام الصنف نظرة عامة على مكان استخدام الصنف في إدارة الأصول وتتضمن كيفية استخدام الصنف في أثناء مدة بقائه.
+    - content: مؤشرات الأداء الأساسية (KPI) الخاصة بالأصل
+      isCorrect: false
+      explanation: يمكنك استخدام مؤشرات الأداء الأساسية (KPI) للحصول على نظرة عامة حول الأصول المرتبطة، مثلاً، بوقت التشغيل ووقت التعطل ووقت الإصلاح.
+  - content: ما هو تعريف مصطلح مؤشر الأداء الأساسي (KPI) MTBS؟
+    choices:
+    - content: متوسط الوقت بين التوقفات
+      isCorrect: false
+      explanation: متوسط الوقت بين التوقفات ليس مصطلح KPI صالحاً.
+    - content: متوسط الوقت بين البدايات
+      isCorrect: false
+      explanation: متوسط الوقت بين البدايات ليس مصطلح KPI صالحاً.
+    - content: متوسط الوقت بين التوقفات
+      isCorrect: true
+      explanation: يعتبر متوسط الوقت بين التوقفات (MTBS) مصطلح KPI صالحاً ويتم تعريفه بأنه الوقت الإجمالي مقسوماً على عدد عمليات تسجيل وقت تعطل الصيانة.
