@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.24-create-operations-relations
+title: إنشاء العمليات وعلاقات العمليات
+metadata:
+  title: إنشاء العمليات وعلاقات العمليات
+  description: توضح هذه الوحدة النمطية كيفية إنشاء العمليات وعلاقات العمليات في وحدة التحكم في الإنتاج في Dynamics 365 Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5ba3b01f37f184663542acc7026792e99fdae203
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667525"
+durationInMinutes: 9
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/24-create-operations-relations.md)]

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-organization
+metadata:
+  title: إدارة مؤسستك باستخدام Dynamics 365 Human Resources
+  description: تعلم كيفية استخدام التسلسلات الهرمية التنظيمية والتنبيهات والتوقيعات الإلكترونية وإدارة المستندات. بالإضافة إلى ذلك، ستتعرف على كيفية تعيين إعدادات البريد الإلكتروني والمناطق الزمنية.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 822981c4450cb112b6a90a5905adf7eb89934bb4
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693258"
+title: إدارة مؤسستك باستخدام Dynamics 365 Human Resources
+summary: "[!include[](../includes/module-banner.md)] \nتعلم كيفية استخدام التسلسلات الهرمية التنظيمية والتنبيهات والتوقيعات الإلكترونية وإدارة المستندات. بالإضافة إلى ذلك، ستتعرف على كيفية تعيين إعدادات البريد الإلكتروني والمناطق الزمنية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء تدرج هرمي مؤسسي.\n- تكوين التنبيهات واستخدامها.\n- إعداد وإدارة التنبيهات وقواعد التنبيه.\n- العمل مع التوقيعات الإلكترونية.\n- إعداد إدارة المستندات.\n- تكوين إعدادات البريد الإلكتروني والمناطق الزمنية.\n"
+prerequisites: المعرفة العامة بالموارد البشرية
+iconUrl: /learn/achievements/manage-organization.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-human-resources
+units:
+- learn-dynamics.manage-organization.1-introduction
+- learn-dynamics.manage-organization.2-hierarchy
+- learn-dynamics.manage-organization.3-alerts
+- learn-dynamics.manage-organization.4-signatures
+- learn-dynamics.manage-organization.5-case-management
+- learn-dynamics.manage-organization.6-document-management
+- learn-dynamics.manage-organization.7-email-settings
+- learn-dynamics.manage-organization.8-date-time-zones
+- learn-dynamics.manage-organization.9-exercise
+- learn-dynamics.manage-organization.10-exercise
+- learn-dynamics.manage-organization.11-check
+- learn-dynamics.manage-organization.12-summary
+badge:
+  uid: learn-dynamics.manage-organization.badge

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.request-changes-products-engineering-change-management-scm.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: b4a5c622272c7eb0d4f63eec6cac5636cc714327
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668132"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الذي يتم عرضه عند تحديد الزر "تأثير العمل" في صفحة طلب تغيير الهندسة؟
+    choices:
+    - content: قائمة مكونات الصنف (BOM) التي يُعد منتج الهندسة جزءاً منها
+      isCorrect: false
+      explanation: يقدم الزر تأثير الأعمال قائمة بجميع الحركات التي تتأثر بالتغيير.
+    - content: قائمة بجميع الحركات التي تأثرت بالتغيير
+      isCorrect: true
+      explanation: يقدم الزر تأثير الأعمال قائمة بجميع الحركات التي تتأثر بالتغيير.
+    - content: الكيانات القانونية التي يوجد فيها منتج الهندسة
+      isCorrect: false
+      explanation: يقدم الزر تأثير الأعمال قائمة بجميع الحركات التي تتأثر بالتغيير.
+  - content: يمكن إنشاء أوامر تغيير الهندسة من إحدى الصفحات التالية؟
+    choices:
+    - content: تغيير الطلب
+      isCorrect: true
+      explanation: يتم إنشاء أوامر تغيير الهندسة من صفحة طلب التغيير.
+    - content: أماكن الاستخدام
+      isCorrect: false
+      explanation: صفحة "الاستخدام" هي المكان الذي تُستخدَم فيه الأصناف في قائمة BOM.
+    - content: ‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏المعلومات
+      isCorrect: false
+      explanation: في علامة التبويب السريعة المعلومات، عندما تحدد جديد، يمكنك تحميل ملف أو صورة أو ملاحظة أو عنوان URL حسب تعلق أي من ذلك بطلب التغيير.
+  - content: أي من التحديدات التالية ليس خياراً في الحقل "تأثير" عند إنشاء أمر تغيير هندسي؟
+    choices:
+    - content: بلا - تحديث إصدار المنتج الموجود (التحديث داخل الإصدار)
+      isCorrect: false
+      explanation: يعد هذا خياراً.
+    - content: إصدار جديد - إنشاء إصدار جديد يستند إلى إصدار المنتج المحدد
+      isCorrect: false
+      explanation: يعد هذا خياراً.
+    - content: منتج جديد - إنشاء منتج جديد يستند إلى إصدار المنتج المحدد
+      isCorrect: false
+      explanation: يعد هذا خياراً.
+    - content: متغير جديد
+      isCorrect: true
+      explanation: لا يتم تقديم هذا الخيار في حقل التأثير.

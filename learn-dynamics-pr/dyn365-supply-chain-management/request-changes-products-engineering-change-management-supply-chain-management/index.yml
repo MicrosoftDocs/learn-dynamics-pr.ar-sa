@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.request-changes-products-engineering-change-management-scm
+metadata:
+  title: طلب ومتابعة التغييرات في المنتجات في Dynamics 365 Supply Chain Management
+  description: طلب ومتابعة التغييرات في المنتجات الهندسية في Dynamics 365 Supply Chain Management
+  ms.date: 05/27/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: caf26789272b2c75d2f396f82111cad9c37b6516
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667677"
+title: طلب ومتابعة التغييرات في المنتجات في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nأثناء دورة حياة المنتج الهندسي، قد تحدث حالات يلزم فيها تحديث معلومات المنتج أو إزالتها أو استبدالها. في هذا السيناريو، توفر لك الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management عملية منظمة لإجراء هذه التغييرات.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء طلب تغيير هندسي.\n- التعرف على تأثيرات الأعمال.\n- إنشاء أمر تغيير هندسي.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات Supply Chain Management
+
+  - المعرفة العامة بإدارة معلومات المنتجات.
+
+  - إعداد الوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management وتكوينها.
+iconUrl: /learn/achievements/request-changes-products-engineering-change-management-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.request-changes-products-engineering-change-management-scm.1-introduction
+- learn-dynamics.request-changes-products-engineering-change-management-scm.2-change-requests
+- learn-dynamics.request-changes-products-engineering-change-management-scm.3-change-orders
+- learn-dynamics.request-changes-products-engineering-change-management-scm.4-exercise
+- learn-dynamics.request-changes-products-engineering-change-management-scm.5-check
+- learn-dynamics.request-changes-products-engineering-change-management-scm.6-summary
+badge:
+  uid: learn-dynamics.request-changes-products-engineering-change-management-scm.badge

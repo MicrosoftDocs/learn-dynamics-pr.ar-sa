@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-letters-of-credit-guarantees-in-dynamics-365-finance-ops.8-configure-letters-of-credit-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/11/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 6ed6142d34f2f952ef1b34e1b7e0fb827073845c
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677372"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الإجراء الذي يجب القيام به عندما لم يعد الغرض من طلب خطاب الضمان سارياً؟
+    choices:
+    - content: 'إلغاء '
+      isCorrect: true
+      explanation: عندما لم يعد الغرض من طلب خطاب الضمان سارياً، يجب عليك إلغاء الاتفاقية.
+    - content: تقديم للبنك
+      isCorrect: false
+      explanation: عندما لم يعد الغرض من طلب خطاب الضمان سارياً، يجب عليك إلغاء الاتفاقية.
+    - content: استلام من البنك
+      isCorrect: false
+      explanation: عندما لم يعد الغرض من طلب خطاب الضمان سارياً، يجب عليك إلغاء الاتفاقية.
+    - content: توسيع
+      isCorrect: false
+      explanation: عندما لم يعد الغرض من طلب خطاب الضمان سارياً، يجب عليك إلغاء الاتفاقية.
+  - content: ما الإجراء الذي يجب القيام به عندما يقدم المستفيد خطاب الضمان للبنك؟
+    choices:
+    - content: تصفية
+      isCorrect: true
+      explanation: عندما يقدم المستفيد خطاب الضمان للبنك، تقوم بصرف أو تصفية خطاب الضمان.
+    - content: تقديم للبنك
+      isCorrect: false
+      explanation: عندما يقدم المستفيد خطاب الضمان للبنك، تقوم بصرف أو تصفية خطاب الضمان.
+    - content: استلام من البنك
+      isCorrect: false
+      explanation: عندما يقدم المستفيد خطاب الضمان للبنك، تقوم بصرف أو تصفية خطاب الضمان.
+    - content: توسيع
+      isCorrect: false
+      explanation: عندما يقدم المستفيد خطاب الضمان للبنك، تقوم بصرف أو تصفية خطاب الضمان.

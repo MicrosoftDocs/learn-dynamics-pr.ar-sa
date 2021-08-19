@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين Dynamics 365 Finance للقطاع العام
+  description: يمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور.
+  ms.date: 05/31/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f8347a1bbc137a24eb581c90d9cdbba75d53332d
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677366"
+title: تكوين Dynamics 365 Finance للقطاع العام
+summary: "[!include[](../includes/module-banner.md)]\n\nيمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد الصناديق لللقطاع العام. \n- إعداد الأبعاد المشتقة.\n- إعداد تدرجات هرمية مالية مشتقة في القطاع العام.\n- إعداد وظيفة إدخالات دفتر الأستاذ المتقدمة للقطاع العام. \n- تكوين أكواد الفوترة للفواتير ذات النص الحر\n"
+prerequisites: >
+  - فهم أساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - فهم عام لميزات الإدارة المالية، مثل الحسابات المصرفية وحسابات المدفوعات والحسابات المدينة والموازنة ومحاسبة الالتزام.
+iconUrl: /learn/achievements/configure-public-sector-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.1-configure-public-sector-intro
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.2-overview-public-sector
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.3-setup-funds-public-sector
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.4-setup-derived-financial-hierarchies
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.5-configure-billing-codes-free-text-inv
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.6-exercise-setup-funds
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.7-exercise-setup-derived-fin-hierarchy
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.8-exercise-configure-billing-codes
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.9-configure-public-sector-quiz
+- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.10-configure-public-sector-summary
+badge:
+  uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.badge

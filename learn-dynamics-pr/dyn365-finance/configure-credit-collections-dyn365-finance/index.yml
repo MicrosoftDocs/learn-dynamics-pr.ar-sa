@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين الائتمان والتحصيلات في Dynamics 365 Finance
+  description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة باستخدام صفحة "التحصيلات" في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 52a6cddadcd2ede5e9020e43c92c01e0752fb2ed
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677413"
+title: تكوين الائتمان والتحصيلات في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة باستخدام صفحة \"التحصيلات\" في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات عمليات التحصيل والائتمان.\n- تكوين تقارير التقادم وأوعيه العملاء ووكلاء التحصيلات وتعريفات فترات التقادم.\n- إعداد الفوائد وإدارتها.\n- إعداد خطابات التحصيل وإدارتها.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - الفهم العام لفوترة أمر المبيعات
+
+  - الفهم العام لعملية التحصيل
+iconUrl: /learn/achievements/configure-credit-and-collections-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.1-config-credit-intro
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.2-config-ar-credit
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.3-config-credit-comp
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.4-setup-interest-rates
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.5-waive-reinstate
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.6-setup-collect-letters
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.7-exercise-setup-credit
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.8-exercise-write-off
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.9-conf-credit-coll-quiz
+- learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.10-conf-credit-summary
+badge:
+  uid: learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.badge

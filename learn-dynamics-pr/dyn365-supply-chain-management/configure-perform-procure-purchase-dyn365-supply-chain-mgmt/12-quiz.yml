@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.12-configure-procure-to-purchase-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 05/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 8c696a553e5ca3129c906cd1838cf4e143322e5e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668390"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي من خيارات قيد الانتظار التالية تشير إلى أنه لا يمكن معالجة أية حركات جديدة للمورد المحدد؟
+    choices:
+    - content: الكل
+      isCorrect: true
+      explanation: يشير خيار "الكل" إلى أنه لا توجد حركات جديدة يمكن معالجتها للمورّد المحدد.
+    - content: الفاتورة
+      isCorrect: false
+      explanation: تشير "الفاتورة" إلى تعذُّر معالجة فواتير المورّد الجديدة للمورّد المحدد.
+    - content: الدفع
+      isCorrect: false
+      explanation: يشير خيار "الدفع" إلى تعذُّر معالجة دفاتر يومية المدفوعات الجديدة للمورّد المحدد.
+    - content: الطلب
+      isCorrect: false
+      explanation: يشير خيار "الطلب" إلى أن طلب الشراء الجديد لا يمكن معالجته للمورد المحدد.
+  - content: أي من الأدوار التالية يمكنها تحضير طلب الشراء؟
+    choices:
+    - content: الطالب
+      isCorrect: true
+      explanation: الطالب هو المستخدم الذي يطلب الأصناف أو الخدمات. يمكن للطالب إعداد طلب الشراء، أو يمكن لعامل آخر تحضير طلب الشراء نيابةً عن الطالب. هذا العامل هو المُعِد. يكون المُعِد مسؤولاً عن إدارة طلب الشراء خلال عملية المراجعة. يمكن فقط لمُعِد طلب الشراء تعديله.
+    - content: وكيل الشراء
+      isCorrect: false
+      explanation: وكيل الشراء هو المستخدم الذي يقوم بمراجعة أمر الشراء ويمكنه اعتماد المستند.
+    - content: مدير الطالب
+      isCorrect: false
+      explanation: مدير الطالب هو المستخدم الذي يقوم بمراجعة إدارية ويمكنه الموافقة على المستند.
+    - content: مدير القسم
+      isCorrect: false
+      explanation: مدير القسم هو المستخدم الذي يقوم بمراجعة النفقات ويمكنه الموافقة على المستند.
+  - content: يمكن أن تكون كافة الأمور التالية هي حالة طلب الشراء باستثناء أي منها؟
+    choices:
+    - content: مؤكد
+      isCorrect: true
+      explanation: يمكن أن تكون لأوامر الشراء حالة "مؤكد"، وليس طلبات شراء.
+    - content: قيد المراجعة
+      isCorrect: false
+      explanation: تُعد "قيد المراجعة" حالة صالحة.
+    - content: موافق عليه
+      isCorrect: false
+      explanation: تُعد "معتمد" حالة صالحة.
+    - content: مُلغى‬
+      isCorrect: false
+      explanation: تُعد "مُلغى" حالة صالحة.

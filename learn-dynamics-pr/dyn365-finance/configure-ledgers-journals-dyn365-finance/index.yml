@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance
+  description: في أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. يوفر دفتر الأستاذ أيضاً الوسائل لمشاركة دليل الحسابات والعملات والتقويم المالي من قِبل كيانات قانونية متعددة.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 45ca73f93ca6feb61aa7a43f113da4dcbbb95869
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677491"
+title: تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nفي أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. يوفر دفتر الأستاذ أيضاً الوسائل لمشاركة دليل الحسابات والعملات والتقويم المالي من قِبل كيانات قانونية متعددة. \n"
+abstract: "سوف تتعرف في هذه الوحدة على: \n- أنواع مختلفة من دفاتر اليومية وإعدادها.    \n- طريقة تكوين إعداد دفتر الأستاذ والترحيل.\n- طريقة تكوين دفاتر اليومية واستخدامها.\n"
+prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n- التعرف على كيفية إعداد دليل الحسابات في Finance \n- القدرة على استخدام Finance للمعالجة الأساسية\n- معرفة التنقل الأساسي في Finance\n"
+iconUrl: /learn/achievements/configure-ledgers-journals-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.1-configure-ledgers-journals-introduction
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.2-different-types-of-journals
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.3-configure-ledger-journal-setup
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.4-configure-use-journals
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.5-exercise-configure-ledger-journal-setup
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.6-configure-ledgers-journals-quiz
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.7-configure-ledgers-journals-summary
+badge:
+  uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.badge

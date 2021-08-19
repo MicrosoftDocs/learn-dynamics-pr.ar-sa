@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.3-use-cash-and-bank-workspaces
+title: استخدام مساحات عمل إدارة النقد والبنوك
+metadata:
+  title: استخدام مساحات عمل إدارة النقد والبنوك
+  description: توضح هذه الوحدة كيفية استخدام مساحات عمل إدارة النقد والبنوك في Dynamics 365 Finance.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0abe60d3bc9da9602f34b955ae6683cb52ddd4aa
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677262"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-use-cash-and-bank-workspaces.md)]

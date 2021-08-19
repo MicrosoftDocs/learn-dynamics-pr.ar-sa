@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.8-process-credit-collections-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: edd461edbeaabd8f8201c969d7d3c3fb12dfffe6
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677815"
+title: اختبر معلوماتك
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي خيار من الخيارات التالية يحتوي على أرصدة العملاء في وقت معين؟
+    choices:
+    - content: أوعيه عملاء التحصيلات
+      isCorrect: false
+      explanation: تساعدك تحصيلات أوعية العملاء علي تنظيم العمل.
+    - content: الأرصدة القديمة
+      isCorrect: false
+      explanation: تعرض الأعمدة الموجودة في صفحة القائمة أرصدة العملاء والمبالغ القديمة حسب فترة التقادم، لذا قد تبحث في مجموعات مختلفة من البيانات.
+    - content: لقطات شاشة لتقادم العملاء
+      isCorrect: true
+      explanation: تحتوي لقطات شاشة تقادم العميل على معلومات رصيد العميل في وقت معين.
+  - content: أي خيار من الخيارات التالية يتيح لك عرض المجموعات وإدارتها واتخاذ إجراءات بشأنها للعميل؟
+    choices:
+    - content: أنشطة التحصيلات
+      isCorrect: false
+      explanation: تعرض الأعمدة الموجودة في صفحة القائمة الأنشطة التي تم تحديدها على أنها أنشطة تحصيلات. يتم إنشاء هذه الأنشطة باستخدام صفحة التحصيلات. استخدم الأنشطة لتعقب العمل الذي تقوم به للتحصيلات.
+    - content: حالات التحصيلات
+      isCorrect: false
+      explanation: تعرض الأعمدة الموجودة في صفحة القائمة معلومات للحالات التي تحتوي على فئة حالة بنوع حالة للتحصيلات.
+    - content: الأرصدة القديمة
+      isCorrect: true
+      explanation: استخدم صفحة الأرصدة القديمة لعرض معلومات المجموعات والأنشطة والحالات الخاصة بالعميل وإدارتها واتخاذ إجراءات بشأنها.

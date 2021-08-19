@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.3-distribute-funds
+title: توزيع الأموال باستخدام التوزيعات المحاسبية
+metadata:
+  title: توزيع الأموال باستخدام التوزيعات المحاسبية
+  description: تصف هذه الوحدة كيفية توزيع الأموال باستخدام التوزيعات المحاسبية في Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/accounting-distributions
+  ms.openlocfilehash: 15ee001389189882cd16ef2eb2c6e62297157fec
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677153"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-distribute-funds.md)]

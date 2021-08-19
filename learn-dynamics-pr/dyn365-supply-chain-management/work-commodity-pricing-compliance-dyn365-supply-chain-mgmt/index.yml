@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-commodity-pricing-compliance
+metadata:
+  title: التعامل مع تسعير السلع والتوافق في Dynamics 365 Supply Chain Management
+  description: توفر هذه الوحدة معلومات حول كيفية التعامل تسعير السلع والتوافق في Dynamics 365 Supply Chain Management.
+  ms.date: 04/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 78968f19c9ce030e835d8bddc945551e2960ac4b
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667341"
+title: التعامل مع تسعير السلع والتوافق في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يؤثر هبوط وارتفاع أسعار السلع مثل الطاقة المتجددة والغاز الطبيعي والفحم والنفط في التصنيع على تكلفة الإنتاج. في هذه الوحدة، ستتعلم كيفية إعداد تسعير السلع والالتزام بالتوافق لسلعك النهائية.
+abstract: "وفي نهاية هذه الوحدة، ستتمكن من: \n- تكوين تسعير السلع في Supply Chain Management.\n- تكوين توافق المنتج في Supply Chain Management.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع
+
+  - فهم كيفية التعامل مع إدارة معلومات المنتج
+
+  - فهم كيفية التعامل مع إدارة المخزون
+
+  - فهم كيفية التعامل مع إدارة المستودعات
+iconUrl: /learn/achievements/work-with-commodity-pricing-compliance-in-dyn365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-commidity-pricing-compliance.1-configure-commodity-pricing
+- learn-dynamics.work-with-commidity-pricing-compliance.2-configure-product-compliance
+- learn-dynamics.work-with-commidity-pricing-compliance.3-exercise-setup-commodity-pricing
+- learn-dynamics.work-with-commidity-pricing-compliance.5-exercise-setup-pricing-calculation
+- learn-dynamics.work-with-commidity-pricing-compliance.4-exercise-create-price-data-update-agree
+- learn-dynamics.work-with-commidity-pricing-compliance.6-exercise-product-compliancy
+- learn-dynamics.work-with-commidity-pricing-compliance.7-knowledge-check
+- learn-dynamics.work-with-commidity-pricing-compliance.8-summary
+badge:
+  uid: learn-dynamics.work-with-commodity-pricing-compliance-in-dyn365-for-finance-ops.badge

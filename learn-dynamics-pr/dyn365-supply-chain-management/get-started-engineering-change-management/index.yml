@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-engineering-change-management
+metadata:
+  title: بدء استخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
+  description: تعرف على أساسيات الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management.
+  ms.date: 01/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ec9156982e012bf747df7651d7b53c4ea6367041
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667573"
+title: بدء استخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتوفر الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management البنية والنظام لعملية إدارة بيانات المنتج وتمكن من تحديد المنتجات وإصدارها ومراجعتها بطريقة خاضعة للرقابة تدعمها مهام سير العمل. تتيح إدارة التغيير الهندسي توثيق وتقييم تأثير وتطبيق التغييرات الهندسية طوال دورة حياة المنتج بالكامل.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تمكين الوظيفة الإضافية لإدارة التغيير الهندسي.\n- فهم الميزات في إدارة التغيير الهندسي.\n- تعرف على كيفية عمل عملية إدارة التغيير الهندسي من البداية حتى النهاية.\n"
+prerequisites: >
+  - معرفة عمليات Supply Chain Management
+
+  - معرفه العمل باستخدام Dynamics 365 Supply Chain Management
+iconUrl: /learn/achievements/get-started-engineering-change-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-engineering-change-management.01-introduction
+- learn-dynamics.get-started-engineering-change-management.02-features
+- learn-dynamics.get-started-engineering-change-management.03-enable
+- learn-dynamics.get-started-engineering-change-management.04-walkthrough-features
+- learn-dynamics.get-started-engineering-change-management.05-exercise-set-up-demo-data
+- learn-dynamics.get-started-engineering-change-management.06-exercise-create-engineering-product
+- learn-dynamics.get-started-engineering-change-management.07-exercise-release-engineering-product
+- learn-dynamics.get-started-engineering-change-management.08-exercise-review-product
+- learn-dynamics.get-started-engineering-change-management.09-exercise-product-transactions
+- learn-dynamics.get-started-engineering-change-management.10-exercise-add-product-sales-order
+- learn-dynamics.get-started-engineering-change-management.11-exercise-request-changes
+- learn-dynamics.get-started-engineering-change-management.12-exercise-change-product
+- learn-dynamics.get-started-engineering-change-management.13-exercise-release-product
+- learn-dynamics.get-started-engineering-change-management.14-check
+- learn-dynamics.get-started-engineering-change-management.15-summary
+badge:
+  uid: learn-dynamics.get-started-engineering-change-management.badge

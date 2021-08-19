@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounts-receivable-daily-procedures-in-dynamics-365-finance-ops.9-ar-daily-procedures-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 11/08/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 175cdc25c0896f97adafa542e7a7a578970ed01c
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677152"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: متى يمكنك استخدام وظيفة الأسعار المتداخلة في صفحة الحركات المفتوحة لتسوية الحسابات المدينة؟
+    choices:
+    - content: عندما يقوم العميل بدفع دفعة مقدمة
+      isCorrect: false
+      explanation: لا يزال إجراء الدفعة المقدمة يتطلب منك تحديد عملة الدفع.
+    - content: عندما تكون عملة الفاتورة وعملة الدفع مختلفتين
+      isCorrect: true
+      explanation: عندما تكون عملة الفاتورة وعملة الدفع مختلفتين، يمكنك استخدام وظيفة الأسعار المتداخلة.
+    - content: عندما تكون عملة الفاتورة وعملة الدفع نفس الشيء
+      isCorrect: false
+      explanation: إذا كانت عملتي الفاتورة والدفع نفس الشيء، فلن تكون وظيفة الأسعار المتداخلة ضرورية.
+    - content: عندما يتم إنشاء فاتورة العميل باستخدام الفاتورة ذات النص الحر
+      isCorrect: false
+      explanation: طريقة قيامك بفوترة العميل ليست ذات صلة. ما يهم هو عملة الفاتورة والدفع.
+  - content: أي خيار من الخيارات التالية أثناء إنشاء قائمة الانتقاء يسمح بالتسليم الجزئي؟
+    choices:
+    - content: التسليم الآن
+      isCorrect: true
+      explanation: حدد كل الكميات التي تم إدخالها في حقل التسليم الآن. استخدم هذا الخيار لتأكيد أمر جزئي أو تسليمه.
+    - content: تم الانتقاء
+      isCorrect: false
+      explanation: حدد جميع الكميات المنتقاة.
+    - content: إيصال التعبئة
+      isCorrect: false
+      explanation: حدد جميع الكميات التي تم تحديثها بواسطة إيصال تعبئة.
+    - content: الكمية المنتقاة والمنتجات غير المخزّنة
+      isCorrect: false
+      explanation: حدد جميع الكميات المنتقاة وجميع كميات المنتجات غير المخزّنة.
+  - content: أي خيار من الخيارات التالية في إعداد أمر الملخص يسمح لك بالتلخيص بواسطة أمر المبيعات؟
+    choices:
+    - content: ملخص تلقائي
+      isCorrect: false
+      explanation: يقوم إعداد الفواتير الملخصة تلقائياً بتجميع وتلخيص ترحيلات الفاتورة اليومية في فاتورة ملخصة واحدة، مما يقلل من عدد الفواتير المستلمة شهرياً.
+    - content: حساب الفاتورة
+      isCorrect: false
+      explanation: يقوم حساب الفاتورة بدمج وتلخيص الأوامر المحددة بواسطة رقم حساب الفاتورة.
+    - content: الأمر
+      isCorrect: true
+      explanation: يسمح لك الأمر بتلخيص الأوامر في أمر وفاتورة واحدة باستخدام رقم أمر المبيعات.

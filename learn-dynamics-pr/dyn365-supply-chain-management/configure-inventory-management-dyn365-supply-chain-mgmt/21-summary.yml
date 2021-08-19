@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.21-configure-inventory-management-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: مقدمة حول تكوين إدارة المخزون والعمل معها في الوحدة النمطية Supply Chain Management.
+  ms.date: 06/14/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ff388afe467c8d8d955154d7dcb807e245a6910e
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667116"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/21-configure-inventory-management-summary.md)]

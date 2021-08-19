@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.setup-assets-asset-management
+metadata:
+  title: إعداد الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  description: قبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. ستوضح هذه الوحدة خلال الخطوات المتعلقة بكيفية إعداد الوظائف الرئيسية للأصول مثل كيفية إنشاء أنواع الأصول وإنشاء قوالب تقييم الحالة والتسجيلات على تلك الأصول وإنشاء حالات دورة حياة الأصول وإنشاء أنواع الأهمية الحيوية وغير ذلك الكثير.
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-finance-operations
+  ms.openlocfilehash: eff8ac0554128a5e377b81cbda82c8a866385fb4
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667109"
+title: إعداد الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nقبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. ستوضح هذه الوحدة خلال الخطوات المتعلقة بكيفية إعداد الوظائف الرئيسية للأصول مثل كيفية إنشاء أنواع الأصول وإنشاء قوالب تقييم الحالة والتسجيلات على تلك الأصول وإنشاء حالات دورة حياة الأصول وإنشاء أنواع الأهمية الحيوية وغير ذلك الكثير.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد أنواع الأصول وإنشاءها.\n- راجع كيفية استخدام تقييمات الحالة لإدارة معداتك وصيانتها.\n- تعرف على كيفية استخدام عداد الأصول للمساعدة في تعقب خطط الصيانة واستخدامها.\n- مراجعة حالات دورة حياة الأصل وتحديد حالات الأصول.\n- قم بإعداد مستويات خدمة الأصول.\n- إنشاء مجموعات عاملين ومجموعات عاملي الصيانة.    \n"
+prerequisites: "- المعرفة العامة بإدارة الأصول. \n"
+iconUrl: /learn/achievements/setup-asset-management-dyn365-scm.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.setup-assets-asset-management.01-introduction
+- learn-dynamics.setup-assets-asset-management.02-lifecycle-state
+- learn-dynamics.setup-assets-asset-management.03-lifecycle-model
+- learn-dynamics.setup-assets-asset-management.04-asset-types
+- learn-dynamics.setup-assets-asset-management.05-asset-type-default
+- learn-dynamics.setup-assets-asset-management.06-condition-assessment
+- learn-dynamics.setup-assets-asset-management.07-manufacture-model
+- learn-dynamics.setup-assets-asset-management.08-counters
+- learn-dynamics.setup-assets-asset-management.10-parameters
+- learn-dynamics.setup-assets-asset-management.11-service-levels
+- learn-dynamics.setup-assets-asset-management.12-criticality
+- learn-dynamics.setup-assets-asset-management.13-document-relation
+- learn-dynamics.setup-assets-asset-management.14-purchase-order
+- learn-dynamics.setup-assets-asset-management.15-workers
+- learn-dynamics.setup-assets-asset-management.16-exercise-1
+- learn-dynamics.setup-assets-asset-management.20-check
+- learn-dynamics.setup-assets-asset-management.21-summary
+badge:
+  uid: learn-dynamics.setup-asset-management-dyn365-scm.badge

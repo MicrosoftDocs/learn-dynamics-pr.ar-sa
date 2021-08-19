@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.create-compensation-plans
+metadata:
+  title: إنشاء خطط تعويض في Dynamics 365 Human Resources
+  description: تعرّف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في Microsoft Dynamics 365 Human Resources.
+  ms.date: 07/21/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: c48a62a992ec25b83b297a9c956ac459570495c5
+  ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6656565"
+title: إنشاء خطط تعويض في Dynamics 365 Human Resources
+summary: "[!include[](../includes/module-banner.md)] \nيساعدك Dynamics 365 Human Resources على توفير خطط تعويض تنافسية لموظفيك. تعرّف على كيفية تكوين خطط التعويض وإنشائها وتسجيل الموظفين ومعالجة خطط التعويض.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة التعويض في الموارد البشرية.\n- تعرّف على كيفية تكوين معلمات إدارة التعويض.\n- تعرّف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في الموارد البشرية .\n- تعرّف على كيفية إنشاء قواعد الأهلية لخطط التعويض.\n- تعرّف على كيفية تسجيل الموظفين في خطط التعويض.\n- تعرّف على كيفية معالجة خطط التعويض.\n"
+prerequisites: المعرفة العامة للمفاهيم وممارسات الموارد البشرية
+iconUrl: /learn/achievements/create-compensation-plans.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- dynamics-365
+- dynamics-human-resources
+units:
+- learn-dynamics.create-compensation-plans.1-introduction
+- learn-dynamics.create-compensation-plans.2-component-setup
+- learn-dynamics.create-compensation-plans.3-fixed-plan
+- learn-dynamics.create-compensation-plans.4-variable-plan
+- learn-dynamics.create-compensation-plans.5-eligibility-rules
+- learn-dynamics.create-compensation-plans.6-enroll-employees
+- learn-dynamics.create-compensation-plans.7-process-plans
+- learn-dynamics.create-compensation-plans.8-exercise
+- learn-dynamics.create-compensation-plans.9-check
+- learn-dynamics.create-compensation-plans.10-summary
+badge:
+  uid: learn-dynamics.create-compensation-plans.badge

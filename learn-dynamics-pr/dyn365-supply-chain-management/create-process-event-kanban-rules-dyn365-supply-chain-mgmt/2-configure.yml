@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-process-event-kanban-rules.2-configure-event-kanban-rules
+title: تكوين قواعد كانبان الأحداث
+metadata:
+  title: تكوين قواعد كانبان الأحداث
+  description: يوضح هذا الموضوع كيفية تكوين قواعد كانبان الحدث.
+  ms.date: 03/31/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fc278df5946fca5c36c314ed1f8fa29db49f1bc4
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667291"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-configure-event-kanban-rules.md)]

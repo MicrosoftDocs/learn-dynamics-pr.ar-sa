@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops.06-bom-calculations
+title: عمليات حساب BOM
+metadata:
+  title: عمليات حساب BOM
+  description: توضح هذه الوحدة عمليات حساب BOM في Dynamics 365 Supply Chain Management.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3d9649752bfe1e9f48c4528575f0b837ffa60156
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668071"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/06-bom-calculations.md)]

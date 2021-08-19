@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.13-configure-fixed-assets-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 04/28/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4db6f551da2c21782c96374888de8be3e2e3d1d1
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677508"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أين يمكنك مراجعة الدفاتر المرتبطة بالأصل الثابت؟
+    choices:
+    - content: في الحساب الرئيسي المقابل.
+      isCorrect: false
+      explanation: ولا يكون الحساب الرئيسي المقابل هو المكان الذي يمكن فيه مراجعة الكتب المرتبطة بالأصل الثابت.
+    - content: في صفحة مجموعة الأصول الثابتة.
+      isCorrect: true
+      explanation: يمكن مراجعة الدفاتر المرتبطة بأصل ثابت في صفحة مجموعة الأصول الثابتة.
+    - content: في صفحة معلمات الأصول الثابتة.
+      isCorrect: false
+      explanation: لا تُعد صفحة معلمات الأصول الثابتة هي المكان الذي يمكنك فيه مراجعة دفاتر مرتبطة بالأصل الثابت.
+    - content: في صفحة ملف تعريف ترحيل الأصول الثابتة.
+      isCorrect: false
+      explanation: لا تُعد صفحة ملف تعريف ترحيل الأصول الثابتة هي المكان الذي يمكنك فيه مراجعة دفاتر مرتبطة بالأصل الثابت.
+  - content: أين تقوم بإعداد حد الرسملة؟
+    choices:
+    - content: في مجموعات الأصول الثابتة.
+      isCorrect: true
+      explanation: يمكنك إعداد حد الرسملة في مجموعات الأصول الثابتة.
+    - content: في معلمات المخزون.
+      isCorrect: false
+      explanation: لا تقم بإعداد حد الرسملة في معلمات المخزون.
+    - content: في مجموعات أصناف المخزون.
+      isCorrect: false
+      explanation: لا تقم بإعداد حد الرسملة في مجموعات أصناف المخزون.
+    - content: في الحسابات الرئيسية لدفتر الأستاذ العام.
+      isCorrect: false
+      explanation: لا تقم بإعداد حد الرسملة في الحسابات الرئيسية دفتر الأستاذ العام.
+  - content: ما حركة الأصول الثابتة التي يمكنك معالجتها في صفحة فاتورة النص الحر؟
+    choices:
+    - content: الاستحواذ
+      isCorrect: false
+      explanation: لا يمكنك معالجة عملية الاستحواذ في صفحة فاتورة النص الحر.
+    - content: تسوية الاستحواذ
+      isCorrect: false
+      explanation: لا يمكنك معالجة عملية تسوية الاستحواذ في صفحة فاتورة النص الحر.
+    - content: بيع التخلص
+      isCorrect: true
+      explanation: يمكنك معالجة عملية بيع التخلص في صفحة فاتورة النص الحر.
+    - content: التخلص من الخردة
+      isCorrect: false
+      explanation: لا يمكنك معالجة عملية التخلص من الخردة في صفحة فاتورة النص الحر.

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-organization.10-exercise
+title: تدريب - تكوين التوقيعات الإلكترونية
+metadata:
+  title: تدريب - تكوين التوقيعات الإلكترونية
+  description: اتبع الخطوات لإعداد التوقيعات الإلكترونية.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 0ade556f32730a536294ff866066a8b0e1ec54f1
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693268"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise.md)]"

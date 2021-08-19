@@ -1,0 +1,27 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.14-exercise-process-outbound-shipment
+title: 'معمل: معالجة شحنة صادرة'
+labId: 72698
+metadata:
+  title: 'معمل: معالجة شحنة صادرة'
+  description: تدرب على معالجة شحنة صادرة في Dynamics 365 Supply Chain Management.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1a9b8911336198fcfa82b64ef897a53ee3cad5be
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667157"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs-2.md)]
+
+  [!include[](includes/14-exercise-process-outbound-shipment.md)]
+
+  [!include[](../includes/non-final-lab-end.md)]

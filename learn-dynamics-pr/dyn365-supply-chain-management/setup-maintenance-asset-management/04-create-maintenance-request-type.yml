@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-maintenance-asset-management.04-create-maintenance-request-type
+title: إنشاء أنواع طلبات الصيانة
+metadata:
+  title: إنشاء أنواع طلبات الصيانة
+  description: توضح هذه الوحدة كيفية إنشاء أنواع طلبات الصيانة
+  ms.date: 02/07/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 854f3483a61299c0dc2a7d6c28c98ce94f6bea32
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667896"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-create-maintenance-request-type.md)]"

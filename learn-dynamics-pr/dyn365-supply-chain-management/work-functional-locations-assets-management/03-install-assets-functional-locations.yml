@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-functional-locations-assets-management.03-install-assets-functional-locations
+title: تثبيت الأصول على مواقع العمل
+metadata:
+  title: تثبيت الأصول على مواقع العمل
+  description: توضح هذه الوحدة كيفية تثبيت الأصول على مواقع العمل في إدارة الأصول
+  ms.date: 02/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 04a4c603162709307a68db6e5fffc32302f66c4f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667885"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-install-assets-functional-locations.md)]"
