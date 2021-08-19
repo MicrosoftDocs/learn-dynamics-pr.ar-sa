@@ -1,6 +1,201 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/5-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/4-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/3-workshop-topics.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/2-workshop.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/10-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/9-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/8-plan-support.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/7-cutover-plan.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/6-close-go-live-assessment.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/5-mitigate-risks.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/4-perform-go-live-review.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/3-prepare.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/2-about-go-live-workshop.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-review-unified-operations/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/14-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/13-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/12-licensing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/11-gaps-risks.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/10-reporting-bi.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/09-data-migration.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/08-readiness-alm.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/07-non-functional-requirement.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/06-integration-solutions.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/05-architecture-process.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/04-plan-governance.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/03-blueprint-topics.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/02-blueprint-workshop.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/01-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/solution-blueprint-unified-operations/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/user-experience/5-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/user-experience/4-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/user-experience/3-workshops.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/user-experience/2-influencers.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/user-experience/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/user-experience/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/paths/use-success-design-unified-operations/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/power-platform/get-started-security-roles/4-security.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-security-roles/",
       "redirect_document_id": false
