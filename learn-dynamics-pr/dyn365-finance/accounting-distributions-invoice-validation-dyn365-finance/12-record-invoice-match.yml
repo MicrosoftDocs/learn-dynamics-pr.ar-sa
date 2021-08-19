@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.12-exercise-record-vendor-invoice-match
+title: 'معمل: تسجيل فاتورة المورد ومطابقتها بالكمية المستلمة'
+labId: 72697
+metadata:
+  title: 'معمل: تسجيل فاتورة المورد ومطابقتها بالكمية المستلمة'
+  description: تدرب على تسجيل فاتورة المورد ومطابقتها بالكمية المستلمة في Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 18268774c09e64df5e0229aa143408773e5d0b15
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677158"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/12-record-vendor-invoice-match.md)] \n[!include[](../includes/non-final-lab-end.md)]"

@@ -1,0 +1,33 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-electronic-reporting.5-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1a537402d4992cf808cee2c04de2eb91a96ff2cd
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677134"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: أي العبارات التالية تنطبق على تنسيق ملف إلكتروني؟
+    choices:
+    - content: لا ينطبق التنسيق إلا على إصدار واحد.
+      isCorrect: false
+      explanation: ينطبق التنسيق على إصدارات مختلفة.
+    - content: يمكن توزيع التنسيق من خلال LCS.
+      isCorrect: true
+      explanation: يمكن توزيع التنسيقات من خلال Microsoft Dynamics Lifecycle Services (LCS)‎.
+    - content: إنه يوفر تنسيقاً للمستندات الصادرة فقط.
+      isCorrect: false
+      explanation: إنه يوفر تنسيقاً لجميع أنواع المستندات.

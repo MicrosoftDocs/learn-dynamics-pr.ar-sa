@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-periodic-processes-d365-finance-ops.03-year-end-1099
+title: تقرير نهاية العام رقم1099
+metadata:
+  title: تقرير نهاية العام رقم1099
+  description: تصف هذه الوحدة تقارير نهاية العام رقم 1099 Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 379ea3f5506d5aa86a29a561fcee7d06429feb9b
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677679"
+durationInMinutes: 11
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/03-year-end-1099.md)]

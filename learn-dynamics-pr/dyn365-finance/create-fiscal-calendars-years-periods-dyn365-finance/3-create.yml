@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.3-create-fiscal-calendars-years-and-periods
+title: إنشاء التقويمات والسنوات والفترات المالية
+metadata:
+  title: إنشاء التقويمات والسنوات والفترات المالية
+  description: تصف هذه الوحدة كيفية إنشاء التقويمات المالية والسنوات المالية والفترات الزمنية في Dynamics 365 Finance.
+  ms.date: 04/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
+  ms.openlocfilehash: 6f558cfe4fb2d04abf9fc84f1f7d1adc0e5c28c2
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677256"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-create-fiscal-calendars-years-and-periods.md)]

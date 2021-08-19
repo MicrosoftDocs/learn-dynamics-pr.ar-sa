@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.3-integration-fit
+title: تحليل التكامل والملائمة
+metadata:
+  title: تحليل التكامل والملائمة
+  description: تعرف على تحليل ملائمة تحسين التخطيط.
+  ms.date: 05/28/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c2392f8fbb11b32db06facba64b7d6225f0f31a4
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667743"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-integration-fit.md)]"

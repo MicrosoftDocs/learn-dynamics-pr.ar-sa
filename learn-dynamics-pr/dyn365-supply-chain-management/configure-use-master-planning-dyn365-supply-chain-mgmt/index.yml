@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops
+metadata:
+  title: تكوين التخطيط الرئيسي المضمن واستخدامه في Dynamics 365 Supply Chain Management
+  description: تحتاج الشركات في أي سوق، مثل البيع بالتجزئة والتصنيع والتوزيع والخدمات ومؤسسات القطاع العام، إلى وظائف لمساعدتها في التخطيط للطلب وتوريد المنتجات والخدمات أثناء عمليات قصيرة أو طويلة الأجل. تعرف على ميزة التخطيط الرئيسي لـ Dynamics 365 Supply Chain Management لتبسيط التخطيط الخاص بك، بناءً على عوامل محددة مسبقاً، من أجل التخطيط الفعال للمواد التي يجب شراؤها أو نقلها أو تصنيعها.
+  ms.date: 12/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 587021591d7cc595565e75f97e6b5d4473e79fd2
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668030"
+title: تكوين التخطيط الرئيسي المضمن واستخدامه في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)]\n\nتحتاج الشركات في أي سوق، مثل البيع بالتجزئة والتصنيع والتوزيع والخدمات ومؤسسات القطاع العام، إلى وظائف لمساعدتها في التخطيط للطلب وتوريد المنتجات والخدمات أثناء عمليات قصيرة أو طويلة الأجل. تعرف على ميزة التخطيط الرئيسي لـ Dynamics 365 Supply Chain Management لتبسيط التخطيط الخاص بك، بناءً على عوامل محددة مسبقاً، من أجل التخطيط الفعال للمواد التي يجب شراؤها أو نقلها أو تصنيعها. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد التخطيط الرئيسي وتكوينه.\n- إعداد تنبؤات الطلبات والتوريد.\n- تكوين التأخيرات المحسوبة.\n- تكوين التخطيط الرئيسي بين الشركات الشقيقة.\n- تشغيل الخطط وتأكيد الأوامر المخططة.\n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- معرفة إجراءات التدبير إلى الدفع\n- معرفة إجراءات الأمر إلى النقد\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
+iconUrl: /learn/achievements/configure-use-master-planning-in-dynamics-365-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.01-master-planning-intro
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.02-master-planning-setup
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.03-master-planning-parameters
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.04-create-master-plan
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.05-demand-supply-forecasts
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.06-coverage-settings
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.07-action-messages
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.08-configure-intercompany-planning
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.09-run-plans-firm-planned-orders
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.10-exercise-firm-planned-order
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.11-exercise-change-planned-order-type
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.12-exercise-create-intercompany-plan
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.13-configure-use-master-planning-quiz
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.14-configure-use-master-planning-summary
+badge:
+  uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.badge

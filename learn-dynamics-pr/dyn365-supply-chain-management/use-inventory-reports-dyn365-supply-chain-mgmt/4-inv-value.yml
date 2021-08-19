@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-inventory-reports-in-dynamics-365-finance-ops.4-inventory-value-report
+title: تقرير قيمة المخزون
+metadata:
+  title: تقرير قيمة المخزون
+  description: تصف هذه الوحدة تقارير قيمة المخزون في ‏‫Supply Chain Management‬.
+  ms.date: 01/11/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1563d34c14df6e092f5bda379ff17c9e1eabbd28
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667355"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-inventory-value-report.md)]

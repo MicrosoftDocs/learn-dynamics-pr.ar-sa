@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 00d494610ff7140a880779d1bf1da937f60e2e32
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: cc8a5ddfe92f7a3dd565b3cc00bc64b97e3da95c
+ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446790"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "6651396"
 ---
-قدمت لك هذه الوحدة Dynamics 365 Commerce. من مشاركة العملاء إلى المتاجر الفعلية والتجارة الإلكترونية، يعد Dynamics 365 Commerce حلاً كاملاً للبيع بالتجزئة. 
+قدمت لك هذه الوحدة Dynamics 365 Commerce. بدايةً من مشاركة العملاء إلى المتاجر الفعلية والتجارة الإلكترونية، يُعد Dynamics 365 Commerce حلاً كاملاً للبيع بالتجزئة. 
 
-تستند Dynamics 365 Commerce إلى قدرات Dynamics 365 Retail الثابتة وتقدم حلاً شاملاً ومتعدد الاتجاهات لتوحيد الخبرة الرقمية وخبرة مركز الاتصالات وخبرة المتجر وخبرة مكتب الدعم.
+Dynamics 365 Commerce يقدم حلاً شاملاً متعدد القنوات يوحد المكتب الخلفي والمتجر ومركز الاتصال والتجارب الرقمية.
 
 - باستخدام التجارة الموحدة، يمكنك إنشاء تجارب تسوق عبر المتاجر والإنترنت والهاتف المحمول ومراكز الاتصال. 
 - لديك خيارات لإدارة ولاء العملاء باستخدام MPOS وCPOS. يمكن لـ Core Retail توحيد نقاط الاتصال لإنشاء تجربة مخصصة وسهلة للعملاء والموظفين. 
@@ -35,7 +35,7 @@ ms.locfileid: "6446790"
 
 - المساهمة [بالأفكار](https://experience.dynamics.com/ideas/categories/?forum=e5fbed1c-dfdb-e911-a814-000d3a4f1244&forumName=Dynamics365Commerce/) 
 
-- مراجعة [الوثائق](https://docs.microsoft.com/dynamics365/)
+- مراجعة [الوثائق](/dynamics365/)
 
 - مراجعة [تحديثات المنتجات](https://dynamics.microsoft.com/business-applications/product-updates/) 
 
@@ -61,4 +61,4 @@ ms.locfileid: "6446790"
 
 - القراءة عن [الذكاء الاصطناعي والبيع بالتجزئة](https://blogs.microsoft.com/blog/2019/09/23/announcing-new-microsoft-dynamics-365-ai-driven-insights-applications-and-our-vision-for-the-future-of-retail/)
 
-- الحصول على مزيد من المعلومات حول [Fraud Protection](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
+- الحصول على مزيد من المعلومات حول [Fraud Protection](/dynamics365/fraud-protection/overview)

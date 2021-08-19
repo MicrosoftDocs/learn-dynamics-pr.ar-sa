@@ -1,0 +1,61 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops
+metadata:
+  title: بدء استخدام Dynamics 365 Finance
+  description: يُمكّن Dynamics 365 Finance مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. إنه يوفر للشركات كل ما يحتاجون إليه للتحكم في الشؤون المالية وإدارة الأموال بمعلومات دقيقة للتخطيط المالي والتنبؤ، ويساعدهم على البقاء على اطلاع بأدوات التحليل. لأن التمويل هو جوهر أي عمل، فمن المهم أن تكون على دراية بإمكانات Dynamics 365 Finance.
+  ms.date: 10/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9c5ecc5bc514dbb9bfba8e04404a2de411c15163
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677728"
+title: بدء استخدام Dynamics 365 Finance
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يُمكّن Dynamics 365 Finance مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. إنه يوفر للشركات كل ما يحتاجون إليه للتحكم في الشؤون المالية وإدارة الأموال بمعلومات دقيقة للتخطيط المالي والتنبؤ، ويساعدهم على البقاء على اطلاع بأدوات التحليل. لأن التمويل هو جوهر أي عمل، فمن المهم أن تكون على دراية بإمكانات Dynamics 365 Finance.
+abstract: "سوف تتعرف في هذه الوحدة على: \n- مزايا Dynamics 365 Finance. \n- نظرة عامة على الميزات الموجودة في Finance.\n"
+prerequisites: >
+  - الفهم الأساسي لعمليات التمويل والمحاسبة
+
+  - القدرة على استخدام Finance للمعالجة الأساسية
+
+  - المعرفة العامة بالتنقل الأساسي داخل Finance
+
+  - معرفة كيفية استخدام تطبيقات Dynamics 365
+
+  - فهم أساسي لمفاهيم السحابة، وMicrosoft Power Platform
+iconUrl: /learn/achievements/get-started-financial-management-in-dynamics-365-finance-ops.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.1-get-started-financial-management-intro
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.2-benefits-financial-management
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.3-overview
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.4-general-ledger
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.5-cash-bank-management
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.6-tax
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.7-accounts-payable
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.8-accounts-receivable
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.9-credit-collections
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.10-budgeting
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.11-fixed-assets
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.12-cost-accounting
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.12-1-exercise
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.13-get-started-financial-management-quiz
+- learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.14-get-started-financial-management-summary
+badge:
+  uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.badge

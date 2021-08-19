@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-assets-asset-management.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تقدم هذه الوحدة الوحدة النمطية لإعداد الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management
+  ms.date: 02/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learing-d365-finance-operations
+  ms.openlocfilehash: 38b001b80480ff31a737fbd837adaa3411b39322
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667703"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manufacture-wms-dyn365-fo.05-cross-docking
+title: توزيع البضائع
+metadata:
+  title: توزيع البضائع
+  description: توضح هذه الوحدة توزيع البضائع في Dynamics 365 Supply Chain Management.
+  ms.date: 06/09/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/production-control/cross-docking-opportunities
+  ms.openlocfilehash: d4488ecc1e1afbe2d9b8fdaa8296e2e9dce54867
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667721"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05-cross-docking.md)]

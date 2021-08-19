@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.8-create-vendors
+title: إنشاء الموردين
+metadata:
+  title: إنشاء الموردين
+  description: تعرف على كيفية إنشاء الموردين في Dynamics 365 Finance.
+  ms.date: 05/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 51bca955377326afeb88dfddc3357d2440c91344
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677238"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-create-vendors.md)]

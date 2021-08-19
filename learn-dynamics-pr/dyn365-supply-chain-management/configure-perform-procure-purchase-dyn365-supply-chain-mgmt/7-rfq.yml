@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.7-create-process-rfq
+title: إنشاء طلب عرض أسعار ومعالجته
+metadata:
+  title: إنشاء طلب عرض أسعار ومعالجته
+  description: تعرف على كيفية إنشاء طلب عرض أسعار (RFQ) ومعالجته في عملية الشراء إلى الشراء في Supply Chain Management.
+  ms.date: 05/15/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: da94ef96a30592eaf61849926197d9ee9512da82
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667827"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-create-process-rfq.md)]

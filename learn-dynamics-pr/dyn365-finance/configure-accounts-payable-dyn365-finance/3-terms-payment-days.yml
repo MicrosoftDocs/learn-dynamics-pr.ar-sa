@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.3-configure-terms-of-payment-days
+title: تكوين شروط الدفع وأيام الدفع
+metadata:
+  title: تكوين شروط الدفع وأيام الدفع
+  description: تعلم كيفية تكوين شروط الدفع وأيام الدفع في Dynamics 365 Finance.
+  ms.date: 05/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 787fc08f5d9becad45d6bf1591bc9b5b38a474c1
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677540"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-configure-terms-of-payment-days.md)]

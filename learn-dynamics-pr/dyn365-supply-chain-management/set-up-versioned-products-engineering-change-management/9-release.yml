@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-versioned-products-engineering-change-management.9-release
+title: سياسات إصدار المنتج
+metadata:
+  title: سياسات إصدار المنتج
+  description: تعرف على كيفية إعداد سياسة لإصدار منتج لكيان قانوني آخر.
+  ms.date: 04/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 75e3c765e6414a5ab8407ad4a67916253bc73e4a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668127"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-release.md)]"

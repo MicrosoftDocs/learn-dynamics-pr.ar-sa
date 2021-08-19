@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.warranties-asset-management.02-warranty-agreement
+title: اتفاقيات الضمان
+metadata:
+  title: اتفاقيات الضمان
+  description: تصف هذه الوحدة اتفاقيات الضمان
+  ms.date: 02/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 447af31e8ed47b0be26f8a3c776c49912d92fb13
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668171"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-warranty-agreement.md)]"

@@ -1,0 +1,25 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.18-exercise-create-main-account-category
+title: المعمل - إنشاء فئة حساب رئيسي في مخطط الحسابات
+labId: 64190
+metadata:
+  title: المعمل - إنشاء فئة حساب رئيسي في مخطط الحسابات
+  description: تدرب على إنشاء فئة حساب رئيسي في مخطط الحسابات في Dynamics 365 Finance.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3b720e1d47f2dc907d5d0da4d77831b9f56bd5a8
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677123"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/accessing-labs.md)]
+
+  [!include[](includes/18-exercise-create-main-account-category.md)]

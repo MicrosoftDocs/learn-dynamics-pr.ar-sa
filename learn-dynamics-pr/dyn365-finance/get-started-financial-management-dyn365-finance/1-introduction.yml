@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.1-get-started-financial-management-intro
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: في هذه الوحدة النمطية، ستتعرف على ميزات الإدارة المالية لقسم الشؤون المالية.
+  ms.date: 10/26/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b9e1969b32d62f661bcaed7e4c08d279311a246e
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677773"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-get-started-financial-management-intro.md)]

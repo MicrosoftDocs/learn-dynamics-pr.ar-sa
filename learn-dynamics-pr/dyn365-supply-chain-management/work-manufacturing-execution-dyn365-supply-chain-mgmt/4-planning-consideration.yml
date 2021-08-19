@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-manufacturing-execution.4-planning-consideration
+title: أخذ التخطيط في الاعتبار لتنفيذ التصنيع
+metadata:
+  title: أخذ التخطيط في الاعتبار لتنفيذ التصنيع
+  description: يشرح هذا الموضوع الأمور التي يجب أخذها في الاعتبار عند استخدام تنفيذ التصنيع في Supply Chain Management.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4a50e06a9221549d85c862f49f7a60d3b0f7ac29
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668062"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-planning-consideration.md)]

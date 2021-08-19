@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-work-orders-asset-management.06-automatic-update-asset-counter
+title: التحديث التلقائي لعدادات الأصول
+metadata:
+  title: التحديث التلقائي لعدادات الأصول
+  description: توضح هذه الوحدة التحديث التلقائي لعدادات الأصول
+  ms.date: 05/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 633efee3a44c3ec9341527a7881e0d9b7e72cbdf
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667204"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-automatic-update-asset-counter.md)]"

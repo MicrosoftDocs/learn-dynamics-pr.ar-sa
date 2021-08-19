@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.7-exercise-setup-credit
+title: تمرين - إعداد الائتمان والتحصيلات في Finance
+metadata:
+  title: تمرين - إعداد الائتمان والتحصيلات في Finance
+  description: التدرب على إعداد الائتمان والتحصيلات في Dynamics 365 Finance
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 858331763c601ed362a3ecd5fc4ee264ec254332
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677562"
+durationInMinutes: 40
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-exercise-setup-credit.md)]

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-warehouse-management.16-exercise-configure-wave-processing
+title: 'معمل: تكوين معالجة الموجة'
+labId: 63305
+metadata:
+  title: 'معمل: تكوين معالجة الموجة'
+  description: تدرب على تكوين معالجة الموجة في Supply Chain Management.
+  ms.date: 06/04/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 628567842ff869e5b0204db54bf6c4c6c1490d8c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668255"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/16-exercise-configure-wave-processing.md)] \n[!include[](../includes/non-final-lab-end.md)]"

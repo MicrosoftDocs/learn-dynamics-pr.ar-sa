@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-compensation-plans.7-process-plans
+title: معالجة خطط التعويض
+metadata:
+  title: معالجة خطط التعويض
+  description: تعرّف على كيفية معالجة خطط التعويض.
+  ms.date: 07/21/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: dbf3d8fff738a6996f8cd14a8973241746c522af
+  ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6656573"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-process-plans.md)]"

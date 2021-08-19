@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.17-define-config-account-structures-rules
+title: تعريف بنيات الحسابات والقواعد المتقدمة وتكوينها
+metadata:
+  title: تعريف بنيات الحسابات والقواعد المتقدمة وتكوينها
+  description: تصف هذه الوحدة كيفية تعريف بنيات الحسابات والقواعد المتقدمة وتكوينها في Dynamics 365 Finance.
+  ms.date: 04/23/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/plan-chart-of-accounts
+  ms.openlocfilehash: 622da52e6bb53a91a58a48bc4cfdf6a127bcb774
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677124"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/17-define-config-account-structures-rules.md)]

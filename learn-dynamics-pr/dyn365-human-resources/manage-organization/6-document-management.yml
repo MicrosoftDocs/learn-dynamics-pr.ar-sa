@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-organization.6-document-management
+title: إعداد إدارة المستندات
+metadata:
+  title: إعداد إدارة المستندات
+  description: تعرّف على كيفية إعداد معلمات إدارة المستندات.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 3b8ae7fcd09525375abb782939d79c3db41d9de7
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6693264"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-document-management.md)]"

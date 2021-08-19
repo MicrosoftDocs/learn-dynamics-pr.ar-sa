@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.12-end-production-orders
+title: إنهاء أوامر الإنتاج
+metadata:
+  title: إنهاء أوامر الإنتاج
+  description: توضح هذه الوحدة إنهاء أوامر الإنتاج في Dynamics 365 Supply Chain Management.
+  ms.date: 04/05/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 57f0da5211fb4ffce2e1f28cbd8e509a940d43ba
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668106"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/12-end-production-orders.md)]

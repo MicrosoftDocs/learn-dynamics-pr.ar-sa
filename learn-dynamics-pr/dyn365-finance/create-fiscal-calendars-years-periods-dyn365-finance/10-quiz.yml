@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.10-create-fiscal-calendars-f-and-o-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 04/29/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: c97875a5c3441bce356ffadb943748f1cf2cbbda
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677548"
+title: تحقق من مستوى معرفتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: كيف يمكن نسخ تقويم مالي من كيان قانوني إلى آخر؟
+    choices:
+    - content: استخدم إدارة البيانات.
+      isCorrect: false
+      explanation: على الرغم من أنه يمكن استخدام إدارة البيانات لاستيراد وتصدير البيانات، لا توجد حاجة لاستخدام إدارة البيانات لأن كيان التقويم المالي يقوم بمشاركة البيانات الرئيسية في أحد مثيلات التمويل.
+    - content: التقويم المالي كيان قانوني محدد ولا يمكن نسخه.
+      isCorrect: false
+      explanation: تتم مشاركة البيانات الرئيسية لكيان التقويم المالي في أحد مثيلات التمويل. تحتاج فقط إلى إقرانه بصفحة دفتر الأستاذ للكيان القانوني.
+    - content: تتم مشاركة التقويم المالي كبيانات رئيسية، لذلك لا توجد حاجه لنسخه. تحتاج فقط إلى إقرانه بصفحة دفتر الأستاذ للكيان القانوني.
+      isCorrect: true
+      explanation: تتم مشاركة التقويم المالي كبيانات رئيسية، لذلك لا توجد حاجه لنسخه. تحتاج فقط إلى إقرانه بصفحة دفتر الأستاذ للكيان القانوني.
+  - content: كم عدد فترات الافتتاح التي يمكن أن تحصل عليها في السنة التقويمية المالية؟
+    choices:
+    - content: اثنان
+      isCorrect: false
+      explanation: اثنين ليس العدد الصحيح من فترات الافتتاح في السنة التقويمية المالية.
+    - content: غير محدود
+      isCorrect: false
+      explanation: لا يمكن أن يكون لديك عدد غير محدود من فترات الافتتاح في السنة التقويمية المالية.
+    - content: واحد
+      isCorrect: true
+      explanation: يمكنك الحصول على فترة افتتاح واحدة فقط في السنة التقويمية المالية.
+  - content: كم عدد فترات الإغلاق التي يمكن أن تحصل عليها في السنة التقويمية المالية؟
+    choices:
+    - content: اثنان
+      isCorrect: false
+      explanation: يمكنك الحصول على أكبر عدد من فترات الإغلاق كما تريد في السنة التقويمية المالية.
+    - content: واحد
+      isCorrect: false
+      explanation: يمكنك الحصول على أكبر عدد من فترات الإغلاق كما تريد في السنة التقويمية المالية.
+    - content: غير محدود
+      isCorrect: true
+      explanation: يمكنك الحصول على أكبر عدد من فترات الإغلاق كما تريد في السنة التقويمية المالية.

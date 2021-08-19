@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.11-work-capacity-planning-scheduling-discrete-quiz
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  ms.date: 03/29/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 130e35cf29022e6aca83b24054178769b3f2a01a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668082"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
+  questions:
+  - content: ما هو مصطلح الإنتاج المعروف أيضاً باسم طريقة "الدفع"؟
+    choices:
+    - content: التقدم من تاريخ الجدولة
+      isCorrect: false
+      explanation: يقوم الخيار إعادة التوجيه من تاريخ الجدولة بجدولة الإنتاج ليبدأ في أقرب وقت ممكن. يعرف هذا الخيار باسم طريقة "الدفع" لأنه يتم دفع الإنتاج خلال العملية.
+    - content: تراجع عن تاريخ الجدولة
+      isCorrect: true
+      explanation: يقوم خيار التراجع عن تاريخ الجدولة بجدولة الإنتاج للبدء في وقت متأخر بقدر الإمكان، دون تعريض الموعد النهائي المستهدف للخطر. يعرف هذا الخيار باسم طريقة "الدفع" لأن الإنتاج يتم مدفوعاً بتاريخ الانتهاء ويتم سحبه مرة أخرى خلال عملية الإنتاج إلى تاريخ البدء.
+    - content: جدولة الأولوية
+      isCorrect: false
+      explanation: جدولة الأولوية هي المكان الذي تستخدم فيه الأولوية للتحكم في ترتيب جدولة أوامر الإنتاج. تتم هذه العملية باستخدام زر الفرز في صفحة جدولة المهمة أو صفحة جدولة العملية.
+  - content: تصف عبارة "______ تمنحك نظرة عامة أولية عن إنتاجك" أي من المصطلحات التالية؟
+    choices:
+    - content: جدولة الوظائف
+      isCorrect: false
+      explanation: تُستخدم جدولة الوظائف لإنتاج جدول إجمالي للوظائف التي سيتم إجراؤها في الموارد في منشأة التصنيع أو في طابق المتجر. إذ تحدد إجمالي المكونات المطلوبة لكل العمليات في الموارد حسب الوظائف المحددة ثم تحديد تواريخها وجداولها الزمنية حسب الترتيب الذي يحدده مسار الإنتاج.
+    - content: جدولة العمليات
+      isCorrect: true
+      explanation: توفر لك جدولة العمليات عامة أولية على إنتاجك، من خلال إشراك طريقة التخطيط، وقدرة الموارد، وتحسين المواد.
+    - content: اتجاه الجدولة
+      isCorrect: false
+      explanation: يجب تطبيق اتجاه الجدولة للأمام لبدء الإنتاج في أول وقت ممكن والجدولة للخلف لبدء الإنتاج في أكثر وقت متأخر قدر الإمكان.

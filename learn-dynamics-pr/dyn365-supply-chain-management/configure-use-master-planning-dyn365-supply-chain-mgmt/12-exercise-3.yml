@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.12-exercise-create-intercompany-plan
+title: 'تدريب: إنشاء خطة رئيسية بين الشركات الشقيقة وتشغيلها'
+metadata:
+  title: 'تدريب: إنشاء خطة رئيسية بين الشركات الشقيقة وتشغيلها'
+  description: تدرب على إنشاء خطة رئيسية بين الشركات الشقيقة وتشغيلها في Supply Chain Management.
+  ms.date: 12/14/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 424fba1d5d49ada2f433371969eaa727d742e149
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668313"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/12-exercise-create-intercompany-plan.md)]

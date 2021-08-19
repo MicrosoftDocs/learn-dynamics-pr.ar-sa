@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-periodic-processes-d365-finance-ops.04-run-foreign-currency-revaluation
+title: إجراء عمليات إعادة تقييم العملة الأجنبية
+metadata:
+  title: إجراء عمليات إعادة تقييم العملة الأجنبية
+  description: تصف هذه الوحدة كيفية تشغيل عمليات إعادة تقييم العملة الأجنبية في Dynamics 365 Finance.
+  ms.date: 05/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/cash-bank-management/foreign-currency-revaluation-accounts-payable-accounts-receivable
+  ms.openlocfilehash: 7863ced6c8510535de9be63f994e6d7d328db8ed
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677678"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/04-run-foreign-currency-revaluation.md)]

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-functional-locations-assets-management.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تعبر هذه الوحدة عن الوحدة النمطية "مقدمة إلى العمل مع مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management".
+  ms.date: 02/11/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 18cc322a34c0d35597e4edb6b19dfcb2a88506fe
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667447"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-finance-ops.4-exercise-configure-use-accrual-schemes
+title: التمرين - تكوين مخططات الاستحقاق واستخدامها
+metadata:
+  title: التمرين - تكوين مخططات الاستحقاق واستخدامها
+  description: تدرّب على تكوين مخططات الاستحقاق واستخدامها Dynamics 365 Finance.
+  ms.date: 02/28/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2dc1af0702c7e42103674df7a9c6005ddc4e1bce
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677555"
+durationInMinutes: 26
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-exercise-configure-use-accrual-schemes.md)]

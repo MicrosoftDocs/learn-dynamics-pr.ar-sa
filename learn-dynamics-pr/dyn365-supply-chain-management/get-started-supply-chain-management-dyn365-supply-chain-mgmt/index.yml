@@ -1,0 +1,63 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops
+metadata:
+  title: بدء استخدام Dynamics 365 Supply Chain Management
+  description: تزود Dynamics 365 Supply Chain Management الموظفين والمؤسسات بالقدرة على الحصول على عرض موحد للمخزون والمستودعات والتصنيع والخدمات واللوجستيات مع التحليلات التنبؤية.
+  ms.date: 06/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b319859d9ca84acbd7b37f82117437c00bc7a9bf
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667910"
+title: بدء استخدام Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تزود Dynamics 365 Supply Chain Management الموظفين والمؤسسات بالقدرة على الحصول على عرض موحد للمخزون والمستودعات والتصنيع والخدمات واللوجستيات مع التحليلات التنبؤية التي تحول البيانات إلى رؤى لدعم قرارات استراتيجية أفضل.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مزايا Supply Chain Management. \n- احصل على نظرة عامة حول ميزات التوزيع والتجارة في Supply Chain Management.\n"
+prerequisites: >
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية
+
+  - المعرفة العامة بالتنقل الأساسي داخل Supply Chain Management
+
+  - معرفة كيفية استخدام تطبيقات Dynamics 365
+
+  - فهم أساسي لمفاهيم السحابة، وMicrosoft Power Platform
+iconUrl: /learn/achievements/get-started-supply-chain-management-in-dynamics-365-finance-ops.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.1-get-started-scm-introduction
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.2-benefits-scm-fo
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.3-overview-scm
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.4-cost-accounting
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.5-cost-management
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.6-inventory-warehouse-management
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.7-masterplanning
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.8-procurement-sourcing
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.9-vendor-collaboration
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.9-1-sales-marketing
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.9-2-customer-portal
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.10-product-information-management
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.11-production-control
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.12-intercompany-trade-relations
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.13-warehouse-management
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.14-transportation-management
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.14-1-exercise
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.15-get-started-scm-quiz
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.16-get-started-scm-summary
+badge:
+  uid: learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops.badge

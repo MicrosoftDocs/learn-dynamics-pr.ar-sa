@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-electronic-reporting.3-barcodes
+title: استخدم مصادر بيانات الباركود لإنشاء صور الباركود
+metadata:
+  title: استخدم مصادر بيانات الباركود لإنشاء صور الباركود
+  description: يشرح هذا الموضوع كيفية استخدام مصادر بيانات الرمز الشريطي لإنشاء صور الرموز الشريطية.
+  ms.date: 06/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7b8f9dd010df256572992ed4d1f3c4b165c48dc8
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677473"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-barcodes.md)]

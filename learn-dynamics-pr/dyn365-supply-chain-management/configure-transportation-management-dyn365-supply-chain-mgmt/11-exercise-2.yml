@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.11-exercise-configure-rate-master
+title: 'معمل: تكوين سعر رئيسي'
+labId: 72535
+metadata:
+  title: 'معمل: تكوين سعر رئيسي'
+  description: تدرب على تكوين سعر رئيسي في Dynamics 365 Supply Chain Management.
+  ms.date: 06/02/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4431c7384d5ee18b863df0157192999c95d54698
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668037"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/11-exercise-configure-rate-master.md)] \n[!include[](../includes/non-final-lab-end.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-engineering-change-management.05-exercise-set-up-demo-data
+title: تمرين - إعداد بيانات العرض التوضيحي لسيناريو العينة
+metadata:
+  title: تمرين - إعداد بيانات العرض التوضيحي لسيناريو العينة
+  description: إعداد بيانات العرض التوضيحي لسيناريو العينة.
+  ms.date: 01/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-scm
+  ms.openlocfilehash: 9d2c09574736dd19b02ecdd18b9b6bc93d6a64e7
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668213"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-exercise-set-up-demo-data.md)]"
