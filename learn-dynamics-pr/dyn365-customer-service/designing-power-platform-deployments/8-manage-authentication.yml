@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.8-manage-authentication
+title: إدارة المصادقة
+metadata:
+  title: إدارة المصادقة
+  description: إدارة المصادقة
+  ms.date: 02/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: f196b63f4ec4ec49ca13d3e1c5ddec7a2f886826
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659346"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-manage-authentication.md)]

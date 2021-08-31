@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clients.3-install-mobile-clients
+title: تثبيت عملاء الهواتف المحمولة لـ Microsoft Dynamics 365
+metadata:
+  title: تثبيت عملاء الهواتف المحمولة لـ Microsoft Dynamics 365
+  description: تثبيت عملاء الهواتف المحمولة لـ Microsoft Dynamics 365
+  ms.date: 02/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 438eb215215c4a7a19b47f87cb44db66b91715ea
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659359"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-install-mobile-clients.md)]

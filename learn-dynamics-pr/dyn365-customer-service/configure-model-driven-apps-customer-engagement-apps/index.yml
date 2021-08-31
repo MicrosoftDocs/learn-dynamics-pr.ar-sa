@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-model-driven-apps-customer-engagement
+metadata:
+  title: تكوين النماذج والمخططات ولوحات المعلومات في التطبيقات المستندة إلى نموذج
+  description: تعرَّف على كيفية تكوين النماذج والمخططات ولوحات المعلومات.
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 881f2484eee624342306db99c069cdfb86ad1f82
+  ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659299"
+title: تكوين النماذج والمخططات ولوحات المعلومات في التطبيقات المستندة إلى نموذج
+summary: "[!include[](../includes/module-banner.md)]\n\nستتعرف في هذه الوحدة على النماذج، والشبكات، وطرق العرض، والمخططات، ولوحات المعلومات التي يمكن استخدامها في التطبيقات المستندة إلى نموذج.   \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على عناصر النموذج وعناصر التحكم فيه\n- تكوين النماذج\n- استخدم مكونات النموذج المتخصصة\n- استخدام شبكات قابلة للتحرير\n- تحديد طرق العرض واستخدام طرق العرض العامة\n- التعرُّف على طريقة تكوين المخططات\n- التعرُّف على كيفية تكوين لوحات المعلومات\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/configure-model-driven-apps-customer-engagement.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.configure-model-driven-apps-customer-engagement.01-forms-overview
+- learn-dynamics.configure-model-driven-apps-customer-engagement.02-forms-elements
+- learn-dynamics.configure-model-driven-apps-customer-engagement.03-configure-multiple-forms
+- learn-dynamics.configure-model-driven-apps-customer-engagement.04-specialized-form-components
+- learn-dynamics.configure-model-driven-apps-customer-engagement.05-configure-views
+- learn-dynamics.configure-model-driven-apps-customer-engagement.06-configure-grids
+- learn-dynamics.configure-model-driven-apps-customer-engagement.07-configure-special-views
+- learn-dynamics.configure-model-driven-apps-customer-engagement.08-configure-charts
+- learn-dynamics.configure-model-driven-apps-customer-engagement.09-dashboards-overview
+- learn-dynamics.configure-model-driven-apps-customer-engagement.10-streams-tiles
+- learn-dynamics.configure-model-driven-apps-customer-engagement.11-knowledge-check
+- learn-dynamics.configure-model-driven-apps-customer-engagement.12-summary
+badge:
+  uid: learn-dynamics.configure-model-driven-apps-customer-engagement.badge

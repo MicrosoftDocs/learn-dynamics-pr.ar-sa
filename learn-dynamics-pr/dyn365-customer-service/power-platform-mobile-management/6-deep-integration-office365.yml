@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.power-platform-mobile-management.6-deep-integration-office365
+title: التكامل العميق مع Microsoft 365
+metadata:
+  title: التكامل العميق مع Microsoft 365
+  description: التكامل العميق مع Microsoft 365
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 59854da853bb5869772bc201de2271c940558858
+  ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659274"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-deep-integration-office365.md)]

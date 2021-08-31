@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-to-integration-with-dynamics-365-customer-engagement.01-integration-overview
+title: نظرة عامة على التكامل
+metadata:
+  title: نظرة عامة على التكامل
+  description: نظرة عامة على التكامل
+  ms.date: 06/01/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 49954e6deda54e827e889fe201e432c5ba6806a7
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659333"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/01-integration-overview.md)]

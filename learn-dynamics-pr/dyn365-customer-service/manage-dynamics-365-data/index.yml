@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-your-data
+metadata:
+  title: إدارة بيانات تطبيقات Dynamics 365 Customer Engagement الخاصة بك
+  description: سيتمكن كل مستخدم لـ 365 Microsoft Dynamics من الوصول إلى كل الوظائف والبيانات المضمّنة على الحل الخاص به من خلال عميل ما. تركز هذه الوحدة على إيجابيات وسلبيات كل عميل وأفضل الممارسات عند توزيع هؤلاء العملاء.
+  ms.date: 02/04/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: a3a6829d8b55f63862ee0306ad04fceccb33e0f3
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659078"
+title: إدارة بيانات تطبيقات Dynamics 365 Customer Engagement الخاصة بك
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  سيتمكن كل مستخدم لـ 365 Microsoft Dynamics من الوصول إلى كل الوظائف والبيانات المضمّنة على الحل الخاص به من خلال عميل ما. تركز هذه الوحدة على إيجابيات وسلبيات كل عميل وأفضل الممارسات عند توزيع هؤلاء العملاء.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n-   دراسة تكرار البيانات\n-   استيراد البيانات\n-   تصدير البيانات\n-   إجراء حذف مجمّع للبيانات\n"
+prerequisites: معرفة عملية بـ Dynamics 365.
+iconUrl: /learn/achievements/manage-dynamics-365-data.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- dynamics-customer-service
+units:
+- learn-dynamics.manage-your-data.01-overview-manage-data
+- learn-dynamics.manage-your-data.02-duplicate-data-detection
+- learn-dynamics.manage-your-data.03-import-data
+- learn-dynamics.manage-your-data.04-export-data
+- learn-dynamics.manage-your-data.05-bulk-data-delete
+- learn-dynamics.manage-your-data.06-knowledge-check
+- learn-dynamics.manage-your-data.07-summary
+badge:
+  uid: learn.manage-your-d365-data.badge

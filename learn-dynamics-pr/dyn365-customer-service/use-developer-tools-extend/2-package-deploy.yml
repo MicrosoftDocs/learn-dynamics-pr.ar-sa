@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-developer-tools-extend.2-package-deploy
+title: توزيع التطبيقات باستخدام Package Deployer
+metadata:
+  title: توزيع التطبيقات باستخدام Package Deployer
+  description: تعرّف على كيفية توزيع التطبيقات باستخدام Package Deployer.
+  ms.date: 04/15/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 489bd6a31e2149078adacbb8889870a281763c03
+  ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/16/2021
+  ms.locfileid: "6659247"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-package-deploy.md)]

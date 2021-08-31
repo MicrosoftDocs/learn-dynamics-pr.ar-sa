@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dynamics-365-service-level-agreements.6-managing-slas
+title: إدارة SLAs
+metadata:
+  title: إدارة SLAs
+  description: إدارة SLAs
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 692c2074cacd4774e344417bc4abd6abcc77492b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659071"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-managing-slas.md)]

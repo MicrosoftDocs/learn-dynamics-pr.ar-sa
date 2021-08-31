@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.customer-service-cases.1-case-management-overview
+title: نظرة عامة على إدارة الحالة
+metadata:
+  title: نظرة عامة على إدارة الحالة
+  description: نظرة عامة على إدارة الحالة
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: df8bdb9c51eeef61159d0110153e725adc550438
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659176"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-case-management-overview.md)]

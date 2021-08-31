@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.enrich-data
+metadata:
+  title: إثراء البيانات والتنبؤات من خلال Customer Insights
+  description: بادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bd35d4aa673fe36210ce6c12a95a63e27a69f93a
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659377"
+title: إثراء البيانات والتنبؤات من خلال Customer Insights
+summary: "[!include[](../includes/module-banner.md)] \nبادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتوفرة في Customer Insights.\n- تكوين وظائف العلامة التجارية والاهتمام.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/enrich-data.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+- administrator
+products:
+- dynamics-365
+- dynamics-cust-insights
+units:
+- learn-dynamics.enrich-data.1-introduction
+- learn-dynamics.enrich-data.2-profile-enrichment
+- learn-dynamics.enrich-data.3-brands-interests
+- learn-dynamics.enrich-data.4-leverage-enrichment-services
+- learn-dynamics.enrich-data.5-predictions
+- learn-dynamics.enrich-data.6-subscription-churn-prediction
+- learn-dynamics.enrich-data.7-machine-learning-models
+- learn-dynamics.enrich-data.8-check
+- learn-dynamics.enrich-data.9-summary
+badge:
+  uid: learn-dynamics.enrich-data.badge

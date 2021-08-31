@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-clients
+metadata:
+  title: إدارة عملاء Dynamics 365
+  description: يمكنك إدارة كل مستخدم في 365 Microsoft Dynamics يتمتع بإمكانية الوصول إلى كل الوظائف والبيانات المضمّنة على الحل الخاص به من خلال عميل ما. لنركز على إيجابيات وسلبيات كل عميل وأفضل الممارسات عند توزيع هؤلاء العملاء.
+  ms.date: 02/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: b0b6aa6166fe4160696d8a171a30a85de03d0f40
+  ms.sourcegitcommit: 252d624b0515b3c29d22e96c06ad43c9f2e72312
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "6659397"
+title: إدارة عملاء Dynamics 365
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يمكنك إدارة كل مستخدم في 365 Microsoft Dynamics يتمتع بإمكانية الوصول إلى كل الوظائف والبيانات المضمّنة على الحل الخاص به من خلال عميل ما. لنركز على إيجابيات وسلبيات كل عميل وأفضل الممارسات عند توزيع هؤلاء العملاء.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين الوظيفة الإضافية في 365 Microsoft Dynamics لتطبيق Outlook وإدارتها\n- تثبيت عملاء ‎ 365 ‎Mobile Microsoft Dynamics وإدارتهم\n- تثبيت تطبيق Field Service Mobile\n- إدارة الوصول إلى مداخل Microsoft\n- تثبيت Unified Service Desk\n"
+prerequisites: الفهم الأساسي بخصوص Microsoft Power Platform وكيفية وصول المستخدمين إلى 365 Microsoft Dynamics. يُعد الفهم الأساسي للوصول إلى مختلف الميزات اعتماداً على تراخيص المستخدم مفيداً أيضاً.
+iconUrl: /learn/achievements/managing-dynamics-365-clients.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- power-apps
+- power-platform
+units:
+- learn-dynamics.manage-clients.2-outlook-add-in
+- learn-dynamics.manage-clients.3-install-mobile-clients
+- learn-dynamics.manage-clients.4-install-field-service-mobile-app
+- learn-dynamics.manage-clients.5-access-portals
+- learn-dynamics.manage-clients.6-install-unified-service-desk
+- learn-dynamics.manage-clients.7-enable-outlook-add-in
+- learn-dynamics.manage-clients.8-knowledge-check
+- learn-dynamics.manage-clients.9-summary
+badge:
+  uid: learn-dynamics.managing-dynamics-365-clients.badge

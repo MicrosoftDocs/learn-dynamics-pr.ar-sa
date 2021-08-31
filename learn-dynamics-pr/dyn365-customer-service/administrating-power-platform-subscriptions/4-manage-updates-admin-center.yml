@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.administrating-power-platform-subscriptions.4-manage-updates-admin-center
+title: إدارة التحديثات عن طريق مركز إدارة Dynamics 365
+metadata:
+  title: إدارة التحديثات عن طريق مركز إدارة Dynamics 365
+  description: إدارة التحديثات عن طريق مركز إدارة Dynamics 365
+  ms.date: 02/06/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ae6ac21ad1e28a8221657374b9280d836f998e7f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659107"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-manage-updates-admin-center.md)]

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-to-integration-with-dynamics-365-customer-engagement.04-configure-email-processing-options
+title: تكوين خيارات معالجة البريد الإلكتروني
+metadata:
+  title: تكوين خيارات معالجة البريد الإلكتروني
+  description: تكوين خيارات معالجة البريد الإلكتروني
+  ms.date: 06/01/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ee2d01f215e102adb8a1b2c78860f33f7c8fc16d
+  ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659290"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/04-configure-email-processing-options.md)]

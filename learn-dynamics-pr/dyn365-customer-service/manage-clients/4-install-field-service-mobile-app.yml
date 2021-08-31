@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clients.4-install-field-service-mobile-app
+title: تثبيت تطبيق Field Service Mobile
+metadata:
+  title: تثبيت تطبيق Field Service Mobile
+  description: تثبيت تطبيق Field Service Mobile
+  ms.date: 02/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: bb6c4f27cfe06f84f1a43c239a7396bde8641d3d
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659358"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-install-field-service-mobile-app.md)]

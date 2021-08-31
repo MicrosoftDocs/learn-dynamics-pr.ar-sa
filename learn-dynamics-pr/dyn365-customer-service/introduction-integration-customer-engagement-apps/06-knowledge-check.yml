@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-to-integration-with-dynamics-365-customer-engagement.06-knowledge-check
+metadata:
+  title: مقدمة للتكامل مع Dynamics 365 أو فحص معرفة Customer Engagement
+  description: مقدمة للتكامل مع Dynamics 365 أو فحص معرفة Customer Engagement
+  ms.date: 06/01/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b2b11fb0f5625b5df2c40a08bed2ef5840d5d4a4
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659338"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: مقدمة للتكامل مع Dynamics 365 أو فحص معرفة Customer Engagement
+  questions:
+  - content: يمكن للمستخدم تكوين رسائل البريد الإلكتروني التي يرغبون في تتبعها في الإعدادات الشخصية. ما هي الخيارات المتاحة؟
+    choices:
+    - content: جميع رسائل البريد الإلكتروني.
+      isCorrect: false
+      explanation: يمكن للمستخدمين تتبع جميع رسائل البريد الإلكتروني ورسائل البريد الإلكتروني رداً على بريد Dynamics 365 الإلكتروني ورسائل البريد الإلكتروني من سجلات Dynamics 365 التي تم تمكين البريد الإلكتروني لها.
+    - content: رسائل البريد الإلكتروني رداً على البريد الإلكتروني من Dynamics 365.
+      isCorrect: false
+      explanation: يمكن للمستخدمين تتبع جميع رسائل البريد الإلكتروني ورسائل البريد الإلكتروني رداً على بريد Dynamics 365 الإلكتروني ورسائل البريد الإلكتروني من سجلات Dynamics 365 التي تم تمكين البريد الإلكتروني لها.
+    - content: رسائل البريد الإلكتروني من سجلات Dynamics 365 التي تم تمكينها للبريد الإلكتروني.
+      isCorrect: false
+      explanation: يمكن للمستخدمين تتبع جميع رسائل البريد الإلكتروني ورسائل البريد الإلكتروني رداً على بريد Dynamics 365 الإلكتروني ورسائل البريد الإلكتروني من سجلات Dynamics 365 التي تم تمكين البريد الإلكتروني لها.
+    - content: كل ما ورد اعلاه.
+      isCorrect: true
+      explanation: يمكن للمستخدمين تتبع جميع رسائل البريد الإلكتروني ورسائل البريد الإلكتروني رداً على بريد Dynamics 365 الإلكتروني ورسائل البريد الإلكتروني من سجلات Dynamics 365 التي تم تمكين البريد الإلكتروني لها.
+  - content: تحتاج إلى تكوين Microsoft Dataverse للعمل مع Microsoft Exchange محلي. عند تكوين ملف تعريف خادم البريد الإلكتروني، ما نوع الخادم الذي يجب عليك تحديده؟
+    choices:
+    - content: مختلط.
+      isCorrect: true
+      explanation: قم بتكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" بحيث يعمل Dataverse مع Microsoft Exchange محلي.
+    - content: POP3/SMTP.
+      isCorrect: false
+      explanation: قم بتكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" بحيث يعمل Dataverse مع Microsoft Exchange محلي.
+    - content: محلي.
+      isCorrect: false
+      explanation: قم بتكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" بحيث يعمل Dataverse مع Microsoft Exchange محلي.
+    - content: خدمات Exchange عبر الويب.
+      isCorrect: false
+      explanation: قم بتكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" بحيث يعمل Dataverse مع Microsoft Exchange محلي.
+  - content: أحد الأسباب الرئيسية التي تجعل الأشخاص يستخدمون Dataverse للتطبيقات هو تخزين جميع __________________ العملاء في مكان واحد، بحيث يمكن لأي شخص لديه الأذونات المناسبة رؤية جميع سجلات العملاء ذات الصلة. املاء الفراغ.
+    choices:
+    - content: رسائل البريد الإلكتروني.
+      isCorrect: false
+      explanation: Dataverse للتطبيقات يسمح لنا بتخزين جميع اتصالات العملاء في مكان واحد.
+    - content: خطابات.
+      isCorrect: false
+      explanation: Dataverse للتطبيقات يسمح لنا بتخزين جميع اتصالات العملاء في مكان واحد.
+    - content: ملاحظات.
+      isCorrect: false
+      explanation: Dataverse للتطبيقات يسمح لنا بتخزين جميع اتصالات العملاء في مكان واحد.
+    - content: الاتصالات.
+      isCorrect: true
+      explanation: Dataverse للتطبيقات يسمح لنا بتخزين جميع اتصالات العملاء في مكان واحد.

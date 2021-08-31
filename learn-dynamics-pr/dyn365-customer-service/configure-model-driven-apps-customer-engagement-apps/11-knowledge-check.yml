@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-model-driven-apps-customer-engagement.11-knowledge-check
+metadata:
+  title: تكوين النماذج والمخططات ولوحات المعلومات. تحقق من معلوماتك
+  description: يختبر هذا الاختبار معرفتك بالنماذج والمخططات ولوحات المعلومات للتطبيقات المستندة إلى النماذج
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 95fd49253d86f2c4071380aea8270ec99e073df0
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659339"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: تكوين النماذج والمخططات ولوحات المعلومات. تحقق من معلوماتك
+  questions:
+  - content: إذا كنت بحاجة إلى عرض بيانات النموذج على لوحة معلومات، فما نوع النموذج الذي يجب أن تستخدمه؟
+    choices:
+    - content: عرض سريع
+      isCorrect: false
+      explanation: استخدم نوع نموذج البطاقة لعرض بيانات النموذج على لوحة المعلومات.
+    - content: الأساسية
+      isCorrect: false
+      explanation: استخدم نوع نموذج البطاقة لعرض بيانات النموذج على لوحة المعلومات.
+    - content: بطاقة
+      isCorrect: true
+      explanation: استخدم نوع نموذج البطاقة لعرض بيانات النموذج على لوحة المعلومات.
+    - content: إنشاء سريع
+      isCorrect: false
+      explanation: استخدم نوع نموذج البطاقة لعرض بيانات النموذج على لوحة المعلومات.
+  - content: أي مما يلي لا يمكن إضافته إلى نموذج سريع؟
+    choices:
+    - content: IFRAME
+      isCorrect: true
+      explanation: لا يمكن إضافة IFRAME إلى نموذج سريع.
+    - content: حقول
+      isCorrect: false
+      explanation: لا يمكن إضافة IFRAME إلى نموذج سريع.
+    - content: علامات التبويب
+      isCorrect: false
+      explanation: لا يمكن إضافة IFRAME إلى نموذج سريع.
+    - content: نص مكتوب
+      isCorrect: false
+      explanation: لا يمكن إضافة IFRAME إلى نموذج سريع.
+  - content: ما هي الشبكة القابلة للتعديل؟
+    choices:
+    - content: نموذج يستخدم لعرض لوحة المعلومات.
+      isCorrect: false
+      explanation: الشبكة القابلة للتحرير هي عنصر تحكم خاص لتحرير الحقول من طريقة عرض دون فتح السجل.
+    - content: وظيفة لإنشاء حقول جديدة.
+      isCorrect: false
+      explanation: الشبكة القابلة للتحرير هي عنصر تحكم خاص لتحرير الحقول من طريقة عرض دون فتح السجل.
+    - content: نوع نموذج محدد يمكن استخدامه لتحرير وإنشاء حقول جديدة.
+      isCorrect: false
+      explanation: الشبكة القابلة للتحرير هي عنصر تحكم خاص لتحرير الحقول من طريقة عرض دون فتح السجل.
+    - content: عناصر تحكم خاصة لتحرير حقول محددة من طريقة عرض دون الحاجة إلى فتح السجل المحدد.
+      isCorrect: true
+      explanation: الشبكة القابلة للتحرير هي عنصر تحكم خاص لتحرير الحقول من طريقة عرض دون فتح السجل.

@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.administrating-power-platform-subscriptions
+metadata:
+  title: إدارة اشتراكات Microsoft Power Platform
+  description: تغفل العديد من المؤسسات التي تنفِّذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform عن القدرات الهائلة المضمّنة في اشتراكها. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.
+  ms.date: 02/06/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 169a99d17b5fda2a1911c20056ed47e4282bd9c3
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659319"
+title: إدارة اشتراكات Microsoft Power Platform
+summary: "[!include[](../includes/module-banner.md)]\n\nتغفل العديد من المؤسسات التي تنفِّذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform عن القدرات الهائلة المضمّنة في اشتراكها. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n-   إدارة المستخدمين باستخدام مركز إدارة Microsoft 365\n-   إدارة المثيلات باستخدام مركز إدارة Dynamics 365\n-   إدارة التخزين\n-   إدارة التحديثات باستخدام مركز إدارة Dynamics 365\n-   تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365\n-   توفير مدخل Microsoft\n"
+prerequisites: >
+  - يُفضَّل وجود فهم أساسي للبنية الأساسية لحلول Microsoft Power Platform، وحلول Microsoft Online Business ومنها مدخل مسؤول Microsoft 365.
+
+  - فهم كيفية تصميم عمليات التوزيع في Dynamics 365.
+iconUrl: /learn/achievements/administrating-power-platform-subscriptions.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+products:
+- power-apps
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.administrating-power-platform-subscriptions.1-manage-users-admin-portal
+- learn-dynamics.administrating-power-platform-subscriptions.2-instance-administration-admin-center
+- learn-dynamics.administrating-power-platform-subscriptions.3-manage-storage
+- learn-dynamics.administrating-power-platform-subscriptions.4-manage-updates-admin-center
+- learn-dynamics.administrating-power-platform-subscriptions.5-install-apps-admin-center
+- learn-dynamics.administrating-power-platform-subscriptions.6-provision-microsoft-portal
+- learn-dynamics.administrating-power-platform-subscriptions.7-administer-instance
+- learn-dynamics.administrating-power-platform-subscriptions.8-knowledge-check
+- learn-dynamics.administrating-power-platform-subscriptions.9-summary
+badge:
+  uid: learn.administrating-power-platform-subscriptions.badge

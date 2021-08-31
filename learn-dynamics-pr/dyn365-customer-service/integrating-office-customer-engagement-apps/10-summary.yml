@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.10-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 02/08/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7effa433fe0a92468971fde90062e243c2b76c56
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659136"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/10-summary.md)]

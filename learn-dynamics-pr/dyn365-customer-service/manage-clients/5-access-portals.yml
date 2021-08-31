@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clients.5-access-portals
+title: الوصول إلى مداخل Microsoft
+metadata:
+  title: الوصول إلى مداخل Microsoft
+  description: الوصول إلى مداخل Microsoft
+  ms.date: 02/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: df25cfc40fb9ea8cc11fecf1c96abe34750959b3
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659342"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-access-portals.md)]

@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.power-platform-mobile-management
+metadata:
+  title: إدارة Microsoft Power Platform للأجهزة المحمولة
+  description: مع ازدياد استخدام الأجهزة المحمولة في العالم، أصبح فهم قدرات Microsoft Power Platform للأجهزة المحمولة لا يتيح للمستشارين الوظيفيين ضمان الوصول السهل من أجهزة المحمول فحسب، بل الاستفادة أيضاً من عامل التصميم الفريد عند تنفيذ حلول Dynamics 365.
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 17fa63a545b1f06fd65034d90c5215e2838e2597
+  ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659265"
+title: إدارة Microsoft Power Platform للأجهزة المحمولة
+summary: "[!include[](../includes/module-banner.md)]\n\nمع ازدياد استخدام الأجهزة المحمولة في العالم، أصبح فهم قدرات Microsoft Power Platform للأجهزة المحمولة لا يتيح للمستشارين الوظيفيين ضمان الوصول السهل من أجهزة المحمول فحسب، بل الاستفادة أيضاً من عامل التصميم الفريد عند تنفيذ حلول Dynamics 365. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين الوصول عبر أجهزة المحمول لتطبيقات Dynamics 365 Customer Engagement\n- إدارة الوصول إلى قدرات الأجهزة المحمولة\n- التحقق من المتطلبات الفنية للوصول عبر الأجهزة المحمولة\n- قدرات Dynamics 365 للهاتف المحمول\n-   تمكين وضع عدم الاتصال بالأجهزة المحمولة وإدارته\n- التكامل العميق مع Microsoft 365\n- إنشاء عمليات سير المهام وتشغيلها\n- تشغيل ‬Power Apps\n"
+prerequisites: فهم عملاء Microsoft Power Platform. ويُفضَّل وجود فهم أساسي لعمليات سير المهام وPower Apps.
+iconUrl: /learn/achievements/microsoft-power-platform-mobile-management.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- power-apps
+- power-platform
+units:
+- learn-dynamics.power-platform-mobile-management.1-enable-mobile-access-ce-apps
+- learn-dynamics.power-platform-mobile-management.2-manage-access
+- learn-dynamics.power-platform-mobile-management.3-requirements
+- learn-dynamics.power-platform-mobile-management.4-ce-mobile-client-capabilities
+- learn-dynamics.power-platform-mobile-management.5-offline-mode
+- learn-dynamics.power-platform-mobile-management.6-deep-integration-office365
+- learn-dynamics.power-platform-mobile-management.7-execute-task-flows
+- learn-dynamics.power-platform-mobile-management.8-execute-power-apps
+- learn-dynamics.power-platform-mobile-management.9-enable-offline-access
+- learn-dynamics.power-platform-mobile-management.10-knowledge-check
+- learn-dynamics.power-platform-mobile-management.11-summary
+badge:
+  uid: learn-dynamics.microsoft-power-platform-mobile-management.badge

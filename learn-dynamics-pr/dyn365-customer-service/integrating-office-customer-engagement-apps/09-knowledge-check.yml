@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.09-knowledge-check
+metadata:
+  title: دمج فحص المعرفة لـ Office وتطبيقات Dynamics 365 Customer Engagement
+  description: دمج فحص المعرفة لـ Office وتطبيقات Dynamics 365 Customer Engagement
+  ms.date: 02/08/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 3da3d48e637ea17a290f06ebd26c561849eb1304
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659138"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: إدماج فحص المعرفة لـ Office وتطبيقات Dynamics 365 Customer Engagement
+  questions:
+  - content: أنت تريد العمل مع ملفات من SharePoint من داخل Dynamics 365. من أين يمكنك الوصول إلى ملفات SharePoint من واجهة Dynamics 365؟
+    choices:
+    - content: من قائمة الأوامر.
+      isCorrect: false
+      explanation: قم بالوصول إلى ملفات SharePoint من علامة التبويب "المستندات" في Dynamics 365.
+    - content: SharePoint علامة تبويب على نموذج.
+      isCorrect: false
+      explanation: قم بالوصول إلى ملفات SharePoint من علامة التبويب "المستندات" في Dynamics 365.
+    - content: علامة التبويب "المستندات" في نموذج.
+      isCorrect: true
+      explanation: قم بالوصول إلى ملفات SharePoint من علامة التبويب "المستندات" في Dynamics 365.
+    - content: من القائمة الرئيسية.
+      isCorrect: false
+      explanation: قم بالوصول إلى ملفات SharePoint من علامة التبويب "المستندات" في Dynamics 365.
+  - content: لقد قمت بإعداد التكامل بين Dynamics 365 والمجموعات. يتمتع الأشخاص الذين لديهم دور المبيعات بحق الوصول الكامل إلى جميع الوظائف المتوفرة في المجموعات من داخل Dynamics 365. لسبب ما، يواجه الأشخاص الذين لديهم دور خدمة العملاء مشاكل. ما الذي يجب عليك التحقق منه؟
+    choices:
+    - content: تحقق من امتلاك دور خدمة العملاء امتياز تعديل قيود التخصيصات.
+      isCorrect: false
+      explanation: تحقق للتأكد من أن دور خدمة العملاء له امتياز امتدادات ISV.
+    - content: تحقق من أن دور خدمة العملاء لديه امتياز تنشيط العمليات الفوري.
+      isCorrect: false
+      explanation: تحقق للتأكد من أن دور خدمة العملاء له امتياز امتدادات ISV.
+    - content: تحقق من أن دور خدمة العملاء له امتياز موارد الويب.
+      isCorrect: false
+      explanation: تحقق للتأكد من أن دور خدمة العملاء له امتياز امتدادات ISV.
+    - content: تحقق من أن دور خدمة العملاء له امتياز امتدادات ISV.
+      isCorrect: true
+      explanation: تحقق للتأكد من أن دور خدمة العملاء له امتياز امتدادات ISV.
+  - content: بخلاف قوالب Word، التي يتم إنشاؤها من سجل معين، يتم إنشاء قوالب Excel فقط من __________. املاء الفراغ.
+    choices:
+    - content: علامات التبويب.
+      isCorrect: false
+      explanation: يتم إنشاء قوالب Excel فقط من طرق العرض.
+    - content: طرق العرض.
+      isCorrect: true
+      explanation: يتم إنشاء قوالب Excel فقط من طرق العرض.
+    - content: الأقسام.
+      isCorrect: false
+      explanation: يتم إنشاء قوالب Excel فقط من طرق العرض.
+    - content: نماذج.
+      isCorrect: false
+      explanation: يتم إنشاء قوالب Excel فقط من طرق العرض.

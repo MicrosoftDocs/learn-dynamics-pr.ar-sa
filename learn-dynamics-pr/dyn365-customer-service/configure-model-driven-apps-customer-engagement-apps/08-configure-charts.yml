@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-model-driven-apps-customer-engagement.08-configure-charts
+title: نظرة عامة على تكوين المخططات
+metadata:
+  title: نظرة عامة على تكوين المخططات
+  description: يوفر نظرة عامة على الرسوم البيانية للتطبيقات التي تعتمد على النموذج.
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: ecbe0f1b9804e6d0e1e7cb51b9df1a6658ecf34e
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659341"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/08-configure-charts.md)]

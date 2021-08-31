@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clients.2-outlook-add-in
+title: وظيفة Outlook الإضافية لـ Microsoft Dynamics 365
+metadata:
+  title: وظيفة Outlook الإضافية لـ Microsoft Dynamics 365
+  description: وظيفة Outlook الإضافية لـ Microsoft Dynamics 365
+  ms.date: 02/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c30b5431551b4b36f838407c9cdb11f74efa946e
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659360"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-outlook-add-in.md)]

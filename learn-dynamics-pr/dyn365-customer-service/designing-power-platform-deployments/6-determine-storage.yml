@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.6-determine-storage
+title: تحديد متطلبات التخزين
+metadata:
+  title: تحديد متطلبات التخزين
+  description: تحديد متطلبات التخزين
+  ms.date: 02/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d7294e763ce9025dfcdda66d3508bfb7b949f9ed
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659348"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-determine-storage.md)]

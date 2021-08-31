@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.unified-customer-profile
+metadata:
+  title: إنشاء ملف تعريف موحّد للعملاء في Dynamics 365 Customer Insights
+  description: تعرَّف على إنشاء ملف تعريف موحَّد للعملاء في Customer Insights.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: a787c54d4d4614ed0adf12601267b7841a034b65
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659389"
+title: إنشاء ملف تعريف موحّد للعملاء في Dynamics 365 Customer Insights
+summary: "[!include[](../includes/module-banner.md)] \n\nDynamics 365 Customer Insights عبارة عن نظام أساسي لبيانات العملاء (CDP) سهل الاستخدام ومرن يساعد على إطلاق العنان للرؤى والتعمق في فهم عملائك. ستتعرّف في هذه الوحدة على إنشاء ملف تعريف موحّد للعملاء في Customer Insights.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على طريقة إنشاء مثيل من مثيلات Customer Insights. \n- التعرُّف على طريقة استيعاب البيانات.\n- التعرُّف على توحيد البيانات. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/unified-customer-profile.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-analyst
+- data-analyst
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-cust-insights
+units:
+- learn-dynamics.unified-customer-profile.1-introduction
+- learn-dynamics.unified-customer-profile.3-map
+- learn-dynamics.unified-customer-profile.4-match
+- learn-dynamics.unified-customer-profile.5-rules
+- learn-dynamics.unified-customer-profile.6-merge
+- learn-dynamics.unified-customer-profile.7-exercise
+- learn-dynamics.unified-customer-profile.8-check
+- learn-dynamics.unified-customer-profile.9-summary
+badge:
+  uid: learn-dynamics.unified-customer-profile.badge

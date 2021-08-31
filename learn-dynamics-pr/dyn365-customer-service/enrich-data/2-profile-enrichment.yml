@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enrich-data.2-profile-enrichment
+title: إثراء البيانات
+metadata:
+  title: إثراء البيانات
+  description: تعرّف على أنواع إثراء البيانات التي يمكنك تطبيقها على بيانات العملاء.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: f46adcd88dd360df9588b72b85320eef58977892
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659386"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-profile-enrichment.md)]"

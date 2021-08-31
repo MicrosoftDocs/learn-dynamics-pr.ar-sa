@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dynamics-365-service-level-agreements.2-business-closures-and-working-hours
+title: أوقات إغلاق الأعمال وساعات العمل
+metadata:
+  title: أوقات إغلاق الأعمال وساعات العمل
+  description: أوقات إغلاق الأعمال وساعات العمل
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 696d1e27f7dfb2096078fdad53b84abc9c7f8a28
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659076"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-business-closures-and-working-hours.md)]

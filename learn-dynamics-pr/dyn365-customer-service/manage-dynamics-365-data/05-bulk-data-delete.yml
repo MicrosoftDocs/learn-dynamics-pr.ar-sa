@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-your-data.05-bulk-data-delete
+title: حذف البيانات
+metadata:
+  title: حذف البيانات
+  description: استخدم خيارات حذف البيانات المجمعة لإزالة البيانات من مجموعة البيانات الخاصة بك.
+  ms.date: 02/04/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ee21cbb53259cd157d30ad682ee33f371a1e9de8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659084"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05-bulk-data-delete.md)]

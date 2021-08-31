@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.power-platform-mobile-management.4-ce-mobile-client-capabilities
+title: إمكانات برنامج Dynamics 365 Mobile
+metadata:
+  title: إمكانات برنامج Dynamics 365 Mobile
+  description: إمكانات برنامج Dynamics 365 CE Mobile
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9acc49a02f44ac96680f4e962da1045442d7143a
+  ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659272"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-ce-mobile-client-capabilities.md)]

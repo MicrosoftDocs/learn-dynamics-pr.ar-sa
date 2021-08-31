@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.unified-customer-profile.7-exercise
+title: التمرين - إنشاء أحد مثيلات Customer Insights، واستيعاب البيانات، وتوحيد البيانات
+metadata:
+  title: التمرين - إنشاء أحد مثيلات Customer Insights، واستيعاب البيانات، وتوحيد البيانات
+  description: تعرَّف على كيفية إنشاء مثيل لـ Customer Insights، واستيعاب البيانات، وإجراء عملية توحيد البيانات.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-insights
+  ms.openlocfilehash: 8ddd621d843d9f65f654b4b31b2286c0ce6d1bd4
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659364"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-exercise.md)]"

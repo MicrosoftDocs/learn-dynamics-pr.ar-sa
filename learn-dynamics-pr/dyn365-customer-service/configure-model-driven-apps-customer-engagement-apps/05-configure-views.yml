@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-model-driven-apps-customer-engagement.05-configure-views
+title: نظرة عامة على تكوين وجهات النظر
+metadata:
+  title: نظرة عامة على تكوين وجهات النظر
+  description: تعرف على كيفية تكوين طرق العرض للتطبيقات التي تعتمد على النموذج
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: deaa75a6c2a4ee77ef1e20aae0acd2cd97eb471c
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659344"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05-configure-views.md)]

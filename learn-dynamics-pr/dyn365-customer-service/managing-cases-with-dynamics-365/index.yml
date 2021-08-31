@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-bizapps.customer-service-cases
+metadata:
+  title: إدارة الحالات باستخدام Dynamics 365 Customer Service
+  description: يمكنك إنشاء حالات وإدارة عملية حل الحالة، والعمل باستخدام التدرجات الهرمية للحالات، ودمج الحالات المشابهة.
+  ms.date: 02/02/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bf6439ceb61dee5381b998ba4b024643c99a482c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659135"
+title: إدارة الحالات باستخدام Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح Microsoft Dynamics 365 for Customer Service للمؤسسات تقديم خدمة أفضل لعملائها، وإدارة عمليات تحميل المندوبين عن طريق توفير نطاق واسع من خيارات إدارة الحالات. سواء كان المندوبين يبحثون عن طرق أكثر فاعلية لإنشاء الحالات أو طرق أفضل لإدارة دورة حياة الحالة، يمكن لأدوات إدارة الحالة في Microsoft Dynamics 365مساعدتهم خلال عملية الإدارة.      \n"
+abstract: >
+  لنُلقِ نظرة على ما يلي:
+
+  - دراسة عملية حل الحالة في Dynamics 365 من البداية إلى النهاية
+
+  - تحديد الخيارات المختلفة المتوفرة لإنشاء الحالات وتحديدها
+
+  - استخدام عمليات سير إجراءات العمل لتوجيه المندوبين خلال حل الحالة
+
+  - مراجعة حالات استخدام الحالات الأصل/التابعة وطريقة استخدامها
+
+  - تحديد الحالات التي من المفترض أن تُدمج فيها الحالات المشابهة
+
+  - العمل باستخدام انتقالات سبب الحالة لمشكلة ما، وتكوين انتقالات الحالة المخصّصة
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365 ومعرفة عملية بالسجلات الأساسية المتوفرة.
+iconUrl: /learn/achievements/get-started-with-cases-for-dynamics-365-customer-service.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-bizapps.customer-service-cases.1-case-management-overview
+- learn-bizapps.customer-service-cases.2-case-creation-and-lifecycle
+- learn-bizapps.customer-service-cases.3-case-creation-automation-considerations
+- learn-bizapps.customer-service-cases.4-create-and-resolve-cases
+- learn-bizapps.customer-service-cases.5-case-management-scenarios
+- learn-bizapps.customer-service-cases.6-case-management-scenarios-dashboards
+- learn-bizapps.customer-service-cases.7-case-management-scenarios-work-case
+- learn-bizapps.customer-service-cases.8-working-with-status-reason-transitions
+- learn-bizapps.customer-service-cases.9-managing-cases-in-dynamics-365
+- learn-bizapps.customer-service-cases.10-knowledge-check
+- learn-bizapps.customer-service-cases.11-summary-and-clean-up
+badge:
+  uid: learn.customer-service-cases.badge

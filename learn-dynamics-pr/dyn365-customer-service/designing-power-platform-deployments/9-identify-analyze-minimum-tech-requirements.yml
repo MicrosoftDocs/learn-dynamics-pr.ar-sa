@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.9-identify-analyze-minimum-tech-requirements
+title: التمرين - تحديد الحد الأدنى من المتطلبات الفنية وتحليله
+metadata:
+  title: التمرين - تحديد الحد الأدنى من المتطلبات الفنية وتحليله
+  description: التمرين - تحديد الحد الأدنى من المتطلبات الفنية وتحليله
+  ms.date: 02/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4e8b5b21d7c2e14c1821f46ad7d4c0a2ad33d3f9
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659345"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/9-identify-analyze-minimum-tech-requirements.md)]

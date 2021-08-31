@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.power-platform-mobile-management.7-execute-task-flows
+title: إنشاء عمليات سير المهام وتشغيلها
+metadata:
+  title: إنشاء عمليات سير المهام وتشغيلها
+  description: إنشاء عمليات سير المهام وتشغيلها
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 96a88a0e0ac989ee350e5000def39d7f59112402
+  ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659266"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-execute-task-flows.md)]

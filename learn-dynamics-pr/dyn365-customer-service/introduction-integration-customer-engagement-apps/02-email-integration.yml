@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-to-integration-with-dynamics-365-customer-engagement.02-email-integration
+title: تكامل البريد الإلكتروني
+metadata:
+  title: تكامل البريد الإلكتروني
+  description: تكامل البريد الإلكتروني
+  ms.date: 06/01/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a99aad0f17bf8cfd472b31f32f0d82be70aa7f3c
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659332"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/02-email-integration.md)]

@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-power-platform-extensibility-model.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/15/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: cc9ce8b72278aea80eba14cce8091b63f9aba08a
+  ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/16/2021
+  ms.locfileid: "6659253"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الآليات الجاهزة التي يجب أن نطبقها على منطق الأعمال بدون تعليمات برمجية في تطبيق يستند إلى نموذج؟
+    choices:
+    - content: قواعد العمل، مهام سير العمل، البرنامج النصي للعميل
+      isCorrect: false
+      explanation: البرنامج النصي للعميل هو حل يستند إلى التعليمات البرمجية المخصصة المكتوبة بلغة JavaScript.
+    - content: الأعمدة المحسوبة، مهام سير العمل، المكونات الإضافية
+      isCorrect: false
+      explanation: المكون الإضافي هو تجميع ‎.NET يحتوي على تعليمات برمجية مخصصة مكتوبة بلغة C#‎ ويمكنك تحميله إلى Microsoft Dataverse.
+    - content: قواعد العمل، مهام سير العمل، الأعمدة المحسوبة
+      isCorrect: true
+      explanation: تتوفر قواعد العمل ومهام سير العمل والأعمدة المحسوبة مع التطبيقات التي تستند إلى نموذج لتطبيق منطق الأعمال بدون تعليمات برمجية.
+  - content: أيٌ مما يلي يمثّل آلية لتطبيق منطق الأعمال باستخدام التعليمات البرمجية؟
+    choices:
+    - content: المكونات الإضافية
+      isCorrect: true
+      explanation: يمكنك استخدام المكونات الإضافية لتطبيق منطق الأعمال باستخدام التعليمات البرمجية.
+    - content: الأعمدة المحسوبة
+      isCorrect: false
+      explanation: الأعمدة المحسوبة هي تعبيرات بسيطة تسمح بحساب القيمة الموجودة في عمود في الوقت الحقيقي باستخدام الثوابت وقيم الأعمدة الأخرى
+    - content: قواعد العمل
+      isCorrect: false
+      explanation: توفر قواعد العمل واجهة بسيطة لتنفيذ والحفاظ على القواعد سريعة التغيُّر وشائعة الاستخدام التي تطبّق المنطق وعمليات التحقّق بدون كتابة تعليمات برمجية.
+  - content: متى يمكنك استخدام خدمة المؤسسة للوصول إلى Dataverse؟
+    choices:
+    - content: عندما يكون التطبيق مكتوباً باستخدام تقنية المصدر المفتوح مثل Node.js.
+      isCorrect: false
+      explanation: تكون خدمة المؤسسة محسّنة للاستخدام مع ‎.NET Framework بدلاً من ذلك، يمكنك استخدام ‪Dataverse Web API‬ التي توفّر تجربة تطوير يمكن استخدامها عبر مجموعة واسعة ومتنوعة من لغات البرمجة والأنظمة الأساسية والأجهزة.
+    - content: عند تنفيذ المكونات الإضافية
+      isCorrect: true
+      explanation: تكون خدمة المؤسسة هي الخيار الوحيد عند استخدام المكونات الإضافية لتوسيع Dataverse.
+    - content: يكون التطبيق عبارة عن عميل لنظام التشغيل iOS أو Android.
+      isCorrect: false
+      explanation: تكون خدمة المؤسسة محسّنة للاستخدام مع ‎.NET Framework بدلاً من ذلك، يمكنك استخدام ‪Dataverse Web API‬ التي توفّر تجربة تطوير يمكن استخدامها عبر مجموعة واسعة ومتنوعة من لغات البرمجة والأنظمة الأساسية والأجهزة.

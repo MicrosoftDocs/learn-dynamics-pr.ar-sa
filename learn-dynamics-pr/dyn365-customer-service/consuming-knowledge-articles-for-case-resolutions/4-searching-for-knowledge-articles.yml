@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.consuming-knowledge-articles-for-case-resolutions.4-searching-for-knowledge-articles
+title: بحث عن المقالات المعرفية
+metadata:
+  title: بحث عن المقالات المعرفية
+  description: بحث عن المقالات المعرفية
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 3b9e76e9c186f22783a0f10ee3d6ca294ef48686
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659099"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-searching-for-knowledge-articles.md)]

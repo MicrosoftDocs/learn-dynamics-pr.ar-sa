@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.unified-customer-profile.9-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص الوحدة "إنشاء ملف تعريف موحّد للعميل في Customer Insights"
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-insights
+  ms.openlocfilehash: 84ed2a8ac420b0d1a771a3f22192478004a64480
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659370"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-summary.md)]"

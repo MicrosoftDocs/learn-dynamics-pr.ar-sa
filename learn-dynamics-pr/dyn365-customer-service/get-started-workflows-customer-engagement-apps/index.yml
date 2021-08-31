@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-with-workflows-in-dynamics-365
+metadata:
+  title: الشروع في العمل باستخدام عمليات سير العمل في Dynamics 365 for Customer Engagement
+  description: بادِر باكتشاف فوائد استخدام عمليات سير العمل من أجل التشغيل التلقائي لمهام Dynamics 365 الخاصة بك. يلي مقدمة لسير العمل إنشاء إجراءات سير عمل العميل وإنشاء عمليات سير عمل متقدمة.
+  ms.date: 02/07/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: bda0de3687a21d5eb0455cb330094ad6015062ed
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659141"
+title: الشروع في العمل باستخدام عمليات سير العمل في Dynamics 365 for Customer Engagement
+summary: "[!include[](./includes/unique-module-banner.md)]\n\nبادِر باكتشاف فوائد استخدام عمليات سير العمل من أجل التشغيل التلقائي لمهام Dynamics 365 الخاصة بك. يلي مقدمة لسير العمل إنشاء إجراءات سير عمل العميل وإنشاء عمليات سير عمل متقدمة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- وصف عمليات سير العمل.\n- تكوين عمليات سير العمل‬.\n- إنشاء إجراءات سير العمل.\n- إنشاء إجراءات سير العمل للعميل.\n- إنشاء عمليات سير العمل المتقدمة.\n"
+prerequisites: الفهم الأساسي لـ Dynamics 365.
+iconUrl: /learn/achievements/get-started-with-workflows-in-dynamics-365.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- power-platform
+- power-automate
+- dynamics-365
+units:
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.01-introduction-to-workflows
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.02-configure-workflows
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.03-create-workflow-actions
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.04-build-custom-workflow-actions
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.05-build-advanced-workflows
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.06-check-your-knowledge
+- learn-dynamics.get-started-with-workflows-in-dynamics-365.07-summary
+badge:
+  uid: learn.get-started-with-workflows-in-dynamics-365.badge

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.designing-power-platform-deployments
+metadata:
+  title: إدارة عمليات توزيع Microsoft Power Platform
+  description: التعرّف على إدارة عمليات توزيع Microsoft Power Platform
+  ms.date: 02/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: edf9dddcc86a71f62dc2c7002a2c70855c037fe8
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659324"
+title: إدارة عمليات توزيع Microsoft Power Platform
+summary: "[!include[](../includes/module-banner.md)]\n\nتصميم التطبيقات وتوزيعها باستخدام Microsoft Power Platform. سيعمل اتباع أفضل الممارسات في أثناء هذه العملية على تقليل فرص حدوث المشكلات الفنية في المستقبل فيما يتصل بسوء عملية إدارة دورة حياة التطبيق وحدود التخزين. تتمثل الخطوة الأولى قبل التخصيص وتكوين الحل في تكوين مستأجرك على الانترنت وبيئتك على الإنترنت \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف مفاهيم أسس توزيع Microsoft Power Platform\n- تحديد المتطلبات الفنية\n- تخطيط عملية التوزيع الخاصة بك\n- عمليات توزيع Dynamics 365 متعددة المستأجرين ومتعددة المثيلات\n- إدارة الاشتراكات\n- تحديد التخزين\n- اعتبارات التكامل\n- إدارة المصادقة\n"
+prerequisites: يُفضَّل وجود فهم أساسي للبنية الأساسية لحلول Microsoft Power Platform، وحلول Microsoft Online Business ومنها مدخل مسؤول Microsoft 365.
+iconUrl: /learn/achievements/designing-power-platform-deployments.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-user
+- maker
+- functional-consultant
+products:
+- dynamics-365
+- power-apps
+- power-platform
+units:
+- learn-dynamics.designing-power-platform-deployments.1-explore-power-platform-concepts
+- learn-dynamics.designing-power-platform-deployments.2-determine-technical-requirements
+- learn-dynamics.designing-power-platform-deployments.3-planning-the-deployment
+- learn-dynamics.designing-power-platform-deployments.4-multi-tenant-multi-instance-deployments
+- learn-dynamics.designing-power-platform-deployments.5-manage-subsriptions
+- learn-dynamics.designing-power-platform-deployments.6-determine-storage
+- learn-dynamics.designing-power-platform-deployments.7-integration-considerations
+- learn-dynamics.designing-power-platform-deployments.8-manage-authentication
+- learn-dynamics.designing-power-platform-deployments.9-identify-analyze-minimum-tech-requirements
+- learn-dynamics.designing-power-platform-deployments.10-knowledge-check
+- learn-dynamics.designing-power-platform-deployments.11-summary
+badge:
+  uid: learn.designing-power-platform-deployments.badge

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.power-platform-mobile-management.1-enable-mobile-access-ce-apps
+title: تمكين الوصول المحمول لتطبيقات Microsoft Dynamics 365
+metadata:
+  title: تمكين الوصول المحمول لتطبيقات Microsoft Dynamics 365
+  description: تمكين الوصول المحمول لتطبيقات Microsoft Dynamics 365
+  ms.date: 06/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1f6efc906a0c730410e168baa167cdbfa48e4352
+  ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659283"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-enable-mobile-access-ce-apps.md)]

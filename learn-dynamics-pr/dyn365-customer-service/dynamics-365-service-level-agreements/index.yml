@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.dynamics-365-service-level-agreements
+metadata:
+  title: إدارة SLAs باستخدام Dynamics 365 Customer Service
+  description: تعرَّف على كيفية العمل باستخدام SLAs لإدارة مؤشرات الأداء الرئيسية (KPI) في Dynamics 365 Customer Service.
+  ms.date: 02/02/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 5c0b30d7bcbf8be00be68555925034694b013c67
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659144"
+title: إدارة SLAs باستخدام Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة على SLAs في Dynamics 365 ومدى الاستفادة الممكنة منها في تحديد مؤشرات الأداء الرئيسية (KPI) وتعقُّبها، بما في ذلك تحديد مرات إغلاق الأعمال وجداول ساعات العمل وتحديد شروط تشغيل SLA، وتحديد SLAs، وبناء شروط SLA، وإدارة SLAs، والعمل باستخدام ‏‫حالات التوقف المؤقت لـ SLA.      \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- تحديد مؤشرات الأداء الرئيسية (KPI) التي يتم قياسها باستخدام SLA \n- تحديد مرات إغلاق الأعمال وساعات العمل\n- إنشاء SLA، بما في ذلك شروط التشغيل وإجراءاته\n- إنشاء بنود SLA\n- تحديد مؤشرات الأداء الرئيسية (KPI) المخصّصة\n- تمكين SLAs لكيانات متعددة\n- إدارة SLAs لمؤسسة ما\n"
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  يُعد الإلمام بإنشاء الحالات وإدارتها فضلاً عن الاستحقاق في Dynamics 365 مفيداً أيضاً.
+iconUrl: /learn/achievements/service-level-agreements.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-bizapps.dynamics-365-service-level-agreements.1-sla-oveview
+- learn-bizapps.dynamics-365-service-level-agreements.2-business-closures-and-working-hours
+- learn-bizapps.dynamics-365-service-level-agreements.3-creating-service-level-agreements
+- learn-bizapps.dynamics-365-service-level-agreements.4-defining-sla-details
+- learn-bizapps.dynamics-365-service-level-agreements.5-defining-custom-kpis
+- learn-bizapps.dynamics-365-service-level-agreements.6-managing-slas
+- learn-bizapps.dynamics-365-service-level-agreements.7-managing-kpis-using-service-level-agreements
+- learn-bizapps.dynamics-365-service-level-agreements.8-knowledge-check
+- learn-bizapps.dynamics-365-service-level-agreements.9-summary-and-clean-up
+badge:
+  uid: learn.dynamics-365-service-level-agreements.badge

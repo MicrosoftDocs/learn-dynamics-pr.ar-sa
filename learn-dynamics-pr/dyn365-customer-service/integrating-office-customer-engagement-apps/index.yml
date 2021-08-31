@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement
+metadata:
+  title: تحقيق التكامل بين تطبيقات Office وتطبيقات Dynamics 365 Customer Engagement
+  description: بادِر بالعمل باستخدام القوالب ومنتجات Office لتوسِّع نطاق قدرة تطبيقات Dynamics 365 Customer Engagement.
+  ms.date: 02/08/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8bd81f37520606707ecdc0ab3c5071c89945f961
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659109"
+title: تحقيق التكامل بين تطبيقات Office وتطبيقات Dynamics 365 Customer Engagement
+summary: "[!include[](../includes/module-banner.md)]\n\nبادِر بالعمل باستخدام القوالب ومنتجات Office لتوسِّع نطاق قدرة تطبيقات Dynamics 365 Customer Engagement. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف خيارات القوالب والأمان.\n- دراسة الكيفية التي تتكامل بها منتجات Office مع Dynamics 365.\n"
+prerequisites: فهم تطبيقات Dynamics 365 for Customer Engagement.
+iconUrl: /learn/achievements/integrate-office-and-dynamics-365-customer-engagement.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.01-using-templates
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.02-using-sharepoint
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.03-microsoft-teams
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.04-integrate-with-skype
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.05-integrate-with-onedrive-for-business
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.06-integrate-with-onenote
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.07-integrate-with-office-365-groups
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.08-integrate-with-yammer
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.09-knowledge-check
+- learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.10-summary
+badge:
+  uid: learn.integrate-office-and-dynamics-365-customer-engagement.badge

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.creating-and-managing-entitlements-in-dynamics-365.6-defining-entitlement-templates
+title: تحديد قوالب الاستحقاق
+metadata:
+  title: تحديد قوالب الاستحقاق
+  description: تحديد قوالب الاستحقاق
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e0c289f1c7356a5bdc521ee966799c74fc22b126
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659087"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-defining-entitlement-templates.md)]

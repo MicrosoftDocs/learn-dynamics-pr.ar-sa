@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-clients.7-enable-outlook-add-in
+title: التمرين - تمكين الوظيفة الإضافية في ‎ 365 ‎‎ Microsoft Dynamics لتطبيق Outlook والعمل باستخدامها
+metadata:
+  title: التمرين - تمكين الوظيفة الإضافية في ‎ 365 ‎‎ Microsoft Dynamics لتطبيق Outlook والعمل باستخدامها
+  description: التمرين - تمكين الوظيفة الإضافية في ‎ 365 ‎‎ Microsoft Dynamics لتطبيق Outlook والعمل باستخدامها
+  ms.date: 02/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d5692565f37d39a83ac4d78cc9052ca202310bea
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659336"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-enable-outlook-add-in.md)]

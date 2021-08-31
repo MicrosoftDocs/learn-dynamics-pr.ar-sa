@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-power-platform-extensibility-model.6-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعلمته عن توسيع Microsoft Power Platform.
+  ms.date: 04/15/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 3417e23f5980f2522d7eed7fc4b2bcebd91cbd06
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659306"
+durationInMinutes: 1
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-summary.md)]

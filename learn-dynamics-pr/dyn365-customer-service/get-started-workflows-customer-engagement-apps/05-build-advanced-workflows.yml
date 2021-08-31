@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-with-workflows-in-dynamics-365.05-build-advanced-workflows
+title: أنشئ سير عمل متقدمة باستخدام Dynamics 365 for Customer Engagement
+metadata:
+  title: أنشئ سير عمل متقدمة باستخدام Dynamics 365 for Customer Engagement
+  description: أنشئ سير عمل متقدمة باستخدام Dynamics 365 for Customer Engagement
+  ms.date: 02/07/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-customer-engagement
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e9e8b343061b70af9a21041ab6af54e0840d0250
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659111"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05-build-advanced-workflows.md)]

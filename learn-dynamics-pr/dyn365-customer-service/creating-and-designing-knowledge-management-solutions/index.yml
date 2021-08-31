@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-bizapps.creating-and-designing-knowledge-management-solutions
+metadata:
+  title: إنشاء حلول إدارة المعرفة في Dynamics 365 Customer Service
+  description: تعرَّف على كيفية تصميم حلول إدارة المعرفة وإنشائها.
+  ms.date: 02/02/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 43d40fc8240d0ecbb9d7513d78bc32223d37ee42
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659123"
+title: إنشاء حلول إدارة المعرفة في Dynamics 365 Customer Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  ستركز هذه الوحدة على بناء حلول إدارة المعرفة باستخدام 365 Microsoft Dynamics. وتقدم نظرة عامة على مختلف الخيارات المتوفرة لإدارة المعرفة، وتتضمن معلومات عن تحديد المقالات المعرفية، وإدارة إصدارات المقالات، ونشر المقالات.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تحديد السيناريوهات التي يمكن استخدام مقالات معرفية فيها
+
+  - إنشاء مقالات معرفية في Dynamics 365 وتحديدها
+
+  - إدارة دورة حياة المقالة المعرفية
+
+  - التحكم في إصدار المقالة، وترجمتها، وخيارات نشرها
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365 ومعرفة عملية بالسجلات الأساسية المتوفرة. يُعد الإلمام بإنشاء الحالات وإدارتها في Dynamics 365 مفيداً أيضاً.
+iconUrl: /learn/achievements/create-and-design-knowledge-management-solutions.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.1-knowledge-management-overview
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.2-creating-and-defining-knowledge-articles
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.3-knowledge-article-lifecycle
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.4-managing-article-versions-categories-translations
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.5-knowledge-article-publication
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.6-creating-and-maintaining-knowledge-article
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.7-knowledge-check
+- learn-bizapps.creating-and-designing-knowledge-management-solutions.8-summary
+badge:
+  uid: learn.creating-and-designing-knowledge-management-solutions.badge

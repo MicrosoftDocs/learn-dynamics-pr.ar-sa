@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dynamics-365-service-level-agreements.4-defining-sla-details
+title: تحديد تفاصيل اتفاقية مستوى الخدمة (SLA)
+metadata:
+  title: تحديد تفاصيل اتفاقية مستوى الخدمة (SLA)
+  description: تحديد تفاصيل اتفاقية مستوى الخدمة (SLA)
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9b645890ca4e3e3d39b01265c03c43d4cd5f99b0
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659073"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-defining-sla-details.md)]

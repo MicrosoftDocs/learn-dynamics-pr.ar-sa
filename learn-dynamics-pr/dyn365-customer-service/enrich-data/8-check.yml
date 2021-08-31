@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enrich-data.8-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 4d6348dadbeddd138d377c9fec698c7f294ba6b9
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659391"
+durationInMinutes: 2
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: طُلب منك تكوين Customer Insights لإثراء ملف تعريف العميل كي يتضمن الولاء للعلامة التجارية. وتريد مؤسستك التركيز على علامات تجارية محدَّدة. فما هو الحد الأقصى لعدد العلامات التجارية التي يمكنك تحديدها؟
+    choices:
+    - content: 5 علامات تجارية
+      isCorrect: true
+      explanation: تتيح لك Customer Insights إثراء بياناتك ببيانات العلامة التجارية وبيانات الاهتمام. أثناء عملية التكوين، أمامك خيار العرض حسب الصناعة أو تحديد العلامات التجارية. إذا حدّدتَ علامات تجارية، يمكنك اختيار ما يصل إلى إجمالي خمسة.
+    - content: 7 علامات تجارية
+      isCorrect: false
+      explanation: تتيح لك Customer Insights إثراء بياناتك ببيانات العلامة التجارية وبيانات الاهتمام. أثناء عملية التكوين، أمامك خيار العرض حسب الصناعة أو تحديد العلامات التجارية. إذا حدّدتَ علامات تجارية، يمكنك اختيار ما يصل إلى إجمالي خمسة.
+    - content: 10 علامات تجارية
+      isCorrect: false
+      explanation: تتيح لك Customer Insights إثراء بياناتك ببيانات العلامة التجارية وبيانات الاهتمام. أثناء عملية التكوين، أمامك خيار العرض حسب الصناعة أو تحديد العلامات التجارية. إذا حدّدتَ علامات تجارية، يمكنك اختيار ما يصل إلى إجمالي خمسة.
+    - content: 25 علامة تجارية
+      isCorrect: false
+      explanation: تتيح لك Customer Insights إثراء بياناتك ببيانات العلامة التجارية وبيانات الاهتمام. أثناء عملية التكوين، أمامك خيار العرض حسب الصناعة أو تحديد العلامات التجارية. إذا حدّدتَ علامات تجارية، يمكنك اختيار ما يصل إلى إجمالي خمسة.
+  - content: أنشأتَ تنبؤاً في Customer Insights يتنبأ بالقيم المفقودة لعمود محدَّد. تريد ضبط النموذج لمعرفة ما إذا كان يمكنك الحصول على نتائج أفضل. ما التطبيق المستخدم لتحرير نموذج التنبؤ؟
+    choices:
+    - content: Customer Insights
+      isCorrect: false
+      explanation: عندما يكون لديك Customer Insights تتنبأ بالقيم المفقودة، فإنها تُنشئ نموذجاً للذكاء الاصطناعي باستخدام AI Builder. إذا كنتَ ترغب في إجراء تغييرات على النموذج، فستقوم Customer Insights بإطلاق AI Builder، الذي يمكنك من خلاله تحسين نتائجك.
+    - content: Azure Machine Learning Studio
+      isCorrect: false
+      explanation: عندما يكون لديك Customer Insights تتنبأ بالقيم المفقودة، فإنها تُنشئ نموذجاً للذكاء الاصطناعي باستخدام AI Builder. إذا كنتَ ترغب في إجراء تغييرات على النموذج، فستقوم Customer Insights بإطلاق AI Builder، الذي يمكنك من خلاله تحسين نتائجك.
+    - content: AI Builder
+      isCorrect: true
+      explanation: عندما يكون لديك Customer Insights تتنبأ بالقيم المفقودة، فإنها تُنشئ نموذجاً للذكاء الاصطناعي باستخدام AI Builder. إذا كنتَ ترغب في إجراء تغييرات على النموذج، فستقوم Customer Insights بإطلاق AI Builder، الذي يمكنك من خلاله تحسين نتائجك.
+    - content: Power Automate
+      isCorrect: false
+      explanation: عندما يكون لديك Customer Insights تتنبأ بالقيم المفقودة، فإنها تُنشئ نموذجاً للذكاء الاصطناعي باستخدام AI Builder. إذا كنتَ ترغب في إجراء تغييرات على النموذج، فستقوم Customer Insights بإطلاق AI Builder، الذي يمكنك من خلاله تحسين نتائجك.

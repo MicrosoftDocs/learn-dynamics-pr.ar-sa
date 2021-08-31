@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enrich-data.6-subscription-churn-prediction
+title: التنبؤ بخسارة الاشتراك
+metadata:
+  title: التنبؤ بخسارة الاشتراك
+  description: تعرّف على كيفية استخدام نموذج التنبؤ بخسارة العميل المضمن للتنبؤ عندما يكون العملاء معرضين لخطر تركك.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bb05472eb5b715fde79379716306e43dc4536e5b
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659393"
+durationInMinutes: 9
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-subscription-churn-prediction.md)]"

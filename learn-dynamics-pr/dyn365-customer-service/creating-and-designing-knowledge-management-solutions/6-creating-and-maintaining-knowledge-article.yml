@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.creating-and-designing-knowledge-management-solutions.6-creating-and-maintaining-knowledge-article
+title: تمرين - إنشاء المقالات المعرفية وصيانتها
+metadata:
+  title: تمرين - إنشاء المقالات المعرفية وصيانتها
+  description: تمرين - إنشاء المقالات المعرفية وصيانتها
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e9be50669d554f24ffb6614d5364b8965b249552
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659185"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-creating-and-maintaining-knowledge-article.md)]

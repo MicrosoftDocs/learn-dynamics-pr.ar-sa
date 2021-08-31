@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.introduction-power-platform-extensibility-model
+metadata:
+  title: مقدمة لتوسيع Microsoft Power Platform
+  description: ستركز هذه الوحدة على هيكل الحل الأساسي من منظور فني وخيارات قابلية التوسعة الموجودة. كما ستتناول أيضاً العنصر المهم دائماً لتطوير Microsoft Power Platform ألا وهو عملية اتخاذ القرار لتحديد حالات استخدام التكوين مقابل التعليمة البرمجية.
+  ms.date: 04/15/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 8985cbcd0195e290e5121e6758ca80fa96e62d9a
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659304"
+title: مقدمة لتوسيع Microsoft Power Platform
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  ستركز هذه الوحدة على هيكل الحل الأساسي من منظور فني وخيارات قابلية التوسعة الموجودة. كما ستتناول أيضاً العنصر المهم دائماً لتطوير Microsoft Power Platform ألا وهو عملية اتخاذ القرار لتحديد حالات استخدام التكوين مقابل التعليمة البرمجية.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد العناصر التي تكوّن Microsoft Power Platform من الناحية المعمارية. \n- التعرُّف على مجالات القابلية للتوسعة المتوفرة لتخصيص Microsoft Power Platform من خلال التعليمة البرمجية.\n- اكتشاف الأساليب المختلفة لسيناريوهات العمل الشائعة فيما يتعلق بتحقيق القابلية للتوسعة عن طريق التكوين مقابل التعليمة البرمجية. \n"
+prerequisites: الفهم الأساسي لـ Microsoft Power Platform، وخبرة في تطوير البرامج على Microsoft stack وVisual Studio، ويُفضّل خبرة في إدارة الحلول في Azure.
+iconUrl: /learn/achievements/introduction-power-platform-extensibility-model.svg
+levels:
+- advanced
+roles:
+- developer
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- power-apps
+- common-data-service
+units:
+- learn-dynamics.introduction-power-platform-extensibility-model.1-introduction
+- learn-dynamics.introduction-power-platform-extensibility-model.1-extensibility
+- learn-dynamics.introduction-power-platform-extensibility-model.2-architecture
+- learn-dynamics.introduction-power-platform-extensibility-model.4-exercise
+- learn-dynamics.introduction-power-platform-extensibility-model.3-configure-code
+- learn-dynamics.introduction-power-platform-extensibility-model.5-check
+- learn-dynamics.introduction-power-platform-extensibility-model.6-summary
+badge:
+  uid: learn-dynamics.introduction-power-platform-extensibility-model.badge

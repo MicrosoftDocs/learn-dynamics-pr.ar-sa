@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.use-developer-tools-extend
+metadata:
+  title: استخدام أدوات المطور لتوسيع Microsoft Power Platform
+  description: ستركز هذه الوحدة على أدوات المطوّر المتوفرة التي يمكن أن تساعدك على تنفيذ أنشطة التطوير باستخدام Microsoft Power Platform.
+  ms.date: 04/15/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 46ff2a84759373142380821cdfbb23bdc01afc43
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659313"
+title: استخدام أدوات المطور لتوسيع Microsoft Power Platform
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  ستركز هذه الوحدة على أدوات المطوّر المتوفرة التي يمكن أن تساعدك على تنفيذ أنشطة التطوير باستخدام Microsoft Power Platform.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تثبيت حزم NuGet المتوفرة لتطوير Microsoft Power Platform \n- العمل باستخدام أداة ترحيل التكوين \n- العمل باستخدام Package Deployer \n- الاستفادة من أداة إنشاء حزم الحلول في عزل الميزات \n- تشغيل أداة Plugin Registration Tool \n"
+prerequisites: "- الفهم الأساسي بخصوص Microsoft Power Platform وكيفية وصول المستخدمين إلى 365 Microsoft Dynamics. \n- يُعد الفهم الأساسي للوصول إلى مختلف الميزات اعتماداً على تراخيص المستخدم مفيداً أيضاً.\n"
+iconUrl: /learn/achievements/use-developer-tools-extend.svg
+levels:
+- advanced
+roles:
+- developer
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- power-apps
+- common-data-service
+units:
+- learn-dynamics.use-developer-tools-extend.1-introduction
+- learn-dynamics.use-developer-tools-extend.2-exercise
+- learn-dynamics.use-developer-tools-extend.3-solution-packager
+- learn-dynamics.use-developer-tools-extend.2-package-deploy
+- learn-dynamics.use-developer-tools-extend.4-exercise
+- learn-dynamics.use-developer-tools-extend.5-check
+- learn-dynamics.use-developer-tools-extend.6-summary
+badge:
+  uid: learn-dynamics.use-developer-tools-extend.badge
