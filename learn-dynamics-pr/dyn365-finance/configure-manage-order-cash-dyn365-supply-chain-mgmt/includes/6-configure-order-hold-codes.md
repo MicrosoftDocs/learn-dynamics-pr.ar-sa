@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5032605b1fbe287cb94aaeb690ec6d1465b777ce
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 31297b1925d44d1ebab09e0ef5c24c10a7269d377b4b24158049cc081e41525c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677558"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053261"
 ---
 أثناء إدخال الأمر، ولكن قبل إرسال الطلب وتأكيده، قد يرغب البائعون في تعليق أمر يدوياً لمنع إصداره إلى المستودع لمزيد من المعالجة. على سبيل المثال، قد لا يكون العميل الذي يقدم الطلب جاهزاً للالتزام به، أو قد تكون البيانات المهمة المطلوبة لمعالجة الأمر مفقودة. 
 

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 61cfba3c162ea968fa3cdc515270ef70c88bc7d7
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: fb023baef44d4d93ac7f77adf11632ea0acd0c89
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677763"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329167"
 title: تكوين تخطيط الموازنة واستخدامه في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nمع الطبيعة التعاونية والقائمة على العملية لوظيفة تخطيط الموازنة في Dynamics 365 Finance، يمكنك جعل عملية موانتك أكثر كفاءة وتضمين المزيد من الأشخاص في العملية، كل ذلك مع تقليل عدد الملفات التي يتم إرسالها عبر البريد الإلكتروني وتقليل الإدخال اليدوي. تخطيط الموازنة هو أداة تجلب تحسينات على حلك الحالي للموازنات المستند إلى Microsoft Excel.  \n"
 abstract: >

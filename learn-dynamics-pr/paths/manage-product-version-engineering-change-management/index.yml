@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1b08f6121e0dab850a9416b8b8d255b1a25f43bf
-  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 3b280eeeb9566c5027fbc9ab13a9533233c4bce6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "6074772"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7343491"
 title: إدارة معلومات إصدار المنتج في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../../includes/lp-banner.md)]

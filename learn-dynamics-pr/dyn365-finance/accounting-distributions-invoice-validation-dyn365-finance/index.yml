@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2018dda08d244700a1d229e53241a9a55c9e47c9
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 4cde64925da9e508878cd043d051f72c6577d43d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677613"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366465"
 title: التعامل مع التوزيعات المحاسبية وعمليات التحقق من صحة الفواتير والتسويات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nتُستخدم التوزيعات المحاسبية لتحديد كيفية حساب المبلغ، مثل كيفية احتساب المصروفات أو الضرائب أو التكاليف في فاتورة المورد. سيكون لكل مبلغ يجب احتسابه عند تسجيل فاتورة المورد في دفتر اليومية توزيع محاسبي واحد أو أكثر. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تسوية الحركات والتراجع عن التسويات. \n- توزيع الأموال باستخدام التوزيعات المحاسبية.\n- تكوين سياسات التحقق من صحة الفواتير.\n"

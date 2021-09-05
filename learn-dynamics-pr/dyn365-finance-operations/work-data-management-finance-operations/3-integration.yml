@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/data-entities-data-packages?toc=/fin-and-ops/toc.json
-  ms.openlocfilehash: ecf7522302c2a08f2574dcb7ac3890e25241d29f
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: d0081dfe04ab58786263357e644128f9889beda2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6254456"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7326502"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

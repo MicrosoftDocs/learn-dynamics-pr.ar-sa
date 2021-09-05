@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 60b7da15c921a31687afa5a6ef65b29b288bc49b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: cab1c2c0ac74ac01e54c564b615fa6a4df1b4cbf1719d7c21a331b14e67720d6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7106309"
 ---
 بالنسبة للتمرينات الخاصة بهذه الوحدة، استخدم بيانات العرض التوضيحي في الكيان القانوني **USRT**.
 

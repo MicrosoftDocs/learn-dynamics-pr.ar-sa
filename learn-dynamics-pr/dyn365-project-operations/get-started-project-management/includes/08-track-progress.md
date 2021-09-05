@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1d5b0bd8c3a2e2d29dabc9180947d4987cf572df
-ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+ms.openlocfilehash: bd2249225b688783f5db9f99ec50535acfd61b14d214ad5dfe7531808189c5da
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "6072883"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047118"
 ---
 تختلف الحاجة إلى تعقب التقدم مقابل جدول حسب المجال. ويتم تعقب بعض المجالات بقدرٍ بسيط، بينما يتم تعقب مجالات أخرى بقدرٍ أعلى. 
 

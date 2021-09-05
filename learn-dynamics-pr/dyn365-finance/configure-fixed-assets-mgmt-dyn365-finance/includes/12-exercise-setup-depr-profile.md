@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3076219d4843834a1cacfa0990a3611b2c886907
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e7b638719c9f37d128920e0b4e6532f20a0d1b281388b39ac1b14327b4333b76
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677506"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099467"
 ---
 ## <a name="scenario"></a>السيناريو
 تحدد ملفات تعريف الإهلاك نوع وتكرار الإهلاك لأحد الأصول.

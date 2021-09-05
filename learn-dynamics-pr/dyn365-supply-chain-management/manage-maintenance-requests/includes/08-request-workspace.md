@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ddd3306b1ba8c1aafb04a7c69068714ccb69605
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 506a8d627ab7396411c896061752a2c4c5a6168f7301adc9b7e0a89b79d4287f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667217"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057341"
 ---
 توفر مساحة عمل **إدارة طلبات الصيانة** موقعاً شاملاَ لعرض كافة طلبات الصيانة وإدارتها في إدارة الأصول. 
 

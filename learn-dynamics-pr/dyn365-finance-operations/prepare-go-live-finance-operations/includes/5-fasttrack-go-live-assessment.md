@@ -1,23 +1,23 @@
 ---
-ms.openlocfilehash: 0eefdb977e710cc491312c1b00fc01727721d2fc
-ms.sourcegitcommit: 3222998e8b78a03b9e1ee526c0b3c970f92c86d2
+ms.openlocfilehash: 7768aaed95c4f582c4ab8bb0245a5e1882fd9ee8
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "6072124"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7332063"
 ---
 Microsoft FastTrack لتطبيقات Finance and Operations هي خدمة نجاح عملاء صُممت لمساعدتك على الانتقال بسلاسة وثقة إلى تطبيقات Finance and Operations؛ حتى تتمكن من تحقيق قيمة العمل بسرعة أكبر. 
 
 عند المشاركة في برنامج FastTrack، تحصل على إرشادات متعلقة بأفضل ممارسات التنفيذ والتخطيط لعمليات توزيع ناجحة وتوسيع الإمكانيات. ومع ذلك، يمكنك التنفيذ بالوتيرة التي تناسبك. يمكنك أيضاً الوصول إلى المهندسين المعماريين لحلول Microsoft الذين يلتزمون بجعل تجربتك مع تطبيقات Finance and Operations قصة نجاح.
 
-جميع تطبيقات Finance and Operations التي يحتاجها العملاء لإكمال مراجعة عرض مباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك. وإذا لم تكن معتاداً على استخدام Microsoft FastTrack، فانتقل إلى [مرحباً بك في FastTrack for Dynamics 365](https://docs.microsoft.com/dynamics365/fasttrack/?azure-portal=true).
+جميع تطبيقات Finance and Operations التي يحتاجها العملاء لإكمال مراجعة عرض مباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك. وإذا لم تكن معتاداً على استخدام Microsoft FastTrack، انتقل إلى [مرحباً بك في FastTrack for Dynamics 365](/dynamics365/fasttrack/?azure-portal=true).
 
 قبل البدء في العرض المباشر بحوالي ثمانية أسابيع، سيطلب منك فريق FastTrack ملء قائمة اختيار العرض المباشر:
 
 - إذا كانت إيراداتك السنوية المجمعة تقدَّر بمبلغ 300،000 دولار أمريكي أو أكثر، فيتم تعيين مهندس معماري لحلول Microsoft إلى المشروع، حيث يقود مختلف ورش العمل مع العميل والشريك أثناء التنفيذ.  
 - أما إذا كانت إيراداتك السنوية المجمعة تُقدَّر بأقل من 300،000 دولار أمريكي، فإن جميع المراسلات مع فريق FastTrack تجري عبر البريد الإلكتروني. 
 
-لمعرفة المزيد حول مدى الأهلية لاستخدام FastTrack، راجع [أهلية العميل ومؤهلات الشركاء](https://docs.microsoft.com/dynamics365/fasttrack/eligibility/?azure-portal=true). 
+لمعرفة المزيد حول مدى الأهلية لاستخدام FastTrack، راجع [أهلية العميل ومؤهلات الشركاء](/dynamics365/fasttrack/eligibility/?azure-portal=true). 
 
   
 يمكنك أيضاً تنزيل قائمة اختيار ما قبل العرض المباشر لـ FastTrack.

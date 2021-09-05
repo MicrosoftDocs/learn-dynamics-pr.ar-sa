@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dfe2476569adbc01db8deee2032dac57beabc778
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7152899120fe85424672b9a9fd14ae918b7ee61b0d5c9f71a5636dd5a299a26a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667669"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108464"
 ---
 أثناء استخدامك لإدارة التغيير الهندسي وإنشاء إصدارات مختلفة من المنتجات، سيتم إرفاق *رقم إصدار المنتج* بالمنتج ذاته. لذلك، تحتاج إلى قاعدة لتطبيق مثل هذه الأرقام.
 

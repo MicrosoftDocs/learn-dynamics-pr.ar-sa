@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 170026c6c867c77faf5196e001ae0f7730917712
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1988faac58ebd6b17f9d1c907d919634fdeabe209ddee0aea07fa8eef7337136
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105270"
 ---
 تم إعداد منطقة التداول باليورو (سيبا) بواسطة المفوضية الأوروبية، والتي تقتضي أن تعتبر جميع عمليات الدفع الإلكترونية داخلية، بغض النظر عن البلد أو المنطقة التي يوجد فيها الفرد والشركة والمؤسسة والبنك. 
 

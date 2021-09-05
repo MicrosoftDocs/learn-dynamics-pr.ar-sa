@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6bcdf14d38213998959d4e3a34e4265fd96279f
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 4d7b675e4b61f0f23ec59930fbaa883eef30c845f8e2ec256a9050ca8197a3e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677210"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115715"
 ---
 لتحويل المعلومات المالية لدفتر الأصول الثابتة من بعد مالي واحد إلى مجموعة أبعاد مالية جديدة، فإن المستخدم (عادةً ما يكون شخصاً في دور المحاسب) سيتبع هذا الإجراء:
 

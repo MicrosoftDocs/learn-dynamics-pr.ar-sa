@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 77063413c31b33f33b3ed07bc8a5890e93d7f38f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 13c2b9639b75482f2c2e61b26bf8f177c88dcb2179d07d11baff09661e8dd697
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667793"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097987"
 ---
 تم التعاقد مع شركة USP2 لصنع عصير برتقال جديد بنسب الحجم التالية للخليط النهائي. سيتم نسخ المعادلة من المعادلة الحالية لـ P9500 ثم تحديثها كما هو موضح أدناه. يجب أن يحتوي الخليط على فيتامين ج وفيتامين أ محدثين وفقاً لتعليمات الخلط التالية، ويجب التخلص من فيتامين هـ. 
 

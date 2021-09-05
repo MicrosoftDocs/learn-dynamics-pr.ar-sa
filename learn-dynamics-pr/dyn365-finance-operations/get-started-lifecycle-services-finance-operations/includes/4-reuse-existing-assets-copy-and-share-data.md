@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3829169973228775e8a9dfdeceb38fa0d9e8308
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 5a5e80440ca01625f42d0760e6d351f6108e62a1a26b43cf75244c0c79511bd5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059172"
 ---
 مكتبة الأصول هي إطار عمل البيانات الذي يربط كل شيء معاً في مشروع Lifecycle Services (LCS) لتطبيقات Finance and Operations.  فهي تخزّن أنواعاً مختلفة من الأصول على مستوى المشروع أو المؤسسة.  يمكن نشر الأصول من خلال البيئات.  
 

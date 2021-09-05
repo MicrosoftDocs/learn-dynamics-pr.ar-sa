@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d5dea012a88f96e5226f606a8b2938825a6fad0
-ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+ms.openlocfilehash: fabb6ef37468678c1e05ad615394dba9eedeee4a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "6072669"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7346805"
 ---
 ويقوم التخصيص بتشغيل دور هام في السماح للمستخدمين والمؤسسات بتحسين تجربة المستخدم لتلبية احتياجاتهم. باستخدام وظيفة **طرق العرض المحفوظة**، يمكن للمستخدمين حفظ مجموعات متعددة من التخصيص.
 
@@ -71,6 +71,6 @@ ms.locfileid: "6072669"
 
 يمكنك تخصيص طرق العرض هذه بشكل أكبر كما هو موضح أعلاه. ومع ذلك، نوصي بحفظ التخصيص باسم مختلف. عند تحديث Supply Chain Management، ستتم الكتابة فوق التخصيص الخاص بك لطرق العرض هذه إذا لم يتم حفظها تحت اسم مختلف.
 
-راجع [طرق العرض القياسية المحفوظة لـ Supply Chain Management](https://docs.microsoft.com/dynamics365/supply-chain/get-started/saved-views-scm/?azure-portal=true) لرؤية القائمة الكاملة لطرق العرض المحفوظة المتوفرة.
+راجع [طرق العرض القياسية المحفوظة لـ Supply Chain Management](/dynamics365/supply-chain/get-started/saved-views-scm/?azure-portal=true) لرؤية القائمة الكاملة لطرق العرض المحفوظة المتوفرة.
 
 

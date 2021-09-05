@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7189a97e5b542ada283632baf572b081c7a8ca04
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 4a567c0716af655d204f97562e4dd15831750f3b425941b1d76589a9ce6d16c6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693278"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099023"
 ---
 تعمل التنبيهات كنظام إعلام لأحداث النظام الهامة. يمكنك استخدام الإعلامات لتتعرف على التكرارات التي تريد تتبعها. يمكنك إنشاء مجموعتك الخاصة من قواعد التنبيه ليتم إعلامك بالتسليمات الفائتة، والأوامر التي تم حذفها، وتغييرات الأسعار، والأحداث الأخرى التي تتطلب انتباهك.
 

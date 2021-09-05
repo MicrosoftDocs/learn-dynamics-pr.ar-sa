@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 55e408a22fefd16baaf33cb103513fdac7f7df91
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 63c3c37f13a49df142eeeb924a78d488d7a5f938df4b11cb90c3c02367702b7f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667512"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098171"
 ---
 يمكن أن يستند تخطيط النقل إلى الطلبات أو الشحنات التي تم إنشاؤها بناءً على تلك الطلبات.
 

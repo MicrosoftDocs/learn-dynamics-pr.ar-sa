@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a72dc40fdff64e8a65475a369a7a4ef737811e59
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 50ed2cd2c398ef8e0c4a46985b1865962a25e8778092aa4cc54afc917866da8a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124677"
 ---
 قد يتم تحديد أحد الموارد الذي يمثل اختناقاً أو تقييداً للمسار كأساسي في أحد المسارات وثانوي في مسار آخر.
 

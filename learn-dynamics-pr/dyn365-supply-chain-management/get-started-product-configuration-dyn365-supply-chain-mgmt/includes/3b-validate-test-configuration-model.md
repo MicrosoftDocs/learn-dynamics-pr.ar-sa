@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 17451f6dcc3d5194f88f9b7c87d45c4549e0fb16
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2864fb95d384332ecdb5cc7b06bf2b9973ba1f43351c1b6c46aa2b5f13b2c7f2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667569"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067349"
 ---
 بعد إضافة معلومات إلى نموذج تكوين المنتج، يصبح الوقت مناسباً للتحقق من صحة المعلومات وأنه يتم عرضها بتنسيق منطقي. وعند إجراء تصحيحات، يمكنك تغيير المعلومات في نموذج تكوين المنتج بعد التحقق من الصحة والاختبار. ويمكن إجراء التحقق من الصحة واختبار لنموذج تكوين المنتج بشكل متكرر عند تصحيح الأخطاء وتحسين المعلومات الموجودة في نموذج تكوين المنتج.
 

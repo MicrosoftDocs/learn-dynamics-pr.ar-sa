@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1795e64f122f52b191940f8b7085bedb28f80f05
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1a2639ce8449e0bc877116e6ada4eaea084c885d14e73ad11c08a079046d4cc1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668418"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108257"
 ---
 في هذا التمرين، ستقوم بتشغيل تقرير **الجرد المادي حسب أبعاد المخزون**.
 

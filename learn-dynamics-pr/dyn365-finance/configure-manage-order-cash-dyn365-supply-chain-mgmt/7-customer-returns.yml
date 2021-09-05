@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/sales-returns
-  ms.openlocfilehash: 844909fa856b088a03a309796820561ce2d6b47c
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: e425e00c9a7c426f44b09813bf857d0b67ef6323
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677236"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364931"
 durationInMinutes: 30
 content: >-
   [!include[](../includes/unit-banner.md)]

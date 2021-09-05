@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8862f383f88d5cada8c0409594d38a0a6919c2da
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7e1e482ee92cbd295a5a9212f58aa325fd6807389cc23d905d5deac2f3441807
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667900"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128891"
 ---
 لإعداد منتج هندسي، يجب تعيين فئة هندسية. وتشير الفئة إلى القيم والسياسات الافتراضية. تقوم كل فئة بتأسيس السلوك الافتراضي للمنتجات الموجودة في هذه الفئة. عند تعيين منتج إلى فئة، لا يمكن تغييره. ويكون الحل الوحيد لإزالة منتج من فئة هو حذفه ثم إعادة إنشائه في فئة أخرى.
 

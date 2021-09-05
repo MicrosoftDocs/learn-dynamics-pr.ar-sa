@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 619fa73411e5fe0fb744819dd65109bd8fec9011
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 83820490609650cd228d7ae14faa1103191cf6d1cb7a42a29608a93bd3bac19e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667241"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062790"
 ---
 عند إنشاء منتج هندسي جديد، سيحدد النظام ما إذا كان قد تم تكوين فحص الجاهزية لـ **فئة المنتج الهندسي**، كما هو موضح في [إعداد المنتجات ذات الإصدارات في الوحدة النمطية Dynamics 365 Supply Chain Management](/learn/modules/set-up-versioned-products-engineering-change-management/?azure-portal=true).
 

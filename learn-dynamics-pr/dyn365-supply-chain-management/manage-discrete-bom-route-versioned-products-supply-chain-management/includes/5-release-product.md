@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b00298f11d825fa023ee59a099cdcd316de8fbe5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a26c2b4a6714804cdb5799df3023e83c281c20220160996d0f38dc45b6321bd1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667244"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057465"
 ---
 والآن بعد قيام قسم الهندسة بتصميم المنتج، تكون جاهزاً لإصدار المنتج إلى الشركات التشغيلية التي تخطط لاستخدامه. عند إصدار المنتج الهندسي، تقوم أيضاً بإصدار قائمة BOM والأصناف التي تكون قائمة BOM والمسار.
 

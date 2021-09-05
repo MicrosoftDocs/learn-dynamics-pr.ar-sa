@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f121d81d77a0765456215a90cc133c8873b5ef1
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8e2fdf1009a8793557017642234c245d6673794b
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668455"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329795"
 ---
 
 
@@ -14,5 +14,5 @@ ms.locfileid: "6668455"
 
 | الموضوع | الرابط |
  | ------------- | ------------- |
- | نقل المواد من المواقع في المستودع إلى موقع إدخال الإنتاج| [نظرة عامة على التزويد](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/replenishment/?azure-portal=true) [والتحكم في عمل المستودع باستخدام قوالب العمل وتوجيهات المواقع](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/control-warehouse-location-directives/?azure-portal=true)|
- | إصدار BOM وسطور المعادلة| [إصدار BOM وسطور المعادلة إلى المستودع](https://docs.microsoft.com/dynamics365/supply-chain/production-control/releasing-bom-and-formula-lines-to-warehouse/?azure-portal=true)|
+ | نقل المواد من المواقع في المستودع إلى موقع إدخال الإنتاج| [نظرة عامة على التزويد](/dynamics365/supply-chain/warehousing/replenishment/?azure-portal=true) [والتحكم في عمل المستودع باستخدام قوالب العمل وتوجيهات المواقع](/dynamics365/supply-chain/warehousing/control-warehouse-location-directives/?azure-portal=true)|
+ | إصدار BOM وسطور المعادلة| [إصدار BOM وسطور المعادلة إلى المستودع](/dynamics365/supply-chain/production-control/releasing-bom-and-formula-lines-to-warehouse/?azure-portal=true)|

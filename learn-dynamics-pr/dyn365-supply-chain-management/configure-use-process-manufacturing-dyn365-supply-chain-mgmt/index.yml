@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: bff9f8cfc62a12fbe29a74ada4ce0e6dcf31b197
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 6efd91398a21d86bff1ff04a6371d30181fd235e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668023"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7355851"
 title: تكوين التصنيع التحويلي في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

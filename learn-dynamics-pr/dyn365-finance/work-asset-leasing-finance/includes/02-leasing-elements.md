@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 566fad55c11d4aa36c12e6387d6d98f51355a6d7
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: da75de4b632a6de367c1b76dd97ed9b4d248a4c784fa9776d8b7ffdaabaa1857
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677797"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093107"
 ---
 يوضح الرسم التخطيطي التالي عناصر إجراءات العمل لعقود الإيجار.
 

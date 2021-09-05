@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 938bf7dd9684e0d9995deef53fdbca39e83c60ef
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4a2eda9ceb67ddf5097ddee67fc0c0501a0aa0c27f6ddaa2ac80e26b89a8eab6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668447"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051704"
 ---
 عندما تقوم بتشغيل خطة يتم تشغيلها بواسطة وظيفة تحسين التخطيط، يمكنك عرض سجلات التخطيط والسجل. يمكن أن تكون السجلات مفيدة لمشاهده وقت بدء المهام وأية تحذيرات قد يكون تم إنشاؤها. 
 

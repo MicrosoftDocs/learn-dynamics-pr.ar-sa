@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 65c3e1032330b6313e069092a62fe461c7643353
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 9a38ec80254b010cd2ed29e46ea9a0978106ea2a13539c455195c034477f5b24
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072321"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142072"
 ---
 توضح هذه الوحدة الأصول وأوامر العمل في إدارة الأصول. تعد الأصول وأوامر العمل، إلى جانب مواقع العمل، هي مكونات مركزية لإدارة الأصول.
 

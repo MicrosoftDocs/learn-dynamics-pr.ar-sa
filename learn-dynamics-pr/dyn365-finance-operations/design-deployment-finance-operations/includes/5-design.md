@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bebbaf998441b099c1a11ce81c51941f2e017ec7
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 90fff41d0d6ae0952a2fe22df90434aee7e4a4be3d76a0d8494f5b0495f5ed47
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072268"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120544"
 ---
 
 تفيد القدرة على وصف وتحديد نقوش التصميم المناسبة وممارسات عمليات نشر الأكواد لكل مشروع، وستقوم بإعداد المشروع للنجاح مع دعم الميزات والإنتاج.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 80faa3baf497d40c26a6b16ab6fc5a45203d8bc9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a113d90dc79dde383c215df94d05722979a6102c22ff416f17a961b47a74a75d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667188"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046540"
 ---
 يمكنك العثور على طريقة عرض لجميع خطط الصيانة الوقائية المتوقعة والطلبات والدورات عن طريق تحديد **إدارة الأصول > عام > جدول الصيانة > كل جداول الصيانة**. 
  

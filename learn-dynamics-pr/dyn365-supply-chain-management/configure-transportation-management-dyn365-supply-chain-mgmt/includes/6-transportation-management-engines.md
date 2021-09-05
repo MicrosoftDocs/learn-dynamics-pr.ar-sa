@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a25a41f3cf6a639dc3f67e953a829f06a538109a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1d2b84910903ced1e99ce0ced35741811fbc021d8b8df90cdf928732ad361216
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668373"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078008"
 ---
 تحدد محركات إدارة النقل المنطق المستخدم لإنشاء معدلات النقل ومعالجتها في إدارة النقل.
 

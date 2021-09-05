@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e5fd7c2b0c460ccfdbbf17a548fbd45b417bdbd7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 741088ab2bbb3ff8419980fd76dc55a464f38d574f699b8832a20bbd5f32e2fd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667246"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046673"
 ---
 يمكن للشركة الهندسية المالكة إرفاق قائمة مكونات الصنف بإصدار منتج هندسي.
 

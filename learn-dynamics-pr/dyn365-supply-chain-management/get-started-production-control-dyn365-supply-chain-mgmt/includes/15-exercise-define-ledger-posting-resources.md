@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fddca8dc97736a1a90dc595ab519262f7d0e9d86
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b2508ba7cb98533df55a982a36b7f0fc6d8b274f686c0d8dcf057d0a1feaaae0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667406"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129328"
 ---
 ## <a name="scenario"></a>السيناريو
 إذا كنت ترغب في إنشاء فئة تكلفة جديدة بمعدل 15.00 دولاراً أمريكياً في الساعة لإنتاج الدراجات. يجب تعيين فئة التكلفة الجديدة لمجموعة موارد جديدة لإنتاج الدراجات. تتمثل مهمتك في إنشاء فئة التكلفة وربطها بحساب المصروفات المناسب وحسابات الأعمال تحت التنفيذ للترحيل، ثم ربط فئة التكلفة الجديدة بمجموعة موارد جديدة لإنتاج الدراجات.

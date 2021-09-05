@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b36e1ad8bb27df7a3d80bed12e4f88098bfe3e6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c880d557c54395a0e4a4b8d80cc2a1c0e85439f0
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668222"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7347638"
 ---
 في Supply Chain Management، يمكنك تكوين سعر المنتج باستخدام إصدارات التكاليف أو عن طريق تحديد الأسعار الأساسية يدوياً في علامات التبويب **شراء**، و **بيع**، و **إدارة التكاليف** في صفحة **المنتجات الصادرة**. 
 
@@ -55,7 +55,7 @@ ms.locfileid: "6668222"
 
 وفيما يلي أنواع إصدارات التكاليف الثلاثة:
 
--   **التكلفة المخططة** - استخدم إصدار التكلفة هذا للمنتجات التي تستخدم افتراض تدفق التكلفة ضمن التكلفة الفعلية ([الوارد أولاً يصرف أولاً‬ (FIFO)](https://docs.microsoft.com/dynamics365/supply-chain/cost-management/fifo-physical-value-marking/?azure-portal=true)، أو [المتوسط المرجح‬](https://docs.microsoft.com/dynamics365/supply-chain/cost-management/weighted-average-date/?azure-portal=true)، أو [الوارد أخيراً يُصرف أولاً‬ (LIFO)](https://docs.microsoft.com/dynamics365/supply-chain/cost-management/lifo-date-physical-value-marking/?azure-portal=true)).
+-   **التكلفة المخططة** - استخدم إصدار التكلفة هذا للمنتجات التي تستخدم افتراض تدفق التكلفة ضمن التكلفة الفعلية ([الوارد أولاً يصرف أولاً‬ (FIFO)](/dynamics365/supply-chain/cost-management/fifo-physical-value-marking/?azure-portal=true)، أو [المتوسط المرجح‬](/dynamics365/supply-chain/cost-management/weighted-average-date/?azure-portal=true)، أو [الوارد أخيراً يُصرف أولاً‬ (LIFO)](/dynamics365/supply-chain/cost-management/lifo-date-physical-value-marking/?azure-portal=true)).
 -   **التكلفة القياسية** - استخدم إصدار التكلفة هذا لتلك المنتجات التي تستخدم طريقة تكلفة التكلفة القياسية وجميع المنتجات الأخرى التي يتم تجميعها مباشرةً في قائمة مكونات الصنف القياسية المستندة إلى التكلفة.
 -   **التحويل** - استخدم إصدار التكلفة هذا عندما تقوم بتحويل منتج من طريقة تقدير تكلفة غير قياسية إلى طريقة تكلفة التكلفة القياسية.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 26ec46679401d5ea2fbb40f8d8b5537c1acbb35f
-ms.sourcegitcommit: b70360621a627d43da880ca9a2763cc2bdea821d
+ms.openlocfilehash: 541ee0b375b649c438ca922e6095ea3a9456e96b
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "6072371"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325517"
 ---
 يمكنك استخدام Microsoft Dataverse لتمكين تدفق البيانات بين تطبيقات Finance and Operations وDynamics 365 Sales وDynamics 365 Customer Service. ونظراً لوجود Sales وCustomer Service في Dataverse وتكامل تطبيقات Finance and Operations مع Dataverse، تتكامل تطبيقات Finance and Operations مع جميع أجزاء تطبيقات مشاركة العملاء، مثل Dynamics 365 Sales وDynamics 365 Customer service وDynamics 365 Marketing وDynamics 365 Field service، بالإضافة إلى Dynamics 365 Talent. 
 
@@ -22,7 +22,7 @@ ms.locfileid: "6072371"
 
 ![رسم تخطيطي لبنية النهج المتزامن لعمليات تكامل البيانات بين تطبيقات Dataverse وFinance and Operations.](../media/synch-arch.png)
 
-لمعرفة المزيد حول تكامل البيانات المتزامن، انتقل إلى [مزامنة الحسابات مباشرة من Sales إلى العملاء في Supply Chain Management](https://docs.microsoft.com/dynamics365/supply-chain/sales-marketing/accounts-template-mapping-direct/?azure-portal=true)، والذي يقدم مثالاً على التدفق النقدي المحتمل المستخدم لمزامنة البيانات من Sales إلى Dynamics 365 Supply Chain Management.
+لمعرفة المزيد حول تكامل البيانات المتزامن، انتقل إلى [مزامنة الحسابات مباشرة من Sales إلى العملاء في Supply Chain Management](/dynamics365/supply-chain/sales-marketing/accounts-template-mapping-direct/?azure-portal=true)، والذي يقدم مثالاً على التدفق النقدي المحتمل المستخدم لمزامنة البيانات من Sales إلى Dynamics 365 Supply Chain Management.
 
 لإعداد مشروع تكامل البيانات وإنشاء اتصال، اتبع هذه الخطوات عالية المستوى:
 

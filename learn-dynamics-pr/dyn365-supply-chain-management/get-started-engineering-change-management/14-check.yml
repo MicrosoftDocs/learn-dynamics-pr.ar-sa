@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-scm
-  ms.openlocfilehash: 4b9a80586bc063dcc249dbb94d215850bc771440
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.service: dynamics-365-supply-chain
+  ms.openlocfilehash: 6ea29fc6b5408c9c6f441ec13a646e23af0f3b3b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667579"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328905"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

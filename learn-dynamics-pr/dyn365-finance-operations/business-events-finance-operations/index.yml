@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0aac62e9796e4469044a15f97d41e87883e9c9f7
-  ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+  ms.openlocfilehash: 23dceb0932ce7ca3a64c63d774b0cc4a277e34e0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/27/2021
-  ms.locfileid: "6112081"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365069"
 title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8ab76a7f1547218ee08636eb32d4f4c955bb06e7
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 16fba86f7e401a1ed03af1ae9bf450461b89186fb180ebe82e55056256da997f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677745"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047587"
 ---
 تتضمن عملية إنشاء عقد إيجار جديد إدخال المعلومات الخاصة بعقد الإيجار، ثم إنشاء جدول عقد إيجار. وبعد إعداد عقد الإيجار، قد تجد أنه من الأسهل نسخ المعلومات من عقد إيجار موجود، ثم تحرير تلك المعلومات، حسب الحاجة، لإنشاء عقد إيجار جديد.
 

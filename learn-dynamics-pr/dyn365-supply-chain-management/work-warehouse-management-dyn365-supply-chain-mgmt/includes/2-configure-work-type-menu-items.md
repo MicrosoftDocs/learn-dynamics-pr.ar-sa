@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f5cccd2c0cac2d3364bf3e331a75d25e4dd8d22a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6d8bab8e61899c9ec493fc4518bd9cad47fa1421fd1713fc2bf0eaa3d6ee3a8a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668244"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077379"
 ---
 يمكنك إكمال العمليات التالية في الجهاز المحمول:
 

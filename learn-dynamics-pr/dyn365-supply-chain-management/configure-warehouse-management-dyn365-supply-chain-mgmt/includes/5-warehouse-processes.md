@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8081887c4397b05ca1194426862ae8932f82ec6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 02d499a0bb22507dd58042e3fe33bd61e771ba7f9188a1d5f6aba1fad09d27c4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668311"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135382"
 ---
 كجزء من تكوين المستودع، عليك تمكين عمليات المستودع وفقاً لمتطلبات العمل التجاري. أحد أهم المكونات التي يتعين عليك تكوينها هو قوالب الموجة وقوالب العمل وأوعية العمل وتوجيهات الموقع. 
 

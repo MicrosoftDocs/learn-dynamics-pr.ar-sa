@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c8ec7e4fe74304e461581eb8c2c0b7719eb18977
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 81bc4bcb92aafaf4611b7f460a5598b8decc722948bc64f53ccef30b355e2bb8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667574"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135059"
 ---
 يمكن الآن إصدار المنتج مرة أخرى إلى الشركة *USMF* ثم إرساله إلى العميل. لإصدار المنتج مباشرة من أمر التغيير الهندسي، اتبع الخطوات التالية.
 

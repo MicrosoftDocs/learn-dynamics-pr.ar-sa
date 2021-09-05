@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 497636138e3be211b5b388575e0de928a4552bb1
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: c7b83f3762fce89d35320fe96af4ee3f2616c929b7bc6178b2cf232d9a1e3bb9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6070433"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121865"
 ---
 وتقوم وظيفة ترحيل كشف الحساب في Dynamics 365 Commerce بنقل الحركة التجارية في Commerce من إحدى القنوات، وتكون عادةً نقطة البيع (POS) وتحويلها إلى عمليات ترحيل للحركات المالية وحركات العملاء وحركات المخزون. ستسمح العمليات المشتركة بين رفع البيانات من القنوات إلى عملية الترحيل بإبراز الوضوح في الحركات خلال اليوم. بالإضافة إلى ذلك، ستساعد الوظيفة على التأكد من أن عمليات إنهاء اليوم هذه تعمل بسلاسة. عند التعرف على المشكلات، يمكنك استخدام أدوات مثل الوظيفة الإضافية في Microsoft Excel لتصحيح البيانات. 
 

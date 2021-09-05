@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1650c3de1b1a9c76bc572cc4a6407419f3528fc0
-  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.openlocfilehash: 5f6b725ed34ce863afcef48c00c89b4c135addd4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/19/2021
-  ms.locfileid: "6072550"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335128"
 title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)] \nنظراً لكون تطبيقات Finance and Operations حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- إطار عمل القابلية للتوسع وكيف تعمل الملحقات.\n- الطرق المختلفة لتخصيص التطبيق.\n- طرق مختلفة لتنفيذ ملحق التعليمات البرمجية.\n- كيفية إرسال طلب قابلية التوسعة.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7b1f4b217dfed40f68c5bce10da42e0e134b841b
-ms.sourcegitcommit: fad7e19f41ef8a36544e4479ca7dca6653d218d6
+ms.openlocfilehash: 3a262d3f41fe68808b8fe6c4befab28d78cda9e89e93bf07aa3185502ee9a355
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "6070475"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121801"
 ---
 قد يرغب موظفو المتجر في نقل بعض مخزون متجرهم خارج متجرهم وإرساله إلى مستودع آخر (إما مركز توزيع أو متجر آخر).  قد يكون هذا النقل ضرورياً في السيناريوهات التي يحتوي فيها المتجر على مخزون زائد يمكن أن يستخدمه موقع آخر. يمكن لموظفي المتجر بدء هذه العملية عن طريق إنشاء أمر التحويل أولاً من خلال عملية **المخزون الصادر** في نقطة البيع.
 

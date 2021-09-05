@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3ed99c7734e15040f2314006cf4d0d178903e5a
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 95f997f7341a18bd80b5a834f6e5502220f52183
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6185156"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7357877"
 ---
 يتكامل Dynamics 365 Human Resources مع Microsoft 365 وغيرها من أنظمة الموارد البشرية الأكثر استخداماً، بما في ذلك كشوف المرتبات وإدارة المواهب والتوظيف وLinkedIn لمركزة برامج الموارد البشرية الخاصة بك.
 
@@ -35,4 +35,4 @@ ms.locfileid: "6185156"
 > [!div class="mx-imgBorder"]
 > [![مثال على تطبيقات شركاء Microsoft AppSource للموارد البشرية](../media/partner-apps-ss.png)](../media/partner-apps-ss.png#lightbox)
 
-لمزيد من المعلومات، راجع [اختيار تقنية تكامل البيانات](https://docs.microsoft.com/dynamics365/human-resources/hr-admin-integration-choose-technology/?azure-portal=true).
+لمزيد من المعلومات، راجع [اختيار تقنية تكامل البيانات](/dynamics365/human-resources/hr-admin-integration-choose-technology/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 02d8cafaed805f9a3299117fe6dd211dc5069a62
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 621a3942ac3707b79019a6ed856b523a0c2c7ea108def078e6b87221ff0d7687
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667313"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108362"
 ---
 تساعد أنواع طلب الصيانة في تحديد طلبات الصيانة وتصنيفها وتصفيتها. يمكنك إعداد نوع طلب لتحديد طلب الصيانة الوقائية، مثل تغيير الحزام المجدول بانتظام مقابل طلب تصحيحي، مثل عطل أو إصلاح عطل. يمكن بعد ذلك إقران نوع طلب الصيانة بنموذج دورة حياة طلب الصيانة، والذي بدوره يحدد تدفق حالات دورة الحياة التي يمر بها الطلب. 
 

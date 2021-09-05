@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 683db1fb278ca620dcf13f8ca3c00e6ae41a7395
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f4c887838435ec9b90535c272d5ac48945b44906c71fb113325d78fd17c3b4cb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667618"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092033"
 ---
 > [!NOTE]
 > قبل أن تبدأ هذا التدريب، يجب أن تكون قد أكملت التدريب السابق، **إنشاء قاعدة تعاقد من الباطن قائمة على النشاط**.

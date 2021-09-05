@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac0ebb3b5b832bc8fab82e493601d5db2bb16e7d
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 0a5aa84482dfbc3914d923a351051df929d9fd088763c9c445e03aa2bd29a9ba
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693270"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098985"
 ---
 تمنح إدارة الحالات في Dynamics 365 Human Resources المنظمات القدرة على تخطيط قرارات فعالة وتتبعها وتحليلها وتطويرها. تسمح لك إدارة الحالات بإعداد إدارة الحالات التي قد تكون مشابهة بحيث يمكنك توفير حلول متسقة عبر مؤسستك. على سبيل المثال، يمكنك إعداد إدارة حالات للسيناريوهات التالية:
 

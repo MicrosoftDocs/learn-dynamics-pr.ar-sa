@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 674149b9b7fd9de1172ba48fdb0b90933e8d3000
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 071df64cbdf8c94a89712ac10c9e43c7822bdc64
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667374"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7350325"
 title: إعداد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nلاستخدام مكونات الصيانة لإدارة الأصول في مؤسستك لـ Dynamics 365 Supply Chain Management، يجب أولاً إعداد إطار العمل. ستوضح هذه الوحدة كيفية تكوين طلبات الصيانة وأنواع الطلبات وحالات دورة الحياة وإنشاء مسؤوليات عامل الصيانة.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين طلبات الصيانة.\n- قم بمراجعة كيفية إعداد حالات دورة حياة.\n- تحديد كيفية إنشاء أنواع طلب الصيانة.\n- إنشاء مسؤوليات عمال الصيانة في إدارة الأصول. \n"

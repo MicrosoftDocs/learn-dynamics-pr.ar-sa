@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ec0767705106696d38140734ad28a02d2e4a312
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 27234bd00544d3f3e2d8dca65a87aba5f139c0cdc64d6890332938a1bbc945d5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667111"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098274"
 ---
 المواقع هي أبعاد تخزين المخزون ويمكن ربطها بإطار عمل الأبعاد المالية لتكامل دفتر الأستاذ العام. يجب إنشاء موقع واحد على الأقل لكل كيان قانوني في Supply Chain Management، ويجب أن تشير جميع الحركات إلى موقع. لا يمكن مشاركة موقع واحد بواسطة كيانات قانونية متعددة. يمكن للشركة إنشاء عمليات لوجستية في مواقع متعددة لأسباب عديدة.
 

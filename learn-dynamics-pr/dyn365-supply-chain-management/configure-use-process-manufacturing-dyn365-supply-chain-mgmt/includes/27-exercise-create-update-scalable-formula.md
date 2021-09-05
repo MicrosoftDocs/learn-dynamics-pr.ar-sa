@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 72e2a364bc94d4ec051595c81bc0ce78bebaac98
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9b05bb90c2ec5ab42ef51e7a0659315fd2e5983606450e3c3bef9b3ffb100620
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668237"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077884"
 ---
 حصل مصنع التصنيع الخاص بك على خالط جديد يبلغ حجمه 1.5 مرة حجم الخالط الحالي المستخدم لصنع الجزء P9500 في شركة USP2.
 حددت الهندسة أن مركبات الفيتامينات لا تحتاج إلى زيادة في الكمية، لكن المكونات الأخرى تحتاج إلى ذلك. 

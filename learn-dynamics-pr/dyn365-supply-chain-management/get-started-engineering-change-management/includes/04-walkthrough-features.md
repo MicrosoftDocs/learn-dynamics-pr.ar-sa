@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f108b650feef02a25c3dfb1368d5e758717f7f9a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1673b7bd5122094724a452e4ffc27184632fff22d4856f9780ebc974bb4dfae3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062964"
 ---
 توفر التمرينات في الوحدات التالية جولة تفصيلية شاملة توضح كيفية العمل مع إدارة التغيير الهندسي. وتمر بكل من أكثر السيناريوهات أهمية:
 

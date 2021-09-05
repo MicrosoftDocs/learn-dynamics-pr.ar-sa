@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 19101d2aeef9a602290ddcb58c23e80f95d8be5e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d9ebd39453ba2d0398b66d5471444e39f36f1f487bfb11b95475157035676051
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667696"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139351"
 ---
 الأصول عبارة عن الممتلكات المادية والموارد التي تمتلكها مؤسستك وتُستخدم في عملياتها اليومية. ومن أمثلة الأصول المستخدمة الشاحنات والرافعات الشوكية وماكينات الإنتاج مثل السيور الناقلة ووحدات التبريد والماكينات الأخرى.
 

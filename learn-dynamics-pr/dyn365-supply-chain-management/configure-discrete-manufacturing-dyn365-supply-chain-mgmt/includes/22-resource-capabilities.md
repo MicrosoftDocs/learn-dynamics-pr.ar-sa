@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 80ac5a841bc87686906bb8464fa6ed3dc43a22ec
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d26b0a5f73dfe45a393293d36e875d7b119fa1796e824068161d1b731627c012
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668003"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081784"
 ---
 تُعد الخطوة التالية في العملية هي إنشاء القدرات الإنتاجية للموارد التي تصف ما يمكن أن تحققه الموارد. عندما تقوم بتصميم مسار، يمكن التعبير عن المتطلبات التي تحتاجها الموارد لتنفيذ العمليات المختلفة في المسار كمجموعة من قدرات الموارد. ويسمح هذا بتأجيل توزيع الموارد حتى تتم جدولة الإنتاج.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5a61640c5e7eece75dcafaee6b37532899c86add
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c84e2a4a5845185506964769a20bb8b573fa3efd0f0b21a88295e6068ba62ecd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667471"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108170"
 ---
 في هذه الوحدة النمطية، تعرّفت على كيفية تكوين الأجهزة المحمولة، وإنشاء أصناف قائمة للأنشطة والاستفسارات (للعاملين أو العملية)، ومعالجة العمل الحالي.
  

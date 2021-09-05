@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7c5160507654d5556d4ee0a2b080089291e019ad
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ae290502124a7578ea08af3ab52eec3e756bce34f75b795d92e2d7a7d3fa2f0d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046321"
 ---
 للتعامل مع مواقع العمل، يجب إنشاء موقع عمل أساسي لاستخدامه فقط في الغرض من إنشاء أصول جديدة.
 

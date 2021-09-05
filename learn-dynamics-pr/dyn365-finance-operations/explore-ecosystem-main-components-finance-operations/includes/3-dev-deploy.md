@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f45e9cb766911f5f3bf12e4cf549c67da336ff58
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: d552aa3b4c5970211c28434f0408c2867d18cce2aa3e953f0e7897c3d7b80346
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072303"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130873"
 ---
 حزمة AOT هي وحدة توزيع وتجميع لواحد أو أكثر من النماذج التي يمكن تطبيقها على بيئة تطبيقات Finance and Operations. يمكن أن تتكون الحزمة القابلة للتوزيع من عدة نماذج تحتوي على بيانات التعريف والثنائيات والتقارير والموارد الأخرى. تُستخدم الحزمة القابلة للتوزيع لتوزيع التعليمات البرمجية والتخصيصات في بيئة الحماية والاختبار وبيئات الإنتاج للتطبيق.
  

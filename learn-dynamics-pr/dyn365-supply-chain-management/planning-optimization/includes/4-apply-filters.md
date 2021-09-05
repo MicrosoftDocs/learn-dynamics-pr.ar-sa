@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0c3c3028237758fe675d15587d6ddfd2ac4f656f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c53b7cd3d1a3c115e71faa856823e29936d8607cfe967e9085d5e849992f110b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667741"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129013"
 ---
 عند استخدام "تحسين التخطيط"، يمكنك تطبيق عامل تصفية على خطة. سيجعل عامل التصفية الخطة تقتصر على مجموعة محددة من العناصر ويضمن عدم تضمين أي عناصر أخرى كجزء من الحسابات. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d9f047040e307d41f062787b94561c337e568618
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a0d8d4a471d86e75a7c1d4e9c2c13007ab75e7a65357abc30d27791c4107f89b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667589"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067674"
 ---
 قاعدة كانبان هي سياسة تخطيط وتزويد بالمواد تتحكم في أنشطة المعالجة والتحويل التي تستند إلى بطاقات كانبان. تحدد قاعدة كانبان الطريقة التي يتم بها إنتاج أحد الأصناف أو نقله وتربط الصنف بالأنشطة داخل تدفق الإنتاج.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3d95a3905b4be7bb8430c7c8dcf8ccd460678778
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: dc8041f7c25e41b19bad58bce2e0cb167d6c1ceb102b576df8487981f7edc2c7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070339"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7079886"
 ---
 لهذا التمرين، ننصحك باستخدام بيانات العرض التوضيحي في الشركة **USRT**.
 

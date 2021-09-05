@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8ffa3ad0ea5026e4a43a264d1e21809e7f1f55ec
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1c0433e4539e26383280c4aab92636da6eb9d757205912a37708009248dd34a8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667295"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077844"
 ---
 استخدم حساب **التحكم في تاريخ أمر العمل** للحصول على نظرة عامة حول تواريخ البدء والانتهاء المتوقعة مقارنة بتواريخ البدء والانتهاء الفعلية لأوامر العمل.
 

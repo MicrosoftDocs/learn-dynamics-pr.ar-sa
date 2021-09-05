@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0087e0e976295e3a112bf2984ab8d0fd9c3d161a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ae39d4878a2d23a09dd81a1970ea7f25f58b711c6abcbf327171681952701a6e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668449"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062608"
 ---
 التأكيد التلقائي هو عملية إصدار أمر مخطط وتحويله إلى أمر شراء أو أمر تحويل أو أمر تشغيل. باستخدام "تحسين التخطيط"، يمكن تأكيد الأوامر المخططة أثناء تشغيل الخطة عندما يكون التاريخ ضمن نطاق الحد الزمني للتأكيد. 
 

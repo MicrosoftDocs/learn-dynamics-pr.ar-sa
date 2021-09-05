@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74f3b52c4d996013e554e466ae4a2e18f4592668
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1733bed7890341d59398e7ce4d3e884cda409c1f632ea2f8fda4a1b884618188
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668443"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134831"
 ---
 إذا قمت بإنشاء خطة رئيسية تستخدم وظيفة تحسين التخطيط، يمكنك استخدام توقع الطلب للتخطيط للطلب المتوقع. 
 

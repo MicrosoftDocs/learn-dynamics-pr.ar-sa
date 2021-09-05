@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 10783445e5bfc219c0460b329ad8ec5eeb07a3c2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e3e0690d1a26b750e48bf663789db8c6f7448a976abfc966e3ff588b98ec11e8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668101"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139945"
 ---
 المستودع هو مكان يمكنه تخزين الأصناف. يجب وضع جميع الأصناف التي يحسبها النظام في المستودع. نظراً لإعداد العديد من المعلمات والسياسات لكل مستودع، يمكنك التحكم في عمليات المستودع والتمييز بينها من خلال تحديد عدة مستودعات.
 

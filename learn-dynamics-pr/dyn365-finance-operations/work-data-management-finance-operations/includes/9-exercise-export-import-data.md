@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 66b8c4636c04b15f4ad3132ae73f63c2124f14bb
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: 2a4b94b93b72cc0e9be273f99bd031bcb6709dee63e416ad1e1e841d9ec3138e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072636"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068853"
 ---
 ## <a name="scenario"></a>السيناريو
 في هذا التمرين العملي، ستقوم بتصدير البيانات من الكيان **جميع العملاء** باستخدام مساحة العمل **إدارة البيانات**. 

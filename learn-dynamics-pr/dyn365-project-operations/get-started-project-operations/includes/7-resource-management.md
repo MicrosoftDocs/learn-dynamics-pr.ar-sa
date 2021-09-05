@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5efd200afdbd990ae9a8917c9954b3bf83e13395
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 014d3bdfe8aad814e7fa47f0c9a228a16b710b36
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7358613"
 ---
 الموارد هي الأصل الأكثر أهميه في المؤسسة القائمة على الخدمات. إن إمكانية العثور على الموارد المناسبة في الوقت المناسب، وحجز تلك الموارد في المشروعات والاحتفاظ بها مستخدمة، تساعد المؤسسة على تحقيق أهداف الإيرادات وأهداف رضا العملاء. 
 
@@ -130,6 +130,6 @@ ms.locfileid: "6072908"
 
 يمكنك إنشاء المهام ثم تعيين موارد عامة لها. يمكن بعد ذلك تمثيل طلب الموارد بواسطة عناصر نائبة أثناء تقدير جدولك الزمني والأرقام المالية. كما يمكنك بعد ذلك إنشاء متطلبات الموارد للموارد العامة وتحقيقها.
 
-تعرّف على المزيد حول إدارة الموارد في [البدء في العمل باستخدام إدارة الموارد في Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-project-resource-management//?azure-portal=true).
+تعرّف على المزيد حول إدارة الموارد في [البدء في العمل باستخدام إدارة الموارد في Dynamics 365 Project Operations](/learn/modules/get-started-project-resource-management/?azure-portal=true).
 
 

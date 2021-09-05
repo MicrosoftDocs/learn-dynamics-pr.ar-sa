@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 60b141aec7ad652dcc5bbd89cfac39f82a0a675d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fc599265abec940815f848f67b8d5c3c68fc449f2df77796d30f19d80446ef5a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677708"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078698"
 ---
 > [!NOTE] 
 > يجب تنفيذ تدريب هذا المعمل في إطار متابعة تدريب المعمل السابق. 

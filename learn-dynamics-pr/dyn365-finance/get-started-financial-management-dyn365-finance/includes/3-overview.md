@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c8dd776dcf00a73bac4686c51e17edc2418c91bf
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 09ee616c51b04299e17aac6cd921203ab20fb22f1d5fab58b739ff03f833139f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677753"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105105"
 ---
 
 يوجد هدفان لنظام إدارة مالية نموذجي في أي شركة هما:

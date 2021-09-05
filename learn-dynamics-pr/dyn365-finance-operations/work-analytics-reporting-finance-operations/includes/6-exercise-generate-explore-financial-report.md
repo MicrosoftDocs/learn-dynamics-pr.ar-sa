@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c7cfa2dcc9a0e7bb2f1bbc51190724dc3fd1e45
-ms.sourcegitcommit: b6667823491268904098eaf65e4f446f32a2b0c5
+ms.openlocfilehash: f1bd77bb5c230ddb7875d5095d08f5abffdd18578facf9b9fdf0f94fb3143c0e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "6072567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136555"
 ---
 ## <a name="scenario"></a>السيناريو
 تحتاج إلى إنشاء تقرير مالي افتراضي موجود واستكشافه. يتضمن التقرير كافة الحسابات ويحتوي على خصائص الحساب (السمات) الخاصة بالحسابات. ستتصفح تفاصيل الحركة وستقوم بتطبيق عامل تصفية بُعد وتغيير العملة في التقرير. 

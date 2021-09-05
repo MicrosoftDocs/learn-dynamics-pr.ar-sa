@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 913d1f72367af037af6e93834aabbd4e090a008f
-  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.openlocfilehash: 2035a1a9ab37f7ea748ce18f16603101b3183e9c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2021
-  ms.locfileid: "6070520"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361610"
 title: إنشاء الحركات في نقطة البيع في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيمكن تنفيذ الحركات في نقطة البيع (POS) في Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- أنشئ حركات الدفع نقداً والاستلام فوراً لعميل عابر.\n- أنشئ أمر عميل.\n- قم بإلغاء الحركات وإرجاعها.\n- قم بتعليق حركة واستدعائها. \n- تعامل مع الأصناف المتسلسلة. \n"

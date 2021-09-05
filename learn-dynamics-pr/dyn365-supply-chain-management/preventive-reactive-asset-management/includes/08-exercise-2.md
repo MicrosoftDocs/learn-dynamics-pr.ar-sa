@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b601337e959702546ea38793a105820803885a8b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 74f343cf3b519a0eb67486520f4bacf5d11a439bc2c075bf7b7edf9505d9ffe9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667390"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077595"
 ---
 لقد تمت مطالبتك بتعديل جدول الصيانة. وينبغي أن تقوم بإزالة صنف واحد تمت جدولته للصيانة وتغيير تاريخ بدء صنف آخر تمت جدولته للصيانة وإنشاء أمر عمل لبعض الأصناف الأخرى.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a46cd58e60f7cf4591143e2df109241759a483e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1580eb3bb7697c2d2833ca69836793622a26f07cc5a271f46f7878fc9b85efab
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135012"
 ---
 توضح هذه الوحدة النمطية المفاهيم المستخدمة في الوحدة النمطية للتحكم في الإنتاج في Dynamics 365 Supply Chain Management.
 

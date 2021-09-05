@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9514828c7b3ab3e0e0a0841a702281e61929faad
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 126ec2d7c06146d6c3770cfa514c474e4df44b853efcd1a8ba825663f99a78e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667938"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086611"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 لتحقيق الاستفادة القصوى من التمارين في هذه الوحدة النمطية، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).‬

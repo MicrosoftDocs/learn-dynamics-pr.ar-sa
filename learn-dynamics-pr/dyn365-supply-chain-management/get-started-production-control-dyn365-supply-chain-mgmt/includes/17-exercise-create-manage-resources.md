@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c9c855f70053c3a112595a13f45e90a377ac06ba
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 075c801043b951fe25a8f04717f90dcbffe3590f9db293b1983291e6d14492f2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667560"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062916"
 ---
 ## <a name="scenario"></a>السيناريو
 اشترت شركة **USMF** روبوت تعبئة جديد لورشة تعبئة مكبر الصوت الخاصة بهم. سوف يقلل روبوت التعبئة من الحاجة إلى العمل اليدوي في ورشة تعبئة مكبرات الصوت. لذلك، يمكن إعادة تعيين بعض العمال من هذه المجموعة لأداء أعمال أخرى حيث يصبح روبوت التعبئة الجديد جاهزاً للعمل بشكل كامل.

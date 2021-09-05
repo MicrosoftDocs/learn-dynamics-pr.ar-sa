@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 62f7e4decb7c702b3eeb969ecbe5cf9be1525b26
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 45f3852cef6b627425044c98f4c53880aeccd1fc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667134"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7359598"
 title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

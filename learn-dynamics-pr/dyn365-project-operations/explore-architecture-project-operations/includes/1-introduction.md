@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 94535a5ed8a47aa8c2e2de0bc9f9289caed65d21
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: f9d0ebc1a77c7388c4c332260cde67331aab7606b9b3656ce12950607e95c08d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083807"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098903"
 ---
 يتكامل Dynamics 365 Project Operations مع حل إدارة قوائم المشروعات Microsoft Project Portfolio Management وتطبيقات Microsoft وحلول الصناعة الأخرى:
 

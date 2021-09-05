@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6cd02779fa473d9af2c2c566a9b362cc522a9d8f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4af5d9b470d3a85e11a34bf828dd210b8df9fe3e12e83df56c5c74ce984dd075
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668320"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098053"
 ---
 
 ## <a name="set-up-action-policies"></a>إعداد سياسات الإجراءات

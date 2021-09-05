@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 98b20533bd842e3338b3b28c3d301e1eaf9feee8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 56dbcc2380503cbdcb35be70c5883ff9fbe16c705d893873e607bd2d440efcd6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668126"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062433"
 ---
 سيكون لجميع المنتجات دورة حياة، بداية من تاريخ بدئها وإلي استخدامها النشط وحتى نهايتها. عند إعداد هذه الحالات، ستحدد الحركات وأوامر المبيعات وأوامر الشراء وأوامر الإنتاج وما إلى ذلك، التي تم تمكينها وحظرها.
 

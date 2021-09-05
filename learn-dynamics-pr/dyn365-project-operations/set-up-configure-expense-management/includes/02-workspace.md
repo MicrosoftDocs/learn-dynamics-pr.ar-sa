@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5a4520ff4aefe9fdf9a4cce876c0c323e31672e9
-ms.sourcegitcommit: 6e67ff1cc2162a1e9aa920f83b2a9b66306b2d0e
+ms.openlocfilehash: 658f5970a9196ec2af2474c30b0d1be5ce64a6ac567f5cb1b3d8cb44abab07a7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "6072864"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074308"
 ---
 تم تصميم إدخال تقرير المصروفات لتبسيط عملية إكمال تقارير المصروفات. تعد مساحة عمل **إدارة المصروفات** الموقع الرئيسي للمستخدمين لتقديم المصروفات إلى مؤسساتهم. تعد مساحة عمل إدارة المصروفات موضعاً شاملاً واحداً لتقديم تقارير المصروفات. يمكن تمكين مساحة العمل هذه والعديد من الميزات الأخرى من خلال الوحدة النمطية **إدارة الميزات** في Dynamics 365 Project Operations.
 

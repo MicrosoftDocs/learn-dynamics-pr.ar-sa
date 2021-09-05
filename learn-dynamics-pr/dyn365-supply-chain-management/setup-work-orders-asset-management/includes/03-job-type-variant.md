@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c72f1da0d78a980961378b86994d9d0d87794e6b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ce17a25a032814a72d14ecdf9ff089bf32d93d940001d6d78b9f6badb93a5b0c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667894"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108323"
 ---
 تحدد متغيرات نوع مهمة الصيانة التنويعات المرتبطة بنوع الوظيفة. يمكن أن تشمل هذه المتغيرات الأحجام (صغيرة أو متوسطة أو كبيرة)، والفترات (شهرية، وربع سنوية، وسنوية)، والمسافة المقطوعة (10000 ميل). عندما تقوم بإنشاء متغير نوع مهمة صيانة، يمكنك ربطها بأنواع مهام الصيانة. 
 

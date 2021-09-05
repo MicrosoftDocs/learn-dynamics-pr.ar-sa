@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 553d959fb60b9ec87a876dc23c14fca240bf0e81
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 282cec19c8e9431dc0226685c5c1bf770948a2bacfdd394b6f738bc63a767963
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077438"
 ---
 في إدارة الأصول، يمكنك استخدام مصمم الخطأ لإنشاء أعراض الأخطاء ومناطق الأخطاء وأنواع الأخطاء لإدارة الأخطاء المختلفة التي يمكن ان تحدث في أنواع الأصول. بالإضافة إلى الكشف عن الأخطاء، يمكنك أيضاً تحديد الأسباب الخاطئة وعرض اقتراحات لإصلاحها في أمر العمل.  
 

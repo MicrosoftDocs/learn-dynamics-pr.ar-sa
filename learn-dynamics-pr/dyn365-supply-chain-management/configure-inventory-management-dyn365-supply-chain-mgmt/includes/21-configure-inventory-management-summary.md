@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bf9622c8c3dd8f54a506239c0f749f2fda85664d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 76457c1ce6f5d2f4a5e1f57ad276daaaf32b5ed1f56865c8b19963797cc0c4fa
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668346"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098286"
 ---
 في هذه الوحدة النمطية، تعلمت أن الأرقام التسلسلية والدُفعات توفر للشركات القدرة على تتبع منتجاتها من خلال النظام.
 

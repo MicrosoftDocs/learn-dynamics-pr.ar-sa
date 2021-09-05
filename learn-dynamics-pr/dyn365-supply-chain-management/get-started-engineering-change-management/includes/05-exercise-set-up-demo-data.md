@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2decc9411d24ba1ec319bcc45a32808a4d8c6893
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b4e7025cafc6f77dead8ec45ef50fc18fa758595
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667423"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7330947"
 ---
 لمتابعة السيناريو الذي ستستخدمه في التمارين الآتية، يجب أولاً إعداد الميزة عن طريق توفير بيانات العرض التوضيحي وإضافة بعض السجلات المخصصة.
 
@@ -14,7 +14,7 @@ ms.locfileid: "6667423"
 
 وتعامل مع نظام يتم فيه تثبيت بيانات العرض التوضيحي القياسية. وتعمل بيانات العرض التوضيحي القياسية على إضافة بيانات إلى العديد من الكيانات القانونية للعروض التوضيحية (الشركات والمؤسسات). وفي أثناء العمل خلال التمارين، ستستخدم منتقي الشركة في الجانب الأيمن من شريط التنقل للتبديل بين إحدى الشركتين وهي *DEMF‎* التي تم إعداداها *كمؤسسه هندسية* وشركة أخرى وهي *USMF‎* التي تم إعداداها *كمؤسسه تشغيليه*.
 
-لقراءة المزيد حول إعداد نظام يتضمن بيانات عرض توضيحي راجع [توزيع بيئة العرض التوضيحي](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment/?azure-portal=true). يمكن للمسؤول مساعدتك على إعداد النظام.
+لقراءة المزيد حول إعداد نظام يتضمن بيانات عرض توضيحي راجع [توزيع بيئة العرض التوضيحي](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment/?azure-portal=true). يمكن للمسؤول مساعدتك على إعداد النظام.
 
 ## <a name="set-up-an-engineering-organization"></a>إعداد مؤسسة هندسية
 

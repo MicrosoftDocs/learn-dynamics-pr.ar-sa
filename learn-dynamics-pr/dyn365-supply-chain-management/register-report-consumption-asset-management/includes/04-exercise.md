@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 97e9374543a307e818f82e6b553d42e2c128def9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 229d257782e5e20d24789f6b676e70420ea3b8b60f14bce65f37d09b3ce98f93
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667456"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062549"
 ---
 تمت مطالبتك بإنشاء تقرير استهلاك الأصول لعام 2019، والذي يعرض نوع أمر العمل ونوع الوظيفة.
 

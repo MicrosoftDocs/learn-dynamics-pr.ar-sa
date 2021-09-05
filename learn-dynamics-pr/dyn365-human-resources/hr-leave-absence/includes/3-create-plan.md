@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6c788c7e11740e0ae14e4b613e6335cbecc84cb0
-ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+ms.openlocfilehash: e7573cfe471ef9d8744a604b2a899ac54075774a2ebdac138023205922def0e3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6214428"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099161"
 ---
 يمكنك تحديد خطط الإجازة والغياب في Dynamics 365 Human Resources لكل نوع إجازة تقدمه. يمكن أن تتراكم خطط الإجازات والغياب بترددات مختلفة، مثل سنوياً أو شهرياً أو نصف شهرياً. يمكنك أيضاً تعريف الخطة على أنها منحة، حيث يحدث استحقاق واحد في تاريخ محدد. على سبيل المثال، يمكنك إنشاء خطة تمنح إجازات عائمة سنوياً.
 

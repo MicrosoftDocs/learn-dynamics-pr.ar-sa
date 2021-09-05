@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc715327f7c52082dbd1fa91a684b9a956180d15
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 405b3be5b005f23c926b800d7dcf03b3bf15575d442d1f0a87758567c5bd7f2c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108263"
 ---
 ستقوم في هذا التمرين بتصدير تقرير، وتصفيته للتحقق من صحة المعلومات مقابل الوثائق الداعمة. ستستخدم تقرير **الجرد المادي حسب أبعاد المخزون** لهذا المثال.
 

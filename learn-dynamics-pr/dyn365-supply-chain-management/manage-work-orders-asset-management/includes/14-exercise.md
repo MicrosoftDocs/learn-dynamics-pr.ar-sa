@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2b1d7edcddf036e67cd62a7c12ade2a97090c6d8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3adbcec756f55074a8c23a2f0080e408064e7724aa8407fb8d43a7165ff60300
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668288"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129060"
 ---
 تستخدم هذه التدريبات شركة USMF، Contoso Entertainment USA.  
  

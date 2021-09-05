@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: da751d9f89219b62c29ce6b25f7f01c90a78482b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ef9440219e4c4a90568273dd71c46404f3862b7279adc632df84d1d956116fdf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668378"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092039"
 ---
 
 يغطي تحديد تكاليف الإصدار التلقائي في Supply Chain Management المهام التالية:

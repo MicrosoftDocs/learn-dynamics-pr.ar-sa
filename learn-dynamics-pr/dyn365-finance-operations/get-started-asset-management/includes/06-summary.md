@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8f025a2087ce8c2296a7758d0ae6f66587096f21
-ms.sourcegitcommit: c23f80e4732f19cd5136470607376672a2219ddb
+ms.openlocfilehash: 33fb9ee3b6fc5d1893d166d8666e82982923cc9f1522dcdd612202314daa2ebc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "6072106"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142055"
 ---
 تُعد "إدارة الأصول" وظيفة إضافية لإدارة Supply Chain Management التي توفر لمؤسستك القدرة على الإدارة والتنفيذ بشكل فعال للمهام المرتبطة بتعقب الأصول ذات القيمة بمؤسستك وصيانتها. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b78e3b563225454879ed65a0380b61e35ec0a3b1
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 03eeb37c3ec65409b1132e4e13e9fc991ab90620568ac080439415aed6c9e166
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667129"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108625"
 ---
 تتيح لك ميزة توزيع البضائع المخططة نقل المخزون الوارد لأمر موجود مباشرةً إلى منطقة التوزيع أو منطقة التدريج الصادرة. إذا لم يكن المخزون ضرورياً للأوامر، فسيتم توجيهه إلى موقع التخزين الصحيح من خلال عملية الإيداع العادية. تقلل هذه العملية من لمسات المخزون والوقت والمساحة في المستودع.
 

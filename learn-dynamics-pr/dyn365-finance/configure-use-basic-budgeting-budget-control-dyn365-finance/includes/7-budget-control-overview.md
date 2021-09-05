@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f9ff891532942069032fc2650ac33b1006078d6
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f3d43367121d73ffd5a3f9ee505133618aa7934c8473095f9119113917f4eb12
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677395"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109561"
 ---
 يساعد التحكم في الموازنة في Finance على إدارة الموارد المالية. يُعتبر التحكم في الموازنة أسلوباً لضمان توفر أموال كافية بالموازنة لعمليات الشراء المخطط لها أو الفعلية. بعد إعداد الموازنة الأساسية، يمكنك إعداد لتحكم في الموازنة.
 

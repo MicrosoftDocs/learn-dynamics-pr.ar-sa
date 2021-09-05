@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c9f8858884204e67d8cf501388aa909e1aa400b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c6d8a25fa3047821fabdd58672a8f77c253feecb99435d961cc66d7781453f72
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668090"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139293"
 ---
 تشير نماذج دورة الحياة إلى مهام سير العمل، ويتم تحديد حالات دورة الحياة في نموذج دورة الحياة بترتيب تسلسلي. يتم إعداد نماذج الحياة في أنواع أوامر العمل، والتي تحدد حجم أو حدود مهام سير العمل وعمليات العمل. 
 

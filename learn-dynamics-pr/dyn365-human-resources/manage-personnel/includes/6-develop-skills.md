@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4ada45c7520821b4079411bb0f8ac445f9c57aad
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: 8785b8afb6f86e3d518f126806043b08b4c919cef5475fd9941245fab282b919
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691170"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7104777"
 ---
 في Dynamics 365 Human Resources، يمكنك تتبع مهارات موظفيك. بالإضافة إلى ذلك، يمكنك تحديد المهارات المطلوبة لوظيفة ما.
 

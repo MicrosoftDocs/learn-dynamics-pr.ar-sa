@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e298e54f55aff31ed6a4a2c3fac82d3093e953fa
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 870a96f610508b809094c005e196937505397b2a09ca7337126ee6d8e41ed245
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677641"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093518"
 ---
 أمر المبيعات هو مستند أساسي في Supply Chain Management لأنه يمثل بيع منتج إلى العميل. يتكون أمر المبيعات من عميل الذي يتم بيع منتج باستخدامه. يشتمل أمر المبيعات على أي رسوم أو أشياء مثل رسوم الشحن أو التركيب. بعد ذلك، لدينا خيارات التسليم، يمكننا ترتيب التسليم في أوقات مختلفة ومواقع مختلفة، بناءً على رغبات العميل. 
 

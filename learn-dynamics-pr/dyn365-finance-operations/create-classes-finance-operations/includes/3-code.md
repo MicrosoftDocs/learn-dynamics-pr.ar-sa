@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aead7e4144e65310f523305d313a7baaadf9d980
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a1b3553af072b33f7f16ee01452e1f579883038747825e585f0229ccb03fec09
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071563"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7069163"
 ---
 تطبيقات Finance and Operations تستخدم لغة التطوير X++ في فئاتها.
 تُعد X++ لغة موجهه للعناصر. إذا لم تكن قد استخدمتها من قبل، ولكنك معتاد على لغة أخرى موجهة للكائنات، فستجد أنه من السهل تعلمها. 

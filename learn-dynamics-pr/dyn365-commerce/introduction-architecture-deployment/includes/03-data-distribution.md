@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 48ff2e9e720d440ccfdeb7533ee1a1b87992505d
-ms.sourcegitcommit: 7b8e0bce77648fe20efb0bf63bce723b8a30cfaf
+ms.openlocfilehash: e23821f9bd77162ef8b10a7605170c205312b510
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "6070526"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7358906"
 ---
 يعتمد توزيع البيانات في التجارة على Commerce Data Exchange، الذي ينقل البيانات بين المركز الرئيسي والقنوات المختلفة لـ التجارة. 
 
@@ -33,8 +33,8 @@ ms.locfileid: "6070526"
 ![رسم تخطيطي يوضح عملية أرشفة بيانات البطاقة المدينة خلال عمر معين.](../media/credit-card-data-c.png)
 
 > [!Important]
-> لا يمكن استعادة البيانات بسهولة بعد أرشفتها. لذلك، لا ينبغي أرشفة الحركات التي تخضع إلى [عمليات الاسترداد المرتبطة](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/archive-cc-data/?azure-portal=true#key-terms). على سبيل المثال، إذا كانت سياسة إرجاع التاجر تسمح بإعادة الحركات إلى البطاقة المدينة ذاتها في غضون عامين، يجب تعيين الحقل **الحد الأدنى لعمر الحركة بالأيام** للوظيفة على 730 يوماً (سنتان). في هذه الحالة، إذا تم إرجاع حركة ما بعد 730 يوماً، فلن يتم العثور على XML المطلوب لإجراء عملية استرداد مرتبطة. لذلك، سيتعين على العميل استرداد المبلغ المدفوع من خلال [استرداد مستقل](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/archive-cc-data/?azure-portal=true#key-terms) إما إلى بطاقة مدينة أو طريقة دفع أخرى، مثل مذكرة ائتمان أو بطاقة هدايا.
+> لا يمكن استعادة البيانات بسهولة بعد أرشفتها. لذلك، لا ينبغي أرشفة الحركات التي تخضع إلى [عمليات الاسترداد المرتبطة](/dynamics365/commerce/dev-itpro/archive-cc-data?azure-portal=true#key-terms). على سبيل المثال، إذا كانت سياسة إرجاع التاجر تسمح بإعادة الحركات إلى البطاقة المدينة ذاتها في غضون عامين، يجب تعيين الحقل **الحد الأدنى لعمر الحركة بالأيام** للوظيفة على 730 يوماً (سنتان). في هذه الحالة، إذا تم إرجاع حركة ما بعد 730 يوماً، فلن يتم العثور على XML المطلوب لإجراء عملية استرداد مرتبطة. لذلك، سيتعين على العميل استرداد المبلغ المدفوع من خلال [استرداد مستقل](/dynamics365/commerce/dev-itpro/archive-cc-data?azure-portal=true#key-terms) إما إلى بطاقة مدينة أو طريقة دفع أخرى، مثل مذكرة ائتمان أو بطاقة هدايا.
 
-لمعرفة المزيد من المعلومات حول كيفية إعداد الوظيفة القابلة للأرشفة، راجع: [أرشفة بيانات حركات البطاقة المدينة](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/archive-cc-data/?azure-portal=true)
+لمعرفة المزيد من المعلومات حول كيفية إعداد الوظيفة القابلة للأرشفة، راجع: [أرشفة بيانات حركات البطاقة المدينة](/dynamics365/commerce/dev-itpro/archive-cc-data/?azure-portal=true)
 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bfdf689b262f81da09a56d2eca7a58e411d4648e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4821ba12c6d2368472debefcec6d7cce5307f51401ab3fcb244ac7155956ecc2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667243"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057459"
 ---
 عندما يصدر قسم الهندسة معلومات للشركات المحلية حول مكان استخدام المنتج، فسيكون المنتج متاحاً للتسليم في الشركة المحلية. في **معلمات إدارة التغييرات الهندسية**، يتم تعيين **قبول المنتج** إلى **يدوي** بشكل افتراضي. وبالتالي، يجب على الشركة التشغيلية المحلية مراجعة المنتج الصادر وقبوله.
 

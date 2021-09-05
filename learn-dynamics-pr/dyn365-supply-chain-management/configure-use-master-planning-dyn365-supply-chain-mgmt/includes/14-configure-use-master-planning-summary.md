@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0543c6fb28417ba3d0c94ba81946feb06a46c48e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7d6ab6d78bea0a439ac5c93d73b0cf15ad2bd4c9
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668031"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329861"
 ---
 يمكن دمج الوحدة النمطية للتخطيط الرئيسي في إدارة سلسلة التوريد في سير إجراءات العمل الذي يضم العديد من الوحدات النمطية والأدوار والنماذج الأخرى ضمن نموذج يعمل بين الشركات الشقيقة وتخطيط المواقع المتعددة.
 
@@ -20,10 +20,10 @@ ms.locfileid: "6668031"
 -   **التخطيط الرئيسي بين الشركات**: يعمل التخطيط الرئيسي بين الشركات على حساب صافي المتطلبات عبر الكيانات القانونية. كما أنه يعمل على ربط العرض والطلب بين الشركات ليس فقط من أجل حركة العرض والطلب المؤكدة قصيرة المدى، ولكن أيضاً لحركات العرض والطلب طويلة الأجل والمخطط لها (التي لم يتم تأكيدها بعد).
 
 > [!NOTE]
-> وقد تمت جدولة مشغل التخطيط الرئيسي المضمن لجعله قديماً (مهمل). يتم استبداله بالوظيفة الإضافية لتحسين أداء التخطيط لـ Microsoft Dynamics 365 Supply Chain Management. لمزيد من المعلومات حول الترحيل لتحسين أداء التخطيط، راجع الترحيل [التخطيط الأمثل للتخطيط الرئيسي](https://docs.microsoft.com/dynamics365/supply-chain/master-planning/new-master-planning-engine/?azure-portal=true).
+> وقد تمت جدولة مشغل التخطيط الرئيسي المضمن لجعله قديماً (مهمل). يتم استبداله بالوظيفة الإضافية لتحسين أداء التخطيط لـ Microsoft Dynamics 365 Supply Chain Management. لمزيد من المعلومات حول الترحيل لتحسين أداء التخطيط، راجع الترحيل [التخطيط الأمثل للتخطيط الرئيسي](/dynamics365/supply-chain/master-planning/new-master-planning-engine/?azure-portal=true).
 
 يمكن التخطيط الأمثل إجراء حسابات التخطيط الرئيسي من خارج إدارة سلسلة التوريد وقاعدة بيانات Azure SQL الخاصة بها. تتضمن المزايا المقترنة بالتخطيط الأمثل أداءً محسناً وتقليل التأثير على قاعدة بيانات SQL أثناء تشغيل التخطيط الرئيسي. نظراً لأنه يمكن إجراء عمليات التخطيط السريع حتى أثناء ساعات العمل، يمكن للمخططين التفاعل على الفور مع الطلب أو تغييرات المعلمة.
 
-لمزيد من المعلومات حول التخطيط الأمثل، راجع [نظرة عامة حول تحسين التخطيط](https://docs.microsoft.com/dynamics365/supply-chain/master-planning/planning-optimization/planning-optimization-overview/?azure-portal=true).
+لمزيد من المعلومات حول التخطيط الأمثل، راجع [نظرة عامة حول تحسين التخطيط](/dynamics365/supply-chain/master-planning/planning-optimization/planning-optimization-overview/?azure-portal=true).
 
 

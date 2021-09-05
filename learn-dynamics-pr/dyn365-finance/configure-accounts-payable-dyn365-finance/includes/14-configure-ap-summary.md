@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 332a34eec1b596c5463d711e05faa9dc7aa78de0
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 0332a1e0dab7a40154f9092af73edf3c12199b1937b596472b71ede89e68e586
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677610"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082795"
 ---
 لقد تعلمت أن خيارات الدفع في Dynamics 365 Finance مرنة، لتناسب عمليات تجارية مختلفة. على سبيل المثال، يمكنك تعريف البنود استناداً إلى عدد الأشهر و/أو الأيام، استناداً إلى الفترة الحالية (على سبيل المثال، الشهر الحالي أو الربع الحالي)، ومع شهور أو أيام إضافية أو بدونها.
 

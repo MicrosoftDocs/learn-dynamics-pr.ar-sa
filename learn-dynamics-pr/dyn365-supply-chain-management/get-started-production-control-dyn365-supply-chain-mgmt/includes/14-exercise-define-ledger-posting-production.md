@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b55e6d55919dfb2c38aecc1599070eb9c5062537
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9a3bc105e499e168442d2edd13b805258f0b32965f3490777084180956bdcfce
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667266"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119480"
 ---
 ## <a name="scenario"></a>السيناريو
 في هذا المعمل، ستقوم بإنشاء مجموعة أصناف جديدة لأصناف دراجة وتكوين ترحيل دفتر الأستاذ لأوامر الإنتاج. 

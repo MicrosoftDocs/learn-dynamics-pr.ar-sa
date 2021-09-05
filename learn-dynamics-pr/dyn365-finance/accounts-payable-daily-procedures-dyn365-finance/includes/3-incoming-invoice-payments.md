@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f076df77b439f8668cf9a1f9068dca34582ea9b4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 7ef8f732b44716900aa6367cc708e73e72db4cb21d6c0bb54d879624fa0b71ef
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677128"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136502"
 ---
 بعد تسجيل الفاتورة والموافقة عليها وترحيلها، حان وقت دفع الفاتورة. ستستخدم دفاتر يومية الدفع ومقترحات الدفع لهذه المهمة.
 

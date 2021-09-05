@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c687b6a6f71630f1d2e534c19761efb0dc683822
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f44e4083a630c81b03ae54719ef7da133d20df48
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677673"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7338710"
 ---
 يوفر Dynamics 365 Finance وظائف شاملة لإعداد العديد من خيارات دفع المورد.
  
@@ -39,4 +39,4 @@ ms.locfileid: "6677673"
 
 وأخيراً، يجب التأكد من أعداد الحسابات البنكية لاستخدام البنوك مع طرق الدفع.
 
-لمزيد من المعلومات، راجع [تكوين العملات في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-currencies-dyn365-finance/?azure-portal=true) و[تكوين إدارة البنك والنقد في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-cash-bank-management-dyn365-finance/?azure-portal=true).
+لمزيد من المعلومات، راجع [تكوين العملات في Dynamics 365 Finance](/learn/modules/configure-currencies-dyn365-finance/?azure-portal=true) و[تكوين إدارة البنك والنقد في Dynamics 365 Finance](/learn/modules/configure-cash-bank-management-dyn365-finance/?azure-portal=true).

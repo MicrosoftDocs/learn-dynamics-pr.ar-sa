@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2e18427f40263edb6b61f8837182cd8ded07afc3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 74f191ac69e65a725a04a8f85073ab7ed1377ec535fe276b47ffe0bfaf2fe4ac
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677776"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093293"
 ---
 تتيح لك محاسبة التكاليف في Dynamics 365 Finance جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك. 
 

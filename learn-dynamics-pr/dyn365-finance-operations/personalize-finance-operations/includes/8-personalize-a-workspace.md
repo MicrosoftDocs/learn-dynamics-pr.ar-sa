@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d78838b08353bec56cf23d3e97a9c43aa9d5ff9c
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: c3f1fc5f3819ce4eaba90301e26d48b314b3bbf998c826ef11c179eadd9af475
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072469"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141756"
 ---
 تتوفر ميزة إضفاء طابع شخصي إضافي لبعض الصفحات التي تتضمن قوائم. يتيح الزر **إضافة إلى مساحة العمل** في مجموعة **تخصيص** في علامة التبويب **خيارات** في جزء الإجراءات إظهار المعلومات من القائمة الحالية في مساحة عمل محددة. 
  

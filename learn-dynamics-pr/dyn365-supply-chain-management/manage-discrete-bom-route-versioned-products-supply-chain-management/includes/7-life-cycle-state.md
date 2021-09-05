@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f0ab87126845c3130820351b9c3bff456d6d86af
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 528390feb710f6a820261a390c7fbc325765c7a77597595a6dbe5235dd36f8d0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057448"
 ---
 أثناء تطور المنتج الهندسي عبر دورات حياته، فإنه يمكنك التحكم في الحركات المسموح بها بكل حالة من حالات دورة حياته.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 35770efbf065ddc964f104e8796601135eb33be3
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 334996d6875ae09c1b96a8e7584ea085ad9d681106c0500c6a2ff30064fd8496
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070316"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121819"
 ---
 لتزويد مخزون المتجر، يمكن استخدام وظيفة **توزيع البضائع** أو **‏‫دفع المشتري‬** في المركز الرئيسي لـ Commerce (HQ) من أجل تسهيل حركة المخزون من مستودع إلى آخر. 
 

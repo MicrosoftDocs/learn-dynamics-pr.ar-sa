@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 03764beca808208761d2070283c8ded5fc114bcd
-ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+ms.openlocfilehash: c767b9917764fb416727233f6c43f0e8117f425b444a599e1268a6db139db638
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "6072886"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098801"
 ---
 يعبر هيكل تنظيم العمل (WBS) عن وصف للعمل الذي سيتم إنجازه لمشروع. وهو عبارة عن تدرج هرمي للمهام يمثل قدرة فريق المشروع على استيعاب مزج مهام العمل معاً وحجم كل مكون أو مهمة وتكلفتها ومدتها. يضم هيكل تنظيم العمل ثلاثة أغراض رئيسية:
 

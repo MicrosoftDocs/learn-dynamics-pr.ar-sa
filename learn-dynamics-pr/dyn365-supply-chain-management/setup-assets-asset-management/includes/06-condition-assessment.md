@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 017118c4645c4303d937b6046fa70f116b27ea8b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d82209bfaf07e3df1e38e56f20073b26b8bb0936c7ab189edc62ccf843c20148
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668100"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046428"
 ---
 تقييم الحالة هو نموذج للصيانة الوقائية. ويتضمن فحص الأصول خلال فواصل زمنية منتظمة لقياس الحالة الحالية والفترة المتبقية ومراقبتهما. بعد إكمال أحد تقييمات الحالة، يمكنك تحليل البيانات ومقارنة المعلومات بالماكينات الأخرى في المصنع. 
 

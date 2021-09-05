@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4f3aa2bce95bbba21d6c14519c324128d35a6834
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 238fd783e245f05e690cd43d313826c00cea4770c8215d7146be72e3397f0273
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668240"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057927"
 ---
 إليك الطرق الخمس لتوزيع الأعباء التي يمكنك استخدامها عند إضافة منتج ثانوي إلى إصدار الصيغة:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e332a23b47520e4bcd7e2e44341988b296ad9c97
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3d0cd399c73926f46313d03bc0df3fb378ab61bf3a38b7b9bbab85b23148a43b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668007"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081801"
 ---
 يجب إعداد التقويمات والموارد في وحدة إدارة المؤسسة النمطية قبل استخدام الوحدة النمطية للتحكم بالإنتاج.
 

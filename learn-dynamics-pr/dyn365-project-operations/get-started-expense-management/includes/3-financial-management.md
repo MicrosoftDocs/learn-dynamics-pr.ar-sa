@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6e00a2c4721fd61ad4bac6e6e9a6da3af4ff092a
-ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+ms.openlocfilehash: c146ad69d7a0e050c492685d72864fb460d3d09215bc071f59bf6852a7e51f65
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "6072772"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119770"
 ---
 تتكامل محاسبة النفقات بشكل وثيق مع المحاسبة المالية لمؤسستك. يركز معظم تكوين إدارة المصروفات على القرارات التي تتخذها بشأن الشؤون المالية لمؤسستك. 
 

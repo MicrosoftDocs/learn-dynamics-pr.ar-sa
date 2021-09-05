@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 39ca210e9e55d0983f7fa275660484cdea459f75
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5f0b99084a213d1730d347d3b8f3382e9e8a61cd0e5fbabf4f6e99fe6c8aeeee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667817"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135548"
 ---
 
 تتكون تكاليف lean manufacturing من الأنواع التالية من التكاليف:

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 01759537ead5b3eb088ae1fc7d53acac34195c58
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 0c6695930559b4752571e762bd1089e4a1b34e56
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668274"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7334024"
 title: اعداد المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \n\nقبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. تُستخدم المواقع الوظيفية لتحديد مكان تثبيت الأصول الفعلية.\n"
 abstract: "ستتعرف في هذه الوحدة على كيفية إعداد: \n- حالات دورة حياة موقع العمل\n- نماذج دورة حياة موقع العمل\n- أنواع مواقع العمل\n- أنواع السمات\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: efca0412033a57f4546b390558e431a435b7e4f0
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2244f88445e7c8dcf65fed17953d055a8491971e717774ff6e2d60c8a9b98b78
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667802"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091883"
 ---
 يتم إنشاء رسائل الإجراءات بواسطة حساب التخطيط الرئيسي استجابةً للمتطلبات التي تم تغييرها.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 220c7bbe88c4b0ccb8f9464389c1c2b8cb3502d7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6f4a2710037c2913a7163c5cca7845e37dbff0d5626a80c9a33cd6c086d68662
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667693"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051559"
 ---
 تُستخدم أنواع الأصول لتحديد الأصول المستخدمة في المؤسسة وتصنيفها. تُستخدم أنواع الأصول لإدارة أنواع المهام، بما في ذلك مهام الصيانة وعدادات الأصول المقترنة بها وتقييمات الشروط ومواصفات الأصول ونماذج المشاريع.
 

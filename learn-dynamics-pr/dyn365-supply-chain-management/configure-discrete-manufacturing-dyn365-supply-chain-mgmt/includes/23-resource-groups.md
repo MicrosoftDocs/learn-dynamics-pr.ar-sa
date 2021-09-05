@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9039619f18fe718f8c34d4d6de97cfccf1c00877
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ac350a277a777be1535a686586931aa837a82f6c9e93283926248861f07bd89d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668002"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135710"
 ---
 بعد إنشاء القدرات والموارد، فإن الخطوة التالية في العملية هي إنشاء مجموعات الموارد.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5bd65bf5438cc3bdf0c99b59dd753e6e6ad42cf9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 22f5326b554dc6f18aa68c582fe3fa27956c7d7f5d785c8bfc6df13d6ba164fd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677443"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099578"
 ---
  *فاتورة عميل لأمر مبيعات‬‏‫* هي فاتورة ترتبط بعملية بيع وتعطيها مؤسسة لعميل.‬ ويتم إنشاء هذا النوع من فواتير العملاء بناءً على أمر مبيعات يتضمن بنود الأوامر وأرقام الأصناف. وتُحَدَّد أرقام الأصناف وتُرحّل في دفتر الأستاذ.
 ولا تتوفر إدخالات دفتر اليومية في دفتر الأستاذ الفرعي لفاتورة عميل لأمر مبيعات.‬

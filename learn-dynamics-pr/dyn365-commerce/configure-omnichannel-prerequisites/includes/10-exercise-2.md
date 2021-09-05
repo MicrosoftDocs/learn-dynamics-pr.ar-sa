@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 138bd258b44f5c2a452efe5583c7f99b63a46356
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 387cef78988fd18df57fdcac7b57aba1e67ab5c62e5e3db6776e73e39ebc18ce
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070327"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095601"
 ---
 في هذا التدريب، ستقوم بإنشاء رمز معلومات جديد عندما يتم إلغاء منتج في نظام نقطة البيع (POS). 
 

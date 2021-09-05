@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-project-operations
-  ms.openlocfilehash: 576d5ba7e0de0b554ec290b726ea4dc9f0a3e913
-  ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+  ms.openlocfilehash: 6951e20c6829231b4f12b539d04ec66d5ac8fde6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/18/2021
-  ms.locfileid: "6272500"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361267"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-exercise.md)]"

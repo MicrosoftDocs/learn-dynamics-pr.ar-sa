@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 10ec8e07e1481aaba9a311ec5a4aff449ddafc56
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f49001439a2e102fc476ad08ee445c0d9925de2569350d254db24b31b63c0c05
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144121"
 ---
 في قناة Commerce في مركز الاتصال، يمكن للمستخدمين إنشاء أوامر مبيعات يمكنها تشغيل وظائف متنوعة في Commerce، مثل معالجة المدفوعات في أوامر المبيعات هذه. 
 

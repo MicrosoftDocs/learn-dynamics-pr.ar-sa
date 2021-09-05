@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 96938d58fe2c79dd4cf3706718032555b7cc4297
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0f8f58b7e1a2e9a621bcc08df5f466bdf78a48e2
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668068"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7341523"
 ---
 بالنسبة لهذا التمرين، ستقوم بإنشاء موقع عمل افتراضي جديد يتم استخدامه في "إدارة الأصول". عند إنشائك لموقع عمل افتراضي جديد، قم بتعيينه إلى **معلمات إدارة الأصول** حتى يعرف النظام كيفية التعيين التلقائي لموقع العمل الافتراضي إلى الأصول المثبتة. 
 
 ## <a name="prerequisites"></a>المتطلبات الأساسية
 
-قبل أن تتمكن من إكمال هذا التمرين، ستحتاج إلى تكوين أنواع مواقع العمل. لمعرفة كيفية إنشاء أنواع مواقع العمل، راجع **التمرين - إنشاء أنواع مواقع العمل** في [إعداد مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/setup-functional-locations-asset-management//?azure-portal=true). 
+قبل أن تتمكن من إكمال هذا التمرين، ستحتاج إلى تكوين أنواع مواقع العمل. لمعرفة كيفية إنشاء أنواع مواقع العمل، راجع **التمرين - إنشاء أنواع مواقع العمل** في [إعداد مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management](/learn/modules/setup-functional-locations-asset-management/?azure-portal=true). 
 
 
 ## <a name="instructions"></a>الإرشادات

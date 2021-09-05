@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9bdd0173bda586fe5d8f789733ad77017d38b0e8
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a064dd62b73fd0c9231d512dfccf02d56d4256a647e230c8c14f2dee23e41549
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677326"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074897"
 ---
 دليل الحسابات هو مجموعة من الحسابات الرئيسية في Dynamics 365 Finance التي تقوم بالتقاط المعلومات المالية عند ترحيل دفتر اليومية. يتم تعيين رقم حساب لكل حساب كمعرف فريد.
  

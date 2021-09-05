@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 268a83c8674ef8bc930c8cb13c8b975ff82be2f6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6d92eb68c13f006cbc5c9a9084877fe7370ed9cedb1efd76c3b9c5e13a9ff045
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667868"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139961"
 ---
 ## <a name="scenario"></a>السيناريو
 بصفتك عامل مستودع في شركة **USMF**، فأنت بحاجة إلى تنفيذ عملية إنشاء وترحيل دفتر يومية جرد المخزون لحساب صنف معين في موقع في المستودع. 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a51b562bd5e693457760961e28b4fbeea38868d0
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 16937c26f061b8a921d23de2a208833d60d16870f3f398ad6396e21116cb6219
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058753"
 ---
 توضح هذه الوحدة كيفية تكوين البنوك وتخطيطات البنوك في Finance.
 

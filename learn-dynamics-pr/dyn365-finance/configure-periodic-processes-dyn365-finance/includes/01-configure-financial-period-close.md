@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e32e9d9a1403734b5a4dc14079b4d519db95a676
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: aec62a650c6644b8885556d8f592f1f013a9b4496fff184a04d4e246a021275d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677481"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082682"
 ---
 في Dynamics 365 Finance، يمكنك إكمال إجراءات الإقفال لفترة مٌحددة أو سنة.
 

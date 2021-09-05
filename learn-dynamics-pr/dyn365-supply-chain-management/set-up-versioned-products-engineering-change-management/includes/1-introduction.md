@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6ccc600775a38e530f2b584927fed9a8508366e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e88d5159ab7038c359b851a9be2b666e7599f6a3e7d276f5cdef1a182673f1d9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668429"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062445"
 ---
 توفر الوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management الهيكل والانضباط لعمليات إدارة سلسلة التوريد وتمكن من تحديد المنتجات وإصدارها ومراجعتها بطريقة خاضعة للرقابة يدعمها سير العمل. المنتجات ذات الإصدارات هي منتجات هندسية في إدارة التغيير الهندسي. تساعد وظيفة تعيين الإصدارات المهندسين على تتبع المحفوظات أو أحد المنتجات.
 

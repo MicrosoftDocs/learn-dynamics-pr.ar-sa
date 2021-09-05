@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8e9cbd22b7d5bded7aba71edb5cc5e0a57e1e23d
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 586b2c6a45e11d4332312e732020e9737b94d54377310d7f9902afacf3ec5dbf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072418"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094483"
 ---
 يوضح الرسم الآتي إمكانات التقارير التي تمت مناقشتها في هذه الوحدة التدريبية، مع تعيين مشابه بمراحل مختلفة. 
 

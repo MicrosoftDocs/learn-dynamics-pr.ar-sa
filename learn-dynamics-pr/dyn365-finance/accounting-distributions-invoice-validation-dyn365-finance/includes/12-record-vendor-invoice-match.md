@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f52bd0a123d4824fb0eeba6b580d8fadbccf7dc1
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9f7cd9f535266917f524d0cdef734527f6966bbc79049873d365d1d8cd207145
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677590"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093991"
 ---
 ## <a name="scenario"></a>السيناريو
 عند استلام فاتورة من مورد بضائع أو خدمات في أمر شراء، قد تتطلب العمليات التجارية استلام البضائع أو الخدمات قبل اعتماد الفاتورة للدفع.

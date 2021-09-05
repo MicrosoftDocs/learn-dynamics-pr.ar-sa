@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 9d7764c2bad155d67f85d7aa47be2d452d8e0bf7
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 4d7cd2fe97e678e572b502caa3aa42970a12d128
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667257"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7346707"
 title: الشروع في العمل باستخدام التحكم في الإنتاج في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتبدأ دورة حياة الإنتاج بإنشاء أمر الإنتاج أو أمر الدفعة أو كانبان. وينتهي بصنف منتهٍ ومصنع وجاهز إما لعميل أو لمرحلة أخرى من الإنتاج. تتطلب كل خطوة في دورة الحياة أنواعاً مختلفة من المعلومات لإكمال العملية. ومع اكتمال كل خطوة، يُظهر أمر الإنتاج أو أمر الدفعة أو كانبان تغييراً في حالة الإنتاج. وتتطلب الأنواع المختلفة من المنتجات عمليات تصنيع مختلفة.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- منهجيات‬ التصنيع المنفصل والتصنيع محدود الفاقد والتصنيع التحويلي‬ \n- التصنيع الموحد \n- كيفية تكوين التحكم في الإنتاج للتصنيع الموحد\n- تخطيط القدرة الإنتاجية\n- التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم بالإنتاج\n- مجموعات الإنتاج\n- كيفية العمل باستخدام مفاتيح التوزيع\n- إحصاءات وذكاء إنترنت الأشياء في Supply Chain Management\n"

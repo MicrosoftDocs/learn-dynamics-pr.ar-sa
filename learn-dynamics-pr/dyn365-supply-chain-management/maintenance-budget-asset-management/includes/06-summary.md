@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bbe87aa21af76ee608e362a7ab8310b8f5a95209
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: aa807a41b1c45b83132eea4328bbc7492ccc16f5a67aa6f051879a58fd250a82
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668196"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139592"
 ---
 توفر موازنات الصيانة نظرة عامة على التكاليف المتوقعة. وقد ترغب مؤسستك في الاطّلاع على التكاليف والموازنة للصيانة الوقائية لأسطول الشاحنات. يمكنك استخدام إدارة الأصول لإنشاء موازنة لما ستكون عليه التكاليف المتوقعة للصيانة الوقائية. يمكنك تحديث الموازنة بالتكاليف الفعلية لاحقاً. 
 

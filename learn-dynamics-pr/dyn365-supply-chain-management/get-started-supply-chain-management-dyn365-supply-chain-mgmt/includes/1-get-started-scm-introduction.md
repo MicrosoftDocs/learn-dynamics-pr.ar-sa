@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 646686590e2e49ed5d310f188ea9b7a5b2f76210
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a315a8c58c89ef1d7b2c64b045bc1eac3186a42f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668148"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7345863"
 ---
 توفر Dynamics 365 Supply Chain Management مصدراً واحداً من المعلومات المهنية التي تحرك الإنتاجية من الأصول والموارد، وتوائم الموظفين نحو الأهداف الإستراتيجية، وتمكّن الاستجابة في الوقت الفعلي لمتطلبات المؤسسة والعملاء.
 
@@ -15,4 +15,4 @@ ms.locfileid: "6668148"
 - تعرّف على الميزات الخاصة بالتوزيع والتجارة في Supply Chain Management. 
 - احصل على نظرة عامة حول ميزات التوزيع والتجارة في Supply Chain Management.
 
-إذا كنت ترغب في معرفة المزيد حول تطبيقات Dynamics 365 الأخرى، نوصي بالاطلاع على مسار تعليم القواعد الأساسية لـ [Microsoft Dynamics 365](https://docs.microsoft.com/learn/paths/dynamics-365-fundamentals//?azure-portal=true) حيث يمكنك أيضاً معرفة المزيد حول مفاهيم المجموعة وكذلك Microsoft Power Platform.
+إذا كنت ترغب في معرفة المزيد حول تطبيقات Dynamics 365 الأخرى، نوصي بالاطلاع على مسار تعليم القواعد الأساسية لـ [Microsoft Dynamics 365](/learn/paths/dynamics-365-fundamentals/?azure-portal=true) حيث يمكنك أيضاً معرفة المزيد حول مفاهيم المجموعة وكذلك Microsoft Power Platform.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ed6eb0512954834b6682a1d25a3944802c51242f
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 957a8c3aa6dbbbee81f43b1582034e186806147e7158cfa465d4ba5306c8e4e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070158"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7070231"
 ---
 لطالما كانت عملية ترقية البرامج مكلفة ومعقدة بالنسبة للعملاء. ومن خلال استيعاب هذه المسؤولية، يمكن لموفر البرامج تقليل التكلفة الإجمالية لملكية أحد التطبيقات إلى حد كبير. 
 

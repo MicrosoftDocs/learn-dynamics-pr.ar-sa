@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 84c5a54a2c2c3eec838681f106ba6270d1135850
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0b3afc0eb05a7107593852966908c2e090a77edf9a0cd50d8b3689a25a70b62c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668009"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135733"
 ---
 يوفر إعداد مجموعات الإنتاج طريقة لتجميع أوامر الإنتاج ضمن فئات مفيدة مختلفة. يمكن لمجموعات الإنتاج تصنيف أوامر الإنتاج إلى مجموعات تشترك في الخصائص المشتركة، وعند إنشاء أمر إنتاج، يمكنك تعيينه إلى مجموعة إنتاج محددة.
 

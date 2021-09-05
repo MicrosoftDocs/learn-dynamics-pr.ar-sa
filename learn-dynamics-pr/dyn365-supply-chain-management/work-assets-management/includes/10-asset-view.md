@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa077a2670d07b72f837ded7f408cac7325531bc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 46d461c5f94692e6d904efa23d62e01783016c83508ae1267dc66906fc8420df
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668168"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091707"
 ---
 تعرض الصفحة **طريقة عرض الأصول** الأصول النشطة ومواقع العمل في طريقة عرض الشجرة. ومن هذه الصفحة، يمكنك الحصول على نظرة عامة حول الميزات الآتية:
 

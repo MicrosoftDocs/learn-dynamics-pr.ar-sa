@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8aa63c5ecde1c7f159fdf81eca5adf5293bf2461
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 218f6e287c7a765e338fd9679adaf361a068387e98e5208d7755daecc9148ae2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677468"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120158"
 ---
 تحتاج إلى مساعدة المحاسب في شركة USMF، حول كيفية تكوين واستخدام أنظمة الاستحقاق في تطبيقات Finance. يرغب في استئجار سيارة من مورد مقابل 81،720 دولاراً أمريكياً وتسجيل المستحقات ضمن شروط الإيجار لمدة 24 شهراً. كما يرغب في فهم الخيارات **شهري** و **عدد الأيام** الموجودة في أنظمة الاستحقاق. 
 

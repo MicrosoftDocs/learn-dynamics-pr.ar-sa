@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c492beb15ba563122c81ce04f3e76f46ddaf508
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1ebd03042e69afdd27ec19a108564d091eab909cf46311bc9f7db2bff16bd3ef
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667776"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135075"
 ---
 يعرف موظف المبيعات أن المنتج مهم وتم تصميمه خصيصا للعميل. بالتالي، يقوم موظف المبيعات باستدعاء مهندس في شركة *DEMF* لإعلامه بطلب التغيير. وبهذه الطريقة، يمكن أن يقوم المهندس بتسريع العملية.
 

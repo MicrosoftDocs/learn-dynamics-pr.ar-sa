@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 987f036adc25502dbe7a2241c230beae94212151
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 34c3a808fae605a5a50bb6fb99e7a910f3f17a55fa66873a72309cc593bb7fd8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058695"
 ---
 
 ## <a name="set-up-billing-codes"></a>إعداد أكواد الفوترة

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c4c3657f70fb00d5993a9bc46f5651f6716d077b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fba4b6f315e5502323860944407a8ebb6bb8be2064b01607059559419c05b468
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667407"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129334"
 ---
 ## <a name="scenario"></a>السيناريو
 يريد مدير العمليات في USMF المزيد من الرؤية في أوامر الإنتاج التي تم تأخيرها. لقد أعطوك تعليمات لتتبع ما يلي:

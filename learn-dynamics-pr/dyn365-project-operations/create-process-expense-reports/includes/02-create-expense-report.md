@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9ccc47855c7b5852a78aacf90101f2d4d7e8c74f
-ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+ms.openlocfilehash: 7d00e5570f2eb69347ffe9ac20de7829cc415f7e51462e2a02d8349b46a53873
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "6072807"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115136"
 ---
 عندما يسافر موظف أو يتكبد مصروفات أخرى نيابة عن الشركة، يجب عليه إنشاء تقرير مصروفات لطلب تعويض عن مصروفاته. يتطلب تقرير المصروفات أن يصف بالتفصيل متى وكيف تم تكبد المصروفات. تساعد سياسات إدارة المصروفات على التأكد من إدخال المصروفات بدقة واتباع النُهج التنظيمية. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7905b82fd4914134c0d25f3089a2384cc4b6a20f
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f1db8386fe7e6615a73c377e91f91999a8b0ba53
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677502"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7361405"
 ---
 غالباً ما يكون لدى البلدان والمناطق المختلفة متطلبات قانونية فيما يتعلق بتنسيق المستندات الإلكترونية الواردة والصادرة. تقوم وظيفة التقارير الإلكترونية (ER) بإدارة تلك التنسيقات خلال دورة حياتها. بالإضافة إلى ذلك، فإن التغييرات العادية المحتملة في المتطلبات من قبل الهيئات الحكومية أو البنوك تعني أنه يجب تحديث مستندات العمل وفقاً لذلك.
 
@@ -22,7 +22,7 @@ ms.locfileid: "6677502"
 - إنها الأداة القياسية الأساسية لدعم الترجمة.
 - يمكن توزيع التنسيقات من خلال Microsoft Dynamics Lifecycle Services (LCS)‎.
 
-لمزيد من المعلومات الفنية حول مواضيع التقارير الإلكترونية التالية، انتقل إلى [نظرة عامة على التقارير الإلكترونية (ER)](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/general-electronic-reporting?toc=/dynamics365/commerce/toc.json/?azure-portal=true).
+لمزيد من المعلومات الفنية حول مواضيع التقارير الإلكترونية التالية، انتقل إلى [نظرة عامة على التقارير الإلكترونية (ER)](/dynamics365/fin-ops-core/dev-itpro/analytics/general-electronic-reporting?azure-portal=true&toc=/dynamics365/commerce/toc.json).
 
 - نماذج البيانات ومكونات تعيين النماذج
 - مكونات التنسيق للمستندات الإلكترونية الصادرة

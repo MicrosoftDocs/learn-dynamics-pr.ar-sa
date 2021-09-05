@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b8e0c7c942a9c50d53453e1ae11b76482018cbf
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1813184b8ccc8913c8e9c734820b5a16f40d791bfaf8399fd79c09593eec7b08
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046623"
 ---
 لتسهيل عملية فوترة عملائك مقابل العمل الذي تقدمه، تتيح لك ميزة فوترة أمر العمل إنشاء ومعالجة وفواتير أعمال الصيانة التي تقدمها شركتك على الأصول المملوكة للعملاء. 
  

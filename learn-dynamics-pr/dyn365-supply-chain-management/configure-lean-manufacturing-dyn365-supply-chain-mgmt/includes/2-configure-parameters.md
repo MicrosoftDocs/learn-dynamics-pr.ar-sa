@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f0cd3a3571359fc22e7750bb5c94b1e5cea79b3d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6ee3dfbedb6d6942a9ccf84ac232d0e1252fbdd3cdeeae22b0c4030e3aedbb66
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667840"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092116"
 ---
 هناك العديد من المكونات التي يجب إعدادها لاستخدام lean manufacturing في Supply Chain Management. ستناقش هذه الوحدة المكونات ووظائفها في lean manufacturing. 
 

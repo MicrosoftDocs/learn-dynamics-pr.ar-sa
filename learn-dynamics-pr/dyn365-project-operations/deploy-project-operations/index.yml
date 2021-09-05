@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-project-operations
-  ms.openlocfilehash: 8f0102ddf449aa799f473b065a2a67106cde37a7
-  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.openlocfilehash: 9577000b383e8189fd77e17148f0638cde3e9beb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/08/2021
-  ms.locfileid: "6446599"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7343724"
 title: نشر سيناريوهات Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيدعم Microsoft Dynamics 365 Project Operations خيارات نشر متعددة لتتطابق مع متطلباتك. سواء كنت من عملاء Dynamics 365 الحاليين أو الجدد، بإمكان Project Operations دعم احتياجاتك.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- نشر Dynamics 365 Project Operations لسيناريوهات المنتجات غير المخزنة أو المورد.\n- نشر Dynamics 365 Project Operations لسيناريوهات النشر الخفيف.\n- نشر Dynamics 365 Project Operations لسيناريوهات أوامر الإنتاج أو المنتجات المخزنة.\n- تكوين خرائط جدول ثنائية الكتابة وتشغيلها.\n"

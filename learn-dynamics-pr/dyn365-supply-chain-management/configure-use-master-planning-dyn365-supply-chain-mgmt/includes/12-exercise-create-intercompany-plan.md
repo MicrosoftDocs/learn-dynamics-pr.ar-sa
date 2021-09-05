@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 44c7e00fbed1035803fb9ff913cbd6255593a9af
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bd31671a7b88063bbe5249814b07c164f3630e909a767b7dede6602411b770d9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667139"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091826"
 ---
 بصفتك مديراً جدولة المواد والإنتاج، تحتاج إلى تطوير مجموعة تخطيط جديدة بين الشركات الشقيقة. يتم شحن التجميعات من شركة DEMF إلى شركة USMF. في USMF، يتم تلوين التجميعات وإنهائها باستخدام الشعار أمريكا الشمالية، ثم يتم تحويلها إلى USRT للبيع. 
 

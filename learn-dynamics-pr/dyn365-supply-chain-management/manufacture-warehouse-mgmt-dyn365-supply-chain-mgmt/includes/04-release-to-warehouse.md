@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1c5131acc0b59c88671213a08dda34d29b796f2f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0b3b1a22589e4e79a1e357eac02266f7593de0a769f78d46a732d0fc6476f396
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667395"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062667"
 ---
 
 تصف هذه الوحدة عملية إصدار المواد الخام لبنود قائمة مكونات الصنف (BOM) وخطوط المعادلة إلى المستودع. عندما تقوم إصدار قائمة مكونات الصنف أو بند المعادلة إلى المستودع، يحدد النظام أولاً إذا كانت المادة متاحة بالفعل في موقع إدخال الإنتاج في أرضية المتجر حيث سيتم استهلاك المواد لعملية الإنتاج.

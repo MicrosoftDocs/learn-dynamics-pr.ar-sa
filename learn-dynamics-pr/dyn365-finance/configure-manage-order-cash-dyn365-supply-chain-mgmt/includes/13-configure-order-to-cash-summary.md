@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: afc3fc1dd51437726d425df097ee30c3da0a3d8f
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c92b41d85535ee533e25239c7c6be745f869d39377315426c9995af5b4202455
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677232"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136222"
 ---
 في هذه الوحدة النمطية، لقد تعرّفت على أمر العملية النقدية في Dynamics 365 Supply Chain Management، والمهام التالية:
 

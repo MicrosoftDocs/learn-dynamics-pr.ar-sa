@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 54b81dfbc5aefbc3c047db9b8a6a8d0aa5f456b8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b82b60e9e4ba2748b7e26e4bdeef13b642cf0cc625526621b636eb1a641c06a9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667470"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119260"
 ---
 ## <a name="scenario"></a>السيناريو
 سوف تستخدم الشركة **USMF** لإعداد النظام لتوزيع البضائع المخطط له. 

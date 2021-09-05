@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 00428f0658bccae72c33d50805ec6a82c8d4419a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 18a33a9b14d1085b003f43c4d489679a4739251aa5f9f1f2d5887b84cb986666
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070109"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7049056"
 ---
 يتميز Dynamics 365 Commerce بمرونة تصميمه عبر العديد من القنوات المختلفة. وتتيح هذه المرونة إمكانية تنظيم متطلبات نقطة البيع الفريدة الخاصة ببائع التجزئة من خلال تصميم دقيق لمهام سير العمل في واجهة المستخدم. 
 

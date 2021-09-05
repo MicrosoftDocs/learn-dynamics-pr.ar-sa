@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0055b18d011088af6fc9c5b074dad6d1961ae41e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 650ebba2cabb25a7c7c33107f114fa27fcf212a48dd5301ec3a41c6542589d46
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668054"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124505"
 ---
 تبدأ العملية الصادرة في إدارة المستودعات عندما يتم اختيار بنود أوامر البيع أو النقل، وإنشاء أوامر الإخراج والشحنات.
 

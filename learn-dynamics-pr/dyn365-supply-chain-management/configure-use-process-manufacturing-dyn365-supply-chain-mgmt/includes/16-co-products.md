@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5bb016f76da8cbcdb81fb64f93ff748ce7d33fee
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d9cc787c19e41d7d7f8e50f5c4db63dc98c9b153da3ad328f628fafdc18edeeb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668241"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057933"
 ---
 المنتجات المشتركة هي أصناف يتم إنتاجها بجانب صنف المعادلة أو المنتجات المشتركة الأخرى. تُنتج هذه المنتجات متلازمةً في عملية تصنيع الصنف الآخر. إن المنتجات المشتركة لديها قيمة مخزون وتم تخزينها في المخزون لاستخدامها في عملية إنتاج لاحقة أو بيعها بهدف كسب الأرباح.
 

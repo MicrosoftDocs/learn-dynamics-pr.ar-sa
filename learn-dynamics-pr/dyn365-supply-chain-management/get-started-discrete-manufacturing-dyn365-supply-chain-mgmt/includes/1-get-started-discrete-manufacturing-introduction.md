@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f92431ad902b778d887b3744fb30d83a8655e864
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9a0dbb0e32406e1a2b8b92128bb0869918fe3385dc2625ce0fd62982a28e5556
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667927"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135199"
 ---
 على الرغم من أن عمليات التصنيع الخاصة بإحدى الشركات فريدة، اعتماداً على طبيعة بيئة الإنتاج، فإن العناصر الأساسية التصورية المستخدمة في الوحدة النمطية للتحكم بالإنتاج في Dynamics 365 لـ Supply Chain Management هي غالباً ما تكون متماثلة.
 

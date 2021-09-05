@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 16429281e0aeefd31d7a2de6dcc4b951b5fbe383
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3cc92f9b905e688e338adb2015ad9af4b8f33dc5231ef91079cf4aa64803e0e1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099531"
 ---
 ## <a name="scenario"></a>السيناريو
 ستقوم بتكوين موفر أسعار الصرف ثم استيراد أسعار الصرف من هذا الموفر.

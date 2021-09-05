@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a5855aa1d4a548c84508268f8ed318379cc16da8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2d306efa4999fc5ca862f9a78fc15efae72413993f6543d361cfda9b388767cf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667303"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135419"
 ---
 عادة، يشارك العديد من المستخدمين في مراحل مختلفة من سلسلة التوريد. يتم تعيين أدوار لكافة المستخدمين في إدارة سلسلة التوريد. يتم إعداد الأدوار والاحتفاظ بها في الوحدة النمطية لإدارة النظام بواسطة مسؤول الأمان، ويتم استخدام هذه الأدوار للتحكم في الوصول إلى النظام. 
 

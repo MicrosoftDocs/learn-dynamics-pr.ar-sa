@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f3c3f6aa45edba1a6cf5d4dd2ed63482a541bad4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a600faf449e285ea018342d79ec1c33c039f5472d055131aa9609559ca941111
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135502"
 ---
 
 يمكنك إدخال الإعداد المتعلق بفترة الصلاحية التي يمكن تحديدها ضمن مجموعة الحقول **بيانات الصنف** في قسم **إدارة المخزون** الخاص بالمنتج. يتضمن الإعداد المرتبط بفترة الصلاحية إعداد المعلمات التالية:

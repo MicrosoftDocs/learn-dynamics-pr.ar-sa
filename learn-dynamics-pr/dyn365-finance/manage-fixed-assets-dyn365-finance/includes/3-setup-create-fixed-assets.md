@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8f25214d390bf93e98e18450ba8d448f2d6c50b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b9e451e235bf04ccf14ccc15c035f295ae8357cbfdcf6a43f850559bebb36d9f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677795"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115703"
 ---
 تتطلب وحدة محاسبة الأصول الثابتة القوية عدة أنواع مختلفة من معاملات الأصول الثابتة، وطرق مفصلة لتسجيل تلك الحركات. يقدم Finance أنواعاً عديدة من المعاملات لتصنيف الأصول الثابتة وتتبعها.
 

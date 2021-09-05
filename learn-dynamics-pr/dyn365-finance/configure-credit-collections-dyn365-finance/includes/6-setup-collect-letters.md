@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06cfe1231af8e71fe73bfd99fe543aa36f612985
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 819b5ebe7b8c287745fae9b4823302044fed0603e5a6656671cd2340ae6b4b17
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677135"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082712"
 ---
 تعد إدارة وتحصيل الحركات المتأخرة وظيفة ضرورية في العديد من المؤسسات. في Finance، تتمركز معظم وظائف المجموعات في صفحة **المجموعات** وفي صفحات القوائم المرتبطة التالية.
 

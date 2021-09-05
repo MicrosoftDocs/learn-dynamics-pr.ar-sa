@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 107fcd407e4942da5cd6c1738f5eb068cd299963
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 04fa0aa49fcc982c499d479e6f604a7b6d26dbc228e1ad599e006b4f889a3e2a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667649"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139240"
 ---
 في الشركة USP2، يتم تعقب سعر التفاح (القطعة M9103) بالاستناد إلى تسعير تبادل السلع NYMEX الخاص بالتفاح. يجب أن يستند سعر بيع صلصة التفاح، التي يتم تصنيعها من التفاح، إلى تقلبات أسعار التفاح. 
 

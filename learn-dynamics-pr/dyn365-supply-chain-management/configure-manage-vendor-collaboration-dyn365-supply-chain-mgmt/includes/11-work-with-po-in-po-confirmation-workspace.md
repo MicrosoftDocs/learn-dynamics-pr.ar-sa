@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f8bfd3ce55394cad3b48d3517fcc344e7e7eeaf3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f3f6e1fa2b1fa3e8b6aa410556c432d5f1a53f2e88954251668a9718bb997645
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668405"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092104"
 ---
 تتيح لك مساحة العمل **تأكيد أمر الشراء** الاستجابة إلى أوامر الشراء التي تم إرسالها إليك للمراجعة. ‏‫كما تتيح لك إمكانية عرض معلومات حول أوامر الشراء التي تنتظر الإجراء من العميل وتلك التي تم تأكيدها ولكنها لا تزال مفتوحة.
 

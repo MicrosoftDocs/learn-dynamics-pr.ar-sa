@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 529bdfbcefafb18e90d294dc6cb13711cc7be650
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 499bebc3c9f4dc6f9f75ce103b8234558235ce52902038a3c9d291e0acfb4d26
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667904"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119298"
 ---
 
 يعد توزيع البضائع من الإنتاج إلى الموقع الخارجي مناسباً للمصنعين الذين ينتجون كميات كبيرة ويريدون شحن المنتجات النهائية بشكل مثالي بمجرد الإبلاغ عن انتهاء خطوط الإنتاج من إنهاءها. والغرض من ذلك هو شحن المنتجات إلى مراكز التوزيع الموجودة فعلياً بالقرب من طلب العملاء بدلاً من تكديس المخزون في موقع التصنيع.

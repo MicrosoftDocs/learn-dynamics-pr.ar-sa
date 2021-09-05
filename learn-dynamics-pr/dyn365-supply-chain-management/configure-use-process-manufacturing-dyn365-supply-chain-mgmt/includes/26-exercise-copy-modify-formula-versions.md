@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c83ef481722b4b0bc65f53ca4e2746f50e50aba4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4f2bb8208910adf12bc2c130cf20684900320020e6c54436405d6ac2f86b0e8b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667794"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114157"
 ---
 أظهر تحليل أوامر الإنتاج لـ P8000 في الشركة USP2 أنه يلزم تحديث عوامل الخردة ومبلغ الاستهلاك للجزء P6000. يجب مراجعة المعادلة وتحديثها واعتمادها/تفعيلها بتاريخ سريان 12/15/2016.
 

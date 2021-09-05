@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: abffc8274ae5c4182e6e1971c4a56d32892a6a3e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: d7c60e6460618d1f7fe6bd6d070af28bd3a2198eeb8e09d9a2f14ecb2c64c24a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677477"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093729"
 ---
 توجد أربعة إعدادات للتحقق من صحة الترحيل يمكن تحديدها لكل حساب. يمكن تعيين التحقق من صحة الترحيل للخيارات التالية: 
 

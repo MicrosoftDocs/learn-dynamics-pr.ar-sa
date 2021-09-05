@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f911ad9588baab23ed06af1dad05cb9160d5bcdf
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 38d294a0ab4a9cf788f408fdf50775b3e5dd95430101f9f013b4d4fd33d5c07a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677668"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068665"
 ---
 لقد تعلمت المعلومات الأساسية حول مخطط الحسابات، والقواعد المتقدمة، وشروط تخصيص الحساب، وحسابات الحركات التلقائية، والاستعلامات والتقارير المتعلقة بهذه الموضوعات. 
 

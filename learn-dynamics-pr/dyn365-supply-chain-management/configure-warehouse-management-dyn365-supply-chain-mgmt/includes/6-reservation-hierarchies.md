@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b7eaccfb116b5cdd897cc467359acffc24b29dfe
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d60bdfc3e1b8dc14ab15ee86843c42e089fe3cf5be66f66f9a801769b1433b94
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135345"
 ---
 **التدرجات الهرمية للحجوزات**، في **إدارة المستودعات > الإعداد > المخزونات**، هو إعداد إلزامي في إدارة المستودعات. تحدد التدرجات الهرمية للحجوزات تسلسل الحجوزات وتملي الأصناف التي سيتم حجزها بناءً على الأولويات، مثل أبعاد التعقب والتخزين. 
 

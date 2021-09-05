@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 55f688f057fe2289c94739b954c2ee30eec380ea
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: d3204d43c982d61696e092bfd5b6193594d8a2d1c722ff464a7f7d08fd94cd9c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130169"
 ---
 تتكون بنى الحساب من الحسابات الرئيسية، ويمكن أن تتضمن أبعاداً مالية. وتستخدم بنيات الحساب لتحديد المجموعات الصالحة التي تشكل بالاشتراك مع الحسابات الرئيسية مخططاً للحسابات.  
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 78abc4516d6f60176e83f4481579c8508bada759
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 934c5b34196a3043bf90998e9ad9393b760d5d170a767e33b6fa780ddd833a15
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668094"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051504"
 ---
 تحدد حالات دورة حياة طلب الصيانة المراحل المختلفة التي يمكن أن يمر بها طلب الصيانة، مثل **جديد**، أو **نشط**، أو **قيد التقدم**، أو **مرفوض**، أو **مُقفل**. يمكن تعريف حالات دورة الحياة هذه وإنشاؤها لتناسب احتياجات مؤسستك وعمليات سير إجراءات العمل على أفضل وجه.
 

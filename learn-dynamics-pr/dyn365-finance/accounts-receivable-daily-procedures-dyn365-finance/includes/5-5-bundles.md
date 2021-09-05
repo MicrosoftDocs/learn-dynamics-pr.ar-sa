@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ed677d80d92554a9a9434a6da34160954eb4e4df
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: cfdfec8ce1eacde58ab9b39231befd7ee318f7f077741812087562638d0dc953
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677464"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136460"
 ---
 أصناف المجموعات هي المنتجات الفريدة الصادرة التي تم إعدادها لتضمين مكونات. يتم إجراء هذا الإعداد باستخدام قائمة مكونات الصنف (BOM). عند إدخال صنف مجموعة في أمر مبيعات، يتم استخدام المكونات الفردية لتحديد أسعار الإيرادات وجداول الإيرادات. ولكن المستندات المطبوعة الخاصة بالعميل، مثل أمر المبيعات والفاتورة، تعرض صنف المجموعة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 443adcf115b7ed5c716e9ad182eb052bc7418302
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 72b3bbe62f67b85f6881144bd3c83ac78670397dfba30a12286a8071cf822a6e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677165"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109599"
 ---
 ## <a name="plan-basic-budgeting"></a>تخطيط إعداد الموازنة الأساسية 
 

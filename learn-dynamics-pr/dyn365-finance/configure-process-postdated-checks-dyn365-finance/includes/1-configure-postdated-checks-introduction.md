@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9e23efb453292c368ebfcec905a309500368b73
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 7e5158b14848158b60b4952a3971b380156badcbecf4150defa6cd16565ea596
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677519"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105144"
 ---
 الشيكات المؤجلة هي الشيكات التي يتم إصدارها لإجراء المدفوعات واستلامها في تاريخ لاحق. لذلك، لا يمكن صرف الشيك حتى التاريخ المحدد.
 

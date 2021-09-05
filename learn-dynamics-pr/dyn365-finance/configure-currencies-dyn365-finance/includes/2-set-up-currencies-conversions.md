@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cd0309780d40b16c8d70e9549d2a3be4b18f93a8
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b7bf36c89a6234f7aaf81f7780318e6b71d2e37f72bf3f9098de414a843846cc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677495"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099537"
 ---
 من المعروف أن العملة هي وحدة قياس للمال. ومع ذلك، عندما يتعلق الأمر بالأعمال التجارية، فهي أيضاً وحدة قياس لسلامة الشركة. مثل ضغط الدم لديك، يجب فحص الارتفاعات والانخفاضات للحفاظ على نمط حياة صحي، يجب مراقبة تدفق الأموال في العمل باستمرار للحفاظ على المؤسسة مزدهرة وصحية. 
 

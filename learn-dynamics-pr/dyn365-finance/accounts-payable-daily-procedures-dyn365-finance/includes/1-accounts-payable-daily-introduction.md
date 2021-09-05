@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 60c7e85cbe16e75b862e6469f59aa947373a5fa2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 0cfeac7e1a7d100ab546bba4bcaa1171744ebb662312dae26a1cb478922fbcdd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677208"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078909"
 ---
 يُعد شراء البضائع لإعادة بيعها أو كمواد للتصنيع أو الخدمات مسؤولية كبيرة. يعد تعقب تلك المشتريات والدفع للموردين الذين يوردون البضائع تحدياً بنفس القدر.
 

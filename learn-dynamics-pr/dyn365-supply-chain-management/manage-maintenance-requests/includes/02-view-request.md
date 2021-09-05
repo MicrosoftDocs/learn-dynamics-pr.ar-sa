@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b93ce9d7b4625853912f2f0158a853ce6cfea965
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bdca65f049408adf9c6f372f8b8ad750ea4899ab5eb03d3b0368be0876a05734
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667223"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057402"
 ---
 لعرض طلبات الصيانة في الصفحة "كافة طلبات الصيانة"، اتبع الخطوات التالية:
 

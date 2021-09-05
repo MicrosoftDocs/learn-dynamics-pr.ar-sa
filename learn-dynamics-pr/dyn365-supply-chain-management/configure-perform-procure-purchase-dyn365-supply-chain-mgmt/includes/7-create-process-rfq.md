@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 44c38a2dd4e94d532dcbc1fa973ad4eb792f4e79
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 121fe866420812e6d20ebe611c08d5de7bb8bafa48258adc87fa5e7400613a86
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078092"
 ---
 تدعو عملية طلب عرض الأسعار (RFQ) الموردين إلى تقديم عطاءات على منتجات و/أو خدمات معينة. طلب عرض الأسعار عبارة عن مستند يتم إصداره عندما ترغب إحدى المؤسسات في شراء منتجات وتختار دعوة الشركات حتى تتمكن من تقديم عروض تنافسية. تشرح هذه الوحدة كيفية إنشاء طلب عروض الأسعار في Supply Chain Management.
 

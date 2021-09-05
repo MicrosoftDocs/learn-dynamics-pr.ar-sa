@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c0798871b0e955cc1bab1f55259da1931cd535c
-ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+ms.openlocfilehash: bc815610a9417015b64bfc445be8360ac0c5869c7616b3c61c3751d3c5150c07
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "6112123"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082947"
 ---
 يمكن أن تنتهي مهلة العمليات المستمرة لفترة طويلة في تطبيقات Finance and Operations. للتغلب على ذلك، تتيح المعالجة غير المتزامنة للمستخدمين متابعة العمل أثناء تشغيل العملية في الخلفية.
 

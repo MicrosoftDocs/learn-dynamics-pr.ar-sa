@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f235a99c73e3f3e3b5ec9333dbcb8736a0428480
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: abd21a2bc09997ba11d43743ec48477814672ad69157542eb202a640aa9a2c2d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677618"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109702"
 ---
 عند استلام فاتورة من مورد بضائع أو خدمات في أمر شراء، قد تتطلب العمليات التجارية استلام البضائع أو الخدمات قبل اعتماد الفاتورة للدفع. قبل البدء، تأكد من تحديد مفتاح تكوين **مطابقة الفاتورة**.
 

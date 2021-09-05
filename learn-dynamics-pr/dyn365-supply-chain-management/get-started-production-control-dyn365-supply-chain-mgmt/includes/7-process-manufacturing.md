@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 62618e0203ee0968e0d68ff49d0412fbd427ccca
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 66b1b9d6f93cebe83964bf3c9ebb510e70aa8b5588bad3dc4004335fdc0c4669
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667260"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057697"
 ---
 يوفر التصنيع التحويلي في Supply Chain Management وظائف متكاملة للتخطيط والإدارة والتوزيع في التصنيع التحويلي.
 

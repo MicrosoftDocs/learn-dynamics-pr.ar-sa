@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bcf7f8b7ff8f1b5184d81f7ec81611ab25e758b9
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 4316b393b237d1c0cfad8a412d57f81e1c1791c7a7db6a94db6cacb8aeb39d27
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071840"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141932"
 ---
 
 تعد مراجعات التعليمات البرمجية، أو الحصول على موافقة مطور واحد أو أكثر على تغييراتك قبل ‏‏إيداعها، ممارسة مفيدة في الحفاظ على استقرار المستودع.

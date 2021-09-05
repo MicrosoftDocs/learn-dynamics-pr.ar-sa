@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dfa9b98b306cc4029dda8ef6fe9a5e83dc6c8c84
-ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+ms.openlocfilehash: caec396c42dfae2a0b09287e7580698375ad070e5e0a8114399035ed02238940
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "6112027"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142272"
 ---
 يتم دعم إدارة التغيير الهندسي بشكل كامل من خلال مهام سير العمل المصممة خصيصاً لطلبات أوامر التغيير ومراجعات طلبات التغيير. يمكنك العثور على مهام سير العمل هذه بالانتقال إلى **إدارة التغيير الهندسي > الإعداد > مهام سير العمل الهندسية**.
 

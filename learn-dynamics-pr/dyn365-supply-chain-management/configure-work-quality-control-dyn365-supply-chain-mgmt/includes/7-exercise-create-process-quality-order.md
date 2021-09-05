@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 29848ae325c0f91b0924f4ea943894e4d75338de
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5782d900fb35c8aa3a5519f397b1f7c47ef298c4268a0223141436fb122a46b6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668164"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135304"
 ---
 بصفتك مدير الجودة في شركة **USMF**، تريد تمكين عملية إدارة الجودة حيث يجب فحص المخزون على الفور في وقت انتقاء منتج Surface pro.
 

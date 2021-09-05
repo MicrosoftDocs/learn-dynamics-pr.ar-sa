@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 418df34a66c852166c3dc8544ce49270dbe94813
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 391b98335bf1cb2b370d3b56993ea191a16d639ecbd7ea77fa5904b32654f539
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693262"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136034"
 ---
 يمكنك إعداد التوقيعات الإلكترونية باتباع الخطوات في هذا التدريب. يقوم التوقيع الإلكتروني بالتحقق من هوية الشخص قبل البدء في إجراء الحوسبة أو الموافقة عليه. تم إنشاء هذه التقنية بمساعدة DAT، وهي شركة بيانات تجريبية.
 

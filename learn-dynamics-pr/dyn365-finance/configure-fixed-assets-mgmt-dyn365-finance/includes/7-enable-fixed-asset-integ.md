@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8a9b0eef2291b639f67391662446037ead19885f
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 78f6540dccfac1c81f100f9e0a3c5f86dff7f6cd21cedbf99b8fcb6aa83c51c3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053314"
 ---
 يمكن أن تتكامل الأصول الثابتة مع دفتر الأستاذ العام وإدارة المخزون والحسابات المدينة والحسابات الدائنة. كما يمكن أيضاً إعداد الأصول الثابتة بحيث تتكامل مع أوامر الشراء.
 

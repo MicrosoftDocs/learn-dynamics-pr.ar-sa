@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 980ca87cbb7980b89c5af6555426635647470614
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 2acaf42d3c22415db4f184e9dcccf1fd79c60637
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668066"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7332561"
 title: العمل مع المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتزود المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management مؤسستك بالقدرة على تحديد وتعقب مكان أصولك. ولا توفر ميزة المواقع الوظيفية إمكانية التعقب فحسب، بل تعمل على تحسين علاقة إعداد التقارير بأوامر العمل وتقييمات الحالة والأعطال وتسجيلات إيقاف الإنتاج.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء مواقع العمل\n- تعرّف على كيفية تثبيت الأصول في مواقع العمل\n"

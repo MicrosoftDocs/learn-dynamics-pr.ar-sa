@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 442255c31d8a5efdf8a853ff98269d746d94467d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: abf0b316f3776581334560aa23c8a346ef3eb02a4d14c35cb939243587962eed
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667645"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108097"
 ---
 ## <a name="set-up-warehouse-work-policies"></a>إعداد سياسات عمل المستودع
  

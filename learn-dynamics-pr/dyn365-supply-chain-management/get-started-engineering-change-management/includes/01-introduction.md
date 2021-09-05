@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4ce6bc4e49f80f23ce4b855bede8ed455003e7a7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1fe4a585d0ea6a90e1ff657e2c3642ec1035a4129370d738961b0ba92107e593
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667577"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062982"
 ---
 تحتاج الجهات المصنعة حالياً إلى إدارة قوية لبيانات المنتجات، والتحكم في الإصدار، وإدارة التغيير الهندسي للنجاح في عالم تتقلص فيه دورات حياة المنتجات باستمرار، وتزداد متطلبات الجودة والموثوقية، ويزداد التركيز على سلامة المنتج.
 

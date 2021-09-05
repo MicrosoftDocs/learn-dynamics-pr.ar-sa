@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: af48c03f93d920711d3a089addf03ec0deae81aa
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 57d649bfeb48b9b01bf23d59794a1b3f27c484b97224c3633bf7f149fce5f8f7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677667"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068654"
 ---
 إذا كنت تخطط لامتلاك العديد من الكيانات القانونية، فيمكن أن يكون لكل كيان مخطط حسابات محدد خاص به، أو يمكنك استخدام نفس مخطط الحسابات لجميع الكيانات القانونية أو بعضها. 
   

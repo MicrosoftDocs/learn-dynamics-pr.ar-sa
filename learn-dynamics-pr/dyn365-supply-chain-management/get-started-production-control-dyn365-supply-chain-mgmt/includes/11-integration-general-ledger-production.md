@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d01b1aaaf9928bb16d13283d2f6d6092ce83ad6b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f218f632017dba1ff67517a26b330901439cc3bfb08322e1bda65a92a7da7714
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667764"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129376"
 ---
 بصفتك مستشار التصنيع الوظيفي، يجب أن تكون على دراية بالعلاقة بين الوحدة النمطية للتحكم في الإنتاج والوحدات النمطية الأخرى في إدارة سلاسل التوريد. يشرح هذا الموضوع التكامل بين الوحدة النمطية لدفتر الأستاذ العام والوحدة النمطية للتحكم بالإنتاج.
 

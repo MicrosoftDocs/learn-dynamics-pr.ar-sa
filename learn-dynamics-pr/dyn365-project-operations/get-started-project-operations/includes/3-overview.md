@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c8b905b4b1aa9830998f482c8e422a7f0edfc5e1
-ms.sourcegitcommit: 49e41fceff1cf34140f3ad833073b7bea9669c68
+ms.openlocfilehash: bc682971c0e53e0548202fd0bb2f70f01f67a21d943705ccb3eb6e831f5debf4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "6072760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082029"
 ---
 يقدم Project Operations مناطق الميزات التالية.
 

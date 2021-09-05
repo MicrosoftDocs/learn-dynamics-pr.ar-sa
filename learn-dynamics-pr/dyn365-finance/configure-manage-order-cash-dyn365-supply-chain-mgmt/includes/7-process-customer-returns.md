@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5ff87bc760e045f4d2bafc27f7ac8211541fe32d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9a258a27bfea74cd462501c4240d816d3d73964afb95c3493ffdbf610ec4c7ab
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677557"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093450"
 ---
 يمكن للعملاء إعادة الأصناف إلى الشركة لأسباب مختلفة، مثل عندما يكون الصنف معيباً أو إذا كان الصنف لا يلبي توقعات العميل.
 

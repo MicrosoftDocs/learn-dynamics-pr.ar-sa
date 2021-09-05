@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8f03e0504bfc4c07a90b6aa7523635922ad6d16a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 368380309b1ccb89dcfd98762b6634b1190c94f1a1a0bf1398d26db91d9094c9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668437"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139415"
 ---
 توفر أوامر التغيير الهندسي عملية منظمة لك لإجراء تغييرات على المنتجات الهندسية. يمكنك إنشاء أوامر التغيير باستخدام طلبات أوامر التغيير أو يمكنك إنشاء أمر جديد.
 

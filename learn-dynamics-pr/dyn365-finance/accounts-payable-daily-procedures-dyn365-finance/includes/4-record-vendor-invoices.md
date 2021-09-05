@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3497b08db828498188c2963adace99e862b87d32
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2b03b7b8f3303802ce38c5b32ce8dca4c1bcad4bc3b87ea0e98caed57ab3811b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141472"
 ---
 توفر هذه الوحدة معلومات عامة حول فواتير المورّد. فواتير المورّد هي طلبات للدفع مقابل المنتجات والخدمات التي تتلقاها مؤسستك. يمكن أن تمثل فواتير المورّد فاتورة في مقابل خدمات مستمرة، أو يمكنها أن تستند إلى أوامر شراء لأصناف وخدمات معينة.
 

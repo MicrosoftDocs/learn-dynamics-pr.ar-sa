@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c44de4216aacb5b3d83c906ac4ffa5f78df1f7c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: d4e124d73ce1e0744960941373413309553e230a6cb222695260e800306efb4b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677589"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093717"
 ---
 ومن الأهمية بمكان تحديد عمليات الإغلاق للحساب الرئيسي وكيفية توزيع الأرصدة في وقت الإقفال.
 

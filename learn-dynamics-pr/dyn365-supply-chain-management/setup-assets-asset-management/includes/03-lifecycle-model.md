@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b053e07501d82519952b729c0b92a5804a2617f7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 730bd6e3e6e457c592f49bad71a5de6606c9bc6274d82b646cd9280ac1c04d87
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667694"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128864"
 ---
 عند إنشاء حالات دورة الحياة المطلوبة للأصول لديك، يمكنك بعد ذلك وضعها في مجموعات تسمى النماذج. 
 

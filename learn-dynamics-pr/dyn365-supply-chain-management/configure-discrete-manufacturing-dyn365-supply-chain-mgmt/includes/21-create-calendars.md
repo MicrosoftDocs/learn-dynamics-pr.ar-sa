@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 75d250701e4208211e77975f189c7043bb145964
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8390caa3e851288bc44051867cef4a601ce88b24e05238e892c9bba3b3fa7794
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668004"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124683"
 ---
 الخطوة التالية في عملية إعداد التقويمات والموارد هي إنشاء التقويم. يجب إعداد التقاويم قبل إنشاء مجموعات الموارد. وذلك لأنه عند إنشاء مجموعة موارد أو مورد، سيتعين عليك تحديد التقويم الذي يجب استخدامه فيه.
 وفقاً لذلك، تعمل التقويمات كأساس لحساب قدرة الموارد الفردية.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c59c2ba1c93907532036544ac29ea5906885897
-ms.sourcegitcommit: 5f53f949cbde18868b43912efd7b8292994a8044
+ms.openlocfilehash: 3dba84386417565e198d41680e66f7ca25dd922f265c8014c16cf6cf28d7757d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "6301473"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059210"
 ---
 ستقوم باستخدام بيئة المشروع التي قمت بإنشائها في اشتراك Azure، وتسجيل حدث دعم من تطبيقات Finance and Operations. ستتمكن من عرض الحادث في خدمات دوره الحياة (LCS) وAzure DevOps (تعرف أيضا بخدمات الفريق Visual Studio أو VSTS)، وعرض بيانات حماية البيئة المقترنة. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 88fe76a4eb4a604a3a111ce4c073adbde65c9ae0
-ms.sourcegitcommit: afc018f2c4899625e3acf83d0e82eeda93c14bcf
+ms.openlocfilehash: 6149e8bcc443105e9258b11982f6bd130a567e9ba4dbd35a861ba3342eeb4ba6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "6070422"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101618"
 ---
 يتم إنشاء عمال المتجر في صفحة **العمال**. عند إنشاء عامل جديد، تأكد من تعيين القيم التالية له:
 

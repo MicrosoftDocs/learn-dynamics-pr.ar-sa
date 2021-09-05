@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 441d7d5ed982eec0523cd90eb3a85bd6a70ceced
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e0e3b23c8733f6103d7d3ea3595ddd7f02f44098df3fc9afae23a82bec6120a1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677755"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087263"
 ---
 يقدم Finance العديد من الاستعلامات والتقارير لكافة الوحدات النمطية الخاصة به. تتناول هذه الوحدة بعض التقارير الخاصة بإعداد الموازنات وتوضح كيفية استخدام الاستعلامات والتقارير الخاصة بتحليل الموازنة.
 

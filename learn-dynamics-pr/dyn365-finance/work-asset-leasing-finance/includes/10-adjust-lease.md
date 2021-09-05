@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fb8d21866d044aba48bbd3bcb0626e479cb43e7a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fccb3484cc76335be3d4f946f3d77a4776a018a83ba270172d5834e0fdf72a83
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677742"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063536"
 ---
 بالنسبة إلى الشركات التي تلتزم بمعيار ASC 842 أو IFRS 16، عند تعديل فترة الإيجار أو في حالة تمديد الإيجار، يلزم تعديل عقد الإيجار. 
 

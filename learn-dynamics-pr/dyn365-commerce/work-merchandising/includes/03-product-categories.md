@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 130170457b37e53fc8f999845c2de4cc7e6e8e69
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6f85c709de7ff950c5d14588a032139e384ec42d5b79ef179f4365ada7446b29
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095067"
 ---
 يمكن استخدام التدرجات الهرمية للفئات لإدارة المنتجات عن طريق التجميع المنطقي للمنتجات لأغراض مختلفة. 
 

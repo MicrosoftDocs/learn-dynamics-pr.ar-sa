@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d99b74a816c90f72c5498c69b56944252aff49a2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a8b1a2f7ca248febd36c58c5771d5de5cf5ee25c70e4128380ce998654b84f98
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667506"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091871"
 ---
 يستخدم التخطيط الرئيسي إعدادات التغطية لحساب متطلبات الصنف.
 

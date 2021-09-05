@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1f7512d0b80f3dcf451c404c0c2cd16ec4e1ae35
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: f459e18b7e0cae2166e58982762168b253ed4aa9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677757"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7336760"
 title: تكوين واستخدام الموازنات الأساسية ورقابة الموازنة في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]

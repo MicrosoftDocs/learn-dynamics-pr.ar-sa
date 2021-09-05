@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e719a7dae285721ed69b60aeedcd37355b2d55e2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: df7f85d1d56e56dac3c4277a54977857c6d0837d
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667488"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7365515"
 ---
 ## <a name="production-feedback"></a>ملاحظات الإنتاج 
 عندما يقوم العمال بتسجيل الوقت واستهلاك الصنف في وظائف الإنتاج التي تم إعدادها لاستخدام الوقت والحضور، يتم ترحيل التسجيلات في أمر الإنتاج ذي الصلة.
@@ -108,4 +108,4 @@ ms.locfileid: "6667488"
 
 -   **قائمة العمل المركزية** - يمكن لمشرفي المتجر ومديري الإنتاج عرض قائمة عمل مركزية لعرض مهام سير العمل والموافقات التي تم تعيينها لهم.
 
-لمزيد من المعلومات حول كيفية إنشاء سير عمل، راجع [التعامل مع عمليات سير العمل في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/create-use-workflows-finance-operations/?azure-portal=true/ "التعامل مع عمليات سير العمل في تطبيقات Finance and Operations").
+لمزيد من المعلومات حول كيفية إنشاء سير عمل، راجع [التعامل مع عمليات سير العمل في تطبيقات Finance and Operations](/learn/modules/create-use-workflows-finance-operations/?azure-portal=true).

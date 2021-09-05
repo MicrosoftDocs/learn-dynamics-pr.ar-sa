@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0fddb675911f550d02d957f7dd4ff2ea4db60b14
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 00e1409fb045038a6a7541a0243932a6f5d52157
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677799"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7355988"
 title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance.
 summary: >
   [!include[](../includes/module-banner.md)]

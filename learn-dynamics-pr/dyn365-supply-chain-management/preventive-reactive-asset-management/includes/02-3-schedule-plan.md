@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8235eac8a95968400c696e40eee9b4ff79e651ac
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d6dea317efb19a62841a0b161efb7ae9ebe63d07c319b31e3820064ca80cff8a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667127"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108548"
 ---
 بعد قيامك بإنشاء خطط صيانة وقائية أو تفاعلية وتعيينها للأصول، ستحتاج إلى جدولة خطط الصيانة. ستقوم جدولة الصيانة الوقائية بإنشاء إدخالات التقويم على الأصول استناداً إلى خطط الصيانة التي يتم إعدادها في الأصل. يمكنك جدولة إدخالات التقويم استناداً إلى خطط الصيانة المحددة، وأنواع الأصول، والأصول. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 76fd7807effa668de756c3cdc7e59cec03cb89d4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 74f1d2999af29cd7fe12a80b9d047705869871e4d873977476505158ffe426cb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677628"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119892"
 ---
 تشمل عمليات الأعمال في إدارة النقد والبنوك ما يلي:
 

@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operation
-  ms.openlocfilehash: 471f3977404da079906d2f8cfc82664f2e99d327
-  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 97ca137877273b2e59bd8a7feaffad151a1dd080
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2020
-  ms.locfileid: "6074763"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7327244"
 title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتُعد Lifecycle Services (LCS) بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام. \n"
 prerequisites: >

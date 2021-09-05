@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0c3759b777e36f22d50da591bd8b98860af792db
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: fa9ca19f86b9dd192c03c0b2e9eb7240093b1ac3e6ae695535cc6df1ed28d9fd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071176"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078933"
 ---
 
 يجب أن يكون لديك كيان قانوني واحد على الأقل لتمثيل أعمالك في تطبيقات Finance and Operations. يمكن للكيان القانوني إدخال العقود القانونية ومطلوب منها إعداد القوائم المالية التي تقوم بالإبلاغ عن أداءها.

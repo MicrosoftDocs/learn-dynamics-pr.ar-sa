@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a7e1f7c872c5a96890f23ada9dafa8926e38ca3
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: ed7a9de2bfb70d99f410be34495e167056e0c8c21a216d000e4a8d4019c76619
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115094"
 ---
 عند إدخال مصروفات في تقرير مصروفات، يمكن توزيع المصروفات عبر العديد من المشاريع أو الأبعاد المالية أو الحسابات في مؤسستك.
 

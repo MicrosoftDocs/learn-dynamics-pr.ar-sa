@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9b93bba66768c5d900c84bfa58739f4f459faab7
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: cfb7ea1694aa9c3531108800cc1b07ec28848b04e8d6ad08c1a0bca26679fc13
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677317"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082535"
 ---
 دعونا نناقش التقويمات المالية والسنوات والفترات المالية وكيفية استخدامها للكيانات القانونية والأصول الثابتة وإعداد الموازنة.
 

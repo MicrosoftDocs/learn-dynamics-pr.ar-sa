@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee8369cbe07b88bcc4be04707261d594ddee4331
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fea8892e6ffdef195bd1fdfb1948074a454da39dca5fb7fcf2d7e86b7d0ca3f6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667889"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046223"
 ---
 بعد تقدير أمر إنتاج، يمكنك استخدام جدولة العمليات لجدولة الإنتاج على نطاق واسع.
 

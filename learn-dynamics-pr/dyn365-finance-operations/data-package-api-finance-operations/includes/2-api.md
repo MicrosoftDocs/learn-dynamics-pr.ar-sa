@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 80db2b3b88fc733c89a75b3fe6f6f666857cb885
-ms.sourcegitcommit: 7ec2735d4a7c2f8d9603161a2339f66e7fa5d42c
+ms.openlocfilehash: c57cfdfb09ba401794f6201baf5b20443489b67bcbb36c4601103c90574cd0ee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/20/2021
-ms.locfileid: "6645988"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125398"
 ---
 يمكن للمطورين استيراد وتصدير واجهات برمجة التطبيقات (API) بين تطبيقات Finance and Operations وعمليات التوزيع المحلية. ضع في اعتبارك أن هناك بعض الاختلافات الأساسية مع هذه العمليات لعمليات التوزيع المحلية وعلى السحابة: 
 

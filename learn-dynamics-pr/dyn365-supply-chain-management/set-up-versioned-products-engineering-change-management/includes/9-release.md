@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a2410a4510010e4f4204947c6e601b719839957
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1f5f1de97b3aa39117ac0162ca080578be88c6a06935e52835a732d46907d637
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668177"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062391"
 ---
 عند إنشاء منتجات هندسية، يكون الخيار الأول هو تحديد فئة المنتج الهندسي. الحقل الموجود في هذه الفئة هو **سياسة إصدار المنتج**، الذي يغطي إصدار منتج لكيان قانوني آخر.
 

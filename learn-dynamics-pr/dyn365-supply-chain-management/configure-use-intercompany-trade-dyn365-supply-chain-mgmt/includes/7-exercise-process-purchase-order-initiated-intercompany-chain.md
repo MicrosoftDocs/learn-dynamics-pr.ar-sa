@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e255887d8ed6f1cca866f7a47c0804a4e005f70e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7cf4e2481ed34b13d693597ff2a66e82b8d7cda0f87af4cc0753ff8be91c56b4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139694"
 ---
 > [!NOTE]
 > قبل القيام بهذا التمرين، يجب عليك إكمال التمرين السابق **تكوين العلاقات بين الشركات الشقيقة**.

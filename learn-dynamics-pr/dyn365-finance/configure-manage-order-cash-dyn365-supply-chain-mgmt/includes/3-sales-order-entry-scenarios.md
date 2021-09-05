@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d21bafd6004be556dd49159098ccfb7225a8699
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9c08ab8f05f2af9ce8c9191b2073c76f5174bc2865005ecba0b8d75266e5af10
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677441"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082700"
 ---
 فيما يلي سيناريوهين لإنشاء أمر مبيعات: واحد بسيط وآخر يتضمن تباينات.
 

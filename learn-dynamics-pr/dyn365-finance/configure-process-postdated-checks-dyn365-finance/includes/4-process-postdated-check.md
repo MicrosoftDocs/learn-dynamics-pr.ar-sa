@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4d34aadab4f9611544fd3b0932f244e596b71c3c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e31fa37aba592f4e8b12c367e2b84c0a45c2b93987c43ff1b9a53da5a1d14285
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677452"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058712"
 ---
 توضح هذه الوحدة كيفية تسجيل شيك بتاريخ لاحق وترحيله لعميل ومورّد. في حالة فقدان الشيك الأصلي الصادر إلى مورّد أو تلفه، يمكنك إصدار شيك بديل بتاريخ لاحق. عند تسجيل تفاصيل الشيك، ينبغي تقديم مرجع للشيك الأصلي والإشارة إلى أن الشيك الجديد هو مجرد بديل للشيك الأصلي. يمكنك أيضاً ترحيل الشيك البديل.
 

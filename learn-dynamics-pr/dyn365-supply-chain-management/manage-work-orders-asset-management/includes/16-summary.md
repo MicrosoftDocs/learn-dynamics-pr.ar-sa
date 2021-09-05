@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 37b4d6d0b816196a88e8283d278ce22fced6ff5a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 541dbbf0eb536bb2c0f31b1411593641740eb72233efc35f1071367ae0e08389
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668139"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108668"
 ---
 وتوضح هذه الوحدة النمطية ميزات أوامر العمل وكيفية إنشائها يدوياً. لقد تعلمت كيفية إضافة بنود وظائف للقيام بها في كل أمر وكيفية إنشاء قائمة الاختيار الخاصة بالأصناف المطلوب التحقق منها أثناء الوقت الذي يتم فيه صيانة أحد الأصول أو إصلاحه. في قوائم الاختيار هذه، يمكنك معرفه كيفية ترك الإرشادات للعاملين لتحديد المشكلات المختلفة. 
 

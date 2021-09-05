@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fd09891100c87d5c1dfe46d82044c1440500f133
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 20577e6e1c311344dc7ba12574599b187339cddec3fcee52fc0c140771f88c3d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667788"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086652"
 ---
 تُعتبر الحسابات التي يتم إجراؤها للأصول ومواقع العمل وأوامر العمل متطابقة تقريباً. الاختلاف الوحيد هو أنه بالنسبة للأصول ومواقع العمل، يمكنك أيضاً تضمين الأصول الفرعية والمواقع الفرعية في الحساب. التاريخ هو تاريخ الحركة الذي تم فيه التسجيل.
 

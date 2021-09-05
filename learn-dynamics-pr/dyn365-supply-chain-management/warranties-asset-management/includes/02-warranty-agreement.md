@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0b63b71c643923069b758723325493ecb916ad8c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: da0e2a9e67280d31e81d13368149c8663a7a4665613de49c3e441572229c19c3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668117"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134604"
 ---
 تساعد الضمانات على خفض تكلفة إصلاح أصولك وصيانتها، وهذا هو سبب أهمية استمرار تعقب الأصول التي تغطيها ونوع التغطية التي توفرها والشروط.
 

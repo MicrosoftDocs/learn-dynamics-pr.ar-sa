@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9668500dda9b7e96189bd5bdb321cb2985cbedeb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e52ce6469181a4d1e22ab6474c26afb3a4f03a722337ca01363452a8a1c5036e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667813"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052428"
 ---
 ## <a name="scenario"></a>السيناريو
 تخطط شركة **USRT** لشحن النباتات الحية إلى عميل جديد في بوثيل، واشنطن، الولايات المتحدة، حيث الرمز البريدي هو

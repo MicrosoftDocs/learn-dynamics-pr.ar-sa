@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f8e18d70849ce56a90e34434787f80632e3f6d3d
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 274269d79e8402be560922f6a381663b751ac1c7318c4d1deca22241c139a43c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094500"
 ---
 تعد SQL Server Reporting Services (SSRS) النظام الأساسي لإعداد التقارير لـ Dynamics AX 2012. يتم تشغيل التقارير الافتراضية المعرّفة مسبقاً التي يتم توفيرها مع Dynamics AX على النظام الأساسي SSRS. ومع ذلك، فإن التقارير المحلية لا تقتصر فقط على تقارير SSRS. 
 

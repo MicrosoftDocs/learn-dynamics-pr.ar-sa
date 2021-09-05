@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 321ceb5e6591a62af8d7d6b9ab42657b80ba0893
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 81bdd8c610ae270abe1fe74f4822c919305e7070801d795c74574d8907bf6344
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677191"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063621"
 ---
 ## <a name="close-the-lab-environment"></a>أغلق بيئة التمرين العملي 
 

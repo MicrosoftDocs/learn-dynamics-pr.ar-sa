@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b3fc601a7718e5351b4d2adc2cbdbd0fb0ea57f9
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 68987409212eb18073233f71773f43e5348d574b63805789c1d4f7452115b116
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656572"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109378"
 ---
 في Dynamics 365 Human Resources، يشكل التعويض المتغير الأجر غير المنتظم للموظف، مثل المكافآت أو مكافآت الأسهم. تحتاج إلى إعداد بعض المكونات قبل أن تتمكن من استخدام التعويض المتغير وتسجيل موظف في خطة تعويض متغيرة.
 

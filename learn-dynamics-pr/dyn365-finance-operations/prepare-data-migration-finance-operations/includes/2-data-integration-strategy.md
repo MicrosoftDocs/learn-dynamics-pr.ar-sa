@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eba84820fec453b8e46ad009851cb5b590882cef
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: feace6249627cb0b3b8b22fa1b4806361272cfa7dcbd5444482e219a69af954a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141653"
 ---
 تستكشف هذه الوحدة أنماط تكامل وسيناريوهات وحلول Finance and Operations. على الرغم من أن هذه الوحدة لا تتضمن تفاصيل فنية حول كيفية استخدام أو إعداد كل نمط تكامل أو كيفية التعامل مع نموذج الرمز، إلا أنه من الحكمة دائماً أن تكون على دراية بأدوات التكامل المتاحة. 
 

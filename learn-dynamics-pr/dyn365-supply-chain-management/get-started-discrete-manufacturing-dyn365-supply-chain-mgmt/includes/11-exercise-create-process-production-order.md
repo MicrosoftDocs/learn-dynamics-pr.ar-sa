@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 607afb830f0d149ec5794997561d321a9b78ec10
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b8eb23d08fb138b7e8826a0ca5811762df20c3a0c63343ea49f82197634090ee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668155"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067474"
 ---
 في هذا التدريب، ستقوم يدوياً بإنشاء أمر إنتاج لعدد 10 قطع من الصنف 72708:
 

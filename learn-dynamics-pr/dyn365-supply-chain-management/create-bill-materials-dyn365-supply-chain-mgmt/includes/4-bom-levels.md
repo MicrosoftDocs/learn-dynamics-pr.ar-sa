@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fe332db3034e40d8117c83066b6e3cb7daadf63e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 238e980156485e772ff6ee71082bf0919575764bd798ccbfd6abfd4d7064397e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667591"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114018"
 ---
 تتكوّن قائمة مكونات الصنف (BOM) أحادية المستوى من مكونات تابعة بشكل مباشر تُعد ضرورية لصناعة المنتج. إنها لا تحتوي على "مكونات المكونات".
 

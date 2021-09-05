@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8a1ab428d8f744e91b934edd513857b5dfe1f691
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: b4b5817f9c6ca93f8b97c9f8ea0d9f83575e82aa
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072925"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7333330"
 ---
 يساعدك Project Operations علي تبسيط تعقب الوقت وإدارة المصروفات بالإمكانيات الآتية:
 
@@ -14,5 +14,5 @@ ms.locfileid: "6072925"
 
 - ضمان دقة التقارير والالتزام بسياسة المصروفات
 
-للحصول على مزيد من المعلومات وملفات الفيديو التوضيحية، راجع [التعامل مع إدارة المصروفات في Dynamics 365 Project Operations](https://docs.microsoft.com/learn/paths/work-expense-management/?azure-portal=true).
+للحصول على مزيد من المعلومات وملفات الفيديو التوضيحية، راجع [التعامل مع إدارة المصروفات في Dynamics 365 Project Operations](/learn/paths/work-expense-management/?azure-portal=true).
 

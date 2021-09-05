@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4818c8093b24bf2f950393ada3e15cd603efbda3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 709f6cbf68562e0bd0986ac1353750e24cc957c05b9a807f2dcb246f7e589135
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068572"
 ---
 تعد أنواع الحركات الثلاثة التي يمكنك استخدامها لترحيل الإهلاك هي **الإهلاك** و **تسوية** **الإهلاك** و **الإهلاك**
 **الاستثنائي**.

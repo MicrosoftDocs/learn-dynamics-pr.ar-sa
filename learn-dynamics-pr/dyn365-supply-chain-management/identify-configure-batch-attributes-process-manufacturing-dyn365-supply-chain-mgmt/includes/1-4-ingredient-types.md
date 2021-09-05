@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e5fecaa955333af43f3cbd927b550131ac0f27ad
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5a6ed897d76f93b0f7c91b34b8e56c5512b7b5ff4c6008da7b47369cd62f1799
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667549"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134959"
 ---
 
 يمكن أن يكون لبند المعادلة الذي تم إنشاؤه أحد أنواع المكونات التالية:

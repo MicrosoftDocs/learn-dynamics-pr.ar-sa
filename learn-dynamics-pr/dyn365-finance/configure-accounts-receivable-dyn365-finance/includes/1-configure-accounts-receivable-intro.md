@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dcc8f2e4880a586d2d8dcab080c1e3bb50674730
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: eb111bec071df5d55f11275b959c7e66a9f44a8a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677174"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7360434"
 ---
 يتعين عليك تكوين الوحدة النمطية للحسابات المدينة في Dynamics 365 Finance حتى تتمكن من إنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر التوريد. وأخيراً، ستوضح هذه الوحدة النمطية كيفية استلام المدفوعات باستخدام العديد من أنواع الدفع المختلفة مثل النقدية والشيكات وبطاقات الائتمان والمدفوعات الإلكترونية من العملاء.
 
@@ -27,5 +27,5 @@ ms.locfileid: "6677174"
 -   طرق الدفع
 -   رسوم الدفع
 
-قبل إعداد حسابات المقبوضات، يجب أن تقوم بإكمال إعداد دفتر الأستاذ العام والوحدات النمطية لإدارة البنك والنقد ([تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance](https://docs.microsoft.com/learn/paths/configure-use-general-ledger-dyn365-finance/?azure-portal=true)[ وتكوين إدارة البنك والنقد في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-cash-bank-management-dyn365-finance/?azure-portal=true)). 
+قبل إعداد حسابات المقبوضات، يجب أن تقوم بإكمال إعداد دفتر الأستاذ العام والوحدات النمطية لإدارة البنك والنقد ([تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance](/learn/paths/configure-use-general-ledger-dyn365-finance/?azure-portal=true)[ وتكوين إدارة البنك والنقد في Dynamics 365 Finance](/learn/modules/configure-cash-bank-management-dyn365-finance/?azure-portal=true)). 
 

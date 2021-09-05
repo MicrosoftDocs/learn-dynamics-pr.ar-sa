@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f0b5584304f067b833820ca8c0b119775dd5dfba
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 95841aaaee72cb8c8f22e429602acc67675aa5a3d29628a3b87a1d68e2a25f85
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667441"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052060"
 ---
 توفر العملية الحسابية **مكان استخدام الصنف** نظرة عامة على مكان استخدام الصنف في إدارة الأصول وتتضمن كيفية استخدام الصنف في أثناء مدة بقائه. يمكن فتح صفحة **مكان استخدام الصنف** من قائمة إدارة الأصول الرئيسية، كما يمكن الوصول إليها من الصفحات الآتية:
 

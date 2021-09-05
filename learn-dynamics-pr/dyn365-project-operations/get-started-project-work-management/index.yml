@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 41c71e751b79d77472b2e2c328dccc9053bd17fb
-  ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+  ms.openlocfilehash: 70452cc4735c7a0125354b171d49e9c6833c6f47
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/11/2021
-  ms.locfileid: "6072928"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7363431"
 title: بدء استخدام إدارة العمل في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتبسيط تعقب الوقت وإدارة المصروفات مع Microsoft Dynamics 365 Project Operations. يمكنك الإرسال، والموافقة، والمعالجة، والتسوية بين إدخالات الوقت والنفقات على الفور لسداد أسرع وفواتير العميل.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعلم كيفية إنشاء إدخالات الوقت وإرسالها.\n- اكتشاف نوعين من نماذج توزيع المصروفات.\n- التعرف على كيفية التقاط إدخالات المصروفات وإرسالها واستدعاؤها وحذفها.\n"

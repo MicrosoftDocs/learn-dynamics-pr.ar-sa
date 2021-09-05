@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7ce99b0e9982e1383775249d4609f5930ca6f87a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 698edd9f361dcab254e47d014a1c33bfeadad67b
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667704"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325219"
 ---
 يحتاج العديد من الشركات إلى تعقب إصدار المنتج في جميع الحركات التي تتضمن هذا المنتج. على سبيل المثال، قد ترغب في تعقب الإصدار الموجود في أمر مبيعات. وبدون هذا التتبع، سيقوم أمر المبيعات دائماً بتسجيل أحدث إصدار يتم بيعه.
 
@@ -14,7 +14,7 @@ ms.locfileid: "6667704"
 
 1. قم بتمكين **إصدار بُعد المنتج** في مساحة عمل **إدارة الميزات**.
 
-1. للانتقال إلى الأمام، يجب وضع الشركة في وضع **صيانة**. لمزيد من المعلومات، راجع [وضع الصيانة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/maintenance-mode/?azure-portal=true).
+1. للانتقال إلى الأمام، يجب وضع الشركة في وضع **صيانة**. لمزيد من المعلومات، راجع [وضع الصيانة](/dynamics365/fin-ops-core/dev-itpro/sysadmin/maintenance-mode/?azure-portal=true).
 
 1. انتقل إلى **إدارة النظام > الإعداد > تكوين الترخيص**، انتقل إلى مجموعة **التجارة**، ثم حدد **بُعد المنتج - الإصدار** وقم بتنشيطه.
 

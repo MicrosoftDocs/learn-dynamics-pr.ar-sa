@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 50d30f054aea5513925ccdb019d360cff6b41de3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b2d26055982e3234cf319377a1f6559589bb248c800fc678eb4f6d64210f0f57
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668162"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051997"
 ---
 
 قائمة مكونات الصنف هي قائمة بالأجزاء والعناصر والتجمعات والمواد الأخرى المطلوبة لإنشاء منتج. في كثير من الأحيان، قد تتضمن تعليمات مطلوبة لجمع واستخدام المواد المطلوبة لعمليات سلسلة التوريد.

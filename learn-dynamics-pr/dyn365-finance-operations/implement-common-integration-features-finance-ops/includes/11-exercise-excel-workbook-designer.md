@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 11818be41da04a2398cd0db95b25f808b88c5ad9
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: 0ab6c726ba1bfe11fd3644a0c3c96973f32286468adc46eefcb7ff113051ad7d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072635"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115834"
 ---
 ## <a name="prerequisite"></a>المتطلب الأساسي
 

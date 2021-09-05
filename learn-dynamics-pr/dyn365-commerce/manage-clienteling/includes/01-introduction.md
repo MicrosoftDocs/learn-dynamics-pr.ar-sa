@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bdfbc2566e06689bc02c64547e3f9de39a57a9a0
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 5c852d6a3427cd91c6a56401542101268a8ca1be3fde990a2c1e1ab1a09e5720
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070229"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7110781"
 ---
 في الغالب، يتم فقد المعلومات الخاصة بالعميل عند مغادره المتجر بسبب عدم وجود أي طريقة مناسبة للمساعدة في التقاط هذه المعلومات. وبالتالي، يكون هناك نقص في المعلومات المهمة التي يريدها بائعو التجزئة. 
 

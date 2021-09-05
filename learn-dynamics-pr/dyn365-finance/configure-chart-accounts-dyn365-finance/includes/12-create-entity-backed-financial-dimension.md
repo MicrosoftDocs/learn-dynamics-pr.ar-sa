@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 026767347db150954c4751e72e1b3638d9a367b2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2f2bf68c8b3d9daf26a7a3f51e2c3917327102bf3dad711d9332f7b723fcae22
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677536"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109637"
 ---
 لإنشاء بعد مالي مدعوم من الكيان، في الحقل **استخدام القيم من**، حدد كياناً معرفاً من قبل النظام لتأسيس البعد المالي. 
 

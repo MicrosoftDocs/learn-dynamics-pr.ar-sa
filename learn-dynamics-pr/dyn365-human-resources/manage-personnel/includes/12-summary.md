@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fba05ce6e4e54cbd5cbe1d13b8fea7c73f5a8757
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: d01341a6a78e6972c0c85bcd2935b8a16127ab3d30ad8464247297e05d09a70e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691165"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7104794"
 ---
 شرحت هذه الوحدة النمطية كيفية إدارة الموظفين لمؤسستك في Dynamics 365 Human Resources. تعلمت كيفية إنشاء مكونات التطبيقات وإدارتها مثل الأقسام والوظائف، وتعلمت كيفية إدارة التغييرات داخل مؤسستك. باستخدام LinkedIn Talent Hub، تعلمت كيفية تسريع توظيف المرشحين الجدد خلال مرحلة التوظيف في عملية التوظيف في شركتك واستيراد التعيينات الجديدة مباشرة إلى Dynamics 365 Human Resources. لم تعد إدارة الموظفين داخل مؤسستك بحاجة إلى أن تكون مهمة تستغرق وقتا طويلاً أو صعبة.
 

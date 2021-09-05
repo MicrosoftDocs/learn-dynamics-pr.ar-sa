@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 765d0c88268ba391a2f900761cb60b34c842ed57
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a021cda07b258cc79b43833ebbf94a475a2717dcc9efb1539fa65e2281bdb1e8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667995"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124671"
 ---
 بصفتك مدير إنتاج في **USMF**، فإنك تحتاج إلى إنشاء عملية لدفتر إلكتروني كصنف منتهٍ، وتعيين علاقات للمورد 1211، وإنشاء مسار باستخدام مجموعة أصناف التلفزيون والفيديو باسم **مسار الدفتر الإلكتروني**، مع العمليات التالية:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 49e41f3a7013b109af52bcd40ccff2f3e888c585
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: d3323e379a3c1b7390085edb6ead56b5a40482e1e1fdf3a997d8e5a82e0ae77d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691171"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092768"
 ---
 يشار إلى الوحدات التنظيمية التي تمثل مجالاً وظيفياً محدداً في نشاط تجاري، مثل المبيعات أو المحاسبة، باسم الأقسام.
 العديد من الشركات لديها التسلسلات الهرمية التنظيمية التي تظهر العلاقات بين مختلف الإدارات داخل الشركة. يرشدك هذا الإجراء من خلال إنشاء أقسام ودمج هذه الأقسام في التدرج الهرمي للإدارات في المؤسسة. عند اتباع هذه الخطوات، استخدم بيانات العرض التوضيحي USMF.

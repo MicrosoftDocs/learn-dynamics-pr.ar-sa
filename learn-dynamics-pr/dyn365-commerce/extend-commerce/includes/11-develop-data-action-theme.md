@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5fcc8f22bbf3ffeabc8423c0b89884f554a30133
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 444929988637811bbb0912a9286962559e42677f7bb49e8b7e33fab64c0a1b7c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070079"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7076009"
 ---
 تعتبر إجراءات البيانات هي دالات JavaScript التي يتم استخدامها في بنية Commerce للمساعدة على إحضار وتعيين البيانات المطلوبة بواسطة الوحدات النمطية عبر التطبيقات. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4d13563e5a2fb1169ab2e2abea6fe147338549c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3eed035f07ef9d39e130db890ae4df9e4a106eb0e223cc974531dcb79f5a9ffd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667429"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067544"
 ---
 تستخدم Supply Chain Management إعدادات الأوامر الافتراضية عندما ينشئ التخطيط الرئيسي أوامر الإنتاج وأوامر الشراء وأوامر التحويل. تشتمل الإعدادات الرئيسية على تعريف العناصر التالية:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8de726622b4c8e7d2ac0d9c64562a7217fa086a5
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 2fdc45046463b52c26f8ccd5e4607f1c1a7728103d7754244fb6b8fd1c5cbf71
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072621"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105663"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 يجب إيقاف تشغيل خدمة الدُفعة. فيما يلي الخطوات الخاصة بإيقاف تشغيل خدمة الدُفعة:

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-intelligent-order-management.1-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة حول الشروع في العمل في Dynamics 365 Intelligent Order Management
+  ms.date: 07/07/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-intelligent-order-management
+  ms.openlocfilehash: 682538d6abd03be92cca743708498b6e94942acaf8f3b44a16399391a06f2c46
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7063355"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 67daa8fd7ac7e4e1a8bdf564ebe3038439ebc40a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3cd9d116ae4fe2b8ccc2828ef6537edad8b2c034f930ef3679a1edee85085262
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051890"
 ---
 يتم إنشاء قوائم مكونات الأصناف (BOMs) التي لم يتم إقرانها بعد بالأصناف، أو التي لا تزال في مراحل التخطيط الأولية، في صفحة **قوائم مكونات الأصناف**.
 

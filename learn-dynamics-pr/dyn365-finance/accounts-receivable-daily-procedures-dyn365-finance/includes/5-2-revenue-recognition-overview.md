@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 173467961c53070d5c0d1b89bc649fe7156e2505
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 58c7c049f5b0002eb14c56857c2ec3cc7200c64a48460cc9ad9afba21b4fffa5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677465"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063702"
 ---
 يجب أن تكون الشركات في المجالات التي تبيع عناصر متعددة، مثل المنتجات والخدمات والاشتراكات وغير ذلك، قادرة على تقسيم الأوامر متعددة العناصر إلى عناصر فردية بحيث يمكن التعرف على الإيرادات استناداً إلى مجموعة من الإرشادات الخاصة بالشركة والمجال.
 

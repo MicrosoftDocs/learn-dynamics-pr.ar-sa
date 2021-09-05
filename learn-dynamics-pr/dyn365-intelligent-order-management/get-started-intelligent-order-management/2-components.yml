@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-intelligent-order-management.2-components
+title: المكونات
+metadata:
+  title: المكونات
+  description: تعرف على المكونات الأساسية للحل المستند إلى مجموعة Intelligent Order Management.
+  ms.date: 07/07/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-intelligent-order-management
+  ms.openlocfilehash: 11db31fc6155198d079b0fabcd9295644f184d80b733bd64daffc94e2c2bb41c
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7141013"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-components.md)]"

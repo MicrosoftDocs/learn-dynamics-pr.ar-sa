@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: abc8da9ac0127d464feaa605f6b280fe9f10b733
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e8e2a76b8e8b801a12750da5f4553347322b95b91f1bc2941b6410a1fc447f80
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667878"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128474"
 ---
 يتعلق تنفيذ التصنيع (ME) بإلقاء نظرة ثاقبة فورية على ما يحدث، مما يتيح للعاملين معرفة ما يجب القيام به، وبشأن توفير المعلومات المطلوبة لتوجيه العاملين وإرشادهم. بالإضافة إلى ذلك، يوفر تنفيذ التصنيع (ME) القدرة على تسجيل التكاليف ومراقبة الأداء وتتبع تاريخ الإنتاج، وهو أمر بالغ الأهمية لعملية تنفيذ التصنيع.
 

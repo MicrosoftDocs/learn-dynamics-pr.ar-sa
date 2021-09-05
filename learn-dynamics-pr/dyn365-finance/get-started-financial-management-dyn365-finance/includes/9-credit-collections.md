@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d75c1abea3b5e41e2ee2fcbdd0053baed3b02421
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 42d7b11a27105ad2c8076fcb3d7384409195fb7e80251ee47864f52db2bc3824
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677729"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087157"
 ---
 
 تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة، صفحة **التحصيلات** في Finance.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f66aee77b8f1e24519de90246ccb1f125f1f8627
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: 54b2801ce609f624168c851a44ec1a18c0d163ff7367df0226152b5f0ff5a756
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141629"
 ---
 يتم تعيين المستخدمين إلى أدوار الأمان في الوحدة النمطية لإدارة النظام في تطبيقات Finance and Operations من خلال الانتقال إلى **إدارة الأمان > الأمان > تكوين الأمان.**
 

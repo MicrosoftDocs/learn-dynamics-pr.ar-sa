@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: db6e3dfd87377910e49f8b065e81a75c04a9fb88
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6d711d26fc94582c8b9332f054c0d9e3c7b224c21b8b2e9a013e1547062ed25d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677220"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087548"
 ---
 استخدم صفحة **شروط الدفع** لتحديد جميع شروط الدفع المستخدمة من قِبل الشركة ومورديها. استخدم شرط الدفع لحساب تاريخ الاستحقاق استناداً إلى تاريخ الفاتورة.
 

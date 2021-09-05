@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: 0674ee6c0203fdd27210ab77cb5d9f0e0b2c0715
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3345cc51b5950bb5eb343c6781b08c0acad888acd6b0f4fb091a6b054e06ebfe
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139177"
 ---
 في هذه الوحدة النمطية، تعرفت على كيفية إنشاء مواقع عمل وتثبيت الأصول في مواقع العمل. وتُعد هذه المفاهيم والإعدادات مهمة لقدرة مؤسستك على تعقب المكان الذي توجد فيه أصولك. وعندما تقوم بتكوين هذه الميزات، ستتمكن من بدء العمل في طلبات الصيانة وأوامر العمل باستخدام "إدارة الأصول". 

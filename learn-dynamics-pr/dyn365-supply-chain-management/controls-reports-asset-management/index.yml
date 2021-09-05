@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 6fbbb4ad4e70bb4837a45cb3b7ec5db24997eb99
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: da8c6901f41b0c452b15caa891fcd50ca6839d97
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667592"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7324341"
 title: استخدام عناصر التحكم والتقارير في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nلإدارة أصولك بشكل فعال في إدارة الأصول لـ Dynamics 365 Supply Chain Management، يمكنك استخدام عناصر التحكم والتقارير.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- احسب مقارنات التكاليف الفعلية مقارنة بالتكاليف المدرجة في الموازنة باستخدام عنصر التحكم في تاريخ أمر العمل والتكلفة.\n- احسب الساعات الفعلية مقارنة بالساعات المدرجة في الموازنة باستخدام عنصر التحكم في ساعات أمر العمل.\n- قم بإنشاء عملية حسابية تحلل العدد الإجمالي للأخطاء خلال فترة محددة.\n- قم بإنشاء حساب مؤشر الأداء الرئيسي (KPI) الذي يتتبع أداء الأصول المحددة وأنواع الأصول.\n- حدد عملية حسابية توضح متى وما هي الفترة التي يُستخدم فيها الأصول.\n- قم بإنشاء التنبؤ الذي يتعقب مهام الصيانة المرتبطة بالمشاريع ويتكامل مع وحدات إدارة المشروع والمحاسبة.\n"

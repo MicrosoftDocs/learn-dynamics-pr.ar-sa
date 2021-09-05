@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f3c70e2cc1e96392d25ca781c26e61a0283349e6
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: 0b5f7f1545a6a9e6ae09544ef85cb0d20dee5719e37d3f5e063b6ece4461f650
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6070436"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095183"
 ---
 توفر توصيات الذكاء الاصطناعي في Dynamics 365 Commerce قوائم منتجات محسّنة وبميزة التعلم من الآلة والتي تتوفر لبائعي التجزئة لتنفيذها عبر أعمالهم التجارية. 
 

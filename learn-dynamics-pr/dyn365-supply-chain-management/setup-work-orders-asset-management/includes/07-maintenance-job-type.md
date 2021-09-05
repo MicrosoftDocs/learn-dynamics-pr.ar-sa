@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5b2a7abc190f1e540d85f9fa74b66dcaa1fb1a1c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3861753f77fb740a417fcd78ea6ab4952270d1773fa2638abf4d5f96bccc9b35
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668122"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128768"
 ---
 تستخدم أنواع مهام الصيانة لإنشاء أمر عمل. بعد إنشاء فئات نوع مهمة الصيانة والمتغيرات والعمليات التجارية، يمكنك إنشاء نوع مهمة صيانة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3945f1485e2ce2999de52ca048cbcd5bf5d8c643
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8932b4d287c01af895094e52b85cd7c36444db06d5e05056b370e71215184984
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108301"
 ---
 يُعد خيار إنشاء تقرير المخزون المتاح مفيداً في الحالات التي تحتوي فيها المخرجات على عدد كبير من بنود المخزون. 
 

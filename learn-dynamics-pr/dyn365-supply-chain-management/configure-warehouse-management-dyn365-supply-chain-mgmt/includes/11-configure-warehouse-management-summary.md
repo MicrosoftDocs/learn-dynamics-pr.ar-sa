@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee461db1565b664997274c655da02d4281ad0f11
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4e47c07fb492cddf994fa6230413384c4091455225c6a5ab9d2e98e2329ddfc3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667304"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067762"
 ---
 ‏قد تعرّفت في هذه الوحدة أن إدارة المستودعات هي إدارة سير مهام الأصناف والمخزون في المستودعات الخاصة بإحدى الشركات ومرافقها للتخزين. يساعد ذلك على تسهيل سير مهام الأصناف من خلال المستودع. وعند التكوين، تجعل إدارة المستودع في Dynamics 365 Supply Chain Management العمل في المستودع أكثر كفاءة وقابلية للإدارة. 
 

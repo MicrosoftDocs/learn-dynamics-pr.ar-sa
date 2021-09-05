@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 397febf4aef74da4685c3ddbee8c8aa20e18f626
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: de1b0ab787bf27fdb5ec1c717e17e719bff27d5d7d96a272ef5a50620179f379
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071274"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075097"
 ---
 ## <a name="scenario"></a>السيناريو
 طلبت إدارة الموارد البشرية في USMF قاعدة الفصل بين المهام لمساحة عمل **مزايا الوصول**، و **الموافقة دفتر يومية الإنتاج**. يجب أن تقوم بإنشاء القاعدة في تطبيقات Finance and Operations.

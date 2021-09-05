@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4ce8709f6bc8ba59c6d82f21012818d302bf024d
-ms.sourcegitcommit: 49e41fceff1cf34140f3ad833073b7bea9669c68
+ms.openlocfilehash: 1664edbd86efcd78cead232b2d2deb12c4e69bc684774cb1d9af7b399494b29b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "6072754"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047074"
 ---
 
 مزايا Dynamics 365 Project Operations هي:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b3bee359f9714f5eb40438d2a31cdf56c32b32e3
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 5f6fca6442b03617e230742fbec14375d035ddfb9d7dd0de64a376e20c84312b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071412"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100068"
 ---
 لتطبيق تغييرات التعليمات البرمجية الخاصة بك على بيئة غير تطويرية، قم بإنشاء حزمة برامج قابلة للنشر (SDP) وقمّ بتحميلها إلى Lifecycle Services (LCS). يتيح ذلك عملية تطبيق التعليمات البرمجية الموثوقة والقابلة للتكرار مع اقتراب التعليمات البرمجية الخاصة بك من الإنتاج. 
 

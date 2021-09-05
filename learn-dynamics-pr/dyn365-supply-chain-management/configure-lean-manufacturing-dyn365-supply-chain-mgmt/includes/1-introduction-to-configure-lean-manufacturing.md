@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c51b2488e397a7677b6287bca9a9a8399fb31cd6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: def7fbb8551f84d1efdf8f2a9f578a8f1461ebc1a837a5878da861e0c798c7d3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667164"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081693"
 ---
 عادةً ما يكون سيناريو lean manufacturing أكثر من مجرد تراكم لقواعد كانبان أو سياسات توريد المواد غير المرتبطة. يمكن وصف تدفق المواد والمنتجات في جميع أنحاء خلايا العمل والمواقع لسيناريو إنتاج أو توريد معين على أنه تسلسل أو شبكة صغيرة من أنشطة المعالجة أو التحويل تسمى تدفق الإنتاج. 
 

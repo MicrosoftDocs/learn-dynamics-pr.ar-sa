@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a86f62f48e8fe849ed0842f39ab1b0324195b628
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: dd810c17c66fb5be43dcf087644f7d45b1ee20a28c07a7f45f3301ca312c182c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072895"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098655"
 ---
 الموارد هي الأصول الأكثر أهميةً في المؤسسة المستندة إلى الخدمات. إن القدرة على العثور على الموارد المناسبة في الوقت المناسب، وحجز تلك الموارد في المشاريع، ثم الاحتفاظ بها مستخدمة سيساعد المؤسسة على تحقيق أهداف الإيرادات وأهداف رضا العملاء.
 

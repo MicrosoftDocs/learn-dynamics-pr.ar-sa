@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ebdc2b470c29c4dd598c328cbfe7256636ad71bb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 42045a9cb50db1eb5addc8cc265a42f936a7da7f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668133"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7346641"
 ---
 الآن بعد أن قمت بإنشاء ونشر تسجيلات الاستهلاك في أوامر العمل، يمكنك عرض تفاصيل الاستهلاك بطريقتين: استهلاك الأصول واستهلاك أوامر العمل.
 
@@ -37,4 +37,4 @@ ms.locfileid: "6668133"
 7.  بعد الانتهاء من المهمة، حدد **موافق** لإنشاء التقرير.
 
 > [!NOTE]
-> يمكنك أيضاً إنشاء تقرير يحتوي على مزيد من تفاصيل أوامر العمل. لمعرفة المزيد حول هذه العملية، انتقل إلى [تقرير أمر العمل](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/work-orders/work-order-report/?azure-portal=true).
+> يمكنك أيضاً إنشاء تقرير يحتوي على مزيد من تفاصيل أوامر العمل. لمعرفة المزيد حول هذه العملية، انتقل إلى [تقرير أمر العمل](/dynamics365/supply-chain/asset-management/work-orders/work-order-report/?azure-portal=true).

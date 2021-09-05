@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 822981c4450cb112b6a90a5905adf7eb89934bb4
-  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+  ms.openlocfilehash: e8190a099de5662b9e3d3139945ba738009ccf525793a102c4278b6dda521b93
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/30/2021
-  ms.locfileid: "6693258"
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7098958"
 title: إدارة مؤسستك باستخدام Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nتعلم كيفية استخدام التسلسلات الهرمية التنظيمية والتنبيهات والتوقيعات الإلكترونية وإدارة المستندات. بالإضافة إلى ذلك، ستتعرف على كيفية تعيين إعدادات البريد الإلكتروني والمناطق الزمنية. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء تدرج هرمي مؤسسي.\n- تكوين التنبيهات واستخدامها.\n- إعداد وإدارة التنبيهات وقواعد التنبيه.\n- العمل مع التوقيعات الإلكترونية.\n- إعداد إدارة المستندات.\n- تكوين إعدادات البريد الإلكتروني والمناطق الزمنية.\n"

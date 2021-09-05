@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7bf1f896195955431882ce3ed2f9940026451673
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 51bfb1c2f10cf6cac5350e84990ceb55bc5ec468a195303a9e22f596d9849533
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677721"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099401"
 ---
 ## <a name="disposal"></a>التخلص
 

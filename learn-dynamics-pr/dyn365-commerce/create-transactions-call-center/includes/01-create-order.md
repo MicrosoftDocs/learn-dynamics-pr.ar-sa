@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b2a042bad26e73f007f3c860486c7b57ff5fe049
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6117f3b93b877edc59f380404a37fa24b131e147503367799847f41fa55eb2c8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070341"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7122095"
 ---
 لإنشاء أمر مركز اتصال، يجب تعيين المستخدم في إحدى قنوات مركز الاتصال. تتضمن خطوات إنشاء أمر مركز الاتصال البحث عن عميل في صفحة خدمة العملاء، وذلك لإنشاء أمر مبيعات جديد والبحث عن منتج وتجميع عمليات دفع من العميل. بعد إكمال هذه المهام، يتم إرسال الأمر وتتاح عمليات إضافية للاختيار والشحن والفاتورة. 
 

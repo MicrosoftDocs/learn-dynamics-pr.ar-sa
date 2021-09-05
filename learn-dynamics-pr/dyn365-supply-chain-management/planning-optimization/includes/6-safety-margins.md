@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 841e0c3044102c3586d4faed31e96381e51a2926
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c7d1bca352391e889917eaca3fadaeb374ff764a5c28577a62b3c13d69f810c7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668108"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128996"
 ---
 توفر هوامش الأمان وقتاً في المخزن المؤقت بعد الحد الأدنى لوقت الإنتاج العادي. 
 

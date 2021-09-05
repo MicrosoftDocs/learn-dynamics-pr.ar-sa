@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 41c8898203785b7bd1823a54c5a4d259409e93c9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 95a314b80946f13b413e22e1a9f95ae7476156bd33058804ab23492e27642f67
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668144"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129267"
 ---
 ## <a name="assign-batch-attributes"></a>تعيين سمات الدُفعات
 

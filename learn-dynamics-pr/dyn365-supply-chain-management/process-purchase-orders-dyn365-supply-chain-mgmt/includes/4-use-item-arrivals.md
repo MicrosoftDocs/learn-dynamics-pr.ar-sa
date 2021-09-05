@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0cd0eb731046738b6a0b79529617bd7d337f7331
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 805489e94620044f0db3add19147e427b22a72cc
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667534"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7364750"
 ---
 تتناول هذه الوحدة النمطية وصول الأصناف فقط عندما لا يستخدم الصنف، أو المستودع حيث يتم استلام البضائع، إدارة المستودعات.
 
@@ -12,7 +12,7 @@ ms.locfileid: "6667534"
  
 توفر Supply Chain Management طرقاً كثيرة لتسجيل رقم الصنف والتكوين والكمية والأبعاد قبل قيام المؤسسة بإجراء تحديث فعلي.
 
-لمزيد من المعلومات، راجع [تكوين إدارة المخزون والتعامل معها في  Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true) و[التعامل مع إدارة المخزون في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات، راجع [تكوين إدارة المخزون والتعامل معها في  Dynamics 365 Supply Chain Management](/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true) و[التعامل مع إدارة المخزون في Dynamics 365 Supply Chain Management](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 يكون تسجيل الأصناف مفيداً عندما تريد الشركة التأكد من تسجيل أرقام الدُفعات أو الأرقام التسلسلية عند الوصول كي يمكن تعقبها عبر المخزون.
 

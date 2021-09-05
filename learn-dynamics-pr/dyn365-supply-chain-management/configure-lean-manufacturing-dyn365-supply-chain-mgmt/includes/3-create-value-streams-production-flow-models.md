@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 836a80a3d8ab2f0ee47b34c548fcb744fcbeb313
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6f083f5d74dc7e4eb44eb9f2fc4d7bc702db748ff47b2642e1025290366c180b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667841"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103746"
 ---
 توضح هذه الوحدة كيفية إنشاء تدفقات قيم ونماذج تدفق الإنتاج في Supply Chain Management.
 

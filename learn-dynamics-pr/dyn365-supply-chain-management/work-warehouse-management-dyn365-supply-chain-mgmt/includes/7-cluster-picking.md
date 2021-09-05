@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0784e9dcd3915ab2e28fe4625d0aba09417f1e14
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0a49a5e0044a58f7171fa51eb9b41b7d1e8827738732c09abed2de569eb6a291
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668053"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086275"
 ---
 قبل أن تتمكن من البدء في انتقاء نظام المجموعة، تحتاج إلى إعداد ملف تعريف نظام المجموعة الذي يحدد ما إذا كان سيتم إنشاء معرف نظام المجموعة تلقائياً وعدد المواضع المراد استخدامها. بالإضافة إلى ذلك، تحتاج إلى تحديد وقت فصل المجموعات وكيفية التسلسل والتحقق من عمل الانتقاء.
  

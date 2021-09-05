@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 591082b9a1589c959caf19e447ff83dd36374dda
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0f8e18745d729c61b57bf6eb58f466134d5ed9cbbc4d6b7434ebee86d11f12dd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667796"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067802"
 ---
 في شركة **USP2**، يتم إنشاء صنف وزن تعبئة جديد للسكر في أكياس 20 رطلاً كصنف M7010. أنشئ المنتج الجديد الذي تم إصداره كصنف وزن تعبئة الرؤية الجزئية. 
 

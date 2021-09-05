@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa59c88e6f8344ebcf221e773a48a9a818c6a908
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1369fd9b5cf6451f2e6ca97c77c26bed1b9898ba2aa7239fb0e4130e729f48a3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668397"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139838"
 ---
 عندما تعمل مع تعاون المورد، فإنك تعمل أيضاً مع أوامر الشراء: 
 

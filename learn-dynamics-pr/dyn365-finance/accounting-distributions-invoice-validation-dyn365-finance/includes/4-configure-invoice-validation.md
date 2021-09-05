@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9d3530b8bacf6c1062ed029b961d2e43e5ceb3a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 23439368c0d7a2c3d6f751a1e22aec1cdc3bd6727fc8605f1c974c1a026e9b55
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677619"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063762"
 ---
 تشرح هذه الوحدة تكوين سياسات التحقق من صحة الفواتير.
 

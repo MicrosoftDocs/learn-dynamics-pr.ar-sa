@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 56f2f999cfe62d1b95b145648433eea057c1719b
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: 4ed433dbd7e3d310532410eb157e143ad82ffe12b9f67f7bf22a12664c780de0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272499"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092519"
 ---
 في هذا التمرين، سوف تكمل الإجراءات التالية لتكوين مخططات جداول الكتابة المزدوجة وتشغيلها.
 

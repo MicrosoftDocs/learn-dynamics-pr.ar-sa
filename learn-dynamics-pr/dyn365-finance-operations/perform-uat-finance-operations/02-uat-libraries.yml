@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/using-task-guides-and-bpm-to-create-user-acceptance-tests
-  ms.openlocfilehash: b5345fad568f398a5adfc45118270a1621d54d46
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: 3b72e9af9fa5bfc50706f0e7f259d30ab8b8cf81
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6257028"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364997"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

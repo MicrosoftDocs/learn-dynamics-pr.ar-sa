@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 14d0c8e383c2c184de6c543614ed19c16bb93a83
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2099dcb132d92cbb23680fc3066b3c9cf3e6ea2c0da5ffb5856a8387be9e6d9a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677314"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078522"
 ---
 تتيح لك الوحدة النمطية الخاصة بالحسابات الدائنة في Finance إعداد مجموعات المورِّدين والمورِّدين وملفات تعريف الترحيل وخيارات الدفع المختلفة والمعلمات المتعلقة بالمورِّدين والرسوم وعمليات التسليم والوجهات والسندات الإذنية وأنواع أخرى من معلومات الحسابات الدائنة.
 

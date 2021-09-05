@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a31966ac3b2ebc5e4e2ec9a61a7ae3f35a5bc453
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3fe983c0ee1dcfb2d92800f119536537154c5d38546421c919fd282b5747db36
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667446"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081466"
 ---
 تربط واجهة معدات معالجة المواد (HMAX) أنظمة معالجة المواد المادية الخارجية (MH) بنظام إدارة المستودعات (WMS) المتقدم لإدارة Supply Chain Management. يتضمن إطار عمل التكامل هذا أدوات مدمجة تساعد الشركات على توسيع إطار عمل التشغيل التلقائي للمستودعات وتحسين الإنتاجية. تتكون الواجهة من قائمتي انتظار: الواردة والصادرة، كل منهما تنشئ أحداثاً تؤدي إلى إنشاء عمل في المستودع.
 

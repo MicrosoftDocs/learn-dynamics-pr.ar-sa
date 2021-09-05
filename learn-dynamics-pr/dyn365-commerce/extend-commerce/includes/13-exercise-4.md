@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 822a925a287bca5540e6a9b01c7a8ee73f4f52d8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 110e0bd43d68996e703d1f06fd3266c030229b1d8dd1433efc67efd905c7b457
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070075"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7110828"
 ---
 وباعتبارك مطوراً في التجارة الإلكترونية، فقد تمت مطالبتك بإنشاء حل مخصص في إحدى ملحقات التجارة الإلكترونية ثم نشر الحزمة إلى الموقع عبر الإنترنت. 
 

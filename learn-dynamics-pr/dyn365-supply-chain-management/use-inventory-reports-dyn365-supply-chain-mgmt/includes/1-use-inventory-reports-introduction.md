@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7838d7fe4a87f2fed6d4a0aa6c9703ddb04cc199
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 71394d2e2246e1977e062888df8e34da5bef35a2eac7eaecadefb4101ebb29a8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667348"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128708"
 ---
 توضح هذه الوحدة النمطية كيفية استخدام تقارير المخزون لعمليات supply chain management في Dynamics 365 Supply Chain Management.
 

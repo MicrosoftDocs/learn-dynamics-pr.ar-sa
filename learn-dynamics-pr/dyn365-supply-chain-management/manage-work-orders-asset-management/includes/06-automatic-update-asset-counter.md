@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d1a9570ff60c7378ee9e4581d202f935e59b9fa7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ed3e5a916acba805f016e95030f39949ab5ddee3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667543"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342163"
 ---
 يمكن تحديث العدادات يدوياً في أحد الأصول، كما يمكن تحديثها تلقائياً استناداً إلى ساعات الإنتاج أو كمية الإنتاج. 
 
@@ -45,4 +45,4 @@ ms.locfileid: "6667543"
 
 هذا مثال لخطة الصيانة الوقائية لأنه يتم إنشاء بند جدول الصيانة تلقائياً في كل مرة يتم فيها الوصول إلى الحد (+ 250).
 
-لمعرفة المزيد حول الفترات الزمنية المختلفة التي يمكنك إعدادها باستخدام خطط الصيانة القائمة على العداد، راجع قسم **نظرة عامة على أنواع الفواصل الزمنية** في [خطط الصيانة](/dynamics365/supply-chain/asset-management/preventive-and-reactive-maintenance/maintenance-plans#interval-types-overview).
+لمعرفة المزيد حول الفترات الزمنية المختلفة التي يمكنك إعدادها باستخدام خطط الصيانة القائمة على العداد، راجع قسم **نظرة عامة على أنواع الفواصل الزمنية** في [خطط الصيانة](/dynamics365/supply-chain/asset-management/preventive-and-reactive-maintenance/maintenance-plans?azure-portal=true#interval-types-overview).

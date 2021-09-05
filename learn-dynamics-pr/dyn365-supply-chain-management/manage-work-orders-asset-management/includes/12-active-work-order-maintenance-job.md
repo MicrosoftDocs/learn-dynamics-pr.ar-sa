@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3960cd196146c7a9fd79c6272237f75ce6aad32e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e7165c7187a39b30529a192352f57c1c98f843725dbc4f726134483977fd9035
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139534"
 ---
 تسرد الصفحة **مهام صيانة أمر العمل النشطة** كافة أوامر العمل المفتوحة والمعلومات المرتبطة مثل الوصف ونوع الأصل ونوع الأصل ونوع مهمة الصيانة. كما تحتوي الصفحة أيضاً على حساب، استناداً إلى الساعات المرتقبة مقابل الساعات التي تم ترحيلها، والنسبة المئوية لأمر العمل الذي تم إكماله. 
 

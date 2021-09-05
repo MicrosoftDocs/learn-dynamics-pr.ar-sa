@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bab2253865338d392fcb11a8dca3b4f219781f2c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2f9096a558440f7cdd265b26c94e83ed75d6cdacd20b2fb906b74b3f15b67fae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677607"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047785"
 ---
 ## <a name="scenario"></a>السيناريو
 يريد مدير المحاسبة تحديد التقويمات لأغراض مختلفة ومشاركتها عبر دفاتر الأستاذ المختلفة من دون الحاجة إلى إنشائها في كل كيان قانوني. قم بتنفيذ الخطوات التالية لمساعدة مدير المحاسبة.

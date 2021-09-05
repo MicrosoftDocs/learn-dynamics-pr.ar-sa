@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fe1c66c25f69c75941df7a6f9bc264e1c3dee25e
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 6ecf54e14774b93248b5f97a28e45cf337bbcdd2f14e135e0ce89bf7f5e76458
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693259"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136040"
 ---
 من خلال إدارة مؤسستك في Microsoft Dynamics 365 Human Resources، يمكنك البقاء منظماً وتمكين الاتصالات والإشعارات في مؤسستك. في هذه الوحدة النمطية، ستتعلم كيفية استخدام التسلسلات الهرمية التنظيمية والتنبيهات والتوقيعات الإلكترونية وإدارة المستندات.
 بالإضافة إلى ذلك، ستتعرف على كيفية تعيين إعدادات البريد الإلكتروني والمناطق الزمنية.
