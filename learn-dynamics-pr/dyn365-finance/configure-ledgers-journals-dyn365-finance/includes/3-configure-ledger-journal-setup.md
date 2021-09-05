@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0a963d3260624ef526cf8fd4bc49a4119cbbfdb9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 14a51d3e455dc479bcfb3f41df6e46cb4abbc385e1bae631be90cdb52661251c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677204"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105222"
 ---
 يمكنك استخدام دفاتر اليومية بسرعة وكفاءة بمجرد إعدادها. هناك العديد من المكونات التي يجب إعدادها من أجل استخدام دفاتر اليومية العامة. 
 

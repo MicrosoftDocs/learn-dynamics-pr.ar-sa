@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 96bd4d365a82743b41b447e5f225f1233a359e4b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 2328dfdfc0c43b96de3ae100c47728ccba0e0ecc19972a8e8639edd71b2013cf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070214"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116794"
 ---
 باستخدام توصيات المنتج، يوفر تجار التجزئة لعملائهم القدرة على اكتشاف المنتجات الجديدة ذات الصلة التي قد يرغبون فيها ومعرفة المزيد عنها. وعند استخدام التوصيات لتحسين اكتشاف المنتج، فإنها تخلق المزيد من فرص التحويل، للمساعدة في زيادة إيرادات المبيعات وتعظيم رضا العملاء والاحتفاظ بهم.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d7ab11cab758f576fe710edd947d47e76779938b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a99d672b586f7f459ff5a5e593264e997150eeb7e63182a569f78c1512a33305
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677654"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053337"
 ---
 أول وأهم خطوات تنفيذ Dynamics 365 Finance هي إعداد العملة.  يعد إعداد العملة إحدى الخطوات المطلوبة في تكوين النظام ويتم استخدامها لتسجيل الحركات المالية. وتشرح هذه الوحدة النمطية إدارة العملات في Finance.
 

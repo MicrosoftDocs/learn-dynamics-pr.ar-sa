@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 731dea3dc5f998908f1fa1157a13c5b9672df51c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c5fd8df901ba0b2a418db421448bf21cae2bfcd7f8268c06895cf5f4dfb1cadf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667654"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067332"
 ---
 يمكنك تنفيذ أنشطة الجدولة التالية باستخدام مخطط Gantt:
 

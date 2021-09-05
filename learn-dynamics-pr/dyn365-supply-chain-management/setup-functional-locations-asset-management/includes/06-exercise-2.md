@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4cf82e0cfaf11d93caec8190f94006aea94cd86c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1c36ee48ee9032ee5c9ead35420b194f9ed4a257f0c159dcb8ff76fbb858630c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668275"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046327"
 ---
 يمكنك الآن التمرين على إعداد نوع موقع عمل افتراضي، ثم إعداد نوع موقع عمل عادي. 
 

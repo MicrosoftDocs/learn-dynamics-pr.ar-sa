@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd10995d15d553cc0244e65c0bfa261e9969a638
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 15d8c71c473d3f6e8e19b40deb2431416a226dccc8f73c5299155662c6217e27
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077688"
 ---
 تعتبر الموافقة على الأوامر المخططة أمراً اختيارياً وهي خطوة لإنشاء أمر مؤكد. باستخدام حالة الموافقة، إذا تم تشغيل خطة رئيسية أخرى، فلن يتم حذف أمر تمت الموافقة عليه. ستقوم بالكتابة فوق أي أوامر متبقية في الحالة **غير معالج** استناداً إلى البيانات الحالية. 
 

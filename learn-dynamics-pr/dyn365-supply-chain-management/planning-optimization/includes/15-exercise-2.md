@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9f3b0f2344676b8def24cc1ffc01a7775811e46
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f40ca3ef3fa7381661566aef405b350feeca8e8439620488601cbf914240f387
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668444"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077694"
 ---
 > [!NOTE]
 > لإكمال هذا المعمل، يجب تثبيت الوظيفة الإضافية تحسين التخطيط في البيئة الخاصة بك. 

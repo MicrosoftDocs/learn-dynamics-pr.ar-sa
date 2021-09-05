@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0181b4143d9f4608cd665664e31c2359710c5311
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e2e5d7b803626d48f051040bbd8c3f3a2f6a4fa3e22af016e21a87536b2841fa
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668277"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046352"
 ---
 تشتمل جميع مواقع العمل على حالات دورة حياة تحدد حالة موقع العمل. ‏ومن الأمثلة ‬‏‫المستخدمة في ‬‏‫‏‫حالات دورة الحياة **نشط** و **معلق** و **جديد** و **‬‏‫منتهي**. يمكنك عرض الحالة الحالية لموقع العمل في أي وقت على صفحة **كل مواقع العمل**. توضح هذه الوحدة كيفية إعداد حالات دورة حياة موقع العمل.
 

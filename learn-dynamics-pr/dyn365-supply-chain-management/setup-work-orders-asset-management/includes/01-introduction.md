@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a5cf85d69bebb8f54203c47d837a29066acd2e79
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fe620ba7f1353db688921d7292097d9702c5f8f0bc7f7cd62c819f5ab1be24db
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668092"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062253"
 ---
 يتم تنفيذ أوامر العمل على الأصول. ويكون لكل أصل نوع أصل يحدد أنواع مهام الصيانة التي يمكن إجراؤها عليه. ويمكن أن يتضمن كل نوع من أنواع مهام الصيانة عناصر إضافية مرتبطة به، مثل:
 

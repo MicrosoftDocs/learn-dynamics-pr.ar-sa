@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c50a43a177549beaed72fb06f6052411734c38f
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: f7568d63abd352a9fd0364013c372c14ad63230495eaf14dc8e68d32668e108f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072470"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130579"
 ---
 يمكنك تعديل مظهر الصفحة عن طريق تغيير طريقة ظهور عنصر ما أو سلوكه في هذه الصفحة، وذلك غالباً من خلال وضع تخصيص تفاعلي. ويُسمي هذا التخصيص *التخصيص الواضح*. التخصيص الواضح هو التخصيص الذي تقوم به بشكل صريح، بواسطة تغيير مظهر عنصر أو صفحة أو سلوكهما.
  

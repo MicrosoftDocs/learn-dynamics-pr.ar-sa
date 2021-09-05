@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6711a77dcbfa7ff6a318d786ca962fa7678603ff
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 332b5d907ab53fc370cb858b1475e88a195ad039
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668136"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362365"
 ---
 تتيح الوظيفة الإضافية لتحسين التخطيط لـ Microsoft Dynamics 365 Supply Chain Management أن تحدث عملية حساب التخطيط الرئيسي خارج Dynamics 365 Supply Chain Management وقاعدة بيانات SQL الخاصة به. يُحسن تحسين التخطيط الأداء ويكون له تأثير ضئيل على قاعدة بيانات SQL أثناء تشغيل عمليات التخطيط. 
 
@@ -47,7 +47,7 @@ ms.locfileid: "6668136"
 
 عندما يتم تثبيت الوظيفة الإضافية، يمكنك الانتقال إلى **معلمات تحسين التخطيط** لتمكينها للاستخدام. في الوقت الحالي، لا تدعم الوظيفة الإضافية جميع ميزات محرك التخطيط الرئيسي الحالية، ولكنها في النهاية ستحل محل محرك التخطيط الرئيسي المضمن. 
 
-لمعرفة المزيد، راجع [الترحيل إلى تحسين التخطيط للتخطيط الرئيسي](https://docs.microsoft.com/dynamics365/supply-chain/master-planning/new-master-planning-engine/?azure-portal=true).
+لمعرفة المزيد، راجع [الترحيل إلى تحسين التخطيط للتخطيط الرئيسي](/dynamics365/supply-chain/master-planning/new-master-planning-engine/?azure-portal=true).
 
 عند تنشيطها وتعيينها إلى **نعم**، تحل الوظيفة الإضافية لتحسين التخطيط محل محركات التخطيط الرئيسية المضمنة التي تم استخدامها وتؤثر على نتائج وميزات التخطيط الرئيسي.
  
@@ -56,4 +56,4 @@ ms.locfileid: "6668136"
 
 - يجب أن تقوم بتشغيل Supply Chain Management في بيئة توفر عالية ممكنة لـ Lifecycle Services، من المستوى 2 أو أعلى (ليست بيئة OneBox)، مع الإصدار 10.0.7 من Dynamics 365 Supply Chain Management أو إصدار أحدث. إذا حاولت تثبيت الوظيفة الإضافية في بيئة OneBox، فلن يكتمل التثبيت وستحتاج إلى إلغاء التثبيت.
 
-- يجب إعداد نظامك لتكامل Microsoft Power Platform. لمزيد من المعلومات، راجع [المتطلبات الأساسية لإعداد الوظائف الإضافية](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/power-platform/add-ins-overview#prerequisites-for-setting-up-add-ins/?azure-portal=true) و[إعداد الوظائف الإضافية](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/power-platform/add-ins-overview#set-up-add-ins/?azure-portal=true).
+- يجب إعداد نظامك لتكامل Microsoft Power Platform. لمزيد من المعلومات، راجع [المتطلبات الأساسية لإعداد الوظائف الإضافية](/dynamics365/fin-ops-core/dev-itpro/power-platform/add-ins-overview?azure-portal=true#prerequisites-for-setting-up-add-ins) و[إعداد الوظائف الإضافية](/dynamics365/fin-ops-core/dev-itpro/power-platform/add-ins-overview?azure-portal=true#set-up-add-ins).

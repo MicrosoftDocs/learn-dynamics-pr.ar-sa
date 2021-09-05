@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e69d4f67a4e5550872ca4632a1402c7eeb0d0d17
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9c876be55aae33a04cbc826a0f369dabe8d989c355e8c8b212dfeb8999b1b641
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668246"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051445"
 ---
 ## <a name="set-up-cycle-counting"></a>إعداد الجرد الدوري
 

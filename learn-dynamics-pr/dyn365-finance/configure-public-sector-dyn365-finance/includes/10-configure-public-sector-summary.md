@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d021f20d3f4c5421f62daf77fe207a711c2110b0
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c51aaf1173e0e48e6edb8470b87a3f5c120f95648831b5099a1e1b00897f423a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677382"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099437"
 ---
 يُعد Finance حلاً شاملاً لمؤسسات القطاع العام، ويوفر الدعم للعمليات المبسطة والكفاءات المحسنة.
 

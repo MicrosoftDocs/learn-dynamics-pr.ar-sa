@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d7be6163b0b6e7ec1a3af3790478d889694e696e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5b3aea4a3e5dcc73fe5ab2a11f5cb962778b484cb219856f0b1d371c94d6d2cb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124642"
 ---
 الأرقام التسلسلية وأرقام الدُفعات تزود الشركات بالقدرة على تعقب منتجاتها من خلال Supply Chain Management. تُستخدم الأرقام للأغراض التالية:
 

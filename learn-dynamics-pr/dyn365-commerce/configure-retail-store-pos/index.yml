@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: b5b69ec531e970cf71b208b84be575327b0cdac1
-  ms.sourcegitcommit: 1644d13d1691ec90e3bea654b51d3c057fe7e697
+  ms.openlocfilehash: 2682fdd7614d89df59018f833df4ff19a18fa6ad
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/25/2021
-  ms.locfileid: "6070512"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7362989"
 title: تكوين متجر البيع بالتجزئة ونقطه البيع في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيتيح Dynamics 365 Commerce التكوين المركزي وإدارة قنوات Commerce المتعددة. تعتبر متطلبات عمليات تقليدية فريدة من نوعها مقارنة بقنوات Commerce الأخرى. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين ملفات التعريف وإنشاء السجلات والأجهزة.\n- تعرف على كيفية تصميم الإيصالات وتخطيطات الشاشة.\n- تعرف على كيفية تكوين بطاقة العامل وتعيين العمليات والأذونات.\n- تعرف على كيفية إنشاء متجر بيع بالتجزئة.\n- قم بتنشيط Modern POS ‏(MPOS) وCloud POS ‏(CPOS).\n"

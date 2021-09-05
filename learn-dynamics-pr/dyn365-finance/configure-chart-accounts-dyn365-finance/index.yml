@@ -7,14 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/plan-chart-of-accounts
-  ms.openlocfilehash: 04930241b6a34ec21d98d7a0d9153823fd1c890e
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: b30e23d4fc5398f072ea449a36a05c20490c0860
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677440"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7338680"
 title: تكوين دليل الحسابات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. كجزء من تنفيذ دفتر الأستاذ العام، يعد تكوين دليل الحسابات هو الخطوة الأولى المطلوبة لتحديد الحسابات والأبعاد والبنيات.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحديد المكونات المطلوبة لدليل الحسابات\n- تحديد دليل الحسابات وتكوينه\n- تحديد الأبعاد المالية ومجموعات الأبعاد وتكوينها\n- تكوين دليل الحسابات، والحسابات الرئيسية، والفئات، والقوالب، الاسم المستعار لحساب دفتر الأستاذ، والتحكم في الرصيد\n- تكوين بنيات الحسابات والقواعد المتقدمة \n"

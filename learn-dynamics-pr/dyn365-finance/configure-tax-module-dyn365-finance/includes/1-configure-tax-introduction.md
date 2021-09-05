@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 326580a83fa071e622aa7da13744791fe108aa30
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e83aae25efdd2954248c34894bc966438155108a34112f5a4a87abbfe08bd0bd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677737"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120120"
 ---
 
 باستخدام Dynamics 365 Finance ومكونات الضرائب الخاصة به، يمكن للأعمال الحفاظ على معدلات الضريبة والرسوم المستندة إلى الوحدة وضريبة الخصم، بالإضافة إلى تجهيز ومعالجة العديد من أنواع الضرائب غير المباشرة مثل ضريبة المبيعات وضريبة القيمة المضافة (VAT) والضريبة على المبيعات والخدمات (GST).

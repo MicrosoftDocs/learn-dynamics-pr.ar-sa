@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ab804084bbb3b0b0de58c5894667152e21d5eec3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fff0e57e6db195dd889b798f1f72ea7fe26d0ac1d46ae2f93da6dcf123b687a0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677404"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074980"
 ---
 يتم تقاسم شروط الدفع لحسابات المقبوضات والحسابات الدائنة. ويعني هذا أنه يمكن أيضاً استخدام شروط الدفع التي تم إنشاؤها في حسابات المقبوضات في الحسابات الدائنة والعكس صحيح. استخدم صفحة **شروط الدفع** لتحديد جميع شروط الدفع المستخدمة من قِبل الشركة والعملاء. استخدم شرط الدفع لحساب تاريخ الاستحقاق استناداً إلى تاريخ الفاتورة.
 

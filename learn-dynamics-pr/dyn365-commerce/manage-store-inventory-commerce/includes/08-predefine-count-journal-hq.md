@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4489d51a5627b0fd0d3dcbf70852de26976e3ff5
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: c1211d59f87b6baafa8e6dc2c197098575d6afc1ebc3170d33cbc53b3b133f44
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6070434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7084037"
 ---
 سيسمح إنشاء دفتر يومية جرد في المركز الرئيسي (HQ) لـ Commerce للشركة بإنشاء دفاتر يومية جرد لأحد المتاجر بشكل استراتيجي. ويمكن أن تساعد هذه الطريقة في تسهيل طلب الشركة لمتجر ما أن يقوم بجرد أصناف معينة بصورة دورية، مثل الأصناف المعرضة للسرقة بدرجة كبيرة أو الأصناف عالية القيمة. 
 

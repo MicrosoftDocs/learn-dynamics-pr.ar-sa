@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: d1c63f473a1ee503902ce88245760b1f3de61d7e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 47c2f9460d7a60de26c77d177218723d0905e0da
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667625"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7335019"
 ---
 تستهل دورة الشراء بالمنتجات والموردين. يمكنك استخدام وحدة إدارة معلومات المنتج لتحديد وإنشاء المنتجات ومتغيرات المنتجات التي تشتريها من الموردين. عندما يتم تعريف المنتجات وإنشائها، يمكنك تفويض المنتجات للاستخدام من خلال إصدار المنتجات للكيانات القانونية. 
 
-لمزيد من المعلومات حول كيفية إنشاء المنتجات، راجع [إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول كيفية إنشاء المنتجات، راجع [إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management](/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 ![رسم تخطيطي لعملية التدبير حتى الشراء.](../media/procurement-process.png)
 

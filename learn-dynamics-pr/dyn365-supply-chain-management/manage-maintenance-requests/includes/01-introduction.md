@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 15f8bfcb67507c1fc8a364d7f7e58cebe1fb6711
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c864a4d7c705925b6d01444dbb027cc68b302d4b35bb481c3bc98bad2770ae4d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667227"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062757"
 ---
 تعد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management أساسية في الحفاظ على تشغيل أصولك القيّمة بكفاءة، مع إدارة وقت التوقف عن العمل وحماية إنتاجيتك الإجمالية. 
 

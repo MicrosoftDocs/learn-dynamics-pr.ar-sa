@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 44507900188f5f6bc90893ccabefa3505a13479a
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 7c0777da28705169507bab54e170b79ccef5747b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072208"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328243"
 title: استكشف أدوات إعداد التقارير في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nيُعد التقرير عرض تقديمياً منظم للبيانات. يقدم إعداد التقارير البيانات بطريقة تتيح اتخاذ قرارات مستنيرة باستخدام تصورات البيانات ولوحات المعلومات والتقارير المالية والمستندات المنظمة. توفر تطبيقات Finance and Operations العديد من أدوات إعداد التقارير التي يمكنك استخدامها لتلبية احتياجات إعداد التقارير المختلفة. ستساعدك هذه الوحدة على التعرف على خيارات إعداد التقارير المتنوعة المتوفرة مع تطبيقات Finance and Operations. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على قدرات أدوات إعداد التقارير المختلفة في تطبيقات Finance and Operations.\n- حدد أنواع التقارير التي يجب استخدامها.\n- قم بإنشاء مصدر بيانات التقرير وتعديله.\n- التعرف على التقارير ومتطلبات الأمان.\n- نشر التقارير باستخدام PowerShell.\n- نشر التقارير باستخدام Visual Studio.\n"

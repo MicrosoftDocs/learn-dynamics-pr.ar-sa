@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 37d14540291e1622b5b3ac811a7f1f6fba150098
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 46763b0109756b874bc967c33c68d45e564b77f39bdeefb54b8bc7be09258868
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082395"
 ---
 **حق استخدام** (ROU) الأصل هو حق المؤجر في استخدام الأصل خلال دورة حياة عقد الإيجار.  بالنسبة لشركات الإيجار التي يتم التعرف عليها في الميزانية العمومية من الشركة، يتم استهلاك حق استخدام الأصل، في أساس القسط الثابت، بالإهلاك لنفس المبلغ كل شهر. 
 

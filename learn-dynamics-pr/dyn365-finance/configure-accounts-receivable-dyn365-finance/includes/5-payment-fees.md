@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d9753be3cb5725f063e5da2f3ae407a444cc3423
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f10a326a12e51a147058b75f5229b3cf24e4662cd6756fc4d4b0a9a67a37d1c1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677449"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074969"
 ---
 يمكنك استخدام رسوم الدفع للقيام بالمهام التالية:
 

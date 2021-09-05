@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 16fbc0748c1a4d287a65499ce0478e8d9d71f2bb
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b30825c0bfca3d8c084c38b026051e7cea46e7d7d3f533d723880127d9e30c73
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677609"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136340"
 ---
 يتم استخدام مخططات الاستحقاق لإعداد الإيرادات والتكاليف المؤجلة، ويمكن استخدام نفس مخطط الاستحقاق لكل من الإيرادات والتكاليف. تقوم مستحقات دفتر الأستاذ بإعادة توزيع الإيرادات أو التكاليف لبند دفتر اليومية بحيث يتم التعرف على الإيرادات والتكاليف في الفترات المناسبة. 
 

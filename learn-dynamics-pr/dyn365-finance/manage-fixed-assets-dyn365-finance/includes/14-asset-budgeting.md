@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9a73931d7eef24f194269604b14948b8a33fb310
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: be3f5b25765c8e24cc640e5483c38a6bbb4a71dae8a1d51a532d31ca98cf5457
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677720"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099395"
 ---
 باستخدام Finance، يمكن إنشاء موازنات منفصلة للأصول الثابتة والتي ليست جزءاً من الميزانيات المالية التي تم إدخالها في الوحدة النمطية لإعداد الموازنة. وبدلاً من ذلك، يمكن تضمين موازنة الأصول الثابتة في الميزانيات المالية.
 

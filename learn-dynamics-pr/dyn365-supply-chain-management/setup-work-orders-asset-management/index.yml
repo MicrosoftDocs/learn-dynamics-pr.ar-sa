@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d04429000c3209a236cf541566534539c6c79614
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 39285721f28cfcc6a7340fd2b0fc162d6bd7b26f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668084"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7363269"
 title: إعداد أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتُستخدم أوامر العمل لتعقب مهام الصيانة وإدارتها في إدارة الأصول لـ Dynamics 365 Supply Chain Management. قبل أن تتمكن مؤسستك من استخدام أوامر العمل، ينبغي تكوينها أولاً بناءً على الهيكل التنظيمي والعمليات. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء أنواع وفئات الوظائف\n- تحديد حالات دورة حياة أمر العمل وأنواعها لأوامر العمل\n- تحديد التكاليف المرتبطة بالمشاريع المتعلقة بمشاريع إدارة الأصول\n- إنشاء تعريفات مستوى الخدمة لأوامر العمل \n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 416898c7e08f97d97b63ff5bcdc1ad2e649a7417
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9e80e099cc340cec29af085ce2a616617f62aec64ca401bb00b3b9473b655951
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667893"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062231"
 ---
 يمكنك إنشاء مهن مهام الصيانة، مثل المهن الميكانيكية أو الكهربائية، لتحديد المهنة المرتبطة بنوع مهمة الصيانة. يمكن أن تتضمن مهن مهام الصيانة أيضاً متطلبات الاختصاص.  
 

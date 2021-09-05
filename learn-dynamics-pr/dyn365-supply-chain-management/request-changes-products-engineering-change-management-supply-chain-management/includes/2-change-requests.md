@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fce30e97cc9750a38a9870a5cf0fb2f91c50aab4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c3c473fefc313cf52d2d5cca64a98219611502506e0de6d95887b12bf3a9fb58
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667901"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062520"
 ---
 تسمح عملية طلب التغيير الهندسي لأي مستخدم بطلب تغيير منتج هندسي. يتيح السماح لأي مستخدم بتقديم طلبات فرصة لاقتراح تحسين المنتج بشكل منهجي، أو إنشاء أفكار لمنتج جديد، أو الإبلاغ عن مشكلة في أحد المنتجات. بعد إرسال طلب التغيير، سيقوم مالك المنتج أو المستخدمون ضمن سير العمل بمراجعة الطلبات والتصرف بناءً عليها.
 

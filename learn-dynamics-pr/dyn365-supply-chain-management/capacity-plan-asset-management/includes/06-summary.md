@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: b8812e42743379a4c988b55053781dcc2591a9b0
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 437e63267aa6659d9294209ca6cd55795c5d80b57a340cd72da1d72705fa4290
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092264"
 ---
 في هذه الوحدة النمطية، تعرّفت على كيفية تشغيل التقارير لحساب القدرات الإنتاجية وتنبؤات الأصناف. تمثل هذه المعلومات جزءاً مهماً في مساعدة مؤسستك على تحديد المعايير اللازمة لتلبية أهداف الإنتاج والتخطيط بطريقة أكثر كفاءة لتلبية متطلبات القدرة الإنتاجية المستقبلية.

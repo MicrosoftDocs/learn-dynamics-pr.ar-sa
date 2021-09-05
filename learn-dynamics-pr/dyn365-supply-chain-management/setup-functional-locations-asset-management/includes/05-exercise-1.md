@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ab05fd4d4bdb791b3c4d9bb829f397277d8f1687
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 900ded4369d890ccedf8f5d5ccc129833cc149c05af5810f7af52a564e8bc168
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668124"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046333"
 ---
 حان دورك الآن لممارسة إعداد حالة دورة حياة موقع عمل جديدة. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2a4d8fad2ef10c0eac4ca8871b8b48aeb5de13ac
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0495979109cde56595564fa84616a460c8f81284
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667780"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366288"
 ---
 باختلاف سمات المنتج، تتيح لك أبعاد المنتج تعقب قيمها في جميع العمليات الرئيسية، مثل أغراض التكلفة والمخزون والتحليل. في حين أنه يمكن ربط سمات المنتج بالمنتجات وأصول المنتجات، لا يمكن استخدام أبعاد المنتجات إلا مع أصول المنتجات (باستثناء الأساسيات التي تم تكوينها باستخدام خيار **إنشاء تكوين مستند إلى قيد‬**). هذا لأنهم يشكلون تفرد اختلافات أصل المنتج.
 
@@ -131,5 +131,5 @@ ms.locfileid: "6667780"
 
 باستخدام مكون المنتج، يمكنك إنشاء نماذج التكوين والاحتفاظ بها.
 
-لمزيد من المعلومات، راجع [الشروع في العمل باستخدام تكوين المنتج في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/get-started-product-configuration-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات، راجع [الشروع في العمل باستخدام تكوين المنتج في Dynamics 365 Supply Chain Management](/learn/modules/get-started-product-configuration-dyn365-supply-chain-mgmt/?azure-portal=true).
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1c547798e96cc6b7a74efe9e9c3dd54d012b334
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e42a0c994413a00eac931e0f3ed92f5bc31fb052b561793a03297b61adaf76c5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667588"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067680"
 ---
 يتم استخدام وظائف كانبان للأحداث حيث يجب إنشاء وظائف كانبان، فقط عند حدوث أحداث معينة. الأحداث التي تؤدي إلى تشغيل وظائف كانبان هذه هي أحداث سطر المبيعات وأحداث سطر قائمة مكونات الصنف للإنتاج وأحداث تجديد المخزون وأحداث سطر كانبان.
 

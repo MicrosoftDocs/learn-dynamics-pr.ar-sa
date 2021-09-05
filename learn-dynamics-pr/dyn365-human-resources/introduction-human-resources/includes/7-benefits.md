@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e03a147583d0bb6a1c463b5fbd572dd7aaf802f0
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 9f1771ff05bb328385d6cbfd972b419d19f4d63b
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072680"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362527"
 ---
 لكي تظل قادراً على المنافسة، يجب أن تقدم مجموعة غنية من المزايا لجذب أفضل موظفيك والاحتفاظ بهم. بالإضافة إلى المزايا القياسية مثل التغطية الطبية وتغطية الأسنان، قد ترغب أيضاً في تقديم خدمات موسعة مثل المساعدة في التبني وبرامج الترفيه وبدلات الملابس. توفر لك إدارة الفوائد في Dynamics 365 Human Resources حلاً مرناً يدعم مجموعة متنوعة من خيارات الفوائد. يتضمن Human Resources أيضاً تجربة موظف سهلة الاستخدام تعرض عروضك.
 
@@ -23,4 +23,4 @@ ms.locfileid: "6072680"
 
 -   يوفر مجموعة من الأدوات التي يمكنك استخدامها لإعداد وصيانة الفوائد والخصومات وخطط تعويض الموظفين التي تقدمها أو تعالجها لموظفيك.
 
-للحصول على مزيد من المعلومات، راجع [نظرة عامة على إدارة الفوائد](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-management-overview/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [نظرة عامة على إدارة الفوائد](/dynamics365/human-resources/hr-benefits-management-overview/?azure-portal=true).

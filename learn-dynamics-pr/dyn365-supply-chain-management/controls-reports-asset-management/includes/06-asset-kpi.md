@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9dffd0353fa3eb175556886edf1552db467b4f44
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 612f1896a6bd63cb4a286bf7d4bdb01783f42201382a5aec9bd64a751f0513b9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667442"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086641"
 ---
 يمكنك حساب العديد من مؤشرات الأداء الأساسية (KPI) للأصول وأنواع الأصول. استخدم مؤشرات الأداء الأساسية (KPI) للحصول على نظرة عامة حول الأصول المرتبطة، مثلاً، بوقت التشغيل ووقت التعطل ووقت الإصلاح ومتوسط ​​الوقت بين حالات الفشل (MTBF).
 

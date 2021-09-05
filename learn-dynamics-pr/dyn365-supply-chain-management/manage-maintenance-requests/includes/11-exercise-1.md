@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8e12096954d480e548023ededfdf4d916518e46f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 93ec678043936caf4ea884081394408954c3a6ebb2cdace6de37e5e01413d8bb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667214"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129146"
 ---
 تمتلك Munson’s Pickle and Preserves Farm سكيناً هوائياً يحتاج إلى الصيانة لأنه يسرب زيتاً. المهمة الخاصة بك هي إعداد طلب صيانة:
 

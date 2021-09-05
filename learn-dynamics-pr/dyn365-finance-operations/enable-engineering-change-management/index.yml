@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: cbbd75c4a4f48d97904f29db3cda82ffc1eac1ae
-  ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+  ms.openlocfilehash: f4598e9a1b87e07de22483b060d71b840ca795d1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/27/2021
-  ms.locfileid: "6111943"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7360548"
 title: تمكين إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nمطلوب بعض الإعداد لاستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management. يجب تمكين الميزة، وتحديد الخطورة. كما تحتاج إلى تحديد مالكي المنتج، وتكوين مهام سير العمل للموافقة على أوامر التغيير الهندسية وطلبات التغيير الهندسي.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين ميزة إدارة التغيير الهندسي والتراخيص.\n- إعداد درجات خطورة التغيير الهندسي‬ وقواعد الخطورة.\n- إعداد مالكي المنتجات.\n- استخدام سير العمل مع إدارة التغيير الهندسي.\n"

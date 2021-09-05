@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 80372b4cb616b4ca0f78599d18d8b1e5f10b10d9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f2fb828645c9e45d0f6a6b31878b39975a92b9d036975927b01f0e3469689e79
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677383"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078720"
 ---
 ان القطاع العام، والذي يشار إليه أيضاً باسم الولاية والقطاع المحلي، هو في الغالب صناعة خدمات تدير رفاهية المواطنين. تتضمن صناعة القطاعات العامة المؤسسات الموجودة في مجالات المعيشة والتعليم والرعاية الصحية والأمان العام والأعمال العامة والبنية التحتية والدفاع القومي والضرائب والبرامج الاجتماعية المتعددة.
 

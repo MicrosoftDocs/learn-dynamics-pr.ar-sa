@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74d252c59349a41a63c747d2b59364a7c8d3dcc0
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: 5f5f0bdc088f58f55a0124fbd4f85162a224f5e4064a8ae2bdeaa49e26d8baa4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446801"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095377"
 ---
 لنبدأ بإلقاء نظرة عامة على Dynamics 365 Commerce. تعد صناعة البيع بالتجزئة واحدة من أكثر الصناعات ثورية وديناميكية. يجب أن يكون العملاء على دراية بالتكنولوجيا، وعلى دراية، ومتميزين، مما يخلق توقعات متزايدة باستمرار لخدمة البيع بالتجزئة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 437f77aa72c71a798216135aae7a8e286d56828a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a69f72ef781c1224ea2f128d22d5f293ab60373f505b599cdce68d12c7903f91
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129300"
 ---
 ## <a name="scenario"></a>السيناريو
 الآن بعد أن تعلمت أساسيات Dynamics 365 Supply Chain Management، والوحدات والميزات التي تتضمنها، حان دورك لاستكشافها.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ff8f5f272b8eb7aee5ac698331e6d2ce7bed3f6b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e417b487c16860635f92acfed591a77bdd7bc01e
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677438"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7364949"
 ---
 التوزيع هو عملية توزيع المبالغ النقدية على حساب دفتر أستاذ واحد أو أكثر. حساب دفتر الأستاذ هو المصطلح المستخدم في Finance الذي يتكون من الحساب الرئيسي بالإضافة إلى الأبعاد المالية، والتي يمكن أن تكون فارغة.
 يمكن إجراء عمليات توزيع دفتر الأستاذ باستخدام إحدى الطرق التالية:
@@ -34,7 +34,7 @@ ms.locfileid: "6677438"
 ![لقطة شاشة لصفحة قاعدة توزيع دفتر الأستاذ.](../media/ledger-allocation-rules.png)
 
 
-لمزيد من المعلومات حول تخطيط الموازنة، راجع [تكوين واستخدام تخطيط الموازنة في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-use-budget-planning-dyn365-finance/?azure-portal=true).
+لمزيد من المعلومات حول تخطيط الموازنة، راجع [تكوين واستخدام تخطيط الموازنة في Dynamics 365 Finance](/learn/modules/configure-use-budget-planning-dyn365-finance/?azure-portal=true).
 
 يتم توضيح نظرة عامة على عملية توزيع دفتر الأستاذ أدناه.
 

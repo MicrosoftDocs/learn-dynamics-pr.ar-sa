@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6e5c226e96be24a2a4ae09cb1977ac39c09d87d
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a6b7c0ff64036589c7dcfe1ecf005b32dd39bdfecfbcd14bcd1e287bf486014b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071879"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094384"
 ---
 تعد القدرة على فهم الفجوات في الوظائف بين النظامين القديم والجديد أمراً مهماً لتخطيط التصميم، وللمساعدة في تحديد وظائف جديدة وتحديد كيف ومتى يمكن نشرها.
 

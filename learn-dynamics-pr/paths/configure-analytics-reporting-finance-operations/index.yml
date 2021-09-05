@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 41ff5e95f22b0596cba82b18fa69ea0548647dd7
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 1f03b8cfbcb2ec3bafe0a63c131a9ef9b81a10b1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6074757"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7363214"
 title: تكوين التحليلات وإعداد التقارير والعمل معها في تطبيقات Finance and Operations
 summary: "[!include[](../../includes/lp-banner.md)]\n\nيمكن لقادة الأعمال اتخاذ قرارات مهمة في شركتهم إذا كانت لديهم رؤية دقيقة للبيانات المالية والتشغيلية الأساسية. يمكن لمستخدم الأعمال أيضاً تكوين أداة إعداد التقارير الإلكترونية واستخدامها بدون كتابة سطر واحد من التعليمات البرمجية، لاعتماد متطلبات تنظيمية جديدة وإنشاء مستندات الأعمال بالتنسيق المطلوب لتبادل المعلومات إلكترونياً مع الهيئات الحكومية والبنوك والأطراف الأخرى. \n"
 prerequisites: >

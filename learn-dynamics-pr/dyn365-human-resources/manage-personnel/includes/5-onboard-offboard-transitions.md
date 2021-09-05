@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 435e03843e4009119a51338a038aab0703ddc344
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: 4f39c3b2236bfb5f7cb426378073c6a85d47acf98eb01c35fa5b934c88317cbf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691181"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109336"
 ---
 كلما تتغير حالة الموظف، مثل أثناء عمليات الإعداد والتهيئة والانتقال أو أثناء عمليات النقل بين الشركات الشقيقة، يمكنك استخدام Dynamics 365 Human Resources للتأكد من عدم تفويت أي خطوات أثناء العملية.
 

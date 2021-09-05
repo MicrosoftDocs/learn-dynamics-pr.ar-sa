@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a5c12758399c8a82442cd9f329ab7a5823708e8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f13a11a5252a44a04686bc41797dd3a41b3780476b262b5765d37414501da66b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668438"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077653"
 ---
 يتم استخدام خطط الصيانة من أجل الصيانة الوقائية والتفاعلية للأصول الفردية في مؤسستك. تتمثل إحدى مهامك الأولى عند استخدام مهام الصيانة الوقائية والتفاعلية في إدارة الأصول في إنشاء خطة صيانة. خطط الصيانة التي تقوم بإنشائها في التطبيق هي مهام وقائية مخططة مسبقاً يتم تنفيذها على أحد الأصول. 
 

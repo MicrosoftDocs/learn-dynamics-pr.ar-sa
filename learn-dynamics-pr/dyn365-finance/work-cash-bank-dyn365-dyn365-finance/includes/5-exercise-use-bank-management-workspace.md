@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 795a2bfc9e7c11bfb411de8e7b11a8024570269e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 76a59e762d04b0d0966da09c80bce150eeb9918645f455e6b4f1c6be20013245
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677800"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141274"
 ---
 في هذا التمرين، ستقوم باستكشاف مساحة عمل **إدارة البنك**.
 

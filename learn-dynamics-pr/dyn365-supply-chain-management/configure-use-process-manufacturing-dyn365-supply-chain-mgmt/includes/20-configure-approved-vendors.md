@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 35ec40bfe400e164db2e87a58281ba692eda0038
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ff4888db62db6764bc791d96018c413f870bcd9daf50b1227a1de292c61c1565
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667797"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135470"
 ---
 تسمح قوائم الموردين المعتمدين (AVL) بوضع قيود على صنف ما لتحديد الموردين الذين يمكن شراء الصنف منهم. تضمن هذه الطريقة أن حركات الشراء يتم إجراؤها دائماً على القائمة المعتمدة فقط.
 

@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-intelligent-order-management.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/07/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-intelligent-order-management
+  ms.openlocfilehash: 5cf94eab8f8a75ff9d217d319c8466ce375391073f97b48d3683581da7d626a5
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7109323"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: تعد Dynamics 365 Intelligent Order management أحد تطبيقات Microsoft Dataverse الموصوفة بأي من التعريفات التالية؟
+    choices:
+    - content: مستقلة عن التطبيقات الأخرى ولكن يمكن أن تتكامل مع تطبيقات Dynamics 365 الأخرى
+      isCorrect: true
+      explanation: تم تصميم Intelligent Order management للتكامل مع تطبيقات Dynamics 365 الأخرى ولكنها لا تعتمد على التطبيقات الأخرى لتعمل. إنها تطبيق مستقل مع هيكل ترخيص منفصل.
+    - content: تعتمد على Dynamics 365 Supply Chain Management
+      isCorrect: false
+      explanation: تم تصميم Intelligent Order management للتكامل مع تطبيقات Dynamics 365 الأخرى ولكنها لا تعتمد على التطبيقات الأخرى لتعمل. إنها تطبيق مستقل مع هيكل ترخيص منفصل.
+    - content: تعتمد على Dynamics 365 Sales
+      isCorrect: false
+      explanation: تم تصميم Intelligent Order management للتكامل مع تطبيقات Dynamics 365 الأخرى ولكنها لا تعتمد على التطبيقات الأخرى لتعمل. إنها تطبيق مستقل مع هيكل ترخيص منفصل.
+  - content: أي من المهام التالية يسمح الموفرون للعملاء بأدائها؟
+    choices:
+    - content: شراء الخدمات الأخرى
+      isCorrect: false
+      explanation: تسمح لك Intelligent Order management بالتكامل مع التطبيقات الأخرى، ولكن يجب أن يكون لديك حساب موجود مع هذه التطبيقات. لن توفر Intelligent Order Management مثيلاً تلقائياً لهذه التطبيقات أو توفر آليات دفع لشرائها.
+    - content: احصل على إصدارات مجانية للخدمات الأخرى
+      isCorrect: false
+      explanation: تسمح لك Intelligent Order management بالتكامل مع التطبيقات الأخرى، ولكن يجب أن يكون لديك حساب موجود مع هذه التطبيقات. لن توفر Intelligent Order Management مثيلاً تلقائياً لهذه التطبيقات أو توفر آليات دفع لشرائها.
+    - content: التكامل مع التطبيقات الخارجية
+      isCorrect: true
+      explanation: تسمح لك Intelligent Order management بالتكامل مع التطبيقات الأخرى، ولكن يجب أن يكون لديك حساب موجود مع هذه التطبيقات. لن توفر Intelligent Order Management مثيلاً تلقائياً لهذه التطبيقات أو توفر آليات دفع لشرائها.
+  - content: أي من العبارات التالية خاطئة بشأن مصمم التنسيق؟
+    choices:
+    - content: يقوم بأتمتة العمليات التجارية المتعلقة بسلسلة التوريد الخاصة بك بدون رمز/رمز منخفض.
+      isCorrect: false
+      explanation: تم إنشاء مصمم التنسيق ليكون بسيطاً لتخصيص واستيعاب التدفقات الفريدة التي لدى مؤسستك.
+    - content: لا يمكن تخصيصه لتلبية الاحتياجات المحددة لمؤسستك.
+      isCorrect: true
+      explanation: تم إنشاء مصمم التنسيق ليكون بسيطاً لتخصيص واستيعاب التدفقات الفريدة التي لدى مؤسستك.
+    - content: ويستخدم Power Automate.
+      isCorrect: false
+      explanation: تم إنشاء مصمم التنسيق ليكون بسيطاً لتخصيص واستيعاب التدفقات الفريدة التي لدى مؤسستك.

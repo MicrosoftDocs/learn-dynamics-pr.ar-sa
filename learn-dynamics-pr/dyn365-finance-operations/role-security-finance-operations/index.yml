@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 30d326584bbb12f67ada93c995625540d3f3378a
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: 74f2d540048c89d5de2c376218b6026e7f87318d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6254131"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352707"
 title: تنفيذ الأمان المستند إلى الدور في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتستخدم تطبيقات Finance and Operations الأمان المستند إلى الدور لتعيين الوصول إلى المكونات في النظام. يكون لدى المستخدم الذي تم تعيينه لدور أمان حق الوصول إلى مجموعة الامتيازات المرتبطة بهذا الدور.   \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء الأدوار والواجبات والامتيازات والأذونات وتعديلها.\n- راجع التدرج الهرمي للأمان المستند إلى الدور.\n- استخدام سياسات الأذونات وفرضها.\n- تحديد إطار عمل أمان البيانات القابل للتوسيع (XDS).\n- تطبيق أذونات الأمان.\n"

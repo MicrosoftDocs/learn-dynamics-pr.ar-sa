@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6ff6d18b12ed7036618171315dd9a9a133eff46
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 8a9db4492369f12e63672e8387766197a46263ff761cc15d07b8de4d45badcd2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141268"
 ---
 توضح هذه الوحدة عملية إيداع الأصول النقدية في أحد البنوك باستخدام دفاتر اليومية العامة في Dynamics 365 Finance وعكس الإيداع عن طريق إلغاء الدفع.
 

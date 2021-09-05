@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c141a46da1a4925f59c31efa1e6baef7deca831d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2a153c1c34828151ee4813592e63b370f9469fafd99d0fcb0977be996134e8df
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667996"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052601"
 ---
 يجب إرفاق العمليات الموجودة في أحد المسارات ببعضها البعض بطريقة منطقية لعكس عملية الإنتاج. ووفقاً لتعقيد الإنتاج، يمكن أن يؤدي ذلك إلى شبكة مسار. بالنسبة للمسارات البسيطة، حيث يتم تشغيل العمليات واحدة بعد الأخرى، لا يلزم وجود شبكة مسار.
 

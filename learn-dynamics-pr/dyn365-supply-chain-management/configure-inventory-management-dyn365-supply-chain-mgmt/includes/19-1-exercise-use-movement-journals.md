@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5b1af28339ad1b42af2c049029d410760b388a22
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a3de31551efa2885a8fa12f2adb9d02da4a1c5e87eec0c84a3cdcbb116e19268
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667366"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081699"
 ---
 ## <a name="scenario"></a>السيناريو
 في **USMF**، تحتاج إلى تحديث المخزون الفعلي يدوياً باستخدام دفتر يومية حركة المخزون. 

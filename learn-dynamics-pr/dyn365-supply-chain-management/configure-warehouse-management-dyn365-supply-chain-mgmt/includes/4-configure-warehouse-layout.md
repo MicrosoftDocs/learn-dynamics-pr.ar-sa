@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7816429ed00e5805ecfb8425628605ac03620788
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: dbc953e5f325e3c7acad6e46efa587cfeaf4278a4e2fd7eab1018ac2bf0069b2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667600"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135408"
 ---
 توفر إدارة المستودعات طرقاً مرنة لتحديد تخطيط مستودعك لتلبية الاحتياجات المتغيرة كي تتمكّن من تحقيق كفاءة المستودع المثلى. تسمح لك إدارة المستودعات بالقيام بما يلي: 
 
@@ -16,7 +16,7 @@ ms.locfileid: "6667600"
 
 لاستخدام إدارة المستودعات في Supply Chain Management، يجب عليك إنشاء مستودع وتمكينه لأنشطة إدارة المستودعات الأكثر تقدماً أو تخصصاً.
 
-في القسم **إعداد خاص بالمستودع**، حدد الخيار **استخدام عمليات إدارة المستودعات**.
+في القسم **إعداد خاص بالمستودع** ، حدد الخيار **استخدام عمليات إدارة المستودعات** .
 
 [![لقطة شاشة لصفحة مجموعات أبعاد التخزين.](../media/storage-dimension-groups.png)](../media/storage-dimension-groups.png#lightbox)
 

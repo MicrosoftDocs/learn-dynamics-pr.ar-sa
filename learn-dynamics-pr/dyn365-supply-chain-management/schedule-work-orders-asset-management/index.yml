@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: c17e26c6bba728cb25d23f5f68a4a53606b7c424
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 239cdc67848ed766e76f8d40463f06d8fc656c74
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667671"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7348783"
 title: جدولة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nيتم إنشاء جداول لعمال الصيانة والأصول والأدوات الأخرى عند جدولة أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء تقويمات العمال والجدولة. \n- تعريف عمال الصيانة المفضلين وتعيينهم. \n- جدولة أوامر العمل وإرسالها، بما في ذلك الجدولة لتاريخ ووقت محددين.\n- راجع مهام صيانة أمر العمل المجدول لتعيين موارد لمهام الصيانة. \n- تعرف على كيفية حساب القدرة الإنتاجية على أوامر العمل المجدولة حسب فترات محددة.\n"

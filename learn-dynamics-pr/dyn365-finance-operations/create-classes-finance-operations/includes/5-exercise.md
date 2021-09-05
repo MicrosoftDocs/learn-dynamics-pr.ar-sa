@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e75de7a46d3f692bd337ad16dd912bf3c299872d
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 9c1794875af5ea04fb4b885892c889012fb4d09e00ab28ba1b03617e2e42d27c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6185253"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7069151"
 ---
 ## <a name="scenario"></a>السيناريو
 باعتبارك مطور تطبيقات Finance and Operations، تم تكليفك بمهمة إدراج سجلات عملاء في جدول شركة Fleet Management. حيث تحتاج إلى إنشاء فئة قابلة للتشغيل وإضافة الكود الذي ستُدرج سجلين في جدول `FMCustomer`.

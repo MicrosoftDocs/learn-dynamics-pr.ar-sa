@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2dd99a1c6a69768f52329559ac7faa66ea8dc9f8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a6757bd1d89200da6cba58ab68b402fc684e512ff6deeac7523ace68580ec74f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667333"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124591"
 ---
 ## <a name="scenario"></a>السيناريو
 تريد تعيين إعدادات الربح لمساعدة موظفي المبيعات في الحصول على سعر مبيعات دقيق محسوب بعد النظر في جميع تكاليف الخزانة D0002 في شركة USMF. بالإضافة إلى ذلك، تحتاج إلى تحليل تصنيف التكاليف من خلال عرض كشف التكاليف.

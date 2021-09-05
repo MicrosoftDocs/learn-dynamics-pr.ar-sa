@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7b7bf85afe9ee5a1eb42a5fee62764ff2a8eb667
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cecad0bb3ae713c85f6e3a36fbcc495c169677bfb39326f23c88eaa367c29b57
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667988"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078050"
 ---
 
 لا تتغير القاعدة الأساسية لتدفق الإنتاج عند التعاقد على الأنشطة من الباطن باستخدام Dynamics 365 Supply Chain Management؛ سيظل تدفق المواد بين المواقع، وستعمل أنشطة المعالجة على تحويل المواد إلى منتجات ونقل مواد حركة الأنشطة أو المنتجات من مكان إلى آخر.

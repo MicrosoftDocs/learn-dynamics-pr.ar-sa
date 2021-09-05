@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c972523de2973f11edf806d628dbe2fb9b328892
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: 4ac2943b165864bfe062fc0a8e0b57e3865d99ba4a43902e092208d483ee0dd7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130550"
 ---
 هناك نوعان من التقويمات في تطبيقات Finance and Operations: 
 

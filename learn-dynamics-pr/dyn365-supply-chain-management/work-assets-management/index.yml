@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: ef76d921f865885cbdfb40367132d4a3503b836f
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 8335350b2ce49873a9a8ec3e3ef352a9a3404bdd
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667102"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7327293"
 title: العمل مع الأصول في إدارة الأصول لــ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتتيح إدارة الأصول لـ Dynamics 365 Supply Chain Management بمؤسستك إدارة مواردك بفعالية من خلال تحديد مواقع الأصول. يمكنك جدولة مهام الصيانة المتعلقة بهذه الأصول وتعقب الاستخدام ومراجعة التقارير المرتبطة بالأصول ومواقعها. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء الأصول ونقلها وإزالتها وتثبيتها.\n- راجع كيفية إنشاء الأصول بناءً على أوامر الشراء.\n- تحديد كيفية إنشاء قوائم مكونات الأصناف للأصول.\n- تعرف على كيفية استخدام صفحة \"عرض الأصل\" وصفحة \"نظرة عامة على سمة الأصل\".\n"

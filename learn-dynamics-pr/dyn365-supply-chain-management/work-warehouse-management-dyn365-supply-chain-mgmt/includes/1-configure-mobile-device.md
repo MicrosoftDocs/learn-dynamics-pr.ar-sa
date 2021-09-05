@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2ff4974670a2f019ed782596f827dcc265cdba94
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e61a036955bdaca626c1cd96965649e679747e26
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668248"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7350295"
 ---
 قبل إجراء أي من عمليات Warehouse management باستخدام جهاز محمول، يجب تكوينه لـ Dynamics 365 Supply Chain Management.
 
@@ -147,7 +147,7 @@ ms.locfileid: "6668248"
 
 ## <a name="mass-deployment-for-warehouse-mobile-app"></a>التوزيع الجماعي لـ Warehouse mobile app
 
-غالباً ما تكون هذه عملية معقدة لتوزيع إعدادات الاتصال على هؤلاء المستخدمين الذين سيستخدمون تطبيق المستودع. لاستخدام هذه العملية، يمكن توزيع هذه الإعدادات بشكل شامل للأفراد المتأثرين باستخدام أداة التوزيع مثل Microsoft Intune. بالإضافة إلى التوزيع، يمكن لهذه الأداة أيضاً أن تحتوي على الأجهزة المحمولة الخاصة بمستودع الخدمة. لمزيد من التفاصيل حول هذا، انتقل إلى [https://docs.microsoft.com/mem/intune/apps/apps-windows-10-app-deploy](https://docs.microsoft.com/mem/intune/apps/apps-windows-10-app-deploy "التوزيع الجماعي باستخدام Microsoft Intune")  
+غالباً ما تكون هذه عملية معقدة لتوزيع إعدادات الاتصال على هؤلاء المستخدمين الذين سيستخدمون تطبيق المستودع. لاستخدام هذه العملية، يمكن توزيع هذه الإعدادات بشكل شامل للأفراد المتأثرين باستخدام أداة التوزيع مثل Microsoft Intune. بالإضافة إلى التوزيع، يمكن لهذه الأداة أيضاً أن تحتوي على الأجهزة المحمولة الخاصة بمستودع الخدمة. لمزيد من التفاصيل حول هذا انتقل إلى [التوزيع الجماعي باستخدام Microsoft Intune](/mem/intune/apps/apps-windows-10-app-deploy/?azure-portal=true)  
 
 ## <a name="scan-bar-codes-by-using-a-camera-in-supply-chain-management"></a>مسح الرموز الشريطية ضوئياً باستخدام كاميرا في Supply Chain Management
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7433fb293090dc6132dfe5a45fcf2d50eff064ee
-ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+ms.openlocfilehash: cda9b111035d22617b0d98692aa3ae03e263c7953a49ed331327b13ef97acdd1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "6072793"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115062"
 ---
 يتم استخدام تقارير المصروفات لتوثيق المصروفات التي تكبدها الموظفون بحيث يمكن استردادها. وتتبع المصروفات عملية اعتماد رسمية لضمان أنه يتم الالتزام بنهج الشركة، ويتم ترحيل تقرير المصروفات، ويمكن إصدار الدفع إلى الموظف. 
 

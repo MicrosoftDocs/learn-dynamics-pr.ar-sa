@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9855b8e06725d8628601ad7aec833d4613adbae
-ms.sourcegitcommit: c23f80e4732f19cd5136470607376672a2219ddb
+ms.openlocfilehash: bf8c47a7715a545248c690438f4e9d031049a4df154656d2e0595d2c0df7933a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "6072109"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094057"
 ---
 ## <a name="scenario"></a>السيناريو
 تحتاج إلى تعديل تقرير افتراضي موجود. 

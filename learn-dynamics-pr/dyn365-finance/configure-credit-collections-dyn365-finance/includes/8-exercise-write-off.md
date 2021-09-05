@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7748164e2ab607793d0533b7199543604aea7ecc
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 8202423e8de7791b423e3f2f7451fdda1c1adeac755e9ba3621da3c68259c3bc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677459"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047860"
 ---
 ستقوم في هذا التمرين بإعداد معلمات الشطب وشطب رصيد عميل من صفحة **الأرصدة القديمة**.
 

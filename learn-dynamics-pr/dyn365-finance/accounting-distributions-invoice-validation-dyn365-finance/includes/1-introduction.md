@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 03165d2c0c05185e737809273dc239e0103a9962
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c211cffa90a628e631c0f019510419211d23f8fd1505965190ec094b2801a751
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677545"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109714"
 ---
 تشرح هذه الوحدة كيفية تسوية الحركات والتراجع عن التسويات وتوزيع الأموال باستخدام التوزيعات المحاسبية في Dynamics 365 Finance. سوف تتعلم أيضاً كيفية إجراء مطابقة الفاتورة.
 

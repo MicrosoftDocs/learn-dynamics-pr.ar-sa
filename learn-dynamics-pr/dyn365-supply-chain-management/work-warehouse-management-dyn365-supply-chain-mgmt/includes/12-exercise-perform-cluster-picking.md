@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5f20e7311d64a228d85eaf69c9c114873d769fde
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2b13b06e23c3156c9a3f900b8099e5480c2997773f259643d802b27ebe5fe0dd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668247"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128457"
 ---
 ## <a name="scenario"></a>السيناريو
 كمدير مستودع عصير البرتقال في Contoso، تحتاج إلى إنشاء ملف تعريف المجموعة، وإنشاء صنف قائمة لانتقاء نظام المجموعة، ثم إضافة صنف القائمة إلى الجهاز المحمول.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 73ea5dafe0114674d329d0df6c4773a9d4f331f9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b988b3a6b7c71b025161100b6ec0944ce16f8d8605bd6bf30537fd4bd5012e2e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667824"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052451"
 ---
 
 في Supply Chain Management، يمكنك إنشاء اتفاقيات شراء وإقرانها بتدفقات الإنتاج. تحتوي اتفاقية الشراء على جميع معلومات التسعير الخاصة بالخدمة المرتبطة، والتي يوفرها المقاول الفرعي.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 782482a06421ac83328bdb25a995d28ddf0f15b8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2133a54f021fd94abbce799c858a06e7572f3eb860746847fe250aa26b1160df
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668200"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134965"
 ---
 يمكن تعريف المنتج بتركيزه على مكون نشط.
 يتم تصميم المكون النشط للمنتج باستخدام سمة دفعية خاصة بالمنتج ذات قيمة دنيا وقيمة قصوى ومستوى هدف.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 57f11fc3a0d74fafddec8d2f1588963323e87e6e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c4fbc98525ee7cefa36578d3e3aa2a87b8f6dd450f9a890c253087b97b297ea0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677130"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136169"
 ---
 
 وتسمح لك الوحدة النمطية إعداد الموازنة في Dynamics 365 Finance إعداد الموازنات وإنشائها وعرضها. يمكن أن يتضمن إعداد الموازنة التحكم في الموازنة، والذي يمكنك استخدامه لمراقبة أموال الموازنة المتوفرة لعمليات الشراء والمصروفات الفعلية والمخططات.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 466e3ccc265929e8bb496ae9ef65dc2587dc09a9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 93847d13ef39e41f11bbdbd16fd2a4a3900c4ee7eaa08956036885ce49568a61
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677399"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099461"
 ---
 يتمثل الغرض من الدفاتر المشتقة في تبسيط ترحيل حركات دفتر الأصول الثابتة التي يتم تخطيطها لفواصل زمنية منتظمة. يمكنك اختيار أحد الدفاتر كدفتر أساسي، والذي عادة ما يكون الدفتر المستخدم للإهلاك المحاسبي. يمكنك بعد ذلك إرفاقه بدفاتر أخرى يتم إعدادها لترحيل الحركات في نفس الفواصل الزمنية التي يستخدمها الدفتر الأساسي.
 يتم غالباً إعداد دفاتر إهلاك الضريبة كدفاتر مشتقة.

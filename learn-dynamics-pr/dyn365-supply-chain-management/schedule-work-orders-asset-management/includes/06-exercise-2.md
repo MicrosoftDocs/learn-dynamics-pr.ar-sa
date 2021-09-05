@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 36899723952e6a0113e939e49f4db20e53378a52
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 89c0514b01f64217b2b20d62bc3ce7e9c273ac9c37ad34efcc4fc1c28236e07e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667672"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062469"
 ---
 ## <a name="prerequisites"></a>المتطلبات الأساسية
 لإكمال هذا التمرين، ستحتاج إلى إكمال التمرين السابق في هذه الوحدة. يجب عليك أيضاً إكمال المتطلبين الأساسيين أدناه قبل أن تبدأ هذا التمرين المعملي. 

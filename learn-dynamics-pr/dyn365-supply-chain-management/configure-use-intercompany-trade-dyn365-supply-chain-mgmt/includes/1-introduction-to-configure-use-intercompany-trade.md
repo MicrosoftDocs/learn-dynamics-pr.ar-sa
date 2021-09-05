@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 725252b4aa2258dcf66cb0acb447e69eafa997fd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0ef0bea10dc83bd09f0b2a9c329e18ddf9d268086a2e27bf3e63609afe474f99
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668324"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077960"
 ---
 يعد مستوى تكامل الأعمال ضرورياً لتوفير أساس لتخطيط العمليات اليومية وتشغيلها. لذلك، فإن تكامل العملية مبني على تكامل البيانات ويمثل عمليات الأعمال الداخلية والخاصة بالشركة. من خلال تكامل العمليات، يمكن لعملية الأعمال بدء عمليات أعمال متعددة في شركة أخرى.
 

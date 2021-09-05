@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 05775c1af8144f4adab2ed75a1977aa06a00886b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 516fce072ffbf83ea0cccd53125955c73d8aad78fed453f6cf1cca1073ed40f4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677768"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047705"
 ---
 قالب الإيصال عبارة عن إيصال يمكن استخدامه كأساس للإيصالات المستقبلية في إدخالات دفتر اليومية الأخرى. يمكنك استخدام قوالب الإيصالات مع دفتر يومية عام أو أي من دفاتر يومية دفتر الأستاذ الفرعي المالي مثل دفاتر يومية الحسابات الدائنة والحسابات المدينة.
 

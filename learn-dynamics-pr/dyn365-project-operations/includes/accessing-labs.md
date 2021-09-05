@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6aefe3105fdfc8cef6b37a7388813058ff82fef
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: 047f5a83d44b341689c7fbcd5d91307b25dbb874990049d816eb79f94b531c82
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072813"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114809"
 ---
 ## <a name="read-this-first---before-you-start-the-lab"></a>اقرأ هذا أولاً - قبل أن تبدء المعمل! 
 

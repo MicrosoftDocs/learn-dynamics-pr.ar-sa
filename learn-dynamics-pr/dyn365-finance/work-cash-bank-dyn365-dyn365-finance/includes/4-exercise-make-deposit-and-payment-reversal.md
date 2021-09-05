@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 26b205c3509e79edbbf26c1ea1b77e56f5a4879b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f4e5ac5d3d60e480214fbd60af5de7e17fabeed34b0ad20fd3682c748d346990
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677802"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047541"
 ---
 في هذا التمرين، ستقوم بإيداع أموال في أحد البنوك وإلغائها باستخدام إيصالات الإيداع.
 

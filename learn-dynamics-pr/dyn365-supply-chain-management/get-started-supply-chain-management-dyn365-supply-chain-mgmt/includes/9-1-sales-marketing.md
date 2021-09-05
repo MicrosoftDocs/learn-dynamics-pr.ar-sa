@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c26c7efe5bc08783ae7b46395848500ea3283fda
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d839a549fa8b285d2844db4631a17f81343ae599361a25d055f847db4b1e4554
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667912"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119451"
 ---
 ضمن وحدة المبيعات والتسويق، يمكن للمستخدمين تخزين واستخدام البيانات المتعلقة بعلاقاتهم مع العملاء المتوقعين والفرص والعملاء والعملاء المحتملين. يمكنك استخدام حملات وأنشطة التسويق لتطوير هذه العلاقات واستخدام وظيفة المبيعات لإنشاء عروض الأسعار وأوامر المبيعات وفواتير المبيعات.
 

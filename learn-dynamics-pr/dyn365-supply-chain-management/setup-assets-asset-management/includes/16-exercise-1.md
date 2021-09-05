@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bd2dc47dd9b499a1d4e773f15b8a8bde4bac5f24
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e20bbe7f8cbde7ab28697b33da12732a2cc9bf5132e59420c109d6d141fbfb64
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046383"
 ---
 في هذا التمرين ستعمل مع إعداد الأصول وإجراء المهام التالية:
 

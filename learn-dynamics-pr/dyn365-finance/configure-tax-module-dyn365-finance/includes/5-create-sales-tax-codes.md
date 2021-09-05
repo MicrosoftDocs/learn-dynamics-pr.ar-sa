@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6fa42ba8fa14f646727368bce970197ad485cece
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3a7ef9b7cb52065334ea208a29beac1ed0886943e76d96cbc653f381f2066ae7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677647"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109605"
 ---
 ## <a name="sales-tax-codes"></a>أكواد ضريبة المبيعات 
 

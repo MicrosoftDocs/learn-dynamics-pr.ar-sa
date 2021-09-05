@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 284f1397cb420531edba581a0aebfabe63f197c4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: bc633aa87ca234a1c37085b5255a15a403ba2f53764ed5bebe1bec94e3fbf696
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677614"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093932"
 ---
 استخدم المطابقة ثنائية الاتجاه للمساعدة في التأكد من أن التباين بين معلومات السعر في أمر الشراء والفاتورة ضمن التفاوتات المقبولة. يمكنك مقارنة معلومات السعر للمبلغ الصافي لكل بند في الفاتورة، وجميع بنود الفاتورة المعلقة والتي تم ترحيلها مسبقاً، مع المبلغ الصافي لبند أمر الشراء المقابل. ويسمى ذلك مطابقة إجماليات السعر.
 

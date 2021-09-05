@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a78dd90bace5cc118d93133d73b8ac6a20587005
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1aa857f84f3c2b852760bf5aed4e142df458232f4a17a20e87b56c17f8c7adf2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677612"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109649"
 ---
 يمكن أن يقدم لك المورد خصماً نقدياً لدفع فاتورة قبل تاريخ الاستحقاق. 
 

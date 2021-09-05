@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ed7141d8d8e5da7a2e02b218021d1868fd00ecb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cc026932331be6e0aaa2d6ac984897a115fe9ba34c69e83cffe49996c1a54850
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667121"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067854"
 ---
 على غرار عمليات حساب القدرة الإنتاجية، يمكن إجراء عمليات حساب ‏‏التنبؤ بالأصناف في المواقع التالية:
 

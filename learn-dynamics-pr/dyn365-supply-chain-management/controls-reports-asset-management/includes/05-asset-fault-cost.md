@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1046ce7861e7844c9d1614ece191f69ef4e3dd83
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f467e45fa7bb6228173c2067b2a069515a3628b9f1da38d0d144d6e6ac9b1fcf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668308"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135256"
 ---
 يمكنك حساب التكاليف في تسجيلات أخطاء الأصول للحصول على نظرة عامة حول التكاليف الفعلية مقارنة بتكاليف الميزانية. وتعتمد التكاليف الفعلية على الحركات المرحلة. التاريخ هو تاريخ الخطأ الذي تم تسجيل العَرَض فيه. 
 

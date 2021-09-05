@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: beb9dd95e59c3da1a22e5b977233ed8288805529
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 8715a85345e8c0567af75f7c0cc1ffd6ddd5863bd62518384aa8257d0c27abae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058952"
 ---
 لوحة المعلومات هي الصفحة الأولى التي ستشاهدها في تطبيقات Finance and Operations. تحتوي على إطارات متجانبة تظهر معلومات مختلفة. يمكنك العودة إلى لوحة المعلومات في أي وقت عن طريق النقر فوق تطبيقات Finance and Operations على شريط التنقل أعلى الإطار.
 

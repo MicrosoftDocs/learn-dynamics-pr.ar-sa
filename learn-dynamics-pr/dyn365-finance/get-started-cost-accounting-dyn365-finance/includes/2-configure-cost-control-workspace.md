@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 25dde75419e8cadf99cff734b62efc65f94f4436
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 8613d501adc504898aa2506bda7887c9f68abd563b32fdac385b0327ab8ce25d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047686"
 ---
 نظراً لأن محتوى تحليل محاسبة التكاليف يسلط الضوء على الفروق بين التكاليف الفعلية والتكاليف المدرجة في الموازنة، يمكن إخطار المديرين بالاتجاهات الإيجابية والسلبية لوحداتهم التشغيلية. يمكن للمديرين الانتقال إلى التدرجات الهرمية لعناصر التكلفة أو عناصر التكلفة الفردية. بهذه الطريقة، يمكن للمديرين الحصول على رؤية تفصيلية حول كيفية حدوث فروق التكاليف، ثم اتخاذ إجراءات فعالة.
 

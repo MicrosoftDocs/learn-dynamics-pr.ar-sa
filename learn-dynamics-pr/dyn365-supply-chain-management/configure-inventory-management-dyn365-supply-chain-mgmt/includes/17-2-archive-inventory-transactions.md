@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0470e30db3f88775a83e82b82193c4d164ee0b51
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f0bdee51b2d74a0a051f95e3e78460b4ddf9cbfb93d3d26bc85c54fac103b53e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668351"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098280"
 ---
 بمرور الوقت، ينمو جدول **معاملة المخزون** بشكل كبير ويستهلك مساحة تخزين، مما يؤدي تدريجياً إلى حدوث مشكلات في الأداء عند تشغيل الاستعلامات مقابل الجدول. لتجنب مشاكل الأداء هذه، يحتوي Supply Chain Management على ميزة اختيارية تعمل على أرشفة بيانات حركة المخزون. عند أرشفة الحركات، يتم نقل كل من إصدار المخزون وحركة استلام المخزون إلى جداول ملخصة منفصلة.
 

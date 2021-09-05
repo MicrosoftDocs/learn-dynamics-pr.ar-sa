@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46a4d5473332e201e4cf2621bd8256212d5d19ea
-ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+ms.openlocfilehash: a23c4f9f724a508008ca578ff83f2f21bb9b6422b7b29375a982716df4b4a271
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "6072032"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130519"
 ---
 ## <a name="scenario"></a>السيناريو
 الكيان القانوني هو مؤسسة يتم تعريفها من خلال التسجيل مع سلطة قانونية. يمكن للكيانات القانونية إبرام عقود ويُطلب منها إعداد بيانات تقدم تقارير عن أدائها. 

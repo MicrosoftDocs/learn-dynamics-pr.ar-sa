@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 749dafb876cd628713fd10e1dfbc87b3de5a815a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 01a0160088697da0361897fd36fc0a968c5083136c06a46321d6771393130c84
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677559"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053277"
 ---
 يساعد التعهد بالأمر في التعهد بتواريخ التسليم لعملائك بشكل موثوق به ويمنحك المرونة بحيث تتمكّن من الوفاء بالتسليم في هذه التواريخ.
 

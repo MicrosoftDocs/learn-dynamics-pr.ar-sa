@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e3ef5eca711121f4e3637cfd56855f596901a94f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e13a7c3121cff08933563ca3bc811d08cc865ff2d8a655fdc6aeb007dc0e4c36
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667459"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128940"
 ---
 بعد إنشاء خطة الصيانة، يمكنك الآن إضافة الخطة إلى الأصول. 
 

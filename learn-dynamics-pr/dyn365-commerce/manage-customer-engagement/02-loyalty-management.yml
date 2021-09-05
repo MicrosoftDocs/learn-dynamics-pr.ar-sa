@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: e259a4ca306ba25431ca9fb6c3f173dc0bb62157
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: 4c4b3631e71003cd37c3e27ae7827f73575a81cc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225927"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7350976"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-loyalty-management.md)]"

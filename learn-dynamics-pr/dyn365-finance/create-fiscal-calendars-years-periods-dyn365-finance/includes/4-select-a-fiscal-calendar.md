@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 894b3e728f637bd4c2ac9fc61d16051675d4c460
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 25f5962a88194eec44350ea64a6a1d490e2b0102e7d79ae1068408a708954723
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677713"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078596"
 ---
 ## <a name="select-fiscal-calendars-for-ledgers-fixed-assets-and-budget-cycles"></a>تحديد تقويمات مالية لدفاتر الأستاذ والأصول الثابتة ودورات الموازنة 
 

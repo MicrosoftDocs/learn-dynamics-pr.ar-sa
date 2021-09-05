@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 725cc30b506b7f6be15357cedf286c514a2a62d0
-ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+ms.openlocfilehash: ab3bed68d7d3f77f0d81c78edf28362ca7754cc3dad60fc9d1c2eeaa37bd0aef
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "6070510"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121871"
 ---
 هناك خمسة مكونات تسعير تستخدم وظيفة الخصومات، لكن أربعة منها فقط عبارة عن خصومات. تعد تعديلات الأسعار جزءاً من استراتيجية سعر البيع، لذا فهي لا تعتبر خصماً حقيقياً. مكونات التسعير الأربعة الأخرى هي خصومات حقيقية يتم تطبيقها على سعر البيع:
 

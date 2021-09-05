@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3edc388df8b05fc664ed84a8b8ca43520ebd443c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 90c331ab300f9be05c7d5f451869ad0e771be05e33026de6f768aa16ca91468e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677458"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141409"
 ---
 يتيح لك إكمال إعداد دفتر اليومية إنشاء دفتر اليومية وبنود دفتر اليومية وتسجيل حركات المورد والعملاء. 
 

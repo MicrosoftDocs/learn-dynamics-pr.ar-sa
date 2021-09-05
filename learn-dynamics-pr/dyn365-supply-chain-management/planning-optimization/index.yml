@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: eea036d7b14d48e727fd42476f60e30ace773792
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 99b44dc555c58b9518fc162bd915d0601198254b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667740"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7331811"
 title: استخدام تحسين التخطيط في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتعمل الوظيفة الإضافية لتحسين التخطيط على تمكين حساب الخطة الرئيسية خارج Dynamics 365 Supply Chain Management وقاعدة بيانات SQL الخاصة بها. يُحسن تحسين التخطيط الأداء ويكون له تأثير ضئيل على قاعدة بيانات SQL أثناء تشغيل عمليات التخطيط. لذلك، يمكن تشغيله خلال ساعات العمل العادية وتقديم نتائج فورية بناءً على أحدث نشاط.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- راجع بنية الوظيفة الإضافية لتحسين التخطيط. \n- حدد فوائد استخدام \"تحسين التخطيط\".\n- اكتشف تحسينات الأداء ضمن \"تحسين التخطيط\".\n"

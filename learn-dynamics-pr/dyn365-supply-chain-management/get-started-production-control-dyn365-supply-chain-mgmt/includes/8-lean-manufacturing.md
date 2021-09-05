@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5985d3af2247cd14de9dfa95a4d5ec385767e713
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1b16980b9633d20ba139520e25b6e2029af85a4d5cccea23abc1c00207b7f6e0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667259"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057691"
 ---
 فيما يلي خصائص Lean manufacturing:
 

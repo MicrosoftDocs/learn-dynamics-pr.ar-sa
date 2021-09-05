@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b5ca5f22209d9ad7243f29003608dc739cc37855
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a23a160c01c1b665fc06fcbe42f424838bec9a0a0e0281d1d6609ae7475e4898
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668306"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086562"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).

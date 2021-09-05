@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 483b1e044101fea2529b1b13749d8b9cab587309
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 90446bbacdd1038ba98904242a887d0abedd716e
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6185968"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7339375"
 ---
 توفر كيانات البيانات تجريداً مفاهيمياً وتغليفاً (طريقة عرض غير طبيعية) لمخطط الجدول الأساسي الذي يمثل مفاهيم البيانات ووظائفها. 
 
@@ -74,7 +74,7 @@ ms.locfileid: "6185968"
 
 قبل استخدام كيانات البيانات لاستيراد البيانات أو تصديرها، نوصيك أولاً بتحديد تأثير مفاتيح التكوين على كيانات البيانات التي تخطط لاستخدامها.
 
-لمعرفه المزيد حول مفاتيح التكوين في تطبيقات Finance and Operations، راجع [تقرير أكواد الترخيص ومفاتيح التكوين](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/license-codes-configuration-keys-report/?azure-portal=true).
+لمعرفه المزيد حول مفاتيح التكوين في تطبيقات Finance and Operations، راجع [تقرير أكواد الترخيص ومفاتيح التكوين](/dynamics365/fin-ops-core/dev-itpro/sysadmin/license-codes-configuration-keys-report/?azure-portal=true).
 
 ### <a name="configuration-key-assignments"></a>تعيينات مفاتيح التكوين 
 

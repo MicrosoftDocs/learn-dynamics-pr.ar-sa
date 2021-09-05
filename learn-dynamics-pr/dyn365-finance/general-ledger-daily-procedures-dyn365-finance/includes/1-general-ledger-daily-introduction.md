@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4e625cf4fa7438e9fab339cf73c129e9b547beb4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 60cd28bd8970a9c096617533d9b79a33597b4c0c0df7972e4fb47d4d419ca233
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677595"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078589"
 ---
 يتم إدخال كل عملية ترحيل يدوي تم إدخالها في Dynamics 365 Finance من خلال دفتر يومية. لا يتم ترحيل الإدخالات فوراً في دفتر اليومية. يمكنك مراجعة دفاتر اليومية المكتملة وتغييرها والتحقق منها حتى تصبح جاهزة للترحيل. 
 

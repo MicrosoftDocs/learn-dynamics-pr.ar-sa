@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ab5568bd2f41863ecc218f3c799e97a9a4b7db54
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c258493780e19416b98de7f5dbada39bbe859f1d5a9f7144b52102b1fbfda4f9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667213"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046635"
 ---
 تطلب الإدارة في Munson’s Pickles and Preserves Farm قائمة عالية المستوى لطلبات الصيانة التي هي قيد التقدم. لتشغيل هذا التقرير، اتبع الخطوات الآتية:
 

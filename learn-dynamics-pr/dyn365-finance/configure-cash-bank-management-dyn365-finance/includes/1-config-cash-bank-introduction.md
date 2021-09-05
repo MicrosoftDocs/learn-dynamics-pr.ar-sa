@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9bb1d30b3fd7b483f8ed444fa90b9ba02983dbe
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 68270147a451f64dfd520014c8ad680637fe8a71e7352cfeac0bad444b3f6208
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677432"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087460"
 ---
 في Dynamics 365 Finance، تستخدم المؤسسات الوحدة النمطية لإدارة البنك والنقد لإنشاء حسابات بنكية والاحتفاظ بها. يحتوي جدول **الحساب البنكي** على سجل لكل حساب بنكي. يحتوي كل سجل على معلومات الحساب البنكي، كالتالي:
 

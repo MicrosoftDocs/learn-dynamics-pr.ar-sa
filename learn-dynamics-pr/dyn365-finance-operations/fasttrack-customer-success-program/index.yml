@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 5475d44e1dac6fc964f9b844d312fa399329b963
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: a075a04dcd7976be0504eb9472c7b2798b5518ad
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6253369"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7327694"
 title: برنامج نجاح عميل FastTrack لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)] \nتهدف خدمة Microsoft FastTrack إلى تسهيل تنفيذ مشروعك من خلال تقديم إرشادات حول أفضل الممارسات والإجابة على أسئلتك الإرشادية من موارد Microsoft الهندسية، ويلتزمون بجعل تجربتك مع Dynamics 365 وFinance and Operations ناجحة بشكل كبير.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ميزات أن تكون جزءاً من برنامج FastTrack لنجاح التنفيذ. \n- اكتشف مستوى المشاركة من فريق Microsoft FastTrack مع مشروعك. \n- حدد الأدوار المطلوبة لتنفيذ Finance and Operations.  \n- تعرف على الموارد التي ستدعم مشروعك. \n"

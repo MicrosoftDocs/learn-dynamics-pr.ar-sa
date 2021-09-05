@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 44ed425579556736fbf20b8803dda38b09c0b37a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 34efd7ac5f16abbf75cf91c8d51b8db89e48634032676d84f184b2414d9e0397
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668239"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135458"
 ---
 في الشركة **USP2**، يتطلب رقم الصنف **M9401** (الجبن) إعداد اتفاقية تجارة شراء جديدة مقابل 175 دولاراً أمريكياً لكل صينية. سيتم إدخال توقعات طلب جديدة لبيع 25 علبة من الجبن. بعد إدخال اتفاقية التجارة وتوقع الطلب، قم بإنشاء أمر شراء جديد لـ 15 علبة ثم قم بتأكيده. بعد ذلك، قم بتشغيل التخطيط الرئيسي وراجع الأمر لتحديد ما إذا كان يلزم شراء علب إضافية.
 

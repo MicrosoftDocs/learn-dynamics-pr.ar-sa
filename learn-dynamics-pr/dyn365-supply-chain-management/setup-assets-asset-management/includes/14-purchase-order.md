@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ec2d776932e87885926520be3cd6fdc7786a5e7f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ab9c7fd2e72ddb3f6b4a20e930ceb9fc60bc0a596270bee78ed639ddbaf545fa
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668099"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108397"
 ---
 تتيح لك أصناف الأصول إمكانية عرض قائمة بكافة بنود أمر الشراء التي تم إنشاؤها في هذه الأصناف. والغرض من هذه الوظيفة هو السماح لك بإنشاء أصل في إدارة الأصول على أساس أمر شراء.
 

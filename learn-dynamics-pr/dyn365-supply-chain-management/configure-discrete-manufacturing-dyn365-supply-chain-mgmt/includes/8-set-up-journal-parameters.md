@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cfbf32d672541de77ba38e158569c483787d490c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: dab81eaf79f84059ce1acae1e7f8e6b88a13ce3c77bcb267b4b51c9d7aa801a3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668102"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081761"
 ---
 خذ بعين الاعتبار الخيارات التالية عند إعداد المعلمات:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7597a58c603dccda9c540b45519390a3b19712e9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e3b89fad38d0147723625937e4a3f5be7076101605530c6f2380e0234c1477e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139281"
 ---
 تُستخدم أوامر العمل لتعقب مهام الصيانة وإدارتها في إدارة الأصول لـ Dynamics 365 Supply Chain Management. 
 

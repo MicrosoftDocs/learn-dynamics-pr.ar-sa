@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e2f540f1231f4dbdadd98a924412c88595763aca
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 83ba2f721b80dc8b3a663b20d5673647e35e864cfedf92b5ee5548fc891eb54b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677584"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047711"
 ---
 في هذا التدريب ستقوم بإنشاء واستخدام قالب إيصال.
 

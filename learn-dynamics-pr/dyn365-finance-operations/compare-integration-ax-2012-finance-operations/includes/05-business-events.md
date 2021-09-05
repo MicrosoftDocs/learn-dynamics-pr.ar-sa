@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 122dc1615829be0eb936af0ea247710a679e18d9
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 5922fb63488c06b6e27918de8cf42c852779a124
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7351835"
 ---
 تعمل أحداث الأعمال على تمكين عمليات تكامل سير العمل بين تطبيقات Finance and Operations والأنظمة الخارجية بطريقة منفصلة. 
 
@@ -20,6 +20,6 @@ ms.locfileid: "6072409"
 
 ![الرسم التخطيطي للأنواع المختلفة من أحداث الأعمال.](../media/business-event.png)
 
-للحصول على مزيد من المعلومات، راجع [استهلاك أحداث الأعمال في تطبيقات Finance and Operations.](https://docs.microsoft.com/learn/modules/business-events-finance-operations/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [استهلاك أحداث الأعمال في تطبيقات Finance and Operations.](/learn/modules/business-events-finance-operations/?azure-portal=true).
 
 

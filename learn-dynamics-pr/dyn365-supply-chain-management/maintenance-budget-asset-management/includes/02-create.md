@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f026a1c0478a23f1e9b6cfac746a6152a6f7d6f2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a7cf0916f3689c675e6f0ae7b1e6b8883872476f47d9a36abd299d5748342dde
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668290"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139607"
 ---
 الآن وبعد أن فهمت الأساسيات، يمكنك البدء بإنشاء موازنة صيانة.
 

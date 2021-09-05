@@ -1,11 +1,11 @@
 ---
 ms.topic: banner
-ms.openlocfilehash: e164a477293d94582eded8a90b83d9b8fd14e45d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 81846edcf89dbe683f2c7a6c23d58cc7470f9f8b4da9eceb915807678894ab26
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087197"
 ---
 > [!NOTE]
 > اعتباراً من نوفمبر 2020

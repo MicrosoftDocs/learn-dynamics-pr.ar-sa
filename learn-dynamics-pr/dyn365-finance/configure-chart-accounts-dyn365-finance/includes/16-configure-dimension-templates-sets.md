@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 39650c652348b178d33fc878394b2df0399c182b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6344d78213b65610f48e0f168a5f6bbb5c3b57064258b2a600d723738261ff96
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074874"
 ---
 ## <a name="financial-dimension-templates"></a>قوالب الأبعاد المالية 
 

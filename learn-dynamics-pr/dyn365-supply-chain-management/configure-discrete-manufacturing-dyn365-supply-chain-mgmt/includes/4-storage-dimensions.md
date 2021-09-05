@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c84ed62d008438b0719a0ea08ab811091f8d289e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3dbd5c9ecea56b60b616f503e172bd2e12edfa6fcf3191e47dce67999dfa7d23
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667845"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124654"
 ---
 تمثل أبعاد مخزون التخزين الطرق المختلفة التي يتم من خلالها تخزين الأصناف واستردادها من المخزون. وهذه تسمح بإدارة المخزون على مستوى تفصيلي. يتوقف نوع التفاصيل الذي تطبقه على إنشاء أبعاد التخزين على احتياجات الكيان القانوني وتوقعاته واحتياجاته. خذ بعين الاعتبار صلة كل بُعد، خاصة عندما يكون للأصناف احتياجات معالجة خاصة.
 

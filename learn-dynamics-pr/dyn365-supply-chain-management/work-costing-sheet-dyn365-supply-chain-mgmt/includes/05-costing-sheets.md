@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8bf17e1aef7bb1fa412fe9e29828c9787d44459f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: afda94eef4d2314da7caff4c8d206be68d0b423e1f469cbc8c36c91290d43c05
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667337"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128578"
 ---
 كشف التكلفة هو عرض منسق للمعلومات المتعلقة بتكلفة البضائع التي يتم بيعها لصنف مصنع أو أمر إنتاج.
 

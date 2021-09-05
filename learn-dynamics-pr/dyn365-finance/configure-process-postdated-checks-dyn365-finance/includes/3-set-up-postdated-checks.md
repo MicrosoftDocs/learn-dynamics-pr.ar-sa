@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac9100f7ada82da51ec0db0a5513d06a6acf4cd9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 0d6683f5f792c2c0bc334440ed862156e1e9266722b7b406a536517c519f1b9a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141353"
 ---
 يتم إصدار الشيكات المؤجلة لمساعدتك في إجراء المدفوعات واستلامها في تاريخ لاحق. يمكنك تحديد ما إذا كان يجب أن ينعكس الشيك في دفاتر المحاسبة قبل تاريخ استحقاقه.
 

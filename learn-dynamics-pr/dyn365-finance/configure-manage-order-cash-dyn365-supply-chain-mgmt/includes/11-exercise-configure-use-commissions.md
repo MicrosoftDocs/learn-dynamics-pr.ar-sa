@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ebcd55f74398fb630cea3c0df13c8c7af705e71a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 000000e6bb70afd271870deacfb7ef802c7af14ee0c84b1e954cc9c36218fade
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677233"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130151"
 ---
 ## <a name="scenario"></a>السيناريو
 في شركة **USMF**، تحتاج إلى توسيع قاعدة حساب العمولة التي انتهت صلاحيتها في 12/31/2017. تحتاج إلى إعداد كافة حسابات العمولة اللازمة لضمان حساب عمولة العميل US-013 لجميع الأصناف.

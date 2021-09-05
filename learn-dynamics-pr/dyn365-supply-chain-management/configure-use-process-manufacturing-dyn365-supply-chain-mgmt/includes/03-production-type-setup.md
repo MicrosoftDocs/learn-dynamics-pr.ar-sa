@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: de8f5176bc22adba1076d1968dc3ad43a85a8f72
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5f35419edb668e6ec528096b759ac617f1ca133b4adfd442bf8c97e4e753a1eb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667444"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086694"
 ---
 يجب تحديد أنواع الإنتاج ذات الصلة في حقل **نوع الإنتاج** في قسم **الهندسة** صفحة **تفاصيل المنتج الصادر**.
 

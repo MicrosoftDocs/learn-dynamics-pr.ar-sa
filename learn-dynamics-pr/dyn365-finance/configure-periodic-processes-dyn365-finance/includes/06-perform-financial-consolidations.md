@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 28f3d2f15e8e650aa064d5247469c63ed042dba8
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 0a507cecf1663635e7bb28dc3f2e8783597b01445762e65a4b5d620244a7e359
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677380"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082607"
 ---
 في عملية الدمج، يمكن تجميع الحركات من عدة حسابات للشركة في مجموعة واحدة من حسابات الشركة. ويمكنك طباعة تقارير مثل القوائم المالية، من الشركة الموحدة، ولكن لا تستخدم هذه الشركة للحركات اليومية.
 

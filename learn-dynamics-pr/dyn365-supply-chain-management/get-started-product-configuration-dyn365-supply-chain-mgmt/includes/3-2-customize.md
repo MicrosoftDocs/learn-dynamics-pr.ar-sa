@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2e3284b732146f8e2aa8fdacbefc7e7dabeac235
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cf36d7b87fa974390d5f04f971d45b3de0c2dc4f7cd541e3e9ae15308d933ddd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667414"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119520"
 ---
 في قسم "إنشاء نموذج تكوين المنتج"، اختبرت كيفية إضافة المكونات الفرعية إلى نموذج تكوين المنتج، وأضفت أيضاً سمات لكل مكون للمساعدة في وصف الميزات المرتبطة بالمكونات.
 

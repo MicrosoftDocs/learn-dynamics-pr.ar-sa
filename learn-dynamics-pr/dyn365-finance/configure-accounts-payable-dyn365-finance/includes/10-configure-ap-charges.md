@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d2875860e3d73332c819b1c625b643caea9ebcf0
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2fdba8c07c0b2657490b0a1792e05da2759f686354e53d554bd4fd84d8cc4821
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677627"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099566"
 ---
 إذا كنت بحاجة إلى تتبع مبالغ الشراء بالإضافة إلى أصناف البنود، فيمكنك استخدام أكواد الرسوم. على سبيل المثال، يمكنك دفع الشحن والتأمين في أمر الشراء، وقد يتم تفصيل هذه المبالغ بشكل منفصل في أمر الشراء. 
 

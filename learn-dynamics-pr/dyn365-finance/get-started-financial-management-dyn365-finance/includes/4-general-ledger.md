@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 18e1f9453281fe7b223edae48b1cba87a3a14e5a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 868d1c7c5f91ac2e7e9625e8bf3290f3018f566ce5a832740b3d0c76197deba7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677750"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093222"
 ---
 
 يمكنك استخدام الوحدة النمطية لدفتر الأستاذ العام في تطبيقات Finance لتحديد الهيكل المالي للكيان القانوني وإدارته. دفتر الأستاذ العام هو سجل إدخالات الدائن والمدين. 

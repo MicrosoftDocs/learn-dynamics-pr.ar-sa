@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fadf181a0757171cab2bb72db7d984b370f2903e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ca26fdb657fd7361e4a51fe5a353a4c361b948a7bfb179b13b1e94bde789ab9a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668321"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103560"
 ---
 ## <a name="intercompany-agreements"></a>الاتفاقيات بين الشركات الشقيقة
  

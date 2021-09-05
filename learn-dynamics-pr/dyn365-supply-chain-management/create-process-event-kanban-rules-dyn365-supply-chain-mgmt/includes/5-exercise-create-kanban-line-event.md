@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46834af8078ecb63f9cc3dbad315c6e72f31836f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b4066c687ebccf47501e6322b3673c6527021c2e4ffa8c5b730d7cfc3c0ca8b9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668229"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067687"
 ---
 في شركة **USMF**، تم استلام أمر مبيعات للمنتج L0001‏، مكبر_الصوت_متوسط_المدى_2. أدى أمر المبيعات إلى تشغيل بطاقات كانبان للحدث لمكبر_الصوت_متوسط_المدى_2 في خلية عمل التغليف والتعبئة ومجموعة مواد مكبر الصوت في خلية عمل تجميع مكبرات الصوت. 
 

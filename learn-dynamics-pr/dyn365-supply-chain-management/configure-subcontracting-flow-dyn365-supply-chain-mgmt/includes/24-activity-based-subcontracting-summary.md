@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 05be1bb6a7ac466811188519701b2565bacfef80
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2d90ef70c363215714f29a8578e91d5eab3dbd6d
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667616"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328995"
 ---
 
 يتم تنفيذ التعاقد من الباطن باستخدام بطاقات كانبان التصنيعية مقابل أنشطة المعالجة ضمن lean manufacturing لـ Supply Chain Management.
@@ -22,6 +22,6 @@ ms.locfileid: "6667616"
 
 | الموضوع | الرابط |
  | ------------- | ------------- |
- |معلومات حول اتفاقيات الشراء | [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com//learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true) |
- |معلومات حول عملية التدبير إلى الشراء‬ | [تكوين عملية التدبير إلى الشراء وتنفيذها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/?azure-portal=true) وكذلك [معالجة أوامر الشراء في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/process-purchase-orders-dyn365-supply-chain-mgmt/?azure-portal=true) |
+ |معلومات حول اتفاقيات الشراء | [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true) |
+ |معلومات حول عملية التدبير إلى الشراء‬ | [تكوين عملية التدبير إلى الشراء وتنفيذها في Dynamics 365 Supply Chain Management](/learn/modules/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/?azure-portal=true) وكذلك [معالجة أوامر الشراء في Dynamics 365 Supply Chain Management](/learn/modules/process-purchase-orders-dyn365-supply-chain-mgmt/?azure-portal=true) |
 

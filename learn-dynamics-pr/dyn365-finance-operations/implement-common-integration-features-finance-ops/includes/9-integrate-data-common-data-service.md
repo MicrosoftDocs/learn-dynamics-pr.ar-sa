@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2806a1fd82ef993f1477fe2a791ba0701f053cbe
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: b3c2855ff6d2300e5a43d155bc59329e75c09b07
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072445"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7347853"
 ---
 يمكنك استخدام Microsoft Dataverse لتمكين تدفق البيانات بين تطبيقات Finance and Operations وDynamics 365 Sales باستخدام وظيفة الكتابة المزدوجة. 
 
@@ -18,7 +18,7 @@ ms.locfileid: "6072445"
 
 بينما يتم تدفق البيانات بين Finance and Operations وSales، يمكنك تنفيذ أنشطة المبيعات والتسويق في المبيعات، ويمكنك التعامل مع تنفيذ الطلبات باستخدام إدارة المخزون في Dynamics 365 Supply Chain Management.
 
-لمزيد من المعلومات حول كيفية استخدام كيانات البيانات وتجهيزها لتكامل البيانات باستخدام Dataverse، راجع [التعامل مع إدارة البيانات في تطبيقات Finance and Operations ](https://docs.microsoft.com/learn/modules/work-data-management-finance-operations/?azure-portal=true). 
+لمزيد من المعلومات حول كيفية استخدام كيانات البيانات وتجهيزها لتكامل البيانات باستخدام Dataverse، راجع [التعامل مع إدارة البيانات في تطبيقات Finance and Operations ](/learn/modules/work-data-management-finance-operations/?azure-portal=true). 
 
 
 ## <a name="dual-write"></a>الكتابة المزدوجة

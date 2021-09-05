@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5e4ffdfa587b5fa03767558dda0a9f292f6ccd7e
-ms.sourcegitcommit: a7b407c61c431b95ffa16628a89ee966a9e108b1
+ms.openlocfilehash: d6660694a5ba07fd0778a4b983b49c2ee2d4b1b1509b8e9668f8e31febe916b7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "6072825"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7140664"
 ---
 يدعم Project Operations خيارات توزيع متعددة لتتطابق مع متطلباتك. سواء كنت من عملاء Dynamics 365 الحاليين أو الجدد، بإمكان Project Operations دعم احتياجاتك.
 

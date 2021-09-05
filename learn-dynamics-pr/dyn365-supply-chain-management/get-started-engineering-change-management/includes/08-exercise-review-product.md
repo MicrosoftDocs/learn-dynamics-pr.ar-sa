@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9b3a4878826b6b56d797edfe8adc0d7817241016
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: af93ca7f0d994c235934af874a273043e57f2a24e70c542c6a2899b9e19ee8ef
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667422"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135112"
 ---
 لقد أصدر قسم الهندسة حالياً معلومات إلى الشركات المحلية التي سيتم استخدام المنتج فيها. بالنسبة إلى هذا المثال، تكون الشركة المحلية *USMF‎*.
 

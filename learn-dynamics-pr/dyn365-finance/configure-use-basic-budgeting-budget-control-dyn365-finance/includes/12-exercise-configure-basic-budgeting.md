@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 83a35c8d75bb8e29ce320ad9c273012bdc51919c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b0d3e572c2ebfc7fec0eb10ec657e40a9f924eb1fe70bac1d754f405f378df75
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677169"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087257"
 ---
 يجب تكوين إعداد الموازنة الأساسية للشركة الخاصة بك. حدد الشركة **USMF** للتدريب والتعرف على الكيفية.
 

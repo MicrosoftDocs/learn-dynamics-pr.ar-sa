@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1403dfbea9e1582dcf08f6ad719eaad6ccbdcab3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1d9525c41b5cc32bea4e13d507d802e081e44142461bc8cc7c732cfe547fbf5b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105094"
 ---
 تعرض مساحة عمل **إدارة البنوك** المعلومات المتعلقة بالحسابات البنكية للشركات. تشتمل مساحة العمل هذه على طريقة عرض **ملخص** وصفحة **تحليلات**. تُظهر طريقة العرض **الملخص** الإطارات المتجانبة للملخص ومعلومات الحساب البنكي ومخطط الرصيد والمعلومات ذات الصلة. تستخدم صفحة **التحليلات** قدرات Microsoft Power BI لإظهار المرئيات المرتبطة بأرصدة الحسابات البنكية.
  

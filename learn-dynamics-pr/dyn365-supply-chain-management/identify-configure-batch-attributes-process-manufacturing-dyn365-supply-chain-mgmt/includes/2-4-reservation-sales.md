@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 42aa59ee1c233d77a1e71ec7fcb38c30151fdd3a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4befffe42165abdadc7ae66816982ccb44edcba177176e7ca71c72650e5ad752
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668198"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129249"
 ---
 في شركة USPI، يتم إنشاء متطلب سمة دُفعة جديدة خاصة بالعميل للمنتج P5000 للعميل برقم الحساب US-026.
 

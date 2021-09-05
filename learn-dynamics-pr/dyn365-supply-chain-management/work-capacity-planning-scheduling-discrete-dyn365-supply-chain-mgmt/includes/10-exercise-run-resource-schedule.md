@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 179bf43ac63a9397605402a90fa346a1c5eb5b72
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5300de61638cf30142812c2343907dd7bf7e592886b1bfa524fcf967a965a1e6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667098"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103528"
 ---
 اشترى Tony، مدير الإنتاج، للتو روبوت تجميع جديد ويريد زيادة المرونة في إنتاج الشركة. في الماضي، عند تصميم عملية الإنتاج (المسار) لأحد المنتجات، حدد Tony مكان إجراء كل عملية. 
 

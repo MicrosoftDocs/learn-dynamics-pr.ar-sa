@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b348628ab28cc32b37d58dd8881098d39fe6725b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6ed971a5b447e167ea71fd52c03e506a310436dbe99348a9dc8e044fa61c7453
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119915"
 ---
 تكون كافة إدخالات دفتر اليومية التي تم إنشاؤها في تأجير الأصول موجودة في دفتر يومية **تأجير الأصول**. 
 

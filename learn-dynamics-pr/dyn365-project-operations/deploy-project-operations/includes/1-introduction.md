@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d07ce69f18d916a22992e0036536b8a548d29945
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: 57d90458781da8b56356c4a02ae32ae0d57c86fcf5c8c8593fdcbbae651a37ae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272501"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063187"
 ---
 يدعم Microsoft Dynamics 365 Project Operations خيارات نشر متعددة لتتطابق مع متطلباتك. سواء كنت من عملاء Dynamics 365 الحاليين أو الجدد، بإمكان Project Operations دعم احتياجاتك.
 

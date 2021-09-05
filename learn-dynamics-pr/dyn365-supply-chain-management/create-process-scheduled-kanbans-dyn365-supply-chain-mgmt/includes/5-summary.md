@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8a74512e28c1297b20d0f025f327430ce4475272
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b45f4cbcd3869277a50d4e67c4b8bfe5f6920074e297d78286727fed2118f4c0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667934"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057834"
 ---
 يتم استخدام بطاقات كانبان المجدولة عند حدوث الإنتاج في خلية عمل lean، لكن يتم إنشاء الطلب من التنبؤ أو العميل أو الطلب المعال، بدون الإنشاء للأمر بشكل صريح.
 

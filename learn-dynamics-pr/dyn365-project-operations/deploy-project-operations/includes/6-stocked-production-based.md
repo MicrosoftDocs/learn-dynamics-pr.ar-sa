@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 92b01b7019eb870aae17b053c50525419ac0a62c
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: 76507ee446524217f52be857b1a1245b675101ce43e7694d643966e31fb2cd7f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272512"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058310"
 ---
 حدد Project Operations للسيناريو المستند إلى المنتجات المخزنة أو الإنتاج إذا كنت قد نشرت بالفعل وتستخدم تطبيقات Finance and Operations، وMicrosoft Dynamics 365 Supply Chain Management، وميزات التصنيع.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d65adc4985781ae74d5b8dccf385bf9b02b1d6f1
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0800daedf24c8b39ce2ea40841f9274e453b06b95b79ec80a6ea49835d163d66
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667258"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051750"
 ---
 قبل البدء، تحتاج إلى إعداد معلمات الإنتاج وأسماء دفتر اليومية في وحدة التحكم في الإنتاج.
 

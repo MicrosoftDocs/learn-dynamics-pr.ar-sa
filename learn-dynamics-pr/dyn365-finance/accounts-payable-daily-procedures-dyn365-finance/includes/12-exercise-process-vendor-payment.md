@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b08d805df0ed7b03d23e5df100224c915c7673ad
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b404970631ebdf521472b6d5dc583dd2532c9cf4a96e2e14f6c36b68bd7b0760
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677211"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109666"
 ---
 يوضح هذا التدريب الطرق المتنوعة المستخدمة لإنشاء مدفوعات المورد، بما في ذلك كيفية استخدام مقترح الدفع أو إدخال دفع برأس الصنف يدويا. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3e7c2aaf7537ef5eecb3762275de130719a34a73
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 8991893752d0fb17782b9c15b7d498c89f7b03a2
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6186005"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7354719"
 ---
 يتيح لك Common Data Model نقل البيانات من أنظمة وتطبيقات متعددة معاً. عندما تحتاج إلى إحضار بيانات من أماكن متعددة، فقد تكون هذه العملية باهظة الثمن وتستغرق وقتاً طويلاً. يسمح لك Common Data Model بتجميع بياناتك معاً في عملية مبسطة من خلال توفير لغة بيانات مشتركة لاستخدامها في الأعمال والتطبيقات التحليلية. يتيح نظام بيانات تعريف Common Data Model إمكانية مشاركة البيانات ومعناها عبر العديد من الأنظمة الأساسية وعمليات الأعمال مثل تطبيقات Microsoft Power Platform. 
 
@@ -16,7 +16,7 @@ ms.locfileid: "6186005"
 ## <a name="the-common-data-model-and-finance-and-operations-apps"></a>Common Data Model وتطبيقات Finance and Operations
 يتضمن Common Data Model البيانات المتوفرة في تطبيقات Finance and Operations. يمكنك إنشاء تطبيقات وملحقات نهائية للمعلومات باستخدام Common Data Model، مما يسمح لك بالتكامل مع تطبيقات وخدمات Microsoft الأخرى. باستخدام Common Data Model وتطبيقات Finance and Operations،  يمكنك استخدام أدوات تحليلية مثل Power BI لدمج البيانات مع تطبيقات أخرى. 
 
-يتم وصف كل البيانات في تطبيقات Finance and Operations، بما في ذلك الجداول والكيانات في Common Data Model. سيُمكّنك هذا من دمج البيانات من تطبيقات متعددة بسلاسة وسهولة ضمن مجموعة مقبولة على نطاق واسع من الكيانات القياسية. لمعرفة المزيد حول إنشاء الكيانات والعمل معها لCommon Data Model، ارجع إلى وحدة [الشروع في العمل باستخدام Microsoft Dataverse](https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/?azure-portal=true).
+يتم وصف كل البيانات في تطبيقات Finance and Operations، بما في ذلك الجداول والكيانات في Common Data Model. سيُمكّنك هذا من دمج البيانات من تطبيقات متعددة بسلاسة وسهولة ضمن مجموعة مقبولة على نطاق واسع من الكيانات القياسية. لمعرفة المزيد حول إنشاء الكيانات والعمل معها لCommon Data Model، ارجع إلى وحدة [الشروع في العمل باستخدام Microsoft Dataverse](/learn/modules/get-started-with-powerapps-common-data-service/?azure-portal=true).
 
 ## <a name="dataverse-and-dual-write"></a>Dataverse والكتابة المزدوجة
 إذا كنت تستخدم كلا من التطبيقات المستندة إلى النموذج في Dynamics 365، وتطبيقات Finance and Operations، تتيح لك الكتابة المزدوجة دمج البيانات بسلاسة بين التطبيقين. على سبيل المثال، قد تستخدم تطبيقات Dynamics 365 Sales وتطبيقات Finance and Operations. يقوم كلا التطبيقين بتخزين بيانات العملاء الخاصة بك. باستخدام الكتابة المزدوجة، عند إضافة سجل عميل جديد في المبيعات، ستتم إضافة سجل العميل أيضاً في تطبيقات Finance and Operations في الوقت الحقيقي تقريباً. اتجاه تدفق البيانات متزامن وثنائي الاتجاه. يعني هذا أنه يمكنك إدخال البيانات وإخراجها من كلا التطبيقين. 
@@ -24,7 +24,7 @@ ms.locfileid: "6186005"
 ![رسم تخطيطي يوضح تدفق الكتابة المزدوجة للبيانات.](../media/common-data-service-dual-write.png) 
 
 
-كما يمكن توسيع إطار عمل الكتابة المزدوجة للسماح للمؤسسات بتعديل الوظيفة للعمل وفقاً لعملياتها الفريدة. يمكنك استخدام الكيانات المخصصة وإضافة ملحقات للكيانات الموجودة لتمكين الاستخدام الكامل لـ Dataverse والأدوات لمؤسستك. لمعرفة المزيد حول الكتابة المزدوجة، انتقل إلى [نظرة عامة على الكتابة المزدوجة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview/?azure-portal=true).
+كما يمكن توسيع إطار عمل الكتابة المزدوجة للسماح للمؤسسات بتعديل الوظيفة للعمل وفقاً لعملياتها الفريدة. يمكنك استخدام الكيانات المخصصة وإضافة ملحقات للكيانات الموجودة لتمكين الاستخدام الكامل لـ Dataverse والأدوات لمؤسستك. لمعرفة المزيد حول الكتابة المزدوجة، انتقل إلى [نظرة عامة على الكتابة المزدوجة](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview/?azure-portal=true).
 
 ## <a name="enable-dual-write-in-finance-and-operations-apps"></a>تمكين الكتابة المزدوجة في تطبيقات Finance and Operations
 لاستخدام الكتابة المزدوجة وتكوينها، يمكنك البدء بربط بيئة تطبيقات Finance and Operations بـ Dataverse باستخدام **معالج الكتابة المزدوجة**، ثم تمكين خرائط الكيانات.  

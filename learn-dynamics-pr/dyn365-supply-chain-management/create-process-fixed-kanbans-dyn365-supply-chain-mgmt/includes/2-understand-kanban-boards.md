@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: de97c5faf7231695eed7ef629ec8a4a9645d66e2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cbdab4ffbe5675a7becddd46457236117817814a1e0643b3514acfdad4cb8007
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668228"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135222"
 ---
 ## <a name="process-actions"></a>إجراءات المعالجة
 

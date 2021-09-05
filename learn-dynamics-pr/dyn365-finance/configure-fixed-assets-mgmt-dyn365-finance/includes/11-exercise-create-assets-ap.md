@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0991cfe72e774dc7df4ad2c294823758d6254780
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 0e10018fde1b8d3b46d53454e2235580bc51602a2b28de79b5e73df29cb5960f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125080"
 ---
 ## <a name="scenario"></a>السيناريو
 ستقوم بإعداد محددات الأصول الثابتة ثم إنشاء فاتورة مورد جديدة.

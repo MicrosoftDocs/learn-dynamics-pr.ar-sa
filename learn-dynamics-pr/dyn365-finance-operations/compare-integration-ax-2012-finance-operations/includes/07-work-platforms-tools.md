@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6f46273d77ed3ecdaaa0f26aee6e185536d2007
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: baef5619595d91b13509a48e12ad9738417711904b2bff60c2ee35d56929bcdb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109839"
 ---
 عند التعامل مع والأنظمة الأساسية والأدوات الخاصة بالتكامل وتحديدها، ستحتاج إلى التأكد من أن النظام الأساسي أو الأداة:
 

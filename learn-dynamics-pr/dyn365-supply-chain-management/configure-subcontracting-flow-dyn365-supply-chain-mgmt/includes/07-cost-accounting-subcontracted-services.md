@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 210369f1fd2a0b38e30a91453d5ffaad1f78a498
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6b70d5adf0adaf379af826e38f10dbac4a80617ae9588e301ad29e18a00e2d95
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667820"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081676"
 ---
 
 يستخدم التعاقد من الباطن المستند إلى النشاط في Supply Chain Management أنشطة العملية كجزء من حساب التكلفة للمنتج النهائي، بناءً على تدفق الإنتاج باستخدام نوع مجموعة التكاليف **للإسناد المباشر إلى جهة أخرى**.

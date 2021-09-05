@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 462048831f4b34d9421d0aab44000f5b1089c0b4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ff9b66c51876191d4e3b06d527319bf9217ee63d787fc0593976a4843a8d3eee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677478"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082741"
 ---
 لاستخدام بطاقات الائتمان، يجب إعداد خدمة الدفع وتنشيطها في الصفحة **خدمات الدفع**. تعمل خدمة الدفع كجسر بين كيانك القانوني والبنك الذي يُعالج رسوم بطاقة الائتمان الخاصة بالعميل. يجب العمل باستخدام موفر بطاقة ائتمان مُدرج في الحقل **موصل المدفوعات** وإعداد حساب مع هذا الموفر.
 

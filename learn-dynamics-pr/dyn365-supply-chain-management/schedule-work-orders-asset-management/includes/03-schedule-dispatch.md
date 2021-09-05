@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d9bf3b8f45a8471c4eaa1ecfd8b6a27074823a15
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9fe35bfdcbdeee5122ac242c49c73f05a5f231634f691ccd4624a99bc80606f6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668129"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077549"
 ---
 عندما يتطلّب أحد الأصول صيانةً من أي نوع، يتم إنشاء أمر عمل لإكمال المهمة. يحتوي أمر العمل على العديد من المكونات، مثل المورد المعيّن والتاريخ والمهام المراد إكمالها والمزيد غير ذلك. يمكن إنشاء أوامر العمل بعدة طرق: 
 

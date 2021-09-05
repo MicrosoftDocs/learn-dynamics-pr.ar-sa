@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 240db9d192a47ad1d70b3dfd9b5f2fd06470ab5c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f10da1567349881593491926a6428cd8c653e4f01de3f3924a50be91a1b9fd5c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046235"
 ---
 يعرض تقرير **المخزون الفعلي عن طريق بُعد المخزون** كمية المخزون لكل بُعد من أبعاد المخزون للتاريخ الذي تحدده في حقل **كما هو الحال‬**. كما يتيح لك هذا التقرير خيار التصفية حسب بُعد المخزون.
 

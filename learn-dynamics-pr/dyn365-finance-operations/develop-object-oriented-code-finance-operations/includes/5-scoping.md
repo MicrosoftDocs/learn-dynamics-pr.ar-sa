@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8ea19b46ed9002bde959f182ba79e15493cd725
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 96843afd006d329fc1e51266da521d06b06c3cbd
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072324"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7338782"
 ---
 النطاق هو المنطقة التي يوجد بها أحد الأصناف أو يمكن الوصول إليه منها. توجد متغيرات X++‎ وأساليبها داخل نطاق محدد. يمكن تعيين النطاق بواسطة وضع الإقرار واستخدام معرفات الوصول.
  
@@ -19,7 +19,7 @@ ms.locfileid: "6072324"
 
 ## <a name="internal"></a>‏‏داخلي
 
-*داخلي* هي كلمة أساسية في X++‎. لها نفس الدلالات التي في C#‎ انظر [داخلي (مرجع C#‎)](https://docs.microsoft.com/dotnet/csharp/language-reference/keywords/internal/?azure-portal=true).
+*داخلي* هي كلمة أساسية في X++‎. لها نفس الدلالات التي في C#‎ انظر [داخلي (مرجع C#‎)](/dotnet/csharp/language-reference/keywords/internal/?azure-portal=true).
 
 عندما تقوم بتحديد فئة أو أسلوب كداخلي، فإنه يمكن الوصول إليه فقط من داخل النموذج الذي يتم تعريفه فيه.
 ```xpp

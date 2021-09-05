@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 37c285403b114e335483ab8a8b9d316dadcb0072
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1aedaa1f087e6ad8a056d7d0a2335d519e9b88f160488b764a19b6d15442fad0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677315"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047819"
 ---
 يتم التعامل مع جميع الأصول الثابتة على أنها حركات الميزانية العمومية في السنة التي تم الحصول عليها فيها، ويتم ترحيلها كأصل إلى حساب الميزانية العمومية.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d63a6ccc9d1b399f79fa5d3685b3273722f766df
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ebc4470ce3de5ebd4373b8e87b8efdf066b9d2df0086f819f38e42ad8d12a944
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071922"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059378"
 ---
 
 لتقليل وقت الإنشاء والتأكد من أنك تقوم دائماً بتشغيل أحدث إصدار من تطبيقات Finance and Operations، لا يمكنك تعديل الرمز الأساسي ولا يمكن تراكب أي نماذج من Microsoft.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a117afe29847d1f456cb0b7a1de6aadcc3f5f272
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 36f17e6a038c94a9ea8b5dc10c05cf3828c6c1e38e86d7d2974bfddfe319d987
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668348"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081711"
 ---
 ## <a name="scenario"></a>السيناريو
 بصفتك موظف مستودع في شركة **‎USMF**، فأنت بحاجة إلى إنشاء إصدار التكاليف القياسي لتسجيل المنتجات التي تستخدم مجموعة نماذج الصنف مع نموذج المخزون **القياسي**. تحتاج أيضاً إلى تجميع الأصناف استناداً إلى نموذج المخزون FIFO.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0fffdd87a5675e332695cc79f2c9d349deb98dd5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 23f9ea57f55834d5a76ad372c59d2401d7432625d6392c2c0b06d4918c8e8ac0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668270"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086430"
 ---
 تعتبر المراحل **إصدار** و **بدء** و **الإبلاغ كمنتهٍ** جزءاً من دورة عمر الإنتاج. يتم بعد ذلك إكمال مرحلة **الإنهاء** بعد الإبلاغ عن الأمر كمنتهٍ.
 

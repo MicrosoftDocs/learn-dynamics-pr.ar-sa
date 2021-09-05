@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3215833cc5a608becda9001ba695e394ec5ba13
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 59065e6ab2d8eca03c6a4154967fa81d9121521bcc5647d93b00337cb1a660e0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667594"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057887"
 ---
 في إدارة الأصول، يمكنك إجراء عمليات حسابية توفر مراجعة محددة بفترة معينة لطلبات الصيانة الجديدة والنشطة والمكتملة وأوامر العمل وأنشطة وقت تعطل الصيانة. يمكنك أيضاً رؤية عدد تقييمات الحالات المكتملة للفترة نفسها. 
 

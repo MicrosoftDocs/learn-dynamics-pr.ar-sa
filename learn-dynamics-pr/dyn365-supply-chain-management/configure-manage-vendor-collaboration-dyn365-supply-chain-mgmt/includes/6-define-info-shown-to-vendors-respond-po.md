@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 205c65e45a078722a33b946505de877d9cde1da7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 71103d8b375acf369489f8971372c4cbb951aab525a2bbd77a4df9e11266bdf4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668398"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139844"
 ---
 عندما يستجيب الموردون لأمر الشراء الذي ترسله إليهم، فإنهم يرون أحد مربعات الرسائل الثلاثة، حيث يجب عليهم تأكيد ما إذا كانوا يريدون قبول أمر الشراء، أو رفضه، أو قبوله بالتغييرات. نظراً لأن المعلومات التي يجب عرضها للمورد في تلك المرحلة قد تكون خاصة بعملك، يمكنك تحديد النص الذي يظهر في كل رسالة تأكيد.
 

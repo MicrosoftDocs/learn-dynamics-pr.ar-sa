@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7123f6de91cccc1029948b54eaaf1a459fe2da14
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c6a4740011b3c08a1f68e2485a2c2d02ccecba28
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7327329"
 ---
 يعتبر التخطيط الرئيسي جزءاً قيماً من Dynamics 365 Supply Chain Management لأنه يقوم بحساب المتطلبات والنتائج في إنشاء الأوامر المخططة. كما هو الحال، فإنه يمكن أن يكون مصرفاً في الموارد وهو سبب التشغيل بعد ساعات وليس غالباً أكثر من مرة في اليوم. 
 
@@ -15,6 +15,6 @@ ms.locfileid: "6667903"
 - يمكن تقليل أزمنة وصول البضاعة مع توفير وقت التشغيل هذا.
 - بالإضافة إلى هذه التحسينات المعمارية، تم تضمين العديد من الميزات الجديدة وتخطيطها والتي ستؤدي إلى تحسين وظيفة التخطيط.
 
-للحصول على آخر التحديثات حول استكشاف أخطاء تحسين التخطيط وإصلاحها، راجع [استكشاف أخطاء تحسين التخطيط وإصلاحها]( https://docs.microsoft.com/dynamics365/supply-chain/master-planning/planning-optimization/planning-optimization-trouble-shooting/?azure-portal=true).
+للحصول على آخر التحديثات حول استكشاف أخطاء تحسين التخطيط وإصلاحها، راجع [استكشاف أخطاء تحسين التخطيط وإصلاحها](/dynamics365/supply-chain/master-planning/planning-optimization/planning-optimization-trouble-shooting/?azure-portal=true).
 
 

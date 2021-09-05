@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1435a5fad051914fe339399232c54ec9602408df
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: de6b830700793839b3cebb6d8c1659b0009d93c8b0f73382b29b1a4d1718a06a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667646"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081441"
 ---
 ## <a name="set-up-manual-packing"></a>إعداد التعبئة اليدوية
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ff29fb27ca8ba37db210d5ed2ec621c00ff10c91
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 69e9a9b13174c03d6c096a2b582fb7e64ffa13da8f3bdd13d82cd61f57c2b2f3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667609"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077954"
 ---
 في **DEMF**، طلب العميل Southridge Video **DE-016** عدد 2 قطعة من الصنف رقم **0001**. افترض أنه ليس لديك مخزون فعلي متوفر.
 لذلك، يجب إنشاء سلسلة بين الشركات الشقيقة. للحفاظ على التفاعل اليدوي إلى أدنى حد ممكن، يجب إنشاء هذه السلسلة تلقائياً. يقع تاريخ التسليم في أقرب وقت ممكن، وبالتالي تطلب من المورد **USMF** شحن الأصناف مباشرةً إلى العميل Southridge Video.

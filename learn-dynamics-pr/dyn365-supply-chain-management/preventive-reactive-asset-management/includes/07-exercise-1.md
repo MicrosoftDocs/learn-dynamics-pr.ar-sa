@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a13f3661f52c684118cc281f8f02ffea744505e3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6082232b741a7aca9b521008645dc3e8f8839837195108cdaddc3734a64a8f07
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667391"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077589"
 ---
 قامت مزرعة مونسون للمخللات والمعلبات بشراء شاحنات. مهمتك هي إعداد خطة صيانة لخدمة الزيت كل 5،000 ميل.
 

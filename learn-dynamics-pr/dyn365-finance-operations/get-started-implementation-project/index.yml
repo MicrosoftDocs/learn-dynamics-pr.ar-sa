@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 6c985ab7d515d79eefaf27ea0f4202aad6793012
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 105678f89f91f7574ce6432ea14d397e9759b080
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072229"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7362676"
 title: بدء مشروع تنفيذ Finance and Operations
 summary: "[!include[](../includes/module-banner.md)] \nستساعدك دورة حياة تنفيذ Finance and Operations على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ Finance and Operations، والأدوار المضمنة والأدوات المتاحة لدعمها.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n  - تعرف على رحلة التنفيذ لمشروع Finance and Operations ناجح.  \n  - تحديد المراحل المختلفة لتنفيذ Finance and Operations.  \n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bbf439ad5f7ebdcbdbc92dea41066ae69d3d589e
-ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+ms.openlocfilehash: 80850fd9d28165b4a71a3b80aaac9247db0b66c1
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "6070533"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7360729"
 ---
 إن القدرة على تنفيذ أمر ما بمرور الوقت باستخدام إذن دفع واحد ممكنة مع الالتقاط المتزايد. على سبيل المثال، قد يتم تنفيذ أمر العميل في ثلاث شحنات. 
 
@@ -22,6 +22,6 @@ ms.locfileid: "6070533"
 
 يمكنك العثور على موارد إضافية حول الالتقاط المتزايد هنا:
 
-- [الالتقاط المتزايد لفواتير الأوامر](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/incremental-capture/?azure-portal=true).
-- [Dynamics 365 Payment Connector for Adyen](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/adyen-connector?tabs=8-1-3/?azure-portal=true).
-- [مدفوعات أوامر القناة متعددة الاتجاهات لـ Commerce](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/commerce-payments/?azure-portal=true).
+- [الالتقاط المتزايد لفواتير الأوامر](/dynamics365/commerce/dev-itpro/incremental-capture/?azure-portal=true).
+- [Dynamics 365 Payment Connector for Adyen](/dynamics365/commerce/dev-itpro/adyen-connector?azure-portal=true&tabs=8-1-3).
+- [مدفوعات أوامر القناة متعددة الاتجاهات لـ Commerce](/dynamics365/commerce/dev-itpro/commerce-payments/?azure-portal=true).

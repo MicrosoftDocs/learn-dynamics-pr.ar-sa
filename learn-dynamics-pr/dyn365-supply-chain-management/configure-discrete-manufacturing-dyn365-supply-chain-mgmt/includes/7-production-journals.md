@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e4f5506019cc15a41270e9312c4e7d7dd5ee1e41
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8f5a6fa1ae6ebd9787e5900c9e05286c86ea14d62689c5665a14260ca1ce2f4e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668044"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124648"
 ---
 يتم استخدام دفاتر يومية الإنتاج للإبلاغ عن استهلاك الصنف واستهلاك المسار والأصناف المنتهية. إنها رابط مباشر لنظام دفتر الأستاذ لأن ترحيل دفاتر اليومية هذه يتضمن الترحيل إلى دفتر الأستاذ.
 يتم ترحيل حركات دفتر اليومية ضمن إعداد دفتر الأستاذ العام المستند إلى دفتر الأستاذ الخاص بأمر الإنتاج.

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 6a766ce3fe6c3ec727e31db38d37976abb5677c9
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 94448e0cf44a9e5a89aaf5ceb5e96ceb1e7f4401
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070255"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7356989"
 title: التعامل مع الترويج في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nDynamics 365 Commerce هو حل ترويج شامل يمكن استخدامه لإدارة دورة حياة المنتج من الإنشاء إلى الصيانة والتوزيع والنشر عبر قنوات Commerce. يمكن إكمال عمليات المنتجات والترويج باستمرار باستخدام تدفقات العمل المضمنة وصفحات واجهة المستخدم.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على معلومات حول الترويج الشامل في Dynamics 365 Commerce.\n- اكتشف كيفية تكوين منتجات Commerce.\n- يمكنك إنشاء كتالوجات وإدارة صور المنتج.\n- تعرف على كيفية التعامل مع السمات والمجموعات.\n"

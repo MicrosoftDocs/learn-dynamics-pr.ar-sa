@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5436c418d79554f23ab87edc8587ef8c6d777268
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 643def5b8176eacd052d5764278beb0843a9b30d2cad7a6dfd549b17fdb2aade
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668057"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067232"
 ---
 تشتمل القائمة التالية على الشروط المتعلقة بتنفيذ التصنيع ومهام التسجيل ذات الصلة:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bf4fe7b43fe0479ecd030ca0e872c219aaf29572
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 472b98d570a459fd7fe5197ec549b61b248cbb513a71655e5bc01d5481233ddd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693269"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099017"
 ---
 قد تطلب مؤسستك توقيعات إلكترونية لمتطلبات التنظيم والامتثال، خاصةً إذا كنت ضمن الصناعات الدوائية أو الغذائية أو المشروبات أو الصناعات الدفاعية، على سبيل المثال.
 تستخدم التوقيعات الإلكترونية لتأكيد وتحديد هوية الشخص الذي على وشك بدء عملية الحوسبة أو الموافقة عليها.

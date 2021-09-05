@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a96d7844e70cf606b03175cac783718a7e2b9c0d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f5755a2af82ba806df2952d0891a2a3579cab0a3c958f3040cba37128d168891
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098245"
 ---
 في هذه الوحدة، تعلمت أنه يمكن تقديم التصنيع الموحد (الوضع المختلط) وlean manufacturing بطرق مختلفة.
 

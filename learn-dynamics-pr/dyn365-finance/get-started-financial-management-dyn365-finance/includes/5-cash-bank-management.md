@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c78b881841ae38c079e79c815c4adb7a85a41658
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 147d6775db759ffc411c658867f3d706c0cf4f015e17d1ceaae03094c3041ea3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677787"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087215"
 ---
 
 

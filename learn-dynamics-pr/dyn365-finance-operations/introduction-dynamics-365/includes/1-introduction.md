@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b15f5daa485250f1724dc65168fb8036dacbd9b1
-ms.sourcegitcommit: c8884bde6b4fb84c6869af4ee3e4b4ae3724a271
+ms.openlocfilehash: 8f3edf97b49dc2bfacafbd7f7e91006d65db0f49561442f30cf3a098aec72070
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/21/2021
-ms.locfileid: "6647514"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053677"
 ---
 تطبيقات Microsoft للأعمال هي مجموعة من الحلول الذكية التي توفر رؤية شاملة لأعمال المؤسسة. تتضمن هذه الحلول منتجات Dynamics 365 المتصلة بالبيانات والذكاء والمدعومة من قبل Microsoft Power Platform.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3a2c9a7eb768f143f9416611384b781e75247050
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f6eecf93b35daf359f4dabe243dc281c824c9746422b5068fc339e47893e3d7f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667882"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086371"
 ---
 تمنح مواقع العمل في إدارة الأصول في Dynamics 365 Supply Chain Management مؤسستك القدرة علي تحديد المكان الذي توجد به الأصول وتعقبها. وتوفر ميزة مواقع العمل إمكانية التتبع وتحسن علاقة إعداد التقارير بأوامر العمل وتقييمات الحالة والأخطاء وتسجيلات إيقاف الإنتاج. توضح لك هذه الوحدة النمطية كيفية إنشاء مواقع عمل وتثبيت الأصول المرتبطة بمواقع العمل هذه.
 

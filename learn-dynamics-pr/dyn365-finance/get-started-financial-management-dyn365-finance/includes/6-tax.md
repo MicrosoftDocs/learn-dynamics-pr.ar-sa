@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3d9a671a140aa0d907c7044df648bdc4d03e54be
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9440897232788ce9ba5fed72279483f2410144213e9ca599af1e7416452c1ded
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677696"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058626"
 ---
 
 ![لقطة شاشة لصفحة أكواد ضريبة المبيعات.](../media/tax1.png)

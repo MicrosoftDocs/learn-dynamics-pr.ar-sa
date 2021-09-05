@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c85ce1c9ed3a411d53e79b21e7ba01dcd7248d9a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b877d5f4cd59c26f6e90abac44d14b4cfc1a302e0a6fa44571775046bd274a7b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677711"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141326"
 ---
 الصندوق عبارة عن مجموعة من الدفاتر المالية ذاتية التوازن تُستخدم للتحكم في الاستخدام المخطط للموارد ومراقبته، غالباً وفقاً للمتطلبات القانونية والإدارية. تستخدم مؤسسات القطاع العام الأموال لإثبات مسؤوليتها المالية.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc0d5056fb71db7096f8160ab93f6aa042ae540b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5beb30e90fc21a61fc650517ff744e8c5aeca7d01eef3db43fde6d71339a628e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667647"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086301"
 ---
 أهم مكونات تكوين المستودع هي قوالب العمل وتوجيهات الموقع وقوالب الموجة. تحدد قوالب العمل ما هو العمل الذي يتم تنفيذه وكيف يتم تنفيذ العمل. توجيهات الموقع عبارة عن قواعد تساعد في تحديد مواقع الانتقاء والوضع لحركة المخزون في المستودع. تحدد قوالب الموجة العمل الذي يمكن تجميعه معًا ومعالجته بنفس الطريقة.
 

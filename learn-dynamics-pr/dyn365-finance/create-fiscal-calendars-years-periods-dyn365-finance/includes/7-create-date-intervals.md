@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 61116072d3d968d69592fedc5eab071ab3af6fd4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9aa91debe85e4a857267f85c68122ed5b68cd6cbf30af4983c3c735ca7316740
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677774"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093316"
 ---
 يساعدك إنشاء فترة تاريخ في Finance في تصفية البيانات والإبلاغ عنها وتحليلها استناداً إلى نطاق تاريخي. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cf1aa9d40412906435e1c29aa745b9d1a4ec8179
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 146f4cf1df6c358786c314e1d4e4457fba5aa6f5
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677695"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7335086"
 ---
 في هذه الوحدة النمطية، تعلمت أنه بعد تسوية الحسابات وتقييم المخزون، قد يتعين عليك إدخال حركات نهاية السنة.
 ويمكنك إدخال هذه الحركات في إدخال تعديل إغلاق بسيط، كما يمكنك استخدام كشف تسويات الإقفال لترحيل حركات نهاية السنة وتقديم تقاريرها بشكل منفصل عن حركات الأعمال اليومية.
@@ -29,5 +29,5 @@ ms.locfileid: "6677695"
 
 | الموضوع | الرابط |
  | ------------- | ------------- |
- | معلومات حول إعداد التقارير المالية| [إعداد التقارير المالية](https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/3-financial-reporting/?azure-portal=true)|
- | معلومات حول تكوين الوحدة النمطية لدفتر الأستاذ العام | [تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance](https://docs.microsoft.com/learn/paths/configure-use-general-ledger-dyn365-finance/?azure-portal=true)|
+ | معلومات حول إعداد التقارير المالية| [إعداد التقارير المالية](/learn/modules/work-analytics-reporting-finance-operations/3-financial-reporting/?azure-portal=true)|
+ | معلومات حول تكوين الوحدة النمطية لدفتر الأستاذ العام | [تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance](/learn/paths/configure-use-general-ledger-dyn365-finance/?azure-portal=true)|

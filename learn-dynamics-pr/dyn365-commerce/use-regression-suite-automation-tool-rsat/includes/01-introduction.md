@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b32781abdb1b563601b2fd38e613deeefb256c3f
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 88819488ec9b41dd0f4007b71de08503db7e984cf7139154c32be31fd2338bb1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070069"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7110646"
 ---
 تعمل Regression Suite Automation Tool (‏RSAT) على تمكينك من إجراء حالات الاختبار تلقائياً بدون الحاجة إلى البرمجة النصية أو الترميز. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 22f9fef2e6a75db671fb50c1a2b6482eb71425a1
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: a4c89414f819692d07b7dc729fd9f50def44e93eb66f4b1a9f1503513b934e20
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6186151"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136572"
 ---
 تتمثل الخطوة الأولى في العمل مع وظيفة إعداد التقارير في تطبيقات Finance and Operations في فهم ميزات إعداد التقارير الموجودة بالفعل والتي يمكنك استخدامها، إما كما هي، أو من خلال ملحقات صغيرة لمطابقة متطلبات العملاء.
 

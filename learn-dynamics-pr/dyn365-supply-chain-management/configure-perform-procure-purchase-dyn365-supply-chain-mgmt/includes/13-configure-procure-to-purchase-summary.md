@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 57c6a79819e21a20eae88cd3d8c6d831d8c1eb11
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3011b52f21036cb995d02d24404228a5e9ca3a1f6836d90d4c694203d4a4c126
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667993"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139815"
 ---
 في هذه الوحدة النمطية، لقد تعرّفت على عملية التدبير إلى الشراء وكيفية إعدادها وإجرائها في Dynamics 365 Supply Chain Management.
 

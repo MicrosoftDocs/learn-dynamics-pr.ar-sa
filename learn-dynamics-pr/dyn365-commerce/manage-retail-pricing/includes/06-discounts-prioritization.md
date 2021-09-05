@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4a8529b65a950b753cdc791344ea28e9f9225798
-ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+ms.openlocfilehash: 82fe6d22d65cf1e38256d8792b220f45db4d81a2
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "6070511"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7333521"
 ---
 يمكن تطبيق خصومات متعددة على الحركة. يعتمد التأثير الكبير على الحركة على تسلسل الخصومات التي يتم تطبيقها. 
 
@@ -37,4 +37,4 @@ ms.locfileid: "6070511"
 سيتم تطبيق جميع الخصومات التي تم إنشاؤها باستخدام وضع **تطبيق دائماً** على الأصناف المناسبة بعد تطبيق جميع الخصومات الدورية الحالية. وهذا يعني انها ستنطبق على خصومات حصرية على السعر وأفضل خصومات على السعر أيضاً. ولكن سوف يتم تطبيق الخصومات قبل الخصومات اليدوية، مثل الخصومات المضافة للصراف. 
 
 
-لمزيد من المعلومات، راجع [خصومات البيع بالتجزئة](https://docs.microsoft.com/dynamics365/commerce/retail-discounts-overview/?azure-portal=true).
+لمزيد من المعلومات، راجع [خصومات البيع بالتجزئة](/dynamics365/commerce/retail-discounts-overview/?azure-portal=true).

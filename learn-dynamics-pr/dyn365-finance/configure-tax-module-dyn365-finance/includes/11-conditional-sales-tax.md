@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 55e278b1e4b5fedea0b9bcacb496a6b11c220445
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ec36356dc8623bd2f7a7afd232460c61328895a951d67bdb77b468ebf72d558b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078675"
 ---
 ضريبة المبيعات المشروطة هي ضريبة مبيعات يتم دفعها بشكل متناسب إلى المبلغ الفعلي المدفوع على الفاتورة. 
 

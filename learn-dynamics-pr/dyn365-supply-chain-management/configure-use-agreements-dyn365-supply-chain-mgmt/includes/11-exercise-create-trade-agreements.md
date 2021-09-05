@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 19b88d6d9bcff903be1a9d619ac51736dd3d4e47
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b14cf9887b49110bd2513a8bf5c311bd068426ed91d174f8d2e7e7ff62c325f5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081556"
 ---
 ## <a name="create-a-customer-trade-agreement"></a>إنشاء اتفاقية تجارة العملاء 
 

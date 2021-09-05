@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f3f4161f19079301ffc8983b493f0d25355c2c3d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 036c1e0c744ffc3d856a09f452ba318b90ad52a9955842474999cd739d4c9add
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667751"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057558"
 ---
 في شركة USPI، يتم تعيين الصنف M2005 على أمر جودة تم إنشاؤه في إيصال استلام منتج أمر الشراء. قم بإنشاء أمر شراء جديد لـ 500 رطل من المادة، واستلم المادة، ثم أدخل المعلومات في أمر الجودة الذي تم إنشاؤه. 
 

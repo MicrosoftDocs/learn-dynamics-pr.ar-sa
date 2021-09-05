@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a591a868518117b14fbae341c9d40b9768aac2b2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: bda0ccaf54f4c794ce6c0b3a9f67e91cf455a169ea24ccf43d0eb2108c18d400
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677401"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058742"
 ---
 يمكنك استخدام أدوات التنبؤ بالتدفقات النقدية لتحليل متطلبات العملات والتدفقات النقدية المقبلة حتى يتسنى لك تقدير احتياجات الشركة من النقد في المستقبل.
 

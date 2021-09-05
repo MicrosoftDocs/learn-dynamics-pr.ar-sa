@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee27685cd41e9ee506ff2806b773ac2715560706
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fccbbd347e541e954a8c429345b8d54a8505a73602f3df3cdddfbd4eef7db050
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093654"
 ---
 يوضح الشكل التالي العلاقات في الوحدة النمطية للأصول الثابتة في Finance.
 

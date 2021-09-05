@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e6f66580deb06bffb549519a7088b25fb0d1d6c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f6bae8cb750d48b81bd488647a3d3afba095be8d4098d765212814c2e3ad589b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677553"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136304"
 ---
 قبل أن تتمكن من إنشاء دفتر يومية عامة، يجب عليك أولاً إنشاء أسماء دفتر اليومية الخاصة بك وتعيين نوع دفتر اليومية، والذي سيحدد مكان استخدام دفتر اليومية في النظام. لنراجع أولاً أنواع دفاتر اليومية. 
 

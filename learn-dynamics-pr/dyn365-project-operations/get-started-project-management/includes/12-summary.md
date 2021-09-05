@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f91f5511b27cf5d397219c9f69192e56fa1b4e6c
-ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+ms.openlocfilehash: 2c53bf27cdb20235745112c950e748310fa6d36f1112980c6869420507948993
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "6072887"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068151"
 ---
 تساعدك أدوات إدارة المشاريع في Project Operations في تشغيل المشاريع. قد تعرّفت في هذه الوحدة على:
 

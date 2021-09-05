@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e93b862f5556d58b82db7019fb75dfd1e97ff3d8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 27f30f8337c3604d022a4a874937c0b791cedfc2f039d2339681b5eecc1f8c54
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071331"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075103"
 ---
 ## <a name="scenario"></a>السيناريو
 طلب قسم الموارد البشرية في USMF إزالة الوصول إلى دور موظف الحسابات المدينة في تطبيقات Finance and Operations لموظف قام بتغيير دوره. 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee999dfbc1efdefe3e2eb3c6ba98be14392eafe4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 58e4b417301ab01bd3d1601965157f2ad00a59d1
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668323"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326279"
 ---
 توضح الفيديوهات التالية كيفية إعداد علاقات تجارية بين كيانين قانونيين ضمن الشركات الشقيقة. 
 
@@ -170,7 +170,7 @@ ms.locfileid: "6668323"
 
 تسري اتفاقية البيع حسب الفترة التي حددها الشخص الذي أنشأ اتفاقية البيع. يجب أن يقع **تاريخ الشحن المطلوب** للبيع الذي تم تحديده في صفحة **أمر المبيعات** ضمن فترة الصلاحية. افتراضياً، تكون اتفاقية البيع **قيد الانتظار**. يمكنك الطلب من اتفاقية البيع فقط عندما تكون معينة إلى **فعال**.
 
-لمزيد من المعلومات حول الاتفاقيات، راجع [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt//?azure-portal=true).
+لمزيد من المعلومات حول الاتفاقيات، راجع [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 تتضمن الشركات الشقيقة معلمات خاصة باتفاقيات المبيعات وأوامر الشراء.
 

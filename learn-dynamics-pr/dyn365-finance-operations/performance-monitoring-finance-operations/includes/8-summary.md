@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 365f639ee1292919920f2f0ad64e91e9930fdb72
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 9ae169a943575d17bf99fcaaf9d3fd95a49ded34
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071277"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325475"
 ---
 تعرفت في هذه الوحدة على كيفية اكتشاف العديد من مشكلات الأداء وتشخيصها وعرضها داخل بيئات تطبيقات Finance and Operations باستخدام العديد من الأدوات من محلل التتبع إلى المقاييس الصحية في LCS.
 
@@ -12,12 +12,10 @@ ms.locfileid: "6071277"
 
 ## <a name="links-to-related-modules-and-sites-for-specific-topics"></a>ارتباطات لوحدات نمطية ذات صلة لموضوعات معينة
 
-
 | الموضوع | الرابط |
  | ------------- | ------------- |
- | نظرة عامة على محلل التتبع| [تشخيص المشكلات وتحليل الأداء باستخدام محلل التتبع](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/trace-parser)|
- | البرنامج التعليمي لمحلل التتبع| [التقاط تتبعات باستخدام محلل التتبع](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/trace-trace-tutorial)|
-| برنامج Performance SDK التعليمي ودليل الإعداد| [اختبار المستخدم الفردي باستخدام مسجل المهام وPerformance SDK](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/single-user-test-perf-sdk)|
- | نظرة عامة حول رؤى SQL وتحليل الأداء | [استكشاف أخطاء الأداء وإصلاحها باستخدام الأدوات في Lifecycle Services (LCS)](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/performancetroubleshooting)|
-| نظرة عامة ومعلومات حول مراقبة صحة LCS| [أدوات المراقبة والتشخيص في Lifecycle Services (LCS)](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/monitoring-diagnostics)|
-
+ | نظرة عامة على محلل التتبع| [تشخيص المشكلات وتحليل الأداء باستخدام محلل التتبع](/dynamics365/fin-ops-core/dev-itpro/perf-test/trace-parser/?azure-portal=true)|
+ | البرنامج التعليمي لمحلل التتبع| [التقاط تتبعات باستخدام محلل التتبع](/dynamics365/fin-ops-core/dev-itpro/perf-test/trace-trace-tutorial/?azure-portal=true)|
+| برنامج Performance SDK التعليمي ودليل الإعداد| [اختبار المستخدم الفردي باستخدام مسجل المهام وPerformance SDK](/dynamics365/fin-ops-core/dev-itpro/perf-test/single-user-test-perf-sdk/?azure-portal=true)|
+ | نظرة عامة حول رؤى SQL وتحليل الأداء | [استكشاف أخطاء الأداء وإصلاحها باستخدام الأدوات في Lifecycle Services (LCS)](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/performancetroubleshooting/?azure-portal=true)|
+| نظرة عامة ومعلومات حول مراقبة صحة LCS| [أدوات المراقبة والتشخيص في Lifecycle Services (LCS)](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/monitoring-diagnostics/?azure-portal=true)|

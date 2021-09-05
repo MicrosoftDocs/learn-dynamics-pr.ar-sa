@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 61af06ab7e42150cb59519a4b2bcda8782ba0f4a
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: 4931422a3243ca75671b47438a56d57791fad0b3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083633"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7360404"
 ---
 في هذا التمرين، تؤدي دور حساب المسؤول (مدير المشروع) وستقوم بمراجعة تراكم الفوترة للوقت والمواد. وبعد ذلك، ستحدد الإدخالات في تراكمات الفوترة وإنشاء فواتير المشروع. وبعدئذٍ، ستقوم بإكمال نفس الإجراءات الخاصة بالأحداث الرئيسية ثابتة السعر.
 
-يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations. يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview//?azure-portal=true).
+يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations. يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
 
 ## <a name="create-a-time-and-material-invoice"></a>إنشاء فاتورة الوقت والمواد
 

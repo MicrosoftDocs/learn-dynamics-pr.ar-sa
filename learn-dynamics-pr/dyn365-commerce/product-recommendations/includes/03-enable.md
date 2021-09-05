@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b65a7f992644fe825494383f38423fc6c8ee4bde
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 3af4b2bce1ab89789cf99d560e600d461d8b4d977a79a770461d3715527b3c6f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6070444"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7088122"
 ---
 يمكن لتجار التجزئة تشغيل التوصيات بنقرة زر واحدة. يشرح هذا الموضوع كيف يمكنك تمكين توصيات المنتج والقوائم المخصصة لعملاء Commerce. 
 

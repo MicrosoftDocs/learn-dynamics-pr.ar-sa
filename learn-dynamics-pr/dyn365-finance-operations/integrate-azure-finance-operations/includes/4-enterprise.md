@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e1d3a77082476f32e925d421d5e658e86e924b73
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 5b12ee1185a8df4c352b9bd01b1d2a8b8d78f39981ddebd62050e2432057345e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071963"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099887"
 ---
 مثل منتجات Microsoft الأخرى، يمكن لـ Microsoft 365 الدمج مباشرة مع تطبيقات Finance and Operations. في Microsoft Excel، يتم تمكين هذا الأمر من خلال وظيفة Data Connector الإضافية.
 

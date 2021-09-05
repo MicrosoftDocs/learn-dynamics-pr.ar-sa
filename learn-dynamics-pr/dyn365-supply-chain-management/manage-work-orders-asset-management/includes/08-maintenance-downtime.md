@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 88bc5262dea727204d887ff1626ab27536da3b7f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 79b4ec99f0510553196d282413dc356ff699c3185692f5ff7dce0548c5654ed9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667744"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129086"
 ---
 من الممكن أن يوجد أصل قيد الصيانة، ولن يكون متاحاً للاستخدام. على سبيل المثال، إذا تم استخدام أصل محدد في الإنتاج ولن يكون متوفراً لفترة محددة من الوقت، فإنك قد ترغب في ملاحظة التفاصيل بحيث لا تتم جدولته لمهمة إنتاج. لإظهار أن أحد الأصول معطلاً، تحتاج أولاً إلى إعداد أكواد سبب وقت التعطل.
 

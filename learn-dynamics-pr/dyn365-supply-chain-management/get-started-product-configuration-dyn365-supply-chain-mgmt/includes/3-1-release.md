@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d233efed886dcb74eafe9d33626e9272b65cd9fd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 469d6ed6da434bfbc6d3c950d4cf261a8e8b32df9dc09b7e3c1c7a30e07638e4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119532"
 ---
 بعد إنشاء نموذج تكوين منتج، وقبل أن يصبح جاهزاً للاستخدام في سيناريوهات التكوين حسب الطلب، يجب إكمال العديد من العمليات لإنهاء نموذج تكوين المنتج.
 

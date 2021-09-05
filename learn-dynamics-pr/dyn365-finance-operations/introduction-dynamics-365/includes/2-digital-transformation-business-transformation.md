@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 423cfd6d8e9ddb2d840783f9a6055cb7256f8bcc
-ms.sourcegitcommit: c8884bde6b4fb84c6869af4ee3e4b4ae3724a271
+ms.openlocfilehash: 720c28134d8af4df1f4f283a77bc97bacc45d289218ed07a25a56158b695e7be
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/21/2021
-ms.locfileid: "6647660"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120376"
 ---
 
 تسمح تطبيقات الأعمال Dynamics 365 للمؤسسات بتحويل مؤسستها رقمياً. فهي تزيل تعقيد أنظمة إدارة علاقات العملاء (CRM) وإدارة موارد المؤسسة (ERP) المنفصلة عن طريق إنشاء تطبيقات أعمال معيارية حديثة تعمل معاً على نظام أساسي واحد. تمنح التطبيقات المؤسسات المرونة في اعتماد التكنولوجيا عندما تحتاج إليها لتحسين نتائج الأعمال.

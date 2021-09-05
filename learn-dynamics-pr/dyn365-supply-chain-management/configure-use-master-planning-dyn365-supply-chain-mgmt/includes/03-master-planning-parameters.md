@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1e754bd74f525d88ec715430de7da064e2768a4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 404b4340c522fd7475bea6b64f5f5635113fd29db36b9ed9183ddd603ea66fcf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667606"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139649"
 ---
 تُستخدم صفحة **معايير التخطيط الرئيسي** لتحديد المعلومات العامة مثل الخطط والإعدادات الافتراضية التي تتعلق بعملية التخطيط، مثل الخطط الرئيسية والتنبؤات والتغطية وهوامش الأمان، وما يلي:
 

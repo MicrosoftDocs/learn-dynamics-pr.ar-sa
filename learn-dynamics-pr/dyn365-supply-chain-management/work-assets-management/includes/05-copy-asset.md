@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fdf1defbbf5efbfa15b830acab8f95062daa00a4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c1aa83583e8640b570a46235362bb050fc34519e061f0506ddc3b42f5efd8cd1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667891"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091730"
 ---
 إذا كان لدى شركتك بالفعل هياكل أصول متنوعة تم إنشاؤها، فيمكنك استخدام وظيفة النسخ في "إدارة الأصول" لإنشاء أصل أو هيكل أصل مشابه بشكل سريع.
 

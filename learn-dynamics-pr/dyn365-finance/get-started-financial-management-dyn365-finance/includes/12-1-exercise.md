@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 77b3aa52fdf719047db95a252dfed9647fa85351
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 584f7e52f94e1f4352806f4cbd36b61a96398717c55da4568c5f1a0c8460371a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677249"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082489"
 ---
 ## <a name="scenario"></a>السيناريو
 الآن بعد أن تعلمت أساسيات Dynamics 365 Finance، والوحدات والميزات التي تتضمنها، حان دورك لاستكشافها.

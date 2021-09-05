@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4fc32f571369fbb5a274c41f95d5764318af85a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 78215bd34e3301fa6b50ffe2b195810cc24550e2d7ec1ff9ccfbf23038fd9e7c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667343"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086418"
 ---
 يستخدم تسعير السلعة عندما يتقلب سعر شراء المادة الخام بمرور الوقت بناءً على تبادل السلع. قد تكون مادة السلعة مادة زراعية مثل القمح أو الذرة، أو مورداً طبيعياً مثل الزيت، أو سلعة معدنية مثل النحاس. يتم تعيين تسعير الصنف على أساس يومي أو أسبوعي أو شهري بسبب التقلبات في قيمة السلع المتداولة في البورصة للمادة.
 

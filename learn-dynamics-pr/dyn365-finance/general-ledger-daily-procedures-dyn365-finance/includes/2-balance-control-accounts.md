@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c0cdcb02fe512f975850e5f2319a3ec0b357cea
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: cf104bd88086f3014a634d2efbf6660b29d7666bda1624e1878ee0b979d9ed4f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677592"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109516"
 ---
 ستستخدم حسابات التحكم في الرصيد لالتحكم في الرصيد الحالي والمتوقع على الحساب أثناء إدخال الحركات في دفتر اليومية. 
  

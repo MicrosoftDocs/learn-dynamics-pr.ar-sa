@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f08fb01312ffe26d7fa5f5d17da8154934e7787
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2dcf557d7bcb0ecd8e17aaff9edf67c2432f26e266fe2e45458f46710bcc619a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677572"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074824"
 ---
 دفتر اليومية هو عبارة عن ورقة عمل يمكنك استخدامها قبل إدخال الترحيلات يدوياً في النظام. عند التكوين، تتيح دفاتر اليومية إمكانيه إدارة الترحيل بسرعة وكفاءة. لاستخدام دفتر يومية، يجب أن يكون لديك اسم دفتر يومية، ويجب أن يقوم بإكمال تكوين دفتر الأستاذ ودفتر اليومية وترحيل الوحدة النمطية لدفتر الأستاذ العام.
 

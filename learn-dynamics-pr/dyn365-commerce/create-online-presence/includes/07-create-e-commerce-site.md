@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 500d92fd9f60f7e683d5a52553b56ff62002f43a
-ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+ms.openlocfilehash: 73e0920dbd0722472c9d4ea6bba342493e8fdbd64717e07edc123b6612a9e38f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "6070454"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126962"
 ---
 للبدء في تطوير موقع التجارة الإلكترونية الخاص بك، يجب عليك أولاً إنشاء موقع جديد في أداة منشئ المواقع. قبل أن تتمكن من إنشاء موقع جديد، يجب إنشاء متجر واحد على الأقل على الإنترنت في المركز الرئيسي (HQ) لـ Commerce. 
 

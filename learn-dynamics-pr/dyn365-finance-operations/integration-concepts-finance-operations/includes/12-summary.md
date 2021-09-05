@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d634c371de3dac451f95b3ea84feeeee675ff77c
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: dccf2f29d98b5d26d43e4a7403ac85a05fd4c900a08ab76d613608aa4f74f44d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071894"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053743"
 ---
 
 في هذه الوحدة النمطية، لقد تعرفت على المفاهيم التالية التي تسمح لك بأن تكون مطوراً مزوداً بصورة أفضل لإنشاء حلول تكامل البيانات:

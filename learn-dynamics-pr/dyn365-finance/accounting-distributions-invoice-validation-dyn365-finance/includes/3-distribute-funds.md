@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8183394ec2c363a8c9d5936def004d1d5ab9c70
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: caa1302ae4e26206b53673939f9f0ac66fedd2dd433a6453a494cb1afac7d37d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130213"
 ---
 توضح هذه الوحدة كيفية توزيع الأموال باستخدام التوزيعات المحاسبية.
 

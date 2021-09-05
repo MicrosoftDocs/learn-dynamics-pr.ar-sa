@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a68dfde08d0983edeef48ab43edaef7085b2a88b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 35e479b6465a5f1a13342d104a0b97291264a4ea8cda2b67446884726f6e6749
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667293"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052009"
 ---
 ## <a name="create-a-bom-with-bom-designer"></a>إنشاء قائمة مكونات الصنف باستخدام مصمم قائمة مكونات الصنف
 

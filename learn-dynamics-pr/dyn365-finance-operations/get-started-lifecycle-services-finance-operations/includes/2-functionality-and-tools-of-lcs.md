@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 38e20ed67a6a7be6672b275c38053e8a2947a4d1
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: a728761706a8d45960d1a4a919a9079f01c7616bf3b4428a6989ae24b928c087
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072295"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059177"
 ---
 إن Lifecycles Services ‏(LCS) هو المستودع المركزي لمعظم الأدوات التي تستخدمها لإعداد وتوزيع مشروع لتطبيقات Finance and Operations. إن LCS هي مساحة عمل تعاونية مستندة إلى مجموعة حيث يتم تخزين جميع المعلومات الأساسية حول المشروع. يمكن أن تتضمن هذه المعلومات معلومات حول مراحل المشروع ومستودع جماعي يسمى مكتبة الأصول. يمكن إتاحة كل هذه المعلومات لأعضاء المشروع.
 

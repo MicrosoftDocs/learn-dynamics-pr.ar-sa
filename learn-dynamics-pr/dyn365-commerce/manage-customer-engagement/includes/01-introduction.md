@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8db033f5a7a450932b06a86f4603ee2068c514a4
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6da5d72d9d0b7b0e9c4545a0388dff1b695b95a4f36fe30882c08348715bb0ea
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070251"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7137362"
 ---
 يمكن لبائعي التجزئة استخدام برنامج الولاء والانتماء وبطاقات الهدايا لتقديم أسعار وخصومات خاصة لأعضاء برنامج الولاء وتقديم مزايا إضافية، مثل الشحن المجاني أو المميز بخصومات. 
 

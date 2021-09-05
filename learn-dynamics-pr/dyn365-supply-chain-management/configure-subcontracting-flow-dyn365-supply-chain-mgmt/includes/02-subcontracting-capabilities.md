@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 00cd9e2d56a3ce80994349163315632470c51bc3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 683ed43160f23dc3686ec00db99aed795d638b45e63134d184c48d55541dd104
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667987"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139745"
 ---
 يفصل التعاقد من الباطن من أجل lean manufacturing في Supply Chain Management تدفق المواد عن عملية شراء الخدمات. يتم إنشاء أمر الشراء تلقائياً عند تحديث حالة كانبان إلى **مخطط‬**.
 

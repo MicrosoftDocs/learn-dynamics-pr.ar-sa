@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 40a9ea205b8046585d9a2d509119e5dcc819fe16
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 7f5be2642150a6e1c20bb43b7f1743bc667df9ef
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677690"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7364919"
 ---
 في المؤسسات الكبيرة، تكون التسوية البنكية عملية شاقة ومستهلكة للوقت عند إجرائها يدوياً.
 
@@ -76,7 +76,7 @@ ms.locfileid: "6677690"
 
 [![مثال على ميزان المراجعة مع تقرير تفاصيل الحركات.](../media/report-output-ss.png)](../media/report-output-ss.png#lightbox)
  
-لمزيد من المعلومات حول المعلومات المعروضة في التقارير، راجع [ميزان المراجعة مع تقرير تفاصيل الحركات](https://docs.microsoft.com/dynamics365/finance/public-sector/general-ledger-public-sector-trial-balance/?azure-portal=true).
+لمزيد من المعلومات حول المعلومات المعروضة في التقارير، راجع [ميزان المراجعة مع تقرير تفاصيل الحركات](/dynamics365/finance/public-sector/general-ledger-public-sector-trial-balance/?azure-portal=true).
 
 
 ## <a name="import-an-electronic-bank-statement"></a>استيراد كشف حساب بنكي إلكتروني

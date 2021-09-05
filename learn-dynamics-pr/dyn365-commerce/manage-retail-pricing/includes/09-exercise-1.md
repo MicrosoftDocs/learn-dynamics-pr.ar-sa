@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9844a02f243f2ae1a592b574d56258a965b5c5ff
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: b1427ce2ca01c4d25f1062d0e68cbfbab86ce9d18aabd57a9d0eca8ffb90e94d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7088185"
 ---
 بالنسبة لهذا التمرين، والتمرينات الأخرى في هذه الوحدة، استخدم بيانات العرض التوضيحي في الكيان القانوني **USRT**.
 

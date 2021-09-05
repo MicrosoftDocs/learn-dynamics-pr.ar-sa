@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 2728bb5e2f874575e3bb0860a36e8273c575eb28
-  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.openlocfilehash: 09c755f16225b1ae4a5fe23f7926dccb37f978e5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/08/2021
-  ms.locfileid: "6446844"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365845"
 azureSandbox: false
 durationInMinutes: 8
 content: '[!include[](includes/2-digital-transformation-business-transformation.md)]'

@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: e56d3011c18c22e3ffaae8a17f5aed67ff7f928a
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: e02292088dc578ebeb2ba69e9578d605ee6e2ce0
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072394"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329287"
 ---
-توفر Lifecycle Services العديد من الميزات لمساعدتك في دعم البيئات التي تديرها. من صفحة **التفاصيل الكاملة** لأي بيئة، يمكنك إعادة تشغيل الخدمات الرئيسية ورؤية التغييرات التي تم تطبيقها على البيئة والوصول إلى الواجهتين الأمامية والخلفية للبيئة. 
+توفر Lifecycle Services العديد من الميزات لمساعدتك في دعم البيئات التي تديرها. من صفحة **التفاصيل الكاملة** لأي بيئة، يمكنك إعادة تشغيل الخدمات الرئيسية ورؤية التغييرات التي تم تطبيقها على البيئة والوصول إلى الواجهتين الأمامية والخلفية للبيئة.
 
-[ ![لقطة شاشة للوحة معلومات Lifecycle Services.](../media/dashboard-1.png) ](../media/dashboard-1.png#lightbox)
+[![لقطة شاشة للوحة معلومات Lifecycle Services.](../media/dashboard-1.png)](../media/dashboard-1.png#lightbox)
 
 من القائمة الرئيسية، في صفحة **التفاصيل الكاملة** لأي بيئة في Lifecycle Services، حدد **محفوظات**، ثم حدد **تغييرات البيئة‬‏‫** من القائمة المنسدلة. تعرض لك الصفحة الناتجة كل حزمة تم تطبيقها من مكتبة الأصول على البيئة، سواء كانت تحديث النظام الأساسي أو حزمة الكود أو مهمة صيانة قاعدة البيانات.
 
@@ -18,18 +18,22 @@ ms.locfileid: "6072394"
 
 ثمة خيار آخر متاح في بيئات الطبقة 2 فأعلى هو إعادة تشغيل الخدمات، حيث يُتيح لك إعادة تشغيل خدمة IIS أو Batch أو خدمة تشخيص Lifecycle Services أو خدمة DIXF أو خادم التقارير عن بُعد.
 
-## <a name="additional-support"></a>دعم إضافي 
-هناك عدة طرق يمكنك من خلالها الحصول على دعم إضافي في Lifecycle services لتطبيقات Finance and Operations. 
+## <a name="additional-support"></a>دعم إضافي
+
+هناك عدة طرق يمكنك من خلالها الحصول على دعم إضافي في Lifecycle services لتطبيقات Finance and Operations.
 
 ### <a name="dynamics-365-community"></a>مجتمع Dynamics 365
-مجتمع Dynamics 365 يمكنك فيه التفاعل مع الخبراء والنظراء الذين يستخدمون تطبيقات Dynamics 365 ويعملون بها. يمكنك هنا قراءة المنتديات والمدوّنات والوصول إلى الندوات عبر الإنترنت ومقاطع الفيديو والعثور على أحداث مفيدة. لبدء استخدام مجتمع Dynamics 365، انتقل إلى [‏‫مرحباً بك في مجتمع Dynamics 365](https://community.dynamics.com/?azure-portal=true) وسجّل الدخول باستخدام حسابك في Microsoft أو حساب العمل أو المؤسسة التعليمية لديك. يمكنك استكشاف المحتوى من خلال تسجيل الدخول أو دونه. إذا كنت تريد نشر سؤال أو تعليق أو تلقي إعلامات بالبريد الإلكتروني، فسيتعيّن عليك تسجيل الدخول. 
 
-### <a name="issue-search"></a>البحث عن المشاكل 
-في Lifecycle Services، يمكنك استخدام أداة البحث عن المشاكل للبحث بسرعة عن مقالات قاعدة معارف Microsoft ‏(KB) والإصلاحات العاجلة والحلول البديلة والمشكلات التي تم الإبلاغ عنها. ضمن أداة البحث عن المشاكل، يمكنك أيضاً مراجعة المشاكل الحالية التي يجري الآن إصلاحها في منطقة عمل معيّنة من تطبيقات Dynamics 365 Finance and Operations والمشاكل التي تم إصلاحها. 
+مجتمع Dynamics 365 يمكنك فيه التفاعل مع الخبراء والنظراء الذين يستخدمون تطبيقات Dynamics 365 ويعملون بها. يمكنك هنا قراءة المنتديات والمدوّنات والوصول إلى الندوات عبر الإنترنت ومقاطع الفيديو والعثور على أحداث مفيدة. لبدء استخدام مجتمع Dynamics 365، انتقل إلى [‏‫مرحباً بك في مجتمع Dynamics 365](https://community.dynamics.com/?azure-portal=true) وسجّل الدخول باستخدام حسابك في Microsoft أو حساب العمل أو المؤسسة التعليمية لديك. يمكنك استكشاف المحتوى من خلال تسجيل الدخول أو دونه. إذا كنت تريد نشر سؤال أو تعليق أو تلقي إعلامات بالبريد الإلكتروني، فسيتعيّن عليك تسجيل الدخول.
+
+### <a name="issue-search"></a>البحث عن المشاكل
+
+في Lifecycle Services، يمكنك استخدام أداة البحث عن المشاكل للبحث بسرعة عن مقالات قاعدة معارف Microsoft ‏(KB) والإصلاحات العاجلة والحلول البديلة والمشكلات التي تم الإبلاغ عنها. ضمن أداة البحث عن المشاكل، يمكنك أيضاً مراجعة المشاكل الحالية التي يجري الآن إصلاحها في منطقة عمل معيّنة من تطبيقات Dynamics 365 Finance and Operations والمشاكل التي تم إصلاحها.
 
 [![مثال على المشاكل الحالية في أداة البحث عن المشاكل.](../media/issue-search-ss.png)](../media/issue-search-ss.png#lightbox)
 
-للوصول إلى أداة البحث عن المشاكل واستخدامها، افتح مشروعك في Lifecycle Services، ثم حدد لوحة **بحث عن المشاكل**. يمكنك هنا البحث عن مشكلة. بمجرد كتابة استعلام، ستتمكن من البحث في أي محتوى ذي صلة. لعرض معلومات حول حالة محتوى البحث عن المشاكل في Lifecycle Services، انتقل إلى [بحث عن المشاكل في Lifecycle Services ‏(LCS)](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/issue-search-lcs/?azure-portal=true).
+للوصول إلى أداة البحث عن المشاكل واستخدامها، افتح مشروعك في Lifecycle Services، ثم حدد لوحة **بحث عن المشاكل**. يمكنك هنا البحث عن مشكلة. بمجرد كتابة استعلام، ستتمكن من البحث في أي محتوى ذي صلة. لعرض معلومات حول حالة محتوى البحث عن المشاكل في Lifecycle Services، انتقل إلى [بحث عن المشاكل في Lifecycle Services ‏(LCS)](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/issue-search-lcs/?azure-portal=true).
 
 ### <a name="more-information"></a>مزيد من المعلومات
-لقراءة المزيد حول كيفية إدارة تجربة الدعم، انتقل إلى [إدارة تجارب دعم تطبيقات Finance and Operations](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/cloud-powered-support-lcs?azure-portal=true).
+
+لقراءة المزيد حول كيفية إدارة تجربة الدعم، انتقل إلى [إدارة تجارب دعم تطبيقات Finance and Operations](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/cloud-powered-support-lcs/?azure-portal=true).

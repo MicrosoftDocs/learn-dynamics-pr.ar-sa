@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 186f256f027633fbccdcfef5ae02b6062e59d24f
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: e60c00fc39b5f556739fc5aac5234177eb2cde02de5a2a095ca24598c619ff8f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071899"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142009"
 ---
 
 تأتي العديد من الأكواد X + + معاً لتنفيذ المهام. 

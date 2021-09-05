@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 962a0872e0cc3296b0c96d6a3919b6be005d5d7d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ce83b7d6850caee081e40739db8393fcb0c00fa7716ee864b2d47d1ca41e7289
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668105"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092207"
 ---
 تتيح أبعاد المنتج للمستخدم إمكانية تحديد قيم اللون والحجم والتكوين الخاصة بالمنتج. يتم تحديد متطلبات أبعاد المنتج لأصل المنتج، بينما يتم تحديد متطلبات أبعاد التخزين والتعقب للمنتجات التي تم إصدارها.
 

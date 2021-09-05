@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 249e72e9e3021d3db87f4c5ad4025f1ea7aa6d27
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 44b902f280b6d4112f38539708571f0ccfea819d2c45826e2522789ae9734c49
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677677"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068712"
 ---
 لقد قمت الآن بالتعرف على كيفية إنشاء حساب بنكي وتكوينه، بالإضافة إلى إعداد التخطيط الخاص به، مثل الشيكات والسندات الإذنية والكمبيالة.
 

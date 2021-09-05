@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 7a82bf58b4ce28beb0bb5c9f296eacda54261170
-  ms.sourcegitcommit: 3324107dda65bf4fa3fa471a0c110a135dbfadd2
+  ms.openlocfilehash: 2d5e13d16211b82d365ae3af6cd4b4777b45deb4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/25/2021
-  ms.locfileid: "6097097"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329329"
 title: بدء استخدام Lifecycle Services لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nلتثبيت تطبيقات Finance and Operations وصيانتها في سحابة Microsoft Azure أو محلياً، يجب عليك استخدام Microsoft Dynamics Lifecycle Services (LCS) لإدارة العملية. لنبدأ من خلال النظر في الوظائف العامة والأدوات المتاحة داخل LCS.   \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات Lifecycle services (LCS) لتطبيقات Finance and Operations\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشاكل في LCS وتحليل النتائج\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1913f5876f725a4c61ab5a2b5511c130db6173ad
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9c380892195a4e871077f394da78ccb0d706089fbb6f770c9701a2b864afb7de
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135716"
 ---
 تم دمج التحكم في الإنتاج مع الميزات الموجودة في الوحدات الأخرى. يتيح لك هذا الاتصال البيني تغيير أوامر الإنتاج ويضمن تحديثها تلقائياً في جميع العمليات والحسابات الأخرى ذات الصلة في النظام. تركز هذه الوحدة على إعدادات دفتر الأستاذ العام.
 

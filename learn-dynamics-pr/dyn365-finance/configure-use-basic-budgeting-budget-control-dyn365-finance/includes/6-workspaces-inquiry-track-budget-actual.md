@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 316b06cf3b7fc56d56f8a5ed10da3d08f0639df2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ee8b9da717718e367750ee1829a30ea8a3e3473505fc47183ab19b091ba2c83c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677397"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120087"
 ---
 يمكن لمدير الموازنة مراجعة الحالة الحالية للموازنة في مساحة عمل **موازنات دفتر الأستاذ والتنبؤات** .
 

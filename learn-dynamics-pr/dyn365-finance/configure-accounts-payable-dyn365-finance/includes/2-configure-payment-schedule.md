@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d569925b8d0e7314dabbde8708cbcca2d5dd67c7
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fb2518265e27d086afcc74116dde5888d3b1277b6a6e40d06b0b277ea4df8c7c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677221"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058833"
 ---
 استخدم جداول الدفع لدفع الفواتير على أقساط. لإعداد جدول الدفع، تحتاج إلى تحديد العناصر التالية:
 

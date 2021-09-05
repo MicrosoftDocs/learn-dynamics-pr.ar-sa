@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c06b098b18c45bd2c24221df11cddbd9352d8457
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c64951799a5cf5f55302484eaeb3c57dbbbe7a28fcc5d5890d1fc7583bae5503
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677632"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078669"
 ---
 في هذا التمرين، سوف تقوم بإعداد مجموعات ترحيل دفتر الأستاذ لضريبة المبيعات.
 

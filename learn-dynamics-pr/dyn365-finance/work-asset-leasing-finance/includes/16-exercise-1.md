@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5683ba61ab718711fc82c1787d66b78b8735e02f
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a06c86ed92579880fb2b064888eae6bca7a27018418fb7d2594c661bc299f63f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677142"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047553"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 يجب القيام بهذا التمرين في إصدار التطبيق Dynamics 365 Finance 10.0.16 أو اعلي. الشركة المستخدمة لهذا التدريب هي بيانات العرض التوضيحي Contoso، USMF. يجب تمكين ميزة تأجير الأصول أيضاً في مساحة عمل **إدارة الميزات**.

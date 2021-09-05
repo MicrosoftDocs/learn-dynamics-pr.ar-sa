@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 270a87230ceee394d04882135b26854b08695fa9
-  ms.sourcegitcommit: 3324107dda65bf4fa3fa471a0c110a135dbfadd2
+  ms.openlocfilehash: 1fcf082ace71042c08d539f85210da3cfe82ff33
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/25/2021
-  ms.locfileid: "6097061"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352743"
 title: اختبر معلوماتك
 durationInMinutes: 16
 quiz:

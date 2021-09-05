@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1591bef2a197c7e1546ef764edd1a540cbeac56f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 41ccbcced55a8aa1de25fc4dab7626fc69f6c9ca13327ebe9bf786639daf97cc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667659"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108200"
 ---
 تعتبر سمات الأصول هي الخصائص المرتبطة بنوع الأصل أو الأصل. إذا قمت بإعداد أنواع السمات واستخدامها في الأصول، فيمكنك الحصول على نظرة عامة على قيم السمات التي تم إعدادها في الأصول. 
 

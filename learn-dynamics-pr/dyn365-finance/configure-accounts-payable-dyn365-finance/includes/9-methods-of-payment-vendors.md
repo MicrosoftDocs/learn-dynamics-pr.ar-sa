@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ccf6b675cf73e1c94fea5df519ca67d510fc51b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3a9daf3798053c4c0ec42b816bec0186080e7c3c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677182"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326484"
 ---
 تقدم العديد من الشركات عدة طرق لدفع الفواتير المستحقة، مثل ما يلي:
 
@@ -59,7 +59,7 @@ ms.locfileid: "6677182"
 
 إذا كان البنك يدعم ملف الإرجاع الإلكتروني، فاختر تنسيقاً في **تنسيق الإرجاع** لإرجاع رسالة.  وأخيراً، يمكنك إدخال **تنسيق الحوالة** لأحد البنوك.
 
-يمكنك تمكين خيار **تنسيق المرتجعات الإلكترونية العامة** للاستفادة من ميزات إعداد التقارير الإلكترونية في Finance، بدلاً من استخدام تنسيقات الإرجاع والحوالة والتصدير. يمكنك معرفة المزيد حول إعداد التقارير الإلكترونية في [تكوين التقارير الإلكترونية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-electronic-reporting-finance-operations/?azure-portal=true).
+يمكنك تمكين خيار **تنسيق المرتجعات الإلكترونية العامة** للاستفادة من ميزات إعداد التقارير الإلكترونية في Finance، بدلاً من استخدام تنسيقات الإرجاع والحوالة والتصدير. يمكنك معرفة المزيد حول إعداد التقارير الإلكترونية في [تكوين التقارير الإلكترونية في Dynamics 365 Finance](/learn/modules/configure-electronic-reporting-finance-operations/?azure-portal=true).
 
 
 

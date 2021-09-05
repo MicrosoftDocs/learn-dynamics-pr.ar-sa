@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ff892339e241e95c98cce0dcd7657594888308d2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1b23e02fca0074a6b934a8d67e1e3b65f9fa5cfe8510c124b9bda2bad246cb1b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667537"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128975"
 ---
 باستخدام "‏‫تحسين التخطيط"، يمكن لـ Supply Chain Management العثور على المورد و/أو الحد الأدنى لوقت الإنتاج لأمر مخطط من خلال البحث في جميع اتفاقيات الشراء التجارية. باستخدام ميزة **الاتفاقيات التجارية للشراء لتحسين التخطيط**، سيبحث تحسين التخطيط عن أفضل الأسعار وكذلك سيقوم أيضاً باعتبار الحد الأدنى لوقت الإنتاج المحسوب للوفاء بتاريخ الطلب. 
 

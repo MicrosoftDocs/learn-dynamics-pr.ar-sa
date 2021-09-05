@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e16dd869481dd786e324609ff660aabf6695a2e5
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: 08d5caf5f4155ea8e9859be5d8a74fdfb3f5bd62596b8d8ad36c25182734e8e4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272494"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063181"
 ---
 الكتابة المزدوجة هي بنية أساسية مضمنة توفر تفاعلاً شبه فوري بين التطبيقات المستندة إلى نموذج في تطبيقات Microsoft Dynamics 365و Finance and Operations. عندما تتدفق البيانات المتعلقة بالعملاء والمنتجات والأفراد والعمليات خارج حدود التطبيق، فإنك تقوم بتمكين جميع الأقسام في المؤسسة.
 

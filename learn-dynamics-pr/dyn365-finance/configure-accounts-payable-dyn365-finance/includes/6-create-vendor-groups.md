@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6c18943a61a7de1c787edbbc4129acd60a69f2e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: dd5effd9d6cf8af1e976110cb8c3242590f85ee5e6e4c80a454c04474359ce8a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087495"
 ---
 يمكنك إعداد المعلومات التي تكون دائماً هي المعلومات الافتراضية عند إدخال مورد جديد من خلال تجميع الموردين استناداً إلى الخصائص المتشابهة، مثل مشاركة نفس شروط الدفع أو مجموعة ضريبة المبيعات.
 

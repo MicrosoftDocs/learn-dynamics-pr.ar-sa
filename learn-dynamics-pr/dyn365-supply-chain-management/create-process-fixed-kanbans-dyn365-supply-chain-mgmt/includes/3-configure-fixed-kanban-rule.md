@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f12ae3e2c2c152f77f6f22ffd1798ecfb21fd9fe
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e6e426372ca042880b0e661950d7e4c582d25f8ee4f3b723fa5b5d4ef04442e3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668226"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077814"
 ---
 ## <a name="fixed-quantity-kanban"></a>كانبان الكمية الثابتة
 

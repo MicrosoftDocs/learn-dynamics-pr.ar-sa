@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dff6d856f6e999588dd62334801c831f60936a64
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2d3e02f73093e36eddf0bb9f96938a51a4c12860160b6524bfd2d779c15af316
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668070"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139183"
 ---
 يمكنك استخدام مواقع العمل في إدارة الأصول بطرق عديدة. على سبيل المثال، يمكنك استخدام مواقع العمل للمساعدة في:
  

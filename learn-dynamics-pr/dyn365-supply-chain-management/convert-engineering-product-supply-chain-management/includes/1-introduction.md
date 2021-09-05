@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c8a94e71cee07a5b235c1c6c191c3cc423583972
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 62cc4acb3701628228df5427ad02ba54427778cf7558e0636b4552a13ef6ef2a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668261"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057881"
 ---
 باستخدام ميزة **تمكين إدارة التغيير على المنتجات الحالية** يمكنك تحويل منتج قياسي موجود إلى منتج هندسي في Microsoft Dynamics 365 Supply Chain Management. عندما تقوم بتمكين إدارة التغيير لمنتج موجود، يمكنك إنشاء إصدارات من هذا المنتج وتتبع التغييرات التي تم إجراؤها عليه طوال حياته. يتم توفير معالج لإرشادك خلال عملية التحويل.
 

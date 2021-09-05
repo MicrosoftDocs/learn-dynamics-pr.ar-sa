@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f8c77c46d427ceaffb652ecaab849777fc4de42
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 9e7de4ea0dda63ee3a95dfed17dfc7582c3192c18345ce9863829b1e89aa15b9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064289"
 ---
 يحتوي Visual Studio على العديد من أنواع البيانات الأولية، بما في ذلك التعداد الأساسي وأنواع EDT.
 

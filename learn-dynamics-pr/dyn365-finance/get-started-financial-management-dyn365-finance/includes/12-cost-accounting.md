@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f2bc954661e175976ca7f7ad4164adf8dc15fb46
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6f817bb0024662d8578fa95e513b3374fc1870e1a69743b820c849c62a049ac8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677248"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125028"
 ---
 
 تتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. ويمكنك تحليل بيانات التكلفة وتلخيصها وتقييمها لتمكين الإدارة لاتخاذ أفضل القرارات الممكنة للمهمة التالية، بما في ذلك القرارات الأخرى:

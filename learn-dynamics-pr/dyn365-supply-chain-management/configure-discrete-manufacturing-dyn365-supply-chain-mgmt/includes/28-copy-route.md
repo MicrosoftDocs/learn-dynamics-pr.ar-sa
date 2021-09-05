@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a054bb0137f4f03387f193a1390aeb773c6b6012
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fa1b8816d180f068547d6c9b72d6df7f7535bfd9282b0fdf442050a0ee94aa9e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667997"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081767"
 ---
 إذا كنت ترغب في استخدام الوظائف التي يمكن أداؤها فيما يتعلق بالمسار، فحدد الزر **الوظائف** في صفحة **رقم المسار**. تتضمن الخيارات **النسخ** وكذلك **تحديث المسار**.
 

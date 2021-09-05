@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5ebad44b48e6e35ecbc2238c832f6561eafc88bb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 67b06c326c29876bed7c981e21311d6986578b60461f243e5f1589e7ba7d87d9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667344"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062158"
 ---
 تُظهر الصفحة **محفوظات أحداث الأصول** محفوظات التسجيل التي تم إجراؤها أثناء فترة استخدام أحد الأصول. 
 

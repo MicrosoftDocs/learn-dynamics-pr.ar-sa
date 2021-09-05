@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1052ab6e6abbd20cf716ab747d0a5d2f850b1cd5
-ms.sourcegitcommit: 13594cb3c8f0b1478f14aac7e239bc20317f480c
+ms.openlocfilehash: b850919418f57946190c9f9831693bf89114924169c14a7b60075ac200c2bf4f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "6072503"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094093"
 ---
 يوفر إطار عمل الدُفعات بيئة معالجة دُفعات غير متزامنة قائمة على الخادم يمكنها معالجة المهام عبر مثيلات متعددة لـ Application Object Server‏ (AOS). إن AOS هي الواجهة بين تطبيق العميل، مثل المستعرض وقاعدة بيانات تطبيقات Finance and Operations.
 

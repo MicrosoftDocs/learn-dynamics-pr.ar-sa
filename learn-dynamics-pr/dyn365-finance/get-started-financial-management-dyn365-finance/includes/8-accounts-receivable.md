@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4d58962e4fe4b8aa3f3abd7f00babb6b846023e6
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fe95a87efd51f204a72a055f9b1831134767e4d384ae34dede116e32ccf65d54
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125034"
 ---
 
 استخدم الوحدة النمطية للحسابات المدينة في Finance لتعقب فواتير العملاء والمدفوعات الواردة.

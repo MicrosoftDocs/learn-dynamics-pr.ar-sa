@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3d90a4df51d881d37ebb09092c3b4525e4714a95
-  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.openlocfilehash: 44f758c6d99e468106d4c32d89a27c2cdf112fdc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "6072643"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7358770"
 title: تخطيط الكيانات القانونية وتنفيذها في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

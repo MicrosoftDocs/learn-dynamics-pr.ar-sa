@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c63ec4615ff01149998090368c6e86654903649
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0988c8496141f69fc038d9cebeb5c4cdaa69e6f49a043a519965f82940559c00
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667666"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062368"
 ---
 في إدارة الأصول، يجب إنشاء معلمات عامة تتعلق بالأصول وأوامر العمل وجدولة أوامر العمل وأنواع المستندات والتسلسلات الرقمية. تشرح هذه الوحدة كيفية إعدادها. 
 

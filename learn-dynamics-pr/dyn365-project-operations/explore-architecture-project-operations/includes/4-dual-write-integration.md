@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 03e485513a32c953ff59cc1747e668568413b2e3
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: c49874ba2ab6508c773d444e1cb187cf2a2745c82b8fe4f6ae5711902b1b0c4b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083804"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098866"
 ---
 تعد الكتابة المزدوجة هي بنيه أساسية جاهزة توفر تفاعلاً قريباً من الوقت الحقيقي بين تطبيقات Customer Engagement وتطبيقات Finance and Operations. عندما تتدفق البيانات حول العملاء والمنتجات والأفراد والعمليات خارج حدود التطبيق، يتم تمكين جميع الأقسام في المؤسسة.
 

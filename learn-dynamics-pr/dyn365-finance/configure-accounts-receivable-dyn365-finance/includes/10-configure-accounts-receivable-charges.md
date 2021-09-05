@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d386fc4d5f64d6969bf097f0d92829a695fb5586
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: afecf464b51cc6cf09c1c1e68344aaf5415cc00b53abfee5e77966dd4a7e7349
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087466"
 ---
 توضح هذه الوحدة كيفية تكوين رسوم الحسابات المدينة.
 

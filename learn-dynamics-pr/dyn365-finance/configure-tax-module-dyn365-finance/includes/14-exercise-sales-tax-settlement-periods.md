@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 326d4d1687bc8db70c6d6449aca5ab6c4e395aa2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 313251482757abbc766445f6305621025b96ba7c9e2e1da2ae0a842b9f12ebff
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677630"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078663"
 ---
 في هذا التدريب، سوف تقوم بإعداد فترات تسوية ضريبة المبيعات.
 

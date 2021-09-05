@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 919ca76b7b22d6c48a750dab0a8c74875d880028
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d950e5c6f975718f9c3a22f969242b6cdc5418b5489865188c07322b667cfcf5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667398"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108703"
 ---
 تتيح موازنات الصيانة للمؤسسات فرصة للتنبؤ بالتكاليف المتوقعة للصيانة الوقائية للأصول. في هذه الوحدة النمطية، ستتعلم عملية إنشاء موازنات الصيانة وتحديثها في إدارة الأصول في Dynamics 365 Supply Chain Management.
 

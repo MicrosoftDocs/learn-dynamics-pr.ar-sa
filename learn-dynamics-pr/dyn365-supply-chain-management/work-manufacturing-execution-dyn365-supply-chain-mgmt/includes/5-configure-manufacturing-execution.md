@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46164f5f8fe0d8da378439787ebd00d8c29d6542
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cb5fdd4c51a53620d9fd39efb6cb558c720d337a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667876"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7365509"
 ---
 قبل إعداد المعلمات ذات الصلة بالإنتاج، عليك إعداد معلمات تنفيذ التصنيع المطلوبة لاستخدام ميزات الإنتاج.
 
@@ -97,9 +97,9 @@ ms.locfileid: "6667876"
     - **طباعة بطاقة**– يجب تعيين هذا الخيار على **نعم** لطباعة بطاقة لوحة ترخيص عند استخدام العامل لجهاز بطاقة المهمة للإبلاغ عن الانتهاء.
     - **تحديد علامة التبويب** – يجب استخدام الإعدادات في هذا القسم لتحديد علامات التبويب التي يجب عرضها في واجهة تنفيذ صالة الإنتاج عندما يكون التكوين الحالي نشطاً. يمكنك تصميم العدد الذي تريده من علامات التبويب ثم إضافتها هنا وترتيبها كما يلزم. 
 
-للحصول على تفاصيل حول كيفية تصميم علامات التبويب والعمل باستخدام الإعدادات المتوفرة هنا، يُرجى مراجعة [‏‫تصميم واجهة تنفيذ صالة الإنتاج‬](https://docs.microsoft.com/dynamics365/supply-chain/production-control/production-floor-execution-tabs/?azure-portal=true).
+للحصول على تفاصيل حول كيفية تصميم علامات التبويب والعمل باستخدام الإعدادات المتوفرة هنا، يُرجى مراجعة [‏‫تصميم واجهة تنفيذ صالة الإنتاج‬](/dynamics365/supply-chain/production-control/production-floor-execution-tabs/?azure-portal=true).
 
 
-لمزيد من المعلومات عن واجهة تنفيذ صالة الإنتاج، يُرجى الاطّلاع على‬ [كيفية استخدام العاملين لواجهة تنفيذ صالة الإنتاج](https://docs.microsoft.com/dynamics365/supply-chain/production-control/production-floor-execution-use/?azure-portal=true).
+لمزيد من المعلومات عن واجهة تنفيذ صالة الإنتاج، يُرجى الاطّلاع على‬ [كيفية استخدام العاملين لواجهة تنفيذ صالة الإنتاج](/dynamics365/supply-chain/production-control/production-floor-execution-use/?azure-portal=true).
 
 

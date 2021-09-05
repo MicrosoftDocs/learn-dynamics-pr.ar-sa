@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 597cc51818870b135733ce5dee89a1776227da2c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 982f230dc387a4d7ba44b792f124bd07275726a2b642b5b9dc2fda12d9c9d386
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677743"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047559"
 ---
 يتيح لك تأجير الأصول نسخ تفاصيل الإيجار لإنشاء عقد إيجار جديد يحتوي على المعلومات نفسها. ويمكنك بعد ذلك تغيير حقول التأجير قبل إنشاء الجداول لعقد الإيجار المنسوخ.
 

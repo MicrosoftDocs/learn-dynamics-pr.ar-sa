@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fcf368c91921cd527fa0e3aef16cd7bd317321c1
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 48103267b678fce2ed1f52c18b9625ab23c3a02d6b1fb92d5c3f3c99bc2062b2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677769"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047717"
 ---
 تتيح تسويات دفتر الأستاذ إمكانية مطابقة حركات الحسابات المدينة والدائنة في دفتر الأستاذ العام ووضع علامة عليها على أنها تمت تسويتها. وبهذه الطريقة، يمكنك التأكد من تسوية الحركات ذات الصلة. كما يمكنك أيضاً التراجع عن التسويات إذا كانت قد أجريت عن طريق الخطأ.
 

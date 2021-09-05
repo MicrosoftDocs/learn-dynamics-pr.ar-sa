@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b7d909d83576058e614c982900f5961ff874b939
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: efddf8786bb9a58debaeadbd3120ed173c3d570f1493eaf0e3d9024ea744c36f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677617"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093938"
 ---
 مطابقة فاتورة الحسابات الدائنة هي عملية مطابقة لمعلومات إيصال استلام المنتجات وفاتورة المورّد وأمر الشراء.
 

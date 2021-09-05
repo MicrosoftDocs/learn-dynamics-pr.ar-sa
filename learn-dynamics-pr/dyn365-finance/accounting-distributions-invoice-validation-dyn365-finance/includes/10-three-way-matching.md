@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e46ce57184c64180e2be642585776744d39daccf
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: affb10ce4a757d4fbe603d9bcc9126e56cd089d69d086b6dd26536da318502e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677453"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068847"
 ---
 استخدم المطابقة الثلاثية للمساعدة على التأكد من أن الفرق بين معلومات السعر في أمر الشراء والفاتورة ضمن نطاق الاختلافات المقبولة، وللتأكد من أن الكمية الموجودة في الفاتورة تطابق الكمية الموجودة في إيصالات المنتجات المطابقة.
 

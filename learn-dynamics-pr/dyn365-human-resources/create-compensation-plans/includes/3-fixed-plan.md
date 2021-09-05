@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f8e865f3691af89684069fb7d79d76da0e66d1a
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 7a209880379a1a2a1cacf3f96f2a90990e7863f42af4bcd7263e18ee5c5f9125
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656574"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115561"
 ---
 يشير التعويض الثابت إلى إجمالي الراتب أو الأجور العادية للموظف. يمكنك حساب مبالغ التعويض الثابتة لموظفيك استناداً إلى عوامل مثل الأداء والمنطقة وزيادة الميزانية.
 يدعم Dynamics 365 Human Resources أنواع تعويض الخطوة والدرجة والنطاق.

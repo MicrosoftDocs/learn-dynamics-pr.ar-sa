@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d0a87dd3807824413af8dcd8f3cc2e07d1c0a43
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8173abf3abf4257d00bec835178da4a54b8bb0f99818e13028011297cc829cf1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667626"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052525"
 ---
 يقصد بالوحدة النمطية لتعاون المورد في Dynamics 365 Supply Chain Management الموردين الذين ليس لديهم تكامل لتبادل البيانات الإلكتروني (EDI) مع Supply Chain Management.
 

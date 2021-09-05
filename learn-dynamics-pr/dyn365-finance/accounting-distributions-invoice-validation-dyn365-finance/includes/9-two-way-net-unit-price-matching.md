@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1df0d6192e7761a5919e8edd2f299832997f2291
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 5aa0d251b4dc57eefa83b34d59352008bd7937f9145acd41455b407f06c3eac4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677615"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093926"
 ---
 استخدم المطابقة ثنائية الاتجاه للمساعدة في التأكد من أن التباين بين معلومات السعر في أمر الشراء والفاتورة ضمن التفاوتات المقبولة. يمكنك مقارنة معلومات السعر لصافي سعر الوحدة لكل عنصر في الفاتورة. ويسمى ذلك *مطابقة صافي سعر الوحدة*.
 

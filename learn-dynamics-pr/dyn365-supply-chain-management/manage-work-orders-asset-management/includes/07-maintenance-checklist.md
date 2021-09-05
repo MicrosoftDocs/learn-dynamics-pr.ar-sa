@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0351003f44bf08825c5e36d8dea9c328d536e7cd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5322c58234a221254e44e580fe02121d3eed5a55176694d20cef3a44d1d5644e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119346"
 ---
 قائمة فحص الصيانة إحدى ميزات أمر العمل التي توضح التفاصيل المتعلقة بما تم إنجازه في مهمة الصيانة. حيث تسمح للشخص الذي يقوم بإعداد أمر العمل بتوضيح ما يجب تنفيذه، إضافة إلى التعليمات ذات الصلة. وبعد ذلك، يستطيع أي شخص يقوم بإكمال أمر العمل أن يُدخل النتائج. 
 

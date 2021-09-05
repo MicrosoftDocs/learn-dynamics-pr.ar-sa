@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 81a23864bec77fb8834507dfd67ab67d827e3af3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9059f1513352cef41673baa82e00091b779ecaba52542bbfdf6c74e409545702
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667411"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129451"
 ---
 
 يمكنك تحديد أنك تريد تلقائياً إعادة استخدام تكوين موجود لمنتج. بعد ذلك، عند إكمال أحد المستخدمين لجلسة تكوين، يقوم النظام بالتحقق مما إذا كان التكوين الذي يتطابق مع تحديدات المستخدم موجود بالفعل أم لا. في حالة العثور على تكوين مطابق، يتم إعادة استخدام معرف التكوين وقائمة مكونات الصنف (BOM) المطابقة والمسار.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4ff86f3306b353a066d5fcfd4f607909e61255fa
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 498a55a68be4452455bf047844be12718a7bde0abc7c9690dc6cea7b9ce8179c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667983"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078026"
 ---
 ## <a name="scenario"></a>السيناريو
 تمتلك شركة USMF في الولايات المتحدة عميل جديد في أوروبا. وقد حدد منسق النقل في Entertainment Contoso أن شركة جديدة ستكلف بنقل المنتجات إلى هذا العميل. سيقوم منسق النقل بإعداد ناقل محيطي وخدمة نقل جديدين.

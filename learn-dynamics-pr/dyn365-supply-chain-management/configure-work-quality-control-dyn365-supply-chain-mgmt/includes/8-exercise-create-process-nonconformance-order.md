@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74ddb7aa8553f5c24cdd053de7402f0ec51feff3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0875486468674448070b68d989ecb223410bb1d4c69d6c1d93fff26f3275ae54
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667943"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052072"
 ---
 بسبب المشكلات الأخيرة مع العملاء الذين يعيدون أجهزة الكمبيوتر المعيبة، إنك بحاجة إلى إعداد بعض العمليات للتعامل مع الأصناف المعيبة في النظام.
 

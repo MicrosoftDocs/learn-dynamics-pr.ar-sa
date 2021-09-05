@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 658163f42349e186bade8c52c7168f6a739fb7b3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6baeb31ba0acf49ebf92be7096d53b00a2eddb1f14f574875a80f45220e67ddc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667785"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057846"
 ---
 يتم إنشاء بطاقات كانبان للحدث فقط من الطلب ذي الصلة، لذلك تنتمي بطاقات كانبان للحدث إلى فئة الإعداد حسب الأمر. يتم تشغيلها وإنشاء الإصدارات ذات الصلة عند إنشاء سطور المبيعات أو تقدير أوامر الإنتاج أو إنشاء بطاقات كانبان التي يتم توفيرها من خلال قواعد كانبان للأحداث أو تشغيل معالجة حدث تثبيت السعر عند وصول المخزون إلى الحد الأدنى من الكمية.
 

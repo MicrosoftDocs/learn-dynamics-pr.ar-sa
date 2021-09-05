@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2b3dc107625bf05625c22464758954baf51742bb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 80b6d270d4b9e93f1145e63d6c903e1e9383ef9220bfb20550d4c75cd6394a67
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667875"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067144"
 ---
 لتسجيل الكميات المكتملة لوظيفة إنتاج، يستخدم الموظفون صفحة **الإبلاغ عن التقدم** على كمبيوتر بطاقة الوظيفة. 
 

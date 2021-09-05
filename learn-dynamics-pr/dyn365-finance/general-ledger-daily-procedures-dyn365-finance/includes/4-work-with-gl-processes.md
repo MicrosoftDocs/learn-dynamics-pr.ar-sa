@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9971c4f6634dff9b3faa4244d38063a5833a8624
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 05accc8ef366672cda6889e9bcc2463fdfeb0f16
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677770"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7356006"
 ---
 استخدم دفتر الأستاذ العام لتحديد السجلات المالية للمؤسسة وإدارتها. دفتر الأستاذ العام هو سجل إدخالات الدائن والمدين. تُصنّف هذه الإدخالات باستخدام الحسابات المدرجة في مخطط الحسابات.
 
@@ -28,19 +28,19 @@ ms.locfileid: "6677770"
 
 بغض النظر عن تسجيل دفتر اليومية، ضع في اعتبارك العمليات الأخرى التي يمكنك تنفيذها في دفتر الأستاذ العام:
 
-- معالجة حركات الإقفال. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- توزيع الحركات. ‏‫لمزيد من المعلومات، راجع [تكوين توزيعات واستحقاقات دفتر الأستاذ في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
-- الاحتفاظ بحسابات دفتر الأستاذ. ‏‫لمزيد من المعلومات، راجع [تكوين مخطط الحسابات في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
-- إقفال الحركات. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- تخصيص التكاليف والإيرادات. ‏‫لمزيد من المعلومات، راجع [تكوين توزيعات واستحقاقات دفتر الأستاذ في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
-- توقع التدفق النقدي ومتطلبات العملة. ‏‫لمزيد من المعلومات، راجع [تكوين مخطط الحسابات في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
-- إزالة الحركات. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- إعادة تقييم مبالغ العملة. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- تحويل عملة المحاسبة. ‏‫لمزيد من المعلومات، راجع [تكوين العملات في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-currencies-dyn365-finance/?azure-portal=true).
-- إعداد تقارير ما قبل الإقفال. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- معالجة حركات الإقفال. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- توزيع الحركات. ‏‫لمزيد من المعلومات، راجع [تكوين توزيعات واستحقاقات دفتر الأستاذ في Dynamics 365 Finance](/learn/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
+- الاحتفاظ بحسابات دفتر الأستاذ. ‏‫لمزيد من المعلومات، راجع [تكوين مخطط الحسابات في Dynamics 365 Finance](/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
+- إقفال الحركات. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- تخصيص التكاليف والإيرادات. ‏‫لمزيد من المعلومات، راجع [تكوين توزيعات واستحقاقات دفتر الأستاذ في Dynamics 365 Finance](/learn/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
+- توقع التدفق النقدي ومتطلبات العملة. ‏‫لمزيد من المعلومات، راجع [تكوين مخطط الحسابات في Dynamics 365 Finance](/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
+- إزالة الحركات. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- إعادة تقييم مبالغ العملة. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- تحويل عملة المحاسبة. ‏‫لمزيد من المعلومات، راجع [تكوين العملات في Dynamics 365 Finance](/learn/modules/configure-currencies-dyn365-finance/?azure-portal=true).
+- إعداد تقارير ما قبل الإقفال. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
 - إنشاء مستندات إلكترونية.  
-- إغلاق الدفاتر. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- إغلاق الشهر والفترة والسنة المالية. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- إغلاق الدفاتر. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- إغلاق الشهر والفترة والسنة المالية. ‏‫لمزيد من المعلومات، راجع [تكوين وإجراء العمليات الدورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
 
 ## <a name="dual-currency"></a>العملة المزدوجة 
 

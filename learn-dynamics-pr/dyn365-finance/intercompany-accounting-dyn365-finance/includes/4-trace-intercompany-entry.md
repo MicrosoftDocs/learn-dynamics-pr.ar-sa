@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2da25ca418155bda6a4862e7cc6acf1a9dc8a5fa
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3fae2bd8d416fb7e2e8228a8f2a1a562d94dfe0d3aafb73946615212279fb77c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677636"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078516"
 ---
 بعد إجراء إدخال يؤثر على شركتين، يمكنك التحقق من إجراء الإدخال للحسابات الصحيحة. 
  

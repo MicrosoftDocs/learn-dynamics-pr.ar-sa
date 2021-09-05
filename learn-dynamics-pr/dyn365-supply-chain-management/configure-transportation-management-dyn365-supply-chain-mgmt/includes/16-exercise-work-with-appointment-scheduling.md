@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d49cb4cbb6cfbc4f3a52cb41b1cc469790446ddc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 446225c93b9122dce33fc7ccfe70df16131cfa2b880ec2cbd6a7223fb79cc4c5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667154"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139721"
 ---
 ## <a name="scenario"></a>السيناريو
 في هذا المعمل، ستقوم بإنشاء قاعدة موعد جديدة وأمر مبيعات ومهمة تحميل جديدة. ستقوم أيضاً بالتدريب على تسجيل دخول سائق وإنشاء موعد فوري.

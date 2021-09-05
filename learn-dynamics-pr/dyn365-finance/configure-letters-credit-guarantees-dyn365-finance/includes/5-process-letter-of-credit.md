@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c6aa2e3e9e2ff5c35452717933e2dd500eaa420
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a79e7cbbe7146aa040b8cf99d0fe09b03ffb231397e1e2b24a90a11e478f97a4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677571"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093552"
 ---
 توضح هذه الوحدة كيفية معالجة خطاب اعتماد بعد تطبيق التكوين.
 

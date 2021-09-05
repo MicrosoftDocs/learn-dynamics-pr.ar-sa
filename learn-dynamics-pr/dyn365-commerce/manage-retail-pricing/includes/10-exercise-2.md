@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1a1650543cdbecd8981b2deb18d59ce1ebc23165
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 1f169eeb550a90a6e54728b7ca558cba0598bea908985afbf7f9a57b00116647
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7110712"
 ---
 إذا كنت ترغب في تحديث التسعير الخاص بفئة **القفازات والأوشحة** في عمليات الفرز من خلال زيادة سعر المبيعات الحالي بنسبة 5% لكافة المنتجات التي تنتمي إلى هذه الفئة. كما تريد أيضاً إجراء تقريب على التسعير الجديد بحيث يتم تقريب كافة المنتجات إلى **95**. 
 

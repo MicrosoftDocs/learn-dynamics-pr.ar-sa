@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 452e37efc35437c2012970a70e239e104a18d3c5
-ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+ms.openlocfilehash: 0a0890d74b95e25ad28244e0c84ec44b04e6898f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "6072881"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7348865"
 ---
 في هذا التمرين، ستقوم بإنشاء مشروع جديد لـ **Adventure Works** يتضمن المهام والفترات والتعيينات والتبعيات. وستقوم بعد ذلك بإنشاء عرض أسعار للمبيعات وتعيين المشروع إلى عرض أسعار المبيعات، ثم تربح عرض الأسعار. 
 
-يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview//?azure-portal=true).
+يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
 
 ## <a name="task-1-create-a-project"></a>المهمة 1: إنشاء مشروع
 في هذه المهمة، ستقوم بتسجيل الدخول باسم "حساب المسؤول" وتنشئ مشروعاً جديداً للخدمات المهنية الخاصة بـ **Adventure Works**.

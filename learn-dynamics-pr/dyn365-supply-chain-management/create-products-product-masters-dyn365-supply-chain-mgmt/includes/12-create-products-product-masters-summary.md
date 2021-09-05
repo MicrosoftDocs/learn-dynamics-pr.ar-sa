@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d02722933ee2a421014b1cfe2a28ab0789836bd5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0aff81ee686d35514f3ab2702d107610fbdd4fc7808e15cd303461b85bcc4d11
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667431"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057816"
 ---
 تدعم بنية المنتج في Supply Chain Management خيار عملية التحكم في البيانات الرئيسية الأكثر مركزية وإمكانية وجود نظرة عامة شاملة على جميع المنتجات في المؤسسة. بالإضافة إلى ذلك، فإنه يشكل بوضوح بنيات البيانات مع تعريفات المنتج وخصائصه.
 

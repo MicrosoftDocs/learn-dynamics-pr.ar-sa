@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a7b4018cc5206f25145fe4f1f960201ea37f84e7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3dfaf129ecae38e048553b6ff0667d8673c05e63fea3a53502c02071d71c88f8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667124"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134733"
 ---
 ستراجع هذه الوحدة النمطية عملية إنشاء أوامر الشراء وإدارتها في Dynamics 365 Supply Chain Management. يمكن للمؤسسات استخدام أوامر الشراء لتسجيل معلومات حول البضائع والخدمات التي يشترونها من موردين مختلفين. 
  

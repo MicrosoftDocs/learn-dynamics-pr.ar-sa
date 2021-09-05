@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c840eac95b4f5dc3a6e457f0a5eeefbcce58a838
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 646d6eaefb9472623aa5da11d73f946d8b77a3c0
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071666"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7332105"
 ---
 توجد العديد من خيارات التصفية التي يمكنك استخدامها في تطبيقات Finance and Operations.  
   
@@ -24,5 +24,5 @@ ms.locfileid: "6071666"
 
 يمكنك استخدام حرف البدل النجمي للإشارة إلى أن أي قيمة قبل هذه النقطة أو بعدها صالحة، وهو أمر رائع للبحث عن السجلات التي تبدأ جميعها و/أو تحتوي على نفس الأحرف في مكان ما داخل الحقل.  
 
-لقراءة المزيد حول خيارات التصفية وتعبيرات التصفية في [خيارات التصفية](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/user-interface/filtering/?azure-portal=true).
+لقراءة المزيد حول خيارات التصفية وتعبيرات التصفية في [خيارات التصفية](/dynamics365/fin-ops-core/dev-itpro/user-interface/filtering/?azure-portal=true).
  

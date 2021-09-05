@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee1d64ab6e814686ceb782089e29e5a071cc9365
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cd08345fa6e434bfd103ae51f9b352558071799594f55f1b262632800df26e1c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667113"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052566"
 ---
 تستخدم دفاتر يومية المخزون في إدارة سلاسل التوريد لترحيل حركات المخزون المادية من مختلف الأنواع، مثل ترحيل الإصدارات والإيصالات، وحركات المخزون، وإنشاء قوائم مكونات الصنف (BOM)، وتسوية المخزون المادي. يتم استخدام كافة دفاتر يومية المخزون هذه بطريقة مماثلة، ولكن يتم تقسيمها إلى أنواع مختلفة.
 

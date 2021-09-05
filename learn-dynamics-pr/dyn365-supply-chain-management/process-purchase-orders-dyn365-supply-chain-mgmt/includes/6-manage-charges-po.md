@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c1189118aacc64e7d2e10bb79cbb1fdaad1efa81
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e16f5b8aae7d66f491d95f66c1fe12f5e93276e0
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667122"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7355809"
 ---
 المصاريف هي تكاليف ورسوم يمكنك إضافتها إلى تكلفة الأصناف والمشتريات وفقاً للإعداد. فيما يلي أمثلة على المصاريف:
 
@@ -63,7 +63,7 @@ ms.locfileid: "6667122"
     -   **حساب دفتر الأستاذ** - تتم فوترة الرسم داخلياً لحساب دفتر الأستاذ.
     -   **العميل/المورد** - تتم فوترة الرسم للعميل/المورد.
 
--   **ترحيل الخصم/ترحيل الائتمان** - تحديد نوع الترحيل لرمز الرسم. لمزيد من المعلومات حول أنواع الترحيل، ارجع إلى [إنشاء التقاويم المالية والسنوات والفترات في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/create-fiscal-calendars-years-periods-dyn365-finance/?azure-portal=true) و[تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-ledgers-journals-dyn365-finance/?azure-portal=true).
+-   **ترحيل الخصم/ترحيل الائتمان** - تحديد نوع الترحيل لرمز الرسم. لمزيد من المعلومات حول أنواع الترحيل، ارجع إلى [إنشاء التقاويم المالية والسنوات والفترات في Dynamics 365 Finance](/learn/modules/create-fiscal-calendars-years-periods-dyn365-finance/?azure-portal=true) و[تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance](/learn/modules/configure-ledgers-journals-dyn365-finance/?azure-portal=true).
 
 -   **الحساب** - تحتاج إلى تحديد حساب دفتر الأستاذ الذي يجب خصمه/قيده عند تعيين نوع الخصم أو الائتمان إلى **حساب دفتر الأستاذ**.
 

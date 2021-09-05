@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6e3bfa7a14f43459c03ec58622913525084e6b96
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0cc960f4617881ed75f5f52c7549ce6798a711b987e4cd1b656751c61305f205
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108351"
 ---
 تعد طلبات الصيانة جزءاً مهماً من إدارة الأصول نظراً إلى أنها عبارة عن نقاط البدء المستخدمة لإجراء طلب لأمر العمل. 
 

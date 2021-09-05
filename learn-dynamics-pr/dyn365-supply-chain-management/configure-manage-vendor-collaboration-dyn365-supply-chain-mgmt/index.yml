@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 80669ef32c223e38a5953914088bb5d1d1d86528
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 0455d6d09ae2a928ad3658bbe997f0c285fe3c27
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668394"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7353446"
 title: تكوين تعاون المورد وإدارته في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nالسرعة والدقة والحل الرقمي عند التواصل مع الموردين هي حاجة أساسية لنجاح الأعمال. يوفر Dynamics 365 Supply Chain Management عمليات تعاون سلسة مع الموردين من خلال مدخل تعاون المورد. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين عمليات تعاون الموردين.\n- التعامل مع مساحة عمل تعاون المورد.\n- استخدام تعاون المورد كجزء من عملية التدبير إلى الدفع.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e25da7e724c96fde78f2e673def72f261eca425b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6fdd1031ca7876fa297577cc16f74d0bd748815e4992f7de4d75de80f1a486e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677744"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047591"
 ---
 بعد الانتهاء من إدخال المعلومات الخاصة بالإيجار، يجب إنشاء جدول الإيجار. عند إنشاء الجدول، ستقوم الجداول بتنفيذ ثلاثة إجراءات: 
 

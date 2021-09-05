@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0b6756d706072325d72c0a34abe9d4606084fc88
-ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+ms.openlocfilehash: 742fcd553659cb56c7b1989e87b890fe7bec109d6d20eae7b24b6fc53a474892
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "6072698"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092806"
 ---
 في هذا التدريب، ستقوم بإنشاء خطة لميزة التأمين الطبي للموظفين.
 

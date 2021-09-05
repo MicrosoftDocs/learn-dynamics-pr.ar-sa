@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1f426a5ca0da31b06bf67702a3a7e9fbdd30e48f
-ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+ms.openlocfilehash: 319596d30e5b376e45d6bd830a6b49686547d9825ff1737169da9d03580b984b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6072224"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116041"
 ---
 تطورت تطبيقات Finance and Operations إلى تطبيقات مُصممة لهذا الغرض لمساعدتك في إدارة وظائف أعمال محددة، مثل Microsoft Dynamics 365 Finance وDynamics 365 Supply Chain ManagementوDynamics 365 Commerce. 
 

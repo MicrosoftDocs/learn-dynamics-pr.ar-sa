@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 419327129c0bfcde7510eb68f8940870f3b69a0c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6e41823e8b99c849e03a211d743e01e73185585e101bc7d362873d706009f0b9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677684"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074743"
 ---
 البحث عن الكلمة الأساسية قابل للتطبيق على الكيانات الثلاثة للعميل والمنتج والعميل المتوقع، ويتطلب إنشاء جدول فهرس، من خلال صفحة **معايير البحث**.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2f5439ce54db918ea4b72637ecc6c7a0aa8397d3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: afe9a6f7d663f9f77b772b686cc0e12eb42b8b5951fbb537082e50193d471085
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677808"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082426"
 ---
 يمكنك تحديد عدة إجراءات لخطابات التحصيل وحساب الفائدة، بما في ذلك:
 

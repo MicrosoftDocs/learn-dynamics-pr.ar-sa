@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 28341d9e418260d66554a331175a08b17e0b5350
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: 61c54f4dcbc7a2fbf39b0af27f55934e8c0c82d206c9f774f552e41e834a45e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6072066"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115852"
 ---
 في هذه الوحدة النمطية، سوف تتعلم كيفية تطبيق ميزات التكامل الشائعة في تطبيقات Finance and Operations، مثل Microsoft Excel، والتكامل مع PowerBI.com لتتمكن من إضافة الإطارات المتجانبة والمرئيات الجذابة في مساحات العمل.
 

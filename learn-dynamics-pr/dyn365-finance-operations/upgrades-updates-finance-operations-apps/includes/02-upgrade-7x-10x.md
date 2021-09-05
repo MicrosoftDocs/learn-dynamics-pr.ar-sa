@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1e535d8b3b60b590709e7073af4a3dd3efac175f
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: bdb1168ce7c1d7e9e1fa14a3d4a41466603ad9ab51ab276da69d16615aca2245
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072453"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063816"
 ---
 إذا كان لديك إصدار سابق من Finance and Operations، مثل 7.0 (RTW) أو 7.1 (1611) أو 7.2 (يوليو‬ 2017) أو 7.3، فيمكنك تطبيق ترقية الخدمة الذاتية دون تبعيات على دعم Microsoft. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a39c81edda30aa9352607b5d5af68a5844d486df
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a21b292d9f409681343ea50829620a0ff3852f19d1319713b997a2461f9d1d9e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668304"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135205"
 ---
 ينشئ التخطيط الرئيسي بطاقات كانبان مجدولة تلقائياً لأوامر كانبان المخططة. يسمح هذا النهج للنظام بالتأكد من تلبية المتطلبات ضمن أفق الشركة.
 

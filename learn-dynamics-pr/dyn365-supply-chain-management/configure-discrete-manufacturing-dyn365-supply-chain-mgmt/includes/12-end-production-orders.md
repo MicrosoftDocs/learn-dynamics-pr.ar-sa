@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0bfa5e98c8460e1f8c4025b4ae7faffb87ede965
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 33a3f7120a36578ae7ae87654c90368d408b503c65bf24d1ad0503bd2915e930
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668014"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135756"
 ---
 قبل إنهاء الإنتاج، تقوم Supply Chain Management بحساب التكاليف الفعلية للكمية التي تم إنتاجها. يتم عكس جميع التكاليف المقدرة للمواد والعمالة والنفقات العامة واستبدالها بالتكاليف الفعلية. وتستند هذه التكاليف إلى استهلاك المواد والوقت المحقق. 
 

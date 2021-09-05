@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1f7a7fc16cf8315a5f1ab3d7377afd52adaa782c
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 23aaf106f2cb818c7cfde212fb762a4dd26d543d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677206"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364913"
 title: تكوين وإجراء عمليات دورية في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]

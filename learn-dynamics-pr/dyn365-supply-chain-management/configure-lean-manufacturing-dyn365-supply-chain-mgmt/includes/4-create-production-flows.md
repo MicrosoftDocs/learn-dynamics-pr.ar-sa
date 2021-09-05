@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d775523906ef81bf59bed81a59200e2512c232de
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ed7d12b1dd77c40c193650d233b7419890cf27f8670ab02f9db349798db9dab9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667842"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092110"
 ---
 ## <a name="production-flow-versions"></a>إصدارات تدفق الإنتاج
  

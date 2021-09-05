@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7cf5a74eb765910f02571dbda9d1ee5b65aa6e4c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 34e669855c3c2e58999ab361011de8fd14c724afa7dc0ddbc2a33518652ec439
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667486"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067070"
 ---
 يعد تكامل الإنتاج لتنفيذ التصنيع مع وحدة التحكم في الإنتاج أمراً ضرورياً لتلقي الاستخدام الأمثل لوحدة تنفيذ التصنيع في Supply Chain Management. يجب على الشركات إعداد إعدادات مختلفة لمعلمات الإنتاج في تنفيذ التصنيع لتعكس متطلبات الإنتاج.
 فيما يلي بعض المشكلات الرئيسية التي يجب مراعاتها:

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2d50ebba91e9e5d07c68331854c294a07eab6c9c
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 2010d6f57ce1cc1d864cf6f337f11783d7a0bf26
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677529"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364973"
 title: تكوين الحسابات المدينة في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيتعين عليك تكوين الوحدة النمطية للحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر التوريد. توضح هذه الوحدة كيفية استلام المدفوعات باستخدام العديد من أنواع الدفع المختلفة مثل النقدية والشيكات وبطاقات الائتمان والمدفوعات الإلكترونية من العملاء. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الحسابات المدينة.\n- إنشاء عميل والمحافظة عليه. \n- تكوين مدفوعات العميل.\n- إعداد ملفات تعريف ترحيل العملاء.\n- تكوين رسوم الحسابات المدينة.\n"

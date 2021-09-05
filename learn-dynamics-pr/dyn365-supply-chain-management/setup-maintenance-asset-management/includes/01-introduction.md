@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b6c6da8b5030d0bcba1cd3aa335fbb326bc78468
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 56aaedb7172229cf5d82b373b7b941fb4a889f0ca0d21a9d3469be5a9694ee64
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667378"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051515"
 ---
 يتم إنشاء طلبات الصيانة في إدارة الأصول في Dynamics 365 Supply Chain Management لطلب أمر عمل لخدمة أو إصلاح أو فحص على أحد الأصول أو مواقع العمل. على سبيل المثال، قد تحتاج لإنشاء طلب صيانة لميكانيكي لخدمة سيارة أو لإجراء صيانة وقائية لسيارة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6727c1168d0f1502da6d08708234ccdb42f19758
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9bd2a9558cb00a385a65bf6cdca6a2dd9ffbcda30ac698706b671458be876d5e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081544"
 ---
 في هذه الوحدة النمطية، لقد تعرّفت على أنواع متعددة من الاتفاقيات المتوفرة في إدارة سلاسل التوريد.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 50ce0f4ebd7b84afc25407328b15bc6135915046
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4f810c6dbbdaf03b551b6c8bf89f477a5940e17129f3fed89a20e393f4eabbd0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668089"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128731"
 ---
 بعد إنشاء حالات دورة حياة أمر العمل المطلوبة لأوامر العمل الخاصة بك، يمكن تقسيمها إلى نماذج دوره الحياة لأمر العمل. كحد أدنى، يجب إنشاء نموذج دورة حياة قياسي واحد.
 

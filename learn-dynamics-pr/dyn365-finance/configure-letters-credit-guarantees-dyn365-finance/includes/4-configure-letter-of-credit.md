@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bbfc089880665dd3b6cc28ee194ed81e15132bed
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 74663717fe1cac23ac862db193a90a8954d2f4cd
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677418"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7356054"
 ---
 قبل استيراد خطابات الاعتماد، يجب إكمال إعداد التسهيلات البنكية وملفات تعريف الترحيل واتفاقية تسهيلات بنكية وتفاصيل بنكية للمورّد.
 
@@ -94,4 +94,4 @@ ms.locfileid: "6677418"
 
 يجب تحديد الحسابات البنكية للموردين حتى يتم تسجيل حركات خطاب الاعتماد بشكل ملائم.
 
-لمعرفة كيفية إعداد حسابات المورّدين، انتقل إلى [تكوين الحسابات الدائنة‏‎ في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-accounts-payable-in-dynamics-365-finance-ops//?azure-portal=true). 
+لمعرفة كيفية إعداد حسابات المورّدين، انتقل إلى [تكوين الحسابات الدائنة‏‎ في Dynamics 365 Finance](/learn/modules/configure-accounts-payable-in-dynamics-365-finance-ops//?azure-portal=true). 

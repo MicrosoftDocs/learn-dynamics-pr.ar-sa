@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d3c2a5c970cc39c427bb75cbca83a20b82e3d90b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 753678fa9b93ec41d37ddaccb8496c263a903b71456070b2cc255ad84a44cbae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071447"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136833"
 ---
 يمكنك تطوير برامج Windows PowerShell النصية للتفاعل مع تطبيقات Finance and Operations واستهلاك وظائف الإدارة.
 

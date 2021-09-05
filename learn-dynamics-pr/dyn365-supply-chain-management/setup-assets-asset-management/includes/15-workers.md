@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3df544c19628471a42fc7f2cecb88a5d257de9ea
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b405817d4c07aec15763dc513e549efcd74bbb1823b7082f4e90487d68a2b535
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046389"
 ---
 يتم مبدئيا إنشاء العاملين في الوحدة النمطية للموارد البشرية في Dynamics 365 Finance. يساعد هذا التوفير على تسهيل عملية التحديد عند العمل لإقران العمال بمجموعات العمل وتعيين مجالات الخبرة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4fc3fb766275ff674bba2eb3f4161bccdfdf3016
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fea61790c0666024799a40d8c676f3020005fb38ec7f305e97bf426a13b90ebf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668396"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052519"
 ---
 تصف هذه الوحدة الحالات المختلفة التي يمكن أن يتضمنها أمر الشراء حتى وقت تأكيده. كما توضح أيضاً متى يتم توفير إصدارات جديدة من أمر الشراء للمورد. يختلف السلوك، اعتماداً على ما إذا كنت تستخدم إدارة التغيير لأوامر الشراء أو لا.
 

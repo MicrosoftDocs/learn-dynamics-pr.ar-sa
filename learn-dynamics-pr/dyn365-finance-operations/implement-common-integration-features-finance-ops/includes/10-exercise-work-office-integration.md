@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b361e874c025193d4c2c3409b0ec945a15d3b3c4
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: fcf16c4d04c4182b105ff4442e00b5511431322295b2ef5bf7be3ae52741b2c2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071943"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115846"
 ---
 ## <a name="scenario"></a>السيناريو
 ترغب في استخدام تكامل office وبنائه في Finance and Operations. 

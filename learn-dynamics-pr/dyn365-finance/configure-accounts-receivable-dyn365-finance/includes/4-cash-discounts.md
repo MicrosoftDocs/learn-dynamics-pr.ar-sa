@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 716b162bbadc71db45fb2ea8358f6d6ec185e102
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2ddc9e9ec872de2e01daf0f257c9919769bfb96db6dae7f608cab156f478bc4c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677265"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082752"
 ---
 حسب الحالة، يمكنك القيام بما يلي بالخصومات النقدية:
 

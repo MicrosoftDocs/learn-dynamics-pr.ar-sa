@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 52d011e81aad3fe54ccd734dd337526b2fad91f0
-ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
+ms.openlocfilehash: e3dddd9f427dc0299434369f2adaece739ac691e0a11052c99538a446fd9e94d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "6072246"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131001"
 ---
 
 تشرح هذه الوحدة الجداول المؤقتة، والأنواع المختلفة للجداول المؤقتة، ومتى يجب استخدامها.

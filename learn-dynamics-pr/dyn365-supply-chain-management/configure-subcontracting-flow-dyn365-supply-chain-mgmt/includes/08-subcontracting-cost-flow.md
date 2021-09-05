@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9a2f8bf2feaa24849765b480c1f2e2f121f2fede
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c753bd7fd9ecad29c92fa8642eeea951dff34a6ac6325e0374ffdb5e460f86cc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667819"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135560"
 ---
 
 يشكل التعاقد من الباطن على أساس الأنشطة في Supply Chain Management جزءاً من مساهمات التكلفة لتدفقات الإنتاج بناءً على أنشطة تدفق الإنتاج المتعاقد عليها من الباطن. يتم تقدير مساهمة التكلفة للأنشطة المتعاقد عليها من الباطن بالتكلفة القياسية للخدمة باستخدام حساب كمية الخدمة للكمية المستخدمة لحساب قائمة مكونات الصنف (BOM). بشكل افتراضي، هذا التقدير هو كمية أمر المخزون الافتراضية للصنف.

@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: a91273b682804c3255d657571e3c3b63dcc5723f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: ed4945bbf0842ca50db5e99c4faad7e96a5b1af1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6074542"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364738"
 title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات والتعامل معها في Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]
