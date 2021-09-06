@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d91afdf4f0c94165ab085e67e4701a3951a52885
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 307d7e4b0aceb8eb16a0dc1ba1534860a2486784b9fb8e90b5674f938301e787
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667160"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092069"
 ---
 سياسة الشراء هي مجموعة من قواعد سياسة الشراء التي تتحكم في عملية الطلب. تساعد سياسات الشراء مسؤولي المشتريات على تنفيذ إستراتيجية الشراء الخاصة بهم من خلال إنشاء هيكل سياسة يتوافق مع احتياجات الشراء الإستراتيجية للمؤسسة.
 

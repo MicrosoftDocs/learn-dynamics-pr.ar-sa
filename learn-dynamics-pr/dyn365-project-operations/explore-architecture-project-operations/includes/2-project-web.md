@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74b5de3306cc71b9042bf97cfb4dc7f63f7f79ac
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: 4a4a312d08b621247c6324ec28d6d0bcb49ca45fa255c3d774526417eaa9bc64
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083799"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7140749"
 ---
 تم تضمين Project for the Web في Microsoft Power Platform.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 98521771cadc483eb7e347b8b724deb46aa81687
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 27e0a7d78087852f36579e9dfaab96040aee4192af8554c4ce23a1ed6d4e5483
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668087"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077459"
 ---
 يمكن تعيين مستويات الخدمة لأوامر العمل، والتي تحدد أولوية أمر العمل. 
 

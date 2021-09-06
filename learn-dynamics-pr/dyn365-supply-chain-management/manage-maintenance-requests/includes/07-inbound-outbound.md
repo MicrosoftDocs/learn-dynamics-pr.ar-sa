@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 305d6289a37bb636aeaeb81892de438204245300
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ca5f4ff13f0cc63e428fa73577b7ff7bcc16d852bcc2b5681d9cbca1f1a248f7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667219"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057358"
 ---
 تعقب الأصول عند نقلها بين المواقع أمر ضروري. على سبيل المثال، قد تضطر إلى نقل جزء من المعدات من موقع إلى موقع آخر لإجراء صيانة. ومن الضروري أن تعلم المؤسسة موقع جميع أصولها. يمكن لإدارة الأصول تعقب الأصول الواردة والصادرة بحيث يمكنك التحكم في موقع الأصول في جميع الأوقات. ويوضح القسم الآتي العملية.
 

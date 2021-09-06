@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9bc5221cb58012b19f6b9aa70219ea1c0aa87b34
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 92b4d5df839e25c79283b413a4d28313ee88a15eeef4bc77685ffa7212714aff
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677717"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115709"
 ---
 المفاهيم المقدمة في هذه الوحدة النمطية هي عناصر أساسية في القرارات التي يجب اجراؤها على كيفية إنشاء أصول ثابتة في إحدى الشركات.
 

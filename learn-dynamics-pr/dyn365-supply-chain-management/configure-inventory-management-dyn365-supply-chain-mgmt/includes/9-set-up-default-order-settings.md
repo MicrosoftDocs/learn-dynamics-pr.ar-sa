@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7bbd70fa25f058556591db17e404afae7d370e0a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b15dcf1495a00a23c751b33debe2c795d69daa97d77fbeed2317c0ed13190a66
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668043"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103763"
 ---
 يمكن أن تساعدك إعدادات الأوامر في إعداد الإعدادات الافتراضية لاستخدامها في المبيعات والمشتريات وحركات المخزون. يستخدم التخطيط الرئيسي هذه الإعدادات لإنشاء أوامر المبيعات وأوامر الشراء وأوامر المخزون. 
 

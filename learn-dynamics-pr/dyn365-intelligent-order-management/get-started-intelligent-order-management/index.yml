@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-intelligent-order-management
+metadata:
+  title: الشروع في العمل باستخدام Dynamics 365 Intelligent Order Management
+  description: باستخدام Microsoft Dynamics 365 Intelligent Order Management، يمكن للعملاء إدارة تزامن الأوامر من خلال التنفيذ. تمكن هذه القدرات المؤسسات من تزامن تدفق الأوامر عبر الأنظمة الأساسية والتطبيقات المختلفة.
+  ms.date: 07/07/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-intelligent-order-management
+  ms.openlocfilehash: ba898f2da1ebe842c96c7175ee3bf03b66c90997e383da3d1a8b944e03d25648
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7092752"
+title: الشروع في العمل باستخدام Dynamics 365 Intelligent Order Management
+summary: "[!include[](../includes/module-banner.md)] \nباستخدام Dynamics 365 Intelligent Order Management، يمكن للعملاء إدارة تزامن الأوامر من خلال التنفيذ. تمكن هذه القدرات المؤسسات من تزامن تدفق الأوامر عبر الأنظمة الأساسية والتطبيقات المختلفة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مكونات Dynamics 365 Intelligent Order Management.\n- مراجعة أسباب العمل لاستخدام Intelligent Order Management.\n- التعرف على بنية Intelligent Order Management.\n"
+prerequisites: فهم عمليات supply chain management
+iconUrl: /learn/achievements/get-started-intelligent-order-management.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-iom
+- dynamics-finance-operations
+- dynamics-scm
+- dynamics-finance
+- dynamics-commerce
+units:
+- learn-dynamics.get-started-intelligent-order-management.1-introduction
+- learn-dynamics.get-started-intelligent-order-management.2-components
+- learn-dynamics.get-started-intelligent-order-management.3-app
+- learn-dynamics.get-started-intelligent-order-management.4-architecture
+- learn-dynamics.get-started-intelligent-order-management.5-check
+- learn-dynamics.get-started-intelligent-order-management.6-summary
+badge:
+  uid: learn-dynamics.get-started-intelligent-order-management.badge

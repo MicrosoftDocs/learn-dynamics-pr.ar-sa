@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7b1873df5270a2caf9a28c47cb6341d03e754fc2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 91106ec1cded06b5252efe75adbdb41fec6d3cd94988dafb197260008d076c9f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668134"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046470"
 ---
 عند انتهاء مهمة الصيانة، تكون الخطوة التالية هي تسجيل الاستهلاك وترحيل المعلومات إلى دفاتر اليومية. 
 

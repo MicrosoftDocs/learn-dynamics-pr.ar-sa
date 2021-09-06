@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 597db5a40582593f5f74b9effa7735bfaa1f81a9
-ms.sourcegitcommit: c0d0d621de78d27141010f67908d102b47c0ecd3
+ms.openlocfilehash: 0e5a5d3132914ccde4dba4a1a3830750f6b5a998222e75e845ff565c70c62162
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "6252263"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048182"
 ---
 تمت مطالبتك بإنشاء مشروع بيانات جديد يقوم باستيراد بيانات على أساس متكرر، لشركة Fleet Management لتصدير أوامر المبيعات الخاصة بها شهرياً.
 

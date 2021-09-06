@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2395b35c6dfbbb53cba7b8b6b81beaee4ab5690d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ce42df1db7a2cd593378e81f72482f1d0346970992685e86b86bff929a2db1e8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125148"
 ---
 ## <a name="set-up-and-process-recurring-invoices"></a>إعداد ومعالجة الفواتير المتكررة 
 

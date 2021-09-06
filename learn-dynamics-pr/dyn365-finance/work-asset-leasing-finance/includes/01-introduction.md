@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4dc35bcbd0658e1451aa321d5eabbd49f5f00b94
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 5a062029bc57b10940a39c79f0fb7ea73d50be1caf07a85278addf0f87aa4a69
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677381"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119926"
 ---
 يُعد تأجير الأصول قدرة متقدمة على مراقبة الحركات المالية وتعقبها وتنفيذها تلقائياً للخصائص المؤجرة في Dynamics 365 Finance. يتوافق تأجير الأصول مع مبادئ المحاسبة الدولية (IFRS 16) والمبادئ المحاسبية المقبولة بصفة عامة في الولايات المتحدة (ASC 842). يساعد تأجير الأصول على جمع المعلومات المتعلقة بعقود الإيجار ومعالجتها ويساعدك على إنتاج إدخالات دفتر اليومية خلال مدة الإيجار.
 

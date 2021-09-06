@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 67769fd2d37e35630815597ebf732a41b748d041
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c6b31531de60c35606e8c254977e841890d727049aad1a7fd6ec99f92f785084
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677772"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047791"
 ---
 هناك العديد من الأسباب التي تجعل الكيان القانوني يحتاج إلى تقويمات مالية مختلفة. على سبيل المثال، قد تتطلب الأصول الثابتة تقويمين، أحدهما لأغراض التدقيق والآخر للأغراض الضريبية. 
 

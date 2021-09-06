@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 690fc31b9353a4dca462ffa6aa3b4a53949666c9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 802afd9223b1ede2831c7912087b335561830caca574b48122ae79a0322c308f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667866"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062346"
 ---
 لتعقب أصولك، احصل على أجزاء احتياطية لهذه الأصول، وقم بإنشاء ضمانات، ومن المهم معرفة نوع الأصل المحدد وطرازه. يوضح هذا الموضوع كيفية إعداد الشركات المصنعة والطرازات الخاصة بالأصول التي يمكن ربطها بأحد الأصول. 
 

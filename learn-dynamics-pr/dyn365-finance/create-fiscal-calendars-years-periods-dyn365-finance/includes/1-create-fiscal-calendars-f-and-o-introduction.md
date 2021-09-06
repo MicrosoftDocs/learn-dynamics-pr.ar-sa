@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 54aa49e325cbc59daee5ce70bc2b6c6f118e86ae
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3e51d3880278fe9054c6071677358839ea6dace413814afccd0e5c460fa6db56
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082547"
 ---
 قبل ترحيل الحركات، يجب تقسيم السنة المالية الجديدة إلى فترات، ومشاركتها عبر كيانات قانونية متعددة. تتمثل فائدة المشاركة في التقويمات المالية في دعم التقويمات المالية المتعددة لكل كيان قانوني. 
 

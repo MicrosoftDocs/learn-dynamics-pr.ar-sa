@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c8e18092dee999515142e00c8eb40a0424f48203
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a45fbd3aac2179e15d8234251e3432b9acee395334418b9100ec18c08e36f367
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093158"
 ---
 ## <a name="create-fixed-assets-manually"></a>إنشاء أصول ثابتة يدوياً 
 

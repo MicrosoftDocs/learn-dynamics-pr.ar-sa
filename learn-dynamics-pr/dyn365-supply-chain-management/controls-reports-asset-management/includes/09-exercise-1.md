@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 82d205635558f03bfe5575abf52404d1c53421de
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9e2a9c6414a3aff96cf7557fe81dbe5e636c11caba3e5daaa4994df5862bd8fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667294"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097929"
 ---
 طلبت الإدارة في مزرعة مونسون للمخللات والمعلبات تقريراً بتكاليف أمر العمل المستهلكة على مدار عام 2019 بأكمله. وتتمثل مهمتك في إنشاء هذا التقرير كما يأتي:
 

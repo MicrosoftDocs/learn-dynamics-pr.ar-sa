@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: db7bf52b43dd18f392cdbb7a7d93c6cea55e898d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: da22715524aa93e73aa62a20d194ded92cc7dbaba5cdf0114433a338005c1cf6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667972"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091832"
 ---
 والآن ستقوم بتغيير نوع الأمر المخطط لأحد الأوامر.
 

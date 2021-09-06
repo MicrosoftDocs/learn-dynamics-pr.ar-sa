@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c52cc0351bfc008086471a6342405db513c2e99
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8a20c7e10eae619c450cbaa56bb661c2a6d7269a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667873"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7343516"
 ---
 يعد انتقاء أمر المبيعات عملية ضرورية لأي عمل باستخدام جهاز محمول أو عميل الويب. بغض النظر عن الخيارات المختلفة المتوفرة، فإن عملية انتقاء أمر المبيعات هي نفس الشيء:
 
@@ -54,7 +54,7 @@ ms.locfileid: "6667873"
 ## <a name="work-pick-line-overview"></a>نظرة عامة على بند انتقاء العمل
 تعمل ميزة **نظرة عامة على بند الانتقاء** الاختيارية على تمكين عمال المستودعات من عرض والاختيار من قائمة بجميع بنود العمل المتعلقة بمهمتهم الحالية. تساعد هذه القدرة العمال على تحسين تسلسل الانتقاء. 
 
-توفر الميزة خيارات تحل محل الزر **تخطي** القياسي يتيح للعمال التنقل عبر الخطوط واحداً تلو الآخر، بترتيب ثابت. لتمكين هذه الميزة وتكوينها، راجع [إعداد عنصر قائمة جهاز محمول لتوفير نظرة عامة على بند انتقاء](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/pick-line-overview/?azure-portal=true).
+توفر الميزة خيارات تحل محل الزر **تخطي** القياسي يتيح للعمال التنقل عبر الخطوط واحداً تلو الآخر، بترتيب ثابت. لتمكين هذه الميزة وتكوينها، راجع [إعداد عنصر قائمة جهاز محمول لتوفير نظرة عامة على بند انتقاء](/dynamics365/supply-chain/warehousing/pick-line-overview/?azure-portal=true).
 
 
 ## <a name="shipment-consolidation-policies"></a>سياسات دمج الشحنات
@@ -82,5 +82,5 @@ ms.locfileid: "6667873"
 
 يمكنك بسهولة إنشاء مخططات مخصصة لأحمال العمل تراقب تقدم العمل الحالي والعمل المتبقي. يمكنك إنشاء عروض متعددة، وتصفية البيانات للتركيز على العناصر الأكثر أهميةً، وإعداد التحديث التلقائي حسب الحاجة. 
 
-لمعرفة المزيد حول التكوين وإعداد مرئيات أحمال العمل الصادرة، راجع [مرئيات أحمال العمل الصادرة](https://docs.microsoft.com/dynamics365/supply-chain/warehousing/outbound-workload-visualization/?azure-portal=true).
+لمعرفة المزيد حول التكوين وإعداد مرئيات أحمال العمل الصادرة، راجع [مرئيات أحمال العمل الصادرة](/dynamics365/supply-chain/warehousing/outbound-workload-visualization/?azure-portal=true).
 

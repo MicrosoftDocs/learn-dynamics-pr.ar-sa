@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dba0ccc32bdf29bd379d21231c5da34a88c15aca
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 8839986cde5c9ab4a7a777fd17389587578f0835940707758e70a09e3d84bb7a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071893"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099863"
 ---
 يمكنك استخدام العديد من الإجراءات لاستكشاف مشكلات مصادقة الخدمة وإصلاحها. ويتمثل الإجراء الشائع في فحص ‏‫رموز ويب JSON المميزة‬ (JWTs).
 

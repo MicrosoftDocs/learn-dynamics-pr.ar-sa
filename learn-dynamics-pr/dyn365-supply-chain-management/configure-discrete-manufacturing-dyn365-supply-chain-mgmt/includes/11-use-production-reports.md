@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8bd89bcd5f1b4bcaf2708c9c7a418110d1f08cf3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4fde6faf882529a51d05718a94c5227c1acf82bde4ac30d839c09f24efa91431
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667522"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092219"
 ---
 فيما يلي تقارير الإنتاج التي يمكنك استخدامها:
 

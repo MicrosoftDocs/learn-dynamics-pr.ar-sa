@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: e76a96bc24594043b3537d9b988188e4dcce9aed
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: 3279ae0c3a8eeb0c268f1c4a883a6a8ff1e207ff
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6255762"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335913"
 title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

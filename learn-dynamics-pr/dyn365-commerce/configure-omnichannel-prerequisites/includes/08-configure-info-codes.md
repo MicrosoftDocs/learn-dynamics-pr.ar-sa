@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 296c1965b76adf91e143b2900896c0d8bd92617c
-ms.sourcegitcommit: 0484f01637a384540476f9c6e45ba64bd86526a8
+ms.openlocfilehash: e1b8d1a9fe45421744ec9ab20c08ad09b5b8bd89be5757e36961ecb49c9a24bb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "6070415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7088227"
 ---
 تُستخدم أكواد المعلومات للحصول على معلومات إضافية وراء الإجراءات التي تحدث في قنوات Commerce في نقطة البيع ومركز الاتصال. يمكن إعداد أكواد المعلومات في **البيع بالتجزئة والتجارة> إعداد القناة> أكواد المعلومات**.
 

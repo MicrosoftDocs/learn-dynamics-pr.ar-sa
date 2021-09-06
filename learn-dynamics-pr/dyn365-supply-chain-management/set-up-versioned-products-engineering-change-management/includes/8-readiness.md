@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2582c6efd64b65058eea5a35af859977be429fdb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 922588d2189f382a30ea1b49a0dfe35a866edb1b0a9052a9b0719565543b42a3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062412"
 ---
 توفر سياسات جاهزية المنتج فحصاً للتأكد من تحديد جميع البيانات الرئيسية المطلوبة لمنتج قبل استخدامه في الحركات. يمكن إصدار منتج أو استخدامه في الحركات في حالة التحقق من صحة فحص الجاهزية فقط. لا يُشترط فحص الجاهزية لإضافتها إلى فئة أو منتج.
 

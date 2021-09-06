@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a12da6c49bd9f52938c2704bfaffb824820b2303
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: d5fc09723b1ef877af84e7de75d77e25badf1562eb5a3e712aae94a4204a4bdb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071669"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120393"
 ---
 بإضافة مكتبات الفئات الجديدة لتطبيقات Finance and Operations، يمكنك استهلاك خدمات الويب.
 

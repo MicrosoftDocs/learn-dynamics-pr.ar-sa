@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 40a1ef4e638ca83dbdb4ca8ad034dece39df90af
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: b7e8b1d7ec5f6dc572e54620a785ae4b38d662cea2c85421f97a25e23952c699
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072920"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098620"
 ---
 عند تسجيل الوقت في Project Operations، يمكن للمستخدمين تعقب أي مستوى في المشروع، بما في ذلك المهمة أو الملخص أو مستوى المشروع.
 

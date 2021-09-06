@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f6a471f0f7e94000ea22fdcd1f489a38f2dc5484
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8eb031662ac092401ee3a287897b5cba43718424f0bf7ecb960112aba11654ac
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667301"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052083"
 ---
 يمكن استخدام أوامر العزل لحظر المخزون. على سبيل المثال، قد ترغب في عزل الأصناف لأسباب تتعلق بمراقبة الجودة. يتم نقل المخزون الذي تم عزله إلى مستودع عزل. 
 

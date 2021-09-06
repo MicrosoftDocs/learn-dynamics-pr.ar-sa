@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6bfb95073dff95c168a111b04d5f945c96af685a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: b794ba0c27b8864f2bce0b0913a79ddd6c623a75247912a85adf50e56e7ecee2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071594"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130760"
 ---
 تتيح لك أداة تكوين عمليات الأعمال (BPM) إنشاء تدفقات العملية القياسية وعرضها وتعديلها داخل تطبيقات Finance and Operations. تقوم BPM بتوحيد تدفقات العملية والوثائق واستخدامها طوال دورة حياة التنفيذ.
 

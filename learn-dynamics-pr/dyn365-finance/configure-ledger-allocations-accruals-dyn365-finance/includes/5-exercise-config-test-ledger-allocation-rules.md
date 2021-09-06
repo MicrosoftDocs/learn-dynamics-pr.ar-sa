@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5c8b16234c886653e68d9b6f7731ad564d804a59
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: caec35bb08ea16f0ca1293b82c3e6b992f5facc41d30ad1c00f90f333416b86e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677578"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074830"
 ---
 تحتاج إلى تكوين قواعد توزيع دفتر الأستاذ واختبارها في USMF. يطلب المحاسب أن تقوم بإنشاء ثلاثة حسابات دفتر أستاذ جديدة لتوزيع الحركات المرحلة بالتساوي إلى أبعاد مالية مختلفة، استناداً إلى قاعدة للفترة الحالية.
 

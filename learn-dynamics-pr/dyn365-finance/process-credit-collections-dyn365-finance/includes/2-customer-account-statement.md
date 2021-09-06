@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 54db2331c2228ec01c103efe270845e852678dbf
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5c070c4930c2b380b66eb39da1d60620c8a4fcefc32a0cfc924054ad74839379
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677804"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093141"
 ---
 كشوف حسابات العملاء هي مستندات يمكنك إرسالها إلى عملائك لإخطارهم برصيدهم المستحق ونشاط الحركات لفترة معينة.
 

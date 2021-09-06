@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc7cd80de5ce794bb6156f4132ba4c241021c8bd
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fea89b178a1b880f95d69919a1051419a5db2453097324eb1d04a9a063731f8c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677547"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078848"
 ---
 ## <a name="define-the-revenue-price"></a>تحديد سعر الإيرادات
 

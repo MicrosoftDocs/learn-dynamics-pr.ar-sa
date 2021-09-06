@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 77711f0f61cac179b1391e8a67d87d8bed2efbec
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c1c6d2d4c74cccfaae4935483c5955ba6baa751c5ef2cfb9903ca9895be40699
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677689"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141381"
 ---
 إذا كنت تتعامل مع الموردين الذين يخضعون لضريبة الولايات المتحدة 1099، فيجب تعقب المبلغ الذي تدفعه لكل مورد وإبلاغ هيئات الضرائب الأمريكية بهذه المعلومات في نهاية سنة التقويم. وعادة ما يكون الموردون أفراداً ليسوا موظفين ويقدمون خدمات لمؤسستك. عليك أيضاً إرسال كشف حساب إلى كل مورد خاضع لضريبة 1099 تتعامل معه، لإخطاره بالمبلغ الذي تقوم بالإبلاغ عنه إلى هيئات الضرائب.
 

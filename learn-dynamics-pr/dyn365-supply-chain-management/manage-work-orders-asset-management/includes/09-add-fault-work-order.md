@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: e65b488d058840c2475c090119a2bf2fb4fc8562
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d43f009c19c7d330811caf4967e6e4a16721416c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667745"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7343527"
 ---
-في جميع أوامر العمل، يمكنك إضافة خطأ محدد تم إنشاؤه للأصل المعين. ويتم إعداد هذه الأخطاء في مصمم الأخطاء. لمعرفة المزيد، انتقل إلى [إدارة الأخطاء](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/setup-for-work-orders/fault-management/?azure-portal=true). 
+في جميع أوامر العمل، يمكنك إضافة خطأ محدد تم إنشاؤه للأصل المعين. ويتم إعداد هذه الأخطاء في مصمم الأخطاء. لمعرفة المزيد، انتقل إلى [إدارة الأخطاء](/dynamics365/supply-chain/asset-management/setup-for-work-orders/fault-management/?azure-portal=true). 
 
 يتم إعداد الأخطاء حسب أنواع الأصول. ومن ثَمَّ، عند إنشاء أمر عمل لأحد الأصول، ستتوفر فقط لهذا التحديد الأخطاء التي تم تعيينها لأنواع الأصول. على سبيل المثال، في أمر العمل الموضح في لقطة الشاشة الآتية، يكون الأصل هو "أداة الإنشاء" باستخدام نوع الأصل الخاص بـ "أداة الإنشاء".  
 

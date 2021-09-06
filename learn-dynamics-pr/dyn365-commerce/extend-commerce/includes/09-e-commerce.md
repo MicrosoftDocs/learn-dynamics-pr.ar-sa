@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c922b015768845de57d4912273d51e5010c87981
-ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+ms.openlocfilehash: 92568edba9b6281d1c6b061ffcb908521cffd60001192f06b9c338fc32a74104
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "6070453"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126885"
 ---
 يوفر النظام الأساسي Commerce حزمة SDK غنية عبر الإنترنت لمنح المطور القابلية للتوسعة. ويوفر أيضاً مكتبة وحدات. 
 

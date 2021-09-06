@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: f4b603b69635310afa0f9ca5fd7617246ea5a486
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: 6065f04fd010ed1fbd105ac042884326496c87fc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6257034"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7349128"
 title: إدارة تطبيقات Finance and Operations باستخدام Lifecycle Services
 summary: >
   [!include[](../includes/module-banner.md)]

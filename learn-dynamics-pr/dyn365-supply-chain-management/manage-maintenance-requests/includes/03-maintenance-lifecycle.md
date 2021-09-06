@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d89c0e00fa7b382ec6002cbe9c60c2b332c11027
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5b8e4c88af9de18df1333c949695fc0f02470b061e3e0a43df18521de057e4a3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667222"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057391"
 ---
 تحدد حالات دورة حياة طلب الصيانة المراحل المختلفة التي يمكن أن يمر بها طلب الصيانة. يتم تحديد حالات دورة الحياة هذه وإنشائها لتناسب احتياجات مؤسستك وتدفق العمليات بشكل أفضل. 
 

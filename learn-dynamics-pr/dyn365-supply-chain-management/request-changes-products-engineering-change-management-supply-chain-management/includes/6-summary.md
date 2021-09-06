@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 465925def98b4905fba36869077a3b373b363df2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f2cd8586e8959125cbce8d170b75c8c4991e23573c0cccd79f7c8fc207c2eb68
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668436"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051609"
 ---
 توفر طلبات التغيير الهندسي وأوامر التغيير ما يلي:
 

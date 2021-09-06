@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 72b3e9419f1685291171e737ca3eba44e949b30d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: cc7bf3d1f63f1d75e91503ac7f96f8f1314d75b7d7eb0959c0456be093752182
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677272"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120022"
 ---
 عند القيام بإعداد مجموعات الأصول الثابتة، يمكن تحديد تسلسل رقمي افتراضي للأكواد الشريطية. عند إعداد أصل ثابت يكون عضواً في مجموعة أصول ثابتة، يمكن تعيين رقم الكود الشريطي تلقائياً، اعتماداً على إعداد النظام.
 

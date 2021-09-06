@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dfdaf3bf19ad95f00f9f491fb70823ca2e21eac3
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: 50d802bc11d3225d87b0f3f75b85d58e8f8e5ed9a38af15d5e268f86b65d5ab0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072479"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141799"
 ---
 تقدم تطبيقات Finance and Operations بعض سمات الألوان وأحجام العناصر المختلفة لإنشاء واجهة مبهجة من الناحية الجمالية. يمكنك استخدام صفحة **خيارات المستخدم** للتحكم في الميزات الأساسية وسلوك بيئتك الخاصة بك كمستخدم. يمكن لمسؤول النظام التحكم في خيارات المستخدم هذه من صفحة **المستخدمين** في وحدة **إدارة النظام**.
 

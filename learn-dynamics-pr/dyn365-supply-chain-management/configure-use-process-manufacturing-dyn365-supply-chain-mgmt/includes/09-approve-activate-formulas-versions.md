@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 20b51c08159e1c5e66769fa1031b3774fb7c3fe5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6164603d3a9420a0403aa3e9bc8652840c0cdd67b9c39aae21f2b29e5c0d8692
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667733"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057967"
 ---
 تجب الموافقة على المعادلات وإصدارات المعادلات قبل استخدامها للتخطيط والإنتاج. وعادةً ما يتم تنشيط المعادلات قبل استخدامها. ومع ذلك، وفي أثناء الإنتاج، يمكنك تحديد إصدار معادلة تمت الموافقة عليه، ولكن لم يتم تنشيطه.
 

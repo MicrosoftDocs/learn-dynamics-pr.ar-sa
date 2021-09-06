@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a8f49c535c84d9edccce35669d302029135b26ca
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: 9c30243b31910ce12a4f0a469ab9a036f3d18882bbcadca94400e04401fe4882
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072816"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068264"
 ---
 تحتوي الوحدة النمطية لإدارة المصروفات على العديد من خيارات إعداد التقارير والاستعلام. يمكن العثور على التقارير في **إدارة المصروفات > الاستعلامات والتقارير**. عندما تقوم ببدء تشغيل تقرير، يتم عرض صفحة بحيث يمكنك تحديد معايير التقرير.  
 

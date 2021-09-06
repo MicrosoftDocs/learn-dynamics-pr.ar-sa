@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: ba574c3df81ffe8567553f93ff45363457af02e2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4b3819596eb63130254add40430b9fff2de4d4f5
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667946"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7324353"
 ---
 
-إن معالجة منتج وزن التعبئة عبارة عن مفهوم يسمح بتتبع المخزون في وحدتين من وحدات القياس: وحدة المخزون (رطل أو كيلوجرام) ووحدة وزن التعبئة لعكس وحدة المبيعات الخاصة بالمنتج، مثل "كل" أو كيس. قد يكون أحد الأمثلة عن وحدة وزن التعبئة بيع كيس من البطاطس يبلغ وزنه 15 رطلاً ككيس واحد، ولكن مع تقليل المخزون بمقدار 15.2 رطلاً. 
+إن معالجة منتج وزن التعبئة عبارة عن مفهوم يسمح بتتبع المخزون في وحدتين من وحدات القياس: وحدة المخزون (رطل أو كيلوجرام) ووحدة وزن التعبئة لعكس وحدة المبيعات الخاصة بالمنتج، مثل "كل" أو كيس. قد يكون أحد الأمثلة عن وحدة وزن التعبئة بيع كيس من البطاطس يبلغ وزنه 15 رطلاً ككيس واحد، ولكن مع تقليل المخزون بمقدار 15.2 رطلاً.
 
-لمزيد من المعلومات حول استخدام منتجات وزن التعبئة، انتقل إلى [وزن التعبئة](https://docs.microsoft.com/learn/modules/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/11-catch-weight "Microsoft Learn - تكوين التصنيع التحويلي واستخدامه في Dynamics 365 Supply Chain Management").
+لمزيد من المعلومات حول استخدام منتجات وزن التعبئة، انتقل إلى [وزن التعبئة](/learn/modules/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/11-catch-weight/?azure-portal=true) في "Microsoft Learn - تكوين عملية التصنيع واستخدامها في Dynamics 365 Supply Chain Management".
 
 في إدارة المستودعات، يجب إكمال الإعداد الأساسي التالي:
 

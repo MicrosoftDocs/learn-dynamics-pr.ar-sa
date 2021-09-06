@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 45b7a50f49860f8cc5327677f1a7c44ccb2d4799
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b2cd087406b54ed6ac44e15f597e75cd7cc84c6b767ab385a899ba4550f919d7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677431"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087454"
 ---
 > [!NOTE]
 > يجب إكمال المعمل السابق قبل البدء بهذا المعمل.

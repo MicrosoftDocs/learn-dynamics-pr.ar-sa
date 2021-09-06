@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 999351ecbcec969125805daadad1e655324a7ba1
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e0498c63791a4721adcde11f7f2400dd51333b704a32b0de6436b32314141f14
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667783"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086583"
 ---
 ## <a name="kanban-processing-for-process-jobs"></a>معالجة كانبان لوظائف المعالجة
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9cf7c023de183aaae8eb2d2c90297e6b4dd89447
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c70fc67a853bd7dc993703e73e5b2777140a4a10873beef21e96f0ca7ac2cfa2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677349"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063733"
 ---
 توضح هذه الوحدة عمليات معالجة الأوامر وتسجيل الفواتير ومعالجة المدفوعات لتوضيح عملية الفاتورة إلى النقدية.
 

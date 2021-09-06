@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7adc7dec9ef0dea4d529efcf9a40053026cddc39
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: 8f324057b4b151e629bdb2392d5781a1e821874d4d10f82929c5b0a1ea921cbf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083805"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098872"
 ---
 يساعدك Microsoft Dataverse (المعروف سابقاً باسم Common Data Service) في تخزين وإدارة البيانات التي \'تستخدمها تطبيقات العمل بأمان.
 

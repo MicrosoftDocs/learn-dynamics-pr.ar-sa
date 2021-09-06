@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 89877e3e59d3136961e0252a3ae23e89d926f68a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e2c2c23809c8a9ed95fce803f798ec9bf22e4d48750ef972639a749f7ee9bb32
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667650"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124603"
 ---
 يتم استخدام توافق المنتج لتعقب المعلومات الكيميائية والمتعلقة بالسلامة للأصناف التي يتم شراؤها وبيعها داخل الشركة.
 تتضمن أمثلة المنتجات التي قد تتطلب التعقب في Supply Chain Management المواد الكيميائية القابلة للاشتعال، لتشمل صفحات أمان المنتج مع كل شحن، والمواد المسرطنة، لتقييد الشحن إلى بلدان أو مناطق معينة وتنظيمه، ومواد كيميائية أخرى لتعقب رموز CAS أو OSHA أو EPA مثل التي تتطلبها اللوائح المحلية والفيدرالية .

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bb388869097648449907f4c9040125742607c2ff
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4515e824c3f577f390c5696775c042ee5ea4ac1fa85423142df20bf9b684af27
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668035"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091922"
 ---
 تساعد إدارة عقود الوسيط الشركات على إدارة اتفاقيات الوساطة بشكل أفضل عن طريق التنفيذ التلقائي للمهام التي تشارك في إدارة وتتبع ودفع الرسوم المستحقة للوسطاء.
 

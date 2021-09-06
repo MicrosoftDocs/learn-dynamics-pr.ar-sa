@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a08be26c36c756b47d2ee03e5ffceac268e7d478
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 47c0a8e6d01b046677a16541f7abfe09617edd629eacd0ffee86d4d255ce4d62
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072395"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125215"
 ---
 يمكنك استخدام تكامل Microsoft Office في تطبيقات Finance and Operations لتصدير البيانات إلى Excel. بعد التعديل، إذا لزم الأمر، ستتمكن من إعادة توزيعه، ثم إنشاء مصنف Excel كقالب باستخدام مصمم المصنف.
 

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: b2f490851e1ec254ae46c32a1dcdb4cfd07f159f
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 9cbc2687a9d662c4d1d7d2ee9d7b55b28ab79d72
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667637"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361831"
 title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

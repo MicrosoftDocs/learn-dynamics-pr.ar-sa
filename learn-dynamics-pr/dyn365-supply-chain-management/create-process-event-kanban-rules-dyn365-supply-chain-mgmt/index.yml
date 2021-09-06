@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: f0249840382a69d240ba9ffcbb866ed583ec74d5
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: f1fb4f708bc78307c1c9d591a1791b2a73c47db1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667937"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7354407"
 title: إنشاء قواعد كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك استخدام قواعد كانبان الأحداث لتشغيل وإنشاء المشكلات ذات الصلة بالمواد الخام عند إنشاء بنود المبيعات، أو تقدير أوامر الإنتاج، أو إنشاء كانبان من قواعد كانبان الأحداث، أو تشغيل معالجة حدث الربط حيث وصل المخزون إلى الحد الأدنى من الكمية. توضح هذه الوحدة كيفية إنشاء بطاقات كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قواعد كانبان الأحداث.\n- إنشاء كانبان حدث بند المبيعات وإدارته.\n- إنشاء كانبان حدث بند قائمة مكونات الصنف وإدارته.\n"

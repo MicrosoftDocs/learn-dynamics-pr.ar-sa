@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e39c24d2585a2963c719a47f3b91fd7893f47f90
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a05eb1e7dedd5a7f3c2615048883e6335c72ab0862c1741a4c121439cf7f1a91
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667874"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108134"
 ---
 ## <a name="purchase-order-receipts"></a>عمليات استلام أوامر الشراء
  

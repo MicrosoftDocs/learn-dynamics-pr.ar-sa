@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c9523e9f12195c22c14127830358e1c833c9e32e
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: c8a6868911fedc1d6c13a9b5e740e864f967fab1e0207dc9b592f2a07c912db9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070223"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126821"
 ---
 غالباً ما يستخدم تجار التجزئة الانتماءات وبرامج الولاء وبطاقات الهدايا كأدوات لتحسين ارتباط العملاء بالعلامة التجارية. بالإضافة إلى ذلك، تُستخدم هذه الأدوات للمساعدة في تحفيز تفاعل العملاء من خلال مكافأتهم بنقاط الولاء أو تقديم خصومات خاصة أو تقديم إجراءات خاصة لأعضاء برنامج الولاء. 
 

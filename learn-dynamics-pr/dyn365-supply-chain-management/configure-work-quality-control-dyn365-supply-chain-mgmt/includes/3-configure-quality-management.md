@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 770a005383c600546d539f3c2134fb12292b2938
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 69864a75a79e598802511bfb5d330b5e332ec0a6267c868f1cae61d80a9a0014
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667597"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052259"
 ---
 يوفر مكون التحكم في الجودة في Supply Chain Management الوصول إلى المعلمات المطلوبة لإعداد متطلبات اختبار الجودة الخاصة بإحدى الشركات وإدارتها.
 

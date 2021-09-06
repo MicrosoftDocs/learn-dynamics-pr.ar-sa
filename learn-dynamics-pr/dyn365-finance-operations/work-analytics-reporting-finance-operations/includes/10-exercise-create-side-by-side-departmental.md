@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dc5bb57a255fef6efa664cadb67a355382be5497
-ms.sourcegitcommit: cc6e7a2bf076db26cc4192e5e45086d2284d1ab3
+ms.openlocfilehash: a1e482abee3dc6a090f1748f1fc186cd40abf811dfaee3de3e11342e34d16169
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "6072553"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063774"
 ---
 ## <a name="scenario"></a>السيناريو
 تحتاج إلى إنشاء تقرير كشف حساب دخل الأقسام جنباً إلى جنب جديد. ستستخدم تعريف صف حالي وستقوم بإنشاء تعريف تقرير جديد وتعريف عمود جديد يستخدم عوامل تصفية الأبعاد.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4d986b3b777f812802dad649afa90afb4d9b8ceb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c7a0bea6c797446e297c746869c443ec656a3a22b0d9b0ce241c9a86b663a720
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668395"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078174"
 ---
 إذا كنت تستخدم مخزون الشحنات، فيمكن للموردين استخدام واجهة تعاون المورد لعرض المعلومات في الصفحات التالية:
 

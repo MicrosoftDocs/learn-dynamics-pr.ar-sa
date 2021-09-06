@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 40c372c205c03567a3c65ac69e689762068903b6
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 1da93c0a7d790dc3ddd449a3bf82c2705b6f1e86
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677428"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364943"
 title: تكوين خطابات الاعتماد وخطابات الضمان في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]

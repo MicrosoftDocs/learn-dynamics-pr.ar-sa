@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e5ea805fbb4f1e2dc965d6858c3b08e20e4e396b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3308540d1708c7ea7a6f317a5055b8f284904cbf6e03e42b644ab21cf313fbb9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667105"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046246"
 ---
 استخدم نظام تصنيف المخزون ABC والتنبؤ به لتقييم ربحية وأهمية كل صنف. استخدم المعلومات عند إعداد المخزون ورمز التغطية وفترة التغطية وما إذا كنت ستستخدم مخزوناً يدوياً بحد أدنى و/أو أقصى عند الجدولة. 
 

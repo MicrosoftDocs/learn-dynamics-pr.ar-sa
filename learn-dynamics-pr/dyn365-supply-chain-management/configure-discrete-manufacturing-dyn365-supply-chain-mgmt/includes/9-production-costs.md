@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d01bafa39f14c86cc1256722e64958c5503e5217
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2a40c30e0daa3b679e7d8239f92c117a47d919c270b5e5529488edb824b8db00
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668409"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119645"
 ---
 تتضمن تكاليف الإنتاج تحليل التكاليف الفعلية مقابل التكاليف المقدرة لأوامر الإنتاج، وتحليل تكاليف أنشطة الإنتاج الحالية.
 

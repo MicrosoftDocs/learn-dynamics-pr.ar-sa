@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a24819c8289c9d02f2e920948dcb538d55867f35
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: db83b0dba236ad24a113ba589611dd83574d85b20bee044b7956cc5f72ee3ccb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677405"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093513"
 ---
 يجب تنشيط خطاب الضمان كمستند بنكي قبل التمكن من البدء في الحركات التي تشتمل على خطابات اعتماد.
 

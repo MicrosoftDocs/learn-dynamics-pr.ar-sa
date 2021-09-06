@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 249c9197d36e3d6ec4a20d57bccc279b15ba0dc4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 59b3dd1bef5782b172015e442feeaa09022aa59c9942cd3ee924f893926d18c1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677480"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058655"
 ---
 تحتاج في كل حركة (بنود مستند المبيعات/الشراء، ودفاتر اليومية، وما إلى ذلك)، إلى إدخال مجموعة ضريبة المبيعات ومجموعة ضريبة مبيعات للصنف لحساب ضريبة المبيعات. 
 

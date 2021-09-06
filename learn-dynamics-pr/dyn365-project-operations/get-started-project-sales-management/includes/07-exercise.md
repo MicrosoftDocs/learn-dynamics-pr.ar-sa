@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 5f48efec869b7ddc9876e59c0b2e2dce58026a40
-ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
+ms.openlocfilehash: 3e867b673497506dd100b611c2ec346da4c39560
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "6307698"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7364121"
 ---
 في هذا التمرين، ستقوم بإنشاء حساب عميل جديد وعرض أسعار مبيعات جديد لهذا العميل. ستقوم بإنشاء عرض أسعار مبيعات جديد عن طريق نسخ عرض الأسعار السابق وتعديل تفاصيل بنود عرض الأسعار. وبعد ذلك، ستقوم بتحويل عرض أسعار المبيعات إلى عقد مشروع. 
 
-يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations. يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview//?azure-portal=true).
+يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations. يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
 
 ستجد مقطع فيديو في نهاية كل مهمة يوضح لك كيفية أداء التمرين.
 ## <a name="task-1-create-new-customer-accounts"></a>المهمة 1: إنشاء حسابات عملاء جديدة

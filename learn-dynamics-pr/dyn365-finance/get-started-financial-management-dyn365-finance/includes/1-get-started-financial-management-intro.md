@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: acfcea92a40a6b40c9eb2a4f27c547b63c1491bc
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b58bee8a6bb662d5c308fabd257a2fc4e0a376ad
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677685"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7330012"
 ---
 يوفر Dynamics 365 Finance حسابات محاسبة وتقارير مالية وسريعة واعتماديه وتحليلات. كما يوفر أيضاً كافة الوظائف التي تحتاجها لتحديث الحسابات بكفاءة والتوافق مع متطلبات إعداد التقارير.
 
@@ -12,8 +12,8 @@ ms.locfileid: "6677685"
 
 سوف تتعرف في هذه الوحدة على:
 
--   مزايا Finance.
+- مزايا Finance.
 
--   نظرة عامة على ميزات الإدارة المالية.
+- نظرة عامة على ميزات الإدارة المالية.
 
-إذا كنت ترغب في معرفة المزيد حول تطبيقات Dynamics 365 الأخرى، نوصي بالاطلاع على مسار تعليم القواعد الأساسية لـ [Microsoft Dynamics 365](https://docs.microsoft.com/learn/paths/dynamics-365-fundamentals//?azure-portal=true) حيث يمكنك أيضاً معرفة المزيد حول مفاهيم السحابة وMicrosoft Power Platform.
+إذا كنت ترغب في معرفة المزيد حول تطبيقات Dynamics 365 الأخرى، نوصي بالاطلاع على مسار تعليم القواعد الأساسية لـ [Microsoft Dynamics 365](/learn/paths/dynamics-365-fundamentals/?azure-portal=true) حيث يمكنك أيضاً معرفة المزيد حول مفاهيم السحابة وMicrosoft Power Platform.

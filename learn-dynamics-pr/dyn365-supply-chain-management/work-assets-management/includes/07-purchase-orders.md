@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 449b69576085ec08c4fec663796f40fecdef1047
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cb303d47128101ff432caaf863dd3a2d389e36806c249d111c8b92877d6713ee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667660"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091724"
 ---
 هذه الوحدة توضح كيفية إنشاء أصول استناداً إلى أوامر الشراء. ومع ذلك، لإكمال هذه العملية، تحتاج أولاً إلى قائمة بأصناف الأصول التي يمكن استخدامها كأساس لإنشاء أصول لمهام الصيانة في إدارة الأصول. 
 

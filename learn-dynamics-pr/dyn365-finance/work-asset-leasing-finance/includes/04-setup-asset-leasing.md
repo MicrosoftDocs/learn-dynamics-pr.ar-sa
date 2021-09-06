@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3b5a412f0c58117fe3b9031c34791fe830ea1e94
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fbb037b7b8ef32e35492647a915be00a2558ca97e9e19a071563265ec3cf6474
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677801"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047619"
 ---
 يجب إعداد تكوينات عديدة لضمان عمل وظيفة تأجير الأصول بالشكل المطلوب.
 ## <a name="asset-leasing-parameters"></a>معلمات تأجير الأصول‬

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 440f7b2ffac73fe74ac2acc47b3b2724004655b2
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 617b557f9abf57c8aa928bdc7266e259018b53e1e4dbdb1257a1d82b337034cb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072328"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7079193"
 ---
 تمثل العناصر والنماذج والحزم التدرج الهرمي الهيكلي في Visual Studio لـ Finance and Operations. العناصر إما موجودة بشكل جاهز في مستكشف التطبيقات (AOT) في Visual Studio، أو يمكن إنشاؤها. العناصر عبارة عن بيانات تعريف وملفات مصدر، مثل التعدادات الأساسية والجداول. يتم استخدام مشروع **Finance Operations** لتنظيم وإدارة العناصر داخل نموذج. تحتوي النماذج على صفر أو أكثر من العناصر. على سبيل المثال، نموذج إدارة المستودعات عبارة عن مجموعة من العناصر التي تشكل حل إدارة المستودعات. 
 

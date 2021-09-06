@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7fe25a42773810bc4d7cb65d37275c3b27c1a64e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: db793f88d3622c8d01fe24b9f89c57b781875212d7c9b0e620ce79fcc979d68d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677171"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058792"
 ---
 في هذه الوحدة النمطية، لقد قمت بالتعرف على خيارات الدفع في Dynamics 365 Finance، وفحص مدى مرونة هذه العمليات في عمليات الأعمال المختلفة والملائمة.
 

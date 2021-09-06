@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 29b2f64330b76f7a0acbdbbbf67fcbd789c52a7b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 454ff6e4a72bafeaa8c602d45090586f918f457a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668427"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328839"
 ---
-يتم إعداد أنواع السمات الهندسية في إدارة التغيير الهندسي بشكل مشابه لجميع أنواع سمات المنتجات الموضحة في [إنشاء وتكوين التدرجات الهرمية للفئات والسمات](https://docs.microsoft.com/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/7-category-hier-attr/?azure-portal=true). 
+يتم إعداد أنواع السمات الهندسية في إدارة التغيير الهندسي بشكل مشابه لجميع أنواع سمات المنتجات الموضحة في [إنشاء وتكوين التدرجات الهرمية للفئات والسمات](/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/7-category-hier-attr/?azure-portal=true). 
 
 بدلاً من إعداد سمات إدارة معلومات المنتجات، تحتاج إلى إعداد سمات إدارة التغيير الهندسي في الوحدة النمطية **إدارة التغيير الهندسي** بحيث يمكن تطبيقها على المنتجات الهندسية.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 935e36c6c5b9b13d203a954a23f0ecbff3179266
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e8230ca7bf512315dd6c6ef44848eb86ea4e74cfbcdd9361db2e6a0bfb46ed92
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667104"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108246"
 ---
 في هذه الوحدة، تعلمت أنه يمكنك استخدام تقارير تصنيف ABC لتصنيف عناصر المخزون، ولتقييم ربحية وأهمية كل عنصر.
 

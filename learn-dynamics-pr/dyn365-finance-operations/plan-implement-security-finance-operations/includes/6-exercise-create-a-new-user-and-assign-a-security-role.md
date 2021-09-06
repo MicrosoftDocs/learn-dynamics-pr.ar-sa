@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3681b45733200e9ae20cebbacf74476f36286aaa
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f68d5d451a05efd0df66674e5c1c8ada6a28c9ef63440c43be1919fe47c350ef
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071327"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063915"
 ---
 ## <a name="scenario"></a>السيناريو
 طلب قسم الموارد البشرية لشركه USMF الوصول إلى تطبيقات Finance and Operations لموظف جديد تم تعيينه كموظف للحسابات الدائنة. 

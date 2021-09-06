@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5b955253ef0791e84dc6472808ea22b94ee89360
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 4b6cd3ac07ce52d6ce262c8366a4ec86a7d26b6bd545e003006392b9df03bdf8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677535"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053444"
 ---
 على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق.
 

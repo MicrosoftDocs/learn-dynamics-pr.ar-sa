@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1a8b5e107a97215699646b46095851af27d6a6b4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 789237d29f09f6fbf44f35e7877c08066d8673e6b3d34bc1b42cbbc88893811f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668025"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067808"
 ---
 المنتجات الثانوية هي أصناف يتم إنتاجها بجانب صنف المعادلة أو المنتجات المشتركة. وتكون هذه المنتجات مضمنة في عملية التصنيع ولا يمكن تجنبها. يتم تخزين المنتجات الثانوية في المخزون ولكن عادةً لا تكون لها قيمة مخزون. وعادةً ما يتم التخلص منها في عملية الإنتاج أو بيعها بخسارة.
 

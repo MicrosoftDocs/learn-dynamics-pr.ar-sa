@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53b660bd31de93c8a5539ae60c592d17daa26d72
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8c817a627f01e1b6b15249ea05317f31bd16e53e8754bab6fddc5cadcc1ed152
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667870"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052549"
 ---
 ## <a name="scenario"></a>السيناريو
 بصفتك موظف مستودع في شركة **USMF**، فأنت بحاجة إلى تنفيذ عملية إنشاء وترحيل دفتر يومية نقل المخزون لتسجيل حركة صنف من موقع واحد في مستودع إلى آخر. 

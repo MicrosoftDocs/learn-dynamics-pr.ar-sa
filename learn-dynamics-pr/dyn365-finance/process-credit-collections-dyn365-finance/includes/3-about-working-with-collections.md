@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8e2ad66057f26900b8484299fc2a77f03dbd4b99
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6478d53a1b5adaf20b5e8ecdb6438e4f48e3d7108e5d58916243e72281d18764
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677820"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063553"
 ---
 يمكنك استخدام مساحة عمل **تحصيلات وائتمان العميل** لعرض وإدارة واتخاذ إجراء بشأن معلومات التحصيلات والأنشطة والحالات للعميل، كل ذلك في مكان واحد.
 

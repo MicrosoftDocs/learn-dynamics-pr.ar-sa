@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2136e0af1ca7d29c4f3ac970f4093f43eae2114f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1a0c01ff7023d41a4f585f158c47cff3d26da67e0037a4dafd895e220faf18a1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667285"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051956"
 ---
 ## <a name="kanban-rule-setup"></a>إعداد قاعدة كانبان
 

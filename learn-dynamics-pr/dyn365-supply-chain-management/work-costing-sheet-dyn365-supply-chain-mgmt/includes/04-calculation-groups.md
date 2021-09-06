@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9aef13cd84a8d7a2127f4363b8947fb9227ceb7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 15e3afd29b0d1cfc5b49c09b010056e1b446bd4db63eb3453381772b2331b26c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667338"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128609"
 ---
 يمكنك تحديد مجموعات الحساب في **مجموعات الحساب > إعداد سياسات التكلفة المحددة مسبقاً> إدارة التكلفة**.
 

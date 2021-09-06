@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46dbdce49fc0d6db9e756c1c84833d5d29e48f0c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9f54244de4bfd3cd15bc5e6d67c343f6b9b82e8849b0cd03ec6408cf0cfc7cc1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668028"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057950"
 ---
 تسمح منتجات وزن التعبئة بتتبع المخزون في وحدتي قياس: وحدة مخزون ووحدة وزن التعبئة.
 يتم استخدام منتجات وزن التعبئة بشكل شائع في تصنيع العمليات التي تتم فيها معالجة المنتجات في الحاويات ويمكن أن تختلف كل حاوية قليلاً حسب الوزن؛ لذلك، يلزم وجود وحدتي مخزون.

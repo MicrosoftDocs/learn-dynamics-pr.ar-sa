@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b31a5b1997935bd89ff9a37fc66faffa0874c964
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bdb24e6ecc32b694f8e84861753699b797016b8aad0c7e028044c670c5070838
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667984"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091982"
 ---
 تتيح لك إدارة النقل استخدام وسائل النقل الخاصة بشركتك وتساعدك على تحديد الموردين وحلول التوجيه للأوامر الواردة والصادرة.
 

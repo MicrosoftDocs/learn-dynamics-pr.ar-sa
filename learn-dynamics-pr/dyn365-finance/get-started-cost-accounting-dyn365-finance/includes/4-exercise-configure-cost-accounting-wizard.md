@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 882d26339d6682f755c204d878853fc03639f67b
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 7632b3ac0af38c04a3de182b875da201be8e9c02e25d570f69387a921da3f03a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677777"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078539"
 ---
 يحتاج المدير المالي (CFO) لشركة GBSI، إلى تكوين مساحة عمل **التحكم في التكلفة** لتحليل التكاليف حسب القسم لفترات مختلفة لمقارنة المصروفات الفعلية مقابل الموازنة. استخدم الإجراء التالي لاستخدام معالج **الشروع في العمل** لإنشاء ما يحتاجه المدير المالي.
 

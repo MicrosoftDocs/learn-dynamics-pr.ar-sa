@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e281d2d0716625050027766317e7a155be40eef
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3cd4633ae48882642217c13116bc54705862f57ec37847e7a8076f6afcf1a93a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677549"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099502"
 ---
 لقد تعلمت أنه باستخدام التقارير الإلكترونية (ER)، يمكنك بسهولة التحكم في تقاريرك وتعديلها كمستخدم أعمال دون الحاجة إلى قيام مطور بتوسيع Dynamics 365 Finance لتلبيه احتياجاتك التنظيمية.
 

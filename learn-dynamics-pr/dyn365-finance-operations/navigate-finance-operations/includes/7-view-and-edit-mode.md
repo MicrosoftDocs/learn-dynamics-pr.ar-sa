@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e792036471573bd541d6a73c68287b297482922b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: d66ad9a759f99c648147dcaff7feda0d9193f8e1f1ae5609276343c492e285f0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071662"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120328"
 ---
 يشير وضعا العرض والتحرير إلى ما إذا كنت تقوم بتحرير أو عرض سجل. هذا التمييز مهم، لأنه يساعد في منع التحديثات غير المقصودة للبيانات في تطبيقات Finance and Operations.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1baf24b79e67cc49f605e05daa2a9c36556b560
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6f28e6ad9bc417dc83d827107d3d16a5c36bb2dff01e2dafd4302635b8403a19
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677215"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078903"
 ---
 في بعض الأحيان، بعد ترحيل دفعة مورد، يتعين عكس الدفعة. يختلف العكس عن حذف أو إلغاء أو رفض الدفعة. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cf42c09f071369e4a0af95c8335179a58d208779
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 40a40708fb8e8cf78e58e987539e143708a8e2bbcd7eeadc4b9bc192fead051a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6668458"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135652"
 ---
 تعرض واجهه تعاون المورد مجموعة محدودة من المعلومات حول أوامر الشراء والفواتير ومخزون الشحن لمستخدمي الموردين الخارجيين. من هذه الواجهة، يمكن للمورد أيضاً الرد على طلبات عروض الأسعار (RFQ) وعرض معلومات الشركة الأساسية وتحريرها. يمكن للمورد أيضاً إعداد معلومات البنك الخاصة به لتبسيط عملية الدفع.
 

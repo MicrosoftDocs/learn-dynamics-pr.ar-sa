@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e260b4e1f108514941c0afa18470d8eab15da3a8
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2ad93a28c32887936d56cfeb5221a1cfd681f9a01b47a269b49a923da3d22797
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677606"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093305"
 ---
 ## <a name="scenario"></a>السيناريو
 اتبع الخطوات التالية لإنشاء فتره تاريخ لشهر يناير.

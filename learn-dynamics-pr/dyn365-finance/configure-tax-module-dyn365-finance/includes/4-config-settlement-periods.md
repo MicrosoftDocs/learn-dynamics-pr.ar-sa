@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c25f99b324dce9bdf8df23fd2e36cfafb4aab8be
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c75ec817c79ff9c278995fd789595325db3d2e215396a40069d64e8a7c6c85b8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677748"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136199"
 ---
 تحدد فترات تسوية ضريبة المبيعات الفترات التي تقوم فيها الشركة بالإبلاغ عن الضرائب وتدفعها. يمكن للشركة بعد ذلك تحديد فترة تسوية ضريبة المبيعات التي يجب إبلاغ الهيئات عنها. تحدد إدارة الشؤون المالية تلقائياً الحركة الضريبية المُرحَّلة مع فترة التسوية عندما تُبلغ عن الحركة.
 

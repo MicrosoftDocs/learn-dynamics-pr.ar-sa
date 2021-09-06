@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 496a3d2f465606c8f77d17f55a4e9cc96ee34270
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 866fb633cfd890bceb903ee7b13a797a1d91a02f4c1f51b1293a21a89024772d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677429"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082723"
 ---
 تُعيد الحركات المخصصة توزيع أرصدة الحسابات من حساب واحد إلى حساب وجهة واحد أو أكثر أو مجموعات أبعاد الحساب. تكون ميزة التخصيص ذات قيمة عندما يجب توزيع المصروفات التي تتم إدارتها مركزياً إلى، على سبيل المثال، مراكز التكلفة الفردية.
 

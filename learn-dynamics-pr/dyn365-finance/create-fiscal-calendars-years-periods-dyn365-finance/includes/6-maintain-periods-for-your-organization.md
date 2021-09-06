@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8ba42ad74dc4a2fed00aceaba5ff0ae224afa054
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1f1ed64809c279108da49ff11748a58bb42f42abd0a888288f1a2e981ffda316
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677608"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063610"
 ---
 يمكنك استخدام الصفحة **تقويم دفتر الأستاذ** في **دفتر الأستاذ العام > تقويمات** ‎لعرض تفاصيل التقويم المالي والسنوات المالية والفترات التي تستخدمها مؤسستك. يمكنك أيضاً تغيير حالة الفترات وتحديد المستخدمين الذين يمكنهم ترحيل الحركات المحاسبية إلى الفترات. 
 

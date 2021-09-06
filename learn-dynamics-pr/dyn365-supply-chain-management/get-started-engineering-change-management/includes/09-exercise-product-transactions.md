@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1402bc86fa2addb4065c8b922ff7abd2438b5c59
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 93359efbd1b0fedc97efd4a0a111e58a6126f1c6ea98409afd130349399d6385
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667274"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046768"
 ---
 يرغب مدير البيانات الرئيسي في شركة *USMF* في التأكد من وجود المنتج في حالة *نموذج أولي*، للتأكد من أنه سيتم تحذير المستخدمين إذا قاموا بإضافته عن طريق الخطأ إلى العمليات التي يعملون عليها.
 

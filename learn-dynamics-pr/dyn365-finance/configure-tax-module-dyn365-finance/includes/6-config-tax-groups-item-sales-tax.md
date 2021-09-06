@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9bb71a4967c6944a3128a6a11dc0cad7859c5e4f
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a2ee9a030962fd6dc0212c5f41bbadd31b87076c52ae3187c690082d23db6887
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130082"
 ---
 ## <a name="sales-tax-groups"></a>مجموعات ضريبة المبيعات 
 

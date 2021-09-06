@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 41bbc417e8677d5a373239b06b431ec2cebf9b06
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 69f8038b8c621030f54e53299b0c65db8b088b5ad864b9707d3c4b9b8d8ceaa0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668296"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057731"
 ---
 يعد تكوين المنتج أداة مرنة تعزز إمكانية إعادة الاستخدام في المناطق التي تتطلب إعداداً ثابتاً. يتيح للمستخدمين تلبية متطلبات العملاء بسرعة من خلال توفير الوصول إلى البيانات المختارة بشكل متكرر باستخدام قوالب التكوين.
 

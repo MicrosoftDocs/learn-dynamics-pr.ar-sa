@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ea533d426a21d6c55a341e4a716222e242354aa8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 96144682f2b9ef622d8c097856bd69d1830c4796e190dca0f5e8d4305a07b918
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667998"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092213"
 ---
 تُستخدم إصدارات المسارات لاستيعاب الاختلافات في إنتاج المنتجات، أو لتزويدك بتحكم أكبر في عملية الإنتاج.
 إنها إصدارات بديلة من المسار الرئيسي الذي يستوعب الاختلافات في إنتاج نفس الصنف.

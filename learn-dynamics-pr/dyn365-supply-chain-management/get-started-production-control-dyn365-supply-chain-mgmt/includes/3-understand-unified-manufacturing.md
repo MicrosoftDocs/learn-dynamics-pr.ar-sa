@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f4bac13ac437f1f0275c523d98d3a4f7326f442b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8b9c18a318950b7c153e88af4a844b51c06fa2e907af151e5534d01f257761e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667264"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067320"
 ---
 تتطلب المنتجات المختلفة وطبولوجيا الإنتاج تطبيق أنواع أوامر مختلفة. يمكن لـ Supply Chain Management تطبيق أنواع متنوعة من الأوامر في وضع مختلط. بمعني آخر، يمكن أن تحدث كافة أنواع الأوامر خلال العملية الشاملة لإنتاج منتج واحد منته.
 

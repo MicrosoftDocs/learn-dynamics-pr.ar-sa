@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9298759304fd6d794fe58a0fcc0730c5ef8a03f7
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 32cb46499eaa72fc2261097e69859769029bed54e8428c7a5a72e97a34f4ff88
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072304"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048199"
 ---
 بينما يعمل المستخدمون عادةً في واجهة المستخدم، يعمل المطورون في Visual Studio في بيئة المطورين الخاصة بهم. يستخدم المطورون Visual Studio لإنشاء العناصر وتخصيصها وتنفيذ عمليات المطورين الأخرى. تسمح بيئة المطورين الجديدة للمطورين بالعمل في بيئتهم الخاصة مع استمرار امتلاك القدرة على التعاون والعمل مع المطورين والفرق الأخرى باستخدام التحكم في المصدر. يتم استخدام "مصمم العناصر" لإنشاء العناصر، بينما يتم استخدام "مستكشف التطبيقات" لإدارة العناصر.
 

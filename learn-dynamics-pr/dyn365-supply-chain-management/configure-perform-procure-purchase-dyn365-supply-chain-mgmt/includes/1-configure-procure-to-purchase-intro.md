@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2e766d80e5790a7d5596114dbbb1eb77e0ad6cd3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b12da2731df4e9a45c0292ad831b849f9bd6db7ab6a30efc607db3d32e432be2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667828"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139821"
 ---
  
 في الوحدة النمطية الخاصة بالتدبير والتوريد في Dynamics 365 Supply Chain Management، يمكنك إنشاء سياسات الشراء للتحكم في عملية الشراء. بالإضافة إلى ذلك، يمكنك تحديد الموردين وتدريب الموردين كموردين جدد والاحتفاظ بمعلومات المورد وإنشاء اتفاقيات مع الموردين وأصناف الأوامر والخدمات والاحتفاظ بأوامر الشراء وتأكيد استلام المنتجات. بعد معالجة حركات المورد من خلال حسابات المدفوعات، يمكنك أيضاً تحليل الإنفاق وأداء المورد.

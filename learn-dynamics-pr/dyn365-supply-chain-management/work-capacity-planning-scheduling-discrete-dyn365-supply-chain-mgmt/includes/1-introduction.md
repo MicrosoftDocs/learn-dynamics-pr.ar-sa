@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 41783b0ab78553b30fa1c66f475266e85bce5f80
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2a845642b409e3a00a08d75b2278e8f82fa3ef442a326b81ff1974660b4c429c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667099"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062140"
 ---
 تعد جدولة الإنتاج خطوة أساسية في دورة حياة أمر الإنتاج، سواء تم تشغيل الإنتاج داخلياً أو الاستعانة بمصادر خارجية لمقاول من الباطن أو مورد. إنه نشاط تكراري يتضمن تنسيق العناصر المعقدة لعملية الإنتاج للعثور على أفضل موعد للتسليم.
 

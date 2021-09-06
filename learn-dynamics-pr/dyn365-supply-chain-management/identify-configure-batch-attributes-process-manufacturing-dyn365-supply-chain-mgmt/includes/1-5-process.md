@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 662daac467dda9267eaf7d6890fdf427ef98a568
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6053d17a595c9734dc38008013b9cbb74a371818f5150e14bc94432e5618ef34
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668199"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129261"
 ---
 يتم تنفيذ عملية موازنة الدفعات من الصفحة **‏‫موازنة الدفعات‬** . حدد **إدارة التكاليف > أوامر الدفعات**، ثم من علامة التبويب **العملية** ، حدد **موازنة الدفعات**. تتوفر موازنة الدفعات لأوامر الدفعة ذات الحالة **تم البدء**.
 

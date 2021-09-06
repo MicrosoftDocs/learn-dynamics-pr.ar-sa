@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 7b861897eae6c0709c706b8466b051c58cb0e5c9
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 40919a762153e09adc22eba04d961cb6a588790a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677682"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352629"
 title: تكوين عملية الأمر إلى النقد وإدارتها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير والحسابات المدينة في العملية التدفقات النقدية للشركة.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إجراء عملية الأمر إلى النقد.\n- تكوين العمولات واستخدامها.\n- تكوين البحث عن العميل والصنف.\n- إنشاء عروض أسعار المبيعات وتأكيدها.\n- إنشاء أوامر المبيعات وتأكيدها.\n- طباعة قوائم الانتقاء وترحيلها.\n- إنشاء فاتورة أمر مبيعات وترحيلها.\n- تكوين رموز تعليق الأوامر.\n- معالجة مرتجعات العميل.\n"

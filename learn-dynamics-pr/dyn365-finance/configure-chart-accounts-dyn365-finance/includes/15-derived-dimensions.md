@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ea3d0028d2e1adb942cc53efe5d7523fdc77fb35
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 4b08f2fe91206969c4ab4acda09589c1586d469cae811cb2d16350bf1ebc95c2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677356"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130201"
 ---
 يمكنك تكوين بعد بحيث يتم إدخال المعلومات الخاصة بالأبعاد الأخرى تلقائياً عند إدخال هذا البعد في مستند. على سبيل المثال، إذا قمت بإدخال مركز التكلفة 10، فإنه يمكن إدخال قيمة 20 في بعد القسم تلقائياً.
 

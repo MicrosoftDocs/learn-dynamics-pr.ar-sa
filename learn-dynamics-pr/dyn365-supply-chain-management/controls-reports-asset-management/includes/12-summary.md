@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: 47a1cd7d84705915b3b6456cacdcf1cf2f1eb6ba
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b92098aa27951917243860e8aa937150af02104ae902ecfe19061f7156705c2d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086635"
 ---
 توفر لك إدارة الأصول عناصر التحكم والتقارير لإدارة أصولك بشكل فعال في إدارة الأصول. وتقوم هذه الوحدة النمطية بتوضيح التحكم في **تاريخ التكلفة وأمر العمل** والتحكم في **ساعة أمر العمل** و **تحليل خطأ الأصل** و **مؤشرات الأداء الأساسية (KPI) للأصل** و **الأصناف في حالة الاستخدام** و **تقارير حالة الصيانة**. 

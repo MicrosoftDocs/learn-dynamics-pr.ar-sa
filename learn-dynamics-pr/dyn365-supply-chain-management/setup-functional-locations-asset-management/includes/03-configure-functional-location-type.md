@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4810e80c97b764dfbe5be98acfa8f0d899c4c1e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 16ff7512b713ca058e76e01ee5476caeb40a1bfa
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668276"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7365575"
 ---
 تصف هذه الوحدة كيفية إنشاء أنواع مواقع عمل في إدارة الأصول. 
 
@@ -14,7 +14,7 @@ ms.locfileid: "6668276"
 
 استمراراً للمثال، تمت إضافة أنواع مواقع عمل الآن إلى مواقع العمل. تم تمييزها باللون الأخضر في الرسم التخطيطي السابق. تصف أنواع مواقع العمل نوع الموقع. على سبيل المثال، قد تختار إحدى المؤسسات عدم تخزين الرافعات الشوكية والشاحنات الخاصة بها في مناطق الإنتاج، والتي تم تصنيفها في هذا المثال على أنها المنطقة، ولكن قد تختار Yard كنوع موقع عمل لتخزين هذه الأصول. 
 
-أولاً، عند إنشاء أنواع مواقع العمل الخاصة بك، يجب عليك إنشاء موقع عمل بسيط وافتراضي. يُستخدم هذا الموقع لإنشاء أصول جديدة، والتي تمت مناقشتها بمزيد من التفصيل في الوحدة النمطية [العمل مع الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/work-assets-management//?azure-portal=true).
+أولاً، عند إنشاء أنواع مواقع العمل الخاصة بك، يجب عليك إنشاء موقع عمل بسيط وافتراضي. يُستخدم هذا الموقع لإنشاء أصول جديدة، والتي تمت مناقشتها بمزيد من التفصيل في الوحدة النمطية [العمل مع الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management](/learn/modules/work-assets-management/?azure-portal=true).
 
 ## <a name="create-a-default-functional-location-type"></a>إنشاء نوع موقع عمل افتراضي
 لإنشاء نوع موقع عمل افتراضي، اتبع الخطوات التالية:

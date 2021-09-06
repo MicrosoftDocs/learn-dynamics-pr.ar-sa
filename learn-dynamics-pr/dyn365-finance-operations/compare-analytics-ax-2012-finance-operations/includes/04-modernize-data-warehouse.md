@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d5d092aabe4691cbe791d8cae5fa7e2d9290cf1f
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 7dc72e0531466d873277828e976f763a252ad986
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072419"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7357949"
 ---
 عند الترقية إلى تطبيقات Finance and Operations، ستظهر بنية التقارير الخاصة بك مختلفة للغاية نظراً لأنك الآن على السحابة. 
 
@@ -17,5 +17,5 @@ ms.locfileid: "6072419"
 ![الرسم التخطيطي لمستودع البيانات الحديث باستخدام Azure Data Lake Storage.](../media/modern-data-warehouse.png) 
 
 
-لمزيد من المعلومات، راجع [بنية مستودع البيانات الحديث](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/modern-data-warehouse/?azure-portal=true)
+لمزيد من المعلومات، راجع [بنية مستودع البيانات الحديث](/azure/architecture/solution-ideas/articles/modern-data-warehouse/?azure-portal=true)
 

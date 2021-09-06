@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a59ff07150127794ca248d374503d4267616d7e3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1b83851318071d578c307c43b5bbb75a10dd8ad54ca3b7c2528019b9bcc9d604
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677270"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115692"
 ---
 قد ترغب في تقسيم نسبة مئوية من دفتر أصول واحد إلى دفتر أصول جديد، وهذا هو الإجراء الذي عادة ما يقوم به شخص ما يكون له دور المحاسب.
 

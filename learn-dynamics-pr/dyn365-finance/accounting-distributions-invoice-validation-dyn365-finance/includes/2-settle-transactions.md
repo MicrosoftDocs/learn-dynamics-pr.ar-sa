@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c19cd8920d623dae8a36e0e8c3f4cbb50adf1d1
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fe401f76b6e6c5663f750d3345b1b50b26d65e8f6e9ea605124fffd62fcec966
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677621"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093970"
 ---
 توضح هذه الوحدة كيفية إجراء التسوية وإلغائها في Finance.
 

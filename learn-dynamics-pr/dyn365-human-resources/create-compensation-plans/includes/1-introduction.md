@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bfff832b628b0e137328ef4897f01765c8a6834c
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 116ec7eeaa2bffe97f29845618352ce5043ce2b740f21d528f9402a1549aaa15
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656560"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115592"
 ---
 تساعدك Microsoft Dynamics 365 Human Resources على إنشاء برامج موارد بشرية (HR) فعالة من حيث التكلفة وأتمتة العمليات لتعقب برامج المكافآت. وتتكامل مع أنظمة الرواتب الشعبية للمساعدة على مركزية برامج الموارد البشرية الخاصة بك.
 

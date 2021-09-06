@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fa7c242c5f70f2658ac94ff7a17f398cfaf78490
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 25e395d70cba6221c56086822876f670a86cec45d15a7a51f3000392bf88d84d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667433"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057822"
 ---
 تعد إدارة معلومات المنتج هي الوحدة النمطية التي تقوم فيها بإنشاء مستودع منتجات المؤسسة وصيانته. وتقوم بدعم مؤسسات أكبر في نهج مركزي ومنظم لإنشاء البيانات الرئيسية وصيانتها، مثل تعريفات المنتجات. يمكن للمؤسسات الصغيرة التي تتطلب نهجاً غير مركزي إنشاء المنتجات وصيانتها. في نفس الوقت، تتم إضافة منتجاتها تلقائياً إلى مستودع المنتجات المشتركة.
 

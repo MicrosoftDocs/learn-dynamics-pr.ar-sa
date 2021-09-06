@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 52a6cddadcd2ede5e9020e43c92c01e0752fb2ed
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: b690ab55523470fb42553425d3620e2b17f2c30c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677413"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7346069"
 title: تكوين الائتمان والتحصيلات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة باستخدام صفحة \"التحصيلات\" في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات عمليات التحصيل والائتمان.\n- تكوين تقارير التقادم وأوعيه العملاء ووكلاء التحصيلات وتعريفات فترات التقادم.\n- إعداد الفوائد وإدارتها.\n- إعداد خطابات التحصيل وإدارتها.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4336e4fe3b259a78c3164c3588bbf5df90f33b82
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 16e3e8122a2ded9f4f03760a42c58a8329fbd6c25d1e547f7f06857330aa9649
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677514"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087391"
 ---
 لإنشاء بعد مالي معرف من قبل المستخدم، انتقل إلى **دفتر الأستاذ العام > دليل الحسابات > الأبعاد > الأبعاد المالية** في الحقل **استخدام القيم من**، حدد **البعد المخصص**.
  

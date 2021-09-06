@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac26e1e815ab8017c772bf59a25a376bc479033e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e6b467c64284765c3085db22ad096529e1e46763f5a91357ecd844380cfa65e1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667980"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098143"
 ---
 يمكن إجراء تسوية الشحن يدوياً، أو يمكن إعدادها لتحدث تلقائياً. لاستخدام تسوية الشحن التلقائية، يجب عليك إعداد مدير تدقيق حيث يمكنك تحديد المعايير التي تحدد فواتير الشحن التي تتم مطابقتها تلقائياً.
 

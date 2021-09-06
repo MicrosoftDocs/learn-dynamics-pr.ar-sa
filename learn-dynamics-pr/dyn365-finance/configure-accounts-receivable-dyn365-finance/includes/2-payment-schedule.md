@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 145b5aa93e7ed7bae9e0d7764184f92773af72a0
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2edbc2db64fcee9f070562c44de99206beabbfb6492afe2f739d2eb3a2e64fb3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677292"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082783"
 ---
 قبل البدء، اعلم أن إعدادات الدفع التالية في كيان قانوني تتم مشاركتها بين الحسابات الدائنة وحسابات المقبوضات:
 

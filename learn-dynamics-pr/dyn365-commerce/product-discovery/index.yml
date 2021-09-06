@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 1e0663f121ac49dcdb101533d6a00ce7ec42a440
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a880cd264b4e057d9bda9b7b79baa6604403a0f9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070263"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7349378"
 title: اكتشاف المنتج في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \n\nيعد اكتشاف المنتج في Dynamics 365 Commerce طريقة سريعة وبسيطة لعملاء التجزئة لاكتشاف المنتجات من خلال استعراض الفئات واستخدام البحث والتصفية. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على اكتشاف المنتج ومزاياه.\n- التعرف على أنواع اكتشاف المنتج.\n"

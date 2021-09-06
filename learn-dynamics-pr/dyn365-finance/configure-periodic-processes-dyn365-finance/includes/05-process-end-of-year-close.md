@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0846b17e6196ee9467893087de2a43a8613d97bd
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 50dd67b9ab44cda367c5714d9ec026242132cd933867bc3aaaaedd4a09ea88a9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141375"
 ---
 في نهاية السنة، يكون من الضروري دائماً تنفيذ المهام الآتية:
 

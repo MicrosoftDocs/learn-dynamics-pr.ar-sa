@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d8c9fc1b994334551efc8a01884bb56076e4d7a2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c001732c7289341005a7fc6116c4bb186bb4922d51e4938ca05355dd0a4a6827
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677518"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136187"
 ---
 تطلب بعض البلدان أو المناطق، الاتحاد الأوروبي على سبيل المثال، من الشركات تسجيل مبررات الإعفاء من ضريبة المبيعات. إذا لم يتم تطبيق ضريبة مبيعات على المستندات التجارية، فيتعين عليك الإبلاغ عن سبب إعفاء أمر المبيعات من ضريبة المبيعات. يلزمك للإبلاغ عن الإعفاء من ضريبة المبيعات إقران وصف الإعفاء من ضريبة المبيعات بالمستندات التجارية.
  

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 07ed49b3bcb1b28e2fd9c28c66df112e5be5d385
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 3afbc2cfd0aa26ecc5de2219a542199f7aaa11fa2880419b43f80607543abace
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071820"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141896"
 ---
 في هذه الوحدة النمطية، تعلمت كيفية الانتقال في تطبيقات Finance and Operations.
 

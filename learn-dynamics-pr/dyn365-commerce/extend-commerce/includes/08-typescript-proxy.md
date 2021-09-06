@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3a4d7aae0a9a8f3747f6c770b4516ce2cf78110
-ms.sourcegitcommit: 0484f01637a384540476f9c6e45ba64bd86526a8
+ms.openlocfilehash: 17a96bd8ed2a933963b2cb5dc65e92c24aea4cc8
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "6070414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328404"
 ---
 يقوم وكيل Commerce بتجريد الواجهة بين Retail Server وCommerce runtime (CRT). 
 
@@ -19,7 +19,7 @@ ms.locfileid: "6070414"
 1. افتح نموذج مشروع قالب الوكيل من **\RetailSDK\Code\SampleExtensions\TypeScriptProxy\TypeScriptProxy.Extensions.StoreHoursSample\Proxies.TypeScriptProxy.Extensions.StoreHoursSample.csproj** في Visual Studio. أعد تسميته، إذا لزم الأمر.
 2. أضف مشروع ملحق Retail Server كمشروع مرجعي للمشروع إلى مشروع قالب الوكيل هذا. قم بإزالة المشروع المرجعي **StoreHoursSample** الموجود.
 3. انقر بزر الماوس الأيمن فوق **Proxies.TypeScriptProxy.Extensions.StoreHoursSample.csproj** ثم حدد **تحرير Proxies.TypeScriptProxy.Extensions.StoreHoursSample.csproj**.
-4. ضمن العقدة **<RetailServerExtensionAssemblies>**، حدد اسم تجميع ملحق Retail Server. يوضح المثال التالي كيفية إضافة اسم التجميع.
+4. ضمن العقدة **RetailServerExtensionAssemblies**، حدد اسم تجميع ملحق Retail Server. يوضح المثال التالي كيفية إضافة اسم التجميع.
   
     ```csharp
     <ItemGroup>
@@ -34,5 +34,5 @@ ms.locfileid: "6070414"
 
 6. بعد اكتمال التغييرات، قم بإنشاء مشروع الوكيل لإنشاء ملفات وكيل Typescript. عند اكتمال الإنشاء، ستتوفر ملفات الوكيل في المجلد **\RetailSDK\Code\SampleExtensions\TypeScriptProxy\TypeScriptProxy.Extensions.StoreHoursSample\DataService** وفي المجلد المحدد في الأمر **نسخ**. يمكن أن يختلف المسار ومسار المجلد بناءً على بنية المجلد.
 
-لمعرفة المزيد من المعلومات، راجع [إنشاء واجهة API جديدة لملحق Retail Server](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/retail-server-icontroller-extension/?azure-portal=true).
+لمعرفة المزيد من المعلومات، راجع [إنشاء واجهة API جديدة لملحق Retail Server](/dynamics365/commerce/dev-itpro/retail-server-icontroller-extension/?azure-portal=true).
 

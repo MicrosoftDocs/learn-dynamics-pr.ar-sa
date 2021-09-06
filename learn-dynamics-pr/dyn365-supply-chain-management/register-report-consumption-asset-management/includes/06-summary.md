@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: 2106a176830c1990f3e166e6dac026bdf2907bdc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ce02c8a7be72df072a28c191aea90665bd5150be991a1c6a1036f911933cfe9e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667455"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046464"
 ---
 من خلال تسجيل الاستهلاك واستخدام وظيفة استهلاك التقارير في "إدارة الأصول"، يمكنك مراقبة استهلاكك لأوامر العمل ومهام أمر العمل وتعقبها. كما أن مراقبة استهلاكك وتعقبه يتيح لك رؤية الاستهلاك حسب الساعات والأصناف والمصروفات المرتبطة بأمر العمل. 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ec9aa879922570fd966e733bbd7f1604c82673e6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c87154f0eff2ad487eaccbdad5b84ee9f4a2fc739dba8f18fc25e4ad8be07fae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668238"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097993"
 ---
 حدد قسم التسويق في مصنع عصير البرتقال Contoso الحاجة إلى إنتاج منتج جديد لعصير التفاح المجمد المركز. بصفتك مصمم المنتج، يُطلب منك إنشاء إصدار معادلة بالتفاصيل التالية:
 

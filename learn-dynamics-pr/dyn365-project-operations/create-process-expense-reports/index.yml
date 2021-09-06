@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 1c7ecd17a25391c2f5bb70fc5bfd1c29fc835e5c
-  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.openlocfilehash: 2f3ae3456da94c5518168b3f39b34dd1163d9fe0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "6072789"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7358655"
 title: إنشاء تقارير المصروفات ومعالجتها في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتمت إعادة تصميم إدخال تقرير المصروفات في Dynamics 365 Project Operations لتبسيط تجربة المستخدم وتقليل الوقت المطلوب لإكمال التقارير. في هذه الوحدة، ستتعلم كيفية إنشاء تقارير المصروفات والتعامل معها.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة سياسات تقارير المصروفات وقواعد المصروفات اليومية.\n- إنشاء تقرير المصروفات والحفاظ عليها.\n- التعرف علي المصروفات بين الشركات الشقيقة.\n- التعرف على كيفية ترحيل تقارير المصروفات والموافقة عليها وتفويضها.\n- اكتشاف خيارات إعداد التقارير لإدارة المصروفات.\n"

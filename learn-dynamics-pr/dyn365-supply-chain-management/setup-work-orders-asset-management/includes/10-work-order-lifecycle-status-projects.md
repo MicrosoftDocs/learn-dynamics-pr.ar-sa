@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a48f4f45d53ccf757fab6fd6c1aa23d849865770
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 22c9de3824ad0a01560afd8f72da35f0fd1e0ef5defc87b15a9d298fab678e46
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668091"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077475"
 ---
 تحدد حالات دورة حياة أمر العمل المراحل المختلفة التي يمر بها أمر العمل خلال دورة حياته، مثل **تم الإنشاء** و **مجدول** و **قيد التقدم** و **منتهي**. عند الإنشاء، يمكن تحديث كل حالة دورة حياة أمر عمل يدوياً في أمر العمل أو تحديثها تلقائياً في أثناء جدولة أمر العمل.
 

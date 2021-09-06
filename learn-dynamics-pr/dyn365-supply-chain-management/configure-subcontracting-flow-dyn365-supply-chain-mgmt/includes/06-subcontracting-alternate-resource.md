@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a4b0f0a6c7e39d65eca6fb51ef24235d275d5931
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3ba00771cc219d7e4c1d0f69313ea270366004f65b0f7cfa9da710c17b518973
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668379"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092045"
 ---
 
 تتيح لك Supply Chain Management جدولة بطاقات كانبان على موارد بديلة. تسمح هذه الوظيفة لمدير تدفق القيم باستخدام موارد بديلة لموازنة عبء العمل عبر المؤسسة. 

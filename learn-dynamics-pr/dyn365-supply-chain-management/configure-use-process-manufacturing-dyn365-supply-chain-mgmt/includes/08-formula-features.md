@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e0f3aa79db791bd0eae6e9bd1981c1d7d0da16a3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2b8c90ec8d632b9e69ee9a1052b4128abb7c88db547b44afe461e0f8afb58a61
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667734"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057973"
 ---
 تصف الأقسام التالية الميزات الفريدة المتوفرة في معادلة ما. 
 

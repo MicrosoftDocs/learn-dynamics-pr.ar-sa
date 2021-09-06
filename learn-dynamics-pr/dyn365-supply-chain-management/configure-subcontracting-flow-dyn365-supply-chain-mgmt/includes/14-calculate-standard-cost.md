@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 68b40622245e8ecae170e850523d626d7b3542f0
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1bc99e2163e2e79caf2631fbe6d7c44914480470ca3fd061e8d33c6608257fe1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668376"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103656"
 ---
 
 يتم حساب التكلفة القياسية للمنتجات التي يتم إنتاجها ضمن تدفق إنتاج‬ باستخدام حساب التكلفة استناداً إلى قائمة مكونات الصنف، وكذلك قواعد تدفق الإنتاج وقواعد كانبان أو المسار. بالإضافة إلى ذلك، يمكن تشغيل حساب التكلفة القياسية لصنف مفرد أو لمجموعة من الأصناف.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c0d054f9a363bbe3ca3ff1b0215dc9cc63794947
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 025118043b6c60d8e55e199d7479256d3a7de769e67ece7d58df6b74b21ef656
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667547"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057513"
 ---
 لقد طُلب منك إنشاء موازنة صيانة تبدأ في يناير، وتغطي فترة شهرين تتضمن بنود موازنة الصيانة التصحيحية لمدة عام واحد قبل تاريخ بدء هذه الموازنة. 
 

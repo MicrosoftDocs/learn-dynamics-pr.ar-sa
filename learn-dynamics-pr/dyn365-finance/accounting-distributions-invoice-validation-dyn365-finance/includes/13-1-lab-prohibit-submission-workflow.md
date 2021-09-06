@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4eef57c99c03d2d2b2dfda2b6b63490310ccef4d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: de94d1a935b41764910083b5c508d40e3fd60e8491f6547f1c5579e3d290ddd6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677625"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093976"
 ---
 ## <a name="prerequisite"></a>المتطلب الأساسي
 لتنفيذ هذا المعمل يجب عليك أولا إنشاء سير عمل.

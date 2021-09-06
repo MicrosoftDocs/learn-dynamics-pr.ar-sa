@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 22be988fb596ab384ff0c78c3fbbf72139e475e8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c656b098fa92616dd14512afa82ae4a0ab2dc33c7a7ee4c76a682590868cfe2c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677813"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068538"
 ---
 كشخص يعمل في أحد أقسام التحصيل، يمكن تجميع الأنشطة النموذجية المتضمنة في معالجة الائتمان والتحصيلات في الفئات التالية.
 

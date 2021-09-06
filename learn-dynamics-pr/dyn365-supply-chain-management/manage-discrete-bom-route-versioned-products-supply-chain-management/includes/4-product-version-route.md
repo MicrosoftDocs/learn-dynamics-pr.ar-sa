@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 90ce4a00b03b9db9631f0ae47b7a33e421af254b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8d9ae03d593356a9ad2bed0b19a36cdc5c3b4738
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667245"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7340064"
 ---
-يصف المسار ترتيب العملية المطلوب لإنتاج منتج. للحصول على مزيد من المعلومات، راجع [المسارات والعمليات](https://docs.microsoft.com/dynamics365/supply-chain/production-control/routes-operations/?azure-portal=true).
+يصف المسار ترتيب العملية المطلوب لإنتاج منتج. للحصول على مزيد من المعلومات، راجع [المسارات والعمليات](/dynamics365/supply-chain/production-control/routes-operations/?azure-portal=true).
 
 لإنشاء المسار على قائمة مكونات الصنف من الوحدة السابقة، اتبع الخطوات التالية:
 

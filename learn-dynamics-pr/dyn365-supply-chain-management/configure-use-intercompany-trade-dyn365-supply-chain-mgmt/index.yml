@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: ecbf78c125c3c971063ac8b59aaeeb7b79aa4df2
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: f53d21f48eae0e89822f533a2f0c25027d789e34
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668316"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7325297"
 title: تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما تشتري وتبيع المؤسسات الكبيرة بين الشركات التابعة لها. تسهل Dynamics 365 Supply Chain Management التجارة بين الشركات الشقيقة بحيث يمكن للكيانات القانونية للمؤسسة تداول السلع في حين يتم إنشاء جميع الوثائق تلقائياً للكيانات القانونية المشاركة، مما يوفر الوقت والمال للمؤسسة. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين منتجات للعلاقات التجارية بين الشركات الشقيقة.\n- تكوين العلاقات التجارية بين الشركات الشقيقة.\n- تكوين الاتفاقيات بين الشركات الشقيقة.\n- معالجة الأوامر بين الشركات الشقيقة.\n- معالجة عمليات التسليم المباشرة بين الشركات الشقيقة.\n- معالجة التكاليف بين الشركات الشقيقة.\n- التعرف على معالجة سلسلة أمر الإرجاع بين الشركات الشقيقة.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 60af27ee7c11a0b7d9c87fc289063007b8007067
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4f675262d58ceaedd8d1380f9f2226a4a9e49731e93d7ea726ba7d9eebcb7449
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668179"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062493"
 ---
 يتم إجراء هذا التمرين في شركة **USMF** لمجموعة بيانات عرض توضيحي Contoso في Microsoft Dynamics 365 Supply Chain Management.
 

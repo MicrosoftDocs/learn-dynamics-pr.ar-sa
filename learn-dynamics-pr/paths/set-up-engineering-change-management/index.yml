@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: cd5280e8021142f6526190f833f0060b8973c57d
-  ms.sourcegitcommit: bb657527bda09a7c035e0379a5e7a65b8bf500f2
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 3266d3ab03752419f64b0fae8032d37c419fe546
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/01/2021
-  ms.locfileid: "6332942"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7333988"
 title: إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../../includes/lp-banner.md)]

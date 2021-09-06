@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1d85c7c312bd9997a0914da1ba7c9038b931897a
-ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+ms.openlocfilehash: 9c120b6b3de4306b1c669fcf5617c1d2060265b88b6a1d6cf5f91c4bb9746288
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "6072566"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099978"
 ---
 
 ## <a name="scenario"></a>السيناريو

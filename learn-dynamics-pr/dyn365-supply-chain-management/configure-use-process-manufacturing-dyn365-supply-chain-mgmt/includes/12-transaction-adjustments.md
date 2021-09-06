@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d718f9e83a16eefb727d39ce4b84494e5907b071
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 68912b818bab85c3c48e1748c791effb9c3a0506a1b5411c1a7403a2d81de388
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668243"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114169"
 ---
 نظراً لأن وزن المخزون عند وجوده في مستودع يختلف عن وزن المخزون عند إصداره خارج المستودع، فيجب أن تقوم معالجة منتج وزن التعبئة بتعديل المخزون.
 

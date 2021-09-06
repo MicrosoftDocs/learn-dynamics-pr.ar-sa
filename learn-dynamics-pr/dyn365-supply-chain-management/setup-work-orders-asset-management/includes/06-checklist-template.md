@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: af1ad5430a261b8b7a53635daccf5a89fb2dcdc3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0ebd0e0aa8cd5a0fff699a77ca0382a9374a67e6b0ec260011428b1ba8a83bc6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667308"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128779"
 ---
 يمكنك إنشاء قالب قائمة فحص الصيانة مع مجموعة من المهام العامة التي يجب أن ينفذها العامل لإكمال أمر العمل بشكلٍ صحيح. قد تكون أمثلة قوالب قائمة فحص الصيانة قائمة بالأصناف والشروط التي يجب فحصها في أثناء فحص السير الناقل.
 

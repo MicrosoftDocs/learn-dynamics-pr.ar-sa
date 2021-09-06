@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e389e72e84900518de07bf7822f0926a901478bd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0ec40fc92f2b34fbc1157d7b3443df2961f7820249513cc5a753d13714aa425f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668401"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098227"
 ---
 الحالات الأربع لأمر الشراء التي تُستخدم عادةً في تعاون المورد هي:
 

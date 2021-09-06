@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2d8c1690016ab10203002533718e6aa84c1c0ee5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a5dc634b5fcf718e2e7f55cf0949b0d4137f4da6c221b9dcd439b9aac0d8d068
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668330"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103586"
 ---
 تساعد خصومات الموردين الشركات على إدارة برامج خصومات الموردين بشكل أفضل عن طريق التنفيذ التلقائي للمهام المطلوبة لإدارة الخصومات التي يتم الحصول عليها وتتبعها والمطالبة بها.
 

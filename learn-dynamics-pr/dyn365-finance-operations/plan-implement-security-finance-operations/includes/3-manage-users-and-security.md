@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 37f513303eb37bc3ad88b64b35ef9bb34f4c66e4
-ms.sourcegitcommit: 31dcfe86744d4713af745ffa1f1387bd10ea7cf4
+ms.openlocfilehash: 789b2152b35cc0cabb87bd52fe75db7ffa8f6d528a7f4eb5b5f12a000e9ab163
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "6315267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094134"
 ---
 المستخدمون هم موظفون داخليون في مؤسستك، أو عملاء وموردون خارجيون، يحتاجون إلى الوصول إلى النظام لأداء وظائفهم. لا يوصى بإضافة مستخدمين من خارج شركتك إلى مؤسستك. يجب دعوة الشركاء والمستخدمين الآخرين الذين ليسوا جزءاً من مؤسستك فقط إلى المشاريع.
 

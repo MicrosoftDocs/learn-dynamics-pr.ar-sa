@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5080c649b55def0dc89031a889c620b1622c44bc
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: e4481b39a187d165f6cb18804d78b98e78f690570f67a81ebe9ee376b9a9a592
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272510"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092546"
 ---
 في هذا التمرين، ستقوم بتوفير بيئة مستضافة على السحابة لـ Finance and Operations باستخدام Microsoft Dynamics ‏365 Lifecycle Services. ستكون مهمتك الأولى هي إنشاء مشروع جديد في Lifecycle Services، ثم منح موافقة المسؤول على اشتراك Azure.
 

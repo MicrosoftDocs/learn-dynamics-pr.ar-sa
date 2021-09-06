@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d377188078dbd481efa6decc3082c4c62b453be2
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: b3897ecb762e9d06b777b0078f31bedc5b6c8252a985e54e8edee53a2b168c5f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691167"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053049"
 ---
 يجب إخطار أصحاب العمل عندما يعاني الموظفون من إصابات أو أمراض بسبب مخاطر مكان العمل. يمكنك استخدام صفحة **الإصابة والمرض** لإدخال المعلومات للمساعدة على تسهيل الإبلاغ عن الإصابات والأمراض المرتبطة بالعمل. بالإضافة إلى ذلك، يمكنك إعداد أنواع من الإصابات والأمراض والعلاجات والتكاليف والنتائج.
 

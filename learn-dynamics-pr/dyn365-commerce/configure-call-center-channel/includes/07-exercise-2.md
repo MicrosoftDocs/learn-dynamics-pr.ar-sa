@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 87048520acdced09bd011d541264d6c935919375
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0ebbf59f5307748e5d809136713ae737b2be4daadaaf08d2308d06db0f72482b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070364"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101653"
 ---
 يحتاج أحد شركاء مركز الاتصال إلى تكوين فرصة لزيادة البيع للصنف 0003. عندما يطلب أحد العملاء المنتج **0003 إطار الدراجة الجبلية المميزة**، الذي يبلغ سعره 34.99 دولاراً أمريكياً، يجب على ممثل خدمة العملاء يجب أن يقترح المنتج **0004 إطار الدراجة الجبلية الممتازة**، الذي يبلغ سعره 54.99 دولاراً أمريكياً، كبديل. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 99a1d4659d40ca336d019c6fa3c00521a7426013
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: facf884f9f8cc32a4ae214fb9da7d7f85481833622b4a21efd3d8eb21671fd1d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116047"
 ---
 تعد هذه الوحدة ملخصاً للخطوات الواردة في خطوات نشر وتشغيل تنفيذ مجموعة النظراء لتطبيقات Finance and Operations.
 

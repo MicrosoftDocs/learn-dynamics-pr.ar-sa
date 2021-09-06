@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 60c13f0b75e9ef7f3233bf321e7ebdbf14c52df9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 68b804a4221ce114761a860ad60080cb74e9c8ab711381dd20bee546cf7b5534
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668001"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081773"
 ---
 لإنشاء مسار يستند إلى سلسلة من العمليات المتسلسلة، يجب توفر العمليات نفسها. العملية هي مهمة أو عملية مرتبطة بإنتاج أحد الأصناف. يتضمن التفاصيل الضرورية لجدول إنتاج فعال.
 

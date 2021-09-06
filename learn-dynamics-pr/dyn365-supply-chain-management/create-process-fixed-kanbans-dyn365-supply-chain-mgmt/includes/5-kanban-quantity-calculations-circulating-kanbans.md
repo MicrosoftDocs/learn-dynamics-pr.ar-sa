@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 16817f6bb4b676bec2babe6cb9d56b5d8acb30dc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 92b30094e7c89668fea6b45df5a2f85c06bbb3a114a2c0d30be3172ddb465a34
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668160"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086573"
 ---
 ## <a name="kanban-quantity-calculation-policies"></a>سياسات حساب كمية كانبان
 

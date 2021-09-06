@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eed5d117f419c459091884edd499f7941f369140
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: dcfcc842796fa82b9630bd0acdcce4b75dc96fb517e4fab61996a1da4c10fa0a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667095"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086408"
 ---
 
 توفر مجموعة التكاليف الأساس لتجزئة وتحليل مساهمات التكلفة في التكلفة المحسوبة للصنف المصنع، مثل مساهمات التكلفة للمواد والعمالة والنفقات العامة.

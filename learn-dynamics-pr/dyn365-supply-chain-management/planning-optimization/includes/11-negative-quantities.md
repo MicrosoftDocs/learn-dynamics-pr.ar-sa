@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d6cc350c87b2962ae5c588d89764a4a5d408f979
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 733b092a34d2b8c4f77d06f90eb9f6cf67ef837b9fe8ac57925f91ef1dc9dd2a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051710"
 ---
 باستخدام تحسين التخطيط، عندما يعرض النظام الكمية الفعلية بقيمة سالبة، فإنه يفترض أن هناك عنصراً غير متزامن مع القيم الفعلية. بالتالي، ستتم معاملة الكمية على أنها صفر (0) لمنع التوريد الزائد. 
 

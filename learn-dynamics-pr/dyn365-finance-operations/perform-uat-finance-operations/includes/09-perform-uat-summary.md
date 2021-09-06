@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 03575ea41c942a563793dd6670b63a93ac3ed8a6
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a1f58db27348c4c0a2958c9f5cf39ca83263a015a61fdce2cbb9e72c5e7b80ae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071658"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099760"
 ---
 
 لقد تعلمت في هذه الوحدة كيفيه إنشاء حالات اختبار لاختبار وظيفة العمل دون الحاجة إلى مهارات التطوير.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 98f7170913cd94216072151a4f45af5eb704fa62
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 16b37fcd295c33c480ee7d21d5080567693c199fa586ffa4f2f6df0c0be27ca8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103639"
 ---
 
 يتم حساب فرق الإنتاج للتكلفة القياسية لتدفق الإنتاج من خلال مقارنة كميات تدفق الإنتاج من المنتجات المكتملة للفترة بالتكلفة القياسية مقابل استخدام المورد المحقق لتدفق الإنتاج إلى الأعمال تحت التنفيذ خلال الفترة بالتكلفة القياسية.

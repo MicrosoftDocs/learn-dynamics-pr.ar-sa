@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d603a515f1da1fb56050f20547179eb2b1e8160a
-ms.sourcegitcommit: afc018f2c4899625e3acf83d0e82eeda93c14bcf
+ms.openlocfilehash: 16ecf3eea7a9ae68006d3119b71a0f859198e4e0f45d004f772d2a122cb94f32
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "6070419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064764"
 ---
 تتيح ميزة ضبط التكلفة لبائعي التجزئة تحديد مكونات تكلفة إضافية وتكوينها والتي سيتم حسابها وأخذها في الاعتبار لتحديد الموقع الأمثل لتلبية بنود الطلب منه.
 يحدد DOM الموقع الأمثل لتنفيذ الطلب بطريقتين: تهيئة المسافة أو التكلفة. 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c55ed03d454a880567fb7d972e7dec386d034bf
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: eb8abd520532308a430b2eaafaeeadc97f15f7451da04a1a26c0eb8a57c4768a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677373"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063672"
 ---
 تعلمت كيفية تكوين قواعد التوزيع واستخدامها، وكيفية تكوين أنظمة الاستحقاق واستخدامها.
  

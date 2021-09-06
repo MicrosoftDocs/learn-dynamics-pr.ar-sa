@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4719a2beb844a04456dee9c6a6bf6dc8f718197f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 328a6906f1757b13be17bc9cd59b6a6f9214d055e5194ba22bcdd689a0d82d5c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667746"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129178"
 ---
 المنتج الهندسي هو منتج يتم إصداره والتحكم فيه من خلال إدارة التغييرات الهندسية. يمكنك التحكم في وقت إنشاء منتج جديد وكيفية إصداره للكيانات القانونية في Supply Chain Management وكيفية استخدام المنتج في الحركات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 967c4b3aeb1366b5f75cd26d53dedd652051d15a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a6d8126a65296d0a60336585652a5323b3d67b004038d85a9418a835b0a520ba
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668072"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119218"
 ---
 
 في الشركة USP2، يتم تعقب سعر التفاح (جزء M9103) استناداً إلى تسعير تبادل السلع NYMEX الخاص بالتفاح. يجب أن يعتمد سعر المبيعات لصوص التفاح (الجزء P9100)، الذي يتم تصنيعه من هذا التفاح، على هامش يبلغ 45 بالمائة ومضاعف التكلفة 1.25 لكافة الكميات.

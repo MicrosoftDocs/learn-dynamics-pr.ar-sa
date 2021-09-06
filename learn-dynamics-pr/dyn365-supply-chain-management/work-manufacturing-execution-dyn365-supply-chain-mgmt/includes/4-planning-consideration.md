@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e79a70a893aaabccb853fb894feebd64b248b654
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7e28c2ac59aa5e112a8b9f4cc8699c42bdea5711d4f380056e7ef0409f59b34c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668056"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067201"
 ---
 تحتوي Supply Chain Management على أدوات تخطيط يجب استخدامها من قِبل موظفي الإشراف. تتميز أدوات التخطيط بكونها مفيدة وتساعد على توفير الوقت للتخطيط طويل الأجل. ويمكنك استخدام أدوات التخطيط للتخطيط لمهام العمل والغياب وتغيير ملفات تعريف وقت عمل الموظفين أو مهام العمل لوقت محدد.
 

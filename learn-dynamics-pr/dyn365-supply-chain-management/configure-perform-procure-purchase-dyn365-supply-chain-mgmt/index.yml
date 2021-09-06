@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: a99917bde579754143f4145e27a6bffce8658ea9
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 87b67acb397fa0e153ce7a8748dc87854f82581b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667159"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7356702"
 title: تكوين عملية التدبير إلى الشراء وتنفيذها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nالتدبير إلى الشراء هو الخطوة الأولى في عملية التدبير إلى الدفع تتضمن عملية التدبير إلى الشراء قيام مندوب التدبير بالبحث عن مورد وطلب مادة أو خدمة ليتم شراؤها. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تطبيق عمليات التدبير والتوريد في سيناريو الأعمال.\n- استخدام سياسات الشراء.\n- إنشاء موردين والحفاظ عليهم.\n- إنشاء طلبات شراء ومعالجتها.\n- إنشاء طلب عرض أسعار ومعالجته.\n"

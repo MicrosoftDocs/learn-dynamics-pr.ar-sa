@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 249bd8f64e9bd967b72ddc349386d1370b6d572c
-ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
+ms.openlocfilehash: 602e5846da425351bf0f3e1b49eeb336cc8e5b831a4cff6c54715a1de3da3612
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "6072241"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064332"
 ---
 يمكن أن تؤدي الاستعلامات التي تم إنشاؤها بشكل سيئ إلى حدوث مشكلات في الأداء. يمكنك تطبيق بعض أفضل الممارسات على الاستعلامات لتجنب الآثار غير الضرورية على الأداء. 
 

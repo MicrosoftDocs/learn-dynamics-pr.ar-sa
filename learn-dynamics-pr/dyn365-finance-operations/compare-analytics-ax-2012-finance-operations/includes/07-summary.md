@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: d2773b33beb14d76de1ece405597fc5c454aa393
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 561e2216bc1a0af1b56c7d5f04bc13029ea553e2478299dfbf099bec82b59823
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072414"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094472"
 ---
 يقوم جزء هام من رحلة الترقية بتحديد طريقة إعداد التقارير والتحليلات. يجب تحديد كيفية استخدامك للبيانات لتزويد المستخدمين بالمعلومات التي يحتاجون إليها لاتخاذ قرارات. لقد تعلمت في هذه الوحدة الترقية من التقارير المطبوعة إلى الذكاء الآلي باستخدام أدوات إعداد التقارير والتحليلات في تطبيقات Finance and Operations. لقد تعلمت أيضاً تحديث أسلوبك في إعداد التقارير والتحليلات.  

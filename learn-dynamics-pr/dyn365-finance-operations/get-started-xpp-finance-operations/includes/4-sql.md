@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c4c6cf5520040de2c20012601817f1fcef45fb12
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a0a625e89b91255e30cda6b46550b38930f607c04f86171a2415928d2d22b69d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071676"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094170"
 ---
 يمكنك استخدام عبارات SQL في X++ لمعالجة البيانات باستخدام الكلمات الأساسية `select`، `insert_recordset`، `update_recordset`، و`delete`. 
 

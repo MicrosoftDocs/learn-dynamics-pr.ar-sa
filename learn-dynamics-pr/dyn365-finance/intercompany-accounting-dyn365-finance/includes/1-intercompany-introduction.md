@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2806569f9837ae2adfeebd67db4dc4b73c785745
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a791ae1e63d63a5bb52123c4aeca864d9741a0af
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677792"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7352611"
 ---
 يمكنك استخدام المحاسبة بين الشركات الشقيقة عندما تتمركز العمليات المحاسبية للشركات التابعة أو المكاتب الفرعية. باستخدام المحاسبة بين الشركات الشقيقة، يمكنك إنشاء إدخال واحد يتم ترحيله إلى شركات متعددة. يوفر Dynamics 365 Finance الميزات التي تساعدك في إعداد النظام ومعالجة الحركات وتعقب الحركات بين الشركات الشقيقة.
 
@@ -12,6 +12,6 @@ ms.locfileid: "6677792"
 
 يوفر المحاسبة بين الشركات الشقيقة حركات دفتر الأستاذ للشركات التي تحتوي على بعضها البعض، بما في ذلك الملائمة المستحقة من الحركات ومستحقة. ومع ذلك، تتم معالجة التجارة بين الشركات الشقيقة من خلال مستندات أمر المبيعات وأمر الشراء. 
 
-لمزيد من المعلومات حول التجارة بين الشركات الشقيقة، راجع [تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-use-intercompany-trade/?azure-portal=true)
+لمزيد من المعلومات حول التجارة بين الشركات الشقيقة، راجع [تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Finance](/learn/modules/configure-use-intercompany-trade/?azure-portal=true)
 
 

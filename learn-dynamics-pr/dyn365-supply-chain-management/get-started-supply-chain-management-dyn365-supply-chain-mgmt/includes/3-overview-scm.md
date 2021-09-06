@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b6a8e6f8e4c448f22ed42b6fab9ba348d6152bea
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bfa79df5521bd44de8f98bf92b5228b7ed2383ffea89067d5d5e6a66364edbb2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667754"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057612"
 ---
 يتم تنظيم التوزيع والتجارة في Supply Chain Management في الوحدات النمطية المتعددة وكذلك مساحات العمل المستندة إلى الدور والتي تركز على المهام اليومية المرتبطة بالدور المعين.
 

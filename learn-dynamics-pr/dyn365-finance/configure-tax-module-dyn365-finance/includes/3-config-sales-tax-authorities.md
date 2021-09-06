@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 451ae56b92abd51c0f844fbffbfea36f84baad12
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: acdf33ff8a015a38491f41f362f48831dd78343a659e488bf48c8167d406123c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677323"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120098"
 ---
 تقوم الشركات بدفع الضرائب وإبلاغ السلطات عنها. تحدد السلطات متى وأين تدفع الشركة ضرائبها. يمكن أن تكون السلطات الضريبية دولاً والولايات والمناطق والمدن.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8de82610badd7d88d143582e668290815c7f9184
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 275b306bc29a2f346e0241573467a0a38c9a87c7bb9b6d9c8ee63b2f40feddec
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067645"
 ---
 في Dynamics 365 Supply Chain Management، يتم تنفيذ كانبان كإطار عمل لتخطيط وتتبع ومعالجة التصنيع والتزويد، استناداً إلى إشارات السحب.
 

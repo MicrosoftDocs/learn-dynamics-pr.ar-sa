@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4ef9c09ac2da30da6d3d52b09b91cbf8d936f1b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3333e26b60407ccb1f367c4a8f4addc00c6a0cf3f3346dc8cf5e4b98227df65d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668329"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052398"
 ---
 لقد وافقت على سعر 100 من الصنف رقم D0002 بسعر 145.50 دولاراً أمريكياً مع المورد Fabrikam. الآن، تحتاج إلى إعداد اتفاقية الشراء.
 

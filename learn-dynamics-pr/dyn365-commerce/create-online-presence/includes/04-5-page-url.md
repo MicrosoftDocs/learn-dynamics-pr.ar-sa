@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3a37d2cf6747a75540b01042eb37bd10bc970a7d
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 8512bc1c3654d7bb1c222cdf66bf243ad1b825d00c84b569754c65dcaf35aeec
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064702"
 ---
 ند إنشاء صفحات جديدة، لن تتم مطالبتك بتحديد عنوان URL للصفحة. إذا تركت حقل **URL** فارغاً، فسيتم إنشاء الصفحة في حالة غير مرتبطة. في هذه الحالة، لن يتمكن العملاء من الوصول إلى الصفحة، حتى لو تم نشرها. لتسهيل الوصول إلى الصفحة، يجب عليك إنشاء عنوان URL يدوياً وربطه بالصفحة.
 

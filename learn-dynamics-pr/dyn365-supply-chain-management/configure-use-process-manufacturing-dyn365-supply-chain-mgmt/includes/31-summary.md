@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c0f74aaa330183740aaf87d6843c4c696eb7ca1d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7445bac1c8c66649dfaf790ee0bb0a09e0be48cf20c53223c158c8b12597acda
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667792"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077878"
 ---
 وفي هذه الوحدة النمطية، تعلمت أن التصنيع التحويلي يسمح باستخدام العائدات والمنتجات المشتركة والمنتجات الثانوية والميزات الأخرى التي تلي التصنيع المنفصل.
 

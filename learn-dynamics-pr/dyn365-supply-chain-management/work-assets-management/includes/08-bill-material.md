@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fbca36af704751a1849fa8994ea0e063cc133731
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 633a2188382cdecdecb6cb99c5755d127aca3606db5fabd0aeb2fa0caf407df2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667890"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091713"
 ---
 تتناول هذه الوحدة قوائم مكونات الأصناف (BOMs) الخاصة بالأصول. يقصد بقائمة BOM للأصل كافة الأصناف (أجزاء احتياطية وأصناف أخرى) التي يتم استخدامها في أصل خلال مُدة بقائه. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bad428f7cea5a8a3bce55fa9bffa7bf8f9414f8d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 326725fe57d15a62f9867742e053b077bb4e6e04105de2fcb0e286c405457197
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677214"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074807"
 ---
 خطاب الضمان هو اتفاق من قِبل البنك (الضامن) على دفع مبلغ محدد من المال إلى شخص ما (المستفيد) إذا تخلف عميل البنك (الرئيسي) عن السداد أو التزام تجاه المستفيد. خطابات الضمان غير قابلة للتحويل. تنطبق فقط على المستفيد المذكور اسمه في الاتفاقية. يمكن للمدير أن يطلب زيادة أو نقصان في قيمة خطاب الضمان، وفقاً لشروط الاتفاقية.
 

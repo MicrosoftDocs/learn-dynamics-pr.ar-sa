@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1aa399cf09a761b1c8a2576a98a4012d01959d06
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: ad7ea209290df6200fe9090eb2990f962b54b7779b3e6c2ac795ebe794314ce0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6692839"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136022"
 ---
 لإعداد إدارة المستندات، يمكنك تكوينها باستخدام تخزين Microsoft Azure أو تخزين SharePoint.
 

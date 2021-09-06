@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 912a8fa0089c807cdcb556046e2881b42c68f369
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2e7046aaf010a56e9e388cc7abf2c18cc1c494955acd92c55c0a157c946b6025
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135053"
 ---
 
 يمكن صياغة نموذج تكوين المنتج باعتباره مشكلة استيفاء قيود (CSP). يوفر Microsoft Solver Foundation(MSF) نوعين من استراتيجيات الحلول لحل مشكلات استيفاء القيود التي يمكن استخدامها من نماذج تكوين المنتج.

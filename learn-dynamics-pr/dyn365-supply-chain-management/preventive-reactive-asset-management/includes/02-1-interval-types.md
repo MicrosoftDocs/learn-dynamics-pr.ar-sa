@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bebb77bba69e99594a6d3929c0d068114eba7e27
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9a4a5a4680ee2cb31e627009318672e23ed38b0f24643c9beba34808e44c8920
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128946"
 ---
 تتولّى أنواع الفواصل تحديد نوع العداد الذي تريد إنشاءه. وفيما يلي قائمه بأنواع الفواصل الزمنية وآلية عملها مع نوعي البنود **الوقت** و **العداد**.
 

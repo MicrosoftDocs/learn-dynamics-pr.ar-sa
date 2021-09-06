@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 220dc4d049157f23bd0d3c08aa5d5424970f0609
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 58efe1939f9f5809acb44aa6c7cdce8ff82e16eab8328d35feb48da901b7862b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667763"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067326"
 ---
 في هذه الوحدة النمطية، تعلمت كيفية التمييز بين التصنيع المنفصل والتحويلي وlean manufacturing في Dynamics 365 Supply Chain Management وكيف يُطلق على الجمع بين أنواع مختلفة من الإنتاج معاً اسم التصنيع الموحد (أو الوضع المختلط).
 

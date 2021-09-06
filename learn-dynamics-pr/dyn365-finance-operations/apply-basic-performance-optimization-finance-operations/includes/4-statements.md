@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fb751ede1394008570e271438ad279c20438ad66
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 41b08c9c1d6d3164642194c60b40555e813b6deb8db1669b3f414aed67b47a03
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071453"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130995"
 ---
 تُستخدم العبارات المستندة إلى مجموعة لتحديث سجلات بيانات متعددة أو إدراجها أو حذفها من أحد الجداول.
 

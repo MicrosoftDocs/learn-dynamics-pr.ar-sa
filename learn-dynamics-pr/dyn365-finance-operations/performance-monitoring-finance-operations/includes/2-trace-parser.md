@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7bac7aabd9f809a5b34234d69dbf31aa0ca101eb
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a4cf1debea050c987f197253103a9c8ad51ad0d5fa718e98ab8b6918579e9612
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071286"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120305"
 ---
 باستخدام محلل التتبع، يمكنك استهلاك عمليات التتبع وتحليل الأداء في توزيع تطبيقات Finance and Operations. يضمن ذلك أن يكون لديك فكرة عما يحدث حالياً في بيئاتك الموزعة ويساعد على ضمان أن مستخدمي الأعمال لديهم وقت الاستجابة الذي يحتاجونه لعملياتهم اليومية.
 

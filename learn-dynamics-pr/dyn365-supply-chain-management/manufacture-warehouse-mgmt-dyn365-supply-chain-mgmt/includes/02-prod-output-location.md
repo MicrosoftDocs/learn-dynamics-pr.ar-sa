@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 775d4efa26db4becab630b5e9d32cc4c8ff89984
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a2889253567ddc5b95860d76f8a867d597395b064c9d111b7cf759e67763a11b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062678"
 ---
 
 موقع إخراج الإنتاج هو المكان الذي يتم فيه تخزين الصنف النهائي بعد إنتاجه. عادةً ما يكون هذا الموقع قريباً من عملية الإنتاج التي تنتج السلعة النهائية. يتم استخدام موقع إخراج الإنتاج كمخزن وسيط للمادة قبل نقلها إلى منطقة الشحن، وموقع التخزين، وموقع إدخال الإنتاج لعملية الإنتاج النهائية، وما إلى ذلك.

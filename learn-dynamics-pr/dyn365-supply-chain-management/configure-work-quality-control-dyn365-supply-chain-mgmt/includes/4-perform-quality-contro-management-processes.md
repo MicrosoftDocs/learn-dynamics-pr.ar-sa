@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: baf944a06c0a0def1539fd274d127168dab7fae7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5bf7fb649a921af874d2b3483cd2a05ed0ccdab659299d951df4873b4988e251
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667596"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052165"
 ---
 يُشار عادةً إلى عملية اختبار المنتجات بمراقبة الجودة وهي تستخدم أوامر الجودة. باستخدام وظيفة مراقبة الجودة، يمكنك تنفيذ المهام التالية:
 

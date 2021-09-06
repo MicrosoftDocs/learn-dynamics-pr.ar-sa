@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a8d886d3cecef0d76b54d549cae66d0b821c6377
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 82378bc96bbf6bf03b76e5227445b6651595f29b
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072299"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342545"
 ---
 في مرحلة التنفيذ، ستعمل في مشروع تنفيذ Lifecycle Services لتطبيقات Finance and Operations. للانتقال إلى مرحلة التنفيذ، يجب شراء تطبيقات Finance and Operations.
 
@@ -35,7 +35,7 @@ ms.locfileid: "6072299"
 
 يمكن في بيئة التطوير إصلاح أي مشكلة على الفور وتعديل الكود وإعادة تشغيل الترقية في غضون دقائق. ومع ذلك، هناك بيئات اختبار معزولة‬ أكبر لا تُتيح هذا المستوى من سرعة الأداء، حيث يتطلّب فيها الأمر عدة ساعات على الأقل من أجل إصلاح المشكلات ومعالجتها وتحديث الكود ونشر الكود المُحدّث، ثم إعادة تشغيل الترقية. 
 
-للحصول على مزيد من المعلومات، راجع [الترقية من AX 2012 – ترقية البيانات في بيئات التطوير](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-upgrade-2012/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [الترقية من AX 2012 – ترقية البيانات في بيئات التطوير](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-upgrade-2012/?azure-portal=true).
 
 إن عملية ترقية البيانات في بيئة من الطبقة 2+ تُماثل تلك في بيئة التطوير. ولكن الفرق الرئيسي بينهما هو أن بيئة الاختبار المعزولة تستخدم قاعدة بيانات Microsoft Azure SQL لتخزين البيانات، في حين تستخدم بيئة التطوير Microsoft SQL Server. ويتطلّب هذا الفرق التقني في طبقة قاعدة البيانات تعديل إجراء ترقية البيانات قليلاً في بيئة الاختبار المعزولة لأنه تتعذر استعادة نسخة احتياطية من مثيل قاعدة بيانات Dynamics AX 2012 إلى قاعدة بيانات SQL. 
 
@@ -53,6 +53,6 @@ ms.locfileid: "6072299"
 6.  قم بتشغيل برنامج نصي T-SQL مقابل قاعدة البيانات المستوردة لإعادة تعيين مستخدمي قاعدة بيانات SQL. 
 7.  قم بتشغيل حزمة ترقية البيانات المناسبة مقابل قاعدة البيانات المستوردة. 
 
-لمزيد من المعلومات، راجع [الترقية من Dynamics AX 2012 – ترقية البيانات في بيئات اختبار معزولة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-data-sandbox/?azure-portal=true).
+لمزيد من المعلومات، راجع [الترقية من Dynamics AX 2012 – ترقية البيانات في بيئات اختبار معزولة](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-data-sandbox/?azure-portal=true).
 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0eb06791d1f7d4ed6dd55f13ca21db258828b96d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: befd618aa21b3ca32c7f9fedd771c88662e29342
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677266"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7363615"
 ---
 توضح هذه الوحدة كيفية إنشاء عميل والاحتفاظ به. 
 
@@ -44,7 +44,7 @@ ms.locfileid: "6677266"
 
 يتبع سير العمل عملية سير العمل القياسية في التطبيق Finance and Operations. يتم توجيه القائم بالموافقة إلى صفحة **العميل** حيث يمكنه مراجعة التغييرات في صفحة **التغييرات المقترحة** ثم تحديد **سير العمل > موافقة** للموافقة على سير العمل. بعد إكمال جميع الموافقات، يتم تحديث الحقول بالقيم التي اقترحتها.
 
-لمزيد من المعلومات تتعلق بمن ستقوم بإنشاء سير عمل له، راجع [التعامل مع عمليات سير العمل في تطبيقات Finance and Operations ](https://docs.microsoft.com/learn/modules/create-use-workflows-finance-operations/?azure-portal=true).
+لمزيد من المعلومات تتعلق بمن ستقوم بإنشاء سير عمل له، راجع [التعامل مع عمليات سير العمل في تطبيقات Finance and Operations ](/learn/modules/create-use-workflows-finance-operations/?azure-portal=true).
 
 ## <a name="customers"></a>العملاء 
 

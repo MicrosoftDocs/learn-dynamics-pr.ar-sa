@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 32d2c35d2bf5256fe4c537e4dd1f67a4b1864f54
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d8e16f82fa6864bfb4bfc31dc3b18b9ce33ecf571158934f1db64659920e2c13
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667458"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051655"
 ---
 يمكنك إنشاء دورات الصيانة لأصولك في إدارة الأصول. يمكنك إنشاء دورات الصيانة لمختلف الأصول التي تحتاجها لإنجاز مهمة مماثلة على فترات منتظمة. قد يكون أحد الأمثلة على هذا السيناريو هو أنك تحتاج إلى إجراء فحوصات على أسطول الشاحنات لديك في نفس الفترات الزمنية. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0456d1243db3fa86a876c2fcef02ebfde88d0c22
-ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+ms.openlocfilehash: 0dcc27293c49adaf39aab27b1f3ac7a6af99059aae70da60401c13d112029a5e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "6070531"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7088286"
 ---
 يجب تكوين طرق الدفع للبضائع التي سيتم بيعها في قنوات Commerce المختلفة. يمكن لقنوات Commerce المختلفة فقط قبول أنواع دفع معينة بشكل افتراضي. على سبيل المثال، لا يمكن لطلبات التجارة الإلكترونية قبول النقد. 
 

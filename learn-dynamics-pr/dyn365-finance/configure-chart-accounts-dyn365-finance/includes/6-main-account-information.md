@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 827bb14a4ca560adeeaaf479f37b32a263491c7e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c2818dbf3f1b8a343b1cc2b04942df34e91f629327be3728feb729f7c6951c03
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093723"
 ---
 الحساب الرئيسي هو حساب في دفتر الأستاذ العام يُستخدم لتسجيل الحركات المالية أو الأرصدة أو الإجماليات التي تتعلق بالأصول والخصوم والإيرادات والمصروفات وحقوق الملكية. حدد المعلومات الخاصة بالحساب الرئيسي، مثل فئة الحساب الرئيسي وعناصر التحكم بالمدين والدائن والحسابات ذات الصلة.
 

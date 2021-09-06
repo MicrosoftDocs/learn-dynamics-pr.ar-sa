@@ -9,11 +9,11 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 791c094ce0c0244cf5893dc1ce2a316d8f6991d5
-  ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+  ms.openlocfilehash: 9576eb4c7e2ed9ff045f62b9334700a26dd36422c5b556991c881c7f5d6124a5
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6656568"
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7129904"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-enroll-employees.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f090cb31e8ab88020f5b60e2ca95e87f9b062c6
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e3e3555c1d275df093bc4f08f0534c468976931ca9047471755aef4909153edc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677543"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047914"
 ---
 تكون الوحدات النمطية في Finance على درجة عالية من التكامل، لذا تتم معالجة العديد من عمليات الترحيل تلقائياً. وتوجد أوقات يتم فيها ترحيل إحدى الحركات لكن لا يوجد حساب دفتر أستاذ محدد لتلك الحركة. 
 

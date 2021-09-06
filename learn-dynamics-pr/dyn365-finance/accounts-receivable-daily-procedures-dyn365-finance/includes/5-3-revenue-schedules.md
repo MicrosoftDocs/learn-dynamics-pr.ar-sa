@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 92e8e3a0aa461719f6307d75602797d757b55ecd
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6ed768d192924f6254d46d1b02776f95e63c8d60628cdcfc497999baa13e8548
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078859"
 ---
 يجب إنشاء جدول إيرادات لكل مرة يمكن تأجيل الإيرادات فيها. 
 

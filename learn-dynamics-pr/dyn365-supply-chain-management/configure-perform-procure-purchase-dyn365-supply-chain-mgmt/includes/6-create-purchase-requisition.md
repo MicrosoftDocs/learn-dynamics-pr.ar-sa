@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b66e64a8a08857f592d010f40b14a2f8500207a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 01cbbf77877d757c3d96e0bb29336fc0f9e3f0712a95beec86bbf637154f6b49
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667163"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078114"
 ---
 إذا كانت مؤسستك تتطلب أصناف غير مباشرة (أصناف غير مطلوبة بواسطة التخطيط الرئيسي)، فيمكنك إرسال طلبات شراء لهذه الأصناف. يمكنك أيضاً استخدام طلبات الشراء للمواد المباشرة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3f1e91d411573ff687de0c1c0f0ef8a2cad39aaf
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fcba9894b63cb219c6083b5c94dd25e572d7b905ce9f861359ae6e7e2599ad20
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667474"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119100"
 ---
 ## <a name="scenario"></a>السيناريو 
 وكمدير مستودع Contoso لعصير البرتقال، تحتاج إلى معالجة إيصال أمر شراء باستخدام جهاز محمول. لقد طلبت صندوق واحد من عصير الجريب فروت. سيكون هذا الأمر من المورد US-112 ويتم شحنه إلى المستودع 30. سعر الوحدة سيكون 2.50 دولار أمريكي لكل صندوق.

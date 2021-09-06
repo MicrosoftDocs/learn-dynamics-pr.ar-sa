@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 299e3d1ba9efeca62eae50e8da3fdedc690a1227
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 71ba269285a9b3399471504e241c40f8f6ff551428998232199251074883b509
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667263"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129322"
 ---
 لتحديد مبدأ التصنيع الذي ينطبق على الوجه الأفضل على منتج معين والسوق ذات الصلة، يجب عليك مراعاة متطلبات الإنتاج واللوجستيات، بالإضافة إلى توقعات العملاء حول أوقات التسليم. فيما يلي نظرة عامة على مبادئ التصنيع:
 

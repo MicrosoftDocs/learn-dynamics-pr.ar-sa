@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d5c2a03c492db1f11d22fb1eb45a9736755c5c05
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3e73308ca61c61197b7cf008e53808f52dbd88b8996cb41f0c117cdecf4fce9b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053402"
 ---
 تحتوي أكواد الفائدة على إعدادات تحدد متى يتم فرض فائدة، وكيف يتم حسابها على الحسابات المتأخرة.
 

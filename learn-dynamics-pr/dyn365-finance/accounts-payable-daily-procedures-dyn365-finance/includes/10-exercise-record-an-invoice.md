@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 250ce04e697eeea8f1595b715adc5a9dde9daf3d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 55ea1ab3b5e3534ee26bbb16eb819f60b5d99ad88bc763c101654bf699fe7a69
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677303"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109678"
 ---
 توضح لك الخطوات الآتية كيفية استخدام سجل الفواتير لتسجيل الفواتير ثم استخدام دفتر يومية الموافقة لتحديث حسابات المصروفات.
 

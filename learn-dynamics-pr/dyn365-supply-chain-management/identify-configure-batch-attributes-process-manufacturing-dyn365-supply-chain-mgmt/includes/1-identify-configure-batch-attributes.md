@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9885105bd876b4fa29b20cebdb81f8d26f1939a2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 28a67dee29edbc046f15d1d31f7416f1d8ae71b941cef92d66e6d6b13fe033da
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667752"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057552"
 ---
 سمات الدُفعة هي خصائص المواد الخام والمنتجات المنتهية التي تشكل دفعات المخزون. يمكن أن تختلف سمات الدُفعة وفقاً لعوامل مثل الظروف البيئية أو جودة المواد الخام المستخدمة في إنتاج المجموعة، أو نتيجة المنتج المنتهي.
 

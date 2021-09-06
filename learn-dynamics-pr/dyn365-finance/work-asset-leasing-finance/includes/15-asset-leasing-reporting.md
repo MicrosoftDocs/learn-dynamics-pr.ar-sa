@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cbee98970237c7fedb5de4e262df569d328409d2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: d5519fa31f959ea9817cf8889740072b7f4214529423ed60c6e10bb6f58777d0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677738"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136140"
 ---
 كما هو الحال بالنسبة لكافة الوحدات النمطية في النظام، فمن المفيد أن يكون لديك بيانات دقيقة، الوقت الحقيقي متوفرة لاتخاذ قرارات العمل، ولتحديد الفجوات الخاصة بالعملية، وللبحث عن إجابة للأسئلة التي قد تظهر لك. 
 

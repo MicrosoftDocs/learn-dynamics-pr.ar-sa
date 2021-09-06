@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d1d123f320e95d450c5ceecd758991b0f3d52fe4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b111eb971a088ddde3b3cbc24d532e0305c084efa65f4c991179d64ad5d9d0e0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667542"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062722"
 ---
 إن تقرير أمر العمل أحد التقارير الرئيسية لمستخدمي إدارة الأصول. وهذا التقرير يوفر معلومات تفصيلية حول أمر عمل واحد أو مجموعة محددة من أوامر العمل:
 

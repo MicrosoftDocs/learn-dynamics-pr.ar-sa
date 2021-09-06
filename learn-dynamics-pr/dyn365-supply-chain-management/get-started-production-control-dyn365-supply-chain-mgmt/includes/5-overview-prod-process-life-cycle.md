@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e4b9d616cd2861eb2d8643454bd4d61f2ae28050
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cf26bf1de2716b758cb0c484d9f66b0b463ebcd19c2ec975bbe02c7134ad56e1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667262"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046721"
 ---
 إنشاء أمر الإنتاج هو في الأساس طلب لبدء تصنيع كمية من الأصناف محددة في الأمر. يتم تضمين جميع المعلومات المرتبطة بالصنف الذي سيتم إنتاجه في أمر الإنتاج. تحتوي أوامر الإنتاج على قائمة بالمواد الخام من قائمة مكونات الصنف، أو معادلة قد تحتوي على منتجات مساعدة ومنتجات ثانوية والموارد التي سيتم استخدامها والمسارات والعمليات.
 

@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 65bc170f6b2cd8c940a079cf59ef19b0ab5075d1
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 11c1cefdb2853735411e5fdf81f166e37c3e529a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677669"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366453"
 ---
 من خلال طرح الأسئلة وجمع متطلبات العملاء، يمكنك تخطيط مخطط الحسابات الذي يناسب احتياجات العميل. في كثير من الحالات، يختار العميل ببساطة إحضار مخطط حساباته الحالي من النظام القديم إلى قسم الشؤون المالية. إذا كانت هذه هي الحالة، فكل ما تحتاجه هو البيانات المصدر التي تم إنشاؤها عن طريق استخراج البيانات أو تصديرها من النظام القديم بتنسيق مثل CSV أو Excel. 
 
 بعد ذلك، ربما بعد إجراء بعض عمليات التطهير وإعادة الهيكلة، اعتماداً على ما يريده العميل، يمكنك استخدام مساحة عمل **إدارة البيانات** لاستيراد البيانات إلى Finance. 
 
-لمزيد من المعلومات فيما يتعلق بإدارة البيانات، راجع [ترحيل البيانات والعرض المباشر باستخدام تطبيقات Finance and Operations](https://docs.microsoft.com/learn/paths/migrate-data-go-live-finance-operations/?azure-portal=true)
+لمزيد من المعلومات فيما يتعلق بإدارة البيانات، راجع [ترحيل البيانات والعرض المباشر باستخدام تطبيقات Finance and Operations](/learn/paths/migrate-data-go-live-finance-operations/?azure-portal=true)
 
 الأسئلة التالية هي أمثلة نموذجية لما يجب طرحه عند إجراء مقابلة مع الموظفين في قسم الشؤون المالية لعميلك:
 

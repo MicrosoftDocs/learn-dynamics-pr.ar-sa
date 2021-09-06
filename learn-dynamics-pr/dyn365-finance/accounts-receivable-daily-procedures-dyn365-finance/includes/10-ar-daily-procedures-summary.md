@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9753799c3a8839b10afbf4cae2be0dc6a4234c2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a0502bdd4491468bbfe9415f1acd15248c6c707715c3878e7954b933f1ab7153
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677264"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063739"
 ---
 في هذه الوحدة النمطية، تعلمت أن الحسابات المدينة في Dynamics 365 Finance توفر العديد من الخيارات المتقدمة، بما في ذلك:
 

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: e8d5dc6b4e5dabfbfa833b527591550f1b9f0541
-  ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+  ms.openlocfilehash: c7a7c906213a00716562d9caacb2cb1003e0ace4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/08/2021
-  ms.locfileid: "6446842"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7349122"
 title: مقدمة إلى Microsoft Dynamics ‏365
 summary: يُحدث Dynamics 365 ثورة في CRM وERP من خلال تطبيق الذكاء على جميع أشكال البيانات. فهو يمكن المؤسسات من التطور من قرارات الأعمال التفاعلية إلى الرؤى الاستباقية التي تسمح لموظفيك بتسريع نتائج الأعمال.
 abstract: >

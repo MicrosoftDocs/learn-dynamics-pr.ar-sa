@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c3d52971d047a665b90875128c9bd402e7520727
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: dbdb84a6d780ce83459dd308d23e7ea7c9060af0e2f1f1f8a42dccfd2455fb4b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677435"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047870"
 ---
 يمكنك استخدام الأزرار التي على علامة التبويب **تحصيل** في صفحة قائمة **كافة العملاء** للتنازل عن تكاليف أو عكسها أو إعادة المطالبة بها.
 

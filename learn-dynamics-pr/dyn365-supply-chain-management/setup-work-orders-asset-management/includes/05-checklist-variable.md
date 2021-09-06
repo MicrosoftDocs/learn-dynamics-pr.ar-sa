@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: adae353333b82c7b8eddda5260527e92bc75a7b3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7287ad7f04cbe22e682bb679a6aef8b0fc17853a8070f7bcead82427d6145c6b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667358"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062221"
 ---
 قبل أن تتمكن من إنشاء قائمة فحص الصيانة، يجب أن تحدد المتغيرات التي ستظهر في قائمة الفحص. يحتوي كل متغير على نطاق من النتائج ومجموعة من النتائج المحددة سابقاً.
 

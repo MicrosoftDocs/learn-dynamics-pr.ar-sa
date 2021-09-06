@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 29709d854b3ca1c2052c2802546b3066e66828c3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 61ab5ce62dffb7184a2f588f304387701241f4d41c8b22ff77b30dfbd92eae2f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087251"
 ---
 باستخدام التحكم في الموازنة، يمكن تكوين القواعد التي تمنع عمليات تجاوز الموازنة أو توفر تحذيرات عند استيفاء حدود الموازنة. يمكنك أيضاً إجراء عمليات فحص الموازنة على المستندات المصدر ودفاتر يومية المحاسبة التي تم تمكينها في تكوين التحكم في الموازنة.
 

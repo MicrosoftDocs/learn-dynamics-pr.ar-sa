@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b12b30a76a9c863d3d3246429e2788c7d444d4e3
-ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+ms.openlocfilehash: 05247aca638cb93d9c698b5779fca2e35dd1e6d40f4d7c461d62c6a0d988785b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "6072710"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074543"
 ---
 تتيح لك إدارة المزايا في Dynamics 365 Human Resources تقديم أنواع مختلفة من خطط المزايا للمساعدة في جذب قوة عاملة قوية والاحتفاظ بها.
 

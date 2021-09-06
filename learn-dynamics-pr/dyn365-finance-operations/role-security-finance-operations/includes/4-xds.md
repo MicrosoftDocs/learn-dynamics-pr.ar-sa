@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 29a710a8538d4ec352fd50b1f289bee7eedce3e8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 78d98fc5d7f6f9d922ffdb5afce8838b0a3ebcd2aad9d944729fdda995b132a8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071311"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068945"
 ---
 لمنح حق الوصول إلى الجداول والحقول والصفوف في واجهة مستخدم تطبيقات Finance and Operations، يتم استخدام التفويض. لتقييد الوصول إلى هذه العناصر أو رفض الوصول إليها، تحتاج إلى استخدام أمان البيانات. يمكنك تعيين سياسات أمان البيانات لأدوار الأمان باستخدام إطار عمل أمان البيانات القابل للتوسع (XDS).
 

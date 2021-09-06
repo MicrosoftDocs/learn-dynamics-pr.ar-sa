@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f6686aad545966f4c1c6a0935fe1268f2c152f6c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 364bfe8d204df071a94e201dcb1dfaabfced99af68d3088c35ab8f5539106c9f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677250"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078750"
 ---
 تعرفت في هذه الوحدة على كيفية تكوين خطابات الاعتماد وخطابات الضمان ومعالجتها في Dynamics 365 Finance.
 

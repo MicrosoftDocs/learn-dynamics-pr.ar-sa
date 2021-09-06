@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b47c0fd21b6a6bff9ebfe3a04e522f80dd56c61
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c8f98d03d6085168ec017c4391c1e50a1f1139d1dc4a700aeda3c35ae5107686
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677622"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136544"
 ---
 في هذه الوحدة النمطية، لقد تعلمت كيفية تسوية الحركات والتراجع عن التسويات وتوزيع الأموال باستخدام التوزيعات المحاسبية. 
 

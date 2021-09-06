@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2abdc47c0f6065f6b9a223685f1e1eb2e85f64f2
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 892f63a6c1394f66de10bcda895ea308e07c6dc93db42cd565d787ba125fc926
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131905"
 ---
 يجمع نظام العرض جميع مكونات نموذج الصفحة في صفحة HTML. يتوفر التخزين المؤقت القابل للتطوير لجعل موقع التجارة الإلكترونية سريعاً وسريع الاستجابة. تم تجهيز جميع المكونات الجاهزة بتكييف منفذ عرض سريع الاستجابة، مما يعني أنه يمكن عرضها بنفس الجودة على الأجهزة المحمولة وأجهزة الكمبيوتر اللوحية وأجهزة الكمبيوتر الشخصية والمزيد. 
 

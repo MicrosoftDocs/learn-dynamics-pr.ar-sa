@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df5d629e93f46cda159dc9264a8a4227066720dc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 21d523141182af2510a1ae0691a3215e7d07b1d7
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667638"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328041"
 ---
 مخزون الشحن هو المخزون المملوك لأحد الموردين ويتم تخزينه في موقعك. عندما تكون مستعداً لاستهلاك المخزون أو استخدامه، فإنك تتولى ملكية المخزون. 
 
@@ -42,7 +42,7 @@ ms.locfileid: "6667638"
 - **المنتجات المستلمة من مخزون الشحن**: تعرض معلومات حول الأصناف والكميات التي تم تحديث إيصالات استلام المنتجات لها أثناء عملية تغيير الملكية.
 - **مخزون الشحن الفعلي**: إظهار معلومات حول أصناف الشحن المتوقع تسليمها والأصناف المتوفرة فعلياً في موقع العميل.
 
-لمزيد من المعلومات حول تعاون المورد، راجع [تكوين وإدارة تعاون المورد في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-manage-vendor-collaboration-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول تعاون المورد، راجع [تكوين وإدارة تعاون المورد في Dynamics 365 Supply Chain Management](/learn/modules/configure-manage-vendor-collaboration-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 ## <a name="tracking-dimension-group"></a>مجموعة أبعاد التعقب 
 

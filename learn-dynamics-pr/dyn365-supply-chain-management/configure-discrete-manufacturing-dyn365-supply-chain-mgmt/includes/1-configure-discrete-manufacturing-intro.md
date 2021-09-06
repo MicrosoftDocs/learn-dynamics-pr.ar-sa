@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 62eb0bff83cf6d796dcfe940d27486beb91cd887
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cd9298751299a9bf9491d590f9dbb7e2949156d4218de6e5c37833915cd42bea
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668046"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124705"
 ---
 قبل العمل في الوحدة النمطية للتحكم بالإنتاج في Dynamics 365 Supply Chain Management، وإنشاء أوامر الإنتاج، فإنك بحاجة إلى إعداد محددات الإنتاج. ويكون للمحددات التي تعينها تأثير مباشر علي أمر الإنتاج ودورة حياة الإنتاج. يمكنك تعيين المحددات حسب الشركة أو حسب الموقع، الأمر الذي يحدد ما إذا كانت Supply Chain Management تستخدم المحددات علي مستوي الشركة أو المحددات الخاصة بالموقع.
 

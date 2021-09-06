@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 124cfc7c59309937366e39dadd7f3213956c632c
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 38a5f0a3521e55cb58dfb13ec10593df440fcd7af74cd1b2aca9b0bd9b667525
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070338"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144139"
 ---
 يمكن إلغاء أوامر مركز الاتصال أو إرجاعها. 
 

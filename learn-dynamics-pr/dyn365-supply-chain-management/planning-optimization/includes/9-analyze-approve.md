@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b705ebb85b1410ff90243d08ea3f5d3c21dd72d5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3c005cde93e92b07f3ab0e7a02a8490c975cb149a844a04e7ad3b3b97849a4f7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668442"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134774"
 ---
 بعد تشغيل "تحسين التخطيط" لأمر مخطط محدد، يمكنك تحليل الأمر والموافقة عليه.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df1c364fbf9ee90e04d54c31696fe94bf286840a
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: bcc92a8d14d5854fe1defb37efc4ac67fe8d07ed0501af5af630887acd38ef48
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072291"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109744"
 ---
 يوجد لدى تطبيقات Finance and Operations العديد من الطرق لتقييد وصول المستخدم إلى التقارير. يُستخدم التفويض لمنح حق الوصول إلى عناصر البرنامج من خلال أذونات الأمان. يتم دمج أذونات الأمان في الامتيازات التي يتم دمجها بعد ذلك في المهام‬. يمكن إضافة الأذونات، والامتيازات، والمهام إلى أحد الأدوار وتعيينها لأحد المستخدمين.
 يمكنك استخدام هذا الأمان المستند إلى الدور لمنح المستخدم حق الوصول إلى التقارير التي تستند إلى الأدوار.

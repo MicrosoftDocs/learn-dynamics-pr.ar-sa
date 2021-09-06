@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cd8af82aaf8014b72d46378c2d0847ff6d499225
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a25548ee1c4d3ae5d07f82b88d58caf8de772b8c3654ae33cbb9ca9491962696
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667665"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108424"
 ---
 يتم استخدام مستويات خدمة الأصل، المرتبطة بالأصول، في طلبات الصيانة وأوامر العمل لتحديد أولوية أوامر العمل أثناء جدولة أمر العمل. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c8215e444665e29b9ed3a16665142efb26177afc
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b78e354f6a3c3cc3399f10a3fece8a9cc193ff47bef7a19d292be60f940304f7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074659"
 ---
 ## <a name="scenario"></a>السيناريو
 تحتاج إلى إعداد محاسبة بين الشركات الشقيقة بين **USP2** و **USMF** واستخدامها. تستخدم هاتان الشركتان مخطط الحسابات نفسه. وستقوم بما يلي: 

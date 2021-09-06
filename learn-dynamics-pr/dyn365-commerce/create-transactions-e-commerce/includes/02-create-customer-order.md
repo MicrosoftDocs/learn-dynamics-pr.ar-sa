@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1abc5acf409399c6ab7954e2862e22cb5dd87a49
-ms.sourcegitcommit: 4ce9caef7d38158f172e82412bc70ae36883e42f
+ms.openlocfilehash: 97f5ce7b9c7ec03c6b95f58fbf8e726a0df987e8b395c2e9a30159221c09b895
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "6070425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7070434"
 ---
 لإنشاء أوامر العميل الخاصة بالتجارة الإلكترونية (عملية الانتقاء والشحن)، اتبع الإجراء التالي:
 

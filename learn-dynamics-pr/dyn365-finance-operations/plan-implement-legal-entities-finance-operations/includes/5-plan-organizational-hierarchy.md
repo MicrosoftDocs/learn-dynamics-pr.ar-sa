@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3d6e4a896d35ff0394b2a010e38e0d453bab8599
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ec25c75e4bb34f9fa04639ea78ae367f4dc00f3d0f72410559561aa204910a8e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071177"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094146"
 ---
 قبل إعداد المؤسسات والتدرجات الهرمية للمؤسسة، تأكد من تخطيط الطريقة التي ستُشكَّل بها شركتك. لنموذج المؤسسة تأثير كبير على تنفيذ تطبيقات Finance and Operations، وعلى العمليات التجارية
 

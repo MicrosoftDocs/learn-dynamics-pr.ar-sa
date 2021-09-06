@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0c69b8f065666baa07b334f8504164450f6390f2
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: bea27286efcdbc040c83ab4dc4f5306bc792e390
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071920"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326514"
 ---
 يمكن أن يكون إنشاء الامتدادت عملية بسيطة للمساعدة في تخصيص واجهة مستخدم تطبيقات Finance and Operations. نظراً لتوفير تطبيقات Finance and Operations كتطبيق خدمة تأجير البنية التحتية (IaaS)، فإنه يتم إجراء التحديثات بانتظام. يمكن أن يتسبب تراكب الأكواد الأساسية في حدوث تعارضات ومشكلات في التحديث ويمكن أن يؤدي إلى عمل إضافي للمطورين. غالباً ما توفر لك الامتدادات المال لأنه لا يتعين عليك قضاء الوقت في إصلاح الأكواد المتراكبة التي تعطلت أثناء التحديث.
 
@@ -16,10 +16,10 @@ ms.locfileid: "6071920"
 
 | الموضوع | الارتباط  |
  | ------------- | ------------- |
- | قابلية التمديد | [الصفحة الرئيسية لقابلية التمديد](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-home-page/?azure-portal=true)|
- | إرسال طلب لنقاط الامتداد الجديدة | [طلبات قابلية التمديد](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-requests/?azure-portal=true)|
-| كيفية تجنب التخصيصات المتداخلة‬‏ | [تخصيصات متداخلة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/intrusive-customizations/?azure-portal=true)|
- | مخطط قابلية التمديد | [خطة قابلية تمديد التطبيق](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-roadmap/?azure-portal=true)|
+ | قابلية التمديد | [الصفحة الرئيسية لقابلية التمديد](/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-home-page/?azure-portal=true)|
+ | إرسال طلب لنقاط الامتداد الجديدة | [طلبات قابلية التمديد](/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-requests/?azure-portal=true)|
+| كيفية تجنب التخصيصات المتداخلة‬‏ | [تخصيصات متداخلة](/dynamics365/fin-ops-core/dev-itpro/extensibility/intrusive-customizations/?azure-portal=true)|
+ | مخطط قابلية التمديد | [خطة قابلية تمديد التطبيق](/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-roadmap/?azure-portal=true)|
 
 
 لمزيد من المعلومات حول الامتدادات، انتقل إلى الوحدة النمطية التالية في هذا المسار التعليمي حول تمديد العناصر.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4f4e8f8ec35a765a005ac390d18298e21c4c507d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3257e765ab93d646d3d27727f6e556d1a893d76b3eda0d804155be4323790ef3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677370"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078709"
 ---
 تسمح لك التدرجات الهرمية المالية المشتقة بإنشاء فئات إضافية تشبه الأبعاد، ثم ربطها بقيم الأبعاد الحقيقية؛ والتي تتوفر بعد ذلك في Power BI لإعداد تقارير بشأنها والتحليل بناءً عليها.
 

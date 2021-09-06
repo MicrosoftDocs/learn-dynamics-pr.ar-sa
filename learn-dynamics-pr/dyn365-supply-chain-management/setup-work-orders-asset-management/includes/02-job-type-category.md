@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e2f07e1acc4fd98ed65f55baaa5ef6f09867f113
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 277de546180d8fa7f88e00b401f7ae8bda408831b6370d6d9ddf5824e950e10d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667106"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062247"
 ---
 تقوم فئات نوع مهمة الصيانة بتجميع أنواع مهام الصيانة المختلفة المرتبطة بأنواع الأصول معاً. وقد تختلف الصيانة المطلوبة في الرافعة الشوكية عن تلك الخاصة بسير الناقلة. قد تشتمل أمثلة فئات نوع مهمة الصيانة على **الخدمة** أو **الصيانة الوقائية** أو **التصحيحية**.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cbdc45bb002b3546aadf9c7cc9706d1f498dedce
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 020630415118d9527fb739683774231e2cc628100d013f6705b4a5e252a4934f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677556"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109696"
 ---
 يمكنك استخدام مطابقة المصاريف الفواتير للمساعدة في التأكد من أن إجمالي مبالغ التكلفة لا ينحرف عن المبالغ المتوقعة بأكثر من نسبة التباين المقبولة. تتم مقارنة المبالغ الإجمالية لكل كود مصاريف ينطبق على الفاتورة وأمر الشراء في الصفحة **مقارنة قيم المصاريف - الفاتورة**.
 

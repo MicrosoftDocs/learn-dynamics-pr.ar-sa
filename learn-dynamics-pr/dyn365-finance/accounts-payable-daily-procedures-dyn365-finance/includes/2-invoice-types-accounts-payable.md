@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f26f74a4be2b881213558450e37fb4b3161bb49
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 15774d9431361b3f44c5f321f66f39c448d2bba1d04cd0025bd97f5d53a71287
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677517"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136538"
 ---
 يختلف إجراء معالجة الفواتير الواردة من شركة إلى أخرى، اعتماداً على حجم الشركة وهيكلها وتنظيمها. عادةً ما تكون الفواتير بإحدى الحالات التالية.
 

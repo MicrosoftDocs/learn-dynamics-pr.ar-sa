@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 565291165cbaec93fe6bb9e2a710ce0950393ebd
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 889197179568f190351bdc86cf17cc3ca123754b44a4b5a0055d2a0053489102
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677676"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058730"
 ---
 في الميزانية العمومية للشركة، يتم تقسيم الأصول إلى مجموعتين:
 

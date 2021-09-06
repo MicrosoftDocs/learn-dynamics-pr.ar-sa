@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1f6e938b0fdff78e96afd71dee664720b0007d08
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 12fc5d2f4582a5969f8df7388eb354249fdf336d721b69ea6d5e401dfe4687bd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667816"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103645"
 ---
 
 تحسب تكاليف الإصدار التلقائي الكميات غير المستخدمة من المواد التي لا تزال ضمن تدفق الإنتاج في تاريخ انتهاء الفترة. ولإنجاز هذه المهمة، يتم حساب كميات مكافئة من المواد للمنتجات غير المكتملة التي لا تزال قيد المعالجة.

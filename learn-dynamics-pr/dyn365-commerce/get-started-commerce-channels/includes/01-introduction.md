@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d7f69ef4ff21c3fe1b9690aff7dec3c1b4dc35d0
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4a6ebd6cb7c7d4de37a96d316e4e3894952bd6b44ee24e4db87ab1042cf4537b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6650574"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126879"
 ---
 يدعم Dynamics 365 Commerce ثلاثة أنواع مختلفة من القنوات: على الإنترنت ونقطة البيع بالتجزئة ومركز الاتصال.
 

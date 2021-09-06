@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 57018ac3f8c07a9c21922a43e485ca117112349b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2ee4d82d7153ab6a3c988095b40c2689a205068b5dd54ccca6599c273cf87eef
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667221"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057385"
 ---
 عندما يقرر عامل أن الصيانة مطلوبة، فإنه يقدم طلباً إلى المدير أو المخطط المسؤول عن مراجعة الطلبات وتحديد ما إذا كان أمر العمل ضرورياً وأنه يلزم تعيين الإصلاحات. على سبيل المثال، إذا تعطل جهاز في خط المستودع، يمكن للعامل إرسال طلب صيانة لخدمة الجهاز. 
 

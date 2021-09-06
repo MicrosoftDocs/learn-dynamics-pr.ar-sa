@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d6bb9f30272d0621a7ad4ab3621d0561774d1b10
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: 5cc58716713d507c9c05b279af5d74a1b8f3a4cb27e718430154b405a21d1990
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691168"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136010"
 ---
 في بعض الأحيان، يتم شغل الوظائف المفتوحة من قبل موظفي شركتك.
 يوضح هذا الإجراء الخطوات التي يتم تنفيذها في توظيف موظف موجود أثناء عملية التعيين. تم إعداد مشروع تعيين في هذا الإجراء، وقد تقدم موظف حالي بطلب للحصول على المشروع. إن شركة بيانات العرض التوضيحي المستخدمة لإنشاء هذا الاجراء هي USMF.

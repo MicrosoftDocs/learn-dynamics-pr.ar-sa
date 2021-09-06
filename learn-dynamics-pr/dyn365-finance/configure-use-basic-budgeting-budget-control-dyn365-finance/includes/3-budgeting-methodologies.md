@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cdd412321d1e8a146a6879ed4e16ccc01c428a65
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ee60c50ee4c4e110fb8eed3fc546e4f9a992d35f7f21757f234a7162cdd4c0fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677164"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109582"
 ---
 تتوفر العديد من المنهجيات لتعريف الموازنات في مؤسستك. تم وصف طريقتين من هذه الطرق:
 

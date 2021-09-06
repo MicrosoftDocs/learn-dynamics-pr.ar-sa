@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4c6a836c205cb4ca1d0bbd85dab1f7268e3b457
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 1bad5f70109ccd2308702b5c76ce0264d3cf6d50
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072915"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7348877"
 ---
 في عرض الأسعار المستند إلى المشروع، يمكنك استخدام الكيان **تفصيل بند عرض الأسعار** لتقدير العمل المطلوب من أجل تسليم المشروع. بعد ذلك، يمكنك مشاركة هذا التقدير مع العميل.
 
@@ -83,4 +83,4 @@ ms.locfileid: "6072915"
 2. في علامة التبويب **تقديرات المواد**، اعرض قائمة تقديرات مواد المشروع.
 3. حدد **تقدير مواد جديد** لإنشاء تقدير مواد جديد. أو، حدد تقدير مواد لحذفه، ثم حدد **حذف تقدير المواد**.
 
-لمعرفة المزيد حول الحقول الموجودة في بند **تقدير المواد** على المشروع، راجع [التقديرات المالية للمواد على المشاريع](https://docs.microsoft.com/dynamics365/project-operations/project-management/create-material-estimate/?azure-portal=true)
+لمعرفة المزيد حول الحقول الموجودة في بند **تقدير المواد** على المشروع، راجع [التقديرات المالية للمواد على المشاريع](/dynamics365/project-operations/project-management/create-material-estimate/?azure-portal=true)

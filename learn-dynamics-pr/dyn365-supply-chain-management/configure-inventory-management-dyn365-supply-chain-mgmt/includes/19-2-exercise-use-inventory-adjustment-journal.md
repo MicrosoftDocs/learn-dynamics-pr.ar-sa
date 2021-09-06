@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ba154869960011f8f51f431c44510b265295670b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c6119f753df8122c754fc7bb15d1a53dbd2a604d4017660394a426f029bd4546
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667365"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139967"
 ---
 ## <a name="scenario"></a>السيناريو
 بصفتك مدير مستودع في شركة **USMF**، فأنت بحاجة إلى ضبط مستويات مخزون المنتجات في المستودع. 

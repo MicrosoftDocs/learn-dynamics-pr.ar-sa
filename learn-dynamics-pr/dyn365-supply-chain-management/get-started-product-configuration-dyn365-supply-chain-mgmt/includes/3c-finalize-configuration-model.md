@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d23672494121ad94c9d78ff13c4740ea266561ab
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9912e471df092deb6eeef47b2dbb79d5e6daff84f4c704c7d19e148d3764693a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667923"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119498"
 ---
 عندما يكون نموذج تكوين المنتج جاهزاً للاستخدام في سيناريوهات التكوين حسب الأمر، عندئذ يجب إنشاء إصدار. مع ذلك، يوجد العديد من الخيارات التي يمكنها تحسين تجربة التصميم.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b196f67ea3e3f0546fbb785a475dfb1860755c7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ac5d0c38e2e1508c373ce427f5362d79fbc7ab0097de0c6fc50914486b1dc084
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668154"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067456"
 ---
 يتبع إنتاج الأصناف دورة حياة إنتاجية متسلسلة. تعكس دورة الحياة الخطوات الفعلية التي يتم اتخاذها لتصنيع أحد الأصناف. وتبدأ بإنشاء أمر إنتاج، وتنتهي بصنف منتهٍ ومصنع جاهز للعميل. تتطلب كل خطوة في دورة الحياة أنواعاً مختلفة من المعلومات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 62d8cd298b5006fe3d9d633b3d67e48a947dffb9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 23d13574f5b452a88295a4e39fc89906e098b799c77bbc9549977962ae64d797
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677338"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099554"
 ---
 في هذه الوحدة النمطية، تعرفت على جميع المكونات بما في ذلك الفائدة وخطابات التحصيل وتسلسلات خطاب التحصيل التي يجب تكوينها بهدف استخدام "الوحدة النمطية لعمليات التحصيل والائتمان" في Dynamics 365 Finance.
 

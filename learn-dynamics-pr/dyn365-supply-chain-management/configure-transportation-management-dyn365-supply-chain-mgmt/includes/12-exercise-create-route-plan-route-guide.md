@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f59fad3680928fea36ae4f2c605a727516635ad3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 527647eef06a5744641a4fad9b0993da89b24bed5b94c0b76487487928d0552a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668331"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091976"
 ---
 ## <a name="scenario---create-a-route-plan"></a>السيناريو - إنشاء خطة توجيه
 

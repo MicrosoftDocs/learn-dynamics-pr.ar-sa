@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 15f0147bd241b934208d47ad2334b626c59a4d7b
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 25bb7c29933b989859bc7e906064c9c2580429144ad6bac4d3fb711672e49996
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072312"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059221"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
  يفترض هذا التمرين أن لديك بالفعل عملية توزيع تطبيقات Finance and Operations عاملة. 

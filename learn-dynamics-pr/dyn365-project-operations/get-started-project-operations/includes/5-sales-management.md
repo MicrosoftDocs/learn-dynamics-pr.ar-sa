@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9fef63e60a5bdc0e7215b0a0e7993b2edecae6f9
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: b6d6789fa7a63308aebb057d6e1467510baef658
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072918"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7337575"
 ---
 تختلف عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المشروع عن عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المنتج. والسبب في ذلك أن دورات المبيعات الخاصة بالمؤسسات المستندة إلى المشروع أطول، وتتطلب تقنيات تقدير مخصصة لتحليل عروض الأسعار وإنشائها لكل صفقة. تستخدم Project Operations بعض الوظائف التالية المستخدمة في عملية مبيعات:
 
@@ -72,7 +72,7 @@ ms.locfileid: "6072918"
 
 
 > [!NOTE]
-> يمكنك تحرير سير إجراءات العمل للمنتج أو إنشاء عمليات سير إجراءات العمل الخاصة بك لتعقب عملية المبيعات الخاصة بك، حسب الضرورة. لمزيد من المعلومات، راجع [نظرة عامة حول عمليات سير إجراءات العمل.](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/business-process-flows-overview/?azure-portal=true) 
+> يمكنك تحرير سير إجراءات العمل للمنتج أو إنشاء عمليات سير إجراءات العمل الخاصة بك لتعقب عملية المبيعات الخاصة بك، حسب الضرورة. لمزيد من المعلومات، راجع [نظرة عامة حول عمليات سير إجراءات العمل.](/dynamics365/customerengagement/on-premises/customize/business-process-flows-overview/?azure-portal=true) 
 
 ## <a name="project-quotes"></a>عروض أسعار المشروع
 
@@ -168,4 +168,4 @@ ms.locfileid: "6072918"
 > [!NOTE]
 > يتم بناء العقود في Project Operations في **الأوامر** في Dynamics 365 Sales. ومع ذلك، ستحدث انحرافات واختلافات مهمة في الوظيفة. تحتوي العقود على النموذج - وعناصر واجهة المستخدم وقواعد العمل ومنطق الأعمال في المكونات الإضافية والبرامج النصية من جانب العميل - الخاصة بها، والتي تجعلها مختلفة عن **الأوامر**. لهذه الأسباب، لا تستخدم أمر Sales وعقد Project Operations بالتبادل.
 
-يمكنك معرفة المزيد حول إدارة مبيعات المشروع في الوحدة النمطية [البدء في العمل باستخدام إدارة مبيعات المشروع في Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-project-sales-management//?azure-portal=true).
+يمكنك معرفة المزيد حول إدارة مبيعات المشروع في الوحدة النمطية [البدء في العمل باستخدام إدارة مبيعات المشروع في Dynamics 365 Project Operations](/learn/modules/get-started-project-sales-management/?azure-portal=true).

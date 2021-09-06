@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 488a267a9d2052a19de57d79873eebca967c8309
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f77cfc1e369b1df28be0d1e61a1b7633ecf6919bc1c3e1d1a3c349a280b76356
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667261"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057713"
 ---
 فيما يلي خصائص التصنيع المنفصل:
 

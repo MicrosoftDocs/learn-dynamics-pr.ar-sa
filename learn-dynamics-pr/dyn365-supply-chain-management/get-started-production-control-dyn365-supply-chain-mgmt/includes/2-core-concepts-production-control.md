@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9cbeec125ba8208db280805f16e7aa99b105956a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b7157fe944ef4da0bd0ec828a537173670e25d58b7e94344e977d4e7a27f0c4e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667265"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062885"
 ---
 على الرغم من تفرد عمليات التصنيع لكل شركة، تبعاً لطبيعة بيئة التشغيل، فإن العناصر التصورية الأساسية المستخدمة في وحدة التحكم في الإنتاج متشابهة في كثير من الأحيان.
 

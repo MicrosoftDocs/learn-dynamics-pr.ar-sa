@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0a594612c44be07550b6f8cf6dae134fba3f9d9b
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: 6d661616d428c09c61045c3b1c97c8a15a240975da547ce96691e33dfdfbea4f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092503"
 ---
 في هذا التمرين، ستقوم باستيراد وتحديث بيئة Project Operations باستخدام أداة ترحيل التكوين (CMT). ستقوم بعد ذلك بتحديث إعدادات تكوين Project Operations وإنشاء/تكوين مستخدمي العرض التوضيحي.
 

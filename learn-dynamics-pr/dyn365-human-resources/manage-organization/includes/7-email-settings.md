@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee449351cb62ce08e2f7e678144d307952cefc5c
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 2ee4f3338544b5e9c9bfd974c637c140e2b4f8b8
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693272"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334156"
 ---
 أصبح البريد الإلكتروني جزءاً لا يتجزأ من الحياة اليومية للعمل، وينفرد Dynamics 365 بالإمكانات التي تعزز استخدامك للبريد الإلكتروني كجزء من تكامل Microsoft 365 المتوفر. تتناول هذه الوحدة خيارات التكوين المختلفة المتوفرة.
 
@@ -230,4 +230,4 @@ ms.locfileid: "6693272"
 > [!NOTE]
 > لا يتم اعتماد موفر البريد الإلكتروني Exchange للمستخدمين الخارجيين لأنه لن يكون لديهم حسابات Exchange ضمن المستأجر هذا.
 
-للحصول على مزيد من المعلومات، راجع [استكشاف أخطاء البريد الإلكتروني وإصلاحها](/dynamics365/fin-ops-core/fin-ops/organization-administration/configure-email?toc=/dynamics365/commerce/toc.json/?azure-portal=true#troubleshooting).
+للحصول على مزيد من المعلومات، راجع [استكشاف أخطاء البريد الإلكتروني وإصلاحها](/dynamics365/fin-ops-core/fin-ops/organization-administration/configure-email?toc=/dynamics365/commerce/toc.json&azure-portal=true#troubleshooting).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: feddf91f270e604d3c351c52a5aa347733a9ccc4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: bc08259950bcbb766a9e6e729764fc3691d3e39a0fe7034761e18afcf5ce2f85
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677786"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053136"
 ---
 
 الأصول الثابتة هي أصناف لها قيمة، مثل المباني والمركبات والأراضي والمعدات، التي يمتلكها أحد الأفراد أو إحدى الشركات.

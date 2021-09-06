@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 820173f007558d06a1f112220c78f7e2e36ed779
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 021780189a2f7dd9c7530f705a2c4c0e637b5d68829f702e8586318afc483371
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677227"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058769"
 ---
 يؤدي التحقق من صحة رقم الحساب المصرفي الدولي (IBAN) إلى زيادة مقدار التحقق من الصحة الذي يتم إجراؤه عند إضافة رقم IBAN إلى حساب بنكي.
 

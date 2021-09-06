@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: b3695a7d5ed2ac195fe7b69554fbfc1ddc51f9c3
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: d8f7b9a67950b9f46184e2f29d2ec18fb23c6dbf
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6256416"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352719"
 title: تخطيط الأمان في تطبيقات Finance and Operations وتنفيذه
 summary: "[!include[](../includes/module-banner.md)]\n\nإذا كنت تفهم بنية الأمان لتطبيقات Finance and Operations، فيمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات Finance and Operations في الحفاظ على أمان بياناتك الحساسة، ويركز المستخدمون على أدوارهم. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم بنية الأمان لتطبيقات Finance and Operations\n- إدارة المستخدمين\n- إدارة الأمان\n- تطبيق الفصل بين المهام\n- تشغيل تقارير الأمان\n"

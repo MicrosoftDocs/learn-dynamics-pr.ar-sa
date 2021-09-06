@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b4c6ca90e3a5aebaf6bff349082bc8dc9d2449a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 97b07f59b0b49031f37ceda0763cc8079517306b141254dd7046254cbb350c19
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677379"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082663"
 ---
 
 تؤدي التقلبات في أسعار الصرف إلى تغير القيمة النظرية (القيمة الدفترية) للمعاملات المفتوحة بالعملات الأجنبية بمرور الوقت. توفر هذه الوحدة معلومات حول عملية إعادة تقييم العملة الأجنبية التي يمكنك تشغيلها لتحديث قيمة المعاملات المفتوحة في الحسابات الدائنة والحسابات المدينة ودفتر الأستاذ العام.

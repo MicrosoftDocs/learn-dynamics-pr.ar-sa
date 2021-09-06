@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 27e166bed61f1497877271831b373352cdf339d2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b1b7a73ebbb3ff5c80cd6a698d55c8e4748a722b1abda83a55ea33d414875a56
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667805"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139715"
 ---
 ‏‫إدارة عقد حقوق الملكية‬ مخصصة للشركات التي تمارس الحق في استخدام أصول و/أو ملكية فكرية لطرف ثالث. تساعد الشركات على إدارة اتفاقيات حقوق الملكية الخاصة بهم بشكل أفضل من خلال التنفيذ التلقائي للمهام التي تشارك في إدارة وتعقب وتسديد مدفوعات الملكية.
 

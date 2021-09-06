@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4314e2013b5620a00a77d97a99b46e93963de0ec
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5462f83044873f28bd445f7eef2b4046c613b504a8073a3eb658a79e62c67c7a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046410"
 ---
 اتبع الخطوات الآتية لإنشاء الإعدادات الافتراضية لنوع الأصل: 
 

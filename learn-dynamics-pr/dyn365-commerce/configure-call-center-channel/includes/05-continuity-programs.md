@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7ad6519ffe8aa9eb6877932442931e52f7e20027
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: fac21f112315077800ee9d4300d3e48f07fc685b38248ba660d25b506a51faf9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101659"
 ---
 في برنامج الاستمرارية، المعروف أيضاً باسم برنامج الأمور المتكررة، يتلقى العملاء شحنات منتجات منتظمة وفقاً لجدول زمني محدد مسبقاً. توفر برامج الاستمرارية القدرة على إنشاء جداول الاستمرارية التي ستحتوي على شحن ودفع مجدولين. 
 

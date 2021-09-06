@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1341c93b118b02d2de87ffcf22dd920d60ca7195
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 0aedd22e8bdeaaafb3e5ab8ac8a21576b26e4a61f9d1dde99ababd292c3bb9d4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656569"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115536"
 ---
 يمكنك الآن تعيين موظف إلى خطة تعويض واحدة أو أكثر في Dynamics 365 Human Resources. يعرض حقل **خطط التعويض** لسجل الموظف الخطط التي يكون الموظف مؤهلاً لها بموجب قواعد الأهلية التي تم إعدادها لكل خطة. إذا لم يتم إعداد قواعد الأهلية لخطة، فلن يكون أي موظف مؤهلاً لتلك الخطة.
 
