@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 96da30c8e1d733a2e5f96a93370abe3a03644998
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1cb8d756972ba260167c33745e3cc5469ac9b3b4c2293dc37af85c3da3cbc02f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667782"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051973"
 ---
 يتم استخدام وظائف كانبان للتصنيع لإضافة قيمة إلى أحد المنتجات ويتم التخطيط لها على لوحة جدولة كانبان. 
 

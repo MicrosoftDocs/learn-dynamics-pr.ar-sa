@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 26daf38da6e74f86b9294dc27619b0d0b653ed5d
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 59810a1270c16dbe5371009cf346b197c73ffbb5
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071259"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7332069"
 ---
 أثناء مرحلة اختبار قبول المستخدم (UAT)، يتعين عليك اختبار كافة العمليات التجارية التي قمت بتنفيذها، وأي تخصيصات قمت بها، في بيئة اختبار معزولة، أو بيئة اختبار القبول القياسي، في مشروع التنفيذ. للمساعدة في ضمان إجراء العرض المباشر بنجاح، يجب مراعاة ما يلي عند إكمال مرحلة اختبار UAT:
 
@@ -22,4 +22,4 @@ ms.locfileid: "6071259"
 - لا يمكن قياس أداء النظام عند إجراء اختبار UAT على الأجهزة الظاهرية المحلية (VMs) أو الأجهزة الظاهرية المستضافة بشكل خاص.
 - لتفادي حالات التأخير خلال عملية التكوين المرحلي، من المهم أن يختبر الفريق الخدمة في LCS أثناء التنفيذ. وتتضمن هذه الخدمة عمليات تطبيق الحزم القابلة للنشر وإنشاء طلبات الخدمة ونقل قواعد البيانات بين البيئات.
 
-لمزيد من المعلومات حول اختبار قبول المستخدم (UAT)، راجع [تنفيذ اختبار قبول المستخدم في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/perform-uat-finance-operations/?azure-portal=true).
+لمزيد من المعلومات حول اختبار قبول المستخدم (UAT)، راجع [تنفيذ اختبار قبول المستخدم في تطبيقات Finance and Operations](/learn/modules/perform-uat-finance-operations/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d239f325eec63df357a35e3217fb0d961fa41e61
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 4158c486c8cba23d7148e72b082feceebf809410f7759aae3faee16c41138d5c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071811"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130495"
 ---
 ## <a name="scenario"></a>السيناريو
 طلبت إدارة الموارد البشرية في شركة USMF تعيين المستخدمين ديناميكياً إلى دور المشرف على المحاسبة بناءً على معيار تُحدده إدارة الموارد البشرية. إقران دور المشرف على المحاسبة بناءً على القاعدة التي حددتها إدارة الموارد البشرية للموظفين المختارين.

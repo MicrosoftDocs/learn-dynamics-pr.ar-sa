@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 21b9a39119ed91e2688e8cc8a16a3b4a8792ecef
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 323c8cab0aa74ab47894b4b5eedfcdbdd211ecbe
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677448"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7342485"
 title: تكوين العملات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي السوق العالمي اليوم، تتلقى الشركات المدفوعات وترسلها باستخدام عملات مختلفة. يجب إدارة أسعار الصرف بشكل صحيح لتقليل الخسارة المالية عند قبول عملات متعددة. يمكن أن يساعدك فهم كيفية التنبؤ بمقدار الخسارة أو المكاسب الناتجة عن التغييرات في قيم أسعار الصرف على اتخاذ قرارات عمل ذكية للتعامل مع الخصومات والمدفوعات النقدية. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- أنواع مختلفة من العملات في Finance.\n- مفهوم عملة التحويل الثلاثي.\n- كيفية إعداد عمليات التحويل والعملات الخاصة بالكيان القانوني.\n- كيفية تكوين موفري أسعار الصرف.\n- كيفية استيراد أسعار الصرف من الموفرين.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a2e6255ab29087c39b7987ffae29bd98119a0117
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 78f1a428436a9eaea2d64c31cd8c9c27da6d4a02933926331b53e13f433ec406
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667393"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108537"
 ---
 يمكنك حساب تكاليف الميزانية في أي من بنود جدول الصيانة. تساعدك هذه الطريقة في الحصول على نظرة عامة حول التكاليف المتوقعة في الصيانة الوقائية المخططة لسنة معينة، مثلاً. وتعتمد هذه التكاليف على البنود المجدولة الحالية في خطط الصيانة ودوراتها وطلباتها.  
 

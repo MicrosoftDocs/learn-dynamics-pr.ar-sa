@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3760072aad73f948d8671a042fa13c2f5a46eb34
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 28031d447b0334c245746c30561373a2f963aff802efbc38583daffdce612680
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667505"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057956"
 ---
 يقوم استهلاك الخطوة باستبعاد المتطلب الذي يجب إدخال كميته في علامة التبويب **بند المعادلة** لأحد المكونات. وبدلاً من ذلك، يتم تكوين استهلاك الخطوة بحيث يكون له قيمة من **السلسلة** و **الكمية**. 
 

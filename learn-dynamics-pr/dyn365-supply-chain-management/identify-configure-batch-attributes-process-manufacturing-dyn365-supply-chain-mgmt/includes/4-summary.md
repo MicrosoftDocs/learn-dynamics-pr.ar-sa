@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc7d7c47157458584a216d7be1352b8339ba4589
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3454042f647d151c92612ecfb35e70826124d0bc583ea8617326471225e3d5dd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667249"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119406"
 ---
 للتأكد من أن شركات التصنيع التحويل تلبي متطلبات العملاء، يجب عليك تحديد سمات الدُفعات التي تحدد متطلبات العملاء. بعد فحص الجودة، يجب أن تتأكد أيضاً من أن البضائع النهائية تلبي القيمة أو نطاق القيم من سمات الدُفعات.
 

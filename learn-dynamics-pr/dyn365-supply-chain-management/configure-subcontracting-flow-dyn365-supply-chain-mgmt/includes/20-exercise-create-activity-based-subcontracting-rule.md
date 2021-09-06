@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1051b0c7d1fb946f463d4f5254f7036ac1813646
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 82bd74b620af99a8a7d1d32fd0a45cd2e9a64a393138c0408f2d6012f87de034
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667619"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103616"
 ---
 > [!NOTE]
 > قبل أن تبدأ هذا التدريب، يجب أن تكون قد أكملت التدريب السابق، **إنشاء خلية عمل لتعاقد من الباطن**.

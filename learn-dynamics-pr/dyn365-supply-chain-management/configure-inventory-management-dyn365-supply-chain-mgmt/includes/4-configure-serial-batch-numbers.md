@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3e3397e37d4a166e9293401d694c87f4d4a5573b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9e71b130ca8c91072aba86b2436c2e33f3f80735122551786e8b131d469962a7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667867"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103779"
 ---
 يتم تعيين أرقام الدُفعات إلى مجموعات من الأصناف المادية ويتم تعيين الأرقام التسلسلية إلى أصناف مادية فردية. بعد ذلك، يتم تحديد هذه الأرقام في حركة المخزون لتحديد المنتج الجاري استلامه أو تسليمه.
 

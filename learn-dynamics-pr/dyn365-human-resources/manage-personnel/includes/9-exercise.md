@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b913f1dc728cf6577e61d6e200b25697d6a303e2
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: ab7211e140206f3f286b0b77f847946b8315373d49ff728d5710df7d3e43f10b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691176"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141027"
 ---
 يمكن لمسؤولي التوظيف إنشاء وظائف متعددة بسهولة وتوظيف العديد من الموظفين في تلك المناصب باستخدام مشاريع التوظيف الجماعي. يرشدك هذا الإجراء خلال خطوات إنشاء مشروع توظيف جماعي. لبدء هذا الإجراء، انتقل إلى **الموارد البشرية > التوظيف > مشاريع التوظيف الجماعي**. إن شركة بيانات العرض التوضيحي المستخدمة لإنشاء هذا الاجراء هي USMF.
 

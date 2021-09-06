@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad3a91e309df2a05fbceec78b5fd461552611a0e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 09ef23966d8893005c5b3e59a924da829bfff1aa822b02bfdcd420b9eacee914
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135464"
 ---
 في شركة **USP2**، تم تحديد أنه سيتم وضع تحكم المورد المعتمد على الصنف M7001، مع كون المورد المعتمد هو US-113. قم بإنشاء قائمة الموردين المعتمدين (AVL) للصنف وقم بتعيين **طريقة التحقق من المورد** إلى **تحذير**.
 

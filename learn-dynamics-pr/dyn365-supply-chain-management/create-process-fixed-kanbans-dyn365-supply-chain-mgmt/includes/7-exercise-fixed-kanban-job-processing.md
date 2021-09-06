@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5fbde593882a4a922fe3547b6f65af63bad709f8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e3b90a70cd250203e9b5386ebf0a9687eb5936162df55cfaa68d1a2ab69421e9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667587"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051979"
 ---
 ## <a name="kanban-processing-on-the-kanban-board-for-process-jobs"></a>معالجة كانبان على لوحة كانبان لوظائف المعالجة
 

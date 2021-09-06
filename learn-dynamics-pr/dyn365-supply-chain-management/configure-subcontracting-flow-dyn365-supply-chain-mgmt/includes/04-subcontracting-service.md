@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1c281434c9548c04217509413226446588c64326
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 36beaf09c6f25891441294e47bdb6eddbfa289fcc7301177cda409010cad7c1a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081660"
 ---
 
 يتم تعيين خدمة التعاقد من الباطن لنشاط تدفق الإنتاج باستخدام اتفاقيات الشراء. تحتوي اتفاقية الشراء على الخدمة ومعلومات التسعير الخاصة بالخدمة المرتبطة.

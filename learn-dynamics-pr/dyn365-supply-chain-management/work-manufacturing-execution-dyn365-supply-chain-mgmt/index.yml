@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 8bb6872d95b5c0e1f30b07f04e83d50ef1f973ef
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 9b3aaa0670f03585981f12cdd84cda32e8fcd363
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667485"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365503"
 title: التعامل مع تنفيذ التصنيع في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتُستخدم وحدة تنفيذ التصنيع في المقام الأول لشركات التصنيع. يمكن استخدامه لتسجيل استهلاك الوقت والأصناف في وظائف الإنتاج أو المشاريع. قبل البدء في استخدام تنفيذ التصنيع لتسجيلات الوظائف، يجب إعداد معلمات الإنتاج المختلفة التي تحدد كيفية ووقت ترحيل التسجيلات أثناء عملية الإنتاج. تؤثر إعدادات محددات الإنتاج في إدارة المخزون وإدارة الإنتاج وحساب التكلفة.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على عملية تنفيذ التصنيع.\n- تحديد الأدوار في تنفيذ التصنيع.\n- معالجة أوامر الإنتاج.\n- اكتشاف مهام سير عمل العملية لإدارة عملية الإنتاج.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 373b78f97a9952d6ebb8da188501d420b6e9d227
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 74e0b52d01a9ac8a4129a327e4037597097a0a730350c7bb070fe47e7d98fda8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667655"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046207"
 ---
 يمكنك استخدام جدولة المهام لإنتاج جدول عام للمهام التي سيتم إجراؤها في الموارد في منشأة التصنيع أو في صالة الإنتاج.
 

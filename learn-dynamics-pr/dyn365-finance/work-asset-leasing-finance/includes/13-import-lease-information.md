@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 564528f54bd93cac4216d216aae209787590adb2
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9343c412fb86d8141dce77d54c4cbad2441e6c4143b49601fb490acd8c4e2c58
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677143"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141280"
 ---
 يسمح لك إطار عمل استيراد الإيجار ضبط عدة تأجيرات في خطوة واحدة، وتوفير الوقت وتقليل فرص حدوث الخطأ البشري. يمكن لهذه القدرة توصيل Finance بوحدات بيانات خارجية للمساعدة في تحميل البيانات بكفاءة. يمكنك استخدام عملية الاستيراد لتسوية الإيجار أو تحديث المعلومات غير المالية أو إضافة تأجيرات جديدة. يمكنك عرض بيانات الإيجار وتحريرها قبل استيرادها.
 ## <a name="lease-import-setup"></a>إعداد استيراد الإيجار

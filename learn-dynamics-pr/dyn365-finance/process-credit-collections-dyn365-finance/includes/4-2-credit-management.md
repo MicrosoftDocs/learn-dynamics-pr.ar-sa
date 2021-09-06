@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c10ecf284230d3487a8838c0de661823546afd95
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: abfa1974cc7e55bb723081502ad54c5e2fa4451da978d14168360273ea422421
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677814"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120004"
 ---
 إدارة الائتمان ميزة ذات قيمة كبيرة لتمويل مستخدمي Microsoft Dynamics 365 Finance. يمكن لإدارة الائتمان:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 525509d5021d99f7cde8f186f4d623e4aec0c531
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 713b324d94dd958a9398bc54ac75a2e0bd61a1a8
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667911"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7330905"
 ---
 تعتمد أنظمة سلاسل التوريد على التكامل. تتطلب أن يتم دمج أقسام المخزون وطلب العميل والمبيعات بدلاً من وجودها في مخزن منفصل. يساعد مدخل العملاء المؤسسات التي تستخدم Supply Chain Management على تعزيز هذا التكامل وإبقاء عملائها على اطلاع.
 
@@ -31,4 +31,4 @@ ms.locfileid: "6667911"
 
 ![رسم تخطيطي يوضح كيف يعمل مدخل العملاء ومداخل Power Apps والكتابة المزدوجة معاً.](../media/customer-portal-c.png)
 
-لمعرفة المزيد حول كيفية إعداد وإدارة مدخل العملاء، راجع [تثبيت مدخل العملاء وإعداده وتحديثه‬](https://docs.microsoft.com/dynamics365/supply-chain/sales-marketing/customer-portal-setup/?azure-portal=true).
+لمعرفة المزيد حول كيفية إعداد وإدارة مدخل العملاء، راجع [تثبيت مدخل العملاء وإعداده وتحديثه‬](/dynamics365/supply-chain/sales-marketing/customer-portal-setup/?azure-portal=true).

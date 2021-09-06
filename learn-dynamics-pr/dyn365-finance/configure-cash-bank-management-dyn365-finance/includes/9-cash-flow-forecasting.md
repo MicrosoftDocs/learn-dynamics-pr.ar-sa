@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 93aa05dce188f983a96d7742c7070230c7df8cbe
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 439b4edcda43d8062911e54b6161c7cafdc65b86f3f01843e92730d6d64380af
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677231"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074903"
 ---
 لتكوين عملية التنبؤ بالتدفق النقدي، استخدم صفحة **إعداد التنبؤ بالتدفق النقدي** وحدد حسابات السيولة لتعقب وتنبؤ التدفقات النقدية الافتراضية للوحدات النمطية التالية في Finance، إذا لزم الأمر:
 

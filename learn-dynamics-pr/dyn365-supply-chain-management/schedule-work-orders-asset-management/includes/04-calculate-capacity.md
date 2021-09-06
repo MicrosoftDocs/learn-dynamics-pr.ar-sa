@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8c1cbd2486e8d6131f8d9a1a82d26f20770b6f89
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bf4c1de75432e0b6b5581cb1929675c5cf2a29c9abc815a3591e5484d2327384
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667389"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077538"
 ---
 إذا كنت ترغب في الحصول على نظرة عامة على حمل العمل على الموارد لفترة محددة، يمكنك استخدام صفحة **حساب القدرة الإنتاجية**.
 

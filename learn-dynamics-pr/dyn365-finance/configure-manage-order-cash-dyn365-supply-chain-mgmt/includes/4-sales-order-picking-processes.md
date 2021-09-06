@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5d2d00f04fa0ab126e5ef9aba6f60ab14c496c8d
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a93772458e5f2d890f35ec977463440d856c85c1
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677561"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7351661"
 ---
 تستند عمليات الانتقاء التي تم تناولها في هذه الوحدة النمطية إلى الإصدار الأبسط من عملية معالجة المستودعات.
 
@@ -134,10 +134,10 @@ ms.locfileid: "6677561"
 
 لمزيد من المعلومات حول الانتقاء وإدارة المستودعات، راجع الوحدات النمطية التالية:
 
--   [تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true)
 
--   [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)
 
--   [استخدام تقارير المخزون في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/use-inventory-reports-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [استخدام تقارير المخزون في Dynamics 365 Supply Chain Management](/learn/modules/use-inventory-reports-dyn365-supply-chain-mgmt/?azure-portal=true)
 
--   [تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management](/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/?azure-portal=true)

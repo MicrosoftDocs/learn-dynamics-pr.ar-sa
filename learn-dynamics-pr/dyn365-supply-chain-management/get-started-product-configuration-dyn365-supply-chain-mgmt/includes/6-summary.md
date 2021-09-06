@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2af545f958eab6fda8f812ba5db4d03e069329ae
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 155a64dc45af15a3d9ed8f4a48a92eca34e55a724029914b1c2ddaee559e50ba
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667409"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119492"
 ---
 يمكنك استخدام تكوين المنتج في Dynamics 365 Supply Chain Management لإنشاء العديد من متغيرات المنتجات التي تلبي متطلبات العملاء الفردية. يمكنك تحقيق ذلك بإعادة استخدام مجموعة صغيرة من المكونات التي يمكنك تحديدها واستخدامها في العديد من التركيبات. 
 

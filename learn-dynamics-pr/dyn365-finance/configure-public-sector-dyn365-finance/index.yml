@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: f8347a1bbc137a24eb581c90d9cdbba75d53332d
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 39b8f23f43920095237d9730cf72a3b124309088
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677366"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7357901"
 title: تكوين Dynamics 365 Finance للقطاع العام
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد الصناديق لللقطاع العام. \n- إعداد الأبعاد المشتقة.\n- إعداد تدرجات هرمية مالية مشتقة في القطاع العام.\n- إعداد وظيفة إدخالات دفتر الأستاذ المتقدمة للقطاع العام. \n- تكوين أكواد الفوترة للفواتير ذات النص الحر\n"

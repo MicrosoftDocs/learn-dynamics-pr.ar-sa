@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d201d9bbe6d930c4a5b60face7a95afb398365d4
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 1ce3b1fe4693df2a62b88899cc0831925517f011
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072189"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7349224"
 title: تنفيذ واجهة برمجة التطبيقات (API) لحزمة إدارة البيانات لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لك واجهة برمجة التطبيقات (API) الخاصة بنقل الحالة التمثيلية (REST) الخاصة بحزمة إطار عمل إدارة البيانات التكامل مع تطبيقات Finance and Operations باستخدام حزم البيانات. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيراد وتصدير واجهات برمجة التطبيقات (API) بين عمليات النشر السحابية لتطبيقات Finance and Operations وعمليات النشر المحلية.\n- استيراد وتصدير واجهات برمجة التطبيقات (API) بين عمليات النشر المحلية.\n- استخدم GetExecutionSummaryStatus للحصول على حالة وتوافر واجهات برمجة التطبيقات (API).\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eab245fcbe35223ae75bdfb21abdcc2d956cb1da
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0f35129248362df5f512fff1a97146cfacf1be8489da2db33296a068d86fb02d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668012"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119674"
 ---
 قبل بدء إجراءات الإعداد، تحتاج إلى إعداد معلمات الإنتاج وأسماء دفاتر اليومية في الوحدة النمطية لعنصر التحكم في الإنتاج.
 

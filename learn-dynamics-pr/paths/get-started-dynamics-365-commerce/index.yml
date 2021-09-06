@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 4e74f0664293dc36255c7bedad8f0e4450ad6ed1
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: 0d19f8bce4a75ea593c6baca89096aea4afa6cc0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6651384"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7324287"
 title: بدء استخدام Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]

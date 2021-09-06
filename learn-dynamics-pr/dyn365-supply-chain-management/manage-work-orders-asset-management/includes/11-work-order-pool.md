@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e823725340c70e20d4c62a125cb588fa84477f3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3c3e136deff27561e79462450b361b250eb680eecdce27ce112ad67113b78de7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046612"
 ---
 يتم استخدام أوعية أوامر العمل لتجميع أوامر العمل معاً لأسباب مختلفة للأعمال. تتضمن أنواع أوامر العمل التي يمكن تجميعها معاً:
 

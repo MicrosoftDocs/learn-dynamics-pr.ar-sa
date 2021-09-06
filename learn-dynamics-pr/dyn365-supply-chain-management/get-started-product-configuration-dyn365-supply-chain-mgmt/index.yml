@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1a54e43d8fa31530a64e4e63987fcffaa970257d
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 4e5f6833dfa6e67bef2ae354a277ad53c90c39fe
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667922"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7342199"
 title: بدء استخدام تكوين المنتج في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتكوين المنتج هو أداة تكوين منتجات مستندة إلى القيد تستخدم تكنولوجيا منتج  Microsoft Solver Foundation ‏(MSF) تم تصميمها للنمذجة وحل القيود. يمكنك استخدام تكوين المنتج لإنشاء نماذج تكوين المنتج وصيانتها وإعادة استخدام المكونات وأنواع السمات في Dynamics 365 Supply Chain Management. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- مصطلحات مهمة لمساعدتك على فهم المفاهيم والعمليات المرتبطة بتكوين المنتج.\n- سيناريو تكوين المنتج الشامل.\n- المجالات المختلفة التي تغطي عملية تكوين المنتج. \n- نموذج تكوين المنتج.\n- كيفية إنشاء نموذج تكوين منتج.\n"

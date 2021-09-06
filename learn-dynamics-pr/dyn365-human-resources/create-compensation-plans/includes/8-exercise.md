@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7832f5d07542b6fe4db154c00affc82ab46af3cc
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 2b772ac2080a8b4d3cfa1941980fa7689104c68c245b00b4b3efc7303cb89b7c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115504"
 ---
 في هذا التدريب، ستقوم بإنشاء خطة تعويض ثابتة.
 

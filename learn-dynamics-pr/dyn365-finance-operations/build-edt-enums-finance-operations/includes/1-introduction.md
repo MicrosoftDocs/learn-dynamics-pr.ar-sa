@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d2d1b131b32a902e934abb9f680d82b942b4df5b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 77f086302183fed81a741caf180233081b1ef3ad951346183863539c792a62fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071768"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7069223"
 ---
 في حين أن التعدادات الأساسية وأنوع EDT ليست جديدة على جميع المطورين، فمن المهم فهم كيفية استخدام أنواع البيانات هذه في التطوير لتطبيقات Finance and Operations.
 

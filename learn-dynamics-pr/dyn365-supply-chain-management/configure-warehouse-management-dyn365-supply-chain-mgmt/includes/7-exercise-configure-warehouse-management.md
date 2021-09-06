@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8d75a82bb07c99a3cd01386ada533eeebd07bbb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 24f90e29e45f9a80ba564817091c440ceb84368fbf1240e7bddb8eb73b222319
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667599"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135334"
 ---
 ## <a name="scenario"></a>السيناريو 
 بصفتك مدير المستودع في USMF، فأنت بحاجة إلى تكوين عناصر إدارة المستودعات.

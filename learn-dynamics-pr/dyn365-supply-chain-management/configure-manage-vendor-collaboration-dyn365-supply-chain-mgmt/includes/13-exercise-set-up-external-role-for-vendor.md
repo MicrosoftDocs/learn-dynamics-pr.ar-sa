@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d601982f737a60bf36f96bc168d1830c62182680
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2653c312d0a6175adcb64dfb9599143743d142a24b13e105dd1276af46da26b7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139855"
 ---
 في هذا التدريب، ستقوم بإعداد دور خارجي لمورد لتعاون المورد.
 

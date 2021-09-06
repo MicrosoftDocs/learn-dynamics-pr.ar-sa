@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8b8a2fc41bc1ac37a4f4d2e1707c472a848e7691
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d0e9611c88b24253bbcfe9993c5d576218ff1ddce86b374182714689e848b624
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667584"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077772"
 ---
 تُستخدم التدرجات الهرمية للفئات لأسباب عديدة مثل تصنيف المنتجات والموردين والعملاء والمعاملات لأغراض إعداد التقارير والتحليل والتسلسلات الهرمية التكميلية والمزيد.
 

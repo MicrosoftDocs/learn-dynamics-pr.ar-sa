@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e664b95600a3517d9f01625d89c401bb800a59ae
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 518b358a2cb3aab33a982636ed5fbccee51e3e8d8620b30d68ee115edf463389
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130076"
 ---
 تتحكم مجموعات ترحيل دفتر الأستاذ في الترحيل التلقائي لضرائب المبيعات في Finance. تحتاج إلى إنشاء الحسابات التي يستخدمها دفتر الأستاذ العام في مخطط الحسابات قبل استخدامها لإعداد مجموعات ترحيل دفتر الأستاذ.
  

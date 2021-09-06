@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 81b8339facfd84f38038606ad2185eeda1ad04f2
-ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
+ms.openlocfilehash: 3875adb34d65efab3239553d2972de126a8abdc67d219bbed2a4ab18f61646a2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "6307656"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116029"
 ---
 فئتا التوريث والخلاصة هما نوعان من بنيات البرمجة المهمة التي توجد في لغات البرمجة الموجهة للكائنات. تُستخدم هذه المفاهيم لإنشاء علاقات الأصل والتابع بين الفئات.
 يسمح التوريث للفئة الفرعية بتوسيع فئة أعلى. ترث الفئة الفرعية جميع سمات الفئة الأعلى وأساليبها. يمكن للفئات الفرعية أيضاً تجاوز سلوك أو إضافة المزيد من الوظائف إلى الأساليب الموروثة من الفئة الأعلى. 

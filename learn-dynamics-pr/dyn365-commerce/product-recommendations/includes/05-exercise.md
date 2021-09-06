@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5a45158dfccef3b5a511c209d137dd0de74d2df9
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: d1aa06d23e4fb5e46f605fc46a57496c381c56b9a424a07ed4c00c7390be2326
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095177"
 ---
 ## <a name="prerequisites"></a>المتطلبات الأساسية
 يجب عليك استخدام البيانات التجريبية في الكيان القانوني USRT لممارسة التمرينات. 

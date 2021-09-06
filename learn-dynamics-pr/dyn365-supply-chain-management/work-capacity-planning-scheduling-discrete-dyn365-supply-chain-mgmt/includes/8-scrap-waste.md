@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4bbd1d6f303a2ef2d47c533880c735ffbadfb3f3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 64c87c18e2146277ccc1be54187005d5ad8f38e7e6eb29a505de751d8dbaea5d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667652"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103522"
 ---
 الخردة أو النفايات هي مواد زائدة تحدث أثناء عملية تصنيع صنف ولا يمكن استخدامها. غالباً ما يتم احتسابها كمصروفات شركة مستمرة. تسعى الشركات عادةً إلى تصميم العمليات التي تنتج الكمية المطلوبة من المنتجات بأقل قدر من الخردة والنفقات العامة.
 

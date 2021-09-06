@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 719fd6ea1f0b3109e18ae3bbcf8a50360278f33a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c914d5ca3362333d1c8644d4847e697fe2c268e32817a6dca6cb04c79b5c8257
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668104"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124660"
 ---
 تعلمت في هذه الوحدة النمطية أن أبعاد المخزون في Dynamics 365 Supply Chain Management تساعد في تصنيف المخزون عند تنفيذ عمليات الإنتاج وتحديد كيفية تخزين أصناف المخزون.
 

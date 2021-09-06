@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 68be1f77760a6602dadf3bb36408e96e4ea28ce5
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: feb3922caee115eeaf03e4bf0000cba3326b4e69b1876201da5a19e393246e4c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677365"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053408"
 ---
 تشرح هذه الوحدة كيفية تكوين مكونات الائتمان والتحصيلات.
 

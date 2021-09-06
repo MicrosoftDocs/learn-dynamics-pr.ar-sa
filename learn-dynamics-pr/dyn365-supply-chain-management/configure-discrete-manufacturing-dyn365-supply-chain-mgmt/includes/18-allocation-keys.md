@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bd70495cc91fe5a83beec961d4d9f64966d0bc95
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 99729cd3fd130bd3e9335c9a984919fc96c09a08638d882f9032734158f82ae1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668008"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135722"
 ---
 إذا بدأ موظف أكثر من وظيفة واحدة في صفحة **تسجيل الوظائف**، فإنه يُشار إليها باسم مجموعة. تُستخدم مفاتيح التوزيع لتحديد كيفية عمل تسجيلات الوظائف المجمعة في منطقة معينة.
 

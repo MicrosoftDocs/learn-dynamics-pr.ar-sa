@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f0d74bd7668befe20ebdb8f100cbe34bca399a56
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 669d0b26f8115494354cb180bfa9adce5ef5eae4c37768cdac3849af01bf0775
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656566"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109409"
 ---
 قبل أن تتمكن من إنشاء خطط تعويض ثابتة لموظفيك في Dynamics 365 Human Resources، ستحتاج إلى إعداد عدة مكونات:
 

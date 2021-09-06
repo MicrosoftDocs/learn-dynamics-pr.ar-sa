@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bd66f677a7c23b2c7fc0d07b30606e360dd69bdb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2983ba5a9bf63011cff6f23d52dc813a41b79359513419b121abe58710f6292a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668345"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135635"
 ---
 ## <a name="create-and-manage-catalogs"></a>إنشاء الكتالوجات وإدارتها 
 

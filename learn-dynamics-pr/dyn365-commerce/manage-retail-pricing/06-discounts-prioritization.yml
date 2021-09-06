@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: ca10bab3fb0f51c9abd9f543f217fa38babc1b49
-  ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+  ms.openlocfilehash: 0a5cdc790b38ae96f5ca5c0a22f861d15c805ec3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/22/2021
-  ms.locfileid: "6070508"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7342002"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-discounts-prioritization.md)]"

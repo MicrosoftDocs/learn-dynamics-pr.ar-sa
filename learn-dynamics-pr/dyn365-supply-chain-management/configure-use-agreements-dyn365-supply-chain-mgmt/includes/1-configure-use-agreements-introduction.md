@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aaa317a5c9d1355380b79662fa0360b0ec560384
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8c9247ec407eb6266611161e577a1d07418e1663c1d0f296ba38a2cb19adec8a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667148"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081568"
 ---
 تقوم الشركات بالتفاوض والموافقة علي شروط معينة لإصلاح سعر البضائع. تساعد هذه الاتفاقيات الشركات علي عمل تقديرات صحيحة لتكلفة البضائع المشتراة ووضع أساس لأسعار المبيعات.
 من خلال شراء البضائع أو بيعها، قد تكون الشركات مخولة لاستلام خصومات أو مكافآت الولاء، والتي يمكن تحويلها إلى إشعار دائن.

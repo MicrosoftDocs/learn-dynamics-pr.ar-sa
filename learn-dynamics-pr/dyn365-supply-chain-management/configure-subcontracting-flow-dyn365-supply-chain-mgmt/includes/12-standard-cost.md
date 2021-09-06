@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 94f72bb1f2117fa145f111dc17f19e70ffd70574
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3f5a3c54bab00425c853e881ad81d7639fe498625a72bd9cf2b69f7ea7224d8a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668377"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135554"
 ---
 ## <a name="standard-cost-requirement"></a>متطلبات التكلفة القياسية
 

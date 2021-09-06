@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f19f18a290ed6e998cda07701af1e5650d8dc23
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1a4337cbadabab029cc67eec4bd0d0c9a4aaf264e9b8ce9e1fd04731620a5a7c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668121"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128752"
 ---
 لقد تعلمت كيفية إنشاء فئات أنواع مهام الصيانة ومتغيرات أنواع مهام الصيانة والمهن المرتبطة بمهام الصيانة. وباستخدام هذه الميزات، يمكنك إنشاء الإعدادات الافتراضية لأنواع مهام الصيانة التي ستسمح لك بإنشاء أشكال متنوعة من أنواع مهام الصيانة هذه. 
 

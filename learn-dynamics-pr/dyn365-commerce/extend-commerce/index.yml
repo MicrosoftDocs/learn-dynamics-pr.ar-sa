@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 3ee11b99e2ee8710bf4670b359cb9ff9d22c7be3
-  ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
+  ms.openlocfilehash: 2c17c280d85ebfe6e606349affba6c27410fd75f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2021
-  ms.locfileid: "6070486"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7348081"
 title: توسيع Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيوفر النظام الأساسي لـ Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضاً مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.   \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المكونات المختلفة لـ Dynamics 365 Commerce. \n- تعرف على كيفية توسيع مكونات Commerce المختلفة.\n"

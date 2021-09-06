@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4911a3b02fc2bd4748926dc542edb825f3e8b367
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4b592d8b4be2d6eb7aca3ef0f7cc2f3407f89af9cf72bf644a0efac7f40b78b9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667707"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077560"
 ---
 يتم إنشاء جداول لعمال الصيانة والأصول والأدوات الأخرى عند جدولة أوامر العمل. ستوضح هذه الوحدة النمطية عملية إنشاء تقويمات وجدولة عمال الصيانة، وتحديد عمال الصيانة المفضلين، وجدولة أوامر العمل وإرسالها، وحساب القدرة الإنتاجية على أوامر العمل المجدولة.
 

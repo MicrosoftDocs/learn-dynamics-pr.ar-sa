@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fba85a93ef7fd82e94d97948348524ed6af53bb1
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 892ef950a82a07509a8b96ceb32a7be76a7b6aedd103966b5717769d28ccfe75
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667617"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092027"
 ---
 > [!NOTE]
 > قبل أن تبدأ هذا التدريب، يجب أن تكون قد أكملت التدريب السابق، **إنشاء وجدولة بطاقات كانبان للتعاقد من الباطن**.

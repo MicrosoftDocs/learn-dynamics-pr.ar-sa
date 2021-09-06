@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bc26da1e2a9b47e52832162f95591813477e4fff
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ec18cdea8aed89946bcb15c01a718dcd33b5fd491dc10b65c19d430c79f9ce0f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071306"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075013"
 ---
 لإجراء ترقية لبيانات بيئة الاختبار المعزولة، اتبع هذه الخطوات.
 

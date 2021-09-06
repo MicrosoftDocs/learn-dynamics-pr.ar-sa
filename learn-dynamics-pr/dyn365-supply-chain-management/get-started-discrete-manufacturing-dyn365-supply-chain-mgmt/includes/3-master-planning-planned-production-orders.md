@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 18ecdf740c0b82ad6e332c004ca44be5fd01cdff
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f7f7d4aa29654d2a18b22c2cd5f121dc78a2137ef3715d6dfe29bd4220472110
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051912"
 ---
 يعمل التخطيط الرئيسي كمحرك تخطيط لـ Supply Chain Management إلى جانب وحدة التحكم في الإنتاج.
 

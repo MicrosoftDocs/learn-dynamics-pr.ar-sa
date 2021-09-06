@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1db372f044e4e7a24fc100240b2299526e0b61d7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b23450b3dbe7929ad42ae07100f34262c1cee790998486d3c3401789bc7a1b2b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667620"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103628"
 ---
 
 يمكن الوصول إلى صفحة **مجموعات الإنتاج** من **إدارة التكلفة > إعداد نهج تكامل دفتر الأستاذ > مجموعات الإنتاج**.

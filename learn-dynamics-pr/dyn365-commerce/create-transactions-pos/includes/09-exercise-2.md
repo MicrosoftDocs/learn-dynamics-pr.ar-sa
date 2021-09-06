@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bfe0faafc3318951db32ad53f1f4adc8427a3a98
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 15b6740210dd1edda5be8549c8b4ea8e46a21e2b70b737513b009204294d922b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070237"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7070388"
 ---
 في هذا التمرين، أنت منظم مبيعات في منتصف تسجيل إحدى الحركات. يحتاج العميل إلى الخروج من الصف للحصول على صنف آخر. يجب عليك تعليق الحركة للسماح بإجراء الحركات الأخرى. وبعد ذلك، عندما يعود العميل، سيتم استدعاء الحركة لإكمالها. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 686cfcc3b7431a6aadfa09b63b4b4e11fad764c0
-ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.openlocfilehash: 6faa4ece7965fbcecc18c82a383b7dd2036e81bf30e769c499fbf1fe43986cd2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "6072788"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7104562"
 ---
 يمكنك إنشاء سياسات تقرير المصروفات وتحديد قواعد المصروفات اليومية لضمان فرض سياسات الشركة بشكلٍ منظم. تساعد السياسات الموظفين على عدم تجاوز حدود الميزانية وتوفير كافة المعلومات المطلوبة وإنفاق الأموال حسب احتياجهم إليها فحسب. يتم إنشاء قواعد المصروفات اليومية لتعويض الموظفين استناداً إلى معدل يومي ثابت قد يختلف حسب الموقع الجغرافي. 
 

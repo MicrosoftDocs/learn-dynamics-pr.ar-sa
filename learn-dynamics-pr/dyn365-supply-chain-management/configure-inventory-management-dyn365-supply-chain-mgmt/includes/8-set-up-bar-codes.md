@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3dfe04d8b16cc82b0b21f0ac681b11ce7a4d51ba
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4699b4fc28829413237774b188788883e54d626d4303afcfaba1da406d8f4e1d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667521"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139913"
 ---
 يمكن استخدام الرموز الشريطية لأسباب عديدة، مثل تحديد الأصناف أو المواقع. يمكنك إعداد الرموز الشريطية لمنتجاتك في **إدارة المؤسسة > الإعداد > الرموز الشريطية**. 
  

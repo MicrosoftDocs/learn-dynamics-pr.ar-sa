@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f9df52327826a7196af379f757ce73ade6169139
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: c6286d49359172cca4ed424b472e7f3cef28eeee2e389cac43d1bb4b0759798c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691160"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7104800"
 ---
 توضح هذه الوحدة النمطية كيفية إدارة الموظفين في Microsoft Dynamics 365 Human Resources. في هذه الوحدة، ستتعلم كيفية إنشاء مكونات التطبيقات والتحكم فيها مثل الأقسام والوظائف. بالإضافة إلى ذلك، ستتعرف على كيفية إدارة التغييرات داخل مؤسستك.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a2f5c043ae6298274e55deba19efa04fa1c09d5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8b0d9f43093782b1383f95559961bdba836a4e1ac7895623bf02d94b58765147
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668322"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098092"
 ---
 ## <a name="purchase-order-initiated-intercompany-chain-orders"></a>أوامر سلسلة بين شركات شقيقة بدأها أمر شراء
  

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d001781eb70407f4155561d5b806ac1337f69f89
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 74b92591f50270e3c5b21957f69a3c1148f916782f0440ac1041eb8b209bd03e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677352"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087407"
 ---
 ## <a name="activate-a-financial-dimension"></a>تنشيط بُعد مالي 
 

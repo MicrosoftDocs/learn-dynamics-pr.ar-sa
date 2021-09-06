@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f14853da479a342c90cd1080a3f4c6a6ee310b7c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fabb3353528ce3c58013c43a97e9f6ae172f04ef478f33080ef2ce8a15ba2005
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667437"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135211"
 ---
 ## <a name="scheduled-kanban"></a>كانبان المجدول
 

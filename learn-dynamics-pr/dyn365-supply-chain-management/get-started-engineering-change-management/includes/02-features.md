@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1b8b4bc1de30d1986094c1411afb835e1d07974
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c6b1553e9763841914b4ca633f628e8f34b70b4978433e6cf6386c6d8128afbd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062976"
 ---
 تساعدك إدارة التغيير الهندسي في تخطيط وإدارة إصدارات المنتج، وإدارة دورات حياة المنتج والتغييرات الهندسية. فيما يلي قائمة بالميزات الرئيسية:
 

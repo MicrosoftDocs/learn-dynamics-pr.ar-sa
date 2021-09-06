@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53090ba1c591b17d9d572a770709208175fe9857
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 7f21381ffb439a34e6318204acda346d39f5a704f8e0dde780c5f02c838574fe
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6185681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130720"
 ---
 تتكامل تطبيقات Finance and Operations مع Microsoft Power Apps، وهي خدمة للمطورين والمستخدمين غير التقنيين لإنشاء تطبيقات أعمال مخصصة للأجهزة المحمولة والأجهزة اللوحية والويب دون كتابة كود.
 يمكنك تضمين تطبيقات Power Apps الموجودة في تطبيقات Finance and Operations لتعديل وظائف المنتج. كما بإمكانك أيضاً تضمين تطبيقات Power Apps من داخل واجهة المستخدم عن طريق تحديد شعار Power Apps في الصفحة التي ترغب في تضمين تطبيق Power Apps بها.

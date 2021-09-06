@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 256a463bb0612648901cc70409d3d611458873f4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 45ac77e12b555a0d62ca15a69176d745885ba351
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668039"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329007"
 ---
 ## <a name="procurement-categories"></a>فئات التدبير
  
@@ -56,11 +56,11 @@ ms.locfileid: "6668039"
 
 لإعداد الكتالوج الخارجي الخاص بالمورّد، أكمل المهام التالية.
 
-1.  قم بإعداد تدرج هرمي لفئات التدبير. لمزيد من المعلومات، راجع [إعداد سياسات للتدرج الهرمي لفئات التدبير‬](https://docs.microsoft.com/dynamics365/supply-chain/procurement/tasks/set-up-policies-procurement-category-hierarchies/?azure-portal=true).
-2.  سجّل المورّد في Supply Chain Management. قبل أن تتمكن من إعداد التكوينات للوصول إلى الكتالوج الخارجي الخاص بالمورّد، يجب إعداد المورّد وجهة اتصال المورّد في Finance and Operations. يجب أيضاً إضافة مورّد الكتالوج الخارجي إلى فئة التدبير المحددة. لمزيد من المعلومات حول تسجيل المورّدين في Supply Chain Management، راجع [إدارة مستخدمي ميزة تعاون المورّد‬](https://docs.microsoft.com/dynamics365/supply-chain/procurement/manage-vendor-collaboration-users/?azure-portal=true).    
+1.  قم بإعداد تدرج هرمي لفئات التدبير. لمزيد من المعلومات، راجع [إعداد سياسات للتدرج الهرمي لفئات التدبير‬](/dynamics365/supply-chain/procurement/tasks/set-up-policies-procurement-category-hierarchies/?azure-portal=true).
+2.  سجّل المورّد في Supply Chain Management. قبل أن تتمكن من إعداد التكوينات للوصول إلى الكتالوج الخارجي الخاص بالمورّد، يجب إعداد المورّد وجهة اتصال المورّد في Finance and Operations. يجب أيضاً إضافة مورّد الكتالوج الخارجي إلى فئة التدبير المحددة. لمزيد من المعلومات حول تسجيل المورّدين في Supply Chain Management، راجع [إدارة مستخدمي ميزة تعاون المورّد‬](/dynamics365/supply-chain/procurement/manage-vendor-collaboration-users/?azure-portal=true).    
 3. يقع إعداد cXML لسجل **المورّد** على علامة التبويب السريعة **القيم الافتراضية لأمر الشراء**. يمكنك تمكين القدرة على **إرسال أمر الشراء عبر cXML** عن طريق تعيين مفتاح التبديل إلى "نعم". بعد ذلك، يتم ملء الحقل على **رأس أمر الشراء** بحيث تُرسل جميع أوامر الشراء الخاصة بذلك المورّد عبر cXML.
-3.  تأكد من إعداد وحدات القياس والعملة التي يستخدمها المورّد. للحصول على معلومات حول كيفية إنشاء وحدة قياس، راجع [إدارة وحدة القياس](https://docs.microsoft.com/dynamics365/supply-chain/pim/tasks/manage-unit-measure?azure-portal=true).
-4.  كوّن الكتالوج الخارجي الخاص بالمورّد باستخدام متطلبات موقع الكتالوج الخارجي الخاص بالمورّد. لمزيد من التفاصيل حول هذه المهمة، راجع [تكوين الكتالوج الخارجي الخاص بالمورّد](https://docs.microsoft.com/dynamics365/supply-chain/procurement/set-up-external-catalog-for-punchout?azure-portal=true#configure-the-external-vendor-catalog).
+3.  تأكد من إعداد وحدات القياس والعملة التي يستخدمها المورّد. للحصول على معلومات حول كيفية إنشاء وحدة قياس، راجع [إدارة وحدة القياس](/dynamics365/supply-chain/pim/tasks/manage-unit-measure/?azure-portal=true).
+4.  كوّن الكتالوج الخارجي الخاص بالمورّد باستخدام متطلبات موقع الكتالوج الخارجي الخاص بالمورّد. لمزيد من التفاصيل حول هذه المهمة، راجع [تكوين الكتالوج الخارجي الخاص بالمورّد](/dynamics365/supply-chain/procurement/set-up-external-catalog-for-punchout?azure-portal=true#configure-the-external-vendor-catalog).
 5.  اختبر تكوينات الكتالوج الخارجي الخاص بالمورّد للتحقق من صحة الإعدادات ومن قدرتك على الوصول إلى الكتالوج الخارجي الخاص بالمورّد. استخدم الإجراء **التحقق من صحة الإعدادات** للتحقق من صحة رسالة إعداد الطلب التي حددتها. يجب أن تتسبب هذه الرسالة في فتح موقع الكتالوج الخارجي الخاص بالمورّد في نافذة المستعرض. أثناء التحقق من الصحة، لا يمكنك طلب أصناف وخدمات من المورّد. لطلب أصناف وخدمات، يجب عليك الوصول إلى كتالوج المورّد من طلب شراء.
 6.  قم بتنشيط الكتالوج الخارجي باستخدام الزر **تنشيط الكتالوج** في صفحة **الكتالوجات الخارجية**. يجب تنشيط الكتالوج الخارجي قبل أن يتمكن الموظفون من استخدامه. يمكنك إلغاء تنشيط الكتالوج الخارجي في أي وقت.
 

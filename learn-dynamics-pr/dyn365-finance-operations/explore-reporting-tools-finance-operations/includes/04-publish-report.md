@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f5823c557021deba339dba5902d40b02f873109e
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: be97b18412309974f8299424c23c6ed6013b8cb91070e5ece563ad3e88d830b0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072330"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130829"
 ---
 بعد إنشاء تقرير SSRS، يجب توزيعه قبل أن تتمكن من الوصول إليه في تطبيقات Finance and Operations. ويمكنك توزيع التقارير من PowerShell أو من Visual Studio. يمكن أن يكون توزيع التقارير من PowerShell مفيداً إذا كنت بحاجة إلى توزيع تقرير في بيئة لا يتوفر لديها حق الوصول إلى Visual Studio. ومع ذلك، يجب عدم القيام بذلك في بيئة تشغيل. 
 

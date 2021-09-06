@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 43584847e2e1bf02ab8257fab804020591a2cb60
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: f9cefa2fe665bfa307e66658a8b108e0f117e10f1847a798f4f6feff493733f2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677147"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093643"
 ---
 حقل **مجموعة الأصول الثابتة** هو الحقل الوحيد المطلوب عند إنشاء أصل ثابت. تحدد قيمة هذا الحقل القيمة الافتراضية للعديد من حقول المعلومات الخاصة بالأصل. يتم إعداد الدفاتر حتى يتم تعيين كتاب افتراضي لكل أصل في المجموعة. وبهذه الطريقة، يمكن أن تكون السمات التي تقوم بتعيينها لهذه الدفاتر خاصة بمجموعة من الأصول. تشتمل هذه السمات على مدة الخدمة وقواعد الإهلاك.
 

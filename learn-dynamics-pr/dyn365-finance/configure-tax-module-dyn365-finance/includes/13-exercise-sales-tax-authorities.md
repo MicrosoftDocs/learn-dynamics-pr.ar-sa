@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 58407a09b978dcb73efc5b1b152eba2a6db45b9c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 026272e0646a25da231e21a6166cbcb057f7c4b3819b970ad83b5cdbb61712db
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677631"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078686"
 ---
 في هذا التدريب، سوف تقوم بإعداد سلطات ضريبة المبيعات.
 

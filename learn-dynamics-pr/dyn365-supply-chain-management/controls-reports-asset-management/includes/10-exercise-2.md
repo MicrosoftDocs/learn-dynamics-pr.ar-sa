@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 87aff2ebb8879f99a0c58a8af7eadee4ad81a681
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9136bbbbcbaefb0e30647efece1bb851ac28d633fdaf15cb618dad81146e4106
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667593"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077855"
 ---
 يريد أيضاً فريق الإدارة في مزرعة مونسون للمخللات والمعلبات رؤية نظرة عامة على المكان الذي يتم فيه تثبيت أصناف الأصول مع عرض تاريخي لمحفوظات الأصول المحددة. اتبع الخطوات الآتية لإنشاء تلك النظرة العامة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 723e7f14c9dd3b0916fe6a2086ed354228ff5b4a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 86cf001cae1d90a077d34b0a42deeffa5b7302c57a80637be622f7e02926fb2a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668221"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051879"
 ---
 يحتوي أمر الإنتاج على معلومات حول ما سيتم إنتاجه والكمية وتاريخ الانتهاء المخطط. تقوم Supply Chain Management بتعيين حالة أمر لكل خطوة في دورة حياة الأمر.
 

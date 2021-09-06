@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ff6deb8a991533e03c10cb77ff30048372cb3b47
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c6fe20adce34dee8229b8af8bb2e58f2015a0aba2ccd992f19fc4f67125d591e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677694"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047807"
 ---
 يمكن لمؤسسات القطاع العام استخدام تصنيفات الفوترة وأكواد الفوترة للمساعدة في إدارة الفواتير ذات النص الحر. تشرح هذه الوحدة كيفية تكوين أكواد الفوترة والاختبار للفواتير ذات النص الحر.
 

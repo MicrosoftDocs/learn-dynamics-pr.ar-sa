@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a830a26384000ef3fcca0848afbdca675b2df030
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e00b2e6d2a6c9fa6bfbe5e287ec4003b59783ed899006de46bcedad9f38d16ba
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667136"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057995"
 ---
 يجب تحديد مجموعة نماذج الصنف على المنتج الصادر لتحديد طرق الحجز والتكلفة. يساعدك تحديد مجموعة نماذج الصنف أيضاً على التحكم في أكواد إرجاع الدفعة. والمورّدين المعتمدين ومتطلبات الدمج. 
 

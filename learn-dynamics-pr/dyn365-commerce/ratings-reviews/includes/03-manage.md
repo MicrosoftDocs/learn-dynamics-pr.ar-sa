@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 54da67e965df1f22469480743da4ab894f0d96dd
-ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
+ms.openlocfilehash: 4c9839fcc3a4942daac754b82aebff1ad1aab321cfeb5b17c0755ab837ef6f3c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "6307722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054712"
 ---
 يستخدم Commerce خدمات Microsoft Azure Cognitive Services للإشراف على نص المراجعة تلقائياً عن طريق تنقيح الكلمات البذيئة. بالإضافة إلى ذلك، يمكن للمشرفين استخدام أداة الإشراف على التقييمات والمراجعات للمهام اليدوية التالية:
 

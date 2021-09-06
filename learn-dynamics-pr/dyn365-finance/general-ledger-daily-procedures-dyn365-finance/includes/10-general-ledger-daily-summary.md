@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b4094d526c216d693470b95b1d26669db900e044
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 91a620560a2eeedd6ef536d56e3cce8a5b3a79f7155b42c47d1c06b145153c4d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677593"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047749"
 ---
 لقد تعلمت الآن كيفية معالجة الأنشطة اليومية في دفتر الأستاذ العام واستخدام التحكم في دفتر اليومية لتطبيق القواعد أثناء إدخال البيانات.
 

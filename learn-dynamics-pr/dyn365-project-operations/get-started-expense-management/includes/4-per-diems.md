@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 24429a1f6e983b941fc421afe9be275115bde651
-ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+ms.openlocfilehash: b9a2944e5ca6d2c803057f164aae645525722617783e1e105c1868751be0591f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "6072771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063169"
 ---
 يجب تحديد المصروف اليومي للموظف الذي تقدمه شركتك. نظراً لاستخدام المصروفات اليومية عادةً لتغطية المصروفات مثل الوجبات والإقامة والمصروفات العرضية الأخرى، يمكنك إنشاء إرشادات لبدلات المصروفات اليومية التي تقدمها شركتك. قد يعتمد المصروف اليومي على الوقت من السنة أو وجهة السفر أو كليهما. 
 

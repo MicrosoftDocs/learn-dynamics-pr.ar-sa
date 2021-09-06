@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 95e5add4dfb2db9988a5693e116774a69d8dc5c2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8216821702ae662bdd286f3317738ddd31f758dab4a587edb39b4949cdd7739f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103890"
 ---
 ![الرسم التخطيطي لعمليات معالجة العمليات الواردة.](../media/inbound-operations.png)
 

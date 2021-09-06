@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a2cfe816fded12a70c9c4debcc0243443c81a3e
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 83c7932659682e692c2f6b62f8520b47997fa65c8c2404ab2a9c2820170d40b4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070325"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054815"
 ---
 في هذا التدريب، ستقوم بإنشاء كافة مكونات المستودع المطلوبة لقناة Commerce. 
 

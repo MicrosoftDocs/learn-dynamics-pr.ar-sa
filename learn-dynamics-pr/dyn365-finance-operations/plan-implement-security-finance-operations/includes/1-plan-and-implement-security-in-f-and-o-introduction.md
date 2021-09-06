@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b237ec8c01c37c727d6d31bb83650146c380e5c3
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ed4c6d5ff1687c9f1ac69d5c1b7e6f1748a417a8708aa89adacbba42082ffa7f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6072014"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141703"
 ---
 تحتوي تطبيقات Finance and Operations على مجموعة من خيارات الأمان والتكوين للمساعدة في الحفاظ على أمان بياناتك الحساسة، ويركز المستخدمون على أدوارهم، والنظام مبسط قدر الإمكان.  
 

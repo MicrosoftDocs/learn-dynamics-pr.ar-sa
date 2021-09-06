@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5a44a27fc671525f3a7bd280d0d0c16d9a070ef9
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: e350d767c7d7dc779be22b66b010c8f07c22873c736af03faf7624a2bba9f66b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677659"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093243"
 ---
 
 يساعد Finance الشركات على تسريع نمو أعمالها ورفع مستوى أدائها المالي.

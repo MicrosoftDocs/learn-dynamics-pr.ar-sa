@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4e03a13feaaef432d0df749219314c2930a5b312
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 43a6509dacbe9c95724f4d01568a232e38dee249b1e4b05f3a122f0d3adce7e8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668011"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135745"
 ---
 تقوم مجموعات الإنتاج بإنشاء علاقة بين أوامر الإنتاج وحسابات دفتر الأستاذ. يتم استخدام هذا الخيار عند تكوين معلمات التحكم في الإنتاج لاستخدام خيار **مجموعة الإنتاج**. عند تحديد هذا الخيار، فإن مجموعة الإنتاج تكون خياراً إلزامياً في أمر الإنتاج، كما ستأتي كافة معلومات ملف تعريف الترحيل من مجموعة الإنتاج المحددة.
 

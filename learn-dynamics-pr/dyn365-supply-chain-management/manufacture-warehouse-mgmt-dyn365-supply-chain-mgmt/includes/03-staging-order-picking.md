@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8dd1ef83d41d1824f588c7978dbebc70c4b63e49
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0d62d5773ece50ea2935bad8fe9dd1964ea59b9e017953869e9248eaaf5b1182
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108646"
 ---
 
 اختيار المواد الخام له مبدآن من مبادئ الانتقاء: 

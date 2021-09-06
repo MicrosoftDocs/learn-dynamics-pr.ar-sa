@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 76ef3431a491e9d928c28a8d91261938521e4ca8
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: 6ed82e2ae1810a27de058f1a21928b725fc827ed5b378236ffad3758b463f871
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6070438"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126833"
 ---
 يتم استخدام برامج الولاء بشكل متزايد من جانب بائعي التجزئة والشركات حول العالم لتحفيز العملاء ومكافآت هم على تفاعلاتهم مع العلامة التجارية وإنشاء شعور متنام بالولاء لمنتجات بائعي التجزئة. 
 

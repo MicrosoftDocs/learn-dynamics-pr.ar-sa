@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5ff3e789dc6e87231d4657e83ba9e1aef8ae1c06
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 53c8d25e0012a590cd03c5fb9886daafc65cfa41
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362592"
 ---
 من أجل التحقق من معالجة فواتير المورّد والتحكم فيها وتسهيل عملية الترحيل، توجد ميزات في "الحسابات الدائنة" يتم وضعها لتزويد المستخدمين بالأدوات المطلوبة لإدارة هذه العملية:
 
@@ -49,5 +49,5 @@ ms.locfileid: "6677479"
 
 وتتيح هذه الميزة للمستخدمين المرونة في تحديث كمية الفاتورة داخل عملية سير العمل، بدلاً من استلام خطأ سير العمل. وعند طرح خطأ ما، فإنه يتطلب من المستخدم تحديث الكمية المستلمة، ثم بدء عملية الفاتورة مرة أخرى. وتعمل هذه الميزة على منع حدوث أخطاء الترحيل وإهدار وقت المستخدم وجهده.
 
-لمعرفة المزيد عن الإعداد والتكوين المطلوب لهذه الميزة، راجع [تسجيل فاتورة المورد ومطابقتها بالكمية المستلمة](https://docs.microsoft.com/dynamics365/finance/accounts-payable/tasks/record-vendor-invoice-match-against-received-quantity/?azure-portal=true).
+لمعرفة المزيد عن الإعداد والتكوين المطلوب لهذه الميزة، راجع [تسجيل فاتورة المورد ومطابقتها بالكمية المستلمة](/dynamics365/finance/accounts-payable/tasks/record-vendor-invoice-match-against-received-quantity/?azure-portal=true).
 

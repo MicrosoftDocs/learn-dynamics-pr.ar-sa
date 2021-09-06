@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e572c850b69a7ab7d71afb997c88bb0813724a96
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2bade8db766609690f578c4cd3ceeec71580888ca2d492b1a056631d3c5e1ca5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677316"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063696"
 ---
 وفي هذه الوحدة النمطية، تعلمت المفاهيم الأساسية للأصول الثابتة. يساعد Dynamics 365 Finance الشركات على التعقب الأساسي للأصول الثابتة والتكامل في الوحدات المالية الأخرى.
 

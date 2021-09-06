@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3eeb4d7a3a783988fd4783c15a1ded34f4c21396
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 55a9d7ac6733731c68e6e0c46fffe637bddc20ed777a45e59eb3967e2093273b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677425"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074852"
 ---
 قبل أن تتمكن من استيراد أسعار الصرف، يجب عليك إعداد المعلومات التي يطلبها مقدمو الخدمة الذين يقدمون أسعار الصرف.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9250daa4d83feae0f4406be219091cdc284e1b58
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6fdc4ded4d31966da8b02b2d114ad906fa50db496f2090ff44a0ad65e07f6013
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677454"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093427"
 ---
 في هذا التدريب، ستقوم بإعداد أكواد تقارير ضريبة المبيعات وضريبة الخصم.
 

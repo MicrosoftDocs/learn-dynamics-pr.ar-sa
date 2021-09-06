@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa3cc36f0b08bbe9774b44c41742b33a466cddc8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 61cd326c9e5b183387153f78143ff4ae1e51b3f1ec57534e1473406c40a75d41
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668352"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139973"
 ---
 تحدد مجموعة الحقل **المخزون السالب** ما إذا كان سيتم السماح بالمخزون السالب الفعلي أو المالي. وهي تتضمن المعلمتين التاليتين:
 

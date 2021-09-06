@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 643677fb406f124e9ac48b9f9c9495fcd3e29862
-ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
+ms.openlocfilehash: 9d1351ab7547f4c0dcd988a204eea3c1765c2c648e10d34e9a668887d4c67c91
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "6072237"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131048"
 ---
 تحظى إدارة دورة حياة التطبيق (ALM) بمنظور شامل يستمر حتى يتوقف استخدام التطبيق. قد تختلف منهجيات إدارة دورة حياة التطبيق، ومن ثمّ يُعدّ اختيار المنهجية الصحيحة المناسبة لاحتياجاتك أمراً مهماً للتطوير. يتمثّل الهدف من هذه الوحدة وإدارة دورة حياة التطبيق في المساعدة على زيادة إنتاجية المطوّر وتحسين التعاون بين الفِرق وتوفير الشفافية لعناصر العمل.
 

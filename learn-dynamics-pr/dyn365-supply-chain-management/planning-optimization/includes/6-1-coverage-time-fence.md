@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2ea0ff762571f1c8d7ac30c099d43c38da042c3a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5f3d64b463e2c97b6519a9fe2a2bdcd688f2e7e26a8b9ba27eb6d5a0d3b28d8f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667467"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134810"
 ---
 يمكن للمخططين استخدام الأطر الزمنية للتغطية ضمن "تحسين التخطيط" لتحديد أفق التخطيط لاستبعاد توصيات العرض والطلب التي تتجاوز الأطر الزمنية المحددة للتغطية. يمنع الإطار الزمني للتغطية التخطيط الرئيسي من جدولة الطلبات بعيداً جداً، مما يؤدي في النهاية إلى تشتيت انتباه المخطط.
 

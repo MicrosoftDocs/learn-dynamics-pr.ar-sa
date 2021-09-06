@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f4010c9c92ab2c8c761cebf10ae75121482c4c47
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1d187f18276492e84385aa521f72c2665ed3457a5a1166c1dc7f2c8427593f87
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668282"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062439"
 ---
 أثناء إعداد المنتجات الهندسية، يعد تكوين سياسات جاهزية المنتجات خطوة هامة توفر قائمة تحقق لضمان أن كافة البيانات الرئيسية المطلوبة تم تحديدها لمنتج قبل استخدامه في الحركات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 97d1db459d17239d4cd8f71772369746a191ced6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0b5f2962895b532c8f9eca3bbf88c442e23ecb41318c9379b2cc828cff8da436
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668295"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129418"
 ---
 يجب إعداد التقويمات والموارد في وحدة إدارة المؤسسة النمطية قبل استخدام الوحدة النمطية للتحكم بالإنتاج. الموارد هي المعدات الفعلية (يشار إليها عموماً باسم "الموارد") التي يتم استخدامها لإنشاء الأصناف النهائية. 
 

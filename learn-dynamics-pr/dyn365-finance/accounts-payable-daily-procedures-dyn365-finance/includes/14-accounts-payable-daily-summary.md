@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c944665a123912afc4db26ef189e3370fcf7f137
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 707816deb145135935e30dab546eb2bd97123115a05b923554fac44572b2a0a8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677301"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109660"
 ---
 في هذه الوحدة النمطية، لقد تعلمت أنك تستطيع إدخال فواتير المورّد يدوياً أو استلامها إلكترونياً عن طريق هيئة بيانات. بعد إدخال الفاتورة أو استلامها، يمكنك مراجعة والفواتير والموافقة عليها باستخدام **دفتر يومية الموافقة على الفاتورة** أو صفحة **فاتورة المورد**. 
 

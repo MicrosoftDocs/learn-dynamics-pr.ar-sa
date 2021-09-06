@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a8581c82b49163a6b40ff8b919dedbbfa1ac1de4
-ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
+ms.openlocfilehash: 2c9cbf19e4dd75c9bbdef9c2a897eb9316f7144fe0a2315c4ffa7f787960be0c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "6307686"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7143927"
 ---
 يوفر الحل Commerce للأسواق المتوسطة ومتاجر بيع التجزئة الكبيرة بحل مقر رئيسي كامل ونقطة بيع (POS) والذي يتضمن دعماً للمتاجر على الإنترنت والمتاجر التقليدية المادية. ويمكنه مساعدة بائعي التجزئة على زياد العوائد المادية وتحسين الخدمات وإدارة التنمية والوصول للعملاء والكفاءات السهلة.
 

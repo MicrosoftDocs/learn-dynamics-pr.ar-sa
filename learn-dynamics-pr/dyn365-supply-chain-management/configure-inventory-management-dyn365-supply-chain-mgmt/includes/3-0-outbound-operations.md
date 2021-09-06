@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e158c19c50af959e97cc74c30bca8510edc78317
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a87de475d330b0d9abcae1f0630f26668bc786b59be9096aae9c06783b50fc63
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667175"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103826"
 ---
 تُستخدم أوامر المخرجات لربط سطور أوامر المبيعات وسطور أوامر النقل بعمليات الانتقاء الصادرة التي تستخدم قوائم الانتقاء.
 

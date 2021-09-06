@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 5422cb62b031215e1777f8b6e22934d7331c21cf
-  ms.sourcegitcommit: 25999e53fa21290493ff5e287874d99bceeddbac
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 03b73229434c05baefb48af43e66a8b93e16633b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/28/2021
-  ms.locfileid: "6309367"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7343497"
 title: تعرف على أساسيات Microsoft Dynamics 365 Project Operations ‏(CRM)
 prerequisites: >
   يجب أن يكون لديك فهم أساسي لمبادئ Customer Engagement وعمليات الأعمال. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.

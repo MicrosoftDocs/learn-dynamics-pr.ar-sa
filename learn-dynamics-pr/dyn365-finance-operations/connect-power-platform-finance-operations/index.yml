@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2dad821359091350e7e32dbb592d15d55d59ebf3
-  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.openlocfilehash: 43cacc68466fdf37baf190a1efdcf954cdd31e34
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/04/2021
-  ms.locfileid: "6185475"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364298"
 title: الاتصال بخدمات Microsoft Power Platform باستخدام تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nتُعد خدمات Microsoft Power Platform مثل Power Apps وPower Automate ونموذج البيانات العامة من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات Finance and Operations. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتوصيل بيانات تطبيقات Finance and Operations الخاصة بك باستخدام Power Automate.\n- الاتصال ببيانات تطبيقات Finance and Operations الخاصة بك باستخدام Power Apps.\n- تعرف على Common Data Model لتجميع البيانات من أنظمة وتطبيقات متعددة معاً.\n"

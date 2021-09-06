@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9079fbd40eae48084706be513e6076c5184da747
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 55191b9f36917ec9cf2ab0ef5db002ad3833db7c6934a041c62526000ac94a0c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078558"
 ---
 في دفتر اليومية العام، تقوم بإدخال المعلومات ذات الصلة بالحركة مثل تاريخ الترحيل والمبلغ والحسابات الرئيسية وحسابات المقابلة للترحيل إليها.  هذا هو الحد الأدنى من المعلومات التي تحتاج إلى إدخالها. يتم الخصم من حساب دفتر الأستاذ أو قيده، ثم يتم تحديد حساب مقابل.
 

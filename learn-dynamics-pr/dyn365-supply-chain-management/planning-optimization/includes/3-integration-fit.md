@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ce2b6a6f2e8f2d701e2bf4f1c4dfc17fe853667a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d5e136ee3e8ca9c4160661829f7143c55ec4486d
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668281"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7364762"
 ---
 عندما يكون "تحسين التخطيط" نشطاً، يتم تشغيل جميع الخطط الرئيسية باستخدام الوظيفة الإضافية. قد تحدث نتائج مختلفة من هذه العملية عما قد يحدث مع التخطيط الرئيسي المضمن. يساعد تحليل الملاءمة في تحديد المواضع التي قد تختلف فيها النتائج بين التخطيط الرئيسي المضمن وتحسين التخطيط. 
 
@@ -19,6 +19,6 @@ ms.locfileid: "6668281"
 > [!NOTE]
 > إذا تم العثور على تناقضات، فلا يزال بإمكانك استخدام "تحسين التخطيط". تُظهر نتائج تحليل الملاءمة الأماكن التي لا تحترم فيها خدمة التخطيط إعدادك الحالي. بمعنى آخر، تُظهر النتائج الأماكن التي قد يتم فيها تجاهل بعض العمليات أو قد لا يتم دعمها.
 
-للحصول على قائمة شاملة بالنتائج المحتملة لهذا التحليل، راجع " [تحليل ملاءمة تحسين التخطيط](https://docs.microsoft.com/dynamics365/supply-chain/master-planning/planning-optimization/planning-optimization-fit-analysis/?azure-portal=true).
+للحصول على قائمة شاملة بالنتائج المحتملة لهذا التحليل، راجع " [تحليل ملاءمة تحسين التخطيط](/dynamics365/supply-chain/master-planning/planning-optimization/planning-optimization-fit-analysis/?azure-portal=true).
 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b47e561bb30003c4e6e385c27c8ce3397aebd6a0
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a5fa6ba4e17cce2964fd6e1459f6c8a6cc9a4b82c364659889e2d2120d02b1ea
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141461"
 ---
 في صفحة قائمة **حركات المورد**، يمكنك تحديث تواريخ الاستحقاق وتواريخ الخصم لحركات المورد المفتوحة. بالنقر فوق تاريخ الاستحقاق في صفحة قائمة **حركات المورد**، يمكنك أيضاً تغيير شروط الدفع وشروط الخصم النقدي في مربع الحوار **تحديث تاريخ الاستحقاق وتواريخ الخصم النقدي**.
 

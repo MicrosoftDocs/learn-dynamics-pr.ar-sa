@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06a1c5a4efd43d74d46df0ee0962f3eab601b3f6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f21c33a9b3e0b42b556d6bd70069fad002109c1e36724dbcc498ff3d983981b5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667899"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139387"
 ---
 قبل استخدام الوظيفة الإضافية لإدارة التغييرات الهندسية لـ Dynamics 365 Supply Chain Management، يجب إكمال إعداد إصدار المنتج وتكويناته التي تمت تغطيتها في هذه الوحدة النمطية لتمكين كافة الميزات المتوفرة. وتقدم إدارة التغييرات الهندسية بنية وإدارة بيانات أقوي من خلال التحكم في الإصدار، والفئات، والسياسات، والتحكم في المنتج عبر كيانات قانونية متعددة في وقت واحد.
 

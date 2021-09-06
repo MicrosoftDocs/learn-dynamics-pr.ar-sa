@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 101f168a1e4209f57f56f445c01728b6368026ca
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 578a60df70f3d44146d82cfdd63f0ef0bfbf6dba3acdabaf7522d9138839a90b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129092"
 ---
 عند إنشاء أمر عمل، يتم إنشاء مهام أمر العمل التي لها أصول وأنواع مهام الصيانة. يمكن أن يكون لنوع مهمة الصيانة أيضاً تنبؤ بمتطلبات الصيانة، وفي هذه الحالة، يتم نسخ التنبؤ تلقائياً إلى أمر العمل. 
 

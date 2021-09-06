@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/procurement/purchase-agreements
-  ms.openlocfilehash: 4fff243e2565377cc56a7966be65c3d3a977e103
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 2bf39ab0b16682003677a142978a4db26dc76cf6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667151"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7340082"
 durationInMinutes: 12
 content: >-
   [!include[](../includes/unit-banner.md)]

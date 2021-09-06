@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9735aacaab7ba39e17c7c8fce74c0a262b462016
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 68e11aeebbe5c99be5b608ab349ca3281d64ef260777af18eedc962dd7a44d92
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677515"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047898"
 ---
 يُعد البعد المالي حساباً فرعياً للحسابات العامة، والذي يسمح بتقسيم الحسابات إلى تفاصيل إضافية لإعداد التقارير والتحليل. ومن دون الأبعاد، يجب إنشاء حسابات متعددة لكل مجموعة من أبعاد الحسابات والأبعاد المالية مثل القسم ومركز التكلفة والغرض. 
 

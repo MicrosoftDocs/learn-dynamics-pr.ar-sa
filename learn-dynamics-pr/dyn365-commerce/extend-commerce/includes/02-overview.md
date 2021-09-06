@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 0fd27e8cb36f5710147faf346fdb4bf2744667ff
-ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
+ms.openlocfilehash: 1307a154306d3aeda0b7b91a6cb4f42c8c5909d8
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "6070485"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334509"
 ---
 يوضح الرسم التخطيطي التالي بنية ملحق التجارة.
 
 [ ![رسم تخطيطي يوضح بنية ملحق commerce](../media/commerce-extension-architecture-c.jpg) ](../media/commerce-extension-architecture-c.jpg#lightbox)
 
-للاطلاع على كافة مكونات ملحق Commerce، انتقل إلى [Commerce لتكنولوجيا المعلومات للمحترفين والمطورين](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/dev-retail-home-page/?azure-portal=true). 
+للاطلاع على كافة مكونات ملحق Commerce، انتقل إلى [Commerce لتكنولوجيا المعلومات للمحترفين والمطورين](/dynamics365/commerce/dev-itpro/dev-retail-home-page/?azure-portal=true). 
 
 فيما يلي مكونات ملحق Commerce الرئيسية:
 

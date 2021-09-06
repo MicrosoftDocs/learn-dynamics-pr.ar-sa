@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6134648c9fcc5ce4c1ae5bc650eda5342eb8bdcd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3355765f28a01396c4b3c78ab1a72cb584cad584b42077b8fb3775c72140648c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7062751"
 ---
 تقوم مساحة العمل **إدارة أمر العمل** أيضاً بتسليم موقع واحد لعرض جميع أوامر العمل لديك في "إدارة الأصول" وإدارتها. 
 

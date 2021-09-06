@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: db0e5db8b7dba45fba044f024ae6de631a97808d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 85757b62a4e0b83eea3a72e7abfd24cf98594a06
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667443"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328959"
 ---
 
 ## <a name="packaging-setup-for-bulk-and-packed-products"></a>إعداد التعبئة والتغليف للأصناف المجمعة والمعبأة
@@ -23,7 +23,7 @@ ms.locfileid: "6667443"
 
 لذلك، يتم دائماً تسجيل مواصفات التشغيلة هذه عند شراء أو إنشاء دُفعة جديدة من تلك المادة لهذا الصنف. قد تختلف أنواع مواصفات التشغيلة المستخدمة بشكل كبير من صناعة إلى أخرى.
 
-لمعرفة المزيد حول مواصفات التشغيلة، راجع [تحديد مواصفات التشغيلة وتكوينها لعملية التصنيع في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/identify-configure-batch-attributes-process-manufacturing-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمعرفة المزيد حول مواصفات التشغيلة، راجع [تحديد مواصفات التشغيلة وتكوينها لعملية التصنيع في Dynamics 365 Supply Chain Management](/learn/modules/identify-configure-batch-attributes-process-manufacturing-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 ### <a name="batch-number-group"></a>مجموعة رقم الدُفعة
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7c3d7426b954a8e78e1885d74c0c15d3e81cb246
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5769f24ffc6cd8a6894c0f4a3cfac7219a1ecb07bb1dde51d1ee153e1d8da67d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128952"
 ---
 تتطلب جميع الماكينات والمعدات المستخدمة في الإنتاج والمستودعات إجراء صيانة. ويشبه ذلك أخذ سيارتك إلى خدمة الصيانة. على الرغم من اتخاذ الإجراءات الوقائية وتغيير الزيت بانتظام، يمكنك أيضاً التخطيط لوقت التعطل في حالة عدم قدرتك على استخدام المركبة حتى تكتمل الصيانة. وبالمثل، يعتمد نجاح مؤسستك على التخطيط للصيانة ووقت التعطل وتكلفة صيانة أصولك. وهذا هو المكان الذي يمكن أن تساعد فيه إدارة الأصول لـ Dynamics 365 Supply Chain Management. 
 

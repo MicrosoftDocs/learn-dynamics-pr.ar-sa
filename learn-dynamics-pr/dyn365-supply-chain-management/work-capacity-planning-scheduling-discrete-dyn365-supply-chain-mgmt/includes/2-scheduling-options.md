@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 71bdba712668c9ba1806897a662159f2a5bf2460
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b48aa6dcf774b7f0a70355d69fd8a134a64a791c143a88bac8d46f3cdf07b4fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668075"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097871"
 ---
 يتمثل دور نظام الجدولة بإدارة سلسلة التوريد في تخطيط عملية الإنتاج الفعلية بحيث يتم تعيين تاريخ ووقت بدء وانتهاء لكل عملية في مسار الإنتاج، وأن تكون المواد المطلوبة للإنتاج متاحة عند بدء العملية.
 

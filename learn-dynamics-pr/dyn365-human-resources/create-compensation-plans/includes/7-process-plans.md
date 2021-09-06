@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8eb4d73a197b22a1a0c1024359aaff3240ec30f2
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 66091f3b3a5d0ee632bc3b875168339032ef2f4a272daac097c96e393c148de1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058588"
 ---
 في Dynamics 365 Human Resources، تسمح لك معالجة التعويض احتساب مبالغ التعويض الأساسية الجديدة لموظفيك استناداً إلى تعديلات الأسهم وأهداف زيادة الجدارة والأداء. في هذا الوحدة، ستقوم بما يلي:
 

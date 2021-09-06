@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a61b5004a22a1036ee3ab82825db8593d6f197d5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e9eb193968286819360a50476b02c0864af5d6527c0fef81604d2e81dd8b8082
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668191"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139550"
 ---
 قد يحدث سيناريو تحتاج خلاله إلى إنشاء أمر عمل يدوياً. على سبيل المثال، إذا تعطل جهاز، ولم يتم إنشاء جدول صيانة أو خطة مرتبطة بالحدث. في هذه الحالة، ستحتاج إلى إنشاء أمر عمل يدوي. يمكنك إنشاء أمر عمل يدوي في وحدات إدارة الأصول بطريقتين.
 

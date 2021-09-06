@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: c943b67b6fce9fdbe9a065d08fde208f363fcf0b
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: c83455f0fe7a5e5b9f0b068ea611a2f5e83f1b18
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083627"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366345"
 ---
-لإجراء هذا التمرين، سيكون عليك الوصول إلى بيئة باستخدام Microsoft Dynamics 365 Project Operations أو Microsoft Dynamics 365 Finance مع بيانات العرض التوضيحي القياسية. يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview//?azure-portal=true).
+لإجراء هذا التمرين، سيكون عليك الوصول إلى بيئة باستخدام Microsoft Dynamics 365 Project Operations أو Microsoft Dynamics 365 Finance مع بيانات العرض التوضيحي القياسية. يمكنك الوصول إلى البيئة التجريبية لتطبيق Project Operations من خلال تحديد **الشروع في العمل** في أعلى الزاوية اليُمنى [من صفحة Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
 
 في هذا التمرين، ستنشئ طلب سفر مع بنود فئة مصروفات مفصلة ثم إرسال الطلب إلى سير عمل. 
 

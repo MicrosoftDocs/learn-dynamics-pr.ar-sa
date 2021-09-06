@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 97565acb015a549b6e23d06c82cc4c0a0ddb9442
-  ms.sourcegitcommit: a7b407c61c431b95ffa16628a89ee966a9e108b1
+  ms.openlocfilehash: 75cbdc53da4bbe8b73b7d3ff115107689020d077
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/08/2021
-  ms.locfileid: "6072826"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7348859"
 title: بدء استخدام Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيُمكّن Microsoft Dynamics 365 Project Operations مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. يوفر للشركات كل ما تحتاجه لإدارة دورة حياة المشروع من مبيعات المشروع إلى إعداد الفواتير والمحاسبة للمشاريع. يوفر تحليلات ورؤى قيّمة حول استخدام الموارد، والتوافر، والهوامش الإجمالية، وتتبع التقدم والإنفاق على المشاريع. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على مزايا Dynamics 365 Project Operations.\n- اكتشاف الميزات في Project Operations.\n"

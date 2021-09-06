@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 71e2cabfc28fe8764692c8ceb2b5b18e9e5a1d14
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 50663a957a209a4c7e8be668b509d87395b7c8903203705d20e9f83ac0243fce
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057904"
 ---
 من العوامل الهامة التي تؤثر في سمعة الشركة في السوق اليوم هي جودة البضائع والخدمات الخاصة بها. من خلال وجود إجراء قياسي لفحص جودة المنتجات عند وصولها من الموردين، والانتقال عبر سلسلة التوريد، وإرسالها إلى العملاء، يمكن للشركات تقليل عدد المرتجعات والاحتفاظ بسمعتها في السوق.
 

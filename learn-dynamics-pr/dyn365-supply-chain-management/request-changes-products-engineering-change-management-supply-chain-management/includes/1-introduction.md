@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9f3bc53f8ff2aea30de166de3a46ebe73ceb9d7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: fa9bef4961430c914d3b96bb77f847b7d55cd2576248f7153c6a0aa4d275eab3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668439"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051615"
 ---
 توفر لك الوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management عمليات منظمة لإدارة التغييرات في المنتجات الهندسية. يمكنك استخدام عملية طلب التغيير الهندسي لاقتراح التغييرات وطلبها ثم استخدام عملية أمر التغيير الهندسي لإجراء التغييرات.
 

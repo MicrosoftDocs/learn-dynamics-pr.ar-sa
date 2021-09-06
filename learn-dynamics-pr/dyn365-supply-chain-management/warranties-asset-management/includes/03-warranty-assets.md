@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c32ec8c8afa24e9b61784d9680fc525c4b8fbec2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: db82e0430a4a200d9524368bd19ecd655c4e07af8e71cc4dff552379ebd9afd2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667892"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051463"
 ---
 في الوحدة السابقة، تعرّفت على كيفية إنشاء اتفاقية ضمان. والآن، ستقوم بإقران الاتفاقية بأصل. يمكنك تنفيذ هذه المهمة عن طريق إضافة اتفاقية الضمان إلى نوع أصل بحيث تغطي جميع الأصول الموجودة في نوع الأصل هذا، أو يمكنك إضافة اتفاقية الضمان إلى أصل محدد. 
 

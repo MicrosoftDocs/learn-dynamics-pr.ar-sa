@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6185c63087c02f90ae4b8e307acac46e01fffc70
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 98040b4d99757a8f943661504b799066e5736a4e961c3b64792a724062d42d7f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667608"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077948"
 ---
 ‏‫قد تعرّفت في هذه الوحدة على أنه في التجارة بين الشركات الشقيقة، يعتمد تكامل العملية على قواعد بدء عملية في كيان قانوني آخر. بالإضافة إلى ذلك، تتوفر بيانات الأعمال في كافة الكيانات القانونية مع العملية التجارية.
 

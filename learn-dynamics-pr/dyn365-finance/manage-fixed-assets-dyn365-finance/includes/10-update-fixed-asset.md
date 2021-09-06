@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f90d465062a56b97bab9a4e2ff3054254689c7bc
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 43d934e58aefaf85edacd136ab507bc0741448b7aa49baf465e79876879b6ad1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677724"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082438"
 ---
 ## <a name="change-a-fixed-asset-group"></a>تغيير مجموعة أصول ثابتة
 

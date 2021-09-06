@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ae277062531260b7cb1ea8eb30ff031ab7d79f98
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 21bbcf818c440a2e54647a52f849e5724d2c52ba321f003e799fe1938e5dfcf1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677640"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047646"
 ---
 توفر محاسبة التكاليف في Finance رؤى مهمة حول كفاءة التكلفة وقدرة عمليات اتخاذ القرار الإداري. إنه يمكّن مراقبي التكلفة ومديري مراكز التكلفة من التحكم في تكاليف العمليات الحالية وتصنيفها وتخصيصها وتحليلها والتخطيط للتغييرات المستقبلية. 
 

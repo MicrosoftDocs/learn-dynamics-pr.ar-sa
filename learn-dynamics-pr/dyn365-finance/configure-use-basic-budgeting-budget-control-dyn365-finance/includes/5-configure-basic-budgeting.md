@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 23830fecb2a9db67b3b19dc437e76fe1d1fb90b6
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 7211da45eb9f274e34fe1ad33e2cce4d2f79fa3e693d316863da27c86c7fcc2d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677162"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109593"
 ---
 شاهد هذا الفيديو للتعرف على كيفية تكوين إعداد الموازنات الأساسية:
 

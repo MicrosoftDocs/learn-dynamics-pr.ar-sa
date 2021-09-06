@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 148e8ebf7989c39debdabb00514ee0397907e57a
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: 33e2ae04e01c07db8a481010537cd5790757ef003203793ce41c598aedc30fb1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446798"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095361"
 ---
 القائمة التالية هي السمات الرئيسية لـ Dynamics 365 Commerce:
 

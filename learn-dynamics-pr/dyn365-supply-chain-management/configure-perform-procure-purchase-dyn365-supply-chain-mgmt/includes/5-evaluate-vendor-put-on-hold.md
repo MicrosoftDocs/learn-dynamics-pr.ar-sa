@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac7d78b43db49c854cc434351246934ae986e204
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3cc0eaaf6a1da7afec8bfbb5101dd3caa10b702e1f794649892735f83c396a98
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668384"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078130"
 ---
 عند شراء أصناف من مورّد، قد يُطلب منك تقييمه.
 

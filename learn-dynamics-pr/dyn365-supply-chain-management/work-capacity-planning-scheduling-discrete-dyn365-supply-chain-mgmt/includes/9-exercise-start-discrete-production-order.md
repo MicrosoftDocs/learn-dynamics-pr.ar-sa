@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b477abf53e7530f7e83add3bf3a07a35a471b93
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 29ce6a2443cb26d5737ba078c941fac0e0a6223e57b0e83a4809e49ca0766e40
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667651"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057254"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 

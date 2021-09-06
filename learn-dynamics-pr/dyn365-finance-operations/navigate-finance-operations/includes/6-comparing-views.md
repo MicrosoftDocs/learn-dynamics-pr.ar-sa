@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d1a00841d69c65ddab5f1dea942738d1a208a54b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 109ffb660091b57d9366a047d96051e40f0ebbe6c9325a4f9541859ea506f409
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058903"
 ---
 توجد أربع طرق عرض في صفحات القوائم والصفحات:
 

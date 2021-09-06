@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b9023fcd2a687227e95194f01c77d3a6c87c62a
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 07a97a1dd2394fb43b3b6ec722672d1d8e7b6744ba15055839d969541ec740e7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677585"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047699"
 ---
 يمكنك إعداد قيود على الشركة ونوع الحساب وقيمة المقطع. 
 

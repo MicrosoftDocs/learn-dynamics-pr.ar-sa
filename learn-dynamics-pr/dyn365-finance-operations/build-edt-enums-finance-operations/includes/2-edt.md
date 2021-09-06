@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 39b00b0cbf1df0e13a400162b874ae0be83a090a
-ms.sourcegitcommit: 39f5c983a461623111bafbeb74caba62b848aa29
+ms.openlocfilehash: 47bc055e99eda54292f3fe6a40f3a986a2f3a11268f0a818a7286f9fb2fee67d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "6262721"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130983"
 ---
 تنقسم أنواع بيانات X++ إلى أنواع بيانات أولية وأنواع بيانات مركبة. في AOT، يمكنك إنشاء أنواع EDT والتعدادات الأساسية التي تعتمد على أنواع البيانات الأولية. تقوم المجموعة الأساسية لأنواع البيانات الأولية في النظام بالتعيين إلى أنواع البيانات الأساسية الموجودة في قاعدة البيانات الفعلية. يمكن توسيع أنواع البيانات الأولية هذه لإنشاء أنواع EDT. 
 

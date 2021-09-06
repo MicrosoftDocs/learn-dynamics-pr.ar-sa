@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c025fa9bc04076b696fe2474f210a5f0ab80781c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fded9d8f8312b0e325ec1f660f786c008b783bb55f073bdfda2c094edb65b4ca
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677550"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124953"
 ---
 يمكن أن تساعد المحاسبة بين الشركات الشقيقة في Finance المؤسسات من خلال توفير نقطة دخول واحدة للحركات التي يجب تسجيلها في شركات متعددة. يوفر إجراء الحركات من شركة واحدة في وقت إدخال البيانات، كما يساعد على توفير ضمان لتسجيل الحركات التي تؤثر على العديد من الشركات في كل شركة. 
 

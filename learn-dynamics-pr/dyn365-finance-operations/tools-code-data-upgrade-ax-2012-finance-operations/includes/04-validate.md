@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 808b0ab660ddb0885174bc20e11e39a64c9097e9
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 3dfab5e038dd7cbd995df603388a6cf35d089877
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072287"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342539"
 ---
 يمثل التحقق من الصحة الخطوة الأخيرة قبل العرض المباشر. فهي خطوة ضرورية لإجراء اختبار الدخان للإجابة على الأسئلة التالية.
 
@@ -36,7 +36,7 @@ ms.locfileid: "6072287"
 ## <a name="complete-functional-testing"></a>إكمال الاختبار الوظيفي
 ستحتاج إلى إكمال اجتياز اختبار وظيفي كامل لجميع عمليات الأعمال. تتضمن عمليات الأعمال هذه العمليات القديمة التي تم ترحيلها من Dynamics AX 2012 والعمليات الحديثة التي تتضمن ميزات جديدة تم تناولها في تطبيقات Finance and Operations لأول مرة. اعتماداً على جودة الكود، قد تتطلب معالجة المشكلة وإعادة الاختبار عدة تكرارات لاجتياز الاختبار الوظيفي. عندما يتم إصلاح مشكلة، تأكد من إعادة اختبار جميع العمليات المتضمنة للمساعدة في ضمان عدم تأثر عملية المراحل التمهيدية أو المراحل النهائية بالتغيير.
 
-لمزيد من المعلومات، راجع [الترقية من Dynamics AX 2012 – اجتيازات الاختبارات الوظيفية]( https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-functional-validation/?azure-portal=true).
+لمزيد من المعلومات، راجع [الترقية من Dynamics AX 2012 – اجتيازات الاختبارات الوظيفية](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-functional-validation/?azure-portal=true).
 
 ## <a name="create-a-cutover-plan"></a>إنشاء خطة مرحلية
 قبل أسبوع واحد من التخطيط لبدء العرض المباشر، يجب عليك إيقاف تغييرات التكوين في Dynamics AX 2012. يعتبر القيد المفروض على تغييرات التكوين إجرائياً؛ حيث يجب أن يوافق مسؤولو نظام Dynamics AX على تعليق جميع التغييرات في هذه المرحلة. نوصي بشدة ببدء تجميد الكود في أساس كود تطبيقات Finance and Operations. لا ينبغي السماح بأي تغييرات ما لم يتم تقييمها وإثبات أنها لا تمنع العرض المباشر. يجب تشغيل ترقية البيانات لآخر مرة قبل التكوين المرحلي، بعد تفعيل قيود التكوين وتجميد الكود. ويساعدك هذا الأسلوب في ضمان استمرار عمل الترقية كما هو مخطط لها.
@@ -56,10 +56,10 @@ ms.locfileid: "6072287"
 6.  قم بتشغيل برنامج نصي T-SQL مقابل قاعدة البيانات المستوردة لإعادة تعيين مستخدمي قاعدة بيانات SQL. 
 7.  قم بتشغيل حزمة ترقية البيانات المناسبة مقابل قاعدة البيانات المستوردة. 
 
-لمزيد من المعلومات، راجع [الترقية من AX 2012 – ترقية البيانات في بيئات اختبار معزولة]( https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-data-sandbox/?azure-portal=true).
+لمزيد من المعلومات، راجع [الترقية من AX 2012 – ترقية البيانات في بيئات اختبار معزولة](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-data-sandbox/?azure-portal=true).
 
 
 تحتاج إلى تلبية العديد من المتطلبات قبل أن تتمكن من نسخ قاعدة البيانات إلى الإنتاج، بما في ذلك التأكد من إكمال جميع المهام في مرحلة التحقق من الصحة. عندما تكون جاهزاً لجدولة ترقية الإنتاج، فستقوم بجدولة طلب خدمة في Lifecycle Services. تأكد من جدولة طلب الخدمة بأسرع ما يمكن، خاصة إذا كنت تحتاج إلى فترة زمنية في نهاية الأسبوع لأن هذه الفترات تكون مطلوبة بشدة. 
 
-لمزيد من المعلومات، راجع [إرسال طلبات الخدمة إلى فريق هندسة خدمات Dynamics]( https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/submit-request-dynamics-service-engineering-team/?azure-portal=true).
+لمزيد من المعلومات، راجع [إرسال طلبات الخدمة إلى فريق هندسة خدمات Dynamics](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/submit-request-dynamics-service-engineering-team/?azure-portal=true).
 

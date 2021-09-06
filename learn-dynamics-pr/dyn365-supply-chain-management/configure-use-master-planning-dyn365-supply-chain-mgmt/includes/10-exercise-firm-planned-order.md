@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f28bbc9483a84843a3bbe3eec981b01c80a5be6d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1f460da8899d3b861d13e49c42a086243f51113107c828c017348424ca7ecb06
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668032"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091838"
 ---
 في هذا التدريب، ستقوم بتأكيد أمر مخطط‬.
 

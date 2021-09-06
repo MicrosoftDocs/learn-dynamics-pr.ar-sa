@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 809f674d76dd5d08658efa4041ff4ffe3e37bda8
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 576e6d60967c9351e932baceed361509bdc9931a8eb2dda6d4de4baab90dc519
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6692838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098969"
 ---
 ضمن خضام الأعمال التجارية التي تسود جميع أنحاء العالم، من الضروري أن تكون على دراية بخياراتك لحقول التاريخ والوقت والمناطق الزمنية.
 

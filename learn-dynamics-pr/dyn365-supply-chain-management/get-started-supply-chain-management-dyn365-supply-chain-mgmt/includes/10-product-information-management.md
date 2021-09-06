@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2bca64ad026e03cb1866a6e0e325d96e007852dd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f84e4c963a7a758b5f6a6c5d221966be5c9eeb9a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667915"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7345857"
 ---
 تشكل معلومات المنتج العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. إذ تشير إلى العمليات والتكنولوجيات التي تركز على الإدارة المركزية للمعلومات عن المنتجات (على سبيل المثال، عبر سلاسل التوريد). 
 
@@ -27,5 +27,5 @@ ms.locfileid: "6667915"
 - وحدات القياس والتحويلات المرتبطة
 - الترجمات الخاصة بكافة الأسماء والأوصاف
 
-لمزيد من المعلومات، راجع [إنشاء المنتجات وأصول المنتجات في وحدة Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات، راجع [إنشاء المنتجات وأصول المنتجات في وحدة Dynamics 365 Supply Chain Management](/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/?azure-portal=true).
 

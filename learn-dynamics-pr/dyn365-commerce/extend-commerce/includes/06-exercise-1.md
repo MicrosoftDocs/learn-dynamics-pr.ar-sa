@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 81a82d634a02428f67202814bfe15c1beab48ee4
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6784e85540d96971e8226baff9c1dd9b8b11ab67df5ba46d072647ea8e200b7c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070088"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7084146"
 ---
 في هذا التمرين، ستقوم بتنفيذ مشغل ثم تسجيل الملحق وتصحيح CRT، والتحقق من صحة الملحق.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3fecf6aafb0fad24203206a82c0b3a44c6802473
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: a0c8878396a7d20189c8a08eedc3959d5761a50c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677235"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7349050"
 ---
 يدير أمر معالجة النقد دورة حياة عملية المبيعات، والتي تتكون من العمليات الفرعية لاستلام مبيعات العملاء ومعالجتها.
 
@@ -12,7 +12,7 @@ ms.locfileid: "6677235"
  
 في أمر معالجة النقد، تتلقى المؤسسة الأوامر من خلال طرق مختلفة، مثل موقع الويب والبريد الإلكتروني وتبادل البيانات الإلكتروني (EDI) والهاتف والمزيد. يتم تنفيذ الأوامر من خلال الخدمات اللوجستية ومن ثم قد يتم حجز العناصر قبل التقاطها وتعبئتها بعد التقاطها وشحنها إلى العملاء.
 
-قد تتطلب بعض المؤسسات اتفاقيات مبيعات تعاقدية لضمان الوفاء بالالتزامات قبل قبول أوامر المبيعات ومعالجتها. لمزيد من المعلومات حول الاتفاقيات، راجع [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true).
+قد تتطلب بعض المؤسسات اتفاقيات مبيعات تعاقدية لضمان الوفاء بالالتزامات قبل قبول أوامر المبيعات ومعالجتها. لمزيد من المعلومات حول الاتفاقيات، راجع [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 عادةً ما تقوم إدارة الحسابات المدينة بإصدار فاتورة الأمر وإرسالها إلى العميل.
 
@@ -20,9 +20,9 @@ ms.locfileid: "6677235"
 
 لمزيد من المعلومات حول الحسابات المدينة وعمليات التحصيل، يرجى الرجوع إلى الوحدات النمطية التالية:
 
--   [تنفيذ الإجراءات اليومية للحسابات المدينة في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/accounts-receivable-daily-procedures-dyn365-finance/?azure-portal=true)
+-   [تنفيذ الإجراءات اليومية للحسابات المدينة في Dynamics 365 Finance](/learn/modules/accounts-receivable-daily-procedures-dyn365-finance/?azure-portal=true)
 
--   [تكوين عمليات التحصيل والائتمان في Dynamics 365 Finance](https://docs.microsoft.com/learn/modules/configure-credit-collections-dyn365-finance/?azure-portal=true)
+-   [تكوين عمليات التحصيل والائتمان في Dynamics 365 Finance](/learn/modules/configure-credit-collections-dyn365-finance/?azure-portal=true)
 
 هناك عملية أخرى تحدث في سيناريو أمر معالجة النقد وهي تنفيذ الأمر. تضمن هذه العملية أن الشركة لديها المنتجات والخدمات التي يمكن شحنها إلى العميل.
 

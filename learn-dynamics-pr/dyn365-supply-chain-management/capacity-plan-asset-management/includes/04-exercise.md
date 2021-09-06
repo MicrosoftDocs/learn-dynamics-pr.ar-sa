@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3d0c16cf57a59fd34399903fc9bea043b6d3961e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f99759208fa8a16bdc5a5ae250d7e0730ef57ac172286e773198153438a8b11b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667528"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067843"
 ---
 لقد طُلب منك تشغيل القدرة الإنتاجية في جميع جداول الصيانة، بحيث تبدأ في يناير وتنتهي في مارس، مع تقسيمها حسب نوع مهمة الصيانة. 
 

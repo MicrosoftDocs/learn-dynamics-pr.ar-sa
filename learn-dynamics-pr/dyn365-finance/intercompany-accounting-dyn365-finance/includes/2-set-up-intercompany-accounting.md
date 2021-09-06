@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6013b2e406100b8a68b012de77adbae074ee5325
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 7e080b6b28b80b513a6e0297ab431a87fb61c5c122243354e906c10ef485eaf5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677758"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124975"
 ---
 عند استخدام دفاتر اليومية للمحاسبة بين الشركات الشقيقة في Finance، فإن الحركات التي تم ترحيلها في إحدى الشركات ستؤدي إلى ترحيل الحركات ذات الصلة تلقائياً في الشركة الأخرى. 
 

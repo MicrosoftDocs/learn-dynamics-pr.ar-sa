@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cf5aff5a14ac5fa321fd380d2fafe866ee25a5c0
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: e108c0d70f7dc7f4c28b4c0cdf2b8c621e91d59c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072410"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362760"
 ---
 تختلف بنية التكامل لتطبيقات Finance and Operations عن Dynamics AX 2012. يجب أن تكون على دراية بالعديد من المفاهيم الجديدة، بدءاً من مراجعة مكونات التكامل. 
 
@@ -32,12 +32,12 @@ ms.locfileid: "6072410"
 
 يمكن استدعاء واجهات برمجة التطبيقات (API) لتكامل REST وSOAP التي توفرها تطبيقات Finance and Operations بشكل غير متزامن ومتزامن. 
 
-لمزيد من المعلومات، راجع [نظرة عامة على كيانات البيانات](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities/?azure-portal=true).
+لمزيد من المعلومات، راجع [نظرة عامة على كيانات البيانات](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities/?azure-portal=true).
 
 
 
 ## <a name="authentication-in-the-cloud"></a>المصادقة في السحابة
-ستدعم خدمات OData والخدمات المخصصة المستندة إلى JSON وخدمة بيانات تعريف REST مصادقة OAuth 2.0 القياسية. يتم أيضاً دعم [تدفق منح كود التفويض](https://msdn.microsoft.com/library/azure/dn645542.aspx/?azure-portal=true) والخدمة لمكالمات الخدمة باستخدام بيانات اعتماد العميل (السر المشترك أو الشهادة) (راجع [النظام الأساسي لهويه Microsoft وتدفق بيانات اعتماد عميل OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/active-directory-protocols-oauth-service-to-service/?azure-portal=true)). يوجد نوعان من التطبيقات معتمدان في Microsoft Azure Active Directory (Azure AD):
+ستدعم خدمات OData والخدمات المخصصة المستندة إلى JSON وخدمة بيانات تعريف REST مصادقة OAuth 2.0 القياسية. يتم أيضاً دعم [تدفق منح كود التفويض](https://msdn.microsoft.com/library/azure/dn645542.aspx/?azure-portal=true) والخدمة لمكالمات الخدمة باستخدام بيانات اعتماد العميل (السر المشترك أو الشهادة) (راجع [النظام الأساسي لهويه Microsoft وتدفق بيانات اعتماد عميل OAuth 2.0](/azure/active-directory/develop/active-directory-protocols-oauth-service-to-service/?azure-portal=true)). يوجد نوعان من التطبيقات معتمدان في Microsoft Azure Active Directory (Azure AD):
 
 - **تطبيق Native client** – يستخدم هذه التدفق اسم مستخدم وكلمة مرور للمصادقة والتفويض.
 - **تطبيق الويب (العميل السري)** – يعد العميل السري أحد التطبيقات التي يمكنها الاحتفاظ بسرية كلمة مرور عميل بالنسبة للعالم. قام خادم التفويض بتعيين كلمة مرور العميل هذه إلى تطبيق العميل.
@@ -46,7 +46,7 @@ ms.locfileid: "6072410"
 
 
 - [OAuth 2.0 في Azure AD](https://msdn.microsoft.com/library/azure/dn645545.aspx/?azure-portal=true)
-- [استكشاف مشاكل مصادقة الخدمة وإصلاحها](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/troubleshoot-service-authentication/?azure-portal=true)
+- [استكشاف مشاكل مصادقة الخدمة وإصلاحها](/dynamics365/fin-ops-core/dev-itpro/data-entities/troubleshoot-service-authentication/?azure-portal=true)
 
 
 ## <a name="event-driven-architecture"></a>بنية تستند إلى الحدث

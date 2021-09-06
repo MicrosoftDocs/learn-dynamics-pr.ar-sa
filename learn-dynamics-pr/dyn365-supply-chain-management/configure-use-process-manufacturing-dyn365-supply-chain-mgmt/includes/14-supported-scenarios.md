@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4e8777ae1f902f8cbacf02c58a265a69d351ec47
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3125927226c0e062aa7c716fad773faf6112444bba747574c03609c9f292defe
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668027"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086688"
 ---
 لا تدعم جميع مهام سير العمل معالجة منتجات وزن التعبئة مع إدارة المستودع. تنطبق القيود التالية:
 

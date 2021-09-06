@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 94d6ee6784e41ccb14121156c94cf3e331ebabf9
-ms.sourcegitcommit: f126707f3cd62c9afe92b7822710824f46c75cb3
+ms.openlocfilehash: 00d50925bef650f191d68e0136b0ef136ee75e30
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "6070466"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328428"
 ---
 طلب العميل هو طلب نقطة البيع (POS) يتم إنشاؤه حيث سيتم الوفاء بالمنتجات لاحقاً. تنفيذ الطلب يمكن أيضاً من خلال موقع مختلف. 
 
@@ -128,7 +128,7 @@ ms.locfileid: "6070466"
 ![لقطة شاشة لمربع حوار فتحة التاريخ والوقت.](../media/pickup-date-time-ss.png)
 
 ### <a name="time-slot-selection-for-e-commerce-orders"></a>اختيار الفتحة الزمنية لأوامر التجارة الإلكترونية
-للحصول على معلومات حول كيفية إتاحة تحديد الفتحة الزمنية لأوامر التجارة الإلكترونية، راجع [وحدة معلومات الاستلام](https://docs.microsoft.com/dynamics365/commerce/pickup-info-module/?azure-portal=true).
+للحصول على معلومات حول كيفية إتاحة تحديد الفتحة الزمنية لأوامر التجارة الإلكترونية، راجع [وحدة معلومات الاستلام](/dynamics365/commerce/pickup-info-module/?azure-portal=true).
 
 > [!NOTE]
 > يمكن للمستخدمين عرض أو تحرير خانات وقت الالتقاط على صفحة الخروج الخاصة بموقع التجارة فقط إذا تمت إضافة وحدة معلومات الالتقاط إلى تلك الصفحة. إذا لم تتضمن صفحة الخروج وحدة معلومات الالتقاط، فسيتم وضع الطلبات دون السماح للمستخدمين بتحديد أو عرض معلومات الفتحة الزمنية.

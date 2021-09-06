@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 22fe234adcbd4c4ff482b0294a98a2c606730a05
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 8396cd84af5c93407505bad303c622f4544446cfb11bd37ebb3a8e285791931c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677251"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093534"
 ---
 يوضح هذا الإجراء عملية خطاب الضمان التي تحدث بعد اكتمال التكوين في الوحدة السابقة.
 

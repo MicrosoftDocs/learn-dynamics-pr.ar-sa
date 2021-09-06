@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9ac4dfe3497adbe95fe6c230d40baff45030fa6a
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: ce8313a02fb1e1ae55d26ae56a9fc734c1b7ffad3002b29d6c0d2815016dfc0b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272505"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115040"
 ---
 حدد سيناريو Project Operations للمورد أو غير المخزن إذا كنت جديداً في Project Operations وإذا لم تقم بنشر تطبيقات Finance and Operations وتطبيقات Microsoft Dynamics 365 Customer Engagement.
 

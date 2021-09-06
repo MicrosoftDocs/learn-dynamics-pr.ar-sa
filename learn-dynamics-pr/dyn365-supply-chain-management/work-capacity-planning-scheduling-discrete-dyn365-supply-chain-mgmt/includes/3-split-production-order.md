@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0b41c78b8eeabd948a8369505fd92c0760cf9690
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6d02fda6c29772b6211f0cc75b9d6b52d9b6f6bb99117688b89ad562c7008462
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668074"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046229"
 ---
 وحتى يتم بدء إجمالي الكمية المجدولة للإنتاج، يمكن تقسيم الإنتاج. ويعني تقسيم الإنتاج انخفاض الكمية المجدولة للإنتاج الحالي، وإنشاء إنتاج جديد للكمية التي يتم تقسيمها من عملية الإنتاج الأصلية.
 على سبيل المثال، يمكنك تقسيم الإنتاج للعملاء الذين طلبوا بالفعل كمية كبيرة ولكن مع تسليم جزء من الكمية المطلوبة في أسرع وقت ممكن.

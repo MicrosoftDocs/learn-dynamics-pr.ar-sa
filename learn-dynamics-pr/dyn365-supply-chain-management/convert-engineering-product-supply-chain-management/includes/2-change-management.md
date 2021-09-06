@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 680bcef1024c7be2d19b549699304e5766654f05
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d4c53e686b97fc8784deeee7aa862faa054d5426b6445a65881eebf57d0a2981
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667491"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052042"
 ---
 لتمكين ميزة **تمكين إدارة التغيير على المنتجات الحالية** في مساحة العمل **إدارة الميزات** في Supply Chain Management، اتبع الخطوات التالية:
 

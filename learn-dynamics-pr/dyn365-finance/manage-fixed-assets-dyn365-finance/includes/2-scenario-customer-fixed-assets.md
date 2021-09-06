@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4adb2f3f9dfd40354ef8299d94d18d537b0753b4
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2b6224db3dc37c6748376e4bfe50b61a72db23ac983d97b531f5d43f8987cc28
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677716"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063581"
 ---
 بصفتك مستشاراً وظيفياً، يجب أن تفهم أولاً سيناريو متطلبات العملاء المحددة.
 

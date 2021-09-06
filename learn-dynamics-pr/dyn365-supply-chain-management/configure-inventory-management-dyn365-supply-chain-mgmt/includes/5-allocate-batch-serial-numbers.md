@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eeb3f42e55e94ee632bb468b66d051208d83cbf5
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6664987e04e56d9794fe5fd49daae1daa2d7f25095b11d4a295c316ebc26b6d0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667173"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135674"
 ---
 الأرقام التسلسلية وأرقام الدُفعات هي أبعاد للمخزون. وبالتالي، عليك تعيينها فقط للأصناف التي تتضمن مجموعات أبعاد تعقب حيث تكون هذه الأبعاد نشطة. يمكنك تعيين ‏‫أرقام تسلسلية أو أرقام دُفعات يدوياً أو تلقائياً اعتماداً على ما إذا كان للصنف رقم تسلسلي يمكن مسحه ضوئياً وإدخاله في Supply Chain Management، أو ما إذا كان الرقم التسلسلي يجب تعيينه استناداً إلى مجموعة أرقام تسلسلية.
 

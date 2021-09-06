@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9fe61de0a25b9e0a137ab75a0664f8c57549513
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: da4fdfa62bc07a8671c184ecf4ee7edd620169e4e488be435be45308b8c1ebe1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668350"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081717"
 ---
 كجزء من عملية تسوية حركات الإصدار بحركات الاستلام، يمكنك أيضاً تحديد تحديث دفتر الأستاذ العام ليعكس التعديلات التي تم إجراؤها.
 

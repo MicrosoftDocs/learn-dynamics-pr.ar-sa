@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f8d555c65a727181fb0d9551243546165a66368d
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 7375318b33bdaf47aa3bbdf7d5e187b61fe250363e75c5bf0bf53fca31148b65
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136774"
 ---
 يُستخدم Application Object Server‏ (AOS) لتطبيقات Finance and Operations لمشاركة كائنات التطبيق والمعلومات كأداة فعالة لزيادة أداء التطبيق.
 

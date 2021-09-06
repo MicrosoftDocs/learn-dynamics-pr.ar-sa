@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6c4af98e274dbe10be1e815cd8b16d339fc2679
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ead6d8934d384b132f605a5f7981db3eb88a3cfa731476fd52d5d1b01e5cc1f7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677260"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078842"
 ---
 
 يمكنك استخدام الصفحة **تسوية الحركات** لإجراء تغييرات في الحركات للعملاء. تتوفر الحركات غير المطبقة فقط للتحرير. توضح الإجراءات التالية كيفية إكمال المهام التالية:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee4037f609438894242a3fc75444e26e8f5c3d96
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 66f85b9c3f33fb52b9a39be8c673e773d2a7b328bc2441422caae3db58712271
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668365"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139687"
 ---
 يسمح التخطيط الرئيسي للشركات بتحديد وموازنة الحاجة المستقبلية للمواد الخام والقدرة الإنتاجية على تحقيق أهداف الشركة. تعمل ميزة التخطيط الرئيسي على تقييم المعلومات التالية:
 

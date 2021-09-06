@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 717605dad41f9b38b8b3957bd9f60b881bffe868
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: bcaac6a9204879123aa5e86e919b1d0b1e2140012ff7611a9ea25b25a8a0b29a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677368"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141337"
 ---
 > [!NOTE]
 >  يجب تنفيذ المعامل في هذه الوحدة النمطية بالتسلسل في نفس بيئة Dynamics 365 Finance.

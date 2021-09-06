@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b7b9f1fd915673ae391c6c496960184e8d9a3fb
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 124a6323c68670450a2ef0311316d5c9842b0589be401efb68910f9127e35fcd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677302"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109672"
 ---
 يكشف هذا التدريب تسجيل فواتير المورّد غير المقترنة بأوامر الشراء. تتضمن أمثلة هذا النوع من الفواتير المصروفات الخاصة بالموارد أو الخدمات. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 36884238b03282a6d19a74a08fd8d703151d33a8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e644768c3a0139b723e101a3c4226498b5ae2392
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667583"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7364792"
 ---
 يتمثل الغرض من تكوينات قائمة مكونات الصنف والأصناف في تمكين الإدارة الدقيقة للمخزون والتخطيط الرئيسي لكل صنف. توفر هذه الوحدة معلومات حول تكوين أصناف قائمة مكونات الصنف وتقدم نظرة عامة على بنية العملية الحسابية لقائمة مكونات الصنف وعملية الإعداد المطلوبة لإجراء الحسابات. وتوضّح أيضاً كيفية تكوين قائمة مكونات الصنف في Supply Chain Management.
 
@@ -42,7 +42,7 @@ ms.locfileid: "6667583"
 
 في حالة إتاحة المنتج بأشكال مختلفة وتوفُّر جميع التكوينات على سبيل المثال بالسعر نفسه أو وقت التسليم نفسه، من الممارسات الجيدة استخدام تكوينات المنتج بدلاً من إنشاء أصناف فردية تتبع النمط نفسه.
 
-لمزيد من المعلومات عن تكوين المنتج، يُرجى الاطّلاع على [‬‏‫الشروع في العمل باستخدام تكوين المنتج في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/get-started-product-configuration-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات عن تكوين المنتج، يُرجى الاطّلاع على [‬‏‫الشروع في العمل باستخدام تكوين المنتج في Dynamics 365 Supply Chain Management](/learn/modules/get-started-product-configuration-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 ### <a name="scenario"></a>السيناريو
 

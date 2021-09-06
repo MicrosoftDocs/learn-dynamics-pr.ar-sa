@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 261ae81f6c9181b89cd4fb70e08c9d64d11d94d2
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 75a541a4d1b65e7f9f6b5cdbe58b6819fc45a2e57ee53c0a6cc137a2049f2b5b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072617"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100050"
 ---
 ## <a name="scenario"></a>السيناريو
 يُعد مطور تطبيقات Finance and Operations موظفاً جديداً في شركة Fleet Management. يحتاج المطور إلى إنشاء المشروع الخاص به في Visual Studio لبدء تطوير عناصر جديدة. تم تكليف المطور بإنشاء نوع البيانات الملحقة (EDT) للون السيارة.

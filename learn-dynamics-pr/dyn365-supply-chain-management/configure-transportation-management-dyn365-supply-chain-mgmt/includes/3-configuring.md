@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f2ac813f9c2f80350232cc69f43fe693a435289c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: eef34f707ef33c0ac5e5f0db2ca994c51d698f50cf0c3c3108b822e30bcf3d43
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667812"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091965"
 ---
 ## <a name="rate-masters"></a>أصول السعر 
 

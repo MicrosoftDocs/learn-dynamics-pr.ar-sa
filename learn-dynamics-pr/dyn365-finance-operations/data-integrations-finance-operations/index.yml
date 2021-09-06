@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 263cc538a599ae2ee904c5b0ed0073d55c5f8b0b
-  ms.sourcegitcommit: 7ec2735d4a7c2f8d9603161a2339f66e7fa5d42c
+  ms.openlocfilehash: 7faeb621f07158f0e2f4f3b6521fd320e5cb16b4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2021
-  ms.locfileid: "6646014"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7339501"
 title: تكاملات البيانات مع تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيُعد التكامل مكوناً مهماً في تنفيذ تطبيقات Finance and Operations. يمكنك عن طريق تنفيذ التكامل المتكرر تمكين تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وتطبيقات أو خدمات الجهة الخارجية. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد مشروع بيانات.\n- إعداد وظيفة بيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويمكنك استخدام كيانات البيانات المركبة.\n- ويمكنك عمل تكامل بين كيانات البيانات المركبة.\n- ويمكنك تصدير كيانات البيانات المركبة.\n- تعرّف على Azure Data Lake ومتجر الكيان.\n"

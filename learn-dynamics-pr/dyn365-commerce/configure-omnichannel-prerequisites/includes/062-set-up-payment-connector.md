@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0cddca5470b4d94d56a68b77d7f833f01934e075
-ms.sourcegitcommit: d8ae5ea2abe98cfc202df6bdbffd7c56806ae143
+ms.openlocfilehash: 19f0784eaf22581b330fd260c81982431504c06d
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "6070479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326877"
 ---
 لإعداد موصل المدفوعات في Commerce، سيتعين عليك:
 
@@ -82,7 +82,7 @@ ms.locfileid: "6070479"
 بعد إجراء التغييرات الواردة أعلاه في المركز الرئيسي لـ Commerce، قم بمزامنة التغييرات باستخدام جدول التوزيع 1070.
 ## <a name="configure-paypal-for-the-storefront-checkout-module"></a>تكوين PayPal لوحدة الخروج على واجهة المتجر‬
 
-للحصول على تفاصيل تتعلق بتكوين واجهة المتجر لاستخدام PayPal في وحدة الدفع، راجع [وحدة الدفع](https://docs.microsoft.com/dynamics365/commerce/payment-module/?azure-portal=true).
+للحصول على تفاصيل تتعلق بتكوين واجهة المتجر لاستخدام PayPal في وحدة الدفع، راجع [وحدة الدفع](/dynamics365/commerce/payment-module/?azure-portal=true).
 
 ## <a name="enter-a-merchant-relationship-with-paypal"></a>الدخول في علاقة تاجر مع PayPal
 

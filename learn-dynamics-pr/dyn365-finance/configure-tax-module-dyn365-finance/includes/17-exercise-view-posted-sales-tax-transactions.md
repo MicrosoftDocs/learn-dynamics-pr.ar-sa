@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 822092b141f128ebcb45bfd362421586b59b9d64
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 29eb4e118102c901aae5a439763a286f7acb1317c6959311b857469d2ee43da2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677741"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093421"
 ---
 يمكنك عرض حركات ضريبة المبيعات المرحلة من الصفحات المختلفة استناداً إلى ما تحتاج إلى عرضه. 
 

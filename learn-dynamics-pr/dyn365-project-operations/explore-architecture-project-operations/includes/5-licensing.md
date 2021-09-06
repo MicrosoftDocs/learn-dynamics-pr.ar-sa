@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8db1bd777d71d1f08db98c445f766eaf97dd801b
-ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
+ms.openlocfilehash: 5399525d9ffb10826c8d83eb2e19cb2ef7d6360ed66335444ddb95512733f991
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2021
-ms.locfileid: "6083798"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092479"
 ---
 تتبع معظم تراخيص المستخدم الكامل لـ Dynamics 365 نموذج base زائد attach، والذي يوفر طريقة فعالة لمستخدم واحد يتم ترخيصه للعديد من التطبيقات. لترخيص تطبيق Dynamics 365 الأساسي للأعمال، يمكن للعملاء شراء تراخيص base أو، في العديد من الحالات، تراخيص attach. يجب أن يكون لكل مستخدم كامل ترخيص base. وتكون حركة المبيعات هذه مستندة إلى ترخيص المستخدم (USL). يمكن فقط شراء تطبيقات الأعمال التي هي تراخيص USL كترخيص attach.
 

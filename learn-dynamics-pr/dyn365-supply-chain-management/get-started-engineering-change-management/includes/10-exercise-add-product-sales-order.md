@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e39b79f75da95ac2b3567f9a175dec17525b7af8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 575f076af750aa6a4fdf0494fd93aaee740db463398cafa510c4c6cd5c16380f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667575"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135096"
 ---
 يمكن الآن بيع المنتج إلى العميل. لإضافة المنتج إلى أمر مبيعات، اتبع الخطوات الآتية.
 

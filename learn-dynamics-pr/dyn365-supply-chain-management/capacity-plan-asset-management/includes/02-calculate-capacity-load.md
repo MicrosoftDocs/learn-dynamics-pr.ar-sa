@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ee05c81fc4b501c9dca25203bfa82488bee0104
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: faf5accc330c1eba37812f282fc747beb33fca06828aa1a09791276a258c7182
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667529"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058150"
 ---
 نظراً لأن القدرة الإنتاجية توضح الطلب الموضوع على نظام، يمكنك تشغيل الحساب استناداً إلى المعلومات التالية:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ed91ba38c713bcb4716d33bfe3ca54f167fea428
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 03c35a6e024143b9ee2722b8bca1081960a510988d1f05c73880ea318f414fd9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668187"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134865"
 ---
 يمكن أن تحتوي العديد من الأصول على عدادات لأشياء مثل عدد الساعات التي كان فيها الأصل قيد التشغيل أو الكمية التي تم إنتاجها. على سبيل المثال، قد يتم استخدام عداد لتعقب عدد الساعات التي تم فيها تشغيل الرافعة الشوكية، أو قد يكون لجهاز التعبئة عداداً لعدِّ الأصناف التي تم إنتاجها. 
 

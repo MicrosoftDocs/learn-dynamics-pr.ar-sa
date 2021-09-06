@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 370dd4154e95eb88365601fd372a3ac705628bf4
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: 337419b5853993c518ca8ac549d13a1d2032434f0891d5d9f06bd472c3db60f0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656557"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115598"
 ---
 في هذه الوحدة النمطية، تعلمت كيفية إعداد مكونات خطة التعويض في Dynamics 365 Human Resources، وإنشاء خطط تعويض ثابتة ومتغيرة، ومعالجة التعويض.
 

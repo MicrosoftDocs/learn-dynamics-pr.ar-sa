@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fea2e1723315a2b372fc5cd634d1ff5d48d179d3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: aba6795b371248237261127e95f21db2c3f65978c40c0aacd1888562dec67acd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677633"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120109"
 ---
 تشير أكواد تقارير ضريبة المبيعات إلى رقم الحقل في تقرير ضريبة المبيعات. ويتم استخدامها في تخطيطات التقرير الخاصة بالبلد أو المنطقة وتقرير **دفع ضريبة المبيعات حسب الكود** لطباعة مبالغ ضريبة المبيعات لفترة التسوية التي يتم تلخيصها لكل كود تقرير.  
 

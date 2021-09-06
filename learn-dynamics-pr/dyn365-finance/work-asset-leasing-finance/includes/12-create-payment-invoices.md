@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6e5f91b8c33e8dc571171add435de75872f6bf3e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 3ef0e0bc9cbadaeaa15c5539263b7eb6e4e4ab43adebe85e5f502b9b7e15a999
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677144"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136157"
 ---
 يمكنك إنشاء فواتير شهرية لتأجيرات فردية، أو يمكنك استخدام معالجة المجموعة لإنشائها للعديد من الإيجارات. بشكل افتراضي، تقوم بنود فاتورة المورد التي تم إنشاؤها باستخدام ملف تعريف ترحيل المورد من الصفحة **معلمات الحسابات الدائنة**.
 

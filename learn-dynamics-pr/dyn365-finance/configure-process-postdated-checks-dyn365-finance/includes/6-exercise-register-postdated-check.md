@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad992b925e0a4fa5308334c5db214972858cc940
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c74a4d414b16c5e20c2d17e9c9f75025b1cc8767b5a26e8aad6d0ece34b88fab
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677451"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087338"
 ---
 ## <a name="customer"></a>العميل 
 

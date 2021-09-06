@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 54475ef6fff137c34c5201d0f660bc644c4b5fd9
-ms.sourcegitcommit: cc6e7a2bf076db26cc4192e5e45086d2284d1ab3
+ms.openlocfilehash: 3cea8a0763de48d2e38803d14b4b3d650c13a4d3c9b35a07c88defd88d848d26
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "6072552"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058867"
 ---
 ## <a name="scenario"></a>السيناريو
 تحتاج إلى إضافة التدرج الهرمي للمؤسسة في تعريف التقرير لإصدار بيان الدخل والميزانية العمومية مُجمعين. عند اكتمال التحديثات، ستقوم بإنشاء التقرير المُجمع واستعراض التقرير باستخدام شجرة التقارير.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 915e0e7566c749718c212c15d0d4df19bd0a6aec
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 660dc5df03a390309c692c939bddd3bf3fc03cb6942b715e17dfac8976bb6808
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677228"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093438"
 ---
 في هذا التدريب، ستقوم بإعداد أكواد ضريبة المبيعات ومجموعات ضريبة المبيعات.
 

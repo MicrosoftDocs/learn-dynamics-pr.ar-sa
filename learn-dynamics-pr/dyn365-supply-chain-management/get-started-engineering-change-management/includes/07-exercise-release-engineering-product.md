@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6a1ff6e80c44dd993c7ee7f2f56456f826599705
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c05f5ea25dcbfb23a23e8fdcba37643b675b3f19fa1b278f42aa53e172f5c7fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667924"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051825"
 ---
 لقد انتهى القسم الهندسي من تصميم المنتج الآن. وبالنسبة إلى هذا المثال، يكون المنتج نموذجاً أولياً تم تصميمه لأحد العملاء. نظراً إلى أن العميل هو عميل الكيان القانوني *USMF*، يجب إصدار المنتج لهذا الكيان القانوني.
 

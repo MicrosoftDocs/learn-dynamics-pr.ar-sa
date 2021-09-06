@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c593ec67a533328581230c497b0eaed39bc381a9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cf8b6b49a98ca6fda364657badd5ec20ad5916957740dc32ca997deb823224af
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135680"
 ---
 تتيح لك أكواد السبب تحليل نتائج عملية الجرد وأية اختلافات تحدث أثناء هذه العملية. يمكنك تحديد سبب إجراء الجرد، مثل البالتة المكسورة أو تعديل المخزون المستند إلى عينات المخزون.
 

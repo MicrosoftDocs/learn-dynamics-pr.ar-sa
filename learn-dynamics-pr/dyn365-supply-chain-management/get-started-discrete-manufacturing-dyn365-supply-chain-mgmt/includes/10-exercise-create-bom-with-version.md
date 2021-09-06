@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c56326c249e10c739028a9dbdb241fb02f571b7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: eb138a941761c502121b7c2106f11533949c58e1cd9b4eabe8e2a9beeb02a459
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667926"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063006"
 ---
 لقد حدد قسم المبيعات الحاجة إلى سماعة عالية الجودة، باللون الوردي بدلاً من الأسود. بصفتك مصمم المنتج، تتم مطالبتك بإنشاء قائمة مكونات الصنف باستخدام المواصفات التالية:
 

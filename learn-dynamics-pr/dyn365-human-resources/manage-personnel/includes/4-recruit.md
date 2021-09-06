@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 989755660f9d2a78b6765d5c8ccb9d5af96c270b
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: c46323147379de77d9031ac9d7dd31ce66d1ae971d804bbd60cb50d1e64ce2bf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691162"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135984"
 ---
 LinkedIn Talent Hub هو نظام تتبع مقدّم الطلب الذي يوفر لك موقعاً واحداً للعثور على الموظفين وإدارتهم وتوظيفهم. من خلال دمج Microsoft Dynamics 365 Human Resourcesمع LinkedIn Talent Hub، يمكنك إنشاء سجلات الموظفين في الموارد البشرية للمتقدمين الذين تم توظيفهم لشغل وظيفة.
 

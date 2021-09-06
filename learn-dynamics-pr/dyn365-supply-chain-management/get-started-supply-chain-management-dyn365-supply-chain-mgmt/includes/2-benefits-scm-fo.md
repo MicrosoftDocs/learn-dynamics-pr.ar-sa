@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4e92670b435828f80a2f1ea116c540d06988d36e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 21ac034099ceb7e4e4e9b8dc6db0276f1b6c03a1b90e136e18824ca1b8556c7a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667254"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129284"
 ---
 تمكن إدارة سلسلة التوريد المؤسسات من التشغيل الأكثر ذكاء مع العمليات المتصلة وتنفيذ المهام التالية:
  

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 88178a422799f794504a9895b654c1fff5ac9303
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f1522d5edc2c6f7e3236361c64772598e6d89daf701ca83036313203deb7fd69
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668157"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067610"
 ---
 يتضمن إنشاء منتج جديد العملية التالية:
 

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 452e4e8f2a4e8e5932f8019bf5862f24acdb90ad
-  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+  ms.openlocfilehash: c3f1533f9f78dcc57390a178167812a89e078e4a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/04/2021
-  ms.locfileid: "6072297"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366471"
 title: أدوات لترقية التعليمات البرمجية والبيانات من Dynamics AX 2012 إلى تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)] \nتدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات Finance and Operations. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics 365 Lifecycle Services لمساعدتك خلال العملية. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تقدير مهام الترقية وتحليلها.\n- قم بإجراء تحليل الملاءمة والفجوات، وقم بإنشاء خطة مشروع.\n- قم بإعداد قاعدة بيانات Dynamics AX 2012 للترقية.\n- قم بترقية التعليمات البرمجية والبيانات إلى تطبيقات Finance and Operations.\n- تحقق من صحة الترقية، وقم بإجراء اختبار وظيفي واختبار مرحلي. \n"

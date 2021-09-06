@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 61eb77f49282cd77e0c30e6cf2c371cb62e2c604
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 2513eb2c0a50f8c37354ee4914096fa40cf49b07de7959cec2112d514c26f14a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071716"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136702"
 ---
 على الرغم من أنه يمكن استخدام عنصر التحكم **pageLink‎** لإظهار العدد (الإجماليات)، إلا أنه يمكن أن يكون بطيئاً نظراً لأنه يجب أن يقوم بتحميل الصفحة الهدف قبل أن يحسب عدد الصفوف. بالإضافة إلى ذلك، يمكن أن يكون العد الذي يتم حسابه غير صحيح نظراً لوجود حد لعدد الصفوف التي يتم استردادها.
 

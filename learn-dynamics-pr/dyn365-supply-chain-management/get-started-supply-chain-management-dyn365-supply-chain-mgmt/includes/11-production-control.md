@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2b4046808b7a7aa3c005710f146e84561a2c97fc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8865db468c4a6a4115ef739cdb7e3d6a1cbd87d9
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667403"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7353326"
 ---
 يتبع إنتاج المنتجات، وهي عملية تُعرف أيضاً بدورة حياة الإنتاج، خطوات محددة مطلوبة لإكمال تصنيع أحد الأصناف. تبدأ دورة الحياة بإنشاء أمر الإنتاج أو أمر الدفعة أو كانبان. وينتهي بصنف منتهٍ ومصنع وجاهز إما لعميل أو لمرحلة أخرى من الإنتاج. تتطلب كل خطوة في دورة الحياة أنواعاً مختلفة من المعلومات لإكمال العملية. ومع اكتمال كل خطوة، يُظهر أمر الإنتاج أو أمر الدفعة أو كانبان تغييراً في حالة الإنتاج.  
 
@@ -18,5 +18,5 @@ ms.locfileid: "6667403"
 
 ويحدد اختيار طرق قياس التكلفة أيضاً متطلبات إعداد التقارير حول استهلاك المواد والموارد أثناء عملية الإنتاج. يتم عادةً استخدام المعلومات التي يتم ترحيلها من دفاتر يومية مختلفة في النظام في دفتر الأستاذ العام عند حساب الحركات المالية على مستوى الشركة.
 
-لمزيد من المعلومات، راجع [الشروع في العمل باستخدام الوحدة النمطية للتحكم في الإنتاج في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات، راجع [الشروع في العمل باستخدام الوحدة النمطية للتحكم في الإنتاج في Dynamics 365 Supply Chain Management](/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/?azure-portal=true).
 

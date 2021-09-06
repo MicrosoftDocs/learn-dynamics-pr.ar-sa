@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd68b8b844cea3dbc56a9c5efd372efbc88b4e56
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7d0e0ef64786540062ded47e202b0de4646fefb7ce42ec5f28af91fc67dcac58
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668402"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078180"
 ---
 يمكن للموردين استخدام مدخل تعاون المورد للتفاعل معك والتمتع بالمزيد من الاكتفاء الذاتي. كما يمكنك أيضاً التعامل مع الموردين عن طريق إرسال الإعلامات وتجميع المعلومات منهم لتلقي أجوبتهم بسرعة وسهولة.
 

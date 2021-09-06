@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fdcf10ab237698280afd5a720e4be489f56e817e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2e298cfef56da4aac2df884f78cb1657de475aecaff1ec8694cab7b936b793e4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667335"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128556"
 ---
 
 تُعد قياسات قائمة مكونات الصنف (BOM) نوعاً من التكوين. يمكن تحديد الأبعاد التالية كقياسات BOM:

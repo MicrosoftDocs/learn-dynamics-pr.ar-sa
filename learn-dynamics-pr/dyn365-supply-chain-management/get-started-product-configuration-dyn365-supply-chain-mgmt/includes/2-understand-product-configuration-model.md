@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 72876ec80676152c8bc81918994b422a14b54bc6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 941fb9cbc35d6b621082e44ec4d1ef6d10405acd269b0f23ad023a97fe8676f3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119543"
 ---
 يوضح الشكل التالي التدفق والأنشطة المطلوبة لإنشاء نموذج التكوين.
 

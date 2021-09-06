@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 50d4a791f181de75badf6d39b510768c1c95a99c
-  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.openlocfilehash: 1fa084cd43f31f51948aab4e4aed0e70a2b20563
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/12/2021
-  ms.locfileid: "6072413"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361549"
 title: مقارنة التقارير والتحليلات في تطبيقات Finance and Operations مع Dynamics AX 2012
 summary: "[!include[](../includes/module-banner.md)] \nتتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات Finance and Operations أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- إعداد التقارير وتحليل Power BI المستخدم مع AX 2012.\n- تتوفر خيارات إعداد التقارير في تطبيقات Finance and Operations.\n- خدمات تصدير البيانات في تطبيقات Finance and Operations.\n- كيفية تحديث مستودع البيانات الخاص بك.\n- كيفية تحديث التحليلات والتقارير الخاصة بك.\n"

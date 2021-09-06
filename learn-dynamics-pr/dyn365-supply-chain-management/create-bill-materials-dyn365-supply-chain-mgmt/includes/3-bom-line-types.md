@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ea0a0a7685ad8e8efbb0c7f1b221ebc218288c6a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: febf7899600d8845c6d6a328ba59c52def4743183cb41a32cf4f71f78e8e999b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668309"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052030"
 ---
 
 تقدم Supply Chain Management أنواع متعددة من بنود قائمة مكونات الصنف:

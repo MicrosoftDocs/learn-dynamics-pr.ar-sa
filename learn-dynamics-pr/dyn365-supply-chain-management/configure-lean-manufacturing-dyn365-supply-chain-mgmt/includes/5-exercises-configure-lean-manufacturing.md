@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3ac3b06883f201e88effebaf41b2ed12ec8bd039
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 721437db20788dfa76e0d8a4a8ad87b3277f50c3f3847aac0e683f0a5cb3ce75
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667636"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092098"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 للحصول على أقصى استفادة من هذه التدريبات، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية في Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4811b3bead025e23c32a7da61b9b4264318c0941
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: bdfdf277fa0e03e935b4825807d74cab53ff7436d4abb37c03d39dc1218fc433
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677205"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136352"
 ---
 يمكنك إعداد الأصول الثابتة للتكامل مع الحسابات الدائنة والحسابات المدينة والتدبير والتوريد ودفتر الأستاذ العام. يمكنك أيضاً نقل الأصناف الموجودة في إدارة المخزون إلى الأصول الثابتة إذا كنت تريد استخدام هذه الأصناف داخلياً.
 

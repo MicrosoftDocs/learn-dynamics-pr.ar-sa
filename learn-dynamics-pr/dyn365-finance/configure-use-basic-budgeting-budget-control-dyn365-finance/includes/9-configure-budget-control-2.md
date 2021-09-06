@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 846a0b2a4aa88bd02e33dc36e7180a2e367954b1
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 1a3d3a238844bc6dc87281c0b921e4e182c990226d63a0eb82e95a8feec02a2c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677756"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082564"
 ---
 تتابع هذه الوحدة خطوات تكوين رقابة الموازنة‬ في Finance. ويوجد في نهاية هذه الوحدة مقطع فيديو يوضح هذه الخطوات.
 

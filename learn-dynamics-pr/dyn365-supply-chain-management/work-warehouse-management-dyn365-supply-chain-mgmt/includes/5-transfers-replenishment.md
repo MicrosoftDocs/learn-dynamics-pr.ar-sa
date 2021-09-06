@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd237d3dc9df0889922e0af22669dacae4d2a516
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4874bf1b539e1f011bbf85547a7280a1e171179a1a60b9e5e5adb21522700c10
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668167"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081514"
 ---
 تساعدك أوامر النقل على معالجة الأصناف أثناء النقل بين المستودعات التي توجد في الشركة نفسها لكن في مواقع جغرافية مختلفة.
  

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f78a7c7ec61b059a2346b3e0faf26fe7281949fc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b141df2736d00f8e620d6034f682e7094c6fc6a9f82c95ccc7d0e995081b728a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667332"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128550"
 ---
 
 في هذه الوحدة النمطية، تعلمت كيفية تكوين ورقة التكاليف وتحليلها. 

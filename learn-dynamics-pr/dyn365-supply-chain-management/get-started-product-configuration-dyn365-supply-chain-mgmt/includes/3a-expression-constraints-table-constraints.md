@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6bd95d2a7cb9c77246323b3f1e005655ce43d9b4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 89668cadbc41a3cbf66841d04eb2d550f7e36c1adb87ef8edfddd7df2e2bb36d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119504"
 ---
 
 تتحكم القيود في قيم السمات التي يمكنك تحديدها عند تكوين منتجات لأمر المبيعات أو عرض أسعار المبيعات أو أمر الشراء أو أمر الإنتاج. يمكنك استخدام قيود التعبير أو قيود الجدول استناداً إلى الطريقة التي تفضلها لبناء القيود.

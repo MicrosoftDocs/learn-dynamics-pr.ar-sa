@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9f6cfcde9cd5eadf5d6ca09e3b11e04378f113c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 103e83b3e8c75e309078ab1acdf3d92c0f265f408ce7b9687024a71afcb8a20a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667472"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097769"
 ---
 ## <a name="set-up-transfer-orders"></a>إعداد أوامر التحويل
  

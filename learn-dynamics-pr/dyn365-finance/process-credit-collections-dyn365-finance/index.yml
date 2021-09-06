@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3c169a42f3be2d17e927a2dc2cc078f2a114ba91
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 0c354b44f88cb154b28d1e6c5dd3ba5cf4354fcb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677807"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366407"
 title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد  \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- كيفية استخدام كشوف حسابات العملاء.\n- كيفية معالجة التحصيلات. \n- كيفية استخدام ميزة إدارة الائتمان.\n"

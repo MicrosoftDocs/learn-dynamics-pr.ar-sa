@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0928df3759ae42ab1b11fbdd4c8d3342515f15d7
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 12d277826eb6d363921b1c10c874b1a784d43bd1810803000063eec0118d4aad
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668457"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119272"
 ---
 في مساحة عمل **إدارة الحد الأدنى من الإنتاج** الموجودة في **التحكم في الإنتاج > إدارة الحد الأدنى من الإنتاج**، تمنحك ثلاثة إطارات متجانبة أفضل رؤية استثناءات المواد الخام لأوامر الإنتاج وأوامر الدُفعات:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 32e3680d8e4406bf9eb94fafe1c2eeae4008616e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9cc253f731107f2a74597f69eb452a30d9ba285a44842e42cf88266bffcf3ac7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668097"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108380"
 ---
 قبل أن تتمكن مؤسستك من البدء في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، يجب أولاً إنشاء البنية الأساسية. تُستخدم المواقع الوظيفية لتحديد مكان تثبيت الأصول الفعلية. تتضمن بعض أمثلة مواقع العمل المنطقة أو المصنع أو الساحة أو المبنى المكتبي أو المستودع.
 

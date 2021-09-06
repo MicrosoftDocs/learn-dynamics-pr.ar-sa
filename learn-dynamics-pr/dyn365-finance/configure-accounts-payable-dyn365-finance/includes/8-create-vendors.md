@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 741fa75483631b390a5337f900699b5939fb5fa3
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: bd60648213405ddd289101ee43875a7867cb8206
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677336"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329233"
 ---
 شاهد هذا الفيديو للتعرف على كيفية إنشاء مجموعات الموردين وشروط الدفع وجداول الدفع وأيام الدفع والموردين.
 
@@ -49,7 +49,7 @@ ms.locfileid: "6677336"
 حدد مجموعة مشترين في قائمة **مجموعة المشتريين**. يترتب على التحديد إنشاء ارتباطات بين الموردين والموظفين والأصناف/ الأوامر المخططة عندما تقوم بإنشاء عمليات الشراء والإنتاج.
 
 على سبيل المثال، استخدم مجموعات المشترين لكي تقوم بتحديد الموظفين المرتبطين بمجموعة المشتريين الحالية ولتغيير مجموعة المشتريين إذا قام الموظف بتغيير نطاق المسؤولية.
-لمزيد من المعلومات حول العلاقات بين الشركات الشقيقة، راجع [تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-use-intercompany-trade-dyn365-supply-chain-mgmt/?azure-portal=true)
+لمزيد من المعلومات حول العلاقات بين الشركات الشقيقة، راجع [تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-intercompany-trade-dyn365-supply-chain-mgmt/?azure-portal=true)
 
 ## <a name="customer-account"></a>حساب العميل 
 حدد رقم **حساب العميل** إذا كان المورد عميلاً أيضاً ويتم استخدامه في الحركات بين الشركات الشقيقة.

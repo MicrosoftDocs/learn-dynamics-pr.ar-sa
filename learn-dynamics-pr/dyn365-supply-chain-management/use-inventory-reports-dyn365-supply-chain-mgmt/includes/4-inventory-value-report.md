@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 146aa244649ccc24e05838392b80e61ce9e1487a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a6dd37ec2c10a23d18d4216a576cb61c02dad23bd13d970976bd75831ce95cfd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667688"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108290"
 ---
 يمكنك استخدام تقرير **قيمة المخزون** لإجراء تسوية بين دفتر الأستاذ العام والمخزون. 
 

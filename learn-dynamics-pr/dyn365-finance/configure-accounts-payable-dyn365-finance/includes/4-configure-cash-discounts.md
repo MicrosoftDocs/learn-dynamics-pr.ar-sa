@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2a7ba3ba11634d2a15817ae8be8f6b0abfbf5beb
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: eaf3cc61b994331f7e650b2db14e7323806ed91f8340b5303bd5016472b9163b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677219"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087522"
 ---
 شاهد هذا الفيديو للتعرف على كيفية تكوين الخصومات النقدية.
 

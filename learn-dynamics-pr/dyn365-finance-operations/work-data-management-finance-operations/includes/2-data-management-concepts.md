@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 58ca3fcfe11c88d5660affb8885c3e252e01643c
-ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+ms.openlocfilehash: 079e8598005fdc05276f60d031d2de405293091ea2197597b8fc96e36027a660
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "6072548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068887"
 ---
 يتكون إطار عمل إدارة البيانات من المفاهيم التالية:
 

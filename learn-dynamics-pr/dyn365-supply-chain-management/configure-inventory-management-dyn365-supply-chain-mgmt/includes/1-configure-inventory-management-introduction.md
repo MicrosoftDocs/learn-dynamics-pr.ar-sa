@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6757f5cccdce17d59f0e6f3bd3c0ebb0805efbdd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f4b71897067a38f34563753c9c1f5d9587bf1f883507e517a8d99889ad8e43dc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668353"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052577"
 ---
 لتكوين المخزون، يجب عليك أولاً فهم العمليات اليومية. لمساعدتك علي فهم هذه العمليات، تناقش هذه الوحدة النمطية عمليات المخزون الواردة والصادرة.
 

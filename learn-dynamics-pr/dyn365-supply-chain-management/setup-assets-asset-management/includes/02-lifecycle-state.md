@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 691c731f6f9223b7e3bb8c193452dc37196df404
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 073eaff83240aa9e95f60b9b92253f758b64bde1f573c88d97043b00230dc4f2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667695"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051586"
 ---
 كما هو الحال مع **مواقع العمل** و **طلبات الصيانة**، يكون للأصول حالات دورة حياة تحدد حالة الأصل. تتضمن بعض أمثلة **‏‫حالات دورة حياة الأصول‬** كلاً من **جديد**، و **نشط**، و **منتهٍ**. يمكنك عرض الحالة الحالية للأصل في أي وقت على صفحة **كل الأصول**. 
 

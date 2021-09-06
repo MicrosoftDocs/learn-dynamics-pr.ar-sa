@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ec3076d76042154c732be75a43881e664788f153
-ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
+ms.openlocfilehash: cb3ee8d2867fdb13d150e46a98feb6d35f14fc0f1ea729856cd886cb4d62a39e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6656571"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047246"
 ---
 قبل أن تتمكن من تسجيل الموظفين في خطة تعويض في Dynamics 365 Human Resources، تحتاج أولاً إلى تحديد المؤهلين للحصول على التعويض المحدد ضمن الخطة. وحتى تقوم بتحديد الأهلية، لن تتمكن من تعيين الخطة للموظفين.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6636e0954dd34590214fa4aa0ef5015a08445688
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 5d9b2fc4ca8a137e73ceb2517b1481ecbd02d6081d3aba44266cc873a964541f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667939"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086623"
 ---
 
 تحدد قائمة مكونات الصنف (BOM) المكونات المطلوبة لإنتاج منتج. قد تكون المكونات الأساسية مواد خام، منتجات نصف مصنعة أو مقادير. 

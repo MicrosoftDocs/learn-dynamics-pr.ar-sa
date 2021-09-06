@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8491e4cdc31f36156b9de82075adfa2d0349550f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b93726cf38f9d549c12a8cf2c3cbd0396d8cad362a2bcfd78672b3b6dedc9f51
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667947"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058018"
 ---
 عملية التصنيع هي إنتاج البضائع من خلال تجميع التجهيزات باستخدام معادلة أو وصفة. يتم إكمال الإنتاج في العمليات غير المتواصلة أو العمليات شبه المتواصلة. 
 

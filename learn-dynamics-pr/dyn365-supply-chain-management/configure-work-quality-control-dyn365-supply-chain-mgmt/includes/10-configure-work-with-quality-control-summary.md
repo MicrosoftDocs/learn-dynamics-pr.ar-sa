@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d36163e3d2ef5d9561ab092e3743a3201abe45a9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a0ae05adb30cf57b030b9d8abfa1eed92b4d67090e3f6f070c6f8e8587837244
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667944"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052211"
 ---
 قد تعرّفت في هذه الوحدة على كيفية:
 

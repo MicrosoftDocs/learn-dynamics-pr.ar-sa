@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8dbf548b236947dcd123b1f046e967d658b1d7cd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e2f91f3f7d97892992555236d67fc03b6b1375b0fe1bd291f1bab6087228821b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668130"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134692"
 ---
 قبل أن تتمكن من البدء في جدولة أوامر العمل ليتم تشغيلها، تحتاج أولاً إلى إنشاء جدول زمني لعمال الصيانة والأدوات والأصول. ستكون مهمتك الأولى هي إنشاء التقويمات ثم تعيينها للعاملين لديك. 
 

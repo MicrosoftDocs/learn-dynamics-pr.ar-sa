@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e678bcc077cdf6c9f4a5eda182302e0e7cbfaa46
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c4b8da9c635b8d35579a03486e9d92b038f5a7c9364ab5edf1b85964240d4b2d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677333"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078641"
 ---
 في نهاية هذه الوحدة، يعرض الفيديو الجزء الأول من تكوين التحكم في الموازنة.
 

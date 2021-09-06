@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9b2ac9bb9285ab93511396f8b3893acdb52b3973
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0e2609a5c55d0b235f91a956a36dbecbe5ec143fd9379370169d87086ca88adc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667369"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091778"
 ---
 في التصنيع، يمكن أن يكون الأصل مبنى أو مصنعاً أو أي نوع من الماكينات أو المعدات. يركز هذا الموضوع على الأصول مثل جهاز أو أجزاء جهاز تتطلب صيانة أو خدمة أو إصلاح.
 

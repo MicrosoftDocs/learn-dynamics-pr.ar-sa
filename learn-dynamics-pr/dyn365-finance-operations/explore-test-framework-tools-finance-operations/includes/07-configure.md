@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 2f8873cf95d1c407d93eb3613aa401e0c2edb712
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: be386e0996882765b37dfe8297d94dc25f63434d
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072316"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7354689"
 ---
 
-تُعد البيانات الدقيقة عاملاً أساسياً لقياس نجاح الكود. وستحتاج إلى إعداد بيئة الاختبار وإعداد البيانات المراد اختبارها في Visual Studio. كما ستحتاج إلى توزيع بيئة اختبار للمستخدمين لاختبار التخصيص للكود. يجب أن تكون بيئة الاختبار بيئة من المستوى الأول لتنفيذ اختبارات الوحدة فيها. لمعرفة المزيد حول توزيع البيئة، راجع [استكشاف البنية التقنية للوحدة النمطية لتطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/explore-technical-architecture-finance-operations/?azure-portal=true). 
+تُعد البيانات الدقيقة عاملاً أساسياً لقياس نجاح الكود. وستحتاج إلى إعداد بيئة الاختبار وإعداد البيانات المراد اختبارها في Visual Studio. كما ستحتاج إلى توزيع بيئة اختبار للمستخدمين لاختبار التخصيص للكود. يجب أن تكون بيئة الاختبار بيئة من المستوى الأول لتنفيذ اختبارات الوحدة فيها. لمعرفة المزيد حول توزيع البيئة، راجع [استكشاف البنية التقنية للوحدة النمطية لتطبيقات Finance and Operations](/learn/modules/explore-technical-architecture-finance-operations/?azure-portal=true). 
 
 لإعداد بيئة الاختبار باستخدام البيانات الصحيحة، يمكنك استخدام مساحة العمل **إدارة البيانات** (**إدارة النظام > إدارة البيانات**).
 

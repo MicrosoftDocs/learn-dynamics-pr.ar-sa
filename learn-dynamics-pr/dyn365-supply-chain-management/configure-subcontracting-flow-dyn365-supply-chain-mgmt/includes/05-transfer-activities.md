@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f14a40ac602fb0a5c7b9c4786b2cd115f9adebd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cd65cd17e9cfbe7f832c11509ccf3cba60c9d25505886208eab0001cf0f6f582
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667821"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7092051"
 ---
 
 يمكن تكوين أنشطة النقل كأنشطة تعاقد من الباطن. يتم تحديد دفعة التعاقد من الباطن بواسطة مزيج من الحقلين **المستودع** **‏‫شحن بواسطة‬** في إعداد النشاط. يتم تكوين نشاط النقل كنشاط متعاقد عليه من الباطن بناءً على الحقل **شحن بواسطة** لنشاط النقل وإعداد المستودع.

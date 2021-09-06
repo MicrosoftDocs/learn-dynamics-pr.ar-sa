@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ca44e5cfc34ef5717d4ac448bac644fc702043b2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e7628e6e07d59d7db85e5360120195a4ea5f65efd1970304d945d6e1042c8803
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058012"
 ---
 يدعم Dynamics 365 Supply Chain Management أنواعاً متعددة من الأصناف، بما في ذلك المعادلة ووزن التعبئة.
 

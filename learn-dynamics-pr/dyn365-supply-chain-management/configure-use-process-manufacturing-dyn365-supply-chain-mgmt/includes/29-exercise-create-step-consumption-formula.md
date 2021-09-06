@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cfe72e5d48645823e030b47668e3736b148e5c61
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7977c523a95e6c1a394a33b49d3052be67879b03271689c485574a5005172a24
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668236"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7057921"
 ---
 يجب تحديث معادلة المنتج **P9500** في الشركة USP2 لتغيير سطر المعادلة **M9003** من الاستهلاك السطري إلى الاستهلاك التدريجي. يجب أن يكون الاستهلاك في السطر كما يلي:
 

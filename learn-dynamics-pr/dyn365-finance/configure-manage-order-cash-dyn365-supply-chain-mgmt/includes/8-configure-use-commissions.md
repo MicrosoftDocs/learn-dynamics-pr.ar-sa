@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e64555c596772f00093e928a6cd654daed2916cd
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fd80565ba5e922a3f6fa8518de7fcc1c022381e9c2cc21af2ab25e9680b336a5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677683"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130140"
 ---
 تقدم هذه الوحدة خطوات إعداد عمولات المبيعات لفريق المبيعات استناداً إلى نسبة مئوية من الإيرادات أو هامش المساهمة. كما يصف أيضاً كيفية الاستعلام عن العمولات المحسوبة من حركات المبيعات المُرحلة ومرتجعات الأصناف.
  

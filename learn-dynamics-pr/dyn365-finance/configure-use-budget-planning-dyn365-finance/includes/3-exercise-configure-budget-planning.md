@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 949c4b6f93b03b7b068ae57365cc5df91a38f3aa
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c24da1257ca11c4d484a55db21257b26e75373df8eab3e69488a4444e1032699
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677122"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093334"
 ---
 سيركز هذا التمرين بشكل خاص على العمليات أو مهام الأعمال التالية.
 

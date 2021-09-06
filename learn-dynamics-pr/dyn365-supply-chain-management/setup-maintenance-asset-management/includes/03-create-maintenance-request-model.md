@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ab7280fb46e5b738b504ba6362021bddd0077b66
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: dab9a7dd4dcce3a6369ece91469d0da2f26bd841c03e6f5d7fee96411408759f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667690"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7128794"
 ---
 عندما تقوم بإنشاء حالات دورة حياة طلب الصيانة اللازمة، يمكنك تجميعها معاً لإنشاء نموذج دورة حياة طلب الصيانة. يحدد نموذج دورة الحياة العملية أو التدفق لطلب الصيانة. يمكنك إنشاء أكبر عدد من نماذج دورة الحياة المختلفة التي تحتاج إليها، على سبيل المثال، قد يكون لتدفق العطل/الإصلاح سير عمل مختلف عن طلب أمر التغيير. 
 

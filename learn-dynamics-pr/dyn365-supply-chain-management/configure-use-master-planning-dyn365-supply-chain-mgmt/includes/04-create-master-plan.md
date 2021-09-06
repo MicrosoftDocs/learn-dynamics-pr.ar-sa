@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7514070285b77f1c1778a616a60f7a32b4c48628
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 654a98b87f673f6bb8ac0ea78c408d355ac075c0f201a73955ef03f614d57c72
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667509"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077920"
 ---
 نوعا الخطط هما:
 

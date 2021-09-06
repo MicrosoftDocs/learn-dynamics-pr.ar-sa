@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 96dcf19f385edff2243a006f128deb66652265ca
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0dc1a78b62259cacaf0f2be9168dd2a5d5eaa40a5176efc1d2f7fb220ca82a51
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668163"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052003"
 ---
 
 بصفتك مساعداً جديداً لمصمم المنتج في شركة USMF، فقد تلقيت مواصفات جديدة في جانب الحاوية. لم يتم إعداد صنف لهذه المواصفات. ولذلك، تحتاج إلى إنشاء قائمة مكونات صنف بسيطة مع بنود المكونات.

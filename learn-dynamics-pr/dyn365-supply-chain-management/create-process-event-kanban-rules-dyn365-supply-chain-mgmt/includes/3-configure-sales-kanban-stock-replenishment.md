@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 203ecd42dc7c441cb4d1a540c561ab07fe81bbad
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: c1ad62f17c20cb89a79f5bba0532169e19dff0b95ee35d989608a807ee128bf6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667130"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051991"
 ---
 
 من الأهداف المهمة للشركة في عملية التحويل بدون فاقد هو تحسين القدرة على تسليم منتج تم تجميعه حسب الطلب أو بناؤه حسب الطلب في وقت إنتاج تنافسي.

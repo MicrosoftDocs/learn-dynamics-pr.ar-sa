@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4f62cd3848f8776518c61306ca482489dda7d269
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: dda257881c5ae31a1600106bb33a99fcef1c99a79268a3d84a9fe1fe7998d885
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070047"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064729"
 ---
 قبل إنشاء موقع التجارة الإلكترونية، يتعين عليك إعداد قناة واحدة على الأقل في Commerce لإنشاء المنتجات وتحديد الأسعار وطرق الدفع وأنماط التسليم ومراكز التنفيذ والجوانب الأخرى من التجارب على الإنترنت التي تريد توفيرها لعملاء بائعي التجزئة. 
 

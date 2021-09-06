@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b31544897b7b6641975f1bcd421340e0a23dd8ed
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: dc52f4b0dc0f2d10b4e66c235ae231ab06b722ca567e0e736b07d2b137e5439d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677377"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7093572"
 ---
 خطابات الاعتماد هي مستندات مصرفية تُستخدم عادة لشراء وبيع البضائع عبر الحدود الدولية.
 

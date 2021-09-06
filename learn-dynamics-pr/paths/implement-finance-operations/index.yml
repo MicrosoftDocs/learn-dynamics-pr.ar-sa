@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d48e81648ea94ef307c6168b62f8947137541cfe
-  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 6f9c79cb5930ca2530dc431877a8da744801b5ce
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/08/2021
-  ms.locfileid: "6074769"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364725"
 title: تنفيذ تطبيقات Finance and Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]

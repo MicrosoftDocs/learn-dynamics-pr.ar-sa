@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f6de731881ca0585a2f52ee359e20ceb2091cd6a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8117d395b23ff7562f3453f3f531b966e6718a7244861f33baa1d06d7403dc54
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135328"
 ---
 ## <a name="scenario"></a>السيناريو
 تحتاج إلى إنشاء تدرج هرمي جديد للحجز لمساعدتك في إدارة البرتقال. سيتم تعقب البرتقال باستخدام الموقع والمستودع والموقع وأرقام الدُفعات. استخدم المعلومات المتوفرة لإنشاء تدرج هرمي جديد للحجز. 

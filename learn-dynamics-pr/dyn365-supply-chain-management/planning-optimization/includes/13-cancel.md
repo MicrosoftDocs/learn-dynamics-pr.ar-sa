@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1baba157a7c84adc239337797a6a6501184b80ab
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 4679b4ea5133bd959af952da40fa75734b475b474bc290123e33382d31525f92
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668446"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051678"
 ---
 إذا قمت بجدولة خطة رئيسية تستخدم وظيفة تحسين التخطيط للتشغيل كمهمة مجموعة، سيتم تمكين خيار **إلغاء الأمر** عند عرض سجل الخطة. 
 

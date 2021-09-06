@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a928f05a6bf3dd93248bc5338ec477f60905f1b4
-ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
+ms.openlocfilehash: 5d793689e7dea48bba0f0dc7365b5949156d1c2df02f2b9a19ebf1585457a961
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6272508"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7140773"
 ---
 حدد سيناريو النشر الخفيف إذا كنت قد نشرت بالفعل وتستخدم تطبيقات Customer Engagement.
 

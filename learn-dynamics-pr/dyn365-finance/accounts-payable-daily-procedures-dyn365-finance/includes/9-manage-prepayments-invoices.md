@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 36a0a50d1259a589540f4d76a7b6497c01d09f02
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 24705da5dc6efe3f1fbec093eb9144b0d8599cdfac83c11fb4ad79907f308969
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677187"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082813"
 ---
 شاهد هذا الفيديو للتعرف على كيفية التعامل مع ‏‫الدفعات المقدمة.
  

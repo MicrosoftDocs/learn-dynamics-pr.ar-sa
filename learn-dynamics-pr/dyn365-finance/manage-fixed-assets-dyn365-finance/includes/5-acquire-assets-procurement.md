@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd12b1cde3fbbd4b695933f9adb9948d164e9fd6
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b1c12647ede36f08277f89d84b231f0c04254bc73c6c023d411802b46d7275fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078482"
 ---
 توفر المالية طرقاً عديدة لإنشاء الأصول الثابتة والاستحواذ عليها من الشراء مباشرة. وبسبب هذا التنوع، يمكن للشركات التي لها متطلبات الاستحواذ على أصول معقدة الوفاء بهذه المتطلبات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ca00b043e568bec362760d08a24e716d68cd0d69
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: d4c7d925af4b178fbb3a66db299c217a76e982937bcaac40ed56209e1033d085
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677184"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136386"
 ---
 تتحكم ملفات تعريف ترحيل العملاء في ترحيل حركات العميل إلى دفتر الأستاذ العام. تمكّنك ملفات تعريف ترحيل العملاء من تعيين حسابات دفتر الأستاذ العام وإعدادات المستندات لجميع العملاء أو مجموعة من العملاء أو عميل واحد.
 

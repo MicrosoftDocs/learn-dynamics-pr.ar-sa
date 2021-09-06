@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.work-travel-requisitions.07-check
-title: تحقق من مستوى معرفتك
+title: اختبر معلوماتك
 metadata:
-  title: تحقق من مستوى معرفتك
+  title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 12/02/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 53d4a7aaecd51bfed98151579cc935a8b7a0dd99
-  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.openlocfilehash: 30d0c8d657738b72e73f304bb450dd576b938c00
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "6072795"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7355950"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

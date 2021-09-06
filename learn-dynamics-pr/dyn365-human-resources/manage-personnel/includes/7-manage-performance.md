@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e8086b121872d3263754b333dba271fcf49dc5cd
-ms.sourcegitcommit: 934b2f7a1d590f311b2db63033f21bb88b5fe484
+ms.openlocfilehash: 9b4e340feaf8dcbf40833446c24946e25ca812e7c9da1d82211ac4c710edc26b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "6691178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053076"
 ---
 عندما يقوم الموظفون بتوثيق أدائهم ومناقشته مع مديرهم، فإنهم يكونون في عملية إدارة الأداء. ونتيجة لذلك، يمكن للمديرين تباعاً تقديم تعليقات وتوجيهات لموظفيهم.
 

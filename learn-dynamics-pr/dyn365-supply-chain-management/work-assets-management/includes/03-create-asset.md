@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3b3f6f0a4afe5e7c477c04955d1573d3e6efd272
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7cfc4535fa808c5f3ef60047dc38f73d15a63d5c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667682"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7345791"
 ---
 الآن بعد أن عرفت كيف يبدو سجل الأصول، يمكنك إنشاء سجل.
 
@@ -41,7 +41,7 @@ ms.locfileid: "6667682"
 - إذا كان الأصل ذو المستوى الأعلى يحتوي على أي أصول فرعية، فسيتم تثبيتها أيضاً على موقع العمل المحدد. 
 
 
-- تعرّف على المزيد حول تثبيت الأصول في مواقع العمل، انتقل إلى الوحدة [إعداد مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/setup-functional-locations-asset-management//?azure-portal=true).
+- تعرّف على المزيد حول تثبيت الأصول في مواقع العمل، انتقل إلى الوحدة [إعداد مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management](/learn/modules/setup-functional-locations-asset-management/?azure-portal=true).
 
 
 بعد قيامك بإنشاء أصل، يمكنك الاستمرار في إضافة مزيد من المعلومات المرتبطة بالأصل من خلال الانتقال إلى صفحة **كل الأصول**، وتحديد الأصل، ثم تحديد الزر **تحرير** لإجراء التغييرات الخاصة بك. في الصفحة **كل الأصول**، ستشاهد علامات تبويب سريعة متعددة يمكنك من خلالها إدخال المعلومات الإضافية. 
@@ -56,10 +56,10 @@ ms.locfileid: "6667682"
 - وإذا كان عبارة عن أصل أساسي، فسيعرض لك الحقل **العناصر الفرعية** عدد الأصول الفرعية المرتبطة بالأصل الأساسي.
 - يوضح لك الحقل **موقع العمل** أين يوجد الأصل.
 - إذا كان الأصل أصلاً فرعياً لأحد الأصول الموجودة، فسيوضح لك القسم **أصل أساسي** كلاً من **الأصل** و **الاسم**.
-- إذا كان الأصل مرتبطاً بشركة مصنعة معينة، فسيوضح لك القسم **الشركة المصنّعة** كلاً من **الشركة المصنّعة** **والطراز** **وسنة الطراز** و **الرقم التسلسلي**. تساعد هذه المعلومات في إدارة قطع الغيار والوظائف الافتراضية المرتبطة بالشركة المصنعة. لمزيد من المعلومات، انتقل إلى [الشركات المصنعة والطرازات الخاصة بالأصول](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/setup-for-objects/product-and-model/?azure-portal=true).  
+- إذا كان الأصل مرتبطاً بشركة مصنعة معينة، فسيوضح لك القسم **الشركة المصنّعة** كلاً من **الشركة المصنّعة** **والطراز** **وسنة الطراز** و **الرقم التسلسلي**. تساعد هذه المعلومات في إدارة قطع الغيار والوظائف الافتراضية المرتبطة بالشركة المصنعة. لمزيد من المعلومات، انتقل إلى [الشركات المصنعة والطرازات الخاصة بالأصول](/dynamics365/supply-chain/asset-management/setup-for-objects/product-and-model/?azure-portal=true).  
 - توضح لك **حالة دورة الحياة الحالية** الحالة الحالية التي يوجد بها الأصل. نظراً لأن هذا الأصل جديد، فإنه يتم تعيينه إلى المرحلة الأولى في مجموعة مرحلة الأصول.
 - إذا كنت بحاجة إلى تنشيط أصل، ففي القائمة العلوية ضمن **حالة دورة الحياة**، حدد **تحديث حالة الأصل**، وحدد حالة دورة الحياة النشطة، ثم حدد **موافق**.
-- يرتبط الحقلان **مستوى الخدمة** و **الأهمية** بأوامر العمل التي تم إنشاؤها للأصل. لمزيد من المعلومات، انتقل إلى [مستويات خدمة الأصول](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/setup-for-objects/object-priorities/?azure-portal=true) و[أنواع أهمية الأصول](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/setup-for-objects/object-criticalities/?azure-portal=true).
+- يرتبط الحقلان **مستوى الخدمة** و **الأهمية** بأوامر العمل التي تم إنشاؤها للأصل. لمزيد من المعلومات، انتقل إلى [مستويات خدمة الأصول](/dynamics365/supply-chain/asset-management/setup-for-objects/object-priorities/?azure-portal=true) و[أنواع أهمية الأصول](/dynamics365/supply-chain/asset-management/setup-for-objects/object-criticalities/?azure-portal=true).
 
 > [!NOTE]
 > ويتعين أن يكون الأصل بحالة **نشطة** لإنشاء أوامر العمل أو جدولة مهام الصيانة الوقائية.
@@ -88,7 +88,7 @@ ms.locfileid: "6667682"
 - أدخل **القيمة** المرتبطة بنوع السمة.
 
 > [!NOTE]
-> انتقل إلى [نظرة عامة على سمة الأصل](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/objects/object-specification-overview/?azure-portal=true) لمزيد من المعلومات حول أنواع سمات الأصول وعلاقتها بالأصول.
+> انتقل إلى [نظرة عامة على سمة الأصل](/dynamics365/supply-chain/asset-management/objects/object-specification-overview/?azure-portal=true) لمزيد من المعلومات حول أنواع سمات الأصول وعلاقتها بالأصول.
 
 ## <a name="vendor-fasttab"></a>علامة التبويب السريعة "المورد"
 في علامة التبويب السريعة **المورد**، يمكنك تحديد حساب مورد للأصل. 

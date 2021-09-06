@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 84ce3057cb26a4ea74331906c356aad2d92bcaf1
-ms.sourcegitcommit: c8884bde6b4fb84c6869af4ee3e4b4ae3724a271
+ms.openlocfilehash: 4dab2e781ec560312912ec8917610cf41b490a7369bff005101cc0b00bd3da93
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/21/2021
-ms.locfileid: "6647831"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7110799"
 ---
 عميل التجزئة الحديث على اطلاع جيد ويتطلب تجربة تسوق رائعة. إنهم يريدون أن يشعروا بالتحكم في تجربتهم، من البحث عن سعر المنتج وجودته، إلى الشراء من العلامة التجارية التي تقدم الخدمة الأكثر تخصيصاً وملاءمة، إلى تعظيم قيمة كل دولار يتم إنفاقه. يمكن أن تبدأ رحلة التسوق في قناة واحدة، والتقدم في قناة أخرى، ثم تنتهي في قناة ثالثة من اختيار العميل.
 

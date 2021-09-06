@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a01366b59a6e083d652f10a6fb3452c8edbe6c83
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 17f51d6651455962ee175b77f98254d02224bd55a03e6e2593d7e2509729c528
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071543"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142219"
 ---
 سيساعدك فهم البنية الأساسية لـ Finance and Operations في زيادة الوظائف الغنية لواجهة المستخدم. يمكن أن تختلف بعض مكونات البنية بين عمليات النشر الداخلية والمجموعة. تتم تسمية عمليات النشر الداخلية بالاسم Dynamics 365 Finance + Operations (الداخلية).
 

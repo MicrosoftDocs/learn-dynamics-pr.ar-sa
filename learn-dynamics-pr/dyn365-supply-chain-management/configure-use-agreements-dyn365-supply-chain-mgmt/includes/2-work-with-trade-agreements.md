@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 79b94eb15e1eab56ddfac41b1510e0cb20f4d141
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cece23e58b275a5ce5ca6cf480a1347b4c3dadfc7cfc105cdfb02210d7a9dfaa
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098130"
 ---
 الاتفاقيات التجارية عبارة عن اتفاقيات سعر ثابت أو خصم يتم إعدادها لعميل أو مورد واحد أو أكثر لبيع أو شراء منتجات فردية أو متعددة.
 

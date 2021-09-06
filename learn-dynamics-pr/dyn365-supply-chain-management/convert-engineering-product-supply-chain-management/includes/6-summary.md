@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bbecc8eefed23398f047073536d86dca3650e5c6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: be2049ada319fbe3076c2800af3d7e47034cd2181062143fa3019ab0952ed859
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667729"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077832"
 ---
 شرحت هذه الوحدة كيفية تمكين إدارة التغيير للمنتجات الموجودة. كما وضحت الحالات التي تكون فيها قدرتك على تمكين إدارة التغيير محدودة.
 

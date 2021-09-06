@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8e8778305c1f2962fffdc48de9bf8462350c39a2
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bcf924614d85a79e202dbc4dccb001f8828afb3807f1731f13c8213da920e828
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667400"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129255"
 ---
 
 في شركة USPI، يجب إنشاء رقم دُفعة جديد للجزء P4000. بصفتك مدير المخزون، تحتاج إلى إنشاء رقم دُفعة جديد وإدخال بيانات سمة الدُفعة المطلوبة للدُفعة.

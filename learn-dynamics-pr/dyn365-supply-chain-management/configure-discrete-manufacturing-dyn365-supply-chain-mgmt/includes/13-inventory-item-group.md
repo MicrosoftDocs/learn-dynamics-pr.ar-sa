@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 170dc8fe446f0fbe1d80ac97480c6ba3cb869a52
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: bf5d2d3bce55b75da0ecf3f8316845956d77ff74c863dbe69f3afc9fa729f0d9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668013"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124694"
 ---
 يتحكم ملف تعريف ترحيل المخزون في الحسابات الرئيسية التي سيتم استخدامها مع كل تحديث ترحيل في دفتر الأستاذ الفرعي للمخزون ودفتر الأستاذ العام.
 

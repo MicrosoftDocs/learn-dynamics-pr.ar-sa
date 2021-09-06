@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6eca6a08847154db9c56b0810f62678ec61e855b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6ea959368de59dfc6fa52405fe29822b8aa77ad61c992bec33eb70b60ba8e250
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098159"
 ---
 يمكنك استخدام خطط المسارات وأدلة المسارات لمسارات النقل المعقدة التي بها محطات توقف متعددة. إذا تم استخدام نفس المسار على أساس منتظم، فيمكنك إعداد مسار مجدول.
 

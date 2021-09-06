@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 52d4299b784d5b461105e54f536dfc4151a6820f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 8462bfb1de6e66ba1a19e9b1ce2cd7080daff8aa8f01f5e26dd6c32cebbdbe2e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668181"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108505"
 ---
 تقوم الشركات في كثير من الأحيان بإرجاع العناصر إلى مورديها، على سبيل المثال، عندما تكون البضائع ذات حجم و/أو لون غير صحيحين، أو انقضاء تاريخ انتهاء الصلاحية، أو تلف المنتجات أثناء النقل، أو بسبب المناولة غير الصحيحة. في هذه الحالات، يمكنك إنشاء إرجاع للمورد.
 

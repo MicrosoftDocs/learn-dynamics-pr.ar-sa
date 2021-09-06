@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c1c0ab547164b564114caf7e22d1728ce12799dc
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 8072aa18a8ef1a367096fe5ba9d11a27deefdaad2e32ef04d7406f3576e0cc83
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677398"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105276"
 ---
 يمكنك استخدام صفحة **معلمات إدارة النقد والبنوك** في **إدارة النقد والبنوك > الإعداد** لتحديد قواعد الشيكات، والإشارة إلى التسلسل الرقمي لأنواع مختلفة من الحركات داخل Finance.
  

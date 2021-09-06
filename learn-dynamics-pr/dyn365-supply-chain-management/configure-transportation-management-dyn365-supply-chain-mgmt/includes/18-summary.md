@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fff3ce260a139973a30027b493da3604f3479e0b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d3ec34bcb316aaa72d5efb7748b90b562fb828484d370ce210c0a22e8eba38c9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668036"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081625"
 ---
 تساعدك الوحدة النمطية لإدارة النقل في Supply Chain Management على إيجاد الطريقة الأكثر فاعلية لتسليم السلع إلى عملائك من خلال حساب الطريقة الأقل تكلفة والأسرع من حيث التسليم. بالإضافة إلى ذلك، تتيح لك إدارة النقل استخدام النقل الخاص بشركتك وتحديد الموردين وحلول التوجيه للأوامر الواردة والصادرة.
 

@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-invoicing-project-operations.06-check
-title: تحقق من مستوى معرفتك
+title: اختبر معلوماتك
 metadata:
-  title: تحقق من مستوى معرفتك
+  title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 04/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: a5c8e0360a98b8cdc6fdec742bf67dfce341ea53
-  ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+  ms.openlocfilehash: 108ba48a09ee4aabada731ceec68a5eb9dc97188
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/11/2021
-  ms.locfileid: "6072942"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7362468"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5ad5eac59dd0c022228515f87a106bac6d8ca52a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: aa8dde98275835bb3c576b3276687c9535beaf29
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667468"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7327323"
 ---
 ## <a name="enable-the-planning-optimization-license"></a>تمكين ترخيص تحسين التخطيط 
 
@@ -12,16 +12,16 @@ ms.locfileid: "6667468"
 
 
 
-1. ضع نظامك في وضع الصيانة، كما هو موضح في [وضع الصيانة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/maintenance-mode/?azure-portal=true).
+1. ضع نظامك في وضع الصيانة، كما هو موضح في [وضع الصيانة](/dynamics365/fin-ops-core/dev-itpro/sysadmin/maintenance-mode/?azure-portal=true).
 1. انتقل إلى **إدارة النظام > الإعداد > تكوين الترخيص**.
 1. في علامة التبويب **مفاتيح التكوين**، حدد خانة اختيار **تحسين التخطيط**.
-1. قم بإيقاف تشغيل وضع الصيانة، كما هو موضح في [وضع الصيانة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/maintenance-mode/?azure-portal=true).
+1. قم بإيقاف تشغيل وضع الصيانة، كما هو موضح في [وضع الصيانة](/dynamics365/fin-ops-core/dev-itpro/sysadmin/maintenance-mode/?azure-portal=true).
 
 ## <a name="install-the-planning-optimization-add-in"></a>تثبيت الوظيفة الإضافية لتحسين التخطيط
 
 لتثبيت الوظيفة الإضافية لتحسين التخطيط، يجب أن يكون لديك حق الوصول إلى البيئة في Lifecycle Services لإكمال التثبيت، ويجب أن تكون من المستوى 2 أو بيئة أعلى. 
 
-لمزيد من المعلومات، راجع [الشروع في العمل باستخدام تحسين التخطيط](https://docs.microsoft.com/dynamics365/supply-chain/master-planning/planning-optimization/get-started/?azure-portal=true).
+لمزيد من المعلومات، راجع [الشروع في العمل باستخدام تحسين التخطيط](/dynamics365/supply-chain/master-planning/planning-optimization/get-started/?azure-portal=true).
 
 
 لتثبيت تحسين التخطيط، اتبع الخطوات التالية:

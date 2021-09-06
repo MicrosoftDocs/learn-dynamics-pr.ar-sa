@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 927c025bc4aac0f18ef8d8dd6371c2c4d392dd9f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 16d4cbbd73664b6fc92a5257371959e14ddd9f82
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667267"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362377"
 ---
 تمكّن Supply Chain Management المستخدمين من خلال عرض تقنية إنترنت الأشياء (IoT) التي تدعم العديد من الأفكار والإجراءات الأساسية داخل التطبيق. من خلال توصيل مستشعرات معداتك بمركز IoT في Microsoft Azure، يمكنك إعداد سيناريوهات الإنتاج وإدارتها في Supply Chain Management.
 
@@ -42,7 +42,7 @@ ms.locfileid: "6667267"
         2.  من لوحة المعلومات، حدد **كافة الخدمات > ذاكرة التخزين المؤقتة Azure لـ Redis**. 
         3.  انتقل إلى **الإعدادات > مفاتيح الوصول**. 
         4.  يستخدم هذا الزر في نسخ القيمة في حقل **سلسلة الاتصال الأساسي**. 
-        5.  في حالة عدم وجود سجلات في هذه الشاشة، ستحتاج إلى إنشاء ذاكرة تخزين مؤقتة Redis. لمزيد من المعلومات حول هذا الموضوع، انتقل إلى [التشغيل السريع: استخدام ذاكرة التخزين المؤقتة Azure لـ Redis مع تطبيق .Net Framework](https://docs.microsoft.com/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache/?azure-portal=true).
+        5.  في حالة عدم وجود سجلات في هذه الشاشة، ستحتاج إلى إنشاء ذاكرة تخزين مؤقتة Redis. لمزيد من المعلومات حول هذا الموضوع، انتقل إلى [التشغيل السريع: استخدام ذاكرة التخزين المؤقتة Azure لـ Redis مع تطبيق .Net Framework](/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache/?azure-portal=true).
         > [!IMPORTANT]
         > كلما قمت بتحديث ذاكرة التخزين المؤقت Redis، تأكد من تحديثها في Supply Chain Management.
 
@@ -103,4 +103,4 @@ ms.locfileid: "6667267"
 
  
 
-لمزيد من المعلومات حول تكوين السيناريو، انتقل إلى [إعداد السيناريو للحصول على ذكاء إنترنت الأشياء](https://docs.microsoft.com/dynamics365/supply-chain/iot/iot-scenario-setup/?azure-portal=true).
+لمزيد من المعلومات حول تكوين السيناريو، انتقل إلى [إعداد السيناريو للحصول على ذكاء إنترنت الأشياء](/dynamics365/supply-chain/iot/iot-scenario-setup/?azure-portal=true).

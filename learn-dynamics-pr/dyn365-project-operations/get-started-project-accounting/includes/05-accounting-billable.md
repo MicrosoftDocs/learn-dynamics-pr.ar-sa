@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: be39eedaaa9cff09036b74a8fc5c1c1fe1273240
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: f5edb8aa55f40e0719638485e0d9377554d80899dca8ba10b6b6631ece3d3085
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072940"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047181"
 ---
 يدعم Project Operations خيارات المحاسبة المتنوعة للمشاريع القابلة للفوترة التي تشمل حركات الوقت والمواد والسعر الثابت.
 

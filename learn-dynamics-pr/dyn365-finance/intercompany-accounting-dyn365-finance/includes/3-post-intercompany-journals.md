@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f241189a9507b90ca9186000fe0219585eabb62e
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: fe6c8fd9d633b8fef08bec6c949a275582a2e09508fed92d1c561c68079a1ae5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677637"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124959"
 ---
 بعد تكوين المحاسبة بين الشركات الشقيقة، يمكنك بعد ذلك إنشاء الحركات بين الشركات الشقيقة وترحيلها. سيقوم Finance بإنشاء إدخالات بين الشركات الشقيقة تلقائياً باستخدام حسابات دفتر الأستاذ ودفاتر اليومية التي تم إعدادها بالفعل. 
  

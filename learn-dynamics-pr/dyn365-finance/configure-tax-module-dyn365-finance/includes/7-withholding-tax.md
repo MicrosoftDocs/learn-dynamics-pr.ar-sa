@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7191608d373bea5d257935ad8e3bbd8b5d8ae578
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 151ae44af8272ca5c0982ba1c06ce83c2c141984c3afb58c1e3bc04e9681f28f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677662"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136193"
 ---
 يتحمل المشتري في بعض البلدان أو المناطق المسؤولية القانونية عن دفع ضريبة الخصم. تكون ضريبة الخصم مستحقة في عمليات التسليم غير المخزنة التي يتم تقديمها بشكل متكرر والتي يقوم بتسليمها مورداً ليس موظفاً بالشركة . 
 

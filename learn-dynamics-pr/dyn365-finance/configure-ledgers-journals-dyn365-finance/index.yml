@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 45ca73f93ca6feb61aa7a43f113da4dcbbb95869
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 998cf92e74f157dfca5598c1ed4406fd097b30d0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677491"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7341790"
 title: تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. يوفر دفتر الأستاذ أيضاً الوسائل لمشاركة دليل الحسابات والعملات والتقويم المالي من قِبل كيانات قانونية متعددة. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- أنواع مختلفة من دفاتر اليومية وإعدادها.    \n- طريقة تكوين إعداد دفتر الأستاذ والترحيل.\n- طريقة تكوين دفاتر اليومية واستخدامها.\n"

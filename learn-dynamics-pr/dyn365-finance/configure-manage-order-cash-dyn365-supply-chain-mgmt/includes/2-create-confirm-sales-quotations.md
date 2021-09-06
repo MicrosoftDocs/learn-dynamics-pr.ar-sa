@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dcd2ebb2b5aef5f68458a4412c2fe5c3f765a819
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: b45c921cbee05eea9815888a2f76a92dcc607fd9
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677455"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7335092"
 ---
 إصدار عرض أسعار يشابه عملية إصدار أمر مبيعات.
 تتوفر أيضاً معظم الوظائف التي يمكن العثور عليها في صفحة **أمر المبيعات** في صفحة **عرض أسعار المبيعات**. يتم تحويل عروض الأسعار التي يقبلها العملاء إلى أوامر مبيعات. يمكن تأكيد عروض الأسعار التي تم إنشاؤها للمتطوع المحتمل فقط عندما تقوم بتحويل المتطوع المحتمل إلى عميل.
@@ -161,7 +161,7 @@ ms.locfileid: "6677455"
 
 ثمة خيار آخر يمكنك الوصول إليه من علامة التبويب **عام** هو **أصناف المبيعات المكملة**، والتي يتم إعدادها للأصناف المرتبطة بالعميل في عرض أسعار المبيعات. يمكن العثور على هذا الخيار أيضاً من بند عرض أسعار المبيعات من خلال تحديد **بند عرض أسعار المبيعات > الأصناف المكملة**. وتعمل هذه الوظيفة بنفس الطريقة الخاصة بأوامر المبيعات.
 
-لمزيد من المعلومات حول الاتفاقيات، راجع [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](https://docs.microsoft.com/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول الاتفاقيات، راجع [تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-agreements-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 ## <a name="charges"></a>المصاريف 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6078417c193bbc4aafda191895986d19b4fa0a4d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3ffce96869821465128f5c63233f3cff0d4bb3cfef2389eb27dd8cbc574d988f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668085"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139287"
 ---
 في هذا التمرين، ستقوم بما يلي:
 

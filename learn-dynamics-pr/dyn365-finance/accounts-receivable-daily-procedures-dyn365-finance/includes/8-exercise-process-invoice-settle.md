@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e21b2b5e62cd7c4ce2b679de03287530d7eba06c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9e6a633bf6cae6b44644670946ccd1dd9bec925bfb900465ceba8a1d8a727e4c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677188"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099572"
 ---
 ستقوم في هذا التمرين بمعالجة فاتورة وتسويتها مقابل دفعة في Finance.
 

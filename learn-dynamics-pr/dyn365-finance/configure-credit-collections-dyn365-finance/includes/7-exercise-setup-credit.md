@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3927bd667a7ead146ec1500b1d1f6bba04517b34
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ea66e6a1836dc176391e0f36cda1699e7de58a399175f5a1742cc576606d62eb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677581"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053391"
 ---
 في هذا التدريب، ستقوم بإجراء المهام التالية لإعداد ‏‫الائتمان والتحصيلات في Finance.
 

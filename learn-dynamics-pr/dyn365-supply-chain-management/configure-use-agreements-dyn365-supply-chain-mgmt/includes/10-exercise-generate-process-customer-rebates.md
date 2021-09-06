@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f46ca8a8155322e540d538c38b8c8083e5f15ff6
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e36ab79a9159f96a1d3cd5ae0b24a56c83fafdc74dba99fd1f79c4f3b86ef7b1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667147"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081562"
 ---
 
 في هذا التدريب، ستقوم بمراجعة اتفاقية عملاء، ثم إنشاء دعاوي الخصم ومعالجتها.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7204f4f99e716e0c787a59f66f74fd56119fab7a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 14428d570ce97a22465c11fc39f200819e09ae5ad84f057cdcad31ec2ebf9813
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071326"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063909"
 ---
 تقدم قسم الموارد البشرية في شركة USMF بطلب للوصول إلى تطبيقات Finance and Operations لموظف جديد تم تعيينه كموظف للحسابات الدائنة. وقد تم بالفعل إنشاء حساب مستخدم الدليل النشط كجزء من عملية الإعداد. 
 

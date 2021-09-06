@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ba595c3a68ba3a80ffbb3ccc26ee895c72b83b55
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b901318f3bc2b9eee31fa954018fcbeb805972d2380b539ef2c8b3822b553ea0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667683"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086454"
 ---
 للوصول إلى صفحة **كل الأصول**، اتبع الخطوات التالية:
 

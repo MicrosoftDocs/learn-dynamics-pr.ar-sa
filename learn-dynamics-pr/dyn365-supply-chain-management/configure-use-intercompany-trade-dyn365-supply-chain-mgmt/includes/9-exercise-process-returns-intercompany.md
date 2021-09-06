@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d0f79b2c1f1a1887cdbf22a2c6c756722287df26
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e49a453ef77ca3cd09e4f81b408fb3e4fa05d60fed8f1cbaa6f6abe85c810474
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668317"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7103554"
 ---
 قم بتنفيذ أمر إرجاع حيث يتم إرجاع الأصناف من **DEMF**، شركة المبيعات، إلى مصنع الإنتاج **USMF**.
 

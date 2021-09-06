@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 05698e4ba039d44d6d82b1a28f16935b39e5c1d3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6f42adeb2bef314a4cb00fd996d1788e0e1468c2073babd29b2c4fc365252ee3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667544"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134923"
 ---
 بعد الانتهاء من الإعداد والتكوين للوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management، تكون مستعداً لإنشاء منتجات هندسية جديدة، وإعداد قوائم مكونات الأصناف والمسارات، وإصدار المنتجات لاستخدامها في التطبيق. 
 

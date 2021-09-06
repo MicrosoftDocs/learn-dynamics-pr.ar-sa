@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 43481b2d66dad68824343ac86fdb6baaaaf174ea
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f2872b8920ec3ebb30ff6d655579f7dbfc7470fa854734db4cceda790ff8f977
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667795"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052287"
 ---
 قامت شركة المعالجة Contoso **USPI** بشراء مصفاة نفط صغيرة وستبدأ في تصنيع البنزين من تيار النفط الخام. في هذه العملية، يتم إنتاج المنتجات المشتركة من الكيروسين ووقود الديزل، ويتم إنشاء منتج ثانوي لمياه الصرف الصحي. 
 

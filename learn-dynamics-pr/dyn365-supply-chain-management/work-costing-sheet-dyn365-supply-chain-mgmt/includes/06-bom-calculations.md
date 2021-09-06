@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5dccdc80e5ac1d4de3513bb28caeee7a00fa23ed
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: d456614851909aee4743005aefe0061b328824a940d11af4174a26c0d1d405cc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667336"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119190"
 ---
 
 تحدد حسابات قائمة مكونات الصنف (BOM) الأسعار المرتبطة بقائمة BOM. عند إجراء العمليات الحسابية لقائمة مكونات الصنف (BOM)، يمكنك عرض أسعار BOM المقدرة على جميع مستويات BOM، وإذا لزم الأمر، يمكنك تحديثها في BOM.

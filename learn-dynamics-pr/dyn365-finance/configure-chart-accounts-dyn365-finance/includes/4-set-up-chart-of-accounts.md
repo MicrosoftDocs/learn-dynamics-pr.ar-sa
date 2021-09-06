@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e19ac95bd477e50459cd9aa37e44328bb3ccc410
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: ad216daa9c8268c356889a5dd1bb2b55b6c0e5fedd923b54a285a35e8700301b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677666"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047877"
 ---
 مخطط الحسابات هو مجموعة من الحسابات الرئيسية التي تتبعها Finance. فهو يلتقط المعلومات المالية لاتخاذ قرارات مالية صائبة. يتم تعيين رقم حساب لكل حساب كمعرف فريد.  
 

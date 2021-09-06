@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 97305f56d6330394c7c7285c398801c21b492cdd
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 6df53b449f8ad2d560bdaf2174494575414afcc419dbe44608bd7ae526633402
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7046762"
 ---
 تم إرسال المنتج إلى العميل، ولكن لم يكن العميل مقتنعاً بالكامل ويقدم ملاحظات تتضمن اقتراحات للتحسين. بينما يكون العميل يتحدث مع موظف المبيعات على الهاتف، يمكن لموظف المبيعات طلب التغييرات التي يصفها العميل.
 

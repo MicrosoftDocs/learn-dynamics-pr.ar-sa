@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c622d0249ca0fb1dda9b0aa89d73708007143109
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 51c8f74c134ce2015eee0a6f6643bcb2ea3530807edd532cbdc2d5eff4b52689
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667473"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097775"
 ---
 ## <a name="scenario-set-up-manual-packing"></a>السيناريو: إعداد التعبئة اليدوية
 

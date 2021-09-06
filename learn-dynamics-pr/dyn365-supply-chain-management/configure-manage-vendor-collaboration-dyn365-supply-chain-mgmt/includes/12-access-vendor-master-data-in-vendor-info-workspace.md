@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a49be3c04d6863922ea32636ff0be0f87c2bdd2b
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f24c2ecfe10242a0b6587a6f54001c5764c57da5ff8368eef517a6694b157c72
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668404"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078186"
 ---
 بصفتك مورد، يمكنك الوصول إلى جزء من المعلومات التي يحتفظ بها العميل في السجل الرئيسي للمورد. وعليه، يمكنك الحفاظ على المعلومات محدثة. لتحديث المعلومات، يجب أن يكون لديك دور مسؤول مورد (خارجي).
 

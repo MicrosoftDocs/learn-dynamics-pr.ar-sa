@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e8a9193dba615f46ba2acada210da0ea37c33984
-ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
+ms.openlocfilehash: 06e4c5bbe3aba3dccd82de41c4f8cf40e2c7e0dba23c305502596a5f2bd44545
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "6693261"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7098975"
 ---
 قد تحتاج إلى إرفاق مستندات بالسجلات ضمن Dynamics 365 Human Resources. على سبيل المثال، عند تعيين موظف، قد تحتاج إلى إرفاق مستندات، مثل الشهادات أو الصور، بسجل الموظف. Microsoft SharePointOnline هو موقع التخزين الموصى به لإدارة المستندات.
 

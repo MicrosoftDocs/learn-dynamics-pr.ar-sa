@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 08be9a3faabd985e7f7db9544604bc00447ddec3
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: b0ba9f033a0a0c4b0bd8d6d78ac006b1ca0d6ddc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668454"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7346677"
 title: استخدام إدارة المستودعات للتصنيع في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nهل ترغب في الحصول على أفضل ما في إدارة المستودعات لدعم أنشطة التصنيع الخاصة بك؟ في هذه الوحدة، يمكنك التعرف على ميزات إدارة المستودعات الخاصة بالتصنيع في Dynamics 365 Supply Chain Management. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- مواقع إدخالات وإخراجات الإنتاج.\n- التجهيز وانتقاء الأوامر.\n- إصدار بنود قائمة مكونات الصنف والمعادلة إلى المستودع.\n- توزيع البضائع.\n- إمكانية رؤية استثناءات المواد.\n"

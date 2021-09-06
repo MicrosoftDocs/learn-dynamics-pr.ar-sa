@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac50efe5dad2cb7778698ffeabc9a788276bf1a3
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f7ccc41e98d0858d58b4a1020c4ad0e1cc84a4840079f2265a63b2c0b4fdae4b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667523"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7119681"
 ---
 يمكن للشركات ربط البيانات المالية ذات الصلة بحركات المخزون التي يتم الحصول عليها في كل موقع في بيئة الإنتاج متعددة المواقع. يؤدي هذا الارتباط إلى:
 

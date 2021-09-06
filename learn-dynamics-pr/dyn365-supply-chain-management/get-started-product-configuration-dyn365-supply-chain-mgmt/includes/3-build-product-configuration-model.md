@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e0400fc805e491a18e082705637193d2df4b5fbc
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: e0130b472ad9836c20890a25d98a1c94a83a268f03367cd5cde71d48466f3656
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667413"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129473"
 ---
 نظراً لتحول العديد من المنتجات إلى سلع، ظهرت الحاجة إلى تمييزها. وجاءت الاستجابة الفورية للشركات المصنعة لهذا التحدي من خلال إنشاء متغيرات لكل منتج لكي يتوفر للعملاء المزيد من البدائل. أدت هذه الاستراتيجية إلى زيادة التحديات المتوقعة وارتفاع تكلفة المخزون والمنتجات غير المباعة التي أصبحت قديمة.
 

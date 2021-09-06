@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 15062bd12645118290aa76c5381985f0b1557526
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 975961ef52547e5deaff885f3041d4c93be07713d2a039a9605ff18e3e5c9859
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667421"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067420"
 ---
 وفقاً لما ذكره Womack وJones في كتابهما *Lean Thinking: Banish Waste and Create Wealth in Your Corporation*، تم تعريف **القيمة** على أنها "القدرة المقدمة إلى عميل [أ] في الوقت المناسب وبسعر مناسب، على النحو المحدد في كل حالة من قبل العميل." 
 

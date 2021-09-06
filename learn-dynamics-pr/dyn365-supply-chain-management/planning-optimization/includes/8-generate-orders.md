@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 08ebb5ae0203e0718b464ef2b91426dc7f43728e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ca7f61766629209b5744c16a28f05eda016142ac13a7e655ad7334fb1fe8957b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667466"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7108575"
 ---
 باستخدام تحسين التخطيط الذي تم تثبيته، يمكن تعديل أوامر الإنتاج المخططة والمعتمدة، وعند تشغيل "تحسين التخطيط" مرة أخرى، ستنعكس التغييرات التي تم إجراؤها على أمر الإنتاج المخطط. باستخدام التخطيط الرئيسي المضمن، تنتظر الخطط عادةً حتى التشغيل التالي، في المساء على سبيل المثال، لتلقي أمر إنتاج مخطط دقيق. 
 

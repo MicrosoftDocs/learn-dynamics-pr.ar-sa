@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 19d5e8864df5d80926f2fd6adca78d857e24db78
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: 71cf33c95c224517e23bc05bb1fd2d63ad3173e848206f8f53099635fd3b54e1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6070442"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054764"
 ---
 عادةً ما تتم إدارة عمليات ترحيل كشف الحساب في جزأين: 
 

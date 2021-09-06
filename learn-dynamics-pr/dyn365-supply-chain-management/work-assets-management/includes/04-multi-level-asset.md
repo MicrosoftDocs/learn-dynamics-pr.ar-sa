@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cd8871a326f8b877dc45c60b663d3c3262bc5c64
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 96b71960b6c9d59dc95243b6f03e3af7ee546d3de4691652773df68eaf29ae52
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667681"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7091741"
 ---
 تسمح لك الأصول متعددة المستويات بإنشاء الأصول والأصول الفرعية ذات الصلة في بنية شجرة هرمية تعرض العلاقات والتبعيات بين الأصول. بالإضافة إلى ذلك، يمكن أن ترتبط مهام الصيانة بجميع مستويات بنية الشجرة، ويمكن إنشاء الإحصائيات لمستوى فردي أو كمجموعة لجميع مستويات الأصول الفرعية.
 

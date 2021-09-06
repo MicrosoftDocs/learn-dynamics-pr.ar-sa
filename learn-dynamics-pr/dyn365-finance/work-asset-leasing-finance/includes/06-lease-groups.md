@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 42c9074b9724c6b57141d1050719eeee6bead280
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: c630289dfc44dddc061d14fb4f1c4527d225cb711d8896062ce51e4ad03396d7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677746"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047575"
 ---
 ‏‫مجموعات عقود الإيجار‬‬ مطلوبة لإنشاء عقود إيجار جديدة. ترتبط دفاتر عقود الإيجار بكل مجموعة عقود إيجار وتحدد الدفاتر الافتراضية التي يجب إنشاؤها لكل عقد إيجار. يمكنك تعيين حسابات محددة لمجموعة عقود إيجار في الصفحة **معلمات ترحيل عقد الإيجار**.
 

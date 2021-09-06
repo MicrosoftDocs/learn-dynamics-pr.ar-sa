@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e62611a330aaa3f3c3b599148a8c3fd39a2839cf
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7d88a69c8fb3b39cd61b7791d5bb028950f6c78f854a8b9f3e485757021320b2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668220"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7051853"
 ---
 كمساعد جديد لمصمم المنتج في شركة **USMF**، تتم مطالبتك بإنشاء قائمة مكونات صنف بسيطة لخزانة خفيفة جديدة. استخدم المواصفات التالية ووافق على قائمة مكونات الصنف باستخدام الموظف 000020، جوليا فونديربورك، والمعلمات التالية:
 

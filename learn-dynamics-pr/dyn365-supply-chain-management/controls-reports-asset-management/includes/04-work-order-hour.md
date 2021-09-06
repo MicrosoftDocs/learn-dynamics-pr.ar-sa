@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6b613556b6164522b04ef143ea232e390ec485d
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 3c3b294a8f23f5d90707f34bc5e06afb65140fa652a7c86ec250cde95bfa7cdd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667493"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097935"
 ---
 يمكنك حساب الساعات للحصول على نظرة عامة على الساعات الفعلية مقارنة بالساعات المدرجة في الموازنة على الأصول أو مواقع العمل أو أوامر العمل. وتعتمد الساعات الفعلية على المعاملات المرحلة.
 

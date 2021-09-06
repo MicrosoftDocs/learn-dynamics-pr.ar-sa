@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bfc3f903cdd1688ec8797c9b635d484929abc19e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b857b9b7c0a54a255eb4c0c1a11fa6ee638b7dbb6ff9f0505db8de800d208206
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086538"
 ---
 يتكون *المنتج* في إدارة سلسلة التوريد من تعريف منتج أساسي. ويتم تعريف هذا بشكل مستقل عن المؤسسة حيثما يتم استخدامه. عندما يتم ترخيص المنتج للاستخدام في كيان قانوني، يتم إعداد التفاصيل الإضافية المعتمدة تنظيمياً، مثل التكلفة وخطط التغطية والمعلومات الضريبية والموردين المفضلين لتزويد المنتج وغير ذلك الكثير، في الكيانات القانونية المعنية.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ae08c1b18becec055ec21b58538e45aa8d4f74d5
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: 57f16f6d2880c0cdd93345696ab185402194dccbeedbf518ac27f57e2786ae09
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130681"
 ---
 
 الواقع المختلط هو نتيجة لمزج العالم المادي مع العالم الرقمي. إنه التطور التالي في التفاعل البشري والكمبيوتري والبيئي ويفتح الاحتمالات التي كانت قبل الآن في مخيلتنا. أصبح ذلك ممكنا بفضل التقدم في رؤية الكمبيوتر، وقوة المعالجة الرسومية، وتكنولوجيا العرض، وأنظمة الإدخال.

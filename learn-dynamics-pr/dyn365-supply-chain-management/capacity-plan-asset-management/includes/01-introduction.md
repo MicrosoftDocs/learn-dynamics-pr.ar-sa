@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8cd6c2ede5fc39392aea7c3eed5b8bbc09cd9c23
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 17676b69ebf196ca63aeb628c6468c4572c761304ce9fa7fb960d6f5b5de0484
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6667452"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7135785"
 ---
 تخطيط القدرة الإنتاجية هي عملية تحديد المعايير المطلوبة لتلبية أهداف الإنتاج. تتضمن هذه العملية فهماً للقدرات الإنتاجية وتنبؤات الأصناف.
 

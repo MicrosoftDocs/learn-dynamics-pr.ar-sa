@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 81d31851e598e81e880484927ff1e6ab1c7cafca
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: bc10b700946882db49745229202f9c285a6be77a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668218"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7347608"
 title: بدء استخدام التصنيع المنفصلة في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

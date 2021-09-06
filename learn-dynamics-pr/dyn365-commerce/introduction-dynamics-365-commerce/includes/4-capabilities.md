@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9e030568206e4f5ef07254401691ecad7906dc2f
-ms.sourcegitcommit: c7a8abd83f4b8a0721c0977f3c23c1b9026ad541
+ms.openlocfilehash: 69151e12e0a9c68a272669dc56688227ee7a0f836b214955869ffd3965ea733c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "6446803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095350"
 ---
 ## <a name="retail-headquarters"></a>Retail Headquarters
 

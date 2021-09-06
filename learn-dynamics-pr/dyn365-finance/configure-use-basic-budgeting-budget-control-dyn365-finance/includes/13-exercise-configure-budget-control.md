@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a5f3823cb092dcc0398a1676733da19be83be4cf
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 9fd01c452966c023354e8e8d75506e5d992d86e51b9b8798095c31e02ae222a9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677168"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063632"
 ---
 يجب تكوين التحكم في الموازنة للشركة الخاصة بك. حدد **USMF** للتدريب والتعرف على الكيفية.
 

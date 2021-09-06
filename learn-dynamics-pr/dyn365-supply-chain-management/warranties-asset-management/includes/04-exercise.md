@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c6c82d16c53bfe7f81a504d80a640a8ace43ab6a
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: b63a9710a19edec31e4714ace907a63698265d16ba5c90405fd757ac5fa50aa1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7139263"
 ---
 حصلت شركتك على خلاط جديد (BLN-101) يأتي مع ضمان لمدة عامين. تحتاج إلى إضافة معلومات الضمان ثم ربط نوع الأصل بالضمان. انتقل إلى **إدارة الأصول > الإعداد > الأصول > الضمان**، وحدد **جديد** ثم اتبع هذه الخطوات:
 

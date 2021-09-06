@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1eb2a101066903418e91c1def2e8d6c089fa66fb
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 2cd1a04273250eafdcdd3a596198462c6dceb0cd3c3b3d2b7f44515b19de26c0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677163"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078625"
 ---
 يمكنك استخدام الموازنة الأساسية لتحديد الأبعاد المالية للموازنات وإنشاء نماذج موازنة وإعداد إدخالات سجل الموازنة واستخدامها. يمكنك أيضاً إعداد مهام سير عمل إعداد الموازنة الاختيارية لتنفيذ مراجعة إدخالات سجل الموازنة تلقائياً، بما في ذلك تحويلات الموازنة.
 

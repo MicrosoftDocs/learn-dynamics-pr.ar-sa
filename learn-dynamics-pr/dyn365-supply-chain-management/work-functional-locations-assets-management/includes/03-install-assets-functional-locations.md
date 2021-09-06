@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 7b06f4ce75d325f9a304b9637b6594cedc57393c
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: cfe3c40a5790ba8ce54586c47f5b376bd1df6f8f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668069"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334977"
 ---
-عندما تقوم بإعداد بُنى مواقع العمل، ستحتاج إلى تثبيت أصول في مواقع العمل الضرورية. ومن المهم أن تكون لديك أصول تم إعدادها في التطبيق قبل أن تبدأ هذه العملية. لمعرفة المزيد حول إعداد الأصول في Supply Chain Management، راجع [مقدمة حول الأصول](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/objects/introduction-to-objects/?azure-portal=true). 
+عندما تقوم بإعداد بُنى مواقع العمل، ستحتاج إلى تثبيت أصول في مواقع العمل الضرورية. ومن المهم أن تكون لديك أصول تم إعدادها في التطبيق قبل أن تبدأ هذه العملية. لمعرفة المزيد حول إعداد الأصول في Supply Chain Management، راجع [مقدمة حول الأصول](/dynamics365/supply-chain/asset-management/objects/introduction-to-objects/?azure-portal=true). 
 
 عند تثبيت الأصول في موقع العمل، يمكن تحويل الأبعاد المالية المحددة لموقع العمل إلى الأصول. يعتمد هذا السيناريو على إعداد نوع موقع العمل المحدد لموقع العمل هذا. 
 

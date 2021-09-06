@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 906528ceba0aee22d307f968d29a76413333f38e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: ece01c7ea559e665c66db1fedbc4b211547c748c3531a9f02503ae300e13fa8e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6668026"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077890"
 ---
 يتم دعم وظيفة علامات وزن التعبئة كجزء من السيناريوهات التالية:
 

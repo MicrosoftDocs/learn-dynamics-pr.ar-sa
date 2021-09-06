@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4fb29d620be6f194b46e75a8e9d67108b49cb10c
-ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+ms.openlocfilehash: 6979f9dee58f918edfb829cb135d73d6c16da2eea270c6f136e65af5b4e2d80d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6677393"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130134"
 ---
 الشخص الذي سينفذ هذا الإجراء هو أمين الخزانة.
  
