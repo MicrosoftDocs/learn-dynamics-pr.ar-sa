@@ -1,6 +1,86 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/1-introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/2-overview.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/2-overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/3-features.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/3-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/4-capabilities.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/4-capabilities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/5-fraud-protection.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/5-fraud-protection",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/6-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/6-knowledge-check",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/7-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/7-summary",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/1-introduction.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/1-introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/2-digital-transformation-business-transformation.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/2-digital-transformation-business-transformation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/3-microsoft-business-applications.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/3-microsoft-business-applications",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/4-artificial-intelligence.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/4-artificial-intelligence",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/5-mixed-reality.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/5-mixed-reality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/6-knowledge-check.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/6-knowledge-check",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/7-summary.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/7-summary",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/introduction-dynamics-365/index.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-introduction/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-fast-track/go-live-readiness/5-summary.md",
       "redirect_url": "https://docs.microsoft.com/learn/paths/use-success-design/",
       "redirect_document_id": false
