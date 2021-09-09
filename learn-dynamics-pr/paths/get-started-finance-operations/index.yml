@@ -30,7 +30,7 @@ products:
 - dynamics-finance
 - dynamics-scm
 modules:
-- learn-dynamics.wwl.introduction-dynamics-365
+#- learn-dynamics.wwl.introduction-dynamics-365
 - learn-dynamics.navigating-in-f-and-o
 - learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops
 - learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops
