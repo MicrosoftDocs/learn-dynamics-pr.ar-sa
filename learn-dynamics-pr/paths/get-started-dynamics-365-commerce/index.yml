@@ -33,7 +33,7 @@ products:
 - dynamics-365
 - dynamics-commerce
 modules:
-- learn-dynamics.wwl.introduction-dynamics-365-commerce
+#- learn-dynamics.wwl.introduction-dynamics-365-commerce
 - learn-dynamics.get-started-commerce-channels
 - learn-dynamics.introduction-architecture-deployment
 - learn-dynamics.get-started-fraud-protection
