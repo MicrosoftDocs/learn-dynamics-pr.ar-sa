@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 79c2aad1a119a866edc9e203c9f5eee504501f0e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2fd2fbec0ebd94eeb23b9080b329fd3d9d9798420d4dfa6106d90ba41c549a6a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658542"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7066371"
 ---
 كتالوج المنتجات هو مجموعة من المنتجات والخدمات التي تبيعها المؤسسة وتوفرها للعملاء. لا يتضمن كتالوج المنتجات النموذجي قائمة بالمنتجات التي تبيعها المؤسسة فحسب، بل يحدد أيضا خيارات تسعير مختلفة، مثل البيع بالتجزئة والجملة. كما أنه يسرد تفاصيل كيفية بيع أحد المنتجات.
 

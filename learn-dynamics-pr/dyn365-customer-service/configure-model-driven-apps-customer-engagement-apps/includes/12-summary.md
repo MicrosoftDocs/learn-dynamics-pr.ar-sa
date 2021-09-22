@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e2fdd5e25fccb49db4b7234c1bd1ab0b7af08093
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 009cc7b3d1db594813efd77ba09a5f921169cdf8a780e386402f3f1176b73751
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131759"
 ---
 في هذه الوحدة، ناقشنا النماذج وأنواع النماذج المختلفة للتطبيقات المستندة إلى النماذج لـ Dynamics 365. ناقشنا كيفية تكوين نماذج متعددة واستخدام بعض مكونات النموذج المتخصصة.
 ناقشنا أيضاً وجهات النظر والشبكات وأظهرنا كيفية استخدام الشبكات القابلة للتحرير. كما تمت مناقشة مقدمة إلى المخططات ولوحات المعلومات. 

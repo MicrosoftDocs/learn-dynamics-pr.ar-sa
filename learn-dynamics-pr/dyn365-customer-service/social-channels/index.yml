@@ -7,13 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 4e6f5e8461e8d78590b1cdc77340c0cde42d48f9
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 3ec5c11f0b0ea42ebe4bc254b0340fac40063d0c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658335"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7336011"
 title: نشر قنوات المراسلة الاجتماعية في القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nبالإضافة إلى طلب الدعم من خلال قنوات محادثة المباشرة، تساعد القناة متعددة الاتجاهات لـ Microsoft Dynamics 365 Customer Service مؤسستك على توسيع عروض الخدمة لديها لتشمل بعض منصات المراسلة الاجتماعية الأكثر شيوعًا التي يتم استخدامها اليوم. تناولت هذه الوحدة كيفية استخدام الأنظمة الأساسية المختلفة للمراسلة الاجتماعية ودمجها في القناة متعددة الاتجاهات لنشر Dynamics 365 Customer Service.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحقق من القنوات المتوفرة وراجع المتطلبات الأساسية للبدء في المراسلة الاجتماعية. \n- اكتشف الإجراء الخاص بإنشاء تدفقات عمل المراسلة الاجتماعية.\n- مراجعة عملية تكوين قناة المراسلة عبر Facebook وحدد صفحات Facebook.\n- راجع عملية تكوين قناة رسائل LINE.\n- راجع عملية تكوين قناة المراسلة عبر Twitter وحدد قناة Twitter.\n- راجع عملية تكوين قناة المراسلة عبر WhatsApp باستخدام Twilio.\n- راجع عملية إضافة قناة المراسلة WeChat.\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c49c10cfa94328c959d4c4514ac877bd6f399e38
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 028e5434ebd01649f6d03f159bdac40df979b8db
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659219"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7333506"
 ---
 قبل إمكانية استخدام عنصر التحكم **Knowledge Base Search** للبحث عن مقالات معرفية، يجب تشغيل وظيفة البحث في المعارف الخاصة بها. كما يجب عليك إعداد وظيفة قاعدة المعارف للمؤسسة من خلال إعداد عنصرين:
 
@@ -45,7 +45,7 @@ ms.locfileid: "6659219"
 
 بعد تحديد الكيانات لاستخدامها مع قاعدة المعارف، يمكنك تحديد **التالي** ثم **إنهاء**. سيتم تشغيل قاعدة المعارف للكيانات المحددة، ويمكنك إعداد عنصر التحكم **Knowledge Base Search** في صفحات الكيان.
 
-لمزيد من المعلومات حول إعداد البحث في المعارف، راجع [استخدام البحث في المعارف المضمنة لإعداد إدارة المعرفة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/set-up-knowledge-management-embedded-knowledge-search).
+لمزيد من المعلومات حول إعداد البحث في المعارف، راجع [استخدام البحث في المعارف المضمنة لإعداد إدارة المعرفة](/dynamics365/customer-engagement/customer-service/set-up-knowledge-management-embedded-knowledge-search).
 
 ## <a name="categories"></a>الفئات
 
@@ -57,4 +57,4 @@ ms.locfileid: "6659219"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IJmn]
 
-لمزيد من المعلومات حول العمل مع فئات المقالات، راجع [تكوين الفئة للمقالات المعرفية وإدارتها](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-knowledge-categories-articles).
+لمزيد من المعلومات حول العمل مع فئات المقالات، راجع [تكوين الفئة للمقالات المعرفية وإدارتها](/dynamics365/customer-engagement/portals/configure-knowledge-categories-articles).

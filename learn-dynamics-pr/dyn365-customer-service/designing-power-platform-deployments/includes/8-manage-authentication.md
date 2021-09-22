@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: c23a0441e5b4111640ac1e913be2b2769331c2a2
-ms.sourcegitcommit: c1b6b2d5997c337a99981084ec530c60d28e90a1
+ms.openlocfilehash: eecf33e306263ae455927e2d88804d53c287b132
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/19/2021
-ms.locfileid: "6659398"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7351933"
 ---
-أدّى توفُّر هويات مستخدمي تطبيقات Dynamics 365 Customer Engagement من خلال Microsoft Online Services إلى أنه أصبح أمامك خيارات عدة لإدارة مزامنة المستخدم بين بيئتك على الإنترنت وبيئتك المحلية.
+نظرًا لأن هويات مستخدمي تطبيقات Dynamics 365 Customer Engagement يتم توفيرها من خلال Microsoft Online Services، فإن لديك خيارات متعددة لإدارة مزامنة المستخدم بين بيئتك على الإنترنت وبيئتك المحلية.
 
 #### <a name="decide-on-a-user-management-approach"></a>اتخاذ قرار بشأن نهج إدارة المستخدم
 
@@ -30,7 +30,7 @@ ms.locfileid: "6659398"
 
 ### <a name="cloud-only"></a>السحابة فقط
 
-يمكنك من خلال نموذج السحابة فقط إدارة حسابات المستخدمين لديك في Microsoft 365 فقط. ولا يُشترط وجود خوادم محلية؛ فكل شيء يتم التعامل معه في السحابة بواسطة Azure AD. يمكنك إنشاء المستخدمين وإدارتهم في مركز إدارة Microsoft 365 أو باستخدام Windows PowerShell [أوامر cmdlets لـ PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell) ويتم التعامل مع الهوية والمصادقة بالكامل في السحابة بواسطة Azure AD. عادة ما يكون نموذج السحابة فقط خياراً جيداً في الحالات التالية:
+يمكنك من خلال نموذج السحابة فقط إدارة حسابات المستخدمين لديك في Microsoft 365 فقط. ولا يُشترط وجود خوادم محلية؛ فكل شيء يتم التعامل معه في السحابة بواسطة Azure AD. يمكنك إنشاء المستخدمين وإدارتهم في مركز إدارة Microsoft 365 أو باستخدام Windows PowerShell [أوامر cmdlets لـ PowerShell](/office365/enterprise/powershell/manage-office-365-with-office-365-powershell) ويتم التعامل مع الهوية والمصادقة بالكامل في السحابة بواسطة Azure AD. عادة ما يكون نموذج السحابة فقط خياراً جيداً في الحالات التالية:
 
 - ليس لديك دليل مستخدم محلي آخر.
 - لديك دليل محلي معقد جداً وتريد ببساطة ألا تعمل من أجل التكامل معه.
@@ -50,7 +50,7 @@ ms.locfileid: "6659398"
 
 يعمل تسجيل الدخول الأحادي السهل من Azure Active Directory (Seamless SSO Azure AD) على تسجيل دخول المستخدمين تلقائياً عندما يستخدمون أجهزة شركتهم المتصلة بشبكة شركتك. عند تمكين هذه الميزة، لا يحتاج المستخدمون إلى كتابة كلمات مرورهم لتسجيل الدخول إلى Azure AD، وعادة، كتابة أسماء المستخدمين الخاصة بهم أيضاً. وتوفر هذه الميزة للمستخدمين لديك سهولة الوصول إلى التطبيقات المستندة إلى السحابة دون الحاجة إلى أي مكونات محلية إضافية.
 
-يمكن دمج تسجيل الدخول الأحادي السهل مع أسلوبي تسجيل الدخول [مزامنة تجزئة كلمة المرور](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization) أو [‏‫مصادقة المرور](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-pta). إن ميزة تسجيل الدخول الموحّد (SSO) السهل *لا* تنطبق على خدمات الأمان المشترك لـ Active Directory (ADFS).
+يمكن دمج تسجيل الدخول الأحادي السهل (Seamless SSO) إما مع طريقة تسجيل الدخول  [مزامنة تجزئة كلمة المرور](/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)  أو طريقة  [مصادقة المرور](/azure/active-directory/hybrid/how-to-connect-pta) . إن ميزة تسجيل الدخول الموحّد (SSO) السهل *لا* تنطبق على خدمات الأمان المشترك لـ Active Directory (ADFS).
 
 ![رسم تخطيطي لتسجيل الدخول الأحادي السهل باستخدام أسلوب مزامنة تجزئة كلمة المرور وأسلوب مصادقة المرور.](../media/10_unit8_SG_1.png)
 
@@ -65,7 +65,7 @@ ms.locfileid: "6659398"
   - استغناء المستخدمين عن الحاجة إلى إدخال كلمات مرورهم مرات عديدة.
 
 - سهولة التوزيع والإدارة وعدم الحاجة إلى أي مكونات إضافية محلياً لإنجاز هذا العمل.
-  - العمل باستخدام أي أسلوب لمصادقة السحابة - [مزامنة تجزئة كلمة المرور](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization) أو [مصادقة المرور](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-pta).
+  - العمل باستخدام أي أسلوب لمصادقة السحابة - [مزامنة تجزئة كلمة المرور](/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization) أو [مصادقة المرور](/azure/active-directory/hybrid/how-to-connect-pta).
   - إمكانية الطرح لبعض المستخدمين أو كلهم باستخدام نهج المجموعة.
   - تسجيل الأجهزة غير المزودة بنظام Windows 10 باستخدام Azure AD دون الحاجة إلى أي بنية أساسية لخدمات الأمان المشترك لـ Active Directory (ADFS). تحتاج هذه القدرة إلى استخدام الإصدار 2.1 أو إصدار أحدث من [عميل الانضمام إلى مكان العمل](https://www.microsoft.com/download/details.aspx?id=53554).
 
@@ -81,7 +81,7 @@ ms.locfileid: "6659398"
 - يتم دعم عملاء Microsoft 365 Win32 (Outlook، وWord، وExcel، وآخرون) مع الإصدارات 16.0.8730.xxxx والإصدارات الأحدث باستخدام سير عمل غير تفاعلي. بالنسبة إلى OneDrive، عليك تنشيط [ميزة التكوين دون مطالبة لـ OneDrive](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/Previews-for-Silent-Sync-Account-Configuration-and-Bandwidth/ba-p/120894) للاستمتاع بتجربة تسجيل دخول دون مطالبة.
 - ويمكن تمكينها عن طريق Connect Azure AD.
 - إنها ميزة مجانية، ولا تحتاج إلى أي إصدارات مدفوعة من Azure AD لاستخدامها.
-- الميزة مدعومة على عملاء مستعرض ويب وعملاء Office الذين يدعمون [المصادقة الحديثة](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) على الأنظمة الأساسية والمستعرضات القادرة على مصادقة Kerberos:
+- الميزة مدعومة على عملاء مستعرض ويب وعملاء Office الذين يدعمون [المصادقة الحديثة](/office365/enterprise/modern-auth-for-office-2013-and-2016) على الأنظمة الأساسية والمستعرضات القادرة على مصادقة Kerberos:
 
  | **نظام التشغيل والمستعرض**                  |  **Internet Explorer** |  **Microsoft Edge** |  **Google Chrome** | **Mozilla Firefox** | **Safari**  |
  | ---------------------------------| -----------------------|-------------------- |------------------- |---------------------| ------------|
@@ -94,10 +94,10 @@ ms.locfileid: "6659398"
 
 - * يتطلب الإصدار 10 Internet Explorer أو إصدار أحدث
 - **يتطلب الإصدار 10 Internet Explorer أو إصدار أحدث. تعطيل الوضع المحمي المحسَّن
-- ***يتطلب [تكويناً إضافياً](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#browser-considerations)
+- ***يتطلب [تكويناً إضافياً](/azure/active-directory/hybrid/how-to-connect-sso-quick-start#browser-considerations)
 
 ### <a name="federate-a-single-ad-forest-environment-to-the-cloud"></a>توحيد بيئة غابة AD واحدة مع السحابة
 
 سيوجهك البرنامج التعليمي التالي خلال إنشاء بيئة للهوية المختلطة باستخدام التوحيد. يمكن استخدام هذه البيئة بعد ذلك للاختبار أو للحصول على مزيد من المعرفة عن الكيفية التي تعمل بها الهوية المختلطة.
 
-[البرنامج التعليمي: توحيد بيئة غابة AD واحدة مع السحابة](https://docs.microsoft.com/azure/active-directory/hybrid/tutorial-federation)
+[البرنامج التعليمي: توحيد بيئة غابة AD واحدة مع السحابة](/azure/active-directory/hybrid/tutorial-federation)

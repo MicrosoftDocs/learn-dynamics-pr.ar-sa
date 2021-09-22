@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: b36d8b727cebea98107f6b7c79457615dce908f7
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: cea6de1d946dd7c425cd30ca72b20482a9bbb5d79288c5d8d58b09901fa6aa56
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7137192"
 ---
-يحقق هذا التمرين أفضل نتيجة إذا كنتَ تستخدم الإصدار 9.0 أو إصدار أحدث من البيئة التجريبية لتطبيقات Microsoft Dynamics 365 Customer Engagement. تحتاج أيضاً إلى ترخيص Microsoft 365 وصندوق بريد Exchange نشط.
+يعمل هذا التمرين بشكل أفضل إذا كنت تستخدم الإصدار 9.0 من بيئة الإصدار التجريبي لتطبيقات Microsoft Dynamics 365 Customer Engagement أو إصدار أحدث. تحتاج أيضًا إلى ترخيص Microsoft 365 وعلبة بريد Exchange نشطة.
 
 ### <a name="learning-objectives"></a>الأهداف التعليمية
 

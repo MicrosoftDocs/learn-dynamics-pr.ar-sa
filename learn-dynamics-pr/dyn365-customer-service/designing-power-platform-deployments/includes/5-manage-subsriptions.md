@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 9762af892438b008a7cc1b5df2d58e148af65791
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: 9c53ee94b8c84868cb94cbd5d9c812829f6cb0fd
+ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659223"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "7424332"
 ---
-يدير مسؤول بيئة Microsoft Online Services اشتراك تطبيقات Dynamics 365 Customer Engagement، بما في ذلك الفوترة والمدفوعات وتراخيص المستخدم والحسابات والتسجيل. يمكنك القيام بهذه المهام في [مركز إدارة Microsoft 365](https://portal.microsoftonline.com/).
+يدير مسؤول بيئة Microsoft Online Services اشتراك تطبيقات Dynamics 365 Customer Engagement، بما في ذلك الفوترة والمدفوعات وتراخيص المستخدم والحسابات والتسجيل. يمكنك القيام بهذه المهام في [مركز إدارة Microsoft 365](https://admin.microsoft.com/).
 
 بصفتك مستشاراً وظيفياً، من المهم أن تعرف كيفية تحديد الاشتراكات المتاحة لك للعمل باستخدامها.
 

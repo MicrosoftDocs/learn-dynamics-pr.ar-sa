@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53cc7390026db282351dce8db2b42fb71eacab8b
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 74fbb0d643d88885c91fb62e75624c5452e9f4af405994fae4a5db2d8139c98f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126364"
 ---
 يعمل هذا التمرين بشكل أفضل عندما يكون لديك بيانات نموذجية لاستخدامها. يمكّنك Dynamics 365 من إضافة بيانات نموذجية حسب الحاجة. إذا لم يتم تثبيت البيانات النموذجية في البيئة التي تعمل فيها، فاتبع هذه الخطوات لتثبيت بعضها.
 

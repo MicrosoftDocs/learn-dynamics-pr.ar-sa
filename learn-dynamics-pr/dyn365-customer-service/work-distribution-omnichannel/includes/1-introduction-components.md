@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fb2cf4c286ae4f94111b803a7b8e9fe857dbdd9c
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a3dde303177c8d53e30178b68277483a9646a7757f858b7885671f357704c419
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100503"
 ---
 تضم القناة متعددة الاتجاهات لـ Customer Service عدة مكونات لضمان أن يتم توجيه العناصر وتوزيعها بشكل مناسب. يوفر كل مكون جزءاً من وظائف التوجيه والتوزيع المستخدمة في الحل. يمكن تكوين المكونات حسب الحاجة، بناءً على الاحتياجات الفريدة للمؤسسة التي تنشر الحل.
 

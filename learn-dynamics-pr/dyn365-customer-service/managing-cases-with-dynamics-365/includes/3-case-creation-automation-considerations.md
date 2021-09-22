@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa6fff2c9a1ad34363f123e6a4443428cfba0be2
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: bb203673f9ee174a78e56964e5828123104a287c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659239"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7363826"
 ---
 غالباً ما تفضل المؤسسات إنشاء الحالات تلقائياً في حالات محددة. على سبيل المثال، قد يكون لدى مؤسستك اسم مستعار للبريد الإلكتروني مثل `support@microsoft.com` الذي تستخدمه لطلبات الدعم. بالنسبة لأي طلبات بريد إلكتروني يتم إرسالها إلى هذا الاسم المستعار، يجب إنشاء الحالات تلقائياً في Microsoft Dynamics 365 وربطها بالعميل الذي أرسل البريد الإلكتروني.
 
@@ -82,4 +82,4 @@ ms.locfileid: "6659239"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IOG5]
 
-لمزيد من المعلومات حول إنشاء السجل تلقائياً وتحديث القواعد، راجع [إعداد القواعد لإنشاء السجلات أو تحديثها تلقائياً](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/set-up-rules-to-automatically-create-or-update-records).
+لمزيد من المعلومات حول إنشاء السجل تلقائياً وتحديث القواعد، راجع [إعداد القواعد لإنشاء السجلات أو تحديثها تلقائياً](/dynamics365/customer-engagement/customer-service/set-up-rules-to-automatically-create-or-update-records).

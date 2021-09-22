@@ -8,14 +8,14 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: df25cfc40fb9ea8cc11fecf1c96abe34750959b3
-  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.openlocfilehash: c4c0d704620029445060f1c1ff0d4e5cb198efe0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6659342"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7324694"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

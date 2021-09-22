@@ -4,18 +4,16 @@ title: 'التمرين: إنشاء الحالات وحلها'
 metadata:
   title: 'التمرين: إنشاء الحالات وحلها'
   description: التمرين - إنشاء الحالات وحلها
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: a6a7af41b16ef89b2f8a9b5f33a6196dcd7d9534
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: ef690f7ad3b34f94b8f699b3732261be2916ae1a
+  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659167"
+  ms.lasthandoff: 09/07/2021
+  ms.locfileid: "7478558"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

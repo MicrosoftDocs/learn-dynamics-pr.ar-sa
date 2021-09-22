@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9956437089f43784c9d499effee2cb33821f8ce4
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 20b0b2529636b45b3e913687ee7043bb8c5af0cf1809dea6412d00e40bcb6091
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658392"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116316"
 ---
 كما ترى، من خلال تمكين قوائم انتظار Dynamics 365 والاستفادة منها، يمكن للمؤسسات التأكد من أن الحالات يتم توجيهها دائمًا والعمل عليها بواسطة المندوبين الأكثر تأهيلاً للقيام بذلك. يمكن الاستفادة من قوائم الانتظار لأكثر من مجرد حالات. يمكن استخدامها لدعم مجموعة متنوعة من سيناريوهات الأعمال.
 

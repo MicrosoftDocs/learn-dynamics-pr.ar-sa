@@ -8,12 +8,11 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learn-dynamics-cust-svc-insights
-  ms.openlocfilehash: 87df63cf32850a92099bfa3de7df2c1c57772d83
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 36b90a2254e80eabde81f9d3d8e943a74dc58abb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659160"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365996"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-discover-insights.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 346c67ca1e1c6bda290d9da4c7a07a7e32499f56
-ms.sourcegitcommit: d56b4cd19cb3dd943e10d348b19774c34acb0161
+ms.openlocfilehash: 16429c956f7a983411add04e0ed6d476aca1547afe51689c36c19e1819f16ddf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "6658538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7069991"
 ---
 بعد تكوين الجدول للتوجيه وتنشيطه، يمكن تشغيله بإحدى طريقتين:
 

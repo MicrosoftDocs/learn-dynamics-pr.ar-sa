@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5b07d202e330149426fae337753721b271924575
-ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+ms.openlocfilehash: ff62e77b6c005a9024dd490cc81efa3effee205faacbd8ffd264be9a5c879cb5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659280"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121258"
 ---
 تطبيقات Dynamics 365 Customer Engagement تستخدم امتياز أمان، **Dynamics 365 للهاتف المحمول**، لتوفير الوصول إلى Dynamics 365 للهواتف وDynamics 365 لأجهزة الكمبيوتر اللوحية. تم تكوين الامتياز مسبقاً لأدوار المبيعات، ولكن ليس لأدوار الأمان الأخرى، لذلك قد ترغب في إضافة أدوار أخرى لفرقك.
 

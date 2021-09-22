@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1f02641e740da33308479d272709086a6d13d7be
-ms.sourcegitcommit: 500f30aa3428eca16f3c2131ccf477d58bc2ef04
+ms.openlocfilehash: 97fb4282056e0805e4eae2665a1ba1d00cb9936a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6658488"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7363794"
 ---
 عندما تكون المؤسسة جاهزة للبدء في استخدام قوائم الانتظار، يمكن إنشاؤها استنادا إلى احتياجات تنظيمية محددة. قبل إضافة قوائم انتظار إلى مؤسسة، خذ بعض الوقت في الاعتبار العدد الإجمالي لقوائم الانتظار التي ستكون مطلوبة وما سيتم استخدامها من أجلها.
 
@@ -29,7 +29,7 @@ ms.locfileid: "6658488"
 
 إذا كان قائمة الانتظار ستتلقى بريداً إلكترونياً، فيجب أن يكون لها اسم مستعار بريد إلكتروني مقترن. يجب أن يقترن هذا الاسم المستعار للبريد الإلكتروني بسجل علبة بريد عامل في Dynamics 365. يمكن استخدام إعدادات النظام لتحديد ما إذا كان قد تمت الموافقة على قائمة انتظار تحتوي على اسم مستعار للبريد الإلكتروني لقبول عناصر البريد الإلكتروني الواردة.
 
-لمزيد من المعلومات حول إعداد علب بريد Dynamics 365، راجع [توصيل Dynamics 365 (online) بـ Exchange Online](https://docs.microsoft.com/dynamics365/customer-engagement/admin/connect-exchange-online).
+لمزيد من المعلومات حول إعداد علب بريد Dynamics 365، راجع [توصيل Dynamics 365 (online) بـ Exchange Online](/dynamics365/customer-engagement/admin/connect-exchange-online).
 
 بالإضافة إلى تحديد سجل صندوق بريد لقائمة انتظار، يمكنك تحديد رسائل البريد الإلكتروني التي تأتي إلى قائمة الانتظار التي سيتم تحويلها إلى أنشطة البريد الإلكتروني.
 
@@ -45,13 +45,13 @@ ms.locfileid: "6658488"
 > [!IMPORTANT] 
 > قبل أن تتمكن قائمة الانتظار من تلقي البريد الإلكتروني، يجب الموافقة على علبة البريد المقترنة بقائمة الانتظار ثم تشغيلها. وبهذه الطريقة، تشير إلى أنه لا بأس أن يتلقى صندوق البريد الإلكتروني رسالة البريد الإلكتروني، وأنه جاهز للقيام بذلك. حدد الزر **فتح صندوق البريد** على شريط الأوامر، وحدد **الموافقة على علبة البريد**، ثم حدد الزر **اختبار وتمكين**.
 
-لمزيد من المعلومات حول الموافقة على علب البريد وتشغيلها، راجع [الموافقة على البريد الإلكتروني](https://docs.microsoft.com/dynamics365/customer-engagement/admin/connect-exchange-online#approve-email).
+لمزيد من المعلومات حول الموافقة على علب البريد وتشغيلها، راجع [الموافقة على البريد الإلكتروني](/dynamics365/customer-engagement/admin/connect-exchange-online#approve-email).
 
 بعد حفظ قائمة انتظار للمرة الأولى، إذا تم تعيينها كقائمة انتظار خاصة، يمكنك تعريف أعضائها. يمكن للأعضاء الذين تعينهم لقائمة انتظار خاصة العمل معها. بالإضافة إلى ذلك، عند توجيه العناصر إلى قائمة الانتظار، يمكنك مشاهدة العناصر الموجودة في قائمة الانتظار. يمكنك أيضا مشاهدة أي إنشاء سجل وتحديث القواعد المقترنة بقائمة الانتظار.
 
 ![لقطة شاشة لصفحة قائمة انتظار تحتوي على تفاصيل وميزات.](../media/Qu-unit3-1.png)
 
-لمزيد من المعلومات حول إنشاء السجل وتحديث القواعد، راجع [إعداد القواعد لإنشاء السجلات أو تحديثها تلقائياً](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/set-up-rules-to-automatically-create-or-update-records).
+لمزيد من المعلومات حول إنشاء السجل وتحديث القواعد، راجع [إعداد القواعد لإنشاء السجلات أو تحديثها تلقائياً](/dynamics365/customer-engagement/customer-service/set-up-rules-to-automatically-create-or-update-records).
 
 بعد إنشاء قائمة انتظار، يكون لها حالة *نشط*. إذا لم يتم استخدام قائمة الانتظار لسبب ما، يمكنك تعطيلها. إذا وجدت أن قائمة الانتظار مطلوبة مرة أخرى لاحقا، يمكنك إعادة تنشيطها.
 
@@ -60,6 +60,6 @@ ms.locfileid: "6658488"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IOG3]
 
-لمزيد من المعلومات حول إنشاء قوائم انتظار في Dynamics 365، راجع [إنشاء قائمة انتظار (مركز خدمة العملاء)](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/set-up-queues-manage-activities-cases#create-a-queue-customer-service-hub).
+لمزيد من المعلومات حول إنشاء قوائم انتظار في Dynamics 365، راجع [إنشاء قائمة انتظار (مركز خدمة العملاء)](/dynamics365/customer-engagement/customer-service/set-up-queues-manage-activities-cases#create-a-queue-customer-service-hub).
 
 بعد إنشاء قائمة انتظار وتعيين الأعضاء إليها، تكون جاهزة لاستخدامها للمساعدة في تنظيم المعلومات، ويمكن توجيه الحالات إليها.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eb509abfdc4f3ea8050992e162a6c9e2a6cc65f6
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: e165ea4b876669c797cb27e6075eb046018a66d3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658476"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7336027"
 ---
 تمكنك القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service من تكوين قنوات اتصال عبر LINE للاستفادة من اتجاه وسائل الاعلام الاجتماعية والتفاعل مع عملائك خلال تجربة مخصصة.
 
@@ -12,7 +12,7 @@ ms.locfileid: "6658476"
 
 قبل استخدام أي منصات مراسلة اجتماعية في القناة متعددة الاتجاهات لـ Customer Service، تأكد من استخدامك المراسلة الاجتماعية من خلال صفحة **إدارة مثيلات القناة متعددة الاتجاهات**.
 
-لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/administrator/omnichannel-provision-license#provision-omnichannel-for-customer-service-application/?azure-portal=true).
+لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/administrator/omnichannel-provision-license?azure-portal=true#provision-omnichannel-for-customer-service-application/).
 
 لاستخدام LINE، يجب أن يكون لدى المؤسسات المعلمات التالية التي تم إعدادها في LINE:
 

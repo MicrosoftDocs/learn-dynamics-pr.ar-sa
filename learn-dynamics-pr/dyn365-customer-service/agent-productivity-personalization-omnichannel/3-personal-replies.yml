@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agent-productivity-personalization-omnichannel.3-personal-replies
+title: استخدام الردود السريعة الشخصية
+metadata:
+  title: استخدام الردود السريعة الشخصية
+  description: تعرف على كيفية استخدام الردود السريعة الشخصية.
+  ms.date: 08/04/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: f8c3a3886877eed8c5451925fbdc6a98a671765b429cbafa18bff5f90302bcd1
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7101538"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-personal-replies.md)]"

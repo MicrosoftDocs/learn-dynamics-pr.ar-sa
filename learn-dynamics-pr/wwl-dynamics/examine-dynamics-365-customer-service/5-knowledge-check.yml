@@ -8,13 +8,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 338789150b5a6f610b3a2b52ddbc4455063b751c
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 6f132d0131b0e9dc9ddf115cde78f84d8ba15e27
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6658552"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366215"
 azureSandbox: false
 durationInMinutes: 3
 content: >
@@ -30,7 +30,7 @@ quiz:
     - content: المقالة المعرفية
       isCorrect: true
       explanation: صحيح. تعد المقالات المعرفية مقالات إعلامية تُستخدم لمساعدة ممثلي خدمة العملاء على حل الحالات.
-    - content: الصف
+    - content: صف
       isCorrect: false
       explanation: غير صحيح. الصف هو المكان المناسب لتنظيم وتخزين الأنشطة والحالات التي يُنتظر حلها.
   - content: ما هي الميزات المتوفرة في Dynamics 365 Customer Service التي يتم استخدامها للمساعدة في إرشاد ممثلي خدمة العملاء خلال دورة حياة التعامل مع حالة من البداية إلى النهاية؟

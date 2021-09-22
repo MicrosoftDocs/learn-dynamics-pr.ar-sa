@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5864bfe5e29f2cc2bf9b33068452013eb7cc0dec
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 5056ed241b6519c1f889b316f75957b0274e52dd
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659203"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342676"
 ---
 بعد مراجعة مقالة معرفية والموافقة عليها، تصبح جاهزة للنشر. بعد نشر مقالة، يمكن للمستخدمين الداخليين والخارجيين استخدامها عند حل الحالات، أو يمكنهم الوصول إليها من أحد المداخل.
 
@@ -48,11 +48,11 @@ ms.locfileid: "6659203"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IOG4]
 
-لمزيد من المعلومات حول جدولة مقالة ونشرها، راجع [جدولة مقالة أو نشرها](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#schedule-or-publish-an-article).
+لمزيد من المعلومات حول جدولة مقالة ونشرها، راجع [جدولة مقالة أو نشرها](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#schedule-or-publish-an-article).
 
 **تحديث المقالات المعرفية المنشورة** عندما تكون مقالة معرفية في الحالة "منشورة" أو "مجدولة"، فيمكن تحديثها مباشرةً بواسطة المستخدمين الذين لديهم امتياز النشر المرتبط بسجل المستخدم الخاص بهم.  إذا كانت المقالة التي يتم تحديثها تحتوي على معلومات تُكمل مقالة معرفية موجودة، فيمكن إقران المقالة الموجودة بالمقالة المعرفية الحالية.
 
 ![لقطة شاشة لشاشة المقالات ذات الصلة مع وظيفة البحث.](../media/KM-Unit5-3.png) 
 
-لمزيد من المعلومات حول تحديث المقالات المنشورة، راجع [تحديث المقالات المعرفية المنشورة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#update-published-knowledge-articles).
+لمزيد من المعلومات حول تحديث المقالات المنشورة، راجع [تحديث المقالات المعرفية المنشورة](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#update-published-knowledge-articles).
 

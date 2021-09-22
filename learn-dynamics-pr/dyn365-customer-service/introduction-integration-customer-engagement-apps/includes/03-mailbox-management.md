@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 51258529715b75a827bd0126c5bd0b94fa479830
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 450090fe8801361996e6ec5b434418dfeefc4c7cdf575101bd527aa856908ebe
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659321"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126125"
 ---
 تُستخدم صناديق البريد في Microsoft Dataverse للتطبيقات لتوصيل سجلات المستخدم وقائمة الانتظار بصناديق البريد الخاصة بها على خادم البريد الإلكتروني لغرض تتبع الأنشطة مثل رسائل البريد الإلكتروني أو المواعيد. لا تقوم بتخزين أي معلومات حول الأنشطة المتعقبة بأنفسها. يتم إنشاء صناديق البريد تلقائياً عند إضافة مستخدمين جدد أو قوائم انتظار إلى النظام. يقترن كل مستخدم وكل سجل قائمة انتظار بصندوق بريد واحد فقط. 
 

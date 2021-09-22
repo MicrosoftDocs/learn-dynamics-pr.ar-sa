@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 839bb9212bd092155d46cfe7aba3db4c511a15d8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 98db1659a0b8086fb7a2915c24633b50cfbf85461b15f2f4c09aa2586e700fcc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658423"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126509"
 ---
 بعد قيامك بإنشاء روبوت باستخدام Microsoft Bot Framework والتسجيل في Azure Bot Service، يمكن استخدام الروبوت الخاص بك في قناة متعددة الاتجاهات لخدمة العملاء باعتباره روبوتاً مساعداً ذكياً. لاستخدام روبوت المساعدة الذكي، أنشئ مستخدم الروبوت في القناة متعددة الاتجاهات لـ Customer Service الذي تم تعريفه وتعيينه كمستخدم تطبيق. بعد ذلك، تأكد من أن مستخدم الروبوت هذا لديه القناة متعددة الاتجاهات اللازمة لدور أمان خدمة العملاء المرتبط به.
 

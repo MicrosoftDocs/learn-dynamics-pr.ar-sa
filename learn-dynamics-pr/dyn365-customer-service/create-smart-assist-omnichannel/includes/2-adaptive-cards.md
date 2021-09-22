@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b16abe72971e18c1bc68268a003a5481e6175e64
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: b548caba2fb2d6acf17261453877a32a8e5aaa27
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6658455"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7335409"
 ---
 قبل استكشاف إنشاء الروبوت، يجب أن تتمتع بفهم أعمق للتكنولوجيا المستخدمة لعرض المحتوى للمندوبين في جزء الإنتاجية. يمكنك تقديم معلومات إلى المندوبين، مثل المقالات المعرفية المقترحة، في جزء الإنتاجية باستخدام بطاقات Microsoft Adaptive Cards.
 
@@ -19,7 +19,7 @@ ms.locfileid: "6658455"
 
 ### <a name="core-design-principles-of-adaptive-cards"></a>مبادئ التصميم الأساسية لبطاقات الموائمة
 
-تعد بطاقات الموائمة جزءاً مهماً من أي تنفيذ للقناة متعددة الاتجاهات لـ Customer Service، حيث سيتم استخدام المساعدة الذكية. عند التفكير في استخدام بطاقات الموائمة، ضع في اعتبارك بعض [المبادئ التوجيهية](https://docs.microsoft.com/adaptive-cards/resources/principles/?azure-portal=true) التي كانت مفيدة في المساعدة في إبقاء عملية التصميم على المسار الصحيح:
+تعد بطاقات الموائمة جزءاً مهماً من أي تنفيذ للقناة متعددة الاتجاهات لـ Customer Service، حيث سيتم استخدام المساعدة الذكية. عند التفكير في استخدام بطاقات الموائمة، ضع في اعتبارك بعض [المبادئ التوجيهية](/adaptive-cards/resources/principles/?azure-portal=true) التي كانت مفيدة في المساعدة في إبقاء عملية التصميم على المسار الصحيح:
 
 - **التركيز على استخدام القيم الدلالية.** باستخدام القيم والمفاهيم الدلالية بدلاً من تخطيطات البكسل المثالية مثل الألوان وأحجام الأصناف والصور، يكون التطبيق المضيف قادراً على اتخاذ قرارات أفضل حول المظهر الفعلي وسلوك المحتوى المرتبط بالتطبيق الذي يتم عرضه فيه.
 
@@ -54,27 +54,27 @@ ms.locfileid: "6658455"
 
 - **عناصر الموائمة** - أهم العناصر الأساسية التي يتم استخدامها في البطاقات. تتضمن هذه العناصر **TextBlock** و **Image**، اللذين يتم استخدامهما لإضافة والتحكم في مظهر النص والصور في البطاقات.
 
-  [**مزيد من المعلومات حول عناصر الموائمة**](https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started#adaptive-elements/?azure-portal=true)
+  [**مزيد من المعلومات حول عناصر الموائمة**](/adaptive-cards/authoring-cards/getting-started?azure-portal=true#adaptive-elements/)
 
 - **عناصر الحاوية** - ساعد في ترتيب مجموعة من العناصر الفرعية لتسهيل الاستهلاك و/أو التسليم. تُستخدم الحاويات عادةً لمجموعات من الأصناف مثل الأعمدة أو الصور.
 
-  [**مزيد من المعلومات حول عناصر الحاوية**](https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started#container-elements/?azure-portal=true)
+  [**مزيد من المعلومات حول عناصر الحاوية**](/adaptive-cards/authoring-cards/getting-started#container-elements/?azure-portal=true)
 
 - **عناصر الإدخال** - تتيح لك طلب معلومات واجهة المستخدم الأصلية، مثل النص والتواريخ والأوقات والأرقام وما إلى ذلك، لإنشاء نماذج بسيطة.
   
-  [**مزيد من المعلومات حول عناصر الإدخال**](https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started#input-elements/?azure-portal=true)*
+  [**مزيد من المعلومات حول عناصر الإدخال**](/adaptive-cards/authoring-cards/getting-started?azure-portal=true#input-elements/)*
 
 ### <a name="work-with-actions"></a>التعامل مع الإجراءات
 
 ستستفيد العديد من البطاقات من إضافة الإجراءات التي يمكن أن تساعد في توفير إمكانية استخدام أفضل للشخص الذي يستخدم البطاقة. على سبيل المثال، يمكنك استخدام إجراء لفتح عنوان URL خارجي أو لفتح بطاقة فرعية توفر معلومات إضافية.
 
-[**مزيد من المعلومات حول الإجراءات**](https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started#actions/?azure-portal=true)
+[**مزيد من المعلومات حول الإجراءات**](/adaptive-cards/authoring-cards/getting-started#actions/?azure-portal=true)
 
-[تحتوي Microsoft Docs](https://docs.microsoft.com/?azure-portal=true) على مكتبة واسعة من المعلومات المتعلقة بكتابة محتوى بطاقة الموائمة.
+[تحتوي Microsoft Docs](/?azure-portal=true) على مكتبة واسعة من المعلومات المتعلقة بكتابة محتوى بطاقة الموائمة.
 
 لاستكشاف هذا المحتوى بمزيد من التفصيل، حدد الارتباطات التالية:
 
-- [**بطاقات التأليف للشروع في العمل**](https://docs.microsoft.com/adaptive-cards/authoring-cards/getting-started/?azure-portal=true)
+- [**بطاقات التأليف للشروع في العمل**](/adaptive-cards/authoring-cards/getting-started/?azure-portal=true)
 
 - [**مستكشف مخطط البطاقة**](https://adaptivecards.io/explorer/?azure-portal=true)
 
@@ -82,11 +82,11 @@ ms.locfileid: "6658455"
 
 - [**أداة التصور التفاعلية**](https://adaptivecards.io/visualizer/index.html?hostApp=Bot%20Framework%20WebChat/?azure-portal=true)
 
-- [**استخدام الكلام في البطاقات**](https://docs.microsoft.com/adaptive-cards/authoring-cards/speech/?azure-portal=true)
+- [**استخدام الكلام في البطاقات**](/adaptive-cards/authoring-cards/speech/?azure-portal=true)
 
 ### <a name="render-cards-inside-your-application"></a>عرض البطاقات داخل تطبيقك
 
-بعد إنشاء بطاقة، يمكن عرضها داخل التطبيقات. تم توفير مجموعات أدوات SDK لجميع الأنظمة الأساسية الشائعة وتوفر [مواصفات تفصيلية](https://docs.microsoft.com/adaptive-cards/rendering-cards/implement-a-renderer/?azure-portal=true) لإنشاء عارض بطاقات الموائمة الخاص بك. يحدد الجدول التالي مجموعات أدوات SDK لبطاقات الموائمة المختلفة المتوفرة.
+بعد إنشاء بطاقة، يمكن عرضها داخل التطبيقات. تم توفير مجموعات أدوات SDK لجميع الأنظمة الأساسية الشائعة وتوفر [مواصفات تفصيلية](/adaptive-cards/rendering-cards/implement-a-renderer/?azure-portal=true) لإنشاء عارض بطاقات الموائمة الخاص بك. يحدد الجدول التالي مجموعات أدوات SDK لبطاقات الموائمة المختلفة المتوفرة.
 
 |     النظام الأساسي       |     تثبيت                   |
 |--------------------|-------------------------------|
@@ -103,18 +103,18 @@ ms.locfileid: "6658455"
 
 - اعرض بطاقة. بعد حصولك على حمولة بطاقة، اتصل بالعارض وقم بتمرير البطاقة. ستتلقى كائن واجهة مستخدم أصلياً يتكون من محتويات البطاقات. الآن، يمكنك وضع واجهة المستخدم هذه في مكان ما في تطبيقك.
 
-[تحتوي Microsoft Docs](https://docs.microsoft.com/?azure-portal=true) على مكتبة واسعة من المعلومات المتعلقة بعرض محتوى بطاقة الموائمة والتعامل مع مجموعات أدوات SDK.
+[تحتوي Microsoft Docs](/?azure-portal=true) على مكتبة واسعة من المعلومات المتعلقة بعرض محتوى بطاقة الموائمة والتعامل مع مجموعات أدوات SDK.
 
 لاستكشاف هذا المحتوى بمزيد من التفصيل، حدد الارتباطات التالية:
 
-- [**بطاقات العرض للشروع في العمل**](https://docs.microsoft.com/adaptive-cards/rendering-cards/getting-started/?azure-portal=true)
+- [**بطاقات العرض للشروع في العمل**](/adaptive-cards/rendering-cards/getting-started/?azure-portal=true)
 
-- [**التعامل مع تكوين المضيف**](https://docs.microsoft.com/adaptive-cards/rendering-cards/host-config/?azure-portal=true)
+- [**التعامل مع تكوين المضيف**](/adaptive-cards/rendering-cards/host-config/?azure-portal=true)
 
-- [**إمكانية التوسعة**](https://docs.microsoft.com/adaptive-cards/rendering-cards/extensibility/?azure-portal=true)
+- [**إمكانية التوسعة**](/adaptive-cards/rendering-cards/extensibility/?azure-portal=true)
 
 - [**أداة التصور التفاعلية**](https://adaptivecards.io/visualizer/index.html?hostApp=Bot%20Framework%20WebChat/?azure-portal=true)
 
-- [**حالات العارض**](https://docs.microsoft.com/adaptive-cards/rendering-cards/renderer-status/?azure-portal=true)
+- [**حالات العارض**](/adaptive-cards/rendering-cards/renderer-status/?azure-portal=true)
 
-- [**القوالب**](https://docs.microsoft.com/adaptive-cards/templating/?azure-portal=true)
+- [**القوالب**](/adaptive-cards/templating/?azure-portal=true)

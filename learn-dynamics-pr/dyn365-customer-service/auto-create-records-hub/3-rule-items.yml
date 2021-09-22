@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.auto-create-records-hub.3-rule-items
+title: تكوين قواعد لإنشاء السجلات أو تحديثها تلقائياً
+metadata:
+  title: تكوين قواعد لإنشاء السجلات أو تحديثها تلقائياً
+  description: تعرف على كيفية تكوين القواعد والشروط.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 7294db0f996c3a0fbaf847e3a82874de88ef5ad1cff0a459c18b8939279b3850
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7101446"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-rule-items.md)]"

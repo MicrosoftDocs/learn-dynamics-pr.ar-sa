@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5d80b40ad25982f93daae8aa2fa8466285952821
-ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
+ms.openlocfilehash: 15ce5fc017a7c8396ce0608981c3c130e0da9187ac1a43d3c28a5c9637844967
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6658468"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101263"
 ---
 ## <a name="accessing-the-omnichannel-for-customer-service-app"></a>جارٍ تقييم تطبيق القناة متعددة الاتجاهات لـ Customer Service
 

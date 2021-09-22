@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e497477108ee5b5b433b6f0753e57188053ed512
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f7a356ad52efa3661ae914ea2e48dd2469cc634131da4a4a49aa98d7bfb1b301
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100495"
 ---
 قبل تصميم حلول التوجيه حول القناة متعددة الاتجاهات لـ Customer Service، يجب أن تفهم كيف يوجه الحل المحادثات ويوزع العمل على المندوبين. للمساعدة في التأكد من توجيه المحادثات إلى المناطق المناسبة وتوزيعها على المندوب الأنسب، يتضمن حل القناة متعددة الاتجاهات لـ Customer Service نظام توجيه وتوزيع عمل موحداً.
 

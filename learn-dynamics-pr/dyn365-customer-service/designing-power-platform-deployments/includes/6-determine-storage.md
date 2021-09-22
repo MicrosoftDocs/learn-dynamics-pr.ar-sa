@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 34f9034ce86f30b77cd0e1a4c0e5aab5e106ac24
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: 808a3be4b195fa901a05c95e16e9262e29d0789d713f62a3774ea5e162a17c39
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659225"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7060236"
 ---
-ستستخدم قدرات الاشتراك الافتراضية لتطبيقات Dynamics 365 Customer Engagement نفس المستأجر وستتراكم البنية الأساسية عبر المستأجر الواحد.
+ستستخدم إمكانيات الاشتراك الافتراضية في تطبيقات Dynamics 365 Customer Engagement نفس المستأجر وستتراكم البنية التحتية عبر المستأجر الواحد.
 
 ### <a name="default-database-storage"></a>التخزين الافتراضي لقاعدة البيانات
 
@@ -22,6 +22,6 @@ ms.locfileid: "6659225"
 
 ### <a name="determine-how-storage-is-being-used-across-all-instances-within-a-tenant"></a>تحديد كيفية استخدام التخزين في جميع المثيلات داخل مستأجر
 
-يتم عرض استخدام التخزين على مركز إدارة Microsoft Dynamics 365 ضمن علامة التبويب "سلامة الخدمة":
+يتم عرض استخدام التخزين على مركز إدارة Microsoft Dynamics 365 ضمن علامة التبويب Service health:
 
-![لقطة شاشة لعلامة التبويب "سلامة خدمة Dynamics 365".](../media/16_unit6.png)
+![لقطة شاشة لعلامة التبويب Service health في Dynamics 365.](../media/16_unit6.png)

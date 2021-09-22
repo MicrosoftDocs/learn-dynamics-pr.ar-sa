@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 34821eba80595259d8b3f0a902509d0c6a147d56
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 33fab6f0644e9fb9b71a6d936208c4f9c397916cc2bda22d2fe7d3cf938e4756
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077043"
 ---
 كما ذكرنا سابقاً، يتم إنشاء تطبيقات مشاركة العملاء في Dynamics 365 على Microsoft Power Platform. إن Microsoft Power Platform عبارة عن نظام أساسي لتطوير التطبيقات ذي التعليمات البرمجية المنخفضة الذي يمتد ليشمل ليس فقط Dynamics 365، ولكن Office 365 أيضاً، وAzure، والتطبيقات المستقلة. فهو يجمع بين قوة PowerApps، وPower BI، وPower Automate في نظام أساسي واحد لتطبيق الأعمال يوفر رؤى سريعة وسهلة لبناء التطبيقات والبيانات.
 

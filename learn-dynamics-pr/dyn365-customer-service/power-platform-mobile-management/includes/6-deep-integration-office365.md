@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 0378b31fb27cd168aa0e3a477a7c69a843dac560
-ms.sourcegitcommit: 9db0d6810f934f950330586e0abd41ea18b9a873
+ms.openlocfilehash: 7f46ebafd215911dde186228ad683f69fff638ac3c481fd2442f2b2870387fca
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659244"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054155"
 ---
 عندما يستفيد مستخدم من تطبيق Dynamics 365 للهواتف أو Dynamics 365 لأجهزة الكمبيوتر اللوحية، يمكن أن يوفر التكامل بين جميع تطبيقات الأجهزة المحمولة بواسطة Microsoft تجربة سلسة. يمكن للمستخدم الانتقال من Dynamics 365 إلى Outlook، ومن Outlook إلى SharePoint، ثم العودة مرة أخرى إلى Dynamics 365 كل ذلك في نفس سير العمل.
 
-![لقطة شاشة لعلامة التبويب "سلامة خدمة Dynamics 365".](../media/ppm_unit6_1.png)
+![لقطة شاشة لعلامة التبويب Service health في Dynamics 365.](../media/ppm_unit6_1.png)
 
 ### <a name="deep-app-linking-between-dynamics-365-sharepoint-and-onenote"></a>الارتباط الداخلي للتطبيقات بين Dynamics 365، SharePoint، وOneNote
 

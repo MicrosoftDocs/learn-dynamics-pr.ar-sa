@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: de313549a12465a0d4232850ecc2911b7a12414b
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 2506137fda4973c41ff052b599ddc409258bda79
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658475"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7336019"
 ---
 تتيح لك قناة متعددة الاتجاهات لـ Dynamics 365 Customer Service التكامل مع WhatsApp للتفاعل مع العملاء الذين يستخدمون قناة WhatsApp. يختلف تكامل WhatsApp عن القنوات الأخرى في أنه يتم إرسال الرسائل بين WhatsApp والقناة متعددة الاتجاهات لـ Customer Service باستخدام Twilio.
 
@@ -12,11 +12,11 @@ ms.locfileid: "6658475"
 
 قبل أن تتمكن من استخدام أي منصات مراسلة اجتماعية في القناة متعددة الاتجاهات لـ Customer Service، تأكد من إجراء المراسلة الاجتماعية من خلال صفحة **إدارة مثيلات القناة متعددة الاتجاهات**.
 
-لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/administrator/omnichannel-provision-license#provision-omnichannel-for-customer-service-application/?azure-portal=true).
+لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/administrator/omnichannel-provision-license#provision-omnichannel-for-customer-service-application/?azure-portal=true).
 
 لاستخدام تكامل WhatsApp من خلال Twilio، تحتاج المؤسسات إلى إعداد المعلمات التالية:
 
-- حساب Twilio مع اشتراك مناسب أو حساب وضع الحماية: [ادمج حساب Twilio sandbox مع القناة متعددة الاتجاهات لـ Customer Service.](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-whatsapp-channel#integrate-a-twilio-sandbox-account-with-omnichannel-for-customer-service/?azure-portal=true)
+- حساب Twilio مع اشتراك مناسب أو حساب وضع الحماية: [ادمج حساب Twilio sandbox مع القناة متعددة الاتجاهات لـ Customer Service.](/dynamics365/omnichannel/administrator/configure-whatsapp-channel#integrate-a-twilio-sandbox-account-with-omnichannel-for-customer-service/?azure-portal=true)
 
 - قم بتوصيل رقم Twilio الخاص بك بملف تعريف WhatsApp Business الخاص بك: [قم بتوصيل رقم Twilio الخاص بك بملف تعريف WhatsApp Business الخاص بك.](https://www.twilio.com/docs/whatsapp/tutorial/connect-number-business-profile/?azure-portal=true)
 

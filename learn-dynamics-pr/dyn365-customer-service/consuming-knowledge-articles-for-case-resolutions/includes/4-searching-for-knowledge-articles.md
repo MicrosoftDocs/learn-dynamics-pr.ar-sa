@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7663dcd225d95d8428ee88b0076ab308c656cca7
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 4670537073b4a3426e0da5626f0326489236499c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659213"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366028"
 ---
 بعد إعداد قاعدة المعارف، وإضافة عنصر تحكم **، Knowledge Base Search** إلى صفحات الكيان المناسبة، يُمكن للوكلاء البدء في استخدام عنصر التحكم للبحث عن مقالات معرفية.
 
@@ -19,7 +19,7 @@ ms.locfileid: "6659213"
 > [!IMPORTANT] 
 > وتُقدم المقالات بلغات أخرى إلى الوكلاء فقط إذا كانت النسخ المترجمة من المقالات متاحة بتلك اللغات.
 
-لمزيد من المعلومات عن ترجمات المقالات، راجع [ترجمة مقالة معرفية بعدة لغات](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#translate-a-knowledge-article-in-multiple-languages).
+لمزيد من المعلومات عن ترجمات المقالات، راجع [ترجمة مقالة معرفية بعدة لغات](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#translate-a-knowledge-article-in-multiple-languages).
 
 سيُعرض مقتطف قصير من كل مقالة يتم إرجاعها. كما تُعرض المعلومات والخيارات التالية للمقالة:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f96fda1b89d8b7f2df892181b52b6bb3b7214d4
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 0c0218b4c026a81dfa0bea7df520e00e60b153dbe3f8d109966be65d6c12f934
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134099"
 ---
 يحتوي Dynamics 365 for Customer Service على العديد من المكونات التي تعمل معاً لتوفير حل إدارة الحالة من البداية إلى النهاية لتحديد الحالات. كما يساعد على توجيهه إلى المندوب الأنسب لتوفير التوجيه وحل الحالة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d23caee75e28afd472a9e9b9a0a7e6bb9955b46
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 70470490b064899aaad43546a80f9c9c40e017d90cbbe6cefc2961b98a2a9312
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6658460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125679"
 ---
 يمكن اعتبار قواعد التوجيه بمثابة خرائط الطريق التي يستخدمها مسار العمل لتحديد كيفية توجيه المحادثات إلى قوائم انتظار مختلفة. 
 

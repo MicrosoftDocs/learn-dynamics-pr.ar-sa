@@ -4,18 +4,16 @@ title: التمرين - إدارة الحالات في 365 Microsoft Dynamics
 metadata:
   title: التمرين - إدارة الحالات في 365 Microsoft Dynamics
   description: التمرين - إدارة الحالات في 365 Microsoft Dynamics
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: aaddb918347a164a75c64db88af3634ced7acabc
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 58a826a2352d5ec6a6bbc12fb78ca4497c66eccc
+  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659162"
+  ms.lasthandoff: 09/07/2021
+  ms.locfileid: "7478557"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

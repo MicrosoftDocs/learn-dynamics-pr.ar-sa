@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: daea38f5d692a368acffe4e518d4b89b09e2db50
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: c60a115e3c12aa968904cd0c07b84894ff74c5a0
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6659199"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7350919"
 ---
-المداخل عبارة عن مواقع ويب يمكنك تخصيصها لتوفير تجربة أكثر تخصيصاً لعملائك أو شركائك أو موظفيك الداخليين. تتكامل المداخل مع تطبيقات Dynamics 365 Customer Engagement لعرض البيانات من تطبيقات Dynamics 365 Customer Engagement على المدخل. باستخدام المداخل، يمكنك إنشاء مجموعة متنوعة من التجارب حيث يمكن لمستخدمي المدخل تنفيذ مهام متعددة. على سبيل المثال:
+البوابات الإلكترونية عبارة عن مواقع ويب يمكنك تخصيصها لتوفير تجربة أكثر تخصيصًا لعملائك أو شركائك أو موظفيك الداخليين. تتكامل البوابات الإلكترونية مع تطبيقات Dynamics 365 Customer Engagement لعرض البيانات من تطبيقات Dynamics 365 Customer Engagement على البوابات. باستخدام البوابات الإلكترونية، يمكنك إنشاء مجموعة متنوعة من التجارب حيث يمكن لمستخدمي البوابة الإلكترونية تنفيذ العديد من المهام. على سبيل المثال:
 
 - يمكن للعملاء إرسال الحالات والعثور على المقالات المعرفية.
 - يمكن للشركاء رؤية وإدارة فرص المبيعات.
@@ -36,10 +36,10 @@ ms.locfileid: "6659199"
 4. في حقل **عنوان URL للمدخل** ، أدخل اسم المجال الفرعي الذي تريده للمدخل. يمكنك فقط استخدام الأحرف الأبجدية الرقمية أو الواصلات (-)؛ الأحرف الأخرى غير مسموح بها.
 
    > [!Note]
-   > - لتغيير عنوان URL للمدخل بعد توفيره، راجع  [**تغيير عنوان URL الأساسي لمدخل**](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url).
-   > - لربط مدخلك بمجال مخصص، راجع  [**ربط مدخل تطبيقات Dynamics 365 Customer Engagement بمجال مخصص**](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-portal#link-your-dynamics-365-for-customer-engagement-portal-to-a-custom-domain).
+   > - لتغيير عنوان URL للبوابة الإلكترونية بعد توفيره، راجع  [**تغيير عنوان URL الأساسي للبوابة الإلكترونية**](/dynamics365/customer-engagement/portals/change-base-url).
+   > - لربط البوابة الإلكترونية بمجال مخصص، راجع  [**ربط بوابة تطبيقات Dynamics 365 Customer Engagement بمجال مخصص**](/dynamics365/customer-engagement/portals/manage-portal#link-your-dynamics-365-for-customer-engagement-portal-to-a-custom-domain).
 
-5. في القائمة المنسدلة **مثيل Dynamics 365** ، حدد مثيل تطبيقات Dynamics 365 Customer Engagement الذي تريد ربط المدخل به. يتطلب هذا دور مسؤول النظام أو مخصص النظام في المثيل الذي تختاره لتحديده.
+5. في القائمة المنسدلة  **مثيل Dynamics 365** ، حدد مثيل تطبيقات Dynamics 365 Customer Engagement الذي تريد ربط البوابة به. يتطلب هذا دور مسؤول النظام أو مخصص النظام في المثيل الذي تختاره لتحديده.
 6. في القائمة المنسدلة **تحديد لغة المدخل** ، حدد اللغة الافتراضية لمدخلك. ستعتمد اللغات المتاحة على اللغات التي تم تثبيتها في المثيل الخاص بك.
 
    >[!Note]
@@ -96,12 +96,12 @@ ms.locfileid: "6659199"
 
 ### <a name="dynamics-365-portal-app"></a>تطبيق مدخل Dynamics 365
 
-يتيح لك تطبيق مدخل Dynamics 365 تكوين النظام الأساسي عبر الإنترنت وإدارته للتواصل والتعاون مع العملاء.
+يتيح لك تطبيق Dynamics 365 Portal تكوين النظام الأساسي عبر الإنترنت وإدارته للتواصل والتعاون مع العملاء.
 
-عند تثبيت الإصدار 9.0 والإصدار الأحدث من مدخل تطبيقات Dynamics 365 Customer Engagement، يتم إنشاء تطبيق مدخل Dynamics 365 الذي تم إنشاؤه استناداً إلى إطار عمل الواجهة الموحدة بشكل افتراضي.
+عندما تقوم بتثبيت الإصدار 9.0 من بوابة تطبيقات Dynamics 365 Customer Engagement والإصدارات الأحدث، يتم إنشاء تطبيق Dynamics 365 Portal، المبني على إطار عمل الواجهة الموحدة، بحيث يكون جاهزًا للاستخدام.
 
-### <a name="open-dynamics-365-portal-app"></a>فتح تطبيق مدخل Dynamics 365
+### <a name="open-dynamics-365-portal-app"></a>فتح تطبيق Dynamics 365 Portal
 
-1. قُم بتسجيل الدخول إلى تطبيقات Dynamics 365 Customer Engagement.
-2. افتح تطبيقات URL (عنوان URL للمؤسسة) أو انتقل إلى **إعدادات** > **تطبيقاتي**.
+1. قم بتسجيل الدخول إلى تطبيقات Dynamics 365 Customer Engagement.
+2. افتح تطبيقات URL (عنوان URL المؤسسة) أو انتقل إلى  **الإعدادات** > **تطبيقاتــي**.
 3. حدد تطبيق مدخل Dynamics 365.

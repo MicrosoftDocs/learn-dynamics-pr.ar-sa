@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a661ef8665ce9ef1dc059bce6fb3b8ad8f20d945
-ms.sourcegitcommit: de79d56e760ae35a1ea1549067da2fba04de7088
+ms.openlocfilehash: 52c8e54c45a1cef053be49d685ed270c73530de3
+ms.sourcegitcommit: 0cbc164fda0ab8c2d868359a6af5d804665d8388
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "6658457"
+ms.lasthandoff: 09/04/2021
+ms.locfileid: "7473944"
 ---
 قد تغيرت الخدمة بشكل كبير على مدى السنوات الخمس إلى العشر الماضية. في الماضي، كان العميل يتصل ويوضع في الانتظار حتى يلتقط شخص ما الهاتف للمساعدة. واليوم، يبدو مشهد الدعم مختلفاً جداً.
 
@@ -18,6 +18,7 @@ ms.locfileid: "6658457"
 
 - مداخل مع روبوت تفاعلي
 - إمكانية المحادثة المباشرة
+- اتصالات SMS
 - أكشاك تفاعلية
 - تطبيق محمول تم نشره بواسطة مؤسسة العميل
 - مشاركة الشاشات عن بُعد بين مندوب خدمة والعميل

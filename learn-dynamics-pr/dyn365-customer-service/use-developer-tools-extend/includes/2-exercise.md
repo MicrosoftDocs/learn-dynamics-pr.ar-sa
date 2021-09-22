@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9335715ebdf7a642f27dcdf8a7521187693ddf96
-ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
+ms.openlocfilehash: 995df6093cb26dfc119c4f29a6aae968337503746e48b2da4cdcc8b0421ec16e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "6659248"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7083453"
 ---
 في هذا التمرين، ستقوم بتثبيت بعض أدوات المطور من NuGet.
 

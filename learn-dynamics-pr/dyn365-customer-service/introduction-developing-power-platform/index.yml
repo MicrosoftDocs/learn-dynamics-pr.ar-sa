@@ -7,13 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
-  ms.openlocfilehash: cccf5f2102163c4d850a9af58812a0bd0b4527ed
-  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.service: power-platform
+  ms.openlocfilehash: 3133d7ea2d398dfec500531abc4c691937d0a18b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/04/2021
-  ms.locfileid: "6659323"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328364"
 title: مقدمة حول موارد مطوّر Microsoft Power Platform
 summary: "[!include[](../includes/module-banner.md)]\n\nيتمثل الهدف من هذه الوحدة في تقديم نظرة عامة واسعة النطاق على تجربة المطوّر من حيث صلتها بحل Microsoft Power Platform. وسوف تتناول الوحدة مقدمة عالية المستوى حول كيفية تمثيل المنظومة المتكاملة، في ظل وجود الجمهور المستهدف مُمثلاً في مطور برامج يحوز خبرة محدودة في العمل باستخدام Microsoft Power Platform. \n"
 abstract: "ستتمكن في هذه الوحدة مما يلي: \n- شرح مكونات الحلول الموجودة داخل حل Microsoft Power Platform. \n- شرح المكونات الرئيسية لـ Microsoft Dataverse وCommon Data Model. \n- شرح عناصر الحل من Azure ذات الصلة بحل Microsoft Power Platform. \n- شرح حلول الذكاء الاصطناعي الموجودة من حيث صلتها بحل Microsoft Power Platform. \n- التنقل بنجاح في دليل المطور تعزيزاً لجهود تطوير Microsoft Power Platform.\n"

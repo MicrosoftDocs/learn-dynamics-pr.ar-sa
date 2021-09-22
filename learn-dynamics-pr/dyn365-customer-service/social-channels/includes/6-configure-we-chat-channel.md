@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b09c8ea7771992cea8534e66c95032581e7c17c8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f1cd34b0cca5e112e4dd683dd909a3616f390fdb
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658405"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7358817"
 ---
 تمكنك القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service من تكوين قنوات اتصال عبر WeChat للاستفادة من اتجاه وسائل الاعلام الاجتماعية والتفاعل مع عملائك خلال تجربة مخصصة.
 
@@ -12,9 +12,9 @@ ms.locfileid: "6658405"
 
 قبل أن تتمكن من استخدام أي منصات مراسلة اجتماعية في القناة متعددة الاتجاهات لـ Customer Service، تأكد من إجراء المراسلة الاجتماعية من خلال صفحة **إدارة مثيلات القناة متعددة الاتجاهات**.
 
-لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/administrator/omnichannel-provision-license#provision-omnichannel-for-customer-service-application/?azure-portal=true).
+لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/administrator/omnichannel-provision-license#provision-omnichannel-for-customer-service-application/?azure-portal=true).
 
-لاستخدام WeChat، يتعين على المؤسسات الحصول على اشتراك نشط في حساب خدمة WeChat أو حساب sandbox (في حالة استخدام sandbox للاختبار) بحيث يكون متاحًا ويتم تخزينه كجهة اتصال على هاتفك. ستبدأ محادثات WeChat عن طريق الاتصال بحساب الاشتراك. لمزيد من المعلومات، راجع [وثائق WeChat](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-wechat-channel/?azure-portal=true).
+لاستخدام WeChat، يتعين على المؤسسات الحصول على اشتراك نشط في حساب خدمة WeChat أو حساب sandbox (في حالة استخدام sandbox للاختبار) بحيث يكون متاحًا ويتم تخزينه كجهة اتصال على هاتفك. ستبدأ محادثات WeChat عن طريق الاتصال بحساب الاشتراك. لمزيد من المعلومات، راجع [وثائق WeChat](/dynamics365/omnichannel/administrator/configure-wechat-channel/?azure-portal=true).
 
 ## <a name="create-a-wechat-channel"></a>أنشئ قناة WeChat
 

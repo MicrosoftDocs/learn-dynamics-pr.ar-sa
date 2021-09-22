@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: de8c94c628f5922a6568917e6668022fbeaf57da
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 1dfb347a1ccdd9fb9d61904ebbf3a01367ce3365
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659214"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7341978"
 ---
 بعد إعداد وظيفة البحث عن المعرفة في Dynamics 365 وتحديد فئات المقالات، تكون الخطوة التالية إعداد عنصر تحكم **Knowledge Base Search** لكل صفحة كيان حيث سيتم استهلاكه. بشكل افتراضي، تم إعداد عنصر التحكم بالفعل لكيان الحالة. إذا قمت بإعداده لأي كيانات أخرى، فيجب إعداده أيضاً على الصفحة ذات الصلة لكل من هذه الكيانات.
 
 ## <a name="before-you-begin"></a>قبل البدء
 
-لإعداد عنصر تحكم **Knowledge Base Search**، يجب تخصيص الصفحات التي ستظهر فيها. إذا لم تكن على دراية بتخصيص الصفحات في Dynamics 365، راجع [تخصيص نماذج Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-design-forms).
+لإعداد عنصر تحكم **Knowledge Base Search**، يجب تخصيص الصفحات التي ستظهر فيها. إذا لم تكن على دراية بتخصيص الصفحات في Dynamics 365، راجع [تخصيص نماذج Dynamics 365](/dynamics365/customer-engagement/customize/create-design-forms).
 
 ## <a name="working-with-customer-service-hub-pages"></a>العمل مع صفحات مركز خدمة العملاء
 
@@ -50,7 +50,7 @@ ms.locfileid: "6659214"
 
    ![لقطة شاشة لقسم تفاصيل علامة التبويب مع مجموعة الرموز.](../media/RC-Unit3-1.png)
 
-   لمزيد من المعلومات حول استخدام موارد الويب، راجع [موارد ويب](https://docs.microsoft.com/dynamics365/customer-engagement/developer/web-resources).
+   لمزيد من المعلومات حول استخدام موارد الويب، راجع [موارد ويب](/dynamics365/customer-engagement/developer/web-resources).
 
 - **الاسم:** يعرض هذا القسم اسم عنصر التحكم والتسمية المستخدمة له. يمكنك تحديد ما إذا كان التسمية معروضة على الصفحة.
 
@@ -62,7 +62,7 @@ ms.locfileid: "6659214"
 
    ![لقطة شاشة لقسم عامل تصفية البيانات مع البيانات التي تم ملؤها.](../media/RC-Unit3-3.png)
 
-   لمزيد من المعلومات حول ترجمات المقالات، راجع [ترجمة مقالة معرفية بلغات](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#translate-a-knowledge-article-in-multiple-languages).
+   لمزيد من المعلومات حول ترجمات المقالات، راجع [ترجمة مقالة معرفية بلغات](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#translate-a-knowledge-article-in-multiple-languages).
 
 - **خيارات إضافية:** يوفر هذا القسم إعدادات إضافية تحدد كيفية بحث عنصر التحكم عن البيانات وعدد المقالات التي يتم إرجاعها والإجراءات المتوفرة للمستخدمين في عنصر التحكم. ويتضمن الحقول التالية:
 
@@ -79,4 +79,4 @@ ms.locfileid: "6659214"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IOFZ]
 
-لمزيد من المعلومات حول إعداد عنصر تحكم **Knowledge Base Search** ، راجع [إضافة عنصر تحكم Knowledge Base Search إلى النماذج](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/add-knowledge-base-search-control-forms).
+لمزيد من المعلومات حول إعداد عنصر تحكم **Knowledge Base Search** ، راجع [إضافة عنصر تحكم Knowledge Base Search إلى النماذج](/dynamics365/customer-engagement/customer-service/add-knowledge-base-search-control-forms).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d71f409bab7753eafec59ac6a3bb2247232ba4df
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: c90b5b9e71979507bc308e4850e0eb15d6a4017154e0155bd26de8d9b8253bf1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116384"
 ---
 ## <a name="microsoft-365-groups"></a>مجموعات Microsoft 365
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2e34b33aa77816aaf5454c1c71d7732c1782977f
-ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
+ms.openlocfilehash: b99b986af3fd3cc811e0b8864cc6d293e70f39cb
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659230"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334469"
 ---
 تتضمن Customer Service Insights نماذج فهم اللغة الطبيعية التي يمكن أن تفهم دلالات النص والغرض من الحالات. تستخدم هذه النماذج لتجميع حالات الدعم ذات الصلة كمواضيع وعرضها على صفحة **المواضيع** بترتيب عدد الحالات المرتبطة بكل موضوع.
 
@@ -55,21 +55,21 @@ ms.locfileid: "6659230"
 
 بعد إنشاء الحالات الخاصة بك، تتوفر العديد من الأدوات والخيارات لمساعدتك في عرض المواضيع وحالات الدعم المقترنة بها وإدارتها، بما في ذلك:
 
-- [البحث عن موضوع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#searching-for-a-topic/?azure-portal=true)
+- [البحث عن موضوع](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#searching-for-a-topic/)
 
-- [عرض التحليلات لموضوع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#viewing-analytics-for-a-topic/?azure-portal=true)
+- [عرض التحليلات لموضوع](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#viewing-analytics-for-a-topic/)
 
-- [عرض حالات الدعم الخاصة بأحد المواضيع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#viewing-support-cases-for-a-topic/?azure-portal=true)
+- [عرض حالات الدعم الخاصة بأحد المواضيع](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#viewing-support-cases-for-a-topic/)
 
-- [تقديم تعليقات لإجراء ضبط دقيق للطريقة التي يتم بها تجميع الحالات في مواضيع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#providing-feedback-to-fine-tune-the-way-cases-are-grouped-into-topics/?azure-portal=true)
+- [تقديم تعليقات لإجراء ضبط دقيق للطريقة التي يتم بها تجميع الحالات في مواضيع](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#providing-feedback-to-fine-tune-the-way-cases-are-grouped-into-topics/)
 
-- [نقل حالات إلى موضوع آخر](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#moving-cases-to-another-topic/?azure-portal=true)
+- [نقل حالات إلى موضوع آخر](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#moving-cases-to-another-topic/)
 
-- [إعادة تسميه موضوع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#renaming-a-topic/?azure-portal=true)
+- [إعادة تسميه موضوع](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#renaming-a-topic/)
 
-- [التحكم في النقاوة التي يتم بها إنشاء مواضيع الدعم](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#controlling-the-granularity-of-how-support-topics-are-generated/?azure-portal=true)
+- [التحكم في النقاوة التي يتم بها إنشاء مواضيع الدعم](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#controlling-the-granularity-of-how-support-topics-are-generated/)
 
-- [تحديث البيانات المعروضة في صفحة المواضيع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/topics-page#refreshing-the-data-displayed-on-the-topics-page/?azure-portal=true)
+- [تحديث البيانات المعروضة في صفحة المواضيع](/dynamics365/ai/customer-service-insights/topics-page?azure-portal=true#refreshing-the-data-displayed-on-the-topics-page/)
 
 ## <a name="search-for-a-topic"></a>البحث عن موضوع
 
@@ -85,7 +85,7 @@ ms.locfileid: "6659230"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لصفحة المواضيع مع موضوع محدد للقائمة.](../media/topics-list-ssm.png)](../media/topics-list-ssm.png#lightbox)
 
-يمكن أيضاً عرض تفاصيل الموضوع في لوحة معلومات **تحليلات تفاصيل الموضوع** من أحد مخططات AI Insights في لوحات معلومات [ملخص KPI](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary/?azure-portal=true)، و [الحالات الجديدة](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-incoming-cases/?azure-portal=true)، و [رضا العميل](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-csat/?azure-portal=true) و [حل الحالة](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-case-resolutions/?azure-portal=true). يمكنك إنجاز هذه المهمة بتحديد أيقونة الارتباط في عمود **التفاصيل** المقابل للموضوع الذي تريد التنقل خلاله.
+يمكن أيضاً عرض تفاصيل الموضوع في لوحة معلومات **تحليلات تفاصيل الموضوع** من أحد مخططات AI Insights في لوحات معلومات [ملخص KPI](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary/?azure-portal=true)، و [الحالات الجديدة](/dynamics365/ai/customer-service-insights/dashboard-incoming-cases/?azure-portal=true)، و [رضا العميل](/dynamics365/ai/customer-service-insights/dashboard-csat/?azure-portal=true) و [حل الحالة](/dynamics365/ai/customer-service-insights/dashboard-case-resolutions/?azure-portal=true) . يمكنك إنجاز هذه المهمة بتحديد أيقونة الارتباط في عمود **التفاصيل** المقابل للموضوع الذي تريد التنقل خلاله.
 
 توفر لوحة المعلومات نظرة عامة تفصيلية على مؤشرات KPI لموضوع معين، بما في ذلك استخدام تقنية الذكاء الاصطناعي لإظهار التأثير حسب المنتج والقناة على درجات رضا العميل ووقت الحل للموضوع.
 
@@ -94,7 +94,7 @@ ms.locfileid: "6659230"
 
 ## <a name="view-support-cases-for-a-topic"></a>عرض حالات الدعم الخاصة بأحد المواضيع
 
-يمكنك عرض الـ 200 حالة دعم الأكثر صلة المقترنة بموضوع ما بواسطة تحديدها في قائمة **المواضيع**، ثم تحديد علامة التبويب **الحالات** في الصفحة. على سبيل المثال، لعرض حالات الدعم المقترنة بالموضوع  **ارتباط إعادة تعيين كلمة المرور غير صالح** ، حددها في القائمة، ثم حدد علامة التبويب **الحالات**.
+يمكنك عرض الـ 200 حالة دعم الأكثر صلة المقترنة بموضوع ما بواسطة تحديدها في قائمة **المواضيع**، ثم تحديد علامة التبويب **الحالات** في الصفحة. على سبيل المثال، لعرض حالات الدعم المقترنة بالموضوع‏‎ **‎‏‎ارتباط إعادة تعيين كلمة المرور غير صالح** ، حددها في القائمة، ثم حدد علامة التبويب **الحالات** .
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لقائمة المواضيع مع تحديد موضوع.](../media/topics-list-ssm.png)](../media/topics-list-ssm.png#lightbox)
@@ -114,7 +114,7 @@ ms.locfileid: "6659230"
 
 ربما تجد أن كيفية قيام تقنية الذكاء الاصطناعي بتجميع حالاتك في مواضيع قد لا تعكس بدقة كيف تريد تجميع العناصر. في هذه الحالات، يمكنك تعديل الطريقة التي تقوم من خلالها تقنية الذكاء الاصطناعي بتجميع حالات الدعم في مواضيع من خلال تصنيف موضع الحالات ضمن المواضيع. ومن خلال تصنيف الموضع، يمكنك مساعدة تقنية الذكاء الاصطناعي في Customer Service Insights على التعرّف على كيفية تجميع الحالات وتحسينها.
 
-لتصنيف موضع حالات دعم خاصة بموضوع ما، انتقل إلى صفحة **المواضيع** ثم حدد الموضوع من القائمة لعرض قائمة الحالات المقترنة بالموضوع. ثم قم بتمرير الماوس فوق عنوان الحالة لعرض أيقونتي التصنيف **إبهام لأعلى** و **إبهام لأسفل**.
+لتصنيف موضع حالات دعم خاصة بموضوع ما، انتقل إلى صفحة **المواضيع** ثم حدد الموضوع من القائمة لعرض قائمة الحالات المقترنة بالموضوع. ثم قم بتمرير الماوس فوق عنوان الحالة لعرض أيقونتي التصنيف **إبهام لأعلى** و **‎‏‎إبهام لأسفل** .
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لقائمة الحالات مع أصابع إبهام التصنيف.](../media/case-topic-rating-ss.png)](../media/case-topic-rating-ss.png#lightbox)

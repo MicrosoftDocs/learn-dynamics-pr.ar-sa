@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b48a991cb5a6874e76e3d470f2e4ed351e481512
-ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
+ms.openlocfilehash: a12656b6811b4e7e44c76613456bab8584b217dc
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659231"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326729"
 ---
 تحتوي لوحات معلومات Customer Service Insights على مجموعة مخططات متنوعة التي تعرض لك مؤشرات الأداء الرئيسية (KPI) لنظام خدمة العملاء. وتوفر هذه المخططات طريقة عرض رسومية لاتجاهات وتصنيفات حالات الدعم وتستخدم تكنولوجيا الذكاء الاصطناعي لتمييز حالات الدعم التي تؤثر بشكل أكبر على النظام. لوحات المعلومات هي المكونات الأساسية التي يمكن أن تساعدك في الحصول على مجموعة متنوعة من الرؤى التحليلية لمساعدتك على تحسين أداء النظام.
 
@@ -58,23 +58,23 @@ ms.locfileid: "6659231"
 
 تشتمل لوحة معلومات **ملخص مؤشر الأداء الأساسي** على مجموعة مخططات متنوعة تتضمن طرق عرض رسومية لمؤشرات الأداء الأساسية للنظام.
 
-- [**مخططات ملخص مؤشر الأداء الأساسي**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#kpi-summary-charts/?azure-portal=true) - تعمل على تلخيص مؤشرات الأداء الأساسية للفترة الزمنية المحددة والنسبة المئوية للتغيير خلال الفترة.
+- [**مخططات ملخص مؤشر الأداء الأساسي**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#kpi-summary-charts/) - تعمل على تلخيص مؤشرات الأداء الأساسية للفترة الزمنية المحددة والنسبة المئوية للتغيير خلال الفترة.
 
-- [**مخطط تصنيف الحالات**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#case-breakdown-chart/?azure-portal=true) - يقسم حالات الدعم لفترة زمنية محددة بين الحالات الجديدة والحالات التي لم يتم حلها من الفترة الزمنية السابقة.
+- [**مخطط تصنيف الحالات**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#case-breakdown-chart/) - يقسم حالات الدعم لفترة زمنية محددة بين الحالات الجديدة والحالات التي لم يتم حلها من الفترة الزمنية السابقة.
 
-- [**مخطط أولوية الحالة**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#case-priority-chart/?azure-portal=true) - يعرض تقسيم النسبة المئوية للفترة الزمنية المحددة بين حالات الدعم العادية والمنخفضة وعالية الأولوية.
+- [**مخطط أولوية الحالة**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#case-priority-chart/) - يعرض تقسيم النسبة المئوية للفترة الزمنية المحددة بين حالات الدعم العادية والمنخفضة وعالية الأولوية.
 
-- [**مخطط قناة الحالة**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#case-channel-chart/?azure-portal=true) - يعرض تصنيف حالات الدعم للفترة الزمنية المحددة حسب قناة الدعم.
+- [**مخطط قناة الحالة**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#case-channel-chart/) - يعرض تصنيف حالات الدعم للفترة الزمنية المحددة حسب قناة الدعم.
 
-- [**مخطط تعقب الحالة**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#case-tracking-chart/?azure-portal=true) - يوضح الاتجاه في عدد حالات الدعم الجديدة للفترة الزمنية المحددة والاتجاه في عدد الحالات التي يجري حلها.
+- [**مخطط تعقب الحالة**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#case-tracking-chart/) - يوضح الاتجاه في عدد حالات الدعم الجديدة للفترة الزمنية المحددة والاتجاه في عدد الحالات التي يجري حلها.
 
-- [**الحالات غير المحلولة حسب المخطط العمري**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#unresolved-cases-by-age-chart/?azure-portal=true) - يوضح العدد النسبي لحالات الدعم للفترة الزمنية المحددة حسب عدد الأيام التي مضت على إنشائها.
+- [**الحالات غير المحلولة حسب المخطط العمري**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#unresolved-cases-by-age-chart/) - يوضح العدد النسبي لحالات الدعم للفترة الزمنية المحددة حسب عدد الأيام التي مضت على إنشائها.
 
-- [**مخطط عوامل أحجام الحالات**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#case-volume-drivers-chart/?azure-portal=true) - يقوم بتجميع حالات الدعم ذات الصلة كمواضيع دعم ويعرض المواضيع حسب الحجم خلال الفترة الزمنية المحددة. يوضح هذا المخطط النسبة المئوية لإجمالي الحجم وعدد الحالات لكل موضوع.
+- [**مخطط عوامل أحجام الحالات**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#case-volume-drivers-chart/) - يقوم بتجميع حالات الدعم ذات الصلة كمواضيع دعم ويعرض المواضيع حسب الحجم خلال الفترة الزمنية المحددة. يوضح هذا المخطط النسبة المئوية لإجمالي الحجم وعدد الحالات لكل موضوع.
 
-- [**مخطط المواضيع البارزة**](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#emerging-topics-chart/?azure-portal=true) - يعرض مواضيع الدعم التي يطرأ عليها تغيير كبير في الحجم حسب مقدار تغير الحجم خلال الفترة الزمنية المحددة. يعرض هذا المخطط المواضيع ذات تغييرات الحجم الكبيرة قبل أن تصبح مواضيع شائعة.
+- [**مخطط المواضيع البارزة**](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#emerging-topics-chart/) - يعرض مواضيع الدعم التي يطرأ عليها تغيير كبير في الحجم حسب مقدار تغير الحجم خلال الفترة الزمنية المحددة. يعرض هذا المخطط المواضيع ذات تغييرات الحجم الكبيرة قبل أن تصبح مواضيع شائعة.
 
-لمزيد من المعلومات، راجع [مخططات ملخص مؤشر الأداء الأساسي للوحة المعلومات](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary#kpi-summary-charts/?azure-portal=true).
+لمزيد من المعلومات، راجع [مخططات ملخص مؤشر الأداء الأساسي للوحة المعلومات](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary?azure-portal=true#kpi-summary-charts/).
 
 ### <a name="new-cases-dashboard"></a>لوحة معلومات الحالات الجديدة
 
@@ -95,7 +95,7 @@ ms.locfileid: "6659231"
 
 - **المواضيع الناشئة حديثاً (AI Insights)** - يعرض مواضيع الدعم التي تتضمن حجم تغيير كبير حسب مقدار تغير الحجم خلال الفترة الزمنية المحددة. يعرض هذا المخطط المواضيع ذات تغييرات الحجم الكبيرة قبل أن تصبح مواضيع شائعة.
 
-لمزيد من المعلومات، راجع [لوحة معلومات الحالات الجديدة](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-incoming-cases/?azure-portal=true).
+لمزيد من المعلومات، راجع [لوحة معلومات الحالات الجديدة](/dynamics365/ai/customer-service-insights/dashboard-incoming-cases/?azure-portal=true).
 
 ### <a name="customer-satisfaction-dashboard"></a>لوحة معلومات رضا العملاء
 
@@ -116,7 +116,7 @@ ms.locfileid: "6659231"
 
 - **عوامل رضا العملاء (AI Insights)** - يقوم بتجميع حالات الدعم المرتبطة في صورة مواضيع دعم ثم يعرض المواضيع حسب تأثيرها على عوامل رضا العملاء.
 
-لمزيد من المعلومات، راجع [لوحة معلومات رضا العملاء](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-csat/?azure-portal=true).
+لمزيد من المعلومات، راجع [لوحة معلومات رضا العملاء](/dynamics365/ai/customer-service-insights/dashboard-csat/?azure-portal=true).
 
 ### <a name="resolutions-dashboard"></a>لوحة معلومات الحلول
 
@@ -137,7 +137,7 @@ ms.locfileid: "6659231"
 
 - **عوامل وقت الحل (AI Insights)** - يقوم بتجميع حالات الدعم المرتبطة في صورة مواضيع دعم ثم يعرض المواضيع حسب وقت الحل خلال الفترة الزمنية المحددة.
 
-لمزيد من المعلومات، راجع [لوحة معلومات الحلول](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-case-resolutions/?azure-portal=true).
+لمزيد من المعلومات، راجع [لوحة معلومات الحلول](/dynamics365/ai/customer-service-insights/dashboard-case-resolutions/?azure-portal=true).
 
 ### <a name="topic-details-analytics-dashboard"></a>لوحة معلومات التحليلات المفصلة للمواضيع
 
@@ -146,7 +146,7 @@ ms.locfileid: "6659231"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة للوحة معلومات التحليلات المفصلة للمواضيع.](../media/topic-details-analytics-dashboard-ss.png)](../media/topic-details-analytics-dashboard-ss.png#lightbox)
 
-يمكن أيضاً عرض لوحة معلومات **التحليلات المفصلة للمواضيع** من أحد مخططات AI Insights في لوحات معلومات [ملخص مؤشر الأداء الأساسي](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary/?azure-portal=true)، و [الحالات الواردة](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-incoming-cases/?azure-portal=true)، و [رضا العملاء](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-csat/?azure-portal=true) و [حل الحالة](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-case-resolutions/?azure-portal=true). لعرض لوحة معلومات **التحليلات المفصلة للمواضيع**، حدد رمز الارتباط في عمود **التفاصيل** الملائم للموضوع الذي تريد استعراضه، أو حدد موضوعاً من صفحة **المواضيع**.
+يمكن أيضاً عرض لوحة معلومات **التحليلات المفصلة للمواضيع** من أحد مخططات AI Insights في لوحات معلومات [ملخص مؤشر الأداء الأساسي](/dynamics365/ai/customer-service-insights/dashboard-kpi-summary/?azure-portal=true)، و [الحالات الواردة](/dynamics365/ai/customer-service-insights/dashboard-incoming-cases/?azure-portal=true)، و [رضا العملاء](/dynamics365/ai/customer-service-insights/dashboard-csat/?azure-portal=true) و [حل الحالة](/dynamics365/ai/customer-service-insights/dashboard-case-resolutions/?azure-portal=true) . لعرض لوحة معلومات **التحليلات المفصلة للمواضيع**، حدد رمز الارتباط في عمود **التفاصيل** الملائم للموضوع الذي تريد استعراضه، أو حدد موضوعاً من صفحة **المواضيع**.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لعمود "التفاصيل" بقائمة "المواضيع" ضمن مخطط "عوامل حجم الحالة".](../media/case-volume-drivers-details-ssm.png)](../media/case-volume-drivers-details-ssm.png#lightbox)
@@ -169,4 +169,4 @@ ms.locfileid: "6659231"
 
 - **عوامل وقت الحل (AI Insights)** - تعرض مسار حالات دعم الموضوع خلال الفترة الزمنية المحددة بدءاً من قناة الدعم التي تم فتح الحالات بها سواء تم تصعيدها أم لا ووصولاً إلى حالتها النهائية في نهاية الفترة الزمنية المحددة.
 
-لمزيد من المعلومات، راجع [لوحة معلومات تفاصيل الموضوع](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-topic-details/?azure-portal=true).
+لمزيد من المعلومات، راجع [لوحة معلومات تفاصيل الموضوع](/dynamics365/ai/customer-service-insights/dashboard-topic-details/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e61dd96ea8f5043408ffbc17af2a195950d24be
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 5d23465dc249d81697dbb5b364a7ffb46022d6e65192a3af19158216c1030ab9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660524"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7066283"
 ---
 كما ترى، من خلال استكمال قدرات إدارة الحالات وإدارة المعرفة في Dynamics 365 Customer Service باستخدام ميزات إضافية مثل القناة متعددة الاتجاهات لـ Customer Service أو Customer Service Insights، يمكنك إنشاء حل دعم أكثر مرونة استنادًا إلى احتياجات العملاء في الوقت الحالي.
 

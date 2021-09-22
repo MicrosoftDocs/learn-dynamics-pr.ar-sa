@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 1619431a183b73477df01564929efab78694cb84
-ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+ms.openlocfilehash: 7c9455aace6ed720042f67f4cca4de7c56abee9f8c789a0e0a3b9999e3687b25
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125970"
 ---
-تحقق هذه التمارين أفضل النتائج عند استخدام الإصدار 9.0 أو إصدار أحدث من البيئة التجريبية لتطبيقات Dynamics 365 Customer Engagement.
+تعمل هذه التمارين بشكل أفضل عند استخدام الإصدار 9.0 من بيئة الإصدار التجريبي من تطبيقات Dynamics 365 Customer Engagement أو إصدار أحدث.
 
 ### <a name="learning-objectives"></a>الأهداف التعليمية
 
@@ -22,12 +22,12 @@ ms.locfileid: "6659271"
 
 ### <a name="detailed-steps"></a>الخطوات التفصيلية
 
-تعمل مستشاراً وظيفياً يبدأ العمل في تنفيذ تطبيقات Dynamics 365 Customer Engagement لعميل جديد. يتضمن هذا التنفيذ توزيع Dynamics 365 للهواتف إلى المستخدمين داخل المؤسسة. لا تستخدم المؤسسة حالياً جدول Competitor وقد طلبت إزالة الكيانات من Dynamics 365 للهاتف المحمول.
+أنت مستشار وظيفي يبدأ العمل على تنفيذ تطبيقات Dynamics 365 Customer Engagement لعميل جديد. يتضمن هذا التنفيذ نشر Dynamics 365 للهواتف للمستخدمين داخل المؤسسة. لا تستخدم المؤسسة حالياً جدول Competitor وقد طلبت إزالة الكيانات من Dynamics 365 للهاتف المحمول.
 
 ### <a name="confirm-that-the-salesperson-role-has-dynamics-365-for-mobile-privileges"></a>التأكيد أن دور البائع له امتيازات Dynamics 365 للهاتف المحمول
 
-1. في تطبيقات  **Dynamics 365 Customer Engagement - تطبيق مخصص،** انتقل إلى  **إعدادات** > **الأمان** > **أدوار الأمان**.
-2. انقر نقراً مزدوجاً فوق دور الأمان **البائع** لفتحه.
+1. في تطبيق  **Dynamics 365 Customer Engagement apps - مخصص** ، انتقل إلى  **الإعدادات** > **الأمان** > **أدوار الأمان**.
+2. انقر نقرًا مزدوجًا فوق الدور الأمني **مندوب المبيعات** لفتحه.
 3. حدِّد علامة التبويب **إدارة الأعمال**.
 4. مرِّر لأسفل إلى **امتيازات ذات صلة بالخصوصية** وتأكَّد من أن **Dynamics 365 للهاتف المحمول‎** مُمكَّن.
 

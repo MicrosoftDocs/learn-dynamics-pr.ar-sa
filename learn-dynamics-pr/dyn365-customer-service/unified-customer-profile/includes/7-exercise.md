@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 996939da7fcf5808b71e1669c619a57af05faca0
-ms.sourcegitcommit: 1ba95d8098a82315c5274ffc52422606e4ed2558
+ms.openlocfilehash: 56c08f8f271f0190f2c16323e9763437dbe3c9f68146b7089988efdc64d31f5f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "6659264"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121095"
 ---
 وقع عليك الاختيار لتكون مدير مشروع تنفيذ Dynamics 365 Customer Insights في Coffee Contoso. وبصفتك مدير مشروعات متمرساً، فإنك تضع الخطة التالية:
 
@@ -280,7 +280,7 @@ ms.locfileid: "6659264"
 
 1. حدِّد **إضافة مصدر بيانات**.
 
-1. قم بتسمية المصدر **PoS** ثم حدّد **التالي**.
+1. أدخل اسمًا لـ **موقع الويب** المصدر ثم حدد **التالي**.
 
 1. سيظهر لك عرض لموصلات مصدر البيانات التي يمكن لـ Customer Insights استيعابها. دوّن أنواع الموصلات المتوفرة. حدِّد الموصل **نص/CSV**.
 

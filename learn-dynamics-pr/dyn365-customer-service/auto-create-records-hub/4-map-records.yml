@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.auto-create-records-hub.4-map-records
+title: تعيين السجلات يدوياً باستخدام Power Automate
+metadata:
+  title: تعيين السجلات يدوياً باستخدام Power Automate
+  description: تعرف على كيفية تحديد الإجراءات التي تحدد نوع السجل المراد إنشاؤه وكيفية تعبئة الحقول باستخدام Power Automate.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: e65593c94546c17f6d30111c2308660c265568c41cd6e77cd42dd13f20c6d585
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7131751"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-map-records.md)]"

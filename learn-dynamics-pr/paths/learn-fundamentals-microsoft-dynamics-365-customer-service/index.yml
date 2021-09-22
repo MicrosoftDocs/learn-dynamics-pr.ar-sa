@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 2acb823000c7b8efe31d60c816d93740aee9dfad
-  ms.sourcegitcommit: 25999e53fa21290493ff5e287874d99bceeddbac
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 31039e524afdec0931bd13b13e828a81dd888408
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/28/2021
-  ms.locfileid: "6658536"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364717"
 title: تعرف على أساسيات خدمة العملاء في Microsoft Dynamics 365
 prerequisites: >
   يجب أن يكون لديك فهم أساسي لمبادئ Customer Engagement وعمليات الأعمال. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.

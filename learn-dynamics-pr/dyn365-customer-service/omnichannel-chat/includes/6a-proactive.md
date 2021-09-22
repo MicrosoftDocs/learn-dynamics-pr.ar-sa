@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c49df7cba5a89c56765876845f0b78a7012c571e
-ms.sourcegitcommit: 9db0d6810f934f950330586e0abd41ea18b9a873
+ms.openlocfilehash: d456b00e416b007b47a2c2370e3c0bd2d9abe3e7
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658480"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366578"
 ---
 يتيح نشر عنصر واجهة مستخدم المحادثة الاستباقية لمناديب خدمة العملاء التفاعل مع العملاء من خلال دعوتهم تلقائيًا إلى محادثة المحادثة استنادًا إلى قواعد تم تكوينها مسبقًا مثل الوقت المنقضي في صفحة أو عدد زيارات الصفحة. تساعد هذه الميزة المؤسسات على التفاعل بشكل استباقي أكثر مع العملاء لتوفير مساعدة سياقية استنادًا إلى ما يفعلونه الآن. يمكن أن تحسن هذه التجربة بشكل كبير تجربة العملاء وتعزيز مستوى الرضا العام.
 
@@ -34,9 +34,9 @@ ms.locfileid: "6658480"
 
 في حين لا ينصب تركيزك الأساسي على تطوير المكونات وترميزها لتفعيل الأصناف، فمن المهم أن يكون لديك فهم أساسي لكيفية عملها وما يمكن القيام به. توفر الروابط التالية نقطة انطلاق رائعة عندما تستعد لتطوير أصناف مخصصة لحلول المحادثة الاستباقية.
 
-[بدء جلسات المحادثة بشكل استباقي](https://docs.microsoft.com/dynamics365/omnichannel/developer/how-to/start-proactive-chat/?azure-portal=true)
+[بدء جلسات المحادثة بشكل استباقي](/dynamics365/omnichannel/developer/how-to/start-proactive-chat/?azure-portal=true)
 
-[واجهات برمجة التطبيقات الاستباقية لبدء المحادثة](https://docs.microsoft.com/dynamics365/omnichannel/developer/reference/methods/startproactivechat/?azure-portal=true)
+[واجهات برمجة التطبيقات الاستباقية لبدء المحادثة](/dynamics365/omnichannel/developer/reference/methods/startproactivechat/?azure-portal=true)
 
 ## <a name="work-with-proactive-chat"></a>استخدام المحادثة الاستباقية
 
@@ -52,7 +52,7 @@ ms.locfileid: "6658480"
 
 ![لقطة شاشة لإخطار مندوب المحادثة الاستباقية.](../media/chat-6-4.png)
 
-يقبل المندوب بعد ذلك طلب المحادثة ويبدأ في التحدث مع العميل لتقديم المساعدة اللازمة. يتم تحميل [ملخص العميل](https://docs.microsoft.com/dynamics365/omnichannel/agent/agent-oc/oc-customer-summary/?azure-portal=true) وعرضه إذا تطابقت تفاصيل العميل مع البيانات المخزنة.
+يقبل المندوب بعد ذلك طلب المحادثة ويبدأ في التحدث مع العميل لتقديم المساعدة اللازمة. يتم تحميل [ملخص العميل](/dynamics365/omnichannel/agent/agent-oc/oc-customer-summary/?azure-portal=true) وعرضه إذا تطابقت تفاصيل العميل مع البيانات المخزنة.
 
 إذا قام المسؤول أو المطور بتكوين علامة التبويب  **تفاصيل إضافية** ، وإذا كانت متغيرات السياق الإضافية موجودة مثل الوقت المنقضي في صفحة وعنوان URL للصفحة من حيث يتم بدء المحادثة، ويتم عرضها في علامة التبويب  **تفاصيل إضافية** .
 

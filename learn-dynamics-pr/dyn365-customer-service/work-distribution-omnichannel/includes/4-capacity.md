@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a47493b9d0ad2d5b26dc638191e00edc3bdd2804
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: b763cf6fd4ec3d6b94acb2a933453c46c1cf7671457e921e6fe94746e4c90e19
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658431"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125701"
 ---
 يجب أن يكون لكل تدفق عمل قدرة إنتاجية محددة والتي تحدد مقدار القدرة إنتاجية الإجمالية المطلوبة والمستهلكة من قبل المندوب خلال المحادثات من تدفق عمل محدد. هذا الإعداد مهم لأنه يحدد مدى انشغال المندوبين. 
 

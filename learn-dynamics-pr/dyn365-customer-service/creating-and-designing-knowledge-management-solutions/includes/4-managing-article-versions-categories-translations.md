@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df55d9b22bffc2e23f13c79086fce7e26a04b3ae
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 003b220c676223f36f964470d1b17e6fbb0fb6aa
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659204"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7352839"
 ---
 بما أنك تعمل على إنشاء مستودع المعرفة، قد تجد أن المقالات قيد التطوير، أو حتى المقالات التي نُشرت بالفعل، تتطلب تحديثات لتعكس ميزات جديدة أو طريقة جديدة لتشغيل إجراء. ونظراً لإجراء هذه التحديثات، تُخزّن الإصدارات السابقة من المقالة.
 
@@ -27,7 +27,7 @@ ms.locfileid: "6659204"
 > [!IMPORTANT]
 > يعمل النظام على تعبئة حقول مثل **رقم الإصدار الرئيسي**، و **رقم الإصدار الثانوي**، و **اللغة**، و **الرقم العام للمقالة** تلقائياً. لا يُمكنك تغيير القيم في هذه الحقول.
 
-لمعرفة المزيد عن إنشاء إصدارات المقالات، راجع [إنشاء إصدارات المقالات وإدارتها](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#create-and-manage-article-versions).
+لمعرفة المزيد عن إنشاء إصدارات المقالات، راجع [إنشاء إصدارات المقالات وإدارتها](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#create-and-manage-article-versions).
 
 ## <a name="translating-articles-into-multiple-languages"></a>ترجمة المقالات إلى لغات متعددة
 
@@ -42,7 +42,7 @@ ms.locfileid: "6659204"
 
 ![لقطة شاشة من الترجمات ذات الصلة على شاشة المعلومات ذات الصلة.](../media/KM-Unit4-3.png)
 
-لمزيد من المعلومات عن ترجمات المقالات، راجع [ترجمة مقالة معرفية بعدة لغات](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#translate-a-knowledge-article-in-multiple-languages).
+لمزيد من المعلومات عن ترجمات المقالات، راجع [ترجمة مقالة معرفية بعدة لغات](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#translate-a-knowledge-article-in-multiple-languages).
 
 ## <a name="article-categories"></a>فئات المقالة
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d0e5fc2452eeb9a02efebba5c91950a6e73f993f
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: f021aedd7885f5ad7aa43484f5e7129b8345b0f0a1bbfc64a1c3c69b8dfe47fd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660456"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7118484"
 ---
 من خلال إمكانات إدارة الحالة الأساسية التي يوفرها مركز خدمة العملاء في Dynamics 365، تمتلك المؤسسات أساساً متيناً للمساعدة في إدارة ودعم عملائها. يمكن للمندوبين بسهولة تحديد مشكلات العملاء التي يجب العمل عليها ولديهم أدوات مختلفة متاحة مثل المقالات المعرفية لمساعدتهم في حل مشكلات العملاء.
 

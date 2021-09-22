@@ -8,14 +8,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 659cee603430eb57c938d8888e4c5202220963f6
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 9e58f19c83537e70856f0fa9d1e1bfffb5b6089b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659188"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7330394"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1012a74809cc3e4a5b01705387f964053ebc79d6
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: fa82dfcb207c913c410a076596581dbae59319dd
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659226"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7358849"
 ---
 بشكل افتراضي، كيان الحالة هو الكيان الوحيد الذي تم إعداده للاستخدام مع اتفاقية مستوى الخدمة (اتفاقيات SLA). ولكن يتيح لك ‪Microsoft Dynamics 365‬ استخدام وظيفة SLA مع أي كيان. بالإضافة إلى ذلك، يمكنك تحديد مؤشرات الأداء الأساسية (مؤشرات KPI) لأي كيان تم إعداده للاستخدام مع اتفاقات SLA.
 
@@ -18,9 +18,9 @@ ms.locfileid: "6659226"
 
 ![لقطة شاشة لشاشات "الاتصال والتعاون" مع خانة اختيار "تمكين لاتفاقية SLA".](../media/SLA-Unit5-1.png)
 
-لمزيد من المعلومات عن الكيانات التي تدعم اتفاقيات SLA، اطّلع على [الكيانات (أنواع السجلات) التي تدعم اتفاقية SLA](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/define-service-level-agreements#entities-record-types-that-support-sla).
+لمزيد من المعلومات عن الكيانات التي تدعم اتفاقيات SLA، اطّلع على [الكيانات (أنواع السجلات) التي تدعم اتفاقية SLA](/dynamics365/customer-engagement/customer-service/define-service-level-agreements#entities-record-types-that-support-sla).
 
-لمزيد من المعلومات عن إعداد الكيانات بحيث يمكن استخدامها مع اتفاقيات SLA، اطّلع على [إضافة مؤقت في النماذج لتعقب الوقت في اتفاقيات SLA المحسنة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/add-timer-forms-track-time-against-enhanced-sla).
+لمزيد من المعلومات عن إعداد الكيانات بحيث يمكن استخدامها مع اتفاقيات SLA، اطّلع على [إضافة مؤقت في النماذج لتعقب الوقت في اتفاقيات SLA المحسنة](/dynamics365/customer-engagement/customer-service/add-timer-forms-track-time-against-enhanced-sla).
 
 ## <a name="creating-custom-kpis"></a>إنشاء مؤشرات أداء أساسية (مؤشرات KPI) مخصصة
 
@@ -41,9 +41,9 @@ ms.locfileid: "6659226"
 
 ![لقطة شاشة لطريقة عرض المخطط مع نوع البيانات المعين للبحث ونوع السجل الهدف المعيّن لمثيل SLA KPI.](../media/SLA-Unit5-2.png)
 
-لمزيد من المعلومات عن إنشاء مؤشرات أداء أساسية (مؤشرات KPI) مخصصة، اطّلع على [إنشاء حقول لـ SLA KPI](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/add-timer-forms-track-time-against-enhanced-sla#create-sla-kpi-fields).
+لمزيد من المعلومات عن إنشاء مؤشرات أداء أساسية (مؤشرات KPI) مخصصة، اطّلع على [إنشاء حقول لـ SLA KPI](/dynamics365/customer-engagement/customer-service/add-timer-forms-track-time-against-enhanced-sla#create-sla-kpi-fields).
 
-لمزيد من المعلومات عن استخدام نماذج العرض السريع لكيان مثيل SLA KPI، اطّلع على [إنشاء نماذج العرض السريع لكيان مثيل SLA KPI](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/add-timer-forms-track-time-against-enhanced-sla#create-quick-view-forms-for-the-sla-kpi-instance-entity).
+لمزيد من المعلومات عن استخدام نماذج العرض السريع لكيان مثيل SLA KPI، اطّلع على [إنشاء نماذج العرض السريع لكيان مثيل SLA KPI](/dynamics365/customer-engagement/customer-service/add-timer-forms-track-time-against-enhanced-sla#create-quick-view-forms-for-the-sla-kpi-instance-entity).
 
 بعد تعريف مؤشر الأداء الأساسي (KPI)، يمكنك استخدامه كمؤشر أداء أساسي (KPI) لأي بنود في اتفاقية SLA التي تنشئها لاتفاقيات SLA المقترنة بالكيان المحدد.
 

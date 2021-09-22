@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 77e33fc82a07f77e922d34f470bc035eb61e926e
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: 59a19b5f0d698ade2fb08f0399fde16867fcd53ef323ceac799dbdfb7e7c1449
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6659192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101090"
 ---
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWrWU0]
 
@@ -21,7 +21,7 @@ ms.locfileid: "6659192"
 - أنشئ فرق وتكوين علامة تبويب للاتصال بسجل Microsoft Dataverse.
 
 ## <a name="requirements"></a>المتطلبات
-يجب أن يكون لديك إصدار 9.0 أو أكثر من تطبيقات Dynamics 365 Customer Engagement أو إصدار أحدث في بيئة Dataverse التي تقوم بتكوينها. التكامل غير مدعوم حالياً في بيئات Dataverse التي لا تحتوي على تطبيق Dynamics 365. حتى كتابة هذه السطور، لا تتوفر بعض الميزات مثل عرض الملفات وإقرانها وروبوت Dynamics 365 إلا في أمريكا الشمالية.
+يجب أن تملك واحدًا أو أكثر من تطبيقات Dynamics 365 for Customer Engagement الإصدار 9.0 أو إصدار أحدث في بيئة Dataverse التي تقوم بتكوينها. التكامل غير مدعوم حالياً في بيئات Dataverse التي لا تحتوي على تطبيق Dynamics 365. حتى كتابة هذه السطور، لا تتوفر بعض الميزات مثل عرض الملفات وإقرانها وروبوت Dynamics 365 إلا في أمريكا الشمالية.
 
 ## <a name="installing-the-teams-app"></a>تثبيت تطبيق Teams
 يمكن تثبيت تطبيق Dynamics 365 لـ Microsoft Teams بالنقر فوق ارتباط المتجر من داخل تطبيق Microsoft Teams. سيتم تثبيته أيضاً إذا أضفت علامة تبويب إلى قناة فريق وحدد Dynamics 365. بمجرد تحديد التطبيق للتثبيت، سترى مربع الحوار التالي الذي يطالبك بتهيئة التثبيت.

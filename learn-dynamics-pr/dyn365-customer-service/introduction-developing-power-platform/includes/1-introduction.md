@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 10177e0f84ce6e7ff7b59319cb94c8508257c341
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: b4071ff48de85d6ec1af48f4a1a17cd40b0f15f3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659329"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7337836"
 ---
 Microsoft Power Platform هو نظام أساسي قليل الأكواد لإنشاء تطبيقات الأعمال بشكلٍ سريع. وهو يتضمن أربع مكونات رئيسية: Power Apps وPower Automate وPower BI وPower Virtual Agents. ويمكن استخدام كل مكون بشكلٍ فردي أو مع بعضها. وعند استخدام المكونات مع بعضها، فهي مصممة للتفاعل مع غيرها لتحقيق أهداف الأعمال أو بناء التحليلات أو أتمتة العمليات أو تطبيقات الإنتاجية المستندة إلى البيانات.
 
@@ -35,7 +35,7 @@ Microsoft Power Platform هو نظام أساسي قليل الأكواد لإن
 
 -   إنشاء موارد ويب HTML
 
-للتعرف على كيفية إنشاء تطبيقات اللوحة، راجع مسار التعليم [إنشاء تطبيق اللوحة في Power Apps](https://docs.microsoft.com/learn/paths/create-powerapps/?azure-portal=true). للحصول على مقدمة عالية المستوى حول إنشاء تطبيقات مستندة إلى النموذج، راجع مسار التعليم [إنشاء تطبيق مستند إلى نموذج في Power Apps](https://docs.microsoft.com/learn/paths/create-app-models-business-processes/?azure-portal=true). للحصول على مقدمة عالية المستوى حول مداخل Power Apps، راجع مسار التعليم [الشروع في العمل باستخدام مداخل Power Apps](https://docs.microsoft.com/learn/paths/get-started-power-apps-portals/?azure-portal=true).
+للتعرف على كيفية إنشاء تطبيقات اللوحة، راجع مسار التعليم [إنشاء تطبيق اللوحة في Power Apps](/learn/paths/create-powerapps/?azure-portal=true). للحصول على مقدمة عالية المستوى حول إنشاء تطبيقات مستندة إلى النموذج، راجع مسار التعليم [إنشاء تطبيق مستند إلى نموذج في Power Apps](/learn/paths/create-app-models-business-processes/?azure-portal=true). للحصول على مقدمة عالية المستوى حول مداخل Power Apps، راجع مسار التعليم [الشروع في العمل باستخدام مداخل Power Apps](/learn/paths/get-started-power-apps-portals/?azure-portal=true).
 
 ## <a name="power-automate"></a>Power Automate
 
@@ -51,7 +51,7 @@ Microsoft Power Platform هو نظام أساسي قليل الأكواد لإن
 
 -   استخدام وظائف تعريف سير العمل لإنشاء تعبيرات معقدة
 
-لمعرفة المزيد حول إنشاء تدفقات سحابية باستخدام Power Automate، راجع مسار التعليم [أتمتة عملية أعمال باستخدام Power Automate](https://docs.microsoft.com/learn/paths/automate-process-using-flow/?azure-portal=true). للحصول على مقدمة لتدفقات سطح المكتب، راجع مسار التعليم [بدء استخدام Power Automate Desktop](https://docs.microsoft.com/learn/paths/pad-get-started/?azure-portal=true).
+لمعرفة المزيد حول إنشاء تدفقات سحابية باستخدام Power Automate، راجع مسار التعليم [أتمتة عملية أعمال باستخدام Power Automate](/learn/paths/automate-process-using-flow/?azure-portal=true). للحصول على مقدمة لتدفقات سطح المكتب، راجع مسار التعليم [بدء استخدام Power Automate Desktop](/learn/paths/pad-get-started/?azure-portal=true).
 
 ## <a name="power-bi"></a>Power BI
 
@@ -67,7 +67,7 @@ Power BI هو حل تحليلات أعمال من Microsoft\'يوفر أدوات
 
 -   تطوير موصلات مخصصة Power Query للاتصال بالبيانات والوصول إليها من التطبيقات أو الخدمات أو مصادر البيانات الخاصة
 
-للحصول على مقدمة حول كيفية إنشاء تقارير Power BI، راجع مسار التعليم [إنشاء تقارير التحليلات واستخدامها مع Power BI](https://docs.microsoft.com/learn/paths/create-use-analytics-reports-power-bi/?azure-portal=true).
+للحصول على مقدمة حول كيفية إنشاء تقارير Power BI، راجع مسار التعليم [إنشاء تقارير التحليلات واستخدامها مع Power BI](/learn/paths/create-use-analytics-reports-power-bi/?azure-portal=true).
 
 ## <a name="power-virtual-agents"></a>Power Virtual Agents
 
@@ -79,7 +79,7 @@ Power BI هو حل تحليلات أعمال من Microsoft\'يوفر أدوات
 
 -   تمديد الروبوتات مع Bot Framework Composer
 
-للحصول على مقدمة حول كيفية إنشاء روبوتات دردشة Power Virtual Agent، راجع مسار التعليم [إنشاء](https://docs.microsoft.com/learn/paths/work-power-virtual-agents/?azure-portal=true) روبوتات دردشة باستخدام Power Virtual Agents.
+للحصول على مقدمة حول كيفية إنشاء روبوتات دردشة Power Virtual Agent، راجع مسار التعليم [إنشاء](/learn/paths/work-power-virtual-agents/?azure-portal=true) روبوتات دردشة باستخدام Power Virtual Agents.
 
 ## <a name="connectors"></a>الموصلات
 
@@ -87,7 +87,7 @@ Power BI هو حل تحليلات أعمال من Microsoft\'يوفر أدوات
 
 هناك مئات من الموصلات المنشأة مسبقاً للاستخدام في التطبيقات والتدفقات. يمكنك إنشاء موصلات مخصصة لأي واجهة برمجة تطبيقات (API)‏ REST.
 
-يمكنك معرفة المزيد حول الموصلات المخصصة في [وثائق الموصلات](https://docs.microsoft.com/connectors/?azure-portal=true).
+يمكنك معرفة المزيد حول الموصلات المخصصة في [وثائق الموصلات](/connectors/?azure-portal=true).
 
 ## <a name="dataverse"></a>Dataverse
 
@@ -103,7 +103,7 @@ Dataverse هو مخزن بيانات مقياس السحابة يقوم بالب
 
 -   استخدام الجداول الافتراضية لدمج البيانات المخزنة في أنظمة خارجية في Dataverse دون تكرار البيانات
 
-لإلقاء نظرة متعمقة على Common Data Service، راجع وحدة [الشروع في العمل باستخدام Dataverse](https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/?azure-portal=true).
+لإلقاء نظرة متعمقة على Common Data Service، راجع وحدة [الشروع في العمل باستخدام Dataverse](/learn/modules/get-started-with-powerapps-common-data-service/?azure-portal=true).
 
 ## <a name="common-data-model"></a>Common Data Model
 
@@ -113,4 +113,4 @@ Common Data Model هو تعريف قياسي مفتوح المصدر للكيا�
 
 -   استخدم مكتبة Common Data Model للعمل مع البيانات المخزنة في Azure Data Lake.
 
-لمعرفة المزيد حول كيفية استخدام Common Data Model، راجع وثائق [Common Data Model](https://docs.microsoft.com/common-data-model/schema/core/applicationCommon/overview/?azure-portal=true) في Microsoft Docs.
+لمعرفة المزيد حول كيفية استخدام Common Data Model، راجع وثائق [Common Data Model](/common-data-model/schema/core/applicationCommon/overview/?azure-portal=true) في Microsoft Docs.

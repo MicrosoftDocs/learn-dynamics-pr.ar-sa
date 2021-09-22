@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-your-data.05b-report-definition-language
+title: تحميل ملف لغة تعريف التقارير.
+metadata:
+  title: تحميل ملف لغة تعريف التقارير.
+  description: تعرف على كيفية تحميل ملف لغة تعريف التقارير.
+  ms.date: 07/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: e4687a591657da9a598d1fadc0296286f66762179985b00dd91003340c130ef0
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7143072"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05b-report-definition-language.md)]

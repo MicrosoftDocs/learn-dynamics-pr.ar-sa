@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agent-productivity-personalization-omnichannel.6-knowledge-articles
+title: تمكين مشاركة المقالات المعرفية
+metadata:
+  title: تمكين مشاركة المقالات المعرفية
+  description: تعرف على كيفية تمكين مشاركة المقالات المعرفية.
+  ms.date: 08/04/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 9002f344f2a13a9beb73b79ca67f0f2ddb2c63d2ac1ab97b945359a2dc7d823d
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7070131"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-knowledge-articles.md)]"

@@ -1,22 +1,22 @@
 ---
-ms.openlocfilehash: 28e7f6679517e7a7f170c6ae13cbae863f88fb7f
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 2f76c09c081e47f76801d957fa1e1974f8ff76d9
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659303"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7351941"
 ---
-يمكن أن تتكامل تطبيقات Dynamics 365 Customer Engagement مع حلول أخرى لتعزيز تجربة المستخدم وتوفير عرض شامل للعميل.
+يمكن تحقيق تكامل تطبيقات Dynamics 365 Customer Engagement مع حلول أخرى لتحسين تجربة المستخدم وتوفير عرض شامل ومتكامل للعميل.
 
-### <a name="non-interactive-user-accounts"></a>حسابات المستخدمين غير المتفاعلة
+### <a name="non-interactive-user-accounts"></a>حسابات المستخدمين غير التفاعلية
 
-تطبيقات Dynamics 365 Customer Engagement ما هي إلا اشتراك خدمة عبر الإنترنت. عندما تسجّل في هذه الخدمة، تتلقى مجموعة من التراخيص مع اشتراكك، ترخيص واحد لكل مستخدم. ويمكنك شراء تراخيص إضافية إذا كنتَ بحاجة إليها.
+تطبيقات Dynamics 365 Customer Engagement هي اشتراك خدمة عبر الإنترنت. عندما سجّلت الاشتراك في هذه الخدمة، تلقيت مجموعة من التراخيص مع اشتراكك، بواقع ترخيص واحد لكل مستخدم. ويمكنك شراء تراخيص إضافية إذا كنتَ بحاجة إليها.
 
-المستخدم غير المتفاعل ليس "مستخدماً" بالمعنى التقليدي - فهو ليس شخصاً ولكنه وضع وصول يُنشَأ باستخدام حساب مستخدم. ويُستخدَم للوصول البرمجي من تطبيقات Dynamics 365 Customer Engagement وإليها بين التطبيقات. يتيح حساب مستخدم غير متفاعل لهذه التطبيقات أو الأدوات المصادقة والوصول إلى تطبيقات Dynamics 365 Customer Engagement (عبر الإنترنت) من دون طلب ترخيص تطبيقات Dynamics 365 Customer Engagement (عبر الإنترنت). لكل مثيل من تطبيقات Dynamics 365 Customer Engagement (عبر الإنترنت)، يمكنك إنشاء ما يصل إلى خمسة حسابات مستخدم غير متفاعلة.
+يعتبر المستخدم غير التفاعلي ليس "مستخدمًا" بالمعنى المعتاد - إنه ليس شخصًا ولكنه وضع وصول يتم إنشاؤه باستخدام حساب مستخدم. يتم استخدامه للوصول البرمجي إلى تطبيقات Dynamics 365 Customer Engagement ومنها، وذلك بين التطبيقات. يتيح حساب المستخدم غير التفاعلي لهذه التطبيقات أو الأدوات المصادقة والوصول إلى تطبيقات Dynamics 365 Customer Engagement (عبر الإنترنت)، دون الحاجة إلى ترخيص تطبيقات Dynamics 365 Customer Engagement (عبر الإنترنت). لكل مثيل من تطبيقات Dynamics 365 Customer Engagement (عبر الإنترنت)، يمكنك إنشاء ما يصل إلى خمسة حسابات مستخدمين غير تفاعليين.
 
-تحتاج إلى الحصول على دور أمان مسؤول النظام أو أذونات مكافئة في تطبيقات Dynamics 365 Customer Engagement لإنشاء مستخدم غير متفاعل. عليك أولاً إنشاء حساب مستخدم في Microsoft 365، ثم حدِّد في تطبيقات Dynamics 365 Customer Engagement وضع الوصول غير المتفاعل للحساب.
+يجب أن يكون لديك الدور الأمني "مسؤول النظام" أو لديك أذونات مكافئة في تطبيقات Dynamics 365 Customer Engagement لإنشاء مستخدم غير تفاعلي. ستنشئ أولاً حساب مستخدم في Microsoft 365، ثم في تطبيقات Dynamics 365 Customer Engagement، حدد وضع الوصول غير التفاعلي للحساب.
 
-1.  عليك [إنشاء حساب مستخدم](https://docs.microsoft.com/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles?azure-portal=true#create-a-user-account) في مركز إدارة Microsoft 365. وتأكَّد من تعيين ترخيص للحساب.
+1.  عليك [إنشاء حساب مستخدم](/dynamics365/customer-engagement/admin/create-users-assign-online-security-roles?azure-portal=true#create-a-user-account) في مركز إدارة Microsoft 365. وتأكَّد من تعيين ترخيص للحساب.
 
 1.  انتقِل إلى مركز إدارة [Microsoft Power Platform](https://admin.powerplatform.microsoft.com/?azure-portal=true).
 
@@ -36,6 +36,6 @@ ms.locfileid: "6659303"
 
 1.  اختر حساب المستخدم غير المتفاعل وضمن **تراخيص المنتجات**، انقر فوق **تحرير**.
 
-1.  أوقِف الترخيص، ثم انقر فوق **حفظ** > **إغلاق** عدة مرات.
+1.  قم بإيقاف تشغيل الترخيص، ثم انقر فوق **حفظ** > **إغلاق** عدة مرات.
 
-1. عُد إلى تطبيقات Dynamics 365 Customer Engagement وأكّد أن **وضع الوصول** لحساب المستخدم غير المتفاعل لا يزال معيّناً على **غير متفاعل**.
+1. ارجع إلى تطبيقات Dynamics 365 Customer Engagement وتأكد من أن  **وضع الوصول**  لحساب المستخدم غير التفاعلي لا يزال معينًا على  **غير تفاعلي**. 

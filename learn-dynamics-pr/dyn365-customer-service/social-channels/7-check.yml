@@ -8,13 +8,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-voice
-  ms.openlocfilehash: c325f96d383fa565159903a41189390fb736df94
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 460b5083349fce804ce53f445355c74e38815e46
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658404"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328348"
 durationInMinutes: 1
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

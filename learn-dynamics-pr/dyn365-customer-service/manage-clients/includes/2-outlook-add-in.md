@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 653c159bd9f667fa3beab8d350872ce2e65d58d6
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 49c0fb737b8c46980b498e31afa565ef3d7b944c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659085"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7324654"
 ---
 استخدم Dynamics 365 App for Outlook للاستفادة من قوة تطبيقات Dynamics 365 Customer Engagement أثناء استخدام Outlook على سطح المكتب أو الويب أو الهاتف. عندما يتم تثبيت Dynamics 365 App for Outlook، استناداً إلى إصدار التطبيق الذي قمت بتثبيته، سترى جزءاً أو نافذة بجوار رسالة بريد إلكتروني محددة من Outlook، أو عند إنشاء رسالة بريد إلكتروني أو إعداد اجتماع أو موعد.
 
@@ -47,17 +47,17 @@ ms.locfileid: "6659085"
 |                                   | Mozilla Firefox               |
 
 
-- الإصدار 9.0 من تطبيقات Dynamics 365 Customer Engagement أو إصدار أحدث.
+- الإصدار 9.0 من تطبيقات Dynamics 365 Customer Engagement أو أحدث.
 
-- مزامنة رسالة البريد الإلكتروني الواردة من خلال مزامنة على جانب الخادم. لمزيد من المعلومات، راجع [‎إعداد المزامنة على جانب الخادم للبريد الإلكتروني والمواعيد وجهات الاتصال والمهام](https://docs.microsoft.com/dynamics365/customer-engagement/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks).
+- مزامنة رسالة البريد الإلكتروني الواردة من خلال مزامنة على جانب الخادم. لمزيد من المعلومات، راجع [‎إعداد المزامنة على جانب الخادم للبريد الإلكتروني والمواعيد وجهات الاتصال والمهام](/dynamics365/customer-engagement/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks).
 
-- يعد Dynamics 365 App for Outlook وظيفة إضافية في Outlook تستخدم خدمات Exchange عبر الويب (EWS) للتفاعل مع Microsoft Exchange. يتطلب هذا تمكين OAuth على Microsoft Exchange. لمزيد من المعلومات حول هذه التبعية، راجع [المصادقة واعتبارات الإذن للأسلوب makeEwsRequestAsync](https://docs.microsoft.com/outlook/add-ins/web-services#authentication-and-permission-considerations-for-the-makeewsrequestasync-method).
+- يعد Dynamics 365 App for Outlook وظيفة إضافية في Outlook تستخدم خدمات Exchange عبر الويب (EWS) للتفاعل مع Microsoft Exchange. يتطلب هذا تمكين OAuth على Microsoft Exchange. لمزيد من المعلومات حول هذه التبعية، راجع [المصادقة واعتبارات الإذن للأسلوب makeEwsRequestAsync](/outlook/add-ins/web-services#authentication-and-permission-considerations-for-the-makeewsrequestasync-method).
 
-- على عملاء Windows، يجب تثبيت Internet Explorer 11 وتمكينه ولكن ليس بالضرورة المستعرض الافتراضي. لمزيد من المعلومات حول هذه التبعية، راجع [متطلبات تشغيل وظائف Office الإضافية](https://docs.microsoft.com/office/dev/add-ins/concepts/requirements-for-running-office-add-ins#client-requirements-windows-desktop-and-tablet).
+- على عملاء Windows، يجب تثبيت Internet Explorer 11 وتمكينه ولكن ليس بالضرورة المستعرض الافتراضي. لمزيد من المعلومات حول هذه التبعية، راجع [متطلبات تشغيل وظائف Office الإضافية](/office/dev/add-ins/concepts/requirements-for-running-office-add-ins#client-requirements-windows-desktop-and-tablet).
 
 ### <a name="required-privileges"></a>الامتيازات المطلوبة
 
-توفر تطبيقات Dynamics 365 Customer Engagement إمكانية الوصول إلى تطبيق Dynamics 365 App for Outlook من خلال امتياز **استخدام Dynamics 365 App for Outlook**. إذا لم يكن لدى المستخدم هذا الامتياز، فسيتلقى الخطأ التالي:
+توفر تطبيقات Dynamics 365 Customer Engagement إمكانية الوصول إلى تطبيق Dynamics 365 App for Outlook من خلال امتياز **استخدام Dynamics 365 App for Outlook** . إذا لم يكن لدى المستخدم هذا الامتياز، فسيتلقى الخطأ التالي:
 
 "غير مسموح لك باستخدام هذا التطبيق. تحقق مع مسؤول النظام لتحديث إعداداتك.
 
@@ -67,7 +67,7 @@ ms.locfileid: "6659085"
 
 اعتباراً من تحديث ديسمبر 2016 لـ Dynamics 365 (عبر الإنترنت والأماكن المحلية)، يمكنك استخدام التطبيق مع أي مجموعة من تطبيقات Dynamics 365 Customer Engagement أو تطبيقات Dynamics 365 Customer Engagement (المحلية) وكذلك Exchange Online أو Exchange Server (المحلي)، بما في ذلك التكوينات المختلطة.
 
-لمعرفة المزيد، راجع [التكوينات المعتمدة](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/deploy-dynamics-365-app-for-outlook#supported-configurations-with-microsoft-exchange) وكذلك [دعم الميزة لكل عميل](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/deploy-dynamics-365-app-for-outlook#feature-support-per-client).
+لمعرفة المزيد، راجع [التكوينات المعتمدة](/dynamics365/customer-engagement/outlook-app/deploy-dynamics-365-app-for-outlook#supported-configurations-with-microsoft-exchange) وكذلك [دعم الميزة لكل عميل](/dynamics365/customer-engagement/outlook-app/deploy-dynamics-365-app-for-outlook#feature-support-per-client).
 
 ### <a name="deploying-the-dynamics-365-app-for-outlook"></a>توزيع Dynamics 365 App for Outlook
 
@@ -75,7 +75,7 @@ ms.locfileid: "6659085"
 
 ### <a name="troubleshooting-installation-problems"></a>استكشاف أخطاء التثبيت وإصلاحها
 
-- إذا كنت لا ترى تطبيق Dynamics 365 App for Outlook عند النقر على الزر **إعدادات** ، فتحقق من تمكين الميزة. لمزيد من المعلومات، راجع [تمكين](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/deploy-dynamics-365-app-for-outlook#enable).
+- إذا كنت لا ترى تطبيق Dynamics 365 App for Outlook عند النقر على الزر **إعدادات** ، فتحقق من تمكين الميزة. لمزيد من المعلومات، راجع [تمكين](/dynamics365/customer-engagement/outlook-app/deploy-dynamics-365-app-for-outlook#enable).
 
 - إذا واجهت أنت أو المستخدمون لديك مشكلة في تثبيت Dynamics 365 App for Outlook، فقد يكون ذلك بسبب أن صندوق بريد Exchange الخاص بهم مرتبط حالياً بمؤسسة أخرى. يمكن لصندوق بريد Exchange (عنوان البريد الإلكتروني) مزامنة المواعيد وجهات الاتصال والمهام مع مؤسسة واحدة فقط، ويمكن للمستخدم الذي ينتمي إلى تلك المؤسسة فقط مزامنة المواعيد وجهات الاتصال والمهام مع صندوق بريد واحد في Exchange. يمكنك الكتابة فوق الإعداد المخزن في Exchange إذا أردت تغيير مؤسسة المزامنة الأولية. لمزيد من المعلومات، راجع [مقالة قاعدة المعارف هذه.](https://support.microsoft.com/help/3211627/incomingemailrejected-error-when-attempting-to-install-dynamics-365-app-for-outlook)
 
@@ -83,9 +83,9 @@ ms.locfileid: "6659085"
 
 تخصيص Dynamics 365 App for Outlook هو جزء من نطاق هذه الوحدة النمطية. إذا كنت ترغب في الحصول على مزيد من المعلومات حول عملية تخصيص التطبيق، فراجع الروابط التالية:
 
-- [تخصيص البطاقة المتعلقة بالتعقب](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/customize-the-track-regarding-card)
-- [تخصيص الكيانات التي تظهر في الإنشاء السريع](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/add-a-custom-entity-to-quick-create)
-- [تخصيص حقل البحث "بخصوص" لإضافة كيانات أو إزالتها](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/enable-a-custom-entity-to-appear-in-the-regarding-lookup)
-- [توسيع البحث في حقول البحث "بخصوص"](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/search-on-custom-field-regarding-lookup)
-- [تصفية الكيانات وطرق العرض التي تظهر في Dynamics 365 App for Outlook](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/filter-entities-and-views)
-- [القيود عند تخصيص التطبيق](https://docs.microsoft.com/dynamics365/customer-engagement/outlook-app/limitations-when-customizing-app-for-outlook)
+- [تخصيص البطاقة المتعلقة بالتعقب](/dynamics365/customer-engagement/outlook-app/customize-the-track-regarding-card)
+- [تخصيص الكيانات التي تظهر في الإنشاء السريع](/dynamics365/customer-engagement/outlook-app/add-a-custom-entity-to-quick-create)
+- [تخصيص حقل البحث "بخصوص" لإضافة كيانات أو إزالتها](/dynamics365/customer-engagement/outlook-app/enable-a-custom-entity-to-appear-in-the-regarding-lookup)
+- [توسيع البحث في حقول البحث "بخصوص"](/dynamics365/customer-engagement/outlook-app/search-on-custom-field-regarding-lookup)
+- [تصفية الكيانات وطرق العرض التي تظهر في Dynamics 365 App for Outlook](/dynamics365/customer-engagement/outlook-app/filter-entities-and-views)
+- [القيود عند تخصيص التطبيق](/dynamics365/customer-engagement/outlook-app/limitations-when-customizing-app-for-outlook)

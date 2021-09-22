@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 43c473ce7c559e6f96bc6b45e46c5d590accaf88
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 2df4f19dddf4193c0156fe9cf18244bc1e3fb7af770dc01f341c7d7df160deb4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658396"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121236"
 ---
 بالإضافة إلى طلب الدعم من خلال قنوات الدردشة المباشرة، تساعد القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service مؤسستك على توسيع عروض خدماتها لتشمل قنوات المشاركة الشائعة الأخرى مثل الرسائل القصيرة والرسائل عبر Facebook. تمنح الطبيعة غير المتزامنة لهذه القنوات العملاء المزيد من المرونة والراحة في التعامل مع مناديب الدعم وفق جداولهم الزمنية الخاصة.
 

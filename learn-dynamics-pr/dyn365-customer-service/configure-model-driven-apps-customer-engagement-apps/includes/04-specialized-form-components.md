@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1fd8d57c52466be8f8547de4bea1c0c1ffd40813
-ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+ms.openlocfilehash: 868cd1210495550221834cfe70b69e1e52b6ed848af12d8109982c346ee0e573
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659297"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121588"
 ---
 كما ذكرنا سابقاً، هناك العديد من مكونات النماذج المتخصصة المتاحة للتطبيقات التي تعتمد على النماذج. ويتضمن هذا الموضوع تفاصيل إضافية عن عدد من المواضيع الأكثر شيوعاً.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0de1003957c0f387f4e6aea6ecadb4d57c3f9cdd
-ms.sourcegitcommit: 9db0d6810f934f950330586e0abd41ea18b9a873
+ms.openlocfilehash: db2002adc57a26fc8fd1746c63f31fa6acc31bef4ae8b90315493a6c71f12ba9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059872"
 ---
 في Dynamics 365، يمكنك تصميم سير عمل في Dynamics 365 للهواتف أو Dynamics 365 لأجهزة الكمبيوتر اللوحية استناداً إلى المهام الشائعة التي يؤديها المستخدمون لديك. فمثلاً، إذا كانوا بحاجة إلى أداء سلسلة من خطوات المتابعة بعد اجتماعات العميل بانتظام، فأنشئ سير مهمة. عندما يلمس المستخدمون المهمة الجديدة في تطبيق الأجهزة المحمولة الخاص بهم، سيوجههم ذلك خلال المهام من البداية إلى النهاية حتى لا ينسوا خطوة مهمة.
 

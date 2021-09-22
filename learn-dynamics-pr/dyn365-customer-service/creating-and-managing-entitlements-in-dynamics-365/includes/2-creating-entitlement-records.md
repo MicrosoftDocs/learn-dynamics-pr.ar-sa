@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5852e898fadbdbb02283b2923d4153ac38938793
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 09870ef85397e6c556e210d9cdfd3fd046a3f537
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659208"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366642"
 ---
 قبل أن تنشئ المؤسسة استحقاقات لعملائها، يجب أن تفهم متى يمكن تطبيق استحقاق محدد. إضافة إلى ذلك، تحتاج إلى مراعاة الظروف المحددة التي تقرر المطلوب من الاستحقاق. وهذه المعلومات يمكن أن تساعد المؤسسة على تحديد شكل عرض الاستحقاق القياسي الذي تقدمه والحالات التي يحتمل أن يكون الاستحقاق القياسي غير مناسب لها. رغم اختلاف كل مؤسسة عن الأخرى واختلاف احتياجات الاستحقاق، سيوجد على الأرجح مسائل قياسية يمكن أن تساعد على توجيهك إلى الاتجاه الصحيح.
 
@@ -77,4 +77,4 @@ ms.locfileid: "6659208"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IJmq]
 
-للاطلاع على المزيد حول إنشاء الاستحقاقات، راجع [إنشاء استحقاق](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#create-an-entitlement).
+للاطلاع على المزيد حول إنشاء الاستحقاقات، راجع [إنشاء استحقاق](/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#create-an-entitlement).

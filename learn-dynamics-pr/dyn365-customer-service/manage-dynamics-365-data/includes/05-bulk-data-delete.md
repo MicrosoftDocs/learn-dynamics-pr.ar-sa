@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2845ccbdbcdc5378f655a7207747ab5592693fd4
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: 8f166653b26acb344693c825fab9bbaae1070c20f5393d47f750d27f6b7ffba1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6659195"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100763"
 ---
 يوفر الفيديو التالي نظرة عامة على ميزة الحذف المجمع للسجلات.
 

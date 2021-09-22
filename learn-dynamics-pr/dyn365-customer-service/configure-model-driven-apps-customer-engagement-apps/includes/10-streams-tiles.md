@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 479e4325eaa752edf95f112dec77f0df1c7e343b
-ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+ms.openlocfilehash: f5afcb2c95a5bb3898bb203f184a02aa8144ee90bca98e6d028b11ba2fa1e06e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659287"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116671"
 ---
 يمكن أن تكون لوحات معلومات التجربة التفاعلية مكان عمل شامل لمستخدمي التطبيق، مثل مندوبي الخدمة، للاطلاع على معلومات عبء العمل واتخاذ الإجراءات. إنها قابلة للتكوين بالكامل، وتستند إلى دور الأمان، وتقدم معلومات عبء العمل عبر تدفقات فورية متعددة. لا يحتاج مستخدمو لوحة المعلومات التفاعلية إلى تصفح التطبيق بحثاً عن صف معين ؛ يمكنهم التصرف عليها مباشرة من لوحة المعلومات.
 

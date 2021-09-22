@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.auto-create-records-hub.2-define-rules
+title: إعداد القواعد لإنشاء السجلات أو تحديثها تلقائيًا
+metadata:
+  title: إعداد القواعد لإنشاء السجلات أو تحديثها تلقائيًا
+  description: التعرف على القواعد والصفوف وأنواع الأنشطة.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: e551c996c54558daeaa3703c1345376101c754ce7be316d19a6a1b36b2043345
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7101454"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-define-rules.md)]"

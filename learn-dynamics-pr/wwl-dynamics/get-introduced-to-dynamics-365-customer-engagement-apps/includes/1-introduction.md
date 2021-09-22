@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: acd5d89b0cd31bf85e39ffce6e3f3c83e858bfd8
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7a68b0b34a2fb8f2b8f095de32a5a37717889f5af74064aa83465efa94b04ad3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7097293"
 ---
 تطبيقات مشاركة العملاء في Dynamics 365 هي تطبيقات أعمال تركز على العملاء وتستند إلى Microsoft Power Platform. وهي مصممة لمساعدة المؤسسات على إشراك عملائها بشكل أكثر فعالية. تساعد تطبيقات المبيعات والتسويق في تحديد توقعات المبيعات وتحويلها إلى علاقات طويلة الأمد. تساعد تطبيقاتنا التي تركز على الخدمة مؤسستك على خدمة عملائك، سواء كان لديك مركز اتصال أو مركز خدمة أو تقدم خدمة في هذا المجال. تضمن تطبيقات Dynamics 365 لمشاركة العملاء أن يكون لديك الأدوات اللازمة لإشراك عملائك بشكل كامل في جميع جوانب عملك.
 

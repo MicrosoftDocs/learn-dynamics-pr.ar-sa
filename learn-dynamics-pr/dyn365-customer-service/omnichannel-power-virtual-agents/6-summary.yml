@@ -8,12 +8,11 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-dyn365-customer-service
-  ms.openlocfilehash: 2b2d0f1110443c6dd876f7cec6536c880c6ae87e
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 071039a3215535ab330df2277e2856300481fe01
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658338"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335289"
 durationInMinutes: 1
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1db063089cc56bd547391448527d68a3f5f7620e
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0d9c24e303b5a3553f01b9bba37ee53c2ca7bcbd4ad41e8048ea5b4179c0780c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7137088"
 ---
 Microsoft Dynamics 365 for Customer Service يُقدّم مجموعة واسعة من الميزات المتعلقة بإدارة الحالة، لمساعدة المؤسسات في خدمة عملائها بعدة طرق، وذلك اعتماداً على احتياجات العملاء، ونموذج خدمة المؤسسة، وعوامل أخرى.
 

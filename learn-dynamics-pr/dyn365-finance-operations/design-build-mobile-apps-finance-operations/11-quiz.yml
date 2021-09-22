@@ -3,18 +3,18 @@ uid: learn-dynamics.design-and-build-mobile-apps-for-dynamics-365-finance-ops.11
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 03/08/2019
+  ms.date: 08/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 070fa4b3f7b16d3e1991df1d67323b56b96add36
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5b0773e33d40690518dfc8035919925bd0b2d3a1
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351799"
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7413207"
 title: اختبر معلوماتك
-durationInMinutes: 5
+durationInMinutes: 10
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
@@ -51,3 +51,25 @@ quiz:
     - content: استخدم تطبيق أجهزة محمولة مضمن للتحكم في التكلفة.
       isCorrect: false
       explanation: يمكن لمديري مركز التكلفة عرض أداء مركز التكلفة باستخدام تطبيق الأجهزة المحمولة للتحكم في التكاليف. لا يقوم تطبيق الأجهزة المحمولة بمعالجة المتطلبات في السؤال.
+  - content: ما هو اسم العملية المستخدمة لتحديث البيانات أو بيانات التعريف داخل أحد تطبيقات الأجهزة المحمولة؟
+    choices:
+    - content: سحب للتحديث
+      isCorrect: true
+      explanation: يمكنك استخدام عملية السحب للتحديث في تطبيق الأجهزة المحمولة لجعل تطبيق الأجهزة المحمولة يقوم بتحديث بياناته أو بيانات التعريف الخاصة به في أي وقت. بعد تحرير مساحة عمل موجودة أو نشر مساحة عمل، تذكر أن تقوم بالسحب للتحديث في تطبيق الهاتف المحمول.
+    - content: Application Object Server ‏(AOS)
+      isCorrect: false
+      explanation: يُستخدم Application Object Server (AOS) لتطبيقات لمشاركة كائنات التطبيق والمعلومات كأداة فعالة لزيادة أداء التطبيق.
+    - content: انتقل إلى "الإعدادات"، وقم بتمكين التحديث التلقائي.
+      isCorrect: false
+      explanation: لا توجد ميزة "تمكين التحديث التلقائي" المتوفرة حاليًا في Dynamics 365 فيما يتعلق بتطبيقات الأجهزة المحمولة.
+  - content: هل من الممكن أن يعمل تطبيق الهاتف المحمول في وضع عدم الاتصال؟
+    choices:
+    - content: نعم، يمكن دائمًا تشغيل تطبيق الهاتف المحمول في وضع عدم الاتصال.
+      isCorrect: false
+      explanation: اعتمادًا على كيفية تصميم التطبيق، قد يضطر التطبيق إلى المزامنة مع الخادم لمواصلة العمليات.
+    - content: لا ، لا يمكنها أبدًا العمل في وضع عدم الاتصال.
+      isCorrect: false
+      explanation: تعمل تطبيقات الأجهزة المحمولة بشكل أفضل مع اتصال إنترنت نشط لتحقيق التزامن مع الخادم.
+    - content: وهذا مشروط.
+      isCorrect: true
+      explanation: في حاله عدم وجود أية إجراءات لمزامنتها مع الخادم، وإذا كانت ذاكره التخزين المؤقت للبيانات المحلية محدثة، فلن يتصل تطبيق الجوال بخادم تطبيقات Finance and Operations كمستخدم يتنقل في التطبيق (إلا إذا قام المستخدم بتشغيل عملية سحب صريح للتحديث). من المهم أن تحتفظ بنمط تدفق البيانات هذا في ذهنك أثناء تصميم الصفحات والإجراءات في تطبيق الأجهزة المحمولة.

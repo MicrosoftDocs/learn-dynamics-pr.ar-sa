@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c19e6d29deaf0068fb48fbbffa5734d6b3f41836
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 66813cc1a604a2b397c7c31700d0f44d2eac6b9f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658472"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7333474"
 ---
 كما يعمل مندوبون مع العملاء، والمعلومات التي ترتبط المحادثة يمكن أن تكون مفيدة في توفير السياق الذي يضمن أن مندوب يمكن أن توفر للعملاء مع أفضل تجربة وأكثر تخصيص ممكن. على سبيل المثال، إذا بدأ عميل يُدعى Kenny Smith محادثة، فيجب أن يرى المندوب برنامجاً نصياً مخصصاً للترحيب، مثل "مرحباً، **Kenny**. شكراً لك على الاتصال بنا، اسمي هو **اسم المندوب**. كيف يمكنني مساعدتك اليوم؟" تأخذ التحية المخصصة معلومات سياقية، مثل العميل والمندوب، لإنشاء تجربة مخصصة.
 
@@ -43,4 +43,4 @@ ms.locfileid: "6658472"
 
 - **القيم الثابتة** - القيم ذات الترميز الثابت التي تقوم بتحديثها وفقاً لمتطلبات عملك.
 
-لمزيد من المعلومات، راجع [استخدام قاموس التنفيذ التلقائي لتمرير مفاتيح معلمات البيانات](https://docs.microsoft.com/dynamics365/omnichannel/administrator/automation-dictionary-keys#automation-dictionary-formats-to-pass-data-parameter-keys/?azure-portal=true).
+لمزيد من المعلومات، راجع [استخدام قاموس التنفيذ التلقائي لتمرير مفاتيح معلمات البيانات](/dynamics365/omnichannel/administrator/automation-dictionary-keys?azure-portal=true#automation-dictionary-formats-to-pass-data-parameter-keys/).

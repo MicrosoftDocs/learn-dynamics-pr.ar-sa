@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 322b6f23136333bfe487ec3e3f0ae5c8285470f1
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: 0422262a97818d5d7461caaa0de4ae32320693b6
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659220"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7330386"
 ---
 عندما تبدأ مؤسسة في تصميم SLAs لتلبية متطلبات مؤشرات الأداء الرئيسية (KPI)، تجب عليها مراعاة الساعات التي تقدم خلالها الدعم لعملائها.
 
@@ -38,7 +38,7 @@ ms.locfileid: "6659220"
 
 ![تمت إضافة لقطة شاشة لقائمة إجازات الولايات المتحدة.](../media/SLA-Unit2-1.png)
 
-للاطلاع على المزيد حول تحديد جداول الإجازات، راجع [إنشاء جداول الإجازات وإدارتها](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/set-up-holiday-schedule)
+للاطلاع على المزيد حول تحديد جداول الإجازات، راجع [إنشاء جداول الإجازات وإدارتها](/dynamics365/customer-engagement/customer-service/set-up-holiday-schedule)
 
 ## <a name="customer-service-calendars"></a>تقويمات خدمة العملاء
 
@@ -67,6 +67,6 @@ ms.locfileid: "6659220"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IGDJ]
 
-للاطلاع على المزيد حول تحديد جداول الخدمة، راجع [إنشاء جدول خدمة العملاء وتحديد ساعات العمل](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-customer-service-schedule-define-work-hours).
+للاطلاع على المزيد حول تحديد جداول الخدمة، راجع [إنشاء جدول خدمة العملاء وتحديد ساعات العمل](/dynamics365/customer-engagement/customer-service/create-customer-service-schedule-define-work-hours).
 
 بعد إعداد كافة تقويمات الخدمة الضرورية للمؤسسة، يمكنك البدء في تحديد SLAs في التطبيق.

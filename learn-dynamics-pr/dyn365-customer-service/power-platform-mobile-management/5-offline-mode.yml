@@ -8,14 +8,14 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: ef403d68207c1b12db3a28f0483e25bc77e4dd6c
-  ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+  ms.openlocfilehash: 2f4338a5e119aae468e6c6c3ff73eae119828457
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2021
-  ms.locfileid: "6659267"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7344628"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

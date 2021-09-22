@@ -8,13 +8,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: ebc79f22403fe6885d7706ed5d296c8ae8252b47
-  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.service: dynamics-365-customer-service
+  ms.openlocfilehash: 99423c7a9c049b65614153a4a6cd488f1fee8957
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6660490"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365278"
 azureSandbox: false
 durationInMinutes: 3
 content: '[!include[](includes/4-view-remote-device-management-connected.md)]'

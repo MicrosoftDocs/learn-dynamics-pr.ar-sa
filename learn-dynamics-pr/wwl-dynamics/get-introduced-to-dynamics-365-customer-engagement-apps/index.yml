@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 49ea68ee91c424bef39be39e17fde0a2c077cb6d
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: dcba5172f624e20ef4164182670bd4ccd5e6cb18
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6658543"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7342069"
 title: تعرف على تطبيقات إشراك العملاء
 summary: تشرح هذه الوحدة تطبيقات إشراك العملاء في Dynamics 365 وميزاتها المشتركة، بما في ذلك التكامل والإبلاغ والبحث.
 abstract: >

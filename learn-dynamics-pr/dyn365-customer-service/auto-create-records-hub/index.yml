@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.auto-create-records-hub
+metadata:
+  title: إنشاء أو تحديث السجلات تلقائيًا في مركز خدمة العملاء
+  description: تعرف على كيفية إنشاء السجلات باستخدام وظائف قواعد التحديث والإنشاء التلقائية. بالإضافة إلى ذلك، ستتعلم كيفية استخدام شروط متعددة في قاعدة واحدة لإنشاء سجلات بشكل مختلف بناءً على النتائج.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 58d0a5bb0386690c88bf2a72751deeb0eb98c74a272b2af03f8705b5e40ebe5d
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7064629"
+title: إنشاء أو تحديث السجلات تلقائيًا في مركز خدمة العملاء
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء السجلات باستخدام وظائف قواعد التحديث والإنشاء التلقائية. بالإضافة إلى ذلك، ستتعلم كيفية استخدام شروط متعددة في قاعدة واحدة لإنشاء سجلات بشكل مختلف بناءً على النتائج.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تتعرف على الإنشاء التلقائي للسجلات ومراجعة الحالات التي يمكنك استخدامها فيها.\n- تراجع عملية تحديد القواعد باستخدام تطبيق مركز خدمة العملاء.\n- تدرس عناصر القاعدة، وكيفية استخدامها داخل القاعدة، وعملية تحديدها داخل القاعدة.\n- تعرف على كيفية استخدام Microsoft Power Automate لإنشاء السجل في التطبيق. \n- تعرف على كيفية تكوين تدفق Power Automate لتعيين جهة اتصال يدويًا.\n- استكشف كيفية استخدام مراقب النشاط لمراجعة حالة القواعد التي تتم معالجتها.\n"
+prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics 365 Customer Service
+iconUrl: /learn/achievements/auto-create-records-hub.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.auto-create-records-hub.1-introduction
+- learn-dynamics.auto-create-records-hub.2-define-rules
+- learn-dynamics.auto-create-records-hub.3-rule-items
+- learn-dynamics.auto-create-records-hub.4-map-records
+- learn-dynamics.auto-create-records-hub.5-activate-rule
+- learn-dynamics.auto-create-records-hub.6-activity-monitor
+- learn-dynamics.auto-create-records-hub.7-check
+- learn-dynamics.auto-create-records-hub.8-summary
+badge:
+  uid: learn-dynamics.auto-create-records-hub.badge

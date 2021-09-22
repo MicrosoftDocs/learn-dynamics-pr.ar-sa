@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c4d9e4810f9ab9a9c084587a5854178f5fd07673
-ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
+ms.openlocfilehash: 69803f1b297352b30cc967dece57f49b4cfc36f485ea2ee43ba15b3850ae9d5d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6658467"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7143225"
 ---
 واحدة من أكثر الشكاوى شيوعاً لدى العملاء حول الدعم هي تكرار نفس المعلومات عدة مرات أثناء العملية. بشكل عام، عندما يتم تحويل العملاء أثناء مكالمة، يتعين عليهم تكرار اسمهم أو ملخص المشكلات أو البيانات الأخرى ذات الصلة إلى المندوب التالي. يمكن أن يصبح هذا التكرار أكثر صعوبة للعملاء عندما يتواصلون مع المشكلة من قناة أخرى.
 

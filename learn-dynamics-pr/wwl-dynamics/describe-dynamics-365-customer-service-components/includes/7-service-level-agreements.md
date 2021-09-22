@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c7216dd503d5bd363fd7a841f2ea7fc609930d8
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 64d00dbd1c9ffaa50afd914aba11ba658dd1616006d2c4c06b67e57b6b9080f0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660574"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081092"
 ---
 بوصفك مؤسسة داعمة، فإنك تريد ضمان تلبيتك احتياجات عملائك بالإضافة إلى الوفاء بالوعود التي قطعتها لهم. تتجسد إحدى الطرق التي تحقق بها المؤسسات ذلك في توفير اتفاقيات دعم لعملائها. توفر اتفاقية الدعم للعميل مقدارًا محددًا من الدعم خلال فترة محددة. على سبيل المثال، قد يحق للعميل الحصول على 10 ساعات من الدعم عبر الهاتف على مدى فترة ستة أشهر، أو قد يتمكن من فتح 15 حالة تتعلق بمنتج معين.
 

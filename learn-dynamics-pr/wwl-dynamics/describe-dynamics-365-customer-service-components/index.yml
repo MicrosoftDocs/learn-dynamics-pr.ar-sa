@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 1816548e47a5d89959b0c9f2e7658c7295caad91
-  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 51017de57b1597ecbf9648fe7feb81a8195ce371
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6660317"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7350270"
 title: وصف مكونات Dynamics 365 Customer Service
 summary: ستتعرف في هذه الوحدة على كيفية تنفيذ عمليات خدمة العملاء المحددة في Dynamics 365 Customer Service.
 abstract: >

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c571ac4efac144ff75d140969e87b9081c130086
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 7fc9b11a7356045f4c0f624f34ccb1aa463534a0392f6694730c30276f2d388f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658562"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7085899"
 ---
 كما ذكرنا سابقًا، يمثل العميل فردًا أو شركة تتلقى منتجًا أو خدمة أو تستهلكها أو تشتريها.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 09b3cd0fb1561bdeef9cfdc317d57e4a78db6646
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: e63643c64e43c222e00ebfbc93262a46fc95534e3e6499e855fe4cd17842385b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659240"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059991"
 ---
 تم تصميم تطبيق مركز خدمة العملاء في Microsoft Dynamics 365باستخدام واجهة Dynamics 365 الموحدة. لا يسهّل مركز خدمة العملاء على ممثلي خدمة العملاء العمل مع حالاتهم وإدارتها في التطبيق فحسب، بل يساعد أيضاً في ضمان حصول جميع الممثلين على تجربة المستخدم نفسها، بغض النظر عن النظام الأساسي الذي يستخدمونه: الهاتف، الجهاز اللوحي، أو الكمبيوتر الشخصي.
 

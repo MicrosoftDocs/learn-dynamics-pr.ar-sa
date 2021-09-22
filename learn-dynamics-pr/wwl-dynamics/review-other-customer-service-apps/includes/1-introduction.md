@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6e9a6f96f25cc44f6460b88b7a7c26d3db2c0403
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 1362aa206489539a1fa0da27888e3ba26add446def326e9049a1ff4ff27210c9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660464"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7123989"
 ---
 توفر قدرات إدارة الحالات المتوفرة في Dynamics 365 Customer Service أساساً متيناً للمؤسسة لإنشاء وإدارة مشكلات الدعم التي لدى عملائها. في بعض الأحيان، ومع ذلك، تحتاج إلى أكثر من الوظائف الأساسية المقدمة بشكل افتراضي في Dynamics 365 Customer Service لتلبية احتياجات موظفيك وعملائك.
 

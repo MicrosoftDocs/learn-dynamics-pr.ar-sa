@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a8daf4f7fb0208b12e6016353318846a2cecf24d
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 11df2942c32d77008faf0021a1bebc5e770d895c374afc209d669a1c281d613f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659211"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7060318"
 ---
 تعمل التمارين على نحو أفضل عندما يكون لديك بعض البيانات النموذجية للعمل بها. اعتماداً على البيئة التي تعمل بها، قد ترغب في تثبيت بعض البيانات النموذجية للمساعدة في التمارين. يوفر Dynamics 365 القدرة على إضافة بيانات نموذجية حسب الحاجة. إذا لم تتوفر لدى البيئة التي تعمل بها أية بيانات نموذجية مثبتة، فاتبع الخطوات التالية لتثبيت البيانات النموذجية في بيئتك.
 

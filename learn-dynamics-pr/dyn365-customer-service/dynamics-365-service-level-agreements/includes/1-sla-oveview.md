@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0052f42c3fc168c584d519ae0d61bb370b98de48
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: 3f13a744f189fd216d032ef94cc52ca1f1266bec6fe1ae6368407ac6bea3e787
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659221"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075907"
 ---
 تقوم المؤسسات المستندة إلى خدمة العملاء بتعقب رضا العملاء والتميز عن مؤسسات الخدمات الأخرى بطرق منها تحديد مؤشرات الأداء الرئيسية (KPI) وتعقبها. مؤشر الأداء الرئيسي هو قيمة قابلة للقياس توضح فعالية الشركة في تحقيق أهداف الأعمال المهمة. وتستخدم مؤسسات مؤشرات الأداء الرئيسية (KPI) لتقييم مدى نجاحها في تحقيق أهدافها.
 

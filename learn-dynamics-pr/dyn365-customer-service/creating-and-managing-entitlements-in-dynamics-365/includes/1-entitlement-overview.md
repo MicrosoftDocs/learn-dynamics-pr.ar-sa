@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bbb38a2421c24e647d6994c2a6b485c75f66c1f5
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 3eef091dff26799f0b258e5a4dbdfb260f515879d19ff2337a0f73d9a9643607
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659215"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131660"
 ---
 تقوم المؤسسات القائمة على الخدمات في العادة بتوفير عقود خدمات تؤهل عملائها للحصول على مبلغ مخصص من الدعم على مدى فترة محددة. قد يكون مقدار الدعم عدداً محدداً من الحالات أو فترة زمنية محددة.
 

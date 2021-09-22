@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0af7d010a7f75378e3ddfbc537e76290fe5654c5
-ms.sourcegitcommit: 500f30aa3428eca16f3c2131ccf477d58bc2ef04
+ms.openlocfilehash: f03cf618fe8519cc6e50cdce1ca8e82e8bcc5513
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6658489"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7330338"
 ---
 من خارج الصندوق، يتم تكوين قوائم الانتظار مسبقاً للحالات والأنشطة فقط. أنها توفر قيمة هائلة لسيناريوهات الأعمال المحددة في Microsoft Dynamics ‏365. يمكنك استخدام قوائم الانتظار لتحسين الأنشطة المتعلقة بالمبيعات وتبسيطها، أو لتوفير معالجة أفضل وأسرع لعمليات الفحص أو الأعمال الورقية أو التطبيقات.
 
@@ -21,7 +21,7 @@ ms.locfileid: "6658489"
 > [!IMPORTANT]
 > نظرا لأن تخصيص النظام مطلوب لإعداد كيانات أخرى لقوائم الانتظار، يجب أن يكون لديك امتيازات التخصيص المناسبة في مؤسسة Dynamics 365.
 
-لمزيد من المعلومات حول أدوار الأمان Dynamics 365، راجع [أدوار الأمان والامتيازات](https://docs.microsoft.com/dynamics365/customer-engagement/admin/security-roles-privileges).
+لمزيد من المعلومات حول أدوار الأمان Dynamics 365، راجع [أدوار الأمان والامتيازات](/dynamics365/customer-engagement/admin/security-roles-privileges).
 
 ## <a name="set-up-an-entity-to-use-queues"></a>إعداد كيان لاستخدام قوائم الانتظار
 

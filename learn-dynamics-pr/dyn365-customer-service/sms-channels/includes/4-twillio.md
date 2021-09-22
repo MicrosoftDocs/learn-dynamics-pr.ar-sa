@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b5624819c2daeb364d7812da3c3114badc179b4
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 5bb8485fe7d0557ec2c9e26edf750cf51f4b7e7a7ae5cb9583064ba9922f1561
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658474"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100623"
 ---
 قبل تحديد أرقام الهواتف التي ستستخدمها القناة متعددة الاتجاهات لـ Customer Service للتواصل مع العملاء، تحتاج إلى إعلام الحل بمن يوفر الوظائف. تتيح علامة التبويب **إعدادات SMS** لتدفق العمل معرفة موفر SMS الذي يتم استخدامه لإرسال الرسائل وتلقيها.
 

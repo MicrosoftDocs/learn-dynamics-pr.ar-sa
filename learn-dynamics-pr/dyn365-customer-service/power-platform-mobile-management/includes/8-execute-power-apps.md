@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c7413151c7bee577e48f3887ba317f6444479379
-ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+ms.openlocfilehash: df90bbdf34c225c0e28925eab03eaf0495cad3d92fe5c0b4814f95bd34650de0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054139"
 ---
 Power Apps عبارة عن مجموعة من التطبيقات والخدمات والموصّلات ونظام أساسي للبيانات توفر بيئة تطوير سريعة للتطبيقات لإنشاء تطبيقات مخصَّصة تلبي احتياجات عملك. يمكنك باستخدام Power Apps الإسراع في إنشاء تطبيقات أعمال مخصّصة تتصل ببيانات عملك المخزَّنة *إما* في النظام الأساسي للبيانات الأساسية (Microsoft Dataverse للتطبيقات) *أو* في مصادر البيانات المختلفة على الإنترنت والمحلية (SharePoint، وExcel، وMicrosoft 365، وDynamics 365، وSQL Server، وما إلى ذلك).
 
@@ -20,11 +20,11 @@ Power Apps عبارة عن مجموعة من التطبيقات والخدمات
 
 يمكن أن تكون تطبيقات اللوحة أي شيء في الأساس، لذا لا توجد وثائق تعليمات كثيرة حول كيفية استخدام تطبيق بمجرد إنشائه. إذا احتجتَ إلى المساعدة في استخدام تطبيق لوحة، فاتصل بمنشئ التطبيق أو مسؤول Power Apps.
 
-تستخدم [التطبيقات المستندة إلى النموذج](/powerapps/maker/model-driven-apps/model-driven-app-overview) [الواجهة الموحّدة](/powerapps/user/unified-interface) التي توفر تصميماً متجاوباً ويمكن الوصول إليه. يمكنك تشغيل التطبيق على مستعرض ويب أو على أجهزة محمولة رائجة. يتضمن التطبيق مكونات متعددة منها لوحات المعلومات والنماذج وطرق العرض والمخططات وعمليات الأعمال التي تساعد معاً على تسهيل استخدام التطبيق. يتم إنشاء التطبيقات المستندة إلى النموذج ونمذجتها على إطار عمل Microsoft Dynamics 365 Customer Engagement، ومن ثمّ تكون تجربة المستخدم مشابهة لتطبيقات Dynamics 365 Customer Engagement [](/dynamics365/customer-engagement/basics/business-apps-dynamics-365).
+تستخدم [التطبيقات المستندة إلى النموذج](/powerapps/maker/model-driven-apps/model-driven-app-overview) [الواجهة الموحّدة](/powerapps/user/unified-interface) التي توفر تصميماً متجاوباً ويمكن الوصول إليه. يمكنك تشغيل التطبيق على مستعرض ويب أو على أجهزة محمولة رائجة. يحتوي التطبيق على مكونات متعددة بما في ذلك لوحات المعلومات والنماذج وطرق العرض والمخططات وعمليات الأعمال التي تساعد جميعها معًا في جعل التطبيق سهل الاستخدام. يتم إنشاء التطبيقات المستندة إلى النموذج وتصميمها وفقًا لإطار عمل Microsoft Dynamics 365 Customer Engagement، لذا فإن تجربة المستخدم تشبه  [تطبيقات](/dynamics365/customer-engagement/basics/business-apps-dynamics-365) Dynamics 365 Customer Engagement.
 
-### <a name="whats-required-to-run-apps"></a>ما العناصر المطلوبة لتشغيل التطبيقات؟
+### <a name="whats-required-to-run-apps"></a>ما المطلوب لتشغيل التطبيقات؟
 
-- ضمان أنك تستخدم [نظاماً أساسياً مدعوماً ومستعرضاً مدعوماً على الجهاز](/powerapps/maker/canvas-apps/limits-and-config).
+- تأكد من أنك تستخدم  [نظامًا أساسيًا ومستعرضًا معتمدًا للجهاز](/powerapps/maker/canvas-apps/limits-and-config).
 - لتشغيل تطبيقات اللوحة، نزّل Power Apps وثبّته من [App Store](https://itunes.apple.com/app/powerapps/id1047318566?mt=8) أو [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.msapps).
 - لتشغيل التطبيقات المستندة إلى النموذج:
 

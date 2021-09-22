@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f4fd91771eca88962291be1b5e9d3cb8f61a3360
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 97a37de20c3c8df4a33e2033410798be66fcb76b27c4d2273c6a277e4f805640
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659069"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7137326"
 ---
 تتيح ميزة اتفاقية مستوى الخدمة من Dynamics 365 للمؤسسات تحديد مستوى معين من الخدمة وتقديمه بوضوح لعملائها استناداً إلى مؤشرات الأداء الرئيسية (KPI) المحدّدة مسبقاً. يمكن لSLAs تقييم تفاصيل محدّدة في سجل ما والتطبيق والمساعدة في إنفاذ مؤشر الأداء الرئيسي (KPI) الصحيح لتلك الحالة.
 

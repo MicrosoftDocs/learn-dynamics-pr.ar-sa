@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 110a394ba7574fe2372e47f667de485ea1c822f7
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: c75aae3da64831d80e6d0c2a1e80076871df489e2070763a7e836ac17cd31438
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6659190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100820"
 ---
 يقدم الفيديو التالي نظرة عامة على خيارات تصدير البيانات.
 

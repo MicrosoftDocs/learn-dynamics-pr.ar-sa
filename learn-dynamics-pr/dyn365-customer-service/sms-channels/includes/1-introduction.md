@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ec56a88c7b4beb57918de930752e02294e387b4
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 7caab7b4996313dc60c1f5b12f8275ddcef175cf
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658470"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7352807"
 ---
 بالنظر إلى انتشار الاتصالات القائمة على النصوص اليوم، فمن المنطقي أن يستخدم العملاء رسائل خدمة الرسائل القصيرة (SMS) لبدء طلبات الدعم مع مؤسسات الدعم. يضمن توفير خيار الاتصال عبر الرسائل القصيرة لعملائك إمكانية الاتصال بمؤسستك، حتى في السيناريوهات التي لا يتوفر فيها اتصال بالإنترنت. عندما تقرر إحدى المؤسسات ما إذا كانت ستستخدم دعم الرسائل القصيرة، فإنها تحتاج إلى مراعاة الاختلافات عن القنوات الأخرى. أحد أهم العوامل التي يجب مراعاتها هو طول محادثات الرسائل القصيرة. على عكس المحادثات عبر قنوات المحادثة المباشرة حيث يكون الاتصال في الوقت الفعلي، يمكن أن تستمر محادثات دعم الرسائل القصيرة لفترة أطول. قد لا يستجيب العملاء للمندوبين بأسرع ما يمكنهم في المحادثة المباشرة. من المهم أن تأخذ مؤسستك هذا العامل في الاعتبار عند نشر دعم قناة الرسائل القصيرة.
 
@@ -25,7 +25,7 @@ ms.locfileid: "6658470"
 
 المراسلة الرقمية في Dynamics 365 for Customer Service عبارة عن اشتراك إضافي يمنح المندوبون القدرة على التواصل مع العملاء من خلال موفري المراسلة الرقمية. إنها خدمة مطلوبة لتمكين قنوات دعم الرسائل القصيرة في مؤسسات Dynamics 365. يتم تمكين قدرات الرسائل القصيرة من خلال صفحة **إدارة مثيلات القناة متعددة الاتجاهات**.
 
-لمزيد من المعلومات، راجع [تمكين إمكانات الرسائل القصيرة](https://docs.microsoft.com/dynamics365/omnichannel/administrator/omnichannel-provision-license?azure-portal=true#provision-omnichannel-for-customer-service-application). 
+لمزيد من المعلومات، راجع [تمكين إمكانات الرسائل القصيرة](/dynamics365/omnichannel/administrator/omnichannel-provision-license?azure-portal=true#provision-omnichannel-for-customer-service-application). 
 
 ## <a name="obtain-a-telesign-or-a-twilio-account"></a>الحصول على حساب TeleSign أو Twilio
 

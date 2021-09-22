@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c0c1450fd2404edbe8961094788500a441255a99
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: cf8919f3422eaf52cf93a21cb1409462e77bceac
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659237"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334381"
 ---
 لنتعرف على كيفية استخدام هذه الميزات في حل حالة أرسلها أحد العملاء.
 
@@ -36,9 +36,9 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
     - يتم إغلاق الحالة على أنها محلولة.
     - يتم تجميع الوقت الإجمالي لجميع الأنشطة ليعكس مقدار الوقت المستغرق في هذه المشكلة (إجمالي ساعة واحدة في هذا المثال).
 
-للاطلاع على مزيد من المعلومات عن تطبيق مركز خدمة العملاء، راجِع [دليل المستخدم (مركز خدمة العملاء)](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/user-guide-customer-service-hub).
+للاطلاع على مزيد من المعلومات عن تطبيق مركز خدمة العملاء، راجِع [دليل المستخدم (مركز خدمة العملاء)](/dynamics365/customer-engagement/customer-service/user-guide-customer-service-hub).
 
-للاطلاع على معلومات أكثر عن أنشطة الحالة، راجِع [إضافة نشاط إلى حالة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/user-guide-customer-service#add-an-activity-to-a-case).
+للاطلاع على معلومات أكثر عن أنشطة الحالة، راجِع [إضافة نشاط إلى حالة](/dynamics365/customer-engagement/customer-service/user-guide-customer-service#add-an-activity-to-a-case).
 
 ## <a name="parentchild-cases"></a>الحالات الأصل/التابعة
 
@@ -67,7 +67,7 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
 
 يمكن لمسؤولي/مخصِّصي النظام تحديد إعدادات مؤسسة ما للحالات الأصل/التابعة من خلال الانتقال إلى **إعدادات** \> **إدارة الخدمة** وتحديد إعدادات الحالات الأصل والتابعة.
 
-للاطلاع على معلومات أكثر عن الحالات الأصل والتابعة، راجِع[إنشاء الحالات الأصل والتابعة وإدارتها](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/user-guide-customer-service#create-and-manage-parent-and-child-cases).
+للاطلاع على معلومات أكثر عن الحالات الأصل والتابعة، راجِع[إنشاء الحالات الأصل والتابعة وإدارتها](/dynamics365/customer-engagement/customer-service/user-guide-customer-service#create-and-manage-parent-and-child-cases).
 
 ## <a name="case-merging"></a>دمج الحالات
 
@@ -100,4 +100,4 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IM1e]
 
-للاطلاع على معلومات أكثر عن دمج الحالات، راجِع [دمج الحالات المشابهة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/user-guide-customer-service#merge-similar-cases).
+للاطلاع على معلومات أكثر عن دمج الحالات، راجِع [دمج الحالات المشابهة](/dynamics365/customer-engagement/customer-service/user-guide-customer-service#merge-similar-cases).

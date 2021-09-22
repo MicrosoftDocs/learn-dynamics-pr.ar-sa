@@ -7,14 +7,14 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 063285932c051cbdc31b70ba8dd120d8db86d383
-  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.openlocfilehash: 116566fd3e2d15e77558061b612436f294d8529d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6659334"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7324670"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

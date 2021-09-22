@@ -8,12 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-voice
-  ms.openlocfilehash: 47f3dcdecaeef23e9c6939f16c32bf0cae0bb89d
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 7fea053961b54285bb7c6433e18a141e5ea02fee
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658409"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7356862"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-configure-facebook-channel.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: af90ff72282ed4f648f40e507769954a64343cce
-ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+ms.openlocfilehash: 70c3b0b07dd518c0a0ed78b19b7c5cb531b476ea
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "6658516"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7354742"
 ---
 تتيح لك القناة متعددة الاتجاهات Dynamics 365 Customer Service تكوين قنوات اتصال Twitter للاستفادة من اتجاه الوسائط الاجتماعية والتفاعل مع عملائك في تجربة مُخصّصة.
 
@@ -12,13 +12,13 @@ ms.locfileid: "6658516"
 
 قبل أن تتمكن من استخدام أي منصات مراسلة اجتماعية في القناة متعددة الاتجاهات لـ Customer Service، تأكد من إجراء المراسلة الاجتماعية من خلال صفحة **إدارة مثيلات القناة متعددة الاتجاهات**.
 
-لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/administrator/omnichannel-provision-license#provision-omnichannel-for-customer-service-application/?azure-portal=true).
+لمزيد من المعلومات، راجع [توفير القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/administrator/omnichannel-provision-license?azure-portal=true#provision-omnichannel-for-customer-service-application/).
 
 لاستخدام Twitter، يجب أن يكون لدى المؤسسات المعايير التالية مُعدَّة في Twitter:
 
 - A Twitter handle: [إنشاء وإدارة ملف شخصي لنشاطك التجاري على Twitter](https://business.twitter.com/en/basics/create-a-twitter-business-profile.html/?azure-portal=true)
 
-- تمكين الرسالة الخاصَّة Twitter handle الخاص بك: [تمكين الرسالة الخاصَّة](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-twitter-channel/?azure-portal=true)
+- تمكين الرسالة الخاصَّة Twitter handle الخاص بك: [تمكين الرسالة الخاصَّة](/dynamics365/omnichannel/administrator/configure-twitter-channel/?azure-portal=true)
 
 - أنشئ تطبيق Twitter: [تطوير تطبيق Twitter](https://developer.twitter.com/en/docs/basics/apps/overview/?azure-portal=true)
 

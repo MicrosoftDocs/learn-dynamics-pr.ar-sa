@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a048835866456f2e613224f9fa091decf70b95c5
-ms.sourcegitcommit: 9db0d6810f934f950330586e0abd41ea18b9a873
+ms.openlocfilehash: f5a9c63a6c2ec784d404a8ccc7f7e07cbae72265
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658484"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7346216"
 ---
 ## <a name="enable-a-chat-channel-for-transcripts"></a>تمكين قناة محادثة للنسخ المكتوبة
 
@@ -75,5 +75,5 @@ ms.locfileid: "6658484"
 
 يتم تحديد حد حجم الملف للمرفقات وأنواع الملفات غير المدعومة في عميل الويب.
 
-يتوفر مزيد من المعلومات حول [كيفية تكوين حدود حجم الملف وأنواع الملفات غير المدعومة](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-file-attachment/?azure-portal=true). 
+يتوفر مزيد من المعلومات حول [كيفية تكوين حدود حجم الملف وأنواع الملفات غير المدعومة](/dynamics365/omnichannel/administrator/configure-file-attachment/?azure-portal=true). 
 

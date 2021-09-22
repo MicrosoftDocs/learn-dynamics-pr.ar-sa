@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4424f4b03cea347abd7d6826b21a6445b7018748
-ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
+ms.openlocfilehash: 7e2e17849fabe9c247dbad9f91b71ba8057bbf93
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "6659255"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326689"
 ---
 في هذا الموضوع، سوف نستكشف نقاط التوسعة في Dataverse المتاحة للمطورين. تضع بنية Dataverse بنية قائمة على الرسائل لمعالجة الطلبات. تتم معالجة كل رسالة طلب من خلال البنية الأساسية لبرنامج ربط العمليات التجارية للحدث والذي يحتوي على نقاط امتداد لتشغيل منطق عمل مخصص يتم تنفيذه بواسطة المكونات الإضافية. وهناك العديد من الرسائل المقدمة الجاهزة وفي كل مرة يتم فيها إنشاء جدول جديد تتم إضافة رسائل جديدة لدعم هذا الجدول. من خلال إنشاء API مخصصة، يمكنك أيضاً إنشاء رسالة جديدة.
 
@@ -14,11 +14,11 @@ ms.locfileid: "6659255"
 
 يوفر Dataverse نمطين من API التي يمكن للمطورين استخدامها للتفاعل مع البيانات: عنوان API للويب وخدمة Organization. فيما يلي نظرة عامة فاحصة لكل منهما:
 
--   **عنوان API للويب** - [عنوان API للويب](https://docs.microsoft.com/powerapps/developer/data-platform/webapi/overview/?azure-portal=true) متاح على نقطة نهاية OData v4 RESTful. استخدم هذا لأي لغة برمجة تدعم طلبات ومصادقة HTTP باستخدام OAuth 2.0. يمكنك الحصول على أمثلة [هنا](https://github.com/microsoft/PowerApps-Samples/tree/master/cds/webapi/C%23/?azure-portal=true).
+-   **عنوان API للويب** - [عنوان API للويب](/powerapps/developer/data-platform/webapi/overview/?azure-portal=true) متاح على نقطة نهاية OData v4 RESTful. استخدم هذا لأي لغة برمجة تدعم طلبات ومصادقة HTTP باستخدام OAuth 2.0. يمكنك الحصول على أمثلة [هنا](https://github.com/microsoft/PowerApps-Samples/tree/master/cds/webapi/C%23/?azure-portal=true).
 
--   **خدمة Organization** - [خدمة Organization](https://docs.microsoft.com/powerapps/developer/data-platform/org-service/overview/?azure-portal=true) هي .NET Framework SDK مع تجميعات NET المقدمة من Microsoft مع مولدات الفئات المكتوبة لفئات الجدول. عند الوصول إلى البيانات من أحد المكونات الإضافية، فهذه هي طريقة الوصول إلى البيانات. يتم إنشاء مثيل الخدمة وتوفيرها لرمز المكون الإضافي دون الحاجة إلى المصادقة. تتوفر الخدمة أيضاً للاستخدام على عميل Windows. يمكنك الحصول على أمثلة [هنا](https://github.com/microsoft/PowerApps-Samples/tree/master/cds/orgsvc/C%23/?azure-portal=true).
+-   **خدمة Organization** - [خدمة Organization](/powerapps/developer/data-platform/org-service/overview/?azure-portal=true) هي .NET Framework SDK مع تجميعات NET المقدمة من Microsoft مع مولدات الفئات المكتوبة لفئات الجدول. عند الوصول إلى البيانات من أحد المكونات الإضافية، فهذه هي طريقة الوصول إلى البيانات. يتم إنشاء مثيل الخدمة وتوفيرها لرمز المكون الإضافي دون الحاجة إلى المصادقة. تتوفر الخدمة أيضاً للاستخدام على عميل Windows. يمكنك الحصول على أمثلة [هنا](https://github.com/microsoft/PowerApps-Samples/tree/master/cds/orgsvc/C%23/?azure-portal=true).
 
-تدعم كل من APIs أساليبها الخاصة لبناء استعلامات البيانات بالإضافة إلى الدعم [FetchXML](https://docs.microsoft.com/powerapps/developer/data-platform/use-fetchxml-construct-query/?azure-portal=true). FetchXML هي لغة استعلام مملوكة يتم استخدامها في Dataverse. تسمح لغة FetchXML بصياغة الاستعلامات المعقدة عبر الجداول ذات الصلة واستخدام شروط وعوامل تشغيل Dataverse المحددة. يدعم موصل Power Automate Dataverse أيضاً FetchXML.
+تدعم كل من APIs أساليبها الخاصة لبناء استعلامات البيانات بالإضافة إلى الدعم [FetchXML](/powerapps/developer/data-platform/use-fetchxml-construct-query/?azure-portal=true). FetchXML هي لغة استعلام مملوكة يتم استخدامها في Dataverse. تسمح لغة FetchXML بصياغة الاستعلامات المعقدة عبر الجداول ذات الصلة واستخدام شروط وعوامل تشغيل Dataverse المحددة. يدعم موصل Power Automate Dataverse أيضاً FetchXML.
 
 ## <a name="event-pipeline"></a>البنية الأساسية لبرنامج ربط العمليات التجارية للحدث
 
@@ -27,7 +27,7 @@ ms.locfileid: "6659255"
 > [!div class="mx-imgBorder"]
 > [![يتم دعم المراحل كرسالة تبدأ من الأعلى وتتقدم عبر مراحل البنية الأساسية لبرنامج ربط العمليات التجارية.](../media/stages.png)](../media/stages.png#lightbox)
 
-يمكن أن يساعدك الفهم القوي لكيفية معالجة الرسائل على فهم السلوكيات، وكيفية تنفيذ المنطق المخصص والمكان الأفضل له. يعد فهم البنية الأساسية لبرنامج ربط العمليات التجارية ضرورياً أيضاً للتعرف على كيفية ملاءمة المكونات الإضافية وواجهات برمجة التطبيقات (APIs) المخصصة. يمكنك قراءة المزيد عن تفاصيل إطار عمل الحدث [هنا](https://docs.microsoft.com/powerapps/developer/data-platform/event-framework/?azure-portal=true).
+يمكن أن يساعدك الفهم القوي لكيفية معالجة الرسائل على فهم السلوكيات، وكيفية تنفيذ المنطق المخصص والمكان الأفضل له. يعد فهم البنية الأساسية لبرنامج ربط العمليات التجارية ضرورياً أيضاً للتعرف على كيفية ملاءمة المكونات الإضافية وواجهات برمجة التطبيقات (APIs) المخصصة. يمكنك قراءة المزيد عن تفاصيل إطار عمل الحدث [هنا](/powerapps/developer/data-platform/event-framework/?azure-portal=true).
 
 ## <a name="building-plugins"></a>بناء المكونات الإضافية
 
@@ -57,7 +57,7 @@ ms.locfileid: "6659255"
 
 يمكن أن يمنحك استخدام context.InputParameters حق الوصول إلى الرسالة الأصلية وتمنحك context.OutputParameters إمكانية الوصول إلى ما يتم إرجاعه إلى المتصل.
 
-يعد الفهم الجيد لسياق التنفيذ أمراً أساسياً لمطور المكون الإضافي. يمكنك معرفة المزيد عن سياق التنفيذ [هنا](https://docs.microsoft.com/powerapps/developer/data-platform/understand-the-data-context/?azure-portal=true).
+يعد الفهم الجيد لسياق التنفيذ أمراً أساسياً لمطور المكون الإضافي. يمكنك معرفة المزيد عن سياق التنفيذ [هنا](/powerapps/developer/data-platform/understand-the-data-context/?azure-portal=true).
 
 لكي يتم تنفيذ مكون إضافي، يجب أن يتم تسجيله ليتم تشغيله لرسالة معينة. يمكن تحقيق ذلك باستخدام أداة Plugin Registration tool.
 

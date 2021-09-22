@@ -8,12 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-voice
-  ms.openlocfilehash: 5821f1fa368c69361242dd650be9052c6164963a
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: d81346a48ab9fc9fcbb0c4a0dc11a6dad1bf76d5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658407"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352799"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-configure-we-chat-channel.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 11c1cefdb2853735411e5fdf81f166e37c3e529a
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 132a1829a5d834d81aeba97d5068171919f29208
+ms.sourcegitcommit: 3824230c535124fe83cd5d9e3b7a45eecec09b5d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7366453"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "7478508"
 ---
 من خلال طرح الأسئلة وجمع متطلبات العملاء، يمكنك تخطيط مخطط الحسابات الذي يناسب احتياجات العميل. في كثير من الحالات، يختار العميل ببساطة إحضار مخطط حساباته الحالي من النظام القديم إلى قسم الشؤون المالية. إذا كانت هذه هي الحالة، فكل ما تحتاجه هو البيانات المصدر التي تم إنشاؤها عن طريق استخراج البيانات أو تصديرها من النظام القديم بتنسيق مثل CSV أو Excel. 
 

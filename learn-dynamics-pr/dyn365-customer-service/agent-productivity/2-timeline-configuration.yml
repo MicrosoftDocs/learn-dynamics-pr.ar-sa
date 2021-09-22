@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agent-productivity.2-timeline-configuration
+title: تكوين المخطط الزمني للمندوبين
+metadata:
+  title: تكوين المخطط الزمني للمندوبين
+  description: تعرف على كيفية تكوين المعلومات التي يتم عرضها في كل مخطط زمني بناءً على نوع السجل الذي يعمل معه المستخدمون.
+  ms.date: 08/05/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8056c882b42706da99d839d9ae48d401f3274e41
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7326809"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-timeline-configuration.md)]"

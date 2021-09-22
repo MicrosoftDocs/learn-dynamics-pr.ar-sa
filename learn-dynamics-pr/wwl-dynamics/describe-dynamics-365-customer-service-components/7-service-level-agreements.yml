@@ -8,13 +8,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: fb0f8231d8a0d9d25538d8ae1388b0bd8118062a
-  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: ae931a38acf3e892fe332f3c6f994ea3ae4bc34e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6660341"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7342100"
 azureSandbox: false
 durationInMinutes: 5
 content: '[!include[](includes/7-service-level-agreements.md)]'

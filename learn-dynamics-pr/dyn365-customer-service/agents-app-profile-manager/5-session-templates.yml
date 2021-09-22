@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agents-app-profile-manager.5-session-templates
+title: قوالب جلسات العمل
+metadata:
+  title: قوالب جلسات العمل
+  description: تعرف على كيفية استخدام قوالب جلسات العمل لتحديد العناصر الأساسية في تجربة جلسة العمل.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: d78887b33d4ac6dc14c395e30d154b0bb4c547211a844d1243aee301d10f4f60
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7079705"
+durationInMinutes: 11
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-session-templates.md)]"

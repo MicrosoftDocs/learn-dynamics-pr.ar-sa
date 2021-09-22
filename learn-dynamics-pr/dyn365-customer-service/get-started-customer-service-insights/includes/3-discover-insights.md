@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b364960704db02ca2e1c9d1a42c57dcf337eade
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 276e371ad4edb5d302679c5be4daf46f22952bc4
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659161"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326737"
 ---
 الآن بعد أن قمت بإنشاء مساحات عمل لمستودعات بيانات خدمة العملاء المختلفة، يمكنك البدء في تحليل البيانات للحصول على رؤى أعمق في مؤسستك. تعرض الصفحة الرئيسية لـ Customer Service Insights هذه الرؤى بطريقة ممتعة بصرياً، مما يساعدك على اكتشاف أفضل للمواضيع والقضايا التي يجب التركيز عليها وفهم سبب اقتراحها بوضوح. بالإضافة إلى الصفحة الرئيسية، تحتوي Customer Service Insights على أربع لوحات معلومات إضافية وصفحة مواضيع. يمكن الوصول إلى جميع هذه العناصر من جزء التنقل على يسار الشاشة.
 
@@ -41,7 +41,7 @@ ms.locfileid: "6659161"
 > [!div class="mx-imgBorder"]
 > [![توفر رؤى الصفحة الرئيسية معلومات مفصلة تتعلق بمساحة العمل الحالية.](../media/home-page-insights-ssm.png)](../media/home-page-insights-ssm.png#lightbox)
 
-راجع [رؤى مفتاح خدمة العملاء](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/keyinsights/?azure-portal=true) للحصول على مزيد من المعلومات.
+راجع [رؤى مفتاح خدمة العملاء](/dynamics365/ai/customer-service-insights/keyinsights/?azure-portal=true) للحصول على مزيد من المعلومات.
 
 ## <a name="identify-areas-of-improvement"></a>تحديد مجالات التحسين
 
@@ -49,12 +49,12 @@ ms.locfileid: "6659161"
 
 تساعدك لوحات المعلومات على تحديد المجالات التي تحتاج إلى تحسين بطرق متنوعة، بما في ذلك:
 
-- **مخططات AI Insights** - مخططات تجمع حالات الدعم المرتبطة حسب الموضوع لإظهار التأثير على أداء النظام. لمزيد من المعلومات، راجع [مخططات AI Insights](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/improve-system#ai-insights-charts/?azure-portal=true).
+- **مخططات AI Insights** - مخططات تجمع حالات الدعم المرتبطة حسب الموضوع لإظهار التأثير على أداء النظام. لمزيد من المعلومات، راجع [مخططات AI Insights](/dynamics365/ai/customer-service-insights/improve-system?azure-portal=true#ai-insights-charts/).
 
-- **مخططات وقت الدقة** - عرض المدة التي يستغرقها حل حالات الدعم. لمزيد من المعلومات، راجع [مخططات وقت الدقة](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/improve-system#resolution-time-charts/?azure-portal=true).
+- **مخططات وقت الدقة** - عرض المدة التي يستغرقها حل حالات الدعم. لمزيد من المعلومات، راجع [مخططات وقت الدقة](/dynamics365/ai/customer-service-insights/improve-system?azure-portal=true#resolution-time-charts/).
 
-- **مخططات رضا العملاء** - المخططات التي توفر تفاصيل التعليقات من العملاء. لمزيد من المعلومات، راجع [مخططات رضا العملاء](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/improve-system#customer-satisfaction-charts/?azure-portal=true).
+- **مخططات رضا العملاء** - المخططات التي توفر تفاصيل التعليقات من العملاء. لمزيد من المعلومات، راجع [مخططات رضا العملاء](/dynamics365/ai/customer-service-insights/improve-system?azure-portal=true#customer-satisfaction-charts/).
 
-- **مخططات أداء المندوب** - المخططات التي تفحص أداء مندوب الدعم. لمزيد من المعلومات، راجع [مخططات أداء المندوب](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/improve-system#customer-satisfaction-charts/?azure-portal=true).
+- **مخططات أداء المندوب** - المخططات التي تفحص أداء مندوب الدعم. لمزيد من المعلومات، راجع [مخططات أداء المندوب](/dynamics365/ai/customer-service-insights/improve-system?azure-portal=true#customer-satisfaction-charts/).
 
-- **مخططات قنوات الدعم** - مخططات أداء النظام على قنوات الدعم المختلفة. لمزيد من المعلومات، راجع [مخططات قنوات الدعم](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/improve-system#support-channel-charts/?azure-portal=true).
+- **مخططات قنوات الدعم** - مخططات أداء النظام على قنوات الدعم المختلفة. لمزيد من المعلومات، راجع [مخططات قنوات الدعم](/dynamics365/ai/customer-service-insights/improve-system?azure-portal=true#support-channel-charts/).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f79c0454d003ed2cd107298453d6bba38498d279
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0a9b03900cc6c1e7b5ecd034c4a329c0e60c8a83ba8dc3f19dca741877aeb6df
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126626"
 ---
 تتمثل إحدى المزايا الرئيسية لحل إدارة المعرفة Microsoft Dynamics 365 في أن المندوبين يمكنهم البحث عن مقالات المعرفة مباشرةً من سجل حالة في أثناء عملهم لحل مشكلة العميل. بشكلٍ مبتكر، يشتمل Dynamics 365 على عنصر تحكم **Knowledge Base Search** الذي يمكن الوصول إليه من الجزء **ذو صلة** للحالة. عندما يقوم مندوب بتحديد زر **Knowledge Base Search**، يتم عرض قاعدة المعارف، ويتم إدخال عنوان الحالة التي يتم العمل عليها تلقائيا في حقل البحث. يتم ذكر أي مقالات تتوافق مع المعلومات في عنوان الحالة في نتائج البحث. لذلك، لا يضطر المندوبين إلى ترك سجل الحالة الذي يعملون عليه للبحث عن حلول محتملة للحالة.
 

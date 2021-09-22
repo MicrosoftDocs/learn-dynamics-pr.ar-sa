@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1a419a98c5e602fbadc410917a6880bdbaf1a3fb
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 2ec5074c47e4706b9c0c78564bb239c7734ff1b5e1078de85e41de7c2876e239
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658565"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7077051"
 ---
 كما ترون، تضمن الميزات الشائعة التي تتم مشاركتها عبر جميع تطبيقات مشاركة العملاء أنك تعمل في تجربة متسقة بغض النظر عن المهمة التي تقوم بها. بدءا من تطبيقات المبيعات والتسويق المصممة للمساعدة في تحديد الآفاق وبناء علاقات طويلة الأمد، إلى التطبيقات المصممة لمساعدة عملاء الخدمة، تضمن تطبيقات Dynamics 365 Customer Engagement أن لديك الأدوات اللازمة لإشراك عملائك بشكل كامل في جميع جوانب عملك.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f4a0e3c638d0f9cd2ccdb833158955fab59162c
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 51b96f7de9632d8aff5f431b7e1732e6565d91609e011253e9f91f8b59b9d4f5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659320"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101037"
 ---
 يمكنك استخدام المزامنة من جانب الخادم لمزامنة نظام البريد الإلكتروني الخاص بك مع Microsoft Dataverse للتطبيقات على مستوى الخادم. تعتمد كيفية معالجة رسائل البريد الإلكتروني والميزات المتوفرة لمستخدمي Dataverse على خيارات معالجة البريد الإلكتروني التي تم تكوينها في مركز إدارة Power platform ضمن إعدادات البيئة المحددة.
 

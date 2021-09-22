@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 495affbb5fe887f32ead53d49be25dde893f1819
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 39fa35e0ac0150e8050ccafdf31e0a0b11290b0a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659218"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7341970"
 ---
 إدارة المعرفة هي عملية إنشاء المعرفة والمعلومات الخاصة بالمؤسسة وإدارتها واستخدامها وتبادلها. والهدف من أي حل لإدارة المعرفة هو الاستفادة على أفضل وجه ممكن من المعلومات التي تملكها المؤسسة وتسهيل استخدام هذه المعلومات قدر الإمكان.
 
@@ -33,4 +33,4 @@ ms.locfileid: "6659218"
 
 بعد ذلك، سندرس عملية تصميم حل إدارة المعرفة في Dynamics 365. ستتعرف على المزيد حول دورة حياة إدارة المعرفة وإنشاء المقالات والتعامل مع محرر المقالات والتحكم في الإصدار وخيارات النشر.
 
-لمزيد من المعلومات حول حل إدارة المعرفة Dynamics 365، راجع [عملية إدارة المعرفة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#knowledge-management-process).
+لمزيد من المعلومات حول حل إدارة المعرفة Dynamics 365، راجع [عملية إدارة المعرفة](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#knowledge-management-process).

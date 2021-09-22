@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 31c06a4d2769afcb3b9f46c902d033b5073ac8e4
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 3b59adfaaa0a949cfae37848f0569e53db45ee13
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659243"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342663"
 ---
 يوفر تطبيق Field Service Mobile للفنيين الميدانيين المعلومات التي يحتاجونها للوصول إلى موقع العميل وإكمال أوامر العمل بسرعة.
 
@@ -26,7 +26,7 @@ ms.locfileid: "6659243"
 
 ### <a name="sign-in-and-sync-data"></a>تسجيل الدخول ومزامنة البيانات
 
-لتسجيل الدخول، تحتاج إلى عنوان URL لتطبيق Dynamics 365 Customer Engagement في مؤسستك واسم المستخدم وكلمة المرور. اتصل بالمسؤول إذا لم تكن لديك هذه المعلومات. لمزيد من المعلومات، راجع [البحث عن المسؤول أو المسؤول عن الدعم](https://docs.microsoft.com/dynamics365/customer-engagement/basics/find-administrator-support).
+لتسجيل الدخول، تحتاج إلى عنوان URL لتطبيق Dynamics 365 Customer Engagement في مؤسستك واسم المستخدم وكلمة المرور. اتصل بالمسؤول إذا لم تكن لديك هذه المعلومات. لمزيد من المعلومات، راجع [البحث عن المسؤول أو المسؤول عن الدعم](/dynamics365/customer-engagement/basics/find-administrator-support).
 
 1. افتح التطبيق وأدخل بيانات الاعتماد. تظهر الشاشة الرئيسية.
 ![لقطة شاشة بها "الصفحة الرئيسية" في تطبيق Field Service Mobile.](../media/Unit4_2.png)
@@ -61,7 +61,7 @@ ms.locfileid: "6659243"
 
 بصفتك مستشار وظيفي، تحتاج إلى فهم إمكانات هذا التطبيق بحيث يُمكنك دعم موارد الخدمة الميدانية على نحوٍ أفضل.
 
-لمعرفة المزيد عن إمكانات هذا التطبيق، راجع [التعرّف على التطبيق (لمعرفة جميع أدوار الأمان)](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/field-service-mobile-app-user-guide#get-around-the-app-for-all-security-roles).
+لمعرفة المزيد عن إمكانات هذا التطبيق، راجع [التعرّف على التطبيق (لمعرفة جميع أدوار الأمان)](/dynamics365/customer-engagement/field-service/field-service-mobile-app-user-guide#get-around-the-app-for-all-security-roles).
 
 ### <a name="troubleshooting-the-installation"></a>استكشاف مشكلات التثبيت وإصلاحها
 
@@ -92,7 +92,7 @@ Woodford عبارة عن أداة تكوين قائمة على المتصفح ل
 
 **في حالة عدم وجود مشروع متنقل**، فستحتاج إلى تنزيل ملف القالب وحفظه:
 
-- إذا كنت تستخدم تحديث ديسمبر 2016 لتطبيق Dynamics 365 Customer Engagement (عبر الإنترنت)، استخدم قالب [المشروع المتنقل](https://go.microsoft.com/fwlink/p/?linkid=836310).
+- إذا كنت تستخدم تحديث ديسمبر 2016 لتطبيق Dynamics 365 Customer Engagement (عبر الإنترنت)، استخدم  [قالب المشروع المتنقل](https://go.microsoft.com/fwlink/p/?linkid=836310) هذا.
 - إذا كنت تستخدم تحديث Dynamics CRM Online 2016 رقم 1، استخدم [قالب المشروع المتنقل](https://go.microsoft.com/fwlink/p/?LinkId=808250).
 
 > [!Note] 
@@ -114,11 +114,11 @@ Woodford عبارة عن أداة تكوين قائمة على المتصفح ل
 
 ![لقطة شاشة لخطأ "إصدار غير مدعوم".](../media/Unit4_11.png)
 
-لإصلاح الحل، تحقق أولاً من إصدار تطبيق الأجهزة المحمولة. افتح تطبيق الأجهزة المحمولة، ثم مرر لأسفل وصولاً إلى خيار قائمة **حول**. حددها لعرض رقم الإصدار.
+لإصلاح الحل، تحقق أولاً من إصدار تطبيق الأجهزة المحمولة. افتح تطبيق الأجهزة المحمولة، ثم مرر لأسفل وصولاً إلى خيار قائمة  **حول** . حددها لعرض رقم الإصدار.
 
 ![لقطة شاشة لقائمة "حول" في الجهاز المحمول.](../media/Unit4_12.png)
 
-بعد ذلك، ستحتاج إلى التحقق من رقم إصدار Woodford. افتح تطبيق Dynamics 365 Customer Engagement في نافذة Internet Explorer غير خاصة وانتقل إلى **الإعدادات > Woodford > MobileCRM Woodford**.
+بعد ذلك، ستحتاج إلى التحقق من رقم إصدار Woodford. افتح تطبيق Dynamics 365 Customer Engagement في نافذة Internet Explorer غير خاصة وانتقل إلى  **الإعدادات > Woodford > MobileCRM Woodford**.
 
 ![لقطة شاشة لقائمة الإعدادات مع تمييز Woodford ضمن Mobile CRM.](../media/Unit4_13.png)
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 98f8adfe2c0b1c92d465f7ce58c01e1fb845970e
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 22bc288a15a4584c877f9f2d5f67c481db0b132af1ff566290b39507831896a2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659209"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7060484"
 ---
 Microsoft Dynamics 365 for Customer Service يتيح للمؤسسة خدمة عملائها بعدة طرق، اعتماداً على الاحتياجات المحددة لهؤلاء العملاء، ونموذج خدمة المؤسسة، وعوامل محددة أخرى. إحدى الميزات التي يمكن للمؤسسات الاستفادة منها هي عنصر تحكم **Knowledge Base Search**.
 

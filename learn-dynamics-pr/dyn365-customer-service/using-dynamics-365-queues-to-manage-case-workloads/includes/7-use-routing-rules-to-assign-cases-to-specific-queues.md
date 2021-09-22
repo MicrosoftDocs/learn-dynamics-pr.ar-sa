@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ab28321d29814b6389d798e7dba11cb064fc197
-ms.sourcegitcommit: 500f30aa3428eca16f3c2131ccf477d58bc2ef04
+ms.openlocfilehash: a37e5b5300c09a9d21ac3f303be3da71ebd0fc89bf7244d9e148223d946cd229
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6658487"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121087"
 ---
 في الآونة الأخيرة، كان هناك تدفق للحالات التي كانت هناك فيها مشكلات تتعلق بحالات محددة تحتاج إلى تصعيد. إنك تقرر زيادة الفعالية إذا أمكن توجيه الحالات إلى الصفوف الذهبية أو الفضية أو البرونزية استنادًا إلى مستوى الخدمة في الحالة.
 

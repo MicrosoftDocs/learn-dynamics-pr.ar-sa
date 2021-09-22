@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f40b0b371411cf28135363b6596ff099ecc3be43
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: d504f3a45aac5b94a918c24758aac03a255a56d3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7340564"
 ---
 دعنا نلق نظرة على كيفية إدارة بيانات Dynamics 365.
 
@@ -18,7 +18,7 @@ ms.locfileid: "6659311"
 
 راقب تخزين Dynamics 365 لديك للتأكد من أن لديك الكثير من القدرة الإنتاجية للنمو.
 
-إذا كان إجمالي سعة التخزين المستخدمة 80% أو أكثر من القدرة الإنتاجية، فسوف يتلقى مسؤولو Dynamics 365 إعلامات بالبريد الإلكتروني وستظهر التنبيهات على صفحة "سلامة الخدمة".
+إذا كان إجمالي سعة التخزين المستخدمة 80% أو أكثر من القدرة الإنتاجية، فسوف يتلقى مسؤولو Dynamics 365 إعلامات بالبريد الإلكتروني وستظهر التنبيهات على صفحة Service health.
 
 ![لقطة شاشة تظهر مركز إدارة Dynamics 365](../media/T2_Monitoring_Storage_image1.png)
 
@@ -26,9 +26,9 @@ ms.locfileid: "6659311"
 
 2. انقر فوق مراكز الإدارة > Dynamics 365.
 
-3. اختر علامة التبويب "سلامة الخدمة".
+3. اختر علامة التبويب Service health.
 
-إذا كنت بحاجة إلى تفريغ مساحة تخزين، فإن هذا المستند على Microsoft Docs يُعد نقطة انطلاق جيدة. [تفريغ مساحة التخزين](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space).
+إذا كنت بحاجة إلى تفريغ مساحة تخزين، فإن هذا المستند على Microsoft Docs يُعد نقطة انطلاق جيدة. [تفريغ مساحة التخزين](/dynamics365/customer-engagement/admin/free-storage-space).
 
 ### <a name="organization-insights"></a>الرؤى المستقبلية للمؤسسة
 

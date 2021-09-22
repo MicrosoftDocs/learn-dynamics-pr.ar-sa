@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.auto-create-records-hub.5-activate-rule
+title: إكمال القاعدة الخاصة بك وتنشيطها
+metadata:
+  title: إكمال القاعدة الخاصة بك وتنشيطها
+  description: تعرف على كيفية استكمال القاعدة وتنشيطها وكيفية تغيير ترتيب القاعدة.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 7678a6600395f32d08c6653c78832e8e54251af2b2e5d1fc62e4a265e88a55ca
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7048906"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-activate-rule.md)]"

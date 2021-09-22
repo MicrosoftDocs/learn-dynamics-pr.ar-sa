@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agent-productivity-personalization-omnichannel.2-quick-replies
+title: الردود السريعة
+metadata:
+  title: الردود السريعة
+  description: تعرف على الردود السريعة.
+  ms.date: 08/04/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 52be4ede7a0f50c4bd20c6054d5452f4d66a383c2d600bb2a46c876b33a89ab7
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7101546"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-quick-replies.md)]"

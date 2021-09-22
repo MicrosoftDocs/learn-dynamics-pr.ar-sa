@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 14245c9d9c2ff25fef23c42e1f5026facde98f16
-ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+ms.openlocfilehash: 84b8d398252f33b122734f078753155782ee42de89a5120e88b1840de496b004
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659285"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7083793"
 ---
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWrUh7]
@@ -93,7 +93,7 @@ Dynamics 365 for Outlook هي وظيفة إضافية لبرنامج Outlook ي�
 
 ![أضف مربع حوار مؤسسة Dynamics 365 for Customer Engagement](../media/T4_ConfigureOutlookAddIn_image1.png)
 
-يمكنك الإلغاء في هذه المرحلة وتشغيل التهيئة لاحقاً. يمكنك أيضاً تكوين بيئات Dataverse إضافية مؤهلة عن طريق إعادة تشغيل معالج التكوين. يمكنك القيام بذلك من ابدأ -> كافة البرامج -> تطبيقات ->Microsoft Dynamics 365 for Customer Engagement، ثم انقر فوق معالج التكوين.
+يمكنك الإلغاء في هذه المرحلة وتشغيل التهيئة لاحقاً. يمكنك أيضاً تكوين بيئات Dataverse إضافية مؤهلة عن طريق إعادة تشغيل معالج التكوين. يمكنك القيام بذلك من ابدأ -> كافة البرامج -> Microsoft Dynamics 365 for Customer Engagement، ثم انقر فوق معالج التكوين.
 
 ### <a name="user-security-permission-requirements"></a>متطلبات إذن أمان المستخدم
 

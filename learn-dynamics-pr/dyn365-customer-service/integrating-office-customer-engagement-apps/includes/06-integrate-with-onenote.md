@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c793b6f0078cd47b2e5ba1d55c5c88741f6005eb
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: 24d5745c7ad29fabdfa9beb7ac2d177cdff9746f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6659191"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334445"
 ---
 يحتوي Microsoft Dataverse على كيان Notes يمكن تمكينه لمعظم الكيانات في التطبيق. يعتبر كيان Notes طريقة رائعة لإضافة ملاحظات محددة حول سجل معين. لا يوفر كيان Notes الكثير من الإمكانات للمشاركة أو التعاون في هذه الملاحظات مع مستخدمين آخرين بخلاف Dynamics. 
 
@@ -60,4 +60,4 @@ ms.locfileid: "6659191"
 
 3. في مربع الحوار تكامل OneNote الإعداد، **امسح** **خانات الاختيار** لجميع الكيانات، ثم حدد إنهاء.
 
-للحصول على معلومات إضافية، يرجى الاطلاع على [إعداد OneNote تكامل](https://docs.microsoft.com/dynamics365/customer-engagement/admin/set-up-onenote-integration-in-dynamics-365). 
+للحصول على معلومات إضافية، يرجى الاطلاع على [إعداد OneNote تكامل](/dynamics365/customer-engagement/admin/set-up-onenote-integration-in-dynamics-365). 

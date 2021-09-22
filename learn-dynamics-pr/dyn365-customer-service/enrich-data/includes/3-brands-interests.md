@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cd2d849d550d78c9635594644fc63a45ed8b3142
-ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+ms.openlocfilehash: 054be0fd038a6bc8d7ebce01268004bfa4bd5a910cdaec525c3e5d328f21185d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6659388"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048741"
 ---
 يمكن أن تساعد معرفة انتماءات واهتمامات العلامة التجارية لعملائك مؤسستك على تطوير استراتيجيات للرعاية والتسويق استناداً إلى من هم عملاؤك. تساعدك العلامة التجارية رؤى الجمهور وقدرات إثراء الاهتمامات على إثراء بياناتك من خلال عرض علامات تجارية واهتمامات مختلفة لعملائك استناداً إلى الخصائص السكانية.
 

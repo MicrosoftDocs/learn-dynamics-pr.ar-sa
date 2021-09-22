@@ -3,18 +3,18 @@ uid: learn-bizapps.customer-service-get-started.5-summary-cleanup
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 02/01/2019
+  ms.date: 09/03/2021
   author: margoc
   ms.author: margoc
   ms.topic: interactive-tutorial
-  ms.prod: learning-powerapps
+  ms.service: powerapps
   ROBOTS: NOINDEX
-  ms.openlocfilehash: d6385d6b3a05169c030901a9a0434af87ef071f8
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a5eded38ed9d63435b64033afc7ffb44d37b001d
+  ms.sourcegitcommit: 0cbc164fda0ab8c2d868359a6af5d804665d8388
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658419"
+  ms.lasthandoff: 09/04/2021
+  ms.locfileid: "7473914"
 title: الملخص
 durationInMinutes: 2
 content: >-

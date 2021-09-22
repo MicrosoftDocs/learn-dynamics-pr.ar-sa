@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 727f70438088e86a90d695001254c6e4a29fe02e
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 0e9e4dd604d8710b2ead86f10d0d4b48bd493c1c7b4dbb8a133cef087adab832
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7123981"
 ---
 تقوم العديد من المنظمات بأنشطة قائمة على الخدمة مثل الإصلاحات والصحة &amp; أو الجمال أو تثبيت المنتجات المتخصصة لعملائها. على سبيل المثال، يمكنك توصيل حيوان أليف عند مربية الشعر، أو اصطحاب سيارة للخدمة، أو تغيير قطعة من الملابس، أو تثبيت عنصر ما بعد البيع في سيارتك.
 

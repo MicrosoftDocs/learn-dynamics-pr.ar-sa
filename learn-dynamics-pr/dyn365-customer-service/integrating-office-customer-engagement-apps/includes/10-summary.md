@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 791d198e8873e48eac0f0d9ff82e38db9164511f
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 4c2b9befacb12f95340ca086ed46315cc50bb3960ce1ffda6f034f602481ce25
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116347"
 ---
 قدمت لك هذه الوحدة عمليات الدمج الممكنة مع تطبيقات Dynamics 365 Customer Engagement. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 134cb06f81ed49e01be60a83d4dc827b03eebf00
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: 833ffb186ef97930cb9c2749b185d24c042bb2b829226333627bc13b0c33def8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6659193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101147"
 ---
 دعنا نلق نظرة على قوة القوالب.
 

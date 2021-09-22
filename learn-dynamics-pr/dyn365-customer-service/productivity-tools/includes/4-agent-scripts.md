@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f506c24131255f961cd037760bb71874cb1cd3e3
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: ed3896012f940e93ab3fe6b32485189ac00a63ec
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658478"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7356121"
 ---
 يحتاج المندوبون الذين يعملون في مراكز دعم العملاء إلى التكيف بسرعة مع التغيير. تخضع المنتجات والخدمات للتعديل والتحديث بصورة مستمرة. وبناءً على ذلك، ومع حدوث تلك التغييرات، يلزم تحديث العمليات والإجراءات أو تعديلها أيضاً. حتى بعد تدريب المندوبين تدريباً صارماً، تحدث أخطاء وتأخيرات في تقديم الخدمات بسبب نقص التوجيه في سيناريوهات العملاء في الوقت الفعلي. تؤدي هذه المشكلات إلى انخفاض الإنتاجية وتؤثر سلباً على مستويات رضا العملاء. لتجنب الأخطاء والتأكد من الالتزام بالعمليات، يجب توفير التوجيه للمندوبين.
 
@@ -61,7 +61,7 @@ ms.locfileid: "6658478"
 
 - **الماكرو** - تعليمات تخبر النظام بكيفية إكمال مهمة ما. على سبيل المثال، قد يتم تكوين الماكرو لإنشاء سجل حالة.
 
-  عندما يحدد مندوب أيقونة **تشغيل**، سيقوم النظام بتنفيذ الماكرو.
+  عندما يحدد مندوب أيقونة‏  **تشغيل** ، سيقوم النظام بتنفيذ الماكرو.
 
 - **البرنامج النصي للمندوب** - يمكنك تحميل برنامج نصي آخر للمندوب من البرنامج النصي الحالي للمندوب. سيحل البرنامج النصي الذي تم تحميله مؤخراً محل البرنامج النصي الحالي في قائمة **البرنامج النصي للمندوب**.
 
@@ -97,6 +97,6 @@ ms.locfileid: "6658478"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لشاشة تكوين جزء الإنتاجية.](../media/4-7.png)](../media/4-7.png#lightbox)
 
-لمزيد من المعلومات، راجع [نظرة عامة على البرامج النصية للمندوب](https://docs.microsoft.com/dynamics365/omnichannel/administrator/agent-scripts/?azure-portal=true/#overview-of-agent-scripts).
+لمزيد من المعلومات، راجع [نظرة عامة على البرامج النصية للمندوب](/dynamics365/omnichannel/administrator/agent-scripts/?azure-portal=true/#overview-of-agent-scripts).
 
-للحصول على معلومات، راجع [تعيين "البرنامج النصي للمندوب" الافتراضي للمندوبين](https://docs.microsoft.com/dynamics365/omnichannel/administrator/agent-scripts/?azure-portal=true/#set-the-default-agent-script-for-agents).
+للحصول على معلومات، راجع [تعيين "البرنامج النصي للمندوب" الافتراضي للمندوبين](/dynamics365/omnichannel/administrator/agent-scripts/?azure-portal=true/#set-the-default-agent-script-for-agents).

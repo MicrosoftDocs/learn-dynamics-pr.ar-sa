@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: a0df98aee32608a7946bcd45e3bcea41e07a7a3e
-ms.sourcegitcommit: 87bfbce5cff1a2ceba28af60632730a16c68acd9
+ms.openlocfilehash: 8c286ec3a2a68149a9a16fe4aba9aabe4842362da06067f5b2f5bba11f668e5a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "6658445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7061992"
 ---
 اختر أفضل إجابة لكل سؤال من الأسئلة أدناه. بعد ذلك، حدد **تحقق من إجاباتك**.

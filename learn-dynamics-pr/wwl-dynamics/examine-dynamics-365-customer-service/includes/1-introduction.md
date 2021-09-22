@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df2cba4064c031230c048db71b81da15f0b95daa
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: f80d3ae7e5861ebbf0f264ce474b8a399cbcbd8853e8873fe355b47db95ef3b6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658551"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7134083"
 ---
 تتيح Dynamics 365 Customer Service لموظفي الدعم تقديم مساعدة محسنة لعملائك. فهو يوفر لك كل ما يلزم لإدارة النهاية الكاملة لإنهاء دورة حياة طلبات الدعم التي أبلغ عنها العملاء. من إنشاء الحالة الأولية وإدارتها، إلى تطوير حلول إدارة المعرفة، تساعد Dynamics 365 Customer Service المؤسسات على التأكد من معالجة مشكلات العملاء بسرعة وفعالية.
 

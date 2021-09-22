@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a863207c26b95f55ff827ae48c4171066ce591db
-ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+ms.openlocfilehash: 19a51d01d5cd2987af04b301e23b24864954b43d015bac65fe28c6aa45a508f2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6659371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136920"
 ---
 تساعد رؤى الجمهور، التي تشكل جزءاً من Dynamics 365 Customer Insights، مؤسستك على إطلاق العنان للرؤى وبناء فهم أعمق لعملائك وتعزيز تجارب العملاء الشخصية من خلال توحيد بيانات العملاء من جميع مؤسساتك ومصادر البيانات المختلفة للحركات والسلوك والمراقبة في عرض شامل واحد للعملاء.   
 

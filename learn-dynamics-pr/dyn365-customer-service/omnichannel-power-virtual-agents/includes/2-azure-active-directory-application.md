@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6e172e21f350e869f9ec49959807f0398faca89
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: f5e11bc8f6f6539ec96e2ec22ddfd839cc5612f8
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6658463"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325587"
 ---
 يتم توزيع كل محادثة في القناة متعددة الاتجاهات لـ Customer Service في نهاية المطاف إلى مستخدم القناة متعددة الاتجاهات. يمكن أن يمثل مستخدم القناة متعددة الاتجاهات مندوباً مباشراً أو مستخدم روبوت. مستخدم الروبوت هو في الأساس مستخدم في القناة متعددة الاتجاهات لـ Customer Service التي يدعمها أحد التطبيقات. في هذه الحالة، تطبيق الخادم هو روبوت Power Virtual Agents. تشير القناة متعددة الاتجاهات لـ Customer Service إلى هذه الروبوتات كمستخدمي التطبيق. عندما يتم توجيه المحادثات إلى مستخدم التطبيق، يتولى روبوت Power Virtual Agents ويوفر التفاعل الضروري مع العميل.
 
@@ -25,16 +25,16 @@ ms.locfileid: "6658463"
 
 بعد تحديد المعلومات الضرورية، حدد الزر **تسجيل**.
 
-لمزيد من المعلومات، راجع [إنشاء تطبيق Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#create-an-azure-active-directory-application).
+لمزيد من المعلومات، راجع [إنشاء تطبيق Azure Active Directory](/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#create-an-azure-active-directory-application).
  
 ستنشئ هذه العملية تسجيل التطبيق الأولي. لأغراض وحدة التعلم هذه، تفي هذه الخطوات بالمتطلبات الضرورية لنشر روبوت Power Virtual Agents للتطبيق. ومع ذلك، بناءً على سيناريو النشر والتقنية المستخدمة وسياسات الأمان وما إلى ذلك، قد تحتاج إلى تكوين عناصر إضافية في التطبيق.
 
 تتضمن العناصر الإضافية التي قد ترغب في مراعاتها ما يلي:
 
--   **تعيين دور إلى التطبيق** - يسمح للتطبيق بالوصول إلى موارد إضافية في اشتراك Azure. لمزيد من المعلومات، راجع [تعيين دور للتطبيق](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#assign-a-role-to-the-application).
+-   **تعيين دور إلى التطبيق** - يسمح للتطبيق بالوصول إلى موارد إضافية في اشتراك Azure. لمزيد من المعلومات، راجع [تعيين دور للتطبيق](/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#assign-a-role-to-the-application).
 
--   **الشهادات والأسرار** - المساعدة في إدارة أمان تطبيق المصادقة والتحكم. للحصول على مزيد من المعلومات، راجع [الشهادات والأسرار](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#certificates-and-secrets).
+-   **الشهادات والأسرار** - المساعدة في إدارة أمان تطبيق المصادقة والتحكم. للحصول على مزيد من المعلومات، راجع [الشهادات والأسرار](/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#certificates-and-secrets).
 
--   **سياسات الوصول على الموارد** - تسمح لك بتعريف أذونات إضافية قد يحتاجها التطبيق. ‏‫لمزيد من المعلومات، راجع [تكوين سياسات الوصول](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#configure-access-policies-on-resources).
+-   **سياسات الوصول على الموارد** - تسمح لك بتعريف أذونات إضافية قد يحتاجها التطبيق. ‏‫لمزيد من المعلومات، راجع [تكوين سياسات الوصول](/azure/active-directory/develop/howto-create-service-principal-portal?azure-portal=true#configure-access-policies-on-resources).
 
 الآن بعد أن قمت بإنشاء تسجيل تطبيق، يمكنك إنشاء روبوت Power Virtual Agents وتكوينه لتسليم المحادثات إلى القناة متعددة الاتجاهات لـ Customer Service.

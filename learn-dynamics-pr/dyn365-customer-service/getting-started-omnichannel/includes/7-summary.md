@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5dd4cc7eb58b8b5a73249aaf7d91cf0a582e4021
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 479d9d15bf75cd8e55c7946193cd0ae69c42e8db09e35772113ca75e3ba6ed78
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658413"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7069861"
 ---
 توفر القناة متعددة الاتجاهات لـ Customer Service في Dynamics 365 للمؤسسات القدرة على تقديم تجربة خدمة قناة متعددة الاتجاهات كاملة إلى عملائها. يمكن لمندوبي الدعم العمل مع عملاء متعددين عبر قنوات مختلفة في الوقت نفسه مع الاستفادة من الميزات والوظائف المألوفة التي اعتادوا عليها في Dynamics 365 Customer Service. لدى المندوبين رؤية كاملة لما يحدث أثناء الجلسة، وفي أثناء التبديل بين الجلسات، يتم الاحتفاظ بالمعلومات من جلسات العمل الأخرى بحيث تكون متاحة بسهولة عندما يعود المندوب إلى الجلسة.  
       

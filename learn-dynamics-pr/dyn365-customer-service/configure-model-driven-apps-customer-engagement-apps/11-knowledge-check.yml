@@ -7,13 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 95fd49253d86f2c4071380aea8270ec99e073df0
-  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.openlocfilehash: f47163f1ff522f7488493af71785a5478c28ab28
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6659339"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365137"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:

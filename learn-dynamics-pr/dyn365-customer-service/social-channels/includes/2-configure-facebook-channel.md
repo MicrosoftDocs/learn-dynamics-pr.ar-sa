@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 095b9d5fc1706b03fc3570d5415c6e699928d813
-ms.sourcegitcommit: a5b5de17434291a4c12327beef09e447db719c36
+ms.openlocfilehash: ac6639b48fae5603df988356812c8b747643c779
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "6658541"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7363810"
 ---
 تمكنك القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service من تكوين Facebook messenger للاستفادة من النظام الأساسي للمراسلة الاجتماعية والتفاعل مع عملائك من خلال تجربة مخصصة.
 
@@ -18,7 +18,7 @@ ms.locfileid: "6658541"
 
 - تطبيق Facebook يحتوي على Messenger وخطاطيف الويب
 
-لمزيد من المعلومات، راجع [تكوين قناة Facebook](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-facebook-channel/?azure-portal=true).
+لمزيد من المعلومات، راجع [تكوين قناة Facebook](/dynamics365/omnichannel/administrator/configure-facebook-channel/?azure-portal=true).
 
 ## <a name="create-a-facebook-channel-application"></a>إنشاء قناة Facebook (تطبيق)
 

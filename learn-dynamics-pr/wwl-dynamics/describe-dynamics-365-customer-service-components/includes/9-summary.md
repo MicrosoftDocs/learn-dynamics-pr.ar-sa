@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f9610c2f4617dc3928b789686ab5abbd25be3247
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 5927b92002c5a2e08f0931b7ec47fefd93986316c5c245a5ff1865d89134d28e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660566"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124251"
 ---
 كما ترى، باستخدام إمكانيات إدارة الحالة في Dynamics 365 Customer Service، يحصل المناديب لديك على جميع الأدوات اللازمة لتوفير أفضل دعم ممكن لعملائك. يمكن للمناديب استخدام إمكانيات إدارة المعرفة للقيام بما يلي:
 

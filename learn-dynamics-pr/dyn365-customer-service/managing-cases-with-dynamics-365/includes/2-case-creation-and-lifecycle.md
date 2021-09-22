@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 73ec2977524253aea5316a618f86dd55232c2372
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: d49940d4a21bf99a09880314ddee6d6525bdc441
+ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659236"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "7478581"
 ---
 يمكن إنشاء الحالات بطرق متعددة في Microsoft Dynamics 365، لاستيعاب السيناريوهات المختلفة التي قد تتلقى مؤسستك حالات منها. على سبيل المثال، يمكن إنشاء الحالات تلقائياً، استناداً إلى التفاعل على وسائل التواصل الاجتماعي، أو يمكن للمندوبين إنشاؤها يدوياً في أثناء استقبالهم مكالمة من شخص ما. ويمكن حتى أن يتم إنشاؤها من خلال مدخل الخدمة الذاتية. عند تنفيذ استراتيجية إدارة الحالات، من المهم مراعاة كافة السيناريوهات التي قد تدعمها مؤسستك.
 
@@ -72,4 +72,4 @@ ms.locfileid: "6659236"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IQYA]
 
-للاطلاع على المزيد حول إنشاء الحالة، راجع [إنشاء حالة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/user-guide-customer-service#create-and-manage-a-case)وإدارتها.
+للاطلاع على المزيد حول إنشاء الحالة، راجع [إنشاء حالة](/dynamics365/customer-engagement/customer-service/user-guide-customer-service#create-and-manage-a-case)وإدارتها.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 283c787f17694a8b5d4c5c821d3aee677e0c700d
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: ab23fa04415a9714e5d4e585905885287e411a3d
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659212"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7365129"
 ---
 بعد نشر المقالات المعرفية واستخدامها من قبل العملاء والمندوبين، قد يجد مديرو المعرفة أنه من المفيد مراجعة تحليلات المقالات لاكتساب نظرة ثاقبة حول ما يحدث. يحتوي Microsoft Dynamics 365 على صفحتين من لوحات المعلومات التي يمكن لمديري المعرفة والمؤلفين استخدامهما لمراقبة حالة المقالات:
 
@@ -25,7 +25,7 @@ ms.locfileid: "6659212"
 
 إذا كانت صفحة **لوحة المعلومات المعرفية الخاصة بي** لا توفر المعلومات المحددة التي تحتاجها، فيمكنك إنشاء لوحات معلومات تفاعلية إضافية أو بديلة لتلبية احتياجاتك.
 
-لمزيد من المعلومات حول إعداد لوحات المعلومات التفاعلية، راجع [تكوين لوحات معلومات التجربة التفاعلية](https://docs.microsoft.com/previous-versions/dynamicscrm-2016/administering-dynamics-365/mt622067(v=crm.8)).
+لمزيد من المعلومات حول إعداد لوحات المعلومات التفاعلية، راجع [تكوين لوحات معلومات التجربة التفاعلية](/previous-versions/dynamicscrm-2016/administering-dynamics-365/mt622067(v=crm.8)).
 
 ## <a name="knowledge-manager-dashboard"></a>لوحة معلومات مدير المعرفة
 
@@ -33,7 +33,7 @@ ms.locfileid: "6659212"
 
 ![لقطة شاشة لصفحة لوحة معلومات مدير المعرفة مع تمييز الأقسام.](../media/RC-Unit6-2.png)
 
-لمزيد من المعلومات حول مراقبة المقالات باستخدام لوحات المعلومات، راجع [مراقبة المقالات المعرفية باستخدام لوحات المعلومات](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#monitor-knowledge-articles-with-dashboards).
+لمزيد من المعلومات حول مراقبة المقالات باستخدام لوحات المعلومات، راجع [مراقبة المقالات المعرفية باستخدام لوحات المعلومات](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#monitor-knowledge-articles-with-dashboards).
 
 ## <a name="tracking-article-information"></a>تعقب معلومات المقالة
 
@@ -78,4 +78,4 @@ ms.locfileid: "6659212"
 
 ![لقطة شاشة لأقسام عدد مرات العرض والتعليقات والحالات.](../media/RC-Unit6-4.png)
 
-لمزيد من المعلومات حول تعقب تفاصيل المقالة، راجع [تعقب التفاصيل الأساسية للمقالة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#track-basic-details-of-an-article).
+لمزيد من المعلومات حول تعقب تفاصيل المقالة، راجع [تعقب التفاصيل الأساسية للمقالة](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#track-basic-details-of-an-article).

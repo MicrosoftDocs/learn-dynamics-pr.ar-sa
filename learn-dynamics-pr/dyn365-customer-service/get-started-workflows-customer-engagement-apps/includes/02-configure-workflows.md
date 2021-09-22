@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f06cca5cd70ec1d97b63c5e3103e797f2af43c15
-ms.sourcegitcommit: de79d56e760ae35a1ea1549067da2fba04de7088
+ms.openlocfilehash: 120e2b42d6ffb98dd6221ca095bdf5b18aa066dd0cf3f800c2b685caf2d0492f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "6659201"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131550"
 ---
 تنفذ مهام سير العمل عمليات الأعمال تلقائياً. يستخدم الأشخاص عادةً عمليات سير العمل لبدء التنفيذ التلقائي الذي لا يتطلب أي تفاعل من المستخدم. 
 

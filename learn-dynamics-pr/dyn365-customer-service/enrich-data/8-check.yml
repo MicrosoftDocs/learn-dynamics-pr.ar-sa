@@ -8,13 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 4d6348dadbeddd138d377c9fec698c7f294ba6b9
-  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.openlocfilehash: 9bf8f3353032d2b80ef8316372d25dd9e7af0268
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "6659391"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7359900"
 durationInMinutes: 2
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

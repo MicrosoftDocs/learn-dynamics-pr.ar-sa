@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.enhance-agent-productivity-customer-service-workspace
+metadata:
+  title: العمل على تحسين إنتاجية الوكيل من خلال مساحة عمل Customer Service
+  description: تزود مساحة عمل Customer Service الوكلاء بالإمكانيات الأساسية لخدمة العملاء.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 1792f0aba9a7a3686448b08052c322ea540a2e7ee2f336136e8410924abdd0fe
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7054458"
+title: العمل على تحسين إنتاجية الوكيل من خلال مساحة عمل Customer Service
+summary: "[!include[](../includes/module-banner.md)] \nباستخدام مساحة عمل Customer Service، يمكنك التأكد من أن الوكلاء مزودون بإمكانيات خدمة العملاء الأساسية التي اعتادوا استخدامها مع تطبيق مركز خدمة العملاء. كما ستزود الوكلاء بإمكانية فتح جلسات متعددة في وقت واحد وفي تجربة مساحة عمل واحدة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- عرض السجلات وتحريرها.\n- التعامل مع المشكلات.\n"
+prerequisites: معرفة أساسية بتطبيق Microsoft Dynamics 365 Customer Service
+iconUrl: /learn/achievements/enhance-agent-productivity-customer-service-workspace.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.1-introduction
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.2-explore
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.3-records
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.4-cases
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.5-productivity
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.6-check
+- learn-dynamics.enhance-agent-productivity-customer-service-workspace.7-summary
+badge:
+  uid: learn-dynamics.enhance-agent-productivity-customer-service-workspace.badge

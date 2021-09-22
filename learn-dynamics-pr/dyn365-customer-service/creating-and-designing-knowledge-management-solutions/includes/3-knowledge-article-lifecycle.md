@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 81ebacbcd8a6e3a6354859420b607f31b7efb8f0
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 446418d1df80448dfb26ec648665b39b4cff6df5
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659205"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7350896"
 ---
 كما ذكرنا في وحدة النظرة العامة، فإن إدارة المعرفة الفعالة ودورة حياة الموافقة على المقالات لا تضمن فقط دقة محتوى المعرفة، ولكن توفر أيضاً المحتوى الأحدث والأكثر صلة للمستخدمين. بشكل جديد، تشبه دورة حياة إدارة المعرفة الصورة التالية.
 
@@ -45,7 +45,7 @@ ms.locfileid: "6659205"
 
 ![لقطة شاشة للمقالات المقترحة ومقالات المسودة تحتاج إلى أجزاء مراجعة.](../media/KM-Unit3-2.png)
 
-لمزيد من المعلومات حول وضع علامات على المقالات للمراجعة، راجع [وضع علامة على مقالة معرفية للمراجعة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#mark-a-knowledge-article-for-review).
+لمزيد من المعلومات حول وضع علامات على المقالات للمراجعة، راجع [وضع علامة على مقالة معرفية للمراجعة](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#mark-a-knowledge-article-for-review).
 
 ## <a name="reviewing-a-knowledge-article-and-rejecting-or-approving-it"></a>مراجعة مقالة معرفية، ورفضها أو الموافقة عليها
 
@@ -67,6 +67,6 @@ ms.locfileid: "6659205"
 
 إحدى الطرق الجيدة للتأكد من أن المقالات حديثة ودقيقة هي تحديثها، استناداً إلى تعليقات المقال والملاحظات التي يتلقاها. بعد تحديث مقال، يمكنك تعيينه مرة أخرى إلى المراجع للموافقة عليه أو نشره. حدد **تعيين** في شريط الأوامر، ثم حدد المستخدم أو الفريق الذي تريد تعيين المقال إليه.
 
-لمزيد من المعلومات حول مراجعة المقالات والموافقة عليها، راجع [مراجعة مقالة معرفية ورفضها أو الموافقة عليها](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#review-and-reject-or-approve-a-knowledge-article).
+لمزيد من المعلومات حول مراجعة المقالات والموافقة عليها، راجع [مراجعة مقالة معرفية ورفضها أو الموافقة عليها](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#review-and-reject-or-approve-a-knowledge-article).
 
-لمزيد من المعلومات حول تحديث المقالات المعرفية لالتقاط التعليقات، راجع [تحديث المقالات المعرفية لالتقاط التعليقات](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#update-knowledge-articles-to-capture-feedback).
+لمزيد من المعلومات حول تحديث المقالات المعرفية لالتقاط التعليقات، راجع [تحديث المقالات المعرفية لالتقاط التعليقات](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#update-knowledge-articles-to-capture-feedback).

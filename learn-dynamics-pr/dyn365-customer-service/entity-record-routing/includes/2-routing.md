@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bff12f0a758fdec07962544e4448cdce312a68b8
-ms.sourcegitcommit: d56b4cd19cb3dd943e10d348b19774c34acb0161
+ms.openlocfilehash: 1061a191c2793430327d85f274ad73bcfb34d9a09ab08a2546a4475ffdeddda3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "6658537"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7070034"
 ---
 لتوجيه الحالات و/أو الجداول الأخرى التي تريد المؤسسة استخدامها في حل القناة متعددة الاتجاهات، ستحتاج إلى إنشاء صفوف الجدول.
 توفر لك صفوف الجدول القدرة على توجيه صفوف Common Data Service إلى المندوبين استناداً إلى تدفقات العمل المستندة إلى الجدول ومجموعات قواعد التوجيه.

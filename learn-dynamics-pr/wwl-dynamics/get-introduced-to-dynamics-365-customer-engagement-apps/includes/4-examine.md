@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f3b46569b3796ebf30d4040c747f800de2ee101e
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 9adf92c554074517ef392d6bef273bee04b7213c123613c21bb9ff1a6066fe9f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658563"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7066387"
 ---
 تساعد تطبيقات إشراك العملاء في Dynamics 365 المؤسسات على إعادة تصور كيفية تفاعلها مع العملاء بشكل أساسي. يمكن للمؤسسات إنشاء تجارب تسويقية ومبيعات وخدمة مخصصة باستخدام البيانات والذكاء لتحسين كل تفاعل.
 

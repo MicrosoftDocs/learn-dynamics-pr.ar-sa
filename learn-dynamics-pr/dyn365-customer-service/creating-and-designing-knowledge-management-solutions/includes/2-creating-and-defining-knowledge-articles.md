@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 35044aa9ce3a4589253f2396ff3342979242ed28
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 464114592dd43b261ead7c0a78ea19d52e2cd236
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7352847"
 ---
 إن إيجاد حل فعال لإدارة المعرفة هو أكثر من مجرد مستودع للمشكلات والحلول. وينبغي أن يكون من السهل التنقل وتوفير حلول واضحة وموجزة والحصول على المعلومات الحالية والمهمة ويمكن الوصول إليها بسهولة عبر الأنظمة الأساسية.
 
@@ -54,7 +54,7 @@ ms.locfileid: "6659206"
 
 ![لقطة شاشة لمحرر المحتوى مع تفاصيل الميزات.](../media/KM-unit2-1.png)
 
-للحصول على مزيد من المعلومات حول القدرات المختلفة لمحرر المحتوى، راجع [إنشاء المقالات المعرفية وإدارتها.](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article)
+للحصول على مزيد من المعلومات حول القدرات المختلفة لمحرر المحتوى، راجع [إنشاء المقالات المعرفية وإدارتها.](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article)
 
 ### <a name="summary-tab"></a>علامة تبويب "الملخص"
 
@@ -76,6 +76,6 @@ ms.locfileid: "6659206"
 
 ![لقطة شاشة لأجزاء المخطط الزمني والمعلومات ذات الصلة.](../media/KM-unit2-2.png)
 
-للحصول على مزيد من المعلومات حول إنشاء مقالات معرفية، راجع [إنشاء مقالة معرفية](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#create-a-knowledge-article).
+للحصول على مزيد من المعلومات حول إنشاء مقالات معرفية، راجع [إنشاء مقالة معرفية](/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-knowledge-article#create-a-knowledge-article).
 
 سيتم تناول مهمات أخرى، مثل إنشاء ترجمات للمقالات ومعالجة الإصدارات وإعداد خيارات النشر، في وحدات لاحقة.

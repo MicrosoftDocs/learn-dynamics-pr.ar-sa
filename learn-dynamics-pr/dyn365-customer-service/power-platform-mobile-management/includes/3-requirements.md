@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c5a32bbda5eed493c6e529c25e5183ce9369f55e
-ms.sourcegitcommit: cc424f626a0c17dc540873a58fc77359ddc267a2
+ms.openlocfilehash: feb3d87215163a88594aad15f2a5ec91744e85b941fc868629b47b9a7a9c3ddf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6659277"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136998"
 ---
 يمكنك الوصول إلى بيانات تطبيقات Dynamics 365 Customer Engagement من الأجهزة المحمولة بطرق مختلفة. يمكنك تثبيت واستخدام التطبيقات للأجهزة المحمولة التي تعمل بأنظمة Windows وiOS وAndroid، أو يمكنك تشغيل تطبيق الويب على المتصفح المفضل للجهاز للأجهزة الموضحة هنا.
 
@@ -25,11 +25,11 @@ ms.locfileid: "6659277"
 |  نظام التشغيل  | Windows 10|
 |  ------------------| -------------------------------------------------------------------------------------|
 |  الذاكرة            | الحد الأدنى لـ RAM (الذاكرة) المطلوب هو 2 غيغابايت. 4 غيغابايت من RAM موصى به لتحقيق الأداء الأمثل |
-|  الدقة        | دقة 1366 x 768 (720 بكسل) |
+|  الدقة        | دقة 1366 x‏ 768 ‏(720 بكسل) |
 
 يمكنك أيضاً تشغيل تطبيق الويب لتطبيقات Dynamics 365 Customer Engagement على متصفح ويب مدعوم على هذه الأجهزة. لمزيد من المعلومات حول دعم متصفح الويب، راجع [متطلبات تطبيق ويب](/dynamics365/customer-engagement/admin/web-application-requirements).
 
-قم بتنزيل تطبيقات Dynamics 365 Customer Engagement من سوق Windows لـ [Windows 10](https://go.microsoft.com/fwlink/p/?LinkID=808734).
+قم بتنزيل تطبيقات Dynamics 365 Customer Engagement من سوق Windows لـ  [Windows 10](https://go.microsoft.com/fwlink/p/?LinkID=808734).
 
 ### <a name="apple-ipad"></a>Apple iPad
 
@@ -38,7 +38,7 @@ ms.locfileid: "6659277"
 - الجهاز - iPad الجيل الثالث أو أحدث.
 - الشاشة - 9 بوصات (قطرية) أو أكبر.
 
-[قم بتنزيل تطبيقات Microsoft Dynamics 365 Customer Engagement لجهاز iPad من Apple Store](https://go.microsoft.com/fwlink/p/?LinkId=313327)
+[تنزيل Microsoft Dynamics ‏365 Customer Engagement لجهاز iPad من Apple Store](https://go.microsoft.com/fwlink/p/?LinkId=313327)
 
 #### <a name="how-to-find-the-version-of-your-dynamics-365-for-ipad-app"></a>كيفية العثور على إصدار تطبيق Dynamics 365 for iPad
 
@@ -52,11 +52,11 @@ ms.locfileid: "6659277"
 
 - أجهزة الكمبيوتر اللوحية التي يزيد حجم شاشاتها عن 7 بوصات (محسّنة من 9 إلى 10 بوصات) باستخدام Dynamics 365 for Android.
 
-[قم بتنزيل تطبيقات Microsoft Dynamics 365 Customer Engagement لنظام التشغيل Android من Google play](https://go.microsoft.com/fwlink/p/?LinkID=392913)
+[تنزيل تطبيقات Microsoft Dynamics ‏365 Customer Engagementلـ Android من Google play](https://go.microsoft.com/fwlink/p/?LinkID=392913)
 
 ### <a name="web-browser-support-for-tablets"></a>دعم متصفح الويب لأجهزة الكمبيوتر اللوحية
 
-يمكنك تشغيل تطبيقات Dynamics 365 Customer Engagement في متصفح الويب الافتراضي على أي جهاز يعمل بنظام التشغيل Windows 10، بما في ذلك جهاز كمبيوتر شخصي يعمل بنظام Windows 10، ولكن تم تحسين واجهة المستخدم للعمل باللمس. بالنسبة لأجهزة كمبيوتر [Apple iPad](/dynamics365/customer-engagement/mobile-app/support-phones-tablets#BKMK_iPad) اللوحية، تم دعم إصدار iOS 10 وما يليه. بالنسبة لـ [Android](/dynamics365/customer-engagement/mobile-app/support-phones-tablets#BKMK_Nexus)‎، يتم دعم الإصدارات 6.0 وما يليها لأجهزة الكمبيوتر اللوحية.
+يمكنك تشغيل تطبيقات Dynamics 365 Customer Engagement في متصفح الويب الافتراضي على أي جهاز يعمل بنظام التشغيل Windows 10، بما في ذلك جهاز كمبيوتر شخصي يعمل بنظام Windows 10، ولكن تم تحسين واجهة المستخدم للعمل باللمس. بالنسبة لأجهزة كمبيوتر [Apple iPad](/dynamics365/customer-engagement/mobile-app/support-phones-tablets#BKMK_iPad) اللوحية، تم دعم إصدار iOS 10 وما يليه. بالنسبة إلى  [Android](/dynamics365/customer-engagement/mobile-app/support-phones-tablets#BKMK_Nexus)‎، يتم دعم الإصدارات 6.0 وما يليها لأجهزة الكمبيوتر اللوحية.
 
 يوفر استخدام تطبيقات Dynamics 365 Customer Engagement على متصفح الويب على جهاز محمول من Apple أو جهاز محمول يعمل بنظام التشغيل Android تجربة مماثلة لاستخدامه مع متصفح ويب على كمبيوتر سطح المكتب أو الكمبيوتر المحمول. ومع ذلك، لا تتوفر بعض الميزات، بما في ذلك:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac94c5a82d7370dedf2d4735823dd3722d355ea5
-ms.sourcegitcommit: 500f30aa3428eca16f3c2131ccf477d58bc2ef04
+ms.openlocfilehash: 1ee0f8634b0bf4596a20709123df4128b67a3b8fa50400bdba298c3e3e04e758
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6658485"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048411"
 ---
 على الرغم من أنه يمكن تعيين عناصر قائمة الانتظار يدويًا إلى قوائم الانتظار، إلا أنه غالبًا ما يكون استخدام المنطق المحدد مسبقًا أكثر فاعلية لوضع العناصر في قوائم الانتظار. على سبيل المثال، إذا قام المندوب بوضع علامة على حالة التصعيد، يجب توجيه الحالة إلى قائمة انتظار التصعيد المناسبة.
 

@@ -7,13 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 881f2484eee624342306db99c069cdfb86ad1f82
-  ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+  ms.openlocfilehash: ba1e3fd634e430963e18e3e0a3592c0c950856c0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2021
-  ms.locfileid: "6659299"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7330402"
 title: تكوين النماذج والمخططات ولوحات المعلومات في التطبيقات المستندة إلى نموذج
 summary: "[!include[](../includes/module-banner.md)]\n\nستتعرف في هذه الوحدة على النماذج، والشبكات، وطرق العرض، والمخططات، ولوحات المعلومات التي يمكن استخدامها في التطبيقات المستندة إلى نموذج.   \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على عناصر النموذج وعناصر التحكم فيه\n- تكوين النماذج\n- استخدم مكونات النموذج المتخصصة\n- استخدام شبكات قابلة للتحرير\n- تحديد طرق العرض واستخدام طرق العرض العامة\n- التعرُّف على طريقة تكوين المخططات\n- التعرُّف على كيفية تكوين لوحات المعلومات\n"

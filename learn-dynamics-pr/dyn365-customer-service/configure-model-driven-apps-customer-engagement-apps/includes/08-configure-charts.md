@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 01c16e518da5d73b30b9088196f09df7d1177096
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 849f4a2e881cac2d673f2e5677c00c28f0bd3468b1196e135c035bdbf8fa10b6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659105"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121537"
 ---
 توفر المخططات عرضاً تفاعلياً للبيانات. يقدم هذا الفيديو نظرة عامة على الرسوم البيانية.   
 

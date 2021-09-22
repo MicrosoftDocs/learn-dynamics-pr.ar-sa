@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1e4dbb42e1370cd46bb8d5db7beba67d9cac4acb
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: 36bbf2a680ae415f04d73f9dd29fafb12ebd975cb0ae1185f164eb842ba38d39
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659307"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7106054"
 ---
 بصفتك مطوّراً، عليك التعامل مع التطبيقات على Microsoft Power Platform من منظور أنه يجب أن يتم اعتبار كتابة التعليمات البرمجية لتحقيق الوظيفة المطلوبة لتطبيق الأعمال استثناءً لأسلوبَي عدم استخدام تعليمات برمجية أو استخدام تعليمات برمجية منخفضة. ومع ذلك، يجب أيضاً مراعاة الجوانب المرتبطة بالجودة، مثل إمكانية الصيانة والترقية والاستقرار والأداء، عند تحديد أفضل أسلوب لسيناريو محدّد.
 

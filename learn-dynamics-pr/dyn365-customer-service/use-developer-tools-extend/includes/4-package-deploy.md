@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d7b8092ec0d072ca29a0ed39237dcc130c9e9d86
-ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
+ms.openlocfilehash: 2ed9d962d4c0614e0ff3e0bee71cc25e1b9bb5a3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "6659249"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7335995"
 ---
 يُتيح Package Deployer للمسؤولين نشر الحزم في بيئات Microsoft Dataverse. كما يستخدم موردي البرامج المستقلين (ISVs) هذه الحزم لنشر حلول معتمدة لبيئات العملاء. يُمكن للمطورين المساعدة في تكوين الحزمة وإنشاء التعليمات البرمجية التي تعمل في أثناء مراحل التثبيت.
 
@@ -25,7 +25,7 @@ ms.locfileid: "6659249"
 > [!div class="mx-imgBorder"]
 > [![خطوات إنشاء حزمة توزيع.](../media/steps.png)](../media/steps.png#lightbox)
 
-لإضافة منطق مخصص، يتضمن القالب ملف PackageTemplate.cs، إذ يُمكنك تجاوز الأساليب التي تريد تطبيقها في منطق مخصص. يُمكنك قراءة المزيد عن إضافة منطق مخصص في [Package Deployer وثائق](https://docs.microsoft.com/power-platform/alm/package-deployer-tool?azure-portal=true##step-5-define-custom-code-for-your-package) الأداة.
+لإضافة منطق مخصص، يتضمن القالب ملف PackageTemplate.cs، إذ يُمكنك تجاوز الأساليب التي تريد تطبيقها في منطق مخصص. يُمكنك قراءة المزيد عن إضافة منطق مخصص في [Package Deployer وثائق](/power-platform/alm/package-deployer-tool?azure-portal=true##step-5-define-custom-code-for-your-package) الأداة.
 
 ## <a name="deploying-a-package"></a>نشر حزمة
 
@@ -37,13 +37,13 @@ ms.locfileid: "6659249"
 
 -   **AppSource** - يُستخدَم هذا النهج عند تحديد عرض ISV للتثبيت من مدخل AppSource.
 
-يُمكنك قراءة المزيد عن كيفية عمل النشر مع هذه الطرق في [نشر الحزم باستخدام Package Deployer وWindows PowerShell](https://docs.microsoft.com/power-platform/admin/deploy-packages-using-package-deployer-windows-powershell/?azure-portal=true).
+يُمكنك قراءة المزيد عن كيفية عمل النشر مع هذه الطرق في [نشر الحزم باستخدام Package Deployer وWindows PowerShell](/power-platform/admin/deploy-packages-using-package-deployer-windows-powershell/?azure-portal=true).
 
 ## <a name="including-data"></a>تضمين البيانات
 
 واحدة من الأشياء الرئيسية التي تميز Package Deployer عن مجرد تثبيت الحل هو أنه يمكنك تضمين بيانات المرجع / التكوين على أنه جزء من حزمة التوزيع.
 
-تُستخدم [أداة ترحيل التكوين](https://docs.microsoft.com/power-platform/admin/manage-configuration-data/?azure-portal=true) لنقل التكوين واختبار البيانات من بيئة إلى أخرى. إذ أنها توفر وسائل التقاط مثل هذه البيانات، وتضمين تلك البيانات في مستودع التحكم في المصدر، واستخدام تلك البيانات لأتمتة الاختبار. يُمكن استخدام هذه الأداة وحدها، ورُغم ذلك يمكن تضمين ملف data.zip الذي يتم تصديره على أنه جزء من حزمة توزيع. الخطوات عالية المستوى هي
+تُستخدم [أداة ترحيل التكوين](/power-platform/admin/manage-configuration-data/?azure-portal=true) لنقل التكوين واختبار البيانات من بيئة إلى أخرى. إذ أنها توفر وسائل التقاط مثل هذه البيانات، وتضمين تلك البيانات في مستودع التحكم في المصدر، واستخدام تلك البيانات لأتمتة الاختبار. يُمكن استخدام هذه الأداة وحدها، ورُغم ذلك يمكن تضمين ملف data.zip الذي يتم تصديره على أنه جزء من حزمة توزيع. الخطوات عالية المستوى هي
 
 1.  تعريف نظام بيانات المصدر المطلوب تصديرها
 

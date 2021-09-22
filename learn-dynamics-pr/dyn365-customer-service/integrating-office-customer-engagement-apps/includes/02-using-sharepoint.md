@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e818760b50892aa392ddcefcad3e06ce9b4b8f20
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 34ecad4d29de33476119c1e70fdffd43bf61ec9c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659151"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362922"
 ---
 يساعدنا SharePoint في عملنا اليومي مع Dynamics. يمثل الفيديو أدناه نظرة عامة على SharePoint.
 
@@ -84,7 +84,7 @@ ms.locfileid: "6659151"
 
 يمكن لـ Dynamics 365 الاتصال بـ SharePoint المستضاف في موقع آخر غير Microsoft 365، مثل الموقع المحلي.
 
-شيء واحد يجب مراعاته هو المصادقة كجزء من هذا النموذج. عند استخدام المصادقة المستندة إلى الخادم، يتم استخدام خدمات مجال Azure AD كوسيط ثقة ولا يحتاج المستخدمون إلى تسجيل الدخول إلى SharePoint. تتطلب عملية إعداد هذا الخطوات التي يجب اتباعها بالترتيب الصحيح، وإذا كنت بحاجة إلى مراعاة ذلك من أجلك، فيجب عليك التفكير في إجراء الإعداد التالي خطوة بخطوة.[تكوين المصادقة المستندة إلى الخادم باستخدام تطبيقات Dynamics 365 Customer Engagement](https://docs.microsoft.com/dynamics365/customer-engagement/admin/configure-server-based-authentication-sharepoint-on-premises) 
+شيء واحد يجب مراعاته هو المصادقة كجزء من هذا النموذج. عند استخدام المصادقة المستندة إلى الخادم، يتم استخدام خدمات مجال Azure AD كوسيط ثقة ولا يحتاج المستخدمون إلى تسجيل الدخول إلى SharePoint. تتطلب عملية إعداد هذا الخطوات التي يجب اتباعها بالترتيب الصحيح، وإذا كنت بحاجة إلى مراعاة ذلك من أجلك، فيجب عليك التفكير في إجراء الإعداد التالي خطوة بخطوة.[تكوين المصادقة المستندة إلى الخادم باستخدام تطبيقات Dynamics 365 Customer Engagement](/dynamics365/customer-engagement/admin/configure-server-based-authentication-sharepoint-on-premises) 
 
 بغض النظر عن هذا، ستكون التجربة مماثلة للعمل مع SharePoint الموجود في Microsoft 365.
 
@@ -112,7 +112,7 @@ ms.locfileid: "6659151"
 
 توفر كائنات التخزين هذه إطار عمل للبنية الأساسية لإدارة المحتوى التي يوفرها خادم SharePoint. 
 
-لمزيد من المعلومات، راجع [الأذونات المطلوبة لإدارة المستندات](https://docs.microsoft.com/dynamics365/customer-engagement/admin/permissions-required-document-management-tasks) 
+لمزيد من المعلومات، راجع [الأذونات المطلوبة لإدارة المستندات](/dynamics365/customer-engagement/admin/permissions-required-document-management-tasks) 
 
 ## <a name="working-with-document-locations"></a>التعامل مع مواقع المستندات
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5295300e39711d887eef398892b2a0ddbfecdd04
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 5ab9bfc8be4aff8a5673b39c09f2219dc12c36db
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7324646"
 ---
 مندوبو خدمة العملاء لديهم الكثير للقيام به أثناء العمل على مشكلات العملاء. يمكن أن تؤدي النقرات المتعددة والمهام المتكررة إلى خطأ بشري بينما ينسخ المندوبون البيانات ويلصقونها عبر عمليات مختلفة. تساعد وحدات الماكرو في معالجة هذه التحديات من خلال مساعدة المستخدمين في تنفيذ العمليات اليومية بشكل أسرع وأكثر كفاءة وبطريقة متوافقة مع العملية. تستخدم وحدات الماكرو بشكل شائع لأتمتة الإجراءات المتكررة. فهي تقلل من حدوث خطأ بشري عندما يقوم المندوبون بنسخ البيانات ولصقها وتساعد على تحسين إنتاجية العوامل. يؤدي تحسين إنتاجية المندوب إلى تقليل متوسط وقت المناولة وتحسين رضا العملاء. فكر في وحدات الماكرو كمكونات قابلة لإعادة الاستخدام، حيث يمكن استخدام الماكرو نفسه مع جلسات عمل مختلفة استنادا إلى متطلبات مؤسستك.
 
@@ -23,11 +23,11 @@ ms.locfileid: "6658479"
 
 بعد تعريف التفاصيل الأولية للماكرو، يمكنك تعريف الإجراءات المختلفة التي سيقوم الماكرو بتنفيذها. يمكنك إنجاز هذه المهمة باستخدام الموصلات المتوفرة:
 
-- **[أتمتة الإنتاجية](https://docs.microsoft.com/dynamics365/omnichannel/administrator/macros#productivity-automation/?azure-portal=true)** - توفير الإجراءات التي تؤدي عمليات التطبيق المستندة إلى النموذج.
+- **[أتمتة الإنتاجية](/dynamics365/omnichannel/administrator/macros?azure-portal=true#productivity-automation/)** - توفير الإجراءات التي تؤدي عمليات التطبيق المستندة إلى النموذج.
 
-- **[موصل جلسة العمل](https://docs.microsoft.com/dynamics365/omnichannel/administrator/macros#session-connector/?azure-portal=true)** - يوفر الإجراءات التي تؤدي العمليات المتعلقة بالجلسة.
+- **[موصل جلسة العمل](/dynamics365/omnichannel/administrator/macros?azure-portal=true#session-connector/)** - يوفر الإجراءات التي تؤدي العمليات المتعلقة بالجلسة.
 
-- **[موصل القناة متعددة الاتجاهات](https://docs.microsoft.com/dynamics365/omnichannel/administrator/macros#omnichannel-connector/?azure-portal=true)** - يوفر إجراءات لأداء العمليات ذات الصلة بالقناة متعددة الاتجاهات لـ Customer Service.
+- **[موصل القناة متعددة الاتجاهات](/dynamics365/omnichannel/administrator/macros?azure-portal=true#omnichannel-connector/)** - يوفر إجراءات لأداء العمليات ذات الصلة بالقناة متعددة الاتجاهات لـ Customer Service.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة للبحث عن الإجراء مباشرة حسب الاسم وإجراءات التصفية حسب النوع.](../media/2-2.png)](../media/2-2.png#lightbox)
@@ -91,4 +91,4 @@ ms.locfileid: "6658479"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لإجراءات موصل القناة متعددة الاتجاهات.](../media/2-5.png)](../media/2-5.png#lightbox)
 
-لمزيد من المعلومات، راجع [أتمتة المهام باستخدام وحدات الماكرو](https://docs.microsoft.com/dynamics365/omnichannel/administrator/macros#predefined-automation-actions-and-built-in/?azure-portal=true).
+لمزيد من المعلومات، راجع [أتمتة المهام باستخدام وحدات الماكرو](/dynamics365/omnichannel/administrator/macros#predefined-automation-actions-and-built-in/?azure-portal=true).

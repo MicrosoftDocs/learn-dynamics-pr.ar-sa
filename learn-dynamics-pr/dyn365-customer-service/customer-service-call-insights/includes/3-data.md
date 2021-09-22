@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: 094f6bb3425b3de8070550344331785942819ab4
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: 178f3c1de8588852dcdf2ed3b1acbb8efccd9bed
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6658451"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7351957"
 ---
 عندما تقوم مؤسستك بتكوين معلومات المكالمات، تتم معالجة تسجيلات مكالمات المندوبين وتحليلها لتوفير المعلومات الضرورية مثل الشعور العام للعملاء واتجاهات التوجه والكلمات الأساسية المحددة التي استخدمها العملاء أثناء المكالمات.
 
 توفر معلومات المكالمات الخيارات التالية لتكوين فترة الاحتفاظ:
 
--   [سياسة الاحتفاظ](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/ci-admin-data-retention-deletion#retention-policy/?azure-portal=true)
+-   [سياسة الاحتفاظ](/dynamics365/ai/customer-service-insights/ci-admin-data-retention-deletion#retention-policy/?azure-portal=true)
 
--   [حذف بيانات المندوب](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/ci-admin-data-retention-deletion#delete-agent-data/?azure-portal=true)
+-   [حذف بيانات المندوب](/dynamics365/ai/customer-service-insights/ci-admin-data-retention-deletion?azure-portal=true#delete-agent-data/)
 
 ## <a name="retention-policy"></a>سياسة الاحتفاظ
 

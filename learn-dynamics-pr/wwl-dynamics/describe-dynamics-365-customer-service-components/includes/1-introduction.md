@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 72b2bc572cce5efe6c01e163f15d5f8b43282cd6
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 7e95701f8fc3c29fb40e4dcdaf010f53d2a3a1bde7b9c258434549b79634a3e4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660606"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7118770"
 ---
 تساعد Dynamics 365 Customer Service مندوبين الخدمة بمجموعة واسعة من الأدوات المصممة للمساعدة في التحكم في إدارة الحالات وحل المشكلات بشكل أسرع. يمكن للمندوبين إدارة أعباء العمل بسهولة وتحديد الحالات التي يجب التركيز عليها استناداً إلى عوامل مثل النوع أو الخطورة أو مؤشرات الأداء الأساسية (KPIs) الأخرى القابلة للتكوين. مدعوماً من Microsoft Power Platform، فإنه يوفر مجموعة من الإمكانات التي تمكن الجميع من التحليل، والعمل، والأتمتة عبر مؤسستهم لتحويل أعمال خدماتهم من الألف إلى الياء.
 

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agent-productivity-personalization-omnichannel.5-conversation-assignment
+title: تمكين التعيين التلقائي للمحادثات
+metadata:
+  title: تمكين التعيين التلقائي للمحادثات
+  description: تعرف على كيفية تمكين التعيين التلقائي للمحادثات.
+  ms.date: 08/04/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8614abf70c58cedcae4eb1cdff9903b80ea5083b97be77ebb02c5d8d2923205c
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7070139"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-conversation-assignment.md)]"

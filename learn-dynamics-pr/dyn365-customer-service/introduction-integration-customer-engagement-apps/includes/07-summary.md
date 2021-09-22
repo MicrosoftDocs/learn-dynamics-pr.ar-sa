@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f42e68f576a60a1cec06b089e8b3380f935917e0
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 80a623d07659def5903c7a9aa60f9643a21a2cb59a95158e3c55819f549458ca
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064573"
 ---
 غُطت هذه الوحدة:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9daf1a3f56ca8d2b676fb91209514cbe2caf764d
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ee5ea764d73b5c2244aeecbf2187a6dce93db9e8f721bed674f611ad634a47ba
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659169"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7083664"
 ---
 كما رأيت، تساعد Microsoft Dynamics 365 for Customer Service المؤسسات على تقديم خدمة أفضل لعملائها وإدارة عبء قضايا المندوبين من خلال توفير مجموعة واسعة من خيارات إدارة الحالات. سواء كان المندوبين يبحثون عن طرق أكثر فاعلية لإنشاء الحالات أو طرق أفضل لإدارة دورة حياة الحالة، يمكن لأدوات إدارة الحالة في Microsoft Dynamics 365مساعدتهم خلال عملية الإدارة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 742c1d5e5a9ce62ee80ccc44dad71679adaf55ba
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 683926f9e1ef6dcd66fe84c865fd387a9877ebe1136bf54659badb189209680d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659095"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7083885"
 ---
 إن المقالات المعرفية هي الأجدى لمَن يستخدمونها إذا سهل ذلك في سياق الحاجة إليها. ويسهل كثيراً على المندوبين إيجاد أفضل المقالات لحل مشكلات العملاء إذا تمكَّن هؤلاء المندوبين من استخدام المعلومات ذات الصلة الواردة في الحالة التي يعملون عليها للبحث عن المقالات. تتيح 365 Microsoft Dynamics للمؤسسات عدة طرق لتحديد الحالات التي من المفترض أن تتوفر فيها معلومات المقالة للمندوبين وأماكن توفُّر هذه المعلومات.
 

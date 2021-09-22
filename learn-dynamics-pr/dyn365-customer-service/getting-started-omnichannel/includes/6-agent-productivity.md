@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 68b02d09116c213274a3268b2c4793058f21ee35
-ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
+ms.openlocfilehash: 8825929c59c118bb874a65d2f2ed20ba208588f06a5e739081308ba2cf8ec338
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6658466"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7143240"
 ---
 ## <a name="agent-scripts"></a>البرامج النصية للمندوب
 

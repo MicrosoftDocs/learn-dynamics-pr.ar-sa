@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e967c25aa23330ad7b2f6286705043b18ab97dea
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 173a0629d2ebe2923e4248d386e4f319d2525d5b
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6658461"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7326657"
 ---
 يؤدي دمج روبوت Power Virtual Agents إلى مشاركة السجل الكامل للمحادثة (السياق) وأي متغيرات يحددها المستخدم مع القناة متعددة الاتجاهات لـ Customer Service. تسمح هذه الميزة للقناة متعددة الاتجاهات لـ Customer Service بتوجيه التصعيدات الواردة إلى قائمة انتظار المندوب المباشر المناسبة، كما يسمح المندوبون المباشرون بمراجعة ما حدث بالضبط في المحادثة السابقة بحيث يمكنهم استئناف عند هذه النقطة. يمنع هذا الجانب المندوبين من احتمال طلب المعلومات التي تم التقاطها مسبقاً بواسطة الروبوت.
 
@@ -12,7 +12,7 @@ ms.locfileid: "6658461"
 
 عند إنشاء روبوت، والنظر في كيفية المعلومات التي يتم جمعها من قبل بوت يمكن أن تؤثر على المحادثة إذا كان يحتاج إلى نقلها إلى مندوب. يمكن لروبوتات Power Virtual Agents طرح أسئلة للحصول على المعلومات وتخزينها لاستخدامها لاحقاً كمتغيرات. يمكن توفير المتغيرات في جميع أنحاء الروبوت واستخدامها لتخصيص الرسائل التي يتم توفيرها للعملاء، أو تحديد كيفية تفاعل الروبوت مع العميل، أو الإشارة إلى أنه يجب تمريره إلى تطبيقات أخرى كمعلمات إدخال. يمكن أن تكون المتغيرات مفيدة أيضاً عندما يقوم الروبوت بنقل محادثة إلى مندوب. يمكن استخدام البيانات من هذه المتغيرات بواسطة قواعد توجيه القناة متعددة الاتجاهات لـ Customer Service لضمان إرسال المحادثة إلى الموقع المناسب. على سبيل المثال، إذا طلب روبوت خدمة العملاء من العميل تقديم سبب للتواصل، وأشار العميل إلى "الفوترة"، فسيتم تخزين كلمة "الفوترة" في المحادثة كمتغير. عند نقل المحادثة إلى القناة متعددة الاتجاهات لـ Customer Service، يمكن لقاعدة التوجيه تحديد هذا العنصر كطلب فوترة ثم التأكد من توجيهه إلى الموقع الصحيح.
 
-لمزيد من المعلومات، راجع [استخدام المتغيرات في روبوت](https://docs.microsoft.com/power-virtual-agents/authoring-variables/?azure-portal=true). 
+لمزيد من المعلومات، راجع [استخدام المتغيرات في روبوت](/power-virtual-agents/authoring-variables/?azure-portal=true). 
 
 يعد العمل مع المتغيرات جزءاً من تصميم الروبوت والتحكم في كيفية تفاعل العملاء معه. يحتوي Power Virtual Agents على العديد من الميزات المختلفة التي تساعد في التحكم في تدفق المحادثة ويمكن أن يكون لها تأثير على كيفية نقل المحادثة. واحدة من هذه الميزات الرئيسية هي الموضوعات، والتي تملي مسارات المحادثة التي يتم توجيه العملاء أثناء التفاعل مع الروبوت.
 
@@ -30,7 +30,7 @@ ms.locfileid: "6658461"
 
 -   **الإنهاء باستطلاع** - يظهر استطلاع يسأل المستخدم إذا كانت الإجابة على سؤاله أو مشكلته أو تم حلها بشكل صحيح.
 
--   **نقل إلى مندوب** - تصعيد المحادثة إلى [إلى مندوب مباشر](https://docs.microsoft.com/power-virtual-agents/advanced-hand-off/?azure-portal=true).
+-   **نقل إلى مندوب** - تصعيد المحادثة إلى [إلى مندوب مباشر](/power-virtual-agents/advanced-hand-off/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![نقل المحادثة إلى مندوب أو الإنهاء باستطلاع.](../media/unit-3-1-ss.png)](../media/unit-3-1-ss.png#lightbox)
@@ -39,7 +39,7 @@ ms.locfileid: "6658461"
 
 ## <a name="configure-where-to-hand-off-the-conversation"></a>تكوين مكان تسليم المحادثة
 
-الجزء الثاني من تسهيل النقل إلى المندوب هو تكوين الروبوت لإرسال المحادثة إلى بيئة قناة متعددة الاتجاهات لـ Customer Service محددة. يمكن استخدام برامج الروبوت المنشورة فقط لضمان عمل الإمكانات الشاملة على النحو المتوقع. تأكد من أنك قد  [نشرت الروبوت الخاص بك](https://docs.microsoft.com/power-virtual-agents/getting-started-deploy/?azure-portal=true)  قبل التحقق من صحة التجربة المتكاملة.
+الجزء الثاني من تسهيل النقل إلى المندوب هو تكوين الروبوت لإرسال المحادثة إلى بيئة قناة متعددة الاتجاهات لـ Customer Service محددة. يمكن استخدام برامج الروبوت المنشورة فقط لضمان عمل الإمكانات الشاملة على النحو المتوقع. تأكد من أنك قد  [نشرت الروبوت الخاص بك](/power-virtual-agents/getting-started-deploy/?azure-portal=true)  قبل التحقق من صحة التجربة المتكاملة.
 
 يمكن تكوين كل روبوت فقط لإرسال محادثات إلى بيئة قناة متعددة اتجاهات لـ Customer Service واحدة. ستحدد بيئة Dynamics 365 في الروبوت الفردي. إذا تم إرسال المحادثات من عدة روبوتات إلى بيئة Dynamics 365، فسيلزم تكوين كل روبوت بشكل فردي.
 
@@ -52,14 +52,14 @@ ms.locfileid: "6658461"
 
 في مدخل Azure، انتقل إلى Azure AD، وحدد **تسجيلات التطبيقات**. سيتم عرض جميع التطبيقات المسجلة. حدد التطبيق الذي تريد استخدامه مع الروبوت. سيكون حقل **معرف التطبيق** في صفحة نظرة عامة على التطبيق. انسخ المعرف والصقه في حقل Power Virtual Agents **معرف التطبيق**.
 
-يستخدم Power Virtual Agents قناة Microsoft [Teams](https://docs.microsoft.com/power-virtual-agents/getting-started-deploy/?azure-portal=true)  للاتصال بالقناة متعددة الاتجاهات لـ Customer Service. أثناء اتباع معالج الإعداد، إذا لم يتم تمكين قناة Teams، فسيتم تمكين قناة Teams تلقائياً.
+يستخدم Power Virtual Agents قناة Microsoft [Teams](/power-virtual-agents/getting-started-deploy/?azure-portal=true)  للاتصال بالقناة متعددة الاتجاهات لـ Customer Service. أثناء اتباع معالج الإعداد، إذا لم يتم تمكين قناة Teams، فسيتم تمكين قناة Teams تلقائياً.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لمعرف تطبيق Power Virtual Agents.](../media/unit-3-3-ssm.png)](../media/unit-3-3-ssm.png#lightbox)
 
 يتمثل الجزء الأخير من عملية التكوين في تحديد القناة متعددة الاتجاهات لـ Customer Service التي تريد استخدامها مع هذا الروبوت. تأكد من تحديد بيئة تحتوي على القناة متعددة الاتجاهات لـ Customer Service المقدمة. تعرض القائمة جميع البيئات المتوفرة، حتى إذا لم يتم توفير القناة متعددة الاتجاهات لـ Customer Service.
 
-بعد إنشاء الاتصال، يمكنك تحديد ارتباط  **الانتقال إلى القناة متعددة الاتجاهات**  من أجل  [متابعة تكوين اتصال الروبوت في القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/administrator/configure-bot-virtual-agent/?azure-portal=true).
+بعد إنشاء الاتصال، يمكنك تحديد ارتباط  **الانتقال إلى القناة متعددة الاتجاهات**  من أجل  [متابعة تكوين اتصال الروبوت في القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/administrator/configure-bot-virtual-agent/?azure-portal=true).
 
 ## <a name="remove-the-omnichannel-for-customer-service-connection"></a>إزالة الاتصال بالقناة متعددة الاتجاهات لـ Customer Service
 
@@ -69,6 +69,6 @@ ms.locfileid: "6658461"
 
 أثناء العمل مع تكامل التسليم، قد تجد أن بعض العناصر، مثل الرموز التعبيرية وأنواع معينة من الملاحظات أو المتغيرات، قد لا يتم عرضها على النحو المنشود. قد يكون أحد الأسباب بسبب القيود داخل القناة متعددة الاتجاهات لـ Customer Service أو التكامل بينهما.
 
-لمزيد من المعلومات، راجع [مشكلات وقيود القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/omnichannel-readme/?azure-portal=true). 
+لمزيد من المعلومات، راجع [مشكلات وقيود القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/omnichannel-readme/?azure-portal=true). 
 
-لمزيد من المعلومات، راجع [القيود المعروفة مع تكامل Power Virtual Agents](https://docs.microsoft.com/power-virtual-agents/configuration-hand-off-omnichannel#known-limitations/?azure-portal=true). 
+لمزيد من المعلومات، راجع [القيود المعروفة مع تكامل Power Virtual Agents](/power-virtual-agents/configuration-hand-off-omnichannel?azure-portal=true#known-limitations/). 

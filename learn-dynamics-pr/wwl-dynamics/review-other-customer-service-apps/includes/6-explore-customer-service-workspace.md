@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8393241d0d6cdc411ed6be9f2d3ee638e2f5cae0
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: b4ab71257b7e66b09c66a7f1942ed5dca53c2177aa90df331b6f16571a01d2a6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660548"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7123950"
 ---
 تجمع Customer Service Workspace بين إمكانات إدارة جلسة العمل الخاصة بالقناة متعددة الاتجاهات لـ Customer Service مع الكثير من القدرات الأساسية لإدارة الحالات وإدارة المعرفة الموجودة في تطبيق مركز خدمة العملاء التقليدي.
 

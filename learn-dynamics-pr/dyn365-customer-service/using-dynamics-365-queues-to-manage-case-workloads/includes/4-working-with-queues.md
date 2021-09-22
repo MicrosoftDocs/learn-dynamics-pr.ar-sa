@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a76600823e4a75570540dff415178d35e249fc61
-ms.sourcegitcommit: 500f30aa3428eca16f3c2131ccf477d58bc2ef04
+ms.openlocfilehash: 04ca36b34e91f0cf8b1038e6df4701ad4465aa02d994cf2344e0fc0f40519c12
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6658486"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7079510"
 ---
 كما ذكرنا في تكوين الكيانات وصفوف الانتظار، يمكن إعداد معظم أنواع السجلات لاستخدام صفوف الانتظار في Microsoft Dynamics 365. ولكن يتم تكوين أنواع سجلات النشاط والحالات فقط مسبقاً لدعم صفوف الانتظار. بعد إعداد نوع السجل لاستخدام صفوف الانتظار، يمكن وضع الأصناف في صفوف الانتظار.
 

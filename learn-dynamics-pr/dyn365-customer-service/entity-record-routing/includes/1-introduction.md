@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cddd34dc137c0c73c5ce760d8b7372e778af0d18
-ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+ms.openlocfilehash: 6e0c774363f3eaab4a571c6cfb466ff67a2e8fe4
+ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "6658527"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "7413228"
 ---
 يتيح حل Dynamics 365 core Customer Service للمؤسسات إمكانية إدارة المشكلات التي يواجهها العملاء وحلها. وفق سيناريو تقليدي، يمكنك تنفيذ إدارة الحالة باستخدام المكونات الأساسية لخدمة العملاء.
 

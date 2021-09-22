@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 68ac4bfc273984bb22c5b42ab78fa79c42a8f54b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: daa71e5c8f676b0f81ba1032fcfb2c18db607290
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659182"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325611"
 ---
-إذا كانت مؤسستك تستخدم Skype for Business أو Skype، فيمكنك الاستفادة من ميزات الاتصال مثل النقر للاتصال أو التحقق من توفر المستخدم من داخل تطبيقات Dynamics 365 Customer Engagement Microsoft Dynamics 365 for Outlook. 
+إذا كانت مؤسستك تستخدم Skype for Business أو Skype، فيمكنك الاستفادة من ميزات الاتصال مثل النقر للاتصال أو التحقق من توفر المستخدم من داخل تطبيقات Dynamics 365 Customer Engagement أو Microsoft Dynamics 365 for Outlook. 
 
 ### <a name="prerequisites"></a>المتطلبات الأساسية
 
@@ -46,4 +46,4 @@ ms.locfileid: "6659182"
 
 ![لقطة شاشة تعرض الحالات المختلفة لمستخدم Skype for Business](../media/Skype_for_Business_and_Skype_image4.png)
 
-للحصول على معلومات إضافية، الرجاء مراجعة [تكامل Skype for Business وSkype](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/skype-business-integration) و[إعداد Dynamics 365 Customer Engagement تطبيقات (عبر الإنترنت) لاستخدام Skype أو Skype for Business](https://docs.microsoft.com/dynamics365/customer-engagement/admin/set-up-skype-or-skype-for-business). 
+للحصول على معلومات إضافية، الرجاء مراجعة [تكامل Skype for Business وSkype](/dynamics365/customerengagement/on-premises/admin/skype-business-integration) و [إعداد تطبيقات (عبر الإنترنت) لاستخدام Skype أو Skype for Business](/dynamics365/customer-engagement/admin/set-up-skype-or-skype-for-business). 

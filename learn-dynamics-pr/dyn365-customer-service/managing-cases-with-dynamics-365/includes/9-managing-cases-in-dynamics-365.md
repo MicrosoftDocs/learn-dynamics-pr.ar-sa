@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c7c61fd0b7ed3065b971fff4ce8abf560efcb98
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 4a3887baa5d3c7c80929617fb1541d84c9d972a32d0f487e72e79c04695403a1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659235"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059983"
 ---
 يُمكّن Dynamics 365 for Customer Service المؤسسة من خدمة عملائها بطرق عديدة اعتماداً على الاحتياجات المحددة للعميل، ونموذج خدمة المؤسسات والعوامل المحددة الأخرى. تُعد قدرات إدارة الحالات واحدة من السمات الرئيسية لحل خدمة العملاء.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b110c7ebe84be12be0b8df00f17d96f77a258961
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: 14dd491202e5a4fd62646bf2d0148141057b8153
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659227"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7341954"
 ---
 تُعرِّف تفاصيل اتفاقية مستوى الخدمة (SLA) مؤشرات الأداء الرئيسية (KPI) المحددة التي تريد قياسها. كما أنها تُحدد متى ينبغي تطبيق عنصر معين. وكما ذكرنا في وحدة النظرة العامة، فإن اتفاقية مستوى الخدمة سيكون لها عناصر تفاصيل متعددة محددة لها.
 
@@ -60,7 +60,7 @@ ms.locfileid: "6659227"
 > [!NOTE] 
 > في كثير من الحالات، يُحدد حقل "مؤشر الاستجابة الأولى" المؤقت الذي يحسب الوقت المتبقي لمؤشر الأداء الرئيسي للاستجابة الأولى.  سيساعد تحديد ما إذا كان هذا الحقل يحتاج إلى تحديث يدوي أو تلقائي على ضمان إيقاف المؤقت في الوقت اللازم.  
 
-لمعرفة المزيد عن إنشاء تفاصيل اتفاقية مستوى الخدمة، راجع [إنشاء اتفاقية مستوى خدمة محسنة](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/define-service-level-agreements#create-an-enhanced-sla).
+لمعرفة المزيد عن إنشاء تفاصيل اتفاقية مستوى الخدمة، راجع [إنشاء اتفاقية مستوى خدمة محسنة](/dynamics365/customer-engagement/customer-service/define-service-level-agreements#create-an-enhanced-sla).
 
 ## <a name="working-with-multiple-sla-items"></a>العمل مع العديد من عناصر اتفاقية مستوى الخدمة
 

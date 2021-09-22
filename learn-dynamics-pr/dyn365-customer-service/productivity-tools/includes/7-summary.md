@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 478b509aabd38673353a54427241bca94e9e5e9b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 070e4c30b5cf36c209fca25a41ef225922146d79db6b4bb95d08fa6640c13240
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6658394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048517"
 ---
 تتزايد التوقعات يوميًا بامتلاك مراكز الدعم مزيدًا من المندوبين. يتعامل المندوبون مع أعداد متزايدة من المشكلات ومن المتوقع أن يحلوها بشكل أسرع. وفي حين أن هذه المسؤولية يمكن أن تكون صعبة بما فيه الكفاية، يتوقع من المندوبين أيضًا تحقيق هذه الأهداف مع الحفاظ على مستوى عالٍ من رضا العملاء.
 

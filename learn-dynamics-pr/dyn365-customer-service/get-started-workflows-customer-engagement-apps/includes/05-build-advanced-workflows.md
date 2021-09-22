@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9eea06f9637cb1c0152078ce4d24ac278c7aee3e
-ms.sourcegitcommit: de79d56e760ae35a1ea1549067da2fba04de7088
+ms.openlocfilehash: 1970cd6aeef71a1d0378a8e5f0dff9883d30668a95535c3590af95a3948a44fb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "6659202"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094903"
 ---
 استخدم مهام سير العمل الفوري عندما تتطلب إحدى العمليات التجارية من شخص ما رؤية نتائج العملية على الفور أو إذا كنت تريد القدرة على إلغاء عملية ما. على سبيل المثال، قد ترغب في تعيين قيم افتراضية معينة لسجل ما في المرة الأولى التي يتم فيها حفظه، أو قد ترغب في التأكد من عدم حذف بعض السجلات.
 

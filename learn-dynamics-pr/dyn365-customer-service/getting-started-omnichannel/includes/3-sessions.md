@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a38db51d487261d78b4d6e39c06b7829984d1203
-ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
+ms.openlocfilehash: 5d86067abd235e13b2c18f1cab2c42655cbd30965478d841c28113bb0d95b3b7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6658469"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7143326"
 ---
 ## <a name="omnichannel-sessions"></a>جلسات عمل القناة متعددة الاتجاهات
 

@@ -8,13 +8,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: f5b2e55399e0e9c8099e979d3a15ed9fe7479d34
-  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.service: dynamics-365-customer-service
+  ms.openlocfilehash: e535385de8e7c051c1ecf5ac625ee229bbc6d0b7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6660646"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7330836"
 azureSandbox: false
 durationInMinutes: 10
 content: '[!include[](includes/3-learn-how-to-use-customer-service-scheduling.md)]'

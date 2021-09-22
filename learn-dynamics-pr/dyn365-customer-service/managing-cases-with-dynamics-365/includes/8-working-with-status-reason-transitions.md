@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 917d9c44253f085d2382652fbf80725c7b1ebc45
-ms.sourcegitcommit: 58257490f8a982b07f28d85b8e79bc1530e221c4
+ms.openlocfilehash: 14dfa6938f22fbc0772e19093007f4c9a6f5268c
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6659241"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7334373"
 ---
 تساعد حالة سجل ما في تحديد مكان السجل في عملية معينة. فمثلاً، إذا كنت تعمل حالياً على مشكلة في النظام، فإن حالة المشكلة تعتبر *نشط*. وبعد إغلاق المشكلة، يمكن تعيينها إلى الحالة "محلول". وتسهِّل هذه الحالات فرز السجلات المحددة في النظام، وتصفيتها، والاستعلام عنها.
 
@@ -65,4 +65,4 @@ ms.locfileid: "6659241"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IJmp]
 
-لمزيد من المعلومات حول انتقالات سبب الحالة، راجِع [تعريف انتقالات سبب الحالة للمشكلة أو الكيانات المخصصة](https://docs.microsoft.com/dynamics365/customer-engagement/customize/define-status-reason-transitions).
+لمزيد من المعلومات حول انتقالات سبب الحالة، راجِع [تعريف انتقالات سبب الحالة للمشكلة أو الكيانات المخصصة](/dynamics365/customer-engagement/customize/define-status-reason-transitions).

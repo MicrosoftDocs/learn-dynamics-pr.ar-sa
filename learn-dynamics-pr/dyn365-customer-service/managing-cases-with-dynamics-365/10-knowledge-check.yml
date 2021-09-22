@@ -3,20 +3,18 @@ uid: learn-bizapps.customer-service-cases.10-knowledge-check
 metadata:
   title: إدارة الحالات بـ Microsoft Dynamics 365
   description: سيختبر فحص المعرفة هذا معرفتك بإدارة الحالات باستخدام Microsoft Dynamics 365.
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 7b3370dc8f9379c35f8a5629b94351a5d272d676
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: bd6493061639a2d797e2c1d6e328d1f3217f04a3
+  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659173"
+  ms.lasthandoff: 09/07/2021
+  ms.locfileid: "7478605"
 title: اختبر معلوماتك
-durationInMinutes: 5
+durationInMinutes: 6
 quiz:
   title: إدارة الحالات مع فحص المعرفة Microsoft Dynamics 365
   questions:

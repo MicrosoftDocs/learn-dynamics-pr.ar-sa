@@ -7,14 +7,14 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
+  ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: cf7cb85d36d5adbadd44a4fb95460a20ac8732e3
-  ms.sourcegitcommit: 976ec434fb8a2baac36ef7ada74514fc8819cca8
+  ms.openlocfilehash: f6da30fc15db1f987001005682262727029aece9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "6659262"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364451"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

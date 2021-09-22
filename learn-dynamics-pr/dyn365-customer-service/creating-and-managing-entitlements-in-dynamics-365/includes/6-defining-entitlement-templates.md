@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d39c71e80cf20da8b757f9127bdfee933c3a9b1c
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 3b9ca5552def8222547fb6c145d67fb516127dc703251e316bffabce65fd66ae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659210"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7070056"
 ---
 نظراً لأن الاستحقاقات يمكن أن تغطي مجموعة متنوعة من السيناريوهات، فقد تجد أنه من الأسهل إنشاء قوالب الاستحقاق وتحديدها. تساعدك القوالب في إنشاء سجلات استحقاق جديدة بملء بعض البيانات الأكثر شيوعاً مسبقاً.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa6c66087e9fc9658862bb704152ed236550f0ee
-ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+ms.openlocfilehash: f3477c726e360d43db9f3eb79636d6d2831eb1109de32c5f2e4b7057193b969f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "6659315"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7083374"
 ---
 في هذا التدريب، ستقوم بتثبيت ‪Power Apps CLI‬، وإنشاء أول مكون في ‪Power Apps Component Framework (PCF)‬.
 

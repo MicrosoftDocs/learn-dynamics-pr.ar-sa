@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: d2633050480ecf1de76eda95ac47c527c561cf93
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: 07c3d999f1b35c7b95ba0dcbd7d33686e30728d548736eb366094e2e2fdbc47f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6659197"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048988"
 ---
-تحقق التمارين أفضل النتائج عند استخدام الإصدار 9.0 أو إصدار أحدث من البيئة التجريبية لتطبيقات Dynamics 365 Customer Engagement.
+تعمل التمارين بشكل أفضل عند استخدام الإصدار 9.0 من بيئة الإصدار التجريبي من تطبيقات Dynamics 365 Customer Engagement أو إصدار أحدث.
 
 ### <a name="learning-objectives"></a>الأهداف التعليمية
 

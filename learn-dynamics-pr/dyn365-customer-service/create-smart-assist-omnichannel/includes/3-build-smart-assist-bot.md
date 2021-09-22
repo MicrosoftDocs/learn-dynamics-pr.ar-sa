@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f6f14bec8d1bf51ab66bffa613b5fdb591985af5
-ms.sourcegitcommit: b70360621a627d43da880ca9a2763cc2bdea821d
+ms.openlocfilehash: 3e2df8e12c58d811777bdce5a4a543a58802a586
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "6658491"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342684"
 ---
  [**الوصول إلى نموذج حل روبوت المساعدة الذكية هنا**](https://github.com/microsoft/Dynamics365-Apps-Samples/blob/master/customer-service/omnichannel/smart-assist-bot/README.md/?azure-portal=true)
 
@@ -12,10 +12,10 @@ ms.locfileid: "6658491"
 
 لإنشاء روبوت مساعدة ذكية، يجب أن تفهم كيفية إنشاء روبوت باستخدام خدمة Azure Bot وكيفية إنشاء تطبيق خدمة فهم اللغة الذكية (LUIS). بينما هذه المواضيع تتجاوز الهدف من هذه الوحدة، يمكنك العثور على معلومات إضافية عن طريق تحديد الارتباطات التالية:
 
-- [إنشاء روبوت المساعدة الذكية](https://docs.microsoft.com/dynamics365/omnichannel/developer/how-to/smart-assist-bot/?azure-portal=true)
-- [إنشاء روبوت باستخدام خدمة روبوت Azure‬](https://docs.microsoft.com/azure/bot-service/abs-quickstart?azure-portal=true)
-- [إضافة لغة طبيعية إلى الروبوت الخاص بك](https://docs.microsoft.com/azure/bot-service/bot-builder-howto-v4-luis?azure-portal=true)
-- [استرداد معلومات التطبيق من مدخل LUIS.ai](https://docs.microsoft.com/azure/bot-service/bot-builder-howto-v4-luis/?azure-portal=true)
+- [إنشاء روبوت المساعدة الذكية](/dynamics365/omnichannel/developer/how-to/smart-assist-bot/?azure-portal=true)
+- [إنشاء روبوت باستخدام خدمة روبوت Azure‬](/azure/bot-service/abs-quickstart?azure-portal=true)
+- [إضافة لغة طبيعية إلى الروبوت الخاص بك](/azure/bot-service/bot-builder-howto-v4-luis?azure-portal=true)
+- [استرداد معلومات التطبيق من مدخل LUIS.ai](/azure/bot-service/bot-builder-howto-v4-luis/?azure-portal=true)
 
 خذ بعين الاعتبار سيناريو شائع حيث قد ترغب مؤسسة تستخدم القناة متعددة الاتجاهات لـ Customer Service في استخدام روبوت مساعدة ذكية لتوفير مساعدة المندوب. بينما يعمل المندوب مع عميل، قد يكون من المناسب أن يتم تقديم قائمة بحالات مماثلة كوصية. يمكن للمندوب فتح وعرض القرار للحالة التي يشعرون أنها أكثر تشابهاً وأهمية. بعد ذلك، يمكن أن يقترح المندوب هذا القرار للعميل عبر قناة الاتصال المستخدمة، مثل المحادثة.
 
@@ -35,7 +35,7 @@ ms.locfileid: "6658491"
 
 لمزيد من المعلومات حول استخدام خدمة ذكية لفهم اللغة (LUIS)، راجع [*https://www.luis.ai/*](https://www.luis.ai/?azure-portal=true).
 
-لعرض نموذج تطبيق LUIS، انتقل إلى [تطبيق التنفيذ التلقائي الرئيسي الذي تم إنشاؤه مسبقاً لاستخدام بدء التشغيل السريع](https://docs.microsoft.com/azure/cognitive-services/luis/luis-get-started-create-app/).
+لعرض نموذج تطبيق LUIS، انتقل إلى [تطبيق التنفيذ التلقائي الرئيسي الذي تم إنشاؤه مسبقاً لاستخدام بدء التشغيل السريع](/azure/cognitive-services/luis/luis-get-started-create-app/).
 
 ### <a name="write-adaptive-cards"></a>كتابة بطاقات المواءمة
 
@@ -47,15 +47,15 @@ ms.locfileid: "6658491"
 
 في سيناريو حالة مشابهة، تحتاج إلى تكوين المعلمات التالية في البيئة:
 
-- **إعداد قواعد التشابه** - يجب تكوين هذه القواعد للكيان الذي تريد عرض النتائج له. [إنشاء قاعدة تشابه جديدة لعرض حالات مشابهة](https://docs.microsoft.com/dynamics365/customer-service/suggest-similar-cases-for-a-case#create-a-new-similarity-rule-to-view-similar-cases/?azure-portal=true).
+- **إعداد قواعد التشابه** - يجب تكوين هذه القواعد للكيان الذي تريد عرض النتائج له. [إنشاء قاعدة تشابه جديدة لعرض حالات مشابهة](/dynamics365/customer-service/suggest-similar-cases-for-a-case#create-a-new-similarity-rule-to-view-similar-cases/?azure-portal=true).
 
-- **تشغيل بحث الصلة** - بحث الصلة عامل أساسي في تحديد المعلومات التي يتم إرجاعها. تقوم آلية البحث بتصفية الحالات باستخدام عبارات أساسية وتقترح حالات مماثلة. [تمكين حقل لمطابقة الحالات المشابهة تماماً](https://docs.microsoft.com/dynamics365/customer-service/suggest-similar-cases-for-a-case#enable-a-field-for-exact-matching-of-similar-cases/?azure-portal=true).
+- **تشغيل بحث الصلة** - بحث الصلة عامل أساسي في تحديد المعلومات التي يتم إرجاعها. تقوم آلية البحث بتصفية الحالات باستخدام عبارات أساسية وتقترح حالات مماثلة. [تمكين حقل لمطابقة الحالات المشابهة تماماً](/dynamics365/customer-service/suggest-similar-cases-for-a-case#enable-a-field-for-exact-matching-of-similar-cases/?azure-portal=true).
 
 - **واجهة برمجة تطبيقات (API‎) الحالات المشابهة** - بعد تكوين قواعد التشابه والبحث الملائم، يمكن جلب حالات مماثلة باستخدام وظيفة GetSimilarRecords.
 
 ### <a name="call-custom-actions-by-using-adaptive-cards"></a>استدعاء الإجراءات المخصصة باستخدام بطاقات المواءمة
 
-إذا كنت تريد تضمين إجراء مخصص ضمن اقتراح، فستحتاج إلى إنشاء مورد ويب. راجع موضوع Power Apps بشأن  [إنشاء إجراءاتك الخاصة](https://docs.microsoft.com/powerapps/developer/common-data-service/custom-actions/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء إجراء مخصص. راجع موضوع [موارد الويب في التطبيقات المستندة إلى النموذج](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-edit-web-resources/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء موارد الويب. يجب تحميل موارد الويب هذه ضمن نموذج  **ملخص العميل**.
+إذا كنت تريد تضمين إجراء مخصص ضمن اقتراح، فستحتاج إلى إنشاء مورد ويب. راجع موضوع Power Apps بشأن  [إنشاء إجراءاتك الخاصة](/powerapps/developer/common-data-service/custom-actions/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء إجراء مخصص. راجع موضوع [موارد الويب في التطبيقات المستندة إلى النموذج](/powerapps/maker/model-driven-apps/create-edit-web-resources/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء موارد الويب. يجب تحميل موارد الويب هذه ضمن نموذج  **ملخص العميل**.
 
 ### <a name="sample-bot-that-displays-knowledge-article-recommendations"></a>نموذج: روبوت يعرض توصيات مقالة معرفية
 

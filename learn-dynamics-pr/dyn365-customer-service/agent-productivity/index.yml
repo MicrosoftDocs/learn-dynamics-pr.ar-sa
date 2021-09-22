@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.agent-productivity
+metadata:
+  title: تحسين إنتاجية الوكيل وإضفاء الطابع الشخصي في مركز خدمة العملاء
+  description: تعرف على كيفية تكوين المعلومات السابقة المحفوظة وأدوات الاتصال لمساعدة وكلائك على أن يكونوا أكثر إنتاجية.
+  ms.date: 08/05/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 36f34854fc395e819358da791c392aaf3958c747
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7356917"
+title: تحسين إنتاجية الوكيل وإضفاء الطابع الشخصي في مركز خدمة العملاء
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تكوين المعلومات السابقة المحفوظة وأدوات الاتصال لمساعدة وكلائك على أن يكونوا أكثر إنتاجية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على عنصر التحكم في المخطط الزمني وكيفية تعديله ليلائم احتياجات المؤسسة.\n- استكشف كيف يمكن للوكلاء استخدام وظائف البريد الإلكتروني في Microsoft Dynamics 365.\n- راجع عملية تكوين وظائف البريد الإلكتروني للوكلاء.\n"
+prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics 365 Customer Service
+iconUrl: /learn/achievements/agent-productivity.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.agent-productivity.1-introduction
+- learn-dynamics.agent-productivity.2-timeline-configuration
+- learn-dynamics.agent-productivity.3-email-agents
+- learn-dynamics.agent-productivity.4-configure-email
+- learn-dynamics.agent-productivity.5-check
+- learn-dynamics.agent-productivity.6-summary
+badge:
+  uid: learn-dynamics.agent-productivity.badge

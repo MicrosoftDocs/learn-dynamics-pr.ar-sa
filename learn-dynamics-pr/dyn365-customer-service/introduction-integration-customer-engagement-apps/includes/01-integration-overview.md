@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7423ea1d6ed272b81e1556103778733e0e71dbfb
-ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+ms.openlocfilehash: a22bb385f42e93a3249612f2d568bf255920602d1102b73e6a85b1aab4ec9cb6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "6659189"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7060144"
 ---
 البريد الإلكتروني هو المكان الذي تبدأ فيه العديد من حركات الأعمال وتنتهي وهو سعة تكامل أساسية للنظام الأساسي. يعمل Microsoft Dataverse على مستوى الخادم مع Microsoft Exchange بالإضافة إلى خوادم البريد الإلكتروني الأخرى للسماح بإرسال رسائل البريد الإلكتروني الصادرة التي نشأت كأنشطة بريد إلكتروني في Dataverse. يتم تعقب هذه الأنشطة مقابل بيانات Dataverse التي تحفظ الاتصال في مكان واحد. عند استخدام Microsoft Exchange، يمكنك أيضاً اختيار تمكين المزامنة ثنائية الاتجاه للبريد الإلكتروني والمواعيد وجهات الاتصال والمهام. عند استخدام خوادم بريد إلكتروني POP3 الأخرى، تتم مزامنة البريد الإلكتروني فقط. تتيح هذه المزامنة، على سبيل المثال، موعداً تم إنشاؤه في Dataverse لتظهر على تقويم Microsoft Exchange للمستخدمين.
 

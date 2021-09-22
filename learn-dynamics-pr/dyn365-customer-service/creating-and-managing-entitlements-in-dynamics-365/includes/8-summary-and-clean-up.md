@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e763c5e9bd2f0ba129468fe0934af6a979e1a93a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 19e4a080cc07d4b41ef152c9cf3628f5590ecddb91a6a1d207aec726773716d0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659119"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131645"
 ---
 توفر ميزة الاستحقاق من Dynamics 365 آلية رائعة تمكّن المؤسسات من إدارة الدعم أو عقود الصيانة لعملائها. ويمكن للمؤسسات ضمان قدرة العملاء على تقديم الحالات المقترنة باستحقاقاتهم باستخدام أفضل القنوات وأكثرها ملائمة لهم. كما يمكنها التأكد من اقتصار إمكانية تقديم الحالات على مَن لديهم بيانات الاعتماد الملائمة فقط.
 

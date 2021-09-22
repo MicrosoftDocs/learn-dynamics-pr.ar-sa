@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d64f8b629ac9617bf27d62d288e9a0b596246124
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: b6e4225664ddf0e5a08dc2c49fa559eea7bc5eba
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659217"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366634"
 ---
 والآن بعد أن نظرنا إلى بعض أساسيات الاستحقاقات، مثل الإنشاء الأولي وتعريف الشرط، دعونا ننظر في بعض الاعتبارات الأخرى التي غالباً ما تظهر عند عمل المؤسسات مع الاستحقاقات.
 
@@ -96,10 +96,10 @@ ms.locfileid: "6659217"
 
 ## <a name="additional-links"></a>روابط إضافية
 
-- [تنشيط الاستحقاق أو إلغاء تنشيطه](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#activate-or-deactivate-an-entitlement)
-- [تعيين الاستحقاق كاستحقاق افتراضي](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#set-an-entitlement-as-default-entitlement)
-- [ربط الاستحقاقات بالحالات](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#associate-entitlements-to-cases)
-- [إلغاء الاستحقاق](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#cancel-an-entitlement)
-- [تجديد الاستحقاق](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#renew-an-entitlement)
+- [تنشيط الاستحقاق أو إلغاء تنشيطه](/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#activate-or-deactivate-an-entitlement)
+- [تعيين الاستحقاق كاستحقاق افتراضي](/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#set-an-entitlement-as-default-entitlement)
+- [ربط الاستحقاقات بالحالات](/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#associate-entitlements-to-cases)
+- [إلغاء الاستحقاق](/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#cancel-an-entitlement)
+- [تجديد الاستحقاق](/dynamics365/customer-engagement/customer-service/create-entitlement-define-support-terms-customer#renew-an-entitlement)
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IOG6]

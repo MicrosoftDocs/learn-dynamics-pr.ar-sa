@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f637da3a02758005201e403ad73b2a82bb874ac9
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: a094d956ab87a10bb845de703e0ac6dd687d1f7096844f69b3eb0f5c513ee15c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658575"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7066356"
 ---
 يوفر Dynamics 365 خيارات متعددة لإعداد التقارير من أجل تزويد المستخدمين ببعض التقارير الأساسية عن بياناتهم. تعد جميع خيارات إعداد التقارير في تطبيقات Dynamics 365 قابلة للتكوين وتفرض أدوار أمان ثابتة للوصول إلى البيانات.
 

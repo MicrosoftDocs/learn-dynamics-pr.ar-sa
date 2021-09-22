@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.agents-app-profile-manager
+metadata:
+  title: إنشاء تجارب مخصصة للوكلاء باستخدام App Profile Manager في Customer Service
+  description: باستخدام ميزة App Profile Manager، يمكن لمؤسستك إنشاء تجارب تطبيقات مستهدفة للوكلاء والمشرفين الذين يعملون باستخدام تطبيقات مساحة عمل Microsoft Dynamics 365 Customer Service والقناة متعددة الاتجاهات لـ Customer Service.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 16da5ed46c1d40cb2029d56f29ed573bd2995d37beeac091ab87b3fb6ad8da68
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7101462"
+title: إنشاء تجارب مخصصة للوكلاء باستخدام App Profile Manager في Customer Service
+summary: "[!include[](../includes/module-banner.md)] \nباستخدام ميزة App Profile Manager، يمكن لمؤسستك إنشاء تجارب تطبيقات مستهدفة للوكلاء والمشرفين الذين يعملون باستخدام تطبيقات مساحة عمل Microsoft Dynamics 365 Customer Service والقناة متعددة الاتجاهات لـ Customer Service.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ميزة App Profile Manager، ومتى تكون متاحة، وكيفية الوصول إليها.\n- إنشاء ملفات تعريف مخصصة باستخدام واجهة المستخدم.\n- تحديد القنوات وميزات الإنتاجية المتوفرة داخل ملف التعريف.\n- تكوين قوالب الجلسات.\n- إنشاء قوالب علامات تبويب التطبيق.\n- إنشاء قوالب الإشعارات واستخدام حقول الإشعار.\n- مراجعة قوالب الجلسة المنتسبة والإشعارات مع تدفقات العمل.\n"
+prerequisites: الفهم الأساسي لتطبيق Dynamics 365 Customer Service
+iconUrl: /learn/achievements/agents-app-profile-manager.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.agents-app-profile-manager.1-introduction
+- learn-dynamics.agents-app-profile-manager.2-app-profile
+- learn-dynamics.agents-app-profile-manager.3-create-use
+- learn-dynamics.agents-app-profile-manager.4-tab-template
+- learn-dynamics.agents-app-profile-manager.5-session-templates
+- learn-dynamics.agents-app-profile-manager.6-notification-settings
+- learn-dynamics.agents-app-profile-manager.7-use-templates
+- learn-dynamics.agents-app-profile-manager.8-check
+- learn-dynamics.agents-app-profile-manager.9-summary
+badge:
+  uid: learn-dynamics.agents-app-profile-manager.badge

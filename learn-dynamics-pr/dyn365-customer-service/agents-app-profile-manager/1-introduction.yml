@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agents-app-profile-manager.1-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة لإنشاء تجارب مخصصة للوكلاء باستخدام App Profile Manager في Customer Service
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 7488985a43613df5e912266a0351c0296af2ccd99e2fa1008f556b095bd4c49f
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7075978"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

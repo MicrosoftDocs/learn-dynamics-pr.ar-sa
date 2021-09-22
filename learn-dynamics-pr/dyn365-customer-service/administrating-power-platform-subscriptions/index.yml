@@ -2,20 +2,20 @@
 uid: learn-dynamics.administrating-power-platform-subscriptions
 metadata:
   title: إدارة اشتراكات Microsoft Power Platform
-  description: تغفل العديد من المؤسسات التي تنفِّذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform عن القدرات الهائلة المضمّنة في اشتراكها. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.
+  description: لا تدرك العديد من المؤسسات التي تنفذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform الإمكانيات المذهلة المضمنة في اشتراكهم. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.
   ms.date: 02/06/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
-  ms.openlocfilehash: 169a99d17b5fda2a1911c20056ed47e4282bd9c3
-  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.service: power-platform
+  ms.openlocfilehash: 92790989fd82184b1edada32962a900399b7f8b8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/04/2021
-  ms.locfileid: "6659319"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7346248"
 title: إدارة اشتراكات Microsoft Power Platform
-summary: "[!include[](../includes/module-banner.md)]\n\nتغفل العديد من المؤسسات التي تنفِّذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform عن القدرات الهائلة المضمّنة في اشتراكها. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.  \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nلا تدرك العديد من المؤسسات التي تنفذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform الإمكانيات المذهلة المضمنة في اشتراكهم. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n-   إدارة المستخدمين باستخدام مركز إدارة Microsoft 365\n-   إدارة المثيلات باستخدام مركز إدارة Dynamics 365\n-   إدارة التخزين\n-   إدارة التحديثات باستخدام مركز إدارة Dynamics 365\n-   تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365\n-   توفير مدخل Microsoft\n"
 prerequisites: >
   - يُفضَّل وجود فهم أساسي للبنية الأساسية لحلول Microsoft Power Platform، وحلول Microsoft Online Business ومنها مدخل مسؤول Microsoft 365.

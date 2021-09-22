@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 48700c082485b4636ded6c209de36b53ec307a95
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 52d83949150d575cff333518c89fff63099f397f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6659181"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325603"
 ---
 ميزة أخرى لتمكين تكامل SharePoint هي القدرة على تمكين تكامل OneDrive للأعمال. يمكن للمستخدمين إنشاء وإدارة مستندات خاصة باستخدام OneDrive للأعمال في سياق سجل Dynamics 365. يمكن مشاركة هذه المستندات مع مستخدمي Dynamics 365 وغير مستخدمي Dynamics 365. يستخدم تكامل OneDrive للأعمال كيان موقع المستند لتتبع الاقتران، على غرار طريقة عمل تكامل SharePoint. 
 
@@ -56,4 +56,4 @@ ms.locfileid: "6659181"
 
 - سيؤدي دمج السجلات إلى وجود سجل مدمج يحتوي على مواقع مستندات متعددة.
 
-للحصول على معلومات إضافية، يرجى الاطلاع على [تمكين OneDrive (عبر الإنترنت)](https://docs.microsoft.com/dynamics365/customer-engagement/admin/enable-onedrive-for-business). 
+للحصول على معلومات إضافية، يرجى الاطلاع على [تمكين OneDrive (عبر الإنترنت)](/dynamics365/customer-engagement/admin/enable-onedrive-for-business). 

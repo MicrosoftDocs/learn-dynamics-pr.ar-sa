@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 32e0c4f0a2a11b3690ee86bdb3145e6e4af6fe6f
-ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+ms.openlocfilehash: 1183449195023bc248cee10f6c75c460eb8898dbdddf9ac0b0d11d77bd48e6b8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "6658545"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7066379"
 ---
 مع تزايد عدد السجلات في Dynamics 365، يجب أن تتمكن من تحديد موقع السجلات والوصول إليها بسرعة، كما لو كان العميل يتصل لطرح سؤال يتعلق بحسابه.
 

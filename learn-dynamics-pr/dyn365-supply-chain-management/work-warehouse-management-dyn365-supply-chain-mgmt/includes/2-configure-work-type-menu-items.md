@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6d8bab8e61899c9ec493fc4518bd9cad47fa1421fd1713fc2bf0eaa3d6ee3a8a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cd3bdd76831bd321390ba65811ca3f8b3e968084
+ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7077379"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "7413021"
 ---
 يمكنك إكمال العمليات التالية في الجهاز المحمول:
 
@@ -165,7 +165,7 @@ ms.locfileid: "7077379"
 | طباعة                  | يتطلب التأكيد عند طباعة تسميات لوحة الترخيص.                |
 | تغيير الحالة          | يتطلب التأكيد عند تغيير حالة المخزون.              |
 
-يمكنك طلب تأكيد المنتج لأنواع عمل الانتقاء والوضع فقط.
+يمكنك طلب تأكيد المنتج لأنواع عمل الجرد والانتقاء والوضع فقط.
 
 
 ## <a name="configure-app-field-names-in-the-warehousing-app"></a>تكوين أسماء حقول التطبيق في تطبيق "المستودع"

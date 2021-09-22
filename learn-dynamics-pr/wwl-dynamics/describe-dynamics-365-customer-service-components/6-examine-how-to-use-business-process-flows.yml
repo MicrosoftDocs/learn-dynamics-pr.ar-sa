@@ -8,13 +8,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 9d26022ffee104fcfd37e2d5501cf33821a21816
-  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: fb1b7d1bad02fcc45d228f23fd73852d06fe0af5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6660364"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7348739"
 azureSandbox: false
 durationInMinutes: 15
 content: '[!include[](includes/6-examine-how-to-use-business-process-flows.md)]'

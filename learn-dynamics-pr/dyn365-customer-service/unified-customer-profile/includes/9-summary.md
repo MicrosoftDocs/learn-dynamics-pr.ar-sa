@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: db340d77465c3a412e5048a2856b15a2cfb605ab
-ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+ms.openlocfilehash: 7dc4d238d137502d1d7aebbd3bb944008a80c0c08e880b7060dd8ec1ca043a4e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "6659390"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048494"
 ---
 يمكن لمؤسستك من خلال رؤى الجمهور بناء فهم عميق لقاعدة عملائك من خلال ربط بيانات العملاء من مختلف المصادر المتعلقة بالحركات والمصادر السلوكية والمصادر المتعلقة بالملاحظة لإنشاء عرض شامل للعملاء. بعد دمج مصادر البيانات هذه في ملف تعريف موحَّد للعملاء، يمكن لمؤسستك استخدام هذه الرؤى لتعزيز تجارب العملاء وعملياتهم.
 

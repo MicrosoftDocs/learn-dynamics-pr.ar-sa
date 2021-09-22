@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 725c8b5b2884bbc65f9051abbc2b49e20c8aea9c
-ms.sourcegitcommit: 9db0d6810f934f950330586e0abd41ea18b9a873
+ms.openlocfilehash: 13f87b5d95efbc81c7e95fc2fe6fed43636b6aef
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "6658483"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7356870"
 ---
 عندما تكون المؤسسة مستعدة لبدء التواصل مع العملاء من خلال حل المحادثة المباشرة، سوف يحتاجون إلى إنشاء قناة محادثة. بناء على احتياجات المؤسسة، يمكنهم إنشاء قناة محادثة واحدة أو عدة قنوات لدعم سيناريوهات مختلفة. على سبيل المثال، قد تنشئ المؤسسة أدوات محادثة متعددة تستهدف مناطق تركيز مختلفة حتى تتمكن من نشرها عبر مواقع ويب مختلفة.  
 
 يتم إنشاء القنوات في تطبيق إدارة القناة متعددة الاتجاهات، ويمكن إضافتها عن طريق تحديد **المحادثة** ضمن عنوان **القنوات**.  يجب أن تستند قنوات المحادثة إلى تدفقات العمل. قبل أن يمكن إضافة قناة محادثة، يجب أن يكون هناك تدفق عمل محادثة واحد على الأقل في التطبيق.  
 
-يتوفر مزيد من المعلومات حول [إنشاء عمليات تدفق العمل](https://docs.microsoft.com/dynamics365/omnichannel/administrator/work-streams-introduction#create-a-work-stream/?azure-portal=true). 
+يتوفر مزيد من المعلومات حول [إنشاء عمليات تدفق العمل](/dynamics365/omnichannel/administrator/work-streams-introduction?azure-portal=true#create-a-work-stream/). 
 
 تحتوي قناة المحادثة على خمس علامات تبويب يمكنك استخدامها لتحديد السلوك العام للعنصر المصغر:
 
@@ -66,7 +66,7 @@ ms.locfileid: "6658483"
 
 إذا تم تكوين إعدادات المصادقة لمدخل معين في التطبيق، يمكن تعريف هذه الإعدادات في حقل **إعدادات المصادقة** في المحادثة.  
 
-تتوفر معلومات إضافية حول [إنشاء إعدادات مصادقة المحادثة](https://docs.microsoft.com/dynamics365/omnichannel/administrator/create-chat-auth-settings/?azure-portal=true). 
+تتوفر معلومات إضافية حول [إنشاء إعدادات مصادقة المحادثة](/dynamics365/omnichannel/administrator/create-chat-auth-settings/?azure-portal=true). 
 
 ![لقطة شاشة للمعلومات العامة مع الاسم واللغة واسم عرض المندوب وإعدادات المصادقة المعرفة.](../media/chat-2-2.png)
 
@@ -107,4 +107,4 @@ ms.locfileid: "6658483"
 
 عندما ترغب مؤسسة في التقاط بيانات جغرافية عن العميل الذي بدأ المحادثة، فيمكنها تمكينها في قسم  **موقع الزائر** . في هذا القسم، يمكن للمؤسسات تمكين القدرة على طلب موقع الزائر. مطلوب سجل موفر الموقع الجغرافي، وسوف تحتاج إلى إنشائه قبل تمكينه على واجهة عنصر مستخدم المحادثة.
 
-يتوفر مزيد من المعلومات حول [اكتشاف موقع الزائر](https://docs.microsoft.com/dynamics365/omnichannel/administrator/geo-location-provider/?azure-portal=true).
+يتوفر مزيد من المعلومات حول [اكتشاف موقع الزائر](/dynamics365/omnichannel/administrator/geo-location-provider/?azure-portal=true).

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enhance-agent-productivity-customer-service-workspace.4-cases
+title: التعامل مع سجلات الحالات
+metadata:
+  title: التعامل مع سجلات الحالات
+  description: تعرف على كيفية التعامل مع سجلات الحالات.
+  ms.date: 08/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: eac4be108773e41b0f565177a9a828d1dacc88ef3be695c032a84cddc5cf6a09
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7075875"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-cases.md)]"

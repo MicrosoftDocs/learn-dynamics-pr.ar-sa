@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: 7bfdfa36de27a79ac4ea0291b2680ab63e975bef
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: 2fd0fad00a5e402df95c1758b35e264578e0501e
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6659200"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7358872"
 ---
 يمكنك استخدام مركز إدارة Microsoft 365 لإنشاء حسابات المستخدمين لكل مستخدم يحتاج إلى الوصول إلى تطبيقات Dynamics 365 Customer Engagement. يعمل حساب المستخدم على تسجيل المستخدم مع بيئة خدمات الإنترنت من Microsoft. بالإضافة إلى التسجيل في خدمة الإنترنت، يجب أن يتم تعيين ترخيص لحساب المستخدم حتى يتمكن المستخدم من الوصول إلى الخدمة. لاحظ أنه عند تعيين مستخدم، المسؤول العمومي، أو دور مسؤول الخدمة في بيئة خدمات الإنترنت من Microsoft، فإنه يقوم تلقائياً بتعيين المستخدم أو دور أمان مسؤول النظام في تطبيقات Dynamics 365 Customer Engagement.
 
 ### <a name="creating-user-accounts"></a>إنشاء حسابات المستخدمين
 
-عند إنشاء حساب مستخدم في مركز إدارة Microsoft 365، ينشئ النظام معرف مستخدم وكلمة مرور مؤقتة للمستخدم. لديك خيار السماح للخدمة بإرسال رسالة بريد إلكتروني إلى المستخدم في هيئة نص واضح. ورغم أن كلمة المرور مؤقتة، إلا أنه يمكنك أن تفكر في نسخ المعلومات لإرسالها إلى المستخدم من خلال قناة أكثر أمانا، مثل خدمة البريد الإلكتروني التي يمكنها تشفير المحتويات رقمياً. للحصول على إرشادات خطوة بخطوة لإنشاء حساب مستخدم خدمة الإنترنت من Microsoft، راجع [إنشاء أو تحرير مستخدمين في Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/add-users?redirectSourcePath=%252fen-US%252fArticle%252fCreate-or-edit-users-in-Office-365-1970f7d6-03b5-442f-b385-5880b9c256ec&view=o365-worldwide).
+عند إنشاء حساب مستخدم في مركز إدارة Microsoft 365، ينشئ النظام معرف مستخدم وكلمة مرور مؤقتة للمستخدم. لديك خيار السماح للخدمة بإرسال رسالة بريد إلكتروني إلى المستخدم في هيئة نص واضح. ورغم أن كلمة المرور مؤقتة، إلا أنه يمكنك أن تفكر في نسخ المعلومات لإرسالها إلى المستخدم من خلال قناة أكثر أمانا، مثل خدمة البريد الإلكتروني التي يمكنها تشفير المحتويات رقمياً. للحصول على إرشادات خطوة بخطوة لإنشاء حساب مستخدم خدمة الإنترنت من Microsoft، راجع [إنشاء أو تحرير مستخدمين في Microsoft 365](/office365/admin/add-users/add-users?redirectSourcePath=%252fen-US%252fArticle%252fCreate-or-edit-users-in-Office-365-1970f7d6-03b5-442f-b385-5880b9c256ec&view=o365-worldwide).
 
-شاهد الفيديو الآتي: [إضافة أشخاص إلى تطبيقات Dynamics 365 Customer Engagement ](https://go.microsoft.com/fwlink/p/?linkid=836826).
+راجع، [إضافة أشخاص إلى تطبيقات Dynamics 365 Customer Engagement](/power-platform/admin/grant-users-access) للحصول على مزيد من المعلومات.
 
 > [!Note]
 > عند إنشاء مستخدم وتعيين ترخيص في مركز إدارة Microsoft 365، يتم إنشاء المستخدم أيضاً في تطبيقات Dynamics 365 Customer Engagement. قد تستغرق عملية المزامنة بين مركز إدارة Microsoft 365 وتطبيقات Dynamics 365 Customer Engagement بضع دقائق لإكمالها.
@@ -25,7 +25,7 @@ ms.locfileid: "6659200"
 
 يعرض الجدول الآتي الحقول التي تتم إدارتها في قسم **المستخدمين** في مركز إدارة Microsoft 365.
 
-|  **نموذج مستخدم تطبيقات Dynamics 365 Customer Engagement** |  مستخدم **Microsoft 365 / Azure Active Directory** |
+|  **نموذج مستخدم تطبيقات Dynamics 365 for Customer Engagement** |  مستخدم **Microsoft 365 / Azure Active Directory** |
 |  --------------------------------------------------------| ----------------------------------------------|
 |  اسم المستخدم                                               |  اسم المستخدم|
 |  الاسم الكامل                                               |  الاسم الأول + اسم العائلة|
@@ -47,7 +47,7 @@ ms.locfileid: "6659200"
 
 ### <a name="microsoft-365-admin-roles"></a>أدوار مسؤول Microsoft 365
 
-يأتي Microsoft 365 مزوداً بمجموعة من أدوار الإدارة التي يمكنك [تعيينها](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles?view=o365-worldwide) إلى المستخدم في مؤسستك. يقوم كل دور مسؤول بتعيين وظائف الأعمال الشائعة ويمنح الموظفين في مؤسستك أذونات لأداء مهام محددة في مركز إدارة Microsoft 365.
+يأتي Microsoft 365 مزوداً بمجموعة من أدوار الإدارة التي يمكنك [تعيينها](/office365/admin/add-users/assign-admin-roles?view=o365-worldwide) إلى المستخدم في مؤسستك. يقوم كل دور مسؤول بتعيين وظائف الأعمال الشائعة ويمنح الموظفين في مؤسستك أذونات لأداء مهام محددة في مركز إدارة Microsoft 365.
 
 من جميع الأدوار التي يمكننا تعيينها للمستخدمين، هناك عدد قليل منها يتعلق بـ Microsoft Dynamics 365:
 
@@ -56,7 +56,7 @@ ms.locfileid: "6659200"
 - مسؤول إدارة المستخدمين: يقوم بإعادة تعيين كلمات المرور ومراقبة سلامة الخدمة وإضافة حسابات المستخدمين وحذفها وإدارة تذاكر الدعم وإضافة الأعضاء وإزالتهم من مجموعات Microsoft 365. لا يمكن لمسؤول إدارة المستخدمين حذف مسؤول عمومي أو إنشاء أدوار مسؤول أخرى أو إعادة تعيين كلمات المرور لمسؤولي global وglobal وExchange وSharePoint وCompliance وSkype for Business.
 - مسؤول خدمة Dynamics 365: استخدم هذا الدور لتعيين المستخدمين لإدارة Dynamics 365 على مستوى المستأجر دون الاضطرار إلى تعيين امتيازات مسؤول عمومي Microsoft 365 أكثر قوة. يمكن لمسؤول خدمة Dynamics 365 تسجيل الدخول إلى مركز إدارة Dynamics 365 لإدارة المثيلات. لا يمكن لأي شخص له هذا الدور القيام بوظائف تقتصر على مسؤول Microsoft 365 العمومي مثل إدارة حسابات المستخدمين أو إدارة الاشتراكات أو إعدادات الوصول لتطبيقات Microsoft 365 مثل Exchange أو SharePoint.
 
-للحصول على قائمة تفصيلية بكافة الأدوار المتوفرة، بالإضافة إلى المهام التي يمكن لكل من هذه الأدوار القيام بها وما لا يمكنه القيام بها، وكيفية تداخلها مع الأدوار في خدمات Microsoft الأخرى، راجع [أذونات دور المسؤول في Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
+للحصول على قائمة تفصيلية بكافة الأدوار المتوفرة، بالإضافة إلى المهام التي يمكن لكل من هذه الأدوار القيام بها وما لا يمكنه القيام بها، وكيفية تداخلها مع الأدوار في خدمات Microsoft الأخرى، راجع [أذونات دور المسؤول في Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 ### <a name="delegated-administration"></a>الإدارة المفوضة
 
@@ -80,4 +80,4 @@ ms.locfileid: "6659200"
 
 المؤسسات التي تتطلع إلى إنشاء المستخدمين وتكوينهم وإدارتهم بشكلٍ جماعي يمكنها الاستفادة من Microsoft 365 PowerShell لتنفيذ هذه المهام بطريقة سريعة.
 
-[اعرف المزيد حول Microsoft 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
+[اعرف المزيد حول Microsoft 365 PowerShell](/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)

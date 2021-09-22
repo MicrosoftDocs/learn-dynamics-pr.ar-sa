@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-your-data.05a-report
+title: استخدام معالج التقارير
+metadata:
+  title: استخدام معالج التقارير
+  description: تعرف على استخدام معالج التقارير.
+  ms.date: 07/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 4d847777e6cb16322b2901f770e083ca3b45251dfd7d040bc1726dcf4deb8d0b
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7110480"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/05a-report.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 125370d39d6282127c9ad47c1a1a5fa0430efc7d
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: e17402d6bd16789cecaf175c05fcd968fef02d1f
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6658462"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7351888"
 ---
 بعد تكوين روبوت Power Virtual Agents لإرسال محادثات إلى قناة متعددة الاتجاهات لخدمة العملاء، تحتاج إلى تكوين القناة لفهم ما يجب فعله بالمحادثات الواردة. يتم تنفيذ التكوين في تطبيق إدارة القناة متعددة الاتجاهات.
 
@@ -18,7 +18,7 @@ ms.locfileid: "6658462"
 
 -   **إضافة الروبوت إلى صف انتظار المندوب المباشر الحالي** - عند بدء التسليم، يتم نقل العملاء من الروبوت Power Virtual Agents إلى المندوب المباشر وفقاً لقواعد تحويل التصعيد. *(قد يتطلب هذا الخيار القليل من التكوين الإضافي أو لا يتطلب لأنه يستخدم القواعد الحالية.)*
     
-    لمزيد من المعلومات، راجع [قواعد التحويل](https://docs.microsoft.com/dynamics365/omnichannel/administrator/routing-rules/?azure-portal=true). 
+    لمزيد من المعلومات، راجع [قواعد التحويل](/dynamics365/omnichannel/administrator/routing-rules/?azure-portal=true). 
 
 -   **إنشاء صف انتظار روبوت وصف انتظار مندوب مباشر** - يتطلب هذا الخيار صف انتظار "روبوت" منفصل وصفوف انتظار مخصصة للمندوبين. قد تحتاج إلى إنشاء تدفق عمل إضافي يحتوي على متغيرات السياق وقواعد التحويل المناسبة لتحويل استعلامات العملاء.
 
@@ -48,14 +48,14 @@ Power Virtual Agents يتضمن متغيرات السياق عندما ينقل 
 |     va_AgentMessage                     |     يساعد في استدعاء مندوب مباشر                                                |     "حصلت على هدية من: HandoffTest"                             |
 |     va_BotId                            |     يساعد في تحديد الروبوت الذي يسلم المحادثة                 |     GUID                                                         |
 |     va_Language                         |     يساعد في تحويل التصعيد إلى مندوب مباشر                                    |     "en-us"                                                      |
-|     [جميع متغيرات الموضوع المعرفة من قبل المستخدم](https://docs.microsoft.com/power-virtual-agents/how-to-variables/?azure-portal=true)    |     يساعد في استدعاء مندوب مباشر                                                |     @StoreLocation = "Bellevue"                                |
+|     [جميع متغيرات الموضوع المعرفة من قبل المستخدم](/power-virtual-agents/how-to-variables/?azure-portal=true)    |     يساعد في استدعاء مندوب مباشر                                                |     @StoreLocation = "Bellevue"                                |
 
 سيحتاج تدفق العمل إلى تضمين أي متغيرات سياق تم إنشاؤها أثناء الإعداد حتى يتمكن الروبوت من التعامل مع استفسارات العملاء بشكل مناسب. على سبيل المثال، إذا كنت تريد استخدام متغير va_Scope للمساعدة في تحديد ما إذا كان قادماً من روبوت أو شخص مباشر، فستحتاج إلى إضافة متغير سياق يسمى va_Scope إلى تدفق العمل. يجب تحديد هذا المعيار لجميع متغيرات الروبوت التي سيتم استخدامها، بما في ذلك المتغيرات التي تم إنشاؤها أثناء عملية الكتابة.
 
 > [!div class="mx-imgBorder"]
 > [![يتطابق اسم متغير السياق مع Power Virtual Agents اسم متغير الروبوت.](../media/unit-4-2-ssm.png)](../media/unit-4-2-ssm.png#lightbox)
 
-لمزيد من المعلومات، راجع [متغيرات السياق](https://docs.microsoft.com/dynamics365/ai/customer-service-virtual-agent/how-to-handoff.md?azure-portal=true#contextual-variables-available-upon-hand-off). 
+لمزيد من المعلومات، راجع [متغيرات السياق](/dynamics365/ai/customer-service-virtual-agent/how-to-handoff.md?azure-portal=true#contextual-variables-available-upon-hand-off). 
 
 ## <a name="configure-routing-rules"></a>تكوين قواعد التحويل
 
@@ -74,6 +74,6 @@ Power Virtual Agents يتضمن متغيرات السياق عندما ينقل 
 
 على سبيل المثال، إذا كانت قيمة متغير سياق va_Scope تساوي **روبوت**، فأنت تعلم أن المحادثة قادمة من الروبوت Power Virtual Agents ويجب تحويلها إلى صف انتظار بشري. إذا كان متغير سياق va_Scope لا يحتوي على بيانات، فيجب إرسالها تلقائياً إلى صف انتظار الروبوت.
 
-لمزيد من المعلومات، راجع [القناة متعددة الاتجاهات لـ Customer Service](https://docs.microsoft.com/dynamics365/omnichannel/administrator/unified-routing-work-distribution?azure-portal=true#overview-of-routing-system).
+لمزيد من المعلومات، راجع [القناة متعددة الاتجاهات لـ Customer Service](/dynamics365/omnichannel/administrator/unified-routing-work-distribution?azure-portal=true#overview-of-routing-system).
 
-للحصول على معلومات إضافية، راجع [صفوف الانتظار](https://docs.microsoft.com/dynamics365/omnichannel/administrator/queues-omnichannel/?azure-portal=true). 
+للحصول على معلومات إضافية، راجع [صفوف الانتظار](/dynamics365/omnichannel/administrator/queues-omnichannel/?azure-portal=true). 

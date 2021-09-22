@@ -8,13 +8,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 0edfe5a97ca5d101f611ec7c5367c44e7e62b8de
-  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 65ed178ec512e6dabbf058b2d36d561226182831
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "6660401"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7348752"
 azureSandbox: false
 durationInMinutes: 1
 content: '[!include[](includes/1-introduction.md)]'

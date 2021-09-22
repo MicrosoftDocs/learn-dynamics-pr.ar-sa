@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f15da299abf83c491e121cada8fa1b618d83382
-ms.sourcegitcommit: a1930b9eeceae2032e13294053567c6e857e29a2
+ms.openlocfilehash: a7c14a01e99dbf5eb554313121fb41c0ab044793689db735c6b798c0af9e4aaa
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "6659228"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7143633"
 ---
 ### <a name="before-we-begin"></a>قبل أن نبدأ
 
@@ -143,7 +143,7 @@ ms.locfileid: "6659228"
 -   قُم بإنشاء حالة جديدة.
 -   تحقَّق من أن SLA المحسّنة تُجري التعقب بالنسبة للحالة.
 -   غيّر الحقل **الاستجابة الأولى بواسطة** إلى نعم.
--   عليك حل الحالة.
+-   حل الحالة.
 -   راجِع حالة قيم KPI لـ SLA المحسّنة.
 
 ### <a name="detailed-steps"></a>الخطوات التفصيلية

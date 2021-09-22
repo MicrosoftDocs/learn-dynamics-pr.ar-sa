@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2461d0f3b12c7602c0d78a320c309123cc04ff04
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 4d284280c5a6004eead301c9c6ce7f11c05eef5e614d2bc27a67510de28da83a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6659207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7060354"
 ---
 في هذه الأيام، تقدم مؤسسات الدعم لعملائها مزيداً من الطرق لبدء الاتصال وطلب الدعم. عندما تستفيد المؤسسات من قنوات متعددة لدعم إستراتيجيات المبيعات أو التسويق أو الخدمة الخاصة بها، يشار إلى الحلول التي تقدمها على أنها حلول متعددة القنوات أو قنوات متعددة الاتجاهات. على الرغم من أن أنواع الحلول هذه غالباً ما يتم ذكرها معاً، إلا أنها حلول مختلفة.
 

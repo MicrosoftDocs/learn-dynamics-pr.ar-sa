@@ -7,13 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learn-dynamics-cust-svc-insights
-  ms.openlocfilehash: eea2451ddd94e8f34c9548a74bfd66bbb829034d
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 3ad2fbb45caef09120956218269d56b054700031
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659153"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7358038"
 title: الشروع في العمل مع Customer Service Insights
 summary: "[!include[](../includes/module-banner.md)] \nتستخدم Dynamics 365 Customer Service Insights Microsoftالذكاء الاصطناعي لتجميع حالاتك تلقائياً في موضوعات باستخدام فهم اللغة الطبيعية، مثل تجميع حالات المنتجات المعيبة في موضوع واحد. تتيح لك الموضوعات إمكانية اكتشاف الاتجاهات الحالية والناشئة والتكيف معها، بالإضافة إلى تحديد مجالات المشاكل وتحسين التوجه تجاه العلامة التجارية. من خلال تحديد المشكلات وإصلاحها قبل أن تؤثر على العملاء، يمكنك تقديم تجارب أفضل لخدمة العملاء. ستدرس هذه الوحدة مدى تأثير \"Customer Service Insights\" في مؤسستك.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرّف على Customer Service Insights وما يمكن أن تقدمه لمؤسسة ما.\n- دراسة عملية ربط Customer Service Insights ببيانات الدعم الخاصة بمؤسستك وكيفية استخدام مساحات العمل للتعامل مع بيئات الدعم المختلفة.\n- مراجعة الواجهات المرئية المختلفة، مثل كيفية استخدام لوحات المعلومات والدردشات لاستكشاف إحصاءات خدمة العملاء بعمق.\n- اكتشاف لوحات المعلومات المختلفة والخيارات المتوفرة لعرض عامل التصفية والبيانات.\n- التعرّف على ميزة الموضوعات في Customer Service Insights، واكتشاف طريقة إنشاء الموضوعات، ومراجعة خيارات التكوين المختلفة المتوفرة.\n"

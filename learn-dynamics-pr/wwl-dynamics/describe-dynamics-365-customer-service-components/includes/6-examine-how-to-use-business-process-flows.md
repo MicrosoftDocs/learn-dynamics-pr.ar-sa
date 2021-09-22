@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4a95206f435124396fd6734aea79cbe0b70f2c14
-ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
+ms.openlocfilehash: 9fa52173c51105e84c937324c94dcb16a5fb62a3dc5a9190548c82d09db1f315
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "6660582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7124259"
 ---
 يوفر سير إجراءات العمل دليلا لمساعدة الأشخاص على إنجاز العمل. يتم توجيه المستخدمين من خلال العمليات التي تحددها مؤسستهم والتي تساعد في التوصل إلى استنتاج. على سبيل المثال، قد تستخدم المؤسسات سير إجراءات العمل لتمكين الجميع من التعامل مع طلبات خدمة العملاء بنفس الطريقة أو لمطالبة الأشخاص بالحصول على الموافقة على الفاتورة قبل إرسال الأمر.
 

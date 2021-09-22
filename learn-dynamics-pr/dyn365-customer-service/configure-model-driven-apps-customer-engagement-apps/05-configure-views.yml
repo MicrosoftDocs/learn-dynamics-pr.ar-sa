@@ -8,13 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: deaa75a6c2a4ee77ef1e20aae0acd2cd97eb471c
-  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.openlocfilehash: ee675a178e2b1a4b7a508e3634d089239af05bbb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6659344"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7337884"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]
