@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-performance.3-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 08/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 161451a18d526633d424111f7a8602793b2f66a8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431854"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما مرحلة التنفيذ التي ينبغي جدولة ورشة أداء الحل؟
+    choices:
+    - content: الشروع في العمل
+      isCorrect: false
+      explanation: يجب جدولة هذا الاجتماع خلال مرحلة البناء أو التنفيذ.
+    - content: التنفيذ/البناء
+      isCorrect: true
+      explanation: يجب جدولة هذا الاجتماع خلال مرحلة البناء أو التنفيذ.
+    - content: التحضير
+      isCorrect: false
+      explanation: يجب جدولة هذا الاجتماع خلال مرحلة البناء أو التنفيذ.
+    - content: التشغيل
+      isCorrect: false
+      explanation: يجب جدولة هذا الاجتماع خلال مرحلة البناء أو التنفيذ.
+  - content: ما الأداة التي يمكن استخدامها للتحقق من إمكانية دعم الحل؟
+    choices:
+    - content: مدقق الحلول
+      isCorrect: true
+      explanation: يمكن استخدام مدقق الحلول للتحقق من إمكانية دعم الحلول، إلى جانب أشياء أخرى.
+    - content: Power Apps
+      isCorrect: false
+      explanation: يمكن استخدام مدقق الحلول للتحقق من إمكانية دعم الحلول، إلى جانب أشياء أخرى.
+    - content: Power Automate
+      isCorrect: false
+      explanation: يمكن استخدام مدقق الحلول للتحقق من إمكانية دعم الحلول، إلى جانب أشياء أخرى.
+    - content: التحقق من صحة دعم التخصيص
+      isCorrect: false
+      explanation: يمكن استخدام مدقق الحلول للتحقق من إمكانية دعم الحلول، إلى جانب أشياء أخرى.
+  - content: أي من أنواع التخصيص التالية يجب مراجعتها واختبارها من أجل أداء الحل؟
+    choices:
+    - content: منطق المطور
+      isCorrect: false
+      explanation: كل هذه العناصر هي أشياء يجب البحث عنها عند مراجعة أداء الحل.
+    - content: التكوينات الوظيفية
+      isCorrect: false
+      explanation: كل هذه العناصر هي أشياء يجب البحث عنها عند مراجعة أداء الحل.
+    - content: التدفقات ومهام سير العمل
+      isCorrect: false
+      explanation: كل هذه العناصر هي أشياء يجب البحث عنها عند مراجعة أداء الحل.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: كل هذه العناصر هي أشياء يجب البحث عنها عند مراجعة أداء الحل.

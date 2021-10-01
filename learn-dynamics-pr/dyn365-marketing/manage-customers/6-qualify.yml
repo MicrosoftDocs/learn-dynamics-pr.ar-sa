@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-customers.6-qualify
+title: تسجيل نقاط العملاء المتوقعين وتأهيلهم
+metadata:
+  title: تسجيل نقاط العملاء المتوقعين وتأهيلهم
+  description: تعرّف على تسجيل نقاط العملاء المتوقعين وتأهيلهم.
+  ms.date: 03/24/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7611098afd135e2f885392274e341271d8144257
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435320"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-qualify.md)]"

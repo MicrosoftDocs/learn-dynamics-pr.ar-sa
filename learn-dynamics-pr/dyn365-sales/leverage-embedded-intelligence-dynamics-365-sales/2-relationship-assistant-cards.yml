@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.embedded-intelligence.2-relationship-assistant-cards
+title: بطاقات مساعدة العلاقات
+metadata:
+  title: بطاقات مساعدة العلاقات
+  description: بطاقات مساعدة العلاقات
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 3837411ff60b9b59b3161ff4c75659fa47d1c84b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436232"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-relationship-assistant-cards.md)]

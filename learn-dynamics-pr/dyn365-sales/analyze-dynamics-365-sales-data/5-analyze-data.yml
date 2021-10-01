@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.analyze-sales-data.5-analyze-data
+title: معمل - تحليل البيانات
+sandbox: true
+metadata:
+  title: معمل - تحليل البيانات
+  description: معمل - تحليل البيانات
+  ms.date: 08/10/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6bae2979c1b6d92afc07a3609d7e6b0291e43248
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436241"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-analyze-data.md)]

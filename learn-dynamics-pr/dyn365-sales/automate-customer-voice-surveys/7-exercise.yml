@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.automate-customer-voice-surveys.7-exercise
+title: تمرين - قم بإنشاء دعوة استطلاع
+metadata:
+  title: تمرين - قم بإنشاء دعوة استطلاع
+  description: تدرب على إنشاء دعوة استطلاع.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e2997b77581efba5525e81f0aec4cdb17680a090
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436207"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-exercise.md)]"

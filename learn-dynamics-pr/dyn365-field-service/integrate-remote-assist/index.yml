@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.integrate-remote-assist
+metadata:
+  title: دمج Dynamics 365 Remote Assist مع Dynamics 365 Field Service
+  description: كما يُمكن للمؤسسات التي تستخدم Dynamics 365 Field Service إدارة أوامر العمل تمكين الفنيين من إجراء مكالمات مساعدة عن بُعد في سياق أوامر العمل.
+  ms.date: 06/30/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 35445fd5b660c685752c95fde5f688436692d37b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434202"
+title: دمج Dynamics 365 Remote Assist مع Dynamics 365 Field Service
+summary: "[!include[](../includes/module-banner.md)] \nكما يُمكن للمؤسسات التي تستخدم Dynamics 365 Field Service إدارة أوامر العمل تمكين الفنيين من إجراء مكالمات مساعدة عن بُعد في سياق أوامر العمل.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تشغيل الأجهزة المحمولة للمساعدة عن بُعد من الحجز‬‏‫.\n- مراجعة معلومات أمر العمل.\n- ترحيل معلومات المكالمة.\n"
+prerequisites: "- مستأجر Microsoft Azure مع اشتراك Dynamics 365 واشتراك Dynamics 365 Remote Assist \n- وصول المسؤول لإضافة مثيل مستأجر Dynamics 365 أو تحديثه\n- تطبيق Dynamics 365 Field Service المُثبت \n"
+iconUrl: /learn/achievements/integrate-remote-assist.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-field-service
+- dynamics-remote-assist
+units:
+- learn-dynamics.integrate-remote-assist.1-introduction
+- learn-dynamics.integrate-remote-assist.2-setup
+- learn-dynamics.integrate-remote-assist.3-work-orders
+- learn-dynamics.integrate-remote-assist.4-calls
+- learn-dynamics.integrate-remote-assist.5-bookings
+- learn-dynamics.integrate-remote-assist.6-check
+- learn-dynamics.integrate-remote-assist.7-summary
+badge:
+  uid: learn-dynamics.integrate-remote-assist.badge

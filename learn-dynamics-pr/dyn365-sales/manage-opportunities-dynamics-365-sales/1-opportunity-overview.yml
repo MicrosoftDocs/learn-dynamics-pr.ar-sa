@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.opportunity-management.1-opportunity-overview
+title: نظرة عامة على فرصة Dynamics 365
+metadata:
+  title: نظرة عامة على فرصة Dynamics 365
+  description: نظرة عامة على فرصة Dynamics 365
+  ms.date: 05/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 281ac0e875079624ef7a3361c6b16bb78eb3acf8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436177"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-opportunity-overview.md)]

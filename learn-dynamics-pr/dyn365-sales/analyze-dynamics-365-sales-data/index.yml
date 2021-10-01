@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.analyze-sales-data
+metadata:
+  title: تحليل بيانات Dynamics 365 Sales
+  description: يحتوي Microsoft Dynamics 365 على خيارات تحليلية متعددة لمساعدة المؤسسات على اتخاذ قرارات الأعمال التي تستند إلى أرقام واتجاهات المبيعات السابقة. على سبيل المثال، يمكن للمؤسسات تحديد طرق عرض مخصصة تعرض أنواعاً معينة من البيانات، أو استخدام المخططات للتعمق في مزيد من التفاصيل حول السجلات المختلفة المتعلقة بالمبيعات، أو حتى تحليل البيانات باستخدام أدوات خارجية مثل Microsoft Excel وMicrosoft Power BI.
+  ms.date: 08/10/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7f98c81356ca8c99b7b4d147eaebf4e0e6c9d1f0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436156"
+title: تحليل بيانات Dynamics 365 Sales
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يحتوي Microsoft Dynamics 365 على خيارات تحليلية متعددة لمساعدة المؤسسات على اتخاذ قرارات الأعمال التي تستند إلى أرقام واتجاهات المبيعات السابقة. على سبيل المثال، يمكن للمؤسسات تحديد طرق عرض مخصصة تعرض أنواعاً معينة من البيانات، أو استخدام المخططات للتعمق في مزيد من التفاصيل حول السجلات المختلفة المتعلقة بالمبيعات، أو حتى تحليل البيانات باستخدام أدوات خارجية مثل Microsoft Excel وMicrosoft Power BI.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- مراجعة الخيارات التحليلية \n- وصف أدوات البحث\n- استخدام Power BI لعرض البيانات\n- تحليل البيانات\n"
+prerequisites: المفاهيم الأساسية للتنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء الحالات وإدارتها، أو إنشاء العملاء المتوقعين والفرص وإدارتها.
+iconUrl: /learn/achievements/analyze-d365-sales-data.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.analyze-sales-data.1-analytical-options-overview
+- learn-dynamics.analyze-sales-data.2-searching-tools
+- learn-dynamics.analyze-sales-data.3-out-of-the-box-tools
+- learn-dynamics.analyze-sales-data.4-power-bi
+- learn-dynamics.analyze-sales-data.4a-power-bi-template-apps
+- learn-dynamics.analyze-sales-data.5-analyze-data
+- learn-dynamics.analyze-sales-data.6-knowledge-check
+- learn-dynamics.analyze-sales-data.7-summary
+badge:
+  uid: learn-dynamics.analyze-sales-data.badge

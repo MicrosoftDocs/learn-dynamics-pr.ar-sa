@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-marketing.examine-how-to-get-started-with
+title: وصف كيفية البدء باستخدام Dynamics 365 Marketing
+metadata:
+  title: وصف كيفية البدء باستخدام Dynamics 365 Marketing
+  description: وصف كيفية البدء باستخدام Dynamics 365 Marketing
+  ms.date: 07/21/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: 11e8a3c0cad1ae83a0fd5117c09d75288252c73e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438749"
+azureSandbox: false
+durationInMinutes: 9
+content: '[!include[](includes/5-describe-how-to-get-started.md)]'

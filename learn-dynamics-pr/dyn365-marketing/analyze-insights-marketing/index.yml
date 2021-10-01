@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.analyze-insights-marketing
+metadata:
+  title: تقييم مبادرات التسويق باستخدام التحليلات في Dynamics 365 Marketing
+  description: تقييم التحليلات ومؤشرات الأداء الأساسية لجهودك التسويقية لفهم التأثير والأساليب الأفضل لجمهورك المستهدف.
+  ms.date: 03/23/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4c5793fd2e384f777732e47cb03c7167884e7289
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435325"
+title: تقييم مبادرات التسويق باستخدام التحليلات في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \nتقييم التحليلات ومؤشرات الأداء الأساسية لجهودك التسويقية لفهم التأثير والأساليب الأفضل لجمهورك المستهدف. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- مراجعة النتائج القادمة من معلومات Dynamics 365 Marketing وتحليلها.\n"
+prerequisites: "- ينبغي وجود فهم أساسي للتنقل داخل Dynamics 365.\n- ينبغي وجود فهم أساسي عن كيفيه تفسير النتائج في اتخاذ قرارات التسويق. \n"
+iconUrl: /learn/achievements/analyze-insights-marketing.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-analyst
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.analyze-insights-marketing.1-introduction
+- learn-dynamics.analyze-insights-marketing.2-contact-insights
+- learn-dynamics.analyze-insights-marketing.3-lead-insights
+- learn-dynamics.analyze-insights-marketing.4-lead-scoring-insights
+- learn-dynamics.analyze-insights-marketing.5-account-insights
+- learn-dynamics.analyze-insights-marketing.6-segment-insights
+- learn-dynamics.analyze-insights-marketing.7-customer-journey-insights
+- learn-dynamics.analyze-insights-marketing.8-marketing-email-insights
+- learn-dynamics.analyze-insights-marketing.9-marketing-form-insights
+- learn-dynamics.analyze-insights-marketing.10-web-insights
+- learn-dynamics.analyze-insights-marketing.10a-social-insights
+- learn-dynamics.analyze-insights-marketing.11-redirect-insights
+- learn-dynamics.analyze-insights-marketing.12-check
+- learn-dynamics.analyze-insights-marketing.13-summary
+badge:
+  uid: learn-dynamics.analyze-insights-marketing.badge

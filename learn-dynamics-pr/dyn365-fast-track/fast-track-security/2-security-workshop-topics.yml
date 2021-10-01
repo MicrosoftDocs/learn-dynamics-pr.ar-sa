@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.fast-track-security.2-security-workshop-topics
+title: مواضيع ورشة عمل الأمان
+metadata:
+  title: مواضيع ورشة عمل الأمان
+  description: تعرف على المواضيع التي تم تناولها في ورشة عمل نموذج الأمان.
+  ms.date: 07/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5ce17f6b127a931fe304dd6f6c5092caedb6be98
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431765"
+durationInMinutes: 50
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-security-workshop-topics.md)]"

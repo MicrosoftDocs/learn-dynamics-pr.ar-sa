@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn.wwl.get-started-configuration-dynamics-365
+metadata:
+  title: بدء استخدام التكوين في Dynamics 365
+  description: بدء استخدام التكوين في Dynamics 365
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: bcfec9f3fc5015038dbe99679872ad1a9ac7dff5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438629"
+title: بدء استخدام التكوين في Dynamics 365
+summary: في هذه الوحدة النمطية، سيتعرف الطلاب على Power Platform و"مراكز إدارة Dynamics 365" ويتعلمون كيفية العمل مع المستأجرين والبيئات وقواعد البيانات.
+abstract: >
+  في نهاية هذه الوحدة، ستكون قادراً على:
+
+  - الوصول إلى مراكز المسؤولين في Power Platform وDynamics 365
+
+  - تكوين تطبيق Dynamics 365 المستند إلى النموذج
+
+  - العمل مع المستأجرين والبيئات وقواعد البيانات
+prerequisites: >
+  يوصى بكل من مسارات التعرف على Dynamics 365 Fundamentals وPower Platform ‏Fundamentals
+iconUrl: /learn/achievements/get-started-configuration-dynamics-365.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+products:
+- common-data-service
+- dynamics-365
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-marketing
+- dynamics-sales
+units:
+- learn.wwl.get-started-configuration-dynamics-365.introduction
+- learn.wwl.get-started-configuration-dynamics-365.tenants-environments-databases
+- learn.wwl.get-started-configuration-dynamics-365.power-platform-dynamics-365-admin-centers
+- learn.wwl.get-started-configuration-dynamics-365.configure-dynamics-365-model-driven-app
+- learn.wwl.get-started-configuration-dynamics-365.knowledge-check
+- learn.wwl.get-started-configuration-dynamics-365.explore-power-platform-dynamics-365-admin-centers
+- learn.wwl.get-started-configuration-dynamics-365.summary
+badge:
+  uid: learn.wwl.get-started-configuration-dynamics-365.badge

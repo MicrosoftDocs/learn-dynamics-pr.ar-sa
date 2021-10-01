@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-forms-pages-subscriptions.6-page
+title: إنشاء صفحة تسويق
+metadata:
+  title: إنشاء صفحة تسويق
+  description: تعرّف على كيفية إنشاء صفحة تسويق.
+  ms.date: 08/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7d8f786df87bfac1afb00684cd0d731e0a73c345
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435328"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-page.md)]"

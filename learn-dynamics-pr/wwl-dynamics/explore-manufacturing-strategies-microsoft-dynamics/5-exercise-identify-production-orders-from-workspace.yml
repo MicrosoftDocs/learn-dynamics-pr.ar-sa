@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.exercise-identify-production-orders-from-workspace
+title: 'المعمل: إنشاء أمر إنتاج'
+metadata:
+  title: 'المعمل: إنشاء أمر إنتاج'
+  description: 'المعمل: إنشاء أمر إنتاج'
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 4907b303842b5dde8f6acc41fe9b3466f010d842
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438576"
+azureSandbox: false
+labId: 88380
+labModal: true
+durationInMinutes: 10
+content: '[!include[](includes/5-exercise-identify-production-orders-from-workspace.md)]'

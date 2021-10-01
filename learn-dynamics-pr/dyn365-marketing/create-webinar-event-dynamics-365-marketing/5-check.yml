@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-webinar-event-dynamics-365-marketing.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 029dec12b48149ca7855b2b23a85148df8ca6a47
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435525"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي مما يلي ليس خيارًا متاحًا لبث الندوة عبر الويب في Dynamics 365 Marketing؟
+    choices:
+    - content: اجتماعات Teams
+      isCorrect: false
+      explanation: اجتماعات Teams متوفرة.
+    - content: أحداث Teams المباشرة
+      isCorrect: false
+      explanation: أحداث Teams المباشرة متوفرة.
+    - content: غير ذلك
+      isCorrect: false
+      explanation: غير ذلك هو خيار جاهز لبث الندوة عبر الإنترنت مباشرة.
+    - content: اجتماعات Zoom
+      isCorrect: true
+      explanation: اجتماعات Zoom ليس خيارًا متوفرًا.
+  - content: عند إعداد حدث، ما الذي يدل على أنه سيكون ندوة عبر الإنترنت؟
+    choices:
+    - content: تم تعيين تكوين ندوة الإنترنت على أنها حدث عبر الإنترنت.
+      isCorrect: false
+      explanation: يُستخدم حقل تكوين الندوة عبر الإنترنت للإشارة إلى موفر الندوة عبر الإنترنت الذي سيتم استخدامه لهذا الحدث. لا يتوفر هذا الحقل إلا إذا تم تحديد "غير ذلك" في حقل موفر البث.
+    - content: تم تعيين نوع الحدث إلى ندوة عبر الإنترنت.
+      isCorrect: false
+      explanation: يُستخدم حقل نوع الحدث فقط لأغراض التعقب/إعداد التقارير الداخلية ولا يؤثر في أي من ميزات الحدث.
+    - content: تم تعيين بث هذا الحدث عبر الإنترنت إلى "نعم".
+      isCorrect: true
+      explanation: يُستخدم حقل "بث هذا الحدث عبر الإنترنت" للإشارة إلى حدث ندوة عبر الإنترنت. بعد تبديل "هل تريد بث هذا الحدث" إلى "نعم"، سيكون لديك ثلاثة خيارات لتحديد موفر البث.
+    - content: تم تعيين حدث الندوة عبر الإنترنت إلى "نعم".
+      isCorrect: false
+      explanation: لا يوجد حقل حدث لندوة عبر الإنترنت في سجل الحدث.

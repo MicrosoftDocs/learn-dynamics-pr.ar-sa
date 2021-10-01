@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configuring-sales-insights.2-creating-cards
+title: إنشاء بطاقات معلومات باستخدام الاستوديو المساعد
+metadata:
+  title: إنشاء بطاقات معلومات باستخدام الاستوديو المساعد
+  description: تعرف على كيفية إنشاء بطاقات معلومات باستخدام الاستوديو المساعد.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9ddd485d88b7d47f5029bace41d5a8a0ba565450
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436303"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-creating-cards.md)]"

@@ -1,0 +1,65 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.7-knowledge-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 64819101487ff022f7656906645015c5d7c960e8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434157"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: لديك العديد من الأجهزة المرتبطة بدرجات الحرارة المطلوب تجميعها معًا لأن لها خصائص متشابهة.  ما نوع السجل المطلوب إنشاؤه؟
+    choices:
+    - content: جهاز IoT
+      explanation: تُستخدم سجلات فئة الأجهزة عندما تتشابه الأجهزة في الخصائص.
+      isCorrect: false
+    - content: فئة الأجهزة
+      explanation: تُستخدم سجلات فئة الأجهزة عندما تتشابه الأجهزة في الخصائص.
+      isCorrect: true
+    - content: تعريف الأوامر
+      explanation: تُستخدم سجلات فئة الأجهزة عندما تتشابه الأجهزة في الخصائص.
+      isCorrect: false
+    - content: تعريف الخاصية
+      explanation: تُستخدم سجلات فئة الأجهزة عندما تتشابه الأجهزة في الخصائص.
+      isCorrect: false
+    - content: خاصية أجهزة IoT
+      explanation: تُستخدم سجلات فئة الأجهزة عندما تتشابه الأجهزة في الخصائص.
+      isCorrect: false
+  - content: أين يمكن تعريف الخصائص المطلوبة؟
+    choices:
+    - content: فئة جهاز IoT
+      explanation: يُمكن تعريف الخصائص المطلوبة مباشره في سجل جهاز IoT في Connected Field Service.
+      isCorrect: false
+    - content: علامة خاصية جهاز IoT
+      explanation: يُمكن تعريف الخصائص المطلوبة مباشره في سجل جهاز IoT في Connected Field Service.
+      isCorrect: false
+    - content: تعريف أوامر IoT
+      explanation: يُمكن تعريف الخصائص المطلوبة مباشره في سجل جهاز IoT في Connected Field Service.
+      isCorrect: false
+    - content: سجل جهاز IoT
+      explanation: يُمكن تعريف الخصائص المطلوبة مباشره في سجل جهاز IoT في Connected Field Service.
+      isCorrect: true
+  - content: لقد أنشأ جهاز IoT تنبيه IoT.  عليك تبسيط عمليه إرسال أحد الأوامر إلى أحد الأجهزة. أي السجلات التالية عليك إنشاؤها حيثُ تنشر خاصية "الرسالة" تحديدًا في أمر جهاز IoT؟
+    choices:
+    - content: فئة الأجهزة
+      explanation: تسمح لك تعريفات الخاصية بتحديد خاصيه "الرسالة" في أمر جهاز IoT.
+      isCorrect: false
+    - content: علامة خاصية جهاز IoT
+      explanation: تسمح لك تعريفات الخاصية بتحديد خاصيه "الرسالة" في أمر جهاز IoT.
+      isCorrect: false
+    - content: تعريف الأوامر
+      explanation: تسمح لك تعريفات الخاصية بتحديد خاصيه "الرسالة" في أمر جهاز IoT.
+      isCorrect: false
+    - content: تعريف الخاصية
+      explanation: تسمح لك تعريفات الخاصية بتحديد خاصيه "الرسالة" في أمر جهاز IoT.
+      isCorrect: true

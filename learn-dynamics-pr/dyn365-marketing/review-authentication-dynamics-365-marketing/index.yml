@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.review-authentication-dynamics-365-marketing
+metadata:
+  title: راجع مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR في Dynamics 365 Marketing
+  description: تعرّف على مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR.
+  ms.date: 04/06/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 011d32889fcb18bb447b4779b8f25b8f71b51fca
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435474"
+title: راجع مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على مصادقة المجال\n- تعرّف على أفضل ممارسات البريد الإلكتروني\n- تعرّف على الاحتفاظ بالبيانات وGDPR\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/review-authentication-dynamics-365-marketing.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.review-authentication-dynamics-365-marketing.1-introduction
+- learn-dynamics.review-authentication-dynamics-365-marketing.2-authentication
+- learn-dynamics.review-authentication-dynamics-365-marketing.3-email
+- learn-dynamics.review-authentication-dynamics-365-marketing.4-data
+- learn-dynamics.review-authentication-dynamics-365-marketing.5-check
+- learn-dynamics.review-authentication-dynamics-365-marketing.6-summary
+badge:
+  uid: learn-dynamics.review-authentication-dynamics-365-marketing.badge

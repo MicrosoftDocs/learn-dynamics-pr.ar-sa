@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-scheduling-capabilities-of-dynamics-365-field-service.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: b905bf7a4b91f98052c07aa5167774115b4c4b5f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438708"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أي من مكونات لوحة الجدولة التالية يستخدم لعرض العناصر غير المجدولة؟
+    choices:
+    - content: لوحة عامل التصفية
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن الغرض من لوحة التصفية هو تصفية قائمة الموارد المعروضة في لوحة الجدولة.
+    - content: لوحة التفاصيل
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن لوحة التفاصيل توفر تفاصيل إضافية عن السجل عند تحديد مورد أو متطلب أو حجز.
+    - content: لوحة المتطلبات
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن الغرض من لوحة "المتطلبات" هو عرض أي متطلبات موارد غير مجدولة.
+  - content: أي من الخيارات التالية لجدولة عنصر يستخدم مساعد الجدولة؟
+    choices:
+    - content: حظر الوقت في تقويم المورد
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذه الطريقة لا تفتح "مساعد الجدولة"، وإنما توفر قائمة بالمتطلبات فقط للاختيار من بينها.
+    - content: سحب تثبيت المتطلبات من التقويم
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذه الطريقة لا توفر أي خيارات لتحديد الموارد. أنت ببساطة تنقل العنصر إلى المورد والوقت اللذين تريدهما.
+    - content: حدد البحث عن التوافر
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن تحديد خيار البحث عن التوافر في سجل المتطلبات يفتح مساعد الجدولة.
+  - content: في أي من السيناريوهات التالية ستستخدم على الأرجح تحسين مورد واحد؟
+    choices:
+    - content: لتعديل جدول فني بعد الإلغاء
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن تحسين مورد واحد يُستخدم لتحسين الحجوزات لفني واحد فقط. يُستخدم عادةً عندما تحتاج إلى حساب عمليات الإلغاء التي تحدث لفني معين.
+    - content: لتحسين كل الأصناف المجدولة وغير المجدولة ليوم الغد
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن تحسين مورد واحد يُستخدم لتحسين الحجوزات لفني واحد فقط. في هذا السيناريو، تحتاج إلى تحسين جداول الموارد المتعددة.
+    - content: لجدولة أمر عمل طارئ تلقائياً
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن تحسين مورد واحد يُستخدم لتحسين الحجوزات لفني واحد فقط. في هذا السيناريو، نحتاج إلى المرونة للبحث عبر موارد متعددة.

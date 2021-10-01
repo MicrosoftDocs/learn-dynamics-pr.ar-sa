@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-dynamics-365-sales.4-security-roles
+title: إعداد أدوار الأمان
+metadata:
+  title: إعداد أدوار الأمان
+  description: قم بتعيين دور أمان لكل مستخدم بناءً على الوصول الذي تريده للمستخدم.
+  ms.date: 08/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: fda74d6310d82b0436921b68f93e7e96440a5a3d
+  ms.sourcegitcommit: 55bd61067d77ae15072ab1065b0875653aff8ed1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "7436400"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-security-roles.md)]"

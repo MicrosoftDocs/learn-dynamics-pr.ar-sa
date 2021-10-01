@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn.wwl.identify-project-operations-capabilities
+metadata:
+  title: تحديد إمكانات إدارة دورة حياة المشروع في Microsoft Dynamics 365 Project Operations
+  description: تحديد إمكانات إدارة دورة حياة المشروع في Microsoft Dynamics 365 Project Operations
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: 7350a4f1ff67dd7e79ae81cb10bac489b9f43756
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438703"
+title: تحديد إمكانات إدارة دورة حياة المشروع في Microsoft Dynamics 365 Project Operations
+summary: تناقش هذه الوحدة النمطية الإمكانات الأساسية لـ Microsoft Dynamics Project Operations لمساعدتك على إدارة الجوانب المالية لأعمالك القائمة على المشروع.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - صف دورة حياة المشروع، بما في ذلك فواتير المشروع والتعرف على الإيرادات.
+
+  - وصف الخدمات المستندة إلى المشروع.
+
+  - وصف إمكانات مبيعات المشروع.
+
+  - وصف إمكانات عقد المشروع.
+
+  - وصف إمكانات تسعير المشروع.
+prerequisites: ''
+iconUrl: /learn/achievements/identify-project-operations-capabilities.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-project-operations
+units:
+- learn.wwl.identify-project-operations-capabilities.introduction
+- learn.wwl.identify-project-operations-capabilities.explore-project-based-services
+- learn.wwl.identify-project-operations-capabilities.manage-projects-across-industries
+- learn.wwl.identify-project-operations-capabilities.analyze-project-lifecycle-project-phases
+- learn.wwl.identify-project-operations-capabilities.explore-project-sales-capabilities
+- learn.wwl.identify-project-operations-capabilities.explore-project-contract-capabilities
+- learn.wwl.identify-project-operations-capabilities.describe-project-pricing-capabilities
+- learn.wwl.identify-project-operations-capabilities.knowledge-check
+- learn.wwl.identify-project-operations-capabilities.summary
+badge:
+  uid: learn.wwl.identify-project-operations-capabilities.badge

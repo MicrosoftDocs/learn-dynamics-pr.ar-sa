@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-dynamics-365-sales.3-customization-options
+title: استخدام خيارات التخصيص
+metadata:
+  title: استخدام خيارات التخصيص
+  description: ابدأ في تخصيص التطبيق من خلال تعقب المزيد من البيانات، وتغيير أو إضافة العمليات التجارية، وتصميم النماذج وطرق العرض لتلبية متطلباتك المحددة.
+  ms.date: 08/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: bec732edf8b613daa71aaf9ad222c242cce735bb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436137"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-customization-options.md)]"

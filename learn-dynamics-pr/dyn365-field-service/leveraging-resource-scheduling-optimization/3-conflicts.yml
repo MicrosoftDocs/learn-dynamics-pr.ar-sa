@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.leveraging-resource-scheduling-optimization.3-conflicts
+title: التعامل مع الحجوزات المقفلة وحل التعارضات
+metadata:
+  title: التعامل مع الحجوزات المقفلة وحل التعارضات
+  description: تعرّف على كيفية التعامل مع الحجوزات المقفلة وحل التعارضات.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 20650dc6a0b5998d805737d2611010726c1e084f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434073"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-conflicts.md)]"

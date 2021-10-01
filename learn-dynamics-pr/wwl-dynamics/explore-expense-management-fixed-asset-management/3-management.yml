@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.management
+title: استكشاف إدارة المصروفات
+metadata:
+  title: استكشاف إدارة المصروفات
+  description: استكشاف إدارة المصروفات
+  ms.date: 06/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 8cdcd76072096153d84505e3079ab6506e296cb5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438590"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/3-management.md)]'

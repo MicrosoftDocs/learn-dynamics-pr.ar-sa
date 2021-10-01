@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-field-service-mobile
+metadata:
+  title: تخصيص وتكوين تطبيق Dynamics 365 Field Service ‏Mobile
+  description: تعرف على كيفية تخصيص وتكوين نماذج تطبيق Microsoft Dynamics 365 Field Service ‏Mobile وطرق العرض ومخطط الموقع.
+  ms.date: 07/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: 36f0cc6b25f5d2465cf3d6520a103112ffce5bf625b822b79511e0a2193baa9d
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7433922"
+title: تخصيص وتكوين تطبيق Dynamics 365 Field Service ‏Mobile
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تخصيص وتكوين نماذج تطبيق Dynamics 365 Field Service ‏Mobile وطرق العرض ومخطط الموقع. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تخصيص وتحرير تطبيق الأجهزة المحمولة.\n- تكوين البيانات غير المتصلة والرموز الشريطية.\n- تمكين تتبع الموقع ودفع الإخطارات.\n"
+prerequisites: المعرفة الأساسية لتطبيق Microsoft Dynamics 365 Field Service
+iconUrl: /learn/achievements/configure-field-service-mobile.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.configure-field-service-mobile.1-introduction
+- learn-dynamics.configure-field-service-mobile.2-edit
+- learn-dynamics.configure-field-service-mobile.3-offline
+- learn-dynamics.configure-field-service-mobile.4-barcode
+- learn-dynamics.configure-field-service-mobile.5-location
+- learn-dynamics.configure-field-service-mobile.6-push
+- learn-dynamics.configure-field-service-mobile.7-check
+- learn-dynamics.configure-field-service-mobile.8-summary
+badge:
+  uid: learn-dynamics.configure-field-service-mobile.badge

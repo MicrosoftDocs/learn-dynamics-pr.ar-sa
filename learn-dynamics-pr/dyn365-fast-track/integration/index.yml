@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.integration
+metadata:
+  title: تصميم التكامل لحلول Dynamics 365
+  description: تعد ورشة عمل التكامل جزءاً من Success by Design. تناقش هذه الوحدة استراتيجية التكامل وكيف ستساعدك ورشة عمل التكامل على التحقق من أن خطط تكامل المشروع الشاملة ستدعم التنفيذ الأولي والاحتياجات طويلة المدى.
+  ms.date: 07/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e4d28dc6852f6bf025e02605033b03a943aeca9f
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431883"
+title: تصميم التكامل لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتعد ورشة عمل التكامل جزءاً من Success by Design. تناقش هذه الوحدة استراتيجية التكامل وكيف ستساعدك ورشة عمل التكامل على التحقق من أن خطط تكامل المشروع الشاملة ستدعم التنفيذ الأولي والاحتياجات طويلة المدى.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية توصيل مكون واحد أو أكثر لإنشاء تجربة موحدة.\n- اكتشاف عملية دمج الخدمات الموجودة دون ترحيلها أو إعادة بناءها.\n"
+prerequisites: "- الإلمام بتطبيق Success by Design \n- تكون الخبرة السابقة كمهندس حلول مفيدة\n- تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)\n"
+iconUrl: /learn/achievements/integration.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.integration.1-introduction
+- learn-dynamics.integration.2-integration-workshop-topics
+- learn-dynamics.integration.2-2-prepare-integration-design-review
+- learn-dynamics.integration.2-3-conduct-integration-design-review
+- learn-dynamics.integration.2-4-integration-design-review-follow-up
+- learn-dynamics.integration.3-check
+- learn-dynamics.integration.4-summary
+badge:
+  uid: learn-dynamics.integration.badge

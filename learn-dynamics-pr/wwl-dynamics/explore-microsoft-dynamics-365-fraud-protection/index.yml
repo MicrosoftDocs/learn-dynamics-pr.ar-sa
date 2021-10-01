@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn.wwl.explore-microsoft-dynamics-365-fraud-protection
+metadata:
+  title: استكشاف Microsoft Dynamics 365 Fraud Protection
+  description: استكشاف Microsoft Dynamics 365 Fraud Protection
+  ms.date: 06/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-fraud-protection
+  ms.openlocfilehash: 21bb5d41ea861e79d082188e9fb10f960639a22b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438589"
+title: استكشاف Microsoft Dynamics 365 Fraud Protection
+summary: تعرّف على Microsoft Dynamics 365 Fraud Protection وكيف يمكنه مساعدتك في تقليل الاحتيال في حركات الشراء وتحسين معدلات الموافقة على الحركات البنكية والتعرّف على المخاطر التجارية المرتبطة بخصومات ومرتجعات البضائع.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   تقديم وصف للطريقة التي يستخدمها Dynamics 365 Fraud Protection لتقييم حركة الشراء للتقليل من الخسائر التي يعود سببها إلى عمليات الاحتيال وزيادة معدلات الموافقة البنكية.
+
+  *   صف كيف يمنع Dynamics 365 Fraud Protection إنشاء الحساب غير المصرح به وعمليات الاستيلاء على الحساب والوصول الاحتيالي إلى الحساب.
+
+  *   تقديم وصف للطريقة التي يستخدمها Dynamics 365 Fraud Protection لمنع حدوث خسائر ترتبط بالخصومات والمرتجعات الاحتيالية، وكيف يتعرّف على المخاطر التجارية والاختلالات المرتبطة بخصومات ومرتجعات البضائع.
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/dynamics-fraud-protection-explore.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-fraud-protection
+units:
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection.introduction
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection.explore-how-reduces-fraud-losses-increases-bank-acceptance-rates
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection.explore-how-prevents-account-compromise
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection.explore-how-provides-actionable-insights-about-return-discount-anomalies
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection.knowledge-check
+- learn.wwl.explore-microsoft-dynamics-365-fraud-protection.summary
+badge:
+  uid: learn.wwl.explore-microsoft-dynamics-365-fraud-protection.badge

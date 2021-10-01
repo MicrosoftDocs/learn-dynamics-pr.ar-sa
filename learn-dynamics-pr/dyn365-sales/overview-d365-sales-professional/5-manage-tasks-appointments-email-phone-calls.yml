@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.overview-d365-sales-professional.5-manage-tasks-appointments-email-phone-calls
+title: إدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية
+metadata:
+  title: إدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية
+  description: إدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية
+  ms.date: 05/14/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b31d5494b3024062792626a600a4395d1bc3b8b4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436201"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-manage-tasks-appointments-email-phone-calls.md)]

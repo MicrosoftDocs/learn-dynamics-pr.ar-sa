@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-sakes-insights
+metadata:
+  title: العمل مع Dynamics 365 Sales Insights
+  description: تعرف على كيفية تكوين Dynamics 365 Sales Insights والعمل معها.
+  ms.date: 3/18/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-sales
+  ms.openlocfilehash: e54cb3dab6794c513aad0ae61bcd9152f79d4622
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7437339"
+title: العمل مع Dynamics 365 Sales insights
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  قم بتكوين بيانات Dynamics 365 Sales Insights والعمل معها لاكتساب رؤى لعملائك. يغطي مسار التعلّم هذا التكوين والعمل مع Sales Insights.
+prerequisites: >
+  - لا شيء
+iconUrl: /learn/achievements/work-sakes-insights.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-sales-insights
+modules:
+- learn-dynamics.configuring-sales-insights
+- learn-dynamics.working-with-sales-insights
+- learn-dynamics.tutorials-sales-insights
+trophy:
+  uid: learn-dynamics.work-sakes-insights.trophy

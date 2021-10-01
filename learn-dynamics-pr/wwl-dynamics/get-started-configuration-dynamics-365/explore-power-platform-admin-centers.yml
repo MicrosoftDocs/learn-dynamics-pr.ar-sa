@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-started-configuration-dynamics-365.explore-power-platform-dynamics-365-admin-centers
+title: تمرين - استكشاف مراكز المسؤولين في Power Platform وDynamics 365
+metadata:
+  title: تمرين - استكشاف مراكز المسؤولين في Power Platform وDynamics 365
+  description: تمرين - استكشاف مراكز المسؤولين في Power Platform وDynamics 365
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 71afbf02ad5fd93e5085f65fee4555293f603746
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438533"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/6-explore-power-platform-admin-centers.md)]'

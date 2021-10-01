@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tutorials-sales-insights.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 09/08/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6141dbb65aa9375b5aee81c81f1b9d49503e879c
+  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "7436356"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: كيف يمكنك إظهار بطاقة معينة لمستخدم معين في مؤسستك؟
+    choices:
+    - content: قم بتعيين معرف مستخدم محدد في عمود "معروض لـ".
+      isCorrect: true
+      explanation: قم بتعيين معرف مستخدم محدد في عمود "معروض لـ".
+    - content: قم بتعيين اسم مستخدم محدد في العمود "معروض لـ".
+      isCorrect: false
+      explanation: قم بتعيين معرف مستخدم محدد في عمود "معروض لـ".
+    - content: اترك "المعروض لـ" فارغاً.
+      isCorrect: false
+      explanation: قم بتعيين معرف مستخدم محدد في عمود "معروض لـ".
+    - content: قم بتعيين البريد الإلكتروني للمستخدم في عمود "المعروض لـ".
+      isCorrect: false
+      explanation: قم بتعيين معرف مستخدم محدد في عمود "معروض لـ".
+  - content: كيف يمكنك إنشاء بطاقة مع الإجراء لفتح https://www.microsoft.com?
+    choices:
+    - content: عيّن "نوع الزر" على أنه فتح الجدول و "عنوان URL للزر / معرّف السجل" على أنه https://www.microsoft.com.
+      isCorrect: false
+      explanation: عيّن "نوع الزر" على أنه عنوان URL مفتوح و "عنوان URL للزر / معرّف السجل" على أنه https://www.microsoft.com.
+    - content: عيّن "نوع الزر" على أنه عنوان URL مفتوح و "عنوان URL للزر / معرّف السجل" على أنه https://www.microsoft.com.
+      isCorrect: true
+      explanation: عيّن "نوع الزر" على أنه عنوان URL مفتوح و "عنوان URL للزر / معرّف السجل" على أنه https://www.microsoft.com.
+    - content: كلاهما أ و ب سيعملان.
+      isCorrect: false
+      explanation: عيّن "نوع الزر" على أنه عنوان URL مفتوح و "عنوان URL للزر / معرّف السجل" على أنه https://www.microsoft.com.
+    - content: لا شيء مما سبق
+      isCorrect: false
+      explanation: عيّن "نوع الزر" على أنه عنوان URL مفتوح و "عنوان URL للزر / معرّف السجل" على أنه https://www.microsoft.com.
+  - content: كيف يمكنك إظهار بطاقة معينة في نموذج فرصة معينة؟
+    choices:
+    - content: عيّن "عرض الجدول" على أنه "فرص" و "عنوان URL للزر / معرّف السجل" كمعرّف فرصة محددة.
+      isCorrect: false
+      explanation: قم بتعيين "عرض الجدول" على أنه "فرص" و "عرض معرّف السجل" كمعرّف فرصة محددة.
+    - content: قم بتعيين "عرض الجدول" على أنه "فرص" و "عرض معرّف السجل" كمعرّف فرصة محددة.
+      isCorrect: true
+      explanation: قم بتعيين "عرض الجدول" على أنه "فرص" و "عرض معرّف السجل" كمعرّف فرصة محددة.
+    - content: قم بتعيين "عرض الجدول" على أنه "حساب" و "عرض معرّف السجل" كمعرّف الحساب المحدد.
+      isCorrect: false
+      explanation: قم بتعيين "عرض الجدول" على أنه "فرص" و "عرض معرّف السجل" كمعرّف فرصة محددة.
+    - content: عيّن "عرض الجدول" على أنه "حساب" و "عنوان URL للزر / معرّف السجل" كمعرّف الحساب المحدد.
+      isCorrect: false
+      explanation: قم بتعيين "عرض الجدول" على أنه "فرص" و "عرض معرّف السجل" كمعرّف فرصة محددة.

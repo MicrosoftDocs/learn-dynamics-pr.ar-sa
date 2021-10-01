@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn-dynamics.value-proposition-mrss
+metadata:
+  title: مقدمة إلى عرض القيمة الخاص بحل Microsoft Relationship Sales Solution‏ (MRS) لعملائك
+  description: اكتشف كيف يمكن أن تساعد حلول Microsoft Relationship Sales Solution‏ (MRS) عملاءك. تغطي هذه الوحدة التمهيدية عرض القيمة ومتطلبات التكامل وعملية وحدة SKU والمبادئ التوجيهية.
+  ms.date: 8/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2f8f32cc063e0cd91b6e67f0bd8abbb5b130ba4e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436111"
+title: مقدمة إلى عرض القيمة الخاص بحل Microsoft Relationship Sales Solution‏ (MRS) لعملائك
+summary: "[!include[](../includes/module-banner.md)]\n\nاكتشف كيف يمكن أن تساعد حلول Microsoft Relationship Sales Solution‏ (MRS) عملاءك. تغطي هذه الوحدة التمهيدية عرض القيمة ومتطلبات التكامل وعملية وحدة SKU والمبادئ التوجيهية. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- صِف قيمة MRS (حل Microsoft Relationship Sales Solution) لعملائك.\n- مراجعة خيارات ومتطلبات تكامل MRS.\n- فحص عملية وإرشادات وحدة SKU الخاصة بحلول MRS.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/value-proposition-mrss.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.value-proposition-mrss.1-intro
+- learn-dynamics.value-proposition-mrss.2-mrss-benefits
+- learn-dynamics.value-proposition-mrss.3-check
+- learn-dynamics.value-proposition-mrss.4-summary
+badge:
+  uid: learn-dynamics.value-proposition-mrss.badge

@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.solution-blueprint
+metadata:
+  title: إنشاء مخطط حل لحلول Dynamics 365
+  description: تعتبر ورشة عمل مخطط الحل جزءاً من Success by Design. تركز هذه الوحدة على إنشاء المخطط وإجراء ورشة العمل لإنشائه.
+  ms.date: 07/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 97387899fce9ef4e8bbd9146ed121fa222002bd7
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431885"
+title: إنشاء مخطط حل لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتعتبر ورشة عمل مخطط الحل جزءاً من Success by Design. تركز هذه الوحدة على إنشاء المخطط وإجراء ورشة العمل لإنشائه.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على كيفية تحديد أهداف المشروع\n- التعرف على استراتيجية المستأجر الخاصة بالمشروع\n- خذ بعين الاعتبار أي متطلبات غير وظيفية\n- التعرف على التحضير لورشة عمل مخطط الحل وإجرائها\n"
+prerequisites: >
+  - التعرف على عملية Success by Design
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
+
+  - تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)
+iconUrl: /learn/achievements/solution-blueprint.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.solution-blueprint.1-introduction
+- learn-dynamics.solution-blueprint.2-workshop-topics
+- learn-dynamics.solution-blueprint.2-2-prepare
+- learn-dynamics.solution-blueprint.2-3-participants
+- learn-dynamics.solution-blueprint.2-4-conduct-review
+- learn-dynamics.solution-blueprint.2-5-follow-up
+- learn-dynamics.solution-blueprint.3-check
+- learn-dynamics.solution-blueprint.4-summary
+badge:
+  uid: learn-dynamics.solution-blueprint.badge

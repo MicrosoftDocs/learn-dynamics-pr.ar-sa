@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.exercise-use-excel-view-update-data
+title: تمرين - استخدم برنامج Excel لعرض البيانات وتحديثها
+metadata:
+  title: تمرين - استخدم برنامج Excel لعرض البيانات وتحديثها
+  description: تمرين - استخدم برنامج Excel لعرض البيانات وتحديثها
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: b8ffb1b4d54391612750425a3737e364b38ce5cf
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438548"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/7-exercise-use-excel-view-update-data.md)]'

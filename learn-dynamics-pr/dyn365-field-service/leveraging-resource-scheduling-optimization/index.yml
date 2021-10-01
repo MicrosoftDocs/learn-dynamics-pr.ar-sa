@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.leveraging-resource-scheduling-optimization
+metadata:
+  title: استخدم Resource Scheduling Optimization من أجل Dynamics 365 Field Service
+  description: تشرح هذه الوحدة كيفية العمل مع لوحة الجدولة، وتعارضات الحجز، واستخدام تحسين مورد واحد، ثم توفير بعض الخطوات الأساسية لاستكشاف الأخطاء وإصلاحها.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 57ef93a837ffcac0b2d1f5e4c12898a12c2d36fe
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434145"
+title: استخدم Resource Scheduling Optimization من أجل Dynamics 365 Field Service
+summary: "[!include[](../includes/module-banner.md)] \n\nتشرح هذه الوحدة كيفية العمل مع لوحة الجدولة، وتعارضات الحجز، واستخدام تحسين مورد واحد، ثم توفير بعض الخطوات الأساسية لاستكشاف الأخطاء وإصلاحها.  \n"
+abstract: "في هذه الوحدة، ستتعرف على ما يلي: \n- سيناريوهات Resource Scheduling Optimization ‏(RSO).\n- استخدام لوحات جدولة RSO.\n- العمل مع الحجوزات المؤمنة وحل حالات التعارض. \n- جدولة مورد واحد وخطوات استكشاف الأخطاء وإصلاحها.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/leveraging-resource-scheduling-optimization.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.leveraging-resource-scheduling-optimization.1-scenarios
+- learn-dynamics.leveraging-resource-scheduling-optimization.2-board
+- learn-dynamics.leveraging-resource-scheduling-optimization.3-conflicts
+- learn-dynamics.leveraging-resource-scheduling-optimization.4-single-resource
+- learn-dynamics.leveraging-resource-scheduling-optimization.5-troubleshooting
+- learn-dynamics.leveraging-resource-scheduling-optimization.6-check
+- learn-dynamics.leveraging-resource-scheduling-optimization.7-summary
+badge:
+  uid: learn-dynamics.leveraging-resource-scheduling-optimization.badge

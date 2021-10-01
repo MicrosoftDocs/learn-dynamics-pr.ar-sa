@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.solution-performance
+metadata:
+  title: تنفيذ استراتيجية أداء لحلول Dynamics 365
+  description: استراتيجية أداء الحل في Dynamics 365 مهمة، وتتم مناقشتها في هذه الوحدة. ويمكننا أيضاً تغطية التكوين والتخصيصات، والتأثير على الأداء الكلي لخبرة المستخدم النهائي.
+  ms.date: 08/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 77a455f5e55196125960ce3eb45a11f3cd88cd18
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431874"
+title: تنفيذ استراتيجية أداء لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nوتوفر ورشة عمل أداء الحل الإرشادات وأفضل الممارسات لتصميم الحل فيما يتعلق بالأداء. ستعمل ورشة العمل على زيادة الوعي بالتأثير الذي تحدثه أنواع معينة من التكوينات و/أو التخصيصات على الأداء العام وتجربة المستخدم. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على مراجعة أداء الحل\n- التحضير لورشة عمل أداء الحل\n- تعرف على كيفية إدارة ورشة عمل أداء الحل.\n"
+prerequisites: >
+  - المعرفة الواسعة بالمستشار الوظيفي والمطور
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
+
+  - تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)
+iconUrl: /learn/achievements/solution-performance.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.solution-performance.1-introduction
+- learn-dynamics.solution-performance.2-solution-performance-workshop-topics
+- learn-dynamics.solution-performance.2-2-timing-solution-performance-review
+- learn-dynamics.solution-performance.2-3-prepare
+- learn-dynamics.solution-performance.2-4-implementation-follow-up
+- learn-dynamics.solution-performance.3-check
+- learn-dynamics.solution-performance.4-summary
+badge:
+  uid: learn-dynamics.solution-performance.badge

@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.remotely-monitor-and-service-customer-equipment.7-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 11/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c212fb3410a1c04ed25b071a0bc869378d4f483d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434143"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: خارج الإطار التقليدي، ما نوع سجل Dynamics 365 الذي يمكن تسجيله كجهاز IoT؟
+    choices:
+    - content: تنبيه IoT
+      explanation: يمكن تسجيل نوع سجل أصول العميل كجهاز IoT.
+      isCorrect: false
+    - content: أصل العميل‬
+      explanation: يمكن تسجيل نوع سجل أصول العميل كجهاز IoT.
+      isCorrect: true
+    - content: أمر العمل
+      explanation: يمكن تسجيل نوع سجل أصول العميل كجهاز IoT.
+      isCorrect: false
+    - content: المنتج
+      explanation: يمكن تسجيل نوع سجل أصول العميل كجهاز IoT.
+      isCorrect: false
+    - content: الحالة
+      explanation: يمكن تسجيل نوع سجل أصول العميل كجهاز IoT.
+      isCorrect: false
+  - content: لديك جهاز أطلق تنبيهاً.  تريد إعادة تعيين الجهاز عن بُعد من Dynamics 365.  ما الذي يجب عليك إنشائه؟
+    choices:
+    - content: تعريف الأوامر
+      explanation: قم بإنشاء أمر لإعادة تعيين الجهاز الذي أطلق تنبيهاً عن بُعد.
+      isCorrect: false
+    - content: تعريف الخاصية
+      explanation: قم بإنشاء أمر لإعادة تعيين الجهاز الذي أطلق تنبيهاً عن بُعد.
+      isCorrect: false
+    - content: خاصية الجهاز
+      explanation: قم بإنشاء أمر لإعادة تعيين الجهاز الذي أطلق تنبيهاً عن بُعد.
+      isCorrect: false
+    - content: الأمر
+      explanation: قم بإنشاء أمر لإعادة تعيين الجهاز الذي أطلق تنبيهاً عن بُعد.
+      isCorrect: true
+    - content: أصل العميل‬
+      explanation: قم بإنشاء أمر لإعادة تعيين الجهاز الذي أطلق تنبيهاً عن بُعد.
+      isCorrect: false
+  - content: لديك جهاز IoT الذي سجل قراءة درجة حرارة أعلى من 70 درجة وأطلق تنبيهاً.  تحتاج إلى العثور على قيمة القراءة الدقيقة لتحديد النطاق الذي يقع فيه لتحديد مسار العمل التالي.  فما الذي ينبغي عليك فعله؟
+    choices:
+    - content: قم بإنشاء سير عمل يسحب قيمة القراءة مباشرة من حقل بيانات التنبيه في تنبيه IoT.
+      explanation: قم باستدعاء إجراء الحصول على قيمة الحقل المستندة إلى JSON في سير عمل لسحب قيمة القراءة من حقل بيانات التنبيه.
+      isCorrect: false
+    - content: قم بإنشاء سير عمل يسحب قيمة القراءة من حقل العنوان في تنبيه IoT.
+      explanation: قم باستدعاء إجراء الحصول على قيمة الحقل المستندة إلى JSON في سير عمل لسحب قيمة القراءة من حقل بيانات التنبيه.
+      isCorrect: false
+    - content: قم بإنشاء سير عمل يستدعي إجراء الحصول على قيمة الحقل المستندة إلى JSON لسحب قيمة القراءة من حقل بيانات التنبيه.
+      explanation: قم باستدعاء إجراء الحصول على قيمة الحقل المستندة إلى JSON في سير عمل لسحب قيمة القراءة من حقل بيانات التنبيه.
+      isCorrect: false
+    - content: قم بإنشاء سير عمل يستدعي إجراء إحضار رقم لقيمة الحقل المستندة إلى JSON لسحب قيمة القراءة من حقل بيانات التنبيه.
+      explanation: قم باستدعاء إجراء الحصول على قيمة الحقل المستندة إلى JSON في سير عمل لسحب قيمة القراءة من حقل بيانات التنبيه.
+      isCorrect: true
+  - content: لديك جهاز IoT الذي أنشأ تنبيهاً لدرجة الحرارة في Connected Field Service.  إذا كانت درجة الحرارة أعلى من 70 ولكن أقل من 80، تتم محاولة حل المشكلة أولاً عن طريق حالة، ثم أمر عمل إذا تعذر حل الحالة.  إذا كانت درجة الحرارة أعلى من 80 درجة، يتم إنشاء أمر عمل.  هناك أصناف محددة يجب التقاطها لكل من الحالة وأمر العمل.   كيف ستنجز هذا؟
+    choices:
+    - content: قم بإنشاء سير إجراءات عمل غير متفرعة تبدأ في كيان تنبيه IoT.
+      explanation: سير إجراءات العمل المتفرعة التي تبدأ في كيان تنبيه IoT.
+      isCorrect: false
+    - content: قم بإنشاء سير إجراءات عمل غير متفرعة تبدأ في كيان الحالة.
+      explanation: سير إجراءات العمل المتفرعة التي تبدأ في كيان تنبيه IoT.
+      isCorrect: false
+    - content: قم بإنشاء سير إجراءات عمل غير متفرعة تبدأ في كيان أمر العمل.
+      explanation: سير إجراءات العمل المتفرعة التي تبدأ في كيان تنبيه IoT.
+      isCorrect: false
+    - content: قم بإنشاء سير إجراءات عمل متفرعة تبدأ في كيان تنبيه IoT.
+      explanation: سير إجراءات العمل المتفرعة التي تبدأ في كيان تنبيه IoT.
+      isCorrect: true
+    - content: قم بإنشاء سير إجراءات عمل متفرعة تبدأ في كيان الحالة.
+      explanation: سير إجراءات العمل المتفرعة التي تبدأ في كيان تنبيه IoT.
+      isCorrect: false

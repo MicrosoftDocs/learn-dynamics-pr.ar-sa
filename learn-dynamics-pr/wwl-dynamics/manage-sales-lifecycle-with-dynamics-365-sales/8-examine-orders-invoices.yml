@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.manage-sales-lifecycle-with-dynamics-365-sales.examine-orders-invoices
+title: ‏‫التحقق من الأوامر والفواتير
+metadata:
+  title: ‏‫التحقق من الأوامر والفواتير
+  description: ‏‫التحقق من الأوامر والفواتير
+  ms.date: 08/25/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 609f9bb6b8cbb55119c70b1a2065bb2a47983db2
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7438836"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/8-examine-orders-invoices.md)]'

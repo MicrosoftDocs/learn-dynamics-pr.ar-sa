@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.sales-order-processing
+metadata:
+  title: معالجة أوامر المبيعات باستخدام Dynamics 365 Sales
+  description: يمكنك بيع عناصر مختلفة باستخدام عمليات مختلفة. ومع ذلك، يجب عليك إعداد عملية مبيعات واحدة على الأقل في Microsoft Dynamics 365 Sales. ولكن يمكنك إعداد عمليات إضافية لمطابقة كيفية عمل عملك. استخدم معالجة أوامر المبيعات لأتمتة مؤسستك. قم بإنشاء الطلبات وإدارتها ودعم عمليات البيع المختلفة مثل إنشاء وإدارة عروض الأسعار والعمل مع الطلبات والفواتير.
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e1f82ee8499d6e54b2a161c4ec078706e4672569
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436122"
+title: معالجة أوامر المبيعات باستخدام Dynamics 365 Sales
+summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك بيع عناصر مختلفة باستخدام عمليات مختلفة. ومع ذلك، يجب عليك إعداد عملية مبيعات واحدة على الأقل في Microsoft Dynamics 365 Sales. ولكن يمكنك إعداد عمليات إضافية لمطابقة كيفية عمل عملك. استخدم معالجة أوامر المبيعات لأتمتة مؤسستك. قم بإنشاء الطلبات وإدارتها ودعم عمليات البيع المختلفة مثل إنشاء وإدارة عروض الأسعار والعمل مع الطلبات والفواتير. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد سجلات الاقتباس لسجلات الفرصة\n- عمل اقتباس خلال دورة حياته بأكملها\n- إضافة ومراجعة اقتباس بنود خط المنتج\n- تسليم عروض الأسعار للعملاء\n"
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد أيضاً الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
+iconUrl: /learn/achievements/process-sales-orders-d365-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.sales-order-processing.1-sales-order-processing-overview
+- learn-dynamics.sales-order-processing.2-quotes-and-quote-management
+- learn-dynamics.sales-order-processing.3-orders-and-invoices
+- learn-dynamics.sales-order-processing.4-sales-order-processing-lifecycle
+- learn-dynamics.sales-order-processing.5-knowledge-check
+- learn-dynamics.sales-order-processing.6-summary
+badge:
+  uid: learn-dynamics.process-sales-orders-d365-sales.badge

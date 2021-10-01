@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.test-strategy.3-workshop-topics
+title: تنفيذ ورشة العمل ومتابعتها
+metadata:
+  title: تنفيذ ورشة العمل ومتابعتها
+  description: تعرف على كيفية إجراء تنفيذ ورشة العمل ومتابعتها.
+  ms.date: 07/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c693cf585d61497a40a0b7f2df9e435aa2bb1ff9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431830"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-workshop-topics.md)]"

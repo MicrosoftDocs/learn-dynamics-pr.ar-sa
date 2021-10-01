@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.cutover-strategy-dynamics-365.3-review-time
+title: توقيت مراجعة استراتيجية التكوين المرحلي
+metadata:
+  title: توقيت مراجعة استراتيجية التكوين المرحلي
+  description: تعرف على توقيت مراجعة استراتيجية التكوين المرحلي.
+  ms.date: 08/11/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1254e917b9cf8e5244ac5bdd41f8ba390c0fa092
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431823"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-review-time.md)]"

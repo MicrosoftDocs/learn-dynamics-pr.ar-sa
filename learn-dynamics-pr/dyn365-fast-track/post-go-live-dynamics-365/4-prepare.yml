@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.post-go-live-dynamics-365.4-prepare
+title: التحضير لورشة العمل
+metadata:
+  title: التحضير لورشة العمل
+  description: تعرف على النتائج الملموسة للمشروع والتي تكون جاهزة لورشة العمل.
+  ms.date: 08/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1be079680d29f6ad96fce3206156f70d1ac2918b
+  ms.sourcegitcommit: 4efbdca72ca2f229c7b045aae0b506a50c751f07
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431860"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-prepare.md)]"

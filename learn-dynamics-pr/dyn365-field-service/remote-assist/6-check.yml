@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.remote-assist.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 6/1/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2ed630731e6ebf56fbcff1bb6f2e2ae3cb04770f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434096"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من ميزات العنصر التالية تنفرد باستخدام ميزة Remote Assist HoloLens مقابل العمل معها على جهاز محمول تقليدي؟
+    choices:
+    - content: التعليقات التوضيحية للواقع المختلط
+      isCorrect: false
+      explanation: سواءً كان الفنيون يستخدمون HoloLens أو جهازاً محمولاً، يمكن لمستخدمي Remote Assist الاتصال بالمتعاونين عن بعد، ورسم تعليقات توضيحية للواقع المختلط وإرسال الرسائل والصور ومشاركة الملفات واستلامها وتسجيل المكالمات والمزيد. عندما تستخدم المؤسسات أجهزة HoloLens فإنها تتمتع أيضاً بالقدرة على الحصول على تجربة غامرة بدون استخدام اليدين حيث يمكن للفني العمل والتفاعل مع بالبيئة الخاصة أثناء تلقي التوجيه من المتعاون عن بعد.
+    - content: التجربة الشاملة
+      isCorrect: true
+      explanation: سواءً كان الفنيون يستخدمون HoloLens أو جهازاً محمولاً، يمكن لمستخدمي Remote Assist الاتصال بالمتعاونين عن بعد، ورسم تعليقات توضيحية للواقع المختلط وإرسال الرسائل والصور ومشاركة الملفات واستلامها وتسجيل المكالمات والمزيد. عندما تستخدم المؤسسات أجهزة HoloLens فإنها تتمتع أيضاً بالقدرة على الحصول على تجربة غامرة بدون استخدام اليدين حيث يمكن للفني العمل والتفاعل مع بالبيئة الخاصة أثناء تلقي التوجيه من المتعاون عن بعد.
+    - content: تسجيل المكالمات
+      isCorrect: false
+      explanation: سواءً كان الفنيون يستخدمون HoloLens أو جهازاً محمولاً، يمكن لمستخدمي Remote Assist الاتصال بالمتعاونين عن بعد، ورسم تعليقات توضيحية للواقع المختلط وإرسال الرسائل والصور ومشاركة الملفات واستلامها وتسجيل المكالمات والمزيد. عندما تستخدم المؤسسات أجهزة HoloLens فإنها تتمتع أيضاً بالقدرة على الحصول على تجربة غامرة بدون استخدام اليدين حيث يمكن للفني العمل والتفاعل مع بالبيئة الخاصة أثناء تلقي التوجيه من المتعاون عن بعد.
+    - content: إرسال ملفات وصور
+      isCorrect: false
+      explanation: سواءً كان الفنيون يستخدمون HoloLens أو جهازاً محمولاً، يمكن لمستخدمي Remote Assist الاتصال بالمتعاونين عن بعد، ورسم تعليقات توضيحية للواقع المختلط وإرسال الرسائل والصور ومشاركة الملفات واستلامها وتسجيل المكالمات والمزيد. عندما تستخدم المؤسسات أجهزة HoloLens فإنها تتمتع أيضاً بالقدرة على الحصول على تجربة غامرة بدون استخدام اليدين حيث يمكن للفني العمل والتفاعل مع بالبيئة الخاصة أثناء تلقي التوجيه من المتعاون عن بعد.
+  - content: أي من التطبيقات التالية مطلوب للتعاون مع الخبراء عن بعد باستخدام Remote Assist؟
+    choices:
+    - content: Microsoft Outlook
+      isCorrect: false
+      explanation: يستخدم Remote Assist Microsoft Teams كأداة لمساعدة الفنيين على التعاون مع الخبراء عن بعد.
+    - content: Dynamics 365 Field Service
+      isCorrect: false
+      explanation: يستخدم Remote Assist Microsoft Teams كأداة لمساعدة الفنيين على التعاون مع الخبراء عن بعد.
+    - content: Microsoft Teams
+      isCorrect: true
+      explanation: يستخدم Remote Assist Microsoft Teams كأداة لمساعدة الفنيين على التعاون مع الخبراء عن بعد.
+    - content: Power Apps
+      isCorrect: false
+      explanation: يستخدم Remote Assist Microsoft Teams كأداة لمساعدة الفنيين على التعاون مع الخبراء عن بعد.

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-webinar-event-dynamics-365-marketing.2-configure
+title: تكوين إعدادات ندوة الإنترنت
+metadata:
+  title: تكوين إعدادات ندوة الإنترنت
+  description: نظرة عامة على تكوين إعدادات ندوة الإنترنت.
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3ba09c9ae0ca383d5876ebfbd070fb4aaa576670
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435352"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-configure.md)]"

@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.success-by-design
+metadata:
+  title: بدء استخدام Success by Design for Dynamics 365
+  description: Success by Design هو الإرشادات الوصفية (أساليب وأفضل الممارسات) لتصميم حل Microsoft Dynamics 365 وإنشائه ونشره.
+  ms.date: 07/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 312b8858c582c1eed0a9d2f345c306eb5f441bd7
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431882"
+title: بدء استخدام Success by Design for Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nSuccess by Design هو الإرشادات الوصفية (أساليب وأفضل الممارسات) لتصميم حل Dynamics 365 وإنشائه ونشره. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام تقنيات FastTrack في مشروعك.\n- راجع عمليات وورش عمل Success by Design.\n- حدد المراحل المختلفة للمشروع.\n- اكتشف الأدوات المتوفرة لتعقب تقدم المشروع.\n"
+prerequisites: "- المعرفة الواسعة بالمستشار الوظيفي والمطور \n- تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة  \n- تنزيل أمثلة قوالب ورش العمل من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)\n"
+iconUrl: /learn/achievements/success-by-design.svg
+levels:
+- intermediate
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.success-by-design.1-introduction
+- learn-dynamics.success-by-design.2-overview
+- learn-dynamics.success-by-design.3-why
+- learn-dynamics.success-by-design.4-phases
+- learn-dynamics.success-by-design.5-implement
+- learn-dynamics.success-by-design.6-track-progress
+- learn-dynamics.success-by-design.7-check
+- learn-dynamics.success-by-design.8-summary
+badge:
+  uid: learn-dynamics.success-by-design.badge

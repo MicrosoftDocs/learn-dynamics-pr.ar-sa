@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration.2-2-prepare-integration-design-review
+title: التحضير لمراجعة تصميم التكامل
+metadata:
+  title: التحضير لمراجعة تصميم التكامل
+  description: تعرف على كيفية التحضير لمراجعة تصميم التكامل.
+  ms.date: 07/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: e20e2d0aac0dfcd6fdaaec150e72cfd26cc1f09b5b9f354d5f6f25a074dc2777
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431711"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-2-prepare-integration-design-review.md)]"

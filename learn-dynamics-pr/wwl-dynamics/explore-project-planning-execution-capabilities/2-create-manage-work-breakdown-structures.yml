@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-project-planning-execution-capabilities.create-manage-work-breakdown-structures
+title: إنشاء هياكل تنظيم العمل وإدارتها
+metadata:
+  title: إنشاء هياكل تنظيم العمل وإدارتها
+  description: إنشاء هياكل تنظيم العمل وإدارتها
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: a33ca725ae85aca0a2714c8bb85067b2fe50d535
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438558"
+azureSandbox: false
+durationInMinutes: 8
+content: '[!include[](includes/2-create-manage-work-breakdown-structures.md)]'

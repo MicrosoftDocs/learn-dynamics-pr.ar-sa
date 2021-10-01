@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.automate-customer-voice-surveys
+metadata:
+  title: أتمتة استطلاعات Dynamics 365 Customer Voice باستخدام Power Automate
+  description: قم بإنشاء تجربة تعليقات العملاء الشخصية والمؤتمتة باستخدام Microsoft Power Automate.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e388ab76e37d48871b2dbccc5290a28ff549513e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436116"
+title: أتمتة استطلاعات Dynamics 365 Customer Voice باستخدام Power Automate
+summary: "[!include[](../includes/module-banner.md)] \nقم بإنشاء تجربة تعليقات العملاء الشخصية والمؤتمتة باستخدام Microsoft Power Automate.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على الدور الذي يلعبه Power Automate عند إعداد المشاريع والاستطلاعات في Dynamics 365 Customer Voice.\n- اكتشف الغرض من استخدام المتغيرات لتخصيص الاستطلاعات بشكل أكبر.\n- أنشئ سير مهام‬ في Power Automate لإنشاء دعوات استطلاع وإرسالها إلى العملاء.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/automate-customer-voice-surveys.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- customer-voice
+units:
+- learn-dynamics.automate-customer-voice-surveys.1-introduction
+- learn-dynamics.automate-customer-voice-surveys.2-send-survey-power-automate
+- learn-dynamics.automate-customer-voice-surveys.3-create-invitation
+- learn-dynamics.automate-customer-voice-surveys.4-expand-variables-customize-surveys
+- learn-dynamics.automate-customer-voice-surveys.5-locale-variable-multilingual
+- learn-dynamics.automate-customer-voice-surveys.6-variables-follow-actions
+- learn-dynamics.automate-customer-voice-surveys.7-exercise
+- learn-dynamics.automate-customer-voice-surveys.8-check
+- learn-dynamics.automate-customer-voice-surveys.9-summary
+badge:
+  uid: learn-dynamics.automate-customer-voice-surveys.badge

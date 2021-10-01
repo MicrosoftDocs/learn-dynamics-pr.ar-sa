@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-field-service.describe-key-industry-terminology
+title: وصف مصطلحات صناعة field service الرئيسية
+metadata:
+  title: وصف مصطلحات صناعة field service الرئيسية
+  description: وصف مصطلحات صناعة field service الرئيسية
+  ms.date: 07/26/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: 88f68f47900fa0230765ccd375e2e0811a5dcab5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438750"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/3-describe-key-industry-terminology.md)]'

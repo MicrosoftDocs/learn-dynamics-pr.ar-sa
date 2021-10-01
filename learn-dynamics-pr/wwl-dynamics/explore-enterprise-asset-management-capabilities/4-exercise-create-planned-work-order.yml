@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-enterprise-asset-management-capabilities-microsoft-dynamics-365-supply-c.exercise-create-planned-work-order
+title: المعمل - إنشاء أمر عمل مخطط له
+metadata:
+  title: المعمل - إنشاء أمر عمل مخطط له
+  description: المعمل - إنشاء أمر عمل مخطط له
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: f0f461b301e24bb379649fc0e390d8a1ef90a478
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438599"
+azureSandbox: false
+labId: 88382
+labModal: true
+durationInMinutes: 10
+content: '[!include[](includes/4-exercise-create-planned-work-order.md)]'

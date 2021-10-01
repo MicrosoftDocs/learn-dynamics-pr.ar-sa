@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-enterprise-asset-management-capabilities-microsoft-dynamics-365-supply-c.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: bddb229a9f723f4a565ee1a106929b0e1478490c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438696"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: ما الصفحة التي تُظهر جميع أوامر العمل وبعض المعلومات المتعلقة بكل منها؟
+    choices:
+    - content: صفحة جميع أوامر العمل
+      isCorrect: true
+      explanation: صحيح. تُظهر صفحة قائمة "كل أوامر العمل" جميع أوامر العمل وبعض المعلومات المتعلقة بكل منها. يمكنك أيضًا عرض قائمة بأوامر العمل النشطة فقط وعرض قائمة بمهام أوامر العمل التي تحتوي على الأصول التي تم تثبيتها في مواقع العمل التي ترتبط بها كعامل.
+    - content: صفحة خطأ الأصل
+      isCorrect: false
+      explanation: غير صحيح. تُظهر صفحة قائمة "كل أوامر العمل" جميع أوامر العمل وبعض المعلومات المتعلقة بكل منها. يمكنك أيضًا عرض قائمة بأوامر العمل النشطة فقط وعرض قائمة بمهام أوامر العمل التي تحتوي على الأصول التي تم تثبيتها في مواقع العمل التي ترتبط بها كعامل.
+    - content: صفحة إدارة الأصول
+      isCorrect: false
+      explanation: غير صحيح. تُظهر صفحة قائمة "كل أوامر العمل" جميع أوامر العمل وبعض المعلومات المتعلقة بكل منها. يمكنك أيضًا عرض قائمة بأوامر العمل النشطة فقط وعرض قائمة بمهام أوامر العمل التي تحتوي على الأصول التي تم تثبيتها في مواقع العمل التي ترتبط بها كعامل.
+  - content: هل يمكن نقل مواقع العمل بمجرد إنشائها؟
+    choices:
+    - content: لا، لا يمكن نقل مواقع العمل.
+      isCorrect: true
+      explanation: صحيح. لا يمكن تغيير بنية مواقع العمل بعد إنشائها. بمعنى آخر، لا يمكن نقل المواقع.
+    - content: نعم، يمكن نقل مواقع العمل.
+      isCorrect: false
+      explanation: غير صحيح. لا يمكن تغيير بنية مواقع العمل بعد إنشائها. بمعنى آخر، لا يمكن نقل المواقع.
+    - content: يمكن نقل مواقع العمل اعتمادًا على استثناءات.
+      isCorrect: false
+      explanation: غير صحيح. لا يمكن تغيير بنية مواقع العمل بعد إنشائها. بمعنى آخر، لا يمكن نقل المواقع.
+  - content: إذا قمت بتثبيت أصل على موقع عمل جديد، فما الذي يستخدمه الأصل تلقائياً فيما يرتبط بموقع العمل الجديد؟
+    choices:
+    - content: أوامر العمل
+      isCorrect: false
+      explanation: غير صحيح. إذا قمت بتثبيت أصل على موقع عمل جديد، فسيستخدم الأصل تلقائياً الأبعاد المالية المرتبطة بموقع العمل الجديد.
+    - content: السمات
+      isCorrect: false
+      explanation: غير صحيح. إذا قمت بتثبيت أصل على موقع عمل جديد، فسيستخدم الأصل تلقائياً الأبعاد المالية المرتبطة بموقع العمل الجديد.
+    - content: الأبعاد المالية
+      isCorrect: true
+      explanation: صحيح. إذا قمت بتثبيت أصل على موقع عمل جديد، فسيستخدم الأصل تلقائياً الأبعاد المالية المُرتبطة بموقع العمل الجديد.

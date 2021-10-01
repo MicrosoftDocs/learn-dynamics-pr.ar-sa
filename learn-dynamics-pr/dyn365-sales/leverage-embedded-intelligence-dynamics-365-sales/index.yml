@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.embedded-intelligence
+metadata:
+  title: استفد من الذكاء المضمّن في Dynamics 365 Sales
+  description: يستغرق بناء علاقة قوية ودائمة مع العملاء وقتاً وجهداً. يجب على المديرين التنفيذيين للحساب التواصل مع العملاء بشكل منتظم، ويجب عليهم الحفاظ على فهم كامل لمن هم هؤلاء العملاء وما يحتاجون إليه. تركز هذه الوحدة على مجموعة ميزات Embedded Intelligence في Microsoft Dynamics 365 وكيف يمكنها المساعدة في بناء تلك العلاقات.
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0d60dc8db9ef5aa613d1b4df52cef8eb06613ccf
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436282"
+title: استفد من الذكاء المضمّن في Dynamics 365 Sales
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يستغرق بناء علاقة قوية ودائمة مع العملاء وقتاً وجهداً. يجب على المديرين التنفيذيين للحساب التواصل مع العملاء بشكل منتظم، ويجب عليهم الحفاظ على فهم كامل لمن هم هؤلاء العملاء وما يحتاجون إليه. تركز هذه الوحدة على مجموعة ميزات Embedded Intelligence في Microsoft Dynamics 365 وكيف يمكنها المساعدة في بناء تلك العلاقات.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر وإعداد بطاقات العلاقة المتقدمة\n- استخدم ميزة الالتقاط التلقائي لتحديد الاتصالات ذات الصلة المحتملة\n- إعداد واستهلاك تتبع البريد الإلكتروني\n"
+prerequisites: يجب أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365، وأيضاً معرفة عملية بالسجلات الأساسية المستخدمة في سيناريوهات المبيعات. الإلمام بإدارة العملاء المحتملين والفرص مفيد أيضاً.
+iconUrl: /learn/achievements/leverage-embedded-intelligence-d365-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.embedded-intelligence.1-embedded-intelligence-overview
+- learn-dynamics.embedded-intelligence.2-relationship-assistant-cards
+- learn-dynamics.embedded-intelligence.3-auto-capture
+- learn-dynamics.embedded-intelligence.4-email-tracking
+- learn-dynamics.embedded-intelligence.5-build-relationships
+- learn-dynamics.embedded-intelligence.6-knowledge-check
+- learn-dynamics.embedded-intelligence.7-summary
+badge:
+  uid: learn-dynamics.leverage-embedded-intelligence-d365-sales.badge

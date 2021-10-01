@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.relationship-management-and-social-selling.6-managing-relationships-with-playbooks-and-sales-insights
+title: التمرين - إدارة العلاقات مع أدلة التشغيل وإحصاءات المبيعات
+metadata:
+  title: التمرين - إدارة العلاقات مع أدلة التشغيل وإحصاءات المبيعات
+  description: التمرين - إدارة العلاقات مع أدلة التشغيل وإحصاءات المبيعات
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 95819349001f518b2dbff4c99878cee9ce97a5bc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436109"
+durationInMinutes: 20
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-managing-relationships-with-playbooks-and-sales-insights.md)]

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.create-event-marketing
+metadata:
+  title: إنشاء حدث في الموقع في Dynamics 365 Marketing
+  description: إنشاء حدث في الموقع مع Microsoft Dynamics 365 Marketing. تشرح هذه الوحدة التخطيط الأولي لحدث في الموقع وإعداد ميزانيته والترويج والنشر له.
+  ms.date: 05/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7bd4fbc067819d43d9ce38a275a9453d0b2c5213
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435522"
+title: إنشاء حدث في الموقع في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nإنشاء حدث في الموقع مع Dynamics 365 Marketing. تشرح هذه الوحدة التخطيط الأولي لحدث في الموقع وإعداد ميزانيته والترويج والنشر له.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على مواقع ويب الأحداث، وإنشاء الأحداث وإدارة الأحداث. \n- اتبع تعليمات إنشاء حدث في الموقع خطوة بخطوة. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/create-event-marketing.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.create-event-marketing.1-introduction
+- learn-dynamics.create-event-marketing.2-website
+- learn-dynamics.create-event-marketing.3-customize
+- learn-dynamics.create-event-marketing.4-create
+- learn-dynamics.create-event-marketing.5-sessions
+- learn-dynamics.create-event-marketing.6-registration
+- learn-dynamics.create-event-marketing.7-team
+- learn-dynamics.create-event-marketing.11-logistics
+- learn-dynamics.create-event-marketing.13-publish
+- learn-dynamics.create-event-marketing.14-view
+- learn-dynamics.create-event-marketing.15-exercise
+- learn-dynamics.create-event-marketing.16-check
+- learn-dynamics.create-event-marketing.17-summary
+badge:
+  uid: learn-dynamics.create-event-dynamics-365-marketing.badge

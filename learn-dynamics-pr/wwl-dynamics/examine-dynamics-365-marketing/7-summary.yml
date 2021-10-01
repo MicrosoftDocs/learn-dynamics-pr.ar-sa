@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-marketing.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 07/21/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: 9d5eabaf6d3c1edee0f58a374b85144b8546d0d5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438542"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/7-summary.md)]'

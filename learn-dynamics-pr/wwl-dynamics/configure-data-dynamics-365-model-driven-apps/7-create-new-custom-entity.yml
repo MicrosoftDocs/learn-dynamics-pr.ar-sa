@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-data-dynamics-365-model-driven-apps.create-new-custom-entity
+title: تمرين - إنشاء كيان مخصص جديد
+metadata:
+  title: تمرين - إنشاء كيان مخصص جديد
+  description: تمرين - إنشاء كيان مخصص جديد
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: bc076c0b51c89f2f7e04665079743428e5259202
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438777"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/7-create-new-custom-entity.md)]'

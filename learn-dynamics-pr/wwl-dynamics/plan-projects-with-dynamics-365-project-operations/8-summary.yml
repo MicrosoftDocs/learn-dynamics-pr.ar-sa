@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.plan-projects-with-dynamics-365-project-operations.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 08/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 212e86962087f0b96e8640a365d5a60027944940
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7438804"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/8-summary.md)]'

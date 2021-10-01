@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-set-up-and-manage.1-introduction
+title: مقدمة عن Dynamics 365 Marketing
+metadata:
+  title: مقدمة عن Dynamics 365 Marketing
+  description: مقدمة عن Dynamics 365 Marketing
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3417796a717678ae4692d6000af8d0a928b9a022
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435470"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction.md)]

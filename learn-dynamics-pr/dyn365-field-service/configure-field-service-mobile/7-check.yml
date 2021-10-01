@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-field-service-mobile.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: 6b5d7e60324d226a51f0021f60f42dbbbd1f946c3ec8e9da4542eddbe560c068
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7433917"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: تريد إتاحة جدول الحالة للعاملين في الخطوط الأمامية للوصول إلى تطبيق Field Service Mobile. أي من الكيانات التالية تريد تعديله لإتاحة الوصول إلى جدول الحالة على التطبيق؟
+    choices:
+    - content: النموذج
+      isCorrect: false
+      explanation: عندما تقوم بتعديل تطبيق Field Service Mobile، يتحكم خريطة الموقع في الأصناف التي يتم عرضها في التنقل داخل التطبيق. إذا كنت تريد الوصول إلى شيء ما على تطبيق الأجهزة المحمولة، فأضفه إلى خريطة الموقع. بعد إضافة الصنف، يمكنك تحديد النماذج وطرق العرض المتاحة عندما ينتقل شخص ما إلى الصنف.
+    - content: خريطة الموقع
+      isCorrect: true
+      explanation: عندما تقوم بتعديل تطبيق Field Service Mobile، يتحكم خريطة الموقع في الأصناف التي يتم عرضها في التنقل داخل التطبيق. إذا كنت تريد الوصول إلى شيء ما على تطبيق الأجهزة المحمولة، فأضفه إلى خريطة الموقع. بعد إضافة الصنف، يمكنك تحديد النماذج وطرق العرض المتاحة عندما ينتقل شخص ما إلى الصنف.
+    - content: العرض
+      isCorrect: false
+      explanation: عندما تقوم بتعديل تطبيق Field Service Mobile، يتحكم خريطة الموقع في الأصناف التي يتم عرضها في التنقل داخل التطبيق. إذا كنت تريد الوصول إلى شيء ما على تطبيق الأجهزة المحمولة، فأضفه إلى خريطة الموقع. بعد إضافة الصنف، يمكنك تحديد النماذج وطرق العرض المتاحة عندما ينتقل شخص ما إلى الصنف.
+    - content: المخطط
+      isCorrect: false
+      explanation: عندما تقوم بتعديل تطبيق Field Service Mobile، يتحكم خريطة الموقع في الأصناف التي يتم عرضها في التنقل داخل التطبيق. إذا كنت تريد الوصول إلى شيء ما على تطبيق الأجهزة المحمولة، فأضفه إلى خريطة الموقع. بعد إضافة الصنف، يمكنك تحديد النماذج وطرق العرض المتاحة عندما ينتقل شخص ما إلى الصنف.
+  - content: تمت مطالبتك بإعداد وتكوين ملفات تعريف دون اتصال لتطبيق Field Service Mobile. أين تنشئ وتحرر ملفات التعريف غير المتصلة؟
+    choices:
+    - content: مدخل متخذ Power Apps
+      isCorrect: false
+      explanation: ملفات التعريف غير المتصلة ليست ميزات فريدة لـ Dynamics 365 Field Service؛ إنها ميزات لـ Microsoft Power Platform. لهذا السبب، تم إنشاؤها وتحريرها من مدخل مركز إدارة Microsoft Power Platform. بعد إنشاء ملفات تعريف غير متصلة بالإنترنت، يمكنك تمكينها وربطها بالتطبيقات الفردية المستندة إلى النموذج.
+    - content: مدخل إدارة Microsoft 365
+      isCorrect: false
+      explanation: ملفات التعريف غير المتصلة ليست ميزات فريدة لـ Dynamics 365 Field Service؛ إنها ميزات لـ Microsoft Power Platform. لهذا السبب، تم إنشاؤها وتحريرها من مدخل مركز إدارة Microsoft Power Platform. بعد إنشاء ملفات تعريف غير متصلة بالإنترنت، يمكنك تمكينها وربطها بالتطبيقات الفردية المستندة إلى النموذج.
+    - content: مدخل مركز إدارة Microsoft Power Platform
+      isCorrect: true
+      explanation: ملفات التعريف غير المتصلة ليست ميزات فريدة لـ Dynamics 365 Field Service؛ إنها ميزات لـ Microsoft Power Platform. لهذا السبب، تم إنشاؤها وتحريرها من مدخل مركز إدارة Microsoft Power Platform. بعد إنشاء ملفات تعريف غير متصلة بالإنترنت، يمكنك تمكينها وربطها بالتطبيقات الفردية المستندة إلى النموذج.
+    - content: منطقة الإعدادات لتطبيق Dynamics 365 Field Service
+      isCorrect: false
+      explanation: ملفات التعريف غير المتصلة ليست ميزات فريدة لـ Dynamics 365 Field Service؛ إنها ميزات لـ Microsoft Power Platform. لهذا السبب، تم إنشاؤها وتحريرها من مدخل مركز إدارة Microsoft Power Platform. بعد إنشاء ملفات تعريف غير متصلة بالإنترنت، يمكنك تمكينها وربطها بالتطبيقات الفردية المستندة إلى النموذج.
+  - content: أي من التطبيقات التالية تستخدمه لتكوين وقت وكيفية إرسال الإشعارات الفورية إلى عمال الخطوط الأمامية؟
+    choices:
+    - content: Power Automate
+      isCorrect: true
+      explanation: إعلام الدفع هو إحدى ميزات تطبيق الأجهزة المحمولة؛ ومع ذلك، يجب تكوين إرسال إعلام الدفع باستخدام Power Automate. باستخدام Power Automate، يمكنك تحديد حدث التشغيل الذي يبدأ إشعار الدفع ويضيف خطوة إعلام الدفع في التدفق. بعد أن يقوم التدفق بإنشاء الإعلام، سيتم عرضه في تطبيق Field Service Mobile.
+    - content: Power Apps
+      isCorrect: false
+      explanation: إعلام الدفع هو إحدى ميزات تطبيق الأجهزة المحمولة؛ ومع ذلك، يجب تكوين إرسال إعلام الدفع باستخدام Power Automate. باستخدام Power Automate، يمكنك تحديد حدث التشغيل الذي يبدأ إشعار الدفع ويضيف خطوة إعلام الدفع في التدفق. بعد أن يقوم التدفق بإنشاء الإعلام، سيتم عرضه في تطبيق Field Service Mobile.
+    - content: Power Virtual Agents
+      isCorrect: false
+      explanation: إعلام الدفع هو إحدى ميزات تطبيق الأجهزة المحمولة؛ ومع ذلك، يجب تكوين إرسال إعلام الدفع باستخدام Power Automate. باستخدام Power Automate، يمكنك تحديد حدث التشغيل الذي يبدأ إشعار الدفع ويضيف خطوة إعلام الدفع في التدفق. بعد أن يقوم التدفق بإنشاء الإعلام، سيتم عرضه في تطبيق Field Service Mobile.
+    - content: Dynamics 365 Field Service
+      isCorrect: false
+      explanation: إعلام الدفع هو إحدى ميزات تطبيق الأجهزة المحمولة؛ ومع ذلك، يجب تكوين إرسال إعلام الدفع باستخدام Power Automate. باستخدام Power Automate، يمكنك تحديد حدث التشغيل الذي يبدأ إشعار الدفع ويضيف خطوة إعلام الدفع في التدفق. بعد أن يقوم التدفق بإنشاء الإعلام، سيتم عرضه في تطبيق Field Service Mobile.

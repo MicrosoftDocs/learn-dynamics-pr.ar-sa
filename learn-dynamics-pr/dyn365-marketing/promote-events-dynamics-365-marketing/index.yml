@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.promote-events-marketing
+metadata:
+  title: ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Dynamics 365 Marketing
+  description: تعرّف على كيفية ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Microsoft Dynamics 365 Marketing.
+  ms.date: 04/27/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d9df3e1e4fab0deb11de7f4486af8995946e3171
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435316"
+title: ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على كيفية ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Microsoft Dynamics 365 Marketing.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- يُمكنك ترقية الأحداث وتسجيل الحضور في الأحداث.\n- المتابعة بعد الحدث.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/promote-events-marketing.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.promote-events-marketing.1-introduction
+- learn-dynamics.promote-events-marketing.2-promote
+- learn-dynamics.promote-events-marketing.3-register
+- learn-dynamics.promote-events-marketing.5-book
+- learn-dynamics.promote-events-marketing.6-check-in
+- learn-dynamics.promote-events-marketing.7-follow-up
+- learn-dynamics.promote-events-marketing.8-check
+- learn-dynamics.promote-events-marketing.9-summary
+badge:
+  uid: learn-dynamics.promote-events-marketing.badge

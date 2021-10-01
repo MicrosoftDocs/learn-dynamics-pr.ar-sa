@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.product-catalog
+metadata:
+  title: إدارة وتنظيم كتالوج المنتج الخاص بك باستخدام Dynamics 365 Sales
+  description: يساعد Microsoft Dynamics 365 على تنظيم وإدارة حتى كتالوج المنتجات الأكثر تعقيداً لدعم عملائك في سيناريوهات مشاركة العملاء (على سبيل المثال، المبيعات وخدمة العمود). في هذه الوحدة، ستتعلم كيفية تحديد المنتجات والعائلات والحزم والاستفادة من خصائص المنتج وتحديد قوائم الأسعار. ستتعرف أيضاً على خيارات التسعير لزيادة الاتساق والكفاءة.
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d70381fdd7d9835125addb4757d0b574c60a8e9f
+  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "7436359"
+title: إدارة وتنظيم كتالوج المنتج الخاص بك باستخدام Dynamics 365 Sales
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  يساعد Microsoft Dynamics 365 على تنظيم وإدارة حتى كتالوج المنتجات الأكثر تعقيداً لدعم عملائك في سيناريوهات مشاركة العملاء (على سبيل المثال، المبيعات وخدمة العمود). في هذه الوحدة، ستتعلم كيفية تحديد المنتجات والعائلات والحزم والاستفادة من خصائص المنتج وتحديد قوائم الأسعار. ستتعرف أيضاً على خيارات التسعير لزيادة الاتساق والكفاءة.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد مجموعات الوحدات للمساعدة في التحكم في كيفية بيع المنتجات\n- إنشاء تدرجات هرمية لعائلة المنتجات تتضمن حزم المنتجات والمنتجات الفردية\n- إعداد بيانات تسعير المنتج عن طريق إنشاء قوائم الأسعار وعناصر قائمة الأسعار\n- استخدام قوائم الخصم لتوفير أسعار الخصم بالحجم\n"
+prerequisites: يجب أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. يمكن أن يكون الإلمام بأساسيات المبيعات الأساسية مثل العملاء المتوقعين والفرص والأوامر والفواتير مفيداً أيضاً.
+iconUrl: /learn/achievements/manage-product-catalog-d365-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.product-catalog.1-product-catalog-overview
+- learn-dynamics.product-catalog.2-currencies-and-currency-management
+- learn-dynamics.product-catalog.3-define-products
+- learn-dynamics.product-catalog.4-product-families
+- learn-dynamics.product-catalog.5-price-lists
+- learn-dynamics.product-catalog.6-configure-product-catalog
+- learn-dynamics.product-catalog.7-knowledge-check
+- learn-dynamics.product-catalog.8-summary
+badge:
+  uid: learn-dynamics.manage-product-catalog-d365-sales.badge

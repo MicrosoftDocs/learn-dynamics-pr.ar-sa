@@ -1,0 +1,42 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.marketing-calendar.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 03/16/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d4ae205adbdf70d7e59568d0c4c39dcad3ecdd7f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435449"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من التقويمات التالية على مستوى الكيان متوفرة؟
+    choices:
+    - content: رحلات العميل
+      isCorrect: true
+      explanation: يتوفر تقويم جاهز في رحلات العميل.
+    - content: رسائل البريد الإلكتروني التسويقي
+      isCorrect: false
+      explanation: لا تحتوي رسائل البريد الإلكتروني التسويقية على تقويم جاهز.
+    - content: صفحات التسويق
+      isCorrect: false
+      explanation: لا تحتوي الصفحات التسويقية على تقويم جاهز.
+  - content: ما الكيانات التي يُمكن أن تظهر التقويمات عليها؟
+    choices:
+    - content: جميع الكيانات في التطبيق.
+      isCorrect: false
+      explanation: التقويمات غير متوفرة للكيانات التي لا تحتوي على تاريخ بدء وانتهاء.
+    - content: رحلات العميل والأحداث ومشورات وسائل التواصل الاجتماعي فقط.
+      isCorrect: false
+      explanation: تظهر التقويمات في رحلات العميل والأحداث ومنشورات وسائل التواصل الاجتماعي، وقد تظهر أيضًا في أي كيان يتضمن تاريخ بدء وانتهاء.
+    - content: كيانات بها تاريخ بدء انتهاء.
+      isCorrect: true
+      explanation: يُمكن إضافة التقويمات إلى الكيانات التي تحتوي على تواريخ البدء والانتهاء.

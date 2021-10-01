@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-models.2-workshops
+title: مخطط علاقة الكيان
+metadata:
+  title: مخطط علاقة الكيان
+  description: تعرف على مخطط علاقة الكيانات الذي سيتم تغطيته في ورشة عمل نموذج البيانات.
+  ms.date: 07/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ea85d50b8618823b577ed5e3d4294975911aaec3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431797"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-workshops.md)]"

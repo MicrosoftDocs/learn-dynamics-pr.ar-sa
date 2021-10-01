@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-menus-kpis
+title: 'إدارة القوائم: مؤشرات الأداء الرئيسية'
+metadata:
+  title: 'إدارة القوائم: مؤشرات الأداء الرئيسية'
+  description: 'إدارة القوائم: مؤشرات الأداء الرئيسية'
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: cac5134a88b94306db7bbe418866688979eb2780
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438659"
+azureSandbox: false
+durationInMinutes: 1
+content: '[!include[](includes/4-manage-menus-key-performance-indicators.md)]'

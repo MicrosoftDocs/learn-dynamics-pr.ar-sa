@@ -1,0 +1,66 @@
+### YamlMime:Module
+uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps
+metadata:
+  title: تكوين واجهة المستخدم الخاصة بك في تطبيقات Dynamics 365 Finance and Operations
+  description: تكوين واجهة المستخدم الخاصة بك في تطبيقات Dynamics 365 Finance and Operations
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: d34c5a170fe3bec55620902ad1e5b46ee2918736
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438513"
+title: تكوين واجهة المستخدم الخاصة بك في تطبيقات Finance and Operations
+summary: في هذه الوحدة، تم تعريف المتعلمين بفكرة تخصيص واجهة المستخدم في Dynamics 365 Finance and Operations لتناسب احتياجات أعمالهم. لقد تعلموا كيفية تغيير القوائم والنماذج والتقارير.
+abstract: >
+  وفي نهاية هذه الوحدة، سيتمكن المتعلمون من:
+
+  - إضافة عنصر قائمة إلى المفضلة
+
+  - شرح كيف تختلف الأدوار مع اختلاف لوحات المعلومات
+
+  - إضافة ‏‫مؤشرات الأداء الأساسية (KPI) إلى مساحة عمل لوحة المعلومات
+
+  - تعديل الحقول في نموذج
+
+  - تعديل الحقول في تقرير
+prerequisites: >
+  -   يوصى باستخدام MB-901: Microsoft Dynamics 365 Fundamentals
+
+  -   مسار التعلم تكوين التطبيقات في Finance and Operations - الوحدة 01 - ابدأ بالتكوين والتخصيص في تطبيقات Finance and Operations
+iconUrl: /learn/achievements/configure-your-ui-dynamics-365-finance-operations-apps.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-human-resources
+- dynamics-scm
+units:
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.introduction
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-menus-favorites
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-menus-dashboards-role
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-menus-kpis
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-forms-fields
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-forms-filters-ranges
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.configuring-reports
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.knowledge-check
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.exercise-create-favorites
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.exercise-view-role-based-dashboards
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.exercise-change-form-fields-queries
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.exercise-change-report-output
+- learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.summary
+badge:
+  uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.badge

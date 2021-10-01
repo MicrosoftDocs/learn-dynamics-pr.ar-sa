@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: 3e757bad1550a4102af7c11c6640cef96a2821b1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438666"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/11-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: تحتاج Northwind Traders إلى تحسين تنفيذ الطلبات عبر شبكة معقّدة من الأنظمة والعمليات. ما إمكانية Dynamics 365 Commerce التي يجب أن يعتمدون عليها؟
+    choices:
+    - content: عمليات الفرز.
+      isCorrect: false
+      explanation: حاول مرة أخرى. تُستخدم عمليات الفرز لتحديد المنتجات المتوفرة وفي أي قنوات يتم توفرها خلال فترات زمنية محددة.
+    - content: تحليلات البيع بالتجزئة.
+      isCorrect: false
+      explanation: حاول مرة أخرى. يوفر حل تحليلات التجارة تقارير شاملة للأعمال والحركات ولوحات المعلومات ومؤشرات الأداء الرئيسية التي تستفيد من الرؤى عبر جميع القنوات.
+    - content: إدارة الأوامر الموزعة (DOM).
+      isCorrect: true
+      explanation: عمل رائع! يعتمد DOM على طريقة عرض عمومية واحدة للمخزون عبر المؤسسة بكاملها تسمح بإدارة الأوامر بطريقة ذكية، بحيث يتم تنفيذها بطريقة دقيقة ومعقولة التكلفة.
+  - content: تحتاج Maria، وهي موظفة في Northwind Traders، إلى تكوين مجموعات لقناة البيع بالتجزئة والقناة عبر الإنترنت. تشترك كلتا القناتين في نفس مجموعات المنتجات. كيف ستفعل ذلك؟
+    choices:
+    - content: استخدم التسلسل الهرمي للمؤسسة.
+      isCorrect: true
+      explanation: عمل رائع! عندما تشترك العديد من القنوات في نفس مجموعات المنتجات، يمكنك تكوين عمليات الفرز باستخدام التسلسل الهرمي لمؤسسة فرز "التجارة".
+    - content: استخدم التسلسلات الهرمية لفئات المنتج.
+      isCorrect: false
+      explanation: حاول مرة أخرى. يمكنك استخدام التسلسلات الهرمية لفئات المنتج لتضمين مجموعات من المنتجات.
+    - content: استخدم الخيار "استبعاد".
+      isCorrect: false
+      explanation: حاول مرة أخرى. يمكنك استخدام خيار "استبعاد" لتحديد منتجات أو فئات معينة يجب استبعادها من عمليات الفرز.
+  - content: أيّ من الإمكانات التالية يسمح لك بإنشاء مستويات لتمثيل مستوى تفاعل العميل وتقديم حوافز أكبر لأولئك الأقرب إلى علامتك التجارية؟
+    choices:
+    - content: برامج الولاء.
+      isCorrect: true
+      explanation: عمل رائع! يمكنك إنشاء برامج للولاء تمثل حوافز مختلفة للولاء.
+    - content: إقامة العلاقات مع العملاء.
+      isCorrect: false
+      explanation: حاول مرة أخرى. يسمح لك Clienteling بتوفير تجربة عميل مخصصة مع خدمة أكثر استهدافًا.
+    - content: Customer insights/AI.
+      isCorrect: false
+      explanation: حاول مرة أخرى. باستخدام Customer insights/AI، يمكن إنشاء تجارب مخصصة للعملاء وتقديم توصيات بشأن المنتجات.

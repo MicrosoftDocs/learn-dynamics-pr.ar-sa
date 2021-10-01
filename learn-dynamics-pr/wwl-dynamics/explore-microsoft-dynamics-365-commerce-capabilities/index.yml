@@ -1,0 +1,58 @@
+### YamlMime:Module
+uid: learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities
+metadata:
+  title: استكشاف إمكانات Microsoft Dynamics 365 Commerce
+  description: استكشاف إمكانات Microsoft Dynamics 365 Commerce
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: 36c7756ff59e1dc31e0800e74b7c0beee1be2a02
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438638"
+title: استكشاف إمكانات Microsoft Dynamics 365 Commerce
+summary: تقدم لك هذه الوحدة إمكانات Microsoft Dynamics 365 Commerce بما في ذلك إدارة القنوات وإدارة الطلبات الموزعة والترويج. ستتعلم أيضًا كيفية استخدام Dynamics 365 Customer Insights وتحليلات البيع بالتجزئة في Commerce.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - وصف مفاهيم قنوات البيع بالتجزئة وإدارة القنوات
+
+  - وصف إدارة الأوامر الموزعة (DOM)
+
+  - وصف مفاهيم الترويج وإقامة العلاقات مع العملاء
+
+  - وصف كيفية استخدام Dynamics 365 Commerce لـ Dynamics 365 Customer Insights
+
+  - وصف طريقة Dynamics 365 Commerce في استخدام تحليلات البيع بالتجزئة لتوفير إدارة بيانات التجزئة المركزية
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/dynamics-commerce-capabilities.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-commerce
+units:
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.introduction
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-retail-channels
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-channel-management-concepts
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.exercise-create-discount-product
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-distributed-order-management
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-product-assortments
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.exercise-create-product-assortment
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-customer-loyalty-concepts
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-how-uses-dynamics-365-customer-insights
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-how-uses-retail-analytics-to-provide-centralized-retail-data-management
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.knowledge-check
+- learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.summary
+badge:
+  uid: learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.badge

@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn.wwl.configure-data-dynamics-365-model-driven-apps
+metadata:
+  title: تكوين البيانات في تطبيقات Dynamics 365 المستندة إلى النموذج
+  description: تكوين البيانات في تطبيقات Dynamics 365 المستندة إلى النموذج
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: e12c06c2aecccc7b553b42a4043ebef8088a3018
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438527"
+title: تكوين البيانات في تطبيقات Dynamics 365 المستندة إلى النموذج
+summary: في هذه الوحدة، سيتعلم الطلاب كيفية تكوين الكيانات والحقول وعرض البيانات في النماذج وأتمتة عمليات الأعمال.
+abstract: >
+  في نهاية هذه الوحدة، ستكون قادراً على:
+
+  - العمل مع كتل الإنشاء لنموذج بيانات تطبيق Dynamics 365 المستند إلى نموذج
+
+  - العمل مع نموذج البيانات العامة
+
+  - إنشاء مؤثرات عرض البيانات لكل متطلب عمل لعميل
+
+  - أتمتة العمليات التجارية
+prerequisites: >
+  يوصى بكل من مسارات التعرف على Dynamics 365 Fundamentals وPower Platform ‏Fundamentals
+iconUrl: /learn/achievements/configure-data-dynamics-365-model-driven-apps.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+products:
+- common-data-service
+- dynamics-365
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-marketing
+- dynamics-sales
+- power-automate
+- power-platform
+units:
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.introduction
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.common-data-model
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.basic-building-blocks-of-common-data-service
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.forms-views-charts
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.automate-business-processes
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.knowledge-check
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.create-new-custom-entity
+- learn.wwl.configure-data-dynamics-365-model-driven-apps.summary
+badge:
+  uid: learn.wwl.configure-data-dynamics-365-model-driven-apps.badge

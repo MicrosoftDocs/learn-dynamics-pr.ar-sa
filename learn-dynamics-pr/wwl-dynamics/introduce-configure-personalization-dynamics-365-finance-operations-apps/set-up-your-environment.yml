@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.set-up-your-environment
+title: إعداد بيئتك
+metadata:
+  title: إعداد بيئتك
+  description: إعداد بيئتك
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 67ccc6297b96ec124f994a61cf328d55770ef0a6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438609"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/2-set-up-your-environment.md)]'

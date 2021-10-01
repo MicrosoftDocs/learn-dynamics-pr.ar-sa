@@ -1,0 +1,88 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-connected-field-service.6-knowledge-check
+metadata:
+  title: الشروع في العمل باستخدام Connected Field Service
+  description: سوف يقيس هذا الاختبار معرفتك بـ Connected Field Service.
+  ms.date: 02/01/2019
+  author: dyack
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c7e38dab81289cfcd3a2f25a88be4eb73142b116
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434125"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: اختبار Connected Field Service
+  questions:
+  - content: أين يُمكنك العثور على وظيفة Connected Field Service الإضافية لتثبيتها؟
+    choices:
+    - content: Azure Marketplace
+      explanation: لقد تم تثبيته مع Dynamics 365 for Field Service..
+      isCorrect: false
+    - content: Microsoft AppSource
+      explanation: لقد تم تثبيته مع Dynamics 365 for Field Service.
+      isCorrect: false
+    - content: لقد تم تثبيته سابقًا في جميع البيئات.
+      explanation: لقد تم تثبيته مع Dynamics 365 for Field Service.
+      isCorrect: false
+    - content: لقد تم تثبيته مع Dynamics 365 for Field Service.
+      explanation: لقد تم تثبيته مع Dynamics 365 for Field Service.
+      isCorrect: true
+    - content: لا توجد تثبيتات مطلوبة.
+      explanation: لقد تم تثبيته مع Dynamics 365 for Field Service.
+      isCorrect: false
+  - content: عند مواجهة استثناء في بيانات تتبع الاستخدام، ما الذي يتم إنشاؤه في Connected Field Service في Dynamics 365؟
+    choices:
+    - content: أمر العمل
+      explanation: تُنشأ تنبيهات Iot في قالب Connected Field Service.
+      isCorrect: false
+    - content: الحالة
+      explanation: تُنشأ تنبيهات Iot في قالب Connected Field Service.
+      isCorrect: false
+    - content: ملاحظة على أصل العميل
+      explanation: تُنشأ تنبيهات Iot في قالب Connected Field Service.
+      isCorrect: false
+    - content: تنبيه IoT
+      explanation: تُنشأ تنبيهات Iot في قالب Connected Field Service.
+      isCorrect: true
+    - content: أصل العميل‬
+      explanation: تُنشأ تنبيهات Iot في قالب Connected Field Service.
+      isCorrect: false
+  - content: ما السيناريو الافتراضي الذي يركز على تثبيت قالب Connected Field Service معه؟
+    choices:
+    - content: الاهتزاز
+      explanation: درجة الحرارة هي سيناريو Connected Field Service الافتراضي.
+      isCorrect: false
+    - content: الشم
+      explanation: درجة الحرارة هي سيناريو Connected Field Service الافتراضي.
+      isCorrect: false
+    - content: الحركة
+      explanation: درجة الحرارة هي سيناريو Connected Field Service الافتراضي.
+      isCorrect: false
+    - content: الرطوبة
+      explanation: درجة الحرارة هي سيناريو Connected Field Service الافتراضي.
+      isCorrect: false
+    - content: درجة الحرارة
+      explanation: درجة الحرارة هي سيناريو Connected Field Service الافتراضي.
+      isCorrect: true
+  - content: ما مكون Azure المستخدم في قالب Connected Field Service له منطق تحديد ما إذا كان الاستثناء قد حدث في بيانات تتبع الاستخدام؟
+    choices:
+    - content: Logic App
+      explanation: تتميز Stream analytics بمنطق تحديد ما إذا كان قد حدث استثناء في بيانات تتبع الاستخدام أم لا.
+      isCorrect: false
+    - content: Azure IoT Hub
+      explanation: تتميز Stream analytics بمنطق تحديد ما إذا كان قد حدث استثناء في بيانات تتبع الاستخدام أم لا.
+      isCorrect: false
+    - content: Stream Analytics
+      explanation: تتميز Stream analytics بمنطق تحديد ما إذا كان قد حدث استثناء في بيانات تتبع الاستخدام أم لا.
+      isCorrect: true
+    - content: ناقل الخدمة
+      explanation: تتميز Stream analytics بمنطق تحديد ما إذا كان قد حدث استثناء في بيانات تتبع الاستخدام أم لا.
+      isCorrect: false
+    - content: تُحدَّد باستخدام Dynamics 365 وليس في مكونات Azure التي تم تكوينها.
+      explanation: تتميز Stream analytics بمنطق تحديد ما إذا كان قد حدث استثناء في بيانات تتبع الاستخدام أم لا.
+      isCorrect: false

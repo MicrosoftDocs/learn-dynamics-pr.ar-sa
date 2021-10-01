@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-supply-chain
+  ms.openlocfilehash: cdf0bd3895b5501891b32596a6a09face3f8a39b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438567"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/11-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: ما الذي يجب إنشاؤه لحساب عنصر معين في موقع في المستودع؟
+    choices:
+    - content: دفتر جرد المخزون
+      isCorrect: true
+      explanation: صحيح. يجب إنشاء دفتر يومية جرد المخزون لحساب عنصر معين في موقع في المستودع.
+    - content: أمر الشراء
+      isCorrect: false
+      explanation: غير صحيح. يجب إنشاء دفتر يومية جرد المخزون لحساب عنصر معين في موقع في المستودع.
+    - content: كود السبب الإلزامي
+      isCorrect: false
+      explanation: غير صحيح. يجب إنشاء دفتر يومية جرد المخزون لحساب عنصر معين في موقع في المستودع.
+  - content: يقوم Contoso بتخزين المنتجات الخطرة ويحتاج إلى تخزينها في خزانات فولاذية للسلامة. ما الميزة التي قد نستخدمها لاستيعاب حاجة التخزين هذه؟
+    choices:
+    - content: استخدم ملفات تعريف الموقع لطلب لوحات الترخيص.
+      isCorrect: false
+      explanation: غير صحيح. عند تحديد المناطق، من المهم أيضًا مراعاة كيفية استخدام المناطق المختلفة في المستودع لعمليات مختلفة، أو لها خصائص فيزيائية مختلفة. في هذه الحالة، يجب على Contoso استخدام المناطق لضمان تخزين المنتجات الخطرة في الخزانات الفولاذية في المستودع.
+    - content: استخدم حالة الموقع لتتبع الخزانات.
+      isCorrect: false
+      explanation: غير صحيح. عند تحديد المناطق، من المهم أيضًا مراعاة كيفية استخدام المناطق المختلفة في المستودع لعمليات مختلفة، أو لها خصائص فيزيائية مختلفة. في هذه الحالة، يجب على Contoso استخدام المناطق لضمان تخزين المنتجات الخطرة في الخزانات الفولاذية في المستودع.
+    - content: استفد من المناطق والحد من المنتجات التي يمكن تخزينها هناك.
+      isCorrect: true
+      explanation: صحيح. عند تحديد المناطق، من المهم أيضًا مراعاة كيفية استخدام المناطق المختلفة في المستودع لعمليات مختلفة، أو لها خصائص فيزيائية مختلفة. في هذه الحالة، يجب على Contoso استخدام المناطق لضمان تخزين المنتجات الخطرة في الخزانات الفولاذية في المستودع.
+  - content: ما الذي يصف طريقة تسجيل استلام الأصناف من أوامر الشراء؟
+    choices:
+    - content: توزيع البضائع
+      isCorrect: false
+      explanation: غير صحيح. دفاتر يومية الوصول هي طريقة لتسجيل استلام الأصناف من أوامر الشراء.
+    - content: دفتر جرد المخزون
+      isCorrect: false
+      explanation: غير صحيح. دفاتر يومية الوصول هي طريقة لتسجيل استلام الأصناف من أوامر الشراء.
+    - content: دفاتر يومية الوصول
+      isCorrect: true
+      explanation: صحيح. دفاتر يومية الوصول هي طريقة لتسجيل استلام الأصناف من أوامر الشراء.

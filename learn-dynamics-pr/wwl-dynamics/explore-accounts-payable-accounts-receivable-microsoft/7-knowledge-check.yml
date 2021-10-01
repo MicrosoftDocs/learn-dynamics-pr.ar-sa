@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 6786a6b165dae481c41dc5df7c2ee8b803c3ed71
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438633"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: في Contoso، تزداد الاختلافات بين إيصالات الاستلام والفواتير. ما الذي يجب على وحدة التحكم إعداده لتقليل هذه الاختلافات؟
+    choices:
+    - content: نُهُج الشراء
+      isCorrect: false
+      explanation: حاول مرة أخرى! فكر في المكونات التي يجب أن تتطابق مع مستويات التفاوت المتفق عليها لضمان الدفع المناسب وفي الوقت المناسب.
+    - content: سياسات التطابق ثلاثية الاتجاه
+      isCorrect: true
+      explanation: عمل جيد! يشير "التطابق ثلاثي الاتجاه" إلى المكونات الثلاثة (أمر الشراء، واستلام البضائع، وفاتورة المورد) التي يجب أن تتطابق ضمن مستويات التفاوت المتفق عليها لضمان الدفع المناسب وفي الوقت المناسب.
+    - content: سياسات فاتورة المورد
+      isCorrect: false
+      explanation: حاول مرة أخرى. فكر في المكونات التي يجب أن تتطابق مع مستويات التفاوت المتفق عليها لضمان الدفع المناسب وفي الوقت المناسب.
+  - content: تحتاج Sarah، مشرفة المحاسبة، إلى دفع فاتورة مقابل رسوم متنوعة من المقاول. ما الحركة التي يجب استخدامها؟
+    choices:
+    - content: فاتورة ذات نص حر
+      isCorrect: true
+      explanation: عمل جيد! لا تتعلق فاتورة النص الحر بأمر مبيعات، لذلك يمكن لـ Sarah استخدامها لدفع مقابل الرسوم المتنوعة.
+    - content: الفاتورة المتكررة
+      isCorrect: false
+      explanation: حاول مرة أخرى. تحتاج Sarah إلى استخدام نوع من أنواع الفواتير لا يتعلق بأمر مبيعات لدفع مقابل الرسوم المتنوعة.
+    - content: فاتورة المبيعات
+      isCorrect: false
+      explanation: حاول مرة أخرى. تحتاج Sarah إلى استخدام نوع من أنواع الفواتير لا يتعلق بأمر مبيعات لدفع مقابل الرسوم المتنوعة.
+  - content: ما الصفحة التي يجب على William، مدير التحصيلات‬ في Contoso، زيارتها للحصول على عرض مركزي تتم منه إدارة معلومات تحصيل الحسابات المدينة؟
+    choices:
+    - content: صفحة التحصيلات
+      isCorrect: true
+      explanation: عمل جيد! يمكن لمديري المجموعات استخدام هذا العرض المركزي لإدارة المجموعات
+    - content: صفحة العميل
+      isCorrect: false
+      explanation: حاول مرة أخرى. لا يمكنك إدارة معلومات تحصيلات الحسابات المدينة من صفحة العميل.
+    - content: صفحه المورد
+      isCorrect: false
+      explanation: حاول مرة أخرى. لا يمكنك إدارة معلومات تحصيلات الحسابات المدينة من صفحة المورد.

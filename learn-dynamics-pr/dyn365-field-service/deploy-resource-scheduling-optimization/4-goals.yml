@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-resource-scheduling-optimization.4-goals
+title: تحديد أهداف التحسين
+metadata:
+  title: تحديد أهداف التحسين
+  description: تعرّف على كيفية تحديد أهداف التحسين.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 11e4bddb725c1cfb78efffd292ac29ccb4182438
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434053"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-goals.md)]"

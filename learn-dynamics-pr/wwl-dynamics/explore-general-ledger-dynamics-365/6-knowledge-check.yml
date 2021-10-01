@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-general-ledger-dynamics-365.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 8dede0b1d624bac78cbb84ec30365b80628a3341
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438619"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: حدد العبارات التي تقدم أفضل وصف للأبعاد المالية.
+    choices:
+    - content: تجعل الأبعاد المالية تعديل دليل الحسابات صعبًا.
+      isCorrect: false
+      explanation: حاول مرة أخرى. تجعل الأبعاد المالية تعديل شهادة الأصالة سهلاً.
+    - content: الأبعاد المالية هي الكتل الإنشائية لبنية الحساب ولكنها ثابتة بطبيعتها ولا يمكن تعديلها بمجرد إنشائها.
+      isCorrect: false
+      explanation: حوار غير صحيح. يمكن تعديل الأبعاد المالية في أي وقت ولكن يجب إعادة تنشيطها.
+    - content: تتناول الأبعاد المالية الأجزاء الموجودة في هيكل المحاسبة الخاص بك وهي بالغة الأهمية لأغراض إعداد التقارير.
+      isCorrect: true
+      explanation: عمل جيد! تصف هذه العبارة الأبعاد المالية بأفضل شكل.
+  - content: تعمل سارة مشرفة على المحاسبة في Contoso وهي مسؤولة عن إجراء إقفال نهاية الشهر. ما مساحة العمل التي يتعين عليها استخدامها لمراجعة كل مهمة ثم إقفالها بسهولة؟
+    choices:
+    - content: مساحة عمل المهام المالية
+      isCorrect: false
+      explanation: حاول مرة أخرى. تحتاج سارة إلى استخدام مساحة عمل مختلفة.
+    - content: مساحة عمل إقفال نهاية الشهر
+      isCorrect: false
+      explanation: حاول مرة أخرى. تحتاج سارة إلى استخدام مساحة عمل مختلفة.
+    - content: مساحة عمل إغلاق الفترة المالية
+      isCorrect: true
+      explanation: عمل جيد. تُظهر مساحة عمل ‏‫إقفال الفترة المالية‬ المهام التي تجاوزت تاريخ الاستحقاق، والمهام المتبقية لليوم، والمهام المستحقة اليوم ولكنها محظورة بسبب التبعيات وكل المهام المتبقية للعملية.
+  - content: لماذا تكون حركات الاستبعاد مهمة عند التوحيد بين الشركات الشقيقة؟
+    choices:
+    - content: عمليات الاستبعاد بين الشركات الشقيقة تزيل الأرباح/الخسائر التي تنشأ من الحركات بين الشركات الشقيقة.
+      isCorrect: true
+      explanation: عمل جيد! وبسبب هذا المتطلب، تجب إزالة الحركات بين الشركة الأم والشركات التابعة لها أو استبعادها.
+    - content: تتطلب عملية التوحيد تجميع الحركات من عدة حسابات للشركة في مجموعة واحدة من حسابات الشركة.
+      isCorrect: false
+      explanation: حاول مرة أخرى. يرتبط هذا المتطلب بأنواع الحركات.
+    - content: لا يمكن إجراء تكوين وحدة دفتر الأستاذ العام قبل حركات الاستبعاد.
+      isCorrect: false
+      explanation: حاول مرة أخرى. يرتبط هذا المتطلب بأنواع الحركات.

@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-bizapps.register-and-manage-customer-devices-with-connected-field-service
+metadata:
+  title: تسجيل وإدارة الأجهزة باستخدام Connected Field Service لـ Dynamics 365 وAzure IoT
+  description: تسجيل أجهزة العملاء وإدارتها باستخدام Connected Field Service.
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8937d55ee9f4dd9e4658ee72efd025075a3c6ff1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434064"
+title: تسجيل وإدارة الأجهزة باستخدام Connected Field Service لـ Dynamics 365 وAzure IoT
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  ستركز هذه الوحدة النمطية على تسجيل أجهزة IoT ومراقبتها باستخدام حل Connected Field Service بما في ذلك تسجيل الجهاز (المادي وغير المادي)، والعمل مع الأجهزة المتماثلة، وتبسيط إدارة الجهاز والتفاعلات.
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - التفريق بين أجهزة IoT (المادية وغير المادية)
+
+  - تسجيل وتصنيف أجهزة IoT في Connected Field Service
+
+  - استخدام تعريفات الأوامر والخصائص لتبسيط إدارة الجهاز
+
+  - استخدام الأوامر للتفاعل مع أجهزة IoT
+prerequisites: "- تم توزيع مثيل Microsoft Dynamics 365مع Microsoft Dynamics 365 Field Service\n- تم توزيع Connected Field Service\n- تم إعداد Azure IoT Hub وتوزيعه لإكمال التدريبات المعملية. \n"
+iconUrl: /learn/achievements/register-and-manage-customer-devices-with-connected-field-service.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+- azure
+- azure-iot-central
+units:
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.1-register-and-manage-customer-devices-with-connected-field-service-overview
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.2-device-registration-and-digital-twins
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.3-register-iot-devices
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.4-working-with-command-definitions
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.5-working-with-device-properties-and-definitions
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.6-populating-and-sending-commands
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.7-knowledge-check
+- learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.8-summary-and-cleanup
+badge:
+  uid: learn.register-and-manage-customer-devices-with-connected-field-service.badge

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration.3-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: cf5b9f7cd6c3311d54ad95f33bd5d91e35b8b8f0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431812"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: في أي مرحلة من مراحل المشروع يجب جدولة ورشة عمل التكامل؟
+    choices:
+    - content: الشروع في العمل
+      isCorrect: false
+      explanation: يجب جدولة ورشة عمل التكامل واستكمالها خلال مرحلة تنفيذ المشروع.
+    - content: التنفيذ
+      isCorrect: true
+      explanation: يجب جدولة ورشة عمل التكامل واستكمالها خلال مرحلة تنفيذ المشروع.
+    - content: التحضير
+      isCorrect: false
+      explanation: يجب جدولة ورشة عمل التكامل واستكمالها خلال مرحلة تنفيذ المشروع.
+    - content: التشغيل
+      isCorrect: false
+      explanation: يجب جدولة ورشة عمل التكامل واستكمالها خلال مرحلة تنفيذ المشروع.
+  - content: أي من الخيارات التالية ليس نوعاً من التكامل يمكنك استخدامه في المشاريع؟
+    choices:
+    - content: عملية التكامل
+      isCorrect: false
+      explanation: تشمل الأنواع المختلفة من عمليات التكامل التي يمكنك استخدامها في المشاريع تكامل العمليات وتكامل واجهة المستخدم وتكامل البيانات.
+    - content: تكامل واجهة المستخدم
+      isCorrect: false
+      explanation: تشمل الأنواع المختلفة من عمليات التكامل التي يمكنك استخدامها في المشاريع تكامل العمليات وتكامل واجهة المستخدم وتكامل البيانات.
+    - content: تكامل النموذج
+      isCorrect: true
+      explanation: تكامل النموذج ليس نوع تكامل. تشمل الأنواع المختلفة من عمليات التكامل التي يمكنك استخدامها في المشاريع تكامل العمليات وتكامل واجهة المستخدم وتكامل البيانات.
+    - content: تكامل البيانات
+      isCorrect: false
+      explanation: تشمل الأنواع المختلفة من عمليات التكامل التي يمكنك استخدامها في المشاريع تكامل العمليات وتكامل واجهة المستخدم وتكامل البيانات.

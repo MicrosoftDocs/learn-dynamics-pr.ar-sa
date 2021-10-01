@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.register-and-manage-customer-devices-with-connected-field-service.1-register-and-manage-customer-devices-with-connected-field-service-overview
+title: تسجيل أجهزة العملاء وإدارتها باستخدام Connected Field Service
+metadata:
+  title: تسجيل أجهزة العملاء وإدارتها باستخدام Connected Field Service
+  description: تسجيل أجهزة العملاء وإدارتها باستخدام Connected Field Service
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 95684326fa2f9af84764112084a2042224d89c10
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434112"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-register-and-manage-customer-devices-with-connected-field-service-overview.md)]

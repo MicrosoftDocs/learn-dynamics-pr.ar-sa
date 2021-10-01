@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security.explore-settings-customizations
+title: استكشاف الإعدادات والتخصيصات
+metadata:
+  title: استكشاف الإعدادات والتخصيصات
+  description: استكشاف الإعدادات والتخصيصات
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 39f56b5c66d165d30f82f5b4c38c58eedd657a02
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438671"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/4-explore-settings-customizations.md)]'

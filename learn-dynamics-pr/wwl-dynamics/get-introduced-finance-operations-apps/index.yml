@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn.wwl.get-introduced-finance-operations-apps
+metadata:
+  title: تعرف على تطبيقات المالية والعمليات
+  description: تعرف على تطبيقات المالية والعمليات
+  ms.date: 07/16/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: c2546714914b2329024c95e57629e27095170798
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438733"
+title: تعرف على تطبيقات المالية والعمليات
+summary: تناقش هذه الوحدة الإمكانات العامة التي تشاركها تطبيقات Microsoft Dynamics365 finance and operations، بما في ذلك إعداد التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى، مثل Microsoft Excel، وPower BI، وWord وTeams.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - وصف إمكانات إعداد التقارير المضمنة.
+
+  - وصف خيارات تصدير البيانات إلى منتجات Microsoft الأخرى.
+
+  - وصف خيارات تحليل البيانات.
+
+  - وصف حالات الاستخدام وإمكانات التكامل مع منتجات Microsoft الأخرى.
+
+  - صف خيارات إدارة المستندات.
+prerequisites: ''
+iconUrl: /learn/achievements/dynamics-get-started-finance-operations.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-finance-operations
+units:
+- learn.wwl.get-introduced-finance-operations-apps.introduction
+- learn.wwl.get-introduced-finance-operations-apps.discover-enterprise-resource-planning-erp
+- learn.wwl.get-introduced-finance-operations-apps.review-dynamics-365-use-cases
+- learn.wwl.get-introduced-finance-operations-apps.create-use-reports
+- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-exporting-excel
+- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-analyzing-data-with-power-bi
+- learn.wwl.get-introduced-finance-operations-apps.explore-microsoft-teams-integration-capabilities
+- learn.wwl.get-introduced-finance-operations-apps.integrate-dynamics-365-with-microsoft-word-excel
+- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-managing-documents-by-using-sharepoint-online
+- learn.wwl.get-introduced-finance-operations-apps.explore-email-integration-capabilities
+- learn.wwl.get-introduced-finance-operations-apps.exercise-navigate-dynamics-365
+- learn.wwl.get-introduced-finance-operations-apps.exercise-explore-workspace-filtering
+- learn.wwl.get-introduced-finance-operations-apps.knowledge-check
+- learn.wwl.get-introduced-finance-operations-apps.summary
+badge:
+  uid: learn.wwl.get-introduced-finance-operations-apps.badge

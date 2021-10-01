@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-forms-pages-subscriptions.4-capture
+title: تضمين نماذج في مواقع ويب خارجية
+metadata:
+  title: تضمين نماذج في مواقع ويب خارجية
+  description: تعرّف على كيفية تضمين النماذج في مواقع ويب خارجية والتقاط النموذج.
+  ms.date: 08/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8a8b3d1033e0bfaa0039e3333ed76ab1c1051e0d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435517"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-capture.md)]"

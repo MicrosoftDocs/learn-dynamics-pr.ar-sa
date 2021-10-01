@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.ingest-data-customer-insights
+metadata:
+  title: استيعاب البيانات في Customer Insights
+  description: اعرف كيفية استيعاب البيانات في Customer Insights
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d46c5046528f67b45400771d3480a4e96d6f5f53
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7440101"
+title: استيعاب البيانات في Customer Insights
+summary: "[!include[](../includes/module-banner.md)] \nCustomer Insights يستوعب البيانات من جميع مصادر البيانات المختلفة ويوحدها في ملف تعريف عميل واحد.  ومن ضمن ملف تعريف العميل، يمكنك تعقب البيانات عبر مختلف المجموعات السكانية وتحديد الاتجاهات بالاستناد إلى البيانات التي تريد تعقبها.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استيعاب البيانات باستخدام Power Query.\n- الاتصال بنموذج البيانات العامة.\n- الاتصال بـ Microsoft Dataverse.\n- التعامل مع مجموعات البيانات.\n- التعرُّف على عمليات تحديث البيانات.\n- تصدير البيانات.\n"
+prerequisites: >
+  - الإلمام بتطبيقات Microsoft Dataverse.
+
+  - تجربة Power Query.
+
+  - معرفة مجموعات البيانات.
+iconUrl: /learn/achievements/ingest-data-customer-insights.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+- administrator
+products:
+- dynamics-365
+- dynamics-cust-insights
+units:
+- learn-dynamics.ingest-data-customer-insights.1-introduction
+- learn-dynamics.ingest-data-customer-insights.2-power-query
+- learn-dynamics.ingest-data-customer-insights.3-common-data-model
+- learn-dynamics.ingest-data-customer-insights.4-dataverse
+- learn-dynamics.ingest-data-customer-insights.5-work-with-data
+- learn-dynamics.ingest-data-customer-insights.6-refresh
+- learn-dynamics.ingest-data-customer-insights.7-export
+- learn-dynamics.ingest-data-customer-insights.8-check
+- learn-dynamics.ingest-data-customer-insights.9-summary
+badge:
+  uid: learn-dynamics.ingest-data-customer-insights.badge

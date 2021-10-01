@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: d2ef7b58493b59060c51c5f79d5b4cb1164afb63
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438628"
+azureSandbox: false
+durationInMinutes: 1
+content: '[!include[](includes/6-summary.md)]'

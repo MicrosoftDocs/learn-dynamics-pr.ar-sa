@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.advanced-event-management-marketing.1-intro-waitlist
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: نظرة عامة على ميزات Dynamics 365 Marketing المتقدمة.
+  ms.date: 04/26/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b365caa4d999d9e97c8279d1e0a0c1145f736fcb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435531"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-intro-waitlist.md)]"

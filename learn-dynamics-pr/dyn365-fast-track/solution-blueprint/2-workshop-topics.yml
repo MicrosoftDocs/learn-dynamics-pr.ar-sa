@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-blueprint.2-workshop-topics
+title: نظرة عامة على ورشة عمل مراجعة مخطط الحل
+metadata:
+  title: نظرة عامة على ورشة عمل مراجعة مخطط الحل
+  description: تقديم لمحة عامة عن ورشة عمل مراجعة مخطط الحل.
+  ms.date: 07/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 48026ff82f1e4c4103eb1f2a73a214ce9b28f751
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431819"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-workshop-topics.md)]"

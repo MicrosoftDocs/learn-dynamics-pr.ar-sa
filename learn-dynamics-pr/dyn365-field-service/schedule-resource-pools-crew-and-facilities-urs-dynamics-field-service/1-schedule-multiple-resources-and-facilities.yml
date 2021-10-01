@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.1-schedule-multiple-resources-and-facilities
+title: جدولة العديد من الموارد والمرافق
+metadata:
+  title: جدولة العديد من الموارد والمرافق
+  description: جدولة العديد من الموارد والمرافق
+  ms.date: 02/01/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: dd08dc5c19ed3bf0e94dd3b8ba301e662f2996ea
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434063"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-schedule-multiple-resources-and-facilities.md)]

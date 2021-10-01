@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-blueprint.2-2-prepare
+title: الاستعداد لمراجعة مخطط الحل
+metadata:
+  title: الاستعداد لمراجعة مخطط الحل
+  description: استعد لورشة عمل مراجعة مخطط الحلول.
+  ms.date: 07/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: e9197ae0c178d927853eed3a60db8beb7e3e37abfa2d1399b7c9a6b5cfdccbfa
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431730"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-2-prepare.md)]"

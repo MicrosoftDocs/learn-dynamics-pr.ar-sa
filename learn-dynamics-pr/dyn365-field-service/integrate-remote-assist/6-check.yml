@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-remote-assist.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 06/30/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: bce7f623805039ea67e3d4ae9f1906ace490dc92
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434147"
+durationInMinutes: 2
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: لقد أجريت مؤخرًا تكوين مورد جديد لاستخدام Field Service Mobile مع Remote Assist. عند العمل في الحقل، ينوه المورد إلى عدم السماح لهم بتسجيل الدخول إلى تطبيق Field Service Mobile. ولا يواجه المستخدمون الآخرون المشكلة ذاتها. ما السبب في ذلك؟
+    choices:
+    - content: لم يتم تمكين Field Service Mobile في سجل المستخدم.
+      isCorrect: false
+      explanation: عند تكوين فني لاستخدام Field Service، إضافة إلى ترخيص Field Service صالح، فإنه يحتاج إلى سجل مورد قابل للحجز. يحتوي سجل المورد القابل للحجز على إعداد لتمكين Field Service Mobile. عند عدم تحديد هذا الإعداد، لن يتمكن الفني من الوصول إلى التطبيق.
+    - content: لم يتم تمكين Field Service Mobile في سجل المورد القابل للحجز.
+      isCorrect: true
+      explanation: عند تكوين فني لاستخدام Field Service، إضافة إلى ترخيص Field Service صالح، فإنه يحتاج إلى سجل مورد قابل للحجز. يحتوي سجل المورد القابل للحجز على إعداد لتمكين Field Service Mobile. عند عدم تحديد هذا الإعداد، لن يتمكن الفني من الوصول إلى التطبيق.
+    - content: لم يتم تمكين Remote Assist في سجل المورد القابل للحجز.
+      isCorrect: false
+      explanation: عند تكوين فني لاستخدام Field Service، إضافة إلى ترخيص Field Service صالح، فإنه يحتاج إلى سجل مورد قابل للحجز. يحتوي سجل المورد القابل للحجز على إعداد لتمكين Field Service Mobile. عند عدم تحديد هذا الإعداد، لن يتمكن الفني من الوصول إلى التطبيق.
+    - content: لم يتم تمكين Remote Assist في سجل المستخدم.
+      isCorrect: false
+      explanation: عند تكوين فني لاستخدام Field Service، إضافة إلى ترخيص Field Service صالح، فإنه يحتاج إلى سجل مورد قابل للحجز. يحتوي سجل المورد القابل للحجز على إعداد لتمكين Field Service Mobile. عند عدم تحديد هذا الإعداد، لن يتمكن الفني من الوصول إلى التطبيق.
+  - content: أين تحدد جهة اتصال Remote Assist المفضلة في أمر عمل Dynamics 365 Field Service؟
+    choices:
+    - content: نوع الحادث‬
+      isCorrect: false
+      explanation: تحدد جهة اتصال الدعم المُقدمة في أمر العمل جهة اتصال الدعم المفضلة أو السجل. عند التشغيل من رابط داخلي في تطبيق Field Service Mobile، سيفتح Remote Assist تلقائياً مع جهة اتصال الدعم المحددة.
+    - content: المُعلن هو جهة الاتصال
+      isCorrect: false
+      explanation: تحدد جهة اتصال الدعم المُقدمة في أمر العمل جهة اتصال الدعم المفضلة أو السجل. عند التشغيل من رابط داخلي في تطبيق Field Service Mobile، سيفتح Remote Assist تلقائياً مع جهة اتصال الدعم المحددة.
+    - content: جهة اتصال الدعم
+      isCorrect: true
+      explanation: تحدد جهة اتصال الدعم المُقدمة في أمر العمل جهة اتصال الدعم المفضلة أو السجل. عند التشغيل من رابط داخلي في تطبيق Field Service Mobile، سيفتح Remote Assist تلقائياً مع جهة اتصال الدعم المحددة.
+    - content: الإرشادات
+      isCorrect: false
+      explanation: تحدد جهة اتصال الدعم المُقدمة في أمر العمل جهة اتصال الدعم المفضلة أو السجل. عند التشغيل من رابط داخلي في تطبيق Field Service Mobile، سيفتح Remote Assist تلقائياً مع جهة اتصال الدعم المحددة.

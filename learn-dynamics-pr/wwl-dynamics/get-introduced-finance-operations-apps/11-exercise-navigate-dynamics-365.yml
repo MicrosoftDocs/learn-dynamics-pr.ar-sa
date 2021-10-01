@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-finance-operations-apps.exercise-navigate-dynamics-365
+title: 'معمل: انتقل إلى تطبيقات finance and operations'
+metadata:
+  title: 'معمل: انتقل إلى تطبيقات finance and operations'
+  description: 'معمل: انتقل إلى تطبيقات finance and operations'
+  ms.date: 07/16/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 3dd19e7b315616a04b7a33a06b9020900d93d4d1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438769"
+azureSandbox: false
+labId: 88374
+labModal: true
+durationInMinutes: 10
+content: '[!include[](includes/11-exercise-navigate-dynamics-365.md)]'

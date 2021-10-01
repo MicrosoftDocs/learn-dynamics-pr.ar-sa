@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-field-service-mobile.4-barcode
+title: ‏‫مسح الرمز الشريطي‬ والبحث الشامل
+metadata:
+  title: ‏‫مسح الرمز الشريطي‬ والبحث الشامل
+  description: تعرّف على كيفية تمكين البحث وتكوينه، ثم تعرّف على كيفية إضافة ماسح ‏‫الرمز الشريطي‬ إلى النماذج واستخدامه في تطبيق الأجهزة المحمولة.
+  ms.date: 07/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: fe8ec2621e16bb062fc570a47f688776150933a352d29d8d8f19a849bc59bc4c
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7433945"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-barcode.md)]"

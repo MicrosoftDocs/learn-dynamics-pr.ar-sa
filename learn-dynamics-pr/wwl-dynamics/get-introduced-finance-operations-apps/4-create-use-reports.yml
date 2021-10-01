@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-finance-operations-apps.create-use-reports
+title: إنشاء التقارير واستخدامها، بما في ذلك مساحات العمل
+metadata:
+  title: إنشاء التقارير واستخدامها، بما في ذلك مساحات العمل
+  description: إنشاء التقارير واستخدامها، بما في ذلك مساحات العمل
+  ms.date: 07/16/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: ece1219c887a51e4eb661e3ea5cdf051a257de24
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438764"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/4-create-use-reports.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.gap-solution-design-dynamics-365.5-follow-up
+title: متابعة تصميم حلول الثغرات
+metadata:
+  title: متابعة تصميم حلول الثغرات
+  description: تعرف على خطوات المتابعة لورشة عمل تصميم حلول الثغرات.
+  ms.date: 07/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: e3a9b203e7b3b9554d2d82108bbd3c8d59a9a2c9308009afc75c3a1f97c793a1
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431757"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-follow-up.md)]"

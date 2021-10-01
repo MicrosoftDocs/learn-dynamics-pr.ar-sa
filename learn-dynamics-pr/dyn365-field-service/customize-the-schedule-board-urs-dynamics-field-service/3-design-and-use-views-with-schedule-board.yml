@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.urs-customize-the-schedule-board.3-design-and-use-views-with-schedule-board
+title: تصميم طرق العرض واستخدامها باستخدام لوحة الجدولة
+metadata:
+  title: تصميم طرق العرض واستخدامها باستخدام لوحة الجدولة
+  description: تصميم طرق العرض واستخدامها باستخدام لوحة الجدولة
+  ms.date: 02/01/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 42182a26150907fa0a5492189e0102e09b615ac4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434219"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-design-and-use-views-with-schedule-board.md)]

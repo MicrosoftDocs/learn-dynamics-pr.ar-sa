@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configuring-sales-insights.5-connection-insights
+title: تكوين معلومات الاتصال
+metadata:
+  title: تكوين معلومات الاتصال
+  description: تعرف على كيفية تكوين معلومات الاتصال
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ea748063b76e835c93d0ca807d21361ca10bf2a5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436195"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-connection-insights.md)]"

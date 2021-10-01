@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.data-models
+metadata:
+  title: تصميم نماذج البيانات لحلول Dynamics 365
+  description: تعتبر ورشة عمل نموذج البيانات جزءاً من Success by Design. ستوفر هذه الوحدة وصفاً أساسياً لتصميم البيانات لـ Microsoft Dynamics ‏365 ومعرفة دقيقة في كيفية تنفيذ ورشة عمل نموذج البيانات.
+  ms.date: 07/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: db12bf0fbc10e43adb14c4f6361dc773fc4cd060
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431875"
+title: تصميم نماذج البيانات لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتعتبر ورشة عمل نموذج البيانات جزءاً من Success by Design. ستوفر هذه الوحدة وصفاً أساسياً لتصميم البيانات لـ Microsoft Dynamics ‏365 ومعرفة دقيقة في كيفية تنفيذ ورشة عمل نموذج البيانات.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على نمذجة البيانات في Dynamics 365.\n- مراجعة أفضل ممارسات نمذجة البيانات ومعرفة كيفية ارتباطها بمشروع Dynamics 365.\n"
+prerequisites: >
+  - المعرفة السابقة حول استخدام Success by Design.
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة.
+
+  - تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)
+iconUrl: /learn/achievements/data-models.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.data-models.1-introduction
+- learn-dynamics.data-models.2-workshops
+- learn-dynamics.data-models.2-1-out-of-box-custom-tables
+- learn-dynamics.data-models.2-2-table-configuration
+- learn-dynamics.data-models.3-check
+- learn-dynamics.data-models.4-summary
+badge:
+  uid: learn-dynamics.data-models.badge

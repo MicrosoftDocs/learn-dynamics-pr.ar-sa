@@ -1,0 +1,55 @@
+### YamlMime:Module
+uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management
+metadata:
+  title: التعرف على الإمكانات العامة لـ Microsoft Dynamics 365 Supply Chain Management
+  description: التعرف على الإمكانات العامة لـ Microsoft Dynamics 365 Supply Chain Management
+  ms.date: 08/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: b3ad8966811c8dd49bbff86a59975c565b1280ea
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7438826"
+title: التعرف على الإمكانات العامة لـ Microsoft Dynamics 365 Supply Chain Management
+summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain Management لدعم التصنيع المنفصل ومحدود الفاقد والتحويلي، وإدارة الأجزاء والتجميعات المطلوبة لإنشاء منتج كامل وقابل للشحن.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - وصف أنواع التصنيع بما في ذلك التصنيع المنفصل، ومحدود الفاقد، والتحويلي‬.
+
+  - وصف عناصر التحكم في الإنتاج بما في ذلك قوائم مكونات الصنف (BOM)، والصيغ، ووظائف كانبان، والموارد، والتوجيه.
+
+  - وصف السجلات الرئيسية للمنتج ومتغيرات المنتج
+
+  -  وصف التخطيط الرئيسي.
+
+  - وصف اتفاقيات التجارة والخصومات.
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/identify-general-capabilities-dynamics-365-supply-chain-management.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-scm
+units:
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.introduction
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.differentiate-manufacturing-types
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.explore-production-control-elements
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.explore-product-master-records-product-variants
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.exercise-create-product-offering-with-various-sizes-colors
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.explore-master-planning
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.explore-trade-agreements-discounts
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.knowledge-check
+- learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.summary
+badge:
+  uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.badge

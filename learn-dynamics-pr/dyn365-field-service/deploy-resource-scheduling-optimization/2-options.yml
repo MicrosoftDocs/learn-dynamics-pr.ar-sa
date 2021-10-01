@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.deploy-resource-scheduling-optimization.2-options
+title: خيارات الإعداد والنشر
+metadata:
+  title: خيارات الإعداد والنشر
+  description: تعرّف على خيارات الإعداد والنشر.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 839e7c9c1a67a7a6c84e1b1642d7f6901d687e6a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434102"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-options.md)]"

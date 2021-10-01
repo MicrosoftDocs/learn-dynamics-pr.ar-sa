@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-sales-capabilities-of-dynamics-365-project-operations.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: f2887e14d930469552cb90c4cf767d5a2907c9de
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438745"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/8-summary.md)]'

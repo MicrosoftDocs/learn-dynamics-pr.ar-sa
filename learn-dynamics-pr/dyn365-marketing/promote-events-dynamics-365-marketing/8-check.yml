@@ -1,0 +1,45 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.promote-events-marketing.8-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 04/27/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: de747e8e4d7c6915a2c766a8a5d2127f0f536bcb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435369"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: بعد التخطيط للحدث، ما الذي عليك فعله للترويج له؟
+    choices:
+    - content: يجب إعداد رحلة عميل ترسل رسائل تسويقية عبر البريد الإلكتروني إلى جميع جهات الاتصال ذات الصلة.
+      isCorrect: true
+      explanation: سوف يحتاج المستخدمون إلى إعداد رحلة عميل لإرسال رسائل تسويقية عبر البريد الإلكتروني إلى جميع جهات الاتصال ذات الصلة.
+    - content: إنشاء صفحة منتقل إليها لتسجيل الحضور.
+      isCorrect: false
+      explanation: أنت لست في حاجة إلى إنشاء صفحة منتقل إليها لتسجيل الحضور. يحتوي موقع ويب الحدث على صفحة للحضور من أجل التسجيل في الحدث الجاهز، ولذلك ليست هناك حاجة إلى إنشاء صفحة منتقل إليها.
+    - content: يجب إنشاء نموذج تسويق لأخذ تسجيلات الحضور.
+      isCorrect: false
+      explanation: أنت لست بحاجة إلى إنشاء نموذج تسويق لأخذ تسجيلات الحضور. يحتوي موقع ويب الحدث على نموذج تسجيل جاهز للحضور من أجل التعبئة للتسجيل في الحدث.
+  - content: أين يُمكنك أن ترى نظرة عامة واسعة على أنشطة التخطيط للأحداث؟
+    choices:
+    - content: المعلومات
+      isCorrect: false
+      explanation: لا يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في منطقة المعلومات.
+    - content: لوحات المعلومات
+      isCorrect: true
+      explanation: يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في لوحات المعلومات.
+    - content: رحلات العميل
+      isCorrect: false
+      explanation: لا يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في منطقة رحلات العميل.
+    - content: رسائل البريد الإلكتروني التسويقي
+      isCorrect: false
+      explanation: لا يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في رسائل البريد الإلكتروني لتطبيق Marketing.

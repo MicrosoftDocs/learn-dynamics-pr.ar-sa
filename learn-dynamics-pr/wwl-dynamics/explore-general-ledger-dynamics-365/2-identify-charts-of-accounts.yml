@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-general-ledger-dynamics-365.identify-charts-of-accounts
+title: تحديد مخططات الحسابات
+metadata:
+  title: تحديد مخططات الحسابات
+  description: تحديد مخططات الحسابات
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 1eec259e8a3593ca0481e35b638b8920a6e36d2a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438730"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/2-identify-charts-of-accounts.md)]'

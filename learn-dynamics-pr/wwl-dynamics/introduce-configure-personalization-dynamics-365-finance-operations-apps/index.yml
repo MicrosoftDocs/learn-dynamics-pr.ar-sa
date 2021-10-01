@@ -1,0 +1,61 @@
+### YamlMime:Module
+uid: learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps
+metadata:
+  title: تقديم التكوين والتخصيص لتطبيقات Dynamics 365 Finance and Operations
+  description: تقديم التكوين والتخصيص لتطبيقات Dynamics 365 Finance and Operations
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 1f65c40e2456c579c485d27e55f757c6fdae34f2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438674"
+title: ابدأ بالتكوين والتخصيص في تطبيقات Finance and Operations
+summary: في هذه الوحدة، تم تعريف المتعلمين بفكرة تخصيص بيئة تطبيقات Dynamics 365 Finance and Operations لتناسب احتياجات أعمالهم. لقد تعلموا تسجيل الدخول وبعض المهام العامة المتعلقة بالبيئة.
+abstract: >
+  بعد هذه الوحدة، ستتمكن من:
+
+  - تسجيل الدخول إلى بيئتك
+
+  - ضع قائمة بالعديد من الطرق التي يمكن من خلالها تخصيص البيئة بدون تكويد
+
+  - شرح كيفية إضافة أصناف القائمة إلى المفضلة من أجل التنقل السريع
+prerequisites: >
+  -   بعض التجارب المتعلقة بتطبيقات Finance and Operations
+
+  -   بعض التجارب في التنقل في Dynamics 365
+
+  -   المعرفة العملية الجيدة بتطبيقات Office
+
+  -   فهم جيد لمتطلبات العملاء
+
+  -   يوصى باستخدام MB-901: Microsoft Dynamics 365 Fundamentals
+iconUrl: /learn/achievements/introduce-configure-personalization-dynamics-365-finance-operations-apps.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-human-resources
+- dynamics-scm
+units:
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.introduction
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.set-up-your-environment
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.explore-personalization-functionality
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.knowledge-check
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.exercise-favorite-some-menu-items
+- learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.summary
+badge:
+  uid: learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.badge

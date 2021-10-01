@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.test-strategy.2-considerations
+title: نظرة عامة على ورشة عمل مراجعة استراتيجية الاختبار
+metadata:
+  title: نظرة عامة على ورشة عمل مراجعة استراتيجية الاختبار
+  description: تعرف على ورشة عمل مراجعة استراتيجية الاختبار.
+  ms.date: 07/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 093ff23fbefb29b6349d6004325231a2e3cae75a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431764"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-considerations.md)]"

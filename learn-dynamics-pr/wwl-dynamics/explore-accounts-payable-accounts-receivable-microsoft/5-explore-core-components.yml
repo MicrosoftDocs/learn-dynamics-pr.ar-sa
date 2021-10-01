@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-core-components
+title: استكشاف مكونات الحسابات المدينة الأساسية
+metadata:
+  title: استكشاف مكونات الحسابات المدينة الأساسية
+  description: استكشاف مكونات الحسابات المدينة الأساسية
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: caf080241c31d2cd6378e6e8d3a13284ca310565
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438539"
+azureSandbox: false
+durationInMinutes: 3
+content: '[!include[](includes/5-explore-core-components.md)]'

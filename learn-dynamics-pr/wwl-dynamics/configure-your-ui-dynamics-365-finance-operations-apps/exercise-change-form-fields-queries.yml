@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.exercise-change-form-fields-queries
+title: تمرين – تغيير استعلامات وحقول النموذج
+metadata:
+  title: تمرين – تغيير استعلامات وحقول النموذج
+  description: تمرين – تغيير استعلامات وحقول النموذج
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 59f0c1b7174959a8f02ab4e74e93035b08391bd5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438699"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/11-exercise-change-form-fields-queries.md)]'

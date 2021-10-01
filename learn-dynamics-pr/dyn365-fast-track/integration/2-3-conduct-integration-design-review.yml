@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integration.2-3-conduct-integration-design-review
+title: إجراء مراجعة تصميم التكامل
+metadata:
+  title: إجراء مراجعة تصميم التكامل
+  description: تعرف على كيفية إجراء مراجعة تصميم التكامل.
+  ms.date: 07/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: 62563fb0f2a7b292c59e87a202521e89c212cd37145ee4925de7e45cf60d7f81
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431710"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-3-conduct-integration-design-review.md)]"

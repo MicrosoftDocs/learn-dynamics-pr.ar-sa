@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.generate-work-orders-dynamics-365-field-service.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 08/10/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 7fa0f938e8e30c96f56e5f868a433a97a55a4663
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438680"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: عند إنشاء أمر عمل، أي من الحقول التالية يُستخدم لتحديد الموقع الذي سيقوم فيه الفني بتنفيذ العمل المحدد لأمر العمل ومن هو؟
+    choices:
+    - content: حساب الفوترة
+      isCorrect: false
+      explanation: غير صحيح. يحدد حساب الفوترة المسؤول عن الدفع. بشكل افتراضي، ستكون حسابات الخدمة والفوترة متطابقة، ولكن يمكن تغيير حساب الفوترة.
+    - content: حجز المورد
+      isCorrect: false
+      explanation: غير صحيح. يمثل حجز المورد صنفًا مجدولاً مرتبطًا بمورد معين.
+    - content: حساب الخدمة
+      isCorrect: true
+      explanation: صحيح. يحدد حساب الخدمة الحساب الفعلي الذي سيتم إكمال العمل فيه. عندما يتم إنشاء أمر عمل، يجب عليك تحديد حساب خدمة.
+  - content: في كثير من الأحيان، يجب إنشاء أوامر العمل عندما يتعذر حل الحالة التي يعمل عليها مركز الاتصال الخاص بك. ما الذي يجب تحديده في سجل الحالة حتى يتم تحويله بالكامل إلى أمر عمل؟
+    choices:
+    - content: نوع الحادث‬
+      isCorrect: true
+      explanation: صحيح. سيخبر حقل نوع الحدث التطبيق بما يجب فعله عند إنشاء أمر العمل من سجل الحالة. إنه يضمن تحديد أصناف مثل نوع أمر العمل والمنتجات والخدمات ومهام الخدمة. لن يُسمح لك بتحويل حالة إلى أمر عمل دون استخدام نوع حدث.
+    - content: نوع أمر العمل
+      isCorrect: false
+      explanation: غير صحيح. لا يوجد مكان لتعريف نوع أمر العمل في سجل الحالة، ولا يؤثر هذا الحقل على القدرة على تحويل حالة إلى أمر عمل.
+    - content: حالة أمر العمل
+      isCorrect: false
+      explanation: غير صحيح. لا يوجد مكان لتحديد حالة أمر العمل في سجل الحالة. عند إنشاء أمر عمل، سيتم تعيينه على "غير مجدول" بشكل افتراضي.
+  - content: أي من الأصناف التالية المعروضة في أمر العمل تمثل أصناف المهام التي يحتاج الفني إلى تنفيذها عند تنفيذ أمر العمل؟
+    choices:
+    - content: الخدمات
+      isCorrect: false
+      explanation: غير صحيح. تمثل الخدماتُ الخدمات التي يتم توفيرها كجزء من أمر العمل.
+    - content: مهام الخدمة
+      isCorrect: true
+      explanation: صحيح. تمثل مهام الخدمة المهام التي سيحتاج الفني إلى إنجازها عند تنفيذ أمر العمل.
+    - content: المهارات
+      isCorrect: false
+      explanation: غير صحيح. تشير المهارات إلى المهارات التي يجب أن يمتلكها المورد ليتم جدولتها للعمل على هذا الصنف.

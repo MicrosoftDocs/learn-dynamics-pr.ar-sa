@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-fraud-protection.explore-how-reduces-fraud-losses-increases-bank-acceptance-rates
+title: استكشف طريقة Dynamics 365 Fraud Protection في التقليل من خسائر الاحتيال وزيادة معدلات قبول البنوك
+metadata:
+  title: استكشف طريقة Dynamics 365 Fraud Protection في التقليل من خسائر الاحتيال وزيادة معدلات قبول البنوك
+  description: استكشف طريقة Dynamics 365 Fraud Protection في التقليل من خسائر الاحتيال وزيادة معدلات قبول البنوك
+  ms.date: 06/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-fraud-protection
+  ms.openlocfilehash: 669673e8ef4859a87a6528ea39e18f46ec6a6744
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438688"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/2-explore-how-reduces-fraud-losses-increases-bank-acceptance-rates.md)]'

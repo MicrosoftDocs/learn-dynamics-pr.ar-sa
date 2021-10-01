@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.analyze-insights-marketing.8-marketing-email-insights
+title: معلومات البريد الإلكتروني في تطبيق Marketing
+metadata:
+  title: معلومات البريد الإلكتروني في تطبيق Marketing
+  description: معلومات البريد الإلكتروني في تطبيق Marketing.
+  ms.date: 03/23/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ca671ea2442596706c696006baaa91738fef203e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435437"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-marketing-email-insights.md)]"

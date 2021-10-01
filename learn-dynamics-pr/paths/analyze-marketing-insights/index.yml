@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.analyze-marketing-insights
+metadata:
+  title: تحليل المعلومات في Dynamics 365 Marketing
+  description: ركّز على تقييم التحليلات ومؤشرات الأداء الرئيسية لجهودك التسويقية للمساعدة في فهم التأثير والأساليب الأفضل لجمهورك المستهدف. يُغطي مسار التعلم مراجعة المعلومات المأخوذة من جهات الاتصال والعملاء المتوقعين والحسابات والشرائح وغيره. كما يُغطي التقويمات على مستوى الكيان ومستوى النموذج إضافة إلى إنشاء تقويمات تسويقية وتخصيصها.
+  ms.date: 10/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: 31565e0ce3205f8e18e8a3a8e43c6903735ea678
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7437322"
+title: تحليل المعلومات في Dynamics 365 Marketing
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  ركّز على تقييم التحليلات ومؤشرات الأداء الرئيسية لجهودك التسويقية للمساعدة في فهم التأثير والأساليب الأفضل لجمهورك المستهدف. يُغطي مسار التعلم مراجعة المعلومات المأخوذة من جهات الاتصال والعملاء المتوقعين والحسابات والشرائح وغيره. كما يُغطي التقويمات على مستوى الكيان ومستوى النموذج إضافة إلى إنشاء تقويمات تسويقية وتخصيصها.
+prerequisites: "- فهم أساسي لكيفية التنقل في Dynamics 365. \n"
+iconUrl: /learn/achievements/analyze-marketing-insights.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-marketing
+modules:
+- learn-dynamics.analyze-insights-marketing
+- learn-dynamics.marketing-calendar
+trophy:
+  uid: learn-dynamics.analyze-marketing-insights.trophy

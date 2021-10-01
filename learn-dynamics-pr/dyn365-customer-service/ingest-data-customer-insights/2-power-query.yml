@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.ingest-data-customer-insights.2-power-query
+title: استيراد مصادر البيانات باستخدام Power Query
+metadata:
+  title: استيراد مصادر البيانات باستخدام Power Query
+  description: يمكنك استيراد البيانات باستخدام Power Query في السيناريوهات التي تتطلب تحويل كمية كبيرة من البيانات أو عندما تريد الاتصال بمصادر أخرى غير مصادر نموذج البيانات العامة أو Dataverse.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1451736a66912d73d009ee8b8f6a68f9d61f4245
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7440089"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-power-query.md)]"

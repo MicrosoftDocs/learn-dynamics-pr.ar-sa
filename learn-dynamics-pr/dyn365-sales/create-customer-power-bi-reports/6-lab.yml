@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-customer-power-bi-reports.6-lab
+title: تمرين - الاتصال بالبيانات Dynamics 365 Customer Voice باستخدام Power BI
+metadata:
+  title: تمرين - الاتصال بالبيانات Dynamics 365 Customer Voice باستخدام Power BI
+  description: خطوات الاتصال ببيانات Dynamics 365 Customer Voice باستخدام Power BI.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 4c20717bc564c0814cfc748f914f8a227b9f909d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436208"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-lab.md)]"

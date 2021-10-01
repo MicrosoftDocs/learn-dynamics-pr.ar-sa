@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.marketing-calendar
+metadata:
+  title: مراجعه تقويم التسويق في Dynamics 365 Marketing
+  description: تصور أنشطة التسويق وعرض الكيانات والأنشطة ذات الصلة وتخصيص تقويمات التسويق.
+  ms.date: 03/16/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c979ff3f4d75ae8d127dead9b7735133ca5dd45f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435461"
+title: مراجعه تقويم التسويق في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nتصور أنشطة التسويق وعرض الكيانات والأنشطة ذات الصلة وتخصيص تقويمات التسويق.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- مراجعة تقويمات الكيان\n- مراجعة تقويمات النماذج\n- إنشاء تقويمات التسويق وتخصيصها\n"
+prerequisites: الإلمام بخصائص Dynamics 365 Marketing
+iconUrl: /learn/achievements/marketing-calendar.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.marketing-calendar.1-introduction
+- learn-dynamics.marketing-calendar.2-entity-calendars
+- learn-dynamics.marketing-calendar.3-form-calendars
+- learn-dynamics.marketing-calendar.4-create-customize-calendars
+- learn-dynamics.marketing-calendar.5-check
+- learn-dynamics.marketing-calendar.6-summary
+badge:
+  uid: learn-dynamics.marketing-calendar.badge

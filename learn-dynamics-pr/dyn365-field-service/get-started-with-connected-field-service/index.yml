@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-bizapps.get-started-with-connected-field-service
+metadata:
+  title: بدء العمل مع Connected Field Service لـ Dynamics 365 وAzure IoT
+  description: ستركز الوحد على النشر الأولي لوظيفة Connected Field Service الإضافية من أجل Dynamics 365 for Field Service.  وتتحدث الوحدة عن التثبيت وفهم المكونات المثبتة على أنها جزء من تطبيق القالب الجاهز.
+  ms.date: 02/01/2019
+  author: dyack
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 190fc7ac14c960e84b5e013a645f53c40176da6c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434104"
+title: بدء العمل مع Connected Field Service لـ Dynamics 365 وAzure IoT
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تساعد هذه الوحدة على بدء العمل مع Connected Field Service وAzure IoT
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - وصف الفرق بين Azure IoT و Azure IoT Central وما علاقتهما بـ Connected Field Service
+
+  - إعداد بيئة باستخدام Connected Field Service
+
+  - تحديد المكونات الأساسية التي يتكون منها حل Connected Field Service
+
+  - وصف تدفق البيانات من جهاز IoT إلى Dynamics 365 for Field Service
+prerequisites: لا شيء
+iconUrl: /learn/achievements/get-started-with-connected-field-service.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+- azure
+- azure-iot-central
+units:
+- learn-bizapps.get-started-with-connected-field-service.1-connected-field-service-overview
+- learn-bizapps.get-started-with-connected-field-service.2-choose-a-deployment-type
+- learn-bizapps.get-started-with-connected-field-service.3-install-connected-field-service
+- learn-bizapps.get-started-with-connected-field-service.4-process-telemetry
+- learn-bizapps.get-started-with-connected-field-service.5-register-a-device
+- learn-bizapps.get-started-with-connected-field-service.6-knowledge-check
+- learn-bizapps.get-started-with-connected-field-service.7-summary-clean-up
+badge:
+  uid: learn.get-started-with-connected-field-service.badge

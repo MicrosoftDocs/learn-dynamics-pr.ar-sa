@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-content-event-triggers-journeys
+metadata:
+  title: إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing
+  description: هل تستخدم التسويق في الوقت الحقيقي؟ إذا كان كذلك، فستساعدك هذه الوحدة على تعلم كيفية إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي.
+  ms.date: 08/31/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f67eb5ac6eefe1379ea6613cee8a93fdf8591133
+  ms.sourcegitcommit: 627204a9c92e0b1421cec8a3463b5eafb67e427a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2021
+  ms.locfileid: "7469007"
+title: إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \nهل تستخدم التسويق في الوقت الحقيقي؟ إذا كان كذلك، فستساعدك هذه الوحدة على تعلم كيفية إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء رسائل بريد إلكتروني\n- إنشاء الإخطارات المؤقتة\n- إنشاء رسائل نصية\n- العمل مع المشغّلات في الوقت الحقيقي\n- العمل مع الشرائح\n- إنشاء رحلة\n"
+prerequisites: الفهم الأساسي لتطبيق Dynamics 365 Marketing
+iconUrl: /learn/achievements/manage-content-event-triggers-journeys.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.manage-content-event-triggers-journeys.1-introduction
+- learn-dynamics.manage-content-event-triggers-journeys.2-asset-library
+- learn-dynamics.manage-content-event-triggers-journeys.3-emails
+- learn-dynamics.manage-content-event-triggers-journeys.4-push-notifications
+- learn-dynamics.manage-content-event-triggers-journeys.5-text-messages
+- learn-dynamics.manage-content-event-triggers-journeys.6-triggers
+- learn-dynamics.manage-content-event-triggers-journeys.7-segments
+- learn-dynamics.manage-content-event-triggers-journeys.8-journey
+- learn-dynamics.manage-content-event-triggers-journeys.10-check
+- learn-dynamics.manage-content-event-triggers-journeys.11-summary
+badge:
+  uid: learn-dynamics.manage-content-event-triggers-journeys.badge

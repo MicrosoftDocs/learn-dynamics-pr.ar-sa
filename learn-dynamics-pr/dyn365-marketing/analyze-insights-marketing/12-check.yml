@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.analyze-insights-marketing.12-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 03/23/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c04d589bdfc21218ef6f046ca815dabcc022773f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435408"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من عوامل التصفية التالية متاح في منطقة المعلومات؟
+    choices:
+    - content: الوقت
+      isCorrect: false
+      explanation: الوقت ليس عامل تصفية متاح في منطقة المعلومات.
+    - content: التاريخ‬
+      isCorrect: true
+      explanation: التاريخ ليس عامل تصفية متاح في منطقة المعلومات.
+    - content: عميل متوقع
+      isCorrect: false
+      explanation: لا يمكنك التصفية من سجل العميل المتوقع في منطقة المعلومات.
+    - content: جهة الاتصال
+      isCorrect: false
+      explanation: لا يُمكنك التصفية من سجل جهة الاتصال في منطقة المعلومات.
+  - content: أي مما يلي يعد شرطًا أساسيًا لعرض معلومات رحلة العميل؟
+    choices:
+    - content: تضمين الشرائح
+      isCorrect: false
+      explanation: الشرائح ليست شرطًا أساسيًا لعرض المعلومات.
+    - content: تضمين بريد إلكتروني تسويقي
+      isCorrect: false
+      explanation: لا يتعين عليك تضمين بريد إلكتروني تسويقي لبدء إنشاء المعلومات وعرضها.
+    - content: العرض المباشر
+      isCorrect: true
+      explanation: يُعد العرض المباشر شرطًا أساسيًا يجب أن يحدث قبل أن يكون للكيان معلومات لعرضها وإظهارها.
+    - content: تعيين تاريخ البدء اليوم
+      isCorrect: false
+      explanation: تعيين تاريخ البدء اليوم ليس أحد المتطلبات المسبقة لعرض المعلومات.

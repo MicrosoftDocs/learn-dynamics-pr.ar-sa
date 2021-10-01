@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing
+metadata:
+  title: إدارة أوامر العمل والاتفاقيات والمخزون والشراء في Dynamics 365 Field Service
+  description: إدارة أوامر العمل والاتفاقيات والمخزون في Field Service.
+  ms.date: 01/25/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d866ed5698aff9f1e262f10457aa1d90286eb151
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434195"
+title: إدارة أوامر العمل والاتفاقيات والمخزون والشراء في Dynamics 365 Field Service
+summary: "[!include[](../includes/module-banner.md)]\n\nاستفد من الاتفاقيات للمساعدة في إنشاء أوامر العمل وفقاً لجدول زمني محدد مسبقاً مثل سيناريوهات الصيانة الوقائية.  بالإضافة إلى ذلك، من خلال الاستفادة من المخزون، يمكنهم إدارة مستويات المخزون بشكل أكثر فعالية في المستودعات والتأكد من أن الفنيين لديهم ما يحتاجون إليه لتقديم الخدمات لعملائهم أثناء تواجدهم في الحقل.     يحتوي Dynamics 365 على العديد من العناصر الأساسية التي يمكن تكوينها لتخصيص تنفيذ Field Service بشكل أفضل لتلبية الاحتياجات المطلوبة للمؤسسة.  \n"
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - تحديد دورة حياة أمر العمل
+
+  - تحديد الخيارات المختلفة المتاحة لإنشاء أوامر العمل
+
+  - استخدام السجلات ذات الصلة مثل حسابات الخدمة والأحداث والمنتجات والخدمات والأصناف الأخرى مع أوامر العمل
+
+  - إنشاء وإدارة الاتفاقيات
+
+  - تحديد وإدارة المخزون والمستودعات
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد فهم تطبيق Field Service.
+iconUrl: /learn/achievements/work-order-management-agreements-inventory-and-purchasing-in-microsoft-dynamics-365-for-field-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.1-dynamics-365-field-service-work-order-lifecycle-overview
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.2-creating-and-defining-work-orders
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.3-working-with-work-order-related-records
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.4-create-work-orders
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.5-working-with-agreements
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.6-working-with-inventory-and-warehouses
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.7-knowledge-check
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.8-summary-and-clean-up
+badge:
+  uid: learn.work-order-management-agreements-inventory-and-purchasing.badge

@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-assets-content-settings
+metadata:
+  title: أدارة إعدادات الأصول والمحتوى في Dynamics 365 Marketing
+  description: تعرّف على إدارة إعدادات الأصول والمحتوى في Dynamics 365 Marketing.
+  ms.date: 03/23/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a450723e04e80ab6e8677b67204660fcb71d8e44
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435484"
+title: أدارة إعدادات الأصول والمحتوى في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على إدارة إعدادات الأصول والمحتوى في Dynamics 365 Marketing.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- يُمكنك تحميل الصور إلى مكتبة الملفات واستخدم الصور في المحتوى التسويقي. \n- استخدام عناصر مجموعة المحتوى في محتوى التسويق. \n- مراجعه إعدادات المحتوى وتحديثها وإنشاءها.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/manage-assets-content-settings.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.manage-assets-content-settings.1-introduction
+- learn-dynamics.manage-assets-content-settings.2-images
+- learn-dynamics.manage-assets-content-settings.3-keywords
+- learn-dynamics.manage-assets-content-settings.4-content-blocks
+- learn-dynamics.manage-assets-content-settings.5-settings
+- learn-dynamics.manage-assets-content-settings.6-check
+- learn-dynamics.manage-assets-content-settings.7-summary
+badge:
+  uid: learn-dynamics.manage-assets-content-settings.badge

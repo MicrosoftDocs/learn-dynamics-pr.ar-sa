@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.fast-track-security
+metadata:
+  title: مراجعه نموذج الأمان الخاص بحلول Dynamics 365 الخاصة بك
+  description: وتعد استراتيجية الأمان بمثابه مفتاح للحلول، سيساعد نموذج الأمان ورشه علي التحقق من ان نموذج أمان العميل شامل وانه سيدعم استراتيجية الأمان طويلة الأجل.
+  ms.date: 07/19/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8c11985cf232c0bf0e62407b5a02ecaf1de61021
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431873"
+title: مراجعه نموذج الأمان الخاص بحلول Dynamics 365 الخاصة بك
+summary: "[!include[](../includes/module-banner.md)] \nوتعد استراتيجية الأمان بمثابه مفتاح للحلول، سيساعد نموذج الأمان ورشه علي التحقق من ان نموذج أمان العميل شامل وانه سيدعم استراتيجية الأمان طويلة الأجل.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تقييم نموذج الأمان المقترح.\n- تقديم ملاحظات وتوصيات لتمييز المخاطر الفنية والمشاكل. \n"
+prerequisites: "- المعرفة الواسعة بالمستشار الوظيفي والمطور\n- تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة \n- تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)\n"
+iconUrl: /learn/achievements/fast-track-security.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.fast-track-security.1-introduction
+- learn-dynamics.fast-track-security.2-security-workshop-topics
+- learn-dynamics.fast-track-security.3-check
+- learn-dynamics.fast-track-security.4-summary
+badge:
+  uid: learn-dynamics.fast-track-security.badge

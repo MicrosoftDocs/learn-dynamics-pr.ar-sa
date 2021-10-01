@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.advanced-event-management-marketing.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 04/26/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e0ed8aa42b8265b072c870ce8abe49cc70d625a6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435311"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الحد الأقصى لعدد التكرارات التي يمكنك إنشاؤها لحدث ما؟
+    choices:
+    - content: /50
+      isCorrect: false
+      explanation: أقصى حد للتكرارات أكبر من 50.
+    - content: /100
+      isCorrect: false
+      explanation: أقصى حد للتكرارات أكبر من 100.
+    - content: /150
+      isCorrect: true
+      explanation: أقصى حد للتكرارات هو 150. عند إدخال مجموعة من الإعدادات التي ستؤدي إلى حدوث أكثر من 150 تكرار، سوف تحصل على تحذير ولن تتمكن من حفظ الحدث حتى ضبط الإعدادات.
+    - content: /200
+      isCorrect: false
+      explanation: أقصى حد للتكرارات أقل من 200. عند إدخال مجموعة من الإعدادات التي ستؤدي إلى حدوث أكثر من 150 تكرار، سوف تحصل على تحذير ولن تتمكن من حفظ الحدث حتى ضبط الإعدادات.
+  - content: ما علامة التبويب التي تستخدمها عند إعداد معايير حدث متكرر؟
+    choices:
+    - content: علامة تبويب التسجيل والحضور
+      isCorrect: false
+      explanation: لا يوجد حقل تبديل الحدث المتكرر في علامة تبويب التسجيل والحضور.
+    - content: علامة تبويب موقع الويب والنموذج
+      isCorrect: false
+      explanation: لا يوجد حقل تبديل الحدث المتكرر في علامة تبويب موقع الويب والنموذج.
+    - content: علامة تبويب جدول الأعمال
+      isCorrect: false
+      explanation: لا يوجد حقل تبديل الحدث المتكرر في علامة تبويب جدول الأعمال.
+    - content: علامة تبويب عام
+      isCorrect: true
+      explanation: لإعداد حدث متكرر، ابدأ بإعطاء الحدث اسمًا وإجراء الإعدادات الأساسية الأخرى في علامة تبويب "عام" كما هو معتاد، ثم انتقل إلى قسم "الجدول" لملء معلومات الحدث المتكرر.
+  - content: 'يمكن لكل قالب حدث الاحتفاظ بجميع الإعدادات ذاتها على أنه حدث قياسي، ومنها:'
+    choices:
+    - content: ارتباط الحدث
+      isCorrect: false
+      explanation: لكل حدث ارتباط خاص.
+    - content: مالك الحدث
+      isCorrect: false
+      explanation: مالك الحدث مخصص لمن أنشأ الحدث. يتغير هذا الحقل عند إنشاء حدث جديد، حتى لو أُنشئ من قالب.
+    - content: بطاقات الأحداث
+      isCorrect: false
+      explanation: لا تُشكّل بطاقات الحدث لمتحدثي جلسات العمل جزءًا من الحدث، ولكن يتم الارتباط بهم من كل جلسة عمل. يتم الاحتفاظ بهذه الارتباطات في القالب ويتم تضمينها في الأحداث التي تم إنشاؤها استنادًا إلى قالب، ولكن لا يتم نسخ سجلات المتحدثين أنفسهم ولا تتأثر بأي طريقة أخرى.
+    - content: أماكن إقامة الأحداث
+      isCorrect: true
+      explanation: قد تحتوي أماكن إقامة الحدث على الإعدادات ذاتها مثل أي حدث قياسي، وبالتالي يمكن أن تكون جزءًا من قالب الحدث.

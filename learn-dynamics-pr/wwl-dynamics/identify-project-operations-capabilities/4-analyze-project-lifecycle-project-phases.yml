@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-project-operations-capabilities.analyze-project-lifecycle-project-phases
+title: تحليل دورة حياة المشروع (مراحل المشروع)
+metadata:
+  title: تحليل دورة حياة المشروع (مراحل المشروع)
+  description: تحليل دورة حياة المشروع (مراحل المشروع)
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: 564d731d5c1b0aa71ee9ebf3bf5b942c6091c6d8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438586"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/4-analyze-project-lifecycle-project-phases.md)]'

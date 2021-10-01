@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-connected-field-service.1-connected-field-service-overview
+title: نظرة عامة حول Connected Field Service
+metadata:
+  title: نظرة عامة حول Connected Field Service
+  description: نظرة عامة حول الوظيفة الإضافية لـ Connected Field Service من Dynamics 365 for Field Service.
+  ms.date: 02/01/2019
+  author: dyack
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 467a1b2f9feab6fb5782f1f8f3577813818d6b26
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434214"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-connected-field-service-overview.md)]

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.review-authentication-dynamics-365-marketing.4-data
+title: حماية البيانات والقانون العام لحماية البيانات (GDPR)
+metadata:
+  title: حماية البيانات والقانون العام لحماية البيانات (GDPR)
+  description: Dynamics 365 والامتثال مع القانون العام لحماية البيانات (GDPR).
+  ms.date: 04/06/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4c08ac0dc2b5d2d87ddf223f1312b9db6c0ec16e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435418"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-data.md)]"

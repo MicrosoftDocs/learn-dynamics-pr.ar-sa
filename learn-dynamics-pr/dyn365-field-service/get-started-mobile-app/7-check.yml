@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-mobile-app.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 06/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d561a12e746bc6acfa3424cb5dbb10a3182b1b1b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434141"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما التطبيق الذي يمكن تشغيله من تطبيق Field Service Mobile عندما تريد التعاون مع خبير داخلي في الموضوع؟
+    choices:
+    - content: Teams
+      isCorrect: false
+      explanation: يوفر Remote Assist للعاملين عن بُعد القدرة على التعاون مع الموارد الداخلية الأخرى بالفيديو والصوت الكاملين. يمكن للمؤسسات التي لديها Remote Assist تشغيل التطبيق مباشرة من تطبيق Field Service Mobile.
+    - content: Remote Assist
+      isCorrect: true
+      explanation: يوفر Remote Assist للعاملين عن بُعد القدرة على التعاون مع الموارد الداخلية الأخرى بالفيديو والصوت الكاملين. يمكن للمؤسسات التي لديها Remote Assist تشغيل التطبيق مباشرة من تطبيق Field Service Mobile.
+    - content: SharePoint
+      isCorrect: false
+      explanation: يوفر Remote Assist للعاملين عن بُعد القدرة على التعاون مع الموارد الداخلية الأخرى بالفيديو والصوت الكاملين. يمكن للمؤسسات التي لديها Remote Assist تشغيل التطبيق مباشرة من تطبيق Field Service Mobile.
+    - content: OneDrive for Business
+      isCorrect: false
+      explanation: يوفر Remote Assist للعاملين عن بُعد القدرة على التعاون مع الموارد الداخلية الأخرى بالفيديو والصوت الكاملين. يمكن للمؤسسات التي لديها Remote Assist تشغيل التطبيق مباشرة من تطبيق Field Service Mobile.
+  - content: أي من أنواع السجلات التالية يمثل الموارد التي تعمل في المجال؟
+    choices:
+    - content: الفني
+      isCorrect: false
+      explanation: عندما تقوم بتكوين Field Service، فإنك تحتاج إلى إنشاء نوع سجل عامل الخط الأمامي. تمثل أنواع السجلات هذه المندوبين الذين سيعملون في الحقل ويستخدمون تطبيق Field Service Mobile.
+    - content: مندوب الحقل
+      isCorrect: false
+      explanation: عندما تقوم بتكوين Field Service، فإنك تحتاج إلى إنشاء نوع سجل عامل الخط الأمامي. تمثل أنواع السجلات هذه المندوبين الذين سيعملون في الحقل ويستخدمون تطبيق Field Service Mobile.
+    - content: عامل الخط الأمامي
+      isCorrect: true
+      explanation: عندما تقوم بتكوين Field Service، فإنك تحتاج إلى إنشاء نوع سجل عامل الخط الأمامي. تمثل أنواع السجلات هذه المندوبين الذين سيعملون في الحقل ويستخدمون تطبيق Field Service Mobile.
+    - content: فني في الموقع
+      isCorrect: false
+      explanation: عندما تقوم بتكوين Field Service، فإنك تحتاج إلى إنشاء نوع سجل عامل الخط الأمامي. تمثل أنواع السجلات هذه المندوبين الذين سيعملون في الحقل ويستخدمون تطبيق Field Service Mobile.
+  - content: ما المجموعة الموجودة في تطبيق Field Service Mobile التي تحتوي على أجهزة IoT؟
+    choices:
+    - content: الأصول
+      isCorrect: true
+      explanation: تتضمن مجموعة الأصول في تطبيق Field Service Mobile كل ما يتعلق بخدمة أصول العملاء مثل الأصول وتنبيهات IoT وأجهزة IoT.
+    - content: العملاء
+      isCorrect: false
+      explanation: تتضمن مجموعة الأصول في تطبيق Field Service Mobile كل ما يتعلق بخدمة أصول العملاء مثل الأصول وتنبيهات IoT وأجهزة IoT.
+    - content: عملي
+      isCorrect: false
+      explanation: تتضمن مجموعة الأصول في تطبيق Field Service Mobile كل ما يتعلق بخدمة أصول العملاء مثل الأصول وتنبيهات IoT وأجهزة IoT.
+    - content: تقارير الوقت
+      isCorrect: false
+      explanation: تتضمن مجموعة الأصول في تطبيق Field Service Mobile كل ما يتعلق بخدمة أصول العملاء مثل الأصول وتنبيهات IoT وأجهزة IoT.

@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-bizapps.remotely-monitor-and-service-customer-equipment
+metadata:
+  title: المراقبة عن بُعد وأدوات الخدمة مع استخدام Connected Field Service لـ Dynamics 365 وAzure IoT
+  description: يُمكنك تكوين أجهزه IoT لمراقبه أدوات العميل عن بُعد.
+  ms.date: 11/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 78be7c2a41030d9525b2291b6a2661d755bbc7dd
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434047"
+title: المراقبة عن بُعد وأدوات الخدمة مع استخدام Connected Field Service لـ Dynamics 365 وAzure IoT
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  ستركز هذه الوحدة على العملية الشاملة للمراقبة عن بُعد للأجهزة التي تدعم IoT باستخدام حل Connected Field Service مثل تسجيل الجهاز، والعمل مع التنبيهات، وتصميم العمليات لاتخاذ إجراءات محددة.
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - شرح عمليه البدء والانتهاء مع Connected Field Service
+
+  - شرح العلاقة بين أصول العميل وأجهزة IoT وتوضيحها
+
+  - تحديد المكونات المستخدمة للتفاعل عن بُعد مع الأجهزة
+
+  - إنشاء عمليات مؤتمتة لأدوات الخدمة
+prerequisites: تم نشر مثيل Microsoft Dynamics 365 مع Microsoft Dynamics 365 Field Service ونشر Connected Field Service وإعداد Azure IoT Hub ونشره لإكمال التمارين المعملية.
+iconUrl: /learn/achievements/remotely-monitor-and-service-customer-equipment.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+- azure
+- azure-iot-central
+units:
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.1-remotely-monitor-and-service-customer-equipment-overview
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.2-customer-assets-and-device-registration
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.3-remotely-interacting-with-devices
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.4-automating-connected-field-service
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.5-designing-processes-for-connected-field-service
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.6-building-cfs-processes-and-automations
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.7-knowledge-check
+- learn-bizapps.remotely-monitor-and-service-customer-equipment.8-summary-and-clean-up
+badge:
+  uid: learn.remotely-monitor-and-service-customer-equipment.badge

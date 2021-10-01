@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.work-customer-voice-projects
+metadata:
+  title: إنشاء مشروع استطلاع باستخدام Dynamics 365 Customer Voice
+  description: تعرف على المزيد حول الإنشاء باستخدام مشروعات Dynamics 365 Customer Voice.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: ca06dd7e1b880065593ce164e8d2b9da28f5b176
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436230"
+title: إنشاء مشروع استطلاع باستخدام Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء مشروع استطلاع باستخدام Dynamics 365 Customer Voice.   \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على Dynamics 365 Customer Voice وكيف يمكن أن يكون مفيدًا لمؤسسة.\n- إنشاء أول مشروع لك.\n- اكتشف الميزات والوظائف عالية المستوى الخاصة بالمشروع.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/work-customer-voice-projects.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- customer-voice
+units:
+- learn-dynamics.work-customer-voice-projects.1-introduction
+- learn-dynamics.work-customer-voice-projects.1-5-customer-voice
+- learn-dynamics.work-customer-voice-projects.2-understand-projects
+- learn-dynamics.work-customer-voice-projects.3-create-project
+- learn-dynamics.work-customer-voice-projects.3-5-exercise-create-project
+- learn-dynamics.work-customer-voice-projects.4-check
+- learn-dynamics.work-customer-voice-projects.5-summary
+badge:
+  uid: learn-dynamics.work-customer-voice-projects.badge

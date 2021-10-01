@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-personnel-management-capabilities-of-microsoft-dynamics-365-human.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-human-resources
+  ms.openlocfilehash: 10ba6b6ae76b4bacc1ddbd55bb3c94e5de7c15d2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438676"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أي مما يلي يمكن إتمامه عن طريق تكامل Microsoft Dynamics 365 Human Resources مع LinkedIn Talent Hub؟
+    choices:
+    - content: الاحتفاظ بالوظائف في الموارد البشرية ومزامنتها مع LinkedIn Talent Hub.
+      isCorrect: false
+      explanation: حاول مرة أخرى. LinkedIn Talent Hub هو نظام لتتبع مقدمي الطلبات يتيح لك جلب الموظفين وإدارتهم وتوظيفهم وكل ذلك في مكان واحد. إنه لا يسمح لك بمزامنة الوظائف مع LinkedIn.
+    - content: يمكنك بسهولة إنشاء سجلات الموظفين في الموارد البشرية للمتقدمين الذين تم تعيينهم لشغل وظيفة‬‏‫ معينة.
+      isCorrect: true
+      explanation: عمل رائع! LinkedIn Talent Hub هو نظام لتتبع مقدمي الطلبات يتيح لك جلب الموظفين وإدارتهم وتوظيفهم وكل ذلك في مكان واحد. إنه يتيح لمديري الموارد البشرية والمسؤولين إنشاء سجلات الموظفين في الموارد البشرية للمتقدمين الذين تم تعيينهم لشغل وظيفة‬‏‫ معينة.
+    - content: يمكنك الاحتفاظ بمعلومات العاملين‬ وعناوينهم في الموارد البشرية ومزامنتها مع LinkedIn Talent Hub.
+      isCorrect: false
+      explanation: حاول مرة أخرى. LinkedIn Talent Hub هو نظام لتتبع مقدمي الطلبات يتيح لك جلب الموظفين وإدارتهم وتوظيفهم وكل ذلك في مكان واحد. إنه يتيح لمديري الموارد البشرية والمسؤولين إنشاء سجلات الموظفين في الموارد البشرية للمتقدمين الذين تم تعيينهم لشغل وظيفة‬‏‫ معينة.
+  - content: تخبرك ماريا، مديرة الموارد البشرية في Van Arsdel، أنها بحاجة إلى أداة للمساعدة في إدارة طلبات إجازات الموظفين. ما الميزة التي يجب عليك التحدث عنها؟
+    choices:
+    - content: مساحة عمل الخدمة الذاتية للموظفين.
+      isCorrect: true
+      explanation: عمل رائع! يمكن لموظفيك إرسال طلبات الإجازة، ويمكنك إدارتها، في مساحة عمل الخدمة الذاتية للموظف.
+    - content: تقويم وقت العمل.
+      isCorrect: false
+      explanation: حاول مرة أخرى. تحدث مع ماريا عن مساحة عمل الخدمة الذاتية للموظفين، لأنه يمكن لموظفيك إرسال طلبات الإجازة ويمكنك إدارتها. يعد إنشاء تقويم وقت العمل خطوة مطلوبة قبل إنشاء خطط إجازة لموظفيك.
+    - content: خطط التعويض.
+      isCorrect: false
+      explanation: حاول مرة أخرى. تحدث مع ماريا عن مساحة عمل الخدمة الذاتية للموظفين، لأنه يمكن لموظفيك إرسال طلبات الإجازة ويمكنك إدارتها. لا تساعد خطط التعويض في إدارة طلبات إجازة الموظفين.
+  - content: تم تكليف ماريا، مدير الموارد البشرية في Van Arsdel، بشغل وظيفتين متاحتين في قسم المبيعات داخليًا. ما الشاشة التي يجب أن تشاهدها للعثور على المرشحين الذين يتناسبون مع المهارات المطلوبة للوظيفتين؟
+    choices:
+    - content: شاشة المرشحين.
+      isCorrect: true
+      explanation: عمل رائع. يجب على ماريا استخدام شاشة المرشحين للعثور على موظفين لديهم المهارات المطلوبة للوظائف المتاحة.
+    - content: تحليل فروق المهارات.
+      isCorrect: false
+      explanation: حاول مرة أخرى. يجب على ماريا استخدام شاشة المرشحين للعثور على موظفين لديهم المهارات المطلوبة للوظائف المتاحة. يمكنها استخدام شاشة تحليل فروق المهارات لعرض مهاراتهم الفعلية مقارنة بما هو مطلوب.
+    - content: LinkedIn Talent Hub.
+      isCorrect: false
+      explanation: يجب أن تستخدم ماريا شاشة المرشحين للعثور على الموظفين الذين لديهم المهارات المطلوبة للوظائف المتاحة، لأنها تريد التوظيف من داخل الشركة - وليس من خارجها.

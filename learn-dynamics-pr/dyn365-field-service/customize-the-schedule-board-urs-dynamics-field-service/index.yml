@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-bizapps.urs-customize-the-schedule-board
+metadata:
+  title: تخصيص لوحة الجدولة في Dynamics 365 Field Service
+  description: تعرّف على كيفيه تخصيص لوحة جدولة Field Service.
+  ms.date: 02/01/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 33906816a3ce1ff383c7e17fe65e7df7ae57f863
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434124"
+title: تخصيص لوحة الجدولة في Dynamics 365 Field Service
+summary: "[!include[](../includes/module-banner.md)]\n\nأصبح تصميم لوحة الجدولة لتسهيل الجدولة أمرًا ممكنًا من خلال لوحات الجدولة المتعددة وطرق العرض وخيارات لوحة الجدولة. سننظر في كيفية تكوين عوامل التصفية والاستعلامات والكيانات للاستخدام مع لوحة الجدولة.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد كل جزء في لوحة الجدولة \n- تحرير طرق عرض لوحة الجدولة وتلميحات الأدوات \n- تحرير جزء الخطة \n- تنبيهات لوحة الجدولة \n- تمديد لوحة الجدولة باستخدام JavaScript وHTML\n"
+prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  إن الإلمام بإمكانات الجدولة الأساسية المتوفرة في Universal Resource Scheduling مفيد للغاية.
+iconUrl: /learn/achievements/customizing-the-schedule-board-in-microsoft-dynamics-365-for-field-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-bizapps.urs-customize-the-schedule-board.1-work-with-multiple-schedule-boards
+- learn-bizapps.urs-customize-the-schedule-board.2-schedule-board-options
+- learn-bizapps.urs-customize-the-schedule-board.3-design-and-use-views-with-schedule-board
+- learn-bizapps.urs-customize-the-schedule-board.4-configure-schedule-board-filter-queries
+- learn-bizapps.urs-customize-the-schedule-board.5-customize-the-schedule-board
+- learn-bizapps.urs-customize-the-schedule-board.6-knowledge-check
+- learn-bizapps.urs-customize-the-schedule-board.7-summary
+badge:
+  uid: learn.customizing-the-schedule-board.badge

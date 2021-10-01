@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-event-marketing.6-registration
+title: تكوين خيارات التسجيل
+metadata:
+  title: تكوين خيارات التسجيل
+  description: تعرّف على كيفية تكوين خيارات التسجيل.
+  ms.date: 05/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a2b5d4acfaea6437eb5d4ed9dda016c76c2c42de
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435417"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-registration.md)]"

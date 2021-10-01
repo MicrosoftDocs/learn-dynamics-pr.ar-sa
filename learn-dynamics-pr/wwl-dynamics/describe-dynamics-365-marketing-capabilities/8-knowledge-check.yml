@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-dynamics-365-marketing-capabilities.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 08/17/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: ccbba0b9fec1503d1fd236ef8712c48d3ab1c1b7
+  ms.sourcegitcommit: 922d30c3471eb60c44c829d4ef9905e8e6fe1ebf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "7438798"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  questions:
+  - content: ما المقصود برحلة العميل؟
+    choices:
+    - content: عملية خدمة العملاء
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن عملية خدمة العملاء تستخدم Dynamics 365 Customer Service. تركز رحلات العميل على جهود التسويق.
+    - content: إنشاء جهود التسويق وتتبعها
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن رحلة العميل في Dynamics 365 Marketing تتيح لك بناء جهود التسويق المخصصة وتتبعها.
+    - content: عملِية المبيعات
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن عملية المبيعات تستخدم Dynamics 365 Sales. تركز رحلات العميل على جهود التسويق.
+  - content: ما الشرائح في Dynamics 365 Marketing؟
+    choices:
+    - content: تقسيم الحسابات المحددة حسب المدينة.
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن الشرائح في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال. لا تستند الشرائح إلى الحسابات.
+    - content: فصل شركتين كانتا في السابق شركة واحدة.
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن الشرائح في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال.
+    - content: تحديد المجموعات المستهدفة من جهات الاتصال ذات الصلة.
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن الشرائح في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال.
+  - content: أي من ميزات Dynamics 365 Marketing التالية ستستخدمها لإعداد وإدارة عرض تجاري عبر الإنترنت تستضيفه مؤسستك؟
+    choices:
+    - content: رحلات العميل
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن رحلات العميل يتم استخدامها لتوجيه عميل محتمل إلى نتيجة محددة.
+    - content: إدارة الأحداث
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن إمكانات إدارة الأحداث في Dynamics 365 Marketing تتعامل مع إنشاء الأحداث وإدارتها.
+    - content: شرائح العملاء
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن شرائح العملاء تجمع جهات الاتصال المتشابهة معًا. يمكنك استخدام Dynamics 365 Marketing لإنشاء الأحداث وإدارتها.

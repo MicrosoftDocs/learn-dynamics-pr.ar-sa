@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-dynamics.use-goal-metrics
+metadata:
+  title: استخدام مقاييس الهدف في Dynamics 365 Sales and Customer Service
+  description: تحديد مقاييس خدمة العملاء، وإنشاء مقاييس الهدف، والعمل مع أعمدة العرض الإجمالي والاستعلامات.
+  ms.date: 02/05/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 541ec0cf2b60627d393be61a054b368eb2f830d1
+  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "7436392"
+title: استخدام مقاييس الهدف في Dynamics 365 Sales and Customer Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تحديد مقاييس خدمة العملاء، وإنشاء مقاييس الهدف، والعمل مع أعمدة العرض الإجمالي والاستعلامات.
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - التحديد بالمقاييس اللازمة لبناء أهداف خدمة عملاء فعالة
+
+  - تعديل إعدادات السنة المالية لمواءمة تقدم الهدف
+
+  - تحديد مقاييس الهدف لمنظمة
+
+  - إنشاء أعمدة العرض الإجمالي والاستعلامات المخصصة
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد أيضاً الإلمام بإنشاء وإدارة الحالات والاستحقاقات واتفاقيات مستوى الخدمة.
+iconUrl: /learn/achievements/goal-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.goal-metrics.1-overview
+- learn-dynamics.goal-metrics.2-fiscal-year-settings
+- learn-dynamics.goal-metrics.3-goal-metrics
+- learn-dynamics.goal-metrics.4-defining-goal-metrics
+- learn-dynamics.goal-metrics.5-knowledge-check
+- learn-dynamics.goal-metrics.6-summary
+badge:
+  uid: learn-dynamics.use-goal-metrics-in-d365-sales.badge

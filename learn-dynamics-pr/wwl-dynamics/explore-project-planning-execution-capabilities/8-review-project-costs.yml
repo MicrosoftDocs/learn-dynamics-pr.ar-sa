@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-project-planning-execution-capabilities.review-project-costs
+title: مراجعة تكاليف المشروع
+metadata:
+  title: مراجعة تكاليف المشروع
+  description: مراجعة تكاليف المشروع
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: a7a7ca3b26b2117b4e7d251363257f8637384f1a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438557"
+azureSandbox: false
+durationInMinutes: 7
+content: '[!include[](includes/8-review-project-costs.md)]'

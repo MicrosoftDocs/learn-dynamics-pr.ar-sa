@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.explore-budgeting-capabilities
+title: استكشاف إمكانات إعداد الموازنة
+metadata:
+  title: استكشاف إمكانات إعداد الموازنة
+  description: استكشاف إمكانات إعداد الموازنة
+  ms.date: 06/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: b83e24132bbbb3a8440b7a19d70d10ed883efd83
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438538"
+azureSandbox: false
+durationInMinutes: 7
+content: '[!include[](includes/5-explore-budgeting-capabilities.md)]'

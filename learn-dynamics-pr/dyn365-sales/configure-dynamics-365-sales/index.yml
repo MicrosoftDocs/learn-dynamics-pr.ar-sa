@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-dynamics-365-sales
+metadata:
+  title: إعداد وتكوين Dynamics 365 Sales
+  description: يمكّن Microsoft Dynamics 365 Sales مندوبي المبيعات من بناء علاقات قوية مع عملائهم، والتصرف بناءً على الرؤى وإغلاق المبيعات بشكل أسرع. استخدم Dynamics 365 Sales لتتبع حساباتك وجهات الاتصال الخاصة بك، وتعزيز مبيعاتك من العميل المتوقع إلى الطلب، وإنشاء ضمانات المبيعات. تركز هذه الوحدة على تقديم تطبيق Dynamics 365 Sales والخطوات الأولى التي يجب أن تتخذها المؤسسة في إعداد التطبيق.
+  ms.date: 08/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8b07cabc45d4a9f3dfcc242b8fc1b765a5ec0886
+  ms.sourcegitcommit: 55bd61067d77ae15072ab1065b0875653aff8ed1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "7436404"
+title: إعداد وتكوين Dynamics 365 Sales
+summary: "[!include[](../includes/module-banner.md)] \nيساعد Dynamics 365 Sales مندوبي المبيعات على بناء علاقات قوية مع عملائهم واتخاذ الإجراءات اللازمة بناءً على نتائج التحليلات وإغلاق المبيعات بشكل أسرع. كما أنه يساعد على تتبع الحسابات وجهات الاتصال، وتعزيز المبيعات من العميل المتوقع إلى الطلب، وإنشاء ضمانات المبيعات. تقدم هذه الوحدة النمطية تطبيق Dynamics 365 Sales وتشرح كيفية إعداد التطبيق.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على الميزات الرئيسية لـ Dynamics 365 Sales وكيف يمكن أن تساعد مؤسستك.\n- قم بتكوين الإعدادات الرئيسية التي يجب على المؤسسات تخصيصها عند إعداد التطبيق.\n- قم بإعداد أدوار الأمان المضمنة لمستخدمي المبيعات.\n"
+prerequisites: المفاهيم الأساسية للتنقل في تطبيق Microsoft Dynamics 365 ومعرفة عملية بالسجلات الأساسية المستخدمة في سيناريوهات المبيعات
+iconUrl: /learn/achievements/configure-dynamics-365-sales.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.configure-dynamics-365-sales.1-introduction
+- learn-dynamics.configure-dynamics-365-sales.2-configure-application
+- learn-dynamics.configure-dynamics-365-sales.3-customization-options
+- learn-dynamics.configure-dynamics-365-sales.4-security-roles
+- learn-dynamics.configure-dynamics-365-sales.5-check
+- learn-dynamics.configure-dynamics-365-sales.6-summary
+badge:
+  uid: learn-dynamics.configure-dynamics-365-sales.badge

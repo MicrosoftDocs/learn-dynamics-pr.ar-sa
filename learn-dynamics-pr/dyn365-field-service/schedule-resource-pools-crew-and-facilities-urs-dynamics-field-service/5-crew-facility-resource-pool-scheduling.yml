@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.5-crew-facility-resource-pool-scheduling
+title: جدولة تجمع موارد الطاقم
+metadata:
+  title: جدولة تجمع موارد الطاقم
+  description: جدولة تجمع موارد الطاقم
+  ms.date: 02/01/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 705da89efe6947b4978c9a4c08d774c27c3097b2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434072"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-crew-facility-resource-pool-scheduling.md)]

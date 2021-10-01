@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-customers.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 03/24/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1b795951761bb3ba79f1da406a36e2e64b354943
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435342"
+durationInMinutes: 7
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: عند تشغيل رحلة عميل، ما كيان العميل الوحيد الذي يُمكنك استهدافه؟
+    choices:
+    - content: عميل متوقع
+      isCorrect: false
+      explanation: تستطيع رحلات العميل استهداف جهات الاتصال فقط وليس العملاء المتوقعين. ورُغم ذلك، يُمكنك تقسيم بيانات العميل المتوقع عندما تكون مرتبطة بجهة اتصال.
+    - content: جهات الاتصال
+      isCorrect: true
+      explanation: تستطيع رحلات العميل استهداف جهات الاتصال فقط.
+    - content: الحسابات
+      isCorrect: false
+      explanation: تستطيع رحلات العميل استهداف جهات الاتصال فقط وليس الحسابات. ورُغم ذلك، يُمكنك تقسيم بيانات الحساب عندما تكون مرتبطة بجهة اتصال.
+    - content: المستهلك
+      isCorrect: false
+      explanation: المستهلك ليس كيان عميل جاهز في Dynamics 365 Marketing.
+  - content: أي من الكيانات الثلاثة الأساسية للعملاء في Dynamics 365 Marketing تم تعريفه على أنه اهتمام صريح بمبادرة تسويق؟
+    choices:
+    - content: جهة الاتصال
+      isCorrect: false
+      explanation: تمثل جهات الاتصال الأفراد.
+    - content: الحساب
+      isCorrect: false
+      explanation: يتم تعريف الحسابات على أنها الشركات التي تقوم بالتسويق والبيع لها.
+    - content: عميل متوقع
+      isCorrect: true
+      explanation: العملاء المتوقعون ترجمة للاهتمام الواضح بمبادرة تسويقية محددة.
+    - content: المستهلك
+      isCorrect: false
+      explanation: لا يُعد المستهلكون كيانًا أساسيًا للعميل في Dynamics 365 Marketing.
+  - content: ما المكون الذي لا يشكل نموذج نقاط عميل متوقع؟
+    choices:
+    - content: الإجراءات
+      isCorrect: false
+      explanation: الإجراءات تُحدّد طريقة تعديل النقاط عند استيفاء الشرط.
+    - content: الشروط
+      isCorrect: false
+      explanation: تحدد الشروط المعايير التي يجب أن يفي بها العميل المتوقع، التي يمكن أن تشمل البيانات الديموغرافية أو السكانية أو السلوكية.
+    - content: الحد
+      isCorrect: true
+      explanation: الحد ليس أحد مكونات نماذج تسجيل نقاط العميل المتوقع.
+    - content: الدرجات
+      isCorrect: false
+      explanation: تُميز الدرجات نطاقات النقاط بلغة بسيطة (مثل ساخن ودافئ وبارد)، ويعّين حد نقاط محدد كـ "جاهز للمبيعات".

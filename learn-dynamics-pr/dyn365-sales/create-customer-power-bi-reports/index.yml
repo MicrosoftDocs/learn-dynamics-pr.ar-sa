@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.create-customer-power-bi-reports
+metadata:
+  title: إنشاء تقارير Power BI للعميل في Dynamics 365 Customer Voice
+  description: تعرف على كيفية إنشاء التقارير ولوحات المعلومات من بيانات Dynamics 365 Customer Voice الخاصة بك باستخدام Microsoft Power BI.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 8c6b0fe809ac762fc5a7e5809831e964b82ce315
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436248"
+title: إنشاء تقارير Power BI للعميل في Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء التقارير ولوحات المعلومات من بيانات Dynamics 365 Customer Voice الخاصة بك باستخدام Microsoft Power BI.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- احصل على مقدمة أساسية لـ Power BI.\n- تعرف على كيفية استخدام قالب Power BI في Dynamics 365 Customer Voice.\n- تعرف على كيفية الاتصال ببيانات Dynamics 365 Customer Voice الخاصة بك من خلال Power BI.\n- أنشئ تقرير Power BI مخصصاً واحسب Net Promoter Score.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/create-customer-power-bi-reports.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- customer-voice
+units:
+- learn-dynamics.create-customer-power-bi-reports.1-introduction
+- learn-dynamics.create-customer-power-bi-reports.2-template
+- learn-dynamics.create-customer-power-bi-reports.3-connect-data
+- learn-dynamics.create-customer-power-bi-reports.4-create-reports
+- learn-dynamics.create-customer-power-bi-reports.5-net-promoter-score
+- learn-dynamics.create-customer-power-bi-reports.6-lab
+- learn-dynamics.create-customer-power-bi-reports.7-check
+- learn-dynamics.create-customer-power-bi-reports.8-summary
+badge:
+  uid: learn-dynamics.create-customer-power-bi-reports.badge

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.review-additional-sales-apps.test-your-knowledge
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 08/26/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 29a748ec77b50f0bee46e450c2410da6c401518f
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7438841"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/5-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: باستخدام LinkedIn Sales Navigator وDynamics 365 Sales، أيّ مما يلي يمكنك فعله؟
+    choices:
+    - content: التواصل مع العملاء المتوقعين
+      isCorrect: true
+      explanation: صحيح. إجابة صحيحة لأن LinkedIn يتيح لك إنشاء شبكة احترافية بالتواصل مع رجال الأعمال الآخرين.
+    - content: تعقب نشاط الويب
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأنه لا Dynamics 365 Sales ولا LinkedIn Sales Navigator يوفر إمكانية تتبع نشاط الويب.
+    - content: تحديد موقع الأصدقاء القدامى
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأن LinkedIn Sales Navigator أداة شبكات اجتماعية قائمة على الأعمال.
+  - content: أي من ميزات الذكاء المضمّنة التالية تقترح رسائل بريد إلكتروني قد تكون ذات صلة بـ "سجل Dynamics 365" الذي تعمل به؟
+    choices:
+    - content: مساعدة العلاقة
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأن المساعد يعرض تذكيرات بأنشطة المبيعات القادمة.
+    - content: الالتقاط التلقائي
+      isCorrect: true
+      explanation: صحيح. إجابة صحيحة لأن "الالتقاط التلقائي" يبحث عن الرسائل المرسلة إلى عناوين البريد الإلكتروني ذات الصلة أو منها. يقدمها داخل Dynamics 365 Sales.
+    - content: مشاركة البريد الإلكتروني
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأن "مشاركة البريد الإلكتروني" يساعدك على فهم كيفية تفاعل جهات الاتصال الخاصة بك مع رسائل البريد الإلكتروني الخاصة بك.
+  - content: أيّ من ميزات Sales Insights التالية غير متوفرة في Dynamics 365 Sales؟
+    choices:
+    - content: تحليلات العلاقات
+      isCorrect: true
+      explanation: صحيح. إجابة صحيحة لأن "تحليلات العلاقة" تتطلب ترخيصًا لـ Dynamics 365 Sales Insights.
+    - content: مساعد
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأن المساعد مضمّن في Dynamics 365 Sales.
+    - content: الالتقاط التلقائي
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأن "الالتقاط التلقائي" مضمّن في Dynamics 365 Sales.

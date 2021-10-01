@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.sales-sequence
+metadata:
+  title: إنشاء تسلسلات مبيعات باستخدام Sales Insights
+  description: يتفاعل مندوبو المبيعات مع عملاء متعددين كل يوم. إنهم مسؤولون عن تأهيل العملاء المتوقعين، ورعاية الفرص، وللقيام بذلك يحتاجون إلى التركيز على الليزر والعمل بفعالية في الوقت المناسب. تستثمر مؤسسات المبيعات باستمرار في التدريب المستمر والتدريب حتى يكون مندوبو المبيعات على دراية بأفضل الممارسات ويعملون وفقاً لعمليات الأعمال الموصى بها في مؤسستهم. تساعد التسلسلات البائعين على التوافق مع هذه العمليات من خلال اتباع مجموعة محددة مسبقاً من الإجراءات المتتالية التي تعكس أفضل ممارسات مؤسسة المبيعات الخاصة بهم. في هذه الوحدة، سوف تتعلم كيفية إنشاء وإدارة التسلسلات لمؤسستك. تساعدك البرامج التعليمية التالية على البدء في إنشاء تسلسل أساسي، وربطه بسجل، وتعديله، وما إلى ذلك.
+  ms.date: 03/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ab754e8ce5572a59da2e40c9836c72e2862594a2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436256"
+title: إنشاء تسلسلات مبيعات باستخدام Sales Insights
+summary: "[!include[](../includes/module-banner.md)] \nيتفاعل مندوبو المبيعات مع عملاء متعددين كل يوم. إنهم مسؤولون عن تأهيل العملاء المتوقعين، ورعاية الفرص، وللقيام بذلك يحتاجون إلى التركيز على الليزر والعمل بفعالية في الوقت المناسب. تستثمر مؤسسات المبيعات باستمرار في التدريب المستمر والتدريب حتى يكون مندوبو المبيعات على دراية بأفضل الممارسات ويعملون وفقاً لعمليات الأعمال الموصى بها في مؤسستهم. تساعد التسلسلات البائعين على التوافق مع هذه العمليات من خلال اتباع مجموعة محددة مسبقاً من الإجراءات المتتالية التي تعكس أفضل ممارسات مؤسسة المبيعات الخاصة بهم. في هذه الوحدة، سوف تتعلم كيفية إنشاء وإدارة التسلسلات لمؤسستك. تساعدك البرامج التعليمية التالية على البدء في إنشاء تسلسل أساسي، وربطه بسجل، وتعديله، وما إلى ذلك.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بإنشاء تسلسل أساسي.\n- قم بتوصيل تسلسل بسجل.\n- افصل أحد التسلسلات من أحد السجلات.\n- قم بإنهاء تسلسل ما.\n- أنشئ سير مهام لربط التسلسلات بالسجلات تلقائياً.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/sales-sequence.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-sales-insights
+units:
+- learn-dynamics.sales-sequence.1-introduction
+- learn-dynamics.sales-sequence.2-basic
+- learn-dynamics.sales-sequence.3-connect
+- learn-dynamics.sales-sequence.4-disconnect
+- learn-dynamics.sales-sequence.5-edit
+- learn-dynamics.sales-sequence.5a-connect
+- learn-dynamics.sales-sequence.6-check
+- learn-dynamics.sales-sequence.7-summary
+badge:
+  uid: learn-dynamics.sales-sequence.badge

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-advanced-configuration.8-other-settings
+title: تخصيص Marketing
+metadata:
+  title: تخصيص Marketing
+  description: تعرّف على كيفية تخصيص Marketing باستخدام الإعدادات الأخرى.
+  ms.date: 04/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6b638122f62d2d99e914ae1928bf171c65b1e8b9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435322"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-other-settings.md)]

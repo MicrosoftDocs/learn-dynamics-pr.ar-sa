@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.exercise-favorite-some-menu-items
+title: تمرين - تخصيص شريط الحالة الخاص بك
+metadata:
+  title: تمرين - تخصيص شريط الحالة الخاص بك
+  description: تمرين - تخصيص شريط الحالة الخاص بك
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: f42024bccf50815aeb793cd1e033d06e6e4f231c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438584"
+azureSandbox: false
+durationInMinutes: 2
+content: '[!include[](includes/5-exercise-favorite-menu-items.md)]'

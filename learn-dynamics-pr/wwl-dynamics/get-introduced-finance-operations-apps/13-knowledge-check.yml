@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-finance-operations-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/16/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: a2db24be2ab331420f343a5cd82a7b346be0df3a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438765"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/13-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أيّ من وظائف الأعمال التالية تُدار بواسطة تطبيقات finance and operations؟
+    choices:
+    - content: رؤى العملاء، إدارة المخزون، الموارد البشرية
+      isCorrect: false
+      explanation: غير صحيح. Supply chain management وhuman resources وcommerce هي وظائف تجارية تُدار بواسطة تطبيقات finance and operations.
+    - content: supply chain management، human resources، commerce
+      isCorrect: true
+      explanation: صحيح. Supply chain management وhuman resources وcommerce هي وظائف تجارية تُدار بواسطة تطبيقات finance and operations.
+    - content: commerce، marketing، human resources
+      isCorrect: false
+      explanation: غير صحيح. Supply chain management وhuman resources وcommerce هي وظائف تجارية تُدار بواسطة تطبيقات finance and operations.
+  - content: أي تطبيق finance and operations يمنحك رؤية في الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة؟
+    choices:
+    - content: Dynamics 365 Commerce
+      isCorrect: false
+      explanation: غير صحيح. يمنحك Dynamics 365 Supply Chain Management رؤية في الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة.
+    - content: Dynamics 365 Finance
+      isCorrect: false
+      explanation: غير صحيح. يمنحك Dynamics 365 Supply Chain Management رؤية في الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة.
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: true
+      explanation: صحيح. يمنحك Dynamics 365 Supply Chain Management رؤية في الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة.
+  - content: ما الذي تسمح مساحات العمل للمستخدمين بفعله؟
+    choices:
+    - content: إنشاء تقارير تتصرف مثل التطبيقات
+      isCorrect: false
+      explanation: غير صحيح. تتيح مساحات العمل للمستخدمين طريقة عرض شاملة للأنشطة بزاوية 360 درجة، ومقارنة مصادر البيانات المتعددة، والتنقل بحسب البيانات، والوصول المباشر إلى المهام.
+    - content: قارن بين مصادر البيانات المتعددة وتمتع بوصول مباشر إلى المهام
+      isCorrect: true
+      explanation: صحيح. تتيح مساحات العمل للمستخدمين طريقة عرض شاملة للأنشطة بزاوية 360 درجة، ومقارنة مصادر البيانات المتعددة، والتنقل بحسب البيانات، والوصول المباشر إلى المهام.
+    - content: فتح بيانات الكيان فتح ملف Excel
+      isCorrect: false
+      explanation: غير صحيح. تتيح مساحات العمل للمستخدمين طريقة عرض شاملة للأنشطة بزاوية 360 درجة، ومقارنة مصادر البيانات المتعددة، والتنقل بحسب البيانات، والوصول المباشر إلى المهام.

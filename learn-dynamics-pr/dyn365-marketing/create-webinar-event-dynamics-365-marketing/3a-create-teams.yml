@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-webinar-event-dynamics-365-marketing.3a-create-teams
+title: إنشاء حدث ندوة الإنترنت‬ باستخدام Microsoft Teams
+metadata:
+  title: إنشاء حدث ندوة الإنترنت‬ باستخدام Microsoft Teams
+  description: نظرة عامة على إنشاء حدث ندوة الإنترنت باستخدام Microsoft Teams.
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 16a23468d7f958f93688e17b666999bc7092924e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435308"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3a-create-teams.md)]"

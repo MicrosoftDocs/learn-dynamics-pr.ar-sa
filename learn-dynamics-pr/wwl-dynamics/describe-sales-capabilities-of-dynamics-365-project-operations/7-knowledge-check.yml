@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-sales-capabilities-of-dynamics-365-project-operations.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: a15947c0a2662fb73d9b2c07e03b6d47fd81ce7f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438613"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أي من مكونات المبيعات التالية في Dynamics 365 Project Operations يمثل مشروعًا تم بيعه إلى عميل؟
+    choices:
+    - content: العميل المتوقع للمشروع‬
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن العملاء المتوقعين للمشروع يتم استخدامهم لتحديد إمكانية بيع المشروع إلى العميل.
+    - content: عقد المشروع
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن عقد المشروع يمثل مشروعًا تم بيعه للعميل.
+    - content: فرصة المشروع
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن فرص المشروع هي المرحلة الأساسية في بيع المشروعات للعملاء.
+  - content: أنت تبيع مشروع تنفيذ برامج مخصصًا لأحد العملاء. يحتاج مديرو المشروع إلى أن يكونوا على دراية بالمشروع وأن ينظروا فيه أثناء تخطيطهم للتوظيف في مشروعات أخرى. ما نوع السجل الذي ستقوم عادةً بإنشائه لإضافته إلى تقدير المشروع؟
+    choices:
+    - content: عروض أسعار المشروعات
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأنه من داخل عرض أسعار المشروع يمكنك إنشاء تقديرات المشروع التي ستكون متاحة في التطبيق.
+    - content: العميل المتوقع للمشروع‬
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن العملاء المتوقعين للمشروع يتم استخدامهم لتحديد إمكانية المضي قدمًا مع العميل.
+    - content: فرصة المشروع
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن فرص المشروع تلتقط تفاصيل عالية المستوى عن المشروع.
+  - content: أنت تقوم بإنشاء عرض أسعار لمشروع لحل أمان مخصص لتنفيذه في المكاتب العالمية للعميل. تحتاج إلى إضافة أصناف بند لمعدات كاميرا الأمان المطلوبة. كيف يمكنك إضافة هذه المعلومات إلى عرض أسعار المشروع؟
+    choices:
+    - content: إضافة صنف بند مستند إلى المشروع
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن أصناف البند المستندة إلى المشروع تتم إضافتها لتعكس العمل المطلوب في المشروع.
+    - content: إضافة صنف بند مستند إلى المعدات
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأنه لا يوجد صنف بند مستند إلى المعدات في Project Operations.
+    - content: إضافة صنف بند مستند إلى المنتج
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن أصناف البند المستندة إلى المنتج تتم إضافتها لعكس البضائع التي يتم بيعها كجزء من المشروع.

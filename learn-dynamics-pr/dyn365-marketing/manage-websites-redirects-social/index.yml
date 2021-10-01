@@ -1,0 +1,36 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-websites-redirects-social
+metadata:
+  title: إدارة زيارات موقع الويب وعناوين URL لإعادة التوجيه ومنشورات وسائل التواصل الاجتماعي في Dynamics 365 Marketing
+  description: تعرّف على إدارة زيارات موقع الويب وعناوين URL لإعادة التوجيه ومنشورات وسائل التواصل الاجتماعي في Dynamics 365 Marketing.
+  ms.date: 04/02/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: dd96540e0abeee08f0e95db804158231cec1cc5c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435410"
+title: إدارة زيارات موقع الويب وعناوين URL لإعادة التوجيه ومنشورات وسائل التواصل الاجتماعي في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على إدارة زيارات موقع الويب وعناوين URL لإعادة التوجيه ومنشورات وسائل التواصل الاجتماعي في Dynamics 365 Marketing.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- متابعة زيارات موقع الويب.\n- متابعة زوار صفحات التسويق.\n- إنشاء عناوين URL لإعادة التوجيه.\n- جدولة الرسائل على وسائل التواصل الاجتماعي ونشرها.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/manage-websites-redirects.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.manage-websites-redirects-social.1-introduction
+- learn-dynamics.manage-websites-redirects-social.2-monitor
+- learn-dynamics.manage-websites-redirects-social.3-social
+- learn-dynamics.manage-websites-redirects-social.4-check
+- learn-dynamics.manage-websites-redirects-social.5-summary
+badge:
+  uid: learn-dynamics.manage-websites-redirects-social.badge

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 976fcff7bc86a6d4667fbcabf2bac8114a2bb609
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438651"
+azureSandbox: false
+durationInMinutes: 1
+content: '[!include[](includes/7-summary.md)]'

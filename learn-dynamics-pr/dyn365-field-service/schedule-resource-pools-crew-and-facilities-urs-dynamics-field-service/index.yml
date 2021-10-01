@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-bizapps.urs-schedule-resource-pools-crew-and-facilities
+metadata:
+  title: جدولة الأطقم والمرافق وتجمع الموارد في Dynamics 365 Field Service
+  description: تعلّم كيفية جدولة الأعمال في Field Service.
+  ms.date: 02/01/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 376e6e44d9c663459dde37b9bdfa533939effeb5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434191"
+title: جدولة الأطقم والمرافق وتجمع الموارد في Dynamics 365 Field Service
+summary: "[!include[](../includes/module-banner.md)]\n\nتعامل مع خيارات الجدولة الأكثر تقدمًا التي قد تتضمن موارد متعددة أو مرافق محددة. استخدم تجمع الموارد لتوفير عناصر نائبة لجدولة مجموعات الموارد. جدولة الأطقم للعمل في عناصر محددة. جدولة مرافق محددة يُمكن استخدامها للمساعدة في تقديم خدمة معينة.    \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد تجمعات الموارد في جدولة السيناريوهات واستخدامها\n- استخدم ميزة جدولة المرافق لحجز مرافق معينة للعمل \n- تحديد وجدولة الأطقم باستخدام لوحة الجدولة\n"
+prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  نوصي بالإلمام بتحديد الموارد وإمكانات الجدولة الأساسية المتوفرة في Universal Resource Scheduling.
+iconUrl: /learn/achievements/scheduling-crews-facilities-and-resource-pooling-in-microsoft-dynamics-365-for-field-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.1-schedule-multiple-resources-and-facilities
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.2-define-resources
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.3-work-with-fulfillment-preferences
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.4-work-with-requirement-groups
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.5-crew-facility-resource-pool-scheduling
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.6-schedule-multiple-resources
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.7-knowledge-check
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.8-summary
+badge:
+  uid: learn.scheduling-resource-pools-crew-and-facilities.badge

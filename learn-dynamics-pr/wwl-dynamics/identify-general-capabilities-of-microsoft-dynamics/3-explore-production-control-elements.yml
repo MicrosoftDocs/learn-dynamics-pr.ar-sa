@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.explore-production-control-elements
+title: استكشاف عناصر التحكم في الإنتاج
+metadata:
+  title: استكشاف عناصر التحكم في الإنتاج
+  description: استكشاف عناصر التحكم في الإنتاج
+  ms.date: 08/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: b413a21cefb182e8b46eebfb0555b69315cf63bf
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7438822"
+azureSandbox: false
+durationInMinutes: 7
+content: '[!include[](includes/3-explore-production-control-elements.md)]'

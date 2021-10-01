@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.remotely-monitor-and-service-customer-equipment.4-automating-connected-field-service
+title: أتمتة Connected Field Service
+metadata:
+  title: أتمتة Connected Field Service
+  description: أتمتة Connected Field Service
+  ms.date: 11/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f7c56ef87a51c56ccea2134e2fc7d0c95e8a0de5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434161"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-Automating-Connected-Field-Service.md)]

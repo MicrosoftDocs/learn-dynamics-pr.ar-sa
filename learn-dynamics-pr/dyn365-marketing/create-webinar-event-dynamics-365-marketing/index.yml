@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.create-webinar-event-dynamics-365-marketing
+metadata:
+  title: إنشاء حدث ندوة الإنترنت في Dynamics 365 Marketing
+  description: نظرة عامة على إنشاء حدث ندوة الإنترنت في Dynamics 365 Marketing.
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7a71ad9e1a0cec6ea2984cb036f24aef396a8907
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435472"
+title: إنشاء حدث ندوة الإنترنت في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nنظرة عامة على إنشاء حدث ندوة الإنترنت في Dynamics 365 Marketing.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تكوين إعدادات ندوة الإنترنت.\n- توصيل إدارة الأحداث بموفري ندوات الإنترنت الخارجيين.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/create-webinar-event-dynamics-365-marketing.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.1-introduction
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.2-configure
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.3-create
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.3a-create-teams
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.4-connect
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.4a-calendar
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.5-check
+- learn-dynamics.create-webinar-event-dynamics-365-marketing.6-summary
+badge:
+  uid: learn-dynamics.create-webinar-event-dynamics-365-marketing.badge

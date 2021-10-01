@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-inventory-management-capabilities-of-dynamics-365-field-service.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: 7c60a73d424a5e77c70be5a9db0e258dddb9633f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438707"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أثناء العمل على أمر عمل لأحد العملاء، تدرك أنه ليس لديك أحد الأجزاء الأساسية المطلوبة. سيكون شراء واحد من مورّد محلي هو أسرع طريقة. ما ميزة المكتب الخلفي في Dynamics 365 Field Service التي ستستخدمها؟
+    choices:
+    - content: تعديل المخزون
+      isCorrect: false
+      explanation: غير صحيح. يتم استخدام تعديل المخزون لإضافة مخزون أو إزالته من مستودع معين.
+    - content: أمر الشراء
+      isCorrect: true
+      explanation: صحيح. تُستخدم أوامر الشراء لطلب المنتجات إما في مستودع معين أو مباشرةً إلى أمر عمل حتى يتمكن الفنيون من إتمام العمل.
+    - content: ترخيص إرجاع البضائع
+      isCorrect: false
+      explanation: غير صحيح. يُستخدم ترخيص إرجاع البضائع عند الحاجة إلى إرجاع المنتجات لسببٍ ما.
+  - content: ما ميزات Dynamics 365 Field Service التي ستستخدمها لعرض مستويات المخزون الخاصة بالشاحنة التي يستخدمها فنيو خدمه الحقل أثناء تنفيذ أوامر العمل؟
+    choices:
+    - content: المستودع
+      isCorrect: true
+      explanation: صحيح. يمثل المستودع في Dynamics 365 Field Service أي مكان يتم تخزين المخزون فيه مثل مستودع التوزيع أو الشاحنة التي يستخدمها الفنيون أثناء تنفيذ أوامر العمل.
+    - content: أمر الشراء
+      isCorrect: false
+      explanation: غير صحيح. تُستخدم أوامر الشراء لطلب المنتجات إما في مستودع معين أو مباشرةً إلى أمر عمل حتى يتمكن الفنيون من إِتمام العمل.
+    - content: ترخيص إرجاع البضائع
+      isCorrect: false
+      explanation: غير صحيح. يُستخدم ترخيص إرجاع البضائع عند الحاجة إلى إرجاع المنتجات لسببٍ ما.
+  - content: ما ميزات Dynamics 365 Field Service التي ستستخدمها لنقل المخزون المخزن حاليًا في مستودع توزيع رئيسي إلى شاحنة فنيين حتى يمكن استخدامها في أمر العمل الذي سيقوم الفني بتنفيذه هذا اليوم؟
+    choices:
+    - content: أمر الشراء
+      isCorrect: false
+      explanation: غير صحيح. تُستخدم أوامر الشراء لطلب المنتجات إما في مستودع معين أو مباشرةً إلى أمر عمل حتى يتمكن الفنيون من إِتمام العمل.
+    - content: تعديل المخزون
+      isCorrect: false
+      explanation: غير صحيح. يتم استخدام تعديل المخزون لإضافة مخزون أو إزالته من مستودع معين.
+    - content: نقل المخزون
+      isCorrect: true
+      explanation: صحيح. تُستخدم عمليات نقل المخزون لنقل المخزون من مستودع إلى آخر.

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.review-resource-utilization-capabilities-of-dynamics-365-project-operations.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/21/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: e19a06b55849fec78b54b314aa2424e764e1e871
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438752"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: ما وضعيّ إدارة الموارد المتاحين في Project Operations؟
+    choices:
+    - content: المركزي والمختلط
+      isCorrect: true
+      explanation: 'صحيح. يدعم Project Operations وضعين أساسيين لجدولة الموارد: المركزي والمختلط.'
+    - content: المركزي والمخصص
+      isCorrect: false
+      explanation: غير صحيح. لا يوجد وضع مخصص لإدارة الموارد في Project Operations.
+    - content: البسيط والمختلط
+      isCorrect: false
+      explanation: غير صحيح. لا يوجد وضع بسيط لإدارة الموارد في Project Operations.
+  - content: ما نوع سجل المورد الذي ستستخدمه لتمثيل مورد مطور خارجي معين تقوم مؤسستك غالبًا بتعيينه لمشروعات تطوير البرامج؟
+    choices:
+    - content: عام
+      isCorrect: false
+      explanation: غير صحيح. يمثل المورد العام نوعاً معيناً من الموارد ويكون غير مرتبط بمورد محدد معين.
+    - content: المستخدم
+      isCorrect: false
+      explanation: غير صحيح. يتم تعيين مورد المستخدم للمستخدمين الداخليين في مؤسستك.
+    - content: جهة الاتصال
+      isCorrect: true
+      explanation: صحيح. يرتبط مورد جهة الاتصال بسجل جهة اتصال Dynamics 365.
+  - content: أي من المكونات التالية يعرّف موردًا بشريًا كمطور، لضمان عرضها عندما يكون المطور مطلوبًا لمهمة مشروع؟
+    choices:
+    - content: مهارة الموارد
+      isCorrect: false
+      explanation: غير صحيح. تحدد مهارة الموارد مهارة أو شهادة معينة يمكن أن ترتبط بمورد معين.
+    - content: نموذج الكفاءة
+      isCorrect: false
+      explanation: غير صحيح. تُستخدم نماذج الكفاءة مع مهارات الموارد لتحديد مدى كفاءة شخص ما في صنف ما.
+    - content: دور المورد
+      isCorrect: true
+      explanation: صحيح. يحدد دور المورد في المؤسسة دورًا معينًا يمكن ربطه بمورد معين.

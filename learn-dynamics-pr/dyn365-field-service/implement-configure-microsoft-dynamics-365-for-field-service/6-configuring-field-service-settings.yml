@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.implement-configure-microsoft-dynamics-365-for-field-service.6-configuring-field-service-settings
+title: تدريب - تكوين إعدادات Field Service
+metadata:
+  title: تدريب - تكوين إعدادات Field Service
+  description: تدريب - تكوين إعدادات Field Service
+  ms.date: 01/25/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 6a6178c16b2dac2f57d48d1f0cd657a8222f44ca
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434189"
+durationInMinutes: 25
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-configuring-field-service-settings.md)]

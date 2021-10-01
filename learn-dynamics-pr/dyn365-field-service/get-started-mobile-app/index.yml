@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-mobile-app
+metadata:
+  title: بدء العمل مع تطبيق Dynamics 365 Field Service ‏Mobile
+  description: يوفر تطبيق Microsoft Dynamics 365 Field Service ‏Mobile للعاملين أدوات لخدمة العملاء في المجال. ويوفر عرض أوامر العمل وقوائم أصول العملاء والحسابات وجهات الاتصال والجدول اليومي.
+  ms.date: 06/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 99b96b5dc6126668aafafc5c48e43bf60c980996
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434091"
+title: بدء العمل مع تطبيق Dynamics 365 Field Service ‏Mobile
+summary: "[!include[](../includes/module-banner.md)] \nتم إنشاء تطبيق Dynamics 365 Field Service ‏Mobile في Microsoft Power Platform ويوفر الأدوات التي تساعد العاملين على خدمة العملاء في هذا المجال. في أثناء العمل في هذا المجال، يُمكنهم الوصول إلى معلومات مهمة مثل أوامر العمل وقوائم أصول العملاء والحسابات وجهات الاتصال.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على كيفية نشر تطبيقات الأجهزة المحمولة واستخدامها.\n- تعرّف على أصول الخدمة.\n- استخدم البيانات المتصلة وغير المتصلة.\n"
+prerequisites: فهم كامل لتطبيق Field Service.
+iconUrl: /learn/achievements/get-started-mobile-app.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.get-started-mobile-app.1-introduction
+- learn-dynamics.get-started-mobile-app.2-deploy-mobile-app
+- learn-dynamics.get-started-mobile-app.3-use-mobile-app
+- learn-dynamics.get-started-mobile-app.4-asset-service
+- learn-dynamics.get-started-mobile-app.5-online-offline-data
+- learn-dynamics.get-started-mobile-app.6-more-mobile-capabilities
+- learn-dynamics.get-started-mobile-app.7-check
+- learn-dynamics.get-started-mobile-app.8-summary
+badge:
+  uid: learn-dynamics.get-started-mobile-app.badge

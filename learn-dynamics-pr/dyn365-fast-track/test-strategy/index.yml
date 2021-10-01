@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.test-strategy
+metadata:
+  title: تخطيط استراتيجية اختبار لحل Dynamics 365 الخاص بك
+  description: استراتيجية الاختبار وتحديد الثغرات في خطط الاختبار وتتم مناقشه المخاطر المحتملة في هذه الوحدة.
+  ms.date: 07/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 14035e489d6d1836afbdc0da830a0557f6f10821
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431877"
+title: تخطيط استراتيجية اختبار لحل Dynamics 365 الخاص بك
+summary: "[!include[](../includes/module-banner.md)] \nاستراتيجية الاختبار وتحديد الثغرات في خطط الاختبار وتتم مناقشه المخاطر المحتملة في هذه الوحدة.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد أهداف الاختبار القابلة للقياس والنتائج الخاصة وغير القابلة للقياس.\n- تخطيط استراتيجية الاختبار بالكامل للحصول على تفاوض. \n- التعرف علي كيفيه تحضير ورشه مراجعه استراتيجية الاختبار وتنفيذه.\n"
+prerequisites: "- المعرفة الواسعة بالمستشار الوظيفي والمطور\n- تكون الخبرة السابقة كمهندس حلول لمشروع سابق مفيدة \n- تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)\n"
+iconUrl: /learn/achievements/test-strategy.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.test-strategy.1-introduction
+- learn-dynamics.test-strategy.2-considerations
+- learn-dynamics.test-strategy.2-2-prepare
+- learn-dynamics.test-strategy.3-workshop-topics
+- learn-dynamics.test-strategy.4-check
+- learn-dynamics.test-strategy.5-summary
+badge:
+  uid: learn-dynamics.test-strategy.badge

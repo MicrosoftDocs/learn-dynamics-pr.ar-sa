@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-forms-pages-subscriptions.10-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 08/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7524e71ce4c764736411ef0e32ae2e6c044d0384
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435451"
+durationInMinutes: 7
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي العبارات التالية صحيح عن نماذج التسويق؟
+    choices:
+    - content: مجموعة من نماذج القوالب متوفرة لصفحات التسويق ولكن ليس للنماذج.
+      isCorrect: false
+      explanation: تحتوي نماذج التسويق على مجموعة من نماذج قوالب النماذج التي يمكن للمسوقين استخدامها في إنشاء نماذج التسويق.
+    - content: ينبغي أن تكون نماذج التسويق من نفس نوع صفحة التسويق المضمنة فيها.
+      isCorrect: true
+      explanation: ينبغي أن تكون نماذج التسويق من نفس نوع صفحة التسويق لتتم إضافتها إلى الصفحة.
+    - content: يُقدم نوعين فقط من نماذج التسويق في Dynamics 365 Marketing، نموذج الصفحة المنتقل إليها ونموذج صفحة الاشتراك.
+      isCorrect: false
+      explanation: هناك ثلاثة أنواع من نماذج التسويق، نموذج الصفحة المنتقل إليها ونموذج صفحة الاشتراك ونموذج إعادة التوجيه إلى صديق.
+    - content: لا يُمكن إضافة نماذج التسويق التي تم إنشاؤها في Dynamics 365 Marketing إلا إلى صفحات التسويق التي تم إنشاؤها أيضًا في Dynamics 365 Marketing.
+      isCorrect: false
+      explanation: يُمكن إنشاء نماذج التسويق في Dynamics 365 Marketing وإضافتها إلى الصفحات المنتقل التي تم إنشاؤها خارج Dynamics 365 Marketing.
+  - content: تدعم التعبئة المسبقة أي من أنواع النماذج التالية؟
+    choices:
+    - content: الصفحة المنتقل إليها
+      isCorrect: true
+      explanation: التعبئة المسبقة مدعومة للصفحات المنتقل إليها في Dynamics 365 Marketing.
+    - content: التقاط العملاء المتوقعين
+      isCorrect: false
+      explanation: التقاط العملاء المتوقعين ليس نوعا من أنواع نماذج التسويق في Dynamics 365 Marketing.
+    - content: إعادة توجيه إلى صديق
+      isCorrect: false
+      explanation: التعبئة المسبقة غير مدعومة لنماذج إعادة التوجيه إلى صديق لأن هذه النماذج لا تعرض المعلومات من قاعدة البيانات.
+  - content: أي مما يلي ليس أحد أنواع صفحات التسويق في Dynamics 365 Marketing؟
+    choices:
+    - content: إعادة توجيه إلى صديق
+      isCorrect: false
+      explanation: إعادة التوجيه إلى صديق هي نوع من صفحات التسويق في Dynamics 365 Marketing.
+    - content: مركز الاشتراكات
+      isCorrect: false
+      explanation: مركز الاشتراكات هو نوع من صفحات التسويق في Dynamics 365 Marketing.
+    - content: الصفحة المنتقل إليها
+      isCorrect: false
+      explanation: الصفحة المنتقل إليها هي نوع من صفحات التسويق في Dynamics 365 Marketing.
+    - content: التقاط العملاء المتوقعين
+      isCorrect: true
+      explanation: التقاط العملاء المتوقعين ليس نوعًا من أنواع صفحات التسويق في Dynamics 365 Marketing.

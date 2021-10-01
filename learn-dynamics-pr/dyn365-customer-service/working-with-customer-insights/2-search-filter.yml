@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.working-with-customer-insights.2-search-filter
+title: تكوين فهارس البحث والتصفية
+metadata:
+  title: تكوين فهارس البحث والتصفية
+  description: اعرف كيفية تكوين فهارس البحث والتصفية.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8a7f0ac5e88886d050a404848e78257c3131860b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7440094"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-search-filter.md)]"

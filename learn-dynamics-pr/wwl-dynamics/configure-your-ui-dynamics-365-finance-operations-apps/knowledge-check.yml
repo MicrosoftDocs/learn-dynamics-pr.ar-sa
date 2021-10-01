@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 6d819c4c650f3eabd8679561031b016f5f010632
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438681"
+azureSandbox: false
+durationInMinutes: 1
+quiz:
+  questions:
+  - content: كيف تقوم بالفرز في حقول متعددة في نموذج؟
+    choices:
+    - content: الفرز الأساسي
+      isCorrect: false
+      explanation: غير صحيح. يمكنك أن تفعل مستوى واحد، ولكن ليس المضاعفات.
+    - content: الفرز المتقدم
+      isCorrect: true
+      explanation: صحيح. هذا الخيار متاح باستخدام النموذج المتقدم.
+    - content: لا يمكن أن يتم ذلك
+      isCorrect: false
+      explanation: غير صحيح. هذا الخيار متاح باستخدام النموذج المتقدم.
+  - content: ما التخصيص الذي يمكن إجراؤه على التقارير بدون رمز؟
+    choices:
+    - content: إضافة الحقول
+      isCorrect: true
+      explanation: صحيح. يمكنك القيام بذلك.
+    - content: إضافة أساليب
+      isCorrect: false
+      explanation: غير صحيح. أنت بحاجة إلى رمز للقيام بذلك.
+    - content: إضافة أجزاء النموذج
+      isCorrect: false
+      explanation: غير صحيح. أنت بحاجة إلى رمز للقيام بذلك.

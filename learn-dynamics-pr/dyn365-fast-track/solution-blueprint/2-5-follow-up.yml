@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-blueprint.2-5-follow-up
+title: متابعة مخطط الحل
+metadata:
+  title: متابعة مخطط الحل
+  description: متابعة ورشة عمل مراجعة مخطط الحل.
+  ms.date: 07/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: 5f7e1346bb1e6c795f12cf7fc04746c65c0c4d758f56734d34e4f88c91496edd
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431736"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-5-follow-up.md)]"

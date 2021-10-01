@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-set-up-and-manage.6-up-to-date
+title: المحافظة على تحديث Marketing
+metadata:
+  title: المحافظة على تحديث Marketing
+  description: المحافظة على تحديث Marketing.
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7a10187f70981b0c6e33a10ae028ab99b0843d4c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435425"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-up-to-date.md)]

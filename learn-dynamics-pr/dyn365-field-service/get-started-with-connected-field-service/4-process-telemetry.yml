@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-connected-field-service.4-process-telemetry
+title: معالجة قياس تتبع الاستخدام
+metadata:
+  title: معالجة قياس تتبع الاستخدام
+  description: معالجة قياس تتبع الاستخدام.
+  ms.date: 02/01/2019
+  author: dyack
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0e0c81314b8f4cf6494f0e628d9c2fb21777fa0e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434089"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-process-telemetry.md)]

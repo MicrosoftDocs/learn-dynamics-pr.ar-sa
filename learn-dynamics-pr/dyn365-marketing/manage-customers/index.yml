@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-customers
+metadata:
+  title: إدارة العملاء في Dynamics 365 Marketing
+  description: تُغطي هذه الوحدة أساسيات العمل مع العملاء والحسابات إضافة إلى التسويق القائم على الحساب. وتنتهي الوحدة بالحديث عن كيفية تفاعل العملاء المتوقعين مع مبادراتك التسويقية.
+  ms.date: 03/24/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0c017e09e77c0fe64338ba44842fb9fb3e4a77be
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435481"
+title: إدارة العملاء في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nتُغطي هذه الوحدة أساسيات العمل مع العملاء والحسابات إضافة إلى التسويق القائم على الحساب. وتنتهي الوحدة بالحديث عن كيفية تفاعل العملاء المتوقعين مع مبادراتك التسويقية. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إدارة جهات الاتصال والحسابات والعملاء المتوقعين. \n- تعرّف على معلومات عن التسويق القائم على الحساب وتسجيل النقاط. \n- تأهيل العملاء المتوقعين. \n"
+prerequisites: الفهم الأساسي لمفاهيم التسويق.
+iconUrl: /learn/achievements/manage-customers.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.manage-customers.1-introduction
+- learn-dynamics.manage-customers.2-contacts
+- learn-dynamics.manage-customers.3-accounts
+- learn-dynamics.manage-customers.4-account-based
+- learn-dynamics.manage-customers.5-leads
+- learn-dynamics.manage-customers.6-qualify
+- learn-dynamics.manage-customers.7-check
+- learn-dynamics.manage-customers.8-summary
+badge:
+  uid: learn-dynamics.manage-customers.badge

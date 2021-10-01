@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.set-up-field-service-work-items
+metadata:
+  title: إعداد Field Service لإنشاء أوامر عمل من بيانات IoT
+  description: تدمج الوظيفة الإضافية لـ Connected Field Service لـ Microsoft Dynamics ‏365 لتكامل أجهزه IoT مع Microsoft Dynamics 365 for Customer Engagement للحصول على مساعدة العملاء في إنشاء طريقة استباقية لخدمة العملاء.
+  ms.date: 07/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: 2486d8cc55436a8934e354169e4ca1f9a2dece18fc96057033e56b6bb0345e4e
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7433953"
+title: إعداد Field Service لإنشاء أوامر عمل من بيانات IoT
+summary: "[!include[](../includes/module-banner.md)] \nيدمج Connected Field Service for Dynamics 365 أجهزة IoT مع Dynamics 365 for Customer Engagement للحصول على مساعدة العملاء في إنشاء طريقة استباقية لخدمة العملاء. وهو يتيح تسجيل هذه الأجهزة ومراقبتها وإدارتها في العمليات التجارية التي أنشأتها مؤسستك.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على طريقة تثبيت Connected Field Service وإعداده.\n- قراءة بيانات الجهاز.\n- تعيين تنبيهات الجهاز.\n- تعرّف على استخدام تطبيق الأجهزة المحمولة.\n"
+prerequisites: معرفة أساسية بتطبيق Field Service
+iconUrl: /learn/achievements/set-up-field-service-work-items.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.set-up-field-service-work-items.1-introduction
+- learn-dynamics.set-up-field-service-work-items.2-install-setup
+- learn-dynamics.set-up-field-service-work-items.3-configuration
+- learn-dynamics.set-up-field-service-work-items.4-device-data
+- learn-dynamics.set-up-field-service-work-items.5-device-readings
+- learn-dynamics.set-up-field-service-work-items.6-alerts
+- learn-dynamics.set-up-field-service-work-items.7-mobile-app
+- learn-dynamics.set-up-field-service-work-items.8-check
+- learn-dynamics.set-up-field-service-work-items.9-summary
+badge:
+  uid: learn-dynamics.set-up-field-service-work-items.badge

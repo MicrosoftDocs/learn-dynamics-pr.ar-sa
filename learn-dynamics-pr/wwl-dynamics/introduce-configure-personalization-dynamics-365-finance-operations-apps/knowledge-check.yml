@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: de49a03275b2719064ebe47c0afc558846742492
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438603"
+azureSandbox: false
+durationInMinutes: 1
+quiz:
+  questions:
+  - content: ما الخيار الذي لا يوجد في القوائم؟
+    choices:
+    - content: إشارات مرجعية
+      isCorrect: true
+      explanation: صحيح. يمكنك عرض "المفضلة"، ولكن ليس الإشارات المرجعية.
+    - content: الأخيرة
+      isCorrect: false
+      explanation: غير صحيح. هذا هو المتاح.
+    - content: مساحات العمل
+      isCorrect: false
+      explanation: غير صحيح. هذا هو المتاح.
+  - content: بمجرد تسجيل الدخول، هل من الممكن تغيير الكيان القانوني الذي تشاهده؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: صحيح. يمكنك تغيير كيانك القانوني في أي وقت ومن أي نموذج.
+    - content: لا
+      isCorrect: false
+      explanation: غير صحيح. يمكنك تغيير كيانك القانوني في أي وقت ومن أي نموذج.
+    - content: يعتمد على النموذج
+      isCorrect: false
+      explanation: غير صحيح. النموذج غير ذي صلة.
+  - content: ما الخيار المتاح في نموذج "خيارات المستخدم"؟
+    choices:
+    - content: الدور
+      isCorrect: false
+      explanation: غير صحيح. يتم تعيين "الأدوار" عبر الأمان، وليس الخيارات.
+    - content: اللغة
+      isCorrect: true
+      explanation: صحيح. يمكنك تحديد اللغة التي يتم تقديم Dynamics بها.
+    - content: التوقيت الصيفي
+      isCorrect: false
+      explanation: غير صحيح. يمكنك تحديد منطقتك الزمنية، ولكن لا يمكنك تحديد ما إذا كان التوقيت الصيفي ساريًا أم لا.

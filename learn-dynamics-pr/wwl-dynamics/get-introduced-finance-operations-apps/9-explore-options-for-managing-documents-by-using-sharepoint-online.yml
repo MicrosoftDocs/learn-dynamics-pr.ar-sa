@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-introduced-finance-operations-apps.explore-options-for-managing-documents-by-using-sharepoint-online
+title: استكشاف خيارات إدارة المستندات باستخدام SharePoint Online
+metadata:
+  title: استكشاف خيارات إدارة المستندات باستخدام SharePoint Online
+  description: استكشاف خيارات إدارة المستندات باستخدام SharePoint Online
+  ms.date: 07/16/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: f2bb5bc0e9050d2b5956db6140ad527dbce7a03b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438690"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/9-explore-options-for-managing-documents-by-using-sharepoint-online.md)]'

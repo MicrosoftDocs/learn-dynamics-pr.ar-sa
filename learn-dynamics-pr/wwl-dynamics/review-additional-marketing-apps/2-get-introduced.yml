@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.review-additional-marketing-apps.get-introduced-to
+title: تعرف على تطبيقات التسويق الإضافية
+metadata:
+  title: تعرف على تطبيقات التسويق الإضافية
+  description: تعرف على تطبيقات التسويق الإضافية
+  ms.date: 07/21/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: 7a8f2c53ce5fd31b390acfd34ebbf67b220852e5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438701"
+azureSandbox: false
+durationInMinutes: 3
+content: '[!include[](includes/2-get-introduced.md)]'

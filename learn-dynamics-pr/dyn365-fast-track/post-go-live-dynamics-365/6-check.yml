@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.post-go-live-dynamics-365.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 08/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 05cace21557346d8dde8607024db075e6e7adb52
+  ms.sourcegitcommit: 4efbdca72ca2f229c7b045aae0b506a50c751f07
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431867"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية يصف بدقة Success by Design؟
+    choices:
+    - content: وهي أداة إدارة مشروعات لإدارة التطبيقات في Microsoft Power Apps.
+      isCorrect: false
+      explanation: تتوفر العديد من الخيارات لمساعدتك في إدارة تطبيقاتك في Power Apps، ولكن Success by Design ليس أحدها.
+    - content: إنها إرشادات توجيهية لتصميم وبناء ونشر حلول Dynamics 365 وMicrosoft Power Platform.
+      isCorrect: true
+      explanation: يرشدك Success by Design خلال نقاط الاختبار الأساسية لمشروعك لضمان نجاحها.
+    - content: هو برنامج تدريب لمستخدمي Dynamics 365.
+      isCorrect: false
+      explanation: يحتاج المستخدمون إلى التدريب، لكن Success by Design غير مخصص على هذا النحو.
+    - content: إنه التدريب لمهندسي الحلول.
+      isCorrect: false
+      explanation: يتم استخدام Success by Design بواسطة مهندسي الحلول، ولكن يجب أن يكونوا بالفعل مهندسي حلول مؤهلين قبل استخدام Success by Design.
+  - content: أي من الخيارات التالية هي أهداف ورشة عمل ما بعد العرض المباشر؟
+    choices:
+    - content: مراجعة أهداف المشروع والدروس المستفادة
+      isCorrect: false
+      explanation: بعد بدء العرض المباشر، ستساعدك مراجعة تحقيق أهداف المشروع مقابل إجراءات النجاح على تحديد ما إذا كانت تعديلات المشروع ضرورية. سيساعد التفكير في الدروس المستفادة في منع تكرار المشكلات السابقة.
+    - content: الرؤى في مراحل التنفيذ التالية
+      isCorrect: false
+      explanation: تتيح مشاركة الخطوة التالية للمشروع أو البرنامج بعد العرض المباشر فهماً عالمياً لمكان توجه التحول الرقمي.
+    - content: نظرة عامة على الدعم
+      isCorrect: false
+      explanation: سيسمح وجود مسار تصعيد واضح مع خطة الدعم المناسبة لمشكلات ما بعد العرض المباشر بالوقت الأمثل لحل جميع الحوادث المستقبلية.
+    - content: كل هذه الخيارات
+      isCorrect: true
+      explanation: أثناء قيامك بتقييم المشروع والتفكير فيه، سيساعدك كل هدف على المضي قدماً في نظام إنتاجي سيقدره المستخدمون.
+  - content: أي ورشة من ورش عمل Success by Design هي الأكثر أهميةً بالنسبة للاكتمال؟
+    choices:
+    - content: مراجعة استراتيجية الاختبار
+      isCorrect: false
+      explanation: على الرغم من أهمية ورشة العمل هذه، فهي جزء واحد فقط من الصورة الأكبر.
+    - content: تصميم حل الثغرات
+      isCorrect: false
+      explanation: على الرغم من أهمية ورشة العمل هذه، فهي جزء واحد فقط من الصورة الأكبر.
+    - content: مراجعة استراتيجية التكوين المرحلي
+      isCorrect: false
+      explanation: على الرغم من أهمية ورشة العمل هذه، فهي جزء واحد فقط من الصورة الأكبر.
+    - content: كل هذه الخيارات
+      isCorrect: true
+      explanation: يمكن لكل ورشة عمل إنشاء مشروعك أو تقسيمه إذا كنت بحاجة إلى المراجعة. من المهم تقييم أهداف كل ورشة عمل مقابل احتياجات المشروع المحددة، ثم استخدام كل ورشة عمل لصالحك.

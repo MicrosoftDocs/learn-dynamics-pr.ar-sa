@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.gap-solution-design-dynamics-365.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: 74aabc44a3be5aef284b63d5100420eda2ef908ea7cdef631abe457c97e76297
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431716"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الغرض من ورشة عمل حل الثغرات؟
+    choices:
+    - content: الغرض هو تصميم الحلول لملء الثغرات المحددة في الخطة الحالية.
+      isCorrect: false
+      explanation: يجب أن تكون الحلول مصممة بالفعل قبل الورشة.
+    - content: والغرض من ذلك هو مراجعة حلول الثغرات العليا للإضافات عالية التأثير وعالية المخاطر لتقديم التوجيه.
+      isCorrect: true
+      explanation: تم تصميم ورشة العمل لإتاحة الوقت لمراجعة الخطط التي تم وضعها بالفعل.
+    - content: الغرض هو تحديد الثغرات في الحل.
+      isCorrect: false
+      explanation: يجب تحديد الثغرات التي يجب مراجعتها قبل ورشة العمل.
+    - content: والغرض من ذلك هو التخطيط التفصيلي لبنية حلول الثغرات المقترحة.
+      isCorrect: false
+      explanation: يجب بالفعل التخطيط للحل وبنيته قبل ورشة العمل. تهدف ورشة العمل إلى مراجعة الخطط التي تمت صياغتها بالفعل.
+  - content: أي من الخيارات التالية لا يُعتبر مشاركاً نموذجياً في ورشة عمل حل الثغرات؟
+    choices:
+    - content: مهندس فني
+      isCorrect: false
+      explanation: المهندس الفني هو مشارك مهم في ورشة العمل.
+    - content: العميل المتوقع للتطوير
+      isCorrect: false
+      explanation: قائد التطوير هو مشارك مهم في ورشة العمل.
+    - content: مهندس الحلول
+      isCorrect: false
+      explanation: مهندس الحلول هو مشارك مهم في ورشة العمل.
+    - content: صانع قرار الأعمال
+      isCorrect: true
+      explanation: صانع قرار الأعمال ليس عادةً جزءاً من ورشة عمل حلول الثغرات.
+  - content: أثناء قيامك بتقييم الحلول المقترحة لملء الثغرات، أي من العوامل التالية يجب أن تفكر فيه؟
+    choices:
+    - content: المخاطر المرتبطة بالحل المقترح
+      isCorrect: false
+      explanation: كل هذه العوامل، وأكثر من ذلك، هي اعتبارات مهمة لورشة عمل حل الثغرات.
+    - content: التأثير المتوقع للحل المقترح
+      isCorrect: false
+      explanation: كل هذه العوامل، وأكثر من ذلك، هي اعتبارات مهمة لورشة عمل حل الثغرات.
+    - content: ما إذا كان النموذج الأولي أو إثبات المفهوم قد اكتمل أو لا
+      isCorrect: false
+      explanation: كل هذه العوامل، وأكثر من ذلك، هي اعتبارات مهمة لورشة عمل حل الثغرات.
+    - content: كل هذه العوامل
+      isCorrect: true
+      explanation: كل هذه العوامل، وأكثر من ذلك، هي اعتبارات مهمة لورشة عمل حل الثغرات.

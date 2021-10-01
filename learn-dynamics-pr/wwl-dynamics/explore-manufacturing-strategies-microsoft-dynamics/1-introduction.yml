@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-scm
+  ms.openlocfilehash: 0f347ee7af0faf08240b4cb9bf1f80ac38574cd6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438639"
+azureSandbox: false
+durationInMinutes: 1
+content: '[!include[](includes/1-introduction.md)]'

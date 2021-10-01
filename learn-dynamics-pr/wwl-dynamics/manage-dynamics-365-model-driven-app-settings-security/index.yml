@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security
+metadata:
+  title: إدارة إعدادات التطبيق المستند إلى نموذج والأمان في Dynamics 365
+  description: إدارة إعدادات التطبيق المستند إلى نموذج والأمان في Dynamics 365
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 8e55b4457cf1bec0fee5506267c2904aed016633
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438583"
+title: إدارة إعدادات التطبيق المستند إلى نموذج والأمان في Dynamics 365
+summary: في هذه الوحدة، سيتعرف الطلاب على نموذج الأمان المستند إلى الدور. سيتعرفون أيضًا على كيفية استكشاف إعدادات Dynamics 365 والتنقل فيها وتكوين سمة للتطبيق.
+abstract: >
+  في نهاية هذه الوحدة، ستكون قادراً على:
+
+  - إدارة الأمن المستند إلى الدور
+
+  - استكشاف وظائف التخصيص وتخصيص السمات
+prerequisites: >
+  يوصى بكل من مسارات التعرف على Dynamics 365 Fundamentals وPower Platform ‏Fundamentals
+iconUrl: /learn/achievements/manage-dynamics-365-model-driven-app-settings-security.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-marketing
+- dynamics-sales
+- power-platform
+units:
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.introduction
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.configure-role-based-security
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.manage-teams-business-units
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.explore-settings-customizations
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.knowledge-check
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.exercises
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security.summary
+badge:
+  uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security.badge

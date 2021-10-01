@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-personnel-management-capabilities-of-microsoft-dynamics-365-human.explore-self-service-capabilities
+title: استكشاف إمكانات الخدمة الذاتية
+metadata:
+  title: استكشاف إمكانات الخدمة الذاتية
+  description: استكشاف إمكانات الخدمة الذاتية
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-human-resources
+  ms.openlocfilehash: 2434a2865074bcb66830d8f5abf2a11681c39262
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438606"
+azureSandbox: false
+durationInMinutes: 5
+content: '[!include[](includes/2-explore-self-service-capabilities.md)]'

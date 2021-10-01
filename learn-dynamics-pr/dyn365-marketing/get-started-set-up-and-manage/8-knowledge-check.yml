@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-set-up-and-manage.8-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 05/14/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6337684c4f75903243ebbcb21e5481f9c6d16788
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435521"
+title: اختبر معلوماتك
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من إمكانات التسويق التالية متاح على أنه إضافة في منتجات Dynamics 365؟
+    choices:
+    - content: المداخل
+      explanation: إن المداخل جزء من إمكانات Dynamics 365 Marketing، ويمكن إضافتها على أنها إضافة إلى منتجات Dynamics 365 الأخرى.
+      isCorrect: true
+    - content: إدارة الأحداث
+      explanation: إن "إدارة الأحداث" جزء من إمكانات Dynamics 365 Marketing ولا يُمكن إضافتها على أنها تطبيق مستقل.
+      isCorrect: false
+    - content: رحلة العميل
+      explanation: إن "رحلة العيل" جزء من إمكانات Dynamics 365 Marketing ولا يُمكن إضافتها على أنها تطبيق مستقل.
+      isCorrect: false
+    - content: التسويق عبر البريد الإلكتروني
+      explanation: إن "التسويق عبر البريد الإلكتروني" جزء من إمكانات Dynamics 365 Marketing ولا يُمكن إضافتها على أنها تطبيق مستقل.
+      isCorrect: false
+  - content: ما الذي عليك تقديمه في أثناء إعداد Dynamics 365 Marketing للمرة الأولى؟
+    choices:
+    - content: اسم الشركة وعنوان البريد الإلكتروني
+      explanation: اسم الشركة وعنوان البريد الإلكتروني غير مطلوبين على أنهما جزء من خطوات إعداد Dynamics 365 Marketing الأولية.
+      isCorrect: false
+    - content: مركز الاشتراكات
+      explanation: مراكز الاشتراكات ليست إحدى خطوات إعداد Dynamics 365 Marketing الأولية.
+      isCorrect: false
+    - content: عنوان الشارع الفعلي للمُرسل
+      explanation: يجب أن تتضمن جميع رسائل البريد الإلكتروني التسويقي المُرسلة بواسطة Dynamics 365 Marketing عنوان الشارع الفعلي لمؤسستك، والعديد من العناصر الأخرى المطلوبة. تساعد هذه المتطلبات على زيادة إمكانية وصول البريد الإلكتروني، فضلًا عن كونها تساعد في التأكد من التزامك بالمتطلبات القانونية الشائعة للبريد الإلكتروني التسويقي.
+      isCorrect: true
+    - content: رقم هاتف الشركة
+      explanation: رقم هاتف الشركة ليس أحد خطوات إعداد Dynamics 365 Marketing الأولية.
+      isCorrect: false

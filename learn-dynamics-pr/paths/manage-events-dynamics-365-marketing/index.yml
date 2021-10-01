@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-events-dynamics-marketing
+metadata:
+  title: إدارة الأحداث في Dynamics 365 Marketing
+  description: في Microsoft Dynamics 365 Marketing، يُمكنك تخطيط الأحداث وتنفيذها ومتابعتها بكل سهولة. يُغطي مسار التعلم العناصر الرئيسية لوحدة الحدث في تطبيق Marketing ومنها كيفية إنشاء الأحداث وإدارة الجلسات والمتحدثين والخدمات اللوجستية وتمكين تسجيل الحدث وإدارة عملية تسجيلات الوصول مع توضيح كيفية الترويج للحدث من خلال ميزات Dynamics 365 الأساسية الأخرى.
+  ms.date: 11/01/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: f8dc68266dfd57b417c1ce15df1b6779ad5bf3ce
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7437321"
+title: إدارة الأحداث في Dynamics 365 Marketing
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  في Microsoft Dynamics 365 Marketing، يُمكنك تخطيط الأحداث وتنفيذها ومتابعتها بكل سهولة. يُغطي مسار التعلم العناصر الرئيسية لوحدة الحدث في تطبيق Marketing ومنها كيفية إنشاء الأحداث وإدارة الجلسات والمتحدثين والخدمات اللوجستية وتمكين تسجيل الحدث وإدارة عملية تسجيلات الوصول مع توضيح كيفية الترويج للحدث من خلال ميزات Dynamics 365 الأساسية الأخرى.
+prerequisites: >
+  - معرفة أساسية عن كيفية التنقل في Dynamics 365
+
+  - الفهم الكامل لمفاهيم التسويق
+iconUrl: /learn/achievements/manage-events-dynamics-marketing.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+modules:
+- learn-dynamics.create-event-marketing
+- learn-dynamics.create-webinar-event-dynamics-365-marketing
+- learn-dynamics.promote-events-marketing
+- learn-dynamics.advanced-event-management-marketing
+trophy:
+  uid: learn-dynamics.manage-events-dynamics-marketing.trophy

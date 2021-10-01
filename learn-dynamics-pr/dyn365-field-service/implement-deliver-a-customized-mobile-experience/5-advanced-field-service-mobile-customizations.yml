@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.implement-deliver-a-customized-mobile-experience.5-advanced-field-service-mobile-customizations
+title: التدريب - إجراء تخصيصات متقدمة في Field Service Mobile
+metadata:
+  title: التدريب - إجراء تخصيصات متقدمة في Field Service Mobile
+  description: التدريب - إجراء تخصيصات متقدمة في Field Service Mobile
+  ms.date: 2/1/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b6eb07380c8c98d657ec383bf263493009795703
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434153"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-advanced-field-service-mobile-customizations.md)]

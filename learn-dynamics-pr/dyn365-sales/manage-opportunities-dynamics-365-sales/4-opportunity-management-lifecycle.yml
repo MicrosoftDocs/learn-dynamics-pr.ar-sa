@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.opportunity-management.4-opportunity-management-lifecycle
+title: إدارة دورة حياة الفرصة.
+metadata:
+  title: إدارة دورة حياة الفرصة.
+  description: إدارة دورة حياة الفرصة.
+  ms.date: 05/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: aa1dd6243f7fbf6fa7efc853e844fde1fcb1d7eb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436223"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-opportunity-management-lifecycle.md)]

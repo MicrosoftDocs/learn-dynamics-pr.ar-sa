@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance
+metadata:
+  title: استكشف الحسابات الدائنة والحسابات المقبوضة في Microsoft Dynamics 365 Finance
+  description: استكشف الحسابات الدائنة والحسابات المقبوضة في Microsoft Dynamics 365 Finance
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: db975bd7de914c283c3f5cd0b3479c93a49799d0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438712"
+title: استكشف الحسابات الدائنة والحسابات المقبوضة في Microsoft Dynamics 365 Finance
+summary: تستكشف هذه الوحدة النمطية إمكانات Microsoft Dynamics 365 Finance لإدارة العمليات المحاسبية التي ينطوي عليها الدفع للمورّدين أو الموزعين مقابل الخدمات المستلمة وتلقي المدفوعات مقابل البضائع أو الخدمات المقدمة.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   وصف مكونات الحسابات الأساسية الدائنة، بما في ذلك الموردين وأوامر الشراء وفواتير الموردين
+
+  *   وصف مدفوعات الموردين والتسويات، بما في ذلك مفاهيم المطابقة الثلاثية
+
+  *   صف مكونات الحسابات الدائنة الأساسية، بما في ذلك العملاء وفواتير العملاء والفواتير النصية المجانية
+
+  *   صف عمليات الائتمان والتحصيل
+prerequisites: ''
+iconUrl: /learn/achievements/dynamics-finance-payable-accounts-receivable.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-finance
+units:
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.introduction
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-core-accounts-payable-components
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-vendor-payments-settlements
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.exercise-create-vendor-payment-journal
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-core-components
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-credit-collection-processes
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.knowledge-check
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.summary
+badge:
+  uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.badge

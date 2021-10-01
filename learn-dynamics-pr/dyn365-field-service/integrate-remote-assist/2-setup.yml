@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-remote-assist.2-setup
+title: إعداد التطبيق وتكوين المستخدم
+metadata:
+  title: إعداد التطبيق وتكوين المستخدم
+  description: تعرّف على كيفية إعداد التطبيق وتكوين المستخدم.
+  ms.date: 06/30/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d32da866af95c04fc2b9da530680eae24e38868d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434175"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-setup.md)]"

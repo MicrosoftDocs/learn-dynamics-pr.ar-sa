@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-bizapps.urs-configure-bookable-resources
+metadata:
+  title: تكوين ‏‫الموارد القابلة للحجز في Dynamics 365 Field Service
+  description: تعلّم كيفية تكوين موارد Field Service.
+  ms.date: 02/01/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ae00c5e970cca52b6615ffcd95629e2bef32f4a0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434220"
+title: تكوين ‏‫الموارد القابلة للحجز في Dynamics 365 Field Service
+summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة على كيفية استخدام الموارد القابلة للحجز في Universal Resource Scheduling. كما يتم تغطية تكوين الموارد، والعمل مع الموارد القابلة للحجز، وإعداد المكونات الداعمة مثل الخصائص والأدوار، والعمل مع المرافق، والأطقم، وتجمعات الموارد. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد الأنواع المختلفة للموارد المتوفرة\n- تحديد مكونات الموارد الداعمة مثل الخصائص والأدوار والوحدات التنظيمية\n- إعداد مورد فردي قبل للحجز\n- موارد الرمز الجغرافي، وأماكن البدء والانتهاء والعرض في الخريطة \n- تحديد تجمعات الموارد والأطقم والمرافق\n"
+prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة. الإلمام بقدرات Field Service الأساسية مفيد أيضًا.
+iconUrl: /learn/achievements/defining-bookable-resources-in-microsoft-dynamics-365-for-field-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-bizapps.urs-configure-bookable-resources.1-bookable-resources-overview
+- learn-bizapps.urs-configure-bookable-resources.2-set-up-and-configuration
+- learn-bizapps.urs-configure-bookable-resources.3-define-bookable-resources
+- learn-bizapps.urs-configure-bookable-resources.4-work-with-crews-facilities-and-pools
+- learn-bizapps.urs-configure-bookable-resources.5-configure-entities-for-urs
+- learn-bizapps.urs-configure-bookable-resources.6-setup-and-configure-bookable-resources
+- learn-bizapps.urs-configure-bookable-resources.7-knowledge-check
+- learn-bizapps.urs-configure-bookable-resources.8-summary
+badge:
+  uid: learn.defining-and-configure-bookable-resources.badge

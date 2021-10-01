@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-vendor-payments-settlements
+title: استكشاف مدفوعات البائعين والتسويات
+metadata:
+  title: استكشاف مدفوعات البائعين والتسويات
+  description: استكشاف مدفوعات البائعين والتسويات
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 9cc427970547c09c287f848f97724170d06d1dc5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438593"
+azureSandbox: false
+durationInMinutes: 4
+content: '[!include[](includes/3-explore-vendor-payments-settlements.md)]'

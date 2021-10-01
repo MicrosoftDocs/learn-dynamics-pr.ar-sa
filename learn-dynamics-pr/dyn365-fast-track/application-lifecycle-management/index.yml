@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.application-lifecycle-management
+metadata:
+  title: قم بتطوير إستراتيجية إدارة دورة حياة التطبيق لحلول Dynamics 365
+  description: في هذه الوحدة، نناقش استراتيجية ALM وكيف تساعد ورشة عمل ALM في التحقق من أن خطط ALM للعميل شاملة، وتدعم التنفيذ الأولي والاحتياجات طويلة الأجل.
+  ms.date: 11/04/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2df948a24d1bcdbf6e53618cc431f3919b9c640e
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431879"
+title: قم بتطوير إستراتيجية إدارة دورة حياة التطبيق لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة، نناقش استراتيجية ALM وكيف تساعد ورشة عمل ALM في التحقق من أن خطط ALM للعميل شاملة، وتدعم التنفيذ الأولي والاحتياجات طويلة الأجل.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تقييم خطط ALM المقترحة\n- التعرف على كيفية تقديم ملاحظات وتوصيات لتمييز المخاطر الفنية والمشاكل\n"
+prerequisites: >
+  - التعرف على عملية Success by Design
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
+iconUrl: /learn/achievements/application-lifecycle-management.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+units:
+- learn-dynamics.application-lifecycle-management.1-introduction
+- learn-dynamics.application-lifecycle-management.2-alm-workshop-topics
+- learn-dynamics.application-lifecycle-management.3-check
+- learn-dynamics.application-lifecycle-management.4-summary
+badge:
+  uid: learn-dynamics.application-lifecycle-management.badge

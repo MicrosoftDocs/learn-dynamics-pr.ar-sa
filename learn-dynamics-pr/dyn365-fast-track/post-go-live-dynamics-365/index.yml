@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.post-go-live-dynamics-365
+metadata:
+  title: استراتيجية ما بعد العرض المباشر لحلول Dynamics 365
+  description: تزود ورشة عمل ما بعد العرض المباشر فريق التنفيذ الفرصة للتأكد من أن الحل قد حقق الأهداف التي تم تعيينها في البداية.
+  ms.date: 08/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2e793a49e32dbd633df44d3d5b95d30f9faa1a66
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431871"
+title: استراتيجية ما بعد العرض المباشر لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتزود ورشة عمل ما بعد العرض المباشر فريق التنفيذ الفرصة للتأكد من أن الحل قد حقق الأهداف التي تم تعيينها في البداية. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على ورشة عمل ما بعد العرض المباشر\n- التحضير لورشة عمل ما بعد العرض المباشر\n- تنفيذ ورشة عمل ما بعد العرض المباشر\n- المتابعة بعد ورشة عمل ما بعد العرض المباشر\n"
+prerequisites: >
+  - معرفة تطبيقات Dynamics 365
+
+  - المعرفة بمفاهيم Success by Design
+
+  - المعرفة الواسعة بالمستشار الوظيفي
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة.
+
+  - تنزيل مثال لقالب ورشة العمل من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)
+iconUrl: /learn/achievements/post-go-live-dynamics-365.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.post-go-live-dynamics-365.1-introduction
+- learn-dynamics.post-go-live-dynamics-365.2-timing
+- learn-dynamics.post-go-live-dynamics-365.3-post-go-live
+- learn-dynamics.post-go-live-dynamics-365.4-prepare
+- learn-dynamics.post-go-live-dynamics-365.5-implementation
+- learn-dynamics.post-go-live-dynamics-365.6-check
+- learn-dynamics.post-go-live-dynamics-365.7-summary
+badge:
+  uid: learn-dynamics.post-go-live-dynamics-365.badge

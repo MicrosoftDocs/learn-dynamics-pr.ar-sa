@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.bi-analytics-design-dynamics-365.2-overview
+title: نظرة عامة على ورشة عمل ذكاء الأعمال وتصميم التحليلات
+metadata:
+  title: نظرة عامة على ورشة عمل ذكاء الأعمال وتصميم التحليلات
+  description: نظرة عامة على ورشة عمل ذكاء الأعمال وتصميم التحليلات.
+  ms.date: 07/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-fastrack
+  ms.openlocfilehash: 29c246397457137154fb24fd8d50b7e6eb0786df0491c02de9d29935adbc0df4
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431754"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-overview.md)]"

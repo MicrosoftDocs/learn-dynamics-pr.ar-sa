@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.administer-configure-d365-sales-professional.16-knowledge-check
+metadata:
+  title: إدارة وتكوين فحص المعرفة في Dynamics 365 Sales Professional
+  description: أجب عن الأسئلة التالية لترى ما تعلمته
+  ms.date: 05/14/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2e697c0f0f826aea69efd9b2197b7f82575ff439
+  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "7436332"
+title: اختبر معلوماتك
+durationInMinutes: 5
+quiz:
+  title: إدارة وتكوين فحص المعرفة في Dynamics 365 Sales Professional
+  questions:
+  - content: إن Dynamics 365 Sales Professional يوفر Sales Professional وSales Professional Manager وSystem Administrator وSystem Customizer كمجموعة افتراضية من أدوار الأمان للتحكم في وصول المستخدم إلى البيانات.
+    choices:
+    - content: صحيح
+      isCorrect: true
+      explanation: أدوار الأمان الافتراضية هي Sales Professional و Sales Professional Manager و System Administrator و System Customizer.
+    - content: غير صحيح
+      isCorrect: false
+      explanation: أدوار الأمان الافتراضية هي Sales Professional و Sales Professional Manager و System Administrator و System Customizer.
+  - content: ما أنواع الملفات المعتمدة لاستيراد البيانات؟
+    choices:
+    - content: قيمة مفصولة بفاصلة (CSV).
+      isCorrect: false
+      explanation: يتم دعم كل من القيم المفصولة بفواصل (CSV) وقوالب Excel لاستيراد البيانات.
+    - content: قوالب Microsoft Excel.
+      isCorrect: false
+      explanation: يتم دعم كل من القيم المفصولة بفواصل (CSV) وقوالب Excel لاستيراد البيانات.
+    - content: كل من القيم المفصولة بفواصل (CSV) وقوالب Excel.
+      isCorrect: true
+      explanation: يتم دعم كل من القيم المفصولة بفواصل (CSV) وقوالب Excel لاستيراد البيانات.
+  - content: ما النماذج الموجودة في Dynamics 365 Sales Professional؟
+    choices:
+    - content: طريقة عرض جميع الأعمدة في Dynamics 365 Sales Professional.
+      isCorrect: false
+      explanation: طريقة منظمة لتمثيل البيانات عند عرضها للتفاعل مع المستخدم.
+    - content: تقرير بجميع البيانات في Microsoft Dynamics Sales Professional.
+      isCorrect: false
+      explanation: طريقة منظمة لتمثيل البيانات عند عرضها للتفاعل مع المستخدم.
+    - content: طريقة منظمة لتمثيل البيانات عند عرضها للتفاعل مع المستخدم.
+      isCorrect: true
+      explanation: طريقة منظمة لتمثيل البيانات عند عرضها للتفاعل مع المستخدم.
+    - content: تطبيق تم إنشاؤه باستخدام Power Apps لإظهار مستخدمي Dynamics 365 Sales Professional.
+      isCorrect: false
+      explanation: طريقة منظمة لتمثيل البيانات عند عرضها للتفاعل مع المستخدم.

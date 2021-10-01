@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-emails-journey
+metadata:
+  title: إدارة رسائل البريد الإلكتروني والشرائح والرحلات في Dynamics 365 Marketing
+  description: في هذه الوحدة، ستنشئ رحلة عميل وتعمل باستخدام القوالب والشرائح واختبار A/B.
+  ms.date: 05/17/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: de86372b8cdf27166f6dc76be26efe6b37ca3c0e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435452"
+title: إدارة رسائل البريد الإلكتروني والشرائح والرحلات في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة، ستنشئ رحلة عميل وتعمل باستخدام القوالب والشرائح واختبار A/B. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء بريد إلكتروني تسويقي. \n- تشغيل اختبار A/B.\n- إنشاء رحلة العميل.\n- إنشاء شرائح سلوكية ديناميكية من نتائج رحلة العميل.\n- إنشاء قالب رحلة عميل.\n"
+prerequisites: الفهم الكامل لتطبيق Microsoft Dynamics 365 Marketing
+iconUrl: /learn/achievements/manage-emails-journey.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.manage-emails-journey.1-introduction
+- learn-dynamics.manage-emails-journey.2-create-email
+- learn-dynamics.manage-emails-journey.2a-deliver-email
+- learn-dynamics.manage-emails-journey.3-a-b-testing
+- learn-dynamics.manage-emails-journey.4-create-email-template
+- learn-dynamics.manage-emails-journey.5-create-manage-segments
+- learn-dynamics.manage-emails-journey.5a-use-segments-insights
+- learn-dynamics.manage-emails-journey.6-create-customer-journey
+- learn-dynamics.manage-emails-journey.7-a-b-testing-journey
+- learn-dynamics.manage-emails-journey.8-dynamic-segments
+- learn-dynamics.manage-emails-journey.9-customer-journey-template
+- learn-dynamics.manage-emails-journey.10-exercise-customer-journey
+- learn-dynamics.manage-emails-journey.11-check
+- learn-dynamics.manage-emails-journey.12-summary
+badge:
+  uid: learn-dynamics.manage-emails-journey.badge

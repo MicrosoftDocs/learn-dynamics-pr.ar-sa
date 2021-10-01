@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tutorials-sales-insights.5a-custom-action-button-rest
+title: البرنامج التعليمي 5 - أضف زر إجراء مخصص إلى بطاقة الإحصاءات لاستدعاء REST
+metadata:
+  title: البرنامج التعليمي 5 - أضف زر إجراء مخصص إلى بطاقة الإحصاءات لاستدعاء REST
+  description: تعرف على كيفية إنشاء بطاقات نتيجة تحليلات مخصصة من شأنها تشغيل الإجراءات الآلية عن طريق استدعاء نقطة نهاية REST.
+  ms.date: 09/08/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 25e78be4bc4a8a8cc7277397da82ccec89b8258e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436113"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5a-custom-action-button-rest.md)]"

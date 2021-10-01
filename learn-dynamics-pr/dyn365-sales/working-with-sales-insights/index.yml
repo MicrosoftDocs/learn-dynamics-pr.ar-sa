@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.working-with-sales-insights
+metadata:
+  title: العمل مع Dynamics 365 Sales Insights
+  description: يستغرق بناء علاقة قوية وطويلة الأمد مع العميل وقتاً وجهداً. يحتاج مديرو الحسابات إلى التواصل مع العملاء بشكل منتظم والحفاظ على فهم كامل لمن هو هذا العميل وما يحتاجون إليه. تركز هذه الوحدة على Dynamics 365 Embedded Intelligence، والتي يمكن للشركات استخدامها للمساعدة في بناء علاقات العملاء هذه باستخدام ميزاتها مثل مساعد العلاقة والالتقاط التلقائي وتتبع البريد الإلكتروني ورؤى المبيعات.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.custom: testing
+  coverage: testing
+  ms.openlocfilehash: 0974c467ea151cf7e189b81434ec7a982d1df5d4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436214"
+title: العمل مع Dynamics 365 Sales Insights
+summary: "[!include[](../includes/module-banner.md)] \n\nيستغرق بناء علاقة قوية وطويلة الأمد مع العميل وقتاً وجهداً. يحتاج مديرو الحسابات إلى التواصل مع العملاء بشكل منتظم والحفاظ على فهم كامل لمن هو هذا العميل وما يحتاجون إليه. تركز هذه الوحدة على Dynamics 365 Embedded Intelligence، والتي يمكن للشركات استخدامها للمساعدة في بناء علاقات العملاء هذه باستخدام ميزاتها مثل مساعد العلاقة والالتقاط التلقائي وتتبع البريد الإلكتروني ورؤى المبيعات.    \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر وتكوين بطاقات العلاقة المتقدمة.\n- استخدام ميزة الالتقاط التلقائي لتحديد الاتصالات ذات الصلة.\n- تكوين واستهلاك ميزة تتبع البريد الإلكتروني.\n- إعداد ميزة رؤى المبيعات وصحة العلاقة.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/working-with-sales-insights.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.working-with-sales-insights.1-introduction
+- learn-dynamics.working-with-sales-insights.2-assistant-cards
+- learn-dynamics.working-with-sales-insights.3-auto-capture
+- learn-dynamics.working-with-sales-insights.4-email-tracking
+- learn-dynamics.working-with-sales-insights.5-relationship-health
+- learn-dynamics.working-with-sales-insights.6-ai-features
+- learn-dynamics.working-with-sales-insights.7-check
+- learn-dynamics.working-with-sales-insights.8-summary
+badge:
+  uid: learn-dynamics.working-with-sales-insights.badge

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.remotely-monitor-and-service-customer-equipment.1-remotely-monitor-and-service-customer-equipment-overview
+title: متابعة أدوات العملاء وصيانتها عن بُعد
+metadata:
+  title: متابعة أدوات العملاء وصيانتها عن بُعد
+  description: ستركز هذه الوحدة على العملية الشاملة للمراقبة عن بُعد للأجهزة التي تدعم IoT باستخدام حل Connected Field Service مثل تسجيل الجهاز، والعمل مع التنبيهات، وتصميم العمليات لاتخاذ إجراءات محددة.
+  ms.date: 11/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c1263a4175c40be9870501c61475eedb5eabbc75
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434173"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-remotely-monitor-and-service-customer-equipment-overview.md)]

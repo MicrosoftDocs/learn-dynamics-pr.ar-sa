@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.post-go-live-dynamics-365.3-post-go-live
+title: نظرة عامة على ورشة عمل ما بعد العرض المباشر
+metadata:
+  title: نظرة عامة على ورشة عمل ما بعد العرض المباشر
+  description: تعرف على أهداف ورشة العمل وكيفية تطبيقها خلال كل قسم من أقسام الورشة.
+  ms.date: 08/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0153a713ac25f96d545c45908eec598c66e7227e
+  ms.sourcegitcommit: 4efbdca72ca2f229c7b045aae0b506a50c751f07
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431863"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-post-go-live.md)]"

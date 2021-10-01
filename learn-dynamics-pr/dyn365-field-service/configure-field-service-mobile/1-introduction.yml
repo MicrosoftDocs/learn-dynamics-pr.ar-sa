@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-field-service-mobile.1-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة عن تخصيص وتكوينه تطبيق Dynamics 365 Field Service ‏Mobile
+  ms.date: 07/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: 114a6b45e0234dbc98b641f13b86db5207eb266ca04b9a4953477953e4b3f05f
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7433963"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

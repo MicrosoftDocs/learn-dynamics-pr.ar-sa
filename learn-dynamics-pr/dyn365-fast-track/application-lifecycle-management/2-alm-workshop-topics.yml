@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.application-lifecycle-management.2-alm-workshop-topics
+title: موضوعات ورشة عمل إدارة دورة حياة التطبيقات (ALM)
+metadata:
+  title: موضوعات ورشة عمل إدارة دورة حياة التطبيقات (ALM)
+  description: تعلم كيفية تقييم المعلومات وتقديم النتائج والتوصيات.
+  ms.date: 11/04/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 85aaed08bc36921037031141fa13cc773eefb81f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431836"
+durationInMinutes: 45
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-alm-workshop-topics.md)]"

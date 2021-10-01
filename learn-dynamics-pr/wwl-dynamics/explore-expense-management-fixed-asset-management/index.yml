@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics
+metadata:
+  title: استكشاف إدارة المصروفات وإدارة الأصول الثابتة و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
+  description: استكشاف إدارة المصروفات وإدارة الأصول الثابتة و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
+  ms.date: 06/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 08719be5a8634b6526d25156bbfd311a32eeef11
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438722"
+title: استكشاف إدارة المصروفات وإدارة الأصول الثابتة و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
+summary: استكشف النقد وإدارة البنوك، واكتشف الوظائف الأساسية لإدارة المصروفات في Dynamics 365 Project Operations، وتعلم كيفية إدارة الأصول الثابتة، وراجع إمكانات إعداد الموازنة في Dynamics 365 Finance.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   وصف مفاهيم إدارة النقد والبنوك
+
+  *   وصف إدارة المصروفات، بما في ذلك السلف النقدية ومساحات العمل المحمولة
+
+  *   وصف إدارة الأصول الثابتة وإنشاء الأصول الثابتة وحيازتها واستهلاكها
+
+  *   وصف إمكانات إعداد الموازنة
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/dynamics-expense-management-budgeting.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-finance
+units:
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.introduction
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.explore-cash-bank-management-concepts
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.management
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.explore
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.explore-budgeting-capabilities
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.knowledge-check
+- learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.summary
+badge:
+  uid: learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.badge

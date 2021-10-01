@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-models.3-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3accafeb6c92a21cc1138e0d18d02a300b5ed4e3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431790"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الفئتان العامتان اللتان تقومان بعمل نماذج البيانات لبنيات بيانات Microsoft Power Platform وDynamics 365؟
+    choices:
+    - content: نماذج البيانات المنطقية ونماذج البيانات المادية
+      isCorrect: true
+      explanation: تنقسم نماذج البيانات لـ Microsoft Power Platform وDynamics 365 عادةً إلى فئتين عامتين، نماذج البيانات المنطقية ونماذج البيانات المادية.
+    - content: نماذج البيانات العقلية ونماذج البيانات المادية
+      isCorrect: false
+      explanation: تنقسم نماذج البيانات لـ Microsoft Power Platform وDynamics 365 عادةً إلى فئتين عامتين، نماذج البيانات المنطقية ونماذج البيانات المادية.
+    - content: نماذج البيانات العالمية ونماذج البيانات الوطنية
+      isCorrect: false
+      explanation: تنقسم نماذج البيانات لـ Microsoft Power Platform وDynamics 365 عادةً إلى فئتين عامتين، نماذج البيانات المنطقية ونماذج البيانات المادية.
+    - content: نماذج البيانات الإدارية ونماذج بيانات تجربة المستخدم
+      isCorrect: false
+      explanation: تنقسم نماذج البيانات لـ Microsoft Power Platform وDynamics 365 عادةً إلى فئتين عامتين، نماذج البيانات المنطقية ونماذج البيانات المادية.
+  - content: نظراً لأنه يتم إعادة إنشاء جداول نظام الحسابات وجهات الاتصال بسهولة، فهل من الجيد إعادة إنشائها عبر عدة جداول مخصصة للحصول على النظام الذي تحتاجه بالضبط؟
+    choices:
+    - content: نعم، يجب عليك دائماً إعادة إنشاء الجداول المخصصة كلما أمكن ذلك.
+      isCorrect: false
+      explanation: في كل المواقف تقريباً، لا ينبغي أبداً إعادة إنشاء جداول الحساب وجهات الاتصال.
+    - content: نعم، لا تتسبب إعادة إنشاء الجداول المخصصة في حدوث مشكلات.
+      isCorrect: false
+      explanation: في كل المواقف تقريباً، لا ينبغي أبداً إعادة إنشاء جداول الحساب وجهات الاتصال.
+    - content: لا، في كل المواقف تقريباً، لا ينبغي إعادة إنشاء الحسابات وجهات الاتصال.
+      isCorrect: true
+      explanation: في كل المواقف تقريباً، لا ينبغي أبداً إعادة إنشاء جداول الحساب وجهات الاتصال.
+    - content: لا، الجداول المخصصة لا تقدم قيمة.
+      isCorrect: false
+      explanation: في كل المواقف تقريباً، لا ينبغي أبداً إعادة إنشاء جداول الحساب وجهات الاتصال.
+  - content: أي من الأسئلة التالية لا يؤخذ في الاعتبار عند التقاط تفاصيل حول إعدادات التدقيق في بيئة العميل؟
+    choices:
+    - content: هل تحذف سجلات التدقيق بشكل دوري؟
+      isCorrect: false
+      explanation: لن يتم وضع لون قالب سجل التدقيق وتصميمه في الاعتبار لإعدادات التدقيق.
+    - content: هل قمت بتكوين التدقيق؟
+      isCorrect: false
+      explanation: لن يتم وضع لون قالب سجل التدقيق وتصميمه في الاعتبار لإعدادات التدقيق.
+    - content: هل سيتطابق قالب سجل التدقيق مع الشعار ونظام الألوان لمواد التسويق الخاصة بالشركة؟
+      isCorrect: true
+      explanation: لن يتم وضع لون قالب سجل التدقيق وتصميمه في الاعتبار لإعدادات التدقيق.
+    - content: هل لديك عملية قائمة لأرشفة بيانات الحركات بشكل دوري؟
+      isCorrect: false
+      explanation: لن يتم وضع لون قالب سجل التدقيق وتصميمه في الاعتبار لإعدادات التدقيق.

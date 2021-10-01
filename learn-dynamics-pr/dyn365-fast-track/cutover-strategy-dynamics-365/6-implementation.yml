@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.cutover-strategy-dynamics-365.6-implementation
+title: تنفيذ ورشة العمل ومتابعتها
+metadata:
+  title: تنفيذ ورشة العمل ومتابعتها
+  description: تعرف على تنفيذ ورشة العمل والمتابعة.
+  ms.date: 08/11/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d77269e29ed7c40eb5c626a836710bc4d334e668
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431833"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-implementation.md)]"

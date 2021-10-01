@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-data-dynamics-365-model-driven-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 9ee03997f7f46590b121185c125924543d629150
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438778"
+azureSandbox: false
+durationInMinutes: 3
+quiz:
+  questions:
+  - content: أي مما يلي يعتبر كيانًا قياسيًا في Common Data Model؟
+    choices:
+    - content: بائع
+      isCorrect: false
+      explanation: غير صحيح. البائع دور الأمان.
+    - content: العلاقة
+      isCorrect: false
+      explanation: غير صحيح. تمثل العلاقات العلاقة بين كيانين.
+    - content: الفاتورة
+      isCorrect: true
+      explanation: صحيح. الفاتورة عبارة عن كيان قياسي.
+  - content: تتلقى متطلب عمل من أحد العملاء. يحتاج العميل عرض قائمة بجميع سجلات فرصه التي تم فتحها في العام الماضي، ويلزم عرضها على لوحة معلومات. ما الذي يجب تكوينه للعميل؟
+    choices:
+    - content: عرض بعامل تصفية مخصص
+      isCorrect: true
+      explanation: صحيح. العرض بعامل التصفية "تم الإنشاء في"، وتتم تصفيته حسب العام الماضي، سوف يفي بهذا المطلب.
+    - content: عرض يتضمن فرزًا مخصصًا
+      isCorrect: false
+      explanation: غير صحيح. لن يقتصر هذا العرض على سجلات الفرص التي تم إنشاؤها في العام الماضي.
+    - content: كيان مخصص يسمى "الفرص الأخيرة"
+      isCorrect: false
+      explanation: غير صحيح. لا يحتاج العميل إلى كيان جديد؛ إنه ببساطة يحتاج إلى أن يكون قادرًا على عرض مجموعة فرعية من سجلات الكيان الحالي.
+  - content: تتلقى متطلب عمل من أحد العملاء. إنه يحتاج إلى فريق الجدولة الخاص به للتنقل خلال عملية محددة عند إعداد مريض جديد في نظامه. تتضمن هذه العملية إدخال بيانات محددة خلال 3 مكالمات هاتفية مختلفة. ما الذي يتعين عليك تكوينه لضمان اتباع المجدولين لهذه العملية المحددة؟
+    choices:
+    - content: قاعدة العمل
+      isCorrect: false
+      explanation: غير صحيح. قواعد العمل هي عمليات تلقائية بسيطة لتطبيق منطق أعمال، مثل تعيين قيم الحقول.
+    - content: سير إجراءات العمل
+      isCorrect: true
+      explanation: صحيح. تحدد ‏‫عمليات سير إجراءات العمل مجموعة من الخطوات لكي يتبعها المستخدمون.
+    - content: دور الأمان
+      isCorrect: false
+      explanation: غير صحيح. يحدد دور الأمان الامتيازات ومستويات الوصول للمستخدمين.

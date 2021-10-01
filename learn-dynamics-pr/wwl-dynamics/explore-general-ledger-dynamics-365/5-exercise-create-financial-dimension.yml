@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-general-ledger-dynamics-365.exercise-create-financial-dimension
+title: 'المعمل: إنشاء بُعد مالي مخصص'
+metadata:
+  title: 'المعمل: إنشاء بُعد مالي مخصص'
+  description: 'المعمل: إنشاء بُعد مالي مخصص'
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: a4e0e9444975debcbff9acf7ebb1376e8dd5d6a5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438529"
+azureSandbox: false
+labId: 88383
+labModal: true
+durationInMinutes: 15
+content: '[!include[](includes/5-exercise-create-financial-dimension.md)]'

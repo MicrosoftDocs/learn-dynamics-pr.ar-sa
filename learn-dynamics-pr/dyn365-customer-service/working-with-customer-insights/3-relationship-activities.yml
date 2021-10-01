@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.working-with-customer-insights.3-relationship-activities
+title: تحديد العلاقات والأنشطة
+metadata:
+  title: تحديد العلاقات والأنشطة
+  description: تعرف على تحديد العلاقات والأنشطة.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 31b0c2e6e2f08eb944af05938d717e0bafa4cddd
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7440088"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-relationship-activities.md)]"

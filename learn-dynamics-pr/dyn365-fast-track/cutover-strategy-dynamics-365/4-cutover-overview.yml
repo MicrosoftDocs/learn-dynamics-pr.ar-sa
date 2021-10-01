@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.cutover-strategy-dynamics-365.4-cutover-overview
+title: نظره عامة على ورشة عمل استراتيجية التكوين المرحلي
+metadata:
+  title: نظره عامة على ورشة عمل استراتيجية التكوين المرحلي
+  description: تعرف على نظرة عامة على ورشة عمل استراتيجية التكوين المرحلي.
+  ms.date: 08/11/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ec0955a338e89ede4625063cc18cc1a5d9fb83af
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431837"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-cutover-overview.md)]"

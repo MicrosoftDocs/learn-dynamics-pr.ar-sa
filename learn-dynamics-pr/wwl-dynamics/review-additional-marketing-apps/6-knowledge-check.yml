@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.review-additional-marketing-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/21/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: fc5521caeec64e24a697f52111dd15021ba6501e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438748"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  questions:
+  - content: أي من التطبيقات التالية يقترن مع Dynamics 365 Marketing للمساعدة في إنشاء استطلاعات عبر الإنترنت وتحليل النتائج؟
+    choices:
+    - content: Customer Voice
+      isCorrect: true
+      explanation: صحيح. يتيح لك Dynamics 365 Customer Voice إنشاء استطلاعات عبر الإنترنت ويوفر خيارات التحليل.
+    - content: LinkedIn Campaign Manager
+      isCorrect: false
+      explanation: غير صحيح. يتيح لك LinkedIn Campaign Manager إنشاء حملات وإدارتها في LinkedIn.
+    - content: Customer Insights
+      isCorrect: false
+      explanation: غير صحيح. يُستخدم Customer Insights لتوحيد بيانات العميل من مصادر بيانات متعددة في ملف تعريف واحد.
+  - content: ترغب في إنشاء شرائح عملاء بناءً على اهتمامات العملاء وانتماءاتهم للعلامة التجارية. أي من التطبيقات التالية يستخدم هذه المعلومات للمساعدة في إنشاء شرائح العملاء ويمكنه استيرادها إلى Dynamics 365 Marketing؟
+    choices:
+    - content: LinkedIn Campaign Manager
+      isCorrect: false
+      explanation: غير صحيح. إن LinkedIn Campaign أداة مخصصة لإنشاء الحملات الإعلانية وإدارتها في LinkedIn.
+    - content: Customer Voice
+      isCorrect: false
+      explanation: غير صحيح. Dynamics 365 Customer Voice مخصص لإنشاء الاستطلاعات عبر الإنترنت.
+    - content: Customer Insights
+      isCorrect: true
+      explanation: صحيح. تتضمن رؤى العملاء القدرة على إثراء بيانات العملاء بأصناف مثل الانتماءات للعلامات التجارية والاهتمامات بها. يمكن إنشاء الشرائح بناءً على هذه البيانات ويمكن استيرادها إلى Dynamics 365 Marketing.
+  - content: أي من التطبيقات التالية يتيح لك إنشاء إعلانات LinkedIn لالتقاط العملاء المحتملين وتحديدهم باستخدام Dynamics 365 Marketing؟
+    choices:
+    - content: Customer Voice
+      isCorrect: false
+      explanation: غير صحيح. Dynamics 365 Customer Voice مخصص لإنشاء الاستطلاعات عبر الإنترنت.
+    - content: Customer Insights
+      isCorrect: false
+      explanation: غير صحيح. يجمع Customer Insights البيانات المتعلقة بالحركات والبيانات السلوكية والديموغرافية لمؤسستك عبر جميع مستودعات بياناتك.
+    - content: LinkedIn Campaign Manager
+      isCorrect: true
+      explanation: صحيح. إن LinkedIn Campaign Manager أداة مخصصة لإنشاء الحملات الإعلانية وإدارتها في LinkedIn. يمكن استيراد العملاء المتوقعين الذين تم الحصول عليهم من هذه الحملات إلى Dynamics 365 Marketing.

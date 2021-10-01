@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.bi-analytics-design-dynamics-365.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تصميم التحليلات والمعلومات المهنية لحلول Dynamics 365.
+  ms.date: 07/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-fastrack
+  ms.openlocfilehash: 2d0b44c36743376b772c1174a737e5e488d6cc496697ad9b9f5938b90e8b8e74
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431721"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

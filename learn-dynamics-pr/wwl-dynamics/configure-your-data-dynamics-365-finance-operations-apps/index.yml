@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn.wwl.configure-your-data-dynamics-365-finance-operations-apps
+metadata:
+  title: تكوين بياناتك في تطبيقات Dynamics 365 Finance and Operations
+  description: تكوين بياناتك في تطبيقات Dynamics 365 Finance and Operations
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: f1912638591f1c16731923239bbe7fe8193dd539
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438660"
+title: تكوين بياناتك في تطبيقات Finance and Operations
+summary: لقد تعلمنا أن هناك خيارات مختلفة في تحديث البيانات. تم تصميم Dynamics للتكامل بسلاسة مع منتجات Office.
+abstract: >
+  وفي نهاية هذه الوحدة، سيتمكن المتعلمون من:
+
+  - تعديل كيان
+
+  - إضافة الأمان إلى المستخدم
+
+  - تنزيل البيانات إلى Excel وتحديثها وتحميلها
+prerequisites: >
+  - يوصى باستخدام MB-901: Microsoft Dynamics 365 Fundamentals
+
+  - تكوين التطبيقات في Finance and Operations - الوحدة 01 - ابدأ بالتكوين والتخصيص في تطبيقات Finance and Operations
+
+  - تكوين التطبيقات في Finance and Operations - الوحدة 02 - تكوين واجهة المستخدم الخاصة بك في تطبيقات Finance and Operations
+iconUrl: /learn/achievements/configure-your-data-dynamics-365-finance-operations-apps.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-human-resources
+- dynamics-scm
+units:
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.introduction
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.create-entities
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.manage-security
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.integrate-office
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.knowledge-check
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.exercise-create-data-entity
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.exercise-use-excel-view-update-data
+- learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.summary
+badge:
+  uid: learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.badge

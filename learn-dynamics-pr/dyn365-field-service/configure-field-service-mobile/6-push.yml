@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-field-service-mobile.6-push
+title: تكوين الإخطارات المؤقتة
+metadata:
+  title: تكوين الإخطارات المؤقتة
+  description: تعرّف على كيفية تكوين الإخطارات المؤقتة.
+  ms.date: 07/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: aff5ed39611da364d9934cd2ab04661fe0048a9bb087d26aae9d6575df3d07b3
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7433989"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-push.md)]"

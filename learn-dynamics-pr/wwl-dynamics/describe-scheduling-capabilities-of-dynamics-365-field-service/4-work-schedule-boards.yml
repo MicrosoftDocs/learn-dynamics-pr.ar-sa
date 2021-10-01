@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-scheduling-capabilities-of-dynamics-365-field-service.work-with-schedule-board
+title: العمل باستخدام لوحة الجدولة
+metadata:
+  title: العمل باستخدام لوحة الجدولة
+  description: العمل باستخدام لوحة الجدولة
+  ms.date: 07/22/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: 3134574c62032c2e0b1df89544a89382d19ebed8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438744"
+azureSandbox: false
+durationInMinutes: 14
+content: '[!include[](includes/4-work-schedule-boards.md)]'

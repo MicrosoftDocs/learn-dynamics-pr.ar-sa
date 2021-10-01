@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-bizapps.identify-exceptions-with-connected-field-service
+metadata:
+  title: تحديد الاستثناءات باستخدام Connected Field Service لـ Dynamics 365 وAzure IoT
+  description: ستركز هذه الوحدة على الكشف الاستباقي عن الحالات التي بها عيوب في قياس تتبع استخدام جهاز IoT.  إضافة إلى ذلك، ستغطي هذه الوحدة تخصيص مكونات Connected Field Service للتعامل مع قياس تتبع الاستخدام المختلف من الجهاز وخيارات تخزين بيانات التفاصيل للتحليل المستقبلي.
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2bb350ea8f069b0c9fd49be9ff2a84c667aaac74
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434183"
+title: تحديد الاستثناءات باستخدام Connected Field Service لـ Dynamics 365 وAzure IoT
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  ستركز هذه الوحدة على الكشف الاستباقي عن الحالات التي بها عيوب في قياس تتبع استخدام جهاز IoT.  إضافة إلى ذلك، ستغطي هذه الوحدة تخصيص مكونات Connected Field Service للتعامل مع قياس تتبع الاستخدام المختلف من الجهاز وخيارات تخزين بيانات التفاصيل للتحليل المستقبلي.
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - وصف نقاط ملحق البنية لاكتشاف الاستثناءات والعمل
+
+  - توصيل جهاز لإنشاء قياس تتبع الاستخدام
+
+  - الكشف عن الحالات التي بها عيوب في بث قياس تتبع الاستخدام
+
+  - خيارات التمييز لتخزين بيانات قياس تتبع استخدام التفاصيل للاستخدام اللاحق
+prerequisites: MXChip IoT DevKit لإكمال التمرين المعملي.
+iconUrl: /learn/achievements/identify-exceptions-with-connected-field-service.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+- azure
+- azure-iot-central
+units:
+- learn-bizapps.identify-exceptions-with-connected-field-service.1-identify-exceptions-with-connected-field-service-overview
+- learn-bizapps.identify-exceptions-with-connected-field-service.2-connect-to-a-device
+- learn-bizapps.identify-exceptions-with-connected-field-service.3-detail-telemetry-storage
+- learn-bizapps.identify-exceptions-with-connected-field-service.4-identify-exceptions
+- learn-bizapps.identify-exceptions-with-connected-field-service.5-options-for-anomaly-detection
+- learn-bizapps.identify-exceptions-with-connected-field-service.6-anomaly-detection
+- learn-bizapps.identify-exceptions-with-connected-field-service.7-knowledge-check
+- learn-bizapps.identify-exceptions-with-connected-field-service.8-summary-and-cleanup
+badge:
+  uid: learn.identify-exceptions-with-connected-field-service.badge

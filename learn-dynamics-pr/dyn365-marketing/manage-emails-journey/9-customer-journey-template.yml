@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-emails-journey.9-customer-journey-template
+title: إنشاء قالب رحلة عميل
+metadata:
+  title: إنشاء قالب رحلة عميل
+  description: تعرّف علي كيفيه إنشاء قالب رحلة العميل في Dynamics 365 Marketing.
+  ms.date: 05/17/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f87b2d38e477e36d9569a982cf9e20be01ae4088
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435508"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-customer-journey-template.md)]"

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.remote-assist.3-devices
+title: مقارنة خيارات الجهاز المختلفة
+metadata:
+  title: مقارنة خيارات الجهاز المختلفة
+  description: تعرف على خيارات الجهاز المختلفة.
+  ms.date: 6/1/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0967ebd5c5704e835fee33cda3b48face4d457fd
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434198"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-devices.md)]"

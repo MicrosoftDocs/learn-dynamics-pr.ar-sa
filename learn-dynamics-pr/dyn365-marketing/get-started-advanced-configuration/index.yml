@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-bizapps.get-started-advanced-configuration
+metadata:
+  title: التكوين المتقدم لتطبيق Dynamics 365 Marketing
+  description: يستخدم المسؤولون الإعدادات المتقدمة لتحسين سلوك التطبيق وتعيين الإعدادات الافتراضية والتحقق من الحصص النسبية‬ وإدارة ميزات الحدث وغيرها.
+  ms.date: 04/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8453d647f14228ef4791bbacffcb84578dc55714
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435344"
+title: التكوين المتقدم لتطبيق Dynamics 365 Marketing
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يستخدم المسؤولون الإعدادات المتقدمة لتحسين سلوك التطبيق وتعيين الإعدادات الافتراضية والتحقق من الحصص النسبية‬ وإدارة ميزات الحدث وغيرها.
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - تكوين الإعدادات المتقدمة، ومنها الإعدادات الخاصة بالمؤسسة وإدارة الأعمال والتسويق وإدارة الأحداث.
+
+  - مراجعة حدود الحصة النسبية.
+
+  - إدارة المحتوى التسويقي، مثل الصور والكلمات الأساسية ومجموعات المحتوى القابل لإعادة الاستخدام ومقاطع الفيديو.
+
+  - إدارة القوالب.
+
+  - دمج Microsoft Dynamics 365 Marketing مع LinkedIn.
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 وفهم أساسي لتطبيق Marketing application
+iconUrl: /learn/achievements/advanced-configuration-marketing.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-bizapps.get-started-advanced-configuration.1-accessing-advanced-settings
+- learn-bizapps.get-started-advanced-configuration.2-overview-settings
+- learn-bizapps.get-started-advanced-configuration.3-email-marketing-settings
+- learn-bizapps.get-started-advanced-configuration.4-engage-customers
+- learn-bizapps.get-started-advanced-configuration.5-configuring-event-management-settings
+- learn-bizapps.get-started-advanced-configuration.6-lead-management
+- learn-bizapps.get-started-advanced-configuration.7-data-management
+- learn-bizapps.get-started-advanced-configuration.8-other-settings
+- learn-bizapps.get-started-advanced-configuration.9-knowledge-check
+- learn-bizapps.get-started-advanced-configuration.10-summary
+badge:
+  uid: learn.get-started-advanced-configuration.badge

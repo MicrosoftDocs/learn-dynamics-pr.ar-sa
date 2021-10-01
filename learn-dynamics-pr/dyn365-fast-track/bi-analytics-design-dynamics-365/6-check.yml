@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.bi-analytics-design-dynamics-365.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-fastrack
+  ms.openlocfilehash: 94e0aff16646be4e247b1983ee04514de755cbe33ad8bcd764aa591754a2f2a3
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431752"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: اي من الخيارات التالية ليست جزءا من استراتيجية الحل لمعلومات الاعمال والتحليلات الخاصة بها ؟
+    choices:
+    - content: أمان البيانات
+      isCorrect: false
+      explanation: يعد هذا الخيار جزءاً من استراتيجية الحل لذكاء الأعمال والتحليلات.
+    - content: التقارير الاستراتيجية
+      isCorrect: false
+      explanation: يعد هذا الخيار جزءاً من استراتيجية الحل لذكاء الأعمال والتحليلات.
+    - content: استراتيجية الطباعة
+      isCorrect: false
+      explanation: يعد هذا الخيار جزءاً من استراتيجية الحل لذكاء الأعمال والتحليلات.
+    - content: مراجعة تخطيط Success by Design
+      isCorrect: true
+      explanation: لا يعد هذا الخيار جزءاً من استراتيجية الحل لذكاء الأعمال والتحليلات.
+  - content: من الذي ينبغي عليه تسهيل ورشة عمل تصميم ذكاء الأعمال والتحليلات؟
+    choices:
+    - content: مهندس الحلول
+      isCorrect: true
+      explanation: سيقوم مهندس الحلول بتسهيل الورشة.
+    - content: مدير قسم المعلومات للعميل
+      isCorrect: false
+      explanation: يجب أن يقدم مدير قسم المعلومات الخاص بالعميل التوجيه، ولكن كمشارك في ورشة العمل تحت إشراف مهندس الحلول.
+    - content: المستشار الوظيفي
+      isCorrect: false
+      explanation: من المحتمل ان يقوم المستشار الوظيفي بالحضور في الورشة سيعمل علي النتائج. ومع ذلك، يتم led الورشة بواسطة مهندس الحلول.
+    - content: مدير المشروع
+      isCorrect: false
+      explanation: قد يحضر مدير المشروع الورشة وحتى العمل علي النتائج. ومع ذلك، يتم led الورشة بواسطة مهندس الحلول.
+  - content: ما مرحلة Success by Design التي ينبغي اجراء الورشة المهنية والتصميم لها؟
+    choices:
+    - content: التصميم
+      isCorrect: true
+      explanation: يجب إجراء ورشة عمل تصميم ذكاء الأعمال والتحليلات في أقرب وقت من بداية مرحلة التصميم لأنك قمت بالفعل بجمع المتطلبات وبدأت في التخطيط لاستراتيجيات الحلول.
+    - content: إنشاء
+      isCorrect: false
+      explanation: من المتوقع ان تقوم بتقييم قرارات المعلومات المهنية اثناء قيامك بالإنشاء، لكن القرارات تمت بالفعل عمل بواسطة مرحله التصميم.
+    - content: الشروع في العمل
+      isCorrect: false
+      explanation: يجب اجراء معظم القرارات، إذا لم تكن جميعها، وكانت قرارات المعلومات المهنية قبل مرحله التجهيز.
+    - content: توزيع
+      isCorrect: false
+      explanation: يجب اجراء معظم القرارات، إذا لم تكن جميعها، وكانت قرارات المعلومات المهنية قبل مرحلة النشر.

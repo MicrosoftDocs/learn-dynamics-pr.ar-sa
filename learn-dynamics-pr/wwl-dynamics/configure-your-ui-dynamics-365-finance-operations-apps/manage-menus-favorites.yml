@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-menus-favorites
+title: 'إدارة القوائم: المفضلة'
+metadata:
+  title: 'إدارة القوائم: المفضلة'
+  description: 'إدارة القوائم: المفضلة'
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 0971ed1e48b734511d4358821ba2b66a0efbaa36
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438530"
+azureSandbox: false
+durationInMinutes: 1
+content: '[!include[](includes/2-manage-menus-favorites.md)]'

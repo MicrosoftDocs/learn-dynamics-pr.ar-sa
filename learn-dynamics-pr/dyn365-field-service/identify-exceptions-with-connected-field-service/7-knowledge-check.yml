@@ -1,0 +1,88 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.identify-exceptions-with-connected-field-service.7-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e0571f79b15a9cac41af3dd93fe2f35907dd7a6e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434200"
+title: اختبر معلوماتك
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي مما يلي يجب تعديله لتغيير القواعد المستخدمة لرفع التنبيهات مع تطبيق قالب Connected Field Service؟
+    choices:
+    - content: Dynamics 365
+      explanation: تُستخدم وظيفة Azure Stream Analytics لتغيير القواعد لرفع التنبيهات مع Connected Field Service.
+      isCorrect: false
+    - content: قواعد توجيه IoT Hub
+      explanation: تُستخدم وظيفة Azure Stream Analytics لتغيير القواعد لرفع التنبيهات مع Connected Field Service.
+      isCorrect: false
+    - content: وظيفة Azure Stream Analytics
+      explanation: تُستخدم وظيفة Azure Stream Analytics لتغيير القواعد لرفع التنبيهات مع Connected Field Service.
+      isCorrect: true
+    - content: Azure Cosmos DB
+      explanation: تُستخدم وظيفة Azure Stream Analytics لتغيير القواعد لرفع التنبيهات مع Connected Field Service.
+      isCorrect: false
+    - content: أصل العميل‬
+      explanation: تُستخدم وظيفة Azure Stream Analytics لتغيير القواعد لرفع التنبيهات مع Connected Field Service.
+      isCorrect: false
+  - content: من أجل إضافة الحقول الإضافية إلى بيانات التنبيه بشأن "IoT Alert" في Dynamics 365 ماذا تحتاج للتعديل أو الإنشاء؟
+    choices:
+    - content: إن عبارة Select Into من أجل AlertQueue
+      explanation: عدّل عبارة Select Into من أجل AlertQueue لإضافة حقول إضافية إلى "بيانات التنبيه".
+      isCorrect: true
+    - content: إن Logic App يعالج AlertQueue
+      explanation: عدّل عبارة Select Into من أجل AlertQueue لإضافة حقول إضافية إلى "بيانات التنبيه".
+      isCorrect: false
+    - content: إنشاء Azure Function لإضافة البيانات الإضافية
+      explanation: عدّل عبارة Select Into من أجل AlertQueue لإضافة حقول إضافية إلى "بيانات التنبيه".
+      isCorrect: false
+    - content: إنشاء سير عمل من أجل تشغيل IoT Alert عند الإنشاء
+      explanation: عدّل عبارة Select Into من أجل AlertQueue لإضافة حقول إضافية إلى "بيانات التنبيه".
+      isCorrect: false
+    - content: لا تستطيع تعديل البيانات المخزنة في حقل "بيانات التنبيه"
+      explanation: عدّل عبارة Select Into من أجل AlertQueue لإضافة حقول إضافية إلى "بيانات التنبيه".
+      isCorrect: false
+  - content: عند وجود قواعد ثابتة ومعالجة عديمة الحالة لكشف الحالات غير العادي وترغب في تبسيط إنشاء IoT Alerts، ما البديل؟
+    choices:
+    - content: استبدال العملية الحالية بسير عمل في Dynamics 365 لاستيعاب بيانات الجهاز وتقييمها
+      explanation: تبسيط إنشاء IoT Alerts مع سير عمل Dynamics 365.
+      isCorrect: true
+    - content: إن Logic App يعالج AlertQueue
+      explanation: تبسيط إنشاء IoT Alerts مع سير عمل Dynamics 365.
+      isCorrect: false
+    - content: إنشاء Azure Function لإضافة البيانات الإضافية
+      explanation: تبسيط إنشاء IoT Alerts مع سير عمل Dynamics 365.
+      isCorrect: false
+    - content: إنشاء سير عمل من أجل تشغيل IoT Alert عند الإنشاء
+      explanation: تبسيط إنشاء IoT Alerts مع سير عمل Dynamics 365.
+      isCorrect: false
+    - content: لا تستطيع تعديل البيانات المخزنة في حقل "بيانات التنبيه"
+      explanation: تبسيط إنشاء IoT Alerts مع سير عمل Dynamics 365.
+      isCorrect: false
+  - content: ما الواجب فعله لتتمكن من تعديل وظيفة Azure Stream Analytics لتغيير المعايير؟
+    choices:
+    - content: تعطيل crm-to-IotHub Logic App
+      explanation: عليك إيقاف وظيفة Stream Analytics لتعديل Azure Stream Analytics.
+      isCorrect: false
+    - content: تعطيل iot-to-crm Logic App
+      explanation: عليك إيقاف وظيفة Stream Analytics لتعديل Azure Stream Analytics.
+      isCorrect: false
+    - content: حذف وظيفة Stream Analytics وإعادة إنشائها
+      explanation: عليك إيقاف وظيفة Stream Analytics لتعديل Azure Stream Analytics.
+      isCorrect: false
+    - content: إيقاف وظيفة Stream Analytics
+      explanation: عليك إيقاف وظيفة Stream Analytics لتعديل Azure Stream Analytics.
+      isCorrect: true
+    - content: وضع Dynamics 365 في وضع المسؤول
+      explanation: عليك إيقاف وظيفة Stream Analytics لتعديل Azure Stream Analytics.
+      isCorrect: false

@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.data-migration
+metadata:
+  title: إنشاء استراتيجية ترحيل بيانات لحلول Dynamics 365
+  description: الهدف الشامل من إطار عمل Success by Design الشامل هو ضمان نتيجة عملاء ناجحة لكل تطبيق. تم تصميم ورشة استراتيجية ترحيل البيانات للمساعدة في التأكد من أن الأسلوب الخاص بترحيل البيانات هو عنوان النجاح.
+  ms.date: 07/20/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 404615d91419679707e3b5082c879e10cdbb909e
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431876"
+title: إنشاء استراتيجية ترحيل بيانات لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nالهدف الشامل من إطار عمل Success by Design الشامل هو ضمان نتيجة عملاء ناجحة لكل تطبيق. تم تصميم ورشة استراتيجية ترحيل البيانات للمساعدة في التأكد من أن الأسلوب الخاص بترحيل البيانات هو عنوان النجاح. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على أفضل ممارسات ترحيل البيانات.\n- اكتشف كيفية ارتباط ترحيل البيانات بمشروع وكيف يمكن أن يؤثر على أحد المشاريع.\n- تعرف على كيفية التحضير لورشة عمل استراتيجية ترحيل البيانات وإدارتها.\n"
+prerequisites: >
+  - الفهم الأساسي لترحيل البيانات
+
+  - المعرفة بالمستشار الوظيفي والمطور
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
+
+  - تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)
+iconUrl: /learn/achievements/data-migration.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.data-migration.1-introduction
+- learn-dynamics.data-migration.2-power-platform-dynamics-365
+- learn-dynamics.data-migration.3-workshop
+- learn-dynamics.data-migration.4-workshop-topics
+- learn-dynamics.data-migration.5-check
+- learn-dynamics.data-migration.6-summary
+badge:
+  uid: learn-dynamics.data-migration.badge

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.generate-work-orders-dynamics-365-field-service.describe-how-incident-types-are-used
+title: وصف كيفية استخدام أنواع الحوادث في Dynamics 365 Field Service
+metadata:
+  title: وصف كيفية استخدام أنواع الحوادث في Dynamics 365 Field Service
+  description: وصف كيفية استخدام أنواع الحوادث في Dynamics 365 Field Service
+  ms.date: 08/10/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 8bd13c06a62c9ed2ce98358385382834be4aed8b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438564"
+azureSandbox: false
+durationInMinutes: 3
+content: '[!include[](includes/5-describe-how-incident-types-used.md)]'

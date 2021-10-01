@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tutorials-sales-insights.5-create-reminder
+title: البرنامج التعليمي 4 - إنشاء تذكير لإغلاق الفرص قريباً
+metadata:
+  title: البرنامج التعليمي 4 - إنشاء تذكير لإغلاق الفرص قريباً
+  description: خطوات إنشاء تذكير لإغلاق الفرص قريباً.
+  ms.date: 09/08/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c3f73d8375d4840b72ad05b88dad4abda900a6c2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436168"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-create-reminder.md)]"

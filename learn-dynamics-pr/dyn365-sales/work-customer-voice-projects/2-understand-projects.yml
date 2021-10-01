@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-customer-voice-projects.2-understand-projects
+title: مشروعات في Dynamics 365 Customer Voice
+metadata:
+  title: مشروعات في Dynamics 365 Customer Voice
+  description: تعرف على المشروعات في Dynamics 365 Customer Voice.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 81545485ac058f4ce00848dd7cdeb2c529183068
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436254"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-understand-projects.md)]"

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.working-with-customer-insights
+metadata:
+  title: العمل باستخدام Dynamics 365 Customer Insights
+  description: تعرف على كيفية العمل مع Customer Insights.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 69690dde64b761e05e134930749fc4da39083f20
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7440084"
+title: العمل باستخدام Dynamics 365 Customer Insights
+summary: "[!include[](../includes/module-banner.md)] \n\nCustomer Insights يستوعب البيانات من جميع مصادر البيانات المختلفة ويوحدها في ملف تعريف عميل واحد. في هذه الوحدة النمطية، تعرف على كيفية العمل مع Customer Insights. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تكوين فهارس البحث والتصفية.\n- تحديد العلاقات والأنشطة.\n- العمل مع المقاييس.\n- استخدام Customer Insights. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/working-with-customer-insights.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-analyst
+- data-analyst
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-cust-insights
+units:
+- learn-dynamics.working-with-customer-insights.1-introduction
+- learn-dynamics.working-with-customer-insights.2-search-filter
+- learn-dynamics.working-with-customer-insights.3-relationship-activities
+- learn-dynamics.working-with-customer-insights.5-measures
+- learn-dynamics.working-with-customer-insights.6-segmentation
+- learn-dynamics.working-with-customer-insights.6-5-segment-insights
+- learn-dynamics.working-with-customer-insights.7-solution
+- learn-dynamics.working-with-customer-insights.8-check
+- learn-dynamics.working-with-customer-insights.9-summary
+badge:
+  uid: learn-dynamics.working-with-customer-insights.badge

@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management
+metadata:
+  title: استكشاف إستراتيجيات التصنيع في Microsoft Dynamics 365 Supply Chain Management
+  description: استكشاف إستراتيجيات التصنيع في Microsoft Dynamics 365 Supply Chain Management
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 7907d77fc5080446f3979b07c7d690c09d01a595
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438772"
+title: استكشاف إستراتيجيات التصنيع في Microsoft Dynamics 365 Supply Chain Management
+summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain Management المستخدمة في تنفيذ استراتيجيات التصنيع والأدوات المستخدمة لإدارة حالة إنتاج المحل.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   وصف استراتيجيات التصنيع بما في ذلك التصنيع حسب الطلب (MTO)، والتصنيع للتخزين (MTS)، والتكوين حسب الطلب (CTO)
+
+  *   وصف عمليات تتبع العناصر وتعقبها
+
+  *   وصف الأدوات التي يمكن استخدامها لإدارة أرضيات المتاجر
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/explore-manufacturing-strategies-microsoft-dynamics-365-supply.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-scm
+units:
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.introduction
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.explore-manufacturing-strategies
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.explore-item-tracking-tracing-processes
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.explore-shop-floor-management-tools
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.exercise-identify-production-orders-from-workspace
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.knowledge-check
+- learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.summary
+badge:
+  uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.badge

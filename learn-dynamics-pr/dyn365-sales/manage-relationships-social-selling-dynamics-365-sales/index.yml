@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.relationship-management-and-social-selling
+metadata:
+  title: إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales
+  description: تعرف على كيفية إدارة العلاقات باستخدام Dynamics 365 Sales.
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 37d3efd8542a4c267746327c1c25ad3f3829e4e8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436175"
+title: إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يتعلق البيع اليوم ببناء علاقات طويلة الأمد مع العملاء. يجب أن يراك العملاء كمستشار موثوق به يمكنهم الرجوع إليه عندما يحتاجون إلى التوجيه. يتعلق بناء العلاقات بمعرفة من هم عملاؤك وما يحتاجون إليه ومتى تتفاعل معهم. يعد Microsoft Social Engagement وLinkedIn Sales Navigator أمثلة على التطبيقات التي يمكنك دمجها مع Dynamics 365 لبناء هذه العلاقات.  بالإضافة إلى ذلك، فإن معرفة أي لعبة مبيعات يتم تنفيذها بناءً على مواقف محددة وفهم الصحة العامة لعلاقة العميل بمؤسستك يمكن أن يساعد في زيادة حجم وكمية المبيعات.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف أفضل الممارسات\n- العمل مع قواعد المبيعات\n- إدارة صحة العلاقة باستخدام Sales Insights\n- التعرف على ميزات Sales Navigator\n"
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء الحالات وإدارتها أو إنشاء العملاء المتوقعين والفرص وإدارتها.
+iconUrl: /learn/achievements/manage-relationships-social-selling-d365-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.relationship-management-and-social-selling.1-overview
+- learn-dynamics.relationship-management-and-social-selling.2-enforce-best-practices-with-playbooks
+- learn-dynamics.relationship-management-and-social-selling.3-manage-relationship-health-with-sales-insights
+- learn-dynamics.relationship-management-and-social-selling.4-social-selling-assistant
+- learn-dynamics.relationship-management-and-social-selling.5-sales-navigator
+- learn-dynamics.relationship-management-and-social-selling.6-managing-relationships-with-playbooks-and-sales-insights
+- learn-dynamics.relationship-management-and-social-selling.7-knowledge-check
+- learn-dynamics.relationship-management-and-social-selling.8-summary
+badge:
+  uid: learn-dynamics.relationship-management-social-selling-d365-sales.badge

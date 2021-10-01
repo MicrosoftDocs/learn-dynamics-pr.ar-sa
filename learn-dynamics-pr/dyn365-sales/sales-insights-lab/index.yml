@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.tutorials-sales-insights
+metadata:
+  title: البرامج التعليمية لاستوديو المساعد في Dynamics 365 Sales Insights
+  description: يمكن أن يؤدي عرض الأفكار الصحيحة في الوقت المناسب إلى إحداث فرق كبير في الإنتاجية. من المهم تقديم رؤى ذات صلة للبائعين وهي أيضاً مهمة صعبة. توفر Sales Insights العديد من الأفكار المبتكرة من خلال مساعد العلاقة، ولكن بمرور الوقت اكتشفنا أن كل مؤسسة وكل فريق مبيعات مختلف. للمساعدة في ضمان استمرار ارتباط المساعد، سمحنا لك بإضافة رؤى مخصصة وعرضها لفرقك. باستخدام Microsoft Power Automate، يسمح لك استوديو المساعد بإنشاء رؤى من خلال رمز منخفض بدون رمز. في هذه الوحدة، ستتعلم كيفية إنشاء رؤى مخصصة متنوعة باستخدام Power Automate. تساعدك البرامج التعليمية التالية على البدء برؤية أساسية مخصصة، معادل مرحباً بالعالم، ونعمل تدريجياً على زيادة التعقيد بينما نمضي قدماً.
+  ms.date: 09/08/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 18167f02613a1b03b89d94ed5f299cdbbd92989f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436141"
+title: البرامج التعليمية لاستوديو المساعد في Dynamics 365 Sales Insights
+summary: "[!include[](../includes/module-banner.md)] \n\nيمكن أن يؤدي عرض الأفكار الصحيحة في الوقت المناسب إلى إحداث فرق كبير في الإنتاجية. من المهم تقديم رؤى ذات صلة للبائعين وهي أيضاً مهمة صعبة. توفر Sales Insights العديد من الأفكار المبتكرة من خلال مساعد العلاقة، ولكن بمرور الوقت اكتشفنا أن كل مؤسسة وكل فريق مبيعات مختلف. للمساعدة في ضمان استمرار ارتباط المساعد، سمحنا لك بإضافة رؤى مخصصة وعرضها لفرقك. باستخدام Microsoft Power Automate، يسمح لك استوديو المساعد بإنشاء رؤى من خلال رمز منخفض بدون رمز. \n\nفي هذه الوحدة، ستتعلم كيفية إنشاء رؤى مخصصة متنوعة باستخدام Power Automate. تساعدك البرامج التعليمية التالية على البدء برؤية أساسية مخصصة، معادل مرحباً بالعالم، ونعمل تدريجياً على زيادة التعقيد بينما نمضي قدماً. \n  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء بطاقة معلومات أساسية.\n- إنشاء نموذج رؤى.\n- تكوين رؤى أسبوعية.\n- إنشاء رؤى تذكير.\n"
+prerequisites: مؤسسة Dynamics 365 Sales مثبتة عليها [Sales Insights](https://aka.ms/buysalesai/?azure-portal=true). يمكنك إنشاء مؤسسة [تجريبية](https://trials.dynamics.com/?azure-portal=true) وتثبيت [Sales Insights](https://aka.ms/getsalesinsights/?azure-portal=true) من AppSource.
+iconUrl: /learn/achievements/tutorials-sales-insights.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-sales-insights
+units:
+- learn-dynamics.tutorials-sales-insights.1-introduction
+- learn-dynamics.tutorials-sales-insights.2-hello-world
+- learn-dynamics.tutorials-sales-insights.3-sample-insight
+- learn-dynamics.tutorials-sales-insights.4-weekly-insight
+- learn-dynamics.tutorials-sales-insights.5-create-reminder
+- learn-dynamics.tutorials-sales-insights.5a-custom-action-button-rest
+- learn-dynamics.tutorials-sales-insights.5b-custom-action-button-crm
+- learn-dynamics.tutorials-sales-insights.5c-custom-action-button-playbook
+- learn-dynamics.tutorials-sales-insights.5d-insight-card-actions-buttons
+- learn-dynamics.tutorials-sales-insights.5e-insight-card-no-action-button
+- learn-dynamics.tutorials-sales-insights.6-check
+- learn-dynamics.tutorials-sales-insights.7-summary
+badge:
+  uid: learn-dynamics.tutorials-sales-insights.badge

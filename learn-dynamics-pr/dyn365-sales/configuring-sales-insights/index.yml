@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.configuring-sales-insights
+metadata:
+  title: تكوين Sales Insights
+  description: تعرف على تكوين Sales Insights.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e7f93f2efa3f813ddbd178663e4957100e93bfec
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436163"
+title: تكوين Sales Insights
+summary: "[!include[](../includes/module-banner.md)] \n\nيستخدم Dynamics 365 Sales Insights الذكاء الاصطناعي لمساعدتك في بناء علاقات جيدة مع العملاء والحفاظ عليها. في هذه الوحدة، ستتعرف على تكوين Sales Insights.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء بطاقات معلومات باستخدام الاستوديو المساعد. \n- تكوين ذكاء الإنتاجية. \n- تكوين معلومات الاتصال. \n- تكوين النماذج التنبؤية.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/configuring-sales-insights.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-sales-insights
+units:
+- learn-dynamics.configuring-sales-insights.1-introduction
+- learn-dynamics.configuring-sales-insights.2-creating-cards
+- learn-dynamics.configuring-sales-insights.3-assistant-studio
+- learn-dynamics.configuring-sales-insights.4-productivity-intelligence
+- learn-dynamics.configuring-sales-insights.5-connection-insights
+- learn-dynamics.configuring-sales-insights.6-predictive-models
+- learn-dynamics.configuring-sales-insights.7-check
+- learn-dynamics.configuring-sales-insights.8-summary
+badge:
+  uid: learn-dynamics.configuring-sales-insights.badge

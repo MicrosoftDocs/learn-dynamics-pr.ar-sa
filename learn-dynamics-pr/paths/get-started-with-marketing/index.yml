@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-dynamics-365-marketing
+metadata:
+  title: إعداد Dynamics 365 Marketing وتكوين الإعدادات المتقدمة
+  description: يُمكنك إعداد مثيلات Dynamics 365 Marketing وإدارتها، والحفاظ على Marketing محدثًا، وتكوين الإعدادات المتقدمة، ومراجعة مصادقة المجال، وأفضل ممارسات البريد الإلكتروني وحماية البيانات.
+  ms.date: 10/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: e10bb6207dd537f039f51d605d3e0539294fe073
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7437323"
+title: إعداد Dynamics 365 Marketing وتكوين الإعدادات المتقدمة
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يُمكنك إعداد مثيلات Dynamics 365 Marketing وإدارتها، والحفاظ على Marketing محدثًا، وتكوين الإعدادات المتقدمة، ومراجعة مصادقة المجال، وأفضل ممارسات البريد الإلكتروني وحماية البيانات.
+prerequisites: "- فهم أساسي لكيفية التنقل في Dynamics 365. \n"
+iconUrl: /learn/achievements/get-started-with-marketing.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-marketing
+modules:
+- learn-bizapps.get-started-set-up-and-manage
+- learn-bizapps.get-started-advanced-configuration
+- learn-dynamics.review-authentication-dynamics-365-marketing
+trophy:
+  uid: learn-dynamics.get-started-with-marketing.trophy

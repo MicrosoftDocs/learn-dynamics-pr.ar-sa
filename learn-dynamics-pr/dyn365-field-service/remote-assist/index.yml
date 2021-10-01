@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.remote-assist
+metadata:
+  title: بدء الاستخدام مع إجراء مكالمات Remote Assist
+  description: تعرّف على Remote Assist.
+  ms.date: 6/1/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d2907e6e1008b7d5a684cf867b4e615dfa8feca1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434133"
+title: بدء الاستخدام مع إجراء مكالمات Remote Assist
+summary: "[!include[](../includes/module-banner.md)] \nتعرّف على ميزات Remote Assist وكيف تُساعد الفنيين في حل المشكلات بسرعة. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على المستخدمين والأدوار.\n- اكتشف خيارات الجهاز المختلفة.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/remote-assist.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-field-service
+- dynamics-remote-assist
+units:
+- learn-dynamics.remote-assist.1-introduction
+- learn-dynamics.remote-assist.2-users
+- learn-dynamics.remote-assist.3-devices
+- learn-dynamics.remote-assist.4-mobile
+- learn-dynamics.remote-assist.5-faq
+- learn-dynamics.remote-assist.6-check
+- learn-dynamics.remote-assist.7-summary
+badge:
+  uid: learn-dynamics.remote-assist.badge

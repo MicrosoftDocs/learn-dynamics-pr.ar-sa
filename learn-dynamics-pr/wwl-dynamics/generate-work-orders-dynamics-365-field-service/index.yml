@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn.wwl.generate-work-orders-dynamics-365-field-service
+metadata:
+  title: إنشاء أوامر العمل في Dynamics 365 Field Service
+  description: إنشاء أوامر العمل في Dynamics 365 Field Service
+  ms.date: 08/10/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: d10eea98a6de4152b4e822a8eab04aada1d3e58d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438723"
+title: إنشاء أوامر العمل في Dynamics 365 Field Service
+summary: تقدم لك هذه الوحدة أوامر العمل وعمليات الفحص في Dynamics 365 Field Service.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - شرح إمكانات إدارة أوامر العمل في Dynamics 365 Field Service
+
+  - التمييز بين خيارات إنشاء أوامر العمل في Dynamics 365 Field Service
+
+  - وصف كيفية تبسيط إنشاء أوامر العمل في Dynamics 365 Field Service
+
+  - شرح عمليات الفحص في Dynamics 365 Field Service
+prerequisites: ''
+iconUrl: /learn/achievements/generate-work-orders-in-dynamics-365-field-service.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-field-service
+units:
+- learn.wwl.generate-work-orders-dynamics-365-field-service.introduction
+- learn.wwl.generate-work-orders-dynamics-365-field-service.get-introduced-work-order
+- learn.wwl.generate-work-orders-dynamics-365-field-service.explore
+- learn.wwl.generate-work-orders-dynamics-365-field-service.describle-lefecycle-work-order
+- learn.wwl.generate-work-orders-dynamics-365-field-service.describe-how-incident-types-are-used
+- learn.wwl.generate-work-orders-dynamics-365-field-service.describe-inspections
+- learn.wwl.generate-work-orders-dynamics-365-field-service.knowledge-check
+- learn.wwl.generate-work-orders-dynamics-365-field-service.summary
+badge:
+  uid: learn.wwl.generate-work-orders-dynamics-365-field-service.badge

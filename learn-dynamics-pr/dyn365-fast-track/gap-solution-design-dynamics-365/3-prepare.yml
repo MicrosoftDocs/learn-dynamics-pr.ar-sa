@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.gap-solution-design-dynamics-365.3-prepare
+title: التحضير لورشة عمل تصميم حلول الثغرات
+metadata:
+  title: التحضير لورشة عمل تصميم حلول الثغرات
+  description: تعرف على أهمية مراجعة عناصر المشروع في وقت مبكر.
+  ms.date: 07/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: d52d4abf9950bdaa0e70c59fdf245a5a55f27708ae2104447ef3b2cc103b3928
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431737"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-prepare.md)]"

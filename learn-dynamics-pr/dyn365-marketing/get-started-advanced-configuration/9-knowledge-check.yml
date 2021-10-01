@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-advanced-configuration.9-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 04/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6047cc0f2b378634f1f5449e4d94e40c4ba34139
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435383"
+title: اختبر معلوماتك
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما منطقة قائمة الإعدادات المتقدمة التي تحدد كيفية مطابقة عمليات إرسال النماذج مع جهات الاتصال أو العملاء المتوقعين الحاليين؟
+    choices:
+    - content: تكوين النقاط
+      explanation: تكوين النقاط هو مكان تكوين بعض الخيارات الأساسية التي تتحكم في كيفية عمل نقاط العميل المتوقع تلقائياً في المثيل.
+      isCorrect: false
+    - content: مطابقة النموذج
+      explanation: مطابقة النموذج هي مكان إنشاء إستراتيجيات مطابقة العملاء المتوقعين وجهات الاتصال وتحديد كيفية مطابقة عمليات إرسال النموذج مع جهات الاتصال الموجودة أو العملاء المتوقعين عندما تقرر ما إذا كنت تريد تحديث سجل موجود أو إنشاء سجل جديد.
+      isCorrect: true
+    - content: تكوين مجموعة البيانات
+      explanation: توفر منطقة تكوين مجموعة البيانات أدوات تحليلية للعمل مع سجلات العملاء وتسمح لك باختيار الكيانات التي تريد المزامنة معها.
+      isCorrect: false
+    - content: الإعدادات الافتراضية
+      explanation: الإعدادات الافتراضية هي مكان تحديد الإعدادات الافتراضية لرسائل البريد الإلكتروني التسويقي ورحلات العميل والاشتراك المزدوج وإلغاء تكرار البريد الإلكتروني.
+      isCorrect: false
+  - content: ما الإعدادات التي تُدار في إعدادات التسويق الافتراضية؟
+    choices:
+    - content: إعدادات البريد الإلكتروني التسويقي
+      explanation: تم تكوين إعدادات رسائل البريد الإلكتروني التسويقية في الإعدادات الافتراضية.
+      isCorrect: true
+    - content: إستراتيجيات مطابقة صفحة التسويق
+      explanation: يتم تعيين صفحات التسويق في إعدادات صفحة التسويق.
+      isCorrect: false
+    - content: لافتات الخصوصية
+      explanation: يتم تكوين لافتات الخصوصية في إعدادات صفحة التسويق.
+      isCorrect: false
+    - content: تكوين النقاط
+      explanation: تكوين النقاط هو مكان تكوين بعض الخيارات الأساسية التي تتحكم في كيفية عمل نقاط العميل المتوقع تلقائياً في المثيل.
+      isCorrect: false

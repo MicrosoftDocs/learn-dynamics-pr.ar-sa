@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-emails-journey.3-a-b-testing
+title: اختبار A/B‬ للتسويق عبر البريد الإلكتروني
+metadata:
+  title: اختبار A/B‬ للتسويق عبر البريد الإلكتروني
+  description: تعرّف على اختبارات A/B للتسويق عبر البريد الإلكتروني في Dynamics 365 Marketing.
+  ms.date: 05/17/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9a33ca89395c9c130915bd2eeb82d9f6f24a2ce5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435528"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-a-b-testing.md)]"

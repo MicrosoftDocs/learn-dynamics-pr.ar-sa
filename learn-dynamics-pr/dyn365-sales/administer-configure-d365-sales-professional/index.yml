@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.administer-configure-d365-sales-professional
+metadata:
+  title: إدارة وتكوين Dynamics 365 Sales Professional
+  description: قم بالاتصال بـ SharePoint، واستورد البيانات، وأدر المستخدمين، واعمل مع الأنشطة الأخرى في Dynamics 365 Sales Professional.
+  ms.date: 05/14/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 750224a703be0798309556a04f61993e70664442
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436234"
+title: إدارة وتكوين Dynamics 365 Sales Professional
+summary: "[!include[](../includes/module-banner.md)]\n\nقم بالاتصال بـ SharePoint، واستورد البيانات، وأدر المستخدمين، واعمل مع الأنشطة الأخرى في Dynamics 365 Sales Professional. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- الاتصال بـ SharePoint\n- البحث في استيراد البيانات وتثبيت عينة البيانات\n- إدارة المستخدمين\n- إعداد البريد الإلكتروني\n- قوالب Word وقوالب Excel\n- تخصيص النماذج وطرق العرض\n- تعرف علي كيف تساعد عمليات سير إجراءات العمل في تحسين الإنتاجية\n"
+prerequisites: لا‬‬ شيء
+iconUrl: /learn/achievements/administer-configure-d365-sales-professional.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.administer-configure-d365-sales-professional.1-overview
+- learn-dynamics.administer-configure-d365-sales-professional.2-connect-with-sharepoint
+- learn-dynamics.administer-configure-d365-sales-professional.3-import-data
+- learn-dynamics.administer-configure-d365-sales-professional.4-install-sample-data
+- learn-dynamics.administer-configure-d365-sales-professional.5-manage-users
+- learn-dynamics.administer-configure-d365-sales-professional.6-setup-emails
+- learn-dynamics.administer-configure-d365-sales-professional.7-setup-branding-and-theme
+- learn-dynamics.administer-configure-d365-sales-professional.8-manage-teams
+- learn-dynamics.administer-configure-d365-sales-professional.9-manage-excel-templates
+- learn-dynamics.administer-configure-d365-sales-professional.10-manage-word-templates
+- learn-dynamics.administer-configure-d365-sales-professional.11-automatic-generation-quotes-invoices
+- learn-dynamics.administer-configure-d365-sales-professional.12-export-data
+- learn-dynamics.administer-configure-d365-sales-professional.13-customize-forms
+- learn-dynamics.administer-configure-d365-sales-professional.14-customize-views
+- learn-dynamics.administer-configure-d365-sales-professional.15-customize-business-process-flows
+- learn-dynamics.administer-configure-d365-sales-professional.16-knowledge-check
+- learn-dynamics.administer-configure-d365-sales-professional.17-summary
+badge:
+  uid: learn.administer-configure-d365-sales-professional.badge

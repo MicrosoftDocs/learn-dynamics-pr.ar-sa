@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.embed-surveys.2-prepare-survey
+title: إعداد الاستطلاع لاستخدامه في موقع ويب
+metadata:
+  title: إعداد الاستطلاع لاستخدامه في موقع ويب
+  description: اعرف كيفية إعداد الاستطلاع لاستخدامه في موقع ويب.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: a181f7ffe7f5078db996f299028fcf66e55f7c61
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436161"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-prepare-survey.md)]"

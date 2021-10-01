@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.opportunity-management.2-create-opportunities
+title: إنشاء فرص Dynamics 365
+metadata:
+  title: إنشاء فرص Dynamics 365
+  description: إنشاء فرص Dynamics 365
+  ms.date: 05/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0005c3df5ff936cfe31472645114ef4367f5ab63
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436302"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-create-opportunities.md)]

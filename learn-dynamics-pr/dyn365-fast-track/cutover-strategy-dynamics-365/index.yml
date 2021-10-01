@@ -1,0 +1,57 @@
+### YamlMime:Module
+uid: learn-dynamics.cutover-strategy-dynamics-365
+metadata:
+  title: استراتيجية التكوين المرحلي لحلول Dynamics 365
+  description: وسوف تساعد هذه الوحدة على ضمان أنها طريقة جيدة للتخطيط والاستعداد المتزايد والاختبار وتنفيذ التكوين المرحلي.
+  ms.date: 08/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a5da59b360ac3db1b1a24bdbcfef4c773579f5c2
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7431881"
+title: استراتيجية التكوين المرحلي لحلول Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nإن الهدف من ورشة عمل استراتيجية التكوين المرحلي هي مساعدة هذه الوحدة على ضمان أنها طريقة جيدة للتخطيط والاستعداد المتزايد والاختبار وتنفيذ التكوين المرحلي. يجب مراعاة العديد من المناطق المختلفة عند مناقشه استراتيجية تكوين مرحلي، وتوفر ورشة العمل هذه إطار العمل الضروري لمراجعة هذه الموضوعات الرئيسية.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على ورشة عمل استراتيجية التكوين المرحلي.\n- التحضير لورشة عمل استراتيجية التكوين المرحلي.\n- تعرف على كيفية عقد ورشة عمل استراتيجية التكوين المرحلي\n- المتابعة بعد ورشة عمل استراتيجية التكوين المرحلي.\n"
+prerequisites: >
+  - معرفة تطبيقات Dynamics 365
+
+  - المعرفة الأساسية بمفاهيم Success by Design
+
+  - المعرفة الواسعة بالمستشار الوظيفي
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
+
+  - تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)
+iconUrl: /learn/achievements/cutover-strategy-dynamics-365.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+units:
+- learn-dynamics.cutover-strategy-dynamics-365.1-introduction
+- learn-dynamics.cutover-strategy-dynamics-365.2-purpose
+- learn-dynamics.cutover-strategy-dynamics-365.3-review-time
+- learn-dynamics.cutover-strategy-dynamics-365.4-cutover-overview
+- learn-dynamics.cutover-strategy-dynamics-365.5-prepare
+- learn-dynamics.cutover-strategy-dynamics-365.6-implementation
+- learn-dynamics.cutover-strategy-dynamics-365.7-check
+- learn-dynamics.cutover-strategy-dynamics-365.8-summary
+badge:
+  uid: learn-dynamics.cutover-strategy-dynamics-365.badge

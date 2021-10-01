@@ -1,0 +1,76 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-customer-power-bi-reports.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: f9cfa5ef6569f43841d90f02e96058deab3a5bc3
+  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "7436312"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: سمع مدير خدمة العملاء أن تطبيق Microsoft Power BI متوفر يعرض البيانات من ردود الاستطلاع Dynamics 365 Customer Voice. يمتلك المدير حق الوصول إلى Power BI ولكنه غير متأكد من كيفية الوصول إلى التطبيق. ما هي الخطوات التي يجب على المدير اتخاذها للوصول؟
+    choices:
+    - content: افتح Power BI Desktopثم ابحث عن Dynamics 365 Customer Voice تطبيق رضا العملاء في قسم المرئيات.
+      isCorrect: false
+      explanation: تتضمن المرئيات لـ Power BI المخططات والبطاقات والخرائط وما إلى ذلك. أنها لا تشمل التطبيقات.
+    - content: سجّل الدخول إلى Power BI، وحدد الحصول على البيانات، وابحث عن Dynamics 365 Customer Voice تطبيق رضا العملاء في AppSource، ثم حدد الحصول عليه الآن لتثبيت التطبيق.
+      isCorrect: true
+      explanation: يتم تخزين تطبيق رضا العملاء Dynamics 365 Customer Voice وتثبيته من Microsoft AppSource.
+    - content: سجّل الدخول إلى Dynamics 365 Customer Voice، ونزل Dynamics 365 Customer Voice تطبيق رضا العملاء، ثم استورد التطبيق إلى Power BI Desktop.
+      isCorrect: false
+      explanation: على الرغم من أن Dynamics 365 Customer Voice تستخدم مرئيات Power BI لإظهار تحليلات استجابة الاستطلاع، لا يتم تخزين تطبيق رضا العملاء في تلك المساحة.
+  - content: طُلب من كاتب التقرير إنشاء تقرير Power BIباستخدام سجلات من مثيل Dynamics 365 Customer Voice. بعد تنزيل Power BI Desktop وتثبيته، يحتاجون إلى الحصول على البيانات الصحيحة. ما هي فئة اتصال البيانات التي يجب أن يبدأوا بها؟
+    choices:
+    - content: قاعدة البيانات
+      isCorrect: false
+      explanation: على الرغم من تخزين السجلات Dynamics 365 Customer Voice تقنياً في قاعدة بيانات، إلا أن هذه الفئة ليست هي الفئة الصحيحة للاختيار.
+    - content: خدمات عبر الإنترنت
+      isCorrect: false
+      explanation: على الرغم من الوصول إلى Dynamics 365 Customer Voice عبر الإنترنت، لا يتم الوصول إلى البيانات من خلال فئة الخدمات عبر الإنترنت.
+    - content: Microsoft Power Platform
+      isCorrect: true
+      explanation: يتم تخزين البيانات Dynamics 365 Customer Voice في Microsoft Dataverse، وهي جزء من Microsoft Power Platform. هذه الفئة هي الفئة الصحيحة للاختيار.
+  - content: كاتب تقرير يعمل على تقرير مخصص في Power BI Desktop. إنهم يريدون معرفة عدد دعوات الاستطلاع التي تم إرسالها وأين تم بدء الاستطلاع ولكن لم يتم إرسالها بعد. ما هي الطريقة التي ستزود كاتب التقرير بالنتيجة الدقيقة؟
+    choices:
+    - content: أضف مخططاً مرئياً لعرض جميع دعوات الاستطلاع التي تم إنشاؤها وإرسالها بواسطة عمود تاريخ البدء الفعلي من جدول msfp_surveyinvite.
+      isCorrect: false
+      explanation: على الرغم من أن عمود تاريخ البدء الفعلي سيُظهر وقت إرسال الدعوات، إلا أنه لن يعرض عدد الاستطلاعات التي تم بدؤها ولكن لم يتم إرسالها بعد.
+    - content: أضف بطاقة مرئية لعرض عدد (مميز) لـ activityid من جدول msfp_surveyinvite، تمت تصفيته بواسطة msfp_invitestatus لإظهار الحالات التي تم البدء فيها فقط.
+      isCorrect: true
+      explanation: ستؤدي إضافة بطاقة إلى عرض قيمة رقمية. ستؤدي إضافة عامل التصفية إلى التأكد من تضمين الاستطلاعات التي تتطابق مع msfp_invitestatus من تم البدء في العد فقط.
+    - content: أضف جدولاً مرئياً لسرد تفاصيل جميع دعوات الاستطلاع من جدول msp_surveyinvite وقم بسرد جميع الأعمدة، بما في ذلك عمود msfp_invitestatus.
+      isCorrect: false
+      explanation: ستؤدي إضافة الجدول وعرض عمود msfp_invitestatus إلى إظهار جميع دعوات الاستطلاع ولكن لن يتم التصفية بأي شكل من الأشكال. بالإضافة إلى ذلك، ستجعل هذه الإجراءات من الصعب معرفة عدد الاستطلاعات التي تم البدء فيها بالضبط ولكن لم يتم إرسالها بعد.
+  - content: يريد مدير تجربة العملاء تحليل ملاحظات الاستطلاع ومراجعة البيانات وتصفيتها باستخدام ملاحظات Net Promoter Score. يتم تخزين البيانات الموجودة في سجل استجابة الاستطلاع في Dynamics 365 Customer Voice كرقم بدلاً من إظهار نوع الاستجابة المعطاة. ما هي أبسط طريقة لعرض ما إذا كان العميل يعتبر مروجاً أو سلبياً أو منتقداً بناءً على الاستجابة التي قدموها؟
+    choices:
+    - content: قم بإنشاء عمود جديد في جدول msfp_surveyresponses يسمى نوع NPS باستخدام عبارة التبديل. سيُظهر هذا النهج المروجين إذا كان 9 أو أعلى، أو المنتقدين إذا كان 6 أو أقل، أو غير فعال إذا كان 7 أو 8. أضف العمود إلى تقرير Power BI.
+      isCorrect: true
+      explanation: يمكن إضافة استطلاع إلى موقع ويب كزر، أو عرضه كنافذة منبثقة على الشاشة، أو مضمناً مباشرةً داخل صفحة ويب بحيث يظهر بشكل ثابت.
+    - content: أنشئ مقياساً جديداً على جدول msfp_surveyresponses يسمى نوع NPS لحساب Net Promoter Score المعطى، ثم اضربه في متوسط NPS من جميع الاستجابات.
+      isCorrect: false
+      explanation: هذه الطريقة غير صحيحة وقد ينتج عنها استجابة رقمية بدلاً من قيمة نصية، وهو أمر مطلوب.
+    - content: قم بإنشاء عمود جديد في جدول جهات الاتصال يسمى نوع NPS باستخدام عبارة التبديل. سيُظهر هذا النهج المروجين إذا كان 9 أو أعلى، أو المنتقدين إذا كان 6 أو أقل، أو غير فعال إذا كان 7 أو 8. أضف العمود إلى تقرير Power BI.
+      isCorrect: false
+      explanation: على الرغم من أن الطريقة صحيحة من حيث استخدام جملة switch، إلا أنه لا ينبغي إنشاء العمود في جدول جهات الاتصال.
+  - content: تتكون بيانات Dynamics 365 Customer Voice من سلسلة من الجداول المخزنة في Dataverse. يمكن ربط هذه الجداول معاً من خلال أعمدة محددة، ويمكن لكتاب التقارير بعد ذلك إنشاء تقارير في Power BI لمشاركتها مع مؤسستهم، مما يوفر آلية لتحليل البيانات وتصفيتها حسب الحاجة. أي من الخيارات التالية عبارة عن جداول Dynamics 365 Customer Voice ؟
+    choices:
+    - content: msfp_question، msfp_surveyresponse، and msfp_surveyanswers
+      isCorrect: false
+      explanation: msfp_question and msfp_surveyresponse are tables for Dynamics 365 Customer Voice، but msfp_surveyanswers is not.
+    - content: msfp_question، msfp_surveyresponse، and msfp_surveyinvite
+      isCorrect: true
+      explanation: الثلاثة عبارة عن جداول لـ Dynamics 365 Customer Voice.
+    - content: msfp_surveyinvite، msfp_surveydetails، and msfp_question
+      isCorrect: false
+      explanation: msfp_surveyinvite وmsfp_question هما جدولان لـ Dynamics 365 Customer Voice، لكن msfp_surveydetails ليس كذلك.

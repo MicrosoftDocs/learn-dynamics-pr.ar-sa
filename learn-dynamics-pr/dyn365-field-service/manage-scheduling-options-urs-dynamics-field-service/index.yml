@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-bizapps.urs-manage-scheduling-options
+metadata:
+  title: إدارة خيارات الجدولة في Dynamics 365 for Field Service
+  description: يحتاج المرسلون والمجدولون إلى تحديد الموارد وجدولتها بسهولة للعمل على الوظائف. يجب أن يكونوا قادرين على تحديد طريقة الجدولة التي سيتم استخدامها بشكل أفضل بناءً على السيناريو الذي يحاولون جدولته.  عندما تظهر السيناريوهات التي تتطلب المساعدة، يمكن للمرسلين الاستفادة من مساعد الجدولة لتقديم توصيات بناءً على المتطلبات المحددة للوظيفة.  في كثير من الأحيان، ستحتاج الأصناف التي تمت جدولتها إلى إعادة جدولتها أو تعيينها إلى مورد مختلف.  باستخدام Dynamics 365، يمكن لمرسلي لوحة الجدولة تحديد الأصناف التي تحتاج إلى إعادة جدولتها بسهولة وإما إعادة جدولتها أو إعادة حجزها إلى مورد مختلف تماماً.
+  ms.date: 02/01/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9b8f7c0f44a3ff8adfa535c74924abf1e3d9d1b0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434128"
+title: إدارة خيارات الجدولة في Dynamics 365 for Field Service
+summary: "[!include[](../includes/module-banner.md)]\n\nيحتاج المرسلون والمجدولون إلى تحديد الموارد وجدولتها بسهولة للعمل على الوظائف.  يجب أن يكونوا قادرين على تحديد طريقة الجدولة التي سيتم استخدامها بشكل أفضل بناءً على السيناريو الذي يحاولون جدولته.  عندما تظهر السيناريوهات التي تتطلب المساعدة، يمكن للمرسلين الاستفادة من مساعد الجدولة لتقديم توصيات بناءً على المتطلبات المحددة للوظيفة.  في كثير من الأحيان، ستحتاج الأصناف التي تمت جدولتها إلى إعادة جدولتها أو تعيينها إلى مورد مختلف.  باستخدام Dynamics 365، يمكن لمرسلي لوحة الجدولة تحديد الأصناف التي تحتاج إلى إعادة جدولتها بسهولة وإما إعادة جدولتها أو إعادة حجزها إلى مورد مختلف تماماً.    \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- حدد السيناريوهات التي يمكن فيها الاستفادة من خيارات جدولة field service المختلفة\n- تصفح الإعدادات الأساسية للوحة الجدولة وتصفيتها وتعديلها  \n- جدولة الأصناف يدوياً وإعادة جدولتها على لوحة الجدولة\n- استخدم البحث عن توافر الموارد (مساعد الجدولة) لجدولة الأصناف على لوحة الجدولة   \n"
+prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  الإلمام بقدرات Field Service الأساسية مفيد أيضًا.
+iconUrl: /learn/achievements/manage-scheduling-options-in-dynamics-365-for-field-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-bizapps.urs-manage-scheduling-options.1-overview-of-scheduling-capabilities
+- learn-bizapps.urs-manage-scheduling-options.2-schedule-board-overview
+- learn-bizapps.urs-manage-scheduling-options.3-schedule-reschedule
+- learn-bizapps.urs-manage-scheduling-options.4-reschedule-and-move-items
+- learn-bizapps.urs-manage-scheduling-options.5-schedule-items
+- learn-bizapps.urs-manage-scheduling-options.6-knowledge-check
+- learn-bizapps.urs-manage-scheduling-options.7-summary
+badge:
+  uid: learn.managing-scheduling-options.badge

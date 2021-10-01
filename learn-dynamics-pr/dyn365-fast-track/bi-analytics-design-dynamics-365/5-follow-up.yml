@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.bi-analytics-design-dynamics-365.5-follow-up
+title: متابعة ورشة عمل تصميم المعلومات المهنية والتحليلات
+metadata:
+  title: متابعة ورشة عمل تصميم المعلومات المهنية والتحليلات
+  description: تعرف على خطوات متابعة تصميم المعلومات المهنية والتحليلات.
+  ms.date: 07/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-fastrack
+  ms.openlocfilehash: 72ddb290022e2239c43d98e95f540979eff6c6076f3f972d0156491e70aa000a
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431708"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-follow-up.md)]"

@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.deploy-resource-scheduling-optimization
+metadata:
+  title: توزيع Resource Scheduling Optimization
+  description: تعرف على كيفية إعداد وتوزيع Resource Scheduling Optimization في هذه الوحدة النمطية. تشمل الموضوعات خيارات التكوين، وتحديد أهداف التحسين والنطاق بالإضافة إلى تحسين الجداول الزمنية.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6d4765d8d5a67e7b684ef896708b6dab43750807
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434110"
+title: توزيع Resource Scheduling Optimization
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرف على كيفية إعداد وتوزيع Resource Scheduling Optimization في هذه الوحدة النمطية. تشمل الموضوعات خيارات التكوين، وتحديد أهداف التحسين والنطاق بالإضافة إلى تحسين الجداول الزمنية.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد وتوزيع Resource Scheduling Optimization.\n- تعرف على خيارات التكوين وحدد أهداف التحسين والنطاقات والجداول الزمنية. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/deploy-resource-scheduling-optimization.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.deploy-resource-scheduling-optimization.1-introduction
+- learn-dynamics.deploy-resource-scheduling-optimization.2-options
+- learn-dynamics.deploy-resource-scheduling-optimization.3-configuration
+- learn-dynamics.deploy-resource-scheduling-optimization.4-goals
+- learn-dynamics.deploy-resource-scheduling-optimization.5-scopes
+- learn-dynamics.deploy-resource-scheduling-optimization.6-schedules
+- learn-dynamics.deploy-resource-scheduling-optimization.7-check
+- learn-dynamics.deploy-resource-scheduling-optimization.8-summary
+badge:
+  uid: learn-dynamics.deploy-resource-scheduling-optimization.badge

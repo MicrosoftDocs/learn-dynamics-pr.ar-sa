@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.opportunity-management
+metadata:
+  title: إدارة الفرص باستخدام Dynamics 365 Sales
+  description: تسهل إمكانات إدارة الفرص في Microsoft Dynamics 365 إدارة الفرص وتحويل المزيد من العملاء المتوقعين. في هذه الوحدة النمطية، ستتعلم كيف ومتى يتم استخدام الفرص وإدارتها في Dynamics 365. ستتعرف أيضاً على خيارات إنشاء الفرص وعلاقاتها مع السجلات الأخرى وكيفية إدارتها طوال دورة حياتها. من خلال توفير عرض كامل للعميل، يساعدك Dynamics 365 على كسب المزيد من الصفقات.
+  ms.date: 05/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 84a27114210ac429918919117544e2e5ac5b7d0e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436221"
+title: إدارة الفرص باستخدام Dynamics 365 Sales
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تسهل إمكانات إدارة الفرص في Microsoft Dynamics 365 إدارة الفرص وتحويل المزيد من العملاء المتوقعين. في هذه الوحدة النمطية، ستتعلم كيف ومتى يتم استخدام الفرص وإدارتها في Dynamics 365. ستتعرف أيضاً على خيارات إنشاء الفرص وعلاقاتها مع السجلات الأخرى وكيفية إدارتها طوال دورة حياتها. من خلال توفير عرض كامل للعميل، يساعدك Dynamics 365 على كسب المزيد من الصفقات.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد السيناريوهات التي يمكن فيها استخدام الفرص\n- إنشاء وتحديد الفرص\n- العمل مع سجلات الفرصة ذات الصلة\n- إدارة فرصة طوال دورة حياتها\n"
+prerequisites: يجب أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365، وأيضاً معرفة عملية بالسجلات الأساسية المتوفرة. الإلمام بالعمل مع العملاء المتوقعين مفيد أيضاً ولكنه ليس مطلوباً.
+iconUrl: /learn/achievements/manage-opportunities-d365-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn-dynamics.opportunity-management.1-opportunity-overview
+- learn-dynamics.opportunity-management.2-create-opportunities
+- learn-dynamics.opportunity-management.3-account-and-team-selling
+- learn-dynamics.opportunity-management.4-opportunity-management-lifecycle
+- learn-dynamics.opportunity-management.5-manage-opportunities
+- learn-dynamics.opportunity-management.6-knowledge-check
+- learn-dynamics.opportunity-management.7-summary
+badge:
+  uid: learn-dynamics.manage-opportunities-d365-sales.badge

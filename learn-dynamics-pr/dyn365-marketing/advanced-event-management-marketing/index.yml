@@ -1,0 +1,36 @@
+### YamlMime:Module
+uid: learn-dynamics.advanced-event-management-marketing
+metadata:
+  title: الميزات المتقدمة لإدارة الأحداث في Dynamics 365 Marketing
+  description: يُمكنك إعداد وإدارة الأحداث المتكررة وقوالب الأحداث في Dynamics 365 Marketing.
+  ms.date: 04/26/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 23ca9fff35a220598f702d9bba323ce58758b7fd
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435515"
+title: الميزات المتقدمة لإدارة الأحداث في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \n\nيُمكنك إعداد وإدارة الأحداث المتكررة وقوالب الأحداث في Dynamics 365 Marketing. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء الأحداث المتكررة وإدارتها.\n- إنشاء ‏‏قالب حدث.\n"
+prerequisites: ينبغي وجود فهم أساسي لتطبيق Dynamics 365 Marketing والوحدات السابقة في مسار التعلم هذا.
+iconUrl: /learn/achievements/advanced-event-management-marketing.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn-dynamics.advanced-event-management-marketing.1-intro-waitlist
+- learn-dynamics.advanced-event-management-marketing.5-recurring
+- learn-dynamics.advanced-event-management-marketing.6-template
+- learn-dynamics.advanced-event-management-marketing.7-check
+- learn-dynamics.advanced-event-management-marketing.8-summary
+badge:
+  uid: learn-dynamics.advanced-event-management-marketing.badge

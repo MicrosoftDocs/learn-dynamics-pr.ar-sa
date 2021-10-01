@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/25/2020
+  author: wwlpublish
+  ms.author: cwsuseng
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: a52baf4f1f3fbd77aad854095387818abe0cd165
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438716"
+azureSandbox: false
+durationInMinutes: 1
+quiz:
+  questions:
+  - content: ما البرنامج الذي تتكامل تطبيقات Finance and Operations معه بشكل أصيل؟
+    choices:
+    - content: Microsoft Excel
+      isCorrect: true
+      explanation: صحيح. يمكنك العرض والتحديث في Excel.
+    - content: Lotus 123
+      isCorrect: false
+      explanation: اختيار غير صحيح
+    - content: Quattro Pro
+      isCorrect: false
+      explanation: اختيار غير صحيح
+  - content: مما تتكوّن الأدوار عادة؟
+    choices:
+    - content: الأذونات
+      isCorrect: false
+      explanation: غير صحيح. تغذي الأذونات الامتيازات.
+    - content: الامتيازات
+      isCorrect: false
+      explanation: غير صحيح. الامتيازات تغذي المهام.
+    - content: المهام
+      isCorrect: true
+      explanation: صحيح. المهام تغذي الأدوار.

@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-started-configuration-dynamics-365.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 206528b9a6ea973f67fe2161cafdd06387b715c9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438587"
+azureSandbox: false
+durationInMinutes: 3
+quiz:
+  questions:
+  - content: ما نوع البيئة المقصود للعمل الدائم من قبل المستخدمين في المؤسسة؟
+    choices:
+    - content: إصدار تجريبي
+      isCorrect: false
+      explanation: غير صحيح. تدعم البيئات التجريبية احتياجات الاختبار قصيرة المدى.
+    - content: وضع الحماية
+      isCorrect: false
+      explanation: غير صحيح. بيئات الاختبار المعزولة هي بيئات غير إنتاجية للتطوير والاختبار والتكوين.
+    - content: الإنتاج
+      isCorrect: true
+      explanation: صحيح. بيئات الإنتاج هي بيئات دائمة للمستخدمين في المؤسسة.
+  - content: في "مركز إدارة Power Platform"، أي قسم يجب عليك الانتقال إليه إذا أردت رؤية مثيلات Microsoft Dataverse؟
+    choices:
+    - content: البيئات
+      isCorrect: true
+      explanation: صحيح. يسرد قسم "البيئات" كل ما تبذلونه من مثيلات Dataverse.
+    - content: تكامل البيانات
+      isCorrect: false
+      explanation: غير صحيح. يتيح لك هذا القسم إنشاء اتصالات أو إضافتها.
+    - content: المستأجر
+      isCorrect: false
+      explanation: غير صحيح. يتيح لك هذا القسم مراقبة التراخيص والحصص النسبية.
+  - content: أيّ مما يلي عبارة عن حاوية لتخزين بيانات مؤسستك وإدارتها ومشاركتها؟
+    choices:
+    - content: وحدة أعمال
+      isCorrect: false
+      explanation: غير صحيح. وحدة الأعمال هي مجموعة من المستخدمين ذوي الأنشطة التجارية ذات الصلة.
+    - content: البيئة
+      isCorrect: true
+      explanation: صحيح. البيئة هي مثيل لـ Dataverse.
+    - content: المستأجر
+      isCorrect: false
+      explanation: غير صحيح. المستأجر هو حساب مرتبط ببيئتك يوفر المجالات والمستخدمين ومجموعات الأمان والاشتراكات.

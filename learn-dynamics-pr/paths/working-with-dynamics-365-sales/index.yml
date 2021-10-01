@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.dynamics-365-for-sales
+metadata:
+  title: العمل مع مسار تعلّم Dynamics 365 Sales
+  description: قم بتوليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة مع Microsoft Dynamics 365 Sales. يغطي مسار التعلّم هذا العناصر الأساسية لتطبيق المبيعات.
+  ms.date: 08/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-sales
+  ms.openlocfilehash: 69ed4accaac045f3ad6649f3f682ce132395f83e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7437336"
+title: العمل مع Dynamics 365 Sales
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  قم بتوليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة مع Microsoft Dynamics 365 Sales. يغطي مسار التعلّم هذا العناصر الأساسية لتطبيق المبيعات.
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
+iconUrl: /learn/achievements/working-with-dynamics-365-for-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+modules:
+- learn-dynamics.configure-dynamics-365-sales
+- learn-dynamics.lead-management
+- learn-dynamics.opportunity-management
+- learn-dynamics.embedded-intelligence
+- learn-dynamics.product-catalog
+- learn-dynamics.sales-order-processing
+- learn-dynamics.relationship-management-and-social-selling
+- learn-dynamics.analyze-sales-data
+trophy:
+  uid: learn-dynamics.working-with-d365-sales.trophy

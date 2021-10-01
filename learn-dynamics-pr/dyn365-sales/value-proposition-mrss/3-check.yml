@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.value-proposition-mrss.3-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 8/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: f8d064183d725ae2fc738bc436081c6b5348d0de
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436228"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هي خيارات MRSs SKU المتاحة؟
+    choices:
+    - content: MRSs(فريق Sales Navigator +Dynamics 365 Sales).
+      isCorrect: false
+      explanation: يتوفر خياران MRSs SKU.
+    - content: MRSs (فريق Sales Navigator +Dynamics 365 Sales) وMRSs Plus (مؤسسة Sales Navigator + Dynamics 365 Sales).
+      isCorrect: true
+      explanation: يتوفر خياران MRSs SKU.
+    - content: MRSs (فريق Sales Navigator + Dynamics 365 SalesDynamics 365 Sales) وMRSs Plus(Sales NavigatorEnterprise + Dynamics 365 Sales) وMRSs Professional.
+      isCorrect: false
+      explanation: يتوفر خياران MRSs SKU.
+    - content: MRSs (فريق Sales Navigator +Dynamics 365 Sales) وMRSs Plus (Enterprise Sales Navigator + Dynamics 365 Sales) و MRSs للمحترفين وTeamLink Extend.
+      isCorrect: false
+      explanation: يتوفر خياران MRSs SKU.
+  - content: ما هي قواعد المشاركة لـ MRSs SKU؟
+    choices:
+    - content: مطلوب ممثل LinkedIn للتواصل مع الشريك.
+      isCorrect: false
+      explanation: يجب إخطار موفر حلول المبيعات لـ Microsoft (SSP) وممثل LinkedIn مسبقاً بحركة المبيعات.
+    - content: شريك لإخطار ممثل LinkedIn بعد البيع.
+      isCorrect: false
+      explanation: يجب إخطار موفر حلول المبيعات لـ Microsoft (SSP) وممثل LinkedIn مسبقاً بحركة المبيعات.
+    - content: يجب إخطار موفر حلول المبيعات من Microsoft (SSP) وممثل LinkedIn مسبقاً بحركة المبيعات.
+      isCorrect: true
+      explanation: يجب إخطار موفر حلول المبيعات لـ Microsoft (SSP) وممثل LinkedIn مسبقاً بحركة المبيعات.
+    - content: سيعمل SSP مباشرةً مع ممثل LinkedIn قبل إشراك الشريك في الحركة.
+      isCorrect: false
+      explanation: يجب إخطار موفر حلول المبيعات لـ Microsoft (SSP) وممثل LinkedIn مسبقاً بحركة المبيعات.
+  - content: ما هو الحد الأدنى لعدد مقاعد MRSs اللازمة للتأهل لـ MRSs SKU؟
+    choices:
+    - content: "10"
+      isCorrect: true
+      explanation: هناك حاجة إلى عشرة مقاعد للتأهل لـ MRSs SKU.
+    - content: "50"
+      isCorrect: false
+      explanation: هناك حاجة إلى عشرة مقاعد للتأهل لـ MRSs SKU.
+    - content: "100"
+      isCorrect: false
+      explanation: هناك حاجة إلى عشرة مقاعد للتأهل لـ MRSs SKU.
+    - content: "250"
+      isCorrect: false
+      explanation: هناك حاجة إلى عشرة مقاعد للتأهل لـ MRSs SKU.

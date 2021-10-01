@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.using-iot-central-with-connected-field-service.5-knowledge-check
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8d477e567ea847f5f6e93131cd74bb96a0a65800
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434216"
+title: اختبر معلوماتك
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: عند استخدام Azure IoT Central مع Connected Field Service، كيف يمكن تحديد المعايير الخاصة برفع تنبيه IoT؟
+    choices:
+    - content: إنشاء قاعدة قالب جهاز باستخدام إجراء
+      explanation: لتحديد معايير رفع تنبيه IoT، يجب عليك إنشاء قاعدة قالب الجهاز باستخدام إجراء.
+      isCorrect: true
+    - content: تعديل وظيفة Azure Stream التحليلية
+      explanation: لتحديد معايير رفع تنبيه IoT، يجب عليك إنشاء قاعدة قالب الجهاز باستخدام إجراء.
+      isCorrect: false
+    - content: إنشاء وظيفة Azure
+      explanation: لتحديد معايير رفع تنبيه IoT، يجب عليك إنشاء قاعدة قالب الجهاز باستخدام إجراء.
+      isCorrect: false
+    - content: إنشاء خدمة مصغرة لمعالجة بيانات تتبع الاستخدام
+      explanation: لتحديد معايير رفع تنبيه IoT، يجب عليك إنشاء قاعدة قالب الجهاز باستخدام إجراء.
+      isCorrect: false
+    - content: استخدام سير عمل Dynamics 365
+      explanation: لتحديد معايير رفع تنبيه IoT، يجب عليك إنشاء قاعدة قالب الجهاز باستخدام إجراء.
+      isCorrect: false
+  - content: عند استخدام قاعدة IoT Central لتشغيل إجراء Power Automate ما نوع السجل الذي تم إنشاؤه في Dynamics 365؟
+    choices:
+    - content: أمر العمل
+      explanation: يتم إنشاء تنبيه IoT عند استخدام قاعدة IoT Central لتشغيل إجراء Power Automate.
+      isCorrect: false
+    - content: الحالة
+      explanation: يتم إنشاء تنبيه IoT عند استخدام قاعدة IoT Central لتشغيل إجراء Power Automate.
+      isCorrect: false
+    - content: ملاحظة على أصل العميل
+      explanation: يتم إنشاء تنبيه IoT عند استخدام قاعدة IoT Central لتشغيل إجراء Power Automate.
+      isCorrect: false
+    - content: تنبيه IoT
+      explanation: يتم إنشاء تنبيه IoT عند استخدام قاعدة IoT Central لتشغيل إجراء Power Automate.
+      isCorrect: true
+    - content: أصل العميل
+      explanation: يتم إنشاء تنبيه IoT عند استخدام قاعدة IoT Central لتشغيل إجراء Power Automate.
+      isCorrect: false
+  - content: في Azure IoT Central ما الذي نقوم بإنشائه لوصف مجموعة الأجهزة الخاصة بنا التي يتكون منها التطبيق؟
+    choices:
+    - content: أصل العميل
+      explanation: يتم إنشاء قالب جهاز لوصف مجموعة الأجهزة التي يتكون منها التطبيق.
+      isCorrect: false
+    - content: جهاز IoT
+      explanation: يتم إنشاء قالب جهاز لوصف مجموعة الأجهزة التي يتكون منها التطبيق.
+      isCorrect: false
+    - content: أمر العمل
+      explanation: يتم إنشاء قالب جهاز لوصف مجموعة الأجهزة التي يتكون منها التطبيق.
+      isCorrect: false
+    - content: قالب الجهاز
+      explanation: يتم إنشاء قالب جهاز لوصف مجموعة الأجهزة التي يتكون منها التطبيق.
+      isCorrect: true
+    - content: الأجهزة المتماثلة
+      explanation: يتم إنشاء قالب جهاز لوصف مجموعة الأجهزة التي يتكون منها التطبيق.
+      isCorrect: false
+  - content: لكي تتمكن من وضع علامة على جهاز بموقعه الفعلي (مثل العنون)، ما الذي يمكننا إنشاؤه في Azure IoT Central لتعقب ذلك على الجهاز؟
+    choices:
+    - content: الحدث
+      explanation: لكي تتمكن من وضع علامة علي جهاز بموقعه الفعلي، يلزمك إنشاء خاصية عليه.
+      isCorrect: false
+    - content: الخاصية
+      explanation: لكي تتمكن من وضع علامة علي جهاز بموقعه الفعلي، يلزمك إنشاء خاصية عليه.
+      isCorrect: true
+    - content: الإعداد
+      explanation: لكي تتمكن من وضع علامة علي جهاز بموقعه الفعلي، يلزمك إنشاء خاصية عليه.
+      isCorrect: false
+    - content: الحالة
+      explanation: لكي تتمكن من وضع علامة علي جهاز بموقعه الفعلي، يلزمك إنشاء خاصية عليه.
+      isCorrect: false

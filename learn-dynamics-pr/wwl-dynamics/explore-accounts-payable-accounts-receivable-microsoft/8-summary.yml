@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 1ca5fbb8e192b0cef1eba4d9d5be555975462455
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438520"
+azureSandbox: false
+durationInMinutes: 1
+content: '[!include[](includes/8-summary.md)]'

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.analyze-insights-marketing.3-lead-insights
+title: معلومات العملاء المتوقعون
+metadata:
+  title: معلومات العملاء المتوقعون
+  description: معلومات العملاء المتوقعون.
+  ms.date: 03/23/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ed24966f406ec4a677af0b117590a30bc74f7de7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7435390"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-lead-insights.md)]"

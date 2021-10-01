@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 08/23/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 7933fd773491b2bb50a45b121a3844f678853ba9
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7438808"
+azureSandbox: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: يتطلب الصنف ذو الوضع المختلط التصنيع المنفصل ومحدود الفاقد والتحويلي من أجل إنتاجه. هل يدعم Dynamics 365 Supply Chain Management التصنيع ذا الوضع المختلط؟
+    choices:
+    - content: لا. يمكن أن يدعم Dynamics 365 Supply Chain وضع تصنيع واحد فقط في كل مرة.
+      isCorrect: false
+      explanation: غير صحيح. يمكن أن يدعم Dynamics 365 Supply Chain جميع الأوضاع الثلاثة عند إنتاج منتج واحد.
+    - content: بعض. يمكن أن يدعم Dynamics 365 Supply Chain وضعين فقط عند إنتاج منتج واحد.
+      isCorrect: false
+      explanation: غير صحيح. يمكن أن يدعم Dynamics 365 Supply Chain جميع الأوضاع الثلاثة عند إنتاج منتج واحد.
+    - content: نعم. يمكن أن يدعم Dynamics 365 Supply Chain جميع الأوضاع الثلاثة عند إنتاج منتج واحد.
+      isCorrect: true
+      explanation: صحيح. يمكن أن يدعم Dynamics 365 Supply Chain جميع الأوضاع الثلاثة عند إنتاج منتج واحد.
+  - content: أي مما يلي يحدد كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية؟
+    choices:
+    - content: متغير المنتج
+      isCorrect: false
+      explanation: غير صحيح. تحدد ‏‫أصول المنتجات كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية. بناءً على هذه التعريفات، يمكنك إنشاء منتجات مميزة.
+    - content: المنتج
+      isCorrect: false
+      explanation: غير صحيح. تحدد ‏‫أصول المنتجات كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية. بناءً على هذه التعريفات، يمكنك إنشاء منتجات مميزة.
+    - content: أصل المنتج
+      isCorrect: true
+      explanation: صحيح. تحدد ‏‫أصول المنتجات كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية. بناءً على هذه التعريفات، يمكنك إنشاء منتجات مميزة.
+  - content: ما الميزة التي يجب عليك تنشيطها بحيث يمكن للمؤسسات إلغاء تنشيط البنى غير ذات الصلة بعمليات أعمال الشركة؟
+    choices:
+    - content: الاتفاقيات التجارية
+      isCorrect: true
+      explanation: صحيح. يجب عليك تنشيط الاتفاقيات التجارية بحيث يمكن لكل مؤسسة تنشيط البنى ذات الصلة وإلغاء تنشيط البنى غير ذات الصلة بعمليات أعمال الشركة.
+    - content: قدرات الموارد
+      isCorrect: false
+      explanation: غير صحيح. يجب عليك تنشيط الاتفاقيات التجارية بحيث يمكن لكل مؤسسة تنشيط البنى ذات الصلة وإلغاء تنشيط البنى غير ذات الصلة بعمليات أعمال الشركة.
+    - content: مجموعات الإنتاج
+      isCorrect: false
+      explanation: غير صحيح. يجب عليك تنشيط الاتفاقيات التجارية بحيث يمكن لكل مؤسسة تنشيط البنى ذات الصلة وإلغاء تنشيط البنى غير ذات الصلة بعمليات أعمال الشركة.

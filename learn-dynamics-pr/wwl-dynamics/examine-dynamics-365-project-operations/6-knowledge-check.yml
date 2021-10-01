@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-dynamics-365-project-operations.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 07/27/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: eee518418f93adafe0c089d2666413f75516fb1f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438594"
+azureSandbox: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أي مما يلي يمثل أفضل وصف لمدير المشروع؟
+    choices:
+    - content: الشخص المسؤول عن التخطيط للمشروع وتنفيذه من البداية إلى النهاية.
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن مدير المشروع هو الشخص المسؤول عن تخطيط المشروعات وتنفيذها وإغلاقها.
+    - content: فرد مسؤول فقط عن إيجاد موارد مؤهلة للعمل على مهام المشروع.
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذا يصف مسؤوليات مدير الموارد المخصص.
+    - content: فرد معين لتنفيذ مهمة معينة في مشروع.
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذا يصف مسؤوليات مورد مخصص للمشروع.
+  - content: التوزيع الخفيف - هو التعامل مع سيناريو الفواتير الأولية الذي يستخدم إمكانات أي من تطبيقات Dynamics 365؟
+    choices:
+    - content: تطبيقات Finance and operations
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأنه يمكن استخدام تطبيقات التمويل والعمليات في Project Operations لسيناريوهات الموارد/المنتجات غير المخزنة‬.
+    - content: Dynamics 365 Business Central
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأنه لا يمكن استخدام Project Operations مع Dynamics 365 Business Central.
+    - content: تطبيقات Customer Engagement
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأنه لا يمكن استخدام سوى تطبيقات customer engagement للتوزيع الخفيف الذي يتعامل مع سيناريو الفواتير الأولية.
+  - content: أي من المؤسسات التالية من المرجح أن تندرج تحت عنوان شركة مستندة إلى مشروع‬؟
+    choices:
+    - content: مؤسسة تبيع وتبني مباني مكاتب مخصصة.
+      isCorrect: true
+      explanation: صحيح. هذا صحيح لأن المشروع الذي تبيعه يتضمن بناء مبنى مكاتب مخصصة. سيتضمن ذلك التصميم والتخطيط والتنفيذ.
+    - content: مؤسسة تنشئ وتبيع حل برنامج محاسبة تم إنشاؤه مسبقًا.
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذا سيناريو مستند إلى المنتج.
+    - content: مؤسسة تبيع أجهزة وتقوم بتركيبها
+      isCorrect: false
+      explanation: غير صحيح. هذا غير صحيح لأن هذا سيناريو مستند إلى المنتج حيث يتم بيع منتج معين وتركيبه.

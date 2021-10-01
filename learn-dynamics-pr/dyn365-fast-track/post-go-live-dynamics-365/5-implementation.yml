@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.post-go-live-dynamics-365.5-implementation
+title: تنفيذ ومتابعة ورشة عمل ما بعد العرض المباشر
+metadata:
+  title: تنفيذ ومتابعة ورشة عمل ما بعد العرض المباشر
+  description: تعرف على الشخص الذي نفذ ورشة العمل وكيف تم ذلك وما المخرجات خطوات المتابعة المتوقعة.
+  ms.date: 08/12/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5bad99b28a980b9c1524d58db918a2cd5148ed72
+  ms.sourcegitcommit: 4efbdca72ca2f229c7b045aae0b506a50c751f07
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7431865"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-implementation.md)]"

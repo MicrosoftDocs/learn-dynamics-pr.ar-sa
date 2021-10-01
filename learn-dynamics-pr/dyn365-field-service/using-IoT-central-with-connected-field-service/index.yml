@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-bizapps.using-iot-central-with-connected-field-service
+metadata:
+  title: استخدام IoT Central مع Connected Field Service for Dynamics 365
+  description: ستركز الوحدة على استخدام IoT Central مع وظيفة Connected Field Service الإضافية لـ Dynamics 365 for Field Service.  سوف تشرح الوحدة بناء تطبيق IoT Central وتصعيد التنبيهات في Dynamics 365.
+  ms.date: 11/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 14b642742d0c0b6254723c8fc1099e98e9d9cff0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434190"
+title: استخدام IoT Central مع Connected Field Service for Dynamics 365
+summary: "[!include[](../includes/module-banner.md)]\n\nتركز الوحدة على استخدام IoT Central مع وظيفة Connected Field Service الإضافية لـ Dynamics 365 for Field Service.  تشرح الوحدة بناء تطبيق IoT Central وتصعيد التنبيهات في Dynamics 365.  \n"
+abstract: >
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+
+  - وصف Connected Field Service وAzure IoT Central
+
+  - إنشاء تطبيق وتعريفه في IoT Central
+
+  - بناء القواعد في IoT Central إذ يقوم بالتصعيد إلى Dynamics 365
+
+  - تسجيل الأوامر وإرسالها إلى الأجهزة
+prerequisites: تم نشر مثيل Microsoft Dynamics 365 مع Microsoft Dynamics 365 Field Service ونشر Connected Field Service وإعداد Azure IoT Hub ونشره لإكمال التمارين المعملية.
+iconUrl: /learn/achievements/using-iot-central-with-connected-field-service.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+- azure
+- azure-iot-central
+units:
+- learn-bizapps.using-iot-central-with-connected-field-service.1-using-iot-central-with-connected-field-service-overview
+- learn-bizapps.using-iot-central-with-connected-field-service.2-create-an-iot-central-application
+- learn-bizapps.using-iot-central-with-connected-field-service.3-connecting-to-connected-field-service
+- learn-bizapps.using-iot-central-with-connected-field-service.4-creating-an-iot-alert
+- learn-bizapps.using-iot-central-with-connected-field-service.5-knowledge-check
+- learn-bizapps.using-iot-central-with-connected-field-service.6-summary-and-clean-up
+badge:
+  uid: learn.using-iot-central-with-connected-field-service.badge

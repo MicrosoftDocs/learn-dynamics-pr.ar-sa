@@ -1,0 +1,58 @@
+### YamlMime:Module
+uid: learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl
+metadata:
+  title: استكشاف إمكانات إدارة المخزون والمستودع في Microsoft Dynamics 365 Supply Chain Management
+  description: استكشاف إمكانات إدارة المخزون والمستودع في Microsoft Dynamics 365 Supply Chain Management
+  ms.date: 07/15/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-supply-chain
+  ms.openlocfilehash: 3ea1264d6be1593d7bb3f9e1da809e6c1498c253
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438552"
+title: استكشاف إمكانات إدارة المخزون والمستودع في Microsoft Dynamics 365 Supply Chain Management
+summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain managementالمستخدمة للتحكم في العمليات اليومية للمستودع، بما في ذلك طرق حساب التكلفة وخيارات تكوين المستودع وإدارة المخزون.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   وصف طرق احتساب التكلفة، بما في ذلك التكلفة القياسية، والمتوسطات المرجحة، والوارد أخيرًا يُصرف أولاً (LIFO)، والوارد أولاً يُصرف أولاً‬ (FIFO).
+
+  *   صف حالات الاستخدام لنظام إدارة المستودعات (WMS) وخيارات تكوين المستودع، بما في ذلك التخطيط وحدود التخزين وملفات تعريف الموقع.
+
+  *   صف أوامر الشراء ودفاتر يومية وصول الأصناف وتوزيع البضائع
+
+  *   صف مفاهيم المخزون، بما في ذلك الحجوزات والانتقاء والتعبئة والتجديد والشحنات والجرد والمخزون في متناول اليد
+
+  *   صف إمكانات إدارة الجودة.
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/explore-warehouse-inventory-management-capabilities-dynamics-365.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-scm
+units:
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.introduction
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.explore-costing-methods
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.explore-use-cases-for-warehouse-management-systems-wms-production-environments
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.explore-purchase-orders-item-arrival-journals-cross-docking
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.explore-inventory-reservations-picking-packing-replenishment-shipments
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.explore-inventory-counting-inventory-hand concepts
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.explore-quality
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.configuration-options
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.exercise-create-purchase-order
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.exercise-create-warehouse
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.knowledge-check
+- learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.summary
+badge:
+  uid: learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.badge

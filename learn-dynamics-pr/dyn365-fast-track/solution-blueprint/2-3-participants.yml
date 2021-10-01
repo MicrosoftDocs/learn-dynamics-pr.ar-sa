@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-blueprint.2-3-participants
+title: المشاركون في مراجعة مخطط الحل
+metadata:
+  title: المشاركون في مراجعة مخطط الحل
+  description: تعرف على المشاركين الذين يجب أن يشاركوا في ورشة عمل مراجعة مخطط الحل.
+  ms.date: 07/22/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-fast-track
+  ms.openlocfilehash: 5658272b156aefb5c3963f3064a9caec04b5876149295564daa93c3262db6e4a
+  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/11/2021
+  ms.locfileid: "7431742"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-3-participants.md)]"
