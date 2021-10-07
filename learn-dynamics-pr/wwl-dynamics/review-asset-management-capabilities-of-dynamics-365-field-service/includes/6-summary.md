@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4fcb884a62914b0c2ec2a4f16a87daafb6a33e8b08e366bfd0cb7a9fff6aaf47
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 20d85e41e13b590ab4e880ce4b629a52de0f62f7
+ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438237"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "7498437"
 ---
 كما ترى، تتيح إمكانات إدارة الأصول وIoT التي توفرها Dynamics 365 Field Service للمؤسسات الاحتفاظ بكتالوج للأصول المختلفة لجميع العملاء الذين يقدمون الخدمات إليهم. من خلال الاحتفاظ بهذا الكتالوج، يمكنك بسهولة معرفة عمليات الصيانة والإصلاح التي تم إجراؤها على الجهاز بالإضافة إلى القدرة على فتح أوامر عمل جديدة متعلقة بها بسهولة.
 
@@ -25,7 +25,7 @@ Dynamics 365 Field Service
  -  [موقع الويب](https://dynamics.microsoft.com/field-service/overview/)
  -  [مدونة Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/)
  -  [الوثائق](/dynamics365/field-service/user-guide)
- -  [التعلم](/learn/browse/)
+ -  [التعلم](/learn/browse/?products=dynamics-field-service)
  -  [Dynamics 365 Community](https://community.dynamics.com/)
  -  [الموارد](https://dynamics.microsoft.com/field-service/resources/)
  -  [Connected Field Service](/dynamics365/field-service/connected-field-service-overview)

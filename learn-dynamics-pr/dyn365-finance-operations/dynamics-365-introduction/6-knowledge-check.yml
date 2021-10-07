@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.knowledge-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0dab41143f70e8a0d0521cfbbfbffe396146cb85
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498489"
+azureSandbox: false
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من التطبيقات التالية هو تطبيق يستند إلى النموذج؟
+    choices:
+    - content: Dynamics 365 Sales
+      isCorrect: true
+      explanation: صحيح. إن Dynamics 365 Sales هو تطبيق يستند إلى النموذج.
+    - content: Dynamics 365 Commerce
+      isCorrect: false
+      explanation: غير صحيح. هذا التطبيق هو تطبيق Finance and Operations.
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: false
+      explanation: غير صحيح. هذا التطبيق هو تطبيق Finance and Operations.
+  - content: ما النظام الأساسي الذي يتطلبه الذكاء الاصطناعي (AI) في Dynamics 365 للعمل؟
+    choices:
+    - content: Microsoft Dataverse
+      isCorrect: true
+      explanation: صحيح. مطلوب Microsoft Dataverse لاستخدام الذكاء الاصطناعي في Dynamics.
+    - content: SQL
+      isCorrect: false
+      explanation: غير صحيح. يمكن أن يدعم SQL الذكاء الاصطناعي، ولكنه ليس مطلوبًا.
+    - content: Power BI
+      isCorrect: false
+      explanation: غير صحيح. يمكن أن يستخدم Power BI الذكاء الاصطناعي، لكنه ليس مطلوباً.
+  - content: أي من المنتجات التالية يجب أن يستخدمها شخص ما للمساعدة في تدريب موظف جديد على كيفية صيانة قطعة من معدات المصنع؟
+    choices:
+    - content: Dynamics 365 Sales Insights
+      isCorrect: false
+      explanation: غير صحيح. لا يتم استخدام Dynamics 365 Sales Insights كأداة تدريب.
+    - content: Dynamics 365 Remote Assist
+      isCorrect: false
+      explanation: غير صحيح. قد تستخدم Dynamics 365 Remote Assist للتعاون.
+    - content: Dynamics 365 Guides
+      isCorrect: true
+      explanation: صحيح. قد تستخدم Dynamics 365 Guides للتدريب.

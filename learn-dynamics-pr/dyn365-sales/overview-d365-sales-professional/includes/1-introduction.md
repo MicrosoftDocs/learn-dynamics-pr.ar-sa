@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eb96079c659750b9ea35570f45e20dd0803650bb
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: a1d1ac8d09c5dca7947af2661f48b9071d840f35
+ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436190"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "7501572"
 ---
 مرحباً بك في Dynamics 365 Sales Professional. إذا لم تكن بحاجة إلى تطبيق مؤسسة كامل لمؤسستك، فإن تطبيق Dynamics 365 Sales Professional الجديد يناسبك. 
 

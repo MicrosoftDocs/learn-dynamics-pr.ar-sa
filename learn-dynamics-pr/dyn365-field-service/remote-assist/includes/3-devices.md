@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 493fc62b8a48a4900642dc74f3c2fc58f9a30b7e
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: b5b7af6642317576bf082d4be6e596edf9b50f8b
+ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7434108"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "7514891"
 ---
 يمكن استخدام Remote Assist على كل من الجهازين HoloLens وHoloLens 2 ويمكن دعمها على الهواتف المحمولة والأجهزة اللوحية. التجربة الإجمالية لإجراء مكالمات الواقع المختلط وتبادل المعرفة متشابهة؛ ومع ذلك، توجد بعض المزايا والاختلافات بناءً على كل نظام أساسي.
 
@@ -46,7 +46,7 @@ ms.locfileid: "7434108"
 
 لمزيد من المعلومات حول Remote Assist Mobile، راجع [نظرة عامة على الهاتف المحمول Remote Assist](/dynamics365/mixed-reality/remote-assist/mobile-app/remote-assist-mobile-overview).
 
-### <a name="use-remote-assist-with-hololens"></a>استخدام Remote Assist مع HoloLens
+## <a name="use-remote-assist-with-hololens"></a>استخدام Remote Assist مع HoloLens
 
 في حين أن أجهزة HoloLens المادية لها تكاليف إضافية، فإن إصدار HoloLens يوفر العديد من المزايا مقارنة بإصدار الهاتف المحمول.
 

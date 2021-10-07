@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص لمقدمة Microsoft Dynamics 365
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: fe633e837496570051e5bf3a745f9676e88e1e02
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503344"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/7-summary.md)]'

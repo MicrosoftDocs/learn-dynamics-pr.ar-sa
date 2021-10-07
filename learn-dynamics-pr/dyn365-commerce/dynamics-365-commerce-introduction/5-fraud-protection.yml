@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365-commerce.fraud-protection
+title: Dynamics 365 Fraud Protection
+metadata:
+  title: Dynamics 365 Fraud Protection
+  description: تعرّف على Dynamics 365 Fraud Protection.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: eda55be14dfa24c1b14fbf878d3223740f5a5fe4
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7513948"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/5-fraud-protection.md)]'

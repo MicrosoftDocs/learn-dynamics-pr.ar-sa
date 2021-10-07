@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 49e74515b5cd3ed4dc4d5e3b143fc8bd62925c3f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: intro-internal
+  ms.openlocfilehash: 4e580013f40d2420bc7bf10baf4d650de28ab6e6
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358078"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498092"
 title: الشروع في العمل باستخدام Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيوفر Dynamics 365 Commerce حلاً شاملاً للقنوات المتعددة يوحد نظام التشغيل، وتجارب في المتجر، والتجارة الإلكترونية لتخصيص مشاركة العملاء، وزيادة إنتاجية الموظفين، وتحسين العمليات، وتقديم نتائج أعمال أفضل.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على منصة Dynamics 365 Commerce.\n-   اكتشف قنوات التجارة المختلفة والأغراض منها. \n"

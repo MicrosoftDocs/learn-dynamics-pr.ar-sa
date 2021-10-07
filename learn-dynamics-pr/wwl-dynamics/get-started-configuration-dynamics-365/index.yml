@@ -8,12 +8,13 @@ metadata:
   ms.author: anjenni
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: bcfec9f3fc5015038dbe99679872ad1a9ac7dff5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: intro-internal
+  ms.openlocfilehash: 685572e97d514badafe07fad8c510cd2e3f1dad0
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438629"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497000"
 title: بدء استخدام التكوين في Dynamics 365
 summary: في هذه الوحدة النمطية، سيتعرف الطلاب على Power Platform و"مراكز إدارة Dynamics 365" ويتعلمون كيفية العمل مع المستأجرين والبيئات وقواعد البيانات.
 abstract: >

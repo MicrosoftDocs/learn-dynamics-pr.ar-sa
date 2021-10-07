@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 92775b6c6087048a8c041d6a5c372bc82866b8d03b5d1856bedfe5a540ebb141
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e388b6cb27fc43fa5b3519c3db38d8ff1a613897
+ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438489"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "7498445"
 ---
 في Dynamics 365 Field Service، يتم استخدام سجل أصول العميل لتمثيل قطع معينة من المعدات التي يمتلكها العميل وفي مواقعهم. يمكن أن يكون الأصل أي شيء مثل قطعة كبيرة من معدات التصنيع أو التكنولوجيا أو الجهاز أو مكيف الهواء.
 
@@ -21,7 +21,7 @@ ms.locfileid: "7438489"
 
 ## <a name="demo-video-create-and-work-with-a-customer-asset"></a>فيديو توضيحي: أنشئ أحد أصول العميل واستخدمه
 
-في هذا العرض التوضيحي للنقر، سيتم إرشادك خلال عملية إنشاء أصل عميل في Dynamics 365 Field Service ورؤية الطرق المختلفة لاستخدام أصول العميل في التطبيق.
+في هذا الفيديو التوضيحي، سيتم إرشادك خلال عملية إنشاء أصل عميل في Dynamics 365 Field Service ورؤية الطرق المختلفة لاستخدام أصول العميل في التطبيق.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4M9Lz]
 

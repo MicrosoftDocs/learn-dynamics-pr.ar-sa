@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365-commerce.merchandising-inventory
+title: قدرات أخرى
+metadata:
+  title: قدرات أخرى
+  description: قدرات أخرى في Dynamics 365 Commerce
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 80ef18a674571d4ad4ed6e504d79f40c9b05961d
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7513878"
+azureSandbox: false
+durationInMinutes: 8
+content: '[!include[](includes/4-capabilities.md)]'

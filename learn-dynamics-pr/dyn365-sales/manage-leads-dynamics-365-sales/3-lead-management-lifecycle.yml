@@ -4,17 +4,16 @@ title: دورة حياة إدارة العملاء المحتملين
 metadata:
   title: دورة حياة إدارة العملاء المحتملين
   description: دورة حياة إدارة العملاء المحتملين
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: f1c08396b0f0f3ee90f2ef2d1150d96f3b5e1fd0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 72f0eb5b42f43612a598a39eb2e3d7c9a1dad3c3
+  ms.sourcegitcommit: ca713052feaf6cfc7793be55554a1a3fdb0c997e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436128"
+  ms.lasthandoff: 09/03/2021
+  ms.locfileid: "7472704"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

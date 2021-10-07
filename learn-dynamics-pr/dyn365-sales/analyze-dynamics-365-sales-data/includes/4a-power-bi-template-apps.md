@@ -1,22 +1,22 @@
 ---
-ms.openlocfilehash: 52bcec6574e7442f1f90a224442983b99fda159f
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e5ddb44fff1a04dd5689bc3a433b9b486592be98
+ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436213"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "7513295"
 ---
-تطبيقات قوالب Power BI هي حزم متكاملة من لوحات معلومات وتقارير Power BI منشأة مسبقًا. ويوفر استخدام تطبيقات قوالب Power BI مع Dynamics 365 Sales طريقة ملائمة وفعالة وسريعة للوصول إلى بيانات المبيعات وتحليلها.
+تطبيقات قوالب Power BI هي حزم متكاملة من لوحات معلومات وتقارير Power BI منشأة مسبقًا. يوفر استخدام تطبيقات قوالب Power BI مع Dynamics 365 Sales طريقة ملائمة وفعالة وسريعة للوصول إلى بيانات مبيعاتك وتحليلها.
 
-تتوفر الآن تطبيقات قوالب Power BI لتحليل بيانات المبيعات في Dynamics 365 Sales:
+تتوفر تطبيقات قوالب Power BI التالية لتحليل بيانات مبيعاتك في Dynamics 365 Sales:
 
-- تحليلات المبيعات لـ Dynamics 365 Sales
+- Sales Analytics for Dynamics 365 Sales
 
 - تحليلات العمليات لـ Dynamics 365
 
 يمكنك الاتصال ببيانات Dynamics 365 Sales وتحليلها باستخدام تطبيقات قوالب Power BI هذه. ويمكنك جدولة تحديثات البيانات التلقائية لضمان أنه يمكنك دائمًا اتخاذ القرارات الأكثر إفادة في الوقت المناسب. يمكنك أيضًا إنشاء لوحات معلومات Power BI مخصصة خاصة بك تستند إلى التقارير الموجودة في تطبيقات القوالب هذه وإدراجها مباشرة في Dynamics 365 Sales. 
 
-## <a name="sales-analytics-for-dynamics-365-sales"></a>تحليلات المبيعات لـ Dynamics 365 Sales
+## <a name="sales-analytics-for-dynamics-365-sales"></a>Sales Analytics for Dynamics 365 Sales
 
 يعد مديرو المبيعات مسؤولين عن إدارة مندوبي المبيعات الذين يعملون مع العملاء لإقفال الصفقات كل يوم. يحتاج مديرو المبيعات إلى الاطلاع على المقاييس التشغيلية ومقاييس البنية الأساسية لبرنامج ربط العمليات التجارية الرئيسية للارتقاء بأداء الفريق.
 

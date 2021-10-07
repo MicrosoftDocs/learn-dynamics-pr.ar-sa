@@ -1,21 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.unified-customer-profile
 metadata:
-  title: إنشاء ملف تعريف موحّد للعملاء في Dynamics 365 Customer Insights
-  description: تعرَّف على إنشاء ملف تعريف موحَّد للعملاء في Customer Insights.
+  title: إنشاء ملف تعريف عميل موحد في Dynamics 365 لرؤى الجمهور.
+  description: تعرَّف على إنشاء ملف تعريف موحَّد للعملاء في رؤى الجمهور.
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 207a8d6d5c76ec08eb7c44cec2804a69fe374796
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: intro-internal
+  ms.openlocfilehash: b54a3277c079657888103e53a99a485659b4f398
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330354"
-title: إنشاء ملف تعريف موحّد للعملاء في Dynamics 365 Customer Insights
-summary: "[!include[](../includes/module-banner.md)] \n\nDynamics 365 Customer Insights عبارة عن نظام أساسي لبيانات العملاء (CDP) سهل الاستخدام ومرن يساعد على إطلاق العنان للرؤى والتعمق في فهم عملائك. ستتعرّف في هذه الوحدة على إنشاء ملف تعريف موحّد للعملاء في Customer Insights.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على طريقة إنشاء مثيل من مثيلات Customer Insights. \n- التعرُّف على طريقة استيعاب البيانات.\n- التعرُّف على توحيد البيانات. \n"
+  ms.lasthandoff: 09/18/2021
+  ms.locfileid: "7501832"
+title: إنشاء ملف تعريف عميل موحد في Dynamics 365 لرؤى الجمهور.
+summary: "[!include[](../includes/module-banner.md)] \n\nإن رؤى الجمهور في Dynamics 365 عبارة عن نظام أساسي لبيانات العملاء (CDP) سهل الاستخدام ومرن يساعدك على إطلاق العنان للرؤى والتعمق في فهم عملائك. ستتعرّف في هذه الوحدة على إنشاء ملف تعريف موحد للعملاء في رؤى الجمهور.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على كيفية إنشاء مثيل من مثيلات رؤى الجمهور. \n- التعرُّف على طريقة استيعاب البيانات.\n- التعرُّف على توحيد البيانات. \n"
 prerequisites: لا شيء
 iconUrl: /learn/achievements/unified-customer-profile.svg
 levels:

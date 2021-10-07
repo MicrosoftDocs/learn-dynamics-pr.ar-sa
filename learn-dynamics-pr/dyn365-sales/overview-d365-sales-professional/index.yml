@@ -3,19 +3,19 @@ uid: learn-dynamics.overview-d365-sales-professional
 metadata:
   title: نظرة عامة على Dynamics 365 Sales Professional
   description: ما هو Dynamics 365 Sales Professional وكيف أبدأ في استخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية.
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4b3e828ef56661969cc6364de7c87919b8352dcb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 09438a771ee547570bc939fdeccd5c70f1d3427f
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436181"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498130"
 title: نظرة عامة على Dynamics 365 Sales Professional
-summary: "[!include[](../includes/module-banner.md)]\n\nما هو Dynamics 365 Sales Professional وكيف أبدأ في استخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على أساسيات Dynamics 365 Sales Professional\n- تعرف على الحسابات وجهات الاتصال\n- استكشف أنشطة مثل المكالمات الهاتفية والمواعيد والبريد الإلكتروني والمهام\n"
+summary: "[!include[](../includes/module-banner.md)]\nما هو Dynamics 365 Sales Professional وكيف أبدأ في استخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أساسيات Dynamics 365 Sales Professional\n- تعرف على الحسابات وجهات الاتصال\n- استكشف أنشطة مثل المكالمات الهاتفية والمواعيد والبريد الإلكتروني والمهام\n"
 prerequisites: لا‬‬ شيء
 iconUrl: /learn/achievements/overview-d365-sales-professional.svg
 levels:

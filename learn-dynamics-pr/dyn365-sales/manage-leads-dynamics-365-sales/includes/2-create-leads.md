@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c4eab4110140398f4cc7cb979ee6e885cfb2223e
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: ed83b50565c62e9a27d5a5d92a5e46bffd443fbe
+ms.sourcegitcommit: ca713052feaf6cfc7793be55554a1a3fdb0c997e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436372"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "7472792"
 ---
 تستطيع المؤسسة تحديد العملاء المتوقعين بطرق عديدة. قد تأتي العميل المتوقع من بريد إلكتروني أو مكالمة هاتفية تلقاها أحد الموظفين في المؤسسة. ويمكن أن يأتي من قائمة العملاء المتوقعين التي اشتراها المُورد. وقد يأتي أيضًا من عميل تم إدراجه في حملة تسويقية وأعرب عن اهتمامه.
 
@@ -28,7 +28,7 @@ ms.locfileid: "7436372"
 
 ## <a name="converting-email-activities-to-leads"></a>تحويل أنشطة البريد الإلكتروني إلى عملاء متوقعين
 
-هناك طريقة أخرى لإنشاء عملاء متوقعين في Dynamics 365 Sales وهي تحويل رسائل البريد الإلكتروني إلى عملاء متوقعين. يمكنك تحويل البريد الإلكتروني إلى عميل متوقع مباشرة في تطبيق المبيعات أو في Microsoft Dynamics 365 App for Outlook بشكل عام، يتم استخدام Dynamics 365 App for Outlook كثيرًا، نظرًا إلى أن فريق المبيعات قد يستثمرون معظم وقتهم في تطبيق البريد الإلكتروني لديهم.
+هناك طريقة أخرى لإنشاء عملاء متوقعين في Dynamics 365 Sales وهي تحويل رسائل البريد الإلكتروني إلى عملاء متوقعين. يمكنك تحويل بريد إلكتروني إلى عميل متوقع مباشرة في تطبيق المبيعات.
 
 ![يتم تمييز Dynamics 365 مع خيار الإضافة كعميل متوقع.](../media/lm-unit2-3.png)
 
@@ -57,6 +57,3 @@ ms.locfileid: "7436372"
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2NFzw]
 
 [إنشاء أو تعديل عميل متوقع (المبيعات ومركز المبيعات)](/dynamics365/customer-engagement/sales-enterprise/create-edit-lead-sales).
-
-
-

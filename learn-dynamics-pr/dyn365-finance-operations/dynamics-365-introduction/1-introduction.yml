@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة إلى Microsoft Dynamics 365
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 531bed79c3236838e235b31bceebbadc6583ee9d
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498272"
+azureSandbox: false
+durationInMinutes: 8
+content: '[!include[](includes/1-introduction.md)]'

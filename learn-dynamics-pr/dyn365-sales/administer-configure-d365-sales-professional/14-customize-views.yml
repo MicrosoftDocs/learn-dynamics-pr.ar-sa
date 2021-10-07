@@ -4,18 +4,17 @@ title: تخصيص طرق العرض
 metadata:
   title: تخصيص طرق العرض
   description: تخصيص طرق العرض
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 04eea8cf1163278f46e59d71ac1d3342323c3259
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8625791ee5884f7850ac2de11b3e974ceb1ebdf3
+  ms.sourcegitcommit: 6402fa875c0008328cdc2ddd659a927dd0996f33
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436237"
-durationInMinutes: 5
+  ms.lasthandoff: 09/20/2021
+  ms.locfileid: "7506499"
+durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]
 

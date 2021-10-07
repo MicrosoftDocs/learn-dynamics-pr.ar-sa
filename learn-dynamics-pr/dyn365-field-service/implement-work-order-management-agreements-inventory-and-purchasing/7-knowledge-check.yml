@@ -3,19 +3,18 @@ uid: learn-bizapps.implement-work-order-management-agreements-inventory-and-purc
 metadata:
   title: الفحص المعرفي لإدارة أمر العمل والاتفاقيات والمخزون والشراء في Microsoft Dynamics 365 Field Service
   description: يعمل هذا الفحص المعرفي على اختبار معلوماتك المعرفية المتعلقة بإدارة أمر العمل والاتفاقيات والمخزون والشراء في Microsoft Dynamics 365 for Field Service.
-  ms.date: 01/25/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 9ed1b8264a18cfa91c77725ad087814e4bbf68e7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9792d9d5d54165b44ff5f3096e36899ff0cf49ab
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434207"
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503042"
 title: اختبر معلوماتك
-durationInMinutes: 5
+durationInMinutes: 8
 quiz:
   title: الفحص المعرفي لإدارة أمر العمل والاتفاقيات والمخزون والشراء في Microsoft Dynamics 365 Field Service
   questions:

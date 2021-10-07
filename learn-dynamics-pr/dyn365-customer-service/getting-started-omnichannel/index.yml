@@ -7,12 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a52444f9d21be9091638f6afef153d792ffdbf32
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: intro-internal
+  ms.openlocfilehash: 58c600e69a2ab7e7dcdc8db089b8be0dc17e596c
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331275"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7496807"
 title: بدء استخدام القناة متعددة الاتجاهات لـ Customer Service
 summary: "[!include[](../includes/module-banner.md)] \n\nباستخدام القناة متعددة الاتجاهات لـ Customer Service، يمكن للمناديب تقديم الخدمة لعدة عملاء عبر قنوات مختلفة مباشرة من داخل بيئة Dynamics 365 لديهم. تتناول هذه الوحدة ميزات ووظائف القناة متعددة الاتجاهات.    \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على تجربة المندوب وإدارة الجلسات.\n- العمل مع المحادثات وملخصات العملاء. \n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 57edd57d899f1f10ba0b5863a172880f869952fb
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 8f9e805e9ed713b435b1101a302272cf0523f833
+ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436286"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "7501652"
 ---
 تبدأ عملية المبيعات بعميل متوقع، وهو شخص مهتم بالمنتجات أو الخدمات التي تقدمها. قد يتم إنشاء العملاء المتوقعين بشكل تلقائي أو قد يتم الحصول عليهم من مصادر أخرى، مثل صفحات الاشتراك في موقع ويب، أو استعلامات البريد الإلكتروني، أو بطاقات العمل التي تجمعها في المعارض التجارية.
 

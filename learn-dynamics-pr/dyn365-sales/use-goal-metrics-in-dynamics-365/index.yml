@@ -3,16 +3,16 @@ uid: learn-dynamics.use-goal-metrics
 metadata:
   title: استخدام مقاييس الهدف في Dynamics 365 Sales and Customer Service
   description: تحديد مقاييس خدمة العملاء، وإنشاء مقاييس الهدف، والعمل مع أعمدة العرض الإجمالي والاستعلامات.
-  ms.date: 02/05/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/22/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 541ec0cf2b60627d393be61a054b368eb2f830d1
-  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.openlocfilehash: 98ee780738ba7e6b1e3557328ebfd1f35cc86857
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7436392"
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7513619"
 title: استخدام مقاييس الهدف في Dynamics 365 Sales and Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   تحديد مقاييس خدمة العملاء، وإنشاء مقاييس الهدف، والعمل مع أعمدة العرض الإجمالي والاستعلامات.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - التحديد بالمقاييس اللازمة لبناء أهداف خدمة عملاء فعالة
 

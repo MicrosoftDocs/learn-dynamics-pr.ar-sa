@@ -4,17 +4,16 @@ title: نظرة عامة حول العملاء المتوقعين في Dynamics 
 metadata:
   title: نظرة عامة حول العملاء المتوقعين في Dynamics 365
   description: نظرة عامة حول العملاء المتوقعين في Dynamics 365
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 8103ec7c6926c862a4a849fab868243fc342d315
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b4faef4b965ad034d395fe7a2126122ba8a14280
+  ms.sourcegitcommit: ca713052feaf6cfc7793be55554a1a3fdb0c997e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436270"
+  ms.lasthandoff: 09/03/2021
+  ms.locfileid: "7472752"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fd90dc7541f2a49d5e3105e630304eafbadc0958
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: 90df47f7d5e0453c7429e22627eda052cee47554
+ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436343"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "7513814"
 ---
 تعمل قوالب Excel على تمكين المستخدمين من إنشاء تقارير Excel محدثة دون الحاجة إلى معرفة صيغ Excel أو المخططات أو جداول العرض المحورية. يتم إنشاء قوالب Excel من طريقة عرض واحدة لبيانات Microsoft Dataverse.
 
@@ -16,6 +16,6 @@ ms.locfileid: "7436343"
 
 استخدم وظيفة المخطط المحوري في Excel لإضافة مخططات ورسوم بيانية إلى المستند. يجب إضافة جميع المخططات والرسوم البيانية فوق الجدول الحالي حتى لا يتم الكتابة فوق العناصر، حيث يتغير عدد الصفوف في جدول البيانات في المستقبل.
 
-يتم تحميل القوالب التنظيمية في منطقة الإعدادات ضمن القوالب. يتم تحميل القوالب الشخصية في منطقة الجدول حيث يمكن العثور على طريقة العرض ذات الصلة ضمن عقدة قالب excel في شريط التنقل.
+يتم تحميل القوالب التنظيمية في منطقة الإعدادات ضمن القوالب. يتم تحميل القوالب الشخصية في منطقة الجدول حيث يمكن العثور على العرض ذات الصلة ضمن عقدة قالب Excel في شريط التنقل.
 
-لمزيد من المعلومات، يرجى مراجعة [إدارة قوالب Excel](/dynamics365/customer-engagement/sales-professional/manage-excel-templates). 
+لمزيد من المعلومات، يرجى مراجعة [إنشاء قوالب Excel وإدارتها في Dynamics 365 Sales Professional](/dynamics365/customer-engagement/sales-professional/manage-excel-templates). 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 464638ec331d7208d65b95c519114b0b4a5e922add5d7c8beb6c7df175a29c35
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a72cfa18f4f83c1dd157bd02a82e371b291b96bf
+ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7054247"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "7515107"
 ---
 عندما يبدأ العملاء في طلبات المحادثة، تأكد من حصولك على أكبر قدر ممكن من المعلومات منهم. بعد ذلك، ستتمكن من تقديم تفاصيل دقيقة عند تمرير المحادثة إلى المندوب. قد تتضمن هذه المعلومات تفاصيل العميل أو الحالة حتى يتمكن المندوب من فهم السياق المحيط بالمحادثة بشكل أكثر فاعلية. يمكن أن تؤثر عوامل متعددة على مقدار البيانات المتاحة للمندوب عند تسليم الطلب إليه.  
 

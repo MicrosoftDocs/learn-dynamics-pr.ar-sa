@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.enrich-data
 metadata:
-  title: إثراء البيانات والتنبؤات من خلال Customer Insights
-  description: بادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.
+  title: إثراء البيانات والتنبؤات من خلال رؤى الجمهور
+  description: بادر بإثراء بياناتك بمصادر البيانات الأخرى واستخدم الذكاء الاصطناعي لعمل تنبؤات بناءً على البيانات السابقة.
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d1bb75d89cf2ba42047af7a20f23c7eb31881e1d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: bf46563e823d12516452903d920d8885d36c43ec
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360661"
-title: إثراء البيانات والتنبؤات من خلال Customer Insights
-summary: "[!include[](../includes/module-banner.md)] \nبادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتوفرة في Customer Insights.\n- تكوين وظائف العلامة التجارية والاهتمام.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7486157"
+title: إثراء البيانات والتنبؤات من خلال رؤى الجمهور
+summary: "[!include[](../includes/module-banner.md)] \nبادر بإثراء بياناتك بمصادر البيانات الأخرى واستخدم الذكاء الاصطناعي لعمل تنبؤات بناءً على البيانات السابقة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتاحة في رؤى الجمهور.\n- تكوين وظائف العلامة التجارية والاهتمامات.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
 prerequisites: لا شيء
 iconUrl: /learn/achievements/enrich-data.svg
 levels:

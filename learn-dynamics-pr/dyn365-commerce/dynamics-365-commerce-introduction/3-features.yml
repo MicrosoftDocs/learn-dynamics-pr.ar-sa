@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365-commerce.core-retail
+title: الميزات الرئيسية
+metadata:
+  title: الميزات الرئيسية
+  description: تعرف على بعض الميزات الرئيسية لـ Dynamics 365 Commerce.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2b849805b1ae2894df9181184531ae48603a83c3
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7513526"
+azureSandbox: false
+durationInMinutes: 12
+content: '[!include[](includes/3-features.md)]'

@@ -4,17 +4,19 @@ title: تعرف على Dynamics 365 Customer Service
 metadata:
   title: تعرف على Dynamics 365 Customer Service
   description: تعرف على Dynamics 365 Customer Service
-  ms.date: 07/22/2021
+  ms.date: 09/16/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: ee3294315a441f8e5d7a939e5ce61328b94d99e2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 12e1c2f60365d3d68ac63c2a7cd68d5c86e5179a
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357593"
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503098"
 azureSandbox: false
+sandbox: false
+labModal: false
 durationInMinutes: 9
 content: '[!include[](includes/4-get-introduced.md)]'

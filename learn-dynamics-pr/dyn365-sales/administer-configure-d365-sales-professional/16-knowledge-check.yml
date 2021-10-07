@@ -3,19 +3,18 @@ uid: learn-dynamics.administer-configure-d365-sales-professional.16-knowledge-ch
 metadata:
   title: إدارة وتكوين فحص المعرفة في Dynamics 365 Sales Professional
   description: أجب عن الأسئلة التالية لترى ما تعلمته
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 2e697c0f0f826aea69efd9b2197b7f82575ff439
-  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.openlocfilehash: 94e083f00ce23c446f537c2e1e3128cde63fc8be
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7436332"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498084"
 title: اختبر معلوماتك
-durationInMinutes: 5
+durationInMinutes: 6
 quiz:
   title: إدارة وتكوين فحص المعرفة في Dynamics 365 Sales Professional
   questions:

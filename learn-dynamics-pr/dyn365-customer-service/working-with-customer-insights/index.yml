@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.working-with-customer-insights
 metadata:
-  title: العمل باستخدام Dynamics 365 Customer Insights
-  description: تعرف على كيفية العمل مع Customer Insights.
+  title: العمل مع رؤى الجمهور في Dynamics 365
+  description: تعرف على كيفية العمل مع رؤى الجمهور.
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 69690dde64b761e05e134930749fc4da39083f20
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4e64b2a78ad114d8b4627e1cbf911af0905120f2
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7440084"
-title: العمل باستخدام Dynamics 365 Customer Insights
-summary: "[!include[](../includes/module-banner.md)] \n\nCustomer Insights يستوعب البيانات من جميع مصادر البيانات المختلفة ويوحدها في ملف تعريف عميل واحد. في هذه الوحدة النمطية، تعرف على كيفية العمل مع Customer Insights. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تكوين فهارس البحث والتصفية.\n- تحديد العلاقات والأنشطة.\n- العمل مع المقاييس.\n- استخدام Customer Insights. \n"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7486250"
+title: العمل مع رؤى الجمهور في Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \n\nتعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد. في هذه الوحدة، تعرف على كيفية العمل مع رؤى الجمهور. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تكوين فهارس البحث والتصفية.\n- تحديد العلاقات والأنشطة.\n- العمل مع المقاييس.\n- استخدام رؤى الجمهور. \n"
 prerequisites: لا شيء
 iconUrl: /learn/achievements/working-with-customer-insights.svg
 levels:

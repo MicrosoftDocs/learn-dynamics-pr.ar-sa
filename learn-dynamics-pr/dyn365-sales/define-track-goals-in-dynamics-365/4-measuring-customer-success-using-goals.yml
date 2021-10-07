@@ -4,17 +4,16 @@ title: تمرين - قياس نجاح العميل باستخدام الأهدا
 metadata:
   title: تمرين - قياس نجاح العميل باستخدام الأهداف
   description: تمرين - قياس نجاح العميل باستخدام الأهداف
-  ms.date: 02/05/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/22/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: bda499870cc34afc688a52868980e1444657bb3f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3b94e5de5c60f87c383c567fc23855baa41b98b7
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436183"
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7515062"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -8,12 +8,13 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-intelligent-order-management
-  ms.openlocfilehash: ba898f2da1ebe842c96c7175ee3bf03b66c90997e383da3d1a8b944e03d25648
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.custom: intro-internal
+  ms.openlocfilehash: 14aaae6151d96cffa361e11425d81604f9f95dc2
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7092752"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497678"
 title: الشروع في العمل باستخدام Dynamics 365 Intelligent Order Management
 summary: "[!include[](../includes/module-banner.md)] \nباستخدام Dynamics 365 Intelligent Order Management، يمكن للعملاء إدارة تزامن الأوامر من خلال التنفيذ. تمكن هذه القدرات المؤسسات من تزامن تدفق الأوامر عبر الأنظمة الأساسية والتطبيقات المختلفة.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مكونات Dynamics 365 Intelligent Order Management.\n- مراجعة أسباب العمل لاستخدام Intelligent Order Management.\n- التعرف على بنية Intelligent Order Management.\n"

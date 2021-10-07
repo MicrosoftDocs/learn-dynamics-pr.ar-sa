@@ -4,17 +4,16 @@ title: تأهيل عميل متوقع
 metadata:
   title: تأهيل عميل متوقع
   description: تأهيل عميل متوقع
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 034913a1fed37107056efd8f2847bc1362bb0b7c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fbc6e2003c78cb518f9df00f11b7074ae11f314f
+  ms.sourcegitcommit: ca713052feaf6cfc7793be55554a1a3fdb0c997e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436293"
+  ms.lasthandoff: 09/03/2021
+  ms.locfileid: "7472736"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

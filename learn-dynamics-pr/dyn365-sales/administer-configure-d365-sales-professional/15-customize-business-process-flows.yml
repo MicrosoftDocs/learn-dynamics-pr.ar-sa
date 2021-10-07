@@ -4,17 +4,16 @@ title: تخصيص عمليات سير إجراءات العمل
 metadata:
   title: تخصيص عمليات سير إجراءات العمل
   description: تخصيص عمليات سير إجراءات العمل
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: b0c705cac346ea7103452cd43786523a66c1f8fe
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9679ef28a1f4bfdbfb1ef541cc4fdaf4f3ba1db8
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436236"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497903"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

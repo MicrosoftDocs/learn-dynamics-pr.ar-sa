@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: b02753e535ae6dfa8f1095fca1eb581f5c861741
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: bbd6596943356de694cf0606683f5eb0fce4184d
+ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436344"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "7497887"
 ---
-الفريق هو مجموعة من المستخدمين الذين يشاركون بعضهم بعضًا ويتعاونون فيما بينهم في سجلات العمل. يمكن إقران مستخدم بفرق متعددة. عندما يتم تعيين دور إلى فريق، يتم تعيين مجموعة الامتيازات المرتبطة بهذا الدور لأعضاء الفريق.
+الفريق هو مجموعة من المستخدمين الذين يشاركون بعضهم بعضًا ويتعاونون فيما بينهم في سجلات العمل. يمكن إقران مستخدم بفرق متعددة. عندما يتم تعيين دور لفريق، يتم تعيين مجموعة الامتيازات المرتبطة بهذا الدور لأعضاء الفريق.
 
-لمزيد من المعلومات، يرجى مراجعة [إضافة الفرق أو إدارتها في Sales Professional](/dynamics365/customer-engagement/sales-professional/manage-teams). 
+لمزيد من المعلومات، يرجى مراجعة [إضافة الفرق أو إدارتها في Dynamics 365 Sales Professional](/dynamics365/customer-engagement/sales-professional/manage-teams). 
 
 ![مربع الحوار "إضافة فريق جديد" مع الأعمدة المطلوبة "اسم الفريق" و"اسم وحدة العمل".](../media/05-add-new-team.png)

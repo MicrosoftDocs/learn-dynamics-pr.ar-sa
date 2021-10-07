@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.ingest-data-customer-insights
 metadata:
-  title: استيعاب البيانات في Customer Insights
-  description: اعرف كيفية استيعاب البيانات في Customer Insights
+  title: استيعاب البيانات في رؤى الجمهور
+  description: تعرف على كيفية استيعاب البيانات في رؤى الجمهور
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d46c5046528f67b45400771d3480a4e96d6f5f53
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 15dc4239fce1c9161636891f667caef9a1615f02
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7440101"
-title: استيعاب البيانات في Customer Insights
-summary: "[!include[](../includes/module-banner.md)] \nCustomer Insights يستوعب البيانات من جميع مصادر البيانات المختلفة ويوحدها في ملف تعريف عميل واحد.  ومن ضمن ملف تعريف العميل، يمكنك تعقب البيانات عبر مختلف المجموعات السكانية وتحديد الاتجاهات بالاستناد إلى البيانات التي تريد تعقبها.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استيعاب البيانات باستخدام Power Query.\n- الاتصال بنموذج البيانات العامة.\n- الاتصال بـ Microsoft Dataverse.\n- التعامل مع مجموعات البيانات.\n- التعرُّف على عمليات تحديث البيانات.\n- تصدير البيانات.\n"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7486242"
+title: استيعاب البيانات في رؤى الجمهور
+summary: "[!include[](../includes/module-banner.md)] \nتعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد.  ومن ضمن ملف تعريف العميل، يمكنك تعقب البيانات عبر مختلف المجموعات السكانية وتحديد الاتجاهات بالاستناد إلى البيانات التي تريد تعقبها.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيعاب البيانات باستخدام Power Query.\n- الاتصال بنموذج البيانات العامة.\n- الاتصال بـ Microsoft Dataverse.\n- التعامل مع مجموعات البيانات.\n- التعرُّف على عمليات تحديث البيانات.\n- تصدير البيانات.\n"
 prerequisites: >
   - الإلمام بتطبيقات Microsoft Dataverse.
 

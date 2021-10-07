@@ -8,12 +8,13 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 56241ccf9e9779233bb6a86ad3206b4e8a81bf03
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: intro-internal
+  ms.openlocfilehash: 758a8e4601a44bcb9eb451baabb94e1f6b485607
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438668"
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503051"
 title: استكشاف Dynamics 365 Project Operations
 summary: تقدم لك هذه الوحدة Dynamics 365 Project Operations وكيف يدعم الخدمات المستندة إلى المشروع.
 abstract: >

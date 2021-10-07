@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.digital-transformation-business-transformation
+title: التحول الرقمي هو تحول الأعمال
+metadata:
+  title: التحول الرقمي هو تحول الأعمال
+  description: تعرف على دور التحول الرقمي في تحول الأعمال.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 855b64ef3b189058b706d368ea7e939f90256029
+  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/22/2021
+  ms.locfileid: "7511101"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/2-digital-transformation-business-transformation.md)]'

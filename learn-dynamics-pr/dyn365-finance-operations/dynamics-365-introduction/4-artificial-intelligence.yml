@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.artificial-intelligence
+title: الذكاء الاصطناعي
+metadata:
+  title: الذكاء الاصطناعي
+  description: تعرف على كيفية دعم الذكاء الاصطناعي (AI) لـ Microsoft business applications.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7197a4a91dce8552c9bf49d74cc4af5d6d78606a
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497064"
+azureSandbox: false
+durationInMinutes: 12
+content: '[!include[](includes/4-artificial-intelligence.md)]'

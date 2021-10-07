@@ -3,16 +3,16 @@ uid: learn-dynamics.manage-content-event-triggers-journeys.11-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing.
-  ms.date: 08/31/2021
+  description: ملخص إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing
+  ms.date: 09/14/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d76f3692fd93a810b43b3897a2493645df13eca5
-  ms.sourcegitcommit: 627204a9c92e0b1421cec8a3463b5eafb67e427a
+  ms.openlocfilehash: fddf466501cf5a97830691b3da88af2f4758103f
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2021
-  ms.locfileid: "7469021"
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503257"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-summary.md)]"

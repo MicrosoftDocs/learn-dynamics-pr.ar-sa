@@ -1,14 +1,12 @@
 ---
-ms.openlocfilehash: efb21b4ae541051cc0195718b5222bbe8dc27224
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 888e51566254ebc78f08c0ce8e07a4f3092d1e73
+ms.sourcegitcommit: a2eaa51541feec74146566f0e95416112902a685
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436171"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "7507661"
 ---
-مجموعة Dynamics 365 Sales Professional عبارة عن مجموعة مستهدفة من القدرات لتمكينك من بدء استخدام Dynamics بسرعة. 
-
-نظرنا بإيجاز في كيفية البدء، وكيفية ضبط الإعدادات، وتخصيص التطبيق. 
+مجموعة Dynamics 365 Sales Professional عبارة عن مجموعة مستهدفة من القدرات لتمكينك من بدء استخدام Dynamics بسرعة. نظرنا بإيجاز في كيفية البدء، وكيفية ضبط الإعدادات، وتخصيص التطبيق. 
 
 لمزيد من المعلومات حول المهام التي غطيناها، انظر الجدول أدناه للحصول على روابط للمقالات.
 

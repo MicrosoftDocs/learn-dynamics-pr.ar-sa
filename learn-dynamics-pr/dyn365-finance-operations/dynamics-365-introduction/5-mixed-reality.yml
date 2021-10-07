@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.mixed-reality
+title: الواقع المختلط
+metadata:
+  title: الواقع المختلط
+  description: تعرف على كيفية دمج الواقع المختلط بين العالمين المادي والرقمي لدعم تطبيقات الأعمال من Microsoft.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 30e4e3268669d042bfc12e95654f2a61e16190c4
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7496706"
+azureSandbox: false
+durationInMinutes: 8
+content: '[!include[](includes/5-mixed-reality.md)]'

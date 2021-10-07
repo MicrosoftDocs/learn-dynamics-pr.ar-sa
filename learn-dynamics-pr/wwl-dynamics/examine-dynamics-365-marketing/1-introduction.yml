@@ -4,17 +4,19 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة
-  ms.date: 07/21/2021
+  ms.date: 09/13/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-marketing
-  ms.openlocfilehash: 18e43e49c8f8841dd9378ba0cab94fa18f315cb8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: da407d7c834e4de7b576c3a02328085f512c1652
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438544"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7495694"
 azureSandbox: false
+sandbox: false
+labModal: false
 durationInMinutes: 2
 content: '[!include[](includes/1-introduction.md)]'

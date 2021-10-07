@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365-commerce.knowledge-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d19da097121aea6e6432b355d5da5adee3c614f1
+  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/22/2021
+  ms.locfileid: "7510136"
+azureSandbox: false
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية هو ميزة أساسية لـ Dynamics 365 Commerce؟
+    choices:
+    - content: ولاء العميل
+      isCorrect: true
+      explanation: ولاء العملاء هو ميزة أساسية لـ Dynamics 365 Commerce.
+    - content: دقة الحالة
+      isCorrect: false
+      explanation: تعالج Dynamics 365 Customer Service دقة الحالة.
+    - content: إدارة الأصول
+      isCorrect: false
+      explanation: إدارة الأصول هي ميزة أساسية لـ Dynamics 365 Supply Chain Management.
+  - content: يريد متجر متعدد الأقسام زيادة الولاء لعلامته التجارية من خلال إنشاء تجربة متسقة لعملائه. ما الميزة التي قد يكون المتجر أكثر اهتماماً بها عند التفكير في تبني Dynamics 365 Commerce أم لا؟
+    choices:
+    - content: الخادم السحابي الخاص به، والذي تجمع جميع البيانات في مكان واحد.
+      isCorrect: false
+      explanation: على الرغم من أن الخادم السحابي Dynamics 365 Commerce يدعم تجربة العميل، فإن أفضل إجابة هي قدرته على إنشاء تجربة تسوق غامرة تتيح للعملاء الوصول إلى نفس معلومات المنتج والمخزون عبر جميع القنوات.
+    - content: قدرته على إنشاء تجربة تسوق غامرة تتيح للعملاء الوصول إلى نفس معلومات المنتج والمخزون عبر جميع القنوات.
+      isCorrect: true
+      explanation: يمكنك إنشاء تجارب تسوق لعملائك عبر جميع متاجرك والإنترنت.
+    - content: قدرته على منح الموظفين إمكانية الوصول إلى بيانات المخزون من جهاز محمول، مما يجعل من السهل عليهم التواصل مع العملاء في طابق المبيعات.
+      isCorrect: false
+      explanation: في حين أن الوصول عبر الجهاز المحمول هو بالتأكيد ميزة، فإن أفضل إجابة هي قدرته على إنشاء تجربة تسوق غامرة تتيح للعملاء الوصول إلى نفس معلومات المنتج والمخزون عبر جميع القنوات.
+  - content: ماذا يمكنك أن تفعل مع إدارة البضائع؟
+    choices:
+    - content: إنشاء وتكوين كتالوج المنتجات الخاص بك قبل عرض الأصناف للبيع.
+      isCorrect: true
+      explanation: إدارة البضائع تتيح لك إنشاء كتالوجات المنتجات.
+    - content: إنشاء لوحة معلومات للمديرين لمراجعة الموجود في المخزون.
+      isCorrect: false
+      explanation: إدارة البضائع لا تنشئ لوحات معلومات.
+    - content: اقترح برامج الولاء للعملاء اعتماداً على المنتجات التي يشترونها.
+      isCorrect: false
+      explanation: أنت توفر برامج الولاء مع ولاء العملاء.

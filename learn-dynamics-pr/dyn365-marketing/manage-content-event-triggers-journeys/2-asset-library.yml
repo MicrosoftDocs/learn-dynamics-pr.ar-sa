@@ -3,16 +3,16 @@ uid: learn-dynamics.manage-content-event-triggers-journeys.2-asset-library
 title: مكتبة الأصول
 metadata:
   title: مكتبة الأصول
-  description: تعرّف على مكتبه الأصول.
-  ms.date: 08/31/2021
+  description: تعرّف على مكتبة الأصول.
+  ms.date: 09/14/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 05d4041b3402d76253783f933cbb6e2320dd1f80
-  ms.sourcegitcommit: 627204a9c92e0b1421cec8a3463b5eafb67e427a
+  ms.openlocfilehash: 57ebdb05102a20c0c51e85ff4688f853e3a34cba
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2021
-  ms.locfileid: "7469012"
+  ms.lasthandoff: 09/18/2021
+  ms.locfileid: "7501741"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-asset-library.md)]"

@@ -3,17 +3,17 @@ uid: learn.wwl.review-asset-management-capabilities-of-dynamics-365-field-servic
 metadata:
   title: راجع إمكانات إدارة الأصول الخاصة بـ Dynamics 365 Field Service
   description: راجع إمكانات إدارة الأصول الخاصة بـ Dynamics 365 Field Service
-  ms.date: 07/21/2021
+  ms.date: 09/13/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-field-service
-  ms.openlocfilehash: 0e86d241b887b217fda5d5d343bb3873de0e61f5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: a61fe19d3f017dea7e34941931b8b17c050c2f41
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438650"
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503066"
 title: راجع إمكانات إدارة الأصول الخاصة بـ Dynamics 365 Field Service
 summary: تقدم لك هذه الوحدة النمطية كيفية إدارة الأصول في Dynamics 365 Field Service.
 abstract: >

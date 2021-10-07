@@ -4,18 +4,17 @@ title: الاتصال بـ SharePoint
 metadata:
   title: الاتصال بـ SharePoint
   description: الاتصال بـ SharePoint
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 6d6ac18d89ff752706971a40ba9421cc544ca5f2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: abbb8dc8b847b40852db9ff700852caeba7620be
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436179"
-durationInMinutes: 5
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498311"
+durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]
 

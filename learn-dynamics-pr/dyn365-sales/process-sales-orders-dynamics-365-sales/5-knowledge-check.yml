@@ -3,17 +3,17 @@ uid: learn-dynamics.sales-order-processing.5-knowledge-check
 metadata:
   title: معالجة أوامر المبيعات في فحص المعرفة في Dynamics 365
   description: معالجة أوامر المبيعات في فحص المعرفة في Dynamics 365
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 7842327a080d7f1bfa19d6237c39d7521969229a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: acbd0323016a9bbd810091a78d6e1fde89e64ced
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436106"
+  ms.lasthandoff: 09/18/2021
+  ms.locfileid: "7501524"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

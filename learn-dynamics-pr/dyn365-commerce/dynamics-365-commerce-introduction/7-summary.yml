@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365-commerce.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص لمقدمة Dynamics 365 Commerce
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 409ace3ad5eeb25020dc1ecb5a8b1ade566dd1c3
+  ms.sourcegitcommit: a2eaa51541feec74146566f0e95416112902a685
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "7507574"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/7-summary.md)]'

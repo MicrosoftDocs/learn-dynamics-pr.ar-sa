@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a1ec64864a0c20f7eeb22065bb0f034e46945f20
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: 01a308ec612d9f3905cb1bdf840ff52b9696cf53
+ms.sourcegitcommit: ca713052feaf6cfc7793be55554a1a3fdb0c997e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436369"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "7472753"
 ---
 تتيح Microsoft Dynamics 365 Salesللمؤسسات إدارة دورة حياة مبيعاتها بالكامل. كجزء من هذه العملية، يمكنهم تحديد عملاء Microsoft Dynamics 365المتوقعين والعمل معهم.
 
@@ -16,10 +16,8 @@ ms.locfileid: "7436369"
 
 - يمكنك استيراد سجلات العملاء المتوقعين إلى Dynamics 365.
 - إنشاء العملاء المتوقعين يدوياً.
-- أضف سجلات النشاط الداعمة إلى العملاء المتوقعين.
+- إضافة سجلات النشاط الداعمة إلى العملاء المتوقعين.
 - تأهيل العملاء المتوقعين إلغاء تأهيل العملاء المتوقعين.
-
-**الوقت المقدر لإنهاء هذا التمرين العملي:** ‏ 15 إلى 20 دقيقة
 
 ## <a name="import-leads-into-dynamics-365"></a>استيراد العملاء المتوقعين إلى Dynamics 365
 

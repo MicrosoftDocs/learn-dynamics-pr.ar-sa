@@ -4,18 +4,17 @@ title: التمرين - إنشاء أوامر العمل
 metadata:
   title: التمرين - إنشاء أوامر العمل
   description: التمرين - إنشاء أوامر العمل
-  ms.date: 01/25/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 92e5c448af89241e7070b8def946bf5d714beeb3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: bac9b6d028d0894d6a3039b7bc70920b8d7694f0
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434067"
-durationInMinutes: 20
+  ms.lasthandoff: 09/20/2021
+  ms.locfileid: "7505454"
+durationInMinutes: 18
 content: >-
   [!include[](../includes/unit-banner.md)]
 

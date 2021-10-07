@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b37c42a1c2a8d2547b1cf9c067716872e00c7897
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: 71e1b94b5c50e9d3cfe6124c51fbea5d322ff3c6
+ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436379"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "7511049"
 ---
 غالباً ما تكون الخطوة الأولى في الإبلاغ الفعال وتحليل البيانات هي العثور على البيانات. إذا لم يتم عرض البيانات الصحيحة، فإن المخططات والتقارير لا تقدم أي قيمة فعلاً. يتضمن، Microsoft Dynamics الجاهز طرق عرض متعددة يمكن استخدامها لتصفية البيانات وتحليلها بسرعة. يمكن للمؤسسات استخدام وجهات النظر هذه للحصول بسهولة على نظرة عامة على الصورة الكبيرة لما يحدث.
 
@@ -40,7 +40,9 @@ ms.locfileid: "7436379"
 
 ![تم حفظ عامل تصفية البحث المتقدم كطريقة عرض تسمى الحسابات النشطة: الفرص التي تزيد عن 100،000 دولار أمريكي (أو ما يعادله بالعملة المحلية). العرض متاح الآن ضمن طرق العرض الشخصية من خلال القائمة المنسدلة.](../media/al-unit2-3.png)
 
-### <a name="creating-a-view-by-using-advanced-find"></a>إنشاء طريقة عرض باستخدام البحث المتقدم
+### <a name="create-a-view-by-using-advanced-find"></a>قم بإنشاء طريقة عرض باستخدام البحث المتقدم
+
+شاهد الفيديو التالي لترى كيف يمكنك إنشاء عرض باستخدام البحث المتقدم.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2NCXc]
 

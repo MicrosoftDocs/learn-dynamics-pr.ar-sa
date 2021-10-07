@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-2-extensible-data-security-policy
+title: سياسات أمان البيانات المفصلة
+metadata:
+  title: سياسات أمان البيانات المفصلة
+  description: تصف هذه الوحدة كيفية استخدام سياسات أمان البيانات المفصلة في تطبيقات Finance and Operations.
+  ms.date: 09/18/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9564fbb0eb767653eaf362e33836d455f6dd8c34
+  ms.sourcegitcommit: a2eaa51541feec74146566f0e95416112902a685
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "7507503"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-2-extensible-data-security-policy.md)]

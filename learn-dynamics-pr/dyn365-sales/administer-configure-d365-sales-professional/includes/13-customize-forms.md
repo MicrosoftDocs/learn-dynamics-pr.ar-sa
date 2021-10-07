@@ -1,17 +1,17 @@
 ---
-ms.openlocfilehash: 252003b0fdc43bd09b5c481be0d37bdb7ab250f0
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: 75d196c549ead6230729bbe74a04eb36fb5f203e
+ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436320"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "7496675"
 ---
-سنستعرض تخصيص النماذج وطرق العرض وسير إجراءات العمل وتطبيق Sales Professional.
+في هذه الوحدة، سنستعرض تخصيص النماذج وطرق العرض وسير إجراءات العمل وتطبيق Sales Professional.
 
-### <a name="customize-forms"></a>تخصيص النماذج
+## <a name="customize-forms"></a>تخصيص النماذج
 
 تزودك النماذج بواجهة مستخدم للتفاعل مع البيانات التي تحتاج إليها لتنفيذ عملك. من المهم تصميم النماذج التي يستخدمها الأشخاص بحيث تسمح لهم بسرعة العثور على المعلومات التي يحتاجون إليها وإدخالها. يمكنك استخدام مصمم النماذج لتخصيص النماذج المضمنة في Dynamics 365 Sales Professional لتلبية الاحتياجات المحددة لمؤسستك. 
 
-![جدول النماذج المتاحة ويعرض أعمدة "اسم الجدول" و"الاسم" و"تاريخ النشر" و"حالة النموذج".  أسماء الجداول تشمل "الحساب" و"جهة الاتصال" و"الفاتورة" وما إلى ذلك](../media/08-forms.png)
+![لقطة شاشة بالنماذج المتوفرة في Dynamics 365 Sales.](../media/08-forms.png)
 
-لمزيد من المعلومات، يُرجى الاطلاع على [تخصيص النماذج (Sales Professional)](/dynamics365/customer-engagement/sales-professional/customize-forms). 
+لمزيد من المعلومات، راجع [تخصيص النماذج Sales Professional](/dynamics365/customer-engagement/sales-professional/customize-forms). 

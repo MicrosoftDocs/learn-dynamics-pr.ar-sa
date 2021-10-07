@@ -4,17 +4,16 @@ title: تحديد المنتجات
 metadata:
   title: تحديد المنتجات
   description: تحديد المنتجات
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 2db9e1c440ed6dd68ed866474e041c8f07fecb26
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f504867ed2746121ed0377fedf25da1f392d84a1
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436127"
+  ms.lasthandoff: 09/18/2021
+  ms.locfileid: "7501620"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

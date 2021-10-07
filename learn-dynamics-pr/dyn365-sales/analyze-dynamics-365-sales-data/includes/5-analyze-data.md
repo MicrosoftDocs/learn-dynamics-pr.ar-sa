@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: adaf23d03b5b8585a4b9af4d205b8a96184df8fb
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: f9341ec2c9847dcfa5961a4c8286ea39284d260f
+ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436342"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "7510198"
 ---
 تقدم مبيعات Microsoft Dynamics 365 خيارات متعددة للبحث عن البيانات وعرضها وتحليلها.
 
@@ -14,12 +14,10 @@ ms.locfileid: "7436342"
 
 - استخدم "البحث المتقدم" لإنشاء طرق عرض Microsoft Dynamics 365.
 - تصدير بيانات Dynamics 365 وتحليلها باستخدام Microsoft Excel.
-- إنشاء لوحة معلومات شخصية
+- إنشاء لوحة معلومات شخصية.
 - تأهيل العميل المتوقع وإلغاء تأهيله.
 
-**الوقت المقدر لإنهاء هذا التمرين العملي:** ‏ 15 إلى 20 دقيقة
-
-## <a name="use-dynamics-365-together-with-microsoft-365"></a>استخدم Dynamics 365 مع Microsoft 365
+## <a name="use-dynamics-365-together-with-microsoft-365"></a>استخدام Dynamics 365 مع Microsoft 365
 
 العديد من الأشخاص في فريق المبيعات الخاص بك هم مستخدمون محترفون لبرنامج Excel. وهم يحبون أن يكونوا قادرين على التعامل مع بيانات Dynamics 365 في Excel. وقد علق العديد منهم بأنه قد يكون من الصعب بعض الشيء تصدير البيانات إلى Excel وتحريرها ثم استيرادها مرة أخرى إلى Dynamics 365. وهم يبحثون عن طريقة أسهل للتعامل مع بيانات Dynamics 365 في Excel.
 
@@ -119,7 +117,7 @@ ms.locfileid: "7436342"
 1. في مربع الحوار **إضافة مكون** قم بتعيين القيم التالية لمكون التخطيط الجديد:
    - **نوع السجل:** *فرصة*.
    - **العرض:** *فرصي المفتوحة*.
-   - **المخطط:** *البنية الأساسية للمبيعات*.
+   - **المخطط:** *تدفقات المبيعات*.
 
 1. حدد **إضافة**.
 1. في مصمم لوحة المعلومات، حدد القسم العلوي الأيمن، ثم حدد الزر **إدراج Iframe‎**.

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-dynamics-365.microsoft-business-applications
+title: Microsoft business applications
+metadata:
+  title: Microsoft business applications
+  description: اكتشف Microsoft business applications المتنوعة.
+  ms.date: 09/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 982f309d8a9d17cb38f6c830245f399a7ad485d7
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498154"
+azureSandbox: false
+durationInMinutes: 10
+content: '[!include[](includes/3-microsoft-business-applications.md)]'

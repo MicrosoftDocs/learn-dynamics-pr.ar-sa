@@ -8,12 +8,13 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-fraud-protection
-  ms.openlocfilehash: 21bb5d41ea861e79d082188e9fb10f960639a22b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: intro-internal
+  ms.openlocfilehash: c55dff7a535a4fc28264fd71d4a23ec72cea271a
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438589"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497395"
 title: استكشاف Microsoft Dynamics 365 Fraud Protection
 summary: تعرّف على Microsoft Dynamics 365 Fraud Protection وكيف يمكنه مساعدتك في تقليل الاحتيال في حركات الشراء وتحسين معدلات الموافقة على الحركات البنكية والتعرّف على المخاطر التجارية المرتبطة بخصومات ومرتجعات البضائع.
 abstract: >

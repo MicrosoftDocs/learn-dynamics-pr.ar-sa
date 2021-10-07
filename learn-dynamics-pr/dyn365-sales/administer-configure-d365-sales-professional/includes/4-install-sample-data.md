@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0776706f4676e164967f82a01d951cce4e41bc9e
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 568a4251e214423c8c754e811120d646d6437629
+ms.sourcegitcommit: a2eaa51541feec74146566f0e95416112902a685
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436244"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "7507558"
 ---
 يعد تثبيت البيانات النموذجية طريقة رائعة للتعرف على ميزات النظام والتعامل معه. سيجب أن تكون مسؤول النظام حتى تتمكن من تثبيت البيانات النموذجية.
 
