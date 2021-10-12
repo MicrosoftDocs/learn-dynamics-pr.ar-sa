@@ -6,7 +6,7 @@ ms.contentlocale: ar-SA
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "7077043"
 ---
-كما ذكرنا سابقاً، يتم إنشاء تطبيقات مشاركة العملاء في Dynamics 365 على Microsoft Power Platform. إن Microsoft Power Platform عبارة عن نظام أساسي لتطوير التطبيقات ذي التعليمات البرمجية المنخفضة الذي يمتد ليشمل ليس فقط Dynamics 365، ولكن Office 365 أيضاً، وAzure، والتطبيقات المستقلة. فهو يجمع بين قوة PowerApps، وPower BI، وPower Automate في نظام أساسي واحد لتطبيق الأعمال يوفر رؤى سريعة وسهلة لبناء التطبيقات والبيانات.
+كما ذكرنا سابقاً، يتم إنشاء تطبيقات إشراك العملاء في Dynamics 365 على Microsoft Power Platform. إن Microsoft Power Platform عبارة عن نظام أساسي لتطوير التطبيقات ذي التعليمات البرمجية المنخفضة الذي يمتد ليشمل ليس فقط Dynamics 365، ولكن Office 365 أيضاً، وAzure، والتطبيقات المستقلة. فهو يجمع بين قوة PowerApps، وPower BI، وPower Automate في نظام أساسي واحد لتطبيق الأعمال يوفر رؤى سريعة وسهلة لبناء التطبيقات والبيانات.
 
 :::image type="content" source="../media/m-11-core-customer-engagement-apps-3-01-9f68bab5.png" alt-text="رسم يوضح مكونات Microsoft Power Platform":::
 
@@ -31,4 +31,4 @@ ms.locfileid: "7077043"
  -  **المنطق والتحقق من الصحة**: تحديد الأعمدة المحسوبة وقواعد العمل وسير العمل وتدفق عمليات الأعمال لضمان جودة البيانات ودفع العمليات التجارية.
  -  **أدوات الإنتاجية**: تتوفر الجداول ضمن الوظائف الإضافية لـ Microsoft Excel لزيادة الإنتاجية وضمان إمكانية الوصول إلى البيانات.
 
-تستخدم تطبيقات تفاعل العملاء من الجهات الأولى مثل Dynamics 365 Sales أو Dynamics 365 Customer Service أو Dynamics 365 Marketing Dataverse لتخزين بياناتها وتأمينها. تُمكّنك هذه الميزة من بناء التطبيقات باستخدام Power Apps وDataverse مباشرةً مقابل بيانات الأعمال الأساسية المستخدمة بالفعل داخل Dynamics 365 دون الحاجة إلى التكامل.
+تستخدم تطبيقات إشراك العملاء من الجهات الأولى مثل Dynamics 365 Sales أو Dynamics 365 Customer Service أو Dynamics 365 Marketing Dataverse لتخزين بياناتها وتأمينها. تُمكّنك هذه الميزة من بناء التطبيقات باستخدام Power Apps وDataverse مباشرةً مقابل بيانات الأعمال الأساسية المستخدمة بالفعل داخل Dynamics 365 دون الحاجة إلى التكامل.
