@@ -1,6 +1,23 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/power-platform/common-actions-client-script-power-platform/3-user-interface.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/power-platform/common-actions-client-script-power-platform/2-events.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform",
+      "source_path": "learn-dynamics-pr/power-platform/automate-business-process-flow-client-script-power-platform/5-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/automate-business-process-flow-client-script-power-platform",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/power-platform/automate-business-process-flow-client-script-power-platform/4-exercise-1.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/automate-business-process-flow-client-script-power-platform",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-commerce/introduction-dynamics-365-commerce/1-introduction.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/dynamics-365-commerce-introduction/1-introduction",
       "redirect_document_id": false
