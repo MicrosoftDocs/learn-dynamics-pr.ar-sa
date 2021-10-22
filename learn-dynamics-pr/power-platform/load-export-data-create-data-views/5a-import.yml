@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.load-export-data-create-data-views.5a-import
+title: استيراد البيانات باستخدام Power Query
+metadata:
+  title: استيراد البيانات باستخدام Power Query
+  description: تعرّف على كيفية استيراد البيانات باستخدام Power Query الموجود في مدخل المنشئ.
+  ms.date: 10/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7de66067ce3960a0cc88320ad0a728d8a9589f0d
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590613"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5a-import.md)]

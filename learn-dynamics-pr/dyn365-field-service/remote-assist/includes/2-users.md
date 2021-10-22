@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: 30032ad3a2e04ef0133dcc5c4934d01c9cb87ca2
-ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+ms.sourcegitcommit: 8a843c182dcfce868badd5df9d0ecd9b9b748c10
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "7515402"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "7555589"
 ---
 تتضمن مكالمات ‏‫Remote Assist‬ شخصين على الأقل: المتعاونين في الموقع والمتعاونين عن بُعد.
 

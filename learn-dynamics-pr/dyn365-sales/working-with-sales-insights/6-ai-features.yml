@@ -4,15 +4,15 @@ title: العمل بميزات الذكاء الاصطناعي
 metadata:
   title: العمل بميزات الذكاء الاصطناعي
   description: تعرف على كيفية استخدام ميزات الذكاء الاصطناعي.
-  ms.date: 12/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/28/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c0123438ca41e41f9883e50cce4a776106247085
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 796c0dfb832e559e96ce6a08f31a9d9c2260c8db
+  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436239"
-durationInMinutes: 25
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "7581562"
+durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-ai-features.md)]"

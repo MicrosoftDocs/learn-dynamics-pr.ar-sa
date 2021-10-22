@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.dynamics-translation-service.10-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص لترجمة وثائق وتطبيقات Dynamics 365 باستخدام Dynamics 365 Translation Service.
+  ms.date: 09/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0b4fa73526fad53e084fe10dde4d49eaebac06d2
+  ms.sourcegitcommit: 3465dfc2d656684588bf482d7a5579f518f1eaf4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "7614543"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-summary.md)]"

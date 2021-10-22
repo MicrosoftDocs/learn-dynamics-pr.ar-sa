@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.dynamics-translation-service.1-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة إلى ترجمة تطبيقات Dynamics 365 وتوثيقها باستخدام Dynamics 365 Translation Service.
+  ms.date: 09/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e8d61612fe9e3a0d2def67251ae0577ae2265dc9
+  ms.sourcegitcommit: 3465dfc2d656684588bf482d7a5579f518f1eaf4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "7614542"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

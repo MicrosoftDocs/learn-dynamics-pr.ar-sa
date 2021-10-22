@@ -4,17 +4,19 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 07/23/2021
+  ms.date: 09/24/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: 1f1a2ab32c6f0250cd9c9e9e1416fdeee8f067a2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 0bf28625f078df94dee045cecf4fa6c326447e08
+  ms.sourcegitcommit: 8a843c182dcfce868badd5df9d0ecd9b9b748c10
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337289"
+  ms.lasthandoff: 09/24/2021
+  ms.locfileid: "7555621"
 azureSandbox: false
+sandbox: false
+labModal: false
 durationInMinutes: 2
 content: '[!include[](includes/9-summary.md)]'

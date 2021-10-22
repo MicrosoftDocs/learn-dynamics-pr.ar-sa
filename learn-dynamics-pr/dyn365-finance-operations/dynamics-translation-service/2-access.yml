@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.dynamics-translation-service.2-access
+title: الوصول إلى Dynamics 365 Translation Service
+metadata:
+  title: الوصول إلى Dynamics 365 Translation Service
+  description: تعرف على كيفية الوصول إلى Dynamics 365 Translation Service.
+  ms.date: 09/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8a7278e4ac759fc57da5fd927b44a6d5d3e1f131
+  ms.sourcegitcommit: 3465dfc2d656684588bf482d7a5579f518f1eaf4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "7614541"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-access.md)]"

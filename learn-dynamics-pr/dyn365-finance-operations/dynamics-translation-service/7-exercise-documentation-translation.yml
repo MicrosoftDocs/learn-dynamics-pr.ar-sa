@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.dynamics-translation-service.7-exercise-documentation-translation
+title: التمرين – أنشئ طلباً لترجمة التوثيق واعمل على مراجعته وإعادة إنشائه
+metadata:
+  title: التمرين – أنشئ طلباً لترجمة التوثيق واعمل على مراجعته وإعادة إنشائه
+  description: الخطوات اللازمة لإنشاء طلب ترجمة التوثيق ومراجعته وإعادة إنشائه.
+  ms.date: 09/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 688ae08fca98ccf5e971c46620cbff3b69a57753
+  ms.sourcegitcommit: 3465dfc2d656684588bf482d7a5579f518f1eaf4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "7614552"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-exercise-documentation-translation.md)]"

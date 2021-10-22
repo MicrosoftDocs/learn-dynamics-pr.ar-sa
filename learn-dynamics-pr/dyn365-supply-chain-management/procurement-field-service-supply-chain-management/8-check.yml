@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.procurement-field-service-supply-chain-management.8-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 433af592992f75b2df25c6fe15fd3efb54e4c0d8
+  ms.sourcegitcommit: 971396efb8e68a74511ae8ca417a67c4d9cef8ff
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2021
+  ms.locfileid: "7599850"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الدالة التي تمكِّن المزامنة بالقرب من الوقت الحقيقي بين Dynamics 365 Supply Chain Management وField Service؟
+    choices:
+    - content: Dataverse
+      isCorrect: false
+      explanation: Dataverse ليست الدالة التي تمكِّن المزامنة بين Field Service وSupply Chain Management.
+    - content: الكتابة المزدوجة
+      isCorrect: true
+      explanation: تمكِّن الكتابة المزدوجة المزامنة بالقرب من الوقت الحقيقي بين Field Service وSupply Chain Management.
+    - content: إدارة البيانات
+      isCorrect: false
+      explanation: دالة إدارة البيانات ليست الدالة التي تمكِّن المزامنة بين Field Service وSupply Chain Management.
+    - content: OneFSSCM
+      isCorrect: false
+      explanation: OneFSSCM ليست الدالة التي تمكِّن المزامنة بين Field Service وSupply Chain Management.
+  - content: في حال كنت تريد إنشاء أوامر شراء جديدة وكنت قادراً على العمل على أوامر الشراء الموجودة في هذا التكامل، فما الذي يجب عليك إكماله؟
+    choices:
+    - content: مزامنة البيانات المرجعية بين Supply Chain Management وDataverse.
+      isCorrect: true
+      explanation: للعمل على أوامر الشراء الموجودة والجديدة، فإنك بحاجة إلى مزامنة البيانات المرجعية بين Supply Chain Management وDataverse.
+    - content: انسخ كافة أوامر الشراء الموجودة إلى Dynamics 365 Sales.
+      isCorrect: false
+      explanation: هذه الإجابة ليست صحيحة. تلك العملية ليست هي ما تحتاج إكماله لتتمكن من العمل على أوامر الشراء الجديدة والموجودة.
+    - content: أنشئ تعيينات الجدول في Dataverse.
+      isCorrect: false
+      explanation: تلك العملية ليست هي ما تحتاج إكماله لتتمكن من العمل على أوامر الشراء الجديدة والموجودة.
+  - content: عند تكوين الكتابة المزدوجة في Dynamics 365 Supply Chain Management، فأي مساحة عمل ينبغي استخدامها؟
+    choices:
+    - content: مساحة عمل إدارة النظام
+      isCorrect: false
+      explanation: مساحة عمل إدارة النظام ليست المكان الذي جرى فيه تكوين الكتابة المزدوجة.
+    - content: مساحة عمل قائمة التحقق من صحة البيانات
+      isCorrect: false
+      explanation: مساحة عمل قائمة التحقق من صحة البيانات ليست المكان الذي جرى فيه تكوين الكتابة المزدوجة.
+    - content: مساحة عمل توزيع القناة
+      isCorrect: false
+      explanation: مساحة عمل توزيع القناة ليست المكان الذي جرى فيه تكوين الكتابة المزدوجة.
+    - content: إدارة البيانات
+      isCorrect: true
+      explanation: استخدم مساحة عمل إدارة البيانات لتكوين الكتابة المزدوجة.

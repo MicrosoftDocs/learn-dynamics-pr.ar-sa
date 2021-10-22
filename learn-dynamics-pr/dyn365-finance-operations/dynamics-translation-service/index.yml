@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-dynamics.dynamics-translation-service
+metadata:
+  title: ترجمة تطبيقات Dynamics 365 وتوثيقها باستخدام Dynamics 365 Translation Service
+  description: لترجمة حلول Microsoft Dynamics 365 وتوثيقها، أو لإضافة دعم اللغة لمنتجات Dynamics 365 الموجودة، يمكنك استخدام Microsoft Dynamics 365 Translation Service من خلال Microsoft Dynamics 365 Lifecycle Services.
+  ms.date: 09/30/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 40e567083cba244fd93eb7dc89ddcf92629e8531
+  ms.sourcegitcommit: 3465dfc2d656684588bf482d7a5579f518f1eaf4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "7614549"
+title: ترجمة تطبيقات Dynamics 365 وتوثيقها باستخدام Dynamics 365 Translation Service
+summary: "[!include[](../includes/module-banner.md)] \nابدأ ترجمة حلول Microsoft Dynamics 365 وتوثيقها، أو أضف دعم اللغة لمنتجات Dynamics 365 الموجودة باستخدام Microsoft Dynamics 365 Translation Service من خلال Microsoft Dynamics 365 Lifecycle Services. \n"
+abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على وظائف Dynamics 365 Translation Service وميزاتها.\n- أرسل طلبات الترجمة لواجهة المستخدم وملفات التوثيق لمنتجات Dynamics 365 المدعومة.\n- ابدأ مراجعة إخراج طلب الترجمة وتحريره لإعادة إنشاء ترجمات جديدة.\n- استخدم أداة Align \"المحاذاة\" لإنشاء ذاكرة ترجمة لطلبات الترجمة المستقبلية.\n"
+prerequisites: >
+  - المعرفة العامة بـ Microsoft Windows
+
+  - عمل تجارب لحلول الإنشاء بالنسبة لمنتجات Dynamics 365
+
+  - الفهم العام لـ Lifecycle Services
+iconUrl: /learn/achievements/dynamics-translation-service.svg
+levels:
+- intermediate
+roles:
+- solution-architect
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+- dynamics-sales
+- dynamics-field-service
+- dynamics-commerce
+- dynamics-customer-service
+- dynamics-business-central
+units:
+- learn-dynamics.dynamics-translation-service.1-introduction
+- learn-dynamics.dynamics-translation-service.2-access
+- learn-dynamics.dynamics-translation-service.3-requests
+- learn-dynamics.dynamics-translation-service.4-reuse
+- learn-dynamics.dynamics-translation-service.5-machine-translation
+- learn-dynamics.dynamics-translation-service.6-exercise-user-interface-translation
+- learn-dynamics.dynamics-translation-service.7-exercise-documentation-translation
+- learn-dynamics.dynamics-translation-service.8-exercise-translation-memory-file
+- learn-dynamics.dynamics-translation-service.9-check
+- learn-dynamics.dynamics-translation-service.10-summary
+badge:
+  uid: learn-dynamics.dynamics-translation-service.badge

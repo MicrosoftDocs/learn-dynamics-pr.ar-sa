@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.load-export-data-create-data-views.5c-azure
+title: تدفق البيانات وتكامل Azure‬‏‫
+metadata:
+  title: تدفق البيانات وتكامل Azure‬‏‫
+  description: تعرّف على تدفقات البيانات وتكامل Azure‬‏‫.
+  ms.date: 10/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 634aa0d71eb69cbe80cb2606fbfce525e5193da3
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590629"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5c-azure.md)]

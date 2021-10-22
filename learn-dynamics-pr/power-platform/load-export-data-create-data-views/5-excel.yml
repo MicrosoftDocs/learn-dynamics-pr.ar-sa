@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.load-export-data-create-data-views.5-excel
+title: إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها
+metadata:
+  title: إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها
+  description: تعرّف على كيفية إضافة البيانات الموجودة في جدول أو تحديثها أو حذفها باستخدام Microsoft Excel.
+  ms.date: 10/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4258f85fcba48438b99b5b347e18f12cf36c8134
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590637"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-excel.md)]

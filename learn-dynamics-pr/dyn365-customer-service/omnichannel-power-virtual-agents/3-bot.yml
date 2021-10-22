@@ -4,15 +4,15 @@ title: تكوين روبوت Power Virtual Agents
 metadata:
   title: تكوين روبوت Power Virtual Agents
   description: تعرف على كيفية تكوين روبوت Power Virtual Agents.
-  ms.date: 08/05/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/29/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f6c0ccb7fed2441e0bd0ce592830a789c3b4fcb0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b9aa8d76ba0ad2900335294c451a431fe12daa66
+  ms.sourcegitcommit: e7659d30de4a9e795466e9211542a767dbc26e98
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366570"
-durationInMinutes: 6
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "7582226"
+durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-bot.md)]"

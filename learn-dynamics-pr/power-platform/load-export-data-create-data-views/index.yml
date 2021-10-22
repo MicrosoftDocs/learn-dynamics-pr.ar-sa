@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.load-export-data-create-data-views
+metadata:
+  title: تحميل/تصدير البيانات وإنشاء طرق عرض البيانات في Microsoft Dataverse
+  description: تعرّف على كيفية عرض البيانات الموجودة في جداول Dataverse وتحميلها وتصديرها.
+  ms.date: 10/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 73306271479eade05e4457a4f40b0bdbadf27fab
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590645"
+title: تحميل/تصدير البيانات وإنشاء طرق عرض البيانات في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nيتيح لك Dataverse تحميل البيانات أو تصدير جداول من جداول أخرى باستخدام Microsoft Excel. يمكنك أيضاً إنشاء طرق عرض لمراجعة البيانات المخزنة في الجدول بسرعة.  \n"
+abstract: "في هذه الوحدة، سوف تتمكن مما يلي:\n- عرض البيانات الموجودة في جدول.\n- إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها.\n- تحميل البيانات في جدول.\n- تصدير البيانات من جدول.\n- إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها.\n- استيراد البيانات باستخدام Power Query الموجود في مدخل المنشئ \n- إنشاء تدفق بيانات جديد من أحد قوالب Excel \n- تعرّف على تدفقات البيانات وتكامل Azure‬‏‫\n"
+prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
+iconUrl: /learn/achievements/load-export-data-create-data-views.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+units:
+- learn-dynamics.load-export-data-create-data-views.1-view
+- learn-dynamics.load-export-data-create-data-views.2-edit
+- learn-dynamics.load-export-data-create-data-views.3-load
+- learn-dynamics.load-export-data-create-data-views.4-export
+- learn-dynamics.load-export-data-create-data-views.5-excel
+- learn-dynamics.load-export-data-create-data-views.5a-import
+- learn-dynamics.load-export-data-create-data-views.5b-template
+- learn-dynamics.load-export-data-create-data-views.5c-azure
+- learn-dynamics.load-export-data-create-data-views.6-check
+- learn-dynamics.load-export-data-create-data-views.7-summary
+badge:
+  uid: learn-dynamics.load-export-data-create-data-views.badge

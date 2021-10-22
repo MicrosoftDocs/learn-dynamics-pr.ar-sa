@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.procurement-field-service-supply-chain-management.4-mappings
+title: التعيينات باستخدام المنطق
+metadata:
+  title: التعيينات باستخدام المنطق
+  description: تعرّف على المنطق الذي يضمن تعيين عمود نوع منتج Field Service بشكل صحيح.
+  ms.date: 10/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 99df75e513c1f4a23304f3aaef9e9af7790dd423
+  ms.sourcegitcommit: 971396efb8e68a74511ae8ca417a67c4d9cef8ff
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2021
+  ms.locfileid: "7599846"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-mappings.md)]"

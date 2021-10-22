@@ -1,22 +1,22 @@
 ### YamlMime:LearningPath
 uid: learn.wwl.explore-microsoft-dynamics-365-finance
 metadata:
-  title: تعلُّم أساسيات Microsoft Dynamics 365 Finance
-  description: تعلُّم أساسيات Microsoft Dynamics 365 Finance
-  ms.date: 06/28/2021
+  title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Finance'
+  description: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Finance'
+  ms.date: 10/05/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 8d6a84934942b3a605b41b0080d86bf0e5bbf4cc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 20d776fd1bb000694f69f881d2baa310622ee16e
+  ms.sourcegitcommit: ac9c23a23eec5fa2091dce74f9e06c550c7ec809
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356586"
-title: تعلُّم أساسيات Microsoft Dynamics 365 Finance
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "7603466"
+title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Finance'
 prerequisites: >
-  يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+  يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
   هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، وكلٍّ من تطبيقي Dynamics 365 finance and operations. ابدأ بمسار التعلم هذا لمعرفة المزيد حول Dynamics 365 Finance.
 iconUrl: /learn/achievements/dynamics-explore-finance-fundamentals.svg

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.dynamics-translation-service.9-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 09/30/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6ad4efe88e03df46144446a1dd505a34ecb384bf
+  ms.sourcegitcommit: 3465dfc2d656684588bf482d7a5579f518f1eaf4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "7614545"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما نوع الملف الذي يجب عليك تحميله لطلبات الترجمة في Dynamics 365 Translation Service؟
+    choices:
+    - content: يجب عليك تحميل نوع الملف .resx على تطبيق أجهزتك المحمولة.
+      isCorrect: false
+      explanation: ويتعذر استخدام ملف .resx في طلب توثيق وهو غير معتمد في بعض المنتجات.
+    - content: يجب عليك تحميل نوع الملف .docx على تطبيق الويب.
+      isCorrect: false
+      explanation: يتعذر استخدام .docx مع طلبات واجهة المستخدم.
+    - content: يجب عليك تحميل نوع الملف .xlf.
+      isCorrect: false
+      explanation: يعمل نوع الملف XLIFF (.xlf) على تخزين ذاكرة الترجمة لإعادة تدوير السلاسل المترجمة.
+    - content: وتكون أنواع الملفات المختلفة مدعومة، اعتماداً على نوع الطلب وإصدار المنتج.
+      isCorrect: true
+      explanation: تأكد من مراجعة [توثيق المنتجات المدعومة](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/translation-service-overview?azure-portal=true) للتأكد من تحميل نوع الملف الصحيح عند إنشاء أحد الطلبات.
+  - content: ما الغرض من أداة Align "المحاذاة" في Dynamics 365 Translation Service؟
+    choices:
+    - content: ابدأ ترجمة ملفات الموارد إلى لغةٍ أخرى.
+      isCorrect: false
+      explanation: يمكنك ترجمة ملفات الموارد إلى لغةٍ أخرى بإرسال طلب ترجمة.
+    - content: ابدأ إنشاء ذاكرة ترجمة XLIFF.
+      isCorrect: true
+      explanation: الغرض من أداة Align "المحاذاة" هو إنشاء ذاكرة ترجمة XLIFF بين ملف مُترجم والملف المصدر المطابق له.
+    - content: أعد إنشاء الملفات المُترجمة مسبقاً.
+      isCorrect: false
+      explanation: يمكنك إعادة إنشاء ترجمات في صفحة إخراج طلب.
+  - content: أي العبارات التالية غير صحيح بشأن استخدام نظام الترجمة الآلية المخصص والمدرب عليه؟
+    choices:
+    - content: لا يمكن استخدامه إلا عندما تحتوي ذاكرة ترجمة XLIFF مُحملة على أكثر من 10,000 وحدة ترجمة واللغة المصدر أو اللغة الهدف هي اللغة الإنجليزية (الولايات المتحدة).
+      isCorrect: false
+      explanation: من الصحيح أنه يجب تحميل ذاكرة ترجمة تحتوي على أكثر من 10,000 وحدة ترجمة، ويجب أن تكون اللغة المصدر أو اللغة الهدف هي اللغة الإنجليزية (الولايات المتحدة) لاستخدام نظام الترجمة الآلية المخصص.
+    - content: قد يتطلب إكمال الترجمة يوماً إلى ثلاثة أيام عمل.
+      isCorrect: false
+      explanation: من الصحيح أنه قد يتطلب إكمال التشغيل يوماً إلى ثلاثة أيام عمل.
+    - content: لا يمكن استخدامه إلا لترجمة ملفات واجهة المستخدم.
+      isCorrect: true
+      explanation: يمكن استخدام نظام الترجمة الآلية المخصص مع طلبات واجهة المستخدم وطلبات التوثيق.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3e2df8e12c58d811777bdce5a4a543a58802a586
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e6fe25e2c199daa8606bf2d1035e286ec351e618
+ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7342684"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "7581593"
 ---
  [**الوصول إلى نموذج حل روبوت المساعدة الذكية هنا**](https://github.com/microsoft/Dynamics365-Apps-Samples/blob/master/customer-service/omnichannel/smart-assist-bot/README.md/?azure-portal=true)
 
@@ -27,7 +27,7 @@ ms.locfileid: "7342684"
 
 1. إنشاء إجراءات مخصصة لعرض البطاقات.
 
-### <a name="generate-intent-and-interpret-the-conversation-context"></a>استحضار النية وتفسير سياق المحادثة
+## <a name="generate-intent-and-interpret-the-conversation-context"></a>استحضار النية وتفسير سياق المحادثة
 
 عند نشر أي سيناريو مساعدة ذكية، مهمتك الأولى هي تحليل المحادثة لفهم سياقها قبل اقتراح إجراءات إلى المندوب. تحليل المحادثة الجارية سوف تحتاج إلى [خدمة ذكية لفهم اللغة](https://luis.ai/?azure-portal=true)(‏LUIS). إن LUIS هي خدمة قائمة على التعلم الآلي يمكنك استخدامها لبناء لغة طبيعية في التطبيقات والروبوتات وأجهزة IoT. إنها تفسر القصد وتجمع معلومات قيمة من الجمل. يمكنك استخدام القصد المستخرج لاقتراح مقالة قاعدة معارف أو جدولة موعد أو اقتراح حالات مشابهة.
 
@@ -37,11 +37,11 @@ ms.locfileid: "7342684"
 
 لعرض نموذج تطبيق LUIS، انتقل إلى [تطبيق التنفيذ التلقائي الرئيسي الذي تم إنشاؤه مسبقاً لاستخدام بدء التشغيل السريع](/azure/cognitive-services/luis/luis-get-started-create-app/).
 
-### <a name="write-adaptive-cards"></a>كتابة بطاقات المواءمة
+## <a name="write-adaptive-cards"></a>كتابة بطاقات المواءمة
 
 المعلومات التي سيتم تقديمها للمندوبين في واجهة المستخدم تتم من خلال بطاقات الموائمة. يجب كتابة البطاقات لتحديد معلومات الحالة التي ستكون متاحة على البطاقة وأي إجراءات يمكن تشغيلها. على سبيل المثال، قد يتم إنشاء بطاقة لتضمين عنوان الحالة المماثلة والوصف والإجراء الذي يفتح سجل الحالة.
 
-### <a name="use-custom-actions-for-implementing-custom-functionalities"></a>استخدام إجراءات مخصصة لتنفيذ وظائف مخصصة
+## <a name="use-custom-actions-for-implementing-custom-functionalities"></a>استخدام إجراءات مخصصة لتنفيذ وظائف مخصصة
 
 كما كنت بناء حل مساعدة الذكية، تحتاج إلى النظر في ما هي المعلومات التي سيتم استخدامها كجزء من روبوت ومن ثم تحديد ما قد تكون هناك حاجة إلى تكوين إضافي. على سبيل المثال، إذا كان روبوت المساعدة الذكية الخاصة بك سوف يوصي مقالات المعرفة، وسوف تحتاج إلى الوصول الضروري إلى المقالات. إذا كان روبوت سوف تقدم توصيات حالة مماثلة، وسوف تحتاج إلى تكوين هذه الوظيفة في البيئة لضمان أن حالات مماثلة يمكن أن يقترح.
 
@@ -53,10 +53,10 @@ ms.locfileid: "7342684"
 
 - **واجهة برمجة تطبيقات (API‎) الحالات المشابهة** - بعد تكوين قواعد التشابه والبحث الملائم، يمكن جلب حالات مماثلة باستخدام وظيفة GetSimilarRecords.
 
-### <a name="call-custom-actions-by-using-adaptive-cards"></a>استدعاء الإجراءات المخصصة باستخدام بطاقات المواءمة
+## <a name="call-custom-actions-by-using-adaptive-cards"></a>استدعاء الإجراءات المخصصة باستخدام بطاقات المواءمة
 
 إذا كنت تريد تضمين إجراء مخصص ضمن اقتراح، فستحتاج إلى إنشاء مورد ويب. راجع موضوع Power Apps بشأن  [إنشاء إجراءاتك الخاصة](/powerapps/developer/common-data-service/custom-actions/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء إجراء مخصص. راجع موضوع [موارد الويب في التطبيقات المستندة إلى النموذج](/powerapps/maker/model-driven-apps/create-edit-web-resources/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء موارد الويب. يجب تحميل موارد الويب هذه ضمن نموذج  **ملخص العميل**.
 
-### <a name="sample-bot-that-displays-knowledge-article-recommendations"></a>نموذج: روبوت يعرض توصيات مقالة معرفية
+## <a name="sample-bot-that-displays-knowledge-article-recommendations"></a>نموذج: روبوت يعرض توصيات مقالة معرفية
 
 تحدث العديد من السيناريوهات حيث يمكن للمؤسسة إنشاء روبوتات مساعدة ذكية لاستخدام المعلومات. أنشأت Microsoft نموذجاً متاحاً على GitHub يمكن استخدامه لإنشاء حل توصية مقالة معرفية.

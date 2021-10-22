@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.load-export-data-create-data-views.4-export
+title: تصدير البيانات من جدول
+metadata:
+  title: تصدير البيانات من جدول
+  description: تعرّف على كيفية تصدير البيانات من أحد الجداول.
+  ms.date: 10/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d8dd28726ff80e6f2e9bef39a57468298b03a690
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590597"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-export.md)]

@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3cdc9b760f63d2a65b47287706012ac3249248b4
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: c024f9dacee7e9f43e04416cf8dfc84a6b9108db
+  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7513518"
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "7581664"
 title: مقدمة إلى Dynamics 365 Commerce
 summary: يوفر Dynamics 365 Commerce حلاً شاملاً للقناة متعددة الاتجاهات بدمج تجارب المكتب الخلفي، والتجارب في المتجر، والتجارب الرقمية لتخصيص مشاركة العملاء، وزيادة إنتاجية الموظفين، وتحسين العمليات، وتقديم نتائج أعمال أفضل.
 abstract: >
@@ -32,7 +32,7 @@ roles:
 - business-user
 products:
 - dynamics-365
-- dynamics-retail
+- dynamics-commerce
 units:
 - learn-dynamics.introduction-dynamics-365-commerce.introduction
 - learn-dynamics.introduction-dynamics-365-commerce.drive-unified-commerce

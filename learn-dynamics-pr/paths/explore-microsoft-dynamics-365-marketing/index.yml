@@ -1,22 +1,22 @@
 ### YamlMime:LearningPath
 uid: learn.wwl.explore-microsoft-dynamics-365-marketing
 metadata:
-  title: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
-  description: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
-  ms.date: 06/28/2021
+  title: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Marketing'
+  description: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Marketing'
+  ms.date: 10/05/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 4bfe3cde45dd2c3e45f3be62c91a5a6014822be5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: bbd7d134b73e4f022986570c0694469ea06f9ba0
+  ms.sourcegitcommit: ac9c23a23eec5fa2091dce74f9e06c550c7ec809
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7437325"
-title: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "7603464"
+title: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Marketing'
 prerequisites: >
-  يجب أن يكون لديك فهم أساسي لمبادئ Customer Engagement والعمليات التجارية.
+  يجب توفر الفهم الأساسي لمبادئ مشاركة العملاء‬ والعمليات التجارية.
 
   إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >

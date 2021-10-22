@@ -1,0 +1,64 @@
+### YamlMime:Module
+uid: learn-dynamics.procurement-field-service-supply-chain-management
+metadata:
+  title: تكامل التدبير بين Dynamics 365 Supply Chain Management وDynamics 365 Field Service
+  description: يمكن تكامل وظيفة التدبير في Dynamics 365 Supply Chain Management وDynamics 365 Field Service من خلال الكتابة المزدوجة وكذلك تمكين حالات استخدام الوظائف التبادلية من خلال تعيينات الجداول ومنطق الحلول وطرق العرض والنماذج.
+  ms.date: 10/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 395ce5737bafc4da06e8b338950f51f5f96ee5aa
+  ms.sourcegitcommit: 971396efb8e68a74511ae8ca417a67c4d9cef8ff
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2021
+  ms.locfileid: "7599844"
+title: تكامل التدبير بين Dynamics 365 Supply Chain Management وDynamics 365 Field Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يمكن تكامل وظيفة التدبير في Dynamics 365 Supply Chain Management وDynamics 365 Field Service من خلال الكتابة المزدوجة وكذلك تمكين حالات استخدام الوظائف التبادلية من خلال تعيينات الجداول ومنطق الحلول وطرق العرض والنماذج.
+abstract: >
+  في هذه الوحدة، سوف تتمكن مما يلي:
+
+  - معرفة المتطلبات الأساسية اللازمة لتكامل Supply Chain Management باستخدام Field Service.
+
+  - العمل باتباع إرشادات التثبيت اللازمة.
+
+  - إعداد المزامنة الأولية بين Supply Chain Management وMicrosoft Dataverse.
+
+  - إنشاء تعيينات باستخدام المنطق.
+
+  - التمييز بين الأنواع المختلفة لإدارة الحالة.
+
+  - عمل مزامنة باستخدام بيانات التدبير في Supply Chain Management عند الطلب.
+prerequisites: >
+  - معرفة عملية لـ Dynamics 365 Supply Chain Management
+
+  - معرفة عملية لـ Dynamics 365 Field Service.
+
+  - معرفة عمليات التدبير.
+iconUrl: /learn/achievements/procurement-field-service-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-field-service
+units:
+- learn-dynamics.procurement-field-service-supply-chain-management.1-introduction
+- learn-dynamics.procurement-field-service-supply-chain-management.2-prerequisites-install
+- learn-dynamics.procurement-field-service-supply-chain-management.3-synchronization
+- learn-dynamics.procurement-field-service-supply-chain-management.4-mappings
+- learn-dynamics.procurement-field-service-supply-chain-management.5-supported-scenarios
+- learn-dynamics.procurement-field-service-supply-chain-management.6-status-management
+- learn-dynamics.procurement-field-service-supply-chain-management.7-sync-procurement-data
+- learn-dynamics.procurement-field-service-supply-chain-management.8-check
+- learn-dynamics.procurement-field-service-supply-chain-management.9-summary
+badge:
+  uid: learn-dynamics.procurement-field-service-supply-chain-management.badge

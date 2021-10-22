@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.load-export-data-create-data-views.6-check
+metadata:
+  title: تحميل البيانات وتصديرها وإنشاء الفحص المعرفي لطرق عرض البيانات
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d90ed74304f95663ea2da70ebf66cec9d41e4aff
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590605"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي مما يلي يمكنك أن تستخدم فيه Excel مع جداول Microsoft Dataverse؟
+    choices:
+    - content: إضافة جداول جديدة لتخزين البيانات وإنشاؤها.
+      isCorrect: false
+      explanation: يمكنك إضافة بيانات الجدول أو تحريرها أو حذفها باستخدام Excel.
+    - content: إضافة البيانات أو تحريرها أو حذفها.
+      isCorrect: true
+      explanation: يمكنك إضافة بيانات الجدول أو تحريرها أو حذفها باستخدام Excel.
+    - content: إضافة الجداول وحذفها.
+      isCorrect: false
+      explanation: يمكنك إضافة بيانات الجدول أو تحريرها أو حذفها باستخدام Excel.
+    - content: إنشاء جداول جديدة وإضافة البيانات إلى الجدول الجديد.
+      isCorrect: false
+      explanation: يمكنك إضافة بيانات الجدول أو تحريرها أو حذفها باستخدام Excel.
+  - content: أي مما يلي يمكن القيام به في Dataverse؟
+    choices:
+    - content: تصدير البيانات من جدول.
+      isCorrect: true
+      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
+    - content: تصدير البيانات من جدول واحد أو أكثر على هيئة ملفات Markdown‬ مضغوطة.
+      isCorrect: false
+      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
+    - content: تحميل البيانات من أي نوع من الملفات في جدول.
+      isCorrect: false
+      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
+    - content: كل ما سبق.
+      isCorrect: false
+      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
+  - content: أي من العبارات التالية غير صحيح بخصوص ‏‫طرق العرض؟
+    choices:
+    - content: يمكنك إنشاء العديد من طرق العرض لجدول.
+      isCorrect: false
+      explanation: تُعد هذه العبارة صحيحة بخصوص طرق العرض.
+    - content: يمكنك فرز البيانات وتصفيتها في إحدى طرق العرض.
+      isCorrect: false
+      explanation: تُعد هذه العبارة صحيحة بخصوص طرق العرض.
+    - content: يمكنك اختيار الحقول المتوفرة في طريقة عرض وتحريرها في أي وقت.
+      isCorrect: false
+      explanation: تُعد هذه العبارة صحيحة بخصوص طرق العرض.
+    - content: يمكنك إنشاء طريقتي عرض فقط لكل جدول.
+      isCorrect: true
+      explanation: يمكنك إنشاء العديد من طرق العرض للجدول، لذا، لا يُعد ذلك صحيحاً.
