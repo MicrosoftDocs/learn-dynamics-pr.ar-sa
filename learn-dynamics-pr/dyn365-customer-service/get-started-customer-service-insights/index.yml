@@ -28,10 +28,10 @@ products:
 - dynamics-cust-svc-insights
 units:
 - learn-dynamics.get-started-customer-service-insights.1-introduction
-- learn-dynamics.get-started-customer-service-insights.2-connect-data
-- learn-dynamics.get-started-customer-service-insights.3-discover-insights
+#- learn-dynamics.get-started-customer-service-insights.2-connect-data
+#- learn-dynamics.get-started-customer-service-insights.3-discover-insights
 - learn-dynamics.get-started-customer-service-insights.4-dashboard-reference
-- learn-dynamics.get-started-customer-service-insights.5-work-topics
+#- learn-dynamics.get-started-customer-service-insights.5-work-topics
 - learn-dynamics.get-started-customer-service-insights.6-check
 - learn-dynamics.get-started-customer-service-insights.7-summary
 badge:
