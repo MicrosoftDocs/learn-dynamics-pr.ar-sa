@@ -37,7 +37,7 @@ units:
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.7-create-configure-category-hierarchies-attributes
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.8-configure-item-pricing
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.9-exercise-create-released-product
-- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.10-exercise-create-product-masters
+#- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.10-exercise-create-product-masters
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.11-create-products-product-masters-quiz
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.12-create-products-product-masters-summary
 badge:
