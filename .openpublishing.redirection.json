@@ -1,6 +1,61 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-production-control-dyn365-supply-chain-mgmt/17-exercise-6.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/12-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-production-control-dyn365-supply-chain-mgmt/16-exercise-5.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/12-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-production-control-dyn365-supply-chain-mgmt/15-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/12-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-production-control-dyn365-supply-chain-mgmt/14-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/12-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-production-control-dyn365-supply-chain-mgmt/13-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/12-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/11-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/10-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-perform-procure-purchase-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/schedule-work-orders-asset-management/06-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/schedule-work-orders-asset-management/05-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/process-purchase-orders-dyn365-supply-chain-mgmt/8-exercise.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/process-purchase-orders-dyn365-supply-chain-mgmt/8a-exercise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-manage-order-cash-dyn365-supply-chain-mgmt/11-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-manage-order-cash-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/create-products-product-masters-dyn365-supply-chain-mgmt/10-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/create-products-product-masters-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/power-platform/common-actions-client-script-power-platform/3-user-interface.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform",
       "redirect_document_id": false
