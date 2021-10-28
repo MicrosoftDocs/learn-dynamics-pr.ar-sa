@@ -1,6 +1,116 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/13-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/12-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/16-exercise-7.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/15-exercise-6.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/14-exercise-5.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/10-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/07-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/07-exercise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/07-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/07-exercise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-warehouse-management-dyn365-supply-chain-mgmt/9-1-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/7-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/7-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-warehouse-management-dyn365-supply-chain-mgmt/8-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/7-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-transportation-management-dyn365-supply-chain-mgmt/16-exercise-7.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-transportation-management-dyn365-supply-chain-mgmt/15-exercise-6.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-transportation-management-dyn365-supply-chain-mgmt/14-exercise-5.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-transportation-management-dyn365-supply-chain-mgmt/13-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-transportation-management-dyn365-supply-chain-mgmt/12-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-transportation-management-dyn365-supply-chain-mgmt/11-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-inventory-management-dyn365-supply-chain-mgmt/19-4-exercise-6.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/18-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-inventory-management-dyn365-supply-chain-mgmt/19-3-exercise-5.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/18-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-inventory-management-dyn365-supply-chain-mgmt/19-2-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/18-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-inventory-management-dyn365-supply-chain-mgmt/19-1-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/18-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-inventory-management-dyn365-supply-chain-mgmt/19-0-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/18-exercise-1",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-production-control-dyn365-supply-chain-mgmt/17-exercise-6.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/12-exercise-1",
       "redirect_document_id": false
