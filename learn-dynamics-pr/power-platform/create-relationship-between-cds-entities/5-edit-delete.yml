@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-relationship-between-cds-entities.5-edit-delete
+title: تحرير العلاقات أو حذفها
+metadata:
+  title: تحرير العلاقات أو حذفها
+  description: تعرف على كيفية تحرير العلاقات أو حذفها في Microsoft Dataverse.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: a7cdad4ec1181dba3ee16684afe35ba922fcc345
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457463"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-edit-delete.md)]

@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plug-ins-extend-power-platform.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/17/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0f69a5e558df816cb6b55784e52908ef045e665f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457583"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هي البدائل التوضيحية التي لديك لإنشاء المكونات الإضافية لأتمتة العمليات التجارية؟
+    choices:
+    - content: مهام سير العمل، Power Automate، Power Apps
+      isCorrect: false
+      explanation: تُعد عمليات سير العمل وPower Automate وحقول القيم المحتسبة بعض البدائل التوضيحية المتوفرة لإنشاء المكونات الإضافية لأتمتة العمليات التجارية.
+    - content: سير العمل، Power Automate، حقول القيم المحتسبة
+      isCorrect: true
+      explanation: تُعد عمليات سير العمل وPower Automate وحقول القيم المحتسبة بعض البدائل التوضيحية المتوفرة لإنشاء المكونات الإضافية لأتمتة العمليات التجارية.
+    - content: مهام سير العمل، لبرنامج النصي للعميل‬، حقول القيم المحتسبة
+      isCorrect: false
+      explanation: تُعد عمليات سير العمل وPower Automate وحقول القيم المحتسبة بعض البدائل التوضيحية المتوفرة لإنشاء المكونات الإضافية لأتمتة العمليات التجارية.
+  - content: إذا كنت في حاجة إلى منطق مخصص للتشغيل بشكل متزامن في استمارة التقديم الخاصة بك، فأي مما يلي لن يؤدي إلى تحقيق هذا الهدف؟
+    choices:
+    - content: المكونات الإضافية
+      isCorrect: false
+      explanation: لن يتم تشغيل Power Automate بشكل متزامن في استمارة التقديم الخاص بك.
+    - content: مهام سير العمل
+      isCorrect: false
+      explanation: لن يتم تشغيل Power Automate بشكل متزامن في استمارة التقديم الخاص بك.
+    - content: Power Automate
+      isCorrect: true
+      explanation: لن يتم تشغيل Power Automate بشكل متزامن في استمارة التقديم الخاص بك.
+  - content: ما هو الأسلوب المعروض داخل مجموعة المكونات الإضافية التي يمكِّنك من تشغيل منطق استمارة التقديم المخصصة؟
+    choices:
+    - content: Execute
+      isCorrect: true
+      explanation: Execute معروض داخل مجموعة المكونات الإضافية التي يمكِّنك من تشغيل منطق استمارة التقديم المخصصة.
+    - content: Run
+      isCorrect: false
+      explanation: Execute معروض داخل مجموعة المكونات الإضافية التي يمكِّنك من تشغيل منطق استمارة التقديم المخصصة.
+    - content: Start
+      isCorrect: false
+      explanation: Execute معروض داخل مجموعة المكونات الإضافية التي يمكِّنك من تشغيل منطق استمارة التقديم المخصصة.

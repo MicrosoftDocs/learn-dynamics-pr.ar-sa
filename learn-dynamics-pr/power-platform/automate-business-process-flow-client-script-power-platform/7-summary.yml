@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.automate-business-process-flow-client-script-power-platform.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعلمته حول أتمتة سير إجراءات العمل باستخدام البرنامج النصي للعميل‬.
+  ms.date: 07/16/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1b4d6df89f73df0e0ea57d2b18485ba4d698b959
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457475"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-summary.md)]

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-guides
+metadata:
+  title: الشروع في العمل باستخدام Dynamics 365 Guides
+  description: Microsoft Dynamics 365 Guides هو تطبيق الواقع المختلط الذي يعرض إرشادات مجسمة العرض خطوة بخطوة.
+  ms.date: 09/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.custom: intro-internal
+  ms.openlocfilehash: ae50ff4ea1d86030a96ab520adbcf017319b7ca0
+  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/22/2021
+  ms.locfileid: "7587094"
+title: الشروع في العمل باستخدام Dynamics 365 Guides
+summary: "[!include[](../includes/module-banner.md)] \nإن Microsoft Dynamics 365 Guides هو تطبيق الواقع المختلط الذي يعرض تعليمات ثلاثية الأبعاد خطوة بخطوة في مكان حدوث العمل، مما يمكّن الموظفين من تعلم المهام المعقدة وتنفيذها. استخدم Dynamics 365 Guides لتقليل الأخطاء وتوحيد المهارات وسد الفجوات المعرفية وتحسين التدريب والعمليات الجارية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم إمكانيات Dynamics 365 Guides\n- تعرف على الأدوار المتنوعة التي تستخدم Dynamics 365 Guides\n- تعرف على كيفية تكامل Dynamics 365 Guides مع تطبيقات Dynamics 365 الأخرى\n"
+prerequisites: >
+  - لا شيء
+iconUrl: /learn/achievements/get-started-guides.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- administrator
+- solution-architect
+- business-user
+products:
+- dynamics-365
+- dynamics-guides
+- hololens
+units:
+- learn-dynamics.get-started-guides.01-introduction
+- learn-dynamics.get-started-guides.02-roles
+- learn-dynamics.get-started-guides.03-analyze-guide
+- learn-dynamics.get-started-guides.04-integration
+- learn-dynamics.get-started-guides.05-terms
+- learn-dynamics.get-started-guides.05-1-check
+- learn-dynamics.get-started-guides.06-summary
+badge:
+  uid: learn-dynamics.get-started-guides.badge

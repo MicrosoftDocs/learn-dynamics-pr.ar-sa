@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.05-configure-user-access
+title: تكوين وصول المستخدم
+metadata:
+  title: تكوين وصول المستخدم
+  description: تعرف على كيفية تكوين وصول المستخدم إلى Dynamics 365 Fraud Protection.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1c471261d2bf5f3193e72811ef144d3c48e0d303
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582761"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-configure-user-access.md)]"

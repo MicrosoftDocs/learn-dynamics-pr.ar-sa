@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.author-guides.16-create-place-trigger
+title: إنشاء مشغل ووضعه للتنقل بين الخطوات
+metadata:
+  title: إنشاء مشغل ووضعه للتنقل بين الخطوات
+  description: إنشاء مشغل ووضعه للتنقل بين الخطوات في Dynamics 365 Guides
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 462b290fbbee8881349d4cb085cb5e15a0b7d9dc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587058"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/16-create-place-trigger.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.component-framework-advanced-topics.3-web-api
+title: استخدام واجهة API الخاصة بالويب لـ Microsoft Dataverse في أحد مكونات Power Apps.
+metadata:
+  title: استخدام واجهة API الخاصة بالويب لـ Dataverse في أحد مكونات Power Apps.
+  description: تعرف علي استخدام واجهة API الخاصة بالويب لـ Dataverse في أحد مكونات Power Apps.
+  ms.date: 3/3/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: f580abfeeada915e07db29976e2d9792ddcb8566
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457407"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-web-api.md)]"

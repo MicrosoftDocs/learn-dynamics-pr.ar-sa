@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-guides.05-terms
+title: مسرد المصطلحات
+metadata:
+  title: مسرد المصطلحات
+  description: تعرف على المصطلحات المستخدمة في Dynamics 365 Guides
+  ms.date: 09/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 85a19ba42dc3e52d1092e1af920e1919e2b4507b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587056"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-terms.md)]"

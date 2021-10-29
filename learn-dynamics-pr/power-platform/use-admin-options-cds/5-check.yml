@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-admin-options-cds.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 09/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 0ffbd4e3a06b842c6ec53511a1b72a96c83986aa
+  ms.sourcegitcommit: 35d50364afa9a537b510a1a960faba6ea3af60da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2021
+  ms.locfileid: "7467927"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي مدخل إداري يُظهر بيانات الاستخدام؟
+    choices:
+    - content: التخصيص المتقدم لـ Power Apps
+      isCorrect: false
+      explanation: يُظهر "مدخل مسؤول Microsoft Power Platform" بيانات الاستخدام.
+    - content: مستكشف الحلول
+      isCorrect: false
+      explanation: يُظهر "مدخل مسؤول Microsoft Power Platform" بيانات الاستخدام.
+    - content: مدخل مسؤول Microsoft Power Platform
+      isCorrect: true
+      explanation: يُظهر "مدخل مسؤول Microsoft Power Platform" بيانات الاستخدام.
+    - content: مدخل مسؤول Power Apps
+      isCorrect: false
+      explanation: يُظهر "مدخل مسؤول Microsoft Power Platform" بيانات الاستخدام.
+  - content: أي مدخل يقدم طريقة سريعة لإضافة المستخدمين وتعيين الأذونات؟
+    choices:
+    - content: التخصيص المتقدم لـ Power Apps
+      isCorrect: true
+      explanation: يعرض "التخصيص المتقدم لـ Power Apps" طريقة سريعة لإضافة مستخدمين وتعيين الأذونات.
+    - content: مركز الإدارة الكلاسيكي (مستكشف الحلول)
+      isCorrect: false
+      explanation: يعرض "التخصيص المتقدم لـ Power Apps" طريقة سريعة لإضافة مستخدمين وتعيين الأذونات.
+    - content: مدخل مسؤول Microsoft Power Platform
+      isCorrect: false
+      explanation: يعرض "التخصيص المتقدم لـ Power Apps" طريقة سريعة لإضافة مستخدمين وتعيين الأذونات.
+    - content: مدخل مسؤول Power Apps
+      isCorrect: false
+      explanation: يعرض "التخصيص المتقدم لـ Power Apps" طريقة سريعة لإضافة مستخدمين وتعيين الأذونات.
+  - content: أي مدخل يقدم طريقة سريعة لإدارة البيئات والمستخدمين؟
+    choices:
+    - content: التخصيص المتقدم لـ Power Apps
+      isCorrect: false
+      explanation: يمكن استخدام "مدخل مسؤول Microsoft Power Platform" لإدارة البيئات والمستخدمين بسرعة.
+    - content: مركز الإدارة الكلاسيكي (مستكشف الحلول)
+      isCorrect: false
+      explanation: يمكن استخدام "مدخل مسؤول Microsoft Power Platform" لإدارة البيئات والمستخدمين بسرعة.
+    - content: مدخل مسؤول Microsoft Power Platform
+      isCorrect: true
+      explanation: يمكن استخدام "مدخل مسؤول Microsoft Power Platform" لإدارة البيئات والمستخدمين بسرعة.

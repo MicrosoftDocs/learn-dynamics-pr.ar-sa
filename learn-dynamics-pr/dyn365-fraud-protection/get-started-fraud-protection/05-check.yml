@@ -1,0 +1,42 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-fraud-protection.05-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/31/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 87110364e83e7f4ee9f1f30828ca141c13b2f3d4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582746"
+durationInMinutes: 4
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الإمكانات الثلاثة الأساسية لـ Dynamics 365 Fraud Protection؟
+    choices:
+    - content: حماية المشتريات، وحماية الحساب، ومنع الفقدان
+      isCorrect: true
+      explanation: حماية المشتريات، وحماية الحساب، ومنع الفقدان هي القدرات الأساسية الثلاث في Fraud Protection.
+    - content: تجربة المستخدم، ومنع الفقدان، وحماية المشتريات
+      isCorrect: false
+      explanation: تجربة المستخدم ليست قدرة في Fraud Protection.
+    - content: الذكاء الاصطناعي التكيفي، وحماية الحساب، ومنع الفقدان
+      isCorrect: false
+      explanation: الذكاء الاصطناعي التكيفي هو تقنية يستخدمها Fraud Protection، وليس قدرة أساسية.
+  - content: ما اسم القدرة الأساسية في Dynamics 365 Fraud Protection التي تساعد على حماية الإيرادات عن طريق تحسين معدل قبول معاملات التجارة الإلكترونية باستخدام الرؤى والأدوات التي تساعد في تحقيق التوازن بين فرص الإيرادات مقابل خسارة الاحتيال والاحتكاك في السداد؟
+    choices:
+    - content: حماية الحساب
+      isCorrect: false
+      explanation: تساعد إمكانات حماية الحساب والإنشاء في Fraud Protection العميل في الحفاظ على سلامة حساباته ومنع إنشاء الحسابات لارتكاب هجمات احتيال أو الحصول على مزايا.
+    - content: حماية المشتريات
+      isCorrect: true
+      explanation: تساعد حماية المشتريات في حماية الإيرادات من خلال تحسين معدل قبول معاملات التجارة الإلكترونية من خلال رؤى وأدوات تساعد على تحقيق التوازن بين فرص الإيرادات مقابل خسارة الاحتيال واحتكاك السداد.
+    - content: منع الفقدان
+      isCorrect: false
+      explanation: يساعد منع الفقدان في Fraud Protection في حماية الإيرادات من خلال تحديد الانحرافات والاحتيال المحتمل في العوائد والخصومات التي تنشأ عن عمليات شراء القناة متعددة الاتجاهات، مما يمكّن مديري المتاجر وموظفي منع الفقدان من اتخاذ إجراءات سريعة لتقليل الخسائر.

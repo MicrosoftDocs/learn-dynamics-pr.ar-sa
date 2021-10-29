@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.operate-guides.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة إلى دليل التشغيل في وحدة Dynamics 365 Guides
+  ms.date: 10/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 07a3a28f15748f9cbd65abb9f77db9145b1bbe01
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587035"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

@@ -1,0 +1,89 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.becoming-solution-architect.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 1/10/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: b45cbd1892176f9fb447a81a0f9ee498b5732283
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457604"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هي المرحلة الأولى التي يشارك فيها مهندس الحلول في المشروع؟
+    choices:
+    - content: التحليل
+      isCorrect: false
+      explanation: المرحلة الأولى التي يشارك فيها مهندس الحلول في المشروع هي مرحلة ما قبل البيع.
+    - content: التصميم
+      isCorrect: false
+      explanation: المرحلة الأولى التي يشارك فيها مهندس الحلول في المشروع هي مرحلة ما قبل البيع.
+    - content: التنفيذ
+      isCorrect: false
+      explanation: المرحلة الأولى التي يشارك فيها مهندس الحلول في المشروع هي مرحلة ما قبل البيع.
+    - content: ما قبل البيع
+      isCorrect: true
+      explanation: المرحلة الأولى التي يشارك فيها مهندس الحلول في المشروع هي مرحلة ما قبل البيع.
+    - content: التوزيع
+      isCorrect: false
+      explanation: المرحلة الأولى التي يشارك فيها مهندس الحلول في المشروع هي مرحلة ما قبل البيع.
+  - content: ما هو مستوى الخبرة الذي يجب أن يتمتع به مهندس حلول تطبيقات الأعمال في تطبيقات Dynamics 365؟
+    choices:
+    - content: لا شيء
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس حلول تطبيقات الأعمال بمعرفة التطبيقات المختلفة والاستخدام الأساسي لها.
+    - content: مستوي الخبير في جميع التطبيقات
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس حلول تطبيقات الأعمال بمعرفة التطبيقات المختلفة والاستخدام الأساسي لها.
+    - content: التخصص في تطبيق واحد
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس حلول تطبيقات الأعمال بمعرفة التطبيقات المختلفة والاستخدام الأساسي لها.
+    - content: معرفه التطبيقات المختلفة واستخداماتها الأساسية
+      isCorrect: true
+      explanation: ينبغي أن يتمتع مهندس حلول تطبيقات الأعمال بمعرفة التطبيقات المختلفة والاستخدام الأساسي لها.
+    - content: Microsoft Power Platform فقط
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس حلول تطبيقات الأعمال بمعرفة التطبيقات المختلفة والاستخدام الأساسي لها.
+  - content: أي من المهارات الشخصية التالية يتعين على مهندس الحلول امتلاكها؟
+    choices:
+    - content: التعاون
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس الحلول بمهارات التعاون والتنسيق والتواصل وحل المشكلات.
+    - content: التنسيق
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس الحلول بمهارات التعاون والتنسيق والتواصل وحل المشكلات.
+    - content: الاتصالات
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس الحلول بمهارات التعاون والتنسيق والتواصل وحل المشكلات.
+    - content: حل المشكلات
+      isCorrect: false
+      explanation: ينبغي أن يتمتع مهندس الحلول بمهارات التعاون والتنسيق والتواصل وحل المشكلات.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: ينبغي أن يتمتع مهندس الحلول بمهارات التعاون والتنسيق والتواصل وحل المشكلات.
+  - content: عند تصميم حل، أي مما يلي يتعين على مهندس الحلول منح الأولوية له؟
+    choices:
+    - content: التكلفة
+      isCorrect: false
+      explanation: يتعين أن يمنح مهندس الحلول الأولوية لتحقيق التوازن بين احتياجات العمل، وقدرة المنتج، وتكلفة التنفيذ، ووقت التوزيع.
+    - content: الأداء
+      isCorrect: false
+      explanation: يتعين أن يمنح مهندس الحلول الأولوية لتحقيق التوازن بين احتياجات العمل، وقدرة المنتج، وتكلفة التنفيذ، ووقت التوزيع.
+    - content: الموازنة بين احتياجات العمل وقدرة المنتج وتكلفة التنفيذ ووقت التوزيع.
+      isCorrect: true
+      explanation: يتعين أن يمنح مهندس الحلول الأولوية لتحقيق التوازن بين احتياجات العمل، وقدرة المنتج، وتكلفة التنفيذ، ووقت التوزيع.
+    - content: وقت التوزيع
+      isCorrect: false
+      explanation: يتعين أن يمنح مهندس الحلول الأولوية لتحقيق التوازن بين احتياجات العمل، وقدرة المنتج، وتكلفة التنفيذ، ووقت التوزيع.
+    - content: الميزات الجديدة
+      isCorrect: false
+      explanation: يتعين أن يمنح مهندس الحلول الأولوية لتحقيق التوازن بين احتياجات العمل، وقدرة المنتج، وتكلفة التنفيذ، ووقت التوزيع.

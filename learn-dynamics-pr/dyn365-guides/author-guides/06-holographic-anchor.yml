@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.author-guides.06-holographic-anchor
+title: إنشاء مرساة صور مجسمة
+metadata:
+  title: إنشاء مرساة صور مجسمة
+  description: تعرف على كيفية إنشاء مرساة صور مجسمة في Dynamics 365 Guides.
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8049ab79ee2b1fe0ca3881a0c53d44f924ec51f0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587009"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-holographic-anchor.md)]"

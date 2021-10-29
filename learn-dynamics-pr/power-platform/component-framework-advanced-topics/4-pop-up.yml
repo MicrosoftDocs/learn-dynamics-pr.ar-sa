@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.component-framework-advanced-topics.4-pop-up
+title: كتابة مكون Power Apps منبثق
+metadata:
+  title: كتابة مكون Power Apps منبثق
+  description: تعرف على كيفية كتابة مكون Power Apps منبثق.
+  ms.date: 3/3/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 1f44c25a7755f1c0e7b81a5ec19ce67697f69f76
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457391"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-pop-up.md)]"

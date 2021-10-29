@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-actions-client-script-power-platform.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/15/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ca787b615738d095bb7fdf845fb0f83f55e77e4a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457404"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما اسم الخاصية المستخدمة للتفاعل مع واجهة المستخدم لنموذج تم إنشاؤه داخل تطبيق يستند إلى نموذج؟
+    choices:
+    - content: executionContext.ui
+      isCorrect: false
+      explanation: formContext.ui هي الخاصية المستخدمة للتفاعل مع واجهة المستخدم لنموذج تم إنشاؤه داخل تطبيق يستند إلى نموذج.
+    - content: formContext.ui
+      isCorrect: true
+      explanation: formContext.ui هي الخاصية المستخدمة للتفاعل مع واجهة المستخدم لنموذج تم إنشاؤه داخل تطبيق يستند إلى نموذج.
+    - content: formContext.data
+      isCorrect: false
+      explanation: formContext.ui هي الخاصية المستخدمة للتفاعل مع واجهة المستخدم لنموذج تم إنشاؤه داخل تطبيق يستند إلى نموذج.
+  - content: ما اسم الخاصية المستخدمة في معالجة المراحل التي تم إنشاؤها في سير إجراءات العمل داخل تطبيق يستند إلى نموذج؟
+    choices:
+    - content: executionContext.ui
+      isCorrect: false
+      explanation: formContext.data.process هي اسم الخاصية المستخدمة في معالجة المراحل التي تم إنشاؤها في سير إجراءات العمل داخل تطبيق يستند إلى نموذج.
+    - content: formContext.ui.process
+      isCorrect: false
+      explanation: formContext.data.process هي اسم الخاصية المستخدمة في معالجة المراحل التي تم إنشاؤها في سير إجراءات العمل داخل تطبيق يستند إلى نموذج.
+    - content: formContext.data.process
+      isCorrect: true
+      explanation: formContext.data.process هي اسم الخاصية المستخدمة في معالجة المراحل التي تم إنشاؤها في سير إجراءات العمل داخل تطبيق يستند إلى نموذج.
+  - content: لقد طُلب منك إخفاء قسم علامة تبويب في نموذج تطبيق يستند إلى نموذج إذا تغيرت حالة السجل إلى قيمة معينة. ما الأحداث التي تحتاج إلى التعامل معها في هذا السيناريو؟
+    choices:
+    - content: Form OnLoad, Attribute OnChange
+      isCorrect: true
+      explanation: Form OnLoad, Attribute OnChange هو الحدث المطلوب للتعامل مع السيناريو.
+    - content: Form OnLoad, Form OnSave
+      isCorrect: false
+      explanation: Form OnLoad, Attribute OnChange هو الحدث المطلوب للتعامل مع السيناريو.
+    - content: Attribute OnChange, Form OnSave
+      isCorrect: false
+      explanation: Form OnLoad, Attribute OnChange هو الحدث المطلوب للتعامل مع السيناريو.

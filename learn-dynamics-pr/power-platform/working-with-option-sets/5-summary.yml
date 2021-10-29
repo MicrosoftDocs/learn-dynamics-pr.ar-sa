@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.working-with-option-sets.5-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعرفت عليه حول العمل مع الاختيارات في Microsoft Dataverse.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 4c6095f435bbba9482ec684587ff06f861114be6
+  ms.sourcegitcommit: e7404359ba7d666c707e678889b51f9cd0110c00
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2021
+  ms.locfileid: "7470404"
+durationInMinutes: 1
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-summary.md)]

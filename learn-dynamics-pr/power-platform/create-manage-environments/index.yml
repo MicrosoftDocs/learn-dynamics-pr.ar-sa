@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.create-manage-environments
+metadata:
+  title: إنشاء البيئات وإدارتها في Microsoft Dataverse
+  description: البيئة هي مساحة لتخزين بيانات الأعمال الخاصة بمؤسسك وإدارتها ومشاركتها في أحد مثيلات قاعدة بيانات Dataverse.  يمكنك إعداد بيئة واحدة أو عدة بيئات، بحسب احتياجات مؤسستك. تقوم هذه الوحدة باستكشاف هذه البيئات وكيفية استخدامها مع مثيلات قواعد بيانات Dataverse.
+  ms.date: 06/30/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: dbfd0e439a6da37546fc5a268de6fa5731f5943f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457441"
+title: إنشاء البيئات وإدارتها في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nالبيئة هي مساحة لتخزين بيانات الأعمال الخاصة بمؤسسك وإدارتها ومشاركتها في أحد مثيلات قاعدة بيانات Dataverse.  يمكنك إعداد بيئة واحدة أو عدة بيئات، بحسب احتياجات مؤسستك. تقوم هذه الوحدة باستكشاف هذه البيئات وكيفية استخدامها مع مثيلات قواعد بيانات Dataverse.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحديد البيئات المختلفة الموجودة في Dataverse.\n- إنشاء البيئات وإدارتها في Dataverse.\n- إنشاء مثيل لقاعدة بيانات في Dataverse.\n- إضافة مستخدمين وأدوار أمنية داخل بيئة ما في ‎Dataverse.\n- تحديد مكان إدارة الإعدادات الخاصة بالبيئة. \n"
+prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
+iconUrl: /learn/achievements/create-manage-environments.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+units:
+- learn-dynamics.create-manage-environments.1-intro
+- learn-dynamics.create-manage-environments.2-manage
+- learn-dynamics.create-manage-environments.3-database
+- learn-dynamics.create-manage-environments.4-roles
+- learn-dynamics.create-manage-environments.5-settings
+- learn-dynamics.create-manage-environments.6-check
+- learn-dynamics.create-manage-environments.7-summary
+badge:
+  uid: learn-dynamics.create-manage-environments.badge

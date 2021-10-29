@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.becoming-solution-architect.2-skills
+title: مهارات المنتج والنظام الأساسي الموجودة
+metadata:
+  title: مهارات المنتج والنظام الأساسي الموجودة
+  description: تعرف على مهارات المنتج والنظام الأساسي الموجودة.
+  ms.date: 1/10/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 4a3c654a822f563a15ede51d7dca71e89e2b21c5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457387"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-skills.md)]"

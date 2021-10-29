@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.intro-cds-developers-power-platform.5-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 07/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b573ca164c22c8da32e6300b80178c806737dbe6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457418"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-summary.md)]

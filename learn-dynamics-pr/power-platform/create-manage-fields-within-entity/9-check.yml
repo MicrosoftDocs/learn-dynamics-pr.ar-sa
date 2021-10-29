@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-manage-fields-within-entity.9-check
+metadata:
+  title: إنشاء الأعمدة وإدارتها ضمن فحص المعلومات بالجدول
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 02/25/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 20c92f1988d325b25adeea616fd91b6c4eaa060d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457448"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما نوع العمود الذي يعرض قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد؟
+    choices:
+    - content: نص متعدد الأسطر
+      isCorrect: false
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
+    - content: الاختيار
+      isCorrect: false
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
+    - content: اختيارات
+      isCorrect: true
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
+    - content: الصورة
+      isCorrect: false
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
+  - content: أي عبارة من العبارات التالية ليس صحيحًا فيما يتعلق بالمفاتيح البديلة؟
+    choices:
+    - content: تُسهّل المفاتيح البديلة على المستخدمين العمل باستخدام البيانات في Microsoft Dataverse.
+      isCorrect: false
+      explanation: تحسن المفاتيح البديلة أداء قاعدة البيانات والعمل باستخدام البيانات.
+    - content: تحسن المفاتيح البديلة أداء قاعدة البيانات.
+      isCorrect: false
+      explanation: تحسن المفاتيح البديلة أداء قاعدة البيانات والعمل باستخدام البيانات.
+    - content: المفتاح الأساسي لجدول ما هو GUID، وبالرغم من كونه عديم القيمة للمستخدمين، يمكن لمفتاح بديل المساعدة في التعرف على المفتاح.
+      isCorrect: true
+      explanation: تحسن المفاتيح البديلة أداء قاعدة البيانات والعمل باستخدام البيانات.
+  - content: كيف تجعل العمود مطلوبًا؟
+    choices:
+    - content: حذف الحقل من الجدول.
+      isCorrect: false
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلى جدول.
+    - content: إنشاء عمود جديد.
+      isCorrect: false
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلى جدول.
+    - content: قم بتحرير العمود وتغيير القائمة المنسدلة "المطلوبة".
+      isCorrect: true
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلى جدول.
+    - content: إضافة عمود إلى جدول.
+      isCorrect: false
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلى جدول.

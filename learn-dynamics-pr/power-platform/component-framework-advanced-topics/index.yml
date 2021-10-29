@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.component-framework-advanced-topics
+metadata:
+  title: استخدام الميزات المتقدمة مع إطار مكون Power Apps
+  description: تعرف على مواضيع إطار مكون Power Apps المتقدمة.
+  ms.date: 3/3/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 7afa5a8d564427ef8b88cad7275459143122d537
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457555"
+title: استخدام الميزات المتقدمة مع إطار مكون Power Apps
+summary: "[!include[](../includes/module-banner.md)] \nالحصول على تفاصيل حول كيفية توجيه سيناريوهات أكثر تعقيدًا حيث يتم تطبيقها على إطار مكون Power Apps.  وتغطي هذه الوحدة كيفية تحسين إطارات العميل مثل التعامل والزاوية داخل أحد المكونات، إلى جانب كيفية عنونة السيناريوهات مثل تحميل الملفات والترجمة والتكامل مع Web API لـ Microsoft Dataverse. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استخدم API بتنسيقه في أحد مكونات Power Apps. \n- استخدام web API لـ Dataverse في أحد مكونات Power Apps.\n"
+prerequisites: يعتبر عمل التطوير السابق مفيدًا.
+iconUrl: /learn/achievements/component-framework-advanced-topics.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.component-framework-advanced-topics.1-introduction
+- learn-dynamics.component-framework-advanced-topics.2-formatting-api
+- learn-dynamics.component-framework-advanced-topics.3-web-api
+- learn-dynamics.component-framework-advanced-topics.4-pop-up
+- learn-dynamics.component-framework-advanced-topics.5-check
+- learn-dynamics.component-framework-advanced-topics.6-summary
+badge:
+  uid: learn-dynamics.component-framework-advanced-topics.badge

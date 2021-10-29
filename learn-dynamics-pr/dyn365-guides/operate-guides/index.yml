@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.operate-guides
+metadata:
+  title: تشغيل أحد الأدلة في Dynamics 365 Guides
+  description: تعرف على كيفية تشغيل دليل في Dynamics 365 Guides.
+  ms.date: 10/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8ee4e2427878e48bf877a637c2fcc50624e7a359
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587066"
+title: تشغيل أحد الأدلة في Dynamics 365 Guides
+summary: "[!include[](../includes/module-banner.md)] \nيساعدك Dynamics 365 Guides في الحفاظ على الصدارة وأدواتك في متناول يديك أثناء اتباعك لإرشادات التصوير المجسم خطوة بخطوة لإنجاز مهامك.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- استخدم الإيماءات للتنقل في دليل ما. \n- معايرة جهاز HoloLens الخاص بك.\n- تثبيت تطبيق HoloLens وتسجيل الدخول إليه.\n- ارتساء دليل ما وتشغيله.\n- العمل دون اتصال كعامل.\n"
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Guides
+iconUrl: /learn/achievements/operate-guides.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-guides
+- hololens
+units:
+- learn-dynamics.operate-guides.01-introduction
+- learn-dynamics.operate-guides.05-gestures-1
+- learn-dynamics.operate-guides.02-calibrate-hololens-1
+- learn-dynamics.operate-guides.06-gestures-2
+- learn-dynamics.operate-guides.03-calibrate-hololens-2
+- learn-dynamics.operate-guides.04-install
+- learn-dynamics.operate-guides.07-anchor
+- learn-dynamics.operate-guides.08-operate
+- learn-dynamics.operate-guides.09-work-offline
+- learn-dynamics.operate-guides.10-exercise-1
+- learn-dynamics.operate-guides.11-check
+- learn-dynamics.operate-guides.12-summary
+badge:
+  uid: learn-dynamics.operate-guides.badge

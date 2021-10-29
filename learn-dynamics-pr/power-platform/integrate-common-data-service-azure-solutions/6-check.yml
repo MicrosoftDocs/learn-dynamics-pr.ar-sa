@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-common-data-service-azure-solutions.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 01/03/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 77d2edaa430652b51a2bab6a6a9578dc7a457677
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457588"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ماذا يسمى حل المراسلة المستند إلى السحابة من Microsoft؟
+    choices:
+    - content: شبكة الأحداث
+      isCorrect: false
+      explanation: حل المراسلة المستند إلى السحابة من Microsoft ‏‫هو ناقل الخدمة‬.
+    - content: التطبيقات المنطقية
+      isCorrect: false
+      explanation: حل المراسلة المستند إلى السحابة من Microsoft ‏‫هو ناقل الخدمة‬.
+    - content: ناقل الخدمة
+      isCorrect: true
+      explanation: حل المراسلة المستند إلى السحابة من Microsoft ‏‫هو ناقل الخدمة‬.
+  - content: ماذا يسمى إطار عمل التكامل منخفض التعليمات البرمجية من Microsoft؟
+    choices:
+    - content: شبكة الأحداث
+      isCorrect: false
+      explanation: إطار عمل التكامل منخفض التعليمات البرمجية من Microsoft هو "التطبيقات المنطقية"
+    - content: التطبيقات المنطقية
+      isCorrect: true
+      explanation: إطار عمل التكامل منخفض التعليمات البرمجية من Microsoft هو "التطبيقات المنطقية"
+    - content: ناقل الخدمة
+      isCorrect: false
+      explanation: إطار عمل التكامل منخفض التعليمات البرمجية من Microsoft هو "التطبيقات المنطقية"
+  - content: ما هي الآلية التي قد تستخدمها لنشر بيانات Microsoft Dataverse مباشرة إلى وظيفة Azure؟
+    choices:
+    - content: خطافات الويب
+      isCorrect: true
+      explanation: يتم استخدام خطافات الويب لنشر بيانات Dataverse مباشرة إلى وظيفة Azure.
+    - content: Power Automate
+      isCorrect: false
+      explanation: يتم استخدام خطافات الويب لنشر بيانات Dataverse مباشرة إلى وظيفة Azure.
+    - content: التطبيقات المنطقية
+      isCorrect: false
+      explanation: يتم استخدام خطافات الويب لنشر بيانات Dataverse مباشرة إلى وظيفة Azure.

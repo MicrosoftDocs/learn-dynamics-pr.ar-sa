@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-common-data-service-azure-solutions.1-introduction
+title: نظرة عامة على حلول Microsoft Dataverse Azure
+metadata:
+  title: نظرة عامة على حلول Dataverse Azure
+  description: تعرف على حلول Dataverse Azure.
+  ms.date: 01/03/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 7dc17a4739584cb804b999fac259efc9da116c62
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457576"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

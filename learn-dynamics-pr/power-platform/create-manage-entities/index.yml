@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.create-manage-entities
+metadata:
+  title: إدارة الجداول في Dataverse
+  description: تتشابه جداول Dataverse مع الجداول في قاعدة البيانات. يتضمن كل مثيل من قاعدة بيانات Dataverse مجموعة أساسية من الجداول التي توفر بنية للبيانات التي يتم استخدامها بواسطة تطبيقات الأعمال بشكل عام.
+  ms.date: 06/27/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 2dbb7056f9dddd3eecdd22f340849bffacf5372f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457522"
+title: إدارة الجداول في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nتتشابه جداول Dataverse مع الجداول في قاعدة البيانات. يتضمن كل مثيل من قاعدة بيانات Dataverse مجموعة أساسية من الجداول التي توفر بنية للبيانات التي يتم استخدامها بواسطة تطبيقات الأعمال بشكل عام.  \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي:\n- الجداول‏‎ في Dataverse.\n- أنواع الجداول المتوفرة في Dataverse. \n- إنشاء جدول مخصص.\n- تمكين المرفقات في جدول ما.\n- ما هي متطلبات التراخيص المطلوب تطبيقها لاستخدام كل نوع من أنواع الجداول.\n"
+prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
+iconUrl: /learn/achievements/create-manage-entities.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+units:
+- learn-dynamics.create-manage-entities.1-intro
+- learn-dynamics.create-manage-entities.2-custom-entity
+- learn-dynamics.create-manage-entities.3-enable-attachments
+- learn-dynamics.create-manage-entities.4-licensing
+- learn-dynamics.create-manage-entities.5-exercise
+- learn-dynamics.create-manage-entities.6-check
+- learn-dynamics.create-manage-entities.7-summary
+badge:
+  uid: learn-dynamics.create-manage-entities.badge

@@ -1,0 +1,47 @@
+---
+ms.openlocfilehash: 7c0e1097a7a249768980c6731b0529c1fb3d882f3d3da0bdc328b90aa40583ea
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7582701"
+---
+يلزم وجود سلسلة من أنشطة الإعداد لمرة واحدة لتوصيل منع الفقدان بـ Dynamics 365 Commerce. عند اكتمال هذه الأنشطة، يمكنك فصل الأنظمة وإعادة توصيلها. 
+
+تأكد من أن لديك المتطلبات الأساسية الثلاثة التالية قبل المتابعة إلى الخطوات التالية:
+ 
+- الوصول إلى مستأجر Microsoft Azure Data Lake Storage
+- بيئة Finance and Operations 
+- ترخيص Fraud Protection (الاشتراك التجريبي أو الاشتراك المنشط)
+
+عندما تستوفي المتطلبات الأساسية، اتبع هذه الخطوات لتوصيل بيانات البيع بالتجزئة الخاصة بك بـ Fraud Protection:
+
+1.  في Commerce، انتقل إلى لوحة المعلومات Finance and Operations، ثم أدخل **معلمات النظام** في حقل **البحث** أعلى الصفحة.
+2.  في صفحة **معلمات النظام**، حدد **اتصالات البيانات**. 
+3.  في حقل **تمكين تكامل Data Lake**، حدد **نعم**. 
+4.  احفظ تفاصيل مخزن البيانات في حقل **اسم DNS**. ستحتاج إلى هذه المعلومات لإعادة الاتصال إذا تم فصل تكامل مخزن البيانات في أي وقت.
+
+    [ ![لقطة شاشة لصفحة اتصالات البيانات في Fraud Protection.](../media/data-lake-ss.png) ](../media/data-lake-ss.png#lightbox) 
+
+5.  ارجع إلى لوحة معلومات Finance and Operations، وأدخل **مخزن الكيان** في حقل **البحث** أعلى الصفحة. مخزن الكيان هو مجموعة من الجداول/العروض التي تحتوي على بيانات البيع بالتجزئة بشكل أولي أو مجمع.
+6.  في مخزن الكيان، أدخل **RetailSales** في حقل **البحث**. 
+7.  لتمكين التحديث التلقائي للبيانات، حدد **نعم** أسفل **خيارات التحديث**. يضيف التحديث التلقائي بشكل متزايد أحدث البيانات من أجهزة نقاط البيع إلى مخزن بيانات البيع بالتجزئة.
+
+    [ ![لقطة شاشة لكيان RetailSales.](../media/retailsales-entity-ss.png) ](../media/retailsales-entity-ss.png#lightbox) 
+
+8.  في لوحة معلومات Finance and Operations، حدد **إدارة الميزات**، أو أدخل **إدارة الميزات** في حقل **البحث**.
+9.  في مساحة عمل **إدارة الميزات**، قم بتمكين ميزة **منع الفقدان في Dynamics 365 Fraud Protection (DFP)**.
+
+    [ ![لقطة شاشة لمساحة عمل إدارة الميزات.](../media/feature-management-ss.png) ](../media/feature-management-ss.png#lightbox) 
+
+10. قم بتسجيل معرف تطبيق Fraud Protection في Finance and Operations لتخويل Fraud Protection للوصول إلى البيانات من مخزن البيانات: 
+    1. انتقل إلى صفحة **تطبيقات Azure Active Directory**.
+    1.  أنشئ إدخالاً جديداً لمعرف تطبيق الطرف الأول **Dynamics Fraud Protection** (bf04bdab-e06f-44f3-9821-d3af64fc93a9).
+    1.  قم بتعيين الإدخال معرف مستخدم **RetailServiceAccount**. 
+11. انتقل إلى [مدخل Fraud Protection](https://dfp.microsoft.com/?azure-portal=true) وقم بتوصيل بيئة Finance and Operations ببيئة Fraud Protection الخاصة بك بواسطة استخدام عنوان URL لبيئة Commerce الخاصة بك. 
+
+    [ ![لقطة شاشة للاتصال بنافذة Dynamics 365 Commerce.](../media/connect-commerce-ss.png) ](../media/connect-commerce-ss.png#lightbox)  
+
+    عندما يكون الاتصال ناجحاً، تبدأ Fraud Protection على الفور في المزامنة للحصول على البيانات من التجارة وإنشاء تقرير منع الفقدان.
+
+    [ ![لقطة شاشة للاتصال الناجح بـ Commerce ومعلومات المزامنة.](../media/sync-commerce-ss.png) ](../media/sync-commerce-ss.png#lightbox) 

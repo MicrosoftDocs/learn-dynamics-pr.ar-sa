@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.extend-power-platform-common-data-service
+metadata:
+  title: توسيع Microsoft Power Platform Microsoft Dataverse
+  description: الشروع في العمل باستخدام عمليات توسيع Microsoft Power Platform Microsoft Dataverse.
+  ms.date: 07/30/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 2e6cb4e0761a5305148a7fb9a3719cc4e6cd9daa
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457605"
+title: توسيع Microsoft Power Platform Microsoft Dataverse
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يمكن أن يكون الشروع في العمل باستخدام توسيع Microsoft Power PlatformMicrosoft Dataverse مزعجًا. يبحث مسار التعليم هذا عن الأدوات والموارد المطلوبة لتوسيع Microsoft Power Platform. سنبدأ بالنظر إلى حزم SDK ونموذج قابلية للتوسيع وإطار الحدث. كما يغطي مسار التعليم هذا متى يتم استخدام المكونات الإضافية. تكوين المكونات الإضافية مع تسجيل المكونات الإضافية ونشرها.
+prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. \n- باشر العمل مع Power Apps وPower Automate وPower BI.\n- تجربة المطور العام.\n"
+iconUrl: /learn/achievements/extend-power-platform-common-data-service.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+- power-apps
+modules:
+- learn-dynamics.intro-cds-developers-power-platform
+- learn-dynamics.plug-ins-extend-power-platform
+trophy:
+  uid: learn-dynamics.extend-power-platform-common-data-service.trophy

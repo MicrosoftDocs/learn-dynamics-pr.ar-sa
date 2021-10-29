@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.automate-business-process-flow-client-script-power-platform.2-best-practices
+title: أفضل ممارسات البرمجة النصية للعملاء
+metadata:
+  title: أفضل ممارسات البرمجة النصية للعملاء
+  description: تعرف على أفضل ممارسات البرمجة النصية للعملاء.
+  ms.date: 07/16/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d8490b1b9ebca8e07c53c79af4a3d6c0c4f9c404
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457551"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-best-practices.md)]

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.integrate-common-data-service-azure-solutions.4-webhooks
+title: نشر أحداث Microsoft Dataverse باستخدام خطافات الويب
+metadata:
+  title: نشر أحداث Dataverse باستخدام خطافات الويب
+  description: تعرف على كيفية نشر أحداث Dataverse باستخدام خطافات الويب.
+  ms.date: 01/03/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 08a01e8d5fe423bf4186f4f23d5223e7be13ac91
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457443"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-webhooks.md)]"

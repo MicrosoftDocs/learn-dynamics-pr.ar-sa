@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.loss-prevention-report-fraud-protection.07-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 01/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d4931574aecc4f774d98dea3791567d565c064d3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582750"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما نوع كيان البيانات غير المطلوب لتشغيل تقارير منع الفقدان؟
+    choices:
+    - content: الحركات
+      isCorrect: false
+      explanation: الحركات مطلوبة لتشغيل تقارير منع الفقدان.
+    - content: المبيعات
+      isCorrect: false
+      explanation: هناك حاجة إلى المبيعات لتشغيل تقارير منع الفقدان.
+    - content: عمليات الدفع
+      isCorrect: false
+      explanation: هناك حاجة إلى الدفعات لتشغيل تقارير منع الفقدان.
+    - content: عمليات رد المبالغ المدفوعة
+      isCorrect: true
+      explanation: ليست هناك حاجة لرد المبالغ المدفوعة لتشغيل تقارير منع الفقدان.
+  - content: توفر تقارير منع الفقدان رؤى حول أي من الخيارات التالية؟
+    choices:
+    - content: طاقم عمل شاذ
+      isCorrect: false
+      explanation: توفر تقارير منع الفقدان رؤى حول كل من الموظفين غير العاديين والمحطات الطرفية.
+    - content: الوحدة الطرفية الشاذة
+      isCorrect: false
+      explanation: توفر تقارير منع الفقدان رؤى حول كل من الموظفين غير العاديين والمحطات الطرفية.
+    - content: الموظفون والوحدات الطرفية الشاذة
+      isCorrect: true
+      explanation: توفر تقارير منع الفقدان رؤى حول كل من الموظفين غير العاديين والمحطات الطرفية.
+    - content: لا شيء مما سبق
+      isCorrect: false
+      explanation: توفر تقارير منع الفقدان رؤى حول كل من الموظفين غير العاديين والمحطات الطرفية.
+  - content: القدرة على منع الفقدان تقدم أي من النتائج التالية؟
+    choices:
+    - content: يساعد منع الفقدان على حماية إيراداتك من خلال تقليل الخسائر المرتبطة بالعائدات والخصومات الاحتيالية.
+      isCorrect: false
+      explanation: جميع الخيارات هي النتائج التي توفرها قدرة "منع الفقدان".
+    - content: يساعد منع الخسائر على تحسين الكفاءة التشغيلية عن طريق تقليل الجهود اليدوية لتحديد كيانات الأعمال والوظائف المعرضة لخطر الخسائر، كما أنه يتيح تقارير قابلة للاستهلاك بسهولة مع رؤى قابلة للتنفيذ.
+      isCorrect: false
+      explanation: جميع الخيارات هي النتائج التي توفرها قدرة "منع الفقدان".
+    - content: يُمكّن منع الخسائر مديري المتاجر وموظفي منع الفقدان من التصرف من خلال توفير رؤى حول الحالات الشاذة في خصم البضائع والمرتجعات.
+      isCorrect: false
+      explanation: جميع الخيارات هي النتائج التي توفرها قدرة "منع الفقدان".
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: جميع الخيارات هي النتائج التي توفرها قدرة "منع الفقدان".

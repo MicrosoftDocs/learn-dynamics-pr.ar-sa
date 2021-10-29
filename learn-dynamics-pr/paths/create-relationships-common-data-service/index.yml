@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+metadata:
+  title: إنشاء العلاقات وقواعد العمل والحسابات والقيم المحتسبة في Microsoft Dataverse
+  description: هل تحتاج إلى إنشاء العلاقات وقواعد العمل والحسابات والقيم المحتسبة في Dataverse؟ تساعدك هذه الوحدات على استخدام Dataverse لإنشاء حلول أعمال قوية ستغير العمليات والمعالجات والمؤسسة بالكامل. سيبدأ مسار التعليم باستخدام Dataverse الذي يقدمك لـ Dataverse وللعديد من المفاهيم الأساسية التي تتضمن البيئة والكيانات والحقول ومجموعات الخيارات.  يستمر هذا المسار التعليمي ويوسع استكشاف Dataverse مع نظرة عامة حول كيفية تشكيل العلاقات بين الكيانات، وكيفية إنشاء قواعد العمل لتنفيذ المنطق استنادًا إلى احتياجات مؤسستك، وكيفية إضافة الحسابات وحقول القيم المحتسبة.
+  ms.date: 07/30/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: a95f357300f35bd0c7726fd105d78da39283940b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457517"
+title: إنشاء العلاقات وقواعد العمل والحسابات والقيم المحتسبة في Dataverse
+summary: "[!include[](../../includes/lp-banner.md)]\n\nهل تحتاج إلى إنشاء العلاقات وقواعد العمل والحسابات والقيم المحتسبة في Dataverse؟ تساعدك هذه الوحدات على استخدام Dataverse لإنشاء حلول أعمال قوية ستغير العمليات والمعالجات والمؤسسة بالكامل. سيبدأ مسار التعليم باستخدام Dataverse الذي يقدمك لـ Dataverse وللعديد من المفاهيم الأساسية التي تتضمن البيئة والكيانات والحقول ومجموعات الخيارات.  يستمر هذا المسار التعليمي ويوسع استكشاف Dataverse مع نظرة عامة حول كيفية تشكيل العلاقات بين الكيانات، وكيفية إنشاء قواعد العمل لتنفيذ المنطق استنادًا إلى احتياجات مؤسستك، وكيفية إضافة الحسابات وحقول القيم المحتسبة.   \n"
+prerequisites: >
+  - الفهم الأساسي للمواضيع التي تمت تغطيتها في "الشروع في العمل باستخدام المسار التعليمي Dataverse. يتطلب العديد من القدرات والتدريبات ضمن المسار التعليمي أن تكون عضوًا في "دور المسؤول" في بيئة ما، ويجب أن يكون لديك ترخيص Power Apps صالح. إذا لم تكن قد أضفت دور المسؤول أو لم يكن لديك ترخيص Power Apps معين لك، فينبغي عليك إنشاء بيئة شخصية عن طريق الوصول إلى خطة Community Power Apps وإعداد بيئة شخصية باتباع الإرشادات المُشار اليها في قسم الملخص للوحدة الأولى. ستسمح لك خطة المجتمع باستخدام بيئة واحدة (بيئة المطور لديك) وإنشاء مثيل Dataverse لها والوصول إلى كافة إمكانيات ترخيص Power Apps. القيود - تتيح خطة Power Apps Communityتجربة جوانب Power Apps وDataverse ولكن لا يمكنك استخدامها لعمليات الإنتاج، ولا يمكنك نشر ومشاركة أي Power Apps أنشأته في هذه البيئة.
+iconUrl: /learn/achievements/create-relationships-business-rules-calculations-and-rollups-in-common-data-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+modules:
+- learn-dynamics.create-relationship-between-cds-entities
+- learn-dynamics.define-create-business-rules
+- learn-dynamics.create-define-calculation-rollup-fields
+trophy:
+  uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service.trophy

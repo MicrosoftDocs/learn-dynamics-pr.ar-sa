@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.propose-solution
+metadata:
+  title: اقتراح حل كمهندس حلول لـ Microsoft Power Platform وDynamics 365
+  description: تعرف على كيفية اقتراح حل.
+  ms.date: 1/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 4209b69afc6ed000b3e4d94804ba84c623aee3dc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457513"
+title: اقتراح حل كمهندس حلول لـ Microsoft Power Platform وDynamics 365
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرف على كيفية اقتراح حل. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد مكونات الحل. \n- إعداد العرض التوضيحي والتحقق من صحته. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/propose-solution.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.propose-solution.1-introduction
+- learn-dynamics.propose-solution.2-components
+- learn-dynamics.propose-solution.3-demo
+- learn-dynamics.propose-solution.4-third-party-components
+- learn-dynamics.propose-solution.5-strengths-weaknesses
+- learn-dynamics.propose-solution.6-check
+- learn-dynamics.propose-solution.7-summary
+badge:
+  uid: learn-dynamics.propose-solution.badge

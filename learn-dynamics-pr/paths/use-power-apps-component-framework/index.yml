@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-power-apps-component-framework
+metadata:
+  title: إنشاء المكونات باستخدام إطار مكون ‪Power Apps
+  description: تعرف على كيفية إنشاء مكونات مخصصة وعناصر تحكم مع إطار مكون Power Apps.
+  ms.date: 03/04/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 6515683de05cf6a221a4ab3570fd0e939bed615d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457414"
+title: إنشاء المكونات باستخدام إطار مكون ‪Power Apps
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  الشروع في العمل باستخدام إطار مكون Power Appsعبر وحدة تقديم نمطية بشأن المفاهيم والمكونات الأساسية. ويتبع ذلك الوحدات التي توضح كيفية إنشاء مكون والعمل مع ميزات إطار مكون Power Apps المتقدمة.
+prerequisites: >
+  - الفهم الأساسي لـ Microsoft Power Platform.
+
+  - خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio.
+
+  - تجربة في إدارة الحلول في Azure هي المفضلة.
+iconUrl: /learn/achievements/use-power-apps-component-framework.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+- power-apps
+modules:
+- learn-dynamics.get-started-component-framework
+- learn-dynamics.build-power-app-component
+- learn-dynamics.component-framework-advanced-topics
+trophy:
+  uid: learn-dynamics.use-power-apps-component-framework.trophy

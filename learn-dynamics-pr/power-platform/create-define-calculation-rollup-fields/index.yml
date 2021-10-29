@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.create-define-calculation-rollup-fields
+metadata:
+  title: إنشاء أعمدة الحساب أو القيم المحتسبة وتحديدها في Microsoft Dataverse
+  description: هل ترغب في استخدام أعمده القيم المحتسبة أو الحساب ؟ وتوضح هذه الوحدة كيفية بناء الحسابات أو القيم المحتسبة التي تم تعريفها وتشغيلها داخل البيانات في Dataverse، بغض النظر عن التطبيق الذي يصل إلى مجموعه البيانات هذه.
+  ms.date: 07/26/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 6034699fab1de8b92ee6d0b35b6babf51367f343
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457553"
+title: إنشاء أعمدة الحساب أو القيم المحتسبة وتحديدها في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nهل ترغب في استخدام أعمده القيم المحتسبة أو الحساب ؟ وتوضح هذه الوحدة كيفية بناء الحسابات أو القيم المحتسبة التي تم تعريفها وتشغيلها داخل البيانات في Dataverse، بغض النظر عن التطبيق الذي يصل إلى مجموعه البيانات هذه. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحديد عمود القيمة المحتسبة. \n- إنشاء عمود القيمة المحتسبة.\n- تحديد عمود الحساب.\n- إنشاء عمود الحساب.\n"
+prerequisites: فهم المواضيع التي تمت تغطيتها في "الشروع في العمل باستخدام مسار Dataverse التعليمي وهذا المسار التعليمي.
+iconUrl: /learn/achievements/create-define-calculation-rollup-fields.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+units:
+- learn-dynamics.create-define-calculation-rollup-fields.1-intro
+- learn-dynamics.create-define-calculation-rollup-fields.2-rollup
+- learn-dynamics.create-define-calculation-rollup-fields.3-calculation
+- learn-dynamics.create-define-calculation-rollup-fields.4-create
+- learn-dynamics.create-define-calculation-rollup-fields.5-exercise-1
+- learn-dynamics.create-define-calculation-rollup-fields.6-exercise-2
+- learn-dynamics.create-define-calculation-rollup-fields.7-check
+- learn-dynamics.create-define-calculation-rollup-fields.8-summary
+badge:
+  uid: learn-dynamics.create-define-calculation-rollup-fields.badge

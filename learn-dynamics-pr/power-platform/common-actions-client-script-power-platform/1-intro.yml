@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-actions-client-script-power-platform.1-intro
+title: مقدمة إلى البرمجة النصية من جانب العميل
+metadata:
+  title: مقدمة إلى البرمجة النصية من جانب العميل
+  description: تشرح هذه الوحدة البرمجة النصية من جانب العميل.
+  ms.date: 07/15/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 05f4dbdcb14076e5b577dd66f9d2413afac2ce15
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457458"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-intro.md)]

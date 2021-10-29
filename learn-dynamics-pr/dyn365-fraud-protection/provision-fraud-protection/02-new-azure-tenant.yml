@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.02-new-azure-tenant
+title: استخدام مستأجر Azure جديد 
+metadata:
+  title: استخدام مستأجر Azure جديد 
+  description: تعرف علي كيفيه توفير Dynamics 365 Fraud Protection مع مستأجر Azure جديد.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4fbb982d695cac466e595c4cb5e59e72ab4b2645
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582766"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-new-azure-tenant.md)]"

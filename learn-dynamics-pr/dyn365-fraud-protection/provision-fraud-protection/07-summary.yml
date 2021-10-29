@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.07-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص وحدة توفير Dynamics 365 Fraud Protection
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: dfd7755b531685116fbbc415b5530476fd6c0279
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582760"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-summary.md)]"

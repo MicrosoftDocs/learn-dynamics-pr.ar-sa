@@ -1,0 +1,49 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-using-common-data-service
+metadata:
+  title: الشروع في العمل باستخدام Microsoft Dataverse
+  description: هل تريد معرفة كيفية بناء الحلول التي يمكنها رفع بنيه البيانات القياسية والعمل مع الحلول الأخرى التي تشترك في نفس نموذج البيانات؟  هل تريد توسيع النموذج القياسي لدعم الحلول المخصصة؟ سيوضح مسار التعليم هذا المفاهيم الخلفية والفوائد الخاصة بـ Dataverse. يتم أيضًا مناقشة إنشاء بيئة ووحدات ومجموعات حقول وخيارات.
+  ms.date: 07/07/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 63ef9ac9defa6912a41d818f1aac77a9e9035dce
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457382"
+title: الشروع في العمل باستخدام Dataverse
+video:
+  title: الشروع في العمل باستخدام Dataverse
+  url: https://www.microsoft.com/videoplayer/embed/RWFMfm
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  هل تريد معرفة كيفية بناء الحلول التي يمكنها رفع بنيه البيانات القياسية والعمل مع الحلول الأخرى التي تشترك في نفس نموذج البيانات؟  هل تريد توسيع النموذج القياسي لدعم الحلول المخصصة؟ سيوضح مسار التعليم هذا المفاهيم الخلفية والفوائد الخاصة بـ Dataverse. يتم أيضًا مناقشة إنشاء بيئة ووحدات ومجموعات حقول وخيارات.
+
+
+  يمكن أن يساعد مسار التعليم هذا على إعدادك لـ [Microsoft Certified: Microsoft Power Platform شهادة إقران منشئ التطبيق](/learn/certifications/power-platform-app-maker).
+prerequisites: "يتطلب العديد من القدرات والتدريبات ضمن المسار التعليمي أن تكون عضوًا في \"دور المسؤول\" في بيئة ما، ويجب أن يكون لديك ترخيص Power Apps صالح.  إذا لم تكن قد أضفت دور المسؤول أو لم يكن لديك ترخيص Power Apps معين لك، فينبغي عليك إنشاء بيئة شخصية عن طريق الوصول إلى خطة Community Power Apps وإعداد بيئة شخصية باتباع الإرشادات المُشار اليها في قسم الملخص للوحدة الأولى. ستسمح لك خطة المجتمع باستخدام بيئة واحدة (بيئة المطور لديك) وإنشاء مثيل Dataverse لها والوصول إلى كافة إمكانيات ترخيص Power Apps. \n\nالقيود - تتيح خطة Power Apps Communityتجربة جوانب Power Apps وDataverse ولكن لا يمكنك استخدامها لعمليات الإنتاج، ولا يمكنك نشر ومشاركة أي Power Apps أنشأته في هذه البيئة. \n"
+iconUrl: /learn/achievements/get-started-using-common-data-service.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+modules:
+- learn-bizapps.wwl.introduction-common-data-service
+- learn-dynamics.create-manage-environments
+- learn-bizapps.powerapps-common-data-service
+- learn-dynamics.create-manage-entities
+- learn-dynamics.create-manage-fields-within-entity
+- learn-dynamics.working-with-option-sets
+- learn-dynamics.load-export-data-create-data-views
+trophy:
+  uid: learn-dynamics.get-started-using-common-data-service.trophy

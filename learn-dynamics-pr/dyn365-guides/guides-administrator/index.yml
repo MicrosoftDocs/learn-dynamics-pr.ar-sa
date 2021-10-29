@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.guides-administrator
+metadata:
+  title: Dynamics 365 Guides‏‫ للمسؤولين
+  description: تعرف على كيفية إعداد Dynamics 365 guides وترقيه الحل.
+  ms.date: 10/05/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 48a8fe30c423f16e5c512c2e3fe5789d89211c3c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587045"
+title: Dynamics 365 Guides‏‫ للمسؤولين
+summary: "[!include[](../includes/module-banner.md)] \n[!include[](../includes/specific-module-banner.md)]\n\nتتمثل مهمة المسؤول في إعداد Dynamics 365 Guides وتحديث الحل. سيقومون أيضاً بإضافة مستخدمين، وتعيين الأدوار، والوصول، والاعتناء بالتكامل مع تطبيقات Dynamics 365 الأخرى.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد الأدلة وتحديثها\n- تنشيط دليل أو إلغاء تنشيطه أو حذفه\n- تعيين أدوار المستخدم وإضافتها.\n- تكامل Dynamics 365 Guides مع تطبيقات Dynamics 365 الأخرى\n"
+prerequisites: "- المعرفة الأساسية بـ Dynamics 365 Guides \n"
+iconUrl: /learn/achievements/guides-administrator.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-guides
+- hololens
+units:
+- learn-dynamics.guides-administrator.01-introduction
+- learn-dynamics.guides-administrator.02-setup
+- learn-dynamics.guides-administrator.03-upgrade
+- learn-dynamics.guides-administrator.05-add-users
+- learn-dynamics.guides-administrator.06-assign-roles
+- learn-dynamics.guides-administrator.07-restrict-access
+- learn-dynamics.guides-administrator.08-limit-access
+- learn-dynamics.guides-administrator.09-activate-deactivate
+- learn-dynamics.guides-administrator.10-integrations
+- learn-dynamics.guides-administrator.11-opt-out
+- learn-dynamics.guides-administrator.14-check
+- learn-dynamics.guides-administrator.15-summary
+badge:
+  uid: learn-dynamics.guides-administrator.badge

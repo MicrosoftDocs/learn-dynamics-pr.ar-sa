@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-relationship-between-cds-entities.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: a543f3e2c9e429c810d7d531795808bf7b0ce411
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7457619"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: Microsoft Dataverse يدعم كافة العلاقات التالية باستثناء أي واحدة؟
+    choices:
+    - content: متعدد إلى متعدد
+      isCorrect: false
+      explanation: علاقات واحد إلى واحد غير مدعومة في Dataverse.
+    - content: واحد إلى واحد
+      isCorrect: true
+      explanation: علاقات واحد إلى واحد غير مدعومة في Dataverse.
+    - content: واحد إلى متعدد
+      isCorrect: false
+      explanation: علاقات واحد إلى واحد غير مدعومة في Dataverse.
+    - content: متعدد إلى واحد
+      isCorrect: false
+      explanation: علاقات واحد إلى واحد غير مدعومة في Dataverse.
+  - content: أي العبارات التالية تُعد صحيحة عن تغيير الجداول؟
+    choices:
+    - content: يمكنك تغيير الجداول في علاقة "متعدد إلى متعدد" موجودة.
+      isCorrect: false
+      explanation: بإمكانك تغيير الجداول في علاقة "متعدد إلى متعدد" موجودة. يمكنك حذفه فقط.
+    - content: يمكنك تغيير الجداول في علاقة "واحد إلى متعدد" موجودة.
+      isCorrect: false
+      explanation: بإمكانك تغيير الجداول في علاقة "متعدد إلى متعدد" موجودة. يمكنك حذفه فقط.
+    - content: بإمكانك تغيير الجداول في علاقة "متعدد إلى متعدد" موجودة.
+      isCorrect: true
+      explanation: بإمكانك تغيير الجداول في علاقة "متعدد إلى متعدد" موجودة. يمكنك حذفه فقط.
+    - content: يمكنك تغيير الجداول في علاقة "متعدد إلى واحد" موجودة.
+      isCorrect: false
+      explanation: بإمكانك تغيير الجداول في علاقة "متعدد إلى متعدد" موجودة. يمكنك حذفه فقط.
+  - content: تُعد القدرة على ربط كيانين (تصميم علائقي) أمرًا مهمًا لكل ما يلي باستثناء أي واحد؟
+    choices:
+    - content: المزيد من مساحة التخزين
+      isCorrect: false
+      explanation: إنه لأمر مهمٌ بالنسبة للمزيد من مساحة للتخزين ودقة البيانات والتقارير بشكل أفضل.
+    - content: دقة أفضل للبيانات
+      isCorrect: false
+      explanation: إنه لأمر مهمٌ بالنسبة للمزيد من مساحة للتخزين ودقة البيانات والتقارير بشكل أفضل.
+    - content: إعداد أفضل للتقارير
+      isCorrect: false
+      explanation: إنه لأمر مهمٌ بالنسبة للمزيد من مساحة للتخزين ودقة البيانات والتقارير بشكل أفضل.
+    - content: أسهل في التصميم
+      isCorrect: true
+      explanation: إنه لأمر مهمٌ بالنسبة للمزيد من مساحة للتخزين ودقة البيانات والتقارير بشكل أفضل.

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.guides-administrator.05-add-users
+title: إضافة مستخدمين
+metadata:
+  title: إضافة مستخدمين
+  description: تعرف على كيفية إضافة مستخدمين وتعيين ترخيص لمستخدم موجود في Dynamics 365 Guides.
+  ms.date: 10/05/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: eb2e20d24ebc0a77a9f35f464307dbea15d4e943
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587065"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-add-users.md)]"

@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-requirements
+metadata:
+  title: العمل باستخدام المتطلبات كمهندس حلول لـ Microsoft Power Platform وDynamics 365
+  description: من المهم تسجيل احتياجات العميل بدقة. وتوضح هذه الوحدة كيفية تسجيل المتطلبات وتحديد الأصناف الوظيفية وغير الوظيفية.
+  ms.date: 2/7/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: d30f6e874755919383091235e8ee678eedfc0908
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457570"
+title: العمل باستخدام المتطلبات كمهندس حلول لـ Microsoft Power Platform وDynamics 365
+summary: "[!include[](../includes/module-banner.md)] \n\nمن المهم تسجيل احتياجات العميل بدقة. وتوضح هذه الوحدة كيفية تسجيل المتطلبات وتحديد الأصناف الوظيفية وغير الوظيفية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية قيادة جلسات عميل تسجيل المتطلبات. \n- تعرف على كيفية التمييز بين المتطلبات الوظيفية وغير الوظيفية. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/work-with-requirements.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-business-central
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-human-resources
+- dynamics-marketing
+- dynamics-commerce
+- dynamics-sales
+- dynamics-scm
+- power-automate
+- power-bi
+- power-apps
+- power-platform
+units:
+- learn-dynamics.work-with-requirements.1-introduction
+- learn-dynamics.work-with-requirements.2-capture-sessions
+- learn-dynamics.work-with-requirements.3-functional-requirements
+- learn-dynamics.work-with-requirements.4-non-functional-requirements
+- learn-dynamics.work-with-requirements.5-finalize-requirements
+- learn-dynamics.work-with-requirements.6-check
+- learn-dynamics.work-with-requirements.7-summary
+badge:
+  uid: learn-dynamics.work-with-requirements.badge

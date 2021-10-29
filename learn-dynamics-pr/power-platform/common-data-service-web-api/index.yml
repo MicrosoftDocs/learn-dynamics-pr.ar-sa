@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.common-data-service-web-api
+metadata:
+  title: العمل باستخدام Web API لـ Microsoft Dataverse
+  description: تعرّف على كيفية العمل مع Web API لـ Dataverse.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: f5e639429cb9ad9d44e57aa795b78aaa73f06267
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457378"
+title: العمل باستخدام Web API لـ Dataverse
+summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على كيفية العمل مع Web API لـ Dataverse.   \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التفاعل مع Web API لـ Dataverse باستخدام أداة Postman.\n- تخويل Dataverse باستخدام OAuth.\n- استخدام OData للاستعلام عن البيانات. \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/common-data-service-web-api.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.common-data-service-web-api.1-introduction
+- learn-dynamics.common-data-service-web-api.2-authenticate
+- learn-dynamics.common-data-service-web-api.3-postman
+- learn-dynamics.common-data-service-web-api.4-odata
+- learn-dynamics.common-data-service-web-api.5-fetch-xml
+- learn-dynamics.common-data-service-web-api.6-power-automate
+- learn-dynamics.common-data-service-web-api.7-impersonate
+- learn-dynamics.common-data-service-web-api.8-change-tracking
+- learn-dynamics.common-data-service-web-api.9-check
+- learn-dynamics.common-data-service-web-api.10-summary
+badge:
+  uid: learn-dynamics.common-data-service-web-api.badge

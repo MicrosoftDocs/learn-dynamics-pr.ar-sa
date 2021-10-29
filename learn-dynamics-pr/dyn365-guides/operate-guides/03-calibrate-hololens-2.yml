@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.operate-guides.03-calibrate-hololens-2
+title: معايرة جهاز HoloLens 2
+metadata:
+  title: معايرة جهاز HoloLens 2
+  description: تعرف على كيفية معايرة جهاز HoloLens 2 ‏الخاص بك باستخدام Dynamics 365 Guides.
+  ms.date: 10/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 223609d3a1bca95b6df67e4ca7884ead5d087f5c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587064"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-calibrate-hololens-2.md)]"

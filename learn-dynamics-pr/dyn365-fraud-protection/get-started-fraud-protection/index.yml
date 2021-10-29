@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-fraud-protection
+metadata:
+  title: بدء استخدام Dynamics 365 Fraud Protection
+  description: Dynamics 365 Fraud Protection هو حل يستند إلى السحابة وتم تصميمه للتجارة الالكترونية والمتاجر التقليدية والتجار الذين يملكون قناة متعددة الاتجاهات للمساعدة في حماية الإيرادات الخاصة بهم.
+  ms.date: 07/31/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.custom: intro-internal
+  ms.openlocfilehash: 2cb782645379949a3fe2318856d5366b25c2cc6d
+  ms.sourcegitcommit: 6402fa875c0008328cdc2ddd659a927dd0996f33
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/20/2021
+  ms.locfileid: "7582768"
+title: بدء استخدام Dynamics 365 Fraud Protection
+summary: "[!include[](../includes/module-banner.md)] \nإن Microsoft Dynamics 365 Fraud Protection عبارة عن حل قائم على السحابة مصمم للتجارة الإلكترونية والمتاجر التقليدية والتجار الذي يملكون قنوات متعددة الاتجاهات للمساعدة في حماية إيراداتهم وسمعتهم من خلال توفير الأدوات والقدرات لتقليل الاحتيال وإساءة الاستخدام وتقليل النفقات التشغيلية وزيادة معدلات القبول ، كل ذلك مع حماية حسابات المستخدمين من التعرض للاحتيال.   \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعلُّم أساسيات عمل‎ Dynamics 365 Fraud Protection.\n- اكتشف الإمكانيات الأساسية لـ Dynamics 365 Fraud Protection. \n"
+prerequisites: >
+  - الفهم العام لتقنية مكافحة الاحتيال
+iconUrl: /learn/achievements/get-started-fraud-protection.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+- solution-architect
+- administrator
+products:
+- dynamics-365
+- dynamics-fraud-protection
+- dynamics-commerce
+units:
+- learn-dynamics.get-started-fraud-protection.01-introduction
+- learn-dynamics.get-started-fraud-protection.02-purchase-protection
+- learn-dynamics.get-started-fraud-protection.03-account-protection
+- learn-dynamics.get-started-fraud-protection.04-loss-prevention
+- learn-dynamics.get-started-fraud-protection.05-check
+- learn-dynamics.get-started-fraud-protection.06-summary
+badge:
+  uid: learn-dynamics.get-started-fraud-protection.badge

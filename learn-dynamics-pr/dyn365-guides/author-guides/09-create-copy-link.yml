@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.author-guides.09-create-copy-link
+title: إنشاء ارتباط إلى دليل أو خطوة ونسخه
+metadata:
+  title: إنشاء ارتباط إلى دليل أو خطوة ونسخه
+  description: إنشاء ارتباط إلى دليل أو خطوة ونسخه في Dynamics 365 Guides
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 73cb0356d49f9eaf8220ebf43c8dd62762f758c2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587039"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-create-copy-link.md)]"

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.becoming-solution-architect.5-pillars
+title: ركائز البنية المميزة
+metadata:
+  title: ركائز البنية المميزة
+  description: تعرف على ركائز البنية المميزة.
+  ms.date: 1/10/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: b96b5e47736f387e6c743ed3f0c2b0f70235e203
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457559"
+durationInMinutes: 25
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-pillars.md)]"

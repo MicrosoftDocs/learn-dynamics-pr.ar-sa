@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+metadata:
+  title: إدارة الأذونات وإدارة Microsoft Dataverse
+  description: هل تحتاج لإدارة حقوق وصول المستخدم؟ في "مسار التعليم هذا، ستتعلم كيفية إدارة الأذونات المقترنة بالبيئات والكيانات.  ستتعرف أيضا على المداخل الإدارية المختلفة وكيفية الوصول إلى كل منها.
+  ms.date: 07/30/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: b0fe56b98bbc308a3138567461c403b7666e1fb7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457438"
+title: إدارة الأذونات وإدارة Dataverse
+summary: "[!include[](../../includes/lp-banner.md)]\n\nهل تحتاج لإدارة حقوق وصول المستخدم؟ في \"مسار التعليم هذا، ستتعلم كيفية إدارة الأذونات المقترنة بالبيئات والكيانات.  ستتعرف أيضا على المداخل الإدارية المختلفة وكيفية الوصول إلى كل منها.\n\nيمكن أن يساعد مسار التعليم هذا على إعدادك لـ [Microsoft Certified: Microsoft Power Platform شهادة إقران منشئ التطبيق](/learn/certifications/power-platform-app-maker). \n"
+prerequisites: >
+  - يتطلب العديد من القدرات والتدريبات ضمن المسار التعليمي أن تكون عضوًا في "دور المسؤول" في بيئة ما، "و" يجب أن يكون لديك ترخيص Power Apps صالح.  إذا لم تكن قد أضفت دور المسؤول أو لم يكن لديك ترخيص Power Apps معين عليك، فينبغي عليك إنشاء بيئة شخصية عن طريق الوصول إلى خطة Power Apps Communit وإعداد بيئة شخصية باتباع الإرشادات المُشار اليها في قسم الملخص للوحدة الأولى. ستسمح لك خطة المجتمع باستخدام بيئة واحدة (بيئة المطور لديك) وإنشاء مثيل Dataverse لها والوصول إلى كافة إمكانيات ترخيص Power Apps.  قم بالتسجيل في خطة Power Apps Communityالآن باستخدام الارتباط الموجود في القسم الملخص لهذه الوحدة إذا كنت ترغب في المتابعة مع الإرشادات الموضحة في مسار التعليم هذا. القيود - تتيح خطة Power Apps Communityتجربة جوانب Power Apps وDataverse ولكن لا يمكنك استخدامها لعمليات الإنتاج، ولا يمكنك نشر ومشاركة أي Power Apps أنشأته في هذه البيئة.
+iconUrl: /learn/achievements/manage-permissions-and-administration-for-common-data-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+modules:
+- learn-dynamics.get-started-security-roles
+- learn-dynamics.use-admin-options-cds
+trophy:
+  uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service.trophy

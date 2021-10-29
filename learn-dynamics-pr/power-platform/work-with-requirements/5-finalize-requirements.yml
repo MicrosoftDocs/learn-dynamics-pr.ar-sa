@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-requirements.5-finalize-requirements
+title: تأكيد المتطلبات وإنجازها
+metadata:
+  title: تأكيد المتطلبات وإنجازها
+  description: معرفة المزيد حول تأكيد المتطلبات وإنجازها.
+  ms.date: 2/7/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 0efcb4b058c9fe9d9b5ab5e6a8a14998f11a734b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457525"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-finalize-requirements.md)]"

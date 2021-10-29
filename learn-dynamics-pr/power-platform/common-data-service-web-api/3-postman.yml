@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-data-service-web-api.3-postman
+title: التفاعل مع Web API لـ Microsoft Dataverse باستخدام أداة Postman
+metadata:
+  title: التفاعل مع Web API لـ Dataverse باستخدام أداة Postman
+  description: تعرف على كيفية التفاعل مع واجهة API للويب Dataverse باستخدام أداة Postman.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: f9597f694fc23f5b311fd68f24ca5e4ad81ce9df
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457403"
+durationInMinutes: 30
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-postman.md)]"

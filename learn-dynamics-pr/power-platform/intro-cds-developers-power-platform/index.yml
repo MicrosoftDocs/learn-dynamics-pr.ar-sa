@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.intro-cds-developers-power-platform
+metadata:
+  title: مقدمة حول Microsoft Dataverse للمطورين
+  description: الهدف من هذه الوحدة النمطية هو تقديم نظرة عامة على حزم SDK في Microsoft Power Platform المتوفرة من Microsoft بواسطة NuGet.
+  ms.date: 07/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: a617a206b06113858fe724e1be64409d61c71c83
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457406"
+title: مقدمة حول Dataverse للمطورين
+summary: "[!include[](../includes/module-banner.md)]\n\nالهدف من هذه الوحدة النمطية هو تقديم نظرة عامة على حزم SDK في Microsoft Power Platform المتوفرة من Microsoft بواسطة NuGet. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اشرح الوظائف التي يمكن تنفيذها مقابل Microsoft Power Platform من خلال حزم SDK في Microsoft Power Platform. \n- تنفيذ عمليات أساسية مقابل Microsoft Power Platform مثل عمليات إنشاء/قراءه/تحديث. \n"
+prerequisites: >
+  - الفهم الأساسي لـ Microsoft Power Platform
+
+  - خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio
+
+  - تجربة في إدارة الحلول في Azure هي المفضلة
+iconUrl: /learn/achievements/intro-cds-developers-power-platform.svg
+levels:
+- intermediate
+roles:
+- developer
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- power-apps
+- common-data-service
+units:
+- learn-dynamics.intro-cds-developers-power-platform.1-intro
+- learn-dynamics.intro-cds-developers-power-platform.2-extensibility
+- learn-dynamics.intro-cds-developers-power-platform.3-framework
+- learn-dynamics.intro-cds-developers-power-platform.4-check
+- learn-dynamics.intro-cds-developers-power-platform.5-summary
+badge:
+  uid: learn-dynamics.intro-cds-developers-power-platform.badge

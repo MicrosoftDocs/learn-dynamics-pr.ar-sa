@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-sample-app-fraud-protection.06-user-registration-test-case
+title: حالة اختبار تسجيل المستخدم
+metadata:
+  title: حالة اختبار تسجيل المستخدم
+  description: تعرف على كيفية استخدام معلومات المستخدم الوهمية لإنشاء حساب مستخدم على نموذج التطبيق ومراقبة المعلومات التي يتم إرسالها واستلامها في Dynamics 365 Fraud Protection.
+  ms.date: 03/29/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ac9f7b7c6cd3298633b6b2d981e4cd5b0194c626
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582747"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-user-registration-test-case.md)]"

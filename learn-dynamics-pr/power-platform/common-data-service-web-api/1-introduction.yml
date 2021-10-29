@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-data-service-web-api.1-introduction
+title: مقدمة إلى واجهة API الويب لـ Microsoft Dataverse
+metadata:
+  title: مقدمة إلى واجهة API الويب لـ Dataverse
+  description: توفر هذه الوحدة النمطية نظرة عامة حول واجهة API الويب لـ Dataverse.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: cbb659121ed442f5d46319b37d7f950e17c609ff
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457380"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

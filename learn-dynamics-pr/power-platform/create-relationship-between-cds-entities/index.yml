@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.create-relationship-between-cds-entities
+metadata:
+  title: إنشاء علاقة بين الجداول في Microsoft Dataverse
+  description: هل تحتاج لإنشاء علاقات بين الجداول؟ ستظهر هذه الوحدة كيفية فصل البيانات في الجداول وسبب العلاقة بين الجداول لإنشاء حلول تجارية معقدة وفعالة. سيتم أيضًا شرح الأنواع المختلفة للعلاقات التي يمكنك تحديدها بين الجداول في Dataverse.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: d5778830cae0073d97978a906c205f25bd5db265
+  ms.sourcegitcommit: 4f805e42b6fd29603e89ddb0521c4a82e563d1c5
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7457620"
+title: إنشاء علاقة بين الجداول في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nهل تحتاج لإنشاء علاقات بين الجداول؟ ستظهر هذه الوحدة كيفية فصل البيانات في الجداول وسبب العلاقة بين الجداول لإنشاء حلول تجارية معقدة وفعالة. سيتم أيضًا شرح الأنواع المختلفة للعلاقات التي يمكنك تحديدها بين الجداول في Dataverse. \n"
+abstract: "ستتعرف في هذه الوحدة على: \n- لماذا يجب عليك تقسيم البيانات التي تستخدمها الحلول الخاصة بك إلى العديد من الجداول.\n- لماذا يجب عليك ربط أحد الجداول بجدول آخر.\n- كيفية بناء العلاقات بين الجداول.\n- كيفية تحديد نوع العلاقة الصحيح عند إنشاء حلول باستخدام Dataverse.\n"
+prerequisites: فهم المواضيع التي تمت تغطيتها في "الشروع في العمل باستخدام مسار Dataverse التعليمي.
+iconUrl: /learn/achievements/create-relationship-between-cds-entities.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+units:
+- learn-dynamics.create-relationship-between-cds-entities.1-relate
+- learn-dynamics.create-relationship-between-cds-entities.2-relationships
+- learn-dynamics.create-relationship-between-cds-entities.3-one-to-many
+- learn-dynamics.create-relationship-between-cds-entities.4-many-to-many
+- learn-dynamics.create-relationship-between-cds-entities.5-edit-delete
+- learn-dynamics.create-relationship-between-cds-entities.6-exercise
+- learn-dynamics.create-relationship-between-cds-entities.7-check
+- learn-dynamics.create-relationship-between-cds-entities.8-summary
+badge:
+  uid: learn-dynamics.create-relationship-between-cds-entities.badge

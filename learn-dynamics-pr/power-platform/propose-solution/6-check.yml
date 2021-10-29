@@ -1,0 +1,86 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.propose-solution.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 1/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: a08594c5dd2f7e510b8fac68756bf32c7928125b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457506"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: يمكن استخدام الإطارات السلكية للمساعدة في توضيح الحل المقترح لأي مكون؟
+    choices:
+    - content: ‏‫عمليات تكامل‬
+      isCorrect: false
+      explanation: يمكن استخدام الإطارات السلكية للمساعدة في توضيح الحل المقترح لتجربة المستخدم.
+    - content: نموذج البيانات
+      isCorrect: false
+      explanation: يمكن استخدام الإطارات السلكية للمساعدة في توضيح الحل المقترح لتجربة المستخدم.
+    - content: نموذج الأمان
+      isCorrect: false
+      explanation: يمكن استخدام الإطارات السلكية للمساعدة في توضيح الحل المقترح لتجربة المستخدم.
+    - content: تجربة المستخدم
+      isCorrect: true
+      explanation: يمكن استخدام الإطارات السلكية للمساعدة في توضيح الحل المقترح لتجربة المستخدم.
+  - content: يتعين على مهندس حلول تطبيقات الأعمال النظر في أي من الخيارات التالية أولاً لحل احتياجات المؤسسة؟
+    choices:
+    - content: تطبيقات الطرف الثالث AppSource
+      isCorrect: false
+      explanation: يتعين على مهندس حلول تطبيقات الأعمال أخد تطبيقات Dynamics 365 بعين الاعتبار أولاً لحل احتياجات المؤسسة.
+    - content: تخصيص التطبيقات باستخدام Xamarin
+      isCorrect: false
+      explanation: يتعين على مهندس حلول تطبيقات الأعمال أخد تطبيقات Dynamics 365 بعين الاعتبار أولاً لحل احتياجات المؤسسة.
+    - content: تخصيص التطبيقات باستخدام Power Apps
+      isCorrect: false
+      explanation: يتعين على مهندس حلول تطبيقات الأعمال أخد تطبيقات Dynamics 365 بعين الاعتبار أولاً لحل احتياجات المؤسسة.
+    - content: تطبيقات Dynamics 365
+      isCorrect: true
+      explanation: يتعين على مهندس حلول تطبيقات الأعمال أخد تطبيقات Dynamics 365 بعين الاعتبار أولاً لحل احتياجات المؤسسة.
+    - content: لا ينبغي قصر النظر على التطبيقات خلال فترة ما قبل البيع
+      isCorrect: false
+      explanation: يتعين على مهندس حلول تطبيقات الأعمال أخد تطبيقات Dynamics 365 بعين الاعتبار أولاً لحل احتياجات المؤسسة.
+  - content: كجزء من الحل، لقد اقترحت إضافة مكون لست واثقًا من أنه سيلبي احتياجات العميل. ما هي أفضل طريقة لتقليل المخاطر لهذا المكون المحدد؟
+    choices:
+    - content: لا تُبالي، يمكنك حل المخاطر بعد بدء المشروع وتوقيع العقد
+      isCorrect: false
+      explanation: أفضل طريقة لتقليل المخاطر هي عرض إثبات المفهوم.
+    - content: قم بعرض الجزء الذي يمكن للتطبيق الجاهز القيام به
+      isCorrect: false
+      explanation: أفضل طريقة لتقليل المخاطر هي عرض إثبات المفهوم.
+    - content: رفض الاحتياجات
+      isCorrect: false
+      explanation: أفضل طريقة لتقليل المخاطر هي عرض إثبات المفهوم.
+    - content: نموذج أولي
+      isCorrect: false
+      explanation: أفضل طريقة لتقليل المخاطر هي عرض إثبات المفهوم.
+    - content: إثبات صحة المفهوم
+      isCorrect: true
+      explanation: أفضل طريقة لتقليل المخاطر هي عرض إثبات المفهوم.
+  - content: عند اقتراح حل طرف ثالث كجزء من بنية الحل المقترحة، أي من الخيارات التالية ينبغي عليك التفكير فيها؟
+    choices:
+    - content: قابلية التوسع
+      isCorrect: false
+      explanation: عند اقتراح حل تابع لطرف ثالث كجزء من بنية الحل المقترحة، ينبغي أن تفكر في قابلية التوسع وقابلية (ISV) والترخيص وموقع البيانات.
+    - content: قابلية (ISV)
+      isCorrect: false
+      explanation: عند اقتراح حل تابع لطرف ثالث كجزء من بنية الحل المقترحة، ينبغي أن تفكر في قابلية التوسع وقابلية (ISV) والترخيص وموقع البيانات.
+    - content: الترخيص
+      isCorrect: false
+      explanation: عند اقتراح حل تابع لطرف ثالث كجزء من بنية الحل المقترحة، ينبغي أن تفكر في قابلية التوسع وقابلية (ISV) والترخيص وموقع البيانات.
+    - content: موقع البيانات
+      isCorrect: false
+      explanation: عند اقتراح حل تابع لطرف ثالث كجزء من بنية الحل المقترحة، ينبغي أن تفكر في قابلية التوسع وقابلية (ISV) والترخيص وموقع البيانات.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: عند اقتراح حل تابع لطرف ثالث كجزء من بنية الحل المقترحة، ينبغي أن تفكر في قابلية التوسع وقابلية (ISV) والترخيص وموقع البيانات.

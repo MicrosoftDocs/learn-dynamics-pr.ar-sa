@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.working-with-option-sets.2-standard
+title: عمود الاختيارات القياسية
+metadata:
+  title: عمود الاختيارات القياسية
+  description: تعرّف على أعمدة الاختيار القياسية في Microsoft Dataverse.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: c11bf2d83a3bfe530518bdeac71743fdbf69ad2a
+  ms.sourcegitcommit: e7404359ba7d666c707e678889b51f9cd0110c00
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2021
+  ms.locfileid: "7470396"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-standard.md)]

@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.automate-business-process-flow-client-script-power-platform.1-xrm-object
+title: مقدمة لإجراء عمليات عمومية باستخدام كائن API Xrm الخاص بالعميل
+metadata:
+  title: مقدمة لإجراء عمليات عمومية باستخدام كائن API Xrm الخاص بالعميل
+  description: تعرف على كيفية إجراء عمليات عمومية باستخدام كائن عميل API Xrm.
+  ms.date: 07/16/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 39525666f6affb9cd88e9645fdee6b2153a1b3e8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457568"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-xrm-object.md)]

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.author-guides.15-holograms-styles
+title: وضع الصور ثلاثية الأبعاد وإضافة الأنماط والمزيد
+metadata:
+  title: وضع الصور ثلاثية الأبعاد وإضافة الأنماط والمزيد
+  description: اعرف كيفية وضع الصور ثلاثية الأبعاد وإضافة الأنماط والمزيد في Dynamics 365 Guides
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 131c2036def616e873e07c87dbe2667d39c3894e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587057"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/15-holograms-styles.md)]"

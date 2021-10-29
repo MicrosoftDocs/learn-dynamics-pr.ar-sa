@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.provision-fraud-protection
+metadata:
+  title: توفير Dynamics 365 Fraud Protection
+  description: تعرف على كيفية توفير Dynamics 365 Fraud Protection.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2bdc9a6165d17142cbb5dfd467fdae97b69b52f0
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582763"
+title: توفير Dynamics 365 Fraud Protection
+summary: "[!include[](../includes/module-banner.md)] \nإن Microsoft Dynamics 365 Fraud Protection عبارة عن حل قائم على السحابة مصمم للتجارة الإلكترونية والمتاجر التقليدية والتجار متعدد القنوات للمساعدة في حماية إيراداتهم وسمعتهم من خلال توفير الأدوات والقدرات لتقليل الاحتيال وإساءة الاستخدام وتقليل النفقات التشغيلية وزيادة معدلات القبول، كل ذلك مع حماية حسابات المستخدمين من التعرض للاحتيال. عندما تقوم بإعداد مثيل Dynamics 365 Fraud Protection الخاص بك، سيتم تحديد بين أحد طريقتي التوفير.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر Microsoft Azure جديد.\n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر جديد.\n- تعرف على كيفية إعداد مثيل Dynamics 365 Fraud Protection تم شراؤه.\n- تعرف على كيفية تكوين وصول المستخدم.\n"
+prerequisites: >
+  - فهم أساسيات Dynamics 365 Fraud Protection
+
+  - الفهم العام لتقنية مكافحة الاحتيال
+iconUrl: /learn/achievements/provision-fraud-protection.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- dynamics-fraud-protection
+- dynamics-commerce
+units:
+- learn-dynamics.provision-fraud-protection.01-introduction
+- learn-dynamics.provision-fraud-protection.02-new-azure-tenant
+- learn-dynamics.provision-fraud-protection.03-existing-azure-tenant
+- learn-dynamics.provision-fraud-protection.04-provision-path
+- learn-dynamics.provision-fraud-protection.04-2-purchased-instance
+- learn-dynamics.provision-fraud-protection.05-configure-user-access
+- learn-dynamics.provision-fraud-protection.06-check
+- learn-dynamics.provision-fraud-protection.07-summary
+badge:
+  uid: learn-dynamics.provision-fraud-protection.badge

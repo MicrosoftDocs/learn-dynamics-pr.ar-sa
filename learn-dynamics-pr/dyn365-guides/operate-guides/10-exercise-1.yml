@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.operate-guides.10-exercise-1
+title: تمرين - ممارسة تشغيل دليل في HoloLens
+metadata:
+  title: تمرين - ممارسة تشغيل دليل في HoloLens
+  description: ممارسة تشغيل دليل في HoloLens، في Dynamics 365 Guides.
+  ms.date: 10/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c758d319c450e8f9dc52720a336fe14df4fb9c1d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587019"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-exercise-1.md)]"

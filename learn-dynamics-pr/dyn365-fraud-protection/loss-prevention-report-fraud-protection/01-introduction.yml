@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.loss-prevention-report-fraud-protection.01-introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة إلى إنشاء تقرير منع الفقدان في وحدة Dynamics 365 Fraud Protection
+  ms.date: 01/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1b93fbf775c402431f331cba525c7d9407727dbf
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582736"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

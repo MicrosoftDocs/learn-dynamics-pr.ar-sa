@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.author-guides.12-author-hololens-app
+title: تأليف دليل في تطبيق HoloLens
+metadata:
+  title: تأليف دليل في تطبيق HoloLens
+  description: التعرف على كيفية تأليف دليل في تطبيق HoloLens مع Dynamics 365 Guides
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ba1a2473c80e295cadbea7caf9e0f429acd81bed
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587062"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-author-hololens-app.md)]"

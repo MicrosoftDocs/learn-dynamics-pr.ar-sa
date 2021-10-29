@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-manage-environments.6-check
+metadata:
+  title: إنشاء البيئات وإدارتها في الفحص المعرفي لـ Microsoft Dataverse
+  description: أجب عن الأسئلة التالية لمعرفة ما تعلمته حول إنشاء البيئات وإدارتها في Dataverse.
+  ms.date: 06/30/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 86c2cc5c2f970ba1d6a6e215a3170eeafe1b3e60
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457427"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هو الذي يمكن أن يُستثنى من بيئة في Dataverse مما يلي؟
+    choices:
+    - content: تطبيقات Power Apps
+      isCorrect: false
+      explanation: يمكن أن تحتوي البيئة على تطبيقات وعمليات سير العمل وقاعدة بيانات Dataverse واحدة.
+    - content: عمليات سير العمل Power Automate
+      isCorrect: false
+      explanation: يمكن أن تحتوي البيئة على تطبيقات وعمليات سير العمل وقاعدة بيانات Dataverse واحدة.
+    - content: العديد من مثيلات قواعد بيانات Dataverse
+      isCorrect: true
+      explanation: يمكن أن تحتوي البيئة على تطبيقات وعمليات سير العمل وقاعدة بيانات Dataverse واحدة.
+    - content: قاعدة بيانات Dataverse واحدة
+      isCorrect: false
+      explanation: يمكن أن تحتوي البيئة على تطبيقات وعمليات سير العمل وقاعدة بيانات Dataverse واحدة.
+  - content: أي مما يلي لا تُستخدم فيه أدوار الأمان؟
+    choices:
+    - content: تقييد الوصول إلى البيانات
+      isCorrect: false
+      explanation: تُستخدم أدوار الأمان لتقييد الوصول إلى البيانات، وتقييد الوصول إلى بيئة، وتقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات.
+    - content: تقييد الوصول إلى بيئة
+      isCorrect: false
+      explanation: تُستخدم أدوار الأمان لتقييد الوصول إلى البيانات، وتقييد الوصول إلى بيئة، وتقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات.
+    - content: تقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات
+      isCorrect: false
+      explanation: تُستخدم أدوار الأمان لتقييد الوصول إلى البيانات، وتقييد الوصول إلى بيئة، وتقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات.
+    - content: تقييد الطباعة
+      isCorrect: true
+      explanation: تُستخدم أدوار الأمان لتقييد الوصول إلى البيانات، وتقييد الوصول إلى بيئة، وتقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات.
+  - content: أي مما يلي ليس نوعًا من أنواع أدوار الأمان؟
+    choices:
+    - content: المستخدم
+      isCorrect: false
+      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.
+    - content: دور الأمان العمومي
+      isCorrect: true
+      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.
+    - content: منشئ البيئة
+      isCorrect: false
+      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.
+    - content: التفويض
+      isCorrect: false
+      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.

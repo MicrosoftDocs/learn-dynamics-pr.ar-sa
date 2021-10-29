@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.fit-gap-analysis.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 2/7/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 7afce33e58a913f68cde53713897c9bfd295da27
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457552"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما المقصود بمسرع الصناعة؟
+    choices:
+    - content: مجموعة جاهزة للإنتاج من تعريفات الكيانات المستهدفة المتوفرة مجانًا من Microsoft
+      isCorrect: true
+      explanation: مسرّع الصناعة عبارة عن مجموعة جاهزة للإنتاج من تعريفات الكيانات المستهدفة المتوفرة مجانًا من Microsoft.
+    - content: أحد التطبيقات التي تم بيعها بواسطة طرف ثالث
+      isCorrect: false
+      explanation: مسرّع الصناعة عبارة عن مجموعة جاهزة للإنتاج من تعريفات الكيانات المستهدفة المتوفرة مجانًا من Microsoft.
+    - content: دليل للمستخدمين
+      isCorrect: false
+      explanation: مسرّع الصناعة عبارة عن مجموعة جاهزة للإنتاج من تعريفات الكيانات المستهدفة المتوفرة مجانًا من Microsoft.
+  - content: ما هو أفضل وقت لعمل إثبات المفهوم؟
+    choices:
+    - content: في أي وقت
+      isCorrect: true
+      explanation: أي وقت هو الوقت المناسب لإثبات المفهوم.
+    - content: فقط في مرحلة ما قبل البيع
+      isCorrect: false
+      explanation: أي وقت هو الوقت المناسب لإثبات المفهوم.
+    - content: فقط في مرحلة الاكتشاف
+      isCorrect: false
+      explanation: أي وقت هو الوقت المناسب لإثبات المفهوم.
+  - content: أي من الخيارات التالية يمكن أن يساعدك في تقييم المتطلبات في تحليل الفروق والملاءمة؟
+    choices:
+    - content: خطورة
+      isCorrect: false
+      explanation: يمكن أن تساعدك الخطورة والأولوية ومستوى الجهد في تقييم المتطلبات في تحليل الفروق والملائمة.
+    - content: الأولوية
+      isCorrect: false
+      explanation: يمكن أن تساعدك الخطورة والأولوية ومستوى الجهد في تقييم المتطلبات في تحليل الفروق والملائمة.
+    - content: مستوى الجهد
+      isCorrect: false
+      explanation: يمكن أن تساعدك الخطورة والأولوية ومستوى الجهد في تقييم المتطلبات في تحليل الفروق والملائمة.
+    - content: كل ما سبق
+      isCorrect: true
+      explanation: يمكن أن تساعدك الخطورة والأولوية ومستوى الجهد في تقييم المتطلبات في تحليل الفروق والملائمة.

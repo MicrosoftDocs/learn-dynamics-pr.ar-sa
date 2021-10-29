@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-guides.04-integration
+title: عمليات التكامل مع تطبيقات Dynamics 365 الأخرى
+metadata:
+  title: عمليات التكامل مع تطبيقات Dynamics 365 الأخرى
+  description: التعرف على عمليات التكامل مع تطبيقات Dynamics 365 الأخرى
+  ms.date: 09/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a162241726c800c4a6504876ea31c8a12f1d6fc1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587067"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-integration.md)]"

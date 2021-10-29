@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.intro-cds-developers-power-platform.4-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 07/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 58bdc10954ded24a07307bfca2a89b76196c695e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457601"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي مما يلي ليس تطبيقًا تابعًا للطرف الأول قامت Microsoft بإنشائه على Microsoft Dataverse؟
+    choices:
+    - content: Dynamics 365 for Sales
+      isCorrect: false
+      explanation: SharePoint ليس تطبيقًا تابعًا لطرف أول قامت Microsoft بإنشائه على Dataverse.
+    - content: Dynamics 365 for Talent
+      isCorrect: false
+      explanation: SharePoint ليس تطبيقًا تابعًا لطرف أول قامت Microsoft بإنشائه على Dataverse.
+    - content: SharePoint
+      isCorrect: true
+      explanation: SharePoint ليس تطبيقًا تابعًا لطرف أول قامت Microsoft بإنشائه على Dataverse.
+  - content: ماذا نسمي تجميعات .NET التي تعمل على أتمتة منطق الأعمال عبر التنفيذ من جانب الخادم؟
+    choices:
+    - content: الوظائف
+      isCorrect: false
+      explanation: المكونات الإضافية هي تجميعات .NET تعمل على أتمتة منطق الأعمال عبر التنفيذ من جانب الخادم.
+    - content: المكونات الإضافية
+      isCorrect: true
+      explanation: المكونات الإضافية هي تجميعات .NET تعمل على أتمتة منطق الأعمال عبر التنفيذ من جانب الخادم.
+    - content: وحدات PowerApp
+      isCorrect: false
+      explanation: المكونات الإضافية هي تجميعات .NET تعمل على أتمتة منطق الأعمال عبر التنفيذ من جانب الخادم.
+  - content: متى يكون من المناسب التعامل مع حدث PreValidation؟
+    choices:
+    - content: لتشغيل منطق التحقق المخصص وإلغاء العملية قبل حدوث الحركة.
+      isCorrect: true
+      explanation: قم بمعالجة حدث PreValidation لتشغيل منطق تحقق مخصص وإلغاء العملية قبل حدوث الحركة.
+    - content: لتشغيل منطق التحقق المخصص وإلغاء العملية بعد حدوث الحركة.
+      isCorrect: false
+      explanation: قم بمعالجة حدث PreValidation لتشغيل منطق تحقق مخصص وإلغاء العملية قبل حدوث الحركة.
+    - content: لتحديث قيم الكيان قبل حدوث عملية الحفظ.
+      isCorrect: false
+      explanation: قم بمعالجة حدث PreValidation لتشغيل منطق تحقق مخصص وإلغاء العملية قبل حدوث الحركة.

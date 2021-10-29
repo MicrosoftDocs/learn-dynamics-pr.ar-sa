@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.discover-customer-needs.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 1/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 3ff0c8146888cc013c8ecbebcf6468bc3fe028fa
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457479"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما أهم سؤال يمكنك طرحه على العميل أثناء عملية الاكتشاف؟
+    choices:
+    - content: ما الموازنة؟
+      isCorrect: false
+      explanation: أهم سؤال يمكنك طرحه على العميل أثناء عملية الاكتشاف هو "لماذا"؟
+    - content: متى؟
+      isCorrect: false
+      explanation: أهم سؤال يمكنك طرحه على العميل أثناء عملية الاكتشاف هو "لماذا"؟
+    - content: كيف؟
+      isCorrect: false
+      explanation: أهم سؤال يمكنك طرحه على العميل أثناء عملية الاكتشاف هو "لماذا"؟
+    - content: لماذا؟
+      isCorrect: true
+      explanation: أهم سؤال يمكنك طرحه على العميل أثناء عملية الاكتشاف هو "لماذا"؟
+  - content: في أي مرحلة من المشروع تتعرف على عميلك؟
+    choices:
+    - content: التحليل
+      isCorrect: false
+      explanation: يمكنك التعرف على عملائك في كل مرحلة من مراحل المشروع.
+    - content: التصميم
+      isCorrect: false
+      explanation: يمكنك التعرف على عملائك في كل مرحلة من مراحل المشروع.
+    - content: التنفيذ
+      isCorrect: false
+      explanation: يمكنك التعرف على عملائك في كل مرحلة من مراحل المشروع.
+    - content: ما قبل البيع
+      isCorrect: false
+      explanation: يمكنك التعرف على عملائك في كل مرحلة من مراحل المشروع.
+    - content: كل مرحلة
+      isCorrect: true
+      explanation: يمكنك التعرف على عملائك في كل مرحلة من مراحل المشروع.
+  - content: ما الفرق بين الهدف ونقطة الصعوبة؟
+    choices:
+    - content: إنها قابلة للتبديل.
+      isCorrect: false
+      explanation: الفرق بين الهدف ونقطة الألم هو أن الهدف يحدد النتائج المرجوة بينما تحدد نقاط الصعوبة المشكلات.
+    - content: تحدد نقاط الصعوبة النتائج المرجوة. تحدد الأهداف المشكلات.
+      isCorrect: false
+      explanation: الفرق بين الهدف ونقطة الألم هو أن الهدف يحدد النتائج المرجوة بينما تحدد نقاط الصعوبة المشكلات.
+    - content: وتحدد الأهداف النتائج المرغوبة. تحدد نقاط الصعوبة المشكلات.
+      isCorrect: true
+      explanation: الفرق بين الهدف ونقطة الألم هو أن الهدف يحدد النتائج المرجوة بينما تحدد نقاط الصعوبة المشكلات.

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-guides.02-roles
+title: الأدوار التي تستخدم Dynamics 365 Guides
+metadata:
+  title: الأدوار التي تستخدم Dynamics 365 Guides
+  description: التعرف على الأدوار المتنوعة التي تستخدم Dynamics 365 Guides
+  ms.date: 09/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 09895a25f497a3bacbd078cfdeab48570bb349f2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587092"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-roles.md)]"

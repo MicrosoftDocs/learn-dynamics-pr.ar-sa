@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-define-calculation-rollup-fields.6-exercise-2
+title: تمرين - إنشاء حقل حساب
+metadata:
+  title: تمرين - إنشاء حقل حساب
+  description: إرشادات خطوه بخطوه حول كيفية إنشاء حقل حساب في Microsoft Dataverse.
+  ms.date: 07/26/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d75ac8e78c9bf3a0eb01ccaf1efa5d2c9f5a5b89
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457452"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-exercise-2.md)]

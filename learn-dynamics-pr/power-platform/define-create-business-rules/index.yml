@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.define-create-business-rules
+metadata:
+  title: تعريف قواعد الأعمال وإنشاؤها في Microsoft Dataverse
+  description: القدرة على إنشاء قواعد الأعمال التي تضمن منطق الاعمال المتناسق بغض النظر عن التطبيق الذي يصل إلى مجموعة البيانات تُعد إلزامية لتنفيذ عملية تجارية ناجحة. ستوضح لك هذه الوحدة كيفية إنشاء قواعد الأعمال التي يتم تشغيلها في أي وقت يتم فيه استخدامها في Dataverse.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: deec8f3f793bef56b13072311f90449699c11a7b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457590"
+title: تعريف قواعد الأعمال وإنشاؤها في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nالقدرة على إنشاء قواعد الأعمال التي تضمن منطق الاعمال المتناسق بغض النظر عن التطبيق الذي يصل إلى مجموعة البيانات تُعد إلزامية لتنفيذ عملية تجارية ناجحة. ستوضح لك هذه الوحدة كيفية إنشاء قواعد الأعمال التي يتم تشغيلها في أي وقت يتم فيه استخدامها في Dataverse. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تعريف قواعد العمل في Dataverse.\n- إنشاء قواعد الأعمال وإدارتها في Dataverse\n"
+prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج
+iconUrl: /learn/achievements/define-create-business-rules.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+- common-data-service
+- power-apps
+units:
+- learn-dynamics.define-create-business-rules.1-rules
+- learn-dynamics.define-create-business-rules.2-components
+- learn-dynamics.define-create-business-rules.3-create
+- learn-dynamics.define-create-business-rules.4-exercise
+- learn-dynamics.define-create-business-rules.5-check
+- learn-dynamics.define-create-business-rules.6-summary
+badge:
+  uid: learn-dynamics.define-create-business-rules.badge

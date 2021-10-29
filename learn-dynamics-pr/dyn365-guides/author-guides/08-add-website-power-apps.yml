@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.author-guides.08-add-website-power-apps
+title: إضافة موقع ويب أو ارتباط Power Apps بخطوة
+metadata:
+  title: إضافة موقع ويب أو ارتباط Power Apps بخطوة
+  description: إضافة موقع ويب أو ارتباط Power Apps بخطوة في Dynamics 365 Guides
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c37fa069a0f777cc3fb9155824adfcfe78b4aad2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587052"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-add-website-power-apps.md)]"

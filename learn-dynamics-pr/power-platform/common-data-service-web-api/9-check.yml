@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-data-service-web-api.9-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: c6f2bcefc19d7f281c74c5e1b620ab9a9f48bf93
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457453"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هو بروتوكول Web API الأساسي لـ Microsoft Dataverse؟
+    choices:
+    - content: SOAP
+      isCorrect: false
+      explanation: بروتوكول Web API الأساسي لـ Dataverse هو OData.
+    - content: OData
+      isCorrect: true
+      explanation: بروتوكول Web API الأساسي لـ Dataverse هو OData.
+    - content: XML
+      isCorrect: false
+      explanation: بروتوكول Web API الأساسي لـ Dataverse هو OData.
+  - content: ماذا تسمى لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse؟
+    choices:
+    - content: FetchXML
+      isCorrect: true
+      explanation: لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse هي FetchXML.
+    - content: XAML
+      isCorrect: false
+      explanation: لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse هي FetchXML.
+    - content: QueryExpression
+      isCorrect: false
+      explanation: لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse هي FetchXML.
+  - content: ما الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل كيان ما؟
+    choices:
+    - content: الفرق
+      isCorrect: false
+      explanation: Delta هو الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل كيان ما.
+    - content: الانحراف
+      isCorrect: false
+      explanation: Delta هو الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل كيان ما.
+    - content: Delta
+      isCorrect: true
+      explanation: Delta هو الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل كيان ما.

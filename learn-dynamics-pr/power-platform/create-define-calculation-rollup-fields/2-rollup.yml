@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-define-calculation-rollup-fields.2-rollup
+title: إنشاء عمود القيمة المحتسبة
+metadata:
+  title: إنشاء عمود القيمة المحتسبة
+  description: تعرّف على كيفية إنشاء عمود القيمة المحتسبة في Microsoft Dataverse.
+  ms.date: 07/26/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4e88db4123117556e8e2fddd5f6d7c394f427fbc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457390"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-rollup.md)]

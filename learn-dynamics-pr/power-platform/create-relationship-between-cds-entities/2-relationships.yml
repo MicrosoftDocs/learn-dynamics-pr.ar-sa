@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-relationship-between-cds-entities.2-relationships
+title: أنواع العلاقات المتوفرة في Microsoft Dataverse
+metadata:
+  title: أنواع العلاقات المتوفرة في Dataverse
+  description: تعرّف على كيفية تحديد أنواع العلاقات المتوفرة في Dataverse وتعريفها.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 99fc91ea030d9e41b8adda336a971f3a04009f4b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457481"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-relationships.md)]

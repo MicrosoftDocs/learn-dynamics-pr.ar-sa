@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.device-fingerprint-fraud-protection
+metadata:
+  title: تنفيذ بصمات الجهاز Dynamics 365 Fraud Protection
+  description: إن بصمة الجهاز أو بصمات الآلة أو بصمات المستعرض هي المعلومات التي يتم جمعها فيما يتعلق بجهاز الكمبيوتر عن بُعد للتعريف. تجمع بصمات الأجهزة بيانات تتبع الاستخدام الهامة للجهاز أثناء إجراءات فورية حرجه لتقييم حركات التجارة الإلكترونية.
+  ms.date: 04/06/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e42d6e7886a41d7621d97932ab9ca396833c1774
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582739"
+title: تنفيذ بصمات الجهاز Dynamics 365 Fraud Protection
+summary: "[!include[](../includes/module-banner.md)] \nإن بصمة الجهاز أو بصمات الآلة أو بصمات المستعرض هي المعلومات التي يتم جمعها فيما يتعلق بجهاز الكمبيوتر عن بُعد للتعريف. تجمع بصمات الأجهزة بيانات تتبع الاستخدام الهامة للجهاز أثناء إجراءات فورية حرجه لتقييم حركات التجارة الإلكترونية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ بصمات الجهاز المباشر لدعم حماية الحساب لـ Dynamics 365 Fraud Protection.\n- تنفيذ بصمات الجهاز المباشر لدعم شراء \"حماية الحساب\" لـ Dynamics 365 Fraud Protection.\n"
+prerequisites: >
+  - المعرفة الصناعية لمكافحة الاحتيال
+
+  - المعرفة الأساسية بـ Microsoft Dynamics 365 Fraud Protection
+
+  - نظام Dynamics 365 Fraud Protection متوفر
+
+  - تم تثبيت تطبيق التاجر النموذجي
+iconUrl: /learn/achievements/device-fingerprint-fraud-protection.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-fraud-protection
+- dynamics-commerce
+units:
+- learn-dynamics.device-fingerprint-fraud-protection.01-introduction
+- learn-dynamics.device-fingerprint-fraud-protection.02-how-device-fingerprint-works
+- learn-dynamics.device-fingerprint-fraud-protection.03-implement
+- learn-dynamics.device-fingerprint-fraud-protection.04-exercise
+- learn-dynamics.device-fingerprint-fraud-protection.05-check
+- learn-dynamics.device-fingerprint-fraud-protection.06-summary
+badge:
+  uid: learn-dynamics.device-fingerprint-fraud-protection.badge

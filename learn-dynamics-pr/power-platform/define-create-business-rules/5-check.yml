@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.define-create-business-rules.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 3d3083085d3e2252f00b26e0a217d05bd33510e2
+  ms.sourcegitcommit: 89d086be94f2d84b3c7ca989ee06149f0833005e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/20/2021
+  ms.locfileid: "7457611"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من العبارات التالية صحيح فيما يتعلق بقواعد العمل؟
+    choices:
+    - content: يمكن إنشاء قواعد العمل لفرض قيم المنطق والبيانات بغض النظر عن كيفية إدخال البيانات في كيان Microsoft Dataverse.
+      isCorrect: true
+      explanation: يمكن إنشاء قواعد العمل لفرض قيم المنطق والبيانات بغض النظر عن كيفية إدخال البيانات في كيان Dataverse.
+    - content: لا يمكن إنشاء قواعد العمل لفرض قيم البيانات والمنطق بغض النظر عن كيفية إدخال البيانات في كيان Dataverse.
+      isCorrect: false
+      explanation: يمكن إنشاء قواعد العمل لفرض قيم المنطق والبيانات بغض النظر عن كيفية إدخال البيانات في كيان Dataverse.
+    - content: لا يتم تطبيق قواعد العمل عند حفظ أحد السجلات.
+      isCorrect: false
+      explanation: يمكن إنشاء قواعد العمل لفرض قيم المنطق والبيانات بغض النظر عن كيفية إدخال البيانات في كيان Dataverse.
+    - content: لا يتم تطبيق قواعد العمل عند تحرير أحد السجلات.
+      isCorrect: false
+      explanation: يمكن إنشاء قواعد العمل لفرض قيم المنطق والبيانات بغض النظر عن كيفية إدخال البيانات في كيان Dataverse.
+  - content: لأيّ من قواعد العمل ثلاثة مكونات؟
+    choices:
+    - content: الجدول والإجراء والنطاق.
+      isCorrect: false
+      explanation: لقواعد العمل الشروط والإجراءات والنطاق.
+    - content: الاختيار والجدول والإجراء.
+      isCorrect: false
+      explanation: لقواعد العمل الشروط والإجراءات والنطاق.
+    - content: الشرط والإجراء والنطاق.
+      isCorrect: true
+      explanation: لقواعد العمل الشروط والإجراءات والنطاق.
+  - content: ما العبارة غير الصحيحة فيما يتعلق بقواعد العمل لكيان ما؟
+    choices:
+    - content: عندما تستخدم الكيان مع تطبيق اللوحة، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.
+      isCorrect: false
+      explanation: عندما تستخدم الكيان مع تطبيق اللوحة والتطبيقات المستندة إلى النموذج وExcel، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.
+    - content: عندما تستخدم الكيان مع تطبيق اللوحة، لا تنطبق قواعد العمل التي تم تحديدها لكيان ما.
+      isCorrect: true
+      explanation: عندما تستخدم الكيان مع تطبيق اللوحة والتطبيقات المستندة إلى النموذج وExcel، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.
+    - content: عندما تستخدم الكيان مع تطبيق مستند إلى النموذج، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.
+      isCorrect: false
+      explanation: عندما تستخدم الكيان مع تطبيق اللوحة والتطبيقات المستندة إلى النموذج وExcel، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.
+    - content: عندما تستخدم الكيان مع Excel، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.
+      isCorrect: false
+      explanation: عندما تستخدم الكيان مع تطبيق اللوحة والتطبيقات المستندة إلى النموذج وExcel، يتم تطبيق قواعد العمل التي تم تحديدها لكيان ما.

@@ -1,0 +1,45 @@
+### YamlMime:LearningPath
+uid: learn.wwl.introduction-configuration-dynamics-365-model-driven-apps
+metadata:
+  title: 'مقدمة في التكوين في التطبيقات المستندة إلى نموذج Dynamics 365 '
+  description: مقدمة في التكوين في التطبيقات المستندة إلى نموذج Dynamics 365
+  ms.date: 03/13/2020
+  author: wwlpublish
+  ms.author: anjenni
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: dc89c6c241074c384dabe9a378c94dc3c551b95b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457367"
+title: مقدمة في التكوين في التطبيقات المستندة إلى نموذج Dynamics 365
+prerequisites: >
+  - القواعد الأساسية لـ 365 Microsoft Dynamics
+
+  - القواعد الأساسية لـ Microsoft Power Platform
+summary: >
+  إحدى الميزات الأساسية التي تجعل تطبيقات Dynamics 365 المستندة إلى النموذج هي قدرتها على التوسيع والتخصيص بدون تعليمات برمجية. في مسار التعليم هذا، سنقوم باستكشاف قدرات تكوين Microsoft Power Platformوكيفية الاستفادة منها للتطبيق المستند إلى النموذج.
+iconUrl: /learn/achievements/introduction-configuration-d365-model-driven-apps.svg
+levels:
+- beginner
+roles:
+- administrator
+- business-analyst
+- business-user
+- developer
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-marketing
+- dynamics-sales
+- power-platform
+modules:
+- learn.wwl.get-started-configuration-dynamics-365
+- learn.wwl.configure-data-dynamics-365-model-driven-apps
+- learn.wwl.manage-dynamics-365-model-driven-app-settings-security
+trophy:
+  uid: learn.wwl.introduction-configuration-dynamics-365-model-driven-apps.trophy

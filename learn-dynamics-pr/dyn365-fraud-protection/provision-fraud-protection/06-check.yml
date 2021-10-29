@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.06-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7ba55b1b07c436de9409b28e2006d31d79f46e90
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582759"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هو أفضل نهج للمستأجر يمكنك استخدامه عند توفير مثيل تجريبي لـ Dynamics 365 Fraud Protection؟
+    choices:
+    - content: توفير مستأجر Azure جديد.
+      isCorrect: false
+      explanation: يجب عليك تحديد نهج المستأجر الذي ستستخدمه إذا كان المنتج قيد الإنتاج.
+    - content: استخدام مستأجر Azure موجود.
+      isCorrect: false
+      explanation: يجب عليك تحديد نهج المستأجر الذي ستستخدمه إذا كان المنتج قيد الإنتاج.
+    - content: حدد نهج المستأجر الذي ستستخدمه إذا كان المنتج قيد الإنتاج.
+      isCorrect: true
+      explanation: من الصحيح أنه يجب عليك تحديد نهج المستأجر الذي ستستخدمه إذا كان المنتج قيد الإنتاج.
+  - content: للتسجيل مع مستأجر Azure موجود، ما نوع مستوى الإذن الذي يحتاجه حساب المستخدم الخاص بك في المستأجر؟
+    choices:
+    - content: المستخدم
+      isCorrect: false
+      explanation: للتسجيل مع مستأجر Azure موجود، يجب أن يكون لديك نوع مستوى إذن المسؤول العام في حساب المستخدم الخاص بك في المستأجر.
+    - content: مسؤول  العمومي
+      isCorrect: true
+      explanation: للتسجيل مع مستأجر Azure موجود، يجب أن يكون لديك نوع مستوى إذن المسؤول العام في حساب المستخدم الخاص بك في المستأجر.
+    - content: مسؤول محدود
+      isCorrect: false
+      explanation: للتسجيل مع مستأجر Azure موجود، يجب أن يكون لديك نوع مستوى إذن المسؤول العام في حساب المستخدم الخاص بك في المستأجر.
+  - content: ما نوع الحساب الذي يمكن استخدامه لإضافة مستخدمين في Dynamics 365 Fraud Protection؟
+    choices:
+    - content: AllAreas_Admin
+      isCorrect: true
+      explanation: يمكنك استخدام حساب AllAreas_Admin لإضافة مستخدمين في Dynamics 365 Fraud Protection.
+    - content: FraudAnalyst
+      isCorrect: false
+      explanation: يمكنك استخدام حساب AllAreas_Admin لإضافة مستخدمين في Dynamics 365 Fraud Protection.
+    - content: SupportAgent
+      isCorrect: false
+      explanation: يمكنك استخدام حساب AllAreas_Admin لإضافة مستخدمين في Dynamics 365 Fraud Protection.

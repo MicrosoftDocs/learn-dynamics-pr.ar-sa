@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.common-actions-client-script-power-platform
+metadata:
+  title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل
+  description: إن الهدف من هذه الوحدة هو مراجعة كيفية تحقيق إجراءات التنفيذ التلقائي لخبرة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة إلى العمل كدليل عمليات لكيفية حل السيناريوهات الواقعية التي تُواجه بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.
+  ms.date: 07/15/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 3869b43f57099247a168bb738f1c25e5ac306b16
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457558"
+title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل
+summary: "[!include[](../includes/module-banner.md)]\n\nإن الهدف من هذه الوحدة هو مراجعة كيفية تحقيق إجراءات التنفيذ التلقائي لخبرة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة إلى العمل كدليل عمليات لكيفية حل السيناريوهات الواقعية التي تُواجه بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتب البرنامج النصي للعميل لتنفيذ الإجراءات الشائعة كما هو موضح في فصول الوحدة. \n"
+prerequisites: "-  الفهم الأساسي لـ Microsoft Power Platform خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio \n-  تجربة في إدارة الحلول في Microsoft Azure هي المفضلة.Â Â \n"
+iconUrl: /learn/achievements/common-actions-client-script-power-platform.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+- dynamics-365
+- power-platform
+- power-apps
+- common-data-service
+units:
+- learn-dynamics.common-actions-client-script-power-platform.1-intro
+- learn-dynamics.common-actions-client-script-power-platform.2-events
+- learn-dynamics.common-actions-client-script-power-platform.3-user-interface
+- learn-dynamics.common-actions-client-script-power-platform.4-exercise
+- learn-dynamics.common-actions-client-script-power-platform.5-check
+- learn-dynamics.common-actions-client-script-power-platform.6-summary
+badge:
+  uid: learn-dynamics.common-actions-client-script-power-platform.badge

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.fit-gap-analysis.1-introduction
+title: مقدمة إلى تحليل الفروق والتوافق
+metadata:
+  title: مقدمة إلى تحليل الفروق والتوافق
+  description: تعرّف على تحليل الفروق والتوافق.
+  ms.date: 2/7/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 5745230f9a82011d35c9edd5dc49fd3f4c1ad609
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457371"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

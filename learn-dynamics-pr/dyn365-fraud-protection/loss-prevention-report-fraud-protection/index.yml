@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-dynamics.loss-prevention-report-fraud-protection
+metadata:
+  title: إنشاء تقرير بتفادي الخسائر في Dynamics 365 Fraud Protection
+  description: التعرف على كيفية إنشاء تقرير تفادي الخسائر في Dynamics 365 Fraud Protection Microsoft.
+  ms.date: 01/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1880c21ba217d99e87944f7df910cb3cbeb3c7fc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582744"
+title: إنشاء تقرير بتفادي الخسائر في Dynamics 365 Fraud Protection
+summary: "[!include[](../includes/module-banner.md)] \nالمكون الإضافي لتفادي الخسائر من Dynamics 365 Fraud Protection Microsoft هو حل قائم على السحابة مصمم لتقليل تكاليف الاحتيال في المتجر وتحسين الكفاءات التشغيلية والإيرادات. باستخدام قوة الذكاء الاصطناعي، يحدد تفادي الخسارة الانحرافات والأنماط التي قد تشير إلى الاحتيال في المتجر.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحميل البيانات إلى تقرير تفادي الخسائر لـ Dynamics 365 Fraud Protection.\n- قراءة تقرير تفادي الخسارة.\n- مراجعة تقارير تفادي الخسائر باستخدام البيانات الخاصة بك. \n"
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Fraud Protection
+
+  - مثيل Dynamics 365 Fraud Protection متوفر
+iconUrl: /learn/achievements/loss-prevention-report-fraud-protection.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-fraud-protection
+- dynamics-commerce
+units:
+- learn-dynamics.loss-prevention-report-fraud-protection.01-introduction
+- learn-dynamics.loss-prevention-report-fraud-protection.02-load-data
+- learn-dynamics.loss-prevention-report-fraud-protection.03-connect-data-commerce
+- learn-dynamics.loss-prevention-report-fraud-protection.04-disconnect-reconnect-data
+- learn-dynamics.loss-prevention-report-fraud-protection.05-exercise
+- learn-dynamics.loss-prevention-report-fraud-protection.06-analyze-report
+- learn-dynamics.loss-prevention-report-fraud-protection.07-check
+- learn-dynamics.loss-prevention-report-fraud-protection.08-summary
+badge:
+  uid: learn-dynamics.loss-prevention-report-fraud-protection.badge

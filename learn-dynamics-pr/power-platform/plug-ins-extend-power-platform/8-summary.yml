@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.plug-ins-extend-power-platform.8-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: راجع ما تعلمته عن توسيع المكونات الإضافية في Microsoft Power Platform.
+  ms.date: 07/17/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2c3f607c4872e955aaeaa1871714435e9c822eb1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457582"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-summary.md)]

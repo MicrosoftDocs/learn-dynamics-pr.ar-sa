@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.discover-customer-needs
+metadata:
+  title: اكتشف احتياجات العميل كمهندس حلول لـ Dynamics 365 وMicrosoft Power Platform
+  description: التعرف على كيفية طرح أسئلة على العملاء حول عمليات الأعمال والميزات المطلوبة الخاصة بهم لإنشاء حل قابل للتطبيق.
+  ms.date: 1/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 92640c3cfd0ab3202aa6dc6f63a6b394ecbd0ec9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457496"
+title: اكتشف احتياجات العميل كمهندس حلول لـ Dynamics 365 وMicrosoft Power Platform
+summary: "[!include[](../includes/module-banner.md)] \n\nالتعرف على كيفية طرح أسئلة على العملاء حول عمليات الأعمال والميزات المطلوبة الخاصة بهم لإنشاء حل قابل للتطبيق.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية اكتشاف العميل الأولي.\n- اكتشف استراتيجيات التواصل مع العملاء.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/discover-customer-needs.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.discover-customer-needs.1-introduction
+- learn-dynamics.discover-customer-needs.2-discovery
+- learn-dynamics.discover-customer-needs.3-meetings
+- learn-dynamics.discover-customer-needs.4-communication
+- learn-dynamics.discover-customer-needs.5-check
+- learn-dynamics.discover-customer-needs.6-summary
+badge:
+  uid: learn-dynamics.discover-customer-needs.badge

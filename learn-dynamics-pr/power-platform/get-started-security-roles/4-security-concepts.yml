@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-security-roles.4-security-concepts
+title: فهم مفاهيم الأمان في Dataverse
+metadata:
+  title: فهم مفاهيم الأمان في Dataverse
+  description: تعرف على مفاهيم الأمان في Dataverse.
+  ms.date: 09/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 59d7b9ad266122569ddb049958a37f0b7e6b6470
+  ms.sourcegitcommit: 35d50364afa9a537b510a1a960faba6ea3af60da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2021
+  ms.locfileid: "7467704"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-security-concepts.md)]

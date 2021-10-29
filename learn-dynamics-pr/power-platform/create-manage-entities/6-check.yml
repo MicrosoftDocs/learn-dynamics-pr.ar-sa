@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-manage-entities.6-check
+metadata:
+  title: إنشاء اختبار معلومات الجداول وإدارتها
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 06/27/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 11a17a86fa4b2f406257ff58c5b9b6f86cf4aeb5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457572"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما هو نوع الجدول الذي لا يُعد جزءًا من Dataverse؟
+    choices:
+    - content: القياسية
+      isCorrect: false
+      explanation: تُعد الجداول القياسية والمعقدة والمقيدة هي كافة أنواع الجداول في Dataverse.
+    - content: ‏‏المعقدة
+      isCorrect: false
+      explanation: تُعد الجداول القياسية والمعقدة والمقيدة هي كافة أنواع الجداول في Dataverse.
+    - content: المفتوحة
+      isCorrect: true
+      explanation: تُعد الجداول القياسية والمعقدة والمقيدة هي كافة أنواع الجداول في Dataverse.
+    - content: المقيدة
+      isCorrect: false
+      explanation: تُعد الجداول القياسية والمعقدة والمقيدة هي كافة أنواع الجداول في Dataverse.
+  - content: أي من العبارات التالية غير صحيحة فيما يتعلق بالجداول المقيدة؟
+    choices:
+    - content: يمكن للعملاء إضافة جداول مقيدة إلى Dataverse.
+      isCorrect: true
+      explanation: لا يمكن للعملاء إضافة جداول مقيدة إلى Dataverse، لذلك هذا خطأ بالفعل.
+    - content: تُخزن الجداول المقيدة بيانات التكوين الخاصة بالمنتج وتحافظ عليها لمنتجات Dynamics 365 التي لا تُستخدم عادةً خارج تطبيق Dynamics.
+      isCorrect: false
+      explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
+    - content: يكون الجدول المقيد مصحوبًا بمنطق متقدم يقوم بإنشاء البيانات والحفاظ عليها بطريقة معينة عند استخدامها في منتج Dynamics 365.
+      isCorrect: false
+      explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
+    - content: تتطلب الجداول المقيدة ترخيص منتج Dynamics 365 معين أو خطة Dynamics 365.
+      isCorrect: false
+      explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
+  - content: باستخدام ترخيص P2 في Dataverse، يمكنك استخدام أي جدول والوصول إليه باستثناء أي جدول مما يلي؟
+    choices:
+    - content: الجداول القياسية
+      isCorrect: false
+      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+    - content: الجداول المقيدة
+      isCorrect: true
+      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+    - content: بعض الجداول التي تحتوي على منطق معقد
+      isCorrect: false
+      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+    - content: جداول مخصصة
+      isCorrect: false
+      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.

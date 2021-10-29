@@ -1,0 +1,77 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.component-framework-advanced-topics.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 3/3/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: f55cb99b018e82a87d56172700fe5fd7d832bcba
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457498"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما خيار المترجم المطلوب لإرشاد تطبيقك لاستخدام React؟
+    choices:
+    - content: tsx
+      isCorrect: false
+      explanation: خيار مترجم jsx مطلوب لإرشاد تطبيقك لاستخدام React.
+    - content: jsx
+      isCorrect: true
+      explanation: خيار مترجم jsx مطلوب لإرشاد تطبيقك لاستخدام React.
+    - content: use-react
+      isCorrect: false
+      explanation: خيار مترجم jsx مطلوب لإرشاد تطبيقك لاستخدام React.
+    - content: react
+      isCorrect: false
+      explanation: خيار مترجم jsx مطلوب لإرشاد تطبيقك لاستخدام React.
+  - content: ما الأسلوب الذي ستستخدمه لتنسيق سلسلة في لغة معينة؟
+    choices:
+    - content: formatLocale
+      isCorrect: false
+      explanation: formatLanguage هو الأسلوب الذي قد تستخدمه لتنسيق سلسلة بلغة معينة.
+    - content: globalization.Localize
+      isCorrect: false
+      explanation: formatLanguage هو الأسلوب الذي قد تستخدمه لتنسيق سلسلة بلغة معينة.
+    - content: formatLanguage
+      isCorrect: true
+      explanation: formatLanguage هو الأسلوب الذي قد تستخدمه لتنسيق سلسلة بلغة معينة.
+    - content: setLanguage
+      isCorrect: false
+      explanation: formatLanguage هو الأسلوب الذي قد تستخدمه لتنسيق سلسلة بلغة معينة.
+  - content: ما عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم؟
+    choices:
+    - content: يستخدم name="WebAPI" required="true"
+      isCorrect: false
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+    - content: uses-feature name="CommonDataServiceAPI" required="true"
+      isCorrect: false
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+    - content: uses-feature name="WebAPI" required="true"
+      isCorrect: true
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+    - content: uses name="CommonDataServiceAPI" required="true"
+      isCorrect: false
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+  - content: ما اسم واجهة برمجة التطبيقات التي يمكنك استخدامها لتراكب نافذة منبثقة بداخل "مكوّن Power Apps"؟
+    choices:
+    - content: ComponentFramework.Popup.Popup
+      isCorrect: false
+      explanation: ComponentFramework.FactoryApi.Popup.Popup هو اسم واجهة برمجة التطبيقات التي يمكنك استخدامها لتراكب نافذة منبثقة بداخل "مكوّن Power Apps".
+    - content: ComponentFramework.FactoryApi.PopupComponent
+      isCorrect: false
+      explanation: ComponentFramework.FactoryApi.Popup.Popup هو اسم واجهة برمجة التطبيقات التي يمكنك استخدامها لتراكب نافذة منبثقة بداخل "مكوّن Power Apps".
+    - content: PowerAppComponent.FactoryApi.Popup.Popup
+      isCorrect: false
+      explanation: ComponentFramework.FactoryApi.Popup.Popup هو اسم واجهة برمجة التطبيقات التي يمكنك استخدامها لتراكب نافذة منبثقة بداخل "مكوّن Power Apps".
+    - content: ComponentFramework.FactoryApi.Popup.Popup
+      isCorrect: true
+      explanation: ComponentFramework.FactoryApi.Popup.Popup هو اسم واجهة برمجة التطبيقات التي يمكنك استخدامها لتراكب نافذة منبثقة بداخل "مكوّن Power Apps".

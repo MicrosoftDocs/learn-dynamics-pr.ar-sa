@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-security-roles.1-intro
+title: مقدمة إلى أدوار البيئة
+metadata:
+  title: مقدمة إلى أدوار البيئة
+  description: تعرف على المعلومات الأساسية حول أدوار البيئة في Microsoft Dataverse.
+  ms.date: 09/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 479f86fc43456a93db7a0f4b0b92f5441a1a572c
+  ms.sourcegitcommit: 35d50364afa9a537b510a1a960faba6ea3af60da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2021
+  ms.locfileid: "7467871"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-intro.md)]

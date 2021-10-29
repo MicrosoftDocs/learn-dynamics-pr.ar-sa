@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.introduction-development
+metadata:
+  title: مقدمة حول التطوير باستخدام Microsoft Power Platform
+  description: ولذلك، فإنك تريد أن تكون مطورًا لـ Microsoft Power Platform! يعد هذا المسار التعليمي هو الخطوة الأولى في التعرف على الأنظمة الأساسية والأدوات والنظام البيئي الخاص بـ Microsoft Power Platform.
+  ms.date: 06/30/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: ac6a2ed959f12c98d101603659c129ee53ef0499
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457464"
+title: مقدمة حول التطوير باستخدام Microsoft Power Platform
+summary: "[!include[](../../includes/lp-banner.md)]\n\nولذلك، فإنك تريد أن تكون مطورًا لـ Microsoft Power Platform! يعد هذا المسار التعليمي هو الخطوة الأولى في التعرف على الأنظمة الأساسية والأدوات والنظام البيئي لـ Microsoft Power Platform. \n"
+prerequisites: >
+  - الفهم الأساسي لـ Microsoft Power Platform.
+
+  - خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio.
+
+  - تجربة في إدارة الحلول في Azure هي المفضلة.
+iconUrl: /learn/achievements/introduction-to-developing-with-power-platform.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+- power-apps
+modules:
+- learn-dynamics.introduction-developing-power-platform
+- learn-dynamics.use-developer-tools-extend
+- learn-dynamics.introduction-power-platform-extensibility-model
+trophy:
+  uid: learn-dynamics.introduction-to-developing-with-power-platform.trophy

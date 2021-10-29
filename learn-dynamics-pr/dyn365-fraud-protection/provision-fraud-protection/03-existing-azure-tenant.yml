@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.03-existing-azure-tenant
+title: استخدام مستأجر Azure موجود
+metadata:
+  title: استخدام مستأجر Azure موجود
+  description: تعرف علي كيفية توفير Dynamics 365 Fraud Protection مع مستأجر Azure موجود.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1fe4d81516d469cbe4d6a2748d54f33243fa8267
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582757"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-existing-azure-tenant.md)]"

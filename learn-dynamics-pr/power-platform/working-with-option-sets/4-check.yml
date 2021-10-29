@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.working-with-option-sets.4-check
+metadata:
+  title: العمل مع التحقق من معرفة الاختيارات
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 14193db004e979eebdd8b5011e12e9c649302939
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457540"
+title: اختبر معلوماتك
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: متى يمكنك إنشاء اختيار؟
+    choices:
+    - content: عندما تقوم بتحرير عمود حالي
+      isCorrect: false
+      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو في وحدة الاختيار.
+    - content: عند تحديد عمود جديد
+      isCorrect: true
+      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو في وحدة الاختيار.
+    - content: عندما تقوم بحذف عمود حالي
+      isCorrect: false
+      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو في وحدة الاختيار.
+  - content: أي مما يلي يمكن أن تحتويه الاختيارات؟
+    choices:
+    - content: الأرقام، أو الصور، أو النص
+      isCorrect: false
+      explanation: لا يمكن أن تكون الصور جزءًا من الاختيار.
+    - content: الأرقام، أو النص
+      isCorrect: true
+      explanation: لا يمكن أن تكون الصور جزءًا من الاختيار.
+    - content: النص فقط
+      isCorrect: false
+      explanation: لا يمكن أن تكون الصور جزءًا من الاختيار، ويمكن أن تكون الأرقام جزءًا من الاختيار.
+    - content: الأرقام فقط
+      isCorrect: false
+      explanation: لا يمكن أن تكون الصور جزءًا من الاختيار، ويمكن أن يكون "النص" جزءًا من الاختيار.
+  - content: ما نوع الاختيار الذي لا يمكن استخدامه إلا بواسطة الجدول والعمود اللذين تم إنشاؤهما مقابلهما؟
+    choices:
+    - content: الاختيارات القياسية
+      isCorrect: false
+      explanation: يمكن فقط استخدام الاختيارات المحلية بواسطة الجدول والعمود اللذين تم إنشاؤهما مقابلهما.
+    - content: مجموعات الخيارات العامة
+      isCorrect: false
+      explanation: يمكن فقط استخدام الاختيارات المحلية بواسطة الجدول والعمود اللذين تم إنشاؤهما مقابلهما.
+    - content: الاختيارات المحلية
+      isCorrect: true
+      explanation: يمكن فقط استخدام الاختيارات المحلية بواسطة الجدول والعمود اللذين تم إنشاؤهما مقابلهما.
+    - content: الاختيارات الخاصة
+      isCorrect: false
+      explanation: يمكن فقط استخدام الاختيارات المحلية بواسطة الجدول والعمود اللذين تم إنشاؤهما مقابلهما.

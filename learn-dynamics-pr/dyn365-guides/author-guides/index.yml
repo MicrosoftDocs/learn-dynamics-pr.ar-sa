@@ -1,0 +1,60 @@
+### YamlMime:Module
+uid: learn-dynamics.author-guides
+metadata:
+  title: تأليف دليل في Dynamics 365 Guides
+  description: تعرف على كيفية تأليف دليل في Dynamics 365 Guides.
+  ms.date: 11/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ed75a5881549bfdb2e94cce8c02003ad8b3df8be
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587033"
+title: تأليف دليل في Dynamics 365 Guides
+summary: "[!include[](../includes/module-banner.md)] \nبصفتك مؤلفًا يعمل باستخدام Dynamics 365 Guides، فستقوم بإنشاء الأدلة في تطبيق الكمبيوتر الشخصي وتطبيق HoloLens باستخدام الصور ومقاطع الفيديو والصور المجسمة.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تأليف دليل في تطبيق الكمبيوتر الشخصي\n- تأليف دليل في تطبيق Hololens\n- إضافة نماذج ثلاثية (3D) الأبعاد أو وسائط ثنائية (2D) الأبعاد إلى الأدلة\n- فهم الإيماءات الخاصة بالتنقل والتأليف باستخدام HoloLens\n- تحويل النماذج ثلاثية الأبعاد لاستخدامها كصور مجسمة\n"
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Guides
+iconUrl: /learn/achievements/author-guides.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- business-user
+products:
+- dynamics-365
+- dynamics-guides
+- hololens
+units:
+- learn-dynamics.author-guides.01-introduction
+- learn-dynamics.author-guides.02-author-pc
+- learn-dynamics.author-guides.03-anchor
+- learn-dynamics.author-guides.04-qr-code-anchor
+- learn-dynamics.author-guides.05-circular-code-anchor
+- learn-dynamics.author-guides.06-holographic-anchor
+- learn-dynamics.author-guides.06-1-structure
+- learn-dynamics.author-guides.07-create-steps
+- learn-dynamics.author-guides.07-1-add-3d-2d
+- learn-dynamics.author-guides.08-add-website-power-apps
+- learn-dynamics.author-guides.09-create-copy-link
+- learn-dynamics.author-guides.10-deactivate-guide
+- learn-dynamics.author-guides.11-exercise-1
+- learn-dynamics.author-guides.11-2-check
+- learn-dynamics.author-guides.12-author-hololens-app
+- learn-dynamics.author-guides.12-2-hololens-1-gestures
+- learn-dynamics.author-guides.12-3-hololens-2-gestures
+- learn-dynamics.author-guides.12-4-hand-rays-gaze
+- learn-dynamics.author-guides.13-install-hololens-app
+- learn-dynamics.author-guides.14-anchor-guide
+- learn-dynamics.author-guides.15-holograms-styles
+- learn-dynamics.author-guides.16-create-place-trigger
+- learn-dynamics.author-guides.18-exercise-2
+- learn-dynamics.author-guides.20-convert-3d-model
+- learn-dynamics.author-guides.21-check
+- learn-dynamics.author-guides.22-summary
+badge:
+  uid: learn-dynamics.author-guides.badge

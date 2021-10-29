@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.04-2-purchased-instance
+title: إعداد مثيل تم شراؤه
+metadata:
+  title: إعداد مثيل تم شراؤه
+  description: تعرف على كيفية إعداد مثيل Dynamics 365 Fraud Protection تم شراؤه.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e914b9ffe420e9c37f82039f4df46320e418649c
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582767"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-2-purchased-instance.md)]"

@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.fit-gap-analysis
+metadata:
+  title: تنفيذ تحليل الفروق والتوافق
+  description: تعرف على كيفية تنفيذ تحليل ملائم للفروق كمهندس حلول لـ Dynamics 365 وMicrosoft Power Platform.
+  ms.date: 2/7/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 0bbbdb1d3a3207d66def67de86c25165fc1ea808
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457519"
+title: تنفيذ تحليل الفروق والتوافق
+summary: "[!include[](../includes/module-banner.md)] \nيحدد التحليل الملائم للفروق والتوافق الاختلاف بين المتطلبات المعروفة والحل المقترح (أو الحالي). تغطي هذه الوحدة أداء تحليل ملائم للفروق.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد جدوى المتطلبات. \n- تحسين المتطلبات من رؤى إثبات المفهوم.\n- تصنيف متطلبات العمل وإجراء تحليل ملائم للفروق. \n- تقييم تطبيقات Dynamics 365 وMicrosoft Power Platform.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/fit-gap-analysis.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.fit-gap-analysis.1-introduction
+- learn-dynamics.fit-gap-analysis.2-feasibility
+- learn-dynamics.fit-gap-analysis.3-refine-requirements
+- learn-dynamics.fit-gap-analysis.4-analysis
+- learn-dynamics.fit-gap-analysis.5-apps
+- learn-dynamics.fit-gap-analysis.6-check
+- learn-dynamics.fit-gap-analysis.7-summary
+badge:
+  uid: learn-dynamics.fit-gap-analysis.badge

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-guides.05-1-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 09/30/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 36c9ab1eaeb6a6bad33de1de7c13aaab3fa37008
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587016"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الدور الذي يقوم به الشخص الذي يقوم بإنشاء دليل في تطبيق الكمبيوتر الشخصي وتطبيق HoloLens؟ سيقوم أيضاً بتحويل النماذج ثلاثية الأبعاد لاستخدامها كصورة مجسمة.
+    choices:
+    - content: المسؤول
+      isCorrect: false
+      explanation: المسؤول هو الشخص الذي يقوم بإعداد أدلة Dynamics 365، ويقوم بترقية الحل. سيقومون أيضاً بإضافة مستخدمين، وتعيين الأدوار، والوصول، والاعتناء بالتكامل مع تطبيقات Dynamics 365 الأخرى.
+    - content: المؤلف‬
+      isCorrect: true
+      explanation: المؤلف هو الشخص الذي يقوم بإنشاء دليل في تطبيق الكمبيوتر الشخصي وتطبيق HoloLens. سيقوم أيضاً بتحويل النماذج ثلاثية الأبعاد لاستخدامها كصورة مجسمة.
+    - content: العامل
+      isCorrect: false
+      explanation: العامل هو الشخص الذي يستخدم الدليل للقيام بمجموعة من المهام.
+    - content: المدير‬
+      isCorrect: false
+      explanation: المدير هو الشخص الذي يحلل استخدام الأدلة عبر المؤسسة.
+  - content: ما الذي يمكنك استخدامه للتحقق من مستوى اعتماد الأدلة وكفاءتها؟
+    choices:
+    - content: مجموعة الأدوات ثلاثية الأبعاد
+      isCorrect: false
+      explanation: مجموعة الأدوات ثلاثية الأبعاد عبارة عن مكتبة من الكائنات المحددة مسبقاً والمضمنة في Dynamics 365 Guides، والتي يمكنك استخدامها للبدء على الفور.
+    - content: Guides Analytics
+      isCorrect: true
+      explanation: يمكنك استخدام Guides Analytics لتحليل استخدام الأدلة عبر مؤسستك.
+    - content: صفحة المخطط التفصيلي
+      isCorrect: false
+      explanation: صفحة المخطط التفصيلي هي صفحة في تطبيق تأليف الكمبيوتر الشخصي الذي تستخدمه لإضافة المهام والخطوات.
+  - content: أي من تطبيقات Dynamics 365 التالية يمكنك دمج Dynamics 365 Guides معها؟
+    choices:
+    - content: Dynamics 365 Sales
+      isCorrect: false
+      explanation: يمكنك دمج Dynamics 365 Guides مع Dynamics 365 Field Service لتمكين فنيي الخدمة الميدانية Dynamics 365 Guides لإكمال أوامر العمل الخاصة بهم. يمكنك أيضاً دمج Dynamics 365 Guides مع وحدة إدارة الأصول في Dynamics 365 Supply Chain Management للاستفادة من أدلة الواقع المختلط في عمليات سير عمل الصيانة والخدمة اليومية.
+    - content: Dynamics 365 Finance
+      isCorrect: false
+      explanation: يمكنك دمج Dynamics 365 Guides مع Dynamics 365 Field Service لتمكين فنيي الخدمة الميدانية Dynamics 365 Guides لإكمال أوامر العمل الخاصة بهم. يمكنك أيضاً دمج Dynamics 365 Guides مع وحدة إدارة الأصول في Dynamics 365 Supply Chain Management للاستفادة من أدلة الواقع المختلط في عمليات سير عمل الصيانة والخدمة اليومية.
+    - content: Dynamics 365 Field Service وDynamics 365 Supply Chain Management
+      isCorrect: true
+      explanation: يمكنك دمج Dynamics 365 Guides مع Dynamics 365 Field Service لتمكين فنيي الخدمة الميدانية Dynamics 365 Guides لإكمال أوامر العمل الخاصة بهم. يمكنك أيضاً دمج Dynamics 365 Guides مع وحدة إدارة الأصول في Dynamics 365 Supply Chain Management للاستفادة من أدلة الواقع المختلط في عمليات سير عمل الصيانة والخدمة اليومية.

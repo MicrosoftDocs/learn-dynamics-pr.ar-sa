@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-relationship-between-cds-entities.1-relate
+title: ربط جدول واحد أو أكثر - مقدمة
+metadata:
+  title: ربط جدول واحد أو أكثر - مقدمة
+  description: تقدم هذه الوحدة أمثلة ومناقشة حول فوائد ربط جدول واحد أو أكثر.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 38c2f5513b911a9ac24d49b0d162b8163d341c55
+  ms.sourcegitcommit: 0e57d5d5dc85c1bdd0acdd97bdb1a44182cdf8ca
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "7457618"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-relate.md)]

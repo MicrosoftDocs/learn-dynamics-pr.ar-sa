@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.extend-power-platform-model-driven-apps
+metadata:
+  title: توسيع التطبيقات المستندة إلى النموذج لخبرة مستخدم Microsoft Power Platform
+  description: قم بإنشاء البرمجة النصية للعميل، وتنفيذ الإجراءات الشائعة بواسطة برنامج العميل النصي، وتغطية تدفق العمليات التجارية تلقائيًا مع البرنامج النصي للعميل في مسار التعليم. تعرف على البرنامج النصي للعميل الذي يمكنه تنفيذ البرامج النصية وقواعدها وصيانتها. اكتشاف متى يتم استخدام برنامج العميل النصي بالإضافة إلى وقت عدم استخدام البرنامج النصي الخاص بالعميل.
+  ms.date: 07/17/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 5411be70742c2da9b9eb29cd7d3e17e81afb0820
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457596"
+title: توسيع التطبيقات المستندة إلى النموذج لخبرة مستخدم Microsoft Power Platform
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  قم بإنشاء البرمجة النصية للعميل، وتنفيذ الإجراءات الشائعة بواسطة برنامج العميل النصي، وتغطية تدفق العمليات التجارية تلقائيًا مع البرنامج النصي للعميل في مسار التعليم. تعرف على البرنامج النصي للعميل الذي يمكنه تنفيذ البرامج النصية وقواعدها وصيانتها. اكتشاف متى يتم استخدام برنامج العميل النصي بالإضافة إلى وقت عدم استخدام البرنامج النصي الخاص بالعميل.
+prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. \n- باشر العمل مع Power Apps وPower Automate وPower BI.\n- تجربة المطور العام.\n"
+iconUrl: /learn/achievements/extend-power-platform-model-driven-apps.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+- power-apps
+modules:
+- learn-dynamics.get-started-component-framework
+- learn-dynamics.common-actions-client-script-power-platform
+- learn-dynamics.automate-business-process-flow-client-script-power-platform
+trophy:
+  uid: learn-dynamics.extend-power-platform-model-driven-apps.trophy

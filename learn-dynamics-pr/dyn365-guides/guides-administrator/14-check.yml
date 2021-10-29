@@ -1,0 +1,72 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.guides-administrator.14-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/05/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ae16881812698f6bf3e529de7b8fb073c05dc011
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7587042"
+durationInMinutes: 10
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الذي يحتاج المسؤول إلى فعله قبل تثبيت Dynamics 365 Guides على الكمبيوتر الشخصي وHoloLens؟
+    choices:
+    - content: قم بإعداد تقارير Power BI.
+      isCorrect: false
+      explanation: تعرض تقارير Power BI قياس تتبع الاستخدام من الأدلة التي يتم تشغيلها. يعد تثبيت تطبيقات الكمبيوتر الشخصي وHoloLens شرطًا مسبقًا لجعلها تعمل وتعرض البيانات.
+    - content: تثبيت حل Dynamics 365 Guides.
+      isCorrect: true
+      explanation: يعد إعداد البيئة وتثبيت حل Dynamics 365 Guides مطلوبًا حيث سيؤدي ذلك إلى إنشاء مساحة وتخصيصها لبيانات الأدلة بحيث يمكن تخزين معلومات الأدلة في السحابة.
+    - content: إنشاء مستخدمين جدد وتعيين الأدوار لهم.
+      isCorrect: false
+      explanation: مباشرة بعد تثبيت الحل وتعيين الأدوار الصحيحة للمستخدم الافتراضي الموجود مسبقًا، يمكنك تنزيل التطبيقات والبدء في استخدامها.
+  - content: قبل ترقية حل Dynamics 365 Guides، أي مما يلي تحتاج إلى القيام به؟
+    choices:
+    - content: فتح تطبيق الكمبيوتر الشخصي وتطبيق HoloLens باستمرار.
+      isCorrect: false
+      explanation: من المهم جدًا إغلاق كلا التطبيقين على كل جهاز أثناء تحديث الحل لتجنب تلف البيانات أو فقدانها.
+    - content: حظر التحديث إلى تطبيقي الكمبيوتر الشخصي وHoloLens.
+      isCorrect: false
+      explanation: قبل الترقية، تحتاج إلى التأكد من تحديث تطبيقي الكمبيوتر الشخصي وHL. ستضيء بعض الميزات فقط عندما يكتشف النظام المجموعة أو أحدث تطبيقات العميل والحل.
+    - content: تأكد من تعيين دور أمان مسؤول النظام وترخيص Dynamics 365 Guides.
+      isCorrect: true
+      explanation: لن تسمح لك الأدوار الأخرى أو لم يتم تعيين أي ترخيص بإجراء الترقية.
+  - content: أي من العبارات التالية صحيح فيما يتعلق بإلغاء تنشيط الدليل وحذفه؟
+    choices:
+    - content: لا يوجد فرق بين إلغاء تنشيط الدليل وحذفه.
+      isCorrect: false
+      explanation: يؤدي إلغاء التنشيط إلى إزالة السجل من قائمة السجلات النشطة، بحيث لا يظهرها تطبيق العميل بعد الآن. يمكن إعادة تنشيط السجل لاحقًا إذا لزم الأمر. يؤدي الحذف في الواقع إلى إزالة السجل من النظام. لا يمكن استرجاعها بعد الآن.
+    - content: يتيح لك إلغاء التنشيط الاحتفاظ بالسجل في النظام.
+      isCorrect: true
+      explanation: يؤدي إلغاء التنشيط إلى إزالة السجل من قائمة السجلات النشطة، بحيث لا يظهرها تطبيق العميل بعد الآن. يمكن إعادة تنشيط السجل لاحقًا إذا لزم الأمر. يؤدي الحذف في الواقع إلى إزالة السجل من النظام. لا يمكن استرجاعها بعد الآن.
+    - content: يمكن استرجاع السجل المحذوف.
+      isCorrect: false
+      explanation: يؤدي إلغاء التنشيط إلى إزالة السجل من قائمة السجلات النشطة، بحيث لا يظهرها تطبيق العميل بعد الآن. يمكن إعادة تنشيط السجل لاحقًا إذا لزم الأمر. يؤدي الحذف في الواقع إلى إزالة السجل من النظام. لا يمكن استرجاعها بعد الآن.
+  - content: هل يمكنك إلغاء الاشتراك في تخزين بيانات استخدام Dynamics 365 Guides؟
+    choices:
+    - content: نعم.
+      isCorrect: true
+      explanation: تعمل تطبيقات Dynamics 365 Guides على تمكين الفرق من التقاط إحصاءات الاستخدام ومعلومات مفصلة عن تتبع الوقت. تُستخدم هذه البيانات لتوفير مقاييس لأداء المشغل ومساعدتك في تحديد فرص تحسين العملية. بصفتك مشرفاً، يمكنك إيقاف تشغيل جمع البيانات لمستخدمين محددين.
+    - content: لا.
+      isCorrect: false
+      explanation: تعمل تطبيقات Dynamics 365 Guides على تمكين الفرق من التقاط إحصاءات الاستخدام ومعلومات مفصلة عن تتبع الوقت. تُستخدم هذه البيانات لتوفير مقاييس لأداء المشغل ومساعدتك في تحديد فرص تحسين العملية. بصفتك مشرفاً، يمكنك إيقاف تشغيل جمع البيانات لمستخدمين محددين.
+  - content: أي من تطبيقات Dynamics 365 التالية لا يمكن أن يتكامل مع Dynamics 365 Guides؟
+    choices:
+    - content: Dynamics 365 Field Service
+      isCorrect: false
+      explanation: يمكن دمج Dynamics 365 Field Service مع Dynamics 365 Guides.
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: false
+      explanation: يمكن دمج وحدة إدارة الأصول في Dynamics 365 Supply Chain Management مع Dynamics 365 Guides.
+    - content: Dynamics 365 Sales
+      isCorrect: true
+      explanation: لا يمكن دمج تطبيق Dynamics 365 Sales مع Dynamics 365 Guides.

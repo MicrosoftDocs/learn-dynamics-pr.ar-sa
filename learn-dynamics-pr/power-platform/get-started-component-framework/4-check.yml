@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-component-framework.4-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 5/12/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 4d4d44a27e2dfe71b8bc989afa82ab5b1099ec3e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457493"
+durationInMinutes: 5
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أيّ مما يلي ليس نوع قالب لعناصر التحكم التي تم إنشاؤها باستخدام Power Apps component framework؟
+    choices:
+    - content: الحقل
+      isCorrect: false
+      explanation: يمثل الحقل أحد أنواع القوالب لعناصر التحكم التي تم إنشاؤها باستخدام إطار عمل مكون Power Apps.
+    - content: غير مقيد
+      isCorrect: true
+      explanation: "\"عدم التقييد\" ليس نوع قالب صالح لعناصر التحكم التي تم إنشاؤها باستخدام Power Apps component framework."
+    - content: مجموعة البيانات
+      isCorrect: false
+      explanation: تمثل "مجموعة البيانات" أحد أنواع القوالب لعناصر التحكم التي تم إنشاؤها باستخدام Power Apps component framework.
+  - content: أي من الملفات التالية يُستخدم لتحديد خصائص التحكم لمكون التعليمة البرمجية من Power App؟
+    choices:
+    - content: index.ts
+      isCorrect: false
+      explanation: يعد index.ts جزءًا إلزاميًا من تنفيذ المكون ويحتوي على التعليمة البرمجية التي تصف أساليب المكون المطلوبة.
+    - content: ملف البيان
+      isCorrect: true
+      explanation: يُستخدم "ملف البيان" لتحديد خصائص التحكم لمكون التعليمة البرمجية من Power App.
+    - content: الملف المصدر
+      isCorrect: false
+      explanation: يستخدم ملف الموارد لإنشاء رسم مرئي لمكون التعليمة البرمجية من Power Apps.
+    - content: ملف CSS
+      isCorrect: false
+      explanation: يمكن استخدام ملفات CSS بواسطة مكون التعليمات البرمجية لوصف كيفية عرض المكون على واجهة المستخدم.
+  - content: أي من الأساليب التالية يمكننا استخدامها لإعلام إطار العمل بأن عنصر التحكم يحتوي على مخرجات جديدة؟
+    choices:
+    - content: notifyOutputChanged
+      isCorrect: true
+      explanation: يمكن استخدام الأسلوب notifyOutputChanged بواسطة تنفيذ التحكم لإعلام إطار العمل بأن لديه مخرجات جديدة. يتم تمرير هذا إلى عنصر التحكم كمعامل للأسلوب init.
+    - content: init
+      isCorrect: false
+      explanation: يُستخدم هذا الأسلوب init لتهيئة مثيل المكون.
+    - content: updateView
+      isCorrect: false
+      explanation: سيتم استدعاء هذا الأسلوب updateView عند تغيير أي قيمة في حقيبة الخصائص.
+    - content: getOutputs
+      isCorrect: false
+      explanation: يتم استدعاء الأسلوب getOutputs بواسطة إطار العمل قبل أن يتلقى المكون البيانات الجديدة.

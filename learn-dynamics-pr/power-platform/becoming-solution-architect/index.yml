@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.becoming-solution-architect
+metadata:
+  title: كن مهندسًا للحلول لـ Dynamics 365 وMicrosoft Power Platform
+  description: تعرف على كيف أن تكون مهندس حلول.
+  ms.date: 1/10/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: e842c7005219b90629c366fd93cf0672d6799337
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457486"
+title: كن مهندسًا للحلول لـ Dynamics 365 وMicrosoft Power Platform
+summary: "[!include[](../includes/module-banner.md)] \n\nيدير مهندس الحلول عمليات تنفيذ ناجحة ويركز على الطريقة التي تقوم من خلالها الحلول بمعالجة مجموعة احتياجات الأعمال والاحتياجات التقنية للمؤسسات. وتغطي هذه الوحدة ما يلزم لبدء الاستخدام كمهندس حلول وكعضو أساسي في فريق المشروع الشامل. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ما هو متوقع من مهندس الحلول.\n- تعرف على دور مهندسي الحلول اثناء مراحل المشروع.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/becoming-solution-architect.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.becoming-solution-architect.1-introduction
+- learn-dynamics.becoming-solution-architect.2-skills
+- learn-dynamics.becoming-solution-architect.3-expectations
+- learn-dynamics.becoming-solution-architect.4-project-phase-role
+- learn-dynamics.becoming-solution-architect.5-pillars
+- learn-dynamics.becoming-solution-architect.6-check
+- learn-dynamics.becoming-solution-architect.7-summary
+badge:
+  uid: learn-dynamics.becoming-solution-architect.badge

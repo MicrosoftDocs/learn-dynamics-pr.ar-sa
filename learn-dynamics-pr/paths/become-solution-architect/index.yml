@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.become-solution-architect
+metadata:
+  title: مهندس حلول لـ Dynamics 365 وMicrosoft Power Platform
+  description: كن مهندسًا للحلول لـ Dynamics 365 وMicrosoft Power Platform.
+  ms.date: 01/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 978ce4633097aca63950bf7f378802d8e93c96a5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457534"
+title: مهندس حلول لـ Dynamics 365 وMicrosoft Power Platform
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيعد مهندس الحلول مسؤولا عن التصميم الناجح والتنفيذ والنشر وتبني حل شامل. يضمن مهندس الحلول تلبية الحلول لاحتياجات العميل الآن وفي المستقبل. بينما قد لا يقوم مهندس الحلول بالنقر فوق الأزرار أثناء عمليه التوزيع، فإنه مسؤولٌ عن الحل ويعمل مع فريق النشر بشكل جماعي. \n\nيغطي هذا المسار التعليمي مراحل ما قبل البيع والتحليل لأحد المشروعات ليشمل ما يلي:\n- تعرف على المدة التي تستغرقها لتكون مهندس حلول.\n- اكتشاف احتياجات العميل.\n- اقتراح أحد الحلول.\n- العمل وفقًا للمتطلبات.\n- إجراء تحليل ملائم للفروق.   \n\nتتوفر دورة تدريبية يقودها مدرب تقدم المزيد من الأنشطة العملية وكل من المسار التعليمي والعلة المطلوبة لإجراء الاختبار. راجع الدورات التدريبية [MB-600T00-A](/learn/certifications/courses/mb-600t00/?azure-portal=true) و[MB-700T00-A](/learn/certifications/courses/mb-700t00/?azure-portal=true).\n"
+prerequisites: "- ذكاء تجاري عميق مع Dynamics 365 وMicrosoft Power Platform.\n- خبرة المستشار الوظيفي مع Dynamics 365 وMicrosoft Power Platform.\n- الدراية بأنشطة دور المطور لـ Dynamics 365 وMicrosoft Power Platform. \n"
+iconUrl: /learn/achievements/become-solution-architect.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+modules:
+- learn-dynamics.becoming-solution-architect
+- learn-dynamics.discover-customer-needs
+- learn-dynamics.propose-solution
+- learn-dynamics.work-with-requirements
+- learn-dynamics.fit-gap-analysis
+trophy:
+  uid: learn-dynamics.become-solution-architect.trophy

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.provision-fraud-protection.04-provision-path
+title: تحديد مسار التوفير الخاص بك
+metadata:
+  title: تحديد مسار التوفير الخاص بك
+  description: تعرف على كيفية تحديد مسار التوفير الخاص بك لـ Dynamics 365 Fraud Protection.
+  ms.date: 08/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 77bdcc0d22e1524e6cfcc38540c314df3e0cbf04
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7582762"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-provision-path.md)]"

@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.integrate-power-platform
+metadata:
+  title: التكامل باستخدام Microsoft Power Platform وMicrosoft Dataverse
+  description: التكامل باستخدام Microsoft Power Platform وDataverse.
+  ms.date: 02/29/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: f1b55a5ff0ceac1ea6ca7cb3051b51f3d9311008
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457368"
+title: التكامل باستخدام Microsoft Power Platform وDataverse
+summary: "[!include[](../../includes/lp-banner.md)]\n\nالتكامل باستخدام Dataverse عن طريق التعليمات البرمجية بالتعرف على API في Dataverse. الحصول على نظرة عامة متعمقة بالخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.   \n"
+prerequisites: >
+  - تجربة التطوير باستخدام Microsoft Power Platform وDataverse
+iconUrl: /learn/achievements/integrate-power-platform.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-apps
+- power-platform
+modules:
+- learn-dynamics.common-data-service-web-api
+- learn-dynamics.integrate-common-data-service-azure-solutions
+trophy:
+  uid: learn-dynamics.integrate-power-platform.trophy

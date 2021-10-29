@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn-dynamics.get-started-component-framework
+metadata:
+  title: الشروع في العمل باستخدام Power Apps component framework
+  description: تعرف على كيفية الشروع في العمل باستخدام Microsoft Power Apps component framework.
+  ms.date: 5/12/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 8efa9ac271c48efa0e6ba513d938194bec1055ad
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457467"
+title: الشروع في العمل باستخدام Power Apps component framework
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية الشروع في العمل باستخدام Microsoft Power Apps component framework.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على بنية Power Apps component framework.\n- تعرف على أدوات مكون Power Apps.  \n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/get-started-component-framework.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+units:
+- learn-dynamics.get-started-component-framework.1-introduction
+- learn-dynamics.get-started-component-framework.2-architecture
+- learn-dynamics.get-started-component-framework.3-tooling
+- learn-dynamics.get-started-component-framework.4a-demo
+- learn-dynamics.get-started-component-framework.4-check
+- learn-dynamics.get-started-component-framework.5-summary
+badge:
+  uid: learn-dynamics.get-started-component-framework.badge

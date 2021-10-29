@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-define-calculation-rollup-fields.1-intro
+title: مقدمة إلى حقول القيم المحتسبة
+metadata:
+  title: مقدمة إلى حقول القيم المحتسبة
+  description: تحدد هذه الوحدة حقل القيمة المحتسبة وكيفية استخدامه في Microsoft Dataverse.
+  ms.date: 07/26/2019
+  author: kschimke
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9c1fe5b7f8d1eaeb5982709dd81c75e86c592835
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457429"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-intro.md)]
