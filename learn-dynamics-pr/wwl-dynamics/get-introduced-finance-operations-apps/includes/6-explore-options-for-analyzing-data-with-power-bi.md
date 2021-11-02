@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1237bfb466614d44f316506fcabded46f17827310281afec558d4899aecdb77c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d3c96689f0a3c4efc5b4601609c16adc20a2ad1d
+ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438324"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "7648450"
 ---
 تقدم تطبيقات Dynamics 365 تقارير تفاعلية تتكامل مع مساحات عمل التطبيق. باستخدام الرسوم البيانية والمرئيات الغنية المدعومة من قبل **Power BI**، تمنحك مساحات العمل تجربة مرئية وتفاعلية للغاية. باستخدام الرسوم البيانية في صفحة النظرة العامة، يمكنك إلقاء نظرة سريعة على حالة العمل.
 
@@ -38,11 +38,19 @@ Power BI يحتوي على لوحات معلومات ومربعات لإنشاء
 
 :::row:::
   :::column:::
+    
+  :::column-end:::
+  :::column:::
+    
+  :::column-end:::
+:::row-end:::
+:::row:::
+  :::column:::
     :::image type="content" source="../media/video-icon-d359ec84.png" alt-text="أيقونة تشير إلى تشغيل الفيديو":::
 
   :::column-end:::
   :::column:::
-    شاهد هذا الفيديو لتتعلم كيف يسمح لك Power BI المضمن باستخدام Power BI لاكتساب تحليلات أعمق في التحليلات المالية الرئيسية.
+    شاهد هذا الفيديو لتتعلم كيف يسمح لك Power BI المضمن باستخدام Power BI لاكتساب تحليلات أعمق في التحليلات المالية الرئيسية
   :::column-end:::
 :::row-end:::
 
@@ -51,7 +59,7 @@ Power BI يحتوي على لوحات معلومات ومربعات لإنشاء
 
 ## <a name="types-of-visualizations-available-in-power-bi"></a>أنواع المرئيات المتوفرة في Power BI
 
-فيما يلي بعض الأنواع المختلفة من المرئيات التي يمكن إضافتها إلى تقارير Power BI المحددة في&amp;A، ومثبتة في لوحات المعلومات.
+فيما يأتي بعض الأنواع المختلفة من المرئيات التي يمكن إضافتها إلى تقارير Power BI المحددة في ‏‫ضمان الجودة ‬&amp;، ومثبتة في لوحات المعلومات.
 
 ### <a name="area-charts-basic-layered-and-stacked"></a>مخططات المنطقة: أساسي (متعدد الطبقات) ومكدس
 

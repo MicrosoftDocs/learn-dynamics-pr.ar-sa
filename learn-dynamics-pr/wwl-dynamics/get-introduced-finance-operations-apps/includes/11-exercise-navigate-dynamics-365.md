@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8c374855472d500086e1e2af68f7e55445560da719f3e8b21726f7f60ef715b0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f9463823d96245db369e0be87d2ed49b215a9d7b
+ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438402"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "7648400"
 ---
 [!INCLUDE[](../../../includes/unit-banner.md)]
 [!INCLUDE[](../../../includes/accessing-labs.md)]
@@ -45,8 +45,8 @@ ms.locfileid: "7438402"
     
     :::image type="content" source="../media/m1-common-vendor-list-page-d3cb48b6.png" alt-text="لقطة شاشة لشاشة جميع الموردين":::
     
-19. قم بتمييز أحد الموردين من القائمة، وعلى اليمين، حدد **قائمة المعلومات ذات الصلة**، وراجع المعلومات الإضافية المتوفرة.
-20. في قائمة البائعين، حدد **Northwind Traders**.
+19. قم بتمييز أحد الموردين من القائمة، وعلى اليمين، حدد قائمة **المعلومات ذات الصلة**، وراجع المعلومات الإضافية المتوفرة.
+20. في قائمة الموردين، حدد **مستلزمات المكاتب من Acme**.
 21. حدد قائمة **المجموعة**، ثم حدد عنوان العمود **مجموعة الموردين**.
     
     :::image type="content" source="../media/m1-common-vendor-group-menu-24493345.png" alt-text="لقطة شاشة لسجل المورد":::

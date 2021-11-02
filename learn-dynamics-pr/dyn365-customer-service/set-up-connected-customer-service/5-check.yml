@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.connected-customer-service.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/07/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 269bc917482e5c77ced2ac594664785d79272198
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625601"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لمعرفة ما تعلمته.
+  questions:
+  - content: لقد قمت بتكوين التدقيق Connected Customer Service. لقد كشف Azure IoT عن مشكلة في بيانات تتبع الاستخدام التي تم استلامها من جهاز IoT. ما الذي تم إنشاؤه في Dynamics 365 Customer Service؟
+    choices:
+    - content: تنبيه IoT
+      isCorrect: true
+      explanation: يتم إنشاء تنبيهات IoT بواسطة تدفق سحابي لـ Azure Logic App أو Power Automate عند تشغيل قاعدة محددة في Azure IoT من بيانات تتبع الاستخدام. سيحتوي سجل تنبيه IoT تفاصيل حول الحدث مثل نوع الحدث وتاريخ حدوثه والجهاز المقترن به. يمكن للموظفين تنفيذ الإجراءات عن بُعد على الجهاز من سجِلّ تنبيه IoT، مثل إعادة ضبط الجهاز.
+    - content: الحالة
+      isCorrect: false
+      explanation: لا يتم إنشاء حالة بشكل تلقائي بواسطة Azure، ويتم إنشاء تنبيه IoT. يمكن تحويل حالة من تنبيه IoT.
+    - content: أصل العميل
+      isCorrect: false
+      explanation: يرتبط أصل العميل بجهاز IoT وسيتم ربط أي تنبيهات تم إنشاؤها بالأصل.
+    - content: تعريف الأوامر
+      isCorrect: false
+      explanation: تعريفات الأوامر هي الرسائل المنشأة مسبقًا والمرسلة إلى أجهزة IoT من خلال Azure IoT.
+  - content: لا يتوفر لديك أي تجربة في Azure، فأي المكونات يجب استخدامها لتوصيل أجهزة IoT بخدمه العملاء؟
+    choices:
+    - content: Azure IoT Hub
+      isCorrect: false
+      explanation: يتطلب Azure IoT Hub المعرفة والمهارات مع خدمات Azure وإجراء أي تغييرات تتطلب من المطور (المطورين) تغيير الكود.
+    - content: Azure Logic Apps
+      isCorrect: false
+      explanation: يتم استخدام Azure Logic Apps مع Azure IoT Hub للاتصال بـ Dynamics 365 Customer Service لإرسال الرسائل وإنشاء التنبيهات.
+    - content: Azure IoT Central
+      isCorrect: true
+      explanation: يُعد IoT Central ‏Azure أحد حلول SaaS المدارة بشكل كامل، ما يتيح سهولة إدارة أجهزة IoT دون الحاجة إلى المهارات الشاملة من Azure.
+    - content: Azure Stream Analytics
+      isCorrect: false
+      explanation: يتم استخدام Azure Stream Analytics مع Azure IoT Hub لتحليل بيانات قياس تتبع الاستخدام في الوقت الحقيقي ويمكن من خلالها تشغيل Logic Apps لإنشاء تنبيهات في Dynamics 365 Customer Service.
+  - content: لقد قررت استخدام Connected Customer Service لـ IoT Central. فما الذي يجب عليك إنشائه أولاً؟
+    choices:
+    - content: تدفق Power Automate السحابي.
+      isCorrect: false
+      explanation: يمكن فقط إنشاء تدفقات Power Automate السحابية المخصصة لإنشاء تنبيهات IoT في Connected Customer Service بعد أن يتم إنشاء التنبيهات في أحد تطبيقات IoT Central.
+    - content: تعريف الأوامر
+      isCorrect: false
+      explanation: تعريفات الأوامر هي الرسائل المحددة مسبقًا والمرسلة إلى أجهزة IoT من خلال Azure IoT. تُعد تعريفات الأوامر اختيارية ويتم تحديدها لتسريع إنشاء الرسائل استجابةً إلى تنبيهات IoT.
+    - content: أصل العميل
+      isCorrect: false
+      explanation: تمثل الأصول الخاصة بالعميل المعدات التي تدعمها. وليس من الضروري أن يرتبط أصل العميل بجهاز IoT.
+    - content: تطبيق IoT Central
+      isCorrect: true
+      explanation: يجب أولاً إنشاء تطبيق مخصص جديد في IoT Central قبل أن تتمكن من إضافة أجهزة وإنشاء تدفقات Power Automate السحابية.

@@ -4,18 +4,17 @@ title: مقدمة إلى البرمجة النصية من جانب العميل
 metadata:
   title: مقدمة إلى البرمجة النصية من جانب العميل
   description: تشرح هذه الوحدة البرمجة النصية من جانب العميل.
-  ms.date: 07/15/2019
-  author: davebeasley
+  ms.date: 10/11/2021
+  author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 05f4dbdcb14076e5b577dd66f9d2413afac2ce15
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 349f1edcfeb90517b2c92d3562ec6ee8a99031d9
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457458"
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625069"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

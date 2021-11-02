@@ -4,17 +4,18 @@ title: استكشاف مكونات الحسابات الدائنة الأساس�
 metadata:
   title: استكشاف مكونات الحسابات الدائنة الأساسية
   description: استكشاف مكونات الحسابات الدائنة الأساسية
-  ms.date: 07/15/2021
+  ms.date: 10/06/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 89ce904935e8899898523e7f95090adb38133d51
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: df9ba13a6dd01c5f1200a2119c5a4c0e08e4ae0b
+  ms.sourcegitcommit: bd5135aefecffa020f588809d29180e2f7063569
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438697"
+  ms.lasthandoff: 10/06/2021
+  ms.locfileid: "7607029"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/2-explore-core-accounts-payable-components.md)]'

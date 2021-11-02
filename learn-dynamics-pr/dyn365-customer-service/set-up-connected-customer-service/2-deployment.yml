@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.connected-customer-service.2-deployment
+title: اختيار نوع توزيع
+metadata:
+  title: اختيار نوع توزيع
+  description: تعرّف على خيارات التوزيع المختلفة لـ Connected Customer Service وAzure IoT.
+  ms.date: 10/07/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 3a8f1504a8e926754cda0ec83e01fffb87d17c3e
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625599"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-deployment.md)]

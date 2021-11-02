@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-actions-client-script-power-platform.3-event-handlers
+title: معالجات الأحداث
+metadata:
+  title: معالجات الأحداث
+  description: تعرّف على معالجات الأحداث‬.
+  ms.date: 10/11/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 0abcb90642511062104b504001a3850dddcb7fc9
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625704"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-event-handlers.md)]

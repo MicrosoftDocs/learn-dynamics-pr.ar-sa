@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-dynamics.setup-customer-service-scheduling
+metadata:
+  title: تكوين جدولة Customer Service
+  description: تشتمل Dynamics 365 Customer Service على إمكانيات لجدولة الموظفين والموارد الأخرى بفعالية لعملاء الخدمة في مواقع المؤسسة. الاستعداد لـ MB-230.
+  ms.date: 10/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b2027e47c17a3c437befda12f10460675f1a5343
+  ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "7646468"
+title: تكوين جدولة Customer Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تشتمل Dynamics 365 Customer Service على إمكانيات لجدولة الموظفين والموارد الأخرى بفعالية لعملاء الخدمة في مواقع المؤسسة.
+abstract: >
+  في هذه الوحدة، ستتمكن مما يأتي:
+
+  - التعرف على كيفية بدء جدولة Customer Service
+
+  - التعرف على كيفية تكوين جدولة Customer Service
+
+  - تعرَّف على كيفية تحديد الموارد
+prerequisites: المعرفة الأساسية لتطبيق خدمة العملاء
+iconUrl: /learn/achievements/setup-customer-service-scheduling.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.setup-customer-service-scheduling.1-introduction
+- learn-dynamics.setup-customer-service-scheduling.2-configure
+- learn-dynamics.setup-customer-service-scheduling.3-resources
+- learn-dynamics.setup-customer-service-scheduling.4-check
+- learn-dynamics.setup-customer-service-scheduling.5-summary
+badge:
+  uid: learn-dynamics.setup-customer-service-scheduling.badge

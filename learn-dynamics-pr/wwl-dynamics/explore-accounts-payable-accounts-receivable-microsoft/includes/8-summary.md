@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1f0d0f501f3b1b598265cd669170f956e2b47457bdf7d17ea8eaaca01b9e497d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2f77ccd054951659f41b7eb4b0ed66b5f8006ac4
+ms.sourcegitcommit: bd5135aefecffa020f588809d29180e2f7063569
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438385"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "7607069"
 ---
 باستخدام Microsoft Dynamics 365 Finance، يمكنك إدارة العمليات المحاسبية التي ينطوي عليها الدفع للموردين مقابل البضائع أو الخدمات المستلمة وتلقي المدفوعات مقابل البضائع أو الخدمات المقدمة.
 
@@ -18,37 +18,23 @@ ms.locfileid: "7438385"
 
 الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
-- وصف مكونات حسابات المدفوعات الأساسية، بما في ذلك الموردين وأوامر الشراء وفواتير الموردين.
-
-- صف مدفوعات الموردين والتسويات، بما في ذلك مفاهيم المطابقة الثلاثية.
-
-- صف مكونات الحسابات المدينة الأساسية، بما في ذلك العملاء وفواتير العملاء والفواتير النصية المجانية. 
-
-- صف عمليات الائتمان والتحصيل.
+ -  وصف مكونات حسابات المدفوعات الأساسية، بما في ذلك الموردين وأوامر الشراء وفواتير الموردين.
+ -  صف مدفوعات الموردين والتسويات، بما في ذلك مفاهيم المطابقة الثلاثية.
+ -  صف مكونات الحسابات المدينة الأساسية، بما في ذلك العملاء وفواتير العملاء والفواتير النصية المجانية.
+ -  صف عمليات الائتمان والتحصيل.
 
 ## <a name="resources"></a>الموارد
 
 استخدم هذه الموارد لاكتشاف المزيد.
 
-- [إنشاء الموردين](/learn/modules/configure-accounts-payable-dyn365-finance/8-create-vendors)
-
-- [إنشاء أوامر شراء](/dynamics365/supply-chain/procurement/purchase-order-creation)
-
-- [اعتماد أوامر الشراء وتأكيدها](/dynamics365/supply-chain/procurement/purchase-order-approval-confirmation)
-
-- [إيصال استلام المنتجات في مقابل أوامر الشراء](/dynamics365/supply-chain/procurement/product-receipt-against-purchase-orders)
-
-- [نظرة عامة على فواتير الموردين](/dynamics365/financials/accounts-payable/vendor-invoices-overview)
-
-- [نظرة عامة على دفع المورد](/dynamics365/finance/cash-bank-management/tasks/vendor-payment-overview)
-
-- [إنشاء دفعات المورد باستخدام عرض دفع](/dynamics365/finance/accounts-payable/create-vendor-payments-payment-proposal)
-
-- [فواتير الدفع المسبق مقابل الدفعات المقدمة](/dynamics365/finance/accounts-payable/prepayments-invoices-vs-prepayments)
-
-- [سياسات المطابقة ثلاثية الاتجاه](/dynamics365/finance/accounts-payable/three-way-matching-policies)
-
-- [إنشاء فاتورة عميل](/dynamics365/finance/accounts-receivable/configure-customer-invoices)
-
-- [إنشاء فواتير أمر المبيعات](/dynamics365/finance/accounts-receivable/tasks/create-sales-order-invoices)
-
+ -  [إنشاء الموردين](/learn/modules/configure-accounts-payable-dyn365-finance/8-create-vendors)
+ -  [إنشاء أوامر شراء](/dynamics365/supply-chain/procurement/purchase-order-creation)
+ -  [اعتماد أوامر الشراء وتأكيدها](/dynamics365/supply-chain/procurement/purchase-order-approval-confirmation)
+ -  [إيصال استلام المنتجات في مقابل أوامر الشراء](/dynamics365/supply-chain/procurement/product-receipt-against-purchase-orders)
+ -  [نظرة عامة على فواتير الموردين](/dynamics365/financials/accounts-payable/vendor-invoices-overview)
+ -  [نظرة عامة على دفع المورد](/dynamics365/finance/cash-bank-management/tasks/vendor-payment-overview)
+ -  [إنشاء دفعات المورد باستخدام عرض دفع](/dynamics365/finance/accounts-payable/create-vendor-payments-payment-proposal)
+ -  [فواتير الدفع المسبق مقابل الدفعات المقدمة](/dynamics365/finance/accounts-payable/prepayments-invoices-vs-prepayments)
+ -  [سياسات المطابقة ثلاثية الاتجاه](/dynamics365/finance/accounts-payable/three-way-matching-policies)
+ -  [إنشاء فاتورة عميل](/dynamics365/finance/accounts-receivable/configure-customer-invoices)
+ -  [إنشاء فواتير أمر المبيعات](/dynamics365/finance/accounts-receivable/tasks/create-sales-order-invoices)

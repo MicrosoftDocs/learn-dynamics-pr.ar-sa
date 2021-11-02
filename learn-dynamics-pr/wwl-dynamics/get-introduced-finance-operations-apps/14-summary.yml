@@ -4,17 +4,18 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 07/16/2021
+  ms.date: 10/18/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 4335635d80048201388676580af8ff32dc5e3cc2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 02cea39905f1a705e1acd99ebff2805e55a6996c
+  ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438766"
+  ms.lasthandoff: 10/18/2021
+  ms.locfileid: "7648490"
 azureSandbox: false
+labModal: false
 durationInMinutes: 1
 content: '[!include[](includes/14-summary.md)]'

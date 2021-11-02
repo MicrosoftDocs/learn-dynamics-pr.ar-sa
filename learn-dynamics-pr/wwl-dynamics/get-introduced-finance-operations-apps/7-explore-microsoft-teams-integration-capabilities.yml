@@ -4,17 +4,18 @@ title: استكشاف إمكانات تكامل Microsoft Teams
 metadata:
   title: استكشاف إمكانات تكامل Microsoft Teams
   description: استكشاف إمكانات تكامل Microsoft Teams
-  ms.date: 07/16/2021
+  ms.date: 10/18/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 94ab1c37658c5fcef4a29ccb3404f99eb6943487
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 8edc48ae512dd6575d2f34eb53e5bc1f3e7f0bf8
+  ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438691"
+  ms.lasthandoff: 10/18/2021
+  ms.locfileid: "7648466"
 azureSandbox: false
+labModal: false
 durationInMinutes: 5
 content: '[!include[](includes/7-explore-microsoft-teams-integration-capabilities.md)]'

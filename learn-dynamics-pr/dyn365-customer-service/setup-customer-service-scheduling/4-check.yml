@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-customer-service-scheduling.4-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a241a0a447ed603bb8286b59bd79e9b5f8d86f44
+  ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "7646469"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لمعرفة ما تعلمته.
+  questions:
+  - content: أي مما يأتي يجب تحديده لمَورد المستخدم المراد جدولته لنشاط خدمة؟
+    choices:
+    - content: فئة المَورد
+      isCorrect: false
+      explanation: تقوم فئة المورد بتجميع الموارد التي لها أدوار أو وظائف متشابهة. تعتبر فئات الموارد اختيارية وغير مطلوبة لجدولة نشاط خدمة.
+    - content: الوحدة التنظيمية
+      isCorrect: true
+      explanation: يجب إقران المَورد بوحدة تنظيمية وتعيين مواقع البدء والانتهاء الخاصة به على "عنوان الوحدة التنظيمية" حتى تتم جدولة نشاط الخدمة. يجب تعيين مواقع البدء والانتهاء لمعظم الموارد البشرية على "الوحدة التنظيمية".
+    - content: عنوان المنزل
+      isCorrect: false
+      explanation: في جدولة Customer Service، تعمل الموارد خارج مباني المؤسسة. ويلزم الاحتفاظ بعنوان المنزل في سجل المستخدم الخاص به، وليس مطلوبًا لجدولة المورد.
+    - content: ساعات العمل
+      isCorrect: false
+      explanation: ساعات العمل الافتراضية هي 24 × 7 للموارد، لذلك سيكون المورد متاحًا للجدولة إلا إذا قمت بتقييد ساعات العمل الخاصة بهم.
+  - content: أي مما يأتي يجب تحديده عند توقف مركز الخدمة؟
+    choices:
+    - content: توقف العمل
+      isCorrect: true
+      explanation: يتم استخدام مرات توقف الأعمال لتحديد الوقت الذي يتم فيه توقف تشغيل الخدمة. لن تتم جدولة المورد الذي يلاحظ توقف الأعمال في تواريخ وأوقات توقف الأعمال.
+    - content: تقويم خدمة العملاء
+      isCorrect: false
+      explanation: يتم استخدام تقويم خدمة العملاء عند تحديد مؤشرات الأداء الرئيسية لاتفاقية مستوى الخدمة. تقويمات خدمة العملاء غير مستخدمة مع جدولة Customer Service.
+    - content: جدول الإجازات
+      isCorrect: false
+      explanation: يستخدم جدول الإجازات مع تقويم خدمة العملاء عند تحديد مؤشرات الأداء الرئيسية لاتفاقية مستوى الخدمة. تقويمات جداول الإجازات غير مستخدمة مع جدولة Customer Service.
+    - content: ساعات العمل
+      isCorrect: false
+      explanation: يتم تحديد ساعات العمل للموارد لتحديد وقت توفرها، ولا يتم استخدامها عند توقف مركز الخدمة.
+  - content: أي مما يأتي يجب استخدامه لجدولة غرفة لنشاط الخدمة؟
+    choices:
+    - content: الحساب
+      isCorrect: false
+      explanation: يتم استخدام موارد الحساب لجدولة المؤسسات. وعادةً ما يتم استخدامها لمؤسسات الجهات الخارجية التي تقدم لك الخدمة حيث لا تعرف الشخص الذي سيؤدي العمل.
+    - content: جهة الاتصال
+      isCorrect: false
+      explanation: تُستخدم موارد جهات الاتصال عند جدولة الأفراد غير المستخدمين لـ Dynamics 365 أو الذين لا ينتمون إلى مؤسستك.
+    - content: المرفق
+      isCorrect: true
+      explanation: يمكن أن تكون المرافق مساحات مادية مثل أماكن الخدمة أو غرف المؤتمرات التي يمكن أن تكون مطلوبة عند الجدولة.
+    - content: الطاقم
+      isCorrect: false
+      explanation: طاقم الموارد عبارة عن مجموعة من الموارد المجدولة معًا.

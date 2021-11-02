@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.convert-prospects-sales-customers
+metadata:
+  title: تحويل العملاء المتوقعين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
+  description: ويتمثل الهدف المهم لمعظم الأعمال في تحويل العملاء المتوقعين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل العميل المتوقع إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.
+  ms.date: 10/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 979b28bf435c3a0ccb821799fd9acedfbd116d09
+  ms.sourcegitcommit: 7531d40482c9c88eb475f895743842e3981138da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/08/2021
+  ms.locfileid: "7620884"
+title: تحويل العملاء المتوقعين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nويتمثل الهدف المهم لمعظم الأعمال في تحويل العملاء المتوقعين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل العميل المتوقع إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.\n"
+abstract: "في هذه الوحدة، ستتمكن مما يأتي: \n- تعرَّف على كيفية إعداد التعيين في Dynamics 365 Sales وDynamics 365 Supply Chain Management\n- تعرَّف على كيفية مزامنة الأوامر وعروض الأسعار بين المبيعات وSupply Chain Management.\n"
+prerequisites: >
+  - المعرفة العملية بـ Supply Chain Management
+
+  - المعرفة العملية بالمبيعات
+
+  - المعرفة بالمبيعات وعمليات Supply Chain Management
+iconUrl: /learn/achievements/convert-prospects-sales-customers.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-sales
+- dynamics-finance-operations
+units:
+- learn-dynamics.convert-prospects-sales-customers.1-introduction
+- learn-dynamics.convert-prospects-sales-customers.2-prerequisites
+- learn-dynamics.convert-prospects-sales-customers.3-quotations
+- learn-dynamics.convert-prospects-sales-customers.4-orders
+- learn-dynamics.convert-prospects-sales-customers.5-dual-write
+- learn-dynamics.convert-prospects-sales-customers.6-invoices
+- learn-dynamics.convert-prospects-sales-customers.7-limitations
+- learn-dynamics.convert-prospects-sales-customers.8-check
+- learn-dynamics.convert-prospects-sales-customers.9-summary
+badge:
+  uid: learn-dynamics.convert-prospects-sales-customers.badge

@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.convert-prospects-sales-customers.8-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1587be9c03cc0e10637e3779631b8498acc1b01a
+  ms.sourcegitcommit: 7531d40482c9c88eb475f895743842e3981138da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/08/2021
+  ms.locfileid: "7620894"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لمعرفة ما تعلمته.
+  questions:
+  - content: هل تكون معالجة أوامر الإرجاع مدعومة في وظيفة العميل المتوقع إلى النقدي؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: لا يتم دعم معالجة أوامر الإرجاع أثناء استخدام وظيفة العميل المتوقع إلى النقدي في Dynamics 365.
+    - content: لا
+      isCorrect: true
+      explanation: لا يتم دعم معالجة أوامر الإرجاع أثناء استخدام وظيفة العميل المتوقع إلى النقدي في Dynamics 365.
+  - content: عند إنشاء أمر مبيعات في المبيعات أو Supply Chain Management، كم تستغرق الأنظمة للمزامنة معًا بشكل كامل؟
+    choices:
+    - content: يجب الانتظار حتى تحدث وظيفة دُفعة ليلية لإتاحة الوقت لمزامنة النظامين.
+      isCorrect: false
+      explanation: تجب مزامنة النظامين في الوقت الحقيقي تقريبًا، مع السماح لك بالوصول إلى بيانات قابلة للتنفيذ بشكل أسرع.
+    - content: ستحتاج إلى الانتظار لتأكيد المستخدم من أجل حدوث المزامنة.
+      isCorrect: false
+      explanation: ولا يلزم اتخاذ إجراءات من قِبل المستخدم لحدوث المزامنة.
+    - content: تحدث المزامنة في الوقت الحقيقي تقريبًا.
+      isCorrect: true
+      explanation: تجب مزامنة النظامين في الوقت الحقيقي تقريبًا، مع السماح لك بالوصول إلى بيانات قابلة للتنفيذ بشكل أسرع.
+  - content: عند نشر وظيفة العميل المتوقع إلى النقدي، هل ينبغي إنشاء أنظمة تسلسلات رقمية مختلفة في كل من المبيعات وSupply Chain Management؟
+    choices:
+    - content: لا، يقوم النظام تلقائيًا بمعالجة إعداد التسلسلات الرقمية الخاصة بك، ولن تحتاج إلى توفير مزيد من الإدخالات.
+      isCorrect: false
+      explanation: سيتعين عليك إنشاء نظام تسلسلات رقمية مختلف في التطبيقين، وذلك للمساعدة على التأكد من عدم تكرار رقم أمر المبيعات.
+    - content: نعم، ستحتاج إلى إنشاء تسلسلات رقمية منفصلة في كلا النظامين لتجنب التكرار.
+      isCorrect: true
+      explanation: سيتعين عليك إنشاء نظام تسلسلات رقمية مختلف في التطبيقين، وذلك للمساعدة على التأكد من عدم تكرار رقم أمر المبيعات.

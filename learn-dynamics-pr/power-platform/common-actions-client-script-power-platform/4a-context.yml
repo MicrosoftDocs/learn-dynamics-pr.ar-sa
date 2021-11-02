@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.common-actions-client-script-power-platform.4a-context
+title: كائنات السياق
+metadata:
+  title: كائنات السياق
+  description: فهم كائنات السياق المتوفرة وكيفية استخدامها عند إنشاء معالجات الأحداث واستخدام واجهة برمجة تطبيقات البرمجة النصية للعميل.
+  ms.date: 10/11/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 069b903c36751f40127198b0cfef27e8d130ded8
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625703"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4a-context.md)]

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.convert-prospects-sales-customers.7-limitations
+title: القيود
+metadata:
+  title: القيود
+  description: تعرَّف على ما لا يدعمه هذا التكامل.
+  ms.date: 10/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 45f52126d5a6825e9f197ffdb53467ee2e0c1c81
+  ms.sourcegitcommit: 7531d40482c9c88eb475f895743842e3981138da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/08/2021
+  ms.locfileid: "7620891"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-limitations.md)]"

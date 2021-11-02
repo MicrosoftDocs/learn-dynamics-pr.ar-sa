@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.schedule-customer-service-scheduling
+metadata:
+  title: جدولة الخدمات باستخدام جدولة Customer Service
+  description: يمكنك تحديد الخدمات وجدولتها باستخدام Dynamics 365 Customer Service لخدمة العملاء في مواقع المؤسسة. الاستعداد لـ MB-230.
+  ms.date: 10/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 6d65b17808ea6b1015852efe9e49d78df0393a0c
+  ms.sourcegitcommit: 784ea0ea12d2d74af667d400d1909ee9d9de4ae0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7626727"
+title: جدولة الخدمات باستخدام جدولة Customer Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يمكنك تحديد الخدمات وجدولتها باستخدام Dynamics 365 Customer Service لخدمة العملاء في مواقع المؤسسة.
+abstract: "في هذه الوحدة، ستتمكن مما يأتي:\n- التعرف على كيفية تحديد الخدمات \n- تعرف على كيفية تكوين تفضيلات التنفيذ\n- تعرّف على كيفية إنشاء أنشطة الخدمة\n- تعرَّف على كيفية جدولة أنشطة الخدمة\n"
+prerequisites: المعرفة الأساسية لتطبيق خدمة العملاء
+iconUrl: /learn/achievements/schedule-customer-service-scheduling.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.schedule-customer-service-scheduling.1-define
+- learn-dynamics.schedule-customer-service-scheduling.2-fulfillment
+- learn-dynamics.schedule-customer-service-scheduling.3-activities
+- learn-dynamics.schedule-customer-service-scheduling.4-schedule
+- learn-dynamics.schedule-customer-service-scheduling.5-check
+- learn-dynamics.schedule-customer-service-scheduling.6-summary
+badge:
+  uid: learn-dynamics.schedule-customer-service-scheduling.badge

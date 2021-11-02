@@ -4,17 +4,18 @@ title: اكتشف تخطيط موارد المؤسسة (ERP)
 metadata:
   title: اكتشف تخطيط موارد المؤسسة (ERP)
   description: اكتشف تخطيط موارد المؤسسة (ERP)
-  ms.date: 07/16/2021
+  ms.date: 10/18/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 79656a40c6c3ea6f4ac5125c75908f0a36a70040
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 66fb71c26e55c27ec537bac616ed379b923c4f3d
+  ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438768"
+  ms.lasthandoff: 10/18/2021
+  ms.locfileid: "7648530"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/2-discover-enterprise-resource-planning-erp.md)]'

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.convert-prospects-sales-customers.2-prerequisites
+title: المتطلبات الأساسية وإعدادات التعيين
+metadata:
+  title: المتطلبات الأساسية وإعدادات التعيين
+  description: تعرّف على متطلبات الإعداد لإدارة Supply Chain Management والمبيعات.
+  ms.date: 10/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ecf1c0031b5545ba7128ceb232ef2ab2d540dd80
+  ms.sourcegitcommit: 7531d40482c9c88eb475f895743842e3981138da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/08/2021
+  ms.locfileid: "7620877"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-prerequisites.md)]"

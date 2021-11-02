@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.convert-prospects-sales-customers.5-dual-write
+title: حل الكتابة المزدوجة للمبيعات
+metadata:
+  title: حل الكتابة المزدوجة للمبيعات
+  description: تعرَّف على ما يفعله حل الكتابة المزدوجة للمبيعات.
+  ms.date: 10/08/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c28e971de454ef2d563acb0c9569370b9a098236
+  ms.sourcegitcommit: 7531d40482c9c88eb475f895743842e3981138da
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/08/2021
+  ms.locfileid: "7620878"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-dual-write.md)]"

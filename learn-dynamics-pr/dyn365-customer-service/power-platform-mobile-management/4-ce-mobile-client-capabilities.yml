@@ -9,14 +9,13 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 99b52001ce2aadbbb8b29d4b460d1abc07c45ad5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e2a8c9237c842bbea03307a9a0658a8bb4aec66f
+  ms.sourcegitcommit: 8e137564e8e565fa9efe2a2114e2cfad69b1146f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7344636"
-durationInMinutes: 10
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "7645844"
+durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]
 

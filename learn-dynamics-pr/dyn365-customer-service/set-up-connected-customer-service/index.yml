@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-dynamics.connected-customer-service
+metadata:
+  title: البدء في استخدام Connected Customer Service for Dynamics 365 وAzure IoT
+  description: تدمج الوظيفة الإضافية Connected Customer Service لـ 365 Microsoft Dynamics أجهزة IoT مع 365 Customer Service Microsoft Dynamics لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء. الاستعداد لـ MB-230.
+  ms.date: 10/07/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: e36f102b31bd09a7b0114113535d4fd0a7f77431
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625608"
+title: البدء في استخدام Connected Customer Service for Dynamics 365 وAzure IoT
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تدمج الوظيفة الإضافية Connected Customer Service لـ 365 Microsoft Dynamics أجهزة IoT مع 365 Customer Service Microsoft Dynamics لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء.
+abstract: >
+  في هذه الوحدة، ستتمكن مما يأتي:
+
+  - تعرّف على Connected Customer Service
+
+  - اختيار نوع توزيع
+
+  - ‏‏تثبيت Connected Customer Service
+
+  - تعرَّف على أصول العميل وتنبيهات IoT.
+prerequisites: المعرفة الأساسية لتطبيق خدمة العملاء
+iconUrl: /learn/achievements/connected-customer-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.connected-customer-service.1-introduction
+- learn-dynamics.connected-customer-service.2-deployment
+- learn-dynamics.connected-customer-service.3-install
+- learn-dynamics.connected-customer-service.4-assets
+- learn-dynamics.connected-customer-service.5-check
+- learn-dynamics.connected-customer-service.6-summary
+badge:
+  uid: learn-dynamics.connected-customer-service.badge

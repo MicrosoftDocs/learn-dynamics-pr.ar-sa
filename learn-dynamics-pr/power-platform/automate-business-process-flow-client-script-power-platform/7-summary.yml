@@ -3,20 +3,19 @@ uid: learn-dynamics.automate-business-process-flow-client-script-power-platform.
 title: الملخص
 metadata:
   title: الملخص
-  description: راجع ما تعلمته حول أتمتة سير إجراءات العمل باستخدام البرنامج النصي للعميل‬.
-  ms.date: 07/16/2019
+  description: قم بمراجعة ما تعلمته حول أتمتة مهام سير إجراءات العمل باستخدام البرنامج النصي للعميل.
+  ms.date: 10/11/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 1b4d6df89f73df0e0ea57d2b18485ba4d698b959
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e720028ca030ce9b03246ce7ace9b62bbe233bf2
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457475"
-durationInMinutes: 2
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7624962"
+durationInMinutes: 1
 content: >-
   [!include[](../includes/unit-banner.md)]
 
