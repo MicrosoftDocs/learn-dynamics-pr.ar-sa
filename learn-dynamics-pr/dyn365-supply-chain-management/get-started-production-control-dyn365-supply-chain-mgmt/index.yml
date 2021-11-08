@@ -48,11 +48,11 @@ units:
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.11-integration-general-ledger-production
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.11-2-iot-insights
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.12-exercise-define-production-control-parameters
-- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.13-exercise-create-production-pools
-- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.14-exercise-define-ledger-posting-production
-- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.15-exercise-define-ledger-posting-resources
-- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.16-exercise-configure-item-prices
-- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.17-exercise-create-manage-resources
+#- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.13-exercise-create-production-pools
+#- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.14-exercise-define-ledger-posting-production
+#- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.15-exercise-define-ledger-posting-resources
+#- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.16-exercise-configure-item-prices
+#- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.17-exercise-create-manage-resources
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.18_get-started-production-control-quiz
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.19_get-started-production-control-summary
 badge:

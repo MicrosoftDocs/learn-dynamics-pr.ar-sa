@@ -46,9 +46,9 @@ units:
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.5-warehouse-processes
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.6-reservation-hierarchies
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.7-exercise-configure-warehouse-management
-- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.8-exercise-configure-reservation-hierarchies
-- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-exercise-configure-disposition-codes-location-directives
-- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-1-exercise-4
+#- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.8-exercise-configure-reservation-hierarchies
+#- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-exercise-configure-disposition-codes-location-directives
+#- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-1-exercise-4
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.10-configure-warehouse-management-quiz
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.11-configure-warehouse-management-summary
 badge:

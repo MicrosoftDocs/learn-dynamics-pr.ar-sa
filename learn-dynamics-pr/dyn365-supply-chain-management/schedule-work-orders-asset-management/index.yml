@@ -33,7 +33,7 @@ units:
 - learn-dynamics.schedule-work-orders-asset-management.03-schedule-dispatch
 - learn-dynamics.schedule-work-orders-asset-management.04-calculate-capacity
 - learn-dynamics.schedule-work-orders-asset-management.05-exercise-1
-- learn-dynamics.schedule-work-orders-asset-management.06-exercise-2
+#- learn-dynamics.schedule-work-orders-asset-management.06-exercise-2
 - learn-dynamics.schedule-work-orders-asset-management.07-check
 - learn-dynamics.schedule-work-orders-asset-management.08-summary
 badge:

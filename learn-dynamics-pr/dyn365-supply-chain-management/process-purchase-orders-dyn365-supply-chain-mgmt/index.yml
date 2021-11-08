@@ -49,7 +49,7 @@ units:
 - learn-dynamics.process-purchase-orders-finance.6-manage-charges-po
 - learn-dynamics.process-purchase-orders-finance.7-create-vendor-returns
 - learn-dynamics.process-purchase-orders-finance.8a-exercise
-- learn-dynamics.process-purchase-orders-finance.8-exercise
+#- learn-dynamics.process-purchase-orders-finance.8-exercise
 - learn-dynamics.process-purchase-orders-finance.9-knowledge-check
 - learn-dynamics.process-purchase-orders-finance.10-summary
 badge:

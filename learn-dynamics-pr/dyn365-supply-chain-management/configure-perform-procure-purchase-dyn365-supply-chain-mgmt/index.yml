@@ -46,8 +46,8 @@ units:
 - learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.5-evaluate-vendor-put-on-hold
 - learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.8-use-purchasing-policies
 - learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.9-exercise-create-process-purchase-requisition
-- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.10-exercise-create-process-rfq
-- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.11-exercise-create-purchase-policies
+#- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.10-exercise-create-process-rfq
+#- learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.11-exercise-create-purchase-policies
 - learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.12-configure-procure-to-purchase-quiz
 - learn-dynamics.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.13-configure-procure-to-purchase-summary
 badge:

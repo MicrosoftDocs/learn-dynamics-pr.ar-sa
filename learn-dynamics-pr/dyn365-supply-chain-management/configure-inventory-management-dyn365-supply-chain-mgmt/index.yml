@@ -56,11 +56,11 @@ units:
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-inventory-closing-adjustment
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-2-archive-inventory-transactions
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.18-exercise-create-new-warehouse-layout
-- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-0-exercise-create-costing-version-item-model-tracking-group
-- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-1-exercise-use-movement-journals
-- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-2-exercise-use-inventory-adjustment-journal
-- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-3-exercise-use-transfer-journal
-- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-4-exercise-use-counting-journal
+#- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-0-exercise-create-costing-version-item-model-tracking-group
+#- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-1-exercise-use-movement-journals
+#- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-2-exercise-use-inventory-adjustment-journal
+#- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-3-exercise-use-transfer-journal
+#- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-4-exercise-use-counting-journal
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.20-configure-inventory-management-quiz
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.21-configure-inventory-management-summary
 badge:

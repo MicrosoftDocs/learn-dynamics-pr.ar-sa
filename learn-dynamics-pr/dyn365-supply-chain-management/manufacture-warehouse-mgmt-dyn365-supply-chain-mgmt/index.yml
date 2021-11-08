@@ -36,8 +36,8 @@ units:
 - learn-dynamics.manufacture-wms-dyn365-fo.05-1-planned-cross-docking
 - learn-dynamics.manufacture-wms-dyn365-fo.06-visibility-exceptions
 - learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-input-location
-- learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-2
-- learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-3
+#- learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-2
+#- learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-3
 - learn-dynamics.manufacture-wms-dyn365-fo.08-manufacture-wms-quiz
 - learn-dynamics.manufacture-wms-dyn365-fo.09-manufacture-wms-summary
 badge:
