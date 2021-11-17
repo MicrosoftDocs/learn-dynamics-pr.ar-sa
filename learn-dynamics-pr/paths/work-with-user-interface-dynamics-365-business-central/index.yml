@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+metadata:
+  title: التعامل مع واجهة مستخدم Microsoft Dynamics 365 Business Central
+  description: هل تود الحصول على معلومات حول واجهة Business Central؟ يوضح لك مسار التعليم هذا واجهة المستخدم، وكذلك كيفية تخصيصها. ويناقش أيضاً الواجهات البديلة مثل الهاتف الذكي.
+  ms.date: 09/20/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 2dd759c985750f9f2e5e7068cac5c474fdab4cff
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748778"
+title: التعامل مع واجهة مستخدم Microsoft Dynamics 365 Business Central
+summary: هل تود الحصول على معلومات حول واجهة Business Central؟ يوضح لك مسار التعليم هذا واجهة المستخدم، وكذلك كيفية تخصيصها. ويناقش أيضاً الواجهات البديلة مثل الهاتف الذكي.
+prerequisites: >
+  - بلا
+iconUrl: /learn/achievements/work-with-user-interface-dynamics-365-business-central.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.user-interface-dynamics-365-business-central
+- learn-dynamics.personalize-ui-dynamics-365-business-central
+- learn-dynamics.alternative-interfaces-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central.trophy

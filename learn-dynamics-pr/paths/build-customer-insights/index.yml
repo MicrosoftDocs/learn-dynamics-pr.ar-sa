@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.build-customer-insights
+metadata:
+  title: إطلاق عنان مقاصد العميل مع رؤى الجمهور في Dynamics 365
+  description: اكتساب معلومات عن عميلك باستخدام رؤى الجمهور في Dynamics 365.
+  ms.date: 02/20/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: customer-insights
+  ms.openlocfilehash: 1244a807ce6675d40334143b0aa931ef683f9896
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7748788"
+title: إطلاق عنان مقاصد العميل مع رؤى الجمهور في Dynamics 365
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتوحيد بيانات العميل باستخدام موصلات مسبقة الإنشاء وتوقع مقصد العميل من خلال التقسيم المنسق والحفاظ على التحكم في بيانات عملائك. يبدأ مسار التعليم التمهيدي هذا بإنشاء ملف تعريف موحد، ثم معالجة بيانات عميلك.\n    \n"
+prerequisites: >
+  - بلا
+iconUrl: /learn/achievements/build-customer-insights.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+- administrator
+products:
+- dynamics-365
+- dynamics-cust-insights
+modules:
+- learn-dynamics.ingest-data-customer-insights
+- learn-dynamics.unified-customer-profile
+- learn-dynamics.working-with-customer-insights
+- learn-dynamics.enrich-data
+trophy:
+  uid: learn-dynamics.build-customer-insights.trophy

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-service-visualizations.3-dashboards
+title: إنشاء لوحات معلومات لـ Customer Service
+metadata:
+  title: إنشاء لوحات معلومات لـ Customer Service
+  description: تعرف على أنواع مختلفة من لوحات المعلومات وكيفية إنشاء كل نوع.
+  ms.date: 10/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a680fe1cc4cb8d759ae1ea8dd99c1ec5a29a4e91
+  ms.sourcegitcommit: cdfd906874ce7344acbc5a939cb28a91ec696aab
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "7730857"
+durationInMinutes: 18
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-dashboards.md)]"

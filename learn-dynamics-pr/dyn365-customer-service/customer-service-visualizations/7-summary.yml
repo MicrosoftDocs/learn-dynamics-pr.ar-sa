@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-service-visualizations.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص حول إنشاء الرسومات المرئية لـ Dynamics 365 Customer Service
+  ms.date: 10/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a1a49b20f457e8e1c1ee6a3232318fe96d2f1417
+  ms.sourcegitcommit: cdfd906874ce7344acbc5a939cb28a91ec696aab
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "7730833"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/7-summary.md)]

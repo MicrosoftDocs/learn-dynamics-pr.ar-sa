@@ -1,0 +1,48 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+metadata:
+  title: تكوين المبيعات والعملاء وإدارتهم في Dynamics 365 Supply Chain Management
+  description: إن عملية التعامل مع العملاء وفهم دورة حياة عملية المبيعات وإبرام اتفاقيات المبيعات كلها عوامل مهمة تؤثر في نجاح الشركة.
+  ms.date: 04/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 23bb0f486b0480ffaacd7fd22cbff981271c2355
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748785"
+title: تكوين المبيعات والعملاء وإدارتهم في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  إن عملية التعامل مع العملاء وفهم دورة حياة عملية المبيعات وإبرام اتفاقيات المبيعات كلها عوامل مهمة تؤثر في نجاح الشركة.
+prerequisites: >
+  - الفهم العام لعمليات سلاسل التوريد.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - المعرفة بإجراءات المبيعات.
+
+  - المعرفة بإدارة المخزون.
+
+  - المعرفة بإجراءات حسابات المقبوضات.
+iconUrl: /learn/achievements/configure-manage-sales-customers-in-dynamics-365-scm.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-manage-order-to-cash
+- learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops
+- learn-dynamics.configure-use-intercompany-trade
+trophy:
+  uid: learn-dynamics.configure-manage-sales-customers-in-dynamics-365-scm.trophy

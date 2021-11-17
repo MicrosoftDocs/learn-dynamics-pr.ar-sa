@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-customer-service-insights.2-configure
+title: تكوين Customer Service Insights
+metadata:
+  title: تكوين Customer Service Insights
+  description: تعرف على كيفية تكوين Customer Service Insights
+  ms.date: 10/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5a27b9d86e4fb0feeb47956b28288e563888b279
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7676511"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-configure.md)]"

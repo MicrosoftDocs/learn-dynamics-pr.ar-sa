@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+metadata:
+  title: شراء الأصناف والخدمات في Microsoft Dynamics 365 Business Central
+  description: هل تحتاج إلى إنشاء مستندات شراء مثل أوامر الشراء وفواتير الشراء؟ يوضح لك "مسار التعليم" هذا كيفية إنشاء مستندات شراء ومعالجة أشياء مثل الخصومات وتكاليف الأصناف.
+  ms.date: 10/02/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 2a0c18b9d6181e918401bc955ec27822de4bd414
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748739"
+title: شراء الأصناف والخدمات في Microsoft Dynamics 365 Business Central
+summary: هل تحتاج إلى إنشاء مستندات شراء مثل أوامر الشراء وفواتير الشراء؟ يوضح لك "مسار التعليم" هذا كيفية إنشاء مستندات شراء ومعالجة أشياء مثل الخصومات وتكاليف الأصناف.
+prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central. \n- معرفة كيفية إعداد الأصناف والموردين\n"
+iconUrl: /learn/achievements/purchase-items-services-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.create-purchase-documents-dynamics-365-business-central
+- learn-dynamics.receive-invoice-dynamics-d365-business-central
+- learn-dynamics.set-up-prices-discounts-dynamics-365-business-central
+- learn-dynamics.post-purchase-item-charges-dynamics-365-business-central
+- learn-dynamics.estimate-receipt-dates-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.purchase-items-services-dynamics-365-business-central.trophy

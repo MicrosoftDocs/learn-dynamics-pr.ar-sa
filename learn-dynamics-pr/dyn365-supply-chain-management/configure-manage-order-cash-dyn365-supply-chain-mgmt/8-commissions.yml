@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-order-to-cash.8-configure-use-commissions
+title: تكوين العمولات واستخدامها
+metadata:
+  title: تكوين العمولات واستخدامها
+  description: تعرف على كيفية تكوين العمولات واستخدامها.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/tasks/set-up-sales-commission-rules
+  ms.openlocfilehash: 21bb49fbb6b9b8202780eae8dba2768636709d42
+  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/26/2021
+  ms.locfileid: "7690986"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/8-configure-use-commissions.md)]

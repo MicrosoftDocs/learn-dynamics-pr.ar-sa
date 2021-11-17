@@ -1,0 +1,63 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.connected-customer-service-devices.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 6c750570e2751c2cac0a7ecc0875143b72e0218a
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712366"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من العناصر التالية يمكنك استخدامه لتبسيط عملية التفاعل مع أجهزة IoT من خلال تحديد الخصائص التي سيتم التفاعل معها وتعبئتها مسبقاً بالبيانات؟
+    choices:
+    - content: تعريف الأوامر
+      isCorrect: true
+      explanation: تتمتع أجهزة IoT بخصائص يمكنك التفاعل معها في إطار حل Connected Customer Service. تحدث هذه التفاعلات غالباً كأوامر الجهاز التي يتم إرسالها إلى الجهاز. ويتولى أمر الجهاز تحديد ما يجب القيام به والخصائص التي يجب تعديلها. ولتوفير الوقت، يُمكنك إنشاء تعريفات الأوامر التي ستحدد تلقائياً الأمر الذي تريد إرساله والقيم الافتراضية للخصائص المحددة التي سيتم التفاعل معها كجزء من الأمر.
+    - content: فئة الأجهزة
+      isCorrect: false
+      explanation: تساعد فئات الأجهزة في إدارة الأجهزة. على سبيل المثال، يمكنك تصنيف الأجهزة حسب الأوامر التي تدعمها، أو نوع الجهاز، أو حسب الأجهزة التي تتعطل كثيراً.
+    - content: تنبيه IoT
+      isCorrect: false
+      explanation: يتم إنشاء تنبيهات IoT عند اكتشاف حالة خارجة عن المألوف بواسطة Azure IoT.
+    - content: موفر IoT
+      isCorrect: false
+      explanation: يحتوي موفر IoT على معلومات حول كيفية اتصال Dynamics 365 بخدمة IoT المستخدمة. ويتم استخدامه بشكل أساسي في عمليات التوزيع الخاصة بمركز Azure IoT.
+  - content: لديك جهاز أطلق تنبيهاً. تريد إعادة تعيين الجهاز عن بُعد من Dynamics 365. ما الذي يجب عليك إنشائه؟
+    choices:
+    - content: تعريف الأوامر
+      isCorrect: false
+      explanation: يحتوي تعريف الأمر على المعلومات والخصائص التي يمكن استخدامها لإنشاء أمر. لا يتم إرسال تعريف الأمر إلى جهاز IoT.
+    - content: تعريف الخاصية
+      isCorrect: false
+      explanation: يحتوي تعريف الخاصية على تفاصيل المعلمة التي يمكن إرسالها إلى الجهاز. يتم استخدام تعريف الخاصية لإنشاء الرسالة التي سيتم إرسالها إلى الجهاز، ولكن لا يتم إرسالها إلى الجهاز IoT.
+    - content: أصل العميل
+      isCorrect: false
+      explanation: يمثل أصل العميل معدات العملاء التي تدعمها مؤسستك. ويرتبط أصل العميل بجهاز IoT.
+    - content: الأمر
+      isCorrect: true
+      explanation: يتم إنشاء أمر وإرساله إلى جهاز IoT. يمكنك إدخال أمر يدوياً أو إنشاء أمر من تعريفات الأوامر والخصائص.
+  - content: لقد قمت بتوزيع Connected Customer Service مع Azure IoT Central. تحتوي تنبيهات IoT على العديد من قيم بيانات تتبع الاستخدام. يجب استخراج هذه المعلومات من بيانات التنبيه لأتمتة العمليات التجارية. ماذا يجب أن تستخدم؟
+    choices:
+    - content: إجراء الإنشاء
+      isCorrect: false
+      explanation: يتم استخدام إجراء الإنشاء لإجراء تحويلات إدخال/إخراج بسيطة. لا يمكن لإجراء الإنشاء وحده استخراج المعلومات من بيانات التنبيه.
+    - content: إجراء تحليل JSON
+      isCorrect: true
+      explanation: يتم توفير بيانات التنبيه بتنسيق JSON. يسمح لك إجراء تحليل JSON باستخراج كافة عناصر البيانات باستخدام مخطط يمكنك إنشاؤه من عينة البيانات الخاصة بالتنبيه.
+    - content: سير إجراءات العمل
+      isCorrect: false
+      explanation: يقوم سير إجراءات العمل بإرشاد المستخدم لتنفيذ الخطوات التالية الخاصة به. وهو لا يتلاعب بالبيانات.
+    - content: إجراء الحصول على خصائص الجهاز
+      isCorrect: false
+      explanation: يرجع إجراء "الحصول علي خصائص الجهاز" إلى خصائص الجهاز من Azure IoT Central، وليس بيانات تتبع الاستخدام الخاصة بالجهاز.

@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-dynamics.customer-service-visualizations
+metadata:
+  title: إنشاء الرسوم المرئية لـ Dynamics 365 Customer Service
+  description: تعرف على كيفية إنشاء رسوم مرئية لبيانات Microsoft Dynamics 365 Customer Service. الاستعداد لـ MB-230.
+  ms.date: 10/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 78127c7c37b82adb7df4fff9f880a0e01bfe01cb
+  ms.sourcegitcommit: cdfd906874ce7344acbc5a939cb28a91ec696aab
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "7730825"
+title: إنشاء الرسوم المرئية لـ Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)] \nيتضمن Microsoft Dynamics 365 Customer Service ميزات عديدة لإعداد التقارير وعرض البيانات لمساعدة المستخدمين على إدارة أعباء العمل الخاصة بالحالة‬ لديهم. ستتناول هذه الوحدة الخيارات التي وفرتها Customer Service.\n"
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - راجع تقارير البيانات وخيارات الرسوم المرئية في Dynamics 365 Customer Service.
+
+  - اكتشف كيفيه إنشاء المخططات.
+
+  - تعرف على كيفية استخدام لوحات معلومات من المستوى 1 والمستوي 2 التفاعلية وإنشاءها.
+
+  - اكتشف كيفية استخدام Microsoft Power BI لعرض بيانات Dynamics 365 Customer Service.
+prerequisites: المعرفة بـ Dynamics 365 Customer Service
+iconUrl: /learn/achievements/customer-service-visualizations.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.customer-service-visualizations.1-introduction
+- learn-dynamics.customer-service-visualizations.2-charts
+- learn-dynamics.customer-service-visualizations.3-dashboards
+- learn-dynamics.customer-service-visualizations.4-report-wizard
+- learn-dynamics.customer-service-visualizations.5-power-bi
+- learn-dynamics.customer-service-visualizations.6-check
+- learn-dynamics.customer-service-visualizations.7-summary
+badge:
+  uid: learn-dynamics.customer-service-visualizations.badge

@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-jobs-resources
+metadata:
+  title: إعداد الوظائف والموارد في Microsoft Dynamics 365 Business Central
+  description: هل تود إعداد الوظائف في Dynamics 365 Business Central؟ يتناول مسار التعليم هذا كيفية إعداد الوظائف ودفاتر اليومية ومجموعات الترحيل والموارد والجداول الزمنية.
+  ms.date: 08/23/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: d7f6740360171c6be67043d63a5b8c0eb83a8480
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748749"
+title: إعداد الوظائف والموارد في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تود إعداد الوظائف في Dynamics 365 Business Central؟ يتناول مسار التعليم هذا كيفية إعداد الوظائف ودفاتر اليومية ومجموعات الترحيل والموارد والجداول الزمنية.
+prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- المعرفة بمخطط الحسابات.    \n- فهم كيفية تنظيم دفاتر اليومية.\n"
+iconUrl: /learn/achievements/set-up-jobs-resources.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.work-with-jobs-and-resources
+- learn-dynamics.set-up-job-posting-groups
+- learn-dynamics.configure-jobs-setup
+- learn-dynamics.create-journals-for-jobs
+- learn-dynamics.create-resources
+- learn-dynamics.set-up-timesheets
+trophy:
+  uid: learn-dynamics.set-up-jobs-resources.trophy

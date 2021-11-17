@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+metadata:
+  title: إعداد الإدارة المالية في Microsoft Dynamics 365 Business Central‎
+  description: هل تود استخدام Business Central للإدارة المالية؟ إذن، مسار التعلم هذا يناسبك. ويتناول إعداد السلسلة الرقمية ومراجعة الأكواد التدقيقية ومجموعات الترحيل والأبعاد ومخطط الحسابات.
+  ms.date: 08/15/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 8ed08d5ea87ea82cf66b36ef6fcbcb81d8788993
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748775"
+title: إعداد الإدارة المالية في Microsoft Dynamics 365 Business Central‎
+summary: "[!include[](../../includes/lp-banner.md)]\n\nهل تود استخدام Business Central للإدارة المالية؟ إذن، مسار التعلم هذا يناسبك. ويتناول إعداد السلسلة الرقمية ومراجعة الأكواد التدقيقية ومجموعات الترحيل والأبعاد ومخطط الحسابات. \n"
+prerequisites: >
+  - المعرفة الأساسية بكيفية التنقل في Business Central
+
+  - فهم مفاهيم المحاسبة العامة فيما يتعلق بإدارة دفتر الأستاذ العام ومخطط الحسابات
+iconUrl: /learn/achievements/set-up-financial-management-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.number-series-trail-codes-dynamics-365-business-central
+- learn-dynamics.posting-groups-dynamics-365-business-central
+- learn-dynamics.dimensions-dynamics-365-business-central
+- learn-dynamics.chart-accounts-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central.trophy

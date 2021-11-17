@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.applying-goal-management
+metadata:
+  title: تنفيذ إدارة الأهداف في Dynamics 365 Sales وCustomer Service
+  description: تعرف على كيفية إنشاء أهداف Microsoft Dynamics 365 Sales وCustomer Service.
+  ms.date: 02/05/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 4db3e39a8956153d8c946e8eabdaf3085d614921
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748792"
+title: تنفيذ إدارة الأهداف في Dynamics 365 Sales وCustomer Service
+summary: "[!include[](../../includes/lp-banner.md)]\n\nطبِّق إدارة الأهداف لتعقب الأهداف الفردية والأصلية والتابعة. حلِّل نتائج إدارة الأهداف لاتخاذ قرارات أفضل في العمل.   \n"
+prerequisites: "- المفاهيم الأساسية لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
+iconUrl: /learn/achievements/applying-goal-management-dyn365-customer-service.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-customer-service
+modules:
+- learn-dynamics.define-track-individual-goals
+- learn-dynamics.use-goal-metrics
+trophy:
+  uid: learn-dynamics.applying-goal-management-dyn365-customer-service.trophy

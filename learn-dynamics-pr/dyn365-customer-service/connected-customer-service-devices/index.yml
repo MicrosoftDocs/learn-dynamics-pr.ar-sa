@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.connected-customer-service-devices
+metadata:
+  title: تسجيل الأجهزة وإدارتها باستخدام Connected Customer Service for Dynamics 365 وAzure IoT
+  description: تعمل Connected Customer Service على تكامل أجهزة IoT مع Microsoft Dynamics 365 Customer Service لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء. إضافة إلى ذلك، يتيح تسجيل هذه أجهزة IoT ومراقبتها وإدارتها في عمليات الأعمال التي أنشأتها مؤسستك. الاستعداد لـ MB-230.
+  ms.date: 10/11/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: ee594469fa7b205242df33716c02e294bebb9a40
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712334"
+title: تسجيل الأجهزة وإدارتها باستخدام Connected Customer Service for Dynamics 365 وAzure IoT
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعمل Connected Customer Service على تكامل أجهزة IoT مع Dynamics 365 Customer Service لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء. إضافة إلى ذلك، يتيح تسجيل هذه أجهزة IoT ومراقبتها وإدارتها في عمليات الأعمال التي أنشأتها مؤسستك.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تعرف على كيفية تسجيل أجهزه IoT.
+
+  - اكتشف كيفية إنشاء تنبيهات IoT وتحويل التنبيهات إلى حالات.
+
+  - تعرف على دور (أدوار) الأمان لـ Connected Customer Service.
+
+  - اكتشف كيفية إدارة التفاعلات مع أجهزة IoT.
+
+  - تعرف على كيفية إرسال الأوامر إلى أجهزة IoT.
+prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Customer Service.
+iconUrl: /learn/achievements/connected-customer-service-devices.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn-dynamics.connected-customer-service-devices.1-devices
+- learn-dynamics.connected-customer-service-devices.2-alerts
+- learn-dynamics.connected-customer-service-devices.3-interactions
+- learn-dynamics.connected-customer-service-devices.4-commands
+- learn-dynamics.connected-customer-service-devices.5-check
+- learn-dynamics.connected-customer-service-devices.6-summary
+badge:
+  uid: learn-dynamics.connected-customer-service-devices.badge

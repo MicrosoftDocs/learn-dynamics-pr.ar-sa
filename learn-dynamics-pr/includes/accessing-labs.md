@@ -1,36 +1,37 @@
 ---
-ms.openlocfilehash: 047f5a83d44b341689c7fbcd5d91307b25dbb874990049d816eb79f94b531c82
+ms.openlocfilehash: 0d8e0f12400a0d67341d890e85adaa6c23c05ac49ac59f29e15f636d2579c7d5
 ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
-ms.contentlocale: pt-BR
+ms.contentlocale: ar-SA
 ms.lasthandoff: 08/11/2021
-ms.locfileid: "7451447"
+ms.locfileid: "7748809"
 ---
-## <a name="read-this-first---before-you-start-the-lab"></a>Leia estas informações antes de iniciar o laboratório! 
+## <a name="read-this-first---before-you-start-the-lab"></a>اقرأ هذا أولاً - قبل أن تبدء المعمل! 
 
 > [!IMPORTANT]
-> Neste laboratório, você NÃO PODE entrar usando as suas credenciais. Siga as etapas abaixo para entrar no seu ambiente de laboratório com as credenciais corretas. 
+> بالنسبة لهذا المعمل، لا يمكنك تسجيل الدخول باستخدام بيانات الاعتماد الخاصة بك. استخدم الخطوات التالية لتسجيل الدخول إلى بيئة المعمل باستخدام بيانات الاعتماد الصحيحة. 
 
-1. Selecione **Iniciar modo VM** ou **Fazer login para iniciar o modo VM** nesta unidade. 
-2. Na guia **Recursos** da barra lateral do laboratório, selecione o ícone **T** próximo a **Senha** na caixa **MININT**, para que a senha de administrador da máquina virtual seja inserida para você.
+1. حدد **تشغيل وضع VM** أو **تسجيل الدخول لتشغيل وضع VM** في هذه الوحدة. 
+2. في علامة التبويب **الموارد** على الشريط الجانبي للمعمل، حدد الرمز **T** بجوار **كلمة المرور** في الصندوق **MININT**، للحصول على كلمة مرور المسؤول للجهاز الظاهري الخاص بك.
 
-    ![Captura de tela da senha do administrador.](../includes/admin-logon-2.png)
+    ![لقطة شاشة لكلمة مرور المسؤول](../includes/admin-logon.png) 
 
-3. Pressione **Enter**. 
-4. Na janela **Redes** que é aberta, selecione **Não** para não permitir que seu computador seja detectável.
-5. Você verá uma janela do PowerShell e a janela Comando do Windows. Após cerca de dois a três minutos, elas serão fechadas e Internet Explorer será aberto automaticamente. Aguarde até que ele navegue para a página **Login** do Finance and Operations. 
-6. Na página de **login** da Microsoft no Finance and Operations, insira o cursor do mouse no campo **Nome do usuário**. 
-7. Na guia **Recursos** da barra lateral do laboratório, abaixo do título **Portal do Azure**, selecione o ícone **T** próximo ao **Nome de usuário** e pressione **Enter**. 
+3. اضغط على **إدخال**. 
+4. في نافذة **الشبكات** التي تفتح، حدد **لا** لعدم السماح باكتشاف جهاز الكمبيوتر الخاص بك.
+5. سترى نافذة PowerShell وستظهر نافذة أوامر Windows. بعد مرور دقيقتين إلى ثلاث دقائق، سيتم إغلاقها وسيفتح Internet Explorer تلقائياً. انتظر حتى ينتقل إلى صفحة **تسجيل الدخول** لـ Finance and Operations. 
+6. في صفحة **تسجيل الدخول** إلى Microsoft في Finance and Operations، أدخل مؤشر الماوس في حقل **اسم المستخدم**. 
+7. في علامة التبويب **الموارد** للشريط الجانبي للمعمل، أسفل عنوان **مدخل Azure**، حدد رمز **T** بجوار **اسم المستخدم**، ثم اضغط على **إدخال**. 
 
-    ![Captura de tela do campo do nome de usuário na guia Recursos.](../includes/username-2.png)
+    ![لقطة شاشة لحقل "اسم المستخدم"](../includes/username.png) 
 
-8. Agora, o cursor do mouse estará na página **Senha**.
-9. Na guia **Recursos** da barra lateral do laboratório, abaixo do título **Portal do Azure**, selecione o ícone **T** para selecionar **Senha** e pressione **Enter**. 
+8. سيكون مؤشر الماوس الآن في صفحة **كلمه المرور**.
+9. في علامة التبويب **الموارد** للشريط الجانبي للمعمل، أسفل عنوان **مدخل Azure**، حدد رمز **T** لتحديد **كلمة المرور**، ثم اضغط على **إدخال**. 
 
-    ![Captura de tela do campo de senha na guia Recursos.](../includes/password-2.png)
 
-10. Não fique conectado ou salve a senha na máquina virtual. 
+    ![لقطة شاشة لحقل "كلمة المرور".](../includes/password.png) 
 
-11. Para ver as instruções do laboratório, selecione a guia **Instruções** na barra lateral do laboratório.
+10. لا تظل مسجلاً للدخول، أو تخزن كلمة المرور على الجهاز الظاهري. 
 
-Agora você pode iniciar seu trabalho neste laboratório. 
+11. للاطلاع على تعليمات المعمل، حدد علامة التبويب **التعليمات** على الشريط الجانبي للمعمل.
+
+يمكنك الآن أن تبدأ عملك في هذا المعمل. 

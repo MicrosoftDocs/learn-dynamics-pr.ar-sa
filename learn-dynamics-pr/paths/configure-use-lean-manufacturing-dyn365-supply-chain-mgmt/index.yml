@@ -1,0 +1,50 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-and-use-lean-manufacturing-in-d365-finance-ops
+metadata:
+  title: تكوين lean manufacturing واستخدامه في Dynamics 365 Supply Chain Management
+  description: إن Lean manufacturing عبارة عن رحلة من التحسين المستمر. والهدف هو إنتاج ما يريده العميل بالضبط، عندما يريده العميل، وتنفيذه بطريقة اقتصادية. يمكنك استخدام lean manufacturing في بيئة تصنيع موحدة (مختلطة الوضع) تجمع بين العديد من استراتيجيات التوريد والإنتاج والاستعانة بالمصادر. تتضمن هذه الاستراتيجيات أوامر الإنتاج وأوامر الدُفعات للصناعات التحويلية وأوامر الشراء وأوامر النقل. تتكون بنية lean manufacturing في Dynamics 365 Supply Chain Management من تدفقات الإنتاج والأنشطة وقواعد كانبان.
+  ms.date: 04/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 58e4d87261c10d7e470ab04faeb362b32808341e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748733"
+title: تكوين lean manufacturing واستخدامه في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  إن Lean manufacturing عبارة عن رحلة من التحسين المستمر. والهدف هو إنتاج ما يريده العميل بالضبط، عندما يريده العميل، وتنفيذه بطريقة اقتصادية. يمكنك استخدام lean manufacturing في بيئة تصنيع موحدة (مختلطة الوضع) تجمع بين العديد من استراتيجيات التوريد والإنتاج والاستعانة بالمصادر. تتضمن هذه الاستراتيجيات أوامر الإنتاج وأوامر الدُفعات للصناعات التحويلية وأوامر الشراء وأوامر النقل. تتكون بنية lean manufacturing في Dynamics 365 Supply Chain Management من تدفقات الإنتاج والأنشطة وقواعد كانبان.
+prerequisites: >
+  - الفهم العام بعمليات التصنيع.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - فهم كيفية التعامل مع إدارة المخزون.
+
+  - فهم كيفية التعامل مع إدارة المستودعات.
+iconUrl: /learn/achievements/configure-and-use-lean-manufacturing-in-d365-finance-ops.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops
+- learn-dynamics.get-started-with-lean-manufacturing
+- learn-dynamics.configure-lean-manufacturing
+- learn-dynamics.create-process-fixed-kanbans
+- learn-dynamics.create-process-event-kanban-rules
+- learn-dynamics.create-process-scheduled-kanbans
+- learn-dynamics.configure-activity-based-subcontracting-production-flow-costing-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.configure-and-use-lean-manufacturing-in-d365-finance-ops.trophy

@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.process-financial-periodic-activities-dynamics-365-business-central
+metadata:
+  title: معالجة الأنشطة الدورية المالية في Microsoft Dynamics 365 Business Central
+  description: هل أنت مسؤول عن عمليات إقفال الفترة وإقفال نهاية السنة؟ أكمل هذه الوحدة، التي تناقش كيفية إرسال رسائل التذكير ومذكرات التكاليف المالية إلى العملاء. كما تناقش معالجة نظام جمع المعلومات التجارية بين دول الاتحاد الأوروبي وإعداد التقارير وإقفال السنة المالية.
+  ms.date: 09/17/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 7262044961dd302b768493a283b7b15b2d11627d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748767"
+title: معالجة الأنشطة الدورية المالية في Microsoft Dynamics 365 Business Central
+summary: هل أنت مسؤول عن عمليات إقفال الفترة وإقفال نهاية السنة؟ أكمل هذه الوحدة، التي تناقش كيفية إرسال رسائل التذكير ومذكرات التكاليف المالية إلى العملاء. كما تناقش معالجة نظام جمع المعلومات التجارية بين دول الاتحاد الأوروبي وإعداد التقارير وإقفال السنة المالية.
+prerequisites: >
+  - الفهم الجيد لتطبيق Business Central ومخطط الحسابات
+
+  - الفهم الأساسي لفاتورة العميل وعمليات الدفع في Business Central
+iconUrl: /learn/achievements/process-financial-periodic-activities-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.send-reminders-dynamics-365-business-central
+- learn-dynamics.send-memos-dynamics-365-business-central
+- learn-dynamics.process-intrastat-dynamics-365-business-central
+- learn-dynamics.close-fiscal-year-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.process-financial-periodic-activities-dynamics-365-business-central.trophy

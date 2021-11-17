@@ -3,17 +3,17 @@ uid: learn-dynamics.setup-customer-service-scheduling.3-resources
 title: تحديد الموارد
 metadata:
   title: تحديد الموارد
-  description: تعرَّف على كيفية تحديد الموارد
+  description: تعرف على كيفية تحديد الموارد.
   ms.date: 10/12/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 644a1591499d44dcaf96ba4e8b7535be7f66043f
-  ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
+  ms.openlocfilehash: 63466d6972ef9c0ca17becf869d571009f31a69f
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/15/2021
-  ms.locfileid: "7646471"
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7675099"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,18 +1,22 @@
 ---
-ms.openlocfilehash: 034f5c58977d8b06dbdd1427ac13ead9d73c34f4
-ms.sourcegitcommit: 98ea39ffd9164b859d87a9651de53c5a426adf5d
+ms.openlocfilehash: 47e43850b6525feb6e946b77781bd560f1ef8483
+ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "7457627"
+ms.lasthandoff: 11/01/2021
+ms.locfileid: "7729278"
 ---
 يمكنك إنشاء تدفقات بيانات Microsoft Power Platform من الاستعلامات في أوراق عمل Microsoft Excel للاستفادة من تدفقات البيانات المدعومة من السحابة التي تقوم بتحديث البيانات ومعالجتها على فترات منتظمة بدلاً من إجراء هذه العمليات يدويًا في Excel.
 
 يمكن أن يكون العمل مع مجموعات البيانات الكبيرة أو الاستعلامات طويلة الأمد مرهقًا في كل مرة يتعين عليك فيها تشغيل تحديث البيانات يدويًا في Excel لأنه يأخذ موارد من جهاز الكمبيوتر لديك للقيام بذلك، وعليك الانتظار حتى يتم إجراء الحساب للحصول على أحدث البيانات . يعد نقل عمليات البيانات هذه إلى تدفق بيانات Power Platform طريقة فعالة لتحرير موارد الكمبيوتر الخاص بك ولإتاحة أحدث البيانات بسهولة لتستهلكها في Excel.
 
 ## <a name="exporting-queries-in-excel-to-a-power-query-template"></a>تصدير الاستعلامات في Excel إلى قالب Power Query
+    
+>[!NOTE]
+>يتوفر تصدير القوالب التالية لمستخدمي Office Insider فقط.
 
 تتمثل الخطوة الأولى في إنشاء قالب Power Query باستخدام استعلاماتك في Excel.
+    
 
 1. ابدأ تشغيل محرر Power Query من علامة التبويب البيانات > الحصول على البيانات > **تشغيل محرر Power Query**.
 

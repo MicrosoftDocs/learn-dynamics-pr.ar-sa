@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+metadata:
+  title: بيع الأصناف والخدمات في Microsoft Dynamics 365 Business Central
+  description: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
+  ms.date: 10/22/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 3bc867f361920722a663baf5b83af9baa018dd48
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748774"
+title: بيع الأصناف والخدمات في Microsoft Dynamics 365 Business Central
+summary: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
+prerequisites: >
+  - الفهم الأساسي لكيفية التنقل في Dynamics 365 Business Central.
+
+  - فهم كيفية إعداد الأصناف والعملاء في Business Central
+iconUrl: /learn/achievements/sell-items-services-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.create-sales-documents-dynamics-365-business-central
+- learn-dynamics.ship-invoice-items-dynamics-365-business-central
+- learn-dynamics.manage-sales-prices-dynamics-365-business-central
+- learn-dynamics.customer-discounts-dynamics-365-business-central
+- learn-dynamics.promising-sales-order-delivery-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.sell-items-services-dynamics-365-business-central.trophy

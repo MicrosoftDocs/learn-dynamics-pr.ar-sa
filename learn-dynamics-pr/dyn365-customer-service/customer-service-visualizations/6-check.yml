@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-service-visualizations.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8b9bf7e9eebc5b98c0c1ed9f158fa4aafa8b1467
+  ms.sourcegitcommit: cdfd906874ce7344acbc5a939cb28a91ec696aab
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "7730897"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: ما الذي يجب عليك فعله قبل إضافة الإطارات المتجانية لـ Power BI إلى Dynamics 365 Customer Service؟
+    choices:
+    - content: إنشاء لوحة معلومات تفاعلية
+      isCorrect: false
+      explanation: تحتوي لوحات المعلومات التفاعلية فقط على عمليات دفق لبيانات Dynamics 365. تتعذر إضافة الإطارات المتجانبة لـ Power BI إلى لوحة معلومات تفاعلية.
+    - content: إنشاء مساحة عمل
+      isCorrect: false
+      explanation: تُستخدم مساحات العمل في Power BI للتعاون في إنشاء تقارير ولوحات معلومات. ستظهر لوحة المعلومات والإطارات المتجانبة لـ Power BI في مساحة عمل بالفعل. حدد مساحة العمل هذه عند إضافة الإطار المتجانب إلى Dynamics 365.
+    - content: تمكين تضمين مرئيات Power BI
+      isCorrect: true
+      explanation: قم بتمكين تضمين مرئيات Power BI إضافة التقرير أو لوحة المعلومات أو الإطار الجانبي الخاص بـ Power BI إلى Dynamics 365.
+    - content: ‏‏تثبيت Power BI Desktop
+      isCorrect: false
+      explanation: Power BI Desktop عبارة عن تطبيق مخصص لإنشاء تقارير Power BI. ويمكنك استخدام خدمة Power BI مع Dynamics 365، وليس Power BI Desktop.
+  - content: ما الذي ينبغي لك إنشاؤه لمساعدة المستخدمين الذين يتعاملون مع الحالات المتصاعدة؟
+    choices:
+    - content: المخطط
+      isCorrect: false
+      explanation: يمكن للمخطط توفير معلومات فقط حول مجموعة فرعية صغيرة من بيانات الحالة.
+    - content: قالب ‏‫Excel‬
+      isCorrect: false
+      explanation: يمكن استخدام قوالب Excel لإظهار مجموعة من المرئيات على بيانات الحالة، ولكنها لا تسمح للمستخدم بالعمل على البيانات.
+    - content: لوحة المعلومات أحادية الدفق
+      isCorrect: true
+      explanation: تعرض لوحة المعلومات أحادية الدفق بيانات لجدول واحد، في حالة هذا السيناريو، وستسمح للمستخدم بتصفية الإجراءات وتنفيذها في الحالات، بما في ذلك إرسال رسائل البريد الإلكتروني وحل الحالة.
+    - content: لوحة المعلومات متعددة الدفق
+      isCorrect: false
+      explanation: تعرض لوحة المعلومات متعددة الدفق بيانات لجداول متعددة. ويشيع استخدام لوحة المعلومات أحادية الدفق عند وجود العديد من مصادر المعلومات التي يحتاج المستخدم إلى مراقبتها، مثل رسائل البريد الإلكتروني والمكالمات الهاتفية والحالات وقوائم الانتظار.
+  - content: ويجب عليك إنشاء ناتج في صورة رسومات منسقة لقائمة من الحالات التي يمكن حفظها في صورة ملف PDF. ماذا يجب أن تستخدم؟
+    choices:
+    - content: المخطط
+      isCorrect: false
+      explanation: يتعذر حفظ صورة المخطط أو طباعتها؛ يمكن عرضها فقط داخل تطبيق Dynamics 365.
+    - content: لوحة المعلومات التفاعلية
+      isCorrect: false
+      explanation: لا تحتوي لوحات المعلومات التفاعلية على وظيفة تصدير؛ ويمكن عرضها فقط داخل تطبيق Dynamics 365.
+    - content: معالج التقارير
+      isCorrect: true
+      explanation: يستطيع معالج التقارير إنشاء ناتج في صورة جدول مرقَّم مع مرئيات مخطط يمكن حفظها في العديد من التنسيقات، بما في ذلك PDF.
+    - content: قالب Word
+      isCorrect: false
+      explanation: ينتج قالب Word فقط ناتجاً لسجل واحد فقط.

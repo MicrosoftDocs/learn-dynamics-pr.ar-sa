@@ -1,0 +1,61 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-success-design
+metadata:
+  title: استخدام حلول تطبيقات Success by Design for Dynamics 365
+  description: تم تصميم FastTrack for Dynamics 365 بهدف مساعدة العملاء والشركاء على نجاح توزيع حول Dynamics 365.  لتقديم هذه الخدمة، ينبغي على مهندسي الحلول استخدام Success by Design. يناقش مسار التعليم هذا مفاهيم Success by Design.
+  ms.date: 08/16/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: c1d8137d454d52f2d20381a44e4c77ebaa9a1bb0
+  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7748802"
+title: استخدام حلول Success by Design for Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تم تصميم FastTrack for Dynamics 365 بهدف مساعدة العملاء والشركاء على نجاح توزيع حول Dynamics 365. لتقديم هذه الخدمة، ينبغي على مهندسي الحلول استخدام Success by Design. يناقش مسار التعليم هذا مفاهيم Success by Design.
+prerequisites: >
+  - المعرفة الواسعة بالمستشار الوظيفي والمطور
+
+  - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
+
+  - [تنزيل أمثلة القوالب](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true) لجميع ورش عمل الوحدة
+iconUrl: /learn/achievements/use-success-design.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-marketing
+- dynamics-customer-service
+- dynamics-field-service
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-project-operations
+- dynamics-commerce
+- dynamics-human-resources
+modules:
+- learn-dynamics.success-by-design
+- learn-dynamics.solution-blueprint
+- learn-dynamics.test-strategy
+- learn-dynamics.data-models
+- learn-dynamics.bi-analytics-design-dynamics-365
+- learn-dynamics.gap-solution-design-dynamics-365
+- learn-dynamics.data-migration
+- learn-dynamics.fast-track-security
+- learn-dynamics.integration
+- learn-dynamics.dual-write-dynamics-365
+- learn-dynamics.solution-performance
+- learn-dynamics.cutover-strategy-dynamics-365
+- learn-dynamics.post-go-live-dynamics-365
+trophy:
+  uid: learn-dynamics.use-success-design.trophy

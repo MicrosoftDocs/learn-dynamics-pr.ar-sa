@@ -1,0 +1,47 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-and-use-process-manufacturing-in-d365-finance-ops
+metadata:
+  title: تكوين التصنيع التحويلي واستخدامه في Dynamics 365 Supply Chain Management
+  description: يرتبط التصنيع التحويلي بالمعادلات ووصفات التصنيع، على عكس التصنيع المنفصل، والذي يستخدم وحدات منفصلة وقوائم مكونات أصناف. يُستخدم التصنيع التحويلي في بيئات التصنيع حيث يتم إكمال الإنتاج على دُفعات أو عمليات شبه مستمرة.
+  ms.date: 04/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: d813b7a962617e0ec6aab56b91f808975c4b63a1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748752"
+title: تكوين التصنيع التحويلي واستخدامه في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يرتبط التصنيع التحويلي بالمعادلات ووصفات التصنيع، على عكس التصنيع المنفصل، والذي يستخدم وحدات منفصلة وقوائم مكونات أصناف. يُستخدم التصنيع التحويلي في بيئات التصنيع حيث يتم إكمال الإنتاج على دُفعات أو عمليات شبه مستمرة.
+prerequisites: >
+  - الفهم العام بعمليات التصنيع.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - المعرفة بإدارة المخزون.
+
+  - المعرفة بإدارة المستودعات.
+iconUrl: /learn/achievements/configure-and-use-process-manufacturing-in-dynamics-365-for-finance-ops.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops
+- learn-dynamics.configure-process-manufacturing-in-dynamics-365-finance-ops
+- learn-dynamics.identify-configure-batch-attributes-for-process-manufacturing
+- learn-dynamics.work-with-commodity-pricing-compliance
+trophy:
+  uid: learn-dynamics.configure-and-use-process-manufacturing-in-dynamics-365-for-finance-ops.trophy

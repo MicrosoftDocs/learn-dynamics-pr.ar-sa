@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.unified-routing.3-queues
+title: تعيين قوائم الانتظار والمستخدمين والقدرة على توجيه سجل موحد
+metadata:
+  title: تعيين قوائم الانتظار والمستخدمين والقدرة على توجيه سجل موحد
+  description: تعرف على كيفية تمكين قوائم الانتظار والمستخدمين من أجل التوجيه الموحد وكيفية إدارة القدرة.
+  ms.date: 10/19/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8324ba1dab5e032591657fe755a94f742851a846
+  ms.sourcegitcommit: 29aa020ed042aa4fa920d116563fa3fd06cf5ece
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/29/2021
+  ms.locfileid: "7725558"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-queues.md)]"

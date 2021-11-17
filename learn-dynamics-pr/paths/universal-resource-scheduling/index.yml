@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.universal-resource-scheduling
+metadata:
+  title: مسار تعليم Universal Resource Scheduling في Microsoft Dynamics 365 for Field Service
+  description: يمكنك جدولة أي شيء إلى المورد المناسب لأي وظيفة أو مهمة بسهولة.  Universal Resource Scheduling (URS) هو أحد حلول Dynamics 365 for Customer Engagement الذي يسمح للمؤسسات من المجالات المختلفة بسيناريوهات مختلفة.
+  ms.date: 02/01/2019
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: e5113a3693fd8178ec9cc0d495ba8835d81a7c12
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748766"
+title: Universal Resource Scheduling في Microsoft Dynamics 365 for Field Service
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيمكنك جدولة أي شيء إلى المورد المناسب لأي وظيفة أو مهمة بسهولة.  Universal Resource Scheduling (URS) هو أحد حلول Dynamics 365 for Customer Engagement الذي يسمح للمؤسسات من المجالات المختلفة بسيناريوهات مختلفة.  \n"
+prerequisites: >
+  - تشكل تجربة تطبيق Microsoft Dynamics 365 فائدة كبيرة.
+iconUrl: /learn/achievements/universal-resource-scheduling-for-microsoft-dynamics-365.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+modules:
+- learn-bizapps.urs-configure-bookable-resources
+- learn-bizapps.urs-manage-scheduling-options
+- learn-bizapps.urs-customize-the-schedule-board
+- learn-dynamics.deploy-resource-scheduling-optimization
+- learn-dynamics.leveraging-resource-scheduling-optimization
+- learn-bizapps.urs-schedule-resource-pools-crew-and-facilities
+trophy:
+  uid: learn.field-service-universal-resource-scheduling.trophy

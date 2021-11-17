@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-dynamics.customer-voice-service-feedback
+metadata:
+  title: جمع تعليقات العميل باستخدام Dynamics 365 Customer Voice
+  description: تعرف على كيفية طلب تعليقات العميل وتجميعها باستخدام Microsoft Dynamics 365 Customer Voice.
+  ms.date: 10/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2085e93660957c6cd83b4d1e45009b2c256a6e9f
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712724"
+title: جمع تعليقات العميل باستخدام Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية طلب تعليقات العميل وتجميعها باستخدام Dynamics 365 Customer Voice.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تحسين العلاقات مع العملاء عن طريق مراجعة بيانات التعليقات.\n- تعرف على كيفية استخدام القوالب الموجودة Customer Voice لإنشاء المشروعات والاستبيانات ورسائل البريد الإلكتروني.\n- اكتشف كيفية جمع التعليقات باستخدام Microsoft Power Automate والقناة متعددة الاتجاهات لـ Customer Service وCustomer Service Insights.\n- تعرف على كيفية استخدام Customer Voice لفهم احتياجات العملاء ومتطلباتهم.\n"
+prerequisites: المعرفة الأساسية بـ Dynamics 365 Sales وDynamics 365 Customer Service والقناة متعددة الاتجاهات لـ Customer Service وCustomer Service Insights وMicrosoft Power Platform
+iconUrl: /learn/achievements/customer-voice-service-feedback.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-customer-service
+units:
+- learn-dynamics.customer-voice-service-feedback.1-introduction
+- learn-dynamics.customer-voice-service-feedback.2-support-template
+- learn-dynamics.customer-voice-service-feedback.3-survey-variables
+- learn-dynamics.customer-voice-service-feedback.4-send-surveys
+- learn-dynamics.customer-voice-service-feedback.5-satisfaction-metrics
+- learn-dynamics.customer-voice-service-feedback.6-post-chat-surveys
+- learn-dynamics.customer-voice-service-feedback.7-exercise
+- learn-dynamics.customer-voice-service-feedback.8-check
+- learn-dynamics.customer-voice-service-feedback.9-summary
+badge:
+  uid: learn-dynamics.customer-voice-service-feedback.badge

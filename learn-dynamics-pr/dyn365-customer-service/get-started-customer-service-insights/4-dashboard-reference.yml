@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-customer-service-insights.4-dashboard-reference
-title: استخدام لوحات معلومات تحليلات Customer Service Insight.
+title: اكتشاف لوحات معلومات Customer Service Insights
 metadata:
-  title: استخدام لوحات معلومات تحليلات Customer Service Insight.
-  description: تعرّف على كيفية العمل مع لوحات معلومات "Customer Service Insights".
-  ms.date: 07/31/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  title: اكتشاف لوحات معلومات Customer Service Insights
+  description: تعرّف على كيفية العمل مع لوحات معلومات Customer Service Insights.
+  ms.date: 10/22/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 81afc03fcc7418bc50ba2b8cdb4cc07d99b5b253
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5972a5f09af86d21a4eb17bc3052f0c362c0bd55
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364397"
-durationInMinutes: 8
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7675580"
+durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-dashboard-reference.md)]"

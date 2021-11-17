@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-voice-service-feedback.6-post-chat-surveys
+title: إعداد استطلاعات ما بعد الدردشة
+metadata:
+  title: إعداد استطلاعات ما بعد الدردشة
+  description: تعرف على كيفية إعداد استطلاعات ما بعد الدردشة باستخدام القناة متعددة الاتجاهات لـ Customer.
+  ms.date: 10/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f08ece326434e343fa678b14b6780fb6e4a7323c
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712737"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-post-chat-surveys.md)]"

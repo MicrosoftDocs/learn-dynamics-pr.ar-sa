@@ -1,0 +1,50 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-and-use-discrete-manufacturing-in-d365-finance-ops
+metadata:
+  title: تكوين التصنيع المنفصل في Dynamics 365 Supply Chain Management واستخدامه
+  description: إذا كانت الشركة تنتج منتجات بسيطة فقط، فيمكن جدولة عملية الإنتاج يدوياً باستخدام قطع قائمة مكونات الصنف (BOM) الصحيحة التي تصل إلى صالة الإنتاج‬، في الوقت المناسب وعند المورد المناسب. بصفتك مستشاراً وظيفياً للتصنيع، فأنت بحاجة إلى معرفة كيفية تكوين Dynamics 365 Supply Chain Management للتصنيع المنفصل، بحيث يمكن لعميلك أداء دورة حياة الإنتاج والتحكم فيها.
+  ms.date: 04/24/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: a845e77cd96d0ce1f0566ce5a97259203452352c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748751"
+title: تكوين التصنيع المنفصل في Dynamics 365 Supply Chain Management واستخدامه
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  إذا كانت الشركة تنتج منتجات بسيطة فقط، فيمكن جدولة عملية الإنتاج يدوياً باستخدام قطع قائمة مكونات الصنف (BOM) الصحيحة التي تصل إلى صالة الإنتاج‬، في الوقت المناسب وعند المورد المناسب. بصفتك مستشاراً وظيفياً للتصنيع، فأنت بحاجة إلى معرفة كيفية تكوين Dynamics 365 Supply Chain Management للتصنيع المنفصل، بحيث يمكن لعميلك أداء دورة حياة الإنتاج والتحكم فيها.
+prerequisites: >
+  - الفهم العام بعمليات التصنيع.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - فهم كيفية التعامل مع إدارة المخزون.
+
+  - فهم كيفية التعامل مع إدارة المستودعات.
+iconUrl: /learn/achievements/configure-and-use-discrete-manufacturing-in-microsoft-dynamics-for-finance-and-operations.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops
+- learn-dynamics.get-started-discrete-manufacturing-in-dynamics-365-finance-ops
+- learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops
+- learn-dynamics.work-with-costing-sheet-dynamics-365-finance-ops
+- learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops
+- learn-dynamics.work-with-manufacturing-execution
+- learn-dynamics.get-started-product-configuration
+trophy:
+  uid: learn-dynamics.configure-and-use-discrete-manufacturing-in-microsoft-dynamics-for-finance-and-operations.trophy

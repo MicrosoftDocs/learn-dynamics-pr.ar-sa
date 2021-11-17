@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.post-job-usage-sales
+metadata:
+  title: ترحيل استخدام الوظيفة والمبيعات في Microsoft Dynamics 365 Business Central
+  description: هل تقوم بإدارة الوظائف والتكاليف والمبيعات المرتبطة بالوظائف؟ إذا كنت تود تنفيذ ذلك في Business Central، فسيركز هذا المسار على هذه الموضوعات.
+  ms.date: 09/04/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 5192975942d3beaf27c054bab5a0f824b23fa0f4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748781"
+title: ترحيل استخدام الوظيفة والمبيعات في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تقوم بإدارة الوظائف والتكاليف والمبيعات المرتبطة بالوظائف؟ إذا كنت تود تنفيذ ذلك في Business Central، فسيركز هذا المسار على هذه الموضوعات.
+prerequisites: >
+  - الفهم الأساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 Business Central.
+
+  - فهم المفاهيم والأساليب الأساسية لتكلفة المخزون
+iconUrl: /learn/achievements/post-job-usage-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.post-job-usage
+- learn-dynamics.update-job-item-cost
+- learn-dynamics.post-job-sales
+trophy:
+  uid: learn-dynamics.post-job-usage-sales.trophy

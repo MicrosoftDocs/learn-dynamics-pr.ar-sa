@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-voice-service-feedback.3-survey-variables
+title: تخصيص قوالب البريد الإلكتروني مع متغيرات الاستطلاع
+metadata:
+  title: تخصيص قوالب البريد الإلكتروني مع متغيرات الاستطلاع
+  description: تعرف على كيفية تخصيص قوالب البريد الإلكتروني باستخدام متغيرات الاستطلاع.
+  ms.date: 10/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0543c2afd72ced48d2e789a5638552d07e8d7001
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712730"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-survey-variables.md)]"

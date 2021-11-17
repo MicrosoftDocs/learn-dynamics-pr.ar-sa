@@ -1,22 +1,25 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.working-with-option-sets.3-exercise
-title: تمرين - كيفية إنشاء اختيار جديد أو تعديل اختيار موجود.
+title: المعمل - إنشاء اختيار جديد أو تعديل اختيار موجود
+labId: 107543
 metadata:
-  title: تمرين - كيفية إنشاء اختيار جديد أو تعديل اختيار موجود.
+  title: المعمل - إنشاء اختيار جديد أو تعديل اختيار موجود
   description: تعرف على كيفية إنشاء اختيار جديد أو تعديل اختيار موجود.
-  ms.date: 06/29/2021
+  ms.date: 10/21/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: faefde97bf85bcec0228e3524fbb572ae5f5f940
-  ms.sourcegitcommit: e7404359ba7d666c707e678889b51f9cd0110c00
+  ms.openlocfilehash: 5aceb9bdeb7112d7851a95fa34252ee6c860a2b6
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2021
-  ms.locfileid: "7470388"
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7675596"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/power-apps-accessing-labs.md)]
 
   [!include[](includes/3-exercise.md)]

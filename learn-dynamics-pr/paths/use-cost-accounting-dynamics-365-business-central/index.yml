@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-cost-accounting-dynamics-365-business-central
+metadata:
+  title: استخدام محاسبة التكاليف في Microsoft Dynamics 365 Business Central
+  description: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
+  ms.date: 08/30/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: da30f2c43e4a63df6d94665baea328f2ce928ce3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748759"
+title: استخدام محاسبة التكاليف في Microsoft Dynamics 365 Business Central
+summary: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
+prerequisites: >
+  - الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central.
+
+  - فهم وظيفة مخطط الحسابات والمعرفة الأساسية لمحاسبة التكاليف
+iconUrl: /learn/achievements/use-cost-accounting-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.cost-accounting-dynamics-365-business-central
+- learn-dynamics.master-data-dynamics-365-business-central
+- learn-dynamics.transfer-gl-entries-dynamics-365-business-central
+- learn-dynamics.allocate-costs-dynamics-365-business-central
+- learn-dynamics.cost-accounting-reports-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.use-cost-accounting-dynamics-365-business-central.trophy

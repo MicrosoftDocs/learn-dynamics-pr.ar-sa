@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-asset-management-dyn365-supply-chain-mgmt
+metadata:
+  title: تكوين "إدارة الأصول" لــ Dynamics 365 Supply Chain Management
+  description: تكوين الوظيفة الإضافية "إدارة الأصول" لــ Dynamics 365 Supply Chain Management.
+  ms.date: 04/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 189f762f5af02c6a800fe41018a1dbe848320420
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748787"
+title: تكوين "إدارة الأصول" لــ Dynamics 365 Supply Chain Management
+summary: "[!include[](../../includes/lp-banner.md)]\nتعد \"إدارة الأصول\" وظيفة إضافية لـ Dynamics 365 Supply Chain Management، والتي يتم استخدامها لإدارة الأصول المستخدمة في التشغيل اليومي للشركة. بعض أمثلة هذه الأنواع من الأصول عبارة عن آلات ومعدات إنتاج ورافعات شوكية. \n"
+prerequisites: >
+  - المعرفة العامة بإدارة الأصول وعمليات supply chain management.
+iconUrl: /learn/achievements/configure-asset-mgmt-dyn365-supply-chain-mgmt.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-asset-management
+- learn-dynamics.setup-functional-locations-asset-management
+- learn-dynamics.setup-assets-asset-management
+- learn-dynamics.setup-work-orders-asset-management
+- learn-dynamics.setup-maintenance-asset-management
+trophy:
+  uid: learn-dynamics.configure-asset-mgmt-dyn365-supply-chain-mgmt.trophy

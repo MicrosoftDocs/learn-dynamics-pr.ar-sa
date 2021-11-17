@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-warehouse-tasks
+metadata:
+  title: إعداد مهام المستودعات في Microsoft Dynamics 365 Business Central‎
+  description: تتوفر بعض مهام المستودعات لإدارة المخزون حتى إذا لم تستخدم وظائف إدارة المستودعات الكاملة في Business Central. يركز هذا المسار على هذه الوظائف الأساسية.
+  ms.date: 09/16/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: c54437b72c33e62dbe0090fd62d9457279ace20a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748762"
+title: إعداد مهام المستودعات في Microsoft Dynamics 365 Business Central‎
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تتوفر بعض مهام المستودعات لإدارة المخزون حتى إذا لم تستخدم وظائف إدارة المستودعات الكاملة في Business Central. يركز هذا المسار على هذه الوظائف الأساسية.
+prerequisites: >
+  - فهم أساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central.
+
+  - معرفة عمليات المبيعات والشراء في Business Central
+
+  - المعرفة الأساسية بعمليات المستودعات
+iconUrl: /learn/achievements/set-up-warehouse-tasks.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.set-up-basic-warehouse-tasks
+- learn-dynamics.receive-put-away-items
+- learn-dynamics.manage-internal-warehouse-processes
+- learn-dynamics.pick-ship-items
+trophy:
+  uid: learn-dynamics.set-up-warehouse-tasks.trophy

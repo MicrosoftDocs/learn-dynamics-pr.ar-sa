@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.build-reports
+metadata:
+  title: إنشاء تقارير لـ Microsoft Dynamics 365 Business Central
+  description: هل تريد إعداد التقارير أو تعديلها من أجل Business Central؟ يساعد هذا المسار على فهم كيفية إنشاء التقارير وتعديلها.
+  ms.date: 08/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: bf04d732802453fa8ff1d8bb2be1b30af0eefcce
+  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/26/2021
+  ms.locfileid: "7748789"
+title: إنشاء تقارير لـ Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تريد إعداد التقارير أو تعديلها من أجل Business Central؟ يساعد هذا المسار على فهم كيفية إنشاء التقارير وتعديلها.
+prerequisites: "- معرفة كيفية إعداد آلية تحديد وصول Business Central Cloud\n- فهم أساسي للغة البرمجة AL    \n"
+iconUrl: /learn/achievements/build-reports.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.introduction-report-components
+- learn-dynamics.understand-report-design-process
+- learn-dynamics.design-data-model-report
+- learn-dynamics.add-layout-report
+- learn-dynamics.complete-report-request-page
+- learn-dynamics.add-reports-tell-me
+- learn-dynamics.understand-report-triggers-functions
+- learn-dynamics.implement-multilanguage-reports
+- learn-dynamics.report-extensibility
+- learn-dynamics.work-with-reports
+trophy:
+  uid: learn-dynamics.build-reports.trophy

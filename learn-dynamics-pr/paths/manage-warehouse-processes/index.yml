@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-warehouse-processes
+metadata:
+  title: إدارة عمليات المستودع في Microsoft Dynamics 365 Business Central
+  description: يؤدي نقل الأصناف وإنتاجها في أحد المستودعات إلى وظائف أساسية تتم مناقشتها في هذه الوحدة. كما نقوم بمناقشة استخدام دفاتر يومية الأصناف.
+  ms.date: 01/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 2c69ff4d4e25bf4aec7f17db8c32e3b2d8e94437
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748811"
+title: إدارة عمليات المستودع في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  يؤدي نقل الأصناف وإنتاجها في أحد المستودعات إلى وظائف أساسية تتم مناقشتها في هذه الوحدة. كما نقوم بمناقشة استخدام دفاتر يومية الأصناف.
+prerequisites: >
+  - فهم أساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central.
+
+  - المعرفة الأساسية لعمليات إدارة المخزون والتصنيع في Business Central.
+iconUrl: /learn/achievements/manage-warehouse-processes.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.move-items
+- learn-dynamics.use-item-journals-warehouse
+- learn-dynamics.produce-items-warehouse
+trophy:
+  uid: learn-dynamics.manage-warehouse-processes.trophy

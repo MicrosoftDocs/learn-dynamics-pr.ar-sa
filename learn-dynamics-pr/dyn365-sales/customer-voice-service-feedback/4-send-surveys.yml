@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-voice-service-feedback.4-send-surveys
+title: تكوين Power Automate لإرسال استطلاعات بعد حل الحالة
+metadata:
+  title: تكوين Power Automate لإرسال استطلاعات بعد حل الحالة
+  description: تعرّف على كيفية تكوين Power Automate لإرسال استطلاعات بعد حل الحالة.
+  ms.date: 10/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 09098e1f690254f3aaaf21d9a957cf4db9a30e5c
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712733"
+durationInMinutes: 14
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-send-surveys.md)]"

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 9c53ee94b8c84868cb94cbd5d9c812829f6cb0fd
-ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+ms.openlocfilehash: 12e499ae67d3253f4cc5129555ad20606e13dfba
+ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "7424332"
+ms.lasthandoff: 11/01/2021
+ms.locfileid: "7729305"
 ---
-يدير مسؤول بيئة Microsoft Online Services اشتراك تطبيقات Dynamics 365 Customer Engagement، بما في ذلك الفوترة والمدفوعات وتراخيص المستخدم والحسابات والتسجيل. يمكنك القيام بهذه المهام في [مركز إدارة Microsoft 365](https://admin.microsoft.com/).
+يدير مسؤول بيئة Microsoft Online Services اشتراكات تطبيقات مشاركة العميل في Dynamics 365، بما في ذلك الفوترة والمدفوعات وتراخيص المستخدم والحسابات والتسجيل. يمكنك القيام بهذه المهام في [مركز إدارة Microsoft 365](https://admin.microsoft.com/).
 
 بصفتك مستشاراً وظيفياً، من المهم أن تعرف كيفية تحديد الاشتراكات المتاحة لك للعمل باستخدامها.
 
@@ -30,7 +30,7 @@ ms.locfileid: "7424332"
 
 ### <a name="determine-which-apps-are-available-in-dynamics-365"></a>حدد التطبيقات المتوفرة في Dynamics 365
 
-يمكن نشر تطبيقات Dynamics 365 Customer Engagement مع تطبيق واحد أو أكثر جاهز للاستخدام.
+يوجد عدد من تطبيقات مشاركة العميل في Dynamics 365 التي يمكن نشرها.
 
 لتحديد التطبيقات التي تم تثبيتها على مثيل ما، اتبع الخطوات التالية:
 

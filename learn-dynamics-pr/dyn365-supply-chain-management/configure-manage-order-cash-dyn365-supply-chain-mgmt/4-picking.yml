@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-order-to-cash.4-sales-order-picking-processes
+title: عمليات انتقاء أوامر المبيعات
+metadata:
+  title: عمليات انتقاء أوامر المبيعات
+  description: تعرّف على عمليات انتقاء أوامر المبيعات.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c9e800e279764c555111e23016817e9f0efa2625
+  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/26/2021
+  ms.locfileid: "7690973"
+durationInMinutes: 18
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-sales-order-picking-processes.md)]

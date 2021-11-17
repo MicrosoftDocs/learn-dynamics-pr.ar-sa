@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.foundation-customize-business-central
+metadata:
+  title: اكتشاف أساس تخصيص Microsoft Dynamics 365 Business Central
+  description: هل تود استخدام أدوات التطوير لمعرفة كيفيه تخصيص Microsoft Dynamics 365 Business Central؟ سيقدم لك "مسار التعليم" هذا جداول Business Central وصفحاته وكيفية تخصيصها.
+  ms.date: 4/21/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 8f9459dbb91e0b55e67fc3f1ec584d7c0b44a2f9
+  ms.sourcegitcommit: a4a2cebed109e3aee8784cc1fb01f2b3b2391a84
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/27/2021
+  ms.locfileid: "7748798"
+title: اكتشاف أساس تخصيص Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تود استخدام أدوات التطوير لمعرفة كيفيه تخصيص Microsoft Dynamics 365 Business Central؟ سيقدم لك "مسار التعليم" هذا جداول Business Central وصفحاته وكيفية تخصيصها.
+prerequisites: "- المعرفة الأساسية بـ Dynamics 365 Business Central \n- فهم كيفية إعداد آلية تحديد وصول Business Central Cloud ومعرفتها     \n- الفهم الأساسي لقاعدة بيانات علائقية واستخدام الجداول لتخزين بيانات المنتج\n"
+iconUrl: /learn/achievements/foundation-customize-business-central.svg
+levels:
+- intermediate
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.intro-development-environment
+- learn-dynamics.work-with-tables
+- learn-dynamics.extend-modify-existing-table
+- learn-dynamics.work-with-pages
+- learn-dynamics.extend-modify-existing-pages
+- learn-dynamics.work-entitlements-permission-sets
+- learn-dynamics.debug-deploy-extension
+trophy:
+  uid: learn-dynamics.foundation-customize-business-central.trophy

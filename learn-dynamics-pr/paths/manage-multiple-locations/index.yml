@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-multiple-locations
+metadata:
+  title: إدارة شركة ذات مواقع متعددة في Microsoft Dynamics 365 Business Central
+  description: هل ستستخدم عدة مواقع للمخزون في الشركة؟ يركز مسار التعليم هذا على كيفية إدارة مواقع المخزون المتعددة.
+  ms.date: 09/09/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: edd551c3ad148624c499dc7543e172a50f4bcf6c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748782"
+title: إدارة شركة ذات مواقع متعددة في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل ستستخدم عدة مواقع للمخزون في الشركة؟ يركز مسار التعليم هذا على كيفية إدارة مواقع المخزون المتعددة.
+prerequisites: >
+  - الفهم الأساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 Business Central.
+
+  - معرفة عمليات المبيعات والشراء في Business Central.
+iconUrl: /learn/achievements/manage-multiple-locations.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.set-up-company-multiple-locations
+- learn-dynamics.set-up-responsibility-centers
+- learn-dynamics.control-inventory-multiple-locations
+- learn-dynamics.transfer-items
+trophy:
+  uid: learn-dynamics.manage-multiple-locations.trophy

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-customer-service-insights.3-power-bi
+title: استخدام لوحات معلومات Customer Service Analytics في Power BI
+metadata:
+  title: استخدام لوحات معلومات Customer Service Analytics في Power BI
+  description: تعرف على كيفية استخدام Customer Service Analytics في Power BI.
+  ms.date: 10/22/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3f74c92955060187976021ad61c75a8dd38c7d7d
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7676532"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-power-bi.md)]"

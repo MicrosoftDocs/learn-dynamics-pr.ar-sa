@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-pro-data-dynamics-365-business-central
+metadata:
+  title: يمكنك التعامل مع البيانات كمحترف في Business Central
+  description: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
+  ms.date: 10/18/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: b30247e803ae74542599bac283752a67a2bc8c4f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748747"
+title: يمكنك التعامل مع البيانات كمحترف في Business Central
+summary: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
+prerequisites: >
+  - بلا
+iconUrl: /learn/achievements/work-pro-data-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.explore-modify-info-dynamics-365-business-central
+- learn-dynamics.search-filter-sort-data-dynamics-365-business-central
+- learn-dynamics.master-supplemental-personal-data-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.work-pro-data-dynamics-365-business-central.trophy

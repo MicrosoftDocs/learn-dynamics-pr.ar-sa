@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.customer-voice-service-feedback.2-support-template
+title: إنشاء مشروع باستخدام قالب الدعم
+metadata:
+  title: إنشاء مشروع باستخدام قالب الدعم
+  description: تعرف على كيفية إنشاء مشروع باستخدام قالب الدعم.
+  ms.date: 10/25/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1f63a17fab84d51cb1f2547988bc8631c26fcd03
+  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7712738"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-support-template.md)]"

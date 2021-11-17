@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-advanced-fixed-assets-transactions
+metadata:
+  title: إدارة حركات الأصول الثابتة المتقدمة في Microsoft Dynamics 365 Business Central
+  description: هل تحتاج إلى إدخال حركات لإدارة الأصول الثابتة؟ يناقش "مسار التعليم" هذا الحركات الافتتاحية وخفض الإدخالات وتصحيح الإدخالات والفهرسة وحركات إعداد الموازنة للأصول الثابتة.
+  ms.date: 08/07/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 94cbd54f20758d170ee75596e16f921fabace780
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748742"
+title: إدارة حركات الأصول الثابتة المتقدمة في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تحتاج إلى إدخال حركات لإدارة الأصول الثابتة؟ يناقش "مسار التعليم" هذا الحركات الافتتاحية وخفض الإدخالات وتصحيح الإدخالات والفهرسة وحركات إعداد الموازنة للأصول الثابتة.
+prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- معرفة وظيفة إدارة الأصول الثابتة \n- الفهم الأساسي لمحاسبة دفتر الأستاذ العام   \n"
+iconUrl: /learn/achievements/manage-advanced-fixed-assets-transactions.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.record-fixed-assets-opening-transactions
+- learn-dynamics.correct-entries
+- learn-dynamics.write-down-appreciate-fixed-assets
+- learn-dynamics.index-fixed-assets
+- learn-dynamics.budget-fixed-assets
+trophy:
+  uid: learn-dynamics.manage-advanced-fixed-assets-transactions.trophy

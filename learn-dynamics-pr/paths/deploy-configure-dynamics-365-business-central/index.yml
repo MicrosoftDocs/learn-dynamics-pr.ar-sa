@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+metadata:
+  title: توزيع Microsoft Dynamics 365 Business Central وتكوينه
+  description: هل أنت جديد في Business Central؟ إذا كنت كذلك، فسيساعدك هذا المسار على الشروع في العمل. ويناقش كيفية إنشاء شركات جديدة وتنفيذ الأمان وترحيل البيانات من أنظمة أخرى ودمج Outlook مع Business Central.
+  ms.date: 06/29/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 82df75840a061470e376563dba7eb7625e871b8f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748763"
+title: توزيع Microsoft Dynamics 365 Business Central وتكوينه
+summary: هل أنت جديد في Business Central؟ إذا كنت كذلك، فسيساعدك هذا المسار على الشروع في العمل. ويناقش كيفية إنشاء شركات جديدة وتنفيذ الأمان وترحيل البيانات من أنظمة أخرى ودمج Outlook مع Business Central.
+prerequisites: >
+  - الفهم الأساسي لـ Business Central وMicrosoft 365 وOutlook
+
+  - حقوق المسؤول في Business Central وMicrosoft 365
+iconUrl: /learn/achievements/deploy-configure-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.admin-online-dynamics-365-business-central
+- learn-dynamics.create-new-companies-dynamics-365-business-central
+- learn-dynamics.migrate-data-dynamics-365-business-central
+- learn-dynamics.users-security-dynamics-365-business-central
+- learn-dynamics.set-up-email
+- learn-dynamics.email-integration-dynamics-365-business-central
+- learn-dynamics.create-workflows
+- learn-dynamics.use-approval-workflows
+trophy:
+  uid: learn-dynamics.deploy-configure-dynamics-365-business-central.trophy

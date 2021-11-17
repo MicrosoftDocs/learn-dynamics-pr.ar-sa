@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
+metadata:
+  title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management والتعامل معه
+  description: تساعد إدارة المستودعات في تطبيق Dynamics 365 Supply Chain Management على تحسين عمليات المستودع وتيسيرها وفقاً لاحتياجاتك الفردية وتوفر نظرة ثاقبة على مخزونك والأدوات للمساعدة على زيادة رضا العملاء وتقليل التكاليف.
+  ms.date: 04/25/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 131c4dccdc52d20f9bfd43771a9430b023fcced1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748770"
+title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management والتعامل معه
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  تساعد إدارة المستودعات في تطبيق Dynamics 365 Supply Chain Management على تحسين عمليات المستودع وتيسيرها وفقاً لاحتياجاتك الفردية وتوفر نظرة ثاقبة على مخزونك والأدوات للمساعدة على زيادة رضا العملاء وتقليل التكاليف.
+prerequisites: >
+  - الفهم العام لعمليات سلاسل التوريد.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - المعرفة بإجراءات المستودع.
+iconUrl: /learn/achievements/configure-and-work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops
+- learn-dynamics.work-with-warehouse-management
+trophy:
+  uid: learn-dynamics.configure-and-work-with-warehouse-management-in-dynamics-365-for-finance-ops.trophy

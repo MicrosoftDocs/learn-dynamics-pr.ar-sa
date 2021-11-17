@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-warehouse-management
+metadata:
+  title: إعداد إدارة المستودعات في Microsoft Dynamics 365 Business Central‎
+  description: هل تستخدم أو تخطط لاستخدام أنظمة إدارة المستودعات في Business Central؟ إذا كنت تقوم بذلك، فسيساعدك "مسار التعليم" هذا على فهم عمليات إدارة المستودعات الأساسية في Business Central.
+  ms.date: 01/21/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 5c89262f221b618ff44f0e9f9bc05defcfc2339f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748810"
+title: إعداد إدارة المستودعات في Microsoft Dynamics 365 Business Central‎
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تستخدم أو تخطط لاستخدام أنظمة إدارة المستودعات في Business Central؟ إذا كنت تقوم بذلك، فسيساعدك "مسار التعليم" هذا على فهم عمليات إدارة المستودعات الأساسية في Business Central.
+prerequisites: "- الفهم الأساسي لكيفية استخدام والتنقل في Dynamics 365 Business Central.\n- معرفة عمليات المبيعات والشراء في Business Central\n- المعرفة الأساسية لعمليات إدارة المخزون في Business Central.    \n"
+iconUrl: /learn/achievements/set-up-warehouse-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.get-started-warehouse-management
+- learn-dynamics.set-up-zones-bins
+- learn-dynamics.create-new-bins
+- learn-dynamics.put-away-templates
+- learn-dynamics.configure-bins-location
+- learn-dynamics.prepare-item-tracking
+trophy:
+  uid: learn-dynamics.set-up-warehouse-management.trophy

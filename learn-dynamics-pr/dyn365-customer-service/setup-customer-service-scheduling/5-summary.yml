@@ -3,17 +3,17 @@ uid: learn-dynamics.setup-customer-service-scheduling.5-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص وحدة تكوين جدولة Customer Service
+  description: مقدمة لإعداد جدولة Dynamics 365 Customer Service
   ms.date: 10/12/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6269a8b91eb606786c9149251b2f98dbc79044e4
-  ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
+  ms.openlocfilehash: acd97108cc8fb0e9fb22f9f81406fdbe95aa6581
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/15/2021
-  ms.locfileid: "7646466"
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7675091"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

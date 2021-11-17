@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.vat-process-dynamics-365-business-central
+metadata:
+  title: معالجة ضريبة القيمة المضافة في Microsoft Dynamics 365 Business Central
+  description: هل تحتاج إلى إعداد ضريبة القيمة المضافة وحسابها لشركتك؟ استخدم مسار التعليم هذا الذي يحتوي على معلومات حول إعداد ضريبة القيمة المضافة ومعالجة ضريبة القيمة المضافة وحساب التسويات وترحيلها وإجراء تغيير في معدل ضريبة القيمة المضافة.
+  ms.date: 09/24/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: f6a23fc215f1c555cccb1743a6d53421fc0cf901
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748740"
+title: معالجة ضريبة القيمة المضافة في Microsoft Dynamics 365 Business Central
+summary: هل تحتاج إلى إعداد ضريبة القيمة المضافة وحسابها لشركتك؟ استخدم مسار التعليم هذا الذي يحتوي على معلومات حول إعداد ضريبة القيمة المضافة ومعالجة ضريبة القيمة المضافة وحساب التسويات وترحيلها وإجراء تغيير في معدل ضريبة القيمة المضافة.
+prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central. \n- المعرفة والخبرة في العمل مع مجموعات الترحيل ومخطط الحسابات\n"
+iconUrl: /learn/achievements/vat-process-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.set-up-VAT-dynamics-365-business-central
+- learn-dynamics.process-VAT-dynamics-365-business-central
+- learn-dynamics.settlements-dynamics-365-business-central
+- learn-dynamics.rate-change-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.vat-process-dynamics-365-business-central.trophy

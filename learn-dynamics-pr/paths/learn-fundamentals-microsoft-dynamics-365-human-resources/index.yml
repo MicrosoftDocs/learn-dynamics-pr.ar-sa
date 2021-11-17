@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+metadata:
+  title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Human Resources'
+  description: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Human Resources'
+  ms.date: 10/05/2021
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 800fec0e7a1c58d4f9281c68674d605b4f8a0ba6
+  ms.sourcegitcommit: ac9c23a23eec5fa2091dce74f9e06c550c7ec809
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "7748814"
+title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Human Resources'
+prerequisites: >
+  يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+summary: >
+  هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، وكلٍّ من تطبيقي Dynamics 365 finance and operations. ابدأ بمسار التعلم هذا لمعرفة المزيد حول Dynamics 365 Human Resources.
+iconUrl: /learn/achievements/dynamics-human-resources.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-human-resources
+modules:
+- learn.wwl.get-introduced-finance-operations-apps
+- learn.wwl.explore-microsoft-dynamics-365-human-resources-core-capabilities
+- learn.wwl.explore-personnel-management-capabilities-of-microsoft-dynamics-365-human
+trophy:
+  uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources.trophy

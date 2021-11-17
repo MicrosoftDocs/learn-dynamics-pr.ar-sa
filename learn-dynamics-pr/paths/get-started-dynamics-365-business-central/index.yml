@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-dynamics-365-business-central
+metadata:
+  title: الشروع في العمل باستخدام Microsoft Dynamics 365 Business Central
+  description: هل أنت مهتم بتطبيق Business Central؟ إذا كنت مهتماً، فإن مسار التعليم هذا يوفر لك مقدمة جيدة. ويتناول كيفية إعداد الإصدار التجريبي ويوفر بعض المعلومات الأساسية حول ما هو متوفر، كما يعرض بعض خيارات التخصيص التي يمكنك اجراؤها لتخصيص Business Central حسب استخدامك.
+  ms.date: 09/24/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 192d9f1f95ea889020e35e8c84e45a0cd492da33
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748797"
+title: الشروع في العمل باستخدام Microsoft Dynamics 365 Business Central
+summary: هل أنت مهتم بتطبيق Business Central؟ إذا كنت مهتماً، فإن مسار التعليم هذا يوفر لك مقدمة جيدة. ويتناول كيفية إعداد الإصدار التجريبي ويوفر بعض المعلومات الأساسية حول ما هو متوفر، كما يعرض بعض خيارات التخصيص التي يمكنك اجراؤها لتخصيص Business Central حسب استخدامك.
+prerequisites: >
+  - بلا
+iconUrl: /learn/achievements/get-started-dynamics-365-business-central.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.trial-dynamics-365-business-central
+- learn-dynamics.intro-dynamics-365-business-central
+- learn-dynamics.customize-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.get-started-dynamics-365-business-central.trophy

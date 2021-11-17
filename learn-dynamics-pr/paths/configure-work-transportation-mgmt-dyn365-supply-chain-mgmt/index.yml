@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
+metadata:
+  title: تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management
+  description: تساعدك "إدارة النقل" في Dynamics 365 Supply Chain Management على العثور على الطريقة الأكثر فعالية لتوصيل البضائع إلى عملائك. تحسب إدارة النقل الطريقة الأقل تكلفة والأسرع لتسليم البضائع وتتيح لك تحديد البائعين وحلول التوجيه للأوامر الواردة والصادرة.
+  ms.date: 12/15/2019
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: fc4a3af557574dff8b8688f1b0ed4da1df65fb9c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748771"
+title: تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتساعدك \"إدارة النقل\" في Dynamics 365 Supply Chain Management على العثور على الطريقة الأكثر فعالية لتوصيل البضائع إلى عملائك. تحسب إدارة النقل الطريقة الأقل تكلفة والأسرع لتسليم البضائع وتتيح لك تحديد البائعين وحلول التوجيه للأوامر الواردة والصادرة. \n"
+prerequisites: >
+  - الفهم العام لعمليات سلاسل التوريد.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - المعرفة بإجراءات المستودع.
+iconUrl: /learn/achievements/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt.trophy

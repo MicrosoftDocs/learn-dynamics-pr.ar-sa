@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.interface-with-business-central
+metadata:
+  title: التعامل مع Microsoft Dynamics 365 Business Central
+  description: هل تود التعامل مع Business Central؟ سيتناول "مسار التعليم" هذا مناقشه التعامل مع الويب وخدمات نقل الحالة التمثيلية (REST) ووظائف API وAzure والتحكم في الوظائف الإضافية التي يمكن استخدامها للتعامل مع Business Central.
+  ms.date: 06/04/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: ada49e463bfe9f6e49f56ccd5530db372155b6fc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748793"
+title: التعامل مع Microsoft Dynamics 365 Business Central
+summary: "[!include[](../../includes/lp-banner.md)]\nهل تود التعامل مع Business Central؟ سيتناول \"مسار التعليم\" هذا مناقشه التعامل مع الويب وخدمات نقل الحالة التمثيلية (REST) ووظائف API وAzure والتحكم في الوظائف الإضافية التي يمكن استخدامها للتعامل مع Business Central.  \n"
+prerequisites: "- الفهم الأساسي للغة البرمجة AL \n- الخبرة في لغات البرمجة الأخرى\n- المعرفة الأساسية لوظائف Business Central  \n"
+iconUrl: /learn/achievements/interface-with-business-central.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.work-with-web-services
+- learn-dynamics.work-with-api
+- learn-dynamics.access-rest-services
+- learn-dynamics.use-azure-functions
+- learn-dynamics.build-control-add-ins
+trophy:
+  uid: learn-dynamics.interface-with-business-central.trophy

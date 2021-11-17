@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+metadata:
+  title: التعامل مع حلول إدارة المعرفة في Dynamics 365 Customer Service
+  description: يركز مسار التعليم هذا على التعامل مع حلول إدارة المعرفة في Microsoft Dynamics 365 Customer Service.
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 0bcf040819d359b048607827b536b79a8256bc84
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748753"
+title: التعامل مع حلول إدارة المعرفة في Dynamics 365 Customer Service
+summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\n\nيركز مسار التعليم هذا على التعامل مع حلول إدارة المعرفة في Microsoft Dynamics 365 Customer Service. \n"
+prerequisites: "- احصل على اشتراك تجريبي في Dynamics 365 for Customer Engagement\n- المفاهيم الأساسية لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
+iconUrl: /learn/achievements/work-with-knowledge-management-solutions-dyn365-customer-service.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+modules:
+- learn-bizapps.creating-and-designing-knowledge-management-solutions
+- learn-bizapps.consuming-knowledge-articles-for-case-resolutions
+trophy:
+  uid: learn.work-with-knowledge-management-solutions-dyn365-customer-service.trophy

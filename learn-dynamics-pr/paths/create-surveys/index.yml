@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.create-surveys
+metadata:
+  title: إنشاء استبيانات باستخدام Dynamics 365 Customer Voice
+  description: تعرف على كيفية إنشاء استبيانات وإدارتها باستخدام Dynamics 365 Customer Voice.
+  ms.date: 07/21/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 39c7e0814e511341d2fd1a99ca1f94ad4c9fe571
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748764"
+title: إنشاء استبيانات باستخدام Dynamics 365 Customer Voice
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تسجيل تعليقات العملاء والموظفين وتحليلها والتعامل معها. يغطي "مسار التعليم" هذا إنشاء مشروع استبيان وإنشاء استبيان وإرسال الاستبيانات وأتمتة الاستبيانات وتحليل بيانات الاستبيان.
+prerequisites: >
+  - بلا
+iconUrl: /learn/achievements/create-forms.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- customer-voice
+modules:
+- learn-dynamics.work-customer-voice-projects
+- learn-dynamics.create-customer-voice-surveys
+- learn-dynamics.send-customer-voice-surveys
+- learn-dynamics.automate-customer-voice-surveys
+- learn-dynamics.embed-surveys
+- learn-dynamics.create-customer-power-bi-reports
+trophy:
+  uid: learn-dynamics.create-forms.trophy

@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.create-jobs
+metadata:
+  title: إنشاء الوظائف في Microsoft Dynamics 365 Business Central
+  description: هل ستقوم باستخدام الوظائف لتعقب تكاليف المشروع باستخدام Business Central؟ يناقش مسار التعليم هذا إنشاء وظائف جديدة باستخدام خطوط تخطيط الوظيفة وخطوط تخطيط مهمة وظيفية.
+  ms.date: 09/02/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 6d0df568b72ccddd66cc6f15e7a32c6f3cfcc6ef
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748765"
+title: إنشاء الوظائف في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل ستقوم باستخدام الوظائف لتعقب تكاليف المشروع باستخدام Business Central؟ يناقش مسار التعليم هذا إنشاء وظائف جديدة باستخدام خطوط تخطيط الوظيفة وخطوط تخطيط مهمة وظيفية.
+prerequisites: "- الفهم الأساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 Business Central.\n- تجربة تكاليف الوظيفة/المشروع السابقة   \n"
+iconUrl: /learn/achievements/create-jobs.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.create-new-job
+- learn-dynamics.set-up-job-task-lines
+- learn-dynamics.set-up-job-planning-lines
+- learn-dynamics.set-up-jobs-foreign-currencies
+trophy:
+  uid: learn-dynamics.create-jobs.trophy

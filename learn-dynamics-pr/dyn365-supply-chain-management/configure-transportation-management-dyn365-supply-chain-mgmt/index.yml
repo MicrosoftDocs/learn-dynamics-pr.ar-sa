@@ -3,16 +3,16 @@ uid: learn-dynamics.configure-work-with-transportation-management-in-dynamics-36
 metadata:
   title: إدارة النقل في Dynamics 365 Supply Chain Management
   description: تساعدك وحدة إدارة النقل في Dynamics 365 Supply Chain Management على العثور على الطريقة الأكثر فعالية لتوصيل البضائع إلى عملائك. تحسب إدارة النقل الطريقة الأقل تكلفة والأسرع لتسليم البضائع وتتيح لك تحديد البائعين وحلول التوجيه للأوامر الواردة والصادرة.
-  ms.date: 06/02/2020
+  ms.date: 10/28/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 66fd97fae4faa40591d1734c90770e60736c2124
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c6e1b69176016e2fa3c3dc9bf9835afea2e09312
+  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332633"
+  ms.lasthandoff: 10/28/2021
+  ms.locfileid: "7714806"
 title: إدارة النقل في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -42,12 +42,6 @@ units:
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.8-plan-freight-routes-multiple-stops
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.9-reconcile-freight
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.10-exercise-set-up-shipping-carrier-service
-#- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.11-exercise-configure-rate-master
-#- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.12-exercise-create-route-plan-route-guide
-#- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.13-exercise-process-inbound-shipment
-#- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.14-exercise-process-outbound-shipment
-#- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.15-exercise-set-up-automatic-freight-reconciliation
-#- learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.16-exercise-work-with-appointment-scheduling
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.17-configure-work-with-transport-mgmt-quiz
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.18-configure-work-with-transport-mgmt-summary
 badge:

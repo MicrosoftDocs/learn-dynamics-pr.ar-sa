@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: a84ff779502e8a4fe214c5b026e1b776b56f1e95
-ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+ms.openlocfilehash: 8a4575eb56fb4648173f8953940e890868f551b3
+ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "7496745"
+ms.lasthandoff: 11/01/2021
+ms.locfileid: "7729353"
 ---
-سيتم نشر تطبيقات Dynamics 365 Customer Engagement الخاصة بك بشكل أكثر سلاسة مع بعض التخطيط الأولي. قبل بدء عملية التوزيع الفعلية، خذ بعين الاعتبار ما يلي:
+سيتم نشر تطبيقات مشاركة العميل في Dynamics 365 الموزعة على Dataverse بشكل أكثر سلاسة مع بعض التخطيط الأولي. قبل بدء عملية التوزيع الفعلية، خذ بعين الاعتبار ما يلي:
 
 ### <a name="environment-discovery"></a>اكتشاف البيئة
 
@@ -32,7 +32,7 @@ ms.locfileid: "7496745"
 
 يمكنك تحسين تجربة شركتك عبر الإنترنت بشكل كبير من خلال دمج تطبيقات Microsoft 365 مع اشتراكك. يتطلب ذلك شراء اشتراك Microsoft 365 منفصلاً، وستحصل على أفضل تجربة تكامل إذا كان اشتراكك في Microsoft 365 والبيئة في نفس المستأجر.
 
-للحصول على تكامل كامل لميزات Microsoft 365 مع تطبيقات Dynamics 365 Customer Engagement وتطبيقات Dynamics 365 Customer Engagement (المحلية)، ستحتاج إلى Microsoft 365 Enterprise E3 أو إصدار أحدث. يتطلب إجراء اتصالات وعقد مؤتمرات Skype for Business [PSTN](https://support.office.com/article/What-is-PSTN-calling-3dc773b9-95e0-4448-b2f1-887c54022429) وجود Microsoft 365 Enterprise E5. خطط Microsoft 365 الأخرى غير مدعومة. لمزيد من المعلومات عن التراخيص والأسعار، راجع: [تسعير Dynamics 365](https://www.microsoft.com/dynamics365/pricing).
+للحصول على تكامل كامل لميزات Microsoft 365 مع تطبيقات مشاركة العميل في Dynamics 365 الموزعة على تطبيقات Dataverse وتطبيقات مشاركة العميل في Dynamics 365 المحلية، ستحتاج إلى\' Microsoft 365 Enterprise E3 أو إصدار أحدث. يتطلب إجراء اتصالات وعقد مؤتمرات Skype for Business [PSTN](https://support.office.com/article/What-is-PSTN-calling-3dc773b9-95e0-4448-b2f1-887c54022429) وجود Microsoft 365 Enterprise E5. خطط Microsoft 365 الأخرى غير مدعومة. لمزيد من المعلومات عن التراخيص والأسعار، راجع: [تسعير Dynamics 365](https://www.microsoft.com/dynamics365/pricing).
 
 من المهم ملاحظة أن Power Apps وكذلك Power Automate مدمجان في العديد من تطبيقات Microsoft Business Applications مثل Microsoft Dynamics 365، وSharePoint Online، وMicrosoft Teams وغيرها. يتم تمكين هذه التكاملات وتكون جاهزة لاستخدامها من قبل المستخدمين. يمكن لمسؤول النظام إزالة أذونات بعض المستخدمين حتى لا يتمكنوا من الاستفادة من التكامل مع Power Apps أو Power Automate، ولكن لا يمكن حذف عمليات التكامل الافتراضية هذه بواسطة مسؤول النظام.
 
@@ -49,7 +49,7 @@ ms.locfileid: "7496745"
 
 ### <a name="importing-data"></a>استيراد البيانات
 
-توفر تطبيقات Dynamics 365 Customer Engagement معالجاً للمساعدة في استيراد بيانات تطبيقات Dynamics 365 Customer Engagement من تطبيقات وخدمات أخرى. إذا قمت باستيراد البيانات من أنظمة أخرى، ففكر في الطريقة التي ستعالج بها البيانات لتقليل الأخطاء.
+توفر تطبيقات مشاركة العميل في Dynamics 365 معالجاً للمساعدة في استيراد بيانات تطبيقات مشاركة العميل في Dynamics 365 من تطبيقات وخدمات أخرى. إذا قمت باستيراد البيانات من أنظمة أخرى، ففكر في الطريقة التي ستعالج بها البيانات لتقليل الأخطاء.
 
 ### <a name="the-data-integrator"></a>مكامل البيانات
 إن مكامل البيانات (للمسؤولين) هو خدمة تكامل من نقطة إلى نقطة تستخدم لتكامل البيانات في Microsoft Dataverse للتطبيقات. وهو يدعم تكامل البيانات من مصادر متعددة—على سبيل المثال، Dynamics 365 for Finance and Operations، Dynamics 365 for Sales، SQL (إصدار أولي)—في Dataverse للتطبيقات. كما يدعم تكامل البيانات في Dynamics 365 for Finance and Operations وكذلك Dynamics 365 for Sales. هذه الخدمة متوفرة بشكل عام منذ يوليو 2017.

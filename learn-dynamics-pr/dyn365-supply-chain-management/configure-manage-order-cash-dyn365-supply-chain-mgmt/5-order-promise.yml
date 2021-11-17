@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-order-to-cash.5-configure-order-promising
+title: تكوين التعهد بالأمر
+metadata:
+  title: تكوين التعهد بالأمر
+  description: تعرّف على كيفية تكوين التعهد بالأمر.
+  ms.date: 06/03/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/delivery-dates-available-promise-calculations
+  ms.openlocfilehash: 182464a3f4026ffdaf870ed5b871c5b6227ed64b
+  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/26/2021
+  ms.locfileid: "7690989"
+durationInMinutes: 18
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-configure-order-promising.md)]

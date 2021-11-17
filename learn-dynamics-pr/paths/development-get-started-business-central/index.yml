@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.development-get-started-business-central
+metadata:
+  title: بدء التطوير في Microsoft Dynamics 365 Business Central
+  description: هل أنت مهتم بتطوير Dynamics 365 Business Central؟ ويركز مسار التعليم على بعض الأساسيات اللازمة لبدء عمليه التطوير. ستتابع العمل في إنشاء ملحق بسيط في "مسار التعليم" هذا.
+  ms.date: 5/29/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: e7b159beed9248db4bd3a0e5bb0e74519513458c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748768"
+title: بدء التطوير في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل أنت مهتم بتطوير Dynamics 365 Business Central؟ ويركز مسار التعليم على بعض الأساسيات اللازمة لبدء عمليه التطوير. ستتابع العمل في إنشاء ملحق بسيط في "مسار التعليم" هذا.
+prerequisites: "- المعرفة الأساسية لـ Business Central\n- بعض الفهم الخاص بعمليات التطوير واللغات     \n"
+iconUrl: /learn/achievements/development-get-started-business-central.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.introduction-development-process
+- learn-dynamics.add-new-objects
+- learn-dynamics.extend-tables-page-objects
+- learn-dynamics.extend-functionality-using-events
+- learn-dynamics.assisted-setup-tooltips
+- learn-dynamics.initialize-data-extension-installation
+trophy:
+  uid: learn-dynamics.development-get-started-business-central.trophy

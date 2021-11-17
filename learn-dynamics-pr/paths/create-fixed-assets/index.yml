@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.create-fixed-assets
+metadata:
+  title: إنشاء أصول ثابتة في Microsoft Dynamics 365 Business Central
+  description: هل تعلم كيفية إنشاء سجلات للأصول الثابتة في Business Central؟ سيوضح لك "مسار التعليم" هذا كيفية إنشاء أصول ثابتة. كما سيناقش خيارات الإهلاك وكيفية إعداد أصول المكونات.
+  ms.date: 07/14/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: d8c4a05df2da78a769dac9c7327de24602efc89d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748744"
+title: إنشاء أصول ثابتة في Microsoft Dynamics 365 Business Central
+summary: "[!include[](../../includes/lp-banner.md)]\nهل تعلم كيفية إنشاء سجلات للأصول الثابتة في Business Central؟ سيوضح لك \"مسار التعليم\" هذا كيفية إنشاء أصول ثابتة. كما سيناقش خيارات الإهلاك وكيفية إعداد أصول المكونات. \n"
+prerequisites: "- الفهم الأساسي للإهلاك والأصول الثابتة\n- المعرفة الأساسية بكيفية التنقل في Business Central    \n"
+iconUrl: /learn/achievements/create-fixed-assets.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.fixed-asset-related-records
+- learn-dynamics.configure-fixed-asset-depreciations
+- learn-dynamics.set-up-main-assets-components
+trophy:
+  uid: learn-dynamics.create-fixed-assets.trophy

@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.12-exercise-define-production-control-parameters
-title: 'معمل: تحديد معلمات التحكم في الإنتاج'
+title: المعمل - استكشاف التحكم في الإنتاج
 labId: 72661
 metadata:
-  title: 'معمل: تحديد معلمات التحكم في الإنتاج'
-  description: تدرب على تحديد معلمات التحكم في الإنتاج في Supply Chain Management.
-  ms.date: 05/29/2020
+  title: المعمل - استكشاف التحكم في الإنتاج
+  description: استكشف التحكم في الإنتاج في ‏‫Supply Chain Management‬.
+  ms.date: 10/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 659a8aed8eff5f7fe526774822875a147190ff6e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9c15f33e120bfe277d62e102ba653c6fdb3d618c
+  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353356"
-durationInMinutes: 5
-content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/12-exercise-define-production-control-parameters.md)] \n[!include[](../includes/non-final-lab-end.md)]"
+  ms.lasthandoff: 10/26/2021
+  ms.locfileid: "7690785"
+durationInMinutes: 30
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/12-exercise-define-production-control-parameters.md)] \n[!include[](../includes/standalone-lab-end.md)]"

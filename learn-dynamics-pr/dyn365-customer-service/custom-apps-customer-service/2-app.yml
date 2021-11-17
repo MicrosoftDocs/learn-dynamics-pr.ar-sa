@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.custom-apps-customer-service.2-apps
+title: إنشاء Power Apps لـ Dynamics 365 Customer Service
+metadata:
+  title: إنشاء Power Apps لـ Dynamics 365 Customer Service
+  description: اكتشف كيفية إنشاء لوحات وتطبيقات تستند إلى النموذج من Power Apps لـ Dynamics 365 Customer Service.
+  ms.date: 10/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d3c2992a97ec406ae79d62a6d367c9349ced01d5
+  ms.sourcegitcommit: e1b31037db4ed7bcbc24dddd4c300fd9741be859
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "7734185"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-apps.md)]

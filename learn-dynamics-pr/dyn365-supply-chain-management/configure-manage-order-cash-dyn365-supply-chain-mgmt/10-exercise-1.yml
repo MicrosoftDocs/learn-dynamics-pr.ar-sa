@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-order-to-cash.10-exercise-create-sales-order
+title: المعمل - إنشاء أمر مبيعات والعمل باستخدام العمولات
+labId: 72800
+metadata:
+  title: المعمل - إنشاء أمر مبيعات والعمل باستخدام العمولات
+  description: تدرب على إنشاء أمر مبيعات.
+  ms.date: 10/25/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f1ce41b9c8b4d58d74c2c2a2d38b260475e8d673
+  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/26/2021
+  ms.locfileid: "7690984"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise-create-sales-order.md)] \n[!include[](../includes/standalone-lab-end.md)]"

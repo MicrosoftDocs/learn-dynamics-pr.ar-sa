@@ -3,18 +3,18 @@ uid: learn-dynamics.connected-customer-service.6-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص وحدة Connected Customer Service
+  description: ملخص الشروع في العمل باستخدام Connected Customer Service for Dynamics 365 وAzure IoT‎
   ms.date: 10/07/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: b6f8642e189cfe983a2a0592130dae7dcbc1b841
-  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.openlocfilehash: a209c324a99ed9d2c91dc08803503dce3b3bde1d
+  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/12/2021
-  ms.locfileid: "7625603"
+  ms.lasthandoff: 10/26/2021
+  ms.locfileid: "7690841"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

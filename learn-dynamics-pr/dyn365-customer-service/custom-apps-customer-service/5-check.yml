@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.custom-apps-customer-service.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 10/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 07c8a25e4ab3dc4f110f6282320189313e364c05
+  ms.sourcegitcommit: e1b31037db4ed7bcbc24dddd4c300fd9741be859
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "7734184"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  questions:
+  - content: أي من الأوصاف التالية يعد أفضل تعريف لموصل Microsoft Power Platform؟
+    choices:
+    - content: الموصلات هي عبارة عن خدمات تستند إلى المجموعة لتوصيل Power Apps بـ Power Automate.
+      isCorrect: false
+      explanation: يستخدم Power Apps وPower Automate الموصلات للاتصال بالبيانات؛ حيث أنها لا تستخدم الموصلات لتوصيل أدوات Microsoft Power Platform معاً.
+    - content: تقوم الموصلات بتوصيل مصدر بياناتك بالتطبيق أو سير العمل أو لوحة المعلومات.
+      isCorrect: true
+      explanation: يمكنك التفكير في الموصلات على أنها جسر بين مصدر البيانات والتطبيق أو سير العمل الخاص بك مما يسمح بنقل المعلومات ذهاباً وإياباً. وتتيح لك الموصلات إمكانية توسيع حلول الأعمال عبر المنصات وإضافة وظائف للمستخدمين.
+    - content: تمكّن الموصلات من وصول المطور إلى Microsoft Power Platform من بيئات التطوير الخاصة بهم.
+      isCorrect: false
+      explanation: تُستخدم الموصلات للاتصال بالبيانات. يقوم المطورون بالاتصال بـ Microsoft Power Platform باستخدام APIs الويب التي يتم توفيرها من خلال Dataverse أو من خلال الأدوات التي تتصل أصلاً بـ Dataverse.
+  - content: أي من التحديدات التالية يعد جمهوراً مستهدفاً صالحاً لمداخل Power Apps؟
+    choices:
+    - content: أفراد العائلة
+      isCorrect: false
+      explanation: أفراد العائلة ليسوا جمهوراً مستهدفاً صالحاً للمداخل.
+    - content: الموظفون
+      isCorrect: true
+      explanation: يمكن أن يكون الجمهور المستهدف لمداخل Power Apps من العملاء أو الموظفين أو المانحين.
+    - content: المنافسون
+      isCorrect: false
+      explanation: المنافسون ليسوا جمهوراً مستهدفاً صالحاً للمداخل.
+  - content: وترغب في عرض بيانات من نظام آخر في نموذج الحالة في مركز Dynamics 365 Customer Service. ماذا يجب أن تستخدم؟
+    choices:
+    - content: تطبيق يستند إلى النموذج
+      isCorrect: false
+      explanation: يمكن للتطبيقات المستندة إلى النموذج إظهار البيانات من Microsoft Dataverse فقط.
+    - content: تطبيق المدخل
+      isCorrect: false
+      explanation: لا يمكن تضمين تطبيقات المدخل في نموذج تطبيق يستند إلى النموذج مثل نموذج الحالة.
+    - content: تدفق Power Automate
+      isCorrect: false
+      explanation: لا يمكن استدعاء تدفق Power Automate من سجل حالة وعرض بيانات من نظام آخر.
+    - content: تطبيق اللوحة
+      isCorrect: true
+      explanation: يمكن تضمين تطبيق اللوحة في نموذج الحالة. يمكن لتطبيق اللوحة استخدام الموصلات للوصول إلى البيانات في الأنظمة الأخرى ثم عرض تلك البيانات.

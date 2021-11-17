@@ -1,32 +1,32 @@
 ### YamlMime:Module
 uid: learn-dynamics.setup-customer-service-scheduling
 metadata:
-  title: تكوين جدولة Customer Service
-  description: تشتمل Dynamics 365 Customer Service على إمكانيات لجدولة الموظفين والموارد الأخرى بفعالية لعملاء الخدمة في مواقع المؤسسة. الاستعداد لـ MB-230.
+  title: إعداد جدولة Customer Service
+  description: تشتمل Microsoft Dynamics 365 Customer Service على إمكانيات لجدولة الموظفين والموارد الأخرى بفعالية لعملاء الخدمة في مواقع المؤسسة. الاستعداد لـ MB-230.
   ms.date: 10/12/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b2027e47c17a3c437befda12f10460675f1a5343
-  ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
+  ms.openlocfilehash: 80fb0ed1704fdcca05dd207581cefe9a0810989b
+  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/15/2021
-  ms.locfileid: "7646468"
-title: تكوين جدولة Customer Service
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "7675676"
+title: إعداد جدولة Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تشتمل Dynamics 365 Customer Service على إمكانيات لجدولة الموظفين والموارد الأخرى بفعالية لعملاء الخدمة في مواقع المؤسسة.
 abstract: >
-  في هذه الوحدة، ستتمكن مما يأتي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
-  - التعرف على كيفية بدء جدولة Customer Service
+  - الشروع في العمل مع جدولة Customer Service.
 
-  - التعرف على كيفية تكوين جدولة Customer Service
+  - تعرف على كيفية إعداد جدولة Customer Service.
 
-  - تعرَّف على كيفية تحديد الموارد
-prerequisites: المعرفة الأساسية لتطبيق خدمة العملاء
+  - اكتشف كيفية تحديد الموارد.
+prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/setup-customer-service-scheduling.svg
 levels:
 - intermediate

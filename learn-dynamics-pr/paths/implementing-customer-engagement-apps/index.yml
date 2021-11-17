@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.implementing-customer-engagement-online
+metadata:
+  title: التعامل مع مستأجري Microsoft Power Platform والبيئات والاشتراكات وتطبيقات Dynamics 365
+  description: تعرف على كيفية التعامل مع مستأجري Microsoft Power Platform والبيئات والاشتراكات وتطبيقات Dynamics 365.
+  ms.date: 02/22/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 7804de45dfc4ca85b99452a0d348af344cb4b72b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748795"
+title: التعامل مع مستأجري Microsoft Power Platform والبيئات والاشتراكات وتطبيقات Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  إنشاء مستأجري Microsoft Power Platform والمثيلات وتصميمها وإدارتها بما في ذلك التخطيط لعمليات التوزيع متعددة المثيلات وإدارة أساليب المصادقة وإدارة التحديثات والنسخ الاحتياطي للمثيلات واستعادتها وتثبيت عملاء Microsoft Dynamics 365 وإدارتهم والسماح بالوصول إلى ميزات مختلفة لجميع المستخدمين في المؤسسة.
+prerequisites: يُفضل فهم البنية الأساسية الرئيسية لـ Microsoft Power Platform والوصول إلى ميزات مختلفة اعتماداً على تراخيص المستخدم بالإضافة إلى المعرفة بتدفقات المهام وPower Apps.
+iconUrl: /learn/achievements/implementing-customer-engagement-online.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+modules:
+- learn-dynamics.designing-power-platform-deployments
+- learn-dynamics.administrating-power-platform-subscriptions
+- learn-dynamics.manage-clients
+- learn-dynamics.power-platform-mobile-management
+trophy:
+  uid: learn-dynamics.implementing-customer-engagement-online.trophy

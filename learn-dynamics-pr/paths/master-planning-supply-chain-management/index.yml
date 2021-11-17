@@ -1,0 +1,47 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.master-planning-supply-chain-management
+metadata:
+  title: إتقان التخطيط في Dynamics 365 Supply Chain Management
+  description: يسمح التخطيط الرئيسي للشركات بتحديد وموازنة الحاجة المستقبلية للمواد الخام والقدرة الإنتاجية على تحقيق أهداف الشركة.
+  ms.date: 11/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 9d8bfc9a9fd63cd3345066d5d041b4279b6126e1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748804"
+title: إتقان التخطيط في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يسمح التخطيط الرئيسي للشركات بتحديد وموازنة الحاجة المستقبلية للمواد الخام والقدرة الإنتاجية على تحقيق أهداف الشركة. يقوم التخطيط الرئيسي بتقييم المواد الخام والقدرات المتوفرة حالياً والمواد الخام والقدرات المطلوبة لإكمال الإنتاج. على سبيل المثال، ما يجب تصنيعه أو شراؤه أو نقله أو وضعه جانباً كمخزون احتياطي قبل أن تتمكن من إكمال الإنتاج.
+prerequisites: >
+  - الفهم العام لعمليات سلاسل التوريد.
+
+  - القدرة على استخدام Dynamics Supply Chain Management للمعالجة الأساسية.
+
+  - معرفة عمليات إدارة المخزون.
+
+  - معرفة عمليات إدارة المستودعات.
+
+  - معرفة عمليات تخطيط الإنتاج.
+iconUrl: /learn/achievements/master-planning-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops
+- learn-dynamics.planning-optimization
+trophy:
+  uid: learn-dynamics.master-planning-supply-chain-management.trophy

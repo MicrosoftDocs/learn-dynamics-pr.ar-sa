@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.calculate-post-job-wip
+metadata:
+  title: حساب WIP الخاصة بالوظيفة وترحيلها في Microsoft Dynamics 365 Business Central
+  description: هل تريد التعرّف على WIP الخاصة بالوظيفة في Business Central؟ تتناول هذه الوحدة أساليب WIP وكيفية حسابها وكذلك كيفية إقفال وظيفة.
+  ms.date: 09/02/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 48de8cb07aed4b7d4ffea57b53aff440d1447ce4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748786"
+title: حساب WIP الخاصة بالوظيفة وترحيلها في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تريد التعرّف على WIP الخاصة بالوظيفة في Business Central؟ تتناول هذه الوحدة أساليب WIP وكيفية حسابها وكذلك كيفية إقفال وظيفة.
+prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- فهم تكاليف العمل ومفاهيم العمل قيد التنفيذ    \n"
+iconUrl: /learn/achievements/calculate-post-job-wip.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.explore-job-wip-methods
+- learn-dynamics.calculate-job-wip
+- learn-dynamics.close-job
+trophy:
+  uid: learn-dynamics.calculate-post-job-wip.trophy

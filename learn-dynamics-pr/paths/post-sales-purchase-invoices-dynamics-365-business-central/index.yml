@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.post-sales-purchase-invoices-dynamics-365-business-central
+metadata:
+  title: ترحيل فواتير المبيعات والشراء في Microsoft Dynamics 365 Business Central
+  description: هل تحتاج إلى معالجة فواتير مبيعات العميل وترحيلها؟ هل تحتاج إلى إدخال فواتير شراء المورد؟ ويتناول مسار التعليم هذا كل منهما، كما يتناول كيفية معالجة الدُّفعات المقدمة للعملاء والموردين.  كما يناقش استخدام المستندات الإلكترونية في عملك مع Business Central.
+  ms.date: 09/12/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 4b84dbc700a2069d839570d33c99745a06c5795c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748779"
+title: ترحيل فواتير المبيعات والشراء في Microsoft Dynamics 365 Business Central
+summary: هل تحتاج إلى معالجة فواتير مبيعات العميل وترحيلها؟ هل تحتاج إلى إدخال فواتير شراء المورد؟ ويتناول مسار التعليم هذا كل منهما، كما يتناول كيفية معالجة الدُّفعات المقدمة للعملاء والموردين.  كما يناقش استخدام المستندات الإلكترونية في عملك مع Business Central.
+prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central. \n- معرفة كيفية تعامل الشركات مع العملاء\n- المعرفة الأساسية بمخطط الحسابات\n"
+iconUrl: /learn/achievements/post-sales-purchase-invoices-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.invoicing-customers-dynamics-365-business-central
+- learn-dynamics.processing-invoices-dynamics-365-business-central
+- learn-dynamics.prepayment-invoices-dynamics-365-business-central
+- learn-dynamics.incoming-documents-dynamics-365-business-central
+- learn-dynamics.electronic-documents-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.post-sales-purchase-invoices-dynamics-365-business-central.trophy

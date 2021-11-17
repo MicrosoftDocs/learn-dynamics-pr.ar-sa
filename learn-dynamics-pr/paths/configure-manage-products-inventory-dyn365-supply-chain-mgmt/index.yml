@@ -1,0 +1,44 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
+metadata:
+  title: تكوين المنتجات والمخزون في Dynamics 365 Supply Chain Management وإدارتها
+  description: معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات ومجموعات منتجات و‏‫قوائم مكونات أصناف وفئات منتجات. توضح لك تقارير المخزون بطرق متنوعة مقدار المخزون لديك وتشرح كيف تكون أكثر فاعلية في استثماراتك في المخزون.
+  ms.date: 11/24/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 551f0ec68694d1cf2fb7b7d9818fb1191840959e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748745"
+title: تكوين المنتجات والمخزون في Dynamics 365 Supply Chain Management وإدارتها
+summary: "[!include[](../../includes/lp-banner.md)]\n\nمعلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات ومجموعات منتجات و‏‫قوائم مكونات أصناف وفئات منتجات. توضح لك تقارير المخزون بطرق متنوعة مقدار المخزون لديك وتشرح كيف تكون أكثر فاعلية في استثماراتك في المخزون. \n"
+prerequisites: >
+  - الفهم العام لعمليات سلاسل التوريد.
+
+  - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
+
+  - المعرفة بإدارة المخزون.
+
+  - المعرفة بإدارة المستودعات.
+iconUrl: /learn/achievements/configure-and-manage-products-and-inventory-in-dynamics-365-for-finance-ops.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+modules:
+- learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops
+- learn-dynamics.use-inventory-reports-in-dynamics-365-finance-ops
+- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops
+- learn-dynamics.create-bill-of-materials-in-dynamics-365-finance-ops
+trophy:
+  uid: learn-dynamics.configure-and-manage-products-and-inventory-in-dynamics-365-for-finance-ops.trophy

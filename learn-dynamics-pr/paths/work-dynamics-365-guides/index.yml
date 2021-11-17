@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-dynamics-365-guides
+metadata:
+  title: التعامل مع Dynamics 365 Guides
+  description: تعامل مع Microsoft Dynamics 365 Guides، وهو تطبيق الواقع المختلط يعرض إرشادات مجسمة خطوة بخطوة في مكان حدوث العمل.
+  ms.date: 10/22/2020
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-guides
+  ms.openlocfilehash: 7c95a3e0357586a59def4aac686c4b1fb4d2dfe4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748800"
+title: التعامل مع Dynamics 365 Guides
+summary: "[!include[](../../includes/lp-banner.md)]\nإن Dynamics 365 Guides هو تطبيق الواقع المختلط الذي يعرض تعليمات ثلاثية الأبعاد خطوة بخطوة في مكان حدوث العمل، ما يمكّن الموظفين من تعلم المهام المعقدة وتنفيذها. في \"مسار التعليم\" هذا، ستتم تغطية أدوار المسؤول والمؤلف والعامل. \n"
+prerequisites: >
+  - الفهم العام لـ Dynamics 365 Guides
+
+  - فهم كيفية استخدام Microsoft HoloLens
+iconUrl: /learn/achievements/work-dynamics-guides.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+- administrator
+products:
+- dynamics-365
+- dynamics-guides
+- hololens
+modules:
+- learn-dynamics.get-started-guides
+- learn-dynamics.guides-administrator
+- learn-dynamics.author-guides
+- learn-dynamics.operate-guides
+trophy:
+  uid: learn-dynamics.work-dynamics-guides.trophy

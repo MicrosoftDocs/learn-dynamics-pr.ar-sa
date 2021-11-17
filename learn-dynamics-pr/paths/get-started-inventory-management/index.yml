@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-inventory-management
+metadata:
+  title: الشروع في العمل باستخدام إدارة المخزون في Microsoft Dynamics 365 Business Central
+  description: هل تقوم بشراء أصناف المخزون وبيعها؟ إذا كنت تفعل ذلك، فهذه الوحدة ستناقش كيفية إنشاء الأصناف وإدخال الكميات.
+  ms.date: 09/03/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 76b7988af9fbbf37b62204a9ae7f2e16b14e40ed
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748796"
+title: الشروع في العمل باستخدام إدارة المخزون في Microsoft Dynamics 365 Business Central
+summary: "[!include[](../../includes/lp-banner.md)]\nهل تقوم بشراء أصناف المخزون وبيعها؟ إذا كنت تفعل ذلك، فهذه الوحدة ستناقش كيفية إنشاء الأصناف وإدخال الكميات. \n"
+prerequisites: "- الفهم الأساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 Business Central.\n- المعرفة الأساسية بعمليات المخزون.    \n"
+iconUrl: /learn/achievements/get-started-inventory-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.create-items
+- learn-dynamics.adjust-inventory
+trophy:
+  uid: learn-dynamics.get-started-inventory-management.trophy

@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.assemble-items-dynamics-365-business-central
+metadata:
+  title: تجميع الأصناف في Microsoft Dynamics 365 Business Central
+  description: هل تقوم ببيع الأصناف المجمعة؟ يوفر مسار التعليم هذا المعلومات التي تحتاجها لإدارة التجميع والأصناف. كما يوفر خطوات لإنتاج الأصناف المجمعة للتخزين أو الطلب.
+  ms.date: 10/8/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: f5b5ea71cc9e7a781feaae46b1eccfdb4934309c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748790"
+title: تجميع الأصناف في Microsoft Dynamics 365 Business Central
+summary: هل تقوم ببيع الأصناف المجمعة؟ يوفر مسار التعليم هذا المعلومات التي تحتاجها لإدارة التجميع والأصناف. كما يوفر خطوات لإنتاج الأصناف المجمعة للتخزين أو الطلب.
+prerequisites: "- فهم كيفية التنقل في تطبيق Business Central. \n- تعرف على كيفية إنشا أصناف \n- تعرف على كيفية معالجة أوامر المبيعات\n"
+iconUrl: /learn/achievements/assemble-items-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.set-up-assembly-management-dynamics-365-business-central
+- learn-dynamics.set-up-assembly-items-dynamics-365-business-central
+- learn-dynamics.assemble-to-order-dynamics-365-business-central
+- learn-dynamics.assemble-to-stock-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.assemble-items-dynamics-365-business-central.trophy

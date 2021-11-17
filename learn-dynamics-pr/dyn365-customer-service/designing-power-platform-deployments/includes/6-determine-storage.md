@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 808a3be4b195fa901a05c95e16e9262e29d0789d713f62a3774ea5e162a17c39
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 72945381bf82c5d2e5fcb906523f3fef6b6cf920
+ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060236"
+ms.lasthandoff: 11/01/2021
+ms.locfileid: "7729376"
 ---
 ستستخدم إمكانيات الاشتراك الافتراضية في تطبيقات Dynamics 365 Customer Engagement نفس المستأجر وستتراكم البنية التحتية عبر المستأجر الواحد.
 
@@ -22,6 +22,6 @@ ms.locfileid: "7060236"
 
 ### <a name="determine-how-storage-is-being-used-across-all-instances-within-a-tenant"></a>تحديد كيفية استخدام التخزين في جميع المثيلات داخل مستأجر
 
-يتم عرض استخدام التخزين على مركز إدارة Microsoft Dynamics 365 ضمن علامة التبويب Service health:
+يتم عرض استخدام التخزين على مركز إدارة Power Platform ضمن علامة التبويب "القدرة الإنتاجية":
 
 ![لقطة شاشة لعلامة التبويب Service health في Dynamics 365.](../media/16_unit6.png)

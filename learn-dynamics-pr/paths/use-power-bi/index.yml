@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-power-bi
+metadata:
+  title: استخدام Power BI في Microsoft Dynamics 365 Business Central
+  description: هل ستقوم باستخدام Power BI لإنشاء تقارير لـ Business Central؟ إذا كان الأمر كذلك، فسيناقش "مسار التعليم" هذا كيفية إنشاء مجموعة بيانات وإنشاء تقرير والتعامل مع Power BI وBusiness Central.
+  ms.date: 10/13/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: f58ccd60e89275ecdf311555ec983a40741f5c68
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748748"
+title: استخدام Power BI في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل ستقوم باستخدام Power BI لإنشاء تقارير لـ Business Central؟ إذا كان الأمر كذلك، فسيناقش "مسار التعليم" هذا كيفية إنشاء مجموعة بيانات وإنشاء تقرير والتعامل مع Power BI وBusiness Central.
+prerequisites: >
+  - المعرفة بلغة البرمجة AL
+
+  - التجربة السابقة باستخدام Power BI
+
+  - معرفة كيفية إعداد آلية تحديد وصول Business Central Cloud
+iconUrl: /learn/achievements/use-power-bi.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.create-data-set
+- learn-dynamics.build-power-bi-report
+- learn-dynamics.work-power-bi
+trophy:
+  uid: learn-dynamics.use-power-bi.trophy

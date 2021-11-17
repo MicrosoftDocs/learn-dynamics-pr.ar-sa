@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.work-customer-service-insights
+metadata:
+  title: التعامل مع Customer Service Insights
+  description: تعرّف على كيفية تكوين Customer Service Insights والتعامل معها.
+  ms.date: 08/27/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 3059a7e62bdd6bfc05a6abd213afececef278d59
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748754"
+title: التعامل مع Customer Service Insights
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  قم بتكوين بيانات Customer Service Insights والتعامل معها لاكتساب رؤى ثاقبة عن عملائك. يتناول "مسار التعليم" هذا بدء استخدام Customer Service Insights والتعامل مع معلومات المكالمات.
+prerequisites: >
+  - بلا
+iconUrl: /learn/achievements/work-customer-service-insights.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+- dynamics-cust-svc-insights
+modules:
+- learn-dynamics.get-started-customer-service-insights
+- learn-dynamics.customer-service-call-insights
+trophy:
+  uid: learn-dynamics.work-customer-service-insights.trophy

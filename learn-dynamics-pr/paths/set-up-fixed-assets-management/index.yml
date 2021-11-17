@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.set-up-fixed-assets-management
+metadata:
+  title: إعداد إدارة الأصول الثابتة في Microsoft Dynamics 365 Business Central
+  description: هل تخطط لاستخدام وظيفة الأصول الثابتة في Business Central؟ في حاله القيام بذلك، سيقوم "مسار التعليم" هذا بالشروع في العمل وذلك بمساعدتك على إعداد وظيفة أساسية تتعلق بـ Business Central.
+  ms.date: 07/08/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 5fabe727f9598734db6b3923df5c74fe3befc988
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748777"
+title: إعداد إدارة الأصول الثابتة في Microsoft Dynamics 365 Business Central
+summary: "[!include[](../../includes/lp-banner.md)]\nهل تخطط لاستخدام وظيفة الأصول الثابتة في Business Central؟ في حاله القيام بذلك، سيقوم \"مسار التعليم\" هذا بالشروع في العمل وذلك بمساعدتك على إعداد وظيفة أساسية تتعلق بـ Business Central. \n"
+prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- المعرفة بحسابات دفتر الأستاذ العام والوظائف.    \n- معرفة كيفية إدارة الأصول الثابتة في أحد الأعمال.\n"
+iconUrl: /learn/achievements/set-up-fixed-assets-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.fixed-assets-master-data
+- learn-dynamics.create-classes-subclasses-locations
+- learn-dynamics.configure-depreciation-books
+- learn-dynamics.create-journals
+- learn-dynamics.posting-groups-setup
+- learn-dynamics.configure-fixed-asset-setup-pages
+trophy:
+  uid: learn-dynamics.set-up-fixed-assets-management.trophy

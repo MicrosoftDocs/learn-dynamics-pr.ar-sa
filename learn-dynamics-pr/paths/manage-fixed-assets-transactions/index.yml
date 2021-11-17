@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-fixed-assets-transactions
+metadata:
+  title: إدارة حركات الأصول الثابتة الأساسية في Microsoft Dynamics 365 Business Central
+  description: يمكن أن تشتمل حركات الأصول الثابتة على حركة الشراء وحركة الإهلاك والتخلص من أحد الأصول. يناقش المسار التعليم هذا جميع حركات الأصول النموذجية هذه.
+  ms.date: 07/24/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 4195689ed8fd75d7f237b0d016bd33f664a3ea1e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748783"
+title: إدارة حركات الأصول الثابتة الأساسية في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  يمكن أن تشتمل حركات الأصول الثابتة على حركة الشراء وحركة الإهلاك والتخلص من أحد الأصول. يناقش المسار التعليم هذا جميع حركات الأصول النموذجية هذه.
+prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central. \n- معرفة المعلومات الخاصة بدفاتر الإهلاك ومجموعات الترحيل.           \n"
+iconUrl: /learn/achievements/manage-fixed-assets-transactions.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.purchase-fixed-assets
+- learn-dynamics.calculate-post-depreciations
+- learn-dynamics.dispose-fixed-assets
+trophy:
+  uid: learn-dynamics.manage-fixed-assets-transactions.trophy

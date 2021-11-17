@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+metadata:
+  title: الشروع في العمل مع Trade في Microsoft Dynamics 365 Business Central
+  description: هل تستخدم Trade في Business Central؟ يناقش "مسار التعليم" هذا متطلبات الإعداد وكيفية بدء استخدام Trade في Business Central.
+  ms.date: 1/21/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: cf66f47d978d109f5f8e00cda040c085dfff3d7a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748761"
+title: الشروع في العمل مع Trade في Microsoft Dynamics 365 Business Central
+summary: هل تستخدم Trade في Business Central؟ يناقش "مسار التعليم" هذا متطلبات الإعداد وكيفية بدء استخدام Trade في Business Central.
+prerequisites: "- فهم كيفية التنقل في تطبيق Dynamics 365 Business Central. \n- الإلمام بمفهوم مجموعات الترحيل وسلسلة الأرقام في Business Central\n- الإلمام بكيفية استخدام الأصناف والعملاء وبطاقات الموردين في Business Central\n"
+iconUrl: /learn/achievements/trade-get-started-dynamics-365-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.trade-master-data-dynamics-365-business-central
+- learn-dynamics.trade-set-up-dynamics-365-business-central
+trophy:
+  uid: learn-dynamics.trade-get-started-dynamics-365-business-central.trophy

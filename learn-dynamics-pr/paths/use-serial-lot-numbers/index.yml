@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-serial-lot-numbers
+metadata:
+  title: استخدام الأرقام التسلسلية وأرقام الدُّفعات في Microsoft Dynamics 365 Business Central
+  description: هل يتطلب منك عملك استخدام الأرقام التسلسلية وأرقام الدُّفعات؟ يتناول مسار التعليم هذا كيفية استخدام الأرقام التسلسلية وأرقام الدُّفعات في Business Central.
+  ms.date: 09/14/2020
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 7a942963d410a2ed6cefadf9956e8928536fc790
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7748757"
+title: استخدام الأرقام التسلسلية وأرقام الدُّفعات في Microsoft Dynamics 365 Business Central
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل يتطلب منك عملك استخدام الأرقام التسلسلية وأرقام الدُّفعات؟ يتناول مسار التعليم هذا كيفية استخدام الأرقام التسلسلية وأرقام الدُّفعات في Business Central.
+prerequisites: >
+  - الفهم الأساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 Business Central.
+
+  - معرفة عمليات المبيعات والشراء في Business Central
+iconUrl: /learn/achievements/use-serial-lot-numbers.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+modules:
+- learn-dynamics.set-up-tracking-items
+- learn-dynamics.manage-inbound-serial-lot-numbers
+- learn-dynamics.manage-serial-lot-numbers-inventory
+- learn-dynamics.manage-outbound-serial-lot-numbers
+- learn-dynamics.trace-serial-lot-numbers
+trophy:
+  uid: learn-dynamics.use-serial-lot-numbers.trophy
