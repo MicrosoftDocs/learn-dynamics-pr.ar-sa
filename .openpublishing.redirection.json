@@ -1,6 +1,61 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-public-sector-dyn365-finance/8-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-public-sector-dyn365-finance/exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-public-sector-dyn365-finance/7-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-public-sector-dyn365-finance/exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-periodic-processes-dyn365-finance/08-exercise.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-periodic-processes-dyn365-finance/07-exercise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-fixed-assets-mgmt-dyn365-finance/12-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-fixed-assets-mgmt-dyn365-finance/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-fixed-assets-mgmt-dyn365-finance/11-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-fixed-assets-mgmt-dyn365-finance/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-chart-accounts-dyn365-finance/19-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-chart-accounts-dyn365-finance/18-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-cash-bank-management-dyn365-finance/12-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-cash-bank-management-dyn365-finance/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-cash-bank-management-dyn365-finance/11-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-cash-bank-management-dyn365-finance/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/configure-accounts-receivable-dyn365-finance/12-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-accounts-receivable-dyn365-finance/11-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/accounting-distributions-invoice-validation-dyn365-finance/13-invoice-match-policy.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/accounting-distributions-invoice-validation-dyn365-finance/12-record-invoice-match",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/accounting-distributions-invoice-validation-dyn365-finance/13-1-prohibit-submission-workflow.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/accounting-distributions-invoice-validation-dyn365-finance/12-record-invoice-match",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/work-warehouse-management-dyn365-supply-chain-mgmt/13-exercise-4.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/9-exercise-1",
       "redirect_document_id": false
