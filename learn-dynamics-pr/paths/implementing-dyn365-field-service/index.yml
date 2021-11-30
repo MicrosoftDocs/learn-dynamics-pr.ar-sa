@@ -1,21 +1,21 @@
 ### YamlMime:LearningPath
 uid: learn-bizapps.implementing-dyn365-field-service
 metadata:
-  title: استخدام Microsoft Dynamics 365 Field Service
-  description: غالبًا ما تدرك شركات الخدمة الميدانية أنها بحاجة إلى المساعدة لأنها تكتشف أن أوجه القصور في سير العمل تمنع النمو وتقلل الإيرادات. يوفر اتخاذ الخطوات الصحيحة في تكوين Dynamics 365 Field Service الوقت في اثناء التنفيذ.
-  ms.date: 07/28/2021
-  author: davebeasley
-  ms.author: dbeasley
+  title: تنفيذ Microsoft Dynamics 365 Field Service
+  description: غالباً ما تدرك شركات الخدمة الميدانية أنها بحاجة إلى المساعدة لأنها تكتشف أن أوجه القصور في سير العمل تمنع النمو وتقلل الإيرادات. يوفر اتخاذ الخطوات الصحيحة في تكوين Dynamics 365 Field Service الوقت في اثناء التنفيذ.
+  ms.date: 11/17/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-field-service
-  ms.openlocfilehash: ce0e949aea64c41ea5c87d1a3f5054de4fa81dff
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6494ceeda161347e232adad2b7fe7c427a5bd45a
+  ms.sourcegitcommit: 8d25868deb816788444089a4691ed1719919b874
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7437313"
-title: استخدام Microsoft Dynamics 365 Field Service
-summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\n\nغالبًا ما تدرك شركات الخدمة الميدانية أنها بحاجة إلى المساعدة لأنها تكتشف أن أوجه القصور في سير العمل تمنع النمو وتقلل الإيرادات. يوفر اتخاذ الخطوات الصحيحة في تكوين Dynamics 365 Field Service الوقت في اثناء التنفيذ. \n"
+  ms.lasthandoff: 11/18/2021
+  ms.locfileid: "7818552"
+title: تنفيذ Microsoft Dynamics 365 Field Service
+summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\n\nغالباً ما تدرك شركات الخدمة الميدانية أنها بحاجة إلى المساعدة لأنها تكتشف أن أوجه القصور في سير العمل تمنع النمو وتقلل الإيرادات. يوفر اتخاذ الخطوات الصحيحة في تكوين Dynamics 365 Field Service الوقت في اثناء التنفيذ. \n"
 prerequisites: >
   - الفهم الجيد لتطبيقات Microsoft Dynamics 365
 iconUrl: /learn/achievements/implementing-microsoft-dynamics-365-for-field-service.svg
@@ -29,6 +29,7 @@ products:
 modules:
 - learn-bizapps.implement-configure-microsoft-dynamics-365-for-field-service
 - learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing
+- learn-dynamics.custom-apps-field-service
 - learn-dynamics.get-started-mobile-app
 - learn-dynamics.configure-field-service-mobile
 trophy:

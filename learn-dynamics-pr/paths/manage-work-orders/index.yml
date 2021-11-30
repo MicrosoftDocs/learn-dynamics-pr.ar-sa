@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.manage-work-orders
+metadata:
+  title: إدارة أوامر العمل في Dynamics 365 Field Service
+  description: هل تستخدم أوامر العمل لإدارة التفاعلات مع العملاء؟ يتناول مسار التعليم هذا كيفية استخدام أوامر العمل وإدارتها باستخدام Dynamics 365 Field Service.
+  ms.date: 11/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: 9edde19a1d00fd3a5530e79fa0bf7853d226c196
+  ms.sourcegitcommit: 51200b30f3608949d6a7e9e566acfd054e8d7285
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/16/2021
+  ms.locfileid: "7815355"
+title: إدارة أوامر العمل في Dynamics 365 Field Service
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تستخدم أوامر العمل لإدارة التفاعلات مع العملاء؟ يتناول مسار التعليم هذا كيفية استخدام أوامر العمل وإدارتها باستخدام Dynamics 365 Field Service.
+prerequisites: >
+  - المعرفة الأساسية بتطبيق Dynamics 365 Field Service.
+iconUrl: /learn/achievements/manage-work-orders.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-field-service
+modules:
+- learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing
+- learn-dynamics.incident-types
+- learn-dynamics.inspections
+- learn-dynamics.customer-assets
+trophy:
+  uid: learn-dynamics.manage-work-orders.trophy

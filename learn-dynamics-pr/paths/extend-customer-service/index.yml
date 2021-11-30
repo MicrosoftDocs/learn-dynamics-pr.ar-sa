@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.extend-customer-service
+metadata:
+  title: توسيع Dynamics 365 Customer Service
+  description: هل تريد وظائف إضافية في Dynamics 365 Customer Service؟ يناقش هذا المسار استخدام Power Platform لتوسيع تطبيق Customer Service.
+  ms.date: 11/12/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customer-service
+  ms.openlocfilehash: 51a7dbb449da7d2add3f33d84773e148be3a1e1c
+  ms.sourcegitcommit: ba649a4e713b493bd6617a8421bfbcc31bc25862
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/13/2021
+  ms.locfileid: "7800292"
+title: توسيع Dynamics 365 Customer Service
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تريد وظائف إضافية في Dynamics 365 Customer Service؟ يناقش هذا المسار استخدام Power Platform لتوسيع تطبيق Customer Service.
+prerequisites: >
+  - المعرفة الأساسية بتطبيق Dynamics 365 Customer Service ووظائف Power Platform.
+iconUrl: /learn/achievements/extend-customer-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+modules:
+- learn-dynamics.custom-apps-customer-service
+- learn-dynamics.omnichannel-power-virtual-agents
+trophy:
+  uid: learn-dynamics.extend-customer-service.trophy

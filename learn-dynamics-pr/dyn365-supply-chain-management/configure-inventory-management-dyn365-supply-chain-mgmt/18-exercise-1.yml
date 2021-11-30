@@ -5,15 +5,15 @@ labId: 63309
 metadata:
   title: المعمل - العمل باستخدام إدارة المخزون
   description: تدرب على كيفية التعامل مع إدارة المخزون في Supply Chain Management.
-  ms.date: 10/27/2021
+  ms.date: 11/10/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b695471fff7345448f816d7657e8347f77637a37
-  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.openlocfilehash: b830653e7b6c3fd7c4ca5a1f38e12e8579d502ae
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2021
-  ms.locfileid: "7712358"
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792130"
 durationInMinutes: 45
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/18-exercise-create-new-warehouse-layout.md)] \n[!include[](../includes/standalone-lab-end.md)]"

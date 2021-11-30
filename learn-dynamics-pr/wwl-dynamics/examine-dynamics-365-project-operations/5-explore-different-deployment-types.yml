@@ -4,17 +4,18 @@ title: استكشاف أنواع النشر المختلفة
 metadata:
   title: استكشاف أنواع النشر المختلفة
   description: استكشاف أنواع النشر المختلفة
-  ms.date: 07/27/2021
+  ms.date: 11/04/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: b63b68b8d80bd16bc04fad035b2c5952292bf471
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 1b2928c77a82af60121b43d22c0945ac35d633f0
+  ms.sourcegitcommit: c95922edfc4783b70b93a09d3c31693ebcad174e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438541"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "7752195"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/5-explore-different-deployment-types.md)]'

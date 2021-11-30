@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.use-connected-customer-service
+metadata:
+  title: استخدام Connected Customer Service مع Dynamics 365
+  description: استخدم الوظيفة الإضافية Connected Customer Service من أجل Dynamics 365 لتكامل أجهزه IoT مع Dynamics 365 Customer Service للمساعدة على خدمة العملاء.
+  ms.date: 11/10/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customer-service
+  ms.openlocfilehash: 7e984083cdb9f4669cb5767b413e0c944ab906e9
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792193"
+title: استخدام Connected Customer Service مع Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  استخدم الوظيفة الإضافية Connected Customer Service من أجل Dynamics 365 لتكامل أجهزه IoT مع Dynamics 365 Customer Service للمساعدة على خدمة العملاء.
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Customer Service
+iconUrl: /learn/achievements/use-connected-customer-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+modules:
+- learn-dynamics.connected-customer-service
+- learn-dynamics.connected-customer-service-devices
+trophy:
+  uid: learn-dynamics.use-connected-customer-service.trophy

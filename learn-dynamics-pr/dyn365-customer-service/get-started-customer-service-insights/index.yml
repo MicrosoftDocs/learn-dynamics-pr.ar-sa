@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f30a66e94766d8c0113805adeebdd0696200b73e
-  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.openlocfilehash: 7c979c037afd533a2368f1edefd7ba2e821555ec
+  ms.sourcegitcommit: ba649a4e713b493bd6617a8421bfbcc31bc25862
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/23/2021
-  ms.locfileid: "7675700"
+  ms.lasthandoff: 11/13/2021
+  ms.locfileid: "7800276"
 title: الشروع في العمل مع Customer Service Insights
 summary: "[!include[](../includes/module-banner.md)] \nتستخدم Dynamics 365 Customer Service Insights Microsoftالذكاء الاصطناعي لتجميع حالاتك تلقائياً في موضوعات باستخدام فهم اللغة الطبيعية، مثل تجميع حالات المنتجات المعيبة في موضوع واحد. تتيح لك الموضوعات إمكانية اكتشاف الاتجاهات الحالية والناشئة والتكيف معها، بالإضافة إلى تحديد مجالات المشاكل وتحسين التوجه تجاه العلامة التجارية. من خلال تحديد المشكلات وإصلاحها قبل أن تؤثر على العملاء، يمكنك تقديم تجارب أفضل لخدمة العملاء. ستدرس هذه الوحدة مدى تأثير \"Customer Service Insights\" في مؤسستك.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرّف على Customer Service Insights وما يمكن أن تقدمه لمؤسسة ما.\n- استعرض كيفية تكوين Customer Service Insights لمؤسستك.\n- تعرف على كيفية تثبيت تطبيق Power BI لـ Customer Service Insights لتحقيق رؤى ثاقبة.\n- اكتشف لوحات المعلومات المختلفة المتوفرة.\n"
@@ -26,7 +26,6 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
-- dynamics-cust-svc-insights
 units:
 - learn-dynamics.get-started-customer-service-insights.1-introduction
 - learn-dynamics.get-started-customer-service-insights.2-configure

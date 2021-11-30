@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.incident-types.2-define
+title: تحديد أنواع الأحداث
+metadata:
+  title: تحديد أنواع الأحداث
+  description: تعرف على ما يتضمنه نوع الحدث في Field Service.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b0f9100ea8ee9b536ddaca964aeff4cdde26dff0
+  ms.sourcegitcommit: cc0f31f19ab065c5f52bdddf92fe94e6b3c5b168
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/12/2021
+  ms.locfileid: "7799490"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-define.md)]

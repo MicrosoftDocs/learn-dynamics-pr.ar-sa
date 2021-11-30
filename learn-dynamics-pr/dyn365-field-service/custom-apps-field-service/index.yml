@@ -1,0 +1,55 @@
+### YamlMime:Module
+uid: learn-dynamics.custom-apps-field-service
+metadata:
+  title: إنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service
+  description: تعرف على كيفية استخدام Power Platform لإنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service. الاستعداد لـ MB-240.
+  ms.date: 11/08/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f01ac5a3b9bbbdbc093e04996056a6f7b9a7ddd3
+  ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7783524"
+title: إنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعرف على كيفية استخدام Power Platform لإنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تعرف على كيفية استخدام Power Platform لتخصيص Dynamics 365 Field Service
+
+  - التعرف على كيفية إنشاء Power Apps من أجل Dynamics 365 Field Service
+
+  - تعرف على كيفية توزيع مدخل الصفحات الرئيسية الخاصة بتجارب العملاء لـ Field Service
+
+  - اكتشف كيفية تخصيص Field Service
+
+  - تعرّف على كيفية تكوين لوحات الجدولة وتخصيصها
+
+  - تعرف على كيفية تمكين جدول مخصص للجدولة
+prerequisites: المعرفة بـ Dynamics 365 Field Service
+iconUrl: /learn/achievements/custom-apps-field-service.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.custom-apps-field-service.1-introduction
+- learn-dynamics.custom-apps-field-service.2-apps
+- learn-dynamics.custom-apps-field-service.3-portal
+- learn-dynamics.custom-apps-field-service.4-customize
+- learn-dynamics.custom-apps-field-service.5-universal
+- learn-dynamics.custom-apps-field-service.6-schedule-board
+- learn-dynamics.custom-apps-field-service.7-check
+- learn-dynamics.custom-apps-field-service.8-summary
+badge:
+  uid: learn-dynamics.custom-apps-field-service.badge

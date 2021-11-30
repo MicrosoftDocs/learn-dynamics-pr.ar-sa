@@ -3,19 +3,19 @@ uid: learn-dynamics.work-customer-service-omnichannel
 metadata:
   title: التواصل مع العملاء والتفاعل معهم باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
   description: يشكل تطوير حلول القناة متعددة الاتجاهات الحقيقية ونشرها أمرًا حاسمًا لنجاح أي مؤسسة توفر خدمة عملاء لعملائها.  من خلال ضمان تجربة موحدة وسياقية بغض النظر عن القناة المستخدمة، يمكن للمؤسسات تعزيز رضا العملاء وحل المشاكل بشكل أسرع مما يزيد من الإيرادات.  باستخدام حل القناة متعددة الاتجاهات لـ Customer Service في Dynamics 365، تستطيع المؤسسات نشر حل حقيقي وموجود للقناة متعددة الاتجاهات داخل مؤسسة Dynamics 365 التي تستخدمها كل يوم.
-  ms.date: 01/23/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 11/12/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: 1335b1f6991735e5b4b5e7ec9a39a525a65e9a58
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.service: dynamics-365-customer-service
+  ms.openlocfilehash: bc8f7e306e4bdb8f9b8ddcd0c172bf8aff592f7e
+  ms.sourcegitcommit: ba649a4e713b493bd6617a8421bfbcc31bc25862
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361099"
+  ms.lasthandoff: 11/13/2021
+  ms.locfileid: "7800259"
 title: التواصل مع العملاء والتفاعل معهم باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
-summary: "[!include[](../../includes/lp-banner.md)]\n\nيشكل تطوير حلول القناة متعددة الاتجاهات الحقيقية ونشرها أمرًا حاسمًا لنجاح أي مؤسسة توفر خدمة عملاء لعملائها.  من خلال ضمان تجربة موحدة وسياقية بغض النظر عن القناة المستخدمة، يمكن للمؤسسات تعزيز رضا العملاء وحل المشاكل بشكل أسرع مما يزيد من الإيرادات.  باستخدام حل القناة متعددة الاتجاهات لـ Customer Service في Dynamics 365، تستطيع المؤسسات نشر حل حقيقي وموجود للقناة متعددة الاتجاهات داخل مؤسسة Dynamics 365 التي تستخدمها كل يوم.    \n"
+summary: "[!include[](../../includes/lp-banner.md)]\nيشكل تطوير حلول القناة متعددة الاتجاهات الحقيقية ونشرها أمرًا حاسمًا لنجاح أي مؤسسة توفر خدمة عملاء لعملائها.  من خلال ضمان تجربة موحدة وسياقية بغض النظر عن القناة المستخدمة، يمكن للمؤسسات تعزيز رضا العملاء وحل المشاكل بشكل أسرع مما يزيد من الإيرادات.  باستخدام حل القناة متعددة الاتجاهات لـ Customer Service في Dynamics 365، تستطيع المؤسسات نشر حل حقيقي وموجود للقناة متعددة الاتجاهات داخل مؤسسة Dynamics 365 التي تستخدمها كل يوم.    \n"
 prerequisites: "- فهم أساسي لـ Dynamics 365 Customer Service. \n"
 iconUrl: /learn/achievements/work-customer-service-omnichannel.svg
 levels:
@@ -35,7 +35,6 @@ modules:
 - learn-dynamics.social-channels
 - learn-dynamics.omnichannel-chat
 - learn-dynamics.create-smart-assist-omnichannel
-- learn-dynamics.customer-service-call-insights
 - learn-dynamics.omnichannel-power-virtual-agents
 - learn-dynamics.productivity-tools
 trophy:

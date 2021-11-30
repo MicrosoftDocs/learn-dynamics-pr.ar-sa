@@ -3,20 +3,20 @@ uid: learn-dynamics.entity-record-routing
 metadata:
   title: توجيه سجل الكيان باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
   description: يتيح حل Dynamics 365 Customer Service للمؤسسات إمكانية إدارة المشكلات التي يواجهها العملاء وحلها. وفق سيناريو تقليدي، يمكنك تنفيذ إدارة الحالة باستخدام المكونات الأساسية لخدمة العملاء. يتمثل أحد هذه المكونات الأساسية في توجيه سجل الكيان الذي تم شرحه في هذه الوحدة.
-  ms.date: 06/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 11/17/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8e3931e660f8a6a8b713627b005070d97b69ae38
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e637e702da93457df113b3fb807c95f4a7c3738f
+  ms.sourcegitcommit: 8d25868deb816788444089a4691ed1719919b874
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366602"
+  ms.lasthandoff: 11/18/2021
+  ms.locfileid: "7818560"
 title: توجيه سجل الكيان باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \n\nيتيح حل Dynamics 365 Customer Service للمؤسسات إمكانية إدارة المشكلات التي يواجهها العملاء وحلها. وفق سيناريو تقليدي، يمكنك تنفيذ إدارة الحالة باستخدام المكونات الأساسية لخدمة العملاء. يتمثل أحد هذه المكونات الأساسية في توجيه سجل الكيان الذي تم شرحه في هذه الوحدة. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مجموعات القواعد.\n- تعرف على كيفية تشغيل المسار. \n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على مجموعات القواعد.\n- تعرف على كيفية تشغيل المسار. \n"
+prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/entity-record-routing.svg
 levels:
 - intermediate

@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.customer-assets
+metadata:
+  title: أصول العملاء في Dynamics 365 Field Service
+  description: تعرف على كيفية إنشاء أصول العميل وإقرانها بأوامر العمل في Dynamics 365 Field Service. الاستعداد لـ MB-240.
+  ms.date: 11/04/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ad24c01ca471d08a3e2c8e294b7b917e149639e5
+  ms.sourcegitcommit: 33507250798bc28b3fbff11538f31b26a0dc45f2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/09/2021
+  ms.locfileid: "7776316"
+title: أصول العملاء في Dynamics 365 Field Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعرف على كيفية إنشاء أصول العميل وإقرانها بأوامر العمل في Dynamics 365 Field Service.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - فهم الغرض من أصول العميل في Field Service.
+
+  - التعرف على كيفية إنشاء أصول العميل
+
+  - التعرف على كيفية إقران أصول العميل بأوامر العمل
+
+  - التعرف على كيفية تكوين التدرجات الهرمية لأصول العميل
+
+  - التعرف على كيفية استخدام مواقع العمل.
+prerequisites: معرفة أساسية بتطبيق Field Service
+iconUrl: /learn/achievements/customer-assets.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.customer-assets.1-introduction
+- learn-dynamics.customer-assets.2-create
+- learn-dynamics.customer-assets.3-associate
+- learn-dynamics.customer-assets.4-hierarchy
+- learn-dynamics.customer-assets.5-functional-location
+- learn-dynamics.customer-assets.6-check
+- learn-dynamics.customer-assets.7-summary
+badge:
+  uid: learn-dynamics.customer-assets.badge

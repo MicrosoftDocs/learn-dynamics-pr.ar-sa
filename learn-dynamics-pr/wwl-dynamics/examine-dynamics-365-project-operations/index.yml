@@ -3,18 +3,17 @@ uid: learn.wwl.examine-dynamics-365-project-operations
 metadata:
   title: استكشاف Dynamics 365 Project Operations
   description: استكشاف Dynamics 365 Project Operations
-  ms.date: 07/27/2021
+  ms.date: 11/04/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.custom: intro-internal
-  ms.openlocfilehash: 758a8e4601a44bcb9eb451baabb94e1f6b485607
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.prod: learning-d365
+  ms.openlocfilehash: 33f6c618ed2880fab475dbe381706c65afe35402
+  ms.sourcegitcommit: c95922edfc4783b70b93a09d3c31693ebcad174e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/19/2021
-  ms.locfileid: "7503051"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "7752171"
 title: استكشاف Dynamics 365 Project Operations
 summary: تقدم لك هذه الوحدة Dynamics 365 Project Operations وكيف يدعم الخدمات المستندة إلى المشروع.
 abstract: >

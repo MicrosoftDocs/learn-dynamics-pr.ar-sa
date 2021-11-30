@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.inspections.2-create
+title: إنشاء عمليات الفحص
+metadata:
+  title: إنشاء عمليات الفحص
+  description: تعرف على كيفية إنشاء عمليات الفحص في Field Service.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 58320d86e573e9802a27a8aa511f9cd8ad8f6fb9
+  ms.sourcegitcommit: 6d1ba97d9b63bdded7d843e37beaa61e6a02e33a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "7817624"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-create.md)]

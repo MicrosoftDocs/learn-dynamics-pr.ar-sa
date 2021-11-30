@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.inspections.4-perform
+title: إجراء عمليات الفحص
+metadata:
+  title: إجراء عمليات الفحص
+  description: تعرّف على كيفية إجراء عمليات فحص باستخدام تطبيق الأجهزة المحمولة Field Service.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: acd4fc923bef8b3b8184e0c39a1fc6d591d15a43
+  ms.sourcegitcommit: 6d1ba97d9b63bdded7d843e37beaa61e6a02e33a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "7817654"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-perform.md)]

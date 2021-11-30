@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.inspections
+metadata:
+  title: عمليات الفحص في Dynamics 365 Field Service
+  description: تعرف على كيفية إنشاء عمليات الفحص وتنفيذها في Microsoft Dynamics 365 Field Service. الاستعداد لـ MB-240.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 116be43636e12a75ca1240fe7cc36a91a15e8d8e
+  ms.sourcegitcommit: 6d1ba97d9b63bdded7d843e37beaa61e6a02e33a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "7817670"
+title: عمليات الفحص في Dynamics 365 Field Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعرف على كيفية إنشاء عمليات الفحص وتنفيذها في Dynamics 365 Field Service.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تعرّف على الغرض من عمليات الفحص في Dynamics 365 Field Service.
+
+  - تعرف على كيفية إنشاء عمليات فحص.
+
+  - إقران عمليات الفحص بأوامر العمل وأصول العميل.
+
+  - اجراء عمليات فحص باستخدام تطبيق الأجهزة المحمولة Field Service.
+prerequisites: المعرفة الأساسية لتطبيق Dynamics 365 Field Service
+iconUrl: /learn/achievements/inspections.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.inspections.1-introduction
+- learn-dynamics.inspections.2-create
+- learn-dynamics.inspections.3-associate
+- learn-dynamics.inspections.4-perform
+- learn-dynamics.inspections.5-check
+- learn-dynamics.inspections.6-summary
+badge:
+  uid: learn-dynamics.inspections.badge

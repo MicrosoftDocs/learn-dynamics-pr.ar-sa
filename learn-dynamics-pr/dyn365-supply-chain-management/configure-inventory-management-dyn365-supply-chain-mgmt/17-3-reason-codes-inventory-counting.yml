@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-3-reason-codes-inventory-counting
+title: التعامل مع أكواد الأسباب لجرد المخزون
+metadata:
+  title: التعامل مع أكواد الأسباب لجرد المخزون
+  description: تصف هذه الوحدة كيفية التعامل مع أكواد الأسباب لجرد المخزون في ‏‫Supply Chain Management‬.
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.custom: 
+  ms.openlocfilehash: b5b4805a9e3d9845464dc05e135be447501ba92b
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792203"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/17-3-reason-codes-inventory-counting.md)]

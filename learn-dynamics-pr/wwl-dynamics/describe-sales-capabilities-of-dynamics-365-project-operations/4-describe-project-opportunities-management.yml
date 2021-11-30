@@ -4,17 +4,18 @@ title: وصف إدارة فرص المشروع
 metadata:
   title: وصف إدارة فرص المشروع
   description: وصف إدارة فرص المشروع
-  ms.date: 07/22/2021
+  ms.date: 11/10/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 64dbb50691f5753392369f0b549301be425a2ebe
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: e4970add7fdc7c3010937e2b2bc618828e082a2b
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438545"
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792058"
 azureSandbox: false
+labModal: false
 durationInMinutes: 2
 content: '[!include[](includes/4-describe-project-opportunities-management.md)]'

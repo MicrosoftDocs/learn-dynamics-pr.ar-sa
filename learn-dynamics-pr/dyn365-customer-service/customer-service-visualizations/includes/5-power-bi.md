@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 11383b48e4eb93b9c1285bf6a9b3c01d265912ff
-ms.sourcegitcommit: cdfd906874ce7344acbc5a939cb28a91ec696aab
+ms.openlocfilehash: 7a0ac971dcb86e4191c1d452409b69b63512b395
+ms.sourcegitcommit: c95922edfc4783b70b93a09d3c31693ebcad174e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "7730881"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "7752219"
 ---
 كما ذكر سابقاً، يمكنك تضمين تقارير Power BI ولوحات المعلومات والإطارات المتجانبة في Dynamics 365 Customer Service. وتقوم هذه الوحدة باستكشاف كيف يمكن لـ Power BI استهلاك البيانات من Dynamics 365 لإنشاء تقارير ولوحات معلومات Power BI.
 

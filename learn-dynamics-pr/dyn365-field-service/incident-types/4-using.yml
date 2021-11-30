@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.incident-types.4-using
+title: استخدام أنواع الحوادث
+metadata:
+  title: استخدام أنواع الحوادث
+  description: تعرف على كيفية تطبيق أنواع الحوادث على أوامر العمل في Field Service.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 90eb6577ed13977cc145515435b9a6288c76b675
+  ms.sourcegitcommit: cc0f31f19ab065c5f52bdddf92fe94e6b3c5b168
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/12/2021
+  ms.locfileid: "7799546"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-using.md)]

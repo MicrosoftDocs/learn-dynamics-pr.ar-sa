@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-customer-scheduling
+metadata:
+  title: الشروع في التعامل مع جدولة Dynamics 365 Customer Service.
+  description: هل تحتاج إلى جدولة موظفين وموارد أخرى لتقديم خدمات للعملاء؟ يتناول مسار التعليم هذا كيفية تكوين جدولة Customer Service واستخدامها.
+  ms.date: 11/09/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customer-service
+  ms.openlocfilehash: 9373efdc253cc9f47b399e9e7f2f6d55e447f187
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792098"
+title: الشروع في التعامل مع جدولة Dynamics 365 Customer Service.
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  هل تحتاج إلى جدولة موظفين وموارد أخرى لتقديم خدمات للعملاء؟ يتناول مسار التعليم هذا كيفية تكوين جدولة Customer Service واستخدامها.
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Customer Service
+iconUrl: /learn/achievements/get-started-customer-scheduling.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+modules:
+- learn-dynamics.setup-customer-service-scheduling
+- learn-dynamics.schedule-customer-service-scheduling
+trophy:
+  uid: learn-dynamics.get-started-customer-scheduling.trophy

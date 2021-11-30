@@ -3,16 +3,16 @@ uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops
 metadata:
   title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
   description: معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
-  ms.date: 10/25/2021
+  ms.date: 11/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5af840accf0408240ffdef259a15985e668f6260
-  ms.sourcegitcommit: 757817d943fdf65cb870e63f17074b5055b54c46
+  ms.openlocfilehash: e11a1b734868dedfca52f8f22231b15a9b675f51
+  ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/25/2021
-  ms.locfileid: "7679399"
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "7818412"
 title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nمعلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء منتجات كنوع صنف وخدمة.\n- تكوين إعدادات الأوامر الافتراضية.\n- إنشاء المنتجات الرئيسية بالمتغيرات المحددة مسبقاً.\n- إنشاء وتكوين التدرجات الهرمية للفئات.\n- إنشاء سمات المنتجات.\n"
@@ -34,6 +34,7 @@ units:
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.4-default-order-settings
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.5-defining-products-as-not-stocked
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.6-create-product-masters-with-variants
+- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.6-2-gain-productivity-variant-suggestions
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.7-create-configure-category-hierarchies-attributes
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.8-configure-item-pricing
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.9-exercise-create-released-product

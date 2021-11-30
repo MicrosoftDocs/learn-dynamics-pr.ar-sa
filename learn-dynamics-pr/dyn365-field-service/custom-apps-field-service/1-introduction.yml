@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.custom-apps-field-service.1-introduction
+title: مقدمة إلى Power Apps وDataverse
+metadata:
+  title: مقدمة إلى Power Apps وDataverse
+  description: مقدمة حول Power Platform وكيف يمكنك إنشاء التطبيقات لـ Dynamics 365 Field Service
+  ms.date: 11/08/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 57073e777799847a2cae8b3bfbcefdee3b8d7f63
+  ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7783530"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction.md)]

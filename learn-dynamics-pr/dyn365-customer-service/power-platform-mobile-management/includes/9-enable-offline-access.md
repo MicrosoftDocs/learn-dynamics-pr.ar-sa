@@ -1,44 +1,44 @@
 ---
-ms.openlocfilehash: 7c9455aace6ed720042f67f4cca4de7c56abee9f8c789a0e0a3b9999e3687b25
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 820e4984c826f3a57dda7f281f031f96facf77f6
+ms.sourcegitcommit: c42b8eacaf7b3a46b452e26ca4473d6831f09552
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7125970"
+ms.lasthandoff: 11/08/2021
+ms.locfileid: "7775794"
 ---
 تعمل هذه التمارين بشكل أفضل عند استخدام الإصدار 9.0 من بيئة الإصدار التجريبي من تطبيقات Dynamics 365 Customer Engagement أو إصدار أحدث.
 
 ### <a name="learning-objectives"></a>الأهداف التعليمية
 
-ستتمكن عند الانتهاء من هذه التمارين من تنفيذ المهمة التالية: ضمان حصول المستخدمين على أذونات للوصول إلى Dynamics 365 للهاتف المحمول، ومنع ظهور الكيانات غير المستخدمة في Dynamics 365 للهاتف المحمول، وإنشاء دفتر ملاحظات OneNote لسجل حساب.
+في نهاية هذه التمارين، ستتمكن من تنفيذ المهمة التالية: التأكد من أن المستخدمين لديهم أذونات للوصول إلى Dynamics 365 for Mobile وإزالة الجداول غير المستخدمة من الظهور في Dynamics 365 for Mobile وإنشاء دفتر ملاحظات OneNote لسجل حساب.
 
 الوقت المقدر لإنهاء هذا التمرين العملي: 20 إلى 30 دقيقة
 
 ### <a name="high-level-steps"></a>الخطوات عالية المستوى
 
-1. التأكيد أن دور البائع له امتيازات Dynamics 365 للهاتف المحمول.
-2. منع ظهور المنافس وعنوان المنافس في Dynamics 365 للهاتف المحمول.
+1. التأكيد أن دور البائع له امتيازات Dynamics 365 for Mobile.
+2. منع ظهور المنافس وعنوان المنافس في Dynamics 365 for Mobile.
 3. إنشاء دفتر ملاحظات OneNote لسجل حساب.
 
 ### <a name="detailed-steps"></a>الخطوات التفصيلية
 
-أنت مستشار وظيفي يبدأ العمل على تنفيذ تطبيقات Dynamics 365 Customer Engagement لعميل جديد. يتضمن هذا التنفيذ نشر Dynamics 365 للهواتف للمستخدمين داخل المؤسسة. لا تستخدم المؤسسة حالياً جدول Competitor وقد طلبت إزالة الكيانات من Dynamics 365 للهاتف المحمول.
+أنت مستشار وظيفي يبدأ العمل على تنفيذ تطبيقات Dynamics 365 Customer Engagement لعميل جديد. يتضمن هذا التنفيذ نشر Dynamics 365 للهواتف للمستخدمين داخل المؤسسة. لا تستخدم المؤسسة حالياً جدول "المنافس" وقد طلبت إزالة الجداول من Dynamics 365 for Mobile.
 
-### <a name="confirm-that-the-salesperson-role-has-dynamics-365-for-mobile-privileges"></a>التأكيد أن دور البائع له امتيازات Dynamics 365 للهاتف المحمول
+### <a name="confirm-that-the-salesperson-role-has-dynamics-365-for-mobile-privileges"></a>التأكيد أن دور البائع له امتيازات Dynamics 365 for Mobile
 
 1. في تطبيق  **Dynamics 365 Customer Engagement apps - مخصص** ، انتقل إلى  **الإعدادات** > **الأمان** > **أدوار الأمان**.
 2. انقر نقرًا مزدوجًا فوق الدور الأمني **مندوب المبيعات** لفتحه.
 3. حدِّد علامة التبويب **إدارة الأعمال**.
-4. مرِّر لأسفل إلى **امتيازات ذات صلة بالخصوصية** وتأكَّد من أن **Dynamics 365 للهاتف المحمول‎** مُمكَّن.
+4. مرِّر لأسفل إلى **امتيازات ذات صلة بالخصوصية** وتأكَّد من أن **Dynamics 365 for Mobile‎** مُمكَّن.
 
-![لقطة شاشة لعلامة التبويب إدارة الأعمال لدور الأمان: البائع مع تمكين Dynamics 365 للهاتف المحمول.](../media/ppm_unit9_1.png)
+![لقطة شاشة لعلامة التبويب إدارة الأعمال لدور الأمان: البائع مع تمكين Dynamics 365 for Mobile.](../media/ppm_unit9_1.png)
 
 5. انقر فوق **حفظ وإغلاق** لإغلاق دور الأمان
 
-#### <a name="remove-the-competitor-and-competitor-address-from-appearing-in-dynamics-365-for-mobile"></a>منع ظهور المنافس وعنوان المنافس في Dynamics 365 للهاتف المحمول
+#### <a name="remove-the-competitor-and-competitor-address-from-appearing-in-dynamics-365-for-mobile"></a>منع ظهور المنافس وعنوان المنافس في Dynamics 365 for Mobile
 
 1. انتقِل إلى **إعدادات** > **تخصيصات** > **تخصيص النظام**.
-2. في جزء التنقل الأيسر، عليك توسيع **الكيانات**.
+2. في جزء التنقل الأيسر، عليك توسيع **الجداول**.
 3. انقر فوق **المنافس**.
 4. مرِّر لأسفل إلى القسم **Outlook وMobile**.
 5. ألغِ تحديد الخيار **تمكين للجهاز المحمول**.

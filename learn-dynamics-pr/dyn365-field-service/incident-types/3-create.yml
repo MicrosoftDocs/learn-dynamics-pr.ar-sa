@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.incident-types.3-create
+title: إنشاء أنواع الحوادث
+metadata:
+  title: إنشاء أنواع الحوادث
+  description: تعرف على كيفية إنشاء أنواع الحوادث في Field Service.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b165636e3e80dc23b0595e3f3e404417f0ccaad0
+  ms.sourcegitcommit: cc0f31f19ab065c5f52bdddf92fe94e6b3c5b168
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/12/2021
+  ms.locfileid: "7799458"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-create.md)]

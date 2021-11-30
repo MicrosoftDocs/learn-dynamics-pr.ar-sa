@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn-dynamics.incident-types
+metadata:
+  title: أنواع الأحداث في Dynamics 365 Field Service
+  description: يمكن تحديد أنواع الأحداث المطلوب استخدامها كقوالب عند إنشاء أوامر العمل في Microsoft Dynamics 365 Field Service. الاستعداد لـ MB-240.
+  ms.date: 11/03/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3d54d55f57bfd4346bd75e06b440b6c7a52a1ee3
+  ms.sourcegitcommit: cc0f31f19ab065c5f52bdddf92fe94e6b3c5b168
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/12/2021
+  ms.locfileid: "7799466"
+title: أنواع الأحداث في Dynamics 365 Field Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يمكن تحديد أنواع الأحداث المطلوب استخدامها كقوالب عند إنشاء أوامر العمل في Dynamics 365 Field Service.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تعرّف على الغرض من أنواع الأحداث في Dynamics 365 Field Service.
+
+  - تعرف على كيفية إنشاء أنواع الأحداث.
+
+  - إنشاء مهام الخدمة واستخدامها في نوع الحدث.
+
+  - إضافة المنتجات والخدمات إلى نوع الحدث.
+
+  - حدد المدة الخاصة بنوع الحدث.
+
+  - استخدام أنواع الأحداث في أوامر العمل.
+prerequisites: المعرفة الأساسية لتطبيق Dynamics 365 Field Service
+iconUrl: /learn/achievements/incident-types.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-field-service
+units:
+- learn-dynamics.incident-types.1-introduction
+- learn-dynamics.incident-types.2-define
+- learn-dynamics.incident-types.3-create
+- learn-dynamics.incident-types.4-using
+- learn-dynamics.incident-types.5-check
+- learn-dynamics.incident-types.6-summary
+badge:
+  uid: learn-dynamics.incident-types.badge

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a1b3553af072b33f7f16ee01452e1f579883038747825e585f0229ccb03fec09
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6cf878228917811dea529436088b8e975ea3cc49
+ms.sourcegitcommit: a607ee21bfbd3152f9260f0500782eb33d50f53f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7069163"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "7778765"
 ---
 تطبيقات Finance and Operations تستخدم لغة التطوير X++ في فئاتها.
 تُعد X++ لغة موجهه للعناصر. إذا لم تكن قد استخدمتها من قبل، ولكنك معتاد على لغة أخرى موجهة للكائنات، فستجد أنه من السهل تعلمها. 
@@ -41,7 +41,7 @@ ms.locfileid: "7069163"
 
     ```xpp
     ClassName objectReference = new ClassName();
-    objectHandleName.methodName();
+    objectReference.methodname();
     ```
 
 - **الأسلوب الثابت** - يُشار إليه أيضاً كأسلوب فئة، ويستخدم الكلمة الأساسية `static` وينتمي إلى فئة. باستخدام أسلوب ثابت، على عكس أسلوب المثيل، لا تحتاج إلى إنشاء مثيل لكائن قبل استخدام الأسلوب. تُستخدم الأساليب الثابتة بشكل شائع للعمل مع البيانات المخزنة في الجداول. فيما يلي مثال على البنية المستخدمة لاستدعاء أسلوب ثابت:

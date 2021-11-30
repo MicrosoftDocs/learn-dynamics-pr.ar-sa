@@ -4,17 +4,17 @@ title: إعداد وإنشاء الأصول الثابتة
 metadata:
   title: إعداد وإنشاء الأصول الثابتة
   description: تصف هذه الوحدة كيفية إعداد وإنشاء الأصول الثابتة في Dynamics 365 Finance.
-  ms.date: 04/24/2020
+  ms.date: 11/10/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 94dc50aefdfb58d2b2a1cc94c3e7b62ad87c1f59
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 933d965b8237fd9e2dc7363ad258c654ef4d5817
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340343"
-durationInMinutes: 15
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792142"
+durationInMinutes: 17
 content: >-
   [!include[](../includes/unit-banner.md)]
 
