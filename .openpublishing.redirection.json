@@ -1,6 +1,21 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-finance/manage-fixed-assets-dyn365-finance/16-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/manage-fixed-assets-dyn365-finance/15-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/implement-common-integration-features-finance-ops/11-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/implement-common-integration-features-finance-ops/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/create-fiscal-calendars-years-periods-dyn365-finance/9-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/create-fiscal-calendars-years-periods-dyn365-finance/8-exercise-1",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-finance/configure-public-sector-dyn365-finance/8-exercise-3.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/configure-public-sector-dyn365-finance/exercise-1",
       "redirect_document_id": false
