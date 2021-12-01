@@ -1,6 +1,31 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/work-analytics-reporting-finance-operations/11-exercise-6.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/6-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/work-analytics-reporting-finance-operations/10-exercise-5.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/6-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/work-analytics-reporting-finance-operations/9-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/6-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/work-analytics-reporting-finance-operations/8-exercise-3.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/6-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/work-analytics-reporting-finance-operations/7-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/work-analytics-reporting-finance-operations/6-exercise-1",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-finance/manage-fixed-assets-dyn365-finance/16-exercise-2.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/manage-fixed-assets-dyn365-finance/15-exercise-1",
       "redirect_document_id": false
