@@ -38,10 +38,10 @@ units:
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-2-extensible-data-security-policy
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.7-exercise-import-a-user-and-assign-security-role
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.6-exercise-create-a-new-user-and-assign-a-security-role
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.8-exercise-import-users-in-bulk-as-a-batch-job
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.9-exercise-assign-users-to-security-roles-dynamically
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.10-exercise-exclude-users-from-a-role-assignment
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.11-exercise-set-up-segregation-of-duties
+
+
+
+
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.12-plan-and-implement-security-in-f-and-o-knowledge-check
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.13-plan-and-implement-security-in-f-and-o-summary
 badge:

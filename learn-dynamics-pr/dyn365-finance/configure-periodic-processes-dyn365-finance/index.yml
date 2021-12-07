@@ -43,7 +43,7 @@ units:
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.05-process-end-of-year-close
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.06-perform-financial-consolidations
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.07-exercise-perform-year-end-close
-- learn-dynamics.configure-periodic-processes-d365-finance-ops.08-exercise-perform-a-consolidation
+
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.09-configure-periodic-processes-quiz
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.10-configure-periodic-processes-summary
 badge:

@@ -38,8 +38,8 @@ units:
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.4-setup-derived-financial-hierarchies
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.5-configure-billing-codes-free-text-inv
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.6-exercise-setup-funds
-- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.7-exercise-setup-derived-fin-hierarchy
-- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.8-exercise-configure-billing-codes
+
+
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.9-configure-public-sector-quiz
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.10-configure-public-sector-summary
 badge:

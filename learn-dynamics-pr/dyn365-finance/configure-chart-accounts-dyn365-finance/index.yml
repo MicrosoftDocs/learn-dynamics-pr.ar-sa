@@ -52,7 +52,7 @@ units:
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.16-configure-dimension-templates-sets
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.17-define-config-account-structures-rules
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.18-exercise-create-main-account-category
-- learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.19-exercise-create-advanced-rule-structure
+
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.20-config-chart-accounts-quiz
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.21-config-chart-accounts-summary
 badge:
