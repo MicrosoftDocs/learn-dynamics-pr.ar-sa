@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.6-exercise-setup-funds
-title: مختبر - إعداد الصناديق
+title: معمل-العمل مع القطاع العام
 labId: 71860
 metadata:
-  title: مختبر - إعداد الصناديق
-  description: تدرب على إنشاء الصناديق في Dynamics 365 Finance.
-  ms.date: 05/31/2021
+  title: معمل-العمل مع القطاع العام
+  description: تدرب على العمل مع القطاع العام في Dynamics 365 Finance.
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: c496dc53a522e0d75dda86470ddf4bdac97429b3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c257e22d5abedfaf5e0d4796dfaef54e36bcb7f0
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358758"
-durationInMinutes: 15
-content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/6-exercise-setup-funds.md)] \n[!include[](../includes/non-final-lab-end.md)]"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867396"
+durationInMinutes: 35
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/6-exercise-setup-funds.md)] \n[!include[](../includes/standalone-lab-end.md)]"

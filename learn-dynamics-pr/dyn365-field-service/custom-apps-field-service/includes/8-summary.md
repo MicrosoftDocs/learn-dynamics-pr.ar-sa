@@ -1,26 +1,26 @@
 ---
-ms.openlocfilehash: 1caa4e978f85f92918c5cccc64048716208a8d24
-ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
+ms.openlocfilehash: e7f3c55579cd55659f1e45ec25b24e1daaed84b5
+ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "7783515"
+ms.lasthandoff: 12/02/2021
+ms.locfileid: "7880172"
 ---
-وتوجد دائماً متطلبات لا يمكن استيفاءها مع Dynamics 365 Field Service. ويتيح لك Power Platform استيفاء العديد من الفجوات الموجودة في المتطلبات بمجهود أقل ودون الحاجة إلى مهارات الترميز.
+من حين لآخر، لا يمكن تلبية متطلبات معينة خارج منطقة الجزاء باستخدام Dynamics 365 Field Service. وتتيح لك Microsoft Power Platform استيفاء العديد من الفجوات في المتطلبات بمجهود أقل ودون الحاجة إلى مهارات الترميز.
 
-وقد وضحت هذه الوحدة طرق معالجة بعض الفجوات باستخدام Power Apps، بما في ذلك:
+وقد أوضحت هذه الوحدة النمطية طرق معالجة بعض الفجوات باستخدام Power Apps، بما في ذلك كيفية:
 
-- كيفية استخدام Power Platform لتخصيص Dynamics 365 Field Service
+- استخدم Microsoft Power Platform لتخصيص Dynamics 365 Field Service.
 
-- كيفية استخدام Power Apps مع Dynamics 365 Field Service
+- استخدم Power Apps مع Dynamics 365 Field Service.
 
-- كيفية توزيع مدخل الصفحات الرئيسية لتجارب العملاء
+- انشر portal الصفحات الرئيسية لتجربة العميل.
 
-- كيفيه تمكين جدول مخصص للجدولة
+- تمكين جدول مخصص للجدولة.
 
-- كيفية تخصيص Field Service
+- تخصيص Field Service.
 
-ستساعدك وحدات Microsoft Learn التالية ومقالات Microsoft Docs على الشروع في إتقان Power Apps.
+ستساعدك وحدات Microsoft Learn التالية ومقالات Microsoft Docs في بدء إتقان استخدام Power Apps:
 
 - [الشروع في العمل باستخدام تطبيقات اللوحة Power Apps](/learn/modules/get-started-with-powerapps/?azure-portal=true)
 

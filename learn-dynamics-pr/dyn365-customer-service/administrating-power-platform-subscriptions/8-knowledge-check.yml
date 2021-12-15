@@ -1,24 +1,24 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.administrating-power-platform-subscriptions.8-knowledge-check
 metadata:
-  title: فحص المعرفة لإدارة اشتراكات Microsoft Power Platform
-  description: يختبر فحص المعرفة هذا معلوماتك عن إدارة اشتراكات Microsoft Power Platform.
+  title: إدارة الفحص المعرفي لاشتراكات Microsoft Power Platform
+  description: سيختبر فحص المعرفة هذا معرفتك بإدارة اشتراكات Microsoft Power Platform.
   ms.date: 02/06/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: f6da30fc15db1f987001005682262727029aece9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5b98b796a960b4ad00012a3e397d1de84871ea5d
+  ms.sourcegitcommit: 73f27c200d18d4e4d0fd358d386bb6647cfacac2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364451"
+  ms.lasthandoff: 11/27/2021
+  ms.locfileid: "7865792"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:
-  title: فحص المعرفة لإدارة اشتراكات Microsoft Power Platform
+  title: إدارة الفحص المعرفي لاشتراكات Microsoft Power Platform
   questions:
   - content: أي من أدوار المسؤول التالية يمكن أن يعيِّن إذن المسؤول إلى مستخدمين آخرين في مركز إدارة Microsoft 365؟
     choices:
@@ -38,13 +38,13 @@ quiz:
     choices:
     - content: يمكن لمسؤولي النظام فقط تسجيل الدخول إلى مثيل في وضع الإدارة
       isCorrect: false
-      explanation: يمكنك وضع مثيلات آلية تحديد الوصول ومثيلات الإنتاج في وضع الإدارة، وبهذا سيتمكن فقط المستخدمون ممن لديهم دوري الأمان "مسؤول النظام" أو "مخصِّص النظام" من تسجيل الدخول إلى ذلك المثيل.
-    - content: يمكن وضع مثيلات آلية تحديد الوصول ومثيلات الإنتاج في وضع الإدارة
+      explanation: يمكنك وضع مثيلات آلية الحماية في وضع الإدارة بحيث لا يتمكن سوى المستخدمين الذين لديهم أدوار أمان مسؤول النظام أو مخصص النظام من تسجيل الدخول إلى هذا المثيل.
+    - content: يمكن وضع مثيلات آلية تحديد الوصول في وضع الإدارة
       isCorrect: true
-      explanation: يمكنك وضع مثيلات آلية تحديد الوصول ومثيلات الإنتاج في وضع الإدارة، وبهذا سيتمكن فقط المستخدمون ممن لديهم دوري الأمان "مسؤول النظام" أو "مخصِّص النظام" من تسجيل الدخول إلى ذلك المثيل.
+      explanation: يمكنك وضع مثيلات آلية الحماية في وضع الإدارة بحيث لا يتمكن سوى المستخدمين الذين لديهم أدوار أمان مسؤول النظام أو مخصص النظام من تسجيل الدخول إلى هذا المثيل.
     - content: لا يمكن استيراد أي بيانات إلى مثيل في وضع الإدارة
       isCorrect: false
-      explanation: يمكنك وضع مثيلات آلية تحديد الوصول ومثيلات الإنتاج في وضع الإدارة، وبهذا سيتمكن فقط المستخدمون ممن لديهم دوري الأمان "مسؤول النظام" أو "مخصِّص النظام" من تسجيل الدخول إلى ذلك المثيل.
+      explanation: يمكنك وضع مثيلات آلية الحماية في وضع الإدارة بحيث لا يتمكن سوى المستخدمين الذين لديهم أدوار أمان مسؤول النظام أو مخصص النظام من تسجيل الدخول إلى هذا المثيل.
   - content: أي من العبارات التالية صحيح بخصوص تحديثات 365 Microsoft Dynamics؟
     choices:
     - content: يتم إصدار التحديثات ربع سنوياً وتُثبَّت تلقائياً في كل مثيل

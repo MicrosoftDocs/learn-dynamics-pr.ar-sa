@@ -3,17 +3,17 @@ uid: learn-dynamics.customer-assets.3-associate
 title: أصول العملاء المرتبطة
 metadata:
   title: أصول العملاء المرتبطة
-  description: تعرف على كيفية إقران أصول العميل بأوامر العمل في Field Service
+  description: تعرف على كيفية إقران أصول العميل بأوامر العمل في Field Service.
   ms.date: 11/04/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b502e57c6ab0a70edbbf0f5606707ff54e87f3f8
-  ms.sourcegitcommit: 33507250798bc28b3fbff11538f31b26a0dc45f2
+  ms.openlocfilehash: 010ab9bf361a0970890a5d19b63eb142e8d4d72e
+  ms.sourcegitcommit: 39efc79c982ce78c1f50911723885e694f5fdde5
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/09/2021
-  ms.locfileid: "7776310"
+  ms.lasthandoff: 11/19/2021
+  ms.locfileid: "7826468"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

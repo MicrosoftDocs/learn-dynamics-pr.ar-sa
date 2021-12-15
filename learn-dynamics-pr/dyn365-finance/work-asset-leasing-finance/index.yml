@@ -3,19 +3,19 @@ uid: learn-dynamics.work-asset-leasing-finance
 metadata:
   title: استخدام تأجير الأصول في Dynamics 365 Finance
   description: يلتقط تأجير الأصول معلومات حول التأجير ويُعالجها ويساعدك على إنشاء إدخالات دفتر اليومية أثناء دورة حياة الإيجار، من الإقرار الأولي وإدخالات دفتر اليومية الشهرية إلى خفض وإنهاء الإيجار.
-  ms.date: 03/04/2021
+  ms.date: 11/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d4875dbc9df186c85672b0d39bf878021480ad28
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1315f5e5d3e03d8778afe90e48a3c5c79bb06041
+  ms.sourcegitcommit: e3ce805e8b4c867705205a2a2e2fafa975c6a6ef
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352605"
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "7863239"
 title: استخدام تأجير الأصول في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nيلتقط تأجير الأصول معلومات حول التأجير ويُعالجها ويساعدك على إنشاء إدخالات دفتر اليومية أثناء دورة حياة الإيجار، من الإقرار الأولي وإدخالات دفتر اليومية الشهرية إلى خفض وإنهاء الإيجار.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على القدرة على تأجير الأصول.\n- قم بإنشاء تأجير أصل واعرض معلومات عن هذه الإيجارات. \n- قم بإنشاء فواتير الدفع باعتبارها مرتبطة بتأجير الأصل.\n- قم باستيراد معلومات الإيجار.\n- يمكنك اكتشاف خيارات الإبلاغ عن تأجير الأصول في Dynamics 365 Finance.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على القدرة على تأجير الأصول.\n- إنشاء عقد إيجار الأصول وعرض المعلومات لهذه الإيجارات.\n- إقران أصول ثابتة بعقود إيجار \n- قم بإنشاء فواتير الدفع باعتبارها مرتبطة بإيجار الأصل.\n- قم باستيراد معلومات الإيجار.\n- يمكنك اكتشاف خيارات الإبلاغ عن تأجير الأصول في Dynamics 365 Finance.\n"
 prerequisites: >
   - معرفة Dynamics 365 Finance
 
@@ -38,6 +38,7 @@ units:
 - learn-dynamics.work-asset-leasing-finance.06-lease-groups
 - learn-dynamics.work-asset-leasing-finance.07-create-lease
 - learn-dynamics.work-asset-leasing-finance.08-create-lease-schedule
+- learn-dynamics.work-asset-leasing-finance.08-2-associate-assets-leases
 - learn-dynamics.work-asset-leasing-finance.09-copy-lease
 - learn-dynamics.work-asset-leasing-finance.10-adjust-lease
 - learn-dynamics.work-asset-leasing-finance.11-asset-leasing-journal

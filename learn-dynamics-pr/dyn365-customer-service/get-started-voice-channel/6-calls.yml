@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-voice-channel.6-calls
 title: إجراء المكالمات وتلقيها
 metadata:
   title: إجراء المكالمات وتلقيها
-  description: تعرّف على كيفية استخدام خاصية إجراء المكالمات وتلقيها.
+  description: تعرّف على كيفية إجراء مكالمات وتلقيها.
   ms.date: 11/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 89bd8cc84cb882157f5aab0f1632c52edd6d1424
-  ms.sourcegitcommit: 51200b30f3608949d6a7e9e566acfd054e8d7285
+  ms.openlocfilehash: 3e218bcf2b8adcdbdbec159dfa3855735050399a
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/16/2021
-  ms.locfileid: "7815522"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878521"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-calls.md)]"

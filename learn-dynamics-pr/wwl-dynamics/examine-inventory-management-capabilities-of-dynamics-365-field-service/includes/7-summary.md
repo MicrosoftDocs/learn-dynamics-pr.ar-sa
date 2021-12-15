@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c407eaeeff5762aaafacd24898ee9da5b49f04debd95ff9e96e9bd7b42d928bb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1a796a6353d3cfb44e341963ebf70c76bc1427b5
+ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438427"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "7878433"
 ---
 قدمت هذه الوحدة إمكانات إدارة المخزون في Dynamics 365 Field Service وأوضحت كيف يمكن استخدامها لإدارة المخزون في مؤسستك. لقد رأينا كيف يمكن إنشاء ميزات مثل أوامر الشراء والمرتجعات وكيف تؤثر على مستويات المخزون والكمية في المستودعات.
 
@@ -22,7 +22,7 @@ Dynamics 365 Field Service
  -  [موقع الويب](https://dynamics.microsoft.com/field-service/overview/)
  -  [مدونة Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/)
  -  [الوثائق](/dynamics365/field-service/user-guide)
- -  [التعلم](/learn/browse/)
+ -  [التعلم](/learn/browse/?products=dynamics-field-service)
  -  [Dynamics 365 Community](https://community.dynamics.com/)
  -  [الموارد](https://dynamics.microsoft.com/field-service/resources/)
  -  [Connected Field Service](/dynamics365/field-service/connected-field-service-overview)

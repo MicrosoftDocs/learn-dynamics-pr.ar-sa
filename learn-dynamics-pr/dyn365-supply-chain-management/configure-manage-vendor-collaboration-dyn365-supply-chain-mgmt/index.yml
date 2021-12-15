@@ -3,19 +3,19 @@ uid: learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-financ
 metadata:
   title: تكوين تعاون المورد وإدارته في Dynamics 365 Supply Chain Management
   description: السرعة والدقة والحل الرقمي عند التواصل مع الموردين هي حاجة أساسية لنجاح الأعمال. يوفر Dynamics 365 Supply Chain Management عمليات تعاون سلسة مع الموردين من خلال مدخل تعاون المورد.
-  ms.date: 01/15/2021
+  ms.date: 12/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0455d6d09ae2a928ad3658bbe997f0c285fe3c27
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5974c22b6f4d2169715ebe40e109c055b65055a3
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353446"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878584"
 title: تكوين تعاون المورد وإدارته في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nالسرعة والدقة والحل الرقمي عند التواصل مع الموردين هي حاجة أساسية لنجاح الأعمال. يوفر Dynamics 365 Supply Chain Management عمليات تعاون سلسة مع الموردين من خلال مدخل تعاون المورد. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين عمليات تعاون الموردين.\n- التعامل مع مساحة عمل تعاون المورد.\n- استخدام تعاون المورد كجزء من عملية التدبير إلى الدفع.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين عمليات تعاون الموردين.\n- التعامل مع مساحة عمل تعاون المورد.\n- الاحتفاظ بشهادات المورد.\n- استخدام تعاون المورد كجزء من عملية التدبير إلى الدفع.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n"
 iconUrl: /learn/achievements/configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.svg
 levels:
@@ -31,6 +31,7 @@ units:
 - learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.1-configure-manage-vendor-collab-intro
 - learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.2-purchase-order-statuses
 - learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.3-configure-vendor-collaboration
+- learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.3-2-maintain-vendor-certification
 - learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.4-setup-vendor-collaboration-security-roles
 - learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.5-use-vendor-collaboration-invoicing-workspace
 - learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.6-define-info-shown-to-vendors-respond-po

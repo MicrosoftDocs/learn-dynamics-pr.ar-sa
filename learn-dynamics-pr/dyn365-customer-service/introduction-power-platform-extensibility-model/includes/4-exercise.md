@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 744705a9c931847fe1d8854e72152782d9f4893b
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: ad7e87a1987a5d5523002bdb9f4f94ee1fcebfd5
+ms.sourcegitcommit: 795891ac6ed028ede7b163a7d63c538842fe53db
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7341922"
+ms.lasthandoff: 11/19/2021
+ms.locfileid: "7826919"
 ---
 في هذا التمرين، سيتم إنشاء واجهة API مخصصة لتنفيذ بعض المنطق المخصص. بعد ذلك، ستستخدم واجهة API المخصصة من إحدى خطوات تدفق في Power Automate.
 
@@ -154,9 +154,9 @@ ms.locfileid: "7341922"
 
 1.  في قائمة الحلول انقر فوق اسم العرض **معمل واجهة API مخصصة** لفتحه.
 
-1.  انقر فوق **جديد > واجهة API مخصصة**
+1.  انقر فوق **جديد > آخر > آخر> ‏‫واجهة API المخصصة‬**
 
-1.  أدخِل المعلومات التالية:
+1.  أدخل المعلومات التالية:
 
     - **الاسم الفريد:** contoso_match
     

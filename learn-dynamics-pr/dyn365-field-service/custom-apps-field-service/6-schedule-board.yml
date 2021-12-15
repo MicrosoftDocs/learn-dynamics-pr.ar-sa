@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.custom-apps-field-service.6-schedule-board
-title: تكوين لوحات الجدولة وتخصيصها
+title: إعداد وتخصيص لوحات الجدولة
 metadata:
-  title: تكوين لوحات الجدولة وتخصيصها
-  description: تعرّف على كيفية تكوين لوحة الجدولة وتخصيصها
+  title: إعداد وتخصيص لوحات الجدولة
+  description: تعرف على كيفية إعداد لوحة الجدولة وتخصيصها.
   ms.date: 11/08/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cb6b42502c5e2801cddc9aa32547cb99307621b7
-  ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
+  ms.openlocfilehash: 5ef56a46a9ba68881897185f2c8191add2318621
+  ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/10/2021
-  ms.locfileid: "7783518"
+  ms.lasthandoff: 12/02/2021
+  ms.locfileid: "7880212"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

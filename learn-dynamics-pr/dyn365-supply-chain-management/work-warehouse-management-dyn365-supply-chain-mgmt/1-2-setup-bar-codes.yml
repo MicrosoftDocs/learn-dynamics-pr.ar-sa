@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-warehouse-management.1-2-setup-bar-codes
+title: إعداد الرموز الشريطية GS1 وشفرات الاستجابة السريعة‬ ونشرها
+metadata:
+  title: إعداد الرموز الشريطية GS1 وشفرات الاستجابة السريعة‬ ونشرها
+  description: تعرف على كيفية إعداد الرموز الشريطية GS1 وشفرات الاستجابة السريعة‬ ونشرها‬ لإدارة المستودعات في Supply Chain Management.
+  ms.date: 11/24/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0480d9dba3bb9121cb6f9e6a88287527c6dbf0cf
+  ms.sourcegitcommit: 2bdcba0251f948ade01d0c1b3bf37896144ded61
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "7864000"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-2-setup-bar-codes.md)]

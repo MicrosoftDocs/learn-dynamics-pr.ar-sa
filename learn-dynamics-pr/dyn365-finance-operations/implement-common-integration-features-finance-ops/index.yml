@@ -3,16 +3,16 @@ uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-financ
 metadata:
   title: تنفيذ ميزات التكامل المشترك في تطبيقات Finance and Operations
   description: تم دمج Microsoft Excel مع تطبيقات Finance and Operations. يتيح ذلك إمكانية سحب البيانات مباشرة من تطبيقات Finance and Operations، ومعالجة البيانات في Excel، وحفظها مرة أخرى إلى تطبيقات Finance and Operations. يمكنك أيضاً إرسال رسائل البريد الإلكتروني مباشرة عبر تطبيقات Finance and Operations أو باستخدام Microsoft Outlook. يمكنك طباعة المستندات من أي مكان من متصفحك إلى طابعة شبكة شركتك، لذا فقد لا تكون تجربة الطباعة أسهل.
-  ms.date: 05/12/2021
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b851c311a6cb9be87c155d2d4bc8fa50af66f2a8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 28f369af58787de3fe8c39d83232f623d6eb21ae
+  ms.sourcegitcommit: 7012baa785a0c86835c7573ddfa53017aa5aed63
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353722"
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "7868056"
 title: تنفيذ ميزات التكامل المشترك في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -52,7 +52,6 @@ units:
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.8-set-up-network-printing
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.9-integrate-data-common-data-service
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.10-exercise-work-office-integration
-
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.12-common-integration-fo-quiz
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.13-common-integration-fo-summary
 badge:

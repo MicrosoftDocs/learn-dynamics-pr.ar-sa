@@ -3,16 +3,16 @@ uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-o
 metadata:
   title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance.
   description: من خلال إدارة النقد والبنوك في Dynamics 365 Finance، يمكنك تسجيل وتسوية الحركات المالية مقابل كشف الحساب المصرفي وتحديد أنواع الحركات المصرفية مثل الودائع والأرصدة غير الكافية (NSF).
-  ms.date: 01/21/2021
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 50eef29e55de15d0cdccb5a487b5f7b135fabf57
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 23c3f064aca227d2c3eee971a557c42340ef3f60
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340403"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867452"
 title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance.
 summary: "[!include[](../includes/module-banner.md)]\n\nمن خلال إدارة النقد والبنوك في Dynamics 365 Finance، يمكنك تسجيل وتسوية الحركات المالية مقابل كشف الحساب المصرفي وتحديد أنواع الحركات المصرفية مثل الودائع والأرصدة غير الكافية (NSF). \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء البنوك وتكوينها.\n- إنشاء تخطيطات البنوك وتكوينها.\n- تكوين معلمات إدارة النقد والبنوك.\n- إعداد بنوك الموردين والعملاء.\n- تكوين التنبؤات بالتدفقات النقدية والإبلاغ عنها.\n"
@@ -44,8 +44,6 @@ units:
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.8-cash-flow-forecast-reports
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.9-cash-flow-forecasting
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.10-exercise-create-bank-transaction-types-groups
-
-
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.13-config-cash-bank-quiz
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.14-config-cash-bank-summary
 badge:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 41b08c9c1d6d3164642194c60b40555e813b6deb8db1669b3f414aed67b47a03
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 419431e19b18a19009c22f809a862b54d091f926
+ms.sourcegitcommit: 5f570b8544c846adc3ac04217d6d0bd72a9e1a54
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130995"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "7862386"
 ---
 تُستخدم العبارات المستندة إلى مجموعة لتحديث سجلات بيانات متعددة أو إدراجها أو حذفها من أحد الجداول.
 
@@ -25,7 +25,7 @@ ms.locfileid: "7130995"
 يمكن لـ `update_recordset` تحديث حقول متعددة في جدول. يمكنك أيضاً تحديد عبارة WHERE لتحديد السجلات التي يتم تحديثها. فيما يلي مثال على `update_recordset` حيث تعلن عن الجدول وتستدعي `update_recordset` لتحديث حقلي **PaymMode‎** و **العملة** فقط للعملاء الذين لديهم حقل `CustGroup` يساوي "US".
 ضع في اعتبارك أنه في حال تجاوز طريقة التحديث، فإن `update_recordset` ستستدعي طريقة التحديث كل على حدة بدلاً من الكل في وقت واحد.
 ```xpp
-CustTable;
+CustTable custTable;
 Update_recordset custTable
 Setting
      PaymMode = 'Check',
@@ -34,7 +34,7 @@ Where custTable.CustGroup == 'US';
 ```
 تبدو طريقة `delete_from` مماثلة لـ `update_recordset`. يمكنك حذف سجلات متعددة في نفس الوقت من أحد الجداول، ويمكنك استخدام عبارة WHERE لتحديد السجلات المراد حذفها. في المثال التالي، يتم الإعلان عن الجدول ثم استدعاء `delete_from` لحذف جميع السجلات حيث يساوي حقل `CustGroup` الخاص بالعميل "US".
 ```xpp
-CustTable;
+CustTable custTable;
 Delete_from custTable
     Where custTable.CustGroup == 'US';
 ```

@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops
 metadata:
-  title: تكوين الحسابات المدينة في Dynamics 365 Finance
-  description: يتعين عليك تكوين الوحدة النمطية للحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر التوريد. توضح هذه الوحدة كيفية استلام المدفوعات باستخدام العديد من أنواع الدفع المختلفة مثل النقدية والشيكات وبطاقات الائتمان والمدفوعات الإلكترونية من العملاء.
-  ms.date: 04/23/2020
+  title: تكوين الحسابات المقبوضات في Dynamics 365 Finance
+  description: تعرف على تكوين الوحدة النمطية للحسابات المقبوضات في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر المبيعات. تشرح هذه الوحدة أيضاً كيفية تلقي مدفوعات العملاء باستخدام العديد من أنواع الدفع المختلفة، مثل النقد والشيكات وبطاقات الائتمان والدفع الإلكتروني.
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2010d6f57ce1cc1d864cf6f337f11783d7a0bf26
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 793b781a1e672b7121b8ffb2da1bec9e1f9194a3
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364973"
-title: تكوين الحسابات المدينة في Dynamics 365 Finance
-summary: "[!include[](../includes/module-banner.md)]\n\nيتعين عليك تكوين الوحدة النمطية للحسابات المدينة في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر التوريد. توضح هذه الوحدة كيفية استلام المدفوعات باستخدام العديد من أنواع الدفع المختلفة مثل النقدية والشيكات وبطاقات الائتمان والمدفوعات الإلكترونية من العملاء. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الحسابات المدينة.\n- إنشاء عميل والمحافظة عليه. \n- تكوين مدفوعات العميل.\n- إعداد ملفات تعريف ترحيل العملاء.\n- تكوين رسوم الحسابات المدينة.\n"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867516"
+title: تكوين الحسابات المقبوضات في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على تكوين الوحدة النمطية للحسابات المقبوضات في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر المبيعات. تشرح هذه الوحدة أيضاً كيفية تلقي مدفوعات العملاء باستخدام العديد من أنواع الدفع المختلفة، مثل النقد والشيكات وبطاقات الائتمان والدفع الإلكتروني. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الحسابات المقبوضات.\n- إنشاء عميل والمحافظة عليه. \n- تكوين مدفوعات العميل.\n- إعداد ملفات تعريف ترحيل العملاء.\n- تكوين رسوم الحسابات المدينة.\n"
 prerequisites: >
   - فهم أساسي لعمليات التمويل والمحاسبة
 
@@ -45,7 +45,6 @@ units:
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.9-setup-customer-posting-profiles
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.10-configure-accounts-receivable-charges
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.11-exercise-configure-customer-posting
-
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.13-configure-ar-quiz
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.14-configure-ar-summary
 badge:

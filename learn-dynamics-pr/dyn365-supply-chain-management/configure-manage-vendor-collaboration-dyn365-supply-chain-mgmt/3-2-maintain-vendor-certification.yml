@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.3-2-maintain-vendor-certification
+title: الاحتفاظ بشهادة المورد
+metadata:
+  title: الاحتفاظ بشهادة المورد
+  description: تعرف على كيفية الحفاظ على شهادة المورّد في Supply Chain Management.
+  ms.date: 12/01/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c7474b74c8c702224d9ebb7888b37963c7b1b822
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7879488"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-2-maintain-vendor-certification.md)]

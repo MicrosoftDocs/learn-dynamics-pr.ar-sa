@@ -3,16 +3,16 @@ uid: learn-dynamics.navigating-in-f-and-o
 metadata:
   title: التنقل في تطبيقات Finance and Operations
   description: توضح هذه الوحدة كيفية التنقل في تطبيقات Finance and Operations.
-  ms.date: 02/11/2019
+  ms.date: 11/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e2517238afbae1a0b487e3b87af57e23be533eee
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 972acc24db0bd2697ab74f35ef519aae1ce3d7a4
+  ms.sourcegitcommit: 5f570b8544c846adc3ac04217d6d0bd72a9e1a54
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332099"
+  ms.lasthandoff: 11/23/2021
+  ms.locfileid: "7862418"
 title: التنقل في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   تعرف على اكتشاف كيفية التنقل في تطبيقات Finance and Operations وتحديد موقع ما تحتاجه بسرعة.
 abstract: "سوف تتعرف في هذه الوحدة على: \n- كيف تعمل مساحات العمل على زيادة الإنتاجية\n- تقنيات التصفية\n- البحث في تطبيقات Finance and Operations\n- مقارنة طرق العرض\n- أوضاع العرض والتحرير\n"
-prerequisites: بلا
+prerequisites: لا شيء
 iconUrl: /learn/achievements/navigating-in-f-and-o.svg
 levels:
 - beginner

@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-voice-channel.3-define-queues
 title: تحديد صفوف الصوت
 metadata:
   title: تحديد صفوف الصوت
-  description: التعرف على تحديد صفوف الصوت.
+  description: تعرف على كيفية تحديد قوائم انتظار الصوت.
   ms.date: 11/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f24815d7bea1f71650492a40c2e0907b1af7e7f6
-  ms.sourcegitcommit: 51200b30f3608949d6a7e9e566acfd054e8d7285
+  ms.openlocfilehash: 5dc8708bdd7375b24e91f0c3cf9bb0ef7474f410
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/16/2021
-  ms.locfileid: "7815275"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878576"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-define-queues.md)]"

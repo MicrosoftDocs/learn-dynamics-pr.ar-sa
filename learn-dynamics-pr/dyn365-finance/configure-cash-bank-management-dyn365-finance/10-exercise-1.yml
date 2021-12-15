@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.10-exercise-create-bank-transaction-types-groups
-title: 'معمل: إنشاء أنواع الحركات البنكية ومجموعات الحركات البنكية'
+title: تمرين عملي - التعامل مع إدارة النقد والبنوك
 labId: 64516
 metadata:
-  title: 'معمل: إنشاء أنواع الحركات البنكية ومجموعات الحركات البنكية'
-  description: تدرب على إنشاء أنواع الحركات البنكية ومجموعات الحركات البنكية Dynamics 365 Finance.
-  ms.date: 01/21/2021
+  title: تمرين عملي - التعامل مع إدارة النقد والبنوك
+  description: تدرّب على التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance.
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0a4c703aefc9c8d9bb0e830b444aad70c9dd85ea
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6f2e87d72a8b5d5b86e92b3b3198cf49501c9388
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364967"
-durationInMinutes: 18
-content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise-create-bank-transaction-types-groups.md)] \n[!include[](../includes/non-final-lab-end.md)]"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867612"
+durationInMinutes: 35
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise-create-bank-transaction-types-groups.md)] \n[!include[](../includes/standalone-lab-end.md)]"

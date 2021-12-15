@@ -1,24 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.10-exercise-config-fixed-assets
-title: 'معمل: تكوين مكونات الأصول الثابتة'
+title: تمرين عملي - العمل مع الأصول الثابتة
 labId: 64525
 metadata:
-  title: 'معمل: تكوين مكونات الأصول الثابتة'
-  description: تدرب على تكوين مكونات الأصول الثابتة في Dynamics 365 Finance.
-  ms.date: 04/28/2020
+  title: تمرين عملي - العمل مع الأصول الثابتة
+  description: تدرّب على العمل مع الأصول الثابتة في Dynamics 365 Finance.
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d043e61f7bea997d797935fca7ae7bb1d37715b7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7813c5ff6cb36534c1af7e33481ab793c8830e73
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347775"
-durationInMinutes: 30
-content: >-
-  [!include[](../includes/unit-banner.md)]
-
-  [!include[](../includes/accessing-labs.md)]
-
-  [!include[](includes/10-exercise-config-fixed-assets.md)]
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867524"
+durationInMinutes: 45
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise-config-fixed-assets.md)] \n[!include[](../includes/standalone-lab-end.md)]"

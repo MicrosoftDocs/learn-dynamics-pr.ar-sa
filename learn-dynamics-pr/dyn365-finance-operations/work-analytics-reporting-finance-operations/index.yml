@@ -3,16 +3,16 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops
 metadata:
   title: العمل مع التحليلات وإعداد التقارير في تطبيقات Finance and Operations
   description: يمكن لقادة الأعمال اتخاذ قرارات مهمة في شركتهم إذا كانت لديهم رؤية دقيقة للبيانات المالية والتشغيلية الأساسية. بدون مطالعة البيانات، يواجه قادة الأعمال تحدياً في مهمة شبه مستحيلة. باستخدام التحليلات وإعداد التقارير في تطبيقات Finance and Operations، يمكنك تمكين كل مستخدم أعمال، اعتماداً على حقوق الأمان الخاصة به، للحصول على الرؤى التي يحتاجون إليها لاتخاذ تلك القرارات المهمة.
-  ms.date: 02/01/2021
+  ms.date: 11/30/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c349d6ce90a15264a39d74254fa00eb52778be5d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 88ae5fe49be72cd52e571a9fca1d48b16b566e79
+  ms.sourcegitcommit: 91f89fe2312edcba86f6e736a2676a910cccecde
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339387"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7875774"
 title: العمل مع التحليلات وإعداد التقارير في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -44,11 +44,6 @@ units:
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.4-1-generate-consume-inquiries-reports
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.5-power-platform
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.6-exercise-generate-explore-financial-report
-
-
-
-
-
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.12-analytics-reporting-quiz
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.13-analytics-reporting-summary
 badge:

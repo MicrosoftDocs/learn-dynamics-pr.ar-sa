@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 10/09/2021
+  ms.date: 11/29/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 4ff540e35cf33ea2eb5cb64b88d033b73d49c90f
-  ms.sourcegitcommit: c9e42f6977ec8b02d798595c63c9d3da8c625f44
+  ms.openlocfilehash: 015384adb44f0e537efcb50d9678b2e39f53351f
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/11/2021
-  ms.locfileid: "7623829"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867492"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -35,13 +35,13 @@ quiz:
       explanation: غير صحيح. هذا غير صحيح لأن هذه الإجابة تصف عملية تقديم عرض أسعار للعميل.
   - content: أي تطبيقين من تطبيقات Dynamics 365 ستقوم بدمجهما للحصول على حل كامل للتسويق وأتمتة المبيعات؟
     choices:
-    - content: Dynamics 365 Marketing و Dynamics 365 Commerce.
+    - content: Dynamics 365 Marketing وDynamics 365 Commerce.
       isCorrect: false
       explanation: غير صحيح. هذا غير صحيح لأن Dynamics 365 Commerce لا يوفر وظيفة المبيعات.
-    - content: Dynamics 365 Marketing و Dynamics 365 Sales.
+    - content: Dynamics 365 Marketing وDynamics 365 Sales.
       isCorrect: true
       explanation: صحيح. هذا صحيح لأن Dynamics 365 Marketing يوفر إمكانات التسويق ويوفر Dynamics 365 Sales إمكانات أتمتة المبيعات.
-    - content: Dynamics 365 Marketing و Dynamics 365 Finance.
+    - content: Dynamics 365 Marketing وDynamics 365 Finance.
       isCorrect: false
       explanation: غير صحيح. هذا غير صحيح لأن Dynamics 365 Finance لا يوفر وظيفة المبيعات.
   - content: أي من التطبيقات التالية يقترن مع Dynamics 365 Marketing لإنشاء استطلاعات عبر الإنترنت وتحليل النتائج؟

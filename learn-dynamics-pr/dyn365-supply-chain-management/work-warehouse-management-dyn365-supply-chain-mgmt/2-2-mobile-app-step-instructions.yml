@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-warehouse-management.2-2-mobile-app-step-instructions
+title: تكوين تعليمات خطوة التطبيق المحمول
+metadata:
+  title: تكوين تعليمات خطوة التطبيق المحمول
+  description: تعرف على كيفية تكوين إرشادات خطوة تطبيق الأجهزة المحمولة لـ Warehouse Management.
+  ms.date: 11/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 52d6eb986e0ce4c50ba3cb0797c7a671f75bdfab
+  ms.sourcegitcommit: e3ce805e8b4c867705205a2a2e2fafa975c6a6ef
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "7863264"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-2-mobile-app-step-instructions.md)]

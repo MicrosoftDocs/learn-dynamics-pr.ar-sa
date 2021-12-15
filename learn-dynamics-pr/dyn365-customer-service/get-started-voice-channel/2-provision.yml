@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-voice-channel.2-provision
-title: إعداد وتوفير
+title: إعداد قناة "الصوت" وتوفيرها
 metadata:
-  title: إعداد وتوفير
-  description: تعرف على كيفية إعداد قناة الصوت وتوفيرها.
+  title: إعداد قناة "الصوت" وتوفيرها
+  description: تعرف على كيفية إعداد قناة "الصوت" وتوفيرها في Dynamics 365 Customer Service.
   ms.date: 11/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f2ceccde8e2169a98104ed2935e2ff9a7e2c7e24
-  ms.sourcegitcommit: 51200b30f3608949d6a7e9e566acfd054e8d7285
+  ms.openlocfilehash: fc21bfb4f1353c881590a20ca5cea098a5e23b71
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/16/2021
-  ms.locfileid: "7815517"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878489"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-provision.md)]"
