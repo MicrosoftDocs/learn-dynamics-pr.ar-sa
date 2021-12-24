@@ -2,7 +2,7 @@
 uid: learn-dynamics.get-started-voice-channel
 metadata:
   title: ابدأ باستخدام قناة الصوت Dynamics 365 Customer Service
-  description: تتضمن القناة الصوتية في Microsoft Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن لمندوبين ومشرف مركز الاتصال استخدامها.
+  description: تتضمن القناة الصوتية في Microsoft Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قبل مشرفي ومندوبي مركز الاتصال.
   ms.date: 11/15/2021
   author: KevSch
   ms.author: kschimke
@@ -14,7 +14,7 @@ metadata:
   ms.lasthandoff: 12/01/2021
   ms.locfileid: "7878473"
 title: ابدأ باستخدام قناة الصوت Dynamics 365 Customer Service
-summary: "[!include[](../includes/module-banner.md)] \nتتضمن القناة الصوتية في Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن لوكلاء ومشرف مركز الاتصال استخدامها. بالإضافة إلى ذلك، يمكن أن يساعد في تحسين التجربة الإجمالية لعملائك عندما يشاركون عبر القنوات الصوتية.\n"
+summary: "[!include[](../includes/module-banner.md)] \nتتضمن القناة الصوتية في Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قبل مشرفي ومندوبي مركز الاتصال. بالإضافة إلى ذلك، يمكن أن يساعد في تحسين التجربة الإجمالية لعملائك عندما يشاركون عبر القنوات الصوتية.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على طريقة إعداد قناة الصوت وتوفيرها.\n- تحديد صفوف الصوت.\n- قم بإعداد مسارات العمل الصوتية.\n- التعرف على توجيه المكالمات.\n"
 prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/get-started-voice-channel.svg
