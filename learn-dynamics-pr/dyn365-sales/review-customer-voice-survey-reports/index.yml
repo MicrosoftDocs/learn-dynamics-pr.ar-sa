@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.review-customer-voice-survey-reports
+metadata:
+  title: فهم تقارير الاستطلاع في Customer Voice ومراجعتها
+  description: اعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2cc7085e980139bd965c20715a164069788dcbfb
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923581"
+title: فهم تقارير الاستطلاع في Customer Voice ومراجعتها
+summary: "[!include[](../includes/module-banner.md)] \nاعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها.  \n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- اعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها. \n"
+prerequisites: المعرفة الأساسية بكل من Dynamics 365 Sales وCustomer Voice
+iconUrl: /learn/achievements/review-customer-voice-survey-reports.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- customer-voice
+units:
+- learn-dynamics.review-customer-voice-survey-reports.1-introduction
+- learn-dynamics.review-customer-voice-survey-reports.2-analyze-survey-results
+- learn-dynamics.review-customer-voice-survey-reports.3-filter-survey-results
+- learn-dynamics.review-customer-voice-survey-reports.4-export-survey-results
+- learn-dynamics.review-customer-voice-survey-reports.5-exercise
+- learn-dynamics.review-customer-voice-survey-reports.6-check
+- learn-dynamics.review-customer-voice-survey-reports.7-summary
+badge:
+  uid: learn-dynamics.review-customer-voice-survey-reports.badge

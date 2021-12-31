@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.call-real-item-apis.5-call-account-protection-api
+title: استدعاء واجهات API لحماية الحساب
+metadata:
+  title: استدعاء واجهات API لحماية الحساب
+  description: تعرف على كيفية استدعاء إحدى واجهات API لحماية الحساب.
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3fb1ebd725bcbf4cd18cd4fb3f2de6b295afa677
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900499"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-call-account-protection-api.md)]"

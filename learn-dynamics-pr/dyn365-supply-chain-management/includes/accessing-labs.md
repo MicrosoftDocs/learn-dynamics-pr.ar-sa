@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 99c9c2c4eb00b2a9e13c6c11a173e9468e23d83a
-ms.sourcegitcommit: ec7a7829cee32ea154223a9e4281a09905e10caa
+ms.openlocfilehash: e340f3ad41732ecc89f8ec11dd7ec83f1b61e8b8
+ms.sourcegitcommit: cf988f9d884b5aac917dcb19399e2ec0eec62d59
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "7827455"
+ms.lasthandoff: 12/09/2021
+ms.locfileid: "7903132"
 ---
 ## <a name="read-this-first---before-you-start-the-lab"></a>اقرأ هذا أولاً - قبل أن تبدء المعمل! 
 
@@ -29,6 +29,7 @@ ms.locfileid: "7827455"
 
     ![لقطة شاشة لحقل كلمة المرور ومربع الحوار إدخال كلمة المرور الذي يظهر.](../includes/password-s.png) 
 
-9. للاطلاع على تعليمات المعمل، حدد علامة التبويب **التعليمات** على الشريط الجانبي للمعمل.
+9.  لا تظل مسجلاً للدخول، أو تخزن كلمة المرور على الجهاز الظاهري.
+10. للاطلاع على تعليمات المعمل، حدد علامة التبويب **التعليمات** على الشريط الجانبي للمعمل.
 
 يمكنك الآن أن تبدأ عملك في هذا المعمل. 

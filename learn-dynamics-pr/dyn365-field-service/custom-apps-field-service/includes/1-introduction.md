@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f8b6f68b5ea0e1645d8e0d1b8857ce063b3c7d5
-ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
+ms.openlocfilehash: 52aabfca35530842cb53ddedfab240b8bd6f926a
+ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2021
-ms.locfileid: "7880284"
+ms.lasthandoff: 12/06/2021
+ms.locfileid: "7893016"
 ---
 إن Microsoft Power Platform عبارة عن مجموعة من التطبيقات والخدمات والموصلات ومنصة البيانات التي توفر لك فرصة لإنشاء تطبيقات مخصصة لاحتياجات عملك. يتكون Microsoft Power Platform من أربعة منتجات رئيسية: Power Apps وPower Automate وPower BI وPower Virtual Agents.
 

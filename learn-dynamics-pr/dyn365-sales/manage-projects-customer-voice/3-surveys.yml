@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-projects-customer-voice.3-surveys
+title: نقل الاستطلاعات ونسخها عبر المشاريع
+metadata:
+  title: نقل الاستطلاعات ونسخها عبر المشاريع
+  description: اعرف كيفية نقل الاستطلاعات ونسخها عبر المشاريع.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c5f10fafee8288605b0cde640d072765a72e7e1c
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923585"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-surveys.md)]"

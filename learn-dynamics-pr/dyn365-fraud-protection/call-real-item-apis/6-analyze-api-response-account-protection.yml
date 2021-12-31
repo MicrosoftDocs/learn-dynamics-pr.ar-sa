@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.call-real-item-apis.6-analyze-api-response-account-protection
+title: تحليل استجابة واجهة API‬ لحماية الحساب
+metadata:
+  title: تحليل استجابة واجهة API‬ لحماية الحساب
+  description: اعرف كيفية مراجعة استجابة واجهة API‬ Dynamics 365 Fraud Protection لحماية الحساب وتحليلها.
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0569c496da5472a6f33a4943cc325c3f5ea7acba
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900523"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-analyze-api-response-account-protection.md)]"

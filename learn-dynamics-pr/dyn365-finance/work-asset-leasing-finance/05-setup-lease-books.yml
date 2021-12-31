@@ -8,11 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d954cc66fc320f4e1af613bac325df2e1012fc97
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 264c8d12bce24f67e2f8b84078e61d35b7aee94a
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7355994"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7892840"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-setup-lease-books.md)]"

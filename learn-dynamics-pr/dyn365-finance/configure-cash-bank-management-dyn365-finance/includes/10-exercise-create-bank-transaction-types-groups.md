@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f9a8f111cc57e55fca49c63954ef4348379cea8
-ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+ms.openlocfilehash: 30eaf43b95a2fe4a0d50a6d068982295af84c259
+ms.sourcegitcommit: cf988f9d884b5aac917dcb19399e2ec0eec62d59
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "7867404"
+ms.lasthandoff: 12/09/2021
+ms.locfileid: "7903164"
 ---
 في هذا التمرين العملي، ستتعامل مع إدارة النقد والبنوك.
 

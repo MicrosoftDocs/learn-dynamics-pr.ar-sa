@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-projects-customer-voice.4-copy-projects
+title: نسخ المشاريع بين البيئات
+metadata:
+  title: نسخ المشاريع بين البيئات
+  description: اعرف كيفية نسخ المشاريع بين البيئات.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 55a59535ec95c90d38467494d31d8ff4e105cddc
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923593"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-copy-projects.md)]"

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.review-customer-voice-survey-reports.4-export-survey-results
+title: تصدير نتائج الاستطلاع
+metadata:
+  title: تصدير نتائج الاستطلاع
+  description: قدّم للمستخدمين نظرة عامة على جميع الردود والوصول إلى ردود فردية على الاستطلاع حيث يمكن فتح كل رد على حدة.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 46176fba9c7d1e92b56a93ceed6e644ddcaf3a21
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923583"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-export-survey-results.md)]"

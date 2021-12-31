@@ -8,11 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ce39b5e5823fac372327143ad916e44cd92f047d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e036fbb45e2a3b93b502cc878b4366f186e99eea
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363519"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7893224"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-create-payment-invoices.md)]"

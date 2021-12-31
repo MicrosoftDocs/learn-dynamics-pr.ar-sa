@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.call-real-item-apis.2-standard-features-real-time-capabilities-fraud-protection
+title: الميزات القياسية للقدرات في Fraud Protection في الوقت الحقيقي
+metadata:
+  title: الميزات القياسية للقدرات في Fraud Protection في الوقت الحقيقي
+  description: تعرف على جميع الميزات القياسية في Fraud Protection.
+  ms.date: 09/15/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d663bc41735d0726a2c437b668811273c5d60518
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900627"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-standard-features-real-time-capabilities-fraud-protection.md)]"

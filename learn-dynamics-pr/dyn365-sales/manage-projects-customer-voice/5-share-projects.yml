@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-projects-customer-voice.5-share-projects
+title: مشاركة المشاريع مع زملاء العمل
+metadata:
+  title: مشاركة المشاريع مع زملاء العمل
+  description: اعرف كيفية مشاركة المشاريع مع زملاء العمل.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 585f14b73ebb2b2b57ed3edc0196d0a378a6b50a
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923588"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-share-projects.md)]"

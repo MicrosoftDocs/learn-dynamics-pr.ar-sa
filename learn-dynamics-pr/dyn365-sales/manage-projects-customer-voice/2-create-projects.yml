@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-projects-customer-voice.2-create-projects
+title: إنشاء مشاريع
+metadata:
+  title: إنشاء مشاريع
+  description: تعرف على كيفية إنشاء المشاريع.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 394dff1e484fc42aca7228fca66a708d55e5207d
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923586"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-create-projects.md)]"

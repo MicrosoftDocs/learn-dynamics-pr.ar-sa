@@ -4,17 +4,18 @@ title: وصف إنشاء العملاء المتوقعين والمؤهلات
 metadata:
   title: وصف إنشاء العملاء المتوقعين والمؤهلات
   description: وصف إنشاء العملاء المتوقعين والمؤهلات
-  ms.date: 08/17/2021
+  ms.date: 12/14/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 3ae565edde06e47429c436a06070eb31d3fbddb4
-  ms.sourcegitcommit: 922d30c3471eb60c44c829d4ef9905e8e6fe1ebf
+  ms.openlocfilehash: 45846b2d504054c83f4d2fbde68ebe325ebd6fa7
+  ms.sourcegitcommit: 2dd9177224eb5ce4ce3ece26478157dc38229c3f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7438791"
+  ms.lasthandoff: 12/14/2021
+  ms.locfileid: "7921517"
 azureSandbox: false
+labModal: false
 durationInMinutes: 4
 content: '[!include[](includes/5-describe-lead-generation-qualification.md)]'

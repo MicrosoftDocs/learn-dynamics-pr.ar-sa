@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 454e06cad1a0dfc48a844fbdcae100cdcb7b8951
-ms.sourcegitcommit: 7012baa785a0c86835c7573ddfa53017aa5aed63
+ms.openlocfilehash: 331e2c186e1ad02388755c99052026ad08edac4e
+ms.sourcegitcommit: 2dd9177224eb5ce4ce3ece26478157dc38229c3f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "7868040"
+ms.lasthandoff: 12/14/2021
+ms.locfileid: "7921533"
 ---
 ## <a name="scenario---use-and-build-office-integration-in-finance-and-operations"></a>السيناريو - استخدام تكامل Office وبناؤه في Finance and Operations
 
@@ -103,7 +103,7 @@ ms.locfileid: "7868040"
 24. انتقل إلى **إدارة الأسطول** > **العملاء** > **العميل**.
 25. حدد الرمز **فتح في Microsoft Office** أعلى الجانب الأيسر. لاحظ أن **أساطيل العملاء الأساسيين** هو أحد الخيارات الآن في قسم **فتح في Excel**. 
 26. حدد **تنزيل**، ثم انقر على **موافق**.
-27. حدد **السماح** في مربع حوار **أمان Internet Explorer**، لفتح المصنف الذي يتم إنشاؤه." 
+27. حدد **السماح** في مربع حوار **أمان Internet Explorer**، لفتح المصنف الذي يتم إنشاؤه. 
 
 
 يمكنك أيضاً محاولة استخدام المصمم في وظيفة Excel الإضافية لإضافة مصدر بيانات آخر إلى ورقة عمل أخرى.

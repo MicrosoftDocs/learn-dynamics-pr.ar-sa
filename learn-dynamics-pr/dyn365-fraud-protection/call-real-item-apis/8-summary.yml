@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.call-real-item-apis.8-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص استدعاء واجهات API في الوقت الحقيقي لـ Dynamics 365 Fraud Protection
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 08bc7eae273ee0cab3b1c2d42be21ac77570c1a3
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900515"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-summary.md)]"

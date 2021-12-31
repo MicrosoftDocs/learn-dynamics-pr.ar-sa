@@ -4,17 +4,18 @@ title: فحص التسويق عبر البريد الإلكتروني
 metadata:
   title: فحص التسويق عبر البريد الإلكتروني
   description: فحص التسويق عبر البريد الإلكتروني
-  ms.date: 08/17/2021
+  ms.date: 12/14/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 72545f0779d46552362997ea8784babb9cf6c3d3
-  ms.sourcegitcommit: 922d30c3471eb60c44c829d4ef9905e8e6fe1ebf
+  ms.openlocfilehash: c84c6b33e658a83d31d58e4b1625d60265c75762
+  ms.sourcegitcommit: 2dd9177224eb5ce4ce3ece26478157dc38229c3f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7438795"
+  ms.lasthandoff: 12/14/2021
+  ms.locfileid: "7921549"
 azureSandbox: false
+labModal: false
 durationInMinutes: 2
 content: '[!include[](includes/4-examine-email-market.md)]'

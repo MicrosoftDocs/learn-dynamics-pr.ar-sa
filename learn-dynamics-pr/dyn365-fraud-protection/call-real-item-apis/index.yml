@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.call-real-item-apis
+metadata:
+  title: استدعاء واجهة API في الوقت الحقيقي لـ Dynamics 365 Fraud Protection
+  description: تعرف على كيفية استدعاء واجهات برمجة التطبيقات (API) في الوقت الحقيقي لـ Microsoft Dynamics 365 Fraud Protection.
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 25525ba2ca10abdf15bae46dbed4a6115deadee6
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900611"
+title: استدعاء واجهة API في الوقت الحقيقي لـ Dynamics 365 Fraud Protection
+summary: "[!include[](../includes/module-banner.md)] \nمكّن المجموعة الكاملة من ميزات Dynamics 365 Fraud Protection عن طريق إرسال بيانات الحركات إلى واجهات API في الوقت الحقيقي. \n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- تنفيذ تطبيقات واجهات API لحماية الحساب وحماية المشتريات.\n- تحليل استجابة API.\n"
+prerequisites: "- تزويد Dynamics 365 Fraud Protection \n- تنفيذ بصمة الجهاز Dynamics 365 Fraud Protection\n- الوصول إلى مدخل Dynamics 365 Fraud Protection\n- تنزيل عميل Postman (أو أي عميل آخر من اختيارك)\n"
+iconUrl: /learn/achievements/call-real-item-apis.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-fraud-protection
+units:
+- learn-dynamics.call-real-item-apis.1-introduction
+- learn-dynamics.call-real-item-apis.2-standard-features-real-time-capabilities-fraud-protection
+- learn-dynamics.call-real-item-apis.3-acquire-azure-ad-token
+- learn-dynamics.call-real-item-apis.4-call-purchase-protection-api
+- learn-dynamics.call-real-item-apis.4-1-analyze-api-response-purchase-protection
+- learn-dynamics.call-real-item-apis.5-call-account-protection-api
+- learn-dynamics.call-real-item-apis.6-analyze-api-response-account-protection
+- learn-dynamics.call-real-item-apis.7-check
+- learn-dynamics.call-real-item-apis.8-summary
+badge:
+  uid: learn-dynamics.call-real-item-apis.badge

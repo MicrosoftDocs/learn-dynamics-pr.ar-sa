@@ -4,17 +4,18 @@ title: وصف الشرائح في Dynamics 365 Marketing
 metadata:
   title: وصف الشرائح في Dynamics 365 Marketing
   description: وصف الشرائح في Dynamics 365 Marketing
-  ms.date: 08/17/2021
+  ms.date: 12/14/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 7fc22b7a138ed98b68b7a5a719533fe29243c8b5
-  ms.sourcegitcommit: 922d30c3471eb60c44c829d4ef9905e8e6fe1ebf
+  ms.openlocfilehash: f59532dc8b470f32b7c7c2c2dc889e082bd746e8
+  ms.sourcegitcommit: 2dd9177224eb5ce4ce3ece26478157dc38229c3f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7438800"
+  ms.lasthandoff: 12/14/2021
+  ms.locfileid: "7921606"
 azureSandbox: false
+labModal: false
 durationInMinutes: 15
 content: '[!include[](includes/3-describe-segments.md)]'

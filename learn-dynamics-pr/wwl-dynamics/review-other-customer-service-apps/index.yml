@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 2d845eab4382c117c2cab3b070db3b5802c6d62b
-  ms.sourcegitcommit: 8a843c182dcfce868badd5df9d0ecd9b9b748c10
+  ms.openlocfilehash: b6f4e649ad9e9a44841645e7eff838bdc0e99b1e
+  ms.sourcegitcommit: 53610e47237aae7d57451fab16d5ad121d761011
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/24/2021
-  ms.locfileid: "7555542"
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7898561"
 title: مراجعة تطبيقات خدمة العملاء الأخرى
 summary: تشرح هذه الوحدة النمطية تطبيقات خدمة العملاء الأخرى التي تم دمجها مع Dynamics 365 Customer Service.
 abstract: >
@@ -36,7 +36,6 @@ roles:
 - functional-consultant
 - student
 products:
-- dynamics-cust-svc-insights
 - dynamics-customer-service
 units:
 - learn.wwl.review-other-customer-service-apps.introduction

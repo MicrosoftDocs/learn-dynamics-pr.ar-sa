@@ -3,17 +3,17 @@ uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.
 title: تعريف المنتجات كغير مخزّنة
 metadata:
   title: تعريف المنتجات كغير مخزّنة
-  description: تصف هذه الوحدة كيفية تعريف المنتجات كغير مخزّنة في Supply Chain Management.
+  description: اعرف كيفية تعريف المنتجات كغير مخزّنة في Supply Chain Management.
   ms.date: 05/18/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 89bbc13f882c75e40576f67b076eb8a4ccfa8771
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5ad0ad72fb67f9753420c1d0a629c6c1833f091f
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326219"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7892904"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

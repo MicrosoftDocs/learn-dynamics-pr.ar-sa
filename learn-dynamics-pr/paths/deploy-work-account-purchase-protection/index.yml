@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.deploy-work-account-purchase-protection
+metadata:
+  title: نشر ميزتي حماية الحساب وحماية المشتريات في Dynamics 365 Fraud Protection واستخدامهما
+  description: اعرف كيفية نشر ميزتي حماية الحساب وحماية المشتريات في Dynamics 365 Fraud Protection واستخدامهما
+  ms.date: 12/06/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-fraud-protection
+  ms.openlocfilehash: a485d7954526e7f1d8e2ef060199abaadc383d78
+  ms.sourcegitcommit: cf988f9d884b5aac917dcb19399e2ec0eec62d59
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/09/2021
+  ms.locfileid: "7903149"
+title: نشر ميزتي حماية الحساب وحماية المشتريات في Dynamics 365 Fraud Protection واستخدامهما
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  اعرف كيفية تزويد القدرات التي يقدمها Microsoft Dynamics 365 Fraud Protection ونشرها والاستفادة منها. يركز مسار التعليم هذا على تنفيذ واجهات API لميزة Fraud Protection حتى تتمكن من إنشاء أول درجة مخاطر لحماية الحساب أو حماية المشتريات.
+prerequisites: >
+  - معرفة مجال مكافحة الاحتيال
+iconUrl: /learn/achievements/deploy-work-account-purchase-protection.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+- business-user
+- developer
+products:
+- dynamics-365
+- dynamics-fraud-protection
+- dynamics-commerce
+modules:
+- learn-dynamics.get-started-fraud-protection
+- learn-dynamics.provision-fraud-protection
+- learn-dynamics.call-real-item-apis
+- learn-dynamics.configure-sample-app-fraud-protection
+- learn-dynamics.device-fingerprint-fraud-protection
+trophy:
+  uid: learn-dynamics.deploy-work-account-purchase-protection.trophy

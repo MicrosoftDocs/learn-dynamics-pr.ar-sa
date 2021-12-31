@@ -2,21 +2,24 @@
 uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops
 metadata:
   title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
-  description: معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
+  description: معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وإعدادات خاصة بالمنتج لإدارة دورات العمل المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
   ms.date: 11/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e11a1b734868dedfca52f8f22231b15a9b675f51
-  ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
+  ms.openlocfilehash: 052fed74d7ffccbe132ffcf98762ca4bdb0c6644
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/17/2021
-  ms.locfileid: "7818412"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7893296"
 title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)]\n\nمعلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء منتجات كنوع صنف وخدمة.\n- تكوين إعدادات الأوامر الافتراضية.\n- إنشاء المنتجات الرئيسية بالمتغيرات المحددة مسبقاً.\n- إنشاء وتكوين التدرجات الهرمية للفئات.\n- إنشاء سمات المنتجات.\n"
-prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Supply Chain Management للمعالجة الأساسية\n"
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وإعدادات خاصة بالمنتج لإدارة دورات العمل المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء منتجات من النوع \"صنف\" و\"خدمة\".\n- إعداد إعدادات الأوامر الافتراضية.\n- إنشاء أصول المنتجات مع متغيرات محددة مسبقاً.\n- إنشاء التدرجات الهرمية للفئات وتكوينها.\n- إنشاء سمات المنتجات.\n"
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Microsoft Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/create-products-product-masters-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate

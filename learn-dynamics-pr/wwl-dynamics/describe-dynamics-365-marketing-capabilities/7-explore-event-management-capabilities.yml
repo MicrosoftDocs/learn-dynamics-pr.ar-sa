@@ -4,17 +4,18 @@ title: استكشاف إمكانات إدارة الأحداث
 metadata:
   title: استكشاف إمكانات إدارة الأحداث
   description: استكشاف إمكانات إدارة الأحداث
-  ms.date: 08/17/2021
+  ms.date: 12/14/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: c269d722ba981d98544f77383218af3312a95e4b
-  ms.sourcegitcommit: 922d30c3471eb60c44c829d4ef9905e8e6fe1ebf
+  ms.openlocfilehash: 43fad7da0d95fd187d51ad7b890658c155199d0a
+  ms.sourcegitcommit: 2dd9177224eb5ce4ce3ece26478157dc38229c3f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7438793"
+  ms.lasthandoff: 12/14/2021
+  ms.locfileid: "7921557"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/7-explore-event-management-capabilities.md)]'

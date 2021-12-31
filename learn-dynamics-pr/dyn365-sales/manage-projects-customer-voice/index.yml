@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-projects-customer-voice
+metadata:
+  title: إدارة المشاريع في Dynamics 365 Customer Voice
+  description: ستوفر هذه الوحدة النمطية المعرفة المطلوبة لفهم كيفية إضافة المشاريع إلى Dynamics 365 Customer Voice، وكيف يمكن نسخ الاستطلاعات من مشروع إلى آخر، وكيف يمكن نسخ المشاريع عبر بيئات Dataverse مختلفة.
+  ms.date: 12/15/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0264fcab9c25c20c484c0ee2ca9820b4aa766099
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923566"
+title: إدارة المشاريع في Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nستوفر هذه الوحدة النمطية المعرفة المطلوبة لفهم كيفية إضافة المشاريع إلى Dynamics 365 Customer Voice، وكيف يمكن نسخ الاستطلاعات من مشروع إلى آخر، وكيف يمكن نسخ المشاريع عبر بيئات Dataverse مختلفة. يمكن مشاركة المشاريع بسهولة، مما يوفر القدرة على التعاون مع زملاء العمل بسهولة. \n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- إنشاء مشاريع\n- نقل الاستطلاعات ونسخها\n- نسخ المشاريع\n- مشاركة المشاريع\n"
+prerequisites: الفهم الأساسي لكل من Dynamics 365 Sales وCustomer Voice
+iconUrl: /learn/achievements/manage-projects-customer-voice.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-sales
+- customer-voice
+units:
+- learn-dynamics.manage-projects-customer-voice.1-introduction
+- learn-dynamics.manage-projects-customer-voice.2-create-projects
+- learn-dynamics.manage-projects-customer-voice.3-surveys
+- learn-dynamics.manage-projects-customer-voice.4-copy-projects
+- learn-dynamics.manage-projects-customer-voice.5-share-projects
+- learn-dynamics.manage-projects-customer-voice.6-exercise
+- learn-dynamics.manage-projects-customer-voice.7-check
+- learn-dynamics.manage-projects-customer-voice.8-summary
+badge:
+  uid: learn-dynamics.manage-projects-customer-voice.badge

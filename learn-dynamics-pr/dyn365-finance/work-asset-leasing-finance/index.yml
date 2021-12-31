@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1315f5e5d3e03d8778afe90e48a3c5c79bb06041
-  ms.sourcegitcommit: e3ce805e8b4c867705205a2a2e2fafa975c6a6ef
+  ms.openlocfilehash: 9fa257e1cf50d55c7a1ac6e6667042da1cb3c647
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "7863239"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7893192"
 title: استخدام تأجير الأصول في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nيلتقط تأجير الأصول معلومات حول التأجير ويُعالجها ويساعدك على إنشاء إدخالات دفتر اليومية أثناء دورة حياة الإيجار، من الإقرار الأولي وإدخالات دفتر اليومية الشهرية إلى خفض وإنهاء الإيجار.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على القدرة على تأجير الأصول.\n- إنشاء عقد إيجار الأصول وعرض المعلومات لهذه الإيجارات.\n- إقران أصول ثابتة بعقود إيجار \n- قم بإنشاء فواتير الدفع باعتبارها مرتبطة بإيجار الأصل.\n- قم باستيراد معلومات الإيجار.\n- يمكنك اكتشاف خيارات الإبلاغ عن تأجير الأصول في Dynamics 365 Finance.\n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- تعرف على القدرة على تأجير الأصول.\n- إنشاء عقد إيجار أصل‬ وعرض المعلومات تتعلق بعقود الإيجار هذه.\n- إقران أصول ثابتة بعقود إيجار.\n- إنشاء فواتير الدفع باعتبارها مرتبطة بتأجير الأصول‬.\n- استيراد معلومات الإيجار.\n- اكتشاف خيارات تقارير تأجير الأصل‬‬ في Microsoft Dynamics 365 Finance.\n"
 prerequisites: >
   - معرفة Dynamics 365 Finance
 
-  - فهم تأجير الأصول
+  - الفهم العام لتأجير الأصول.
 iconUrl: /learn/achievements/work-asset-leasing-finance.svg
 levels:
 - intermediate

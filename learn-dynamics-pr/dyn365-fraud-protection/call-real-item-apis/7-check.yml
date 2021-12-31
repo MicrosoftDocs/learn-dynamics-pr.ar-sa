@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.call-real-item-apis.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: dd9ebfe61b6495f5880bba84cfd5c75b457fc080
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900507"
+durationInMinutes: 9
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما التعليمات البرمجية التي يجب أن تتلقاها من Dynamics 365 Fraud Protection، في إطار الرد على استدعاء واجهة API، مما يعني أن معالجة طلبك قد تمت بشكل صحيح؟
+    choices:
+    - content: الكود 200
+      isCorrect: true
+      explanation: يجب أن تتلقي الكود 200 للإشارة إلى أن معالجة استدعاء واجهة API قد تمت بشكل صحيح.
+    - content: الكود 400
+      isCorrect: false
+      explanation: يجب أن تتلقي الكود 200 للإشارة إلى أن معالجة استدعاء واجهة API قد تمت بشكل صحيح.
+    - content: الكود 401
+      isCorrect: false
+      explanation: يجب أن تتلقي الكود 200 للإشارة إلى أن معالجة استدعاء واجهة API قد تمت بشكل صحيح.
+    - content: الكود 504
+      isCorrect: false
+      explanation: يجب أن تتلقي الكود 200 للإشارة إلى أن معالجة استدعاء واجهة API قد تمت بشكل صحيح.
+  - content: عند الاستدعاء من بيئة التشغيل، ما نقطة نهاية API التي يجب أن تستخدمها لاستدعاء Dynamics 365 Fraud Protection؟
+    choices:
+    - content: https:\//api.dfp.microsoft-int.com/
+      isCorrect: false
+      explanation: استخدم نقطة النهاية https:\//api.dfp.microsoft.com/ لاستدعاء Fraud Protection من بيئة التشغيل.
+    - content: https:\//api.dfp.microsoft.com/
+      isCorrect: true
+      explanation: استخدم نقطة النهاية https:\//api.dfp.microsoft.com/ لاستدعاء Fraud Protection من بيئة التشغيل.
+    - content: استخدم https:\//api.dfp.microsoft-int.com/ أو https:\//api.dfp.microsoft.com/
+      isCorrect: false
+      explanation: استخدم نقطة النهاية https:\//api.dfp.microsoft.com/ لاستدعاء Fraud Protection من بيئة التشغيل.
+    - content: لا تستخدم https:\//api.dfp.microsoft-int.com/ أو https:\//api.dfp.microsoft.com/
+      isCorrect: false
+      explanation: استخدم نقطة النهاية https:\//api.dfp.microsoft.com/ لاستدعاء Fraud Protection من بيئة التشغيل.
+  - content: أيٌّ من واجهات API التالية يُستدعى لحدث استيعاب البيانات فقط (بحيث لا يتم إرجاع أي تقييم)؟
+    choices:
+    - content: AccountCreation
+      isCorrect: false
+      explanation: يتم استدعاء AccountUpdate API لاستيعاب البيانات فقط.
+    - content: PurchaseEvent
+      isCorrect: false
+      explanation: يتم استدعاء AccountUpdate API لاستيعاب البيانات فقط.
+    - content: AccountLogin
+      isCorrect: false
+      explanation: يتم استدعاء AccountUpdate API لاستيعاب البيانات فقط.
+    - content: AccountUpdate
+      isCorrect: true
+      explanation: يتم استدعاء AccountUpdate API لاستيعاب البيانات فقط.

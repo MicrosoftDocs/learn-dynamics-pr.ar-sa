@@ -3,16 +3,16 @@ uid: learn-dynamics.work-asset-leasing-finance.01-introduction
 title: مقدمة
 metadata:
   title: مقدمة
-  description: مقدمة إلى الوحدة النمطية "العمل باستخدام تأجير الأصول في Dynamics 365 Finance".
+  description: مقدمة إلى العمل مع تأجير الأصول في Dynamics 365 Finance.
   ms.date: 03/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d7d5605ede8988ddd2a851e63ee6ef8b87044537
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 15fe9d0ed1bb2efaf15afb5e74c6a98bfc9b8794
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347703"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7892888"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

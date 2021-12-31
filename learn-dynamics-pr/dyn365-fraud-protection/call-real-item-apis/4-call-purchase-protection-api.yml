@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.call-real-item-apis.4-call-purchase-protection-api
+title: استدعاء واجهات API لحماية المشتريات
+metadata:
+  title: استدعاء واجهات API لحماية المشتريات
+  description: تعرف على كيفية استدعاء إحدى واجهات API لحماية المشتريات.
+  ms.date: 11/10/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 741c1464d4b406169d9af31da5d88e64826b00c7
+  ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/08/2021
+  ms.locfileid: "7900539"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-call-purchase-protection-api.md)]"

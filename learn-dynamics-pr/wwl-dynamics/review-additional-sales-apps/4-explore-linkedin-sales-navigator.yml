@@ -4,17 +4,18 @@ title: استكشاف LinkedIn Sales Navigator
 metadata:
   title: استكشاف LinkedIn Sales Navigator
   description: استكشاف LinkedIn Sales Navigator
-  ms.date: 08/26/2021
+  ms.date: 12/07/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 2d3d2de248d84e4dde7fd8fff652c69a6c4ab234
-  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.openlocfilehash: e9acd6911086fdfa4ba4cf5ec52ea0dfd33d2191
+  ms.sourcegitcommit: 9414340b35cf970ce8835e296dffc13419cf76d2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438838"
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "7898352"
 azureSandbox: false
+labModal: false
 durationInMinutes: 12
 content: '[!include[](includes/4-explore-linkedin-sales-navigator.md)]'

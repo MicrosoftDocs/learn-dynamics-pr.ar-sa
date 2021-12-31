@@ -4,17 +4,18 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة
-  ms.date: 08/26/2021
+  ms.date: 12/07/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 8b7f302b693d9144bffa6f7d3187e7da020785cd
-  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.openlocfilehash: e7fe4fba5640e52d769e34e61327c46899ff4f2a
+  ms.sourcegitcommit: 9414340b35cf970ce8835e296dffc13419cf76d2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438844"
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "7898297"
 azureSandbox: false
+labModal: false
 durationInMinutes: 1
 content: '[!include[](includes/1-introduction.md)]'

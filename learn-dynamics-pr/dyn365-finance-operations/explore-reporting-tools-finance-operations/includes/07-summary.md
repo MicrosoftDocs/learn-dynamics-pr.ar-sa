@@ -1,19 +1,13 @@
 ---
-ms.openlocfilehash: 796935ce06754c16137e43cbd8ede1a6de3e38eb94cac8faca4286bb98b6f7b0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fc99fb83b1e6d48ec4ed96668c42c6a5ba413d7d
+ms.sourcegitcommit: ff754a1100e6f6918ac8857395d22fa96a3dc612
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7109732"
+ms.lasthandoff: 12/13/2021
+ms.locfileid: "7917471"
 ---
 يشكل فهم أنواع أدوات إعداد التقارير والتقارير التي يجب استخدامها أهمية بالغة لإنشاء تقارير ذات مغزى لمؤسستك.
 في حين أنه من المحتمل أن يكون لديك نوع التقارير الصحيح، ستحتاج إلى التأكد من أن لديك البيانات الصحيحة. إنشاء مصادر البيانات وتعديلها يتيح لك الحصول على البيانات الصحيحة. باستخدام ميزات الأمان، يمكنك منح المستخدمين حق الوصول إلى تقارير وبيانات معينة وتقييده.
 
 عند انتهاء التقرير وإنشاء الأمان للتقرير، يمكنك توزيع التقرير إلى تطبيقات Finance and Operations باستخدام PowerShell أو Visual Studio.
 
-<a name="links-to-related-topics"></a>روابط لمواضيع ذات صلة: 
-------------------------
-
-| الموضوع |              الرابط             |
-|:-----|:-----------------------------|
-| بطاقة أداء Microsoft يمكن أن تساعدك على تحديد أداة إعداد التقارير التي ستناسب احتياجاتك. | [بطاقة أداء التقارير](https://msdnshared.blob.core.windows.net/media/2016/07/Report-scorecard.png) |
