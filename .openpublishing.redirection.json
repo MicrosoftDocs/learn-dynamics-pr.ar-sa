@@ -6,6 +6,21 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "learn-dynamics-pr/dyn365-sales/create-customer-voice-surveys/1-5-themes.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/create-customer-voice-surveys/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-sales/create-customer-voice-surveys/3-3-metrics.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/create-customer-voice-surveys/3a-metrics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-sales/create-customer-voice-surveys/3-5-exercise.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/create-customer-voice-surveys/3c-exercise",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-finance/process-credit-collections-dyn365-finance/7-2-exercise-4.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/process-credit-collections-dyn365-finance/5-exercise-1",
       "redirect_document_id": false
