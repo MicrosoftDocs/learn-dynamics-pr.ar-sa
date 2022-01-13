@@ -31,6 +31,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "learn-dynamics-pr/dyn365-sales/send-customer-voice-surveys/2-5-csv-files.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/send-customer-voice-surveys/2a-csv-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-sales/send-customer-voice-surveys/3-5-exercise.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/send-customer-voice-surveys/3b-exercise",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-finance-operations/plan-implement-security-finance-operations/11-exercise-6.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/plan-implement-security-finance-operations/6-exercise-1",
       "redirect_document_id": false
