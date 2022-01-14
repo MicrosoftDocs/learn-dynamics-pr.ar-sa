@@ -30,9 +30,9 @@ products:
 units:
 - learn-dynamics.send-customer-voice-surveys.1-introduction
 - learn-dynamics.send-customer-voice-surveys.2-email-survey
-- learn-dynamics.send-customer-voice-surveys.2-5-csv-files
+#- learn-dynamics.send-customer-voice-surveys.2-5-csv-files
 - learn-dynamics.send-customer-voice-surveys.3-links-qr-codes
-- learn-dynamics.send-customer-voice-surveys.3-5-exercise
+#- learn-dynamics.send-customer-voice-surveys.3-5-exercise
 - learn-dynamics.send-customer-voice-surveys.4-check
 - learn-dynamics.send-customer-voice-surveys.5-summary
 badge:
