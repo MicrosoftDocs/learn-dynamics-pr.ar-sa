@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.metrics-alerts-voice-surveys
+metadata:
+  title: قم بإعداد المقاييس والتنبيهات الخاصة باستطلاعات Dynamics 365 Customer Voice الخاصة بك
+  description: تعرف على كيفية إعداد مقاييس رضا العملاء وتنبيهات استجابة الاستطلاع وكيفية مراجعة التنبيهات وإدارتها.
+  ms.date: 12/20/2021
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 462d99ddff711f330832ef16df5cdf9f3996f208
+  ms.sourcegitcommit: 178639e9a46ac1ef2cba985875f0d21d1baee52e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/03/2022
+  ms.locfileid: "7948687"
+title: إعداد المقاييس والتنبيهات الخاصة باستطلاعات Customer Voice الخاصة بك
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعرف على كيفية إعداد مقاييس رضا العملاء وتنبيهات استجابة الاستطلاع وكيفية مراجعة التنبيهات وإدارتها.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - ضع مقاييس الرضا.
+
+  - إضافة تنبيهات الردود على الاستطلاع.
+
+  - مراجعة تنبيهات استجابة الاستطلاع وإدارتها.
+prerequisites: المعرفة الأساسية بـ Microsoft Dynamics 365 Customer Voice
+iconUrl: /learn/achievements/metrics-alerts-voice-surveys.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- customer-voice
+- dynamics-sales
+units:
+- learn-dynamics.metrics-alerts-voice-surveys.1-introduction
+- learn-dynamics.metrics-alerts-voice-surveys.2-configure-satisfaction
+- learn-dynamics.metrics-alerts-voice-surveys.3-custom-score-metrics
+- learn-dynamics.metrics-alerts-voice-surveys.4-satisfaction-metrics
+- learn-dynamics.metrics-alerts-voice-surveys.5-survey-response-alerts
+- learn-dynamics.metrics-alerts-voice-surveys.6-manage-complete-alerts
+- learn-dynamics.metrics-alerts-voice-surveys.7-exercise
+- learn-dynamics.metrics-alerts-voice-surveys.8-check
+- learn-dynamics.metrics-alerts-voice-surveys.9-summary
+badge:
+  uid: learn-dynamics.metrics-alerts-voice-surveys.badge

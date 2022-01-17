@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.ingest-data-customer-insights.2b-clean-transform-load-data
+title: تنظيف البيانات وتحويلها وتحميلها
+metadata:
+  title: تنظيف البيانات وتحويلها وتحميلها
+  description: تعرف على كيفية تنظيف البيانات وتحويلها وتحميلها.
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b328439bbd4e369da71f15126dedfd06e1f7c385
+  ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7926001"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2b-clean-transform-load-data.md)]"

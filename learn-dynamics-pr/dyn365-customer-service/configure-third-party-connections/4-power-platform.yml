@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-third-party-connections.4-power-platform
+title: استخدام Customer Insights مع Microsoft Power Platform
+metadata:
+  title: استخدام Customer Insights مع Microsoft Power Platform
+  description: تعرف على كيفية استخدام Customer Insights مع Microsoft Power Platform.
+  ms.date: 12/13/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4195de7838047ef9dbaf172ea5e9507aa3e3477c
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933565"
+durationInMinutes: 11
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-power-platform.md)]"

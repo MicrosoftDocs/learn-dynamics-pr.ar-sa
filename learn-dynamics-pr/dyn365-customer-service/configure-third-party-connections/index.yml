@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-third-party-connections
+metadata:
+  title: إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء
+  description: تعرف على كيفية إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء في Microsoft Dynamics 365 Customer Insights.
+  ms.date: 12/13/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 546349b51b80a84f5f15511c6b8b937fffc90ba5
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933593"
+title: إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصدير بيانات Customer Insights.\n- عرض بيانات العميل في تطبيقات Microsoft Dynamics 365.\n- استخدام Customer Insights مع Microsoft Power Platform.\n- استخدام Customer Insights مع Microsoft Azure Synapse Analytics.\n- استخدام واجهات برمجة التطبيقات (API) من Customer Insights.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/configure-third-party-connections.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-analyst
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-cust-insights
+units:
+- learn-dynamics.configure-third-party-connections.1-introduction
+- learn-dynamics.configure-third-party-connections.2-export
+- learn-dynamics.configure-third-party-connections.3-surface-data
+- learn-dynamics.configure-third-party-connections.4-power-platform
+- learn-dynamics.configure-third-party-connections.5-azure-synapse
+- learn-dynamics.configure-third-party-connections.6-customer-insights
+- learn-dynamics.configure-third-party-connections.7-check
+- learn-dynamics.configure-third-party-connections.8-summary
+badge:
+  uid: learn-dynamics.configure-third-party-connections.badge

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 72945381bf82c5d2e5fcb906523f3fef6b6cf920
-ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
+ms.openlocfilehash: b42776ca6e9a9f51d9a08dbca241a3bed0c63e61
+ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2021
-ms.locfileid: "7729376"
+ms.lasthandoff: 12/16/2021
+ms.locfileid: "7925218"
 ---
 ستستخدم إمكانيات الاشتراك الافتراضية في تطبيقات Dynamics 365 Customer Engagement نفس المستأجر وستتراكم البنية التحتية عبر المستأجر الواحد.
 
@@ -24,4 +24,4 @@ ms.locfileid: "7729376"
 
 يتم عرض استخدام التخزين على مركز إدارة Power Platform ضمن علامة التبويب "القدرة الإنتاجية":
 
-![لقطة شاشة لعلامة التبويب Service health في Dynamics 365.](../media/16_unit6.png)
+![لقطة شاشة لاستخدام التخزين معروضة في مركز إدارة Power Platform ضمن علامة التبويب "القدرة الإنتاجية".](../media/16_unit6.png)

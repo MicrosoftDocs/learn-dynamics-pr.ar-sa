@@ -4,15 +4,15 @@ title: استخدام نماذج التعلم الآلي
 metadata:
   title: استخدام نماذج التعلم الآلي
   description: تعرف على كيفية استخدام نماذج التعلم الآلي المخصَّصة من Azure في رؤى الجمهور.
-  ms.date: 06/29/2021
+  ms.date: 12/16/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f3d39c1c5ee6b8c9fb8c4f543138d888989b0b8f
-  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
+  ms.openlocfilehash: 15ea209b9eeb1c04894b66f367bde7b527f1f363
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "7486226"
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933230"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-machine-learning-models.md)]"

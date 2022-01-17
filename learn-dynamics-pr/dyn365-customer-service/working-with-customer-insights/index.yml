@@ -3,19 +3,32 @@ uid: learn-dynamics.working-with-customer-insights
 metadata:
   title: العمل مع رؤى الجمهور في Dynamics 365
   description: تعرف على كيفية العمل مع رؤى الجمهور.
-  ms.date: 06/29/2021
+  ms.date: 12/16/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4e64b2a78ad114d8b4627e1cbf911af0905120f2
-  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
+  ms.openlocfilehash: 57cb13fa2e1383c8c5ac0e5428edf3e1cbf05388
+  ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "7486250"
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7925226"
 title: العمل مع رؤى الجمهور في Dynamics 365
-summary: "[!include[](../includes/module-banner.md)] \n\nتعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد. في هذه الوحدة، تعرف على كيفية العمل مع رؤى الجمهور. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تكوين فهارس البحث والتصفية.\n- تحديد العلاقات والأنشطة.\n- العمل مع المقاييس.\n- استخدام رؤى الجمهور. \n"
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  تعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد. في هذه الوحدة، تعرف على كيفية العمل مع رؤى الجمهور.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تكوين فهارس البحث والتصفية.
+
+  - تحديد العلاقات والأنشطة.
+
+  - العمل مع المقاييس.
+
+  - استخدام رؤى الجمهور.
 prerequisites: لا شيء
 iconUrl: /learn/achievements/working-with-customer-insights.svg
 levels:
@@ -35,6 +48,7 @@ units:
 - learn-dynamics.working-with-customer-insights.3-relationship-activities
 - learn-dynamics.working-with-customer-insights.5-measures
 - learn-dynamics.working-with-customer-insights.6-segmentation
+- learn-dynamics.working-with-customer-insights.6-2-get-segments
 - learn-dynamics.working-with-customer-insights.6-5-segment-insights
 - learn-dynamics.working-with-customer-insights.7-solution
 - learn-dynamics.working-with-customer-insights.8-check

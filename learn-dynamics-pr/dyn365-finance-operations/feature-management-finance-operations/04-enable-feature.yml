@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.feature-management-finance-operations.04-enable-feature
+title: تمكين ميزة
+metadata:
+  title: تمكين ميزة
+  description: تعرف على كيفية تمكين ميزة
+  ms.date: 12/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b793d3730cf091b5bf938808970b2603cb09ca85
+  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "7946217"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-enable-feature.md)]"

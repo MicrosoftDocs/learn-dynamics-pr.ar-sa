@@ -3,16 +3,16 @@ uid: learn-dynamics.define-track-individual-goals
 metadata:
   title: تحديد الأهداف الفردية وتعقبها في Dynamics 365 Sales وخدمة العملاء
   description: قم بتحديد الأهداف المتعلقة بخدمة العملاء وتعقبها بما في ذلك تحديد المقاييس.
-  ms.date: 09/22/2021
+  ms.date: 12/22/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 08f1609017b302d08835734e72d8d488052710d3
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: f2b5d9a67b9e9bd5319dbd8f83782127d0907845
+  ms.sourcegitcommit: 7e7463b82916b5b36a89d2c4f45e6f1bd95c1792
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7515153"
+  ms.lasthandoff: 12/22/2021
+  ms.locfileid: "7945681"
 title: تحديد الأهداف الفردية وتعقبها في Dynamics 365 Sales وخدمة العملاء
 summary: "[!include[](../includes/module-banner.md)]\nحدد وتتبع الأهداف المتعلقة بخدمة العملاء بما في ذلك تحديد المقاييس.        \n"
 abstract: >

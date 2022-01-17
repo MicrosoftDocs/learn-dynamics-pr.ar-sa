@@ -3,19 +3,19 @@ uid: learn-dynamics.data-integrations-dynamics-365-finance-operations
 metadata:
   title: تكاملات البيانات مع تطبيقات Finance and Operations
   description: يُعد التكامل مكوناً مهماً في تنفيذ تطبيقات Finance and Operations. يمكنك عن طريق تنفيذ التكامل المتكرر تمكين تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وتطبيقات أو خدمات الجهة الخارجية.
-  ms.date: 07/20/2021
+  ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7faeb621f07158f0e2f4f3b6521fd320e5cb16b4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f494ef6567b919db57a208498aa3cb0e0951a9a8
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339501"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944430"
 title: تكاملات البيانات مع تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيُعد التكامل مكوناً مهماً في تنفيذ تطبيقات Finance and Operations. يمكنك عن طريق تنفيذ التكامل المتكرر تمكين تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وتطبيقات أو خدمات الجهة الخارجية. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد مشروع بيانات.\n- إعداد وظيفة بيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويمكنك استخدام كيانات البيانات المركبة.\n- ويمكنك عمل تكامل بين كيانات البيانات المركبة.\n- ويمكنك تصدير كيانات البيانات المركبة.\n- تعرّف على Azure Data Lake ومتجر الكيان.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد مشروع بيانات.\n- إعداد وظيفة بيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويمكنك استخدام كيانات البيانات المركبة.\n- ويمكنك عمل تكامل بين كيانات البيانات المركبة.\n- ويمكنك تصدير كيانات البيانات المركبة.\n- تعرّف على Azure Data Lake ومتجر الكيان.\n- تعرف على تقارب Microsoft Power Platform.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 
@@ -34,11 +34,12 @@ products:
 units:
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.2-data-project
+- learn-dynamics.data-integrations-dynamics-365-finance-operations.6-exercise
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.3-authorize
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.4-cds
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.5-composite
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.5-2-azure-data-lake-entity-store
-- learn-dynamics.data-integrations-dynamics-365-finance-operations.6-exercise
+- learn-dynamics.data-integrations-dynamics-365-finance-operations.5-3-power-platform-convergence
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.7-check
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.8-summary
 badge:

@@ -4,17 +4,18 @@ title: إنشاء الحالات وتوجيهها
 metadata:
   title: إنشاء الحالات وتوجيهها
   description: إنشاء الحالات وتوجيهها
-  ms.date: 07/23/2021
+  ms.date: 12/31/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: 11cb20795bf26963e8177bc6f181daa1b78e1b13
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 7649585bfe53034fef165c78457ee8b6db6825dd
+  ms.sourcegitcommit: 178639e9a46ac1ef2cba985875f0d21d1baee52e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7336489"
+  ms.lasthandoff: 01/03/2022
+  ms.locfileid: "7948639"
 azureSandbox: false
+labModal: false
 durationInMinutes: 5
 content: '[!include[](includes/3-create-route-cases.md)]'

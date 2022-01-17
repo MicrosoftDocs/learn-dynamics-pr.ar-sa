@@ -4,17 +4,18 @@ title: افحص تطبيقات تفاعل العملاء
 metadata:
   title: افحص تطبيقات تفاعل العملاء
   description: افحص تطبيقات تفاعل العملاء
-  ms.date: 07/22/2021
+  ms.date: 12/21/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 6ba417e3be0ada03ab0cdc9d093bd00b3775716b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 34011d6d8387e58f88093d7c717ac5688f3bd5bd
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337351"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944281"
 azureSandbox: false
+labModal: false
 durationInMinutes: 13
 content: '[!include[](includes/4-examine.md)]'

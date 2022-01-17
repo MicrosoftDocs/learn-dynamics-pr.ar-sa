@@ -3,17 +3,17 @@ uid: learn-dynamics.implement-finance-operations
 metadata:
   title: تنفيذ تطبيقات Finance and Operations
   description: تعرف على أهم العناصر وأفضل الممارسات لتنفيذ تطبيقات Finance and Operations بنجاح. من الخطوة الأولى حيث تخطط منهجية مشروعك وتصممها، واستخدام خدمات "FastTrack" واستراتيجية التطوير وإدارة البيانات وأكثر من ذلك بكثير، إلى أفضل الطرق للحفاظ على عملياتك ومراقبتها بعد العرض المباشر.
-  ms.date: 04/10/2019
+  ms.date: 12/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 6f9c79cb5930ca2530dc431877a8da744801b5ce
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7966c29af905f950495496917f4151eeb56a2fdf
+  ms.sourcegitcommit: 4e5581131b2c6cffce38574a4200c50d4107557f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364725"
+  ms.lasthandoff: 12/27/2021
+  ms.locfileid: "7946883"
 title: تنفيذ تطبيقات Finance and Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -61,5 +61,6 @@ modules:
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops
 - learn-dynamics.role-security-dynamics-365-finance-operations
 - learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops
+- learn-dynamics.feature-management-finance-operations
 trophy:
   uid: learn-dynamics.implement-finance-operations.trophy

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.feature-management-finance-operations.06-disable-feature
+title: تعطيل ميزة
+metadata:
+  title: تعطيل ميزة
+  description: تعرف على كيفية تعطيل ميزة
+  ms.date: 12/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: cb14df6a856f3ec6568526c2665d17021762a2f3
+  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "7946216"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-disable-feature.md)]"

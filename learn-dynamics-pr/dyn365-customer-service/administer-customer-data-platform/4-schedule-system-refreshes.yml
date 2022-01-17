@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.administer-customer-data-platform.4-schedule-system-refreshes
+title: جدولة عمليات تحديث النظام
+metadata:
+  title: جدولة عمليات تحديث النظام
+  description: يمكنك جدولة مصادر البيانات لتحديث العمليات النهائية، مثل القياسات أو الشرائح، يدوياً أو تلقائياً.
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1d3f3f33821780ec397698575a12b247065b3665
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933582"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-schedule-system-refreshes.md)]"

@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-dynamics.feature-management-finance-operations
+metadata:
+  title: إدارة الميزات في تطبيقات Finance and Operations
+  description: توفر تجربة إدارة الميزات مساحة عمل حيث يمكنك عرض قائمة بالميزات التي تم تسليمها في كل إصدار. يمكنك بعد ذلك استخدام مساحة العمل لعرض وثائق الميزة، ولتمكين الميزات أو تعطيلها.
+  ms.date: 12/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9c18b626ae020f4cee497a7a3088522b00b69775
+  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "7946208"
+title: إدارة الميزات في تطبيقات Finance and Operations
+summary: "[!include[](../includes/module-banner.md)] \nيتم إضافة الميزات وتحديثها في كل إصدار. توفر تجربة إدارة الميزات مساحة عمل حيث يمكنك عرض قائمة بالميزات التي تم تسليمها في كل إصدار. يمكنك بعد ذلك استخدام مساحة العمل لعرض وثائق الميزة، ولتمكين الميزات أو تعطيلها.\n"
+abstract: "ستتعرف في هذه الوحدة على: \n- حول مساحة عمل إدارة الميزات في تطبيقات Finance and Operations.\n- متى وكيف يتم تمكين الميزات، وكذلك كيفية تعطيل الميزات وإعادة جدولتها.\n- كيفية التحقق من وجود تحديثات للميزات.\n- كيفية تعيين الأدوار.\n"
+prerequisites: >
+  - المعرفة الأساسية بتطبيقات Finance and Operations.
+
+  - فهم كيفية إدارة الميزات لتطبيقات Finance and Operations.
+iconUrl: /learn/achievements/feature-management-finance-operations.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-scm
+- dynamics-commerce
+- dynamics-finance-operations
+units:
+- learn-dynamics.feature-management-finance-operations.01-introduction
+- learn-dynamics.feature-management-finance-operations.02-workspace
+- learn-dynamics.feature-management-finance-operations.03-feature-states
+- learn-dynamics.feature-management-finance-operations.04-enable-feature
+- learn-dynamics.feature-management-finance-operations.05-reschedule-feature
+- learn-dynamics.feature-management-finance-operations.06-disable-feature
+- learn-dynamics.feature-management-finance-operations.07-must-enable
+- learn-dynamics.feature-management-finance-operations.08-enable-all
+- learn-dynamics.feature-management-finance-operations.09-check-updates
+- learn-dynamics.feature-management-finance-operations.10-assign-roles
+- learn-dynamics.feature-management-finance-operations.11-configuration-keys
+- learn-dynamics.feature-management-finance-operations.12-data-entities
+- learn-dynamics.feature-management-finance-operations.14-check
+- learn-dynamics.feature-management-finance-operations.15-summary
+badge:
+  uid: learn-dynamics.feature-management-finance-operations.badge

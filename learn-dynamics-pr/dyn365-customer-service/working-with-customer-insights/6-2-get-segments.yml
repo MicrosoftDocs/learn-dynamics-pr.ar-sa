@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.working-with-customer-insights.6-2-get-segments
+title: الحصول على شرائح مقترحة
+metadata:
+  title: الحصول على شرائح مقترحة
+  description: تعلم كيفية إنشاء شرائح مقترحة بناءً على المقاييس وسمات العملاء والنشاط.
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 56bfd3895e214855d7f5095a919ad9b97247ca9d
+  ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7926003"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-2-get-segments.md)]

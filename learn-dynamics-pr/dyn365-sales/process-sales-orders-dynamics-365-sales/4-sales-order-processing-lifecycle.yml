@@ -4,17 +4,16 @@ title: التمرين - دورة حياة معالجة أوامر المبيعا
 metadata:
   title: التمرين - دورة حياة معالجة أوامر المبيعات
   description: التمرين - دورة حياة معالجة أوامر المبيعات
-  ms.date: 09/16/2021
+  ms.date: 12/29/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 20b46197834e0faddb4f77ff9521a540f8890f5a
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.openlocfilehash: ea01cf3318e7a69956936f3dd202e9e26da08f6a
+  ms.sourcegitcommit: 287250ca2c3f3986d1546d3299bf0f11e5cda7f6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/18/2021
-  ms.locfileid: "7501525"
+  ms.lasthandoff: 12/29/2021
+  ms.locfileid: "7947522"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7ea9d87971ac8f04025b0ff730e342bb3c2136ff
-ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
+ms.openlocfilehash: ac6adeea4cfad1c19708ca604f9a71c50b1fe29c
+ms.sourcegitcommit: 31941212123536d08c619f96c4f628c3a7dd6d00
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2021
-ms.locfileid: "7729336"
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "7947276"
 ---
 ستتمكن عند الانتهاء من هذه التمارين من أداء المهام التالية: تأكيد الاشتراكات، وتأكيد توافر المثيل، وتأكيد مساحة التخزين المتوفرة.
 

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.5-3-power-platform-convergence
+title: تقارب Power Platform
+metadata:
+  title: تقارب Power Platform
+  description: تعرف على تقارب Power Platform مع Finance and Operations.
+  ms.date: 12/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 0ae0f42ef07f37899079ce1c04ab207e303724f9
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7945075"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-3-power-platform-convergence.md)]

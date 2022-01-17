@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.feature-management-finance-operations.09-check-updates
+title: تحقق من وجود تحديثات
+metadata:
+  title: تحقق من وجود تحديثات
+  description: تعرف على كيفية التحقق من وجود تحديثات.
+  ms.date: 12/23/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 442acb303323d986f86a56c66a1e4b06a8a73e17
+  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "7946195"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-check-updates.md)]"
