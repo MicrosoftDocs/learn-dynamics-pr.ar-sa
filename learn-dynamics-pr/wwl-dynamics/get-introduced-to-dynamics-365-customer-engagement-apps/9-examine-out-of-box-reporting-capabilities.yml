@@ -4,17 +4,18 @@ title: تحقق من إمكانيات إعداد التقارير الجاهزة
 metadata:
   title: تحقق من إمكانيات إعداد التقارير الجاهزة
   description: تحقق من إمكانيات إعداد التقارير الجاهزة
-  ms.date: 07/22/2021
+  ms.date: 12/21/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: cdeb47565bfe655fac44d3d6d26b9eca33f7a36f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: dfb58021fe853689a58902dfddc1a17d030a22d1
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334790"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944198"
 azureSandbox: false
+labModal: false
 durationInMinutes: 2
 content: '[!include[](includes/9-examine-out-of-box-reporting-capabilities.md)]'

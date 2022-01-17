@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-third-party-connections.3-surface-data
+title: عرض بيانات العميل في تطبيقات Dynamics 365
+metadata:
+  title: عرض بيانات العميل في تطبيقات Dynamics 365
+  description: تعرّف على كيفية عرض بيانات العميل في تطبيقات Dynamics 365.
+  ms.date: 12/13/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4bdf057b4f8da9f4d2ce164959e2f454e1416762
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933580"
+durationInMinutes: 9
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-surface-data.md)]"

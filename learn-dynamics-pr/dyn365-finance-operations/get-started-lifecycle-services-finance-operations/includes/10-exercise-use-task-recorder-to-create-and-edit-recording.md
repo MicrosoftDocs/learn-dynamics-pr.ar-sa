@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 25bb7c29933b989859bc7e906064c9c2580429144ad6bac4d3fb711672e49996
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 96e2fd4eb347436aea4d860fd64ff53b79350ac7
+ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059221"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "7944494"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
  يفترض هذا التمرين أن لديك بالفعل عملية توزيع تطبيقات Finance and Operations عاملة. 
@@ -50,7 +50,7 @@ ms.locfileid: "7059221"
 1.  حدد **حفظ**.
 2.  في جزء **مسجل المهام**، حدد **إنهاء المهمة**. 
 3.  لحفظ التسجيل في الكمبيوتر الشخصي لديك، حدد **حفظ إلى الكمبيوتر الشخصي هذا**. اختر موقعاً واحفظ الملف.
-4.  لحفظ التسجيل في Lifecycle Services، حدد **حفظ في Lifecycle Services**. لاحظ أنه يجب توفير مكتبة BPM في مشروع LCS.
+4.  لحفظ التسجيل في Lifecycle Services، حدد **حفظ في Lifecycle Services**. لاحظ أنه يجب أن يكون لديك مكتبة BPM في مشروع Lifecycle Services الخاص بك.
 5.  لحفظ التسجيل كمستند Word، حدد **تصدير كمستند Word**.
 6.  للحفظ كتسجيل مطوِّر، حدد **حفظ كتسجيل مطوِّر**.
 7.  حدد **رجوع إلى القائمة الرئيسية**.

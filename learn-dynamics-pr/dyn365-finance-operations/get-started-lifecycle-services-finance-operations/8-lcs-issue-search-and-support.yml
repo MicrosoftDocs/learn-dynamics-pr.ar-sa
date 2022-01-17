@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-with-lcs.8-lcs-issue-search-and-support
-title: البحث عن المشكلات في LCS ودعمها
+title: البحث عن المشكلات والدعم
 metadata:
-  title: البحث عن المشكلات في LCS ودعمها
-  description: توضح هذه الوحدة كيفية تشغيل أداه البحث عن المشكلات في LCS وتحليل النتائج وإرسال الحادثة إلى Microsoft.
-  ms.date: 05/25/2021
+  title: البحث عن المشكلات والدعم
+  description: توضح هذه الوحدة كيفية تشغيل أداه البحث عن المشكلات وتحليل النتائج وإرسال الحادثة إلى Microsoft.
+  ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/cloud-powered-support-lcs
-  ms.openlocfilehash: 175b96b477c270e178d1202c2def90ab30293437
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c2bd01382c17b0dac133eb5e1a518a185cbfbf44
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362658"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944574"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

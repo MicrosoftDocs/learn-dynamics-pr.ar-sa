@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.administer-customer-data-platform.7-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين إذن "النظام الأساسي لبيانات العميل"، والبيئات، وعمليات النظام
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 72a981784dee83a4f7c5848af4384d59378644ff
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933570"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

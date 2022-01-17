@@ -4,17 +4,18 @@ title: توضيح كيفية البحث عن البيانات وتصفيتها
 metadata:
   title: توضيح كيفية البحث عن البيانات وتصفيتها
   description: توضيح كيفية البحث عن البيانات وتصفيتها
-  ms.date: 07/22/2021
+  ms.date: 12/21/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: bb5aab2cfc3bbd2011e1df959d1573f09aaa17e8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: f0e2a8d4022856fadd8d824b0d217c2d7151f3bc
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351304"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944342"
 azureSandbox: false
+labModal: false
 durationInMinutes: 13
 content: '[!include[](includes/6-explain-how-to-search-filter-data.md)]'

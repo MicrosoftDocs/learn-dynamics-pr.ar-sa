@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-dynamics.administer-customer-data-platform
+metadata:
+  title: إدارة النظام الأساسي لبيانات العملاء
+  description: استخدم "النظام الأساسي لبيانات العملاء" لإدارة تكوين الأذونات والبيئات وعمليات النظام.
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 420f07937d565ed2f5c738d3def449b9c37b3933
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933588"
+title: إدارة النظام الأساسي لبيانات العملاء
+summary: "[!include[](../includes/module-banner.md)] \nاستخدم \"النظام الأساسي لبيانات العملاء\" لإدارة تكوين الأذونات والبيئات وعمليات النظام.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بإنشاء البيئات أو حذفها أو تعديلها في مثيل Microsoft Dynamics 365 Customer Insights.\n- إدارة المهام والعمليات.\n- إدارة جداول تحديث البيانات. \n- تحديد أذونات الأمان.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/administer-customer-data-platform.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-analyst
+- functional-consultant
+products:
+- dynamics-cust-insights
+units:
+- learn-dynamics.administer-customer-data-platform.1-introduction
+- learn-dynamics.administer-customer-data-platform.2-create-environments
+- learn-dynamics.administer-customer-data-platform.3-system-process-status
+- learn-dynamics.administer-customer-data-platform.4-schedule-system-refreshes
+- learn-dynamics.administer-customer-data-platform.5-configure-permissions
+- learn-dynamics.administer-customer-data-platform.6-check
+- learn-dynamics.administer-customer-data-platform.7-summary
+badge:
+  uid: learn-dynamics.administer-customer-data-platform.badge

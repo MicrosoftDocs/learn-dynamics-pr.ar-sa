@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-third-party-connections.7-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 12/13/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9d9f27be8cd0ddfa16a98c610c002c6b2ea0c8d9
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933591"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: لقد طُلب منك إضافة بيانات من Customer Insights إلى نموذج جهة الاتصال في Dynamics 365 Customer Insights. تريد عرض قائمة بأنشطة Customer Insights. أيّ من عناصر التحكم التالية تريد إضافتها إلى النموذج؟
+    choices:
+    - content: التحكم في المقاييس
+      isCorrect: false
+      explanation: غير صحيح. يمكنك إضافة خمسة عناصر تحكم مختلفة إلى نماذج Dynamics 365 كجزء من الوظيفة الإضافية لبطاقة العميل. هذه الضوابط هي الديموغرافية والإثراء والاستخبارات والمقاييس والجدول الزمني. عنصر تحكم المخطط الزمني هو العنصر الذي قد تستخدمه لعرض الأنشطة من Customer Insights في النموذج.
+    - content: عنصر تحكم المخطط الزمني
+      isCorrect: true
+      explanation: صحيح. يمكنك إضافة خمسة عناصر تحكم مختلفة إلى نماذج Dynamics 365 كجزء من الوظيفة الإضافية لبطاقة العميل. هذه الضوابط هي الديموغرافية والإثراء والاستخبارات والمقاييس والجدول الزمني. عنصر تحكم المخطط الزمني هو العنصر الذي قد تستخدمه لعرض الأنشطة من Customer Insights في النموذج.
+    - content: التحكم في المعلومات المهنية
+      isCorrect: false
+      explanation: غير صحيح. يمكنك إضافة خمسة عناصر تحكم مختلفة إلى نماذج Dynamics 365 كجزء من الوظيفة الإضافية لبطاقة العميل. هذه الضوابط هي الديموغرافية والإثراء والاستخبارات والمقاييس والجدول الزمني. عنصر تحكم المخطط الزمني هو العنصر الذي قد تستخدمه لعرض الأنشطة من Customer Insights في النموذج.
+    - content: التحكم في الإثراء
+      isCorrect: false
+      explanation: غير صحيح. يمكنك إضافة خمسة عناصر تحكم مختلفة إلى نماذج Dynamics 365 كجزء من الوظيفة الإضافية لبطاقة العميل. هذه الضوابط هي الديموغرافية والإثراء والاستخبارات والمقاييس والجدول الزمني. عنصر تحكم المخطط الزمني هو العنصر الذي قد تستخدمه لعرض الأنشطة من Customer Insights في النموذج.
+  - content: تريد الإدارة الحصول على العديد من التقارير التحليلية التي تتضمن بيانات من Customer Insights. أيّ من التطبيقات التالية Microsoft Power Platform قد تستخدمه لإنشاء التقارير؟
+    choices:
+    - content: Power Apps
+      isCorrect: false
+      explanation: غير صحيح. يوفر Microsoft Power Platform أدوات متعددة يمكنك استخدامها لإنشاء حلول تستخدم بيانات Customer Insights. Power BI هي أداة إعداد التقارير والتحليلات التي تتيح لك إنشاء تقارير تحليلية تساعد في اتخاذ قرارات العمل.
+    - content: Power Automate
+      isCorrect: false
+      explanation: غير صحيح. يوفر Microsoft Power Platform أدوات متعددة يمكنك استخدامها لإنشاء حلول تستخدم بيانات Customer Insights. Power BI هي أداة إعداد التقارير والتحليلات التي تتيح لك إنشاء تقارير تحليلية تساعد في اتخاذ قرارات العمل.
+    - content: Power BI
+      isCorrect: true
+      explanation: صحيح. يوفر Microsoft Power Platform أدوات متعددة يمكنك استخدامها لإنشاء حلول تستخدم بيانات Customer Insights. Power BI هي أداة إعداد التقارير والتحليلات التي تتيح لك إنشاء تقارير تحليلية تساعد في اتخاذ قرارات العمل.
+    - content: Power Virtual Agents
+      isCorrect: false
+      explanation: غير صحيح. يوفر Microsoft Power Platform أدوات متعددة يمكنك استخدامها لإنشاء حلول تستخدم بيانات Customer Insights. Power BI هي أداة إعداد التقارير والتحليلات التي تتيح لك إنشاء تقارير تحليلية تساعد في اتخاذ قرارات العمل.
+  - content: تريد تصدير البيانات من Customer Insights واستخدامها مع Azure Synapse Analytics. ما المهمة الأولى التي تحتاج لإكمالها؟
+    choices:
+    - content: قم بإنشاء اتصال بمثيل Azure Synapse Analytics الخاص بك.
+      isCorrect: true
+      explanation: صحيح. بشكل عام، تحتاج إلى إكمال عملية من خطوتين، عند التحضير لتصدير البيانات من Customer Insights إلى تطبيقات أخرى. تتمثل الخطوة الأولى في إنشاء اتصال بمصدر البيانات الذي تريد التصدير إليه، والخطوة الثانية هي إنشاء مهمة تصدير تستخدم الاتصال الذي حددته.
+    - content: قم بإنشاء وظيفة تصدير.
+      isCorrect: false
+      explanation: غير صحيح. بشكل عام، تحتاج إلى إكمال عملية من خطوتين، عند التحضير لتصدير البيانات من Customer Insights إلى تطبيقات أخرى. تتمثل الخطوة الأولى في إنشاء اتصال بمصدر البيانات الذي تريد التصدير إليه، والخطوة الثانية هي إنشاء مهمة تصدير تستخدم الاتصال الذي حددته.
+    - content: قم بإنشاء وظيفة استيراد.
+      isCorrect: false
+      explanation: غير صحيح. بشكل عام، تحتاج إلى إكمال عملية من خطوتين، عند التحضير لتصدير البيانات من Customer Insights إلى تطبيقات أخرى. تتمثل الخطوة الأولى في إنشاء اتصال بمصدر البيانات الذي تريد التصدير إليه، والخطوة الثانية هي إنشاء مهمة تصدير تستخدم الاتصال الذي حددته.
+    - content: قم بإنشاء وجهة.
+      isCorrect: false
+      explanation: غير صحيح. بشكل عام، تحتاج إلى إكمال عملية من خطوتين، عند التحضير لتصدير البيانات من Customer Insights إلى تطبيقات أخرى. تتمثل الخطوة الأولى في إنشاء اتصال بمصدر البيانات الذي تريد التصدير إليه، والخطوة الثانية هي إنشاء مهمة تصدير تستخدم الاتصال الذي حددته.

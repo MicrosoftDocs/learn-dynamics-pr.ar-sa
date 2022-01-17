@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.administer-customer-data-platform.5-configure-permissions
+title: إعداد أذونات المستخدم
+metadata:
+  title: إعداد أذونات المستخدم
+  description: تعرف على أذونات المستخدم وقم بإعدادها لتمكين المستخدمين من استخدام البيانات من Customer Insights في التطبيقات التي يستخدمونها كل يوم.
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 717942db222be6137baf5d034b3a650e706b7d27
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933574"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-configure-permissions.md)]"

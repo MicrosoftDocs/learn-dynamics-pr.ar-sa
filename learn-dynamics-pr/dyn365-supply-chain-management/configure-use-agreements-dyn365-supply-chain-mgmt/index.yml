@@ -3,23 +3,23 @@ uid: learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops
 metadata:
   title: تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management
   description: تتفاوض الشركات وتتفق على شروط معينة لتتمكن من تحديد سعر الأصناف. تساعد هذه الاتفاقيات الشركات على عمل تقديرات صحيحة لتكلفة البضائع المشتراة ووضع أساس لأسعار المبيعات. من خلال شراء البضائع أو بيعها، قد تكون الشركات مخولة لاستلام خصومات أو مكافآت الولاء، والتي يمكن تحويلها إلى إشعار دائن.
-  ms.date: 05/12/2021
+  ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9b2ac4d0070928b32ec1e8c87a2eda3658608e27
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0eaffa2149d8d03f3b0cd219b3ff76813892b27e
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353422"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944270"
 title: تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  تقوم الشركات بالتفاوض والموافقة علي شروط معينة لإصلاح سعر الأصناف. تساعد هذه الاتفاقيات الشركات علي عمل تقديرات صحيحة لتكلفة البضائع المشتراة ووضع أساس لأسعار المبيعات. من خلال شراء البضائع أو بيعها، قد تكون الشركات مخولة لاستلام خصومات أو مكافآت الولاء، والتي يمكن تحويلها إلى إشعار دائن.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- المحافظة على اتفاقيات التجارة.\n- تكوين التقريب الذكي.\n- إنشاء اتفاقيات البيع.\n- استخدام سياسات التدبير.\n- إنشاء اتفاقيات الشراء.\n- تكوين البدل التجاري.\n- تكوين الوساطة.\n- تكوين العوائد.\n- تكوين الخصومات.\n"
+  تقوم الشركات بالتفاوض والموافقة علي شروط معينة لإصلاح سعر الأصناف. تساعد هذه الاتفاقيات الشركات علي عمل تقديرات صحيحة لتكلفة البضائع المشتراة ووضع أساس لأسعار المبيعات. خلال شراء البضائع أو بيعها، قد تكون الشركات مخولة لاستلام خصومات أو مكافآت الولاء، والتي يمكن تحويلها إلى إشعار دائن.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- المحافظة على اتفاقيات التجارة.\n- تكوين التقريب الذكي.\n- إنشاء اتفاقيات البيع.\n- استخدام سياسات التدبير.\n- إنشاء اتفاقيات الشراء.\n- تكوين البدل التجاري.\n- تكوين الوساطة.\n- تكوين العوائد.\n- تكوين الخصومات.\n- التعرف على وحدة إدارة الخصومات.    \n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/configure-use-agreements-in-dynamics-365-finance-ops.svg
 levels:
@@ -40,6 +40,7 @@ units:
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.6-configure-brokerage-contract-management
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.7-configure-royalty-contract-management
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.8-configure-vendor-rebates
+- learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.8-2-rebate-management-module
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.9-exercise-create-purchase-agreement
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.10-exercise-generate-process-customer-rebates
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.11-exercise-create-trade-agreements

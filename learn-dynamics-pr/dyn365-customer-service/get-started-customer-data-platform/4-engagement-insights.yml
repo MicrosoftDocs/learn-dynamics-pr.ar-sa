@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-customer-data-platform.4-engagement-insights
+title: نظرة عامة على رؤى المشاركة
+metadata:
+  title: نظرة عامة على رؤى المشاركة
+  description: تعرّف على كيف يمكن أن تساعدك رؤى المشاركة على فهم كيفية استخدام العملاء لخدماتك ومنتجاتك بشكل أفضل.
+  ms.date: 12/16/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f1f61bf9ebc592c0fb7f92f6b3fb7214df09e577
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933404"
+durationInMinutes: 9
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-engagement-insights.md)]

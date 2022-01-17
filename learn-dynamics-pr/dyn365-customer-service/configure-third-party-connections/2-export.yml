@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-third-party-connections.2-export
+title: تصدير بيانات Customer Insights
+metadata:
+  title: تصدير بيانات Customer Insights
+  description: تعرف على كيفية تصدير بيانات Customer Insights.
+  ms.date: 12/13/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e01afe38a1e3f9c519e30de9e4882e5dea0c4d81
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933581"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-export.md)]"
