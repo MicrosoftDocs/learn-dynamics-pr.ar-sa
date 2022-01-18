@@ -1,6 +1,76 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/29-exercise-9.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/15-exercise-6",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/28-exercise-8.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/14-exercise-5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/27-exercise-7.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/13-exercise-4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/26-exercise-6.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/12-exercise-3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/25-exercise-5.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/11-exercise-2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/24-exercise-4.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/10-exercise-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/19-planning-items.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/09-planning-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/18-burden-allocation.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/08-burden-allocation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/17-by-products.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/07-by-products",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/16-co-products.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/06-co-products",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/10-use-step-consumption.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/05-use-step-consumption",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/09-formulas-versions.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/04-formulas-versions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/08-formula-features.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/03-formula-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/07-formulas-lines-versions.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/02-formulas-lines-versions",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-finance/process-credit-collections-dyn365-finance/7-exercise-3.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/process-credit-collections-dyn365-finance/5-exercise-1",
       "redirect_document_id": false
