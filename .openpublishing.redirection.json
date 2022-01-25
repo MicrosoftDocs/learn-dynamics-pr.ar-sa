@@ -1,6 +1,66 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/17-exercise-2.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/12-exercise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/16-exercise-1.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/12-exercise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/10-adjust-lease.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/11-adjust-lease",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/09-copy-lease.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/10-copy-lease",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/08-2-associate-assets-leases.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/09-associate-assets-leases",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/08-create-lease-schedule.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/08-create-lease-schedule",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/07-create-lease.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/07-create-lease",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/06-lease-groups.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/06-lease-groups",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/05-setup-lease-books.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/05-set-up-lease-books",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/04-setup-asset-leasing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/04-set-up-asset-leasing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/03-lease-transactions.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/03-lease-transactions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-finance/work-asset-leasing-finance/02-leasing-elements.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/setup-asset-leasing-finance/02-leasing-elements",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/configure-use-process-manufacturing-dyn365-supply-chain-mgmt/29-exercise-9.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/configure-formulas-process-manufacturing/15-exercise-6",
       "redirect_document_id": false
