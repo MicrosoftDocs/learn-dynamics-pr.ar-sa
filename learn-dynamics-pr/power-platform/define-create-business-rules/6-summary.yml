@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: راجع ما تعلمته حول تحديد قواعد العمل وإنشائها في Microsoft Dataverse.
-  ms.date: 04/29/2021
+  ms.date: 01/03/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 7494f4368800c2e2f9df6512fe863ccde0b8516a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1c038078654fdc8ce9828d1f27c4be010adeca60
+  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457546"
+  ms.lasthandoff: 01/05/2022
+  ms.locfileid: "7950023"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

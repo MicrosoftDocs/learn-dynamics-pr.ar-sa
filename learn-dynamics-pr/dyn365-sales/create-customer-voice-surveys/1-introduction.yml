@@ -4,16 +4,16 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمه حول إنشاء استطلاعك الأول.
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/04/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 8a28f143dcbaba0c595f846309d96515c4f21ad6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1508fe457e32a0275c59b1d020b4f1df92226086
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436155"
-durationInMinutes: 3
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964138"
+durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-formulas-process-manufacturing.15-exercise-6
+title: تدريب - إنشاء معادلة استهلاك الخطوة
+metadata:
+  title: تدريب - إنشاء معادلة استهلاك الخطوة
+  description: تدرب علي إنشاء معادلة استهلاك الخطوة في Dynamics 365 Supply Chain Management.
+  ms.date: 01/12/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e3ef411c008fba8cd71fd323fb94ba880b17aa75
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991820"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/15-exercise-6.md)]

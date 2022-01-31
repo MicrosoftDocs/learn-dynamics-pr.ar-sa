@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-dynamics.create-customer-voice-surveys
 metadata:
-  title: إنشاء استطلاعات باستخدام Dynamics 365 Customer Voice
-  description: احصل على تعليقات العملاء لاتخاذ قرارات عمل أكثر ذكاءً. ابدأ بإنشاء استطلاعات في هذه الوحدة.
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  title: إنشاء استطلاعات العملاء باستخدام Dynamics 365 Customer Voice
+  description: احصل على تعليقات العملاء لاتخاذ قرارات عمل أكثر ذكاءً. ابدأ بإنشاء استطلاعات في هذه الوحدة النمطية.
+  ms.date: 01/04/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: f9467ceeed7c5c87f5e70a683339528978cdba05
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9dae5d19c847bd6108d29aa29831293115ecb8dd
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436170"
-title: إنشاء استطلاعات باستخدام Dynamics 365 Customer Voice
-summary: "[!include[](../includes/module-banner.md)] \nاحصل على تعليقات العملاء لاتخاذ قرارات عمل أكثر ذكاءً. ابدأ بإنشاء استطلاعات في هذه الوحدة. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- أنشئ استطلاعك الأول باستخدام سمة وعلامة تجارية مخصصة.\n- تعرف على وقت استخدام القواعد التفريعية لتوجيه المستجيبين عبر الاستطلاع.\n- قم بتخصيص الاستطلاعات بالمتغيرات.\n"
-prerequisites: لا شيء
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964274"
+title: إنشاء استطلاعات العملاء باستخدام Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nاحصل على تعليقات العملاء لاتخاذ قرارات عمل أكثر ذكاءً. ابدأ بإنشاء استطلاعات في هذه الوحدة النمطية. \n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- إنشاء استطلاعك الأول باستخدام نسف وعلامة تجارية مخصصة.\n- معرفة متى يجب استخدام قواعد التفريع لتوجيه المستجيبين عبر الاستطلاع.\n- تخصيص الاستطلاعات بواسطة المتغيرات.\n"
+prerequisites: الفهم الأساسي لتطبيق Customer Voice.
 iconUrl: /learn/achievements/create-customer-voice-surveys.svg
 levels:
 - beginner
@@ -27,13 +27,15 @@ roles:
 products:
 - dynamics-365
 - customer-voice
+- dynamics-sales
 units:
 - learn-dynamics.create-customer-voice-surveys.1-introduction
-#- learn-dynamics.create-customer-voice-surveys.1-5-themes
+- learn-dynamics.create-customer-voice-surveys.1a-survey-headers
 - learn-dynamics.create-customer-voice-surveys.2-branching-rules
 - learn-dynamics.create-customer-voice-surveys.3-variables
-#- learn-dynamics.create-customer-voice-surveys.3-3-metrics
-#- learn-dynamics.create-customer-voice-surveys.3-5-exercise
+- learn-dynamics.create-customer-voice-surveys.3a-metrics
+- learn-dynamics.create-customer-voice-surveys.3b-multi-language
+- learn-dynamics.create-customer-voice-surveys.3c-exercise
 - learn-dynamics.create-customer-voice-surveys.4-check
 - learn-dynamics.create-customer-voice-surveys.5-summary
 badge:

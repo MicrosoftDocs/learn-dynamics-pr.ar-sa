@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-customer-voice-surveys.3a-metrics
+title: أضف مقاييس الرضا لاستطلاع ومشروع
+metadata:
+  title: أضف مقاييس الرضا لاستطلاع ومشروع
+  description: تعرف على كيفية إضافة مقاييس الرضا لاستطلاع ومشروع.
+  ms.date: 01/04/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: 06c7bf31e1aafd91150994ab878d9b4c37530245
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964368"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3a-metrics.md)]"

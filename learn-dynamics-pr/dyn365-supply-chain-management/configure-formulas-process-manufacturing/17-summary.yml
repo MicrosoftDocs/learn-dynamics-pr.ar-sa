@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-formulas-process-manufacturing.17-summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص تكوين التصنيع التحويلي في الوحدة النمطية Dynamics 365 Supply Chain Management
+  ms.date: 01/12/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 435c3bcf6b8f27004490ad6dbcedd279cd3d361d
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991816"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/17-summary.md)]

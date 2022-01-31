@@ -4,16 +4,16 @@ title: تخصيص استطلاع يحتوي علي متغيرات
 metadata:
   title: تخصيص استطلاع يحتوي علي متغيرات
   description: تعرف على كيفية تخصيص استطلاع يحتوي علي متغيرات
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/04/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: f644134803898a23f37f6bb37adc0eb4ecd41dbc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 01043a431d6e990b1c7d1da8249aac87257997a9
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436261"
-durationInMinutes: 4
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964066"
+durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-variables.md)]"

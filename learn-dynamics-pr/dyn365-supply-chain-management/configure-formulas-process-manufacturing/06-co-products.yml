@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-formulas-process-manufacturing.06-co-products
+title: المنتجات المساعدة
+metadata:
+  title: المنتجات المساعدة
+  description: توضح هذه الوحدة المنتجات المساعدة في التصنيع التحويلي في Dynamics 365 Supply Chain Management.
+  ms.date: 01/12/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c916d8c97ffccf7a2aa926ba9188f69dcd490015
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991815"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/06-co-products.md)]

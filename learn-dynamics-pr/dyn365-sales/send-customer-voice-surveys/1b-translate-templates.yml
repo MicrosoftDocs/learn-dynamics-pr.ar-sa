@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.send-customer-voice-surveys.1b-translate-templates
+title: ترجمة قوالب الرسائل الإلكترونية إلى لغات أخرى
+metadata:
+  title: ترجمة قوالب الرسائل الإلكترونية إلى لغات أخرى
+  description: تعرف على كيفية ترجمة قوالب الرسائل الإلكترونية إلى لغات أخرى.
+  ms.date: 01/11/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: a6226e93764d3bf3d30151589ebb0417e00fd53a
+  ms.sourcegitcommit: 7fc65cc193319a1ed5491cbd0390d01a75043520
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/13/2022
+  ms.locfileid: "7968542"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1b-translate-templates.md)]"

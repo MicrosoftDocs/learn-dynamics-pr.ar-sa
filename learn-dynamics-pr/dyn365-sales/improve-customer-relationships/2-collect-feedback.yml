@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.improve-customer-relationships.2-collect-feedback
+title: جمع تعليقات العميل الدورية
+metadata:
+  title: جمع تعليقات العميل الدورية
+  description: تعرف على كيفية استخدام قالب لإنشاء مشروع يتضمن استطلاعًا وتقريرًا ومتغيرًا جديدًا ومقياسين للرضا وقالب رسالة إلكترونية.
+  ms.date: 01/03/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 45375f197bf27ff6e93d435c3a1db20b95c5dfdc
+  ms.sourcegitcommit: f16a34d76471f8731b29bf906040212de09a241c
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/10/2022
+  ms.locfileid: "7953789"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-collect-feedback.md)]

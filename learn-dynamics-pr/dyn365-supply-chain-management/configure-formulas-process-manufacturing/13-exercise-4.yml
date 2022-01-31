@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-formulas-process-manufacturing.13-exercise-4
+title: تدريب - إنشاء معادلة قابلة للتحجيم وتحديثها
+metadata:
+  title: تدريب - إنشاء معادلة قابلة للتحجيم وتحديثها
+  description: تدرب على إنشاء معادلة قابلة للتحجيم وتحديثها.
+  ms.date: 01/12/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 48da099fc3f567c6428be9039bdab9c50f56f3b6
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991817"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/13-exercise-4.md)]

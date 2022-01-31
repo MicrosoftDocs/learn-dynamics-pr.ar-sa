@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-customer-voice-surveys.1a-survey-headers
+title: رؤوس الاستطلاعات والعلامات التجارية
+metadata:
+  title: رؤوس الاستطلاعات والعلامات التجارية
+  description: إضافة رؤوس الاستطلاعات والعلامات التجارية.
+  ms.date: 01/04/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: c66c5b7d16ec89a072ed08580fe71be13a33c2dc
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964377"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1a-survey-headers.md)]"

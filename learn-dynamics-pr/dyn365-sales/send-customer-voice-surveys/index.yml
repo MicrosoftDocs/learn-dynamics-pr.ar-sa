@@ -3,21 +3,33 @@ uid: learn-dynamics.send-customer-voice-surveys
 metadata:
   title: إرسال استطلاعات Dynamics 365 Customer Voice
   description: تعرف على الطرق المختلفة التي يوفرها Dynamics 365 Customer Voice لمساعدتك في إرسال استطلاعات قوية للحصول على الملاحظات من العملاء والموظفين.
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/14/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 38b1680cd514d465dbba0e0852c8faae43eb96d1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 21d8c6500f93a25096a962c55f6031fb7c5db248
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436231"
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991702"
 title: إرسال استطلاعات Dynamics 365 Customer Voice
-summary: "[!include[](../includes/module-banner.md)] \nتعرف على الطرق المختلفة التي يوفرها Dynamics 365 Customer Voice لمساعدتك في إرسال استطلاعات قوية للحصول على الملاحظات من العملاء والموظفين. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء قوالب بريد إلكتروني لإرسالها من Dynamics 365 Customer Voice.\n- تعرف على كيفية إرسال الاستطلاعات عبر البريد الإلكتروني مباشرةً من Dynamics 365 Customer Voice.\n- اكتشف الطرق المختلفة لإرسال الاستطلاعات، بما في ذلك الروابط المباشرة ورموز QR.\n"
-prerequisites: إكمال إنشاء استطلاعات باستخدام Dynamics 365 Customer Voice الوحدة النمطية
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعرف على الطرق المختلفة التي يوفرها Dynamics 365 Customer Voice لمساعدتك في إرسال استطلاعات قوية للحصول على الملاحظات من العملاء والموظفين.
+abstract: >
+  في هذه الوحدة النمطية، ستقوم بما يلي:
+
+  - تعرف على كيفية إنشاء قوالب بريد إلكتروني لإرسالها من Dynamics 365 Customer Voice.
+
+  - تعرف على كيفية إرسال الاستطلاعات عبر البريد الإلكتروني مباشرةً من Dynamics 365 Customer Voice.
+
+  - اكتشاف الطرق المختلفة لإرسال الاستطلاعات، بما في ذلك الارتباطات المباشرة وشفرات الاستجابة السريعة.
+
+  - إرسال تذكيرات الاستطلاع والتعرّف على كيفية فهم تقرير توزيع الاستطلاع.
+prerequisites: إكمال الوحدة النمطية إنشاء استطلاعات العملاء باستخدام Dynamics 365 Customer Voice
 iconUrl: /learn/achievements/send-customer-voice-surveys.svg
 levels:
 - beginner
@@ -27,12 +39,16 @@ roles:
 products:
 - dynamics-365
 - customer-voice
+- dynamics-sales
 units:
 - learn-dynamics.send-customer-voice-surveys.1-introduction
+- learn-dynamics.send-customer-voice-surveys.1a-templates
+- learn-dynamics.send-customer-voice-surveys.1b-translate-templates
 - learn-dynamics.send-customer-voice-surveys.2-email-survey
-#- learn-dynamics.send-customer-voice-surveys.2-5-csv-files
+- learn-dynamics.send-customer-voice-surveys.2a-csv-files
 - learn-dynamics.send-customer-voice-surveys.3-links-qr-codes
-#- learn-dynamics.send-customer-voice-surveys.3-5-exercise
+- learn-dynamics.send-customer-voice-surveys.3a-survey-reports
+- learn-dynamics.send-customer-voice-surveys.3b-exercise
 - learn-dynamics.send-customer-voice-surveys.4-check
 - learn-dynamics.send-customer-voice-surveys.5-summary
 badge:

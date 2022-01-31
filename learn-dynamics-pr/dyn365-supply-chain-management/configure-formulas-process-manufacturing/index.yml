@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.configure-formulas-process-manufacturing
+metadata:
+  title: تكوين المعادلات للتصنيع التحويلي في Dynamics 365 Supply Chain Management
+  description: تعلّم كيفية تكوين المعادلات للتصنيع التحويلي في Dynamics 365 Supply Chain Management.
+  ms.date: 01/12/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b1035102b30dafa3255d1dee13ccbba5ab8b32ed
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991799"
+title: تكوين المعادلات للتصنيع التحويلي في Dynamics 365 Supply Chain Management
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  في التصنيع التحويلي في Dynamics 365 Supply Chain Management، تحدد المعادلة المواد والمكونات والنتائج الخاصة بعملية معينة في التصنيع التحويلي.
+abstract: "في هذه الوحدة النمطية، ستتعرف على كيفية القيام بما يلي: \n- إدارة المعادلات.\n- إنشاء المنتجات المساعدة والمنتجات الثانوية.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات التصنيع، بما في ذلك التصنيع التحويلي
+
+  - معرفه عمليات إدارة المخزون
+
+  - معرفه عمليات إدارة المستودعات
+iconUrl: /learn/achievements/configure-formulas-process-manufacturing.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.configure-formulas-process-manufacturing.01-introduction
+- learn-dynamics.configure-formulas-process-manufacturing.02-formulas-lines-versions
+- learn-dynamics.configure-formulas-process-manufacturing.03-formula-features
+- learn-dynamics.configure-formulas-process-manufacturing.04-formulas-versions
+- learn-dynamics.configure-formulas-process-manufacturing.05-use-step-consumption
+- learn-dynamics.configure-formulas-process-manufacturing.06-co-products
+- learn-dynamics.configure-formulas-process-manufacturing.07-by-products
+- learn-dynamics.configure-formulas-process-manufacturing.08-burden-allocation
+- learn-dynamics.configure-formulas-process-manufacturing.09-planning-items
+- learn-dynamics.configure-formulas-process-manufacturing.10-exercise-1
+- learn-dynamics.configure-formulas-process-manufacturing.11-exercise-2
+- learn-dynamics.configure-formulas-process-manufacturing.12-exercise-3
+- learn-dynamics.configure-formulas-process-manufacturing.13-exercise-4
+- learn-dynamics.configure-formulas-process-manufacturing.14-exercise-5
+- learn-dynamics.configure-formulas-process-manufacturing.15-exercise-6
+- learn-dynamics.configure-formulas-process-manufacturing.16-check
+- learn-dynamics.configure-formulas-process-manufacturing.17-summary
+badge:
+  uid: learn-dynamics.configure-formulas-process-manufacturing.badge

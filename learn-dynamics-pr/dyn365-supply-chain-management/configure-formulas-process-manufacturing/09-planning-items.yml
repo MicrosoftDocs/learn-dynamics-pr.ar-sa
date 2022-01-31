@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-formulas-process-manufacturing.09-planning-items
+title: أصناف التخطيط
+metadata:
+  title: أصناف التخطيط
+  description: توضح هذه الوحدة أصناف التخطيط في التصنيع التحويلي في Dynamics 365 Supply Chain Management.
+  ms.date: 01/12/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9275200ef54a3b18141f17e72c9da7418c518ddb
+  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/15/2022
+  ms.locfileid: "7991822"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/09-planning-items.md)]

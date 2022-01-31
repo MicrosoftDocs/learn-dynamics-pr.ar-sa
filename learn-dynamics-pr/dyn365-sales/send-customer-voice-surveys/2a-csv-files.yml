@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.send-customer-voice-surveys.2a-csv-files
+title: تحميل ملفات CVS
+metadata:
+  title: تحميل ملفات CVS
+  description: التعرف علي كيفية تحميل ملفات CSV.
+  ms.date: 01/11/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-customervoice
+  ms.openlocfilehash: fe6918bdb5f21c83b0838fe87cac2c2d90324f32
+  ms.sourcegitcommit: 7fc65cc193319a1ed5491cbd0390d01a75043520
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/13/2022
+  ms.locfileid: "7968540"
+durationInMinutes: 9
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2a-csv-files.md)]"

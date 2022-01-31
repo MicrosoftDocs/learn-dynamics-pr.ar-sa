@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.improve-customer-relationships.5-exercise
+title: تدريب - إرسال استطلاع Customer Voice من Dynamics 365
+metadata:
+  title: تدريب - إرسال استطلاع Customer Voice من Dynamics 365
+  description: اتبع الخطوات لإنشاء استطلاع Customer Voice وإرساله.
+  ms.date: 01/03/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5f92a737dc063565f2dea0a847b27d9c83292752
+  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/05/2022
+  ms.locfileid: "7950190"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-exercise.md)]"

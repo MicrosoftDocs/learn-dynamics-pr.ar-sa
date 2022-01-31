@@ -3,16 +3,16 @@ uid: learn-dynamics.feature-management-finance-operations.02-workspace
 title: مساحة عمل إدارة الميزات
 metadata:
   title: مساحة عمل إدارة الميزات
-  description: تعرف على مساحة عمل إدارة الميزات
+  description: تعرف على مساحة عمل إدارة الميزات.
   ms.date: 12/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a29776940cae3cda931cc486846b66bfd3ecba10
-  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.openlocfilehash: aaaab2b1a772794b39372df88a5a7f2bad803f92
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/23/2021
-  ms.locfileid: "7946202"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964034"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-workspace.md)]"
