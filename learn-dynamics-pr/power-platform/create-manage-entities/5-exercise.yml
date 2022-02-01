@@ -1,7 +1,7 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-manage-entities.5-exercise
 title: المعمل - إنشاء جدول مخصص جديد وتمكين المرفقات
-labId: 105473
+#labId: 105473
 metadata:
   title: المعمل - إنشاء جدول مخصص جديد وتمكين المرفقات
   description: تعرَّف على كيفية إنشاء جدول مخصص جديد في Dataverse وتمكين إضافة المرفقات إلى صف في جدول مخصص جديد.
