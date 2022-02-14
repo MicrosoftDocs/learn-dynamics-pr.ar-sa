@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-asset-leasing-finance.10-copy-lease
+title: نسخ عقد الإيجار
+metadata:
+  title: نسخ عقد الإيجار
+  description: تعرف على كيفية نسخ عقد الإيجار في Dynamics 365 Finance.
+  ms.date: 01/21/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ac21506e62a683e768df86ed5d0e89b9450105c7
+  ms.sourcegitcommit: 16ff090ed83be5ec3910d3e4daf783e4dc8eb764
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025139"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-copy-lease.md)]"

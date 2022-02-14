@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-asset-leasing-finance.08-create-lease-schedule
+title: إنشاء جدول إيجار
+metadata:
+  title: إنشاء جدول إيجار
+  description: تعرف على كيفية إنشاء جدول إيجار في Dynamics 365 Finance.
+  ms.date: 01/21/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 570c0c0fa42de7f589a366b1f480e9fac0b2ca8f
+  ms.sourcegitcommit: 16ff090ed83be5ec3910d3e4daf783e4dc8eb764
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025141"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-create-lease-schedule.md)]"

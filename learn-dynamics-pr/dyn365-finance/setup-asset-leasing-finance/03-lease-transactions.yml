@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-asset-leasing-finance.03-lease-transactions
+title: حركات عقد الإيجار
+metadata:
+  title: حركات عقد الإيجار
+  description: تعرف على الأنواع المختلفة للحركات الموجودة ضمن الوحدة النمطية لتأجير الأصول في Dynamics 365 Finance.
+  ms.date: 01/21/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a6e3494876dbaef9ff44a7301bdb463cd8de62eb
+  ms.sourcegitcommit: 16ff090ed83be5ec3910d3e4daf783e4dc8eb764
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025143"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-lease-transactions.md)]"

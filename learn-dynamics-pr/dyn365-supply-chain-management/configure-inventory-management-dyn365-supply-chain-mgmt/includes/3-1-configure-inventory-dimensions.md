@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 216e3206dd8a0c150c8ea9fd44610a4e29803090
-ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
+ms.openlocfilehash: 0207d9841c0a7deff6fc6e8764ee0d40157c992e
+ms.sourcegitcommit: c383b7ee985de92caab235f8adbb9b4402d55b27
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "7646457"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "8007191"
 ---
 من المهم أن تفكر في الطريقة التي تريد أن يعمل بها مخزونك قبل إعداد أبعاد وأبعاد المخزون. يجب أن يكون نوع وعدد أبعاد المخزون التي يتم إنشائها انعكاساً واقعياً لكيفية تصنيف كل صنف من أصناف المخزون أو معالجته في شركتك.
 

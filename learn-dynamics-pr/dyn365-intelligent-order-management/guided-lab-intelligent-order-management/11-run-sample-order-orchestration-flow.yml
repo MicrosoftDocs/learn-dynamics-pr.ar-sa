@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.guided-lab-intelligent-order-management.11-run-sample-order-orchestration-flow
+title: تشغيل عينة سير عمل تنسيق معالجة الأوامر
+metadata:
+  title: تشغيل عينة سير عمل تنسيق معالجة الأوامر
+  description: تشغيل عينة سير عمل تنسيق معالجة الأوامر في Intelligent Order Management
+  ms.date: 01/27/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4764eddda9944cc47ac03d1c493f7f783da5642a
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075796"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-run-sample-order-orchestration-flow.md)]"

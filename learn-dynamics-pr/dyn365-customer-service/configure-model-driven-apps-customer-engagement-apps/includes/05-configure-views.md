@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: 1b20f438a127109820fb53a3961f3b096af54be2ea1af8fec43d59476ad1a7db
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 16b517d7a554eee19dbf9ad21c235352caa27bb1
+ms.sourcegitcommit: 9f90ad77dd5dbd6d90587ba76752a8222c6cbe41
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121559"
+ms.lasthandoff: 01/21/2022
+ms.locfileid: "8016978"
 ---
-يُناقش هذا الفيديو كيفية تكوين طرق العرض للتطبيقات المستندة إلى النماذج لـ Dynamics 365.    
+يُناقش هذا الفيديو كيفية تكوين طرق العرض للتطبيقات التي تستند إلى النموذج في Dynamics 365.    
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWtUWK]

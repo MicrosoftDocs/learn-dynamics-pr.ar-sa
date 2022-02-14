@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: a62587ee49f026c38bfbefb2dc9382d2f2cd0fd6
-ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+ms.openlocfilehash: fc48bd52eedfdf32fff89ad948dc526b2bf05d66
+ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "7513487"
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "8045282"
 ---
 ### <a name="create-a-new-custom-table"></a>إنشاء جدول مخصص جديد
 
-يوضح لك هذا التمرين العملي كيفية إنشاء جدول مخصص جديد في Dataverse.
+يوضح لك هذا التمرين كيفية إنشاء جدول مخصص جديد في Dataverse.
 
 1.  حدد **Dataverse**/**البيانات** في اللوحة بالجانب الأيسر من مدخل Power Apps لتمديد الاختيارات المتوفرة.
 
@@ -22,7 +22,7 @@ ms.locfileid: "7513487"
 
     ![لقطة شاشة لقيم جدول جديدة مع الزر "إنشاء".](../media/exercise-1.png)
 
-### <a name="enable-attachments&quot;></a>تمكين المرفقات
+### <a name="enable-attachments"></a>تمكين المرفقات
 
 يجب أن تشاهد الآن قائمة الأعمدة للجدول الجديد **الشركات المصنعة لأجهزة الكمبيوتر‬‏‫‬‏‫**.
 
@@ -32,7 +32,7 @@ ms.locfileid: "7513487"
 
 1.  حدد **تم**.
 
-    ![لقطة شاشة لـ (تحرير سمات الجدول مع الزر &quot;تم").](../media/exercise-2.png)
+    ![لقطة شاشة لـ (تحرير سمات الجدول مع الزر "تم").](../media/exercise-2.png)
 
 1.  حدد الزر **موافق** عندما يظهر مربع الحوار لإعلامك بأنه لا يمكن تعطيل تمكين المرفقات.
 

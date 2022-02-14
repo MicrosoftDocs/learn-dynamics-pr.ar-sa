@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: b120ff7e75ece3a2499b08134c57d091a902313d
-ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+ms.openlocfilehash: a3c7813ec811ef513ee575423062617afd819fad
+ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/23/2021
-ms.locfileid: "7675532"
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "8045393"
 ---
 ### <a name="create-a-new-custom-choice"></a>إنشاء اختيار مخصص جديد
 
 قد ترغب في عمل خيار مخصص جديد لاستخدامه عبر العديد من الكيانات في Microsoft Dataverse. ويمكنك إنشاء اختيار بطريقتين: من خلال إنشاء اختيار عند تحديد حقل جديد داخل جدول، أو من خلال إنشاء اختيار باستخدام وظيفة الاختيار داخل مدخل Power Apps.
 
-لإنشاء اختيار مخصص جديد باستخدام وظيفة الاختيار في مدخل Power Apps، اتبع الخطوات الآتية:
+لإنشاء اختيار مخصص جديد باستخدام وظيفة الاختيار في مدخل Power Apps، اتبع الخطوات التالية:
 
-1.  سجِّل الدخول إلى [Power Apps](https://make.powerapps.com/). إذا كنت تستخدم البيئة الافتراضية، فانتقل إلى الخطوة 2.
+1.  سجِّل الدخول إلى [Power Apps](https://make.powerapps.com/).
 
 2.  في الجزء الأيمن، قم بتوسيع **البيانات**/**Dataverse** وحدد **الاختيارات**.
 

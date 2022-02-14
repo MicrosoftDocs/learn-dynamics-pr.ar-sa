@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.setup-asset-leasing-finance
+metadata:
+  title: إعداد ‏‫تأجير الأصول في Dynamics 365 Finance
+  description: تعرف على كيفية إعداد وحدة تأجير الأصول في Dynamics 365 Finance.
+  ms.date: 01/21/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f20771d2fe0e5a0773b1b5044abdf988a3c04e7f
+  ms.sourcegitcommit: 16ff090ed83be5ec3910d3e4daf783e4dc8eb764
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025117"
+title: إعداد ‏‫تأجير الأصول في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)] \nتساعدك هذه الوحدة على إعداد ميزات تأجير الأصول في Dynamics 365 Finance، وكيفية البدء في وظيفة تأجير الأصول.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على القدرة على تأجير الأصول.\n- إنشاء عقد إيجار أصل‬ وعرض المعلومات تتعلق بعقود الإيجار هذه.\n- إقران أصول ثابتة بعقود إيجار.\n"
+prerequisites: >
+  - معرفة Dynamics 365 Finance
+
+  - الفهم العام لتأجير الأصول.
+iconUrl: /learn/achievements/setup-asset-leasing-finance.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-finance
+- dynamics-finance-operations
+units:
+- learn-dynamics.setup-asset-leasing-finance.01-introduction
+- learn-dynamics.setup-asset-leasing-finance.02-leasing-elements
+- learn-dynamics.setup-asset-leasing-finance.03-lease-transactions
+- learn-dynamics.setup-asset-leasing-finance.04-set-up-asset-leasing
+- learn-dynamics.setup-asset-leasing-finance.05-set-up-lease-books
+- learn-dynamics.setup-asset-leasing-finance.06-lease-groups
+- learn-dynamics.setup-asset-leasing-finance.07-create-lease
+- learn-dynamics.setup-asset-leasing-finance.08-create-lease-schedule
+- learn-dynamics.setup-asset-leasing-finance.09-associate-assets-leases
+- learn-dynamics.setup-asset-leasing-finance.10-copy-lease
+- learn-dynamics.setup-asset-leasing-finance.11-adjust-lease
+- learn-dynamics.setup-asset-leasing-finance.12-exercise
+- learn-dynamics.setup-asset-leasing-finance.13-check
+- learn-dynamics.setup-asset-leasing-finance.14-summary
+badge:
+  uid: learn-dynamics.setup-asset-leasing-finance.badge

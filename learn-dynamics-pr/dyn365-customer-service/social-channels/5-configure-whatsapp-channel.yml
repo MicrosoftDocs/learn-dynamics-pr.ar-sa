@@ -4,16 +4,16 @@ title: قم بتكوين قناة WhatsApp من خلال Twilio
 metadata:
   title: قم بتكوين قناة WhatsApp من خلال Twilio
   description: تعرف على كيفية تكوين قناة WhatsApp من خلال Twilio.
-  ms.date: 08/06/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/13/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 32cc16b3ef3301af58170135d7b9d77386ae2309
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8d571672032483ef7de603fb6f7433c6cfb9422d
+  ms.sourcegitcommit: 10d757eeecd93c8c56396eca00fa61af2fef38d7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363818"
-durationInMinutes: 4
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "8009962"
+durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-configure-whatsapp-channel.md)]"

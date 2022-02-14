@@ -4,15 +4,15 @@ title: إجراء المكالمات وتلقيها
 metadata:
   title: إجراء المكالمات وتلقيها
   description: تعرّف على كيفية إجراء مكالمات وتلقيها.
-  ms.date: 11/15/2021
+  ms.date: 01/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3e218bcf2b8adcdbdbec159dfa3855735050399a
-  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
+  ms.openlocfilehash: f73d8f489fd956fcb222530100cee7d6a6a2cfa5
+  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/01/2021
-  ms.locfileid: "7878521"
+  ms.lasthandoff: 01/05/2022
+  ms.locfileid: "7950054"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-calls.md)]"

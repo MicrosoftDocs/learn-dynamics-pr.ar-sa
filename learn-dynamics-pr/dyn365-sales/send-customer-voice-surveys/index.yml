@@ -8,19 +8,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 21d8c6500f93a25096a962c55f6031fb7c5db248
-  ms.sourcegitcommit: ec98e8dad88370bb30ad0bf87b29e729af255e93
+  ms.openlocfilehash: 064c0eb79ed036d272e96ec2a5fe6d68907754c3
+  ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/15/2022
-  ms.locfileid: "7991702"
+  ms.lasthandoff: 01/27/2022
+  ms.locfileid: "8045401"
 title: إرسال استطلاعات Dynamics 365 Customer Voice
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تعرف على الطرق المختلفة التي يوفرها Dynamics 365 Customer Voice لمساعدتك في إرسال استطلاعات قوية للحصول على الملاحظات من العملاء والموظفين.
 abstract: >
-  في هذه الوحدة النمطية، ستقوم بما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - تعرف على كيفية إنشاء قوالب بريد إلكتروني لإرسالها من Dynamics 365 Customer Voice.
 
@@ -28,7 +28,7 @@ abstract: >
 
   - اكتشاف الطرق المختلفة لإرسال الاستطلاعات، بما في ذلك الارتباطات المباشرة وشفرات الاستجابة السريعة.
 
-  - إرسال تذكيرات الاستطلاع والتعرّف على كيفية فهم تقرير توزيع الاستطلاع.
+  - إرسال تذكيرات الاستطلاع والتعرّف على كيفية تفسير تقرير توزيع الاستطلاع.
 prerequisites: إكمال الوحدة النمطية إنشاء استطلاعات العملاء باستخدام Dynamics 365 Customer Voice
 iconUrl: /learn/achievements/send-customer-voice-surveys.svg
 levels:

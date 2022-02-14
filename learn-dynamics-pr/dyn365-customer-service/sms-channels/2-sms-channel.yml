@@ -4,15 +4,15 @@ title: تكوين دعم الرسائل القصيرة
 metadata:
   title: تكوين دعم الرسائل القصيرة
   description: تعرف على كيفية تكوين دعم الرسائل القصيرة.
-  ms.date: 08/04/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/20/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b8b96cb6a0477ea6038eaab19428b8a65ddee452
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 67dfd2a31748f4f2fdd88f346631daba8097ca43
+  ms.sourcegitcommit: 556a16f081a6399ebbf1fa0c3fe3bba9e8fb5f7e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7344584"
+  ms.lasthandoff: 01/21/2022
+  ms.locfileid: "8016226"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-sms-channel.md)]"

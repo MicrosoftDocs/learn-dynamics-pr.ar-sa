@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.guided-lab-intelligent-order-management
+metadata:
+  title: معمل موجه لـ Dynamics 365 Intelligent Order Management
+  description: هذه الوحدة هي تجربة معمل موجه لـ Microsoft Dynamics 365 Intelligent Order Management.
+  ms.date: 01/27/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 118125b7d4c7bf428293e21d53bd7a1e07f6c85c
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075793"
+title: معمل موجه لـ Dynamics 365 Intelligent Order Management
+summary: "[!include[](../includes/module-banner.md)] \nتوفر Dynamics 365 Intelligent Order Management مجموعة من الإمكانات لمساعدة مؤسستك على تنسيق وتوحيد وتحسين الطلبات التي تم التقاطها في مزيج من القنوات والأنظمة من خلال نقطة تنظيم واحدة. سيعمل التوحيد القياسي والتحسين، جنباً إلى جنب مع الذكاء المدمج، على تحسين سرعة التسليم مع تقليل التكاليف، مما يؤدي إلى تحسين رضا العملاء وزيادة هامش الربح لمؤسستك. من خلال Intelligent Order Management، يمكن للعملاء إدارة تنسيق الطلبات حتى تنفيذها. تمكّن هذه القدرات المؤسسات من تنسيق معالجة سير عمل الأوامر عبر الأنظمة الأساسية والتطبيقات المختلفة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء موفر\n- إعداد مراجع اتصال النظام الأساسي\n- إعداد اتصالات Microsoft Power Automate\n- إعداد الموفرين\n- إعداد السياسات\n- إعداد عمليات سير عمل تنسيق معالجة الأوامر\n- إعداد تعيينات المعرفات الداخلية والخارجية\n- اختبار تنسيق معالجة الأوامر من طرف إلى طرف في وقت التشغيل \n"
+prerequisites: الفهم الأساسي لـ Dynamics 365 Intelligent Order Management.
+iconUrl: /learn/achievements/guided-lab-intelligent-order-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-365
+- dynamics-iom
+units:
+- learn-dynamics.guided-lab-intelligent-order-management.01-introduction
+- learn-dynamics.guided-lab-intelligent-order-management.02-create-configure-connections
+- learn-dynamics.guided-lab-intelligent-order-management.03-create-new-provider-solution-package
+- learn-dynamics.guided-lab-intelligent-order-management.04-create-requestbin-customer-connector
+- learn-dynamics.guided-lab-intelligent-order-management.05-create-intake-provider
+- learn-dynamics.guided-lab-intelligent-order-management.06-create-fulfillment-provider
+- learn-dynamics.guided-lab-intelligent-order-management.07-export-provider-solution
+- learn-dynamics.guided-lab-intelligent-order-management.08-onboard-provider-instance
+- learn-dynamics.guided-lab-intelligent-order-management.09-create-policies
+- learn-dynamics.guided-lab-intelligent-order-management.10-create-order-orchestration
+- learn-dynamics.guided-lab-intelligent-order-management.11-run-sample-order-orchestration-flow
+- learn-dynamics.guided-lab-intelligent-order-management.12-check
+- learn-dynamics.guided-lab-intelligent-order-management.13-summary
+badge:
+  uid: learn-dynamics.guided-lab-intelligent-order-management.badge

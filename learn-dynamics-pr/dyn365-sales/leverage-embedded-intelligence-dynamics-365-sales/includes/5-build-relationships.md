@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e39ca1481105c9535d384dea2e10fd02fffce8ee
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: a68dd8bd233f87c190decbc37dea935d0ae96939
+ms.sourcegitcommit: c383b7ee985de92caab235f8adbb9b4402d55b27
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436311"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "8007222"
 ---
 مجموعة ميزات الذكاء المضمن المتوفرة في ‪Microsoft Dynamics 365‬ تتيح للمؤسسات استخدام قوة الذكاء الاصطناعي للمشاركة مع العملاء والتفاعل معهم. تشمل ميزات الذكاء المضمن ثلاث ميزات رئيسية: مساعدة العلاقة والالتقاط التلقائي ومشاركة البريد الإلكتروني.
 
@@ -157,7 +157,7 @@ ms.locfileid: "7436311"
 
 ### <a name="create-an-account-record"></a>إنشاء سجل للحساب
 
-1. في خريطة الموقع، انتقل إلى **المبيعات** > **العملاء المتوقعون**.
+1. في مخطط الموقع، انتقل إلى **المبيعات** > **الحسابات**.
 2. من شريط الأوامر، حدد **جديد**.
 3. أدخِل معلومات، إما لشركتك أو لشركة تتعامل معها. بدلاً من ذلك، يمكنك إدخال القيم التالية:
 

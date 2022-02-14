@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-asset-leasing-finance.13-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 01/21/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0980943a2ebdcaa4b1af95739c4ce4fe09d1a620
+  ms.sourcegitcommit: 16ff090ed83be5ec3910d3e4daf783e4dc8eb764
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025128"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: هل صحيح أن السماح بحذف معلمة الإيجارات المؤكدة يتيح لك حذف الإيجارات مع الحركات المرحلة؟
+    choices:
+    - content: نعم، هذا صحيح.
+      isCorrect: false
+      explanation: لا يمكن حذف عقود الإيجار عند اقتران الحركات المُرحلة أو غير المرحلة بها، بغض النظر عن إعدادات هذا الخيار.
+    - content: لا، هذا غير صحيح.
+      isCorrect: true
+      explanation: لا يمكن حذف عقود الإيجار عند اقتران الحركات المُرحلة أو غير المرحلة بها، بغض النظر عن إعدادات هذا الخيار.
+  - content: ما الذي يحتوي على سياسات المحاسبة التي تحدد كيفية حساب الإيجار في النظام؟
+    choices:
+    - content: دفاتر عقد الإيجار
+      isCorrect: true
+      explanation: تحتوي دفاتر عقد الإيجار على سياسات المحاسبة التي تحدد كيفية حساب الإيجار في النظام؟
+    - content: فترة الإيجار
+      isCorrect: false
+      explanation: فترة الإيجار هي طول فترة الإيجار، بالشهور.
+    - content: معلمات الترحيل
+      isCorrect: false
+      explanation: تحدد معلمات الترحيل الحسابات التي سيتم ترحيل حركات الإيجار إليها.
+  - content: ما الدالة التي تقوم بحساب قيمة الإيجار الحالية بحيث يمكن الإعلام عنها في الميزانية العمومية؟
+    choices:
+    - content: فاصل متراكب
+      isCorrect: false
+      explanation: يمثل الفاصل المتراكب عدد الفترات لحساب الفوائد المركبة في السنة.
+    - content: التعرّف المبدئي‬
+      isCorrect: true
+      explanation: يستخدم الإقرار الأولي للأصل المؤجر القيمة المحسوبة الحالية بحيث يمكن الإعلام عنها في الميزانية العمومية. يتم إنشاء الإدخال المحاسبي تلقائياً. تقوم هذه الحركة بالخصم من حساب حق استخدام الأصل وتودع في حساب التزامات عقد الإيجار التشغيلي.
+    - content: إهلاك الأصل
+      isCorrect: false
+      explanation: إهلاك الأصول هو أسلوب لحساب الإهلاك.

@@ -3,20 +3,19 @@ uid: learn-bizapps.creating-and-managing-entitlements-in-dynamics-365
 metadata:
   title: إنشاء الاستحقاقات وإدارتها في ‎ 365 C‎ustomer Service Microsoft Dynamics
   description: ستركز هذه الوحدة على استحقاقات 365 Microsoft Dynamics وكيفية استخدامها لتحديد المعلومات المتعلقة بعقود الدعم وتعقُّبها. وتتضمن معلومات عن إنشاء الاستحقاقات وتحديدها، وإعداد شروط الاستحقاق وأنواعه، وتحديد السجلات ذات الصلة، وإدارة دورة حياة الاستحقاق.
-  ms.date: 02/02/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 01/18/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c8ad65e7bace34be07a5ad7e3fefd721a45bee9e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d02344bf355558268e61b04163be62d67d8f4d48
+  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326753"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "8013961"
 title: إنشاء الاستحقاقات وإدارتها في ‎ 365 C‎ustomer Service Microsoft Dynamics
 summary: >
   [!include[](../includes/module-banner.md)]
-
 
   ستركز هذه الوحدة على استحقاقات 365 Microsoft Dynamics وكيفية استخدامها لتحديد المعلومات المتعلقة بعقود الدعم وتعقُّبها. وتتضمن معلومات عن إنشاء الاستحقاقات وتحديدها، وإعداد شروط الاستحقاق وأنواعه، وتحديد السجلات ذات الصلة، وإدارة دورة حياة الاستحقاق.
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- إنشاء سجلات الاستحقاق وتحديدها\n- التحكم عند تطبيق استحقاق ما \n- تحديد شروط استحقاق معين وقنوات مدعومة معيّنة\n- تحديد الاستحقاقات الخاصة بالمنتج أو الخاصة بجهة الاتصال\n- العمل باستخدام سجلات استحقاق متعددة لعميل معين\n- استخدام قوالب الاستحقاق للإسراع من وتيرة إنشاء استحقاقات جديدة\n"

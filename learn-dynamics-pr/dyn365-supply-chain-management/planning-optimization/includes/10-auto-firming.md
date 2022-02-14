@@ -1,17 +1,12 @@
 ---
-ms.openlocfilehash: ae39d4878a2d23a09dd81a1970ea7f25f58b711c6abcbf327171681952701a6e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 693aebff4cca9a29edf4bbe1a8e43bbbd2b36f37
+ms.sourcegitcommit: c383b7ee985de92caab235f8adbb9b4402d55b27
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7062608"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "8007199"
 ---
 التأكيد التلقائي هو عملية إصدار أمر مخطط وتحويله إلى أمر شراء أو أمر تحويل أو أمر تشغيل. باستخدام "تحسين التخطيط"، يمكن تأكيد الأوامر المخططة أثناء تشغيل الخطة عندما يكون التاريخ ضمن نطاق الحد الزمني للتأكيد. 
-
-ولتمكين "التأكيد التلقائي"، يجب تمكين ميزة **التأكيد التلقائي لتحسين التخطيط** في مساحة العمل **إدارة الميزات**.
-
-![ لقطة شاشة تُظهر التأكيد التلقائي لخيار "تحسين التخطيط".](../media/feature-auto-firming-ssm.png)
-
 
 ## <a name="differences-in-firming-an-order-between-built-in-master-planning-and-planning-optimization"></a>الاختلافات في تأكيد الأمر بين التخطيط الرئيسي المدمج و"تحسين التخطيط"
 

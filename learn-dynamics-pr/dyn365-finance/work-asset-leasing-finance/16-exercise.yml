@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-asset-leasing-finance.16-exercise
+title: تدريب - إنشاء فواتير الدفع
+metadata:
+  title: تدريب - إنشاء فواتير الدفع
+  description: تدرب على إنشاء فواتير الدفع في Dynamics 365 Finance.
+  ms.date: 01/25/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b08e384d5a78f74d1433d74483beef0b81c33e31
+  ms.sourcegitcommit: 4af9cd967e8496ed53c1022e0b4b83dcf4001802
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8027379"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/16-exercise.md)]"

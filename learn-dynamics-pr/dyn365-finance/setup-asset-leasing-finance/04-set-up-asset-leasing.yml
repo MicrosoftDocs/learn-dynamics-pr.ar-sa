@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-asset-leasing-finance.04-set-up-asset-leasing
+title: إعداد ‏‫تأجير الأصول
+metadata:
+  title: إعداد ‏‫تأجير الأصول
+  description: تعرّف على كيفية إعداد تأجير الأصول في Dynamics 365 Finance.
+  ms.date: 01/21/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 29d27c14113ae6f64961f81cbcbc444adc35194e
+  ms.sourcegitcommit: 16ff090ed83be5ec3910d3e4daf783e4dc8eb764
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025134"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-set-up-asset-leasing.md)]"

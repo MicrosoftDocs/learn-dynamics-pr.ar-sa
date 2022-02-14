@@ -4,15 +4,15 @@ title: إعداد قناة "الصوت" وتوفيرها
 metadata:
   title: إعداد قناة "الصوت" وتوفيرها
   description: تعرف على كيفية إعداد قناة "الصوت" وتوفيرها في Dynamics 365 Customer Service.
-  ms.date: 11/15/2021
+  ms.date: 01/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fc21bfb4f1353c881590a20ca5cea098a5e23b71
-  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
+  ms.openlocfilehash: d0bd357d5d294ea2df7f5baf3d3c346a0835cdce
+  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/01/2021
-  ms.locfileid: "7878489"
+  ms.lasthandoff: 01/05/2022
+  ms.locfileid: "7950038"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-provision.md)]"

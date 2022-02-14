@@ -3,17 +3,17 @@ uid: learn-dynamics.create-customer-voice-surveys.1-introduction
 title: مقدمة
 metadata:
   title: مقدمة
-  description: مقدمه حول إنشاء استطلاعك الأول.
+  description: مقدمة حول إنشاء أول استطلاع لك باستخدام Dynamics 365 Customer Voice
   ms.date: 01/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 1508fe457e32a0275c59b1d020b4f1df92226086
-  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
+  ms.openlocfilehash: 34576953aeb592ad68d9b09ac93c9444c8bac43b
+  ms.sourcegitcommit: 4af9cd967e8496ed53c1022e0b4b83dcf4001802
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/12/2022
-  ms.locfileid: "7964138"
+  ms.lasthandoff: 01/25/2022
+  ms.locfileid: "8025930"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"
