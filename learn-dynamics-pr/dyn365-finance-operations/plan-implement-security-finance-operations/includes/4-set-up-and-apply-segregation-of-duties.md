@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 14e2d900aedd749aa6006a582697fe26d24112cbb3ed51e024ede586063a4009
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fe6fb0233b740197417eb99c48ea924d005c4965
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075086"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072491"
 ---
 قد يتطلب الأمان أو النُهج تنفيذ مهام محددة بواسطة مستخدمين مختلفين. يمكنك إعداد قواعد لفصل المهام التي يجب تنفيذها بواسطة مستخدمين مختلفين. يُسمى هذا المفهوم الفصل بين المهام. يساعدك في الحد من مخاطر الغش كما يساعدك أيضاً في اكتشاف الأخطاء أو المخالفات.
 

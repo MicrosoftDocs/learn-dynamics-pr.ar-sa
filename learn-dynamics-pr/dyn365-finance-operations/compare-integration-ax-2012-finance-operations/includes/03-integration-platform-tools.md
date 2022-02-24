@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6633af47f0d329a0de20428b7922e4c2979e4829dd84ca8f9e45efa6365cd700
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 782fe78360fa026c23f3cca10cf1cdf2f368cd35
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7142391"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072405"
 ---
 
 [ ![رسم تخطيطي يعرض تقنيات تكامل تطبيقات Finance and Operations.](../media/dynamics-365.png)](../media/dynamics-365.png#lightbox)

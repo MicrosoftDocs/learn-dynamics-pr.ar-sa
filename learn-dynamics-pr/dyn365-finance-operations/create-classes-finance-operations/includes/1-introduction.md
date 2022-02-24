@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cb573a04888c92e37c2e85cf191eca6b50127c65b023945f49e1d60b0ccebb71
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f04ad85f94a7c4adcd221c68964cf576ef4ec3ab
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7064235"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071927"
 ---
 تحتوي الفئات على بيانات وأساليب تمثل حالة الكائن وسلوكه. تحتوي بعض العناصر في شجرة كائن التطبيق (AOT)، مثل الجداول والنماذج، على فئات جاهزة.
 يمكن استدعاء أنواع عديدة من الأساليب والعبارات لإملاء سلوك الكائنات. 

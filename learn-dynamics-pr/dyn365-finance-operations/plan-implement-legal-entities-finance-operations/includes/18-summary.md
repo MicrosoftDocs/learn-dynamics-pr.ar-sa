@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c5ede7a01103d12d9815f538a788fe84067239a0ac91d54b79db9ff96d14a705
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 35cf08b0a7aa0a72c0ee74b5f565e1fdc1c5d10b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053624"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071184"
 ---
 لقد تعلمت كيفية إنشاء كيان قانوني وإنشاء تسلسلات رقمية، يدوياً أو باستخدام معالج. لقد قمت أيضاً بتكوين التقويمات والفترات الزمنية.
 

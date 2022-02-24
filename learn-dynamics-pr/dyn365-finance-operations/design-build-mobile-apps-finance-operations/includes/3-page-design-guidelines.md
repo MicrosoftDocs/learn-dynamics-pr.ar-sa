@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4dadafe9fd2dabdeea99593b5c62af8bc46bd7ff0623b997fa42e87039234b20
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b41c11a9009bdb30ade8b6f83391e6bc3f9ad215
+ms.sourcegitcommit: 6d878af45b3cea618d7cf3fcd9a2f9a06675210d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136744"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "6072131"
 ---
 قبل أن تبدأ في استخدام المصمم لإنشاء الصفحات والإجراءات، من المهم أن تخطط للتصميم العام لمساحة العمل المحمولة التي تريد بنائها. تجنب بدء العملية بالتفكير في النماذج التي تريد استخدامها.
 

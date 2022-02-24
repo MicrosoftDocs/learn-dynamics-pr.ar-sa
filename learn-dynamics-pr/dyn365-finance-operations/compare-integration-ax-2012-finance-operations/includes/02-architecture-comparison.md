@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f0af96f626602dc841d8a4cbb499302fc4b96cd3dd4e3c7c531697ef9615715
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cb11d1ce3b2f1cd02ae626f6c30a190f8562f5db
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7142402"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072412"
 ---
 نظراً لأن Dynamics AX 2012 هو حل محلي، فإن تقنيات التكامل تتضمن العديد من التطبيقات، بما في ذلك التطبيقات التي تتكامل من خلال نهج قائم على الملفات، والذي يعتمد إما على الفئات المخصصة أو إطار عمل استيراد / تصدير البيانات (DIXF). 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 10f6796713d0dbf251f1f1710914ad93539f2a65
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 6a49d2fe4fefa7fde80bd2e03860d439dca50b0b
+ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7332081"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "6072172"
 ---
 فيما يلي سيناريوهان وتوصيات لاستخدام نمط التكامل. 
 
@@ -42,5 +42,5 @@ ms.locfileid: "7332081"
 - مصمم مصنفات Excel
 
 
-لمعرفة المزيد حول تكنولوجيا واجهة برمجة التطبيقات (API) لتطبيقات Finance and Operations، راجع وحدتي [تكامل تطبيقات Finance and Operations مع Microsoft Azure](/learn/modules/integrate-azure-finance-operations/?azure-portal=true)، و[نفذ واجهة برمجة تطبيقات (API) حزمة إدارة البيانات لتطبيقات Finance and Operations](/learn/modules/data-package-api-finance-operations/?azure-portal=true).
+لمعرفة المزيد حول تكنولوجيا واجهة برمجة التطبيقات (API) لتطبيقات Finance and Operations، راجع وحدتي [تكامل تطبيقات Finance and Operations مع Microsoft Azure](https://docs.microsoft.com/learn/modules/integrate-azure-finance-operations/?azure-portal=true)، و[نفذ واجهة برمجة تطبيقات (API) حزمة إدارة البيانات لتطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/data-package-api-finance-operations/?azure-portal=true).
  

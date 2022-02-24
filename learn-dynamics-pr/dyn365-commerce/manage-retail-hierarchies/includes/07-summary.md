@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: de6fa8cd38d02d5ec8bb84ef440343ed78d98d78d86da2bcfef8cb565e50b87e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f1db06b7e74bf0c40662ce559655be3dbe3e02af
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121883"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070388"
 ---
 باستخدام التدرجات الهرمية في Dynamics 365 Commerce، يمكن تصميم الأعمال والمنتجات بشكل مرئي لتسهيل إدارة العمليات وتبسيطها. 
 

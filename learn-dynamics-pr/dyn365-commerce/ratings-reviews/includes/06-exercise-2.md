@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9132db1cc240f8458b025bfa1b8372a7c30269da56207f5f95a34bb229b1ffe7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8b4b00bdd900b1959d268ad6949cede2e1ac4806
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7054695"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070165"
 ---
 أنت مسؤول عن الإشراف على التقييمات والمراجعات في شركة Fabrikam، وتريد الرد على مراجعة المنتج في المتجر عبر الإنترنت. 
 

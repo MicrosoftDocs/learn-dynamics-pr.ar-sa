@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9ee5ae194d18db5a863d0fd8ae52d24d5d938d4d7f22b0f6924664596670e4e8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ecd85a4b263daf2bf862ef9c41279955ab185acc
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087781"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072326"
 ---
 إن Power Apps عبارة عن مجموعة من التطبيقات والخدمات والموصلات ومنصة البيانات التي توفر لك فرصة لإنشاء تطبيقات مخصصة لاحتياجات عملك. باستخدام Power Apps، يمكنك إنشاء تطبيقات أعمال مخصصة بسرعة تتصل ببيانات عملك المخزنة إما في النظام الأساسي للبيانات الأساسية أو في العديد من البيانات عبر الإنترنت والمحلية المصادر (Microsoft Dataverse) أو في مصادر البيانات المختلفة على الإنترنت وفي أماكن العمل (SharePoint، وExcel، وMicrosoft 365، وDynamics 365، وSQL Server، وما إلى ذلك). يمكن أيضاً لـ Power Apps الاتصال بتطبيقات Dynamics 365، بما في ذلك تطبيقات Finance and Operations.
 

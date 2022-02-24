@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 91bc724f64382f927a66526aa3e9b78d38b25ba4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a99f35eaa211be2138d096263f2c1434d2dea20c
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340415"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072214"
 title: استكشاف إطار عمل الاختبار والأدوات في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nفي تطبيقات Finance and Operations، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظاماً لإدارة سجل نظيف للاختبار. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- القدرات والفوائد الخاصة بإطار عمل اختبار الوحدة.\n- إمكانيات مسجل المهام وفوائده.\n- فوائد أداه أفضل الممارسات.\n"

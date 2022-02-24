@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: ba2f7f3639111f59973217ec640d7b18162712e295162009923c95ac0cb4c4ca
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c7432b74650f3b11cb0d3489355825d743cc517e
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130913"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071726"
 ---
 يحدد إطار عمل حدث الأعمال ما إذا كان سيتم نشر حدث أعمال لمستخدم تطبيقات Finance and Operations أو لا. من أفضل الممارسات أن يرسل التطبيق حدث أعمال، بغض النظر عما إذا كان حدث الأعمال ممكّناً أو لا. إذا كانت هناك حاجة إلى منطق إضافي مهم، أو إذا كان منطق إرسال حدث أعمال له تأثير على الأداء، يمكن للنظام التحقق مما إذا كان حدث أعمال معين ممكّناً قبل تشغيل منطق الأعمال المرتبط بإرسال أحداث الأعمال.

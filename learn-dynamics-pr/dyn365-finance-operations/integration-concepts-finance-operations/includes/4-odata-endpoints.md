@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: af4909fd4ef8d46d5c302be885e7434100ac030d
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 178595f0aacc732050b615ea7109ce48e3e003db
+ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7351691"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "6072162"
 ---
 
 ‏‫يُعد OData بروتوكولاً قياسياً لإنشاء البيانات واستخدامها.‬ يوفر OData بروتوكولاً يعتمد على نقل الحالة التمثيلية (REST) لإنشاء عمليات (CRUD) وقراءتها وتحديثها وحذفها. ويطبّق OData تقنيات الويب مثل HTTP وJavaScript Object Notation (JSON) لتوفير إمكانية الوصول إلى المعلومات من برامج مختلفة. ويمكّنك OData من التفاعل مع البيانات باستخدام خدمات ويب RESTful. تتيح نقطة نهاية خدمة OData العامة الوصول إلى البيانات بطريقة متناسقة عبر نطاق واسع من العملاء. تعمل نقطة النهاية OData REST على كشف جميع كيانات البيانات المحددة على أنها `IsPublic` في AOT في Visual Studio. كما تدعم نقطة النهاية OData REST وظائف CRUD التي يمكنك استخدامها لإدخال البيانات في النظام واستردادها منه.
@@ -26,4 +26,4 @@ ms.locfileid: "7351691"
 
 تستند كيانات OData إلى طريقة عرض قابلة للتحديث. عند تعيين خاصية **`IsPublic`** لطريقة عرض قابلة للتحديث على **صواب**، فسيظهر هذا العرض ككيان OData عالي المستوى. يتم وصف الارتباطات بين كيانات OData بواسطة خصائص التنقل، والتي توضح بالتفصيل التنقل من أحد طرفي اقتران إلى الطرف الآخر.
 
-للحصول على مزيد من المعلومات حول كيفية الاستعلام عن تطبيقات Finance and Operations باستخدام أداة Postman، انتقل إلى [اختبار الخدمات باستخدام أدوات مساعدة تابعة لأطراف خارجية](/dynamics365/fin-ops-core/dev-itpro/data-entities/third-party-service-test/?azure-portal=true). 
+للحصول على مزيد من المعلومات حول كيفية الاستعلام عن تطبيقات Finance and Operations باستخدام أداة Postman، انتقل إلى [اختبار الخدمات باستخدام أدوات مساعدة تابعة لأطراف خارجية](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/third-party-service-test/?azure-portal=true). 

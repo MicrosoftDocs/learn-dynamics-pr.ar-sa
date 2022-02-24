@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9094c30b22a1de0c83d6c4b625e38f6e6ab0247e5ca3818e507ac33c4c1f0a92
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ed4f262228423a1f718ff1249f2df18e23768d4a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7054746"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070175"
 ---
 في هذا التدريب، ستقوم بإنشاء دفتر يومية جرد في نقطة البيع ثم ترحيل الكميات الموجودة في المقرات الرئيسية لـ Commerce باستخدام نقطة البيع متجر **سان فرانسيسكو** للبيع بالتجزئة في شركة **USRT**.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c9256a72d95c721ef8e7555add714c0700f11d27b4bbd6b0ed74671a4e401a6b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5543e6e972232d7163892f694b3b703d4f40a409
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7143972"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070146"
 ---
 يوفر مكون المقر الرئيسي لـ Commerce القدرات الإدارية التي تتيح التكوين المركزي للمنتجات والموظفين وإدارة المخزون والتسعير ووظائف الأعمال الأخرى. إنه أيضاً التطبيق الذي يستخدمه عمال مركز الاتصال لتوفير مهام سير العمل المساعدة المتعلقة بـ Commerce. 
 

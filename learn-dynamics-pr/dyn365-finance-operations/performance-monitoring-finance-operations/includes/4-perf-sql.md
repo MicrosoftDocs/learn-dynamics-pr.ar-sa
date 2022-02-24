@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8abb296cf994c6589d9aa9dae2b0363d3bb30e10242516e508a11a4789322e3c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1857ffa2227f492d174b777658510c45cb13e87b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120282"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071283"
 ---
 يتم عرض أدوات أداء SQL في LCS من خلال الصفحة **مراقبة البيئة** في علامة التبويب **رؤى SQL**. ضمن علامة التبويب هذه، يمكنك عرض **مقاييس الأداء**، و **تحليل الفهرس**، و **العرض المباشر**، و **الاستعلامات**، و **الإجراءات** لبيئة معينة.
 

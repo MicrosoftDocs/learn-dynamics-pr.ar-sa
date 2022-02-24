@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 40a6294f62438a79e6f44661a8833241660eec33
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 705037cbbd91b6eba09ecf5dd502db2a4efcbd3f
+ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7324788"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "6070483"
 ---
 مكتبة الوحدات هي مجموعة من وحدات البناء المنطقية، أو الوحدات النمطية، التي يمكنك استخدامها عند إنشاء موقع التجارة الإلكترونية الخاص بك مع وظائف غنية جاهزة للاستخدام. تحتوي الوحدات المستخدمة في "مكتبة الوحدات" على جوانب واجهة المستخدم وجوانب السلوك الوظيفي، وتشكل هياكل الصفحة الخاصة بالموقع، مما يعني أن الوحدة تحدد مظهرها ووظائفها. 
 
@@ -55,5 +55,5 @@ ms.locfileid: "7324788"
 - تحسينات قائمة التنقل للسماح بمستويات متعددة ودعم الصور.
 
 
-لمعرفة المزيد من المعلومات، راجع [نظرة عامة على مكتبة الوحدات](/dynamics365/commerce/starter-kit-overview?azure-portal=true#additional-resources).
+لمعرفة المزيد من المعلومات، راجع [نظرة عامة على مكتبة الوحدات](https://docs.microsoft.com/dynamics365/commerce/starter-kit-overview#additional-resources/?azure-portal=true).
 

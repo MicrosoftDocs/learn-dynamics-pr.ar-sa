@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0aafc6f0bf410e9ac7fe71d6ed33e44d0fbb3a84ce7827fca6988f44c9022953
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bd5933d6bddd0add13be9b3eb7bdf1ea85b47c9d
+ms.sourcegitcommit: de79d56e760ae35a1ea1549067da2fba04de7088
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7109868"
+ms.lasthandoff: 02/01/2021
+ms.locfileid: "6072164"
 ---
 شاهد هذا الفيديو للتعرف على كيفية إنشاء مساحة عمل مخصصة.
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4MvtU]

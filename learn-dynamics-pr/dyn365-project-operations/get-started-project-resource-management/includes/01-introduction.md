@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0beb8ea1d014b805aa9250a840fbecf540a392d3085cd13d80df5c11486e6d04
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 79d5fdcc5b6a519ee8c7e7c43f5a76786fd07931
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7074390"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072889"
 ---
 يمكنك استخدام وظيفة موارد المشروع في Microsoft Dynamics 365 Project Operations لتنفيذ المهام التالية:
 

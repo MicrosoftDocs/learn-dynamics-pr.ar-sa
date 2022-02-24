@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e2caa598dbec86493656780d6b441efc18d6d5bd
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 45a5d13e81759669bdaaf3734997966424eaafa4
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359744"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072213"
 title: تحديثات تطبيقات Finance and Operations وترقيتها
 summary: "[!include[](../includes/module-banner.md)] \nيتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور Finance and Operations العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى الخدمة السحابية Finance and Operations. \n"
 abstract: "ستتعرف في هذه الوحدة على: \n- كيفيه الترقية من Dynamics AX القديم (AX 2012 وAX 2009). \n- كيفية التحديث من إصدارات Finance and Operations السابقة 7.0 و7.1 و7.2 و7.3 و8.0 إلى الإصدار 10. \n"

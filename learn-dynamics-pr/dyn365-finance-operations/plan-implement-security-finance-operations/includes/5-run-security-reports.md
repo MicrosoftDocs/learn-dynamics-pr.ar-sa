@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c9462098df9a11ab7631a0fa486d8d170cc103e00cba0c9b9698de320f7fc2b9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ad6efb7d3892c7dc8ff10d4511641f5c1fc8bd06
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141678"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072492"
 ---
 توفر تطبيقات Finance and Operations مجموعة من تقارير الأمان الغنية لمساعدتك على فهم مجموعة أدوار الأمان التي تعمل في البيئة الخاصة بك ومجموعة المستخدمين الذين يتم تعيينهم لكل دور.
 

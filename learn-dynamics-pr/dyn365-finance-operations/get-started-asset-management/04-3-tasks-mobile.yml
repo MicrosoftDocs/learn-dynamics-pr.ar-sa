@@ -4,15 +4,16 @@ title: استخدام مساحة العمل المحمولة لإدارة الأ
 metadata:
   title: استخدام مساحة العمل المحمولة لإدارة الأصول
   description: توضح هذه الوحدة كيفية استخدام مساحة العمل المحمولة لإدارة الأصول
-  ms.date: 12/15/2020
+  ms.date: 02/04/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d1012f045b12670002965c61e477b1ed885588c4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f45816cb88e9c8ca29d78344842d1510959c6764
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331181"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071743"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-3-tasks-mobile.md)]"

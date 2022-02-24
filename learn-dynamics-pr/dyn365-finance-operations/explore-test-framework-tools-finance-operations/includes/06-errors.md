@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd0ed13ad49c74d6e4e78fb810d6451e7876c6a2df355ec9e6cd4e423d870e48
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5f11e465a529e3f6cb14658095e0fe0a69ce6115
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079141"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071777"
 ---
 يتم وضع عبارات الخطأ قبل الاختبار لإملاء ما يجب عرضه عند نجاح الاختبار أو فشله. يمكنك معالجة الأخطاء باستخدام العبارات `Throw` و`Try...catch` و`Finally` و`Retry` لمعالجة الاستثناءات. الاستثناء هو انتقال سريع منظم بعيداً عن تشغيل الكود.
  

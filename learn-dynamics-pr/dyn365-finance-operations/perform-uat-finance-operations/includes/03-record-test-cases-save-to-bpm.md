@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 286368159bca7d55485bc20f48e02c9cc313c07ffc224b44f63dadf4cfa92923
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c82f016ea4c550ef209486e1e57fd66d998b669b
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079014"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072387"
 ---
 بعد إنشاء مكتبة BPM، ستحتاج إلى استخدام مسجل المهام لإنشاء حالات الاختبار ومن ثمَّ تحميل الحالات إلى مكتبة BPM.
 هناك طرق عديدة للقيام بذلك.

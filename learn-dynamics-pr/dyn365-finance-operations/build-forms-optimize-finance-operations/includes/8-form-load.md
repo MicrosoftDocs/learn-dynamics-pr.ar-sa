@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8919b5c5f5c9f8b99f2bdd39da9cb6f14d0cc5de727cbaf016ca18665b4f006
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9dc875ee6c0df21bf50253d908c996e5d1b26fe5
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7048246"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071728"
 ---
 يرغب المستخدمون عند التنقل بين تطبيقات Finance and Operations أن يتم تحميل الصفحات بسرعة وأن يكون الأداء عالياً. وفي حين أن بيئات التطوير أو بيئة الاختبار المعزولة‬ تُعد بيئات ذات طبقة أقل تعمل بوتيرة أبطأ، إلا أن بيئات الإنتاج على العكس من ذلك، سوف تتحرك بشكل أسرع.
 

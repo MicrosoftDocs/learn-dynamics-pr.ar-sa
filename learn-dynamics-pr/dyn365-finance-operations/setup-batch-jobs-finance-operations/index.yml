@@ -3,16 +3,17 @@ uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops
 metadata:
   title: إعداد الوظائف الدُفعية في تطبيقات Finance and Operations
   description: باستخدام الوظائف الدُفعية، يمكنك تجنب إبطاء جهاز الكمبيوتر أو الخادم أثناء ساعات العمل المعتادة. يمكنك تشغيل العديد من المهام في تطبيقات Finance and Operations كجزء من الوظائف الدُفعية. علي سبيل المثال، يمكن أن تتضمن الوظائف الدُفعية مهام تقارير الطباعة أو أداء الصيانة أو إرسال المستندات الإلكترونية.
-  ms.date: 06/02/2021
+  ms.date: 02/18/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bc88db8693378653c9d6c6215d38a878bb2f2777
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c6e7c262c19fe7fca6be401fa09a5afcee19ecdf
+  ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363651"
+  ms.lasthandoff: 04/21/2021
+  ms.locfileid: "6072555"
 title: إعداد الوظائف الدُفعية في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nباستخدام الوظائف الدُفعية، يمكنك تجنب إبطاء جهاز الكمبيوتر أو الخادم أثناء ساعات العمل المعتادة. يمكنك تشغيل العديد من المهام في تطبيقات Finance and Operations كجزء من الوظائف الدُفعية. علي سبيل المثال، يمكن أن تتضمن الوظائف الدُفعية مهام تقارير الطباعة أو أداء الصيانة أو إرسال المستندات الإلكترونية.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- ‏‫المعالجة الدُفعية‬\n- معالجة الدُفعة وخوادم الدُفعات\n- التخطيط لمخطط خادم الدُفعة \n- التخطيط لإدارة خادم الدُفعة \n- المعالجة الدُفعية للتقارير\n- نسخ وظيفة دفعية\n- تنشيط فترات الدُفعة\n- دور أمان مدير الوظيفة الدفعية\n- التشغيل من خلال الميزة\n- كيفية إلغاء تأمين دفتر يومية\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e7d9b0d81cd09d06bd7c39e2fa804b8d0c79f7f40a5e6ead16d745ae9fabef69
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: dd29a83f6e5438bdd8e9a857d68a12d858284759
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131798"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070093"
 ---
 تُعد عملية توزيع Dynamics 365 Commerce عملية قابلة للإدارة بشكل كامل عبر بوابة ‏LCS، حيث يمكنك إدارة وحدات Cloud Scale Units ومواقع التجارة الإلكترونية ونشرها.
 

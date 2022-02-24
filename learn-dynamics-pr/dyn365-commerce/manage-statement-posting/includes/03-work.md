@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cb99821340bb0fcc58639af6a6fe97e2087366e064c5c4659db8a7c5ec89a335
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 04d74cf83f43d57a371378b846f1b5156c26dde7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121849"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070220"
 ---
 شاهد الفيديو التالي للحصول على عرض توضيحي لترحيل كشف الحساب في التجارة. 
 

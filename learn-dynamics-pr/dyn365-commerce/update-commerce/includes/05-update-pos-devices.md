@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 482b3a4f20360f4ba03298653b1b95e86978ac56
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 2ea1a2a225462be69aaac9f62af4c0af527de911
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350935"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070155"
 ---
 بعد تحميل تطبيق نقطة بيع حديثة (MPOS) في البيئة، يمكن تحديد إصدار الحزمة على الجهاز. يجب أن تتضمن قوائم الحزم التطبيق الجديد الذي تم تحميله. 
 
@@ -27,5 +27,5 @@ ms.locfileid: "7350935"
     - تكوين خطة الاختبار. 
     - إجراء الاختبارات وإدارة النتائج. 
 
-لمزيد من المعلومات، راجع وحدة [استخدام RSAT مع Dynamics 365 Commerce](/learn/modules/use-regression-suite-automation-tool-rsat/?azure-portal=true).
+لمزيد من المعلومات، راجع وحدة [استخدام RSAT مع Dynamics 365 Commerce](https://docs.microsoft.com/learn/modules/use-regression-suite-automation-tool-rsat/?azure-portal=true).
 

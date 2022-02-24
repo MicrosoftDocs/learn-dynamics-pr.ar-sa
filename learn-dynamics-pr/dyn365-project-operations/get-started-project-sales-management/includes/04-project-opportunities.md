@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53d0ff29dec0c6cec0f7e79b6d9760670a846070f421bff2157c98045feb2330
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b3fba13a8468b1ccfd2327dbce9c3243eaedf313
+ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7074372"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "6072858"
 ---
 الفرص المستندة إلى المشروع في Project Operations هي ملحقات للفرص في Dynamics 365 Sales. توفر هذه الملحقات وظائف إضافية خاصة ومطلوبة للفرص المستندة إلى المشروع. يمكن أن تتضمن هذه الملحقات الحقول الجديدة وإجراءات الشريط المتوفرة في الفرص القائمة على المشروع. قد تجد بعض الحقول والوظائف والمنطق الافتراضي المتوفرة في المبيعات غير متوفرة في Project Operations.
 

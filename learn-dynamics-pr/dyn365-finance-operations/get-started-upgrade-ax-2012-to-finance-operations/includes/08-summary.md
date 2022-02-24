@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 42bcbb3a07cc0ef216682e2357effc6a347bab61c096ffec7de95dc567e6d330
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0d430553f4caf0b6bf89092b7488f92343334be6
+ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120446"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6072641"
 ---
 تقدم Microsoft مجموعة كبيرة من الخدمات والأدوات لدعمك في أثناء عملية الترقية الكاملة من Dynamics AX 2012 إلى تطبيقات Finance and Operations. 
 

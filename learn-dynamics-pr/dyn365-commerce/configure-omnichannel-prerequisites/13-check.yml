@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-omnichannel-prerequisites.13-check
-title: اختبر معلوماتك
+title: تحقق من مستوى معرفتك
 metadata:
-  title: اختبر معلوماتك
+  title: تحقق من مستوى معرفتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 05/12/2021
+  ms.date: 07/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 98a3565eb660b69d69f68e57c0810df36f60647d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 54f80f835f09957a4dbc55148d7fb36cf6c50678
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346286"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070324"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

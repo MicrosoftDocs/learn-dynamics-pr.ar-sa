@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e2024654821a475d18cf16ec6703238b516229aa2943378aafc66a8390024497
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6f937b8daf1b47e63da5b12e671833ca66701293
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094553"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072234"
 ---
 لعرض محتوى على صفحة في واجهة المستخدم، يجب إضافة مصدر بيانات إلى نموذج في نافذة مصمم النماذج لـ Visual Studio. يمكنك تحديد وسحب جدول أو استعلام من مشروعك في نافذة **مستكشف الحلول** أو سحب جدول نظام من نافذة **مستكشف التطبيقات**. يمكنك اختيار استخدام جدول واحد أو عدة جداول، بناءً على عدد الحقول التي ستستخدمها في النموذج الخاص بك. 
 

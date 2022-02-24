@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bb45db1b9420b2c287c48f86e823472a6b88fc4848557fd19d9d57f1f5a22913
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 048c49a197c42e752f3b63ba53703ec8f231029c
+ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7114729"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "6072805"
 ---
 عند إرسال طلب سفر إلى سير العمل، فستتم إعادة توجيهه بشكل منهجي إلى المعتمِد المحدد استناداً إلى القواعد التي تم تحديدها عند إنشاء سير العمل.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d04ffb7bb0abe77c130cec7951cbda69bcea1a0f00943a1a74ebfd196a3dd579
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ad2d27c0e1b4df85ecab100c27a0fa983e7b55df
+ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115100"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072818"
 ---
 بالنسبة لفئات مصروفات معينة، يمكن لشركتك أن تطلب من الموظفين سرد المصاريف الفردية التي تنتج المبلغ الإجمالي. على سبيل المثال، يمكنك تقسيم رسوم الفندق إلى سعر الغرفة اليومي، وضرائب الغرفة، وخدمة الغرف.
 

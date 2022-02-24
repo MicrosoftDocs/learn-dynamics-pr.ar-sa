@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: 931331799b3b57010acf57473d779963111ec8e4
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 3041ff38f67548a80ee0302cf9b9c98f479aceff
+ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7355972"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "6072709"
 ---
 قبل أن تتمكن من استخدام إدارة المزايا، يجب عليك تمكينها في مساحة عمل **إدارة الميزات**، التي توفر قائمة بالميزات التي يتم تقديمها في كل إصدار. بشكل افتراضي، يتم إيقاف تشغيل الميزات الجديدة.
 
 > [!IMPORTANT]
-> تأكد من التدرب على إدارة المزايا في بيئة وضع حماية قبل تمكينها في بيئة الإنتاج الخاصة بك. يمكنك تمكين وتعطيل إدارة المزايا بقدر ما تريد في بيئة وضع الحماية. ومع ذلك، بعد تشغيل إدارة المزايا في بيئة إنتاج، لا يمكنك إيقاف تشغيل الميزة. لمزيد من المعلومات، راجع [إدارة الميزات](/dynamics365/human-resources/hr-admin-manage-features/?azure-portal=true).
+> تأكد من التدرب على إدارة المزايا في بيئة وضع حماية قبل تمكينها في بيئة الإنتاج الخاصة بك. يمكنك تمكين وتعطيل إدارة المزايا بقدر ما تريد في بيئة وضع الحماية. ومع ذلك، بعد تشغيل إدارة المزايا في بيئة إنتاج، لا يمكنك إيقاف تشغيل الميزة. لمزيد من المعلومات، راجع [إدارة الميزات](https://docs.microsoft.com/dynamics365/human-resources/hr-admin-manage-features/?azure-portal=true).
 
 ## <a name="enable-benefits-management"></a>تمكين إدارة المزايا
 

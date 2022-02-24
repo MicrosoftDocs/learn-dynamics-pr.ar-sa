@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cb3fd5260c9743ba2cea641d9089bea0e666ed4603adb5b1028d780193b4be16
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 70637510f0f06924f52ff97124342c5b0ca12422
+ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099140"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214424"
 ---
 في Dynamics 365 Human Resources،يمكنك الحصول على إجازة وغياب لعدة موظفين أو لفرد.
 

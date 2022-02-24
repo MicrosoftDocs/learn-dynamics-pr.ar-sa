@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6263c67b4ea8e87bab33f7839e195cb095697c0d4e164acf722576bcfc8a2449
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1649d72d445af3f2435ef25f9e40d4fddb403666
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130965"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072247"
 ---
 عند إنشاء جدول وحقول، ستضيف هذه الحقول إلى الجدول، ثم تنشئ مجموعات حقول لتجميع الحقول المرتبطة. بعد ذلك، ستقوم بسحب الحقول، مثل أنواع EDT والتعدادات، من AOT أو من مشروعك في مستكشف الحلول. إذا لم تحدد أي مجموعات حقول، فسترى افتراضياً البيانات من حقلين فقط (المفتاح الأساسي وحقول الوصف) في الجدول الأساسي لأنه تتم فهرستها تلقائياً. 
 

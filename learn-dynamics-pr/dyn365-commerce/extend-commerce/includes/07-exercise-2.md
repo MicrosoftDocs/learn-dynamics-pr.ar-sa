@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e49678b5f4416c801035736c9397cc146b20022983586236a629cfe6952d7d89
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6e56d2591866181ce25b677b9fa5fc8fe11a85ce
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070354"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070085"
 ---
 يتم استخدام ملحقات Retail Server كخدمات لعرض المنطق من Commerce runtime.
 لإنشاء ملحق Retail Server، اتبع الخطوات التالية:

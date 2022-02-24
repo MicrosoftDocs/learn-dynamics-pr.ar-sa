@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: bb258cc80c4e56bb61fc790dd91d0c635239846d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4472c2c5e3de92001ded49088fde6ebf57708d64
+  ms.sourcegitcommit: c332416640d93a9a9f8ba875c22bdb8e2eb64c3e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352371"
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6074770"
 title: ترقيه Dynamics AX 2012 إلى تطبيقات Finance and Operations
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 بنجاح إلى تطبيقات Finance and Operations. من الخطوات الأولى لاكتشاف اختلافات البنية الرئيسية، تبدأ العمل مع عملية الترقية، وأدوات ترقية التعليمات البرمجية والبيانات، بأفضل الطرق لإعادة تصميم تكاملك وتحليلاتك وإعداد التقارير المستند إلى أحدث القدرات. \n"
 prerequisites: >

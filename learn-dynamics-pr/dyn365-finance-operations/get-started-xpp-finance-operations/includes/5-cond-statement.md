@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b6ff948a40e3658953117ee87ea33ee015f2c893
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 4f71a51ae9da899f82d52a357cf2e4203a3182b7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7347865"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071946"
 ---
 تُستخدَم العبارات المشروطة لتحديد ما إذا كان يجب تشغيل كتلة كود. وتتمتع العبارات المشروطة المختلفة بمزايا واستخدامات تختلف تبعاً للموقف. العبارات المشروطة الأربعة هي: if وif...else وswitch وعوامل التشغيل الثلاثية. 
 
@@ -140,7 +140,7 @@ if (found) //Belongs in Navigation Pane.
     ...
 }
 ```
-عند استخدام break داخل [عبارة Switch](/dynamicsax-2012/developer/switch-statements/?azure-portal=true) ، ينتهي تشغيل فرع الحالة ويتم تشغيل العبارة التي تلي switch، كما يوضح المثال التالي.
+عند استخدام break داخل [عبارة Switch](https://docs.microsoft.com/dynamicsax-2012/developer/switch-statements/?azure-portal=true) ، ينتهي تشغيل فرع الحالة ويتم تشغيل العبارة التي تلي switch، كما يوضح المثال التالي.
 ```xpp
 switch (Debtor.AccountNo)
 {

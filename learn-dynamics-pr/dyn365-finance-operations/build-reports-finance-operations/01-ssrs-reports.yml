@@ -4,16 +4,17 @@ title: إنشاء وتعديل التقارير التي تستخدم SSRS
 metadata:
   title: إنشاء وتعديل التقارير التي تستخدم SSRS
   description: تعرف على كيفية إنشاء وتعديل التقارير التي تستخدم SSRS في تطبيقات Finance and Operations.
-  ms.date: 06/15/2019
+  ms.date: 06/10/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c48b53e273d0d6b0fc9dd67d173940a497a76e59
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4d6e36770d1bd2723a02e85b8ec431fa0482c41b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334252"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071758"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

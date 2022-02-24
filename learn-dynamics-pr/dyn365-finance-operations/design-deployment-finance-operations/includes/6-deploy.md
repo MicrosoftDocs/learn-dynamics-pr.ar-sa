@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 26b751d4c2fa61d994352790d7efd1edc40b8ac84432ed7e102af95a0257f98f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f910bbe0e8ac88b09b1fe2efb516c4b28642cf3c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7100002"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071875"
 ---
 
 يعد فهم عملية نشر الكود أمراً ضرورياً لإقامة التواصل بين الفرق الفنية والوظيفية. الآن بعد أن تعرفت على تدفق الكود، ستحتاج إلى معرفة كيفية نشر الكود في بيئات مختلفة للتأكد من صحة التدفق. لنقم بمراجعة الخطوات التالية:

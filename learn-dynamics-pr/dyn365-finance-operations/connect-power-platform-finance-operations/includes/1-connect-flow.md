@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1e293c67fc0cc119e2f35f787abd558d923f1495c3f8f9ab108803d60d9026ed
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5be0d665f53c3d402ad94e4c3f58530820e69600
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7116053"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071246"
 ---
 Power Automate هو جزء من Microsoft Power Platform، والذي يمكنك من الاتصال بالبيانات والخدمات وأتمته المهام. 
 

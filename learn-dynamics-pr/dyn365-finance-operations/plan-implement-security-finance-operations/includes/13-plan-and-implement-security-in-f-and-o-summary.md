@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f13a5239cdb0d4780d02d775cb5db5060ba7ad73006161020fdac1ce7770251
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 60e0ae599a1ea42a154f73321c1730c6eedd4af7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053594"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071330"
 ---
 أنت الآن على دراية ببنية الأمان وميزات إدارة الأمان الخاصة تطبيقات Finance and Operations. لقد تعلمت كيفية إدارة المستخدمين وتعيين الأدوار إليهم. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4cb690df3a4d303a03bcedd11a8c69f7a61374edf1a18042ddadf6f2e1f3e87a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fbba3cbce84f5e1896e1136239c7d8f3a5fcc093
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141659"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071269"
 ---
 عندما يحين وقت ترحيل البيانات، كلما عرفت أكثر، أصبح من الأسهل التحكم في التعقيد التشغيلي وتقليل التكاليف. يجب أن تكون استمرارية عمل عميلك على رأس أولوياتك. في هذه الوحدة، ستتعلم كيفية إعداد البيانات لعملية ترحيل ناجحة، من خلال تحديد العوامل المهمة مثل الأنظمة القديمة، والبيانات الثابتة، والبيانات المشتركة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cc691e308fc55f254e274a2ef7beb26c1c5edd1750664f560a464418e1df1089
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5d6e16a3f158bc7baba68c54e7ad9f199c2f6ce9
+ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7078336"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "6072802"
 ---
 بعد اعتماد تقرير مصروفات وتحويله إلى دفتر اليومية العام، يمكن ترحيله إلى دفتر الأستاذ العام. 
 

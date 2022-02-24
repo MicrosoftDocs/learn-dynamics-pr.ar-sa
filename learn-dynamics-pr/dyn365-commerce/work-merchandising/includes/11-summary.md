@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f57d380240607ec754cf0e9d0853c8a374b9e9b046d4c857be4078862ee6dffa
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: db7c05504e6cc95db87aae3e6b062f94349873f4
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7083943"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070156"
 ---
 وباستخدام الميزات التي تمت مناقشتها في هذه الوحدة النمطية، يمكن لبائع التجزئة التحكم في العمليات التسويقية في موقع مركزي، مع تحديد فرص إعادة استخدام الأصول الموجودة وتسهيل التنقل والاستكشاف الأسهل للمنتجات في قنوات التجارة المختلفة. 
 

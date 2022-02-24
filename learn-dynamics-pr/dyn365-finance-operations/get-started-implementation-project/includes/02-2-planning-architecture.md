@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 69e7bdf28855a988e2892e096762cc219aa11570eb2aa53092e42654e073dab6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7dd4b0156e0d6270aad5d37654d0d5e45947c288
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115962"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072280"
 ---
 الشيء الأول والأكثر أهمية لكل مشروع هو التخطيط. ومن الطرق الرائعة للتخطيط، بدء رسم المراحل، ومن تلك النقطة، تتم إضافة المخططات الزمنية والأنشطة والموارد والتسليمات وما إلى ذلك. هناك منهجيات يمكنها مساعدتك في تصميم كافة عناصر المشروع هذه بطريقة مرئية ويمكن فهمها وسهلة المتابعة لكل الفريق. 
 

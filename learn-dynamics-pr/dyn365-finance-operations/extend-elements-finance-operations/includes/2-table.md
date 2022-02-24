@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5f881127a05ad75fcea98180b3f38fbae3b752e25614a8db8276b94e4de91505
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: dad0d209ba97031ad84e472401ed1064b8fc376c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7064188"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071211"
 ---
 إذا كنت تريد تعديل الحقول أو مجموعات الحقول أو الفهارس أو التعيينات أو العلاقات الخاصة بالجدول، فيمكنك إنشاء ملحق للجدول وإجراء التغييرات اللازمة. بالإضافة إلى ذلك، يمكنك إضافة الحقول إلى مجموعات الحقول. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e4cbcf60fa64a80a21ac8f4e2090af4d77cb3efe2a98a634782bf67beae1d1f5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 015d5fc3fb2dd257411579f5f09696ffac70b665
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053797"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071917"
 ---
 يضع الاتحاد الأوروبي معياراً عالمياً جديداً لحماية الخصوصية والبيانات الشخصية للمواطنين والمقيمين في الاتحاد الأوروبي (EU). تنظم لوائح الخصوصية هذه معالجة واستخدام البيانات الشخصية لمواطني الاتحاد الأوروبي والمقيمين فيه. ويترتب على عدم الامتثال للوائح الخصوصية هذه عواقب وخيمة.
 

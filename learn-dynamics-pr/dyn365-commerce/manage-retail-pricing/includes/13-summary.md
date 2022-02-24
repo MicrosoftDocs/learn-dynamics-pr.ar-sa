@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bd9b75c6271e618972a00a3524982554039e262730a26107b78eb17bd6e9b928
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 96cd4a83c4867de032872e8b281ffb90cc996ae7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7054786"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070207"
 ---
 باستخدام محرك التسعير في Dynamics 365 Commerce، يمكن لبائعي التجزئة إنتاج استراتيجية التسعير والخصم الخاصة بالنطاقات من بسيط إلى معقد للعمليات متعددة الجنسيات. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1c80247f350ada9382bddce0d577168f983cd53c02cb831445d54b479149134c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f8b8170faddef4fdbe828f097d657d9fc3bb7044
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7142374"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072404"
 ---
 خلال رحلة الترقية، يجب أن تكون قادراً على اتخاذ قرارات مدروسة بشأن سيناريوهات تكامل البيانات عند تنفيذ تطبيقات Finance and Operations. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dfc19d93c56cd40027338539e5cb60f6f8d6664e2a9dab36cf4ca95dc03a162c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ab60c1e87ff36981eb3990e0d65b4779f3997f9c
+ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115018"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "6072769"
 ---
 تتطلب إدارة المصروفات استخدام العديد من دفاتر اليومية والحسابات. على سبيل المثال، بالنسبة للسُلف النقدية ونزاعات بطاقات الائتمان، عليك تحديد ما إذا كان قد تم استخدام الحساب نفسه. قد يكون لدى المؤسسة حساب منفصل نحَّته جانباً للتعامل مع أي نزاعات بطاقات ائتمان أو لإرسال أموال إلى موظف لسلف نقدية. 
 

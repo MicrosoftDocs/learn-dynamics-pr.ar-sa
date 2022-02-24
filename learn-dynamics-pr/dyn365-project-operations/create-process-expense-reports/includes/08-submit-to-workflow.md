@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e76235a939778ad23ea9b18a0bb467be72777afcc320284df6c9f70b8ed28054
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 95d805a549309dfffc12b0cf5d8606559bc587e5
+ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068300"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072817"
 ---
 عند الانتهاء من إدخال كافة البنود في تقرير المصروفات والحصول على الإيصالات المرفقة وفقاً لسياسة الشركة، يجب إرسال تقرير المصروفات إلى سير عمل كما يأتي.
 

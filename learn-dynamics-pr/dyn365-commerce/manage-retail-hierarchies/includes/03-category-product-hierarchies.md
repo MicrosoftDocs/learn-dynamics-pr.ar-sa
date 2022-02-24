@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 654831d875bad82f61f40d47cbe03b07f3978bdc3beb47db9142dad11f805aa9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1e9391d6a0c74b1a9df787dcea91a19ed258e920
+ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121901"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "6070440"
 ---
 يمكن تعيين نوع لكل تدرج هرمي للفئات للتحكم في الوظائف المختلفة لهذا التدرج الهرمي، ويمكن تحديد منتج في التدرج الهرمي مرة واحدة فقط. 
 

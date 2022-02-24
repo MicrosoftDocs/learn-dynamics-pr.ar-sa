@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 378de02820b9c382e3130d6fc4f979f29d9f9b25fa9efa6b7cbf32ac04211180
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 05f219bbba8dd79fb9fa4fbc2033fa573de9a61d
+ms.sourcegitcommit: d8ae5ea2abe98cfc202df6bdbffd7c56806ae143
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7088280"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "6070477"
 ---
 يتم تسديد جزء كبير من المدفوعات عبر الإنترنت لحركات التجارة الإلكترونية من خلال PayPal. يمكن أن تزيل Microsoft الحاجة إلى الموصلات المخصصة في كل تاجر من خلال توفير موصل الطرف الأول، مما يضمن تلبية فورية لحاجة الدفع الضرورية وتمكينها بالكامل لسيناريوهات القناة متعددة الاتجاهات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6585dad477b1a83e838322c1cd788491ecc72a1b9dbc72a96094ad299ebebf7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5620e703f749c06aca96e6b4716493be3017477b
+ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141505"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "6072534"
 ---
 تتوفر طريقتا عرض للعمل داخل مشاريع إدارة البيانات، هما طريقة العرض القياسية والمحسنة. 
 

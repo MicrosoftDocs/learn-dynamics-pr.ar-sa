@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: db7bac48d57401d178c8a405e53c428ae9891aaa3809b1dc047a780d9de9fa13
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 40fc537908ae08f3ea87f3f37dc12aa2407dfdd0
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7049122"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070116"
 ---
 يجب تحديد تكلفة شحن يجب أخذها في الاعتبار عندما يحسب نموذج كائن المستند (DOM) توصيات التنفيذ. 
 

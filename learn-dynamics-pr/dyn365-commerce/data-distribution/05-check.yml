@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.data-distribution.05-check
-title: اختبر معلوماتك
+title: تحقق من مستوى معرفتك
 metadata:
-  title: اختبر معلوماتك
+  title: تحقق من مستوى معرفتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 07/06/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 60a77a9d988ea35a19ea2928de6998156b923304
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learing-d365-commerce
+  ms.openlocfilehash: 7c0b3ad43dc7cf20d5b862900708e1769b3d170e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7348105"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070147"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

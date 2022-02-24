@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 19033a7faf6d3295b69c91b72fa4e9e4bb242b897605f36eb658ddaabf5e239e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7f9edb471b9035942c69f8d2a6c2871316a9db2e
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7049044"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070149"
 ---
 قدمت لك هذه الوحدة النمطية Commerce Data Exchange، والتي تنقل البيانات بين المركز الرئيسي لـ Dynamics 365 Commerce والقنوات التجارية، مثل المتاجر عبر الإنترنت أو المتاجر التقليدية.
 

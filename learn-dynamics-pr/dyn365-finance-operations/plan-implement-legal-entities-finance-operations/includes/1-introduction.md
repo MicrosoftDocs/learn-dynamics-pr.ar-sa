@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1d11e3c0bc65b37323bd5841f05faa4871e21dc3e5f8f2da45b626241eeae72d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9a9e6bed6717cae5da1a780ba03adf860a756a21
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075144"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071814"
 ---
 توضح هذه الوحدة إعداد وتكوين الكيانات القانونية في تطبيقات Finance and Operations.
 

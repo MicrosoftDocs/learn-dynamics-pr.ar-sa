@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1a5b187980099fa01557f9e193c1396e871fca7ec8adc5bf1bbdb0680a75d0b9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4ad8e61497daf1efabc22ba71c6acd95d482085e
+ms.sourcegitcommit: 9134765f329ce8893f21b7a57a08277d75913363
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068927"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "6072508"
 ---
 في تطبيقات Finance and Operations، يمكن تعيين أي من التقارير أو الإجراءات للتشغيل كوظيفة دفعة بالانتقال إلى قسم **التشغيل في الخلفية** في جزء معلمات التقرير. قم بتعيين **معالجة الدُفعات** إلى **نعم**، ثم قم بتوفير اسم الوظيفة الدفعية، ومجموعة الدُفعات، وما إذا كان يجب تشغيل الوظيفة على أنها خاصة أو مهمة. سيتم بعد ذلك إنشاء التقرير عند تشغيل مهمة الدُفعة.
 

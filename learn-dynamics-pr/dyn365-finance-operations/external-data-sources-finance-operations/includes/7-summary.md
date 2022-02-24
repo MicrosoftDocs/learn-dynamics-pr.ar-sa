@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 305de0b2f4d803959a46321d463080a40ad7ae1656dfc11b15c9e51e0da22067
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 42b3830b64d6321d5b7cd3a693e18076896eee59
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079118"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071210"
 ---
 يمكنك استخدام مخزن الكيانات لإجراء التقارير الأساسية وتحليل البيانات. للوصول إلى البيانات في تطبيقات Finance and Operations من خارج النظام، يمكنك الاتصال بقاعدة بيانات Azure SQL الخاصة بك باستخدام ميزة إحضار قاعدة البيانات الخاصة بك (BYOD). سيسمح كلا الخيارين بتحليلات البيانات والتقارير، ولكن من المهم فهم استخدامات وخيارات واحتياجات كل خيار لعملك.
 

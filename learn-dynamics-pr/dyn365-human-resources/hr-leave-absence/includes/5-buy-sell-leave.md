@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 41e0d83f4c6d2917760ec44720fb5043bc134c962d1e6e025fe7121a4183c95b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 84d7c22425fcc836349f91a0e2ebbad66d8e3ba3
+ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099129"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214420"
 ---
 يمكنك تمكين الموظفين من شراء وبيع الإجازة من خلال إنشاء سياسة إجازة البيع والشراء. يمكنك تكوين هذه السياسات لاستخدام سير العمل للموافقات، وتعيين الحد الأقصى للمبالغ والأسعار، وتعيين معدلات الشراء والبيع.
 

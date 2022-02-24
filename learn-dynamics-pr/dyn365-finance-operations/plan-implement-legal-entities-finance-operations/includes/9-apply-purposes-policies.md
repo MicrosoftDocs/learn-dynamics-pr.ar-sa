@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 04c3cbe471268395caec7f785bbde28a385ee6c7bdfff6f5bc62b6d4c900291c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e144c8c64abf6927f1a13e9e9455af6d8a56c367
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105338"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071169"
 ---
 عند إنشاء تدرج هرمي للمؤسسة في تطبيقات Finance and Operations، يتعين عليك تعيين غرض لهذا التدرج الهرمي. يحدد الغرض الذي تقوم بتعيينه للتدرج الهرمي أنواع المؤسسات التي يمكن تضمينها في التدرج الهرمي. ويحدد الغرض أيضاً سيناريوهات التطبيق التي يمكن استخدام التدرج الهرمي فيها. 
 

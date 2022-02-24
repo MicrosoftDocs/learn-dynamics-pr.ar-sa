@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 42fc0a0b24027ceb855cd645873ed63ffd1aa70b
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 714016b9db5373df6679ac925c507b45fd7baf53
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7365953"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072400"
 ---
 تحتوي تطبيقات Finance and Operations على واجهات برمجة تطبيقات (API) متعددة تدعم سيناريوهات التكامل:
  
@@ -19,7 +19,7 @@ ms.locfileid: "7365953"
 
 عند تحديد واجهة برمجة تطبيقات (API) التكامل، سيكون لديك العديد من التقديرات. ويمكن أن تساعدك بعض نقاط القرار الخاصة بـ DMF وعمليات التكامل المتكررة على اختيار سيناريو تكامل التنفيذ.
 
-للحصول على مزيد من المعلومات، راجع [سيناريوهات تكامل البيانات](/learn/modules/integration-patterns-finance-operations/4-scenarios/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [سيناريوهات تكامل البيانات](https://docs.microsoft.com/learn/modules/integration-patterns-finance-operations/4-scenarios/?azure-portal=true).
 
 يجب تقييم هذه التقديرات بحيث يمكنك تحديد إستراتيجية التكامل الخاصة بك. تظهر الصورة الآتية بعض التوصيات لسيناريوهات مختلفة.
 

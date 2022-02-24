@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1900721191eb569e1bcbd746a06d46139ec3535944388916e84f39b0a1b9dde8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ff32e2e799af9c001129fbdd1833bdff10d99b0f
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136756"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071551"
 ---
 تستخدم حزمة واجهة برمجة تطبيقات (API) إطار عمل إدارة البيانات OAuth 2.0 لتفويض الوصول. لكي تتمكن من استخدام واجهة برمجة التطبيقات (API)، يجب أن تكون متصلة برمز وصول OAuth مميز صالح. بالنسبة للمؤسسات التي تقوم بنشر محلي، ستستخدم Active Directory Federation Services ‏(AD FS). 
 

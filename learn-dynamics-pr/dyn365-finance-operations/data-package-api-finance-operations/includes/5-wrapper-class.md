@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5ec944d50d7fca7fb7dc49061e38775c14e9d62d5dedd59213d9f23e39a2cd16
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d648c2e725c415e3173e6ce01bdaba64ebcd4fbf
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105519"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071878"
 ---
 
 لاستهلاك خدمات الويب الخارجية داخل تطبيقات Finance and Operations، يمكنك استخدام فئات برنامج التضمين. يمكنك تضمين المنطق حول الطرق المحددة في الفئة الأساسية التي تقوم بزيادتها. 

@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a40c157032b77ed70327c54e2c257cfe0cc7852d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c1e35a3297de97667c6532dcac767f5544df2376
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346099"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072182"
 title: الاستعداد لبدء العرض المباشر مع تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

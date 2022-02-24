@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 35f4bc663fe1129478a4278e1c541893df972e8205861d96300c17628869fae3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6a2065fd1c4e20245708b19285ba1bba2d9bd6e4
+ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115130"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "6072794"
 ---
 قد يقوم العامل الذي يتم توظيفه من قِبل أحد الكيانات القانونية في إحدى المؤسسات بأداء عمل لكيان قانوني آخر في المؤسسة نفسها. وفي هذه الحالة، يمكنك استخدام ميزة المصروفات بين شركات شقيقة لتعيين مصروفات العامل إلى الكيان القانوني الذي تم إجراء العمل لصالحه. 
 

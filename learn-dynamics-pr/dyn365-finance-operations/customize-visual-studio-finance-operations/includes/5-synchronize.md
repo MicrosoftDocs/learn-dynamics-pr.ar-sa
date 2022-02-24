@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a8c469a5c5f93b4283a7bd7ff07c06c6e44f6146a73851eb893f76622c8da69a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 816565023f3d3b43a3e240331bb35bb1916221a8
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7100062"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072274"
 ---
 
 عند إضافة عناصر أو تغييرها، عليك مزامنة قاعدة البيانات بحيث تعرف في أي الحقول (الأعمدة) عليها تخزين هذه العناصر. وللقيام بذلك، حدد **تزامن قاعدة البيانات** من قائمة **Dynamics 365** ثم استخدم الزر **مزامنة** في مربع الحوار. 

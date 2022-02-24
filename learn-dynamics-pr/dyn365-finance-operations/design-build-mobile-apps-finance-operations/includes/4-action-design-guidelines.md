@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 01dcd6fe232cc193e1fe6d1a3e82717b09f444803a2779b578baa2f3d917c053
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2cc59221b044d7457baa6adb527fd2ffa564e237
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136708"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071718"
 ---
 تتيح الإجراءات للمستخدمين إنشاء البيانات أو تحديثها أو حذفها، بالإضافة إلى تشغيل عمليات الأعمال علي تلك البيانات (مثل الإرسال والتأكيد والترحيل). يُوفِّر المستخدم الذي يكمل أحد الإجراءات أولاً البيانات للإجراء (إذا كان الإجراء يقبل إدخال البيانات). 
 

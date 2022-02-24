@@ -4,15 +4,16 @@ title: الاختلافات التشغيلية التي تجب مراعاتها
 metadata:
   title: الاختلافات التشغيلية التي تجب مراعاتها
   description: تعرف على الاختلافات التشغيلية التي تجب مراعاتها.
-  ms.date: 02/05/2021
+  ms.date: 02/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 649e2b4e18109bb1af3e4ec056a34e207d5c8024
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5d01b5a7653463e8ff31bc6aed2feb247f8a4834
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362718"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072201"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-operation.md)]"

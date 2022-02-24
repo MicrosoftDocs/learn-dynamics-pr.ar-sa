@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ec36cdf9f3764b1ffa3cb7cbb405058897627d97adde6a9790091cdcf49a6c3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b33c9f7ebf1c3149cd0b0510da2438db6146c371
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7101612"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070122"
 ---
 لقد تعلمت في هذه الوحدة النمطية كيفية إنشاء متجر بيع بالتجزئة ونقطة البيع لعمليات نشر نقطة البيع الحديثة ونقطة البيع السحابية وتحديد تكوينات المفتاح التي تتعلق بتنفيذ معين. لقد تعلمت أيضاً أن أمان عامل المتجر مرتبط بسجلات نقطة البيع وتعرفت على طريقتين لنشر أذونات الأمان. 
 

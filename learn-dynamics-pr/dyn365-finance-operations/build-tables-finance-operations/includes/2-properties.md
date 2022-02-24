@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 43e10c39f09becd7374a859b7624e747290fedfbdfff4d407ac2e96e9ef54bfb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4f02ba4d5bbe57d5e014541268c8d9e56184c9c2
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136798"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072248"
 ---
 عند إضافة عنصر جديد، مثل جدول أو حقل، إلى مشروع، نوصي بتحديث خصائص العنصر وتعديلها. 
 

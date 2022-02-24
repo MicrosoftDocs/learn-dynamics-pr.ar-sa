@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d42f37038ac7635be4bef223b17f0c2fc60f8670
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 2327b08661d57f9e80bc2eaea119b70eb97cb9e5
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366100"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070349"
 title: تكوين قناة مركز الاتصال في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيسمح تحديد قناة مركز الاتصال لمستخدمي القناة بإنشاء وإدارة أوامر المبيعات من خلال Dynamics 365 Commerce ‏Headquarters ‏(HQ). يمكن أن تستفيد الأوامر التي يتم إنشاؤها في قناة مركز الاتصال من إمكانات Commerce معينة مثل معالجة الدفع وتسعير البيع بالتجزئة والعروض الترويجية. يتيح تحديد قناة مركز الاتصال أيضاً للمؤسسة تحديد إعدادات معالجة أوامر معينة وافتراضيات البيانات لأوامر المبيعات التي تم إنشاؤها بواسطة مستخدمي مركز الاتصال.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء قناة مركز اتصال وتعيين مستخدمي القناة وطرق الدفع ومجموعات الأسعار وأنماط التسليم إليها.\n- تعامل مع ميزات مركز الاتصال. \n- أنشئ أصناف البيع الإضافي والبيع المتلازم.\n"

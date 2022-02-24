@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9a6c9ec411db69a679f4758d62cff66c4a020d1fe69b6cdcc5c71bcbc9474ba7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 305e23ff2acc354bc4238405acfe2739fc1fcbc1
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141816"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071471"
 ---
 يمكن أن تساعدك قوالب السجلات في إنشاء السجلات بسرعة أكبر، لأنه يتم حفظ كافة قيم الحقول المستخدمة بشكل متكرر فيها، لذلك لا يلزم إدخال قيم الحقول بوضوح لكل سجل جديد. 
 

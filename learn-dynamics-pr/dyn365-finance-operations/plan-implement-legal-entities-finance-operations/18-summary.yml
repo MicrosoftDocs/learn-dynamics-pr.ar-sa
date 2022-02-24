@@ -4,16 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص تخطيط وتنفيذ الكيانات القانونية في وحدة تطبيقات Finance and Operations
-  ms.date: 05/12/2021
+  ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aea175358698abd7c177d3fd5db71ec168c6811b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 71be5377b0c115c5da037b63ad934a6c4a77d1d7
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339411"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071183"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

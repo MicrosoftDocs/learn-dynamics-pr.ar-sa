@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fd6541803c104cc4eac30ad27829702d86afe6da804f80ccd842e1499519d9ff
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 97afe8bed7cb3bf7bdfb6fa63ff217b96cd513d2
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7047015"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072900"
 ---
 يمكنك استخدام مساعد الجدولة لحجز الموارد استناداً إلى المتطلبات التي حددها مدير المشروع. يعتمد مساعد الجدولة على المعلمات التي يتم توفيرها في متطلبات المَورد للعثور على المَورد. إضافة إلى ذلك، يوصي مساعد الجدولة بالموارد التي تطابق المتطلبات ذات الصلة، مثل الإطارات الزمنية أو المهارات المطلوبة. بعد تحديد الموارد المناسبة، يمكن لمدير المشروع أو المَوارد حجز المَورد للعمل.
 

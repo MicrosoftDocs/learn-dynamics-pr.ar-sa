@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f5897faeffad3fc21a4520a28909220a5e38dbf59b6d4df85eeb27fbc002a5b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e85679107b860ed1fcb9e81d016fbe0db446a0e2
+ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059134"
+ms.lasthandoff: 02/13/2021
+ms.locfileid: "6072264"
 ---
 عند الترقية من Microsoft DynamicsAX2012 إلى تطبيقات Finance and Operations، تسمح لك تجربة الترقية بنقل الكود المخصّص، بما في ذلك البيانات. يتم دعم كل من Dynamics AX2012 R2 وR3 في تجربة الترقية. 
 

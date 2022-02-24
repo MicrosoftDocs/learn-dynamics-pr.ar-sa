@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f048bfca3bd0739134c4ba4781deddeb5951cce2
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 501ee4eb49a446dd02dabc899aac14b0d9b8db44
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7351679"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071818"
 ---
 تعد مكتبة اختبار القبول هي نقطة البداية لديك. وتحتوي عادةً على جميع حالات الاختبار (تسجيلات المهام) لتطبيق تم تنظيمه بواسطة إجراءات العمل.
 
@@ -16,11 +16,11 @@ ms.locfileid: "7351679"
 
 ### <a name="sync-with-azure-devops"></a>المزامنة مع Azure DevOps
 
-يقوم بمزامنة مزامنة مكتبة ‎BPM مع مشروع Azure DevOps لديك. لمزيد من المعلومات، راجع [مزامنة مكتبة BPM مع مشروع Azure DevOps](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/synchronize-bpm-vsts?azure-portal=true#synchronize-a-bpm-library-with-a-azure-devops-project).
+يقوم بمزامنة مزامنة مكتبة ‎BPM مع مشروع Azure DevOps لديك. لمزيد من المعلومات، راجع [مزامنة مكتبة BPM مع مشروع Azure DevOps](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/synchronize-bpm-vsts?azure-portal=true#synchronize-a-bpm-library-with-a-azure-devops-project).
 
 بعد اكتمال التكوين، يمكنك مزامنة مكتبة BPM مع مشروع Azure DevOps.
 
-1.  في صفحة **مكتبات إجراءات الأعمال** في لوحة المكتبة التي تريد مزامنتها، حدد زر علامة الحذف (...)، ثم حدد **مزامنة Azure DevOps**. يمكنك أيضاً بدء مزامنة Azure DevOps من شريط الأدوات في مكتبة BPM. حدد زر علامة الحذف (...)، ثم حدد **مزامنة Azure DevOps**.
+1.  في صفحة **مكتبات إجراءات الأعمال**، في لوحة المكتبة التي تريد مزامنتها، حدد زر علامة الحذف (...)، ثم حدد **مزامنة Azure DevOps**. يمكنك أيضاً بدء مزامنة Azure DevOps من شريط الأدوات في مكتبة BPM. حدد زر علامة الحذف (...)، ثم حدد **مزامنة Azure DevOps**.
 
 2.  بعد اكتمال مزامنة Azure DevOps، حدد زر علامة الحذف (...)، ثم حدد **مزامنة حالات الاختبار**. عند إتمام هذه الخطوة، ستصبح تسجيلات المهام الخاصة بك حالات اختبار في Azure DevOps، وسيظهر ارتباط ضمن علامة التبويب **المتطلبات**.
 

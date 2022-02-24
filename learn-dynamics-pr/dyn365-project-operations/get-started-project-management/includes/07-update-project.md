@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d0abfe466d3d8fc4fc007cbab11095c128e68aba614b654ac671f8fa7485dafa
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7fc538cf8f2e8e15f5d138fe94d9cd524503a034
+ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7086936"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "6072873"
 ---
 يتناول الملخص الآتي الحقول التي يمكنك تحديثها في مشروع بعد إنشائه، بما في ذلك الآثار القابلة للتطبيق المترتبة على التحديثات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b4956ebcaae68e7c98fb963cff080fb317faf929a8ad2fb5b9d7a04e239c981d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1e61271343aa5060d9f55ca3ec3dfdf8fc439e80
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144103"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070332"
 ---
 انت عامل متجر في فرع سان فرانسيسكو لشركة البيع بالتجزئة **Fabrikam**. يدخل عميل غير معروف إلى المتجر ويطلب استلام الأمر الخاص به: حذاء أكسفورد بني. قام بتقديم أمر الشراء من خلال موقع التجارة الإلكترونية لشركة Fabrikam. يجب عليك تسجيل الدخول إلى نقطة البيع وإنهاء الأمر الخاص بالعميل حتى يتمكن من استلام الحذاء الخاص به. 
 

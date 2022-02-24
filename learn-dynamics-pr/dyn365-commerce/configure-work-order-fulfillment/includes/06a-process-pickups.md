@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 918a2142e3b94536a4797bdfe7d6f83937a4f549de4df0967d430e11ed6d76d8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3e8ccea84be87a5db213e64375447d26a9e3f25a
+ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144195"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "6070499"
 ---
 عندما يتم إنشاء أمر العميل للاستلام من المتجر، يمكن لموظف المتجر استخدام تطبيق نقطة البيع (POS) لبدء استلام المخزون. سيتم التعامل مع التقاط الدفع النهائي بواسطة نقطة البيع حسب الحاجة. كما ستنتهي أيضاً من الجرد والترحيل المالي للكميات المحددة.
 

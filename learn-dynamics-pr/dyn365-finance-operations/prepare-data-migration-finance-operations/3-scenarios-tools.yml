@@ -4,16 +4,17 @@ title: سيناريوهات وأدوات الترحيل الشائعة
 metadata:
   title: سيناريوهات وأدوات الترحيل الشائعة
   description: توضح هذه الوحدة سيناريوهات وأدوات الترحيل الشائعة في تطبيقات Finance and Operations.
-  ms.date: 06/14/2021
+  ms.date: 12/17/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ea1dbaf4751d0d7c543efc3b13dfd06c2d15d6c3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 95b1c7eb6f84f8ca9f754695511abb33eaeead92
+  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339393"
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "6072120"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

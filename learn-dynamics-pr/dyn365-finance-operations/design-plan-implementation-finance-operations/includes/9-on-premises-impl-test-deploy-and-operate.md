@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1bbbc1fcef961c94898fc1e6f8704fd339456a839391f0261f4ab808fecbf7aa
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b513ca2d77afcbf42e291eb06a0e783357df8fb7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087745"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071984"
 ---
 تلخص هذه الوحدة مراحل اختبار ونشر عملية تنفيذ Finance + Operations (محلياً). العديد من الخطوات هي نفسها خطوات التنفيذ السحابي الموضحة سابقاً في هذه الوحدة النمطية، وبالتالي سنشير إلى تلك المعلومات.
 

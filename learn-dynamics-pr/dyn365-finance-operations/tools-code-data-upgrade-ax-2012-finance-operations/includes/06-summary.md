@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b08bd534b7ac6344917bcb79bee97fe22bfbd1971499c0260b899564c574b668
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1097ef99ea6611233ccbfce2ebdc6c7627accd9e
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7125176"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072284"
 ---
 ستساعدك أدوات ترقية البيانات والكود المتوفرة لديك في أثناء رحلة الترقية على جعل عملية الترقية تجربة سلسة ومنظمة. وستساعد هذه التجربة السلسة على استخدام مؤسستك للإمكانات التي تحتوي عليها Dynamics 365 وسحابة Microsoft. 
 

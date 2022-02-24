@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f2c7e01091cf746b4d4251175df29a53a5b202b8ec47d31027bb4c432b6b66f9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a0718f7e62122c9109da7b3e95683a1b0bd08ca9
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068933"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071387"
 ---
 إذا كنت ترغب في تشغيل مهام مثل طباعة التقارير أو إجراء الصيانة أو إرسال المستندات الإلكترونية أو المهام المجدولة الإضافية، فإن الوظيفة الدفعية هي طريقة جيدة. باستخدام الوظائف الدفعية، يمكنك تقليل تأثيرات الأداء على الكمبيوتر أو على الخادم أثناء ساعات العمل القياسية. 
 

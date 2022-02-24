@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: da15827b72080104cceaaa9d783c2689d5ab89642da1d2e7115b8ae2a8c58b42
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: acd5a2d3f4c824458cfe36ec431d627ae3e86cdb
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070242"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070160"
 ---
 تعد التقييمات والمراجعات مهمة لعملاء التجارة الإلكترونية الذين يرغبون في معرفة كيف ينظر العملاء الآخرون إلى المنتج. بالنسبة لمواقع التجارة الإلكترونية على الويب، تعد التقييمات والمراجعات أيضاً آلية لجمع تعليقات العملاء حول المنتجات. 
 

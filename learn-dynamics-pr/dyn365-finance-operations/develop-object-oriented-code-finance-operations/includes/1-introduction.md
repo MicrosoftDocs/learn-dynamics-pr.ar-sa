@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c6649603f894cd3b11cd87b58943c87bbf28baa30ad0984beaf08eb408231765
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 33bdb39a390cee5902398fd29f2b0d4809d2d580
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087727"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071222"
 ---
 تُعد البرمجة الموجهة للعناصر (OOP) نموذج برمجة تم تصميمه حول الكائنات وكيفية التعامل معها. يمكن أن تكون الكائنات أشياء مادية، مثل سيارة أو دراجة، أو مفاهيم أكثر تجريداً، مثل الرسائل والمجموعات والمعلمات. الكائنات لها سمات (بيانات) وسلوك (أساليب).
 

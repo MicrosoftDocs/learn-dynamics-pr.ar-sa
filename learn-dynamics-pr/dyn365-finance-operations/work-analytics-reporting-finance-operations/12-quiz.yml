@@ -3,16 +3,17 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.12
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 02/01/2021
+  ms.date: 03/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f9cc9e102babff40e593e148c37415668844b577
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: b00d7649b63437008b96795149ee910cf9a96f80
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332045"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071796"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:

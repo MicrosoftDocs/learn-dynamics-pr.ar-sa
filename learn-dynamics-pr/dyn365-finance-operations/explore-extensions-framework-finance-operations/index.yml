@@ -3,16 +3,17 @@ uid: learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations
 metadata:
   title: استكشاف الملحقات وإطار عمل الملحقات في تطبيقات Finance and Operations
   description: يتم تخصيص تطبيقات Finance and Operations باستخدام الملحقات، والتي تتيح لك إضافة وظائف لعناصر النموذج والتعليمات البرمجية المصدر في شجرة مكونات البرنامج (AOT) باستخدام Visual Studio.
-  ms.date: 04/22/2021
+  ms.date: 07/04/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6261000bc37763e3cdc65e67788864f29079a1fc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 965890330a80e1e16ff532f7a258bc0e31c4f30c
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357931"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072206"
 title: استكشاف الملحقات وإطار عمل الملحقات في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم تخصيص تطبيقات Finance and Operations باستخدام الملحقات، والتي تتيح لك إضافة وظائف لعناصر النموذج والتعليمات البرمجية المصدر في شجرة مكونات البرنامج (AOT) باستخدام Visual Studio. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أسباب إنشاء الملحقات.\n- تحديد وقت استخدام نموذج طلب قابلية التوسع.\n- تعرف على مخاطر التخصيصات المتداخلة‬‏‬.\n- قم بتطوير التعليمات البرمجية التي من شأنها توسيع وظائف تطبيقات Finance and Operations.\n"

@@ -5,15 +5,16 @@ labId: 64203
 metadata:
   title: المعمل - إضفاء الطابع الشخصي على خيارات المستخدم
   description: مارس إضفاء طابع شخصي على خيارات المستخدم في تطبيقات Finance and Operations.
-  ms.date: 05/27/2021
+  ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 40e56026f29a3a89bb4b4bdb8551fb262b7ff511
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 30eea5880582b815aacec927246ed717495af741
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352731"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071273"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/13-exercise-personalize-user-options.md)] \n[!include[](../includes/non-final-lab-end.md)]"

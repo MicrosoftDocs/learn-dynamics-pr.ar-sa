@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d66f00d1bd2065e0e59560f7266c1be82fb86c47351c3d09a6808b3ef87cf295
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cd10136b4eb5d53689344f8de12c0995baf1b11b
+ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059111"
+ms.lasthandoff: 03/08/2021
+ms.locfileid: "6072337"
 ---
 بينما تكون العبارات الشرطية رائعة لمعالجة تشغيل كتل الأكواد المختلفة، يتم استخدام معالجة الاستثناءات للتعامل مع الأخطاء.
 يمكن استخدام العبارات مثل `throw`و `try...catch`و `finally`و `retry` لمعالجة الاستثناءات. الاستثناء هو طريقة للأكواد للابتعاد عن الأكواد القابلة للتشغيل عند حدوث خطأ. 

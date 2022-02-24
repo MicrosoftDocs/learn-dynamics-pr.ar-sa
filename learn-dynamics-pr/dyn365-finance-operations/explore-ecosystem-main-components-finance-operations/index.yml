@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8a5bb6fa6ec9d927cd0bed745ab6934fb1c1e4ca
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 653308680191e34f5712118f96329481589223ea
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361507"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072223"
 title: استكشاف النظام البيئي والمكونات الرئيسية لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات Finance and Operations التي من المهم أن تعرفها قبل أن تبدء في التطوير. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف النظم البيئية لـ Dynamics 365.\n- تعرف على المكونات الرئيسية لتطبيقات Finance and Operations.\n- تعرف على خيارات النشر المحلية والسحابة.\n- استكشف عملية التطوير والنشر لتطبيقات Finance and Operations\n"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bc7a27890ca0ef5034e91b40504c4b636535e1d44cce2caa49c765af1c63aa8a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4f1f8561d6b1aec43e5b72e1327035c7c7b422fe
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7098729"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072917"
 ---
 في بعض الأحيان، يجب أن يقوم مدير المشروع أو مدير الموارد بتخصيص مَورد لأحد المشاريع دون تحديد متطلبات معينة من عضو فريق عام. يمكن إنجاز هذه المهمة بإحدى الطرق الثلاث.
 

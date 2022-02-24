@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c73f34accd1db3d24e6b5258ebc0fc22832f972980c6a42b07b8b5f156e308d7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2c580407e1df49428eaf75bcd57b1f9dbda460af
+ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7047009"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "6072783"
 ---
 توفر وحدة إدارة المصروفات للمستخدمين عملية أبسط لإرسال المصروفات واعتمادها. 
 

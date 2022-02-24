@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4cadf470ee3f3e98dee2fc85f094c3685e19bae311648a82d79fe2fab12ecc6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 12d76b89dae7a16fe835b6df19ea9e02eb8182c8
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059151"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071977"
 ---
 في مكتبة الأصول، يمكنك تنفيذ إجراءات متعددة.
 

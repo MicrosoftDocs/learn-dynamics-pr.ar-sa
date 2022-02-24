@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 40b76e17b988d538a254b53c5dbc0bffb73bec537dac12a52734033aef3f866c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9f7635f495ed02eada0df538626e48654075c894
+ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7101583"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "6070448"
 ---
 تعد وظيفة التصنيفات والمراجعات ضمن حل القناة متعددة الاتجاهات ومتوفرة أصلاً كجزء من Dynamics 365 Commerce. 
 

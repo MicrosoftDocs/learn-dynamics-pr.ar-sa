@@ -4,16 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص لإدارة مصادر البيانات التي تتصل بمخازن البيانات خارج الوحدة النمطية لتطبيقات Finance and Operations
-  ms.date: 04/29/2020
+  ms.date: 07/25/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e23b20085819bed551611d4ec2ce09581112aa26
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c8d7ec987ce5a6ab5ba25955341ee6dd26a232d2
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361995"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071214"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

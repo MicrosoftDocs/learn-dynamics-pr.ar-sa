@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 022039e8de1f194b4476bbaf01d6052a60230ca70adf1ab3534befb19d230ee8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b158d87a81017e3bf36a540319f255b3c57589ae
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7063951"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072493"
 ---
 عندما تفهم بنية الأمان لتطبيقات Finance and Operations، يمكنك تخصيصها الأمان بسهولة أكبر لملائمة متطلبات أعمالك. 
 

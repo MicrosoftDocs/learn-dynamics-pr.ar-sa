@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
-  ms.openlocfilehash: 294124730e29118308012e0b88962ca88e8a1936
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8365e999c79a89f4c9c4063dc54378cd51230723
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363657"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071265"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

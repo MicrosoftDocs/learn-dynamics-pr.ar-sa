@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e6e82b8cd268227c48f69a1e830c4fdae4481ca
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: ed1f136580c30617b07ece4c18c1175f7f6baf15
+ms.sourcegitcommit: 567643c6f57edb821768e02042f3f8f2455383f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7362622"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "6075072"
 ---
 تتبع تطبيقات Finance and Operations عرض أعمدة الشبكة إذا قمت بضبطها، والحالة الموسعة أو المطوية لعلامات التبويب السريعة. هذا النوع من التخصيص يُسمى التخصيص الضمني.
 على سبيل المثال، إذا قمت بضبط عرض العمود داخل شبكة، أو توسيع أو طي علامات التبويب السريعة ومربعات الحقائق، فسيتم اعتبار ذلك تخصيصاً ضمنياً.
@@ -38,7 +38,7 @@ ms.locfileid: "7362622"
 - **أعمدة العرض SizeToAvailable** - يمكن للمطورين تعيين WidthMode=SizeToAvailable في الأعمدة الموجودة داخل الشبكات. تبدأ هذه الأعمدة بنفس عرض إعدادات وضع العرض **SizeToContent**، ولكنها تمتد لاستخدام أي عرض إضافي متاح داخل الشبكة. إذا تم تعيين عدة أعمدة على **SizeToAvailable**، فيمكن مشاركة أي مساحة إضافية متاحة في الشبكة.
 - **‏‏إعادة ترتيب الأعمدة** - يمكنك إعادة ترتيب الأعمدة عن طريق سحبها. مرر مؤشر الماوس فوق رأس العمود ثم اسحب عنصر تحكم المقبض الذي يظهر على الجانب الأيسر من العمود.
 
-للمزيد من المعلومات، راجع [قدرات الشبكة](/dynamics365/fin-ops-core/fin-ops/get-started/grid-capabilities/?azure-portal=true).
+للمزيد من المعلومات، راجع [قدرات الشبكة](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/grid-capabilities/?azure-portal=true).
 
 ## <a name="user-interface-ui-elements"></a>عناصر واجهة المستخدم (UI)
 

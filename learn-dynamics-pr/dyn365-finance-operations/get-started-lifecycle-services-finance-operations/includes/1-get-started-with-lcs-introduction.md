@@ -1,31 +1,31 @@
 ---
-ms.openlocfilehash: c5cf526b43125e22619a7b0245279975b30d6c76
-ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+ms.openlocfilehash: d43aafc327296ec48093786bac9c4d74e59527bd
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "7944558"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071603"
 ---
 
-تُعد Lifecycle Services Microsoft Dynamics مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations بدايةً من مرحلة ما قبل البيع حتى تمام عملية التنفيذ وأخيراً إلى بيئة التشغيل سواء على السحابة أو في أماكن العمل. وتوفر قوائم الاختيار والأدوات التي تساعدك على إدارة المشروع، بما في ذلك المناهج التي يمكنها مساعدتك في إدارة عملية التنفيذ. 
+Microsoft Dynamics Lifecycle Services (LCS) تمثل مساحة عمل تعاونية يستخدمها العملاء وشركاءهم لإدارة مشاريع التطبيقات Finance and Operations من المبيعات الأولية إلى التنفيذ، وأخيراً إلى بيئة الإنتاج الموجودة على المجموعة أو المحلي. وهي توفر قوائم الاختيار والأدوات التي تساعدك على إدارة المشروع، بما في ذلك المناهج التي يمكنها مساعدتك في إدارة عملية التنفيذ. 
 
-يتمثل الهدف من Lifecycle Services في تقديم المعلومات الصحيحة في الوقت المناسب إلى الأشخاص المناسبين، وللمساعدة في ضمان نجاح متكرر ويمكن التنبؤ به مع كل عملية بدء تنفيذ أو تحديث أو ترقية. 
+إن الهدف من LCS هو تقديم المعلومات المناسبة في الوقت المناسب وللشخص المناسب للمساعدة على ضمان النجاح القابل للتكرار والتوقع مع كل مرة يتم فيها التنفيذ أو التحديث أو الترقية. 
 
-تتوفر Lifecycle Services للعملاء والشركاء بشكل افتراضي من خلال اشتراكاتهم.
+تتوفر LCS للعملاء والشركاء بشكل افتراضي مع اشتراكاتهم.
  
-تحتاج إلى تسجيل الدخول إلى Lifecycle Services من هنا: [https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true).
+يجب تسجيل الدخول إلى LCS هنا:[https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true).
 
-نوصي بتحقيق أقصى استفادة من استثمارك في نظام Microsoft Dynamics 365 الأساسي من خلال الاشتراك في خدمة نجاح العملاء من Microsoft، والمعروفة باسم FastTrack for Dynamics 365. 
+نوصي بتحقيق أقصى استفادة من استثمارك في النظام الأساسي Microsoft Dynamics 365 عن طريق التسجيل للحصول علي خدمة نجاح العميل من Microsoft، والتي تعرف باسم FastTrack for Dynamics 365. 
 
-لمعرفة المزيد حول FastTrack راجع: [https://www.microsoft.com/fasttrack/?rtc=1](https://www.microsoft.com/fasttrack/?rtc=1/?azure-portal=true).
+لمعرفة المزيد حول FastTrack راجع:[https://www.microsoft.com/fasttrack/?rtc=1](https://www.microsoft.com/fasttrack/?rtc=1/?azure-portal=true).
 
 ## <a name="learning-objectives"></a>الأهداف التعليمية
 
 خلال هذه الوحدة، سوف تتمكن مما يلي:
 
-- فهم وظائف وأدوات خدمات دورة الحياة لتطبيقات Finance and Operations.
+- فهم وظائف وأدوات Lifecycle services (LCS) لتطبيقات Finance and Operations.
 - إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها.
 - فهم وظيفة مسجل المهام.
 - إنشاء نموذج عملية أعمال.
 - تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال (BPM).
-- تشغيل أداة البحث عن المشاكل في Lifecycle Services وتحليل النتائج.
+- قم بتشغيل أداه البحث عن المشاكل في LCS وتحليل النتائج.

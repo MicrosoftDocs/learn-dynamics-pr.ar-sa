@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f4698c2fca13f69e60e66894e1cc7397df6a4ef33d224f76fd2dbd1338274504
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9ea7fc94b5bb80db9682f7f97b4e2c19c4133039
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7069145"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072320"
 ---
 مصمم العنصر هو مركز التطوير في Visual Studio. يمكن تعديل العناصر الجديدة، ويمكن توسيع العناصر الموجودة داخل AOT ليتم تعديلها حسب الحاجة ضمن هذه النافذة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 30d337b74e61eff5764af459bc0994fcab38389760da015f13ed3b1e3588223f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 19445054d9f8ef778c44ce3e7d376f2609652522
+ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7110822"
+ms.lasthandoff: 03/08/2021
+ms.locfileid: "6070455"
 ---
 يمنح نموذج قابلية التوسع Dynamics 365 Commerce المطورين الداخليين ومدمجي الأنظمة القدرة على إنشاء ملحقات وإضافة ميزات جديدة إلى المنتجات التي تستهلك وتقدم هذه الخدمات وبياناتها في مواقع التجارة الإلكترونية. 
 

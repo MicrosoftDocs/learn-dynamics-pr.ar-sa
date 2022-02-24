@@ -4,16 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص العمل مع إدارة البيانات في وحدة تطبيقات Finance and Operations
-  ms.date: 06/14/2021
+  ms.date: 03/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 088d89e311e8be18a9a190282ff064ded9568825
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c3b89a6358f430d72cdcd983b6fbc47f70bbde54
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352683"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071631"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

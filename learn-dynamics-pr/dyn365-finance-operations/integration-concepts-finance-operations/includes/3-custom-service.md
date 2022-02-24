@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9fd1e84d2ae95537cfadcae532053e40560c9c010556b7173e0739788541c9b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cdd1745f30c4ab5acc105526d059ffea178f602b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099857"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071674"
 ---
 
 يمكنك تطوير خدمات مخصصة للتطبيقات Finance and Operations من أجل عرض وظائف ‎‎X‎ + +‎ للعملاء الخارجيين. يمكن عرض الكود الموجود كخدمة مخصصة من خلال إضافة سمة إلى الكود. يتم تعيين السمة في فئة عقد البيانات وأعضائها من أجل إجراء التسلسل وإلغاء التسلسل تلقائياً للبيانات التي يتم إرسالها واستلامها عبر اتصال الشبكة.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e51da7290ddbd91bc16bb317e694afc6f4d2b951
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: d50d487b781bc134a673f955f28307c95628548b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7325499"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071744"
 ---
 تتيح مساحة العمل المحمولة لإدارة الأصول للمستخدمين عرض مهام أمر العمل المعينة بسرعة، وإنشاء طلبات الصيانة وإدارتها، وتحديث حالات دورة الحياة، وعرض تفاصيل الأصول وموقع العمل باستخدام الجهاز المحمول الذي يختارونه.
 
@@ -19,7 +19,7 @@ ms.locfileid: "7325499"
 ## <a name="prerequisites"></a>المتطلبات الأساسية
 تختلف المتطلبات الأساسية استناداً إلى إصدار Dynamics 365 Supply Chain Management الذي تم توزيعه لمؤسستك.
 
-في حالة توزيع Microsoft Dynamics 365 Supply Chain Management لمؤسستك، يجب أن يقوم مسؤول النظام لديك بنشر مساحة العمل المحمولة لإدارة الأصول. للحصول على الإرشادات راجع [نشر مساحات العمل المحمولة](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace/?azure-portal=true).
+في حالة توزيع Microsoft Dynamics 365 Supply Chain Management لمؤسستك، يجب أن يقوم مسؤول النظام لديك بنشر مساحة العمل المحمولة لإدارة الأصول. للحصول على الإرشادات راجع [نشر مساحات العمل المحمولة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace/?azure-portal=true).
 
 ## <a name="download-and-install-the-mobile-app"></a>تنزيل تطبيق الأجهزة المحمولة وتثبيته
 قم بتنزيل وتثبيت تطبيق Dynamics 365 for Unified Operations Mobile باستخدام الارتباطات التالية:

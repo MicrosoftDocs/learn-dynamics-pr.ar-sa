@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: fba8de3ae5ab367d2dbee8d78e41673698a0610a
-  ms.sourcegitcommit: 4af9cd967e8496ed53c1022e0b4b83dcf4001802
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f0164a717f686577b77e2146078501268acd5ff9
+  ms.sourcegitcommit: 3b7930e46f1a732939d8d75f99df7bf1f7ccc2ff
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/25/2022
-  ms.locfileid: "8025915"
+  ms.lasthandoff: 03/09/2021
+  ms.locfileid: "6074556"
 title: تكوين الأصول الثابتة وتأجير الأصول وإدارتها في Dynamics 365 Finance
 summary: "[!include[](../../includes/lp-banner.md)]\n\nيمكنك إعداد وإدخال معلومات الامتلاك للأصول الثابتة، ثم إدارتها بواسطة إهلاكها وتعيين حد رسملة. يجب أن تتوافق طريقة التعامل مع الأصول الثابتة مع كلٍ من معايير المحاسبة العالمية وقوانين المحاسبة في كل بلد أو منطقة. يُعد تأجير الأصول قدرة متقدمة على مراقبة الحركات المالية وتعقبها وتنفيذها تلقائياً للخصائص المؤجرة في Dynamics 365 Finance.  \n"
 prerequisites: >
@@ -37,7 +37,6 @@ products:
 modules:
 - learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops
 - learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops
-- learn-dynamics.setup-asset-leasing-finance
 - learn-dynamics.work-asset-leasing-finance
 trophy:
   uid: learn-dynamics.configure-and-manage-fixed-assets-in-dynamics-365-for-finance-ops.trophy

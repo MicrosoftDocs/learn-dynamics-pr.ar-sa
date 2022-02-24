@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f35b8a1628f477c8f7dbd0b5e650a0390d80186ade143afe0968ac6be9d56374
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fe931549c774d2bdff8a60750dd53caea8d207f6
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7052753"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072926"
 ---
 محاسبة المشروع في Microsoft Dynamics 365 Project Operations:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e5c42858e9a54f0441b46fd3e68fbbd77ba593fb91d204accd1319620dc22ef6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2cd3ba490a2db249f9fed72d19b94403a7ce911b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070348"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070077"
 ---
 كمطور تجارة إلكترونية لشركة Fabrikam، تمت مطالبتك بإنشاء وحدة نمطية جديدة. وترغب الشركة في أن يطلق عليها وحدة نمطية بسيطة ستسمى **ميزة المنتج**.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 801ffa898db2577544c0a3f4fccc47fdb9ff8d27b90be7ff548f698d946e3498
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d0cb8ab902c0f0e2398ecc4d8d64ad98e75c0659
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095061"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070189"
 ---
 بإمكان Commerce إقران الصور بخمسة كيانات محددة:
  

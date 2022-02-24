@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac3271cf61f6fb14adec3e9bb598fd6db44c6ef935969ef7ff7a605ffcdda4f3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 44c4e1a05dd81cf9e2ab52fe3e0537af7992d30a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7126956"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070302"
 ---
 أنت تعمل في قسم التجارة الإلكترونية الجديد في Adventure Works، وأنت مسؤول عن إنشاء وجود عبر الإنترنت لبائع التجزئة المعروف. 
 

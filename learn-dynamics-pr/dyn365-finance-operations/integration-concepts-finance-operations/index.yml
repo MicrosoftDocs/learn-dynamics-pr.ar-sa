@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 774966647b76bddafc1ae3f48e813a3c72a566f5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3b7046a6a710b218f589f521ede006723104de00
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365009"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072196"
 title: تنفيذ مفاهيم وحلول تكامل البيانات لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nقم بالاتصال ببيانات تطبيقات Finance and Operations باستخدام كيانات البيانات، حيث يتم الوصول إلى البيانات خارج التطبيق وباستخدام نقاط النهاية والتطبيقات الخارجية المختلفة. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء كيان بيانات.\n- تمكين قدرات إدارة البيانات.\n- كشف نقاط نهاية ‏‫بروتوكول البيانات المفتوحة (OData)‬ بكيانات البيانات.\n- تحديد نقاط نهاية الخدمة المخصصة.\n- اكتشاف خدمات الويب الخارجية المتوفرة للاستخدام.\n- استهلاك خدمات ويب خارجية.\n- قم بالاتصال ببياناتك باستخدام الوظيفة الإضافية لـ Microsoft Excel.\n- اتصل ببياناتك باستخدام Microsoft Power Apps.\n"

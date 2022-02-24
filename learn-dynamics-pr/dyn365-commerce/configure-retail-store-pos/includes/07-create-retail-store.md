@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 96c8bd2fe44bedfe57aaad57de5a2e9bb3746355a6572cae33e833bdda536825
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ef853a5445c3fb44fb8ffe2ac6cd77a8ab74e4c3
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144300"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070178"
 ---
 يتم إنشاء متجر البيع بالتجزئة كسجل قناة في Commerce في الصفحة **جميع المتاجر**. يتطلب متجر البيع بالتجزئة علاقة واحد إلى واحد (1:1) مع مستودع ووحدة تشغيل. يجب تكوين المستودع قبل إنشاء المتجر. يتم إنشاء وحدة التشغيل تلقائياً عند إنشاء سجل المتجر. 
 

@@ -4,15 +4,16 @@ title: إعداد موصل المدفوعات في Commerce
 metadata:
   title: إعداد موصل المدفوعات في Commerce
   description: تعرف على كيفية إعداد موصل المدفوعات في Dynamics 365 Commerce.
-  ms.date: 05/12/2021
+  ms.date: 03/30/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c5ccfe76890d37a0cc09f94ee96420819914e97a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 496690f330de08cec84bd329847a04e41e668b68
+  ms.sourcegitcommit: d8ae5ea2abe98cfc202df6bdbffd7c56806ae143
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7344900"
+  ms.lasthandoff: 03/31/2021
+  ms.locfileid: "6070478"
 durationInMinutes: 25
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/062-set-up-payment-connector.md)]"

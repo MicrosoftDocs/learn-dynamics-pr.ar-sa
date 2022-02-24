@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d3fee6440669114f12755485512659d9839e794723fd5949a20f3ad75490f360
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3c9a90a25414f61688d69a1fc1de245a58b27d88
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121776"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070261"
 ---
 توصيات منتجات القناة متعددة الاتجاهات قابلة للتكامل مع حل Commerce. من خلال تمكين هذه الخدمة، يمكن لبائعي التجزئة تحسين اكتشاف المنتجات من خلال توصيات المنتجات التلقائية في أي مكان عبر الشركة (عبر الإنترنت، ونقطة البيع، ومركز الاتصال، والمزيد). الأنواع المتوفرة من توصيات المنتج التلقائية في Commerce هي:
 

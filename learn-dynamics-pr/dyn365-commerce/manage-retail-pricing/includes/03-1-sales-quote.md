@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5051789faf05f9fd39343eda506b5269fc051afe
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: ef3bff5178ce4f51f8c2dde5e07bda75583ed4fd
+ms.sourcegitcommit: b2c1f5af6813dd8bf520fa8af24dbee5d38de050
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7335429"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "6070480"
 ---
 يدعم محرك تسعير Commerce معظم سيناريوهات تسعير ‏‫متاجرة عمل-مستهلك‬ (B2C)، بما في ذلك التسعير على مستوى المتجر والتسعير المستند إلى الولاء والانتماء وخصومات الخلط والمطابقة وخصومات الكمية وخصومات الحد الفاصل. يستخدم محرك التسعير قواعد معقدة لتحديد أفضل سعر لعرض أسعار أو أمر معين.
 عند استخدام الكتابة المزدوجة، يتوفر لديك ثلاثة خيارات تسعير للاختيار من بينها:
@@ -17,7 +17,7 @@ ms.locfileid: "7335429"
 
 ## <a name="prerequisites"></a>المتطلبات الأساسية
 
-قبل أن تتمكن من استخدام محرك التسعير التجاري في المبيعات، يجب عليك اتباع الخطوات الواردة في [‏‫العميل المتوقع إلى النقدية في الكتابة المزدوجة‬](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-prospect-to-cash/?azure-portal=true).
+قبل أن تتمكن من استخدام محرك التسعير التجاري في المبيعات، يجب عليك اتباع الخطوات الواردة في [‏‫العميل المتوقع إلى النقدية في الكتابة المزدوجة‬](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-prospect-to-cash/?azure-portal=true).
 
 يجب عليك أيضاً إيقاف تشغيل تقييم الاتفاقية التجارية للإدخال اليدوي باتباع الخطوات التالية:
 

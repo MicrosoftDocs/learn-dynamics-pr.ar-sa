@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 01b3264a619dfa2d6599ed7f2fb963e6d7fd2d14b0ab274e953ef05b41004abb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f0609bebaf8984fa764c091003159c70899fdac2
+ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099258"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "6072714"
 ---
 يمكنك استخدام برامج الائتمان المرنة في Dynamics 365 Human Resources لتسجيل الموظفين في المزايا وفقاً لعدد محدد مسبقاً من الائتمانات المرنة. يمكن للموظفين اختيار كيفية تخصيص الأرصدة المرنة الخاصة بهم. على سبيل المثال، إذا كان الموظف مشمولاً بموجب خطة التأمين الصحي لزوجته، فقد يرغب في استخدام الأرصدة التي كان سيستخدمها في التغطية الصحية في المزايا الأخرى.
 

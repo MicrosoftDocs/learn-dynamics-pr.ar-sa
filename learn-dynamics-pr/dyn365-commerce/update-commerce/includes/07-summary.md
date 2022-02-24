@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4f32ab65bcf7ee68c54759077a1f68baa8c0fec6c6ed33a6e58ebb20b2eaaa8c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5969ca3de535f6cd97dc7c15efba4900af7b1e70
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060671"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070259"
 ---
 تمكنك تحديثات Dynamics 365 Commerce من الحصول على أحدث الميزات والمعلومات الخاصة ببيئتك دائماً. تتوفر عدة خيارات لمساعدتك في إجراء عملية التحديث وفقاً لجدول الأعمال ومتطلباتك. 
 

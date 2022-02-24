@@ -4,15 +4,16 @@ title: مراجعة مخطط الحل
 metadata:
   title: مراجعة مخطط الحل
   description: تصف هذه الوحدة مراجعة مخطط الحل.
-  ms.date: 06/17/2020
+  ms.date: 03/28/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e0a9e5c8c03b2be8faee66b7ccb3514aed8e4b2c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: b7649e7c00fd27b492080c623195acb4d9f1fbcf
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327712"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071952"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-solution-blueprint-review.md)]"

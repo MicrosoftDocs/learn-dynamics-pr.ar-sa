@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4dc7d2f6c246d69a70ffdc603cdbad966b0d18c42725426ced0b6aadaa8c550f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9c970799f69a7c8e362894469e882b79ef63c362
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058909"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072389"
 ---
 تُستخدم آلية البحث للبحث عن الصفحات ومساحات العمل التي تظهر في جزء التنقل وعلى لوحة المعلومات، والانتقال إليها. ولا تتطابق الكلمات الأساسية للبحث مع التسمية التوضيحية لعناصر التنقل فقط، وإنما أيضاً مع المسار المطابق. 
 

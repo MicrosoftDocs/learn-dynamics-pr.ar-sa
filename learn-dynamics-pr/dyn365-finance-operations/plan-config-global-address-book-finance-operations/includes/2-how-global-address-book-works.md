@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 11946fa4b2bacf7d0797b87a17ba532a9f8ccd11a16bf78a54d4f3f2b41f9859
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b30bc0ce84be62965f504bb3706251e8ea0e1e40
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141744"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072468"
 ---
 يمكن أن ينتمي سجل الطرف إلى دفتر عناوين واحد أو أكثر. يمكن لكل سجل طرف تخزين موقع أو عنوان واحد أو أكثر، ويتم تعيين دور طرف فيه. يمكن أن يكون للدور الذي تم تعيينه لسجل الطرف أنواع حركات محددة مرتبطة به. توفر الأقسام التالية مزيداً من المعلومات حول أدوار الأطراف والمواقع وأنواع الحركات. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 163ff4fa316b7845ea17b260a36537664c9aa428ec147ca28a32dc782b8753c3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 691f9bfe7778784a820722ce8f10957113302801
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087841"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072235"
 ---
 يمكن إنشاء مؤشرات الأداء الأساسية (KPI) في بيئة المطور ثم تضمينها في مساحات العمل لتزويد المستخدمين بقيم أساسية قابلة للقياس تسمح لهم بمعرفة كيفية أداء الأعمال. تُظهر الصورة أدناه مثالاً على لوحة مؤشرات الأداء الأساسية (KPI) في مساحة العمل. 
  

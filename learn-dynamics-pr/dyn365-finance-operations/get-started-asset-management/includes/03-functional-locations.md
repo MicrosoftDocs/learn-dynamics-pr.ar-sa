@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 11086bd318c9e527df63c6bc6ae3512ca04058d8059a108256dbbb5d385d636c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 15413464d050f61b815d120740e26da6389ad2aa
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099921"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072278"
 ---
 تصف الأقسام التالية المكونات الرئيسية لإدارة الأصول. 
 

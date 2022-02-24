@@ -5,16 +5,17 @@ labId: 63319
 metadata:
   title: تمرين عملي - إضافة سجل جديد ومراجعة التكرارات
   description: تدّرب على إضافة سجل دفتر عناوين عمومي جديد ومراجعة التكرارات في تطبيقات Finance and Operations.
-  ms.date: 01/21/2021
+  ms.date: 04/22/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1d3ea9e73e4db5dbd71742297aed408a1702fab9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 86a998d133fd9ca7987c53e6ef7e35e153e70fa7
+  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329257"
+  ms.lasthandoff: 10/30/2020
+  ms.locfileid: "6072034"
 durationInMinutes: 16
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ef1cc00403b3ee6b09bd423649ab7d7b77a1b2a3db4fcb86cb7c0dd35db39c5b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 80cb187d55d0ce5c5e5895280278698dd6b5b013
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7100038"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071549"
 ---
 الكيان المركب هو مفهوم يسمح لك بإنشاء كيان واحد باستخدام كيانات متعددة ترتبط ببعضها. ويُستخدم المفهوم عادة في السيناريوهات التي يمكن فيها تمثيل أحد الكيانات كمستند واحد، مثلاً كرأس أمر مبيعات، وسطر أمر مبيعات ورأس فاتورة وسطر فاتورة وكتالوج مورّد.
 

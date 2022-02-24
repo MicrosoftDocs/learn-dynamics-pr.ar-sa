@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ae494254fc51b0a2942188678ba2f9a108513f20e125129d0a3f4c873d6d5b20
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6eaca0df9064cb05155c7645cfea230d8ee0a7ff
+ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7119782"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072823"
 ---
 في هذه الوحدة، ستتعرف على الوظائف الأساسية لإدارة المصروفات، وميزاتها المبسطة، والاعتبارات الخاصة بتخطيط التنفيذ الخاص بك لتعزيز قدرات إدارة المصروفات في مؤسستك.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 94768d6e3721b0a6d2e2c57901da576a4ef31142431c772c6be3face9a57a4cf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2edf2e673acb3e4f01c2bf6f48e9db6d3ce3f0a7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070394"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070238"
 ---
 بالنسبة للتمرينات الخاصة بهذه الوحدة، ننصحك باستخدام بيانات العرض التوضيحي في الشركة **USRT**.
 

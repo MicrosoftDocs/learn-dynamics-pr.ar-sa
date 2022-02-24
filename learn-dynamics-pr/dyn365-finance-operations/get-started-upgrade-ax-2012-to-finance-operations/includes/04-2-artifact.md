@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa22090d4542b85a705992aebcea3704615e604f8e76f85baa407e6d5560587b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a7261b2c7273ae4653f0704cc55b6011f82024f0
+ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059122"
+ms.lasthandoff: 02/13/2021
+ms.locfileid: "6072259"
 ---
 تتناول الأقسام التالية المقارنة الملموسة بين تطبيقات Dynamics AX 2012 وFinance and Operations.  
  

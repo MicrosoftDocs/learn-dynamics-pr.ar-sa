@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e5a6ca60fb6bb66c5a22b3a584c1c84a16c8cd8328d985e00102f3b8934feaf8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9ffcca05c9a82d26336da3b11140f13e8a7e8285
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121912"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070221"
 ---
 تُظهر الصورة التالية صفحة **مصمم التدرج الهرمي**، الموجودة ضمن **Retail وCommerce > إعداد القناة > ‬‏‫التدرجات الهرمية للمؤسسة** في زر **عرض** التابع للصفحة لسجل **متاجر بيع بالتجزئة حسب وحدة الأعمال**.
 

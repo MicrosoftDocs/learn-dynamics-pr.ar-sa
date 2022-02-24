@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: jablak
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 2936055f314e38bc7a4535f43fe9c1d86766d45a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 149ca55395a1e1c6018543a29c94f00af57bc9fe
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363225"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074758"
 title: تكوين التطبيقات في Finance and Operations
 prerequisites: >
   إما:

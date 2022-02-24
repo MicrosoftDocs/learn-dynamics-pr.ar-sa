@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 377511b50405b19d5b2ed829f47ccddf55c70877
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: c5b801c414ee8c7c96ec349dc01b2788bc122b05
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7324377"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072938"
 ---
 تدعم Project Operations القدرة على معالجة المصروفات. تحدث معالجة المصروفات مع المشروعات أو بدونها باستخدام سير عمل قابل للتخصيص من السياسات، وفئات الحركات، والموافقات.
 
@@ -14,7 +14,7 @@ ms.locfileid: "7324377"
 
 - **أساسي** - التوزيع الأساسي متوفر لـ **Project Operations للسيناريوهات المستندة إلى الموارد/غير المخزنة** و **‏‫التوزيع البسيط - التعامل مع الفواتير الأولية**.
 
-لمزيد من المعلومات، راجع [أنواع التوزيع]( /learn/modules/get-started-project-operations/4-deployment/?azure-portal=true).
+لمزيد من المعلومات، راجع [أنواع التوزيع]( https://docs.microsoft.com/learn/modules/get-started-project-operations/4-deployment/?azure-portal=true).
 
 ## <a name="full-expense"></a>المصروفات الكاملة
 يوفر توزيع المصروفات الكاملة إنفاذاً كاملاً للنهج يتضمن القدرة على إنشاء نُهج، مثل:

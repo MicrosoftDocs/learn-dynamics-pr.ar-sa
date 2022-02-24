@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4600fada19b2beae4200914dd02d893dcba994756f0afaed9b316d8251c33cc6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6581b95513058093591c4bc4b6e3aa7c51bee344
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7098838"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072948"
 ---
 تتوفر القدرات التالية للفواتير الموجهة للعملاء (مقترحات فاتورة المشروع):
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a50ff26471f098c7264d1ca0b21d553fa45afc3d2aa585e7531181fa8cf0fc47
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 63306ccc2c0eb1954428b1aa96f06e2d391d124e
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7048258"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071932"
 ---
 تستخدم تطبيقات Finance and Operations عميل ويب HTML يعمل في جميع المتصفحات الرئيسية، بما في ذلك Microsoft Edge، وInternet Explorer‏ 11، وGoogle Chrome، وSafari.
 

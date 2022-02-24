@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ef1ec6d44bd5933f812b10af6ddd4955ca8863651363c4e5f8253d23460c5ad3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9e47aa173444fcd9fa3d352950a4172c5defebdb
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094547"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071735"
 ---
 
 يمكنك استخدام العديد من الأدوات المستندة إلى المستعرض وأداة مؤقت الأداء لتشخيص وتحسين أداء العميل بتطبيقات Finance and Operations.

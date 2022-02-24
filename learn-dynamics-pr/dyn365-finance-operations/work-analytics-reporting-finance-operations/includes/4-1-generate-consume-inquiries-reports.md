@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a8140d75cc714d7ef8942cccfd78ebc5f67962ce
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 5d6f0361d8aac0cfa1b0bfd30714e3d8353a517f
+ms.sourcegitcommit: 3833275c8745f85b270c9e80e875d58ac3c482f2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350550"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "6072121"
 ---
 في تطبيقات Finance and Operations، يمكنك تنفيذ المهام التالية باستخدام التقارير والاستعلامات:
 
@@ -21,7 +21,7 @@ ms.locfileid: "7350550"
 > ينتج عن طلب الحصول على أكثر من تقرير في وقت واحد وجود ملف من نوع ZIP يجب تنزيله وإلغاء ضغطه قبل استخدام مستندات Word.
 
 ## <a name="export-options-while-previewing-documents"></a>خيارات التصدير أثناء معاينة المستندات
-ونظراً لأن معظم المستخدمين يفضلون عرض مستنداتهم قبل تصديرها، تتوفر خيارات شريط الأدوات على جميع الأجهزة المدعومة، مما يوفر حلاَ بسيطاً وسهل الاستخدام لتصدير المستندات. وللمزيد من المعلومات حول معاينة PDF، راجع [معاينة مستندات PDF باستخدام عارض PDF](/dynamics365/fin-ops-core/dev-itpro/analytics/preview-pdf-documents/?azure-portal=true).
+ونظراً لأن معظم المستخدمين يفضلون عرض مستنداتهم قبل تصديرها، تتوفر خيارات شريط الأدوات على جميع الأجهزة المدعومة، مما يوفر حلاَ بسيطاً وسهل الاستخدام لتصدير المستندات. وللمزيد من المعلومات حول معاينة PDF، راجع [معاينة مستندات PDF باستخدام عارض PDF](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/preview-pdf-documents/?azure-portal=true).
 
 وبخلاف عارض التقارير، الذي استخدم HTML لعرض المستندات قبل تصديرها، فإن إجراءات شريط الأدوات الجديدة تُحوِّل المستندات إلى تنسيق يضمن تناسقاً أفضل عند التنزيل.
 

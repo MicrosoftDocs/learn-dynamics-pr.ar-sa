@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: efc6440af539cda5d55bb98cdb75aae239cc046029ffcc3c8e6204a506acf591
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bbdbcc30ce90e8a0620bf39405b9c48f04d7a404
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141635"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071262"
 ---
 يصبح كل عملك الشاق ناجحاً من خلال نقل الحل المنفذ في تطبيقات Finance and Operations إلى بيئة الإنتاج، وهي المرحلة الأخيرة من إكمال التنفيذ. 
 

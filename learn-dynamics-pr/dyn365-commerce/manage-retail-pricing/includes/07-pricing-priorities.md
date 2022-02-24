@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1048c0df5370a7a879ad453df5b973c27557115f0baacd8c11d92587dbc63a30
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b7d1e50547fe7887d24dc0fbacc342244c3cda33
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095268"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070270"
 ---
 نظراً لأن محرك الأسعار عادةً ما يختار السعر الأقل من بين سعرين، فإنه لا يدعم مطلب إجبار محرك الأسعار على تحديد السعر الأعلى من بين سعرين دون تكوين هيكل التسعير مرتين لجعل السعر الأعلى من بين السعرين صالحاً لقنوات Commerce. تهدف أولويات التسعير إلى تبسيط هذه الأنواع من المتطلبات. يمكن أن تساعد أولويات التسعير في تحديد ضرورة استخدام مجموعة أسعار أو خصم ما قبل خصم آخر، مثل خصم أقل. 
 

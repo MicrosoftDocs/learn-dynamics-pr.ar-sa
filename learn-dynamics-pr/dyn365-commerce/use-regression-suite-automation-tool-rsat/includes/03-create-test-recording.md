@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1100029dd2312a55ab08b58c3e37750760187dc905357d7d2f4e67eb204d6790
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7afbdb973a991fb9496e090c9134193a5e0386b3
+ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095126"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "6070447"
 ---
 لإنشاء تسجيل باستخدام ميزة "مسجل الاختبارات"، تحتاج أولاً إلى تمكين التسجيل التجريبي في نقطة البيع. لتشغيل وظيفة التسجيل التجريبي في نقطة البيع، اتبع هذه الخطوات في Commerce:
 

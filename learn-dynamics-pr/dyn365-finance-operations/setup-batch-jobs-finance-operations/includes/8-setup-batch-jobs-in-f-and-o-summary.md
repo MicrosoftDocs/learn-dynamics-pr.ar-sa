@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 725a96266c0ebca1c6c3ce1fc057dded4c4ef16a218ef078397f9866991c638c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: afb1a3c348245415a5affdf77fdb81cb92376062
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075047"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071420"
 ---
 باستخدام الوظائف الدُفعية، يمكنك تجنب إبطاء جهاز الكمبيوتر أو الخادم أثناء ساعات العمل المعتادة، وتحديد التكرارات، وإعداد التنبيهات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a4ddd472a8420cec62993508fa754b8144cf7adedcfc15cf6cd361ceed6a93a4
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d99279ec0468998ee4692ba90fa593c138ecbe24
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079245"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071221"
 ---
 
 تمثل السمات أو تخزن بيانات التعريف حول سلوك الفئات والطرق. يمكن إرفاق السمة ببساطة عن طريق كتابة اسم السمة المحاط بأقواس مربعة قبل إعلان الفئة/الوظيفة حيث يلزم تطبيقها. 

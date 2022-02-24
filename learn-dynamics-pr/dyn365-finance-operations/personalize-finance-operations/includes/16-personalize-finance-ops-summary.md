@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cb7e37cd823db1f6246134fea522a6712fe18cac7420893d6181de06063a34c7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9b9396ffb8549f7b74c54202ca7c263a67ecc431
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7047984"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071465"
 ---
 لقد تعرفت الآن على كيفية استخدام خيارات المستخدم وتطبيقها، وإنشاء إضفاء طابع شخصي، وتصدير إضفاء طابع شخصي ليتم استخدامه من قبل مستخدمين آخرين، باستخدام ميزة إضفاء طابع شخصي لتطبيقات Finance and Operations.
 

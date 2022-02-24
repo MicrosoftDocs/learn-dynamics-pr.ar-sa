@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ba43e589c609ce8e7f430908964d24fbd307b3f47b909500a4ca3b068df1d92
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3d387265e05a9e52cc5f846fc46ed31e8422d6cd
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7082012"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072905"
 ---
 الحجوزات هي التخصيص المحدد أو المبدئي للموارد لمشروع ما. تستهلك حجوزات العمالة المحددة القدرة الإنتاجية للمورد. تمثل الحجوزات المفاهيم التنظيمية للفرق بحيث يمكنها فهم كيفية مشاركة الموارد عبر المشاريع المختلفة. يعتبر Project Operations الحجوزات كمفهوم على مستوى المشروع.
 

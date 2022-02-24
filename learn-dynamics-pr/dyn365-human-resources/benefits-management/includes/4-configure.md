@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 94447d585b7fa3ebec26b9e49bd940fa69b8f337
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 4226109ac940ef7b03f5c9f6db4c0340f86a5b68
+ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7339232"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "6072705"
 ---
 قبل أن تتمكن من إنشاء خطط الميزة في Dynamics 365 Human Resources وتسجيل الموظفين بها، يجب عليك تكوين المعلمات التالية:
 
@@ -39,7 +39,7 @@ ms.locfileid: "7339232"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لخيارات أهلية جهة الاتصال الشخصية.](../media/benefits-management-personal-contact-eligibility-options.png)](../media/benefits-management-personal-contact-eligibility-options.png#lightbox)
 
-لمزيد من المعلومات، اطلع على [تكوين خيارات أهلية جهة الاتصال الشخصية](/dynamics365/human-resources/hr-benefits-setup-contact-eligibility-options/?azure-portal=true).
+لمزيد من المعلومات، اطلع على [تكوين خيارات أهلية جهة الاتصال الشخصية](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-contact-eligibility-options/?azure-portal=true).
 
 ## <a name="create-coverage-options-for-the-plans"></a>أنشئ خيارات التغطية للخطط
 
@@ -62,7 +62,7 @@ ms.locfileid: "7339232"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لصفحة خيارات التغطية.](../media/benefits-management-coverage-options.png)](../media/benefits-management-coverage-options.png#lightbox)
 
-لمزيد من المعلومات، راجع [إنشاء خيارات التغطية](/dynamics365/human-resources/hr-benefits-setup-coverage-options/?azure-portal=true).
+لمزيد من المعلومات، راجع [إنشاء خيارات التغطية](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-coverage-options/?azure-portal=true).
 
 ## <a name="create-plan-types"></a>إنشاء أنواع الخطة
 
@@ -79,7 +79,7 @@ ms.locfileid: "7339232"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لصفحة أنواع الخطط على علامة تبويب خطة طبية.](../media/benefits-management-plan-types.png)](../media/benefits-management-plan-types.png#lightbox)
 
-لمزيد من المعلومات، راجع [إنشاء أنواع الخطط](/dynamics365/human-resources/hr-benefits-setup-plan-types/?azure-portal=true).
+لمزيد من المعلومات، راجع [إنشاء أنواع الخطط](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-plan-types/?azure-portal=true).
 
 ## <a name="create-eligibility-rules"></a>أنشئ قواعد الأهلية
 
@@ -116,7 +116,7 @@ ms.locfileid: "7339232"
 >
 > يعد ترتيب قواعد الأهلية مهماً. ضع القواعد الأكثر تقييداً، مثل تلك القواعد المتعلقة بالموظفين الجدد أو المعاد توظيفهم أولاً.
 
-لمزيد من المعلومات، اطلع على [تكوين قواعد الأهلية وخياراتها](/dynamics365/human-resources/hr-benefits-setup-eligibility-rules/?azure-portal=true).
+لمزيد من المعلومات، اطلع على [تكوين قواعد الأهلية وخياراتها](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-eligibility-rules/?azure-portal=true).
 
 ## <a name="create-payment-frequencies"></a>إنشاء تكرارات المدفوعات
 
@@ -125,7 +125,7 @@ ms.locfileid: "7339232"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لصفحة تكرارات المدفوعات.](../media/benefits-management-payment-frequencies.png)](../media/benefits-management-payment-frequencies.png#lightbox)
 
-لمزيد من المعلومات، راجع [إعداد تكرارات المدفوعات](/dynamics365/human-resources/hr-benefits-setup-payment-frequencies/?azure-portal=true).
+لمزيد من المعلومات، راجع [إعداد تكرارات المدفوعات](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-payment-frequencies/?azure-portal=true).
 
 ## <a name="create-rates"></a>إنشاء أسعار
 
@@ -144,7 +144,7 @@ ms.locfileid: "7339232"
   
   إذا قمت بتعيين **استخدام الطبقات** إما **لطبقة واحدة** أو **طبقة مزدوجة**، حدد **الإجراءات** الموجودة في الأعلى ثم حدد **أسعار الطبقات**. عيّن الحقول التالية في صفحة **أسعار الطبقات**:
   
-  - **كود الطبقة** - حقل معرف من قبل المستخدم، يتم تعيينه غالباً على **الطبقة 01** **والطبقة 02** وهكذا. يضمن وضع صفر قبل الرقم الفردي أن يتم الاحتفاظ بأكواد الطبقة بترتيب عند فرزها أبجدياً.‬ لمزيد من المعلومات، راجع [إعداد أكواد الطبقات](/dynamics365/human-resources/hr-benefits-setup-tier-codes/?azure-portal=true).
+  - **كود الطبقة** - حقل معرف من قبل المستخدم، يتم تعيينه غالباً على **الطبقة 01** **والطبقة 02** وهكذا. يضمن وضع صفر قبل الرقم الفردي أن يتم الاحتفاظ بأكواد الطبقة بترتيب عند فرزها أبجدياً.‬ لمزيد من المعلومات، راجع [إعداد أكواد الطبقات](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-tier-codes/?azure-portal=true).
   
   - **نوع الطبقة** - حدد ما تريد أن تقوم عليه طبقتك.
   
@@ -163,7 +163,7 @@ ms.locfileid: "7339232"
      > [!NOTE]
      > لا يتم إظهار إشارة المدخن للموظف مطلقاً.
 
-    لمزيد من المعلومات، راجع [إعداد أسعار الطبقات](/dynamics365/human-resources/hr-benefits-setup-rates?azure-portal=true#set-up-tier-rates).
+    لمزيد من المعلومات، راجع [إعداد أسعار الطبقات](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-rates?azure-portal=true#set-up-tier-rates).
 
 - **تكرارات المدفوعات** - تكرار المدفوعات الخاصة بموفر الميزة. تعتمد الأسعار التي تدخلها في الأقسام الأخرى في هذه الصفحة على تكرارات المدفوعات التي تحددها. على سبيل المثال، إذا قمت بتحديد **شهرياً** ثم قمت بتعيين سعراً بقيمة 100.00 دولار أمريكي، فسوف تكون التكلفة 100.00 دولار أمريكي كل شهر. ومع ذلك، بالنسبة للموظفين الذين دفعوا مرتين شهرياً، سيُظهر حقل **الخدمة الذاتية للموظفين** أنهم سيدفعون 50 دولاراً أمريكياً لفترة الدفع هذه.
 
@@ -173,7 +173,7 @@ ms.locfileid: "7339232"
 
 - **سعر الرصيد المرن** - إذا كنت تستخدم أرصدة مرنة، يمثل هذا الحقل تكلفة الرصيد المرن الخاص بالميزة.
 
-لمزيد من المعلومات، راجع [تكوين الأسعار](/dynamics365/human-resources/hr-benefits-setup-rates/?azure-portal=true).
+لمزيد من المعلومات، راجع [تكوين الأسعار](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-rates/?azure-portal=true).
 
 ## <a name="create-deductions"></a>إنشاء خصومات
 
@@ -182,4 +182,4 @@ ms.locfileid: "7339232"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لصفحة الخصومات لخدمات الأسنان.](../media/benefits-management-deductions.png)](../media/benefits-management-deductions.png#lightbox)
 
-لمزيد من المعلومات، راجع [تكوين الخصومات](/dynamics365/human-resources/hr-benefits-setup-deductions/?azure-portal=true).
+لمزيد من المعلومات، راجع [تكوين الخصومات](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-setup-deductions/?azure-portal=true).

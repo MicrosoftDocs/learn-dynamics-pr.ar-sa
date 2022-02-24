@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3692cf7dca483761851c31758831cf7668b8b95aef68e4ad817bb871ba9a6357
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5ee54dd85ef792d034a1d6a4bdbb497b108aea6c
+ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099270"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "6072706"
 ---
 لكي تظل قادراً على المنافسة، يجب أن تقدم مجموعة غنية من المزايا لجذب أفضل موظفيك والاحتفاظ بهم. بالإضافة إلى المزايا القياسية مثل التغطية الطبية وتغطية الأسنان، قد ترغب أيضاً في تقديم خدمات موسعة مثل المساعدة في التبني وبرامج الترفيه وبدلات الملابس. تزودك إدارة الميزات في Microsoft Dynamics 365 Human Resources بحل مرن يدعم مجموعة واسعة من خيارات المزايا. يتضمن Human Resources أيضاً تجربة موظف سهلة الاستخدام تعرض عروضك.
 

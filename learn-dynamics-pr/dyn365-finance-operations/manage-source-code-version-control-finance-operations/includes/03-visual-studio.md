@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 855b1935198620cbba54430a895ddecbc4c29cc35b423a3ac072d0919f43ceaf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 17aca98fbc3ca1b01826d144fb3528f41a7ae36b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053660"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071834"
 ---
 تشرح هذه الوحدة كيفية إيداع الكود، ودمج الكود، وحل التعارضات، والتراجع عن التغييرات في Visual Studio.
 

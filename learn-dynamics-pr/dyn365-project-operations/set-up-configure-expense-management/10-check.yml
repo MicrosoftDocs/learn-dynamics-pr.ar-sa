@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.set-up-configure-expense-management.10-check
-title: اختبر معلوماتك
+title: تحقق من مستوى معرفتك
 metadata:
-  title: اختبر معلوماتك
+  title: تحقق من مستوى معرفتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 11/30/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e5bfdf214c35b95e0cba8dd4da759ec7e94092e2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 24b8657a797cf8a5e8a055095ae697974b9e668f
+  ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361231"
+  ms.lasthandoff: 12/16/2020
+  ms.locfileid: "6072780"
 durationInMinutes: 8
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

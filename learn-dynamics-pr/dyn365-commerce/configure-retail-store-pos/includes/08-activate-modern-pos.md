@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 39607e7021e22f773f2855e5133633f5a9475920e390fd7e29083f28a340b0cf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0150ace4e553e35615b61a15185414fa780d2a7b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144289"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070179"
 ---
 تحتوي نقطة البيع الحديثة (MPOS) على إطار عمل ذاتي الخدمة يسمح للموارد غير الفنية بتثبيت السجلات جديدة وتنشيطها. 
 

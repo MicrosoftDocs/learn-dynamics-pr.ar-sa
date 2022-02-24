@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2a9325c2682455ba8e8b6bea60e987996d0a81a1a1c3baf8d7f0e2761faf1512
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ca22678d6a83eb0ee4db7eebc4d7d1a5f01f0a31
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144132"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070299"
 ---
 تمكن Dynamics 365 Commerce بائعي التجزئة من إنشاء خبرات رقمية باستخدام أدوات إنشاء وتطوير الويب المدمجة لإنتاج واجهات متاجر رقمية جذابة وذكية. كما تتيح منصة التسويق ومنصة Commerce غير المعنونة سلسة للمحتوى والأصول والعروض الترويجية والمخزون والتسعير. 
 

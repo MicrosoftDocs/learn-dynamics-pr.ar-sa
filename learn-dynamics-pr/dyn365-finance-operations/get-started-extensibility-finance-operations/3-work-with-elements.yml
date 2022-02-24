@@ -8,11 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 837b9b5bd5f61d6cdad0e41975296cda74665f79
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 12d9ae8acbe3224dbaaed8ae0fed3f5617e9f92a
+  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347956"
+  ms.lasthandoff: 03/19/2021
+  ms.locfileid: "6072540"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-work-with-elements.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 92028fd1b7172e820efaf50586856137b079cabaef42c1633c7b26215945c73d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2ecff4ed483daade7980891dfe0690a8880da452
+ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141511"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "6072547"
 ---
 توضح هذه الوحدة طريقة العمل مع مساحة عمل **إدارة البيانات** في تطبيقات Finance and Operations. 
 

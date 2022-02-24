@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 37cea03576ca4fdb8d3f8316973752d300f6ac763281f9809edaacc8920e1fcf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fd85ef7fb6676f9a223d58e62018ec2a671521c3
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079047"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072376"
 ---
 تشرح هذه الوحدة كيفية تكوين Visual Studio للاتصال بـ Team Foundation Version Control Services في Azure DevOps.
 

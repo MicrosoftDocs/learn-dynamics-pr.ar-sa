@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3acaba9c242337db4c6b4ccecc7ae492642ac3589ad0b5fd213ddc384f664641
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 213155b91f894c17347ce083e2cf8ae2b2742a72
+ms.sourcegitcommit: 606a7a063fe820fd318a57c61cae555d91de8c51
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060759"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "6070413"
 ---
 إطار عمل توزيع البيانات عبارة عن أداة للمقرات التجارية (HQ) تقوم بتعيين وتسهيل نقل مجموعات البيانات غير المتزامنة (في الوقت الفعلي) بين المقر التجاري (HQ) ومجموعات قواعد بيانات قنوات التجارة. يتم تكوين البيانات الرئيسية في Commerce HQ وتوزيعها على قنوات التجارة، وهو ما يسمى **تنزيل**. يتم إنشاء بيانات المعاملات في القنوات التجارية ثم يتم سحبها مرة أخرى إلى Commerce HQ، وهو ما يسمى **رفع**.
 

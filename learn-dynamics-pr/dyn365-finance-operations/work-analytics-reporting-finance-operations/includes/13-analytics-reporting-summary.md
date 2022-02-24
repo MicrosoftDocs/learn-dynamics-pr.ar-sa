@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cbed999d6ecda1ea34457418062c93cdda3ce269272f4750b397ef8cb4129b39
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 63bf13e3480dbb51ed7f846ffd61ada2aaa33e6b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136578"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071417"
 ---
 في هذه الوحدة النمطية، لقد تعرفت على أنواع مختلفة من التقارير والاستعلامات في تطبيقات Finance and Operations، بما في ذلك التقارير الجاهزة للتثبيت القياسي. تعلمنا أيضاً كيفية استخدام مصمم التقرير لتحديث تصميم التقارير المالية.
 

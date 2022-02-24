@@ -4,16 +4,17 @@ title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 02/05/2021
+  ms.date: 02/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d2c3afefd08808634df7aa4d5fa7476ce56f3208
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b043f5064f7eaa8eda7922350fc00a54da7f95ad
+  ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362712"
+  ms.lasthandoff: 04/21/2021
+  ms.locfileid: "6072558"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -28,7 +29,7 @@ quiz:
       explanation: يتم توزيع البيئات وإدارتها في Microsoft Dynamics‏ 365 Lifecycle Services.
     - content: Dataverse
       isCorrect: false
-      explanation: تُعد Dataverse جزءاً من Microsoft Power Platform، ولا يتم استخدامها لتوزيع بيئات Finance and Operations.
+      explanation: تُعد Dataverse جزءاً من Power Platform، ولا يتم استخدامها لتوزيع بيئات Finance and Operations.
     - content: AppSource
       isCorrect: false
       explanation: يتعذر توزيع البيئات في AppSource.

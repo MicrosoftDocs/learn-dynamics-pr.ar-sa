@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 656ba490d4fbfff64d15914b96ebb69ef5494da0
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: b774e0a0b273e5be7a8db767aa03969f257ddc79
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7366357"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072927"
 ---
 في هذا التمرين، ستقوم بإجراء سلسلة من مهام الوقت والمصروفات التي تستند إلى سيناريوهات واقعية متعددة من خلال مستخدمين مختلفين.
 
-يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations. يمكنك الوصول إلى بيئة تجريبية لـ Project Operations من خلال تحديد **الشروع في العمل** في الزاوية اليمنى العلوية من الصفحة [Dynamics 365 Project Operations‏‎](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
+يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations. يمكنك الوصول إلى بيئة تجريبية لـ Project Operations من خلال تحديد **الشروع في العمل** في الزاوية اليمنى العلوية من الصفحة [Dynamics 365 Project Operations‏‎](https://dynamics.microsoft.com/project-operations/overview//?azure-portal=true).
 
 ## <a name="task-1-assign-project-approvers"></a>المهمة 1: تعيين الموافقين على المشروع
 في هذه المهمة، ستقوم بتعيين **حساب مسؤول** و **سبنسر لو** بصفتهما الموافقين على المشروع، والذين سيوافقون على إدخالات الوقت أو المصروفات التي تم إرسالها.

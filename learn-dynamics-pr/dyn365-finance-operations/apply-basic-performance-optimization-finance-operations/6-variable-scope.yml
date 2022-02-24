@@ -4,16 +4,17 @@ title: تعديل نطاق متغير
 metadata:
   title: تعديل نطاق متغير
   description: تعرف على كيفية تعديل نطاق متغير في تطبيقات Finance and Operations.
-  ms.date: 06/02/2021
+  ms.date: 07/03/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bbbb55246cd8de0e19c3483ede816cd98fd7a84d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a13c0c729ca6592fa47a17763d6f6bb7f4c0f4a0
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339519"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071451"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

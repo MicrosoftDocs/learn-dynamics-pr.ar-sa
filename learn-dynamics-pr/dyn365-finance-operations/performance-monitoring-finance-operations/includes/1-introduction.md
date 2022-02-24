@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 189c66f4d93709ea5743be8c258743251ceb22b7b721e16a0f00fc60777b1ece
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 583638a9128d156606d7f1c3a7a8b93d41f7709b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7078980"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6072018"
 ---
 في تطبيقات Finance and Operations، تقوم بتشغيل مثيلاتك في البيئات السحابية، والتي تتطلب مراقبة الأداء. يحتوي تنفيذ Lifecycle Services ‏(LCS) الخاص بك على الكثير من الأدوات القابلة للاستخدام التي تساعدك على مراقبة وتتبع صحة النظام بشكل عام لكل بيئة.
 تساعدك هذه الأدوات في ملاحظة أي شيء قد يؤثر على أداء الخادم الخاص بك. من المهم مراقبة هذا بشكل منتظم للتأكد من عدم تغير أي شيء وأن كل شيء يبدو سليماً. 

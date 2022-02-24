@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4128f7516ea5d865ab01529509dc9f489af45c96943a8cb41c97cc30c5c483d1
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e91f39157a1dec56f07cad25a9b20d4ae79e1d62
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053731"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071591"
 ---
 يتيح لك تكامل التبادل الإلكتروني للمستندات (EDI) مع تطبيقات Finance and Operations إمكانية تنسيق حركات التبادل الإلكتروني للبيانات (EDI) بحيث تتوافق مع متطلبات شركائك المحددة.
 

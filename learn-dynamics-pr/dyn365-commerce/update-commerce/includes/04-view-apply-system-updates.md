@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1b461f5a1626039d2ed5aae918fd57736614a9a8
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 318fea3ad7562e4534391efcf7d278ef698b74d2
+ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350941"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6070528"
 ---
 لعرض التحديثات المتوفرة لبيئتك، اتبع الخطوات التالية:
 
@@ -40,7 +40,7 @@ ms.locfileid: "7350941"
 > [!NOTE]
 > كل تحديث أو حزمة تريد تطبيقها يجب أن يسبق تطبيقها بنجاح على بيئة إنتاج آلية واحدة على الأقل في نفس المشروع.
 
-للتعرف على المتطلبات الأساسية والخطوات لتطبيق تحديث على بيئة إنتاج، راجع [تطبيق التحديثات على مجموعة بيئات](/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system?azure-portal=true#apply-a-package-to-a-production-environment-by-using-lcs).
+للتعرف على المتطلبات الأساسية والخطوات لتطبيق تحديث على بيئة إنتاج، راجع [تطبيق التحديثات على مجموعة بيئات](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system#apply-a-package-to-a-production-environment-by-using-lcs/?azure-portal=true).
 
 ## <a name="update-a-commerce-scale-unit"></a>تحديث Commerce Scale Unit 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: be044030f7a8db7bf9622acf65c192981e97102ef979b9f6a45ce889234c2565
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 657cbd90c2390b258065ac22aa7dca9f8449d64b
+ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7129672"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "6072801"
 ---
 يمكنك تحديث طلب سلفة نقدية تمت الموافقة عليه مسبقاً. كما يمكنك تحديث طلب سلفة نقدية واحد أو طلبات متعددة في الوقت نفسه.
 

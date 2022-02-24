@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4727b449163b73889f23fc39a6738ac624030d44d17f1b742f92d9027fa1b64f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4cc36bec191f5653397342ebe822bd928b521fc6
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7142088"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072322"
 ---
 تتضمن هذه الوحدة العديد من المهام التي يمكنك إجراؤها باستخدام مساحة العمل المحمولة لإدارة الأصول.
 ستتعرّف على المزيد حول كيفية أداء هذه المهام في وحدات لاحقة في مسار التعليم هذا.

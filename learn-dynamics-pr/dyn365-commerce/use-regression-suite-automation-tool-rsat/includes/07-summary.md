@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 951958cbb7d947f99f140967f87a7f21bb73ef8d492b5b9413225a861f4afc03
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a9801d18fd0433f8d9b83eccec2e450af4367815
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095083"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070133"
 ---
 تعد RSAT أداة مفيدة إذا كنت ترغب في التحقق من صحة سيناريوهات الأعمال وإجراء الاختبار التلقائي قبل التوزيع إلى الإنتاج، وبصورة خاصة عند إكمال تخصيص النظام ووجود ميزات جديدة. 
 

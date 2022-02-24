@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b679e938bebe3967815fd96c97ae73753680a8158611d65ea509535328ac339
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e06be8f2a8c8106a465ddf3966d82e62a2e44ed1
+ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115007"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "6072762"
 ---
 عند إنشاء الموظفين تقرير مصروفات، يجب أن يقترن كل مصروف من المصروفات التي قاموا بتسجيلها بفئة مصروفات. 
 

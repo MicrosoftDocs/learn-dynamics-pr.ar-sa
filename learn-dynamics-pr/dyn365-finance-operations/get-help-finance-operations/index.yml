@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b81ad216d942edc05ae2b22649752bc232e3baa4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 87bb59646f6386cecefb44661b1ebe81c58d6a5f
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328213"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072190"
 title: الحصول على التعليمات ومعرفة المزيد حول تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات Finance and Operations. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- موقع مستندات Microsoft\n- التعليمات المضمّنة في المنتجات\n- كيفية تخصيص مواضيع التعليمات\n- حماية الخصوصية والبيانات الشخصية الخاصة بعملاءك\n"

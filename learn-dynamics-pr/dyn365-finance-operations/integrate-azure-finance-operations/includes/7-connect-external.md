@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 33ee54c33b1cc0c4165c23c48d49bbc0dacdc095b2005604a92099ec7f71532b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1f9fc6c8edf95ad94c0977d86b3089c410ea492d
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079094"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071962"
 ---
 بفضل كيانات البيانات وOData، يمكن توصيل تطبيقات Finance and Operations بالعديد من الخدمات الخارجية. ومع ذلك، للقيام بذلك، يجب تسجيل الخدمات باستخدام Azure Active Directory (Azure AD).
 

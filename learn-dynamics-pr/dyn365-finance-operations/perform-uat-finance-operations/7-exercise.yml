@@ -4,16 +4,17 @@ title: تدريب-إنشاء نصوص اختبارات لاختبار وظائف
 metadata:
   title: تدريب-إنشاء نصوص اختبارات لاختبار وظائف العمل
   description: تدرب على إنشاء نصوص اختبارات لاختبار وظائف العمل في تطبيقات Finance and Operations.
-  ms.date: 12/10/2020
+  ms.date: 04/05/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 955a40877650e66defe87ba488a332e02a575c98
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 46c5135f3a975ae7078e812283540450b2a8a85a
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347823"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071815"
 durationInMinutes: 25
 content: >-
   [!include[](../includes/unit-banner.md)]

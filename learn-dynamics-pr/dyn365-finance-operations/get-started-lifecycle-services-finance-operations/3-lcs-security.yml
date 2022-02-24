@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-with-lcs.3-lcs-security
-title: أمان Lifecycle Services
+title: أمان LCS
 metadata:
-  title: أمان Lifecycle Services
-  description: تصف هذه الوحدة كيفية إضافة المستخدمين إلى المشاريع داخل Lifecycle Services وأي المستخدمين قد يطلبون الوصول إلى ميزات معينة.
-  ms.date: 12/21/2021
+  title: أمان LCS
+  description: تصف هذه الوحدة كيفية إضافة المستخدمين إلى المشاريع داخل LCS وأي المستخدمين قد يطلبون الوصول إلى ميزات معينة داخل LCS.
+  ms.date: 02/07/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bf68cdf5cf8ebe953b2cc34512e1796d0feb37c1
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4be122991de245b30d001772a2af9e5cf875e653
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944518"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071598"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5902e897b2a2260d0c2d7755866e22480a5995ad8f95d659827bab2fda79384b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c971f2216838c97bc85eb17ac81b9ab75cdf8ae2
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7101571"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070065"
 ---
 تتيح RSAT لمستخدمي الطاقة الوظيفية تسجيل مهام العمل باستخدام ميزة "مسجل الاختبار" ثم تحويل التسجيلات إلى مجموعة من الاختبارات المؤتمتة دون الحاجة إلى كتابة كود مصدر. الهدف الأساسي من هذه الأداة هو تقليل مقدار الجهد اليدوي المطلوب لاختبار تحديثات النظام الجديدة لعمليات التوزيع الموجودة.  
 

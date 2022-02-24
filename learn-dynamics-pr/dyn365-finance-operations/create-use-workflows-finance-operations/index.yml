@@ -3,16 +3,17 @@ uid: learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops
 metadata:
   title: العمل مع مهام سير العمل في تطبيقات Finance and Operations
   description: تتطلب بعض المؤسسات الموافقة على عمليات معينة من قبل مستخدم آخر غير الشخص الذي يقوم بإدخال السجل. قد تتطلب عمليات سير العمل هذه الموافقة اليدوية أو الموافقة على سير العمل أو عدم الموافقة.
-  ms.date: 06/10/2021
+  ms.date: 03/10/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ddda33e36627eb919f0b05649b77fd42c7475e6a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 85fe5d32927c9b780b380571368a60a3a4146c95
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330199"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072232"
 title: العمل مع مهام سير العمل في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتتطلب بعض المؤسسات الموافقة على عمليات معينة من قبل مستخدم آخر غير الشخص الذي يقوم بإدخال السجل. قد تتطلب عمليات سير العمل هذه الموافقة اليدوية أو الموافقة على سير العمل أو عدم الموافقة. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- استخدم بنية سير العمل والعناصر والإجراءات \n- إنشاء وإعداد مهام سير العمل \n- تكوين خصائص سير العمل\n- تكوين مهمة يدوية في سير عمل\n- تكوين مهمة تلقائية في سير العمل\n- تكوين عملية الموافقة في سير العمل\n- تعيين مستخدمين لعناصر سير العمل\n- تكوين خطوة الموافقة في سير العمل\n- استخدام وظائف أصناف العمل\n"

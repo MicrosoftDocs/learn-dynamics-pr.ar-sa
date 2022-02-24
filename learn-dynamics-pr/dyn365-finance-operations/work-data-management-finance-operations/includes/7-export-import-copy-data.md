@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c789af8a08862af8e4f07a2ad2dc0e2a0516e768b4db0faac326074404c69cd
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3d67bc5d9e9efa8dbbbbf176f4bf36cf5024cec0
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068859"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071626"
 ---
 توضح هذه الوحدة كيفية نسخ البيانات في كيان قانوني وكيفية استيراد البيانات وتصديرها في تطبيقات Finance and Operations. 
 

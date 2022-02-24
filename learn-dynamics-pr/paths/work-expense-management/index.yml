@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: a7e4ddb5a848eb3c66531b2b302f216300dcfede
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9beaa8b447204c3b10bb39588882f9494ddeca90
+  ms.sourcegitcommit: 5cb6c3699007b81548c86148dcf9317dcafeec14
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363175"
+  ms.lasthandoff: 12/07/2020
+  ms.locfileid: "6074774"
 title: التعامل مع إدارة المصروفات في Dynamics 365 Project Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]

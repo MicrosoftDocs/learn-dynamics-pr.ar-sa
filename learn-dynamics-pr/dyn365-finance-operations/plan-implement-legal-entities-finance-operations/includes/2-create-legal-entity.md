@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2d53cd8df4f0a5b1f9b1b7346a602259152610e0a1bcd83b4a6d1d82313c4857
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 88d822ccc6b96c5eddc3a796a4a80f5cac4edce5
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130513"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071182"
 ---
 تناقش هذه الوحدة كيفية إنشاء كيان قانوني وإعداده للإدارة المالية، وهي المرحلة الأولى من التنفيذ. 
 

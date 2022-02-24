@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7247d9aa4cedcb55fb6520aec08c74677571df4e4a4212fe9c20f6670cd233a6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 844e1ab2eef69245d3fdeec9bf18effad2d22d1c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144358"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070344"
 ---
 يحتوي Dynamics 365 Commerce على العديد من صفحات المعلمات: 
 

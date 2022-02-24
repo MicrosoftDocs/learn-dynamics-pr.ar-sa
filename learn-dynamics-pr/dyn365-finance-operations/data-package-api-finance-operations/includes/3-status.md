@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 02b0d927148e9311192627741776110e89e2e199e48c05a3eaf6455efaf575d8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 75387301fdcec56fca00dfd813672c576ffbb510
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094419"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071232"
 ---
 يمكنك استخدام `GetExecutionSummaryStatus` لكل من مهام الاستيراد والتصدير. يستخدم هذا للتحقق من حالة وظيفة تشغيل مشروع البيانات. واجهة برمجة التطبيقات (API) هذه قابلة للتطبيق على عمليات النشر السحابية وعمليات النشر المحلية. ضع في اعتبارك أن الملف سيبقى في مساحة تخزين الكائنات الثنائية كبيرة الحجم لمدة سبعة أيام، وبعد ذلك سيتم حذفه تلقائياً.
 

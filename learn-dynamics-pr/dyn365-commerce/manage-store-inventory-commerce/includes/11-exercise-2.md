@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 83ce3e77a8c62ee054556dfce91c4e0b11381a4619af4f65eb12c750b638a75c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d5dbddabca0f89bf6f00e9eb377f3c8ecf44d31e
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095211"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070310"
 ---
 في هذا التدريب، ستقوم بشحن أمر التحويل الذي قمت بإنشائه في التدريب السابق. 
 

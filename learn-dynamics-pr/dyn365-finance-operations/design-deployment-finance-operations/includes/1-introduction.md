@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3311cd06d70de4e245f085763c824fbb0e80ec5b7459f0e5f0ea24b153739abf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1e4353a077a838abe04b53d5ce0b56bba67f6234
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136660"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071228"
 ---
 
 يعد تصميم توزيع الرمز والميزات أمراً مهماً لبداية التنفيذ ووسطه ونهايته. عندما تفكر في هذه المفاهيم في بداية التنفيذ، فإنها تنتقل إلى أنشطة ما بعد التشغيل ويمكنها إعداد المشروع بأكمله لتحقيق النجاح.

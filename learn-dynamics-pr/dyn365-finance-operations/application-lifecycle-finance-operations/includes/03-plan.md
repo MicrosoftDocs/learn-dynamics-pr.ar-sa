@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ff2d9e26987e7f6287238cbf2b1b0724c863006b17e9fae3bc75adff1df3ba3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c7ec9f0d5ff06014d3af55a560b6ef7d56654375
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131036"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071574"
 ---
 تستعرض هذه الوحدة عمليات التطوير المستخدمة لإدارة عمليات الإنشاء والاختبار ومراقبة الجودة، كما تُقدّم معلومات حول كيفية التخطيط لإدارة هذه العمليات.
 

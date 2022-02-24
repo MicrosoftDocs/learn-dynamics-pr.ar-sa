@@ -4,15 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: تلخص هذه الوحدة "الشروع في العمل" في "إدارة الأصول" للوحدة النمطية Dynamics 365 Supply Chain Management
-  ms.date: 12/15/2020
+  ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c78bd5c2d0d9dbd5759cbfed8edd74100b951fb9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 88a01d5bfa69adde6786acbcba6ee133cd339c32
+  ms.sourcegitcommit: c23f80e4732f19cd5136470607376672a2219ddb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352755"
+  ms.lasthandoff: 12/11/2020
+  ms.locfileid: "6072108"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-summary.md)]"

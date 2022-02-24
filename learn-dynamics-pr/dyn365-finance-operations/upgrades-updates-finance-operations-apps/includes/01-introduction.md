@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5fa50a0ee9e6c589299250767647867e0275a8cc965979c4d445133367e033e6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 511fab77e7abd54d13c0c5581628ab4eb470babd
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136590"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071458"
 ---
 يتم تحديد عمليات التحديث والترقية إلى أحدث إصدار من Finance and Operations على النحو التالي:
 

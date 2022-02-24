@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 38edb66daa78bf8807e93e0be1d42fb96f8fe31d7cef6755dcb6026377b36a99
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b4d2877302e66a84cc5fd75eb454201be50322ab
+ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7119776"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "6072767"
 ---
 يجب على المؤسسة اتخاذ القرارات والتصرف عند إعداد إدارة المصروفات خلال فترة التخطيط قبل التوزيع.
 

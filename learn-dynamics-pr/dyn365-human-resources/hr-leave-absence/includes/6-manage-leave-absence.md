@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eae0d1a857da54dc9dc009c3929fd6a1acc938a5417b87aa852441b8e2a26192
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 47c1918fe44461ea5c39edfedb84ece6f746c458
+ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099083"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214416"
 ---
 يمكنك إدارة طلبات الإجازات من مساحة عمل **الخدمة الذاتية للموظف** في Dynamics 365 Human Resources. قد تكون الطلبات عبارة عن طلبات بسيطة ليوم واحد أو طلبات متعددة الأيام تتضمن أنواعاً متعددة من الإجازات والغياب. إذا لم يتم تمكين سير العمل، تتم الموافقة على الطلبات تلقائياً. عند تمكين سير العمل، يمكن أن تكون الموافقة تلقائية أو تتطلب تسجيل الخروج، استناداً إلى تكوين سير العمل.
 

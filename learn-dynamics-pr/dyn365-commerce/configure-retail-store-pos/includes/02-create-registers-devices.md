@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 04dd97b5b0c65edb5ea9dd5d27f4bba1642d4261
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 65e48419211cae0d10378deee97326819fa48e55
+ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7366719"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "6070496"
 ---
 عند إنشاء متجر بائع تجزئة، يتعين أن يكون للمتجر موضعاً تتم فيه حركات البيع. هذا المكان هو سجل نقطة البيع. 
 
@@ -64,7 +64,7 @@ ms.locfileid: "7366719"
 
 على الرغم من أن هذه الميزة يمكن استخدامها لنقطة البيع الحديثة لنظام Windows ونقطة البيع الحديثة لنظام Android، بالإضافة إلى نقطة البيع السحابية ونقطة البيع الحديثة لنظام iOS، وهي غير مدعومة لوضع عدم الاتصال. لذلك، يتعين عدم استخدام هذه الميزة في سيناريوهات يقوم فيها عميل باستخدام وضع عدم الاتصال.
 
-راجع [معالجة بطاقات الائتمان بدون محطة أجهزة](/dynamics365/commerce/dev-itpro/cnp-pos/?azure-portal=true) للحصول على قائمة بالسيناريوهات المدعومة لعملاء نقطة البيع الذين لا يمتلكون محطة أجهزة مضمنة وسيناريوهات غير مدعومة.
+راجع [معالجة بطاقات الائتمان بدون محطة أجهزة](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/cnp-pos/?azure-portal=true) للحصول على قائمة بالسيناريوهات المدعومة لعملاء نقطة البيع الذين لا يمتلكون محطة أجهزة مضمنة وسيناريوهات غير مدعومة.
 
 ### <a name="set-up-the-pos-to-process-card-not-present-transactions-without-a-hardware-station"></a>قم بإعداد نقطة البيع لمعالجة حركات "البطاقة غير موجودة" بدون محطة أجهزة.
 

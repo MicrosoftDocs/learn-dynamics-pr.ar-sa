@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 9eceee8c2ded87427dd1d2b943d6b5007d82f2e0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: c65bd6f81dfa88eed7bf0537878c3203a6481ca1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7343515"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074552"
 title: بدء استخدام محاسبة التكاليف لسلاسل التوريد في Dynamics 365 Finance
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك. \n"
 prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n - القدرة على استخدام Finance للمعالجة الأساسية\n - الفهم العام لسيناريوهات الأمر إلى النقد\n - الفهم العام لسيناريوهات الشراء إلى الدفع\n - الفهم العام لتكاليف المخزون والمستودع \n - الفهم العام لتكاليف التصنيع\n"

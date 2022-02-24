@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1621d04207e65a3d0d4d3f8c9fba4106a5889e793b3f372633ba85a2a90bb15f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9bc5c6684d673303b5f9316229c0e398e0f37880
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105407"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072277"
 ---
 
 يأتي Visual Studio مع SysTest Framework الذي يسمح لك بكتابة كود اختبار الوحدة، ودمج الاختبارات، ثم تشغيل الاختبار لأتمتة اختبار الكود. يمكنك إعداد SysTest Framework لإنشاء اختبار وحدة نمطية من الكود. يمكنك أيضاً استيراد تسجيلات مسجل المهام إلى Visual Studio لإنشاء كود اختبار. يتم توفير مزيد من المعلومات حول مسجل المهام لاحقاً في هذه الوحدة النمطية.  

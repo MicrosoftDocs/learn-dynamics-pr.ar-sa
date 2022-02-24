@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 840fc97eaa23cdadde9eb1e25c3213662e1a02f201b6597f935c2e1e3cac0a16
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e38ef72b55e2c9ad450bd89e851fe1e1b1207030
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058997"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071423"
 ---
 
 تُستخدم مساحة العمل **قائمة التحقق من صحة البيانات** لتعقب عمليات التحقق من صحة البيانات أثناء تنفيذ جديد، أو بعد الترقية، أو بعد الترحيل.

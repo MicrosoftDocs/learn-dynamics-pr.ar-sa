@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4f75e3ae68dde97b7ef69fc0e2398c60e4979e864504299fd2538de053830fa7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b11c6d153b26fa6b070a22993ab6d13029568ae6
+ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099067"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214413"
 ---
 تحتاج إلى إنشاء خطة الإجازة في التمرين السابق لإكمال الخطوات اللاحقة بنجاح.
 

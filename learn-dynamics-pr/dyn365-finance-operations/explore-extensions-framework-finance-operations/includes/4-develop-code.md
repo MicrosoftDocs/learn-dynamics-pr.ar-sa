@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1400d741278fe61c6870a3997416062a3bc265661ceb07d3c43be89abb8ffcba
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1fc4649baafd88d5e0d0303de1bd2b8d1764209b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094282"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071363"
 ---
 عندما تحتاج إلى تغيير سلوك عنصر ما، فإنك تنشئ ملحقاً لذلك العنصر. تتطلب بعض العناصر كتابة تعليمات برمجية لتغيير سلوكها، مثل إضافة معالج الأحداث. في حالات أخرى، يمكنك إنشاء ملحق للفئة لتغيير تكوين العنصر.
 

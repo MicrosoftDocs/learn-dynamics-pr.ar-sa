@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6e5f01c508c6e94a7dc8f6a1f1e1269e860e6cc5e8a3ef73c30ace5fdb3fb8e6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 03f3d54eea7267d383bc396c9842534c2b9668d4
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144058"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070392"
 ---
 يمكن بدء عملية نقل البيانات يدوياً أو عن طريق جدولة وظيفة دفعية من خلال جدول التوزيع في المقر الرئيسي. يمكن أن يحتوي جدول التوزيع هذا على مجموعة بيانات قناة واحدة أو أكثر ووظيفة جدولة واحدة أو أكثر. عند توزيع حل التجارة، يتم إنشاء قاعدة بيانات افتراضية بشكل منهجي، ونوصي بتجنب إنشاء قاعدة بيانات ثانية أو إعادة تسمية القاعدة الافتراضية. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9b74271e8739c68a96d4bb6d141c073497b8650b
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: b97b2c92fa053d118757f5dab90434da4f813ecc
+ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7365875"
+ms.lasthandoff: 02/13/2021
+ms.locfileid: "6072258"
 ---
 إدارة دورة حياة التطبيقات (ALM) هي إدارة برامج الكمبيوتر، والتي تشمل إدارة المتطلبات وهندسة البرامج وتطوير البرامج وصيانة البرامج وإدارة التغيير والتكامل المستمر وإدارة المشاريع والإدارة التي تم إصدارها.
 
@@ -23,11 +23,11 @@ ms.locfileid: "7365875"
 في إطار مرحلة **تطوير**، سيعمل المطورون داخل بيئة المطور المعزولة الخاصة بهم باستخدام التحكم بالمصادر المُشغّل بواسطة Microsoft Azure DevOps لإدارة تعيين إصدار الكود. عندما يكون الكود جاهزاً، يمكنك نقل الكود إلى مرحلة الإنشاء. عند اكتمال الإنشاء وحل الأخطاء (حسب الحاجة)، يمكنك إنشاء **حزمة قابلة للنشر للتطبيق** ثم نشر الكود الخاص بك إلى اختبار قبول المستخدم (UAT) ضمن Lifecycle Services. عندما يتم اختبار الكود، يمكنك وضع علامة على الحزمة كمرشح إصدار للانتقال إلى الإنتاج. 
 
 > [!NOTE]
-> تتم إدارة بيئة التشغيل بالكامل بواسطة Microsoft. لذلك، بالنسبة لعمليات نشر خدمة تأجير البنية التحتية (IaaS)، فأنت بحاجة إلى إنشاء [طلب خدمة](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/submit-request-dynamics-service-engineering-team/?azure-portal=true) لكي تنقل Microsoft الكود إلى الإنتاج. 
+> تتم إدارة بيئة التشغيل بالكامل بواسطة Microsoft. لذلك، بالنسبة لعمليات نشر خدمة تأجير البنية التحتية (IaaS)، فأنت بحاجة إلى إنشاء [طلب خدمة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/submit-request-dynamics-service-engineering-team/?azure-portal=true) لكي تنقل Microsoft الكود إلى الإنتاج. 
 
-> بالنسبة لعمليات نشر الخدمة الذاتية، فإنها عبارة عن [نشر مباشر](/dynamics365/fin-ops-core/dev-itpro/deployment/updateenvironment-newinfrastructure/?azure-portal=true) بدون تدخل Microsoft. 
+> بالنسبة لعمليات نشر الخدمة الذاتية، فإنها عبارة عن [نشر مباشر](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/updateenvironment-newinfrastructure/?azure-portal=true) بدون تدخل Microsoft. 
  
-للحصول على مزيد من المعلومات، راجع [تنفيذ إدارة دورة حياة التطبيق في تطبيقات Finance and Operations](/learn/modules/application-lifecycle-finance-operations/?azure-portal=true).  
+للحصول على مزيد من المعلومات، راجع [تنفيذ إدارة دورة حياة التطبيق في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/application-lifecycle-finance-operations/?azure-portal=true).  
  
 
 ## <a name="azure-devops"></a>Azure DevOps
@@ -48,4 +48,4 @@ ms.locfileid: "7365875"
 
 ![صورة توضح مثال العملية من التطوير إلى الإنتاج.](../media/application-lifecycle-manage-2-c.png)
  
-لمزيد من المعلومات، راجع [عمليات التحكم بالمصادر](/learn/modules/explore-technical-architecture-finance-operations/4-source-control/?azure-portal=true).
+لمزيد من المعلومات، راجع [عمليات التحكم بالمصادر](https://docs.microsoft.com/learn/modules/explore-technical-architecture-finance-operations/4-source-control/?azure-portal=true).

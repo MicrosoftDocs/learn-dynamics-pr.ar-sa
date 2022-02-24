@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 73f0e8d605effb65e007ec238ca5641cfe5c7060e9ba918f6c86303dd9dce0ed
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 31d54c21f56a6f892f036e0402d24dfd911d9dec
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7074432"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072941"
 ---
 ملفات تعريف تكلفة المشروع والإيراد تحدد قواعد المحاسبة لحركات المشروع. ويتم تكوين ملفات التعريف في إدارة المشروع والمحاسبة.
 

@@ -8,11 +8,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b2a9dff87e7141d405341bd26c1d979e09aa4b72
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: a1f8b17364473cd01869c49cb13578cc9ad4f88c
+  ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353622"
+  ms.lasthandoff: 06/09/2021
+  ms.locfileid: "6214425"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-set-up-leave-absence.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b2c6a37675dd232f6139db7f264ec59064c78b2c09bbb4968a0ce219eb1a5d87
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fe6f37a41a2cc49d696a10ad7d3e4aca4bd2c060
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070366"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070095"
 ---
 طُلب من مطور Commerce توزيع موقع تجارة إلكترونية لإحدى الشركات. 
  

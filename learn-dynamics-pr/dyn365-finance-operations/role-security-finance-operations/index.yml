@@ -3,16 +3,17 @@ uid: learn-dynamics.role-security-dynamics-365-finance-operations
 metadata:
   title: تنفيذ الأمان المستند إلى الدور في تطبيقات Finance and Operations
   description: تستخدم تطبيقات Finance and Operations الأمان المستند إلى الدور لتعيين الوصول إلى المكونات في النظام. يكون لدى المستخدم الذي تم تعيينه لدور أمان حق الوصول إلى مجموعة الامتيازات المرتبطة بهذا الدور.
-  ms.date: 05/01/2020
+  ms.date: 07/08/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 74f2d540048c89d5de2c376218b6026e7f87318d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 70ceaae878e0412396272940ab7216581e2ca15f
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352707"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072212"
 title: تنفيذ الأمان المستند إلى الدور في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتستخدم تطبيقات Finance and Operations الأمان المستند إلى الدور لتعيين الوصول إلى المكونات في النظام. يكون لدى المستخدم الذي تم تعيينه لدور أمان حق الوصول إلى مجموعة الامتيازات المرتبطة بهذا الدور.   \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء الأدوار والواجبات والامتيازات والأذونات وتعديلها.\n- راجع التدرج الهرمي للأمان المستند إلى الدور.\n- استخدام سياسات الأذونات وفرضها.\n- تحديد إطار عمل أمان البيانات القابل للتوسيع (XDS).\n- تطبيق أذونات الأمان.\n"

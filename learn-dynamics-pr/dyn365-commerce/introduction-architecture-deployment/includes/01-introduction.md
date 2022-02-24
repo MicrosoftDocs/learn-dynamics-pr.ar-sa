@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8a42d6794f627ceaef83fc95adc2cd1e4014aaf96cc39eabf97c9e8cf62cd383
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 962e2aa8d54bfcaf78409cb4d3b5458c7d2abb74
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121947"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070141"
 ---
 تتضمن المفاهيم الأساسية في الحل Dynamics 365 Commerce ما يلي:
 

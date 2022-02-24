@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b14d849d9288bf0ec26ca3de344155681a5c36eed114cd57ebde100a4ed9ff0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fbfaf60adcd2bcf0d8e0bcd4aa53501c37a286b8
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144145"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070375"
 ---
 توجد القوالب في الجزء العلوي من التدرج الهرمي لنموذج صفحة التجارة الإلكترونية وتمثل خطوة مبكرة مهمة لتكوين الموقع. الهدف من القوالب هو ضمان الاتساق عبر التخطيطات والصفحات واللغات، خاصة لتجار التجزئة الذين يرغبون في ضمان اتباع أنماط التصميم وتكرارها وأن مؤلفي التصميم لا يقدمون أنماطاً مختلفة عبر الموقع. 
 

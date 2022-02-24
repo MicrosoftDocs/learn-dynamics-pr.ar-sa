@@ -4,16 +4,17 @@ title: إعادة استخدام الأصول الموجودة ونسخ البي
 metadata:
   title: إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها
   description: تصف هذه الوحدة كيفية إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها باستخدام مكتبات الأصول في Lifecycle services لتطبيقات Finance and Operations.
-  ms.date: 05/25/2021
+  ms.date: 02/07/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 149fc8371cdfd0edae7ec30a44627e633d3e8dc7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 54be0091d8f32204bc8c8266781b3ced885190d3
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332135"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071596"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2be9777b236d91eebb666a3311e53b91cb3d3d141bbb9b1225f4d2bcffca87ae
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4acbd0f256fa435b7d232076a2fa39c085737375
+ms.sourcegitcommit: 9627da72449ad33632dc3fb2143433c486496aaf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7101692"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "6070411"
 ---
 يعد مركز الاتصال إحدى قنوات Commerce التي تتيح للمستخدمين إنشاء أوامر مبيعات في المركز الرئيسي (HQ) في Dynamics 365 Commerce، والتي تستخدم ميزات متعلقة بخدمة Commerce. 
 

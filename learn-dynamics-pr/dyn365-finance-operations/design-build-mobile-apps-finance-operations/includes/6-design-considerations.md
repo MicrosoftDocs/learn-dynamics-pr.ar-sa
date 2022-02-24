@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6195f654fad2806b1df01e6cfbc8572e3c1eb1b3855cb010c5a6c45759ea888
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 736ae1cbfc9d1641e7b9d14a1d61d72796d3c1ae
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136696"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071711"
 ---
 يمكنك استخدام أساليب العرض لإظهار البيانات على الصفحات (كل من صفحات نوع القائمة وصفحات نوع التفاصيل). ومع ذلك، تحتاج لتذكر نقطتين أساسيتين عند استخدام أساليب العرض:
 

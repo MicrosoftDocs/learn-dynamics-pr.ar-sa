@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7fcf89b9eb2f26c46d3cec6e32e3b5be6c81db5f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e63c39adb1bf96649c82813f9debe59d715a4a51
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358085"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070092"
 title: نشر بيئات Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nنشر بيئة Dynamics 365 Commerce مختلف عن نشر بيئات Dynamics 365 العادية. يعد نشر Commerce Scale Unit والتجارة الإلكترونية، والتأكد من خطوات ما بعد التوفير الصحيحة في Commerce Headquarters من المكونات النموذجية لتطبيق Commerce. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيعاب نماذج التوزيع المتنوعة. \n- التعرف علي كيفية توزيع وحدات Cloud Scale Units في Dynamics Lifecycle Services ‏(LCS).\n- التعرف على كيفية توزيع التجارة الإلكترونية. \n- التعرف على التوزيع الجماعي.   \n"

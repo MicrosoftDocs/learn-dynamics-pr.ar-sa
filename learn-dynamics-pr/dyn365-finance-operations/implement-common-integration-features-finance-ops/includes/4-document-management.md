@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2fd2819666b73cb784cf9b14e6c8c722afdbead31d49f02c160c7780f11bec0f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bc1dfdf7f24d61591100a4f9e523aa6e28d7fb24
+ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079106"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6072642"
 ---
 تدعم إدارة المستندات حفظ مرفقات السجلات في مخزن Azure Blob وفي SharePoint عبر الإنترنت. وحده تخزين قاعدة البيانات قديمة. تعادل مساحة تخزين Azure Blob التخزين في قاعدة البيانات لأنه لا يمكن الوصول إلى المستندات إلا من خلال التطبيق، كما أنها توفر فائدة إضافية تتمثل في توفير مساحة تخزين لا تؤثر سلباً على أداء قاعدة البيانات. 
 

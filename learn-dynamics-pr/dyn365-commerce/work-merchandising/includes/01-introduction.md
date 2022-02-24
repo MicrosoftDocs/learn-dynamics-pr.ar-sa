@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 97699bbb1d4050febb521bef4d16308d804d5199a2b6b25dd1166d432af48df2
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d7763445d441acda98ed0e365f92dc78abfed6be
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7106331"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070198"
 ---
 يحتوي الحل Dynamics 365 Commerce على مجموعة ميزات قوية لترويج المنتجات والتي تعمل على تمكين المواءمة الاستراتيجية للمنتجات إلى الكيانات القانونية والقنوات والأسواق، كما تسمح باكتشاف المنتجات وتصنيفها للعملاء والموظفين. يعمل الحل Commerce على تسهيل عملية تبسيط إنشاء المنتجات وصيانتها من خلال قوالب وتجميعها لخفض حجم الوقت المستغرق في إدارة المنتجات.  
 

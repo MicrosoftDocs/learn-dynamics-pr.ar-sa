@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ce6244b5d149e1e2fccdba2fd295683f288fa73a6b3dad3cf5a296ba56ae1d15
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6ad3a4467bf0694b354feba288f2d0e5690a14dd
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068993"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072482"
 ---
 تتيح ميزة إحضار قاعدة بياناتك الخاصة (BYOD)‬ للمسؤولين تكوين قاعدة بياناتهم، ومن ثم تصدير كيان بيانات واحد أو أكثر إليها، وهي متوفرة في تطبيقات Finance and Operations. على وجه التحديد، تتيح لك هذه الميزة إكمال المهام التالية:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c21b675334b82619378102603381695bb71b4ac8f88dd8020e909feacee3e5e6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7f54ca352562573fdfd5b730ae5b35e99f250887
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094252"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071492"
 ---
 عند قيامك بتنفيذ كيانات البيانات، يكون الأداء عاملاً رئيسياً. تكون بنية الكيانات الخاصة بك أمراً أساسياً عندما يتعلق الأمر بالأداء.
 

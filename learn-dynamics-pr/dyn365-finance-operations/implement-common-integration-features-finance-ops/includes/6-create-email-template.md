@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5f2a0eaaabfe8116e7ec3c50e5a66178f9aa5bb8cc25a68346d7b01d15b1b585
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: efe1ce96bdc91c26be2278e336595d3d0ed4c0c4
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141985"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071944"
 ---
 باستخدام قوالب البريد الإلكتروني، سيكون بإمكانك توفير الوقت واستخدام نصوص قياسية عند إرسال البريد الإلكتروني. 
 

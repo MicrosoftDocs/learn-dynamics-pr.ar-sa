@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f37e42b42a5e23827622b9818901667a3cd8c4cca3223b9309fce2ab07f2e048
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1b72b03e310ad249dc5dae8bc2fbbe5d904f4120
+ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7106337"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "6070452"
 ---
 سمات المنتج، أو خصائص المنتج، هي نقاط بيانات يحددها المستخدم حول منتج يمكن أن تصف منتجاً معيناً بشكل أكبر، مثل نوع النسيج أو المادة التي تم تصنيعها منها. تختلف السمات عن أبعاد المنتج من حيث أنها لا تُستخدم للتمييز بين الأصناف الفريدة المخزونة. يتم استخدام السمات للحصول على المعلومات والبحث عن المنتج. 
 

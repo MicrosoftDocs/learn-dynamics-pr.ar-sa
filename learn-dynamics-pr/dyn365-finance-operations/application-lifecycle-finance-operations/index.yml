@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dcb3e6f73ffa3bbbd3ae341f4734e1dbd4765cc5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3fe98c80b131728e2c7a62b2bb5fcf5bd84322d9
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330228"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072218"
 title: تنفيذ إدارة دورة حياة التطبيق في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nإدارة دورة حياة التطبيقات (ALM) هي إدارة برامج الكمبيوتر، والتي تشمل إدارة المتطلبات وهندسة البرامج وتطوير البرامج وصيانة البرامج وإدارة التغيير والتكامل المستمر وإدارة المشاريع والإدارة التي تم إصدارها. تعرف على معلومات حول إدارة دورة حياة التطبيقات (ALM) لتخطيط التعليمات البرمجية وإنشاؤها واختبارها وتنفيذها لتطبيقات Finance and Operations. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد إدارة دورة حياة التطبيقات (ALM).\n- تعرف على منهجيات إدارة دورة حياة التطبيقات (ALM) المختلفة.\n- إنشاء النماذج.\n- إنشاء خطة مشروع لبناء الحلول واختبارها.\n- إنشاء عمليات لإدارة الإصدار وإدارة التغيير وإدارة المخاطر.\n"

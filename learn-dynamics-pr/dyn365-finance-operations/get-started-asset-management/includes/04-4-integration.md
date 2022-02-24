@@ -1,23 +1,24 @@
 ---
-ms.openlocfilehash: b2cf4ba131a81e4612044f36226bf1238e94cfd9
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 12fd01f11cc9cb33bec46acc31be08c5bb4d6f6d
+ms.sourcegitcommit: c23f80e4732f19cd5136470607376672a2219ddb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7335134"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "6072107"
 ---
 تقدم هذه الوحدة نظرة عامة حول عمليات التكامل المتوفرة مع إدارة الأصول.
 
 ## <a name="dynamics-365-field-service-integration-with-asset-management"></a>تكامل Dynamics 365 Field Service مع إدارة الأصول
 
-يعمل Supply Chain Management على تسهيل مزامنة تدفقات عمليات دورة الحياة مع Dynamics 365 Field Service. يتم تكوين عمليات التكامل باستخدام قوالب مكامل البيانات الموسعة وMicrosoft Dataverse. يمكن للمؤسسات الاستفادة من الإمكانات المجمّعة لإدارة الأصول وField Service وإدارة كل من الأصول الداخلية والخارجية. ويعتمد تكامل Field Service على وظيفة "العميل المتوقع إلى النقد" الحالية.
+يعمل Supply Chain Management على تسهيل مزامنة تدفقات عمليات دورة الحياة مع Dynamics 365 Field Service. يتم تكوين عمليات التكامل باستخدام قوالب مكامل البيانات الموسعة وMicrosoft Dataverse. يمكن للمؤسسات الاستفادة من الإمكانات المجمّعة لإدارة الأصول وField Service وإدارة كل من الأصول الداخلية والخارجية. ويعتمد تكامل Field Service على وظيفة "العميل المتوقع إلى النقد" الحالية. 
 
 يمكن استخدام القوالب القياسية لإنشاء مشاريع تكامل مخصصة، حيث يمكن تعيين حقول وكيانات قياسية ومخصصة إضافية لتعديل التكامل وتلبية احتياجات العمل الخاصة.
 
-تركز عملية التكامل الأولي بين Field Service وSupply Chain Management على تمكين فوترة أوامر العمل والاتفاقيات الموجودة في Field Service في Supply Chain Management. يبدأ التدفق المدعوم في Field Service، حيث تتم مزامنة المعلومات من أوامر العمل مع Supply Chain Management كأوامر مبيعات. في Supply Chain Management، تتم فوترة أوامر المبيعات لإنشاء مستندات فاتورة، كما هو موضح في الرسم التخطيطي.
+تركز عملية التكامل الأولي بين Field Service وSupply Chain Management على تمكين فوترة أوامر العمل والاتفاقيات الموجودة في Field Service في Supply Chain Management. يبدأ التدفق المدعوم في Field Service، حيث تتم مزامنة المعلومات من أوامر العمل مع Supply Chain Management كأوامر مبيعات. في Supply Chain Management، تتم فوترة أوامر المبيعات لإنشاء مستندات فاتورة، كما هو موضح في الرسم التخطيطي. 
 
 ![رسم تخطيطي يوضح نقاط التكامل بين Field Service وSupply Chain Management.](../media/field-service-integration-c.png)
 
+ 
 توفر الوظائف الإضافية للفنيين الميدانيين نتيجة تحليلات لمعلومات المخزون من Supply Chain Management، مما يسمح لهم بتحديث مستويات المخزون وإجراء عمليات نقل المواد. ويمكن للشركات التي تقوم بتثبيت البضائع المبيعة أو صيانتها الاستفادة من التحكم والرؤية بشكل أفضل لعملية المبيعات والخدمة الكاملة بالتكامل من المشاريع.
 
 يتمتع كل من Supply Chain Management وField Service بنقاط التكامل التالية:
@@ -30,14 +31,13 @@ ms.locfileid: "7335134"
 - تعديلات المخزون
 
 ## <a name="business-events-uptake-for-asset-management"></a>تنفيذ أحداث الأعمال لإدارة الأصول
-
 توفر ‏‫أحداث الأعمال‬ إطار عمل يسمح للأنظمة الخارجية بتلقي الإعلامات من Supply Chain Management. وباستخدام هذه الوظيفة، يمكن للأنظمة تنفيذ إجراءات العمل استجابةً لأحداث الأعمال عند تشغيل إجراءات العمل.
 
-لمزيد من المعلومات حول أحداث الأعمال، راجع وحدة [استهلاك أحداث الأعمال في تطبيقات Finance and Operations](/learn/modules/business-events-finance-operations/?azure-portal=true).
+لمزيد من المعلومات حول أحداث الأعمال، راجع وحدة [استهلاك أحداث الأعمال في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/business-events-finance-operations//?azure-portal=true).
 
-يتيح استخدام وظائف أحداث الأعمال مع إدارة الأصول للمستخدمين إمكانية الوصول إلى مستندات الأعمال من خلال الاستفادة من Microsoft Power Automate والتطبيقات المنطقية. ويتم تضمين مشغلات لطلبات الصيانة وتغييرات حالة أمر العمل في إطار عمل ‏‫أحداث الأعمال.
+يتيح استخدام وظائف أحداث الأعمال مع إدارة الأصول للمستخدمين إمكانية الوصول إلى مستندات الأعمال من خلال الاستفادة من Microsoft Power Automate والتطبيقات المنطقية. ويتم تضمين مشغلات لطلبات الصيانة وتغييرات حالة أمر العمل في إطار عمل ‏‫أحداث الأعمال. 
 
-![رسم تخطيطي يوضح كيفية حصول الأنظمة الخارجية على إعلامات من Supply Chain Management عبر Power Automate.](../media/business-events-c.png)
+![رسم تخطيطي يوضح كيفية حصول الأنظمة الخارجية على إعلامات من Supply Chain Management عبر Power Automate.](../media/business-events-c.png) 
 
 تشمل أحداث الأعمال المدعومة:
 
@@ -46,3 +46,5 @@ ms.locfileid: "7335134"
 - تم إنشاء أمر عمل الصيانة لطلب الصيانة.
 - تم الإبلاغ عن اكتمال أمر عمل الصيانة.
 - تمت جدولة أمر عمل الصيانة.
+
+

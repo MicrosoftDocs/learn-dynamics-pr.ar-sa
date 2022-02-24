@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c65031c458612cfad7f48d2fe1cf412fb887dd2f77858cd7e7ffdeeecbbebe5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0cfc5efd2d5f3eab625df6d9f04b5199678de80d
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130977"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071439"
 ---
 عند إدراج جدول ضمن عُقدة **مصادر البيانات** في الجزء الأيسر من نافذة مصمم النماذج، يمكن عندئذ استخدامه لإضافة حقول إلى عقدة **الشبكة** الخاصة بتصميم النمط. سيحدد النمط الذي تحدده وجود و/أو موقع الشبكة. يمكن أيضاً سحب الحقول الفردية من عقدة **الحقول** ضمن الجدول الفردي في عقدة **مصادر البيانات** إلى الجزء الأيمن في عقدة **الشبكة** تحت عقدة **التصميم**. 
 

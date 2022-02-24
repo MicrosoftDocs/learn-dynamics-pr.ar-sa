@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e277d3bae7cea7ef88f1ca504f9095271c43064881e26ab65ceccd7579f29d51
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: eef7d9d2334eb955c53ccc6f74016f1d26ec5ddb
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136684"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071700"
 ---
 يتوفر تطبيق Dynamics 365 Unified Operations للأجهزة المحمولة لأنظمة تشغيل الأجهزة المحمولة الأكثر شيوعاً. تحتاج إلى وجود مثيل لتطبيقات Finance and Operations وبيانات اعتماد مستخدم صالحة لتسجيل الدخول إلى التطبيق.
 

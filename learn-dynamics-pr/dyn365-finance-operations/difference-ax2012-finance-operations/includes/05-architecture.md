@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0900af9708863a506438a90acfa46d4773f8388f
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 374cc2902d812106dbe541829cd4235e32fe44aa
+ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7361519"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "6072207"
 ---
 Finance and Operations هو تطبيق لتخطيط موارد المؤسسة مُعاد تصوره يهدف تصميمه إلى التوزيع عبر السحابة، بمعني أنك ستجد اختلافات مهمة في البنية إذا كنت تقوم بالترقية من AX 2012. ونظراً إلى أن مؤسستك تبدأ الترقية إلى Dynamics 365، فإنك بحاجه إلى فهم اختلافات البنية هذه بحيث يمكنك اتخاذ قرارات ستساعد على تنفيذ الترقية بشكلٍ سلس قدر الإمكان. 
 
@@ -17,7 +17,7 @@ Finance and Operations هو تطبيق لتخطيط موارد المؤسسة م
 - **الأدوات** – يستخدم المطورون الآن Visual Studio لتطوير Dynamics 365.
 
     > [!NOTE]
-    > تشتمل الأجهزة الظاهرية التي يتم توزيعها في الإصدار 10.0.13 (تحديث النظام الأساسي 37) أو الإصدار الأحدث على Visual Studio 2017. يعد الإصدار 10.0.16 (تحديث النظام الأساسي 40) هو الإصدار الأخير مع دعم Visual Studio 2015. لن تتمكن الأجهزة الظاهرية التي تتضمن Visual Studio 2015فقط من التحديث إلى الإصدار 10.0.17 (تحديث النظام الأساسي 41). للحصول على مزيد من المعلومات، [راجع ميزات النظام الأساسي التي تمت إزالتها أو المهملة](/dynamics365/fin-ops-core/dev-itpro/get-started/removed-deprecated-features-platform-updates/?azure-portal=true).  
+    > تشتمل الأجهزة الظاهرية التي يتم توزيعها في الإصدار 10.0.13 (تحديث النظام الأساسي 37) أو الإصدار الأحدث على Visual Studio 2017. يعد الإصدار 10.0.16 (تحديث النظام الأساسي 40) هو الإصدار الأخير مع دعم Visual Studio 2015. لن تتمكن الأجهزة الظاهرية التي تتضمن Visual Studio 2015فقط من التحديث إلى الإصدار 10.0.17 (تحديث النظام الأساسي 41). للحصول على مزيد من المعلومات، [راجع ميزات النظام الأساسي التي تمت إزالتها أو المهملة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/removed-deprecated-features-platform-updates/?azure-portal=true).  
 
     AX لم تعد أدوات التطوير MorphX مستخدمة. يعمل المطورون الآن في بيئة المطورين الخاصة بهم. تتوفر كافة الأدوات التي يحتاج اليها المطور لتوسيع نطاق التطبيق ليناسب احتياجات مؤسستك في Visual Studio. Azure DevOps يتم استخدامه للتحكم في المصدر والإصدار. ومن الضروري مراعاة ترخيص Visual Studio للمطورين عند قيامك بالترقية إلى Dynamics 365. 
 
@@ -28,7 +28,7 @@ Finance and Operations هو تطبيق لتخطيط موارد المؤسسة م
     -   إعداد التكوينات ونسخها
     -   التكامل 
 
-    للحصول على مزيد من المعلومات، راجع [التعامل مع إدارة البيانات في تطبيقات Finance and Operations](/learn/modules/work-data-management-finance-operations/?azure-portal=true). 
+    للحصول على مزيد من المعلومات، راجع [التعامل مع إدارة البيانات في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/work-data-management-finance-operations/?azure-portal=true). 
 
 - **خادم التطبيق/النظام الأساسي للخدمات السحابية** – عند الترقية من AX 2012، لن تستخدم Windows Server بعد الآن؛ حيث إن Dynamics 365 يستخدم Azure compute. تم تحويل حزمة إدارة مدير عمليات مركز النظام إلى تمكين قياس تتبع الاستخدام، الذي يمنحك وMicrosoft القدرة على تتبع الأخطاء والمشاكل في التطبيق بسرعة ثم حلها بطريقه سريعة وشفافة. يتم دمج Application Object Server‏ (AOS) وعميل AX وموصل الأعمال في وقت التشغيل العام الذي يعمل على تمكين إمكانات REST وOData. إضافة إلى ذلك، تم تحويل كود تطبيق AX إلى مكدس التطبيق الذي تم تقسيمه إلى عدة حزم، بما في ذلك مجموعة التطبيق وأساسيات التطبيق والنظام الأساسي للتطبيق والمزيد.  
 
@@ -51,7 +51,7 @@ Finance and Operations هو تطبيق لتخطيط موارد المؤسسة م
 
 - **Compute‎** – يتم تشغيل جميع مكونات التطبيق لديك، بما في ذلك Application Object Server‏ (AOS) والدفعات وخدمات SQL Server Reporting Services (SSRS) في Azure compute.
 
-- **Lifecycle Services** – مدخل تعاون يوفر بيئة ومجموعه من الخدمات المحدثة بشكلٍ منتظم يمكنها مساعدتك على إدارة دورة حياه البرنامج الخاصة بعمليات التنفيذ. للحصول على مزيد من المعلومات، راجع [بدء العمل باستخدام Lifecycle Services لتطبيقات Finance and Operations](/learn/modules/get-started-lifecycle-services-finance-operations/?azure-portal=true). 
+- **Lifecycle Services** – مدخل تعاون يوفر بيئة ومجموعه من الخدمات المحدثة بشكلٍ منتظم يمكنها مساعدتك على إدارة دورة حياه البرنامج الخاصة بعمليات التنفيذ. للحصول على مزيد من المعلومات، راجع [بدء العمل باستخدام Lifecycle Services لتطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/get-started-lifecycle-services-finance-operations/?azure-portal=true). 
 - موصل تطبيقات **Finance and Operations** – يسمح بتكامل Microsoft Power Automate وPower Apps وdata integrator وAzure Logic Apps مع Finance and Operations. يمكن للتطبيق الخارجي استخدام المشغل والإجراءات المتاحة للتكامل معها.
 
 - تطبيق **Finance and Operations** – يتضمن ذلك النظام الأساسي لـ Dynamics 365 والتطبيق، الذي يسمح لك باستخدام وظائف التطبيق التبادلي واستخدام تطبيقات Dynamics 365 الأخرى مثل Dynamics 365 Commerce وDynamics 365 Supply Chain Management. قد تتضمن ميزة **نماذج الجهات الخارجية** حلول موردي البرامج المستقلين (ISV) الأخرى التي تساعدك على إثراء المنتج ليتناسب مع أعمالك. تشتمل ميزة **نماذج العميل** على تخصيصات خاصه بالعميل. وبشكلٍ أكثر تحديداً، تعد ميزة "نماذج العميل" ملحقات للتطبيق. ستتم تغطيه هذه المعلومات في وحدة لاحقه. 

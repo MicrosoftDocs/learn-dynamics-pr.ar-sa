@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc646ca030184ad4c43f40509d872cb5b6e0a7abb683bf0303c481198175dcce
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 45666997c297b84853ba9d3eb054386865e30bce
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7143961"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070144"
 ---
 Dynamics 365 Commerce هو حل كامل يسمح لك بالحصول على تجربة القناة متعددة الاتجاهات لتوفير المنتجات والخدمات للعملاء من خلال واجهة المتجر على الويب الخاصة بالتجارة الإلكترونية، أو متجر البيع بالتجزئة لـ، أو مركز الاتصال. 
 

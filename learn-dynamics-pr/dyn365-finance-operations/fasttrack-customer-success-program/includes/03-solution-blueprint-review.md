@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2379b77529f8499e18adbe4709f4f37d1925ec1a904f09bdfdd3042dd750e5a9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e1b9f3c8b3ad597416328ff1dc793f159b2cc279
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094230"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072276"
 ---
 يتم إجراء مراجعة مخطط الحل بواسطة مهندس الحلول في Microsoft الذي تم تعيينه للمشروع. يتم إجراء هذه المراجعة من خلال ورشة عمل، حيث يتم وصف تفاصيل العمليات التجارية ومتطلبات النظام، والتي سيقدم مهندس الحلول توصيات وإجراءات مقترحة للتنفيذ الأكثر كفاءة. تتم جدولة ورش العمل بشكل دوري أثناء التنفيذ، مما سيساعد المؤسسات فيما يلي: 
 

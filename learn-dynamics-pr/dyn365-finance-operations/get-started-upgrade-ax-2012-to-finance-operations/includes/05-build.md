@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6614857d1f7a08a2a6702a4a81f109aa5be5b594
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: bc48ca64a9b6b21c1edcf4e026870860a38d1eb1
+ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7324517"
+ms.lasthandoff: 02/13/2021
+ms.locfileid: "6072255"
 ---
 البناء عملية أخذ كود مصدر ثم إنتاج عناصر بناء يمكن للنظام تشغيلها، مثل الملفات الثنائية. في Dynamics AX2012، تختلف عمليات البناء عن عمليات البناء الموجودة في تطبيقات Finance and Operations. 
 
@@ -18,7 +18,7 @@ ms.locfileid: "7324517"
 
 لنشر الكود والتخصيصات لبيئة وقت تشغيل (عرض توضيحي أو بيئة اختبار معزولة أو الإنتاج)، تحتاج إلى إنشاء حزم قابلة للتوزيع للحل أو عملية التنفيذ. يمكن إنشاء الحزم القابلة للتوزيع باستخدام أدوات التطوير Visual Studio أو استخدام عملية أتمتة البناء المتوفرة في بيئات البناء. وتتم الإشارة إلى هذه الحزم القابلة للتوزيع كحزم تطبيق قابلة للتوزيع أو حزم AOT قابلة للتوزيع. 
 
-للحصول على مزيد من المعلومات، راجع [إنشاء حزم قابلة للتوزيع من النماذج](/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package/?azure-portal=true). 
+للحصول على مزيد من المعلومات، راجع [إنشاء حزم قابلة للتوزيع من النماذج](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package/?azure-portal=true). 
 
 ## <a name="build-triggers"></a>مشغلات البناء
 لتنفيذ عمليات البناء المؤتمتة، يمكنك استخدام أنواع متعددة من المشغلات:
@@ -30,7 +30,7 @@ ms.locfileid: "7324517"
 
 قبل تشغيل أي أنواع البناء، يجب إعداد Azure DevOps والتأكد من إعداد مشروعك وربطه بمشروع Lifecycle Services. عند اكتمال هذه الخطوات، ستحتاج إلى نشر الجهاز الظاهري الخاص بالبناء من داخل Lifecycle Services أو استخدام المندوب المستضاف من قِبل Microsoft. 
 
-للحصول على مزيد من المعلومات، راجع [أتمتة عمليات البناء التي تستخدم المندوبين المستضافين من قِبل Microsoft ومسارات Azure](/dynamics365/fin-ops-core/dev-itpro/dev-tools/hosted-build-automation/?azure-portal=true).  
+للحصول على مزيد من المعلومات، راجع [أتمتة عمليات البناء التي تستخدم المندوبين المستضافين من قِبل Microsoft ومسارات Azure](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-tools/hosted-build-automation/?azure-portal=true).  
 
 > [!NOTE]
 > يجب ألا يشتمل الجهاز الظاهري للبناء لديك على بيانات لأن هذا الجهاز الظاهري يجب ألا يتم استخدامه لأي أغراض أخرى. 

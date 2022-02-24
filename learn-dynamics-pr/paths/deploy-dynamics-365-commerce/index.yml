@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-commerce
-  ms.openlocfilehash: ff751137fbb1214ca13fc63c6fef0ca4104c7ff7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: b7d2433e22aea2dba57abe112d3cd28ac38d5ac7
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356616"
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074545"
 title: نشر وتوسيع Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]

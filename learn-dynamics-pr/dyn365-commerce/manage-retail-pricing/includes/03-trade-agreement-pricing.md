@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 07e870826f4bbb47f40d4181e66e038a3460777b
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e0134363f5a747e54f7cb5c6e5169748a498db24
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350953"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070379"
 ---
 تسمح الاتفاقيات التجارية بوضع طبقة فوق السعر الأساسي الذي تم تكوينه على المنتج الصادر للمساعدة في تحديد سعر بيع جديد. على عكس السعر الأساسي، تسمح الاتفاقيات التجارية بالتأريخ المستقبلي للأسعار ويمكن أن تحدد تاريخ انتهاء الصلاحية إلى الوقت الذي يجب أن تصبح فيه اتفاقية التجارة غير صالحة. 
 
@@ -21,5 +21,5 @@ ms.locfileid: "7350953"
 
 يمكن تطبيق سياسات التقريب الذكية على قواعد أسعار الفئات للسيناريوهات التي يحتاج فيها السعر المحسوب إلى اتباع تنسيق مثل **xx.98**، لجميع المنتجات. جميع الاتفاقيات التجارية التي تم إنشاؤها متاحة للمراجعة قبل ترحيلها. يمكن تحسين الاتفاقيات التجارية التي تمت مراجعتها باستخدام وظيفة Excel الإضافية. 
 
-لمزيد من المعلومات، راجع [Microsoft Office تكامل](/learn/modules/implement-common-integration-features-finance-ops/2-office/?azure-portal=true).
+لمزيد من المعلومات، راجع [Microsoft Office تكامل](https://docs.microsoft.com/learn/modules/implement-common-integration-features-finance-ops/2-office/?azure-portal=true).
 

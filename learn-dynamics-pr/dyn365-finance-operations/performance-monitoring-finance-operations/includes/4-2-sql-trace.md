@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8ac80430ea737b96f843d08df2041882b5415a42ed65c8b3a137226ffb4405e5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 80648dafc51ffccec3559ed5c7b669438b1be701
+ms.sourcegitcommit: 45337c216dae17eda3fd77996e054b20515eb8dc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120288"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "6072102"
 ---
 هناك أداة أخرى يمكن للمطورين استخدامها لاختبار الأداء وتشخيص مشكلات الأداء وهي SQL Profiler. يمكنك الوصول إلى أداة Profiler من خلال SQL Server Management Studio. يمكنك من هنا استغلال إمكانيات التتبع من جانب الخادم لأداة SQL Server Profiler لتصدير تعريف تتبع يمكنك استخدامه لإنشاء مجموعة تستخدم نوع مُجمع Generic SQL Trace. 
 > [!NOTE]

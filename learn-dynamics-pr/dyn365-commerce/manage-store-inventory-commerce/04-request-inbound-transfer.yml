@@ -4,15 +4,16 @@ title: عمليات المخزون الداخلي
 metadata:
   title: عمليات المخزون الداخلي
   description: تعرف على عمليات الجرد الواردة في Dynamics 365 Commerce.
-  ms.date: 04/26/2021
+  ms.date: 04/07/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 91685594d0c1eecdfd702ec2d969df04825e9f51
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 241d83fe17f77e4d4cb6a1a251f77de6cfbdc0a4
+  ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359952"
+  ms.lasthandoff: 04/07/2021
+  ms.locfileid: "6070493"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-request-inbound-transfer.md)]"

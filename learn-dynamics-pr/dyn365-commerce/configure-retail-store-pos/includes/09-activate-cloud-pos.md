@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6215d66d00e9d3a9efb3cd255d98452eba4145be3ecab1a6b4c72355e14875b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 04a2bebd851301a28a83a583b1dc7c67426f0328
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144263"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070358"
 ---
 لا يتطلب تنشيط نقطة بيع المجموعة (CPOS) سوى إدخال عنوان URL في مستعرض مدعوم على جهاز نقطة البيع. ويتم العثور على عنوان URL هذا في الحقل **عنوان URL لنقطة بيع المجموعة** في صفحة **البيع بالتجزئة والتجارة > إعداد القناة > إعداد نقطة البيع > الأجهزة**. يتم ملء هذا الحقل تلقائياً عندما تقوم بتعيين الجهاز على أنه **نوع التطبيق** من **Retail Cloud POS**.
  

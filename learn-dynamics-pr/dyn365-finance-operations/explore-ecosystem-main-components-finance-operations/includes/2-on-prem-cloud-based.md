@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 39da5d13c99e0ab9672731dd173a32cc6f525fb016a653e6e23866e01d3f5932
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 17bd2e69a2530f03a556806deff47b5250a3a064
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105450"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071690"
 ---
 يمكن توزيع تطبيقات Finance and Operations في السحابة، تطبيقات Finance + Operations (المحلية). بصفتك مطوراً، من المهم بالنسبة لك أن تفهم الفرق بين هذه البنى. اعتماداً على نوع الترحيل الذي تختاره مؤسستك، قد تختلف البنية وقدرات التطبيق.
  

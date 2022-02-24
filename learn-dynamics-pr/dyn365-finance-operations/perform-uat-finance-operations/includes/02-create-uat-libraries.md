@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 472db00e2f6db6fe4ae63e830e93f52e3a3f3110a49cfb7cb28b9f1e46bb6a5d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d9cd59c00bb981e9dafd6e98f0309cdd8aa27f80
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079030"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072438"
 ---
 أداة تكوين عمليات الأعمال (BPM) هي أداة LCS لوصف التدرج الهرمي للعمليات التجارية ومهام المستخدم. يتيح LCS أيضاً لشركاء Microsoft وعملائها كتابة وتوزيع مكتبات BPM عبر مشاريع LCS عن طريق مكتبة الأصول.
 

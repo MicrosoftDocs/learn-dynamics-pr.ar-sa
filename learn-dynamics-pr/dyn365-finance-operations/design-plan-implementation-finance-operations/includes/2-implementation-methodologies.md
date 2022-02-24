@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2ac3fc0c5f3d1195c6108f8e363e497c54a4a789750f3e7b950979eeedb977bf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1f5455720b66af24d17c19450b7554af9d79d0d6
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7048129"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071398"
 ---
 بصفتك مستشاراً وظيفياً لتطبيقات Finance and Operations، أنت بحاجة إلى إنشاء مستندات متطلبات الأعمال (BRD). يعمل المستشار الوظيفي بشكل وثيق مع مهندس الحلول. يعتبر مهندس الحلول خبيراً وتتمثل إحدى مسؤوليات مهندس الحلول في إجراء تحليل المتطلبات. مهندس الحلول هو الذي ينظم التعاون مع الفريق لإيجاد حل لمشكلة عمل العميل في شكل حلول بديلة أو إضافات عندما لا يمكن تلبية المتطلبات باستخدام الميزات الجاهزة في تطبيقات Finance and Operations.
 

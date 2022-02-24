@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6cf14221cddcd55f6e4d17ed4e5a20563a3cf084641f69ddacf2d63a825e96c7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bf64b9033c78cca13773aca9b5011d4a749bd52e
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079842"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070103"
 ---
 قد تظهر إمكانات النشر بطرق متعددة، سواء كانت إعداد CSU في الشبكة السحابية أو إعداد CSU الذي تتم استضافته داخل الشركة أو في مركز بيانات يعمل بواسطة العملاء. الإصدار الداخلي للحل يطلق عليه بيانات العمل الداخلية (LBD)، والتي يتم تطبيقها عندما يقوم الحل باستخدام بنية الخدمة، لكنها تظل في البيئة الداخلية الخاصة بالعميل. 
 

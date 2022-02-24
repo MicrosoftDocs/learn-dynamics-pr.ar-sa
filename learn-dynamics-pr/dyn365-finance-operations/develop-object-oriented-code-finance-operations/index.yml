@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 62ef7e39bdff20131ba2980dc347b404e71a57fc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 186308101996e6256211a8cfccb3fa04a4210a94
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339489"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072174"
 title: تطوير التعليمات البرمجية الموجهة للعناصر في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتُعد البرمجة الموجهة للعناصر (OOP) نموذج برمجة تم تصميمه حول الكائنات وكيفية التعامل معها. تناقش هذه الوحدة مفاهيم البرمجة الموجهة للعناصر حتى تتمكن من تطوير التخصيصات في تطبيقات Finance and Operations. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف أهمية البرمجة الموجهة للعناصر لتطبيقات Finance and Operations.\n- تعرف على أهمية الفئات المجردة والتوريث في البرمجة الموجهة للعناصر.\n- التعرف على الواجهات.\n- استخدم سلسله الأوامر (CoC).\n- تعرف على كيفية تنفيذ تحديد النطاق في كود X++.\n- حدد وقت استخدام المراجع والقيم.\n"

@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: b1a7954ee45e5178e03bedd773e0ec00075c8b78
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 01e84b19c1bcfee3a2e8cecf3dd9d04901113799
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7342551"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072311"
 ---
 تساعدك المهام في مرحلة التحليل في تقدير الجهد المطلوب للترقية. بالإضافة إلى ذلك، تساعدك المهام في إعداد خطة مشروع. قبل شراء تطبيقات Finance and Operations، يجب إكمال هذه الأنشطة. ومن خلال عرض نقطة بيانات حول الجهد والموارد التي ستحتاجها، يمكن أن تساعدك المهام في اتخاذ قرار شراء مستنير. 
 
 يمكن تقسيم مرحلة التحليل إلى إجراءات متعددة:
 
-1.  **مهام قائمة اختيار ما قبل الترقية** – يجب عليك تثبيت **قائمة اختيار ما قبل الترقية** كجزء من هذه العملية. يمكن استخدام قائمة الاختيار هذه لإدخال التفاصيل التي ستحتاجها لعملية الترقية. للحصول على مزيد من المعلومات، راجع [الترقية من AX 2012 – قائمة اختيار ما قبل الترقية من أجل ترقية البيانات](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/prepare-data-upgrade/?azure-portal=true).
+1.  **مهام قائمة اختيار ما قبل الترقية** – يجب عليك تثبيت **قائمة اختيار ما قبل الترقية** كجزء من هذه العملية. يمكن استخدام قائمة الاختيار هذه لإدخال التفاصيل التي ستحتاجها لعملية الترقية. للحصول على مزيد من المعلومات، راجع [الترقية من AX 2012 – قائمة اختيار ما قبل الترقية من أجل ترقية البيانات](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/prepare-data-upgrade/?azure-portal=true).
 
 2.  **تشغيل أداة محلل الترقية** – حدد مهام التحضير في Dynamics AX 2012، استناداً إلى خدمة تشخيص Lifecycle Services، ثم قم بإنشاء فئات المهام التي يمكنها تحديد العناصر التالية:
 
@@ -47,7 +47,7 @@ ms.locfileid: "7342551"
         > إذا تركت خانة الاختيار هذه غير محددة، فسيتم إيداع الكود المتراكب الذي تمت ترقيته إلى Microsoft Azure DevOps. 
   
     8.  حدد **إنشاء**. 
-    9.  بعد إنشاء الوظيفة الجديدة، ستحتاج إلى إضافة مخزن النماذج الخاص بك. لمزيد من المعلومات، راجع [الكيفية: تصدير مخزن النماذج واستيراده](/dynamicsax-2012/developer/how-to-export-and-import-a-model-store?redirectedfrom=MSDN/?azure-portal=true).
+    9.  بعد إنشاء الوظيفة الجديدة، ستحتاج إلى إضافة مخزن النماذج الخاص بك. لمزيد من المعلومات، راجع [الكيفية: تصدير مخزن النماذج واستيراده]( https://docs.microsoft.com/dynamicsax-2012/developer/how-to-export-and-import-a-model-store?redirectedfrom=MSDN/?azure-portal=true).
     10. حدد **إضافة ملفات** في الزاوية السفلية اليمنى من الصفحة. 
     11. استعرض وصولاً إلى الملف ثم حدد **تحميل**. 
     12. حدد **تحليل الكود** في الزاوية السفلية اليسرى.
@@ -59,7 +59,7 @@ ms.locfileid: "7342551"
     تعرض لقطة الشاشة التالية مثالاً على الإخراج من أداة ترقية الكود. يتم إنشاء العديد من ملفات Excel للتحليل. 
     [ ![ لقطة شاشة للعديد من ملفات تحليل Excel من أداة ترقية الكود.](../media/code-update.png) ](../media/code-update.png#lightbox)
 
-    لمزيد من المعلومات، راجع [تقدير الجهد باستخدام خدمة ترقية الكود](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/analyze-code-upgrade/?azure-portal=true) [والتحضير لترحيل الكود إلى Finance and Operations](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/prepare-migration/?azure-portal=true).
+    لمزيد من المعلومات، راجع [تقدير الجهد باستخدام خدمة ترقية الكود]( https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/analyze-code-upgrade/?azure-portal=true) [والتحضير لترحيل الكود إلى Finance and Operations]( https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/prepare-migration/?azure-portal=true).
 
     **نتائج** > **ترقيه الكود** – توفر تقرير ملخص **الترحيل**، حيث ستجد ملخص تحليل الكود، بما في ذلك معلومات التخصيص. 
 
@@ -73,13 +73,13 @@ ms.locfileid: "7342551"
     
 
 4.  **ترقيه الكود** – **كود الجهة الخارجية** - إذا كانت لديك حلول شريكة أو ‏‫‏‫‏‫موردو البرامج المستقلون (ISV)‬، فتجاهل إخراج ترقية الكود لهم واتصل بالشريك للحصول على إصدار من Finance and Operations.
-5.  **تحليل ‏‫‏‫الفروق والملاءمة‬ في بيئة الاختبار المعزولة** - استخدم Lifecycle Services لنشر بيئات الاختبار المعزولة لـ Finance and Operations. في مشروع **معاينة** Lifecycle Services، انشر بيئة عرض توضيحي في اشتراكك بعد إعداد موصل Microsoft Azure. أثناء وجودك في مشروع تنفيذ عميل Lifecycle Services، يمكنك نشر بيئة الاختبار المعزولة التي تعد جزءاً من العرض القياسي. بعد اكتمال هذه المهمة، قم بإجراء تحليل الفروق والملاءمة، خاصةً حول الميزات الجديدة والمهملة. لمزيد من المعلومات، راجع [الترقية من Dynamics AX 2012 - نشر بيئة العرض التوضيحي للتحليل](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/analysis-sandbox?azure-portal=true&toc=dynamics365%2Funified-operations%2Ffin-and-ops%2Ftoc.json).
+5.  **تحليل ‏‫‏‫الفروق والملاءمة‬ في بيئة الاختبار المعزولة** - استخدم Lifecycle Services لنشر بيئات الاختبار المعزولة لـ Finance and Operations. في مشروع **معاينة** Lifecycle Services، انشر بيئة عرض توضيحي في اشتراكك بعد إعداد موصل Microsoft Azure. أثناء وجودك في مشروع تنفيذ عميل Lifecycle Services، يمكنك نشر بيئة الاختبار المعزولة التي تعد جزءاً من العرض القياسي. بعد اكتمال هذه المهمة، قم بإجراء تحليل الفروق والملاءمة، خاصةً حول الميزات الجديدة والمهملة. لمزيد من المعلومات، راجع [الترقية من Dynamics AX 2012 - نشر بيئة العرض التوضيحي للتحليل](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/analysis-sandbox?toc=dynamics365%2Funified-operations%2Ffin-and-ops%2Ftoc.json%2F%3Fazure-portal%3Dtrue/?azure-portal=true).
 6.  **إنشاء خطة مشروع** - سيتم توفير قالب مشروع في منهجية Lifecycle Services. يمكنك استخدام الإخراج من تحليل عمليات الترقية لتقدير جهد تحضير Dynamics AX 2012، وترقية الكود لتقدير جهد التطوير، وتحليل الفروق والملاءمة في بيئة الاختبار المعزولة لمعرفة ما إذا كانت هناك حاجة إلى تخصيصات جديدة.
 
-    نظراً لأن تطبيقات Finance and Operations هي تطبيق سحابة يتم تحديثه باستمرار، يمكنك الآن تعديل التطبيق باستخدام الملحقات. تعتبر طريقة التطوير هذه أقل تدخلاً، مما يساعد في تسهيل حصولك باستمرار على التحديثات من Microsoft. لمزيد من المعلومات، راجع [الصفحة الرئيسية لقابلية التوسعة](/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-home-page/?azure-portal=true).
+    نظراً لأن تطبيقات Finance and Operations هي تطبيق سحابة يتم تحديثه باستمرار، يمكنك الآن تعديل التطبيق باستخدام الملحقات. تعتبر طريقة التطوير هذه أقل تدخلاً، مما يساعد في تسهيل حصولك باستمرار على التحديثات من Microsoft. لمزيد من المعلومات، راجع [الصفحة الرئيسية لقابلية التوسعة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-home-page/?azure-portal=true).
 
     قد تكتشف أن بعض التخصيصات لا يمكن تحقيقها عن طريق الملحقات، وهو ما كان ممكناً مع تراكب الطبقات. قدمت تطبيقات Finance and Operations العديد من إمكانيات الملحقات للسماح بمتطلبات الأعمال نفسها دون تراكب الطبقات. ستحتاج إلى توثيق طلبات تخصيصات معينة تم إجراؤها باستخدام تراكب الطبقات لجعل Microsoft على دراية باحتياجاتك. 
 
-    لمزيد من المعلومات، راجع [‏‫طلبات القابلية للتوسعة‬](/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-requests/?azure-portal=true) وقم [بتكوين خدمة ترقية الكود في خدمات Lifecycle Services.](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/configure-execute-code-upgrade/?azure-portal=true)
+    لمزيد من المعلومات، راجع [‏‫طلبات القابلية للتوسعة‬](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-requests/?azure-portal=true) وقم [بتكوين خدمة ترقية الكود في خدمات Lifecycle Services.](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/configure-execute-code-upgrade/?azure-portal=true)
 
 

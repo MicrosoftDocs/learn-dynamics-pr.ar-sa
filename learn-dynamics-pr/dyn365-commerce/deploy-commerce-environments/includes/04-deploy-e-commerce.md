@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6d7c15289cb30480adb0f480efa8c4349fd3bf9640305305bcc78c2aa18265da
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1f5a2a46d250da25f262ff187a73388374cb0ec6
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070377"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070106"
 ---
 
 ميزة مرخصة بشكل منفصل، لا يتم تضمين e-Commerce لـ Dynamics 365 Commerce في ترخيص Dynamics 365 Commerce. 

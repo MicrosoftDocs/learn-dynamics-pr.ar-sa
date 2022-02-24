@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 539e2e53c7cb354b1825be4941bef8dc44b18e19ae7dc6407801dd24b0ecc9a3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ef9e13dfd0e8958ec6f1257f102126b9697ab88d
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144234"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070405"
 ---
 الغرض من إمكانات إدارة الأوامر الموزعة (DOM) في Commerce هو مساعدة بائعي التجزئة على تلبية توقعات العملاء من خلال تحقيق الكفاءة في عملية سلسلة التوريد الخاصة بهم. يمكن أن يساعد هذا الإنجاز بائعي التجزئة في إدارة الأوامر بشكل ذكي من خلال تنفيذها بدقة، وفي الوقت المناسب، وبتكلفة فعالة. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 18e064dd12a3ad3fbf42f9bc86ecdaf68a2d97aefd5b430ecd08cf777272be40
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bed21eed444e12bad89a44c66450106c1281c4b0
+ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7110769"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "6070464"
 ---
 بشكل عام، يعني *الانتماء* الارتباط بمجموعة ما أو الاقتران بها. وفي التجارة، يعني الانتماء مجموعة من العملاء. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6bb1c687786dc63db963915c548c30943b6a8c3166bb7994370363b166095816
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8440d3a13bb28155dca8ae7e377d29816c01f576
+ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141081"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214429"
 ---
 Microsoft Dynamics 365 Human Resources يساعدك على توفير مزايا إجازة تنافسية ومرنة لموظفيك. توفر مساحة العمل **الإجازة والغياب** مهام سير عمل لإدارة الطلبات وصفحة خدمة ذاتية بديهية للموظفين لطلب إجازة. تساعد التحليلات مؤسستك على قياس ومراقبة أرصدة الإجازات والاستخدام لخطط الإجازات الخاصة بك.
 

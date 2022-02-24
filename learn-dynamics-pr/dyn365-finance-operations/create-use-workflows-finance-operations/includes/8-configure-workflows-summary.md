@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 97c85e59fa30bd7a9ab3c390cd8724f970f4392e0e2f44aa77c9ea206a75d6ce
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 725f7c021b2d3da52208601e036f1d4b8298ab2f
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094437"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071411"
 ---
 تعلمت في هذه الوحدة النمطية أن تحديد نوع سير عمل معين يسمح للشركة بالتحكم في كل خطوة تخطوها أثناء العمليات الهامة. كما تعلمت أيضاً أنه يمكن استخدام مهام سير العمل كخطوات إجرائية تستخدم الموافقات للعديد من أنواع دفاتر اليومية. 
 

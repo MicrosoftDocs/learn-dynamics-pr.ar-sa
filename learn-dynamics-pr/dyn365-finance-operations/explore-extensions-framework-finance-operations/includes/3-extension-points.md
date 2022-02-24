@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e0001c524e4a2a0d675f276d853151f99ca1e56ad42c0615caa654e4996aed7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3f645a5471b6f0947fbb2bd5d1e34a125d6a2e9b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075259"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071865"
 ---
 
 عندما يحتاج التغيير إلى أن يتم نشره من خلال التطبيق بأكمله، يجب عليك إنشاء ملحق لهذا العنصر لتعديل الخصائص أو المكونات.

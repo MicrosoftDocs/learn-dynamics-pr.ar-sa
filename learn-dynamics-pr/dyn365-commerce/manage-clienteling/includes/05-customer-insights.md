@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dcd3e29bf43540c9458a9d721bef18e0095ee3f2e9190e38998202494c2ed42f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 502070556b7556e2c16bbf5728d697e069a58ffd
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070307"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070274"
 ---
 يمكن لبائعي التجزئة استخدام Dynamics 365 Customer Insights لجمع البيانات حول العملاء من أنظمة مختلفة ودمجها حيث يتفاعلون مع العلامة التجارية لبائع التجزئة، سواء كانت الأنظمة تطبيقات Dynamics 365 أم لا. يتم بعد ذلك تجميع هذه البيانات في عرض واحد للعميل في الوقت الفعلي بحيث يمكن اشتقاق المعلومات من سلوكه. 
 

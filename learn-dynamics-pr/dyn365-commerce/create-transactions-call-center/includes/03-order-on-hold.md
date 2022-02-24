@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 877a89adf848b43bf7f808fb2246bcbdba9fc08115e5973548606d4258899b0d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a9e4d048383ff9176f24bd4a0a55397912a0e095
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131899"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070244"
 ---
 تتيح لك عملية حجز الأمر إنشاء أكواد تعليق وأكواد أسباب محددة من قبل المستخدم، إلى جانب التفاصيل المرتبطة بوقت ومن الذي وضع الطلب قيد الانتظار عليه. يمكن استخدام هذه الميزة لمنع الطلبات من المزيد من التنفيذ والمعالجة عن طريق وضع رمز حجز على الطلب.
 

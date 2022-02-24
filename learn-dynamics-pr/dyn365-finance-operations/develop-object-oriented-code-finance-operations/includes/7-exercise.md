@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c63c735bb07bcee1ae3b1f8e88f4c5fa8d03bb57607a49c47947b3422d7d51f4
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 22351494de50ff3e2fdb8e156e1075159b3b1439
+ms.sourcegitcommit: 45337c216dae17eda3fd77996e054b20515eb8dc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094337"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "6072099"
 ---
 أنت مطور يجب عليه أن يقوم بإجراء تخصيص لأسلوب إدراج `CustTable`. عند إنشاء العميل، إذا كان التقدير الائتماني للعميل أقل من 200، فيجب حظر العميل لجميع عمليات التسليم والفواتير. يجب أن تظهر مطالبة لتنبيه الشخص الذي يقوم بإدخال تفاصيل العميل. 
  

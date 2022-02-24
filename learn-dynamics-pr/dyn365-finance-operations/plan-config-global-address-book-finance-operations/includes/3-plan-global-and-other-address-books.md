@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8ed8784f6789ec5eebb856bb839db7576d4c4da95ccfcdd95e0de6e8d5c70c1c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 48237591f8792e0a7d9d36fae811e62a5d77d7a1
+ms.sourcegitcommit: 6d878af45b3cea618d7cf3fcd9a2f9a06675210d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7063986"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "6072129"
 ---
 تحتاج إلى التفكير في العديد من السيناريوهات عند اتخاذ قرارات أثناء عملية التخطيط، قبل إعداد وتكوين دفتر العناوين العام وأي دفاتر عناوين إضافية في تطبيقات Finance and Operations. ستتطلب بعض القرارات تأكيد القرارات التي تم اتخاذها لمناطق أخرى من المنتج، مثل التدرج الهرمي للمؤسسات.
 

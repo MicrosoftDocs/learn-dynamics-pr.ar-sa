@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c7b5984fe89a47b9f9fe5601161a6b057f06dd556ee144fc6e5169e79de4ca54
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f69f39d196041008e603bd470604a7e04b87772c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070423"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070352"
 ---
 أنت مسؤول النظام في شركة Fabrikam وتحتاج إلى التحقق من مزامنة أمر عميل معين مع المركز الرئيسي لـ Commerce (HQ). في هذا التمرين، سوف تتحقق من مزامنة الأمر عبر الإنترنت الذي تم إنشاؤه في التمرين السابق بنجاح في المركز الرئيسي.
 

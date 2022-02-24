@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d012cd863ff8ff28afd93c203f7ae8136e66272e33b1e8936879417285796604
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 682fc3b64e65204e2d7d83c8e55f0e55564c61ff
+ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7140606"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "6072842"
 ---
 يستخدم Dynamics 365 Project Operations بعض الوظائف التالية المستخدمة في عملية المبيعات:
 

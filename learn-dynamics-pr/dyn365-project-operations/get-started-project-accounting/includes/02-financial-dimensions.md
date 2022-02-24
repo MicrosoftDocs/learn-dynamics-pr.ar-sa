@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: e6fdaca4b3264766b2a44c0de1886a4de4052a2c
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: df5639e65f8feb1d68d29dfd86376d543bdcadc0
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7359673"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072947"
 ---
-يستخدم Project Operations إطار عمل [الأبعاد المالية](/dynamics365/finance/general-ledger/financial-dimensions/?azure-portal=true) في Dynamics 365 Finance لتوفير رؤى إضافية بشأن معاملات دفتر الأستاذ العام ودفتر الأستاذ الفرعي للمشروع.
+يستخدم Project Operations إطار عمل [الأبعاد المالية](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions/?azure-portal=true) في Dynamics 365 Finance لتوفير رؤى إضافية بشأن معاملات دفتر الأستاذ العام ودفتر الأستاذ الفرعي للمشروع.
 
 يمكن إعداد الأبعاد المالية الافتراضية في العميل أو مصدر تمويل المشروع أو الحدث الرئيسي أو بند عقد المشروع أو المشروع.
 

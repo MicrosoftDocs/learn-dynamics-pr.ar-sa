@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bd6dc29c52d5725e13957af1f149c5a9ddd3c0d8e583ece5313edd7d0ef16c1f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a63741276f77ec870c92981235d971d322c055a2
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7063810"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071303"
 ---
 باستخدام أداة ترحيل يمكنك تثبيتها في AX ‏2009، يمكنك ترحيل البيانات من AX ‏2009 دون ترقية كاملة للبيانات. وتتيح لك هذه الأداة تصدير البيانات من AX ‏2009 بالتنسيق الخاص بـ Finance and Operations. 
 

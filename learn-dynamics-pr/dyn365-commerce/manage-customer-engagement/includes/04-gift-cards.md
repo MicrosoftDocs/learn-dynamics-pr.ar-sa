@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 19fc48f1bc7993a271ec8278f961b0f9cc4d7e7bf943b8e974912af207f2fa81
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f1926d6782dc7831016af19024904864b835a658
+ms.sourcegitcommit: 3d984582e4fe316c7b6725a5de93570693cd67e3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095317"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "6070470"
 ---
 توفر Commerce لبائعي التجزئة القدرة على إصدار واستيراد بطاقات الهدايا. يمكن أن تكون هذه البطاقات بطاقات هدايا مادية يتم إصدارها من نقطة البيع أو بطاقات هدايا إلكترونية يتم إصدارها من خلال مركز الاتصالات أو موقع e-Commerce. يمكن تجديد أموال بطاقات الهدايا في نظام Retail POS. يمكن استرداد بطاقات الهدايا في كل قناة Commerce، وهي في هذا المشهد، عامل تمكين إضافي لميزة القناة متعددة الاتجاهات للمدفوعات الكلية في Commerce. 
 

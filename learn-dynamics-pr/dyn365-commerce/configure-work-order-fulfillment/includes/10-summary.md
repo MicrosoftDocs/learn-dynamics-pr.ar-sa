@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f2d75beed55940fd62b90f60240c17abdbf47e124123f71328ff5c94c86efbb6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 74bdb5fe41b248566aa5a91dfbf8784838a1713e
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7049116"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070052"
 ---
 تُعد إدارة الأوامر الموزعة (DOM) في التجارة حساباً مستنداً إلى القواعد لتحديد أفضل طريقة لاستيفاء أمر العميل مع الحفاظ على كفاءة التكلفة لبائع التجزئة وتوفير تجربة تسوق سلسة للعميل من خلال التسليم في الوقت المناسب. والغرض الأساسي منها هو تحسين كيفية إدارة بائعي التجزئة لأوامر العملاء والمخزون عبر أعمالهم. 
 

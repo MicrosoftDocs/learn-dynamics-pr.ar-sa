@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 07448a650ffdd71e2403c83a46bbc2375555dd13a042610eeb6a533633b0e843
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 59f6e8f2410a857b188e218ac554f3d9e190f3d7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079830"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070099"
 ---
 يمكنك اتباع خطوات ما بعد التزويد لإنهاء توزيع بيئة التجارة الإلكترونية الخاصة بك وتكوينها. ‫يُعد منشئ الموقع بمثابة البيئة الخاصة بك حيث يمكنك إنشاء المواقع وإدارتها وحيث يمكنك تحميل الأصول الرقمية الخاصة بك وإدارتها.
  

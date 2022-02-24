@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac40980a9f3380b2e90d32cb4c4f367bbc996ae2
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 04ae7d6e8e90dc3973526a0199c40c914745b516
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7332093"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071293"
 ---
 تتيح لك عمليات أتمتة مهام البيانات في تطبيقات Finance and Operations تكرار العديد من أنواع مهام البيانات والتحقق من نتيجة كل مهمة. تُعد أتمتة مهام البيانات مفيدة للمشاريع الموجودة في مرحلة التنفيذ.
 
@@ -27,4 +27,4 @@ ms.locfileid: "7332093"
 
 4.  **تشغيل مهام البيانات، ثم مراجعة النتائج** - يقدم مدير أتمتة مهام البيانات نتيجة النجاح أو الفشل لكل مهمة. كما يقدم معلومات عن سبب فشل المهمة.
 
-للحصول على مزيد من المعلومات، راجع [أتمتة مهام البيانات](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-task-automation/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [أتمتة مهام البيانات](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-task-automation/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 993e72c9089b99faf628bc38be06d3367c3aa5eee58680ac910435ee6635e54f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e984f140e3cfdf48d358c5c8dca8b61303f5478e
+ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121807"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "6070489"
 ---
 تصف هذه الوحدة كيفية طلب أمر تحويل وارد من نقاط البيع، وكيفية إضافة أصناف إلى أوامر الشراء وإغلاق السطور، أثناء الاستلام في نقاط البيع.
 

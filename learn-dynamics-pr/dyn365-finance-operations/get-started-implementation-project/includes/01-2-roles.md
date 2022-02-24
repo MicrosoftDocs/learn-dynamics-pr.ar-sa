@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f09314aa77112bb13b609828a27208c8150531d47cec5a36a0dc0454efd5a670
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a0edfdd4177255c4eb4a5ec2ac9f24e4749e1995
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7048014"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072282"
 ---
 يمكن أن يكون تنفيذ مشاريع تطبيقات Finance and Operations كبيراً ومعقداً، وغالباً ما يتضمن استخدام المهارات والمعرفة من العديد من الأفراد. يجلب كل شخص موهبة وخبرة فريدة من نوعها، ويتشارك الأفراد في جهد العمل معاً وتنسيق المهام.
 

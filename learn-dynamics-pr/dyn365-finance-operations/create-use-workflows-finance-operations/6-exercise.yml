@@ -5,15 +5,16 @@ labId: 64187
 metadata:
   title: المعمل - إنشاء سير عمل طلب شراء
   description: تدرب على إنشاء سير عمل طلب شراء في تطبيقات Finance and Operations.
-  ms.date: 06/10/2021
+  ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d4032746525fd03908e9dcb0ccc393623fd03e7b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 81f7fb981b9f3aa00dabb8f1dde78969a39e36d1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334234"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071992"
 durationInMinutes: 25
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/6-exercise-create-purchase-requisition-workflow.md)] \n[!include[](../includes/standalone-lab-end.md)]"

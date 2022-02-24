@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c80c4f8022229bcf95475ea7e5870b2eb8eaa914
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 9fa17cffbd1806574e18ad60e3f8be0c1af0cb6f
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7354695"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072272"
 ---
 
 مكتبة اختبار القبول (ATL) هي مكتبة اختبار X++‎ التي تسمح للمطورين بإنشاء بيانات اختبار متسقة. فهي تجعل كود الاختبار أكثر قابلية للقراءة، ويصبح اكتشاف الطرق التي تنشئ بيانات الاختبار أكثر سهولة. تدعم ATL أيضاً الأداء العالي لحالات الاختبار. يمكنك استخدام الفئات داخل ATL لإنشاء اختبارات قابلة للتكرار من شأنها كتابة بيانات الاختبار وتشغيل العمليات باستخدام تلك البيانات. يمكن لهذه الميزة تبسيط بعض عمليات إعداد البيانات الأكثر تعقيداً والعمليات التي ستكون مطلوبة للاختبار من خلال واجهة المستخدم (UI).
@@ -52,4 +52,4 @@ ms.locfileid: "7354695"
 6.  حدد **إنشاء** لإنشاء الفئة.
 
 
-لمعرفة المزيد حول مكتبة اختبار القبول (ATL)، انتقل إلى [موارد مكتبة اختبار القبول](/dynamics365/fin-ops-core/dev-itpro/perf-test/acceptance-test-library/?azure-portal=true).
+لمعرفة المزيد حول مكتبة اختبار القبول (ATL)، انتقل إلى [موارد مكتبة اختبار القبول](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/acceptance-test-library/?azure-portal=true).

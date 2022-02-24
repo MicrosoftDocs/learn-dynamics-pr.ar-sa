@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c7ac9e4a15d3d102fcec4f24572351f6a3dacccdf6924d2dd1731295fd681d06
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2d2ae6e89e0066964bf62e1ed07dc0d639ccc595
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068951"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071312"
 ---
 تُستخدم سياسات الأذونات في الأمان المستند إلى الدور لمنح الوصول للمستخدمين لأغراض محددة. ينشأ النوع الأكثر شيوعاً لسياسة الأمان من استعلام مخزن في AOT.
 

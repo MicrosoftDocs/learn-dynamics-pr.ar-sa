@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d39df220dddd205358b59b7d02e26ac2018280d447ec3179fb6710b88129d82e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c926c26f69e67fdc378d8b7cfc95df6ad0f50b4b
+ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053618"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6072647"
 ---
 
 قبل أن تتمكن من إنشاء سجلات جديدة لمرجع، يجب عليك إعداد تسلسل رقمي وإقرانه بالمرجع الخاص بوحدة معينة في تطبيقات Finance and Operations. 

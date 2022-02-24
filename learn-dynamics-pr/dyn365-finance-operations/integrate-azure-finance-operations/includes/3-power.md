@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46d46275165b843664976413319d5b981dd5f0c8085196f49162bf90e80f39a0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 71ca064cbb9d198c3bc153dd484b920cf62a71f1
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099898"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071968"
 ---
 تتكامل تطبيقات Finance and Operations أيضاً مع Microsoft Power Platform.
 يدعم Power Automate هذا التكامل عبر الموصلات الخاصة به، في حين يصل Power BI وPower Apps إلى كيانات البيانات العامة التي يتم تخزينها في قاعدة بيانات تطبيقات Finance and Operations. 

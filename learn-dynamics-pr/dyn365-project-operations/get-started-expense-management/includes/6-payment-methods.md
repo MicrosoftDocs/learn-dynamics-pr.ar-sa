@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8e9ca80ce663336021ab894b294996b2cbfc22eff8f0a1d7f51a178194c7b71f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8b2b3d232ebfce6f776627557ae36fb89d49747a
+ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7052838"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "6072768"
 ---
 ![ صورة توضح طرق الدفع المختلفة.](../media/payment-methods-c.png)
 

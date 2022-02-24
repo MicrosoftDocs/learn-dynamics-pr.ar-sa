@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 73b1bd5fee06d23ced71bd8fd67cef8587557a4d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 460a814ba30efd47a8dbd22e3e3afa9a41a63393
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327646"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072198"
 title: إدارة التعليمات البرمجية المصدر باستخدام التحكم في الإصدار في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

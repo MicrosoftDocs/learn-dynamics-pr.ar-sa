@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 390d20843c7f9d474708806d5dc032cdf4096057
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 267b109299beec1cd53d7d85068f380a58918d8c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7359762"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071701"
 ---
 تعد هذه الوحدة ملخصاً لخطوة التحليل الخاصة بالتنفيذ المحلي لتطبيقات Finance and Operations، المعروفة باسم Dynamics 365 for Finance + Operations (المحلية).
 
@@ -46,7 +46,7 @@ ms.locfileid: "7359762"
 
 ## <a name="estimate-setup-infrastructure-needs"></a>تقدير احتياجات البنية التحتية للإعداد
 
-لتقدير إعداد البنية الأساسية المطلوب للنشر المحلي، راجع دليل تقدير البنية التحتية في [متطلبات النظام لعمليات التوزيع الداخلية](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements-on-prem/?azure-portal=true).
+لتقدير إعداد البنية الأساسية المطلوب للنشر المحلي، راجع دليل تقدير البنية التحتية في [متطلبات النظام لعمليات التوزيع الداخلية](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements-on-prem/?azure-portal=true).
 
 ## <a name="upload-first-iteration-of-setup-and-configuration"></a>تحميل التكرار الأول من الإعداد والتكوين
 

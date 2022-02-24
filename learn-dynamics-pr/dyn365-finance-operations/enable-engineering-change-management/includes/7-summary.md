@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 870635e682f7a1443f497a16ac0562213741298f9e5380345ff710689622ddc4
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7f7d0c48d99cddfc38eac335a5c341958c6cbd7a
+ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7048054"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "6111949"
 ---
 قبل الاستفادة من إمكانات الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management، تحتاج إلى إعداد العديد من التكوينات. 
 

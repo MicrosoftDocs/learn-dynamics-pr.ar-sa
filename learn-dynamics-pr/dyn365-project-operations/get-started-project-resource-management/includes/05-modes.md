@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f987eb4501f2bdacdb4aac458e8dcaced5f926e55b522f3422c129ec491f364a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 520e44e4410639cf53e76fb3301490ef7fe80470
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7081991"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072902"
 ---
 يدعم Project Operations وضعين لتقوم بتشغيل تدفق الحجز الإجمالي. يتم تحديد وضع الإدارة كمعلمة مشروع ويمكن تعديله إذا تطلب العمل تغييره.
 

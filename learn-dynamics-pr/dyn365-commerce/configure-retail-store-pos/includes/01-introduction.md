@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c09d1619e5cc7c6969d8f5cffef3cd7f4f043236294f21ae5f6359883f0d15f9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6cb239d39e3b248168617e3c226254bc82f48097
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060729"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070322"
 ---
 بالنسبة لقنوات متجر البيع بالتجزئة، يتم استخدام سجلات نقطة البيع للتواصل مع العملاء لمعالجة حركات المبيعات. ويجب ان تدعم هذه السجلات التفاعل مع الأجهزة، وهي واجهة مستخدم (UI) محسّنة للغاية للقناة المحددة، وطباعه عمليات الاستلام، وعمليات مقارنات الأصناف داخل المتجر، وأذونات العمال، والمزيد. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 04a8ec93f5fc5871294bb5d822fdf90d0f19615a215c9af94178c0229197f74e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 95f52a082bb7dd3803d53c148a7347987683e990
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7100074"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072266"
 ---
 تتوفر بيانات التعريف في النماذج الحالية في "مستكشف التطبيقات".
 يحتوي مستكشف التطبيقات على شجرة مكونات البرنامج (AOT)، التي تحتوي طريقتي عرض: طريقة عرض النموذج وطريقة العرض الكلاسيكية.

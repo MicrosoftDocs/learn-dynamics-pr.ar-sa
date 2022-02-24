@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 994313964f8e1df111ab2032bd4729eb7c68d7088253da5b42e0a3fa88887ed0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2732766972e61328de6d37a15f4febf40cef916a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131013"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071456"
 ---
 تحسين تطبيقات Finance and Operations هامة أثناء التطوير، لضمان أداء النظام المناسب. وبدون تحسين، سينخفض أداء النظام، مما يؤثر على قدرة المستخدمين على إكمال المهام في الوقت المناسب.
 

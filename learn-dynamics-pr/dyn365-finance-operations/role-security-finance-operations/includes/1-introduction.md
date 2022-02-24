@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad088a73a766528e8900afb8d783fefbf3d5552a148721fb079653c4df8a8e10
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ec7fddbaa4323966ba181ff6d4ef73ae3f2386e0
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7063850"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071317"
 ---
 باستخدام الأمان المستند إلى الدور، لا يتم منح الوصول إلى تطبيقات Finance and Operations للمستخدمين الفرديين، ولكن لأدوار الأمان التي تم تعيين المستخدمين لها. يكون لدى المستخدم الذي تم تعيينه لدور أمان حق الوصول إلى مجموعة الامتيازات المرتبطة بهذا الدور. إذا لم يتم تعيين أحد المستخدمين لدور ما، فلن يتمكن من الوصول إلى تطبيقات Finance and Operations.
 

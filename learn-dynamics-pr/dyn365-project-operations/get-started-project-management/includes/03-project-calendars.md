@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 77bf52cdc62e702df6454d76633dab66f20fed9ea7bede8cedfaead71995239c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 617ecbc4a5955263752ad8e96b306284267169b4
+ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7098816"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "6072871"
 ---
 لإنشاء جدول مشروع، يمكنك إنشاء قالب تقويم المشروع الذي يحدد عدد ساعات العمل لكل يوم ومرات توقف العمل. 
 

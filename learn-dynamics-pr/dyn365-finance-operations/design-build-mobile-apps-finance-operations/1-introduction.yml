@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/mobile-apps/platform/mobile-platform-home-page
-  ms.openlocfilehash: 918d889c7b480790ed28ae9c1453df498b076eb3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: aad226de11e5bde72c78a64f159ac2edfaa364ef
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351805"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071989"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3921f80279fb55bad760365b75caadd0426041d06fa3dacf97310ceb32077746
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6f09cd1cebd3a2f7789ec847b5f219439ddf1011
+ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144001"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "6070432"
 ---
 تتوفر العديد من نماذج التوزيع المتعددة للعملاء، وذلك وفقاً لاحتياجاتهم وبيئات التشغيل لديهم. يمكن استخدام النماذج بسيناريوهات متعددة، وتشمل السناريوهات المختلطة في حالة وجود خليط من النماذج لديك، وسيناريو يمكنك من خلاله استخدام نماذج متعددة على نحو متزامن، والمزيد.
 

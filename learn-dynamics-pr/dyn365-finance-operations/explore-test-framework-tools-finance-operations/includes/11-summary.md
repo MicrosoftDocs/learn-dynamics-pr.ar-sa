@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a1848b9a5a0b1ca951bfb979b2cc81d594bbdc52
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 9c60373efac6d55f81f427756c8b1c6cec76e67f
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7365911"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071505"
 ---
 يعتبر اختبار العمليات والتحقق من صحتها أمراً هاماً لنجاح تنفيذ التطبيق. عادة، تحدث التحديات مع اكتساب الموارد أو الوقت أو البيانات المناسبة المطلوبة لاختبار التخصيصات الجديدة. استخدام إطار عمل الاختبار لإنشاء اختبارات الوحدة يمكنه المساعدة في تنفيذ الاختبار القابل للإعادة تلقائياً. في حالة إنشاء تخصيصات جديدة، يمكن إعادة تشغيل هذه الاختبارات لضمان الحفاظ على كافة الوظائف.
 
@@ -20,6 +20,6 @@ ms.locfileid: "7365911"
 | الموضوع | الرابط|
  | ------------- | ------------- |
 | |
- | التعرف على التنفيذ التلقائي لمهام البيانات لمستخدمي الطاقة.| [أتمتة مهمة البيانات](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-task-automation/?azure-portal=true)|
+ | التعرف على التنفيذ التلقائي لمهام البيانات لمستخدمي الطاقة.| [أتمتة مهمة البيانات](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-task-automation/?azure-portal=true)|
 
  

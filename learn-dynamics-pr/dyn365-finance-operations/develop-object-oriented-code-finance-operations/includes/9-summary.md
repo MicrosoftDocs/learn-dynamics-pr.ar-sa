@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3d82f49535f7848b351269e7a6b22b4fa971f73b8515d6d7214b1b1e4d7fea22
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 16bfeb90ceb6c4dc24cbce3945796bb0c5b629ce
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7116018"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071697"
 ---
 
 وفرت هذه الوحدة نظرة عامة أساسية عن البرمجة الموجهة للكائنات.

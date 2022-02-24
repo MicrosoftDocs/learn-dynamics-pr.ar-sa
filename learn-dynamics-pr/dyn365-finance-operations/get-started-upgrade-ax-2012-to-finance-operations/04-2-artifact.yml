@@ -4,15 +4,16 @@ title: مقارنة المنتجات
 metadata:
   title: مقارنة المنتجات
   description: تعرف على مقارنة المنتجات بين تطبيقات Dynamics AX 2012 وFinance and Operations.
-  ms.date: 05/12/2021
+  ms.date: 02/05/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dee2eb303f456c52d1b863f723cede05be1c7325
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 275de68c85bd2f7407dcd7ca817c1b33d1d81d4c
+  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327658"
+  ms.lasthandoff: 02/13/2021
+  ms.locfileid: "6072260"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-2-artifact.md)]"

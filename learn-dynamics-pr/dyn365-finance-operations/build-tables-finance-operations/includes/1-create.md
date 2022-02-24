@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3df4df02a94e9d48775df700eab6bc647307c591478db0d732a30d7d4a00f9a3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: df921d3ceeedaf48211a9f39e2bc24cb20244a94
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7125449"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072249"
 ---
 تحتوي الجداول على صفوف وأعمدة، تماماً مثل جدول البيانات. ويتم تخزينها في قاعدة بيانات والعمل معا لتسليم البيانات إلى المستخدم في المخرجات مثل النماذج والتقارير. يمكن إن تحتوي الجداول أيضاً على بيانات التعريف، وهي عبارة عن بيانات وصفية مثل إعدادات النظام. يمكن للمطورين تعديل خصائص الجدول والمكونات الموجودة من خلال الملحقات، أو يمكنهم إنشاء جداول جديدة. 
 

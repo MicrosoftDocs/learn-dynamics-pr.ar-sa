@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 290a5b6ca7a6b41b7af87d976b8e908eb111e84b95dcca0095d30ee75fb43b9b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3a0724f61977f3fc88fe0566b020c1ee336aee82
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130483"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072478"
 ---
 للتحضير لترحيل البيانات، تكون الخطوة الأولى تحديد الأنظمة (القديمة) ذات الصلة التي يستخدمها العميل حالياً. ثم تحتاج إلى تحديد البيانات الثابتة المشتركة بين الصناعات واستيرادها.
 

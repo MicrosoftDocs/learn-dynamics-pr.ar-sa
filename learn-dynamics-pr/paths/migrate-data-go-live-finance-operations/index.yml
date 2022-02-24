@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 233a46377b20c4717ff34f59f28d3db8c5339f65
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: ddcd34ab9aab551568fb4101d2eb6c9e95a398a6
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335812"
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074762"
 title: ترحيل البيانات والعرض المباشر لتطبيقات Finance and Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]

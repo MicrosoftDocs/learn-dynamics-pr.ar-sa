@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d907ae93d13489b0fa3b50a7900ca019f79dfce649ecc987243ba90858f71937
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 25869929cc9ea0eef2c576ff54c3d72329ac7cc6
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075204"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071678"
 ---
 تحتوي X++ على نموذج إدارة ذاكرة سهل الاستخدام مماثل لـ .NET. بعض المناطق التي تختلف فيها X++ عن اللغات المدارة الأخرى هي:
 

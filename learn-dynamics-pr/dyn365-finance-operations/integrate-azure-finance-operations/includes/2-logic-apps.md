@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 21fc3d425e140a4e342f396b1d427139f6268bd1c60093aebcc38f7fb85c0aba
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4e4250095c048b193638848bf0beebbf5c72f13b
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105350"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072393"
 ---
 إن Logic Apps هي خدمة سحابية تساعدك على تنظيم المهام وعمليات الأعمال وسير العمل وتنفيذها تلقائياً عندما تحتاج إلى دمج التطبيقات والبيانات والأنظمة والخدمات عبر المؤسسات أو المؤسسات.
 تعمل Logic Apps على تبسيط كيفية تصميم وبناء حلول قابلة للتطوير لتكامل التطبيقات وتكامل البيانات وتكامل النظام وتكامل تطبيقات المؤسسة (EAI) والتواصل بين الشركات (B2B)، سواء في السحابة أو في أماكن العمل أو كليهما. يمكنك إنشاء Logic Apps وتحريرها من بوابة Azure على [Microsoft Azure](https://portal.azure.com/?azure-portal=true).

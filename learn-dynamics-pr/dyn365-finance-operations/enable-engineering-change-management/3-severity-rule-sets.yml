@@ -1,18 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.enable-engineering-change-management.3-severity-rule-sets
-title: قم بإعداد مجموعات قواعد الخطورة
+title: إعداد مجموعات قواعد الخطورة
 metadata:
-  title: قم بإعداد مجموعات قواعد الخطورة
-  description: تعرف على كيفية استخدام مجموعات القواعد لحساب الخطورة تلقائياً.
-  ms.date: 05/17/2021
+  title: إعداد مجموعات قواعد الخطورة
+  description: تعرف على استخدام مجموعة القواعد لحساب الخطورة تلقائياً.
+  ms.date: 05/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 774f00f193fa51a3d3e23958dbd01774d7a6f0b9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5c3585fac1d73fe7781285cfed215842b3cdaa35
+  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350634"
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6072651"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-severity-rule-sets.md)]"

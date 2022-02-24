@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f8d2a71e6f30c90ba3ad6235f52666de0a474b8
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 60a3206cb63ec11003b6ac87bf6d4ea0b97111ec
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7334228"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072313"
 ---
 تتسح مساحة عمل **إدارة البيانات** للمستخدمين إعداد وظائف البيانات المتكررة داخل مشروع لتطبيقات Finance and Operations. ضمن مساحة العمل هذه، يمكنك إعداد مشروع استيراد أو تصدير يشير إلى كيان بيانات محدد.
 
@@ -20,7 +20,7 @@ ms.locfileid: "7334228"
 >[!IMPORTANT]
 >قبل أن تتمكن من إنشاء وظيفة بيانات متكررة، يجب عليك تسجيل التطبيق في Azure Active Directory للحصول على معرف التطبيق (معرف العميل). لاحظ أنه يمكن لمستخدم مسؤول واحد فقط في Azure Service إضافة التطبيق ومشاركة معرف العميل مع المطورين.
 
-لمعرفه المزيد حول تسجيل أحد التطبيقات مع Azure AD، راجع [نظرة عامة على نقاط نهاية الخدمة](/dynamics365/fin-ops-core/dev-itpro/data-entities/services-home-page/?azure-portal=true). 
+لمعرفه المزيد حول تسجيل أحد التطبيقات مع Azure AD، راجع [نظرة عامة على نقاط نهاية الخدمة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/services-home-page/?azure-portal=true). 
 
 للوصول إلى مساحة عمل **إدارة البيانات** وإنشاء وظيفة بيانات متكررة، اتبع الخطوات التالية:
 

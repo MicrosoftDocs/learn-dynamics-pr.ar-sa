@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 206ccea9ba42c8e5cb323e6bfc3022c80a0b68fb58342786acfa69ab41d97f3a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6df3c3f3267446874fb70af644e28794718c0554
+ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7084089"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "6070437"
 ---
 عندما يدخل العملاء المتجر، يكشفون عن معلومات مهمة لطاقم البائعين. 
 

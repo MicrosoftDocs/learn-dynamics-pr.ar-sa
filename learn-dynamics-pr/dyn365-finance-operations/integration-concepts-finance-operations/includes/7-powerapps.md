@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f21381ffb439a34e6318204acda346d39f5a704f8e0dde780c5f02c838574fe
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1c9c94ebbe36a60f466abba3e2400c88484bf10a
+ms.sourcegitcommit: c30d04e437514a1b7fe1d143dc8771662953312c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130720"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "6072173"
 ---
 تتكامل تطبيقات Finance and Operations مع Microsoft Power Apps، وهي خدمة للمطورين والمستخدمين غير التقنيين لإنشاء تطبيقات أعمال مخصصة للأجهزة المحمولة والأجهزة اللوحية والويب دون كتابة كود.
 يمكنك تضمين تطبيقات Power Apps الموجودة في تطبيقات Finance and Operations لتعديل وظائف المنتج. كما بإمكانك أيضاً تضمين تطبيقات Power Apps من داخل واجهة المستخدم عن طريق تحديد شعار Power Apps في الصفحة التي ترغب في تضمين تطبيق Power Apps بها.
@@ -35,7 +35,7 @@ ms.locfileid: "7130720"
 -   **`isPowerAppTabPersonalizationEnabled`** - إذا أعاد هذا الأسلوب خطأ للصفحة، فلن يتمكن أي مستخدم من تضمين Power Apps كعلامة تبويب أو علامة تبويب سريعة أو قسم بانوراما. ومع ذلك، لا يزال بإمكان المستخدم تضمين Power Apps من خلال زر قائمة **Power Apps**. 
 
 ## <a name="data-integration"></a>تكامل البيانات 
-يمكنك الاتصال ببياناتك من تطبيقات Finance and Operations من داخل Microsoft Power Platform بسلاسةٍ لإنشاء التطبيقات الخاصة باللوحة والتطبيقات المستندة إلى النماذج. وبصفتك مسؤول النظام، فبإمكانك الوصول إلى بيانات تطبيقات Finance and Operations التي يتم عرضها من خلال كيانات البيانات. يجب تمكين هذه الكيانات حتى يتم الكشف عن واجهة برمجة التطبيقات (API) "API" العامة في بيئة التطوير. 
+يمكنك الاتصال ببياناتك من تطبيقات Finance and Operations من داخل Power Platform بسلاسةٍ لإنشاء التطبيقات الخاصة باللوحة والتطبيقات المستندة إلى النموذج. وبصفتك مسؤول النظام، فبإمكانك الوصول إلى بيانات تطبيقات Finance and Operations التي يتم عرضها من خلال كيانات البيانات. يجب تمكين هذه الكيانات حتى يتم الكشف عن واجهة برمجة التطبيقات (API) "API" العامة في بيئة التطوير. 
 
-إذا كنت تستخدم تطبيقات Finance and Operations وترغب في إنشاء تطبيقات Power Apps مستندة إلى النماذج، ستتوفر جميع كيانات OData باعتبارها كيانات ظاهرية في Microsoft Dataverse وMicrosoft Power Platform. يمكنك بناء الخبرات في تطبيقات مثل المبيعات والتسويق ومشاركة العملاء باستخدام البيانات مباشرةً من تطبيقات Finance and Operations. من خلال قيامك بذلك، يمكنك استخدام نموذج إمكانات الإنشاء والقراءة والتحديث والحذف في Dataverse وMicrosoft Power Platform. كما يمكنك أيضاً استخدام هذه الإمكانية لإنشاء مداخل لتطبيقات Power Apps. 
+إذا كنت تستخدم تطبيقات Finance and Operations وترغب في إنشاء تطبيقات Power Apps مستندة إلى النموذج، ستتوفر جميع كيانات OData باعتبارها كيانات ظاهرية في Microsoft Dataverse وPower Platform. يمكنك بناء الخبرات في تطبيقات مثل المبيعات والتسويق ومشاركة العملاء باستخدام البيانات مباشرةً من تطبيقات Finance and Operations. من خلال قيامك بذلك، يمكنك استخدام نموذج إمكانات الإنشاء والقراءة والتحديث والحذف في Dataverse وPower Platform. كما يمكنك أيضاً استخدام هذه الإمكانية لإنشاء مداخل لتطبيقات Power Apps. 
 

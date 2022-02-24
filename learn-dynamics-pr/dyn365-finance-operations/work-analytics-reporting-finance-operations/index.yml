@@ -3,16 +3,17 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops
 metadata:
   title: العمل مع التحليلات وإعداد التقارير في تطبيقات Finance and Operations
   description: يمكن لقادة الأعمال اتخاذ قرارات مهمة في شركتهم إذا كانت لديهم رؤية دقيقة للبيانات المالية والتشغيلية الأساسية. بدون مطالعة البيانات، يواجه قادة الأعمال تحدياً في مهمة شبه مستحيلة. باستخدام التحليلات وإعداد التقارير في تطبيقات Finance and Operations، يمكنك تمكين كل مستخدم أعمال، اعتماداً على حقوق الأمان الخاصة به، للحصول على الرؤى التي يحتاجون إليها لاتخاذ تلك القرارات المهمة.
-  ms.date: 11/30/2021
+  ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 88ae5fe49be72cd52e571a9fca1d48b16b566e79
-  ms.sourcegitcommit: 91f89fe2312edcba86f6e736a2676a910cccecde
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: abcaeb5665ba9b6e83e63f07a1ae56e9e706d7d1
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/01/2021
-  ms.locfileid: "7875774"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072185"
 title: العمل مع التحليلات وإعداد التقارير في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -44,6 +45,11 @@ units:
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.4-1-generate-consume-inquiries-reports
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.5-power-platform
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.6-exercise-generate-explore-financial-report
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.7-exercise-add-account-properties
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.8-exercise-create-multidimensional-report-reporting-tree
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.9-exercise-create-consolidated-report-organization-hierarchy
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.10-exercise-create-side-by-side-departmental
+- learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.11-exercise-print-customer-vendor-account-statements
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.12-analytics-reporting-quiz
 - learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.13-analytics-reporting-summary
 badge:

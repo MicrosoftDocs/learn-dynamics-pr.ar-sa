@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f6c07a4dcaa64dadbd4957f2dabea85b281adb560c542023fe62904f3c7552f9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bd534e5e34aaee94d0e1649243c003713d8a4fc5
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059100"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072448"
 ---
 يتأثر سلوك النظام الفرعي للبريد الإلكتروني بمجموعة من تكوينات المسؤول وتكوين المستخدم وخيارات المستخدم.
 

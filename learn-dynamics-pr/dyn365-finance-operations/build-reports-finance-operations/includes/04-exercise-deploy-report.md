@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 69ee313416777c789caec5320b4dd32a0d628ee8cea75c8b412fed6c52d9a80a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0e1c6a8cdf327a4dbe49444fdcbdc1b53c72bd11
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094535"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071752"
 ---
  
 أولاً، يجب عليك إنشاء استعلام.

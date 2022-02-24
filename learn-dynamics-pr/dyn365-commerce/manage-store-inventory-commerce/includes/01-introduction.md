@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 85da330535a0ed8e82ec9a7b079b2fc759f2335a9afcce3e437ecffec20589f3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4dffc7c07dc719466ee827ef609c406227af763e
+ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121825"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "6070492"
 ---
 يزود Dynamics 365 Commerce بائعي التجزئة بالقدرة على تحديد قنوات بيع متعددة. يمكن أن تكون هذه القنوات في شكل:
 

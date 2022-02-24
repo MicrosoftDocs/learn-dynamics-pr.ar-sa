@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3e3809e07fd53a7ec8b1a76c41cfd98211dd0a552ae4bc1661c52980f3dacc89
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 08bb770c989795df35ec6763e09484d6e979f7cd
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075198"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071857"
 ---
 يستخدم X++ فئات لتعريف البيانات وإنشاء الكائنات. البيانات التي يتم تحديدها في فئة تمثل حالة الكائن ويتم تخزينها في متغيرات. تحتوي الفئات أيضاً على الأساليب، التي ستخبر الكائن بما يجب فعله. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 32c57e4ec771420913c33b198cc9d3d0d016a846f77d57f5c0b7541412bbe192
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c78a50d465dbbbd629775b122a5e5e6d05e839be
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7126827"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070249"
 ---
 يجب عليك استخدام البيانات التجريبية الموجودة في الكيان القانوني USRT لممارسة هذه التمارين. 
 

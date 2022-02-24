@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 94b186b2f13db2911031a6e7e9f81692bd1ee6eeaaa8c64e8ed560a1ab71c2f2
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 94235d8c71a421d07516949a5dc965a5a7a08954
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136690"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071712"
 ---
 إذا كنت تخطط لإنشاء تطبيق للأجهزة المحمولة لتطبيقات Finance and Operations، فيجب عليك أولاً تحديد ما يجب أن يفعله تطبيقك.
  

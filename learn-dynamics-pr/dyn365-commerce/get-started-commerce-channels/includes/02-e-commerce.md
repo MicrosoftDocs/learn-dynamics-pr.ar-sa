@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5a41e4f0a36e296764f85140bfb7898dbb64f60cf658060bb2a370ee07ac0872
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 27a30d1f7c229256db713d788c8b108179bbfb16
+ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7143990"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "6070428"
 ---
 التجارة الإلكترونية في Dynamics 365 Commerce هي وجهة متجر على الويب خاصة بالقنوات على الإنترنت التي تتم إضافتها في شبكة Commerce وتوفر تواجداً غير مسبوق على الإنترنت لبائعي التجزئة.
  

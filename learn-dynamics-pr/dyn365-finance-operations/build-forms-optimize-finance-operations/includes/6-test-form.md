@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 98d0fb810d90394baac0b9bedf2a05918e3035a287d728a224e0e8847945a66c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6574a516d4e3922e24d965e772a0eed562fba93b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120574"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071438"
 ---
 عند إتمام المتطلبات الخاصة بنمط نموذج، وقبل أن ينتقل النموذج إلى الإنتاج، يجب عليك اختبار وظيفته في Visual Studio.
 

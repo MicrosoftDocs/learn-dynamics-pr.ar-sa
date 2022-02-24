@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cdd374d762abd112981148a574cb8b79ce889391c72a09de8f56736cb633562a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 488e18f7ef6e2924fb761dc8e827666ebf49f500
+ms.sourcegitcommit: 49e41fceff1cf34140f3ad833073b7bea9669c68
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7082050"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "6072756"
 ---
 في هذه الوحدة النمطية، قمت بالتعرف على الميزات التي تشكل تطبيق Project Operations وفوائد استخدامه لإدارة المشاريع. 
 

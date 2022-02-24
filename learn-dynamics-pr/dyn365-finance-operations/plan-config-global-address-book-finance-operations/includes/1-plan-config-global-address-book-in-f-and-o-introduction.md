@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3203cdfd6614b66a9649c89316aced4c5fdefe5125e7033b9d7d8cd0bdac0347
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 04dde5b12274388bf344691f94471c905ac237e5
+ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7078974"
+ms.lasthandoff: 03/13/2021
+ms.locfileid: "6072455"
 ---
 يُعد دفتر العناوين العمومي (GAB) مستودعاً مركزياً للبيانات الرئيسية التي يجب تخزينها لجميع الأشخاص والمؤسسات الداخلية والخارجية التي تتفاعل معها الشركة. عند تغيير أحد العناوين، يتعين إجراء التحديث في مكان واحد فقط. ويتم تحديث جميع السجلات المرتبطة الأخرى تلقائياً.
 

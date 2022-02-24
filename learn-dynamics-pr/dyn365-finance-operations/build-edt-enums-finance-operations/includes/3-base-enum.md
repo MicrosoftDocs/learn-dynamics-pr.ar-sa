@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9da41e6438b26e0ce323f175f8ecd6f54dcdd7fdc917166697150676fb31f264
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0c4ebedf324bafacd9585d454db2c90bb6cd16fd
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094587"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072240"
 ---
 التعداد الأساسي هو قائمة من القيم الحرفية ذات القيمة المعينة. ستحتاج إلى إنشاء تعدادات أساسية في Visual Studio قبل أن تتمكن من استخدامها في رمز X++. يتم تمثيل قيم التعداد داخلياً كأعداد صحيحة. ويعني هذا أنه يتم تخزينها في قاعدة البيانات كرقم بدلاً من القيمة، وهو أمر مفيد لأنه يوفر مساحة. يحتوي الحرف الأول على الرقم 0، بينما يحتوي الحرف التالي على الرقم 1، وهكذا.
 

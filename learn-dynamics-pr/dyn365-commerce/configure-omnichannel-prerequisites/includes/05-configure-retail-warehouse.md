@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b89e4ea3b16891a194a9f6d03c69f4872014969d8f88f49d003ba815cf00c7a0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4830d93f76f1490f810658719b3f73c14270284b
+ms.sourcegitcommit: 0484f01637a384540476f9c6e45ba64bd86526a8
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060753"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "6070416"
 ---
 تتطلب كل قناة تجارية مخزوناً، ولكي يكون لها مخزون، يجب أن يكون لديها مستودع مرتبط بها. لإنشاء تكوين المستودع لقناة Commerce، يتعين عليك أيضاً إنشاء العديد من التبعيات. 
 

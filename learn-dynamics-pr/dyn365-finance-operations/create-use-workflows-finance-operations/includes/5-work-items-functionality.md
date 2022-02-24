@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d5370e8f60b17ed7433a791d35922643893a11161c08a987eaaec4f1fac8e198
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1457983d2eba939ab3db0b36971d1574aac8e415
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7109803"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071367"
 ---
 شاهد هذا الفيديو للتعرف على كيفية استخدام سير عمل لدفتر يومية عام يومي، وإرسال سير العمل للاعتماد، واستخدم عناصر العمل لإدارة عملية سير العمل استناداً إلى السيناريو التالي.
 

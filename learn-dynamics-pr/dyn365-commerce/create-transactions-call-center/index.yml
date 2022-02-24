@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9ad89feefdd134f13a396afecd38a9c7a5047f87
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 56a9d420bffa2d0e96fa60ac692b84521bafc6be
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364505"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070369"
 title: إنشاء الحركات في مركز الاتصال في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nويعد مركز الاتصال في Dynamics 365 Commerce القناة التي يمكنك فيها إنشاء وإلغاء وإرجاع أوامر مبيعات التجزئة لمركز الاتصال، ووضع أمر مركز اتصال قيد الانتظار وتحريره من الانتظار، وإنشاء أوامر استمرارية لنماذج الأعمال القائمة على الاشتراك.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء أمر مركز اتصال وإلغائه وإعادته.\n- ضع أمر مركز الاتصال قيد الانتظار وحرره من الانتظار.  \n"

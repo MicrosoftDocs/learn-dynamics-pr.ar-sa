@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e62c2059f663925b5ced1fa083e89f3769a5f25
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: d55af91ea29eab579082cd7c08ca75e2746ae56d
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7328410"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070084"
 ---
 يُعد Commerce runtime (CRT) بمثابة مجموعة من مكتبات ‎.NET المحمولة التي تحتوي على منطق الأعمال الأساسي لقناة التجارة ووظيفة التسعير. لإضافة منطق الأعمال أو تعديله، يمكنك تخصيص CRT.  
 
@@ -32,5 +32,5 @@ ms.locfileid: "7328410"
 
 - **OnExecuted** - تتم الاستعانة بهذه الطريقة بعد معالجة الطلب بواسطة **‎IRequestHandler** مطابق.
 
-لمزيد من المعلومات، راجع [Commerce runtime (CRT) ‏‫وقابلية توسعة Retail Server‬](/dynamics365/commerce/dev-itpro/commerce-runtime-extensibility/?azure-portal=true).
+لمزيد من المعلومات، راجع [Commerce runtime (CRT) ‏‫وقابلية توسعة Retail Server‬](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/commerce-runtime-extensibility?azure-portal=true).
 

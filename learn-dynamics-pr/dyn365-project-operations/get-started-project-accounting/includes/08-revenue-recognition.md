@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 50c87f0cf271892448328fea81f526bfcfd6005e50efb48a7bdc31bd5ba72a28
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8245c97d827197b14cf449699e113346e8cd2448
+ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7052708"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "6072951"
 ---
 في Project Operations، تختلف قواعد إقرار الإيرادات وفقاً لأسلوب الفوترة المحدد لمشروع أو جزء من المشروع.
 

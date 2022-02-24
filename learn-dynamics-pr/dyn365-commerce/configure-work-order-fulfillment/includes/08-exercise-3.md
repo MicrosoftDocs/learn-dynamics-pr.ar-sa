@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: afa7ceca07d0e3d399e3d4af7723bf51eef1be103d1ff6a2b672090b2aac8aaa
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ef702a6a349432d3e19afc4a8837285de5691258
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060703"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070114"
 ---
 حدد تكلفة المعالجة التي يجب مراعاتها عندما يحسب نموذج كائن المستند (DOM) توصيات التنفيذ. 
 

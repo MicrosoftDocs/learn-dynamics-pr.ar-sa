@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53937dc6e0c9aab2b2c3f900ad6d4dfda9b95bfc205de863f80ce08bd4c94b04
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c7fbf0ccdcb6b022b7110d2ad4298a48568cf4fe
+ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094298"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "6112075"
 ---
 تشير درجات خطورة الهندسية إلى مستوى التأثير الذي ينطبق على المنتجات في أمر التغيير الهندسي.
 

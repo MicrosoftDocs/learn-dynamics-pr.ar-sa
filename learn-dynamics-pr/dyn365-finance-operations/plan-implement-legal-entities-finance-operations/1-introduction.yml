@@ -4,16 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة إلى تخطيط وتنفيذ الكيانات القانونية في وحدة تطبيقات Finance and Operations
-  ms.date: 05/12/2021
+  ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f39854e405243059a30363121132720a390d508c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7202c011c89d058b77c5b1ca29d07c0b52e9a5f8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339459"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071816"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

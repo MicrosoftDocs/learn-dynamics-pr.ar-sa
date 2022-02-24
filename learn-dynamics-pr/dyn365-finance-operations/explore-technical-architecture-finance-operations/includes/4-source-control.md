@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 646e5a8f2728a2596d85a1f853a1d97bdeee0e502b2fede1e07c4a45913c24ef
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 414695a5f352194ddb369d7155f02c1aafe2c420
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079171"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072317"
 ---
 
 يعتمد المطورون على التحكم بالمصادر لتتبع تغييرات الأكواد واكتشاف الاختلافات بين المحتوى الذي تم إنشاؤه بواسطة مطورين مختلفين. Finance and Operations يستخدم Azure DevOps للتحكم بالمصادر، والذي يمكن الوصول إليه من خلال مستعرض ويب أو Visual Studio باستخدام مستكشف الفريق.

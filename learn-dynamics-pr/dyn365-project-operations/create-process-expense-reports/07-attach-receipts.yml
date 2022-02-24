@@ -8,11 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 971157f7c7a4a64a8d683e65557cd7963a18ee8d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: bb064240a593963c19a20daee2fb892af55514fe
+  ms.sourcegitcommit: 8a2fdbfa638a3ada8569777c0f1b408a6839504f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361924"
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "6072736"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-attach-receipts.md)]"

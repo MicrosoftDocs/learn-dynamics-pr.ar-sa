@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ab01c8198b0fb195adc9e57a34868e3a2ba44a9147d5fa896f540b6afa179249
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d714f737839fb82d3d3a7e4efcdc4842d0536aab
+ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7074414"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "6072874"
 ---
 تساعد أدوات إدارة المشاريع في Microsoft Dynamics 365 Project Operations على تشغيل المشاريع. تساعد أدوات الجدولة مديري المشروعات والفرق في الحفاظ على إنتاجيتهم. يمكن أن تساعدك أدوات إدارة المشاريع هذه في إكمال المهام التالية:
 

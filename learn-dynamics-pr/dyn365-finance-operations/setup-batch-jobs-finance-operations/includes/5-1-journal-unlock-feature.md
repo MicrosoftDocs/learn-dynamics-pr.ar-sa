@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2b8b888a2bf287b043e9f701fd7f3258785928dd254681ef5b4009d67dcd87ef
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c770e48f61b1a7c3268041f0e822c4269060f4a1
+ms.sourcegitcommit: 9134765f329ce8893f21b7a57a08277d75913363
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053532"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "6072528"
 ---
 يتوفر زر في صفحة **دفتر اليومية** لإلغاء تأمين دفتر يومية عندما تكون قيمة حالة **مؤمن عن طريق النظام** هي **نعم**. يمكن لمسؤول النظام الذي قام بتحليل وظائف الدُفعات المشغلة، والذي أكَّد أنه لم يعد تتم معالجة دفتر اليومية هذا بشكل نشط بواسطة وظيفة دفعية، إلغاء تأمينه. 
 

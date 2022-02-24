@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 004a30128cfac21db132575fab5e4b3c37fad90e5523e14a207509d11e562c54
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e8c776a7fee2b2fd7ab343a68a00858a12847c31
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099839"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071888"
 ---
 
 يمكن أن تكون عمليات تكامل البيانات إما متزامنة أو غير متزامنة: 

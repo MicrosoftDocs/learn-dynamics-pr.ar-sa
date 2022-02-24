@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c11dda20d7d301be69c40a8b12a89bd39a5020a0469282edf0da1170dd157af
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bc6abfd41a512ccd711a5d5e086e480f9a3ee39a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053713"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071336"
 ---
 
 تصف هذه الوحدة سيناريوهات وأنماط تكامل البيانات التي تستخدم OData، وعمليات تكامل الخدمة المخصصة، وتكامل البيانات المجمعة.

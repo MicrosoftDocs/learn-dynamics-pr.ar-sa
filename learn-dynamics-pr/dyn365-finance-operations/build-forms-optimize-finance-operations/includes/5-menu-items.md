@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 07715a43a823fc6e0beed04e35db7ab77e3f4d27594e7f0d861fe5758b913557
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0950302bc9367e4d58dbfa29779f633a02be589e
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105671"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072245"
 ---
 يتم استخدام عناصر القائمة في واجهة المستخدم لتطبيقات Finance and Operations لتزويد المستخدم بزر سيتم ربطه بصفحة أو مربع حوار أو تقرير أو تنفيذ إحدى المهام. تتوفر أنواع مختلفة من عناصر القائمة في Visual Studio:
 

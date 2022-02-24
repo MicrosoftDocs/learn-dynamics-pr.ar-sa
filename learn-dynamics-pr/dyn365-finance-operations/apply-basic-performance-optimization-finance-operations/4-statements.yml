@@ -4,16 +4,17 @@ title: متى تُستخدم العبارات المستندة إلى مجموع
 metadata:
   title: متى تُستخدم العبارات المستندة إلى مجموعة والعمليات المستندة إلى صف
   description: تعرّف متى تستخدم العبارات المستندة إلى مجموعة والعمليات المستندة إلى صف في تطبيقات Finance and Operations.
-  ms.date: 06/02/2021
+  ms.date: 07/03/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2ed4ba3c288330253c196b7e41f4f363f6b1bc35
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 4bcb879888b132e312745a19335113bdae9f5726
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359810"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071452"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

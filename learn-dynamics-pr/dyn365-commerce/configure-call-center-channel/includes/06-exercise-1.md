@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d81f97fe8ba27a30c35f491c034eed6d4d1a2e798955bab672018d41330d99aa
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ec17006d99b0cd04c7f2e442d395d324c4926b74
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144393"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070376"
 ---
 يحتاج مدير البيع بالتجزئة لإحدى الشركات التابعة إلى إنشاء قناة مركز اتصال جديدة وتحديد طرق الدفع للقناة وطرق التسليم ومجموعات الأسعار. سيتم تعيين مركز الاتصال إلى التدرج الهرمي للمؤسسات الحالي الخاص بالحيازة. مستودع مركز الاتصال هو DC-West.
 

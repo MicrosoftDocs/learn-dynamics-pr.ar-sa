@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b54dbe386a6eb53850c534fc51f3d26e964badd10bc83a33f8a5e2054f981521
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bc9a62e04e7eec28de4215612cb96466db9a4f8a
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079187"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071364"
 ---
 يستخدم Finance and Operations بيانات التعريف لتحديد العناصر. يمكن استخدام بيانات التعريف للبحث عن عناصر مثل النماذج والجداول والتعليمات البرمجية باستخدام ميزة **البحث عن بيانات تعريف**. يمكن الوصول إلى بحث بيانات التعريف من **Visual Studio > Dynamics 365 > البحث عن بيانات التعريف**. يتيح لك البحث على أساس بيانات التعريف العثور على العناصر ذات الصلة. 
 

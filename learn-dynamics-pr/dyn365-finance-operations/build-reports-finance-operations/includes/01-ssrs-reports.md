@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 958fb4541f71f34be42b865da477064d3be0ec7f7285dcd667ba7fdacccda184
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: da9b1e039a4dfa6909a57b8f9b83508490cfa847
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7064283"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071757"
 ---
 تأتي العديد من تقارير SSRS التي تم إنشاؤها مسبقاً جاهزة للاستخدام مع تطبيقات Finance and Operations. تتيح لك تقارير SSRS طباعة التقارير إلى مواقع مختلفة، مثل الشاشة أو الطابعة أو الملف أو البريد الإلكتروني الخاص بك. يمكنك استخدام تقارير SSRS لإنشاء طرق عرض ذات معلمات من خلال التنقل التفصيلي. يمكنك أيضاً تضمين ارتباطات تشعبية من تقرير إلى صفحات تطبيقات Finance and Operations. 
 

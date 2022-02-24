@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: e6b003a696d4b1e91d9a7fdf9dc06aef351f5893
-ms.sourcegitcommit: 6b8e0ac9787eb58419aaba2ba91bbd2f37cab6bc
+ms.openlocfilehash: a08be26c36c756b47d2ee03e5ffceac268e7d478
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "7966679"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072395"
 ---
-يمكنك استخدام تكامل Microsoft Office في تطبيقات المالية والعمليات لتصدير البيانات إلى Excel. بعد التعديل، إذا لزم الأمر، ستتمكن من إعادة نشره، ثم إنشاء مصنف Excel كقالب باستخدام مصمم المصنف.
+يمكنك استخدام تكامل Microsoft Office في تطبيقات Finance and Operations لتصدير البيانات إلى Excel. بعد التعديل، إذا لزم الأمر، ستتمكن من إعادة توزيعه، ثم إنشاء مصنف Excel كقالب باستخدام مصمم المصنف.
 
 توفر لك إمكانات تكامل  Microsoft Office بيئة إنتاجية تساعدك في إنجاز المهمة باستخدام منتجات Office.
 
@@ -38,7 +38,7 @@ ms.locfileid: "7966679"
 
 تم إنشاء تطبيق Excel باستخدام إطار عمل Apps for Office. يوفر إطار العمل هذا واجهة برمجة تطبيقات (API) الويب (API) المستندة إلى JavaScript والتي تمكن التطبيقات من الاتصال بتطبيقات Office. 
 
-وتتمثل أكبر ميزة لهذا الإطار في أنه يمكن تشغيل التطبيقات في مثيلات Excel المحلية (Win32) وExcel Online (‏Microsoft 365) وExcel على Apple iPad. 
+أكبر ميزة لهذا الإطار هي أنه يمكن تشغيل التطبيقات في مثيلات Excel المحلية (Win32) وExcel Online (‏Microsoft 365) وExcel على Apple iPad. 
 
 لتسهيل إدخال البيانات، يوفر تطبيق Excel عمليات البحث والمساعدة في البيانات. توفر حقول التاريخ منتقي التاريخ، وتوفر حقول التعداد (التعداد) قائمة تعداد، وتوفر العلاقات بحثاً عن العلاقة.
 
@@ -80,6 +80,4 @@ ms.locfileid: "7966679"
  
 [![لقطة شاشة لصفحة Excel باستخدام لوحة موصل البيانات.](../media/office-3.png)](../media/office-3.png#lightbox)
  
-شاهد عرضًا توضيحيًا لوظيفة إضافية لموصل بيانات Excel في ملف الفيديو.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWRoIf]

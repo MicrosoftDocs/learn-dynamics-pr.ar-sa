@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74a4089686b5639f931449b5339314fe2eeb7ee39178763ea382f997d91a7031
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 24234b442760c6232fdb85c9a12442be3f2c3e05
+ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7114862"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "6072844"
 ---
 يمكن إدارة العملاء المتوقعين بالاستناد إلى المشروع وتأهيلهم في Project Operations. تتضمن عملية إدارة العملاء المتوقعين إنشاء عملاء متوقعين على أساس العمل ثم تأهيلهم.
 ## <a name="project-sales-leads"></a>عملاء متوقعون لمبيعات المشروع

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0e5d5564611f663fc957ff86d0899e341103fba2a468d8e121095dfe8a127079
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a30207a79d0bf52415fa484bf8862f29ca1587b9
+ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130937"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "6072242"
 ---
 يمكن أن تتضمن مساحات العمل عناصر رئيسية، مثل تلك العناصر التي نوقشت في هذه الوحدة. يمكن أن تتضمن مساحات العمل أيضاً مؤشرات KPI المضمنة والمخططات والمكونات الأخرى التي تجعل تجربة واجهة المستخدم أكثر فعالية وإفادة. في تطبيقات Finance and Operations، يمكن للمستخدمين إنشاء مساحة عمل وإضافة عناصر حالية إلى مساحة العمل من واجهة المستخدم. 
 

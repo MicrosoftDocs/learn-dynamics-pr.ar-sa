@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6e7d6b35b47d08b6b828a49cec16409c3eb252ae
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: adcd38d2914ff02497243e07edebdb7728c4f0ae
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7348853"
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6072892"
 title: بدء استخدام إدارة الموارد في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nالموارد هي الأصول الأكثر أهميةً في المؤسسة المستندة إلى الخدمات. إن القدرة على العثور على الموارد المناسبة في الوقت المناسب، وحجز تلك الموارد في المشاريع، ثم الاحتفاظ بها مستخدمة سيساعد المؤسسة على تحقيق أهداف الإيرادات وأهداف رضا العملاء. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على الحجوزات والتعيينات.\n- اكتشف الوظائف المختلفة لعرض تسوية الموارد.\n- استخدام حالات الحجز لتحديد عمليات الأعمال الفريدة لشركتك.\n- اكتشاف الخيارات المتاحة لمساعدتك في إدارة الموارد.\n- التعرف على أوضاع إدارة الموارد.\n- استكشاف طرق توزيع الحجز المختلفة التي يمكنك استخدامها.\n- التعرف على كيفية استخدام مساعد الجدولة لحجز الموارد.\n- التعرف على كيف يمكنك حجز مورد مباشرة.\n"

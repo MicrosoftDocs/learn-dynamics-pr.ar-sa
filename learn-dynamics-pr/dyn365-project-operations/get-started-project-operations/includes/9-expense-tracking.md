@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c91b728ac691ca4514157fef1065db5d68a660e4
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: f45215ccef35730e51acd34d287c73d92add0183
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7364127"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072897"
 ---
 تدعم Project Operations القدرة على معالجة المصروفات. تحدث معالجة المصروفات مع المشروعات أو بدونها باستخدام سير عمل قابل للتخصيص من السياسات، وفئات الحركات، والموافقات.
 
@@ -35,4 +35,4 @@ ms.locfileid: "7364127"
 
 [![لقطة شاشة لصفحة مصروفات Finance and Operations Onsite.](../media/onsite-expenses-ss.png)](../media/onsite-expenses-ss.png#lightbox)
 
-تعرف على المزيد حول تعقب الوقت وإدارة المصروفات في [‏‫بدء استخدام إدارة العمل في Dynamics 365 Project Operations](/learn/modules/get-started-project-work-management/?azure-portal=true).
+تعرف على المزيد حول تعقب الوقت وإدارة المصروفات في [‏‫بدء استخدام إدارة العمل في Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-project-work-management//?azure-portal=true).

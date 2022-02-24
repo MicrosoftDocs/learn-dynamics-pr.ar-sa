@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 07a3c300360ef72284507dcdb531214b9dd83d87e5f220222fc0d7b41bbb7c1b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: eb0508c1d37027f972416a5511548c9d32e85cc9
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7125410"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071991"
 ---
 تُمكّنك وظيفة تعقب التغييرات من تصدير البيانات بشكل متزايد من تطبيقات Finance and Operations باستخدام Data Management Framework.
 للقيام بذلك، يجب عليك أولاً تمكين تعقب التغييرات للكيانات. إذا لم يتم تمكين تعقب التغييرات، يمكنك فقط تمكين تصدير كامل في كل مرة. 

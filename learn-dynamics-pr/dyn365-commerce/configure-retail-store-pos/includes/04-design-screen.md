@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fa448d61a139d1d5ba7963c54e2f0fb32c2d11f90fc811dc3f47bfb08e9fbfa7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a4ade90a422468ded95e7649226bc89d6666e293
+ms.sourcegitcommit: 87bfbce5cff1a2ceba28af60632730a16c68acd9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131960"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "6070418"
 ---
 تكون تخطيطات شاشة MPOS وCPOS في نقطة البيع قابلة للتكوين لكثير من المتطلبات. ويتم تكوين تخطيطات الشاشة على مستوى المخزن ولكن يمكن تجاوزها على مستوى السجل والمستخدمين، إذا لزم الأمر. تتيح لك هذه الميزة تكوين السجلات مرة واحدة، ولكنها لا تزال تسمح بتخطيط جديد لتخطيط خط محدد أو لمدير أو مستخدم متمرس يطوف بين المتاجر. 
 

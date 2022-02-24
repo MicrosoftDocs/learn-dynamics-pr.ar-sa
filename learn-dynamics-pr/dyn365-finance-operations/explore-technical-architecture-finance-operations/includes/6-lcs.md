@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f62896f2e83ee500b43459ae31f9a6624628cf870a7a186d972c9d63e764af73
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fdcc2bdd055cb643f430379a31486125920d6dc6
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087648"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072301"
 ---
 تعتبر Lifecycle Services (LCS) أداة تساعد المطورين في إدارة دورة حياة تطبيقات Finance and Operations. لاستخدام LCS، انتقل إلى [https://lcs.dynamics.com](https://lcs.dynamics.com/v2/?azure-portal=true) وقم بتسجيل الدخول باستخدام بيانات اعتماد Microsoft Azure Active Directory (Azure AD). توفر أداة LCS العديد من الأدوات التي يمكنك استخدامها لنشر وصيانة بيئاتك المحلية أو المستندة إلى السحابة. 
 

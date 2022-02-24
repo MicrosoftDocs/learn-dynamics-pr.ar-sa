@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9acd211acced382c464bbe891d07492066cc6bac
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 7f47fd5c098e0dde42c9af6421ba730f3fb60b5f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326835"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070203"
 title: إدارة ترحيل كشف الحساب في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nبيانات البيع بالتجزئة وإنشاء الأوامر في الوقت الحقيقي تقريباً هي عملية تحويل حركات البيع بالتجزئة في Dynamics 365 Commerce إلى حركات مادية ومالية حتى تتمكن من حساب المبيعات في التمويل والمخزون.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف الفرق بين ترحيل كشوف حساب البيع بالتجزئة التقليدية وإنشاء الأمر في الوقت الحقيقي تقريباً. \n- تعرف على كيفية تمكين إنشاء الطلبات في الوقت الحقيقي تقريباً والتعامل معه.\n- تعرف على كيفية إنشاء وحساب وترحيل كشوف حساب البيع بالتجزئة.\n"

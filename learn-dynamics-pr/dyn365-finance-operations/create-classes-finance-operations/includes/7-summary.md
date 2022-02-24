@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dc1a1a57b21ef0c25b6af4e50730bc25ba0afc48
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: c9bc76b810c03a48469f8b4467aaf5f0dd347eb1
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7351829"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071557"
 ---
 تستخدم فئات تطبيقات Finance and Operations لغة تطوير X++ وهي لغة برمجة موجهة للكائنات. تحتوي الفئات على بيانات تحدد حالة الكائن والأساليب التي تحدد سلوك الكائن. تحتوي العناصر مثل الجداول والنماذج على فئات خارج جاهزة للتشغيل. يمكن تعديل هذه العناصر من خلال الامتداد لإضافة المزيد من الأساليب التي تتحكم في سلوك العنصر. من خلال نافذة **مستكشف الحلول** في Visual Studio، يمكنك إضافة فئة جديدة أو فئة قابلة للتشغيل إلى المشروع الخاص بك. 
 
@@ -15,9 +15,9 @@ ms.locfileid: "7351829"
 
 | الموضوع | الارتباط |
  | ------------- | ------------- |
- | نظره عامة على أنواع وأساليب فئات متعددة| [الفئات والأساليب](/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-classes-methods/?azure-portal=true)|
- | أساليب معالجة البيانات| [تحديد بيانات X++ والمعالجة](/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-data-query/?azure-portal=true)|
-| تعلُّم أساسيات X++| [ابدأ في التطوير باستخدام X ++ في تطبيقات Finance and Operations](/learn/modules/get-started-xpp-finance-operations/?azure-portal=true)|
+ | نظره عامة على أنواع وأساليب فئات متعددة| [الفئات والأساليب](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-classes-methods/?azure-portal=true)|
+ | أساليب معالجة البيانات| [تحديد بيانات X++ والمعالجة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-data-query/?azure-portal=true)|
+| تعلُّم أساسيات X++| [ابدأ في التطوير باستخدام X ++ في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/get-started-xpp-finance-operations/?azure-portal=true)|
 
 
 

@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 631a20731982bdb8731339ddbd98f537a91eb8ba
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operation
+  ms.openlocfilehash: ebd8ff9fb72c28fc1461e54539e6b5ddf71559cb
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7324225"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6074550"
 title: التعامل مع حسابات المدفوعات في Dynamics 365 Finance
 summary: >
   [!include[](../../includes/lp-banner.md)]

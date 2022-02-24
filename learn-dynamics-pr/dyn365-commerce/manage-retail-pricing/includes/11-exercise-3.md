@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 002f54087aeee57753175673371ec990e95e3bcacb071b1bc8ec1077581cdfd8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6a04b7c8d6f6714bf7d91ad7105116fa0ac52cce
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7088179"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070265"
 ---
 أنت مسؤول عن الحفاظ على أسعار مبيعات المنتجات في مؤسستك. بعد إجراء العديد من التغييرات على الأسعار، ترغب في تشغيل بعض عمليات الفحص العشوائي عن طريق محاكاة أسعار المبيعات لضمان تنفيذ التغييرات وحساب التسعير بشكل صحيح. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ab072ffa91bee078be3bb6d5fc7a43d051ea0ea4f6b7485efb4d2c5bb75bdb9
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2afeaf7799f8b25a67df076e6c044977b2429151
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7143978"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070279"
 ---
 تتيح لك قناة مركز الاتصال الموجودة في المقر التجاري العمل مع العملاء عبر الهاتف. 
 

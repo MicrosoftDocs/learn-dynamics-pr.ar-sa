@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad02d3086b885a55e8c6ba91f88e50cdd1c690b0ee952f663d19aa8fec472248
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3a5428e6bc8e6ad2f565723807ffd1cbead7354f
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7064691"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070403"
 ---
 الغرض من عنصر الأجزاء هو التخلص من إنشاء المحتوى الزائد عن طريق تركيز تكوينات الوحدة النمطية التي يُعاد استخدامها عبر موقعك. إنها تسمح بتحديثات فعالة للمحتوى لأن تحرير جزء واحد يمكن أن يؤدي على الفور إلى تحديث آلاف الصفحات التي تشير إليه.
 

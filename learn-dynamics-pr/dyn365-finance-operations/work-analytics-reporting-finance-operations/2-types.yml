@@ -4,16 +4,17 @@ title: فهم الأنواع المختلفة للتقارير والاستعل�
 metadata:
   title: فهم الأنواع المختلفة للتقارير والاستعلامات
   description: توضح هذه الوحدة الأنواع المختلفة للتقارير والاستعلامات في تطبيقات Finance and Operations.
-  ms.date: 02/01/2021
+  ms.date: 03/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8498c2ec791bdbb5e2288135b277d634dcbd845e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7cff8139ce5b92fa79dfa9ad7d91421ab462e601
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349104"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071415"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

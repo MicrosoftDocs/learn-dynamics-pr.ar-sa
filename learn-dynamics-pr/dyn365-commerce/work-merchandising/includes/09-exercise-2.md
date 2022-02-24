@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f13f4d25163760aa184b2801c2489ceba1a4e80d23ce33f23ad59edd0c49caf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d1065de1e4239c6cc0dc21312f5c18532c727c7b
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7106303"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070187"
 ---
 ستقوم بإنشاء سمة جديدة وإرفاقها بتدرج هرمي للمنتجات بحيث تكون متاحة لجميع المنتجات الموجودة في هذا التدرج الهرمي. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 33f07e17651457bf5a10defb782c515d6bee1e568d985eb7fd5d2d078868c6e5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4b62470ee00e2d1b45d0c0338eff9dfc156e5252
+ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7068223"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "6072764"
 ---
 بالنسبة للضرائب المتعلقة بالمصروفات، ضع في اعتبارك ما تم تضمينه أو تمكينه في تقارير المصروفات.
 

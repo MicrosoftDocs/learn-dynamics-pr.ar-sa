@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c39a61c1172d72eb30bf18fedcc498227ae1b906a1eb31da8d39d3b57178d708
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 54ce4a0a88a14b0543b60c09c33f84e720cc1633
+ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7048060"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "6111955"
 ---
 كجزء من إجراءات إعداد إدارة التغييرات الهندسية لديك، تحتاج إلى إعداد قاعدة يتم بموجبها طلب تغيير مستند، عند إنشاء طلب تغيير، بأثر **الحد الأدنى**. 
 

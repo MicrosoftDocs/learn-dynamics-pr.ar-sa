@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b9d80cd1fa3638e5bd103a97a2f168f9db8bb9bb33ccbed2174b9ba5568880f8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a814db95afdbd0b10623a4530ac9beb6a73dc0e9
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070336"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070233"
 ---
 يتميز كل متجر ومحطة طرفية بخصائص ومتطلبات مميزة بناءً على ملفات تعريف الشبكة والاحتياجات الوظيفية داخل المتجر وعبر المتاجر ونفقات الصيانة العامة. يتمتع العملاء بالمرونة لمزج التكوينات ومطابقتها بسلاسة لكل متجر وكل محطة، بناءً على هذه الخصائص والمتطلبات، للحصول على أقصى قيمة بأقل تكلفة صيانة وتشغيل.
  

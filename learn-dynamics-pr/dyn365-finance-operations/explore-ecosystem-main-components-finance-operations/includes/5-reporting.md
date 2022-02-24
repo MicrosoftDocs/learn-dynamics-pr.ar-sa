@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3fdcdf6e9f42f596585837f52d950940af1f01825826b27ad943c7f0848685a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d9b3e5bd704b9b5d5769ab18e4cbf79ef86f2204
+ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059384"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "6072300"
 ---
 كمطور، قد تحتاج إلى تطوير التقارير لتلبية احتياجات الأعمال. وبالتالي، يجب فهم أنواع التقارير في تطبيقات Finance and Operations والقدرات الخاصة بها؛ حتى تتمكن من تحديد نوع التقرير الذي يجب تطويره.
 

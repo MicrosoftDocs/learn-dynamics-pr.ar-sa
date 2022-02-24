@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7d5903de63b610443cb4ab897d159726a91caea2c2164e591612d463f5f90acb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f316a4c7bf1f519a0991a0d88f81e24c58cafd30
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120271"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071276"
 ---
 ستحتاج إلى تثبيت مشروع تطبيقات Finance and Operations والبيئة من خلال Lifecycle Services (LCS) لأداء هذا التدريب. ستحتاج أيضاً إلى حساب للوصول إلى صفحة LCS.
 

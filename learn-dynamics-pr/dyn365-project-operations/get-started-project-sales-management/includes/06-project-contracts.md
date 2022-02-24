@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ab88fd67487ae5369be6e9b7a27107ad0c30371164111232d97012cb811074a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 90de45ff97532a1cfd81d7f19d155f9137c6f08b
+ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7140581"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "6072850"
 ---
 
 تلتقط عقود المشروع في Project Operations الالتزامات المتفق عليها تعاقدياً وتفاصيل الفوترة لأحد المشاريع، وتديرها. يتم تفصيل هيكل عقد مشروع في Project Operations للعمل المستند إلى المشروع باستخدام المكونات التالية:

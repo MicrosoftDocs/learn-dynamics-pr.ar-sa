@@ -1,22 +1,26 @@
 ---
-ms.openlocfilehash: 870bf77e8cf0c8de24711b56e6e40f96f93420bc
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 0d281d810288af974219c9fbd746e1f2541af54c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7349254"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071609"
 ---
 
 تتكون النماذج في Visual Studio من عناصر مثل الحقول والجداول وعوامل التصفية والشبكات، والتي تعرض لمستخدمي تطبيقات Finance and Operations في شكل صفحات. بشكل مبتكر، تحتوي كل وحدة نمطية تحتوي على العديد من الصفحات المرتبطة بموضوع الوحدة النمطية. يمكنك إنشاء صفحات جديدة ووحدات نمطية جديدة من خلال التطوير في Visual Studio. ويعد إجراء أفضل الممارسات عند تطوير نموذج جديد تقوم بتطبيق نمط نموذج. يتم استخدام العديد من أنماط النماذج عبر التطبيق، حيث يحدد كل منها تخطيط الصفحة وبنيتها ومحتوياتها. تتطلب بعض عناصر نمط النموذج تطبيق نمطاً فرعياً ليتم تطبيقه أيضاً. تتم إدارة النماذج في إطار مصمم النماذج، والذي يحتوي على جزء النموذج الذي يعرض الخطوات المطلوب اتباعها لإنشاء جزء النموذج والمعاينة حيث يمكنك مشاهدة كيفية تغيير النموذج بينما تقوم بإضافة العناصر وتعديلها.
 
 كمطور، لديك أدوات متعددة يمكنك استخدامها لاختبار أداء النموذج وتحسينه. يمكنك تعيين النموذج ككائن بدء التشغيل في نافذة **مستكشف الحلول**، ثم معاينة النموذج في إطار مستعرض داخل بيئة المطور. سيسمح لك ذلك بإجراء تعديلات بسيطة على العرض والبنية الخاصة بالنموذج. يمكن استخدام الأدوات القائمة على المستعرض مثل Fiddler وجهاز ضبط وقت الأداء لتحسين أداء النموذج.
 
-ويريد المستخدمون تجربة غير سلسة عند استكشاف تطبيقات Finance and Operations. ومن خلال تحليل أوقات تحميل النموذج والتحديث، يمكن للمطور التأكد من أن المستخدم لديه تجربه التنقل التي يريدونها.
+ويريد المستخدمون تجربة غير سلسة عند استكشاف تطبيقات Finance and Operations. ومن خلال تحليل أوقات تحميل النموذج والتحديث، يمكن للمطور التأكد من أن المستخدم لديه تجربه التنقل التي يريدونها. 
 
-## <a name="links-to-related-modules-and-sites-for-specific-topics"></a>ارتباطات لوحدات نمطية ذات صلة لموضوعات معينة
+
+
+## <a name="links-to-related-modules-and-sites-for-specific-topics"></a>ارتباطات لوحدات نمطية ذات صلة لموضوعات معينة 
+
 
 | الموضوع | الرابط|
  | ------------- | ------------- |
- |   إرشادات النموذج والتفاصيل الخاصة بنماذج النماذج| [إرشادات النموذج العامة](/dynamics365/fin-ops-core/dev-itpro/user-interface/general-form-guidelines/?azure-portal=true)|
- | أوصاف نموذج النموذج | [أنماط النموذج](/dynamics365/fin-ops-core/dev-itpro/user-interface/form-styles-patterns/?azure-portal=true)|
-| مؤقت الأداء| [مؤقت الأداء](/dynamics365/fin-ops-core/dev-itpro/perf-test/performance-timer/?azure-portal=true)|
+ |   إرشادات النموذج والتفاصيل الخاصة بنماذج النماذج| [إرشادات النموذج العامة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/user-interface/general-form-guidelines)|
+ | أوصاف نموذج النموذج | [أنماط النموذج](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/user-interface/form-styles-patterns)|
+| مؤقت الأداء| [مؤقت الأداء](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/perf-test/performance-timer)|
+

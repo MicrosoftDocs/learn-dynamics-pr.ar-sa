@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 17df59128b146947091b012ade3b5162cea142a41b4a31bc9548f6feff00c6e1
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 17d6f3c7b4ee7f0d0378c849535caea68812965d
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130743"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071966"
 ---
 تتصل الشركات والمؤسسات إلكترونياً مع بعضها باستخدام بروتوكولات وتنسيقات رسائل قياسية في المجال، مثل EDIFACT وAS2 وX12. باستخدام الميزات الموجودة في حزمة تكامل المؤسسة (EIP)، يمكنك إنشاء تطبيقات منطقية لتحويل تلك الرسائل إلى تنسيقات يمكن أن تستخدمها تطبيقات Finance and Operations. تعالج التطبيقات المنطقية عمليات التبادل هذه بسلاسة مع التشفير والتوقيعات الرقمية.
 

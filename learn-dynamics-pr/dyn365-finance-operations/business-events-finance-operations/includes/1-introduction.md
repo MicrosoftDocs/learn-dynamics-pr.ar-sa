@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9330bcfd3abf3545d72971d9eea6b38411318aacd282760a1d308e2bf313db00
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1714047a6c2776be5cca7f3a0915adf2a8ac5468
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7105640"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071725"
 ---
 يتم إجراء أحداث الأعمال عند تشغيل عملية أعمال. أثناء عملية الأعمال، يقوم المستخدمون الذين يشاركون فيها بتنفيذ إجراءات العمل لإكمال المهام التي تشكل عملية الأعمال.
 

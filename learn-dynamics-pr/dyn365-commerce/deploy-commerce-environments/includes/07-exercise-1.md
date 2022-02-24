@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee0f2825f845388ee09f3bd2ea17679e45695146585c035d86b71ff66d2b0bdd
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4069758a069dfc6ba558beaf936804d7fdfebb60
+ms.sourcegitcommit: 3d984582e4fe316c7b6725a5de93570693cd67e3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079818"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "6070467"
 ---
 طُلب من مطور Commerce توزيع وحدة Commerce Cloud Scale Unit جديدة لإحدى الشركات.
 

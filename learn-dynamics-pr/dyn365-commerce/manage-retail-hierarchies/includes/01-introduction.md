@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3b0cbc00f4cd4002e7d7dc62625497457dd564771894ccaef75fa2adbe9c1834
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 72a864266c2edbdb92cfa278bcb1a589e919867c
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7110741"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070248"
 ---
 تقدم هذه الوحدة النمطية نظرة عامة على التدرجات الهرمية للمؤسسة والمنتجات وكيفيه استخدامها في Dynamics 365 Commerce. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e17beb65ee10126e44875c1e70fec7b65f44cb41
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 8e8bb647eeb05900df5fa32502ee95d9f4ecc89a
+ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7342382"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "6072691"
 ---
 Dynamics 365 Human Resources توفر مدخل خدمة ذاتية للمديرين والموظفين للوصول إلى ملفات تعريف الموظفين وتطويرهم وأدائهم وتفاصيل كشف الرواتب الخاصة بهم. كما يمكن للموظفين عرض أرصدة الإجازات وتقديم طلبات الإجازة في Microsoft Teams.
 
@@ -76,4 +76,4 @@ Dynamics 365 Human Resources يساعدك في تحسين تكاليف القو�
 
 -   عرض المعلومات الأساسية حول أعضاء الفريق، بما في ذلك التعويضات والإجازات وأهداف الأداء والتقييمات.
 
-للحصول على مزيد من المعلومات، راجع [نظرة عامة حول الخدمة الذاتية للموظف والمدير](/dynamics365/human-resources/hr-employee-manager-self-service-overview/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [نظرة عامة حول الخدمة الذاتية للموظف والمدير](https://docs.microsoft.com/dynamics365/human-resources/hr-employee-manager-self-service-overview/?azure-portal=true).

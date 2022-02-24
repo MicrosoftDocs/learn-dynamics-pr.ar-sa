@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 95478b892cda70cabf1ddfeb7d0e35a6e9489cec10b7633139ee17ddb9e548bb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9ee24e5481f191be31368fb17d782952e1bbbfaf
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7059069"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072446"
 ---
 توفر تطبيقات Finance and Operations خدمات متكاملة وتطبيقات للعملاء تُسهِّل عملية إنشاء وتخزين وتوزيع المستندات التي تدعم نشاط العمل. 
 

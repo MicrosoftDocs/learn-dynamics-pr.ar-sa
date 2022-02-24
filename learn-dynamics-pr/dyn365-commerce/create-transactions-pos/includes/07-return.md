@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4a112da2e11a944e93cbbbc2f2d2dadbdf22cd95123e4cbf0fe7342350f507d1
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d5f7d218abdb485e6150f453388f8644402993fb
+ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131837"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "6070430"
 ---
 يمكن إنشاء مرتجع من خلال نقطة البيع بعدة طرق: 
 

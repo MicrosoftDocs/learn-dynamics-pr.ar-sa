@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 030a5ebbf871f35011abee9e4086d159582ff1ebf90fa3e8e56e353db1cef565
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8a9f2079bdc6e2bb1fe1fd8a355b6cdfd6a67e1f
+ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141075"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "6214426"
 ---
 في هذه الوحدة، تعلمت كيفية تكوين معلمات الإجازة والغياب في Dynamics 365 Human Resources، وإنشاء خطط إجازة، وإدارة طلبات الإجازات والغياب.
 

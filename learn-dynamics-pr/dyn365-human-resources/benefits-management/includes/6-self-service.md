@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6bad5f40919ea7c75c8aa2f6cc06a4356ff0ffc42da6bde0221c70b109993d37
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f11dcb6c66df9b488129748031c25b3d10f72312
+ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115646"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "6072704"
 ---
 لجعل الفوائد الخاصة بك قابله للوصول للموظفين في **معلمات الخدمة الذاتية للموظفين**، يمكنك تكوين إطارين لإدارة الفوائد:
 

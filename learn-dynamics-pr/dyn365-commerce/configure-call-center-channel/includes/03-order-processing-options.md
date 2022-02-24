@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f0e7eac542e607f1f0797659c6b8f482cf345d9135dcebc6e3d9dac56bafe59
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e6bf1acdd7de6d1430d7e496e0b9bc4fe696e7f7
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7101686"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6070329"
 ---
 أثناء إنشاء مركز الاتصال، يكون لثلاثة خيارات معالجة تأثير كبير على الميزات المتاحة لأوامر مركز الاتصال بناءً على ما إذا كانت خيارات المعالجة هذه ممكّنة على قناة مركز الاتصال أم لا:
 

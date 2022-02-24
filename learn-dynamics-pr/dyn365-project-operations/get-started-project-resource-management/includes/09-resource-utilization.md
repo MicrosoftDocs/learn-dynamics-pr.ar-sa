@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74a2b563f3484cdb7259d2f9420d154a33f0dc29625bc3f1ce4d2f24b1e8438d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 309c4d2acfc7e5fcf738028704a7a524359915e1
+ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7098691"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "6072899"
 ---
 يمكن أن يكون للموارد استخدام قابل للفوترة مستهدف. ويتم تحديد استخدام الهدف هذا كسمة في الدور الافتراضي للمَورد أو يتم تعيينه في سجل المَورد القابل للحجز الفردي. وتعتمد العمليات الحسابية للاستخدام على الساعات الفعلية التي قامت الموارد بالإعلام عنها باستخدام قيود الوقت المعتمدة.
 

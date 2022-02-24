@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b77bc3167e2ce5a44e22ee88d75017ed79b7ae483269fa0b8e50219320c29ab0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d0930764a2eb38bae516c202a1b0bcd89b7eaef2
+ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095257"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "6070439"
 ---
 يعد فهم التسعير الحالي أو المستقبلي لأحد المتاجر أمراً مهماً لمديري المتجر وموظفيهم. يمكن أن يساعد تقرير **قائمة الأسعار** في هذا السيناريو عن طريق الاستعلام عن أسعار كل متجر والخصومات المطبقة في يوم محدد. يمكنك العثور على هذا التقرير بالانتقال إلى علامة التبويب **البيع بالتجزئة والتجارة > القنوات > المتاجر > جميع المتاجر > المتجر** ثم تحديد **مجموعة الأسعار > قائمة الأسعار**.
 

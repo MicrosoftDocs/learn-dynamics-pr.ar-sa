@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5bceb9b306f4368481caf2d5fb3593c71db9089a061bddc58c081bc7e7723b1c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3dbe4a11dc4a120760a8f4c6ee4b5db121cf1297
+ms.sourcegitcommit: 53e9b556e7b6f3d5c3572dca51b838fa1678f792
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7126926"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "6070494"
 ---
 يمكن تعليق الحركات الجارية للوصول لاحقاً من ذلك السجل أو من سجل نقطة بيع مختلف. 
 

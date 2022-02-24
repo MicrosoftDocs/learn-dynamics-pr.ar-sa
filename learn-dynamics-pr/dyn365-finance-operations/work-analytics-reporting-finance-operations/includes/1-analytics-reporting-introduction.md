@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2b05b7e31fd495774c6cf5220f0ffa79c610b11b40200d5825af21e7a35f7663
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5cc496d5975551bb6db983e44e321ae0e795aa44
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7063780"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071528"
 ---
 يمكن تعريف تقرير ببساطة في تطبيق Finance and Operations على أنها عرض بيانات مهيكل. في الظروف المثالية، تقوم التقارير بتحويل البيانات بطريقة تسمح للمستخدم باتخاذ قرارات مدروسة. تدعم التطبيقات Finance and Operations الوصول إلى نطاق واسع من سيناريوهات الوصول إلى المعلومات التي تتضمن، على سبيل المثال لا الحصر، ما يلي: 
 

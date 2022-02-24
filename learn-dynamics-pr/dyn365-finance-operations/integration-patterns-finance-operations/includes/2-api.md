@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 678176f080f356ffb3ace48b8558bb3acc6c70e8
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 798812fc6961506018a58ee17036aa4935f3851d
+ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350598"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "6071936"
 ---
 
 تحتوي تطبيقات Finance and Operations على واجهات برمجة تطبيقات (API) متعددة تدعم سيناريوهات التكامل المستندة إلى الملفات:
@@ -42,4 +42,4 @@ ms.locfileid: "7350598"
 -   **نوع الخدمة** - يتم استخدام OData لإطار عمل إدارة البيانات. يتم استخدام OAuth 2.0 للمصادقة والوصول إلى التطبيق.
 -   **التوافر** - تتوفر هذه الوظيفة في تطبيقات Finance and Operations، النظام الأساسي 5، والإصدارات الأحدث. هذ هي واجهة برمجة التطبيقات (API) الوحيدة المدعومة لعمليات التوزيع المحلية.
 
-لمزيد من المعلومات حول واجهات برمجة التطبيقات (API) هذه، يُرجى الرجوع إلى وحدات [عمليات تكامل البيانات في تطبيقات Finance and Operations](/learn/modules/data-integrations-finance-operations//?azure-portal=true) و[تنفيذ واجهة برمجة تطبيقات (API) حزمة إدارة البيانات لتطبيقات Finance and Operations](/learn/modules/data-package-api-finance-operations/?azure-portal=true). يتم توفير ارتباطات لهذه الوحدات في وحدة الملخص.
+لمزيد من المعلومات حول واجهات برمجة التطبيقات (API) هذه، يُرجى الرجوع إلى وحدات [عمليات تكامل البيانات في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/data-integrations-finance-operations//?azure-portal=true) و[تنفيذ واجهة برمجة تطبيقات (API) حزمة إدارة البيانات لتطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/data-package-api-finance-operations/?azure-portal=true). يتم توفير ارتباطات لهذه الوحدات في وحدة الملخص.

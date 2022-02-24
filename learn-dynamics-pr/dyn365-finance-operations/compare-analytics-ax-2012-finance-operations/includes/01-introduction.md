@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eb8bf6c25f4ae35614e5fb86522e66247116a3b449b343432ce1533e7e5e90fd
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c024af9d6106b0e0657b7c36a317e448ad427a20
+ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7064253"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "6072428"
 ---
 أصبحت الآن البيانات هي الأصل التجاري الاستراتيجي الرئيسي. ينتج عن كل جهاز وكل عميل وكل نشاط يحدث في العالم اليوم بيانات غنية يمكن أن تساعد الأشخاص في إنشاء تجارب جديدة وكفاءات جديدة ونماذج أعمال جديدة بل واختراعات جديدة. قد يكون استخدام هذه البيانات هو العامل المميز لنجاح عملك.
 
