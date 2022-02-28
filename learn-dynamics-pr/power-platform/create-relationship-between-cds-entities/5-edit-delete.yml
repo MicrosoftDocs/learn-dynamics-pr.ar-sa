@@ -4,17 +4,17 @@ title: تحرير العلاقات أو حذفها
 metadata:
   title: تحرير العلاقات أو حذفها
   description: تعرف على كيفية تحرير العلاقات أو حذفها في Microsoft Dataverse.
-  ms.date: 04/29/2021
+  ms.date: 02/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: a7cdad4ec1181dba3ee16684afe35ba922fcc345
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c0f68a55ed0339b53a337bbd8d5ef212b3b9f852
+  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457463"
+  ms.lasthandoff: 02/01/2022
+  ms.locfileid: "8079442"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

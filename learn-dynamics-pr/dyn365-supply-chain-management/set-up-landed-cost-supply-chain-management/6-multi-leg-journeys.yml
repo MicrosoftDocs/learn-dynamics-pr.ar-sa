@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-landed-cost-supply-chain-management.6-multi-leg-journeys
+title: إعداد رحلات متعددة الوجهات
+metadata:
+  title: إعداد رحلات متعددة الوجهات
+  description: تعرّف على كيفية إعداد رحلات متعددة الوجهات.
+  ms.date: 02/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c3d174bf26797259d8ef1470dd6d8b7f89db4476
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091666"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-multi-leg-journeys.md)]"

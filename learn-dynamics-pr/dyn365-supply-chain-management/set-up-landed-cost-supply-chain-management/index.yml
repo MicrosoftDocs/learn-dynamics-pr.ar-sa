@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.set-up-landed-cost-supply-chain-management
+metadata:
+  title: إعداد التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
+  description: تعرف على كيفية إعداد وحدة التكلفة المستلمة في Dynamics 365 Supply Chain Management.
+  ms.date: 02/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5621764d62662ed1caaf441b67d8329e049dbfdf
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091645"
+title: إعداد التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتساعد وحدة \"التكلفة شاملة التفريغ\" الشركات على تبسيط عمليات الشحن الداخلي من خلال منح المستخدمين سيطرة مالية ولوجستية كاملة على الشحن المستورد، من الشركة المصنعة إلى المستودع.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتمكين وظيفة التكلفة شاملة التفريغ.\n- تعرّف على معلمات التكلفة شاملة التفريغ.\n- إعداد الرحلات وحاويات الشحن.\n- إعداد معلومات التسليم.\n- إنشاء رحلات متعددة الوجهات.\n- التعرّف علي اعداد الشحن الأساسي.\n"
+prerequisites: >
+  - المعرفة العامة بعمليات الشحن الداخلي
+
+  - المعرفة العامة بعمليات إدارة سلسلة التوريد
+
+  - كيفية التنقل في Dynamics 365 Supply Chain Management
+iconUrl: /learn/achievements/set-up-landed-cost-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.set-up-landed-cost-supply-chain-management.1-introduction
+- learn-dynamics.set-up-landed-cost-supply-chain-management.2-concepts-terminology
+- learn-dynamics.set-up-landed-cost-supply-chain-management.3-parameters
+- learn-dynamics.set-up-landed-cost-supply-chain-management.4-voyages
+- learn-dynamics.set-up-landed-cost-supply-chain-management.5-delivery
+- learn-dynamics.set-up-landed-cost-supply-chain-management.6-multi-leg-journeys
+- learn-dynamics.set-up-landed-cost-supply-chain-management.7-shipping
+- learn-dynamics.set-up-landed-cost-supply-chain-management.8-costing-parameters
+- learn-dynamics.set-up-landed-cost-supply-chain-management.9-general-ledger-integration
+- learn-dynamics.set-up-landed-cost-supply-chain-management.10-vendor-settings
+- learn-dynamics.set-up-landed-cost-supply-chain-management.11-exercise
+- learn-dynamics.set-up-landed-cost-supply-chain-management.12-check
+- learn-dynamics.set-up-landed-cost-supply-chain-management.13-summary
+badge:
+  uid: learn-dynamics.set-up-landed-cost-supply-chain-management.badge

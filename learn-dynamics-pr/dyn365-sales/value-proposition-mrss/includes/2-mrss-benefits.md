@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: acfac4bbd9d4a72ed2d0dd39cf1259bee931beec
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: f2dc0a8d6c9af5a097e53e2dd56809ec297f89b5
+ms.sourcegitcommit: 12ead4878624038536fa37cf1fe6e9260d4bd8ff
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436198"
+ms.lasthandoff: 02/02/2022
+ms.locfileid: "8084909"
 ---
 تجمع Microsoft بين أدوات Microsoft Dynamics 365 Salesوتطبيقات Power BI وLinkedIn Sales Navigator من أجل نجاح عملية البيع بينك وبين عملائك. 
  
-حل MRS (حل Microsoft Relationship Sales) هو وحدة SKU مخفضة تجمع بين Microsoft Dynamics 365 SalesوLinkedIn Sales Navigator الذي يقوم بما يلي: 
+حل MRS (حل Microsoft Relationship Sales) هو وحدة SKU مخفضة تجمع بين Microsoft Dynamics 365 Sales وLinkedIn Sales Navigator الذي يقوم بما يلي: 
  
 - عرض معلومات LinkedIn حول العملاء المتوقعين والحسابات الموجودة في Dynamics 365 من خلال عنصر واجهة مستخدم Sales Navigator.
 - يوفر مزامنة يومية بين Sales Navigator وDynamics 365، بحيث يمكن رؤية العملاء المتوقعين وجهات الاتصال والحسابات الموجودة بالفعل في Dynamics داخل Sales Navigator.
@@ -39,10 +39,7 @@ ms.locfileid: "7436198"
 
 ### <a name="sku-options"></a>خيارات وحدة SKU
 
-يوجد خياران بوحدة SKU لحل MRS:
-
-- **MRSs** - (LinkedIn Sales Navigator Team + Dynamics 365 Sales Enterprise)
-- **MRSs Plus** - (LinkedIn Sales Navigator Enterprise + Dynamics 365 Sales Enterprise) 
+يوجد خيار وحدة SKU لـ **MRSs Plus** - (Sales Navigator Advanced Plus + Dynamics 365 Sales) 
 
 **لتأهيل وحدة SKU لحل MRS** يتم تطبيق المعايير التالية: 
 - في اتفاقية Microsoft Enterprise التجارية (يوجد أكثر من 500 مقعد لأي منتج من منتجات Microsoft)  
@@ -51,11 +48,11 @@ ms.locfileid: "7436198"
 - لإنهاء عقد LinkedIn (قبل تاريخ تجديد العقد):
     - التزام لسنوات متعددة وحجوزات تراكمية
     - إجمالي الإنفاق (إجمالي قيمة العقد) > 200 ألف دولار أمريكي (35 مقعد لحل MRS بموجب عقد مدته ثلاث سنوات) 
-    - >أعلى بنسبة 20% من المبلغ المستهدف لتجديد عقد معهد المناظر الطبيعية 
+      - أعلى بنسبة 20% من المبلغ المستهدف لتجديد عقد معهد المناظر الطبيعية 
 
 قيمة الجزء LinkedIn Sales Navigator لحل MRS (على سبيل المثال، في حالة انخفاض المدة، يجب زيادة المقاعد).
 
-**قواعد المشاركة (RoE):** يجب إخطار ممثل Sales Professional في Microsoft Solutions وممثل LinkedIn مسبقًا بحركة المبيعات. 
+**قواعد المشاركة (RoE):** يجب إخطار أخصائي Microsoft وممثل LinkedIn مسبقاً بحركة المبيعات. 
  
 **عملية مطالبات الشريك:** تعد عملية مستشار خدمات الإنترنت (OSA) هي عملية المطالبات الجديدة نفسها.
 

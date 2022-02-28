@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-landed-cost-supply-chain-management.12-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 02/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9cfb2a1e0dc1191abf4170cf6f23b124a47ac2d2
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091644"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
+  questions:
+  - content: هل صحيح أنه بإمكان المصطلح "رحلة بحرية" أن يشير إلى فقط إلى سفينة واحدة؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: في حين أنه بإمكان المصطلح "رحلة بحرية" أن يشير إلى سفينة واحدة، يمكنه أيضاً أن يشير إلى مورّد أو أمر شراء واحد، بحسب ممارسات الشركة وإجراءاتها.
+    - content: لا
+      isCorrect: true
+      explanation: بإمكان الرحلة البحرية أن تشير أيضاً إلى مورّد أو أمر شراء واحد، بحسب ممارسات الشركة وإجراءاتها.
+  - content: ما الإعداد الذي تنتمي إليه القواسم الحجمية‬ في التكلفة شاملة التفريغ؟
+    choices:
+    - content: إعداد قيم معلمات تقدير التكاليف‬
+      isCorrect: true
+      explanation: يتم استخدام الأقسام الحجمية لحساب الوزن الحجمي، مما قد يؤثر على تكاليف البضائع؛ وهي بالتالي جزء من إعداد قيم معلمات تقدير التكاليف‬.
+    - content: إعداد معلومات الشحن
+      isCorrect: false
+      explanation: يحدد إعداد معلومات الشحن البضائع والسفن والمصدّرين ورموز السلع والأوصاف الجمركية المتعلقة بالشحن.
+    - content: إعداد حاوية الشحن
+      isCorrect: false
+      explanation: إعداد حاوية الشحن هو المكان الذي تحدد فيه الأنواع المختلفة للحاويات للتكلفة شاملة التفريغ.
+    - content: إعداد معلومات التسليم
+      isCorrect: false
+      explanation: إعداد معلومات التسليم هو المكان الذي تحدد فيه منافذ الشحن ومعلومات التحكم في التعقب المتعلقة بعمليات التسليم.
+  - content: هل صحيح أنه لا يتم توفير أوصاف افتراضية لدفتر الأستاذ العام المرتبط بالتكلفة شاملة التفريغ؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: الأوصاف الافتراضية كي يعمل دفتر الأستاذ العام مع التكلفة شاملة التفريغ.
+    - content: لا
+      isCorrect: true
+      explanation: تُضاف أوصاف تكلفة الاستيراد، تراكم التكاليف، وتكلفة الاستيراد، أمر البضاعة بالطريق، والمخزون، تسوية الإغلاق إلى حقل "الوصف" في صفحة "الأوصاف الافتراضية" لدعم التكلفة شاملة التفريغ‬‬‬.

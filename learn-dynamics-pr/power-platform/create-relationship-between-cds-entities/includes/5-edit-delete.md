@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ccac960b6ced33139e52a0be63c7ab13b78807e904a660b7ed1ed1c589716e18
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8915ca9a6bffa1cad8788c474cbd615f1059c789
+ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7457349"
+ms.lasthandoff: 02/01/2022
+ms.locfileid: "8079514"
 ---
 باستخدام الخطوات التالية، يمكنك تحرير أو حذف أي علاقات تقوم بإنشائها في Microsoft Dataverse. لا يمكن تحرير علاقات الجداول الافتراضية أو حذفها.
 
@@ -35,7 +35,7 @@ ms.locfileid: "7457349"
 
 1.  قم بتسجيل الدخول إلى Power Apps.
 
-2.  حدد **البيانات > الجداول** وحدد أحد الجداول في العلاقات التي ترغب في إنشائها.
+2.  حدد **البيانات > الجداول** وحدد أحد الجداول في العلاقات التي ترغب في حذفها.
 
 3.  حدد علامة التبويب **العلاقة** في القائمة.
 

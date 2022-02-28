@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-landed-cost-supply-chain-management.5-delivery
+title: إعداد معلومات التسليم
+metadata:
+  title: إعداد معلومات التسليم
+  description: تعرّف على كيفية إعداد معلومات التسليم.
+  ms.date: 02/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0555e9c746c02bfec98c739812e29121ad9c992b
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091660"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-delivery.md)]"

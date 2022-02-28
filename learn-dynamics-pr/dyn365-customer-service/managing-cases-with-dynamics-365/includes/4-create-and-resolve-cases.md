@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: 110501e8522b1be399524fa384d661db243da79e
-ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+ms.openlocfilehash: 7ea0c9d309a7f0b949275fb3b7f390e2f72246c8
+ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/23/2021
-ms.locfileid: "7946113"
+ms.lasthandoff: 02/04/2022
+ms.locfileid: "8091220"
 ---
-يرشدك هذا التدريب عبر خطوات لإنشاء نشاط مكالمة هاتفية وتحويلها إلى حالة وحل الحالة ثم إعادة تنشيط الحالة وتعديلها وحلها.
+يرشدك هذا التمرين من خلال خطوات لإنشاء نشاط مكالمة هاتفية وتحويله إلى حالة وحل الحالة ثم إعادة تنشيط الحالة وتعديلها وحلها.
 
-## <a name="create-a-phone-call-activity"></a>إنشاء نشاط مكالمة هاتفية.
+## <a name="create-a-phone-call-activity"></a>إنشاء نشاط مكالمة هاتفية
 
-1. إذا لزم الأمر، استخدم [https://home.dynamics.com](https://home.dynamics.com/?azure-portal=true) لتشغيل **مركز Dynamics 365 Customer Service**.
+1. قم بتشغيل **مركز Dynamics 365 Customer Service**.
 
-1. عندما يكون مركز خدمة العملاء مفتوحاً، استخدم التنقل الموجود على الجانب الأيمن لتحديد **الأنشطة** من ضمن مجموعة **العمل الخاص بي**.
+1. بمجرد فتح مركز خدمة العملاء، استخدم التنقل الموجود على الجانب الأيسر لتحديد **الأنشطة** من ضمن مجموعة **العمل الخاص بي**.
 
 1. باستخدام شريط الأوامر، حدد الزر **مكالمة هاتفية**.
 

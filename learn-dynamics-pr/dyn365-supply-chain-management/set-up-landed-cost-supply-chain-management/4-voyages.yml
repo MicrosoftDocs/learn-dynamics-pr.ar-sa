@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-landed-cost-supply-chain-management.4-voyages
+title: إعداد الرحلات وحاويات الشحن
+metadata:
+  title: إعداد الرحلات وحاويات الشحن
+  description: تعرّف على كيفية إعداد الرحلات وحاويات الشحن.
+  ms.date: 02/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9e893a9d62376ef5e7f860898ea6984e6a90cfe9
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091647"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-voyages.md)]"
