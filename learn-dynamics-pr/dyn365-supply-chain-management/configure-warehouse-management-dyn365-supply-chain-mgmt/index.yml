@@ -3,16 +3,17 @@ uid: learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops
 metadata:
   title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management
   description: تساعد إدارة المستودعات في Dynamics 365 Supply Chain Management على تحسين عمليات المستودعات وتبسيطها وفقاً لاحتياجاتك الفردية. كما توفر نظرة ثاقبة على مخزونك والأدوات التي تحتاج إليها للمساعدة في زيادة رضا العملاء وتقليل التكاليف.
-  ms.date: 10/28/2021
+  ms.date: 06/03/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 863d78a7a2de28f8e2d4b53bc7bc9018a3f94eaa
-  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 62f7e4decb7c702b3eeb969ecbe5cf9be1525b26
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/28/2021
-  ms.locfileid: "7714726"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667134"
 title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -46,6 +47,9 @@ units:
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.5-warehouse-processes
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.6-reservation-hierarchies
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.7-exercise-configure-warehouse-management
+- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.8-exercise-configure-reservation-hierarchies
+- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-exercise-configure-disposition-codes-location-directives
+- learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.9-1-exercise-4
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.10-configure-warehouse-management-quiz
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.11-configure-warehouse-management-summary
 badge:
