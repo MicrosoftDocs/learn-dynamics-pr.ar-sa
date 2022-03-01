@@ -4,17 +4,18 @@ title: إنشاء مثيل لقاعدة بيانات Microsoft Dataverse
 metadata:
   title: إنشاء مثيل لقاعدة بيانات Dataverse
   description: تعرف على كيفية إنشاء مثيل لقاعدة بيانات Dataverse.
-  ms.date: 02/01/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 06/30/2019
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 1aa5e65801941ce6063d289ba956346292aff59e
-  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: f2dded968bf1c3e8609f8e0ae0d47373a221e035
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/01/2022
-  ms.locfileid: "8079418"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457521"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

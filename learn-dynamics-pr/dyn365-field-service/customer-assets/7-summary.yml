@@ -3,17 +3,17 @@ uid: learn-dynamics.customer-assets.7-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص أصول العميل في Dynamics 365 Field Service
+  description: ملخص وحدة أصول العميل مع Field Service
   ms.date: 11/04/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b373c25899e9ae104a247380d8976186857dc2e9
-  ms.sourcegitcommit: 39efc79c982ce78c1f50911723885e694f5fdde5
+  ms.openlocfilehash: 73f6d9c8b0bf3f351f2939bdfff7f946dd2918b9
+  ms.sourcegitcommit: 33507250798bc28b3fbff11538f31b26a0dc45f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/19/2021
-  ms.locfileid: "7826460"
+  ms.lasthandoff: 11/09/2021
+  ms.locfileid: "7776318"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

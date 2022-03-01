@@ -3,21 +3,20 @@ uid: learn-dynamics.introduction-dynamics-365-commerce
 metadata:
   title: مقدمة إلى Dynamics 365 Commerce
   description: يقوم Microsoft Dynamics 365 Commerce بدمج تجارب المكتب الخلفي، والتجارب في المتجر، والتجارب الرقمية لتخصيص مشاركة العملاء، وزيادة إنتاجية الموظفين، وتحسين العمليات، وتقديم نتائج أعمال أفضل.
-  ms.date: 02/14/2022
+  ms.date: 09/08/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: intro-internal
-  ms.openlocfilehash: 5ec15b140c3fa5450d79231e9edc9e3ec392cc5b
-  ms.sourcegitcommit: adf8d4fc269f5f7ee1803a5329f7a7dcfe6f8783
+  ms.openlocfilehash: c024f9dacee7e9f43e04416cf8dfc84a6b9108db
+  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/14/2022
-  ms.locfileid: "8119321"
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "7581664"
 title: مقدمة إلى Dynamics 365 Commerce
 summary: يوفر Dynamics 365 Commerce حلاً شاملاً للقناة متعددة الاتجاهات بدمج تجارب المكتب الخلفي، والتجارب في المتجر، والتجارب الرقمية لتخصيص مشاركة العملاء، وزيادة إنتاجية الموظفين، وتحسين العمليات، وتقديم نتائج أعمال أفضل.
 abstract: >
-  في هذه الوحدة النمطية، ستقوم بما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - اكتشاف خيارات التوزيع.
 

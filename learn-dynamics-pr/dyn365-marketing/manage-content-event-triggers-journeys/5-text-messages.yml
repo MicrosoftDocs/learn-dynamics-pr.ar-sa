@@ -4,15 +4,15 @@ title: إنشاء رسائل نصية صادرة
 metadata:
   title: إنشاء رسائل نصية صادرة
   description: تعرّف على إنشاء رسائل نصية صادرة.
-  ms.date: 09/14/2021
+  ms.date: 08/31/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a6e7da4efe7e5b7ce01875c573369d6275eabd8f
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.openlocfilehash: f7de17eeb0a81aeb13b4baedfdf4fd6eb99b5f33
+  ms.sourcegitcommit: 627204a9c92e0b1421cec8a3463b5eafb67e427a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/18/2021
-  ms.locfileid: "7501802"
+  ms.lasthandoff: 09/02/2021
+  ms.locfileid: "7469005"
 durationInMinutes: 7
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-text-messages.md)]"

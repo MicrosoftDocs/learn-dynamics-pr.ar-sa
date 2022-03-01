@@ -3,17 +3,17 @@ uid: learn-dynamics.introduction-dynamics-365.knowledge-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
   ms.date: 09/08/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4fd3ff2b22683f51e8091528f0861ba847e14e8d
-  ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
+  ms.openlocfilehash: 0dab41143f70e8a0d0521cfbbfbffe396146cb85
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/27/2022
-  ms.locfileid: "8045361"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7498489"
 azureSandbox: false
 durationInMinutes: 6
 quiz:
@@ -48,7 +48,7 @@ quiz:
       explanation: غير صحيح. لا يتم استخدام Dynamics 365 Sales Insights كأداة تدريب.
     - content: Dynamics 365 Remote Assist
       isCorrect: false
-      explanation: غير صحيح. لا يتم استخدام Dynamics 365 Remote Assist كأداة تدريب.
+      explanation: غير صحيح. قد تستخدم Dynamics 365 Remote Assist للتعاون.
     - content: Dynamics 365 Guides
       isCorrect: true
       explanation: صحيح. قد تستخدم Dynamics 365 Guides للتدريب.

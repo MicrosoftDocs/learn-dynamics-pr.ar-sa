@@ -3,16 +3,16 @@ uid: learn-dynamics.guided-lab-intelligent-order-management.04-create-requestbin
 title: إنشاء موصل مخصص RequestBin
 metadata:
   title: إنشاء موصل مخصص RequestBin
-  description: إنشاء موصل مخصص RequestBin في Intelligent Order Management.
+  description: إنشاء موصل مخصص RequestBin في Intelligent Order Management
   ms.date: 01/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4f31b2c462fc446b0e33d867e00c48e02b444885
-  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.openlocfilehash: 6e0a8dee6203310bc8275b680e07d05bafa90c5a
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "8091170"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075778"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-create-requestbin-customer-connector.md)]"

@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2473081b63aaa92740b5aae341697db3af1ae344
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 34c0f99a6619ccbcb1b3c539476739d5133d124c
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363425"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667527"
 title: العمل مع تخطيط القدرة الإنتاجية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nيساعد تخطيط القدرة الإنتاجية مؤسستك على تقدير قدرة حمل عمل أصولك. ويُعد ذلك من الأهمية بمكان نظراً لأنه يساعدك على التخطيط للصيانة، وتحديد أوامر العمل المخصصة لأصولك، سواءً كانت مجدولة أو غير مجدولة.  وتستعرض هذه الوحدة كيفية حساب القدرات الإنتاجية‬ لأصولك بالإضافة إلى التنبؤ باستهلاك الأصناف لأصولك على مدار فترة زمنية. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- احسب القدرة الإنتاجية على أوامر العمل وبنود جدول الصيانة.\n- قم بإنشاء حساب تنبؤ لأوامر العمل وبنود جدول الصيانة.\n"

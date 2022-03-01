@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-supply-chain
-  ms.openlocfilehash: ccef60f55b13816159f65d081dddb65195fa6e53
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-scm
+  ms.openlocfilehash: f4f38171fa20184132d2f16656de9c4c9e5d76c8
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328923"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668209"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-exercise-request-changes.md)]"

@@ -4,16 +4,17 @@ title: العمل باستخدام طلب عرض الأسعار
 metadata:
   title: العمل باستخدام طلب عرض الأسعار
   description: تصف هذه الوحدة التفاعلات بين العملاء والموردين أثناء عملية طلب عروض الأسعار (RFQ) وكيفية توصيل المعلومات إلى الموردين عبر إدارة سلاسل التوريد.
-  ms.date: 12/06/2021
+  ms.date: 01/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 076bd34ff6a2cf2bf517f9bc567521681732d00a
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 27b9917e4ed592d86d983a8ae2522d3539041a0f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7893184"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667634"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.setup-customer-service-scheduling.2-configure
-title: إعداد جدولة الخدمة
+title: تكوين جدولة الخدمة
 metadata:
-  title: إعداد جدولة الخدمة
-  description: تعرف على كيفية إعداد جدولة Customer Service.
+  title: تكوين جدولة الخدمة
+  description: التعرف على كيفية تكوين جدولة Customer Service
   ms.date: 10/12/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 91a0b43fec95ab11e23f119e4af303a00ae937ff
-  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.openlocfilehash: 8c5c6f70b32c975b36d052aed5a1094e25baacd0
+  ms.sourcegitcommit: 64cdcea1862aafb980162b74d5b330d0dc68a39d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/23/2021
-  ms.locfileid: "7675433"
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "7646472"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

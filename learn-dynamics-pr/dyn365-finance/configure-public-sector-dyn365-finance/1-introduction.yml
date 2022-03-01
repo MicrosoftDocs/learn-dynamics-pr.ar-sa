@@ -8,14 +8,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ROBOTS: NOINDEX
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/public-sector/year-end-processing-public-sector, https://docs.microsoft.com/dynamics365/unified-operations/financials/public-sector/tasks/create-advanced-ledger-entry-public-sector
-  ms.openlocfilehash: a46bb8a1941b5e5f1f9018ef7ac2c7755beb6d9d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5ee8e9954183709be2f792a4d3165281aa94e568
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337709"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677697"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-periodic-processes-d365-finance-ops.07-exercise-perform-year-end-close
-title: تمرين عملي - تنفيذ إقفال نهاية السنة‬ وعملية توحيد
+title: تمرين عملي - إجراء إقفال نهاية السنة
 labId: 71865
 metadata:
-  title: تمرين عملي - تنفيذ إقفال نهاية السنة‬ وعملية توحيد
-  description: تدرّب على تنفيذ إقفال نهاية السنة وعملية توحيد في Dynamics 365 Finance.
-  ms.date: 11/29/2021
+  title: تمرين عملي - إجراء إقفال نهاية السنة
+  description: تدرب على إجراء إقفال نهاية السنة في Dynamics 365 Finance.
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3ead94d1b04ed1858f863631581963377d0c67a3
-  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+  ms.openlocfilehash: cdec0fb483231695baf8d288e3d7b81e5792394b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/29/2021
-  ms.locfileid: "7867380"
-durationInMinutes: 30
-content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/07-exercise-perform-year-end-close.md)] \n[!include[](../includes/standalone-lab-end.md)]"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329173"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/07-exercise-perform-year-end-close.md)] \n[!include[](../includes/non-final-lab-end.md)]"

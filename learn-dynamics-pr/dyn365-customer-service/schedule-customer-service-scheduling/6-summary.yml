@@ -3,18 +3,18 @@ uid: learn-dynamics.schedule-customer-service-scheduling.6-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص خدمات الجدولة باستخدام جدولة Dynamics 365 Customer Service
-  ms.date: 10/26/2021
+  description: ملخص وحدة تحديد الخدمات وجدولتها باستخدام جدولة Customer Service
+  ms.date: 10/11/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 985330e6bf9248cdacc99e438594bf30288f0e53
-  ms.sourcegitcommit: 02114ca1b6f2674d26e02c4aaf530f01246e1dc3
+  ms.openlocfilehash: df372a334824f02508655c96f26581cc19544c69
+  ms.sourcegitcommit: 784ea0ea12d2d74af667d400d1909ee9d9de4ae0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2021
-  ms.locfileid: "7700518"
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7626726"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

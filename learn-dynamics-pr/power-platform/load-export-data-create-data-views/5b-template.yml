@@ -4,16 +4,16 @@ title: إنشاء تدفق بيانات جديد من أحد قوالب Excel
 metadata:
   title: إنشاء تدفق بيانات جديد من أحد قوالب Excel
   description: تعرّف على كيفية استخدام "إضافة قالب Excel" إلى تدفق بيانات Power Platform.
-  ms.date: 11/01/2021
+  ms.date: 10/01/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 63e2b57eaa516730e8cc12ad177540bc7ff824d6
-  ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
+  ms.openlocfilehash: 9d0e6ca0081af25d958eca36a0463ed5379ffd6a
+  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/01/2021
-  ms.locfileid: "7729406"
+  ms.lasthandoff: 10/01/2021
+  ms.locfileid: "7590565"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

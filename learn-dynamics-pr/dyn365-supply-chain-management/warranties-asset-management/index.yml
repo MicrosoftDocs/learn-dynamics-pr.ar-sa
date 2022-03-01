@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bec6bc928e59c86fec2fb5fcc194cdda760b0a73
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b9103585f5ed3c1fded6ae41f76508903672b484
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357709"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668415"
 title: استخدام الضمانات في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتبدء حماية أصولك المؤسسية بالحفاظ على سجلات الضمان التفصيلية في إدارة الأصول لـ Dynamics 365 Supply Chain Management. سنراجع في هذه الوحدة عملية اتفاقية الضمان، وإنشاء ضمانات على الأصول وأنواع الأصول.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد شروط الضمان وإنشاءها.\n- تعرف على كيفية إعداد الضمانات على الأصول وأنواع الأصول.\n"

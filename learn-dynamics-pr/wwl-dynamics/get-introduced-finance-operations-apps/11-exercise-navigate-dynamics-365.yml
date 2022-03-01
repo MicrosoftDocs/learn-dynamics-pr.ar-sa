@@ -4,17 +4,17 @@ title: 'معمل: انتقل إلى تطبيقات finance and operations'
 metadata:
   title: 'معمل: انتقل إلى تطبيقات finance and operations'
   description: 'معمل: انتقل إلى تطبيقات finance and operations'
-  ms.date: 10/18/2021
+  ms.date: 07/16/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: ad0199a6f5392d8c8d096fa66741ea10bb4a67ab
-  ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 3dd19e7b315616a04b7a33a06b9020900d93d4d1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/18/2021
-  ms.locfileid: "7648474"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438769"
 azureSandbox: false
 labId: 88374
 labModal: true

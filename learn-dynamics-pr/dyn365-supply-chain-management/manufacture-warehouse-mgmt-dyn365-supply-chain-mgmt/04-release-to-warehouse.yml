@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/production-control/releasing-bom-and-formula-lines-to-warehouse
-  ms.openlocfilehash: bbea51169d87621c631f2f02bf23d6c81ec5f01f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 848f855b0ac82bc810f01a47239c3d4fe8e12e05
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347584"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667723"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

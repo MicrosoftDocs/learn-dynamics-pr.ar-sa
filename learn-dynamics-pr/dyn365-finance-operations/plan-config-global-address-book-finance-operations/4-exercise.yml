@@ -5,16 +5,15 @@ labId: 63320
 metadata:
   title: تمرين عملي - تكوين دفاتر العناوين
   description: تدرّب على تكوين دفاتر العناوين في تطبيقات Finance and Operations.
-  ms.date: 04/22/2020
+  ms.date: 01/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0f2838a05490d2444b49d6dadb0a15745db0752b
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 8c14b461cef94523bb45e9d29b877858ca48a228
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071186"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329263"
 durationInMinutes: 16
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/4-exercise-configure-address-books.md)] \n[!include[](../includes/non-final-lab-end.md)]"

@@ -3,23 +3,24 @@ uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops
 metadata:
   title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
   description: لتنفيذ عملية الطلب والتخزين واستخدام مخزون الشركة من المواد الخام والمكونات والمنتجات النهائية، تحتاج إلى تكوين وظيفة إدارة المخزون في Dynamics 365 Supply Chain Management. تستخدم دفاتر يومية المخزون لترحيل حركات المخزون المادية من مختلف الأنواع، مثل ترحيل الإصدارات والإيصالات، وحركات المخزون، وإنشاء قوائم مكونات الأصناف (BOMs)، وتسوية المخزون المادي.
-  ms.date: 11/10/2021
+  ms.date: 06/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e305b3c628031bc36627d7729f4665c566250394
-  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: b2f490851e1ec254ae46c32a1dcdb4cfd07f159f
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/10/2021
-  ms.locfileid: "7792122"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667637"
 title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   لتنفيذ عملية الطلب والتخزين واستخدام مخزون الشركة من المواد الخام والمكونات والمنتجات النهائية، تحتاج إلى تكوين وظيفة إدارة المخزون في Dynamics 365 Supply Chain Management. تستخدم دفاتر يومية المخزون لترحيل حركات المخزون المادية من مختلف الأنواع، مثل ترحيل الإصدارات والإيصالات، وحركات المخزون، وإنشاء قوائم مكونات الأصناف (BOMs)، وتسوية المخزون المادي.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- فهم عمليات المخزون الواردة والصادرة.\n- تكوين محددات المخزون.\n- تكوين مجموعات أرقام التعقب.\n- تكوين تصنيف المخزون.\n- تكوين دفاتر يومية المخزون والمستودع.\n- تكوين أبعاد المخزون.\n- تكوين تكاليف المخزون.\n- فهم إقفال المخزون وتعديلاته.\n- أرشفة حركات‬ المخزون.\n- استخدام دفاتر يومية الحركة.\n- استخدام دفاتر يومية تعديل المخزون.\n- استخدام دفاتر يومية التحويل.\n- استخدام دفاتر يومية الجرد ودفاتر يومية جرد العلامات.\n- استخدام دفاتر يومية وصول الصنف.\n- التعامل مع أكواد الأسباب لجرد المخزون.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- فهم عمليات المخزون الواردة والصادرة.\n- تكوين محددات المخزون.\n- تكوين مجموعات أرقام التعقب.\n- تكوين تصنيف المخزون.\n- تكوين دفاتر يومية المخزون والمستودع.\n- تكوين أبعاد المخزون.\n- تكوين تكاليف المخزون.\n- فهم إقفال المخزون وتعديلاته.\n- أرشفة حركات‬ المخزون.\n- استخدام دفاتر يومية الحركة.\n- استخدام دفاتر يومية تعديل المخزون.\n- استخدام دفاتر يومية التحويل.\n- استخدام دفاتر يومية الجرد ودفاتر يومية جرد العلامات.\n- استخدام دفاتر يومية وصول الصنف.\n"
 prerequisites: >
   - المعرفة العامة بعمليات سلاسل التوريد وإدارة المخزون
 
@@ -55,8 +56,12 @@ units:
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.16-configure-inventory-policies
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-inventory-closing-adjustment
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-2-archive-inventory-transactions
-- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.17-3-reason-codes-inventory-counting
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.18-exercise-create-new-warehouse-layout
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-0-exercise-create-costing-version-item-model-tracking-group
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-1-exercise-use-movement-journals
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-2-exercise-use-inventory-adjustment-journal
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-3-exercise-use-transfer-journal
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.19-4-exercise-use-counting-journal
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.20-configure-inventory-management-quiz
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.21-configure-inventory-management-summary
 badge:

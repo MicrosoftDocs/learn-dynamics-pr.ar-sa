@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e6fb38a53f4c79b546238ad9aebaab6dfb47a8fb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 9744ee9ac316bca31750a7e1c3c645e6a6d40cd4
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364883"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677337"
 title: بدء استخدام محاسبة التكاليف في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- مساحة عمل التحكم في التكلفة.\n- كيفية إنشاء تقرير محاسبة التكاليف باستخدام معالج بدء استخدام محاسبة التكاليف.\n"

@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 84b61403da6aa6b8317d61b549192ca1e3e9f898
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 78968f19c9ce030e835d8bddc945551e2960ac4b
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327281"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667341"
 title: التعامل مع تسعير السلع والتوافق في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

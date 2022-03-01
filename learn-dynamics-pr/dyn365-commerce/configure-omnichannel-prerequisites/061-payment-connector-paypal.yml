@@ -4,16 +4,15 @@ title: ‏‫موصل مدفوعات Dynamics 365 لـ PayPal
 metadata:
   title: ‏‫موصل مدفوعات Dynamics 365 لـ PayPal
   description: تعرف على ‏‫‏‫موصل مدفوعات Dynamics 365 لـ PayPal.
-  ms.date: 03/30/2021
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 6f088338988620bac04049fbeb7c039eaec12d0f
-  ms.sourcegitcommit: d8ae5ea2abe98cfc202df6bdbffd7c56806ae143
+  ms.openlocfilehash: 99c46d3b19264a60ca740457b4f0e59687295d50
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/31/2021
-  ms.locfileid: "6070476"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7337961"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/061-payment-connector-paypal.md)]"

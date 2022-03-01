@@ -8,12 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dd957f144b41dbc4bef71943b37863e3f7634f01
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 2c53e8f44f113327adec38f8676b60672dd63dea
+  ms.sourcegitcommit: 830375ef834e0205b79e99c3b9929e11b40b8a1e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359685"
+  ms.lasthandoff: 06/18/2021
+  ms.locfileid: "6272498"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

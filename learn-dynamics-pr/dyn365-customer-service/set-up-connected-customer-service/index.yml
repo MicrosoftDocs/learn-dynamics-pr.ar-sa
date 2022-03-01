@@ -2,34 +2,34 @@
 uid: learn-dynamics.connected-customer-service
 metadata:
   title: البدء في استخدام Connected Customer Service for Dynamics 365 وAzure IoT
-  description: تعمل الوظيفة الإضافية Connected Customer Service لـ Microsoft Dynamics 365 على تكامل أجهزة IoT مع Microsoft Dynamics 365 Customer Service لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء. الاستعداد لـ MB-230.
+  description: تدمج الوظيفة الإضافية Connected Customer Service لـ 365 Microsoft Dynamics أجهزة IoT مع 365 Customer Service Microsoft Dynamics لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء. الاستعداد لـ MB-230.
   ms.date: 10/07/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: ebf67948d4bfaeca63c356b3767daac0fcf0425c
-  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.openlocfilehash: e36f102b31bd09a7b0114113535d4fd0a7f77431
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/26/2021
-  ms.locfileid: "7690889"
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625608"
 title: البدء في استخدام Connected Customer Service for Dynamics 365 وAzure IoT
 summary: >
   [!include[](../includes/module-banner.md)]
 
-  تعمل الوظيفة الإضافية Connected Customer Service لـ Microsoft Dynamics 365 على تكامل أجهزة IoT مع Microsoft Dynamics 365 Customer Service لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء.
+  تدمج الوظيفة الإضافية Connected Customer Service لـ 365 Microsoft Dynamics أجهزة IoT مع 365 Customer Service Microsoft Dynamics لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  في هذه الوحدة، ستتمكن مما يأتي:
 
-  - التعرّف على الوظيفة الإضافية Connected Customer Service لـ Microsoft Dynamics 365.
+  - تعرّف على Connected Customer Service
 
-  - اختيار نوع توزيع.
+  - اختيار نوع توزيع
 
-  - تثبيت الوظيفة الإضافية Connected Customer Service.
+  - ‏‏تثبيت Connected Customer Service
 
   - تعرَّف على أصول العميل وتنبيهات IoT.
-prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Customer Service.
+prerequisites: المعرفة الأساسية لتطبيق خدمة العملاء
 iconUrl: /learn/achievements/connected-customer-service.svg
 levels:
 - intermediate

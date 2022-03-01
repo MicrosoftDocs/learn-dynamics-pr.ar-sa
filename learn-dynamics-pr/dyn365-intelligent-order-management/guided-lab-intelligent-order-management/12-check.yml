@@ -8,52 +8,52 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 924634b3141427bbbe888f33d8257675be9454c5
-  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.openlocfilehash: 9b28ca08c87d7b205248f13c0be9067e6cb5466e
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "8091307"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075783"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: ما عدد مراجع اتصال Microsoft Dataverse التي ستقوم بإعدادها؟
+  - content: ما هو عدد مراجع اتصال Microsoft Dataverse التي ستقوم بتكوينها؟
     choices:
-    - content: ثلاثة
-      isCorrect: true
-      explanation: ستحتاج إلى إعداد ثلاثة مراجع لاتصال النظام الأساسي Dataverse، ولكن يمكنك استخدام اتصال Dataverse نفسه الذي تم إنشاؤه في وقت سابق لمراجع الاتصال الثلاثة كلها.
     - content: واحد
       isCorrect: false
-      explanation: ستحتاج إلى إعداد أكثر من مرجع اتصال Dataverse للنظام الأساسي.
+      explanation: ستحتاج إلى تكوين أكثر من مرجع اتصال Dataverse للنظام الأساسي.
     - content: اثنان
       isCorrect: false
-      explanation: ستحتاج إلى إعداد مرجعي اتصال Dataverse للنظام الأساسي.
-  - content: يتم إنشاء مهام سير عمل جديدة عند ________ موفر. (املأ الكلمة المفقودة.)
+      explanation: ستحتاج إلى تكوين أكثر من مرجعي اتصال Dataverse للنظام الأساسي.
+    - content: ثلاثة
+      isCorrect: true
+      explanation: ستحتاج إلى تكوين ثلاثة مراجع لاتصال النظام الأساسي Dataverse، ولكن يمكنك استخدام اتصال Dataverse نفسه الذي تم إنشاؤه في وقت سابق لمراجع الاتصال الثلاثة كلها.
+  - content: يتم إنشاء التدفقات الجديدة عندما "________" مزود (املأ الكلمة المفقودة)
     choices:
     - content: حفظ
       isCorrect: false
-      explanation: لا يتم إنشاء مهام سير عمل جديدة عند حفظ الموفر.
+      explanation: لا يتم إنشاء التدفقات الجديدة عند حفظ الموفر.
     - content: تنشيط
       isCorrect: false
-      explanation: لا يتم إنشاء مهام سير عمل جديدة عند تنشيط موفر.
+      explanation: لا يتم إنشاء التدفقات الجديدة عند تنشيط الموفر.
     - content: نشر
       isCorrect: false
-      explanation: لا يتم إنشاء مهام سير عمل جديدة عند نشر موفر.
-    - content: إنشاء مثيل
+      explanation: لا يتم إنشاء التدفقات الجديدة عند نشر الموفر.
+    - content: بدء
       isCorrect: true
-      explanation: لا يتم إنشاء مهام سير عمل جديدة عند إنشاء مثيل من موفر.
-  - content: بعد الانتهاء من إنشاء سير عمل تنسيق معالجة الأوامر، ما هو الخيار الذي تحدده لتنشيط سير العمل؟
+      explanation: لا يتم إنشاء التدفقات الجديدة عند بدء الموفر.
+  - content: بعد الانتهاء من إنشاء تدفق تنسيق الأمر، ما هو الخيار الذي تحدده لتنشيط التدفق؟
     choices:
     - content: حفظ
       isCorrect: false
-      explanation: إذا حددت "حفظ"، فلن تقوم بتنشيط سير العمل.
+      explanation: إذا حددت حفظ، فلن تقوم بتنشيط التدفق.
     - content: نشر
       isCorrect: false
-      explanation: إذا حددت "نشر"، فلن تقوم بتنشيط سير العمل.
-    - content: ‏‫حفظ وإغلاق‬
+      explanation: إذا حددت نشر، فلن تقوم بتنشيط التدفق.
+    - content: حفظ وإغلاق
       isCorrect: false
-      explanation: إذا حددت "حفظ وإغلاق"، فلن تقوم بتنشيط سير العمل.
+      explanation: إذا حددت حفظ وإغلاق، فلن تقوم بتنشيط التدفق.
     - content: تنشيط
       isCorrect: true
-      explanation: بعد الانتهاء من إنشاء سير عمل تنسيق معالجة الأوامر، حدد "تنشيط" لتنشيط سير العمل. سيؤدي هذا الإجراء إلى تمكين سير العمل للحركات الواردة.
+      explanation: بعد الانتهاء من إنشاء تدفق تنسيق معالجة الأوامر، حدد نشر لتنشيط التدفق. سيؤدي هذا إلى تمكين التدفق لأي حركات واردة.

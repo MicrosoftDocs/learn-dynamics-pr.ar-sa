@@ -2,25 +2,25 @@
 uid: learn-dynamics.enable-engineering-change-management
 metadata:
   title: تمكين إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
-  description: تعرف على كيفية إنشاء الوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management.
+  description: تعرف على كيفية إنشاء الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management.
   ms.date: 05/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: cbbd75c4a4f48d97904f29db3cda82ffc1eac1ae
-  ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+  ms.openlocfilehash: 9af1255c97ef9270de769a1884ed8b35cec325b4
+  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/27/2021
-  ms.locfileid: "6111943"
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "6072650"
 title: تمكين إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)] \nمطلوب بعض الإعداد لاستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management. يجب تمكين الميزة، وتحديد الخطورة. كما تحتاج إلى تحديد مالكي المنتج، وتكوين مهام سير العمل للموافقة على أوامر التغيير الهندسية وطلبات التغيير الهندسي.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين ميزة إدارة التغيير الهندسي والتراخيص.\n- إعداد درجات خطورة التغيير الهندسي‬ وقواعد الخطورة.\n- إعداد مالكي المنتجات.\n- استخدام سير العمل مع إدارة التغيير الهندسي.\n"
+summary: "[!include[](../includes/module-banner.md)] \nلاستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management، توجد بعض الإعدادات المطلوبة. يجب تمكين الميزة، وتحديد الخطورة. يجب أيضاً تحديد مالكي المنتج، وتكوين مهام سير العمل للموافقة على أوامر التغيير الهندسية وطلبات التغيير الهندسة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين ميزة إدارة التغيير الهندسي والتراخيص.\n- إعداد درجات خطورة التغيير الهندسي‬ وقواعد الخطورة.\n- إعداد مالكي المنتج.\n- استخدام سير العمل مع إدارة التغيير الهندسي\n"
 prerequisites: >
   - المعرفة العامة بسلسلة التوريد وعمليات إدارة معلومات المنتجات
 
-  - معرفة كيفية التنقل في Dynamics 365 Supply Chain Management
+  - المعرفة بكيفية التنقل في Dynamics 365 Supply Chain Management.
 iconUrl: /learn/achievements/enable-engineering-change-management.svg
 levels:
 - intermediate

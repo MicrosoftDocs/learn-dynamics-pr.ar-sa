@@ -4,16 +4,16 @@ title: تكوين أوضاع التسليم
 metadata:
   title: تكوين أوضاع التسليم
   description: تعرف على كيفية تكوين أوضاع التسليم في Dynamics 365 Commerce.
-  ms.date: 03/17/2021
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: e550f06a350f627055a7bf97085f35b58a98c7a9
-  ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+  ms.openlocfilehash: d1aaefc9771b118d2a655c40452ef87c033de414
+  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/19/2021
-  ms.locfileid: "6070462"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6226432"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-configure-modes-delivery.md)]"

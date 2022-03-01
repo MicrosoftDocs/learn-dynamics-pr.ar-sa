@@ -4,18 +4,17 @@ title: وصف LinkedIn Campaign Manager
 metadata:
   title: وصف LinkedIn Campaign Manager
   description: وصف LinkedIn Campaign Manager
-  ms.date: 12/23/2021
+  ms.date: 07/21/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 4e8d6dac1297e3fb1b5c1e037d424dbc1a1a04fa
-  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: 6a2fbd4ed55f6017d8d396d73ef09369182c12c2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/23/2021
-  ms.locfileid: "7946065"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438523"
 azureSandbox: false
-labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/3-describe-linkedin-campaign-manager.md)]'

@@ -4,17 +4,17 @@ title: إنشاء حدث أعمال جديد
 metadata:
   title: إنشاء حدث أعمال جديد
   description: تعرف على كيفية إنشاء حدث أعمال جديد في تطبيقات Finance and Operations.
-  ms.date: 05/27/2021
+  ms.date: 07/10/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: bd55b1459f88ca92e3ca94b681e14d16f9a83bc1
-  ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+  ms.openlocfilehash: c426d859a3b05caa4b1e0a9b08a7d61e02fa1ebc
+  ms.sourcegitcommit: 559d615530124a81234ea2a525ecfaa3b79cd038
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/27/2021
-  ms.locfileid: "6112105"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "6072070"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

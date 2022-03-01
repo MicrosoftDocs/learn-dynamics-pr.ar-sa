@@ -4,15 +4,15 @@ title: العمل مع مشغّلات الحدث في الوقت الحقيقي
 metadata:
   title: العمل مع مشغّلات الحدث في الوقت الحقيقي
   description: تعرّف على كيفية العمل مع مشغّلات الحدث في الوقت الحقيقي.
-  ms.date: 09/14/2021
+  ms.date: 08/31/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1f6448f9353a04e7343884ba6873e35ff7196ce3
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.openlocfilehash: b456f482968e06d5d816522490af8d71a1eff829
+  ms.sourcegitcommit: 627204a9c92e0b1421cec8a3463b5eafb67e427a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/18/2021
-  ms.locfileid: "7501733"
+  ms.lasthandoff: 09/02/2021
+  ms.locfileid: "7469013"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-triggers.md)]"

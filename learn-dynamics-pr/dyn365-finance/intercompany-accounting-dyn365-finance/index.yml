@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cfe7cd4ad400e26eb60b5229a0c0c63db196012f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5bbca55610f5dec6791b0501daab45ebfe7cf52e
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337703"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677793"
 title: المحاسبة بين الشركات الشقيقة في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك استخدام المحاسبة بين الشركات الشقيقة عندما تتمركز العمليات المحاسبية للشركات التابعة أو المكاتب الفرعية. باستخدام المحاسبة بين الشركات الشقيقة، يمكنك إنشاء إدخال واحد يتم ترحيله إلى شركات متعددة. يوفر Dynamics 365 Finance الميزات التي تساعدك في إعداد النظام ومعالجة الحركات وتعقب الحركات بين الشركات الشقيقة. \n"
 abstract: >

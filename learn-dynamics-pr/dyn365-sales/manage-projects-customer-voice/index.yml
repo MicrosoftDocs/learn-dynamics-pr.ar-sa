@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.manage-projects-customer-voice
 metadata:
-  title: إدارة المشروعات في Dynamics 365 Customer Voice
-  description: تشرح هذه الوحدة كيفية إضافة مشروعات إلى Microsoft Dynamics 365 Customer Voice، وكيفية نسخ الاستطلاعات من مشروع إلى آخر، وكيفية نسخ المشروعات من خلال بيئات Microsoft Dataverse مختلفة.
+  title: إدارة المشاريع في Dynamics 365 Customer Voice
+  description: ستوفر هذه الوحدة النمطية المعرفة المطلوبة لفهم كيفية إضافة المشاريع إلى Dynamics 365 Customer Voice، وكيف يمكن نسخ الاستطلاعات من مشروع إلى آخر، وكيف يمكن نسخ المشاريع عبر بيئات Dataverse مختلفة.
   ms.date: 12/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 560c13fa69914545271ebbc46bb4c3aa26cb19ba
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 0264fcab9c25c20c484c0ee2ca9820b4aa766099
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944246"
-title: إدارة المشروعات في Dynamics 365 Customer Voice
-summary: "[!include[](../includes/module-banner.md)] \nتشرح هذه الوحدة كيفية إضافة مشروعات إلى Dynamics 365 Customer Voice، وكيفية نسخ الاستطلاعات من مشروع إلى آخر، وكيفية نسخ المشروعات من خلال بيئات Dataverse مختلفة. تعد مشاركة المشروعات أمرًا سهلاً، وستساعدك على التعاون بشكل أفضل مع الزملاء.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء مشروعات.\n- نقل الاستطلاعات ونسخها.\n- نسخ المشروعات.\n- مشاركة المشروعات.\n"
-prerequisites: الفهم الأساسي لـ Microsoft Dynamics 365 Sales وDynamics 365 Customer Voice
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923566"
+title: إدارة المشاريع في Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nستوفر هذه الوحدة النمطية المعرفة المطلوبة لفهم كيفية إضافة المشاريع إلى Dynamics 365 Customer Voice، وكيف يمكن نسخ الاستطلاعات من مشروع إلى آخر، وكيف يمكن نسخ المشاريع عبر بيئات Dataverse مختلفة. يمكن مشاركة المشاريع بسهولة، مما يوفر القدرة على التعاون مع زملاء العمل بسهولة. \n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- إنشاء مشاريع\n- نقل الاستطلاعات ونسخها\n- نسخ المشاريع\n- مشاركة المشاريع\n"
+prerequisites: الفهم الأساسي لكل من Dynamics 365 Sales وCustomer Voice
 iconUrl: /learn/achievements/manage-projects-customer-voice.svg
 levels:
 - intermediate

@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.custom-apps-field-service.2-apps
-title: إنشاء تطبيقات من Power Apps
+title: إنشاء Power Apps
 metadata:
-  title: إنشاء تطبيقات من Power Apps
-  description: قم بإنشاء تطبيقات اللوحة والتطبيقات المستندة إلى النماذج لـ Dynamics 365 Field Service.
+  title: إنشاء Power Apps
+  description: إنشاء تطبيقات اللوحة والتطبيقات المستندة إلى النماذج لـ Dynamics 365 Field Service
   ms.date: 11/08/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4d555e57a7f1e4b24c1310e37ff105697929eff5
-  ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
+  ms.openlocfilehash: d98449b09f763224f31cba8f367f47ee08d5b87d
+  ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/02/2021
-  ms.locfileid: "7880228"
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7783527"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

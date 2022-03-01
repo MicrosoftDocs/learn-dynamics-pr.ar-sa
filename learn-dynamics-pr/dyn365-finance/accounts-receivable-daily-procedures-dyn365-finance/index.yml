@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 49dacab7eed475e4d70a1e5a64fa558f61444f92
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fa067fde8b5c98c83c4d7e4ed6d36bd971e8ae50
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352665"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677324"
 title: تنفيذ الإجراءات اليومية للحسابات المدينة في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]

@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dad702d66bf209150080e44e5c7b7cd01405f33a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 5a92e94855d252cc177aa183b872dea58494e4f9
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359484"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668135"
 title: تحقق من مستوى معرفتك
 durationInMinutes: 10
 quiz:

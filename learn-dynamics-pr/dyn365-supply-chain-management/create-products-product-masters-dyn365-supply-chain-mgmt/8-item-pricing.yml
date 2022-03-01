@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.8-configure-item-pricing
-title: إعداد تسعير الأصناف
+title: تكوين تسعير الصنف
 metadata:
-  title: إعداد تسعير الأصناف
-  description: تعرف على كيفية إعداد تسعير الأصناف في Supply Chain Management.
+  title: تكوين تسعير الصنف
+  description: توضح هذه الوحدة كيفية تكوين تسعير الصنف في ‏‫Supply Chain Management‬.
   ms.date: 05/18/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cc54596a6d25fdfbcc84588ca28046509d894a4b
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.openlocfilehash: 403d69ec92748822b2e3342e1969b2e456660d9d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7892856"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7362389"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

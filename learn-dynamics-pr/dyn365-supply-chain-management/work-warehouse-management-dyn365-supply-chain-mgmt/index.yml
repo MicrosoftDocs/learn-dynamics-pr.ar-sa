@@ -2,20 +2,20 @@
 uid: learn-dynamics.work-with-warehouse-management
 metadata:
   title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
-  description: تتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في Supply Chain Management، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.
-  ms.date: 11/24/2021
+  description: تتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في إدارة سلسلة التوريد، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.
+  ms.date: 10/28/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7ab805becf5d135348cc75cb470c4af4eaa7eeea
-  ms.sourcegitcommit: 2bdcba0251f948ade01d0c1b3bf37896144ded61
+  ms.openlocfilehash: f42daa358c79d97bd1bc0ef33ba280464a0ecf17
+  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "7863992"
+  ms.lasthandoff: 10/28/2021
+  ms.locfileid: "7714759"
 title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)]\n\nتتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في Supply Chain Management، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.  \n"
-abstract: "في هذه الوحدة النمطية، ستتعرّف على كيفيه العمل مع: \n- رموز شريطي GS1 وشفرات الاستجابة السريعة \n- العمليات الواردة\n- العمليات الصادرة\n- انتقاء نظام المجموعة\n- التعبئة والحاويات\n- الجرد الدوري\n- التحويلات والتزويد\n- التطبيق المحمول Warehouse Management\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في إدارة سلسلة التوريد، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.  \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية تنفيذ: \n- العمليات الواردة\n- العمليات الصادرة\n- انتقاء نظام المجموعة\n- التعبئة والتعبئة في حاويات\n- الجرد الدوري\n- التحويلات والتزويد\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Supply Chain Management للمعالجة الأساسية \n"
 iconUrl: /learn/achievements/work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
 levels:
@@ -29,9 +29,7 @@ products:
 - dynamics-finance-operations
 units:
 - learn-dynamics.work-with-warehouse-management.1-configure-mobile-device
-- learn-dynamics.work-with-warehouse-management.1-2-setup-bar-codes
 - learn-dynamics.work-with-warehouse-management.2-configure-work-type-menu-items
-- learn-dynamics.work-with-warehouse-management.2-2-mobile-app-step-instructions
 - learn-dynamics.work-with-warehouse-management.3-inbound-operations
 - learn-dynamics.work-with-warehouse-management.4-cycle-counting
 - learn-dynamics.work-with-warehouse-management.5-transfers-replenishment

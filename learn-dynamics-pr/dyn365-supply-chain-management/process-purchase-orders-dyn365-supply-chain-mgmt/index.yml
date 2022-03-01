@@ -3,16 +3,17 @@ uid: learn-dynamics.process-purchase-orders-finance
 metadata:
   title: معالجة أوامر الشراء في Dynamics 365 Supply Chain Management
   description: تعرف على معالجة أوامر الشراء في Supply Chain Management.
-  ms.date: 10/25/2021
+  ms.date: 06/09/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 99f4e03beef8d95ee154d334d2ef92341a4b666b
-  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: fa46db43d5d261bad61648c501d5f152a81c23f3
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/26/2021
-  ms.locfileid: "7690769"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667531"
 title: معالجة أوامر الشراء في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -49,6 +50,7 @@ units:
 - learn-dynamics.process-purchase-orders-finance.6-manage-charges-po
 - learn-dynamics.process-purchase-orders-finance.7-create-vendor-returns
 - learn-dynamics.process-purchase-orders-finance.8a-exercise
+- learn-dynamics.process-purchase-orders-finance.8-exercise
 - learn-dynamics.process-purchase-orders-finance.9-knowledge-check
 - learn-dynamics.process-purchase-orders-finance.10-summary
 badge:

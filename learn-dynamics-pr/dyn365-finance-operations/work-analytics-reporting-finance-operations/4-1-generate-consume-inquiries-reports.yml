@@ -3,18 +3,17 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.4-
 title: إنشاء الاستعلامات والتقارير واستخدامها
 metadata:
   title: إنشاء الاستعلامات والتقارير واستخدامها
-  description: توضح هذه الوحدة كيفية إنشاء الاستعلامات واستعلامات التقارير والتقارير واستخدامها في تطبيقات Finance and Operations.
-  ms.date: 01/07/2020
+  description: توضح هذه الوحدة كيفية إنشاء الاستعلامات والتقارير واستخدامها في تطبيقات Finance and Operations.
+  ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 9dd564bb839907e50553279700108291eed141d6
-  ms.sourcegitcommit: 3833275c8745f85b270c9e80e875d58ac3c482f2
+  ms.openlocfilehash: 51310d83875d827b495fbf75d68bd554efe44c57
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/07/2021
-  ms.locfileid: "6072122"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7332039"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

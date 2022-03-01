@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c4308450d4e43ae3dbab4a546de6425fbeb9583e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 978d8c399091de877cb513039ab26c1e411e3f6a
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341601"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668361"
 title: تحويل منتج موجود إلى منتج هندسي في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nالمنتج الهندسي في Dynamics 365 Supply Chain Management هو منتج يتم التحكم في إصداره من خلال الوظيفة الإضافية لإدارة التغييرات الهندسية لـ Microsoft Dynamics 365 Supply Chain Management. يمكنك تحويل منتج موجود إلى منتج هندسي.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تفعيل إدارة التغيير بالمنتجات الحالية.\n- تمكين فئات المنتجات الهندسية.\n- تشغيل معالج التحويل إلى منتج هندسي.\n"

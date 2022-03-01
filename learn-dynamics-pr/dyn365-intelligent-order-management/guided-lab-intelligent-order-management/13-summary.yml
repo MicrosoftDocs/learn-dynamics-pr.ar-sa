@@ -3,16 +3,16 @@ uid: learn-dynamics.guided-lab-intelligent-order-management.13-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص التمرين العملي الموجّه حول Dynamics 365 Intelligent Order Management.
+  description: ملخص في التمرين العملي الموجّه للوحدة النمطية Dynamics 365 Intelligent Order Management.
   ms.date: 01/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ff753d697c0fa6fa3c8bf0576dfd5b90d34126f7
-  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.openlocfilehash: 15f2681af873e3495ad3faee23dca9421bddd2bb
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "8091205"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075771"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-summary.md)]"

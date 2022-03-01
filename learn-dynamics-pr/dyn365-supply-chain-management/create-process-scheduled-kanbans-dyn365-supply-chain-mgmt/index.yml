@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3342ef320fea4c971a5d9b189d91fda7946d99b4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2e018e4de544f75dfecaf54c1cf05c8f4606b3f6
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7343708"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667436"
 title: إنشاء بطاقات كانبان المجدولة ومعالجتها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم استخدام بطاقات كانبان المجدولة للأصناف غير المناسبة عادةً لقواعد كانبان ذات الكمية الثابتة. لا يتم استخدام هذه المنتجات بشكل متكرر، وستقوم بإنتاج هذه الأصناف وفقاً لجدول زمني. سيتم تحليل الجدول الزمني وتحديثه أسبوعياً بناءً على تنبؤات العملاء. \n"
 abstract: "في هذه الوحدة، ستتعلم كيفية إنشاء تكوين والتعامل مع: \n- قواعد كانبان.\n- بطاقات كانبان التصنيع.\n- بطاقات كانبان السحب.\n- إنشاء وإدارة بطاقات كانبان المجدولة.\n- جدول التوريد.\n"
