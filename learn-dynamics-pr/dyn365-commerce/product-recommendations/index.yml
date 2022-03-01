@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learing-d365-commerce
-  ms.openlocfilehash: 92d39fea31fa24f8795857dfbaa67e02b72eb4a2
-  ms.sourcegitcommit: 7b8e0bce77648fe20efb0bf63bce723b8a30cfaf
+  ms.openlocfilehash: 78e03504527686f7fa011093f5df25f1731ce01a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/28/2021
-  ms.locfileid: "6070523"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7326817"
 title: التعامل مع توصيات المنتجات في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nتوصيات المنتجات هي إحدي ميزات التسوق الخاصة بالعملاء في Dynamics 365 Commerce. تستند التوصيات إلى اتجاهات الشراء للعملاء الآخرين في المتاجر عبر الإنترنت والمتاجر التقليدية. يتم تحليل اتجاهات الشراء باستخدام الذكاء الاصطناعي والتعلّم الآلي، مما يساعد Commerce على تقديم أنواع مختلفة من توصيات المنتجات ذات الصلة. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تمكين توصيات المنتجات والتعامل معها.\n- تعرف على توصيات التعلّم الآلي وقوائم التوصيات والمعلمات. \n"

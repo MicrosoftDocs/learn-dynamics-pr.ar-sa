@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: fd043d22da2cb229012d21ce2b6d6c4dc84c7448
-  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.openlocfilehash: 2a89cb040796740c88b3f7edf9e29d7a1c104f0c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2021
-  ms.locfileid: "6072564"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335146"
 title: توسيع العناصر في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

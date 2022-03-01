@@ -3,17 +3,17 @@ uid: learn-dynamics.build-tables-dynamics-365-finance-operations
 metadata:
   title: إنشاء جداول في تطبيقات Finance and Operations
   description: حيث أنه لا يمكن دائماً عرض الجداول للمستخدم في تطبيقات Finance and Operations، إلا أنها مهمة في التطوير. يتم تخزين كافة البيانات الموجودة في تطبيقات Finance and Operations وإدارتها في جدول في Visual Studio. تُخزن الجداول البيانات مثل حركات الشركة والمخزون ودفاتر اليومية.
-  ms.date: 06/24/2019
+  ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 9aa9fca015c096a3f107e8343031d8a8d23a5379
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: c81b3e61db896b9518129bfb6df3d36d7adbb7e6
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072192"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257496"
 title: إنشاء جداول في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nحيث أنه لا يمكن دائماً عرض الجداول للمستخدم في تطبيقات Finance and Operations، إلا أنها مهمة في التطوير. يتم تخزين كافة البيانات الموجودة في تطبيقات Finance and Operations وإدارتها في جدول في Visual Studio. تُخزن الجداول البيانات مثل حركات الشركة والمخزون ودفاتر اليومية. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- حدد استخدام الجداول في تطبيقات Finance and Operations.\n- قم بإنشاء جدول جديد في Visual Studio.\n- إدارة خصائص الجدول.\n- يمكنك إضافة الحقول ومجموعات الحقل إلى جدول.\n- إنشاء علاقة فهرس وجدول.\n"

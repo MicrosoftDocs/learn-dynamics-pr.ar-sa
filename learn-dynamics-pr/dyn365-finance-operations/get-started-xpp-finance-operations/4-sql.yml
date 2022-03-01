@@ -4,17 +4,17 @@ title: استخدم X++ لكتابة عبارات SQL
 metadata:
   title: استخدم X++ لكتابة عبارات SQL
   description: تعرّف على كيفية استخدام X++ لكتابة عبارات SQL في تطبيقات Finance and Operations.
-  ms.date: 07/12/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 87de97032b419e7251b567d96f8692bfed7f767f
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 49f6f91abf196fe30d96ac4b8fca0c5f577424b5
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071673"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6254997"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

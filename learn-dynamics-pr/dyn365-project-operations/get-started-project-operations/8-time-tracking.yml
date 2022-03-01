@@ -4,16 +4,16 @@ title: تعقب الأوقات
 metadata:
   title: تعقب الأوقات
   description: تعرف على تعقب الأوقات في Dynamics 365 Project Operations.
-  ms.date: 04/08/2021
+  ms.date: 11/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: cbfe8112715f6a840bdfae79a5422a9a92ae3967
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: e4dd623d9426f5baeae1743d286ddf06eb4a22fd
+  ms.sourcegitcommit: 4b4c577d0ed6f404844e888513f019d1780e6d0c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6226172"
+  ms.lasthandoff: 11/27/2020
+  ms.locfileid: "6072726"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-time-tracking.md)]"

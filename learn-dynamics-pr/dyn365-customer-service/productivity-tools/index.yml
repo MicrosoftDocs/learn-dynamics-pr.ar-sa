@@ -7,12 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 61b318b4a33e039ffdc069e08dbb358633ba6ddb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: e7325cef0e45378338e0247e31e4e976f6238262
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326649"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658378"
 title: ابدأ باستخدام أدوات الإنتاجية Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nتساعد أدوات الإنتاجية Dynamics 365 المناديب على تنفيذ عملياتهم اليومية بشكل أسرع وبكفاءة وبأسلوب يتوافق مع العمليات.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام وحدات الماكرو.\n- تعرف على كيفية استخدام الأتمتة.\n- استكشف استخدام البرامج النصية للمندوب.\n- تعرف على كيفية استخدام المساعدة الذكية.\n"

@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: b3836820e93eda5588227cf724a90efc8ce99d0c
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: cf0669b62f2826674332eb6c5676d8d4aba55238
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6074540"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364711"
 title: إدارة مشاركة العملاء وتجربة التسوق في Dynamics 365 Commerce
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتساعد إدارة مشاركة العملاء وتحسين تجربة التسوق المستهلكين على اتخاذ قرارات شراء أفضل وبناء ولاء للعلامات التجارية لمتاجر التجزئة مما يؤدي في النهاية إلى زيادة الإيرادات. \n"
 prerequisites: >

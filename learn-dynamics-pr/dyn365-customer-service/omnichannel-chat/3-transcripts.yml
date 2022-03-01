@@ -4,15 +4,16 @@ title: السماح بتنزيل نسخ المحادثة المكتوبة وال
 metadata:
   title: السماح بتنزيل نسخ المحادثة المكتوبة والملفات
   description: تعرف على كيفية السماح بتنزيل نسخ المحادثة المكتوبة والملفات.
-  ms.date: 09/21/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 4/24/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 157c49b79f625ad086888813603d1737b2e996f8
-  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: b2b462ce14522c1db96325880b11faf8892f0982
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2021
-  ms.locfileid: "7510105"
-durationInMinutes: 7
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658347"
+durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-transcripts.md)]"

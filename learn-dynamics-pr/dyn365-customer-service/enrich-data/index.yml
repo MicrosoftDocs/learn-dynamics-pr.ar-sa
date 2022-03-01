@@ -1,21 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.enrich-data
 metadata:
-  title: إثراء البيانات والتنبؤات من خلال رؤى الجمهور
-  description: بادر بإثراء بياناتك بمصادر البيانات الأخرى واستخدم الذكاء الاصطناعي لعمل تنبؤات بناءً على البيانات السابقة.
-  ms.date: 12/16/2021
+  title: إثراء البيانات والتنبؤات من خلال Customer Insights
+  description: بادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.
+  ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f022d0d9a63597ab59e51d669b925f3a62f0936f
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bd35d4aa673fe36210ce6c12a95a63e27a69f93a
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933286"
-title: إثراء البيانات والتنبؤات من خلال رؤى الجمهور
-summary: "[!include[](../includes/module-banner.md)] \nبادر بإثراء بياناتك بمصادر البيانات الأخرى واستخدم الذكاء الاصطناعي لعمل تنبؤات بناءً على البيانات السابقة.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتاحة في رؤى الجمهور.\n- تكوين وظائف العلامة التجارية والاهتمامات.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659377"
+title: إثراء البيانات والتنبؤات من خلال Customer Insights
+summary: "[!include[](../includes/module-banner.md)] \nبادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتوفرة في Customer Insights.\n- تكوين وظائف العلامة التجارية والاهتمام.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
 prerequisites: لا شيء
 iconUrl: /learn/achievements/enrich-data.svg
 levels:

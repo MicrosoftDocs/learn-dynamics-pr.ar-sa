@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-dynamics.administer-configure-d365-sales-professional
 metadata:
-  title: إدارة Dynamics 365 Sales Professional وتكوينها
+  title: إدارة وتكوين Dynamics 365 Sales Professional
   description: قم بالاتصال بـ SharePoint، واستورد البيانات، وأدر المستخدمين، واعمل مع الأنشطة الأخرى في Dynamics 365 Sales Professional.
   ms.date: 09/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e36ef154cba7ea4e7b190f120e15144b64db7d13
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 34c41e4ade2a8b714b635334f4eb814749fe5df4
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944407"
-title: إدارة Dynamics 365 Sales Professional وتكوينها
+  ms.lasthandoff: 09/18/2021
+  ms.locfileid: "7501540"
+title: إدارة وتكوين Dynamics 365 Sales Professional
 summary: "[!include[](../includes/module-banner.md)]\nقم بالاتصال بـ SharePoint، واستورد البيانات، وأدر المستخدمين، واعمل مع الأنشطة الأخرى في Dynamics 365 Sales Professional. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- الاتصال بـ SharePoint\n- البحث في استيراد البيانات وتثبيت عينة البيانات\n- إدارة المستخدمين\n- إعداد البريد الإلكتروني\n- قوالب Word وقوالب Excel\n- تخصيص النماذج وطرق العرض\n- تعرف على كيفية قيام عمليات سير إجراءات العمل بتحسين الإنتاجية\n"
 prerequisites: المعرفة الأساسية لعمليات المبيعات وإمكانات التنقل في Dynamics 365 Sales
-iconUrl: /learn/achievements/administer-configure-d365-sales-professional.svg
+iconUrl: /learn/achievements/name.svg
 levels:
 - intermediate
 roles:

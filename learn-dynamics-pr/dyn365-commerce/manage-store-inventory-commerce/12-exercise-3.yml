@@ -4,16 +4,16 @@ title: 'تدريب: استلام أمر تحويل من نقطة البيع'
 metadata:
   title: 'تدريب: استلام أمر تحويل من نقطة البيع'
   description: تدرب على استلام أمر تحويل من نقطة البيع في Dynamics 365 Commerce.
-  ms.date: 04/26/2021
+  ms.date: 09/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: eaa57ee49e48d087a8fa25b7a938878b6c56b580
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: a29d410375acee97ca6b3324aa99d9649973b21f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225985"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070307"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-exercise-3.md)]"

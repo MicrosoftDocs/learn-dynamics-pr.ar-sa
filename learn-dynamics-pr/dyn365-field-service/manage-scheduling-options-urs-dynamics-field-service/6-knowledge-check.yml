@@ -3,20 +3,21 @@ uid: learn-bizapps.urs-manage-scheduling-options.6-knowledge-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 11/18/2021
-  author: KevSch
-  ms.author: kschimke
+  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  ms.date: 02/01/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b66f5acafff5f23a27611ec215d47ada008291d2
-  ms.sourcegitcommit: b2132239ec06257d470d1ecc2de0924c71d8a8d5
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e255791e814bae8dbaedf89c15d2f8b342b09195
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/18/2021
-  ms.locfileid: "7826182"
-durationInMinutes: 4
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434043"
+durationInMinutes: 5
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
   questions:
   - content: أي من مكونات لوحة الجدولة التالية يستخدم لعرض العناصر غير المجدولة؟
     choices:

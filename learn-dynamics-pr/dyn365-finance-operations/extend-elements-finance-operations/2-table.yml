@@ -4,17 +4,16 @@ title: إضافة ملحق جدول إلى مشروع
 metadata:
   title: إضافة ملحق جدول إلى مشروع
   description: تعرف على كيفية إضافة ملحق جدول إلى مشروع في تطبيقات Finance and Operations.
-  ms.date: 07/10/2019
+  ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d1ffcc323a54699df417016c6c9e8e377488b5df
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: e1deebd25582c84b5d4f8e13386e123549e240ef
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071213"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335152"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

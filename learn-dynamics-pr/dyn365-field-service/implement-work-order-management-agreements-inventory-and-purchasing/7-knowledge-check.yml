@@ -3,18 +3,19 @@ uid: learn-bizapps.implement-work-order-management-agreements-inventory-and-purc
 metadata:
   title: الفحص المعرفي لإدارة أمر العمل والاتفاقيات والمخزون والشراء في Microsoft Dynamics 365 Field Service
   description: يعمل هذا الفحص المعرفي على اختبار معلوماتك المعرفية المتعلقة بإدارة أمر العمل والاتفاقيات والمخزون والشراء في Microsoft Dynamics 365 for Field Service.
-  ms.date: 09/16/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 01/25/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 714acf91c810dc28cde7dc769e4e72e951b6ebb7
-  ms.sourcegitcommit: 4285a367fe68fcb1d3608b82bbc76cac69ff7a4a
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9ed1b8264a18cfa91c77725ad087814e4bbf68e7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/09/2022
-  ms.locfileid: "8104509"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434207"
 title: اختبر معلوماتك
-durationInMinutes: 8
+durationInMinutes: 5
 quiz:
   title: الفحص المعرفي لإدارة أمر العمل والاتفاقيات والمخزون والشراء في Microsoft Dynamics 365 Field Service
   questions:
@@ -60,7 +61,7 @@ quiz:
     - content: مكتمل
       explanation: عند إنشاء أمر عمل يدوياً، سيكون بالحالة "مفتوح - غير مجدول".  يتم إنشاء سجل متطلب مورد نشط عند إنشاء أمر العمل.  لن يتم إنشاء حجز مورد قابل للحجز قبل جدولة متطلبات الموارد المرتبط بأمر العمل باستخدام لوحة الجدولة أو مساعد الجدولة أو باستخدام Resource Scheduling Optimization.  المصدر - علاقات أمر العمل
       isCorrect: false
-  - content: في الكثير من الأحيان يتعين إنشاء أوامر العمل عند تعذر حل الحالات التي يتم العمل عليها في مركز جهة الاتصال الخاصة بك.  ينبغي عليك التأكد من أن هؤلاء المندوبين يمكنهم تحويل الحالات بسهولة إلى أوامر عمل.  ما الذي يجب تحديده في سجل الحالة حتى يتم تحويله بالكامل إلى أمر عمل؟
+  - content: في الكثير من الأحيان يتعين إنشاء أوامر العمل عند تعذر حل الحالات التي يتم العمل عليها في مركز جهة الاتصال الخاصة بك.  ينبغي عليك التأكد من أن هؤلاء الوكلاء يمكنهم تحويل الحالات بسهولة إلى أوامر عمل.  ما الاحتياجات التي ينبغي تحديدها في سجل الحالة للجميع حتى يتم تحويلها إلى أمر عمل؟
     choices:
     - content: نوع أمر العمل
       explanation: عندما ترغب مؤسسة في تحويل حالة إلى أوامر عمل، يجب تحديد نوع حدث في سجل الحالة التي سيتم تحويلها.  يمكن إضافة "نوع حدث" إلى الحالة من خلال استخدام حقل نوع الحدث في علامة تبويب الخدمة الميدانية بنموذج الحالة.  لن يُسمح لك بتحويل حالة إلى أمر عمل دون استخدام نوع حدث.  ستتم إضافة عناصر مثل نوع أمر العمل تلقائياً إلى أمر العمل وفقاً لنوع الحدث المحدد.  المصدر - إنشاء أوامر العمل

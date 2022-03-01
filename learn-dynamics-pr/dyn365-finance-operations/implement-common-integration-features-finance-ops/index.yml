@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0c11e8cfe8464d1f5c262cfa4b6a06cb82f4aa75
-  ms.sourcegitcommit: d190aa41f6104061e6ebe52ee5c86b6cb9febaf2
+  ms.openlocfilehash: b851c311a6cb9be87c155d2d4bc8fa50af66f2a8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "6072645"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7353722"
 title: تنفيذ ميزات التكامل المشترك في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

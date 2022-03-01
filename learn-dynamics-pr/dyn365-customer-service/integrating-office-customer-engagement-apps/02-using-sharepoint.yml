@@ -1,20 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.02-using-sharepoint
-title: العمل باستخدام SharePoint وتطبيقات Dynamics 365 Customer Engagement
+title: التعامل مع SharePoint وتطبيقات Dynamics 365 Customer Engagement
 metadata:
-  title: العمل باستخدام SharePoint وتطبيقات Dynamics 365 Customer Engagement
-  description: العمل باستخدام SharePoint وتطبيقات Dynamics 365 Customer Engagement
+  title: التعامل مع SharePoint وتطبيقات Dynamics 365 Customer Engagement
+  description: التعامل مع SharePoint وتطبيقات Dynamics 365 Customer Engagement
   ms.date: 02/08/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 6237d9c571e2ab39437a646b80d5a58cc8ecbb57
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c11bfd07f40c833339dffb3ef321fed1b100a970
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335361"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659152"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

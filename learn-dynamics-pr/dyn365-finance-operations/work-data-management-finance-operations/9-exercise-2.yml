@@ -5,16 +5,15 @@ labId: 64193
 metadata:
   title: معمل - تصدير البيانات باستخدام مساحة عمل إدارة البيانات
   description: ‏‫التدرّب على تصدير البيانات من تطبيقات Finance and Operations.
-  ms.date: 08/20/2020
+  ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: fa13b4fd8f65052abd9570eb30e08324c105af31
-  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.openlocfilehash: dfa01a99f4869b2b3ab97d3141b6e31080670740
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/30/2020
-  ms.locfileid: "6072031"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7338728"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/9-exercise-export-import-data.md)] \n[!include[](../includes/standalone-lab-end.md)]"

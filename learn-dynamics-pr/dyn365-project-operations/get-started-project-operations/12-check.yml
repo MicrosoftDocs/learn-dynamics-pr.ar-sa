@@ -4,29 +4,28 @@ title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 04/08/2021
+  ms.date: 08/18/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 819a6370bfc8e4bbd6e80b8eb924dd0420671233
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: b9b6bcb3cb5ecb037cf2ab20a8558c404e3d398c
+  ms.sourcegitcommit: 48208de97634165f7a2a6184f681219294e7c862
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225173"
+  ms.lasthandoff: 08/18/2021
+  ms.locfileid: "7394790"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: النشر الخفيف هو التعامل مع الفواتير الأولية‬، أي من قدرات تطبيقات Dynamics 365 التالية يمكنه استخدامها؟
+  - content: التوزيع الخفيف - هو التعامل مع الفواتير الأولية‬، أي من قدرات تطبيقات Dynamics 365 التالية يمكنه استخدامها؟
     choices:
-    - content: Finance and Operations
+    - content: تطبيقات Finance and Operations
       isCorrect: false
-      explanation: يمكن استخدام تطبيقات Finance and Operations في عمليات المشروع لسيناريو المورد/غير المخزن وعمليات المشروع لسيناريو أمر الإنتاج/المخزن.
-    - content: Customer Engagement
+      explanation: يمكن استخدام تطبيقات Finance and Operations في Project Operations لسيناريو المورد/غير المخزن وProject Operations لسيناريو أمر الإنتاج/المخزن.
+    - content: تطبيقات Customer Engagement
       isCorrect: true
-      explanation: بالنسبة للنشر الخفيف المعروف بالتعامل مع الفواتير الأولية، يمكن استخدام تطبيقات Customer Engagement‬ فقط.
+      explanation: بالنسبة للتوزيع الخفيف المعروف بالتعامل مع الفواتير الأولية، يمكن استخدام تطبيقات Customer Engagement‬ فقط.
     - content: Dynamics 365 Business Central
       isCorrect: false
       explanation: لا يمكن استخدام عمليات المشروع مع Dynamics 365 Business Central.
@@ -41,14 +40,6 @@ quiz:
     - content: ‏‏إجراءات عمل أمر العمل
       isCorrect: false
       explanation: تستخدم حالة إجراءات عمل أمر العمل في Dynamics 365 Field Service.
-  - content: هل صحيح أن التعيينات هي التزام الموارد العامة بمهام المشروع في جدول المشروع؟
-    choices:
-    - content: نعم
-      isCorrect: true
-      explanation: يمكن أن تكون الموارد مسماة أو عامة.
-    - content: لا
-      isCorrect: false
-      explanation: يمكن استخدام الموارد المسماة أو العامة.
   - content: ما مراحل المشروع المحددة في سير إجراءات العمل الافتراضية؟
     choices:
     - content: بدء > خطة > تنفيذ > مراقبة > إغلاق

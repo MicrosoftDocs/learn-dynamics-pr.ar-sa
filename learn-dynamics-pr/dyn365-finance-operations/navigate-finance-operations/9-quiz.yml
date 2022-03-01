@@ -3,17 +3,16 @@ uid: learn-dynamics.navigating-in-f-and-o.9-navigating-in-f-and-o-quiz
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 01/31/2019
+  ms.date: 02/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 4ec1c5b8f80fb6aae6c7f104e4e990c71a5f3bc8
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 16d8f63bb9e5dbc8931070472ffabb05ed8fbf25
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071660"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365003"
 title: اختبر معلوماتك
 durationInMinutes: 8
 quiz:

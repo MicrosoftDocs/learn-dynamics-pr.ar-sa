@@ -4,17 +4,18 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 11/18/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/01/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b6612f919e59dcb8bc8b0c706a42de0ecba8991d
-  ms.sourcegitcommit: b2132239ec06257d470d1ecc2de0924c71d8a8d5
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ed036be41aab54848d6a7840fdb775b12c60a92d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/18/2021
-  ms.locfileid: "7826166"
-durationInMinutes: 3
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434065"
+durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]
 

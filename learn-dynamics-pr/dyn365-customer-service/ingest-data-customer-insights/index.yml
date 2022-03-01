@@ -7,12 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3a45cb2e192a9ef866cfd6a6d7c5aa5d1bb479eb
-  ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
+  ms.openlocfilehash: 15dc4239fce1c9161636891f667caef9a1615f02
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/16/2021
-  ms.locfileid: "7925234"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7486242"
 title: استيعاب البيانات في رؤى الجمهور
 summary: "[!include[](../includes/module-banner.md)] \nتعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد.  ومن ضمن ملف تعريف العميل، يمكنك تعقب البيانات عبر مختلف المجموعات السكانية وتحديد الاتجاهات بالاستناد إلى البيانات التي تريد تعقبها.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيعاب البيانات باستخدام Power Query.\n- الاتصال بنموذج البيانات العامة.\n- الاتصال بـ Microsoft Dataverse.\n- التعامل مع مجموعات البيانات.\n- التعرُّف على عمليات تحديث البيانات.\n- تصدير البيانات.\n"
@@ -35,7 +35,6 @@ products:
 units:
 - learn-dynamics.ingest-data-customer-insights.1-introduction
 - learn-dynamics.ingest-data-customer-insights.2-power-query
-- learn-dynamics.ingest-data-customer-insights.2b-clean-transform-load-data
 - learn-dynamics.ingest-data-customer-insights.3-common-data-model
 - learn-dynamics.ingest-data-customer-insights.4-dataverse
 - learn-dynamics.ingest-data-customer-insights.5-work-with-data

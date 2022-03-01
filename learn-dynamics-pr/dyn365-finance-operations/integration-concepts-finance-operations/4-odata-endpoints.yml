@@ -4,17 +4,16 @@ title: الكشف عن نقاط نهاية OData من كيانات البيان�
 metadata:
   title: الكشف عن نقاط نهاية OData من كيانات البيانات
   description: تعرّف على كيفية الكشف عن نقاط نهاية OData من كيانات البيانات في تطبيقات Finance and Operations.
-  ms.date: 07/25/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 94fd52a98ea167ff261c988af262f2f12bdf3827
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 542c0ffb0c55315f97f5d97fc8f0bc115eb9f02f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071934"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329299"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -8,13 +8,14 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ed68c72e181efe10581bac333819e649150567a6
-  ms.sourcegitcommit: 9f90ad77dd5dbd6d90587ba76752a8222c6cbe41
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 4ddbf993442893a9a9d446f1fc0b2fa0c48b606d
+  ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/21/2022
-  ms.locfileid: "8017003"
-durationInMinutes: 6
+  ms.lasthandoff: 06/02/2021
+  ms.locfileid: "6659286"
+durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]
 

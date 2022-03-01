@@ -2,30 +2,21 @@
 uid: learn-dynamics.define-create-business-rules
 metadata:
   title: تعريف قواعد الأعمال وإنشاؤها في Microsoft Dataverse
-  description: تُعد القدرة على إنشاء قواعد العمل التي تضمن منطق الأعمال المتناسق بغض النظر عن التطبيق الذي يصل إلى مجموعة البيانات هذه ضرورية لتنفيذ عملية أعمال ناجحة. ستوضح لك هذه الوحدة النمطية كيفية إنشاء قواعد العمل التي يتم تشغيلها في أي وقت يتم فيه استخدامها في Dataverse.
-  ms.date: 01/03/2022
+  description: القدرة على إنشاء قواعد الأعمال التي تضمن منطق الاعمال المتناسق بغض النظر عن التطبيق الذي يصل إلى مجموعة البيانات تُعد إلزامية لتنفيذ عملية تجارية ناجحة. ستوضح لك هذه الوحدة كيفية إنشاء قواعد الأعمال التي يتم تشغيلها في أي وقت يتم فيه استخدامها في Dataverse.
+  ms.date: 04/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 31d9de384e7e046b15ca4c14175a5ffb616d5f00
-  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
+  ms.openlocfilehash: deec8f3f793bef56b13072311f90449699c11a7b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/05/2022
-  ms.locfileid: "7950014"
-title: تعريف قواعد العمل وإنشاؤها في Dataverse
-summary: >
-  [!include[](../includes/module-banner.md)]
-
-
-  تُعد القدرة على إنشاء قواعد العمل التي تضمن منطق الأعمال المتناسق بغض النظر عن التطبيق الذي يصل إلى مجموعة البيانات هذه ضرورية لتنفيذ عملية أعمال ناجحة. ستوضح لك هذه الوحدة النمطية كيفية إنشاء قواعد العمل التي يتم تشغيلها في أي وقت يتم فيه استخدامها في Dataverse.
-abstract: >
-  ستتعرف في هذه الوحدة على كيفية:
-
-  - تعريف قواعد العمل في Dataverse.
-
-  - إنشاء قواعد العمل وإدارتها في Dataverse.
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457590"
+title: تعريف قواعد الأعمال وإنشاؤها في Dataverse
+summary: "[!include[](../includes/module-banner.md)]\n\nالقدرة على إنشاء قواعد الأعمال التي تضمن منطق الاعمال المتناسق بغض النظر عن التطبيق الذي يصل إلى مجموعة البيانات تُعد إلزامية لتنفيذ عملية تجارية ناجحة. ستوضح لك هذه الوحدة كيفية إنشاء قواعد الأعمال التي يتم تشغيلها في أي وقت يتم فيه استخدامها في Dataverse. \n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تعريف قواعد العمل في Dataverse.\n- إنشاء قواعد الأعمال وإدارتها في Dataverse\n"
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج
 iconUrl: /learn/achievements/define-create-business-rules.svg
 levels:

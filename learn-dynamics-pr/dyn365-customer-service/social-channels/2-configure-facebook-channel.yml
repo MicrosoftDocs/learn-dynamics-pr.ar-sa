@@ -4,16 +4,16 @@ title: تكوين قناة Facebook
 metadata:
   title: تكوين قناة Facebook
   description: تعرف على كيفية تكوين قناة Facebook.
-  ms.date: 01/13/2022
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 08/06/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 3a1135e74c1a104fd09ef1104939c023b72bf378
-  ms.sourcegitcommit: 10d757eeecd93c8c56396eca00fa61af2fef38d7
+  ms.prod: learning-d365-customer-voice
+  ms.openlocfilehash: 47f3dcdecaeef23e9c6939f16c32bf0cae0bb89d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8009894"
-durationInMinutes: 10
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658409"
+durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-configure-facebook-channel.md)]"

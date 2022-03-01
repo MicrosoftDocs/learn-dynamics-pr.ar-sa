@@ -4,16 +4,16 @@ title: تمرين - تعيين السعر الأساسي وإنشاء اتفاق
 metadata:
   title: تمرين - تعيين السعر الأساسي وإنشاء اتفاقية تجارية خاصة بالعميل
   description: في هذا التمرين، ستقوم بتعيين السعر الأساسي وإنشاء اتفاقية تجارية خاصة بالعميل.
-  ms.date: 04/22/2021
+  ms.date: 07/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: c424674a9bdbc307e9723ae4a6266de7181e3915
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: 56c81499078085369cd118fd11392f18ef052b66
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225850"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070298"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-exercise-1.md)]"

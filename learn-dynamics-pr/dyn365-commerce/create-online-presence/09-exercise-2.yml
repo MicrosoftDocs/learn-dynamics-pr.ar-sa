@@ -4,16 +4,16 @@ title: تمرين - إنشاء متجر على الإنترنت
 metadata:
   title: تمرين - إنشاء متجر على الإنترنت
   description: في هذا التمرين، ستقوم بإنشاء متجر على الإنترنت.
-  ms.date: 04/07/2021
+  ms.date: 07/17/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 72cf3f899e51d6ee279c54e9cc2a0a76e4c7c115
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: 0c9fda8f944a3e1e95d6b85c2086c97158c05f3d
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225597"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070301"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-exercise-2.md)]"

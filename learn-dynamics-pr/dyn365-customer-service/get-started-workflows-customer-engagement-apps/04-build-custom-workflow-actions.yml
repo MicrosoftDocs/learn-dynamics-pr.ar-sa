@@ -1,20 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-with-workflows-in-dynamics-365.04-build-custom-workflow-actions
-title: ‏‫إنشاء إجراءات سير عمل تطبيقات Dynamics 365 Customer Engagement المخصصة
+title: إنشاء إجراءات سير عمل تطبيقات Dynamics 365 Customer Engagement المخصصة
 metadata:
-  title: ‏‫إنشاء إجراءات سير عمل تطبيقات Dynamics 365 Customer Engagement المخصصة
-  description: ‏‫إنشاء إجراءات سير عمل تطبيقات Dynamics 365 Customer Engagement المخصصة
+  title: إنشاء إجراءات سير عمل تطبيقات Dynamics 365 Customer Engagement المخصصة
+  description: إنشاء إجراءات سير عمل تطبيقات Dynamics 365 Customer Engagement المخصصة
   ms.date: 02/07/2019
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
+  ms.prod: learning-customer-engagement
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 3651737db755106d14f3b6f444429ccdca301ce4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9bbf30281166ebed9bab6bbdb58b7aeaf49b9c41
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346955"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659113"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

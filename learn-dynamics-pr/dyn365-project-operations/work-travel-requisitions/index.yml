@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 006311d53183343fd49c90f1564779a8a88852b7
-  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.openlocfilehash: c94fffe7e3ca942e1975116eeafda54ba53c9a35
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "6072797"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7355939"
 title: التعامل مع طلبات السفر في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nباستخدام طلبات السفر، يمكن لمؤسستك التأكد من أن نفقات السفر التي يتم تكبدها للأعمال مرخصة واتباع سياسات المؤسسة، مع ضمان الحفاظ على الموازنات. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء طلب سفر.\n- مراجعة خيارات طلبات السفر.\n- التعرف على عملية الموافقة على طلب السفر. \n"

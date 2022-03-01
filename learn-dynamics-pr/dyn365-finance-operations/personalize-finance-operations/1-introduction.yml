@@ -4,17 +4,16 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة إلى تخصيص وحدة تطبيقات Finance and Operations
-  ms.date: 02/20/2019
+  ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 64f020bef44fcf740b834553ad67c0b878c67495
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 076eb00b4a41b1fdffc53800971587eee38cbea5
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071657"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7347805"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

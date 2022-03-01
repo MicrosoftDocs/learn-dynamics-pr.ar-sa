@@ -3,21 +3,20 @@ uid: learn-dynamics.remote-assist
 metadata:
   title: بدء الاستخدام مع إجراء مكالمات Remote Assist
   description: تعرّف على Remote Assist.
-  ms.date: 9/20/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 6/1/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.custom: intro-internal
-  ms.openlocfilehash: 674dd2e42d25b0c861fffe88de0ecf52015dba8c
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: d2907e6e1008b7d5a684cf867b4e615dfa8feca1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7514867"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7434133"
 title: بدء الاستخدام مع إجراء مكالمات Remote Assist
 summary: "[!include[](../includes/module-banner.md)] \nتعرّف على ميزات Remote Assist وكيف تُساعد الفنيين في حل المشكلات بسرعة. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على المستخدمين والأدوار.\n- اكتشف خيارات الجهاز المختلفة.\n"
-prerequisites: المعرفة الأساسية بـ Dynamics 365 Field Service
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على المستخدمين والأدوار.\n- اكتشف خيارات الجهاز المختلفة.\n"
+prerequisites: لا شيء
 iconUrl: /learn/achievements/remote-assist.svg
 levels:
 - intermediate

@@ -4,16 +4,15 @@ title: تخطيط التنفيذ والبنية الخاصة به
 metadata:
   title: تخطيط التنفيذ والبنية الخاصة به
   description: توضح هذه الوحدة تخطيط مشروع تنفيذ Finance and Operations وبنية المنتج.
-  ms.date: 06/02/2020
+  ms.date: 07/27/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: e366d2039b4c9115803caeda8d838ceb73abe430
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 1d570686567bb5d7d544054bf951a4dac5af6eec
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071907"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365893"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-2-planning-architecture.md)]"

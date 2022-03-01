@@ -3,18 +3,19 @@ uid: learn-bizapps.creating-and-managing-entitlements-in-dynamics-365.7-knowledg
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 01/18/2022
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c9883e0c6472ecddaf231d08749c4f1ef7ff70de
-  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
+  ms.prod: learning-d365
+  ms.openlocfilehash: c92d22bf6bea0b2718e22378b7b67c3b229966b6
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8013992"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659120"
 title: اختبر معلوماتك
-durationInMinutes: 6
+durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:

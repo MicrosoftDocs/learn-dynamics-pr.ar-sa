@@ -4,16 +4,18 @@ title: إنشاء الحالة ودورة حياتها
 metadata:
   title: إنشاء الحالة ودورة حياتها
   description: إنشاء الحالة ودورة حياتها
-  ms.date: 09/03/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 67a7b937feceaf7a7a0f003940aff173c8563555
-  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 6f065e0feee9899ece635189583796a56f20e508
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/07/2021
-  ms.locfileid: "7478613"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659171"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

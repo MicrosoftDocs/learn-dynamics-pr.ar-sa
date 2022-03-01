@@ -4,17 +4,17 @@ title: تطبيق خوارزميات المعالجة المتوازية
 metadata:
   title: تطبيق خوارزميات المعالجة المتوازية
   description: تعرف علة كيفية تطبيق خوارزميات المعالجة المتوازية في تطبيقات Finance and Operations.
-  ms.date: 07/03/2019
+  ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2786f159860379b71a275dfce92f79897ff2ac45
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b45c113854064d40ba646b075cb849bc1b50259f
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071612"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6258554"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

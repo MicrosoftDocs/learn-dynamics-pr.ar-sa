@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-dynamics.common-actions-client-script-power-platform
 metadata:
-  title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل‬
-  description: يتمثل هدف هذه الوحدة النمطية في مراجعة كيفية تحقيق إجراءات أتمتة تجربة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة النمطية إلى العمل كدليل عملي لكيفية حل السيناريوهات الواقعية التي تتم مواجهتها بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.
-  ms.date: 10/11/2021
+  title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل
+  description: إن الهدف من هذه الوحدة هو مراجعة كيفية تحقيق إجراءات التنفيذ التلقائي لخبرة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة إلى العمل كدليل عمليات لكيفية حل السيناريوهات الواقعية التي تُواجه بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.
+  ms.date: 07/15/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: edd36a4e28f2913af20d4bef80fe9a72d79546aa
-  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.openlocfilehash: 3869b43f57099247a168bb738f1c25e5ac306b16
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/12/2021
-  ms.locfileid: "7625123"
-title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل‬
-summary: "[!include[](../includes/module-banner.md)]\n\nيتمثل هدف هذه الوحدة النمطية في مراجعة كيفية تحقيق إجراءات أتمتة تجربة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة النمطية إلى العمل كدليل عملي لكيفية حل السيناريوهات الواقعية التي تتم مواجهتها بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.  \n"
-abstract: "في هذه الوحدة، ستتمكن مما يأتي: \n- اكتب البرنامج النصي للعميل لتنفيذ الإجراءات الشائعة كما هو موضح في وحدات الوحدة النمطية. \n"
-prerequisites: "-  الفهم الأساسي لـ Microsoft Power Platform والخبرة في تطوير البرامج مقابل Microsoft stack وVisual Studio \n-  ويُفضل وجود خبرة في إدارة الحلول في Microsoft Azure.‬\n"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457558"
+title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل
+summary: "[!include[](../includes/module-banner.md)]\n\nإن الهدف من هذه الوحدة هو مراجعة كيفية تحقيق إجراءات التنفيذ التلقائي لخبرة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة إلى العمل كدليل عمليات لكيفية حل السيناريوهات الواقعية التي تُواجه بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتب البرنامج النصي للعميل لتنفيذ الإجراءات الشائعة كما هو موضح في فصول الوحدة. \n"
+prerequisites: "-  الفهم الأساسي لـ Microsoft Power Platform خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio \n-  تجربة في إدارة الحلول في Microsoft Azure هي المفضلة.Â Â \n"
 iconUrl: /learn/achievements/common-actions-client-script-power-platform.svg
 levels:
 - intermediate
@@ -31,10 +31,8 @@ products:
 - common-data-service
 units:
 - learn-dynamics.common-actions-client-script-power-platform.1-intro
-- learn-dynamics.common-actions-client-script-power-platform.2-upload-scripts
-- learn-dynamics.common-actions-client-script-power-platform.3-event-handlers
-- learn-dynamics.common-actions-client-script-power-platform.4a-context
-- learn-dynamics.common-actions-client-script-power-platform.4b-common-tasks
+- learn-dynamics.common-actions-client-script-power-platform.2-events
+- learn-dynamics.common-actions-client-script-power-platform.3-user-interface
 - learn-dynamics.common-actions-client-script-power-platform.4-exercise
 - learn-dynamics.common-actions-client-script-power-platform.5-check
 - learn-dynamics.common-actions-client-script-power-platform.6-summary

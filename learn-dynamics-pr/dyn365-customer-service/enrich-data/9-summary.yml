@@ -3,16 +3,17 @@ uid: learn-dynamics.enrich-data.9-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص وحدة إثراء البيانات والتنبؤات باستخدام وحدة رؤى الجمهور
+  description: ملخص وحدة "إثراء البيانات والتنبؤات من خلال Customer Insights"
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 940091ef5134c43e9cc84914e12bcc335076e3dc
-  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: f71437322dae6e8d12e10d67f1f6dba315e6d2ca
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "7486149"
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659384"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-summary.md)]"

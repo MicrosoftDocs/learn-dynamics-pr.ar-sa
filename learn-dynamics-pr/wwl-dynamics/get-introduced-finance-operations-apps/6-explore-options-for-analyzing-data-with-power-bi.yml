@@ -4,18 +4,17 @@ title: استكشف الخيارات لتحليل البيانات باستخد�
 metadata:
   title: استكشف الخيارات لتحليل البيانات باستخدام Power BI
   description: استكشف الخيارات لتحليل البيانات باستخدام Power BI
-  ms.date: 10/18/2021
+  ms.date: 07/16/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: b0957eeaf065619de9e45982ccdb491e431e4a69
-  ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 09aad6fb688e5a2296c7afcf53680d2b241f9dfa
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/18/2021
-  ms.locfileid: "7648433"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438762"
 azureSandbox: false
-labModal: false
 durationInMinutes: 5
 content: '[!include[](includes/6-explore-options-for-analyzing-data-with-power-bi.md)]'

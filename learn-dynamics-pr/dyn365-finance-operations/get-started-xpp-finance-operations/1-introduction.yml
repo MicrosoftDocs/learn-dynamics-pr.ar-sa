@@ -4,17 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: تقدم هذه الوحدة "الشروع في العمل بالتطوير" باستخدام X++ لوحدة تطبيقات Finance and Operations.
-  ms.date: 07/12/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 8075d862e7290c194191614b7260b1ac889e15f6
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 2bfcf9b21c211a3e28a9b74cba71815c4aebe141
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071679"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255015"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 684ea53e6e8514f97bb0dc4acc19e0372797833c
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 6caf341e150a008354f46f03cccbc5c61bdf307b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072216"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7357961"
 title: إنشاء النماذج وتحسين أداء النموذج في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم إنشاء النماذج وإدارتها في Visual Studio وسيتم عرضها على المستخدم كصفحات ويب. وتوضح هذه الوحدة كيفية إنشاء النماذج وإدارتها في بيئة مطوري تطبيقات Finance and Operations، إلى جانب كيفية تحسين أداء النماذج. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء نموذج جديد.\n- تطبيق نمط نموذج.\n- أضف مصدر بيانات إلى نموذج.\n- أضف الشبكات والحقول والمجموعات إلى نموذج.\n- اكتشف أنواع عناصر القائمة.\n- قم بإنشاء عنصر قائمة وإضافته إلى نموذج.\n- قم بتشغيل نموذج واختبر وظائفه.\n- تعرف على الأدوات المستندة إلى المستعرض وPerformance Timer المستخدمة لتحسين أداء النموذج.\n"

@@ -3,21 +3,22 @@ uid: learn-dynamics.create-manage-environments.6-check
 metadata:
   title: إنشاء البيئات وإدارتها في الفحص المعرفي لـ Microsoft Dataverse
   description: أجب عن الأسئلة التالية لمعرفة ما تعلمته حول إنشاء البيئات وإدارتها في Dataverse.
-  ms.date: 02/01/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 06/30/2019
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 229e9e588700d588d71e130c232916dd85c0a50a
-  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 86c2cc5c2f970ba1d6a6e215a3170eeafe1b3e60
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/01/2022
-  ms.locfileid: "8079235"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457427"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
   questions:
   - content: ما هو الذي يمكن أن يُستثنى من بيئة في Dataverse مما يلي؟
     choices:
@@ -47,7 +48,7 @@ quiz:
     - content: تقييد الطباعة
       isCorrect: true
       explanation: تُستخدم أدوار الأمان لتقييد الوصول إلى البيانات، وتقييد الوصول إلى بيئة، وتقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات.
-  - content: أي مما يلي ليس نوعاً من أنواع أدوار الأمان؟
+  - content: أي مما يلي ليس نوعًا من أنواع أدوار الأمان؟
     choices:
     - content: المستخدم
       isCorrect: false

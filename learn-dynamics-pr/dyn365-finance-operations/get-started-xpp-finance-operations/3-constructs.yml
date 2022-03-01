@@ -4,17 +4,16 @@ title: بنيات البرمجة المهيكلة الشائعة لـ X++
 metadata:
   title: بنيات البرمجة المهيكلة الشائعة لـ X++
   description: تعرف على بنيات البرمجة المهيكلة الشائعة لـ X++.
-  ms.date: 07/12/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 7de1d164d0635f6a369ff0b54ea8b2a3a552153a
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: a8ab0ffbcdf5f548006fc5d1493b471bbe2c6f55
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071858"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7347871"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

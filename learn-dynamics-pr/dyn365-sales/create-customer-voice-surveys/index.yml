@@ -2,22 +2,22 @@
 uid: learn-dynamics.create-customer-voice-surveys
 metadata:
   title: إنشاء استطلاعات العملاء باستخدام Dynamics 365 Customer Voice
-  description: يمكن أن يساعدك الحصول على ملاحظات العملاء في اتخاذ قرارات عمل أفضل. في هذه الوحدة، ستبدأ في إنشاء الاستطلاعات.
+  description: احصل على تعليقات العملاء لاتخاذ قرارات عمل أكثر ذكاءً. ابدأ بإنشاء استطلاعات في هذه الوحدة النمطية.
   ms.date: 01/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 7ddc0e7495209efd638fb3beffdab275c4ca0c3a
-  ms.sourcegitcommit: 4af9cd967e8496ed53c1022e0b4b83dcf4001802
+  ms.openlocfilehash: 9dae5d19c847bd6108d29aa29831293115ecb8dd
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/25/2022
-  ms.locfileid: "8025958"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964274"
 title: إنشاء استطلاعات العملاء باستخدام Dynamics 365 Customer Voice
-summary: "[!include[](../includes/module-banner.md)] \nيمكن أن يساعدك الحصول على ملاحظات العملاء في اتخاذ قرارات عمل أفضل. في هذه الوحدة، ستبدأ في إنشاء الاستطلاعات. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء استطلاعك الأول باستخدام نسف وعلامة تجارية مخصصة.\n- معرفة متى يجب استخدام قواعد التفريع لتوجيه المستجيبين عبر الاستطلاع.\n- تخصيص الاستطلاعات بواسطة المتغيرات.\n"
-prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics 365 Customer Voice
+summary: "[!include[](../includes/module-banner.md)] \nاحصل على تعليقات العملاء لاتخاذ قرارات عمل أكثر ذكاءً. ابدأ بإنشاء استطلاعات في هذه الوحدة النمطية. \n"
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- إنشاء استطلاعك الأول باستخدام نسف وعلامة تجارية مخصصة.\n- معرفة متى يجب استخدام قواعد التفريع لتوجيه المستجيبين عبر الاستطلاع.\n- تخصيص الاستطلاعات بواسطة المتغيرات.\n"
+prerequisites: الفهم الأساسي لتطبيق Customer Voice.
 iconUrl: /learn/achievements/create-customer-voice-surveys.svg
 levels:
 - beginner

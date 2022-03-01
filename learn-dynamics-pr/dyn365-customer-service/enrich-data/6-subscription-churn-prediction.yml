@@ -8,11 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bd5ae62960ec57d1f7fb889f8d965a369ba660e0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bb05472eb5b715fde79379716306e43dc4536e5b
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356137"
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659393"
 durationInMinutes: 9
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-subscription-churn-prediction.md)]"

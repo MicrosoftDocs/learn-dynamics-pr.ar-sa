@@ -7,13 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: e8f9c7b6ced9fb128d84e3aafcf3a3d4d7a3490a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 8985cbcd0195e290e5121e6758ca80fa96e62d9a
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341914"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659304"
 title: مقدمة لتوسيع Microsoft Power Platform
 summary: >
   [!include[](../includes/module-banner.md)]

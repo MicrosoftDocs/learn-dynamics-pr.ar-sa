@@ -3,17 +3,16 @@ uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations
 metadata:
   title: إدارة تطبيقات Finance and Operations باستخدام Lifecycle Services
   description: تساعدك Lifecycle Services على استضافة بيئات تطبيقات Finance and Operations. يوفر عمليات قابلة للتكرار لدعم النجاح المتسق مع كل تسليم. تتوفر Lifecycle Services للعملاء والشركاء كجزء من خطط الدعم الخاصة بهم.
-  ms.date: 07/11/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1d0b55fa56a9b0ec81765304c206dd2e5629a126
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 6065f04fd010ed1fbd105ac042884326496c87fc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072188"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7349128"
 title: إدارة تطبيقات Finance and Operations باستخدام Lifecycle Services
 summary: >
   [!include[](../includes/module-banner.md)]

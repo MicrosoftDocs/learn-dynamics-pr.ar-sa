@@ -8,13 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0c4d01e06feddedde9b82bda1eccfd027cde46ea
-  ms.sourcegitcommit: 0d738495aedec7fdd6ba69353360071884764fc2
+  ms.openlocfilehash: 3585bda9c3164c659ee0c24a1d75bf4bccb4a325
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/17/2020
-  ms.locfileid: "6072062"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7351817"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته

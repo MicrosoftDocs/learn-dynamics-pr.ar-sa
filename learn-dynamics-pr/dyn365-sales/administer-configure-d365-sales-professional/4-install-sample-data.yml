@@ -4,17 +4,18 @@ title: تثبيت بيانات العينات
 metadata:
   title: تثبيت بيانات العينات
   description: تثبيت بيانات العينات
-  ms.date: 09/15/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 05/14/2019
+  author: davebeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b987b1b9f9dc21e807c4a925c711dc9b22612cbf
-  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 922cb1b4ec40a9c4717b1ee368a7d6b5fc8a57a0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/16/2021
-  ms.locfileid: "7498342"
-durationInMinutes: 3
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436146"
+durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]
 

@@ -3,22 +3,22 @@ uid: learn-dynamics.working-with-sales-insights
 metadata:
   title: العمل مع Dynamics 365 Sales Insights
   description: يستغرق بناء علاقة قوية وطويلة الأمد مع العميل وقتاً وجهداً. يحتاج مديرو الحسابات إلى التواصل مع العملاء بشكل منتظم والحفاظ على فهم كامل لمن هو هذا العميل وما يحتاجون إليه. تركز هذه الوحدة على Dynamics 365 Embedded Intelligence، والتي يمكن للشركات استخدامها للمساعدة في بناء علاقات العملاء هذه باستخدام ميزاتها مثل مساعد العلاقة والالتقاط التلقائي وتتبع البريد الإلكتروني ورؤى المبيعات.
-  ms.date: 09/28/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.custom: testing
   coverage: testing
-  ms.openlocfilehash: d6db1444f4721cdc7ee0a8c58c24bd93151bfef0
-  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
+  ms.openlocfilehash: 0974c467ea151cf7e189b81434ec7a982d1df5d4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "7581561"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436214"
 title: العمل مع Dynamics 365 Sales Insights
-summary: "[!include[](../includes/module-banner.md)] \nيستغرق بناء علاقة قوية وطويلة الأمد مع العميل وقتاً وجهداً. يحتاج مديرو الحسابات إلى التواصل مع العملاء بشكل منتظم والحفاظ على فهم كامل لمن هو هذا العميل وما يحتاجون إليه. تركز هذه الوحدة على Dynamics 365 Embedded Intelligence، والتي يمكن للشركات استخدامها للمساعدة في بناء علاقات العملاء هذه باستخدام ميزاتها مثل مساعد العلاقة والالتقاط التلقائي وتتبع البريد الإلكتروني ورؤى المبيعات.    \n"
-abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- نشر وتكوين بطاقات العلاقة المتقدمة.\n- استخدام ميزة الالتقاط التلقائي لتحديد الاتصالات ذات الصلة.\n- تكوين واستهلاك ميزة تتبع البريد الإلكتروني.\n- إعداد ميزة Sales Insights وسلامة العلاقة.\n"
-prerequisites: المعرفة الأساسية بـ Dynamics 365 Sales
+summary: "[!include[](../includes/module-banner.md)] \n\nيستغرق بناء علاقة قوية وطويلة الأمد مع العميل وقتاً وجهداً. يحتاج مديرو الحسابات إلى التواصل مع العملاء بشكل منتظم والحفاظ على فهم كامل لمن هو هذا العميل وما يحتاجون إليه. تركز هذه الوحدة على Dynamics 365 Embedded Intelligence، والتي يمكن للشركات استخدامها للمساعدة في بناء علاقات العملاء هذه باستخدام ميزاتها مثل مساعد العلاقة والالتقاط التلقائي وتتبع البريد الإلكتروني ورؤى المبيعات.    \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر وتكوين بطاقات العلاقة المتقدمة.\n- استخدام ميزة الالتقاط التلقائي لتحديد الاتصالات ذات الصلة.\n- تكوين واستهلاك ميزة تتبع البريد الإلكتروني.\n- إعداد ميزة رؤى المبيعات وصحة العلاقة.\n"
+prerequisites: لا شيء
 iconUrl: /learn/achievements/working-with-sales-insights.svg
 levels:
 - intermediate

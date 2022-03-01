@@ -4,17 +4,18 @@ title: نظرة عامة على معالجة أوامر المبيعات
 metadata:
   title: نظرة عامة على معالجة أوامر المبيعات
   description: نظرة عامة على معالجة أوامر المبيعات
-  ms.date: 09/16/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 01/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5fdd879e0ecccad1dce69c5555b803817717df64
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4513af313a7b9857bb2d609ed01f64ab6845e932
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/18/2021
-  ms.locfileid: "7501556"
-durationInMinutes: 6
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436189"
+durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]
 

@@ -3,17 +3,17 @@ uid: learn-dynamics.create-define-calculation-rollup-fields
 metadata:
   title: إنشاء أعمدة الحساب أو القيم المحتسبة وتحديدها في Microsoft Dataverse
   description: هل ترغب في استخدام أعمده القيم المحتسبة أو الحساب ؟ وتوضح هذه الوحدة كيفية بناء الحسابات أو القيم المحتسبة التي تم تعريفها وتشغيلها داخل البيانات في Dataverse، بغض النظر عن التطبيق الذي يصل إلى مجموعه البيانات هذه.
-  ms.date: 02/01/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 07/26/2019
+  author: kschimke
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 1e4f9e8bd99862928772aadea58f7b83a14f2f82
-  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
+  ms.openlocfilehash: 6034699fab1de8b92ee6d0b35b6babf51367f343
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/01/2022
-  ms.locfileid: "8079227"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457553"
 title: إنشاء أعمدة الحساب أو القيم المحتسبة وتحديدها في Dataverse
 summary: "[!include[](../includes/module-banner.md)]\n\nهل ترغب في استخدام أعمده القيم المحتسبة أو الحساب ؟ وتوضح هذه الوحدة كيفية بناء الحسابات أو القيم المحتسبة التي تم تعريفها وتشغيلها داخل البيانات في Dataverse، بغض النظر عن التطبيق الذي يصل إلى مجموعه البيانات هذه. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحديد عمود القيمة المحتسبة. \n- إنشاء عمود القيمة المحتسبة.\n- تحديد عمود الحساب.\n- إنشاء عمود الحساب.\n"

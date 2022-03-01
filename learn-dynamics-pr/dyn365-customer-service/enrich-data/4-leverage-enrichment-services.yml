@@ -8,11 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d00691b6bda2cf357fb7498d0bd4a0fe4c53712d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 4874a705b51abafb104b6559242e753d591e0f55
+  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364405"
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "6659385"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-leverage-enrichment-services.md)]"

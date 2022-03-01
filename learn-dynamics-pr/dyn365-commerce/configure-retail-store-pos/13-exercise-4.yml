@@ -4,16 +4,16 @@ title: 'تدريب: إنشاء منصب وتعيين أذونات نقطة ال�
 metadata:
   title: 'تدريب: إنشاء منصب وتعيين أذونات نقطة البيع لعامل'
   description: تدرب على إنشاء منصب وتعيين أذونات نقطة البيع لعامل في Dynamics 365 Commerce.
-  ms.date: 04/23/2021
+  ms.date: 07/17/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: cd9d5b67ffb9f204eabcd6bb5b5b505c7da0f275
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: a00b360628567f6799fbdc584a819cb079490172
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225537"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070126"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-exercise-4.md)]"

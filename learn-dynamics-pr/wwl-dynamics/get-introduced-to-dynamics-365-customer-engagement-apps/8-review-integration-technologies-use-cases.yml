@@ -4,18 +4,17 @@ title: مراجعة تقنيات التكامل وحالات الاستخدام
 metadata:
   title: مراجعة تقنيات التكامل وحالات الاستخدام
   description: مراجعة تقنيات التكامل وحالات الاستخدام
-  ms.date: 12/21/2021
+  ms.date: 07/22/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: f7775b748f62b7ddd2244d9f5c91177faf0c519d
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 3ce7047804a0372dad3c359f8867ef21cce6df5e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944422"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329538"
 azureSandbox: false
-labModal: false
 durationInMinutes: 7
 content: '[!include[](includes/8-review-integration-technologies-use-cases.md)]'

@@ -4,16 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: تلخص هذه الوحدة التكوين والعمل مع تنفيذ الطلب في وحدة Dynamics 365 Commerce
-  ms.date: 04/21/2021
+  ms.date: 07/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 914a52b50346fedc98c5ce278faa46d0cfc326d4
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: 7d9f6bf7275d10c055d18150499d88a945222714
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225645"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070051"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-summary.md)]"

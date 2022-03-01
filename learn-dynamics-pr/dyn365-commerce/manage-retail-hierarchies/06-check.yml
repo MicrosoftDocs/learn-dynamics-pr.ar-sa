@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.manage-retail-hierarchies.06-check
-title: تحقق من مستوى معرفتك
+title: اختبر معلوماتك
 metadata:
-  title: تحقق من مستوى معرفتك
+  title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 07/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: fee43e7d0af1a8e4e4e9ad021ebb47d78b9d302e
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 7164a9f2ee7748af2d6f15f52d57bc1543bc3f8d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070389"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328392"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

@@ -3,20 +3,21 @@ uid: learn-dynamics.work-core-features-marketing
 metadata:
   title: العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing
   description: تعرّف على كيفية استخدام تطبيق Marketing لتوجيه العملاء المحتملين والعملاء من خلال عملية المراسلة الآلية، وإنشاء النشاط ونقاط القرار التفاعلية. ستتعلم كيفية إنشاء المحتوى التسويقي وإدارتها مثل نماذج التسويق والصفحات التسويقية ورسائل البريد الإلكتروني التسويقية. إضافة إلى ذلك، ستتعلم كيفية تخصيص رسائلك لجمهور معين من خلال التقسيم إلى شرائح وإنشاء حملات آلية تُعرف باسم رحلات العميل.
-  ms.date: 09/02/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 11/25/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-marketing
-  ms.openlocfilehash: a2ad2b185646e907273ad1f1be5cb84e7d061464
-  ms.sourcegitcommit: e7404359ba7d666c707e678889b51f9cd0110c00
+  ms.openlocfilehash: 95ebcdc264a7be99a49b71a54db1f7dab6b61446
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2021
-  ms.locfileid: "7470420"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7437324"
 title: العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing
 summary: >
   [!include[](../../includes/lp-banner.md)]
+
 
   تعرّف على كيفية استخدام تطبيق Marketing لتوجيه العملاء المحتملين والعملاء من خلال عملية المراسلة الآلية، وإنشاء النشاط ونقاط القرار التفاعلية. ستتعلم كيفية إنشاء المحتوى التسويقي وإدارتها مثل نماذج التسويق والصفحات التسويقية ورسائل البريد الإلكتروني التسويقية. إضافة إلى ذلك، ستتعلم كيفية تخصيص رسائلك لجمهور معين من خلال التقسيم إلى شرائح وإنشاء حملات آلية تُعرف باسم رحلات العميل.
 prerequisites: "- فهم أساسي لكيفية التنقل في Dynamics 365. \n"
@@ -35,7 +36,6 @@ modules:
 - learn-dynamics.manage-customers
 - learn-dynamics.manage-forms-pages-subscriptions
 - learn-dynamics.manage-emails-journey
-- learn-dynamics.manage-content-event-triggers-journeys
 - learn-dynamics.manage-subscription-centers-double-opt
 - learn-dynamics.manage-websites-redirects-social
 trophy:

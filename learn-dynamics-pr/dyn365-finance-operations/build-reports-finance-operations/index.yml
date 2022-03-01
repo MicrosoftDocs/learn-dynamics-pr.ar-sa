@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 109552bcd859af7986f5ff5438a6e562af2ddf86
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: ae8803387b1945949dffe0f1c2df3fbe429a4b90
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072231"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7353770"
 title: إنشاء تقارير لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nلدى المؤسسات الكثير من البيانات. عند زيادة حجم إحدى المؤسسات، تصبح قدرتها على توفير سياق لجميع تلك البيانات ذات أهمية متزايدة. يمكن للتقارير تنظيم البيانات بطريقة مفيدة. تتضمن تطبيقات Finance and Operations أدوات إعداد التقارير لمساعدتك في إنشاء تقارير لمؤسستك وSQL Server Reporting Services (SSRS) وMicrosoft Power BI وتقارير Microsoft Excel. يمكنك استخدام أدوات إعداد التقارير هذه لتصور مجموعة بيانات بعدة طرق، بما في ذلك كتخطيط جدولي مع جداول قابلة للطي وباستخدام لوحات المعلومات. ستقوم خلال هذه الوحدة ببناء أساس لتصميم التقارير وإنشائها وتعديلها. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصميم تقارير SSRS وإنشائها وتعديلها.\n- قم بإنشاء تقرير Power BI وتعديله باستخدام بيانات تطبيقات Finance and Operations.\n- قم بإنشاء تقرير Excel وتعديله باستخدام بيانات تطبيقات Finance and Operations.\n"

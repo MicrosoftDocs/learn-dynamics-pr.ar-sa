@@ -7,13 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 0fc89ef60b46cb8bc736b08b6d373b0a75d0641c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: edf9dddcc86a71f62dc2c7002a2c70855c037fe8
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346240"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6659324"
 title: إدارة عمليات توزيع Microsoft Power Platform
 summary: "[!include[](../includes/module-banner.md)]\n\nتصميم التطبيقات وتوزيعها باستخدام Microsoft Power Platform. سيعمل اتباع أفضل الممارسات في أثناء هذه العملية على تقليل فرص حدوث المشكلات الفنية في المستقبل فيما يتصل بسوء عملية إدارة دورة حياة التطبيق وحدود التخزين. تتمثل الخطوة الأولى قبل التخصيص وتكوين الحل في تكوين مستأجرك على الانترنت وبيئتك على الإنترنت \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف مفاهيم أسس توزيع Microsoft Power Platform\n- تحديد المتطلبات الفنية\n- تخطيط عملية التوزيع الخاصة بك\n- عمليات توزيع Dynamics 365 متعددة المستأجرين ومتعددة المثيلات\n- إدارة الاشتراكات\n- تحديد التخزين\n- اعتبارات التكامل\n- إدارة المصادقة\n"

@@ -4,16 +4,16 @@ title: تمرين - تعليق حركة واستدعاؤها
 metadata:
   title: تمرين - تعليق حركة واستدعاؤها
   description: في هذا التمرين، ستقوم بتعليق حركة واستدعائها.
-  ms.date: 04/26/2021
+  ms.date: 07/17/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 828e6c875225be155f1f9413bca1cb394abd2ef6
-  ms.sourcegitcommit: 3d1c0deccb9fbd4b3cfa235d1b797923d0caad0b
+  ms.openlocfilehash: 8c022487823d2db7ab23fdcb61f3a172a6551837
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6225276"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070236"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-exercise-2.md)]"

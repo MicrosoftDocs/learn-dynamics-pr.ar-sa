@@ -1,20 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.04-integrate-with-skype
-title: استخدام Skype و Skype for Business مع تطبيقات Dynamics 365 Customer Engagement
+title: استخدم Skype وSkype for Business مع تطبيقات Dynamics 365 Customer Engagement
 metadata:
-  title: استخدام Skype و Skype for Business مع تطبيقات Dynamics 365 Customer Engagement
-  description: استخدام Skype و Skype for Business مع تطبيقات Dynamics 365 Customer Engagement
+  title: استخدم Skype وSkype for Business مع تطبيقات Dynamics 365 Customer Engagement
+  description: استخدم Skype وSkype for Business مع تطبيقات Dynamics 365 Customer Engagement
   ms.date: 02/08/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 742d84defa6e33e1a495ff5a3b68ab20117ba2bc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7d4caaab758368aa862d19191f487343970ca37b
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347970"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659184"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

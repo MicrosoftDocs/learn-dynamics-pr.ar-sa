@@ -4,17 +4,16 @@ title: أنواع البيانات الموسعة وخصائص العناصر
 metadata:
   title: أنواع البيانات الموسعة وخصائص العناصر
   description: تعرف على أنواع البيانات الموسعة وخصائص العناصر في تطبيقات Finance and Operations.
-  ms.date: 06/24/2019
+  ms.date: 06/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 32e4716789a991bedf0253a89f8468f130ab2395
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 2336dec8c3091da3c9498a840a91aef23a400c43
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071766"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366495"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]
