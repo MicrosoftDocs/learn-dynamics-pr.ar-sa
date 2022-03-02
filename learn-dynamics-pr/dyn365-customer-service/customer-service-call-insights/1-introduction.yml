@@ -8,12 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-customer-insights
-  ms.openlocfilehash: 998cf73b5886f9c4ac3efaa0cacbe0ef4135320d
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: customer-insights
+  ms.openlocfilehash: 8a07010cbfff473c84ac7d9ac90365da7a1a145d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658437"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7341962"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

@@ -5,16 +5,15 @@ labId: 63331
 metadata:
   title: تمرين عملي - إدراج سجلات باستخدام فئة قابلة للتشغيل
   description: التدرب على إدراج سجلات باستخدام فئة قابلة للتشغيل في تطبيقات Finance and Operations.
-  ms.date: 04/23/2020
+  ms.date: 06/03/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 5d5d678e9efc705c29b820fc7511079124c131c7
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: d076129d7e58c53ca90b9e5e34860eafd587d315
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071562"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365947"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/5-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

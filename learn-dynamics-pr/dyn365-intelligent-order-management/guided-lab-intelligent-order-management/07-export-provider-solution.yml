@@ -3,16 +3,16 @@ uid: learn-dynamics.guided-lab-intelligent-order-management.07-export-provider-s
 title: تصدير حل موفر
 metadata:
   title: تصدير حل موفر
-  description: تصدير حل موفر في Intelligent Order Management
+  description: تصدير حل موفر في Intelligent Order Management.
   ms.date: 01/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aed91be1d22d220bf45a2a6bc93eafc79c922e3c
-  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
+  ms.openlocfilehash: 034f057f6e4f5c2e0dbb88b16f2b4681ed943d91
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/31/2022
-  ms.locfileid: "8075799"
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091342"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-export-provider-solution.md)]"

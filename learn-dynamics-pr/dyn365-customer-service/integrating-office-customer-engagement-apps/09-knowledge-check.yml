@@ -1,24 +1,23 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement.09-knowledge-check
 metadata:
-  title: دمج فحص المعرفة لـ Office وتطبيقات Dynamics 365 Customer Engagement
-  description: دمج فحص المعرفة لـ Office وتطبيقات Dynamics 365 Customer Engagement
+  title: دمج تطبيقات Office وDynamics 365 Customer Engagement ‏‫فحص المعرفة
+  description: دمج تطبيقات Office وDynamics 365 Customer Engagement ‏‫فحص المعرفة
   ms.date: 02/08/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 3da3d48e637ea17a290f06ebd26c561849eb1304
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 7e6feb89ff9a9ba8e2cbfecf34f5298065bc6691
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659138"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7360640"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:
-  title: إدماج فحص المعرفة لـ Office وتطبيقات Dynamics 365 Customer Engagement
+  title: دمج تطبيقات Office وDynamics 365 Customer Engagement ‏‫فحص المعرفة
   questions:
   - content: أنت تريد العمل مع ملفات من SharePoint من داخل Dynamics 365. من أين يمكنك الوصول إلى ملفات SharePoint من واجهة Dynamics 365؟
     choices:

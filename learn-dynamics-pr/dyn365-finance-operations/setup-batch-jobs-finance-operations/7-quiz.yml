@@ -3,19 +3,18 @@ uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.7-setup-batch-j
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 02/18/2019
+  ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 8c3658b57e73751001a53f365035a5f9be8b72f3
-  ms.sourcegitcommit: f312f3c4dbb875448b80ac38abe605ce4cdd9244
+  ms.openlocfilehash: 279dc4f2b9c2dac9de4859960dbc27b3af191eba
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/25/2020
-  ms.locfileid: "6072083"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7341826"
 title: اختبر معلوماتك
-durationInMinutes: 6
+durationInMinutes: 10
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
@@ -57,4 +56,32 @@ quiz:
       explanation: تتكون الوظيفة الدفعية من مهمة دفعة واحدة أو أكثر.
     - content: هو نشاط يتم تشغيله بواسطة وظيفة دفعات.
       isCorrect: true
-      explanation: يمكنك إضافة مهام دفعات لها أنواع متعددة من التبعيات إلى وظيفة دفعية.
+      explanation: يمكنك إضافة مهام مجمعة لها أنواع متعددة من التبعيات إلى وظيفة دُفعية.
+  - content: أي مما يلي يوفر بيئة معالجة دفعية غير متزامنة قائمة على الخادم يمكنها معالجة المهام عبر مثيلات متعددة لـ Application Object Server‏ (AOS)؟
+    choices:
+    - content: مهمة الدُفعة
+      isCorrect: false
+      explanation: مهمة الدُفعة هي نشاط يتم تشغيله بواسطة وظيفة دفعية. يمكنك إضافة مهام مجمعة لها أنواع متعددة من التبعيات إلى وظيفة دُفعية.
+    - content: إطار عمل الدُفعة
+      isCorrect: true
+      explanation: يوفر إطار عمل الدُفعات بيئة معالجة دُفعات غير متزامنة قائمة على الخادم يمكنها معالجة المهام عبر مثيلات متعددة لـ Application Object Server‏ (AOS). إن AOS هي الواجهة بين تطبيق العميل، مثل المستعرض وقاعدة بيانات تطبيقات Finance and Operations.
+    - content: مجموعة الدُفعات
+      isCorrect: false
+      explanation: مجموعة الدُفعات هي سمة مهمة دُفعة. تتيح مجموعة الدُفعات للمسؤول تحديد أو تحديد مثيل AOS الذي يقوم بتشغيل المهمة.
+    - content: وظيفة دفعية
+      isCorrect: false
+      explanation: تتكون الوظيفة الدفعية من مهمة دفعة واحدة أو أكثر.
+  - content: ما الامتياز الذي لا يمتلكه دور أمان مدير وظيفة الدُفعة؟
+    choices:
+    - content: نسخ وظيفة دفعية
+      isCorrect: false
+      explanation: مستخدم لديه دور أمان مدير وظيفة الدُفعة، لديه حق الوصول لنسخ وظيفة دُفعة.
+    - content: إنشاء وظيفة دُفعة غير مخطط لها
+      isCorrect: false
+      explanation: تعد القدرة على إنشاء وظائف مجمعة غير مخططة أحد الامتيازات المعينة لدور أمان مدير وظيفة الدُفعة.
+    - content: حدد النطاقات الزمنية التي يمكن خلالها تنفيذ المهام.
+      isCorrect: false
+      explanation: يمكن لدور أمان مدير وظيفة الدُفعة تحديد النطاقات الزمنية التي يمكن خلالها تنفيذ الوظائف.
+    - content: القدرة على تغيير إعدادات النظام الإجمالية المشابهة لدور أمان المسؤول.
+      isCorrect: true
+      explanation: يمكن لدور الأمان لمدير وظيفة الدُفعة إدارة وظائف الدُفعات، ولكن لا يمكنه إجراء أي تغييرات على مستوى النظام كما يمكن للمسؤول.

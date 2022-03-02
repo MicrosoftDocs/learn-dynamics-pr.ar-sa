@@ -4,16 +4,15 @@ title: قابلية توسعة التجارة الإلكترونية
 metadata:
   title: قابلية توسعة التجارة الإلكترونية
   description: تعرف على قابلية توسعة التجارة الإلكترونية في Dynamics 365 Commerce وكيفية إعداد بيئة التطوير والمكونات الضرورية لتوسيع التجارة الإلكترونية.
-  ms.date: 09/04/2020
+  ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: bc55ac9ec9592151ea07c2329d45fe911da09a40
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: af1ff90d17fd749bf34c2f5754d4570e5716aed2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070081"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352010"
 durationInMinutes: 25
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-e-commerce.md)]"

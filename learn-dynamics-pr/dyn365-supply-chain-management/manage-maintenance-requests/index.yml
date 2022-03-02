@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: a9b9eb4710cca15f2b1ba68f354a9b04f6089d2c
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 7c123945272003a5e68158fc547541bf2f4444cc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667211"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7336554"
 title: إدارة طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتعد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management أساسية في الحفاظ على تشغيل أصولك القيّمة بكفاءة، مع إدارة وقت التوقف عن العمل وحماية إنتاجيتك الإجمالية. وتحدد هذه الوحدة طلبات الصيانة، وكيفية إنشاء طلبات الصيانة، واستخدام قروض الأصول، وتعقب الأصول الواردة والصادرة، وإعداد التقارير.    \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام طلبات الصيانة وإنشاؤها.\n- راجع كيفية إنشاء أمر عمل من طلبات الصيانة.\n- تحديد قروض الأصول وكيفية استخدامها في إدارة الأصول.\n- تعرف على الأصول الواردة والصادرة.\n- راجع كيفية استخدام تقارير طلبات الصيانة لتحسين أداء مؤسستك.\n"

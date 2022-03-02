@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.5-exercise-perform-write-offs
-title: تمرين عملي - إجراء عمليات الشطب
+title: مختبر - العمل مع الائتمان والمجموعات
 labId: 72075
 metadata:
-  title: تمرين عملي - إجراء عمليات الشطب
-  description: تدرّب على إجراء عمليات الشطب في Dynamics 365 Finance.
-  ms.date: 05/29/2020
+  title: مختبر - العمل مع الائتمان والمجموعات
+  description: تدرب على العمل مع الائتمان والمجموعات في Dynamics 365 Finance.
+  ms.date: 12/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1d53b9e3f4b041272f3160018021bdd4a5207ad7
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 5d3ecd910847655ab32dfe482979e0669d80adff
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677816"
-durationInMinutes: 21
-content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/5-exercise-perform-write-offs.md)] \n[!include[](../includes/non-final-lab-end.md)]"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878600"
+durationInMinutes: 40
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/5-exercise-perform-write-offs.md)] \n[!include[](../includes/standalone-lab-end.md)]"

@@ -4,17 +4,18 @@ title: تجهيز رحلات العميل
 metadata:
   title: تجهيز رحلات العميل
   description: تجهيز رحلات العميل
-  ms.date: 08/17/2021
+  ms.date: 12/20/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 3359c4d9fa5e5dc22c6955bfef4685d5ee781628
-  ms.sourcegitcommit: 922d30c3471eb60c44c829d4ef9905e8e6fe1ebf
+  ms.openlocfilehash: 4076e51a4491473cec1dd48bdac7e8aba2356028
+  ms.sourcegitcommit: cb328bc84ba3aa30a4132fc88d056fe86a5c2076
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7438796"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7943321"
 azureSandbox: false
+labModal: false
 durationInMinutes: 6
 content: '[!include[](includes/6-prepare-customer-journeys.md)]'

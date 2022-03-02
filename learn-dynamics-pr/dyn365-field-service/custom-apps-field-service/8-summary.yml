@@ -3,17 +3,17 @@ uid: learn-dynamics.custom-apps-field-service.8-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص وحدة استخدام Power Platform مع Field Service
+  description: ملخص لإنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service
   ms.date: 11/08/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 92dd711d902941302faa46f6151bdfb9efbcc448
-  ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
+  ms.openlocfilehash: 7ef283a4979c8f1a6b45ef48bfe4444991ecf102
+  ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/10/2021
-  ms.locfileid: "7783528"
+  ms.lasthandoff: 12/02/2021
+  ms.locfileid: "7880180"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,24 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.18-exercise-create-main-account-category
-title: المعمل - إنشاء فئة حساب رئيسي في مخطط الحسابات
+title: تمرين عملي - إنشاء فئة حساب رئيسي في دليل الحسابات وبنية قاعدة متقدمة
 labId: 64190
 metadata:
-  title: المعمل - إنشاء فئة حساب رئيسي في مخطط الحسابات
-  description: تدرب على إنشاء فئة حساب رئيسي في مخطط الحسابات في Dynamics 365 Finance.
-  ms.date: 04/23/2020
+  title: تمرين عملي - إنشاء فئة حساب رئيسي في دليل الحسابات وبنية قاعدة متقدمة
+  description: تدرّب على إنشاء فئة حساب رئيسي في دليل الحسابات وبنية قاعدة متقدمة في Dynamics 365 Finance.
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e6f7361e504a5824e4701b27d64319116475431e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0fac7a780b57dca92c620b9c6b40127de03a7fbc
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327604"
-durationInMinutes: 12
-content: >-
-  [!include[](../includes/unit-banner.md)]
-
-  [!include[](../includes/accessing-labs.md)]
-
-  [!include[](includes/18-exercise-create-main-account-category.md)]
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867444"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/18-exercise-create-main-account-category.md)] \n[!include[](../includes/standalone-lab-end.md)]"

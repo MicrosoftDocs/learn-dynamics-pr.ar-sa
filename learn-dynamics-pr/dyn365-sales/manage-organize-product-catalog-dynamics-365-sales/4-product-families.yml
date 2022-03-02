@@ -4,18 +4,17 @@ title: عائلات المنتجات
 metadata:
   title: عائلات المنتجات
   description: عائلات المنتجات
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 6709d5ce0135b20ce8e9fdd2c4c92739f7aa56e2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 23f0d935be831e13021e088ada4ca2df72d34780
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436126"
-durationInMinutes: 10
+  ms.lasthandoff: 09/18/2021
+  ms.locfileid: "7501771"
+durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]
 

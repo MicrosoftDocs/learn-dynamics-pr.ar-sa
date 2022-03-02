@@ -3,20 +3,20 @@ uid: learn-dynamics.configuring-sales-insights
 metadata:
   title: تكوين Sales Insights
   description: تعرف على تكوين Sales Insights.
-  ms.date: 12/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/23/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e7f93f2efa3f813ddbd178663e4957100e93bfec
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 91be9ca311adca9f349bd308af3abe1652d706c4
+  ms.sourcegitcommit: 764b35d6328e063ffb8e1fbd09c7155ac5ae54c2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436163"
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "7562585"
 title: تكوين Sales Insights
-summary: "[!include[](../includes/module-banner.md)] \n\nيستخدم Dynamics 365 Sales Insights الذكاء الاصطناعي لمساعدتك في بناء علاقات جيدة مع العملاء والحفاظ عليها. في هذه الوحدة، ستتعرف على تكوين Sales Insights.  \n"
+summary: "[!include[](../includes/module-banner.md)] \nيستخدم Dynamics 365 Sales Insights الذكاء الاصطناعي لمساعدتك في بناء علاقات جيدة مع العملاء والحفاظ عليها. في هذه الوحدة، ستتعرف على تكوين Sales Insights.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء بطاقات معلومات باستخدام الاستوديو المساعد. \n- تكوين ذكاء الإنتاجية. \n- تكوين معلومات الاتصال. \n- تكوين النماذج التنبؤية.\n"
-prerequisites: لا شيء
+prerequisites: الفهم الأساسي لـ Dynamics 365 Sales
 iconUrl: /learn/achievements/configuring-sales-insights.svg
 levels:
 - intermediate

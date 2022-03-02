@@ -3,17 +3,16 @@ uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops
 metadata:
   title: إجراء اختبار قبول المستخدم في تطبيقات Finance and Operations
   description: يعد اختبار قبول المستخدم خطوة مهمة في إعداد البث المباشر. يمكنك استخدام RSAT للتنفيذ التلقائي لحالات الاختبار.
-  ms.date: 06/10/2020
+  ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 30e87704f6dcc0544a056a7286ab6bef2583080a
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 2f013686cc0c66e60a33638173a7406545c276fb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072197"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7341850"
 title: إجراء اختبار قبول المستخدم في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

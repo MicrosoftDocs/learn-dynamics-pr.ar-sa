@@ -1,21 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.3-creating-a-dynamics-365-queue
-title: إنشاء ‏‫‏‏قائمة انتظار‬ Microsoft Dynamics ‏365
+title: إنشاء ‏‫‏‏صف Microsoft Dynamics 365
 metadata:
-  title: إنشاء ‏‫‏‏قائمة انتظار‬ Microsoft Dynamics ‏365
-  description: إنشاء ‏‫‏‏قائمة انتظار‬ Microsoft Dynamics ‏365
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  title: إنشاء ‏‫‏‏صف Microsoft Dynamics 365
+  description: تعرف على كيفية إنشاء صف Microsoft Dynamics 365.
+  ms.date: 12/21/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 0d9a82afb5cd2e071e48f6672b839542a95da9a7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4a958afeb860c565981687df504742caa7d5ae9f
+  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356838"
-durationInMinutes: 8
+  ms.lasthandoff: 12/22/2021
+  ms.locfileid: "7945222"
+durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]
 

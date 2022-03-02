@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 6d54b40226e2b34a575d4020def4a0fa950e5e98
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 26f133d3d5507b29ae6c25130d6da5382e26282f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070254"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7357099"
 title: إدارة clienteling في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيُمكّن Clienteling شركاء المبيعات من أن يصبحوا مستشارين موثوقين وإقامة علاقات طويلة الأمد مع عملائهم. يساعد Dynamics 365 Customer Insights المؤسسات على جمع بيانات متباينة، سواء كان ذلك من مصادر الحركات أو المراقبة أو السلوك، للحصول على رؤية موحدة للعملاء، واشتقاق رؤى ذكية تدفع العمليات التجارية الأساسية.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على حل clienteling في Dynamics 365 Commerce.\n- تعرف على الغرض من البيع المساعد.\n- تعلم مزايا استخدام Dynamics 365 Customer Insights مع clienteling. \n"

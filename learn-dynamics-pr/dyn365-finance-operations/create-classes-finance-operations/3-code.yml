@@ -4,17 +4,16 @@ title: إضافة الرمز والأساليب لتلبية متطلبات ال
 metadata:
   title: إضافة الرمز والأساليب لتلبية متطلبات الأعمال
   description: تعرف على كيفية إضافة الرمز والأساليب لتلبية متطلبات الأعمال في تطبيقات Finance and Operations.
-  ms.date: 06/03/2021
+  ms.date: 11/09/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: ea3f6a5674057ee62abe9244ca54f9d726887a29
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: c151815ce075391a21f79ffc98fa352adb738cbe
+  ms.sourcegitcommit: a607ee21bfbd3152f9260f0500782eb33d50f53f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6257712"
+  ms.lasthandoff: 11/09/2021
+  ms.locfileid: "7778809"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

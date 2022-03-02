@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: b319859d9ca84acbd7b37f82117437c00bc7a9bf
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.custom: intro-internal
+  ms.openlocfilehash: 1813b1b83c6e44db36ed0bc54f3e47fcf46977be
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667910"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497016"
 title: بدء استخدام Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

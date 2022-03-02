@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 4ef5fbcf26a0d8516f732b2fe3492c12949461c7
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 3f70f787564946ea5723ffd48ad4c78e1c5e2b1b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072187"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329275"
 title: العمل باستخدام أدوات الأداء والمراقبة في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services (LCS) لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات Finance and Operations. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تشخيص مشكلات الأداء باستخدام محلل التتبع.\n- استكشف اختبار حمل العمل باستخدام Performance SDK.\n- راقب الأداء باستخدام لوحة معلومات رؤى SQL.\n- مراقبة مقاييس سلامة الخادم في LCS.\n"

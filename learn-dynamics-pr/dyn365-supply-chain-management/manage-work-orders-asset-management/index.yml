@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d225a8cfdccb42b4e43e9f79b50ea684c6e2a1f8
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: b7a730b4b0467b7f56c930cb58013c789716a3b4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667905"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7358507"
 title: إنشاء أوامر العمل في إدارة الأصول وإدارتها لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتُستخدم أوامر العمل لتعقب وإدارة مهام الصيانة المجدولة على الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء أوامر العمل يدوياً\n- إنشاء تنبؤات بالصيانة لأنواع مهام الصيانة\n- إنشاء أوامر شراء من أمر عمل\n- عملاء الفاتورة لأعمال الصيانة\n- تصميم العدادات يدوياً أو تلقائياً لتعقب عدد ساعات تشغيل أحد الأصول\n- إنشاء قوائم فحص الصيانة حسب أنواع مهام الصيانة\n- إنشاء تسجيلات وقت التوقف لإجراء الصيانة لتعقب فترات التوقف على الأصول\n- إضافة أخطاء لأوامر العمل للإبلاغ عن الأعطال وسبب الخطأ \n- إنشاء تقارير أوامر العمل ومهام صيانة أوامر العمل\n- حدد مجموعات أوامر العمل لتجميع أوامر العمل المشتركة\n"

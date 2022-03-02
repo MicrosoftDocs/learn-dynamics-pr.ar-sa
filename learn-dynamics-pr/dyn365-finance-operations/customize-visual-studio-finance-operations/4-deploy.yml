@@ -4,17 +4,16 @@ title: إنشاء حزم نشر
 metadata:
   title: إنشاء حزم نشر
   description: تعرّف على طريقة إنشاء حزم نشر من Visual Studio.
-  ms.date: 07/12/2019
+  ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: af0fc2eb79be9ad5a6b8b32d8b5a3fcfaef8e1c4
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b9eba0de9c06ffb6fcdb3c741cf5e1b7e833e3a9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071406"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361543"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

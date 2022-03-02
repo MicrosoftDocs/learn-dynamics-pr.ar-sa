@@ -3,16 +3,16 @@ uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops
 metadata:
   title: تكوين Dynamics 365 Finance للقطاع العام
   description: يمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور.
-  ms.date: 05/31/2021
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 39b8f23f43920095237d9730cf72a3b124309088
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ad1688ea6c80e1328df4f5270f79f3dccd5b8ee5
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357901"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867436"
 title: تكوين Dynamics 365 Finance للقطاع العام
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد الصناديق لللقطاع العام. \n- إعداد الأبعاد المشتقة.\n- إعداد تدرجات هرمية مالية مشتقة في القطاع العام.\n- إعداد وظيفة إدخالات دفتر الأستاذ المتقدمة للقطاع العام. \n- تكوين أكواد الفوترة للفواتير ذات النص الحر\n"
@@ -38,8 +38,6 @@ units:
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.4-setup-derived-financial-hierarchies
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.5-configure-billing-codes-free-text-inv
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.6-exercise-setup-funds
-- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.7-exercise-setup-derived-fin-hierarchy
-- learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.8-exercise-configure-billing-codes
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.9-configure-public-sector-quiz
 - learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops.10-configure-public-sector-summary
 badge:

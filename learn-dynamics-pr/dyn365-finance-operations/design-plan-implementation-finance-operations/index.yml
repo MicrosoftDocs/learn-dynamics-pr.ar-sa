@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: b81f72463f39b895311aab4cd796e471618c947d
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: c657de74a125a02024da20da247b58d15c6be218
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072226"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7344432"
 title: تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
 summary: >
   [!include[](../includes/module-banner.md)]

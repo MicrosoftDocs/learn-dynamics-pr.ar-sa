@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: b216e29f58d4dcf16c60c57590a2b228f1f78a17
-  ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+  ms.openlocfilehash: a30de05691abd7edb86717ff60b53cc60071afc4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2021
-  ms.locfileid: "6070519"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7348069"
 title: إدارة مخزون المتجر في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيوفر Dynamics 365 Commerce وظائف لإدارة مخزون المتجر، بما في ذلك إمكانات تجديد مخزون المتجر، وعمليات مخزون المخزن الواردة والصادرة، وجرد مخزون المتجر، وإمكانات البحث في مخزون المتجر.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المفاهيم الأساسية لإدارة مخزون المتجر في Dynamics 365 Commerce.\n- تعرف على كيفية إدارة التزويد الأساسي لمخزون المتجر باستخدام مخزون من مستودع آخر أو مخزون آخر صادر من أمر شراء.\n- تعرف على كيفية استلام المخزون في المتجر باستخدام العملية الواردة.\n- تعرف على كيفية شحن أوامر التحويل الصادرة في المتجر باستخدام العملية الصادرة.\n- تعلم كيفية إجراء عمليات جرد المخزون في تطبيق نقطة البيع (POS).\n- تعرف على كيفية إجراء بحث في المخزون من نقطة البيع.\n"

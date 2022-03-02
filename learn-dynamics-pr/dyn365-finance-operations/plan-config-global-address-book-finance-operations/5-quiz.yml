@@ -3,17 +3,16 @@ uid: learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.
 metadata:
   title: اختبر معلوماتك.
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 02/28/2019
+  ms.date: 01/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: bd6636640038c0c73b8976327c1fa3d747777e80
-  ms.sourcegitcommit: 399a8fbdc04e0e9851dc1d202615f3279376202c
+  ms.openlocfilehash: c7a2b2e91304c730e8cc820680ba0c4086c4cab8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/11/2020
-  ms.locfileid: "6072057"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329251"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

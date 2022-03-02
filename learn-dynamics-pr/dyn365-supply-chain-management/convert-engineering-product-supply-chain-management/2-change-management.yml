@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-finance-operations
-  ms.openlocfilehash: 26c1bfab819856fca1490ba9fc1a6c6b4b9137fe
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 7a282261d5938ea9f542424e7cd588830dc1902d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667440"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366300"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-change-management.md)]"
