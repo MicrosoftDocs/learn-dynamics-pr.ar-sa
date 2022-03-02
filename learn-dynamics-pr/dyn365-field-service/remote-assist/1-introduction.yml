@@ -4,15 +4,15 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة عن استخدام Remote Assist وإجراء مكالمات بالواقع المختلط
-  ms.date: 6/1/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/20/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 79e996df79bd63eac5ae7d1f0cbc599c6b4fb10f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a05e0cea1dc36a56902c5780053d5605c2ce8605
+  ms.sourcegitcommit: a2eaa51541feec74146566f0e95416112902a685
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434137"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "7507693"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

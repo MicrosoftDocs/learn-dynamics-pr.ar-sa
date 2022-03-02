@@ -7,28 +7,28 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1fcf082ace71042c08d539f85210da3cfe82ff33
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3b41b3252a97f1ad61568fd787d14de227096856
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352743"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944582"
 title: اختبر معلوماتك
 durationInMinutes: 16
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
-  - content: ما الذي يوفر منهجاً مفصلاً يعرض كل مرحلة من مراحل المشروع، وتوفر أحداث رئيسية عالية المستوى يتم استخدامها لتتبع التسليمات وأهداف المشروع؟
+  - content: ما الذي يوفر منهجية محددة توضح كل مرحلة من مراحل مشروعك، ويوفر معالم رئيسية عالية المستوى تُستخدم لتتبع النتائج وأهداف المشروع؟
     choices:
-    - content: المستودع المركزي لـ LCS
+    - content: المستودع المركزي لـ Lifecycle Services
       isCorrect: false
-      explanation: لا يوجد شيء في LCS يسمى المستودع المركزي. ومع ذلك، LCS هو المستودع المركزي لمعظم الأدوات لتحضير مشروع ونشره لتطبيقات Finance and Operations أو Dynamics 365 Commerce.
-    - content: مساحة عمل المشروع LCS
+      explanation: لا يوجد شيء في Lifecycle Services يسمى المستودع المركزي. ومع ذلك، فإن Lifecycle Services هي المستودع المركزي لمعظم الأدوات لإعداد ونشر مشروع لتطبيقات Finance and Operations أو Dynamics 365 Commerce.
+    - content: مساحة عمل مشروع Lifecycle Services
       isCorrect: true
-      explanation: توفر مساحة عمل المشروع LCS منهجاً مفصلاً يعرض كل مرحلة من مراحل المشروع، وتوفر أحداث رئيسية عالية المستوى يتم استخدامها لتتبع التسليمات وأهداف المشروع.
-    - content: عنصر التحكم الموحد
+      explanation: توفر مساحة عمل Lifecycle Services Project منهجية محددة توضح كل مرحلة من مراحل مشروعك، وتوفر مراحل رئيسية عالية المستوى يتم استخدامها لتعقب التسليمات وأهداف المشروع.
+    - content: تحكم موحد
       isCorrect: false
-      explanation: لا يوجد شيء في عنصر التحكم الموحد المسمى LCS. ومع ذلك، يقدم LCS التحكم الموحد عبر البيئات المنشورة المستندة إلى السحابة.
+      explanation: لا يوجد شيء في Lifecycle Services يسمى التحكم الموحد. ومع ذلك، توفر Lifecycle Services تحكماً موحداً في البيئات السحابية المنتشرة.
   - content: إن تحليل ومراقبة سلامة البيئة الخاصة بك باستخدام المقاييس مثل المكون، والبيئة، والمشروع، والمؤسسة يشار إليها على أنها الشروط التالية؟
     choices:
     - content: مراقبة السلامة
@@ -43,21 +43,21 @@ quiz:
     - content: التحليل البيئي
       isCorrect: false
       explanation: التحليل البيئي ليس مصطلحاً مستخدماً في تطبيقات Finance and Operations.
-  - content: ما الخطوة الأولى الموصى بها قبل الاتصال بمشروع LCS لاسترداد تسجيلات المهمة؟
+  - content: ما هي الخطوة الأولى الموصى بها قبل الاتصال بمشروع Lifecycle Services لاسترداد تسجيلات المهام؟
     choices:
-    - content: 'تحديد مشروع LCS المطلوب الاتصال به:'
+    - content: حدد مشروع Lifecycle Services للاتصال به.
       isCorrect: false
-      explanation: نوصي أولا المستخدمين بالتأكد من وجود مكتبة BPM في LCS قبل تحديد مشروع LCS للاتصال به.
+      explanation: نوصي بأن يتأكد المستخدمون أولاً من وجود مكتبة BPM في Lifecycle Services قبل تحديد مشروع Lifecycle Services للاتصال به.
     - content: قم بتعيين ترتيب عرض مكتبات BPM.
       isCorrect: false
-      explanation: يعد تعيين ترتيب عرض مكتبات BPM الخطوة الأخيرة في الاتصال بـ LCS. نوصي المستخدمين أولاً بالتأكد من وجود مكتبة BPM في LCS.
-    - content: تأكد من وجود مكتبة BPM في LCS.
+      explanation: يعد تعيين ترتيب عرض مكتبات BPM هو الخطوة الأخيرة في الاتصال بخدمات Lifecycle Services. نوصي بأن يتأكد المستخدمون أولاً من وجود مكتبة BPM في Lifecycle Services.
+    - content: تأكد من وجود مكتبة BPM في Lifecycle Services.
       isCorrect: true
-      explanation: قبل الاتصال بمشروع LCS، فمن المهم التأكد أولاً من وجود مكتبة BPM في LCS.
+      explanation: قبل الاتصال بمشروع Lifecycle Services، من المهم التأكد أولاً من وجود مكتبة BPM في Lifecycle Services.
     - content: حدد مكتبات BPM لاسترداد تسجيلات المهام منها.
       isCorrect: false
-      explanation: تحديد مكتبات BPM لاسترداد تسجيلات المهام من هو الخطوة الثانية إلى الخطوة الأخيرة في الاتصال بـ LCS. نوصي المستخدمين أولاً بالتأكد من وجود مكتبة BPM في LCS.
-  - content: ما هو الخيار الذي يمكن أن يقوم به مسجل المهام تلقائياً بتشغيل خطوات تسجيل موجود باستخدام الصفحات والقيم التي تم تسجيلها في الأصل؟
+      explanation: يعد تحديد مكتبات BPM لاسترداد تسجيلات المهام منها الخطوة الثانية إلى الأخيرة في الاتصال بخدمات Lifecycle Services. نوصي بأن يتأكد المستخدمون أولاً من وجود مكتبة BPM في Lifecycle Services.
+  - content: أي خيار في مسجل المهام يمكنه تشغيل خطوات تسجيل حالي تلقائياً باستخدام الصفحات والقيم التي تم تسجيلها في الأصل؟
     choices:
     - content: إنشاء تسجيل جديد
       isCorrect: false

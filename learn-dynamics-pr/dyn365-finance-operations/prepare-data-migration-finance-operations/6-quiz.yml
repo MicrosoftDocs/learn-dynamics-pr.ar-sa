@@ -3,19 +3,18 @@ uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.6-prepare
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته
-  ms.date: 03/08/2019
+  ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: d921ff098021a8f05d0b4bf253936d2c7dd94113
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 526713f91d0942cd563f6d48c6edab157c2bba79
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071515"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7346117"
 title: اختبر معلوماتك
-durationInMinutes: 8
+durationInMinutes: 10
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
@@ -30,7 +29,7 @@ quiz:
     - content: OData
       isCorrect: true
       explanation: تتمثل إحدى مزايا OData في أنها تتيح التكامل الواسع عبر المنتجات.
-  - content: أي من الخيارات التالية يتيح تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وأي تطبيق أو خدمة تابعة لجهة خارجية؟
+  - content: أي من الخيارات التالية يتيح تبادل المستندات أو الملفات بين تطبيقات Finance and Operations وأي تطبيق خارجي أو خدمة خارجية؟
     choices:
     - content: تكامل Excel
       isCorrect: false
@@ -52,7 +51,7 @@ quiz:
     - content: OData
       isCorrect: true
       explanation: يتفاعل تطبيق Excel Data Connector مع مصنفات Excel وخدمات OData التي تم إنشاؤها لكيانات البيانات المكشوفة بشكل عام.
-  - content: يعمل لدى شركة طاقة عمال ميدانيون يقومون بجدولة مهام تركيب السخانات. تستخدم هذه الشركة تطبيقات Finance and Operations لمكتب الشئون الإدارية وبرامج الجهات الخارجية كخدمة (SaaS) لجدولة المواعيد. عندما يقوم العاملون الميدانيون بجدولة المواعيد، فيجب عليهم النظر في مدى توفر المخزون للتأكد من توفر أجزاء التركيب الخاصة بالمهمة. يلزم توفر البيانات في الوقت الحقيقي. الحد الأقصى لحجم البيانات هو 1،000 سجل لكل ساعة والتكرار مؤقت. أي من أنماط التكامل التالية يجب أن تستخدمه؟
+  - content: يعمل لدى شركة طاقة عمال ميدانيون يقومون بجدولة مهام تركيب السخانات. تستخدم هذه الشركة تطبيقات Finance and Operations لمكتب الشئون الإدارية وبرامج الأخرى كخدمة (SaaS) لجدولة المواعيد. عندما يقوم العاملون الميدانيون بجدولة المواعيد، فيجب عليهم النظر في مدى توفر المخزون للتأكد من توفر أجزاء التركيب الخاصة بالمهمة. يلزم توفر البيانات في الوقت الحقيقي. الحد الأقصى لحجم البيانات هو 1،000 سجل لكل ساعة والتكرار مؤقت. أي من أنماط التكامل التالية يجب أن تستخدمه؟
     choices:
     - content: خدمات الويب الخارجية
       isCorrect: false
@@ -63,3 +62,14 @@ quiz:
     - content: خدمة مخصصة
       isCorrect: true
       explanation: في تطبيقات Finance and Operations، اطلب من المطور إنشاء خدمة مخصصة لحساب المخزون الفعلي الفعلي لصنف محدد. في تطبيق الجدولة، قم بإجراء استدعاء في الوقت الحقيقي لنقطة نهاية خدمة مخصصة، من خلال SOAP أو REST، لاسترداد معلومات المخزون للصنف المحدد.
+  - content: تحتاج إلى تمكين تبادل المستندات بين تطبيقات Finance and Operations وتطبيق خارجي في نهاية كل يوم. أي مما يلي تريد تنفيذه؟
+    choices:
+    - content: تطبيق موصل بيانات Excel
+      isCorrect: false
+      explanation: يتيح لك تطبيق موصل بيانات Excel العمل مع البيانات الموجودة داخل Dynamics 365 ونشرها مرة أخرى إلى التطبيق.
+    - content: التكامل المتكرر
+      isCorrect: true
+      explanation: يمكنك إعداد تكامل متكرر لهذا السيناريو.
+    - content: التكامل المتزامن
+      isCorrect: false
+      explanation: التكامل المتزامن يكون في الوقت الحقيقي، ويطلب هذا السيناريو تبادل البيانات مرة واحدة في اليوم.
