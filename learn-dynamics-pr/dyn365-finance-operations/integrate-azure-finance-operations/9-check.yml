@@ -8,13 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d92d3e3d0b0358a9c01a548a5d8f3e5e5ea40a83
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: c2baa64b305c52e7c883f6e05a855e62c2222db1
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071672"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7346847"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -41,7 +40,7 @@ quiz:
     - content: انقل الملفات التي تم تحميلها من خادم SFTP أو FTP إلى Azure Storage.
       isCorrect: false
       explanation: توفر Logic Apps موصلات إلى SFTP وFTP وAzure Storage.
-    - content: يمكنك مراقبة المنشورات على Twitter الخاصة بموضوع معين، وتحليل ‏‫التوجهات، وإنشاء تنبيهات أو مهام للأصناف التي تحتاج إلى المراجعة.
+    - content: يمكنك مراقبة التغريدات الخاصة بموضوع معين، وتحليل ‏‫التوجهات، وإنشاء تنبيهات أو مهام للأصناف التي تحتاج إلى المراجعة.
       isCorrect: false
       explanation: تتوفر الموصلات لـ Twitter، ويتم إرسال تنبيات بالبريد الكتروني عبر Outlook، وتحليل النص، والعديد أنواع من المنطق.
     - content: قم بتحديث الجداول في Power BI عند تغيير البيانات في تطبيقات Finance and Operations.

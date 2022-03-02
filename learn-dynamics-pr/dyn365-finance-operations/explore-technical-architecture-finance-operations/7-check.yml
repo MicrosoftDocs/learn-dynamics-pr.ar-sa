@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: a61e3db6cd920b255965c9416c3a163cbdba5d7c
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 9b8da3e1553b7778d7aa8c69f21097f5b05b0565
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071786"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7325505"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:

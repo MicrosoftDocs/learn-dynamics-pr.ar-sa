@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-process-expense-reports.14-check
-title: تحقق من مستوى معرفتك
+title: اختبر معلوماتك
 metadata:
-  title: تحقق من مستوى معرفتك
+  title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 11/26/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: cf047fe147311b1fcf04504bb8a39ae95a832ef7
-  ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+  ms.openlocfilehash: 7a3ef2ae463c7ba0fe2ab2fc6c8ff65bb86370bb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "6072804"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7336672"
 durationInMinutes: 8
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

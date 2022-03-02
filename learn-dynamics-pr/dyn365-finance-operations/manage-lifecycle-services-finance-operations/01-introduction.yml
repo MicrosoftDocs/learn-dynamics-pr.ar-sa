@@ -4,17 +4,16 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: تستعرض هذه الوحدة الوحدة النمطية لإدارة عمليات تنفيذ تطبيقات Finance and Operations باستخدام Lifecycle Services.
-  ms.date: 07/11/2019
+  ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3541632c2e489db4062e4306de9ea84fbd872424
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 7ee29752f15a906e7cd31ccbdb9329289eb6cf2e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071846"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7352737"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

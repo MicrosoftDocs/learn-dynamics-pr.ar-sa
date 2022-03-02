@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-finance-operations
-  ms.openlocfilehash: 4872a0cda70a2b36a8823d5a8c1d2d021a3f6e6f
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 5cd3cf5dd2ac8cfe301feb3f3b4ff6f20b049b84
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667239"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7353308"
 title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء منتج هندسي جديد، وتضمين قائمة مكونات الصنف والمسارات والتعامل مع التغييرات التي تم إجراؤها على المنتج في Microsoft Dynamics 365 Supply Chain Management.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء منتج هندسي.\n- إصدار المنتج للكيانات القانونية الأخرى.\n- مراجعة إصدار منتج في كيان قانوني جاهز للعمل وقبوله.\n- صيانة دورة حياة المنتج.\n- قم بإجراء فحوصات الجاهزية على المنتج.\n"

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: ac1ff2c5197854783f4a7632a386b1fd138fb604
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 29090613a8bfaa1ab3d34e585bd58aa92878b5ba
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677747"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335074"
 title: تكوين الضرائب في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيجب على جميع الشركات جمع ودفع الضرائب لمختلف هيئات الضرائب. الدول أو المناطق المختلفة لديها قواعد ومعدلات مختلفة. في بعض البلدان أو المناطق، تختلف القواعد بين الولايات أو المقاطعات أو المدن. لذلك، تكون وحدة الضريبة Dynamics 365 Finance شاملة. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على إمكانات إعداد تقارير الضرائب الإقليمية. \n- قم بتكوين مكونات الضرائب.\n"

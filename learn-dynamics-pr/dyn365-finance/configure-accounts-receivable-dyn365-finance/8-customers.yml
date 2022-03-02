@@ -4,16 +4,16 @@ title: إنشاء العملاء والمحافظة عليهم
 metadata:
   title: إنشاء العملاء والمحافظة عليهم
   description: توضح هذه الوحدة كيفية إنشاء العملاء والمحافظة عليهم في Dynamics 365 Finance.
-  ms.date: 04/23/2020
+  ms.date: 12/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dc464dd839c2be2747c65ebf59881bbea96d7911
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6d497621a2a20c31a8a04be2c80ed78095bf3814
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360440"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878449"
 durationInMinutes: 9
 content: >-
   [!include[](../includes/unit-banner.md)]

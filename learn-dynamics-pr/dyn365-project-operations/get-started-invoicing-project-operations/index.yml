@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 54f0e3617c02f6bc7424e75ba4de35787490789f
-  ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+  ms.openlocfilehash: d1f76df5994fe359051981287a1430ec05ec66f3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/11/2021
-  ms.locfileid: "6072923"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329102"
 title: الشروع في العمل مع الفوترة في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيوفر Microsoft Dynamics 365 Project Operations بالنسبة للسيناريوهات المستندة إلى الموارد/غير المخزنة، إمكانات شاملة مصممة لتناسب احتياجات مديري المشاريع وكاتب الحسابات المدينة/محاسبين المشاريع. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على كيفية إدارة تراكم الفوترة. \n- تعلم كيفية إنشاء الفواتير الأولية.\n- اكتشاف إمكانات الفوترة الموجهة للعملاء.\n- التدرب على تصحيح الفواتير.\n"

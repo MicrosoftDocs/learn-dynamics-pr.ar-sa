@@ -4,17 +4,18 @@ title: مقدمة إلى Dynamics 365 Sales Insights
 metadata:
   title: مقدمة إلى Dynamics 365 Sales Insights
   description: مقدمة إلى Dynamics 365 Sales Insights
-  ms.date: 08/26/2021
+  ms.date: 01/06/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 13a21526d6a1b65d3a3036628128960fb0e5c909
-  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.openlocfilehash: bd9236d90f0ca7f3d2914a33ec2d6cb6d2bbbb93
+  ms.sourcegitcommit: f16a34d76471f8731b29bf906040212de09a241c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438842"
+  ms.lasthandoff: 01/10/2022
+  ms.locfileid: "7953798"
 azureSandbox: false
+labModal: false
 durationInMinutes: 12
 content: '[!include[](includes/3-introduction-dynamics-365-sales-insights.md)]'

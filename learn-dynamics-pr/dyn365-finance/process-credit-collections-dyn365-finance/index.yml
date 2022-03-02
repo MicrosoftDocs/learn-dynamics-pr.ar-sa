@@ -3,17 +3,16 @@ uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops
 metadata:
   title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
   description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد
-  ms.date: 05/29/2020
+  ms.date: 12/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3c169a42f3be2d17e927a2dc2cc078f2a114ba91
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: 76f4dd0dcb4a017571b5e5ff49083435415fedab
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677807"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878377"
 title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد  \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- كيفية استخدام كشوف حسابات العملاء.\n- كيفية معالجة التحصيلات. \n- كيفية استخدام ميزة إدارة الائتمان.\n"
@@ -42,9 +41,6 @@ units:
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.4-manage-customer-credit-collections
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.4-2-credit-management
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.5-exercise-perform-write-offs
-- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.6-exercise-process-collection-letter
-- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.7-exercise-generate-accounts-r-aging
-- learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.7-2-exercise-4
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.8-process-credit-collections-quiz
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.9-process-credit-collections-summary
 badge:

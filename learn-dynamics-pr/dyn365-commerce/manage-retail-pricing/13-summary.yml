@@ -4,16 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص إدارة محاكي تسعير التجزئة في وحدة Dynamics 365 Commerce النمطية
-  ms.date: 07/15/2020
+  ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 02a1e1f997cf48776e7a8f5f53b9f3c101bf22b2
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: d9499a34dbd25476f52cd6211e5c0c123720a8b6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070204"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366058"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-summary.md)]"

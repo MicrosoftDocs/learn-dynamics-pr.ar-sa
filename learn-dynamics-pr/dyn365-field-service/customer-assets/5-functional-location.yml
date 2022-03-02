@@ -3,17 +3,17 @@ uid: learn-dynamics.customer-assets.5-functional-location
 title: استخدام مواقع العمل
 metadata:
   title: استخدام مواقع العمل
-  description: تعرّف على كيفية استخدام مواقع العمل في Field Service
+  description: تعرّف على كيفية استخدام مواقع العمل في Field Service.
   ms.date: 11/04/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2395f76527786eefe7cd86223cbd87c079fb5fe2
-  ms.sourcegitcommit: 33507250798bc28b3fbff11538f31b26a0dc45f2
+  ms.openlocfilehash: f83d70f232461ddcd961fbce2b3684047d370cbf
+  ms.sourcegitcommit: 39efc79c982ce78c1f50911723885e694f5fdde5
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/09/2021
-  ms.locfileid: "7776306"
+  ms.lasthandoff: 11/19/2021
+  ms.locfileid: "7826421"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

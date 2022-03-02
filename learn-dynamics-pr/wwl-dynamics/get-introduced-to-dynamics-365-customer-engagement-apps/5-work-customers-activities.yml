@@ -4,17 +4,18 @@ title: العمل مع العملاء والأنشطة
 metadata:
   title: العمل مع العملاء والأنشطة
   description: العمل مع العملاء والأنشطة
-  ms.date: 07/22/2021
+  ms.date: 12/21/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: fbc2c466554508ac09b2fb2fdff0f920dd5f8b44
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 3ab43527c784bfcabf872a6c422d5358172f5549
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362285"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944606"
 azureSandbox: false
+labModal: false
 durationInMinutes: 14
 content: '[!include[](includes/5-work-customers-activities.md)]'

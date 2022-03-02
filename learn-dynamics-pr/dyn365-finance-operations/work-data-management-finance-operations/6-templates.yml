@@ -4,18 +4,17 @@ title: استخدام القوالب في إدارة البيانات
 metadata:
   title: استخدام القوالب في إدارة البيانات
   description: تصف هذه الوحدة كيفية استخدام القوالب في إدارة البيانات في تطبيقات Finance and Operations.
-  ms.date: 03/11/2019
+  ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/configuration-data-templates?toc=/fin-and-ops/toc.json
-  ms.openlocfilehash: 1515a11adbde7ad452acd8b302a9e10e7e815eab
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 602ee494803a5fca70200c1aca7fc099b1d70c9f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071627"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7362604"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1f60b7a1babbdd4e1080cf48f4e503fc8918cfc3
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 8d493a6a6b085307f8648125a2d360b52b631150
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072217"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7354653"
 title: تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nبصفتك مطوراً، فستكون بشكل عام جزءاً من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات Finance and Operations وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد واجهات برمجة تطبيقات الويب المتكاملة.\n- استكشف سيناريوهات تكامل البيانات المتاحة.\n- حدد الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة.\n"

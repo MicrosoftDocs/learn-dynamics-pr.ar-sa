@@ -4,16 +4,15 @@ title: Lifecycle Services
 metadata:
   title: Lifecycle Services
   description: تعرف على Microsoft Dynamics 365 Lifecycle Services وكيفية استخدامها في عملية الترقية.
-  ms.date: 02/05/2021
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 4b4a17664e67f83d069a4171a2b8e7d369db0495
-  ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+  ms.openlocfilehash: ad7b12a9000b56df05deef9eca721abcef1588ae
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/13/2021
-  ms.locfileid: "6072261"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7341874"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-lifecycle-services.md)]"

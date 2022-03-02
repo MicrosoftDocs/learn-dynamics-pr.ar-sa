@@ -4,17 +4,16 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: تعرف على كيفية إجراء اختبارات قبول المستخدم (UAT) لتطبيقات Finance and Operations.
-  ms.date: 04/05/2019
+  ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 051d6d91e0717d34e5669ab9c70a9fd531010ae9
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 848d296812843adb6ad255b5a9f8357d0808cb22
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071470"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328189"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

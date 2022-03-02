@@ -3,19 +3,19 @@ uid: learn-dynamics.get-started-customer-service-insights
 metadata:
   title: الشروع في العمل مع Customer Service Insights
   description: تعرَّف على مدى تأثير Customer Service Insights في مؤسستك.
-  ms.date: 07/31/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/22/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3ad2fbb45caef09120956218269d56b054700031
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7c979c037afd533a2368f1edefd7ba2e821555ec
+  ms.sourcegitcommit: ba649a4e713b493bd6617a8421bfbcc31bc25862
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358038"
+  ms.lasthandoff: 11/13/2021
+  ms.locfileid: "7800276"
 title: الشروع في العمل مع Customer Service Insights
 summary: "[!include[](../includes/module-banner.md)] \nتستخدم Dynamics 365 Customer Service Insights Microsoftالذكاء الاصطناعي لتجميع حالاتك تلقائياً في موضوعات باستخدام فهم اللغة الطبيعية، مثل تجميع حالات المنتجات المعيبة في موضوع واحد. تتيح لك الموضوعات إمكانية اكتشاف الاتجاهات الحالية والناشئة والتكيف معها، بالإضافة إلى تحديد مجالات المشاكل وتحسين التوجه تجاه العلامة التجارية. من خلال تحديد المشكلات وإصلاحها قبل أن تؤثر على العملاء، يمكنك تقديم تجارب أفضل لخدمة العملاء. ستدرس هذه الوحدة مدى تأثير \"Customer Service Insights\" في مؤسستك.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرّف على Customer Service Insights وما يمكن أن تقدمه لمؤسسة ما.\n- دراسة عملية ربط Customer Service Insights ببيانات الدعم الخاصة بمؤسستك وكيفية استخدام مساحات العمل للتعامل مع بيئات الدعم المختلفة.\n- مراجعة الواجهات المرئية المختلفة، مثل كيفية استخدام لوحات المعلومات والدردشات لاستكشاف إحصاءات خدمة العملاء بعمق.\n- اكتشاف لوحات المعلومات المختلفة والخيارات المتوفرة لعرض عامل التصفية والبيانات.\n- التعرّف على ميزة الموضوعات في Customer Service Insights، واكتشاف طريقة إنشاء الموضوعات، ومراجعة خيارات التكوين المختلفة المتوفرة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرّف على Customer Service Insights وما يمكن أن تقدمه لمؤسسة ما.\n- استعرض كيفية تكوين Customer Service Insights لمؤسستك.\n- تعرف على كيفية تثبيت تطبيق Power BI لـ Customer Service Insights لتحقيق رؤى ثاقبة.\n- اكتشف لوحات المعلومات المختلفة المتوفرة.\n"
 prerequisites: المعرفة بـ Dynamics 365 Customer Service
 iconUrl: /learn/achievements/get-started-customer-service-insights.svg
 levels:
@@ -25,13 +25,13 @@ roles:
 - functional-consultant
 products:
 - dynamics-365
-- dynamics-cust-svc-insights
+- dynamics-customer-service
 units:
 - learn-dynamics.get-started-customer-service-insights.1-introduction
-- learn-dynamics.get-started-customer-service-insights.2-connect-data
-- learn-dynamics.get-started-customer-service-insights.3-discover-insights
+- learn-dynamics.get-started-customer-service-insights.2-configure
+- learn-dynamics.get-started-customer-service-insights.3-power-bi
 - learn-dynamics.get-started-customer-service-insights.4-dashboard-reference
-- learn-dynamics.get-started-customer-service-insights.5-work-topics
+- learn-dynamics.get-started-customer-service-insights.5-knowledge-analytics
 - learn-dynamics.get-started-customer-service-insights.6-check
 - learn-dynamics.get-started-customer-service-insights.7-summary
 badge:

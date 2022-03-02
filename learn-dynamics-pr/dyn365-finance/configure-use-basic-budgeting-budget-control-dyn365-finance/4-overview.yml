@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/budget-control-overview-configuration
-  ms.openlocfilehash: 36007c75b7b49f2e71a1eb2b4b74ece6d4bad175
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: c0cc8250f0802fca0c4bbbc010616a5e61ebb7c7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677132"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7332009"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

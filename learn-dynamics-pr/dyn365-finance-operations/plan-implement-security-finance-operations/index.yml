@@ -3,17 +3,16 @@ uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops
 metadata:
   title: تخطيط الأمان في تطبيقات Finance and Operations وتنفيذه
   description: إذا كنت تفهم بنية الأمان لتطبيقات Finance and Operations، فيمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات Finance and Operations في الحفاظ على أمان بياناتك الحساسة، ويركز المستخدمون على أدوارهم.
-  ms.date: 02/18/2019
+  ms.date: 12/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 6690975533dd31ef33cfa813389e84e7fc80752e
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: d063f906cee2420234bf6a31276dc3956003e255
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072220"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878474"
 title: تخطيط الأمان في تطبيقات Finance and Operations وتنفيذه
 summary: "[!include[](../includes/module-banner.md)]\n\nإذا كنت تفهم بنية الأمان لتطبيقات Finance and Operations، فيمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات Finance and Operations في الحفاظ على أمان بياناتك الحساسة، ويركز المستخدمون على أدوارهم. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم بنية الأمان لتطبيقات Finance and Operations\n- إدارة المستخدمين\n- إدارة الأمان\n- تطبيق الفصل بين المهام\n- تشغيل تقارير الأمان\n"
@@ -36,12 +35,9 @@ units:
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.3-manage-users-and-security
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.4-set-up-and-apply-segregation-of-duties
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-run-security-reports
+- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-2-extensible-data-security-policy
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.7-exercise-import-a-user-and-assign-security-role
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.6-exercise-create-a-new-user-and-assign-a-security-role
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.8-exercise-import-users-in-bulk-as-a-batch-job
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.9-exercise-assign-users-to-security-roles-dynamically
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.10-exercise-exclude-users-from-a-role-assignment
-- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.11-exercise-set-up-segregation-of-duties
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.12-plan-and-implement-security-in-f-and-o-knowledge-check
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.13-plan-and-implement-security-in-f-and-o-summary
 badge:

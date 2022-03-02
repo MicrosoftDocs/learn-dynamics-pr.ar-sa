@@ -3,16 +3,16 @@ uid: learn-dynamics.manufacture-wms-dyn365-fo
 metadata:
   title: استخدام إدارة المستودعات للتصنيع في Dynamics 365 Supply Chain Management
   description: هل ترغب في الحصول على أفضل ما في إدارة المستودعات لدعم أنشطة التصنيع الخاصة بك؟ في هذه الوحدة، يمكنك التعرف على ميزات إدارة المستودعات الخاصة بالتصنيع في Dynamics 365 Supply Chain Management.
-  ms.date: 06/09/2020
+  ms.date: 10/28/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b0ba9f033a0a0c4b0bd8d6d78ac006b1ca0d6ddc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 79d2be1e80e94fc7ece341034596c55d2e4ea371
+  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346677"
+  ms.lasthandoff: 10/28/2021
+  ms.locfileid: "7714742"
 title: استخدام إدارة المستودعات للتصنيع في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nهل ترغب في الحصول على أفضل ما في إدارة المستودعات لدعم أنشطة التصنيع الخاصة بك؟ في هذه الوحدة، يمكنك التعرف على ميزات إدارة المستودعات الخاصة بالتصنيع في Dynamics 365 Supply Chain Management. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- مواقع إدخالات وإخراجات الإنتاج.\n- التجهيز وانتقاء الأوامر.\n- إصدار بنود قائمة مكونات الصنف والمعادلة إلى المستودع.\n- توزيع البضائع.\n- إمكانية رؤية استثناءات المواد.\n"
@@ -36,8 +36,6 @@ units:
 - learn-dynamics.manufacture-wms-dyn365-fo.05-1-planned-cross-docking
 - learn-dynamics.manufacture-wms-dyn365-fo.06-visibility-exceptions
 - learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-input-location
-- learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-2
-- learn-dynamics.manufacture-wms-dyn365-fo.07-exercise-3
 - learn-dynamics.manufacture-wms-dyn365-fo.08-manufacture-wms-quiz
 - learn-dynamics.manufacture-wms-dyn365-fo.09-manufacture-wms-summary
 badge:

@@ -3,17 +3,17 @@ uid: learn-dynamics.get-started-asset-management
 metadata:
   title: بدء استخدام إدارة الأصول في Dynamics 365 Supply Chain Management
   description: تُعد إدارة الأصول أحد الوحدات المتقدمة لإدارة الأصول ومهام الصيانة في Dynamics 365 Supply Chain Management.
-  ms.date: 12/15/2020
+  ms.date: 06/16/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: fc19c8dd7f7a6b1aea462925755f432a064439ff
-  ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+  ms.custom: intro-internal
+  ms.openlocfilehash: 433ed668337621d7266de0c5c505ddebe03d995c
+  ms.sourcegitcommit: 8bd5d4a031ca513cf7c74721da864b98d1b8845d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/15/2020
-  ms.locfileid: "6072111"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "7493670"
 title: بدء استخدام إدارة الأصول في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتُعد إدارة الأصول وحدة لإدارة الأصول ومهام الصيانة في Dynamics 365 Supply Chain Management. تمكنك إدارة الأصول من إدارة وتنفيذ المهام المتعلقة بإدارة وخدمة العديد من أنواع المعدات في شركتك بكفاءة، على سبيل المثال، الآلات ومعدات الإنتاج والمركبات. تدعم إدارة الأصول الحلول عبر العديد من الصناعات.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- راجع مزايا إدارة الأصول.\n- تحديد المصطلحات والمفاهيم الأساسية في إدارة الأصول.\n- تعرف على كيفية التثبيت والعمل باستخدام مساحة العمل المحمولة لإدارة الأصول.\n- مراجعة قدرات تكامل إدارة الأصول.\n"
@@ -39,6 +39,7 @@ units:
 - learn-dynamics.get-started-asset-management.04-2-mobile-workspace
 - learn-dynamics.get-started-asset-management.04-3-tasks-mobile
 - learn-dynamics.get-started-asset-management.04-4-integration
+- learn-dynamics.get-started-asset-management.04-5-guides
 - learn-dynamics.get-started-asset-management.05-check
 - learn-dynamics.get-started-asset-management.06-summary
 badge:

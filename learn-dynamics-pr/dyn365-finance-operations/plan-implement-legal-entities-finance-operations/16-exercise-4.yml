@@ -5,16 +5,15 @@ labId: 76401
 metadata:
   title: المعمل - إعداد تسلسل رقمي
   description: مارس إعداد تسلسل رقمي في تطبيقات Finance and Operations.
-  ms.date: 07/18/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: f0891bc1d6f1ab21b2d30393506524ea124b24e0
-  ms.sourcegitcommit: 21873567450f1b38114ad9ed397ab7e898b7e640
+  ms.openlocfilehash: 0068b0a2c936de067b45885151b91e7f2301941b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/30/2020
-  ms.locfileid: "6072033"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7339423"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/16-exercise-set-up-number-sequence.md)] \n[!include[](../includes/standalone-lab-end.md)]"
