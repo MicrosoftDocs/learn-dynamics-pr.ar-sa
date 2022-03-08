@@ -8,11 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e439369c47a097a86c113a76a246315b5e8cac25
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 92cb3f8cb6e60d239a0a43c7a876b6b6402e3c84
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329107"
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072879"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-project-calendars.md)]"

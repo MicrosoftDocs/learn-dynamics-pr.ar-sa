@@ -4,16 +4,16 @@ title: خيارات حركات الأصول الثابتة
 metadata:
   title: خيارات حركات الأصول الثابتة
   description: توضح هذه الوحدة خيارات حركات الأصول الثابتة في Dynamics 365 Finance.
-  ms.date: 12/21/2021
+  ms.date: 11/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 892ca3797c78104eaac1cfef71ed2fd8ac4fe95d
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: fa80179c44935e9e097d54c9494da700f038d508
+  ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944542"
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "7818428"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-fraud-protection
-  ms.openlocfilehash: 0512b1461e41630e82cf1dc979bfeda7a1d94bb0
-  ms.sourcegitcommit: f6819b06b09bea4edfb42315bfe2f17231c1ac8b
+  ms.openlocfilehash: a485d7954526e7f1d8e2ef060199abaadc383d78
+  ms.sourcegitcommit: cf988f9d884b5aac917dcb19399e2ec0eec62d59
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/20/2022
-  ms.locfileid: "8015636"
+  ms.lasthandoff: 12/09/2021
+  ms.locfileid: "7903149"
 title: نشر ميزتي حماية الحساب وحماية المشتريات في Dynamics 365 Fraud Protection واستخدامهما
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -32,6 +32,7 @@ roles:
 products:
 - dynamics-365
 - dynamics-fraud-protection
+- dynamics-commerce
 modules:
 - learn-dynamics.get-started-fraud-protection
 - learn-dynamics.provision-fraud-protection

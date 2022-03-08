@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/production-control/cross-docking-opportunities
-  ms.openlocfilehash: 8e919a9b63f6fd44599a8e98477b3b507c9e5dac
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d4488ecc1e1afbe2d9b8fdaa8296e2e9dce54867
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358501"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667721"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

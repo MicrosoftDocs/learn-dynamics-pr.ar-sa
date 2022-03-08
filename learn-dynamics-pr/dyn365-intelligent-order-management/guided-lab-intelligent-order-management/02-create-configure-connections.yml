@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.guided-lab-intelligent-order-management.02-create-configure-connections
-title: إنشاء الاتصالات وإعدادها
+title: إنشاء الاتصالات وتكوينها
 metadata:
-  title: إنشاء الاتصالات وإعدادها
-  description: أنشئ الاتصالات وقم بإعدادها في Intelligent Order Management.
+  title: إنشاء الاتصالات وتكوينها
+  description: إنشاء الاتصالات وتكوينها في Intelligent Order Management
   ms.date: 01/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4c13c9a07c0ea5cfc1e88e7c18a4494c1427ecff
-  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.openlocfilehash: 390402f7d1c90c59df8c8ce021c2a8952acea02d
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "8091378"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075792"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create-configure-connections.md)]"

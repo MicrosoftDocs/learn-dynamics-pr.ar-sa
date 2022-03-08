@@ -4,15 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص الشروع في العمل في وحدة Dynamics 365 Project Operations
-  ms.date: 04/08/2021
+  ms.date: 11/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1e60f7948ddfd6a1643f02068ed472c4077328c6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 59f57eebae2883f22ec52f668ff546f97c26156e
+  ms.sourcegitcommit: 49e41fceff1cf34140f3ad833073b7bea9669c68
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363443"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "6072755"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/13-summary.md)]"

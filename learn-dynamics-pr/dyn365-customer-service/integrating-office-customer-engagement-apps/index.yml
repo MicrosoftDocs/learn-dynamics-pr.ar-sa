@@ -1,21 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.integrating-office-and-dynamics-365-customer-engagement
 metadata:
-  title: دمج تطبيقات Office وDynamics 365 Customer Engagement
-  description: استخدم القوالب ومنتجات Office لتوسيع إمكانيات تطبيقات Dynamics 365 Customer Engagement.
+  title: تحقيق التكامل بين تطبيقات Office وتطبيقات Dynamics 365 Customer Engagement
+  description: بادِر بالعمل باستخدام القوالب ومنتجات Office لتوسِّع نطاق قدرة تطبيقات Dynamics 365 Customer Engagement.
   ms.date: 02/08/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 414c3f2e3da818c3ff1dfa672b2f71374870e614
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 8bd81f37520606707ecdc0ab3c5071c89945f961
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331267"
-title: دمج تطبيقات Office وDynamics 365 Customer Engagement
-summary: "[!include[](../includes/module-banner.md)]\n\nاستخدم القوالب ومنتجات Office لتوسيع إمكانيات تطبيقات Dynamics 365 Customer Engagement. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف خيارات القوالب والأمان.\n- دراسة الكيفية التي تتكامل بها منتجات Office مع Dynamics 365.\n"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659109"
+title: تحقيق التكامل بين تطبيقات Office وتطبيقات Dynamics 365 Customer Engagement
+summary: "[!include[](../includes/module-banner.md)]\n\nبادِر بالعمل باستخدام القوالب ومنتجات Office لتوسِّع نطاق قدرة تطبيقات Dynamics 365 Customer Engagement. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف خيارات القوالب والأمان.\n- دراسة الكيفية التي تتكامل بها منتجات Office مع Dynamics 365.\n"
 prerequisites: فهم تطبيقات Dynamics 365 for Customer Engagement.
 iconUrl: /learn/achievements/integrate-office-and-dynamics-365-customer-engagement.svg
 levels:

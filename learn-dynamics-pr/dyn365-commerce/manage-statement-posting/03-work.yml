@@ -8,11 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7365220670143b953016cdd8b64722e9eaef291d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: eed94b108ef8b9540127174873ce1b3c4d307ed1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7342704"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070217"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-work.md)]"

@@ -1,28 +1,28 @@
 ### YamlMime:Module
 uid: learn-dynamics.automate-business-process-flow-client-script-power-platform
 metadata:
-  title: أتمتة مهام سير إجراءات العمل باستخدام البرنامج النصي للعميل
-  description: ستركز هذه الوحدة على تثقيف المطورين حول كيفية أداء التقنيات الشائعة فيما يتعلق بأتمتة مهام سير إجراءات العمل، إلى جانب شرح سياق الوقت الذي يمكن فيه تطبيق هذه السيناريوهات.
-  ms.date: 10/11/2021
+  title: أتمتة تدفقات العمليات التجارية باستخدام برنامج العميل النصي
+  description: ستركز هذه الوحدة النمطية على تثقيف المطورين بكيفية تنفيذ التقنيات الشائعة فيما يتعلق بأتمتة تدفقات العمليات التجارية مع توضيح سياق الوقت الذي يتم فيه تطبيق هذه السيناريوهات.
+  ms.date: 07/16/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 14125f6e25e5d12a5907626f8b37b2c83bc93bbd
-  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.openlocfilehash: c04bbbea21c99f2caa92a446ed0fc07f9e402678
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/12/2021
-  ms.locfileid: "7624970"
-title: أتمتة مهام سير إجراءات العمل باستخدام البرنامج النصي للعميل
-summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة على تثقيف المطورين حول كيفية أداء التقنيات الشائعة فيما يتعلق بأتمتة مهام سير إجراءات العمل، إلى جانب شرح سياق الوقت الذي يمكن فيه تطبيق هذه السيناريوهات. \n"
-abstract: "في هذه الوحدة، ستتمكن مما يأتي: \n- أتمتة إجراءات سير إجراءات العمل باستخدام أساليب JavaScript/TypeScript API. \n"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7457595"
+title: أتمتة تدفقات العمليات التجارية باستخدام برنامج العميل النصي
+summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة النمطية على تثقيف المطورين بكيفية تنفيذ التقنيات الشائعة فيما يتعلق بأتمتة تدفقات العمليات التجارية مع توضيح سياق الوقت الذي يتم فيه تطبيق هذه السيناريوهات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ إجراءات تدفق العمليات التجارية باستخدام أساليب JavaScript/TypeScript API. \n"
 prerequisites: >
   - الفهم الأساسي لـ Microsoft Power Platform
 
-  - الخبرة في تطوير البرامج مقابل Microsoft stack وVisual Studio
+  - خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio
 
-  - ويُفضل وجود خبرة في إدارة الحلول في Azure.‬
+  - تجربة في إدارة الحلول في Azure هي المفضلة
 iconUrl: /learn/achievements/automate-business-process-flow-client-script-power-platform.svg
 levels:
 - intermediate
@@ -37,7 +37,8 @@ units:
 - learn-dynamics.automate-business-process-flow-client-script-power-platform.1-xrm-object
 - learn-dynamics.automate-business-process-flow-client-script-power-platform.2-best-practices
 - learn-dynamics.automate-business-process-flow-client-script-power-platform.3-debugging
-- learn-dynamics.automate-business-process-flow-client-script-power-platform.4-exercise
+- learn-dynamics.automate-business-process-flow-client-script-power-platform.4-exercise-1
+- learn-dynamics.automate-business-process-flow-client-script-power-platform.5-exercise-2
 - learn-dynamics.automate-business-process-flow-client-script-power-platform.6-check
 - learn-dynamics.automate-business-process-flow-client-script-power-platform.7-summary
 badge:

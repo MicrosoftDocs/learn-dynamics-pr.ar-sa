@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: c91aa966ecd58e2b14237cac9dea6aab6dd7cae8c8298e051d6b3f3bc3d25531
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: aa4263bcaa33d9d36c884ddacada8df99087e949
+  ms.sourcegitcommit: 341e56a53d8366da0fc9be6ecd2fcd2052d108e5
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7141021"
+  ms.lasthandoff: 07/30/2021
+  ms.locfileid: "6692927"
 title: إدارة الموظفين باستخدام Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة، ستتعلم كيفية إنشاء مكونات التطبيقات والتحكم فيها مثل الأقسام والوظائف. بالإضافة إلى ذلك، ستتعرف على كيفية إدارة التغييرات داخل مؤسستك.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء الأقسام والوظائف والمناصب.\n- استخدام وظائف التعيين.\n- العمل مع عملية الإعداد.\n- إدارة الترجمات.\n- العمل مع تطوير المهارات.\n- إدارة الأداء وعملية التهيئة.\n- تعرّف على السلامة والامتثال في أماكن العمل.\n"

@@ -3,16 +3,16 @@ uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops
 metadata:
   title: إدارة الأصول الثابتة في Dynamics 365 Finance
   description: يمكن إعداد وإدخال معلومات الامتلاك للأصول الثابتة، ثم إدارتها بواسطة إهلاكها وتعيين حد رسملة لتحديد الإهلاك.  بالإضافة إلى ذلك، يمكنك حساب التعديلات على الأصول الثابتة والتخلص منها. عند استخدام دفتر الأستاذ العام مع الأصول الثابتة، فإنه يمكن عرض القيمة الحالية لكل الأصول الثابتة.
-  ms.date: 11/29/2021
+  ms.date: 04/24/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 24c13b4b0592451557acb72ee78077095d4db811
-  ms.sourcegitcommit: 7012baa785a0c86835c7573ddfa53017aa5aed63
+  ms.openlocfilehash: b7c92f90da4b4d82a6c653dd3757a9bdce59b32e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/30/2021
-  ms.locfileid: "7868032"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7333392"
 title: إدارة الأصول الثابتة في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكن إعداد وإدخال معلومات الامتلاك للأصول الثابتة، ثم إدارتها بواسطة إهلاكها وتعيين حد رسملة لتحديد الإهلاك.  بالإضافة إلى ذلك، يمكنك حساب التعديلات على الأصول الثابتة والتخلص منها. عند استخدام دفتر الأستاذ العام مع الأصول الثابتة، فإنه يمكن عرض القيمة الحالية لكل الأصول الثابتة. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تنفيذ اقتناء الأصول الثابتة \n- تنفيذ إهلاك الأصول الثابتة \n- تنفيذ التخلص من الأصول الثابتة\n"
@@ -48,6 +48,7 @@ units:
 - learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.13-dispose-lend-fixed-assets
 - learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.14-asset-budgeting
 - learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.15-exercise-acquire-asset
+- learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.16-exercise-depreciate-dispose-fa
 - learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.17-manage-fixed-assets-fo-quiz
 - learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.18-manage-fixed-assets-fo-summary
 badge:

@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ab76d673587502c2151fbfe318ccce752234d53a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: d166ccad1e9ac4986f074c3216293343d3daa0f1
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341541"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667864"
 title: التعامل مع تخطيط القدرة الإنتاجية وجدولتها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]

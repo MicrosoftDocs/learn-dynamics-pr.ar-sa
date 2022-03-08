@@ -4,15 +4,16 @@ title: العمل مع بطاقات موائمة Microsoft
 metadata:
   title: العمل مع بطاقات موائمة Microsoft
   description: تعلم تصميم وكتابة بطاقات الموائمة لاستخدامها في تطبيقات المضيف متعددة.
-  ms.date: 09/29/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 07/29/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f513f9a7901b98214ebb2f4c0edd4c257c4dcd55
-  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 61aae589f2680fd0e84d52b528e45c417a01c55f
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "7581602"
-durationInMinutes: 10
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658425"
+durationInMinutes: 7
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-adaptive-cards.md)]"

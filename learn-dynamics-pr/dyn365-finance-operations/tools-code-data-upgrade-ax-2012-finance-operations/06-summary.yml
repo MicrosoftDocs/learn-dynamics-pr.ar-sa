@@ -4,15 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص "أدوات ترقية البيانات والكود" من Dynamics AX ‏2012‏ للوحدة النمطية لتطبيقات Finance and Operations.
-  ms.date: 08/27/2021
+  ms.date: 02/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e2b0bfa0eed45e960d758a4ec3f2197a5834316e
-  ms.sourcegitcommit: c5fa8cc8d1fae5ff4dad3ce3590baef4d3e5c59c
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 618c070ba79bc338d8ddcbadc03f22bb659bc42f
+  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "7440967"
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6072283"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-summary.md)]"

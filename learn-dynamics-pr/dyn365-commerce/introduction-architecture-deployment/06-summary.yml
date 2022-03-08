@@ -4,15 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: تلخص هذه الوحدة المقدمة إلى الوحدة النمطية لبنية وتوزيع Dynamics 365 Commerce
-  ms.date: 04/26/2021
+  ms.date: 06/19/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2a0afc29e247b15fe9fade9826c61835ce71b793
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 1fa594a59aec0a9c38dd395f7c73449d721475fc
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363931"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070231"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-summary.md)]"

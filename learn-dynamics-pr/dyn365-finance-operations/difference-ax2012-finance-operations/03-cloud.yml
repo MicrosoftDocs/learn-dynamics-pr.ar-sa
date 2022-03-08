@@ -4,15 +4,16 @@ title: Microsoft Cloud
 metadata:
   title: Microsoft Cloud
   description: تعرف على Microsoft Cloud.
-  ms.date: 02/05/2021
+  ms.date: 02/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0b227fe85a4f699a800c55fdb37b7c86a6b5ee5d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 1abb3f10f2b6682ef761c31110af658f41db9bd2
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7344418"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072178"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-cloud.md)]"

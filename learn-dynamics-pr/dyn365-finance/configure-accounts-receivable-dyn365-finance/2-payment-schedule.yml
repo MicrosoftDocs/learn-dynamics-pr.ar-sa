@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/accounts-receivables-set-up-overview
-  ms.openlocfilehash: 7e1b76bec0cac091fda2669936ba6136722c0db5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.cuatom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/accounts-receivables-set-up-overview
+  ms.openlocfilehash: 37558f33311e315f3301a8f52c7d59fcdfdac103
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360482"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677178"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

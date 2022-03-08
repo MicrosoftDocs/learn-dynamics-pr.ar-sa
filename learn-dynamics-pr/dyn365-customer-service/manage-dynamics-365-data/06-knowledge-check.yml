@@ -3,17 +3,18 @@ uid: learn-dynamics.manage-your-data.06-knowledge-check
 metadata:
   title: إدارة فحص معرفة بيانات Dynamics 365
   description: اختبر معلوماتك حول استيراد البيانات وتصديرها وحذفها.
-  ms.date: 07/29/2021
+  ms.date: 02/04/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
+  ms.prod: learning-power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: a600c48fcaa7036026282fce00212466a48f5110
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 42bc99d497e9faa932e6d2014d83d87a40429c20
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340580"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659081"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:
@@ -23,16 +24,16 @@ quiz:
     choices:
     - content: Excel online
       isCorrect: false
-      explanation: ستعمل ورقة عمل Statie Excel ثابتة فقط لهذا التصدير.
+      explanation: ستعمل ورقة عمل Statie Excel فقط لهذا التصدير.
     - content: ورقة عمل Excel Dynamics
       isCorrect: false
-      explanation: ستعمل ورقة عمل Statie Excel ثابتة فقط لهذا التصدير.
+      explanation: ستعمل ورقة عمل Statie Excel فقط لهذا التصدير.
     - content: ورقة عمل Excel ثابتة
       isCorrect: true
-      explanation: ستعمل ورقة عمل Statie Excel ثابتة فقط لهذا التصدير.
+      explanation: ستعمل ورقة عمل Statie Excel فقط لهذا التصدير.
     - content: لا شيء مما سبق
       isCorrect: false
-      explanation: ستعمل ورقة عمل Statie Excel ثابتة فقط لهذا التصدير.
+      explanation: ستعمل ورقة عمل Statie Excel فقط لهذا التصدير.
   - content: تستخدم الرؤى المستقبلية للمؤسسة لمراقبة التخزين وتريد عرضاً أكثر تفصيلاً بين نطاقات التواريخ حول استهلاك التخزين، فماذا يجب أن تفعل؟
     choices:
     - content: تغيير عوامل التصفية

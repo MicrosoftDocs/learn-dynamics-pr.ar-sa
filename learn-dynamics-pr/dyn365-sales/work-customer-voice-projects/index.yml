@@ -8,16 +8,15 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.custom: intro-internal
-  ms.openlocfilehash: 65517385c1bab5dd4ce1027e318458957a8131e9
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.openlocfilehash: ca06dd7e1b880065593ce164e8d2b9da28f5b176
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/20/2021
-  ms.locfileid: "7505478"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436230"
 title: إنشاء مشروع استطلاع باستخدام Dynamics 365 Customer Voice
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء مشروع استطلاع باستخدام Dynamics 365 Customer Voice.   \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على Dynamics 365 Customer Voice وكيف يمكن أن يكون مفيدًا لمؤسسة.\n- إنشاء أول مشروع لك.\n- اكتشف الميزات والوظائف عالية المستوى الخاصة بالمشروع.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على Dynamics 365 Customer Voice وكيف يمكن أن يكون مفيدًا لمؤسسة.\n- إنشاء أول مشروع لك.\n- اكتشف الميزات والوظائف عالية المستوى الخاصة بالمشروع.\n"
 prerequisites: لا شيء
 iconUrl: /learn/achievements/work-customer-voice-projects.svg
 levels:

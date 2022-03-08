@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.creating-and-managing-entitlements-in-dynamics-365.4-additional-considerations
-title: الاعتبارات الأخرى
+title: الاعتبارات الإضافية
 metadata:
-  title: الاعتبارات الأخرى
-  description: قيّم الاعتبارات الأخرى.
-  ms.date: 01/18/2022
-  author: KevSch
-  ms.author: kschimke
+  title: الاعتبارات الإضافية
+  description: الاعتبارات الإضافية
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d7109e2292cc16bee612901dc481ba2b8cc2db1b
-  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0aaeaea22a1ef93b89d0cdf9b1cbcae39e226909
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8014008"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361581"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

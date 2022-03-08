@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 44b0306014980cfe2f3451fb3e752049bc3ebaf8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: 45a1156384be0851b1c45ff72ee1f10db6bca8d9
+  ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352398"
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "6074771"
 title: بدء استخدام الميزات الموجودة في Dynamics 365 Project Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]

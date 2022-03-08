@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9fdfbf81839f46828270a3a2b1d2d8a5bdea67c8
-  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
+  ms.openlocfilehash: e42d6e7886a41d7621d97932ab9ca396833c1774
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8013905"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7582739"
 title: تنفيذ بصمات الجهاز Dynamics 365 Fraud Protection
 summary: "[!include[](../includes/module-banner.md)] \nإن بصمة الجهاز أو بصمات الآلة أو بصمات المستعرض هي المعلومات التي يتم جمعها فيما يتعلق بجهاز الكمبيوتر عن بُعد للتعريف. تجمع بصمات الأجهزة بيانات تتبع الاستخدام الهامة للجهاز أثناء إجراءات فورية حرجه لتقييم حركات التجارة الإلكترونية. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ بصمات الجهاز المباشر لدعم حماية الحساب لـ Dynamics 365 Fraud Protection.\n- تنفيذ بصمات الجهاز المباشر لدعم شراء \"حماية الحساب\" لـ Dynamics 365 Fraud Protection.\n"
@@ -33,6 +33,7 @@ roles:
 products:
 - dynamics-365
 - dynamics-fraud-protection
+- dynamics-commerce
 units:
 - learn-dynamics.device-fingerprint-fraud-protection.01-introduction
 - learn-dynamics.device-fingerprint-fraud-protection.02-how-device-fingerprint-works

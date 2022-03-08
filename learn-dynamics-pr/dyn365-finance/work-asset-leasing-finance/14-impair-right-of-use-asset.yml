@@ -8,11 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 28c53ba6793b6c5c8ff8d0b3cedb2a48cf4ee990
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.openlocfilehash: 1879954ab9168acca9c669dc3797daa81e36afe7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7893096"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7329977"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/14-impair-right-of-use-asset.md)]"

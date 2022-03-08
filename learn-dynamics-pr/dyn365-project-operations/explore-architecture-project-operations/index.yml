@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f3ab27c2c356afae581e0b4c0bbfbc9653b6437e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 75d47895404561d4a18d1970ebead1cd80d9a641
+  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329114"
+  ms.lasthandoff: 05/20/2021
+  ms.locfileid: "6083802"
 title: استكشاف بنية Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيتكامل Dynamics 365 Project Operations مع تطبيقات Dynamics 365 الأخرى وMicrosoft 365 وحلول المجال.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف بنية منتج Dynamics 365 Project Operations.\n- التعرف على كيف يمكن أن يساعد Project للويب في تعميق إمكانية التشغيل التفاعلي باستخدام Dynamics 365.\n- اكتشاف كيفيه قيام الكيانات داخل Dataverse بمساعدتك في تخزين البيانات وإدارتها بطريقه أكثر أماناً.\n- التعرف على كيفية تكامل إطار عمل الكتابة المزدوجة بين تطبيقات Finance and Operations وMicrosoft Dataverse.\n- راجع المعلمات فيما يتعلق بترخيص المنتج.\n"

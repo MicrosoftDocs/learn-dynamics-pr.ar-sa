@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-online-presence.10-check
-title: اختبر معلوماتك
+title: تحقق من مستوى معرفتك
 metadata:
-  title: اختبر معلوماتك
+  title: تحقق من مستوى معرفتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 04/07/2021
+  ms.date: 07/17/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 79b1c46d8d5eb88caae1dfa46cdbbdf21b4814cc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: e145ead93e260478ffe03d0865831883dd5a1cca
+  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366707"
+  ms.lasthandoff: 03/08/2021
+  ms.locfileid: "6070457"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

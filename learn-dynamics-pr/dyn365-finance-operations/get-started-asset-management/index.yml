@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: intro-internal
-  ms.openlocfilehash: 433ed668337621d7266de0c5c505ddebe03d995c
-  ms.sourcegitcommit: 8bd5d4a031ca513cf7c74721da864b98d1b8845d
+  ms.openlocfilehash: 651cdb4b7481589ff7b4d009cdea771c39c4a4b8
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/15/2021
-  ms.locfileid: "7493670"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7357919"
 title: بدء استخدام إدارة الأصول في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتُعد إدارة الأصول وحدة لإدارة الأصول ومهام الصيانة في Dynamics 365 Supply Chain Management. تمكنك إدارة الأصول من إدارة وتنفيذ المهام المتعلقة بإدارة وخدمة العديد من أنواع المعدات في شركتك بكفاءة، على سبيل المثال، الآلات ومعدات الإنتاج والمركبات. تدعم إدارة الأصول الحلول عبر العديد من الصناعات.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- راجع مزايا إدارة الأصول.\n- تحديد المصطلحات والمفاهيم الأساسية في إدارة الأصول.\n- تعرف على كيفية التثبيت والعمل باستخدام مساحة العمل المحمولة لإدارة الأصول.\n- مراجعة قدرات تكامل إدارة الأصول.\n"

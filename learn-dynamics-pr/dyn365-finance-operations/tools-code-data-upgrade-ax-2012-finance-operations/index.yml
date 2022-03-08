@@ -3,16 +3,16 @@ uid: learn-dynamics.tools-code-data-upgrade-ax-2012-finance-operations
 metadata:
   title: أدوات لترقية التعليمات البرمجية والبيانات من Dynamics AX 2012 إلى تطبيقات Finance and Operations
   description: تدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات Finance and Operations. تكون جميع أدوات الترقية متاحة بشكل عام.
-  ms.date: 08/27/2021
+  ms.date: 02/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ee145ed0a22877818590e96d9eea9e59e2c8a40d
-  ms.sourcegitcommit: c5fa8cc8d1fae5ff4dad3ce3590baef4d3e5c59c
+  ms.openlocfilehash: c3f1533f9f78dcc57390a178167812a89e078e4a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "7440932"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366471"
 title: أدوات لترقية التعليمات البرمجية والبيانات من Dynamics AX 2012 إلى تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)] \nتدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات Finance and Operations. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics 365 Lifecycle Services لمساعدتك خلال العملية. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تقدير مهام الترقية وتحليلها.\n- قم بإجراء تحليل الملاءمة والفجوات، وقم بإنشاء خطة مشروع.\n- قم بإعداد قاعدة بيانات Dynamics AX 2012 للترقية.\n- قم بترقية التعليمات البرمجية والبيانات إلى تطبيقات Finance and Operations.\n- تحقق من صحة الترقية، وقم بإجراء اختبار وظيفي واختبار مرحلي. \n"

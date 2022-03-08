@@ -3,18 +3,20 @@ uid: learn-bizapps.customer-service-get-started.4-knowledge check-customer-servi
 metadata:
   title: فحص المعرفة بخدمة العملاء
   description: سيختبر اختبار المعرفة هذا معرفتك بـ Dynamics 365 Customer Service.
-  ms.date: 09/03/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1988af45262390ab626f8f70cb328b7f4cd4f269
-  ms.sourcegitcommit: 0cbc164fda0ab8c2d868359a6af5d804665d8388
+  ms.prod: learning-d365-customer-service
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1ab68a33dda68557fb2236f7490c7804dbd4a10a
+  ms.sourcegitcommit: 452e0bf3ed674a94b7408463e0b1b440944945f7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/04/2021
-  ms.locfileid: "7473913"
+  ms.lasthandoff: 01/13/2021
+  ms.locfileid: "6658442"
 title: اختبر معلوماتك
-durationInMinutes: 6
+durationInMinutes: 5
 quiz:
   title: فحص المعرفة بخدمة العملاء
   questions:

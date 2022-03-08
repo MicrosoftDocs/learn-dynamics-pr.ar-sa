@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/set-up-generate-positive-pay-files
-  ms.openlocfilehash: dce6901dda46d7128201ba9eab4621f471dd7d93
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 582e684bd033ed6ff5ab0d33f924d244080d00a2
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346075"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677569"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -4,16 +4,18 @@ title: سيناريوهات إدارة الحالات
 metadata:
   title: سيناريوهات إدارة الحالات
   description: سيناريوهات إدارة الحالات
-  ms.date: 09/03/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a3b1b90029136b207ccdb304b278a8502510a398
-  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 6728646d4ebd81033e6a8e0c24d47b719f4ac91e
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/07/2021
-  ms.locfileid: "7478597"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659166"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

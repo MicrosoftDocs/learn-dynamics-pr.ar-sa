@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.explore-architecture-project-operations.6-check
-title: اختبر معلوماتك
+title: تحقق من مستوى معرفتك
 metadata:
-  title: اختبر معلوماتك
+  title: تحقق من مستوى معرفتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 5/20/2021
+  ms.date: 5/19/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4ece792bd60aed79ad7255ffeb843eb299829b0d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-project-operations
+  ms.openlocfilehash: 3500c3c745ca4c5d051afea4ff4326970f2eaccd
+  ms.sourcegitcommit: 0a6b3a31165f421c2f7d3afb98b75c9100325f57
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337587"
+  ms.lasthandoff: 05/20/2021
+  ms.locfileid: "6083795"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

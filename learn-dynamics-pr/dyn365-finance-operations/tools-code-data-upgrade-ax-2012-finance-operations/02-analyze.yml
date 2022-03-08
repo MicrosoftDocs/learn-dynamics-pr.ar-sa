@@ -4,15 +4,16 @@ title: مرحلة التحليل
 metadata:
   title: مرحلة التحليل
   description: تعرف على كيفية مساعدة المهام في مرحلة التحليل في تقدير الجهد المطلوب للترقية من تطبيقات Dynamics AX 2012 إلى Finance and Operations.
-  ms.date: 08/27/2021
+  ms.date: 02/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c20a78cb52153b022d5b7a61f50cb53577c67762
-  ms.sourcegitcommit: c5fa8cc8d1fae5ff4dad3ce3590baef4d3e5c59c
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 3c2cef6c6457652540ad297f90d610c94da1664f
+  ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "7440950"
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "6072310"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-analyze.md)]"

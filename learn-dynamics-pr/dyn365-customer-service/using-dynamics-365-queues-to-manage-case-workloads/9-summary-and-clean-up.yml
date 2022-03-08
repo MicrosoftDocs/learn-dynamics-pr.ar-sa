@@ -3,18 +3,19 @@ uid: learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.9-summary-
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص لاستخدام Microsoft Dynamics Customer Service لإدارة أحمال عمل الحالة.
-  ms.date: 12/21/2021
-  author: KevSch
-  ms.author: kschimke
+  description: الملخص
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ee568be93c4365d9183be4fe4d1b633d367d1e8d
-  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 41754f9ff7af4c960034ba2d0d397896af99fc75
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945182"
-durationInMinutes: 2
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366546"
+durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]
 

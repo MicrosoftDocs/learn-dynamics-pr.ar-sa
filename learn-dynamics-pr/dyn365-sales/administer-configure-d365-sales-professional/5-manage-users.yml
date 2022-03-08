@@ -4,16 +4,17 @@ title: إدارة المستخدمين
 metadata:
   title: إدارة المستخدمين
   description: إدارة المستخدمين
-  ms.date: 09/15/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 05/14/2019
+  author: davebeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dc75e4702bcd5f1e64ddb0caff5a8b8703bd641f
-  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5028eaaaccf8a3beeef8dfa2f13eff04374a38bc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2021
-  ms.locfileid: "7511180"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436275"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

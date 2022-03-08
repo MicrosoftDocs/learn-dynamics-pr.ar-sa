@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: d36d0379771178b2e567d4471e16dd1f6923e162
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operation
+  ms.openlocfilehash: 7ad1d4b61386d9386483a6200e7015264a8e7b1d
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341512"
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074554"
 title: تكوين دفتر الأستاذ العام واستخدامه في Dynamics 365 Finance
 summary: >
   [!include[](../../includes/lp-banner.md)]

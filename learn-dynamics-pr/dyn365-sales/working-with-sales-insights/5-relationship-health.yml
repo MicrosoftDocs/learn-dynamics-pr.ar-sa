@@ -4,15 +4,15 @@ title: إدارة صحة العلاقة
 metadata:
   title: إدارة صحة العلاقة
   description: تعرف على كيفية إدارة صحة العلاقات.
-  ms.date: 09/28/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 269193ba6813215fbe11b3c691231c9df6067a70
-  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
+  ms.openlocfilehash: c20071c3c6621001c362ec54ae67587d227e4a97
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "7581553"
-durationInMinutes: 12
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7436252"
+durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-relationship-health.md)]"

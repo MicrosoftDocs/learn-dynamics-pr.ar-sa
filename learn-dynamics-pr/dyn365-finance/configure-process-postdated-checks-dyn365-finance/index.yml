@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 90e1b6ff751facdd94cc49c66d0ea595edda0a4c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: afefc28d609de90bb53231607196e9ad9e6a6343
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350478"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677698"
 title: تكوين ومعالجة الشيكات المؤجلة في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nالشيكات المؤجلة هي الشيكات التي يتم إصدارها لإجراء المدفوعات واستلامها في تاريخ لاحق. لذلك، لا يمكن صرف الشيك حتى التاريخ المحدد. يدعم Dynamics 365 Finance دورة الإدارة الكاملة للشيكات المؤجلة في كل من الحسابات المدينة والحسابات المدفوعات. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- معالجة الشيكات بتاريخ لاحق. \n- إعداد شيكات بتاريخ لاحق.\n- تسجيل شيك بتاريخ لاحق لعميل وترحيله.\n- قم بتسوية شيك تم تأخير تاريخه لأحد العملاء.\n- تسجيل شيك بتاريخ لاحق وترحيله لمورد.\n- تسوية شيك بتاريخ لاحق لمورد.\n"
