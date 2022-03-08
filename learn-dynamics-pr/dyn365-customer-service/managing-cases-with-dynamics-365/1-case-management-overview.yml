@@ -4,16 +4,18 @@ title: نظرة عامة على إدارة الحالة
 metadata:
   title: نظرة عامة على إدارة الحالة
   description: نظرة عامة على إدارة الحالة
-  ms.date: 09/03/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5f43d6a0ec167814ca7f34bd5f7028d96461f3d8
-  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
+  ms.prod: learning-d365
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: df8bdb9c51eeef61159d0110153e725adc550438
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/07/2021
-  ms.locfileid: "7478637"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659176"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

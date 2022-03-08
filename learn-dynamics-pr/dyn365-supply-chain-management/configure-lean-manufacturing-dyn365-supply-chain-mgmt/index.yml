@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 24a89b0bf5fd68233e7fdbee857ad0c50492b216
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 19282861f4df9d81970fdfd114821bddf895fbc8
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363401"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667837"
 title: تكوين lean manufacturing في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتتكون بنية lean manufacturing في Dynamics 365 Supply Chain Management من تدفقات الإنتاج والأنشطة وقواعد كانبان. يمكنك استخدام lean manufacturing في بيئة تصنيع موحدة تجمع بين العديد من استراتيجيات التوريد والإنتاج والاستعانة بالمصادر.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تكوين المعلمات.  \n- إنشاء تدفقات القيم.\n- إنشاء تدفقات الإنتاج.\n- تكوين خلايا عمل lean manufacturing.\n"

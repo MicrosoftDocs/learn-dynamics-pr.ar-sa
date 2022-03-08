@@ -1,20 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.introduction-to-integration-with-dynamics-365-customer-engagement
 metadata:
-  title: مقدمة عن التكامل مع تطبيقات Dynamics 365 Customer Engagement
-  description: قم بتكوين تطبيقات Dynamics 365 Customer Engagement للعمل مع بريدك الإلكتروني وإدارة علب البريد الخاصة بك.
+  title: مقدمة حول التكامل مع تطبيقات Dynamics 365 Customer Engagement
+  description: تكوين تطبيقات Dynamics 365 Customer Engagement للعمل باستخدام بريدك الإلكتروني وإدارة صناديق بريدك.
   ms.date: 06/01/2021
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: efd115fe15383fedad1d79ae15723f4d3558ddf8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 4d4c94bdb6183fe0d1369c51142f003c46759f31
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362155"
-title: مقدمة عن التكامل مع تطبيقات Dynamics 365 Customer Engagement
-summary: "[!include[](../includes/module-banner.md)]\n\nقم بتكوين تطبيقات Dynamics 365 Customer Engagement للعمل مع بريدك الإلكتروني وإدارة علب البريد الخاصة بك. \n"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659335"
+title: مقدمة حول التكامل مع تطبيقات Dynamics 365 Customer Engagement
+summary: "[!include[](../includes/module-banner.md)]\n\nتكوين تطبيقات Dynamics 365 Customer Engagement للعمل باستخدام بريدك الإلكتروني وإدارة صناديق بريدك. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- دراسة تكامل البريد الإلكتروني مع Dynamics\n- تكوين صناديق البريد\n- التكامل مع Outlook\n"
 prerequisites: فهم أساسي لتطبيقات Dynamics 365 Customer Engagement
 iconUrl: /learn/achievements/introduction-to-integration-with-dynamics-365-customer-engagement.svg

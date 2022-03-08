@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.send-customer-voice-surveys.3a-survey-reports
-title: تحليل تقارير الاستطلاع
+title: تحليل تقارير الاستطلاع وفهمها
 metadata:
-  title: تحليل تقارير الاستطلاع
-  description: تعرف على كيفية تحليل تقارير الاستطلاع.
+  title: تحليل تقارير الاستطلاع وفهمها
+  description: تعلم كيفية تحليل تقارير الاستطلاع وفهمها.
   ms.date: 01/11/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 42fd774f38f8af57d303539d49bf29682679929f
-  ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
+  ms.openlocfilehash: 64d8fb7a67cc533d01d2155ebd84d33166c7ab0d
+  ms.sourcegitcommit: 7fc65cc193319a1ed5491cbd0390d01a75043520
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/27/2022
-  ms.locfileid: "8045353"
+  ms.lasthandoff: 01/13/2022
+  ms.locfileid: "7968551"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3a-survey-reports.md)]"
