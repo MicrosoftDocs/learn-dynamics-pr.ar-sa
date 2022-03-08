@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b553c8c600389657726fbab2371516fc88eb80b1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6626bd20e124c42869e0c1de9a2624552c664adf
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364244"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677139"
 title: تكوين التقارير الإلكترونية في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nبدلاً من توسيع التعليمات البرمجية لـ Dynamics 365 Finance لتلبية الميزات التنظيمية والامتثال لبلدان أو مناطق مختلفة، يمكن لمستخدم الأعمال تكوين أداة التقارير الإلكترونية واستخدامها بدون كتابة سطر واحد من التعليمات البرمجية. يمكنك على سبيل المثال اعتماد متطلبات تنظيمية جديدة وإنشاء مستندات أعمال بالتنسيق المطلوب لتبادل المعلومات إلكترونياً مع الهيئات الحكومية والبنوك والأطراف الأخرى. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين التقارير الإلكترونية \n- استخدم مصادر بيانات الباركود لإنشاء صور الباركود\n- أضف موفراً جديداً لإعداد التقارير الإلكترونية وقم بتمييزه على أنه نشط\n- إنشاء مستند إلكتروني بتنسيق معين\n- إنشاء تكوينات التقارير الإلكترونية      \n"

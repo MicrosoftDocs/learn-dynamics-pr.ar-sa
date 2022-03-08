@@ -4,17 +4,18 @@ title: استخدام مساحة عمل فوترة تعاون المورّد
 metadata:
   title: استخدام مساحة عمل فوترة تعاون المورّد
   description: تعرّف على كيفية استخدام مساحة عمل فوترة تعاون المورّد في Supply Chain Management.
-  ms.date: 12/06/2021
+  ms.date: 01/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/vendor-portal-invoicing-workspace https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/procurement/collaborate-vendors-vendor-portal
-  ms.openlocfilehash: 617d6d5948dba6c9819cc8a37d059fb058a2a608
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.openlocfilehash: eebbc4797660205f03d31a85d1d1c937c32c9c62
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7892784"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667834"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

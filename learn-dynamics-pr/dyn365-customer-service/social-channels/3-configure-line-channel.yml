@@ -4,16 +4,16 @@ title: تكوين قناة LINE
 metadata:
   title: تكوين قناة LINE
   description: تعرف على كيفية تكوين قناة LINE.
-  ms.date: 01/13/2022
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 08/06/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 71c8250ea4217e0ce74201ee2e5f8e25bd9d9a34
-  ms.sourcegitcommit: 10d757eeecd93c8c56396eca00fa61af2fef38d7
+  ms.prod: learning-d365-customer-voice
+  ms.openlocfilehash: 56506eeedf80653e001f50271a33cec0c9425da9
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8009863"
-durationInMinutes: 10
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6658408"
+durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-configure-line-channel.md)]"

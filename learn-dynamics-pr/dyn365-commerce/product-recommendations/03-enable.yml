@@ -4,15 +4,16 @@ title: تمكين توصيات المنتج
 metadata:
   title: تمكين توصيات المنتج
   description: توضح هذه الوحدة كيفية تمكين توصيات المنتج في Dynamics 365 Commerce
-  ms.date: 04/28/2021
+  ms.date: 06/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8f954de9002fddf87883d6533bbcc267ab6b7259
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learing-d365-commerce
+  ms.openlocfilehash: 96f5c3c33231958dbca043aa063ea2e7907a528c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337925"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070218"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-enable.md)]"

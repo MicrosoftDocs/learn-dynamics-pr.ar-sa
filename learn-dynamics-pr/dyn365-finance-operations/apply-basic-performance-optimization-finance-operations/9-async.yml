@@ -4,17 +4,18 @@ title: تنفيذ إطار العمل غير المتزامن
 metadata:
   title: تنفيذ إطار العمل غير المتزامن
   description: التعرف على كيفية تنفيذ إطار العمل غير المتزامن في تطبيقات Finance and Operations.
-  ms.date: 06/02/2021
+  ms.date: 07/03/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 694307d34c3aa536b56f81bda6b53a3e7352e104
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f7d6494eb990af4288fd2e4b85057a51b72806b8
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337745"
-durationInMinutes: 4
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071444"
+durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]
 

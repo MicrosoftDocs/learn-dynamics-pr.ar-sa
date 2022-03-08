@@ -3,18 +3,19 @@ uid: learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads.8-knowledg
 metadata:
   title: استخدم صفوف انتظار Microsoft Dynamics 365 لإدارة أعباء العمل الخاصة بالحالة
   description: هذا التحقق من المعرفة يختبر معرفتك باستخدام صفوف انتظار Microsoft Dynamics 365 لإدارة أعباء العمل الحالة.
-  ms.date: 12/21/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5852ea0e9bd4b8a5def20c2422f6555718793269
-  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: da8c1b97dfc5a0fba722bbb17d8280eb31af81b9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945190"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328332"
 title: اختبر معلوماتك
-durationInMinutes: 6
+durationInMinutes: 5
 quiz:
   title: استخدم صفوف انتظار Microsoft Dynamics 365 لإدارة التحقق من معرفة أحمال عمل الحالة
   questions:

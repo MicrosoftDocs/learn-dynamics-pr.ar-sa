@@ -3,17 +3,18 @@ uid: learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops
 metadata:
   title: تكوين دليل الحسابات في Dynamics 365 Finance
   description: في أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. كجزء من تنفيذ دفتر الأستاذ العام، يعد تكوين دليل الحسابات هو الخطوة الأولى المطلوبة لتحديد الحسابات والأبعاد والبنيات.
-  ms.date: 11/29/2021
+  ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/plan-chart-of-accounts
-  ms.openlocfilehash: b32b1cbd3fcd734630be3a1671d774b74de0726f
-  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+  ms.openlocfilehash: 04930241b6a34ec21d98d7a0d9153823fd1c890e
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/29/2021
-  ms.locfileid: "7867572"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677440"
 title: تكوين دليل الحسابات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. كجزء من تنفيذ دفتر الأستاذ العام، يعد تكوين دليل الحسابات هو الخطوة الأولى المطلوبة لتحديد الحسابات والأبعاد والبنيات.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحديد المكونات المطلوبة لدليل الحسابات\n- تحديد دليل الحسابات وتكوينه\n- تحديد الأبعاد المالية ومجموعات الأبعاد وتكوينها\n- تكوين دليل الحسابات، والحسابات الرئيسية، والفئات، والقوالب، الاسم المستعار لحساب دفتر الأستاذ، والتحكم في الرصيد\n- تكوين بنيات الحسابات والقواعد المتقدمة \n"
@@ -52,6 +53,7 @@ units:
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.16-configure-dimension-templates-sets
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.17-define-config-account-structures-rules
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.18-exercise-create-main-account-category
+- learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.19-exercise-create-advanced-rule-structure
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.20-config-chart-accounts-quiz
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.21-config-chart-accounts-summary
 badge:

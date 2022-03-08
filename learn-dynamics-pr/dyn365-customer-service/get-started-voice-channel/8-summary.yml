@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص لبدء استخدام قناة الصوت في Dynamics 365 Customer Service
-  ms.date: 01/04/2022
+  ms.date: 11/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fb7108e694af991cfc50bbdab2ec106311a7eba0
-  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
+  ms.openlocfilehash: b53bbf800fcc640f56cdce7338f57ebcdde8760c
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/05/2022
-  ms.locfileid: "7950094"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878624"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-summary.md)]"

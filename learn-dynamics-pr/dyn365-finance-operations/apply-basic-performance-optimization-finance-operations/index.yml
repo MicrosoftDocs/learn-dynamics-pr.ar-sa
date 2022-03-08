@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1cc9e051cc3efe83975acc1a40678f1535bb24eb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2ac143ff28176ecf427272a3f49728241fc559c9
+  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363681"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "6185539"
 title: تطبيق تحسين الأداء الأساسي في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nمن خلال تحسين تطويرك للأداء، يمكنك التأكد من أن عملك مفيد ويُقدره المستخدمين. وبصفتك مطور تطبيقات Finance and Operations، يجب أن تفهم كيف يمكن تحسين تصميماتك بشكل صحيح.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- يمكنك اكتشاف ما الجداول المؤقتة ومتى تستخدمها.\n- تعرف على البيانات المستندة إلى المجموعة والعمليات المستندة إلى الصف، ووقت استخدام كل منها.\n- ويمكنك فهم الأساليب المختلفة لتحسين الاستعلامات المخصصة وتوضيحها.\n- تعرف على أساليب التخزين المؤقت المختلفة الممكنة ووقت استخدام كل منها.\n"

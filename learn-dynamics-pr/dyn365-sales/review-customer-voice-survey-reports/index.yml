@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.review-customer-voice-survey-reports
 metadata:
-  title: مراجعة تقارير استطلاع Customer Voice
-  description: اعرف كيفية تحليل نتائج تقرير الاستطلاع في Microsoft Dynamics 365 Customer Voice وتصفيتها وتصديرها.
+  title: فهم تقارير الاستطلاع في Customer Voice ومراجعتها
+  description: اعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها.
   ms.date: 12/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7e472e0e5307a8d4305424be62039fc43dea7b70
-  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
+  ms.openlocfilehash: 2cc7085e980139bd965c20715a164069788dcbfb
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945238"
-title: مراجعة تقارير استطلاع Customer Voice
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923581"
+title: فهم تقارير الاستطلاع في Customer Voice ومراجعتها
 summary: "[!include[](../includes/module-banner.md)] \nاعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تحليل تقارير استطلاع Dynamics 365 Customer Voice.\n- اعرف كيفية تصفية نتائج تقرير الاستطلاع وتصفيتها وتصديرها.\n"
-prerequisites: المعرفة الأساسية بـ Microsoft Dynamics 365 Sales وDynamics 365 Customer Voice
+abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- اعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها. \n"
+prerequisites: المعرفة الأساسية بكل من Dynamics 365 Sales وCustomer Voice
 iconUrl: /learn/achievements/review-customer-voice-survey-reports.svg
 levels:
 - intermediate

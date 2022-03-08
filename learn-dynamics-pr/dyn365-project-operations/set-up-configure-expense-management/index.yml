@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ec500edfb98b6336c5c7425c6ae1c6aba423577b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-project-operations
+  ms.openlocfilehash: c6c58b21e28b8d706178220a546550fdaf99ace8
+  ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333324"
+  ms.lasthandoff: 12/16/2020
+  ms.locfileid: "6072782"
 title: إعداد إدارة المصروفات وتكوينها في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتوفر وحدة إدارة المصروفات للمستخدمين عملية أبسط لمعالجة المصروفات. مساحة عمل إدارة المصروفات هي المكان الذي يمكن للمستخدمين إرسال مصروفاتهم فيه، في حين أن مهام سير عمل إدارة المصروفات والميزات مثل التعرّف البصري على الحروف (OCR) لفحص الإيصالات يمكن أن تساعد في تحسين عمليات حساب مؤسستك.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف مساحة عمل إدارة المصروفات.\n- التعرف على كيفية تشغيل ميزة إعادة تصور تقارير المصروفات.\n- مراجعة معلمات إدارة المصروفات.\n- التعرف على وظيفة سير العمل لإدارة المصروفات. \n"

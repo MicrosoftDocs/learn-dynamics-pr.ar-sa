@@ -4,19 +4,17 @@ title: عرض إدارة الجهاز عن بُعد باستخدام Connected C
 metadata:
   title: عرض إدارة الجهاز عن بُعد باستخدام Connected Customer Service
   description: عرض إدارة الجهاز عن بُعد باستخدام Connected Customer Service
-  ms.date: 09/24/2021
+  ms.date: 07/23/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: d9781ea0264780df2e00db9b7d1b518a19cbf4c1
-  ms.sourcegitcommit: 8a843c182dcfce868badd5df9d0ecd9b9b748c10
+  ms.openlocfilehash: ebc79f22403fe6885d7706ed5d296c8ae8252b47
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/24/2021
-  ms.locfileid: "7555629"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660490"
 azureSandbox: false
-sandbox: false
-labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/4-view-remote-device-management-connected.md)]'

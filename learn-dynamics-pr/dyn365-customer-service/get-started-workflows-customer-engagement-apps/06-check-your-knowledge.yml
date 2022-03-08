@@ -1,19 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-with-workflows-in-dynamics-365.06-check-your-knowledge
 metadata:
-  title: الشروع في العمل باستخدام عمليات سير العمل في فحص معرفة تطبيقات Dynamics 365 for Customer Engagement
-  description: الشروع في العمل باستخدام عمليات سير العمل في فحص معرفة تطبيقات Dynamics 365 for Customer Engagement
+  title: ابدأ بسير العمل في فحص معرفة التطبيقات Dynamics 365 Customer Engagement
+  description: ابدأ بسير العمل في فحص معرفة التطبيقات Dynamics 365 Customer Engagement
   ms.date: 02/07/2019
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
+  ms.prod: learning-customer-engagement
   ROBOTS: NOINDEX
-  ms.openlocfilehash: fad06ad6051e76d6d7c9592b3bf82c90e80ee34c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d7535f3e60a1978b5c76abd54952a0ea1474bf19
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340620"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659110"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

@@ -4,18 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة
-  ms.date: 10/06/2021
+  ms.date: 07/15/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 2e815aa0327f6524ef338568c96f8159e9149cc4
-  ms.sourcegitcommit: bd5135aefecffa020f588809d29180e2f7063569
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 856146ed479a9c351ca0b4d10b6b7592f3a03737
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/06/2021
-  ms.locfileid: "7606957"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438789"
 azureSandbox: false
-labModal: false
 durationInMinutes: 1
 content: '[!include[](includes/1-introduction.md)]'

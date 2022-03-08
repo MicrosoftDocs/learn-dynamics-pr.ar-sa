@@ -8,13 +8,13 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 8c85617f39ba3cdd6760a2654f2e858696d3cc7e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-power-platform
+  ms.openlocfilehash: 75b5e59b7e9d736db32d187c2ce55f7504c3d603
+  ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350808"
+  ms.lasthandoff: 04/16/2021
+  ms.locfileid: "6659246"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

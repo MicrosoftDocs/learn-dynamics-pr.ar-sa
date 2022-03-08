@@ -3,16 +3,16 @@ uid: learn-dynamics.guided-lab-intelligent-order-management.05-create-intake-pro
 title: إنشاء موفر استلام الأمر
 metadata:
   title: إنشاء موفر استلام الأمر
-  description: إنشاء موفر استلام الأمر في Intelligent Order Management.
+  description: إنشاء موفر استلام الأمر في Intelligent Order Management
   ms.date: 01/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d1ea0e033f050204e5a204b2b9b3c1c7484c5787
-  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.openlocfilehash: d156cca1f5f6c3859f6d0aef03a4dfaee9b1aad8
+  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "8091250"
+  ms.lasthandoff: 01/31/2022
+  ms.locfileid: "8075800"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-create-intake-provider.md)]"

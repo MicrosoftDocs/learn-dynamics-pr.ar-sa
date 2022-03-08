@@ -7,13 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.custom: intro-internal
-  ms.openlocfilehash: a6827a5e291439586f95fe65e3e5345931e05f2f
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.openlocfilehash: 6296472a7153430601a048b124e751420791f85d
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/20/2021
-  ms.locfileid: "7505462"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7327559"
 title: بدء استخدام Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nيقوم Dynamics 365 Human Resources بالتشغيل التلقائي لمهام الموارد البشرية طوال دورة حياة التوظيف، بما في ذلك إدارة المؤسسة والتوظيف والتعويضات والمزايا والإجازات والغياب والأداء والكثير غير ذلك.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على فوائد Human Resources.\n- استكشف ميزات Human Resources ووظائفه.\n- التعرف على الطرق المختلفة لتوسيع إمكانيات Human Resources ودمجه.\n"

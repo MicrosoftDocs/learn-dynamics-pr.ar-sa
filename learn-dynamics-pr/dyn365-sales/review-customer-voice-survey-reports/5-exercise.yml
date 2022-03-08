@@ -3,16 +3,16 @@ uid: learn-dynamics.review-customer-voice-survey-reports.5-exercise
 title: تمرين - التفاعل مع التقارير وتصدير البيانات
 metadata:
   title: تمرين - التفاعل مع التقارير وتصدير البيانات
-  description: راجع تقرير الردود على الاستطلاع لأحد الاستطلاعات داخل مشروع، ثم قم بتصفية نتائج الاستطلاع وتصديرها.
+  description: راجع تقرير الردود على الاستطلاع لأحد الاستطلاعات داخل مشروع، وتعلم كيفية تصفية نتائج الاستطلاع وتصديرها.
   ms.date: 12/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b0f6cbf93d3c395a203e3cf0c63a827b64a025cd
-  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
+  ms.openlocfilehash: 1a9ddaa4c6941142e5f2ec0f586437bf621a94fc
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945325"
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923582"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-exercise.md)]"

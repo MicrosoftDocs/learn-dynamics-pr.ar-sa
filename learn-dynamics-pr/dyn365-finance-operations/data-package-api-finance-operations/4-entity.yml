@@ -8,13 +8,14 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/entity-change-track
-  ms.openlocfilehash: 03b3b36059bd974c01ef11bc829c2bded9d78010
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5f9ab3d7dd2d435c03914bfa24291ceef41b9ade
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340451"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6071990"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

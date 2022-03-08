@@ -3,18 +3,19 @@ uid: learn-bizapps.customer-service-cases
 metadata:
   title: إدارة الحالات باستخدام Dynamics 365 Customer Service
   description: يمكنك إنشاء حالات وإدارة عملية حل الحالة، والعمل باستخدام التدرجات الهرمية للحالات، ودمج الحالات المشابهة.
-  ms.date: 12/22/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: davebeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 62b5b7c3d7b92ffda741d08164e1da87616dd9ae
-  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: bf6439ceb61dee5381b998ba4b024643c99a482c
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/23/2021
-  ms.locfileid: "7946129"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6659135"
 title: إدارة الحالات باستخدام Dynamics 365 Customer Service
-summary: "[!include[](../includes/module-banner.md)]\nتتيح Microsoft Dynamics 365 for Customer Service للمؤسسات تقديم خدمة أفضل لعملائها، وإدارة عمليات تحميل المندوبين عن طريق توفير نطاق واسع من خيارات إدارة الحالات. سواء كان المندوبين يبحثون عن طرق أكثر فاعلية لإنشاء الحالات أو طرق أفضل لإدارة دورة حياة الحالة، يمكن لأدوات إدارة الحالة في Microsoft Dynamics 365مساعدتهم خلال عملية الإدارة.      \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح Microsoft Dynamics 365 for Customer Service للمؤسسات تقديم خدمة أفضل لعملائها، وإدارة عمليات تحميل المندوبين عن طريق توفير نطاق واسع من خيارات إدارة الحالات. سواء كان المندوبين يبحثون عن طرق أكثر فاعلية لإنشاء الحالات أو طرق أفضل لإدارة دورة حياة الحالة، يمكن لأدوات إدارة الحالة في Microsoft Dynamics 365مساعدتهم خلال عملية الإدارة.      \n"
 abstract: >
   لنُلقِ نظرة على ما يلي:
 
@@ -28,8 +29,8 @@ abstract: >
 
   - تحديد الحالات التي من المفترض أن تُدمج فيها الحالات المشابهة
 
-  - التعامل مع انتقالات سبب حالة للمشكلة وتكوين انتقالات الحالة المخصصة
-prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365 Customer Service ومعرفة عملية بالسجلات الأساسية المتوفرة.
+  - العمل باستخدام انتقالات سبب الحالة لمشكلة ما، وتكوين انتقالات الحالة المخصّصة
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365 ومعرفة عملية بالسجلات الأساسية المتوفرة.
 iconUrl: /learn/achievements/get-started-with-cases-for-dynamics-365-customer-service.svg
 levels:
 - intermediate

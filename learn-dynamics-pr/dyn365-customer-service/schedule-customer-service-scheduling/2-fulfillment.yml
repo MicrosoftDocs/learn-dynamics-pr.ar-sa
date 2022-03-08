@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.schedule-customer-service-scheduling.2-fulfillment
-title: إعداد تفضيلات التنفيذ
+title: تكوين تفضيلات التنفيذ
 metadata:
-  title: إعداد تفضيلات التنفيذ
-  description: تعرف على كيفية إعداد تفضيلات التنفيذ
-  ms.date: 10/26/2021
+  title: تكوين تفضيلات التنفيذ
+  description: تعرف على كيفية تكوين تفضيلات التنفيذ
+  ms.date: 10/11/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: edf4293942053b7430679a2f27e8f4b18f4cf962
-  ms.sourcegitcommit: 02114ca1b6f2674d26e02c4aaf530f01246e1dc3
+  ms.openlocfilehash: 5388f9a125d4e254f11fe14aefc282c5497f09d0
+  ms.sourcegitcommit: 784ea0ea12d2d74af667d400d1909ee9d9de4ae0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2021
-  ms.locfileid: "7700503"
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7626730"
 durationInMinutes: 12
 content: >-
   [!include[](../includes/unit-banner.md)]

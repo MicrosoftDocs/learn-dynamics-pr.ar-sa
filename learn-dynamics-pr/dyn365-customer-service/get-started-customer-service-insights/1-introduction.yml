@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-customer-service-insights.1-introduction
-title: مقدمة حول Customer Service Insights
+title: مقدمة
 metadata:
-  title: مقدمة حول Customer Service Insights
+  title: مقدمة
   description: مقدمة للبدء في استخدام Customer Service Insights
-  ms.date: 10/22/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 07/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 83c14158eef011e462ad544819930ab04852c39c
-  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.openlocfilehash: 5fcb5a8285ff33a1133417b60f4a59c1e833ed3f
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/23/2021
-  ms.locfileid: "7675451"
-durationInMinutes: 7
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7336053"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

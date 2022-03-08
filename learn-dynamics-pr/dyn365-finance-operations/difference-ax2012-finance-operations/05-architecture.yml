@@ -4,15 +4,16 @@ title: اختلافات البنية التي تجب مراعاتها
 metadata:
   title: اختلافات البنية التي تجب مراعاتها
   description: اعرف المزيد عن اختلافات البنية التي تجب مراعاتها.
-  ms.date: 02/05/2021
+  ms.date: 02/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2aa94bd280fc4556991b7e46681ec575b091aab7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 6286f8eaa387d258101b6d93e2149bdcd77ca07a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334210"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072202"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-architecture.md)]"

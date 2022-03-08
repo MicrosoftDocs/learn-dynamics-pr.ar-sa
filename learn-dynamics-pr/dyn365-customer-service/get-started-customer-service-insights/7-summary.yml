@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص وحدة "الشروع في العمل باستخدام Customer Service Insights"
-  ms.date: 10/22/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 07/31/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a4161dfe2b9921eb07c77b72c7ca53fe21d2abce
-  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.openlocfilehash: 4552666976730ec8e18b42241c7c143e9b92f6ed
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/23/2021
-  ms.locfileid: "7675572"
-durationInMinutes: 3
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7347991"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

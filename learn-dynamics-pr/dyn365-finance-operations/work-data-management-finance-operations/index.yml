@@ -3,16 +3,17 @@ uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops
 metadata:
   title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
   description: يمكنك تصدير البيانات أو استيرادها في تطبيقات Finance and Operations باستخدام مساحة عمل إدارة البيانات. تحقق من صحة البيانات من خلال التشغيل المرحلي لبيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بيانات تطبيقات Finance and Operations.
-  ms.date: 06/14/2021
+  ms.date: 05/06/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3279ae0c3a8eeb0c268f1c4a883a6a8ff1e207ff
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 5e9b1664b7f9feb1d9b3cccb476194016250d70a
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335913"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072222"
 title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

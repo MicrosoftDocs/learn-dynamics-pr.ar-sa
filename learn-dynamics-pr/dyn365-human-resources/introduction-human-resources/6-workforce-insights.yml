@@ -8,11 +8,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 27bdf11221ad393950fbaf80b8f90eb612c5edea
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-human-resources
+  ms.openlocfilehash: 51e2b74910d8775d0245d35940b193027dd1589a
+  ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353604"
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "6072679"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-workforce-insights.md)]"

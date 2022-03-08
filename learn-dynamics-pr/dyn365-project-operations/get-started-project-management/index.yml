@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9a9be32109d3e4400317f539ee4b563180d44cd0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-dyn365-project-operations
+  ms.openlocfilehash: 0d976b9ee770a60e2bda6a295a57955981494d29
+  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339220"
+  ms.lasthandoff: 04/30/2021
+  ms.locfileid: "6072869"
 title: بدء استخدام إدارة المشاريع في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتساعدك أدوات إدارة المشاريع في Dynamics 365 Project Operations في تشغيل المشاريع. تساعد أدوات الجدولة مديري المشروعات والفرق في الحفاظ على إنتاجيتهم. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مراحل المشروع وتقويمات المشروع.\n- إنشاء خطة مشروع.\n- تقدير المشروع. \n- طلب موارد المشروع.\n- مراجعة الموارد.\n- تحديث مشروع.\n- تعقب عملية المشروع.\n- الموافقة على الوقت والمصروفات.\n"

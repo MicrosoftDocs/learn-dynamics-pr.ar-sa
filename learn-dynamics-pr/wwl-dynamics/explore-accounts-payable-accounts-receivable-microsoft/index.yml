@@ -3,17 +3,17 @@ uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-3
 metadata:
   title: استكشف الحسابات الدائنة والحسابات المقبوضة في Microsoft Dynamics 365 Finance
   description: استكشف الحسابات الدائنة والحسابات المقبوضة في Microsoft Dynamics 365 Finance
-  ms.date: 10/06/2021
+  ms.date: 07/15/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: ede555583e5902cdb28a505ef895b123d7155e0a
-  ms.sourcegitcommit: bd5135aefecffa020f588809d29180e2f7063569
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: db975bd7de914c283c3f5cd0b3479c93a49799d0
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/06/2021
-  ms.locfileid: "7606958"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7438712"
 title: استكشف الحسابات الدائنة والحسابات المقبوضة في Microsoft Dynamics 365 Finance
 summary: تستكشف هذه الوحدة النمطية إمكانات Microsoft Dynamics 365 Finance لإدارة العمليات المحاسبية التي ينطوي عليها الدفع للمورّدين أو الموزعين مقابل الخدمات المستلمة وتلقي المدفوعات مقابل البضائع أو الخدمات المقدمة.
 abstract: >

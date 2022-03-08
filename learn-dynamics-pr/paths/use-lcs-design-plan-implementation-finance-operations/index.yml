@@ -4,17 +4,17 @@ metadata:
   title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
   description: تُعد Lifecycle Services بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام.
   brand: dynamics
-  ms.date: 10/14/2021
+  ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 9a816e449efd7dfbb8f51fc2b0f32ca197ce4ffa
-  ms.sourcegitcommit: 8e137564e8e565fa9efe2a2114e2cfad69b1146f
+  ms.openlocfilehash: 97ca137877273b2e59bd8a7feaffad151a1dd080
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/15/2021
-  ms.locfileid: "7645852"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7327244"
 title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتُعد Lifecycle Services (LCS) بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام. \n"
 prerequisites: >
@@ -32,6 +32,5 @@ products:
 modules:
 - learn-dynamics.get-started-with-lcs
 - learn-dynamics.design-plan-implementation-in-f-and-o
-- learn-dynamics.dynamics-translation-service
 trophy:
   uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o.trophy

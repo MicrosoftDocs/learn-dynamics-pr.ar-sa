@@ -7,13 +7,14 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
+  ms.prod: learning-d365
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 80b21eec6dc89cf12100d310e22201b5d0f4a2f6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b2b11fb0f5625b5df2c40a08bed2ef5840d5d4a4
+  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7325595"
+  ms.lasthandoff: 06/11/2021
+  ms.locfileid: "6659338"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:

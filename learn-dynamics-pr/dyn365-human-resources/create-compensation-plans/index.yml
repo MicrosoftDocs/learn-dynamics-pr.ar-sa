@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: e1e5c155a82c3ea21ce976fb8a62d07c63294108127a5fc1db6e4c275ffdd97c
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: c48a62a992ec25b83b297a9c956ac459570495c5
+  ms.sourcegitcommit: df34fe229bb726628154d95627564ff46adf703a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7115498"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6656565"
 title: إنشاء خطط تعويض في Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nيساعدك Dynamics 365 Human Resources على توفير خطط تعويض تنافسية لموظفيك. تعرّف على كيفية تكوين خطط التعويض وإنشائها وتسجيل الموظفين ومعالجة خطط التعويض.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة التعويض في الموارد البشرية.\n- تعرّف على كيفية تكوين معلمات إدارة التعويض.\n- تعرّف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في الموارد البشرية .\n- تعرّف على كيفية إنشاء قواعد الأهلية لخطط التعويض.\n- تعرّف على كيفية تسجيل الموظفين في خطط التعويض.\n- تعرّف على كيفية معالجة خطط التعويض.\n"

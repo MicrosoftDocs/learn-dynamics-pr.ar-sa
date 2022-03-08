@@ -8,11 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e036fbb45e2a3b93b502cc878b4366f186e99eea
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 2ea00638111b5843420c1dad5b22cdcba2bc1a77
+  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7893224"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6677186"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-create-payment-invoices.md)]"

@@ -4,15 +4,16 @@ title: مجموعات أسعار البيع بالتجزئة
 metadata:
   title: مجموعات أسعار البيع بالتجزئة
   description: تعرف على مجموعات أسعار البيع بالتجزئة في Dynamics 365 Commerce.
-  ms.date: 04/22/2021
+  ms.date: 07/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 294ed398e3cdb1982e4d5ee4785ae40dd300dfad
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: d9c85716975b588cc9f74c8c375109d380f7d2e1
+  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7325674"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "6070384"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-retail-price-groups.md)]"

@@ -4,19 +4,17 @@ title: التعرف على كيفية استخدام جدولة خدمة الع�
 metadata:
   title: التعرف على كيفية استخدام جدولة خدمة العملاء
   description: التعرف على كيفية استخدام جدولة خدمة العملاء
-  ms.date: 09/24/2021
+  ms.date: 07/23/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 8994ad752adf5232c0b00677b0b1cdaba50788c4
-  ms.sourcegitcommit: 8a843c182dcfce868badd5df9d0ecd9b9b748c10
+  ms.openlocfilehash: f5b2e55399e0e9c8099e979d3a15ed9fe7479d34
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/24/2021
-  ms.locfileid: "7555581"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660646"
 azureSandbox: false
-sandbox: false
-labModal: false
 durationInMinutes: 10
 content: '[!include[](includes/3-learn-how-to-use-customer-service-scheduling.md)]'

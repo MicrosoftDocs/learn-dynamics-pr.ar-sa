@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8d16ab1e1a448e661154494e35fdbe0419c8e4c1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: a78756449f6dd7c73022d35327f8d1d951562fea
+  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349212"
+  ms.lasthandoff: 02/05/2021
+  ms.locfileid: "6072194"
 title: تصميم تطبيقات الأجهزة المحمولة وبناؤها لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nنعيش في عصر رقمي، ومن الصعب تخيل مرور اليوم بدون استخدام الأجهزة الذكية. يمكنك استخدام تطبيقات الأجهزة المحمولة كل يوم تقريباً في مشاركاتك الاجتماعية والخدمات المصرفية عبر الإنترنت وحجز الفنادق ورحلات الطيران وتأجير السيارات. مع مراعاة ذلك، يبدو أنه من الطبيعي أن تتمكن من استخدام تطبيقات Finance and Operations على جهازك الذكي. \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- تطبيق Microsoft Dynamics 365 Unified Operations للأجهزة المحمولة \n- حالات الاستخدام لتطبيقات الأجهزة المحمولة\n- كيفية بناء مساحات العمل والعمل معها\n"

@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c95f2d1840f6f2ad494072867ef300d6aaa1a6a6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 910e4208615a6b4ed7b154eeef6be3a3cc71d5fb
+  ms.sourcegitcommit: fad7e19f41ef8a36544e4479ca7dca6653d218d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361622"
+  ms.lasthandoff: 03/29/2021
+  ms.locfileid: "6070474"
 title: إنشاء الحركات في التجارة الإلكترونية في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nتمنح القنوات عبر الإنترنت في Dynamics 365 Commerce العملاء خيار شراء المنتجات من متجر تاجر التجزئة عبر الإنترنت من خلال موقع التجارة الإلكترونية.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء الأوامر في موقع التجارة الإلكترونية.\n- تعرف على كيفية استدعاء أوامر التجارة الإلكترونية في نقطة البيع (POS).\n"

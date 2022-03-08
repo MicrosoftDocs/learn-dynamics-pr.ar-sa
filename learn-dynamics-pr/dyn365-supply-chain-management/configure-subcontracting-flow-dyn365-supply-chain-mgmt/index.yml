@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2adae038614ac67da401b13014c3924daf0ed403
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 50333056a79fa02738336ef306f223e25eaa0f12
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359634"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6667517"
 title: تكوين التعاقد من الباطن المستند إلى النشاط وتكاليف تدفق الإنتاج في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتوفر وظيفة التعاقد من الباطن في Dynamics 365 Supply Chain Management رؤية المكونات التي يتم توفيرها للمقاول من الباطن وأيضاً، إذا لزم الأمر، رؤية القدرة الإنتاجية لدى المقاول من الباطن. بالإضافة إلى ذلك، يتيح العمل مع لوحات التخطيط والعمليات في كانبان للشركات اتخاذ قرارات سريعة ومستنيرة لإدارة اختلافات الطلبات بفعالية، خاصةً عند تحليل تكلفة تدفق الإنتاج في lean manufacturing.  \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين التعاقد من الباطن المستند إلى نشاط. \n- تعيين الموردين كمقاولين من الباطن.\n- تكوين تكاليف تدفق الإنتاج.\n"

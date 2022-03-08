@@ -4,15 +4,16 @@ title: تطوير الوحدات النمطية في التجارة الإلكت
 metadata:
   title: تطوير الوحدات النمطية في التجارة الإلكترونية
   description: تعرّف على كيفية إنشاء وحدة نمطية جديدة واستنساخ وحدة نمطية لمكتبة الوحدة النمطية في SDK للتجارة عبر الإنترنت في Dynamics 365 Commerce.
-  ms.date: 04/06/2021
+  ms.date: 09/04/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1ba552658741d48a2f450100dc8bd5cb08534652
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 64959a73f01cb6b08777b1543e89586202fb0ed0
+  ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366695"
+  ms.lasthandoff: 03/08/2021
+  ms.locfileid: "6070459"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/10-develop-module-e-commerce.md)]"

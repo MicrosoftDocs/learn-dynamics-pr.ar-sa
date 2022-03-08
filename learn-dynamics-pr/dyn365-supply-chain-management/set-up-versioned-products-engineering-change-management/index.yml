@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2c149054f3150d5c8a9c6680ca1738873f255514
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-finance-operations
+  ms.openlocfilehash: 2e365f011f6c9d6c7db173182ba346bc3caff90b
+  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333237"
+  ms.lasthandoff: 07/22/2021
+  ms.locfileid: "6668125"
 title: اعداد المنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتعد بيانات المنتج جزءاً مهماً من أي شركة تستخدم عمليات Supply Chain Management. باستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management، يمكن للمصنعين استخدام إدارة قوية للبيانات والتحكم في الإصدار.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"

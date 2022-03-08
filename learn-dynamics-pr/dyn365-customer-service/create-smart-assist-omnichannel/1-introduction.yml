@@ -4,15 +4,15 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة لإنشاء حل مساعدة ذكية للقناة متعددة الاتجاهات لـ Customer Service
-  ms.date: 09/29/2021
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 07/29/2020
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d3146ac9a94fe097a93c42618488d4c475ac8a44
-  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
+  ms.openlocfilehash: 8cc9fe8c3f58d0064899be3306ee69ba9c81ec62
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "7581736"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7331321"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

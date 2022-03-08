@@ -4,19 +4,17 @@ title: اعرض كيفية استخدام القناة متعددة الاتجا
 metadata:
   title: اعرض كيفية استخدام القناة متعددة الاتجاهات لـ Customer Service
   description: اعرض كيفية استخدام القناة متعددة الاتجاهات لـ Customer Service
-  ms.date: 09/24/2021
+  ms.date: 07/23/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: ec3c692d51c6700003fe83426f8faa6c5506f662
-  ms.sourcegitcommit: 8a843c182dcfce868badd5df9d0ecd9b9b748c10
+  ms.openlocfilehash: f149a180c8f8b0e3c82d53317bf1b11cf26ab9cd
+  ms.sourcegitcommit: a8104da3683a3849e99ffef9d2c48775d89ff8b0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/24/2021
-  ms.locfileid: "7555565"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "6660309"
 azureSandbox: false
-sandbox: false
-labModal: false
 durationInMinutes: 12
 content: '[!include[](includes/5-view-how-to-use-omnichannel-for.md)]'

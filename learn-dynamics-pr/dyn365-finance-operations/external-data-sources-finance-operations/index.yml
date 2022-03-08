@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9bc46ab44b6eca7ea8ed5ace42b4de9b000ad583
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 31ee19c4fade2b7ea9f21aa1da3b13bfa37543c2
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7338770"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6255165"
 title: إدارة مصادر البيانات مع مخازن البيانات الخارجية في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات Finance and Operations، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على المفاهيم الأساسية لإحضار قاعدة البيانات الخاصة بك (BYOD) ومزاياها مقارنةً بمخزن الكيانات. \n- إنشاء مصادر بيانات مخصصة وإدارتها.\n- تعرف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل \n"

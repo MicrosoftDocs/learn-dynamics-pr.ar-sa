@@ -3,16 +3,16 @@ uid: learn-dynamics.review-customer-voice-survey-reports.2-analyze-survey-result
 title: تحليل نتائج الاستطلاع
 metadata:
   title: تحليل نتائج الاستطلاع
-  description: حلل الاستطلاعات التي يتم إنشاؤها بشكل افتراضي عند إنشاء مشروع في Dynamics 365 Customer Voice.
+  description: حلل الاستطلاعات التي تم إنشاؤها بشكل افتراضي عند إنشاء مشروع في Dynamics 365 Customer Voice.
   ms.date: 12/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e5bd402e76ebbf547343b2824be7f44ef426a7f5
-  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
+  ms.openlocfilehash: 65b4a33982385b472bf72f6429d8724ebf7a8e0f
+  ms.sourcegitcommit: 810aeee6a4138abfb103072793bb397895d061ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945246"
+  ms.lasthandoff: 12/16/2021
+  ms.locfileid: "7923569"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-analyze-survey-results.md)]"

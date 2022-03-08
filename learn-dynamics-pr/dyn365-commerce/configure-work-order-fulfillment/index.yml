@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6402da4955b9a2331cdf8601b8250bc61c4018f8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-commerce
+  ms.openlocfilehash: 5e70d38beeff2a86740c0ea51ed76f777f707b75
+  ms.sourcegitcommit: 4ecdf5debbb9e9098084bff71834755f0976db57
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352028"
+  ms.lasthandoff: 04/21/2021
+  ms.locfileid: "6070498"
 title: التكوين والعمل مع تنفيذ الأوامر في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nفي الوقت الحالي، مع عمليات التجارة والنظام البيئي المتغير باستمرار، لا يعتبر السعر والمنتجات أهم العوامل لقرارات الشراء للعملاء. يهدف بائعو التجزئة إلى رحلة عميل تبرز من خلال المشاركة المخصصة والتفاعلات الخالية من الاحتكاكات والخبرات المتولدة عبر القناة متعددة الاتجاهات المتكاملة بشكل كامل.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف كيفية إعداد إدارة الأوامر الموزعة (DOM) ومعالجتها.\n- تعرف على تفاصيل القواعد وتكوين التكلفة والوساطة في الأوامر.\n- تعرف على تنفيذ أوامر المتجر وعمليات استلام أوامر العملاء.\n"

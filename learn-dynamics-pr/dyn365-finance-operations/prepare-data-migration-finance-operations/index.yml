@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a67d485dd86687daefc98a8c9a19d099ae719008
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: 7ce33b5b3e29bee6fb5369a3d3bbb06846a6842f
+  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347793"
+  ms.lasthandoff: 06/15/2021
+  ms.locfileid: "6257990"
 title: تحضير البيانات للترحيل إلى تطبيقات Finance and Operations
 summary: >
   [!include[](../includes/module-banner.md)]

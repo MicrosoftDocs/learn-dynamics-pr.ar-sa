@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: fca53dbf49b0b272589189b300b83532d11ead69
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365-finance-operations
+  ms.openlocfilehash: f227035fb1300d86351205d7248a45262d271d21
+  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352404"
+  ms.lasthandoff: 10/27/2020
+  ms.locfileid: "6074759"
 title: توسيع تطبيقات Finance and Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]
