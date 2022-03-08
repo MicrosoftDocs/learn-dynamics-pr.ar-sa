@@ -28,12 +28,13 @@
     }
   ],
   "notification_subscribers": [],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/learn-dynamics-pr",
-  "git_repository_branch_open_to_public_contributors": "master",
+  "git_repository_branch_open_to_public_contributors": "main",
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
@@ -42,7 +43,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.ar-SA",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -51,10 +52,11 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     }
   ],
+  "branch_target_mapping": {},
   "dependent_packages": [
     {
       "id": "Microsoft.OpenPublishing.CommonPlugins",
@@ -64,7 +66,6 @@
       "version": "latest"
     }
   ],
-  "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
   "docs_build_engine": {
     "name": "docfx_v3"
