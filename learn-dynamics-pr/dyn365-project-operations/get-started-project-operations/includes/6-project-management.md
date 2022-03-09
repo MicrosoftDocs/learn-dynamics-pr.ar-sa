@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aabb04d82cd08b904ccba7b83ae2fe763e4a9d1e
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 0bc21b1333b62ce46cadd84192ecbe4a8bb8b6de
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072894"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7325395"
 ---
 تساعدك أدوات إدارة المشاريع في Project Operations في تشغيل المشاريع. تساعد أدوات الجدولة مديري المشروعات والفرق في الحفاظ على إنتاجيتهم. تتضمن بعض المهام التي تساعد فيها الأدوات ما يلي:
 
@@ -78,4 +78,4 @@ ms.locfileid: "6072894"
     [![لقطة شاشة لعلامة تبويب مصروفات مشروع "تجديد المتجر وتغيير صورته".](../media/expense-estimates-ss.png)](../media/expense-estimates-ss.png#lightbox)
     
  
-معرفة المزيد حول إدارة المشروع في الوحدة النمطية [البدء في العمل باستخدام إدارة المشروع في Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-project-management//?azure-portal=true).
+معرفة المزيد حول إدارة المشروع في الوحدة النمطية [البدء في العمل باستخدام إدارة المشروع في Dynamics 365 Project Operations](/learn/modules/get-started-project-management/?azure-portal=true).

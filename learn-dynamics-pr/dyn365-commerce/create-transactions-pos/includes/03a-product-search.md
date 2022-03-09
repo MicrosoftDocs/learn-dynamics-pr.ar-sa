@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fbd96ab84e9b5f96b0c0eb7e8a926fd31ce19a48
-ms.sourcegitcommit: 53504b2fc81adbe92e066d0fe8d4c87fd533fe31
+ms.openlocfilehash: a2592e6976670a5ea541576ca9413f19778d25b4
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "6070517"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7354832"
 ---
 يسهل استخدام عمليات البحث عن المنتجات والعملاء مع نقطة البيع الحديثة (MPOS) ونقطة بيع المجموعة (CPOS). يمكن للموظفين البحث بسرعة عن المنتجات والعملاء لأن شريط البحث موجود دائماً في الجزء العلوي من نوافذ MPOS وCPOS.
 
@@ -55,4 +55,4 @@ ms.locfileid: "6070517"
 [ ![لقطة شاشة تعرض كيف يمكن استخدام البحث عن العملاء المدعوم بالمجموعة.](../media/search-all-stores-ss.png) ](../media/search-all-stores-ss.png#lightbox)
 
 > [!NOTE]
-> يجب إدخال ما لا يقل عن أربعة أحرف للبحث عن عميل عن بُعد لإرجاع النتائج. لمعرفة المزيد من المعلومات حول كيفية تمكين ميزة البحث المدعومة بالمجموعة، راجع [البحث عن المنتج والعميل في نقطة البيع](https://docs.microsoft.com/dynamics365/commerce/pos-search-improvements/?azure-portal=true).
+> يجب إدخال ما لا يقل عن أربعة أحرف للبحث عن عميل عن بُعد لإرجاع النتائج. لمعرفة المزيد من المعلومات حول كيفية تمكين ميزة البحث المدعومة بالمجموعة، راجع [البحث عن المنتج والعميل في نقطة البيع](/dynamics365/commerce/pos-search-improvements/?azure-portal=true).

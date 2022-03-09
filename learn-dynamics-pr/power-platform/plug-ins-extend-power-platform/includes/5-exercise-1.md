@@ -336,13 +336,13 @@ ms.locfileid: "7457561"
 
     > ![جزء التعليمة البرمجية المتكررة للأسلوب Execute يُظهر جزء Retrieve بتنسيق رقم الهاتف.](../media/retrieve-part.png)
 
-### <a name="task-3-format-phone-number-for-retrieve-multiple&quot;></a>المهمة الثالثة: تنسيق رقم الهاتف للاسترداد المتعدد
+### <a name="task-3-format-phone-number-for-retrieve-multiple"></a>المهمة الثالثة: تنسيق رقم الهاتف للاسترداد المتعدد
 
 1.  أضف جزء التعليمة البرمجية المتكررة التالي إلى داخل شرط `retrieve multiple`.
     سيتحقق جزء التعليمة البرمجية المتكررة هذا مما إذا كانت معلمات الإخراج تحتوي على BusinessEntityCollection وإذا كانت من نوع EntityCollection.
 
     ```c#
-    if (!(context.OutputParameters.Contains(&quot;BusinessEntityCollection") &&
+    if (!(context.OutputParameters.Contains("BusinessEntityCollection") &&
     context.OutputParameters["BusinessEntityCollection"] is
     EntityCollection))
     
