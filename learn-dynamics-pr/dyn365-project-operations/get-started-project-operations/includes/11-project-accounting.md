@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ebab0f618cdd5a587c45e190e54070af629adb70
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: d5ec5b0db3f8535e824bfd4038a0d091acc6397e
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329096"
 ---
 يقدم Project Operations حل عمل متصل مع القدرات المحاسبية للمشاريع العالمية للإدارة المالية في كل مرحلة من مراحل المشروع. وفي حين أن فريق المشروع يسجل الوقت والمصروفات والحركات الأخرى المرتبطة بالمشروع، يضمن محاسب المشروع أن يتم حساب هذه الحركات وتسجيلها بدقة في دفتر الأستاذ الفرعي للمشروع ودفتر الأستاذ العام.
 
@@ -106,4 +106,4 @@ ms.locfileid: "6072906"
 
 - يمكن التعرف على الإيرادات من خلال استخدام تقديرات إيرادات السعر الثابت، إما بطريقة **العقد المكتمل** أو الإيراد المستحق حسب **النسبة المئوية للاكتمال**.
 
-تعرف علي المزيد حول محاسبة المشروع في الوحدة النمطية [البدء في محاسبة المشروع Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-project-accounting/?azure-portal=true).
+تعرف علي المزيد حول محاسبة المشروع في الوحدة النمطية [البدء في محاسبة المشروع Dynamics 365 Project Operations](/learn/modules/get-started-project-accounting/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1a757dfe1231871523a722b3ed67b821b93d68c3
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: af199940bde27b360a669bce485c26377617955b41de9d0f722dd94bf4d4e69c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071723"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048216"
 ---
 يمثل سير العمل عملية تجارية. وهو يحدد كيفية تدفق المستندات، أو التنقل عبر النظام عن طريق عرض من يجب أن يقوم بإكمال مهمة أو اتخاذ قرار أو اعتماد مستند.
 

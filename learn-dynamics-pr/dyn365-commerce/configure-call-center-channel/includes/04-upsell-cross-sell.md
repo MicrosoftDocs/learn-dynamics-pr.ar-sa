@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0afaf87942444ba832df82535110d2f236a8abe9
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 4365657e91892c72241feff06e5217584ece031fdaef6b41f918878464e996fd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064833"
 ---
 يعني مصطلح *البيع المتلازم* بيع المنتجات بالإضافة إلى المنتج الحالي، سواء كانت مكملة أو مرتبطة. عادةً ما تكمل هذه المنتجات متعددة البيع المنتج الموجود في سلة التسوق. 
 

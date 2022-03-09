@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9a34f30401e70ca416b43892f61548a8b96fb217
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a4453de53372266bd24c9d8e743a4fc448d027330f3af4eaa22355df981fb27e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071359"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142208"
 ---
 
 لإضافة وظيفة جديدة إلى نموذج، تحتاج إلى إنشاء ملحق لهذا النموذج. من بين الأسباب العديدة التي تدفعك إلى توسيع النموذج، يمكنك إضافة عنصر تحكم جديد أو تمكين عنصر تحكم موجود أو تعطيله أو تغيير رؤية عنصر تحكم. على سبيل المثال، يمكنك إضافة **علامة تبويب سريعة** جديدة إلى نموذج **التفاصيل الرئيسية** أو إنشاء **علامة تبويب سريعة** غير مرئية. 

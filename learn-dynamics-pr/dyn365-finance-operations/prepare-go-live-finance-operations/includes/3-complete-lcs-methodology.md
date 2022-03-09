@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 24d8ef9a94f0ba07ed3259c06cd8b10131876c13
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a94323956fdabaafde3f53a7b0d55e656cd7ebd0
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071261"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7331121"
 ---
 بعد أن تستعد لبدء العرض المباشر، حان الوقت لنقل تطبيقات Finance and Operations إلى بيئة الإنتاج.
 
@@ -18,7 +18,7 @@ ms.locfileid: "6071261"
 
 لإكمال مرحلة في LCS، تحتاج أولاً إلى إكمال كل خطوة مطلوبة في تلك المرحلة. عند اكتمال جميع خطوات المرحلة، يمكنك إكمال المرحلة بأكملها. يمكنك دائماً إعادة فتح مرحلة لاحقاً إذا كنت بحاجة إلى إجراء التغييرات. 
 
-إذا كنت بحاجة إلى مزيد من المساعدة، ارجع إلى [Lifecycle Services لعملاء تطبيقات Finance and Operations](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/lcs-works-lcs/?azure-portal=true). 
+إذا كنت بحاجة إلى مزيد من المساعدة، ارجع إلى [Lifecycle Services لعملاء تطبيقات Finance and Operations](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/lcs-works-lcs/?azure-portal=true). 
 
 تتكون عملية إكمال الخطوة من جزأين:
 

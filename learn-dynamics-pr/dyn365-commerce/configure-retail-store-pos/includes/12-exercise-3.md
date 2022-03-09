@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6a043e61e58083c9e949bfe74a9123700a921b56
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: d81844618e60754cf63a086b7c0158bf8fb446ed205c5774f73943a0181760ca
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070128"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144245"
 ---
 أنت مسؤول النظام في مؤسستك، وبعد إنشاء سجل جديد وجهاز جديد لمتجر **هيوستن‬‏‫** في التدريب السابق، يجب تنشيط الوحدة الطرفية لنقطة البيع للعامل **000001**. 
 

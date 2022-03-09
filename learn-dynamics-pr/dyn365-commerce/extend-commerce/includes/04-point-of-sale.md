@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 231d0daef7d922832660defc534245b28223085c
-ms.sourcegitcommit: ad358034a3371aed45c7d4883e01645b232fa589
+ms.openlocfilehash: b8ef6e113897e958946b93b07ba40a9bb8c793ce
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "6070426"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7328416"
 ---
 يمكن توسيع واجهة مستخدم نقطة البيع (POS) ومنطق الأعمال لإضافة وظائف مخصصة. 
 
@@ -27,7 +27,7 @@ ms.locfileid: "6070426"
 
 [ ![لقطة شاشة Dynamics 365 Commerce لصفحة المنتجات.](../media/custom-control-3-ssm.jpg)](../media/custom-control-3-ssm.jpg#lightbox)
 
-ليست كل طرق عرض نقاط البيع قابلة للتوسعة. لمزيد من المعلومات، راجع [توسيع طرق عرض نقاط البيع لإضافة أعمدة مخصصة وأزرار شريط التطبيق](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-view-extension/?azure-portal=true). 
+ليست كل طرق عرض نقاط البيع قابلة للتوسعة. لمزيد من المعلومات، راجع [توسيع طرق عرض نقاط البيع لإضافة أعمدة مخصصة وأزرار شريط التطبيق](/dynamics365/commerce/dev-itpro/pos-view-extension/?azure-portal=true). 
 
 على سبيل المثال، إذا احتوت طريقة عرض نقطة البيع على شبكة، فيمكنك إضافة عمود مخصص فيها، ولكن لا يمكنك إضافة عنصر تحكم مخصص. لا يمكن إضافة عناصر التحكم في طرق العرض التي تحتوي على شبكة. في طرق عرض POS UI الخاصة بإدارة خارج النطاق (OOB)، لا يمكنك إخفاء عناصر التحكم أو الأزرار، يمكنك فقط إضافة عناصر تحكم أو أزرار مخصصة جديدة.
 
@@ -54,22 +54,22 @@ ms.locfileid: "6070426"
 
 بالنسبة لسيناريوهات تمديد نقاط البيع ونماذج لواجهة المستخدم، حدد الروابط التالية:
 
--  [إضافة أعمدة مخصصة إلى شبكة معاملات نقطة البيع (POS)](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-custom-transaction-column/?azure-portal=true)
+-  [إضافة أعمدة مخصصة إلى شبكة معاملات نقطة البيع (POS)](/dynamics365/commerce/dev-itpro/pos-custom-transaction-column/?azure-portal=true)
 
--  [توسيع طرق عرض نقاط البيع لإضافة أعمدة مخصصة وأزرار شريط التطبيق](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-view-extension/?azure-portal=true) - بالنسبة إلى طرق العرض القائمة على مصمم تخطيط غير الشاشة. 
+-  [توسيع طرق عرض نقاط البيع لإضافة أعمدة مخصصة وأزرار شريط التطبيق](/dynamics365/commerce/dev-itpro/pos-view-extension/?azure-portal=true) - بالنسبة إلى طرق العرض القائمة على مصمم تخطيط غير الشاشة. 
 
--  [إضافة عناصر تحكم مخصصة إلى عروض نقاط البيع]( https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-custom-control/?azure-portal=true)   
+-  [إضافة عناصر تحكم مخصصة إلى عروض نقاط البيع]( /dynamics365/commerce/dev-itpro/pos-custom-control/?azure-portal=true)   
 
 
 ### <a name="workflow"></a>سير العمل
 
 بالنسبة لسيناريوهات تمديد نقاط البيع ونماذج لسير العمل، حدد الارتباطات التالية:
 
--  [مشغلات نقاط البيع]( https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-trigger-printing/?azure-portal=true) - لإضافة المشغلات السابقة واللاحقة في عمليات نقاط البيع. 
+-  [مشغلات نقاط البيع]( /dynamics365/commerce/dev-itpro/pos-trigger-printing/?azure-portal=true) - لإضافة المشغلات السابقة واللاحقة في عمليات نقاط البيع. 
 
--  [واجهات برمجة تطبيقات نقاط البيع (POS)](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-apis/?azure-portal=true) - للتعرف على كيفية استهلاك واجهات برمجة تطبيقات نقاط البيع في سيناريوهات الإضافات.
+-  [واجهات برمجة تطبيقات نقاط البيع (POS)](/dynamics365/commerce/dev-itpro/pos-apis/?azure-portal=true) - للتعرف على كيفية استهلاك واجهات برمجة تطبيقات نقاط البيع في سيناريوهات الإضافات.
 
--  [تجاوز معالج طلب نقاط البيع](https://docs.microsoft.com/dynamics365/commerce/dev-itpro/pos-handler/?azure-portal=true) - لمعرفة كيفية تجاوز منطق عمل نقاط البيع. 
+-  [تجاوز معالج طلب نقاط البيع](/dynamics365/commerce/dev-itpro/pos-handler/?azure-portal=true) - لمعرفة كيفية تجاوز منطق عمل نقاط البيع. 
 
 
 

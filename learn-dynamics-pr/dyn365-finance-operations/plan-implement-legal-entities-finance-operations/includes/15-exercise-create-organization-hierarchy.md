@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a68b4d6f400efdfaf3f387300b6e7ae112a97bc
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 390cee95adf51de9e1b102e70ce3e51b129fa2e738953b4f5b9877a848c66b5a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071514"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115840"
 ---
 ## <a name="scenario"></a>السيناريو
 يمكنك استخدام التسلسلات الهرمية التنظيمية لعرض الأعمال والإبلاغ عنها من المناظير المتنوعة. على سبيل المثال، يمكنك إعداد تدرج هرمي واحد لتقرير ضريبي أو قانوني أو تشريعي.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0361ac1916e795b38347bf59a456422129f8f906
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: bc172d5330372fe3f5bc3d5d530fab50f82fba8fca3a93027c6d99703e5a8209
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125497"
 ---
 يمكنك استخدام أساليب مختلفة لمعالجة الدُفعات باستخدام خوارزميات المعالجة المتوازية. يستخدم المطورون عادةً ثلاثة أنواع مختلفة من المعالجة المتوازية في تصميماتهم:
 

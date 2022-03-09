@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 127833dc7d08483cbe92966cd27b22ca8cb7b918
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 7d64b59d5e014afccb8ab00efbb51f3ce9e609853a01fe3c782cc17ed468169b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071898"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120411"
 ---
 تحتوي مشاريع تطبيقات Finance and Operations في Visual Studio على كود X++ يتفاعل بسلاسة مع التعليمات البرمجية المكتوبة بلغات .NET الأخرى.
 

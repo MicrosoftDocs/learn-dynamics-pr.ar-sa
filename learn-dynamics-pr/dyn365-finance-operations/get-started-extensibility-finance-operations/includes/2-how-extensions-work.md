@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 72f89d831f266539fb19dfec377b40ce68dbe9a7
-ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+ms.openlocfilehash: a4d779dff0e4092192fe270a77c69190d93176b1f1d32e9e1edcff89f5a096bb
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "6072543"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120498"
 ---
 
 يمكنك تخصيص تطبيق ما باستخدام الملحقات. يُمكّنك الملحق من إضافة وظائف إلى عناصر النموذج الحالية ورمز المصدر. مع الملحقات، يمكنك:

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 06be8fbbd1b159ce913f3b6b0c5dac552e92e26c
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: bb30ac081e4c8aba05bdd766463c1f8a6d11b6d4
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071495"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7361989"
 ---
-يعتمد كل من BYOD ومخزن الكيانات على إنشاء وإدارة الكيانات المخصصة ومصادر البيانات لتوفير البيانات الصحيحة لاحتياجات الإبلاغ أو التحليل الخاصة بمؤسستك. لمعرفه المزيد حول تكوين كيانات البيانات وإنشائها، انتقل إلى [إنشاء كيانات البيانات واستهلاكها](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/build-consuming-data-entities/?azure-portal=true). 
+يعتمد كل من BYOD ومخزن الكيانات على إنشاء وإدارة الكيانات المخصصة ومصادر البيانات لتوفير البيانات الصحيحة لاحتياجات الإبلاغ أو التحليل الخاصة بمؤسستك. لمعرفه المزيد حول تكوين كيانات البيانات وإنشائها، انتقل إلى [إنشاء كيانات البيانات واستهلاكها](/dynamics365/fin-ops-core/dev-itpro/data-entities/build-consuming-data-entities/?azure-portal=true). 
 
 عندما تقوم بإنشاء كيان بيانات بمصادر بياناتك المخصصة، يمكنك حينئذٍ إدارتها في مساحة عمل **إدارة البيانات** في تطبيقات Finance and Operations.
 
@@ -37,4 +37,4 @@ ms.locfileid: "6071495"
 -   لا يمكن لـ BYOD تصدير الكيانات المركبة إلى قاعدة البيانات الخاصة بك.
 -   لا يمكن تصدير الكيانات التي لا تحتوي على مفاتيح فريدة باستخدام الدفع التزايدي.
 
-لمزيد من المعلومات حول BYOD، انتقل إلى [إحضار قاعدة بياناتك الخاصة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/export-entities-to-your-own-database/?azure-portal=true).
+لمزيد من المعلومات حول BYOD، انتقل إلى [إحضار قاعدة بياناتك الخاصة](/dynamics365/fin-ops-core/dev-itpro/analytics/export-entities-to-your-own-database/?azure-portal=true).

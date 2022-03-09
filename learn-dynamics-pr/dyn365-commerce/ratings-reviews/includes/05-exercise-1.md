@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c0b9aa65b000227341e71400f3fec1a8d3b9b5f8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f2ddbbe243d75ba4cc08573c2023ba82daa8c124f1a3103823ffe5f5d8eac776
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070168"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7070248"
 ---
 لأداء التمارين في هذه الوحدة، يجب عليك استخدام البيانات التجريبية للكيان القانوني USRT والوصول إلى منشئ موقع التجارة الإلكترونية من خلال LCS. 
 

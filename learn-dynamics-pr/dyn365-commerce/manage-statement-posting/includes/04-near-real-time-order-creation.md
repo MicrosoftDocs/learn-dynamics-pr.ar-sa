@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7f11f3fcc10e53773eb0e7b82e1fea1fab1635d5
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 785f6f5ba588296a19b36e2150b03006cab86f3f26a1094724433f5fd1dc9a08
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070206"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7088167"
 ---
 يمكنك ضبط تكرار تحميل المعاملة (الوظيفة P) من القنوات بشكل متكرر بحيث تظهر الحركات من القنوات في الوقت الحقيقي تقريباً. ومع ذلك، عندما تكون الحركات في Commerce Headquarters‏ (HQ)، لن يتحقق المخزون والبيانات المالية. قد تحدث مشكلات أيضاً في البيانات التي لم يتم تحديدها بعد.
 

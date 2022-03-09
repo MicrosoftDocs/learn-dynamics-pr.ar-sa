@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e21df68bbfd96500f8d32d2000dc8c96ae5dad5b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a10929f9de448cdf81bacb0611b5501296b5707048e4627f16e9874a28fa4f8b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6072006"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125438"
 ---
 يتم استخدام الجداول عند تطوير النماذج في Visual Studio، وهي تظهر للمستخدم كصفحات في تطبيقات Finance and Operations. 
 

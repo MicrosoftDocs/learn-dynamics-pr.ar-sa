@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a71d0c291f4549f92783799c26846d0f9c73d18c
-ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+ms.openlocfilehash: 82defbb0a38d99aef9a3284d8b201e442b0ef9cab9ea014f7cfffec801929198
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "6072835"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068084"
 ---
 تمثل قوائم الأسعار في Project Operations كتالوج أسعار. وتشير الأسعار إلى أسعار التكلفة والمبيعات والفواتير. 
 ## <a name="create-cost-rates-and-sales-rates"></a>إنشاء أسعار التكلفة وأسعار المبيعات

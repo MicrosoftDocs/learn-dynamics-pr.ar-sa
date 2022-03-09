@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3da941ddf90f0543063f398b9cdef7aca7d71fce
-ms.sourcegitcommit: 606a7a063fe820fd318a57c61cae555d91de8c51
+ms.openlocfilehash: a20a98d4c495626ef80937fb7f41b192535b152193be78cef5a5b217df7d7953
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "6070412"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144361"
 ---
 تعتبر مجموعة بيانات التكوين الافتراضية مطلوبة لكل عمليات التنفيذ كنقطه بداية. بدلاً من إعادة إنشاء هذه البيانات يدويا، يمكنك بدء البيانات الأولية في **البيع بالتجزئة وCommerce > إعداد المراكز الرئيسية > المعلمات > معلمات Commerce > عام**. عند تحديد الزر **تهيئة**، سيقوم الحل Commerce بتشغيل برنامج نصي يقوم بملء أي بيانات موجودة واستبدالها والتي قد يتم تكوينها في مجموعة من الجداول.  
 

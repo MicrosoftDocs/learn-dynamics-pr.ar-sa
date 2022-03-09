@@ -1,17 +1,17 @@
 ---
-ms.openlocfilehash: 0e59d3c2b3fa3ca6fef7ad0088b4080ffb8a045d
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 95f997f7341a18bd80b5a834f6e5502220f52183
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072678"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7357877"
 ---
 يتكامل Dynamics 365 Human Resources مع Microsoft 365 وغيرها من أنظمة الموارد البشرية الأكثر استخداماً، بما في ذلك كشوف المرتبات وإدارة المواهب والتوظيف وLinkedIn لمركزة برامج الموارد البشرية الخاصة بك.
 
 > [!div class="mx-imgBorder"]
 > [![رسم توضيحي للنظام الأساسي لـ Dynamics 365.](../media/platform-c.png)](../media/platform-c.png#lightbox)
 
-## <a name="create-solutions-with-power-platform"></a>إنشاء حلول باستخدام Power Platform
+## <a name="create-solutions-with-microsoft-power-platform"></a>إنشاء حلول باستخدام Microsoft Power Platform
 
 باستخدام Microsoft Power Platform، يمكنك إنشاء حلول باستخدام الموارد البشرية ومن أجلها لتلبية الاحتياجات الفريدة لمؤسستك.
 
@@ -35,4 +35,4 @@ ms.locfileid: "6072678"
 > [!div class="mx-imgBorder"]
 > [![مثال على تطبيقات شركاء Microsoft AppSource للموارد البشرية](../media/partner-apps-ss.png)](../media/partner-apps-ss.png#lightbox)
 
-لمزيد من المعلومات، راجع [اختيار تقنية تكامل البيانات](https://docs.microsoft.com/dynamics365/human-resources/hr-admin-integration-choose-technology/?azure-portal=true).
+لمزيد من المعلومات، راجع [اختيار تقنية تكامل البيانات](/dynamics365/human-resources/hr-admin-integration-choose-technology/?azure-portal=true).

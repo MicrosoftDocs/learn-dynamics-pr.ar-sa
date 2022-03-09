@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 892c2b7eb3d0f1616b0d92a947258bae8428e745
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 99e38b591a068b0a3353aeb8535923da4706f2060d536efa18facbed83bc5aaf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071784"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059342"
 ---
 
 توفّر تطبيقات Finance and Operations العديد من الأدوات التي يمكنك استخدامها لاختبار تخصيصات أو ترقيات الكود الجديد. كمطور، من المهم أن تستخدم أطر عمل الاختبار عند تصميم التغييرات على قاعدة الكود. وعدم القيام بذلك يقدم مستوى من المخاطر في كل مرة يتم فيها استخدام النظام الجديد.

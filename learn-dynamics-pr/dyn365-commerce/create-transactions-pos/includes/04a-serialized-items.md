@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df30d98df5e3cc38c677fb7e0d021965220d7a46
-ms.sourcegitcommit: 977539219691830a564399fa637ced040d24475e
+ms.openlocfilehash: a3f162ebf3a65361cfb975e51add4b088245720a1b9f2b4768bf5026a76fb26d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "6070507"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7122024"
 ---
 يبيع العديد من تجار التجزئة المنتجات التي تحتاج إلى تسلسل. وتسمى هذه المنتجات بالأصناف المتسلسلة. لأغراض تعقب المخزون، قد يرغب بعض تجار التجزئة في الاحتفاظ بالأرقام التسلسلية في مخزون المتجر أو المستودع. لأغراض الخدمة والضمان، قد يرغب تجار التجزئة الآخرون في الحصول على الأرقام التسلسلية خلال عملية المبيعات. 
 

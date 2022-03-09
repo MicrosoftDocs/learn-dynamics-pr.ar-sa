@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 92f923010e293868adfb4ea7886c68b0e507955f
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f3fca71d858dc336004404beb0ff2902e8f640829bf61cc4833c30e18a13a5d2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071469"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058873"
 ---
 لاختبار حل العميل وتقييمه قبل العرض المباشر، يجب أن تكون لديك بيئة من تطبيقات Finance and Operations، مع جميع التكوينات والتخصيصات المحتملة من خلال الملحقات.
 

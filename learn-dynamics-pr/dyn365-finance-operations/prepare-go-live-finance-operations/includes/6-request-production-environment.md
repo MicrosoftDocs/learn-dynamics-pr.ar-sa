@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8eea38d29aaf9f1cb733ecfbdbe5c758451136f9
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 8d286909052c27cce2501cb108963fdef271a5d572de7f7dc20c299f713df6e3
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071256"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130417"
 ---
 بعد الانتهاء من مراحل التحليل والتصميم والتطوير والاختبار في منهج LCS، خَلُص تقييم الانتقال المباشر بالتأكد من جاهزية المشروع، ومن ثم يمكنك طلب بيئة الإنتاج الخاصة بك.
 

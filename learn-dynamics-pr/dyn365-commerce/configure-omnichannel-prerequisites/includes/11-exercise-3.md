@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e127639ffe73cda3b0f799fcf340f71c80e6fa12
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 9c39f271371fc11a66b7b376040c89427a88e4eeccdf3a4c3c95f725b57ff20f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070343"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7060747"
 ---
 في هذا التدريب، ستقوم بتمكين المتجر **000017** لبدء قبول بطاقات الهدايا كطريقة صالحة للدفع.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a48387713a385244be3a03b90ad04a8f9a290bce
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 3c6af49af6c06375cbd6dc107bc9924092605a598dbc041a3cc3a79746c03da5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071652"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130458"
 ---
 توضح هذه الوحدة كيفية تحديد سيناريوهات الترحيل العامة واستيراد البيانات الثابتة المشتركة بين الصناعات. لقد تعرفت على بعض الأدوات في تطبيقات Finance and Operations، مثل إدارة البيانات وميزة BYOD.
 

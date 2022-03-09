@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 09fad0157984652549b9fbe8cc6ae7c7514876a9
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 4fcb81121567c08dd2f71d4bb0417fb983db70f1
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071174"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7353662"
 ---
 ## <a name="local-tax-requirements"></a>متطلبات الضريبة المحلية
 
@@ -20,7 +20,7 @@ ms.locfileid: "6071174"
 
 ## <a name="statutory-reporting-for-a-countryregion"></a>إعداد التقارير التشريعية لبلد/ منطقة
 
-**إذا تم تصميم المؤسسة ككيان قانوني** -بالنسبة للبلدان /المناطق التي تدعمها تطبيقات Finance and Operations، فإنه يمكن إنشاء معظم التقارير التشريعية. للحصول على معلومات حول التقارير المتوفرة لكل بلد/ منطقة، راجع [موارد العولمة](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/lcs-solutions/country-region/?azure-portal=true). في تطبيقات Finance and Operations، تسمح لك طبقة الترحيل في دفتر الأستاذ العام بإجراء تعديلات على إدخالات الشركة الأصل التي تستخدم معيار محاسبة مختلفاً عن الشركة التابعة. 
+**إذا تم تصميم المؤسسة ككيان قانوني** -بالنسبة للبلدان /المناطق التي تدعمها تطبيقات Finance and Operations، فإنه يمكن إنشاء معظم التقارير التشريعية. للحصول على معلومات حول التقارير المتوفرة لكل بلد/ منطقة، راجع [موارد العولمة](/dynamics365/fin-ops-core/dev-itpro/lcs-solutions/country-region/?azure-portal=true). في تطبيقات Finance and Operations، تسمح لك طبقة الترحيل في دفتر الأستاذ العام بإجراء تعديلات على إدخالات الشركة الأصل التي تستخدم معيار محاسبة مختلفاً عن الشركة التابعة. 
 
 على سبيل المثال، بالنسبة لشركة تستخدم ممارسات محاسبية مقبولة عموماً في المملكة المتحدة (UK GAAP)، يمكنك إجراء تعديلات على الإدخالات في طبقة الترحيل. يمكن دمج هذه الإدخالات في شركة أصل تستخدم مبادئ المحاسبة المقبولة عموماً (GAAP) في الولايات المتحدة. لا تؤثر الإدخالات التعديلية على إعداد تقارير مبادئ المحاسبة المقبولة عموماً في المملكة المتحدة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0a64f954619606d8d1f89dc81d88f2743ef25e86
-ms.sourcegitcommit: 9134765f329ce8893f21b7a57a08277d75913363
+ms.openlocfilehash: 5aa63e1e2ef9870158b6a084ef892c98c3d46473fa765d5cb1497dbd2f2d4918
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "6072507"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053558"
 ---
 عندما ترغب في إنشاء نفس الوظائف لكيانات قانونية مختلفة، يمكنك استخدام وظيفة **نسخ الوظيفة الدفعية** لنسخ وظيفة دفعية موجودة ومهام الدُفعات، بما في ذلك التكرارات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8b0240ca5a3e03ed6709adb20a5e66f665d85083
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: e49e2614606d9fbbafb12b4606cbd98a5a48717684696a37754a5b1ee80f4d3b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071181"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7053612"
 ---
 
 تساعدك هذه الوحدة في فهم التدرجات الهرمية للمؤسسة ووحدات التشغيل، وكيفية استخدامها.

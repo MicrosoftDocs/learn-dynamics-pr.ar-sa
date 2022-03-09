@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e21bc4e7f464136df9304379a330b3dee526ecf0
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: 976f811b399f3f46bb053e6c18e338b2e11686f1bd0538b61b08b15d6a50b3ee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072456"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075132"
 ---
 للمساعدة على تحسين تجربة العميل، يجب أن تكون لدى تجار البيع بالتجزئة رؤية واضحة لمخزونهم في الوقت الحقيقي، وعبر جميع قنواتهم. فبإمكان طريقة عرض واحدة وشاملة للمخزون بكامله أن تساعد على تنفيذ الأوامر وتخصيصها وتوزيعها، وبالتالي، أصبح اعتماد نظام إدارة الأوامر الموزعة (DOM) وتنفيذه أمراً ضرورياً لبائعي التجزئة.
 

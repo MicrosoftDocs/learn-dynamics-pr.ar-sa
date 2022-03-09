@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d3be557f2e72102dede7348f3ef61db5a7eef59d
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: adc4b7979481f00db5e8073709411177ea37aee854cfaf9d3a025c8d84175bdc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071746"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082894"
 ---
 قبل أن تستمر في التعرف على إدارة الأصول، من المهم أن تفهم المصطلحات والمفاهيم الأساسية المستخدمة عند العمل مع إدارة الأصول.
 

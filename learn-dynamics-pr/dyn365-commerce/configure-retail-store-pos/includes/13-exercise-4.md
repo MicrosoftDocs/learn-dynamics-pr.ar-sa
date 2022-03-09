@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7717e965de206f08595358fd7c70f5610edf5963
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f5a26a7a67253ae95d7c80ba54c8609353cf41493813dec941ec5b87294d99ff
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070125"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131923"
 ---
 أنت مسؤول النظام في مؤسستك وتحتاج إلى إنشاء منصب جديد لوظيفة **مدير المتجر‬‏‫** وتعيين أذونات نقاط البيع لهذا المنصب. 
 

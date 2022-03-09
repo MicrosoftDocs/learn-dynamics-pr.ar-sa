@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 668e689ab72f904b618e93a38956992829cfded1
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: 176b9573f15d04109638f73deaf9a6d42b2c53521256c5ace5949c2c51876739
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072819"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114745"
 ---
 تشبه صفحة **طلب السفر** صفحة **‏‏تقرير المصروفات**. 
 

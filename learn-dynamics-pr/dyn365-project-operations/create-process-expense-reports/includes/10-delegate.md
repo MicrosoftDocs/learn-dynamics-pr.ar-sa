@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 153bfdc136a50f378144200c9926829f90e30a5e
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: 84fbb8ef963d274b8261cc6a2c3b3c79cdbdcbca1eba340a1323876261b8be33
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072814"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7140807"
 ---
 في بعض الأحيان، قد يحتاج الموافق إلى تفويض المهام الخاصة به إلى مستخدم آخر. وقد تكون الأسباب المحتملة لتفويض المهام هو أن الموافق سيكون في إجازة ويحتاج إلى إعداد تفويض لفترة زمنية، أو عندما يوجد لدى موافق آخر معرفة أكثر حول تفاصيل تقرير المصروفات وهناك حاجة إلى التفويض لمرة واحدة. وعلى أي حال، يجب أن يكون لدى الموافق المفوض حقوق الأمان القابلة للتطبيق للموافقة على المصروفات.
 

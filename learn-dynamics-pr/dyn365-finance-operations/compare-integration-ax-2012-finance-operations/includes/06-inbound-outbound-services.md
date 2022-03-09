@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 979dc0d75f2dc68082a561160136b9f4ded6fed0
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 1fd846aa4fe9027316e444ebb311c52b2ea5c4e9
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072451"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7350652"
 ---
 تصف الأقسام الآتية الاختلافات بين الخدمات الواردة والصادرة.
 
@@ -41,7 +41,7 @@ ms.locfileid: "6072451"
 
 عند تحديد واجهة برمجة تطبيقات (API) التكامل، سيكون لديك العديد من التقديرات. ويمكن أن تساعدك بعض نقاط القرار الخاصة بـ DMF وعمليات التكامل المتكررة على اختيار سيناريو تكامل التنفيذ.
 
-للحصول على مزيد من المعلومات، راجع [تنفيذ واجهة برامج تطبيقات حزمة إدارة البيانات للتطبيقات Finance and Operations]( https://docs.microsoft.com/learn/modules/data-package-api-finance-operations/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [تنفيذ واجهة برامج تطبيقات حزمة إدارة البيانات للتطبيقات Finance and Operations](/learn/modules/data-package-api-finance-operations/?azure-portal=true).
 
 ## <a name="outbound-calls"></a>المكالمات الصادرة
 لإجراء مكالمات صادرة، يمكنك استخدام أحداث الأعمال أو مكالمات الخدمة المخصصة من مكتبة من فئة NET. أو  X + +‎، كما فعلت في Dynamics AX‏ 2012. إذا استخدمت مكتبة فئة NET. أو X + +‎، فلن يكون لديك فئات مساعد AIF بعد ذلك. 
@@ -56,6 +56,6 @@ ms.locfileid: "6072451"
     - يُعد إعداد DMZ للشبكة أحد الخيارات.
     - حاول استخدام وكيل التطبيق Azure AD / بوابة البيانات الداخلية، والتي لا تتطلب الاتصال الوارد.
 
-للحصول على مزيد من المعلومات، راجع [استخدام خدمات الويب الخارجية](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/consume-external-web-service/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [استخدام خدمات الويب الخارجية](/dynamics365/fin-ops-core/dev-itpro/data-entities/consume-external-web-service/?azure-portal=true).
 
 

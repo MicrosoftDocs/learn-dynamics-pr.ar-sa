@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 07ed49b3bcb1b28e2fd9c28c66df112e5be5d385
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6dfc886d088045bfb5a5799ac96d0a0dcb7ed0e1
+ms.sourcegitcommit: 5f570b8544c846adc3ac04217d6d0bd72a9e1a54
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071820"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "7862426"
 ---
 في هذه الوحدة النمطية، تعلمت كيفية الانتقال في تطبيقات Finance and Operations.
 
@@ -15,3 +15,5 @@ ms.locfileid: "6071820"
 - تقنيات البحث عن البيانات وتصفيتها.
 - طرق عرض وميزات واجهه المستخدم (UI)، مثل ميزات مساحة العمل، وأوضاع العرض والتحرير.
 - أوضاع مختلفة لعرض الصفحات: الشبكة والتفاصيل والسطر والرأس.
+
+لتحقيق رؤية Microsoft المتمثلة في تمكين كل شخص وكل مؤسسة على هذا الكوكب لتحقيق المزيد، تدعم تطبيقات Finance and Operations إرشادات إمكانية الوصول إلى محتوى الويب (WCAG) 2.1، أحدث توصيات إمكانية الوصول من اتحاد شبكة الويب العالمية (W3C)، بدءاً من الإصدار 10.0.21.

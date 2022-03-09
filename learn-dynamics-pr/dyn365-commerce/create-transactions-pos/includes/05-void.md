@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: de34fb54390faa563ac3a5bca6be7f756594d7b3
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 986c04275cc080f16347a2feb93e2c363a1624bc225522d46e8f291e6ad25296
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070289"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126915"
 ---
 من حين لآخر، يحدث سيناريو حيث يلزم إزالة (إلغاء) حركة غير مكتملة من نقطة البيع. يمكن أن تكون هذه الحركات في منتصف الحركة أو في حالة تعليق من تفاعل سابق مع العميل. 
 

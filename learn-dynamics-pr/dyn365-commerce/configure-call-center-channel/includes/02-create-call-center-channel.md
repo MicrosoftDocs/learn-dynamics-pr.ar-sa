@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3cf4e9233cee2354b86f870266745378aebeee3d
-ms.sourcegitcommit: 9627da72449ad33632dc3fb2143433c486496aaf
+ms.openlocfilehash: e9a29e9ba87c337092825d8b2c06d3bf183e6e96173653c9f8a95da342519b29
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "6070410"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7101670"
 ---
 شاهد الفيديو التالي للتعرف على كيفية:
 

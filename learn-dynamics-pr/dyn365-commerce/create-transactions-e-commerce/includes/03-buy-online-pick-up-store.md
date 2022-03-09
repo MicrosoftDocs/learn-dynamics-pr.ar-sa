@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74e4aad91fee9bd5e8e9a4a5c8f242a3acff9603
-ms.sourcegitcommit: 4ce9caef7d38158f172e82412bc70ae36883e42f
+ms.openlocfilehash: 1f9954f4e6865417dee72e9fd6f926463124ae5e23a2a7553c69d0239c27fadc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "6070424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131871"
 ---
 يجب تطبيق بعض المتطلبات الأساسية لتتمكن من الشراء عبر الإنترنت والاستلام في المتجر (BOPIS):
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f900dd0c93bdca9341aa019d54981e1241d3cb95
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 10be003167ea2378e5c9ce43c06374005ce33e7127b5c544addb51c07b718a7a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070361"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144387"
 ---
 مركز الاتصال هو نوع من قنوات البيع بالتجزئة في Dynamics 365 Commerce يوفر لك خياراً لإدخال معلومات الدفع مباشرةً في أمر المبيعات. ولدى العاملين خيارات للتحكم في الأسعار ويمكنهم الوصول إلى بيانات متنوعة حول العملاء والمنتجات والأسعار مباشرةً من صفحة **أمر المبيعات**. 
 

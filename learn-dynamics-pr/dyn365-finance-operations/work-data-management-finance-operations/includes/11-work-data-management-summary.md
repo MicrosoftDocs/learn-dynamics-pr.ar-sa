@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee5b79dce3e984cf10d45c86671cd3bc285b9e55
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 22752ff55dad9a20db8a40bdd183b8ece1667b78389926bdbf0b461df00124f1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071632"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047950"
 ---
 في هذه الوحدة النمطية، لقد تعرفت على المفاهيم الأساسية للنظام الأساسي لإدارة البيانات في تطبيقات Finance and Operations، ويقوم بفحص سيناريوهات التكامل التي تستخدم كيانات البيانات. 
 

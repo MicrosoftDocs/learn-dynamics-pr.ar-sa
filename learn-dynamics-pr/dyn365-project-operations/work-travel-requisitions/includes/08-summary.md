@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7d35acca7b78c4975b1f04513b5a525e76d5f55d
-ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+ms.openlocfilehash: 347582e94cb10f0800c52eec1780cf7149486208d1d91acc3784317c4963cbf2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "6072800"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7129661"
 ---
 توفر طلبات السفر والسلف النقدية لأصحاب العمل القدرة على عرض مصروفات السفر والموافقة عليها قبل تكبدها. ورغم أن كلاهما مجرد تنبؤات، إلا أن وضوح التقديرات يساعد الإدارة على التخطيط للمصروفات المستقبلية. 
 

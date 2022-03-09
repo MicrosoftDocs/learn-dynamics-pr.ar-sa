@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fb7b1c11812157abe841c7845c3da783e09dd3c3
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: a32511b7a19fe5b2b785c54fa1e5c498d5556c40e736857d6fc1674ad71a5d9f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114718"
 ---
 يتم تقديم السلفة النقدية للمصروفات المحتملة التي يتحملها الموظف قبل سفره لتغطية تكاليف السفر المقدَّرة. تسمح السُلف النقدية للشركات بالبقاء داخل حدود الموازنة وتقليل العبء المالي للعاملين ممن قد لا يمكنهم تحمُل مصروفات السداد في وقت لاحق.
 

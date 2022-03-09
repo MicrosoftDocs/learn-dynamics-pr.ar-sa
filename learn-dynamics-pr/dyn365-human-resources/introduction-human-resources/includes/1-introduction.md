@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8c089a6b836e09a2a27935d66b3c644cb14b2a51
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 9901a8ba5c35dd466b6bdc24f60235ee1443933600c43971fc4025ec96938896
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072687"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7078417"
 ---
 يتغير مكان العمل والقوى العاملة بوتيرة قياسية. في الوقت الحالي، يعتمد العمال على الوصول عن بُعد ويحتاجون إلى مزايا توفر حلولاً إبداعية لتحديات اليوم. يزودك Microsoft Dynamics 365 Human Resources بالأدوات التي تساعدك على تحديث العمليات الخاصة بك وتوفير برامج الموارد البشرية (HR) التي تكون فعالة من حيث التكلفة ولها تأثير كبير.
 

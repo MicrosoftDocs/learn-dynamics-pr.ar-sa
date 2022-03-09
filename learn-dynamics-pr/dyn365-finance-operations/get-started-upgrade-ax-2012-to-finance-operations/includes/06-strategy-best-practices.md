@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c6b67e847ca5721c7ce5db5c3733d70fe4eb136
-ms.sourcegitcommit: 3f08118ff49b5a2079aa627c8b1d967564a68fc9
+ms.openlocfilehash: a8f8e72e45bef50023e4669bb9f581b3414182c6
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/13/2021
-ms.locfileid: "6072254"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7329323"
 ---
 يُعد فهم عملية الترقية وأفضل الممارسات بشكل كامل قبل البدء في رحلة ترقية Dynamics AX ‏2012‎‏ إلى تطبيقات Finance and Operations أمراً مهماً لنجاح المشروع. 
 
@@ -26,8 +26,8 @@ ms.locfileid: "6072254"
 أفضل الممارسات لتحليل الفروق والملاءمة:
 
 - تحديد سيناريوهات الأعمال التي قمت بتخصيصها في Dynamics AX ‏2012 الذي أصبح الآن جزءاً من منتج Dynamics 365 الأساسي، ثم استخدامها في الميزة الأساسية. 
-- تقييم تطبيقات Dynamics 365 المناسبة الأخرى، مثل مبيعات Microsoft Dynamics ‏365 أو Dynamics 365 Field Service، ثم الاستفادة من التطبيقات المتكاملة. للحصول على مزيد من المعلومات، راجع [القواعد الأساسية Microsoft Dynamics ‏365](https://docs.microsoft.com/learn/paths/dynamics-365-fundamentals/?azure-portal=true). 
-- تقييم الميزات المهملة. سيتم إهمال بعض الميزات. وتجب عليك مراجعة هذه التغييرات واقتراح حلول بديلة، والتي قد تكون عمليات تكامل أو حلولاً خارج تطبيقات Finance and Operations. للحصول على قائمة بالميزات المهملة، راجع [الميزات التي تمت إزالتها أو إهمالها](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/get-started/removed-deprecated-features-platform-updates/?azure-portal=true).
+- تقييم تطبيقات Dynamics 365 المناسبة الأخرى، مثل مبيعات Microsoft Dynamics ‏365 أو Dynamics 365 Field Service، ثم الاستفادة من التطبيقات المتكاملة. للحصول على مزيد من المعلومات، راجع [القواعد الأساسية Microsoft Dynamics ‏365](/learn/paths/dynamics-365-fundamentals/?azure-portal=true). 
+- تقييم الميزات المهملة. سيتم إهمال بعض الميزات. وتجب عليك مراجعة هذه التغييرات واقتراح حلول بديلة، والتي قد تكون عمليات تكامل أو حلولاً خارج تطبيقات Finance and Operations. للحصول على قائمة بالميزات المهملة، راجع [الميزات التي تمت إزالتها أو إهمالها](/dynamics365/fin-ops-core/dev-itpro/get-started/removed-deprecated-features-platform-updates/?azure-portal=true).
 - وضع إعادة تصميم عمليات التكامل باستخدام تقنية المجموعة في الحسبان. 
 - مراعاة تحديث المعلومات المهنية وإعداد تقارير عنها. 
 - تقييم حلول ISV الخاصة بك وتحديد ما إذا كان من الممكن استبدال الحل بالوظائف الجاهزة، ثم التحقق من ميزات ISV المهملة. 

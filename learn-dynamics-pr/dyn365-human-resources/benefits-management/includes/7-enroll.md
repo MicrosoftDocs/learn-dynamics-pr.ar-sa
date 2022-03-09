@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 09682e8bd6994eab02e41b1e0c5a17f7280f5dd2
-ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+ms.openlocfilehash: b56250fdb9ca49c70b548d5f4f181e3b2ec8a810
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "6072699"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7343971"
 ---
 بعد قيامك بإنشاء خطة، يمكنك البدء في تسجيل الموظفين فيها، فهي عبارة عن عملية متعددة الخطوات.
 
@@ -18,7 +18,7 @@ ms.locfileid: "6072699"
    > [!div class="mx-imgBorder"]
    > [![تشغيل عملية الأهلية لتسجيل الميزات.](../media/benefits-management-run-eligibility-process.png)](../media/benefits-management-run-eligibility-process.png#lightbox)
 
-   لمزيد من المعلومات، راجع [معالجة أهلية التسجيل](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-process-enrollment-eligibility/?azure-portal=true).
+   لمزيد من المعلومات، راجع [معالجة أهلية التسجيل](/dynamics365/human-resources/hr-benefits-process-enrollment-eligibility/?azure-portal=true).
 
 1. يجب على الموظفين المؤهلين بعد ذلك تحديد خيار التغطية الذي يكونون مؤهلين له في **الخدمة الذاتية للموظف > الخدمة الذاتية للميزات**.
 

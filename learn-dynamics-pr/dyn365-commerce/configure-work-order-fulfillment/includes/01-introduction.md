@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 945baf6a0b7f8bf22c408bb07182763755f57fde
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 49d4fb9bf31057a27bfbe0671a3003f2748e11be162de5d6287d42d9e0bbb0a0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070121"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7127002"
 ---
 يهدف بائعو التجزئة إلى رحلة عميل تبرز من خلال المشاركة المخصصة والتفاعلات الخالية من الاحتكاكات والخبرات المتولدة عبر القناة متعددة الاتجاهات المتكاملة بشكل كامل.
 

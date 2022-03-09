@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 449063e68989441085d77c3132c21d98e4110a89
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 45de7d9ce8788aec0010ee0160ecebcb07d1e1cd
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072689"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7357883"
 ---
 يبسط Dynamics 365 Human Resources مهام الموارد البشرية الروتينية وينفذ العمليات المتعلقة بإدارة الموظفين داخل مؤسستك تلقائياً. يمكّنك من إدارة موظفيك، والتعويضات، والمزايا، وتعقب الإجازات والغياب، والكفاءات، والتطوير. يمنحك Dynamics 365 Human Resources  أيضاً إطار عمل لمتخصصي الموارد البشرية لديك لتحفيز الاتساق والكفاءة وتحسين العمليات.
 
@@ -29,4 +29,4 @@ ms.locfileid: "6072689"
 > [!div class="mx-imgBorder"]
 > [![إدارة المؤسسة والموظفين في Dynamics 365 Human Resources.](../media/organizational-agility-c.png)](../media/organizational-agility-c.png#lightbox)
 
-لمزيد من المعلومات، راجع [الصفحة الرئيسية لإدارة المؤسسة](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/organization-administration/organization-administration-home-page?azure-portal=true&toc=/dynamics365/human-resources/toc.json/).
+لمزيد من المعلومات، راجع [الصفحة الرئيسية لإدارة المؤسسة](/dynamics365/fin-ops-core/fin-ops/organization-administration/organization-administration-home-page?azure-portal=true&toc=/dynamics365/human-resources/toc.json/).

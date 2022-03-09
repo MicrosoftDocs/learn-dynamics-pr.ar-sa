@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: c3998fffae1fdf6e1f3ed6e61841276c66c151a1
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 2d6d96aa1da6eef26f5a9159c29af615ca683bf1
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072913"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7366369"
 ---
 في هذا التمرين، ستقوم بالبحث عن موارد للمراجعة واقتراحها، ثم قبول الموارد وحجزها. بعد ذلك، ستقوم باستيراد تقديرات المشاريع في عقد المشروع.
 
 ## <a name="prerequisite"></a>المتطلب الأساسي 
 
-أكمل التمرين في الوحدة النمطية [الشروع في العمل في إدارة المشروع في Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-project-management/?azure-portal=true) قبل البدء في هذا التمرين. يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations.
+أكمل التمرين في الوحدة النمطية [الشروع في العمل في إدارة المشروع في Dynamics 365 Project Operations](/learn/modules/get-started-project-management/?azure-portal=true) قبل البدء في هذا التمرين. يستخدم هذا التمرين بيانات العرض التوضيحي القياسية المتوفرة في Project Operations.
 
 ## <a name="task-1-find-propose-and-mark-resources-for-review"></a>المهمة 1: البحث عن موارد للمراجعة واقتراحها ووضع علامة عليها
 في هذه المهمة، تقوم بدور مدير الموارد الذي يبحث عن الموارد بناءً على متطلبات المورد التي تم إرسالها من مدير المشروع. عند البحث عن الموارد، ستقوم باقتراح الموارد ووضع علامة عليها لمراجعتها من أجل الحصول على موافقة مدير المشروع. 

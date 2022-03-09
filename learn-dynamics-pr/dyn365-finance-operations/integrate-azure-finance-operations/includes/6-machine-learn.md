@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 597612bab037ad9c7b2a9afd2f6e3fd708bc4738
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 63bcc66e5d634b3fe831006d00750cc66fc0e343fe7a450e887c992b55508fe7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071964"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099881"
 ---
 تتمثل إحدى ميزات تطبيقات Finance and Operations في التكامل السلس مع ‏‫التعلم الآلي من Azure‬، مثل ‏‫التنبؤ بالطلب‬، حيث يتم استخدامه للتنبؤ بالطلب من أوامر المبيعات في Dynamics 365 Supply Chain Management. لإنشاء التنبؤ الأساسي، يجب تمرير ملخص للحركات التاريخية إلى خدمة التعلم الآلي من Azure التي تتم استضافتها على Azure.
 

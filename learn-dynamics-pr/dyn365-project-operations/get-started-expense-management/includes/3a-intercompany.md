@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 26764d6767de7323ca5da2a846cd514c47cfec97
-ms.sourcegitcommit: d75508a9ba63fb91ac66677dc9e52645bcbb17f5
+ms.openlocfilehash: 4e77ec144aa7dbbf946133ca38f45d716d25d8a07c431503bfdcdcee6611f4f4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "6072770"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052849"
 ---
  
 ![ صورة توضح انتقال الأموال بين الشركات.](../media/intercompany-expenses-c.png)

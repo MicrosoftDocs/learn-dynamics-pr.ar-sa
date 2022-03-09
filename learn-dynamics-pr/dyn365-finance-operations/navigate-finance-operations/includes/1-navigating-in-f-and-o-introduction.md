@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9a241666c1059ae747cd43b41041a3baf3000233
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0ff43d6b2e301c4b1d155947b55d32802a4420f96f40d3c61cb125638ad22482
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141902"
 ---
 تتضمن تطبيقات Finance and Operations العديد من الوحدات والمناطق والصفحات لمساعدتك في أداء المهام المختلفة لدعم سيناريوهات الأعمال في العديد من الصناعات. 
 

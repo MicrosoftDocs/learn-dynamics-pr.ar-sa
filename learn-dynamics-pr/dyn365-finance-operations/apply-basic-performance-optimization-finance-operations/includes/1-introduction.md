@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7e2db32adeba0801f74c2d636c4f21901e66f417
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 9b7ac351878674d2f2dcb7df16c03be89bd515de1d9fadc4096f65dd71e8cc28
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071613"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131019"
 ---
 يستخدم الأشخاص أجهزة الكمبيوتر لأنه يمكنها إكمال المهام بدقة وبسرعة. عندما تستغرق مهمة معينة من الكمبيوتر وقتاً طويلاً لإكمالها، فقد تكون محبطة ومشتتة وتؤدي إلى انخفاض الإنتاجية. لذلك، يجب أن تكون مراعاة الأداء الأمثل للكمبيوتر أحد المتطلبات في أي مشروع. سيضمن القيام بذلك تشغيل تطبيقات Finance and Operations بأكبر قدر ممكن من الكفاءة.
  

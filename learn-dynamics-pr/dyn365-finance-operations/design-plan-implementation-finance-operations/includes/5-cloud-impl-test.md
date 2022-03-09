@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c62227193d83fc4153e0e32d80bfb7982222e165
-ms.sourcegitcommit: 8e47fcb8fe1e706270b2967466a811bf85766c83
+ms.openlocfilehash: ad1ac8879382b9f043ad1d8c6b49a434ea111caedddab32ed32717440f707a09
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "6072265"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087739"
 ---
 تعد هذه الوحدة ملخصاً للخطوات الواردة في خطوة الاختبار الخاصة بتنفيذ السحابة لتطبيقات Finance and Operations.
 

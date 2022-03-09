@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8172a9464ccf626ed8a33a6e05a6d51744272769
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: 0d3ea9f7ec9074fa2151c25ca099dd10dba5f3b2c55068852d943efc8706b220
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072485"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099708"
 ---
 تتضمن تطبيقات Finance and Operations مئات التقارير والاستعلامات الجاهزة.
 

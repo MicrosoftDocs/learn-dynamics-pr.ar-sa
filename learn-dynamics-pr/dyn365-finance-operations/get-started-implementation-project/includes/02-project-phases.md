@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: b83023738eed57a12f992c482b31332d422cbd82
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: eba6bc5b497bc9cbab5e93951d184438a49b963a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072319"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7344218"
 ---
 تعرض الأقسام التالية رحلة التنفيذ على مستوى عالٍ. لا تعد هذه المنهجية إلزامية، ولكنها محاولة لتوضيح المراحل الرئيسية، بغض النظر عن المنهجية التي سيواجهها المشروع. ومع ذلك، فإننا نشجعك على إدخال منهجيتك الخاصة في مشاريعك.
  
 يمر كل مشروع تنفيذ في Dynamics 365 بأربع مراحل تنفيذ، وهي: 
 
--   **البدء** – تشير هذه المرحلة إلى إعداد مشروع تنفيذ Finance and Operations لديك من خلال مشروع Lifecycle Services (LCS)‎ الجديد عن طريق إكمال أداة إعداد LCS. توفر الأداة معلومات قيمة لبدء مشروعك، ويتم تقديم إرشادات أساسية، فضلاً عن تحديد نطاق المشروع، وتساعدك في تعيين تكوين LCS الأولي لديك. راجع [مساحة عمل مشروع تنفيذ LCS](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/imp-lifecycle/onboard/?azure-portal=true#lcs-implementation-project-workspace).
+-   **البدء** – تشير هذه المرحلة إلى إعداد مشروع تنفيذ Finance and Operations لديك من خلال مشروع Lifecycle Services (LCS)‎ الجديد عن طريق إكمال أداة إعداد LCS. توفر الأداة معلومات قيمة لبدء مشروعك، ويتم تقديم إرشادات أساسية، فضلاً عن تحديد نطاق المشروع، وتساعدك في تعيين تكوين LCS الأولي لديك. راجع [مساحة عمل مشروع تنفيذ LCS](/dynamics365/fin-ops-core/fin-ops/imp-lifecycle/onboard/?azure-portal=true#lcs-implementation-project-workspace).
 -   **التنفيذ** – إنها المرحلة التي تقوم فيها بتصميم الحل وإنشائه واختباره.
 -   **الإعداد** – في هذه المرحلة تستعد للبدء الفوري. تقوم بتسليم قائمة التحقق الخاصة بالبدء الفوري لتلقي تقييم جاهزية البدء الفوري من FastTrack Solution Architect.  
 -   **التشغيل** – يتصف الحل بأنه فوري، ويركز فريق المشروع على صيانة بيئة التشغيل وخدمتها، أو عمليات الطرح المحتملة التالية.

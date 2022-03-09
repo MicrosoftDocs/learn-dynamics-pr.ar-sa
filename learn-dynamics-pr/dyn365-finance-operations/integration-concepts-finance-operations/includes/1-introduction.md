@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fbe4fa1b17fe5e5f5222e73aaaa19ea4d815a771
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0dce3c0b301511345ee22121a31a27e58bf9e4d9be424ff25e13593f635aa6dd
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071892"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130737"
 ---
 بصفتك مطوراً، أنت عادةً جزء من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. في هذه الوحدة، ستتعلم كيفية اتخاذ قرارات مدروسة بشأن سيناريو تكامل البيانات عند تنفيذ تطبيقات Finance and Operations.
 

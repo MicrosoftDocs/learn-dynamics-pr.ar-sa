@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cdf54c34979f2d71052a638ad972add48e184834
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 275b85ffe1055a145782a35cba337a155b377cf6f991697a48cbd2621f9174a4
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072890"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114885"
 ---
 سواء أكنت تقوم بإضافة عضو فريق مباشرةً إلى مشروع في علامة التبويب **الفريق** أو بحجز مَورد في مشروع أو متطلب من لوحة الجدولة، يمكنك الاختيار من بين ستة ‏‫أساليب توزيع حجوزات‬ مختلفة لاستخدامها: 
 

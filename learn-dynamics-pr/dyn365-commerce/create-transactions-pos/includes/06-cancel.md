@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a4e24dbe33eb5ca5a08948c73d4acce11da8c128
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 73259e981947c22050fd61c1a318038f7905ecb26ea11e1b0527f5c5348a701e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070288"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7049062"
 ---
 تحدث المواقف التي يتم فيها إلغاء المنتج المطلوب لاحقاً من قبل العميل لسبب أو لآخر. يمكن تكوين Commerce لتحصيل نسبة مئوية من الصنف تلقائياً كرسوم إلغاء. يتم التحكم في تكوين رسوم الإلغاء من صفحة **معلمات Commerce** في المركز الرئيسي. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4918f8f75c72ce52396f20579c622d30930bae7f
-ms.sourcegitcommit: 6e67ff1cc2162a1e9aa920f83b2a9b66306b2d0e
+ms.openlocfilehash: dced93886745ac9fa65880c80d3d0aaabb3087e8fcf4dcbd5eecf109dab54d46
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "6072865"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074281"
 ---
 ![ رسم لإيصال يظهر عبر عدسة مكبرة.](../media/receipt-c.png)
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e07ba926e9389939b5dcaf38827ed14a5f128c21
-ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
+ms.openlocfilehash: bf147c427969a10caef94abc53e574ae350befbff295e2a19b5fd2a8583a86d9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "6072243"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087825"
 ---
 
 قد تكون عناصر التنقل ضرورية في مساحة العمل لمساعدتك في عرض بيانات إضافية داخل الصفحة. على سبيل المثال، قد يكون لديك عرض على مساحة العمل الخاصة بك لمعرفة إجمالي عدد المبيعات، ولكن عن طريق تحديد ارتباط في البيانات، يمكنك الوصول إلى عرض أكثر تفصيلاً لكل عملية بيع. 

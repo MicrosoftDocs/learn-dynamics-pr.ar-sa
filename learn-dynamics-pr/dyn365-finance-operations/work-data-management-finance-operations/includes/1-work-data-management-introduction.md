@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 96b1845023f823784b09918910992fbc6dca38fc
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6c14f9821cd1f1ee059185944383222b5b1f1b6e5096e77905eedf56bd7b4975
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071635"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7047961"
 ---
 في هذه الوحدة، سوف تحصل على نظرة عامة حول المفاهيم الأساسية للنظام الأساسي لإدارة البيانات. ستتعلم أيضاً كيفية استيراد البيانات وتصديرها في تطبيقات Finance and Operations باستخدام مساحة عمل **إدارة البيانات**.
 

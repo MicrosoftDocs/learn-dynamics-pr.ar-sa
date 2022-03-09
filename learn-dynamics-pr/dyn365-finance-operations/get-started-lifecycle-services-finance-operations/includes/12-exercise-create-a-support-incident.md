@@ -1,23 +1,23 @@
 ---
-ms.openlocfilehash: 22ec585041cba9737f12f4246153b9c3f55a3b16
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 461f91e2052427fb9802f7e5826602fbf1f7e67e
+ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071909"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "7944614"
 ---
-ستقوم باستخدام بيئة المشروع التي قمت بإنشائها في اشتراك Azure، وتسجيل حدث دعم من تطبيقات Finance and Operations. ستتمكن من عرض الحادث في خدمات دوره الحياة (LCS) وAzure DevOps (تعرف أيضا بخدمات الفريق Visual Studio أو VSTS)، وعرض بيانات حماية البيئة المقترنة. 
+ستستخدم بيئة المشروع التي قمت بإنشائها على اشتراك Azure، وتسجيل تنبيه دعم من تطبيقات Finance and Operations. ستتمكن من عرض التنبيه في Lifecycle Services وAzure DevOps (المعروف أيضاً باسم Visual Studio Team Services أو VSTS)، وعرض بيانات سلامة البيئة المرتبطة. 
 
-### <a name="connect-the-environment-to-lifecycle-services"></a>قم بتوصيل البيئة بخدمات دوره الحياة
-1.  من مدخل LCS ([https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true))، انتقل إلى تفاصيل البيئة الخاصة بك وأبدأ البيئة إذا لم تكن قد بدأت بالفعل. 
+### <a name="connect-the-environment-to-lifecycle-services"></a>قم بتوصيل البيئة بخدمات Lifecycle Services
+1.  من بوابة Lifecycle Services ([https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true))، انتقل إلى تفاصيل بيئتك وبدء البيئة إذا لم تكن قد بدأت بالفعل. 
 2.  قم بتسجيل الدخول إلى تطبيقات Finance and Operations. انتقل إلى **إدارة النظام > الإعداد > معلمات النظام**. 
 3.  انتقل إلى علامة التبويب **تعليمات**. قد تتلقى إعلاماً للاتصال بـ Lifecycle Services.
 4.  حدد الارتباط في الرسالة، ثم **حدد هنا للاتصال بـ Lifecycle services**. في علامة التبويب الجديدة، تظهر رسالة تشير إلى **نجاح** العملية.
-5.  قم بالرجوع إلى علامة التبويب السابقة وحدد **موافق** في رسالة التأكيد.
-6.  في علامة التبويب **دعم جهة الاتصال**، لاحظ أن مشروع LCS المستخدم في هذه الورشة محدد.
+5.  ارجع إلى علامة التبويب السابقة وحدد **موافق** في رسالة التأكيد.
+6.  في علامة التبويب **جهة اتصال الدعم**، لاحظ أنه تم تحديد مشروع Lifecycle Services المستخدم في ورشة العمل هذه.
 7.  حدد **حفظ**. 
 
-### <a name="create-a-support-incident"></a>إنشاء حدث دعم
+### <a name="create-a-support-incident"></a>إنشاء تنبيه دعم
 1.  قم بتسجيل الدخول إلى تطبيقات Finance and Operations. 
 2.  حدد **?** في الركن الأيمن العلوي وحدد **دعم**. 
 3.  في الركن الأيمن السفلي، حدد **إنشاء**. 
@@ -31,10 +31,10 @@ ms.locfileid: "6071909"
 11. حدد **إرسال**.
 12. يمكنك الآن تحديد **إغلاق**. 
 
-### <a name="view-your-support-incident-in-lcs"></a>عرض حدث الدعم في LCS
-1.  قم بتسجيل الدخول إلى LCS وافتح المشروع.
-2.  حدد **دعم** من القائمة. 
-3.  تعرض هذه القائمة كافة الموضوعات النشطة التي تم تسجيلها في المشروع. من هذه الشاشة يمكنك إضافة مشاكل جديدة أو إرسال مشاكل إلى Microsoft أو استخدام البحث عن المشاكل. 
+### <a name="view-your-support-incident-in-lifecycle-services"></a>عرض تنبيه الدعم الخاص بك في Lifecycle Services
+1.  سجّل الدخول إلى Lifecycle Services وافتح مشروعك.
+2.  حدد **الدعم** من القائمة. 
+3.  تعرض هذه القائمة جميع المشكلات النشطة التي تم تسجيلها في مشروعك. من هذه الشاشة يمكنك إضافة مشاكل جديدة أو إرسال مشاكل إلى Microsoft أو استخدام البحث عن المشاكل. 
 4.  حدد عنوان الحدث الخاص بك لفتح عنصر العمل Azure DevOps. يمكن استخدام Azure DevOps لإدارة التعيين، والحالة، والمرفقات الخاصة بحدث الدعم.
 5.  قم بالتمرير لأسفل لمراجعة **المناقشة** المرفقة بالحدث. 
 

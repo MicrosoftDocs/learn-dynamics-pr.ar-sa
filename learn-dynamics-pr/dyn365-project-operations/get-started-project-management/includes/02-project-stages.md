@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74d554f188042ec995df673fc515b7d3b1affc23
-ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+ms.openlocfilehash: fda7f5e20aee6e3cd633e565b50a7cea0868622b6d1e97c376cae7ed7be32241
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "6072867"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082084"
 ---
 
 يتم تصميم مراحل المشروع لتعكس حالة المشروع أثناء تقدمه. يمكن استخدام التخصيصات لتحديث المراحل تلقائياً من خلال تدفقات عمليات الأعمال أو Microsoft Power Automate أو ملحقات المكونات الإضافية.

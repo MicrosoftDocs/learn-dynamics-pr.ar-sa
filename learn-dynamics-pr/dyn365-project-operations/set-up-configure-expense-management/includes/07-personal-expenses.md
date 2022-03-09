@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b263353c56c46535003de817efa740fbdbae5b7b
-ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.openlocfilehash: 926318a6644a05ee5bbe12d1b658513cacf76a15304797616790f87eb7fe7417
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "6072787"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7074287"
 ---
 في بعض الأحيان، قد يقوم الموظفون بإيداع رصيد في البطاقات المدينة الخاصة بالشركة لاستخدامها في المصروفات الشخصية في أثناء رحلة عمل. وإذا لم تقم بتحديد عملية لمعالجة المصروفات الشخصية عندما يقوم الموظفون بإرسال تقارير المصروفات التفصيلية، فيمكن أن تتعطل عملية اعتماد تقارير المصروفات.
 

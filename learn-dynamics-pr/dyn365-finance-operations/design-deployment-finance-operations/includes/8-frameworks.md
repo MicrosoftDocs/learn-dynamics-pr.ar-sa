@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9ea0fafe1dc22d3488fcb354516d54fd518aba1
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 9d6fcdb50e1e8bc790e6c7f00d554a8d73c71b3d649abbdfc11f1ffc0c39b609
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071870"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120533"
 ---
 من الأهمية بمكان الإلمام بمفاهيم تخصيص تطبيقات Finance and Operations وإتقان المهارات اللازمة لإجراء التخصيصات. تسمح تطبيقات Finance and Operations باستخدام مسجل المهام وأداة تكوين عمليات الأعمال (BPM) لإنشاء مكتبات اختبار قبول المستخدم. بالإضافة إلى مسجل المهام وBPM، يتعين عليك التعرف أيضاً على كيفية استخدام إطار عمل إدارة البيانات.
 

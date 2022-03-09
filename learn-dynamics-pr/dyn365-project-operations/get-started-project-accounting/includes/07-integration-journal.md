@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a43540e17115251fba99327b14f1cc79a450e40d
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: 9550b0cb7590e850750a2299e6f2a5af0986529543b5cd5a395d816a843bfe7f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072935"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052714"
 ---
 تعمل قيود الوقت والمصروفات على إنشاء الحركات **الفعلية** التي تمثل العرض التشغيلي للعمل الذي تم استكماله مقابل أحد المشاريع. يوفر Project Operations محاسبين باستخدام أداة لمراجعة الحركات وتعديل سمات المحاسبة حسب الحاجة. بعد اكتمال المراجعة والتعديلات، يتم ترحيل الحركات إلى دفتر الأستاذ الفرعي ودفتر الأستاذ العام الخاصيْن بالمشروع. يمكن لمحاسب تنفيذ هذه الأنشطة باستخدام دفتر يومية **تكامل Project Operations** (**التمويل > إدارة المشروع والمحاسبة > دفاتر اليومية > دفتر يومية تكامل Project Operations**).
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6829e2d82750cfebfde851c9a12523941e844fb4
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 32c36905b69be4c59c9a90354a1c96c4ea65c93ba1bf91eaa814fc5e2610c5b1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071655"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7063976"
 ---
 ## <a name="scenario"></a>السيناريو
 كمدير تكنولوجيا معلومات في USMF، تحتاج إلى إضافة سجل جديد، Desert Wholesales إلى دفتر العناوين العمومي. وأيضاً، تحتاج إلى إضافة جهة اتصال جديدة لشركة Desert Wholesales، وهي Aaron Painter. 

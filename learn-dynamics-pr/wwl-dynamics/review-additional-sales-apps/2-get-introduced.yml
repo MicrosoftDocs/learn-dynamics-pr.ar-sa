@@ -4,17 +4,18 @@ title: تعرف على تطبيقات المبيعات الإضافية
 metadata:
   title: تعرف على تطبيقات المبيعات الإضافية
   description: تعرف على تطبيقات المبيعات الإضافية
-  ms.date: 08/26/2021
+  ms.date: 01/06/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: c302f09aa62268c046147b03fd6dd60223fd9570
-  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.openlocfilehash: 3f53d603adf854393bdbcbd752f12fc49e36ceff
+  ms.sourcegitcommit: f16a34d76471f8731b29bf906040212de09a241c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438843"
+  ms.lasthandoff: 01/10/2022
+  ms.locfileid: "7953781"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/2-get-introduced.md)]'

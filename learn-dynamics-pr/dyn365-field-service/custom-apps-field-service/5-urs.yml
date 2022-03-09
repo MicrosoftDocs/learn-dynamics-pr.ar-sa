@@ -3,17 +3,17 @@ uid: learn-dynamics.custom-apps-field-service.5-universal
 title: Universal Resource Scheduling
 metadata:
   title: Universal Resource Scheduling
-  description: تعرّف على تكوين الجداول للجدولة باستخدام Universal Resource Scheduling (URS)
+  description: تعرّف على إعداد الجداول للجدولة باستخدام Universal Resource Scheduling.
   ms.date: 11/08/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 615ddce618aaadc93c7ca6874e265243a214ec84
-  ms.sourcegitcommit: 2bf619e587a837c9eeb16c1639541dd43c540b1d
+  ms.openlocfilehash: 6bfed72c406e97c5b2ae2d0105b0c24bab1e440d
+  ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/10/2021
-  ms.locfileid: "7783520"
+  ms.lasthandoff: 12/02/2021
+  ms.locfileid: "7880260"
 durationInMinutes: 22
 content: >-
   [!include[](../includes/unit-banner.md)]

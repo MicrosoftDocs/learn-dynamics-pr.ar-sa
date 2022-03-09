@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 84e48034480036a705274e25c610113f7cec1c77
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: 140c631029c2b7447af9869801c64a147a238f6b78103f27e2819ece898f34a5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072929"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052731"
 ---
 يوفر Project Operations إمكانات فعّالة لتصنيف الإيرادات والمصروفات في المشاريع. تُتيح لك الفئات إمكانية إعداد تقارير حول معاملات المشروع وتحليلها وتعزيز الترحيل إلى دفتر الأستاذ العام.
 

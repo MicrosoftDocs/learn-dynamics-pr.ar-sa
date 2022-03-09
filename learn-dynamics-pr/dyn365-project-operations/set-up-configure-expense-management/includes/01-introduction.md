@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c62f1ad5f1e8b7f4ae6e75296b0dee2d759c4e6b
-ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.openlocfilehash: e314f139436632d74b8327c4fdfbd110c57536e65ad5e42a031acab414625159
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "6072779"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081961"
 ---
 مساحة عمل **إدارة المصروفات** هي المكان الذي يمكن للمستخدمين إيداع مصروفاتهم فيه. يتم عرض معلمات مختلفة، بما في ذلك معدلات المسافة بالميل، والمصروفات اليومية، وتأثير المصروفات على دفتر الأستاذ الخاص بالمؤسسة، والذي يجب عليك تحديده عند التخطيط لإعداد إدارة المصروفات وتكوينها في Microsoft Dynamics 365 Project Operations. 
 

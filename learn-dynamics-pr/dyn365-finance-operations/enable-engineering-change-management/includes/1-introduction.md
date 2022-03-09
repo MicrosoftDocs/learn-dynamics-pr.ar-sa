@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 54b4e1ec86473532f87b03d604f82eba397410f3
-ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+ms.openlocfilehash: a64d70db80eb5c007d3f96cd81eede7d4571b18abdd4905411083995a6de6dab
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "6112117"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7142293"
 ---
 قبل استخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management، يجب تمكين الميزة ومفتاح التكوين.
 
@@ -34,9 +34,9 @@ ms.locfileid: "6112117"
 
 1. انتقل إلى **إدارة النظام> الإعداد > تكوين الترخيص**.
 
-1. قم بتوسيع العقدة **التجارة**.
+1. قم بتوسيع العقدة **التجارة** .
 
-1. حدد خانة الاختيار **إدارة التغيير الهندسي**.
+1. حدد خانة الاختيار **إدارة التغيير الهندسي** .
 
 1. قم بإيقاف تشغيل وضع الصيانة.
 

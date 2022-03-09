@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b011fc29681c2e401aecfc041eaa96012fdb45f7
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 6f06ff3aaddc852ff97fa722ab8f395b43fe2821443a484dbb07a79b0eadf6e1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070401"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064685"
 ---
 تكون الأصول الرقمية خاصة بالقناة، بصرف النظر عن أصول القناة متعددة الاتجاهات، والتي تكون على مستوى البيئة بشكل افتراضي. تتميز مكتبة الوسائط الخاصة بمنشئ موقع Commerce بوظائف إدارة الأصول الرقمية الغنية التي تتضمن دعماً للأصناف التالية: 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 995bd80b4a6fb0a5600bec39f6055248822886d0
-ms.sourcegitcommit: ee184b3e8b3f890fefd11ecab8b4ba8255d83a1a
+ms.openlocfilehash: f26abd3d2230748d6aeff1bf1909223dc9caae4abd388183f9efd81bca81de85
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "6070441"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095274"
 ---
 تستخدم تعديلات الأسعار إطار عمل الخصم، ولكنها تعتبر أيضاً جزءاً من وظيفة السعر الأساسي، جنباً إلى جنب مع الأسعار التي تم تكوينها في المنتج الصادر واتفاقيات التجارة. عندما يتغير السعر بمرور الوقت لمنتج ما، يمكنك استخدام تعديلات الأسعار للحفاظ على تكامل وظيفة اتفاقيات التجارة الأصلية. 
 

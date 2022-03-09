@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 83d7e96e14cc2c079546d5f20ff7722cd989d626
-ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+ms.openlocfilehash: ab51a4c15c8086a8a71a3449d4b851f975e9d2f58c08cbaa79f9cca53233368d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "6072872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7086942"
 ---
 
 تُحدَّد متطلبات الموارد من جانب مدير المشروع لتقرير الموارد اللازمة لتنفيذ العمل في المشروع. 

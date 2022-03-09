@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac630270cf789a27c96939371746793f6cdb463a
-ms.sourcegitcommit: 87bfbce5cff1a2ceba28af60632730a16c68acd9
+ms.openlocfilehash: 94bdc6c5f8d1a1799782bd66fcbae9a7be3e5a68016103bb7eea5baf6144ed3f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "6070417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144316"
 ---
 يختلف ملف التعريف الوظيفي عن تكوينات الجهاز والتسجيل حيث يحدد الوظائف غير المرتبطة بالمكونات المادية للأجهزة أو المعدات. في معظم الحالات، يمكن ـ بل ينبغي ـ أن يعمل الجهازان بنفس الطريقة للحصول على خبرة متسقة للعملاء والموظفين في جميع أنحاء المتجر. يتم تحديد ملفات التعريف الوظيفي على مستوى المتجر. 
 

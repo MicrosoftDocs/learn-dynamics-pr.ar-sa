@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4983b70cfbcd05f127947c8e465bc38e6c16e77e
-ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+ms.openlocfilehash: 9f7d2a3d8ce067d2d269ef9782fda9a6a1b61ed4b5727585b1a2f97252b46abf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6214417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099057"
 ---
 في هذه العملية، ستقوم بإنشاء خطة إجازة للموظفين ثم تعيين معدل استحقاق 10 ساعات شهرياً للموظفين الجدد و12 ساعة شهرياً للموظفين الذين بلغوا الذكرى السنوية الخامسة.
 ستسمح كل خطة للموظفين بتحويل إجازة مدفوعة الأجر لمدة عام إلى العام المقبل.

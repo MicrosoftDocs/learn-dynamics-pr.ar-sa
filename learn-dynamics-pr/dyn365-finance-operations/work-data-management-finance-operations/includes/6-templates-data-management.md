@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c6c8a875a652e890d56926efb58c0cad0bae0511
-ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+ms.openlocfilehash: bb9b6429d48bc06750842d275b95ebc2a6ac16e6
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "6072531"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7354611"
 ---
 يتم تسليم القوالب الافتراضية مع كل إصدار جديد من تطبيقات Finance and Operations. يتمثل هدفنا طويل المدى في توفير القوالب في Lifecycle Services (LCS) بحيث يمكنك دفعها إلى مثيل من تطبيقات Finance and Operations. ومع ذلك، فبالنسبة للإصدارات الحالية، حدد لوحة **القوالب** الموجودة في مساحة عمل **إدارة البيانات**، ثم حدد **تحميل القوالب الافتراضية** لتحميل القوالب. لرؤية القائمة **تحميل القوالب الافتراضية**، يجب استخدام طريقه العرض المحسنة.
 
@@ -64,5 +64,5 @@ ms.locfileid: "6072531"
 
 إذا لم تقم بتمكين تعقب التغييرات على كيانٍ، فيمكنك فقط تمكين التصدير الكامل في كل مرة. من أجل حالات استخدام "إحضار قاعدة بياناتك الخاصة (BYOD)"، يمكن لتعقب التغييرات أيضاً تتبع عمليات الحذف، إذا كان الكيان يدعم ذلك.
 
-لمزيد من المعلومات حول BYOD، راجع [إعداد البيانات للترحيل إلى تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/prepare-data-migration-finance-operations/?azure-portal=true).
+لمزيد من المعلومات حول BYOD، راجع [إعداد البيانات للترحيل إلى تطبيقات Finance and Operations](/learn/modules/prepare-data-migration-finance-operations/?azure-portal=true).
 

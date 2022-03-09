@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c840eac95b4f5dc3a6e457f0a5eeefbcce58a838
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: faab924c9c7c280c264c6a40721c45a6b5e1914b
+ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071666"
+ms.lasthandoff: 12/23/2021
+ms.locfileid: "7946137"
 ---
 توجد العديد من خيارات التصفية التي يمكنك استخدامها في تطبيقات Finance and Operations.  
   
@@ -20,9 +20,12 @@ ms.locfileid: "6071666"
 
 تتماشى تجربة تصفية الشبكة بشكل وثيق مع التجربة في Microsoft Excel. عند النقر فوق رأس عمود (للأعمدة التي يمكن تصفيتها)، تظهر قائمة منسدلة، ويمكنك استخدامها لتصفية العمود. تحاكي تجربة التصفية هنا تجربة التصفية في جزء عامل التصفية. بالإضافة إلى ذلك، توجد خيارات لفرز الشبكة بناءً على العمود المحدد حالياً.
 
-## <a name="wildcards"></a>‫أحرف بدل
+> [!div class="mx-imgBorder"]
+> ![حركة تظهر العديد من أساليب التصفية التي تمت مناقشتها في هذه الوحدة.](../media/filter.gif)
+
+## <a name="wildcards"></a>‫أحرف البدل
 
 يمكنك استخدام حرف البدل النجمي للإشارة إلى أن أي قيمة قبل هذه النقطة أو بعدها صالحة، وهو أمر رائع للبحث عن السجلات التي تبدأ جميعها و/أو تحتوي على نفس الأحرف في مكان ما داخل الحقل.  
 
-لقراءة المزيد حول خيارات التصفية وتعبيرات التصفية في [خيارات التصفية](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/user-interface/filtering/?azure-portal=true).
+لقراءة المزيد حول خيارات التصفية وتعبيرات التصفية في [خيارات التصفية](/dynamics365/fin-ops-core/dev-itpro/user-interface/filtering/?azure-portal=true).
  

@@ -3,16 +3,16 @@ uid: learn-dynamics.feature-management-finance-operations.04-enable-feature
 title: تمكين ميزة
 metadata:
   title: تمكين ميزة
-  description: تعرف على كيفية تمكين ميزة
+  description: تعرف على كيفية تمكين ميزة.
   ms.date: 12/23/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b793d3730cf091b5bf938808970b2603cb09ca85
-  ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+  ms.openlocfilehash: 3684eeb1897815a355d9da2d0c77dc63cf22d841
+  ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/23/2021
-  ms.locfileid: "7946217"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "7964202"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-enable-feature.md)]"

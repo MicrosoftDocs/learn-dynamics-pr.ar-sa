@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8df95f91250323aa18afacec12faba998204c3b6
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: 42683d1876663aa702a8aabd11e909bc8d6e750d13e13e75eb3223fcbd304ce1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072815"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115073"
 ---
 بناءً على نهج شركتك، عند إدخال مصروفات الترفيه أو الوجبات في تقرير مصروفات، قد يلزم إدخال مصروفات أشخاص آخرين. على سبيل المثال، قد تصطحب عميلاً محتملاً لتناول العشاء. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 77e43ef2f415244663b95a7dc3e4dc47f84f47c4
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 9c031ee9bdb2641531191a22488f902363398e3d284a6c3b77d7bcb4d36f3d58
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070200"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7121843"
 ---
 تعتبر وظيفة ترحيل كشف حساب Commerce مهمة في تحويل بيانات حركات Commerce إلى حركات محققة مادياً وفعلياً في النظام. 
 

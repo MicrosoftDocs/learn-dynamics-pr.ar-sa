@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a1800a2cf976d6e6c65931f0f342e866897e732a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: cdb86dd0d93be7cc5db416545c9d96de2d4f9bb00a94381a93e39d095d8d5764
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070383"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054804"
 ---
 تُستخدم مجموعات أسعار البيع بالتجزئة لربط مكونات أسعار المبيعات بالخصومات إلى كيانات مختلفة مثل القنوات والكتالوجات وانتماءات العملاء وبرامج الولاء ومجموعات العملاء.
 

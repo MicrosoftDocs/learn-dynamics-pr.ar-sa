@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc842840c190054e3657a0d1d34f073f837f4b7f
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0c61b30ea16b9e27755ebae73816e63b989641830b0ecb358af6f71cd06ff5ce
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7083949"
 ---
 مجموعة مواد منتجات البيع بالتجزئة عبارة عن مجموعة من الأصناف التي يتم تجميعها في منتج واحد قابل للبيع. المنتجات الموجودة في مجموعة المواد هي منتجات نهائية ويمكن بيعها بشكل منفصل عن مجموعة المواد، إذا لزم الأمر. هذا العامل هو اختلاف رئيسي عن أصناف قائمة مكونات الصنف (BOM) التي لا تحتوي على أصناف منتهية لتكوين منتج قابل للبيع. 
 

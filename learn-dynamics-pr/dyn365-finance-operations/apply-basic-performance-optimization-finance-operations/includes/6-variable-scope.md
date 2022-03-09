@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee510d3eb732e90c230fa2848e05bd10d973aafe
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 14959bc1f671c0ee06285566953dd3e362ea086da2bef93deb2a80d21a3fdeee
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071449"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064323"
 ---
 يحدد نطاق المتغير أين يمكن الوصول إلى المتغير.
 تسمى المتغيرات التي تم تعريفها في إقرارات الفئة *متغيرات المثيل*. يمكن الوصول إلى متغيرات المثيل، إذا لم يتم تعريفها بشكل خاص، من أي أسلوب في الفئة ومن أساليب داخل فئة ممتدة من الفئة الأصلية.

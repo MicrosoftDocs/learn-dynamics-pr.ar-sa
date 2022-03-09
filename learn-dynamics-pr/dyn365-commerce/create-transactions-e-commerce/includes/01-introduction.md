@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d51373e1b282d59d8b539597d356066c90f499dd
-ms.sourcegitcommit: fad7e19f41ef8a36544e4479ca7dca6653d218d6
+ms.openlocfilehash: 95ca25ec942f76a0d84d303a414639a1c6df7efa
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "6070472"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7347045"
 ---
 فيما يلي بعض أنواع الحركات التي يمكن إجراؤها عبر المتجر:
 
@@ -20,4 +20,4 @@ ms.locfileid: "6070472"
 -   تم إنشاء قناة عبر الإنترنت باستخدام موصل عملية الدفع وطرق الدفع وأوضاع التسليم ومجموعه التنفيذ. 
 -   تم إنشاء تسلسل هرمي وتصنيف للتنقل في القناة وربطها بالقناة الموجودة على الإنترنت.
 
-وبعد إكمال هذه المتطلبات الأساسية، يمكنك التعرف على كيفية إعداد موقع التجارة الإلكترونية في الوحدة النمطية [إنشاء حضور على الإنترنت في Dynamics 365 Commerce](https://docs.microsoft.com/learn/modules/create-online-presence/?azure-portal=true). 
+وبعد إكمال هذه المتطلبات الأساسية، يمكنك التعرف على كيفية إعداد موقع التجارة الإلكترونية في الوحدة النمطية [إنشاء حضور على الإنترنت في Dynamics 365 Commerce](/learn/modules/create-online-presence/?azure-portal=true). 

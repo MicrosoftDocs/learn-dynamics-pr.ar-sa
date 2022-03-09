@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 422cb4253d51fa9bcbf745e4aa4fc3d14d9f024d
-ms.sourcegitcommit: 2fb9a3bf40794c506cfba8af27f178690fe81e5b
+ms.openlocfilehash: e87edeab703740ce59ab0a3b38f21f883b8353dbbcb4e5a0214a4a70d6f6ddbc
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072820"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7067994"
 ---
 طلب السفر هو مستند مصدر يسرد المصروفات التي سيتم تكبدها بغرض السفر. يتم تقديم طلب السفر للمراجعة ويمكن استخدامه بعد ذلك لتخويل المصروفات.
 

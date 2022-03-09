@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a4c89a7fd1a532b1135e6eadc75fdb2fc97b340b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 78b30d593328f73a7dcb296c12e7d6c1e6f0c9f3
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6072002"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362784"
 ---
 يجب فهم الهدف من التقاط حدث الأعمال بوضوح. بمعنى آخر، تحتاج إلى تحديد سبب التقاط حدث الأعمال وكيفية استخدامه بواسطة المستلم.
 
@@ -20,8 +20,8 @@ ms.locfileid: "6072002"
 
 | موضوع| الرابط|
  | ------------- | ------------- |
- | أحداث الأعمال| [نظرة عامة على أحداث الأعمال](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/business-events/home-page/?azure-portal=true)|
- | عملية التطوير وأفضل ممارسات تنفيذ أحداث الأعمال.|  [وثائق مطور أحداث الأعمال](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/business-events/business-events-dev-doc/?azure-portal=true)|
- | إدارة البيانات | [العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/work-data-management-finance-operations/?azure-portal=true)|
- | توسيع العناصر في تطبيقات Finance and Operations| [توسيع العناصر في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/extend-elements-finance-operations/?azure-portal=true)|
+ | أحداث الأعمال| [نظرة عامة على أحداث الأعمال](/dynamics365/fin-ops-core/dev-itpro/business-events/home-page/?azure-portal=true)|
+ | عملية التطوير وأفضل ممارسات تنفيذ أحداث الأعمال.|  [وثائق مطور أحداث الأعمال](/dynamics365/fin-ops-core/dev-itpro/business-events/business-events-dev-doc/?azure-portal=true)|
+ | إدارة البيانات | [العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations](/learn/modules/work-data-management-finance-operations/?azure-portal=true)|
+ | توسيع العناصر في تطبيقات Finance and Operations| [توسيع العناصر في تطبيقات Finance and Operations](/learn/modules/extend-elements-finance-operations/?azure-portal=true)|
 

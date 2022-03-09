@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b805430e2582bfbaaa2305c41d6833a0b8e63272
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0616380586aefe9338c2e9752a8fdeb06ec6d3c7a2dfaf60d76a65fde30415e0
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071904"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075192"
 ---
 يوفر X++ العديد من وظائف النظام التي يمكن تشغيلها باستخدام التعليمات البرمجية. تعمل هذه الوظائف على تشغيل العمليات التجارية وعمليات الحاويات والتحويلات وعمليات التاريخ والعمليات الحسابية وعمليات الانعكاس وعمليات الجلسة وعمليات السلاسل. 
 

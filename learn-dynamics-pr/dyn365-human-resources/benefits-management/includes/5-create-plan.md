@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 811ec9c5503d486495ff9c00351a3ca8f162f0d6
-ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+ms.openlocfilehash: 1e1909f8e33b697d536ef101bbab2eb7ffd1b908
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "6072702"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7337671"
 ---
 بعد تكوين جميع الخيارات الضرورية لإدارة الميزات، يمكنك إنشاء خطة ميزة.
 
@@ -78,4 +78,4 @@ ms.locfileid: "6072702"
    > [!div class="mx-imgBorder"]
    > [![لقطة شاشة لمعلومات الخطة تحت الوظائف.](../media/benefits-management-plan-information.png)](../media/benefits-management-plan-information.png#lightbox)
 
-لمزيد من المعلومات، راجع [إنشاء خطة ميزة](https://docs.microsoft.com/dynamics365/human-resources/hr-benefits-plans-setup/?azure-portal=true).
+لمزيد من المعلومات، راجع [إنشاء خطة ميزة](/dynamics365/human-resources/hr-benefits-plans-setup/?azure-portal=true).

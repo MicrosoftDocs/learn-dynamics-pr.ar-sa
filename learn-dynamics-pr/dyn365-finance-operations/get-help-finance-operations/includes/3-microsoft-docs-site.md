@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: a99c91c28feca109cab39bff9f73dca133c33c21
-ms.sourcegitcommit: e89d827732cdd3cc30cf06ddd86ab3bc0fb19a2b
+ms.openlocfilehash: 5739018aeedbaac8a914fa3f637c67238e613a93
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072331"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7327688"
 ---
-يُعد [موقع Microsoft Docs](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) المصدر الرئيسي لتعليمات المنتجات لتطبيقات Finance and Operations.
+يُعد [موقع Microsoft Docs](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) المصدر الرئيسي لتعليمات المنتجات لتطبيقات Finance and Operations.
 
 يوفر موقع Docs ما يلي:
 
@@ -31,4 +31,4 @@ ms.locfileid: "6072331"
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE36liB]
 
 
-لمزيد من المعلومات، راجع [نظام التعليمات](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/help-overview/?azure-portal=true).
+لمزيد من المعلومات، راجع [نظام التعليمات](/dynamics365/fin-ops-core/fin-ops/get-started/help-overview/?azure-portal=true).

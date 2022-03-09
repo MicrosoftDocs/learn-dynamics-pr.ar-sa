@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6c66be5c5152a2563b000f4c35d23722b8cb77e5
-ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+ms.openlocfilehash: 5e7d7cbdba35c5edd22250e20c7530e069dc8066d388ec613c7cc39993092579
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "6112033"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048077"
 ---
 تُستخدم مجموعات قواعد الخطورة لحساب خطورة أمر التغيير تلقائياً. عندما يقوم النظام بتقييم خطورة، فإنه يعالج القواعد التي تم تكوينها في المعايير. 
 

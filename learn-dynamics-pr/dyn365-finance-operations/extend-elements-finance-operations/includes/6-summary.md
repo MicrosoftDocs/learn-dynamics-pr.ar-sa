@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 60f1d480d47a407e9fd8f189ceaff33283e1d4ff
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 222dce2be11cf225cb88eaf824a54ea9e4780098
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071606"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7350628"
 ---
 الامتدادات هي طريقة لتخصيص تجربة مستخدم تطبيقات Finance and Operations. إذا كنت بحاجه إلى ضبط أداء أحد العناصر أو سلوكه أو مواصفاته، فيمكنك إنشاء ملحق لهذا العنصر من AOT وإجراء التعديلات اللازمة. يمكنك إنشاء امتداد لجدول إذا كنت بحاجة إلى إضافة حقول أو إزالتها، أو تعديل مجموعات الحقول أو إضافة علاقة فهرس أو جدول أو تعديل الخصائص المتاحة أو إضافة معالجات الأحداث أو الأكواد إلى الجدول. يمكن تمديد النموذج لتعديل الخصائص أو إضافة مصدر بيانات أو إضافة عناصر التحكم أو تعديلها أو إضافة معالجات الأحداث. يتم إنشاء امتداد فئة لتنفيذ معالجات أحداث جديدة لجدول أو نموذج. 
 
@@ -15,8 +15,8 @@ ms.locfileid: "6071606"
 
 | الموضوع   | الرابط|
  | ------------- | ------------- |
- | قابلية التمديد | [الصفحة الرئيسية لقابلية التمديد](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-home-page/?azure-portal=true)| 
- | أنشئ امتداداً جديداً للفئة، وأضف أساليباً جديدة ثم أضف أساليب معالج الأحداث إلى الفئة.| [استكشاف الامتدادات وإطار عمل الامتداد في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/explore-extensions-framework-finance-operations/?azure-portal=true)|
-  | تقدم أحداث العمل آلية امتداد لعمليات التكامل.| [استخدام أحداث الأعمال في تطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/business-events-finance-operations/?azure-portal=true)|
+ | قابلية التمديد | [الصفحة الرئيسية لقابلية التمديد](/dynamics365/fin-ops-core/dev-itpro/extensibility/extensibility-home-page/?azure-portal=true)| 
+ | أنشئ امتداداً جديداً للفئة، وأضف أساليباً جديدة ثم أضف أساليب معالج الأحداث إلى الفئة.| [استكشاف الامتدادات وإطار عمل الامتداد في تطبيقات Finance and Operations](/learn/modules/explore-extensions-framework-finance-operations/?azure-portal=true)|
+  | تقدم أحداث العمل آلية امتداد لعمليات التكامل.| [استخدام أحداث الأعمال في تطبيقات Finance and Operations](/learn/modules/business-events-finance-operations/?azure-portal=true)|
 
   

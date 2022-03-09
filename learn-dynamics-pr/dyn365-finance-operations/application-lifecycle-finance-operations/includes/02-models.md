@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f8d35d8098b63da0f23eb6dca8b5eecbd63bdc81
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 97cdce5c09acc414f5c50edfcef2c82163ab9c00c5b8f5fd20fdfe4431f5e20e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071957"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131042"
 ---
 تستعرض هذه الوحدة كيفية تحديد نموذج وتطبيقه ومعالجته، بالإضافة إلى تقديم نظرة عامة على النماذج وأهميتها في التطوير.
 

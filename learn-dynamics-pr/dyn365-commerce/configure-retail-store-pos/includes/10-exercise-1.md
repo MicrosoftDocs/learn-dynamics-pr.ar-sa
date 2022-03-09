@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e4119121d75d096e66e216175392ae461f79c4e6
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: ecd950a73b039e879da8e47736976461d52f786a432cd804dd0b75b9903399a6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144257"
 ---
 بالنسبة للتدريبات الخاصة بهذه الوحدة النمطية، يجب استخدام بيانات العرض التوضيحي في **USRT**.
 

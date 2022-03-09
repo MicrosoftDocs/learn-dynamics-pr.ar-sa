@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fb9b4548f261ae5c019911a56f226ed18ce6c58d
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: 95eefa578d46ed0e32886e0455002ef09f14db3fe278c1e1ef0e92f58121e385
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072945"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7140743"
 ---
 في Project Operations، يتم إنشاء الفواتير الأولية كملحق للفواتير في Microsoft Dynamics 365 Sales. 
 

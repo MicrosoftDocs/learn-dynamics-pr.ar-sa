@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4766f2c5c26cef99aac4ab579eef2b014f5eea05
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: cd97fd2319bf48c199d322fd7c3272a6b0f7c0e7a14c0eb0d79084066568343d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071171"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7082841"
 ---
 ضع في اعتبارك أفضل الممارسات التالية عند تنفيذ التدرج الهرمي للمؤسسة:
 

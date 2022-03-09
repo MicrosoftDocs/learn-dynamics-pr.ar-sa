@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f3f274a14f499cfc43e35232d21db764874e6612
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 30782a959e376e9c547f1e02423b97848414ce8843cad102ab4b88ff470e6eb9
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071436"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087814"
 ---
 
 لغة تعريف التقرير (RDL) هي تمثيل XML لتعريف تقرير SQL Server Reporting Services ‏(SSRS). يحتوي تعريف التقرير على معلومات استرداد البيانات والتخطيط لتقرير. يمكنك إضافة الوظائف المخصصة الخاصة بك للتحكم في قيم عنصر التقرير وأنماطه وتنسيقه عن طريق الوصول إلى تجميعات التعليمات البرمجية داخل ملفات تعريف التقرير.  

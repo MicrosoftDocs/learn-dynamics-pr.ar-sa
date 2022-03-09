@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cb53e273d2caa78a4c5e495a5b4b8b04256816bb
-ms.sourcegitcommit: 49e41fceff1cf34140f3ad833073b7bea9669c68
+ms.openlocfilehash: 59464b19b19d7389b7548ba5cbe3befdd60bd409a984512bed9ccbf99e454c57
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "6072761"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068123"
 ---
 إدخال الوقت هو عملية تسجيل الوقت الفعلي الذي يستهلكه المورد. تسمح إدخالات الوقت في Project Operations بحساب التكلفة وأسعار المبيعات أثناء تقدم المهام. تساعد هذه الإدخالات مدير المشروع على متابعة المشاريع والمهام. تُعلم إدخالات الوقت أيضاً مديري الموارد بأي إجازة أو غيابات محتملة تظهر على لوحة الجدولة على أنها **خروج**. تسمح هذه الإعلامات لمديري الموارد بالتخطيط حول تلك الأحداث.
 

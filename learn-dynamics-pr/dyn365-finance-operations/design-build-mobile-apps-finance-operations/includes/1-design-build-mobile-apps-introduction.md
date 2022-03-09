@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f1b553f79f86bd560787f631dad7f60fd7d1dbd0
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 342fd45ef1c7cf692f338d62bac6e0ac4e58da4070af25e2f6182fd91bde6658
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071988"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7100020"
 ---
 توضح هذه الوحدة النمطية الإرشادات وأنماط التصميم لتطبيق الأجهزة المحمولة لتطبيقات Finance and Operations. بالإضافة إلى ذلك، فإنه يشرح كيفية إنشاء تطبيقات الأجهزة المحمولة واختبارها بناء على سيناريو حالة الاستخدام.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 507b2bad8a82c515a7a682abcec497e698579ca6
-ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+ms.openlocfilehash: 1cdda0ddb2a2dc5a2e02b3a0bf5792f83cda225a
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "6072176"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7362700"
 ---
 تتوفر لدى Microsoft البرامج التالية التي تساعد العملاء على التنفيذ والعرض المباشر باستخدام Dynamics 365 والترقية من Dynamics AX 2012 إلى تطبيقات Finance and Operations:
 
@@ -16,7 +16,7 @@ ms.locfileid: "6072176"
 
 ستتلقى إرشادات منتظمة حول أفضل الممارسات وكيفية ‏‏الإعداد لعمليات الطرح الفعالة أثناء المشاركة في برنامج FastTrack. سيتلقى المشاركون في برنامج FastTrack رسائل بريد إلكتروني بالإضافة إلى إرشادات التنفيذ واتصالات حول مشاركتهم النشطة في FastTrack. بالإضافة إلى الإرشادات الاستباقية وورش العمل المستمرة، سيتعلم عملاء FastTrack أيضاً طرقاً لتمكين المستخدمين الجدد وتوسيع الإمكانات وفقاً لسرعتهم الخاصة.
 
-لمزيد من المعلومات، راجع وحدة [برنامج نجاح العميل FastTrack لتطبيقات Finance and Operations](https://docs.microsoft.com/learn/modules/fasttrack-customer-success-program/?azure-portal=true). 
+لمزيد من المعلومات، راجع وحدة [برنامج نجاح العميل FastTrack لتطبيقات Finance and Operations](/learn/modules/fasttrack-customer-success-program/?azure-portal=true). 
 
 ## <a name="dynamics-365-migration-program"></a>برنامج الترحيل Dynamics 365 
 ابدأ في ترحيل الحلول المحلية الخاصة بك إلى السحابة بإرشاد من الخبراء من Microsoft عبر برنامج الترحيل Dynamics 365. باستخدام Dynamics 365، وهي مجموعة من تطبيقات الأعمال السحابية، يمكن للعملاء البدء في تحسين الأداء المالي وتبسيط العمليات.
@@ -25,7 +25,7 @@ ms.locfileid: "6072176"
 
 وحالياً، يتوفر البرنامج لجميع عملاء Dynamics AX وDynamics CRM.
 
-شاهد فيديو **Dynamics AX** حول القيمة التجارية للترحيل من تطبيق محلي إلى Dynamics 365 في السحابة، على صفحة [نظرة عامة حول برنامج الترحيل Dynamics 365 للحلول المحلية](https://docs.microsoft.com/dynamics365/get-started/migration/migration-overview/?azure-portal=true).
+شاهد فيديو **Dynamics AX** حول القيمة التجارية للترحيل من تطبيق محلي إلى Dynamics 365 في السحابة، على صفحة [نظرة عامة حول برنامج الترحيل Dynamics 365 للحلول المحلية](/dynamics365/get-started/migration/migration-overview/?azure-portal=true).
 
 يمكن لعملاء Dynamics AX وDynamics CRM طلب المشاركة في برنامج الترحيل Dynamics 365 وتلقي تقييم ترحيل بلا مقابل. للتقدم بطلب أو لمعرفة المزيد، انتقل إلى [برنامج الترحيل Dynamics 365](https://dynamics.microsoft.com/migration-program//?azure-portal=true).
 

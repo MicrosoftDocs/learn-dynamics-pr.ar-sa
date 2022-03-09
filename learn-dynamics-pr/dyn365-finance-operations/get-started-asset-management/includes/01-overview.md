@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 272d6952ff70fdc299c2e54b8716318566c7ae68
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 4e421eae8dc77284c587a06b63e20e3776c44b9d4649b47915114da05da19344
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072269"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059263"
 ---
 تعد إدارة الأصول ملحقاً إضافياً لـ Dynamics 365 Supply Chain Management من شأنه توفير أدوات متقدمة لإدارة الأصول المادية، بما في ذلك المهام ومهام الصيانة. 
 

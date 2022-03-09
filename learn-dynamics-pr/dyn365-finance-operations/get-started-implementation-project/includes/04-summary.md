@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8a4a644b8a879b62da7399885e64e5bc561bcf1c
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 7c2cfdacd7fb0a095dbd8499c9f254f41192f5acd493f9d4fa0234f34b16505a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071738"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125305"
 ---
 يعتمد التخطيط لتنفيذ تطبيقات Finance and Operations على مراحل رحلة التنفيذ ومثلث المشروع الذي يأخذ في الاعتبار النطاق والوقت والموازنة لمشروعك، دون إغفال المخاطر. 
 

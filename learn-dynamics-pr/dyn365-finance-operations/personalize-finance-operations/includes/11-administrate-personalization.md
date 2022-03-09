@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 200854a49348895620c5e5a6cc7359b165fb7981
-ms.sourcegitcommit: 78ea46e483aafad65e41acedd862d74917e0bce5
+ms.openlocfilehash: eeb0eaaf3ad89eba8adfa19ad44100abfd0fa0622b98e5dc3ea46b2cc9ba6de7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "6072103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7141827"
 ---
 إن صفحة **إضفاء الطابع الشخصي** هي لوحة الوصل لإدارة إضفاء الطابع الشخصي على مستوى تنظيمي بواسطة مسؤولي النظام ومسؤولي طريقة العرض المحفوظة. وبعد أن يقوم المستخدم بإضفاء الطابع الشخصي على صفحة ما، يقوم بحفظ طريقة العرض ونشرها، يمكن للمسؤولين إدارة طرق عرض النظام من خلال الصفحة **إضفاء طابع شخصي**. 
 

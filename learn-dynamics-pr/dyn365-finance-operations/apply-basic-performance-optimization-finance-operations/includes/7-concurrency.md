@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d733fa173ee3934fb038ce603aff104f5cd0589e
-ms.sourcegitcommit: 0af0a6f1739b0e2a5ec60989ffbf8aa131de41c3
+ms.openlocfilehash: 2d36d36c0f38d4e6086c0b3f81aad5f11097aaf5e15585d6310482c3fb2ea28a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "6072239"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064318"
 ---
 +يُستخدم التزامن للتحكم في وقت توفر البيانات لتنفيذ عمليات أخرى. تستخدم تطبيقات Finance and Operations نموذجين للتزامن:
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ec425387a4e37344735a3c546b2d2dc2fa7fa486
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 17bec54e9ce445d87da7e857e0c85bc7ef646d9b8b3845b8475354714c0bd35d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070407"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126996"
 ---
 تسمح وظيفة DOM بأن يتم تحديد أنواع مختلفة من القواعد. يمكن للمؤسسات تحديد قواعد متعددة، وفقاً لاحتياجات الأعمال الخاصة بهم. يمكن تحديد القواعد لمجموعة من المواقع أو لمواقع فردية، ولفئة منتج معينة أو منتج أو متغير معين. 
 

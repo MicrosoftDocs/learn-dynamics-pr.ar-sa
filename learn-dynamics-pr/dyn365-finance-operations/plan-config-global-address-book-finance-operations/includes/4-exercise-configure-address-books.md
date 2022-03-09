@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2d2defb675ed3294ff9a212d3c0352d0a2b21e97
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: de1ec5b82cf451451dc7630d886bbebc4d6eb41d5e94627c32f16b8ee14d1f8b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071185"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109720"
 ---
 ## <a name="scenario"></a>السيناريو
 بصفتك مديراً لتقنية المعلومات في شركة USMF، فأنت بحاجة إلى إنشاء دفتر عناوين ووصف سجلات الطرف لكل موقع متجر بيع بالتجزئة. تحتاج أيضاً إلى إنشاء طرف جديد وربطه بدفتر عناوين. وأخيراً، تحتاج إلى استخدام هذا الطرف لإنشاء عميل متوقع.

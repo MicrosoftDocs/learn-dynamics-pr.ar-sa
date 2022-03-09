@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c55be93ac4f46a3413476af38b9c096bb493302a
-ms.sourcegitcommit: afc018f2c4899625e3acf83d0e82eeda93c14bcf
+ms.openlocfilehash: bfeb903c9edeff0a86e0f3d0b06d755f6307ce8e848eff75664e89db6b280b43
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "6070420"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064758"
 ---
 في وقت المعالجة، لا يأخذ DOM في الاعتبار جميع الأوامر وبنود الأوامر في النظام ولكن فقط القليل منها: 
 

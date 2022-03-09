@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 28227bdb643cf38987610154c67ac4c75a4bd606
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 63ed846d8fe756a4c745a7b281a1b01d7eddecebe046bf8c5d8645ec20b0f23e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070292"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7144085"
 ---
 توفر نقطه البيع (POS) في Dynamics 365 Commerce أنواع عديدة من الحركات التي يمكن إنشاؤها. ستتم مناقشة السيناريوهات التالية في هذه الوحدة النمطية:
 

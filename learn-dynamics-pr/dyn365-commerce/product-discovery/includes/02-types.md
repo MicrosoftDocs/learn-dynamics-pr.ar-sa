@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d96df78196f08063ddad804f174ba8342fd67464
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: cb8d9dd261d992678261e59f92df64434adf4e59f0ebb7324959bb6e0b8e78cf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070137"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7084008"
 ---
 يتم وصف الأنواع المختلفة من اكتشاف المنتجات في الأقسام التالية.
 

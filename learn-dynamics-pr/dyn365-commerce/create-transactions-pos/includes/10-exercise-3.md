@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3a007734e0a78d248be1f2b5f6ae23c5a0cf3c29
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 38fa3d86f75714d2311d24f3604350e1f2a918b87ffde06523aee6dce9e28d0e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070110"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7131821"
 ---
 في هذا التدريب، ستقوم بإنشاء أمر عميل للتسليم في تاريخ مستقبلي. كما يرغب العميل في تضمين المنتج الذي سيأخذه معه في وقت الحركة.
 

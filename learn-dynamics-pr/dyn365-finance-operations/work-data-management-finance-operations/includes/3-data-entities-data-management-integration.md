@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7783eaf93ee82259e30fec5558eebf54200510bf
-ms.sourcegitcommit: e0a1238596690b3b6eedd86c2ac14099948a5e25
+ms.openlocfilehash: 90446bbacdd1038ba98904242a887d0abedd716e
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "6072546"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7339375"
 ---
 توفر كيانات البيانات تجريداً مفاهيمياً وتغليفاً (طريقة عرض غير طبيعية) لمخطط الجدول الأساسي الذي يمثل مفاهيم البيانات ووظائفها. 
 
@@ -74,7 +74,7 @@ ms.locfileid: "6072546"
 
 قبل استخدام كيانات البيانات لاستيراد البيانات أو تصديرها، نوصيك أولاً بتحديد تأثير مفاتيح التكوين على كيانات البيانات التي تخطط لاستخدامها.
 
-لمعرفه المزيد حول مفاتيح التكوين في تطبيقات Finance and Operations، راجع [تقرير أكواد الترخيص ومفاتيح التكوين](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/license-codes-configuration-keys-report/?azure-portal=true).
+لمعرفه المزيد حول مفاتيح التكوين في تطبيقات Finance and Operations، راجع [تقرير أكواد الترخيص ومفاتيح التكوين](/dynamics365/fin-ops-core/dev-itpro/sysadmin/license-codes-configuration-keys-report/?azure-portal=true).
 
 ### <a name="configuration-key-assignments"></a>تعيينات مفاتيح التكوين 
 
@@ -91,7 +91,7 @@ ms.locfileid: "6072546"
 
 - **الخدمة المتزامنة (OData)** – تعمل كيانات البيانات على تمكين واجهات برمجة التطبيقات العامة (API) على الكيانات ليتم كشفها، مما يتيح الخدمات المتزامنة. تُستخدم هذه الطريقة لتكامل Office وتكاملات تطبيقات الأجهزة المحمولة التابعة لجهات خارجية
 - **التكامل غير المتزامن** – تدعم كيانات البيانات أيضاً التكامل غير المتزامن من خلال مسار إدارة البيانات. يتيح ذلك سيناريوهات إدخال واستخراج البيانات غير المتزامنة وعالية الأداء. تُستخدم هذه الطريقة للاستيراد/التصدير التفاعلي المستند إلى الملف والتكاملات المتكررة.
-- **ذكاء الأعمال** – باستخدام القياسات الإجمالية المتاحة في تطبيقات Finance and Operations، وعناصر التحكم المضمنة مثل المخططات والتكامل مع Power Platform، يقدم تقارير لتقديم رؤى لبيانات الأعمال.
+- **ذكاء الأعمال** – باستخدام القياسات الإجمالية المتاحة في تطبيقات Finance and Operations، وعناصر التحكم المضمنة مثل المخططات والتكامل مع Microsoft Power Platform، يقدم تقارير لتقديم رؤى لبيانات الأعمال.
 
 ## <a name="data-migration-from-legacy-or-external-systems"></a>ترحيل البيانات من الأنظمة القديمة أو الخارجية 
 

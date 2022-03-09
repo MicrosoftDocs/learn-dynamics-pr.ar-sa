@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8bedb1a4ad9faeda2d43e50357e19dec24175570
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: e7a50c4d0c7c2616ef711232e62a73529e0cea5e6c0a1608e7cd33aa204b13b7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071789"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7059348"
 ---
 عند إنشاء الأكواد، يجب أن يكون المطورون على إدراك تام بأفضل الممارسات لضمان أن تلبي الأكواد التي ينشئونها سياسات المؤسسة. عند تنفيذ بناء في Visual Studio، سيقوم النظام بتشغيل فحص لأفضل الممارسات، وستعرض نافذة الإخراج أخطاء أو تحذيرات أفضل الممارسات. ويمكن للمطورين أيضاً اختيار إنشاء الأكواد الخاصة بقواعد أفضل الممارسات الخاصة بهم باستخدام إطار عمل أفضل ممارسات الأكواد أو باشتقاق فئة من **BestPracticeMetadataChecker**. يُستخدم إطار عمل أفضل ممارسات الأكواد لتحليل المشكلات وتشخيصها باستخدام كود المصدر X++. 
 

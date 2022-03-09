@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3e4fb4598ac896284066356ed9c803d6e22253ef
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: d383ee298b3fb86c94ec20e0bde22b576c12ed5be911438390f4a911be1f10be
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072458"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7120241"
 ---
  غالباً ما تكون لوحة المعلومات هي الصفحة الأولى التي تراها عند فتح تطبيقات Finance and Operations. يمكنك تخصيص لوحة المعلومات بحيث تعرض فقط مربعات مساحة العمل التي تريد رؤيتها. ويمكنك أيضاً إعادة ترتيب المربعات بحيث تكون بالترتيب الذي تفضل رؤيتها به، أو إعادة تسمية مربعات التنقل في مساحة العمل، أو إضافة مربع جديد تماماً لمساحة العمل.
 

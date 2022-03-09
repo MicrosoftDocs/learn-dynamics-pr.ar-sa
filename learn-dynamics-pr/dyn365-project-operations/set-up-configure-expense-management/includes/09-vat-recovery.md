@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9281e915e079413e59c80f0b3c27bf7743d264d0
-ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.openlocfilehash: 8cf1a27d4e1d6aeb0e982cc26684d5921531c8b1915992d3f991ff01c1920b00
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "6072785"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7109157"
 ---
 للحصول على المبالغ المستردة على مشتريات ضريبة القيمة المضافة (VAT)، يجب على الشركة أو الكيان التعرف على المعلومات الصحيحة وجمعها والتحقق منها وتطبيقها. وتتطلب هذه العملية العديد من الأنشطة التي قد تستلزم العديد من الموظفين أو المناصب، اعتماداً على حجم الشركة.
 

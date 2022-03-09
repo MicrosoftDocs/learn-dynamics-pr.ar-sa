@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4678574f0196849cdb4e7e30153047149037061a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: c09b679d2ba019f65fb7b8ff5467532a2c51cb731509c82f7da7a6a70038cecf
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071926"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075330"
 ---
 الصنف عبارة عن بناء برمجي يعبر عن بيانات وأساليب الكائنات، والتي يتم إنشاؤها لاحقاً من تلك الفئة. يشار إلى هذه الكائنات أيضاً على أنها أمثلة. تحدد البيانات في فئة ما حالة الكائن، وتحدد الأساليب في فئة سلوك هذا الكائن. الأساليب هي سلسلة من العبارات التي تعمل على البيانات في فئة. 
 

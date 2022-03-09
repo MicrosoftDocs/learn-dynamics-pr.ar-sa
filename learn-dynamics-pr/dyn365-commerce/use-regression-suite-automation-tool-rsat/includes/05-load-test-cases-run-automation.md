@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 782e5b5b577fb03a80082f10fa8d4f4eacfc683e
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 02c824cfd23d5c7b460d6a9d362ae08f1f9672b504b87dcb1d7654b5f4850518
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6070445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095094"
 ---
 بعد إكمال تكوين RSAT، يمكن تشغيل حالات الاختبار. يمكنك فقط تشغيل حالات الاختبار التي تم إنشاء ملفات التشغيل التلقائي لها. بعد إنشاء مجموعة الاختبار، يمكن تحميلها في أداة RSAT، والتي يتم تثبيتها عادةً على خادم Azure أو على كمبيوتر محمول. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7889dc830104a9f577dcdaff315f692134319efe
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 1a3a4170229660b490704c6b4d1ce800fce6e14e8ace0fa234fc3beb0e939d97
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7054821"
 ---
 هناك حاجة لوجود تكوين أساسي وعناصر بيانات وإجراءات في كل عمليات التنفيذ التي تسبق إنشاء أي قنوات Commerce أو التوزيع في Dynamics 365 Commerce. 
 

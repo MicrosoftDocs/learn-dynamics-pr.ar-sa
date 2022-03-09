@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0f3818df8788f3973e7a4010edc14ea8d49d5167
-ms.sourcegitcommit: ca87deefdcd512d3b8e382cd49adf8a15d5995fc
+ms.openlocfilehash: 3bc330183e3f97d0a077ec0d7e098572118f95cb3fd29c892d5fc2e3a00f2f78
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6070446"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095110"
 ---
 يمكنك تنزيل ملف حزمة Windows Installer‏ (MSI) لـ RSAT من [Regression Suite Automation Tool ‏(RSAT لتطبيقات Finance and Operations)](https://www.microsoft.com/download/details.aspx?id=57357). انقر نقراً مزدوجاً فوق الملف MSI لتشغيله. بعد تثبيت RSAT، سيطالبك بمكتبات برنامج تشغيل مستعرض الويب وSelenium. إذا كانت المكتبات المطلوبة مفقودة، فسيقوم RSAT بتثبيتها لك تلقائياً.
 

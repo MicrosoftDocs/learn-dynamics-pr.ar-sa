@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 913cf8642867624a6aef53c127048e85ca8964d7
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 19f94e522460333e4617b280b5577f5beb5c1a160392e768c16d0d633667d4d6
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071770"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064365"
 ---
 سيؤدي تنفيذ منهجية إدارة دورة حياة البرنامج (ALM) الصحيحة إلى تحضيرك لعملية التطوير. يمكن أن يؤدي إنشاء خطة لعمليات البناء والاختبار إلى زيادة الإنتاجية، ويمكن أن يضمن استخدام التحكم بالمصادر جودة الكود. بالإضافة إلى ذلك، سيساعد تحديد المخاطر على تقليل أي مشكلات خلال إصدارات التطبيقات  Finance and Operations الجديدة.
 

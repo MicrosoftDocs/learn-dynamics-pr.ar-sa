@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 21662cb899b81d049995faeefdfdbdd9b353f804
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 4688f291d2a0ba994f2b17e755abac0f6b1725199f173cd2a2f506d3dd76a16a
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072442"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099789"
 ---
 
 تنقسم مكتبة الأصول إلى العديد من الفئات التي تحتوي على أنواع مختلفة من الملفات. تشتمل بعض أنواع الملفات التي غالباً ما تستخدمها على:

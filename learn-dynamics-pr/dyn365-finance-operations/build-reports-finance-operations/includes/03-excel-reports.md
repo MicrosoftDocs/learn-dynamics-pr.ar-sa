@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 96455013cead9bd3f1bc9afeee73542a0fa0e05a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: cb0ca613113d6696bd96d6cf55e9e8ebf21f02e2fcb5de9cc948edd632382b41
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071756"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7125461"
 ---
 يمكن استخدام Excel لعرض بيانات المعاملات وتحليلها. يستخدم Finance and Operations تطبيقاً جاهزاً يسمى Excel Data Connector لعرض البيانات وتحديثها وتحريرها داخل مصنف Excel. ستحتاج إلى تنزيل وظيفة Microsoft Dynamics الإضافية لاستخدام هذه الميزة.
 

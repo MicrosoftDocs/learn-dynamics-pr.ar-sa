@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 30d090e4e1185e48a6a5b41832a294366f929864
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: e7079f65a0956a940e194e824453c7206a9853c2d2b69cd42c78ac4672035294
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071392"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048141"
 ---
 
 تصف مستندات التصميم الوظيفية (FDD) الميزات المخططة في التخصيصات. يمكن ان يتضمن المستند أشياء مثل المخططات الانسيابية ولقطات الشاشة وإطارات الأسلاك. ويمكن أن يحتوي أيضا على قائمة منظمة بالمتطلبات التي يمكن استخدامها للتطوير والاختبار وتسجيل العميل.

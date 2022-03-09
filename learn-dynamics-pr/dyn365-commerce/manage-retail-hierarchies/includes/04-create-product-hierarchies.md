@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1da0e16d7de8513ebba6f52b7630986b7a273e63
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 22684799bae331e3a15611b390e867a9169e8a6d7fc2d42e3582149ff2f079d5
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070208"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7095307"
 ---
 يمكن أن يوجد تدرج هرمي منتج واحد فقط في المؤسسة.
 

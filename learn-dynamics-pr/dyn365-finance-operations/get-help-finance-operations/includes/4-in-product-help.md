@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 90a0fa645596180d543f5a58110b2dcd7b725e86
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: a14aeda608d80ab5b2d99c8ef6a23a229e1d17f5
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072323"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7342593"
 ---
 يمكنك رؤية أوصاف الحقول في واجهة المستخدم (UI). بالإضافة إلى ذلك، من جزء **التعليمات**، يمكنك الوصول إلى كلا الموضوعين في موقع المستندات ودلائل المهام.
 
@@ -12,7 +12,7 @@ ms.locfileid: "6072323"
 
 يمكنك عرض أوصاف الحقول في واجهة المستخدم بالمرور فوق أحد الحقول. يمكنك أيضاً استخدام صفحة **أوصاف الحقل** لعرض أوصاف الحقول وتصديرها لصفحة محددة.
 
-لمزيد من المعلومات، راجع [عرض أوصاف الحقول وتصديرها](https://docs.microsoft.com/dynamics365/fin-ops-core/fin-ops/get-started/view-export-field-descriptions/?azure-portal=true).
+لمزيد من المعلومات، راجع [عرض أوصاف الحقول وتصديرها](/dynamics365/fin-ops-core/fin-ops/get-started/view-export-field-descriptions/?azure-portal=true).
 
 ## <a name="access-topics-on-the-docs-site"></a>الوصول إلى الموضوعات في موقع المستندات
 

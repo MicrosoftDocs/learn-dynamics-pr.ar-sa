@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3d74842add40aed5b4805ab1522a0d6b54f47c82
-ms.sourcegitcommit: fde44a19a7497a0d50347583f4126b3e9c0a842c
+ms.openlocfilehash: ebc4115daae7e5910900561e5b6f6fb179d8d034c0191e9aed57837d0cb292b1
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "6112099"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130914"
 ---
 لتنفيذ حدث عمل جديد، تحتاج إلى إنشاء عقد، وإنشاء الحدث، ثم إضافة رمز لإرسال الحدث.
 

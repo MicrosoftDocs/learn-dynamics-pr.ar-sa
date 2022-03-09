@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6ce5c0ad08261bcd087289ceb1731e011f9c1eb
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: eeb0de0d9fc90f86eb220895718754ed751a0fc8f3a67dcad51e2eebbc327b64
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072950"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7052725"
 ---
 تسمح المشاريع الداخلية للشركات بتعقب التكلفة المرتبطة بالأنشطة التي لا يتم إصدار فواتير بها للعميل. تتضمن أمثلة المشاريع الداخلية:
 

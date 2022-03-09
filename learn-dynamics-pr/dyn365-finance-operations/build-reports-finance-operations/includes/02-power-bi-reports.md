@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 21dc5df1ca0ff87e7cafac130cbc6ebd7830a8a8
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 513cb184405c0e369ae324fefb252bdae096f72d4abde8be5c18bfd5c8940444
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071755"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094541"
 ---
 تعد Power BI أداة لترقية استكشاف البيانات. باستخدام أدوات Power BI، يمكنك استكشاف البيانات بشكل تفاعلي لفهمها حقاً. يمكنك وضع أعمدة محورية، وتغيير شكل المخططات، وتصفية البيانات، ومشاركة التقارير. بعد ذلك، يمكن تضمين هذه التقارير ضمن مساحة العمل الموجودة في تطبيقات Finance and Operations. عادةً ما تنطوي أداة Power BI على أهمية خاصة في إنشاء لوحات المعلومات والتقارير غير المتعلقة بالمستندات أو أي تقرير لا يتطلب الطباعة. 
 

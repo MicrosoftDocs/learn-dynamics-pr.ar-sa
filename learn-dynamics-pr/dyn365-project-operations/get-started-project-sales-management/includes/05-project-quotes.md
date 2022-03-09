@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f634408a63d97912440aab8b71f35e7566ef1471
-ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+ms.openlocfilehash: ae02d381203d1f1545ccf54d548cf40102647fb0ed511c444d7bdc21e6d3c049
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "6072852"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7068073"
 ---
 في Project Operations، صُممت أسعار المشروعات للمساعدة في بناء المقترحات لعمل المشروع. يتم بناء عرض أسعار المشروع في Project Operations لعروض المشروع باستخدام المكونات الآتية:
 

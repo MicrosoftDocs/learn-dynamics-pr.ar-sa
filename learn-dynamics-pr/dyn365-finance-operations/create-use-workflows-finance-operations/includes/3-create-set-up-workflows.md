@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a2304580cab60f7f1b88817d260686bb01e50bdd
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 1e6692587b27a05dc2ac53ba5ac7b8aa9b2940df4fb8d5db1c10515bc93dc53d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072305"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105562"
 ---
 يمكن وصف سير العمل على أنه المهام والخطوات الإجرائية والأشخاص المطلوب منهم إدخال المعلومات وإخراجها والأدوات اللازمة لكل خطوة في عملية الأعمال. 
 

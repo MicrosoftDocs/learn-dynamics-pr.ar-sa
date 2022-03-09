@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5e5630869deed14429ef8c34eb88ca8d84bc145b
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 0736e9281b23d22d32945ac058f23ba5f5f4d418eb45ab64397dc91fc5968db2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072270"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130377"
 ---
 تدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات Finance and Operations. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics 365 Lifecycle Services لمساعدتك خلال العملية.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 303f5a233a5964ce2cc738bb9d3c7ea6477099c8
-ms.sourcegitcommit: 1385575708da232750c0993c3bc45466592d057e
+ms.openlocfilehash: 6f0d8914a0d3bdfd05e308265d3d4a5ceadb8a4bd4518ccc13135573347e2a05
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "6070456"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7126973"
 ---
 مثيل الصفحة هو المكان الذي يمكنك فيه العثور على المحتوى المترجم الخاص بالصفحة للوحدات النمطية في التخطيط، مثل كل النصوص والصور والأزرار والمحتوى الخاص بالتسويق والمزيد. 
 

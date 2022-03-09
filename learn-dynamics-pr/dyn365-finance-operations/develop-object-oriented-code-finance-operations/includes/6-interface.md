@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4b8e952e1d240d1b57a3d0fbf0f398f9b5302d72
-ms.sourcegitcommit: 45337c216dae17eda3fd77996e054b20515eb8dc
+ms.openlocfilehash: 41a51f54418f8549b09520d2556b9188cb8332352d5329fb5ad9a2640b9a1e18
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "6072101"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7116030"
 ---
 تُعد *الواجهة* مواصفة لمجموعة من أساليب المثيل العام.
 تحدد الواجهة أوجه التشابه بين الفئات غير المرتبطة وتفرضها دون الحاجة إلى اشتقاق فئة واحدة من الأخرى. تعتبر جميع الواجهات عامة، حتى إذا لم تضف بشكل صريح الكلمة الرئيسية `public` أمام الكلمة الرئيسية `interface` في الكود `classDeclaration` . تعتبر الأساليب الموجودة بالواجهة عامة أيضاً.  

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6f7a206bdd056a459406090396208fff6f9c0be1
-ms.sourcegitcommit: 18dc473e15ee6146bfba3c9e713df1192a14a911
+ms.openlocfilehash: e091e95c7acab5677e8ad41e9b8335523aef64b818219f3696fd7028c07e18ae
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "6072778"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114777"
 ---
 تُعد صفحة **معلمات إدارة المصروفات** هي صفحة الإعدادات الرئيسية لقدرات إدارة المصروفات. تُعد معلمات إدارة المصروفات مهمة، وغالباً ما تشير العديد من الميزات أو الخدمات الأخرى إلى هذه المعلمات. عندما تكون مؤسستك في مرحلة التخطيط الأولي لإدارة المصروفات، تأكد من توجيه عناية خاصة لهذه الإعدادات والتخطيط للإعدادات التي ستتبناها مؤسستك.
 

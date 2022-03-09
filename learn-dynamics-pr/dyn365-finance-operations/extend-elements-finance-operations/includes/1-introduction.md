@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b3a47af7807034f6dfcac7be71875775b5b72959
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a503969fb25a6e0b14cabe21a690932ee9de65d026842dab2ce64ba812ba193f
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071683"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130805"
 ---
 
 يعتمد تطوير تطبيقات Finance and Operations على الملحقات ولا يسمح بتخصيص التعليمات البرمجية الأساسية والعناصر. تسمح طريقة التطوير هذه لتطبيقات Finance and Operations للمطورين بتعديل سلوك التطبيق وعناصره بطريقة أقل تدخلاً. يمكّن هذا الأسلوب المؤسسات من تحديث التطبيق باستمرار بتكاليف أقل وأقل أخطاء في التعليمات البرمجية. 

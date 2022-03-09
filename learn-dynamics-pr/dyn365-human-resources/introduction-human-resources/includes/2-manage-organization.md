@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 29bd6344f1f75c678f2d769c12f44022c01b81b4
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 8319fe65a5d3791e3ad3583874eef05f8bbb16bed7313037ec0d90a18ba7a45b
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115469"
 ---
 يساعدك Dynamics 365 Human Resources على تحقيق التوازن بين التميز التشغيلي وسرعة الحركة التنظيمية وتجربة الموظف لإنشاء مكان عمل يزدهر فيه الأفراد وأعمالك.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c8ecd7c92486c8df41508d6809902521ed0339d
-ms.sourcegitcommit: d487308cec364dcb3458ac4800e98be68da96576
+ms.openlocfilehash: e82a5e2908374e4219ff7b1c995e02bb38d1516cb93d5a8a2b560e426c5b0690
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "6214430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7099182"
 ---
 قبل إنشاء خطط الإجازة في Dynamics 365 Human Resources، تحتاج إلى تكوين الخيارات التالية:
 

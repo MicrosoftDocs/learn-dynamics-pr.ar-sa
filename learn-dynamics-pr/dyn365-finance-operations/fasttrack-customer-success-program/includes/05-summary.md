@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 37353b1e536b76095bce7fb1b5c1bf9e459895ba
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f50fe98dd6bfed4fc49f430b125cc2c90d8188518ce028a4a071a4e89d8e1a7e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071949"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094224"
 ---
 الهدف الأساسي لبرنامج FastTrack وفريق "نجاح العميل والشريك"، بشكلٍ عام، هو إضفاء الطابع الديمقراطي على أفضل الممارسات وتقديم التوجيه لزيادة فرص نجاح عمليات تنفيذ Finance and Operations. 
 

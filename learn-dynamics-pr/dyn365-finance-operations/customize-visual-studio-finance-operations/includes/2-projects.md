@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9f0fa77a6cc87392ee28ef4bd8925dffb6d21662
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: ae966f418522074b6a34bdaee4e437287a85ae4eb8f50d9478a27d972508ce5d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072267"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105525"
 ---
 تحتوي المشاريع في Visual Studio على عناصر يتم تخزينها كبيانات تعريف عند إنشائها. وبعد ذلك يستخدم التطبيق بيانات التعريف لتشغيل ملحقاتك. 
 

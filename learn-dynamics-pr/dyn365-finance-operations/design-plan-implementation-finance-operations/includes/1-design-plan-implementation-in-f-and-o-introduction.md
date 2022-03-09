@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6aafa095f18c56cec88b594f12de852be43d3ac0
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a3ad0c414ead39a3ffb53d476ab8a44161374a64d71bfd97f3e88853d173f9ac
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071713"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7048147"
 ---
 وباستخدام التخطيط المناسب، ستكون عملية تنفيذ تطبيقات Finance and Operations ناجحة. بعد قيام أحد العملاء بتوقيع اتفاقية لشراء تراخيص تطبيقات Finance and Operations، يبدأ عملك كمستشار وظيفي من خلال إدارة دورة حياة التطبيق والتحرك نحو التنفيذ القابل للتوقيت والقابل للتكرار، وعالي الجودة.
 

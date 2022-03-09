@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c1f0a351819876dd52e626cb7b39469c4563fd2f
-ms.sourcegitcommit: 2475a4326b76fa8838c2e4e6885473bdd6fe6270
+ms.openlocfilehash: 92924f379de93ca9b3cda38521fb2e00572f3b09a1725c16363c5a5bef29c890
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "6072671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115442"
 ---
 تساعدك Dynamics 365 Human resources على إنشاء برامج موارد بشرية ميسورة التكلفة وأتمتة العمليات لتعقب المزايا والتعويضات والامتثال وبرامج الغياب والإجازات.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1a95bb9c8b159ecc3824e556137fc6abe599ae14
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 912411273f63e51368c22ee0beb1cf2bf48bc8c6116be4f92dc9e930635b1296
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6070385"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7110718"
 ---
 يستخدم Dynamics 365 Commerce العديد من العوامل لتأسيس سعر المبيعات قبل تطبيق الخصومات أو القسائم. يتم تأسيس سعر المبيعات لأحد الأصناف في ثلاثة مواقع:
 

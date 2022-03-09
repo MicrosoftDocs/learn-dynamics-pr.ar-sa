@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d47f05b0eb9af05d98fb6e1f25aa01a40bd164d
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f1e5f136531a678b53e5cf9c85294fcf31701d4f8d893212976b2f5ff0029d1e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071555"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094413"
 ---
 تدعم عمليات التكامل أنواعاً عديدة من تنسيقات المستندات وتعيين المصادر وعوامل التصفية وتحولات لغة ورقة الأنماط الموسعة (XSLT). يتيح لك هذا الدعم استخدام واجهات برمجة التطبيقات (API) لنقل الحالة التمثيلية الآمنة (REST) وآليات التفويض الأخرى لإرسال واستقبال البيانات باستخدام أنظمة التكامل والبناء على كيانات البيانات وإطار عمل إدارة البيانات.
  

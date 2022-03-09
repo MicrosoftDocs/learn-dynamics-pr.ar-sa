@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ad49d18be8a3e4274ff939ff5d59b4126ade941
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: c77fa6f1d82e24c810d6ab41c7eda4ed8e4116e6
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072919"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7324389"
 ---
 في Project Operations، يتم إنشاء الفواتير الأولية كملحق للفواتير في Dynamics 365 Sales. ومع ذلك، تحدث العديد من الاختلافات في عملية الفوترة بين Sales وProject Operations. 
 
@@ -66,4 +66,4 @@ ms.locfileid: "6072919"
 
 - **‏‫تراكم فوترة الوقت والمواد‬** - يسرد جميع القيم الفعلية للمبيعات غير المفوترة عبر كافة عقود المشاريع في النظام التي لم تتم فوترتها. ويمكن تحديد القيم الفعلية للمبيعات غير المفوترة المفردة أو المتعددة بأنها **جاهزة للفوترة** أو **غير جاهزة للفوترة** من طريقة العرض هذه. ويؤدي تحديد القيمة الفعلية غير المفوترة بأنها **جاهزة للفوترة** إلى إتاحة وضعها في فاتورة مسودة.
 
-تعرف على المزيد حول الفوترة في [الشروع في العمل باستخدام الفوترة في الوحدة النمطية Dynamics 365 Project Operations](https://docs.microsoft.com/learn/modules/get-started-invoicing-project-operations/?azure-portal=true).
+تعرف على المزيد حول الفوترة في [الشروع في العمل باستخدام الفوترة في الوحدة النمطية Dynamics 365 Project Operations](/learn/modules/get-started-invoicing-project-operations/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46d73e22d6123e356c91925c71ef36c1801399cb
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: 03f9e384dc3ec2f6cdfb3ca785476a1d9a5dd8fa6ae8d4fcb364df2afc8c7037
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072302"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130848"
 ---
 تستخدم التقارير مصادر البيانات لسحب البيانات. SQL Server Reporting Services (SSRS) وPower BI هما أداتان لإعداد التقارير تستخدمان مصادر البيانات. تغطي هذه الوحدة إنشاء مصادر البيانات وتعديلها لأداتي إعداد التقارير هاتين.
 

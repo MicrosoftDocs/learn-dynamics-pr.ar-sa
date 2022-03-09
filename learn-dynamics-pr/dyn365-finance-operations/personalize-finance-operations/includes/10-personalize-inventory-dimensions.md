@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1c8547087ef3f6aae10fc19d487523bd2d82084
-ms.sourcegitcommit: 7d4cc5f2048fa309552e39da447684b1d06d0772
+ms.openlocfilehash: 3d79b52795d37345f7b337cd2864a0b0ca2dd13de0aedaac3e025da555640295
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/13/2021
-ms.locfileid: "6072471"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7130617"
 ---
 عند تخصيص إعداد أبعاد المخزون في إحدى الصفحات، ضع في حسبانك الإعدادات التي تم إنشاؤها باستخدام الخيار **أبعاد العرض**. 
 

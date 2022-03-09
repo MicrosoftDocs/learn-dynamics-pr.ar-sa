@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 605bceac17aa015c5f14e6d8c3509583ce181b35
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 1c9f276a6279e0d85e531247473e8860fe63f24e
+ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071494"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "7365827"
 ---
 تستند بنية الأمان في تطبيقات Finance and Operations إلى الأدوار، ويجب تعيين دور لجميع المستخدمين للوصول إلى التطبيق. 
 
@@ -20,5 +20,5 @@ ms.locfileid: "6071494"
 
 | الموضوع | الرابط|
  | ------------- | ------------- |
- | نظرة عامة حول الأمان المستند إلى الدور   | [الأمان المستند إلى الدور](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security/?azure-portal=true)|
+ | نظرة عامة حول الأمان المستند إلى الدور   | [الأمان المستند إلى الدور](/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security/?azure-portal=true)|
 

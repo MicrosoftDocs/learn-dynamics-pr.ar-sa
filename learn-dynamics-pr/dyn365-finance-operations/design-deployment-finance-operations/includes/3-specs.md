@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2a55c01282133da6350b65064db268799c0aa4ab
-ms.sourcegitcommit: 376bcfca0ae39f70ac627a080fe4b4c3db34e466
+ms.openlocfilehash: adeac2750d74aff7b16f9ebcb7ec8f832438e7ec1380ba2e78b744bc930fc300
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "6072318"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7094396"
 ---
 لفهم متطلبات تطوير التخصيصات للتنفيذ الخاص بك، تحتاج إلى معالجة تأثيرات تنفيذ ميزة جديدة وكيف يمكن أن تؤثر على الوظيفة الحالية. تحتاج إلى فهم العمليات الحالية ومقارنة كيف ستحتاج إلى تنفيذها في النظام الجديد. 
 

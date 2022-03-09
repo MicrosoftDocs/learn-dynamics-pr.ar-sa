@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c618bb0f1c2ad1d92eae8cdc1a7155734e8829f1
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: f37f5062f2d6800ff8c90471b6edf21b44cbaaaa7de801b6c8bdb5a62a6573a2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071880"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7105495"
 ---
 
 عند تحديد مفاهيم الأعمال ذات الصلة ببناء وثائق التصميم للتنفيذ، تحتاج إلى التفكير في بعض المفاهيم المهمة التي تؤثر على المشاريع في كثير من الأحيان، مثل البنية المحتملة واحتياجات التنفيذ.

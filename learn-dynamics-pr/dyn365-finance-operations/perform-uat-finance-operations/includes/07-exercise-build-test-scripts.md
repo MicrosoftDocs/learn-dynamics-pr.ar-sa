@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f1f4836651e61c891ababfbe1e488ee1db503df1
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: bc95d8d6225549d2fb0d5ac5447ef31fbd25bbf320048c806688a0818e5a3e13
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072440"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7064022"
 ---
 بعد إنشاء مكتبة أداة تكوين عمليات الأعمال (BPM)، ستحتاج إلى استخدام مسجل المهام لإنشاء حالات الاختبار ومن ثمَّ قم بتحميل الحالات إلى مكتبة BPM.
 

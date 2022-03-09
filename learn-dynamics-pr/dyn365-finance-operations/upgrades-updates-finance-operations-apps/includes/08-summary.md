@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e451a9244fb9d6581e9f459724ea9675d1f74360
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 0d533126087c3738d8e262a813a874c9ef4d5adc8154c067a58673e51e76e02c
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071301"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7075019"
 ---
 تؤدي ترقية Dynamics AX 2009و AX 2012إلى Finance and Operations أو الانتقال من إصدارات سابقة مثل Finance and Operations 7. x أو 8. x، إلى الحصول على المزيد من الفوائد مثل الميزات والوظائف الجديدة وخفض التكلفة في الترحيل والبنية الأساسية المكلفة وتقليل الوقت والجهد للتحديث والتكامل السلس مع تطبيقات أخرى مثل Power Apps وPower BI والذكاء الاصطناعي والتعلم الآلي، Microsoft Office. توفر الترقية إلى Finance and Operations عمليات متواصلة وفعالة والوصول إلى طريقة بسيطة للبقاء على اطلاع بأحدث الإصلاحات والتحسينات التي تمت على تخطيط موارد المؤسسة (ERP) باستخدام التحديثات المستمرة المجدولة. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7bee1981c7b249020f7bf3c1172c4f1132538e3b
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: 852f96b36452e2d356f358c3fb3d436da9abe4795e01d5c1495da1965f8d0af7
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071707"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7136678"
 ---
 يوضح هذا العرض التوضيحي كيفية إنشاء مساحات عمل لتطبيقات الأجهزة المحمولة واستخدامها.
 

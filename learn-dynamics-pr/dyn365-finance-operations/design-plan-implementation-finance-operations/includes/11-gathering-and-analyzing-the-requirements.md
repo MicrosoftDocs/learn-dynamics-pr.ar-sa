@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cfdb1f2835b8612ad1045524a4a94615e804251a
-ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+ms.openlocfilehash: a0ecac22f94c055fe088834ba42228e98a9c15082fa3c5d5804e1dfbce6f6d28
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "6071924"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7087751"
 ---
 وعندما لا يمكن تحقيق متطلبات العميل مع الوظائف المبتكرة لتطبيقات Finance and Operations، يجب بدء مرحلة التحليل. عندما يكون المتطلب مطلوًبا، يجب الأخذ في الاعتبار التخصيص.
 

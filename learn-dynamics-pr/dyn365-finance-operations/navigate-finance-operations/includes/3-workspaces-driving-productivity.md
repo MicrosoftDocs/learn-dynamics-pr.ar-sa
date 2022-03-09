@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 811e3649d6129d4eb4a1f6bde78c513abf043fe9
-ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+ms.openlocfilehash: 65e2e7de19770319e1d6ecec609912def94a0db5d7c0abee15628d1e32de11e2
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "6072429"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7058931"
 ---
 مساحة العمل هي محطة واحدة لأنشطة محددة. فيما يلي بعض الطرق التي يمكن أن تساعد بها مساحة العمل في زيادة الإنتاجية:
 

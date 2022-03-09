@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3b19477888337d6b6a1112659336966580e45244
-ms.sourcegitcommit: 92a606f075028b19e15ae2f9ba20912cbeb643e1
+ms.openlocfilehash: 1167c751648150f085b46ae3ac28723f7a7ef86b747d54dc3e8659bc7dfc14df
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "6072946"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115001"
 ---
 تتضمن Project Operations طريقتي عرض مخصصتين لمساعدتك في العمل مع تراكم الفوترة وإدارتها: 
 

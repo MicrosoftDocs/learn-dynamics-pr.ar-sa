@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d71f72d751e72bf93d9b906400eebbbe8fad01ff
-ms.sourcegitcommit: 87b2596ffaa2b3239b7034d89fa9c0deeab4212d
+ms.openlocfilehash: 1f260211ccb3bcc77ebe30e36ee4365a323c1f698524356a0ad74d99c6e0d22e
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "6072808"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7115148"
 ---
 تتيح لك إدارة المصروفات في Microsoft Dynamics 365 Project Operations إعداد السياسات التي يتم فرضها بشكل منهجي لضمان اتباع موظفيك لها. توفر إدارة المصروفات الوقت وتقلل من احتمالية حدوث خطأ بشري. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5d02692f2c2a1112d47fdb549a08a40ae4691a9f
-ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+ms.openlocfilehash: f359fea815c54722726d4f49d85feebeb9aca343713f9786f83e99479c3847f8
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "6072833"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7081985"
 ---
 لقد تعرفت في هذه الوحدة على عمليات المبيعات الآتية المستخدمة في المؤسسة مستندة إلى مشروع والتي تستخدم سيناريو توزيع Project Operations للسيناريوهات المستندة إلى الموارد/غير المخزّنة والتوزيع الخفيف - التعامل مع الفواتير الأولية:
 

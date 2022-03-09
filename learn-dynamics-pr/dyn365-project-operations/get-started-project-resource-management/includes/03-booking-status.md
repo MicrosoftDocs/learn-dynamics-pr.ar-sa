@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7b2f0ba3e83b274f7a6be1027006a0f89852c0fc
-ms.sourcegitcommit: ecd5b30834eade4258e6987fff347afcf97fbf7a
+ms.openlocfilehash: 8a3cc52082d2f0c0d821f54d82229752624619cfe568759a65b518256d22ad8d
+ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "6072909"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "7114896"
 ---
 تسمح لك حالات الحجز بإنشاء العديد من الحالات الفرعية التي يتم تعيينها لكل حالة من حالات الحجز لتحديد العمليات التجارية الفريدة لشركتك بدقة أكبر.
 

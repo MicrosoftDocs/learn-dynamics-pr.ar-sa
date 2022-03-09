@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.guided-lab-intelligent-order-management.08-onboard-provider-instance
-title: مثيل موفر الإعداد
+title: إضافة مثيل موفر
 metadata:
-  title: مثيل موفر الإعداد
-  description: مثيل موفر الإعداد في Intelligent Order Management
+  title: إضافة مثيل موفر
+  description: إضافة مثيل موفر لـ Intelligent Order Management.
   ms.date: 01/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ab070e73cd3028770dd41dead15d0394d2e53c54
-  ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
+  ms.openlocfilehash: 192924bde9cb7925ca92756ed26b1ef9921415f6
+  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/31/2022
-  ms.locfileid: "8075772"
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "8091335"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-onboard-provider-instance.md)]"
