@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص وحدة "بدء إجراء مكالمات Remote Assist"
-  ms.date: 6/1/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/20/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 123ab98fe5a4b27f374834beaf03556cdfc5d1ed
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 53421ef3c4541abe4d9fa1a89a2ec3cedb3d8891
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434095"
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7513573"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

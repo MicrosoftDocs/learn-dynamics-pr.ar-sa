@@ -3,19 +3,18 @@ uid: learn-dynamics.lead-management.6-knowledge-check
 metadata:
   title: إدارة العملاء المحتملين باستخدام فحص المعرفة في Dynamics 365 Sales
   description: إدارة العملاء المحتملين باستخدام فحص المعرفة في Dynamics 365 Sales
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: f9e4dc6ee59fe5f7b8f22bdea30358757115b32f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 12ae335e46bd35b0ab3feaf02aae783ac6e74414
+  ms.sourcegitcommit: ca713052feaf6cfc7793be55554a1a3fdb0c997e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436281"
+  ms.lasthandoff: 09/03/2021
+  ms.locfileid: "7472744"
 title: اختبر معلوماتك
-durationInMinutes: 5
+durationInMinutes: 6
 quiz:
   title: إدارة العملاء المحتملين باستخدام فحص المعرفة في Dynamics 365 Sales
   questions:

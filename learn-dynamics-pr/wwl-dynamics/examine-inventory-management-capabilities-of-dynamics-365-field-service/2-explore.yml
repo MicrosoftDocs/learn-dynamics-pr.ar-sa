@@ -4,17 +4,18 @@ title: استكشاف إدارة المخزون
 metadata:
   title: استكشاف إدارة المخزون
   description: استكشاف إدارة المخزون
-  ms.date: 07/22/2021
+  ms.date: 12/01/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-field-service
-  ms.openlocfilehash: 4d538823c5d2d3b64a070136579e0504dc52724f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: d0e922bfecc49f26f4361fba29a0b7b0105e0f78
+  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438578"
+  ms.lasthandoff: 12/01/2021
+  ms.locfileid: "7878505"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/2-explore.md)]'

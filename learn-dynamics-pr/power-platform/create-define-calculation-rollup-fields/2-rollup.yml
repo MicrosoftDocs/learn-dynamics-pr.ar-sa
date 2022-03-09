@@ -4,18 +4,17 @@ title: إنشاء عمود القيمة المحتسبة
 metadata:
   title: إنشاء عمود القيمة المحتسبة
   description: تعرّف على كيفية إنشاء عمود القيمة المحتسبة في Microsoft Dataverse.
-  ms.date: 07/26/2019
-  author: kschimke
-  ms.author: kschimke
+  ms.date: 02/01/2022
+  author: DaveBeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 4e88db4123117556e8e2fddd5f6d7c394f427fbc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: bb20c494b41a85292cf632a1c0a2862d06b62017
+  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457390"
+  ms.lasthandoff: 02/01/2022
+  ms.locfileid: "8079426"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

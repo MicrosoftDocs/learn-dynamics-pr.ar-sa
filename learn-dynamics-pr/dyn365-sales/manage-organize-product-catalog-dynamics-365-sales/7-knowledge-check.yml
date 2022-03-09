@@ -3,19 +3,18 @@ uid: learn-dynamics.product-catalog.7-knowledge-check
 metadata:
   title: فحص معرفة كتالوج منتجات Dynamics 365
   description: فحص معرفة كتالوج منتجات Dynamics 365
-  ms.date: 01/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: a96728b736cea2682ca1cfc188db3459f9a75a8a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b5e44fafb85e26800b8d0e65c019037f549cd583
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436124"
+  ms.lasthandoff: 09/20/2021
+  ms.locfileid: "7505494"
 title: اختبر معلوماتك
-durationInMinutes: 5
+durationInMinutes: 8
 quiz:
   title: فحص معرفة كتالوج منتجات Dynamics 365
   questions:

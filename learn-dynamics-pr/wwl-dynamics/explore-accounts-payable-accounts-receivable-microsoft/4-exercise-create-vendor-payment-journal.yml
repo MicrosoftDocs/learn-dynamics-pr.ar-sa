@@ -4,17 +4,17 @@ title: 'معمل: إنشاء دفتر يومية دفع البائع'
 metadata:
   title: 'معمل: إنشاء دفتر يومية دفع البائع'
   description: 'معمل: إنشاء دفتر يومية دفع البائع'
-  ms.date: 07/15/2021
+  ms.date: 10/06/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 1a61440ce48af9d42d27475b971e9c81f2be137a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: e41011380841279d523e30d1edb7a701f90b1743
+  ms.sourcegitcommit: bd5135aefecffa020f588809d29180e2f7063569
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438540"
+  ms.lasthandoff: 10/06/2021
+  ms.locfileid: "7606982"
 azureSandbox: false
 labId: 88384
 labModal: true

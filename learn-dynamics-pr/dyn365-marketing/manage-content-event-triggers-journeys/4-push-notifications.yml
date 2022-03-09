@@ -4,15 +4,15 @@ title: إنشاء الإخطارات المؤقتة
 metadata:
   title: إنشاء الإخطارات المؤقتة
   description: تعرّف على كيفية إنشاء الإخطارات المنبثقة.
-  ms.date: 08/31/2021
+  ms.date: 09/14/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5251ac8dd3a1ed9b53ab43bc8a2f4ae6cdb3b55d
-  ms.sourcegitcommit: 627204a9c92e0b1421cec8a3463b5eafb67e427a
+  ms.openlocfilehash: f8a709696e056b907eb797df319c9c888cf171fd
+  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2021
-  ms.locfileid: "7469014"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "7497979"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-push-notifications.md)]"

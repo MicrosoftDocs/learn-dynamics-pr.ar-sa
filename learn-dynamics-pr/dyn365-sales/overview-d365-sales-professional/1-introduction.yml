@@ -4,18 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 4221133ca173604ac668d735687dae1fe71c3fcf
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ed9787fca03f17bfddb85475a8b40b6aed950359
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436191"
-durationInMinutes: 5
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7515215"
+durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]
 

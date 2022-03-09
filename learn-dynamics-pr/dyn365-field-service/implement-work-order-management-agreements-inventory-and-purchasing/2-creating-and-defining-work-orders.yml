@@ -4,18 +4,17 @@ title: إنشاء أوامر العمل وتحديدها
 metadata:
   title: إنشاء أوامر العمل وتحديدها
   description: إنشاء أوامر العمل وتحديدها
-  ms.date: 01/25/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 792b074b956736ded43b5c86c4b8f54651630c72
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a27bf47eabca0c17cd1f38507b148ceb6eb72fc8
+  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434226"
-durationInMinutes: 8
+  ms.lasthandoff: 09/23/2021
+  ms.locfileid: "7513886"
+durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]
 

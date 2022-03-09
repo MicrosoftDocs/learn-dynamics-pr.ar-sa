@@ -4,17 +4,18 @@ title: وصف حالات الاستخدام لعقود المشروع
 metadata:
   title: وصف حالات الاستخدام لعقود المشروع
   description: وصف حالات الاستخدام لعقود المشروع
-  ms.date: 07/22/2021
+  ms.date: 11/10/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 3eb82e0dbf150a1632ca5be9b885cf4123542d22
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 16859f0d87074c82ae9d104dc882e9c86ffbae84
+  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438622"
+  ms.lasthandoff: 11/10/2021
+  ms.locfileid: "7792154"
 azureSandbox: false
+labModal: false
 durationInMinutes: 9
 content: '[!include[](includes/6-describe-use-cases-project-contracts.md)]'

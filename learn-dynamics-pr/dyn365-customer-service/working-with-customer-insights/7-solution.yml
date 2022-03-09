@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.working-with-customer-insights.7-solution
-title: استخدام Customer Insights للحصول على حل كامل
+title: استخدام رؤى الجمهور للحصول على حل كامل
 metadata:
-  title: استخدام Customer Insights للحصول على حل كامل
-  description: تعرف على كيفية استخدام Customer Insights للحصول على حل كامل.
+  title: استخدام رؤى الجمهور للحصول على حل كامل
+  description: تعرف على كيفية استخدام رؤى الجمهور للحصول على حل كامل.
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ef22339447f995f1f474048072081fbd81acb423
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 35b41349dc9358e75ba553450e2ab76b6d8be1f9
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7440100"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7486194"
 durationInMinutes: 7
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-solution.md)]"

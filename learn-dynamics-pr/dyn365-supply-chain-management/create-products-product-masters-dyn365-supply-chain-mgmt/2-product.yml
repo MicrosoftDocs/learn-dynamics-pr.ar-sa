@@ -3,18 +3,17 @@ uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.
 title: مفهوم المنتج
 metadata:
   title: مفهوم المنتج
-  description: تشرح هذه الوحدة مفهوم المنتج في إدارة سلسلة التوريد.
+  description: تعرّف على مفهوم أحد المنتجات في Supply Chain Management.
   ms.date: 05/18/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: dd7d6f42f11b8d2b77a1938a93d891ab876a516e
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: b83b43e439427eb0e5ee12a6ee5d7b9dfe5c0941
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6668223"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7893160"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

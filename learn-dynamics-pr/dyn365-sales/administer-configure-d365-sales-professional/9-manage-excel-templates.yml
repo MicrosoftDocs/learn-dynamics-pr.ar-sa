@@ -4,17 +4,16 @@ title: إدارة قوالب Excel
 metadata:
   title: إدارة قوالب Excel
   description: إدارة قوالب Excel
-  ms.date: 05/14/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/15/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: e69b7c29d7f7f37667eb3e24b9578dfbc6c78f46
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: bf885997d6e2ed8c963fc3c9544a71083a7f014c
+  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436172"
+  ms.lasthandoff: 09/19/2021
+  ms.locfileid: "7503328"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

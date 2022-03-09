@@ -3,20 +3,20 @@ uid: learn-bizapps.implement-work-order-management-agreements-inventory-and-purc
 metadata:
   title: إدارة أوامر العمل والاتفاقيات والمخزون والشراء في Dynamics 365 Field Service
   description: إدارة أوامر العمل والاتفاقيات والمخزون في Field Service.
-  ms.date: 01/25/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 09/16/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d866ed5698aff9f1e262f10457aa1d90286eb151
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c0d69c56113e6934f2e6025fc2d716ec8c5e4b9f
+  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434195"
+  ms.lasthandoff: 09/22/2021
+  ms.locfileid: "7512027"
 title: إدارة أوامر العمل والاتفاقيات والمخزون والشراء في Dynamics 365 Field Service
-summary: "[!include[](../includes/module-banner.md)]\n\nاستفد من الاتفاقيات للمساعدة في إنشاء أوامر العمل وفقاً لجدول زمني محدد مسبقاً مثل سيناريوهات الصيانة الوقائية.  بالإضافة إلى ذلك، من خلال الاستفادة من المخزون، يمكنهم إدارة مستويات المخزون بشكل أكثر فعالية في المستودعات والتأكد من أن الفنيين لديهم ما يحتاجون إليه لتقديم الخدمات لعملائهم أثناء تواجدهم في الحقل.     يحتوي Dynamics 365 على العديد من العناصر الأساسية التي يمكن تكوينها لتخصيص تنفيذ Field Service بشكل أفضل لتلبية الاحتياجات المطلوبة للمؤسسة.  \n"
+summary: "[!include[](../includes/module-banner.md)]\nاستفد من الاتفاقيات للمساعدة في إنشاء أوامر العمل وفقاً لجدول زمني محدد مسبقاً مثل سيناريوهات الصيانة الوقائية.  بالإضافة إلى ذلك، من خلال الاستفادة من المخزون، يمكنهم إدارة مستويات المخزون بشكل أكثر فعالية في المستودعات والتأكد من أن الفنيين لديهم ما يحتاجون إليه لتقديم الخدمات لعملائهم أثناء تواجدهم في الحقل.     يحتوي Dynamics 365 على العديد من العناصر الأساسية التي يمكن تكوينها لتخصيص تنفيذ Field Service بشكل أفضل لتلبية الاحتياجات المطلوبة للمؤسسة.  \n"
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - تحديد دورة حياة أمر العمل
 
@@ -27,7 +27,7 @@ abstract: >
   - إنشاء وإدارة الاتفاقيات
 
   - تحديد وإدارة المخزون والمستودعات
-prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد فهم تطبيق Field Service.
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد فهم تطبيق Field Service.
 iconUrl: /learn/achievements/work-order-management-agreements-inventory-and-purchasing-in-microsoft-dynamics-365-for-field-service.svg
 levels:
 - intermediate

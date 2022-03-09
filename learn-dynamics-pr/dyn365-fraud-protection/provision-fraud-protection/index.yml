@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2bdc9a6165d17142cbb5dfd467fdae97b69b52f0
-  ms.sourcegitcommit: 917d1f0968d01f74c095042b24ba5acfbe111f76
+  ms.openlocfilehash: 568852964ad9bcaad5d774b59fd1e62a8cb9f5b3
+  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7582763"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "8013913"
 title: توفير Dynamics 365 Fraud Protection
 summary: "[!include[](../includes/module-banner.md)] \nإن Microsoft Dynamics 365 Fraud Protection عبارة عن حل قائم على السحابة مصمم للتجارة الإلكترونية والمتاجر التقليدية والتجار متعدد القنوات للمساعدة في حماية إيراداتهم وسمعتهم من خلال توفير الأدوات والقدرات لتقليل الاحتيال وإساءة الاستخدام وتقليل النفقات التشغيلية وزيادة معدلات القبول، كل ذلك مع حماية حسابات المستخدمين من التعرض للاحتيال. عندما تقوم بإعداد مثيل Dynamics 365 Fraud Protection الخاص بك، سيتم تحديد بين أحد طريقتي التوفير.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر Microsoft Azure جديد.\n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر جديد.\n- تعرف على كيفية إعداد مثيل Dynamics 365 Fraud Protection تم شراؤه.\n- تعرف على كيفية تكوين وصول المستخدم.\n"
@@ -30,7 +30,6 @@ roles:
 products:
 - dynamics-365
 - dynamics-fraud-protection
-- dynamics-commerce
 units:
 - learn-dynamics.provision-fraud-protection.01-introduction
 - learn-dynamics.provision-fraud-protection.02-new-azure-tenant

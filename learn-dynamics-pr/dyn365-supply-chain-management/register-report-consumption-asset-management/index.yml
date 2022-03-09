@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: be8c938eae4d004b21f6ed8fbde705856945b640
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.openlocfilehash: d9249086e17c57ec0632de1544823b5c68b31d1a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667679"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7347572"
 title: تسجيل الاستهلاك والإبلاغ عنه في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nيتم إكمال تسجيلات الاستهلاك عند اكتمال مهمة الصيانة لأحد أوامر العمل. يغذي التسجيل التكاليف المرتبطة بالأصل وتقارير الاستهلاك في إدارة الأصول لـ Dynamics 365 Supply Chain Management.\n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n-  تسجيل الاستهلاك، وترحيل دفاتر اليومية.\n-  إنشاء تقارير الاستهلاك لتعقب الاستهلاك المرحل في أوامر العمل وإدارته.\n"

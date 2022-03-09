@@ -1,22 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.common-actions-client-script-power-platform.4-exercise
-title: تمرين - اكتب أول برنامج نصي للعميل
+title: تمرين - استخدام البرنامج النصي للعميل لإخفاء قسم النموذج
 metadata:
-  title: تمرين - اكتب أول برنامج نصي للعميل
-  description: تدرب على كتابة أول برنامج نصي للعميل.
-  ms.date: 07/15/2019
-  author: davebeasley
+  title: تمرين - استخدام البرنامج النصي للعميل لإخفاء قسم النموذج
+  description: خطوات استخدام البرنامج النصي للعميل لإخفاء قسم النموذج.
+  ms.date: 10/11/2021
+  author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: edaa40f2606f591e8199973ac02ad8e5ccf95337
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 262500879be820881eaad4b510a55c58f2c749e1
+  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457575"
-durationInMinutes: 60
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "7625168"
+durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]
 

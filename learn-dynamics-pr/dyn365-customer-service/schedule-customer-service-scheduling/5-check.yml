@@ -4,35 +4,35 @@ title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 10/11/2021
+  ms.date: 10/26/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 7483dbfb52889df10f42b3592aeb2cf3324f0d30
-  ms.sourcegitcommit: 784ea0ea12d2d74af667d400d1909ee9d9de4ae0
+  ms.openlocfilehash: de8efce66a4106db6201b0c36342ccbe88b3bd27
+  ms.sourcegitcommit: 02114ca1b6f2674d26e02c4aaf530f01246e1dc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/12/2021
-  ms.locfileid: "7626725"
+  ms.lasthandoff: 10/27/2021
+  ms.locfileid: "7700467"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لمعرفة ما تعلمته.
+  title: أجب عن الأسئلة التالية لترى ما تعلمته.
   questions:
-  - content: أي مما يأتي يمكنك إضافته إلى خدمة لتحديد القواعد بهدف اختيار مجموعة من الموارد لتقديم الخدمة؟
+  - content: أي من الخيارات التالية يمكنك إضافته إلى خدمة لتحديد القواعد بهدف اختيار مجموعة من الموارد المطلوبة لتقديم الخدمة؟
     choices:
     - content: نشاط الخدمة
       isCorrect: false
       explanation: نشاط الخدمة يستخدم الخدمة ويمثل تنفيذ الخدمة للعميل في الموقع.
-    - content: فئة المَورد
+    - content: فئة المورد
       isCorrect: false
-      explanation: تقوم فئة المورد بتجميع الموارد التي لها أدوار أو وظائف متشابهة. يمكن استخدام فئات الموارد في مجموعة المتطلبات لتحديد أنواع الموارد المطلوبة لتنفيذ الخدمة.
+      explanation: ستقوم فئة المورد بتجميع الموارد التي لها أدوار أو وظائف متشابهة. يمكنك استخدام فئات الموارد في مجموعة المتطلبات لتحديد أنواع الموارد المطلوبة لتقديم الخدمة.
     - content: مجموعة المتطلبات
       isCorrect: true
-      explanation: مجموعات المتطلبات المحددة في الخدمة تتيح تحديد قواعد اختيار الموارد المطلوبة لتنفيذ الخدمة.
+      explanation: مجموعات المتطلبات المحددة في الخدمة ستتيح تحديد قواعد اختيار الموارد المطلوبة لتنفيذ الخدمة.
     - content: تفضيل التنفيذ
       isCorrect: false
-      explanation: تحدد تفضيلات التنفيذ كيفية إنشاء الفترات الزمنية والفجوات بواسطة Universal Resource Scheduling عند جدولة نشاط خدمة.
+      explanation: تحدد تفضيلات التنفيذ كيفية إنشاء الفترات الزمنية والفجوات بواسطة Universal Resource Scheduling عندما تقوم بجدولة نشاط خدمة.
   - content: ما إمكانية الجدولة الشائعة لـ Dynamics 365 المستخدمة بواسطة جدولة Customer Service؟
     choices:
     - content: Connected Customer Service
@@ -40,24 +40,24 @@ quiz:
       explanation: تعمل Connected Customer Service على ربط Dynamics 365 Customer Service بخدمات Azure IoT لمراقبة الأجهزة البعيدة وإدارتها في مواقع العملاء. لا تُستخدم في الجدولة.
     - content: خصائص الموارد
       isCorrect: false
-      explanation: تُستخدم خصائص الموارد لتحديد المهارات والشهادات المتوفرة لدى الموارد والتي يمكن استخدامها عند الجدولة للعثور على أنسب مَورد لإكمال العمل.
-    - content: Resource Schedule Optimization (RSO)
+      explanation: تُستخدم خصائص الموارد لتحديد المهارات والشهادات التي تحتفظ بها الموارد التي يمكنك استخدامها عند الجدولة للعثور على أنسب مَورد لإكمال العمل.
+    - content: Resource Schedule Optimization
       isCorrect: false
-      explanation: يقوم Resource Schedule Optimization (RSO) تلقائيًا بجدولة الأصناف إلى الأشخاص والمعدات وأفضل المرافق لإكمالها. يستخدم RSO خوارزميات متقدمة لتحسين الموارد في الجدول لتحقيق الهدف المحدد.
-    - content: Universal Resource Scheduling (URS)
+      explanation: يقوم Resource Schedule Optimization تلقائياً بجدولة الأصناف إلى الأشخاص والمعدات وأفضل المرافق لإكمالها. ويستخدم خوارزميات متقدمة لتحسين الموارد في الجدول لتحقيق الهدف المحدد.
+    - content: Universal Resource Scheduling
       isCorrect: true
-      explanation: تعمل جدولة Customer Service على الاستفادة من Universal Resource Scheduling (URS) لجدولة أنشطة الخدمة. توفر URS وظيفة الجدولة الأساسية المستخدمة بواسطة حلول الطرف الأول Dynamics 365 مثل Dynamics 365 Customer Service وDynamics 365 Field Service وDynamics 365 Project Operations.
-  - content: ما الذي يجب عليك تكوينه لإنشاء المواعيد في بداية الساعة ونهايتها بين الساعة 9:00 والساعة 17:00؟
+      explanation: تستخدم جدولة Customer Service Universal Resource Scheduling لجدولة أنشطة الخدمة. وتوفر وظيفة الجدولة الأساسية المستخدمة بواسطة حلول Microsoft Dynamics 365 مثل Dynamics 365 Customer Service وDynamics 365 Field Service وDynamics 365 Project Operations.
+  - content: ما الذي يجب عليك إعداده لإنشاء المواعيد في بداية الساعة ونهايتها بين الساعة 9:00 صباحاً والساعة 5:00 مساءً؟
     choices:
-    - content: متطلب الموارد
+    - content: متطلب المَورد
       isCorrect: false
       explanation: متطلبات الموارد تحدد الموارد المطلوبة لإكمال الخدمة. يمكنك تضمين تفضيل التنفيذ عند إضافة قواعد متطلبات المورد إلى مجموعة المتطلبات.
     - content: الفاصل الزمني
       isCorrect: true
-      explanation: يمكن أن تؤدي الفواصل الزمنية إلى فترات زمنية منتظمة من نقاط البداية في اليوم. والفاصل الزمني يحدد المدة بين الفترات الزمنية المتاحة. يؤدي تعيين الفاصل الزمني إلى 30 دقيقة بالفاصل الزمني الذي يبدأ عند الساعة 09:00 إلى إنشاء فترات زمنية كل 30 دقيقة بالضبط.
+      explanation: يمكن أن تؤدي الفواصل الزمنية إلى فترات زمنية منتظمة من نقطة البداية في اليوم. والفاصل الزمني يحدد المدة بين الفترات الزمنية المتاحة. يؤدي تعيين الفاصل الزمني إلى 30 دقيقة بالفاصل الزمني الذي يبدأ عند الساعة 9:00 صباحاً إلى إنشاء فترات زمنية كل 30 دقيقة بالضبط.
     - content: مجموعة زمنية
       isCorrect: false
-      explanation: يتم استخدام المجموعات الزمنية لإنشاء فترات زمنيه، ولكن ستقوم أوقات البدء للفترات الزمنية بفحص عمليات الحجز الموجودة للموارد، ولذلك لن تبدأ الفترات الزمنية دائمًا في بداية الساعة ونهايتها.
+      explanation: تُستخدم المجموعات الزمنية لإنشاء فترات زمنية، لكن أوقات البدء للفترات الزمنية ستفحص الحجوزات الحالية بحثاً عن الموارد. نتيجة لذلك، لن تبدأ الفترات الزمنية دائماً في بداية الساعة ونهايتها.
     - content: التجمُّع
       isCorrect: false
       explanation: التجمُّع عبارة عن مجموعة من الموارد المتشابهة والقابلة للتبديل والتي يمكن جدولتها لإحدى الخدمات. يستطيع المرسل لاحقًا تحديد مَورد من التجمُّع لاستكمال الخدمة.
