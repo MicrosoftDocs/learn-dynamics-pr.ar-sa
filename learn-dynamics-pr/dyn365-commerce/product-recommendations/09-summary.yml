@@ -4,16 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: تلخص هذه الوحدة وحدة توصيات المنتج في Dynamics 365 Commerce
-  ms.date: 06/15/2020
+  ms.date: 04/28/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learing-d365-commerce
-  ms.openlocfilehash: bb78438eb00c17e661d3928536b04cae9d487bff
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: e46242ef71fee71325d9e3c8ffc0904b71646a87
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070212"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7351980"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-summary.md)]"

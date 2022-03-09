@@ -1,19 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.enable-engineering-change-management.5-exercise
-title: التمرين - إنشاء قاعدة أهمية
+title: التمرين - إنشاء قاعدة خطورة
 metadata:
-  title: التمرين - إنشاء قاعدة أهمية
-  description: اطلع على خطوات إنشاء قاعدة أهمية لطلب تغيير في المستند.
-  ms.date: 05/14/2021
+  title: التمرين - إنشاء قاعدة خطورة
+  description: ممارسة إنشاء قاعدة خطورة تتطلب تغيير مستند.
+  ms.date: 05/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: d0cd2501b4b5a08c41e16d75b178223e19d2dcd5
-  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+  ms.openlocfilehash: 8612955a9aac306773dc89bbb5f7a6eff595842a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2021
-  ms.locfileid: "6072660"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7351769"
 durationInMinutes: 13
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-exercise.md)]"

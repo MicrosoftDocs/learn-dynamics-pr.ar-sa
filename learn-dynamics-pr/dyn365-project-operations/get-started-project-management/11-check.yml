@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-project-management.11-check
-title: تحقق من مستوى معرفتك
+title: اختبر معلوماتك
 metadata:
-  title: تحقق من مستوى معرفتك
+  title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 04/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-dyn365-project-operations
-  ms.openlocfilehash: b15f29895ca037915c4be1e27c4f6f7ff07e6455
-  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.openlocfilehash: 3be0222f8d195c12cdca4a2159030bea190a8e4a
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/30/2021
-  ms.locfileid: "6072877"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7363455"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

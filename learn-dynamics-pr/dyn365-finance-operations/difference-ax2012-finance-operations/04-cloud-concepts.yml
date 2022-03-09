@@ -4,16 +4,15 @@ title: مفاهيم السحابة
 metadata:
   title: مفاهيم السحابة
   description: تعرف على مفاهيم السحابة.
-  ms.date: 02/02/2021
+  ms.date: 02/05/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 938b8be9a79df37adbda28a17b34a12baed61c33
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 260fd759586ae5b29af54b6e475a3ef5d36075ed
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072205"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335170"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-cloud-concepts.md)]"

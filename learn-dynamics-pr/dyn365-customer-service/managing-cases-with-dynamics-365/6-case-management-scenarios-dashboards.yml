@@ -4,18 +4,16 @@ title: سيناريوهات لوحة معلومات إدارة الحالات
 metadata:
   title: سيناريوهات لوحة معلومات إدارة الحالات
   description: سيناريوهات لوحة معلومات إدارة الحالات
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/03/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 1d4e3ad288df014610a3c61ae17838bad5e992f2
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: bf883d134cb4bded4b1c398b75b312fec73e4454
+  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659165"
+  ms.lasthandoff: 09/07/2021
+  ms.locfileid: "7478621"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

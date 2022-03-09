@@ -4,15 +4,15 @@ title: إنشاء روبوت المساعدة الذكية
 metadata:
   title: إنشاء روبوت المساعدة الذكية
   description: تعرف على كيفية إنشاء روبوت المساعدة الذكية.
-  ms.date: 07/29/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/29/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ef89371363fea5f53addd6ecd0fd90379a55bedd
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6ff2e3da4e8c2a4c19dc2d1c3aea4dfe09c93c70
+  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356153"
-durationInMinutes: 4
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "7581720"
+durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-build-smart-assist-bot.md)]"

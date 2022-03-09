@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 279da04ee060f368ae05bf23579b68927742d2f2
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 49d68f54f131a21ab4415fe57153c57347692950
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677125"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7326478"
 title: تكوين حسابات المدفوعات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك إدخال فواتير المورّد يدوياً أو استلامها إلكترونياً. ستتعلم في هذه الوحدة كيفية تكوين وحدة حسابات المدفوعات في Dynamics 365 Finance لتمكين موظفي حسابات المدفوعات من أداء أنشطتهم اليومية. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات حسابات المدفوعات.\n- إنشاء مورد وصيانته. \n- تكوين مدفوعات الموردين.\n- إعداد ملفات تعريف ترحيل المورد.\n- تكوين رسوم حسابات المدفوعات.\n"

@@ -4,16 +4,15 @@ title: تحديثات النظام
 metadata:
   title: تحديثات النظام
   description: تعرف على تحديثات النظام في Dynamics 365 Commerce.
-  ms.date: 07/17/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: bd4d9add7aa3d81f557bda1a2515ba5fc881bc02
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 5ec2555042aa25fbd722c33b611c5cd1f6223ea9
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070070"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7349372"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-system-updates.md)]"

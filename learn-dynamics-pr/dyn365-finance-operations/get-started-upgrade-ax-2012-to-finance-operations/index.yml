@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 3cbabd0fa40abe900a54ba96664d5501aeffdc2e
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: 135e3fbebd0fc6bd8463a7ff34a4759851a6f142
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6255021"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7324511"
 title: بدء عملية الترقية من Dynamics AX 2012 إلى تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)] \nعند الترقية من Microsoft Dynamics AX 2012 إلى Dynamics 365، يمكن للمؤسسات استخدام منهجية الترقية لتطبيقات Finance and Operations لاتباع عملية محددة مسبقاً، جنباً إلى جنب مع الارتباطات والوثائق الداعمة، للتغلب على التحديات مع تغييرات النظام الأساسي والمنتج.\n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- استراتيجية الترقية وأفضل الممارسات.\n- Microsoft Dynamics 365 Lifecycle Services.\n- إدارة دورة حياة التطبيق.\n- أدوات الحل في تطبيقات Finance and Operations مقارنة بتلك الموجودة في Dynamics AX 2012.\n"

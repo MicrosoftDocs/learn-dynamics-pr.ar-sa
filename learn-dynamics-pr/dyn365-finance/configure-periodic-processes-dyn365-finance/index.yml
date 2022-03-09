@@ -3,17 +3,16 @@ uid: learn-dynamics.configure-periodic-processes-d365-finance-ops
 metadata:
   title: تكوين وإجراء عمليات دورية في Dynamics 365 Finance
   description: يمكنك إكمال إجراءات الإقفال لفترة مٌحددة أو سنة. يؤدي إغلاق العمليات إلى إعداد النظام لفترة جديدة. في هذه الوحدة، ستتعلم كيفية الإعداد للعمليات الدورية وتكوينها وتنفيذها في Dynamics 365 Finance.
-  ms.date: 05/12/2021
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 1f7a7fc16cf8315a5f1ab3d7377afd52adaa782c
-  ms.sourcegitcommit: a411adfc246835c2e3e3421a575d907c66eab3eb
+  ms.openlocfilehash: 1a846194ec5996c1a45aef34f876f771242176e7
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6677206"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867420"
 title: تكوين وإجراء عمليات دورية في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -44,7 +43,6 @@ units:
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.05-process-end-of-year-close
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.06-perform-financial-consolidations
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.07-exercise-perform-year-end-close
-- learn-dynamics.configure-periodic-processes-d365-finance-ops.08-exercise-perform-a-consolidation
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.09-configure-periodic-processes-quiz
 - learn-dynamics.configure-periodic-processes-d365-finance-ops.10-configure-periodic-processes-summary
 badge:

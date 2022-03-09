@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-scm
-  ms.openlocfilehash: 511269e5d0b0551c2d94dff86bf3018981792b8d
-  ms.sourcegitcommit: 7b3b18c3cb7e930dbf2f9f6edcb9108044033616
+  ms.service: dynamics-365-supply-chain
+  ms.openlocfilehash: 0cdef31b3eb0b4112e32396cc3876ad7067e0b62
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/22/2021
-  ms.locfileid: "6667581"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7366275"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-exercise-review-product.md)]"

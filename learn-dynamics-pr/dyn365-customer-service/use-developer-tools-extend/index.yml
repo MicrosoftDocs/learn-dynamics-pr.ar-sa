@@ -7,13 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
-  ms.openlocfilehash: 46ff2a84759373142380821cdfbb23bdc01afc43
-  ms.sourcegitcommit: a3960642d20383fe20430aacf4036514baac8c9f
+  ms.service: power-platform
+  ms.openlocfilehash: 6183c1ab83f459bfdf288da4affd9d17627ee81b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/04/2021
-  ms.locfileid: "6659313"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7325579"
 title: استخدام أدوات المطور لتوسيع Microsoft Power Platform
 summary: >
   [!include[](../includes/module-banner.md)]

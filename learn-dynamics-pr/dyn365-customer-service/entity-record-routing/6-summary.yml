@@ -4,16 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص توجيه سجل الكيان باستخدام القناة متعددة الاتجاهات لوحدة Dynamics 365 Customer Service
-  ms.date: 06/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 11/17/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: bead73a249de7cdd239c0217d8e3719dc33ca4e9
-  ms.sourcegitcommit: c40a4bc8ce7f8876c4b62d1af8cf751bd2465568
+  ms.openlocfilehash: 86ee170afb4c076bf8afe59caaf880b923863850
+  ms.sourcegitcommit: 8d25868deb816788444089a4691ed1719919b874
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2021
-  ms.locfileid: "6658529"
+  ms.lasthandoff: 11/18/2021
+  ms.locfileid: "7818607"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

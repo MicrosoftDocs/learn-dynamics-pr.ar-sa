@@ -4,16 +4,15 @@ title: ادمج روبوتاً مساعداً ذكياً مع القناة مت�
 metadata:
   title: ادمج روبوتاً مساعداً ذكياً مع القناة متعددة الاتجاهات لـ Customer Service
   description: تعرف على كيفية دمج روبوتاً مساعداً ذكياً مع القناة متعددة الاتجاهات لـ Customer Service.
-  ms.date: 07/29/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 09/29/2021
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 3188c14302a5f6672f8963472933b706bbbf835a
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: ae5022b4387724e12b8f26234b6ac62d08c9bb45
+  ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658424"
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "7581594"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-enable-smart-assist.md)]"

@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 42a8c0a60b55f8bfca0e2e6e90718d970e5ac277
-  ms.sourcegitcommit: 374b549f0eda9bb2e3d14ab91f3955a9b58abf34
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 369e6e0c5e7042bde4b4c1937d0932c81e95adbf
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2020
-  ms.locfileid: "6074764"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7338505"
 title: إنشاء تطبيقات Finance and Operations
 summary: "[!include[](../../includes/lp-banner.md)]\n\nيتطلب التطوير في Finance and Operations فهماً أساسياً للمهام المطلوبة لإنشاء عناصر جديدة وتخصيص تطبيقات Finance and Operations. تتضمن المهام فهم كودX++ وVisual Studio، بالإضافة إلى القدرة على إنشاء وتعديل العناصر الأساسية للنظام. \n"
 prerequisites: "- الإلمام بنظام Dynamics 365 البيئي وتطبيقات Finance and Operations. \n- يمكنك التعرف على مفاهيم المطور الأساسية، بما في ذلك القدرات التقنية والتعليمات البرمجية المصدر وأطر الاختبار وأدوات إعداد التقارير. \n- المعرفة والخبرة الأساسية للتطوير الموجه للعناصر.\n- المعرفة العامة بأنظمة تخطيط موارد المؤسسات (ERP).\n- المعرفة الأساسية ببيئة التطوير المتكامل (IDE) أو Visual Studio.\n"

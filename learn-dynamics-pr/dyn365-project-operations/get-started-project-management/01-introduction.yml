@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-dyn365-project-operations
-  ms.openlocfilehash: f6d1585b9f5a6fe271c19433ecba77ec1a43ccb6
-  ms.sourcegitcommit: 7264686a3ca47ad696235e87720b7d951ab4e856
+  ms.openlocfilehash: f09c0d80a6f66e046a80a96686a624c9bafb62c4
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/30/2021
-  ms.locfileid: "6072882"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7361249"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

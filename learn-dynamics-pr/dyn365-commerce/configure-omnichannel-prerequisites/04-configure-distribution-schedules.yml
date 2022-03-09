@@ -4,16 +4,15 @@ title: تكوين جداول التوزيع
 metadata:
   title: تكوين جداول التوزيع
   description: تعرف على كيفية تكوين جداول التوزيع Dynamics 365 Commerce.
-  ms.date: 07/15/2020
+  ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: db5bd2d6fc02bf61b8dada71ddbbc83920b5a737
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 850bff7dd50b40be7d15659f068aeff0cf39cc84
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070305"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7365183"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-configure-distribution-schedules.md)]"

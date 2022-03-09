@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: e3448d5d486d11d45c22230846fc6b9ea77e5e60
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 54a449a7396e355abad26d641bbc829d7e0946bb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072200"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7328195"
 title: بدء التطوير باستخدام X++ في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nتُعد X++ لغة موجهه للعناصر. تقدم هذه الوحدة تطوير X++ لتطبيقات Finance and Operations، والتي يتم إجراؤها في Visual Studio. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعريف مكونات الفئات.\n- إنشاء مثيل لفئة ما.\n- إنشاء كائنات في المنشيء.\n- معالجة البيانات باستخدام X++.\n- حدد الأنواع المختلفة من ‏‫العبارات المشروطة.\n- كتابة ‏‫العبارات المشروطة.\n- كتابة عبارات الحلقات.\n- استخدام العبارات التكرارية.\n- تحديد عبارات التعامل مع الاستثناءات.\n- كتابة عبارات التعامل مع الاستثناءات.\n- التعرف على استخدام القيم الثابتة ووظيفتها.\n"

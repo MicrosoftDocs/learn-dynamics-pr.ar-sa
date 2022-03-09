@@ -8,13 +8,13 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-platform
-  ms.openlocfilehash: cc9ce8b72278aea80eba14cce8091b63f9aba08a
-  ms.sourcegitcommit: fa7890b4521e891ff04a719ffc49e3fbfcac5517
+  ms.service: power-platform
+  ms.openlocfilehash: c634fe4c81efbb185ba2e556e5bed0b57cbcdea6
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/16/2021
-  ms.locfileid: "6659253"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7335305"
 durationInMinutes: 3
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

@@ -3,17 +3,17 @@ uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.
 title: مقدمة
 metadata:
   title: مقدمة
-  description: في هذه الوحدة النمطية، ستتعلم كيفية إنشاء المنتجات وأصول المنتجات في Supply Chain Management.
+  description: مقدمة إلى إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
   ms.date: 05/18/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1321bcefc9b455058f35b82c1b36616bffab4bda
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: eb5be317fce6aaa1e84bcc95b7fa9496f2e6b7b0
+  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7343676"
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "7892952"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

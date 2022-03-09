@@ -3,18 +3,17 @@ uid: learn-dynamics.configure-model-driven-apps-customer-engagement.01-forms-ove
 title: نظرة عامة على النماذج
 metadata:
   title: نظرة عامة على النماذج
-  description: مناقشة أنواع النماذج المختلفة المتاحة للتطبيقات المستندة إلى النماذج
+  description: مناقشة أنواع النماذج المختلفة المتاحة للتطبيقات التي تستند إلى النموذج
   ms.date: 06/01/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 110c004fe9867d612941e92ba6eca8333911075b
-  ms.sourcegitcommit: ce520d0217f6f4ac6a97c26a978121fde4d8af78
+  ms.openlocfilehash: 12316d483f1255fbc34cb56e49b05666e1a4e749
+  ms.sourcegitcommit: 9f90ad77dd5dbd6d90587ba76752a8222c6cbe41
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/11/2021
-  ms.locfileid: "6659362"
+  ms.lasthandoff: 01/21/2022
+  ms.locfileid: "8017059"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

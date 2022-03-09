@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/sysadmin/system-administration-home-page
-  ms.openlocfilehash: addcf4b3f7d6f55e982f7c043588d84c4bdd3b10
-  ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
+  ms.openlocfilehash: 4e41bacf45a642fead7d2b9291052657f40826c3
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "6307662"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7351667"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

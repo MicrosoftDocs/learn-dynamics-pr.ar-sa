@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: a9e92f2e04cfd41b9bc5ac168c8aee3439836588
-  ms.sourcegitcommit: 3d984582e4fe316c7b6725a5de93570693cd67e3
+  ms.openlocfilehash: 93b7cff5531014ad0b130f34168c290f80766e6c
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/26/2021
-  ms.locfileid: "6070468"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7333533"
 title: إدارة مشاركة العملاء في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nالهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضاً عن العلامة التجارية لمتجر التجزئة. يدعم Dynamics 365 Commerce برامج الولاء، والانتماءات، وبطاقات الهدايا، التي يمكن أن تساعد في تحفيز العملاء على التعامل مع العلامة التجارية لتاجر التجزئة.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم مفاهيم إدارة الولاء.\n- تعرف على كيفية تكوين برامج الولاء.\n- تعرف على الانتماءات.\n- تعرف على بطاقات الهدايا.\n"

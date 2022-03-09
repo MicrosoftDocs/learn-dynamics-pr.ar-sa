@@ -4,16 +4,15 @@ title: 'تدريب: اختبار الأسعار باستخدام ‏‫محاك�
 metadata:
   title: 'تدريب: اختبار الأسعار باستخدام ‏‫محاكي التسعير‬'
   description: في هذا التدريب، ستقوم باختبار الأسعار باستخدام ‏‫محاكي التسعير‬.
-  ms.date: 07/15/2020
+  ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-commerce
-  ms.openlocfilehash: 7fd066270f7167d6e3ffdf32c75d7d8bb81ba4f0
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 95b5401d70f78b354fe13f79eb02908fa94ba151
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6070266"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364493"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-exercise-3.md)]"

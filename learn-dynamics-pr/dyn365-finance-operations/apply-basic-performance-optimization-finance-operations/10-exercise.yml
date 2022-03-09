@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations.10-exercise
-title: معمل - تحديث العديد من المنتجات في الوقت نفسه باستخدام ‎X‎ + +‎
+title: المعمل - إنشاء فئات قابلة للتشغيل في Visual Studio لاختبار التعليمات البرمجية
 labId: 59573
 metadata:
-  title: معمل - تحديث العديد من المنتجات في الوقت نفسه باستخدام ‎X‎ + +‎
-  description: تدرب على تحديث منتجات متعددة في الوقت نفسه باستخدام X + +‎ في تطبيقات Finance and Operations.
-  ms.date: 06/02/2021
+  title: المعمل - إنشاء فئات قابلة للتشغيل في Visual Studio لاختبار التعليمات البرمجية
+  description: ممارسة إنشاء فئات قابلة للتشغيل في Visual Studio لاختبار التعليمات البرمجية في تطبيقات Finance and Operations.
+  ms.date: 11/16/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1d482a531dff35c7263ce4e9de8377c47ec39f6c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 97b13f49fc83d0201503510038b19544f35dff40
+  ms.sourcegitcommit: 4a1e5fd180688ba7b2e7a15570dc30f8abd71498
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353776"
+  ms.lasthandoff: 11/16/2021
+  ms.locfileid: "7817240"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

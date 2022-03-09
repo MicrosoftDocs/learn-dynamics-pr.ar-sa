@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: ac5478a783c1706d1725d561baee86834a1f1ab4
-  ms.sourcegitcommit: 0b908ebb307cffcc5ba9c743553ba40aefb7839f
+  ms.openlocfilehash: 6261000bc37763e3cdc65e67788864f29079a1fc
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2021
-  ms.locfileid: "6257424"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7357931"
 title: استكشاف الملحقات وإطار عمل الملحقات في تطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم تخصيص تطبيقات Finance and Operations باستخدام الملحقات، والتي تتيح لك إضافة وظائف لعناصر النموذج والتعليمات البرمجية المصدر في شجرة مكونات البرنامج (AOT) باستخدام Visual Studio. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أسباب إنشاء الملحقات.\n- تحديد وقت استخدام نموذج طلب قابلية التوسع.\n- تعرف على مخاطر التخصيصات المتداخلة‬‏‬.\n- قم بتطوير التعليمات البرمجية التي من شأنها توسيع وظائف تطبيقات Finance and Operations.\n"

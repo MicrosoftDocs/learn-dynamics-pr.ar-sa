@@ -1,19 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.enrich-data.5-predictions
-title: العمل باستخدام التنبؤات
+title: العمل مع التنبؤات
 metadata:
-  title: العمل باستخدام التنبؤات
-  description: تعرّف على طريقة إنشاء تنبؤات بسيطة بقيمة صواب أو خطأ، واستخدام نماذج تم إنشاؤها مسبقاً مثل خسارة العميل، واستخدام نماذج التعلّم الآلي المخصصة المضمنة في Microsoft Azure.
-  ms.date: 06/29/2021
+  title: العمل مع التنبؤات
+  description: تعرّف على طريقة إنشاء تنبؤات بسيطة بقيمة صواب أو خطأ واستخدام نماذج تم إنشاؤها مسبقاً مثل خسارة العملاء، واستخدام نماذج التعلّم الآلي المخصصة المضمنة في Microsoft Azure.
+  ms.date: 12/16/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: b8f6899a35fa3d893eba4224a5c38dc1b563d5e8
-  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.openlocfilehash: 32f104e867537083d17119e3a0a1b02d7fa7d541
+  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "6659394"
+  ms.lasthandoff: 12/17/2021
+  ms.locfileid: "7933247"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-predictions.md)]"

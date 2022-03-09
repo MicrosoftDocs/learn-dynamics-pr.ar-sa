@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.unified-customer-profile.1-introduction
-title: مقدمة إلى Customer Insights
+title: مقدمة إلى رؤى الجمهور
 metadata:
-  title: مقدمة إلى Customer Insights
-  description: توفر هذه الوحدة نظرة عامة على Customer Insights.
+  title: مقدمة إلى رؤى الجمهور
+  description: توفر هذه الوحدة نظرة عامة على رؤى الجمهور.
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-insights
-  ms.openlocfilehash: c03351ea3bc0b86213a86d6e190b8224307cef11
-  ms.sourcegitcommit: 45c86bb9fa9769dd62043777dd5d6b1294a50669
+  ms.service: customer-insights
+  ms.openlocfilehash: 13a253c99303bdc2c28121fdd173eca394b3485b
+  ms.sourcegitcommit: 2ac89283f3de9d23110d9808ad1481e1906c4d15
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/30/2021
-  ms.locfileid: "6659363"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "7486210"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

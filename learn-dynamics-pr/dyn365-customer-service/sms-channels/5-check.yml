@@ -4,18 +4,17 @@ title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 08/04/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/20/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 8d77c7273422aaf72e666eb3b41029ccf9b78186
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: b96e5f8142d52ebef4f1ccf1f7041b353f6c968b
+  ms.sourcegitcommit: 556a16f081a6399ebbf1fa0c3fe3bba9e8fb5f7e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6658360"
-durationInMinutes: 3
+  ms.lasthandoff: 01/21/2022
+  ms.locfileid: "8016258"
+durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:

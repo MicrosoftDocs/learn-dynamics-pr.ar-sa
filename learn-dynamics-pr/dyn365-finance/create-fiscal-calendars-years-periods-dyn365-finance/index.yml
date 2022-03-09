@@ -3,17 +3,17 @@ uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-financ
 metadata:
   title: إنشاء التقويمات والسنوات والفترات المالية في Dynamics 365 Finance
   description: عند تسجيل البيانات المالية في Dynamics 365 Finance، يجب عليك تضمين تاريخ الحركة. باستخدام التقويم المالي وتقسيمه إلى شرائح من السنوات والفترات، يمكنك نشر البيانات المالية أو تسجيلها في فترة مفتوحة محددة مسبقاً.
-  ms.date: 04/29/2020
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
-  ms.openlocfilehash: 72ed9a745f64ab82cc303837db1dd17866c33c37
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 225c5676c0641461a4b66db8866f422f32595d31
+  ms.sourcegitcommit: 7012baa785a0c86835c7573ddfa53017aa5aed63
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328141"
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "7868048"
 title: إنشاء التقويمات والسنوات والفترات المالية في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nعند تسجيل البيانات المالية في Dynamics 365 Finance، يجب عليك تضمين تاريخ الحركة. باستخدام التقويم المالي وتقسيمه إلى شرائح من السنوات والفترات، يمكنك نشر البيانات المالية أو تسجيلها في فترة مفتوحة محددة مسبقاً. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- التمييز بين دفتر الأستاذ والتقويمات المالية. \n- تكوين التقويمات والسنوات والفترات المالية وإعدادها.\n- إنشاء فترات التاريخ واستخدامها.\n"
@@ -41,7 +41,6 @@ units:
 - learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.6-maintain-periods-for-your-organization
 - learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.7-create-date-intervals
 - learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.8-exercise-create-fiscal-calendar-year-and-periods
-- learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.9-exercise-create-date-interval-for-august
 - learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.10-create-fiscal-calendars-f-and-o-quiz
 - learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-finance-ops.11-create-fiscal-calendars-f-and-o-summary
 badge:

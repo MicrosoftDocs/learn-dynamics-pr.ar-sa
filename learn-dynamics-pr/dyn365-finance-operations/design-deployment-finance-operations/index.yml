@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 2a60d61fa6847051cba8125b10e722c59051ad40
-  ms.sourcegitcommit: 886a6c468bde328603d5f79e74282140631ec884
+  ms.openlocfilehash: 4f8575de66908b0ed1cfc649391b3d73654d65e7
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/05/2021
-  ms.locfileid: "6072209"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7364274"
 title: استكشاف اعتبارات التصميم والنشر لتطبيقات Finance and Operations
 summary: "[!include[](../includes/module-banner.md)]\n\nسيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات Finance and Operations، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أنماط التصميم وعملية نشر التعليمات البرمجية.\n- تحديد استراتيجيات نشر التعليمات البرمجية.\n- التعرف على المهام والأنشطة الخاصة بما بعد النشر.\n"

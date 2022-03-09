@@ -7,13 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 118faea883b5bd3a65a71f1caf740af107a88a72
-  ms.sourcegitcommit: b80e6e4614e09d4b817bae7d6b869326247561e7
+  ms.openlocfilehash: c4210376642a7f7c73f7d08f22ca1a90c867d43b
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/07/2021
-  ms.locfileid: "6072701"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7340299"
 title: إنشاء خطط مزايا في Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تمكين إدارة المزايا في Dynamics 365 Human Resources، وإنشاء خطط مزايا، وتسجيل الموظفين.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة المزايا في Human Resources.\n- استخدم إدارة الميزات لتمكين مساحة عمل إدارة المزايا.\n- تعرف على كيفية إنشاء خطة مزايا في Human Resources.\n- تعرف على كيفية تسجيل الموظفين في خطة المزايا.\n- إنشاء برنامج الائتمان المرن.\n"

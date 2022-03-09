@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-project-operations
-  ms.openlocfilehash: 4ceeaf0b18e56a290743432867351bb8990437b9
-  ms.sourcegitcommit: 013207079dac7bc5d856f987fe790e7316c48106
+  ms.openlocfilehash: 6a98f8870bbc44c413479eff9356c23b8f3541bb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/19/2021
-  ms.locfileid: "6072829"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7340242"
 durationInMinutes: 13
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-exercise.md)]"

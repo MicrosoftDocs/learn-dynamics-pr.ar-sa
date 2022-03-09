@@ -4,18 +4,17 @@ title: طرق العرض المحفوظة
 metadata:
   title: طرق العرض المحفوظة
   description: توضح هذه الوحدة كيفية العمل مع طرق العرض المحفوظة في تطبيقات Dynamics 365 Finance and Operations.
-  ms.date: 05/14/2021
+  ms.date: 11/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0876049b20ac0d7a3b576d6e9b5d0657952a6f88
-  ms.sourcegitcommit: 9b600794e2cc61eeb0409f924725f765f528e8b1
+  ms.openlocfilehash: 3ab77e49dc2e56a78cf4f36b404dda752ee47f90
+  ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2021
-  ms.locfileid: "6072670"
-durationInMinutes: 5
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "7818333"
+durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]
 

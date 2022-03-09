@@ -4,18 +4,16 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 01/18/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 9dd82beeeae3a271ebb06199a09c6db1bfebe273
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: 2a7adb4a3710d6fde8f297167bd452c831c2eff7
+  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6659121"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "8013937"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

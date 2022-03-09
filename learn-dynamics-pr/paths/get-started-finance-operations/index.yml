@@ -8,15 +8,15 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 1a4e178d6e76daf910f8b4c9b0c00173072fc79b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c812bd64eacc0ce0f6eb362c09b6cdacd64806e7
+  ms.sourcegitcommit: 2d474cd20aa12ad00dbfc2d0c9bb9b565f19a490
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353302"
+  ms.lasthandoff: 09/08/2021
+  ms.locfileid: "7483727"
 title: بدء استخدام تطبيقات Finance and Operations
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتعرف على كيفية دعم تطبيقات Finance and Operations للأعمال وذلك لإدارة أنظمتها المالية العامة والعمليات التجارية التشغيلية وسلاسل التوريد المبسطة لتمكين الأشخاص من اتخاذ قرارات سريعة ومستنيرة. وكخطوة أولى في حياتك المهنية للعمل مع تطبيقات Finance and Operations، ينبغي أن تتعرف على ميزاتها ووظائفها، مهما كان الدور الذي تريده. \n"
-prerequisites: بلا
+prerequisites: لا شيء
 iconUrl: /learn/achievements/get-started-with-d365-for-finance-and-ops.svg
 levels:
 - beginner
@@ -30,7 +30,7 @@ products:
 - dynamics-finance
 - dynamics-scm
 modules:
-- learn-dynamics.wwl.introduction-dynamics-365
+- learn-dynamics.introduction-dynamics-365
 - learn-dynamics.navigating-in-f-and-o
 - learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops
 - learn-dynamics.get-started-supply-chain-management-in-dynamics-365-finance-ops

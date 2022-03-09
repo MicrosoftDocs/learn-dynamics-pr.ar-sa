@@ -7,13 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 92aa43afaa26cca409e2b40c2c01ee97a5a45b3a
-  ms.sourcegitcommit: 221c56e4fce366780f005ef07d331b5011a9c0e1
+  ms.openlocfilehash: b4a24809cb82f490d078a03ad930e56de87300cb
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/12/2021
-  ms.locfileid: "6072450"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7327730"
 title: مقارنة التكاملات في تطبيقات Finance and Operations مع Dynamics AX 2012
 summary: "[!include[](../includes/module-banner.md)] \nإذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات Finance and Operations، فينبغي أن تفهم سيناريوهات ومفاهيم تكامل Dynamics 365 المتاحة.    \n"
 abstract: "سوف تتعرف في هذه الوحدة على: \n- الفروق في بنية التكامل بين Dynamics AX 2012 وتطبيقات Finance and Operations.\n- مفاهيم تكامل Dynamics 365 والأنظمة الأساسية والأدوات. \n- أحداث الأعمال لتمكين تكامل عمليات الأعمال.\n- أنماط وسيناريوهات التكامل\n- العوامل التي يجب مراعاتها عند تنفيذ التكامل.\n"

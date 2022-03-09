@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-with-lcs.2-functionality-and-tools-of-lcs
-title: فهم وظائف وأدوات LCS
+title: فهم وظائف وأدوات Lifecycle Services
 metadata:
-  title: فهم وظائف وأدوات LCS
-  description: توضح هذه الوحدة وظائف وأدوات Lifecycle Services ‏(LCS).
-  ms.date: 09/18/2021
+  title: فهم وظائف وأدوات Lifecycle Services
+  description: تصف هذه الوحدة وظائف وأدوات Lifecycle Services.
+  ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custon: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-user-guide
-  ms.openlocfilehash: 89b488d795d98e8030f47cf7a089c8086960d1ec
-  ms.sourcegitcommit: 6402fa875c0008328cdc2ddd659a927dd0996f33
+  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-user-guide
+  ms.openlocfilehash: 26769778efcec509957dbcb55a555be10ccf984c
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/20/2021
-  ms.locfileid: "7505690"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944398"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

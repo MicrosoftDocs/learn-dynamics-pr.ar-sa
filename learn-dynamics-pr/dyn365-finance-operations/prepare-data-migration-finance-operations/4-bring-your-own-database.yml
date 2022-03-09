@@ -8,14 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/analytics/export-entities-to-your-own-database
-  ms.openlocfilehash: 91b8e1824ee573c60e5919cb08acdf8db8f4caf8
-  ms.sourcegitcommit: 5f1b010cd85c10b9a38b34f6b4500016961439d2
+  ms.openlocfilehash: c2946c4754e7d3ea57638b33eae764c1784f8397
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "6307765"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7341838"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

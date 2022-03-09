@@ -3,16 +3,16 @@ uid: learn-dynamics.accounting-distributions-invoice-validations-settlements-in-
 metadata:
   title: التعامل مع التوزيعات المحاسبية وعمليات التحقق من صحة الفواتير والتسويات في Dynamics 365 Finance
   description: تُستخدم التوزيعات المحاسبية لتحديد كيفية حساب المبلغ، مثل كيفية احتساب المصروفات أو الضرائب أو التكاليف في فاتورة المورد. سيكون لكل مبلغ يجب احتسابه عند تسجيل فاتورة المورد في دفتر اليومية توزيع محاسبي واحد أو أكثر.
-  ms.date: 05/12/2021
+  ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4cde64925da9e508878cd043d051f72c6577d43d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2f69a66b24897d895afeb37c4f417321b1928c73
+  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366465"
+  ms.lasthandoff: 11/29/2021
+  ms.locfileid: "7867620"
 title: التعامل مع التوزيعات المحاسبية وعمليات التحقق من صحة الفواتير والتسويات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nتُستخدم التوزيعات المحاسبية لتحديد كيفية حساب المبلغ، مثل كيفية احتساب المصروفات أو الضرائب أو التكاليف في فاتورة المورد. سيكون لكل مبلغ يجب احتسابه عند تسجيل فاتورة المورد في دفتر اليومية توزيع محاسبي واحد أو أكثر. \n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تسوية الحركات والتراجع عن التسويات. \n- توزيع الأموال باستخدام التوزيعات المحاسبية.\n- تكوين سياسات التحقق من صحة الفواتير.\n"
@@ -41,8 +41,6 @@ units:
 - learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.10-1-vendor-invoice-workflow
 - learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.11-charges-matching
 - learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.12-exercise-record-vendor-invoice-match
-- learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.13-exercise-vendor-invoice-matching-policy
-- learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.13-1-lab-prohibit-submission-workflow
 - learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.14-accounting-distributions-quiz
 - learn-dynamics.accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.15-accounting-distributions-summary
 badge:

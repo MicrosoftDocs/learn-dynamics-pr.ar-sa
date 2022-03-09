@@ -3,19 +3,19 @@ uid: learn-dynamics.get-started-with-lcs
 metadata:
   title: بدء استخدام Lifecycle Services لتطبيقات Finance and Operations
   description: توضح هذه الوحدة الوظيفة العامة لـ lifecycle services بالنسبة لتطبيقات Finance and Operations.
-  ms.date: 05/25/2021
+  ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2d5e13d16211b82d365ae3af6cd4b4777b45deb4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e61340af833e495269382315d17cbaf9e89a3a6a
+  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329329"
+  ms.lasthandoff: 12/21/2021
+  ms.locfileid: "7944326"
 title: بدء استخدام Lifecycle Services لتطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nلتثبيت تطبيقات Finance and Operations وصيانتها في سحابة Microsoft Azure أو محلياً، يجب عليك استخدام Microsoft Dynamics Lifecycle Services (LCS) لإدارة العملية. لنبدأ من خلال النظر في الوظائف العامة والأدوات المتاحة داخل LCS.   \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات Lifecycle services (LCS) لتطبيقات Finance and Operations\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشاكل في LCS وتحليل النتائج\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nلتثبيت تطبيقات Finance and Operations وصيانتها في سحابة Microsoft Azure أو محلياً، يجب عليك استخدام Microsoft Dynamics Lifecycle Services لإدارة العملية. لنبدأ من خلال النظر في الوظائف العامة والأدوات.   \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات خدمات دورة الحياة لتطبيقات Finance and Operations\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشكلات وتحليل النتائج\n"
 prerequisites: >
   - المعرفة العامة بـ Microsoft Windows
 

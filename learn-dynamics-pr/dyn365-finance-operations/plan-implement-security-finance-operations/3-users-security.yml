@@ -4,17 +4,16 @@ title: إدارة المستخدمين والأمان
 metadata:
   title: إدارة المستخدمين والأمان
   description: توضح هذه الوحدة كيفية إدارة المستخدمين والأمان.
-  ms.date: 02/18/2019
+  ms.date: 06/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: a0d2eab4247a4cc59184942cbf944d6e3e46f028
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.openlocfilehash: efeb07fe13f4474ff48db9210726331c5c8c34f2
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6071512"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7350568"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -7,13 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-finance-operations
-  ms.openlocfilehash: 0e0aa1a958f13b08dd43749561abbafeabff1fb4
-  ms.sourcegitcommit: 82ed9ded42c47064c90ab6fe717893447cd48796
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: bf172069f919c941fef6fb060e591932b7a53168
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "6074548"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7334943"
 title: تكوين واستخدام النقد وإدارة البنوك وضريبة المبيعات في Dynamics 365 Finance
 summary: >
   [!include[](../../includes/lp-banner.md)]
