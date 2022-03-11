@@ -3,22 +3,22 @@ uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops
 metadata:
   title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
   description: معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وإعدادات خاصة بالمنتج لإدارة دورات العمل المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
-  ms.date: 11/17/2021
+  ms.date: 02/25/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 052fed74d7ffccbe132ffcf98762ca4bdb0c6644
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.openlocfilehash: a2995220aae41f7d064e92aa2df6c5755b957e1d
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7893296"
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8360963"
 title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
   معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وإعدادات خاصة بالمنتج لإدارة دورات العمل المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء منتجات من النوع \"صنف\" و\"خدمة\".\n- إعداد إعدادات الأوامر الافتراضية.\n- إنشاء أصول المنتجات مع متغيرات محددة مسبقاً.\n- إنشاء التدرجات الهرمية للفئات وتكوينها.\n- إنشاء سمات المنتجات.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء منتجات من النوع \"صنف\" و\"خدمة\".\n- إعداد تحويلات وحدة المنتج.\n- إعداد أوامر التحويل\n- إعداد إعدادات الأوامر الافتراضية.\n- إنشاء أصول المنتج باستخدام متغيرات محددة مسبقاً.\n- إنشاء التدرجات الهرمية للفئات وتكوينها.\n- إنشاء سمات المنتجات.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Microsoft Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/create-products-product-masters-in-dynamics-365-finance-ops.svg
 levels:
@@ -32,8 +32,11 @@ products:
 - dynamics-finance-operations
 units:
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.1-create-products-product-masters-introduction
+- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.product-information-workspace
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.2-the-concept-of-a-product
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.3-create-products
+- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.unit-conversions
+- learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.batch-disposition-code
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.4-default-order-settings
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.5-defining-products-as-not-stocked
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.6-create-product-masters-with-variants

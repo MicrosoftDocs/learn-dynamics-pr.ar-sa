@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4bb57ccfa354ccb146c3834cee8c83312224a978
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 64fa2eb59e05a882ca7ede5edeb2e07155f53296
+ms.sourcegitcommit: e509ed5c2440413a2b1e84124745809c465434f5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7435510"
+ms.lasthandoff: 02/21/2022
+ms.locfileid: "8329897"
 ---
 يُتيح لك قسم **إدارة البيانات** في منطقة عمل **الإعدادات** اختيار الكيانات المطلوب مزامنتها مع Dynamics 365 Marketing واستخدامها في المحتوى التسويقي. إضافة إلى ذلك، فإنه يسمح لك بتوصيل بيئة Dynamics 365 Marketing مع Microsoft Azure Blob Storage. ينقسم هذا القسم إلى صفحتين: **تكوينات التحليلات النشطة** و **تكوين مجموعة البيانات**، وسيتم توضيح ذلك مع تفاصيل أكثر في الأقسام التالية.
 
@@ -50,4 +50,4 @@ ms.locfileid: "7435510"
 
 للحصول على المزيد من المعلومات، راجع [تخصيص Dynamics 365 Marketing](/dynamics365/marketing/customize?azure-portal=true).
 
-لمزيد من المعلومات، راجع [مزامنة الكيانات وتتبع المعلومات باستخدام تكوين مجموعه البيانات](/dynamics365/marketing/mkt-settings-?azure-portal=true).
+لمزيد من المعلومات، راجع [مزامنة الكيانات وتتبع المعلومات باستخدام تكوين مجموعه البيانات](/dynamics365/marketing/mkt-settings-sync?azure-portal=true).

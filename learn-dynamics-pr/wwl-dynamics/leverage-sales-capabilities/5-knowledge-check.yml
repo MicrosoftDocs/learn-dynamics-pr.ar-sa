@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.leverage-sales-capabilities.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: ‏التحقق من المعرفة
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c7052a2788eca6f34d547a5f2edb8c7214008c4d
+  ms.sourcegitcommit: 32fba769d30f707adde8f3b6160e3c105e74f43e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8360188"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/5-knowledge-check.md)]
+quiz:
+  title: ‏‫اختبر معلوماتك
+  questions:
+  - content: باستخدام LinkedIn Sales Navigator وDynamics 365، أيّ مما يلي يصف ما يمكنك فعله؟
+    choices:
+    - content: التفاعل مع العملاء عبر الشبكات الاجتماعية المختلفة
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن ميزة InMail في LinkedIn صالحة فقط للتفاعل مع أعضاء LinkedIn الآخرين.
+    - content: تعقب نشاط الويب
+      isCorrect: false
+      explanation: غير صحيح. إجابة غير صحيحة لأنه لا Dynamics 365 Sales ولا LinkedIn Sales Navigator يوفر إمكانية تتبع نشاط الويب.
+    - content: التواصل مع العملاء المتوقعين
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن LinkedIn يتيح لك إنشاء شبكة احترافية من خلال التواصل مع روّاد الأعمال الآخرين. يوفر Dynamics 365 أدوات للبيع إلى العملاء المتوقعين.
+  - content: أيّ من ميزات المعلومات المضمنة التالية ستقترح رسائل بريد إلكتروني قد تكون ذات صلة بسجل Dynamics 365 الذي تعمل من خلاله؟
+    choices:
+    - content: الالتقاط التلقائي
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن الالتقاط التلقائي يبحث عن الرسائل المرسلة إلى أو من عناوين البريد الإلكتروني ذات الصلة ثم يقدمها داخل Dynamics 365 Sales. بمجرد ظهورها يمكنك تحديد ما إذا كانت مهمة يجب تتبعها في التطبيق أم لا.
+    - content: مساعد
+      isCorrect: false
+      explanation: هذه الإجابة غير صحيحة لأن المساعد يعرض معلومات مهمة في السياق مثل تقديم تذكيرات لأنشطة المبيعات القادمة المتعلقة بالسجل الذي تعمل عليه.
+    - content: تحليلات العلاقات
+      isCorrect: false
+      explanation: هذه الإجابة غير صحيحة لأن تحليلات العلاقة تجمع معلومات من Dynamics 365 Sales لمؤشرات الأداء الأساسية (KPI) ومحفوظات النشاط وتعرضها في تمثيل رسومي.
+  - content: أيّ من ميزات Sales Insights التالية تكون متاحة فقط عند شراء ترخيص Sales Insights؟
+    choices:
+    - content: مساعد
+      isCorrect: false
+      explanation: هذه الإجابة غير صحيحة لأن المساعد يعرض معلومات مهمة في السياق مثل تقديم تذكيرات لأنشطة المبيعات القادمة المتعلقة بالسجل الذي تعمل عليه.
+    - content: مشاركة البريد الإلكتروني
+      isCorrect: false
+      explanation: هذه الإجابة غير صحيحة لأن "مشاركة البريد الإلكتروني" تساعدك على تعلّم كيفية تفاعل جهات الاتصال الخاصة بك مع رسائل البريد الإلكتروني الخاصة بك.  عندما يتم فتح رسائل البريد الإلكتروني والرد عليها وإعادة توجيهها من قبل العملاء، يتعقب مشاركة البريد الإلكتروني تلك الأنشطة ويبلغ عن المعلومات.
+    - content: تحليلات العلاقات
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن تحليلات العلاقة تجمع معلومات من مؤشرات الأداء الأساسية (KPI) ومحفوظات النشاط وتعرضها في تمثيل رسومي.

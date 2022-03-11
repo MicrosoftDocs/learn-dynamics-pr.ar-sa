@@ -8,11 +8,11 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3086cc446eec0c8d067c3c579f965067e894fdf3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d1ceec8b91577ad3b70b0a86edb1afd2c7870f26
+  ms.sourcegitcommit: 1c76ff0f33557a139a4ec4bdba2c8abffbe66f55
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341946"
-durationInMinutes: 3
+  ms.lasthandoff: 02/17/2022
+  ms.locfileid: "8313022"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-profile-enrichment.md)]"

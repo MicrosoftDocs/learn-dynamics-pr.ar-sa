@@ -3,19 +3,19 @@ uid: learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops
 metadata:
   title: تكوين التخطيط الرئيسي المضمن واستخدامه في Dynamics 365 Supply Chain Management
   description: تحتاج الشركات في أي سوق، مثل البيع بالتجزئة والتصنيع والتوزيع والخدمات ومؤسسات القطاع العام، إلى وظائف لمساعدتها في التخطيط للطلب وتوريد المنتجات والخدمات أثناء عمليات قصيرة أو طويلة الأجل. تعرف على ميزة التخطيط الرئيسي لـ Dynamics 365 Supply Chain Management لتبسيط التخطيط الخاص بك، بناءً على عوامل محددة مسبقاً، من أجل التخطيط الفعال للمواد التي يجب شراؤها أو نقلها أو تصنيعها.
-  ms.date: 12/14/2020
+  ms.date: 02/25/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 37d946d8c68aa60e2155a657eacd5bb8f070dfcf
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ba8cd28cbfaae3b0f4b1d355a59a4a84e98a503c
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326267"
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361317"
 title: تكوين التخطيط الرئيسي المضمن واستخدامه في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتحتاج الشركات في أي سوق، مثل البيع بالتجزئة والتصنيع والتوزيع والخدمات ومؤسسات القطاع العام، إلى وظائف لمساعدتها في التخطيط للطلب وتوريد المنتجات والخدمات أثناء عمليات قصيرة أو طويلة الأجل. تعرف على ميزة التخطيط الرئيسي لـ Dynamics 365 Supply Chain Management لتبسيط التخطيط الخاص بك، بناءً على عوامل محددة مسبقاً، من أجل التخطيط الفعال للمواد التي يجب شراؤها أو نقلها أو تصنيعها. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد التخطيط الرئيسي وتكوينه.\n- إعداد تنبؤات الطلبات والتوريد.\n- تكوين التأخيرات المحسوبة.\n- تكوين التخطيط الرئيسي بين الشركات الشقيقة.\n- تشغيل الخطط وتأكيد الأوامر المخططة.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إعداد التخطيط الرئيسي وتكوينه.\n- استخدم صفحة جدولة التوريد.\n- إعداد تنبؤات الطلبات والتوريد.\n- تكوين التأخيرات المحسوبة.\n- تكوين التخطيط الرئيسي بين الشركات الشقيقة.\n- تشغيل الخطط وتأكيد الأوامر المخططة.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- معرفة إجراءات التدبير إلى الدفع\n- معرفة إجراءات الأمر إلى النقد\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/configure-use-master-planning-in-dynamics-365-finance-ops.svg
 levels:
@@ -37,6 +37,7 @@ units:
 - learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.07-action-messages
 - learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.08-configure-intercompany-planning
 - learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.09-run-plans-firm-planned-orders
+- learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.supply-schedule-page
 - learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.10-exercise-firm-planned-order
 - learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.11-exercise-change-planned-order-type
 - learn-dynamics.configure-use-master-planning-in-dynamics-365-finance-ops.12-exercise-create-intercompany-plan

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.unit-conversions
+title: إعداد وحدة التحويلات
+metadata:
+  title: إعداد وحدة التحويلات
+  description: تعرف على كيفية إعداد تحويلات الوحدات في Supply Chain Management.
+  ms.date: 02/25/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: fb503869c5431f528a229f84565475dfe7641a52
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8364473"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/unit-conversions.md)]

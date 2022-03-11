@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-dynamics-365-customer-service.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 4a9428b171ab49994f00be4bcd3e7bb69967ba6a
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361444"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: أثناء العمل على إحدى الحالات، قمتَ بإضافة نشاط مكالمة هاتفية لحفظ مكالمة أجريتها للعميل في السجل. أين سيتم عرض نشاط المكالمة الهاتفية في سجل الحالة؟
+    choices:
+    - content: سير إجراءات العمل
+      isCorrect: false
+      explanation: غير صحيح. سيتم عرض نشاط المكالمة الهاتفية في المخطط الزمني للسجل.
+    - content: المخطط الزمني للسجل
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن المخطط الزمني في Dynamics 365 متاح لمعظم السجلات بما في ذلك الحالات. يعرض جميع الأنشطة والملاحظات والمنشورات لسجل بناءً على تاريخ إضافتها.
+    - content: اللوحة ذات الصلة
+      isCorrect: false
+      explanation: غير صحيح. سيتم عرض نشاط المكالمة الهاتفية في المخطط الزمني للسجل.
+  - content: ما هو الحقل الذي يتم البحث فيه افتراضياً لتقديم اقتراحات المقالة المعرفية؟
+    choices:
+    - content: الوصف‏‎
+      isCorrect: false
+      explanation: غير صحيح. خارج الصندوق، يستخدم البحث عن المعرفة حقل "عنوان الحالة" لاقتراح المقالات المعرفية.
+    - content: ‏‏الفئة‬
+      isCorrect: false
+      explanation: غير صحيح. خارج الصندوق، يستخدم البحث عن المعرفة حقل "عنوان الحالة" لاقتراح المقالات المعرفية.
+    - content: عنوان الحالة
+      isCorrect: true
+      explanation: صحيح. يمكن تخصيص عنصر تحكم البحث المعرفي في كيان الحالة للتحكم في عناصر مثل عدد النتائج التي يتم إرجاعها، والحقل المحدد في سجل الحالة الذي سيتم تعبئة محتوياته كنص بحث إلى عنصر التحكم. يمكن تحديد حقل واحد فقط لعنصر التحكم وهو حقل عنوان الحالة بشكل افتراضي.
+  - content: تساعد إمكانات إدارة المعرفة في Dynamics 365 Customer Service كلاً من العملاء والموظفين من خلال توفير أي مما يلي؟
+    choices:
+    - content: إنشاء وتصميم معرفة غنية
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن الخبراء المتخصصين يمكنهم بسهولة إنشاء محتوى معرفي غني يمكن إتاحته للمستخدمين.
+    - content: النشر المجدول للمقالات
+      isCorrect: false
+      explanation: غير صحيح. يمكن نشر المقالات دون جدولة.
+    - content: يمكن للمندوبين إنشاء المقالات ونشرها على الفور
+      isCorrect: false
+      explanation: غير صحيح. يجب أن تخضع المقالات لعملية مراجعة واعتماد.

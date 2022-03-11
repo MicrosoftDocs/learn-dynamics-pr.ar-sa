@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-dynamics-365-marketing.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: ‏التحقق من المعرفة
+  description: ‏التحقق من المعرفة
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 02cd24c12d71bb8ece7ac8b8666e5cc0c4df34e0
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361354"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: ‏‫اختبر معلوماتك
+  questions:
+  - content: ما المقصود برحلة العميل؟
+    choices:
+    - content: إنشاء جهود التسويق وتتبعها
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن رحلة العميل في Dynamics 365 Marketing تتيح لك بناء جهود تسويقية مخصصة وتتبع تلك الجهود لأنها تتحول إلى إيرادات محتملة.
+    - content: عملية خدمة العملاء
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن عملية خدمة العملاء ستتم باستخدام Dynamics 365 Customer Service.  تركز رحلات العميل على جهود التسويق.
+    - content: عملِية المبيعات
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن عملية المبيعات ستتم باستخدام Dynamics 365 Sales.  تركز رحلات العميل على جهود التسويق.
+  - content: ما المقاطع الموجودة في Dynamics 365 Marketing؟
+    choices:
+    - content: تحديد المجموعات المستهدفة من جهات الاتصال ذات الصلة
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن المقاطع الموجودة في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة.
+    - content: تقسيم الحسابات المختلفة الموجودة في مدينة محددة
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن المقاطع في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة. لا تستند القطاعات على الحسابات.
+    - content: أقسام معلومات العميل كما تظهر في النماذج
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن المقاطع في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة.
+  - content: أي من التطبيقات التالية يقترن مع Dynamics 365 Marketing لإنشاء استطلاعات عبر الإنترنت وتحليل النتائج؟
+    choices:
+    - content: Dynamics 3656 Customer Voice
+      isCorrect: true
+      explanation: صحيح. يتم تجميع Customer Voice مع Dynamics 365 Marketing
+    - content: Dynamics 365 Customer Insights
+      isCorrect: false
+      explanation: غير صحيح. لا يتم تجميع Customer Insights مع Dynamics 365 Marketing. فهو يوحد مصادر متعددة لبيانات العملاء الداخلية والخارجية في ملف تعريف شامل واحد للعميل.
+    - content: LinkedIn Campaign Manager
+      isCorrect: false
+      explanation: غير صحيح. لا يتم تجميع LinkedIn Campaign Manager مع Dynamics 365 Marketing. فهو يقوم باستيراد العملاء المتوقعين الذين تم إنشاؤهم باستخدام أدوات LinkedIn الرئيسية إلى Dynamics 365.

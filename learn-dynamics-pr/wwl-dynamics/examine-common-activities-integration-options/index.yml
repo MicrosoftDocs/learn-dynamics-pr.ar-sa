@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn.wwl.examine-common-activities-integration-options
+metadata:
+  title: استكشاف أنشطة Dynamics 365 وخيارات التكامل الشائعة
+  description: استكشاف أنشطة Dynamics 365 وخيارات التكامل الشائعة
+  ms.date: 02/28/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 770b07a35d064a97c9889e7fcdb3f2e767fa5e97
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361371"
+title: استكشاف أنشطة Dynamics 365 وخيارات التكامل الشائعة
+summary: في هذه الوحدة النمطية، سيتم تعريف المتعلمين بالإمكانات والأنشطة المشتركة عبر تطبيقات إشراك العملاء في Dynamics 365.
+abstract: >
+  بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - العمل مع العملاء وإدارة الأنشطة
+
+  - استكشاف خيارات إعداد التقارير المختلفة
+
+  - وصف خيارات التكامل المختلفة المتاحة
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+units:
+- learn.wwl.examine-common-activities-integration-options.introduction
+- learn.wwl.examine-common-activities-integration-options.explore-customers-activities
+- learn.wwl.examine-common-activities-integration-options.exercise-manage-customers-activities
+- learn.wwl.examine-common-activities-integration-options.explore-dynamics-365-reporting-options
+- learn.wwl.examine-common-activities-integration-options.describe-integration-technologies
+- learn.wwl.examine-common-activities-integration-options.knowledge-check
+- learn.wwl.examine-common-activities-integration-options.summary
+badge:
+  uid: learn.wwl.examine-common-activities-integration-options.badge

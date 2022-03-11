@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.batch-disposition-code
+title: رموز إرجاع الدُفعة
+metadata:
+  title: رموز إرجاع الدُفعة
+  description: تعرف على كيفية إنشاء رموز إرجاع الدُفعة في Supply Chain Management.
+  ms.date: 02/25/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c0cae247d2ab6e473fca05d3d79ebe8a3c015cdb
+  ms.sourcegitcommit: 32fba769d30f707adde8f3b6160e3c105e74f43e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8360162"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/batch-disposition-code.md)]

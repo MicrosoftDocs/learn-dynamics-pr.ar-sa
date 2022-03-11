@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn.wwl.leverage-sales-capabilities
+metadata:
+  title: استخدام إمكانات المبيعات
+  description: استخدام إمكانات المبيعات
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9be7a818309e917a01565d44692c2be0883b2797
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361378"
+title: استخدام إمكانات المبيعات
+summary: تقدم هذه الوحدة التنبؤ بالمبيعات وLinkedIn Sales Navigator وDynamics 365 Sales Insights إلى المتعلمين.
+abstract: >
+  بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   شرح تنبؤ Dynamics 365 Sales
+
+  *   وصف LinkedIn Sales Navigator
+
+  *   شرح Dynamics 365 Sales Insights
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-sales
+- dynamics-sales-insights
+units:
+- learn.wwl.leverage-sales-capabilities.introduction
+- learn.wwl.leverage-sales-capabilities.describe-dynamics-365-sales-forecasting
+- learn.wwl.leverage-sales-capabilities.describe-linkedln-sales-navigator
+- learn.wwl.leverage-sales-capabilities.describe-dynamics-365-sales-insights
+- learn.wwl.leverage-sales-capabilities.knowledge-check
+- learn.wwl.leverage-sales-capabilities.summary
+badge:
+  uid: learn.wwl.leverage-sales-capabilities.badge

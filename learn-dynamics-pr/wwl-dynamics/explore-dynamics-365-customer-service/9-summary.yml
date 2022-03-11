@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-dynamics-365-customer-service.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: الملخص
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 29df5315dd2b83e5bce17e71360ebb5f01b0006d
+  ms.sourcegitcommit: 32fba769d30f707adde8f3b6160e3c105e74f43e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8360205"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/9-summary.md)]'

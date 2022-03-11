@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-dynamics-365-sales.review-sales-lifecycle
+title: مراجعة دورة حياة المبيعات
+metadata:
+  title: مراجعة دورة حياة المبيعات
+  description: مراجعة دورة حياة المبيعات
+  ms.date: 02/25/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 68d0b37a5d859b76e3925e57c147288009490ce7
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361384"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/3-review-sales-lifecycle.md)]'

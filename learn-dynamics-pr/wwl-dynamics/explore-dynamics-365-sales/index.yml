@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn.wwl.explore-dynamics-365-sales
+metadata:
+  title: استكشاف Dynamics 365 Sales
+  description: استكشاف Dynamics 365 Sales
+  ms.date: 02/25/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 2137f3aaa2065079770a51f561bac77e3e0ca67f
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361361"
+title: استكشاف Dynamics 365 Sales
+summary: تقدم هذه الوحدة النمطية Dynamics 365 Sales إلى المتعلمين مع التركيز على إدارة العملاء المتوقعين ومؤهلات العملاء المتوقعين والفرص وأوامر المبيعات كجزء من دورة حياة المبيعات القياسية.
+abstract: >
+  بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - شرح ميزات ووظائف Dynamics 365 Sales
+
+  - مراجعة دورة حياة المبيعات النموذجية
+
+  - وصف العملاء المتوقعين وعملية التأهل
+
+  - فحص عملية إدارة الفرصة
+
+  - شرح معالجة أوامر المبيعات باستخدام Dynamics 365 Sales
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-sales
+units:
+- learn.wwl.explore-dynamics-365-sales.introduction
+- learn.wwl.explore-dynamics-365-sales.overview
+- learn.wwl.explore-dynamics-365-sales.review-sales-lifecycle
+- learn.wwl.explore-dynamics-365-sales.work-leads
+- learn.wwl.explore-dynamics-365-sales.describe-opportunity-management
+- learn.wwl.explore-dynamics-365-sales.exercise-create-manage-opportunity
+- learn.wwl.explore-dynamics-365-sales.describe-quote-management
+- learn.wwl.explore-dynamics-365-sales.describe-order-invoice-management
+- learn.wwl.explore-dynamics-365-sales.knowledge-check
+- learn.wwl.explore-dynamics-365-sales.summary
+badge:
+  uid: learn.wwl.explore-dynamics-365-sales.badge

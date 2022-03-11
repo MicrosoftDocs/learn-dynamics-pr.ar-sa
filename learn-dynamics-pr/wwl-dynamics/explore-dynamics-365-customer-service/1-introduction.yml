@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-dynamics-365-customer-service.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: مقدمة
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: e833199fe635cce869fef1e4a8b680daad5391b2
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361370"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/1-introduction.md)]'

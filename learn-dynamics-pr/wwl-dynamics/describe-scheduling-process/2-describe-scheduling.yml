@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-scheduling-process.describe-scheduling
+title: وصف الجدولة
+metadata:
+  title: وصف الجدولة
+  description: وصف الجدولة
+  ms.date: 02/18/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: cba2a1fbbf0e72862e55ca322b8bc5d090799fa7
+  ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/18/2022
+  ms.locfileid: "8325219"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/2-describe-scheduling.md)]'

@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-dynamics-365-sales.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 02/25/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 6610f4e4b61f02a353f63cd8ae7aa76882b8dfd6
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361364"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/9-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: ما نوع السجل الذي يمكن إنشاؤه تلقائياً من عميل متوقع مؤهل؟
+    choices:
+    - content: المنافس
+      isCorrect: false
+      explanation: غير صحيح. معلومات المنافس مع عدم إنشاء عميل متوقع مؤهل تلقائياً.
+    - content: عرض الأسعار
+      isCorrect: false
+      explanation: غير صحيح. لا يتم احتساب عرض الأسعار تلقائياً من عميل متوقع مؤهل.
+    - content: جهة الاتصال
+      isCorrect: true
+      explanation: صحيح. عند التأهل، سيقوم سجل العميل المتوقع تلقائياً بإنشاء سجل فرصة. إذا لم يكن العميل المتوقع مقترناً بحساب أو جهة اتصال موجودة، فسيتم أيضاً إنشاء حساب مطابق أو سجل جهة اتصال.
+  - content: أنت تعمل على فرصة يطلب فيها العميل أن يكون محاميه مرتبطاً بجميع الأصناف. يكون محاميه جهة اتصال لديك في Dynamics 365. كيف يمكن ربط محاميه بالفرصة؟
+    choices:
+    - content: أضِف المحامي باعتباره من حملة الأسهم في الفرصة.
+      isCorrect: true
+      explanation: صحيح. الشبكة الفرعية لحملة الأسهم في إحدى الفرص هي المكان الذي يمكنك فيه إضافة أي شخص لديه اهتمام بسجل الفرصة هذا. عندما تتم إضافة شخص ما كأحد حملة الأسهم، يقوم النظام بإنشاء اتصال بين هذا الشخص والفرصة.
+    - content: أضِف الملاحظة المتعلقة بالمحامي إلى سجل الحساب.
+      isCorrect: false
+      explanation: غير صحيح. لن تؤدي إضافة ملاحظة إلى سجل الحساب إلى عرض المعلومات الموجودة في الفرصة.
+    - content: أضف المحامي كجهة اتصال لسجل الحساب.
+      isCorrect: false
+      explanation: غير صحيح. يلزم ربط المحامي بالفرصة مباشرةً.
+  - content: أي مما يلي يصف عرض الأسعار بشكل أفضل؟
+    choices:
+    - content: بيع محتمل لعميل تربطك به علاقة حالية
+      isCorrect: false
+      explanation: غير صحيح. من الأفضل وصف البيع المحتمل من عميل موجود على أنه فرصة.
+    - content: أمر مؤكد لتسليم البضائع والخدمات
+      isCorrect: false
+      explanation: غير صحيح. يمثل عرض الأسعار عرضاً رسمياً للمنتجات والخدمات.
+    - content: عرض رسمي للمنتجات أو الخدمات
+      isCorrect: true
+      explanation: صحيح. تمثل الفرص عملية بيع محتملة مع عميل توجد معه علاقة قائمة، وبمجرد أن نكون مستعدين رسمياً لتقديم عرض للعميل يتضمن المنتجات والخدمات الفعلية التي نقترحها، نقوم بإنشاء عرض أسعار. بمجرد اعتماد العميل لعرض الأسعار، يمكن تحويله إلى أمر وفي نهاية المطاف إصدار فاتورة به.

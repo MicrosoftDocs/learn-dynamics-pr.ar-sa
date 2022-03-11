@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.navigate-dynamics-customer-engagement-apps.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: ‏التحقق من المعرفة
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: a7a679068a250e1f9a9dbd0a47d81ce131a274dc
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361435"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: ‏‫اختبر معلوماتك
+  questions:
+  - content: أي من الإجابات التالية يمثل تطبيقاً من تطبيقات إشراك العملاء Microsoft Business Applications؟
+    choices:
+    - content: Dynamics 365 Field Service
+      isCorrect: true
+      explanation: صحيح. يقع Dynamics 365 Field Service ضمن مجموعة منتجات Microsoft Business Application.
+    - content: Office 365
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Office 365 لا يقع ضمن مجموعة منتجات Microsoft Business Application.
+    - content: Azure
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Azure لا يقع ضمن مجموعة منتجات Microsoft Business Application.
+  - content: أي من خيارات البحث أو التصفية التالية سيتم استخدامها إذا كنت ترغب في عرض قائمة بالحسابات ذات الأوامر المفتوحة؟
+    choices:
+    - content: التصفية المتقدمة
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن إمكانات "التصفية المتقدمة" توفر القدرة على تصفية البيانات باستخدام تفاصيل من جداول Dynamics 365 متعددة.
+    - content: البحث السريع
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا خيار بحث يسمح فقط بالبحث عن جدول واحد في كل مرة.
+    - content: البحث حسب الفئة
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا خيار بحث متعدد الكيانات سيبحث في كيانات متعددة ولكنه لا يسمح لك بتصفية البيانات بناءً على كيانات متعددة.
+  - content: أي من تطبيقات إشراك العملاء التالية في Dynamics 365 من المرجح أن تستخدمها شركة إنشاءات تحتاج إلى إدارة مهام البناء التي يعملون عليها وإدارة بيع هذه المهام وعرض أسعارها للعملاء؟
+    choices:
+    - content: Microsoft Dynamics 365 Project Operations
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن Dynamics 365 Project Operations يوفر إمكانات إدارة المشروعات وإدارة الموارد وبيع المشروعات لـ Dynamics 365.
+    - content: Dynamics 365 Sales
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأنه بينما يوفر Dynamics 365 Sales إمكانات أتمتة المبيعات، إلا أنه ليس خاصاً ببيع المشروعات. كما أنه لا يوفر أي إمكانات لإدارة المشروعات وإدارة الموارد.
+    - content: Dynamics 365 Customer Service
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Dynamics 365 Customer Service تستفيد منه المؤسسات التي تقدم الدعم للعملاء.  ويساعد في إدارة حالات الدعم ويحتوي على أدوات تساعد في زيادة رضا العملاء.

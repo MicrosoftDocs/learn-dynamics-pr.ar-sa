@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn.wwl.examine-reporting-apps
+metadata:
+  title: افحص إدارة المعرفة في Dynamics 365 Customer Service والتطبيقات ذات الصلة
+  description: افحص إدارة المعرفة في Dynamics 365 Customer Service والتطبيقات ذات الصلة
+  ms.date: 02/18/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 197b5d3412238e58d5b7adf72d1eba82b492a8cb
+  ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/18/2022
+  ms.locfileid: "8325179"
+title: افحص إدارة المعرفة في Dynamics 365 Customer Service والتطبيقات ذات الصلة
+summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة المعرفة في Dynamics 365 Customer Service.  كما أنها تغطي Omnichannel for Customer Service والتحليلات السابقة.
+abstract: >
+  بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  *   وصف إدارة المعرفة
+
+  *   وصف Omnichannel for Customer Service
+
+  *   شرح تقارير تحليلات Customer Service السابقة
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-customer-service
+units:
+- learn.wwl.examine-reporting-apps.introduction
+- learn.wwl.examine-reporting-apps.describe-knowledge-management
+- learn.wwl.examine-reporting-apps.explore-omnichannel-for-customer-service
+- learn.wwl.examine-reporting-apps.explore-historical-analytics
+- learn.wwl.examine-reporting-apps.knowledge-check
+- learn.wwl.examine-reporting-apps.summary
+badge:
+  uid: learn.wwl.examine-reporting-apps.badge

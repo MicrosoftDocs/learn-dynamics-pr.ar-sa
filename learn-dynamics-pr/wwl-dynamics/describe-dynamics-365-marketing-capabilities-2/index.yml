@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn.wwl.describe-dynamics-365-marketing-capabilities-2
+metadata:
+  title: استكشف تطبيقات وإمكانات تسويقية أخرى
+  description: استكشف تطبيقات وإمكانات تسويقية أخرى
+  ms.date: 02/24/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e88043eb5b8ac791379364577bcec45aa9629bcf
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361436"
+title: استكشف تطبيقات وإمكانات تسويقية أخرى
+summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة الأحداث في Dynamics 365 Customer Service.  كما يناقش Dynamics 365 Customer Voice وDynamics 365 Customer Insights.
+abstract: >
+  بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  - فحص إمكانات إدارة الأحداث المتاحة
+
+  - شرح Dynamics 365 Customer Voice
+
+  - وصف Dynamics 365 Customer Insights
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-marketing
+units:
+- learn.wwl.describe-dynamics-365-marketing-capabilities-2.introduction
+- learn.wwl.describe-dynamics-365-marketing-capabilities-2.explore-event-management-capabilities
+- learn.wwl.describe-dynamics-365-marketing-capabilities-2.describe-dynamics-365-customer-voice
+- learn.wwl.describe-dynamics-365-marketing-capabilities-2.describe-dynamics-365-customer-insights
+- learn.wwl.describe-dynamics-365-marketing-capabilities-2.knowledge-check
+- learn.wwl.describe-dynamics-365-marketing-capabilities-2.summary
+badge:
+  uid: learn.wwl.describe-dynamics-365-marketing-capabilities-2.badge

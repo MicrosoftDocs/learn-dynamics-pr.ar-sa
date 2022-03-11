@@ -3,16 +3,16 @@ uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops
 metadata:
   title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
   description: لتنفيذ عملية الطلب والتخزين واستخدام مخزون الشركة من المواد الخام والمكونات والمنتجات النهائية، تحتاج إلى تكوين وظيفة إدارة المخزون في Dynamics 365 Supply Chain Management. تستخدم دفاتر يومية المخزون لترحيل حركات المخزون المادية من مختلف الأنواع، مثل ترحيل الإصدارات والإيصالات، وحركات المخزون، وإنشاء قوائم مكونات الأصناف (BOMs)، وتسوية المخزون المادي.
-  ms.date: 11/10/2021
+  ms.date: 02/25/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e305b3c628031bc36627d7729f4665c566250394
-  ms.sourcegitcommit: e6cef1bd431abbdbeffa1783913dfa8f666dd5cf
+  ms.openlocfilehash: 9508e47b89bd7ba486cec9bc37baae51305f6b86
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/10/2021
-  ms.locfileid: "7792122"
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8360971"
 title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -45,10 +45,12 @@ units:
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.5-allocate-batch-serial-numbers
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.6-configure-sites
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.7-configure-warehouses
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.transfer-orders
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.8-set-up-bar-codes
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.9-set-up-default-order-settings
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.10-inventory-journals
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.11-work-with-journals
+- learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.inventory-journal-approval-workflow
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.12-work-with-reason-codes
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.13-work-with-consignment-inventory
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.14-configure-item-groups-model-groups

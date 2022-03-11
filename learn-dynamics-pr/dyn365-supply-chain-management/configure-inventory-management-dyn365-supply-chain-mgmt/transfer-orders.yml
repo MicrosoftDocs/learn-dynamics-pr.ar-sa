@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.transfer-orders
+title: أوامر التحويل
+metadata:
+  title: أوامر التحويل
+  description: تصف هذه الوحدة كيفية تكوين أوامر التحويل في Supply Chain Management.
+  ms.date: 02/25/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2e09a6ea58c12726d8e5d80d08ff850d7360710f
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8364477"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/transfer-orders.md)]

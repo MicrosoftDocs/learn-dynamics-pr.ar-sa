@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.examine-common-activities-integration-options.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: ‏التحقق من المعرفة
+  ms.date: 02/28/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: ebf4431263f6818d6371e183c1f6c4ffd3cdb1f3
+  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 02/28/2022
+  ms.locfileid: "8361390"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: ‏‫اختبر معلوماتك
+  questions:
+  - content: أي من التطبيقات التالية يمكن دمجها مع Dynamics 365 لتوفير إمكانات إدارة المستندات التي تتضمن تعيين الإصدار والتعاون؟
+    choices:
+    - content: Microsoft SharePoint
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن SharePoint عبارة عن تطبيق إدارة مستندات يمكن دمجه مع Dynamics 365.
+    - content: Microsoft Excel
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Microsoft Excel لا يوفر إمكانات إدارة المستندات.
+    - content: Microsoft Word
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Microsoft Word لا يوفر إمكانات إدارة المستندات.
+  - content: تريد عرض التقارير في Dynamics 365 التي لا تتضمن بيانات Dynamics 365 فحسب، بل تتضمن بيانات من تطبيقات أخرى أيضاً. يجب أن تتضمن التقارير تصورات تفاعلية متعددة. يجب أن يكون الوصول إلى التقارير سهلاً دون الحاجة إلى مغادرة Dynamics 365. أي من التطبيقات التالية يمكن دمجها لتوفير هذه الوظيفة؟
+    choices:
+    - content: Power BI
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن Power BI عبارة عن تطبيقات لتحليل البيانات وإعداد التقارير عنها، وهي تسمح للمؤسسات بإنشاء تقارير تتضمن بيانات من مصادر بيانات متعددة.  بمجرد إنشائها، يمكن مشاركة هذه التقارير وتضمينها في تطبيقات Dynamics 365.
+    - content: Microsoft Sharepoint
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن SharePoint عبارة عن تطبيق إدارة مستندات يمكن دمجه مع Dynamics 365.  لا يوفر إمكانات إعداد التقارير والتحليل.
+    - content: Microsoft Word
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأنه يمكن إنشاء قوالب Microsoft Word والاستفادة منها لتعبئة بيانات Dynamics 365 في مستندات Word التي يمكنك إرسالها إلى العملاء.  لا يوفر وظيفة إعداد التقارير والتحليل.
+  - content: بعد التحدث مع أحد العملاء، تريد إنشاء وجدولة اجتماع معه لمناقشة المزيد من الخيارات. من المهم أن يكون الاجتماع مرتبطاً بالعميل لاستخدامه في المستقبل. أي من الصناديق يسمح لك بإنشاء اجتماعات مباشرة من سجل Dynamics 365؟
+    choices:
+    - content: المخطط الزمني
+      isCorrect: true
+      explanation: صحيح. هذه الإجابة صحيحة لأن المخطط الزمني لا يعرض الأنشطة المرتبطة بسجلات Dynamics 365 بترتيب زمني فحسب، بل يوفر أيضاً واجهة بسيطة يمكن استخدامها لإنشاء أنشطة مثل المهام والمكالمات الهاتفية والاجتماعات.
+    - content: قوالب Office
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن قوالب Office تساعدك في إنشاء قوالب في تطبيقات Office مثل Microsoft Word وExcel اللذين يمكن تعبئتهما ببيانات من Dynamics 365.
+    - content: المساعد
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأنه يتم استخدام ميزة المساعد لتوفير التذكيرات والإعلامات المتعلقة بالأحداث في Dynamics 365.  وبينما يمكن للمساعد تذكيرك باجتماع قادم، إلا أنه لا يسمح لك بإنشائه.
