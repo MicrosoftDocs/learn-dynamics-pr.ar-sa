@@ -38,7 +38,7 @@ units:
 - learn-dynamics.administrating-power-platform-subscriptions.4-manage-updates-admin-center
 - learn-dynamics.administrating-power-platform-subscriptions.5-install-apps-admin-center
 - learn-dynamics.administrating-power-platform-subscriptions.6-provision-microsoft-portal
-- learn-dynamics.administrating-power-platform-subscriptions.7-administer-instance
+# - learn-dynamics.administrating-power-platform-subscriptions.7-administer-instance
 - learn-dynamics.administrating-power-platform-subscriptions.8-knowledge-check
 - learn-dynamics.administrating-power-platform-subscriptions.9-summary
 badge:
