@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn.wwl.learn-fundamentals-of-microsoft-dynamics-365-field-service
+metadata:
+  title: تعلُّم أساسيات Microsoft Dynamics 365 Field Service
+  description: تعلُّم أساسيات Microsoft Dynamics 365 Field Service
+  ms.date: 03/03/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-field-service
+  ms.openlocfilehash: d99e77ff32bba9b6767f3d2445649f53ad607e02
+  ms.sourcegitcommit: 8d1cd988b79d91c01a20ec5ed7df300c4416b76b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/07/2022
+  ms.locfileid: "8392176"
+title: تعلُّم أساسيات Microsoft Dynamics 365 Field Service
+prerequisites: >
+  لا شيء
+summary: >
+  يقدم مسار التعليم هذا المتعلمين إلى Dynamics 365 Field Service. سوف تتعرف على إمكانات المنتج الأساسية وتناقش عملية الجدولة والأدوات الأخرى التي يمكنك استخدامها لدعم أنشطة الخدمة الميدانية الخاصة بك.
+iconUrl: /learn/achievements/generic-trophy.svg
+hidden: true
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-field-service
+modules:
+- learn.wwl.explore-dynamics-365-field-service
+- learn.wwl.describe-scheduling-process
+trophy:
+  uid: learn.wwl.learn-fundamentals-of-microsoft-dynamics-365-field-service.trophy

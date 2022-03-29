@@ -1,0 +1,81 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-landed-cost-supply-chain-management.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 03/03/2022
+  author: oscarefranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8bc9e1b4d8f60c862f45f88f1ae60143ef010d16
+  ms.sourcegitcommit: 4bda725a9b4d6099817e52c732c2bd56d22f0970
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2022
+  ms.locfileid: "8393214"
+durationInMinutes: 10
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
+  questions:
+  - content: أي من الكيانات التالية غير مطلوب عند إنشاء رحلة؟
+    choices:
+    - content: تقدير التكلفة شاملة التفريغ‬
+      isCorrect: false
+      explanation: غير صحيح. هذه الخطوة مطلوبة لإنشاء رحلة.
+    - content: قالب الرحلة
+      isCorrect: false
+      explanation: غير صحيح. تحتاج كل رحلة إلى قالب رحلة.
+    - content: السفينة
+      isCorrect: false
+      explanation: غير صحيح. عند إنشاء رحلة، تحتاج إلى تحديد نوع السفينة.
+    - content: المستودع
+      isCorrect: false
+      explanation: غير صحيح. تحتاج إلى تحديد المستودع الوجهة للرحلة.
+    - content: أمر المبيعات
+      isCorrect: true
+      explanation: صحيح. أنت بحاجة إلى أمر شراء، وليس أمر مبيعات، لإنشاء رحلة.
+  - content: هل من الصحيح، عندما تحدد مجموعة من القواعد للحركات بالزيادة/النقصان لإجراء تغييرات تلقائياً، أنه لم يعد بإمكانك تحديث المخزون يدوياً؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: غير صحيح. يمكنك تحديث المخزون يدوياً في صفحة الحركات الزائدة/الناقصة.
+    - content: لا
+      isCorrect: true
+      explanation: صحيح. يمكنك تحديث المخزون يدوياً في صفحة الحركات الزائدة/الناقصة.
+  - content: أي من الطرق التالية لا يمكنك استخدامها للاستلام أثناء النقل؟
+    choices:
+    - content: صفحة أمر الشراء
+      isCorrect: true
+      explanation: صحيح. بينما يعد أمر الشراء أمراً حيوياً لإنشاء رحلة، لا يمكنك استلام السلع من صفحة أمر الشراء.
+    - content: صفحة السلع في الأمر أثناء النقل
+      isCorrect: false
+      explanation: غير صحيح. حدد السلع في أمر النقل، ثم في جزء الإجراءات، حدد استلام.
+    - content: صفحة جميع الرحلات
+      isCorrect: false
+      explanation: غير صحيح. حدد الرحلة، ثم في علامة التبويب إدارة، حدد استلام السلع أثناء النقل.
+    - content: صفحة كل حافظات الأوراق
+      isCorrect: false
+      explanation: غير صحيح. في صفحة كل حافظات الأوراق، يمكنك تحديد حافظة الأوراق. بعد ذلك، في علامة التبويب إدارة، ضمن السلع أثناء النقل، حدد استلام السلع أثناء النقل.
+  - content: هل يقتصر تعقب المخزون على حاوية واحدة؟
+    choices:
+    - content: نعم
+      isCorrect: false
+      explanation: غير صحيح. يمكن أن يكون لديك عدة حاويات شحن مرتبطة برحلة.
+    - content: لا
+      isCorrect: true
+      explanation: صحيح. يمكن تعقب المخزون لكل حاوية شحن في الرحلة.
+  - content: أي من الطرق التالية غير مسموح بها للتفاوتات الزائدة أو الناقصة؟
+    choices:
+    - content: مستوي الصنف
+      isCorrect: false
+      explanation: غير صحيح. يمكنك إعداد تفاوتات بالزيادة أو النقصان على مستوى الصنف.
+    - content: مستوى حاوية الشحن
+      isCorrect: true
+      explanation: صحيح. لم يتم تحديد التفاوتات المسموح بها على مستوى حاوية الشحن.
+    - content: مستوى مجموعة الموردين
+      isCorrect: false
+      explanation: غير صحيح. يمكنك تحديد التفاوتات بالزيادة والنقصان بناءً على مستوى مجموعة الموردين.
+    - content: مستوى الرحلة
+      isCorrect: false
+      explanation: غير صحيح. يمكنك إعداد التفاوتات بالزيادة والنقصان بناءً على الرحلة والمورد.

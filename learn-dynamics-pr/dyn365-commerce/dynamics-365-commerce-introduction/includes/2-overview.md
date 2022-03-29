@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad4f223811b3d5907f9f782fc6742a393a266007
-ms.sourcegitcommit: adf8d4fc269f5f7ee1803a5329f7a7dcfe6f8783
+ms.openlocfilehash: 40b58fbf6521edc085771e833c761a7e28e04995
+ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/14/2022
-ms.locfileid: "8119305"
+ms.lasthandoff: 03/04/2022
+ms.locfileid: "8387290"
 ---
 تعد صناعة البيع بالتجزئة واحدة من أكثر الصناعات ثورية وديناميكية. يجب أن تكون على دراية بالتكنولوجيا، وعلى دراية، وتمييز مثل عملائها، الذين يخلقون توقعات متزايدة باستمرار لخدمة البيع بالتجزئة.
 
@@ -53,10 +53,19 @@ ms.locfileid: "8119305"
 
 باستخدام Commerce، يمكنك تعقب معلومات المنتج والفرز والفئات والأسعار الخاصة بالمنتجات بشكل مركزي عبر كافة القنوات ومن خلال استخدام AI insights، ويمكنك التنبؤ بدقه بطلب العميل وفقاً لهذه المقاييس. يساعدك هذا الذكاء على التكيف باستمرار مع احتياجات العمل المتغيرة وتحسين الجودة الشاملة للخدمة ورضا العملاء. 
 
-تعرض ‬‏‫لقطة الشاشة التالية الذكاء السحابي عملياً على لوحة معلومات **تحليلات** Commerce.
+تعرض ‬‏‫لقطة الشاشة التالية الذكاء السحابي عملياً على لوحة معلومات **التحليلات** في Commerce.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة للوحة معلومات تحليلات Dynamics 365 Commerce.](../media/m14-commerce-intelligence.png)](../media/m14-commerce-intelligence.png#lightbox)
+
+#### <a name="microsoft-clarity"></a>Microsoft Clarity 
+مع تمكين Microsoft Clarity، يمكنك بسهولة ضبط محتوى الموقع في الوقت الفعلي حيث تظهر الأفكار المتعلقة بتفاعل العميل. باستخدام البيانات الواردة في Microsoft Clarity، سيكون التمثيل المرئي قادراً بسهولة على إظهار كيفية استجابة العميل لصفحات الويب المختلفة. بالاقتران مع Commerce، يوفر Clarity رؤية واضحة لكيفية تفاعل المستخدم النهائي مع موقع التجارة الإلكترونية. 
+
+> [!div class="mx-imgBorder"]
+> [![لقطة شاشة لصفحة ويب في التجارة الإلكترونية في طريقة عرض خريطة التمثيل اللوني.](../media/heatmap.png)](../media/heatmap.png#lightbox)
+> 
+
+انتقل إلى [Microsoft Clarity](https://clarity.microsoft.com/?azure-portal=true) لمعرفة المزيد. 
 
 #### <a name="extensible-dependable-secure-and-compliant"></a>قابل للتوسيع ويمكن الاعتماد عليه وآمن ومتوافق
 

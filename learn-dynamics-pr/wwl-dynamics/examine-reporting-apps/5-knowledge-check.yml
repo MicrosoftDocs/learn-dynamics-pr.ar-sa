@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 02/18/2022
+  ms.date: 03/10/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 2e88a226eae82ff0bd46e86517b59ab1ccd5acb6
-  ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+  ms.openlocfilehash: a78073380402c64beee9de3f85e9052590b8379f
+  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/18/2022
-  ms.locfileid: "8325161"
+  ms.lasthandoff: 03/11/2022
+  ms.locfileid: "8403530"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -23,28 +23,28 @@ content: >
 quiz:
   title: اختبر معلوماتك
   questions:
-  - content: أي مما يلي يصف بشكل أفضل مشاركة القنوات متعددة الاتجاهات؟
+  - content: أي من الخيارات التالية يمثل أفضل مشاركة القنوات متعددة الاتجاهات؟
     choices:
     - content: قناة متخصصة للاتصالات الفريدة
       isCorrect: false
       explanation: غير صحيح. تسمح مشاركة القناة متعددة الاتجاهات بالتواصل عبر قنوات مختلفة.
     - content: مقابلة عميلك على قناة المشاركة التي يختارها
       isCorrect: true
-      explanation: صحيح. هذا صحيح لأن القناة متعددة الاتجاهات تسمح للعملاء بالتواصل على القناة التي يختارونها.
+      explanation: صحيح. هذه الإجابة صحيحة لأن القناة متعددة الاتجاهات تتيح للعملاء التواصل عبر القناة التي يختارونها.
     - content: قناة على Microsoft Stream
       isCorrect: false
-      explanation: غير صحيح.  تمثل القناة متعددة الاتجاهات القدرة على التواصل مع العملاء عبر قنوات الاتصال المتنوعة.
-  - content: بدأت مؤسستك مؤخراً في استخدام Dynamics 365 Customer Service Insights للمساعدة في اكتساب فهم أعمق لمقاييس الأداء الهامة. تساعد Customer Service Insights على توفير هذا من خلال تجميع الحالات ذات الصلة معاً في ماذا؟
+      explanation: غير صحيح. تمثل القناة متعددة الاتجاهات القدرة على التواصل مع العملاء عبر قنوات الاتصال المتنوعة.
+  - content: بدأت مؤسستك مؤخراً في استخدام لوحة معلومات الرؤى للمساعدة في اكتساب فهم أعمق لمقاييس الأداء المهمة. يتم تجميع هذه المقاييس معاً.  ما المصطلح الذي ينطبق على التجميع؟
     choices:
     - content: المجموعات
       isCorrect: false
-      explanation: إجابة غير صحيحة. تتضمن Customer Service Insights نماذج فهم اللغة الطبيعية التي يمكن أن تفهم دلالات النص والغرض من الحالات التي تم تجميعها في موضوعات.
-    - content: الفئات
+      explanation: غير صحيح. يقوم الذكاء الاصطناعي بتجميع حالات المنتجات المعيبة في ما يشار إليه بالمواضيع.
+    - content: التدرجات الهرمية للحالات
       isCorrect: false
-      explanation: غير صحيح. تتضمن Customer Service Insights نماذج فهم اللغة الطبيعية التي يمكن أن تفهم دلالات النص والغرض من الحالات التي تم تجميعها في موضوعات.
-    - content: الموضوعات
+      explanation: غير صحيح. يمكن للذكاء الاصطناعي تحديد المشكلات والمساعدة في حلها من خلال تجميع حالات المنتجات المعيبة في موضوع واحد.
+    - content: المواضيع
       isCorrect: true
-      explanation: صحيح. تتضمن Customer Service Insights نماذج فهم اللغة الطبيعية التي تفهم دلالات النص والغرض من الحالات. تستخدم هذا لتجميع حالات الدعم ذات الصلة كالموضوعات.
+      explanation: صحيح. تتضمن Customer Service Insights نماذج فهم اللغة الطبيعية التي تفهم دلالات النص والغرض من الحالات. تستخدم هذا لتجميع حالات الدعم ذات الصلة كالمواضيع.
   - content: يعمل أحد المندوبين حالياً في جلسة العمل الرئيسية دون فتح جلسات عمل إضافية. يرغبون في أن تتوفر لديهم القدرة على البحث من خلال قائمة الحسابات المتاحة لمؤسستهم. كيف سيفعلون ذلك في التطبيق؟
     choices:
     - content: من شريط التطبيقات
@@ -55,4 +55,4 @@ quiz:
       explanation: غير صحيح. لا يمكنك البحث عن قوائم الحسابات من الزر "إنشاء سريع".
     - content: من ملخص العميل
       isCorrect: false
-      explanation: غير صحيح. غير صحيح. لا يمكنك البحث عن قوائم الحسابات من الزر "إنشاء سريع".
+      explanation: غير صحيح. لا يمكنك البحث عن قوائم الحسابات من الزر "إنشاء سريع".

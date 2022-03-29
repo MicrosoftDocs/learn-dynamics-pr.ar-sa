@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 02/18/2022
+  ms.date: 03/10/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: b06770fcc49a339ec99fcfeb75a0f6fae0e01e90
-  ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+  ms.openlocfilehash: 89d70d7f7edf6bc27d8aaced2f292d51cf7e6388
+  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/18/2022
-  ms.locfileid: "8325168"
+  ms.lasthandoff: 03/11/2022
+  ms.locfileid: "8403164"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -25,34 +25,34 @@ quiz:
   questions:
   - content: أي من مكونات لوحة الجدولة التالية يستخدم لعرض العناصر غير المجدولة؟
     choices:
-    - content: لوحة التصفية
+    - content: جزء عامل التصفية
       isCorrect: false
-      explanation: غير صحيح. هذا غير صحيح لأن الغرض من لوحة التصفية هو تصفية قائمة الموارد المعروضة في لوحة الجدولة.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن الغرض من لوحة التصفية هو تصفية قائمة الموارد المعروضة في لوحة الجدولة.
     - content: لوحة التفاصيل
       isCorrect: false
-      explanation: هذا غير صحيح لأن لوحة التفاصيل توفر تفاصيل إضافية عن السجل عند تحديد مورد أو متطلب أو حجز.
+      explanation: هذه الإجابة غير صحيحة لأن لوحة التفاصيل توفر تفاصيل إضافية عن السجل عند تحديد مورد أو متطلب أو حجز.
     - content: لوحة المتطلبات
       isCorrect: true
-      explanation: صحيح. هذا صحيح لأن الغرض من لوحة "المتطلبات" هو عرض أي متطلبات موارد غير مجدولة. من هنا يمكن جدولة الأصناف يدوياً أو باستخدام مساعد الجدولة.
+      explanation: صحيح. هذه الإجابة صحيحة لأن الغرض من لوحة "المتطلبات" هو عرض أي متطلبات موارد غير مجدولة. من هنا يمكن جدولة الأصناف يدوياً أو باستخدام مساعد الجدولة.
   - content: أي من العناصر التالية في Dynamics 365 Field Service يشير إلى قطعة من المعدات يمتلكها موقع العميل وتتم صيانتها فيه؟
     choices:
     - content: جهاز العميل
       isCorrect: false
-      explanation: غير صحيح. هذا غير صحيح لأن مصطلح جهاز العميل غير مستخدم في Dynamics 365 Field Service.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن مصطلح جهاز العميل غير مستخدم في Dynamics 365 Field Service.
     - content: أصل العميل
       isCorrect: true
-      explanation: صحيح. هذا صحيح لأن أصول العميل في Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً في موقعه.
+      explanation: صحيح. هذه الإجابة صحيحة لأن أصول العميل في Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً في موقعه.
     - content: منتج أمر العمل
       isCorrect: false
-      explanation: غير صحيح. إجابة غير صحيحة لأن هذا المصطلح يشير إلى المنتجات التي تتم إضافتها إلى أوامر العمل. تمثل هذه المنتجات التي قد يتم تثبيتها أو استهلاكها أثناء تنفيذ أمر العمل.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا المصطلح يشير إلى المنتجات التي تتم إضافتها إلى أوامر العمل. تمثل هذه المنتجات التي قد يتم تثبيتها أو استهلاكها أثناء تنفيذ أمر العمل.
   - content: عند مواجهة استثناء في قياس تتبع الاستخدام، ما نوع السجل الذي يتم إنشاؤه في Dynamics 365 Connected Field Service؟
     choices:
     - content: تنبيه IoT
       isCorrect: true
-      explanation: صحيح. هذا صحيح لأنه عند اكتشاف حالة شاذة بواسطة جهاز IoT، يتم إنشاء تنبيه IoT وظهوره في Dynamics 365.
+      explanation: صحيح. هذه الإجابة صحيحة لأنه عند اكتشاف حالة شاذة بواسطة جهاز IoT، يتم إنشاء تنبيه IoT وظهوره في Dynamics 365.
     - content: أصل العميل
       isCorrect: false
-      explanation: غير صحيح. هذا غير صحيح لأن أصول العميل في Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً في موقعه.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن أصول العميل في Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً في موقعه.
     - content: أمر العمل
       isCorrect: false
-      explanation: غير صحيح. هذا غير صحيح لأن أوامر العمل تمثل أعمال الخدمة التي يجب إجراؤها في موقع العميل.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن أوامر العمل تمثل أعمال الخدمة التي يجب إجراؤها في موقع العميل.

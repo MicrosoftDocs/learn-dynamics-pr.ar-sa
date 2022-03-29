@@ -3,17 +3,17 @@ uid: learn.wwl.explore-dynamics-365-sales
 metadata:
   title: استكشاف Dynamics 365 Sales
   description: استكشاف Dynamics 365 Sales
-  ms.date: 02/25/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 2137f3aaa2065079770a51f561bac77e3e0ca67f
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: 73ef846f1c6be2b70d05b4d18a7c86d5d40c84fc
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361361"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8399881"
 title: استكشاف Dynamics 365 Sales
 summary: تقدم هذه الوحدة النمطية Dynamics 365 Sales إلى المتعلمين مع التركيز على إدارة العملاء المتوقعين ومؤهلات العملاء المتوقعين والفرص وأوامر المبيعات كجزء من دورة حياة المبيعات القياسية.
 abstract: >

@@ -4,18 +4,18 @@ title: وصف إدارة العلاقات مع العملاء
 metadata:
   title: وصف إدارة العلاقات مع العملاء
   description: وصف إدارة العلاقات مع العملاء
-  ms.date: 02/24/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 8cd498a0f07a5d13766fa6ebf17ddc8cd870ea16
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: 025045b65ef1802e10ff1873e716969326c7963d
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361353"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8400153"
 azureSandbox: false
 labModal: false
-durationInMinutes: 3
+durationInMinutes: 2
 content: '[!include[](includes/2-describe-customer-relationship-management.md)]'

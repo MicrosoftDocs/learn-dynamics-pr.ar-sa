@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-landed-cost-supply-chain-management.process-transactions
+title: معالجة حركات بالزيادة والنقصان‬
+metadata:
+  title: معالجة حركات بالزيادة والنقصان‬
+  description: تعلم كيفية معالجة الحركات بالزيادة والنقصان‬.
+  ms.date: 03/03/2022
+  author: oscarefranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 03d2173f85e4aecd0e994c9fb34222efacc9c798
+  ms.sourcegitcommit: 4bda725a9b4d6099817e52c732c2bd56d22f0970
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2022
+  ms.locfileid: "8393215"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/process-transactions.md)]"

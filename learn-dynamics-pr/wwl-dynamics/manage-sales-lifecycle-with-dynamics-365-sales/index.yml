@@ -3,17 +3,17 @@ uid: learn.wwl.manage-sales-lifecycle-with-dynamics-365-sales
 metadata:
   title: إدارة دورة حياة المبيعات باستخدام Dynamics 365 Sales
   description: إدارة دورة حياة المبيعات باستخدام Dynamics 365 Sales
-  ms.date: 08/25/2021
+  ms.date: 03/04/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: c49a3ee11e606901396974b85b30972441ae3056
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 1bc630c1cb11f97089ea530028345f941f20c8e8
+  ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438835"
+  ms.lasthandoff: 03/04/2022
+  ms.locfileid: "8387115"
 title: إدارة دورة حياة المبيعات باستخدام Dynamics 365 Sales
 summary: ستتعلم في هذه الوحدة النمطية طريقة تنفيذ عمليات مبيعات محددة في Dynamics 365 Sales.
 abstract: >

@@ -4,18 +4,18 @@ title: وصف مهام التسويق
 metadata:
   title: وصف مهام التسويق
   description: وصف مهام التسويق
-  ms.date: 02/24/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: c3245edd709da988bcc60bb56afa3801f1f805bc
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: 7c313d43b9a1fe60c9ee5563daff262d0f8a30f3
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361414"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8399993"
 azureSandbox: false
 labModal: false
-durationInMinutes: 3
+durationInMinutes: 2
 content: '[!include[](includes/3-describe-marketing-tasks.md)]'

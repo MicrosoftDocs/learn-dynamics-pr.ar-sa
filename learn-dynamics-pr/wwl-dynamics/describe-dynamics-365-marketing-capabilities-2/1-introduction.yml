@@ -4,17 +4,17 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: مقدمة
-  ms.date: 02/24/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7a11cd359092bc0daef102d7b430f4b47aa5164d
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: c461baf34c1232a2f56fcd1f7a62e5556aab34ae
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361457"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8399937"
 azureSandbox: false
 labModal: false
-durationInMinutes: 3
+durationInMinutes: 2
 content: '[!include[](includes/1-introduction.md)]'

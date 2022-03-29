@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1aa3366794c5e2d647be10ed356cf6c1d794d601
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: 17e003ca3e5b748e788c8133b6c98f756919a69a
+ms.sourcegitcommit: d060b2cdd5093d7dbe843d5112a0a97727948ce6
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436349"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "8408476"
 ---
 لكل سجل تم التفاعل معه في ‪Microsoft Dynamics 365‬ مالك مسؤول عنه. على سبيل المثال، لكل من الحسابات وجهات الاتصال والعملاء المتوقعين مالكون. وعادةً ما يكون هذا المالك مستخدماً واحداً. لكن في مؤسسات الشركات الكبيرة، قد تكون الحسابات مملوكة من جانب فريق من المستخدمين بدلاً من ذلك.
 
@@ -76,4 +76,4 @@ ms.locfileid: "7436349"
 
 لمزيد من المعلومات حول إنشاء قوالب الفرق، اطّلع على [لمحة عن قوالب التعاون مع الفريق](/dynamics365/customer-engagement/admin/about-team-templates?azure-portal=true).
 
-لمزيد من المعلومات حول تعريف حقوق الوصول، اطّلع على [إنشاء قالب للفريق للتحكم في حقوق الوصول للفرق التي يتم إنشاؤها تلقائياً](/dynamics365/customer-engagement/admin/create-team-template-add-table-form?azure-portal=true).
+لمزيد من المعلومات حول تعريف حقوق الوصول، اطّلع على [إنشاء قالب للفريق للتحكم في حقوق الوصول للفرق التي يتم إنشاؤها تلقائياً](/power-platform/admin/create-team-template-add-entity-form?azure-portal=true).

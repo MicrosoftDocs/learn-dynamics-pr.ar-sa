@@ -4,17 +4,17 @@ title: وصف Microsoft Dataverse
 metadata:
   title: وصف Microsoft Dataverse
   description: وصف Microsoft Dataverse
-  ms.date: 02/24/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 5420d66d357e22096b858a47d6635284b7ead1f7
-  ms.sourcegitcommit: 32fba769d30f707adde8f3b6160e3c105e74f43e
+  ms.openlocfilehash: 7bbeb5faa63bab318adfcbebbb64f2bcf496c055
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8360179"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8400145"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

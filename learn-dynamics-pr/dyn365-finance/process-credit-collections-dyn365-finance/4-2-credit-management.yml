@@ -4,17 +4,17 @@ title: إدارة الائتمان
 metadata:
   title: إدارة الائتمان
   description: تصف هذه الوحدة ميزة إدارة الائتمان في Dynamics 365 Finance.
-  ms.date: 05/29/2020
+  ms.date: 03/11/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 36275927cf8bfc6c842814c85c1ec7dad313e7a7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6a45f979b89e64e58f89d2cfee9780c0dff2110e
+  ms.sourcegitcommit: d060b2cdd5093d7dbe843d5112a0a97727948ce6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347709"
-durationInMinutes: 15
+  ms.lasthandoff: 03/12/2022
+  ms.locfileid: "8408492"
+durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]
 

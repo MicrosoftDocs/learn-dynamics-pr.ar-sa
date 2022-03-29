@@ -1,22 +1,28 @@
 ---
-ms.openlocfilehash: 359b0a37ec88ccc400831b339e820bfaf71ddf4b
-ms.sourcegitcommit: 98ea39ffd9164b859d87a9651de53c5a426adf5d
+ms.openlocfilehash: 45bf6bc2ab1edccc29bce5746432e5f7d53f4739
+ms.sourcegitcommit: 6c08dc1282450e162141a968433f38943275aa63
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "7457629"
+ms.lasthandoff: 03/01/2022
+ms.locfileid: "8370087"
 ---
 قد يساعدك Microsoft Dataverse في إضافة البيانات أو تحديثها أو حذفها في جدول باستخدام ميزة وظيفة Microsoft Excel الإضافية. 
 
-1.  قم بتسجيل الدخول إلى مدخل Power Apps.
+1.  قم بتسجيل الدخول إلى [مدخل Power Apps](https://make.powerapps.com/).
 
-1.  في الجزء الأيسر، قم بتوسيع **Dataverse** وحدد **جداول**.
+1.  في الجزء الأيسر، قم بتمديد **البيانات** وحدد **الجداول**.
 
-1.  حدد الجدول المرتبط بالبيانات التي تريد تصديرها.
+    ![لقطة شاشة للتنقل مع توسيع البيانات وتحديد الجداول.](../media/tables.png)
 
-1.  حدد الزر **فتح في Excel** في القائمة العليا.
+1.  حدد الجدول المرتبط بالبيانات التي تريد تحريرها.
+
+1.  حدد الزر **تحرير البيانات في Excel** في القائمة العليا.
+    
+    ![لقطة شاشة لخيار تحرير البيانات في Excel.](../media/excel-edit.png)
 
 1.  قم بتسجيل الدخول إلى Dataverse باستخدام وظيفة Excel الإضافية الموجودة في الجزء الأيسر.
+
+    ![لقطة شاشة لتسجيل الدخول إلى نافذة Excel.](../media/sign-in-excel.png)    
 
 يمكنك الآن استخدام Excel لإضافة البيانات أو تحديثها أو حذفها باستخدام الزرين **جديد** و **نشر** في وظائف Excel الإضافية.
 

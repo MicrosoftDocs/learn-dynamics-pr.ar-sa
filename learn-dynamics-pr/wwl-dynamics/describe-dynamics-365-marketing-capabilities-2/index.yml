@@ -3,16 +3,17 @@ uid: learn.wwl.describe-dynamics-365-marketing-capabilities-2
 metadata:
   title: استكشف تطبيقات وإمكانات تسويقية أخرى
   description: استكشف تطبيقات وإمكانات تسويقية أخرى
-  ms.date: 02/24/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e88043eb5b8ac791379364577bcec45aa9629bcf
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 789f6d299fde3e092b024f883158c08bf16554db
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361436"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8400097"
 title: استكشف تطبيقات وإمكانات تسويقية أخرى
 summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة الأحداث في Dynamics 365 Customer Service.  كما يناقش Dynamics 365 Customer Voice وDynamics 365 Customer Insights.
 abstract: >

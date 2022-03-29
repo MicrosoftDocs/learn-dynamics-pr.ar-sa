@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.set-up-configure-expense-management.import-credit-card-transactions
+title: قم بإعداد معالجة معاملات البطاقات المدينة واستيراد معاملات الرصيد
+metadata:
+  title: قم بإعداد معالجة معاملات البطاقات المدينة واستيراد معاملات الرصيد
+  description: تعرف على كيفية إعداد معالجة معاملات البطاقة المدينة واستيراد معاملات الرصيد في Dynamics 365 Project Operations.
+  ms.date: 03/09/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 08c092f9270115fccad9c69420b5bea91f012be3
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8400433"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/import-credit-card-transactions.md)]"

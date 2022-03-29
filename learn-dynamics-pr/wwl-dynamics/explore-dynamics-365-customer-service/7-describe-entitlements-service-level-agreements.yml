@@ -4,18 +4,18 @@ title: وصف الاستحقاقات واتفاقيات مستوى الخدمة 
 metadata:
   title: وصف الاستحقاقات واتفاقيات مستوى الخدمة (SLA)
   description: وصف الاستحقاقات واتفاقيات مستوى الخدمة (SLA)
-  ms.date: 02/24/2022
+  ms.date: 03/10/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: df8e7d684cda642ddfe47fbfad144c1ce7f56a59
-  ms.sourcegitcommit: 32fba769d30f707adde8f3b6160e3c105e74f43e
+  ms.openlocfilehash: 977146e6d9721988ece3d429725d0782797e1839
+  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8360206"
+  ms.lasthandoff: 03/11/2022
+  ms.locfileid: "8403258"
 azureSandbox: false
 labModal: false
-durationInMinutes: 3
+durationInMinutes: 5
 content: '[!include[](includes/7-describe-entitlements-service-level-agreements.md)]'

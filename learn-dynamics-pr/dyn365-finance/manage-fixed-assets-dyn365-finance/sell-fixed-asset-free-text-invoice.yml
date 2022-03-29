@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.sell-fixed-asset-free-text-invoice
+title: بيع أصل ثابت باستخدام فاتورة ذات نص حر
+metadata:
+  title: بيع أصل ثابت باستخدام فاتورة ذات نص حر
+  description: تتناول هذه الوحدة كيفية بيع أصل ثابت باستخدام فاتورة ذات نص حر فِي Dynamics 365 Finance.
+  ms.date: 03/10/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d3c88fa580a6b3a33a91825cbaa0ca88954d8d4a
+  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/11/2022
+  ms.locfileid: "8403561"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/sell-fixed-asset-free-text-invoice.md)]

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.planning-optimization-resource
+title: دعم تحسين التخطيط لتخصيص الموارد المستندة إلى القدرات
+metadata:
+  title: دعم تحسين التخطيط لتخصيص الموارد المستندة إلى القدرات
+  description: تعرّف على كيفية دعم تحسين التخطيط لتخصيص الموارد المستندة إلى القدرات في Dynamics 365 Supply Chain Management.
+  ms.date: 03/14/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7a414b6d44033003daa992cfd161f5a5a789e3f4
+  ms.sourcegitcommit: 15cacfc7483419ecc0361228546659323ab5f4f1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/14/2022
+  ms.locfileid: "8417864"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/planning-optimization-resource.md)]"

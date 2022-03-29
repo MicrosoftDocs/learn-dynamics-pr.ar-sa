@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.work-with-landed-cost-supply-chain-management.warehouse-management
+title: إدارة المستودعات والتكلفة شاملة التفريغ
+metadata:
+  title: إدارة المستودعات والتكلفة شاملة التفريغ
+  description: تعرف على إدارة المستودعات والتكلفة شاملة التفريغ.
+  ms.date: 03/03/2022
+  author: oscarefranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2fa005f05e241ce0897a40fadd4e7853b5c73918
+  ms.sourcegitcommit: 4bda725a9b4d6099817e52c732c2bd56d22f0970
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2022
+  ms.locfileid: "8393213"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/warehouse-management.md)]"

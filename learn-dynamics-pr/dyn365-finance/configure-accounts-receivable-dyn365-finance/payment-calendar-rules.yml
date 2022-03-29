@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.payment-calendar-rules
+title: إعداد تقويم الدفع وقواعد تقويم الدفع
+metadata:
+  title: إعداد تقويم الدفع وقواعد تقويم الدفع
+  description: توضح هذه الوحدة كيفية إعداد تقويم الدفع وقواعد تقويم الدفع في Dynamics 365 Finance.
+  ms.date: 03/09/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b7b312359bc1deb7095ea7166010e822e8525ddf
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8400372"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/payment-calendar-rules.md)]

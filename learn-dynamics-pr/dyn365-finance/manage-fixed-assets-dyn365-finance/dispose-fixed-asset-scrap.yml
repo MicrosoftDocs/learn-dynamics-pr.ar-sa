@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.dispose-fixed-asset-scrap
+title: التخلص من الأصول الثابتة كخردة
+metadata:
+  title: التخلص من الأصول الثابتة كخردة
+  description: تصف هذه الوحدة كيفية التخلص من الأصول الثابتة كخردة في Dynamics 365 Finance.
+  ms.date: 03/09/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 529f39af7d8dc33e3b27f9389b8d3af848fd4748
+  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/11/2022
+  ms.locfileid: "8403564"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/dispose-fixed-asset-scrap.md)]

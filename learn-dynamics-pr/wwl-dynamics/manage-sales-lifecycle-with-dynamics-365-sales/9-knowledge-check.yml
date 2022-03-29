@@ -4,18 +4,19 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 08/25/2021
+  ms.date: 03/04/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 7fa6ca158bf2964dede67ae4d9e254db83c74aa0
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: ccfb55a4f765b58ed64e40d34ceff12d8fefcf0e
+  ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438827"
+  ms.lasthandoff: 03/04/2022
+  ms.locfileid: "8387175"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: >
   [!include[](includes/9-knowledge-check.md)]

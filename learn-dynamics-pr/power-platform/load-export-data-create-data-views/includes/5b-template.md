@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 47e43850b6525feb6e946b77781bd560f1ef8483
-ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
+ms.openlocfilehash: ddb441081d5a5739da45c872e2e5f3e2a5a9d54c
+ms.sourcegitcommit: 9f2ac85a1b7c63b1f016439ad15e62fab5aa98ef
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2021
-ms.locfileid: "7729278"
+ms.lasthandoff: 03/01/2022
+ms.locfileid: "8370896"
 ---
 يمكنك إنشاء تدفقات بيانات Microsoft Power Platform من الاستعلامات في أوراق عمل Microsoft Excel للاستفادة من تدفقات البيانات المدعومة من السحابة التي تقوم بتحديث البيانات ومعالجتها على فترات منتظمة بدلاً من إجراء هذه العمليات يدويًا في Excel.
 
@@ -23,7 +23,7 @@ ms.locfileid: "7729278"
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لتشغيل ميزة محرر power query.](../media/5b-template-excel-power-query.png)](../media/5b-template-excel-power-query.png#lightbox)
 
-1. بمجرد تحميل Power Query، حدد ملف > **تصدير قالب**.
+1. بمجرد تحميل Power Query، حدد الملف > **تصدير قالب**.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لميزة قالب التصدير.](../media/5b-excel-power-query-export.png)](../media/5b-excel-power-query-export.png#lightbox)
@@ -46,6 +46,6 @@ ms.locfileid: "7729278"
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لقالب الاستيراد في قائمة تدفق البيانات الجديدة.](../media/5b-template-excel-import-template.png)](../media/5b-template-excel-import-template.png#lightbox)
 
-1. حدد قالب Power Query الذي قمت بإنشائه مسبقًا. سيتم ملء اسم تدفق البيانات مع اسم القالب المقدم. بمجرد الانتهاء من شاشة إنشاء تدفق البيانات، حدد **التالي** لرؤية استعلاماتك من Excel في محرر الاستعلام.
+1. حدد قالب Power Query الذي قمت بإنشائه مسبقاً. سيتم ملء اسم تدفق البيانات مع اسم القالب المقدم. بمجرد الانتهاء من شاشة إنشاء تدفق البيانات، حدد **التالي** لرؤية استعلاماتك من Excel في محرر الاستعلام.
 
-1. من الآن، قم بتدفق الخطوات الموجودة في الفصل السابق حول إنشاء تدفق البيانات وعملية التكوين حتى تتمكن من إجراء المزيد من التحويل لبياناتك، وتعيين جداول التحديث في تدفق البيانات، وأي عملية تدفق بيانات أخرى ممكنة.
+1. من الآن، اتبع الخطوات الموجودة في الفصل السابق حول إنشاء تدفق البيانات وعملية التكوين حتى تتمكن من إجراء المزيد من التحويل لبياناتك، وتعيين جداول التحديث في تدفق البيانات، وأي عملية تدفق بيانات أخرى ممكنة.

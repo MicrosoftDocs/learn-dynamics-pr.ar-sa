@@ -3,20 +3,20 @@ uid: learn-dynamics.set-up-configure-expense-management
 metadata:
   title: إعداد إدارة المصروفات وتكوينها في Dynamics 365 Project Operations
   description: التعرف على كيفية إعداد إدارة المصروفات وتكوينها في Microsoft Dynamics 365 Project Operations.
-  ms.date: 11/30/2020
+  ms.date: 03/09/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ec500edfb98b6336c5c7425c6ae1c6aba423577b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 18a7dbbb5aa961ea25eb6abd15cbc08591a2e9c2
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333324"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8400073"
 title: إعداد إدارة المصروفات وتكوينها في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتوفر وحدة إدارة المصروفات للمستخدمين عملية أبسط لمعالجة المصروفات. مساحة عمل إدارة المصروفات هي المكان الذي يمكن للمستخدمين إرسال مصروفاتهم فيه، في حين أن مهام سير عمل إدارة المصروفات والميزات مثل التعرّف البصري على الحروف (OCR) لفحص الإيصالات يمكن أن تساعد في تحسين عمليات حساب مؤسستك.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف مساحة عمل إدارة المصروفات.\n- التعرف على كيفية تشغيل ميزة إعادة تصور تقارير المصروفات.\n- مراجعة معلمات إدارة المصروفات.\n- التعرف على وظيفة سير العمل لإدارة المصروفات. \n"
-prerequisites: "- معرفه عمليات إدارة المصروفات\n- المعرفة الأساسية بكيفية التنقل في تطبيقات Microsoft Dynamics 365 Finance and Operations  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف مساحة عمل إدارة المصروفات.\n- التعرف على كيفية تشغيل ميزة إعادة تصور تقارير المصروفات.\n- مراجعة معلمات إدارة المصروفات.\n- التعرف على وظيفة سير العمل لإدارة المصروفات.\n- قم بإعداد نهج المصروفات وتقييم النهج باستخدام منضدة عمل التدقيق.\n- قم بإعداد خيارات مصروفات حساب المسافة بالأميال.\n- قم بإعداد معالجة معاملات البطاقات المدينة واستيراد معاملات الرصيد.\n"
+prerequisites: "- معرفه عمليات إدارة المصروفات\n- المعرفة الأساسية لكيفية التنقل في تطبيقات تمويل وعمليات Microsoft Dynamics 365  \n"
 iconUrl: /learn/achievements/set-up-configure-expense-management.svg
 levels:
 - intermediate
@@ -35,8 +35,11 @@ units:
 - learn-dynamics.set-up-configure-expense-management.03-parameters
 - learn-dynamics.set-up-configure-expense-management.04-workflows
 - learn-dynamics.set-up-configure-expense-management.05-policies-per-diem-rules
+- learn-dynamics.set-up-configure-expense-management.evaluate-policies-audit-workbench
+- learn-dynamics.set-up-configure-expense-management.set-up-mileage-expense
 - learn-dynamics.set-up-configure-expense-management.06-intercompany-expenses
 - learn-dynamics.set-up-configure-expense-management.07-personal-expenses
+- learn-dynamics.set-up-configure-expense-management.import-credit-card-transactions
 - learn-dynamics.set-up-configure-expense-management.08-receipt-processing
 - learn-dynamics.set-up-configure-expense-management.09-vat-recovery
 - learn-dynamics.set-up-configure-expense-management.10-check

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dad8dd0690d51220349db0e24e2c24ee1942e230
-ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+ms.openlocfilehash: 5f4f0e482e491c703f8ea9892dccdbbe41204a4d
+ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "8325169"
+ms.lasthandoff: 03/11/2022
+ms.locfileid: "8403458"
 ---
 كما ترى، من خلال استكمال إدارة الحالة وإمكانات إدارة المعرفة في Dynamics 365 Customer Service بميزات إضافية مثل Omnichannel for Customer Service، أو التقارير والتحليلات المتوفرة في تقارير التحليلات السابقة، يمكنك إنشاء حل دعم أكثر مرونة يعتمد على احتياجات عميل اليوم. 
 
@@ -30,7 +30,7 @@ ms.locfileid: "8325169"
 
 - [المجتمع](https://community.dynamics.com/) 
 
-- [الموارد (ملفات الفيديو، الندوات عبر الإنترنت، الكتب الإلكترونية)](https://dynamics.microsoft.com/customer-service/resources/)
+
 
 ### <a name="power-apps"></a>Power Apps
 

@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: b6ce1c66c5ed34d18c7091055d8d6bac8cdabe18
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: d7d5b9d8403c0a5ab4ba20fc0dc8203152d02c0e
+ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7327586"
+ms.lasthandoff: 03/11/2022
+ms.locfileid: "8403298"
 ---
 في هذه الوحدة النمطية، تعرفت عى أن محاسبة التكاليف في Dynamics 365 Finance تتيح لك تجميع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك.
 
 كما تعرفت أيضاً على سير عمل **التحكم في التكلفة** وكيفية استخدام معالج **محاسبة تكاليف العمليات الحسابية**.
 
-لمعرفة المزيد حول محاسبة التكاليف، انتقل إلى [الصفحة الرئيسية لمحاسبة التكاليف](/dynamics365/unified-operations/financials/cost-accounting/cost-accounting-home-page/?azure-portal=true)
+لمعرفة المزيد حول محاسبة التكاليف، انتقل إلى [الصفحة الرئيسية لمحاسبة التكاليف](/dynamics365/finance/cost-accounting/cost-accounting-home-page/?azure-portal=true)

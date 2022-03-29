@@ -4,17 +4,18 @@ title: 'المعمل: إنشاء فرصة ما وإدارتها في Dynamics 36
 metadata:
   title: 'المعمل: إنشاء فرصة ما وإدارتها في Dynamics 365 Sales'
   description: 'المعمل: إنشاء فرصة ما وإدارتها في Dynamics 365 Sales'
-  ms.date: 08/25/2021
+  ms.date: 03/04/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: d4858b8c47c9eb586691919fbe08f5ca594c8a51
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 02a8569031c5686f812e661f7cfd0f3866ff5f75
+  ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438829"
+  ms.lasthandoff: 03/04/2022
+  ms.locfileid: "8387055"
 azureSandbox: true
+labModal: false
 durationInMinutes: 15
 content: '[!include[](includes/6-exercise-create-manage-opportunity.md)]'

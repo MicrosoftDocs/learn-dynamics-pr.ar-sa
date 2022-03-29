@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn.wwl.examine-core-capabilities-of-microsoft-dynamics-365-crm
+metadata:
+  title: فحص الإمكانات الأساسية لتطبيقات Microsoft Dynamics 365 customer engagement
+  description: فحص الإمكانات الأساسية لتطبيقات Microsoft Dynamics 365 customer engagement
+  ms.date: 03/04/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: 3d91c4fc3c4cf7de349903149ea3a48d8806ade0
+  ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/04/2022
+  ms.locfileid: "8387092"
+title: فحص الإمكانات الأساسية لتطبيقات Microsoft Dynamics 365 customer engagement
+prerequisites: >
+  لا شيء
+summary: >
+  يقدم مسار التعلم هذا للمتعلمين الإمكانات المشتركة عبر تطبيقات Dynamics 365 customer engagement. ستتعرف على Microsoft Dataverse، وستحصل على نظرة عامة حول تطبيقات Dynamics 365 customer engagement، وستتعرف على الإمكانات المشتركة.
+iconUrl: /learn/achievements/generic-trophy.svg
+hidden: true
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+modules:
+- learn.wwl.navigate-dynamics-customer-engagement-apps
+- learn.wwl.examine-common-activities-integration-options
+trophy:
+  uid: learn.wwl.examine-core-capabilities-of-microsoft-dynamics-365-crm.trophy

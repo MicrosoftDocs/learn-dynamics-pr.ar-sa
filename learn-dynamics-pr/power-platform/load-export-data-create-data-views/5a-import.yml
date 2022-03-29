@@ -4,16 +4,16 @@ title: استيراد البيانات باستخدام Power Query
 metadata:
   title: استيراد البيانات باستخدام Power Query
   description: تعرّف على كيفية استيراد البيانات باستخدام Power Query الموجود في مدخل المنشئ.
-  ms.date: 10/01/2021
+  ms.date: 02/28/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7de66067ce3960a0cc88320ad0a728d8a9589f0d
-  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.openlocfilehash: 6fb2805c62a979225f47165902af7d509cd40059
+  ms.sourcegitcommit: 6c08dc1282450e162141a968433f38943275aa63
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/01/2021
-  ms.locfileid: "7590613"
+  ms.lasthandoff: 03/01/2022
+  ms.locfileid: "8370032"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-dynamics.work-with-landed-cost-supply-chain-management
+metadata:
+  title: العمل مع التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
+  description: تساعد التكاليف شاملة التفريغ في Dynamics 365 Supply Chain Management تساعد مؤسستك في إجراء عمليات شحن واردة أكثر كفاءة.
+  ms.date: 03/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: be82a39534d1d4f1773183e7929770bb387c1e9d
+  ms.sourcegitcommit: d028bd45fcfeb41ac5db1f0d66db059a81c77276
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/08/2022
+  ms.locfileid: "8396774"
+title: العمل مع التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتساعد التكاليف شاملة التفريغ في Dynamics 365 Supply Chain Management تساعد مؤسستك في إجراء عمليات شحن واردة أكثر كفاءة. بالإضافة إلى ذلك، تسمح تكاليف الشحن شاملة التفريغ للمستخدمين بالتحكم المالي واللوجيستي الكامل في الشحن الذي تم استيراده من الشركة المصنعة إلى المستودع.  \n"
+abstract: "ستتعلم في هذه الوحدة كيفية: \n- إنشاء رحلة بحرية.\n- أضف سطور أوامر الشراء إلى حاوية (حاويات) الشحن.\n- معالجة البضائع في فواتير البضاعة بالطريق.\n- تعقب تتبع الرحلات البحرية القادمة ورحلات حاويات الشحن.\n- تقدير التكاليف شاملة التفريغ‬‬ وإدارتها.\n- العمل مع وظيفة المعالجة أثناء النقل. \n- معالجة حركات بالزيادة والنقصان‬.\n- تحديث التعقب لإبعاده.\n- العمل مع الاستفسارات والتقارير عن التكلفة شاملة التفريغ.\n"
+prerequisites: "- المعرفة العامة بعمليات الشحن الداخلي\n- المعرفة العامة بعمليات ووظائف سلسلة التوريد \n- التنقل العام في Dynamics 365 Supply Chain Management \n"
+iconUrl: /learn/achievements/work-with-landed-cost-supply-chain-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-scm
+- dynamics-finance-operations
+units:
+- learn-dynamics.work-with-landed-cost-supply-chain-management.introduction
+- learn-dynamics.work-with-landed-cost-supply-chain-management.create-voyage
+- learn-dynamics.work-with-landed-cost-supply-chain-management.manage-voyage
+- learn-dynamics.work-with-landed-cost-supply-chain-management.estimate-manage-landed-costs
+- learn-dynamics.work-with-landed-cost-supply-chain-management.track-voyages
+- learn-dynamics.work-with-landed-cost-supply-chain-management.in-transit-processing
+- learn-dynamics.work-with-landed-cost-supply-chain-management.warehouse-management
+- learn-dynamics.work-with-landed-cost-supply-chain-management.process-transactions
+- learn-dynamics.work-with-landed-cost-supply-chain-management.update-tracking
+- learn-dynamics.work-with-landed-cost-supply-chain-management.inquiries-reports
+- learn-dynamics.work-with-landed-cost-supply-chain-management.check
+- learn-dynamics.work-with-landed-cost-supply-chain-management.summary
+badge:
+  uid: learn-dynamics.work-with-landed-cost-supply-chain-management.badge

@@ -3,17 +3,17 @@ uid: learn.wwl.navigate-dynamics-customer-engagement-apps
 metadata:
   title: التنقل في تطبيقات إشراك العملاء في Dynamics 365
   description: التنقل في تطبيقات إشراك العملاء في Dynamics 365
-  ms.date: 02/24/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: bddcf200b965af22f0a78dcb02ed9121d0b0f509
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: d7c3f29279f45affc9ae2fc170bffd45f50c327c
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361429"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8399841"
 title: التنقل في تطبيقات إشراك العملاء في Dynamics 365
 summary: تقدم هذه الوحدة النمطية للمتعلمين تطبيقات إشراك العملاء في Dynamics 365. ستتعرف على التطبيقات الفردية، وستتعلم كيفية التنقل من خلالها وتحديد موقع البيانات وتصفيتها.
 abstract: >

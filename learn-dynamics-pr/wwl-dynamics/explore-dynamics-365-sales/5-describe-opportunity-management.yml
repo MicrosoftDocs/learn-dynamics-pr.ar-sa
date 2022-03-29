@@ -4,18 +4,18 @@ title: وصف إدارة الفرص
 metadata:
   title: وصف إدارة الفرص
   description: وصف إدارة الفرص
-  ms.date: 02/25/2022
+  ms.date: 03/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: bf3472a790422a8c7bee7733123f1e0b0c2a20fd
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: cc2db07900dee5973068179636e856668df382bf
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8361451"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8399977"
 azureSandbox: false
 labModal: false
-durationInMinutes: 3
+durationInMinutes: 5
 content: '[!include[](includes/5-describe-opportunity-management.md)]'

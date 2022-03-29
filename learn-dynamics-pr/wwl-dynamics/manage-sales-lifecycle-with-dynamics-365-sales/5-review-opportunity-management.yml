@@ -4,17 +4,18 @@ title: مراجعة إدارة الفرص
 metadata:
   title: مراجعة إدارة الفرص
   description: مراجعة إدارة الفرص
-  ms.date: 08/25/2021
+  ms.date: 03/04/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: c0ab923ffa81159919288050ee2325717158d0d1
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 0998975350813de3e88043a5e2d9373b5799afea
+  ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438837"
+  ms.lasthandoff: 03/04/2022
+  ms.locfileid: "8387236"
 azureSandbox: false
+labModal: false
 durationInMinutes: 5
 content: '[!include[](includes/5-review-opportunity-management.md)]'

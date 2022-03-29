@@ -3,19 +3,19 @@ uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops
 metadata:
   title: تكوين الحسابات المقبوضات في Dynamics 365 Finance
   description: تعرف على تكوين الوحدة النمطية للحسابات المقبوضات في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر المبيعات. تشرح هذه الوحدة أيضاً كيفية تلقي مدفوعات العملاء باستخدام العديد من أنواع الدفع المختلفة، مثل النقد والشيكات وبطاقات الائتمان والدفع الإلكتروني.
-  ms.date: 11/29/2021
+  ms.date: 03/09/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 793b781a1e672b7121b8ffb2da1bec9e1f9194a3
-  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+  ms.openlocfilehash: 1317e0626aba797420a11e2fdab765051bafbc05
+  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/29/2021
-  ms.locfileid: "7867516"
+  ms.lasthandoff: 03/09/2022
+  ms.locfileid: "8399913"
 title: تكوين الحسابات المقبوضات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على تكوين الوحدة النمطية للحسابات المقبوضات في Dynamics 365 Finance لإنشاء فواتير العميل وترحيل كشوف التعبئة واستخدام فواتير النص الحر غير المرتبطة بأوامر المبيعات. تشرح هذه الوحدة أيضاً كيفية تلقي مدفوعات العملاء باستخدام العديد من أنواع الدفع المختلفة، مثل النقد والشيكات وبطاقات الائتمان والدفع الإلكتروني. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الحسابات المقبوضات.\n- إنشاء عميل والمحافظة عليه. \n- تكوين مدفوعات العميل.\n- إعداد ملفات تعريف ترحيل العملاء.\n- تكوين رسوم الحسابات المدينة.\n"
+abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الحسابات المقبوضات.\n- إنشاء عميل والمحافظة عليه. \n- تكوين مدفوعات العميل.\n- إعداد تقويمات الدفع وقواعد التقويم.\n- إعداد ملفات تعريف ترحيل العملاء.\n- تكوين رسوم حسابات المقبوضات.\n"
 prerequisites: >
   - فهم أساسي لعمليات التمويل والمحاسبة
 
@@ -41,6 +41,7 @@ units:
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.5-payment-fees
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.6-setup-credit-card-payment-service
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.7-methods-payment-control
+- learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.payment-calendar-rules
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.8-create-maintain-customers
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.9-setup-customer-posting-profiles
 - learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.10-configure-accounts-receivable-charges

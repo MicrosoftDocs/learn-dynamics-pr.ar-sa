@@ -4,18 +4,18 @@ title: وصف (RSO) Resource Scheduling Optimization
 metadata:
   title: وصف (RSO) Resource Scheduling Optimization
   description: وصف (RSO) Resource Scheduling Optimization
-  ms.date: 02/18/2022
+  ms.date: 03/10/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: ab70ebd62fa95c8d6321ee9ab55596f1ad5ff56d
-  ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+  ms.openlocfilehash: 030ee450b1285f9e762dac461ca7c6f52c6f2038
+  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/18/2022
-  ms.locfileid: "8325187"
+  ms.lasthandoff: 03/11/2022
+  ms.locfileid: "8403282"
 azureSandbox: false
 labModal: false
-durationInMinutes: 3
+durationInMinutes: 9
 content: '[!include[](includes/5-describe-resource-scheduling-optimization.md)]'

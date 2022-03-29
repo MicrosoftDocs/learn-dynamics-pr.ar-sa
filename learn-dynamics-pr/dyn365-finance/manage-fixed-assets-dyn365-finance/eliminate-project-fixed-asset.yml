@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-fixed-assets-in-dynamics-365-finance-ops.eliminate-project-fixed-asset
+title: تقدير أحد المشاريع واستبعاده إلى أصل ثابت
+metadata:
+  title: تقدير أحد المشاريع واستبعاده إلى أصل ثابت
+  description: توضح هذه الوحدة كيفية تقدير أحد المشاريع واستبعاده إلى أصل ثابت في Dynamics 365 Finance.
+  ms.date: 03/11/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: bd67389b32cb8cf66c0b4af81594d97948cc01cd
+  ms.sourcegitcommit: 15cacfc7483419ecc0361228546659323ab5f4f1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/14/2022
+  ms.locfileid: "8417878"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/eliminate-project-fixed-asset.md)]

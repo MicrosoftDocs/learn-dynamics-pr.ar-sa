@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.set-up-batch-transfer-rules
+title: إعداد قواعد تحويل الدفعات
+metadata:
+  title: إعداد قواعد تحويل الدفعات
+  description: توضح هذه الوحدة كيفية إعداد قواعد تحويل الدُفعات فِي Dynamics 365 Finance.
+  ms.date: 03/07/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b7b8d1635a5319d88f1794caf1b4ad6e69aa817d
+  ms.sourcegitcommit: 8d1cd988b79d91c01a20ec5ed7df300c4416b76b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/07/2022
+  ms.locfileid: "8392224"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/set-up-batch-transfer-rules.md)]

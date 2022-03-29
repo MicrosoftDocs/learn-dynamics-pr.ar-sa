@@ -4,18 +4,18 @@ title: تكوين واستيراد أسعار صرف العملات
 metadata:
   title: تكوين واستيراد أسعار صرف العملات
   description: توضح هذه الوحدة كيفية تكوين أسعار صرف العملات واستيرادها في Dynamics 365 Finance.
-  ms.date: 04/23/2020
+  ms.date: 03/07/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/import-currency-exchange-rates
-  ms.openlocfilehash: 756ea16d36558f4f62d321d8478eaeb63c244d50
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1f93a0446bbd6abe607d80e454804e929d5759ad
+  ms.sourcegitcommit: 8d1cd988b79d91c01a20ec5ed7df300c4416b76b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332737"
-durationInMinutes: 5
+  ms.lasthandoff: 03/07/2022
+  ms.locfileid: "8392192"
+durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]
 

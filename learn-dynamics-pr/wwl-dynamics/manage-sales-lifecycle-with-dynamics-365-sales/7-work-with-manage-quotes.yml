@@ -4,17 +4,18 @@ title: العمل مع عروض الأسعار‬ وإدارتها
 metadata:
   title: العمل مع عروض الأسعار‬ وإدارتها
   description: العمل مع عروض الأسعار‬ وإدارتها
-  ms.date: 08/25/2021
+  ms.date: 03/04/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 956bff649fd1fa429ea66154ef3833c1e6e16282
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 649404de9246c50917c9fb9807578fe93532fd40
+  ms.sourcegitcommit: c4dff69dca814c5b7f9b95fb63f026af33746ada
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7438833"
+  ms.lasthandoff: 03/04/2022
+  ms.locfileid: "8387056"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/7-work-with-manage-quotes.md)]'
