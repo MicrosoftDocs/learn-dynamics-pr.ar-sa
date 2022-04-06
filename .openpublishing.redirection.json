@@ -1,6 +1,16 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-customer-data-platform/4-engagement-insights.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-customer-data-platform/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/power-platform/build-power-app-component/3a-auditing.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/build-power-app-component/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/administrating-power-platform-subscriptions/7-administer-instance.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/administrating-power-platform-subscriptions/",
       "redirect_document_id": false
