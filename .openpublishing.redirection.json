@@ -1,7 +1,7 @@
 {
   "redirections": [
     {
-      "source_path": "learn-dynamics-pr/dyn365-customer-service/administering-power-platform-subscriptions/7-administer-instance.md",
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/administrating-power-platform-subscriptions/7-administer-instance.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/administrating-power-platform-subscriptions/",
       "redirect_document_id": false
     },
