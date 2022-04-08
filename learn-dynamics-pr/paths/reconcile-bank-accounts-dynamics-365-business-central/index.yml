@@ -3,21 +3,21 @@ uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 metadata:
   title: تسوية الحسابات البنكية في Microsoft Dynamics 365 Business Central
   description: هل تود معرفة كيفية تسويه الحسابات البنكية في Business Central؟ تتم مناقشة ميزه التسوية البنكية ودفاتر يوميه التسوية في "مسار التعليم" هذا.
-  ms.date: 08/21/2019
+  ms.search.form: 9027, 9004
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 898d82a32b084c6417d5b9cf831a1df3a6df66b6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: bf48aa184df4de44fdecb9ac281cb68c48fe8478
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748780"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491220"
 title: تسوية الحسابات البنكية في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
-
 
   هل تود معرفة كيفية تسويه الحسابات البنكية في Business Central؟ تتم مناقشة ميزه التسوية البنكية ودفاتر يوميه التسوية في "مسار التعليم" هذا.
 prerequisites: >

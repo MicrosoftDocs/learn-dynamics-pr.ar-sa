@@ -3,17 +3,18 @@ uid: learn-dynamics.post-sales-purchase-invoices-dynamics-365-business-central
 metadata:
   title: ترحيل فواتير المبيعات والشراء في Microsoft Dynamics 365 Business Central
   description: هل تحتاج إلى معالجة فواتير مبيعات العميل وترحيلها؟ هل تحتاج إلى إدخال فواتير شراء المورد؟ ويتناول مسار التعليم هذا كل منهما، كما يتناول كيفية معالجة الدُّفعات المقدمة للعملاء والموردين.  كما يناقش استخدام المستندات الإلكترونية في عملك مع Business Central.
-  ms.date: 09/12/2019
+  ms.search.form: 9027, 9026, 9006, 9007
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 4b84dbc700a2069d839570d33c99745a06c5795c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 84dacbd261089a5e76d37362e700d2c01bb407e5
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748779"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491400"
 title: ترحيل فواتير المبيعات والشراء في Microsoft Dynamics 365 Business Central
 summary: هل تحتاج إلى معالجة فواتير مبيعات العميل وترحيلها؟ هل تحتاج إلى إدخال فواتير شراء المورد؟ ويتناول مسار التعليم هذا كل منهما، كما يتناول كيفية معالجة الدُّفعات المقدمة للعملاء والموردين.  كما يناقش استخدام المستندات الإلكترونية في عملك مع Business Central.
 prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central. \n- معرفة كيفية تعامل الشركات مع العملاء\n- المعرفة الأساسية بمخطط الحسابات\n"

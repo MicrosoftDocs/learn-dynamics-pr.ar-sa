@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a02f2ba20f321ba88ddd3e774429c1d5cf9aa7d4
-ms.sourcegitcommit: 6c08dc1282450e162141a968433f38943275aa63
+ms.openlocfilehash: 39f96dadf9fe6f981838363b3bf6b1cbcc4c1849
+ms.sourcegitcommit: 18189aff69a992eb3c29c5451054590be1830b0b
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/01/2022
-ms.locfileid: "8370079"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "8484653"
 ---
 تدفق البيانات هو مجموعة من الجداول التي يتم إنشاؤها وإدارتها في بيئات ضمن خدمة Power Apps. يمكنك إضافة جداول وتحريرها في تدفق البيانات، وإدارة جداول تحديث البيانات، مباشرةً من البيئة التي تم إنشاء تدفق البيانات فيها.
 
@@ -31,7 +31,7 @@ ms.locfileid: "8370079"
 
 1. حدد **الحصول على البيانات**.
 
-1. من نافذة Power Query، حدد **قائمة SharePoint**.
+1. من نافذة Power Query، حدد **قائمة**.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لنافذة اختيار مصدر البيانات مع قائمة Sharepoint المحددة عبر الإنترنت.](../media/5a-import-dataflow-select-source.png)](../media/5a-import-dataflow-select-source.png#lightbox)

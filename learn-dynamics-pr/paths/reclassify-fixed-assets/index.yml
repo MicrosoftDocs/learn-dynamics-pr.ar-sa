@@ -3,17 +3,18 @@ uid: learn-dynamics.reclassify-fixed-assets
 metadata:
   title: إعادة تصنيف الأصول الثابتة في Microsoft Dynamics 365 Business Central
   description: تتم مناقشة حركات الأصول باستخدام دفتر يومية إعادة التصنيف وعمليات النقل والتقسيم في مسار التعليم هذا.
-  ms.date: 08/11/2020
+  ms.search.form: 9027, 9004
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 5cfbfcaf6f1c346d7845c48bfde59ca31b02b6dc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 89c5c387ae93f600e753ec2c5d3bfd780f7e5008
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748738"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491247"
 title: إعادة تصنيف الأصول الثابتة في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]

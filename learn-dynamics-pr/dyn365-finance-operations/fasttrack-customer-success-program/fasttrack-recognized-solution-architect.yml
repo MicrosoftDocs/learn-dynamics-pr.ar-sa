@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.fasttrack-customer-success-program.fasttrack-recognized-solution-architect
+title: كن مهندس الحلول المعترف به من FastTrack
+metadata:
+  title: كن مهندس الحلول المعترف به من FastTrack
+  description: تصف هذه الوحدة كيف تصبح مهندس حلول معترف به من FastTrack.
+  ms.date: 03/15/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d4b99b9bc2136e2cf63a8162a60df86284032c00
+  ms.sourcegitcommit: 511e4ff6400ea73a0df7e817e74e16ceacf16d60
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/15/2022
+  ms.locfileid: "8420481"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/fasttrack-recognized-solution-architect.md)]"

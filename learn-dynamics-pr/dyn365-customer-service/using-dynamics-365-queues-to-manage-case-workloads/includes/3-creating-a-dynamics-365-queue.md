@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cadac937ce60330b64fcb590edf4f35abdc27bf6
-ms.sourcegitcommit: 9ec47f41e1a9952be8aac8aaa7e2200a4df69ff9
+ms.openlocfilehash: 4eaa002a9baaf45d7ccdbf03b08705718b2975a5
+ms.sourcegitcommit: 9a29e58d2917f5646edb9c0563afc38970c9e4de
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/23/2021
-ms.locfileid: "7946121"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "8456038"
 ---
 عندما تكون المؤسسة جاهزة للبدء في استخدام قوائم الانتظار، يمكن إنشاؤها استنادا إلى احتياجات تنظيمية محددة. قبل إضافة الصفوف إلى مؤسسة، خذ بعض الوقت للنظر في العدد الإجمالي للصفوف المطلوبة وما سيتم استخدامها من أجله.
 
@@ -32,7 +32,7 @@ ms.locfileid: "7946121"
 
 إذا كان قائمة الانتظار ستتلقى بريداً إلكترونياً، فيجب أن يكون لها اسم مستعار بريد إلكتروني مقترن. يجب أن يقترن هذا الاسم المستعار للبريد الإلكتروني بسجل علبة بريد عامل في Dynamics 365. يمكن استخدام إعدادات النظام لتحديد ما إذا كان قد تمت الموافقة على قائمة انتظار تحتوي على اسم مستعار للبريد الإلكتروني لقبول عناصر البريد الإلكتروني الواردة.
 
-لمزيد من المعلومات حول إعداد صناديق بريد Dynamics 365، راجع [توصيل Dynamics 365 (online) بـ Exchange Online](/dynamics365/customer-engagement/admin/connect-exchange-online/?azure-portal=true).
+لمزيد من المعلومات حول إعداد صناديق بريد Dynamics 365، راجع [توصيل Dynamics 365 (online) بـ Exchange Online](/dynamics365/customer-engagement/admin/connect-exchange-online?azure-portal=true).
 
 بالإضافة إلى تحديد سجل صندوق بريد لقائمة انتظار، يمكنك تحديد رسائل البريد الإلكتروني التي تأتي إلى قائمة الانتظار التي سيتم تحويلها إلى أنشطة البريد الإلكتروني.
 

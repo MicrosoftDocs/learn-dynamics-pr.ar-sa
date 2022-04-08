@@ -3,17 +3,18 @@ uid: learn-dynamics.manage-warehouse-processes
 metadata:
   title: إدارة عمليات المستودع في Microsoft Dynamics 365 Business Central
   description: يؤدي نقل الأصناف وإنتاجها في أحد المستودعات إلى وظائف أساسية تتم مناقشتها في هذه الوحدة. كما نقوم بمناقشة استخدام دفاتر يومية الأصناف.
-  ms.date: 01/22/2021
+  ms.search.form: 9000, 9010
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 2c69ff4d4e25bf4aec7f17db8c32e3b2d8e94437
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 966a67aa85653ba0ad0accbe9f8038e0c8ecac66
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748811"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491238"
 title: إدارة عمليات المستودع في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]

@@ -1,21 +1,22 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.work-pro-data-dynamics-365-business-central
 metadata:
-  title: يمكنك التعامل مع البيانات كمحترف في Business Central
-  description: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
-  ms.date: 10/18/2019
+  title: يُمكنك التعامل مع البَيانات كمحترف في Business Central
+  description: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البَيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
+  ms.search.form: 9020, 9022, 9027, 9030, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: b30247e803ae74542599bac283752a67a2bc8c4f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4e9c45b4fdb17d77c93b86e6a5cf2eace8fa7d90
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748747"
-title: يمكنك التعامل مع البيانات كمحترف في Business Central
-summary: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491391"
+title: يُمكنك التعامل مع البَيانات كمحترف في Business Central
+summary: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البَيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
 prerequisites: >
   - بلا
 iconUrl: /learn/achievements/work-pro-data-dynamics-365-business-central.svg

@@ -3,21 +3,22 @@ uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
 metadata:
   title: التعامل مع واجهة مستخدم Microsoft Dynamics 365 Business Central
   description: هل تود الحصول على معلومات حول واجهة Business Central؟ يوضح لك مسار التعليم هذا واجهة المستخدم، وكذلك كيفية تخصيصها. ويناقش أيضاً الواجهات البديلة مثل الهاتف الذكي.
-  ms.date: 09/20/2019
+  ms.search.form: 9020, 9022, 9027, 9030, 9004, 9005, 9018, 9006, 9007, 9010, 9016, 9017
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 2dd759c985750f9f2e5e7068cac5c474fdab4cff
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: adbec52fb22cec8a90f768b4c56df73ffdb739db
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748778"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491346"
 title: التعامل مع واجهة مستخدم Microsoft Dynamics 365 Business Central
 summary: هل تود الحصول على معلومات حول واجهة Business Central؟ يوضح لك مسار التعليم هذا واجهة المستخدم، وكذلك كيفية تخصيصها. ويناقش أيضاً الواجهات البديلة مثل الهاتف الذكي.
 prerequisites: >
-  - بلا
+  - فهم أساسي لتطبيق Business Central.
 iconUrl: /learn/achievements/work-with-user-interface-dynamics-365-business-central.svg
 levels:
 - beginner

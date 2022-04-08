@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7af05ad4501448e8bacdcb360c6125bc17761c96
-ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+ms.openlocfilehash: c37c0e5503e3327b2bfa614f8e4aaf564be5a8fc
+ms.sourcegitcommit: 9942c0b907327fa247defb5b4273718c18d2f7c6
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "7900595"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "8466049"
 ---
 يمكنك استخدام الرمز المميز لمصادقة Microsoft Azure Active Directory (Azure AD) لمصادقة/تخويل Dynamics 365 Fraud Protection. فيما يلي الخطوات المطلوبة للحصول على الرمز المميز. 
 
@@ -44,7 +44,7 @@ ms.locfileid: "7900595"
 
     1. في الحقل **URL**، أدخل:
 
-       `/{{InstanceId}}/oauth2/token*/?azure-portal=true`
+       `https://login.microsoftonline.com/{{InstanceId}}/oauth2/token`
 
         (تم تقديم **معرف المثيل** في الخطوة 2.)
 

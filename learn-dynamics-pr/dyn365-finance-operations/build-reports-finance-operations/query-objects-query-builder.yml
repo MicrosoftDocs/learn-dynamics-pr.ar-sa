@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-reports-dynamics-365-finance-operations.query-objects-query-builder
+title: تنفيذ كائنات الاستعلام ومنشئ الاستعلام
+metadata:
+  title: تنفيذ كائنات الاستعلام ومنشئ الاستعلام
+  description: تعرف على كيفية تنفيذ كائنات الاستعلام ومنشئ الاستعلام في تطبيقات التمويل والعمليات.
+  ms.date: 03/22/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ee765305b6d2b243a67db633db88507c073e42fa
+  ms.sourcegitcommit: ad545ef6f3fb88f72ae2ac1830e063f44b8e9a3c
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/23/2022
+  ms.locfileid: "8468083"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/query-objects-query-builder.md)]

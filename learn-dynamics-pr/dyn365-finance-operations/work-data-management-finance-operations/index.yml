@@ -1,31 +1,31 @@
 ### YamlMime:Module
 uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops
 metadata:
-  title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
-  description: يمكنك تصدير البيانات أو استيرادها في تطبيقات Finance and Operations باستخدام مساحة عمل إدارة البيانات. تحقق من صحة البيانات من خلال التشغيل المرحلي لبيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بيانات تطبيقات Finance and Operations.
-  ms.date: 06/14/2021
+  title: قم بالعمل باستخدام إدارة البَيانات في تطبيقات التمويل والعمليات
+  description: يُمكنك تصدير البَيانات أو استيرادها في تطبيقات التمويل والعمليات باستخدام مساحة عمل إدارة البَيانات. تحقق من صحة البَيانات من خلال التشغيل المرحلي لبَيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بَيانات تطبيقات التمويل والعمليات.
+  ms.date: 03/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3279ae0c3a8eeb0c268f1c4a883a6a8ff1e207ff
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c9663df0480c0cdb4c51ef03c1406a6bd68693a4
+  ms.sourcegitcommit: 511e4ff6400ea73a0df7e817e74e16ceacf16d60
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335913"
-title: العمل باستخدام إدارة البيانات في تطبيقات Finance and Operations
+  ms.lasthandoff: 03/15/2022
+  ms.locfileid: "8420436"
+title: قم بالعمل باستخدام إدارة البَيانات في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  يمكنك تصدير البيانات أو استيرادها في تطبيقات Finance and Operations باستخدام مساحة عمل إدارة البيانات. تحقق من صحة البيانات من خلال التشغيل المرحلي لبيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بيانات تطبيقات Finance and Operations.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- حدد النمط الصحيح لسيناريو معين لاستخدام النظام الأساسي لإدارة البيانات للتكامل باستخدام كيانات البيانات. \n- تعامل مع مساحة عمل إدارة البيانات.\n- تصدير البيانات من كيان قانوني.\n- استيراد البيانات إلى كيان قانوني. \n- العمل مع وظائف استيراد وتصدير البيانات.\n- تنظيف الجداول المرحلية.\n"
+  يُمكنك تصدير البَيانات أو استيرادها في تطبيقات التمويل والعمليات باستخدام مساحة عمل إدارة البَيانات. تحقق من صحة البَيانات من خلال التشغيل المرحلي لبَيانات المصدر، ثم نقلها إلى الجداول المستهدفة في قاعدة بَيانات تطبيقات التمويل والعمليات.
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- حدد النمط الصحيح لسيناريو معين لاستخدام النظام الأساسي لإدارة البَيانات للتكامل باستخدام كيانات البَيانات. \n- تعامل مع مساحة عمل إدارة البَيانات.\n- تصدير البَيانات من كيان قانوني.\n- استيراد البَيانات إلى كيان قانوني. \n- العمل مع وظائف استيراد وتصدير البَيانات.\n- تنظيف الجداول المرحلية.\n- قم بالعمل باستخدام عمليات نقل قاعدة البَيانات.\n- قم بالعمل مع إطار مشاركة البَيانات.\n"
 prerequisites: >
   - المعرفة العامة بـ Microsoft Windows
 
-  - الفهم الأساسي لتطبيقات Finance and Operations، بما في ذلك المفاهيم الأساسية ومهارات التنقل الأساسية في التطبيق
+  - الفهم الأساسي لتطبيقات التمويل والعمليات، بما في ذلك المفاهيم الأساسية ومهارات التنقل الأساسية في التطبيق
 
-  - الفهم الأساسي لإضافة الكيانات والحقول والعلاقات إلى تطبيقات Finance and Operations
+  - الفهم الأساسي لإضافة الكيانات والحقول والعلاقات إلى تطبيقات التمويل والعمليات
 iconUrl: /learn/achievements/work-with-data-management-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
@@ -48,6 +48,8 @@ units:
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.7-export-import-copy-data
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.8-exercise-explore-data-management-workspace
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.9-exercise-export-import-data
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.database-movement-operations
+- learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.data-sharing-framework
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.10-work-data-management-quiz
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.11-work-data-management-summary
 badge:

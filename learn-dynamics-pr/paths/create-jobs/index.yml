@@ -3,17 +3,18 @@ uid: learn-dynamics.create-jobs
 metadata:
   title: إنشاء الوظائف في Microsoft Dynamics 365 Business Central
   description: هل ستقوم باستخدام الوظائف لتعقب تكاليف المشروع باستخدام Business Central؟ يناقش مسار التعليم هذا إنشاء وظائف جديدة باستخدام خطوط تخطيط الوظيفة وخطوط تخطيط مهمة وظيفية.
-  ms.date: 09/02/2020
+  ms.search.form: 9027, 9004, 9018
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 6d0df568b72ccddd66cc6f15e7a32c6f3cfcc6ef
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: adcfe3f2023318e8f2f5a8c12a3049a00511ed10
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748765"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491184"
 title: إنشاء الوظائف في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]

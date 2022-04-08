@@ -2,25 +2,27 @@
 uid: learn-dynamics.administrating-power-platform-subscriptions
 metadata:
   title: إدارة اشتراكات Microsoft Power Platform
-  description: لا تدرك العديد من المؤسسات التي تنفذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform الإمكانيات المذهلة المضمنة في اشتراكهم. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.
-  ms.date: 02/06/2019
+  description: تعرف على الإمكانات الافتراضية التي يُمكنك الوصول إليها من خلال اشتراكات Microsoft Power Platform الخاصة بك.
+  ms.date: 03/23/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 92790989fd82184b1edada32962a900399b7f8b8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5af6c0b64ee257f7b5804caa77529843251f7298
+  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346248"
+  ms.lasthandoff: 03/24/2022
+  ms.locfileid: "8484130"
 title: إدارة اشتراكات Microsoft Power Platform
-summary: "[!include[](../includes/module-banner.md)]\n\nلا تدرك العديد من المؤسسات التي تنفذ تطبيقات Dynamics 365 Customer Engagement على Microsoft Power Platform الإمكانيات المذهلة المضمنة في اشتراكهم. يتضمن اشتراكك افتراضياً مداخل Microsoft، وGamification، واستطلاعات صوت العميل، فضلاً عن القدرات الفنية، مثل النسخ الاحتياطي والاستعادة، والتخطيط المتكامل للتحديثات والترقيات. تركز هذه الوحدة على عرض القدرات الافتراضية الرائعة التي يمكنك الحصول عليها.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n-   إدارة المستخدمين باستخدام مركز إدارة Microsoft 365\n-   إدارة المثيلات باستخدام مركز إدارة Dynamics 365\n-   إدارة التخزين\n-   إدارة التحديثات باستخدام مركز إدارة Dynamics 365\n-   تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365\n-   توفير مدخل Microsoft\n"
-prerequisites: >
-  - يُفضَّل وجود فهم أساسي للبنية الأساسية لحلول Microsoft Power Platform، وحلول Microsoft Online Business ومنها مدخل مسؤول Microsoft 365.
+summary: >
+  [!include[](../includes/module-banner.md)]
 
-  - فهم كيفية تصميم عمليات التوزيع في Dynamics 365.
+
+  لا تدرك العديد من المؤسسات التي تقوم بتنفيذ Microsoft Power Platform وتطبيقات Dynamics 365 جميع الإمكانات المضمنة في اشتراكها. في هذه الوحدة، ستتعرف على هذه الإمكانات الافتراضية التي يُمكنك الوصول إليها.
+abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- قم بإدارة المستخدمين باستخدام مركز إدارة Microsoft 365.\n- قم بإدارة البيئات باستخدام مركز مسؤولي Power Platform.\n- قم بإدارة التخزين.\n- قم بإدارة التحديثات باستخدام مركز مسؤولي Power Platform.\n- قم بتثبيت التطبيقات باستخدام مركز مسؤولي Power Platform.\n- قم بتزويد مدخل Power Apps.\n"
+prerequisites: >
+  - فهم البنية التحتية الأساسية من Microsoft Power Platform
 iconUrl: /learn/achievements/administrating-power-platform-subscriptions.svg
 levels:
 - intermediate
@@ -32,13 +34,13 @@ products:
 - dynamics-365
 - power-platform
 units:
+- learn-dynamics.administrating-power-platform-subscriptions.introduction
 - learn-dynamics.administrating-power-platform-subscriptions.1-manage-users-admin-portal
 - learn-dynamics.administrating-power-platform-subscriptions.2-instance-administration-admin-center
 - learn-dynamics.administrating-power-platform-subscriptions.3-manage-storage
 - learn-dynamics.administrating-power-platform-subscriptions.4-manage-updates-admin-center
 - learn-dynamics.administrating-power-platform-subscriptions.5-install-apps-admin-center
 - learn-dynamics.administrating-power-platform-subscriptions.6-provision-microsoft-portal
-# - learn-dynamics.administrating-power-platform-subscriptions.7-administer-instance
 - learn-dynamics.administrating-power-platform-subscriptions.8-knowledge-check
 - learn-dynamics.administrating-power-platform-subscriptions.9-summary
 badge:

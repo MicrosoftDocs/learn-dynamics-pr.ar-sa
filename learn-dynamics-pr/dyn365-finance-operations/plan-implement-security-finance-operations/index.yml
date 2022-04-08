@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops
 metadata:
-  title: تخطيط الأمان في تطبيقات Finance and Operations وتنفيذه
-  description: إذا كنت تفهم بنية الأمان لتطبيقات Finance and Operations، فيمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات Finance and Operations في الحفاظ على أمان بياناتك الحساسة، ويركز المستخدمون على أدوارهم.
-  ms.date: 12/01/2021
+  title: تخطيط الأمان وتنفيذه في تطبيقات التمويل والعمليات
+  description: إذا كنت تفهم بنية الأمان لتطبيقات التمويل والعمليات، فيُمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات التمويل والعمليات في الحفاظ على أمان بَياناتك الحساسة، ويركز المستخدمون على أدوارهم.
+  ms.date: 03/16/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d063f906cee2420234bf6a31276dc3956003e255
-  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
+  ms.openlocfilehash: 54dd5b218e6b131c13b75e324f16a3632ed5dc4b
+  ms.sourcegitcommit: 28c6f0e9c300675df166282f95aebfd199c0beeb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/01/2021
-  ms.locfileid: "7878474"
-title: تخطيط الأمان في تطبيقات Finance and Operations وتنفيذه
-summary: "[!include[](../includes/module-banner.md)]\n\nإذا كنت تفهم بنية الأمان لتطبيقات Finance and Operations، فيمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات Finance and Operations في الحفاظ على أمان بياناتك الحساسة، ويركز المستخدمون على أدوارهم. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم بنية الأمان لتطبيقات Finance and Operations\n- إدارة المستخدمين\n- إدارة الأمان\n- تطبيق الفصل بين المهام\n- تشغيل تقارير الأمان\n"
-prerequisites: المعرفة العامة بنظام Windows والقدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية.
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "8457822"
+title: تخطيط الأمان وتنفيذه في تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nإذا كنت تفهم بنية الأمان لتطبيقات التمويل والعمليات، فيُمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات التمويل والعمليات في الحفاظ على أمان بَياناتك الحساسة، ويركز المستخدمون على أدوارهم. \n"
+abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- فهم بنية الأمان لتطبيقات التمويل والعمليات\n- تعرف على التشفير في تطبيقات التمويل والعمليات\n- إدارة المستخدمين\n- إدارة الأمان\n- تطبيق الفصل بين المهام\n- تشغيل تقارير الأمان\n- الحفاظ على التوافق مع متطلبات ترخيص المستخدم\n"
+prerequisites: المعرفة العامة بنظام Windows والقدرة على استخدام تطبيقات التمويل والعمليات للمعالجة الأساسية.
 iconUrl: /learn/achievements/plan-and-implement-security-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
@@ -32,9 +32,11 @@ products:
 units:
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.1-plan-and-implement-security-in-f-and-o-introduction
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.2-understand-the-security-architecture
+- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.encryption
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.3-manage-users-and-security
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.4-set-up-and-apply-segregation-of-duties
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-run-security-reports
+- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.user-licensing-requirements
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-2-extensible-data-security-policy
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.7-exercise-import-a-user-and-assign-security-role
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.6-exercise-create-a-new-user-and-assign-a-security-role

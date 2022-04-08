@@ -3,17 +3,18 @@ uid: learn-dynamics.post-job-usage-sales
 metadata:
   title: ترحيل استخدام الوظيفة والمبيعات في Microsoft Dynamics 365 Business Central
   description: هل تقوم بإدارة الوظائف والتكاليف والمبيعات المرتبطة بالوظائف؟ إذا كنت تود تنفيذ ذلك في Business Central، فسيركز هذا المسار على هذه الموضوعات.
-  ms.date: 09/04/2020
+  ms.search.form: 9026, 9027, 9016, 9017
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 5192975942d3beaf27c054bab5a0f824b23fa0f4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a4d8084d21f97a585d1ac5b60b6be8ea0b8d9953
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748781"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491256"
 title: ترحيل استخدام الوظيفة والمبيعات في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]

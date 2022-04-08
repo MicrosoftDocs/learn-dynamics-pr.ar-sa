@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-tables-dynamics-365-finance-operations.table-methods
+title: أساليب الجداول
+metadata:
+  title: أساليب الجداول
+  description: تعرف على أساليب الجداول في تطبيقات التمويل والعمليات.
+  ms.date: 03/24/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4e6ba3574768cce0d17787e4924351e51e3f817e
+  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/24/2022
+  ms.locfileid: "8484234"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/table-methods.md)]

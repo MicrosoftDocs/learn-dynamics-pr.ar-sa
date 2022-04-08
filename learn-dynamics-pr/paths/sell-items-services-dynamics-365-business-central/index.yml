@@ -2,20 +2,21 @@
 uid: learn-dynamics.sell-items-services-dynamics-365-business-central
 metadata:
   title: بيع الأصناف والخدمات في Microsoft Dynamics 365 Business Central
-  description: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
-  ms.date: 10/22/2019
+  description: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيُمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
+  ms.search.form: 9006, 9005
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 3bc867f361920722a663baf5b83af9baa018dd48
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a3d0843e6385c1924f48cd2a234943aceafb9711
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748774"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491202"
 title: بيع الأصناف والخدمات في Microsoft Dynamics 365 Business Central
-summary: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
+summary: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيُمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
 prerequisites: >
   - الفهم الأساسي لكيفية التنقل في Dynamics 365 Business Central.
 

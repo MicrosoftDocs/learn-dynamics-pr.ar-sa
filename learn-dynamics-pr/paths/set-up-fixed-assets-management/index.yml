@@ -3,17 +3,18 @@ uid: learn-dynamics.set-up-fixed-assets-management
 metadata:
   title: إعداد إدارة الأصول الثابتة في Microsoft Dynamics 365 Business Central
   description: هل تخطط لاستخدام وظيفة الأصول الثابتة في Business Central؟ في حاله القيام بذلك، سيقوم "مسار التعليم" هذا بالشروع في العمل وذلك بمساعدتك على إعداد وظيفة أساسية تتعلق بـ Business Central.
-  ms.date: 07/08/2020
+  ms.search.form: 9027, 9004
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 5fabe727f9598734db6b3923df5c74fe3befc988
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a20fb8a2cfc6ffbc9fc25fb2a5136dde999bf4a4
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748777"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491364"
 title: إعداد إدارة الأصول الثابتة في Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تخطط لاستخدام وظيفة الأصول الثابتة في Business Central؟ في حاله القيام بذلك، سيقوم \"مسار التعليم\" هذا بالشروع في العمل وذلك بمساعدتك على إعداد وظيفة أساسية تتعلق بـ Business Central. \n"
 prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- المعرفة بحسابات دفتر الأستاذ العام والوظائف.    \n- معرفة كيفية إدارة الأصول الثابتة في أحد الأعمال.\n"

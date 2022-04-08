@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2fe8323c447804c1005d7755540957dbaebbeb1a
-ms.sourcegitcommit: 15cacfc7483419ecc0361228546659323ab5f4f1
+ms.openlocfilehash: 9219aa6c8d833f64d55a8362b73862106dc5e7c3
+ms.sourcegitcommit: 9adc0b78e181986a042bb4a7b22fe7aae27b62ba
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "8417802"
+ms.lasthandoff: 03/16/2022
+ms.locfileid: "8453805"
 ---
 من خارج الصندوق، يتم تكوين قوائم الانتظار مسبقاً للحالات والأنشطة فقط. أنها توفر قيمة هائلة لسيناريوهات الأعمال المحددة في Microsoft Dynamics ‏365. يمكنك استخدام قوائم الانتظار لتحسين الأنشطة المتعلقة بالمبيعات وتبسيطها، أو لتوفير معالجة أفضل وأسرع لعمليات الفحص أو الأعمال الورقية أو التطبيقات.
 
@@ -23,7 +23,7 @@ ms.locfileid: "8417802"
 > [!IMPORTANT]
 > نظراً لأن تخصيص النظام مطلوب لإعداد جداول أخرى لصفوف الانتظار، يجب أن يكون لديك امتيازات التخصيص المناسبة في مؤسسة Dynamics 365 الخاصة بك.
 
-لمزيد من المعلومات حول أدوار أمان Dynamics 365، راجع [امتيازات وأدوار الأمان](/dynamics365/customer-engagement/admin/security-roles-privileges/?azure-portal=true).
+لمزيد من المعلومات حول أدوار أمان Dynamics 365، راجع [امتيازات وأدوار الأمان](/dynamics365/customer-engagement/admin/security-roles-privileges?azure-portal=true).
 
 ## <a name="set-up-a-table-to-use-queues"></a>قم بإعداد جدول لاستخدام صفوف الانتظار
 

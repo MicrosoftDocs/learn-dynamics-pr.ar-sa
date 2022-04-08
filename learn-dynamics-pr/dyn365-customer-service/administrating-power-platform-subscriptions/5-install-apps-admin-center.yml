@@ -3,19 +3,19 @@ uid: learn-dynamics.administrating-power-platform-subscriptions.5-install-apps-a
 title: تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365
 metadata:
   title: تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365
-  description: تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365
+  description: تعلم كيفية تثبيت التطبيقات باستخدام مركز إدارة Dynamics 365.
   ms.date: 02/06/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: b2b5adda2c92df47446b4a25ff92477d58658439
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 612f759294c2b97a0d6971d939356f2d7d13cffb
+  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364479"
+  ms.lasthandoff: 03/24/2022
+  ms.locfileid: "8484040"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

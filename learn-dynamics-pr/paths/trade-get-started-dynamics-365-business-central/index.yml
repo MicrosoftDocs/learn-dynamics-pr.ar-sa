@@ -3,17 +3,18 @@ uid: learn-dynamics.trade-get-started-dynamics-365-business-central
 metadata:
   title: الشروع في العمل مع Trade في Microsoft Dynamics 365 Business Central
   description: هل تستخدم Trade في Business Central؟ يناقش "مسار التعليم" هذا متطلبات الإعداد وكيفية بدء استخدام Trade في Business Central.
-  ms.date: 1/21/2020
+  ms.search.form: 9020, 9022, 9026, 9005, 9006
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: cf66f47d978d109f5f8e00cda040c085dfff3d7a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 51ac58212e260b5bef9079407a1fd90ceb91515d
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748761"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491139"
 title: الشروع في العمل مع Trade في Microsoft Dynamics 365 Business Central
 summary: هل تستخدم Trade في Business Central؟ يناقش "مسار التعليم" هذا متطلبات الإعداد وكيفية بدء استخدام Trade في Business Central.
 prerequisites: "- فهم كيفية التنقل في تطبيق Dynamics 365 Business Central. \n- الإلمام بمفهوم مجموعات الترحيل وسلسلة الأرقام في Business Central\n- الإلمام بكيفية استخدام الأصناف والعملاء وبطاقات الموردين في Business Central\n"

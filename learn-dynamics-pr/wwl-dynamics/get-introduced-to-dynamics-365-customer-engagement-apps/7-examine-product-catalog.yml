@@ -4,17 +4,17 @@ title: فحص كتالوج المنتجات
 metadata:
   title: فحص كتالوج المنتجات
   description: فحص كتالوج المنتجات
-  ms.date: 12/21/2021
+  ms.date: 03/21/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 6294d38d09fc49e1b44b444c4144513d592891d1
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 99ac54cab592eb9062e100278d87959f12c59210
+  ms.sourcegitcommit: 9942c0b907327fa247defb5b4273718c18d2f7c6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944598"
+  ms.lasthandoff: 03/22/2022
+  ms.locfileid: "8465995"
 azureSandbox: false
 labModal: false
 durationInMinutes: 6

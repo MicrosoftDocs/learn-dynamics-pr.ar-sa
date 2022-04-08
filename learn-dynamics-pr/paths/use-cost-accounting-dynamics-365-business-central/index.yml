@@ -2,20 +2,21 @@
 uid: learn-dynamics.use-cost-accounting-dynamics-365-business-central
 metadata:
   title: استخدام محاسبة التكاليف في Microsoft Dynamics 365 Business Central
-  description: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
-  ms.date: 08/30/2019
+  description: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يُمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البَيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
+  ms.search.form: 9027, 9004
+  ms.date: 03/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: da30f2c43e4a63df6d94665baea328f2ce928ce3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ee17986234474b1fff753e21114dd4eb20ccdcfd
+  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748759"
+  ms.lasthandoff: 03/29/2022
+  ms.locfileid: "8491319"
 title: استخدام محاسبة التكاليف في Microsoft Dynamics 365 Business Central
-summary: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
+summary: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يُمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البَيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
 prerequisites: >
   - الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central.
 

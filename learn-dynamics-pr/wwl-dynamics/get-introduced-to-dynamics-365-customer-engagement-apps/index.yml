@@ -3,17 +3,17 @@ uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps
 metadata:
   title: تعرف على تطبيقات إشراك العملاء
   description: تعرف على تطبيقات إشراك العملاء
-  ms.date: 12/21/2021
+  ms.date: 03/21/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: b977c69431b3ee118a413ec8997b9555e2e2340f
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 582e4647eba4ca6117280d328a07a2fa26c14538
+  ms.sourcegitcommit: 9942c0b907327fa247defb5b4273718c18d2f7c6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944590"
+  ms.lasthandoff: 03/22/2022
+  ms.locfileid: "8465888"
 title: تعرف على تطبيقات إشراك العملاء
 summary: تشرح هذه الوحدة تطبيقات إشراك العملاء في Dynamics 365 وميزاتها المشتركة، بما في ذلك التكامل والإبلاغ والبحث.
 abstract: >

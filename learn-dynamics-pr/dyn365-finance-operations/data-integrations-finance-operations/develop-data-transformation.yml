@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.develop-data-transformation
+title: تطوير تحويل البيانات
+metadata:
+  title: تطوير تحويل البيانات
+  description: تعرّف على كيفية تطوير تحويل البيانات في تطبيقات التمويل والعمليات.
+  ms.date: 03/24/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a77e94a18d6a96c5578838da2cf74ada01d26dde
+  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/24/2022
+  ms.locfileid: "8484227"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/develop-data-transformation.md)]

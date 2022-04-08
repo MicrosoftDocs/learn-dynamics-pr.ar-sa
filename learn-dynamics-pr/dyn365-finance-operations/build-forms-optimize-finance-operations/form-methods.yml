@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.form-methods
+title: أساليب النموذج
+metadata:
+  title: أساليب النموذج
+  description: تعرف على أساليب النموذج في تطبيقات التمويل والعمليات.
+  ms.date: 03/24/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5877d6a6b91c096d46104c6f2e6612c3503d714a
+  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/24/2022
+  ms.locfileid: "8484224"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/form-methods.md)]
