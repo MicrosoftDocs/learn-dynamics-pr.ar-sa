@@ -29,7 +29,7 @@ units:
 - learn-dynamics.build-power-app-component.1-create-code-component
 - learn-dynamics.build-power-app-component.2-package-code-component
 - learn-dynamics.build-power-app-component.3-debug-code-component
-- learn-dynamics.build-power-app-component.3a-auditing
+#- learn-dynamics.build-power-app-component.3a-auditing
 - learn-dynamics.build-power-app-component.4-check
 - learn-dynamics.build-power-app-component.5-summary
 badge:
