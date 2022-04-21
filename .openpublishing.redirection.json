@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/power-platform/use-admin-options-cds/4-classic.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/use-admin-options-cds/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-customer-data-platform/4-engagement-insights.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/get-started-customer-data-platform/",
       "redirect_document_id": false
