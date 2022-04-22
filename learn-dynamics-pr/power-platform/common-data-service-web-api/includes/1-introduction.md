@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 031f0b819a0454c13daa2686ec16e0bcff6375bf
-ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+ms.openlocfilehash: 494a65c5deb4c80dcc7462289272414f9356c578
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "7503352"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548617"
 ---
 ## <a name="web-api-vs-the-organization-service"></a>واجهة API الويب في مقابل خدمة المؤسسة
 
@@ -16,9 +16,9 @@ ms.locfileid: "7503352"
 
 ![شجرة القرار للمساعدة في تحديد متى يجب استخدام واجهة API الويب في مقابل خدمة المؤسسة وأيضاً متى يجب استخدام XRM Tooling Assemblies لتطبيقات Windows.‬](../media/unit-1-image-1.png) 
 
-تركز هذه الوحدة النمطية على استخدام واجهة API الويب؛ لمزيد من المعلومات حول خدمة المؤسسة، راجع وثائق [استخدام خدمة مؤسسة Dataverse](/powerapps/developer/common-data-service/org-service/overview/?azure-portal=true) التي يمكن العثور عليها في دليل مطور Dataverse. 
+تركز هذه الوحدة النمطية على استخدام واجهة API الويب؛ لمزيد من المعلومات حول خدمة المؤسسة، راجع وثائق [استخدام خدمة مؤسسة Dataverse](/power-apps/developer/common-data-service/org-service/overview/?azure-portal=true) التي يمكن العثور عليها في دليل مطور Dataverse. 
 
-إذا أردت معرفة المزيد عن XRM Tooling Assemblies المتوفرة لتطبيقات عميل Windows، فراجع وثائق [إنشاء تطبيقات عميل Windows باستخدام أدوات XRM](/powerapps/developer/common-data-service/xrm-tooling/build-windows-client-applications-xrm-tools/?azure-portal=true)، التي يمكن العثور عليها أيضاً في دليل مطور Dataverse. لقد كان XRM موجوداً قبل Dataverse، وبالتالي سترى في الكثير من الأحيان هذا الاسم مضمناً في والوثائق والأدوات التي توفرها Microsoft. 
+إذا أردت معرفة المزيد عن XRM Tooling Assemblies المتوفرة لتطبيقات عميل Windows، فراجع وثائق [إنشاء تطبيقات عميل Windows باستخدام أدوات XRM](/power-apps/developer/common-data-service/xrm-tooling/build-windows-client-applications-xrm-tools/?azure-portal=true)، التي يمكن العثور عليها أيضاً في دليل مطور Dataverse. لقد كان XRM موجوداً قبل Dataverse، وبالتالي سترى في الكثير من الأحيان هذا الاسم مضمناً في والوثائق والأدوات التي توفرها Microsoft. 
 
 ## <a name="odata-40"></a>OData 4.0
 
@@ -26,7 +26,7 @@ ms.locfileid: "7503352"
 
 لا يوفر Dataverse أدوات تجميع معينة لواجهة API الويب؛ بدلاً من ذلك، ننصحك باستخدام مكتبات المجتمع التي تتوافق مع بروتوكول OData. إذا أردت الحصول على المزيد من المعلومات حول المكتبات الموجودة، انتقل إلى [https://www.odata.org/libraries/](https://www.odata.org/libraries/?azure-portal=true). 
 
-يوفر OData القدرة على التفاعل مع بيانات Dataverse بواسطة عمليات CRUD التي تتوفر عبر أساليب GET وPOST وPATCH وDELETE HTTP القياسية (يمكن العثور على المزيد من المعلومات حول هذه الأساليب لاحقاً في هذه الوحدة النمطية). يمكنك أيضاً تنفيذ عدد كبير من العمليات الأخرى التي تُعرض عبر Dataverse [إطار عمل الحدث](/powerapps/developer/common-data-service/event-framework/?azure-portal=true) من خلال استدعاء *وظيفة* أو *إجراء* OData يحمل الاسم نفسه الذي تحمله رسالة خدمة المؤسسة المناظرة. الرسائل ذات الصلة بـ CRUD هي الرسائل الوحيدة غير المتوفرة لأن هذه الرسائل تتحقق باستخدام أساليب HTTP القياسية التي ورد وصفها سابقاً.
+يوفر OData القدرة على التفاعل مع بيانات Dataverse بواسطة عمليات CRUD التي تتوفر عبر أساليب GET وPOST وPATCH وDELETE HTTP القياسية (يمكن العثور على المزيد من المعلومات حول هذه الأساليب لاحقاً في هذه الوحدة النمطية). يمكنك أيضاً تنفيذ عدد كبير من العمليات الأخرى التي تُعرض عبر Dataverse [إطار عمل الحدث](/power-apps/developer/data-platform/event-framework/?azure-portal=true) من خلال استدعاء *وظيفة* أو *إجراء* OData يحمل الاسم نفسه الذي تحمله رسالة خدمة المؤسسة المناظرة. الرسائل ذات الصلة بـ CRUD هي الرسائل الوحيدة غير المتوفرة لأن هذه الرسائل تتحقق باستخدام أساليب HTTP القياسية التي ورد وصفها سابقاً.
 
 ## <a name="rest"></a>REST
 

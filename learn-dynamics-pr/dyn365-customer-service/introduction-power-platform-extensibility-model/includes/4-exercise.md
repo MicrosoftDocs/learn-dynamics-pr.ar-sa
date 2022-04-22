@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad7e87a1987a5d5523002bdb9f4f94ee1fcebfd5
-ms.sourcegitcommit: 795891ac6ed028ede7b163a7d63c538842fe53db
+ms.openlocfilehash: 3098a6ca2bc8952c9d8d6397d0992542331cda26
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/19/2021
-ms.locfileid: "7826919"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548661"
 ---
 في هذا التمرين، سيتم إنشاء واجهة API مخصصة لتنفيذ بعض المنطق المخصص. بعد ذلك، ستستخدم واجهة API المخصصة من إحدى خطوات تدفق في Power Automate.
 
@@ -114,7 +114,7 @@ ms.locfileid: "7826919"
 
 ## <a name="task-2-register-the-custom-api-plugin"></a>المهمة 2: تسجيل المكون الإضافي لواجهة API المخصصة
 
-1.  إذا لم تكن أداة **PluginRegistration** مُثبّتة لديك، فاتبع [هذه الإرشادات](/powerapps/developer/data-platform/download-tools-nuget/?azure-portal=true) لتنزيل أدوات SDK وتثبيتها بما في ذلك **PluginRegistration**.
+1.  إذا لم تكن أداة **PluginRegistration** مُثبّتة لديك، فاتبع [هذه الإرشادات](/power-apps/developer/data-platform/download-tools-nuget/?azure-portal=true) لتنزيل أدوات SDK وتثبيتها بما في ذلك **PluginRegistration**.
 
 1.  ابدأ تشغيل أداة **PluginRegistration**.
 

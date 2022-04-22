@@ -1,17 +1,17 @@
 ---
-ms.openlocfilehash: 46090ace42682e653c883714bf59e996aa090c26
-ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+ms.openlocfilehash: 57f92e25c5097b5ae8495161497dcf45f6c68c9b
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2022
-ms.locfileid: "8091184"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548419"
 ---
 في هذه المرحلة من التمرين العملي للبدء السريع، يجب على الموفر أن يعرض المكونات كما يظهر في لقطة الشاشة التالية.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لمكونات حل الموفر.](../media/export-components-ss.png)](../media/export-components-ss.png#lightbox)
 
-لمزيد من المعلومات، راجع [تصدير الحلول](/powerapps/maker/data-platform/export-solutions).
+لمزيد من المعلومات، راجع [تصدير الحلول](/power-apps/maker/data-platform/export-solutions).
 
 ## <a name="clean-up-after-export"></a>التنظيف بعد التصدير
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ea184d1de5a40c081d4fa7b3080500d4cb35fa299816de4199262a4beab0726
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f20fd95780d31853744fda44d26ae481aba100bd
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7457321"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548769"
 ---
 OData هي لغة تم اختبارها عبر الزمن للاستعلام عن RESTful APIs. يستكشف هذا الدرس عدة طرق لأداء عمليات CRUD ضد بيانات Microsoft Dataverse.
 
@@ -40,7 +40,7 @@ Accept: application/json
 GET [Organization URI]/api/data/v9.0/accounts(00000000-0000-0000-0000-000000000001)
 ```
 
-باستخدام بناء جملة استعلام OData القياسي، تتوفر طرق أخرى للاستعلام عن البيانات. لمزيد من المعلومات حول هذه العملية، راجع [استرجاع سجل كيان باستخدام Web API](/powerapps/developer/common-data-service/webapi/retrieve-entity-using-web-api/?azure-portal=true).
+باستخدام بناء جملة استعلام OData القياسي، تتوفر طرق أخرى للاستعلام عن البيانات. لمزيد من المعلومات حول هذه العملية، راجع [استرجاع سجل كيان باستخدام Web API](/power-apps/developer/common-data-service/webapi/retrieve-entity-using-web-api/?azure-portal=true).
 
 ## <a name="update-records"></a>تحديث السجلات
 
@@ -131,4 +131,4 @@ OData-Version: 4.0
 
 ## <a name="additional-operations"></a>العمليات الإضافية
 
-يوفر Dataverse عددًا من العمليات الأخرى المحددة مسبقًا والتي يمكنك تشغيلها من خلال طلبات Web API. للحصول على قائمة المخزون الكاملة للإمكانيات المتاحة، راجع [تنفيذ العمليات باستخدام Web API](/powerapps/developer/common-data-service/webapi/perform-operations-web-api/?azure-portal=true).
+يوفر Dataverse عددًا من العمليات الأخرى المحددة مسبقًا والتي يمكنك تشغيلها من خلال طلبات Web API. للحصول على قائمة المخزون الكاملة للإمكانيات المتاحة، راجع [تنفيذ العمليات باستخدام Web API](/power-apps/developer/common-data-service/webapi/perform-operations-web-api/?azure-portal=true).

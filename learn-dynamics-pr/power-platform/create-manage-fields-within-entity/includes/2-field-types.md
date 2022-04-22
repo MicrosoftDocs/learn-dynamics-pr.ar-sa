@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 68f50c9fce61faf85af0095b260395963fbd4b64
-ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
+ms.openlocfilehash: d9b8af813c89c4bd8c99e79fe2e4495f1160dd31
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2021
-ms.locfileid: "7729254"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548487"
 ---
 يحدد نوع العمود القيم التي يمكن تخزينها داخل هذا العمود. تحتوي جميع الأعمدة على نوع عمود واحد فقط. تشمل أنواع الأعمدة المتوفرة في Microsoft Dataverse ما يلي:
 
@@ -22,9 +22,9 @@ ms.locfileid: "7729254"
 
  **عدد بالكامل** - قيمة رقمية مقدمة في مربع نص.
 
- **رقم عشري** - قيمة عشرية بدقة تصل إلى 10 نقاط. راجع [استخدام نوع الرقم الصحيح](/powerapps/maker/common-data-service/types-of-fields?azure-portal=true#using-the-right-type-of-number) لمزيد من المعلومات.
+ **عدد عشري** - قيمة عشرية بدقة تصل إلى 10 نقاط. راجع [استخدام نوع الرقم الصحيح](/power-apps/maker/common-data-service/types-of-fields?azure-portal=true#using-the-right-type-of-number) لمزيد من المعلومات.
 
- **رقم الفاصلة العائمة** - رقم النقطة العائمة بدقة تصل إلى 5 نقاط. راجع [استخدام نوع الرقم الصحيح](/powerapps/maker/common-data-service/types-of-fields?azure-portal=true#using-the-right-type-of-number) لمزيد من المعلومات.
+ **رقم الفاصلة العائمة** - رقم النقطة العائمة بدقة تصل إلى 5 نقاط. راجع [استخدام نوع الرقم الصحيح](/power-apps/maker/common-data-service/types-of-fields?azure-portal=true#using-the-right-type-of-number) لمزيد من المعلومات.
 
  **المدة** - قيمة رقمية مقدمة كقائمة منسدلة تحتوي على فترات زمنية. يمكن للمستخدم تحديد قيمة من القائمة أو كتابة قيمة عدد صحيح يمثل عدد الدقائق.
 

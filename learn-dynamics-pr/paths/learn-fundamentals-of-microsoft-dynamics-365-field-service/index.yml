@@ -3,24 +3,26 @@ uid: learn.wwl.learn-fundamentals-of-microsoft-dynamics-365-field-service
 metadata:
   title: تعلُّم أساسيات Microsoft Dynamics 365 Field Service
   description: تعلُّم أساسيات Microsoft Dynamics 365 Field Service
-  ms.date: 03/03/2022
+  ms.date: 04/02/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-field-service
-  ms.openlocfilehash: d99e77ff32bba9b6767f3d2445649f53ad607e02
-  ms.sourcegitcommit: 8d1cd988b79d91c01a20ec5ed7df300c4416b76b
+  ms.openlocfilehash: 139b8b43832b3060b91e3b5289421565f70e2c9f
+  ms.sourcegitcommit: 7ef6880b18791506ab6ba5de1ccc7a86668e8327
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/07/2022
-  ms.locfileid: "8392176"
+  ms.lasthandoff: 04/05/2022
+  ms.locfileid: "8546885"
 title: تعلُّم أساسيات Microsoft Dynamics 365 Field Service
 prerequisites: >
   لا شيء
 summary: >
   يقدم مسار التعليم هذا المتعلمين إلى Dynamics 365 Field Service. سوف تتعرف على إمكانات المنتج الأساسية وتناقش عملية الجدولة والأدوات الأخرى التي يمكنك استخدامها لدعم أنشطة الخدمة الميدانية الخاصة بك.
+video:
+  title: 'فيديو المقدمة: التعرف على أساسيات Microsoft Dynamics 365 Field Service'
+  url: https://www.microsoft.com/videoplayer/embed/RE4TWZY
 iconUrl: /learn/achievements/generic-trophy.svg
-hidden: true
 levels:
 - beginner
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f931915e2b7e2b844a6b4e5d6d9340cdaa737324
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 015f90a985b8dcfa2a19c27dae5a3f534d23db10
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457503"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548508"
 ---
 في هذه الوحدة، تعلمت:
 
@@ -22,6 +22,6 @@ ms.locfileid: "7457503"
 
 [**التراخيص والتسعير**](https://powerapps.microsoft.com/pricing/?azure-portal=true) - العثور على الخطة Power Apps الصحيحة الملائمة لاحتياجات أعمالك. لاحظ أن Dataverse تم ترخيصه باستخدام Power Apps وDynamics 365.
 
-[**الجداول المعقدة ومتطلبات الترخيص**](/powerapps/maker/common-data-service/data-platform-complex-entities/?azure-portal=true) - قد تشتمل الجداول التي تتميز بمنطق معقد من جانب الخادم على متطلبات تراخيص إضافية. 
+[**الجداول المعقدة ومتطلبات الترخيص**](/power-apps/maker/common-data-service/data-platform-complex-entities/?azure-portal=true) - قد تشتمل الجداول التي تتميز بمنطق معقد من جانب الخادم على متطلبات تراخيص إضافية. 
 
-[**الجداول المقيدة التي تتطلب تراخيص Dynamics 365**](/powerapps/maker/common-data-service/data-platform-restricted-entities/?azure-portal=true) - يمكن لمنشئي التطبيقات استخدام معظم الجداول المتوفرة في Dataverse لإنشاء التطبيقات والتدفقات للمستخدمين، لكن بعضها مقيد.
+[**الجداول المقيدة التي تتطلب تراخيص Dynamics 365**](/power-apps/maker/common-data-service/data-platform-restricted-entities/?azure-portal=true) - يمكن لمنشئي التطبيقات استخدام معظم الجداول المتوفرة في Dataverse لإنشاء التطبيقات والتدفقات للمستخدمين، لكن بعضها مقيد.

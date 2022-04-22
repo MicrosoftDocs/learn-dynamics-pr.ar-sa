@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2c3ca7042bfe146fccfae6b1b86930e12d6f3345
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: a4038ecc36fa0466c9be0d7f0d67c7272dfc1a76
+ms.sourcegitcommit: 7ef6880b18791506ab6ba5de1ccc7a86668e8327
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587020"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8546943"
 ---
 لإعداد Dynamics 365 Guides، يجب عليك إكمال الخطوات التالية.
 
@@ -15,7 +15,7 @@ ms.locfileid: "7587020"
 
 ## <a name="1-buy-a-subscription-or-sign-up-for-a-free-30-day-trial"></a>1. اشتر اشتراكاً أو سجّل الاشتراك في إصدار تجريبي مجاني لمدة 30 يوماً.
 
-هناك طريقتان للحصول على اشتراك Microsoft Dynamics 365 Guides:
+هناك طريقتان للحصول على اشتراك Microsoft Dynamics ‏365 Guides:
 
 - إذا كان لديك حساب عمل Microsoft، فيمكنك الانتقال مباشرةً إلى [مركز إدارة Microsoft 365](https://admin.microsoft.com/AdminPortal/Home/?azure-portal=true) والبحث عن اشتراك Dynamics 365 Guides هناك.
 
@@ -137,7 +137,7 @@ ms.locfileid: "7587020"
 
 ## <a name="3-install-the-apps-pc-and-hololens"></a>3. تثبيت التطبيقات (الكمبيوتر الشخصي وHoloLens)
 
-يوجد تطبيقان من تطبيقات Microsoft Dynamics 365 Guides:
+يوجد تطبيقان من تطبيقات Microsoft Dynamics ‏365 Guides:
 
 - تطبيق تأليف الكمبيوتر الشخصي
 - تطبيق HoloLens، الذي يتضمن وضع **المؤلف** ووضع **التشغيل**
@@ -170,7 +170,7 @@ ms.locfileid: "7587020"
 
 يمكنك استخدام Microsoft Store for Business لتوزيع التطبيقات.
 
-1.  افتح [Microsoft Store for Business](/dynamics365/?azure-portal=true).
+1.  افتح [Microsoft Store for Business](https://businessstore.microsoft.com/?azure-portal=true).
 2.  احصل على التطبيقات. راجع [الحصول على التطبيقات في Microsoft Store for Business and Education](/microsoft-store/acquire-apps-microsoft-store-for-business/?azure-portal=true).
 3.  حدد إحدى طرق التوزيع التالية:
     - متجر خاص - راجع [توزيع التطبيقات باستخدام متجرك الخاص](/microsoft-store/distribute-apps-from-your-private-store/?azure-portal=true)
@@ -178,7 +178,7 @@ ms.locfileid: "7587020"
     - إدارة الأجهزة المحمولة - راجع [تكوين موفر إدارة الأجهزة المحمولة (MDM)]( /microsoft-store/configure-mdm-provider-microsoft-store-for-business/?azure-portal=true)
 
 ## <a name="4-set-up-power-bi-reports"></a>4. إعداد تقارير Power BI
-تشتمل Microsoft Dynamics 365 Guides على تقارير Power BI (تُسمى تحليلات الأدلة) التي يمكنك استخدامها لتحليل عمليات Dynamics 365 Guides. للحصول على معلومات حول كيفية فتح "تحليلات الأدلة: باستخدام تطبيق Power BI Desktop، راجع "فتح تحليلات الأدلة" على صفحة [تحليل الأدلة التي تم إنشاؤها باستخدام Dynamics 365 Guides](/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics/?azure-portal=true). 
+تشتمل Microsoft Dynamics ‏365 Guides على تقارير Power BI (تُسمى تحليلات Guides) التي يمكنك استخدامها لتحليل عمليات Dynamics 365 Guides. للحصول على معلومات حول كيفية فتح "تحليلات الأدلة: باستخدام تطبيق Power BI Desktop، راجع "فتح تحليلات الأدلة" على صفحة [تحليل الأدلة التي تم إنشاؤها باستخدام Dynamics 365 Guides](/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics/?azure-portal=true). 
 
 إذا كان لديك ترخيص Power BI ‏Pro، فيمكنك مشاركة تقارير Power BI لتحليلات الأدلة الخاصة بك داخل مؤسستك عن طريق نشرها إلى خدمة Power BI. في هذه الحالة، يمكن لأي شخص في مؤسستك لديه ترخيص Power BI ‏Pro الوصول إلى التقرير من خلال واجهة ويب خدمة Power BI التي يمكن الوصول إليها على [https://powerbi.microsoft.com](https://powerbi.microsoft.com/?azure-portal=true). للتعرف على المشاركة وتعاون السحابة في Power BI، ولتسجيل الاشتراك في إصدار تجريبي مجاني من Power BI Pro، راجع [الشروع في العمل باستخدام Power BI Desktop](https://powerbi.microsoft.com/get-started/?azure-portal=true) و[طرق التعاون والمشاركة في Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports/?azure-portal=true)
 

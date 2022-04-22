@@ -3,19 +3,19 @@ uid: learn-dynamics.solution-performance
 metadata:
   title: تنفيذ استراتيجية أداء لحلول Dynamics 365
   description: استراتيجية أداء الحل في Dynamics 365 مهمة، وتتم مناقشتها في هذه الوحدة. ويمكننا أيضاً تغطية التكوين والتخصيصات، والتأثير على الأداء الكلي لخبرة المستخدم النهائي.
-  ms.date: 08/10/2021
+  ms.date: 03/30/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 77a455f5e55196125960ce3eb45a11f3cd88cd18
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 7eb7b0c4106659ba8cde38666f3b73f8a3be995a
+  ms.sourcegitcommit: a1ef3a493b47928e3323d32196ace29bd2f763c5
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431874"
+  ms.lasthandoff: 03/31/2022
+  ms.locfileid: "8524564"
 title: تنفيذ استراتيجية أداء لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nوتوفر ورشة عمل أداء الحل الإرشادات وأفضل الممارسات لتصميم الحل فيما يتعلق بالأداء. ستعمل ورشة العمل على زيادة الوعي بالتأثير الذي تحدثه أنواع معينة من التكوينات و/أو التخصيصات على الأداء العام وتجربة المستخدم. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على مراجعة أداء الحل\n- التحضير لورشة عمل أداء الحل\n- تعرف على كيفية إدارة ورشة عمل أداء الحل.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مراجعة أداء الحل.\n- التحضير لورشة عمل أداء الحل.\n- تحديد معايير الأداء ومعايير النجاح.\n- التعرف على كيفية إدارة ورشة عمل أداء الحل.\n"
 prerequisites: >
   - المعرفة الواسعة بالمستشار الوظيفي والمطور
 
@@ -43,6 +43,7 @@ products:
 units:
 - learn-dynamics.solution-performance.1-introduction
 - learn-dynamics.solution-performance.2-solution-performance-workshop-topics
+- learn-dynamics.solution-performance.performance-benchmark
 - learn-dynamics.solution-performance.2-2-timing-solution-performance-review
 - learn-dynamics.solution-performance.2-3-prepare
 - learn-dynamics.solution-performance.2-4-implementation-follow-up

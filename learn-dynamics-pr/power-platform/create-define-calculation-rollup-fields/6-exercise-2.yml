@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-define-calculation-rollup-fields.6-exercise-2
-title: تمرين - إنشاء حقل حساب
+title: تمرين - إنشاء عمود عملية حساب
 metadata:
-  title: تمرين - إنشاء حقل حساب
-  description: إرشادات خطوه بخطوه حول كيفية إنشاء حقل حساب في Microsoft Dataverse.
+  title: تمرين - إنشاء عمود عملية حساب
+  description: إرشادات خطوه بخطوه حول كيفية إنشاء عمود عملية حساب في Microsoft Dataverse.
   ms.date: 02/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 89d927eef50098d4d2b5315c51d47fc2470d3d33
-  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
+  ms.openlocfilehash: 12b31244f9b678056f370aacbacad97d752d0a0e
+  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/01/2022
-  ms.locfileid: "8079458"
+  ms.lasthandoff: 04/06/2022
+  ms.locfileid: "8551101"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

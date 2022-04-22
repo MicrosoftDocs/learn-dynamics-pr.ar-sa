@@ -2,17 +2,17 @@
 uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops
 metadata:
   title: تنفيذ ميزات التكامل المشتركة في تطبيقات التمويل والعمليات
-  description: يتكامل Microsoft Excel مع تطبيقات التمويل والعمليات. ويسمح لك ذلك إمكانية سحب البيانات مباشرة من تطبيقات التمويل والعمليات، ومعالجة البيانات في Excel، وحفظها مرة أخرى في تطبيقات التمويل والعمليات. يمكنك أيضاً إرسال رسائل البريد الإلكتروني مباشرة عبر تطبيقات التمويل والعمليات أو باستخدام Microsoft Outlook. يمكنك طباعة المستندات من أي مكان من متصفحك إلى طابعة شبكة شركتك، لذا فقد لا تكون تجربة الطباعة أسهل.
-  ms.date: 01/12/2022
+  description: التعرف على كيفية تنفيذ ميزات التكامل المشتركة في تطبيقات التمويل والعمليات
+  ms.date: 04/06/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6d421184e82f31a5dc35478419ba4e4be94c8b59
-  ms.sourcegitcommit: 6b8e0ac9787eb58419aaba2ba91bbd2f37cab6bc
+  ms.openlocfilehash: b51921fd9b6842a8b7ce1afd63eb67baedbb072a
+  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/12/2022
-  ms.locfileid: "7966678"
+  ms.lasthandoff: 04/06/2022
+  ms.locfileid: "8550990"
 title: تنفيذ ميزات التكامل المشتركة في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,8 +20,8 @@ summary: >
   [!include[](../includes/specific-module-banner.md)]
 
 
-  يتكامل Microsoft Excel مع تطبيقات التمويل والعمليات. ويسمح لك ذلك إمكانية سحب البيانات مباشرة من تطبيقات التمويل والعمليات، ومعالجة البيانات في Excel، وحفظها مرة أخرى في تطبيقات التمويل والعمليات. يمكنك أيضاً إرسال رسائل البريد الإلكتروني مباشرة عبر تطبيقات التمويل والعمليات أو باستخدام Microsoft Outlook. يمكنك طباعة المستندات من أي مكان من متصفحك إلى طابعة شبكة شركتك، لذا فقد لا تكون تجربة الطباعة أسهل.
-abstract: "في هذه الوحدة النمطية، ستتعرف على كيفية القيام بما يلي: \n- تنفيذ تكامل Microsoft Office في تطبيقات التمويل والعمليات\n- تكوين البريد الكتروني (SMTP/Exchange)\n- إنشاء قوالب البريد الإلكتروني وصيانتها\n- إعداد طباعة الشبكة\n- تكامل البيانات من مصادر متعددة في Microsoft Dataverse للتطبيقات\n"
+  يتكامل Microsoft Excel مع تطبيقات التمويل والعمليات. ويسمح لك ذلك إمكانية سحب البيانات مباشرة من تطبيقات التمويل والعمليات، ومعالجة البيانات في Excel، وحفظها مرة أخرى في تطبيقات التمويل والعمليات. ستتعلم أيضاً كيفية التكامل مع PowerBI.com وMicrosoft Dataverse.
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تنفيذ تكامل Microsoft Office في تطبيقات التمويل والعمليات\n- تكوين البريد الكتروني (SMTP/Exchange)\n- إنشاء قوالب البريد الإلكتروني وصيانتها\n- إعداد طباعة الشبكة\n- إعداد وتمكين Power BI\n- تكامل البيانات من مصادر متعددة في Microsoft Dataverse\n"
 prerequisites: >
   - الحصول على فهم أساسي لعمليات التمويل والمحاسبة
 

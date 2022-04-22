@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d60b23a3992d883e52781398b393f71aa74d2ee
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 18f4749de649744135319da5cc31c6bc6edb9b4b
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457529"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548580"
 ---
 عند تشغيل مكوّن إضافي (أو ملحق سير عمل مخصص)، يتم توفير الكثير من البيانات من خلال Microsoft Dataverse التي تحتوي على معلومات حول السياق الذي توجد فيه العملية الحالية. تتمتع كلّ من المكونات الإضافية وتجميعات سير العمل المخصصة بإمكانية الوصول إلى الفئة IWorkflowContext، والتي يمكن الوصول إليها من خلال أساليب مختلفة.
 
@@ -50,7 +50,7 @@ IWorkflowContext workflowContext = context.GetExtension();
 }
 ```
 
-يقوم كل من *IPluginExecutionContext* و *IWorkflowContext* بتنفيذ الواجهة *IExecutionContext*. يعرض كل منها أيضًا معلومات خاصة بنوعها. لمزيد من المعلومات، راجع [فهم سياق التنفيذ](/powerapps/developer/common-data-service/understand-the-data-context/?azure-portal=true).
+يقوم كل من *IPluginExecutionContext* و *IWorkflowContext* بتنفيذ الواجهة *IExecutionContext*. يعرض كل منها أيضًا معلومات خاصة بنوعها. لمزيد من المعلومات، راجع [فهم سياق التنفيذ](/power-apps/developer/common-data-service/understand-the-data-context/?azure-portal=true).
 
 ## <a name="iexecutioncontext-properties"></a>خصائص IExecutionContext
 

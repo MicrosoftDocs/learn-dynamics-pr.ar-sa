@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 616f6bb3e089d5b954280f0d3b1b9390663c7a63
-ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+ms.openlocfilehash: 6db4adc1339d81ebe231853f9063486e5b850990
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "7625700"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548481"
 ---
 يتم تشغيل منطق البرمجة النصية للعميل كمعالجات أحداث لأحداث النموذج. يجب عليك تسجيل معالجات الأحداث الخاصة بك حتى يتم تنفيذ المنطق الخاص بك. يمكن القيام بالتسجيل للأحداث الشائعة من خلال مربع حوار خصائص النموذج أو من التعليمات البرمجية. يمكن تسجيل بعض الأحداث من التعليمات البرمجية فقط. يمكن تشغيل معالجات الأحداث على عدة نماذج ولكن يجب تسجيلها بشكل منفصل لكل واحدة.
 
@@ -55,4 +55,4 @@ function LearnLab_handleOnChangeAccountNumber(executionContext)
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة تعرض إعلاماً على مستوى النموذج بعد تنفيذ منطق البرنامج النصي المخصص.](../media/notification.png)](../media/notification.png#lightbox)
 
-هناك العديد من [الأحداث الجانبية الأخرى الخاصة بالعميل](/powerapps/developer/model-driven-apps/clientapi/reference/events/?azure-portal=true) والتي يمكنك تسجيل معالجيها.
+هناك العديد من [الأحداث الجانبية الأخرى الخاصة بالعميل](/power-apps/developer/model-driven-apps/clientapi/reference/events/?azure-portal=true) والتي يمكنك تسجيل معالجيها.

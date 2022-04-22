@@ -7,12 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f788c8572d0d03770189d0ddf70b30d7944c356d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d73eb8c37a0d446e1f82921aa2992c1568ce105b
+  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457400"
+  ms.lasthandoff: 04/06/2022
+  ms.locfileid: "8551202"
 title: إنشاء مكون Power Apps
 summary: "[!include[](../includes/module-banner.md)] \nإنشاء مكون مخصص Power Apps، وإنشاء حزمة حل لمكون التعليمات البرمجية، ثم اختبار مكون التعليمات البرمجية وتصحيحه.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء مكون Power Apps مخصص.\n- إنشاء حزمة حل لمكون التعليمات البرمجية.\n- اختبار مكونات التعليمات البرمجية وتصحيحها.\n- تعرف على المفاهيم الأساسية لتدقيق Dataverse المحاسبي\n"
@@ -29,7 +29,6 @@ units:
 - learn-dynamics.build-power-app-component.1-create-code-component
 - learn-dynamics.build-power-app-component.2-package-code-component
 - learn-dynamics.build-power-app-component.3-debug-code-component
-#- learn-dynamics.build-power-app-component.3a-auditing
 - learn-dynamics.build-power-app-component.4-check
 - learn-dynamics.build-power-app-component.5-summary
 badge:

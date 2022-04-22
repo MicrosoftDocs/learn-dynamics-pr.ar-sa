@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: 5a288bb8ff202481a4b6a4673d18c6646e37d9b4
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 0809853de41042f98cd849ba79d7ae3e7d0552a1
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457417"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548553"
 ---
 لفهم كيفية توسيع Microsoft Dataverse بشكل أفضل، من المفيد التعرف على بنيته الأساسية. نظراً لأن Dataverse عبارة عن نظام أساسي للبرامج كخدمة، فإن معظم هذه التفاصيل مثل تخزين البيانات الأساسية، يتم استخراجها بنجاح منا كمطورين ويمكننا التركيز على عناصر أكثر إثارة للاهتمام مثل إنشاء منطق عمل مخصص والتكامل مع التطبيقات الأخرى. يوضح الرسم أدناه هذه المكونات الأساسية، والأقسام المميزة هي المناطق التي يمكن لمطوري PowerApp المستند إلى النموذج توسيع التعليمات البرمجية للاستفادة منها.
 
 > [!NOTE]
-> تهدف هذه الوحدة إلى أن تكون عرضاً عالي المستوى لهندسة Dataverse. للحصول علي مزيد من التحليل التفصيلي لـ Dataverse، راجع دليل مطور[Dataverse](/powerapps/developer/common-data-service/overview/?azure-portal=true).
+> تهدف هذه الوحدة إلى أن تكون عرضاً عالي المستوى لهندسة Dataverse. للحصول علي مزيد من التحليل التفصيلي لـ Dataverse، راجع دليل مطور[Dataverse](/power-apps/developer/common-data-service/overview/?azure-portal=true).
 
 ![رسم تخطيطي لعرض عالي المستوى للبنية.](../media/architecture.png)
 
@@ -19,7 +19,7 @@ ms.locfileid: "7457417"
 
 عند إنشاء جدول مخصص، يتم تخزين بيانات التعريف الخاصة بهذا الجدول وسماته وعلاقاته بالجداول الأخرى ومكونات واجهة المستخدم (مثل النماذج وطرق العرض) كبيانات تعريف في النظام.
 
-يعرض Dataverse أيضاً نقطة نهاية OData V4 RESTful، والمعروفة باسم Web API، والتي يمكن الاستفادة منها لعرض البيانات الأولية ومعالجتها داخل مثيل Dataverse. تتمثل إحدى الآليات الشائعة لتصفح بيانات التعريف للحل في زيادة مستعرض بيانات التعريف. توفر Microsoft هذا كحل يمكنك تثبيته في تطبيقك. تم العثور على الروابط الحالية ضمن وثائق المطور ضمن [Microsoft Docs](/powerapps/developer/common-data-service/browse-your-metadata?azure-portal=true). يمكن تثبيت هذه الأداة في أي PowerApp يستند إلى نموذج مبني على Dataverse. بالإضافة إلى ذلك، [تحتوي XrmToolbox](https://www.xrmtoolbox.com/plugins/MsCrmTools.MetadataBrowser/?azure-portal=true) على أداة مستعرض بيانات تعريف مجتمعية متوفرة.
+يعرض Dataverse أيضاً نقطة نهاية OData V4 RESTful، والمعروفة باسم Web API، والتي يمكن الاستفادة منها لعرض البيانات الأولية ومعالجتها داخل مثيل Dataverse. تتمثل إحدى الآليات الشائعة لتصفح بيانات التعريف للحل في زيادة مستعرض بيانات التعريف. توفر Microsoft هذا كحل يمكنك تثبيته في تطبيقك. تم العثور على الروابط الحالية ضمن وثائق المطور ضمن [Microsoft Docs](/power-apps/developer/common-data-service/browse-your-metadata?azure-portal=true). يمكن تثبيت هذه الأداة في أي PowerApp يستند إلى نموذج مبني على Dataverse. بالإضافة إلى ذلك، [تحتوي XrmToolbox](https://www.xrmtoolbox.com/plugins/MsCrmTools.MetadataBrowser/?azure-portal=true) على أداة مستعرض بيانات تعريف مجتمعية متوفرة.
 
 ### <a name="net-assemblies-plug-ins"></a>تجميعات .NET (المكونات الإضافية)
 

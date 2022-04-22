@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 16937c26f061b8a921d23de2a208833d60d16870f3f398ad6396e21116cb6219
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3b769485bf071f265b5f2db470d6d3ec44ea6987
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058753"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548788"
 ---
 توضح هذه الوحدة كيفية تكوين البنوك وتخطيطات البنوك في Finance.
 
@@ -23,7 +23,7 @@ ms.locfileid: "7058753"
 
 يجب عليك تسمية الحسابات حتى يمكن التعرف عليها بسهولة. في Finance، يتم تحديد الحسابات البنكية حسب الاسم ورقم الحساب.
 
-[![لقطة شاشة لصفحة الحسابات البنكية في Finance and Operations.](../media/company-bank-accounts.png)](../media/company-bank-accounts.png#lightbox)
+[![لقطة شاشة لصفحة الحسابات البنكية للتمويل والعمليات.](../media/company-bank-accounts.png)](../media/company-bank-accounts.png#lightbox)
 
 
 شاهد هذا الفيديو للتعرف على كيفية إعداد حساب بنكي لشركة جديدة.
@@ -33,11 +33,11 @@ ms.locfileid: "7058753"
 
 ## <a name="set-up-vendor-and-customer-bank-information"></a>إعداد المعلومات البنكية للمورد والعميل 
 
-لتمكين المدفوعات الإلكترونية للعملاء والموردين، تحتاج إلى إعداد معلومات البنك الخاصة بالمورد والعميل كخطوة من خطوات إنشاء طريقة الدفع كنوع إلكتروني.
+لتمكين المدفوعات الإلكترونية للعملاء والموردين، تحتاج إلى إعداد معلومات البنك الخاصة بالمورد والعميل كخطوة من خطوات إنشاء طريقة الدفع كنوع إلكتروني. الغرض من إعداد الحسابات البنكية للعملاء هو تكوين ملفات دفع العملاء التي يمكن استخدامها لحركات، مثل الديون المباشرة في النظام.
 
 يمكنك إعداد المعلومات البنكية للمورد أو العميل من **الوحدة النمطية لعمليات التحصيل والائتمان‬ > العميل > كل العملاء > الحسابات البنكية**.
 
-![لقطة شاشة لصفحة كل العملاء تعرض متاجر Contoso Retail San Diegoللبيع بالتجزئة.](../media/customer-information.png)
+![لقطة شاشة لصفحة كل العملاء تعرض متاجر Contoso Retail San Diego.](../media/customer-information.png)
 
  
 ## <a name="prenotes"></a>الإشعارات المسبقة 

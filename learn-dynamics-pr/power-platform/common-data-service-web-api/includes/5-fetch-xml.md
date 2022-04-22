@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: abefc1003db22a28275a95af8d2176750e75fbdd
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 3bf426bc7fe4acb7d5511fe727ef2abca310c37b
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457557"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548760"
 ---
 FetchXML هي لغة استعلام قوية تم تطويرها بواسطة Microsoft لتمكين إجراء عمليات معقدة على بيانات Microsoft Dataverse. يوفر خيارات تصفية أكثر بكثير من موصلات OData، كما يسمح لك بمشاهدة تسميات البيانات المرجعية مثل تسميات "مجموعة الخيارات" أو حقول البحث.
 
@@ -14,7 +14,7 @@ FetchXML هي لغة استعلام قوية تم تطويرها بواسطة Mi
 
 -   خدمة المؤسسة
 
-يمكنك أيضًا تطبيق مرشح FetchXML مخصص على حقل بحث داخل تطبيق مستند إلى نموذج. يسمح هذا الأسلوب بسيناريوهات بحث أكثر تعقيدًا لا يمكن إنجازها بسهولة بصورة مبتكرة. لمزيد من المعلومات حول كيفية إكمال هذه العملية، راجع [مرجع API لعميل addCustomFilter](/powerapps/developer/model-driven-apps/clientapi/reference/controls/addcustomfilter/?azure-portal=true).
+يمكنك أيضًا تطبيق مرشح FetchXML مخصص على حقل بحث داخل تطبيق مستند إلى نموذج. يسمح هذا الأسلوب بسيناريوهات بحث أكثر تعقيدًا لا يمكن إنجازها بسهولة بصورة مبتكرة. لمزيد من المعلومات حول كيفية إكمال هذه العملية، راجع [مرجع API لعميل addCustomFilter](/power-apps/developer/model-driven-apps/clientapi/reference/controls/addcustomfilter/?azure-portal=true).
 
 ### <a name="example-fetchxml-query"></a>مثال استعلام FetchXML
 
@@ -53,5 +53,5 @@ FetchXML هي لغة استعلام قوية تم تطويرها بواسطة Mi
 
 ### <a name="additional-resources"></a>الموارد الإضافية
 
-لاكتشاف تفاصيل متعمقة حول لغة استعلام FetchXML، انتقل إلى Microsoft Docs. يغطي القسم [استخدام FetchXML إلى بيانات الاستعلام](/powerapps/developer/common-data-service/use-fetchxml-construct-query/?azure-portal=true) عن البيانات العديد من الموضوعات المتقدمة مثل كيفية التعامل مع الترحيل والاستعلام عن البيانات الهرمية وغير ذلك الكثير.
+لاكتشاف تفاصيل متعمقة حول لغة استعلام FetchXML، انتقل إلى Microsoft Docs. يغطي القسم [استخدام FetchXML إلى بيانات الاستعلام](/power-apps/developer/common-data-service/use-fetchxml-construct-query/?azure-portal=true) عن البيانات العديد من الموضوعات المتقدمة مثل كيفية التعامل مع الترحيل والاستعلام عن البيانات الهرمية وغير ذلك الكثير.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e6fe25e2c199daa8606bf2d1035e286ec351e618
-ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
+ms.openlocfilehash: b9ea003d2fa94cf794bb328e2fa4ab78c0e6a443
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "7581593"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548751"
 ---
  [**الوصول إلى نموذج حل روبوت المساعدة الذكية هنا**](https://github.com/microsoft/Dynamics365-Apps-Samples/blob/master/customer-service/omnichannel/smart-assist-bot/README.md/?azure-portal=true)
 
@@ -17,7 +17,7 @@ ms.locfileid: "7581593"
 - [إضافة لغة طبيعية إلى الروبوت الخاص بك](/azure/bot-service/bot-builder-howto-v4-luis?azure-portal=true)
 - [استرداد معلومات التطبيق من مدخل LUIS.ai](/azure/bot-service/bot-builder-howto-v4-luis/?azure-portal=true)
 
-خذ بعين الاعتبار سيناريو شائع حيث قد ترغب مؤسسة تستخدم القناة متعددة الاتجاهات لـ Customer Service في استخدام روبوت مساعدة ذكية لتوفير مساعدة المندوب. بينما يعمل المندوب مع عميل، قد يكون من المناسب أن يتم تقديم قائمة بحالات مماثلة كوصية. يمكن للمندوب فتح وعرض القرار للحالة التي يشعرون أنها أكثر تشابهاً وأهمية. بعد ذلك، يمكن أن يقترح المندوب هذا القرار للعميل عبر قناة الاتصال المستخدمة، مثل المحادثة.
+خذ بعين الاعتبار سيناريو شائع حيث قد ترغب مؤسسة تستخدم Omnichannel for Customer Service في استخدام روبوت مساعدة ذكية لتوفير مساعدة المندوب. بينما يعمل المندوب مع عميل، قد يكون من المناسب أن يتم تقديم قائمة بحالات مماثلة كوصية. يمكن للمندوب فتح وعرض القرار للحالة التي يشعرون أنها أكثر تشابهاً وأهمية. بعد ذلك، يمكن أن يقترح المندوب هذا القرار للعميل عبر قناة الاتصال المستخدمة، مثل المحادثة.
 
 لتنفيذ هذا النهج، اتبع الخطوات التالية:
 
@@ -55,7 +55,7 @@ ms.locfileid: "7581593"
 
 ## <a name="call-custom-actions-by-using-adaptive-cards"></a>استدعاء الإجراءات المخصصة باستخدام بطاقات المواءمة
 
-إذا كنت تريد تضمين إجراء مخصص ضمن اقتراح، فستحتاج إلى إنشاء مورد ويب. راجع موضوع Power Apps بشأن  [إنشاء إجراءاتك الخاصة](/powerapps/developer/common-data-service/custom-actions/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء إجراء مخصص. راجع موضوع [موارد الويب في التطبيقات المستندة إلى النموذج](/powerapps/maker/model-driven-apps/create-edit-web-resources/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء موارد الويب. يجب تحميل موارد الويب هذه ضمن نموذج  **ملخص العميل**.
+إذا كنت تريد تضمين إجراء مخصص ضمن اقتراح، فستحتاج إلى إنشاء مورد ويب. راجع موضوع Power Apps بشأن  [إنشاء إجراءاتك الخاصة](/power-apps/developer/common-data-service/custom-actions/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء إجراء مخصص. راجع موضوع [موارد الويب في التطبيقات المستندة إلى النموذج](/power-apps/maker/model-driven-apps/create-edit-web-resources/?azure-portal=true) للحصول على معلومات حول كيفية إنشاء موارد الويب. يجب تحميل موارد الويب هذه ضمن نموذج  **ملخص العميل**.
 
 ## <a name="sample-bot-that-displays-knowledge-article-recommendations"></a>نموذج: روبوت يعرض توصيات مقالة معرفية
 

@@ -4,17 +4,17 @@ title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 12/15/2020
+  ms.date: 04/05/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9b59e9811cd4441dca5005e631adf3098e133c1e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a6312fc750b0b8fb4b5ab5162a468e2b229c9284
+  ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327652"
-durationInMinutes: 3
+  ms.lasthandoff: 04/05/2022
+  ms.locfileid: "8548679"
+durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
@@ -32,20 +32,31 @@ quiz:
     - content: ترقية بيئة إلى إصدار نظام أساسي جديد.
       isCorrect: false
       explanation: يمكنك ترقية الكود في إصدار نظام أساسي جديد باستخدام ميزة "تطبيق التحديثات" في القائمة "الصيانة" في الصفحة "التفاصيل الكاملة" للبيئة.
-  - content: أي الخدمات الآتية لا يمكن إعادة تشغيلها في Lifecycle Services لبيئة من الطبقة 2؟
+  - content: ما ميزة Lifecycle Services التي يمكن استخدامها لتصدير نسخة احتياطية من قاعدة بيانات إلى مكتبة الأصول للبيئات الموجودة في المستوى 2 أو أعلى؟
     choices:
-    - content: خدمة IIS
-      isCorrect: false
-      explanation: يمكن إعادة تشغيل خدمة IIS في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
-    - content: خدمة الدُّفعات
-      isCorrect: false
-      explanation: يمكن إعادة تشغيل خدمة الدُّفعات في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
-    - content: خدمة تشخيص Lifecycle Services
-      isCorrect: false
-      explanation: يمكن إعادة تشغيل خدمة تشخيص Lifecycle Services في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
-    - content: خدمة AOS
+    - content: نقل قاعدة بيانات
       isCorrect: true
-      explanation: تتعذر إعادة تشغيل خدمة AOS من Lifecycle Services.
+      explanation: في بيئة المستوى 2 أو أعلى، تحت قائمة الصيانة، يوجد خيار نقل قاعدة البيانات، والذي يمكن أن يسمح لك بتصدير النسخة الاحتياطية إلى مكتبة الأصول.
+    - content: تطبيق التحديثات
+      isCorrect: false
+      explanation: تم العثور على تطبيق التحديثات أيضاً ضمن قائمة "الاحتفاظ" ولكن يتم استخدامه بشكل أساسي لتطبيق أي تحديثات من خلال تطبيق الحزم ذات الصلة على البيئة التي تعمل منها.
     - content: خدمة إعداد التقارير
       isCorrect: false
-      explanation: يمكن إعادة تشغيل خدمة إعداد التقارير في Lifecycle Services للبيئات من الطبقة 2 وما فوق.
+      explanation: يتم استخدام خادم التقارير لبدء عمليات مختلفة عن بعد مثل إعادة تشغيل IIS أو DIXF أو خدمة تشخيص Lifecycle Services. لا علاقة له بكيفية عمل نسخة احتياطية من قاعدة البيانات.
+    - content: تغييرات البيئة
+      isCorrect: false
+      explanation: تُظهر تغييرات البيئة جميع التغييرات وكل حزمة تم تطبيقها على بيئة ما. يمكن العثور عليها في القائمة المنسدلة في صفحة التفاصيل الكاملة. يمكن إجراء عمليات تصدير قاعدة البيانات من صفحة التفاصيل الكاملة، لكن قسم التغييرات لا يمنح خيار التصدير.
+  - content: لإدارة مكتبات الأصول، هناك أنواع ملفات مختلفة تخدم وظائف مختلفة. ما الملف المخصص للملحقات المعبأة مسبقاً والتي يمكن استخدامها للتثبيت في بيئة؟
+    choices:
+    - content: النسخ الاحتياطي لقاعدة البيانات
+      isCorrect: false
+      explanation: الغرض من النسخ الاحتياطي لقاعدة البيانات هو استعادة قاعدة بيانات SQL أو Azure SQL. لن يتم استخدام النسخ الاحتياطي لقاعدة البيانات للتعامل مع الإضافات التي يمكن تثبيتها على بيئة ما.
+    - content: حزمة البرامج القابلة للنشر
+      isCorrect: false
+      explanation: باستخدام التعليمات البرمجية التي تم تطويرها في Visual studio، فإن حزم البرامج القابلة للنشر هي ما يمكنك إنشاؤه في Azure DevOps. تختلف حزمة البرامج القابلة للنشر عن النموذج لأنها رمز تم تطويره في Azure DevOps.
+    - content: منتج BPM
+      isCorrect: false
+      explanation: في حين يمكن تثبيت النماذج على بيئة ما، تشير أداة BPM إلى المستندات التي تتعلق بما هو أداة تكوين عمليات الأعمال داخل Lifecycle services.
+    - content: النموذج
+      isCorrect: true
+      explanation: النموذج هو الملحق الجاهز الذي يسمح لك بالتثبيت في بيئة أثناء إدارة مكتبات الأصول الخاصة بك.

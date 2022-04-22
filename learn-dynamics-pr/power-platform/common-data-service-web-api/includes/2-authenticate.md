@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7bcb9f6af6f10092b27d4663a4d32024bf9c6b54
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 7d2783a830f73e6c37ab1e756bbaa0468fb57fbd
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457430"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548445"
 ---
 يستخدم Microsoft Dataverse من Microsoft OAuth 2.0 كمعيار تخويل خاص به. يوفر OAuth آلية متوافقة مع معايير الصناعة لمصادقة تطبيقات العميل على أحد الموارد.
 
@@ -18,7 +18,7 @@ ms.locfileid: "7457430"
 
 ## <a name="register-dataverse-apps-with-azure-ad"></a>تسجيل التطبيقات Dataverse باستخدام Azure AD
 
-للاتصال بنجاح بـ Dataverse، يجب أولاً تسجيل أحد التطبيقات باستخدام Azure Active Directory، والذي يمكن إكماله في [مدخل Azure](https://portal.azure.com/?azure-portal=true). اعتماداً على نوع التطبيق الذي تريد إنشاءه، تتوفر بعض الإعدادات المختلفة لتكوينها (تطبيقات الويب مقابل التطبيقات الأصلية المثبتة أصلاً على الجهاز). لمزيد من المعلومات حول الإعدادات المطلوبة لكل نوع من هذه الأنواع، راجع [أنواع تسجيل التطبيق](/powerapps/developer/common-data-service/authenticate-oauth?azure-portal=true).
+للاتصال بنجاح بـ Dataverse، يجب أولاً تسجيل أحد التطبيقات باستخدام Azure Active Directory، والذي يمكن إكماله في [مدخل Azure](https://portal.azure.com/?azure-portal=true). اعتماداً على نوع التطبيق الذي تريد إنشاءه، تتوفر بعض الإعدادات المختلفة لتكوينها (تطبيقات الويب مقابل التطبيقات الأصلية المثبتة أصلاً على الجهاز). لمزيد من المعلومات حول الإعدادات المطلوبة لكل نوع من هذه الأنواع، راجع [أنواع تسجيل التطبيق](/power-apps/developer/common-data-service/authenticate-oauth?azure-portal=true).
 
 لتسجيل تطبيق مع Azure AD، يمكنك الانتقال إلى قسم **تسجيلات التطبيق** في قائمة خيارات Azure Active Directory ثم تحديد **تسجيل جديد**.
 

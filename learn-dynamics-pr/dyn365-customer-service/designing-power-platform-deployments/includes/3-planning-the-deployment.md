@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8a4575eb56fb4648173f8953940e890868f551b3
-ms.sourcegitcommit: 7049407179855c51d6de4154cca3ecc8a9271e58
+ms.openlocfilehash: c24ce5c63c4f4e36297aa17ea80641b829b8c949
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2021
-ms.locfileid: "7729353"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548392"
 ---
 سيتم نشر تطبيقات مشاركة العميل في Dynamics 365 الموزعة على Dataverse بشكل أكثر سلاسة مع بعض التخطيط الأولي. قبل بدء عملية التوزيع الفعلية، خذ بعين الاعتبار ما يلي:
 
@@ -26,13 +26,13 @@ ms.locfileid: "7729353"
 عملية مصادقة تمكّن المستخدم من الوصول إلى أنظمة أو خدمات متعددة من خلال مجموعة واحدة من بيانات اعتماد تسجيل الدخول. على سبيل المثال، تنفيذ تسجيل الدخول الأحادي في بيئة شبكة اتصال المؤسسة يعني أنه بعد تسجيل دخول مستخدم إلى شبكة الاتصال، لا يجب على المستخدم إدخال بيانات الاعتماد مرة أخرى.
 
 > [!Note]
-> لمشتركي Microsoft 365، يجب أن تكون بيئة تطبيقات Dynamics 365 Customer Engagement في نفس المستأجر مثل اشتراك Microsoft 365 الخاص بك. يمكن مزامنة حساب المستخدم في "Active Directory" مع مستأجر واحد فقط.
+> بالنسبة لمشتركي Microsoft 365، يجب أن تكون بيئة تطبيقات مشاركة العملاء في Dynamics 365 في نفس المستأجر مثل اشتراك Microsoft 365 الخاص بك. يمكن مزامنة حساب المستخدم في "Active Directory" مع مستأجر واحد فقط.
 
 ### <a name="integration-with-microsoft-365-applications"></a>التكامل مع تطبيقات Microsoft 365
 
 يمكنك تحسين تجربة شركتك عبر الإنترنت بشكل كبير من خلال دمج تطبيقات Microsoft 365 مع اشتراكك. يتطلب ذلك شراء اشتراك Microsoft 365 منفصلاً، وستحصل على أفضل تجربة تكامل إذا كان اشتراكك في Microsoft 365 والبيئة في نفس المستأجر.
 
-للحصول على تكامل كامل لميزات Microsoft 365 مع تطبيقات مشاركة العميل في Dynamics 365 الموزعة على تطبيقات Dataverse وتطبيقات مشاركة العميل في Dynamics 365 المحلية، ستحتاج إلى\' Microsoft 365 Enterprise E3 أو إصدار أحدث. يتطلب إجراء اتصالات وعقد مؤتمرات Skype for Business [PSTN](https://support.office.com/article/What-is-PSTN-calling-3dc773b9-95e0-4448-b2f1-887c54022429) وجود Microsoft 365 Enterprise E5. خطط Microsoft 365 الأخرى غير مدعومة. لمزيد من المعلومات عن التراخيص والأسعار، راجع: [تسعير Dynamics 365](https://www.microsoft.com/dynamics365/pricing).
+للحصول على تكامل كامل لميزات Microsoft 365 مع تطبيقات مشاركة العملاء في Dynamics 365 الموزعة على تطبيقات Dataverse وتطبيقات مشاركة العملاء في Dynamics 365 المحلية، ستحتاج إلى Microsoft 365 Enterprise E3 أو إصدار أحدث. يتطلب إجراء الاتصالات وعقد المؤتمرات على Skype for Business [PSTN](https://support.office.com/article/What-is-PSTN-calling-3dc773b9-95e0-4448-b2f1-887c54022429) وجود Microsoft 365 ‏Enterprise E5. إن الخطط الأخرى لـ Microsoft 365 غير مدعومة. لمزيد من المعلومات عن التراخيص والأسعار، راجع: [تسعير Dynamics 365](https://www.microsoft.com/dynamics365/pricing).
 
 من المهم ملاحظة أن Power Apps وكذلك Power Automate مدمجان في العديد من تطبيقات Microsoft Business Applications مثل Microsoft Dynamics 365، وSharePoint Online، وMicrosoft Teams وغيرها. يتم تمكين هذه التكاملات وتكون جاهزة لاستخدامها من قبل المستخدمين. يمكن لمسؤول النظام إزالة أذونات بعض المستخدمين حتى لا يتمكنوا من الاستفادة من التكامل مع Power Apps أو Power Automate، ولكن لا يمكن حذف عمليات التكامل الافتراضية هذه بواسطة مسؤول النظام.
 
@@ -58,13 +58,13 @@ ms.locfileid: "7729353"
 
 ![رسم تخطيطي لمكامل البيانات مع المصادر والوجهات.](../media/7_unit3_2.png)
 
-لمزيد من المعلومات حول كيفية استخدام تكامل البيانات لعمليات نشر Dynamics 365 الخاصة بك، راجع [دمج البيانات في Dataverse للتطبيقات](/powerapps/administrator/data-integrator).
+لمزيد من المعلومات حول كيفية استخدام تكامل البيانات لعمليات نشر Dynamics 365 الخاصة بك، راجع [دمج البيانات في Dataverse للتطبيقات](/power-apps/administrator/data-integrator).
 
 ### <a name="adding-an-environment-to-your-subscription"></a>إضافة بيئة لاشتراكك
 
 يمكنك إضافة بيئات الإنتاج وغير الإنتاج (Sandbox). تنشئ كل بيئة جديدة مؤسسة منفصلة يمكن استخدامها من قبل أقسام أو مواقع مختلفة أو لأغراض غير إنتاجية مثل التطوير. 
 
-يجب أن تكون مسؤول Microsoft 365 Global للقيام بهذه المهام. ومع ذلك، يمكنك استخدام خدمة أقل امتيازاً. لمزيد من المعلومات، راجع [تعيين أدوار المسؤول](https://support.office.com/article/Assign-admin-roles-in-Office-365-eac4d046-1afd-4f1a-85fc-8219c79e1504).
+يجب أن تكون مسؤول Microsoft 365 ‏Global للقيام بهذه المهام. ومع ذلك، يمكنك استخدام خدمة أقل امتيازاً. لمزيد من المعلومات، راجع [تعيين أدوار المسؤول](https://support.office.com/article/Assign-admin-roles-in-Office-365-eac4d046-1afd-4f1a-85fc-8219c79e1504).
 
 ### <a name="non-productionsandbox-environments"></a>البيئات غير الإنتاجية/بيئة Sandbox
 
@@ -80,7 +80,7 @@ ms.locfileid: "7729353"
 
 ### <a name="production-environments"></a>بيئات الإنتاج
 
-تهدف هذه البيئات إلى استخدامها للعمل الدائم في المؤسسة. يمكن إنشاؤها وامتلاكها بواسطة مسؤول أو أي شخص لديه ترخيص Power Apps بشرط أن تكون سعة قاعدة البيانات المتوفرة 1 جيجابايت. يتم أيضًا إنشاء هذه البيئات لكل قاعدة بيانات Dataverse موجودة عند ترقيتها إلى الإصدار 9.0 أو ما بعده. بيئات الإنتاج هي ما يجب أن تستخدمه في أي بيئات تعتمد عليها.
+تهدف هذه البيئات إلى استخدامها للعمل الدائم في المؤسسة. يمكن إنشاؤها وامتلاكها بواسطة مسؤول أو أي شخص لديه ترخيص Power Apps بشرط أن تكون سعة قاعدة البيانات المتوفرة 1 جيجابايت. يتم أيضاً إنشاء هذه البيئات لكل قاعدة بيانات Dataverse موجودة عند ترقيتها إلى الإصدار 9.0 أو ما بعده. بيئات الإنتاج هي ما يجب أن تستخدمه في أي بيئات تعتمد عليها.
 
 ### <a name="switching-an-environment"></a>تبديل البيئة
 

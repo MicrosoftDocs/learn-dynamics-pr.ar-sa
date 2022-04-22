@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 3b4c1218c1c76c78ab03963fb9747c8f7d35803d
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 7ada7c055d1eb3581e1e46eedf54799afb7f7a10
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587077"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548652"
 ---
 يمكن لمسؤول Microsoft Dynamics 365 استخدام **فرق الوصول** للتحكم بسهولة في من يمكنه رؤية أدلة معينة ودليل المحتوى (نماذج ثلاثية الأبعاد أو صور أو مقاطع فيديو) في Dynamics 365 Guides. (راجع [استخدام فرق الوصول وفرق المالكين للتعاون ومشاركة المعلومات](/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information/?azure-portal=true).) 
 
-تكون فرق الوصول مفيدة عندما تريد منح أذونات مستخدم مختلفة لسجلات معينة في [Microsoft Dataverse](/powerapps/maker/common-data-service/data-platform-intro/?azure-portal=true). 
+تكون فرق الوصول مفيدة عندما تريد منح أذونات مستخدم مختلفة لسجلات معينة في [Microsoft Dataverse](/power-apps/maker/common-data-service/data-platform-intro/?azure-portal=true). 
 
 على سبيل المثال، قد ترغب في أن يقتصر الوصول إلى بعض الأدلة على موقع مصنع معين، أو قد ترغب في تقييد الوصول إلى الأدلة قيد التقدم.
 

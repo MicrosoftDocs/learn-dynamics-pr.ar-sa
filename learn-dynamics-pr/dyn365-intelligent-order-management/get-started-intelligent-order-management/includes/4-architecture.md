@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 620ead7d8f0cef57bbc82d01a6861ea755bae25753445432b2358b59c5e87717
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e87c39e047fee1cb7edd29f4f301c96dc9b88a63
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115282"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548348"
 ---
-تم إنشاء Intelligent Order Management على Microsoft Power Platform باستخدام البنية الأساسية للتطبيقات المستندة إلى النموذج من [Microsoft Power Apps](/powerapps/maker/model-driven-apps/?azure-portal=true). تم تصميم البنية لدعم متطلبات بيئة معالجة الأوامر المعقدة حيث توجد العديد من الأنظمة والتطبيقات في العملية الشاملة من الأمر إلى التنفيذ.
+تم إنشاء Intelligent Order Management على Microsoft Power Platform باستخدام البنية الأساسية للتطبيقات المستندة إلى النموذج من [Microsoft Power Apps](/power-apps/maker/model-driven-apps/?azure-portal=true). تم تصميم البنية لدعم متطلبات بيئة معالجة الأوامر المعقدة حيث توجد العديد من الأنظمة والتطبيقات في العملية الشاملة من الأمر إلى التنفيذ.
 
 يمكن نشر Intelligent Order Management التي يتم تقديمها كحل مجموعة، بسرعة في مراكز بيانات Microsoft Azure. يتم نشر التطبيق والنظام الأساسي في منطقة مركز البيانات التي يختارها العملاء لأعمالهم، وتدير Microsoft البنية الأساسية. ونتيجة لذلك، يمكن للعملاء التركيز على تكوين التطبيق ليناسب متطلبات أمر العمل والتنفيذ. لمزيد من المعلومات، راجع [العولمة‬](/dynamics365/intelligent-order-management/globalization/?azure-portal=true).
 
@@ -31,7 +31,7 @@ ms.locfileid: "7115282"
 
 ## <a name="data-pipeline"></a>البنية الأساسية لبرنامج ربط العمليات التجارية للبيانات
 
-توفر البنية الأساسية لبرنامج ربط العمليات التجارية للبيانات في Intelligent Order Management الأساس للموفرين لنقل البيانات داخل وخارج التطبيق. يتم تنفيذ تحويل مستندات الأعمال التي تتحرك عبر البنية الأساسية لبرنامج ربط العمليات التجارية للبيانات بواسطة Microsoft Power Query Online.
+توفر البنية الأساسية لبرنامج ربط العمليات التجارية للبيانات في Intelligent Order Management الأساس للموفرين لنقل البيانات داخل وخارج التطبيق. يتم تنفيذ تحويل مستندات الأعمال التي تتحرك عبر البنية الأساسية لبرنامج ربط العمليات التجارية للبيانات بواسطة Microsoft Power Query ‏Online.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة تعرض تكوين Power query للبنية الأساسية لبرنامج ربط العمليات التجارية للبيانات.](../media/power-query-configuration-ss.png)](../media/power-query-configuration-ss.png#lightbox)
@@ -86,12 +86,12 @@ ms.locfileid: "7115282"
 
 تستخدم Intelligent Order Management تقنيات النظام الأساسي لـ Microsoft التالية:
 
-- **Dataverse** - يتم توفير البيانات في Intelligent Order Management من خلال النظام الأساسي Dataverse. لمزيد من المعلومات، راجع دليل مطور [Microsoft Dataverse](/powerapps/developer/data-platform/overview/?azure-portal=true).
+- **Dataverse** - يتم توفير البيانات في Intelligent Order Management من خلال النظام الأساسي Dataverse. لمزيد من المعلومات، راجع دليل مطور [Microsoft Dataverse](/power-apps/developer/data-platform/overview/?azure-portal=true).
 
 - **Power Automate** - بالنسبة لمستخدمي الأعمال، تعمل Intelligent Order Management على تجميع تدفقات المؤسسة إلى Power Automate. يمكن للمطورين توسيع نطاق الحل. لمزيد من المعلومات، راجع [الشروع في العمل باستخدام Power Automate](/power-automate/getting-started/?azure-portal=true).
 
-- **Power Query Online** - تستخدم Intelligent Order Management قدرات Power Query ولغة الاستعلام M لدعم التحويل في البنية الأساسية لبرنامج ربط العمليات التجارية لبيانات الموفرين. لمزيد من المعلومات، راجع [ما هو Power Query؟](/power-query/power-query-what-is-power-query/?azure-portal=true).
+- **Power Query ‏Online** - تستخدم Intelligent Order Management قدرات Power Query ولغة الاستعلام M لدعم التحويل في البنية الأساسية لبرنامج ربط العمليات التجارية لبيانات الموفرين. لمزيد من المعلومات، راجع [ما هو Power Query؟](/power-query/power-query-what-is-power-query/?azure-portal=true).
 
 - **Power BI** - يتم إنشاء لوحات المعلومات التي يتم توفيرها في Intelligent Order Management باستخدام أدوات Power BI. يمكن للعملاء توسيع الحلول أو إنشاء حلول خاصة بهم باستخدام Power BI. لمزيد من المعلومات، راجع [ما هو Power BI؟](/power-bi/fundamentals/power-bi-overview/?azure-portal=true).
 
-- **AI Builder** - نماذج التعلم الآلي ستكون متاحة في الإصدارات اللاحقة من Intelligent Order Management. يمكن للعملاء والشركاء استخدام نفس التقنية لبناء نماذجهم الخاصة باستخدام قدرات AI Builder. لمزيد من المعلومات، راجع [وثائق AI Builder](/ai-builder/?azure-portal=true).
+- **AI Builder** - نماذج التعلم الآلي ستكون متاحة في الإصدارات اللاحقة من Intelligent Order Management. يمكن للعملاء والشركاء استخدام نفس التقنية لبناء نماذجهم الخاصة باستخدام قدرات AI Builder. لمزيد من المعلومات، راجع  [وثائق AI Builder](/ai-builder/?azure-portal=true).

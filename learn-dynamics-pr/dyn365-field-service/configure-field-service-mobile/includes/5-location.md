@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 95eba89372dd40a2a79ee370099155ed95fd8cde
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: dcf50274abac7974bbf3cac9e13821c205aca826
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7434166"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548697"
 ---
 لا يقضي معظم العاملين في الخطوط الأمامية يومهم في موقع واحد؛ وبشكل عام، فإنهم يسافرون إلى مواقع مختلفة طوال اليوم.
 يجب أن يعرف المجدولون والمرسلون أماكن تواجد العمال في الوقت المحدد وذلك لأنه من المفيد في إدارة عمليات الجدولة اليومية. على سبيل المثال، في حالة حدوث حالة طوارئ، يمكن للمرسل عرض من هو الأقرب ثم جدولة العامل لهذا الصنف.
@@ -77,6 +77,6 @@ ms.locfileid: "7434166"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لميزة بحث متقدم في Field Service، تعرض تدقيق الموقع لمستخدم واحد.](../media/5-06-audit.png)](../media/5-06-audit.png#lightbox)
 
-لمزيد من المعلومات، راجع [إنشاء ميزة بحث متقدم أو تحريرها أو حفظها](/powerapps/user/advanced-find/?azure-portal=true).
+لمزيد من المعلومات، راجع [إنشاء ميزة بحث متقدم أو تحريرها أو حفظها](/power-apps/user/advanced-find/?azure-portal=true).
 
 لمزيد من المعلومات وعرض فيديو توضيحي، راجع [تدقيق الموقع لتطبيق Dynamics 365 Field Service ‏Mobile](/dynamics365/field-service/mobile-powerapp-location-auditing?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c95f019ad83a684e59890a85d5acd11517e2dc8d
-ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
+ms.openlocfilehash: 92d019e4b290dc53fd2120715aac37b0f62db023
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/05/2022
-ms.locfileid: "7950102"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548616"
 ---
 في هذه الوحدة النمطية، تعلّمت كيفية إنشاء قواعد العمل لجدول ما لفرض منطق الأعمال بغض النظر عن كيفية إدخال البيانات في الجدول في Microsoft Dataverse. وتعلّمت أيضاً كيفية:
 
@@ -16,8 +16,8 @@ ms.locfileid: "7950102"
 
 للمزيد من المعلومات حول كيفية استخدام Excel مع Dataverse لتحرير البيانات وإدخال البيانات، حدد الارتباط التالي.
 
-[فتح بيانات الجدول في Excel](/powerapps/maker/common-data-service/data-platform-excel-addin/?azure-portal=true)
+[فتح بيانات الجدول في Excel](/power-apps/maker/common-data-service/data-platform-excel-addin/?azure-portal=true)
 
 للحصول على معلومات حول متطلبات الترخيص، حدد الارتباط التالي.
 
-[متطلبات الترخيص للكيانات](/powerapps/maker/common-data-service/data-platform-entity-licenses/?azure-portal=true)
+[متطلبات الترخيص للكيانات](/power-apps/maker/common-data-service/data-platform-entity-licenses/?azure-portal=true)

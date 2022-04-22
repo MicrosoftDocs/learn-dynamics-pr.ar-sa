@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-define-calculation-rollup-fields.4-create
-title: إنشاء حقل حساب
+title: إنشاء عمود عملية الحساب
 metadata:
-  title: إنشاء حقل حساب
-  description: تعرف على كيفية إنشاء حقل حساب في Microsoft Dataverse.
+  title: إنشاء عمود عملية الحساب
+  description: تعرف على كيفية إنشاء عمود عملية الحساب في Microsoft Dataverse.
   ms.date: 02/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 3e44a07465f5819ef162c8d47acb0e145c693e32
-  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
+  ms.openlocfilehash: c0e369ab970cdbfc6614feffde12eacbad1a9039
+  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/01/2022
-  ms.locfileid: "8079394"
+  ms.lasthandoff: 04/06/2022
+  ms.locfileid: "8550934"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

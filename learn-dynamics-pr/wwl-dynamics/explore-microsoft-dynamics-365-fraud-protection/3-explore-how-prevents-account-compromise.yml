@@ -4,17 +4,18 @@ title: استكشاف طريقة Dynamics 365 Fraud Protection في منع حد�
 metadata:
   title: استكشاف طريقة Dynamics 365 Fraud Protection في منع حدداق الحساب
   description: استكشاف طريقة Dynamics 365 Fraud Protection في منع حدداق الحساب
-  ms.date: 06/15/2021
+  ms.date: 04/01/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-fraud-protection
-  ms.openlocfilehash: cebf23b6ac322534983e7eb143424fc1829c024a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: fcde46e00c82832d257b3b7b033fbb5f57e4f21f
+  ms.sourcegitcommit: 5baad32c119f55e0f2c8e4eeeacd9d240b7870d7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438786"
+  ms.lasthandoff: 04/01/2022
+  ms.locfileid: "8530031"
 azureSandbox: false
+labModal: false
 durationInMinutes: 4
 content: '[!include[](includes/3-explore-how-prevents-account-compromise.md)]'

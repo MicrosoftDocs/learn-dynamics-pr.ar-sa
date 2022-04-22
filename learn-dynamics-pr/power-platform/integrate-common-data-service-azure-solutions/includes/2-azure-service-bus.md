@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a95c7098ee655d129251aa90d2cffd4f14d0bd0b
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 1658e3abc5ba4d29f3efff218fa74466b979bfdd
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457514"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548589"
 ---
 يوفر Microsoft Dataverse مجموعة متنوعة من الآليات سابقة الإنشاء لإخراج بياناته لأغراض التكامل. يتناول هذا الدرس كيفية إتمام عرض بيانات Dataverse إلى ناقل خدمة Azure باستخدام ميزة تسجيل نقطة نهاية الخدمة الخاصة بـ Dataverse، والموجودة في أداة تسجيل المكونات الإضافية.
 
@@ -43,7 +43,7 @@ ms.locfileid: "7457514"
 الآن بعد أن أعددت صف الرسائل في Azure، يمكنك توفير Dataverse بمعلومات التكوين المطلوبة للوصول إليها.
 
 > [!NOTE]
-> ستستخدم أداة تسجيل المكونات الإضافية لـ Dataverse لتكوين نشر بيانات Dataverse إلى ناقل الخدمة. يتم توفير هذه الأداة كجزء من أدوات مطور Dataverse، والتي توجد في NuGet. لمزيد من المعلومات حول كيفية تثبيت أداة تسجيل المكونات الإضافية من خلال NuGet، راجع [تنزيل الأدوات من NuGet](/powerapps/developer/common-data-service/download-tools-nuget).
+> ستستخدم أداة تسجيل المكونات الإضافية لـ Dataverse لتكوين نشر بيانات Dataverse إلى ناقل الخدمة. يتم توفير هذه الأداة كجزء من أدوات مطور Dataverse، والتي توجد في NuGet. لمزيد من المعلومات حول كيفية تثبيت أداة تسجيل المكونات الإضافية من خلال NuGet، راجع [تنزيل الأدوات من NuGet](/power-apps/developer/common-data-service/download-tools-nuget).
 
 1.  افتح أداة تسجيل المكون الإضافي واتصل ببيئة Dataverse الخاصة بك.
 

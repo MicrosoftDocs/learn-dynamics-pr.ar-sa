@@ -4,17 +4,18 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 06/15/2021
+  ms.date: 04/01/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-fraud-protection
-  ms.openlocfilehash: c026c9ec1676f74d3bae9e866931d0ef33b38d73
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: c2cfe741e77c5b23f47fbbf63ee83bb465c42387
+  ms.sourcegitcommit: 5baad32c119f55e0f2c8e4eeeacd9d240b7870d7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438678"
+  ms.lasthandoff: 04/01/2022
+  ms.locfileid: "8530053"
 azureSandbox: false
+labModal: false
 durationInMinutes: 1
 content: '[!include[](includes/6-summary.md)]'

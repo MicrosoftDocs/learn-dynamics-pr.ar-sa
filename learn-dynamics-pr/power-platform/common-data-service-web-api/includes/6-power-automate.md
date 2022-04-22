@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d985a19e0626a4364cb707c89710d72e9457d10d
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 56d5345041adb87b885975fe70c30ff08b569a6c
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457392"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548742"
 ---
 يحتويPower Automate على ميزة تسمح للمستخدمين المحترفين بإنشاء مجموعاتهم المخصصة لمنطق الأعمال التي تُسمى بـ *إجراءات*. ومن منظور المطوِّر، تتعرف مستندات Microsoft على الإجراء كـ "عملية قابلة لإعادة الاستخدام قد يكون لها تأثيرات جانبية ملحوظة". تتضمن هذه التأثيرات الجانبية إنشاء السجلات أو تحديثها، أو اي شيء يمكنك إنجازه باستخدام سير عمل Microsoft Dataverse القديم.
 
@@ -64,5 +64,5 @@ OData-Version: 4.0
 
 ## <a name="more-details"></a>مزيد من التفاصيل
 
-للمزيد من التفاصيل حول كيفية استدعاء الإجراءات في التعليمات البرمجية، راجع [مقال](/powerapps/developer/common-data-service/webapi/use-web-api-actions/?azure-portal=true) الخاص باستخدام إجراءات Web API في مستندات Microsoft.
+للمزيد من التفاصيل حول كيفية استدعاء الإجراءات في التعليمات البرمجية، راجع [مقال](/power-apps/developer/common-data-service/webapi/use-web-api-actions/?azure-portal=true) الخاص باستخدام إجراءات Web API في مستندات Microsoft.
 

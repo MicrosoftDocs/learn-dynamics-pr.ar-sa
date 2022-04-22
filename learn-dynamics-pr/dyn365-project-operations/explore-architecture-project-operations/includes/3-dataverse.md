@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8f324057b4b151e629bdb2392d5781a1e821874d4d10f82929c5b0a1ea921cbf
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 605514c6dd2ec3db6a0f423723b760f7223835ed
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7098872"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548427"
 ---
 يساعدك Microsoft Dataverse (المعروف سابقاً باسم Common Data Service) في تخزين وإدارة البيانات التي \'تستخدمها تطبيقات العمل بأمان.
 
@@ -21,13 +21,13 @@ ms.locfileid: "7098872"
 
 يمكن للكيانات داخل Dataverse استخدام منطق غني من جانب الخادم والتحقق من الصحة لضمان جودة البيانات وتقليل التعليمات البرمجية المتكررة في كل تطبيق يقوم بإنشاء واستخدام البيانات داخل كيان.
 
--   تتحقق **قواعد العمل** من صحة البيانات عبر حقول وكيانات متعددة وتوفر رسائل تحذير وخطأ، بغض النظر عن التطبيق المستخدم لإنشاء البيانات. لمزيد من المعلومات، راجع  [إنشاء قاعدة عمل لجدول](/powerapps/maker/common-data-service/data-platform-create-business-rule/?azure-portal=true).
+-   تتحقق **قواعد العمل** من صحة البيانات عبر حقول وكيانات متعددة وتوفر رسائل تحذير وخطأ، بغض النظر عن التطبيق المستخدم لإنشاء البيانات. لمزيد من المعلومات، راجع  [إنشاء قاعدة عمل لجدول](/power-apps/maker/common-data-service/data-platform-create-business-rule/?azure-portal=true).
 
 -   **عمليات سير إجراءات العمل** ترشد المستخدمين لضمان إدخال البيانات بشكل متسق واتباع نفس الخطوات في كل مرة. في الوقت الحالي، لا يتم دعم عمليات سير إجراءات العمل إلا للتطبيقات المستندة إلى نماذج. لمزيد من المعلومات، راجع  [نظرة عامة على عمليات سير إجراءات العمل](/dynamics365/customerengagement/on-premises/customize/business-process-flows-overview/?azure-portal=true).
 
 -   تتيح لك **مهام سير العمل** تنفيذ عمليات الأعمال تلقائياً دون تفاعل المستخدم. لمزيد من المعلومات، راجع  [استخدام عمليات سير العمل لتنفيذ العمليات التي لا تتطلب تفاعل المستخدم](/dynamics365/customerengagement/on-premises/customize/workflow-processes/?azure-portal=true).
 
--   يدعم **منطق الأعمال مع الرمز** سيناريوهات المطور المتقدمة لتوسيع التطبيق مباشرةً من خلال الرمز. لمزيد من المعلومات، راجع  [تطبيق منطق الأعمال باستخدام الرمز](/powerapps/developer/common-data-service/apply-business-logic-with-code/?azure-portal=true).
+-   يدعم **منطق الأعمال مع الرمز** سيناريوهات المطور المتقدمة لتوسيع التطبيق مباشرةً من خلال الرمز. لمزيد من المعلومات، راجع  [تطبيق منطق الأعمال باستخدام الرمز](/power-apps/developer/common-data-service/apply-business-logic-with-code/?azure-portal=true).
 
 ## <a name="integrate-data"></a>دمج البيانات
 
@@ -35,7 +35,7 @@ ms.locfileid: "7098872"
 
 -   **التكامل المجدول باستخدام الأنظمة الأخرى** - يمكن مزامنة البيانات المحفوظة في تطبيق آخر بشكل منتظم باستخدام Dataverse للسماح لك باستخدام بيانات تطبيق أخرى في Power Apps.
 
--   **تحويل البيانات واستيرادها باستخدام Power Query** - يمكنك تحويل البيانات عند الاشتيراد إلى Dataverse باستخدام Power query من العديد من مصادر البيانات عبر الإنترنت، وهي أداة عامة تُستخدم عبر Microsoft Excel وPower BI.
+-   **تحويل البيانات واستيرادها باستخدام Power Query** - يمكنك تحويل البيانات عند الاستيراد إلى Dataverse باستخدام Power Query من العديد من مصادر البيانات عبر الإنترنت، وهي أداة عامة تُستخدم عبر Microsoft Excel وPower BI.
 
 -   **استيراد البيانات لمرة واحدة** - يمكن استخدام الاستيراد والتصدير البسيط لملفات Excel وcsv. لاستيراد البيانات لمرة واحدة أو بشكل غير متكرر إلى Dataverse.
 

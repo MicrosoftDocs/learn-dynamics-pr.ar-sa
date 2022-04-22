@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9650bab348db53f18d0096577430b2545a222775
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 3c3b2a1531ebf2aab9a31e1cad459be7dff5b09a
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457530"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548312"
 ---
 تُعد ملحقات سير العمل إحدى مشتقات المكونات الإضافية التي تمكِّن المطورين من كتابة أنشطة مخصصة لا تتوفر داخل أنشطة العملية الافتراضية الموجودة داخل مصمم سير العمل. 
 
@@ -87,6 +87,6 @@ DecOutput.Set(context, input + 10);
 | [RequiredArgument]                             | تُستخدم لإنشاء وسيطة إدخال مطلوبة.                                                                                                                                         |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Default(“DefaultValue”)]                      | تُستخدم لتحديد القيم الافتراضية لوسيطة إدخال أو إخراج إذا لم يتم تعيين قيمة بالفعل.                                                                         |
-| [ReferenceTarget(“entityname”)]                | مطلوبة عند تحديد خاصية لمعلمة EntityReference. لمزيد من المعلومات، راجع [معلمات EntityReference](/powerapps/developer/common-data-service/workflow/workflow-extensions#entityreference-parameters).                                                        |
-| [AttributeTarget(“entityname”,”optionsetname”) | نظرًا لاستخدامها بواسطة معلمات OptionSetValue، فإنها تحدد الكيان والسمة التي تحتوي على مجموعة صالحة من القيم للمعلمة. لمزيد من المعلومات، راجع [معلمات OptionSetValue](/powerapps/developer/common-data-service/workflow/workflow-extensions#optionsetvalue-parameters). |
+| [ReferenceTarget(“entityname”)]                | مطلوبة عند تحديد خاصية لمعلمة EntityReference. لمزيد من المعلومات، راجع [معلمات EntityReference](/power-apps/developer/common-data-service/workflow/workflow-extensions#entityreference-parameters).                                                        |
+| [AttributeTarget(“entityname”,”optionsetname”) | نظرًا لاستخدامها بواسطة معلمات OptionSetValue، فإنها تحدد الكيان والسمة التي تحتوي على مجموعة صالحة من القيم للمعلمة. لمزيد من المعلومات، راجع [معلمات OptionSetValue](/power-apps/developer/common-data-service/workflow/workflow-extensions#optionsetvalue-parameters). |
  

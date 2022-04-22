@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dec1dda6b52652bb795913e693833903c1e1ce22
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: bc533e2a46f59477ce5e371046e9c01b79936980
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7364384"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548350"
 ---
 توفر خدمات Azure السحابية ثروة من الوظائف وتمكن مطوري Microsoft Power Platform من تسخير إمكاناتها من خلال نقاط قابلية التوسعة المختلفة. تستعرض هذه الوحدة بعض تقنيات Azure في سياق كيفية تشغيل، أو ربما تشغيل، دور في تنفيذ Microsoft Power Platform المركز. يتضمن Azure العديد من الخدمات، ويجب أن يكون جميع مطوري Microsoft Power Platform على دراية بما يقدمه Azure. للحصول على نظرة عامة على جميع التقنيات، راجع [موقع Azure على الويب](https://azure.microsoft.com/?azure-portal=true). لمزيد من التدريب المتعمق الذي سيعدك لخوض [اختبار أساسيات Microsoft Azure](/learn/certifications/exams/az-900/?azure-portal=true)، فكر في إكمال مسار تعلم أساسيات [Azure](/learn/paths/azure-fundamentals/?azure-portal=true).
 
@@ -12,7 +12,7 @@ ms.locfileid: "7364384"
 
 ## <a name="cognitive-services"></a>الخدمات المعرفية
 
-[Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?azure-portal=true) هي عائلة من واجهات برمجة تطبيقات الذكاء الاصطناعي والمعرفي للمساعدة على بناء تطبيقات ذكية. يحتوي Microsoft Power Platform على خدمة AI Builder التي تقوم بتنفيذ خيار تعليمات برمجية منخفضة لبعض واجهات برمجة التطبيقات. تعمل خدمة AI Builder على تمكين مجموعة أوسع من منشئي التطبيقات لتنفيذ المعالجة الذكية. يمكن للمطورين المساعدة على زيادة حلول Microsoft Power Platform باستخدام Azure Cognitive Services عندما تصبح متطلبات الحل أو الاستخدام في غاية التعقيد بالنسبة إلى AI Builder أو تحتاج إلى واجهة برمجة تطبيقات (API)‏ لا توفرها خدمة AI Builder.
+[Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?azure-portal=true) هي عائلة من واجهات برمجة تطبيقات الذكاء الاصطناعي والمعرفي للمساعدة على بناء تطبيقات ذكية. يحتوي Microsoft Power Platform على خدمة AI Builder التي تنفذ خيار تعليمات برمجية منخفضة لبعض واجهات برمجة التطبيقات. تعمل خدمة AI Builder على تمكين مجموعة أوسع من منشئي التطبيقات لتنفيذ المعالجة الذكية. يمكن للمطورين المساعدة على زيادة حلول Microsoft Power Platform باستخدام Azure Cognitive Services عندما تصبح متطلبات الحل أو الاستخدام في غاية التعقيد بالنسبة إلى AI Builder أو تحتاج إلى API‏ لا توفرها خدمة AI Builder.
 
 تتضمن Azure Cognitive Services واجهات برمجة التطبيقات ومجموعات تطوير البرامج (SDK) والخدمات المتوفرة لمساعدة المطورين على إضافة ميزات معرفية إلى تطبيقاتهم. يتيح إطار القابلية للتوسعة لـ Microsoft Power Platform للمستخدمين دمج هذه الميزات في التطبيقات والتدفقات. يمكن تصنيف كتالوج الخدمات داخل Azure Cognitive Services إلى خمس ركائز رئيسية: الرؤية والكلام واللغة والبحث على الويب والقرار.
 
@@ -20,7 +20,7 @@ ms.locfileid: "7364384"
 
 ## <a name="azure-bot-service"></a>خدمة روبوت Azure
 
-[توفر خدمة روبوت Azure](https://azure.microsoft.com/services/bot-services/?azure-portal=true) إطاراً يمكنك من خلاله إنشاء واختبار وتوزيع وإدارة الروبوتات الذكية كلها في مكان واحد. في كثير من الأحيان، تلعب الروبوتات دور الخدمة الذاتية للعملاء، وهو سيناريو شائع في تطبيق القناة متعددة الاتجاهات لـ Customer Service الخاص بـ Dynamics 365. تتوفر العديد من التطبيقات الأخرى لخدمة روبوت Azure، حيث يمكنك تحويل المهام البسيطة والمتكررة مثل جمع معلومات الملف الشخصي إلى إطار تفاعلي للأسئلة والأجوبة. لمزيد من المعلومات، راجع [وحدات تعلم خدمة روبوت Azure النمطية](/learn/browse/?products=azure-bot-service/?azure-portal=true) وكذلك [وثائق خدمة روبوت Azure](/azure/bot-service/?view=azure-bot-service-4.0/?azure-portal=true).
+[توفر خدمة روبوت Azure](https://azure.microsoft.com/services/bot-services/?azure-portal=true) إطاراً يمكنك من خلاله إنشاء واختبار وتوزيع وإدارة الروبوتات الذكية كلها في مكان واحد. في كثير من الأحيان، تلعب الروبوتات دور الخدمة الذاتية للعملاء، وهو سيناريو شائع في Dynamics 365 Omnichannel for Customer Service. تتوفر العديد من التطبيقات الأخرى لخدمة روبوت Azure، حيث يمكنك تحويل المهام البسيطة والمتكررة مثل جمع معلومات الملف الشخصي إلى إطار تفاعلي للأسئلة والأجوبة. لمزيد من المعلومات، راجع [وحدات تعلم خدمة روبوت Azure النمطية](/learn/browse/?products=azure-bot-service/?azure-portal=true) وكذلك [وثائق خدمة روبوت Azure](/azure/bot-service/?view=azure-bot-service-4.0/?azure-portal=true).
 
 يمكن للمطورين أيضا بناء مهارات Azure Bot Framework التي يمكن استخدامها مع Power Virtual Agents لتنفيذ معالجة التعليمات البرمجية المخصصة في روبوتات المحادثة ذات التعليمات البرمجية Power Virtual Agents المنخفضة. على سبيل المثال، يمكن للمهارة المخصصة استخدام سلسلة من الحوارات المخصصة للحصول على تفاعل أكثر تعقيداً مع مستخدم الروبوت مما هو ممكن مع مواضيع Power Virtual Agent.
 
@@ -62,7 +62,7 @@ ms.locfileid: "7364384"
 
 تم إنشاء Dataverse على رأس [محرك قاعدة بيانات Azure SQL](https://azure.microsoft.com/services/sql-database/?azure-portal=true) ويتضمن اتصال بيانات SQL الذي يوفر وصولاً للقراءة فقط إلى بيانات الجدول لبيئة Dataverse الهدف. يمكن لمطوري SQL Server ذوي الخبرة استخدام التكنولوجيا المألوفة لتكون على الفور أكثر إنتاجية مع Dataverse.
 
-كما يتضمن Dataverse "خدمة تصدير البيانات"، وهو حل إضافي اختياري يوفر القدرة على نسخ بيانات Dataverse في قاعدة بيانات SQL Azure. لمزيد من المعلومات، راجع [وثائق خدمة تصدير البيانات](/powerapps/developer/common-data-service/data-export-service/?azure-portal=true).
+كما يتضمن Dataverse "خدمة تصدير البيانات"، وهو حل إضافي اختياري يوفر القدرة على نسخ بيانات Dataverse في قاعدة بيانات SQL Azure. لمزيد من المعلومات، راجع [وثائق خدمة تصدير البيانات](/power-apps/developer/common-data-service/data-export-service/?azure-portal=true).
 
 ## <a name="other-services"></a>الخدمات الأخرى
 

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.ocr-vendor-invoices-finance.configuration-options
+title: خيارات الإعداد
+metadata:
+  title: خيارات الإعداد
+  description: التعرف على المعلمات الأساسية ووظائفها.
+  ms.date: 03/29/2022
+  author: oscarefranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 185bddaf7834c89136d733ea6fd7ac1e3441f9f9
+  ms.sourcegitcommit: 81b0663ec92cde0be6b4e27d2f692356720d3193
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 03/31/2022
+  ms.locfileid: "8527129"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/configuration-options.md)]

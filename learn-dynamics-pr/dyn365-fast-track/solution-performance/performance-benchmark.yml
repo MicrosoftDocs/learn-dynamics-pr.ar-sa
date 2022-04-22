@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-performance.performance-benchmark
+title: تحديد معايير الأداء ومعايير النجاح
+metadata:
+  title: تحديد معايير الأداء ومعايير النجاح
+  description: تعرف على كيفية تحديد معايير الأداء ومعايير النجاح.
+  ms.date: 03/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c0816d3e82e8da7d7226448aad4711112c12830b
+  ms.sourcegitcommit: 3b8d821dcbc6099dc8a561a2bc6c9e13ed6036a1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/09/2022
+  ms.locfileid: "8558740"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/performance-benchmark.md)]"

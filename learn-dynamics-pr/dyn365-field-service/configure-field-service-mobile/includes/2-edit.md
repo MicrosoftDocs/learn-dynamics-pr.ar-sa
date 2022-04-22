@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cdd43567b74f3843fcabb4ba26bb5ab18f034b3fcdc3cc9641ef3b3c4ae818ce
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3c9bf9bb0f734b518a862234f51010590e678ee0
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7433999"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548724"
 ---
 يوفر تطبيق Field Service Mobile للوكلاء الميدانيين المعلومات الهامة التي يحتاجونها عند خدمة العملاء. قد تجد العديد من المؤسسات أن المعلومات المعروضة في تطبيق الهاتف المحمول قد لا تتضمن كل ما تحتاجه، أو أنها غير متمركزة بطريقة تناسب عمال الخطوط الأمامية على نحو أفضل. ونظراً لأنه تم إنشاء تطبيق الأجهزة المحمولة Microsoft Power Platform، فإن المؤسسات يمكن أن تقوم بتخصيصها لتناسب الاحتياجات الخاصة بها.
 
@@ -49,7 +49,7 @@ ms.locfileid: "7433999"
 
   - **لوحات المعلومات**
 
-لمزيد من المعلومات، راجع [إنشاء وتحرير طرق عرض التطبيقات العامة أو تطبيقات النظام المستندة إلى نموذج](/powerapps/maker/model-driven-apps/create-edit-views-app-designer/?azure-portal=true).
+لمزيد من المعلومات، راجع [إنشاء وتحرير طرق عرض التطبيقات العامة أو تطبيقات النظام المستندة إلى نموذج](/power-apps/maker/model-driven-apps/create-edit-views-app-designer/?azure-portal=true).
 
 لتعديل ما يتم عرضه على الشاشة الرئيسية لتطبيق الأجهزة المحمولة، حدد الرمز **تحرير** الموجود بجانب خريطة الموقع. توجد في خريطة الموقع مجموعات تسمى **العمل** و **العملاء** و **أخرى**. تتوافق هذه المجموعات مع العناصر التي يتم عرضها على الشاشة الرئيسية لتطبيق Field Service Mobile. بناءً على احتياجاتك، يمكنك إنشاء المزيد من المجموعات ثم إضافة عناصر أو تعديلها أو إعادة ترتيبها أو حذفها. يمكنك إضافة عناصر إلى مجموعة عن طريق إضافة منطقة فرعية ثم تعيين المنطقة الفرعية إلى الجدول الذي تريد العمل معه.
 
@@ -96,4 +96,4 @@ ms.locfileid: "7433999"
 
 لمزيد من المعلومات، راجع [تخصيص تطبيق الجوال](/dynamics365/field-service/mobile-power-app-configure#edit-the-booking-and-work-order-form/?azure-portal=true).
 
-لمزيد من المعلومات، راجع  [تخصيص النماذج](/powerapps/developer/model-driven-apps/customize-entity-forms/?azure-portal=true).
+لمزيد من المعلومات، راجع  [تخصيص النماذج](/power-apps/developer/model-driven-apps/customize-entity-forms/?azure-portal=true).

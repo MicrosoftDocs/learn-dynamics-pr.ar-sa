@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ad796bbd36fef84e0f1a34001fa22c4152496bc0
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 9cf95003e04b3b495dacdda24ea31428045e7d33
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457501"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548351"
 ---
 > [!NOTE]
 > لتشغيل MSBuild، تحتاج إلى تثبيت Visual Studio أو أن تكون أدوات بناء Visual Studio مثبتة. للوصول إلى MSBuild، قد تحتاج إلى إضافتها إلى دليل مسار متغيرات بيئة Windows الخاصة بك. على سبيل المثال، MSBuild لمتاجر Visual Studio 2019في *C:\\ملفات البرامج (x86)\\Microsoft Visual Studio\\2019\\المؤسسات\\MSBuild\\الحالي\\الحاوية*. يمكنك أيضاً استخدام موجه أوامر المطور في Visual Studio للوصول إلى MSBuild، أو تشغيله باستخدام المسار الكامل المؤهل (*"C:\\ملفات البرامج (x86)\\Microsoft Visual Studio\\2019\\المؤسسات\\MSBuild\\الحالي\\الحاوية\\MSBuild.exe"/t:إنشاء /استعادة*).
@@ -13,7 +13,7 @@ ms.locfileid: "7457501"
 
 ### <a name="prerequisites"></a>المتطلبات الأساسية
 
-يجب أن يكون لديك مشروع مكون رمز موجود تم إنشاؤه بالفعل. يمكنك اتباع هذه الخطوات لأي مشروع آخر لمكونات التعليمات البرمجية، مثل [نموذج المكونات](/powerapps/developer/component-framework/use-sample-components).
+يجب أن يكون لديك مشروع مكون رمز موجود تم إنشاؤه بالفعل. يمكنك اتباع هذه الخطوات لأي مشروع آخر لمكونات التعليمات البرمجية، مثل [نموذج المكونات](/power-apps/developer/component-framework/use-sample-components).
 
 ### <a name="create-a-solution-file-with-power-apps-cli"></a>إنشاء ملف حل باستخدام Power Apps CLI
 لإنشاء ملف حل باستخدام Power Apps CLI، اتبع الخطوات التالية:
@@ -57,4 +57,4 @@ ms.locfileid: "7457501"
 
     يمكنك تعيين تكوين msbuild على **الإصدار** لإصدار إنشاء الإنتاج، على سبيل المثال، msbuild /p:configuration=Release.
 
-5.  يتم العثور علي ملفات الحلول التي تم إنشاؤها داخل مجلد \\الحاوية\\التصحيح\\ بعد نجاح عملية الإنشاء. يمكنك استيراد الملف المضغوط الذي يحتوي على ملف موجود يدوياً في الحاوية\التصحيح أو الحاوية\الإصدار، وذلك وفقاً لتكوين الإصدار الخاص بك. يمكنك أيضاً نشر مكونات التعليمات البرمجية الخاصة بك برمجياً باستخدام Power Apps CLI. لمزيد من المعلومات، راجع [الاتصال بالبيئة الخاصة بك](/powerapps/developer/component-framework/import-custom-controls#connecting-to-your-environment) وأيضاً [نشر مكونات التعليمات البرمجية](/powerapps/developer/component-framework/import-custom-controls#deploying-code-components) وهي عبارة عن أقسام [حزم وثائق مكون](/powerapps/developer/component-framework/import-custom-controls) التعليمات البرمجية.
+5.  يتم العثور علي ملفات الحلول التي تم إنشاؤها داخل مجلد \\الحاوية\\التصحيح\\ بعد نجاح عملية الإنشاء. يمكنك استيراد الملف المضغوط الذي يحتوي على ملف موجود يدوياً في الحاوية\التصحيح أو الحاوية\الإصدار، وذلك وفقاً لتكوين الإصدار الخاص بك. يمكنك أيضاً نشر مكونات التعليمات البرمجية الخاصة بك برمجياً باستخدام Power Apps CLI. لمزيد من المعلومات، راجع [الاتصال بالبيئة الخاصة بك](/power-apps/developer/component-framework/import-custom-controls#connecting-to-your-environment) وأيضاً [نشر مكونات التعليمات البرمجية](/power-apps/developer/component-framework/import-custom-controls#deploying-code-components) وهي عبارة عن أقسام [حزم وثائق مكون](/power-apps/developer/component-framework/import-custom-controls) التعليمات البرمجية.

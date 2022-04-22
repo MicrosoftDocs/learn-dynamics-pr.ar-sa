@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 992d682d79e8d479c3f24ef9ef82a3aaa847dac3c0359304d8db1414a035fc27
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ca16bc26d3ac6922907face30c5e9628fed2db64
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7433925"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548670"
 ---
 تم إنشاء تطبيق Microsoft Dynamics 365 Field Service ‏Mobile على Microsoft Power Platform ويزود المندوبين الميدانيين بالأدوات التي يحتاجون إليها لخدمة العملاء في الميدان. يسمح التطبيق للمندوبين بالوصول إلى المعلومات المهمة، مثل أوامر العمل التي تم تعيينها لهم، وإدارة جدولهم الزمني، وأصول خدمة العملاء، والمزيد.
 
@@ -31,15 +31,15 @@ ms.locfileid: "7433925"
 
 | المنطقة | المستندات المرجعية لـ Microsoft Power Platform |
 |------|----------------------------------------|
-| طرق العرض | [إنشاء وتحرير طرق عرض التطبيقات المستندة إلى نماذج النظام والعامة](/powerapps/maker/model-driven-apps/create-edit-views-app-designer/?azure-portal=true) و[تخصيص طرق عرض الكيانات](/powerapps/developer/model-driven-apps/customize-entity-views/?azure-portal=true) |
-| تكامل IFrame المخصص | [استخدام IFrame وعناصر تحكم مورد الويب في نموذج](/powerapps/developer/model-driven-apps/use-iframe-and-web-resource-controls-on-a-form/?azure-portal=true) |
-| صفحات HTML المخصصة | [موارد الويب لصفحة الويب (HTML)](/powerapps/developer/model-driven-apps/webpage-html-web-resources/?azure-portal=true) |
-| أوامر على النماذج ووجهات النظر | [شريط الأوامر أو التمثيل بالأشرطة](/powerapps/developer/model-driven-apps/command-bar-ribbon-presentation/?azure-portal=true)، و[تحديد إجراءات الأشرطة](/powerapps/developer/model-driven-apps/define-ribbon-actions/?azure-portal=true)، و[تحديد قواعد عرض الأشرطة](/powerapps/developer/model-driven-apps/define-ribbon-display-rules/?azure-portal=true)
-| معالجة الأحداث (عند الحفظ، عند التحميل، وما إلى ذلك) | [الأحداث في النماذج والشبكات في التطبيقات المستندة إلى النموذج](/powerapps/developer/model-driven-apps/clientapi/events-forms-grids/?azure-portal=true) |
-| منطق الأعمال/JavaScript | [قم بتطبيق منطق الأعمال باستخدام البرمجة النصية للعميل في تطبيقات تعتمد على نموذج باستخدام JavaScript](/powerapps/developer/model-driven-apps/client-scripting/?azure-portal=true) |
-| برمجة العميل النصية | [قم بتطبيق منطق الأعمال باستخدام البرمجة النصية للعميل في تطبيقات تعتمد على نموذج باستخدام JavaScript](/powerapps/developer/model-driven-apps/client-scripting/?azure-portal=true) |
+| طرق العرض | [إنشاء وتحرير طرق عرض التطبيقات المستندة إلى نماذج النظام والعامة](/power-apps/maker/model-driven-apps/create-edit-views-app-designer/?azure-portal=true) و[تخصيص طرق عرض الكيانات](/power-apps/developer/model-driven-apps/customize-entity-views/?azure-portal=true) |
+| تكامل IFrame المخصص | [استخدام IFrame وعناصر تحكم مورد الويب في نموذج](/power-apps/developer/model-driven-apps/use-iframe-and-web-resource-controls-on-a-form/?azure-portal=true) |
+| صفحات HTML المخصصة | [موارد الويب لصفحة الويب (HTML)](/power-apps/developer/model-driven-apps/webpage-html-web-resources/?azure-portal=true) |
+| أوامر على النماذج ووجهات النظر | [شريط الأوامر أو التمثيل بالأشرطة](/power-apps/developer/model-driven-apps/command-bar-ribbon-presentation/?azure-portal=true)، و[تحديد إجراءات الأشرطة](/power-apps/developer/model-driven-apps/define-ribbon-actions/?azure-portal=true)، و[تحديد قواعد عرض الأشرطة](/power-apps/developer/model-driven-apps/define-ribbon-display-rules/?azure-portal=true)
+| معالجة الأحداث (عند الحفظ، عند التحميل، وما إلى ذلك) | [الأحداث في النماذج والشبكات في التطبيقات المستندة إلى النموذج](/power-apps/developer/model-driven-apps/clientapi/events-forms-grids/?azure-portal=true) |
+| منطق الأعمال/JavaScript | [قم بتطبيق منطق الأعمال باستخدام البرمجة النصية للعميل في تطبيقات تعتمد على نموذج باستخدام JavaScript](/power-apps/developer/model-driven-apps/client-scripting/?azure-portal=true) |
+| برمجة العميل النصية | [قم بتطبيق منطق الأعمال باستخدام البرمجة النصية للعميل في تطبيقات تعتمد على نموذج باستخدام JavaScript](/power-apps/developer/model-driven-apps/client-scripting/?azure-portal=true) |
 | القدرات والقيود المدعومة | [دعم القدرات والقيود على النظام الأساسي في وضع عدم الاتصال](/dynamics365/mobile-app/mobile-offline-capabilities/?azure-portal=true) |
-| عناصر التحكم المخصصة | [ضوابط مخصصة إضافية للتطبيقات المستندة إلى النموذج](/powerapps/maker/model-driven-apps/additional-controls-for-dynamics-365-for-phones-and-tablets/?azure-portal=true) |
-| تطبيقات اللوحة | [تضمين تطبيق اللوحة في نموذج يستند إلى نموذج](/powerapps/maker/model-driven-apps/embed-canvas-app-in-form/?azure-portal=true) |
+| عناصر التحكم المخصصة | [ضوابط مخصصة إضافية للتطبيقات المستندة إلى النموذج](/power-apps/maker/model-driven-apps/additional-controls-for-dynamics-365-for-phones-and-tablets/?azure-portal=true) |
+| تطبيقات اللوحة | [تضمين تطبيق اللوحة في نموذج يستند إلى نموذج](/power-apps/maker/model-driven-apps/embed-canvas-app-in-form/?azure-portal=true) |
 
 ستدرس بقية هذه الوحدة العديد من العناصر المذكورة سابقاً بمزيد من التفصيل وتوفر إرشادات حول كيفية تخصيص وتهيئة تطبيق الهاتف المحمول.

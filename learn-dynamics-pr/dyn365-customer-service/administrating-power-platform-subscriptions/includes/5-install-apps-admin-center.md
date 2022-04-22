@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9ba3176b8781717f7deb3550eaa5690fba771140
-ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+ms.openlocfilehash: e65fb79ee2159b2a96dc54bbf0c585c0bdc856cf
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/24/2022
-ms.locfileid: "8484066"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548571"
 ---
 يأتي كل مستأجر ‪Microsoft Dynamics 365‬ بمجموعة متنوعة من التطبيقات والوظائف التي يجب على المؤسسة تثبيتها للاستفادة منها. يمكنك تثبيت هذه التطبيقات من خلال مركز مسؤولي Microsoft Power Platform.
 
@@ -113,4 +113,4 @@ ms.locfileid: "8484066"
 
 إذا كنت مسؤولاً عن البيئة، أو مسؤولاً عمومياً، أو مسؤول Microsoft Power Platform، فيمكنك إدارة التطبيقات من Power Apps التي تم إنشاؤها في مؤسستك.
 
-لمزيد من المعلومات، راجع [إدارة Power Apps](/powerapps/powerapps-overview.md).
+لمزيد من المعلومات، راجع [إدارة Power Apps](/power-apps/powerapps-overview.md).

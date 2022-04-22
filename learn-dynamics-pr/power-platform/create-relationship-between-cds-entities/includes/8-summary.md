@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 22b7d7b36659162189f2451209b6150d0e0eb81b
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 36b877022a3a036266d1d73ca21d5f1f54ea625c
+ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457388"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "8548321"
 ---
 في هذه الوحدة، تعلمت كيفية استخدام العلاقات لإنشاء حلول فعالة، بالإضافة إلى ما يلي:
 
@@ -24,7 +24,7 @@ ms.locfileid: "7457388"
 
 توجد إرشادات متاحة حول توقيت استخدام أي حل لإنشاء علاقة متعدد إلى واحد أو واحد إلى متعدد. يمكنك الحصول على مزيد من المعلومات حول هذه المواقف الخاصة في الارتباطات التالية:
 
-[إنشاء علاقات جداول واحد إلى متعدد باستخدام مستكشف الحلول](/powerapps/maker/common-data-service/create-edit-1n-relationships-solution-explorer)
+[إنشاء علاقات جداول واحد إلى متعدد باستخدام مستكشف الحلول](/power-apps/maker/common-data-service/create-edit-1n-relationships-solution-explorer)
 
  يمكنك الحصول على مزيد من المعلومات في الارتباط التالي حول استخدام علاقة واحد إلى متعدد ومتعدد إلى متعدد داخل أحد تطبيقات Power Apps.
 
@@ -32,4 +32,4 @@ ms.locfileid: "7457388"
 
 لا يمكنك تحرير الجداول في علاقة متعدد إلى متعدد، ولكن يمكنك تحرير خصائص معينة في **مستكشف الحلول**. حدد الارتباط التالي لعرض خيارات التحرير المتوفرة.
 
-[إنشاء علاقات جداول واحد إلى متعدد في Dataverse باستخدام مستكشف الحلول](/powerapps/maker/common-data-service/create-edit-nn-relationships-solution-explorer) 
+[إنشاء علاقات جداول واحد إلى متعدد في Dataverse باستخدام مستكشف الحلول](/power-apps/maker/common-data-service/create-edit-nn-relationships-solution-explorer) 
