@@ -32,7 +32,7 @@ units:
 - learn-dynamics.use-admin-options-cds.1-intro
 - learn-dynamics.use-admin-options-cds.2-admin
 - learn-dynamics.use-admin-options-cds.3-advanced
-- learn-dynamics.use-admin-options-cds.4-classic
+#- learn-dynamics.use-admin-options-cds.4-classic
 - learn-dynamics.use-admin-options-cds.4b-enable-disable-auditing
 - learn-dynamics.use-admin-options-cds.5-check
 - learn-dynamics.use-admin-options-cds.6-summary
