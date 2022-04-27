@@ -1,6 +1,21 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-guides/operate-guides/05-gestures-1.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/operate-guides/06-gestures-2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-guides/operate-guides/02-calibrate-hololens-1.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/operate-guides/03-calibrate-hololens-2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-guides/author-guides/12-2-hololens-1-gestures.md",
+      "redirect_url": "https://docs.microsoft.com/learn/modules/author-guides/12-3-hololens-2-gestures",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/power-platform/use-admin-options-cds/4-classic.md",
       "redirect_url": "https://docs.microsoft.com/learn/modules/use-admin-options-cds/",
       "redirect_document_id": false
@@ -12393,6 +12408,26 @@
     {
     "source_path": "learn-dynamics-pr/wwl-dynamics/microsoft-finance-operations-apps-integrations/7-summary.md",
     "redirect_url": "https://docs.microsoft.com/learn/paths/explore-microsoft-dynamics-365-finance/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/paths/explore-microsoft-dynamics-365-marketing/index.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-of-microsoft-dynamics-365-marketing/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/paths/explore-microsoft-dynamics-365-sales/index.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/paths/learn-fundamentals-microsoft-dynamics-365-field-service/index.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/learn-fundamentals-of-microsoft-dynamics-365-field-service/",
+    "redirect_document_id": false
+    },
+    {
+    "source_path": "learn-dynamics-pr/paths/learn-fundamentals-microsoft-dynamics-365-project-operations-crm/index.md",
+    "redirect_url": "https://docs.microsoft.com/learn/paths/examine-core-capabilities-of-microsoft-dynamics-365-customer-engagement-apps/",
     "redirect_document_id": false
     }    
   ]
