@@ -45,7 +45,7 @@ units:
 - learn-dynamics.author-guides.11-exercise-1
 - learn-dynamics.author-guides.11-2-check
 - learn-dynamics.author-guides.12-author-hololens-app
-- learn-dynamics.author-guides.12-2-hololens-1-gestures
+#- learn-dynamics.author-guides.12-2-hololens-1-gestures
 - learn-dynamics.author-guides.12-3-hololens-2-gestures
 - learn-dynamics.author-guides.12-4-hand-rays-gaze
 - learn-dynamics.author-guides.13-install-hololens-app

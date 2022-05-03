@@ -30,8 +30,8 @@ products:
 - hololens
 units:
 - learn-dynamics.operate-guides.01-introduction
-- learn-dynamics.operate-guides.05-gestures-1
-- learn-dynamics.operate-guides.02-calibrate-hololens-1
+#- learn-dynamics.operate-guides.05-gestures-1
+#- learn-dynamics.operate-guides.02-calibrate-hololens-1
 - learn-dynamics.operate-guides.06-gestures-2
 - learn-dynamics.operate-guides.03-calibrate-hololens-2
 - learn-dynamics.operate-guides.04-install
