@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eea34b3402c51a52074457d7592a9367dd3acfed2c6da2d5c8ff4ffb5a30a35e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e83caca8c4743a792ca332cd41984378b6e0d676
+ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7457291"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "7964058"
 ---
 بشكل متكرر، يلزم إجراء تنسيق التاريخ على بيانات Microsoft Dataverse. بينما يعرض Power Automate بعض الميزات حول هذه العملية، فقد يكون من المناسب أحياناً إنتاج ملحقات سير عمل مخصصة لتحقيق هذا الهدف (على سبيل المثال، إذا كان المنطق يحتاج إلى التشغيل بشكل متزامن داخل بيئتك).
 
@@ -88,7 +88,7 @@ ms.locfileid: "7457291"
     
     [Output("Formatted DateTime output as string")]
     
-    public OutArgument<String> ForammtedDateTimeOutput { get; set; }
+    public OutArgument<String> FormattedDateTimeOutput { get; set; }
     ```
 
     > ![قصاصة برمجية مع وسائط الإدخال المتصلة بالفئة.](../media/snippet-6.png)
