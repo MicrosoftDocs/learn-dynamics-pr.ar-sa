@@ -3,16 +3,17 @@ uid: learn.wwl.leverage-sales-capabilities
 metadata:
   title: استخدام إمكانات المبيعات
   description: استخدام إمكانات المبيعات
-  ms.date: 03/09/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4fbc654963344a50944ae00b290dfd54fabcaa44
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.prod: learning-d365-customer-service
+  ms.openlocfilehash: f374fe7592d5f56c9b3f23e928a557e046d40e74
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400025"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633245"
 title: استخدام إمكانات المبيعات
 summary: تقدم هذه الوحدة التنبؤ بالمبيعات وLinkedIn Sales Navigator وDynamics 365 Sales Insights إلى المتعلمين.
 abstract: >

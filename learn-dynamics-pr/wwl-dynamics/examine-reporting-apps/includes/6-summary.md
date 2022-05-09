@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5f4f0e482e491c703f8ea9892dccdbbe41204a4d
-ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+ms.openlocfilehash: d30f38f98c94ca04643a2d59c48cb1f7b9056d00
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2022
-ms.locfileid: "8403458"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8615571"
 ---
 كما ترى، من خلال استكمال إدارة الحالة وإمكانات إدارة المعرفة في Dynamics 365 Customer Service بميزات إضافية مثل Omnichannel for Customer Service، أو التقارير والتحليلات المتوفرة في تقارير التحليلات السابقة، يمكنك إنشاء حل دعم أكثر مرونة يعتمد على احتياجات عميل اليوم. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "8403458"
 
 ### <a name="power-apps"></a>Power Apps
 
-- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الويب](/powerapps/webinars-listing)
+- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الإنترنت](/powerapps/webinars-listing)
 
 - [تحديثات المنتج](https://powerapps.microsoft.com/blog/category/new-features/)
 
@@ -49,5 +49,13 @@ ms.locfileid: "8403458"
 ### <a name="microsoft-power-platform"></a>Microsoft Power Platform
 
 - [https://powerplatform.com/](https://powerplatform.com/)
+
+## <a name="for-further-study"></a>لمزيد من الدراسة
+
+- [إنشاء حلول إدارة المعرفة في Dynamics 365 Customer Service](/learn/modules/creating-and-designing-knowledge-management-solutions/)
+
+- [بدء استخدام Dynamics 365 Customer Service Insights](/learn/modules/get-started-customer-service-insights/)
+
+- [بدء استخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service](/learn/modules/getting-started-omnichannel/)
 
  

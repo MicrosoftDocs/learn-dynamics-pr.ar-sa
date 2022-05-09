@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: b6fae774f7ea5ce8492c63bb9baa27969ac72f3e
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 812bc53b9d4ccdae322f62c1f5e9e965ea964b80
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361456"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8615031"
 ---
-كما ترى، يمكنك استكمال ميزات أتمتة التسويق الأساسية في Dynamics 365 Marketing بإمكانات تزايدية مثل Customer Voice أو Customer Insights.  وبذلك يمكنك إنشاء حلول تسويقية أكثر قوة قائمة على ممارسات التسويق التي أثبتت جدواها والتي تستهدف عملاء اليوم. 
+كما ترى، يمكنك استكمال ميزات التشغيل التلقائي للتسويق الأساسي في Dynamics 365 Marketing بإمكانات تزايدية مثل Customer Voice أو Customer Insights.  وبذلك يمكنك إنشاء حلول تسويقية أكثر قوة قائمة على ممارسات التسويق التي أثبتت جدواها والتي تستهدف عملاء اليوم. 
 
 في هذه الوحدة، قدمنا تطبيقات Dynamics 365 أخرى يمكن استخدامها مع Dynamics 365 Marketing للمساعدة في تحديد العملاء المحتملين وإرسال الإعلانات إليهم والحصول على تعليقات العملاء. 
 
@@ -30,6 +30,14 @@ ms.locfileid: "8361456"
 
 - [المجتمع](https://community.dynamics.com/) 
 
-- [الموارد (مقاطع الفيديو، الندوات عبر الإنترنت، الكتب الإلكترونية)](https://dynamics.microsoft.com/marketing/resources/)
+- [الموارد (مقاطع الفيديو، ندوات الإنترنت، كتب eBook)](https://dynamics.microsoft.com/marketing/resources/)
 
- 
+ ## <a name="for-further-study"></a>لمزيد من الدراسة
+
+- [العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing](/learn/paths/work-core-features-marketing/)
+
+- [إدارة الأحداث في Dynamics 365 Marketing](/learn/paths/manage-events-dynamics-365-marketing/)
+
+- [Customer Voice](/dynamics365/marketing/customer-voice)
+
+- [Customer Insights](/dynamics365/marketing/real-time-marketing-ci-profile)

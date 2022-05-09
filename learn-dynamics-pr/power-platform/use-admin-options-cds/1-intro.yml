@@ -4,17 +4,17 @@ title: مقدمة إلى مدخل مركز مسؤولي Microsoft Power Platform
 metadata:
   title: مقدمة إلى مدخل مركز مسؤولي Microsoft Power Platform
   description: تناقش هذه الوحدة الإعدادات المتوفرة لمدخل مركز مسؤولي Microsoft Power Platform.
-  ms.date: 09/01/2021
+  ms.date: 04/19/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 57c3d02832c798574e64791b26c60f0c0e98187b
-  ms.sourcegitcommit: 35d50364afa9a537b510a1a960faba6ea3af60da
+  ms.openlocfilehash: 9f23d7cb1c522d634df78a9433660fe7e06b4607
+  ms.sourcegitcommit: 806edd941f533c452c0c7dd877468ba048706d13
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "7467895"
+  ms.lasthandoff: 04/20/2022
+  ms.locfileid: "8617222"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

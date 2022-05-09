@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f37532d4abeee3326099f3350bf40254ce1c9467
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 4a65dcba73e3afbae425b5aac306321ab83b825e
+ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587073"
+ms.lasthandoff: 04/26/2022
+ms.locfileid: "8632948"
 ---
 يوصى بمرساة رمز الاستجابة السريعة للأسباب التالية:
 
@@ -15,9 +15,6 @@ ms.locfileid: "7587073"
 - يمكنك تضمين رابط إلى دليل (رابط عميق) في رمز الاستجابة السريعة. هذا يجعل من الأسرع للمشغل فتح الدليل المناسب.
 
 ومع ذلك، في بعض الحالات، قد تحتاج إلى استخدام رمز دائري أو مرساة ثلاثية الأبعاد.
-
-> [!NOTE]
-> يتطلب إرساء دليل برمز الاستجابة السريعة HoloLens 2. هذه الميزة غير متوفرة على HoloLens ‏1.
 
 شاهد الفيديو التالي للحصول على نظرة عامة حول كيفية إنشاء مرساة رمز الاستجابة السريعة.
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4Guxi]

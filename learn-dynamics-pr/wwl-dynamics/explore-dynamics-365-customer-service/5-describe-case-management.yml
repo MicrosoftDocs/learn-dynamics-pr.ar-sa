@@ -4,17 +4,17 @@ title: وصف إدارة الحالة
 metadata:
   title: وصف إدارة الحالة
   description: وصف إدارة الحالة
-  ms.date: 03/10/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: b4502a39137785182d2a43d0bc50a4bf46e0df6b
-  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.openlocfilehash: d37831cf0e8f44c4ba5dd428f0c769281fa41b47
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/11/2022
-  ms.locfileid: "8403514"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8632722"
 azureSandbox: false
 labModal: false
 durationInMinutes: 4

@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 03/09/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: ca6c363c46e5a9c417cf257dbbfa5400efd73547
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 52d171b060c8efd10c7771a504b50bd59576018a
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400177"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8632776"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 10f07cb90e02795a23af8531961b88ffe016dd13
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 6fb55a118ffd3a7264bd85a9531947a72c075259
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361392"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8615157"
 ---
 كما ترى، فإن Dynamics 365 Field Service يزود مؤسستك بالأدوات التي تحتاجها لإدارة تقديم الخدمات في الموقع لعملائك وإدارة القوى العاملة المتنقلة لديك. من خلال توفير الأدوات التي تساعدك في إنشاء أوامر العمل، وجدولة الفنيين وإيفادهم، وتنفيذ أوامر العمل، وإدارة الأصول والخدمات، والمخزون والفوترة، تساعد Dynamics 365 Field Service على ضمان حصول الفنيين لديك على كل ما يحتاجون إليه لزيادة الإصلاح لأول مرة معدلات. 
 
@@ -41,7 +41,7 @@ ms.locfileid: "8361392"
 
 ### <a name="power-apps"></a>Power Apps
 
--  [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الويب](/powerapps/webinars-listing)
+-  [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الإنترنت](/powerapps/webinars-listing)
 
 -  [تحديثات المنتج](https://powerapps.microsoft.com/blog/category/new-features/)
 
@@ -56,3 +56,11 @@ ms.locfileid: "8361392"
 ### <a name="microsoft-power-platform"></a>Microsoft Power Platform
 
 -  [https://powerplatform.com/](https://powerplatform.com/)
+
+ ## <a name="for-further-study"></a>لمزيد من الدراسة
+
+ - [إدارة أوامر العمل في Dynamics 365 Field Service](/learn/paths/manage-work-orders/)
+
+ - [عمليات الفحص في Dynamics 365 Field Service](/learn/modules/inspections/)
+
+ 

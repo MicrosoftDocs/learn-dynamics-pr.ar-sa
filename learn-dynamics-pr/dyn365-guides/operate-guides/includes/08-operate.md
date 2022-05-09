@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ec31627a2f794f8c615e48eccf6c65d5c53efccf
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: a320e6bfe7254b4b452e3af75c6f64ea528885e2
+ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587017"
+ms.lasthandoff: 04/26/2022
+ms.locfileid: "8632939"
 ---
   شاهد هذا الفيديو للتعرف على كيفية تشغيل دليل في Dynamics 365 Guides
 
@@ -112,9 +112,6 @@ ms.locfileid: "7587017"
 
 ![لقطة شاشة للزر "ارتباط موقع الويب".](../media/open-website-button-ss.png)
 
-> [!NOTE]
-> في HoloLens‏ 1، يدخل التطبيق Dynamics 365 Guides وضع **السكون** عندما تحدد ارتباط موقع ويب من خطوة. يمكنك النقر فوق تطبيق Dynamics 365 Guides في أي وقت للرجوع إلى الدليل والاستئناف من حيث توقفت. إذا كنت تستخدم HoloLens 2، يبقى تطبيق Dynamics 365 Guides نشطاً عند تحديد ارتباط موقع ويب.
-
 ## <a name="open-an-app-created-in-power-apps"></a>فتح تطبيق تم إنشاؤه في Power Apps
 
 إذا كانت بطاقة خطوة في تطبيق Dynamics 365 Guides HoloLens تتضمن الزر **Power Apps**، فيمكنك فتح تطبيق عن طريق تحديد الزر. تم فتح التطبيق في مستعرض على HoloLens. عندما تغلق المستعرض، فإنك تعود إلى الخطوة.
@@ -123,9 +120,6 @@ ms.locfileid: "7587017"
 > لتشغيل Power Apps من Dynamics 365 Guides، يجب أن يكون لديك ترخيص Power Apps. كما يجب أن يكون لديك الإذن لعرض التطبيق الذي تم إنشاؤه في Power Apps.
 
 ![لقطة شاشة للزر Power Apps في بطاقة الخطوة.](../media/website-button-runtime-ssm.png)
-
-> [!NOTE]
-> في HoloLens‏ 1، يدخل تطبيق Dynamics 365 Guides وضع **السكون**، عندما تحدد ارتباط Power Apps من خطوة. يمكنك النقر فوق تطبيق Dynamics 365 Guides في أي وقت للرجوع إلى الدليل والاستئناف من حيث توقفت. إذا كنت تستخدم HoloLens 2، يبقى تطبيق Dynamics 365 Guides نشطاً عندما تحدد ارتباط Power Apps.
 
 ## <a name="turn-off-holograms"></a>إيقاف تشغيل الصور المجسمة 
 

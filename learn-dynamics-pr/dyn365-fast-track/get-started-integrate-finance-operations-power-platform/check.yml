@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-integrate-finance-operations-power-platform.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/11/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 11483ab52e1d219c56e72b6b798e09498d5b85f5
+  ms.sourcegitcommit: d4e337fec838090ba1f4f09b61e2651be90b2b54
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/13/2022
+  ms.locfileid: "8572568"
+durationInMinutes: 8
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
+  questions:
+  - content: ما التكنولوجيا التي ستكون حلاً أفضل لدعم سيناريو غير متصل بالإنترنت؟
+    choices:
+    - content: الكتابة المزدوجة
+      isCorrect: true
+      explanation: صحيح. يمكن أن تتوقف الكتابة المزدوجة فقط مؤقتاً أثناء سيناريو غير متصل بالإنترنت وحركات قائمة الانتظار التي ستلتزم لاحقاً بقاعدة البيانات المصدر.
+    - content: الكيانات الافتراضية
+      isCorrect: false
+      explanation: غير صحيح.‬ لا تدعم الكيانات الافتراضية السيناريوهات في وضع عدم الاتصال.
+    - content: Dynamics 365
+      isCorrect: false
+      explanation: غير صحيح.‬ إن Dynamics 365 هو مصطلح عام لنظام، وليس تقنية معينة لديها حل لسيناريوهات وضع عدم الاتصال.
+  - content: هل يمكنك تمكين خرائط كيانات الكتابة المزدوجة دون إجراء مزامنة أولية؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: صحيح. تنسخ المزامنة الأولية فقط البيانات التاريخية للكيان، وهو أي شيء كان موجوداً قبل إجراء الاتصال. لا تحتاج إلى إكمال هذه المهمة لتمكين الكتابة المزدوجة.
+    - content: لا
+      isCorrect: false
+      explanation: غير صحيح.‬ يمكنك تمكين الكتابة المزدوجة دون إجراء مزامنة أولية.
+  - content: أي من السيناريوهات التالية يجب أن يتكامل باستخدام الكيانات الافتراضية؟
+    choices:
+    - content: عندما تكون البيئة غير متصلة بالإنترنت
+      isCorrect: false
+      explanation: غير صحيح.‬ لا يوصى باستخدام الكيانات الافتراضية في سيناريوهات وضع عدم الاتصال.
+    - content: عندما تتم استضافة المعلومات في التمويل والعمليات، يجب استخدامها في تطبيق من Power Apps
+      isCorrect: true
+      explanation: صحيح. الكيانات الافتراضية مصممة للعمل مع Microsoft Power Platform باستخدام معلومات وبيانات تطبيقات التمويل والعمليات.
+    - content: عندما تحتاج الشركة إلى نسخ جميع بياناتها إلى نظام آخر
+      isCorrect: false
+      explanation: غير صحيح.‬ لا ينبغي استخدام الكيانات الافتراضية لنسخ جميع البيانات من نظام إلى آخر.
+  - content: تحتوي تطبيقات التمويل والعمليات على كيانات قانونية متعددة، ويتم تحديد متطلبات الأعمال لتمكين الكتابة المزدوجة فقط لاثنين من الكيانات القانونية العشرة الحالية. هل من الممكن إعداد كتابة مزدوجة لكيانين قانونيين فقط؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: صحيح. يمكنك فقط تحديد الكيانات القانونية المطلوبة لتكون مكتوبة بشكل مزدوج.
+    - content: لا
+      isCorrect: false
+      explanation: غير صحيح.‬ لا تحتاج إلى تمكين الكتابة المزدوجة لجميع الكيانات القانونية.

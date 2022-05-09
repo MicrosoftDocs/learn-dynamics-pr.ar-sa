@@ -4,17 +4,17 @@ title: نظرة عامة‬
 metadata:
   title: نظرة عامة‬
   description: نظرة عامة‬
-  ms.date: 03/09/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 71e6c776efacfc7ea0288b2dcfe3a21221c2a5c4
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 8c08fa5339521f4a85ffd9890df06a50d1ac6c53
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400057"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633092"
 azureSandbox: false
 labModal: false
 durationInMinutes: 6

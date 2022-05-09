@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 41903537ea573e41444f92cb8dfae526456eff72
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 74dd0920147497fcf0f99508fde1108bbb866020
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361343"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8614941"
 ---
 كما ترى، يوفر لك Dynamics 365 Marketing مجموعة كبيرة من الأدوات للمساعدة في التحكم في إستراتيجية تسويق العملاء بالكامل لمؤسستك وإدارتها. تساعدك أدوات إنشاء قوائم العملاء المتوقعين و‏‫مجموع النقاط على تحديد العملاء المحتملين واستهدافهم بشكل فعال كما تساعدك على تحويلهم إلى علاقات أعمال. تساعدك الأدوات المتكاملة في إنشاء محتوى تسويقي بسرعة وتحديد رحلات العميل وإدارة الأحداث. 
 
@@ -34,14 +34,14 @@ ms.locfileid: "8361343"
 
 - [المجتمع](https://community.dynamics.com/) 
 
-- [الموارد (مقاطع الفيديو، الندوات عبر الإنترنت، الكتب الإلكترونية)](https://dynamics.microsoft.com/marketing/resources/)
+- [الموارد (مقاطع الفيديو، ندوات الإنترنت، كتب eBook)](https://dynamics.microsoft.com/marketing/resources/)
 
  
 
 ### <a name="power-apps"></a>Power Apps
 
 
-- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الويب](/powerapps/webinars-listing)
+- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الإنترنت](/powerapps/webinars-listing)
 
 - [تحديثات المنتج](https://powerapps.microsoft.com/blog/category/new-features/)
 
@@ -57,4 +57,6 @@ ms.locfileid: "8361343"
 
 - [https://powerplatform.com/](https://powerplatform.com/)
 
- 
+## <a name="for-further-study"></a>لمزيد من الدراسة
+
+- [العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing](/learn/paths/work-core-features-marketing/)

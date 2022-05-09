@@ -4,16 +4,16 @@ title: وصف Dynamics 365 Customer Insights
 metadata:
   title: وصف Dynamics 365 Customer Insights
   description: وصف Dynamics 365 Customer Insights
-  ms.date: 03/09/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0bca1cff23fabbcf3e298c4d5041cf723fc06b0b
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 3cb1bde8bf369fa8c0fb168507113bddd4282314
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400129"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633083"
 azureSandbox: false
 labModal: false
 durationInMinutes: 10

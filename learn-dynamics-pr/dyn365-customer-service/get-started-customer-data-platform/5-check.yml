@@ -8,12 +8,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 37a61e56408108b5798261d97c359fdd07c8aa46
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.openlocfilehash: b1293f00c11bf9cd001f527a7a165f3d5dd9eec2
+  ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8551066"
+  ms.lasthandoff: 04/21/2022
+  ms.locfileid: "8629259"
 durationInMinutes: 3
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

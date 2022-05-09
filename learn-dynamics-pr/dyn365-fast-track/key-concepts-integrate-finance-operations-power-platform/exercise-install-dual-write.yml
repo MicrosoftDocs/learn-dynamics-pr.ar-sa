@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.key-concepts-integrate-finance-operations-power-platform.exercise-install-dual-write
+title: تدريب - تثبيت الكتابة المزدوجة
+metadata:
+  title: تدريب - تثبيت الكتابة المزدوجة
+  description: يتمثل نطاق هذا التدريب في توفير إرشادات تفصيلية حول كيفية تمكين الكتابة المزدوجة للمثيلات الحالية من تطبيقات التمويل والعمليات.
+  ms.date: 04/20/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7f44b260bbf140acd3c305118985c2d8f77c126c
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633617"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/exercise-install-dual-write.md)]"

@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 03/09/2022
+  ms.date: 04/19/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 8155234a31f603fa038550f7bb501b715169e741
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 888d9cc15c2e56e8480a163220ae4191f9284954
+  ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400081"
+  ms.lasthandoff: 04/19/2022
+  ms.locfileid: "8615418"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -52,7 +52,7 @@ quiz:
       explanation: صحيح. هذه الإجابة صحيحة لأن Dynamics 365 Project Operations يوفر إمكانات إدارة المشروعات وإدارة الموارد وبيع المشروعات لـ Dynamics 365.
     - content: Dynamics 365 Sales
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأنه بينما يوفر Dynamics 365 Sales إمكانات أتمتة المبيعات، إلا أنه ليس خاصاً ببيع المشروعات. كما أنه لا يوفر أي إمكانات لإدارة المشروعات وإدارة الموارد.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأنه بينما يوفر Dynamics 365 Sales إمكانات التشغيل التلقائي للمبيعات، إلا أنه ليس خاصاً ببيع المشروعات. كما أنه لا يوفر أي إمكانات لإدارة المشروعات وإدارة الموارد.
     - content: Dynamics 365 Customer Service
       isCorrect: false
       explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Dynamics 365 Customer Service تستفيد منه المؤسسات التي تقدم الدعم للعملاء.  ويساعد في إدارة حالات الدعم ويحتوي على أدوات تساعد في زيادة رضا العملاء.

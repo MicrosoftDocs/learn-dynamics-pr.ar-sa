@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e143ef14ebd5d39f8f61dba315caf25608e64249
-ms.sourcegitcommit: 764b35d6328e063ffb8e1fbd09c7155ac5ae54c2
+ms.openlocfilehash: b3f9b3da69fd926ec66c098e9d95fb550c0540fd
+ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "7562752"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "8629223"
 ---
 هل تثق بأن البائعون لدبك يتمتعون بعلاقات جيدة مع عملائهم؟ قد تفاجئك إجابات العملاء على هذا السؤال. بينما تعتقد أن علاقاتك جيدة، قد يراها عملاؤك بشكل مختلف. تؤثر العديد من العوامل على العلاقة مع العميل، مثل توقيت التواصل، وسرعة ردودك، وحتى سرعة ردودهم عليك. يستخدم Dynamics 365 Sales Insights الذكاء الاصطناعي لمساعدتك في بناء علاقات جيدة مع العملاء والحفاظ عليها.
 

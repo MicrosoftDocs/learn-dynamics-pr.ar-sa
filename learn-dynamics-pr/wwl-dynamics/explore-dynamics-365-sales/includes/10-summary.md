@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b49736e502b319322cf7f929941df311220e0ae7
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: ac5d16f15fda4509fefb2625d40ad6be45be1ecc
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361383"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8615121"
 ---
 كما ترى، باستخدام Dynamics 365 Sales، تمتلك المؤسسات الأدوات اللازمة للتحكم في عملية دورة حياة المبيعات بالكامل وإدارتها. سواء كان موظفو المبيعات يبحثون عن طرق أكثر كفاءة لإنشاء سجلات فرص المبيعات، أو يحتاج مديرو المبيعات إلى رؤية وإدارة أفضل لدورة حياة المبيعات، فإن أدوات إدارة المبيعات المتوفرة في Dynamics 365 Sales تساعد طوال العملية بأكملها. 
 
@@ -43,7 +43,7 @@ ms.locfileid: "8361383"
 
 ### <a name="power-apps"></a>Power Apps 
 
-- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الويب](/powerapps/webinars-listing) 
+- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الإنترنت](/powerapps/webinars-listing) 
 
 - [تحديثات المنتج](https://powerapps.microsoft.com/blog/category/new-features/) 
 
@@ -60,3 +60,12 @@ ms.locfileid: "8361383"
 - [https://powerplatform.com/](https://powerplatform.com/ ) 
 
  
+## <a name="for-further-study"></a>لمزيد من الدراسة
+
+- [العمل باستخدام Dynamics 365 Sales Professional](/learn/paths/working-with-dynamics-sales-professional/)
+
+- [إدارة العملاء المتوقعين باستخدام Dynamics 365 Sales](/learn/modules/manage-leads-dynamics-365-sales/)
+
+- [إدارة الفرص باستخدام Dynamics 365 Sales](/learn/modules/manage-opportunities-dynamics-365-sales/)
+
+- [معالجة أوامر المبيعات باستخدام Dynamics 365 Sales](/learn/modules/process-sales-orders-dynamics-365-sales/)

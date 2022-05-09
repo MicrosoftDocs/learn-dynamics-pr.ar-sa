@@ -4,17 +4,17 @@ title: تحديد موقع البيانات وتصفيتها
 metadata:
   title: تحديد موقع البيانات وتصفيتها
   description: تحديد موقع البيانات وتصفيتها
-  ms.date: 03/09/2022
+  ms.date: 04/19/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: d5967aed62194750d7bedcb31cf73dc5202108ff
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 8c24e4d8830884432e8bcf6b351b812e9f209e69
+  ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400017"
+  ms.lasthandoff: 04/19/2022
+  ms.locfileid: "8615607"
 azureSandbox: false
 labModal: false
 durationInMinutes: 5

@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: ‏التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 03/09/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: fa604c83476603a4e156274393c7602d352d9ed3
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 9aa80c4ff82e9179c1399d8f60694388e3834e90
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8400185"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8632803"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -45,14 +45,14 @@ quiz:
     - content: أقسام معلومات العميل كما تظهر في النماذج
       isCorrect: false
       explanation: غير صحيح. هذه الإجابة غير صحيحة لأن المقاطع في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة.
-  - content: أي من التطبيقات التالية يقترن مع Dynamics 365 Marketing لإنشاء استطلاعات عبر الإنترنت وتحليل النتائج؟
+  - content: أي مما يلي مشمول في تسجيل نقاط العميل المتوقع؟
     choices:
-    - content: Dynamics 3656 Customer Voice
+    - content: تفاصيل وسائل التواصل الاجتماعي.
+      isCorrect: false
+      explanation: غير صحيح.‬ هذا غير صحيح لأن نقاط العميل المتوقع تعتمد على التفاعلات مع موقع الشركة على الويب، ولكنها لا تحسب في محتوى أو سلوك وسائل التواصل الاجتماعي العامة.
+    - content: التفاعل مع المنافس.
+      isCorrect: false
+      explanation: غير صحيح.‬ هذا غير صحيح لأن نقاط العميل المتوقع تعتمد على التفاعلات مع مؤسستك.
+    - content: التفاعلات مع مؤسستك.
       isCorrect: true
-      explanation: صحيح. يتم تجميع Customer Voice مع Dynamics 365 Marketing
-    - content: Dynamics 365 Customer Insights
-      isCorrect: false
-      explanation: غير صحيح. لا يتم تجميع Customer Insights مع Dynamics 365 Marketing. فهو يوحد مصادر متعددة لبيانات العملاء الداخلية والخارجية في ملف تعريف شامل واحد للعميل.
-    - content: LinkedIn Campaign Manager
-      isCorrect: false
-      explanation: غير صحيح. لا يتم تجميع LinkedIn Campaign Manager مع Dynamics 365 Marketing. فهو يقوم باستيراد العملاء المتوقعين الذين تم إنشاؤهم باستخدام أدوات LinkedIn الرئيسية إلى Dynamics 365.
+      explanation: صحيح. هذا صحيح لأن تسجيل نقاط العميل المتوقع يعتمد على إجراءات مثل زيارة موقع الشركة على الويب أو إرسال نموذج أو حضور حدث.

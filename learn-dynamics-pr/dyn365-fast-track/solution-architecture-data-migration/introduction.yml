@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-data-migration.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تعرّف على كيفية كون ترحيل البيانات جزءاً أساسياً من أي تطبيق.
+  ms.date: 04/18/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1e4bc8ec46123121044e7d881c95517a34fa5c00
+  ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/21/2022
+  ms.locfileid: "8629513"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/introduction.md)]"

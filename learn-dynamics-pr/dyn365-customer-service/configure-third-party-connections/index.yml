@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn-dynamics.configure-third-party-connections
 metadata:
-  title: إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء
-  description: تعرف على كيفية إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء في Microsoft Dynamics 365 Customer Insights.
+  title: إدارة الاتصالات الخارجية باستخدام Customer Insights
+  description: تعرّف على كيفية إدارة الاتصالات الخارجية باستخدام Microsoft Dynamics 365 Customer Insights.
   ms.date: 12/13/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 546349b51b80a84f5f15511c6b8b937fffc90ba5
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: 164c6f675a8531b824235f22649300233796c099
+  ms.sourcegitcommit: d4e337fec838090ba1f4f09b61e2651be90b2b54
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933593"
-title: إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء
-summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إدارة الاتصالات الخارجية مع النظام الأساسي لبيانات العملاء.\n"
+  ms.lasthandoff: 04/13/2022
+  ms.locfileid: "8572613"
+title: إدارة الاتصالات الخارجية باستخدام Customer Insights
+summary: "[!include[](../includes/module-banner.md)] \nتعرّف على كيفية إدارة الاتصالات الخارجية باستخدام Customer Insights.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصدير بيانات Customer Insights.\n- عرض بيانات العميل في تطبيقات Microsoft Dynamics 365.\n- استخدام Customer Insights مع Microsoft Power Platform.\n- استخدام Customer Insights مع Microsoft Azure Synapse Analytics.\n- استخدام واجهات برمجة التطبيقات (API) من Customer Insights.\n"
 prerequisites: لا شيء
 iconUrl: /learn/achievements/configure-third-party-connections.svg

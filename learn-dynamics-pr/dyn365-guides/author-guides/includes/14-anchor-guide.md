@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d6e01059e3fce41dee8d7770f947dfaee469c233
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: c1fe774b87e0488aab46498a7928dcd03f9e36ac
+ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587031"
+ms.lasthandoff: 04/26/2022
+ms.locfileid: "8633020"
 ---
 عندما تفتح دليلاً في تطبيق Microsoft Dynamics 365 Guides HoloLens، فإن أول شيء تراه هو إرشادات التثبيت التي تم إنشاؤها في تطبيق الكمبيوتر الشخصي Dynamics 365 Guides. تعتمد الطريقة التي تستخدمها لتثبيت الدليل على نوع المرساة التي تم إنشاؤها في تطبيق الكمبيوتر الشخصي. 
 
@@ -63,6 +63,3 @@ ms.locfileid: "7587031"
 
 ## <a name="re-anchor-a-guide"></a>إعادة إرساء دليل
 عند إرساء دليلك، يتم تخزين معلومات التثبيت على HoloLens الخاص بك. لذلك، لا يتعين عليك إعادة إرساء الدليل في كل مرة تفتحه. ومع ذلك، يمكنك استخدام زر **إرساء** لإعادة إرساء دليل في أي وقت، إذا شعرت أن الصور المجسمة خارج المحاذاة. لمزيد من المعلومات، راجع وحدة **وضع الصور المجسمة وإضافة الأنماط والمزيد** في هذه الوحدة.
-
-> [!NOTE]
-> للمساعدة في ضمان وضع المحتوى ثلاثي الأبعاد بدقة، قد تضطر إلى ضبط إزاحة الجهاز على أجهزة HoloLens 1. لمزيد من المعلومات، راجع قسم **كيف أعالج إزاحة الأجهزة في أجهزة HoloLens ‏1 لضمان دقة وضع الصور المجسمة لمحاذاة المرساة المطبوعة** في [المشكلات المعروفة في تطبيق Dynamics 365 Guides HoloLens](/dynamics365/mixed-reality/guides/known-issues-hololens-app/?azure-portal=true).

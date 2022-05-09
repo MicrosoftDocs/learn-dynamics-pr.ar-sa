@@ -3,17 +3,17 @@ uid: learn.wwl.examine-reporting-apps
 metadata:
   title: افحص إدارة المعرفة في Dynamics 365 Customer Service والتطبيقات ذات الصلة
   description: افحص إدارة المعرفة في Dynamics 365 Customer Service والتطبيقات ذات الصلة
-  ms.date: 03/10/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: e2c5a4b9c58aa49244a83168e975b6721aace39e
-  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.openlocfilehash: 6ddf83f3fe5d9c4e398721db346bd5ec8918a186
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/11/2022
-  ms.locfileid: "8403498"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8632912"
 title: افحص إدارة المعرفة في Dynamics 365 Customer Service والتطبيقات ذات الصلة
 summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة المعرفة في Dynamics 365 Customer Service.  كما أنها تغطي Omnichannel for Customer Service والتحليلات السابقة.
 abstract: >

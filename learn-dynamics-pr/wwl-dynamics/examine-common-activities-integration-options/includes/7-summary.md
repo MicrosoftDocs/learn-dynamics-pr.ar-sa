@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ea381b96f1f7beb3ff3f7793d6113bf215d49337
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 06bbfb2a3aa4e2bb39a6e647a46b67b098591e24
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361372"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8614887"
 ---
 كما ترى، فإن الميزات الشائعة المُشاركة عبر جميع تطبيقات تفاعل العملاء تضمن أنك تعمل في تجربة متسقة بغض النظر عن المهمة التي تقوم بها. من توفير طريقة متسقة لإدارة العملاء والأنشطة عبر التطبيقات المختلفة، إلى خيارات التقارير والتكامل المتاحة، توفر تطبيقات Dynamics 365 CRM مجموعة أساسية من الميزات التي يمكن استخدامها بسهولة عبر جميع التطبيقات. 
 
@@ -26,19 +26,19 @@ ms.locfileid: "8361372"
 
 ### <a name="microsoft-business-applications"></a>Microsoft Business Applications
 
-- [https://www.microsoft.com/itshowcase/business-applications](https://www.microsoft.com/itshowcase/business-applications)
+- [عرض تكنولوجيا المعلومات](https://www.microsoft.com/itshowcase/business-applications)
 
  
 
 ### <a name="microsoft-power-platform"></a>Microsoft Power Platform
 
-[Power Apps](https://powerapps.microsoft.com/) | [Power Automate](https://powerautomate.microsoft.com/) | [Power BI](https://powerbi.microsoft.com/)| [Power Virtual Agents](https://powervirtualagents.microsoft.com/)
+-  [Power Apps](https://powerapps.microsoft.com/) | [Power Automate](https://powerautomate.microsoft.com/) | [Power BI](https://powerbi.microsoft.com/)| [Power Virtual Agents](https://powervirtualagents.microsoft.com/)
 
  
 
 ### <a name="dynamics-365"></a>Dynamics 365
 
-- [موقع الويب](https://dynamics.microsoft.com/) | [مدونة فريق Dynamics 365 ](https://community.dynamics.com/365/b/365teamblog) | [الوثائق](https://docs.microsoft.com/) | [الأحداث](https://dynamics.microsoft.com/events/) 
+- [موقع الويب](https://dynamics.microsoft.com/) | [مدونة Dynamics 365 Team ](https://community.dynamics.com/365/b/365teamblog) | [الوثائق](https://docs.microsoft.com/) | [الأحداث](https://dynamics.microsoft.com/events/) 
 
 - [المجتمع](https://community.dynamics.com/) 
 
@@ -64,8 +64,18 @@ ms.locfileid: "8361372"
 
 - [https://appsource.microsoft.com/](https://appsource.microsoft.com/)
 
- 
+
 
 ### <a name="microsoft-office"></a>Microsoft Office
 
 - [موقع الويب](https://products.office.com/home) | [التدريب](https://support.office.com/office-training-center?ms.officeurl=training) | [منتجات](https://products.office.com/products)
+
+
+
+## <a name="for-further-study"></a>لمزيد من الدراسة
+
+-  [بحث متقدم](/powerapps/user/advanced-find) 
+
+-  [طرق العرض](/powerapps/maker/model-driven-apps/create-edit-views) 
+
+-  [تكامل Teams](/dynamics365/teams-integration/teams-integration) 

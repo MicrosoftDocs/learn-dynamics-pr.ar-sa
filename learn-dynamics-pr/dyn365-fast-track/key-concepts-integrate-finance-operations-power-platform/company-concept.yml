@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.key-concepts-integrate-finance-operations-power-platform.company-concept
+title: مفهوم الشركة
+metadata:
+  title: مفهوم الشركة
+  description: تعرّف على اختلاف مفهوم الشركة (ما تقوم به الشركة أو تشير إليه) اعتماداً على التطبيق الذي تهتم به.
+  ms.date: 04/20/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: bc3006d72c79ba612f64bb6fb4505214a7733974
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633627"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/company-concept.md)]"

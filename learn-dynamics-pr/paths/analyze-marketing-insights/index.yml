@@ -3,17 +3,17 @@ uid: learn-dynamics.analyze-marketing-insights
 metadata:
   title: تحليل المعلومات في Dynamics 365 Marketing
   description: ركّز على تقييم التحليلات ومؤشرات الأداء الرئيسية لجهودك التسويقية للمساعدة في فهم التأثير والأساليب الأفضل لجمهورك المستهدف. يُغطي مسار التعلم مراجعة المعلومات المأخوذة من جهات الاتصال والعملاء المتوقعين والحسابات والشرائح وغيره. كما يُغطي التقويمات على مستوى الكيان ومستوى النموذج إضافة إلى إنشاء تقويمات تسويقية وتخصيصها.
-  ms.date: 10/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 04/13/2022
+  author: KevinSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-marketing
-  ms.openlocfilehash: 31565e0ce3205f8e18e8a3a8e43c6903735ea678
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f4a9ede98389c13022e17ccd51375097f0f69259
+  ms.sourcegitcommit: f1edd68593714c43b73e22542ea7e7e5d90fb34a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7437322"
+  ms.lasthandoff: 04/14/2022
+  ms.locfileid: "8573898"
 title: تحليل المعلومات في Dynamics 365 Marketing
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -25,7 +25,6 @@ iconUrl: /learn/achievements/analyze-marketing-insights.svg
 levels:
 - intermediate
 roles:
-- administrator
 - functional-consultant
 - business-user
 products:

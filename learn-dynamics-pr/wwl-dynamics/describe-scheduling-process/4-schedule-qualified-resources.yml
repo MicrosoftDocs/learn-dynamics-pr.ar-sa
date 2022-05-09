@@ -4,17 +4,17 @@ title: جدولة الموارد المؤهلة
 metadata:
   title: جدولة الموارد المؤهلة
   description: جدولة الموارد المؤهلة
-  ms.date: 03/10/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 959681f156d4f6cb735628982fcb4bfb4eb81509
-  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.openlocfilehash: 60615d48c3c056bca5fe02f3d3c7da6fa6ab95b6
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/11/2022
-  ms.locfileid: "8403314"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633287"
 azureSandbox: false
 labModal: false
 durationInMinutes: 7

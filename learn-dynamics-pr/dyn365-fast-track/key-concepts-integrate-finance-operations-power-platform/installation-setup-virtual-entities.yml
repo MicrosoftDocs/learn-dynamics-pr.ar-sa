@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.key-concepts-integrate-finance-operations-power-platform.installation-setup-virtual-entities
+title: تثبيت الكيانات الافتراضية وإعدادها
+metadata:
+  title: تثبيت الكيانات الافتراضية وإعدادها
+  description: تعرّف على كيفية تثبيت الكيانات الافتراضية وإعدادها.
+  ms.date: 04/20/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6cd1fe8acce4f2c2882a4ea203db1ae907d849d9
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633630"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/installation-setup-virtual-entities.md)]"

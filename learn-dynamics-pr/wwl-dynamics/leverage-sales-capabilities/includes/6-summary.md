@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: a17f90ab14c75cfa8cbec9ac5e6484ffe413f1ab
-ms.sourcegitcommit: 32fba769d30f707adde8f3b6160e3c105e74f43e
+ms.openlocfilehash: 0bed7df3e967eb42a42ed02f83d37769c897556b
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8360185"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8615058"
 ---
-كما ترى، من خلال استكمال إدارة دورة حياة المبيعات وإمكانات أتمتة المبيعات في Dynamics 365 Sales مع تطبيقات مثل LinkedIn Sales Navigator وSales Insights، يمكنك إنشاء حل بيع متكيف لمساعدتك على بناء علاقات مستدامة طويلة الأمد مع عملائك. 
+كما ترى، من خلال استكمال إدارة دورة حياة المبيعات وإمكانات التشغيل التلقائي للمبيعات في Dynamics 365 Sales مع تطبيقات مثل LinkedIn Sales Navigator وSales Insights، يمكنك إنشاء حل بيع متكيف لمساعدتك على بناء علاقات مستدامة طويلة الأمد مع عملائك. 
 
 في هذه الوحدة، قدمنا الميزات والإمكانات الأخرى التي يمكن استخدامها مع Dynamics 365 Sales. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "8360185"
 
 ### <a name="power-apps"></a>Power Apps
 
-- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الويب](/powerapps/webinars-listing) 
+- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الإنترنت](/powerapps/webinars-listing) 
 
 - [تحديثات المنتج](https://powerapps.microsoft.com/blog/category/new-features/) 
 
@@ -49,3 +49,9 @@ ms.locfileid: "8360185"
 **Microsoft Power Platform**
 
 -  [https://powerplatform.com/](https://powerplatform.com/) 
+
+## <a name="for-further-study"></a>لمزيد من الدراسة
+
+- [إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales](/learn/modules/manage-relationships-social-selling-dynamics-365-sales/)
+
+- [العمل مع Dynamics 365 Sales Insight](/learn/paths/work-sales-insights/)

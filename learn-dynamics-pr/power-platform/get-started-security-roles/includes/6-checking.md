@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 2b6496d2a7e75bec576dc6825a297193060ef32e
-ms.sourcegitcommit: 9adc0b78e181986a042bb4a7b22fe7aae27b62ba
+ms.openlocfilehash: e03947828a71c512be61a4b3043e7165384f376c
+ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/16/2022
+ms.lasthandoff: 04/26/2022
 ms.locfileid: "8453814"
 ---
 يُعد التحقق من الأدوار التي ينتسب إليها المستخدم أمراً بسيطاً ويمكنك القيام بذلك من داخل Power Apps باتباع الخطوات التالية:
 
-1.  سجِّل الدخول إلى [إدارة Power Apps](https://admin.powerplatform.microsoft.com/) كمسؤول.
+1.  سجل الدخول إلى Power Apps كمسؤول.
 
 2.  افتح خيار **البيئات** على الجانب الأيسر من الصفحة.
 

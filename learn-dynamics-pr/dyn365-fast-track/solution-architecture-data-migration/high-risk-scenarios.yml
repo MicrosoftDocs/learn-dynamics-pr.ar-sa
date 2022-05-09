@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-data-migration.high-risk-scenarios
+title: سيناريوهات عالية المخاطرة
+metadata:
+  title: سيناريوهات عالية المخاطرة
+  description: تعرّف على السيناريوهات عالية المخاطرة التالية عند إجراء ترحيل البيانات.
+  ms.date: 04/18/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 34dbc5566266588bb955d78a2f359cb1e8de38e7
+  ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 04/21/2022
+  ms.locfileid: "8629531"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/high-risk-scenarios.md)]"

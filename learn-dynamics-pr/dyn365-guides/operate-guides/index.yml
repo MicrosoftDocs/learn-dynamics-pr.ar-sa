@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8ee4e2427878e48bf877a637c2fcc50624e7a359
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1e7b83fd9fe1fdf9dc7b83635f53515f1bc1ef10
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7587066"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8632822"
 title: تشغيل أحد الأدلة في Dynamics 365 Guides
 summary: "[!include[](../includes/module-banner.md)] \nيساعدك Dynamics 365 Guides في الحفاظ على الصدارة وأدواتك في متناول يديك أثناء اتباعك لإرشادات التصوير المجسم خطوة بخطوة لإنجاز مهامك.\n"
 abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- استخدم الإيماءات للتنقل في دليل ما. \n- معايرة جهاز HoloLens الخاص بك.\n- تثبيت تطبيق HoloLens وتسجيل الدخول إليه.\n- ارتساء دليل ما وتشغيله.\n- العمل دون اتصال كعامل.\n"
@@ -30,8 +30,6 @@ products:
 - hololens
 units:
 - learn-dynamics.operate-guides.01-introduction
-#- learn-dynamics.operate-guides.05-gestures-1
-#- learn-dynamics.operate-guides.02-calibrate-hololens-1
 - learn-dynamics.operate-guides.06-gestures-2
 - learn-dynamics.operate-guides.03-calibrate-hololens-2
 - learn-dynamics.operate-guides.04-install

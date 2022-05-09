@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 174fc391f359ee51d9ba9defb6bc63f6fcff4062
-ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+ms.openlocfilehash: aa0237b25e6472cda749d6d81a6fc0ee7183ce59
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "8325167"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8614860"
 ---
 عرضت هذه الوحدة إمكانات إدارة الجدولة والأصول في Dynamics 365 Field Service. 
 
@@ -40,7 +40,7 @@ ms.locfileid: "8325167"
 
 ### <a name="power-apps"></a>Power Apps 
 
-- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الويب](/powerapps/webinars-listing)
+- [موقع الويب](https://powerapps.microsoft.com/) **|** [المدونة](https://powerapps.microsoft.com/blog/) **|** [المستندات](https://powerapps.microsoft.com/tutorials/getting-started/) **|** [المجتمع](https://aka.ms/powerapps-community) **|** [اقتراح أفكار](https://aka.ms/powerapps-ideas) **|** [ندوات الإنترنت](/powerapps/webinars-listing)
 
 - [تحديثات المنتج](https://powerapps.microsoft.com/blog/category/new-features/)
 
@@ -55,5 +55,11 @@ ms.locfileid: "8325167"
 ### <a name="microsoft-power-platform"></a>Microsoft Power Platform
 
 - [https://powerplatform.com/](https://powerplatform.com/)
+
+
+
+## <a name="for-further-study"></a>لمزيد من الدراسة
+
+- [إدارة خيارات الجدولة في Dynamics 365 Field Service](/learn/modules/manage-scheduling-options-urs-dynamics-field-service/)
 
  

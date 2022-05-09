@@ -4,17 +4,17 @@ title: الوصول إلى تطبيقات إشراك العملاء في Dynamic
 metadata:
   title: الوصول إلى تطبيقات إشراك العملاء في Dynamics 365
   description: الوصول إلى تطبيقات إشراك العملاء في Dynamics 365
-  ms.date: 03/09/2022
+  ms.date: 04/19/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: a9fb2bdc1950e82075f7af16d5689cd91eadebee
-  ms.sourcegitcommit: d46fae87c3e4ec6a8e74db6db3cfb06dca45db66
+  ms.openlocfilehash: 986f70aadad3857674360b3b922417a3bcf75f11
+  ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/09/2022
-  ms.locfileid: "8399953"
+  ms.lasthandoff: 04/19/2022
+  ms.locfileid: "8615472"
 azureSandbox: false
 labModal: false
 durationInMinutes: 9

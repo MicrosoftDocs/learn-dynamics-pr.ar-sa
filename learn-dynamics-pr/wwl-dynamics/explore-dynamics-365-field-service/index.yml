@@ -3,17 +3,17 @@ uid: learn.wwl.explore-dynamics-365-field-service
 metadata:
   title: استكشاف Dynamics 365 Field Service
   description: استكشاف Dynamics 365 Field Service
-  ms.date: 03/10/2022
+  ms.date: 04/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-field-service
-  ms.openlocfilehash: eecc7f68f71a4339b5302439c1fb12de7c66c40a
-  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.openlocfilehash: a744875717d7f283992e190a6830b8f5bc3a1690
+  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/11/2022
-  ms.locfileid: "8403242"
+  ms.lasthandoff: 04/26/2022
+  ms.locfileid: "8633029"
 title: استكشاف Dynamics 365 Field Service
 summary: تقدم هذه الوحدة النمطية للمتعلمين Dynamics 365 Field Service، مع التركيز على أوامر العمل وعمليات الفحص.
 abstract: >

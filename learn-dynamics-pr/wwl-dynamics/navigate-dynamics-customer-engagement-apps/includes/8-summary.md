@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 980ac5aa5316be8c65202757a5b16e3bd85d635a
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 8e5ca859bd12a4f4652ea6a58260175bb00c8f48
+ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361351"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "8615338"
 ---
 كما ترى، تضمن الإمكانات الأساسية المتوفرة في تطبيقات Dynamics 365 CRM أن لديك خبرة عمل متسقة بغض النظر عن المهمة التي تقوم بها. من تطبيقات المبيعات والتسويق المصممة للمساعدة في تحديد العملاء المحتملين وتحويلهم إلى علاقات طويلة الأمد، إلى التطبيقات المصممة للمساعدة في خدمة العملاء، تضمن تطبيقات Dynamics 365 CRM أن لديك الأدوات اللازمة لإشراك عملائك بشكل كامل عبر جميع جوانب عملك. 
 
@@ -28,7 +28,7 @@ ms.locfileid: "8361351"
 
 ### <a name="microsoft-business-applications"></a>Microsoft Business Applications
 
- -  [https://www.microsoft.com/itshowcase/business-applications](https://www.microsoft.com/itshowcase/business-applications)
+ -  [عرض تكنولوجيا المعلومات](https://www.microsoft.com/itshowcase/business-applications)
 
 ### <a name="dynamics-365"></a>Dynamics 365
 
@@ -51,10 +51,10 @@ ms.locfileid: "8361351"
  -  [Field Service](/dynamics365/field-service/user-guide)
  
  -  [Marketing](/dynamics365/marketing/help-hub)
- 
+
  -  [Project Service Automation](/dynamics365/project-service/overview)
  
- -  [خدمة العملاء](/dynamics365/customer-service/help-hub)
+ -  [Customer Service](/dynamics365/customer-service/help-hub)
 
 ### <a name="microsoft-appsource"></a>Microsoft AppSource
 
@@ -67,3 +67,21 @@ ms.locfileid: "8361351"
  -  [التدريب](https://support.office.com/office-training-center?ms.officeurl=training)
  
  -  [المنتجات](https://products.office.com/products)
+
+ ## <a name="for-further-study"></a>لمزيد من الدراسة
+
+ ### <a name="microsoft-dataverse"></a>Microsoft Dataverse
+
+ -  [مقدمة إلى Microsoft Dataverse](/learn/modules/introduction-common-data-service/)
+  
+ -  [البدء باستخدام Microsoft Dataverse](/learn/paths/get-started-cds/)
+ 
+
+### <a name="search-and-filter-data"></a>البحث في البيانات وتصفيتها
+
+-  [البحث](/powerapps/user/search)
+
+-  [عوامل تصفية](/powerapps/maker/model-driven-apps/create-edit-view-filters) 
+
+-  [تصدير من Excel](/powerapps/user/export-data-excel) 
+
