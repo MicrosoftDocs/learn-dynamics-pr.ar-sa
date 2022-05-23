@@ -3,49 +3,49 @@ uid: learn-dynamics.build-power-app-component.4-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 07/29/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 239371662d0023d7c592b683ea355383a143d1dc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b9847a401e1bf95fb9ccf96b8b92980b19f3fa0e
+  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457485"
+  ms.lasthandoff: 05/03/2022
+  ms.locfileid: "8666588"
 durationInMinutes: 5
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: أي أسلوب من Power Apps CLI تقوم باستدعائه لتهيئة مشروع مكون التعليمات البرمجية؟
+  - content: ما هو أمر Power Platform CLI الذي تستخدمه لتهيئة مشروع مكون التعليمات البرمجية؟
     choices:
     - content: pac pcf init
       isCorrect: true
-      explanation: الأسلوب الذي تستدعيه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
+      explanation: الأمر الذي قد تستخدمه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
     - content: pac pcf new
       isCorrect: false
-      explanation: الأسلوب الذي تستدعيه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
+      explanation: الأمر الذي قد تستخدمه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
     - content: npm start
       isCorrect: false
-      explanation: الأسلوب الذي تستدعيه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
+      explanation: الأمر الذي قد تستخدمه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
     - content: pac pcf
       isCorrect: false
-      explanation: الأسلوب الذي تستدعيه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
-  - content: ما بناء محرك الذي يُستخدم لإنشاء حزمة حل مكوّن Power Apps؟
+      explanation: الأمر الذي قد تستخدمه لتهيئة مشروع مكون التعليمات البرمجية هو pac pcf init.
+  - content: ما محرك الإنشاء الذي يُستخدم لإنشاء حزمة حل مكوّن Power Apps؟
     choices:
-    - content: NPM
+    - content: npm
       isCorrect: false
-      explanation: محرك الإصدار MSBuild الذي يُستخدم لإنشاء حزمة حل مكوّن Power Apps.
+      explanation: يُستخدم محرك الإنشاء MSBuild لإنشاء حزمة حل مكوّن Power Apps.
     - content: .NET
       isCorrect: false
-      explanation: محرك الإصدار MSBuild الذي يُستخدم لإنشاء حزمة حل مكوّن Power Apps.
+      explanation: يُستخدم محرك الإنشاء MSBuild لإنشاء حزمة حل مكوّن Power Apps.
     - content: Node.js
       isCorrect: false
-      explanation: محرك الإصدار MSBuild الذي يُستخدم لإنشاء حزمة حل مكوّن Power Apps.
+      explanation: يُستخدم محرك الإنشاء MSBuild لإنشاء حزمة حل مكوّن Power Apps.
     - content: MSBuild
       isCorrect: true
-      explanation: محرك الإصدار MSBuild الذي يُستخدم لإنشاء حزمة حل مكوّن Power Apps.
+      explanation: يُستخدم محرك الإنشاء MSBuild لإنشاء حزمة حل مكوّن Power Apps.
   - content: أثناء إنشاء مكون شبكة مخصص، ما تنسيق الملف المدعوم لتحميل بيانات وهمية في Power Apps Component Test Harness؟
     choices:
     - content: CSV

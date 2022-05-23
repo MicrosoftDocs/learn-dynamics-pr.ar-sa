@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-finance-insights.set-up-finance-insights
+title: إعداد Finance Insights
+metadata:
+  title: إعداد Finance Insights
+  description: تعرف على خطوات إعداد Finance Insights.
+  ms.date: 04/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9ec107eeafe6ec87b1131b9a3c9550ab4ceb4e90
+  ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/05/2022
+  ms.locfileid: "8716150"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/set-up-finance-insights.md)]"

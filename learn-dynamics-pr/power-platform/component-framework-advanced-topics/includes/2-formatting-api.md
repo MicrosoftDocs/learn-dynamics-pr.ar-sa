@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 31c455e9aaeaf0c8778da7ef798cdca896d8e2249cf226dbdc795fd920458a64
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6343b0f8c9eda8d9fae471f71de989da386a26cd
+ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7457343"
+ms.lasthandoff: 05/03/2022
+ms.locfileid: "8666562"
 ---
 يكشف Power Apps component framework عن واجهة API للتنسيق يمكن أن تكون مفيدة بشكل خاص عندما تحتاج إلى تنسيق قيم مختلفة في التطبيق الخاص بك. توضح هذه الوحدة كيفية استخدام واجهة برمجة التطبيقات هذه من خلال إنتاج جدول HTML لتوضيح كيفية استخدام الطرق المختلفة.
 
@@ -13,18 +13,44 @@ ms.locfileid: "7457343"
 ### <a name="initialize-your-components-project"></a>تهيئة مشروع المكون الخاص بك
 لتهيئة مشروع المكون الخاص بك، اتبع الخطوات التالية:
 
-1.  قم بتهيئة المشروع عن طريق تشغيل الأمر التالي:
+1.  ابدأ تشغيل Visual Studio Code.
+2.  حدد "وحدة طرفية"، ثم حدد "وحدة طرفية جديدة".
+3.  شغّل الأمر التالي لإنشاء دليل جديد يسمى Formatting-API.
 
-    ```azurepowershell
+    ```console
+    md Formatting-API
+    ```
+
+4.  شغّل الأمر التالي للتبديل إلى الدليل الجديد.
+   
+    ```console
+    cd Formatting-API
+    ```
+
+5.  تهيئة المشروع عن طريق تشغيل الأمر التالي:
+
+    ```console
     pac pcf init --namespace SampleNamespace --name FormattingAPI --template field
     ```
 
-2.  قم بتشغيل npm install لتحميل مكتبات مستقلة في المشروع.
+6.  قم بتشغيل npm install لتحميل مكتبات مستقلة في المشروع.
+   
+    ```console
+    npm install
+    ```
 
-### <a name="implement-your-code-components-logic"></a>قم بتنفيذ منطق مكون الأكواد الخاص بك
-لتنفيذ منطق مكون الأكواد، اتبع الخطوات التالية:
+7. افتح المشروع في Visual Studio Code عن طريق تشغيل الأمر التالي:
 
-1.  افتح ملف البيان الخاص بمكون الأكواد (ControlManifest.Input.xml) واستبدله بالمنطق التالي:
+    ```console
+    code -a .
+    ```
+   
+   
+
+### <a name="implement-your-code-components-logic"></a>تنفيذ منطق مكون التعليمات البرمجية
+لتنفيذ منطق مكون التعليمات البرمجية، اتبع الخطوات التالية:
+
+1.  افتح ملف البيان الخاص بمكون التعليمات البرمجية (ControlManifest.Input.xml) واستبدله بـ XML التالي:
 
     ```xml
     <?xml version="1.0" encoding="utf-8" ?>
@@ -39,9 +65,9 @@ ms.locfileid: "7457343"
     </manifest>
     ```
 
-    ستقوم بإضافة ملفات الدعم الموجودة في هذا البيان لاحقًا.
+    ستقوم بإضافة ملفات الدعم الموجودة في هذا البيان لاحقاً.
 
-2.  قم بفتح ملف index.ts.
+2.  افتح الملف index.ts.
 
 3.  فوق الأسلوب constructor، أدخل المتغيرات الخاصة التالية:
 
@@ -396,8 +422,8 @@ ms.locfileid: "7457343"
         }
     ```
 
-### <a name="add-styling-to-your-code-component"></a>إضافة تصميم إلى مكون الأكواد
-لإضافة تصميم إلى مكون الأكواد، اتبع الخطوات الآتية:
+### <a name="add-styling-to-your-code-component"></a>إضافة تصميم إلى مكون التعليمات البرمجية‬
+لإضافة تصميم إلى مكون التعليمات البرمجية‬، اتبع الخطوات الآتية:
 
 1.  قم بإنشاء مجلد فرعي CSS جديد تحت المجلد FormattingAPI.
 
@@ -474,7 +500,15 @@ ms.locfileid: "7457343"
 ### <a name="build-and-run-your-component"></a>إنشاء المكون وتشغيله
 لإنشاء المكون وتشغيله، اتبع الخطوات التالية:
 
-1.  قم بإنشاء الحل عن طريق تشغيل npm run build.
+1.  أنشئ حلك عن طريق تشغيل الأمر التالي.
+   
+    ```
+    npm run build
+    ```
 
-2.  وبناء على إنشاء ناجح، يمكنك اختبار مكون واجهة برمجة التطبيقات للتنسيق الجديد عن طريق تشغيل npm start.
+2.  وبناء على إنشاء ناجح، يمكنك اختبار مكون واجهة برمجة التطبيقات (API) للتنسيق الجديد عن طريق تشغيل npm start.
+   
+    ```
+    npm start
+    ```
 

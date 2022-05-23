@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fe953ab35243997aa5faaee660bac9331a533eb4
-ms.sourcegitcommit: 55f65ebd396c4e82af244aeef45549679b570230
+ms.openlocfilehash: 870ecac83df428b64eaf51a21f4e3da3565db829
+ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "8324641"
+ms.lasthandoff: 05/03/2022
+ms.locfileid: "8666553"
 ---
 السيناريو الشائع أثناء تطوير المكونات هو الحاجة إلى التفاعل مع البيانات الموجودة في Microsoft Dataverse للحل الخاص بك.
 يكشف إطار عمل مكون Power Apps عن ميزة واجهة API الخاصة بالويب لتحقيق هذا المطلب. سيوضح هذا المثال كيفية تنفيذ عمليات CRUD المتنوعة باستخدام هذه الميزة.
@@ -12,16 +12,39 @@ ms.locfileid: "8324641"
 ### <a name="initialize-your-components-project"></a>تهيئة مشروع المكون الخاص بك
 لتهيئة مشروع المكون الخاص بك، اتبع الخطوات التالية:
 
-1.  قم بتهيئة المشروع عن طريق تشغيل الأمر التالي:
+1.  ابدأ تشغيل Visual Studio Code.
+2.  حدد "وحدة طرفية"، ثم حدد "وحدة طرفية جديدة".
+3.  شغّل الأمر التالي لإنشاء دليل جديد يسمى TS-Web-API.
 
-    ```azurepowershell
+    ```
+    md TS-Web-API
+    ```
+
+4.  شغّل الأمر التالي للتبديل إلى الدليل الجديد.
+   
+    ```
+    cd TS-Web-API
+    ```
+5.  تهيئة المشروع عن طريق تشغيل الأمر التالي:
+
+    ```
     pac pcf init --namespace SampleNamespace --name TSWebAPI --template field
     ```
 
-2.  قم بتشغيل npm install لتحميل مكتبات مستقلة في المشروع.
+6.  قم بتشغيل npm install لتحميل مكتبات مستقلة في المشروع.
+   
+    ```
+    npm install
+    ```
 
-### <a name="implement-your-code-components-logic"></a>قم بتنفيذ منطق مكون الأكواد الخاص بك
-لتنفيذ منطق مكون الأكواد، اتبع الخطوات التالية:
+7. افتح المشروع في Visual Studio Code عن طريق تشغيل الأمر التالي:
+
+    ```
+    code -a .
+    ```
+
+### <a name="implement-your-code-components-logic"></a>تنفيذ منطق مكون التعليمات البرمجية
+لتنفيذ منطق مكون التعليمات البرمجية، اتبع الخطوات التالية:
 
 1.  افتح ملف البيان الخاص بمكون الأكواد (ControlManifest.Input.xml) واستبدله بالمنطق التالي:
 
@@ -41,9 +64,9 @@ ms.locfileid: "8324641"
     </manifest>
     ```
 
-    ستقوم بإضافة ملفات الدعم الموجودة في هذا البيان لاحقًا.
+    ستقوم بإضافة ملفات الدعم الموجودة في هذا البيان لاحقاً.
 
-2.  قم بفتح ملف index.ts.
+2.  افتح الملف index.ts.
 
 3.  فوق أسلوب المنشئ، قم بإدراج المتغيرات الخاصة التالية لدعم عرض المكون الخاص بك:
 
@@ -71,7 +94,7 @@ ms.locfileid: "8324641"
         private _resultContainerDiv: HTMLDivElement;
     ```
 
-4.  قم بإضافة المتغيرات الثابتة الخاصة التالية فوق المنشئ للإشارة إلى الوحدة/الحقول التي سنتعامل معها في هذا المثال. إذا كنت ترغب في تجربة كيانات أو حقول مختلفة، فيمكنك ذلك من خلال تغيير القيم المعنية+.
+4.  أضف المتغيرات الثابتة الخاصة التالية فوق الدالة الإنشائية للإشارة إلى الكيان/الحقول التي ستتعامل معها في هذا المثال. إذا كنت ترغب في تجربة كيانات أو حقول مختلفة، فيمكنك القيام بذلك من خلال تغيير القيم المعنية+.
 
     ```csharp
         // Name of entity to use for example Web API calls that are performed by this control
@@ -251,11 +274,11 @@ ms.locfileid: "8324641"
             // Invoke the Web API to creat the new record
             this._context.webAPI.createRecord(TSWebAPI._entityName, data).then
                 (
-                    function (response: ComponentFramework.EntityReference) {
+                    function (response: ComponentFramework.LookupValue) {
                         // Callback method for successful creation of new record
     
                         // Get the ID of the new record created
-                        let id: string = response.id.guid;
+                        let id: string = response.id;
     
                         // Generate HTML to inject into the result div to showcase the fields and values of the new record that is created
                         let resultHtml: string = "Created new " + TSWebAPI._entityName + " record with below values:"
@@ -307,10 +330,10 @@ ms.locfileid: "8324641"
                             // Invoke the deleteRecord method of the WebAPI to delete the selected record
                             this._context.webAPI.deleteRecord(entityType, id).then
                                 (
-                                    function (response: ComponentFramework.EntityReference) {
+                                    function (response: ComponentFramework.LookupValue) {
                                         // Record was deleted successfully
-                                        let responseId: string = response.id.guid;
-                                        let responseEntityType: string = response.etn!;
+                                        let responseId: string = response.id;
+                                        let responseEntityType: string = response.name!;
     
                                         // Generate HTML to inject into the result div to showcase the deleted record 
                                         thisRef.updateResultContainerText("Deleted " + responseEntityType + " record with ID: " + responseId);
@@ -780,11 +803,11 @@ ms.locfileid: "8324641"
         // Invoke the Web API to creat the new record
         this._context.webAPI.createRecord(TSWebAPI._entityName, data).then
             (
-                function (response: ComponentFramework.EntityReference) {
+                function (response: ComponentFramework.LookupValue) {
                     // Callback method for successful creation of new record
 
                     // Get the ID of the new record created
-                    let id: string = response.id.guid;
+                    let id: string = response.id;
 
                     // Generate HTML to inject into the result div to showcase the fields and values of the new record that is created
                     let resultHtml: string = "Created new " + TSWebAPI._entityName + " record with below values:"
@@ -836,10 +859,10 @@ ms.locfileid: "8324641"
                         // Invoke the deleteRecord method of the WebAPI to delete the selected record
                         this._context.webAPI.deleteRecord(entityType, id).then
                             (
-                                function (response: ComponentFramework.EntityReference) {
+                                function (response: ComponentFramework.LookupValue) {
                                     // Record was deleted successfully
-                                    let responseId: string = response.id.guid;
-                                    let responseEntityType: string = response.etn!;
+                                    let responseId: string = response.id;
+                                    let responseEntityType: string = response.name!;
 
                                     // Generate HTML to inject into the result div to showcase the deleted record 
                                     thisRef.updateResultContainerText("Deleted " + responseEntityType + " record with ID: " + responseId);
@@ -1067,8 +1090,8 @@ ms.locfileid: "8324641"
 
 10. إذا كنت ترغب في عرض إصدار كامل من هذا الملف، فيمكنك العثور على واحد في ملفات الحل الخاصة بهذه الوحدة.
 
-### <a name="add-styling-to-your-code-component"></a>إضافة تصميم إلى مكون الأكواد
-لإضافة تصميم إلى مكون الأكواد، اتبع الخطوات الآتية:
+### <a name="add-styling-to-your-code-component"></a>إضافة تصميم إلى مكون التعليمات البرمجية‬
+لإضافة تصميم إلى مكون التعليمات البرمجية‬، اتبع الخطوات الآتية:
 
 1.  أنشئ مجلدًا فرعيًا CSS جديدًا تحت المجلد TSWebAPI.
 
@@ -1134,7 +1157,14 @@ ms.locfileid: "8324641"
 ### <a name="build-and-run-your-component"></a>إنشاء المكون وتشغيله
 لإنشاء المكون وتشغيله، اتبع الخطوات التالية:
 
-1.  قم بإنشاء الحل عن طريق تشغيل npm run build.
-
-2.  وبعد الإنشاء الناجح، يمكنك اختبار مكون واجهة API الخاص بالتنسيق الجديد عن طريق تشغيل npm start. لاختبار وظيفة واجهة API الخاصة بالويب، ستحتاج إلى نشر واستضافة المكون في بيئة Power Apps مباشرة. للحصول على مزيد من التفاصيل حول كيفية نشر مكونات Power Apps، راجع "تضمين مكون الاكواد" في وحدة *كتابة مكون Power Apps مخصص*.
+1.  أنشئ حلك عن طريق تشغيل الأمر التالي.
+   
+    ```
+    npm run build
+    ```
+2.  وبعد الإنشاء الناجح، يمكنك اختبار مكون واجهة API الخاص بالتنسيق الجديد عن طريق تشغيل npm start. لاختبار وظيفة واجهة API الخاصة بالويب، ستحتاج إلى نشر واستضافة المكون في بيئة Power Apps مباشرة. للحصول على المزيد من المعلومات حول كيفية نشر مكونات Power Apps، راجع "حزم مكون التعليمات البرمجية" في الوحدة النمطية *كتابة مكون Power Apps مخصص*.
+   
+    ```
+    npm start
+    ```
 

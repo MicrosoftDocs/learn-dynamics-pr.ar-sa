@@ -4,16 +4,16 @@ title: مقدمة إلى Power Apps component framework
 metadata:
   title: مقدمة إلى Power Apps component framework
   description: تعرف على Power Apps component framework.
-  ms.date: 5/12/2021
+  ms.date: 05/03/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 1e7d79c3286a00d7835782122251d518e4dfa478
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8f26e3731b551197c7830cc97235fc7d33b1c473
+  ms.sourcegitcommit: ec07eb1b745c5f0958e24ba3a8cb5115246c9db2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457432"
+  ms.lasthandoff: 05/04/2022
+  ms.locfileid: "8700734"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"

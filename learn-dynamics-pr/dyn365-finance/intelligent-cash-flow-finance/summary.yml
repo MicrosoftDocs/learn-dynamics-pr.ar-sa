@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.intelligent-cash-flow-finance.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: يعد التنبؤ الذكي بالتدفقات النقدية طريقة فعالة لجعل التنبؤ بالتدفقات النقدي أقل تعقيداً واستهلاكاً للوقت.
+  ms.date: 04/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d84ce6094bb6a28adad478c8cd5e64898fe4bcf0
+  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/03/2022
+  ms.locfileid: "8666944"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

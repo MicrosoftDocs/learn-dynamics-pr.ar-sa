@@ -4,16 +4,16 @@ title: أدوات مكون Power Apps
 metadata:
   title: أدوات مكون Power Apps
   description: تعرف على أدوات مكون Power Apps.
-  ms.date: 5/12/2021
+  ms.date: 05/03/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 60ec62dd174a0d5051382bc0d8b150d22ab94346
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d0116ae2e653217d1dd86758a12916ce0a8cb1b6
+  ms.sourcegitcommit: ec07eb1b745c5f0958e24ba3a8cb5115246c9db2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457499"
+  ms.lasthandoff: 05/04/2022
+  ms.locfileid: "8700902"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-tooling.md)]"

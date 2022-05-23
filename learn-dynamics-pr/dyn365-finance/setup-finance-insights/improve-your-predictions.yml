@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-finance-insights.improve-your-predictions
+title: تحسين توقعاتك
+metadata:
+  title: تحسين توقعاتك
+  description: اعرف كيفية تحسين نماذج التوقع عن طريق تحرير أجزاء من مجموعة البيانات التي لا تدعم التوقعات الدقيقة.
+  ms.date: 04/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ed746b365f5aa9cf57999b145ce28748bb0b21e5
+  ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/05/2022
+  ms.locfileid: "8716115"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/improve-your-predictions.md)]"

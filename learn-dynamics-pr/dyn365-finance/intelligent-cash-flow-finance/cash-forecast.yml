@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.intelligent-cash-flow-finance.cash-forecast
+title: التنبؤ بالنقد
+metadata:
+  title: التنبؤ بالنقد
+  description: اعرف كيفية استخدام أداة التنبؤ بالتدفقات النقدية‬ في Finance Insights لمراقبة رصيدك النقدي وإدارته باستخدام التعلم الآلي الذكي.
+  ms.date: 04/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e235001ef81fdfe8eb4814abc75f32c585397e63
+  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/03/2022
+  ms.locfileid: "8666945"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/cash-forecast.md)]"

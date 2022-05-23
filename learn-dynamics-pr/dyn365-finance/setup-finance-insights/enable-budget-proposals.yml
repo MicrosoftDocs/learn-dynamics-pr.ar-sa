@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-finance-insights.enable-budget-proposals
+title: تمكين مقترحات الموازنة
+metadata:
+  title: تمكين مقترحات الموازنة
+  description: اعرف كيفية تشغيل ميزة مقترح الموازنة في Finance Insights.
+  ms.date: 04/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 651f9ae4fefc8d9a74017c19854e821bc5117002
+  ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/05/2022
+  ms.locfileid: "8716051"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/enable-budget-proposals.md)]"

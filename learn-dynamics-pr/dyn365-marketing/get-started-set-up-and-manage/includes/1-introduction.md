@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f40435f2fd74e8b59b18bceff48a02725eb56666
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 38fb0e4cc6ff6dd5d28e7d4e519aae007c698de0
+ms.sourcegitcommit: ec07eb1b745c5f0958e24ba3a8cb5115246c9db2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7435519"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8700884"
 ---
 إن Dynamics 365 Marketing هو تطبيق أتمتة التسويق. يمتاز بسهولة استخدامه، ويعمل بطريقة سلسلة مع Dynamics 365 for Sales، ويتضمن معلومات مهنية مدمجة فيه. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "7435519"
 
 - **إدارة الأحداث** - تنظيم الأحداث الشخصية أو الندوات عبر الإنترنت وترقيتها. يُمكن استخدام بوابة على الإنترنت لمراجعة جدول الحدث والمتحدثين في الحدث والتسجيل في الحدث. هذه الميزة متاحة حاليًا فقط مع Dynamics 365 Marketing.
 
-- **Customer Voice** - تعمل هذه الميزة على إنشاء الاستطلاعات عبر الإنترنت وتحليل النتائج. تتوفر هذه الميزة ضمن تطبيق "التسويق"، ولكنها متوفرة أيضًا بشكل منفصل كوظيفة إضافية لمنتجات Dynamics 365 الأخرى.
+- **Customer Voice** - تعمل هذه الميزة على إنشاء الاستطلاعات عبر الإنترنت وتحليل النتائج. تتوفر هذه الميزة ضمن تطبيق Marketing، ولكنها متوفرة أيضاً مع منتجات Dynamics 365 الأخرى.
 
 - **Dynamics 365 Connector for LinkedIn Lead Gen Forms** - استيراد العملاء المتوقعين الذين تم إنشاؤهم باستخدام أدوات LinkedIn الرئيسية إلى Dynamics 365. تتوفر هذه الميزة ضمن تطبيق "التسويق" ولكنها متوفرة أيضًا بشكل منفصل كوظيفة إضافية لمنتجات Dynamics 365 الأخرى.
 

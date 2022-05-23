@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.intelligent-budget-proposal-finance.work-data-machine-learning
+title: التعامل مع البيانات والتعلم الآلي لتحسين المقترحات
+metadata:
+  title: التعامل مع البيانات والتعلم الآلي لتحسين المقترحات
+  description: يحصل النموذج على البيانات القديمة من النظام ويستخدمها لتشكيل الموازنة.
+  ms.date: 04/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c6ebe1188aba2b57bd9787c4b4fec16beb2a724e
+  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/03/2022
+  ms.locfileid: "8666948"
+durationInMinutes: 6
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/work-data-machine-learning.md)]"

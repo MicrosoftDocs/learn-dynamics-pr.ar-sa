@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-finance-insights.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص إعداد Finance insights في Dynamics 365 Finance
+  ms.date: 04/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 32a21b3216bba9b0e2f8132d8d1339964444fd7c
+  ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/05/2022
+  ms.locfileid: "8716132"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

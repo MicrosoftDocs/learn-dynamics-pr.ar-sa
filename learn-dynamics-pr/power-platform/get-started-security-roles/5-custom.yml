@@ -4,16 +4,16 @@ title: التمرين - إنشاء دور مخصص
 metadata:
   title: التمرين - إنشاء دور مخصص
   description: تعرف على كيفية إنشاء دور مخصص في Microsoft Dataverse.
-  ms.date: 04/19/2022
+  ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aee64876f37014bd2746b4aca25eac29598525bd
-  ms.sourcegitcommit: 806edd941f533c452c0c7dd877468ba048706d13
+  ms.openlocfilehash: adacf942144eef53f5cdb2b21bf3bec4d6ee7bac
+  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/20/2022
-  ms.locfileid: "8617167"
+  ms.lasthandoff: 05/03/2022
+  ms.locfileid: "8666812"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -3,21 +3,21 @@ uid: learn-dynamics.get-started-component-framework.4-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 5/12/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/03/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 4d4d44a27e2dfe71b8bc989afa82ab5b1099ec3e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: cd543519305fc20e669d08c6502a5d3b4356a7f2
+  ms.sourcegitcommit: ec07eb1b745c5f0958e24ba3a8cb5115246c9db2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457493"
+  ms.lasthandoff: 05/04/2022
+  ms.locfileid: "8700866"
 durationInMinutes: 5
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أيّ مما يلي ليس نوع قالب لعناصر التحكم التي تم إنشاؤها باستخدام Power Apps component framework؟
     choices:
@@ -44,7 +44,7 @@ quiz:
     - content: ملف CSS
       isCorrect: false
       explanation: يمكن استخدام ملفات CSS بواسطة مكون التعليمات البرمجية لوصف كيفية عرض المكون على واجهة المستخدم.
-  - content: أي من الأساليب التالية يمكننا استخدامها لإعلام إطار العمل بأن عنصر التحكم يحتوي على مخرجات جديدة؟
+  - content: أي أسلوب من الأساليب التالية يمكن استخدامه لإعلام إطار العمل بأن عنصر التحكم يحتوي على مخرجات جديدة؟
     choices:
     - content: notifyOutputChanged
       isCorrect: true
