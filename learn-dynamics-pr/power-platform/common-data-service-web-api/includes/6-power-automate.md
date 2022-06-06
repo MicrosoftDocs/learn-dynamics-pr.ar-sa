@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 56d5345041adb87b885975fe70c30ff08b569a6c
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 1a2f8cc98bab146b4773bf8429b7bbc63d28b3f5
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548742"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743315"
 ---
 يحتويPower Automate على ميزة تسمح للمستخدمين المحترفين بإنشاء مجموعاتهم المخصصة لمنطق الأعمال التي تُسمى بـ *إجراءات*. ومن منظور المطوِّر، تتعرف مستندات Microsoft على الإجراء كـ "عملية قابلة لإعادة الاستخدام قد يكون لها تأثيرات جانبية ملحوظة". تتضمن هذه التأثيرات الجانبية إنشاء السجلات أو تحديثها، أو اي شيء يمكنك إنجازه باستخدام سير عمل Microsoft Dataverse القديم.
 
@@ -38,7 +38,7 @@ OData-Version: 4.0
 
 Dataverse يتضمن مجموعة من الإجراءات الموجودة التي يمكنك استخدامها لتنفيذ العمليات الشائعة. قد تُطبَّقُ بعض هذه الإجراءات فقط على تطبيقات تستند إلى النماذج أو تطبيقات Dynamics 365. علي سبيل المثال، يحسب إجراء CalculatePrice السعر في الفرصة/عرض الأسعار/الأمر/الفاتورة، لذلك لا ينطبق إلا على تطبيق Dynamics 365 Sales حيث توجد هذه الوظيفة.
 
-للمزيد من المعلومات حول الإجراءات المُنشاة مسبقًا المتوفرة للاستخدام من خلال Web API، راجع [مرجع إجراءات Web API](/dynamics365/customer-engagement/web-api/actions?view=dynamics-ce-odata-9/?azure-portal=true).
+للمزيد من المعلومات حول الإجراءات المُنشاة مسبقًا المتوفرة للاستخدام من خلال Web API، راجع [مرجع إجراءات Web API](/power-apps/developer/data-platform/webapi/overview/?azure-portal=true).
 
 ## <a name="unbound-vs-bound-actions"></a>الإجراءات غير المقيدة مقابل الإجراءات المقيدة
 

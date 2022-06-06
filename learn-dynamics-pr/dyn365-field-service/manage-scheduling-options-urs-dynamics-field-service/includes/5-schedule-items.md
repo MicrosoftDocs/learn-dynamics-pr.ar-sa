@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 605257c9b3ec28b8dd4bf8587a495cc9a00ad0fe
-ms.sourcegitcommit: c03bd9e4074a05f1faeb13be66c951ffdf5be12f
+ms.openlocfilehash: 2fedee79885d1f6a50c5c29c6e58fedd550cb597
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/24/2021
-ms.locfileid: "7946452"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743351"
 ---
 يقوم Universal Resource Scheduling بتمكين المؤسسة من جدولة أي شيء قد يكون مطلوباً لخدمة عملائهم بشكل أفضل. قد يتضمن ذلك أصناف مثل أوامر العمل في Dynamics 365 for Field Service. الغرض من هذا التدريب العملي هو توفير مقدمة لك إلى جدولة العناصر باستخدام Universal Resource Scheduling.
 
@@ -16,7 +16,7 @@ ms.locfileid: "7946452"
 
 - جدولة عنصر
 
-تعمل التمارين والتدريبات العملية في هذه الوحدة النمطية بشكل أفضل إذا توفرت لديك عينة بيانات للعمل معها. إذا لم تتضمن بيئتك عينه بيانات، فراجع صفحة [تثبيت عينة بيانات لتطبيق Field Service](https://docs.microsoft.com/dynamics365/project-operations/psa/install-sample-data-3-x/?azure-portal=true).
+تعمل التمارين والتدريبات العملية في هذه الوحدة النمطية بشكل أفضل إذا توفرت لديك عينة بيانات للعمل معها. إذا لم تتضمن بيئتك عينه بيانات، فراجع صفحة [تثبيت عينة بيانات لتطبيق Field Service](/dynamics365/project-operations/psa/install-sample-data-3-x/?azure-portal=true).
 
 ## <a name="enable-bing-maps-to-use-with-resource-scheduling"></a>قم بتمكين خرائط Bing لاستخدامها مع Resource Scheduling
 
