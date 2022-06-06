@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 38b34cd1daa75fe01055e30a954eb2bfca3e1838
-ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+ms.openlocfilehash: 20dfc5e3e52510a1da31cda79e7aaf5a5108c218
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/24/2022
-ms.locfileid: "8484166"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743360"
 ---
 يمكنك استخدام مركز إدارة Microsoft 365 لإنشاء حسابات مستخدمين لكل مستخدم يحتاج إلى الوصول إلى التطبيقات التي تم إنشاؤها باستخدام Microsoft Power Apps وتطبيقات مشاركة العملاء في Microsoft Dynamics ‏365 (Dynamics 365 Sales، وDynamics 365 Customer Service، وDynamics 365 Field Service، وDynamics 365 Marketing، وDynamics 365 Project Service Automation). سيستخدم حساب المستخدم بيئة Microsoft Online Services لتسجيل المستخدم. 
 
@@ -14,7 +14,7 @@ ms.locfileid: "8484166"
 
 عند إنشاء حساب مستخدم في مركز إدارة Microsoft 365، سيقوم النظام بإنشاء معرف مستخدم وكلمة مرور مؤقتة للمستخدم. لديك خيار السماح للخدمة بإرسال رسالة بريد إلكتروني إلى المستخدم في هيئة نص واضح. ورغم أن كلمة المرور مؤقتة، إلا أنه يمكنك أن تفكر في نسخ المعلومات لإرسالها إلى المستخدم من خلال قناة أكثر أمانا، مثل خدمة البريد الإلكتروني التي يمكنها تشفير المحتويات رقمياً. 
 
-لمزيد من المعلومات، راجع  [إضافة المستخدمين وتعيين التراخيص](/office365/admin/add-users/add-users?redirectSourcePath=%252fen-US%252fArticle%252fCreate-or-edit-users-in-Office-365-1970f7d6-03b5-442f-b385-5880b9c256ec&view=o365-worldwide) في Microsoft 365.
+لمزيد من المعلومات، راجع  [إضافة المستخدمين وتعيين التراخيص](/office365/admin/add-users/add-users/?azure-portal=true) في Microsoft 365.
 
 لمزيد من المعلومات، راجع [منح المستخدمين النجاح](/power-platform/admin/grant-users-access).
 
@@ -52,7 +52,7 @@ ms.locfileid: "8484166"
 
 ### <a name="microsoft-365-admin-roles"></a>أدوار مسؤول Microsoft 365
 
-يأتي Microsoft 365 مزوداً بمجموعة من أدوار الإدارة التي يمكنك  [تعيينها](/office365/admin/add-users/assign-admin-roles?view=o365-worldwide)  إلى المستخدمين في مؤسستك. يقوم كل دور مسؤول بتعيين وظائف الأعمال الشائعة ويمنح الموظفين في مؤسستك أذونات لأداء مهام محددة في مركز إدارة Microsoft 365.
+يأتي Microsoft 365 مزوداً بمجموعة من أدوار الإدارة التي يمكنك  [تعيينها](/office365/admin/add-users/assign-admin-roles/?azure-portal=true)  إلى المستخدمين في مؤسستك. يقوم كل دور مسؤول بتعيين وظائف الأعمال الشائعة ويمنح الموظفين في مؤسستك أذونات لأداء مهام محددة في مركز إدارة Microsoft 365.
 
 من بين جميع الأدوار التي يمكنك تعيينها للمستخدمين، يرتبط القليل منها بـ Microsoft Dynamics ‏365:
 

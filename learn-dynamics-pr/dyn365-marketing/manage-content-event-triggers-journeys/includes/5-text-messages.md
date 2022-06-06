@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1fddba74a1e15875d8854bf6c5aae7cf81fb1a3
-ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+ms.openlocfilehash: 66bd5759a3177ec1bd3961d2fc45e13bf5687048
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "7497911"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743324"
 ---
 تسمح لك الرسائل النصية بالوصول إلى العملاء مباشرة على أجهزتهم المحمولة. ويمكنك إرسال رسائل نصية من التسويق في الوقت الحقيقي بإنشاء رقم هاتف لاستخدامه داخل التطبيق.
 
@@ -31,13 +31,13 @@ ms.locfileid: "7497911"
 
 1.  عند الانتهاء، حدد **جاهز لإرسال** الرسالة لتصبح متوفرة للتحديد في الرحلات.
 
-لمزيد من المعلومات، راجع [إنشاء رسائل نصية صادرة](https://docs.microsoft.com/dynamics365/marketing/real-time-marketing-outbound-text-messaging/?azure-portal=true). 
+لمزيد من المعلومات، راجع [إنشاء رسائل نصية صادرة](/dynamics365/marketing/real-time-marketing-outbound-text-messaging/?azure-portal=true). 
 
 ## <a name="add-personalization-to-your-message"></a>إضافة تخصيص على الرسالة
 
 ضمن الرسائل النصية، يُمكنك إدراج بيانات ديناميكية فريدة لكل مستلم إخطار. لتخصيص رسالة نصية، أكمل الخطوات التالية.
 
-1.  حدد زر **التخصيص** في حقل **الرسالة**.
+1.  حدد زر **التخصيص** في حقل **الرسالة** .
 
 1.  حدد الخيار **تحديد حقل البيانات** لاختيار مصدر البيانات. قد يستند مصدر البيانات إلى  **جمهور‏‎** أو **مشغل حدث** أو مكون **توافق**.
 

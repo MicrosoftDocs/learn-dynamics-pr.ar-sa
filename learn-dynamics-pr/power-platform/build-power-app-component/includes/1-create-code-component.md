@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cf5aae66a089393a8c3b9e38038d322bbfface3c
-ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+ms.openlocfilehash: 284990045007b77c29d45f5ba1124cca4ca85565
+ms.sourcegitcommit: 16e7d8e7a467f1fe110817a0e7fe30214c934bce
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/03/2022
-ms.locfileid: "8666713"
+ms.lasthandoff: 05/17/2022
+ms.locfileid: "8762852"
 ---
 يوفر Power Apps وظائف متعددة جاهزة للاستخدام من قبل منشئي التطبيقات لمساعدتهم في إنشاء تطبيقاتهم، ولكن قد تبرز في بعض الأحيان الحاجة إلى إنشاء واجهة مستخدم لم يتم توفيرها. قد تكون الأمثلة استبدال قيمة نسبة مئوية بمقياس، أو عرض كود شريطي بدلاً من معرف، أو استبدال عناصر تحكم موجودة بعناصر تتميز بوظائف أكثر - مثل طريقة عرض شبكة السحب والإفلات. يمكنك أيضاً أن تجعل Power Apps component framework يلتف حول مكونات موجودة قمت بكتابتها في إطارات عمل ويب أخرى، مثل React أو Angular.
 
@@ -32,7 +32,7 @@ ms.locfileid: "8666713"
 ### <a name="create-a-new-component-project"></a>إنشاء مشروع مكون جديد
 لإنشاء مشروع مكون جديد، اتبع هذه الخطوات:
 
-أنشئ دليلاً ستنشئ فيه مكوناً خاصاً بك. في هذه العينة، ستضع المكون في **C:\\source\\hello-pcf**؛ ومع ذلك، يمكنك إنشاء دليلك الخاص. لإنشاء دليلك الخاص، ستستخدم Visual Studio Code.
+أنشئ دليلاً\'ستنشئ فيه مكوناً خاصاً بك. في هذه العينة،\'ستضع المكون في **C:\\source\\hello-pcf**؛ ومع ذلك، يمكنك إنشاء دليلك الخاص. لإنشاء دليلك الخاص،\'ستستخدم Visual Studio Code.
 
 1.  ابدأ تشغيل Visual Studio Code.
 
@@ -207,7 +207,7 @@ npm run build
     
     this.isEditMode = false;
     
-    this.buttonClickHandler = this.buttonClick.bind(this);
+    this.buttonClickHandler = this.buttonClickHandler.bind(this);
     
     }
     ```
@@ -349,7 +349,7 @@ npm run build
 1. حدد موقع الأسلوب **updateView‎** واستبدله بالأسلوب أدناه.
 
     ```csharp
-        public updateView(context: ComponentFramework.Context\<IInputs\>): void {
+        public updateView(context: ComponentFramework.Context<IInputs>): void {
 
      // Checks for updates coming in from outside
  

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3496779c5f3f8f3b173e3356c13e8c345db697cb
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 99bea64f6f0cbf576452edc4ca433f17e2d88a53
+ms.sourcegitcommit: dccc09c6b13ef4bb976809b24af5e2d71b766fd4
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548733"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "8740504"
 ---
 يسمح لك منشئو Power Apps بإنشاء نوع تجربة فعال جديد؛ مواقع ويب موجهة نحو الخارج تسمح للمستخدمين من خارج مؤسساتهم بتسجيل الدخول باستخدام مجموعة واسعة من الهويات أو إنشاء وعرض البيانات في Microsoft Dataverse أو حتى استعراض المحتوى من دون الإفصاح عن الهوية. الإمكانات الكاملة لمداخل Microsoft Dynamics 365 متاحة الآن كإمكانات قائمة بذاتها في Power Apps.
 
@@ -27,7 +27,7 @@ ms.locfileid: "8548733"
 استناداً إلى البيئة المحددة في Power Apps، يمكنك إنشاء مدخل Dataverse لبدء التشغيل أو مدخل في بيئة تحتوي على تطبيقات مشاركة العملاء (مثل Dynamics 365 Sales وDynamics 365 Customer Service).
 
 > [!TIP]
-> لمعرفه الأدوار المطلوبة لإنشاء مدخل، راجع [أدوار المسؤول المطلوبة لمهام المدخل الإدارية](/power-apps/maker/portals/admin/portal-admin-roles.md).
+> لمعرفه الأدوار المطلوبة لإنشاء مدخل، راجع [أدوار المسؤول المطلوبة لمهام المدخل الإدارية](/power-apps/maker/portals/admin/portal-admin-roles).
 
 لإنشاء مدخل Dataverse لبدء التشغيل في Power Apps، اتبع الخطوات التالية:
 
@@ -43,7 +43,7 @@ ms.locfileid: "8548733"
 
    ![لقطة شاشة لرسالة إنشاء بيئة جديدة.](../media/6-unit-create-portal-message.png "إنشاء رسالة بيئة جديدة")
 
-1. إذا اخترت الاستمرار في البيئة الحالية، أدخل المعلومات المطلوبة في النافذة، كما هو مذكور في الخطوات التالية. إذا اخترت إنشاء بيئة جديدة، فراجع [إنشاء بيئة جديدة](/power-apps/maker/portals/create-additional-portals.md#create-new-environment).
+1. إذا اخترت الاستمرار في البيئة الحالية، أدخل المعلومات المطلوبة في النافذة، كما هو مذكور في الخطوات التالية. إذا اخترت إنشاء بيئة جديدة، فراجع [إنشاء بيئة جديدة](/power-apps/maker/portals/create-additional-portals#create-new-environment).
 
 2. في نافذة **مدخل من فارغ**، أدخل اسماً للمدخل وعنواناً لموقع الويب، ثم حدد لغة من القائمة المنسدلة **اللغة**.
 
@@ -58,7 +58,7 @@ ms.locfileid: "8548733"
 
 4. عند الانتهاء، حدد **إنشاء**.
 
-بعد تحديد **إنشاء**، سيبدأ المدخل في التوفير، وسيتم عرض حالة التوفير من خلال [الإعلامات](/power-apps/maker/portals/create-portal.md#portal-provisioning-notifications).
+بعد تحديد **إنشاء**، سيبدأ المدخل في التوفير، وسيتم عرض حالة التوفير من خلال [الإعلامات](/power-apps/maker/portals/create-portal#portal-provisioning-notifications).
 
 إذا قمت بإنشاء المدخل في البيئة التي لم يتم تثبيت المتطلبات الأساسية للمدخل به، فسيتم عرض حالة التوفير في الشبكة أيضاً، كما هو موضح في الصورة التالية.
 

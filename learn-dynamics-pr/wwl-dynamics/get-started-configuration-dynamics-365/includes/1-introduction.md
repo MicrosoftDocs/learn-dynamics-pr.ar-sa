@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 240b8feaaef3a7105a081b49b5b88128092ec92e0180f11c71eff7de81c9d954
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ec1ea0e0285e5468a547f6752bf2b89747d67fc7
+ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438342"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "8756351"
 ---
 Microsoft Business Applications هي مجموعة من الحلول الذكية التي تقدّم رؤية شاملة لأعمال المؤسسة. تتضمن هذه الحلول منتجات Dynamics 365 المتصلة بالبيانات والذكاء والمدعومة من قبل Power Platform.
 
@@ -38,7 +38,7 @@ Microsoft Business Applications هي مجموعة من الحلول الذكية
 نظرًا لأن جميع هذه التطبيقات المستندة إلى النموذج مبنية على Power Platform، تقنيات التكوين لجميع التطبيقات المستندة إلى النموذج، فستظل كما هي، مما يوفر تجربة مستخدم مبسطة عبر الأنظمة الأساسية.
 
 > [!NOTE]
-> على الرغم من أن المحتوى في هذه الوحدة تمهيدية، إلا أنه يعتمد على المفاهيم الأساسية التي تم تقديمها في [Microsoft Dynamics ‏365 Fundamentals](https://docs.microsoft.com/learn/paths/dynamics-365-fundamentals/) و[Microsoft Power Platform ‏Fundamentals](https://docs.microsoft.com/learn/paths/power-plat-fundamentals/). إذا لم تكن معتاداً بالفعل على مكونات Power Platform أو تطبيقات Dynamics 365 المستندة إلى نموذج، يوصى بمسارات التعلم هذه.
+> على الرغم من أن المحتوى في هذه الوحدة تمهيدية، إلا أنه يعتمد على المفاهيم الأساسية التي تم تقديمها في [Microsoft Dynamics ‏365 Fundamentals](/learn/paths/dynamics-365-fundamentals/) و[Microsoft Power Platform ‏Fundamentals](/learn/paths/power-plat-fundamentals/). إذا لم تكن معتاداً بالفعل على مكونات Power Platform أو تطبيقات Dynamics 365 المستندة إلى نموذج، يوصى بمسارات التعلم هذه.
 
 في نهاية هذه الوحدة، ستكون قادراً على:
 - الوصول إلى مراكز المسؤولين في Power Platform وDynamics 365

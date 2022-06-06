@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 04/26/2022
+  ms.date: 05/12/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 9c39fb606555c86f15820f07a0f9645f886283c6
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 4006e857e378bb116a8d626cca071cb5271505a4
+  ms.sourcegitcommit: 6a5d1dca1b97565d67b787a0bb1aa622abb04b5c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632668"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "8747374"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -49,7 +49,7 @@ quiz:
     choices:
     - content: من شريط التطبيقات
       isCorrect: true
-      explanation: صحيح. من خلال Omnichannel for Customer Service، يتم استخدام شريط التطبيق للسماح للمندوبين بالوصول إلى التطبيقات الأخرى داخل جلسة العمل. بشكل افتراضي، يتم تكوين شريط التطبيقات باستخدام بيانات كيان Dynamics 365، ولكن يمكن تكوينه أيضاً لبدء تشغيل تطبيقات أخرى لخط العمل.
+      explanation: صحيح. داخل القناة متعددة الاتجاهات لـ Customer Service، يتم استخدام شريط التطبيق للسماح للمندوبين بالوصول إلى التطبيقات الأخرى داخل جلسة العمل. بشكل افتراضي، يتم تكوين شريط التطبيقات باستخدام بيانات كيان Dynamics 365، ولكن يمكن تكوينه أيضاً لبدء تشغيل تطبيقات أخرى لخط العمل.
     - content: من الزر "إنشاء سريع"
       isCorrect: false
       explanation: غير صحيح. لا يمكنك البحث عن قوائم الحسابات من الزر "إنشاء سريع".

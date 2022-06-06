@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-power-platform-extensibility-model.2-architecture
+title: قابلية توسعة Microsoft Dataverse
+metadata:
+  title: قابلية توسعة Microsoft Dataverse
+  description: تعرف على قابلية توسعة Dataverse.
+  ms.date: 05/17/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: d1f5bd7a85dba6c3d7563a2933cda754146142eb
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771670"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-service-extensibility.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 93281eadc708ef1390b178dcc6da6c2d1a544d2638052094a50e64e4234924e1
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 791aa9e51453a3015d1933b4b6973dfcf02eeb62
+ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438308"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "8756163"
 ---
 من السهل والسريع إجراء عدة أنواع من التغييرات الشائعة على التقارير الحالية.
 
@@ -26,4 +26,4 @@ ms.locfileid: "7438308"
  > [!div class="mx-imgBorder"]
  > ![التقرير برقم الإعفاء الضريبي](../media/m2-l12-p2.png)
 
-يمكن إجراء العديد من التخصيصات الأخرى عبر [إدارة مستندات الأعمال](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/analytics/er-business-document-management)، والتي تتيح التحرير السريع والسهل باستخدام القوالب.
+يمكن إجراء العديد من التخصيصات الأخرى عبر [إدارة مستندات الأعمال](/dynamics365/fin-ops-core/dev-itpro/analytics/er-business-document-management)، والتي تتيح التحرير السريع والسهل باستخدام القوالب.

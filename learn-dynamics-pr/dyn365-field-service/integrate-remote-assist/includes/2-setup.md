@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 839ea631a982042f957bb516a1edc7a917037bd9
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 0b9009f177914460ef6a12eb22b3153ce723201b
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7434218"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743387"
 ---
 قبل أن يتمكن الفنيون والمتعاونون عن بُعد من حل أوامر عمل Dynamics 365 Field Service باستخدام Remote Assist، يحتاج الفني في الموقع إلى الوصول إلى كل من Field Service Mobile وRemote Assist. سيستخدم الفنيون (العاملون في الخطوط الأمامية) Field Service Mobile لعرض وإدارة أوامر العمل المخصصة. سيقومون باستخدام Remote Assist mobile لإجراء مكالمات مع المتعاونين عن بُعد. سيحتاج الخبراء المختصين الذين سيقومون بالتعاون مع الفنيين عن بُعد إلى الوصول إلى Microsoft Teams.    
 
@@ -28,7 +28,7 @@ ms.locfileid: "7434218"
 
 بالإضافة إلى تعيين تراخيص للفني في الموقع (عامل خط المواجهة)، ستحتاج أيضا إلى تعيين ترخيص Microsoft Teams لأي شخص سيعمل كمتعاون عن بُعد. هذه الخطوة ضرورية فقط إذا لم يتم تعيين ترخيص Teams للمستخدم مسبقاً من خلال اشتراك Microsoft 365، على سبيل المثال.    
 
-لمزيد من المعلومات، راجع [تعيين تراخيص المستخدمين](/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).  
+لمزيد من المعلومات، راجع [تعيين تراخيص المستخدمين](/microsoft-365/admin/manage/assign-licenses-to-users/?azure-portal=true).  
 
 ضمن القسم **البيئات**، حدد البيئة التي تم تثبيت Field Service فيها ثم حدد **الإعدادات**.
 

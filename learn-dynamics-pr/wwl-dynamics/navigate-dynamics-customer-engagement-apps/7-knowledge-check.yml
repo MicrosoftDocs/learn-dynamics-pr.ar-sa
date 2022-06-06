@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 04/19/2022
+  ms.date: 05/13/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 888d9cc15c2e56e8480a163220ae4191f9284954
-  ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+  ms.openlocfilehash: 81401cbe112be6dfa30819001f3d9f3bbe669541
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/19/2022
-  ms.locfileid: "8615418"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756558"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -30,10 +30,10 @@ quiz:
       explanation: صحيح. يقع Dynamics 365 Field Service ضمن مجموعة منتجات Microsoft Business Application.
     - content: Office 365
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Office 365 لا يقع ضمن مجموعة منتجات Microsoft Business Application.
+      explanation: غير صحيح.‬ هذه الإجابة غير صحيحة لأن Office 365 لا يقع ضمن مجموعة منتجات Microsoft Business Application.
     - content: Azure
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Azure لا يقع ضمن مجموعة منتجات Microsoft Business Application.
+      explanation: غير صحيح.‬ هذه الإجابة غير صحيحة لأن Azure لا يقع ضمن مجموعة منتجات Microsoft Business Application.
   - content: أي من خيارات البحث أو التصفية التالية سيتم استخدامها إذا كنت ترغب في عرض قائمة بالحسابات ذات الأوامر المفتوحة؟
     choices:
     - content: التصفية المتقدمة
@@ -44,8 +44,8 @@ quiz:
       explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا خيار بحث يسمح فقط بالبحث عن جدول واحد في كل مرة.
     - content: البحث حسب الفئة
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا خيار بحث متعدد الكيانات سيبحث في كيانات متعددة ولكنه لا يسمح لك بتصفية البيانات بناءً على كيانات متعددة.
-  - content: أي من تطبيقات إشراك العملاء التالية في Dynamics 365 من المرجح أن تستخدمها شركة إنشاءات تحتاج إلى إدارة مهام البناء التي يعملون عليها وإدارة بيع هذه المهام وعرض أسعارها للعملاء؟
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا خيار بحث لعنصر متعدد الكيانات سيبحث في كيانات متعددة ولكنه لا يسمح لك بتصفية البيانات بناءً على كيانات متعددة.
+  - content: أي من تطبيقات Dynamics 365إشراك العملاء التالية من المرجح أن تستخدمها شركة إنشاءات تحتاج إلى إدارة مهام البناء التي يعملون عليها وإدارة بيع هذه المهام وعرضها للعملاء؟
     choices:
     - content: Microsoft Dynamics 365 Project Operations
       isCorrect: true
@@ -55,4 +55,4 @@ quiz:
       explanation: غير صحيح. هذه الإجابة غير صحيحة لأنه بينما يوفر Dynamics 365 Sales إمكانات التشغيل التلقائي للمبيعات، إلا أنه ليس خاصاً ببيع المشروعات. كما أنه لا يوفر أي إمكانات لإدارة المشروعات وإدارة الموارد.
     - content: Dynamics 365 Customer Service
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Dynamics 365 Customer Service تستفيد منه المؤسسات التي تقدم الدعم للعملاء.  ويساعد في إدارة حالات الدعم ويحتوي على أدوات تساعد في زيادة رضا العملاء.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن Dynamics 365 Customer Service تستفيد منه المؤسسات التي تقدم الدعم للعملاء. ويساعد في إدارة حالات الدعم ويحتوي على أدوات تساعد في زيادة رضا العملاء.

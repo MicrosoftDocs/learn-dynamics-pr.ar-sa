@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 63558a166dfe2581bf43073dda5b8bbb706096f8
-ms.sourcegitcommit: ec07eb1b745c5f0958e24ba3a8cb5115246c9db2
+ms.openlocfilehash: a0d9ea0758c0320693328591e06f91f22d91024a
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8700797"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743306"
 ---
 لإجراء اختبارات قبول المستخدم، ستحتاج إلى إنشاء خطة اختبار ومجموعة اختبارات في Azure DevOps. وسيسمح لك هذا بإجراء مجموعة منظمة من حالات الاختبار وإدارة النتائج والاستقصاء عنها وتعقبها بسهولة.
 
@@ -30,7 +30,7 @@ ms.locfileid: "8700797"
 
 ![لقطة شاشة لحقل نتائج الاختبارات اليدوية.](../media/manual-tests.png)
 
-كما يوفر Azure DevOps أداة، تسمى "Test Runner"، لإدارة عمليات تشغيل حالات الاختبارات اليدوية. للحصول علي مزيد من المعلومات حول استخدام أداة "Test Runner"، راجع [تشغيل الاختبارات اليدوية](/azure/devops/test/run-manual-tests?azure-portal=true&view=azure-devops).
+كما يوفر Azure DevOps أداة، تسمى "Test Runner"، لإدارة عمليات تشغيل حالات الاختبارات اليدوية. للحصول علي مزيد من المعلومات حول استخدام أداة "Test Runner"، راجع [تشغيل الاختبارات اليدوية](/azure/devops/test/run-manual-tests?azure-portal=true).
 
 نوصيك بالاستفادة من Azure DevOps لأنه يوفر مجموعة ثرية من ميزات الإدارة التي ليست للاختبار فقط ولكن لإدارة النتائج وتخفيف المخاطر أيضاً .
 
@@ -64,4 +64,4 @@ ms.locfileid: "8700797"
 
 يمكنك أيضاً الانتقال إلى مجموعة الاختبارات في Azure DevOps للاطلاع على أحدث النتائج المقترنة مع حالات الاختبار لديك.
 
-لمزيد من المعلومات حول الاختبارات وإدارتها في Azure DevOps، راجع مستندات [Azure DevOps](/azure/devops/?azure-portal=true&view=azure-devops).
+لمزيد من المعلومات حول الاختبارات وإدارتها في Azure DevOps، راجع مستندات [Azure DevOps](/azure/devops/?azure-portal=true).

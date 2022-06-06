@@ -1,21 +1,21 @@
 ---
-ms.openlocfilehash: 197091e4f5bf038f3c9298ad22030579314c6dbad9b1a80dbae073fbf076dca3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: afd2e9b64a41c82994a607d914fc60f4a5faf264
+ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438474"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "8756531"
 ---
 #### <a name="log-in"></a>تسجيل الدخول
 
-تعتمد تطبيقات Dynamics 365 على المستعرض، لتحقيق أقصى قدر من قابلية النقل والتكيف مع أي جهاز. تقوم بتسجيل الدخول إلى النظام عن طريق فتح مستعرض (يتم سرد المستعرضات والأجهزة المدعومة هنا: [مستعرضات الويب والأجهزة المحمولة المدعومة](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/supported-web-browsers-and-mobile-devices) ) وتسجيل الدخول باستخدام معرّف Azure Active Directory الخاص بك.
+تعتمد تطبيقات Dynamics 365 على المستعرض، لتحقيق أقصى قدر من قابلية النقل والتكيف مع أي جهاز. يمكنك تسجيل الدخول إلى النظام عن طريق فتح متصفح (يتم سرد المتصفحات والأجهزة المدعومة هنا: [متصفحات الويب والأجهزة المحمولة المدعومة](/dynamics365/customerengagement/on-premises/admin/supported-web-browsers-and-mobile-devices) ) وتسجيل الدخول باستخدام معرّف Azure Active Directory الخاص بك.
 
 > [!div class="mx-imgBorder"]
-> ![لوحة المعلومات الأساسية لـ Finance and Operations](../media/m1-l2-p1.png)
+> ![لوحة المعلومات الرئيسية للتمويل والعمليات](../media/m1-l2-p1.png)
 
 #### <a name="toolbars"></a>أشرطة الأدوات
 
-لاحظ أشرطة الأدوات على الجانب الأيسر. إنها مخصصة للمفضلة، والحديثة، ومساحات العمل، والوحدات النمطية.
+لاحظ أشرطة الأدوات على الجانب الأيمن. إنها مخصصة للمفضلة والحديثة ومساحات العمل والوحدات النمطية.
 
 > [!div class="mx-imgBorder"]
 > ![أشرطة الأدوات: المفضلة، الأحدث، مساحات العمل، الوحدات النمطية](../media/m1-l2-p2.png)

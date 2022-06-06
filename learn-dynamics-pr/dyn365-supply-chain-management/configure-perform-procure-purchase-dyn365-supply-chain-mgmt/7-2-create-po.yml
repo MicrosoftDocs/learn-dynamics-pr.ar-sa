@@ -4,16 +4,16 @@ title: إنشاء أوامر شراء
 metadata:
   title: إنشاء أوامر شراء
   description: تعرف على كيفية إنشاء أمر شراء في Supply Chain Management.
-  ms.date: 05/15/2020
+  ms.date: 05/16/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d32a75f79a8abf9e01a1eab1492733013bb87a9c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2b1793596ac4fb627ceb0ee997608c17b945b168
+  ms.sourcegitcommit: 16e7d8e7a467f1fe110817a0e7fe30214c934bce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356696"
+  ms.lasthandoff: 05/17/2022
+  ms.locfileid: "8762826"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

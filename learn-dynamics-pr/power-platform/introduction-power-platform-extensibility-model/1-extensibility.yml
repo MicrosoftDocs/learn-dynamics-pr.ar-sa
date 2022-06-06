@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-power-platform-extensibility-model.1-extensibility
+title: قابلية توسعة تجربة المستخدم
+metadata:
+  title: قابلية توسعة تجربة المستخدم
+  description: تعرف على قابلية توسعة تجربة المستخدم.
+  ms.date: 05/17/2022
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: b6620df7d295a997f1aaf1051aa08acb26c47f5f
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771666"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-user-experience-extensibility.md)]

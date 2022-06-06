@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: e65fb79ee2159b2a96dc54bbf0c585c0bdc856cf
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 3e529acf2c8306f957e402dc7d62299668343ffb
+ms.sourcegitcommit: dccc09c6b13ef4bb976809b24af5e2d71b766fd4
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548571"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "8740537"
 ---
 يأتي كل مستأجر ‪Microsoft Dynamics 365‬ بمجموعة متنوعة من التطبيقات والوظائف التي يجب على المؤسسة تثبيتها للاستفادة منها. يمكنك تثبيت هذه التطبيقات من خلال مركز مسؤولي Microsoft Power Platform.
 
 > [!NOTE]
-> يمكنك تثبيت تطبيقات Dynamics 365 وإدارتها فقط في بيئة تم إنشاؤها باستخدام قاعدة بيانات ومع تمكين تطبيقات Dynamics 365 أثناء إنشاء البيئة. مطلوب ترخيص Dynamics 365 صالح لتمكين تطبيقات Dynamics 365 أثناء إنشاء البيئة. لمزيد من المعلومات، راجع [إنشاء بيئة باستخدام قاعدة بيانات](/power-platform/admin/create-environment.md#create-an-environment-with-a-database).
+> يمكنك تثبيت تطبيقات Dynamics 365 وإدارتها فقط في بيئة تم إنشاؤها باستخدام قاعدة بيانات ومع تمكين تطبيقات Dynamics 365 أثناء إنشاء البيئة. مطلوب ترخيص Dynamics 365 صالح لتمكين تطبيقات Dynamics 365 أثناء إنشاء البيئة. لمزيد من المعلومات، راجع [إنشاء بيئة باستخدام قاعدة بيانات](/power-platform/admin/create-environment#create-an-environment-with-a-database).
 
 يمكنك إدارة التطبيقات من مستوى المستأجر أو مستوى البيئة.
 
@@ -113,4 +113,4 @@ ms.locfileid: "8548571"
 
 إذا كنت مسؤولاً عن البيئة، أو مسؤولاً عمومياً، أو مسؤول Microsoft Power Platform، فيمكنك إدارة التطبيقات من Power Apps التي تم إنشاؤها في مؤسستك.
 
-لمزيد من المعلومات، راجع [إدارة Power Apps](/power-apps/powerapps-overview.md).
+لمزيد من المعلومات، راجع [إدارة Power Apps](/power-apps/powerapps-overview).

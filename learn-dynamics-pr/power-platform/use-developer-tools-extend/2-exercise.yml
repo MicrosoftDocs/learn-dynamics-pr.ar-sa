@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-developer-tools-extend.2-exercise
+title: تمرين - تثبيت أدوات المطور واستخدامها
+metadata:
+  title: تمرين - تثبيت أدوات المطور واستخدامها
+  description: التدرب على تثبيت أدوات المطور واستخدامها.
+  ms.date: 05/17/2022
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: d5a6ba7c1a111853f609198f8372a0378216e1e6
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771668"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-exercise.md)]

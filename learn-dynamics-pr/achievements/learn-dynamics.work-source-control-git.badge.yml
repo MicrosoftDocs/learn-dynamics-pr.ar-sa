@@ -1,0 +1,11 @@
+### YamlMime:AchievementDetail
+achievementUid: learn-dynamics.work-source-control-git.badge
+metadata:
+  title: 'Microsoft Badge: تم إصدار العمل مع التحكم بالمصادر باستخدام Git في Visual Studio Code لـ Business Central من قبل Microsoft'
+  ms.openlocfilehash: 22e829e6203d4af258b137815181d54a605d2c8a
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8772974"
+socialImageUrl: /learn/achievements/work-source-control-git-social.png
