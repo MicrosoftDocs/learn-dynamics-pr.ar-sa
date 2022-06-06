@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 071df64cbdf8c94a89712ac10c9e43c7822bdc64
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d47b4968c8c0d59b4fbca8a20a0d2c80fab11991
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350325"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750862"
 title: إعداد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nلاستخدام مكونات الصيانة لإدارة الأصول في مؤسستك لـ Dynamics 365 Supply Chain Management، يجب أولاً إعداد إطار العمل. ستوضح هذه الوحدة كيفية تكوين طلبات الصيانة وأنواع الطلبات وحالات دورة الحياة وإنشاء مسؤوليات عامل الصيانة.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين طلبات الصيانة.\n- قم بمراجعة كيفية إعداد حالات دورة حياة.\n- تحديد كيفية إنشاء أنواع طلب الصيانة.\n- إنشاء مسؤوليات عمال الصيانة في إدارة الأصول. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين طلبات الصيانة.\n- قم بمراجعة كيفية إعداد حالات دورة حياة.\n- تحديد كيفية إنشاء أنواع طلب الصيانة.\n- إنشاء مسؤوليات عمال الصيانة في إدارة الأصول. \n"
 prerequisites: >
   - المعرفة العامة بإدارة الأصول.
 
@@ -31,6 +31,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.setup-maintenance-asset-management.01-introduction
 - learn-dynamics.setup-maintenance-asset-management.02-create-maintenance-request-state

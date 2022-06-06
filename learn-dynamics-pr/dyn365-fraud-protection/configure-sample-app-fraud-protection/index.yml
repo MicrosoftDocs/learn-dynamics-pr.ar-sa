@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1e96d0af22a5b64a4b60d1d370c70e2c0eb48e61
-  ms.sourcegitcommit: c11a4b9e156dd623c8d442eefc097b6b4c8555bb
+  ms.openlocfilehash: 210e9adb9198f59eed3e5412ff49646a1226bd2e
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8013921"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750683"
 title: تكوين نموذج بيانات التطبيق لـ Dynamics 365 Fraud Protection
 summary: "[!include[](../includes/module-banner.md)] \nيوفر نموذج تطبيق التاجر من Dynamics 365 Fraud Protection مثالاً على كيفية استدعاء واجهات API للحماية من الاحتيال. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على كيفية الحصول على Azure Active Directoryرمز مصادقه Microsoft.\n- حدد نقطة النهاية الصحيحة لاستدعاء واجهات Api لحماية عملية الشراء.\n- إجراء مكالمة لتقييم الشراء.\n- قم بإجراء استدعاء لتقييم حماية الحساب.\n- قم بتحليل استجابة واجهه برمجة التطبيقات (API) التي قد تتلقاها من Dynamics 365 Fraud Protection.\n- استخدم تطبيق العرض التوضيحي للتاجر النموذجي لرؤية النظام الشامل قيد العمل.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على كيفية الحصول على Azure Active Directoryرمز مصادقه Microsoft.\n- حدد نقطة النهاية الصحيحة لاستدعاء واجهات Api لحماية عملية الشراء.\n- إجراء مكالمة لتقييم الشراء.\n- قم بإجراء استدعاء لتقييم حماية الحساب.\n- قم بتحليل استجابة واجهه برمجة التطبيقات (API) التي قد تتلقاها من Dynamics 365 Fraud Protection.\n- استخدم تطبيق العرض التوضيحي للتاجر النموذجي لرؤية النظام الشامل قيد العمل.\n"
 prerequisites: "- المعرفة الصناعية لمكافحة الاحتيال \n- نظام Dynamics 365 Fraud Protection متوفر \n- سجِّل الدخول إلى مدخل Dynamics 365 Fraud Protection \n- ‏‏تثبيت Visual Studio\n- تثبيت .NET Core SDK v3.1 \n"
 iconUrl: /learn/achievements/configure-sample-app-fraud-protection.svg
 levels:
@@ -27,6 +27,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-fraud-protection
+subjects:
+- security
+- threat-protection
 units:
 - learn-dynamics.configure-sample-app-fraud-protection.01-introduction
 - learn-dynamics.configure-sample-app-fraud-protection.02-prerequisite-checklist

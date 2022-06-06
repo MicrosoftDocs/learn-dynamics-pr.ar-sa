@@ -8,12 +8,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 6515683de05cf6a221a4ab3570fd0e939bed615d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a5e0f4ede6ebb3f09b6f1a91c8218216edcd3cfb
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457414"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751539"
 title: إنشاء المكونات باستخدام إطار مكون ‪Power Apps
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -35,6 +35,8 @@ products:
 - dynamics-365
 - power-platform
 - power-apps
+subjects:
+- custom-app-development
 modules:
 - learn-dynamics.get-started-component-framework
 - learn-dynamics.build-power-app-component

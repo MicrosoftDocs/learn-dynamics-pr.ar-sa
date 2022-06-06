@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tools-finance-operations-power-platform.alerting-automatic-actions
+title: التنبيه والإجراءات التلقائية
+metadata:
+  title: التنبيه والإجراءات التلقائية
+  description: تتيح لك الكتابة المزدوجة إمكانية تمكين التنبيهات لإرسال إخطارات عبر البريد الإلكتروني. تعتبر هذه الميزة مفيدة بشكل خاص أثناء إجراء الصيانة غير المخطط لها.
+  ms.date: 05/16/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e82b9c3c95a239dac1f10dfabcf0b3df4f01d347
+  ms.sourcegitcommit: 0830f963f25aca3007bac7693b26ca85586936fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/17/2022
+  ms.locfileid: "8764472"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/alerting-automatic-actions.md)]"

@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 54d0a6a64e0aa23f00da058dccba753b6ec3e682
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ead4fc8f8b861d4721e7d5eccb141754796737d5
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434167"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749160"
 title: تقديم تجربة مخصصة للأجهزة المحمولة في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\n\nيوفر تطبيق Field Service Mobile المرونة لتخصيص التطبيق حسب احتياجات المؤسسة.  قد يرغب العملاء في تغيير طرق العرض المُحددة بالألوان أو طرق العرض التفاعلية أو إضافة مسح الرمز الشريطي أو حتى أتمتة وظائف محددة مع البرمجة النصية.  \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- يُمكنك إنشاء عوامل تصفية مزامنة للمساعدة في تحديد البيانات المتوفرة عند اتصال الإنترنت وانقطاعه.  \n- استخدم البرامج النصية للصفوف لتحسين العناصر المرئية المُقدمة في التطبيق.\n- العمل وفقًا لقواعد نموذج الجهاز المحمول لتوفير سيناريوهات الأتمتة.\n- استخدم الأوامر المخصصة لتوفير تجربة جهاز محمول مخصصة.  \n"
@@ -25,6 +25,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- development-tools
 units:
 - learn-bizapps.implement-deliver-a-customized-mobile-experience.1-common-asks-and-customizations
 - learn-bizapps.implement-deliver-a-customized-mobile-experience.2-views-and-visualizations

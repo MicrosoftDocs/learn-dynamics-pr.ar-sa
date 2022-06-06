@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 312b8858c582c1eed0a9d2f345c306eb5f441bd7
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 306b4892d726553d65904daba23a9335c51a9404
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431882"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748310"
 title: بدء استخدام Success by Design for Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nSuccess by Design هو الإرشادات الوصفية (أساليب وأفضل الممارسات) لتصميم حل Dynamics 365 وإنشائه ونشره. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام تقنيات FastTrack في مشروعك.\n- راجع عمليات وورش عمل Success by Design.\n- حدد المراحل المختلفة للمشروع.\n- اكتشف الأدوات المتوفرة لتعقب تقدم المشروع.\n"
@@ -35,6 +35,9 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- business-applications
+- process-workflow
 units:
 - learn-dynamics.success-by-design.1-introduction
 - learn-dynamics.success-by-design.2-overview

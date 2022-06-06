@@ -2,20 +2,20 @@
 uid: learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops
 metadata:
   title: تكوين الائتمان والتحصيلات في Dynamics 365 Finance
-  description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة باستخدام صفحة "التحصيلات" في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات.
+  description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادرًا على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة، صفحة التحصيلات في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b690ab55523470fb42553425d3620e2b17f2c30c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: add40b1a11ece3ecfd7a972fdd222b1af3efe4c8
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346069"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749465"
 title: تكوين الائتمان والتحصيلات في Dynamics 365 Finance
-summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة باستخدام صفحة \"التحصيلات\" في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات عمليات التحصيل والائتمان.\n- تكوين تقارير التقادم وأوعيه العملاء ووكلاء التحصيلات وتعريفات فترات التقادم.\n- إعداد الفوائد وإدارتها.\n- إعداد خطابات التحصيل وإدارتها.\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادرًا على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. تتم إدارة معلومات تحصيلات الحسابات المدينة في طريقة عرض مركزية واحدة، صفحة التحصيلات في Dynamics 365 Finance. بإمكان مدراء الائتمانات والتحصيلات استخدام طريقة العرض المركزية هذه لإدارة التحصيلات. \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين مكونات عمليات التحصيل والائتمان.\n- تكوين تقارير التقادم وأوعيه العملاء ووكلاء التحصيلات وتعريفات فترات التقادم.\n- إعداد الفوائد وإدارتها.\n- إعداد خطابات التحصيل وإدارتها.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
@@ -33,6 +33,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.1-config-credit-intro
 - learn-dynamics.configure-credit-and-collections-in-dynamics-365-finance-ops.2-config-ar-credit

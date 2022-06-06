@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5b5e283ba2c2a03ef3b15231816a51764d8f55d5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c0e06fd8bdae7c30d10d5c3ac9acdb2403363392
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7342235"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748029"
 title: تكوين مراقبة الجودة وإدارة الجودة والتعامل معهما في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nمن العوامل الهامة التي تؤثر في سمعة الشركة في السوق اليوم هي جودة البضائع والخدمات الخاصة بها. من خلال وجود إجراء قياسي لفحص جودة المنتجات عند وصولها من الموردين، والانتقال عبر سلسلة التوريد، وإرسالها إلى العملاء، يمكن للشركات تقليل عدد المرتجعات والاحتفاظ بسمعتها في السوق. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين إدارة الجودة\n- تنفيذ عمليات التحكم في الجودة\n- تطبيق حظر المخزون\n- إجراء إدارة العزل\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين إدارة الجودة\n- تنفيذ عمليات التحكم في الجودة\n- تطبيق حظر المخزون\n- إجراء إدارة العزل\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- المعرفة الأساسية بإجراءات التحكم في الجودة\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/configure-work-with-quality-control-in-dynamics-365-finance-ops.svg
 levels:
@@ -27,6 +27,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.1-configure-work-with-quality-control-intro
 - learn-dynamics.configure-work-with-quality-control-in-dynamics-365-finance-ops.3-configure-quality-management

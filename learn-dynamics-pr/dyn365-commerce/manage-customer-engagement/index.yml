@@ -2,20 +2,20 @@
 uid: learn-dynamics.manage-customer-engagement
 metadata:
   title: إدارة مشاركة العملاء في Dynamics 365 Commerce
-  description: الهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضاً عن العلامة التجارية لمتجر التجزئة.
+  description: الهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضًا عن العلامة التجارية لمتجر التجزئة.
   ms.date: 03/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 93b7cff5531014ad0b130f34168c290f80766e6c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 959d88f3b6c5b559f9f05b196637df7cce0c2ff5
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333533"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752799"
 title: إدارة مشاركة العملاء في Dynamics 365 Commerce
-summary: "[!include[](../includes/module-banner.md)] \nالهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضاً عن العلامة التجارية لمتجر التجزئة. يدعم Dynamics 365 Commerce برامج الولاء، والانتماءات، وبطاقات الهدايا، التي يمكن أن تساعد في تحفيز العملاء على التعامل مع العلامة التجارية لتاجر التجزئة.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم مفاهيم إدارة الولاء.\n- تعرف على كيفية تكوين برامج الولاء.\n- تعرف على الانتماءات.\n- تعرف على بطاقات الهدايا.\n"
+summary: "[!include[](../includes/module-banner.md)] \nالهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضًا عن العلامة التجارية لمتجر التجزئة. يدعم Dynamics 365 Commerce برامج الولاء، والانتماءات، وبطاقات الهدايا، التي يمكن أن تساعد في تحفيز العملاء على التعامل مع العلامة التجارية لتاجر التجزئة.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم مفاهيم إدارة الولاء.\n- تعرف على كيفية تكوين برامج الولاء.\n- تعرف على الانتماءات.\n- تعرف على بطاقات الهدايا.\n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce وقنواتها
 
@@ -31,6 +31,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.manage-customer-engagement.01-introduction
 - learn-dynamics.manage-customer-engagement.02-loyalty-management

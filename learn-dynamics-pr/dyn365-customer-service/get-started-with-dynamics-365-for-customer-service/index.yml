@@ -7,24 +7,24 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4eb99e1d92f936aeb46f48c263e88881e26f9e66
-  ms.sourcegitcommit: 0cbc164fda0ab8c2d868359a6af5d804665d8388
+  ms.openlocfilehash: 7645526135b3e03f248c24643e41c9a1873f65f7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/04/2021
-  ms.locfileid: "7473960"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752790"
 title: بدء استخدام Dynamics 365 Customer Service.
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تشكل Customer Service أحد الجوانب الرئيسية في أي استراتيجية لإدارة علاقات العملاء. تحتوي Customer Service في Microsoft Dynamics 365 على العديد من الميزات التي يمكن للمؤسسات استخدامها لإدارة الخدمات التي تقدمها للعملاء.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تعرف على أجزاء Dynamics 365 Customer Service
 
   - تعرف على كيفية تحسين Dynamics 365 Customer Service لتعزيز العلاقات مع العملاء
-prerequisites: لا شيء
+prerequisites: بلا
 iconUrl: /learn/achievements/get-started-with-dynamics-365-for-customer-service.svg
 levels:
 - beginner
@@ -34,6 +34,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 units:
 - learn-bizapps.customer-service-get-started.1-customer-service-get-started-overview
 - learn-bizapps.customer-service-get-started.2-customer-service-get-started-core-components

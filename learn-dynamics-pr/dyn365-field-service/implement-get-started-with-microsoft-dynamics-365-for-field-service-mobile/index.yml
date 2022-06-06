@@ -7,12 +7,12 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1411f0761bae0a13a4deccc9865239bec15d3168
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 952a25e223b4cc00aa7f9c04e0feb0785aa45486
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434187"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749142"
 title: بدء استخدام تطبيق Microsoft Dynamics 365 Field Service ‏‏Mobile
 summary: "[!include[](../includes/module-banner.md)]\n\nيتكون نشر Field Service Mobile من تحديد الميزات المطلوبة وتثبيت تطبيق الهاتف المحمول وإنشاء مشروعات متنقلة. وستنشر أيضًا مشروعات متنقلة وتخصص مشروعات متنقلة في هذه الوحدة.        \n"
 abstract: >
@@ -40,6 +40,10 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- field-management
+- employee-engagement
+- frontline-support
 units:
 - learn-bizapps.implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile.1-field-service-mobile-application-overview
 - learn-bizapps.implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile.2-deploy-and-customize-the-mobile-application

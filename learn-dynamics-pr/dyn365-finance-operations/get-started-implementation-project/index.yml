@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.get-started-implementation-project
 metadata:
-  title: بدء مشروع تنفيذ Finance and Operations
-  description: ستساعدك دورة حياة تنفيذ Finance and Operations على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ Finance and Operations، والأدوات المتاحة لدعمها.
+  title: بدء مشروع لتنفيذ التمويل والعمليات
+  description: ستساعدك دورة حياة تنفيذ التمويل والعمليات على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ التمويل والعمليات، والأدوات المتاحة لدعمها.
   ms.date: 07/27/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 105678f89f91f7574ce6432ea14d397e9759b080
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0f8757b93bbe9177abd1c244d18867797b5c8f16
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362676"
-title: بدء مشروع تنفيذ Finance and Operations
-summary: "[!include[](../includes/module-banner.md)] \nستساعدك دورة حياة تنفيذ Finance and Operations على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ Finance and Operations، والأدوار المضمنة والأدوات المتاحة لدعمها.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n  - تعرف على رحلة التنفيذ لمشروع Finance and Operations ناجح.  \n  - تحديد المراحل المختلفة لتنفيذ Finance and Operations.  \n"
-prerequisites: "- المعرفة الأساسية بتطبيقات Finance and Operations. \n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749636"
+title: بدء مشروع لتنفيذ التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)] \nستساعدك دورة حياة تنفيذ التمويل والعمليات على فهم أفضل الممارسات الموصي بها لإنجاز رحلة ناجحة من خلال تنفيذ التمويل والعمليات، والأدوار المضمنة والأدوات المتاحة لدعمها.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n  - تعرف على رحلة تنفيذ مشروع تمويل وعمليات ناجح.  \n  - تحديد المراحل المختلفة لتنفيذ التمويل والعمليات.  \n"
+prerequisites: "- المعرفة الأساسية بتطبيقات التمويل والعمليات. \n"
 iconUrl: /learn/achievements/get-started-finance-operations-implementation-project.svg
 levels:
 - intermediate
@@ -29,6 +29,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- process-workflow
 units:
 - learn-dynamics.get-started-implementation-project.01-implementation-overview
 - learn-dynamics.get-started-implementation-project.01-2-roles

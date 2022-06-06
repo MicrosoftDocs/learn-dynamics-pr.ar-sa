@@ -8,16 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: d30f6e874755919383091235e8ee678eedfc0908
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e63f6fb6cb3b26ff94554bc4471ae0b6cfcf8de6
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457570"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752877"
 title: العمل باستخدام المتطلبات كمهندس حلول لـ Microsoft Power Platform وDynamics 365
 summary: "[!include[](../includes/module-banner.md)] \n\nمن المهم تسجيل احتياجات العميل بدقة. وتوضح هذه الوحدة كيفية تسجيل المتطلبات وتحديد الأصناف الوظيفية وغير الوظيفية. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية قيادة جلسات عميل تسجيل المتطلبات. \n- تعرف على كيفية التمييز بين المتطلبات الوظيفية وغير الوظيفية. \n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية قيادة جلسات عميل تسجيل المتطلبات. \n- تعرف على كيفية التمييز بين المتطلبات الوظيفية وغير الوظيفية. \n"
+prerequisites: بلا
 iconUrl: /learn/achievements/work-with-requirements.svg
 levels:
 - advanced
@@ -39,6 +39,8 @@ products:
 - power-bi
 - power-apps
 - power-platform
+subjects:
+- field-management
 units:
 - learn-dynamics.work-with-requirements.1-introduction
 - learn-dynamics.work-with-requirements.2-capture-sessions

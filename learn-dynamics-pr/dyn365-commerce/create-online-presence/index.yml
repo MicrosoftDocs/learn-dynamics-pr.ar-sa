@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d1679f41c225e73adb03efa2519b35701487ece6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8d9d32bba778862e521bd4e720ca9301e8300468
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337943"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753829"
 title: إنشاء حضور عبر الإنترنت في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيضيف Dynamics 365 Commerce مجموعة أدوات أصلية للتجارة الإلكترونية إلى إمكانات Dynamics 365 الحالية. إنه مصمم لتبسيط أعمال بائع التجزئة من خلال حل شامل عبر القنوات التقليدية والناشئة. تشمل الإمكانات أدوات تطوير وتأليف مدمجة، وواجهات متاجر رقمية ذكية وجذابة، ومنصة تسويق وتجارة متصلة، وغير ذلك الكثير. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء وإدارة متجر على الإنترنت. \n- تعرف على كيفية استخدام أداة إنشاء المواقع لإنشاء موقع تجارة إلكترونية وإدارته.\n- تعرف علي مكتبة الوحدات واستخدمها. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء وإدارة متجر على الإنترنت. \n- تعرف على كيفية استخدام أداة إنشاء المواقع لإنشاء موقع تجارة إلكترونية وإدارته.\n- تعرف علي مكتبة الوحدات واستخدمها. \n"
 prerequisites: "- الفهم العام لـ Dynamics 365 Commerce وقنوات Commerce \n"
 iconUrl: /learn/achievements/create-online-presence-commerce.svg
 levels:
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.create-online-presence.01-introduction
 - learn-dynamics.create-online-presence.02-create-online-store

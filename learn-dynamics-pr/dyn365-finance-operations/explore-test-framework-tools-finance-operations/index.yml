@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
 metadata:
-  title: استكشاف إطار عمل الاختبار والأدوات في تطبيقات Finance and Operations
-  description: في تطبيقات Finance and Operations، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظاماً لإدارة سجل نظيف للاختبار.
+  title: استكشف إطار عمل الاختبار والأدوات في تطبيقات التمويل والعمليات
+  description: في تطبيقات التمويل والعمليات، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظامًا لإدارة سجل نظيف للاختبار.
   ms.date: 07/01/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 91bc724f64382f927a66526aa3e9b78d38b25ba4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d2283b2a3948169e4bf341310abccf286822d426
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340415"
-title: استكشاف إطار عمل الاختبار والأدوات في تطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nفي تطبيقات Finance and Operations، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظاماً لإدارة سجل نظيف للاختبار. \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- القدرات والفوائد الخاصة بإطار عمل اختبار الوحدة.\n- إمكانيات مسجل المهام وفوائده.\n- فوائد أداه أفضل الممارسات.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751105"
+title: استكشف إطار عمل الاختبار والأدوات في تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nفي تطبيقات التمويل والعمليات، يساعد إطار عمل الاختبار على التخفيف من المخاطر ويوفر نظامًا لإدارة سجل نظيف للاختبار. \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- القدرات والفوائد الخاصة بإطار عمل اختبار الوحدة.\n- إمكانيات مسجل المهام وفوائده.\n- فوائد أداه أفضل الممارسات.\n"
 prerequisites: >
   - الفهم الأساسي لـ Visual Studio
 
@@ -23,7 +23,7 @@ prerequisites: >
 
   - فهم لغة التطوير X++
 
-  - المعرفة العامة بتطبيقات Finance and Operations
+  - المعرفة العامة بتطبيقات التمويل والعمليات
 
   - فهم العناصر والنماذج والحزم
 iconUrl: /learn/achievements/explore-test-framework-tools-dynamics-365-finance-operations.svg
@@ -36,6 +36,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- development-tools
+- custom-app-development
 units:
 - learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.01-introduction
 - learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations.02-framework

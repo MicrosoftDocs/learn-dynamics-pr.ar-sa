@@ -8,16 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 4209b69afc6ed000b3e4d94804ba84c623aee3dc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a4567d6ceb59ed41f6386ab393bc0ad68fa4ca76
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457513"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8747967"
 title: اقتراح حل كمهندس حلول لـ Microsoft Power Platform وDynamics 365
 summary: "[!include[](../includes/module-banner.md)] \n\nتعرف على كيفية اقتراح حل. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد مكونات الحل. \n- إعداد العرض التوضيحي والتحقق من صحته. \n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد مكونات الحل. \n- إعداد العرض التوضيحي والتحقق من صحته. \n"
+prerequisites: بلا
 iconUrl: /learn/achievements/propose-solution.svg
 levels:
 - advanced
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - power-platform
+subjects:
+- field-management
 units:
 - learn-dynamics.propose-solution.1-introduction
 - learn-dynamics.propose-solution.2-components

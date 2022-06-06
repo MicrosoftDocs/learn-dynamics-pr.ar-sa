@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 143da7d1e07f5e8ed8a5bac2007377df45305c0c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2a47a9b61ff1f8962a4b9763e8bc356628517a77
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327365"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750474"
 title: إنشاء بطاقات كانبان الثابتة ومعالجتها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لوحة جدولة كانبان لمخطط الإنتاج التحكم في خطة الإنتاج لوظائف كانبان وتحسينها. فهي تجعل تدفق وظائف كانبان شفافاً وتمنح مخطط الإنتاج أداة تعمل على تحسين وتعديل خطة الإنتاج لخلية عمل lean manufacturing. ترتبط قواعد كانبان في Dynamics 365 Supply Chain Management بتدفقات الإنتاج باعتبارها الأساس الذي يحدد أنشطة كانبان. يمكن إعداد قواعد كانبان لدعم مجموعة متنوعة من سيناريوهات التجهيز للمخزون والتصنيع حسب الطلب. تشرح هذه الوحدة كيفية التعامل مع لوحات جدولة كانبان وتصف أنواع كانبان واستراتيجيات تزويد كانبان وقواعد كانبان للكمية الثابتة. \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- قواعد كانبان.\n- بطاقات كانبان التصنيع.\n- بطاقات كانبان السحب.\n- بطاقات كانبان للكمية الثابتة.\n- عمليات حساب كمية كانبان وبطاقات كانبان المتداولة. \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- قواعد كانبان.\n- بطاقات كانبان التصنيع.\n- بطاقات كانبان السحب.\n- بطاقات كانبان للكمية الثابتة.\n- عمليات حساب كمية كانبان وبطاقات كانبان المتداولة. \n"
 prerequisites: >
   - المعرفة العامة بعمليات التصنيع
 
@@ -34,6 +34,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- manufacturing-processes
 units:
 - learn-dynamics.create-process-fixed-kanbans.1-introduction-create-process-fixed-kanbans
 - learn-dynamics.create-process-fixed-kanbans.2-understand-kanban-boards

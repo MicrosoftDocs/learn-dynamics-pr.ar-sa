@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.compare-integration-ax-2012-finance-operations
 metadata:
-  title: مقارنة التكاملات في تطبيقات Finance and Operations مع Dynamics AX 2012
-  description: إذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات Finance and Operations، فينبغي أن تفهم سيناريوهات ومفاهيم تكامل Dynamics 365 المتاحة.
+  title: مقارنة عمليات التكامل في تطبيقات التمويل والعمليات باستخدام Dynamics AX 2012
+  description: إذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات التمويل والعمليات، فينبغي أن تفهم سيناريوهات ومفاهيم تكامل Dynamics 365 المتاحة.
   ms.date: 03/08/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b4a24809cb82f490d078a03ad930e56de87300cb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 415078c9c9d6d777034c7e4f1401452fd937abb2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327730"
-title: مقارنة التكاملات في تطبيقات Finance and Operations مع Dynamics AX 2012
-summary: "[!include[](../includes/module-banner.md)] \nإذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات Finance and Operations، فينبغي أن تفهم سيناريوهات ومفاهيم تكامل Dynamics 365 المتاحة.    \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- الفروق في بنية التكامل بين Dynamics AX 2012 وتطبيقات Finance and Operations.\n- مفاهيم تكامل Dynamics 365 والأنظمة الأساسية والأدوات. \n- أحداث الأعمال لتمكين تكامل عمليات الأعمال.\n- أنماط وسيناريوهات التكامل\n- العوامل التي يجب مراعاتها عند تنفيذ التكامل.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749025"
+title: مقارنة عمليات التكامل في تطبيقات التمويل والعمليات باستخدام Dynamics AX 2012
+summary: "[!include[](../includes/module-banner.md)] \nإذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات التمويل والعمليات، فينبغي أن تفهم سيناريوهات ومفاهيم تكامل Dynamics 365 المتاحة.    \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- الفروق في بنية التكامل بين Dynamics AX 2012 تطبيقات التمويل والعمليات.\n- مفاهيم تكامل Dynamics 365 والأنظمة الأساسية والأدوات. \n- أحداث الأعمال لتمكين تكامل عمليات الأعمال.\n- أنماط وسيناريوهات التكامل\n- العوامل التي يجب مراعاتها عند تنفيذ التكامل.\n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
-  - المعرفة بتطبيقات Finance and Operations
+  - معرفة تطبيقات التمويل والعمليات
 iconUrl: /learn/achievements/compare-integration-ax-2012-finance-operations.svg
 levels:
 - intermediate
@@ -31,6 +31,9 @@ products:
 - dynamics-finance-operations
 - dynamics-scm
 - dynamics-finance
+subjects:
+- business-applications
+- data-management
 units:
 - learn-dynamics.compare-integration-ax-2012-finance-operations.01-introduction
 - learn-dynamics.compare-integration-ax-2012-finance-operations.02-architecture-comparison

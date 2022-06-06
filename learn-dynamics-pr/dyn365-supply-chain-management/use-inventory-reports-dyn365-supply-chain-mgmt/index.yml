@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 854e98dd44adef8785f7e24726a411e2d2c5e6b4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a28c69b4839529c1fd1caf6eeaa49900cfc440a7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359460"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750008"
 title: استخدام تقارير المخزون في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nأحد عوامل نجاح الأعمال هو رؤية مقدار المخزون الموجود في أي وقت. ستُظهر تقارير المخزون في Dynamics 365 Supply Chain Management مقدار المخزون لديك بطرق مختلفة، وسوف تشرح كيف تكون أكثر فعالية في استثمارات المخزون الخاصة بك.   \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- فهم تصنيف ABC.\n- استخدام تقرير المخزون الفعلي عن طريق بعد المخزون.\n- استخدم تقارير قيمة المخزون، وكذلك تخزين التقرير المتاح للمخزون.\n- استخدام مساحة العمل المحمولة المخزون الفعلي‬.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- فهم تصنيف ABC.\n- استخدام تقرير المخزون الفعلي عن طريق بعد المخزون.\n- استخدم تقارير قيمة المخزون، وكذلك تخزين التقرير المتاح للمخزون.\n- استخدام مساحة العمل المحمولة المخزون الفعلي‬.\n"
 prerequisites: >
   - المعرفة العامة بعمليات سلاسل التوريد
 
@@ -30,6 +30,10 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
+- finance-accounting
+- process-workflow
 units:
 - learn-dynamics.use-inventory-reports-in-dynamics-365-finance-ops.1-use-inventory-reports-introduction
 - learn-dynamics.use-inventory-reports-in-dynamics-365-finance-ops.2-abc-inventory-classification

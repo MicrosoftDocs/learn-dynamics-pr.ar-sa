@@ -2,24 +2,24 @@
 uid: learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations
 metadata:
   title: استكشف البنية التقنية لتطبيقات التمويل والعمليات
-  description: لبدء التطوير في تطبيقات التمويل والعمليات، ينبغي عليك فهم المفاهيم الأساسية للتطوير، بما في ذلك الحزم والنماذج والعناصر. بالإضافة إلى ذلك، وبصفتك مطوراً، ستحتاج إلى فهم أدوات وعمليات إدارة ‏‫بَيانات التعريف والتحكم في المصدر باستخدام Azure DevOps. وأخيراً، ستناقش هذه الوحدة أيضاً الغرض من Lifecycle Services (LCS) والحزم القابلة للنشر وأهميتها خلال تطوير تطبيقات التمويل والعمليات وتنفيذها.
+  description: لبدء التطوير في تطبيقات التمويل والعمليات، ينبغي عليك فهم المفاهيم الأساسية للتطوير، بما في ذلك الحزم والنماذج والعناصر. بالإضافة إلى ذلك، وبصفتك مطوراً، ستحتاج إلى فهم أدوات وعمليات إدارة ‏‫بَيانات التعريف والتحكم في المصدر باستخدام Azure DevOps. وأخيراً، ستناقش هذه الوحدة أيضًا الغرض من Lifecycle Services (LCS) والحزم القابلة للنشر وأهميتها خلال تطوير تطبيقات التمويل والعمليات وتنفيذها.
   ms.date: 03/18/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 26ba70bf222027063ca2f075e71890d4d6731239
-  ms.sourcegitcommit: 28c6f0e9c300675df166282f95aebfd199c0beeb
+  ms.openlocfilehash: 0175686b531d673b8b9c2f5c65324052236d3b57
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "8457804"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749690"
 title: استكشف البنية التقنية لتطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  لبدء التطوير في تطبيقات التمويل والعمليات، ينبغي عليك فهم المفاهيم الأساسية للتطوير، بما في ذلك الحزم والنماذج والعناصر. بالإضافة إلى ذلك، وبصفتك مطوراً، ستحتاج إلى فهم أدوات وعمليات إدارة ‏‫بَيانات التعريف والتحكم في المصدر باستخدام Azure DevOps. وأخيراً، ستناقش هذه الوحدة أيضاً الغرض من Lifecycle Services (LCS) والحزم القابلة للنشر وأهميتها خلال تطوير تطبيقات التمويل والعمليات وتنفيذها.
-abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- ‏‫التمييز بين البنية المحلية وبنية السحابة لتطبيقات التمويل والعمليات.\n- تعرف على الأغراض والعلاقات بين الحزم والنماذج والعناصر.\n- تعرف على مكونات التطبيق والهندسة المعمارية.\n- تفصيل إدارة بَيانات التعريف وعمليات التحكم بالمصدر.\n- استخدام Lifecycle Services (LCS) وفهم الغرض منها.\n"
+  لبدء التطوير في تطبيقات التمويل والعمليات، ينبغي عليك فهم المفاهيم الأساسية للتطوير، بما في ذلك الحزم والنماذج والعناصر. بالإضافة إلى ذلك، وبصفتك مطوراً، ستحتاج إلى فهم أدوات وعمليات إدارة ‏‫بَيانات التعريف والتحكم في المصدر باستخدام Azure DevOps. وأخيراً، ستناقش هذه الوحدة أيضًا الغرض من Lifecycle Services (LCS) والحزم القابلة للنشر وأهميتها خلال تطوير تطبيقات التمويل والعمليات وتنفيذها.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- ‏‫التمييز بين البنية المحلية وبنية السحابة لتطبيقات التمويل والعمليات.\n- تعرف على الأغراض والعلاقات بين الحزم والنماذج والعناصر.\n- تعرف على مكونات التطبيق والهندسة المعمارية.\n- تفصيل إدارة بَيانات التعريف وعمليات التحكم بالمصدر.\n- استخدام Lifecycle Services (LCS) وفهم الغرض منها.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 iconUrl: /learn/achievements/explore-technical-architecture-dynamics-365-finance-operations.svg
@@ -32,6 +32,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- architecture
+- devops
 units:
 - learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.1-cloud-on-prem
 - learn-dynamics.explore-technical-architecture-dynamics-365-finance-operations.2-elem-model-pack

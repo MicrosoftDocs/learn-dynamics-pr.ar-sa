@@ -2,19 +2,19 @@
 uid: learn-bizapps.get-started-set-up-and-manage
 metadata:
   title: إعداد Dynamics 365 Marketing وإدارته
-  description: تحويل العملاء المحتملين إلى علاقات عمل باستخدام Microsoft Dynamics 365 Marketing. تجاوز التسويق الأساسي عبر البريد الإلكتروني لتحديد المزيد من العملاء المتوقعين الجاهزين للمبيعات. سهولة ربط المبيعات والتسويق وأتمتة العمليات واتخاذ قرارات أكثر ذكاءً لزيادة عائد الاستثمار التسويقي إلى أقصى حد.
+  description: تحويل المتطوعين المحتملين إلى علاقات عمل باستخدام Microsoft Dynamics 365 Marketing. تجاوز التسويق الأساسي عبر البريد الإلكتروني لتحديد المزيد من العملاء المتوقعين الجاهزين للمبيعات. سهولة ربط المبيعات والتسويق وأتمتة العمليات واتخاذ قرارات أكثر ذكاءً لزيادة عائد الاستثمار التسويقي إلى أقصى حد.
   ms.date: 05/14/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 26f68f323d36655f94e52890da0492668a1f3c28
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 22a4e8d851db5bf0fef258ccbee0802d5b7d87f8
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435487"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749420"
 title: إعداد Dynamics 365 Marketing وإدارته
-summary: "[!include[](../includes/module-banner.md)]\n\nتحويل العملاء المحتملين إلى علاقات عمل باستخدام Microsoft Dynamics 365 Marketing. تجاوز التسويق الأساسي عبر البريد الإلكتروني لتحديد المزيد من العملاء المتوقعين الجاهزين للمبيعات. سهولة ربط المبيعات والتسويق وأتمتة العمليات واتخاذ قرارات أكثر ذكاءً لزيادة عائد الاستثمار التسويقي إلى أقصى حد. \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتحويل المتطوعين المحتملين إلى علاقات عمل باستخدام Microsoft Dynamics 365 Marketing. تجاوز التسويق الأساسي عبر البريد الإلكتروني لتحديد المزيد من العملاء المتوقعين الجاهزين للمبيعات. سهولة ربط المبيعات والتسويق وأتمتة العمليات واتخاذ قرارات أكثر ذكاءً لزيادة عائد الاستثمار التسويقي إلى أقصى حد. \n"
 abstract: >
   خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
@@ -32,6 +32,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-marketing
+subjects:
+- marketing-sales
 units:
 - learn-bizapps.get-started-set-up-and-manage.1-introduction
 - learn-bizapps.get-started-set-up-and-manage.2-trial

@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 036e304ed0b569d24bb3e5f2503698b9240f1fd5
-  ms.sourcegitcommit: 29aa020ed042aa4fa920d116563fa3fd06cf5ece
+  ms.openlocfilehash: f682ffe4ef53c1fea12c5fc55d47c04b4582aaea
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/29/2021
-  ms.locfileid: "7725542"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753175"
 title: الشروع في العمل مع التوجيه الموحد باستخدام Dynamics 365 Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   يساعد Dynamics 365 Customer Service المؤسسات على إدارة المشكلات التي يواجهها العملاء وحلها. وبطريقة تقليدية، يمكنك تنفيذ إدارة الحالة باستخدام المكونات الأساسية لـ Customer Service. يتمثل أحد هذه المكونات الأساسية في التوجيه الموحد الذي تم شرحه في هذه الوحدة.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تعرف على مجموعات قواعد التوجيه الأساسية.
 
@@ -39,6 +39,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 units:
 - learn-dynamics.unified-routing.1-introduction
 - learn-dynamics.unified-routing.2-basic-routing

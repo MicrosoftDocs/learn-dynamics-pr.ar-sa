@@ -7,12 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 57cb13fa2e1383c8c5ac0e5428edf3e1cbf05388
-  ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
+  ms.openlocfilehash: 0543af3af726b561f03873467f9ddfb3e8dc4b2a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/16/2021
-  ms.locfileid: "7925226"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753048"
 title: العمل مع رؤى الجمهور في Dynamics 365
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   تعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد. في هذه الوحدة، تعرف على كيفية العمل مع رؤى الجمهور.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تكوين فهارس البحث والتصفية.
 
@@ -29,7 +29,7 @@ abstract: >
   - العمل مع المقاييس.
 
   - استخدام رؤى الجمهور.
-prerequisites: لا شيء
+prerequisites: بلا
 iconUrl: /learn/achievements/working-with-customer-insights.svg
 levels:
 - intermediate
@@ -42,6 +42,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-cust-insights
+subjects:
+- business-applications
 units:
 - learn-dynamics.working-with-customer-insights.1-introduction
 - learn-dynamics.working-with-customer-insights.2-search-filter

@@ -2,21 +2,21 @@
 uid: learn-dynamics.overview-d365-sales-professional
 metadata:
   title: نظرة عامة على Dynamics 365 Sales Professional
-  description: ما هو Dynamics 365 Sales Professional وكيف أبدأ في استخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية.
+  description: ما المقصود بـ Dynamics 365 Sales Professional وكيف يمكنني الشروع في العمل باستخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية.
   ms.date: 09/15/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 09438a771ee547570bc939fdeccd5c70f1d3427f
-  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.openlocfilehash: cfaef4cbcfbfb53244df1c0e3a20e44dbc62bf02
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/16/2021
-  ms.locfileid: "7498130"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748854"
 title: نظرة عامة على Dynamics 365 Sales Professional
-summary: "[!include[](../includes/module-banner.md)]\nما هو Dynamics 365 Sales Professional وكيف أبدأ في استخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أساسيات Dynamics 365 Sales Professional\n- تعرف على الحسابات وجهات الاتصال\n- استكشف أنشطة مثل المكالمات الهاتفية والمواعيد والبريد الإلكتروني والمهام\n"
-prerequisites: لا‬‬ شيء
+summary: "[!include[](../includes/module-banner.md)]\nما المقصود بـ Dynamics 365 Sales Professional وكيف يمكنني الشروع في العمل باستخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعلُّم أساسيات Dynamics 365 Sales Professional\n- تعرف على الحسابات وجهات الاتصال\n- استكشف أنشطة مثل المكالمات الهاتفية والمواعيد والبريد الإلكتروني والمهام\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/overview-d365-sales-professional.svg
 levels:
 - beginner
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.overview-d365-sales-professional.1-introduction
 - learn-dynamics.overview-d365-sales-professional.2-learn-the-basics

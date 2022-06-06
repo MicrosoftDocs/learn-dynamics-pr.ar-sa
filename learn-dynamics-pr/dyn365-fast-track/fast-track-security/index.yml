@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8c11985cf232c0bf0e62407b5a02ecaf1de61021
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 1febcf4352c4e8e3b9dea5b38faf0bf9b3959474
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431873"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753902"
 title: مراجعه نموذج الأمان الخاص بحلول Dynamics 365 الخاصة بك
 summary: "[!include[](../includes/module-banner.md)] \nوتعد استراتيجية الأمان بمثابه مفتاح للحلول، سيساعد نموذج الأمان ورشه علي التحقق من ان نموذج أمان العميل شامل وانه سيدعم استراتيجية الأمان طويلة الأجل.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تقييم نموذج الأمان المقترح.\n- تقديم ملاحظات وتوصيات لتمييز المخاطر الفنية والمشاكل. \n"
@@ -35,6 +35,8 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- security
 units:
 - learn-dynamics.fast-track-security.1-introduction
 - learn-dynamics.fast-track-security.2-security-workshop-topics

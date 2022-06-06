@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 748605cf04ae9044f0fba1c503884a23369f654b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 907843f4c94ab59e9578c1b10ebe86370459c5f7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748817"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752304"
 title: توزيع Dynamics 365 Project Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -36,6 +36,9 @@ products:
 - dynamics-finance-operations
 - dynamics-sales
 - dynamics-field-service
+subjects:
+- business-applications
+- supply-chain-management
 modules:
 - learn-dynamics.get-started-project-operations
 - learn-dynamics.explore-architecture-project-operations

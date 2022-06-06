@@ -2,21 +2,21 @@
 uid: learn-dynamics.power-platform-mobile-management
 metadata:
   title: إدارة Microsoft Power Platform للأجهزة المحمولة
-  description: مع ازدياد استخدام الأجهزة المحمولة في العالم، أصبح فهم قدرات Microsoft Power Platform للأجهزة المحمولة لا يتيح للمستشارين الوظيفيين ضمان الوصول السهل من أجهزة المحمول فحسب، بل الاستفادة أيضاً من عامل التصميم الفريد عند تنفيذ حلول Dynamics 365.
+  description: مع ازدياد استخدام الأجهزة المحمولة في العالم، أصبح فهم قدرات Microsoft Power Platform للأجهزة المحمولة لا يتيح للمستشارين الوظيفيين ضمان الوصول السهل من أجهزة المحمول فحسب، بل الاستفادة أيضًا من عامل التصميم الفريد عند تنفيذ حلول Dynamics 365.
   ms.date: 06/01/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: bff1be6ff843998e7f5e8f0a0bb608e5932b6ae8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d5023360f0fd73acadb60fa67767ffac10d20e95
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358825"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750297"
 title: إدارة Microsoft Power Platform للأجهزة المحمولة
-summary: "[!include[](../includes/module-banner.md)]\n\nمع ازدياد استخدام الأجهزة المحمولة في العالم، أصبح فهم قدرات Microsoft Power Platform للأجهزة المحمولة لا يتيح للمستشارين الوظيفيين ضمان الوصول السهل من أجهزة المحمول فحسب، بل الاستفادة أيضاً من عامل التصميم الفريد عند تنفيذ حلول Dynamics 365. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين الوصول من الأجهزة المحمولة لتطبيقات Dynamics 365 Customer Engagement\n- إدارة الوصول إلى إمكانيات الأجهزة المحمولة\n- التحقق من المتطلبات الفنية للوصول عبر الأجهزة المحمولة\n- قدرات Dynamics 365 للهاتف المحمول\n-   تمكين وضع عدم الاتصال بالأجهزة المحمولة وإدارته\n- التكامل العميق مع Microsoft 365\n- إنشاء عمليات سير المهام وتشغيلها\n- تشغيل ‬Power Apps\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nمع ازدياد استخدام الأجهزة المحمولة في العالم، أصبح فهم قدرات Microsoft Power Platform للأجهزة المحمولة لا يتيح للمستشارين الوظيفيين ضمان الوصول السهل من أجهزة المحمول فحسب، بل الاستفادة أيضًا من عامل التصميم الفريد عند تنفيذ حلول Dynamics 365. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تمكين الوصول من الأجهزة المحمولة لتطبيقات Dynamics 365 Customer Engagement\n- إدارة الوصول إلى إمكانيات الأجهزة المحمولة\n- التحقق من المتطلبات الفنية للوصول عبر الأجهزة المحمولة\n- قدرات Dynamics 365 للهاتف المحمول\n-   تمكين وضع عدم الاتصال بالأجهزة المحمولة وإدارته\n- التكامل العميق مع Microsoft 365\n- إنشاء عمليات سير المهام وتشغيلها\n- تشغيل ‬Power Apps\n"
 prerequisites: فهم عملاء Microsoft Power Platform. ويُفضَّل وجود فهم أساسي لعمليات سير المهام وPower Apps.
 iconUrl: /learn/achievements/microsoft-power-platform-mobile-management.svg
 levels:
@@ -29,6 +29,8 @@ products:
 - dynamics-365
 - power-apps
 - power-platform
+subjects:
+- device-management
 units:
 - learn-dynamics.power-platform-mobile-management.1-enable-mobile-access-ce-apps
 - learn-dynamics.power-platform-mobile-management.2-manage-access

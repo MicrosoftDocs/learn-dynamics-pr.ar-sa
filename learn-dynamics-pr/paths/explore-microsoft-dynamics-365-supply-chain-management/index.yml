@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 64a9880751a42138f4a8fbfcd0fb930058e1c45d
-  ms.sourcegitcommit: ac9c23a23eec5fa2091dce74f9e06c550c7ec809
+  ms.openlocfilehash: 5b9ea214ad102cff32f8cbb6182c467f70ccb689
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "7748813"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752232"
 title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Supply Chain Management'
 prerequisites: >
   يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-scm
+subjects:
+- supply-chain-management
 modules:
 - learn.wwl.get-introduced-finance-operations-apps
 - learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management

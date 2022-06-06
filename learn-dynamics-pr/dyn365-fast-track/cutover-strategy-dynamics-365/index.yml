@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a5da59b360ac3db1b1a24bdbcfef4c773579f5c2
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 8c5afe87cd91a05ac6fe1f3435ad739403a763ab
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431881"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748076"
 title: استراتيجية التكوين المرحلي لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nإن الهدف من ورشة عمل استراتيجية التكوين المرحلي هي مساعدة هذه الوحدة على ضمان أنها طريقة جيدة للتخطيط والاستعداد المتزايد والاختبار وتنفيذ التكوين المرحلي. يجب مراعاة العديد من المناطق المختلفة عند مناقشه استراتيجية تكوين مرحلي، وتوفر ورشة العمل هذه إطار العمل الضروري لمراجعة هذه الموضوعات الرئيسية.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على ورشة عمل استراتيجية التكوين المرحلي.\n- التحضير لورشة عمل استراتيجية التكوين المرحلي.\n- تعرف على كيفية عقد ورشة عمل استراتيجية التكوين المرحلي\n- المتابعة بعد ورشة عمل استراتيجية التكوين المرحلي.\n"
@@ -44,6 +44,8 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- business-applications
 units:
 - learn-dynamics.cutover-strategy-dynamics-365.1-introduction
 - learn-dynamics.cutover-strategy-dynamics-365.2-purpose

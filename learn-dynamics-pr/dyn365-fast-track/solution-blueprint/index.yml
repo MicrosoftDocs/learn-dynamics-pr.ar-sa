@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 97387899fce9ef4e8bbd9146ed121fa222002bd7
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 753e2f1195e173dc3ac4a0f5c4b7ef6ed6673820
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431885"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750728"
 title: إنشاء مخطط حل لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nتعتبر ورشة عمل مخطط الحل جزءاً من Success by Design. تركز هذه الوحدة على إنشاء المخطط وإجراء ورشة العمل لإنشائه.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على كيفية تحديد أهداف المشروع\n- التعرف على استراتيجية المستأجر الخاصة بالمشروع\n- خذ بعين الاعتبار أي متطلبات غير وظيفية\n- التعرف على التحضير لورشة عمل مخطط الحل وإجرائها\n"
@@ -40,6 +40,10 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- process-workflow
+- data-visualization
+- business-applications
 units:
 - learn-dynamics.solution-blueprint.1-introduction
 - learn-dynamics.solution-blueprint.2-workshop-topics

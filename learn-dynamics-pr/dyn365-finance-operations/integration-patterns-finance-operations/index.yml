@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations
 metadata:
-  title: تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات Finance and Operations
-  description: بصفتك مطوراً، فستكون بشكل عام جزءاً من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات Finance and Operations وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.
+  title: ‏‫تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات التمويل والعمليات
+  description: بصفتك مطورًا، فستكون بشكل عام جزءًا من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات التمويل والعمليات. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات التمويل والعمليات وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.
   ms.date: 07/19/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8d493a6a6b085307f8648125a2d360b52b631150
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ab1dcedbdccdae422cf113a29b4f9fb7be7c02d3
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7354653"
-title: تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nبصفتك مطوراً، فستكون بشكل عام جزءاً من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات Finance and Operations وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد واجهات برمجة تطبيقات الويب المتكاملة.\n- استكشف سيناريوهات تكامل البيانات المتاحة.\n- حدد الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749618"
+title: ‏‫تحديد أنماط وسيناريوهات تكامل البيانات في تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nبصفتك مطورًا، فستكون بشكل عام جزءًا من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات التمويل والعمليات. تستكشف هذه الوحدة واجهات برمجة تطبيقات الويب (API) المتوفرة لتطبيقات التمويل والعمليات وستساعدك على فهم الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة للتطبيق.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد واجهات برمجة تطبيقات الويب المتكاملة.\n- استكشف سيناريوهات تكامل البيانات المتاحة.\n- حدد الاختلافات الرئيسية بين عمليات التكامل المتزامنة وغير المتزامنة.\n"
 prerequisites: >
-  - الفهم الأساسي لتطبيقات Finance and Operations
+  - الفهم الأساسي لتطبيقات التمويل والعمليات
 iconUrl: /learn/achievements/integration-patterns-dynamics-365-finance-operations.svg
 levels:
 - intermediate
@@ -29,6 +29,10 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- devops
+- data-ai
+- data-management
 units:
 - learn-dynamics.integration-patterns-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.integration-patterns-dynamics-365-finance-operations.2-api

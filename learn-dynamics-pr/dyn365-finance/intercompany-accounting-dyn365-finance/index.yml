@@ -7,16 +7,16 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cfe7cd4ad400e26eb60b5229a0c0c63db196012f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: da9fc7d0b26f3c36746fa73b2ce6017f24223a87
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337703"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748292"
 title: المحاسبة بين الشركات الشقيقة في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك استخدام المحاسبة بين الشركات الشقيقة عندما تتمركز العمليات المحاسبية للشركات التابعة أو المكاتب الفرعية. باستخدام المحاسبة بين الشركات الشقيقة، يمكنك إنشاء إدخال واحد يتم ترحيله إلى شركات متعددة. يوفر Dynamics 365 Finance الميزات التي تساعدك في إعداد النظام ومعالجة الحركات وتعقب الحركات بين الشركات الشقيقة. \n"
 abstract: >
-  سوف تتعرف في هذه الوحدة على كيفية:
+  في هذه الوحدة، ستتعرف على كيفية القيام بما يلي:
 
   - إعداد المحاسبة بين الشركات الشقيقة
 
@@ -39,6 +39,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.intercompany-accounting-in-dynamics-365-finance-ops.1-intercompany-introduction
 - learn-dynamics.intercompany-accounting-in-dynamics-365-finance-ops.2-set-up-intercompany-accounting

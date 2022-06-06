@@ -1,27 +1,27 @@
 ### YamlMime:Module
 uid: learn-dynamics.business-events-dynamics-365-finance-operations
 metadata:
-  title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
-  description: توفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال.
+  title: استخدام أحداث الأعمال في تطبيقات التمويل والعمليات
+  description: توفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات التمويل والعمليات. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال.
   ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 23dceb0932ce7ca3a64c63d774b0cc4a277e34e0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d0b8aaa09925b43bb32da0f85a930a2c37fba5a2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365069"
-title: استخدام أحداث الأعمال في تطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات Finance and Operations. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749798"
+title: استخدام أحداث الأعمال في تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات التمويل والعمليات. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n"
 prerequisites: >
-  - الإلمام بتطبيقات Finance and Operations
+  - الإلمام بتطبيقات التمويل والعمليات
 
   - خبرة متوسطة بالترميز في X++، بما في ذلك إنشاء ملحقات الفئات
 
-  - معرفه إطار عمل الملحق في تطبيقات Finance and Operations
+  - معرفة إطار عمل الملحق في تطبيقات التمويل والعمليات
 
   - فهم كيفية إنشاء ملحق فئة جديد وإضافة أساليب جديدة
 iconUrl: /learn/achievements/business-events-dynamics-365-finance-operations.svg
@@ -35,6 +35,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- development-tools
+- communication
 units:
 - learn-dynamics.business-events-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.business-events-dynamics-365-finance-operations.2-framework

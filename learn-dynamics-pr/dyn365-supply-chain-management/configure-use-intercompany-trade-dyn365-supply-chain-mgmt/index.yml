@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f53d21f48eae0e89822f533a2f0c25027d789e34
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5e42a8de597156ce7df12120fde190a5a6201ee2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7325297"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748020"
 title: تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما تشتري وتبيع المؤسسات الكبيرة بين الشركات التابعة لها. تسهل Dynamics 365 Supply Chain Management التجارة بين الشركات الشقيقة بحيث يمكن للكيانات القانونية للمؤسسة تداول السلع في حين يتم إنشاء جميع الوثائق تلقائياً للكيانات القانونية المشاركة، مما يوفر الوقت والمال للمؤسسة. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين منتجات للعلاقات التجارية بين الشركات الشقيقة.\n- تكوين العلاقات التجارية بين الشركات الشقيقة.\n- تكوين الاتفاقيات بين الشركات الشقيقة.\n- معالجة الأوامر بين الشركات الشقيقة.\n- معالجة عمليات التسليم المباشرة بين الشركات الشقيقة.\n- معالجة التكاليف بين الشركات الشقيقة.\n- التعرف على معالجة سلسلة أمر الإرجاع بين الشركات الشقيقة.\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما تشتري وتبيع المؤسسات الكبيرة بين الشركات التابعة لها. تسهل Dynamics 365 Supply Chain Management التجارة بين الشركات الشقيقة بحيث يمكن للكيانات القانونية للمؤسسة تداول السلع في حين يتم إنشاء جميع الوثائق تلقائيًا للكيانات القانونية المشاركة، مما يوفر الوقت والمال للمؤسسة. \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين منتجات للعلاقات التجارية بين الشركات الشقيقة.\n- تكوين العلاقات التجارية بين الشركات الشقيقة.\n- تكوين الاتفاقيات بين الشركات الشقيقة.\n- معالجة الأوامر بين الشركات الشقيقة.\n- معالجة عمليات التسليم المباشرة بين الشركات الشقيقة.\n- معالجة التكاليف بين الشركات الشقيقة.\n- التعرف على معالجة سلسلة أمر الإرجاع بين الشركات الشقيقة.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- معرفة إجراءات التدبير إلى الدفع\n- معرفة إجراءات الأمر إلى النقد\n"
 iconUrl: /learn/achievements/configure-use-intercompany-trade-in-dynamics-365-for-finance-ops.svg
 levels:
@@ -27,6 +27,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- finance-accounting
+- supply-chain-management
 units:
 - learn-dynamics.configure-use-intercompany-trade.1-introduction-to-configure-use-intercompany-trade
 - learn-dynamics.configure-use-intercompany-trade.2-understand-intercompany-trading

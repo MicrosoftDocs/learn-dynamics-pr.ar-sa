@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations
 metadata:
-  title: تكامل تطبيقات Finance and Operations مع Microsoft Azure
-  description: تم عمل تكامل بين تطبيقات Finance and Operations مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك.
+  title: تكامل تطبيقات التمويل والعمليات مع Microsoft Azure
+  description: تم عمل تكامل بين تطبيقات التمويل والعمليات مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك.
   ms.date: 07/23/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1a710db93ad841526bd672559964e576bb5f14b0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: be53b1a332628a6ea6118e6505316bf71db86a5e
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350604"
-title: تكامل تطبيقات Finance and Operations مع Microsoft Azure
-summary: "[!include[](../includes/module-banner.md)]\n\nتم عمل تكامل بين تطبيقات Finance and Operations مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التطوير والتكامل باستخدام Logic Apps.\n- تكامل تطبيقات Finance and Operations مع تطبيقات المؤسسة.\n- تطوير وتكامل Microsoft Power Platform. \n- التنفيذ التلقائي لـ EAI وB2B وEDI والعمليات التجارية.\n- استخدام البيانات من خدمة التعلم الآلي من Azure.\n- تمكين الاتصال مع الخدمات الخارجية.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751043"
+title: تكامل تطبيقات التمويل والعمليات مع Microsoft Azure
+summary: "[!include[](../includes/module-banner.md)]\n\nتم عمل تكامل بين تطبيقات التمويل والعمليات مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التطوير والتكامل باستخدام Logic Apps.\n- تكامل تطبيقات التمويل والعمليات مع تطبيقات المؤسسة.\n- تطوير وتكامل Microsoft Power Platform. \n- التنفيذ التلقائي لـ EAI وB2B وEDI والعمليات التجارية.\n- استخدام البيانات من خدمة التعلم الآلي من Azure.\n- تمكين الاتصال مع الخدمات الخارجية.\n"
 prerequisites: >
-  - الإلمام بتطبيقات Finance and Operations
+  - الإلمام بتطبيقات التمويل والعمليات
 
   - الإلمام بالبرمجة الموجهة للعناصر
 
@@ -32,6 +32,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- devops
+- data-management
 units:
 - learn-dynamics.integrate-azure-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.integrate-azure-dynamics-365-finance-operations.2-logic-apps

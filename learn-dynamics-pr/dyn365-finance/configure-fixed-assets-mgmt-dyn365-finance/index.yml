@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1702517a5ce4b9d3ddad5f50eebd1c99f239b185
-  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+  ms.openlocfilehash: 5606725cd0dd2e5d66ce19404b7e53fc89329744
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/29/2021
-  ms.locfileid: "7867500"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750943"
 title: تكوين إدارة الأصول الثابتة في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   يجب أن تتوافق طريقة التعامل مع الأصول الثابتة مع كلٍ من معايير المحاسبة العالمية وقوانين المحاسبة في كل بلد أو منطقة. وقد تتضمن المتطلبات قواعد لتسجيل حركات الامتلاك والتخلص، والإهلاك ومدة البقاء وعمليات رفع وخفض قيمة الأصول الثابتة. تتضمن وظيفة الأصول الثابتة في Dynamics 365 Finance العديد من هذه المعايير والقواعد.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات الأصول الثابتة.\n- تكوين معلمات الأصول الثابتة.\n- تمكين تكامل الأصول الثابتة مع الشراء. \n- إنشاء الأصول الثابتة.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين مكونات الأصول الثابتة.\n- تكوين معلمات الأصول الثابتة.\n- تمكين تكامل الأصول الثابتة مع الشراء. \n- إنشاء الأصول الثابتة.\n"
 prerequisites: >
   - الحصول على فهم أساسي لعمليات الأصول الثابتة
 
@@ -35,6 +35,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.1-configure-fixed-assets-introduction
 - learn-dynamics.configure-fixed-assets-mgmt-in-dynamics-365-finance-ops.2-fixed-assets-current

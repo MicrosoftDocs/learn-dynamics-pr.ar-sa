@@ -8,17 +8,17 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 44b0306014980cfe2f3451fb3e752049bc3ebaf8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 21cb6f571aa960069f478f07294a7ea82e78e9bc
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352398"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752133"
 title: بدء استخدام الميزات الموجودة في Dynamics 365 Project Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
-  باستخدام Dynamics 365 Project Operations، يمكنك الحصول على الرؤية والتعاون والمرونة اللازمة لدفع النجاح عبر عملك الذي يرتكز على المشروع، من التوقعات مُضياً بالمدفوعات وصولاً إلى الأرباح. تعرف على إمكانيات Project Operations في مسار التعلم هذا.
+  باستخدام Dynamics 365 Project Operations، يمكنك الحصول على الرؤية والتعاون والمرونة اللازمة لدفع النجاح عبر عملك الذي يرتكز على المشروع، من المتطوعين المحتملين مُضياً بالمدفوعات وصولاً إلى الأرباح. تعرف على إمكانيات Project Operations في مسار التعلم هذا.
 prerequisites: >
   - المعرفة الأساسية لعمليات إدارة المشاريع.
 
@@ -36,6 +36,9 @@ products:
 - dynamics-finance-operations
 - dynamics-sales
 - dynamics-field-service
+subjects:
+- marketing-sales
+- finance-accounting
 modules:
 - learn-dynamics.get-started-project-operations
 - learn-dynamics.get-started-project-sales-management

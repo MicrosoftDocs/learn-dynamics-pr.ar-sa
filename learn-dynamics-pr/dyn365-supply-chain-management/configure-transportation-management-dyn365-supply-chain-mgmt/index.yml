@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c6e1b69176016e2fa3c3dc9bf9835afea2e09312
-  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
+  ms.openlocfilehash: 8b137dac9e0e62a49c02dd8cfbae7b615b80ebab
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/28/2021
-  ms.locfileid: "7714806"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753012"
 title: إدارة النقل في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -31,6 +31,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.1-configure-work-with-transport-mgmt-intro
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops.2-planning-transp-mgmt

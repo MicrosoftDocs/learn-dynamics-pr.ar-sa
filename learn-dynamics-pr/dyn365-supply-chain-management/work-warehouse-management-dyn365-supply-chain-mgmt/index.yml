@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7ab805becf5d135348cc75cb470c4af4eaa7eeea
-  ms.sourcegitcommit: 2bdcba0251f948ade01d0c1b3bf37896144ded61
+  ms.openlocfilehash: d2ee612a2e78a8d8d17b8cbf4cf817fc2ccf78a7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/24/2021
-  ms.locfileid: "7863992"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752691"
 title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في Supply Chain Management، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.  \n"
 abstract: "في هذه الوحدة النمطية، ستتعرّف على كيفيه العمل مع: \n- رموز شريطي GS1 وشفرات الاستجابة السريعة \n- العمليات الواردة\n- العمليات الصادرة\n- انتقاء نظام المجموعة\n- التعبئة والحاويات\n- الجرد الدوري\n- التحويلات والتزويد\n- التطبيق المحمول Warehouse Management\n"
@@ -27,6 +27,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.work-with-warehouse-management.1-configure-mobile-device
 - learn-dynamics.work-with-warehouse-management.1-2-setup-bar-codes

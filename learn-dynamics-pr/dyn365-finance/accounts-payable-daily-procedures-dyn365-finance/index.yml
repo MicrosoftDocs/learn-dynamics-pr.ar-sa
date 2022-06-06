@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops
 metadata:
-  title: تنفيذ الإجراءات اليومية لحسابات المدفوعات في Dynamics 365 Finance
-  description: يُعد شراء البضائع لإعادة بيعها أو كمواد للتصنيع أو الخدمات مسؤولية كبيرة. يعد تعقب تلك المشتريات والدفع للموردين الذين يوردون البضائع تحدياً بنفس القدر. يجب على المؤسسات مراقبة الحسابات الدائنة عن كثب وتنفيذ الإجراءات حتى تتمكن الإدارة بسهولة من الحصول على المعلومات المالية التي تحتاجها للبقاء على اطلاع بالتغييرات في تكاليف السلع. لإعطاء عرض دقيق للوضع المالي للشركة، يتم تضمين جميع المصروفات التي تؤثر على صافي الربح في حسابات المدفوعات.
+  title: تنفيذ الإجراءات اليومية للحسابات الدائنة في Dynamics 365 Finance
+  description: يُعد شراء البضائع لإعادة بيعها أو كمواد للتصنيع أو الخدمات مسؤولية كبيرة. يعد تعقب تلك المشتريات والدفع للموردين الذين يوردون البضائع تحدياً بنفس القدر. يجب على المؤسسات مراقبة الحسابات الدائنة عن كثب وتنفيذ الإجراءات حتى تتمكن الإدارة بسهولة من الحصول على المعلومات المالية التي تحتاجها للبقاء على اطلاع بالتغييرات في تكاليف السلع. لإعطاء عرض دقيق للوضع المالي للشركة، يتم تضمين جميع المصروفات التي تؤثر على صافي الربح في الحسابات الدائنة.
   ms.date: 01/19/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ba1a92a6547aea3d8161d9e2e3c6ef2c1c7f4062
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9681ad32d951fef95e5f00eead4928262f5cdd3d
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365791"
-title: تنفيذ الإجراءات اليومية لحسابات المدفوعات في Dynamics 365 Finance
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749501"
+title: تنفيذ الإجراءات اليومية للحسابات الدائنة في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   يُعد شراء البضائع لإعادة بيعها أو كمواد للتصنيع أو الخدمات مسؤولية كبيرة. يعد تعقب تلك المشتريات والدفع للموردين الذين يوردون البضائع تحدياً بنفس القدر. يجب على المؤسسات مراقبة الحسابات الدائنة عن كثب وتنفيذ الإجراءات حتى تتمكن الإدارة بسهولة من الحصول على المعلومات المالية التي تحتاجها للبقاء على اطلاع بالتغييرات في تكاليف السلع. لإعطاء عرض دقيق للوضع المالي للشركة، يتم تضمين جميع المصروفات التي تؤثر على صافي الربح في الحسابات الدائنة.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تسجيل الفواتير ومعالجة المدفوعات.  \n- إدارة الدفعات المقدمة وتطبيقها. \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تسجيل الفواتير ومعالجة المدفوعات.  \n- إدارة الدفعات المقدمة وتطبيقها. \n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
@@ -36,6 +36,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.1-accounts-payable-daily-introduction
 - learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops.2-invoice-types-accounts-payable

@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 189f762f5af02c6a800fe41018a1dbe848320420
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1e9ebb037e1344d0640b7414a45d6a0fb03d1d49
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748787"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752565"
 title: تكوين "إدارة الأصول" لــ Dynamics 365 Supply Chain Management
 summary: "[!include[](../../includes/lp-banner.md)]\nتعد \"إدارة الأصول\" وظيفة إضافية لـ Dynamics 365 Supply Chain Management، والتي يتم استخدامها لإدارة الأصول المستخدمة في التشغيل اليومي للشركة. بعض أمثلة هذه الأنواع من الأصول عبارة عن آلات ومعدات إنتاج ورافعات شوكية. \n"
 prerequisites: >
@@ -28,6 +28,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- process-workflow
+- supply-chain-management
 modules:
 - learn-dynamics.get-started-asset-management
 - learn-dynamics.setup-functional-locations-asset-management

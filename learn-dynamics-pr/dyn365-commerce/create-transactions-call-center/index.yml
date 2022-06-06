@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9ad89feefdd134f13a396afecd38a9c7a5047f87
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0b8b489d3ea5532ec8be3bf0364fc7fbaebc0a1e
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364505"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753440"
 title: إنشاء الحركات في مركز الاتصال في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nويعد مركز الاتصال في Dynamics 365 Commerce القناة التي يمكنك فيها إنشاء وإلغاء وإرجاع أوامر مبيعات التجزئة لمركز الاتصال، ووضع أمر مركز اتصال قيد الانتظار وتحريره من الانتظار، وإنشاء أوامر استمرارية لنماذج الأعمال القائمة على الاشتراك.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء أمر مركز اتصال وإلغائه وإعادته.\n- ضع أمر مركز الاتصال قيد الانتظار وحرره من الانتظار.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء أمر مركز اتصال وإلغائه وإعادته.\n- ضع أمر مركز الاتصال قيد الانتظار وحرره من الانتظار.  \n"
 prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce.
 
@@ -31,6 +31,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.create-transactions-call-center.01-create-order
 - learn-dynamics.create-transactions-call-center.02-cancel-return-customer-order

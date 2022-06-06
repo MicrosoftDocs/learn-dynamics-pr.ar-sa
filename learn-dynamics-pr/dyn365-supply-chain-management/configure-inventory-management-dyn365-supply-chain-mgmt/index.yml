@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a8532bf7aac36b7684d967381b00b3110e2f24c7
-  ms.sourcegitcommit: 17fbeb462233cd883c19109a7033e34b7b5fe01e
+  ms.openlocfilehash: edde3f962e94bc792af3a954df363adbd75fd8e5
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/11/2022
-  ms.locfileid: "8403394"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748194"
 title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   لتنفيذ عملية الطلب والتخزين واستخدام مخزون الشركة من المواد الخام والمكونات والمنتجات النهائية، تحتاج إلى تكوين وظيفة إدارة المخزون في Dynamics 365 Supply Chain Management. تستخدم دفاتر يومية المخزون لترحيل حركات المخزون المادية من مختلف الأنواع، مثل ترحيل الإصدارات والإيصالات، وحركات المخزون، وإنشاء قوائم مكونات الأصناف (BOMs)، وتسوية المخزون المادي.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- فهم عمليات المخزون الواردة والصادرة.\n- تكوين محددات المخزون.\n- تكوين مجموعات أرقام التعقب.\n- تكوين تصنيف المخزون.\n- تكوين دفاتر يومية المخزون والمستودع.\n- تكوين أبعاد المخزون.\n- تكوين تكاليف المخزون.\n- فهم إقفال المخزون وتعديلاته.\n- أرشفة حركات‬ المخزون.\n- استخدام دفاتر يومية الحركة.\n- استخدام دفاتر يومية تعديل المخزون.\n- استخدام دفاتر يومية التحويل.\n- استخدام دفاتر يومية الجرد ودفاتر يومية جرد العلامات.\n- استخدام دفاتر يومية وصول الصنف.\n- التعامل مع أكواد الأسباب لجرد المخزون.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- فهم عمليات المخزون الواردة والصادرة.\n- تكوين محددات المخزون.\n- تكوين مجموعات أرقام التعقب.\n- تكوين تصنيف المخزون.\n- تكوين دفاتر يومية المخزون والمستودع.\n- تكوين أبعاد المخزون.\n- تكوين تكاليف المخزون.\n- فهم إقفال المخزون وتعديلاته.\n- أرشفة حركات‬ المخزون.\n- استخدام دفاتر يومية الحركة.\n- استخدام دفاتر يومية تعديل المخزون.\n- استخدام دفاتر يومية التحويل.\n- استخدام دفاتر يومية الجرد ودفاتر يومية جرد العلامات.\n- استخدام دفاتر يومية وصول الصنف.\n- التعامل مع أكواد الأسباب لجرد المخزون.\n"
 prerequisites: >
   - المعرفة العامة بعمليات سلاسل التوريد وإدارة المخزون
 
@@ -34,6 +34,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.1-configure-inventory-management-introduction
 - learn-dynamics.configure-inventory-management-in-dynamics-365-finance-ops.2-inbound-operations

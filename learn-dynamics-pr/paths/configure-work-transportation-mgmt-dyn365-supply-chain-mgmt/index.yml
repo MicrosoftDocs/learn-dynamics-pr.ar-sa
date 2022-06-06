@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: fc4a3af557574dff8b8688f1b0ed4da1df65fb9c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c5fd188b3fff2d7f0e4c001d66f26a2685793cbb
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748771"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752421"
 title: تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتساعدك \"إدارة النقل\" في Dynamics 365 Supply Chain Management على العثور على الطريقة الأكثر فعالية لتوصيل البضائع إلى عملائك. تحسب إدارة النقل الطريقة الأقل تكلفة والأسرع لتسليم البضائع وتتيح لك تحديد البائعين وحلول التوجيه للأوامر الواردة والصادرة. \n"
 prerequisites: >
@@ -32,6 +32,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 modules:
 - learn-dynamics.configure-work-with-transportation-management-in-dynamics-365-finance-ops
 trophy:

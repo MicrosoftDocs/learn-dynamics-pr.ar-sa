@@ -7,12 +7,12 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 376e6e44d9c663459dde37b9bdfa533939effeb5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6a6a9fd9f58eaed191aa8ad5f7a5d37ca135a0d1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434191"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749052"
 title: جدولة الأطقم والمرافق وتجمع الموارد في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\n\nتعامل مع خيارات الجدولة الأكثر تقدمًا التي قد تتضمن موارد متعددة أو مرافق محددة. استخدم تجمع الموارد لتوفير عناصر نائبة لجدولة مجموعات الموارد. جدولة الأطقم للعمل في عناصر محددة. جدولة مرافق محددة يُمكن استخدامها للمساعدة في تقديم خدمة معينة.    \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد تجمعات الموارد في جدولة السيناريوهات واستخدامها\n- استخدم ميزة جدولة المرافق لحجز مرافق معينة للعمل \n- تحديد وجدولة الأطقم باستخدام لوحة الجدولة\n"
@@ -25,6 +25,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- field-management
+- frontline-support
 units:
 - learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.1-schedule-multiple-resources-and-facilities
 - learn-bizapps.urs-schedule-resource-pools-crew-and-facilities.2-define-resources

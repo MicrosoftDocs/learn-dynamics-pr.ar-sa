@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.design-deployment-dynamics-365-finance-operations
 metadata:
-  title: استكشاف اعتبارات التصميم والنشر لتطبيقات Finance and Operations
-  description: سيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات Finance and Operations، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج.
+  title: استكشاف اعتبارات التصميم والنشر لتطبيقات التمويل والعمليات
+  description: سيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات التمويل والعمليات، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4f8575de66908b0ed1cfc649391b3d73654d65e7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 25456cdcc1fe81bae5ef34e5bd01aeb78b3c2b05
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364274"
-title: استكشاف اعتبارات التصميم والنشر لتطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nسيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات Finance and Operations، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على أنماط التصميم وعملية نشر التعليمات البرمجية.\n- تحديد استراتيجيات نشر التعليمات البرمجية.\n- التعرف على المهام والأنشطة الخاصة بما بعد النشر.\n"
-prerequisites: "- المعرفة الأساسية لتطوير التعليمات البرمجية \n- المعرفة الأساسية لترقية التعليمات البرمجية والتحكم في الإصدار من خلال Visual Studio DevOps\n- الإلمام بـ Microsoft Dynamics Lifecycle Services\n- الإلمام بتطبيقات Finance and Operations\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749762"
+title: استكشاف اعتبارات التصميم والنشر لتطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nسيساعدك تحديد عمليات التصميم والنشر التي تتوافق مع السياسات التنظيمية في تطوير تطبيقات التمويل والعمليات، والتأكد من نشر التعليمات البرمجية في البيئات الصحيحة لتجنب المشكلات في الإنتاج. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على أنماط التصميم وعملية نشر التعليمات البرمجية.\n- تحديد استراتيجيات نشر التعليمات البرمجية.\n- التعرف على المهام والأنشطة الخاصة بما بعد النشر.\n"
+prerequisites: "- المعرفة الأساسية لتطوير التعليمات البرمجية \n- المعرفة الأساسية لترقية التعليمات البرمجية والتحكم في الإصدار من خلال Visual Studio DevOps\n- الإلمام بـ Microsoft Dynamics Lifecycle Services\n- الإلمام بتطبيقات التمويل والعمليات\n"
 iconUrl: /learn/achievements/design-deployment-dynamics-365-finance-operations.svg
 levels:
 - intermediate
@@ -27,6 +27,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- process-workflow
 units:
 - learn-dynamics.design-deployment-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.design-deployment-dynamics-365-finance-operations.2-business

@@ -8,16 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 0bbbdb1d3a3207d66def67de86c25165fc1ea808
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a06865776f767d3d53bc40783e868aa2540206a0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457519"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751278"
 title: تنفيذ تحليل الفروق والتوافق
 summary: "[!include[](../includes/module-banner.md)] \nيحدد التحليل الملائم للفروق والتوافق الاختلاف بين المتطلبات المعروفة والحل المقترح (أو الحالي). تغطي هذه الوحدة أداء تحليل ملائم للفروق.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد جدوى المتطلبات. \n- تحسين المتطلبات من رؤى إثبات المفهوم.\n- تصنيف متطلبات العمل وإجراء تحليل ملائم للفروق. \n- تقييم تطبيقات Dynamics 365 وMicrosoft Power Platform.\n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد جدوى المتطلبات. \n- تحسين المتطلبات من رؤى إثبات المفهوم.\n- تصنيف متطلبات العمل وإجراء تحليل ملائم للفروق. \n- تقييم تطبيقات Dynamics 365 وMicrosoft Power Platform.\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/fit-gap-analysis.svg
 levels:
 - advanced
@@ -26,6 +26,9 @@ roles:
 products:
 - dynamics-365
 - power-platform
+subjects:
+- architecture
+- process-workflow
 units:
 - learn-dynamics.fit-gap-analysis.1-introduction
 - learn-dynamics.fit-gap-analysis.2-feasibility

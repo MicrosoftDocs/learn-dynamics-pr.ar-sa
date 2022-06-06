@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1da93c0a7d790dc3ddd449a3bf82c2705b6f1e86
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4eb0d4f363623c2b26eb03c2cc923ed9ef2a8847
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364943"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748998"
 title: تكوين خطابات الاعتماد وخطابات الضمان في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   خطابات الاعتماد هي مستندات مصرفية تُستخدم عادة لشراء وبيع البضائع عبر الحدود الدولية. خطاب الضمان هو اتفاق من قِبل البنك (الضامن) على دفع مبلغ محدد من المال إلى شخص ما (المستفيد) إذا تخلف عميل البنك (الرئيسي) عن السداد أو التزام تجاه المستفيد.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين خطابات الاعتماد ومعالجتها. \n- تكوين خطابات الضمان ومعالجتها.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين خطابات الاعتماد ومعالجتها. \n- تكوين خطابات الضمان ومعالجتها.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
@@ -37,6 +37,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-letters-of-credit-guarantees-in-dynamics-365-finance-ops.1-configure-letters-of-credit-introduction
 - learn-dynamics.configure-letters-of-credit-guarantees-in-dynamics-365-finance-ops.2-what-is-letter-of-credit

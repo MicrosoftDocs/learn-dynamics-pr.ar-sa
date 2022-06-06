@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f1fb4f708bc78307c1c9d591a1791b2a73c47db1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 45d0c3c9b247e68fe9eec9da0ac77e40152252ec
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7354407"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748462"
 title: إنشاء قواعد كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك استخدام قواعد كانبان الأحداث لتشغيل وإنشاء المشكلات ذات الصلة بالمواد الخام عند إنشاء بنود المبيعات، أو تقدير أوامر الإنتاج، أو إنشاء كانبان من قواعد كانبان الأحداث، أو تشغيل معالجة حدث الربط حيث وصل المخزون إلى الحد الأدنى من الكمية. توضح هذه الوحدة كيفية إنشاء بطاقات كانبان الأحداث ومعالجتها في Dynamics 365 Supply Chain Management. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قواعد كانبان الأحداث.\n- إنشاء كانبان حدث بند المبيعات وإدارته.\n- إنشاء كانبان حدث بند قائمة مكونات الصنف وإدارته.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء قواعد كانبان الأحداث.\n- إنشاء كانبان حدث بند المبيعات وإدارته.\n- إنشاء كانبان حدث بند قائمة مكونات الصنف وإدارته.\n"
 prerequisites: >
   - المعرفة العامة بعمليات التصنيع
 
@@ -36,6 +36,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- manufacturing-processes
 units:
 - learn-dynamics.create-process-event-kanban-rules.1-introduction-create-event-kanbans
 - learn-dynamics.create-process-event-kanban-rules.2-configure-event-kanban-rules

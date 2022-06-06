@@ -7,19 +7,19 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 80fb0ed1704fdcca05dd207581cefe9a0810989b
-  ms.sourcegitcommit: 748b4ec8f6eb3654f7d25f3ad10b177297c33dda
+  ms.openlocfilehash: 66cefa20c890b622908e25a1a3efc792aa656ef3
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/23/2021
-  ms.locfileid: "7675676"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754028"
 title: إعداد جدولة Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تشتمل Dynamics 365 Customer Service على إمكانيات لجدولة الموظفين والموارد الأخرى بفعالية لعملاء الخدمة في مواقع المؤسسة.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - الشروع في العمل مع جدولة Customer Service.
 
@@ -36,6 +36,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- frontline-support
 units:
 - learn-dynamics.setup-customer-service-scheduling.1-introduction
 - learn-dynamics.setup-customer-service-scheduling.2-configure

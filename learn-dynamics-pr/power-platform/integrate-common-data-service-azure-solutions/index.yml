@@ -8,16 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: ed0b9239e78e4e35bc0d3315a26740564a82d374
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9d188ec8e17b2e49b877149a674899df7526e33c
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457409"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750402"
 title: تكامل حلول Azure في Dataverse
 summary: "[!include[](../includes/module-banner.md)] \n\nالحصول على نظرة عامة متعمقة في الخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- نشر أحداث Dataverse إلى ناقل خدمة Microsoft Azure.\n- كتابة وحدة إصغاء حدث ناقل الخدمة التي تستخدم أحداث Dataverse. \n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر أحداث Dataverse إلى ناقل خدمة Microsoft Azure.\n- كتابة وحدة إصغاء حدث ناقل الخدمة التي تستخدم أحداث Dataverse. \n"
+prerequisites: بلا
 iconUrl: /learn/achievements/integrate-common-data-service-azure-solutions.svg
 levels:
 - advanced
@@ -26,6 +26,9 @@ roles:
 products:
 - dynamics-365
 - power-platform
+subjects:
+- cloud-computing
+- data-management
 units:
 - learn-dynamics.integrate-common-data-service-azure-solutions.1-introduction
 - learn-dynamics.integrate-common-data-service-azure-solutions.2-azure-service-bus

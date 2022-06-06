@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-developer-tools-extend.5-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 04/15/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 3a04761b00202daabf0fabe49932b4374b31ef1a
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771686"
+durationInMinutes: 3
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الأداة التي يمكن أن تستخدمها للاحتفاظ بتخصيصات التطبيق كملفات XML منفصلة وملفات أخرى يمكن تخزينها في نظام تحكم بالمصادر؟
+    choices:
+    - content: Package Deployer
+      isCorrect: false
+      explanation: يقوم Package Deployer بتمكين المسؤولين من توزيع الحزم على مثيل Microsoft Dataverse.
+    - content: Plugin Registration Tool
+      isCorrect: false
+      explanation: تُستخدم أداة Plugin Registration Tool لتسجيل المكونات الإضافية في مثيل Dataverse.
+    - content: أداة إنشاء حزم الحلول
+      isCorrect: true
+      explanation: أداة إنشاء حزم الحلول هي أداة تحلل حلول Dataverse بشكل عكسي إلى ملفات XML متعددة وملفات أخرى حتى تتم إدارتها بواسطة نظام تحكم بالمصادر.
+  - content: ما إطار عمل اللغة الذي تستخدمه لتطوير المكون الإضافي؟
+    choices:
+    - content: NET.
+      isCorrect: true
+      explanation: ‎.NET هو إطار عمل اللغة المُستخدم لتطوير المكون الإضافي.
+    - content: Node.js
+      isCorrect: false
+      explanation: المكونات الإضافية هي تجميعات ‎.NET ولا يمكن استخدام node.js لإنشاء تجميعات ‎.NET.
+    - content: Python
+      isCorrect: false
+      explanation: المكونات الإضافية هي تجميعات ‎.NET ولا يمكن استخدام Python لإنشاء تجميعات ‎.NET.
+  - content: متى يمكنك استخدام Package Deployer؟
+    choices:
+    - content: لتثبيت حل Dataverse كتطبيق للأجهزة المحمولة.
+      isCorrect: false
+      explanation: لا يتم تثبيت حلول Dataverse كتطبيقات للأجهزة المحمولة، حيث يلزم استيرادها إلى بيئة Dataverse الهدف.
+    - content: لتثبيت حل واحد أو أكثر مع بيانات تكوين في بيئة Dataverse.
+      isCorrect: true
+      explanation: يساعد Package Deployer على تسهيل عملية تثبيت حل واحد أو أكثر مع بيانات تكوين ومنطق تثبيت مخصص، في بيئة Dataverse.
+    - content: لإضافة بيانات التكوين إلى تطبيق لسطح المكتب.
+      isCorrect: false
+      explanation: لا يتم تثبيت حلول Dataverse وبياناته كتطبيقات لسطح المكتب، حيث يتعين استيرادها إلى بيئة Dataverse الهدف.

@@ -8,15 +8,15 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 433ed668337621d7266de0c5c505ddebe03d995c
-  ms.sourcegitcommit: 8bd5d4a031ca513cf7c74721da864b98d1b8845d
+  ms.openlocfilehash: 084892d4579af1305d8d38315b98a7388707e3ff
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/15/2021
-  ms.locfileid: "7493670"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749654"
 title: بدء استخدام إدارة الأصول في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتُعد إدارة الأصول وحدة لإدارة الأصول ومهام الصيانة في Dynamics 365 Supply Chain Management. تمكنك إدارة الأصول من إدارة وتنفيذ المهام المتعلقة بإدارة وخدمة العديد من أنواع المعدات في شركتك بكفاءة، على سبيل المثال، الآلات ومعدات الإنتاج والمركبات. تدعم إدارة الأصول الحلول عبر العديد من الصناعات.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- راجع مزايا إدارة الأصول.\n- تحديد المصطلحات والمفاهيم الأساسية في إدارة الأصول.\n- تعرف على كيفية التثبيت والعمل باستخدام مساحة العمل المحمولة لإدارة الأصول.\n- مراجعة قدرات تكامل إدارة الأصول.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- راجع مزايا إدارة الأصول.\n- تحديد المصطلحات والمفاهيم الأساسية في إدارة الأصول.\n- تعرف على كيفية التثبيت والعمل باستخدام مساحة العمل المحمولة لإدارة الأصول.\n- مراجعة قدرات تكامل إدارة الأصول.\n"
 prerequisites: >
   - معرفة التنقل الأساسي في Dynamics 365 Supply Chain Management.
 
@@ -31,6 +31,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
+- field-management
 units:
 - learn-dynamics.get-started-asset-management.01-overview
 - learn-dynamics.get-started-asset-management.02-terminology

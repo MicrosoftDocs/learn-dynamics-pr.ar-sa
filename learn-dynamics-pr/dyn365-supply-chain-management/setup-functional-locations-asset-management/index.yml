@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0c6695930559b4752571e762bd1089e4a1b34e56
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4d018513f9014436ff626139eb046aad0dc0f383
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334024"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749367"
 title: اعداد المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \n\nقبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. تُستخدم المواقع الوظيفية لتحديد مكان تثبيت الأصول الفعلية.\n"
 abstract: "ستتعرف في هذه الوحدة على كيفية إعداد: \n- حالات دورة حياة موقع العمل\n- نماذج دورة حياة موقع العمل\n- أنواع مواقع العمل\n- أنواع السمات\n"
@@ -31,6 +31,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.setup-functional-locations-asset-management.01-introduction
 - learn-dynamics.setup-functional-locations-asset-management.02-functional-location-lifecycle-state

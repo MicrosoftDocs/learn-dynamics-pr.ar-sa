@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 0caf3db1e6313e3d1e4d251c6b3092376d88f189
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8bba50af158f56191c7631ddd74e9694315ba13f
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748756"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751503"
 title: استخدام إدارة المستودعات في التصنيع في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -38,6 +38,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 modules:
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops
 - learn-dynamics.work-with-warehouse-management

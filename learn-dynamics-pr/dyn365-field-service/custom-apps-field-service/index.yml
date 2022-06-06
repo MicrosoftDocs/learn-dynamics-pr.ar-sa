@@ -7,19 +7,19 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d377af3006ff638534114fc1302d9324f381c80b
-  ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
+  ms.openlocfilehash: 24718ae9288041373d98dd8fa0c9a94b2426377d
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/02/2021
-  ms.locfileid: "7880244"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749232"
 title: إنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تعرف على طريقة استخدام Microsoft Power Platform لإنشاء تطبيقات مخصصة لـ Dynamics 365 Field Service.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تعرف على كيفية استخدام Microsoft Power Platform لتخصيص Dynamics 365 Field Service.
 
@@ -42,6 +42,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- custom-app-development
 units:
 - learn-dynamics.custom-apps-field-service.1-introduction
 - learn-dynamics.custom-apps-field-service.2-apps

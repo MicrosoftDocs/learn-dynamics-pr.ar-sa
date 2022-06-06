@@ -6,15 +6,15 @@ metadata:
   description: تمرين - تخصيص شريط الحالة الخاص بك
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: f42024bccf50815aeb793cd1e033d06e6e4f231c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f121a844e3e8ed98625c6d612c2741f828f5cc08
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438584"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756342"
 azureSandbox: false
 durationInMinutes: 2
 content: '[!include[](includes/5-exercise-favorite-menu-items.md)]'

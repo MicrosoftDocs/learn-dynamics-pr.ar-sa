@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tools-finance-operations-power-platform.best-practices
+title: أفضل الممارسات
+metadata:
+  title: أفضل الممارسات
+  description: لمساعدتك على الحصول على فهم لأفضل الممارسات والتوصيات الخاصة بالكتابة المزدوجة، والمزامنة المباشرة، والمزامنة الأولية.
+  ms.date: 05/16/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: bc64976e6d531cdac45370eee372f307885b90f9
+  ms.sourcegitcommit: 0830f963f25aca3007bac7693b26ca85586936fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/17/2022
+  ms.locfileid: "8764467"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/best-practices.md)]"

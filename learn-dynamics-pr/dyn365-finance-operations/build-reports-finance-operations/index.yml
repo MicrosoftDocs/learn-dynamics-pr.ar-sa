@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ee2354a7a3e8cf9112a774bdc290ce4468e736ac
-  ms.sourcegitcommit: 5c93339cd61283a7c3c28c0c2f7ed2b1d65c7dd2
+  ms.openlocfilehash: 9712baa65d01d7fc5f43a82da0d791eb6aa8e872
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/24/2022
-  ms.locfileid: "8478304"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749825"
 title: إنشاء تقارير لتطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nلدى المؤسسات الكثير من البَيانات. عند زيادة حجم إحدى المؤسسات، تصبح قدرتها على توفير سياق لجميع تلك البَيانات ذات أهمية متزايدة. يُمكن للتقارير تنظيم البَيانات بطريقة مفيدة. تتضمن تطبيقات التمويل والعمليات أدوات إعداد التقارير لمساعدتك في إنشاء تقارير لمؤسستك وSQL Server Reporting Services (SSRS) وMicrosoft Power BI وتقارير Microsoft Excel. يُمكنك استخدام أدوات إعداد التقارير هذه لتصور مجموعة بَيانات بعدة طرق، بما في ذلك كتخطيط جدولي مع جداول قابلة للطي وباستخدام لوحات المعلومات. ستقوم خلال هذه الوحدة ببناء أساس لتصميم التقارير وإنشائها وتعديلها. \n"
-abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتمكين إدارة مستندات الأعمال.\n- تصميم تقارير SSRS وإنشائها وتعديلها.\n- قم بإنشاء تقرير Power BI وتعديله باستخدام بَيانات تطبيقات التمويل والعمليات.\n- قم بإنشاء تقرير Excel وتعديله باستخدام بَيانات تطبيقات التمويل والعمليات.\n- تعرف على كيفية بناء جملة SQL باستخدام كائنات الاستعلام.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بتمكين إدارة مستندات الأعمال.\n- تصميم تقارير SSRS وإنشائها وتعديلها.\n- قم بإنشاء تقرير Power BI وتعديله باستخدام بَيانات تطبيقات التمويل والعمليات.\n- قم بإنشاء تقرير Excel وتعديله باستخدام بَيانات تطبيقات التمويل والعمليات.\n- تعرف على كيفية بناء جملة SQL باستخدام كائنات الاستعلام.  \n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 
@@ -30,6 +30,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- data-visualization
+- development-tools
 units:
 - learn-dynamics.build-reports-dynamics-365-finance-operations.implement-business-document-management
 - learn-dynamics.build-reports-dynamics-365-finance-operations.01-ssrs-reports

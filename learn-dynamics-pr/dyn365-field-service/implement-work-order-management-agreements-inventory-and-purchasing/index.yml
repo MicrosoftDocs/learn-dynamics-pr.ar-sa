@@ -7,16 +7,16 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c0d69c56113e6934f2e6025fc2d716ec8c5e4b9f
-  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.openlocfilehash: c997abd12a45f3070afd19cdd1dee895d62b9ebb
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2021
-  ms.locfileid: "7512027"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749143"
 title: إدارة أوامر العمل والاتفاقيات والمخزون والشراء في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\nاستفد من الاتفاقيات للمساعدة في إنشاء أوامر العمل وفقاً لجدول زمني محدد مسبقاً مثل سيناريوهات الصيانة الوقائية.  بالإضافة إلى ذلك، من خلال الاستفادة من المخزون، يمكنهم إدارة مستويات المخزون بشكل أكثر فعالية في المستودعات والتأكد من أن الفنيين لديهم ما يحتاجون إليه لتقديم الخدمات لعملائهم أثناء تواجدهم في الحقل.     يحتوي Dynamics 365 على العديد من العناصر الأساسية التي يمكن تكوينها لتخصيص تنفيذ Field Service بشكل أفضل لتلبية الاحتياجات المطلوبة للمؤسسة.  \n"
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تحديد دورة حياة أمر العمل
 
@@ -36,6 +36,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- field-management
 units:
 - learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.1-dynamics-365-field-service-work-order-lifecycle-overview
 - learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing.2-creating-and-defining-work-orders

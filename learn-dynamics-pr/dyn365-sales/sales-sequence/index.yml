@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ab754e8ce5572a59da2e40c9836c72e2862594a2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 31b77bc035bf245e691feeb7e46344f978056be2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436256"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748671"
 title: إنشاء تسلسلات مبيعات باستخدام Sales Insights
 summary: "[!include[](../includes/module-banner.md)] \nيتفاعل مندوبو المبيعات مع عملاء متعددين كل يوم. إنهم مسؤولون عن تأهيل العملاء المتوقعين، ورعاية الفرص، وللقيام بذلك يحتاجون إلى التركيز على الليزر والعمل بفعالية في الوقت المناسب. تستثمر مؤسسات المبيعات باستمرار في التدريب المستمر والتدريب حتى يكون مندوبو المبيعات على دراية بأفضل الممارسات ويعملون وفقاً لعمليات الأعمال الموصى بها في مؤسستهم. تساعد التسلسلات البائعين على التوافق مع هذه العمليات من خلال اتباع مجموعة محددة مسبقاً من الإجراءات المتتالية التي تعكس أفضل ممارسات مؤسسة المبيعات الخاصة بهم. في هذه الوحدة، سوف تتعلم كيفية إنشاء وإدارة التسلسلات لمؤسستك. تساعدك البرامج التعليمية التالية على البدء في إنشاء تسلسل أساسي، وربطه بسجل، وتعديله، وما إلى ذلك.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بإنشاء تسلسل أساسي.\n- قم بتوصيل تسلسل بسجل.\n- افصل أحد التسلسلات من أحد السجلات.\n- قم بإنهاء تسلسل ما.\n- أنشئ سير مهام لربط التسلسلات بالسجلات تلقائياً.\n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بإنشاء تسلسل أساسي.\n- قم بتوصيل تسلسل بسجل.\n- افصل أحد التسلسلات من أحد السجلات.\n- قم بإنهاء تسلسل ما.\n- أنشئ سير مهام لربط التسلسلات بالسجلات تلقائيًا.\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/sales-sequence.svg
 levels:
 - intermediate
@@ -27,6 +27,9 @@ products:
 - dynamics-365
 - dynamics-sales
 - dynamics-sales-insights
+subjects:
+- marketing-sales
+- process-workflow
 units:
 - learn-dynamics.sales-sequence.1-introduction
 - learn-dynamics.sales-sequence.2-basic

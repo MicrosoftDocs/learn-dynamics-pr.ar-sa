@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: a7e4ddb5a848eb3c66531b2b302f216300dcfede
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: cb0689296786bdafeab0704ee2163967299fdf1e
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363175"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751431"
 title: التعامل مع إدارة المصروفات في Dynamics 365 Project Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -35,6 +35,9 @@ products:
 - dynamics-project-operations
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
+- process-workflow
 modules:
 - learn-dynamics.get-started-expense-management
 - learn-dynamics.set-up-configure-expense-management

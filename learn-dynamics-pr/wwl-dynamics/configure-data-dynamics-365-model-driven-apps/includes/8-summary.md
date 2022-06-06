@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: bb16ad0af0135f1987f3a5aa7516dc5d491f854f1e7cc46e8d80e22f906bbd1b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e87178fb6162b481a85c23a86acd24ebae472c2b
+ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438393"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "8756441"
 ---
 في هذه الوحدة، تناولنا الطرق المختلفة التي يمكنك بها استخدام Microsoft Dataverse لتخصيص وتوسيع تطبيقات Dynamics 365 المستندة إلى نموذج بدون تعليمات برمجية. تشمل الطرق سهلة الاستخدام لتلبية متطلبات العمل الفريدة ما يلي:
 
@@ -21,11 +21,11 @@ ms.locfileid: "7438393"
 
 -   قراءة حول [Power Platform](https://powerplatform.com/)
 
--   قراءة حول [Power Apps](https://docs.microsoft.com/powerapps/)
+-   قراءة حول [Power Apps](/powerapps/)
 
--   قراءة حول [Power Automate](https://docs.microsoft.com/power-automate/index)
+-   قراءة حول [Power Automate](/power-automate/index)
 
--   قراءة حول [نموذج البيانات العامة](https://docs.microsoft.com/common-data-model/)
+-   قراءة حول [نموذج البيانات العامة](/common-data-model/)
 
 **Microsoft Dataverse**
 
@@ -35,7 +35,7 @@ ms.locfileid: "7438393"
 
 **‏‫إعداد التقارير‬**
 
--   قراءة [الدليل](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365)
-    \ [نظرة عامة](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/analytics/get-started-writing-reports)
-    \ [‏‫التخصيص في CE](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/customize-organize-reports)
-    \ [معالج التقارير في CE](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/create-edit-copy-report-wizard)
+-   قراءة [الدليل](/dynamics365/customerengagement/on-premises/analytics/reporting-analytics-with-dynamics-365)
+    \ [نظرة عامة](/dynamics365/customerengagement/on-premises/analytics/get-started-writing-reports)
+    \ [‏‫التخصيص في CE](/dynamics365/customerengagement/on-premises/customize/customize-organize-reports)
+    \ [معالج التقارير في CE](/dynamics365/customerengagement/on-premises/basics/create-edit-copy-report-wizard)

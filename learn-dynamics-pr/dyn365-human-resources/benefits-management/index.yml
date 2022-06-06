@@ -7,15 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c4210376642a7f7c73f7d08f22ca1a90c867d43b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 49bb5187c8b594498caf8dc5506ce4b0eb034d49
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340299"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750098"
 title: إنشاء خطط مزايا في Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تمكين إدارة المزايا في Dynamics 365 Human Resources، وإنشاء خطط مزايا، وتسجيل الموظفين.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة المزايا في Human Resources.\n- استخدم إدارة الميزات لتمكين مساحة عمل إدارة المزايا.\n- تعرف على كيفية إنشاء خطة مزايا في Human Resources.\n- تعرف على كيفية تسجيل الموظفين في خطة المزايا.\n- إنشاء برنامج الائتمان المرن.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة المزايا في Human Resources.\n- استخدم إدارة الميزات لتمكين مساحة عمل إدارة المزايا.\n- تعرف على كيفية إنشاء خطة مزايا في Human Resources.\n- تعرف على كيفية تسجيل الموظفين في خطة المزايا.\n- إنشاء برنامج الائتمان المرن.\n"
 prerequisites: المعرفة العامة للمفاهيم وممارسات Human Resources
 iconUrl: /learn/achievements/benefits-management.svg
 levels:
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-human-resources
+subjects:
+- business-applications
 units:
 - learn-dynamics.benefits-management.1-introduction
 - learn-dynamics.benefits-management.2-overview

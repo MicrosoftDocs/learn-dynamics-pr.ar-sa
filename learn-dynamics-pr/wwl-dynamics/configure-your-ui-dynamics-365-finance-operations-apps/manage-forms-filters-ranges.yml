@@ -6,15 +6,15 @@ metadata:
   description: 'إدارة النماذج: عوامل التصفية والنطاقات'
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: dcc0f504bbb487be9111f5257cdf992af9b92470
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 892b492a452a17e99a14db7e48df5f49daa18f28
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438635"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756369"
 azureSandbox: false
 durationInMinutes: 2
 content: '[!include[](includes/6-manage-forms-filters-ranges.md)]'

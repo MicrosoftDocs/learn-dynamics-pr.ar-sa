@@ -8,19 +8,19 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: 20207772541e148d512b56372b222b31cbe93f3e
-  ms.sourcegitcommit: 2d474cd20aa12ad00dbfc2d0c9bb9b565f19a490
+  ms.openlocfilehash: 06ec2d0ea42c92cec882316dd3bbbaffa271854b
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2021
-  ms.locfileid: "7483735"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752134"
 title: بدء استخدام Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
 
   Dynamics 365 Commerce يقدم حلاً شاملاً متعدد القنوات يوحد المكتب الخلفي والمتجر ومركز الاتصال والتجارب الرقمية. يُمكّنك Dynamics 365 Commerce من بناء ولاء للعلامة التجارية من خلال مشاركات العملاء المخصصة، وزيادة الإيرادات من خلال تحسين إنتاجية الموظفين، وتحسين العمليات لتقليل التكاليف، وتعزيز كفاءات سلسلة التوريد، وفي النهاية على تحقيق نتائج أعمال أفضل.
-prerequisites: لا شيء
+prerequisites: بلا
 iconUrl: /learn/achievements/get-started-commerce.svg
 levels:
 - beginner
@@ -32,6 +32,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 modules:
 - learn-dynamics.introduction-dynamics-365-commerce
 - learn-dynamics.get-started-commerce-channels

@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: d1b1ffbd444c7aa61a1425c4509db73bdf38c5a9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d0d6aab8e537d1edda64c2ed6d0f4c4e4b68765c
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438687"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750339"
 title: استكشاف إمكانات تخطيط المشروع وتنفيذه في Microsoft Dynamics 365 Project Operations
 summary: تقدم لك هذه الوحدة إمكانات تحليل وتنفيذ المشروع في Microsoft Dynamics 365 Project Operations لمساعدتك على تحسين إدارة الموارد وإدارة الجدول الزمني وإدارة الوقت والمصروفات لأعمالك المستندة إلى المشروع.
 abstract: >
@@ -27,7 +27,7 @@ abstract: >
 
   - صف إمكانات تعقب تكلفة المشروع، بما في ذلك تكاليف الوقت والنفقات.
 prerequisites: >
-  لا شيء
+  بلا
 iconUrl: /learn/achievements/explore-project-operations-planning-execution.svg
 levels:
 - beginner
@@ -38,6 +38,8 @@ roles:
 - student
 products:
 - dynamics-project-operations
+subjects:
+- process-workflow
 units:
 - learn.wwl.explore-project-planning-execution-capabilities.introduction
 - learn.wwl.explore-project-planning-execution-capabilities.create-manage-work-breakdown-structures

@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.get-started-extensibility-finance-operations
 metadata:
-  title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات Finance and Operations
-  description: نظراً لكون تطبيقات Finance and Operations حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.
+  title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات التمويل والعمليات
+  description: نظرًا لكون تطبيقات التمويل والعمليات حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.
   ms.date: 03/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5f6b725ed34ce863afcef48c00c89b4c135addd4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c97d1872485c5c9ef7b1f1dc4eb0466f38e93bb5
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335128"
-title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)] \nنظراً لكون تطبيقات Finance and Operations حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.  \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- إطار عمل القابلية للتوسع وكيف تعمل الملحقات.\n- الطرق المختلفة لتخصيص التطبيق.\n- طرق مختلفة لتنفيذ ملحق التعليمات البرمجية.\n- كيفية إرسال طلب قابلية التوسعة.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751087"
+title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)] \nنظرًا لكون تطبيقات التمويل والعمليات حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.  \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- إطار عمل القابلية للتوسع وكيف تعمل الملحقات.\n- الطرق المختلفة لتخصيص التطبيق.\n- طرق مختلفة لتنفيذ ملحق التعليمات البرمجية.\n- كيفية إرسال طلب قابلية التوسعة.\n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
-  - المعرفة بتطبيقات Finance and Operations
+  - معرفة تطبيقات التمويل والعمليات
 
   - معرفة تقنيات التطوير
 
@@ -35,6 +35,8 @@ products:
 - dynamics-finance-operations
 - dynamics-scm
 - dynamics-finance
+subjects:
+- development-tools
 units:
 - learn-dynamics.get-started-extensibility-finance-operations.1-introduction
 - learn-dynamics.get-started-extensibility-finance-operations.2-how-extensions-work

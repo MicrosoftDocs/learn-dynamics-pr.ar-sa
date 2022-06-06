@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2035a1a9ab37f7ea748ce18f16603101b3183e9c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 088eae75ade6599f0b48c7954d3eaf77c45a6dd1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361610"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753525"
 title: إنشاء الحركات في نقطة البيع في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيمكن تنفيذ الحركات في نقطة البيع (POS) في Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- أنشئ حركات الدفع نقداً والاستلام فوراً لعميل عابر.\n- أنشئ أمر عميل.\n- قم بإلغاء الحركات وإرجاعها.\n- قم بتعليق حركة واستدعائها. \n- تعامل مع الأصناف المتسلسلة. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- أنشئ حركات الدفع نقداً والاستلام فوراً لعميل عابر.\n- أنشئ أمر عميل.\n- قم بإلغاء الحركات وإرجاعها.\n- قم بتعليق حركة واستدعائها. \n- تعامل مع الأصناف المتسلسلة. \n"
 prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 
@@ -31,6 +31,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.create-transactions-pos.01-introduction
 - learn-dynamics.create-transactions-pos.02-create-cash-carry

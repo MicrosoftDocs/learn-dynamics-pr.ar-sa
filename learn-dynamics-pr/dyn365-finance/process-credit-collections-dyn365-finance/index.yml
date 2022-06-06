@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops
 metadata:
-  title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
-  description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد
+  title: معالجة الائتمان والتحصيلات في Dynamics 365 Finance
+  description: على الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادرًا على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد
   ms.date: 12/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 76f4dd0dcb4a017571b5e5ff49083435415fedab
-  ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
+  ms.openlocfilehash: 104cc145fe7544e7583f532a9489ad430d4982bd
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/01/2021
-  ms.locfileid: "7878377"
-title: معالجه الائتمان والتحصيلات في Dynamics 365 Finance
-summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادراً على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد  \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- كيفية استخدام كشوف حسابات العملاء.\n- كيفية معالجة التحصيلات. \n- كيفية استخدام ميزة إدارة الائتمان.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750701"
+title: معالجة الائتمان والتحصيلات في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nعلى الرغم من قيام معظم العملاء بدفع فواتيرهم في الموعد، فإنه يجب أن تكون قادرًا على معالجة الفواتير التي لم يتم دفعها بحلول تاريخ الاستحقاق. توضح لك هذه الوحدة كيف يساعد Dynamics 365 Finance الشركات على معالجة التحصيلات للعملاء المتخلِّفين عن السداد  \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- كيفية استخدام كشوف حسابات العملاء.\n- كيفية معالجة التحصيلات. \n- كيفية استخدام ميزة إدارة الائتمان.\n"
 prerequisites: >
   - الحصول على فهم أساسي لعمليات التمويل والمحاسبة
 
@@ -34,6 +34,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.1-process-credit-collections-intro
 - learn-dynamics.process-credit-collections-in-dynamics-365-finance-ops.2-customer-account-statement

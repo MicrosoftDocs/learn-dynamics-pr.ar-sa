@@ -7,15 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0a7847abf1f6f83f22c94ed9a05296ec8c86379a
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: fdd469277a7b0bf2561c059bed62d6565aeb17ae
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7513588"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753075"
 title: نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nيتيح عنصر واجهة مستخدم المحادثة للعملاء إمكانية الاتصال بمناديب الخدمة وتقديم المساعدة في الإجابة على استفساراتهم بسرعة. تتناول هذه الوحدة عملية نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قناة محادثة.\n- السماح بتنزيل نسخ المحادثة المكتوبة والملفات.\n- استخدام استطلاعات ما قبل المحادثة.\n- قم بتضمين عنصر واجهة مستخدم المحادثة في المدخل. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء قناة محادثة.\n- السماح بتنزيل نسخ المحادثة المكتوبة والملفات.\n- استخدام استطلاعات ما قبل المحادثة.\n- قم بتضمين عنصر واجهة مستخدم المحادثة في المدخل. \n"
 prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/omnichannel-chat.svg
 levels:
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 units:
 - learn-dynamics.omnichannel-chat.1-introduction
 - learn-dynamics.omnichannel-chat.2-channel

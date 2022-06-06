@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-field-service
-  ms.openlocfilehash: 9edde19a1d00fd3a5530e79fa0bf7853d226c196
-  ms.sourcegitcommit: 51200b30f3608949d6a7e9e566acfd054e8d7285
+  ms.openlocfilehash: c95e232de03c6654f4c08481817aa07a61aff3ae
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/16/2021
-  ms.locfileid: "7815355"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751881"
 title: إدارة أوامر العمل في Dynamics 365 Field Service
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- field-management
 modules:
 - learn-bizapps.implement-work-order-management-agreements-inventory-and-purchasing
 - learn-dynamics.incident-types

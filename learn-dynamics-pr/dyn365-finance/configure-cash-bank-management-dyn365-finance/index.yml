@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops
 metadata:
-  title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance.
+  title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance
   description: من خلال إدارة النقد والبنوك في Dynamics 365 Finance، يمكنك تسجيل وتسوية الحركات المالية مقابل كشف الحساب المصرفي وتحديد أنواع الحركات المصرفية مثل الودائع والأرصدة غير الكافية (NSF).
   ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 23c3f064aca227d2c3eee971a557c42340ef3f60
-  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+  ms.openlocfilehash: a8682327162bc65fa3e3ecd2e40bb90c5d17eeea
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/29/2021
-  ms.locfileid: "7867452"
-title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance.
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749492"
+title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nمن خلال إدارة النقد والبنوك في Dynamics 365 Finance، يمكنك تسجيل وتسوية الحركات المالية مقابل كشف الحساب المصرفي وتحديد أنواع الحركات المصرفية مثل الودائع والأرصدة غير الكافية (NSF). \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء البنوك وتكوينها.\n- إنشاء تخطيطات البنوك وتكوينها.\n- تكوين معلمات إدارة النقد والبنوك.\n- إعداد بنوك الموردين والعملاء.\n- تكوين التنبؤات بالتدفقات النقدية والإبلاغ عنها.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء البنوك وتكوينها.\n- إنشاء تخطيطات البنوك وتكوينها.\n- تكوين معلمات إدارة النقد والبنوك.\n- إعداد بنوك الموردين والعملاء.\n- تكوين التنبؤات بالتدفقات النقدية والإبلاغ عنها.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
@@ -33,6 +33,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.1-config-cash-bank-introduction
 - learn-dynamics.configure-cash-and-bank-management-in-dynamics-365-finance-ops.2-bank-transaction-types-groups

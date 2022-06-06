@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.compare-analytics-ax-2012-finance-operations
 metadata:
-  title: مقارنة التقارير والتحليلات في تطبيقات Finance and Operations مع Dynamics AX 2012
-  description: تتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات Finance and Operations أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة.
+  title: مقارنة التقارير والتحليلات في تطبيقات التمويل والعمليات باستخدام Dynamics AX 2012
+  description: تتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات التمويل والعمليات أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة.
   ms.date: 03/09/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1fa084cd43f31f51948aab4e4aed0e70a2b20563
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4a26bcce4986d450cd26e63fea07703e1253d0e7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361549"
-title: مقارنة التقارير والتحليلات في تطبيقات Finance and Operations مع Dynamics AX 2012
-summary: "[!include[](../includes/module-banner.md)] \nتتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات Finance and Operations أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة. \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- إعداد التقارير وتحليل Power BI المستخدم مع AX 2012.\n- تتوفر خيارات إعداد التقارير في تطبيقات Finance and Operations.\n- خدمات تصدير البيانات في تطبيقات Finance and Operations.\n- كيفية تحديث مستودع البيانات الخاص بك.\n- كيفية تحديث التحليلات والتقارير الخاصة بك.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749789"
+title: مقارنة التقارير والتحليلات في تطبيقات التمويل والعمليات باستخدام Dynamics AX 2012
+summary: "[!include[](../includes/module-banner.md)] \nتتمثل إحدى الخطوات المهمة في رحلة الترقية في تحديد كيفية تزويد المستخدمين بالتقارير والتحليلات التي يحتاجون إليها لاتخاذ القرارات. توفر تطبيقات التمويل والعمليات أدوات جاهزة تتيح استخدام بياناتك لإنشاء تقارير وتحليلات حديثة. \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- إعداد التقارير وتحليل Power BI المستخدم مع AX 2012.\n- تتوفر خيارات إعداد التقارير في تطبيقات التمويل والعمليات.\n- خدمات تصدير البيانات في تطبيقات التمويل والعمليات.\n- كيفية تحديث مستودع البيانات الخاص بك.\n- كيفية تحديث التحليلات والتقارير الخاصة بك.\n"
 prerequisites: "- معرفه Dynamics AX 2012\n- فهم إمكانيات إعداد التقارير  \n"
 iconUrl: /learn/achievements/compare-analytics-ax-2012-finance-operations.svg
 levels:
@@ -28,6 +28,8 @@ products:
 - dynamics-finance-operations
 - dynamics-scm
 - dynamics-finance
+subjects:
+- data-analytics
 units:
 - learn-dynamics.compare-analytics-ax-2012-finance-operations.01-introduction
 - learn-dynamics.compare-analytics-ax-2012-finance-operations.02-report-power-bi-analysis

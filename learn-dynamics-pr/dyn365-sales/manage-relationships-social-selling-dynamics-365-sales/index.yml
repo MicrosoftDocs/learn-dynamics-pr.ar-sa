@@ -7,19 +7,19 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 37d3efd8542a4c267746327c1c25ad3f3829e4e8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 35d9e82aa39637cab0488bee3a61f6d127192f13
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436175"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748185"
 title: إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
   يتعلق البيع اليوم ببناء علاقات طويلة الأمد مع العملاء. يجب أن يراك العملاء كمستشار موثوق به يمكنهم الرجوع إليه عندما يحتاجون إلى التوجيه. يتعلق بناء العلاقات بمعرفة من هم عملاؤك وما يحتاجون إليه ومتى تتفاعل معهم. يعد Microsoft Social Engagement وLinkedIn Sales Navigator أمثلة على التطبيقات التي يمكنك دمجها مع Dynamics 365 لبناء هذه العلاقات.  بالإضافة إلى ذلك، فإن معرفة أي لعبة مبيعات يتم تنفيذها بناءً على مواقف محددة وفهم الصحة العامة لعلاقة العميل بمؤسستك يمكن أن يساعد في زيادة حجم وكمية المبيعات.
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف أفضل الممارسات\n- العمل مع قواعد المبيعات\n- إدارة صحة العلاقة باستخدام Sales Insights\n- التعرف على ميزات Sales Navigator\n"
-prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء الحالات وإدارتها أو إنشاء العملاء المتوقعين والفرص وإدارتها.
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضًا الإلمام بإنشاء الحالات وإدارتها أو إنشاء العملاء المتوقعين والفرص وإدارتها.
 iconUrl: /learn/achievements/manage-relationships-social-selling-d365-sales.svg
 levels:
 - intermediate
@@ -29,6 +29,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
+- customer-relationship-management
 units:
 - learn-dynamics.relationship-management-and-social-selling.1-overview
 - learn-dynamics.relationship-management-and-social-selling.2-enforce-best-practices-with-playbooks

@@ -8,21 +8,21 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/plan-chart-of-accounts
-  ms.openlocfilehash: b32b1cbd3fcd734630be3a1671d774b74de0726f
-  ms.sourcegitcommit: 63aec63ef3246e364c79cfeb4c4815215b2f789c
+  ms.openlocfilehash: b064aeb8527d665ccaa2fa3003f6dabf92607593
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/29/2021
-  ms.locfileid: "7867572"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750952"
 title: تكوين دليل الحسابات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. كجزء من تنفيذ دفتر الأستاذ العام، يعد تكوين دليل الحسابات هو الخطوة الأولى المطلوبة لتحديد الحسابات والأبعاد والبنيات.  \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تحديد المكونات المطلوبة لدليل الحسابات\n- تحديد دليل الحسابات وتكوينه\n- تحديد الأبعاد المالية ومجموعات الأبعاد وتكوينها\n- تكوين دليل الحسابات، والحسابات الرئيسية، والفئات، والقوالب، الاسم المستعار لحساب دفتر الأستاذ، والتحكم في الرصيد\n- تكوين بنيات الحسابات والقواعد المتقدمة \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تحديد المكونات المطلوبة لدليل الحسابات\n- تحديد دليل الحسابات وتكوينه\n- تحديد الأبعاد المالية ومجموعات الأبعاد وتكوينها\n- تكوين دليل الحسابات، والحسابات الرئيسية، والفئات، والقوالب، الاسم المستعار لحساب دفتر الأستاذ، والتحكم في الرصيد\n- تكوين بنيات الحسابات والقواعد المتقدمة \n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
   - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية
 
-  - المعرفة العامة بالتنقل الأساسي في Dynamics 365 Finance
+  - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Finance
 iconUrl: /learn/achievements/configure-chart-of-accounts-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
@@ -32,6 +32,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.1-config-chart-accounts-introduction
 - learn-dynamics.configure-chart-of-accounts-in-dynamics-365-finance-ops.2-plan-chart-of-accounts

@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 7e1e24cb63d5de693ff88cb1e349d0e43858136d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ec61f36a9219a93ab43cd23a03739b5a75926791
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748732"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751638"
 title: تخصيص الأدوار وتصميم واجهه مستخدم لـ Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nيمكن تخصيص بعض وظائف الأساسية بواسطة أحد المطورين. يناقش مسار التعليم هذا صفحات الأدوار والإعداد المساعد والإخطارات وتغييرات واجهة المستخدم الأخرى. \n"
 prerequisites: "- الفهم الأساسي للغة البرمجة AL والوظائف  \n"
@@ -25,6 +25,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- development-tools
+- identity-access
 modules:
 - learn-dynamics.develop-role-center
 - learn-dynamics.build-assisted-setup

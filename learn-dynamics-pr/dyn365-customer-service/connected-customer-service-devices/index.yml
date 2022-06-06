@@ -8,19 +8,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: ee594469fa7b205242df33716c02e294bebb9a40
-  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.openlocfilehash: 8c0a2f7270bb5e9cdbaf196e4d08e48ced087141
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2021
-  ms.locfileid: "7712334"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750563"
 title: تسجيل الأجهزة وإدارتها باستخدام Connected Customer Service for Dynamics 365 وAzure IoT
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تعمل Connected Customer Service على تكامل أجهزة IoT مع Dynamics 365 Customer Service لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء. إضافة إلى ذلك، يتيح تسجيل هذه أجهزة IoT ومراقبتها وإدارتها في عمليات الأعمال التي أنشأتها مؤسستك.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تعرف على كيفية تسجيل أجهزه IoT.
 
@@ -41,6 +41,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- device-management
 units:
 - learn-dynamics.connected-customer-service-devices.1-devices
 - learn-dynamics.connected-customer-service-devices.2-alerts

@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c9663df0480c0cdb4c51ef03c1406a6bd68693a4
-  ms.sourcegitcommit: 511e4ff6400ea73a0df7e817e74e16ceacf16d60
+  ms.openlocfilehash: 581ddcac460209b2bcd2d8f5ba1cfd1c4977fb02
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/15/2022
-  ms.locfileid: "8420436"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749519"
 title: قم بالعمل باستخدام إدارة البَيانات في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -38,6 +38,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- data-management
 units:
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.1-work-data-management-introduction
 - learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.2-data-management-concepts

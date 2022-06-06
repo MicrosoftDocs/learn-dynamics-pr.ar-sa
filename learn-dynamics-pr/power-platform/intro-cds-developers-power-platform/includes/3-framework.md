@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 869eb048037e4616e327ca465236938b728705ce
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 6fcef3939dee6730b4e62fe0973fedaef4ce4f39
+ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548303"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8743369"
 ---
 ## <a name="event-framework-overview"></a>نظرة عامة على إطار عمل الحدث
 
@@ -38,7 +38,7 @@ ms.locfileid: "8548303"
 
 وهناك أيضًا العديد من الرسائل التي يتم عرضها حسب السياق، اعتمادًا على نوع الجدول الذي تتعامل معه. على سبيل المثال، إذا كان الجدول به عمود "القيمة المحتسبة"، فيمكنني تنفيذ معالج الأحداث على رسالة الحدث "حساب حقل القيمة المحتسبة".
 
-بشكل عام، يمكننا العثور على مخزون لهذه الرسائل المخصصة التي تم توفيرها عبر Dataverse من خلال البحث عبر [مساحة الاسم Microsoft.Sdk.Messages](/dotnet/api/microsoft.xrm.sdk.messages?view=dynamics-general-ce-9/?azure-portal=true) لأي فئات ينتهي اسمها في *\طلب*. وتوجد طريقة أخرى لمعرفة الرسائل المتوفرة لنوع معين من الجداول وهي التنقل في مجموعات الرسائل والجدول عبر "أداة تسجيل المكون الإضافي".
+بشكل عام، يمكننا العثور على مخزون لهذه الرسائل المخصصة التي تم توفيرها عبر Dataverse من خلال البحث عبر [مساحة الاسم Microsoft.Sdk.Messages](/dotnet/api/microsoft.xrm.sdk.messages/?azure-portal=true) لأي فئات ينتهي اسمها في *\طلب*. وتوجد طريقة أخرى لمعرفة الرسائل المتوفرة لنوع معين من الجداول وهي التنقل في مجموعات الرسائل والجدول عبر "أداة تسجيل المكون الإضافي".
 
 كما يمكننا إنشاء الرسائل الخاصة بنا وعرضها عن طريق إنشاء *إجراءات* مخصصة. لمزيد من المعلومات حول الإجراءات، راجع [إنشاء إجراءات خاصة بك](/power-apps/developer/common-data-service/custom-actions/?azure-portal=true).
 

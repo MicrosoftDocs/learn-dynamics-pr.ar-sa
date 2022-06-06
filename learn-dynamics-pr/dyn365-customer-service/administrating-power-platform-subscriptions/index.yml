@@ -8,19 +8,19 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 5af6c0b64ee257f7b5804caa77529843251f7298
-  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.openlocfilehash: c5c33dff3d87c4205328510d962b10225ec54378
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/24/2022
-  ms.locfileid: "8484130"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748347"
 title: إدارة اشتراكات Microsoft Power Platform
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   لا تدرك العديد من المؤسسات التي تقوم بتنفيذ Microsoft Power Platform وتطبيقات Dynamics 365 جميع الإمكانات المضمنة في اشتراكها. في هذه الوحدة، ستتعرف على هذه الإمكانات الافتراضية التي يُمكنك الوصول إليها.
-abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- قم بإدارة المستخدمين باستخدام مركز إدارة Microsoft 365.\n- قم بإدارة البيئات باستخدام مركز مسؤولي Power Platform.\n- قم بإدارة التخزين.\n- قم بإدارة التحديثات باستخدام مركز مسؤولي Power Platform.\n- قم بتثبيت التطبيقات باستخدام مركز مسؤولي Power Platform.\n- قم بتزويد مدخل Power Apps.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بإدارة المستخدمين باستخدام مركز إدارة Microsoft 365.\n- قم بإدارة البيئات باستخدام مركز مسؤولي Power Platform.\n- قم بإدارة التخزين.\n- قم بإدارة التحديثات باستخدام مركز مسؤولي Power Platform.\n- قم بتثبيت التطبيقات باستخدام مركز مسؤولي Power Platform.\n- قم بتزويد مدخل Power Apps.\n"
 prerequisites: >
   - فهم البنية التحتية الأساسية من Microsoft Power Platform
 iconUrl: /learn/achievements/administrating-power-platform-subscriptions.svg
@@ -33,6 +33,9 @@ products:
 - power-apps
 - dynamics-365
 - power-platform
+subjects:
+- identity-access
+- device-management
 units:
 - learn-dynamics.administrating-power-platform-subscriptions.introduction
 - learn-dynamics.administrating-power-platform-subscriptions.1-manage-users-admin-portal

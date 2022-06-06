@@ -1,28 +1,28 @@
 ### YamlMime:LearningPath
 uid: learn.wwl.config-d365-finance-operations-apps
 metadata:
-  title: تكوين التطبيقات في Finance and Operations
-  description: يُعد المسار التعليمي الخاص بتطبيقات Dynamics 365 Finance and Operations جسراً بين دورة الأساسيات والدورة الرئيسية
+  title: تكوين التطبيقات في التمويل والعمليات
+  description: يُعد مسار التعليم الخاص بتطبيقات التمويل والعمليات في Dynamics 365 جسرًا بين دورة الأساسيات والدورة الرئيسية‬
   ms.date: 10/19/2020
   author: wwlpublish
   ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 2936055f314e38bc7a4535f43fe9c1d86766d45a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 99f20afc0b5c4162c7ced927a889a5879bd75563
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363225"
-title: تكوين التطبيقات في Finance and Operations
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752583"
+title: تكوين التطبيقات في التمويل والعمليات
 prerequisites: >
   إما:
 
-  - إكمال MB-901 Microsoft Dynamics 365 Fundamentals (أو سابقه أو لاحقه) بنجاح، أو
+  - إكمال أساسيات MB-901 Microsoft Dynamics 365 (أو سابقه أو لاحقه) بنجاح، أو
 
   - ما يعادل المعرفة على المستوى الميداني والإلمام بالوحدات النمطية
 summary: >
-  وتُعد هذه الدورة التدريبية جسراً بين الدورة التدريبية "أساسيات Dynamics 365" والدورة التدريبية الرئيسية "تطبيقات Dynamics 365 Finance and Operations.
+  وتُعد هذه الدورة التدريبية جسرًا بين الدورة التدريبية "أساسيات Dynamics 365" والدورة التدريبية الرئيسية "تطبيقات التمويل والعمليات في Dynamics 365".
 iconUrl: /learn/achievements/configure-dynamics-365-finance-operations-apps.svg
 levels:
 - beginner
@@ -38,6 +38,10 @@ products:
 - dynamics-finance-operations
 - dynamics-human-resources
 - dynamics-scm
+subjects:
+- process-workflow
+- finance-accounting
+- supply-chain-management
 modules:
 - learn.wwl.introduce-configure-personalization-dynamics-365-finance-operations-apps
 - learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps

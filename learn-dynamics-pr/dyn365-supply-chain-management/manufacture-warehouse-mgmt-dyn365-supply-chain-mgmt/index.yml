@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 79d2be1e80e94fc7ece341034596c55d2e4ea371
-  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
+  ms.openlocfilehash: 356bfc488db3d25fa504c4e44f7653f9edee9fe8
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/28/2021
-  ms.locfileid: "7714742"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748203"
 title: استخدام إدارة المستودعات للتصنيع في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nهل ترغب في الحصول على أفضل ما في إدارة المستودعات لدعم أنشطة التصنيع الخاصة بك؟ في هذه الوحدة، يمكنك التعرف على ميزات إدارة المستودعات الخاصة بالتصنيع في Dynamics 365 Supply Chain Management. \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- مواقع إدخالات وإخراجات الإنتاج.\n- التجهيز وانتقاء الأوامر.\n- إصدار بنود قائمة مكونات الصنف والمعادلة إلى المستودع.\n- توزيع البضائع.\n- إمكانية رؤية استثناءات المواد.\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- مواقع إدخالات وإخراجات الإنتاج.\n- التجهيز وانتقاء الأوامر.\n- إصدار بنود قائمة مكونات الصنف والمعادلة إلى المستودع.\n- توزيع البضائع.\n- إمكانية رؤية استثناءات المواد.\n"
 prerequisites: القدرة على تكوين إدارة المستودعات ومعرفة عمليات التصنيع واستخدامها في Dynamics 365 Supply Chain Management
 iconUrl: /learn/achievements/manufacture-wms-dyn365-fo.svg
 levels:
@@ -27,6 +27,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
+- manufacturing-processes
 units:
 - learn-dynamics.manufacture-wms-dyn365-fo.01-prod-input-location
 - learn-dynamics.manufacture-wms-dyn365-fo.02-prod-output-location

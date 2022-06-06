@@ -8,15 +8,15 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 02891566d0b5c61d2abeea5d9a56f953e0af4e78
-  ms.sourcegitcommit: b04b8a0aae511bb85c0e21b8ac33f188a5ef9de5
+  ms.openlocfilehash: b33e38aa827e5dfb5bb4db079a3e30060aa46f03
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/28/2022
-  ms.locfileid: "8653124"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751980"
 title: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
 prerequisites: >
-  لا شيء
+  بلا
 summary: >
   يقدم مسار التعليم هذا للمتعلمين الإمكانات الأساسية لـ Dynamics 365 Marketing.  ستتعرف على إمكانات المنتج الأساسية والأدوات الأخرى التي يمكنك استخدامها لإدارة أنشطة التسويق بنجاح وفعالية.
 video:
@@ -33,6 +33,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-marketing
+subjects:
+- marketing-sales
 modules:
 - learn.wwl.explore-dynamics-365-marketing
 - learn.wwl.describe-dynamics-365-marketing-capabilities-2

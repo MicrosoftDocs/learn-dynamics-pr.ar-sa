@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 28d3ae2c0d776a0b250540dcaf012dd02299f580
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 75e79c9100df2a77082c5b5eb6d24f080c02d1bc
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491229"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751737"
 title: إرجاع الأصناف في Microsoft Dynamics 365 Business Central
 summary: هل تحتاج إلى إرجاع أصناف إلى موردين وقبول المرتجعات من العملاء؟ سيساعدك هذا المسار على معرفة كيفية معالجه المرتجعات.
 prerequisites: "- الفهم الأساسي لكيفية التنقل في Business Central. \n- معرفة كيفية معالجة أوامر المبيعات والشراء في Business Central\n"
@@ -27,6 +27,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- business-applications
 modules:
 - learn-dynamics.setup-returns-management-dynamics-365-business-central
 - learn-dynamics.manage-customer-returns-dynamics-365-business-central

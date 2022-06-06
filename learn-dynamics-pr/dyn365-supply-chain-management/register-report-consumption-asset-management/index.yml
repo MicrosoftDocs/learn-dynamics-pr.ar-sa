@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d9249086e17c57ec0632de1544823b5c68b31d1a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7c7dc09fc0bb024b04ec9d6afb1e064652f13df6
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347572"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8747966"
 title: تسجيل الاستهلاك والإبلاغ عنه في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nيتم إكمال تسجيلات الاستهلاك عند اكتمال مهمة الصيانة لأحد أوامر العمل. يغذي التسجيل التكاليف المرتبطة بالأصل وتقارير الاستهلاك في إدارة الأصول لـ Dynamics 365 Supply Chain Management.\n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n-  تسجيل الاستهلاك، وترحيل دفاتر اليومية.\n-  إنشاء تقارير الاستهلاك لتعقب الاستهلاك المرحل في أوامر العمل وإدارته.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n-  تسجيل الاستهلاك، وترحيل دفاتر اليومية.\n-  إنشاء تقارير الاستهلاك لتعقب الاستهلاك المرحل في أوامر العمل وإدارته.\n"
 prerequisites: >
   - المعرفة العامة بإدارة الأصول وعمليات supply chain management.
 
@@ -30,6 +30,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.register-report-consumption-asset-management.01-introduction
 - learn-dynamics.register-report-consumption-asset-management.02-register-consumption

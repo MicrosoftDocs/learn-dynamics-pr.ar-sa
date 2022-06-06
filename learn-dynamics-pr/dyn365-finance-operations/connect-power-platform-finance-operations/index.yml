@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.connect-power-platform-dynamics-365-finance-operations
 metadata:
-  title: الاتصال بخدمات Microsoft Power Platform باستخدام تطبيقات Finance and Operations
-  description: تُعد خدمات Microsoft Power Platform مثل Power Apps وPower Automate ونموذج البيانات العامة من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات Finance and Operations.
+  title: الاتصال بخدمات Microsoft Power Platform مع تطبيقات التمويل والعمليات
+  description: تُعد خدمات Microsoft Power Platform مثل Power Apps وPower Automate، وCommon Data Model من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات التمويل والعمليات.
   ms.date: 06/19/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 43cacc68466fdf37baf190a1efdcf954cdd31e34
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e8bac4389451a0cf3e0c5142e9108fe44ff19e30
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364298"
-title: الاتصال بخدمات Microsoft Power Platform باستخدام تطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nتُعد خدمات Microsoft Power Platform مثل Power Apps وPower Automate ونموذج البيانات العامة من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات Finance and Operations. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتوصيل بيانات تطبيقات Finance and Operations الخاصة بك باستخدام Power Automate.\n- الاتصال ببيانات تطبيقات Finance and Operations الخاصة بك باستخدام Power Apps.\n- تعرف على Common Data Model لتجميع البيانات من أنظمة وتطبيقات متعددة معاً.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749016"
+title: الاتصال بخدمات Microsoft Power Platform مع تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nتُعد خدمات Microsoft Power Platform مثل Power Apps وPower Automate، وCommon Data Model من الأدوات التي يمكنك استخدامها لإنشاء طرق فعالة لإنجاز المزيد من العمل باستخدام تطبيقات التمويل والعمليات. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- الاتصال ببيانات تطبيقات التمويل والعمليات الخاصة بك مع Power Automate.\n- الاتصال ببيانات تطبيقات التمويل والعمليات الخاصة بك مع Power Apps.\n- تعرف على Common Data Model لتجميع البيانات من أنظمة وتطبيقات متعددة معاً.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 
-  - الإلمام بتطبيقات Finance and Operations
+  - الإلمام بتطبيقات التمويل والعمليات
 iconUrl: /learn/achievements/connect-power-platform-dynamics-365-finance-operations.svg
 levels:
 - intermediate
@@ -30,6 +30,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- cross-development
+- communication
 units:
 - learn-dynamics.connect-power-platform-dynamics-365-finance-operations.1-connect-flow
 - learn-dynamics.connect-power-platform-dynamics-365-finance-operations.2-power-apps

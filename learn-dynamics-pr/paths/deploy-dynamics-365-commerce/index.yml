@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: ff751137fbb1214ca13fc63c6fef0ca4104c7ff7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e3b58262acab0fa0cdf99c77e602efdeb969c040
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356616"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752313"
 title: نشر وتوسيع Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -49,6 +49,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- custom-app-development
 modules:
 - learn-dynamics.introduction-architecture-deployment
 - learn-dynamics.data-distribution

@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: 36c7756ff59e1dc31e0800e74b7c0beee1be2a02
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 20064e6882b2bafc6d3382cd116b0872a9dc8222
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438638"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749963"
 title: استكشاف إمكانات Microsoft Dynamics 365 Commerce
 summary: تقدم لك هذه الوحدة إمكانات Microsoft Dynamics 365 Commerce بما في ذلك إدارة القنوات وإدارة الطلبات الموزعة والترويج. ستتعلم أيضًا كيفية استخدام Dynamics 365 Customer Insights وتحليلات البيع بالتجزئة في Commerce.
 abstract: >
@@ -29,7 +29,7 @@ abstract: >
 
   - وصف طريقة Dynamics 365 Commerce في استخدام تحليلات البيع بالتجزئة لتوفير إدارة بيانات التجزئة المركزية
 prerequisites: >
-  لا شيء
+  بلا
 iconUrl: /learn/achievements/dynamics-commerce-capabilities.svg
 levels:
 - beginner
@@ -41,6 +41,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.introduction
 - learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.explore-retail-channels

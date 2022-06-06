@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f022d0d9a63597ab59e51d669b925f3a62f0936f
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: 16f6315928349292c804d3ba98609ba1074691d0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933286"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748743"
 title: إثراء البيانات والتنبؤات من خلال رؤى الجمهور
 summary: "[!include[](../includes/module-banner.md)] \nبادر بإثراء بياناتك بمصادر البيانات الأخرى واستخدم الذكاء الاصطناعي لعمل تنبؤات بناءً على البيانات السابقة.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتاحة في رؤى الجمهور.\n- تكوين وظائف العلامة التجارية والاهتمامات.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتاحة في رؤى الجمهور.\n- تكوين وظائف العلامة التجارية والاهتمامات.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/enrich-data.svg
 levels:
 - intermediate
@@ -27,6 +27,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-cust-insights
+subjects:
+- data-analytics
+- business-applications
 units:
 - learn-dynamics.enrich-data.1-introduction
 - learn-dynamics.enrich-data.2-profile-enrichment

@@ -7,15 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 63262e5532cc01a7494b555af3436f76e23c6c9a
-  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.openlocfilehash: 1f9493939747cf784e7f7876813b3f52bca5cbea
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/16/2021
-  ms.locfileid: "7498374"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750080"
 title: إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nهل تستخدم التسويق في الوقت الحقيقي؟ إذا كان كذلك، فستساعدك هذه الوحدة على تعلم كيفية إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء رسائل البريد الإلكتروني وإعلامات منبثقة ورسائل نصية.\n- العمل مع المشغّلات في الوقت الفعلي.\n- العمل مع الشرائح.\n- إنشاء رحلة.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء رسائل البريد الإلكتروني وإعلامات منبثقة ورسائل نصية.\n- العمل مع المشغّلات في الوقت الفعلي.\n- العمل مع الشرائح.\n- إنشاء رحلة.\n"
 prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics 365 Marketing
 iconUrl: /learn/achievements/manage-content-event-triggers-journeys.svg
 levels:
@@ -25,6 +25,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-marketing
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.manage-content-event-triggers-journeys.1-introduction
 - learn-dynamics.manage-content-event-triggers-journeys.2-asset-library

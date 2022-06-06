@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 5c89262f221b618ff44f0e9f9bc05defcfc2339f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 130bd7b1a51a3c106783a19fe859d98046c4dfa7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748810"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751683"
 title: إعداد إدارة المستودعات في Microsoft Dynamics 365 Business Central‎
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -29,6 +29,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- business-applications
 modules:
 - learn-dynamics.get-started-warehouse-management
 - learn-dynamics.set-up-zones-bins

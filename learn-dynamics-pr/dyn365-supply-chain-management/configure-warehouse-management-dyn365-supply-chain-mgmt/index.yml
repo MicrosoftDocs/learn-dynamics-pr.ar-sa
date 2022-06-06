@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 863d78a7a2de28f8e2d4b53bc7bc9018a3f94eaa
-  ms.sourcegitcommit: 5f6a6a7ceef8778ad8d3404342fd840c539cf342
+  ms.openlocfilehash: 8763760794999211e5089afbd8fe8c651f35a038
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/28/2021
-  ms.locfileid: "7714726"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748845"
 title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   تساعد إدارة المستودعات في Dynamics 365 Supply Chain Management على تحسين عمليات المستودعات وتبسيطها وفقاً لاحتياجاتك الفردية. كما توفر نظرة ثاقبة على مخزونك والأدوات التي تحتاج إليها للمساعدة في زيادة رضا العملاء وتقليل التكاليف.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء المستودعات والمواقع.\n- تكوين مجموعات العمل والمناطق وتنسيق الموقع وملفات تعريف المواقع.\n- تكوين معالجة وزن التعبئة لإدارة المستودعات.\n- إنشاء تدرجات هرمية للحجز.\n- تكوين توجيهات الموقع.\n- تكوين قوالب الموجة.\n- تكوين حالات المخزون.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء المستودعات والمواقع.\n- تكوين مجموعات العمل والمناطق وتنسيق الموقع وملفات تعريف المواقع.\n- تكوين معالجة وزن التعبئة لإدارة المستودعات.\n- إنشاء تدرجات هرمية للحجز.\n- تكوين توجيهات الموقع.\n- تكوين قوالب الموجة.\n- تكوين حالات المخزون.\n"
 prerequisites: >
   - المعرفة العامة بعمليات Supply Chain Management
 
@@ -37,6 +37,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.1-configure-warehouse-management-intro
 - learn-dynamics.configure-warehouse-management-in-dynamics-365-finance-ops.2-roles-warehouse-management

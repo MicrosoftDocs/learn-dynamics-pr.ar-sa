@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5cf51472d1deac64bc8a13aad3e70a9c6ddb3f28
-  ms.sourcegitcommit: eebec3c189448605c3b1045c399fbe2d89e729ac
+  ms.openlocfilehash: 962c59df23d86b58a2619c789cd38bcbb491bf37
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2021
-  ms.locfileid: "7712438"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748836"
 title: الشروع في العمل باستخدام التحكم في الإنتاج في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتبدأ دورة حياة الإنتاج بإنشاء أمر الإنتاج أو أمر الدفعة أو كانبان. وينتهي بصنف منتهٍ ومصنع وجاهز إما لعميل أو لمرحلة أخرى من الإنتاج. تتطلب كل خطوة في دورة الحياة أنواعاً مختلفة من المعلومات لإكمال العملية. ومع اكتمال كل خطوة، يُظهر أمر الإنتاج أو أمر الدفعة أو كانبان تغييراً في حالة الإنتاج. وتتطلب الأنواع المختلفة من المنتجات عمليات تصنيع مختلفة.  \n"
-abstract: "سوف تتعرف في هذه الوحدة على: \n- منهجيات‬ التصنيع المنفصل والتصنيع محدود الفاقد والتصنيع التحويلي‬ \n- التصنيع الموحد \n- كيفية تكوين التحكم في الإنتاج للتصنيع الموحد\n- تخطيط القدرة الإنتاجية\n- التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم بالإنتاج\n- مجموعات الإنتاج\n- كيفية العمل باستخدام مفاتيح التوزيع\n- إحصاءات وذكاء إنترنت الأشياء في Supply Chain Management\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- منهجيات‬ التصنيع المنفصل والتصنيع محدود الفاقد والتصنيع التحويلي‬ \n- التصنيع الموحد \n- كيفية تكوين التحكم في الإنتاج للتصنيع الموحد\n- تخطيط القدرة الإنتاجية\n- التكامل بين دفتر الأستاذ العام والوحدات النمطية للتحكم بالإنتاج\n- مجموعات الإنتاج\n- كيفية العمل باستخدام مفاتيح التوزيع\n- إحصاءات وذكاء إنترنت الأشياء في Supply Chain Management\n"
 prerequisites: >
   - المعرفة العامة بعمليات التصنيع
 
@@ -34,6 +34,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- manufacturing-processes
 units:
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.1_get-started-production-control-intro
 - learn-dynamics.get-started-with-production-control-in-dynamics-365-finance-ops.2-core-concepts-production-control

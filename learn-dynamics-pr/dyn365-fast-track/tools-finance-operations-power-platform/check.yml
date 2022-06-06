@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tools-finance-operations-power-platform.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/16/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5729b8d7f09815bb83b31e17fd5fb1d3018beb32
+  ms.sourcegitcommit: 0830f963f25aca3007bac7693b26ca85586936fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/17/2022
+  ms.locfileid: "8764471"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما حد السجلات لكل حركة لتكامل الكتابة المزدوجة؟
+    choices:
+    - content: "1000"
+      isCorrect: true
+      explanation: صحيح. يكون عدد السجلات الخاصة بحركة من الحركات قاصرًا على 1000 سجل.
+    - content: "2000"
+      isCorrect: false
+      explanation: غير صحيح.‬ يتجاوز عدد السجلات الحد المسموح به.
+    - content: "500000"
+      isCorrect: false
+      explanation: غير صحيح.‬ يتجاوز عدد السجلات الحد المسموح به.
+  - content: ما الإجراء الذي سيسمح بوضع السجلات في قائمة انتظار، ومتى يتم الاستئناف، وما الإجراء الذي سيسمح لتعيينات الكتابة المزدوجة باللحاق بالحركات؟
+    choices:
+    - content: بدء
+      isCorrect: false
+      explanation: غير صحيح.‬ أنت لا تبدأ بتعيين لوضع السجلات في قائمة الانتظار.
+    - content: ‏‫إيقاف مؤقت‬
+      isCorrect: true
+      explanation: صحيح. يؤدي إيقاف التعيين مؤقتًا إلى السماح للتعيين بوضع الحركات في قائمة الانتظار في Azure Storage حتى يتم استئناف التعيين.
+    - content: إيقاف
+      isCorrect: false
+      explanation: غير صحيح.‬ التعيين الذي تم إيقافه لن يقوم بوضع الحركات في قائمة الانتظار.
+  - content: تبدأ حركة في تطبيقات التمويل والعمليات ويتم نقلها إلى Dataverse. في حال فشل الحركة عند الالتزام ببيئة Dataverse، ماذا يحدث لحركة تطبيقات التمويل والعمليات؟
+    choices:
+    - content: تتوقف الحركة مؤقتًا
+      isCorrect: false
+      explanation: غير صحيح.‬ لا تتوقف الحركة مؤقتًا.
+    - content: يتم تعطيل الحركة، وتبدأ عملية تراجع
+      isCorrect: true
+      explanation: صحيح. في حال فشل إحدى الحركات، فإنه يتم تعطيلها في النظام الهدف، وستُعاد الحركة إلى وضعها السابق. في هذه الحالة، تكون تطبيقات التمويل والعمليات هي النظام المصدر.

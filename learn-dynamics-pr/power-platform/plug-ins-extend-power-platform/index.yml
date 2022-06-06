@@ -8,20 +8,20 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 81c77409130eb7695fa15d95a07913ef4ac82679
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c63df06a67fa9fe78c4eb837965739d900404829
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457542"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751233"
 title: توسيع المكونات الإضافية
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   الغرض من هذه الوحدة النمطية هو توفير نظرة عامة تفصيلية حول الإضافات نظرًا لنها تتعلق بتطوير Microsoft Power Platform. ستقوم هذه الوحدة النمطية بمراجعة كيفية تطبيق المكونات الإضافية وكيفية تسجيلها ونشرها وخيارات التكوين المختلفة التي تتوفر أثناء تسجيل المكونات الإضافية.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على كيفية توسيع المكونات الإضافية.\n"
-prerequisites: "- الفهم الأساسي لـ Microsoft Power Platform\n- خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio\n- تجربة في إدارة الحلول في Azure هي المفضلة \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على كيفية توسيع المكونات الإضافية.\n"
+prerequisites: "- الفهم الأساسي لـ Microsoft Power Platform\n- خبرة في تطوير البرامج مقابل تكدس Microsoft وVisual Studio\n- ويُفضل وجود خبرة في إدارة الحلول في Azure.‬ \n"
 iconUrl: /learn/achievements/plug-ins-extend-power-platform.svg
 levels:
 - intermediate
@@ -33,6 +33,8 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+subjects:
+- development-tools
 units:
 - learn-dynamics.plug-ins-extend-power-platform.1-overview
 - learn-dynamics.plug-ins-extend-power-platform.2-usage

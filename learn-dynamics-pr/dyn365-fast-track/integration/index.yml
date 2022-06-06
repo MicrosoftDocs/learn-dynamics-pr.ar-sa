@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e4d28dc6852f6bf025e02605033b03a943aeca9f
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 99705b194efd50c32b3c24371ba2a5b902e0b0ed
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431883"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753665"
 title: تصميم التكامل لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nتعد ورشة عمل التكامل جزءاً من Success by Design. تناقش هذه الوحدة استراتيجية التكامل وكيف ستساعدك ورشة عمل التكامل على التحقق من أن خطط تكامل المشروع الشاملة ستدعم التنفيذ الأولي والاحتياجات طويلة المدى.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية توصيل مكون واحد أو أكثر لإنشاء تجربة موحدة.\n- اكتشاف عملية دمج الخدمات الموجودة دون ترحيلها أو إعادة بناءها.\n"
@@ -35,6 +35,8 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- architecture
 units:
 - learn-dynamics.integration.1-introduction
 - learn-dynamics.integration.2-integration-workshop-topics

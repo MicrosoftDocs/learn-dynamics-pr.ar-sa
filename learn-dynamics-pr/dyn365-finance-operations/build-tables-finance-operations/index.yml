@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e4e38f90a641bef78dee78dd90f892f6f1f2577e
-  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.openlocfilehash: 2067da2eaa56937a68e16d5d4ce27932546513b2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/24/2022
-  ms.locfileid: "8484121"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749816"
 title: إنشاء جداول في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nحيث أنه لا يُمكن دائماً عرض الجداول للمستخدم في تطبيقات التمويل والعمليات، إلا أنها مهمة في التطوير. يتم تخزين جميع البَيانات في تطبيقات التمويل والعمليات وإدارتها في جدول في Visual Studio. تُخزن الجداول البَيانات مثل حركات الشركة والمخزون ودفاتر اليومية. \n"
-abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- حدد استخدام الجداول في تطبيقات التمويل والعمليات.\n- قم بإنشاء جدول جديد في Visual Studio.\n- إدارة خصائص الجدول.\n- يُمكنك إضافة الحقول ومجموعات الحقل إلى جدول.\n- إنشاء علاقة فهرس وجدول.\n- تعرَّف على أساليب الجداول.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- حدد استخدام الجداول في تطبيقات التمويل والعمليات.\n- قم بإنشاء جدول جديد في Visual Studio.\n- إدارة خصائص الجدول.\n- يُمكنك إضافة الحقول ومجموعات الحقل إلى جدول.\n- إنشاء علاقة فهرس وجدول.\n- تعرَّف على أساليب الجداول.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 
@@ -30,6 +30,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- development-tools
 units:
 - learn-dynamics.build-tables-dynamics-365-finance-operations.1-create
 - learn-dynamics.build-tables-dynamics-365-finance-operations.2-properties

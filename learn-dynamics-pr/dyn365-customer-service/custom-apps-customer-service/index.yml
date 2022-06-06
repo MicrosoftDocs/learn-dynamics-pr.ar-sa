@@ -7,19 +7,19 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7fcde26eca8e0736545748e622ef894d18088d8c
-  ms.sourcegitcommit: e1b31037db4ed7bcbc24dddd4c300fd9741be859
+  ms.openlocfilehash: 95e1470d59dc523dcd1ad1b987f8ba8e38bd2873
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "7734232"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754310"
 title: إنشاء تطبيقات مخصصة لـ Dynamics 365 Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تعرف على كيفية استخدام Microsoft Power Platform لإنشاء تطبيقات مخصصة لـ Microsoft Dynamics 365 Customer Service.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تعرف كيف يمكنك استخدام Microsoft Power Platform لتخصيص Dynamics 365 Customer Service.
 
@@ -38,6 +38,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- custom-app-development
 units:
 - learn-dynamics.custom-apps-customer-service.1-introduction
 - learn-dynamics.custom-apps-customer-service.2-apps

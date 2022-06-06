@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: de86372b8cdf27166f6dc76be26efe6b37ca3c0e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fc198452463b749c55d12bd52b5582469e08e374
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435452"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748935"
 title: إدارة رسائل البريد الإلكتروني والشرائح والرحلات في Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة، ستنشئ رحلة عميل وتعمل باستخدام القوالب والشرائح واختبار A/B. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء بريد إلكتروني تسويقي. \n- تشغيل اختبار A/B.\n- إنشاء رحلة العميل.\n- إنشاء شرائح سلوكية ديناميكية من نتائج رحلة العميل.\n- إنشاء قالب رحلة عميل.\n"
@@ -25,6 +25,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-marketing
+subjects:
+- customer-relationship-management
+- marketing-sales
 units:
 - learn-dynamics.manage-emails-journey.1-introduction
 - learn-dynamics.manage-emails-journey.2-create-email

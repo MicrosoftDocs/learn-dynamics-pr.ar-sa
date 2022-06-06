@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps
 metadata:
-  title: تكوين واجهة المستخدم الخاصة بك في تطبيقات Dynamics 365 Finance and Operations
-  description: تكوين واجهة المستخدم الخاصة بك في تطبيقات Dynamics 365 Finance and Operations
+  title: تكوين واجهة المستخدم الخاصة بك في تطبيقات التمويل والعمليات في Dynamics 365
+  description: تكوين واجهة المستخدم الخاصة بك في تطبيقات التمويل والعمليات في Dynamics 365
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: d34c5a170fe3bec55620902ad1e5b46ee2918736
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f30b2b809f24f2abdada65e611a61c35df324ec5
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438513"
-title: تكوين واجهة المستخدم الخاصة بك في تطبيقات Finance and Operations
-summary: في هذه الوحدة، تم تعريف المتعلمين بفكرة تخصيص واجهة المستخدم في Dynamics 365 Finance and Operations لتناسب احتياجات أعمالهم. لقد تعلموا كيفية تغيير القوائم والنماذج والتقارير.
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756504"
+title: تكوين واجهة المستخدم الخاصة بك في تطبيقات التمويل والعمليات
+summary: في هذه الوحدة، تم تعريف المتعلمين بفكرة إضفاء الطابع الشخصي على واجهة مستخدم تطبيقات التمويل والعمليات في Dynamics 365 لتناسب احتياجات أعمالهم. لقد تعلموا كيفية تغيير القوائم والنماذج والتقارير.
 abstract: >
   وفي نهاية هذه الوحدة، سيتمكن المتعلمون من:
 
@@ -29,9 +29,9 @@ abstract: >
 
   - تعديل الحقول في تقرير
 prerequisites: >
-  -   يوصى باستخدام MB-901: Microsoft Dynamics 365 Fundamentals
+  -   يوصى باستخدام أساسيات MB-901: Microsoft Dynamics 365
 
-  -   مسار التعلم تكوين التطبيقات في Finance and Operations - الوحدة 01 - ابدأ بالتكوين والتخصيص في تطبيقات Finance and Operations
+  -   مسار التعليم تكوين التطبيقات في التمويل والعمليات - الوحدة 01 - البدء بالتكوين وإضفاء الطابع الشخصي في تطبيقات التمويل والعمليات
 iconUrl: /learn/achievements/configure-your-ui-dynamics-365-finance-operations-apps.svg
 levels:
 - beginner
@@ -48,6 +48,8 @@ products:
 - dynamics-finance-operations
 - dynamics-human-resources
 - dynamics-scm
+subjects:
+- business-applications
 units:
 - learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.introduction
 - learn.wwl.configure-your-ui-dynamics-365-finance-operations-apps.managing-menus-favorites

@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: ce45bd018593e364d1cf2f46bdad908cb1eb07d6
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 06f9ec477adec4d11584840fa746f9311b06fdcb
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491301"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751800"
 title: معالجة الأنشطة الدورية المالية في Microsoft Dynamics 365 Business Central
 summary: هل أنت مسؤول عن عمليات إقفال الفترة وإقفال نهاية السنة؟ أكمل هذه الوحدة، التي تناقش كيفية إرسال رسائل التذكير ومذكرات التكاليف المالية إلى العملاء. كما تناقش معالجة نظام جمع المعلومات التجارية بين دول الاتحاد الأوروبي وإعداد التقارير وإقفال السنة المالية.
 prerequisites: >
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- finance-accounting
 modules:
 - learn-dynamics.send-reminders-dynamics-365-business-central
 - learn-dynamics.send-memos-dynamics-365-business-central

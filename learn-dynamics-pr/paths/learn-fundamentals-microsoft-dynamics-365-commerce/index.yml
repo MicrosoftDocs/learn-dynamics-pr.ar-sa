@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 3f50f43731c19a5c1ae06848d7c81ad41e508517
-  ms.sourcegitcommit: ac9c23a23eec5fa2091dce74f9e06c550c7ec809
+  ms.openlocfilehash: 3c08ccf2730348259a70d7b02e2c815aa358081d
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "7603530"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752016"
 title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Commerce'
 prerequisites: >
   يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
@@ -31,6 +31,8 @@ products:
 - dynamics-365
 - dynamics-commerce
 - dynamics-fraud-protection
+subjects:
+- marketing-sales
 modules:
 - learn.wwl.get-introduced-finance-operations-apps
 - learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities

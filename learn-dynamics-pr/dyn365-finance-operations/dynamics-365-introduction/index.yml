@@ -7,23 +7,23 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 47ef4a9d6c280af2ac1b5aee4c692c4e3ecb3d61
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: f43ffc23dfdf9d04d58aaad704b4ff1ac84c3031
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7515070"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749726"
 title: مقدمة إلى Microsoft Dynamics 365
 summary: يُحدث Dynamics 365 ثورة في CRM وERP من خلال تطبيق الذكاء على جميع أشكال البيانات. فهو يمكن المؤسسات من التطور من قرارات الأعمال التفاعلية إلى الرؤى المستقبلية التي تسمح لموظفيك بتسريع نتائج الأعمال.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - استكشف تطبيقات Dynamics 365.
 
   - اكتشف قيمة الأعمال في تطبيقات Dynamics 365 وكيف تدعم التحول الرقمي.
 
   - تعرف على دور الذكاء الاصطناعي والواقع المختلط في Dynamics 365.
-prerequisites: لا شيء
+prerequisites: بلا
 iconUrl: /learn/achievements/introduction-to-microsoft-dynamics-365.svg
 levels:
 - beginner
@@ -32,6 +32,8 @@ roles:
 products:
 - dynamics-365
 - power-platform
+subjects:
+- business-applications
 units:
 - learn-dynamics.introduction-dynamics-365.introduction
 - learn-dynamics.introduction-dynamics-365.digital-transformation-business-transformation

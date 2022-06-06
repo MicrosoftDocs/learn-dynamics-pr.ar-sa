@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics
 metadata:
-  title: استكشاف إدارة المصروفات وإدارة الأصول الثابتة و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
-  description: استكشاف إدارة المصروفات وإدارة الأصول الثابتة و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
+  title: استكشاف إدارة المصروفات، وإدارة الأصول الثابتة، و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
+  description: استكشاف إدارة المصروفات، وإدارة الأصول الثابتة، و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
   ms.date: 06/15/2021
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 08719be5a8634b6526d25156bbfd311a32eeef11
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4efde543850d6dbc18aadff947acb0f9a07ec7f2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438722"
-title: استكشاف إدارة المصروفات وإدارة الأصول الثابتة و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750375"
+title: استكشاف إدارة المصروفات، وإدارة الأصول الثابتة، و‏‫إعداد الموازنة في Microsoft Dynamics 365 Finance
 summary: استكشف النقد وإدارة البنوك، واكتشف الوظائف الأساسية لإدارة المصروفات في Dynamics 365 Project Operations، وتعلم كيفية إدارة الأصول الثابتة، وراجع إمكانات إعداد الموازنة في Dynamics 365 Finance.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
@@ -27,7 +27,7 @@ abstract: >
 
   *   وصف إمكانات إعداد الموازنة
 prerequisites: >
-  لا شيء
+  بلا
 iconUrl: /learn/achievements/dynamics-expense-management-budgeting.svg
 levels:
 - beginner
@@ -39,6 +39,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-finance
+subjects:
+- finance-accounting
 units:
 - learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.introduction
 - learn.wwl.explore-expense-management-fixed-asset-management-budgeting-microsoft-dynamics.explore-cash-bank-management-concepts

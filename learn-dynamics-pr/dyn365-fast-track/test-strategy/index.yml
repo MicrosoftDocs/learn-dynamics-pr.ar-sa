@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 14035e489d6d1836afbdc0da830a0557f6f10821
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 605c072b4f5d1fc00dfc0ec49d943900c13ceff1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431877"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748301"
 title: تخطيط استراتيجية اختبار لحل Dynamics 365 الخاص بك
 summary: "[!include[](../includes/module-banner.md)] \nاستراتيجية الاختبار وتحديد الثغرات في خطط الاختبار وتتم مناقشه المخاطر المحتملة في هذه الوحدة.  \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد أهداف الاختبار القابلة للقياس والنتائج الخاصة وغير القابلة للقياس.\n- تخطيط استراتيجية الاختبار بالكامل للحصول على تفاوض. \n- التعرف علي كيفيه تحضير ورشه مراجعه استراتيجية الاختبار وتنفيذه.\n"
@@ -35,6 +35,9 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- architecture
+- process-workflow
 units:
 - learn-dynamics.test-strategy.1-introduction
 - learn-dynamics.test-strategy.2-considerations

@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: ee17986234474b1fff753e21114dd4eb20ccdcfd
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 2d85fe0b31e13ab8fa3f2e846c3cbcd18b9c4929
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491319"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751572"
 title: استخدام محاسبة التكاليف في Microsoft Dynamics 365 Business Central
 summary: هل أنت بحاجة إلى استخدام محاسبة التكاليف في شركتك؟ يُمكن أن يساعدك "مسار التعليم" هذا على البدء في محاسبة التكاليف في Business Central. وهو يوضح إعداد محاسبة التكاليف وكيفية إنشاء البَيانات الرئيسية لمحاسبه التكاليف وكيفية تحويل الحركات وتوزيع التكاليف على مجموعة من الحسابات.
 prerequisites: >
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- finance-accounting
 modules:
 - learn-dynamics.cost-accounting-dynamics-365-business-central
 - learn-dynamics.master-data-dynamics-365-business-central

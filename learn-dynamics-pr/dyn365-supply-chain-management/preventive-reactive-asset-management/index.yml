@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fb48076c5ec358ca85a94514cfbf046dff36ae74
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 319d25fbf9a7fc37045da5c82c3fbaab9c94f7b0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7355815"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749393"
 title: استخدم الصيانة الوقائية والتفاعلية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتحتاج كافة الآلات والمعدات المستخدمة في الإنتاج والمستودعات إلى صيانة. ويشبه ذلك أخذ سيارتك إلى خدمة الصيانة. تتخذ إجراءات وقائية وتقوم بتغيير الزيت بانتظام، وتخطط لفترة التوقف عندما لا تتمكن من استخدام سيارتك حتى اكتمال الصيانة. يعتمد نجاح مؤسستك على تخطيط الصيانة ووقت التوقف وتكلفة صيانة أصولك. وهذا هو المكان الذي يمكن أن تساعد فيه إدارة الأصول لـ Dynamics 365 Supply Chain Management. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- افهم ما الصيانة الوقائية\n- تحديد خطط الصيانة وربطها بأصل\n- إنشاء دورات صيانة للأصول التي تتطلب الصيانة على فترات منتظمة\n- إنشاء جداول الصيانة والتكاليف المدرجة في الموازنة المقترنة بها لإجراء الصيانة الوقائية للأصول\n- إنشاء أوامر عمل لمهام الصيانة الوقائية\n- تحديد أنشطة وقت التوقف لإجراء الصيانة لمهام الصيانة المجدولة على الأصول ذات الصلة لفترة محددة\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- افهم ما الصيانة الوقائية\n- تحديد خطط الصيانة وربطها بأصل\n- إنشاء دورات صيانة للأصول التي تتطلب الصيانة على فترات منتظمة\n- إنشاء جداول الصيانة والتكاليف المدرجة في الموازنة المقترنة بها لإجراء الصيانة الوقائية للأصول\n- إنشاء أوامر عمل لمهام الصيانة الوقائية\n- تحديد أنشطة وقت التوقف لإجراء الصيانة لمهام الصيانة المجدولة على الأصول ذات الصلة لفترة محددة\n"
 prerequisites: "- المعرفة العامة بإدارة الأصول وعمليات supply chain management. \n- القدرة على التنقل في Dynamics 365 Supply Chain Management.\n"
 iconUrl: /learn/achievements/preventive-reactive-asset-mgmt-dyn365-supply-chain-mgmt.svg
 levels:
@@ -27,6 +27,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- process-workflow
+- supply-chain-management
 units:
 - learn-dynamics.preventive-reactive-asset-management.01-introduction
 - learn-dynamics.preventive-reactive-asset-management.02-maintenance-plan

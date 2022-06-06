@@ -8,15 +8,15 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: d79c0459420caf2f957437c5abf51a7ac6e438ce
-  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.openlocfilehash: 42dd211f08b7554addade4377f60126876c9c3ca
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/16/2021
-  ms.locfileid: "7498003"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750062"
 title: بدء استخدام Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيُمكّن Microsoft Dynamics 365 Project Operations مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. يوفر للشركات كل ما تحتاجه لإدارة دورة حياة المشروع من مبيعات المشروع إلى إعداد الفواتير والمحاسبة للمشاريع. يوفر تحليلات ورؤى قيّمة حول استخدام الموارد، والتوافر، والهوامش الإجمالية، وتتبع التقدم والإنفاق على المشاريع. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على مزايا Dynamics 365 Project Operations.\n- اكتشاف الميزات في Project Operations.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على مزايا Dynamics 365 Project Operations.\n- اكتشاف الميزات في Project Operations.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات إدارة المشاريع.
 
@@ -36,6 +36,8 @@ products:
 - dynamics-project-operations
 - dynamics-finance-operations
 - dynamics-finance
+subjects:
+- business-applications
 units:
 - learn-dynamics.get-started-project-operations.1-introduction
 - learn-dynamics.get-started-project-operations.2-benefits

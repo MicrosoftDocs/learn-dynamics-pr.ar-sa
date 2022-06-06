@@ -1,25 +1,25 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.configure-your-data-dynamics-365-finance-operations-apps.knowledge-check
-title: التحقق من المعرفة
+title: ‏التحقق من المعرفة
 metadata:
-  title: التحقق من المعرفة
-  description: التحقق من المعرفة
+  title: ‏التحقق من المعرفة
+  description: ‏التحقق من المعرفة
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: a52baf4f1f3fbd77aad854095387818abe0cd165
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e0a30193a3643bb575065bd8bb8d98b53e5d6715
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438716"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756396"
 azureSandbox: false
 durationInMinutes: 1
 quiz:
   questions:
-  - content: ما البرنامج الذي تتكامل تطبيقات Finance and Operations معه بشكل أصيل؟
+  - content: ما البرنامج الذي تتكامل معه في الأصل تطبيقات التمويل والعمليات؟
     choices:
     - content: Microsoft Excel
       isCorrect: true

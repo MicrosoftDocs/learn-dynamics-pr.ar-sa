@@ -8,15 +8,15 @@ metadata:
   ms.author: anjenni
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: dc89c6c241074c384dabe9a378c94dc3c551b95b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d9cb27c74ccdfc5e4f6bf86c9ad6902a95143854
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457367"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752034"
 title: مقدمة في التكوين في التطبيقات المستندة إلى نموذج Dynamics 365
 prerequisites: >
-  - القواعد الأساسية لـ 365 Microsoft Dynamics
+  - أساسيات Microsoft Dynamics 365
 
   - القواعد الأساسية لـ Microsoft Power Platform
 summary: >
@@ -37,6 +37,8 @@ products:
 - dynamics-marketing
 - dynamics-sales
 - power-platform
+subjects:
+- development-tools
 modules:
 - learn.wwl.get-started-configuration-dynamics-365
 - learn.wwl.configure-data-dynamics-365-model-driven-apps

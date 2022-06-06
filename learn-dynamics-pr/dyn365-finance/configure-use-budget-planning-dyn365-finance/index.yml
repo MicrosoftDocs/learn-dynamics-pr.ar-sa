@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.configure-use-budget-planning
 metadata:
-  title: تكوين تخطيط الموازنة واستخدامه في Dynamics 365 Finance
+  title: تكوين واستخدام تخطيط الموازنة في Dynamics 365 Finance
   description: توفر هذه الوحدة معلومات حول كيفية تكوين واستخدام عمليات تخطيط الموازنة.
   ms.date: 03/31/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fb023baef44d4d93ac7f77adf11632ea0acd0c89
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 24df292f498427d903312b3f2fa19dd47a656269
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329167"
-title: تكوين تخطيط الموازنة واستخدامه في Dynamics 365 Finance
-summary: "[!include[](../includes/module-banner.md)]\n\nمع الطبيعة التعاونية والقائمة على العملية لوظيفة تخطيط الموازنة في Dynamics 365 Finance، يمكنك جعل عملية موانتك أكثر كفاءة وتضمين المزيد من الأشخاص في العملية، كل ذلك مع تقليل عدد الملفات التي يتم إرسالها عبر البريد الإلكتروني وتقليل الإدخال اليدوي. تخطيط الموازنة هو أداة تجلب تحسينات على حلك الحالي للموازنات المستند إلى Microsoft Excel.  \n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750536"
+title: تكوين واستخدام تخطيط الموازنة في Dynamics 365 Finance
+summary: "[!include[](../includes/module-banner.md)]\n\nمع الطبيعة التعاونية والقائمة على العملية لوظيفة تخطيط الموازنة في Dynamics 365 Finance، يمكنك جعل عملية موازنتك أكثر كفاءة وتضمين المزيد من الأشخاص في العملية، كل ذلك مع تقليل عدد الملفات التي يتم إرسالها عبر البريد الإلكتروني وتقليل الإدخال اليدوي. تخطيط الموازنة هو أداة تجلب تحسينات على حلك الحالي للموازنات المستند إلى Microsoft Excel.  \n"
 abstract: >
-  سوف تتعرف في هذه الوحدة على كيفية:
+  في هذه الوحدة، ستتعرف على كيفية القيام بما يلي:
 
   - تكوين مكونات تخطيط الموازنة
 prerequisites: >
@@ -35,6 +35,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-use-budget-planning.1-introduction-budget-planning
 - learn-dynamics.configure-use-budget-planning.2-configure-budget-planning-components

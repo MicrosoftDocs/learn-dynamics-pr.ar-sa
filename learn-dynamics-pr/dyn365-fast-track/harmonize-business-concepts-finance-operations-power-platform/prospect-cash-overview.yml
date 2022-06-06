@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.harmonize-business-concepts-finance-operations-power-platform.prospect-cash-overview
+title: نظرة عامة على سيناريو المتطوع المحتمل إلى النقدية
+metadata:
+  title: نظرة عامة على سيناريو المتطوع المحتمل إلى النقدية
+  description: يساعد سيناريو المتطوع المحتمل إلى النقدية المتوفر في الكتابة المزدوجة على تمكين تفاعل العملاء وجهات الاتصال.
+  ms.date: 05/17/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e4140e3a826db9b13e2a73260ed94a0980b3e5e7
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771565"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/prospect-cash-overview.md)]"

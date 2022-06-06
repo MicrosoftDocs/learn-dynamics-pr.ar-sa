@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 635eadcb3e0a70ad346d4d2b607d1a50ed6b67e1
-  ms.sourcegitcommit: d4e337fec838090ba1f4f09b61e2651be90b2b54
+  ms.openlocfilehash: 062a2e00480df6109e5fba26f69e6bb4d42bf3d8
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/13/2022
-  ms.locfileid: "8572614"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753260"
 title: تكوين Customer Insights وإدارتها
 summary: "[!include[](../includes/module-banner.md)] \nاستخدم Customer Insights لإدارة تكوين الأذونات والبيئات وعمليات النظام.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بإنشاء البيئات أو حذفها أو تعديلها في مثيل Microsoft Dynamics 365 Customer Insights.\n- إدارة المهام والعمليات.\n- إدارة جداول تحديث البيانات. \n- تحديد أذونات الأمان.\n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بإنشاء البيئات أو حذفها أو تعديلها في مثيل Microsoft Dynamics 365 Customer Insights.\n- إدارة المهام والعمليات.\n- إدارة جداول تحديث البيانات. \n- تحديد أذونات الأمان.\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/administer-customer-data-platform.svg
 levels:
 - intermediate
@@ -26,6 +26,9 @@ roles:
 - functional-consultant
 products:
 - dynamics-cust-insights
+subjects:
+- customer-relationship-management
+- data-analytics
 units:
 - learn-dynamics.administer-customer-data-platform.1-introduction
 - learn-dynamics.administer-customer-data-platform.2-create-environments

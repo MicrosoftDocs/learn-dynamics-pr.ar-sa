@@ -7,12 +7,12 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5c355d260f1e93707ab0bb82c0115ef6f5dda3e4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1c5d79ec4d13f1583878da25cdea26d6b272b29f
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352831"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753490"
 title: إنشاء حلول إدارة المعرفة في Dynamics 365 Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   ستركز هذه الوحدة على بناء حلول إدارة المعرفة باستخدام 365 Microsoft Dynamics. وتقدم نظرة عامة على مختلف الخيارات المتوفرة لإدارة المعرفة، وتتضمن معلومات عن تحديد المقالات المعرفية، وإدارة إصدارات المقالات، ونشر المقالات.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تحديد السيناريوهات التي يمكن استخدام مقالات معرفية فيها
 
@@ -29,7 +29,7 @@ abstract: >
   - إدارة دورة حياة المقالة المعرفية
 
   - التحكم في إصدار المقالة، وترجمتها، وخيارات نشرها
-prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365 ومعرفة عملية بالسجلات الأساسية المتوفرة. يُعد الإلمام بإنشاء الحالات وإدارتها في Dynamics 365 مفيداً أيضاً.
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365 ومعرفة عملية بالسجلات الأساسية المتوفرة. يُعد الإلمام بإنشاء الحالات وإدارتها في Dynamics 365 مفيداً أيضًا.
 iconUrl: /learn/achievements/create-and-design-knowledge-management-solutions.svg
 levels:
 - intermediate
@@ -39,6 +39,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- knowledge-management
 units:
 - learn-bizapps.creating-and-designing-knowledge-management-solutions.1-knowledge-management-overview
 - learn-bizapps.creating-and-designing-knowledge-management-solutions.2-creating-and-defining-knowledge-articles

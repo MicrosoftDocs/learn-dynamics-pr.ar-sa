@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.convert-prospects-sales-customers
 metadata:
-  title: تحويل العملاء المتوقعين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
-  description: ويتمثل الهدف المهم لمعظم الأعمال في تحويل العملاء المتوقعين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل العميل المتوقع إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.
+  title: تحويل المتطوعين المحتملين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
+  description: ويتمثل الهدف المهم لمعظم الأعمال في تحويل المتطوعين المحتملين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل المتطوع المحتمل إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.
   ms.date: 10/08/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 979b28bf435c3a0ccb821799fd9acedfbd116d09
-  ms.sourcegitcommit: 7531d40482c9c88eb475f895743842e3981138da
+  ms.openlocfilehash: dea5d6052d61e5b4978df5db4e1cd54c6a0c3350
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/08/2021
-  ms.locfileid: "7620884"
-title: تحويل العملاء المتوقعين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)] \nويتمثل الهدف المهم لمعظم الأعمال في تحويل العملاء المتوقعين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل العميل المتوقع إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.\n"
-abstract: "في هذه الوحدة، ستتمكن مما يأتي: \n- تعرَّف على كيفية إعداد التعيين في Dynamics 365 Sales وDynamics 365 Supply Chain Management\n- تعرَّف على كيفية مزامنة الأوامر وعروض الأسعار بين المبيعات وSupply Chain Management.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750208"
+title: تحويل المتطوعين المحتملين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nويتمثل الهدف المهم لمعظم الأعمال في تحويل المتطوعين المحتملين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل المتطوع المحتمل إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرَّف على كيفية إعداد التعيين في Dynamics 365 Sales وDynamics 365 Supply Chain Management\n- تعرَّف على كيفية مزامنة الأوامر وعروض الأسعار بين المبيعات وSupply Chain Management.\n"
 prerequisites: >
   - المعرفة العملية بـ Supply Chain Management
 
@@ -34,6 +34,10 @@ products:
 - dynamics-scm
 - dynamics-sales
 - dynamics-finance-operations
+subjects:
+- customer-relationship-management
+- marketing-sales
+- supply-chain-management
 units:
 - learn-dynamics.convert-prospects-sales-customers.1-introduction
 - learn-dynamics.convert-prospects-sales-customers.2-prerequisites

@@ -7,12 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2bb350ea8f069b0c9fd49be9ff2a84c667aaac74
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b5f8ec54b01b46ee60c50df80829cb7426050bc6
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434183"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749178"
 title: تحديد الاستثناءات باستخدام Connected Field Service لـ Dynamics 365 وAzure IoT
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -41,6 +41,9 @@ products:
 - dynamics-field-service
 - azure
 - azure-iot-central
+subjects:
+- iot
+- data-analytics
 units:
 - learn-bizapps.identify-exceptions-with-connected-field-service.1-identify-exceptions-with-connected-field-service-overview
 - learn-bizapps.identify-exceptions-with-connected-field-service.2-connect-to-a-device

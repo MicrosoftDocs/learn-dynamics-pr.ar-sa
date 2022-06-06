@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 0f05e97592c499aac784e2ee36d701ece79c81a9
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 7aa9f04fb7dadcd7356c726c9b4297bdb1f67f37
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491409"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751521"
 title: استخدام الأرقام التسلسلية وأرقام الدُّفعات في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -33,6 +33,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- business-applications
+- supply-chain-management
 modules:
 - learn-dynamics.set-up-tracking-items
 - learn-dynamics.manage-inbound-serial-lot-numbers

@@ -1,26 +1,26 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.work-with-accounts-payable-in-dynamics-365-for-finance-and-ops
 metadata:
-  title: التعامل مع حسابات المدفوعات في Dynamics 365 Finance
-  description: حسابات المدفوعات هي التزام مستحق للدائن عندما تطلب سلعاً أو خدمات دون الدفع نقداً مقدماً، مما يعني أنك تشتري سلعاً بالائتمان. تعرف علي كيفية تكوين حسابات المدفوعات في Dynamics 365 Finance، وتسجيل فواتير المورّد، وتوزيع المصروفات، والضريبة، والتكاليف عبر الحسابات.
+  title: العمل باستخدام حسابات المدفوعات في Dynamics 365 Finance
+  description: حسابات المدفوعات هي التزام مستحق للدائن عندما تطلب سلعًا أو خدمات دون الدفع نقدًا مقدمًا، مما يعني أنك تشتري سلعًا بالائتمان. تعرف على كيفية تكوين حسابات المدفوعات في Dynamics 365 Finance، وتسجيل فواتير المورد، وتوزيع المصروفات، والضريبة، والتكاليف عبر الحسابات.
   brand: dynamics
   ms.date: 03/10/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: d6ea723eb503fafb4ad689712e1a9572bc22567e
-  ms.sourcegitcommit: 7ef6880b18791506ab6ba5de1ccc7a86668e8327
+  ms.openlocfilehash: 6a8b9174c4758e3051f19cd96c394c369fe1eb00
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/05/2022
-  ms.locfileid: "8546942"
-title: التعامل مع حسابات المدفوعات في Dynamics 365 Finance
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751494"
+title: العمل باستخدام حسابات المدفوعات في Dynamics 365 Finance
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
 
-  حسابات المدفوعات هي التزام مستحق للدائن عندما تطلب سلعاً أو خدمات دون الدفع نقداً مقدماً، مما يعني أنك تشتري سلعاً بالائتمان. تعرف علي كيفية تكوين حسابات المدفوعات في Dynamics 365 Finance، وتسجيل فواتير المورّد، وتوزيع المصروفات، والضريبة، والتكاليف عبر الحسابات.
+  حسابات المدفوعات هي التزام مستحق للدائن عندما تطلب سلعًا أو خدمات دون الدفع نقدًا مقدمًا، مما يعني أنك تشتري سلعًا بالائتمان. تعرف على كيفية تكوين حسابات المدفوعات في Dynamics 365 Finance، وتسجيل فواتير المورد، وتوزيع المصروفات، والضريبة، والتكاليف عبر الحسابات.
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة.
 
@@ -37,6 +37,9 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
+- process-workflow
 modules:
 - learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops
 - learn-dynamics.accounts-payable-daily-procedures-in-dynamics-365-finance-ops

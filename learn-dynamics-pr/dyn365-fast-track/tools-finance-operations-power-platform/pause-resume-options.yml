@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.tools-finance-operations-power-platform.pause-resume-options
+title: خيارات الإيقاف المؤقت والاستئناف
+metadata:
+  title: خيارات الإيقاف المؤقت والاستئناف
+  description: تعرف على خيارات الإيقاف المؤقت والاستئناف في الكتابة المزدوجة.
+  ms.date: 05/16/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2e18e53974fbf90000f7684f7683ecfca7d0f6c5
+  ms.sourcegitcommit: 0830f963f25aca3007bac7693b26ca85586936fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/17/2022
+  ms.locfileid: "8764469"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/pause-resume-options.md)]"

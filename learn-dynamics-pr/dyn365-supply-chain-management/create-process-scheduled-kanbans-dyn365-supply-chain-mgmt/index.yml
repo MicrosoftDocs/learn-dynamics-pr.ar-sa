@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3342ef320fea4c971a5d9b189d91fda7946d99b4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 06edce1c61c78efb551b0414f8fe6e2854cf3193
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7343708"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748453"
 title: إنشاء بطاقات كانبان المجدولة ومعالجتها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم استخدام بطاقات كانبان المجدولة للأصناف غير المناسبة عادةً لقواعد كانبان ذات الكمية الثابتة. لا يتم استخدام هذه المنتجات بشكل متكرر، وستقوم بإنتاج هذه الأصناف وفقاً لجدول زمني. سيتم تحليل الجدول الزمني وتحديثه أسبوعياً بناءً على تنبؤات العملاء. \n"
 abstract: "في هذه الوحدة، ستتعلم كيفية إنشاء تكوين والتعامل مع: \n- قواعد كانبان.\n- بطاقات كانبان التصنيع.\n- بطاقات كانبان السحب.\n- إنشاء وإدارة بطاقات كانبان المجدولة.\n- جدول التوريد.\n"
@@ -38,6 +38,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- manufacturing-processes
 units:
 - learn-dynamics.create-process-scheduled-kanbans.1-introduction-scheduled-kanbans
 - learn-dynamics.create-process-scheduled-kanbans.2-configure-scheduled-kanban-rules

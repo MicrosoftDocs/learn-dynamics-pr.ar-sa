@@ -2,20 +2,20 @@
 uid: learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops
 metadata:
   title: تكوين حسابات المدفوعات في Dynamics 365 Finance
-  description: يمكنك إدخال فواتير المورّد يدوياً أو استلامها إلكترونياً. ستتعلم في هذه الوحدة كيفية تكوين وحدة حسابات المدفوعات في Dynamics 365 Finance لتمكين موظفي حسابات المدفوعات من أداء أنشطتهم اليومية.
+  description: يمكنك إدخال فواتير المورد يدويًا أو استلامها إلكترونيًا. ستتعلم في هذه الوحدة كيفية تكوين وحدة حسابات المدفوعات في Dynamics 365 Finance لتمكين موظفي حسابات المدفوعات من أداء أنشطتهم اليومية.
   ms.date: 05/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 49d68f54f131a21ab4415fe57153c57347692950
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c089985d6c460f0acac6c06d23e42ac70da29ade
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326478"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750979"
 title: تكوين حسابات المدفوعات في Dynamics 365 Finance
-summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك إدخال فواتير المورّد يدوياً أو استلامها إلكترونياً. ستتعلم في هذه الوحدة كيفية تكوين وحدة حسابات المدفوعات في Dynamics 365 Finance لتمكين موظفي حسابات المدفوعات من أداء أنشطتهم اليومية. \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تكوين مكونات حسابات المدفوعات.\n- إنشاء مورد وصيانته. \n- تكوين مدفوعات الموردين.\n- إعداد ملفات تعريف ترحيل المورد.\n- تكوين رسوم حسابات المدفوعات.\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nيمكنك إدخال فواتير المورد يدويًا أو استلامها إلكترونيًا. ستتعلم في هذه الوحدة كيفية تكوين وحدة حسابات المدفوعات في Dynamics 365 Finance لتمكين موظفي حسابات المدفوعات من أداء أنشطتهم اليومية. \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين مكونات حسابات المدفوعات.\n- إنشاء مورد وصيانته. \n- تكوين مدفوعات الموردين.\n- إعداد ملفات تعريف ترحيل المورد.\n- تكوين رسوم حسابات المدفوعات.\n"
 prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n- الفهم العام لفوترة أمر الشراء \n- القدرة على استخدام Finance للمعالجة الأساسية \n"
 iconUrl: /learn/achievements/configure-accounts-payable-in-dynamics-365-finance-ops.svg
 levels:
@@ -26,6 +26,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.1-configure-ap-introduction
 - learn-dynamics.configure-accounts-payable-in-dynamics-365-finance-ops.2-configure-payment-schedule

@@ -6,15 +6,15 @@ metadata:
   description: تمرين - تغيير إخراج التقرير
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 6c8051698090f216f0745b3a3e31ef1a8750b03c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a5c03b833ba5851060d36dab69f6faad0004727c
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438698"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756164"
 azureSandbox: false
 durationInMinutes: 2
 content: '[!include[](includes/12-exercise-change-report-output.md)]'

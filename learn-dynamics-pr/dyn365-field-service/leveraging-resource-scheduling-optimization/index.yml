@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 57ef93a837ffcac0b2d1f5e4c12898a12c2d36fe
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8d8125ac26b2e6cd7023ede06108c656c602b3e1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434145"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749106"
 title: استخدم Resource Scheduling Optimization من أجل Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)] \n\nتشرح هذه الوحدة كيفية العمل مع لوحة الجدولة، وتعارضات الحجز، واستخدام تحسين مورد واحد، ثم توفير بعض الخطوات الأساسية لاستكشاف الأخطاء وإصلاحها.  \n"
-abstract: "في هذه الوحدة، ستتعرف على ما يلي: \n- سيناريوهات Resource Scheduling Optimization ‏(RSO).\n- استخدام لوحات جدولة RSO.\n- العمل مع الحجوزات المؤمنة وحل حالات التعارض. \n- جدولة مورد واحد وخطوات استكشاف الأخطاء وإصلاحها.\n"
-prerequisites: لا شيء
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- سيناريوهات Resource Scheduling Optimization ‏(RSO).\n- استخدام لوحات جدولة RSO.\n- العمل مع الحجوزات المؤمنة وحل حالات التعارض. \n- جدولة مورد واحد وخطوات استكشاف الأخطاء وإصلاحها.\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/leveraging-resource-scheduling-optimization.svg
 levels:
 - intermediate
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- business-applications
 units:
 - learn-dynamics.leveraging-resource-scheduling-optimization.1-scenarios
 - learn-dynamics.leveraging-resource-scheduling-optimization.2-board

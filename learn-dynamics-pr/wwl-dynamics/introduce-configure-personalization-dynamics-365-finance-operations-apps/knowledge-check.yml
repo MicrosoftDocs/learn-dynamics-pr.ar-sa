@@ -6,15 +6,15 @@ metadata:
   description: التحقق من المعرفة
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: de49a03275b2719064ebe47c0afc558846742492
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b288d3cb3bfab8397f64c4998b5e381efc5ec015
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438603"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756288"
 azureSandbox: false
 durationInMinutes: 1
 quiz:

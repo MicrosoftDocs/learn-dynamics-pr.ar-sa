@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ab76d673587502c2151fbfe318ccce752234d53a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 54a90fbd12c0c217446806cab689ec6e5d67d62b
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341541"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749981"
 title: التعامل مع تخطيط القدرة الإنتاجية وجدولتها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   يتمثل دور نظام الجدولة في Dynamics 365 Supply Chain Management في تخطيط عملية الإنتاج الفعلية بحيث يتم تعيين تاريخ ووقت بدء وانتهاء لكل عملية في مسار الإنتاج، وأن تكون المواد المطلوبة للإنتاج متاحة عند بدء العملية.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- العمل مع تخطيط القدرات. \n- جدولة أمر إنتاج.\n- تقسيم أمر إنتاج.\n- إعداد الخردة والنفايات.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- العمل مع تخطيط القدرات. \n- جدولة أمر إنتاج.\n- تقسيم أمر إنتاج.\n- إعداد الخردة والنفايات.\n"
 prerequisites: >
   - المعرفة العامة بعمليات التصنيع ودورة حياة أمر الإنتاج
 
@@ -38,6 +38,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
+- manufacturing-processes
 units:
 - learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.1-work-capacity-planning-scheduling-discrete-introduction
 - learn-dynamics.work-with-capacity-planning-scheduling-discrete-in-dynamics-365-finance-ops.2-scheduling-options

@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: a3d0843e6385c1924f48cd2a234943aceafb9711
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 2f124c9520cea94c5b1e8e9491eab5e1e40e59a0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491202"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751728"
 title: بيع الأصناف والخدمات في Microsoft Dynamics 365 Business Central
 summary: إذا قمت ببيع الأصناف أو الخدمات إلى العملاء، فيُمكن أن يساعدك مسار التعليم هذا على تعلم كيفية استخدام Business Central لإدارة عملية المبيعات.
 prerequisites: >
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- marketing-sales
 modules:
 - learn-dynamics.create-sales-documents-dynamics-365-business-central
 - learn-dynamics.ship-invoice-items-dynamics-365-business-central

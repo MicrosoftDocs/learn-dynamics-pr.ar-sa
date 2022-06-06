@@ -1,24 +1,24 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
 metadata:
-  title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
-  description: تُعد Lifecycle Services بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام.
+  title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات التمويل والعمليات وتخطيطها
+  description: تُعد Lifecycle Services بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات التمويل والعمليات من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيرًا إلى بيئة التشغيل. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام.
   brand: dynamics
   ms.date: 10/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 9a816e449efd7dfbb8f51fc2b0f32ca197ce4ffa
-  ms.sourcegitcommit: 8e137564e8e565fa9efe2a2114e2cfad69b1146f
+  ms.openlocfilehash: 59a493eb16bdf7c76c21a065436f963d910ef834
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/15/2021
-  ms.locfileid: "7645852"
-title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
-summary: "[!include[](../../includes/lp-banner.md)]\n\nتُعد Lifecycle Services (LCS) بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات Finance and Operations من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيراً إلى بيئة الإنتاج. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام. \n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751566"
+title: استخدام Lifecycle Services لتصميم عملية تنفيذ تطبيقات التمويل والعمليات وتخطيطها
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتُعد Lifecycle Services (LCS) بمثابة مساحة عمل تعاونية يستخدمها العملاء وشركاؤهم لإدارة مشاريع تطبيقات التمويل والعمليات من مرحلة ما قبل البيع إلى مرحلة التنفيذ وأخيرًا إلى بيئة التشغيل. وتوفر قوائم مرجعية وأدوات تساعدك في إدارة المشروع، بما في ذلك منهجيات ما قبل الإنشاء للمساعدة في التنفيذ وتحديث الخدمات بانتظام. \n"
 prerequisites: >
-  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية.
+  - القدرة على استخدام تطبيقات التمويل والعمليات للمعالجة الأساسية.
 iconUrl: /learn/achievements/use-lcs-to-design-and-plan-an-implementation-of-f-and-o.svg
 levels:
 - beginner
@@ -29,6 +29,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-finance-operations
+subjects:
+- custom-app-development
+- process-workflow
 modules:
 - learn-dynamics.get-started-with-lcs
 - learn-dynamics.design-plan-implementation-in-f-and-o

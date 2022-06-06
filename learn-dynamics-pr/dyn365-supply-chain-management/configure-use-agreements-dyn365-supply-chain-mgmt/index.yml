@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0eaffa2149d8d03f3b0cd219b3ff76813892b27e
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 4dcfcffce58507149f71c9ef4713a189d4131f30
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944270"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752736"
 title: تكوين الاتفاقيات واستخدامها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   تقوم الشركات بالتفاوض والموافقة علي شروط معينة لإصلاح سعر الأصناف. تساعد هذه الاتفاقيات الشركات علي عمل تقديرات صحيحة لتكلفة البضائع المشتراة ووضع أساس لأسعار المبيعات. خلال شراء البضائع أو بيعها، قد تكون الشركات مخولة لاستلام خصومات أو مكافآت الولاء، والتي يمكن تحويلها إلى إشعار دائن.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- المحافظة على اتفاقيات التجارة.\n- تكوين التقريب الذكي.\n- إنشاء اتفاقيات البيع.\n- استخدام سياسات التدبير.\n- إنشاء اتفاقيات الشراء.\n- تكوين البدل التجاري.\n- تكوين الوساطة.\n- تكوين العوائد.\n- تكوين الخصومات.\n- التعرف على وحدة إدارة الخصومات.    \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- المحافظة على اتفاقيات التجارة.\n- تكوين التقريب الذكي.\n- إنشاء اتفاقيات البيع.\n- استخدام سياسات التدبير.\n- إنشاء اتفاقيات الشراء.\n- تكوين البدل التجاري.\n- تكوين الوساطة.\n- تكوين العوائد.\n- تكوين الخصومات.\n- التعرف على وحدة إدارة الخصومات.    \n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/configure-use-agreements-in-dynamics-365-finance-ops.svg
 levels:
@@ -31,6 +31,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- finance-accounting
+- supply-chain-management
 units:
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.1-configure-use-agreements-introduction
 - learn-dynamics.configure-use-agreements-in-dynamics-365-finance-ops.2-work-with-trade-agreements

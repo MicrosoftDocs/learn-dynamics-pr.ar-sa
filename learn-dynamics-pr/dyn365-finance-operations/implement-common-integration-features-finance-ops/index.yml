@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b51921fd9b6842a8b7ce1afd63eb67baedbb072a
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.openlocfilehash: a535ef21c58bc922241f1dc401a23cf2234e099e
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8550990"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751060"
 title: تنفيذ ميزات التكامل المشتركة في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
   [!include[](../includes/specific-module-banner.md)]
 
 
-  يتكامل Microsoft Excel مع تطبيقات التمويل والعمليات. ويسمح لك ذلك إمكانية سحب البيانات مباشرة من تطبيقات التمويل والعمليات، ومعالجة البيانات في Excel، وحفظها مرة أخرى في تطبيقات التمويل والعمليات. ستتعلم أيضاً كيفية التكامل مع PowerBI.com وMicrosoft Dataverse.
+  يتكامل Microsoft Excel مع تطبيقات التمويل والعمليات. ويسمح لك ذلك إمكانية سحب البيانات مباشرة من تطبيقات التمويل والعمليات، ومعالجة البيانات في Excel، وحفظها مرة أخرى في تطبيقات التمويل والعمليات. ستتعلم أيضًا كيفية التكامل مع PowerBI.com وMicrosoft Dataverse.
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تنفيذ تكامل Microsoft Office في تطبيقات التمويل والعمليات\n- تكوين البريد الكتروني (SMTP/Exchange)\n- إنشاء قوالب البريد الإلكتروني وصيانتها\n- إعداد طباعة الشبكة\n- إعداد وتمكين Power BI\n- تكامل البيانات من مصادر متعددة في Microsoft Dataverse\n"
 prerequisites: >
   - الحصول على فهم أساسي لعمليات التمويل والمحاسبة
@@ -41,6 +41,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- cross-development
+- data-management
 units:
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.1-common-integration-introduction
 - learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.2-office-integration-fo

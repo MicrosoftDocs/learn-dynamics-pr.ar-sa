@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 1918c30b85ee16eedb916b5a6ed9a7a032b65b1b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4425815471e8b7986562e1bff45df43b8123c4b1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438738"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750384"
 title: استكشاف إمكانات أصول المؤسسة‬ في Microsoft Dynamics 365 Supply Chain Management
 summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics Supply Chain Managementلجميع العمليات التجارية المتضمنة في الحفاظ على الأصول المادية للمؤسسة طوال دورة حياة كل أصل.
 abstract: >
@@ -23,7 +23,7 @@ abstract: >
 
   *   وصف دورة حياة أمر العمل، بما في ذلك جدولة أوامر العمل وأوامر العمل الوقائية وأوامر العمل التصحيحية وعمليات الفحص
 
-  *   وصف اتفاقيات الضمان للمورّد، بما في ذلك الاتفاقيات الكاملة والجزئية
+  *   وصف اتفاقيات الضمان للمورد، بما في ذلك الاتفاقيات الكاملة والجزئية
 prerequisites: ''
 iconUrl: /learn/achievements/dynamics-supply-chain-management-enterprise-assets.svg
 levels:
@@ -36,6 +36,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-scm
+subjects:
+- supply-chain-management
 units:
 - learn.wwl.explore-enterprise-asset-management-capabilities-microsoft-dynamics-365-supply-c.introduction
 - learn.wwl.explore-enterprise-asset-management-capabilities-microsoft-dynamics-365-supply-c.discover-concepts

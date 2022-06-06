@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: 51a7dbb449da7d2add3f33d84773e148be3a1e1c
-  ms.sourcegitcommit: ba649a4e713b493bd6617a8421bfbcc31bc25862
+  ms.openlocfilehash: 3fbdaafff563c91100e224a9f839a87cddbe6dd4
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/13/2021
-  ms.locfileid: "7800292"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752223"
 title: توسيع Dynamics 365 Customer Service
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 modules:
 - learn-dynamics.custom-apps-customer-service
 - learn-dynamics.omnichannel-power-virtual-agents

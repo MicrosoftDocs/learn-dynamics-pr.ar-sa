@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: a3a124fc8a86e1f50d2676767315c81981cd265c
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 0848d4e073215e841eebfca3e8d99b8bd85c3b73
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491418"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751548"
 title: استخدام عملات متعددة في Microsoft Dynamics 365 Business Central
 summary: هل تتعامل مع عملات متعددة؟ في حالة القيام بذلك، سيساعدك هذا المسار على فهم الخطوات التي تحتاج إلى إكمالها لإعداد عملات متعددة واستخدامها ومعالجة المدفوعات والفواتير بعملات مختلفة وضبط أسعار الصرف عند الضرورة.
 prerequisites: >
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- finance-accounting
 modules:
 - learn-dynamics.currencies-exchange-rates-dynamics-365-business-central
 - learn-dynamics.process-foreign-currency-payments-dynamics-365-business-central

@@ -1,25 +1,25 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.configure-use-budgeting-d365-finance-ops
 metadata:
-  title: تكوين الموازنات واستخدامها في Dynamics 365 Finance
-  description: تحدد كل مؤسسة، سواء كانت خاصة أو عامة، أهدافاً مالية وتشغيلية من خلال إنشاء الموازنات. من خلال الطبيعة التعاونية والقائمة على العمليات لتخطيط الموازنة، يمكنك جعل عملية موازنتك أكثر كفاءةً.
+  title: تكوين واستخدام الموازنة في Dynamics 365 Finance
+  description: تحدد كل مؤسسة، سواء كانت خاصة أو عامة، أهدافًا مالية وتشغيلية من خلال إنشاء الموازنات. من خلال الطبيعة التعاونية والقائمة على العمليات لتخطيط الموازنة، يمكنك جعل عملية موازنتك أكثر كفاءةً.
   ms.date: 04/13/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 711721b33b3fc6c5f7919d08d9c894f8cd7f0029
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b3a942ff7e276d73b2923f5e7288bcba68bd6897
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334949"
-title: تكوين الموازنات واستخدامها في Dynamics 365 Finance
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752520"
+title: تكوين واستخدام الموازنة في Dynamics 365 Finance
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
 
-  تحدد كل مؤسسة، سواء كانت خاصة أو عامة، أهدافاً مالية وتشغيلية من خلال إنشاء الموازنات. من خلال الطبيعة التعاونية والقائمة على العمليات لتخطيط الموازنة، يمكنك جعل عملية موازنتك أكثر كفاءةً.
+  تحدد كل مؤسسة، سواء كانت خاصة أو عامة، أهدافًا مالية وتشغيلية من خلال إنشاء الموازنات. من خلال الطبيعة التعاونية والقائمة على العمليات لتخطيط الموازنة، يمكنك جعل عملية موازنتك أكثر كفاءةً.
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة.
 
@@ -36,6 +36,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 modules:
 - learn-dynamics.configure-use-basic-budgeting-budget-control-in-dynamics-365-finance-ops
 - learn-dynamics.configure-use-budget-planning

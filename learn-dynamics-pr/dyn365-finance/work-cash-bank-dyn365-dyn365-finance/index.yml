@@ -1,33 +1,33 @@
 ### YamlMime:Module
 uid: learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops
 metadata:
-  title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance.
+  title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance
   description: يمكنك استخدام وحدة إدارة النقد والبنوك في Dynamics 365 Finance للاحتفاظ بالحسابات البنكية الخاصة بالمؤسسة والمستندات المالية المقترنة بتلك الحسابات البنكية. وتشمل هذه المستندات إيصالات الإيداع والشيكات والكمبيالات والسندات الإذنية. كما يُمكنك تسوية كشوف الحسابات البنكية‬ وطباعة البيانات البنكية في التقارير القياسية.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 00e1409fb045038a6a7541a0243932a6f5d52157
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fb110318f0c29659679d2df7881f5f92afb90496
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7355988"
-title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance.
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750527"
+title: التعامل مع إدارة النقد والبنوك في Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   يمكنك استخدام وحدة إدارة النقد والبنوك في Dynamics 365 Finance للاحتفاظ بالحسابات البنكية الخاصة بالمؤسسة والمستندات المالية المقترنة بتلك الحسابات البنكية. وتشمل هذه المستندات إيصالات الإيداع والشيكات والكمبيالات والسندات الإذنية. كما يُمكنك تسوية كشوف الحسابات البنكية‬ وطباعة البيانات البنكية في التقارير القياسية.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- تعامل مع عمليات إدارة النقد والبنوك.\n- استخدم مساحات عمل إدارة النقد والبنوك.\n- أنشئ الودائع. \n- قم بإلغاء الدفعات.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تعامل مع عمليات إدارة النقد والبنوك.\n- استخدم مساحات عمل إدارة النقد والبنوك.\n- أنشئ الودائع. \n- قم بإلغاء الدفعات.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
-  - التعرف على كيفية إعداد دفتر الأستاذ العام في Dynamics 365 Finance
+  - تعرف على كيفية إعداد دفتر الأستاذ العام في Dynamics 365 Finance
 
   - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية
 
-  - معرفة التنقل الأساسي داخل Dynamics 365 Finance
+  - المعرفة بالتنقل الأساسي داخل Dynamics 365 Finance
 iconUrl: /learn/achievements/work-with-cash-and-bank-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
@@ -38,6 +38,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.1-work-with-cash-and-bank-introduction
 - learn-dynamics.work-with-cash-and-bank-in-dynamics-365-finance-ops.2-use-cash-and-bank-processes

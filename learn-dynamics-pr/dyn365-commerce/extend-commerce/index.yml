@@ -2,20 +2,20 @@
 uid: learn-dynamics.extend-commerce
 metadata:
   title: توسيع Dynamics 365 Commerce
-  description: يوفر النظام الأساسي لـ Microsoft Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضاً مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.
+  description: يوفر النظام الأساسي لـ Microsoft Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضًا مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.
   ms.date: 04/06/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2c17c280d85ebfe6e606349affba6c27410fd75f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4038e81f359be3b6a753ad8170d8f215959087ef
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7348081"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754517"
 title: توسيع Dynamics 365 Commerce
-summary: "[!include[](../includes/module-banner.md)] \nيوفر النظام الأساسي لـ Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضاً مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.   \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المكونات المختلفة لـ Dynamics 365 Commerce. \n- تعرف على كيفية توسيع مكونات Commerce المختلفة.\n"
+summary: "[!include[](../includes/module-banner.md)] \nيوفر النظام الأساسي لـ Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضًا مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.   \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف المكونات المختلفة لـ Dynamics 365 Commerce. \n- تعرف على كيفية توسيع مكونات Commerce المختلفة.\n"
 prerequisites: >
   - الفهم العام لـ Microsoft Dynamics 365 Commerce
 
@@ -32,6 +32,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.extend-commerce.01-introduction
 - learn-dynamics.extend-commerce.02-overview

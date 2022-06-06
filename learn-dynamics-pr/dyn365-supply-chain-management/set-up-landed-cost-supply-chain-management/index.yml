@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5621764d62662ed1caaf441b67d8329e049dbfdf
-  ms.sourcegitcommit: 70e51e3ba609b4f9cf6b7a3b2770f4a0916c051a
+  ms.openlocfilehash: 03afa0922afac6b41594a13df8435a6c773bcf0f
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "8091645"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748662"
 title: إعداد التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتساعد وحدة \"التكلفة شاملة التفريغ\" الشركات على تبسيط عمليات الشحن الداخلي من خلال منح المستخدمين سيطرة مالية ولوجستية كاملة على الشحن المستورد، من الشركة المصنعة إلى المستودع.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بتمكين وظيفة التكلفة شاملة التفريغ.\n- تعرّف على معلمات التكلفة شاملة التفريغ.\n- إعداد الرحلات وحاويات الشحن.\n- إعداد معلومات التسليم.\n- إنشاء رحلات متعددة الوجهات.\n- التعرّف علي اعداد الشحن الأساسي.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بتمكين وظيفة التكلفة شاملة التفريغ.\n- تعرّف على معلمات التكلفة شاملة التفريغ.\n- إعداد الرحلات وحاويات الشحن.\n- إعداد معلومات التسليم.\n- إنشاء رحلات متعددة الوجهات.\n- التعرّف علي اعداد الشحن الأساسي.\n"
 prerequisites: >
   - المعرفة العامة بعمليات الشحن الداخلي
 
@@ -31,6 +31,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.set-up-landed-cost-supply-chain-management.1-introduction
 - learn-dynamics.set-up-landed-cost-supply-chain-management.2-concepts-terminology

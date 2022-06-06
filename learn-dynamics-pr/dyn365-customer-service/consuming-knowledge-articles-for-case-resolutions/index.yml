@@ -7,16 +7,16 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 72225e124546284d6338ab2d840dcce86a37aa2c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9154f3adc743109695fc2cd510ab163fc192f0f6
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326769"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753507"
 title: استخدام المقالات المعرفية لحل حالات Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة على كيفية استخدام قدرات إدارة المعرفة في Dynamics 365 لحل الحالات داخل Dynamics 365، بما في ذلك كيفية تخصيص كيانات Dynamics 365 لاستخدام المقالات المعرفية، والبحث عن المقالات المعرفية وربطها، والتحكم في خيارات عرض المقالة، واستخدام تحليلات المقالات لزيادة خيارات إدارة المعرفة.      \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- تكوين كيانات Dynamics 365 للاستخدام مع إدارة المعرفة\n- تحديد خيارات عرض المقالات والتحكم بها على الكيانات  \n- البحث عن المقالات واستخدامها لحل الحالات في Dynamics 365\n- عرض تحليلات المقالة المعرفية وإدارتها   \n"
-prerequisites: من المفترض أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365، فضلاً عن معرفة عملية بالسجلات الأساسية المتوفرة.  قد يكون من المفيد أيضاً الإلمام بإنشاء الحالات وإدارتها فضلاً عن كيفية إنشاء المقالات المعرفية في Dynamics.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تكوين كيانات Dynamics 365 للاستخدام مع إدارة المعرفة\n- تحديد خيارات عرض المقالات والتحكم بها على الكيانات  \n- البحث عن المقالات واستخدامها لحل الحالات في Dynamics 365\n- عرض تحليلات المقالة المعرفية وإدارتها   \n"
+prerequisites: من المفترض أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365، فضلاً عن معرفة عملية بالسجلات الأساسية المتوفرة.  قد يكون من المفيد أيضًا الإلمام بإنشاء الحالات وإدارتها فضلاً عن كيفية إنشاء المقالات المعرفية في Dynamics.
 iconUrl: /learn/achievements/consuming-knowledge-articles-for-case-resolutions.svg
 levels:
 - intermediate
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- knowledge-management
 units:
 - learn-bizapps.consuming-knowledge-articles-for-case-resolutions.1-knowledge-article-and-case-resolution-overview
 - learn-bizapps.consuming-knowledge-articles-for-case-resolutions.2-enabling-and-configuring-entities-for-knowledge-search

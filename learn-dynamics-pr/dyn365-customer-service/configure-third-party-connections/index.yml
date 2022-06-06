@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 164c6f675a8531b824235f22649300233796c099
-  ms.sourcegitcommit: d4e337fec838090ba1f4f09b61e2651be90b2b54
+  ms.openlocfilehash: fceee5a291dff7c1d61839f0416bf8d39029cac2
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/13/2022
-  ms.locfileid: "8572613"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749277"
 title: إدارة الاتصالات الخارجية باستخدام Customer Insights
 summary: "[!include[](../includes/module-banner.md)] \nتعرّف على كيفية إدارة الاتصالات الخارجية باستخدام Customer Insights.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصدير بيانات Customer Insights.\n- عرض بيانات العميل في تطبيقات Microsoft Dynamics 365.\n- استخدام Customer Insights مع Microsoft Power Platform.\n- استخدام Customer Insights مع Microsoft Azure Synapse Analytics.\n- استخدام واجهات برمجة التطبيقات (API) من Customer Insights.\n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تصدير بيانات Customer Insights.\n- عرض بيانات العميل في تطبيقات Microsoft Dynamics 365.\n- استخدام Customer Insights مع Microsoft Power Platform.\n- استخدام Customer Insights مع Microsoft Azure Synapse Analytics.\n- استخدام واجهات برمجة التطبيقات (API) من Customer Insights.\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/configure-third-party-connections.svg
 levels:
 - intermediate
@@ -27,6 +27,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-cust-insights
+subjects:
+- customer-relationship-management
 units:
 - learn-dynamics.configure-third-party-connections.1-introduction
 - learn-dynamics.configure-third-party-connections.2-export

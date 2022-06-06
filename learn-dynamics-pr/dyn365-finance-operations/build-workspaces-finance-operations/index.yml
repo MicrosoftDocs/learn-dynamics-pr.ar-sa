@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations
 metadata:
-  title: إنشاء مساحات عمل في تطبيقات Finance and Operations
+  title: إنشاء مساحات عمل في تطبيقات التمويل والعمليات
   description: تُعد مساحات العمل مراكز عمل مخصصة مع البيانات والتقارير والحركات ويتم تصميمها لزيادة كفاءه المهام اليومية. ويمكن للمطورين إنشاء مساحات العمل وتعديلها. توجد العديد من الأسباب لتصميم وإنشاء مساحة عمل في بيئة المطور بدلاً من واجهة المستخدم. على سبيل المثال، قد تتطلب أعمالك وجود إطارات متجانبة لمؤشرات الأداء الرئيسية (KPI) أو المكونات التحليلية أو مكونات استخلاص البيانات أو الميزات المتقدمة الأخرى التي لا يمكن إنشاؤها أو تعديلها في واجهة المستخدم.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7b181db3e39a14f8590bc695383487ef18faf189
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 92389211e0a72d3edd34cc398337d0320b403373
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363675"
-title: إنشاء مساحات عمل في تطبيقات Finance and Operations
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749807"
+title: إنشاء مساحات عمل في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nتُعد مساحات العمل مراكز عمل مخصصة مع البيانات والتقارير والحركات ويتم تصميمها لزيادة كفاءه المهام اليومية. ويمكن للمطورين إنشاء مساحات العمل وتعديلها. توجد العديد من الأسباب لتصميم وإنشاء مساحة عمل في بيئة المطور بدلاً من واجهة المستخدم. على سبيل المثال، قد تتطلب أعمالك وجود إطارات متجانبة لمؤشرات الأداء الرئيسية (KPI) أو المكونات التحليلية أو مكونات استخلاص البيانات أو الميزات المتقدمة الأخرى التي لا يمكن إنشاؤها أو تعديلها في واجهة المستخدم. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصميم مؤشرات الأداء الرئيسية (KPIs) وإنشاؤها.\n- إنشاء عناصر مساحة العمل.\n- استخدم لغة تعريف التقرير (RDL) لإنشاء تقارير مخصصة.\n- تنفيذ مكونات التقارير في مساحات العمل.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تصميم مؤشرات الأداء الرئيسية (KPIs) وإنشاؤها.\n- إنشاء عناصر مساحة العمل.\n- استخدم لغة تعريف التقرير (RDL) لإنشاء تقارير مخصصة.\n- تنفيذ مكونات التقارير في مساحات العمل.\n"
 prerequisites: >
-  - المعرفة الأساسية بتطبيقات Finance and Operations.
+  - المعرفة الأساسية بتطبيقات التمويل والعمليات.
 
-  - الوصول إلى بيئة تحتوي على عينة قياسية من البيانات في تطبيقات Finance and Operations، ومتصلة بـ Microsoft Power BI.
+  - الوصول إلى بيئة تحتوي على عينة قياسية من البيانات في تطبيقات التمويل والعمليات، ومتصلة بـ Microsoft Power BI.
 iconUrl: /learn/achievements/build-workspaces-dynamics-365-finance-operations.svg
 levels:
 - intermediate
@@ -30,6 +30,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- development-tools
 units:
 - learn-dynamics.build-workspaces-dynamics-365-finance-operations.1-kpi
 - learn-dynamics.build-workspaces-dynamics-365-finance-operations.2-drill-through

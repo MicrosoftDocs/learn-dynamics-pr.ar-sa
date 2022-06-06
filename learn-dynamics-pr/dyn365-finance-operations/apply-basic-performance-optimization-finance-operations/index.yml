@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations
 metadata:
-  title: تطبيق تحسين الأداء الأساسي في تطبيقات Finance and Operations
-  description: من خلال تحسين تطويرك للأداء، يمكنك التأكد من أن عملك مفيد ويُقدره المستخدمين. وبصفتك مطور تطبيقات Finance and Operations، يجب أن تفهم كيف يمكن تحسين تصميماتك بشكل صحيح.
+  title: تطبيق تحسين الأداء الأساسي في تطبيقات التمويل والعمليات
+  description: من خلال تحسين تطويرك للأداء، يمكنك التأكد من أن عملك مفيد ويُقدره المستخدمين. وبصفتك مطور تطبيقات التمويل والعمليات، يجب أن تفهم كيف يمكن تحسين تصميماتك بشكل صحيح.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1cc9e051cc3efe83975acc1a40678f1535bb24eb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 52d3127309261b3b6e76980d53d639f40d157ef5
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363681"
-title: تطبيق تحسين الأداء الأساسي في تطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nمن خلال تحسين تطويرك للأداء، يمكنك التأكد من أن عملك مفيد ويُقدره المستخدمين. وبصفتك مطور تطبيقات Finance and Operations، يجب أن تفهم كيف يمكن تحسين تصميماتك بشكل صحيح.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- يمكنك اكتشاف ما الجداول المؤقتة ومتى تستخدمها.\n- تعرف على البيانات المستندة إلى المجموعة والعمليات المستندة إلى الصف، ووقت استخدام كل منها.\n- ويمكنك فهم الأساليب المختلفة لتحسين الاستعلامات المخصصة وتوضيحها.\n- تعرف على أساليب التخزين المؤقت المختلفة الممكنة ووقت استخدام كل منها.\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749852"
+title: تطبيق تحسين الأداء الأساسي في تطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nمن خلال تحسين تطويرك للأداء، يمكنك التأكد من أن عملك مفيد ويُقدره المستخدمين. وبصفتك مطور تطبيقات التمويل والعمليات، يجب أن تفهم كيف يمكن تحسين تصميماتك بشكل صحيح.  \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- يمكنك اكتشاف ما الجداول المؤقتة ومتى تستخدمها.\n- تعرف على البيانات المستندة إلى المجموعة والعمليات المستندة إلى الصف، ووقت استخدام كل منها.\n- ويمكنك فهم الأساليب المختلفة لتحسين الاستعلامات المخصصة وتوضيحها.\n- تعرف على أساليب التخزين المؤقت المختلفة الممكنة ووقت استخدام كل منها.\n"
 prerequisites: >
-  - المعرفة الأساسية بتطبيقات Finance and Operations
+  - المعرفة الأساسية بتطبيقات التمويل والعمليات
 
-  - الخبرة الأساسية في تطوير تطبيقات Finance and Operations
+  - الخبرة الأساسية في تطوير تطبيقات التمويل والعمليات
 
   - تجربة استخدام Visual Studio
 iconUrl: /learn/achievements/apply-basic-performance-optimization-techniques-dynamics-365-finance-operations.svg
@@ -32,6 +32,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- development-tools
 units:
 - learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365-finance-operations.2-caching

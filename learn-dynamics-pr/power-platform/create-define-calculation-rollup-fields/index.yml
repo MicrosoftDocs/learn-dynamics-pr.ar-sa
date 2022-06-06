@@ -8,12 +8,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: cd3343e76d9ca659bec1a075a2bd1b3038e72bd2
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.openlocfilehash: 333fab992535ec71cce75b3309727b89ec201734
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8551235"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750456"
 title: إنشاء أعمدة الحساب أو القيم المحتسبة وتحديدها في Dataverse
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -41,6 +41,8 @@ products:
 - power-platform
 - common-data-service
 - power-apps
+subjects:
+- data-modeling
 units:
 - learn-dynamics.create-define-calculation-rollup-fields.1-intro
 - learn-dynamics.create-define-calculation-rollup-fields.2-rollup

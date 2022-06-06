@@ -8,19 +8,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-sales
-  ms.openlocfilehash: 69ed4accaac045f3ad6649f3f682ce132395f83e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 08de8b0fe2101f130e7471084660a5e5be3f853f
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7437336"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751359"
 title: العمل مع Dynamics 365 Sales
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
 
   قم بتوليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة مع Microsoft Dynamics 365 Sales. يغطي مسار التعلّم هذا العناصر الأساسية لتطبيق المبيعات.
-prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
+prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضًا الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
 iconUrl: /learn/achievements/working-with-dynamics-365-for-sales.svg
 levels:
 - intermediate
@@ -29,6 +29,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
 modules:
 - learn-dynamics.configure-dynamics-365-sales
 - learn-dynamics.lead-management

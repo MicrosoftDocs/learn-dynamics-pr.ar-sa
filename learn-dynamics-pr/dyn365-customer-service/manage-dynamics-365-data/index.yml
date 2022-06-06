@@ -8,19 +8,19 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 4438df1c7e5ec6f787cd85fb39df66ea2c8127e1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 818691020ddb4b3b2c58a2bd3db3e198d2bcdebe
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352815"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753066"
 title: إدارة بيانات تطبيقات Dynamics 365 Customer Engagement الخاصة بك
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   سيصل كل مستخدم Microsoft Dynamics 365 إلى جميع الوظائف والبيانات المضمنة في حلهم من خلال عميل. تركز هذه الوحدة على إيجابيات وسلبيات كل عميل وأفضل الممارسات عند نشر العملاء.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n-   بحث تكرار البيانات\n-   استيراد البيانات\n-   تصدير البيانات\n-   إجراء حذف مجمع للبيانات\n- استخدام معالج التقارير\n- تحميل ملف لغة تعريف التقارير.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n-   بحث تكرار البيانات\n-   استيراد البيانات\n-   تصدير البيانات\n-   إجراء حذف مجمع للبيانات\n- استخدام معالج التقارير\n- تحميل ملف لغة تعريف التقارير.\n"
 prerequisites: معرفة عملية بـ Dynamics 365.
 iconUrl: /learn/achievements/manage-dynamics-365-data.svg
 levels:
@@ -31,6 +31,9 @@ products:
 - dynamics-365
 - power-platform
 - dynamics-customer-service
+subjects:
+- data-management
+- customer-relationship-management
 units:
 - learn-dynamics.manage-your-data.01-overview-manage-data
 - learn-dynamics.manage-your-data.02-duplicate-data-detection

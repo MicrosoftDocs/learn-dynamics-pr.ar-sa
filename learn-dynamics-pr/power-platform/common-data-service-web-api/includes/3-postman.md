@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c7ddaab44a7069e8dac7718958aedf98255150df
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 5adb6332929fa3c9a468b50b8c19dc55f4f5c2a5
+ms.sourcegitcommit: dccc09c6b13ef4bb976809b24af5e2d71b766fd4
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457402"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "8740555"
 ---
 تعد Postman أداة قيّمة تستخدم لإنشاء استعلامات مخصصة لواجهة API للويب والتحقق من سلوك عمليات واجهة API للويب دون الحاجة إلى كتابة برنامج للقيام بذلك. إذا كنت جديدًا في استخدام أداة Postman، فراجع مقال [أول 5 أشياء تجب محاولتها إذا كنت جديدًا في استخدام أداة Postman](https://blog.getpostman.com/2018/04/11/first-5-things-to-try-if-youre-new-to-postman/?azure-portal=true) للحصول على مقدمة إلى الموضوع.
 
@@ -91,7 +91,7 @@ ms.locfileid: "7457402"
 
 ### <a name="test-your-connection"></a>اختبر اتصالك
 
-إنشاء طلب واجهة API للويب جديد لاختبار الاتصال مع مثيل Common Data Service الخاص بك. استخدم [الدالة WhoAmI](/dynamics365/customer-engagement/web-api/whoami/?azure-portal=true) باتباع الخطوات الآتية:
+إنشاء طلب واجهة API للويب جديد لاختبار الاتصال مع مثيل Common Data Service الخاص بك. استخدم [الدالة WhoAmI](/dynamics365/customer-engagement/web-api/whoami) باتباع الخطوات الآتية:
 
 1.  حدد "GET" على أنه أسلوب HTTP وقم بإضافة WhoAmI{{webapiurl}}في مساحة التحرير.
 
@@ -99,6 +99,6 @@ ms.locfileid: "7457402"
 
 2.  حدد **إرسال** لإرسال هذا الطلب.
 
-في حالة نجاح طلبك، ستشاهد بيانات من [WhoAmIResponse ComplexType](/dynamics365/customer-engagement/web-api/whoamiresponse/?azure-portal=true) التي يتم إرجاعها بواسطة [الدالة WhoAmI](/dynamics365/customer-engagement/web-api/whoami/?azure-portal=true).
+في حالة نجاح طلبك، ستشاهد بيانات من [WhoAmIResponse ComplexType](/dynamics365/customer-engagement/web-api/whoamiresponse) التي يتم إرجاعها بواسطة [الدالة WhoAmI](/dynamics365/customer-engagement/web-api/whoami).
 
    ![لقطة شاشة لطلب ناجح مع بيانات تم إرجاعها.](../media/unit3-image9.png)

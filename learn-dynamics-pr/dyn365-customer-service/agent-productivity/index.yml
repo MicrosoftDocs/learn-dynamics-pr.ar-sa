@@ -8,15 +8,15 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 36f34854fc395e819358da791c392aaf3958c747
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 998a87730ddcfab31fb076d3f56fcaf0e62c24f0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356917"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748346"
 title: تحسين إنتاجية الوكيل وإضفاء الطابع الشخصي في مركز خدمة العملاء
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تكوين المعلومات السابقة المحفوظة وأدوات الاتصال لمساعدة وكلائك على أن يكونوا أكثر إنتاجية.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على عنصر التحكم في المخطط الزمني وكيفية تعديله ليلائم احتياجات المؤسسة.\n- استكشف كيف يمكن للوكلاء استخدام وظائف البريد الإلكتروني في Microsoft Dynamics 365.\n- راجع عملية تكوين وظائف البريد الإلكتروني للوكلاء.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على عنصر التحكم في المخطط الزمني وكيفية تعديله ليلائم احتياجات المؤسسة.\n- استكشف كيف يمكن للوكلاء استخدام وظائف البريد الإلكتروني في Microsoft Dynamics 365.\n- راجع عملية تكوين وظائف البريد الإلكتروني للوكلاء.\n"
 prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics 365 Customer Service
 iconUrl: /learn/achievements/agent-productivity.svg
 levels:
@@ -27,6 +27,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- productivity
 units:
 - learn-dynamics.agent-productivity.1-introduction
 - learn-dynamics.agent-productivity.2-timeline-configuration

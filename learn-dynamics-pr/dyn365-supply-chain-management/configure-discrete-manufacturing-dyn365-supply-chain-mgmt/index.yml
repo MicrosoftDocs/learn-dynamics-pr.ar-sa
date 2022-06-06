@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0f4e8336eaaedc3c45f37338a43c64ecca04217b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3fc8e3c68efff847daeaca8bd91e6a51c20b9836
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337483"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753030"
 title: تكوين التصنيع المنفصل في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -38,6 +38,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- manufacturing-processes
 units:
 - learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.1-configure-discrete-manufacturing-intro
 - learn-dynamics.configure-discrete-manufacturing-in-dynamics-365-finance-ops.2-inventory-dimensions-in-production

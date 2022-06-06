@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-developer-tools-extend.3-solution-packager
+title: نظرة عامة على الحلول
+metadata:
+  title: نظرة عامة على الحلول
+  description: تعرّف على كيفية إدارة الحلول باستخدام أداة إنشاء حزم الحلول.
+  ms.date: 05/17/2022
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 6569ce22a8e628c2e1b745375d8e70f9bba9d63f
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771720"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-solutions.md)]

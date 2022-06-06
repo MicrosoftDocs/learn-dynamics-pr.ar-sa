@@ -8,16 +8,16 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 5ec15b140c3fa5450d79231e9edc9e3ec392cc5b
-  ms.sourcegitcommit: adf8d4fc269f5f7ee1803a5329f7a7dcfe6f8783
+  ms.openlocfilehash: 8c4281a4f0d587110b0df24ac6d19a96e764dfe7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/14/2022
-  ms.locfileid: "8119321"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754319"
 title: مقدمة إلى Dynamics 365 Commerce
 summary: يوفر Dynamics 365 Commerce حلاً شاملاً للقناة متعددة الاتجاهات بدمج تجارب المكتب الخلفي، والتجارب في المتجر، والتجارب الرقمية لتخصيص مشاركة العملاء، وزيادة إنتاجية الموظفين، وتحسين العمليات، وتقديم نتائج أعمال أفضل.
 abstract: >
-  في هذه الوحدة النمطية، ستقوم بما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - اكتشاف خيارات التوزيع.
 
@@ -25,7 +25,7 @@ abstract: >
 
   - استكشاف القناة متعددة الاتجاهات والترويج.
 prerequisites: >
-  لا شيء
+  بلا
 iconUrl: /learn/achievements/introduction-to-dynamics-365-retail.svg
 levels:
 - beginner
@@ -34,6 +34,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-commerce
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.introduction-dynamics-365-commerce.introduction
 - learn-dynamics.introduction-dynamics-365-commerce.drive-unified-commerce

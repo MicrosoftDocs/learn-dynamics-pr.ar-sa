@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-field-service
-  ms.openlocfilehash: 2486d8cc55436a8934e354169e4ca1f9a2dece18fc96057033e56b6bb0345e4e
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 834647e9c7b13dcd78be5d59c198877962a07afb
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7433953"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749079"
 title: إعداد Field Service لإنشاء أوامر عمل من بيانات IoT
 summary: "[!include[](../includes/module-banner.md)] \nيدمج Connected Field Service for Dynamics 365 أجهزة IoT مع Dynamics 365 for Customer Engagement للحصول على مساعدة العملاء في إنشاء طريقة استباقية لخدمة العملاء. وهو يتيح تسجيل هذه الأجهزة ومراقبتها وإدارتها في العمليات التجارية التي أنشأتها مؤسستك.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على طريقة تثبيت Connected Field Service وإعداده.\n- قراءة بيانات الجهاز.\n- تعيين تنبيهات الجهاز.\n- تعرّف على استخدام تطبيق الأجهزة المحمولة.\n"
@@ -27,6 +27,10 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- iot
+- field-management
+- customer-relationship-management
 units:
 - learn-dynamics.set-up-field-service-work-items.1-introduction
 - learn-dynamics.set-up-field-service-work-items.2-install-setup

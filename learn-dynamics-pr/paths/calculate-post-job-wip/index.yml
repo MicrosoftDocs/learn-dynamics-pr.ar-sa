@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 6f37f51956b79d0913ff25eebd6fc3b93fbe7046
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: 89279432dad56a40bcbd37f4fe96044434895bce
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491157"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752592"
 title: حساب WIP الخاصة بالوظيفة وترحيلها في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- devops
 modules:
 - learn-dynamics.explore-job-wip-methods
 - learn-dynamics.calculate-job-wip

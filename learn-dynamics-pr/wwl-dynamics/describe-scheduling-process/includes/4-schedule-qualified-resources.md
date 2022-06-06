@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 31be836fd85fe34043ecf713565cac2bbcf47bf0
-ms.sourcegitcommit: 41af3e81d3fb3d6fcddfd38d6247f067fb6238cd
+ms.openlocfilehash: e845082ba3974ea5c1dec45b7d3dea52337764a6
+ms.sourcegitcommit: 6a5d1dca1b97565d67b787a0bb1aa622abb04b5c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "8325176"
+ms.lasthandoff: 05/12/2022
+ms.locfileid: "8747356"
 ---
 الآن بعد أن فهمنا أنواع الموارد التي نحتاج إلى جدولتها، نحتاج إلى التأكد أنها مؤهلة للعمل على الأصناف التي تتم جدولتها. تتطلب الأصناف المختلفة عادةً موارد لها صفات محددة حتى يتم جدولتها للصنف. فمثلاً، إذا كنت تقوم بجدولة شخص ما لإجراء تثبيت نظام أمان على علامة تجارية معينة لكاميرا الأمان، فمن المحتمل أن يكون الشخص الذي تتم جدولته مُثبتاً معتمداً ولديه خبرة في تثبيت تلك العلامة التجارية المحددة لكاميرا الأمان. 
 

@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 0d49ef9e83a51855d7eb69cd6309621a1cb181ae
-  ms.sourcegitcommit: 5c505b75d653bbec7dbb1327b9efebbc0e68f73a
+  ms.openlocfilehash: fd39200f1171ec26d86d8786bb0e530a3d16d633
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/29/2022
-  ms.locfileid: "8491328"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751710"
 title: إعداد الإدارة المالية في Microsoft Dynamics 365 Business Central‎
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تود استخدام Business Central للإدارة المالية؟ إِذن، مسار التعلم هذا يناسبك. ويتناول إعداد السلسلة الرقمية ومراجعة الأكواد التدقيقية ومجموعات الترحيل والأبعاد ومخطط الحسابات. \n"
 prerequisites: >
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- finance-accounting
 modules:
 - learn-dynamics.business-central-configure-general-ledger-setup
 - learn-dynamics.number-series-trail-codes-dynamics-365-business-central

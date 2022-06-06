@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 305c5a99e8f684af3b52dd9b7b415c785d3bb1e0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a03314be37f3e16d46d769b383cf83ee13c4c838
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349312"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753671"
 title: التوجيه وتوزيع العمل في القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \n\nتضم القناة متعددة الاتجاهات لـ Customer Service عدة مكونات لضمان أن يتم توجيه العناصر وتوزيعها بشكل مناسب. في هذه الوحدة، سوف تتعرف عن التوجيه وتوزيع العمل في القناة متعددة الاتجاهات.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على مكونات التوجيه وتوزيع العمل. \n- تعرف على كيفية تحديد القدرة الإنتاجية لمسار العمل. \n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على مكونات التوجيه وتوزيع العمل. \n- تعرف على كيفية تحديد القدرة الإنتاجية لمسار العمل. \n"
+prerequisites: بلا
 iconUrl: /learn/achievements/work-distribution-omnichannel.svg
 levels:
 - intermediate
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- business-applications
 units:
 - learn-dynamics.work-distribution-omnichannel.1-introduction-components
 - learn-dynamics.work-distribution-omnichannel.2-unified-routing

@@ -1,19 +1,19 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.work-with-dynamics-365-for-sales-pro
 metadata:
-  title: العمل مع مسار التعلم Dynamics 365 Sales Professional
+  title: العمل مع مسار التعليم Dynamics 365 Sales Professional
   description: قم بتوليد عملاء متوقعين، وخلق الفرص، وتحقيق سهولة الإعداد والتكامل، وتبسيط عمليات المبيعات الخاصة بك باستخدام Microsoft Dynamics 365 Sales Professional.
   ms.date: 03/04/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-sales
-  ms.openlocfilehash: 4702bc7f3429b1b9364cac02c5413c05fac33e33
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a56197546a2381ed5c6a0a31f69227995c4810f6
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7437338"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751350"
 title: العمل باستخدام Dynamics 365 Sales Professional
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -30,6 +30,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
 modules:
 - learn-dynamics.overview-d365-sales-professional
 - learn-dynamics.administer-configure-d365-sales-professional

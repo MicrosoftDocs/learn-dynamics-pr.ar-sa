@@ -6,15 +6,15 @@ metadata:
   description: التكامل مع Microsoft Office
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: f9fe3eb4164bf7a7451d047a6949b4bb60ef735b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: be36f0b78e6c41c90ceaa16c4601e0e8bc6bb39e
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438717"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756415"
 azureSandbox: false
 durationInMinutes: 2
 content: '[!include[](includes/4-integrate-office.md)]'

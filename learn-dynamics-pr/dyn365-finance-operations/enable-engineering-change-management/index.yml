@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f4598e9a1b87e07de22483b060d71b840ca795d1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 547498282312d0693c797749a2f9a7ab3d786c38
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360548"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751123"
 title: تمكين إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nمطلوب بعض الإعداد لاستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management. يجب تمكين الميزة، وتحديد الخطورة. كما تحتاج إلى تحديد مالكي المنتج، وتكوين مهام سير العمل للموافقة على أوامر التغيير الهندسية وطلبات التغيير الهندسي.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تمكين ميزة إدارة التغيير الهندسي والتراخيص.\n- إعداد درجات خطورة التغيير الهندسي‬ وقواعد الخطورة.\n- إعداد مالكي المنتجات.\n- استخدام سير العمل مع إدارة التغيير الهندسي.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تمكين ميزة إدارة التغيير الهندسي والتراخيص.\n- إعداد درجات خطورة التغيير الهندسي‬ وقواعد الخطورة.\n- إعداد مالكي المنتجات.\n- استخدام سير العمل مع إدارة التغيير الهندسي.\n"
 prerequisites: >
   - المعرفة العامة بسلسلة التوريد وعمليات إدارة معلومات المنتجات
 
@@ -31,6 +31,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
+- change-management
 units:
 - learn-dynamics.enable-engineering-change-management.1-introduction
 - learn-dynamics.enable-engineering-change-management.2-engineering-severities

@@ -7,15 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 700b6d21856fd376ee013f383ab8ac4972e21053
-  ms.sourcegitcommit: 4e2d6745b9a5f89729e13b8879f2c750b30528d0
+  ms.openlocfilehash: 3b2acad8b769a254ab54d12edf2a437054416ae1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/05/2022
-  ms.locfileid: "7950166"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753756"
 title: ابدأ باستخدام قناة الصوت Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nتتضمن القناة الصوتية في Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قبل مشرفي ومندوبي مركز الاتصال. بالإضافة إلى ذلك، يمكن أن يساعد في تحسين التجربة الإجمالية لعملائك عندما يشاركون عبر القنوات الصوتية.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على طريقة إعداد قناة الصوت وتوفيرها.\n- تحديد صفوف الصوت.\n- قم بإعداد مسارات العمل الصوتية.\n- التعرف على توجيه المكالمات.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على طريقة إعداد قناة الصوت وتوفيرها.\n- تحديد صفوف الصوت.\n- قم بإعداد مسارات العمل الصوتية.\n- التعرف على توجيه المكالمات.\n"
 prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/get-started-voice-channel.svg
 levels:
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 units:
 - learn-dynamics.get-started-voice-channel.1-introduction
 - learn-dynamics.get-started-voice-channel.2-provision

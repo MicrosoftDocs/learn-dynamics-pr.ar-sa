@@ -7,19 +7,19 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 18452e2ee3fe1cefc2ae3ecd229bb8f902c486d2
-  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.openlocfilehash: 45f1edf36c759fa015228b651c2d75a06f115339
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2021
-  ms.locfileid: "7510197"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750217"
 title: تحليل بيانات Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
   يحتوي Microsoft Dynamics 365 على خيارات تحليلية متعددة لمساعدة المؤسسات على اتخاذ قرارات الأعمال التي تستند إلى أرقام واتجاهات المبيعات السابقة. على سبيل المثال، يمكن للمؤسسات تحديد طرق عرض مخصصة تعرض أنواعاً معينة من البيانات، أو استخدام المخططات للتعمق في مزيد من التفاصيل حول السجلات المختلفة المتعلقة بالمبيعات، أو حتى تحليل البيانات باستخدام أدوات خارجية مثل Microsoft Excel وMicrosoft Power BI.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة الخيارات التحليلية \n- وصف أدوات البحث\n- استخدام Power BI لعرض البيانات\n- تحليل البيانات\n"
-prerequisites: المفاهيم الأساسية للتنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء الحالات وإدارتها، أو إنشاء العملاء المتوقعين والفرص وإدارتها.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- مراجعة الخيارات التحليلية \n- وصف أدوات البحث\n- استخدام Power BI لعرض البيانات\n- تحليل البيانات\n"
+prerequisites: المفاهيم الأساسية للتنقل في تطبيق Dynamics 365. من المفيد أيضًا الإلمام بإنشاء الحالات وإدارتها، أو إنشاء العملاء المتوقعين والفرص وإدارتها.
 iconUrl: /learn/achievements/analyze-d365-sales-data.svg
 levels:
 - intermediate
@@ -29,6 +29,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- data-analytics
 units:
 - learn-dynamics.analyze-sales-data.1-analytical-options-overview
 - learn-dynamics.analyze-sales-data.2-searching-tools

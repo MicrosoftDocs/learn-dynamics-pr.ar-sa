@@ -2,23 +2,23 @@
 uid: learn-dynamics.data-management-foundation-business-central
 metadata:
   title: تعرف على البنية الأساسية لإدارة البيانات في Microsoft Dynamics 365 Business Central
-  description: هل أنت على دراية بهيكل البيانات والملفات لـ Business Central؟ يوفر لك مسار التعليم هذا رؤية ثاقبة على أساس إدارة البيانات لـ Business Central. ويقدم أيضاً XMLports واستعلامات.
+  description: هل أنت على دراية بهيكل البيانات والملفات لـ Business Central؟ يوفر لك مسار التعليم هذا رؤية ثاقبة على أساس إدارة البيانات لـ Business Central. ويقدم أيضًا XMLports واستعلامات.
   ms.date: 6/12/2020
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 502cb31839244f97ff183d21f6a6cfb16aadb3ea
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3e5cd67d9201e02877bbab8f834e247e1789f060
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748743"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752331"
 title: تعرف على البنية الأساسية لإدارة البيانات في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
-  هل أنت على دراية بهيكل البيانات والملفات لـ Business Central؟ يوفر لك مسار التعليم هذا رؤية ثاقبة على أساس إدارة البيانات لـ Business Central. ويقدم أيضاً XMLports واستعلامات.
+  هل أنت على دراية بهيكل البيانات والملفات لـ Business Central؟ يوفر لك مسار التعليم هذا رؤية ثاقبة على أساس إدارة البيانات لـ Business Central. ويقدم أيضًا XMLports واستعلامات.
 prerequisites: "- المعرفة الأساسية لـ Business Central\n- بعض الفهم الخاص بعمليات التطوير واللغات     \n"
 iconUrl: /learn/achievements/data-management-foundation-business-central.svg
 levels:
@@ -28,6 +28,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- data-management
 modules:
 - learn-dynamics.introduction-basics-file-management
 - learn-dynamics.work-with-xmlports

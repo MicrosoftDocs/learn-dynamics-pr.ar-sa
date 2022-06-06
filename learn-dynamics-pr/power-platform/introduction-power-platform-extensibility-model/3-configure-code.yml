@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-power-platform-extensibility-model.3-configure-code
+title: تحديد متى يتم تكوين التعليمات البرمجية أو متى يتم تهيئتها
+metadata:
+  title: تحديد متى يتم تكوين التعليمات البرمجية أو متى يتم تهيئتها
+  description: تعرف على كيفية تحديد متى يتم تكوين التعليمات البرمجية أو متى يتم تهيئتها.
+  ms.date: 04/15/2021
+  author: davebeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 90b4bdd361c4d843088eab48db583e9a6dc77857
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771660"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-configure-code.md)]

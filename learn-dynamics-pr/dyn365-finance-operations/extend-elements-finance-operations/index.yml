@@ -1,31 +1,31 @@
 ### YamlMime:Module
 uid: learn-dynamics.extend-elements-dynamics-365-finance-operations
 metadata:
-  title: توسيع العناصر في تطبيقات Finance and Operations
-  description: يتم تخصيص العناصر في تطبيقات Finance and Operations من خلال الملحقات لمساعدتك في تعديل الخصائص أو إضافة مكونات أو إزالة عناصر التحكم.
+  title: توسيع العناصر في تطبيقات التمويل والعمليات
+  description: يتم تخصيص العناصر في تطبيقات التمويل والعمليات من خلال الملحقات لمساعدتك في تعديل الخصائص أو إضافة مكونات أو إزالة عناصر التحكم.
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2a89cb040796740c88b3f7edf9e29d7a1c104f0c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: df6fc60d0cafa5f64e7efa3a58c015d4639243e0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335146"
-title: توسيع العناصر في تطبيقات Finance and Operations
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751096"
+title: توسيع العناصر في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  يتم تخصيص العناصر في تطبيقات Finance and Operations من خلال الملحقات لمساعدتك في تعديل الخصائص أو إضافة مكونات أو إزالة عناصر التحكم.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء ملحقات لتخصيص تطبيقات Finance and Operations.\n- توسيع جدول.\n- إنشاء ملحق النموذج.\n"
+  يتم تخصيص العناصر في تطبيقات التمويل والعمليات من خلال الملحقات لمساعدتك في تعديل الخصائص أو إضافة مكونات أو إزالة عناصر التحكم.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء ملحقات لتخصيص تطبيقات التمويل والعمليات.\n- توسيع جدول.\n- إنشاء ملحق النموذج.\n"
 prerequisites: >
-  - الإلمام بتطبيقات Finance and Operations
+  - الإلمام بتطبيقات التمويل والعمليات
 
   - خبرة متوسطة بالترميز في X++، بما في ذلك إنشاء ملحقات الفئات
 
-  - معرفه إطار عمل الملحق في تطبيقات Finance and Operations
+  - معرفة إطار عمل الملحق في تطبيقات التمويل والعمليات
 
   - فهم كيفية إنشاء ملحق فئة جديد وإضافة أساليب جديدة
 
@@ -40,6 +40,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- custom-app-development
 units:
 - learn-dynamics.extend-elements-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.extend-elements-dynamics-365-finance-operations.2-table

@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: ce8ed0bf4782e339dcc0ecb579ada0307b2a021a
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: c996aa46f67bfa5d16e3124b5d14d30d0c035a12
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8633038"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752850"
 title: استكشف تطبيقات وإمكانات تسويقية أخرى
 summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة الأحداث في Dynamics 365 Customer Service.  كما يناقش Dynamics 365 Customer Voice وDynamics 365 Customer Insights.
 abstract: >
@@ -25,7 +25,7 @@ abstract: >
 
   - وصف Dynamics 365 Customer Insights
 prerequisites: >
-  لا شيء
+  بلا
 iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
@@ -37,6 +37,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-marketing
+subjects:
+- marketing-sales
 units:
 - learn.wwl.describe-dynamics-365-marketing-capabilities-2.introduction
 - learn.wwl.describe-dynamics-365-marketing-capabilities-2.explore-event-management-capabilities

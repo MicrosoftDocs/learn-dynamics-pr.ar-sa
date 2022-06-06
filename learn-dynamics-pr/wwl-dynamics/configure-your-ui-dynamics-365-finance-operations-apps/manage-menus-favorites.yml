@@ -6,15 +6,15 @@ metadata:
   description: 'إدارة القوائم: المفضلة'
   ms.date: 07/25/2020
   author: wwlpublish
-  ms.author: cwsuseng
+  ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 0971ed1e48b734511d4358821ba2b66a0efbaa36
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d99af045cead7244bbbcb358e69ab90b429575be
+  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438530"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8756360"
 azureSandbox: false
 durationInMinutes: 1
 content: '[!include[](includes/2-manage-menus-favorites.md)]'

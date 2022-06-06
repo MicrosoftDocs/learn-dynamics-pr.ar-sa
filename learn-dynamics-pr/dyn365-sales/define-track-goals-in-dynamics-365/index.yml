@@ -7,23 +7,23 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f2b5d9a67b9e9bd5319dbd8f83782127d0907845
-  ms.sourcegitcommit: 7e7463b82916b5b36a89d2c4f45e6f1bd95c1792
+  ms.openlocfilehash: 18d0a97f882763e786e665e83918e7f90c043df0
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945681"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748489"
 title: تحديد الأهداف الفردية وتعقبها في Dynamics 365 Sales وخدمة العملاء
 summary: "[!include[](../includes/module-banner.md)]\nحدد وتتبع الأهداف المتعلقة بخدمة العملاء بما في ذلك تحديد المقاييس.        \n"
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - إنشاء وإدارة الأهداف الفردية
 
   - استخدام أهداف الوالدين والطفل
 
   - مراقبة تقدم الهدف
-prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد أيضاً الإلمام بإنشاء وإدارة الحالات والاستحقاقات واتفاقيات مستوى الخدمة.
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد أيضًا الإلمام بإنشاء وإدارة الحالات والاستحقاقات واتفاقيات مستوى الخدمة.
 iconUrl: /learn/achievements/individual-goals.svg
 levels:
 - intermediate
@@ -33,6 +33,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
+- employee-engagement
 units:
 - learn-dynamics.individual-goals.1-overview
 - learn-dynamics.individual-goals.2-defining-individual-goals

@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2c149054f3150d5c8a9c6680ca1738873f255514
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c3d45e054baf4bcc531653486917b8aa7338e825
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333237"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750620"
 title: اعداد المنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتعد بيانات المنتج جزءاً مهماً من أي شركة تستخدم عمليات Supply Chain Management. باستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management، يمكن للمصنعين استخدام إدارة قوية للبيانات والتحكم في الإصدار.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"
 prerequisites: >
   - المعرفة العامة بعمليات Supply Chain Management
 
@@ -31,6 +31,8 @@ roles:
 products:
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.set-up-versioned-products-engineering-change-management.1-introduction
 - learn-dynamics.set-up-versioned-products-engineering-change-management.2-engineering-organization

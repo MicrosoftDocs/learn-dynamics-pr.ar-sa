@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 206b0ca4c1288e571e16e3bdde110d57faab744e
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 100f18555139b2e77ce4c2bdd7c6e3a04b88241a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8633619"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753647"
 title: استخدام المفاهيم الأساسية والإعداد لدمج تطبيقات التمويل والعمليات مع Microsoft Power Platform
 summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة إمكانات Microsoft Dynamics 365 وMicrosoft Dataverse، وتصف كيانات/جداول الكتابة المزدوجة والافتراضية، وتستعرض مفاهيم التطبيق الأساسي بين التطبيقين.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- راجع تماثل التطبيق الرئيسي، مثل مفهوم الشركة ونموذج الأمان الخاص بالتمويل والعمليات وMicrosoft Dataverse.\n-   اكتشف المصادقة والتخويل لتطبيقات التمويل والعمليات وDataverse لكيانات الكتابة المزدوجة والافتراضية.\n- قم بإعداد كيانات الكتابة المزدوجة والافتراضية.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- راجع تماثل التطبيق الرئيسي، مثل مفهوم الشركة ونموذج الأمان الخاص بالتمويل والعمليات وMicrosoft Dataverse.\n-   اكتشف المصادقة والتخويل لتطبيقات التمويل والعمليات وDataverse لكيانات الكتابة المزدوجة والافتراضية.\n- قم بإعداد كيانات الكتابة المزدوجة والافتراضية.\n"
 prerequisites: "-   المعرفة الأساسية بمفاهيم التكامل بين تطبيقات التمويل والعمليات وDataverse باستخدام كيانات الكتابة المزدوجة والافتراضية\n-   المعرفة الأساسية بكيانات الكتابة المزدوجة والافتراضية\n-   المعرفة الأساسية بتطبيقات التمويل والعمليات \n-   المعرفة الأساسية بـ Microsoft Power Platform \n-   معرفة Microsoft Dataverse \n-   معرفة كيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات \n-   معرفة إمكانات تكامل Microsoft Dynamics 365 Lifecycle Services \n"
 iconUrl: /learn/achievements/key-concepts-integrate-finance-operations-power-platform.svg
 levels:
@@ -31,6 +31,9 @@ products:
 - dynamics-commerce
 - dynamics-human-resources
 - common-data-service
+subjects:
+- cross-development
+- architecture
 units:
 - learn-dynamics.key-concepts-integrate-finance-operations-power-platform.introduction
 - learn-dynamics.key-concepts-integrate-finance-operations-power-platform.company-concept

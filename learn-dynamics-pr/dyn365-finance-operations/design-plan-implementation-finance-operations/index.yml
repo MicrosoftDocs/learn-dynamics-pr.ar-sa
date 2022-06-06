@@ -1,26 +1,26 @@
 ### YamlMime:Module
 uid: learn-dynamics.design-plan-implementation-in-f-and-o
 metadata:
-  title: تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
-  description: توضح هذه الوحدة كيفية تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها باستخدام Lifecycle Services.
+  title: تصميم وتخطيط عملية تنفيذ تطبيقات التمويل والعمليات
+  description: توضح هذه الوحدة كيفية تصميم عملية تنفيذ تطبيقات التمويل والعمليات وتخطيطها باستخدام Lifecycle Services.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c657de74a125a02024da20da247b58d15c6be218
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9cb4cd7ea23bc27f1266746700ee548ca50eb367
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7344432"
-title: تصميم عملية تنفيذ تطبيقات Finance and Operations وتخطيطها
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749753"
+title: تصميم وتخطيط عملية تنفيذ تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  وباستخدام التخطيط المناسب، ستكون عملية تنفيذ تطبيقات Finance and Operations ناجحة. بعد قيام أحد العملاء بتوقيع الاتفاقيات لشراء تراخيص تطبيقات Finance and Operations، يبدأ عملك كمستشار وظيفي من خلال إدارة دورة حياة التطبيق والتحرك نحو التنفيذ القابل للتوقيت والقابل للتكرار، وعالي الجودة.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- قم بإعداد وثائق المتطلبات المجمعة باستخدام المنهجيات في Lifecycle Services (LCS). \n- حدد سيناريوهات حالة الاستخدام.\n- تعرف على كيفية المشاركة في إنشاء مستندات متطلبات الأعمال (BRD). \n- افهم أهمية إنشاء العمليات الموثقة وصيانتها.\n- ويمكنك المشاركة في عمليات التخطيط المستندة إلى المرحلة وتصميم الحلول.\n- ويتيح وصف الحالة المستقبلية لعمليات الأعمال استناداً إلى حل مقترح.\n- حدد وقت الإنشاء مقابل الشراء.\n- قم بإنشاء مستندات التصميم الوظيفي (FDD).\n"
-prerequisites: القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+  وباستخدام التخطيط المناسب، ستكون عملية تنفيذ تطبيقات التمويل والعمليات ناجحة. بعد قيام أحد العملاء بتوقيع الاتفاقيات لشراء تراخيص تطبيقات التمويل والعمليات، يبدأ عملك كمستشار وظيفي من خلال إدارة دورة حياة التطبيق والتحرك نحو التنفيذ القابل للتوقيت والقابل للتكرار، وعالي الجودة.
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بإعداد وثائق المتطلبات المجمعة باستخدام المنهجيات في Lifecycle Services (LCS). \n- حدد سيناريوهات حالة الاستخدام.\n- تعرف على كيفية المشاركة في إنشاء مستندات متطلبات الأعمال (BRD). \n- افهم أهمية إنشاء العمليات الموثقة وصيانتها.\n- ويمكنك المشاركة في عمليات التخطيط المستندة إلى المرحلة وتصميم الحلول.\n- ويتيح وصف الحالة المستقبلية لعمليات الأعمال استناداً إلى حل مقترح.\n- حدد وقت الإنشاء مقابل الشراء.\n- قم بإنشاء مستندات التصميم الوظيفي (FDD).\n"
+prerequisites: القدرة على استخدام تطبيقات التمويل والعمليات للمعالجة الأساسية
 iconUrl: /learn/achievements/design-plan-implementation-in-f-and-o.svg
 levels:
 - advanced
@@ -33,6 +33,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- process-workflow
 units:
 - learn-dynamics.design-plan-implementation-in-f-and-o.1-design-plan-implementation-in-f-and-o-introduction
 - learn-dynamics.design-plan-implementation-in-f-and-o.2-implementation-methodologies

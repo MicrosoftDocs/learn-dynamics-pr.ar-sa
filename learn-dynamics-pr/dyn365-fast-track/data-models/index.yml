@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: db12bf0fbc10e43adb14c4f6361dc773fc4cd060
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: fa554d47b135088f27e97d10b7aa852897a988a6
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431875"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752772"
 title: تصميم نماذج البيانات لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nتعتبر ورشة عمل نموذج البيانات جزءاً من Success by Design. ستوفر هذه الوحدة وصفاً أساسياً لتصميم البيانات لـ Microsoft Dynamics ‏365 ومعرفة دقيقة في كيفية تنفيذ ورشة عمل نموذج البيانات.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على نمذجة البيانات في Dynamics 365.\n- مراجعة أفضل ممارسات نمذجة البيانات ومعرفة كيفية ارتباطها بمشروع Dynamics 365.\n"
@@ -40,6 +40,9 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- data-modeling
+- business-applications
 units:
 - learn-dynamics.data-models.1-introduction
 - learn-dynamics.data-models.2-workshops

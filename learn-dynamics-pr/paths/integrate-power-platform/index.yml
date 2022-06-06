@@ -8,12 +8,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: f1b55a5ff0ceac1ea6ca7cb3051b51f3d9311008
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 73a84c33b5062c41da2a21c1b00477826a7f71a7
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457368"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752061"
 title: التكامل باستخدام Microsoft Power Platform وDataverse
 summary: "[!include[](../../includes/lp-banner.md)]\n\nالتكامل باستخدام Dataverse عن طريق التعليمات البرمجية بالتعرف على API في Dataverse. الحصول على نظرة عامة متعمقة بالخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.   \n"
 prerequisites: >
@@ -26,6 +26,8 @@ roles:
 products:
 - power-apps
 - power-platform
+subjects:
+- custom-app-development
 modules:
 - learn-dynamics.common-data-service-web-api
 - learn-dynamics.integrate-common-data-service-azure-solutions

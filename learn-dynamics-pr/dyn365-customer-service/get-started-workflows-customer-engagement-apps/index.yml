@@ -8,15 +8,15 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: c35c170d92a8b933e41b279c50c38224dcf3ac34
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7da3cb3ef494bc68075d56e003cefe480f7130ce
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353859"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754037"
 title: الشروع في العمل باستخدام عمليات سير العمل في Dynamics 365 for Customer Engagement
 summary: "[!include[](./includes/unique-module-banner.md)]\n\nبادِر باكتشاف فوائد استخدام عمليات سير العمل من أجل التشغيل التلقائي لمهام Dynamics 365 الخاصة بك. يلي مقدمة لسير العمل إنشاء إجراءات سير عمل العميل وإنشاء عمليات سير عمل متقدمة. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- وصف عمليات سير العمل.\n- تكوين عمليات سير العمل‬.\n- إنشاء إجراءات سير العمل.\n- إنشاء إجراءات سير العمل للعميل.\n- إنشاء عمليات سير العمل المتقدمة.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- وصف عمليات سير العمل.\n- تكوين عمليات سير العمل‬.\n- إنشاء إجراءات سير العمل.\n- إنشاء إجراءات سير العمل للعميل.\n- إنشاء عمليات سير العمل المتقدمة.\n"
 prerequisites: الفهم الأساسي لـ Dynamics 365.
 iconUrl: /learn/achievements/get-started-with-workflows-in-dynamics-365.svg
 levels:
@@ -27,6 +27,8 @@ products:
 - power-platform
 - power-automate
 - dynamics-365
+subjects:
+- process-workflow
 units:
 - learn-dynamics.get-started-with-workflows-in-dynamics-365.01-introduction-to-workflows
 - learn-dynamics.get-started-with-workflows-in-dynamics-365.02-configure-workflows

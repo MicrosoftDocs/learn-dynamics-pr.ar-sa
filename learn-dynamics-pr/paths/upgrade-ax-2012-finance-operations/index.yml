@@ -1,25 +1,25 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.upgrade-ax-2012-finance-operations
 metadata:
-  title: ترقيه Dynamics AX 2012 إلى تطبيقات Finance and Operations
-  description: تعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 بنجاح إلى تطبيقات Finance and Operations.
+  title: ترقية Dynamics AX 2012 لتطبيقات التمويل والعمليات
+  description: تعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 لتطبيقات التمويل والعمليات.
   ms.date: 03/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: bb258cc80c4e56bb61fc790dd91d0c635239846d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b3192d498bd1082762bba1c80ec4b4be46471455
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352371"
-title: ترقيه Dynamics AX 2012 إلى تطبيقات Finance and Operations
-summary: "[!include[](../../includes/lp-banner.md)]\n\nتعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 بنجاح إلى تطبيقات Finance and Operations. من الخطوات الأولى لاكتشاف اختلافات البنية الرئيسية، تبدأ العمل مع عملية الترقية، وأدوات ترقية التعليمات البرمجية والبيانات، بأفضل الطرق لإعادة تصميم تكاملك وتحليلاتك وإعداد التقارير المستند إلى أحدث القدرات. \n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751611"
+title: ترقية Dynamics AX 2012 لتطبيقات التمويل والعمليات
+summary: "[!include[](../../includes/lp-banner.md)]\n\nتعرف على أهم العناصر وأفضل الممارسات اللازمة لترقية حل Dynamics AX 2012 لتطبيقات التمويل والعمليات. من الخطوات الأولى لاكتشاف اختلافات البنية الرئيسية، تبدأ العمل مع عملية الترقية، وأدوات ترقية التعليمات البرمجية والبيانات، بأفضل الطرق لإعادة تصميم تكاملك وتحليلاتك وإعداد التقارير المستند إلى أحدث القدرات. \n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
-  - الإلمام بنظام Dynamics 365 البيئي وتطبيقات Finance and Operations.
+  - الإلمام بنظام Dynamics 365 البنائي وتطبيقات التمويل والعمليات.
 
   - يمكنك التعرف على مفاهيم المطور الأساسية، بما في ذلك القدرات التقنية والتعليمات البرمجية المصدر وأطر الاختبار وأدوات إعداد التقارير.
 
@@ -39,6 +39,10 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- migration
+- finance-accounting
+- supply-chain-management
 modules:
 - learn-dynamics.difference-ax2012-finance-operations
 - learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations

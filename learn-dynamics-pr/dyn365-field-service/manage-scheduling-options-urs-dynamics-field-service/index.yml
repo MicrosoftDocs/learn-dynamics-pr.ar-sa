@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0c127d7e6f0372ba5ea3895dea4af19ff93f32e0
-  ms.sourcegitcommit: c03bd9e4074a05f1faeb13be66c951ffdf5be12f
+  ms.openlocfilehash: 9e71917dea397bdd8186a9c533242b3fee3b7d99
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/24/2021
-  ms.locfileid: "7946444"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749097"
 title: إدارة خيارات الجدولة في Dynamics 365 for Field Service
 summary: >
   يحتاج المرسلون والمجدولون إلى تحديد الموارد وجدولتها بسهولة للعمل على الوظائف. يجب أن يكونوا قادرين على تحديد طريقة الجدولة التي سيتم استخدامها بشكل أفضل بناءً على السيناريو الذي يحاولون جدولته. عندما تظهر السيناريوهات التي تتطلب المساعدة، يمكن للمرسلين الاستفادة من مساعد الجدولة لتقديم توصيات بناءً على المتطلبات المحددة للوظيفة.  في كثير من الأحيان، ستحتاج الأصناف التي تمت جدولتها إلى إعادة جدولتها أو تعيينها إلى مورد مختلف.  باستخدام Dynamics 365، يمكن لمرسلي لوحة الجدولة تحديد الأصناف التي تحتاج إلى إعادة جدولتها بسهولة وإما إعادة جدولتها أو إعادة حجزها إلى مورد مختلف.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - حدد السيناريوهات التي يمكن فيها استخدام خيارات جدولة الخدمة الميدانية المختلفة
 
@@ -26,7 +26,7 @@ abstract: >
   - جدولة الأصناف يدوياً وإعادة جدولتها على لوحة الجدولة
 
   - استخدم البحث عن توافر الموارد (مساعد الجدولة) لجدولة الأصناف على لوحة الجدولة
-prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  الإلمام بقدرات Field Service الأساسية مفيد أيضاً.
+prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  الإلمام بقدرات Field Service الأساسية مفيد أيضًا.
 iconUrl: /learn/achievements/manage-scheduling-options-in-dynamics-365-for-field-service.svg
 levels:
 - intermediate
@@ -35,6 +35,9 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- field-management
+- frontline-support
 units:
 - learn-bizapps.urs-manage-scheduling-options.1-overview-of-scheduling-capabilities
 - learn-bizapps.urs-manage-scheduling-options.2-schedule-board-overview

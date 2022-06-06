@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: 4cba140c41131789991414b394563d196c1fefaf
-  ms.sourcegitcommit: ba649a4e713b493bd6617a8421bfbcc31bc25862
+  ms.openlocfilehash: d66d7a8f8e15a23910acec211d08cbb394f9401a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/13/2021
-  ms.locfileid: "7800267"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751404"
 title: التعامل مع الحالات في Dynamics 365 Customer Service
 summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\nالبدء كممثل خدمة عملاء. يركز مسار التعليم هذا على قدرات \"إدارة الحالات\" في Dynamics 365 Customer Service بما في ذلك خيارات إنشاء حالات وإدارة عملية دقة الحالة والتعامل مع تدرجات هرمية للحالات ودمج حالات مماثلة. يمكن استخدام الصفوف للاحتفاظ بأعباء العمل الخاصة بالحالة‬ لمندوبي خدمة العملاء وإدارتها.   \n"
 prerequisites: "- احصل على اشتراك تجريبي في Dynamics 365 Customer Service\n- المفاهيم الأساسية لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 modules:
 - learn-bizapps.customer-service-get-started
 - learn-bizapps.customer-service-cases

@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-fast-track
-  ms.openlocfilehash: 525eccf64700a0939cf50c4a1fb3f8afa3519d3c
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 91dec508db719449e88872bdb2275ff73c66030c
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431880"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754218"
 title: تصميم حلول الثغرات لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nتم تصميم ورشه تصميم حل الثغرات لتطبيقات ذات متطلبات هامه لا يعتمدها النظام القياسي.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف علي ورشه تصميم حل الثغرات\n- التحضير لورشة عمل تصميم حلول الثغرات\n- تعرف على كيفية إدارة ورشة عمل تصميم حل الثغرات\n"
@@ -44,6 +44,8 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- custom-app-development
 units:
 - learn-dynamics.gap-solution-design-dynamics-365.1-introduction
 - learn-dynamics.gap-solution-design-dynamics-365.2-overview

@@ -7,12 +7,12 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 33906816a3ce1ff383c7e17fe65e7df7ae57f863
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 581a44853e0dc5ed60db54731fb96281d794213f
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434124"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749214"
 title: تخصيص لوحة الجدولة في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\n\nأصبح تصميم لوحة الجدولة لتسهيل الجدولة أمرًا ممكنًا من خلال لوحات الجدولة المتعددة وطرق العرض وخيارات لوحة الجدولة. سننظر في كيفية تكوين عوامل التصفية والاستعلامات والكيانات للاستخدام مع لوحة الجدولة.  \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد كل جزء في لوحة الجدولة \n- تحرير طرق عرض لوحة الجدولة وتلميحات الأدوات \n- تحرير جزء الخطة \n- تنبيهات لوحة الجدولة \n- تمديد لوحة الجدولة باستخدام JavaScript وHTML\n"
@@ -25,6 +25,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- customer-relationship-management
 units:
 - learn-bizapps.urs-customize-the-schedule-board.1-work-with-multiple-schedule-boards
 - learn-bizapps.urs-customize-the-schedule-board.2-schedule-board-options

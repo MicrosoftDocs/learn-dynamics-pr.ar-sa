@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-dynamics.introduction-developing-power-platform
+metadata:
+  title: مقدمة حول موارد مطوّر Microsoft Power Platform
+  description: يتمثل الهدف من هذه الوحدة في تقديم نظرة عامة واسعة النطاق على تجربة المطوّر من حيث صلتها بحل Microsoft Power Platform.  وسوف تتناول الوحدة مقدمة عالية المستوى حول كيفية تمثيل المنظومة المتكاملة، في ظل وجود الجمهور المستهدف مُمثلاً في مطور برامج يحوز خبرة محدودة في العمل باستخدام Microsoft Power Platform.
+  ms.date: 05/17/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 58e6226a238e219edfa7f1c1ee65df557d492e98
+  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/19/2022
+  ms.locfileid: "8771675"
+title: مقدمة حول موارد مطوّر Microsoft Power Platform
+summary: "[!include[](../includes/module-banner.md)]\n\nيتمثل الهدف من هذه الوحدة في تقديم نظرة عامة واسعة النطاق على تجربة المطوّر من حيث صلتها بحل Microsoft Power Platform. وسوف تتناول الوحدة مقدمة عالية المستوى حول كيفية تمثيل المنظومة المتكاملة، في ظل وجود الجمهور المستهدف مُمثلاً في مطور برامج يحوز خبرة محدودة في العمل باستخدام Microsoft Power Platform. \n"
+abstract: "ستتمكن في هذه الوحدة مما يلي: \n- شرح مكونات الحلول الموجودة داخل حل Microsoft Power Platform. \n- شرح المكونات الرئيسية لـ Microsoft Dataverse وCommon Data Model. \n- شرح عناصر الحل من Azure ذات الصلة بحل Microsoft Power Platform. \n- شرح حلول الذكاء الاصطناعي الموجودة من حيث صلتها بحل Microsoft Power Platform. \n- التنقل بنجاح في دليل المطور تعزيزاً لجهود تطوير Microsoft Power Platform.\n"
+prerequisites: الفهم الأساسي لحل Microsoft Power Platform، وخبرة في تطوير البرامج على Microsoft stack وVisual Studio، ويُفضّل وجود خبرة في إدارة الحلول في Azure. 
+iconUrl: /learn/achievements/introduction-developing-power-platform.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+- common-data-service
+subjects:
+- custom-app-development
+units:
+- learn-dynamics.introduction-developing-power-platform.1-introduction
+- learn-dynamics.introduction-developing-power-platform.2-common-data-service
+- learn-dynamics.introduction-developing-power-platform.3-azure-ai
+- learn-dynamics.introduction-developing-power-platform.5-check
+- learn-dynamics.introduction-developing-power-platform.6-summary
+badge:
+  uid: learn-dynamics.introduction-developing-power-platform.badge

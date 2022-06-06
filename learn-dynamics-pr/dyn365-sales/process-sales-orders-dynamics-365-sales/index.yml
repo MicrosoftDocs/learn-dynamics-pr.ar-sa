@@ -7,19 +7,19 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a4a06a042f43904b0ed25fcecbb6313e23b2e119
-  ms.sourcegitcommit: 287250ca2c3f3986d1546d3299bf0f11e5cda7f6
+  ms.openlocfilehash: 687396716599e8d23a2a9a8141198d323680217a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/29/2021
-  ms.locfileid: "7947530"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752745"
 title: معالجة أوامر المبيعات باستخدام Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
   يمكنك بيع عناصر مختلفة باستخدام عمليات مختلفة. ومع ذلك، يجب عليك إعداد عملية مبيعات واحدة على الأقل في Microsoft Dynamics 365 Sales. ولكن يمكنك إعداد عمليات إضافية لمطابقة كيفية عمل عملك. استخدم معالجة أوامر المبيعات لأتمتة مؤسستك. قم بإنشاء الطلبات وإدارتها ودعم عمليات البيع المختلفة مثل إنشاء وإدارة عروض الأسعار والعمل مع الطلبات والفواتير.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
   - تحديد سجلات الاقتباس لسجلات الفرصة
 
@@ -28,7 +28,7 @@ abstract: >
   - إضافة ومراجعة عرض أسعار بنود خط المنتج
 
   - تسليم عروض الأسعار للعملاء
-prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضًا الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
 iconUrl: /learn/achievements/process-sales-orders-d365-sales.svg
 levels:
 - intermediate
@@ -38,6 +38,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.sales-order-processing.1-sales-order-processing-overview
 - learn-dynamics.sales-order-processing.2-quotes-and-quote-management

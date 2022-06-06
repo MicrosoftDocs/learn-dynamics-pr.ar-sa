@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 404615d91419679707e3b5082c879e10cdbb909e
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 5f109b8e2a2631ade4dda5d367a5be7a5e6ad35d
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7431876"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8754019"
 title: إنشاء استراتيجية ترحيل بيانات لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nالهدف الشامل من إطار عمل Success by Design الشامل هو ضمان نتيجة عملاء ناجحة لكل تطبيق. تم تصميم ورشة استراتيجية ترحيل البيانات للمساعدة في التأكد من أن الأسلوب الخاص بترحيل البيانات هو عنوان النجاح. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على أفضل ممارسات ترحيل البيانات.\n- اكتشف كيفية ارتباط ترحيل البيانات بمشروع وكيف يمكن أن يؤثر على أحد المشاريع.\n- تعرف على كيفية التحضير لورشة عمل استراتيجية ترحيل البيانات وإدارتها.\n"
@@ -42,6 +42,9 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- data-management
+- migration
 units:
 - learn-dynamics.data-migration.1-introduction
 - learn-dynamics.data-migration.2-power-platform-dynamics-365

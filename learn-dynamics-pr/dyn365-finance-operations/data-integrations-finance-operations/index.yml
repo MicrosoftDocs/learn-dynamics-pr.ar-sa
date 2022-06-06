@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 340c4c64146d2c09de0ce608b63ce80fade252f1
-  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.openlocfilehash: bc625d047bd486d31657f749d38c59d4d9e2910f
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/24/2022
-  ms.locfileid: "8484058"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749771"
 title: عمليات تكامل البَيانات مع تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيُعد التكامل مكوناً مهماً في تنفيذ تطبيقات التمويل والعمليات. يُمكنك عن طريق تنفيذ التكامل المتكرر تمكين تبادل المستندات أو الملفات بين تطبيقات التمويل والعمليات وتطبيقات أو خدمات الجهة الخارجية. \n"
-abstract: "في هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد مشروع بَيانات.\n- إعداد وظيفة بَيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- مراقبة الحالة وتوافر الكيانات.\n- تطوير عمليات تحويل البَيانات.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويُمكنك استخدام كيانات البَيانات المركبة.\n- ويُمكنك عمل تكامل بين كيانات البَيانات المركبة.\n- ويُمكنك تصدير كيانات البَيانات المركبة.\n- تعرّف على Azure Data Lake ومتجر الكيان.\n- تعرف على تقارب Microsoft Power Platform.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد مشروع بَيانات.\n- إعداد وظيفة بَيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- مراقبة الحالة وتوافر الكيانات.\n- تطوير عمليات تحويل البَيانات.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويُمكنك استخدام كيانات البَيانات المركبة.\n- ويُمكنك عمل تكامل بين كيانات البَيانات المركبة.\n- ويُمكنك تصدير كيانات البَيانات المركبة.\n- تعرّف على Azure Data Lake ومتجر الكيان.\n- تعرف على تقارب Microsoft Power Platform.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 
@@ -31,6 +31,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- data-management
 units:
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.1-introduction
 - learn-dynamics.data-integrations-dynamics-365-finance-operations.2-data-project

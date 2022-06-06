@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations
 metadata:
-  title: استكشاف النظام البيئي والمكونات الرئيسية لتطبيقات Finance and Operations
-  description: يوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات Finance and Operations التي من المهم أن تعرفها قبل أن تبدء في التطوير.
+  title: استكشاف النظام البنائي والمكونات الرئيسية لتطبيقات التمويل والعمليات
+  description: يوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات التمويل والعمليات التي من المهم أن تعرفها قبل أن تبدأ في التطوير.
   ms.date: 06/18/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8a5bb6fa6ec9d927cd0bed745ab6934fb1c1e4ca
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b1676593f083557971fbe8ad3519be01fdda3d8a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361507"
-title: استكشاف النظام البيئي والمكونات الرئيسية لتطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات Finance and Operations التي من المهم أن تعرفها قبل أن تبدء في التطوير. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف النظم البيئية لـ Dynamics 365.\n- تعرف على المكونات الرئيسية لتطبيقات Finance and Operations.\n- تعرف على خيارات النشر المحلية والسحابة.\n- استكشف عملية التطوير والنشر لتطبيقات Finance and Operations\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8749708"
+title: استكشاف النظام البنائي والمكونات الرئيسية لتطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيوفر Dynamics 365 مجموعة كبيرة من التطبيقات المستندة إلى السحابة التي تساعد المؤسسات على تحسين أعمالها حتى يتمكنوا من الوصول إلى إمكاناتهم الكاملة. تستكشف هذه الوحدة النظام البيئي لـ Dynamics 365 وكيف تعمل التطبيقات معاً لمساعدة مؤسستك على الوصول إلى أقصى إمكاناتها. بالإضافة إلى ذلك، تصف هذه الوحدة المكونات الرئيسية لتطبيقات التمويل والعمليات التي من المهم أن تعرفها قبل أن تبدأ في التطوير. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استكشف النظم البيئية لـ Dynamics 365.\n- تعرف على المكونات الرئيسية في تطبيقات التمويل والعمليات.\n- تعرف على خيارات النشر المحلية والسحابة.\n- استكشاف عملية التطوير والنشر لتطبيقات التمويل والعمليات.\n"
 prerequisites: بلا
 iconUrl: /learn/achievements/explore-ecosystem-main-components-dynamics-365-finance-operations.svg
 levels:
@@ -27,6 +27,8 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- architecture
 units:
 - learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.1-apps
 - learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.2-on-prem-cloud-based

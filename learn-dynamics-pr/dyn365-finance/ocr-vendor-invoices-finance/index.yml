@@ -1,29 +1,29 @@
 ### YamlMime:Module
 uid: learn-dynamics.ocr-vendor-invoices-finance
 metadata:
-  title: إعداد تقنية OCR الذكية واستخدامها لفواتير الموردين في Dynamics 365 Finance
-  description: تعلم كيفية استخراج البيانات تلقائياً من المستندات والصور الممسوحة ضوئياً.
+  title: إعداد تقنية OCR الذكية واستخدامها لفواتير الموردين في Dynamics 365 Finance.
+  description: تعلم كيفية استخراج البيانات تلقائيًا من المستندات والصور الممسوحة ضوئيًا.
   ms.date: 03/29/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 78c2f5e3939f81e33bd7e8af3fea8c973849ebdc
-  ms.sourcegitcommit: 81b0663ec92cde0be6b4e27d2f692356720d3193
+  ms.openlocfilehash: c25c1f8063b26f72d27ed7f8ac65fc2384185249
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/31/2022
-  ms.locfileid: "8527123"
-title: إعداد تقنية OCR الذكية واستخدامها لفواتير الموردين في Dynamics 365 Finance
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750710"
+title: إعداد تقنية OCR الذكية واستخدامها لفواتير الموردين في Dynamics 365 Finance.
 summary: >
   [!include[](../includes/module-banner.md)]
 
-  التعرف البصري على الأحرف (OCR) هي تقنية تمكّن المؤسسات من أتمتة استخراج البيانات من المستندات أو الصور الممسوحة ضوئياً. يمكنك تحويل النص من المستند المصدر إلى بيانات يمكن قراءتها آلياً داخل Dynamics 365 Finance.
+  التعرّف البصري على الحروف (OCR) هي تقنية تمكّن المؤسسات من أتمتة استخراج البيانات من المستندات أو الصور الممسوحة ضوئيًا. يمكنك تحويل النص من المستند المصدر إلى بيانات يمكن قراءتها آليًا داخل Dynamics 365 Finance.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
-  - إعداد التعرف البصري على الأحرف (OCR) في Dynamics 365 Finance.
+  - إعداد التعرّف البصري على الحروف (OCR) في Dynamics 365 Finance.
 
-  - إدارة المعلمات الخاصة بـ OCR في الحسابات الدائنة.
+  - إدارة المعلمات الخاصة بـ OCR في حسابات المدفوعات.
 
   - إدارة محرر سير العمل للسماح بعمليات أتمتة الفواتير.
 prerequisites: >
@@ -42,6 +42,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.ocr-vendor-invoices-finance.introduction
 - learn-dynamics.ocr-vendor-invoices-finance.configuration-options

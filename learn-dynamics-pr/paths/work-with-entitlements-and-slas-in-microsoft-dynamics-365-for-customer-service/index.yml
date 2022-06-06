@@ -8,12 +8,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: a475b7987753202887d3b835ed61928521b82052
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 56ed7a9f378d9fe4894dbfa2658420ee368659e1
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748746"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751395"
 title: التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة في Dynamics 365 Customer Service
 summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\n\nويركز مسار التعليم هذا على التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة ف Microsoft Dynamics 365 Customer Service.  \n"
 prerequisites: "- احصل على اشتراك تجريبي في Dynamics 365 for Customer Engagement\n- المفاهيم الأساسية لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- development-tools
 modules:
 - learn-bizapps.creating-and-managing-entitlements-in-dynamics-365
 - learn-bizapps.dynamics-365-service-level-agreements

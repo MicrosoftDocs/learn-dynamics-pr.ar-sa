@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: be82a39534d1d4f1773183e7929770bb387c1e9d
-  ms.sourcegitcommit: d028bd45fcfeb41ac5db1f0d66db059a81c77276
+  ms.openlocfilehash: 36679354e7b094efa1b3a3fdb2738869112465c3
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/08/2022
-  ms.locfileid: "8396774"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752682"
 title: العمل مع التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتساعد التكاليف شاملة التفريغ في Dynamics 365 Supply Chain Management تساعد مؤسستك في إجراء عمليات شحن واردة أكثر كفاءة. بالإضافة إلى ذلك، تسمح تكاليف الشحن شاملة التفريغ للمستخدمين بالتحكم المالي واللوجيستي الكامل في الشحن الذي تم استيراده من الشركة المصنعة إلى المستودع.  \n"
 abstract: "ستتعلم في هذه الوحدة كيفية: \n- إنشاء رحلة بحرية.\n- أضف سطور أوامر الشراء إلى حاوية (حاويات) الشحن.\n- معالجة البضائع في فواتير البضاعة بالطريق.\n- تعقب تتبع الرحلات البحرية القادمة ورحلات حاويات الشحن.\n- تقدير التكاليف شاملة التفريغ‬‬ وإدارتها.\n- العمل مع وظيفة المعالجة أثناء النقل. \n- معالجة حركات بالزيادة والنقصان‬.\n- تحديث التعقب لإبعاده.\n- العمل مع الاستفسارات والتقارير عن التكلفة شاملة التفريغ.\n"
@@ -27,6 +27,9 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- finance-accounting
+- supply-chain-management
 units:
 - learn-dynamics.work-with-landed-cost-supply-chain-management.introduction
 - learn-dynamics.work-with-landed-cost-supply-chain-management.create-voyage

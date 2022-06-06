@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-field-service
-  ms.openlocfilehash: a744875717d7f283992e190a6830b8f5bc3a1690
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 3e4ae0fc174e0eefbd9a775dd5455024b6f0d6fa
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8633029"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8747912"
 title: استكشاف Dynamics 365 Field Service
 summary: تقدم هذه الوحدة النمطية للمتعلمين Dynamics 365 Field Service، مع التركيز على أوامر العمل وعمليات الفحص.
 abstract: >
@@ -25,7 +25,7 @@ abstract: >
 
   - وصف عمليات الفحص
 prerequisites: >
-  لا شيء
+  بلا
 iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
@@ -37,6 +37,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-field-service
+subjects:
+- field-management
 units:
 - learn.wwl.explore-dynamics-365-field-service.introduction
 - learn.wwl.explore-dynamics-365-field-service.overview

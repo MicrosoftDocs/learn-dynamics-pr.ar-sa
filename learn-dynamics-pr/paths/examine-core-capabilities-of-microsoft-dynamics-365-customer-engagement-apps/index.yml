@@ -8,15 +8,15 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: bfbedad27d7a8b0716dae23c17f216127ed58fb8
-  ms.sourcegitcommit: b04b8a0aae511bb85c0e21b8ac33f188a5ef9de5
+  ms.openlocfilehash: b005c64bc0b945cc5105c250a2ce75e9ca37cd74
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/28/2022
-  ms.locfileid: "8653106"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8752259"
 title: فحص الإمكانات الأساسية لتطبيقات Microsoft Dynamics 365 customer engagement
 prerequisites: >
-  لا شيء
+  بلا
 summary: >
   يقدم مسار التعلم هذا للمتعلمين الإمكانات المشتركة عبر تطبيقات Dynamics 365 customer engagement. ستتعرف على Microsoft Dataverse، وستحصل على نظرة عامة على تطبيقات مشاركة العملاء في Dynamics 365، وستتعرف على الإمكانات المشتركة.
 video:
@@ -32,6 +32,8 @@ roles:
 - student
 products:
 - dynamics-365
+subjects:
+- customer-relationship-management
 modules:
 - learn.wwl.navigate-dynamics-customer-engagement-apps
 - learn.wwl.examine-common-activities-integration-options

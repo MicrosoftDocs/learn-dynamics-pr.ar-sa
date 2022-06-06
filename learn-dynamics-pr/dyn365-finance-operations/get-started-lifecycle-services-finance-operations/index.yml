@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn-dynamics.get-started-with-lcs
 metadata:
-  title: بدء استخدام Lifecycle Services لتطبيقات Finance and Operations
-  description: توضح هذه الوحدة الوظيفة العامة لـ lifecycle services بالنسبة لتطبيقات Finance and Operations.
+  title: الشروع في العمل باستخدام Lifecycle Services لتطبيقات التمويل والعمليات
+  description: توضح هذه الوحدة الوظيفة العامة لـ lifecycle services بالنسبة لتطبيقات التمويل والعمليات.
   ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e61340af833e495269382315d17cbaf9e89a3a6a
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 2f6f38000786b31d86eca6aa7a2f0750be10d6ec
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944326"
-title: بدء استخدام Lifecycle Services لتطبيقات Finance and Operations
-summary: "[!include[](../includes/module-banner.md)]\n\nلتثبيت تطبيقات Finance and Operations وصيانتها في سحابة Microsoft Azure أو محلياً، يجب عليك استخدام Microsoft Dynamics Lifecycle Services لإدارة العملية. لنبدأ من خلال النظر في الوظائف العامة والأدوات.   \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات خدمات دورة الحياة لتطبيقات Finance and Operations\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشكلات وتحليل النتائج\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751078"
+title: الشروع في العمل باستخدام Lifecycle Services لتطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)]\n\nلتثبيت تطبيقات التمويل والعمليات وصيانتها في سحابة Microsoft Azure أو محليًا، يجب عليك استخدام Microsoft Dynamics Lifecycle Services لإدارة العملية. لنبدأ من خلال النظر في الوظائف العامة والأدوات.   \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات خدمات دورة الحياة لتطبيقات التمويل والعمليات\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشكلات وتحليل النتائج\n"
 prerequisites: >
   - المعرفة العامة بـ Microsoft Windows
 
-  - القدرة على استخدام تطبيقات Finance and Operations للمعالجة الأساسية
+  - القدرة على استخدام تطبيقات التمويل والعمليات للمعالجة الأساسية
 
   - خبرة في استخدام Windows Server وActive Directory والشبكات
 
@@ -36,6 +36,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- data-management
+- custom-app-development
 units:
 - learn-dynamics.get-started-with-lcs.1-get-started-with-lcs-introduction
 - learn-dynamics.get-started-with-lcs.2-functionality-and-tools-of-lcs

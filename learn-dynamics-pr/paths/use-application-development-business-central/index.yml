@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 2c0d218f1cf9fefdd7823f0b22939cc1af5e6d35
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5cad53b79a424e7a0ad03e6dcc8d27b97139163a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7748805"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751602"
 title: استخدام أفضل الممارسات لتطوير التطبيقات في Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تخطط لإنشاء تطبيق لـ Business Central؟ إذا قمت بذلك، فسيكون هذا المسار مفيداً لإرشادك خلال العمليات الموصى بها لنشر تطبيقك في AppSource. \n"
 prerequisites: "- الإلمام بلغة البرمجة AL المستخدمة مع Business Central \n- تجربة التطوير السابقة تعمل على تطوير حلول التطبيق     \n- تعد تراخيص واتفاقيات التطوير المناسبة لتطوير التطبيقات ذات فائدة كبيرة\n"
@@ -25,6 +25,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-business-central
+subjects:
+- devops
 modules:
 - learn-dynamics.application-types
 - learn-dynamics.bring-app-appsource

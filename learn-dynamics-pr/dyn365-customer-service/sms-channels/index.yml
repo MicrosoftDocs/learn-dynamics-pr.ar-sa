@@ -7,15 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3c1bc9fb7ef4089e202fc2279546fa303873ebb5
-  ms.sourcegitcommit: 556a16f081a6399ebbf1fa0c3fe3bba9e8fb5f7e
+  ms.openlocfilehash: 12cf654ec2ff9b693af3d394104a7cecf3b7c39d
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/21/2022
-  ms.locfileid: "8016250"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8753057"
 title: نشر قناة الرسائل القصيرة في القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية استخدام رسائل خدمة الرسائل القصيرة (SMS) لبدء طلبات الدعم مع مؤسسات الدعم. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تكوين قناة الرسائل القصيرة.\n- استخدم TeleSign.\n- استخدم Twilio. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تكوين قناة الرسائل القصيرة.\n- استخدام TeleSign.\n- استخدم Twilio. \n"
 prerequisites: فهم أساسي لتطبيق Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/sms-channels.svg
 levels:
@@ -26,6 +26,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
+subjects:
+- customer-relationship-management
 units:
 - learn-dynamics.sms-channels.1-introduction
 - learn-dynamics.sms-channels.2-sms-channel

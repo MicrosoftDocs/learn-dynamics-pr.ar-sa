@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.upgrades-updates-finance-operations-apps
 metadata:
-  title: تحديثات تطبيقات Finance and Operations وترقيتها
-  description: يتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور Finance and Operations العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى الخدمة السحابية Finance and Operations.
+  title: التحديثات والترقيات الخاصة بتطبيقات التمويل والعمليات
+  description: يتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور التمويل والعمليات العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى خدمة التمويل والعمليات السحابية.
   ms.date: 04/12/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e2caa598dbec86493656780d6b441efc18d6d5bd
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d2bdc1fffdf7bf63b59001b10178a53d9c8e8488
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359744"
-title: تحديثات تطبيقات Finance and Operations وترقيتها
-summary: "[!include[](../includes/module-banner.md)] \nيتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور Finance and Operations العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى الخدمة السحابية Finance and Operations. \n"
-abstract: "ستتعرف في هذه الوحدة على: \n- كيفيه الترقية من Dynamics AX القديم (AX 2012 وAX 2009). \n- كيفية التحديث من إصدارات Finance and Operations السابقة 7.0 و7.1 و7.2 و7.3 و8.0 إلى الإصدار 10. \n"
-prerequisites: "- المعرفة بتطبيقات Finance and Operations\n- فهم تقنيات التطوير \n- المعرفة بـ Lifecycle Services (LCS)\n"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750997"
+title: التحديثات والترقيات الخاصة بتطبيقات التمويل والعمليات
+summary: "[!include[](../includes/module-banner.md)] \nيتطور عالم تخطيط موارد المؤسسات (ERP) باستمرار ويساعد العملاء على زيادة الإنتاجية وتبسيط عملياتهم. يشجع تطور التمويل والعمليات العملاء على ترقية إصدارات Microsoft Dynamics AX السابقة إلى خدمة التمويل والعمليات السحابية. \n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- كيفيه الترقية من Dynamics AX القديم (AX 2012 وAX 2009). \n- كيفية التحديث من إصدارات التمويل والعمليات السابقة 7.0 و7.1 و7.2 و7.3 و8.0 إلى الإصدار 10. \n"
+prerequisites: "- معرفة تطبيقات التمويل والعمليات\n- فهم تقنيات التطوير \n- المعرفة بـ Lifecycle Services (LCS)\n"
 iconUrl: /learn/achievements/upgrades-updates-finance-operations-apps.svg
 levels:
 - intermediate
@@ -29,6 +29,9 @@ products:
 - dynamics-finance-operations
 - dynamics-finance
 - dynamics-scm
+subjects:
+- process-workflow
+- business-applications
 units:
 - learn-dynamics.upgrades-updates-finance-operations-apps.01-introduction
 - learn-dynamics.upgrades-updates-finance-operations-apps.02-upgrade-7x-10x

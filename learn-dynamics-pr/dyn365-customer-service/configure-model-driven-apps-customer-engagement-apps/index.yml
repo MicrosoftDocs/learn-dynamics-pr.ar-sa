@@ -7,16 +7,16 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 344d600387a5a2687079090cd6934284e69666ba
-  ms.sourcegitcommit: 6c08dc1282450e162141a968433f38943275aa63
+  ms.openlocfilehash: b200c1ba4c986e83212ed0faab69d28882815a13
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/01/2022
-  ms.locfileid: "8370048"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8748337"
 title: تكوين النماذج والمخططات ولوحات المعلومات في التطبيقات المستندة إلى نموذج
 summary: "[!include[](../includes/module-banner.md)]\n\nستتعرف في هذه الوحدة على النماذج، والشبكات، وطرق العرض، والمخططات، ولوحات المعلومات التي يمكن استخدامها في التطبيقات المستندة إلى نموذج.   \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على عناصر النموذج وعناصر التحكم فيه\n- تكوين النماذج\n- استخدم مكونات النموذج المتخصصة\n- استخدام شبكات قابلة للتحرير\n- تحديد طرق العرض واستخدام طرق العرض العامة\n- التعرُّف على طريقة تكوين المخططات\n- التعرُّف على كيفية تكوين لوحات المعلومات\n"
-prerequisites: لا شيء
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرُّف على عناصر النموذج وعناصر التحكم فيه\n- تكوين النماذج\n- استخدم مكونات النموذج المتخصصة\n- استخدام شبكات قابلة للتحرير\n- تحديد طرق العرض واستخدام طرق العرض العامة\n- التعرُّف على طريقة تكوين المخططات\n- التعرُّف على كيفية تكوين لوحات المعلومات\n"
+prerequisites: بلا
 iconUrl: /learn/achievements/configure-model-driven-apps-customer-engagement.svg
 levels:
 - intermediate
@@ -25,6 +25,8 @@ roles:
 products:
 - dynamics-365
 - power-platform
+subjects:
+- customer-relationship-management
 units:
 - learn-dynamics.configure-model-driven-apps-customer-engagement.01-forms-overview
 - learn-dynamics.configure-model-driven-apps-customer-engagement.02-forms-elements

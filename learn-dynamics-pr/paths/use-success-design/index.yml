@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: c1d8137d454d52f2d20381a44e4c77ebaa9a1bb0
-  ms.sourcegitcommit: 4cdee2d3e2a25f03e7c5922f6badce68af131158
+  ms.openlocfilehash: 603dd4048fb3baa0a0e325f5337c1d087822341a
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/26/2021
-  ms.locfileid: "7748802"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8751512"
 title: استخدام حلول Success by Design for Dynamics 365
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -43,6 +43,9 @@ products:
 - dynamics-project-operations
 - dynamics-commerce
 - dynamics-human-resources
+subjects:
+- data-visualization
+- process-workflow
 modules:
 - learn-dynamics.success-by-design
 - learn-dynamics.solution-blueprint

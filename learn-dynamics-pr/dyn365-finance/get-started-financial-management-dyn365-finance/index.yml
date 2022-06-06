@@ -1,26 +1,26 @@
 ### YamlMime:Module
 uid: learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops
 metadata:
-  title: بدء استخدام Dynamics 365 Finance
+  title: الشروع في العمل باستخدام Dynamics 365 Finance
   description: يُمكّن Dynamics 365 Finance مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. إنه يوفر للشركات كل ما يحتاجون إليه للتحكم في الشؤون المالية وإدارة الأموال بمعلومات دقيقة للتخطيط المالي والتنبؤ، ويساعدهم على البقاء على اطلاع بأدوات التحليل. لأن التمويل هو جوهر أي عمل، فمن المهم أن تكون على دراية بإمكانات Dynamics 365 Finance.
   ms.date: 08/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 6aaaa71b5d1f6d4acbf39d04411027939bbf7b35
-  ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+  ms.openlocfilehash: 78e0115fdbbe296c07c2a0e4da8aa1b1872ba6bc
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/16/2021
-  ms.locfileid: "7498398"
-title: بدء استخدام Dynamics 365 Finance
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750280"
+title: الشروع في العمل باستخدام Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   يُمكّن Dynamics 365 Finance مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. إنه يوفر للشركات كل ما يحتاجون إليه للتحكم في الشؤون المالية وإدارة الأموال بمعلومات دقيقة للتخطيط المالي والتنبؤ، ويساعدهم على البقاء على اطلاع بأدوات التحليل. لأن التمويل هو جوهر أي عمل، فمن المهم أن تكون على دراية بإمكانات Dynamics 365 Finance.
-abstract: "سوف تتعرف في هذه الوحدة على: \n- مزايا Dynamics 365 Finance. \n- نظرة عامة على الميزات الموجودة في Finance.\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- مزايا Dynamics 365 Finance. \n- نظرة عامة على الميزات الموجودة في Finance.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات التمويل والمحاسبة
 
@@ -41,6 +41,8 @@ products:
 - dynamics-365
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.1-get-started-financial-management-intro
 - learn-dynamics.get-started-financial-management-in-dynamics-365-finance-ops.2-benefits-financial-management

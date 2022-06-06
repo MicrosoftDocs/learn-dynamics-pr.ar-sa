@@ -7,18 +7,18 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a2995220aae41f7d064e92aa2df6c5755b957e1d
-  ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+  ms.openlocfilehash: 722d2632af1be3c8ee9acbeaaccde545e466f68e
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/28/2022
-  ms.locfileid: "8360963"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750026"
 title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
   معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وإعدادات خاصة بالمنتج لإدارة دورات العمل المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
-abstract: "سوف تتعرف في هذه الوحدة على كيفية: \n- إنشاء منتجات من النوع \"صنف\" و\"خدمة\".\n- إعداد تحويلات وحدة المنتج.\n- إعداد أوامر التحويل\n- إعداد إعدادات الأوامر الافتراضية.\n- إنشاء أصول المنتج باستخدام متغيرات محددة مسبقاً.\n- إنشاء التدرجات الهرمية للفئات وتكوينها.\n- إنشاء سمات المنتجات.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء منتجات من النوع \"صنف\" و\"خدمة\".\n- إعداد تحويلات وحدة المنتج.\n- إعداد أوامر التحويل\n- إعداد إعدادات الأوامر الافتراضية.\n- إنشاء أصول المنتج باستخدام متغيرات محددة مسبقاً.\n- إنشاء التدرجات الهرمية للفئات وتكوينها.\n- إنشاء سمات المنتجات.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Microsoft Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
 iconUrl: /learn/achievements/create-products-product-masters-in-dynamics-365-finance-ops.svg
 levels:
@@ -30,6 +30,8 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.1-create-products-product-masters-introduction
 - learn-dynamics.create-products-product-masters-in-dynamics-365-finance-ops.product-information-workspace

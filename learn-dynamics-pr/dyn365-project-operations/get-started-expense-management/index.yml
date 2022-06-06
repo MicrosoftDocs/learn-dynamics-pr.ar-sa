@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f1d3836ca05869b391b9658cd5244c125ae2c2ff
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 46ec3c1fbc0b8d1338bf15bd82a13d3668936c17
+  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361261"
+  ms.lasthandoff: 05/13/2022
+  ms.locfileid: "8750226"
 title: بدء استخدام إدارة المصروفات في Dynamics 365 Project Operations
-summary: "[!include[](../includes/module-banner.md)] \nتسمح وحدة إدارة المصروفات في Microsoft Dynamics 365 Project Operations للمؤسسات بتعقب وإدارة مصروفات الموظفين. تتيح لك إدارة المصروفات تخزين معلومات الدفع واستيراد حركات بطاقات الائتمان وتعقب الأموال التي ينفقها الموظفون عندما يتكبدون مصروفات لمؤسستك. يمكنك أيضاً إعداد سياسات المصروفات وتنفيذ الموافقات تلقائياً وتوفير عملية أعمال مبسطة باستخدام Project Operations. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على إمكانات إدارة المصروفات.\n- اكتشاف ميزات إدارة المصروفات.\n- مراجعة الاعتبارات للتخطيط لاستخدام وحدة إدارة المصروفات في Project Operations.\n"
+summary: "[!include[](../includes/module-banner.md)] \nتسمح وحدة إدارة المصروفات في Microsoft Dynamics 365 Project Operations للمؤسسات بتعقب وإدارة مصروفات الموظفين. تتيح لك إدارة المصروفات تخزين معلومات الدفع واستيراد حركات بطاقات الائتمان وتعقب الأموال التي ينفقها الموظفون عندما يتكبدون مصروفات لمؤسستك. يمكنك أيضًا إعداد سياسات المصروفات وتنفيذ الموافقات تلقائيًا وتوفير عملية أعمال مبسطة باستخدام Project Operations. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على إمكانات إدارة المصروفات.\n- اكتشاف ميزات إدارة المصروفات.\n- مراجعة الاعتبارات للتخطيط لاستخدام وحدة إدارة المصروفات في Project Operations.\n"
 prerequisites: بلا
 iconUrl: /learn/achievements/get-started-expense-management.svg
 levels:
@@ -28,6 +28,8 @@ products:
 - dynamics-project-operations
 - dynamics-finance
 - dynamics-finance-operations
+subjects:
+- finance-accounting
 units:
 - learn-dynamics.get-started-expense-management.1-introduction
 - learn-dynamics.get-started-expense-management.2-plan
