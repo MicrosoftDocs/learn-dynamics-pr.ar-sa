@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-business-to-business-commerce.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: لقد تعرّفت في هذه الوحدة النمطية على Dynamics 365 Commerce وما هو متوفر لميزات التجارة الإلكترونية.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c416489e368e3d8fcfa398283346fb88a37cbd0a
+  ms.sourcegitcommit: 5f8bd91bcb83b57e88d2b313c488cb7934fdfe77
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/31/2022
+  ms.locfileid: "8815689"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

@@ -3,20 +3,20 @@ uid: learn-dynamics.common-data-service-web-api
 metadata:
   title: العمل باستخدام Web API لـ Microsoft Dataverse
   description: تعرّف على كيفية العمل مع Web API لـ Dataverse.
-  ms.date: 12/31/2019
+  ms.date: 06/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: ab37ad8297ba7123d172355b596bcb46391ee4e4
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 203d16b8f1d4ae170e24d4bd960e120ba7ed4492
+  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751305"
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8841297"
 title: العمل باستخدام Web API لـ Dataverse
 summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على كيفية العمل مع Web API لـ Dataverse.   \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التفاعل مع Web API لـ Dataverse باستخدام أداة Postman.\n- تخويل Dataverse باستخدام OAuth.\n- استخدام OData للاستعلام عن البيانات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التفاعل مع Web API لـ Dataverse باستخدام أداة Postman.\n- تخويل Dataverse باستخدام OAuth.\n- استخدام OData للاستعلام عن البيانات. \n"
 prerequisites: بلا
 iconUrl: /learn/achievements/common-data-service-web-api.svg
 levels:

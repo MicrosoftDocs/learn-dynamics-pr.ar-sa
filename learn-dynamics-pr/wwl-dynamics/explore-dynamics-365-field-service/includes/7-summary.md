@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6fb55a118ffd3a7264bd85a9531947a72c075259
-ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+ms.openlocfilehash: ea9978879e98917ce399c9267d677ea524c63ef3
+ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "8615157"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "8807923"
 ---
 كما ترى، فإن Dynamics 365 Field Service يزود مؤسستك بالأدوات التي تحتاجها لإدارة تقديم الخدمات في الموقع لعملائك وإدارة القوى العاملة المتنقلة لديك. من خلال توفير الأدوات التي تساعدك في إنشاء أوامر العمل، وجدولة الفنيين وإيفادهم، وتنفيذ أوامر العمل، وإدارة الأصول والخدمات، والمخزون والفوترة، تساعد Dynamics 365 Field Service على ضمان حصول الفنيين لديك على كل ما يحتاجون إليه لزيادة الإصلاح لأول مرة معدلات. 
 
@@ -49,7 +49,7 @@ ms.locfileid: "8615157"
 
 -  [الترخيص / التسعير](https://powerapps.microsoft.com/pricing/)
 
--  [المشكلات المعروفة](/powerapps/common-issues-and-resolutions) | [عرض / الإبلاغ عن المشكلات](https://powerusers.microsoft.com/t5/General-Discussion/bd-p/PowerAppsForum1) | [إنشاء تذكرة دعم](https://powerapps.microsoft.com/support/)
+-  [المشكلات المعروفة](/powerapps/common-issues-and-resolutions) | [عرض/الإبلاغ عن المشكلات](https://powerusers.microsoft.com/t5/General-Discussion/bd-p/PowerAppsForum1) | [إنشاء تذكرة دعم](https://powerapps.microsoft.com/support/)
 
  
 

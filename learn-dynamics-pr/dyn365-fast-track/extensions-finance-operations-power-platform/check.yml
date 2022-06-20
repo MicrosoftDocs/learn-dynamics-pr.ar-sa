@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extensions-finance-operations-power-platform.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b61902cece72f9cde18ecd3048a9555c465e4470
+  ms.sourcegitcommit: 15d65295c1240630d69e5e451d1d01f3337489a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8840194"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: كيف يتم استيراد أو تصدير تغييرات مخطط الكتابة المزدوجة إلى بيئات Dataverse؟
+    choices:
+    - content: الحلول
+      isCorrect: true
+      explanation: صحيح. يتم حزم تخصيصات وإضافات الكتابة المزدوجة في الحلول المستخدمة لاستيراد وتصدير التغييرات بين بيئات Dataverse.
+    - content: ملفات Excel
+      isCorrect: false
+      explanation: غير صحيح.‬ لا تتعامل تخصيصات الكتابة المزدوجة مع Excel.
+    - content: حزم برامج تطبيقات التمويل والعمليات القابلة للنشر
+      isCorrect: false
+      explanation: غير صحيح.‬ توجد تعيينات جدول الكتابة المزدوجة في حلول Power Apps ولا تتم إدارتها، مثل تخصيصات X++ في تطبيقات التمويل والعمليات.
+  - content: هل يتم دعم مشاركة البيانات عبر الشركة عن طريق الكتابة المزدوجة؟
+    choices:
+    - content: نعم
+      isCorrect: true
+      explanation: صحيح. تتوفر المشاركة عبر الشركات مع مراعاة اعتبارات للجداول والحقول التي تم تمكينها للبيانات عبر الشركة.
+    - content: لا
+      isCorrect: false
+      explanation: غير صحيح.‬ يتم دعم المشاركة عبر الشركة.
+  - content: ما هي التقنية التي يجب أن تستخدمها إذا كنت بحاجة إلى بيانات تم نسخها من تكامل من تطبيقات التمويل والعمليات لتوجد في قواعد بيانات Dataverse وتطبيقات التمويل والعمليات؟
+    choices:
+    - content: الكيانات الافتراضية
+      isCorrect: false
+      explanation: غير صحيح.‬ لا يتم وضع البيانات في Dataverse باستخدام كيانات افتراضية.
+    - content: الكتابة المزدوجة
+      isCorrect: true
+      explanation: صحيح. الكتابة المزدوجة هي التقنية الصحيحة لاستخدامها إذا كنت بحاجة إلى بيانات مسجلة في Dataverse وتطبيقات التمويل والعمليات.
+    - content: عمليات تصدير البيانات
+      isCorrect: false
+      explanation: غير صحيح.‬ لا تُعد عمليات تصدير البيانات تكاملاً.

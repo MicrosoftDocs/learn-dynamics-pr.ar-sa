@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 03a5aa4e8df5e6b44e46804066602d5e871b95ee
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: af850e5ff40cfaa7719459744d893a31947fdbc0
+ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457562"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "8841593"
 ---
-## <a name="types-of-supported-service-bus-contracts"></a>أنواع عقود "ناقل الخدمة" المدعومة  
+## <a name="types-of-supported-service-bus-contracts"></a>أنواع عقود "ناقل الخدمة" المدعومة
 
 يدعم Microsoft Dataverse مجموعة متنوعة من الأساليب لاستخدام الرسائل الموجودة في قائمة انتظار ناقل خدمة المراسلة في Azure: قائمة الانتظار أو العقود أحادية الاتجاه أو العقود ثنائية الاتجاه أو REST. إذا كنت تستخدم أسلوبي العقود ثنائية الاتجاه وREST، فيمكنك إرجاع مجموعة من المعلومات مرة أخرى إلى Dataverse.
 
@@ -34,15 +34,15 @@ ms.locfileid: "7457562"
 
 في التمرين السابق، قمت بتسجيل "نقطة نهاية خدمة" تقوم بنشر الرسائل إلى "نقطة نهاية ناقل خدمة" كلما تم تحديث بيانات الحساب في بيئة Dataverse الخاصة بك. ويوضح هذا التمرين الآن كيفية استخدام هذه الرسائل.
 
-1.  إنشاء تطبيق وحدة التحكم رقم "ج" في Visual Studio الذي يستهدف إطار .NET 4.6.2 أو إصدارًا أعلى.
+1. إنشاء تطبيق وحدة التحكم رقم "ج" في Visual Studio الذي يستهدف إطار .NET 4.6.2 أو إصدارًا أعلى.
 
-3.  أضف حزم NuGet الآتية:
+1. أضف حزم NuGet الآتية:
 
-    -  Azure.Messaging.ServiceBus
+    - Azure.Messaging.ServiceBus
 
-    -  Microsoft.CrmSdk.CoreAssemblies
+    - Microsoft.CrmSdk.CoreAssemblies
 
-4.  في الطريقة الرئيسية للتطبيق، الصق الكود الآتي. استبدل عنوان URL لنقطة النهاية بعنوان URL لنقطة النهاية الخاصة بمساحة اسم ناقل خدمة Azure لديك واسم قائمة الانتظار إذا كان مختلفًا:
+1. في الطريقة الرئيسية للتطبيق، الصق الكود الآتي. استبدل عنوان URL لنقطة النهاية بعنوان URL لنقطة النهاية الخاصة بمساحة اسم ناقل خدمة Azure لديك واسم قائمة الانتظار إذا كان مختلفًا:
 
     ```csharp
     string connectionString =@"[ENDPOINT URL]";
@@ -50,14 +50,14 @@ ms.locfileid: "7457562"
     QueueClient queueClient = QueueClient.CreateFromConnectionString(connectionString, queueName, ReceiveMode.PeekLock);
     ```
 
-5.  لاستخدام الرسالة، استخدم الطريقة "OnMessage"، والتي توفر إمكانية معالجة رسالة قائمة انتظار ناقل الخدمة في مضخة رسائل تستند إلى الحدث. وفي هذا التمرين، ستستخدم طرق "أداة التسلسل" التي توفرها حزمة Microsoft.Xrm.Sdk بحيث يمكنك إجراء تسلسل للرسالة الواردة في نوع البيانات RemoteExecutionContext Dataverse‎. واستنادًا إلى نوع الرسالة التي تم تسجيلها، تحتاج إلى إجراء تسلسل بناءً على تنسيق الرسائل المطابق (‎.NETBinary أو JSON أو XML).
+1. لاستخدام الرسالة، استخدم الطريقة "OnMessage"، والتي توفر إمكانية معالجة رسالة قائمة انتظار ناقل الخدمة في مضخة رسائل تستند إلى الحدث.
 
     ```csharp
     queueClient.OnMessage(message =>
                 {
                     //get RemoteExecutionContext based on Message Format
                     RemoteExecutionContext context = null;
-    
+
                     if (message.ContentType == "application/msbin1") //.NETBinary Message Format
                     {
                         context = message.GetBody<RemoteExecutionContext>();
@@ -74,8 +74,12 @@ ms.locfileid: "7457562"
                     }
                     try
                     {
-    //serialize the entire context leveraging the SerializeContext extension method
-                        Console.WriteLine(context.SerializeContext());
+                    var target = context.InputParameters["Target"] as Entity;
+
+                    foreach (var field in target.Attributes)
+                    {
+                        Console.WriteLine($"Name: {field.Key} Value: { field.Value}");
+                    }
                     }
                     catch (Exception ex)
                     {
@@ -84,11 +88,10 @@ ms.locfileid: "7457562"
                 });
     ```
 
-6.  وأخيرًا، سنقوم بإضافة Console.ReadLine()‎ إلى طريقتنا الرئيسية للسماح بمعالجة العديد من الرسائل.  ملحوظة: هذه ليست طريقة قابلة للتحجيم للتعامل مع معالجة الحدث، ولكنها تكفي لأغراض التمرين الخاصة بنا.  وستحتاج إلى الحصول على حل أكثر قابلية للتحجيم تستضيفه في وظيفة Azure Durable أو خدمة أخرى حسب تفضيلاتك.  
+1. وأخيراً، سنقوم بإضافة Console.ReadLine()‎ إلى طريقتنا الرئيسية للسماح بمعالجة العديد من الرسائل. ملحوظة: هذه ليست طريقة قابلة للتحجيم للتعامل مع معالجة الحدث، ولكنها تكفي لأغراض التمرين الخاصة بنا. وستحتاج إلى الحصول على حل أكثر قابلية للتحجيم تستضيفه في وظيفة Azure Durable أو خدمة أخرى حسب تفضيلاتك.
 
     ```csharp
     Console.ReadLine();
     ```
 
-7.  اضغط على F5 لتشغيل التطبيق.  في حالة وجود رسائل بالفعل في قائمة الانتظار الخاصة بك من التمرين السابق، تجب معالجتها وعرض محتويات رسائلها في شاشة وحدة التحكم.  وإذا لم توجد رسائل، فيمكنك استدعاء تحديث من خلال إجراء تحديث لأحد الحسابات في بيئة Dataverse.
-
+1. اضغط على F5 لتشغيل التطبيق. في حالة وجود رسائل بالفعل في قائمة الانتظار الخاصة بك من التمرين السابق، تجب معالجتها وعرض محتويات رسائلها في شاشة وحدة التحكم. وإذا لم توجد رسائل، فيمكنك استدعاء تحديث من خلال إجراء تحديث لأحد الحسابات في بيئة Dataverse.

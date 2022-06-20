@@ -8,16 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 58e6226a238e219edfa7f1c1ee65df557d492e98
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: ea5efe1cd556e0d28ad797fb46013182f7455df5
+  ms.sourcegitcommit: ed9137121c68a8ca1100493d80284db55d121cc1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8771675"
+  ms.lasthandoff: 06/01/2022
+  ms.locfileid: "8816582"
 title: مقدمة حول موارد مطوّر Microsoft Power Platform
 summary: "[!include[](../includes/module-banner.md)]\n\nيتمثل الهدف من هذه الوحدة في تقديم نظرة عامة واسعة النطاق على تجربة المطوّر من حيث صلتها بحل Microsoft Power Platform. وسوف تتناول الوحدة مقدمة عالية المستوى حول كيفية تمثيل المنظومة المتكاملة، في ظل وجود الجمهور المستهدف مُمثلاً في مطور برامج يحوز خبرة محدودة في العمل باستخدام Microsoft Power Platform. \n"
 abstract: "ستتمكن في هذه الوحدة مما يلي: \n- شرح مكونات الحلول الموجودة داخل حل Microsoft Power Platform. \n- شرح المكونات الرئيسية لـ Microsoft Dataverse وCommon Data Model. \n- شرح عناصر الحل من Azure ذات الصلة بحل Microsoft Power Platform. \n- شرح حلول الذكاء الاصطناعي الموجودة من حيث صلتها بحل Microsoft Power Platform. \n- التنقل بنجاح في دليل المطور تعزيزاً لجهود تطوير Microsoft Power Platform.\n"
-prerequisites: الفهم الأساسي لحل Microsoft Power Platform، وخبرة في تطوير البرامج على Microsoft stack وVisual Studio، ويُفضّل وجود خبرة في إدارة الحلول في Azure. 
+prerequisites: الفهم الأساسي لتطبيق Microsoft Power Platform والخبرة في تطوير البرامج بالنسبة إلى Microsoft stack وVisual Studio والخبرة في إدارة الحلول في Azure هي من الأمور المفضلة. 
 iconUrl: /learn/achievements/introduction-developing-power-platform.svg
 levels:
 - advanced

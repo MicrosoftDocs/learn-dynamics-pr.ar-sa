@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 40fe54923403afe3b5ab7b4647285be38804d802
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 2b4c6a62945006f202989c450cd752c80f906049
+ms.sourcegitcommit: 1260f466c84e2360a1494f5e9b0ce0b62b5d37c8
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361431"
+ms.lasthandoff: 05/28/2022
+ms.locfileid: "8811875"
 ---
 أثناء هذا التمرين، سوف تحصل يدوياً على فرصة مبيعات لعميل موجود يُدعى Jim Glynn. يعمل في شركة تدعى Adventure Work. لن يقتصر الأمر على رصد الفرصة في النظام فحسب، بل سوف تستخدم الأدوات المتاحة في Dynamics 365 Sales للعمل من خلالها وإغلاق الفرصة. 
 

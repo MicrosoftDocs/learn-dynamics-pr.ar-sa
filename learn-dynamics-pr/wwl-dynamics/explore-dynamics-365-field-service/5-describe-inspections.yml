@@ -4,17 +4,17 @@ title: وصف عمليات الفحص
 metadata:
   title: وصف عمليات الفحص
   description: وصف عمليات الفحص
-  ms.date: 04/26/2022
+  ms.date: 05/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 73860582060db26559445567bdc181e87211882c
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: fbc5b14f74cd127125f1833a716e25f3d2ae51dc
+  ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632650"
+  ms.lasthandoff: 05/26/2022
+  ms.locfileid: "8807941"
 azureSandbox: false
 labModal: false
 durationInMinutes: 9

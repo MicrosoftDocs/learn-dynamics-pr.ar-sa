@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-business-to-business-commerce.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a0cf576783f1dcac61737fb97e34054428efbebb
+  ms.sourcegitcommit: 5f8bd91bcb83b57e88d2b313c488cb7934fdfe77
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 05/31/2022
+  ms.locfileid: "8815679"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما هي الوحدة الموجودة في مكتبة الوحدة النمطية التي تحتوي على عنوان، وشعار ترويجي، ووحدات موافقة لملفات تعريف الارتباط؟
+    choices:
+    - content: العنوان
+      isCorrect: true
+      explanation: صحيح. العنوان هو الوحدة التي يتم فيها إضافة العنوان، والشعار الترويجي، ووحدات الموافقة على ملفات تعريف الارتباط إلى موقع التجارة الإلكترونية.
+    - content: التذييل
+      isCorrect: false
+      explanation: غير صحيح.‬ التذييل هو وحدة التذييل في الجزء السفلي من الصفحة.
+    - content: التوصيات
+      isCorrect: false
+      explanation: غير صحيح.‬ لم يتم العثور على وحدة التوصيات في العنوان وهي قائمة خوارزمية وتحريرية.
+    - content: صفحة تفاصيل المنتج‬
+      isCorrect: false
+      explanation: غير صحيح.‬ صفحة تفاصيل المنتج هي صفحة تتضمن عنواناً، لكنه ليس عنواناً فعلياً.
+  - content: ماذا يوفر نظام إدارة المحتوى لتجربة التجارة الإلكترونية؟
+    choices:
+    - content: إدارة دورة الحياة
+      isCorrect: true
+      explanation: صحيح. تعد إدارة دورة الحياة جزءاً من نظام إدارة المحتوى، جنباً إلى جنب مع ميزات الفهرسة والترجمة الغنية.
+    - content: مكتبة الوحدات
+      isCorrect: false
+      explanation: غير صحيح.‬ لا يوفر نظام إدارة المحتوى مكتبة الوحدات، وهي جزء منفصل من تجربة تطوير التجارة الإلكترونية.
+    - content: Dynamics 365 Commerce
+      isCorrect: false
+      explanation: غير صحيح.‬ لا يحتوي نظام إدارة المحتوى على Dynamics 365 Commerce ولكنه يعمل جنباً إلى جنب معه.
+  - content: ما وحدة الحاوية؟
+    choices:
+    - content: وحدة تحتوي على كتل نصية ومشغلات فيديو ووحدات دائرية.
+      isCorrect: false
+      explanation: غير صحيح.‬ يصف هذا الخيار وحدة تسويق وليس وحدة حاوية.
+    - content: وحدة تستضيف وحدات أخرى وتتحكم في تخطيط الوحدات الموجودة بداخلها.
+      isCorrect: true
+      explanation: صحيح. وحدة الحاوية هي وحدة تستضيف وحدات أخرى وتتحكم في تخطيط تلك الوحدات بداخلها.
+    - content: وحدة موجودة في العنوان حيث تظهر نتائج البحث في صفحة نتائج البحث.
+      isCorrect: false
+      explanation: غير صحيح.‬ يصف هذا الخيار وحدة بحث وليس وحدة حاوية.

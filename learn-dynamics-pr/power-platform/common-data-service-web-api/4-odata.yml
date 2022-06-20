@@ -4,16 +4,16 @@ title: استخدام OData للاستعلام عن البيانات
 metadata:
   title: استخدام OData للاستعلام عن البيانات
   description: تعرف على المزيد حول استخدام OData للاستعلام عن البيانات.
-  ms.date: 12/31/2019
+  ms.date: 06/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 4448c98eea91106df4406a3db67f00717f9d4f27
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e493e46078ba8a8a4d9adb7c3158a85d4ac3a0f9
+  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457574"
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8841277"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-odata.md)]"

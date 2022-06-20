@@ -3,20 +3,20 @@ uid: learn-dynamics.application-lifecycle-management.3-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 11/04/2020
-  author: KevSch
-  ms.author: kschimke
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/16/2022
+  author: cstorega
+  ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5623d064fe38edcdf5c132cd2987d9048e7f21db
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9fff794203088ba5a4918a6ab1f448289837baa8
+  ms.sourcegitcommit: d0d5fcc884668074092b3253abd37e3af296f605
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7431835"
+  ms.lasthandoff: 05/24/2022
+  ms.locfileid: "8803055"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي من الموضوعات التالية ليس مجالاً رئيسياً يتم تناوله في ورش عمل إدارة دورة حياة التطبيقات (ALM)‬?
     choices:

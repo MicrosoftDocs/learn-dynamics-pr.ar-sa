@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-dynamics.extensions-finance-operations-power-platform
+metadata:
+  title: العمل مع ملحقات تطبيقات التمويل والعمليات وMicrosoft Power Platform
+  description: تقدم هذه الوحدة النمطية إمكانيات تطبيقات التمويل والعمليات وMicrosoft Dataverse لكيانات الكتابة المزدوجة والكيانات الظاهرية والجداول.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 09dfb5047a0ed2a548513d549ee4f12dfd24497c
+  ms.sourcegitcommit: a3e0b43823528061898a74c31cdc0bc9a68f1c42
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/03/2022
+  ms.locfileid: "8843282"
+title: العمل مع ملحقات تطبيقات التمويل والعمليات وMicrosoft Power Platform
+summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة النمطية إمكانيات تطبيقات التمويل والعمليات وMicrosoft Dataverse لكيانات الكتابة المزدوجة والكيانات الظاهرية والجداول. علاوةً على ذلك، تقوم بمراجعة تجربة التطوير لتطوير كيانات مخصصة جديدة أو توسيع كيانات موجودة. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة الجوانب التقنية والتطويرية للكتابة المزدوجة. \n-   التعرف على مفاتيح تكامل الكتابة المزدوجة وتجريد الشركات وتمهيد بيانات Microsoft Dataverse.\n-   التعرف على إدارة دورة حياة التطبيق (ALM) وإدارة دورة حياة البيئة (ELM) للتطبيقين اللذين يشتملان على الكتابة المزدوجة.\n-   استكشاف استخدام عوامل التصفية في تطبيقات التمويل والعمليات وDataverse.\n-   استكشاف سيناريوهات معالجة أخطاء المزامنة الأولية والمزامنة المباشرة.\n-   استكشاف أفضل الممارسات والأنماط والسيناريوهات المضادة للأنماط الخاصة بالمزامنة الأولية وpiggybacking والمشغلات المخصصة والمزيد.\n"
+prerequisites: "- المعرفة المتقدمة بتطبيقات التمويل والعمليات \n- المعرفة المتقدمة بتطبيق Microsoft Power Platform \n-   المعرفة المتقدمة بتطبيقات تفاعل العميل\n-   المعرفة بتطبيق Microsoft Dataverse\n-   المعرفة بكيانات البيانات في تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات \n-   المعرفة بإمكانات تكامل Microsoft Dynamics 365 Lifecycle Services \n-   المعرفة بتكنولوجيا واجهة برمجة التطبيقات (API)‬ و‏‫استدعاءاتها\n"
+iconUrl: /learn/achievements/extensions-finance-operations-power-platform.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- administrator
+- developer
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-scm
+- dynamics-finance-operations
+- dynamics-commerce
+- common-data-service
+subjects:
+- cross-development
+- development-tools
+units:
+- learn-dynamics.extensions-finance-operations-power-platform.introduction
+- learn-dynamics.extensions-finance-operations-power-platform.integration-keys
+- learn-dynamics.extensions-finance-operations-power-platform.company-striping
+- learn-dynamics.extensions-finance-operations-power-platform.application-lifecycle-management
+- learn-dynamics.extensions-finance-operations-power-platform.error-handling
+- learn-dynamics.extensions-finance-operations-power-platform.patterns
+- learn-dynamics.extensions-finance-operations-power-platform.exercise-add-segment
+- learn-dynamics.extensions-finance-operations-power-platform.check
+- learn-dynamics.extensions-finance-operations-power-platform.summary
+badge:
+  uid: learn-dynamics.extensions-finance-operations-power-platform.badge

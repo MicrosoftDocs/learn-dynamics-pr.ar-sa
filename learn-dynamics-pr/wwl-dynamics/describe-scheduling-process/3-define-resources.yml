@@ -4,17 +4,17 @@ title: تحديد الموارد
 metadata:
   title: تحديد الموارد
   description: تحديد الموارد
-  ms.date: 04/26/2022
+  ms.date: 05/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 3d9e718861683724404ad395570eca0c0ada324e
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 01b2a2a1f56ec1d2c1bb411917bf60b6cd642447
+  ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632695"
+  ms.lasthandoff: 05/26/2022
+  ms.locfileid: "8808031"
 azureSandbox: false
 labModal: false
 durationInMinutes: 4

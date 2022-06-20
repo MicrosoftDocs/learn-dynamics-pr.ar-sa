@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc3625e84017aa856ed3db03c73c8908639ce0a5f672255d92a505ea6f6c2d41
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c317bcea4b54f8c444d3262d401f647a621a5628
+ms.sourcegitcommit: 1656f84893fcbb482d53c223855528535c525877
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7440075"
+ms.lasthandoff: 06/04/2022
+ms.locfileid: "8935765"
 ---
 تم تصميم رؤى الجمهور لمساعدة المؤسسات على تقديم تجارب عملاء مخصصة من خلال توحيد بيانات العملاء عبر النطاق الكامل لمصادر البيانات لتوفير عرض واحد للعملاء. من خلال تكوين أصناف مثل المقاييس والقطاعات، يمكن لمؤسستك بناء فهم أعمق لعملائك.
 
@@ -32,7 +32,7 @@ ms.locfileid: "7440075"
 
 -   **Azure Synapse Analytics** - استخدم البيانات الموحدة من رؤى الجمهور لإنشاء التحليلات الموسعة عبر بنود أعمالك. [اعرف المزيد حول Azure Synapse Analytics](/azure/synapse-analytics/sql-data-warehouse/?azure-portal=true).
 
--   **مركز التسويق الرقمي** - أدر حضورك عبر أنظمة أساسية إعلانية وشبكات اجتماعية رائدة مثل إعلانات Google، وFacebook، وTwitter، وInstagram، وMicrosoft Advertising. [اعرف المزيد حول مركز التسويق الرقمي](https://www.microsoft.com/digital-marketing-center/?azure-portal=true).
+-   **مركز التسويق الرقمي** - أدر حضورك عبر أنظمة أساسية إعلانية وشبكات اجتماعية رائدة مثل Google Ads، وFacebook، وTwitter، وInstagram، وMicrosoft Advertising. [اعرف المزيد حول مركز التسويق الرقمي](https://www.microsoft.com/digital-marketing-center/?azure-portal=true).
 
 -   **‏‫Dynamics 365 Customer Card Add-in** - احصل على عرض شامل لعملائك داخل تطبيقات Dynamics 365. عرض المعلومات السكانية والرؤى والجداول الزمنية للأنشطة باستخدام Customer Card Add-in. [اعرف المزيد حول موصل Dynamics 365 Customer Service](/dynamics365/customer-insights/audience-insights/customer-card-add-in/?azure-portal=true).
 
@@ -44,7 +44,7 @@ ms.locfileid: "7440075"
 
 -   **موصل Facebook Ads Manager:** أنشئ جماهير مخصصة أو متشابهة على Facebook باستخدام بيانات ملف التعريف الموحدة للعملاء واستخدم الجماهير لحملاتك على Facebook وInstagram. [اعرف المزيد حول موصل Facebook Ads manager](/dynamics365/customer-insights/audience-insights/export-facebook/?azure-portal=true).
 
--   **موصل LiveRamp®** - قم بتنشيط بياناتك في LiveRamp للاتصال بأكثر من 500 نظام أساسي عبر الأنظمة البيئية الرقمية والاجتماعية والتلفزيونية. استخدم بياناتك في LiveRamp لاستهداف الحملات الإعلانية ومنعها وتخصيصها. [اعرف المزيد حول Facebook Ads Manager](/dynamics365/customer-insights/audience-insights/export-liveramp/?azure-portal=true).
+-   **موصل LiveRamp®** - قم بتنشيط بياناتك في LiveRamp للاتصال بأكثر من 500 نظام أساسي عبر الأنظمة البيئية الرقمية والاجتماعية والتلفزيونية. استخدم بياناتك في LiveRamp لاستهداف الحملات الإعلانية ومنعها وتخصيصها. [اعرف المزيد حول ®LiveRamp](/dynamics365/customer-insights/audience-insights/export-liveramp/?azure-portal=true).
 
 -   **Mailchimp** - استخدم الشرائح التي تم إنشاؤها في رؤى الجمهور لإنشاء الحملات، وتقديم تسويق عبر البريد الإلكتروني، وتحسين مجموعات محددة من العملاء باستخدام Mailchimp. [اعرف المزيد حول الاتصال بـ Mailchimp](/dynamics365/customer-insights/audience-insights/export-mailchimp/?azure-portal=true).
 
@@ -54,7 +54,7 @@ ms.locfileid: "7440075"
 
 -   **موصل Power Automate** - قم بتشغيل أحداث معينة لكي تحدث تلقائياً عند تغيير بياناتك وأدر مزيدًا من عمليات سير المهام المعقدة مباشرةً في Power Automate. [اعرف المزيد حول الاتصال بـ Power Automate](/dynamics365/customer-insights/audience-insights/export-power-automate/?azure-portal=true).
 
--   **موصل Power BI** - قم بإنشاء رسوم مرئية لبيانات رؤى الجمهور باستخدام الوظيفة الإضافية في Power BI Desktop. يمكنك إنشاء مزيد من الرؤى وإنشاء التقارير باستخدام بيانات العملاء الموحدة. [اعرف المزيد حول الاتصال بـ Power BI باستخدام Power Query](/dynamics365/customer-insights/audience-insights/export-power-bi/?azure-portal=true).
+-   **موصل Power BI** - قم بإنشاء رسوم مرئية لبيانات رؤى الجمهور باستخدام الوظيفة الإضافية في Power BI Desktop. يمكنك إنشاء مزيد من الرؤى وإنشاء التقارير باستخدام بيانات العملاء الموحدة. [اعرف المزيد حول الاتصال بـ Power BI من خلال Power Query](/dynamics365/customer-insights/audience-insights/export-power-bi/?azure-portal=true).
 
 بعد تكوين وجهة، ستكون متاحة من علامة التبويب وجهات التصدير الخاصة بي. يتيح لك ذلك إجراء أي تغييرات ضرورية على الاتصال حسب الحاجة.
 

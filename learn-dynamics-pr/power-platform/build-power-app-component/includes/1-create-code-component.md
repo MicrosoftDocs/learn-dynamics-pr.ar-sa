@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 284990045007b77c29d45f5ba1124cca4ca85565
-ms.sourcegitcommit: 16e7d8e7a467f1fe110817a0e7fe30214c934bce
+ms.openlocfilehash: caf56756401c6d9ab4b2b3f9e9e07b5aad2e3244
+ms.sourcegitcommit: 1656f84893fcbb482d53c223855528535c525877
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "8762852"
+ms.lasthandoff: 06/04/2022
+ms.locfileid: "8935764"
 ---
 يوفر Power Apps وظائف متعددة جاهزة للاستخدام من قبل منشئي التطبيقات لمساعدتهم في إنشاء تطبيقاتهم، ولكن قد تبرز في بعض الأحيان الحاجة إلى إنشاء واجهة مستخدم لم يتم توفيرها. قد تكون الأمثلة استبدال قيمة نسبة مئوية بمقياس، أو عرض كود شريطي بدلاً من معرف، أو استبدال عناصر تحكم موجودة بعناصر تتميز بوظائف أكثر - مثل طريقة عرض شبكة السحب والإفلات. يمكنك أيضاً أن تجعل Power Apps component framework يلتف حول مكونات موجودة قمت بكتابتها في إطارات عمل ويب أخرى، مثل React أو Angular.
 
@@ -175,7 +175,7 @@ npm run build
 
 1. فوق الأسلوب **constructor**، أدخل المتغيرات الخاصة التالية:
 
-    ```csharp
+    ```TypeScript
     // The PCF context object\
     private context: ComponentFramework.Context<IInputs>;
     // The wrapper div element for the component\
@@ -194,7 +194,7 @@ npm run build
 
 1. حدد موقع الأسلوب **init** واستبدله بالأسلوب أدناه.
 
-    ```csharp
+    ```TypeScript
     public init(context: ComponentFramework.Context<IInputs>, notifyOutputChanged: () => void, state: ComponentFramework.Dictionary, container: HTMLDivElement) {
 
     // Track all the things
@@ -207,14 +207,14 @@ npm run build
     
     this.isEditMode = false;
     
-    this.buttonClickHandler = this.buttonClickHandler.bind(this);
+    this.buttonClickHandler = this.buttonClick.bind(this);
     
     }
     ```
 
 1. أضف القصاصة البرمجية أدناه إلى الأسلوب **init‎**. سوف تنشئ القصاصة البرمجية هذه النطاق الذي سيحتوي علي رسالة الترحيب.
 
-    ```csharp
+    ```TypeScript
     // Create the span element to hold the hello message
     
     const message = document.createElement("span");
@@ -224,7 +224,7 @@ npm run build
 
 1. أضف القصاصة البرمجية أدناه إلى الأسلوب **init‎**. ستقوم هذه التعليمات البرمجية بإنشاء مربع نص لتحرير الاسم.
 
-    ```csharp
+    ```TypeScript
     // Create the textbox to edit the name
     
     const textbox = document.createElement("input");
@@ -236,14 +236,14 @@ npm run build
 
 1. أضف عبارة if التالية إلى الأسلوب **init‎**.
 
-    ```csharp
+    ```TypeScript
     if (context.parameters.Name.raw) {
     }
     ```
 
 1. أضف القصاصة البرمجية أدناه داخل عبارة **if‎**. ستقوم هذه القصاصة البرمجية بتعيين قيمة مربع النص وبتضمين مربع النص والرسالة في div.
 
-    ```csharp
+    ```TypeScript
     textbox.value = context.parameters.Name.raw;
     
     // Wrap the two above elements in a div to box out the content
@@ -257,7 +257,7 @@ npm run build
 
 1. أضف القصاصة البرمجية أدناه داخل عبارة **if‎**. ستقوم هذه القصاصة البرمجية بإنشاء زر سيبدّل بين وضعي التحرير والقراءة.
 
-    ```csharp
+    ```TypeScript
    // Create the button element to switch between edit and read modes
     
     const button = document.createElement("button");
@@ -269,7 +269,7 @@ npm run build
 
 1. أضف القصاصة البرمجية أدناه داخل عبارة **if‎**. ستضيف هذه القصاصة البرمجية حاوية الرسالة بالإضافة إلى زر إلى الحاوية الرئيسية.
 
-    ```csharp    
+    ```TypeScript    
     // Add the message container and button to the overall control container
     
     this.container.appendChild(messageContainer);
@@ -283,26 +283,26 @@ npm run build
 
 1. أضف أسلوب معالج تحديد الزر. أضف الأسلوب التالي أسفل الأسلوب **init‎**.
 
-    ```csharp
+    ```TypeScript
     public buttonClick() {
     }
     ```
 
 1. أضف القصاصة البرمجية أدناه داخل الأسلوب **buttonClick**. ستحصل هذه القصاصة البرمجية على عناصر التحكم عن طريق استعلامات DOM.
 
-    ```c#
+    ```TypeScript
     // Get our controls via DOM queries
     
-    const textbox = this.container.querySelector("input");
+    const textbox = this.container.querySelector("input")!;
     
-    const message = this.container.querySelector("span");
+    const message = this.container.querySelector("span")!;
     
-    const button = this.container.querySelector("button");
+    const button = this.container.querySelector("button")!;
     ```
 
 1. أضف القصاصة البرمجية أدناه داخل الأسلوب **buttonClick**. ستنسخ هذه القصاصة البرمجية القيمة النصية إلى الاسم والاستدعاء إلى الأسلوب notify إذا كان في وضع التحرير.
 
-    ```c#
+    ```TypeScript
     // If not in edit mode, copy the current name value to the textbox
 
     if (!this.isEditMode) {
@@ -321,7 +321,7 @@ npm run build
 
 1. أضف القصاصة البرمجية أدناه داخل الأسلوب **buttonClick**. ستقوم هذه القصاصة البرمجية بعكس علامة الوضع.
 
-    ```c#
+    ```TypeScript
     // flip the mode flag
     this.isEditMode = !this.isEditMode;
   
@@ -329,7 +329,7 @@ npm run build
 
 1. أضف القصاصة البرمجية أدناه داخل الأسلوب **buttonClick**. ستقوم هذه القصاصة البرمجية بإعداد إخراج جديد بالاستناد إلى التغييرات.
 
-    ```csharp
+    ```TypeScript
     // Set up the new output based on changes
 
     message.innerText = `Hello ${this.isEditMode ? "" : this.name}`;
@@ -348,7 +348,7 @@ npm run build
 
 1. حدد موقع الأسلوب **updateView‎** واستبدله بالأسلوب أدناه.
 
-    ```csharp
+    ```TypeScript
         public updateView(context: ComponentFramework.Context<IInputs>): void {
 
      // Checks for updates coming in from outside
@@ -361,7 +361,7 @@ npm run build
 
 1. حدد موقع الأسلوب **getOuptuts‎** واستبدله بالأسلوب أدناه.
 
-    ```c#
+    ```TypeScript
     public getOutputs(): IOutputs {
     return {
     // If our name variable is null, return undefined instead
@@ -372,7 +372,7 @@ npm run build
 
 1. حدد موقع الأسلوب destroy واستبدله بالأسلوب أدناه.
 
-    ```c#
+    ```TypeScript
     public destroy() {
     // Remove the event listener we created in init
    this.container.querySelector("button")!.removeEventListener("click", this.buttonClickHandler);

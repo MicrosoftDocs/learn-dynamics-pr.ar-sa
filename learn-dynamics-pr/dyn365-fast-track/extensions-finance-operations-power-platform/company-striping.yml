@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extensions-finance-operations-power-platform.company-striping
+title: تقسيم الشركة
+metadata:
+  title: تقسيم الشركة
+  description: تعلم كيف أن مفاتيح التكامل هي مفهوم تقسيم الشركة.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5d33cf96f6889acc25303a2827bce216045694c9
+  ms.sourcegitcommit: 15d65295c1240630d69e5e451d1d01f3337489a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8840186"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/company-striping.md)]"

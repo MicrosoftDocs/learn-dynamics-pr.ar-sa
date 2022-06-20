@@ -3,20 +3,29 @@ uid: learn-dynamics.integrate-common-data-service-azure-solutions
 metadata:
   title: تكامل حلول Azure في Microsoft Dataverse
   description: الحصول على نظرة عامة متعمقة في الخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.
-  ms.date: 01/03/2020
+  ms.date: 06/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 9d188ec8e17b2e49b877149a674899df7526e33c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: bf473c36c1d36a9c8af3c546b108301b4059d178
+  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750402"
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8841313"
 title: تكامل حلول Azure في Dataverse
-summary: "[!include[](../includes/module-banner.md)] \n\nالحصول على نظرة عامة متعمقة في الخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر أحداث Dataverse إلى ناقل خدمة Microsoft Azure.\n- كتابة وحدة إصغاء حدث ناقل الخدمة التي تستخدم أحداث Dataverse. \n"
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+
+  الحصول على نظرة عامة متعمقة في الخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - نشر أحداث Dataverse إلى ناقل خدمة Microsoft Azure.
+
+  - كتابة وحدة إصغاء حدث ناقل الخدمة التي تستخدم أحداث Dataverse.
 prerequisites: بلا
 iconUrl: /learn/achievements/integrate-common-data-service-azure-solutions.svg
 levels:

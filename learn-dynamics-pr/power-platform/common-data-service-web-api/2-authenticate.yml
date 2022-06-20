@@ -4,16 +4,16 @@ title: المصادقة مقابل Microsoft Dataverse باستخدام OAuth
 metadata:
   title: المصادقة مقابل Dataverse باستخدام OAuth
   description: تعرف على كيفية المصادقة مقابل Dataverse باستخدام OAuth.
-  ms.date: 12/31/2019
+  ms.date: 06/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 3647d6434a98094591f6182beab8dabf3215ced7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 37c094f66391e21aa0e279b9b865cc43096f3236
+  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457379"
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8841319"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-authenticate.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa0237b25e6472cda749d6d81a6fc0ee7183ce59
-ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+ms.openlocfilehash: 1ec81a90354da66c0d5d2000e393946c153530a6
+ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "8614860"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "8808076"
 ---
 عرضت هذه الوحدة إمكانات إدارة الجدولة والأصول في Dynamics 365 Field Service. 
 
@@ -46,9 +46,9 @@ ms.locfileid: "8614860"
 
 - [التعليم الإرشادي](https://powerapps.microsoft.com/guided-learning/)
 
-- [الترخيص / التسعير](https://powerapps.microsoft.com/pricing/)
+- [الترخيص/التسعير](https://powerapps.microsoft.com/pricing/)
 
-- [المشكلات المعروفة](/powerapps/common-issues-and-resolutions) | [عرض / الإبلاغ عن المشكلات](https://powerusers.microsoft.com/t5/General-Discussion/bd-p/PowerAppsForum1) | [إنشاء تذكرة دعم](https://powerapps.microsoft.com/support/)
+- [المشكلات المعروفة](/powerapps/common-issues-and-resolutions) | [عرض/الإبلاغ عن المشكلات](https://powerusers.microsoft.com/t5/General-Discussion/bd-p/PowerAppsForum1) | [إنشاء تذكرة دعم](https://powerapps.microsoft.com/support/)
 
  
 

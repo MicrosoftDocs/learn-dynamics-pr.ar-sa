@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extensions-finance-operations-power-platform.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: ستتعرّف في هذه الوحدة النمطية على مختلف عوامل التصفية وتحويلات البيانات والمزيد من العمليات والجوانب التي يمكنك استخدامها لتعيينات كيانات الكتابة المزدوجة وإدارة الأخطاء وما إلى ذلك.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1029aa72d28302c1843a5e96a530e41d7b942cbd
+  ms.sourcegitcommit: 15d65295c1240630d69e5e451d1d01f3337489a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8840181"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/introduction.md)]"

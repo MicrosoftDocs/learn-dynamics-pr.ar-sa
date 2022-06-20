@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extensions-finance-operations-power-platform.error-handling
+title: معالجة الأخطاء
+metadata:
+  title: معالجة الأخطاء
+  description: تعرّف على معالجة الأخطاء في سيناريوهات مختلفة وإجراءات الكتابة المزدوجة.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 717b00e944a97fe0da8ff7224e356d7831a32336
+  ms.sourcegitcommit: 15d65295c1240630d69e5e451d1d01f3337489a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8840185"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/error-handling.md)]"

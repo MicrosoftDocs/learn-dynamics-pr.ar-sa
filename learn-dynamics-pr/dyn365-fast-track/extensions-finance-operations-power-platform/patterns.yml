@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extensions-finance-operations-power-platform.patterns
+title: الأنماط
+metadata:
+  title: الأنماط
+  description: تقدم هذه الوحدة الأنماط الشائعة (أفضل الممارسات) التي تمت ملاحظتها بين العملاء واستخدام الكتابة المزدوجة لتوفير فهم أفضل للآثار الواقعية واستخدامات التكامل.
+  ms.date: 05/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f804e8cf538d52231f54b5ae5131ce6bb1799153
+  ms.sourcegitcommit: 15d65295c1240630d69e5e451d1d01f3337489a8
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8840208"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/patterns.md)]"

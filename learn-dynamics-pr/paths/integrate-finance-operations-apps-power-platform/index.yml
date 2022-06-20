@@ -1,0 +1,57 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.integrate-finance-operations-apps-power-platform
+metadata:
+  title: تكامل تطبيقات التمويل والعمليات مع Microsoft Power Platform
+  description: تعرف على كيفية تنفيذ حلول Dynamics 365 الممتدة عبر تطبيقات التمويل والعمليات وتفاعل العميل، بالإضافة إلى الكتابة المزدوجة والكيانات الظاهرية.
+  ms.date: 06/01/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance-operations
+  ms.openlocfilehash: e445dd9cc708dd214cb7aa998644ef167ee60b85
+  ms.sourcegitcommit: a3e0b43823528061898a74c31cdc0bc9a68f1c42
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/03/2022
+  ms.locfileid: "8843292"
+title: تكامل تطبيقات التمويل والعمليات مع Microsoft Power Platform
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  يسمح مسار التعليم هذا للشركاء بتنفيذ حلول Dynamics 365 الممتدة عبر تطبيقات التمويل والعمليات وتفاعل العميل. وهو ويتضمن أيضاً إمكانيات قياسية عبر التطبيقات بما في ذلك الكتابة المزدوجة والكيانات الظاهرية وكيف تكمل بعضها البعض.
+prerequisites: >
+  - المعرفة بتطبيقات التمويل والعمليات
+
+  - المعرفة بتطبيق Microsoft Power Platform
+
+  - المعرفة بتطبيق Microsoft Dataverse
+
+  - المعرفة بكيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات
+
+  - المعرفة بإمكانات تكامل Microsoft Dynamics 365 Lifecycle Services
+iconUrl: /learn/achievements/integrate-finance-operations-apps-power-platform.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- administrator
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+- dynamics-commerce
+- common-data-service
+- dynamics-human-resources
+subjects:
+- business-applications
+modules:
+- learn-dynamics.get-started-integrate-finance-operations-power-platform
+- learn-dynamics.key-concepts-integrate-finance-operations-power-platform
+- learn-dynamics.harmonize-business-concepts-finance-operations-power-platform
+- learn-dynamics.tools-finance-operations-power-platform
+- learn-dynamics.extensions-finance-operations-power-platform
+trophy:
+  uid: learn-dynamics.integrate-finance-operations-apps-power-platform.trophy

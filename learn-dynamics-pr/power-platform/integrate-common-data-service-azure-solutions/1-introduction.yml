@@ -4,16 +4,19 @@ title: نظرة عامة على حلول Microsoft Dataverse Azure
 metadata:
   title: نظرة عامة على حلول Dataverse Azure
   description: تعرف على حلول Dataverse Azure.
-  ms.date: 01/03/2020
+  ms.date: 06/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 7dc17a4739584cb804b999fac259efc9da116c62
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3ebbc86957b15c2a476c4571968f29c6682e5499
+  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457576"
+  ms.lasthandoff: 06/02/2022
+  ms.locfileid: "8841399"
 durationInMinutes: 10
-content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-introduction.md)]"
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-introduction.md)]
