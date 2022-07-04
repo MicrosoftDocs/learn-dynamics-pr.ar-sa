@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.data-sources
+title: الاتصال والمصادقة مع مصادر البيانات
+metadata:
+  title: الاتصال والمصادقة مع مصادر البيانات
+  description: تعرّف على كيفية الاتصال والمصادقة مع مصادر البيانات.
+  ms.date: 06/16/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 82d1c61eb5b4ac60244767fcf23c59ee31addb41
+  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9022870"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/data-sources.md)]

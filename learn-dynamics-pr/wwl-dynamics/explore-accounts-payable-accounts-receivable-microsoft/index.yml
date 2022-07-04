@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance
 metadata:
-  title: استكشف حسابات المدفوعات وحسابات المقبوضات في Microsoft Dynamics 365 Finance
-  description: استكشف حسابات المدفوعات وحسابات المقبوضات في Microsoft Dynamics 365 Finance
-  ms.date: 10/06/2021
+  title: استكشف حسابات المدفوعات وحسابات المقبوضات في Dynamics 365 Finance
+  description: استكشف حسابات المدفوعات وحسابات المقبوضات في Dynamics 365 Finance
+  ms.date: 06/17/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 8ae893a93cafeea698ab4f08f74babed53e1e624
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 7acf90c58ac50bca88143526d5f5a16823df306b
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752832"
-title: استكشف حسابات المدفوعات وحسابات المقبوضات في Microsoft Dynamics 365 Finance
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9024471"
+title: استكشف حسابات المدفوعات وحسابات المقبوضات في Dynamics 365 Finance
 summary: تستكشف هذه الوحدة النمطية إمكانات Microsoft Dynamics 365 Finance لإدارة العمليات المحاسبية التي ينطوي عليها الدفع للموردين أو الموزعين مقابل الخدمات المستلمة وتلقي المدفوعات مقابل البضائع أو الخدمات المقدمة.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
@@ -44,8 +44,8 @@ units:
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.introduction
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-core-accounts-payable-components
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-vendor-payments-settlements
-- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.exercise-create-vendor-payment-journal
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-core-components
+- learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.exercise-create-free-text-invoice
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.explore-credit-collection-processes
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.knowledge-check
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance.summary

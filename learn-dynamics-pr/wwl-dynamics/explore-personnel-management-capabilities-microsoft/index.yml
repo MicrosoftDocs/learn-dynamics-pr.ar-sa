@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-personnel-management-capabilities-of-microsoft-dynamics-365-human
 metadata:
-  title: استكشاف إمكانات إدارة العاملين في Microsoft Dynamics 365 Human Resources
-  description: استكشاف إمكانات إدارة العاملين في Microsoft Dynamics 365 Human Resources
-  ms.date: 07/15/2021
+  title: استكشاف إمكانات إدارة الأفراد في Dynamics 365 Human Resources
+  description: استكشاف إمكانات إدارة الأفراد في Dynamics 365 Human Resources
+  ms.date: 06/20/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-human-resources
-  ms.openlocfilehash: 8424b5abceb5eb49208f266f54eaa994c04beb67
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.prod: learning-d365
+  ms.openlocfilehash: ead9ac2db8ae2fca3111291e93756351c35a3360
+  ms.sourcegitcommit: 4b4b1bba9a2bd140f82ed4c36b363420921f41ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748635"
-title: استكشاف إمكانات إدارة العاملين في Microsoft Dynamics 365 Human Resources
+  ms.lasthandoff: 06/20/2022
+  ms.locfileid: "9032083"
+title: استكشاف إمكانات إدارة الأفراد في Dynamics 365 Human Resources
 summary: تعرفك هذه الوحدة على إمكانات إدارة الأفراد وتخطيط القوى العاملة في Microsoft Dynamics 365 Human Resources. استكشف الخدمة الذاتية للموظفين، وإدارة التدريب والشهادات، وادعم عملية التوظيف لديك باستخدام LinkedIn Talent Solutions.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:

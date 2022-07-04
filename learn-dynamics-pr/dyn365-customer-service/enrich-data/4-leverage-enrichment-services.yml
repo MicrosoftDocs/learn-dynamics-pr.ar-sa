@@ -4,15 +4,15 @@ title: استخدام خدمات إثراء البيانات
 metadata:
   title: استخدام خدمات إثراء البيانات
   description: تعرّف على كيفية استخدام خدمات الشركاء لإثراء بياناتك باستخدام الخصائص السكانية وتفاصيل الموقع والشركة.
-  ms.date: 06/29/2021
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d00691b6bda2cf357fb7498d0bd4a0fe4c53712d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1755b4cd061baccbcaeebb9e68600e60cdd412c2
+  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364405"
+  ms.lasthandoff: 06/08/2022
+  ms.locfileid: "8944597"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-leverage-enrichment-services.md)]"

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: fe83be878baed557d32e5a740c605fdcea327d23
-ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+ms.openlocfilehash: 51d65f681c81ca59ad32dfa63b38a7486361dc56
+ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "7900579"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "9021524"
 ---
-لإرسال طلب إلى خدمة Dynamics 365 Fraud Protection، تأكد من استدعاء نقطة النهاية الصحيحة على خدمة Dynamics 365 Fraud Protection لبيئة التكامل أو التشغيل، كما تقتضي الحاجة. يمكنك اختيار نقطة نهاية لاستخدامها من إعلام تغيير وSwagger API من خلال الانتقال إلى واجهة API‎ في [Dynamics 365 Fraud Protection](https://apidocs.microsoft.com/services/dynamics365fraudprotection/?azure-portal=true).
+لإرسال طلب إلى خدمة Dynamics 365 Fraud Protection، تأكد من استدعاء نقطة النهاية الصحيحة على خدمة Dynamics 365 Fraud Protection لبيئة التكامل أو التشغيل، كما تقتضي الحاجة. يمكنك اختيار نقطة نهاية لاستخدامها من إعلام تغيير وSwagger API من خلال الانتقال إلى واجهة API‎ في [Dynamics 365 Fraud Protection](/fraud-protection-rest/api/fraud-protection-rest/).
 
 لأغراض تتعلق بهذه الوحدة النمطية، ستتنقل عبر عملية استدعاء إحدى واجهات API لحماية المشتريات كمثال. 
 
@@ -23,7 +23,7 @@ ms.locfileid: "7900579"
     يذكر مستند Swagger أيضاً تفاصيل حول الرؤوس والحمولة التي يمكنك استخدامها والاستجابة التي يمكنك توقعها.
 
 2.  استخدم تطبيق Postman (أو أي عميل تختاره) لإرسال طلب الشراء إلى Dynamics 365 Fraud Protection. أرسل **طلب POST**، كما يظهر في الصورة التالية.
-    - في حقل **URL**، أدخل **{{نقطة نهاية API}}{{نقطة النهاية النسبية}}**.
+    - في حقل **URL**، أدخل **{{API Endpoint}}{{Relative Endpoint}}**.
     - حدد **تخويل**، وضمن **النوع**، حدد **الرمز المميز للحامل**.
     - أدخل قيمة الرمز المميز التي تلقيتها في الطلب السابق. 
 

@@ -1,22 +1,22 @@
 ### YamlMime:LearningPath
 uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 metadata:
-  title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Project Operations'
-  description: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Project Operations'
-  ms.date: 10/05/2021
+  title: تعلُّم أساسيات Dynamics 365 Project Operations
+  description: تعلُّم أساسيات Dynamics 365 Project Operations
+  ms.date: 06/17/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 82f60ac286ad80c746de070b7bec6a0553923cd9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 1aaeaf9e8beb3e78406ca39966d60f43e48bce7d
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752241"
-title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Project Operations'
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025100"
+title: تعلُّم أساسيات Dynamics 365 Project Operations
 prerequisites: >
-  يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+  يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
   هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، بالإضافة إلى كل من تطبيقات Dynamics 365 finance and operations. ابدأ بمسار التعلم هذا للتعرف على مكونات ERP في Dynamics 365 Project Operations.
 iconUrl: /learn/achievements/dynamics-project-operations.svg
@@ -32,7 +32,6 @@ products:
 subjects:
 - business-applications
 modules:
-- learn.wwl.get-introduced-finance-operations-apps
 - learn.wwl.identify-project-operations-capabilities
 - learn.wwl.explore-project-planning-execution-capabilities
 trophy:

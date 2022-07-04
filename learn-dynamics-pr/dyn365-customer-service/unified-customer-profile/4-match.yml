@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.unified-customer-profile.4-match
-title: مطابقة البيانات
+title: تحديد شروط المطابقة
 metadata:
-  title: مطابقة البيانات
-  description: تعرف على كيفية توحيد البيانات عن طريق المطابقة.
-  ms.date: 05/31/2022
+  title: تحديد شروط المطابقة
+  description: تعرّف على كيفية تحديد شروط المطابقة.
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: customer-insights
-  ms.openlocfilehash: d67dcafbf8dc4deed22b2cc8d05930ef5368cb2e
-  ms.sourcegitcommit: 15d65295c1240630d69e5e451d1d01f3337489a8
+  ms.openlocfilehash: c50a2d982da568b9ddb87cc2ea2190bcc7bf79af
+  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2022
-  ms.locfileid: "8839914"
+  ms.lasthandoff: 06/10/2022
+  ms.locfileid: "8948574"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

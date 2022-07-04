@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 1e242fb7e4792e780d47161ade765b739c60fc303d15bc97e83c2853167043a8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d3449fc44b3e5c02b9d3aabc99fd1867e051b6c5
+ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7582695"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "9021543"
 ---
-يوفر نموذج تطبيق التاجر Microsoft Dynamics 365 Fraud Protection مثالاً على كيفية استدعاء [واجهات API لـ Dynamics 365 Fraud Protection](https://apidocs.microsoft.com/services/dynamics365fraudprotection/?azure-portal=true). قد يكون نموذج التطبيق هذا مفيداً إذا كنت تتكامل مع واجهات API لـ Fraud Protection أو إذا كنت تريد معرفة كيفية دمج نقاط نهاية/ميزات API الجديدة عند توفر إصدارات جديدة من API. 
+يوفر نموذج تطبيق التاجر Microsoft Dynamics 365 Fraud Protection مثالاً على كيفية استدعاء [واجهات API لـ Dynamics 365 Fraud Protection](/dynamics365/fraud-protection/). قد يكون نموذج التطبيق هذا مفيداً إذا كنت تتكامل مع واجهات API لـ Fraud Protection أو إذا كنت تريد معرفة كيفية دمج نقاط نهاية/ميزات API الجديدة عند توفر إصدارات جديدة من API. 
 
 يعتمد معظم نموذج الرمز على تطبيق [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb/?azure-portal=true). لذلك، قبل تشغيل الحل، تأكد من تثبيت NET Core SDK. الإصدار 3.1 أو إصدار أحدث على جهازك. 
 

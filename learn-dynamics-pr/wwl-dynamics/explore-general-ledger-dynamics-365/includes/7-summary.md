@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f3c0bf69947743898a4f48e54da0be66fe4a7365915d1512d350c3f87ae1f9f4
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 351d3e7f6e804b509d79d4b59eb811fac3fdab66
+ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438252"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "9021364"
 ---
 يستخدم Microsoft Dynamics 365 Finance مخططات الحسابات لتوفير تحليل سهل الفهم لجميع الحركات المالية التي أجرتها الشركة خلال فترة محاسبية محددة.
 
@@ -22,9 +22,9 @@ ms.locfileid: "7438252"
 
 الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
-- وصف مخططات الحسابات، بما في ذلك الحسابات الرئيسية، والميزانيات العمومية، وبيانات الإيرادات.
+- وصف مخططات الحسابات، بما في ذلك الحسابات الرئيسية، والميزانيات العمومية، وبيانات الإيرادات. 
 
-- وصف الأبعاد المالية ومفاهيم مجموعة الأبعاد.
+- وصف الأبعاد المالية ومفاهيم مجموعة الأبعاد. 
 
 - وصف العمليات المالية الدورية.
 
@@ -32,17 +32,39 @@ ms.locfileid: "7438252"
 
 استخدم هذه الموارد لاكتشاف المزيد.
 
+- [تخطيط دليل الحسابات](/dynamics365/finance/general-ledger/plan-chart-of-accounts)
+
+- [الأبعاد المالية](/dynamics365/finance/general-ledger/financial-dimensions)
+
+- [الأبعاد المالية والترحيل](/dynamics365/finance/general-ledger/default-dimensions)
+
+- [ترحيل دفاتر اليومية الدورية](/dynamics365/finance/general-ledger/tasks/post-periodic-journals)
+
+
+لمزيد من الدراسة:
+
+- [تحديد مخططات الحسابات](/learn/modules/explore-general-ledger-dynamics-365/2-identify-charts-of-accounts)
+
+- [تخطيط دليل الحسابات](/learn/modules/configure-chart-accounts-dyn365-finance/2-chart-accounts)
+
+- [استكشاف الأبعاد المالية ومفاهيم مجموعة الأبعاد](/learn/modules/explore-general-ledger-dynamics-365/3-explore-financial-dimensions-set-concepts)
+
+- [تعريف الأبعاد المالية وتكوينها](/learn/modules/configure-chart-accounts-dyn365-finance/10-configure)
+
 - [تكوين إقفال الفترة المالية](/learn/modules/configure-periodic-processes-dyn365-finance/01-financial-period-close)
 
 - [تقرير نهاية العام رقم 1099](/learn/modules/configure-periodic-processes-dyn365-finance/03-year-end-1099)
 
 - [إعداد التقارير المالية](/learn/modules/work-analytics-reporting-finance-operations/3-financial-reporting/)
 
-- [معالجة إقفال نهاية السنة](/learn/modules/configure-periodic-processes-dyn365-finance/05-end-year-close)
+- [الإعداد لإقفال نهاية السنة](/learn/modules/configure-periodic-processes-dyn365-finance/05-end-year-close)
 
-- [إجراء عمليات الدمج المالية](/learn/modules/configure-periodic-processes-dyn365-finance/06-consolidations)
+- [التوحيد بين الشركات الشقيقة](/learn/modules/configure-periodic-processes-dyn365-finance/06-consolidations)
 
 - [تكوين دفتر الأُستاذ العام واستخدامه في Dynamics 365 Finance](/learn/paths/configure-use-general-ledger-dyn365-finance/)
 
-- [عمليات الصيانة لعمليات النشر](/dynamics365/fin-ops-core/dev-itpro/deployment/maintenanceoperationsguide-newinfrastructure)
+- [استكشاف العمليات المالية الدورية](/learn/modules/explore-general-ledger-dynamics-365/4-explore-periodic-financial-processes)
 
+- [الاحتفاظ بفترات مؤسستك](/learn/modules/create-fiscal-calendars-years-periods-dyn365-finance/6-periods)
+
+- [إعداد مساحة عمل الفترة المالية وجدول الإقفال](/learn/modules/configure-periodic-processes-dyn365-finance/01-financial-period-close)

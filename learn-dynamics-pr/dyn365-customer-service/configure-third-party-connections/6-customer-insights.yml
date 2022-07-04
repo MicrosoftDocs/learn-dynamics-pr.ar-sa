@@ -4,15 +4,18 @@ title: استخدام واجهات برمجة التطبيقات (API) من Cust
 metadata:
   title: استخدام واجهات برمجة التطبيقات (API) من Customer Insights
   description: تعرف على كيفية استخدام واجهات برمجة التطبيقات (API) من Customer Insights.
-  ms.date: 12/13/2021
+  ms.date: 05/31/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8e44b7fa0db7218f33c304f9471590130d06d62f
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: 4d959e2d3d1161736e4cbf39b3c0425a028db8f7
+  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933406"
-durationInMinutes: 4
-content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-customer-insights.md)]"
+  ms.lasthandoff: 06/08/2022
+  ms.locfileid: "8944443"
+durationInMinutes: 6
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/6-customer-insights.md)]

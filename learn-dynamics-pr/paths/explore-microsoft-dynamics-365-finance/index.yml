@@ -1,20 +1,20 @@
 ### YamlMime:LearningPath
 uid: learn.wwl.explore-microsoft-dynamics-365-finance
 metadata:
-  title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Finance'
-  description: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Finance'
-  ms.date: 10/05/2021
+  title: تعرّف على أساسيات Dynamics 365 Finance
+  description: تعرّف على أساسيات Dynamics 365 Finance
+  ms.date: 06/17/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 75a9e5fa5808f3c7df29e93592a1793a65752d22
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 4d1226964bf04071a817d1de69302bc34b74b295
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752250"
-title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Finance'
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025109"
+title: تعرّف على أساسيات Dynamics 365 Finance
 prerequisites: >
   يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
@@ -33,7 +33,6 @@ products:
 subjects:
 - finance-accounting
 modules:
-- learn.wwl.get-introduced-finance-operations-apps
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities
 - learn.wwl.explore-general-ledger-dynamics-365
 - learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance

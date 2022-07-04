@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7cb7ff9aa57804f2968b26eb3f1fb2ce96f27af7
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: ab4949230b5704559c498c12b773eb07c6b66ab7
+ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548778"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "9013893"
 ---
 عند إنشاء معالجات أحداث واستخدام واجهة برمجة تطبيقات البرمجة النصية الخاصة بالعميل، يجب عليك فهم كائنات السياق المتوفرة وكيفية استخدامها. الغرض من كائنات السياق هو تزويدك بمعلومات حول السياق الذي يتم خلاله تنفيذ الكود الخاص بك. وهذا بحيث لا تضطر إلى الترميز الثابت للمعلومات الموجودة في المنطق الخاص بك. ويسمح لك هذا بإنشاء وظائف تكون عامة بدرجة أكبر ويجعل وظائفك أقل حساسية إلى بنية تخطيط معينة من مكونات واجهة المستخدم التي تتعامل معها.
 
@@ -33,13 +33,13 @@ ms.locfileid: "8548778"
 
 وقبل اعتماد سياق النموذج، يتم استخدام كائن Xrm.Page العمومي لتمثيل نموذج أو صنف في النموذج. باستخدام أحدث إصدار ، يتم إهمال الكائن Xrm.Page ، ويجب استخدام الأسلوب getFormContext لكائن سياق التنفيذ الذي تم تمريره لإرجاع مرجع إلى النموذج المناسب أو إلى عنصر في النموذج. لذلك بدلاً من كتابة كود مثل الوارد أدناه.
 
-```csharp
+```javascript
 var firstName = Xrm.Page.getAttribute("firstname").getValue();
 ```
 
 بدلاً من ذلك، اكتب الكود الوارد أدناه باستخدام formContext.
 
-```csharp
+```javascript
 var formContext = executionContext.getFormContext();
 
 var firstName = formContext.getAttribute(\"firstname\").getValue();

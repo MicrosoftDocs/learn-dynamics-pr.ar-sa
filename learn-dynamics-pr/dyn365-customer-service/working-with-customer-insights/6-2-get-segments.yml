@@ -4,16 +4,16 @@ title: الحصول على شرائح مقترحة
 metadata:
   title: الحصول على شرائح مقترحة
   description: تعلم كيفية إنشاء شرائح مقترحة بناءً على المقاييس وسمات العملاء والنشاط.
-  ms.date: 12/16/2021
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 635c542d656202f9c3582da2903da3a5b447984d
-  ms.sourcegitcommit: 1c76ff0f33557a139a4ec4bdba2c8abffbe66f55
+  ms.openlocfilehash: ab9158d397fcd01bacd3c80b25845ab07c32e13e
+  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/17/2022
-  ms.locfileid: "8312814"
+  ms.lasthandoff: 06/10/2022
+  ms.locfileid: "8948533"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

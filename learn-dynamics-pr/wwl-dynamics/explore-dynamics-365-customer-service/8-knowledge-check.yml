@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 04/26/2022
+  ms.date: 06/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: e112ee3e2cfb31ee234265a94885b531eedb9e72
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: abf8fca754ee3e024cb87db92b37c5522bd712c7
+  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632623"
+  ms.lasthandoff: 06/10/2022
+  ms.locfileid: "8949032"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

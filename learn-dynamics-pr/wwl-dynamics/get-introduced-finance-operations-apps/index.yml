@@ -3,17 +3,17 @@ uid: learn.wwl.get-introduced-finance-operations-apps
 metadata:
   title: تعرف على تطبيقات المالية والعمليات
   description: تعرف على تطبيقات المالية والعمليات
-  ms.date: 10/18/2021
+  ms.date: 06/20/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 71645fce0bf3e38104a5a71586f9462de4ea6d8f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: b62b87086960aef84277afc5e627bf490e6b46dc
+  ms.sourcegitcommit: 4b4b1bba9a2bd140f82ed4c36b363420921f41ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750853"
+  ms.lasthandoff: 06/20/2022
+  ms.locfileid: "9032123"
 title: تعرف على تطبيقات المالية والعمليات
 summary: تناقش هذه الوحدة الإمكانات العامة التي تشاركها تطبيقات Microsoft Dynamics365 finance and operations، بما في ذلك إعداد التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى، مثل Microsoft Excel، وPower BI، وWord وTeams.
 abstract: >
@@ -42,21 +42,13 @@ products:
 - dynamics-finance-operations
 subjects:
 - finance-accounting
-- supply-chain-management
 - marketing-sales
+- supply-chain-management
 units:
 - learn.wwl.get-introduced-finance-operations-apps.introduction
 - learn.wwl.get-introduced-finance-operations-apps.discover-enterprise-resource-planning-erp
 - learn.wwl.get-introduced-finance-operations-apps.review-dynamics-365-use-cases
-- learn.wwl.get-introduced-finance-operations-apps.create-use-reports
-- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-exporting-excel
-- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-analyzing-data-with-power-bi
-- learn.wwl.get-introduced-finance-operations-apps.explore-microsoft-teams-integration-capabilities
-- learn.wwl.get-introduced-finance-operations-apps.integrate-dynamics-365-with-microsoft-word-excel
-- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-managing-documents-by-using-sharepoint-online
-- learn.wwl.get-introduced-finance-operations-apps.explore-email-integration-capabilities
-- learn.wwl.get-introduced-finance-operations-apps.exercise-navigate-dynamics-365
-- learn.wwl.get-introduced-finance-operations-apps.exercise-explore-workspace-filtering
+- learn.wwl.get-introduced-finance-operations-apps.exercise-navigate-finance-operations-apps
 - learn.wwl.get-introduced-finance-operations-apps.knowledge-check
 - learn.wwl.get-introduced-finance-operations-apps.summary
 badge:

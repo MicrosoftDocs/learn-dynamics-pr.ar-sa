@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-human-resources-core-capabilities.explore-workers-positions
+title: استكشاف العاملين والمناصب
+metadata:
+  title: استكشاف العاملين والمناصب
+  description: استكشاف العاملين والمناصب
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 739f2e64ea957ea1140238806b1087f45b9037b8
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025020"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/2-explore-workers-positions.md)]'

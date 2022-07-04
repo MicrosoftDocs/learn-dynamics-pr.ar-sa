@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.summary
+title: الملخص والموارد
+metadata:
+  title: الملخص والموارد
+  description: الملخص والموارد
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 197324b83b4267857f349ab4effad6edf82fc0db
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025513"
+azureSandbox: false
+labModal: false
+durationInMinutes: 1
+content: '[!include[](includes/10-summary.md)]'

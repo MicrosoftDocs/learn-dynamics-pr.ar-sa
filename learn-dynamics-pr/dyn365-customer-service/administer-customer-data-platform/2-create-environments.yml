@@ -1,18 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.administer-customer-data-platform.2-create-environments
-title: إنشاء وإعداد البيئات
+title: إنشاء البيئات وإعدادها
 metadata:
-  title: إنشاء وإعداد البيئات
-  description: قم بإنشاء وإعداد بيئات لرؤى الجمهور.
-  ms.date: 12/16/2021
+  title: إنشاء البيئات وإعدادها
+  description: إنشاء البيئات وإعدادها لتطبيق Customer Insights.
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 53dd3796bd1311dff94b06629f5d791c3ad07d84
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.openlocfilehash: adeb3525a8059b0e98bc53a0fa8b0da19c2bdb01
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8550972"
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9024870"
 durationInMinutes: 6
-content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-create-environments.md)]"
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/2-create-environments.md)]

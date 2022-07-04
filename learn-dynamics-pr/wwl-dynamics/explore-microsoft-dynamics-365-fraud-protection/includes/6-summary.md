@@ -1,24 +1,56 @@
 ---
-ms.openlocfilehash: 0bb0834052400881b8a0f313b840e5230c668c118a9da9b992fa66aa8b794aef
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: fd7b327b0719cd1384e6d017420b32aab596e06b
+ms.sourcegitcommit: 6ff9cb62ba54399590302871628170367686827d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438279"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "9010479"
 ---
-في هذه الوحدة، تعلمت كيف يقوم Dynamics 365 Fraud Protection بتقييم معاملات الشراء لتقليل خسائر الاحتيال وزيادة معدلات قبول البنوك. لقد اكتشفت أيضاً كيف يمنع الرقم Dynamics 365 Fraud Protection إنشاء الحساب غير المصرح به، وعمليات الاستحواذ على الحساب، والوصول الاحتيالي إلى الحساب، وكيف يمنع الخسارة المتعلقة بالعائدات والخصومات الاحتيالية، وتحديد مخاطر الخسارة للأعمال التجارية وتحديد الانحرافات في خصم البضائع والمرتجعات.
+يقدم Dynamics 365 Commerce حلاً قناة متعددة الاتجاهات كاملاً يوحد المكتب الخلفي والمتجر ومركز الاتصال والتجارب الرقمية. ويقوم أيضًا بتوسيع القدرة على تضمين عميل B2B من خلال القناة عبر الإنترنت. 
 
-الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
+يمكن لهذا المنتج تحفيز العملاء من خلال برامج الولاء واستخدام إمكانات التعامل مع العملاء لتحديد العملاء الأكثر ولاءً وتفضيلات التسوق الخاصة بهم. 
 
- -  صف كيف يقوم Dynamics 365 Fraud Protection " بتقييم معاملات الشراء لتقليل خسائر الاحتيال وزيادة معدلات قبول البنوك.
- -  صف كيف يمنع Dynamics 365 Fraud Protection إنشاء الحساب غير المصرح به وعمليات الاستيلاء على الحساب والوصول الاحتيالي إلى الحساب.
- -  صف كيف يمنع الرقم Dynamics 365 Fraud Protection الخسارة المتعلقة بالإرجاع والتخفيضات الاحتيالية، ويحدد مخاطر العمل والشذوذ في خصم البضائع والمرتجعات
+يمكن لبائعي التجزئة استخدام Dynamics 365 Customer Insights لجمع البيانات حول العملاء من أنظمة مختلفة ودمجها حيث يتفاعلون مع العلامة التجارية لبائع التجزئة. يمكن بعد ذلك استخدام الذكاء الاصطناعي لإنشاء تجارب مخصصة للعملاء وتقديم توصيات بشأن المنتجات. 
+
+وأخيرًا، يتكامل Dynamics 365 Fraud Protection مع Commerce، ما يعني تحسين الأمان لتجربة الشراء للعميل والمساعدة على منع الأنشطة الاحتيالية المحتملة. 
+
+الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادرًا على:
+
+- فهم إمكانات التجارة الرقمية B2B في القناة عبر الإنترنت
+
+- وصف مفاهيم الولاء والعملاء. 
+
+- وصف كيفية استخدام Dynamics 365 Commerce لـ Dynamics 365 Customer Insights 
+
+- وصف كيفية قيام Dynamics 365 Fraud Protection بتقليل الأنشطة الاحتيالية المحتملة. 
 
 ## <a name="resources"></a>الموارد
 
-### <a name="integrate-the-loss-prevention-capability-with-dynamics-365-commerce"></a>دمج قدرة منع الخسارة مع Dynamics 365 Commerce
+استخدم هذه الموارد لاكتشاف المزيد حول كيفية مفاهيم ولاء العميل:
 
- -  قم بتشغيل خدمة [Azure Data Lake Storage لبيئتك التجارية](/dynamics365/fraud-protection/loss-prevention-integration-with-commerce).
- -  قم بتشغيل [ميزة منع الخسارة في بيئة التجارة](/dynamics365/fraud-protection/loss-prevention-integration-with-commerce).
- -  أضف[حساب خدمة واشترك في الحماية من الاحتيال في بيئة التجارة الخاصة بك](/dynamics365/fraud-protection/loss-prevention-integration-with-commerce).
- -  قم بتكوين [إعدادات منع الخسارة في الحماية من الاحتيال](/dynamics365/fraud-protection/loss-prevention-integration-with-commerce).
+- [إعداد موقع تجارة إلكترونية B2B](/dynamics365/commerce/b2b/set-up-b2b-site)
+
+- [إدارة شركاء أعمال متاجرة عمل-عمل باستخدام التدرجات الهرمية للعملاء](/dynamics365/commerce/b2b/partners-customer-hierarchies) 
+
+- [إدارة العملاء في المتاجر](/dynamics365/commerce/customer-mgmt-stores) 
+
+- [نظرة عامة على قاعدة العملاء](/dynamics365/commerce/clienteling-overview) 
+
+- [نظرة عامة حول الولاء](/dynamics365/commerce/set-up-customer-loyalty-program) 
+
+- [نظرة عامة على Fraud Protection](/dynamics365/fraud-protection/overview)
+
+لمزيد من الدراسة:
+
+- ‏‫القراءة عن [إدارة الولاء](/learn/modules/manage-customer-engagement/02-loyalty-management).
+
+- [إدارة تفاعل العميل في Dynamics 365 Commerce - Learn | Microsoft Docs](/learn/modules/manage-customer-engagement/) 
+
+- [إدارة قاعدة العملاء في Dynamics 365 Commerce - Learn | Microsoft Docs](/learn/modules/manage-clienteling/) 
+
+- [الشروع في العمل باستخدام Dynamics 365 Customer Insights - Learn | Microsoft Docs](/learn/modules/get-started-customer-data-platform/) 
+
+- [الشروع في العمل باستخدام Dynamics 365 Fraud Protection - Learn | Microsoft Docs](/learn/modules/get-started-fraud-protection/)
+
+- [استخدام ميزتي حماية الحساب وحماية المشتريات والعمل معهما لـ Dynamics 365 Fraud Protection - Learn | Microsoft Docs](/learn/paths/deploy-work-account-purchase-protection/)
+

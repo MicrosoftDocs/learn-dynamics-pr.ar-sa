@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: af8f9585ec064c6f0dd5199ba5417f2a3c3e44b8
-ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+ms.openlocfilehash: af36c04e33026dd59894e70b1f7b747be752e03e
+ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "7625160"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "9014323"
 ---
 في هذا التمرين، ستستخدم البرنامج النصي للعميل لتنفيذ متطلبات العمل لإخفاء قسم الحالة عندما يكون تاريخ بدء المشروع غير متوفر أو في المستقبل.
 
@@ -124,7 +124,7 @@ ms.locfileid: "7625160"
 
 1.  أضف الدالات الموجودة أدناه إلى **FormTeamProject.js**. يجب أن يكون للدالات أسماء فريدة أو تستخدم مساحة اسم لضمان التفرد.
 
-    ```csharp
+    ```javascript
     function LearnLab_handleTeamProjectOnLoad(executionContext) {
     
     }
@@ -138,7 +138,7 @@ ms.locfileid: "7625160"
 
 1.  أضف البرنامج النصي الوارد أدناه إلى الدالة OnLoad‎. لاحظ اسم عمود بدء المشروع هنا sample\_projectstart. هذا هو الاسم المنطقي الذي قمت بحفظه سابقًا. يسجل هذا الكود معالج الأحداث onchange ويستدعي دالة مشتركة لإظهار / إخفاء القسم. يجب عليك معالجة "on change" في حالة تغيير إدخال تاريخ بدء المشروع لمتطلب الإخفاء/ الإظهار.
 
-    ```csharp
+    ```javascript
     var formContext = executionContext.getFormContext();
     formContext.getAttribute('sample_projectstart').addOnChange(LearnLab_handleProjectStatusOnChange);
     LearnLab_hideOrShowStatusSection(formContext);
@@ -149,14 +149,14 @@ ms.locfileid: "7625160"
 
 1.  أضف البرنامج النصي الوارد أدناه إلى الدالة OnChange‎. ويحصل هذا الكود ببساطة على formContext ثم يستدعي الدالة المشتركة للإخفاء/الإظهار.
 
-    ```csharp
+    ```javascript
     var formContext = executionContext.getFormContext();
     LearnLab_hideOrShowStatusSection(formContext);
     ```
 
 1. أضف البرنامج النصي الوارد أدناه إلى الدالة **hideOrShowStatusSection‎**. لاحظ أن اسم علامة التبويب هو **tab\_general** واسم القسم هو **section\_status** واسم العمود هو **sample\_projectstart**.
 
-    ```csharp
+    ```javascript
     var tabGeneral = formContext.ui.tabs.get('tab_general');
     var sectionStatus = tabGeneral.sections.get('section_status');
     var startDate = formContext.getAttribute('sample_projectstart').getValue();

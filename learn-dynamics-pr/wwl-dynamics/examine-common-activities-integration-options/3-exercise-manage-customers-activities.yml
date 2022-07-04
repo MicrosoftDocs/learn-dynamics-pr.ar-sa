@@ -4,17 +4,17 @@ title: 'التمرين: إدارة العملاء والأنشطة'
 metadata:
   title: 'التمرين: إدارة العملاء والأنشطة'
   description: 'التمرين: إدارة العملاء والأنشطة'
-  ms.date: 05/12/2022
+  ms.date: 06/20/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 274fb3b801e463dfe8f8a5f4ca837afd072af892
-  ms.sourcegitcommit: 6a5d1dca1b97565d67b787a0bb1aa622abb04b5c
+  ms.openlocfilehash: 14c8a246f23ca3232b09df8304c37a26e2f930e7
+  ms.sourcegitcommit: 4b4b1bba9a2bd140f82ed4c36b363420921f41ce
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/12/2022
-  ms.locfileid: "8747419"
+  ms.lasthandoff: 06/20/2022
+  ms.locfileid: "9032335"
 azureSandbox: true
 labModal: true
 durationInMinutes: 15

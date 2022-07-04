@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-finance-insights.budget-proposals
+title: اقتراحات الموازنة
+metadata:
+  title: اقتراحات الموازنة
+  description: تعرّف على كيفية قيام Finance insights بالمساعدة في التنبؤ بالموازنات بشكل دقيق.
+  ms.date: 06/08/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8c201e10def45b2f3a2ecca4c6e94c564080ae49
+  ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/13/2022
+  ms.locfileid: "8955780"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/budget-proposals.md)]

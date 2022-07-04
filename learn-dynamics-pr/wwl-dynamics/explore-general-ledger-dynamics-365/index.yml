@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-general-ledger-dynamics-365
 metadata:
-  title: استكشاف دفتر الأستاذ العام في Dynamics 365
-  description: استكشاف دفتر الأستاذ العام في Dynamics 365
-  ms.date: 07/15/2021
+  title: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
+  description: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
+  ms.date: 06/16/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 2472a12eb46e7fc2c8010508c8dc9b758bcb6be3
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.prod: learning-d365
+  ms.openlocfilehash: db06025e143a5a830e1d91d07af776dc895f3058
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750366"
-title: استكشاف دفتر الأستاذ العام في Dynamics 365
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021224"
+title: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
 summary: تستكشف هذه الوحدة إمكانات Microsoft Dynamics 365 Finance لإدارة العمليات المحاسبية لتصنيف أصول الشركة وخصومها وحركاتها المالية وفرزها وتخزينها وتلخيصها.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:

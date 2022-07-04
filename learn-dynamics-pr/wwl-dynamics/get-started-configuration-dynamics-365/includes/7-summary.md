@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 97c3484e76847d52ae9438173238b9f2b58e6ae8
-ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
+ms.openlocfilehash: 6ef10b6167e046f3475a1546469480529684b821
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "8756090"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954795"
 ---
 يعمل كل من Dynamics 365 وPower Platform على تمكين التحول الرقمي من خلال توفير تطبيقات الأعمال المعيارية الحديثة التي تعمل معاً على نظام أساسي واحد. تتمثل إحدى أقوى ميزات Power Platform في قدرتها على تجاوز وظائفها الجاهزة بدون رمز باستخدام إمكانات التكوين الأصلية للتطبيقات.
 
@@ -30,3 +30,4 @@ ms.locfileid: "8756090"
 
 - قراءة حول [اعتبارات ترخيص Power Platform](/power-platform/admin/pricing-billing-skus/)
 
+- قراءة حول [اعتبارات ترخيص Power Platform](/power-platform/admin/pricing-billing-skus)

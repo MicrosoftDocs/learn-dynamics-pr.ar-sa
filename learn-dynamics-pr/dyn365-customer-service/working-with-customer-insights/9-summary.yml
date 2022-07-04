@@ -3,16 +3,16 @@ uid: learn-dynamics.working-with-customer-insights.9-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص العمل مع وحدة رؤى الجمهور.
-  ms.date: 06/29/2021
+  description: ملخص العمل مع وحدة Customer Insights.
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7448dbdd1170cdc2b088c2dae2593c5a1b440392
-  ms.sourcegitcommit: 1c76ff0f33557a139a4ec4bdba2c8abffbe66f55
+  ms.openlocfilehash: 4083d2ca028937d68fac3cf188260a400607581f
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/17/2022
-  ms.locfileid: "8312894"
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9024820"
 durationInMinutes: 1
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-summary.md)]"

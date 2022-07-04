@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6db4adc1339d81ebe231853f9063486e5b850990
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 3aaaf596a6987a12a2338f9186793b40043a072a
+ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548481"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "9014023"
 ---
 يتم تشغيل منطق البرمجة النصية للعميل كمعالجات أحداث لأحداث النموذج. يجب عليك تسجيل معالجات الأحداث الخاصة بك حتى يتم تنفيذ المنطق الخاص بك. يمكن القيام بالتسجيل للأحداث الشائعة من خلال مربع حوار خصائص النموذج أو من التعليمات البرمجية. يمكن تسجيل بعض الأحداث من التعليمات البرمجية فقط. يمكن تشغيل معالجات الأحداث على عدة نماذج ولكن يجب تسجيلها بشكل منفصل لكل واحدة.
 
@@ -37,7 +37,7 @@ ms.locfileid: "8548481"
 
 -   قم بالتسجيل في خصائص نموذج العميل معالج الأحداث OnLoad.
 
-```csharp
+```javascript
 function LearnLab_handleAccountOnLoad(executionContext)
 {  
     var formContext = executionContext.getFormContext();

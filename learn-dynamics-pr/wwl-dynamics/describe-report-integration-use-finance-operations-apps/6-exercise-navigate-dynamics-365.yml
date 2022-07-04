@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-report-integration-use-finance-operations-apps.exercise-navigate-dynamics-365
+title: 'التمرين: تكامل Excel'
+metadata:
+  title: 'التمرين: تكامل Excel'
+  description: 'التمرين: تكامل Excel'
+  ms.date: 06/16/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 0d2950e41110de2bf35f4b36d6c552b810fce20d
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021742"
+azureSandbox: false
+labId: 88374
+labModal: true
+durationInMinutes: 10
+content: '[!include[](includes/6-exercise-navigate-dynamics-365.md)]'

@@ -4,15 +4,15 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: تعرف على التنبؤ بالتدفقات النقدية في Microsoft Dynamics 365 Finance.
-  ms.date: 04/29/2022
+  ms.date: 06/16/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a98651c131866c7d13a6f05985e149cc637ae2f4
-  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.openlocfilehash: 308c1d7f112f8f829b3d7760f5e011f1e0417ca0
+  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/03/2022
-  ms.locfileid: "8666936"
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9022816"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/introduction.md)]"

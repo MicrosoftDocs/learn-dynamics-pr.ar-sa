@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-project-planning-execution-capabilities
 metadata:
-  title: استكشاف إمكانات تخطيط المشروع وتنفيذه في Microsoft Dynamics 365 Project Operations
-  description: استكشاف إمكانات تخطيط المشروع وتنفيذه في Microsoft Dynamics 365 Project Operations
-  ms.date: 07/15/2021
+  title: استكشاف إمكانات تخطيط المشروع وتنفيذه في 365 Project Operations
+  description: استكشاف إمكانات تخطيط المشروع وتنفيذه في 365 Project Operations
+  ms.date: 06/16/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: d0d6aab8e537d1edda64c2ed6d0f4c4e4b68765c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.prod: learning-d365
+  ms.openlocfilehash: 9f6995a09981c2376f3b63edee951ca5b319296b
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750339"
-title: استكشاف إمكانات تخطيط المشروع وتنفيذه في Microsoft Dynamics 365 Project Operations
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021304"
+title: استكشاف إمكانات تخطيط المشروع وتنفيذه في 365 Project Operations
 summary: تقدم لك هذه الوحدة إمكانات تحليل وتنفيذ المشروع في Microsoft Dynamics 365 Project Operations لمساعدتك على تحسين إدارة الموارد وإدارة الجدول الزمني وإدارة الوقت والمصروفات لأعمالك المستندة إلى المشروع.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
@@ -42,15 +42,11 @@ subjects:
 - process-workflow
 units:
 - learn.wwl.explore-project-planning-execution-capabilities.introduction
+- learn.wwl.explore-project-planning-execution-capabilities.project-planning-capabilitie
+- learn.wwl.explore-project-planning-execution-capabilities.project-execution-analysis-capabilities
 - learn.wwl.explore-project-planning-execution-capabilities.create-manage-work-breakdown-structures
-- learn.wwl.explore-project-planning-execution-capabilities.create-manage-project-forecasts-budgets
 - learn.wwl.explore-project-planning-execution-capabilities.invoicing-capabilities
-- learn.wwl.explore-project-planning-execution-capabilities.schedule-management-capabilities
-- learn.wwl.explore-project-planning-execution-capabilities.cost-tracking-capabilities
-- learn.wwl.explore-project-planning-execution-capabilities.explore-cash-flow-analysis
-- learn.wwl.explore-project-planning-execution-capabilities.review-project-costs
-- learn.wwl.explore-project-planning-execution-capabilities.explore-utilization-analysis
-- learn.wwl.explore-project-planning-execution-capabilities.review-project-statements
+- learn.wwl.explore-project-planning-execution-capabilities.explore-project-cost-tracking-capabilities
 - learn.wwl.explore-project-planning-execution-capabilities.knowledge-check
 - learn.wwl.explore-project-planning-execution-capabilities.summary
 badge:

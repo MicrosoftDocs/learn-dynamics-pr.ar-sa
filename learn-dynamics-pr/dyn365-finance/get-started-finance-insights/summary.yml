@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-finance-insights.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص الشروع في العمل باستخدام Finance Insights في Dynamics 365 Finance.
+  ms.date: 06/08/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2bd64ff4aa14036727c0f6f7a2b6e0a738effb85
+  ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/13/2022
+  ms.locfileid: "8955757"
+durationInMinutes: 1
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/summary.md)]

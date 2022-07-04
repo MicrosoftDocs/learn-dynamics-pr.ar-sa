@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ff9adca412dbcb7e88cb0b448accead609d5ed26
-ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+ms.openlocfilehash: 290e0416dcf73b52a3eb58859a57852825c31972
+ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "7933410"
+ms.lasthandoff: 06/08/2022
+ms.locfileid: "8944433"
 ---
 مع العديد من التطبيقات والخدمات الشائعة، توفر Customer Insights العديد من الأدوات الجاهزة التي تساعدك على الاتصال ببياناتها واستخدامها. ومع ذلك، قد تحدث السيناريوهات عندما تريد إنشاء تطبيقاتك الخاصة استنادًا إلى البيانات الموجودة في Customer Insights.
 
@@ -12,21 +12,21 @@ ms.locfileid: "7933410"
 
 يمكنك إكمال مهام محددة في حلولك، باستخدام واجهات API لـ Customer Insights.
 
--   **إنشاء ملفات تعريف البيانات** - اسحب معلومات السمة وملف تعريف الكيان بحيث يمكنك استخدامها في مناطق أخرى.
+- **إنشاء ملفات تعريف البيانات** - اسحب معلومات السمة وملف تعريف الكيان بحيث يمكنك استخدامها في مناطق أخرى.
 
--   **العمل مع مصادر البيانات** - كشأن حذف مصدر بيانات أو الحصول على قائمة بجميع مصادر البيانات أو سحب تفاصيل مصدر بيانات معين، قم بتنفيذ مهام الإدارة المتعلقة بمصادر البيانات الخاصة بك.
+- **العمل مع مصادر البيانات** - كشأن حذف مصدر بيانات أو الحصول على قائمة بجميع مصادر البيانات أو سحب تفاصيل مصدر بيانات معين، قم بتنفيذ مهام الإدارة المتعلقة بمصادر البيانات الخاصة بك.
 
--   **العمل مع بيانات الكيان** - الحصول على تفاصيل الكيان وإنشائها وتحديثها.
+- **العمل مع بيانات الكيان** - الحصول على تفاصيل الكيان وإنشائها وتحديثها.
 
--   **إدارة المثيلات** - إنشاء مثيلات Customer Insights وحذفها وإعادة تعيينها.
+- **إدارة المثيلات** - إنشاء مثيلات Customer Insights وحذفها وإعادة تعيينها.
 
--   **إدارة التدابير** - إنشاء الإجراءات وحذفها وتحديثها في التطبيق.
+- **إدارة التدابير** - إنشاء الإجراءات وحذفها وتحديثها في التطبيق.
 
--   **إدارة أذونات المستخدم** - إدارة الأدوار والأذونات التي يمتلكها المستخدمون في التطبيق.
+- **إدارة أذونات المستخدم** - إدارة الأدوار والأذونات التي يمتلكها المستخدمون في التطبيق.
 
--   **إدارة العلاقات** - إدارة العلاقات بين الكيانات المختلفة في التطبيق.
+- **إدارة العلاقات** - إدارة العلاقات بين الكيانات المختلفة في التطبيق.
 
--   **إدارة الشرائح** - إنشاء الشرائح وحذفها وإعادة تعيينها في مثيل Customer Insights الخاص بك.
+- **إدارة الشرائح** - إنشاء الشرائح وحذفها وإعادة تعيينها في مثيل Customer Insights الخاص بك.
 
 ## <a name="explore-the-customer-insights-apis"></a>استكشاف واجهات API لـ Customer Insights
 
@@ -39,11 +39,10 @@ ms.locfileid: "7933410"
 
 يعد بناء الحلول باستخدام واجهات API لـ Customer Insights خارج نطاق هذه الوحدة. لمزيد من المعلومات، انتقل إلى الارتباطات التالية:
 
--   [ابدأ استخدام واجهات API لـ Customer Insights](/dynamics365/customer-insights/audience-insights/apis?azure-portal=true#get-started-trying-the-customer-insights-apis)
+- [ابدأ استخدام واجهات API لـ Customer Insights](/dynamics365/customer-insights/audience-insights/apis?azure-portal=true#get-started-trying-the-customer-insights-apis)
 
--   [إنشاء تسجيل تطبيق في Azure](/dynamics365/customer-insights/audience-insights/apis?azure-portal=true#create-a-new-app-registration-in-the-azure-portal)
+- [إنشاء تسجيل تطبيق في Azure](/dynamics365/customer-insights/audience-insights/apis?azure-portal=true#create-a-new-app-registration-in-the-azure-portal)
 
--   [مكتبات عملاء Customer Insights](/dynamics365/customer-insights/audience-insights/apis?azure-portal=true#customer-insights-client-libraries)
+- [مكتبات عملاء Customer Insights](/dynamics365/customer-insights/audience-insights/apis?azure-portal=true#customer-insights-client-libraries)
 
--   [مراجع واجهة API لـ Customer Insights](https://developer.ci.ai.dynamics.com/api-details#api=CustomerInsights&operation=Get-an-attribute-profile)
-
+- [مراجع واجهة API لـ Customer Insights](https://developer.ci.ai.dynamics.com/api-details#api=CustomerInsights&operation=Get-an-attribute-profile)

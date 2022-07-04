@@ -1,17 +1,18 @@
 ---
-ms.openlocfilehash: dd53d200f7c2505eea8d297c43fc2f5b45c1732cf8e5d352e9607fa0753154d5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6ec74071ac9c94e14677d214ecc1d13b28c52049
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438384"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954944"
 ---
-تقدم لك هذه الوحدة القدرات الأساسية لـ Microsoft Dynamics 365 Human Resources، التي تشمل إدارة التعويضات والمزايا وأداء الموظفين والتأكد من أن برامج الموارد البشرية لديك تلبي اللوائح العالمية المتغيرة.
+تقدم لك هذه الوحدة النمطية الإمكانات الأساسية لـ Microsoft Dynamics 365 Human Resources، بما في ذلك إدارة التعويضات والمزايا وأداء الموظفين والتأكد من أن برامج الموارد البشرية لديك تلبي اللوائح العالمية المتغيرة.
 
 ## <a name="learning-objectives"></a>الأهداف التعليمية
 
-خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+في نهاية هذه الوحدة النمطية، ستتمكن من:
 
+ -  استكشاف العاملين والمناصب
  -  استكشاف إمكانات التعويضات والمزايا.
  -  استكشاف ميزات التوافق.
  -  استكشاف إمكانات إدارة الأداء.

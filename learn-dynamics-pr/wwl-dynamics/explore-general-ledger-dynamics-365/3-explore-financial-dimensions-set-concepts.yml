@@ -4,17 +4,18 @@ title: استكشاف الأبعاد المالية ومفاهيم مجموعة 
 metadata:
   title: استكشاف الأبعاد المالية ومفاهيم مجموعة الأبعاد
   description: استكشاف الأبعاد المالية ومفاهيم مجموعة الأبعاد
-  ms.date: 07/15/2021
+  ms.date: 06/16/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: b494fd5977cffeae6fbbdd2933e1c1df0202cfb5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 19cf6884a609a50d010cde44152445b9e17504bd
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438729"
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021334"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/3-explore-financial-dimensions-set-concepts.md)]'

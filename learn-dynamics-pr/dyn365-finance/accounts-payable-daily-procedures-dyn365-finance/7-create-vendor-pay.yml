@@ -4,17 +4,17 @@ title: إنشاء مدفوعات المورد
 metadata:
   title: إنشاء مدفوعات المورد
   description: توضح هذه الوحدة كيفية إنشاء مدفوعات المورد في Dynamics 365 Finance.
-  ms.date: 01/19/2021
+  ms.date: 06/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/create-vendor-payments-payment-proposal
-  ms.openlocfilehash: e47ffa3d868bd05cb2e1f7a5fa22d01194602806
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 755267327349dd3ea65f8293cd0d03568ebf3d84
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359720"
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021554"
 durationInMinutes: 12
 content: >-
   [!include[](../includes/unit-banner.md)]

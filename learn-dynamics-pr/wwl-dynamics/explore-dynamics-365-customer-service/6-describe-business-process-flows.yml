@@ -4,17 +4,17 @@ title: وصف سير إجراءات العمل
 metadata:
   title: وصف سير إجراءات العمل
   description: وصف سير إجراءات العمل
-  ms.date: 04/26/2022
+  ms.date: 06/09/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 3bacb34888b93b33e54588fa493d25356cdd7acc
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 6395d344c6934cf3b21f929b31387bcd173b5203
+  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632614"
+  ms.lasthandoff: 06/10/2022
+  ms.locfileid: "8948689"
 azureSandbox: false
 labModal: false
 durationInMinutes: 4

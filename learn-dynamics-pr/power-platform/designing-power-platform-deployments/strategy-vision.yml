@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.strategy-vision
+title: الإستراتيجية والرؤية
+metadata:
+  title: الإستراتيجية والرؤية
+  description: تعرّف على الإستراتيجية والرؤية.
+  ms.date: 06/16/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 39653b38b9f576213d7f4457842680abd0eef097
+  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9022877"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/strategy-vision.md)]

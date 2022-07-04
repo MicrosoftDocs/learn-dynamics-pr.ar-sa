@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 65622600c24e299a9830f77a13a8948c131a0b37
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 25fb88fd92c1ef6fced5f238ee4d63bd9b068169
+ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361387"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "8948833"
 ---
 الهدف عند تقديم الحالة هو حلها بأكثر الطرق فعالية. 
 
@@ -57,5 +57,9 @@ ms.locfileid: "8361387"
 تُظهر الصورة أدناه مثالاً على كيفية عمل كل هذا معاً:
 
 :::image type="content" source="../media/knowledge-base.png" alt-text="الرسوم المرئية لحل الحالة باستخدام قاعدة المعارف.":::
+
+ألقٍ نظرة على الفيديو أدناه للحصول على نظرة عامة حول إدارة الحالات في Dynamics 365 Customer Service.
+
+[إدارة الحالات](https://www.microsoft.com/videoplayer/embed/RE4Vrv1)
 
 الآن دعنا نوجه انتباهنا إلى عمليات سير إجراءات العمل.

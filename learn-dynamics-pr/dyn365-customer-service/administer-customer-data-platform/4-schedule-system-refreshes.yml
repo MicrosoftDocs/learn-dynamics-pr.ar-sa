@@ -4,15 +4,18 @@ title: جدولة عمليات تحديث النظام
 metadata:
   title: جدولة عمليات تحديث النظام
   description: يمكنك جدولة مصادر البيانات لتحديث العمليات النهائية، مثل القياسات أو الشرائح، يدوياً أو تلقائياً.
-  ms.date: 12/16/2021
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1d3f3f33821780ec397698575a12b247065b3665
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: 0ca2f08aab1671c420a32db5e87e58f6bad10245
+  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933582"
+  ms.lasthandoff: 06/10/2022
+  ms.locfileid: "8948747"
 durationInMinutes: 4
-content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-schedule-system-refreshes.md)]"
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-schedule-system-refreshes.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fc48bd52eedfdf32fff89ad948dc526b2bf05d66
-ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
+ms.openlocfilehash: b9e4a331a526813b917e2c5679732c496a8875b7
+ms.sourcegitcommit: 94f12c84be73d84fb53d1a4e6f1dc88d2dd87d23
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "8045282"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8958412"
 ---
 ### <a name="create-a-new-custom-table"></a>إنشاء جدول مخصص جديد
 
@@ -26,7 +26,7 @@ ms.locfileid: "8045282"
 
 يجب أن تشاهد الآن قائمة الأعمدة للجدول الجديد **الشركات المصنعة لأجهزة الكمبيوتر‬‏‫‬‏‫**.
 
-1.  حدد **الإعدادات** في القائمة أعلى أعمدة الجدول.
+1.  حدد **الخصائص** في القائمة أعلى أعمدة الجدول.
 
 1.  حدد خانة الاختيار **تمكين المرفقات**.
 

@@ -1,20 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.summary
-title: الملخص
+title: الملخص والموارد
 metadata:
-  title: الملخص
-  description: الملخص
-  ms.date: 07/15/2021
+  title: الملخص والموارد
+  description: الملخص والموارد
+  ms.date: 06/15/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-supply-chain
-  ms.openlocfilehash: 896707318bf268c8c0851e1cee876abb7b8add3a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 3361c4f4c8d81c19773fe30792c5c27d56d3f0bc
+  ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438566"
+  ms.lasthandoff: 06/15/2022
+  ms.locfileid: "9013933"
 azureSandbox: false
+labModal: false
 durationInMinutes: 1
 content: '[!include[](includes/12-summary.md)]'

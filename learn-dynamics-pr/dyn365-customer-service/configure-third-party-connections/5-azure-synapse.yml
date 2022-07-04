@@ -4,15 +4,18 @@ title: استخدام Customer Insights مع Azure Synapse
 metadata:
   title: استخدام Customer Insights مع Azure Synapse
   description: تعرف على كيفية استخدام Customer Insights مع Azure Synapse.
-  ms.date: 12/13/2021
+  ms.date: 05/31/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 726dd30225bbc0e953743898f5a18c6651f72bd1
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: df4af6fe05935b517abfa536ff3610628702846b
+  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933575"
+  ms.lasthandoff: 06/08/2022
+  ms.locfileid: "8944561"
 durationInMinutes: 5
-content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-azure-synapse.md)]"
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-azure-synapse.md)]

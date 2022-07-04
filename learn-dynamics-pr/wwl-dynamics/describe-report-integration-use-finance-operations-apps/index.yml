@@ -1,0 +1,52 @@
+### YamlMime:Module
+uid: learn.wwl.describe-report-integration-use-finance-operations-apps
+metadata:
+  title: وصف إعداد التقارير والتكامل باستخدام تطبيقات التمويل والعمليات
+  description: وصف إعداد التقارير والتكامل باستخدام تطبيقات التمويل والعمليات
+  ms.date: 06/16/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 186acb639399012a3c2a32a809d8a8eb75bcff28
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021718"
+title: وصف إعداد التقارير والتكامل باستخدام تطبيقات التمويل والعمليات
+summary: تقدم لك هذه الوحدة الإمكانات العامة لتطبيقات التمويل والعمليات، بما في ذلك إعداد التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى، مثل Microsoft Excel وMicrosoft Word وPower BI وSharePoint.
+abstract: >
+  بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
+
+  * وصف إمكانات إعداد التقارير المضمنة.
+
+  * وصف خيارات تحليل البيانات.
+
+  * وصف خيارات معالجة البيانات مع منتجات Microsoft.
+
+  * وصف حالات الاستخدام وإمكانات التكامل مع منتجات Microsoft الأخرى.
+prerequisites: >
+  لا شيء
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-finance-operations
+units:
+- learn.wwl.describe-report-integration-use-finance-operations-apps.introduction
+- learn.wwl.describe-report-integration-use-finance-operations-apps.create-use-reports
+- learn.wwl.describe-report-integration-use-finance-operations-apps.explore-options-for-analyze-data-power-bi
+- learn.wwl.describe-report-integration-use-finance-operations-apps.explore-options-for-manipulate-data-from-within-excel
+- learn.wwl.describe-report-integration-use-finance-operations-apps.explore-other-integration-capabilities
+- learn.wwl.describe-report-integration-use-finance-operations-apps.exercise-navigate-dynamics-365
+- learn.wwl.describe-report-integration-use-finance-operations-apps.knowledge-check
+- learn.wwl.describe-report-integration-use-finance-operations-apps.summary-resources
+badge:
+  uid: learn.wwl.describe-reporting-integration-using-finance-operations-apps.badge

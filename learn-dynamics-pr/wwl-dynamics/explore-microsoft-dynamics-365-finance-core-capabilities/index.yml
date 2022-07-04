@@ -3,17 +3,17 @@ uid: learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities
 metadata:
   title: استكشاف إمكانات Microsoft Dynamics 365 Finance الأساسية
   description: استكشاف إمكانات Microsoft Dynamics 365 Finance الأساسية
-  ms.date: 06/15/2021
+  ms.date: 06/17/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 1baadb02c7a6ca870b838d2846c8293445fcd753
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.prod: learning-d365
+  ms.openlocfilehash: f3c081891c58516cd457f564f7e865a8163010f9
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748818"
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025031"
 title: استكشاف إمكانات Microsoft Dynamics 365 Finance الأساسية
 summary: تقدم لك هذه الوحدة الإمكانات الأساسية لـ Microsoft Dynamics 365 Finance، بما في ذلك مناقشة الكيانات القانونية، وطريقة إدارة متطلبات إعداد التقارير الضريبية الإقليمية، ومفاهيم محاسبة التكاليف.
 abstract: >
@@ -40,9 +40,11 @@ subjects:
 - finance-accounting
 units:
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.introduction
+- learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.explore-finance-capabilities-features
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.explore-use-cases-for-legal-entities
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.handle-regional-tax-reporting-requirements
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.explore-cost-accounting-concepts
+- learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.explore-journaling-concepts
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.knowledge-check
 - learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.summary
 badge:

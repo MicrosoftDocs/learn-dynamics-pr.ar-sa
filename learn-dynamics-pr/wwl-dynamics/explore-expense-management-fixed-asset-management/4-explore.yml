@@ -4,17 +4,18 @@ title: استكشاف إدارة الأصول الثابتة
 metadata:
   title: استكشاف إدارة الأصول الثابتة
   description: استكشاف إدارة الأصول الثابتة
-  ms.date: 06/15/2021
+  ms.date: 06/15/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: e724770f0a04bc0faeb01aabc9c5b8d49d54535a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: 2be2c8429d0287c1afcec38f1e97acced4c452e1
+  ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438618"
+  ms.lasthandoff: 06/15/2022
+  ms.locfileid: "9014313"
 azureSandbox: false
+labModal: false
 durationInMinutes: 10
 content: '[!include[](includes/4-explore.md)]'

@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn.wwl.explore-dynamics-365-finance-operations-apps
+metadata:
+  title: استكشاف الإمكانات الأساسية لتطبيقات التمويل والعمليات في Dynamics 365
+  description: استكشاف الإمكانات الأساسية لتطبيقات التمويل والعمليات في Dynamics 365
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4db8b3f30b865cb0c7484a2b502fcd22fe7d425d
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025457"
+title: استكشاف الإمكانات الأساسية لتطبيقات التمويل والعمليات في Dynamics 365
+prerequisites: >
+  لا شيء
+summary: >
+  يقدم مسار التعليم هذا للمتعلمين الإمكانات الأساسية المشتركة عبر تطبيقات التمويل والعمليات. سيتم تعريفك بمجموعة المنتجات التي تم تضمينها بين تطبيقات التمويل والعمليات في Dynamics 365. كما ستتعرف أيضًا على الإمكانات الأساسية المشتركة، بما في ذلك إعداد التقارير والتكامل.
+iconUrl: /learn/achievements/generic-trophy.svg
+levels:
+- beginner
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products:
+- dynamics-365
+- dynamics-finance-operations
+subjects:
+- business-applications
+modules:
+- learn.wwl.get-introduced-finance-operations-apps
+- learn.wwl.describe-report-integration-use-finance-operations-apps
+trophy:
+  uid: learn.wwl.explore-dynamics-365-finance-operations-apps.trophy

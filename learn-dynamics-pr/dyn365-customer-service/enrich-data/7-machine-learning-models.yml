@@ -3,16 +3,16 @@ uid: learn-dynamics.enrich-data.7-machine-learning-models
 title: استخدام نماذج التعلم الآلي
 metadata:
   title: استخدام نماذج التعلم الآلي
-  description: تعرف على كيفية استخدام نماذج التعلم الآلي المخصَّصة من Azure في رؤى الجمهور.
-  ms.date: 12/16/2021
+  description: تعرَّف على كيفية استخدام نماذج التعلم الآلي المخصَّصة من Azure في Customer Insights.
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 15ea209b9eeb1c04894b66f367bde7b527f1f363
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: bb3e03b0c383bc5dccb5fadf51e2df6cfa10c733
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933230"
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025158"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-machine-learning-models.md)]"

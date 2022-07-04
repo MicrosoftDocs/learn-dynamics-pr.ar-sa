@@ -4,15 +4,15 @@ title: العمل مع التنبؤات
 metadata:
   title: العمل مع التنبؤات
   description: تعرّف على طريقة إنشاء تنبؤات بسيطة بقيمة صواب أو خطأ واستخدام نماذج تم إنشاؤها مسبقاً مثل خسارة العملاء، واستخدام نماذج التعلّم الآلي المخصصة المضمنة في Microsoft Azure.
-  ms.date: 12/16/2021
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 32f104e867537083d17119e3a0a1b02d7fa7d541
-  ms.sourcegitcommit: c9e4fdec30906fc4b8686ea5c65b335ca5b68c26
+  ms.openlocfilehash: cce331fb3fe0b663c5bc1fae0f6700e1352bf6f3
+  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/17/2021
-  ms.locfileid: "7933247"
+  ms.lasthandoff: 06/08/2022
+  ms.locfileid: "8944618"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-predictions.md)]"

@@ -4,16 +4,16 @@ title: التمرين - إنشاء أحد مثيلات Customer Insights، وا�
 metadata:
   title: التمرين - إنشاء أحد مثيلات Customer Insights، واستيعاب البيانات، وتوحيد البيانات
   description: تعرَّف على كيفية إنشاء مثيل لـ Customer Insights، واستيعاب البيانات، وإجراء عملية توحيد البيانات.
-  ms.date: 06/29/2021
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: customer-insights
-  ms.openlocfilehash: 2359f0ec7849b485028e20c8dda67a96c272b9f4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 095140b3795e53d9c71f5c78a54bc387b9c42c47
+  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334344"
+  ms.lasthandoff: 06/10/2022
+  ms.locfileid: "8948563"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-exercise.md)]"

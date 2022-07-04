@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-human-resources-core-capabilities.explore-compensation-benefits-capabilities
+title: استكشاف إمكانات التعويضات والمزايا
+metadata:
+  title: استكشاف إمكانات التعويضات والمزايا
+  description: استكشاف إمكانات التعويضات والمزايا
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 3642a0bc848fad51d03acaa05e06a28cff45e2c9
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025010"
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+content: '[!include[](includes/3-explore-compensation-benefits-capabilities.md)]'

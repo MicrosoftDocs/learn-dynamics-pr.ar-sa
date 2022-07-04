@@ -1,22 +1,22 @@
 ### YamlMime:LearningPath
 uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
 metadata:
-  title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Commerce'
-  description: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Commerce'
-  ms.date: 10/05/2021
+  title: تعلُّم أساسيات Dynamics 365 Commerce
+  description: تعلُّم أساسيات Dynamics 365 Commerce
+  ms.date: 06/17/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 3c08ccf2730348259a70d7b02e2c815aa358081d
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 94dd62528cadeeeb32b5dc45d1e281a57224f61f
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752016"
-title: 'أساسيات Microsoft Dynamics 365 (ERP): استكشاف Dynamics 365 Commerce'
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9024792"
+title: تعلُّم أساسيات Dynamics 365 Commerce
 prerequisites: >
-  يجب أن يتوفر لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
+  يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
   هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، وكلٍّ من تطبيقات المالية والعمليات‬. ابدأ بمسار التعلم هذا لمعرفة المزيد حول Dynamics 365 Commerce.
 iconUrl: /learn/achievements/dynamics-commerce.svg
@@ -34,7 +34,6 @@ products:
 subjects:
 - marketing-sales
 modules:
-- learn.wwl.get-introduced-finance-operations-apps
 - learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities
 - learn.wwl.explore-microsoft-dynamics-365-fraud-protection
 trophy:

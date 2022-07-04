@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management.differentiate-manufacturing-types
+title: التفريق بين أنواع التصنيع
+metadata:
+  title: التفريق بين أنواع التصنيع
+  description: التفريق بين أنواع التصنيع
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 59a55e4509a4afe88a5b3b78a40ced8d99cdd6b0
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025484"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/2-differentiate-manufacturing-types.md)]'

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: c5ef8445ff9daba1e7c7c3b41d66df35571b721c
-ms.sourcegitcommit: 1d9dbd81b128041197540f8687181cc789626fc2
+ms.openlocfilehash: 5b3f1793ce2410117630efb0a2a8d1414a3a1de6
+ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "7900571"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "9021394"
 ---
-لاستدعاء إحدى واجهات API لحماية الحساب في Dynamics 365 Fraud Protection، يجب أولاً تحديد نقطة النهاية الصحيحة من مستند Swagger في واجهة API في [Dynamics 365 Fraud Protection](https://apidocs.microsoft.com/services/dynamics365fraudprotection/?azure-portal=true).
+لاستدعاء إحدى واجهات API لحماية الحساب في Dynamics 365 Fraud Protection، يجب أولاً تحديد نقطة النهاية الصحيحة من مستند Swagger في واجهة API في [Dynamics 365 Fraud Protection](/fraud-protection-rest/api/fraud-protection-rest).
 (يمكنك الرجوع إلى التمييز الأصفر في لقطة الشاشة التالية).
 
 > [!div class="mx-imgBorder"]

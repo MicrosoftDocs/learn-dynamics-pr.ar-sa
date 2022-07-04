@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-report-integration-use-finance-operations-apps.summary-resources
+title: الملخص والموارد
+metadata:
+  title: الملخص والموارد
+  description: الملخص والموارد
+  ms.date: 06/16/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 7611363baeb407d62f341656231aec1be291994f
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021721"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/8-summary-resources.md)]'

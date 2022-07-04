@@ -1,5 +1,15 @@
 ### YamlMime:Achievements
 achievements:
+- uid: learn-dynamics.microsoft-power-platform-mobile-management.badge
+  type: badge
+  title: إدارة Microsoft Power Platform للأجهزة المحمولة
+  summary: إدارة Microsoft Power Platform للأجهزة المحمولة
+  iconUrl: /learn/achievements/microsoft-power-platform-mobile-management.svg
+- uid: learn-dynamics.managing-dynamics-365-clients.badge
+  type: badge
+  title: إدارة عملاء Dynamics 365
+  summary: إدارة عملاء Dynamics 365
+  iconUrl: /learn/achievements/managing-dynamics-365-clients.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-commerce.badge
   type: badge
   title: مقدمة عن Dynamics 365 Commerce
@@ -465,10 +475,15 @@ achievements:
   title: مراجعة إمكانات استخدام الموارد في Dynamics 365 Project Operations
   summary: تعرفك هذه الوحدة النمطية على إمكانات جدولة موارد المشروع وإدارة موارد المشروع وإمكانات استخدام موارد Dynamics 365 Project Operations.
   iconUrl: /learn/achievements/review-resource-utilization-capabilities-dynamics-project-operations.svg
+- uid: learn.wwl.introduction-configuration-dynamics-365-model-driven-apps.trophy
+  type: trophy
+  title: مقدمة في التكوين في التطبيقات المستندة إلى نموذج Dynamics 365
+  summary: مقدمة في التكوين في التطبيقات المستندة إلى نموذج Dynamics 365
+  iconUrl: /learn/achievements/introduction-configuration-d365-model-driven-apps.svg
 metadata:
-  ms.openlocfilehash: a6536ecd0a6708cff26f64fae70c690c16688dbf
-  ms.sourcegitcommit: b04b8a0aae511bb85c0e21b8ac33f188a5ef9de5
+  ms.openlocfilehash: 50c68b86ce0172d78a02efc1a822f133dad955b2
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/28/2022
-  ms.locfileid: "8786177"
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021215"

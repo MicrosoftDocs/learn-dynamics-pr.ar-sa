@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.1-explore-power-platform-concepts
+title: استكشاف المفاهيم الأساسية لتوزيع Microsoft Power Platform
+metadata:
+  title: استكشاف المفاهيم الأساسية لتوزيع Microsoft Power Platform
+  description: استكشاف المفاهيم الأساسية لتوزيع Microsoft Power Platform
+  ms.date: 06/16/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: c6efb06947780c6397998111c061d95cfd37e2a8
+  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9022875"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/1-explore-power-platform-concepts.md)]

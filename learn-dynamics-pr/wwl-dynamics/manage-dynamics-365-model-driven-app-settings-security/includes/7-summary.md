@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b5b9edc44da5a5ee8a22271d1e0f757524e50a43
-ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
+ms.openlocfilehash: d4208cd55eb3bc8472107b84c856f2c68078fdf1
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "8756522"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954974"
 ---
 في هذه الوحدة، تعلمت كيفية تكوين الأمان والإعدادات لتطبيق يستند إلى نموذج.
 

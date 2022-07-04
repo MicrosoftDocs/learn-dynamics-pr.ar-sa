@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.knowledge-check
+title: ‏التحقق من المعرفة
+metadata:
+  title: ‏التحقق من المعرفة
+  description: ‏التحقق من المعرفة
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: deafad338c4d2f149da64cf6a043e5566f17b7ec
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025518"
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: ‏‫اختبر معلوماتك
+  questions:
+  - content: أنت بحاجة إلى إضافة خصم إلى مبلغ أمر الشراء لموردين محددين. ما خيار الخصم الذي يجب عليك تحديده؟
+    choices:
+    - content: متعدد السطور
+      isCorrect: false
+      explanation: غير صحيح.‬ يساعد الخصم متعدد السطور على تطبيق الخصومات على أصناف معينة في سطور الشراء. ولا ينطبق على مبلغ أمر الشراء بأكمله.
+    - content: الإجمالي‬
+      isCorrect: true
+      explanation: صحيح. يمكن تطبيق إجمالي الخصم على أمر الشراء بالكامل لموردين محددين.
+    - content: نقدي
+      isCorrect: false
+      explanation: غير صحيح.‬ يتم تطبيق الخصم النقدي علي فاتورة الشراء كما يتم تحديده في حسابات المدفوعات. لا يمكن تطبيق الخصم النقدي أثناء معالجة أمر الشراء.
+  - content: ما الذي يحدد كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية؟
+    choices:
+    - content: متغير المنتج
+      isCorrect: false
+      explanation: غير صحيح. تحدد ‏‫أصول المنتجات كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية. بناءً على هذه التعريفات، يمكنك إنشاء منتجات مميزة.
+    - content: المنتج
+      isCorrect: false
+      explanation: غير صحيح. تحدد ‏‫أصول المنتجات كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية. بناءً على هذه التعريفات، يمكنك إنشاء منتجات مميزة.
+    - content: أصل المنتج
+      isCorrect: true
+      explanation: صحيح. تحدد ‏‫أصول المنتجات كيفية وصف المنتجات المميزة وكيفية التصرف في العمليات التجارية. بناءً على هذه التعريفات، يمكنك إنشاء منتجات مميزة.
+  - content: في وحدة تصنيع، أنت بحاجة إلى تلوين منتجك النهائي بواسطة مورّد خارجي. ما الذي يجب إنشاؤه لنوع الصنف؟
+    choices:
+    - content: الخدمة
+      isCorrect: true
+      explanation: صحيح. يجب عليك إنشاء نوع الصنف خدمة. يمكن شراء صنف خدمة باستخدام أمر الشراء، والذي لا يؤثر على المخزون.
+    - content: قائمة مكونات الصنف
+      isCorrect: false
+      explanation: غير صحيح.‬ قائمة مكونات الصنف ليست نوع صنف. تصور BOM الخدمات/المواد الخام المطلوبة لتشكيل سلعة نهائية في حالة التصنيع المنفصل.
+    - content: المعادلة
+      isCorrect: false
+      explanation: غير صحيح.‬ المعادلة ليست نوع صنف. تصور المعادلة الخدمات/المواد الخام المطلوبة لتشكيل سلعة نهائية في حالة التصنيع التحويلي.

@@ -1,24 +1,24 @@
 ### YamlMime:Module
 uid: learn-dynamics.working-with-customer-insights
 metadata:
-  title: العمل مع رؤى الجمهور في Dynamics 365
-  description: تعرف على كيفية العمل مع رؤى الجمهور.
-  ms.date: 12/16/2021
+  title: العمل باستخدام Dynamics 365 Customer Insights
+  description: تعرف على كيفية العمل مع Customer Insights.
+  ms.date: 06/07/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0543af3af726b561f03873467f9ddfb3e8dc4b2a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 8f87725abd56556fb6ad5adf16d2fd22fea32ade
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753048"
-title: العمل مع رؤى الجمهور في Dynamics 365
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9024371"
+title: العمل باستخدام Dynamics 365 Customer Insights
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  تعمل رؤى الجمهور على استيعاب البيانات من جميع مصادر البيانات المختلفة وتوحيدها في ملف تعريف عميل واحد. في هذه الوحدة، تعرف على كيفية العمل مع رؤى الجمهور.
+  يستوعب Customer Insights البيانات من جميع مصادر البيانات المختلفة ويوحدها في ملف تعريف عميل واحد. في هذه الوحدة النمطية، تعرف على كيفية العمل مع Customer Insights.
 abstract: >
   خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
 
@@ -28,8 +28,8 @@ abstract: >
 
   - العمل مع المقاييس.
 
-  - استخدام رؤى الجمهور.
-prerequisites: بلا
+  - استخدام Customer Insights.
+prerequisites: لا شيء
 iconUrl: /learn/achievements/working-with-customer-insights.svg
 levels:
 - intermediate

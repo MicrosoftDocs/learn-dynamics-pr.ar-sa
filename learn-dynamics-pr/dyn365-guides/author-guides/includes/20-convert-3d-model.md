@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 65bf2679aaf562029b16455c86cb02bd43ebe5d7
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: af17b76d16a7aa495a43dd43c009f2334f1b5881
+ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587028"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "9021234"
 ---
 يمكنك استخدام النماذج ثلاثية الأبعاد الخاصة بك للأجزاء ثلاثية الأبعاد المخصصة في Dynamics 365 Guides. يمكنك استخدام مجموعة من أدوات الجهات الخارجية لإعداد نماذجك ثلاثية الأبعاد لاستخدامها في Dynamics 365 Guides. 
 
@@ -17,7 +17,7 @@ ms.locfileid: "7587028"
 |البرامج|استيراد|تصدير|تحويل/رمز التحويل|التحسين|
 |---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
 |[PiXYZ Software](https://aka.ms/Pixyz/?azure-portal=true)|STEP وCatia وJT وOBJ وFBX والمزيد|glTF 2.0|نعم|نعم|
-|[Maxon Cinema 4D](https://aka.ms/MaxonCinema4D/?azure-portal=true)|SOLIDWORKS وSTEP وCatia وJT وIGES|FBX وOBJ وGLB/glTF 2.0 (تجريبي)|نعم|نعم|
+|[Maxon Cinema 4D](https://www.maxon.net/)|SOLIDWORKS وSTEP وCatia وJT وIGES|FBX وOBJ وGLB/glTF 2.0 (تجريبي)|نعم|نعم|
 |[Simplygon Studios](https://aka.ms/Simplygonsoftware/?azure-portal=true)|FBX، OBJ|FBX|لا|نعم|
 |[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware/?azure-portal=true)|STEP وCatia وJT وOBJ وFBX والمزيد|FBX، OBJ|نعم|لا|
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware/?azure-portal=true)|STEP وCatia وJT وOBJ وFBX والمزيد|FBX، OBJ، STL|نعم|نعم|

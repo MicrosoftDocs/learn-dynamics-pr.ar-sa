@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1cc5069db162bb16cac3642e1d956ba0615e8e46
-ms.sourcegitcommit: 7176ef5181d9189bdd57ecf1f34b7b4a9580e681
+ms.openlocfilehash: a8dd5660abbc18c044a92fe15479de7ded717165
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "8786471"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954954"
 ---
 كما ترى، تضمن الإمكانات الأساسية المتوفرة في تطبيقات Dynamics 365 CRM أن لديك خبرة عمل متسقة بغض النظر عن المهمة التي تقوم بها. من تطبيقات المبيعات والتسويق المصممة للمساعدة في تحديد العملاء المحتملين وتحويلهم إلى علاقات طويلة الأمد، إلى التطبيقات المصممة للمساعدة في خدمة العملاء، تضمن تطبيقات Dynamics 365 CRM أن لديك الأدوات اللازمة لإشراك عملائك بشكل كامل عبر جميع جوانب عملك.
 

@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.designing-power-platform-deployments
+metadata:
+  title: إدارة عمليات توزيع Microsoft Power Platform
+  description: التعرّف على إدارة عمليات توزيع Microsoft Power Platform
+  ms.date: 06/16/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 489b72ebfa9f931b5b95b584b92fce4b8bc96580
+  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9022895"
+title: إدارة عمليات توزيع Microsoft Power Platform
+summary: "[!include[](../includes/module-banner.md)]\n\nتصميم التطبيقات وتوزيعها باستخدام Microsoft Power Platform. سيعمل اتباع أفضل الممارسات في أثناء هذه العملية على تقليل فرص حدوث المشكلات الفنية في المستقبل فيما يتصل بسوء عملية إدارة دورة حياة التطبيق وحدود التخزين. تتمثل الخطوة الأولى قبل التخصيص وتكوين الحل في تكوين مستأجرك على الانترنت وبيئتك على الإنترنت \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استكشاف مفاهيم أسس توزيع Microsoft Power Platform\n- تحديد المتطلبات الفنية\n- تخطيط عملية التوزيع الخاصة بك\n- عمليات توزيع Dynamics 365 متعددة المستأجرين ومتعددة المثيلات\n- إدارة الاشتراكات\n- تحديد التخزين\n- اعتبارات التكامل\n- إدارة المصادقة\n"
+prerequisites: يُفضَّل وجود فهم أساسي للبنية الأساسية لحلول Microsoft Power Platform، وحلول الأعمال عبر الإنترنت من Microsoft ومنها مدخل مسؤول Microsoft 365.
+iconUrl: /learn/achievements/designing-power-platform-deployments.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-user
+- maker
+- functional-consultant
+products:
+- power-apps
+- power-platform
+subjects:
+- custom-app-development
+units:
+- learn-dynamics.designing-power-platform-deployments.1-explore-power-platform-concepts
+- learn-dynamics.designing-power-platform-deployments.strategy-vision
+- learn-dynamics.designing-power-platform-deployments.3-planning-the-deployment
+- learn-dynamics.designing-power-platform-deployments.secure-deployments
+- learn-dynamics.designing-power-platform-deployments.6-determine-storage
+- learn-dynamics.designing-power-platform-deployments.8-manage-authentication
+- learn-dynamics.designing-power-platform-deployments.data-sources
+- learn-dynamics.designing-power-platform-deployments.10-knowledge-check
+- learn-dynamics.designing-power-platform-deployments.11-summary
+badge:
+  uid: learn.designing-power-platform-deployments.badge

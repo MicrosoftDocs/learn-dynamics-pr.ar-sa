@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-fraud-protection.explore-how-uses-dynamics-365-customer-insights
+title: استكشاف إدارة العملاء من خلال برامج الولاء وإقامة العلاقات مع العملاء
+metadata:
+  title: استكشاف إدارة العملاء من خلال برامج الولاء وإقامة العلاقات مع العملاء
+  description: استكشاف إدارة العملاء من خلال برامج الولاء وإقامة العلاقات مع العملاء
+  ms.date: 06/14/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: ebf7fb1a8e856be68324d9193e287783f41024eb
+  ms.sourcegitcommit: 6ff9cb62ba54399590302871628170367686827d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/14/2022
+  ms.locfileid: "9010621"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/3-explore-how-uses-dynamics-365-customer-insights.md)]'

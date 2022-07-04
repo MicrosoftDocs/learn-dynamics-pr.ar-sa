@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f6f8ee118a04b33ab9fecf31448c42b73520046e
-ms.sourcegitcommit: 6a5d1dca1b97565d67b787a0bb1aa622abb04b5c
+ms.openlocfilehash: cf16c0d0ec7f605162f9012b64c1cddc2acfd46c
+ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "8747302"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "8948922"
 ---
 يوفر Dynamics 365 خيارات متعددة لإعداد التقارير متوفرة خارج الصندوق من أجل تزويد المستخدمين ببعض التقارير الأساسية عن بياناتهم. تعد جميع خيارات إعداد التقارير في تطبيقات Dynamics 365 CRM قابلة للتكوين وتفرض أدوار أمان ثابتة للوصول إلى البيانات.
 
@@ -55,4 +55,4 @@ ms.locfileid: "8747302"
 :::image type="content" source="../media/power-bi-1dcce338.png" alt-text="لقطة شاشة للوحة معلومات Power BI":::
 
 
-الآن دعنا نلفت الانتباه إلى تقنيات تكامل Dynamics 365.
+الآن دعنا نوجه انتباهنا إلى تقنيات تكامل Dynamics 365.

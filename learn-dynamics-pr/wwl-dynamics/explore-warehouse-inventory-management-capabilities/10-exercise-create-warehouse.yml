@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.explore-warehouse-inventory-management-capabilities-microsoft-dynamics-365-suppl.exercise-create-warehouse
-title: 'تمرين عملي: إنشاء مستودع'
+title: 'تمرين: إنشاء دفتر يومية جرد المخزون'
 metadata:
-  title: 'تمرين عملي: إنشاء مستودع'
-  description: 'تمرين عملي: إنشاء مستودع'
-  ms.date: 07/15/2021
+  title: 'تمرين: إنشاء دفتر يومية جرد المخزون'
+  description: 'تمرين: إنشاء دفتر يومية جرد المخزون'
+  ms.date: 06/15/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-supply-chain
-  ms.openlocfilehash: 19ae2d7b3147692bc0a21c1e3c6556294b70ecb6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: b3515cc0b2f122e1b44ac92b3049ca2d009da740
+  ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438724"
+  ms.lasthandoff: 06/15/2022
+  ms.locfileid: "9013903"
 azureSandbox: false
 labId: 88379
 labModal: true

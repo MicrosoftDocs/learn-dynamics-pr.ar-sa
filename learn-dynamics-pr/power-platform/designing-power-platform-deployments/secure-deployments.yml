@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.designing-power-platform-deployments.secure-deployments
+title: عمليات توزيع آمنة
+metadata:
+  title: عمليات توزيع آمنة
+  description: تعرّف على كيفية تأمين عمليات التوزيع.
+  ms.date: 06/16/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: power-platform
+  ms.openlocfilehash: 5a0a0d7cddf5d5b6fac5c73ebee9f8c7fd3da167
+  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9022872"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/secure-deployments.md)]

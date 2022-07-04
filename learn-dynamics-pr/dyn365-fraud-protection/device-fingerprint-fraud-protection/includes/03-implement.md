@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 43381cd65613aa39c7f581590d63ce7954cf2f7d
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e2e3baca479cbf961ec71c1eb11ae9fb47ba479e
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7582716"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954914"
 ---
-في هذا الجزء من الوحدة النمطية، ستستخدم نموذج تطبيق التاجر للحماية من الاحتيال الذي قمت بتكوينه في وحدة [تكوين بيانات نموذج التطبيق لـ Dynamics 365 Fraud Protection]( /learn/modules/configure-sample-app-fraud-protection/?azure-portal=true).  
+في هذا الجزء من الوحدة النمطية، ستستخدم نموذج تطبيق التاجر للحماية من الاحتيال الذي قمت بتكوينه في وحدة [تكوين بيانات نموذج التطبيق لـ Dynamics 365 Fraud Protection](/learn/modules/configure-sample-app-fraud-protection/?azure-portal=true).  
 
 سلسلة الخطوات التي يجب عليك اتباعها لنشر بصمات الجهاز هي:
 
@@ -27,7 +27,7 @@ ms.locfileid: "7582716"
 
 قد تشبه خريطة رحلة العميل النموذجية، استناداً إلى نموذج التطبيق الذي قمت بتكوينه في بداية ورشة العمل هذه، الرسم التخطيطي التالي.
 
-[ ![رسم تخطيطي لخريطة رحلة العميل مع لقطات شاشة للصفحات والمدد التي تم قضاؤها على كل صفحة.](../media/customer-journey.png) ](../media/customer-journey.png#lightbox)
+[ ![رسم تخطيطي لخريطة رحلة العميل مع لقطات شاشة للصفحات والمدد التي تم قضاؤها على كل صفحة.](../media/customer-journey.png)](../media/customer-journey.png#lightbox)
 
 خذ لحظة لتطوير تجربتك من خلال رسم خريطة لرحلة عميل مألوفة لك. 
 
@@ -96,7 +96,7 @@ ms.locfileid: "7582716"
     window.dfp.doFpt(this.document); 
     ```
  
-    أرسل الحركات في [Dynamics 365 Fraud Protection ‏API]( https://apidocs.microsoft.com/services/?azure-portal=true)، مع المعلومات التالية:
+    أرسل الحركات في [Dynamics 365 Fraud Protection ‏API](https://apidocs.microsoft.com/services/?azure-portal=true)، مع المعلومات التالية:
 
     - في حقل **deviceContextId**، قم بتعيين معرف جلسة عمل. 
     - في حقل **deviceContextDC** في كائن deviceContext object، قم بتعيين متغير **window.dfp.dc** من استجابة mdt.js. 
@@ -104,7 +104,7 @@ ms.locfileid: "7582716"
 > [!NOTE]
 > تتوفر وحدة منفصلة حول تنفيذ API لـ Fraud Protection. ومع ذلك، لأغراض تحديد ما إذا كانت بصمة الجهاز تعمل أم لا، يتم تكوين نموذج تطبيق التاجر باستخدام استدعاءات API لـ Fraud Protection المطلوبة لتمرير معرف جلسة العمل.
 
-لمزيد من المعلومات، راجع [إعداد بصمة الجهاز]( /dynamics365/fraud-protection/device-fingerprinting/?azure-portal=true).
+لمزيد من المعلومات، راجع [إعداد بصمة الجهاز](/dynamics365/fraud-protection/device-fingerprinting/?azure-portal=true).
 
 ## <a name="confirm-that-fingerprint-information-is-being-received-by-fraud-protection"></a>التأكد من تلقي معلومات بصمة الإصبع بواسطة Fraud Protection
 هناك طريقتان للتحقق مما إذا كان تنفيذ البصمات على جهازك ناجحاً: 

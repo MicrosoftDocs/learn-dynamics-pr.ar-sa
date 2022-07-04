@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: abdc6996ad99df04d8837f12117181e1c82f0007
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 97baa48f5fdfbc451268e096ebbefa4b8d8ba140
+ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548401"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "9014203"
 ---
 نموذج كائن واجهة برمجة التطبيقات الخاص بالعميل يعد شاملاً وثريًا. عندما تبدأ في التعرف على البرمجة النصية للعميل، ستدرك أن هناك العديد من كائنات وطرق واجهة برمجة التطبيقات (API) التي يمكنك استخدامها. في هذا الموضوع، سنلقي\'نظرة على بعض المهام الشائعة التي ستنفذها والأساليب التي يمكن استخدامها لإنجازها.
 
@@ -20,29 +20,29 @@ ms.locfileid: "8548401"
 
 |     المهمة                     |     مثال                                                                                                                                                                                                                                 |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     الوصول بحسب الاسم           |     ```csharp var   nameAttribute = formContext.getAttribute("name");```     يقوم بتعيين السمة للعمود **اسم الحساب** إلى المتغير **nameAttribute**. في حالة عدم وجود سمة في النموذج، تقوم طريقة **getAttribute** بإرجاع قيمة **فارغة**.     |
-|     الوصول إلى جميع السمات    |     ```csharp var   allAttributes = formContext.getAttribute();``` يقوم بتعيين صفيف من جميع السمات الموجودة في مجموعة **formContext.data.entity.attributes** إلى متغير **allAttributes**.                                                    |
+|     الوصول بحسب الاسم           |     ```javascript var   nameAttribute = formContext.getAttribute("name");```     يقوم بتعيين السمة للعمود **اسم الحساب** إلى المتغير **nameAttribute**. في حالة عدم وجود سمة في النموذج، تقوم طريقة **getAttribute** بإرجاع قيمة **فارغة**.     |
+|     الوصول إلى جميع السمات    |     ```javascript var   allAttributes = formContext.getAttribute();``` يقوم بتعيين صفيف من جميع السمات الموجودة في مجموعة **formContext.data.entity.attributes** إلى متغير **allAttributes**.                                                    |
 
 ## <a name="using-attributes"></a>استخدام السمات
 
 |     المهمة                                                                                                                                                                              |     مثال                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     الحصول على قيمة السمة                                                                                                                                                   |     ```csharp var nameValue   = formContext.getAttribute("name").getValue();```     يقوم بتعيين القيمة للعمود **اسم الحساب** إلى المتغير **nameAttribute**.                                                                                                     |
-|     تعيين قيمة السمة                                                                                                                                                   |     ```csharp formContext.getAttribute("name").setValue("new   name");``` يقوم بتعيين قيمة عمود **اسم الحساب** إلى "الاسم الجديد".                                                                                                                          |
-|     الحصول على كائن الخيار المحدد حاليًا في سمة OptionSet (تصف سمة OptionSet عمود اختيار Dataverse)                                                |     ```csharp var   addressTypeOption = formContext.getAttribute("address1_addresstypecode").getSelectedOption();``` يقوم بتعيين الخيار المحدد في عمود **نوع العنوان** إلى متغير **addressTypeOption**.                                            |
-|     تحديد ما إذا كانت قيمة السمة قد تغيرت في واجهة المستخدم منذ فتح النموذج                                                                         |     ```csharp var   isNameChanged = formContext.getAttribute("name").getIsDirty();``` يقوم بتعيين قيمة منطقية تشير إلى ما إذا كانت قيمة عمود **اسم الحساب** قد تغيرت إلى المتغير **isNameChanged‎**.                                             |
-|     تغيير ما إذا كانت البيانات مطلوبة في عمود من أجل حفظ سجل                                                                                                           |     ```csharp formContext.getAttribute("creditlimit").setRequiredLevel("required");``` يجعل عمود **حد الائتمان** مطلوبًا.     ```csharp formContext.getAttribute("creditlimit").setRequiredLevel("none");``` يجعل عمود **حد الائتمان** اختياريًا.          |
-|     تحديد ما إذا كان سيتم إرسال البيانات الموجودة في إحدى السمات عند حفظ السجل                                                                                           |     ```csharp var   nameSubmitMode = formContext.getAttribute("name").getSubmitMode();```     ستكون قيمة المتغير **nameSubmitMode**  نصًا إما **دائمًا أو مطلقًا أو غير نظيف** لتمثيل **submitMode** من أجل العمود **Account Name**.                          |
-|     التحكم في ما إذا كان سيتم حفظ البيانات الموجودة في إحدى السمات عند حفظ السجل                                                                                                     |     ```csharp formContext.getAttribute("name").setSubmitMode("always");``` سيفرض المثال قيمة عمود **اسم الحساب** ليتم دومًا حفظها حتى في حالة عدم تغيرها.                                                                          |
-|     عند تطبيق أمان مستوى العمود على سمة ما، حدد ما إذا كان المستخدم لديه امتيازات لإجراء عمليات الإنشاء أو القراءة أو التحديث على السمة.    |     ```csharp var   canUpdateNameAttribute = formContext.getAttribute("name").getUserPrivilege().canUpdate;``` يقوم بتعيين القيمة المنطقية التي تمثل امتياز المستخدم لتحديث عمود **اسم الحساب** إلى المتغير canUpdateNameAttribute.     |
+|     الحصول على قيمة السمة                                                                                                                                                   |     ```javascript var nameValue   = formContext.getAttribute("name").getValue();```     يقوم بتعيين القيمة للعمود **اسم الحساب** إلى المتغير **nameAttribute**.                                                                                                     |
+|     تعيين قيمة السمة                                                                                                                                                   |     ```javascript formContext.getAttribute("name").setValue("new   name");``` يقوم بتعيين قيمة عمود **اسم الحساب** إلى "الاسم الجديد".                                                                                                                          |
+|     الحصول على كائن الخيار المحدد حاليًا في سمة OptionSet (تصف سمة OptionSet عمود اختيار Dataverse)                                                |     ```javascript var   addressTypeOption = formContext.getAttribute("address1_addresstypecode").getSelectedOption();``` يقوم بتعيين الخيار المحدد في عمود **نوع العنوان** إلى متغير **addressTypeOption**.                                            |
+|     تحديد ما إذا كانت قيمة السمة قد تغيرت في واجهة المستخدم منذ فتح النموذج                                                                         |     ```javascript var   isNameChanged = formContext.getAttribute("name").getIsDirty();``` يقوم بتعيين قيمة منطقية تشير إلى ما إذا كانت قيمة عمود **اسم الحساب** قد تغيرت إلى المتغير **isNameChanged‎**.                                             |
+|     تغيير ما إذا كانت البيانات مطلوبة في عمود من أجل حفظ سجل                                                                                                           |     ```javascript formContext.getAttribute("creditlimit").setRequiredLevel("required");``` يجعل عمود **حد الائتمان** مطلوبًا.     ```javascript formContext.getAttribute("creditlimit").setRequiredLevel("none");``` يجعل عمود **حد الائتمان** اختياريًا.          |
+|     تحديد ما إذا كان سيتم إرسال البيانات الموجودة في إحدى السمات عند حفظ السجل                                                                                           |     ```javascript var   nameSubmitMode = formContext.getAttribute("name").getSubmitMode();```     ستكون قيمة المتغير **nameSubmitMode**  نصًا إما **دائمًا أو مطلقًا أو غير نظيف** لتمثيل **submitMode** من أجل العمود **Account Name**.                          |
+|     التحكم في ما إذا كان سيتم حفظ البيانات الموجودة في إحدى السمات عند حفظ السجل                                                                                                     |     ```javascript formContext.getAttribute("name").setSubmitMode("always");``` سيفرض المثال قيمة عمود **اسم الحساب** ليتم دومًا حفظها حتى في حالة عدم تغيرها.                                                                          |
+|     عند تطبيق أمان مستوى العمود على سمة ما، حدد ما إذا كان المستخدم لديه امتيازات لإجراء عمليات الإنشاء أو القراءة أو التحديث على السمة.    |     ```javascript var   canUpdateNameAttribute = formContext.getAttribute("name").getUserPrivilege().canUpdate;``` يقوم بتعيين القيمة المنطقية التي تمثل امتياز المستخدم لتحديث عمود **اسم الحساب** إلى المتغير canUpdateNameAttribute.     |
 
 ## <a name="accessing-form-controls"></a>الوصول إلى عناصر تحكم النماذج
 
 |     المهمة                                                  |     مثال                                                                                                                                                                                                                                                                                                                                         |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     الوصول إلى جميع عناصر التحكم الخاصة بسمة محددة    |     ```csharp var   nameControls = formContext.getAttribute("name").controls.get();``` يقوم بتعيين صفيف من جميع عناصر التحكم الخاصة بسِمة **الاسم** إلى المتغير **nameControls‎**. يتم تمثيل معظم السمات بعنصر تحكم واحد، ولكن قد يكون هناك أكثر من عمود واحد في حالة إضافة عمود إلى النموذج أكثر من مرة.                           |
-|     الوصول إلى عنصر تحكم بالاسم                            |     ```csharp var   nameControl = formContext.getControl("name");``` عنصر التحكم الأول المضاف إلى نموذج لعمود سيكون له نفس اسم العمود. سيكون لكل اسم عنصر تحكم إضافي رقم فهرس ملحق بالاسم. على سبيل المثال، ثلاثة عناصر تحكم لعمود الاسم سيكون لها الأسماء: **name وname1 وname2** على التوالي.    |
-|     الوصول إلى جميع عناصر التحكم                                   |     ```csharp var   allControls = formContext.getControl();``` يقوم بتعيين صفيف من جميع عناصر التحكم الموجودة في مجموعة **formContext.ui.controls** إلى متغير **allControls‎**.                                                                                                                                                                               |
+|     الوصول إلى جميع عناصر التحكم الخاصة بسمة محددة    |     ```javascript var   nameControls = formContext.getAttribute("name").controls.get();``` يقوم بتعيين صفيف من جميع عناصر التحكم الخاصة بسِمة **الاسم** إلى المتغير **nameControls‎**. يتم تمثيل معظم السمات بعنصر تحكم واحد، ولكن قد يكون هناك أكثر من عمود واحد في حالة إضافة عمود إلى النموذج أكثر من مرة.                           |
+|     الوصول إلى عنصر تحكم بالاسم                            |     ```javascript var   nameControl = formContext.getControl("name");``` عنصر التحكم الأول المضاف إلى نموذج لعمود سيكون له نفس اسم العمود. سيكون لكل اسم عنصر تحكم إضافي رقم فهرس ملحق بالاسم. على سبيل المثال، ثلاثة عناصر تحكم لعمود الاسم سيكون لها الأسماء: **name وname1 وname2** على التوالي.    |
+|     الوصول إلى جميع عناصر التحكم                                   |     ```javascript var   allControls = formContext.getControl();``` يقوم بتعيين صفيف من جميع عناصر التحكم الموجودة في مجموعة **formContext.ui.controls** إلى متغير **allControls‎**.                                                                                                                                                                               |
 
 ## <a name="use-form-controls"></a>استخدام عناصر تحكم النماذج
 
@@ -50,13 +50,13 @@ ms.locfileid: "8548401"
 
 |المهمة  |مثال  |
 |---------|---------|
-|تحديد ما إذا كان عنصر التحكم مرئيًا     |  ```csharp var   isNameVisible = formContext.getControl("name").getVisible();``` يقوم بتعيين قيمة **منطقية** إلى متغير **isNameVisible‎** الذي يمثل ما إذا كان عمود **اسم الحساب** مرئيًا أم لا.       |
-|إخفاء عنصر تحكم أو إظهاره     |  ```csharp formContext.getControl("name").setVisible(false);``` يقوم بإخفاء عمود **اسم الحساب**.       |
-|الحصول على مرجع إلى سمة عنصر التحكم      | ```csharp var   nameAttribute = formContext.getControl("name").getAttribute();```     يقوم بتعيين السمة لعنصر التحكم لعمود **اسم الحساب** إلى المتغير **nameAttribute**.                             |
-|تعطيل أو تمكين جميع عناصر التحكم لإحدى السمات     | ```csharp formContext.getAttribute("name").controls.forEach(function   (control, index) { control.setDisabled(true); });``` تذكر أن أي سمة قد تتضمن عناصر تحكم متعددة.        |
-|تغيير تسمية عنصر تحكم     | ```csharp formContext.getControl("name").setLabel("Company   Name");``` يقوم بتعيين تسمية عمود **اسم الحساب** إلى نص **اسم الشركة**.        |
-|الحصول على أصل عنصر تحكم     |  ```csharp var   parentSection = formContext.getControl("name").getParent();``` يقوم بتعيين عنصر التحكم الأصلي للعمود **اسم الحساب** إلى المتغير **parentSection‎**.        |
-|تعيين التركيز على عنصر تحكم     | ```csharp formContext.getControl("name").setFocus();``` يقوم بتعيين تركيز الإدخال الحالي إلى عمود **اسم الحساب**.        |
+|تحديد ما إذا كان عنصر التحكم مرئيًا     |  ```javascript var   isNameVisible = formContext.getControl("name").getVisible();``` يقوم بتعيين قيمة **منطقية** إلى متغير **isNameVisible‎** الذي يمثل ما إذا كان عمود **اسم الحساب** مرئيًا أم لا.       |
+|إخفاء عنصر تحكم أو إظهاره     |  ```javascript formContext.getControl("name").setVisible(false);``` يقوم بإخفاء عمود **اسم الحساب**.       |
+|الحصول على مرجع إلى سمة عنصر التحكم      | ```javascript var   nameAttribute = formContext.getControl("name").getAttribute();```     يقوم بتعيين السمة لعنصر التحكم لعمود **اسم الحساب** إلى المتغير **nameAttribute**.                             |
+|تعطيل أو تمكين جميع عناصر التحكم لإحدى السمات     | ```javascript formContext.getAttribute("name").controls.forEach(function   (control, index) { control.setDisabled(true); });``` تذكر أن أي سمة قد تتضمن عناصر تحكم متعددة.        |
+|تغيير تسمية عنصر تحكم     | ```javascript formContext.getControl("name").setLabel("Company   Name");``` يقوم بتعيين تسمية عمود **اسم الحساب** إلى نص **اسم الشركة**.        |
+|الحصول على أصل عنصر تحكم     |  ```javascript var   parentSection = formContext.getControl("name").getParent();``` يقوم بتعيين عنصر التحكم الأصلي للعمود **اسم الحساب** إلى المتغير **parentSection‎**.        |
+|تعيين التركيز على عنصر تحكم     | ```javascript formContext.getControl("name").setFocus();``` يقوم بتعيين تركيز الإدخال الحالي إلى عمود **اسم الحساب**.        |
 
 ## <a name="use-tabs-and-sections"></a>استخدام علامات التبويب والأقسام
 
@@ -64,9 +64,9 @@ ms.locfileid: "8548401"
 
 |     المهمة                            |     مثال                                                                                                                           |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|     إظهار علامة تبويب أو إخفاؤها              |     ```csharp formContext.ui.tabs.get("general").setVisible(false);``` يقوم بإخفاء علامة التبويب **عام**.                                                      |
-|     تغيير تسمية علامة تبويب    |     ```csharp formContext.ui.tabs.get("general").setLabel("Major"); ``` يقوم بتعيين تسمية علامة تبويب **عام** إلى نص **رئيسي**.                  |
-|     إظهار قسم أو إخفاؤه          |     ```csharp formContext.getControl("industrycode").getParent().setVisible(false);``` يقوم بإظهار قسم يحتوي على عمود **كود الصناعة**.    |
+|     إظهار علامة تبويب أو إخفاؤها              |     ```javascript formContext.ui.tabs.get("general").setVisible(false);``` يقوم بإخفاء علامة التبويب **عام**.                                                      |
+|     تغيير تسمية علامة تبويب    |     ```javascript formContext.ui.tabs.get("general").setLabel("Major"); ``` يقوم بتعيين تسمية علامة تبويب **عام** إلى نص **رئيسي**.                  |
+|     إظهار قسم أو إخفاؤه          |     ```javascript formContext.getControl("industrycode").getParent().setVisible(false);``` يقوم بإظهار قسم يحتوي على عمود **كود الصناعة**.    |
 
 ## <a name="use-entity-data"></a>استخدام بيانات الكيان
 
@@ -74,6 +74,6 @@ ms.locfileid: "8548401"
 
 |     المهمة                                                              |     مثال                                                                                                                                                                                                |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     الحصول على *معرّف* للسجل الحالي                                |     ```csharp var recordId =   formContext.data.entity.getId();``` يقوم بتعيين معرف فريد للسجل الحالي إلى متغير **recordId‎**. إذا تم فتح النموذج لإنشاء سجل جديد، فيتم إرجاع قيمة **فارغة**.    |
-|     حفظ السجل الحالي                                         |     ```csharp formContext.data.entity.save();``` استخدم **saveandclose‎** أو **saveandnew‎** لتنفيذ الإجراءات المكافئة باستخدام **حفظ وإغلاق** أو **حفظ وجديد**                                                    |
-|     حدد تغيير أي بيانات في السجل الحالي من عدمه.    |     ```csharp var isDirty = formContext.data.entity.getIsDirty();``` يقوم بتعيين قيمة منطقية تشير إلى ما إذا كانت أي قيمة عمود في النموذج قد تغيرت إلى المتغير **isDirty**.                       |
+|     الحصول على *معرّف* للسجل الحالي                                |     ```javascript var recordId =   formContext.data.entity.getId();``` يقوم بتعيين معرف فريد للسجل الحالي إلى متغير **recordId‎**. إذا تم فتح النموذج لإنشاء سجل جديد، فيتم إرجاع قيمة **فارغة**.    |
+|     حفظ السجل الحالي                                         |     ```javascript formContext.data.entity.save();``` استخدم **saveandclose‎** أو **saveandnew‎** لتنفيذ الإجراءات المكافئة باستخدام **حفظ وإغلاق** أو **حفظ وجديد**                                                    |
+|     حدد تغيير أي بيانات في السجل الحالي من عدمه.    |     ```javascript var isDirty = formContext.data.entity.getIsDirty();``` يقوم بتعيين قيمة منطقية تشير إلى ما إذا كانت أي قيمة عمود في النموذج قد تغيرت إلى المتغير **isDirty**.                       |

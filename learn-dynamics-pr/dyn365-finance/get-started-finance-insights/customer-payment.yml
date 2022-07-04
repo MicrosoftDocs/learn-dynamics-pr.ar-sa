@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-finance-insights.customer-payment
+title: تنبؤات دفع العميل
+metadata:
+  title: تنبؤات دفع العميل
+  description: التعرّف على كيفية قيام Finance Insights بالتنبؤ بمدفوعات العميل استنادًا إلى البيانات المحفوظة.
+  ms.date: 06/08/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 053d40e8ae0821a59ef3b60c9cc504441f39efae
+  ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/13/2022
+  ms.locfileid: "8955760"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/customer-payment.md)]

@@ -3,17 +3,17 @@ uid: learn-dynamics.application-foundation-al-language
 metadata:
   title: تعرف على البنية الأساسية للتطبيق باستخدام لغة البرمجة AL لـ Microsoft Dynamics 365 Business Central
   description: هل تود بدء تطوير حلول باستخدام لغة التطبيق (AL) لـ Business Central؟ يقدم مسار التعليم هذا AL ويناقش العبارات والوحدات البرمجية (codeunits) والوظائف والأحداث والمشغلات والمزيد.
-  ms.date: 08/24/2021
+  ms.date: 06/17/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 6666b4f344fc9d3896026bd881f909e14884aae6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e943ba67e132acef6c357eca5ec0740803e6d042
+  ms.sourcegitcommit: c3d3ea2a6b876f1fd5dbdb548b8c69f963f53e01
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752664"
+  ms.lasthandoff: 06/18/2022
+  ms.locfileid: "9027694"
 title: تعرف على البنية الأساسية للتطبيق باستخدام لغة البرمجة AL لـ Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تود بدء تطوير حلول باستخدام لغة التطبيق (AL) لـ Business Central؟ يقدم مسار التعليم هذا AL ويناقش العبارات والوحدات البرمجية (codeunits) والوظائف والأحداث والمشغلات والمزيد. \n"
 prerequisites: "- معرفة كيفية إنشاء مشروع AL Extension جديد\n- المعرفة الأساسي بـ Dynamics 365 Business Central وطريقة عمله    \n- تجربة المطور السابقة باستخدام AL أو لغة برمجة أخرى ذات فائدة كبيرة\n"
@@ -32,6 +32,7 @@ modules:
 - learn-dynamics.intro-basics-al-programming
 - learn-dynamics.al-statements
 - learn-dynamics.al-built-in-functions
+- learn-dynamics.handle-errors
 - learn-dynamics.create-custom-functions
 - learn-dynamics.work-with-codeunits
 - learn-dynamics.events-triggers

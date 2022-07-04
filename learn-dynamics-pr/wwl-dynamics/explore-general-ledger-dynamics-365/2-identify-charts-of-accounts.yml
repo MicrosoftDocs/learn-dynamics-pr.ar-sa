@@ -4,17 +4,18 @@ title: تحديد مخططات الحسابات
 metadata:
   title: تحديد مخططات الحسابات
   description: تحديد مخططات الحسابات
-  ms.date: 07/15/2021
+  ms.date: 06/16/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-finance
-  ms.openlocfilehash: 1eec259e8a3593ca0481e35b638b8920a6e36d2a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: e0e900cd58062e6c93ed0e394e6a20c6e9084e60
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438730"
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021404"
 azureSandbox: false
+labModal: false
 durationInMinutes: 4
 content: '[!include[](includes/2-identify-charts-of-accounts.md)]'

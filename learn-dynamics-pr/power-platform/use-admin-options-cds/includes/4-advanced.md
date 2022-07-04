@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e229cc1eb16f8880b5ded5ca9178638a943e334b
-ms.sourcegitcommit: 806edd941f533c452c0c7dd877468ba048706d13
+ms.openlocfilehash: 9b4cae5b7bd12a294d705a83e63dc8af39c15000
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/20/2022
-ms.locfileid: "8617342"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954865"
 ---
 بصفتك مسؤولاً، هناك العديد من المهام المختلفة التي ستحتاج إلى القيام بها في بيئتك. على سبيل المثال، قد ترغب في تعديل إعدادات الأمان أو تمكين التدوين. يمكن إدارة العديد من هذه الإعدادات لكل بيئة في المستأجر الخاص بك من مركز مسؤولي Power Platform. ضمن البيئات، حدد البيئة التي تريد العمل معها. سينقلك هذا إلى شاشة تفاصيل البيئات، حيث يمكنك تحرير وإدارة تفاصيل محددة حول البيئة.
 
@@ -42,7 +42,7 @@ ms.locfileid: "8617342"
 
 -   **تطبيقات S2S (خادم إلى خادم):** تسمح لك بتوصيل بعض تطبيقات الويب بـ Dataverse.
 
-تم شرح أدوار الأمان بالتفصيل في وحدة [الشروع في العمل باستخدام أدوار الأمان في Dataverse](https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/) في مسار التعليم هذا.
+تم شرح أدوار الأمان بالتفصيل في وحدة [الشروع في العمل باستخدام أدوار الأمان في Dataverse](/learn/modules/get-started-security-roles/) في مسار التعليم هذا.
 
 **التحديثات**
 

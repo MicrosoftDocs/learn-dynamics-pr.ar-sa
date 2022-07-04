@@ -3,19 +3,19 @@ uid: learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops
 metadata:
   title: تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance
   description: في أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. يوفر دفتر الأستاذ أيضًا الوسائل لمشاركة دليل الحسابات والعملات والتقويم المالي من قِبل كيانات قانونية متعددة.
-  ms.date: 06/02/2020
+  ms.date: 06/10/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9f7fee7803bea65344c12a556cb5837b9347f1a6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 41999b0433612b752275b4e1d27bfb77cae6c105
+  ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750719"
+  ms.lasthandoff: 06/13/2022
+  ms.locfileid: "8954964"
 title: تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي أي مشروع لتطبيق Dynamics 365 Finance، الخطوة الأولى هي تكوين وحدة دفتر الأستاذ العام. تقوم جميع الوحدات الأخرى بترحيل حركاتها المالية ذات الصلة في دفتر الأستاذ العام. يوفر دفتر الأستاذ أيضًا الوسائل لمشاركة دليل الحسابات والعملات والتقويم المالي من قِبل كيانات قانونية متعددة. \n"
-abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- أنواع مختلفة من دفاتر اليومية وإعدادها.    \n- طريقة تكوين إعداد دفتر الأستاذ والترحيل.\n- طريقة تكوين دفاتر اليومية واستخدامها.\n- كيفية إعداد قواعد نقل الدفعات.\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- أنواع مختلفة من دفاتر اليومية وإعدادها.    \n- طريقة تكوين إعداد دفتر الأستاذ والترحيل.\n- طريقة تكوين دفاتر اليومية واستخدامها.\n- كيفية عكس ترحيل دفتر اليومية.\n- كيفية إعداد قواعد نقل الدفعات.\n"
 prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n- التعرف على كيفية إعداد دليل الحسابات في Finance \n- القدرة على استخدام Finance للمعالجة الأساسية\n- معرفة التنقل الأساسي في Finance\n"
 iconUrl: /learn/achievements/configure-ledgers-journals-in-dynamics-365-finance-ops.svg
 levels:
@@ -33,6 +33,7 @@ units:
 - learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.2-different-types-of-journals
 - learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.3-configure-ledger-journal-setup
 - learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.4-configure-use-journals
+- learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.reverse-journal-posting
 - learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.set-up-batch-transfer-rules
 - learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.5-exercise-configure-ledger-journal-setup
 - learn-dynamics.configure-ledgers-journals-in-dynamics-365-finance-ops.6-configure-ledgers-journals-quiz

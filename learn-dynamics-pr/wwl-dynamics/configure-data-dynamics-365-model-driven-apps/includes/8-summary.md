@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e87178fb6162b481a85c23a86acd24ebae472c2b
-ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
+ms.openlocfilehash: ad28a2a3c369d95eb4b05ecf307c79f9460bc354
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "8756441"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8954845"
 ---
 في هذه الوحدة، تناولنا الطرق المختلفة التي يمكنك بها استخدام Microsoft Dataverse لتخصيص وتوسيع تطبيقات Dynamics 365 المستندة إلى نموذج بدون تعليمات برمجية. تشمل الطرق سهلة الاستخدام لتلبية متطلبات العمل الفريدة ما يلي:
 

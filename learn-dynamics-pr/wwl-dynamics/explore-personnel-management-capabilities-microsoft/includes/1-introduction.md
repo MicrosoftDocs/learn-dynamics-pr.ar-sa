@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 29c0fd220420ff78755cd7d38eed78e2e04c15f319b35e79387e16f550c825b6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 698fa888003c51b20ffcaf9ca02fb05ad7bee3e9
+ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7438295"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "8955004"
 ---
 تُعد إدارة شؤون الموظفين جزء أساسي من إدارة الموارد البشرية. باستخدام إمكانات إدارة الموظفين في Dynamics 365، يمكنك تحسين عمليات الموارد البشرية لديك مع التركيز على الأشياء الأكثر أهمية:
 
@@ -14,7 +14,7 @@ ms.locfileid: "7438295"
 
 ## <a name="learning-objectives"></a>الأهداف التعليمية
 
-خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+وفي نهاية هذه الوحدة النمطية، ستتمكن من:
 
  -  وصف إمكانات الخدمة الذاتية.
  -  وصف إمكانات الإجازة والغياب.

@@ -3,17 +3,17 @@ uid: learn-dynamics.configure-tax-module-in-dynamics-365-finance-ops.9-sales-tax
 title: ضريبة المبيعات في الحركات
 metadata:
   title: ضريبة المبيعات في الحركات
-  description: تصف هذه الوحدة ضريبة المبيعات في الحركات في Dynamics 365 Finance.
-  ms.date: 05/12/2021
+  description: تصف هذه الوحدة ضريبة المبيعات في الحركات في Dynamics 365 Finance
+  ms.date: 06/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: acd5d851d360c3cb1f6759aa94c44568989f3fd1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8d6b2b3b652a110a98eea0fff76f890a078161e2
+  ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350460"
+  ms.lasthandoff: 06/15/2022
+  ms.locfileid: "9013783"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

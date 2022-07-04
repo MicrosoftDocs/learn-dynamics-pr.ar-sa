@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-commerce-capabilities.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: cfd8c42ca247623666449dd4aa884ef272c6cae3
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025476"
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: تحتاج Northwind Traders إلى تحسين تنفيذ الأوامر عبر شبكة معقّدة من الأنظمة والعمليات. ما إمكانية Dynamics 365 Commerce التي يجب أن يعتمدوا عليها؟
+    choices:
+    - content: عمليات الفرز.
+      isCorrect: false
+      explanation: غير صحيح.‬ تُستخدم عمليات الفرز لتحديد المنتجات المتوفرة وفي أي قنوات يتم توفرها خلال فترات زمنية محددة.
+    - content: تحليلات البيع بالتجزئة.
+      isCorrect: false
+      explanation: غير صحيح.‬ يوفر حل تحليلات commerce تقارير شاملة للأعمال والحركات ولوحات المعلومات ومؤشرات الأداء الرئيسية التي تستفيد من الرؤى عبر جميع القنوات.
+    - content: إدارة الأوامر الموزعة (DOM).
+      isCorrect: true
+      explanation: صحيح. تعتمد DOM على طريقة عرض عمومية واحدة للمخزون عبر المؤسسة بكاملها تسمح بإدارة الأوامر بطريقة ذكية، بحيث يتم تنفيذها بطريقة دقيقة ومعقولة التكلفة.
+  - content: تحتاج Maria، وهي موظفة في Northwind Traders، إلى تكوين مجموعات لقناة البيع بالتجزئة والقناة عبر الإنترنت. تشترك كلتا القناتين في نفس مجموعات المنتجات. كيف ستفعل ذلك؟
+    choices:
+    - content: استخدم التدرج الهرمي للمؤسسة.
+      isCorrect: true
+      explanation: صحيح. عندما تشترك العديد من القنوات في نفس مجموعات المنتجات، يمكنك تكوين عمليات الفرز باستخدام التدرج الهرمي لمؤسسة فرز Commerce.
+    - content: استخدم التدرجات الهرمية لفئات المنتج.
+      isCorrect: false
+      explanation: غير صحيح.‬ يمكنك استخدام التدرجات الهرمية لفئات المنتج لتضمين مجموعات من المنتجات.
+    - content: استخدم الخيار "استبعاد".
+      isCorrect: false
+      explanation: غير صحيح.‬ يمكنك استخدام خيار "استبعاد" لتحديد منتجات أو فئات معينة يجب استبعادها من عمليات الفرز.
+  - content: تقوم شركة بتنفيذ Dynamics 365 Commerce. يجب عليك اقتراح خيارات Store Commerce والقدرات دون اتصال لمواقع البيع بالتجزئة الخاصة بإحدى الشركات. ما خيار تطبيق Store Commerce الذي يجب استخدامه؟
+    choices:
+    - content: Store Commerce لـ Windows.
+      isCorrect: true
+      explanation: صحيح. يتم تثبيت تطبيق Store Commerce لنظام التشغيل Windows في جهاز نقطة البيع (POS) ويمكن تشغيله أيضًا في وضع عدم الاتصال.
+    - content: Store Commerce لـ iOS.
+      isCorrect: false
+      explanation: غير صحيح.‬ تطبيق Store Commerce لنظام التشغيل iOS لا يدعم حاليًا وضع عدم الاتصال.
+    - content: Store Commerce لـ Browsers.
+      isCorrect: false
+      explanation: غير صحيح.‬ يتم تثبيت Store Commerce لتطبيق Browser في سحابة Microsoft Azure. ولكي يعمل، يجب أن يكون لديك اتصال بالإنترنت.

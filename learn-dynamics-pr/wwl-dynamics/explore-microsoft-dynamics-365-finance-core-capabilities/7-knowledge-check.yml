@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-finance-core-capabilities.knowledge-check
+title: التحقق من المعرفة
+metadata:
+  title: التحقق من المعرفة
+  description: التحقق من المعرفة
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: d74136be906c82c7f86a7a00554b86afbabfe8a4
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9024572"
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: >
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: اختبر معلوماتك
+  questions:
+  - content: استحوذت شركة Contoso USA مؤخرًا على شركة تصنيع جديدة في كندا. أولاً، ما الذي يجب عليها إنشاؤه في Dynamics 365 Finance لاستيعاب هذا الاستحواذ؟
+    choices:
+    - content: وحدة تشغيل جديدة
+      isCorrect: false
+      explanation: غير صحيح.‬ ستكون هناك وحدة تشغيل داخل كيان قانوني. لذلك، يجب إنشاء كيان قانوني أولاً.
+    - content: مستودع جديد
+      isCorrect: false
+      explanation: غير صحيح.‬ سيكون هناك مستودع داخل كيان قانوني. لذلك، يجب إنشاء كيان قانوني أولاً.
+    - content: كيان قانوني جديد
+      isCorrect: true
+      explanation: صحيح. يجب عليك تخطيط وتكوين مؤسستك وإنشاء كيانات قانونية كأحد الخطوات الأولى لتنفيذ تطبيقات التمويل والعمليات.
+  - content: يتم تطبيق ضريبة المبيعات على كلٍّ من المنتجات التي تقوم Contoso بتصنيعها والمواد التي يشترونها من الموردين الآخرين. ما نوع المجموعة الضريبية التي يجب إنشاؤها لكل حركة؟
+    choices:
+    - content: فقط مجموعة ضريبة مبيعات الصنف
+      isCorrect: false
+      explanation: غير صحيح.‬ تحتاج أيضًا إلى رموز ضريبة المبيعات المرفقة بالعملاء والموردين، بينما تعد مجموعة ضريبة مبيعات الصنف ضرورية.
+    - content: مجموعة ضريبة المبيعات ومجموعة ضريبة مبيعات الصنف
+      isCorrect: true
+      explanation: صحيح. يجب أن تشتمل كل حركة تستلزم حساب ضريبة المبيعات لها وترحيلها على مجموعة ضريبة مبيعات ومجموعة ضريبة مبيعات صنف.
+    - content: فقط مجموعة ضريبة المبيعات
+      isCorrect: false
+      explanation: غير صحيح.‬ تحتاج أيضًا إلى رموز ضريبة المبيعات المرفقة بموارد مثل المنتجات، بينما تعد مجموعة ضريبة المبيعات ضرورية.
+  - content: أيّ من الحقول التالية في بطاقة **نوع التكلفة** ستستخدمه كعامل تصفية إذا احتجت إلى تحليل أنواع التكلفة التي تحتوي على تكاليف متغيرة فقط؟
+    choices:
+    - content: النوع
+      isCorrect: false
+      explanation: غير صحيح.‬ يحدد حقل النوع الغرض من نوع التكلفة ويستخدم لهيكلة مخطط أنواع التكلفة عن طريق إدراج بنود الإجمالي.
+    - content: تصنيف التكلفة
+      isCorrect: true
+      explanation: 'صحيح. يعمل تصنيف التكلفة كعامل تصفية مع الخيارات التالية: غير محدد، وثابت، ومتغير، ومتغير الخطوة.'
+    - content: الرصيد
+      isCorrect: false
+      explanation: غير صحيح.‬ يُظهر هذا الحقل رصيد جميع الإدخالات في نوع التكلفة.

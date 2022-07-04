@@ -1,20 +1,21 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.identify-project-operations-capabilities.explore-project-based-services
-title: استكشاف الخدمات المستندة إلى المشروع
+title: استكشاف الخدمات المستندة إلى المشروع وأنواع المشاريع
 metadata:
-  title: استكشاف الخدمات المستندة إلى المشروع
-  description: استكشاف الخدمات المستندة إلى المشروع
-  ms.date: 07/15/2021
+  title: استكشاف الخدمات المستندة إلى المشروع وأنواع المشاريع
+  description: استكشاف الخدمات المستندة إلى المشروع وأنواع المشاريع
+  ms.date: 06/17/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 862a7cb713b6e25fe2543a9eef7dacb725bd7f89
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.prod: learning-d365
+  ms.openlocfilehash: ffc449e84b7f9457e6389bfba4420919490408ea
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7438522"
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025399"
 azureSandbox: false
+labModal: false
 durationInMinutes: 3
 content: '[!include[](includes/2-explore-project-based-services.md)]'

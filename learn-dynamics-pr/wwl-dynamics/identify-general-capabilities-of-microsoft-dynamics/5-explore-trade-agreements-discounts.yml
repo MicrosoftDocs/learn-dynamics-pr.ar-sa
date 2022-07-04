@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.explore-trade-agreements-discounts
+title: استكشاف اتفاقيات التجارة والخصومات
+metadata:
+  title: استكشاف اتفاقيات التجارة والخصومات
+  description: استكشاف اتفاقيات التجارة والخصومات
+  ms.date: 06/17/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 420ad99b057da961242c25d0a35d31f9fc0f0c5a
+  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/17/2022
+  ms.locfileid: "9025519"
+azureSandbox: false
+labModal: false
+durationInMinutes: 5
+content: '[!include[](includes/5-explore-trade-agreements-discounts.md)]'

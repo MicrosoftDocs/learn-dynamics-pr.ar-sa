@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-project-planning-execution-capabilities.create-manage-work-breakdown-structures
+title: إنشاء هياكل تنظيم العمل وإدارتها
+metadata:
+  title: إنشاء هياكل تنظيم العمل وإدارتها
+  description: إنشاء هياكل تنظيم العمل وإدارتها
+  ms.date: 06/16/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: e13d8264bc93589730d7c8f2034bc6eca0e7d194
+  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/16/2022
+  ms.locfileid: "9021694"
+azureSandbox: false
+labModal: false
+durationInMinutes: 8
+content: '[!include[](includes/4-create-manage-work-breakdown-structures.md)]'

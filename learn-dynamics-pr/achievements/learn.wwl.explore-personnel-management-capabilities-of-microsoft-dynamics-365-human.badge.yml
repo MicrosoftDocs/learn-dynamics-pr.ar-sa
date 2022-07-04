@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.wwl.explore-personnel-management-capabilities-of-microsoft-dynamics-365-human.badge
 metadata:
-  title: 'Microsoft Badge: تم إصدار استكشاف إمكانات إدارة الموظفين في Microsoft Dynamics 365 Human Resources من خلال Microsoft'
-  ms.openlocfilehash: 7fc610e62d3c7a9393f562f5fe9a2637e1c40580
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: تم إصدار وحدة استكشاف إمكانات إدارة الموظفين في Dynamics 365 Human Resources من خلال Microsoft'
+  ms.openlocfilehash: fd1f4ee915d7f539820e2f556c606a821abefcc5
+  ms.sourcegitcommit: 7b8dffc298be4d229028e00f0eb9030a71259be5
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772703"
+  ms.lasthandoff: 06/14/2022
+  ms.locfileid: "8959912"
 socialImageUrl: /learn/achievements/dynamics-personnel-management-human-resources-social.png

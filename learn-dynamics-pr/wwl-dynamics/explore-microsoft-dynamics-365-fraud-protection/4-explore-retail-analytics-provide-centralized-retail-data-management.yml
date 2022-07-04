@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.explore-microsoft-dynamics-365-fraud-protection.explore-retail-analytics-provide-centralized-retail-data-management
+title: استكشف كيفية إنشاء تجارب عملاء مخصصة داخل المتجر باستخدام Dynamics 365 Commerce
+metadata:
+  title: استكشف كيفية إنشاء تجارب عملاء مخصصة داخل المتجر باستخدام Dynamics 365 Commerce
+  description: استكشف كيفية إنشاء تجارب عملاء مخصصة داخل المتجر باستخدام Dynamics 365 Commerce
+  ms.date: 06/14/2022
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: interactive-tutorial
+  ms.prod: learning-d365
+  ms.openlocfilehash: 17ff42fc935d66a77ca27ec0699768424f9bf1d8
+  ms.sourcegitcommit: 6ff9cb62ba54399590302871628170367686827d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/14/2022
+  ms.locfileid: "9010613"
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: '[!include[](includes/4-explore-retail-analytics-provide-centralized-retail-data-management.md)]'
