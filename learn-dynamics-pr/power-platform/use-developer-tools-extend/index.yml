@@ -21,7 +21,7 @@ summary: >
 
   ستركز هذه الوحدة على أدوات المطوّر المتوفرة التي يمكن أن تساعدك على تنفيذ أنشطة التطوير باستخدام Microsoft Power Platform.
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تثبيت حزم NuGet المتوفرة لتطوير Microsoft Power Platform \n- العمل باستخدام أداة ترحيل التكوين \n- العمل باستخدام Package Deployer \n- الاستفادة من أداة إنشاء حزم الحلول في عزل الميزات \n- تشغيل أداة Plugin Registration Tool \n"
-prerequisites: "- الفهم الأساسي بخصوص Microsoft Power Platform وكيفية وصول المستخدمين إلى 365 Microsoft Dynamics. \n- يُعد الفهم الأساسي للوصول إلى مختلف الميزات اعتماداً على تراخيص المستخدم مفيداً أيضًا.\n"
+prerequisites: "- الفهم الأساسي بخصوص Microsoft Power Platform وكيفية وصول المستخدمين إلى 365 Microsoft Dynamics. \n- يُعد الفهم الأساسي للوصول إلى مختلف الميزات اعتماداً على تراخيص المستخدم مفيداً أيضاً.\n"
 iconUrl: /learn/achievements/use-developer-tools-extend.svg
 levels:
 - advanced

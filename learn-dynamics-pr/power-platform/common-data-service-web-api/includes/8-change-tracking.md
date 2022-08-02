@@ -63,7 +63,7 @@ Content-Type: application/json
 GET [Organization URI]/api/data/v9.2/accounts?$select=name,accountnumber,telephone1,fax&$deltatoken=919042%2108%2f22%2f2017%2008%3a10%3a44
 ```
 
-في هذا السيناريو، تخيل أنه تم إنشاء حساب جديد وتم حذف آخر. ردك سيكون مشابهًا للمثال التالي بعد ذلك:
+في هذا السيناريو، تخيل أنه تم إنشاء حساب جديد وتم حذف آخر. ردك سيكون مشابهاً للمثال التالي بعد ذلك:
 
 ```odata
 {
@@ -91,7 +91,7 @@ GET [Organization URI]/api/data/v9.2/accounts?$select=name,accountnumber,telepho
 
 ## <a name="retrieve-the-number-of-changes-in-a-delta"></a>استرداد عدد التغييرات في delta
 
-يمكنك أيضًا استرداد عدد التغييرات التي تم إجراؤها في وحدة delta معينة عن طريق إضافة المعلمة $count إلى الطلب الخاص بك.
+يمكنك أيضاً استرداد عدد التغييرات التي تم إجراؤها في وحدة delta معينة عن طريق إضافة المعلمة $count إلى الطلب الخاص بك.
 
 ```odata
 GET [Organization URI]/api/data/v9.2/accounts/$count?$deltatoken=919042%2108%2f22%2f2017%2008%3a10%3a44

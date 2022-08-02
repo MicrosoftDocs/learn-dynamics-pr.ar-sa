@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: af36c04e33026dd59894e70b1f7b747be752e03e
-ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
+ms.openlocfilehash: af8f9585ec064c6f0dd5199ba5417f2a3c3e44b8
+ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "9014323"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "7625160"
 ---
 في هذا التمرين، ستستخدم البرنامج النصي للعميل لتنفيذ متطلبات العمل لإخفاء قسم الحالة عندما يكون تاريخ بدء المشروع غير متوفر أو في المستقبل.
 
@@ -41,7 +41,7 @@ ms.locfileid: "9014323"
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لزر "تحديد المكونات".](../media/select-components.png)](../media/select-components.png#lightbox)
 
-1.  حدد علامة تبويب **النماذج**، ثم حدد نموذج **معلومات** من أجل **نوع النموذج** الرئيسي ، ثم انقر فوق **إضافة**.
+1.  حدد علامة تبويب **النماذج**، ثم حدد نموذج **معلومات** من أجل **نوع النموذج** الرئيسي، ثم انقر فوق **إضافة**.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لإضافة نافذة المكونات.](../media/add-component.png)](../media/add-component.png#lightbox)
@@ -60,7 +60,7 @@ ms.locfileid: "9014323"
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لقسم "الحالة".](../media/status.png)](../media/status.png#lightbox)
 
-1. في جزء **الخصائص**، قم بتغيير **الاسم** إلى **section\_status**، وقم بالتحقق من خانة الاختيار **إخفاء**. بشكلٍ افتراضي، يتم تعيين GUID كاسم للقسم. وسيتم تغييره إلى اسم ذي معني بالنسبة لك والذي سيشار إليه في البرامج النصية. ستقوم أيضًا بإخفاء القسم بشكلٍ افتراضي لتقليل التأثير المزعج الناتج عن إظهاره ومن ثمَّ إخفائه عند تحميل النموذج.
+1. في جزء **الخصائص**، قم بتغيير **الاسم** إلى **section\_status**، وقم بالتحقق من خانة الاختيار **إخفاء**. بشكلٍ افتراضي، يتم تعيين GUID كاسم للقسم. وسيتم تغييره إلى اسم ذي معني بالنسبة لك والذي سيشار إليه في البرامج النصية. ستقوم أيضاً بإخفاء القسم بشكلٍ افتراضي لتقليل التأثير المزعج الناتج عن إظهاره ومن ثمَّ إخفائه عند تحميل النموذج.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لخانة اختيار "إخفاء".](../media/hide.png)](../media/hide.png#lightbox)
@@ -99,7 +99,7 @@ ms.locfileid: "9014323"
 
 في هذه المهمة، ستقوم بإنشاء برنامج نصي يقوم بإظهار / إخفاء قسم "الحالة" بناءً على تاريخ بدء المشروع.
 
-قم بإخفاء قسم الحالة. إذا كان تاريخ بدء المشروع فارغًا أو في المستقبل، فإنه يعرض قسم "الحالة".
+قم بإخفاء قسم الحالة. إذا كان تاريخ بدء المشروع فارغاً أو في المستقبل، فإنه يعرض قسم "الحالة".
 
 1.  قم ببدء مثيل جديد من Visual Studio Code أو استخدام محرر الكود المفضل لديك. يمكنك تنزيل كود [Visual Studio وتثبيته](https://code.visualstudio.com/?azure-portal=true).
 
@@ -124,7 +124,7 @@ ms.locfileid: "9014323"
 
 1.  أضف الدالات الموجودة أدناه إلى **FormTeamProject.js**. يجب أن يكون للدالات أسماء فريدة أو تستخدم مساحة اسم لضمان التفرد.
 
-    ```javascript
+    ```csharp
     function LearnLab_handleTeamProjectOnLoad(executionContext) {
     
     }
@@ -136,9 +136,9 @@ ms.locfileid: "9014323"
     }
     ```
 
-1.  أضف البرنامج النصي الوارد أدناه إلى الدالة OnLoad‎. لاحظ اسم عمود بدء المشروع هنا sample\_projectstart. هذا هو الاسم المنطقي الذي قمت بحفظه سابقًا. يسجل هذا الكود معالج الأحداث onchange ويستدعي دالة مشتركة لإظهار / إخفاء القسم. يجب عليك معالجة "on change" في حالة تغيير إدخال تاريخ بدء المشروع لمتطلب الإخفاء/ الإظهار.
+1.  أضف البرنامج النصي الوارد أدناه إلى الدالة OnLoad‎. لاحظ اسم عمود بدء المشروع هنا sample\_projectstart. هذا هو الاسم المنطقي الذي قمت بحفظه سابقاً. يسجل هذا الكود معالج الأحداث onchange ويستدعي دالة مشتركة لإظهار / إخفاء القسم. يجب عليك معالجة "on change" في حالة تغيير إدخال تاريخ بدء المشروع لمتطلب الإخفاء/ الإظهار.
 
-    ```javascript
+    ```csharp
     var formContext = executionContext.getFormContext();
     formContext.getAttribute('sample_projectstart').addOnChange(LearnLab_handleProjectStatusOnChange);
     LearnLab_hideOrShowStatusSection(formContext);
@@ -149,14 +149,14 @@ ms.locfileid: "9014323"
 
 1.  أضف البرنامج النصي الوارد أدناه إلى الدالة OnChange‎. ويحصل هذا الكود ببساطة على formContext ثم يستدعي الدالة المشتركة للإخفاء/الإظهار.
 
-    ```javascript
+    ```csharp
     var formContext = executionContext.getFormContext();
     LearnLab_hideOrShowStatusSection(formContext);
     ```
 
 1. أضف البرنامج النصي الوارد أدناه إلى الدالة **hideOrShowStatusSection‎**. لاحظ أن اسم علامة التبويب هو **tab\_general** واسم القسم هو **section\_status** واسم العمود هو **sample\_projectstart**.
 
-    ```javascript
+    ```csharp
     var tabGeneral = formContext.ui.tabs.get('tab_general');
     var sectionStatus = tabGeneral.sections.get('section_status');
     var startDate = formContext.getAttribute('sample_projectstart').getValue();
@@ -193,7 +193,7 @@ ms.locfileid: "9014323"
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لزر اختيار ملف مَورد ويب.](../media/choose-file.png)](../media/choose-file.png#lightbox)
 
-1.  حدد الملف **‎FormTeamProject.js** الذي أنشأته سابقًا وانقر فوق **فتح**.
+1.  حدد الملف **‎FormTeamProject.js** الذي أنشأته سابقاً وانقر فوق **فتح**.
 
 1.  انقر فوق **حفظ**.
 
@@ -253,24 +253,24 @@ ms.locfileid: "9014323"
 
 1.  حدد **مشروعات الفريق** وانقر لفتح مشروع الفريق **الحوسبة السحابية**.
 
-1.  يجب أن يكون قسم **الحالة** مخفيًا لأن عمود **بدء المشروع** فارغًا.
+1.  يجب أن يكون قسم **الحالة** مخفياً لأن عمود **بدء المشروع** فارغاً.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لعمود بدء مشروع فارغ وقسم حالة مخفي.](../media/project-start-value.png)](../media/project-start-value.png#lightbox)
 
 1.  اضغط على أيقونة التقويم بجوار **بدء المشروع** وحدد تاريخ اليوم.
 
-1.  ومن المفترض أن يكون قسم **الحالة** مرئيًا.
+1.  ومن المفترض أن يكون قسم **الحالة** مرئياً.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لقيمة بدء المشروع التي تم تعيينها إلى اليوم مع ظهور قسم الحالة.](../media/project-start-today.png)](../media/project-start-today.png#lightbox)
 
 1.  قم بتغيير **بدء المشروع** إلى تاريخ مستقبلي.
 
-1.  من المفترض أن يكون قسم **الحالة** مخفيًا الآن.
+1.  من المفترض أن يكون قسم **الحالة** مخفياً الآن.
 
 1.  قم بتغيير **بدء المشروع** إلى تاريخ في الماضي.
 
-1. ومن المفترض أن يصبح قسم **الحالة** مرئيًا مرة أخرى.
+1. ومن المفترض أن يصبح قسم **الحالة** مرئياً مرة أخرى.
 
 لقد استخدمت الآن JavaScript وClient API لتنفيذ متطلبات العمل التي لا يمكن تنفيذها باستخدام الخيارات التعريفية مثل قواعد العمل.

@@ -8,11 +8,11 @@ ms.locfileid: "8771718"
 ---
 توفر خدمات Azure السحابية ثروة من الوظائف وتمكن مطوري Microsoft Power Platform من تسخير إمكاناتها من خلال نقاط قابلية التوسعة المختلفة. تستعرض هذه الوحدة بعض تقنيات Azure في سياق كيفية تشغيل، أو ربما تشغيل، دور في تنفيذ Microsoft Power Platform المركز. يتضمن Azure العديد من الخدمات، ويجب أن يكون جميع مطوري Microsoft Power Platform على دراية بما يقدمه Azure. للحصول على نظرة عامة على جميع تقنيات Azure، راجع [موقع Azure على الويب](https://azure.microsoft.com/?azure-portal=true). لمزيد من التدريب المتعمق الذي سيعدك لخوض [اختبار أساسيات Microsoft Azure](/learn/certifications/exams/az-900/?azure-portal=true)، فكر في إكمال مسار تعليم أساسيات [Azure](/learn/paths/azure-fundamentals/?azure-portal=true).
 
-يجب أن يصبح المطورون على دراية بقدرات التعليمات البرمجية المنخفضة لـ Microsoft Power Platform، حتى لا يعيدوا بناء شيء يقوم به بالفعل بشكل جيد. إذا كنت قادمًا من خلفية مطور Azure، فقد يكون من السهل البدء بمكون Azure بدلاً من مكون Microsoft Power Platform. على سبيل المثال، إذا طُلب منك إنشاء دردشة آلية، فقد تنظر أولاً إلى Azure Bot Framework. بصفتك مطوراً يركز على Microsoft Power Platform، يمكنك أولاً البحث عن Power Virtual Agents لتنفيذ الدردشة الآلية. ثم استخدم مهارة Azure Bot Framework لزيادة قدرات الدردشة الآلية لـ Power Virtual Agent الذي قمت بإنشائه. باستخدام هذا الأسلوب، يتم إنشاء الحلول باستخدام التطوير السريع للتطبيقات في Microsoft Power Platform ولكن لا تزال تستفيد من التخصيصات العميقة الممكنة من خلال تضمين خدمات Azure والتعليمات البرمجية المخصصة.
+يجب أن يصبح المطورون على دراية بقدرات التعليمات البرمجية المنخفضة لـ Microsoft Power Platform، حتى لا يعيدوا بناء شيء يقوم به بالفعل بشكل جيد. إذا كنت قادماً من خلفية مطور Azure، فقد يكون من السهل البدء بمكون Azure بدلاً من مكون Microsoft Power Platform. على سبيل المثال، إذا طُلب منك إنشاء دردشة آلية، فقد تنظر أولاً إلى Azure Bot Framework. بصفتك مطوراً يركز على Microsoft Power Platform، يمكنك أولاً البحث عن Power Virtual Agents لتنفيذ الدردشة الآلية. ثم استخدم مهارة Azure Bot Framework لزيادة قدرات الدردشة الآلية لـ Power Virtual Agent الذي قمت بإنشائه. باستخدام هذا الأسلوب، يتم إنشاء الحلول باستخدام التطوير السريع للتطبيقات في Microsoft Power Platform ولكن لا تزال تستفيد من التخصيصات العميقة الممكنة من خلال تضمين خدمات Azure والتعليمات البرمجية المخصصة.
 
 ## <a name="azure-functions"></a>Azure Functions
 
-[Azure Functions](https://azure.microsoft.com/services/functions/?azure-portal=true) عبارة عن نقطة نهاية القابلية للتوسعة معتمدة لـ Power Platform. يتيح لك استخراج منطق مخصص إلى وظيفة Azure إلغاء تحميل المنطق المعقد خارج تطبيق المعاملات الخاص بك، وبالتالي توفير تجربة مستخدم أكثر استقراراً وفعالية. يمكن أيضًا استخدام وظائف Azure لإنشاء واجهات برمجة التطبيقات التي يتم عرضها لموصل Microsoft Power Platform مخصص. كموصل مخصص، يمكن بسهولة استدعاء منطق عمل Azure Function من التطبيقات والتدفقات. يوضح المخطط التالي أحد التطبيقات باستخدام Azure Function من تطبيق لوحة Power Apps.
+[Azure Functions](https://azure.microsoft.com/services/functions/?azure-portal=true) عبارة عن نقطة نهاية القابلية للتوسعة معتمدة لـ Power Platform. يتيح لك استخراج منطق مخصص إلى وظيفة Azure إلغاء تحميل المنطق المعقد خارج تطبيق المعاملات الخاص بك، وبالتالي توفير تجربة مستخدم أكثر استقراراً وفعالية. يمكن أيضاً استخدام وظائف Azure لإنشاء واجهات برمجة التطبيقات التي يتم عرضها لموصل Microsoft Power Platform مخصص. كموصل مخصص، يمكن بسهولة استدعاء منطق عمل Azure Function من التطبيقات والتدفقات. يوضح المخطط التالي أحد التطبيقات باستخدام Azure Function من تطبيق لوحة Power Apps.
 
 > [!div class="mx-imgBorder"]
 > [![مخطط لأحد التطبيقات باستخدام Azure Function من تطبيق لوحة Power Apps.](../media/azure-function.png)](../media/azure-function.png#lightbox)
@@ -27,9 +27,9 @@ ms.locfileid: "8771718"
 
 [ناقل خدمة Azure](https://azure.microsoft.com/services/service-bus/?azure-portal=true) هو إطار عمل موثوق للمراسلة كخدمة (MaaS) يتيح المراسلة في الوقت الفعلي غير المتزامن عبر الأنظمة. في حالات استخدام محددة، تعد هذه ميزة قيّمة توفر القدرة على التكامل مع كل من الأنظمة السحابية والمحلية بطريقة موزعة بدون خادم.
 
-يمكن للمطورين تكوين Microsoft Dataverse لتوزيع الأحداث إلى قوائم الانتظار ومواضيع ناقل خدمة Azure. يمكن توزيع الأحداث تلقائيًا على تعديلات بيانات Dataverse أو عند الطلب من منطق المطور المخصص. 
+يمكن للمطورين تكوين Microsoft Dataverse لتوزيع الأحداث إلى قوائم الانتظار ومواضيع ناقل خدمة Azure. يمكن توزيع الأحداث تلقائياً على تعديلات بيانات Dataverse أو عند الطلب من منطق المطور المخصص. 
 
-يمكن أن يقوم ناقل الخدمة بتخزين الرسالة إلى أن يصبح الطرف المستهلك جاهزًا لتلقي الرسائل التي تسمح لك بتصميم الحلول التي تعتمد الأقل اعتمادية.
+يمكن أن يقوم ناقل الخدمة بتخزين الرسالة إلى أن يصبح الطرف المستهلك جاهزاً لتلقي الرسائل التي تسمح لك بتصميم الحلول التي تعتمد الأقل اعتمادية.
 
 ## <a name="event-grid"></a>شبكة الأحداث
 
@@ -37,9 +37,9 @@ ms.locfileid: "8771718"
 
 ## <a name="logic-apps"></a>Logic apps
 
-[Logic Apps](https://azure.microsoft.com/services/logic-apps/?azure-portal=true) هي خدمة سحابية تساعدك على تنظيم المهام وعمليات الأعمال وسير العمل وتنفيذها تلقائيًا عندما تحتاج إلى دمج التطبيقات والبيانات والأنظمة والخدمات عبر المؤسسات أو المؤسسات.
+[Logic Apps](https://azure.microsoft.com/services/logic-apps/?azure-portal=true) هي خدمة سحابية تساعدك على تنظيم المهام وعمليات الأعمال وسير العمل وتنفيذها تلقائياً عندما تحتاج إلى دمج التطبيقات والبيانات والأنظمة والخدمات عبر المؤسسات أو المؤسسات.
 
-يحتوي Microsoft Power Platform على خدمة Power Automate المبنية على Logic Apps وتتضمن التكامل مع Power Apps وكذلك Dataverse. سيجد المطورون المطلعون على Logic Apps أن Power Automate مألوفاً أيضًا.
+يحتوي Microsoft Power Platform على خدمة Power Automate المبنية على Logic Apps وتتضمن التكامل مع Power Apps وكذلك Dataverse. سيجد المطورون المطلعون على Logic Apps أن Power Automate مألوفاً أيضاً.
 
 يمكن أن تكون Logic Apps مفيدة كجزء من حل Microsoft Power Platform عندما تحتاج الأتمتة إلى دعم غير متوفر في Power Automate؛ على سبيل المثال، لاستخدام حزمة تكامل المؤسسات أو موصلات SOAP. بالمقارنة مع Power Automate، تقدم Logic Apps نموذجاً مختلفاً للتوزيع والاستهلاك يمكن أن يكون أكثر كفاءة في سيناريوهات معينة.
 
@@ -55,13 +55,13 @@ ms.locfileid: "8771718"
 
 [توفر خدمة روبوت Azure](https://azure.microsoft.com/services/bot-services/?azure-portal=true) إطاراً يمكنك من خلاله إنشاء واختبار وتوزيع وإدارة الروبوتات الذكية كلها في مكان واحد. في كثير من الأحيان، تلعب الروبوتات دور الخدمة الذاتية للعملاء، وهو سيناريو شائع في تطبيق القناة متعددة الاتجاهات لـ Customer Service الخاص بـ Dynamics 365. تتوفر العديد من التطبيقات الأخرى لخدمة روبوت Azure، حيث يمكنك تحويل المهام البسيطة والمتكررة مثل جمع معلومات الملف الشخصي إلى إطار تفاعلي للأسئلة والأجوبة. لمزيد من المعلومات، راجع [وحدات تعلم خدمة روبوت Azure النمطية](/learn/browse/?products=azure-bot-service&azure-portal=true) وكذلك [وثائق خدمة روبوت Azure](/azure/bot-service/?azure-portal=true).
 
-يمكن للمطورين أيضا بناء مهارات Azure Bot Framework التي يمكن استخدامها مع Power Virtual Agents لتنفيذ معالجة التعليمات البرمجية المخصصة في روبوتات المحادثة ذات التعليمات البرمجية Power Virtual Agents المنخفضة. على سبيل المثال، يمكن للمهارة المخصصة استخدام سلسلة من الحوارات المخصصة للحصول على تفاعل أكثر تعقيدًا مع مستخدم الروبوت مما هو ممكن مع مواضيع Power Virtual Agent.
+يمكن للمطورين أيضا بناء مهارات Azure Bot Framework التي يمكن استخدامها مع Power Virtual Agents لتنفيذ معالجة التعليمات البرمجية المخصصة في روبوتات المحادثة ذات التعليمات البرمجية Power Virtual Agents المنخفضة. على سبيل المثال، يمكن للمهارة المخصصة استخدام سلسلة من الحوارات المخصصة للحصول على تفاعل أكثر تعقيداً مع مستخدم الروبوت مما هو ممكن مع مواضيع Power Virtual Agent.
 
 ## <a name="azure-data-lake-and-azure-synapse-analytics"></a>Azure Data Lake وAzure Synapse Analytics
 
 تدعم بيانات Microsoft Power Platform بيانات [Azure Data Lake storage](https://azure.microsoft.com/services/storage/data-lake-storage/?azure-portal=true) مع Microsoft Dataverse وإطار عمل Common Data Model. يتيح الإنشاء على Microsoft Power Platform سيناريوهات التحليلات المعقدة حيث يمكنك استخدام أدوات البيانات الضخمة الصناعية مثل Power BI أو Azure HDInsight أو Azure Synapse.
 
-تعتمد خدمة Azure Synapse Link for Dataverse الكتابة الأولية والتزايدية لبيانات الجدول وبيانات التعريف. يتم إرسال أي تغييرات في البيانات أو بيانات تعريف في Dataverse تلقائيًا إلى مستودع بيانات تعريف Azure Synapse وAzure Data Lake، بناءً على التكوين، دون أي إجراء إضافي. وهذه عملية إرسال، بدلاً من السحب. يتم إرسال التغييرات إلى الوجهة دون الحاجة إلى إعداد فواصل زمنية للتحديث.
+تعتمد خدمة Azure Synapse Link for Dataverse الكتابة الأولية والتزايدية لبيانات الجدول وبيانات التعريف. يتم إرسال أي تغييرات في البيانات أو بيانات تعريف في Dataverse تلقائياً إلى مستودع بيانات تعريف Azure Synapse وAzure Data Lake، بناءً على التكوين، دون أي إجراء إضافي. وهذه عملية إرسال، بدلاً من السحب. يتم إرسال التغييرات إلى الوجهة دون الحاجة إلى إعداد فواصل زمنية للتحديث.
 
 لمزيد من المعلومات، راجع [ما المقصود بـ Azure Synapse Link for Dataverse](/power-apps/maker/data-platform/export-to-data-lake/?azure-portal=true).
 
