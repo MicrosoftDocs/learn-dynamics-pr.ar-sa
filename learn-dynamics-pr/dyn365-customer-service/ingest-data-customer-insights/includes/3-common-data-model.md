@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a0a47d95a6298e06d82c9a150293d492e8b84b93
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: 44e41e98a2e87ebf8efbe498e9b795c408771362
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024910"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9062814"
 ---
 كما رأينا في الوحدة السابقة، فان استخدام Power Query لاستيراد البيانات هو سيناريو مثالي عندما يكون لديك بيانات قد تحتاج إلى ETL (استخراج، تحويل، تحميل) قبل أن يصبح استخدامها ممكناً. علاوةً على ذلك، يُعد الاستيراد باستخدام Power Query خياراً مفيداً عند التعامل مع أقل من 5 ملايين من السجلات وثمة حاجة إلى إجراء عملية تحويل معقدة للبيانات. هناك خيار آخر لاستيعاب البيانات وهو الاتصال بـ Common Data Model. وعلى عكس الاستيراد باستخدام Power Query، يمكن استخدام نماذج Common Data Model لدعم أحجام البيانات الصغيرة والكبيرة معاً ويتم استخدامها في سيناريوهات لا تحتاج إلى ETL (استخراج، تحويل، تحميل). 
 
@@ -41,7 +41,7 @@ ms.locfileid: "9024910"
 
 ## <a name="editing-a-common-data-model-folder-data-source"></a>تحرير مصدر بيانات مجلد نموذج بيانات عامة
 
-من الممكن إجراء تغييرات على مجلد Common Data Model. ويمكنك تحديث مفتاح الوصول لحساب التخزين الذي يحتوي على مجلد Common Data Model، وتغيير ملف model.json. إذا أردت الاتصال بحاوية مختلفة في حساب التخزين نفسه أو تغيير اسم الحساب، فيمكنك [إنشاء اتصال مصدر بيانات جديد](/dynamics365/customer-insights/audience-insights/connect-common-data-model.md?azure-portal=true#connect-to-a-common-data-model-folder).
+من الممكن إجراء تغييرات على مجلد Common Data Model. ويمكنك تحديث مفتاح الوصول لحساب التخزين الذي يحتوي على مجلد Common Data Model، وتغيير ملف model.json. إذا أردت الاتصال بحاوية مختلفة في حساب التخزين نفسه أو تغيير اسم الحساب، فيمكنك [إنشاء اتصال مصدر بيانات جديد](/dynamics365/customer-insights/connect-common-data-model#connect-to-azure-data-lake-storage/?azure-portal=true).
 
 > [!div class="mx-imgBorder"]
 > [![ادخل مفتاح الوصول لحساب التخزين.](../media/storage-details-ss.png)](../media/storage-details-ss.png#lightbox)

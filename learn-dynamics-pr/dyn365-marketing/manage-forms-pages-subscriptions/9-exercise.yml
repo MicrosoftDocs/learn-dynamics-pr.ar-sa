@@ -4,15 +4,15 @@ title: التمرين - إنشاء نموذج تسويق وصفحة تسويق
 metadata:
   title: التمرين - إنشاء نموذج تسويق وصفحة تسويق
   description: تعليمات خطوة بخطوة لإنشاء نموذج تسويق وصفحة تسويق.
-  ms.date: 08/11/2021
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 14e6fc8b4fec8dc6a850b2f53bbee621a6d11e83
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 77bcc66f28ed59458ad238415bcbe550d6ea2c05
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435476"
-durationInMinutes: 30
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092682"
+durationInMinutes: 25
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-exercise.md)]"

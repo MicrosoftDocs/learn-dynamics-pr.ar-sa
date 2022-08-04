@@ -4,15 +4,15 @@ title: إنشاء نموذج تسويق
 metadata:
   title: إنشاء نموذج تسويق
   description: تعرّف على كيفية إنشاء نموذج تسويق.
-  ms.date: 08/11/2021
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 856e4ccfc1c4275fd4b2e1c3296e1e087f3d1e36
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0f33a67a5e7b6448b5e2ce714f31505d24990ddb
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435303"
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092872"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-form.md)]"

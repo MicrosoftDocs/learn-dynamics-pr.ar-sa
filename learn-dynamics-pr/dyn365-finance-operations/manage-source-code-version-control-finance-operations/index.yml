@@ -2,24 +2,24 @@
 uid: learn-dynamics.manage-source-code-using-version-control-dynamics-365-finance-operations
 metadata:
   title: إدارة التعليمات البرمجية المصدر باستخدام التحكم في الإصدار في تطبيقات التمويل والعمليات
-  description: عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات التمويل والعمليات، هذا يعني استخدام Azure DevOps في Visual Studio.
-  ms.date: 07/03/2019
+  description: عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات التمويل والعمليات، تتم إدارة التعليمات البرمجية المصدر باستخدام Azure DevOps في Visual Studio.
+  ms.date: 06/28/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 42098d59a31a9de5df9ae2d739c33e2613ac5ec9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 5cc1fcafe771f8b475d9a7c0ace45d6e207f2144
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749591"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062834"
 title: إدارة التعليمات البرمجية المصدر باستخدام التحكم في الإصدار في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
-  عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات التمويل والعمليات، هذا يعني استخدام Azure DevOps في Visual Studio.
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم بتكوين Visual Studio للاتصال بـ Azure DevOps.\n- استخدم أفضل الممارسات للتحكم في الإصدار.\n- إدارة مراجعات التعليمات البرمجية وتنفيذها\n"
+  عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات التمويل والعمليات، تتم إدارة التعليمات البرمجية المصدر باستخدام Azure DevOps في Visual Studio.
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- ربط بيئة المطور الخاصة بك بمشروع Azure DevOps.\n- استخدام أفضل الممارسات للتحكم في الإصدار.\n- إدارة مراجعات التعليمات البرمجية وتنفيذها.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 

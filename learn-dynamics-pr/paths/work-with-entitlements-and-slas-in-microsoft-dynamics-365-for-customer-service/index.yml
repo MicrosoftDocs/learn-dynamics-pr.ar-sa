@@ -3,20 +3,20 @@ uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 metadata:
   title: التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة في Dynamics 365 Customer Service
   description: ويركز مسار التعليم هذا على التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة ف Microsoft Dynamics 365 Customer Service.
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 06/24/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: 56ed7a9f378d9fe4894dbfa2658420ee368659e1
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d994b7e5592ed086293705882bd1addefa40766f
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751395"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062793"
 title: التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة في Dynamics 365 Customer Service
-summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\n\nويركز مسار التعليم هذا على التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة ف Microsoft Dynamics 365 Customer Service.  \n"
-prerequisites: "- احصل على اشتراك تجريبي في Dynamics 365 for Customer Engagement\n- المفاهيم الأساسية لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
+summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\nويركز مسار التعليم هذا على التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة ف Microsoft Dynamics 365 Customer Service.  \n"
+prerequisites: "- الحصول على اشتراك تجريبي أو الوصول إلى Dynamics 365 Customer Service\n- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
 iconUrl: /learn/achievements/work-with-entitlements-and-slas-dyn365-customer-service.svg
 levels:
 - beginner
@@ -29,7 +29,8 @@ products:
 subjects:
 - development-tools
 modules:
-- learn-bizapps.creating-and-managing-entitlements-in-dynamics-365
 - learn-bizapps.dynamics-365-service-level-agreements
+- learn-dynamics.service-level-agreements
+- learn-bizapps.creating-and-managing-entitlements-in-dynamics-365
 trophy:
   uid: learn.work-with-entitlements-and-slas-dyn365-customer-service.trophy

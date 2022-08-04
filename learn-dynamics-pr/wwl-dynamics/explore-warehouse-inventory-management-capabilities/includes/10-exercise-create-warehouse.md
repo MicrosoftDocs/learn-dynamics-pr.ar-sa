@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4e613ca3259f64a55982ecd9db1751544a1315ef
-ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
+ms.openlocfilehash: 9c34bdc9b3a393af5c1ef2fc56163e7a1f50df3f
+ms.sourcegitcommit: d1f057126533fd52a9c2698a01032040367971f3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "9013843"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "9110621"
 ---
 [!INCLUDE[](../../../includes/unit-banner.md)]
 [!INCLUDE[](../../../includes/accessing-labs.md)]
@@ -19,11 +19,11 @@ ms.locfileid: "9013843"
 
 4. سيظهر نموذج دفتر يومية جرد المخزون مع معلومات العنوان والتفاصيل.
     
-    :::image type="content" source="../media/lp-scm-m-002-warehouse-inventory-mgmt-06.png" alt-text="لقطة شاشة لنموذج دفتر يومية جرد المخزون مع تعبئة معلومات العنوان والتفاصيل.":::
+    :::image type="content" source="../media/lp-scm-m-002-warehouse-inventory-mgmt-06.png" alt-text="لقطة شاشة لنموذج دفتر يومية جرد المخزون مع ملء معلومات العنوان والتفاصيل.":::
     
-5. حدد **إنشاء بنود -> عبر الإنترنت** في جزء الإجراءات.
+5. حدد **إنشاء خطوط -> المخزون الفعلي** في جزء الإجراءات.
 
-6. في جزء مربع الحوار **إنشاء دفتر يومية جرد المخزون الفعلي‬**، عيّن حقول **المستودع** و **حالة المخزون** والموقع و **لوحة الترخيص** إلى **نعم**. 
+6. في جزء الحوار **إنشاء دفتر يومية للمخزون الفعلي** قم بتعيين **المستودع**، **حالة المخزون**, الموقع وحقول **ترخيص اللوحة** إلى **نعم**. 
 
     :::image type="content" source="../media/lp-scm-m-002-warehouse-inventory-mgmt-07.png" alt-text="لقطة شاشة لجزء مربع الحوار إنشاء دفتر يومية جرد المخزون الفعلي مع تعيين الحقول كما تم وصفه.":::
 

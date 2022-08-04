@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ffda7382534bce21c6fb36e35bfbb6bda7a546ee
-ms.sourcegitcommit: d0bcc802e34d8599adee25e25c9dac3c9365829a
+ms.openlocfilehash: 8103939900f62c72b9e10d031665bfe8c395370c
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "7581681"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9062904"
 ---
 قبل استكشاف إنشاء الروبوت، يجب أن تتمتع بفهم أعمق للتكنولوجيا المستخدمة لعرض المحتوى للمندوبين في جزء الإنتاجية. يمكنك تقديم معلومات إلى المندوبين، مثل المقالات المعرفية المقترحة، في جزء الإنتاجية باستخدام بطاقات Microsoft Adaptive Cards.
 
@@ -80,8 +80,6 @@ ms.locfileid: "7581681"
 
 - [**عينات البطاقات**](https://adaptivecards.io/samples/?azure-portal=true)
 
-- [**أداة التصور التفاعلية**](https://adaptivecards.io/visualizer/index.html?hostApp=Bot%20Framework%20WebChat/?azure-portal=true)
-
 - [**استخدام الكلام في البطاقات**](/adaptive-cards/authoring-cards/speech/?azure-portal=true)
 
 ## <a name="render-cards-inside-your-application"></a>عرض البطاقات داخل تطبيقك
@@ -113,8 +111,6 @@ ms.locfileid: "7581681"
 
 - [**إمكانية التوسعة**](/adaptive-cards/rendering-cards/extensibility/?azure-portal=true)
 
-- [**أداة التصور التفاعلية**](https://adaptivecards.io/visualizer/index.html?hostApp=Bot%20Framework%20WebChat/?azure-portal=true)
-
-- [**حالات العارض**](/adaptive-cards/rendering-cards/renderer-status/?azure-portal=true)
+- [**حالات العارض**](/adaptive-cards/rendering-cards/getting-started#adaptive-cards-sdks/?azure-portal=true)
 
 - [**القوالب**](/adaptive-cards/templating/?azure-portal=true)

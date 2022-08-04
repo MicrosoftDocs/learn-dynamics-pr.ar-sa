@@ -4,15 +4,15 @@ title: إضافة نموذج إلى صفحة التسويق
 metadata:
   title: إضافة نموذج إلى صفحة التسويق
   description: تعرّف على كيفيه إضافة نماذج إلى صفحه التسويق.
-  ms.date: 08/11/2021
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d3730b971545c749aca2fdeb362263c9c10e713b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: eda6420a9f7a71f80e99c88f42a7faba86b9797d
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435518"
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092622"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-hosting.md)]"

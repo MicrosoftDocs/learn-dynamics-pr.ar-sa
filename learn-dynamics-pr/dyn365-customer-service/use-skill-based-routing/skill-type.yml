@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-skill-based-routing.skill-type
+title: أنواع المهارات
+metadata:
+  title: أنواع المهارات
+  description: تعرف على أنواع المهارات.
+  ms.date: 06/17/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7147996ebc3f2ab34abf4720f1d297ddcaab0101
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063674"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/skill-type.md)]"

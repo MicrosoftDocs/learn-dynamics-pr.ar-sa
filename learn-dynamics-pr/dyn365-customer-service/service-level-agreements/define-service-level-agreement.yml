@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.service-level-agreements.define-service-level-agreement
+title: تحديد عناصر اتفاقية مستوى المستخدم
+metadata:
+  title: تحديد عناصر اتفاقية مستوى المستخدم
+  description: تعرف على كيفية تحديد عناصر اتفاقية مستوى الخدمة لعقد الدعم وإعداد التحذيرات والإجراءات عند عدم الوفاء بالاتفاقيات.
+  ms.date: 06/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 57c984ec7a3980f70b1ad7493ddccf2793bfacd6
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063693"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/define-service-level-agreement.md)]

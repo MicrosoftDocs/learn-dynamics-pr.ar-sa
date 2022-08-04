@@ -4,15 +4,15 @@ title: تسجيل المعلومات الإضافية عن الحدث
 metadata:
   title: تسجيل المعلومات الإضافية عن الحدث
   description: تعرّف على كيفية تسجيل المعلومات الإضافية عن الحدث.
-  ms.date: 05/12/2021
+  ms.date: 06/30/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 55e94dfb7f90bb836b112251ed605a6b9f3ead56
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 53b8c2d463c9975b3e74af10de4b31082ba13fbd
+  ms.sourcegitcommit: 2d9a31d2afaf95e55867b4f86c88e84eb9d57fc0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435416"
-durationInMinutes: 5
+  ms.lasthandoff: 07/01/2022
+  ms.locfileid: "9105774"
+durationInMinutes: 7
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-team.md)]"

@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.identify-project-operations-capabilities.describe-project-pricing-capabilities
-title: 'العرض التوضيحي لإمكانات أسعار المشروع: أسعار المشروع'
+title: وصف إمكانات تسعير المشروع
 metadata:
-  title: 'العرض التوضيحي لإمكانات أسعار المشروع: أسعار المشروع'
-  description: 'العرض التوضيحي لإمكانات أسعار المشروع: أسعار المشروع'
-  ms.date: 06/17/2022
+  title: وصف إمكانات تسعير المشروع
+  description: وصف إمكانات تسعير المشروع
+  ms.date: 06/28/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 643e799b48a27b672bc64a9f37f612b6cfbece65
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: f7545f38860344ebfc04a50af3ed60b43d217c3d
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025348"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062724"
 azureSandbox: false
 labModal: false
 durationInMinutes: 5

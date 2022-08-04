@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.get-started-voice-channel
 metadata:
-  title: ابدأ باستخدام قناة الصوت Dynamics 365 Customer Service
-  description: تتضمن القناة الصوتية في Microsoft Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قبل مشرفي ومندوبي مركز الاتصال.
-  ms.date: 01/04/2022
+  title: نشر قناة صوتية في Dynamics 365 Customer Service
+  description: تتضمن القناة الصوتية في Microsoft Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قِبل مشرفي ومندوبي مركز الاتصال.
+  ms.date: 06/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3b2acad8b769a254ab54d12edf2a437054416ae1
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: be47154f31aa32b62b40a6d1392723637284d5a7
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753756"
-title: ابدأ باستخدام قناة الصوت Dynamics 365 Customer Service
-summary: "[!include[](../includes/module-banner.md)] \nتتضمن القناة الصوتية في Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قبل مشرفي ومندوبي مركز الاتصال. بالإضافة إلى ذلك، يمكن أن يساعد في تحسين التجربة الإجمالية لعملائك عندما يشاركون عبر القنوات الصوتية.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على طريقة إعداد قناة الصوت وتوفيرها.\n- تحديد صفوف الصوت.\n- قم بإعداد مسارات العمل الصوتية.\n- التعرف على توجيه المكالمات.\n"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063130"
+title: نشر قناة صوتية في Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)] \nتتضمن القناة الصوتية في Dynamics 365 Customer Service العديد من الميزات والوظائف المختلفة التي يمكن استخدامها من قِبل مشرفي ومندوبي مركز الاتصال. بالإضافة إلى ذلك، يمكن أن يساعد في تحسين التجربة الإجمالية لعملائك عندما يشاركون عبر القنوات الصوتية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على طريقة إعداد قناة الصوت وتوفيرها.\n- تحديد صفوف الصوت.\n- قم بإعداد مسارات العمل الصوتية.\n- التعرف على توجيه المكالمات.\n"
 prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
 iconUrl: /learn/achievements/get-started-voice-channel.svg
 levels:

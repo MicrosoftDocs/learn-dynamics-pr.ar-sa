@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.route-distribute-work.configure-queues
+title: إعداد تعيينات العمل في قوائم الانتظار
+metadata:
+  title: إعداد تعيينات العمل في قوائم الانتظار
+  description: تعرّف على كيفية إعداد أولويات العمل والتعيينات.
+  ms.date: 06/16/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6aeb8a427f01e556d564312c9ee9a7d77c92db42
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063690"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/configure-queues.md)]

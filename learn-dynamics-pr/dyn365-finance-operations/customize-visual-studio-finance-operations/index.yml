@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.customize-using-vs-dynamics-365-finance-operations
 metadata:
-  title: تخصيص تطبيقات التمويل والعمليات باستخدام Visual Studio
+  title: البدء في تطوير تطبيقات التمويل والعمليات باستخدام Visual Studio
   description: Visual Studio هو بيئة التطوير المتكاملة (IDE) لتطبيقات التمويل والعمليات. يمكن للمطورين إنشاء حزم قابلة للنشر تحتوي على مشاريع وعناصر مخزنة كبيانات تعريف. يتيح التطوير في Visual Studio للمستخدمين تخصيص تجربة تطبيقات التمويل والعمليات.
-  ms.date: 05/04/2021
+  ms.date: 06/28/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f9af94fe0d6ff14d5a82c8a22059d153ce8c987b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 07fa6c9e0b29d25bd9016f199fcb3687bb5c5a6e
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751132"
-title: تخصيص تطبيقات التمويل والعمليات باستخدام Visual Studio
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063160"
+title: البدء في تطوير تطبيقات التمويل والعمليات باستخدام Visual Studio
 summary: "[!include[](../includes/module-banner.md)]\n\nVisual Studio هو بيئة التطوير المتكاملة (IDE) لتطبيقات التمويل والعمليات. يمكن للمطورين إنشاء حزم قابلة للنشر تحتوي على مشاريع وعناصر مخزنة كبيانات تعريف. يتيح التطوير في Visual Studio للمستخدمين تخصيص تجربة تطبيقات التمويل والعمليات. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء وبناء المشاريع والحزم القابلة للنشر في Visual Studio. \n- استخدم مستكشف التطبيقات لإدارة العناصر.\n- مزامنة تغييرات قاموس البيانات مع قاعدة بيانات التطبيق.\n- العمل في مصمم العنصر لإنشاء عناصر.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء وبناء المشاريع والحزم القابلة للنشر في Visual Studio. \n- استخدم مستكشف التطبيقات لإدارة العناصر.\n- مزامنة تغييرات قاموس البيانات مع قاعدة بيانات التطبيق.\n- العمل في مصمم العنصر لإنشاء عناصر.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
 

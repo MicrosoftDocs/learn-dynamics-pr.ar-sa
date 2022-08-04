@@ -2,21 +2,21 @@
 uid: learn-dynamics.manage-customers
 metadata:
   title: إدارة العملاء في Dynamics 365 Marketing
-  description: تُغطي هذه الوحدة أساسيات العمل مع العملاء والحسابات إضافة إلى التسويق القائم على الحساب. وتنتهي الوحدة بالحديث عن كيفية تفاعل العملاء المتوقعين مع مبادراتك التسويقية.
-  ms.date: 03/24/2021
+  description: تغطي هذه الوحدة أساسيات جهات الاتصال والحسابات وإدارة العملاء المتوقعين في Dynamics 365 Marketing.
+  ms.date: 06/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6428b00e7af3f9209dfd21b6fa8574540326e0eb
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 98ed04677339a91f733f35525b7a5f0c825898f7
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752763"
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092762"
 title: إدارة العملاء في Dynamics 365 Marketing
-summary: "[!include[](../includes/module-banner.md)] \n\nتُغطي هذه الوحدة أساسيات العمل مع العملاء والحسابات إضافة إلى التسويق القائم على الحساب. وتنتهي الوحدة بالحديث عن كيفية تفاعل العملاء المتوقعين مع مبادراتك التسويقية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إدارة جهات الاتصال والحسابات والعملاء المتوقعين. \n- تعرّف على معلومات عن التسويق القائم على الحساب وتسجيل النقاط. \n- تأهيل العملاء المتوقعين. \n"
-prerequisites: الفهم الأساسي لمفاهيم التسويق.
+summary: "[!include[](../includes/module-banner.md)] \nتغطي هذه الوحدة أساسيات جهات الاتصال والحسابات وإدارة العملاء المتوقعين في Dynamics 365 Marketing. \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إدارة جهات الاتصال والحسابات في Dynamics 365 Marketing. \n- تحديد المفاهيم الأساسية للتسويق المستند إلى الحسابات.\n- تسجيل نقاط العملاء المتوقعين وتأهيلهم. \n"
+prerequisites: فهم أساسي لكيفية التنقل في Dynamics 365 Marketing
 iconUrl: /learn/achievements/manage-customers.svg
 levels:
 - intermediate

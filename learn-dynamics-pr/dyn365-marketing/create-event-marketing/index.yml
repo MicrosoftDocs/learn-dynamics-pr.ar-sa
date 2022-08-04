@@ -2,21 +2,21 @@
 uid: learn-dynamics.create-event-marketing
 metadata:
   title: إنشاء حدث في الموقع في Dynamics 365 Marketing
-  description: إنشاء حدث في الموقع مع Microsoft Dynamics 365 Marketing. تشرح هذه الوحدة التخطيط الأولي لحدث في الموقع وإعداد ميزانيته والترويج والنشر له.
-  ms.date: 05/12/2021
+  description: هل تدير الأحداث وتنظمها؟ تشرح هذه الوحدة عملية إنشاء حدث في الموقع وإدارة تفاصيل الحدث، بما في ذلك الجلسات، والمتحدثين، والجهات الراعية، والتسجيل، والتصاريح، والمزيد داخل Dynamics 365 Marketing.
+  ms.date: 06/30/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 21b92ee0fd46d2510623bda3d11978bdf9cf7a6b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 669229da4f54f1adaa3728cf7ed5f1dc0b1ad45a
+  ms.sourcegitcommit: 2d9a31d2afaf95e55867b4f86c88e84eb9d57fc0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748725"
+  ms.lasthandoff: 07/01/2022
+  ms.locfileid: "9105845"
 title: إنشاء حدث في الموقع في Dynamics 365 Marketing
-summary: "[!include[](../includes/module-banner.md)] \n\nإنشاء حدث في الموقع مع Dynamics 365 Marketing. تشرح هذه الوحدة التخطيط الأولي لحدث في الموقع وإعداد ميزانيته والترويج والنشر له.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على مواقع ويب الأحداث، وإنشاء الأحداث وإدارة الأحداث. \n- اتبع تعليمات إنشاء حدث في الموقع خطوة بخطوة. \n"
-prerequisites: بلا
+summary: "[!include[](../includes/module-banner.md)] \nهل تدير الأحداث وتنظمها؟ تشرح هذه الوحدة عملية إنشاء حدث في الموقع وإدارة تفاصيل الحدث، بما في ذلك الجلسات، والمتحدثين، والجهات الراعية، والتسجيل، والتصاريح، والمزيد داخل Dynamics 365 Marketing.\n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء حدث شخصي في Dynamics 365 Marketing.\n- إدارة الجلسات، والمتحدثين، والجهات الراعية.\n- تكوين خيارات التسجيل وإعداد مسارات الأحداث.\n- الحصول على معلومات إضافية حول الحدث، بما في ذلك التفاصيل المالية وأعضاء فريق الحدث. \n- تخصيص محتوى التقويم لهذا الحدث.\n- إدارة لوجستيات الحدث.\n- نشر الحدث وعرض موقع ويب الحدث.\n"
+prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Marketing
 iconUrl: /learn/achievements/create-event-marketing.svg
 levels:
 - intermediate

@@ -4,17 +4,17 @@ title: العمل مع العملاء المتوقعين
 metadata:
   title: العمل مع العملاء المتوقعين
   description: العمل مع العملاء المتوقعين
-  ms.date: 06/16/2022
+  ms.date: 07/01/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 843f70e7073c81808bfa29c021fc57103c9f1181
-  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.openlocfilehash: 78575f26f66cd9f63b9e7490c694b67bde2512c0
+  ms.sourcegitcommit: d1f057126533fd52a9c2698a01032040367971f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/16/2022
-  ms.locfileid: "9021264"
+  ms.lasthandoff: 07/01/2022
+  ms.locfileid: "9110819"
 azureSandbox: false
 labModal: false
 durationInMinutes: 12

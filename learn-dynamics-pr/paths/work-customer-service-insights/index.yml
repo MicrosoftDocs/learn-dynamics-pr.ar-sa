@@ -3,17 +3,17 @@ uid: learn-dynamics.work-customer-service-insights
 metadata:
   title: التعامل مع Customer Service Insights
   description: تعرّف على كيفية تكوين Customer Service Insights والتعامل معها.
-  ms.date: 11/12/2021
+  ms.date: 06/27/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: 0d0452ac8e2c17052e103065cfd61347782bb120
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c838e47984f62cc00689217617c64075d1d5a149
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751458"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062805"
 title: التعامل مع Customer Service Insights
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -37,5 +37,6 @@ subjects:
 modules:
 - learn-dynamics.get-started-customer-service-insights
 - learn-dynamics.customer-service-visualizations
+- learn-dynamics.customer-service-call-insights
 trophy:
   uid: learn-dynamics.work-customer-service-insights.trophy

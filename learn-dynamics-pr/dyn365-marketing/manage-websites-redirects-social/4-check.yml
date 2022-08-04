@@ -3,35 +3,35 @@ uid: learn-dynamics.manage-websites-redirects-social.4-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 04/02/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f51a15472f1ae8ed7a641acf4aa73bd05f812aca
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8bc446e8f2f8832e73124eb438a49d003aeff9e2
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435516"
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092722"
 durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي من حسابات وسائل التواصل الاجتماعي التالية يسمح لك Dynamics 365 Marketing فيها بجدولة الرسائل ونشرها مباشرةً من بيئة مؤسستك؟
     choices:
     - content: Pinterest
       isCorrect: false
-      explanation: إن Pinterest ليس حسابًا اجتماعيًا يسمح لك Dynamics 365 Marketing بالنشر فيه والجدولة منه.
+      explanation: إن Pinterest ليس حساباً اجتماعياً يسمح لك Dynamics 365 Marketing بالنشر فيه والجدولة منه.
     - content: YouTube
       isCorrect: false
-      explanation: إن YouTube ليس حسابًا اجتماعيًا يسمح لك Dynamics 365 Marketing بالنشر فيه والجدولة منه.
+      explanation: إن YouTube ليس حساباً اجتماعياً يسمح لك Dynamics 365 Marketing بالنشر فيه والجدولة منه.
     - content: Facebook
       isCorrect: true
       explanation: يستطيع Dynamics 365 Marketing جدوله الرسائل ونشرها مباشرة إلى حساب Facebook المؤسسة.
     - content: Google+
       isCorrect: false
-      explanation: إن Google+ ليس حسابًا اجتماعيًا يسمح لك Dynamics 365 Marketing بالنشر فيه والجدولة منه.
+      explanation: إن Google+ ليس حساباً اجتماعياً يسمح لك Dynamics 365 Marketing بالنشر فيه والجدولة منه.
   - content: أي من العبارات التالية صحيح عن كيف يمكن لـ Dynamics 365 Marketing تتبع تفاعل العملاء مع موقع الويب وقياسه؟
     choices:
     - content: يُمكنك إضافة كود البرنامج النصي للتتبع إلى صفحات موقع الويب.
@@ -42,7 +42,7 @@ quiz:
       explanation: يتطلب Dynamics 365 Marketing منك إضافة برنامج نصي للتعقب إلى موقع الويب لتتبع مشاركة العملاء في Dynamics 365 Marketing.
     - content: لا يُمكنك تتبع مشاركة العملاء في موقع الويب في Dynamics 365 Marketing.
       isCorrect: false
-      explanation: يوفر لك Dynamics 365 Marketing طرقًا متعددة لتتبع مشاركة العملاء.
+      explanation: يوفر لك Dynamics 365 Marketing طرقاً متعددة لتتبع مشاركة العملاء.
     - content: يسمح لك Dynamics 365 Marketing بتتبع صفحات التسويق التي تم إنشاؤها داخل Dynamics 365 Marketing فقط.
       isCorrect: false
-      explanation: يسمح لك Dynamics 365 Marketing بتتبع صفحات Dynamics 365 Marketing وكذلك صفحات التسويق التي تم إنشاؤها خارجيًا على موقع الويب.
+      explanation: يسمح لك Dynamics 365 Marketing بتتبع صفحات Dynamics 365 Marketing وكذلك صفحات التسويق التي تم إنشاؤها خارجياً على موقع الويب.

@@ -4,17 +4,17 @@ title: استكشاف حالات الاستخدام لـ "Warehouse Management S
 metadata:
   title: استكشاف حالات الاستخدام لـ "Warehouse Management Systems" (WMS) في بيئات الإنتاج
   description: استكشاف حالات الاستخدام لـ "Warehouse Management Systems" (WMS) في بيئات الإنتاج
-  ms.date: 06/15/2022
+  ms.date: 07/01/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 5194e56908a0a173e476b84e289ccb4696221d11
-  ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
+  ms.openlocfilehash: 5c6218d5249ea51162cbd6e4f71c72778fb93f8d
+  ms.sourcegitcommit: d1f057126533fd52a9c2698a01032040367971f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2022
-  ms.locfileid: "9014103"
+  ms.lasthandoff: 07/01/2022
+  ms.locfileid: "9110679"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

@@ -3,19 +3,18 @@ uid: learn-bizapps.dynamics-365-service-level-agreements.8-knowledge-check
 metadata:
   title: SLAs في Dynamics 365
   description: سيختبر هذا الفحص المعرفي معلوماتك عن SLAs في Dynamics 365.
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 06/28/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: d44a9a50226b29ea34121bedc370c8124ec6b1a1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fc31a0c0f473960e6acb91b7d92ac7d33984c903
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365113"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063190"
 title: SLAs في Dynamics 365
-durationInMinutes: 5
+durationInMinutes: 6
 quiz:
   title: الفحص المعرفي لـ SLA في Dynamics 365
   questions:

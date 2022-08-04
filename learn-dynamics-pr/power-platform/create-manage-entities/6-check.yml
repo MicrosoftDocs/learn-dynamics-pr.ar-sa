@@ -2,25 +2,25 @@
 uid: learn-dynamics.create-manage-entities.6-check
 metadata:
   title: إنشاء اختبار معلومات الجداول وإدارتها
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 06/27/2019
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 11a17a86fa4b2f406257ff58c5b9b6f86cf4aeb5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c8598d3f375a783f1423379eea85559840ab43b4
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457572"
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9046830"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: ما هو نوع الجدول الذي لا يُعد جزءًا من Dataverse؟
+  - content: ما هو نوع الجدول الذي لا يُعد جزءاً من Dataverse؟
     choices:
     - content: القياسية
       isCorrect: false
@@ -42,23 +42,23 @@ quiz:
     - content: تُخزن الجداول المقيدة بيانات التكوين الخاصة بالمنتج وتحافظ عليها لمنتجات Dynamics 365 التي لا تُستخدم عادةً خارج تطبيق Dynamics.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
-    - content: يكون الجدول المقيد مصحوبًا بمنطق متقدم يقوم بإنشاء البيانات والحفاظ عليها بطريقة معينة عند استخدامها في منتج Dynamics 365.
+    - content: يكون الجدول المقيد مصحوباً بمنطق متقدم يقوم بإنشاء البيانات والحفاظ عليها بطريقة معينة عند استخدامها في منتج Dynamics 365.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
     - content: تتطلب الجداول المقيدة ترخيص منتج Dynamics 365 معين أو خطة Dynamics 365.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
-  - content: باستخدام ترخيص P2 في Dataverse، يمكنك استخدام أي جدول والوصول إليه باستثناء أي جدول مما يلي؟
+  - content: باستخدام ترخيص لكل مستخدم في Dataverse، يمكنك استخدام أي جدول والوصول إليه باستثناء أي مما يلي؟
     choices:
     - content: الجداول القياسية
       isCorrect: false
-      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+      explanation: باستخدام ترخيص لكل مستخدم، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
     - content: الجداول المقيدة
       isCorrect: true
-      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+      explanation: باستخدام ترخيص لكل مستخدم، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
     - content: بعض الجداول التي تحتوي على منطق معقد
       isCorrect: false
-      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+      explanation: باستخدام ترخيص لكل مستخدم، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
     - content: جداول مخصصة
       isCorrect: false
-      explanation: باستخدام ترخيص P2، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.
+      explanation: باستخدام ترخيص لكل مستخدم، يمكنك استخدام الجداول القياسية والمخصصة التي تحتوي على منطق معقد والوصول إليها.

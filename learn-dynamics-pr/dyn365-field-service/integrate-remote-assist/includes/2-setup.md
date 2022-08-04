@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0b9009f177914460ef6a12eb22b3153ce723201b
-ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
+ms.openlocfilehash: 17f42c826698ee17a86552a9a188ad4be2a58b0c
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "8743387"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063170"
 ---
 قبل أن يتمكن الفنيون والمتعاونون عن بُعد من حل أوامر عمل Dynamics 365 Field Service باستخدام Remote Assist، يحتاج الفني في الموقع إلى الوصول إلى كل من Field Service Mobile وRemote Assist. سيستخدم الفنيون (العاملون في الخطوط الأمامية) Field Service Mobile لعرض وإدارة أوامر العمل المخصصة. سيقومون باستخدام Remote Assist mobile لإجراء مكالمات مع المتعاونين عن بُعد. سيحتاج الخبراء المختصين الذين سيقومون بالتعاون مع الفنيين عن بُعد إلى الوصول إلى Microsoft Teams.    
 
@@ -102,7 +102,7 @@ ms.locfileid: "8743387"
 > [!div class="mx-imgBorder"]
 > [![لقطات الشاشة لتمكين الميزة لتبديل تكامل وإعدادات Dynamics 365.](../media/field-service-assist-2-8.png)](../media/field-service-assist-2-8.png#lightbox)
 
-لمزيد من المعلومات المفصلة، راجع [إرشادات النشر](/dynamics365/mixed-reality/remote-assist/deploy-remote-assist.md?azure-portal=true#deploying-on-your-devices). 
+لمزيد من المعلومات المفصلة، راجع [إرشادات النشر](/dynamics365/mixed-reality/remote-assist/deploy-remote-assist?azure-portal=true#deploying-on-your-devices).
 
 ## <a name="set-up-a-remote-collaborator-user"></a>إعداد مستخدم متعاون عن بُعد
 

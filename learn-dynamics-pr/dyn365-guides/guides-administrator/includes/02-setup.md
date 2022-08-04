@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a4038ecc36fa0466c9be0d7f0d67c7272dfc1a76
-ms.sourcegitcommit: 7ef6880b18791506ab6ba5de1ccc7a86668e8327
+ms.openlocfilehash: 5bc754603ceb066663c6fb1e6e6ac5c4cb33505e
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8546943"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063180"
 ---
 لإعداد Dynamics 365 Guides، يجب عليك إكمال الخطوات التالية.
 
@@ -15,7 +15,7 @@ ms.locfileid: "8546943"
 
 ## <a name="1-buy-a-subscription-or-sign-up-for-a-free-30-day-trial"></a>1. اشتر اشتراكاً أو سجّل الاشتراك في إصدار تجريبي مجاني لمدة 30 يوماً.
 
-هناك طريقتان للحصول على اشتراك Microsoft Dynamics ‏365 Guides:
+هناك طريقتان للحصول على اشتراك Microsoft Dynamics 365 Guides:
 
 - إذا كان لديك حساب عمل Microsoft، فيمكنك الانتقال مباشرةً إلى [مركز إدارة Microsoft 365](https://admin.microsoft.com/AdminPortal/Home/?azure-portal=true) والبحث عن اشتراك Dynamics 365 Guides هناك.
 
@@ -65,7 +65,7 @@ ms.locfileid: "8546943"
 
     تظهر رسالة توضح أنه يتم اعداد بيئة التشغيل. 
 
-     للحصول علي معلومات حول مجموعات الأمان، راجع [تقييد الوصول إلى مثيل في Dynamics 365 Guides باستخدام مجموعات الأمان](//dynamics365/mixed-reality/guides/admin-security/?azure-portal=true).    
+     للحصول علي معلومات حول مجموعات الأمان، راجع [تقييد الوصول إلى مثيل في Dynamics 365 Guides باستخدام مجموعات الأمان](/dynamics365/mixed-reality/guides/admin-security/?azure-portal=true).    
 
 4. بعد أن تكون البيئة الجديدة نشطة (أي عندما تظهر **جاهزة** في حقل **الحالة** للبيئة)، انتقل إلى قسم "تغيير الحد الأقصى لحجم ملف التحميل" أدناه.
 > [!NOTE]
@@ -137,7 +137,7 @@ ms.locfileid: "8546943"
 
 ## <a name="3-install-the-apps-pc-and-hololens"></a>3. تثبيت التطبيقات (الكمبيوتر الشخصي وHoloLens)
 
-يوجد تطبيقان من تطبيقات Microsoft Dynamics ‏365 Guides:
+يوجد تطبيقان من تطبيقات Microsoft Dynamics 365 Guides:
 
 - تطبيق تأليف الكمبيوتر الشخصي
 - تطبيق HoloLens، الذي يتضمن وضع **المؤلف** ووضع **التشغيل**
@@ -164,7 +164,7 @@ ms.locfileid: "8546943"
 
 
     > [!NOTE]
-    > إذا كنت مؤلفاً، فراجع [تثبيت تطبيق Dynamics 365 Guides HoloLens وتسجيل الدخول إليه]( /dynamics365/mixed-reality/guides/install-sign-in-hololens-app/?azure-portal=true) للحصول على معلومات حول كيفية فتح التطبيق وتسجيل الدخول إليه. إذا كنت عاملاً، فراجع [تثبيت تطبيق Dynamics 365 GuidesHoloLens وتسجيل الدخول إليه (العمال)]( /dynamics365/mixed-reality/guides/install-sign-in-operator/?azure-portal=true)
+    > إذا كنت مؤلفاً، فراجع [تثبيت تطبيق Dynamics 365 Guides HoloLens وتسجيل الدخول إليه]( /dynamics365/mixed-reality/guides/install-sign-in-hololens-app/?azure-portal=true) للحصول على معلومات حول كيفية فتح التطبيق وتسجيل الدخول إليه. إذا كنت عاملاً، فراجع [تثبيت تطبيق Dynamics 365 GuidesHoloLens وتسجيل الدخول إليه (العمال)](/dynamics365/mixed-reality/guides/hololens-app-install-sign-in/?azure-portal=true)
 
 ### <a name="distribute-the-apps-through-microsoft-store-for-business"></a>توزيع التطبيقات من خلال Microsoft Store for Business
 
@@ -178,7 +178,7 @@ ms.locfileid: "8546943"
     - إدارة الأجهزة المحمولة - راجع [تكوين موفر إدارة الأجهزة المحمولة (MDM)]( /microsoft-store/configure-mdm-provider-microsoft-store-for-business/?azure-portal=true)
 
 ## <a name="4-set-up-power-bi-reports"></a>4. إعداد تقارير Power BI
-تشتمل Microsoft Dynamics ‏365 Guides على تقارير Power BI (تُسمى تحليلات Guides) التي يمكنك استخدامها لتحليل عمليات Dynamics 365 Guides. للحصول على معلومات حول كيفية فتح "تحليلات الأدلة: باستخدام تطبيق Power BI Desktop، راجع "فتح تحليلات الأدلة" على صفحة [تحليل الأدلة التي تم إنشاؤها باستخدام Dynamics 365 Guides](/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics/?azure-portal=true). 
+تشتمل Microsoft Dynamics 365 Guides على تقارير Power BI (تُسمى تحليلات الأدلة) التي يمكنك استخدامها لتحليل عمليات Dynamics 365 Guides. للحصول على معلومات حول كيفية فتح "تحليلات الأدلة: باستخدام تطبيق Power BI Desktop، راجع "فتح تحليلات الأدلة" على صفحة [تحليل الأدلة التي تم إنشاؤها باستخدام Dynamics 365 Guides](/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics/?azure-portal=true). 
 
 إذا كان لديك ترخيص Power BI ‏Pro، فيمكنك مشاركة تقارير Power BI لتحليلات الأدلة الخاصة بك داخل مؤسستك عن طريق نشرها إلى خدمة Power BI. في هذه الحالة، يمكن لأي شخص في مؤسستك لديه ترخيص Power BI ‏Pro الوصول إلى التقرير من خلال واجهة ويب خدمة Power BI التي يمكن الوصول إليها على [https://powerbi.microsoft.com](https://powerbi.microsoft.com/?azure-portal=true). للتعرف على المشاركة وتعاون السحابة في Power BI، ولتسجيل الاشتراك في إصدار تجريبي مجاني من Power BI Pro، راجع [الشروع في العمل باستخدام Power BI Desktop](https://powerbi.microsoft.com/get-started/?azure-portal=true) و[طرق التعاون والمشاركة في Power BI](/power-bi/service-how-to-collaborate-distribute-dashboards-reports/?azure-portal=true)
 

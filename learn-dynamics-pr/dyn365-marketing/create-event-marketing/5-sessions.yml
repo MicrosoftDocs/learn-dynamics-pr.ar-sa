@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-event-marketing.5-sessions
-title: إدارة الجلسات والمتحدثين والرعاية
+title: إدارة الجلسات، والمتحدثين، والجهات الراعية.
 metadata:
-  title: إدارة الجلسات والمتحدثين والرعاية
+  title: إدارة الجلسات، والمتحدثين، والجهات الراعية.
   description: تعرّف على إدارة الجلسات والمتحدثين والرعاية.
-  ms.date: 05/12/2021
+  ms.date: 06/30/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 55839e2b78d43f9c5513033cbc34c09deccb9bdb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c0d74522e83a61677fd7391879001be916ef2809
+  ms.sourcegitcommit: 2d9a31d2afaf95e55867b4f86c88e84eb9d57fc0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435435"
-durationInMinutes: 20
+  ms.lasthandoff: 07/01/2022
+  ms.locfileid: "9105874"
+durationInMinutes: 25
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-sessions.md)]"

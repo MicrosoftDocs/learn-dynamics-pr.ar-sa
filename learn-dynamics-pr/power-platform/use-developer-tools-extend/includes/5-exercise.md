@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 532453010cc094a2b8c3ecb8eaeff23f4bd9c5ec
-ms.sourcegitcommit: 7176ef5181d9189bdd57ecf1f34b7b4a9580e681
+ms.openlocfilehash: 4561b010a00cb4d26d79018bf022a9ebe5ba79d4
+ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "8786481"
+ms.lasthandoff: 06/24/2022
+ms.locfileid: "9046826"
 ---
 في هذا التدريب، ستقوم بتثبيت ‪Power Platform CLI‬، وإنشاء أول مكون في ‪Power Apps Component Framework (PCF)‬.
 
@@ -46,11 +46,11 @@ ms.locfileid: "8786481"
     > [!div class="mx-imgBorder"]
     > ![لقطة شاشة تعرض تفاصيل جلسة العمل ومكان العثور على عنوان U R L للمثيل.](../media/instance.png)
 
-1. ارجع إلى وحدة Visual Studio Code الطرفية، واكتب الأمر التالي لإنشاء اتصال من CLI وقم بتسجيل الدخول إلى بيئة الاختبار الخاصة بك عندما يُطلب منك ذلك.
+1. ارجع إلى محطة Visual Studio Code، واكتب الأمر التالي لإنشاء اتصال من CLI وقم بتسجيل الدخول إلى بيئة الاختبار الخاصة بك عندما يُطلب منك ذلك.
 
     `pac auth create --name Lab --url <Your Instance URL>`
 
-1. اكتب الأمر who التالي الذي سيعرض معلومات البيئة والمستخدمين. وهذا مفيد للتأكد من أنك في البيئة الصحيحة.
+1. اكتب الأمر `who` التالي الذي سيعرض البيئة ومعلومات المستخدم. وهذا مفيد للتأكد من أنك في البيئة الصحيحة.
 
     `pac org who`
 
@@ -94,7 +94,8 @@ ms.locfileid: "8786481"
     ```
     this.label = document.createElement("input");
     this.label.setAttribute("type", "label");
-    this.label.value = "My First PCF"; this._container = document.createElement("div");
+    this.label.value = "My First PCF";
+    this._container = document.createElement("div");
     this._container.appendChild(this.label);
     container.appendChild(this._container);
     ```

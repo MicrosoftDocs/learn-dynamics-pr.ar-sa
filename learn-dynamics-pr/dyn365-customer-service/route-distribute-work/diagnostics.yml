@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.route-distribute-work.diagnostics
+title: التشخيصات
+metadata:
+  title: التشخيصات
+  description: تعرف على كيفية تمكين التشخيصات وتشغيلها أثناء التوجيه.
+  ms.date: 06/16/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 11806922a86e71021d5629a95bdcd7e1b2afe315
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063719"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/diagnostics.md)]

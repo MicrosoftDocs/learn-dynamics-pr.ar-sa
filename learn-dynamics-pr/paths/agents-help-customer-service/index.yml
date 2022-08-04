@@ -3,17 +3,17 @@ uid: learn-dynamics.agents-help-customer-service
 metadata:
   title: يكون مندوبون المساعدة أكثر إنتاجيةً في Dynamics 365 Customer Service
   description: هل ترغب في تحسين إنتاجية المندوبين؟ يناقش هذا المسار الخيارات لمساعدة المندوبين على زيادة إنتاجيتهم عند استخدام تطبيق Customer Service.
-  ms.date: 03/03/2022
+  ms.date: 06/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: 1c1687c8371e2b14975fde89f7b4f0f267b79530
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3dd4f7f7316d6c92b7572fb5ad245958697b7faf
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752673"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062944"
 title: يكون مندوبون المساعدة أكثر إنتاجيةً في Dynamics 365 Customer Service
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -38,5 +38,7 @@ modules:
 - learn-dynamics.enhance-agent-productivity-customer-service-workspace
 - learn-dynamics.agent-productivity-personalization-omnichannel
 - learn-dynamics.agent-productivity
+- learn-dynamics.productivity-tools
+- learn-dynamics.create-smart-assist-omnichannel
 trophy:
   uid: learn-dynamics.agents-help-customer-service.trophy

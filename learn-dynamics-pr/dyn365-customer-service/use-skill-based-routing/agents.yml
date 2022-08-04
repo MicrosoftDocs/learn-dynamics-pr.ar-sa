@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-skill-based-routing.agents
+title: تعيين المهارات إلى المندوبين
+metadata:
+  title: تعيين المهارات إلى المندوبين
+  description: تعرف على كيفية تعيين المهارات للمندوبين.
+  ms.date: 06/17/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 950e5bc9c353d150132ae501b0b19f0381731dc7
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063717"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/agents.md)]"

@@ -4,17 +4,17 @@ title: مراجعة دورة حياة الحالة
 metadata:
   title: مراجعة دورة حياة الحالة
   description: مراجعة دورة حياة الحالة
-  ms.date: 06/09/2022
+  ms.date: 06/21/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 82c99383b79609c3f2f21e562acf50c4723bc1f1
-  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
+  ms.openlocfilehash: d8070e45cb2e67c1a4be4b7d48f72fcef2139247
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/10/2022
-  ms.locfileid: "8948892"
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9046911"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2

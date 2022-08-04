@@ -4,15 +4,15 @@ title: متابعة زيارات الموقع والنقر فوق الروابط
 metadata:
   title: متابعة زيارات الموقع والنقر فوق الروابط
   description: تعرّف على كيفية متابعة زيارات الموقع والنقر فوق الروابط.
-  ms.date: 04/02/2021
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c069133c6cdf0246c626cffd86d8efa468f3d384
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b8c3110ea42568cb73806337edda40f2c4452075
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435357"
-durationInMinutes: 15
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092822"
+durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-monitor.md)]"

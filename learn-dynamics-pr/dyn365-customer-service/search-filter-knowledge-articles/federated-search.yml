@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.search-filter-knowledge-articles.federated-search
+title: البحث عن محتوى المقالة من مصادر بيانات مختلفة
+metadata:
+  title: البحث عن محتوى المقالة من مصادر بيانات مختلفة
+  description: تعرف على كيفية ‏‫البحث عن محتوى المقالة من مصادر بيانات مختلفة‬.
+  ms.date: 06/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4af4f5a2fff46de6b901dcdfd77a953e5c439040
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063724"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/federated-search.md)]"

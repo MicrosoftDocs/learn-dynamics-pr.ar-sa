@@ -4,15 +4,15 @@ title: إدارة الحسابات
 metadata:
   title: إدارة الحسابات
   description: تعرّف على كيفية إدارة الحسابات.
-  ms.date: 03/24/2021
+  ms.date: 06/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e23116139423947dd5a3439ba5c2cac962fb0b82
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: dade258a41a80d179ee376c67ad3a197729b6a51
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435359"
-durationInMinutes: 5
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092832"
+durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-accounts.md)]"

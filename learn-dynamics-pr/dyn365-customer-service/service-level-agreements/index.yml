@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.service-level-agreements
+metadata:
+  title: التعامل مع اتفاقيات مستوى الخدمة في Dynamics 365 Customer Service
+  description: تعرف على كيفية إنشاء وإدارة اتفاقيات مستوى الخدمة في Dynamics 365 Customer Service.
+  ms.date: 06/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 57f893591d716530fe941531ba2d9106a61bc25e
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062642"
+title: التعامل مع اتفاقيات مستوى الخدمة في Dynamics 365 Customer Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يتضمن ‏Dynamics 365 Customer Service القدرة على تحديد اتفاقيات مستوى الخدمة (SLAs) لمساعدة المؤسسات على تلبية مستويات الخدمة المطلوبة عند تقديم الدعم للعملاء. باستخدام اتفاقيات مستوى الخدمة، يمكنك تتبع مؤشرات الأداء الأساسية (KPIs) الشائعة، مثل وقت الاستجابة الأول ووقت حل المكالمة، لكل حالة يتم إرسالها. بالإضافة إلى ذلك، يمكنك إنشاء مؤشرات أداء أساسية مخصصة تتعقب العناصر الخاصة بالأعمال والمهمة لمؤسستك.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - إعداد ساعات العمل، وحالات الإغلاق، وتقاويم العطلات.
+
+  - إنشاء اتفاقيات مستوى الخدمة وتحديد تفاصيلها.
+
+  - تحديد مؤشرات الأداء الأساسية (KPI) المخصّصة.
+
+  - إدارة اتفاقيات مستوى الخدمة.
+prerequisites: المعرفة الأساسية بـ Dynamics 365 Customer Service
+iconUrl: /learn/achievements/service-level-agreements.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-customer-service
+subjects:
+- customer-relationship-management
+units:
+- learn-dynamics.service-level-agreements.introduction
+- learn-dynamics.service-level-agreements.closures-work-hours
+- learn-dynamics.service-level-agreements.create-service-level-agreement
+- learn-dynamics.service-level-agreements.define-service-level-agreement
+- learn-dynamics.service-level-agreements.define-custom-kpi
+- learn-dynamics.service-level-agreements.manage-service-level-agreements
+- learn-dynamics.service-level-agreements.check
+- learn-dynamics.service-level-agreements.summary
+badge:
+  uid: learn-dynamics.service-level-agreements.badge

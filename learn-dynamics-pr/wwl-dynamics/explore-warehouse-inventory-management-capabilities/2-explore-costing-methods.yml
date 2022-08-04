@@ -4,17 +4,17 @@ title: استكشاف أساليب التكلفة
 metadata:
   title: استكشاف أساليب التكلفة
   description: استكشاف أساليب التكلفة
-  ms.date: 06/15/2022
+  ms.date: 07/01/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 400553cb1bee0450cd67728b51787e667496f307
-  ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
+  ms.openlocfilehash: 31e47497470cd76314fbe73d5cec3c8aaaa35dd8
+  ms.sourcegitcommit: d1f057126533fd52a9c2698a01032040367971f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/15/2022
-  ms.locfileid: "9014133"
+  ms.lasthandoff: 07/01/2022
+  ms.locfileid: "9110809"
 azureSandbox: false
 labModal: false
 durationInMinutes: 15

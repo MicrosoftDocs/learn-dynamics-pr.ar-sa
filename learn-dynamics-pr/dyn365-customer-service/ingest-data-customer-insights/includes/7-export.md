@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 4330917e045faa652c65cb0d42bcd7bcfaa0a77e
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: 709424f9ef73ee7e512bc67f83eb52dc51617539
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024381"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063140"
 ---
 تم تصميم Customer Insights لمساعدة المؤسسات على تقديم تجارب عملاء مخصصة من خلال توحيد بيانات العملاء عبر النطاق الكامل لمصادر البيانات لتوفير عرض واحد للعملاء. من خلال تكوين أصناف مثل المقاييس والقطاعات، يمكن لمؤسستك بناء فهم أعمق لعملائك.
 
-بينما تُعد Customer Insights أداة قوية تساعد في توفير رؤى قيمة لعملائك، إلا أنها ليست الأداة التي ستستخدمها مؤسستك للعمل والتفاعل مع العملاء. اعتمادًا على الهدف، ستستخدم مؤسستك تطبيقات أخرى لأداء مهام مثل إرسال مواد تسويقية للعملاء أو تنبيه الموظفين عندما يكون هناك خطر خسارة عميل. يمكنك تحسين هذه التطبيقات الأخرى لتقديمها استنادًا إلى بيانات Customer Insights.
+بينما تُعد Customer Insights أداة قوية تساعد في توفير رؤى قيمة لعملائك، إلا أنها ليست الأداة التي ستستخدمها مؤسستك للعمل والتفاعل مع العملاء. اعتماداً على الهدف، ستستخدم مؤسستك تطبيقات أخرى لأداء مهام مثل إرسال مواد تسويقية للعملاء أو تنبيه الموظفين عندما يكون هناك خطر خسارة عميل. يمكنك تحسين هذه التطبيقات الأخرى لتقديمها استناداً إلى بيانات Customer Insights.
 
 فمثلاً، قد تستخدم مؤسستك Customer Insights لإنشاء شرائح العملاء بناءً على العملاء الذين يستوفون المعايير التالية:
 
@@ -20,19 +20,19 @@ ms.locfileid: "9024381"
 
 -   أنفق العميل أكثر من 1000.00 دولار عبر الإنترنت معنا في السنة الماضية.
 
-للاشتراك مع العملاء المحددين في الشريحة، قد تستخدم مؤسستك تطبيقًا مثل Dynamics 365 Marketing. سيتم تصدير الشريحة من Customer Insights واستيرادها إلى Dynamics 365 Marketing عندما يتم تكوين رحلة العميل التي تستهدف شريحة العميل المصدرة.
+للاشتراك مع العملاء المحددين في الشريحة، قد تستخدم مؤسستك تطبيقاً مثل Dynamics 365 Marketing. سيتم تصدير الشريحة من Customer Insights واستيرادها إلى Dynamics 365 Marketing عندما يتم تكوين رحلة العميل التي تستهدف شريحة العميل المصدرة.
 
-يمثل هذا مثالاً واحدًا فقط من العديد من الطرق المختلفة التي يمكن من خلالها تطبيق البيانات المجمعة في Customer Insights.
+يمثل هذا مثالاً واحداً فقط من العديد من الطرق المختلفة التي يمكن من خلالها تطبيق البيانات المجمعة في Customer Insights.
 
-تتيح لك Customer Insights تصدير البيانات مثل المقاييس والشرائح والأنشطة إلى تطبيقات أخرى بحيث يمكن استخدام البيانات كجزء من وظائف التطبيق. يتم ذلك من خلال صفحة وجهات التصدير. عند الوصول إلى وجهات التصدير لأول مرة، يتم نقلك إلى صفحة الاكتشاف حيث ترى الوجهات المختلفة التي يمكن تصدير بياناتك إليها. اعتمادًا على الخدمة التي تريد استخدامها، تكون هناك اتصالات مختلفة متاحة.
+تتيح لك Customer Insights تصدير البيانات مثل المقاييس والشرائح والأنشطة إلى تطبيقات أخرى بحيث يمكن استخدام البيانات كجزء من وظائف التطبيق. يتم ذلك من خلال صفحة وجهات التصدير. عند الوصول إلى وجهات التصدير لأول مرة، يتم نقلك إلى صفحة الاكتشاف حيث ترى الوجهات المختلفة التي يمكن تصدير بياناتك إليها. اعتماداً على الخدمة التي تريد استخدامها، تكون هناك اتصالات مختلفة متاحة.
 
-توفر وجهات التصدير حاليًا خيارات الاتصال التالية:
+توفر وجهات التصدير حالياً خيارات الاتصال التالية:
 
 -   **Azure Blob Storage** -يتيح لك تخزين بيانات Customer Insights الخاصة بك في Azure Blob أو استخدمها لنقل بياناتك إلى تطبيقات أخرى. [‬‏‫اعرف المزيد حول Azure Blob Storage](/dynamics365/customer-insights/audience-insights/export-azure-blob-storage/?azure-portal=true).
 
 -   **Azure Synapse Analytics** - استخدم البيانات الموحدة من Customer Insights لإنشاء التحليلات الموسعة عبر بنود أعمالك. [اعرف المزيد حول Azure Synapse Analytics](/azure/synapse-analytics/sql-data-warehouse/?azure-portal=true).
 
--   **مركز التسويق الرقمي** - أدر حضورك عبر أنظمة أساسية إعلانية وشبكات اجتماعية رائدة مثل Google Ads، وFacebook، وTwitter، وInstagram، وMicrosoft Advertising. [اعرف المزيد حول مركز التسويق الرقمي](https://www.microsoft.com/digital-marketing-center/?azure-portal=true).
+-   **مركز التسويق الرقمي** - أدر حضورك عبر أنظمة أساسية إعلانية وشبكات اجتماعية رائدة مثل Google Ads، وFacebook، وTwitter، وInstagram، وMicrosoft Advertising. [اعرف المزيد حول مركز التسويق الرقمي](/digital-marketing-center/?azure-portal=true).
 
 -   **‏‫Dynamics 365 Customer Card Add-in** - احصل على عرض شامل لعملائك داخل تطبيقات Dynamics 365. عرض المعلومات السكانية والرؤى والجداول الزمنية للأنشطة باستخدام Customer Card Add-in. [اعرف المزيد حول موصل Dynamics 365 Customer Service](/dynamics365/customer-insights/audience-insights/customer-card-add-in/?azure-portal=true).
 
@@ -50,9 +50,9 @@ ms.locfileid: "9024381"
 
 -   **Microsoft Teams** - مكِّن موظفيك من الوصول بسرعة إلى تفاصيل محددة للعملاء بمساعدة روبوت، داخل Teams مباشرةً. ابحث بسهولة عن ملفات تعريف العملاء دون تسجيل الدخول إلى Customer Insights. [اعرف المزيد حول الاتصال بـ Microsoft Teams.](/dynamics365/customer-insights/audience-insights/export-teams-bot/?azure-portal=true).
 
--   **موصل Power Apps** - يمكنك إحضار ملفات التعريف الموحّدة للعملاء إلى تطبيقاتك المخصصة باستخدام Power Apps. حدد قالبًا أو خصص كيفية ظهور بياناتك بالكامل. [اعرف المزيد حول الاتصال بـ Power Apps](/dynamics365/customer-insights/audience-insights/export-power-apps/?azure-portal=true).
+-   **موصل Power Apps** - يمكنك إحضار ملفات التعريف الموحّدة للعملاء إلى تطبيقاتك المخصصة باستخدام Power Apps. حدد قالباً أو خصص كيفية ظهور بياناتك بالكامل. [اعرف المزيد حول الاتصال بـ Power Apps](/dynamics365/customer-insights/audience-insights/export-power-apps/?azure-portal=true).
 
--   **موصل Power Automate** - قم بتشغيل أحداث معينة لكي تحدث تلقائياً عند تغيير بياناتك وأدر مزيدًا من عمليات سير المهام المعقدة مباشرةً في Power Automate. [اعرف المزيد حول الاتصال بـ Power Automate](/dynamics365/customer-insights/audience-insights/export-power-automate/?azure-portal=true).
+-   **موصل Power Automate** - قم بتشغيل أحداث معينة لكي تحدث تلقائياً عند تغيير بياناتك وأدر مزيداً من عمليات سير المهام المعقدة مباشرةً في Power Automate. [اعرف المزيد حول الاتصال بـ Power Automate](/dynamics365/customer-insights/audience-insights/export-power-automate/?azure-portal=true).
 
 -   **موصل Power BI** - قم بإنشاء رسوم مرئية لبيانات Customer Insights باستخدام الوظيفة الإضافية في Power BI Desktop. يمكنك إنشاء مزيد من الرؤى وإنشاء التقارير باستخدام بيانات العملاء الموحدة. [اعرف المزيد حول الاتصال بـ Power BI من خلال Power Query](/dynamics365/customer-insights/audience-insights/export-power-bi/?azure-portal=true).
 

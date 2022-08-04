@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-bizapps.dynamics-365-service-level-agreements
 metadata:
-  title: إدارة SLAs باستخدام Dynamics 365 Customer Service
-  description: تعرَّف على كيفية العمل باستخدام SLAs لإدارة مؤشرات الأداء الرئيسية (KPI) في Dynamics 365 Customer Service.
-  ms.date: 02/02/2019
-  author: davebeasley
-  ms.author: dbeasley
+  title: إدارة اتفاقيات مستوى الخدمة باستخدام Dynamics 365 Customer Service
+  description: تعرَّف على كيفية العمل باستخدام اتفاقيات مستوى الخدمة لإدارة مؤشرات الأداء الأساسية (KPI) في Dynamics 365 Customer Service.
+  ms.date: 06/28/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c4142265599197dc9766a6de750a6e91add54b11
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: cc237b8f5147ddc1dfd341976c430f91a4d64c9a
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748752"
-title: إدارة SLAs باستخدام Dynamics 365 Customer Service
-summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة على SLAs في Dynamics 365 ومدى الاستفادة الممكنة منها في تحديد مؤشرات الأداء الرئيسية (KPI) وتعقُّبها، بما في ذلك تحديد مرات إغلاق الأعمال وجداول ساعات العمل وتحديد شروط تشغيل SLA، وتحديد SLAs، وبناء شروط SLA، وإدارة SLAs، والعمل باستخدام ‏‫حالات التوقف المؤقت لـ SLA.      \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد مؤشرات الأداء الرئيسية (KPI) التي يتم قياسها باستخدام SLA \n- تحديد مرات إغلاق الأعمال وساعات العمل\n- إنشاء SLA، بما في ذلك شروط التشغيل وإجراءاته\n- إنشاء بنود SLA\n- تحديد مؤشرات الأداء الرئيسية (KPI) المخصّصة\n- تمكين SLAs لكيانات متعددة\n- إدارة SLAs لمؤسسة ما\n"
-prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  يُعد الإلمام بإنشاء الحالات وإدارتها فضلاً عن الاستحقاق في Dynamics 365 مفيداً أيضًا.
-iconUrl: /learn/achievements/service-level-agreements.svg
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063260"
+title: إدارة اتفاقيات مستوى الخدمة باستخدام Dynamics 365 Customer Service
+summary: "[!include[](../includes/module-banner.md)]\nهل لديك اتفاقيات مستوى الخدمة مع عملائك؟ ستركز هذه الوحدة على اتفاقيات مستوى الخدمة في Dynamics 365 ومدى الاستفادة الممكنة منها في تحديد مؤشرات الأداء الأساسية (KPI) وتعقُّبها، بما في ذلك تحديد مرات إغلاق الأعمال وجداول ساعات العمل وتحديد شروط تشغيل اتفاقيات مستوى الخدمة، وتحديد اتفاقيات مستوى الخدمة، وبناء شروط اتفاقية مستوى الخدمة، وإدارة اتفاقيات مستوى الخدمة، والعمل باستخدام ‏‫حالات التوقف المؤقت لاتفاقية مستوى الخدمة.      \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- تحديد مؤشرات الأداء الرئيسية (KPI) التي يتم قياسها باستخدام SLA \n- تحديد مرات إغلاق الأعمال وساعات العمل\n- إنشاء SLA، بما في ذلك شروط التشغيل وإجراءاته\n- إنشاء بنود SLA\n- تحديد مؤشرات الأداء الأساسية (KPI) المخصّصة.\n- تمكين اتفاقيات مستوى الخدمة لكيانات متعددة\n- إدارة اتفاقيات مستوى الخدمة لمؤسسة ما\n"
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. يُعد الإلمام بإنشاء الحالات وإدارتها فضلاً عن الاستحقاق في Dynamics 365 مفيداً أيضاً.
+iconUrl: /learn/achievements/dynamics-365-service-level-agreements.svg
 levels:
 - intermediate
 roles:

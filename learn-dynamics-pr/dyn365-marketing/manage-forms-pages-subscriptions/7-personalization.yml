@@ -4,15 +4,15 @@ title: إعداد تخصيص صفحة التسويق
 metadata:
   title: إعداد تخصيص صفحة التسويق
   description: تعرّف على إعداد تخصيص صفحة التسويق.
-  ms.date: 08/11/2021
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8c0049b4903979140fba66e9cd71bc9183833fda
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 73e50f699fa3d0bdd6a58ec710375dccfda0c35e
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435478"
-durationInMinutes: 5
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092543"
+durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-personalization.md)]"

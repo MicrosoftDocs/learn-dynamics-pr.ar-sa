@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: cd7d97281f2bd7166e6f1bc625c18f9d704977c0
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: c972c77cf32fcc799d81af1cdc3d257965ecf6cf
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024481"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063013"
 ---
 تتمثل إحدى الإمكانيات الرئيسية لبرنامج Customer Insights في القدرة على استخدام بيانات Customer Insights في تطبيقات أخرى. تعد تطبيقات Microsoft Dynamics 365، مثل Dynamics 365 Sales وDynamics 365 Marketing، أمثلة رئيسية حيث يمكن أن يوفر تطبيق بيانات Customer Insights تجربة محسنة ويسمح لك بالوصول إلى العملاء واستهدافهم بشكل أفضل.
 
@@ -46,7 +46,7 @@ ms.locfileid: "9024481"
 
 من الناحية التاريخية، كان Dynamics 365 Marketing تطبيقاً للمسوقين. الآن، بمساعدة الذكاء الاصطناعي واللغة الطبيعية، يمكن لمستخدمي الأعمال بناء رحلات قائمة على الأحداث تصل إلى العملاء عبر نقاط اتصال متعددة وتنمي العلاقات من العملاء المحتملين من خلال المبيعات والدعم.
 
-من خلال التسويق في الوقت الفعلي، يمكنك تخصيص تفاعل العملاء باستخدام بيانات المعاملات والسلوكية والديموغرافية من [Dynamics 365 Customer Insights](/customer-insights/?azure-portal=true). باستخدام بيانات Customer Insights، يُمكنك:
+من خلال التسويق في الوقت الفعلي، يمكنك تخصيص تفاعل العملاء باستخدام بيانات الحركات والسلوكية والديموغرافية من [Dynamics 365 Customer Insights](/dynamics365/customer-insights/?azure-portal=true). باستخدام بيانات Customer Insights، يُمكنك:
 
 - استهدف ملفات تعريف العملاء الموحدة في Customer Insights ومقاطعها، والتي ستساعدك على إشراك كل عميل، بغض النظر عما إذا كانت بيانات العميل في Marketing أو Customer Insights.
 

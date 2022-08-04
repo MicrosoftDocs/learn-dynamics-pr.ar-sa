@@ -1,0 +1,45 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.setup-work-finance-insights
+metadata:
+  title: إعداد Finance insights والعمل معها في Dynamics 365 Finance
+  description: يساعدك مسار التعلم هذا على استخدام أدوات الرؤى المالية بكفاءة للتعامل مع مدفوعات العملاء، وإنشاء توقعات مدفوعات العملاء، وإنشاء تنبؤات دقيقة وقابلة للتحرير للتدفقات النقدية، وإنشاء مقترحات موازنة تم إنشاؤها بواسطة البيانات في Dynamics 365 Finance.
+  ms.date: 06/15/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: 9a4b2df777c6038e0428204fc5389408ef3aebc7
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9046889"
+title: إعداد Finance insights والعمل معها في Dynamics 365 Finance
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيساعدك مسار التعلم هذا على استخدام أدوات الرؤى المالية بكفاءة للتعامل مع مدفوعات العملاء، وإنشاء توقعات مدفوعات العملاء، وإنشاء تنبؤات دقيقة وقابلة للتحرير للتدفقات النقدية، وإنشاء مقترحات موازنة تم إنشاؤها بواسطة البيانات في Dynamics 365 Finance. \n"
+prerequisites: >
+  - المعرفة بـ Dynamics 365 Finance
+
+  - معرفة Dynamics 365 Lifecycle Services
+
+  - معرفة Azure Active Directory
+iconUrl: /learn/achievements/setup-work-finance-insights.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+subjects:
+- finance-accounting
+- supply-chain-management
+modules:
+- learn-dynamics.get-started-finance-insights
+- learn-dynamics.setup-finance-insights
+- learn-dynamics.use-customer-payment-predictions-finance
+- learn-dynamics.intelligent-cash-flow-finance
+- learn-dynamics.intelligent-budget-proposal-finance
+trophy:
+  uid: learn-dynamics.setup-work-finance-insights.trophy

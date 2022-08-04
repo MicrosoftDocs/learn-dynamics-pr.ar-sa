@@ -1,23 +1,26 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-manage-entities.5-exercise
-title: تمرين - إنشاء جدول مخصص جديد وتمكين المرفقات
+title: المعمل - إنشاء جدول مخصص جديد وتمكين المرفقات
+labId: 105473
 metadata:
-  title: تمرين - إنشاء جدول مخصص جديد وتمكين المرفقات
-  description: تعرف على كيفية إنشاء جدول مخصص جديد في Dataverse وتمكين إضافة المرفقات إلى صف في جدول مخصص جديد.
-  ms.date: 01/26/2022
+  title: المعمل - إنشاء جدول مخصص جديد وتمكين المرفقات
+  description: تعرَّف على كيفية إنشاء جدول مخصص جديد في Dataverse وتمكين إضافة المرفقات إلى صف في جدول مخصص جديد.
+  ms.date: 06/28/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 23ec95c4d267e546ad1f014b104408eb43b46699
-  ms.sourcegitcommit: f385eb78c77b96faddab4dc7ea6725c952bf4de3
+  ms.openlocfilehash: e1719beda16a4472b406fbe89e02a0d77b16482f
+  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/27/2022
-  ms.locfileid: "8045385"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9090643"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]
+
+  [!include[](../includes/power-apps-accessing-labs.md)]
 
   [!include[](includes/5-exercise.md)]

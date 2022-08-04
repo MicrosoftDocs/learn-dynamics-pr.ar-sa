@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.service-level-agreements.closures-work-hours
+title: العمل مع إغلاق الأعمال وساعات العمل
+metadata:
+  title: العمل مع إغلاق الأعمال وساعات العمل
+  description: تعرّف على كيفية إعداد ساعات العمل وتقويمات الإجازات وساعات خدمه العملاء.
+  ms.date: 06/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ac7fb4b4d341e84a7606b06655228fca4d38fad6
+  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9090729"
+durationInMinutes: 7
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/closures-work-hours.md)]

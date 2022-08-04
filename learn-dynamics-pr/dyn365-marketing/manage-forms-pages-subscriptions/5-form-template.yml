@@ -4,15 +4,15 @@ title: إنشاء قالب نموذج تسويق
 metadata:
   title: إنشاء قالب نموذج تسويق
   description: تعرّف على كيفية إنشاء قالب نموذج تسويق.
-  ms.date: 08/11/2021
+  ms.date: 06/29/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fa2b5d13619ba8bbc7ca620135c3668ef75591fd
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 537c805ccddb358d16873335031915007e6b9d71
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435507"
-durationInMinutes: 5
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092512"
+durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-form-template.md)]"

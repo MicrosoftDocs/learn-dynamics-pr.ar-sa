@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: ‏التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 06/16/2022
+  ms.date: 06/24/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 9e26e039a057ff629c819bb62ca9c611635d6a3d
-  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.openlocfilehash: ed2e74adab11f378ea1db38071390d9c6953c3cf
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/16/2022
-  ms.locfileid: "9021708"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062864"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -27,7 +27,7 @@ quiz:
     choices:
     - content: Power BI
       isCorrect: false
-      explanation: غير صحيح.‬ يُستخدم Power BI غالبًا لتقارير Power BI والتمثيل الرسومي للبيانات.
+      explanation: غير صحيح.‬ يُستخدم Power BI غالباً لتقارير Power BI والتمثيل الرسومي للبيانات.
     - content: وظائف Excel مع Microsoft Dynamics Office الإضافية
       isCorrect: false
       explanation: غير صحيح.‬ باستخدام وظائف Dynamics Office الإضافية، يمكنك تصدير البيانات الأولية من تطبيقات التمويل والعمليات إلى Excel.

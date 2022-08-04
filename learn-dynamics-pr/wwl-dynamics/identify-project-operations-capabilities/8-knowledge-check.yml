@@ -4,17 +4,17 @@ title: ‏التحقق من المعرفة
 metadata:
   title: ‏التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 06/17/2022
+  ms.date: 06/28/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: fb97bd61ef54627b5b409071388cdb47d4a30ce3
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 04c022436e1e63fcf8103e95ddb1c6438130f30d
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025328"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062714"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2
@@ -27,10 +27,10 @@ quiz:
     choices:
     - content: نسخ المعلومات الموجودة في عرض الأسعار في مشروع مرتبط بعقد مشروع.
       isCorrect: true
-      explanation: صحيح. تصبح المعلومات الموجودة في عرض الأسعار جزءًا من اتفاقية ملزمة عند نسخها إلى مشروع مرتبط بعقد مشروع.
+      explanation: صحيح. تصبح المعلومات الموجودة في عرض الأسعار جزءاً من اتفاقية ملزمة عند نسخها إلى مشروع مرتبط بعقد مشروع.
     - content: إدخال المصاريف الإضافية المقدرة للمشروع في عرض الأسعار.
       isCorrect: false
-      explanation: غير صحيح.‬ بينما يحتاج Rodney إلى إدخال المصاريف الإضافية المقدرة، لا يزال عرض أسعار المشروع تقديرًا غير ملزم للعمل المطلوب تنفيذه.
+      explanation: غير صحيح.‬ بينما يحتاج Rodney إلى إدخال المصاريف الإضافية المقدرة، لا يزال عرض أسعار المشروع تقديراً غير ملزم للعمل المطلوب تنفيذه.
     - content: ما عليك سوى إنشاء عرض أسعار المشروع، وتكون المعلومات الواردة فيه ملزمة منذ البداية.
       isCorrect: false
       explanation: غير صحيح.‬ عرض أسعار المشروع هو تقدير غير ملزم للعمل الذي يجب القيام به.

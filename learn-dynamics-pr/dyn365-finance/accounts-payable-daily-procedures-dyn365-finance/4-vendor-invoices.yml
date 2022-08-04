@@ -4,17 +4,17 @@ title: تسجيل فواتير المورّدين
 metadata:
   title: تسجيل فواتير المورّدين
   description: تعرف على كيفية تسجيل فواتير المورّدين في Dynamics 365 Finance.
-  ms.date: 01/19/2021
+  ms.date: 06/28/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/vendor-transaction-list-page
-  ms.openlocfilehash: 95cc16a4b32d4709871d6dea777fe6ae8463cd46
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e994a06c1b23ed2abe6367aba2973e2d0f71dc5f
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7342527"
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9062757"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

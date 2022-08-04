@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-universal-resource-scheduling.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص توسيع Universal Resource Scheduling باستخدام Dynamics 365 Project Operations.
+  ms.date: 06/28/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d019d15ba075003743d123785383bc955844a145
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9093001"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/summary.md)]

@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: 596bcbbeb58672b47b744681a8455491e1c828cfc59a72a979ac744caf27f896
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ef4f11e03e88f28afb1a6eb34e638131d927ef77
+ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7435295"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "9092652"
 ---
 التسويق عبر الإنترنت مصدر رائع لتشغيل الحملات المستهدفة واستكشاف الشبكات المهنية وإيجاد عملاء متوقعين جدد. كما يُساعدك في اكتساب نظرة ثاقبة عن كيفية تفاعل العملاء المحتملين وجهات الاتصال مع مؤسساتك من خلال منصاتك الاجتماعية وموقع الويب. يحتوي Dynamics 365 Marketing على العديد من الميزات والإمكانات لمساعدتك في مراقبة زيارات موقع الويب ونقرات الارتباط، وتمكّنك من النشر على مواقع التواصل الاجتماعي مباشرةً من التطبيق.

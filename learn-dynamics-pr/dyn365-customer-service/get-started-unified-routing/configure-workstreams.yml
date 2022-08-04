@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-unified-routing.configure-workstreams
+title: إعداد تدفقات العمل لتوجيه السجلات
+metadata:
+  title: إعداد تدفقات العمل لتوجيه السجلات
+  description: تعرّف على كيفية إعداد تدفقات العمل لتوجيه السجلات.
+  ms.date: 06/15/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f85154955f70241a223b7971af15b05e43d8e4d4
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063713"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/configure-workstreams.md)]"

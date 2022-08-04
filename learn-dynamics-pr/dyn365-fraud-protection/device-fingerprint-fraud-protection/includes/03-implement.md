@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e2e3baca479cbf961ec71c1eb11ae9fb47ba479e
-ms.sourcegitcommit: 72f2b7dec6a92e68ce992a055615f7b102b302eb
+ms.openlocfilehash: e4c431693bfad5f1107a89c8ecc9060a9cdc8038
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/13/2022
-ms.locfileid: "8954914"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063062"
 ---
 في هذا الجزء من الوحدة النمطية، ستستخدم نموذج تطبيق التاجر للحماية من الاحتيال الذي قمت بتكوينه في وحدة [تكوين بيانات نموذج التطبيق لـ Dynamics 365 Fraud Protection](/learn/modules/configure-sample-app-fraud-protection/?azure-portal=true).  
 
@@ -96,7 +96,7 @@ ms.locfileid: "8954914"
     window.dfp.doFpt(this.document); 
     ```
  
-    أرسل الحركات في [Dynamics 365 Fraud Protection ‏API](https://apidocs.microsoft.com/services/?azure-portal=true)، مع المعلومات التالية:
+    أرسل الحركات في [Dynamics 365 Fraud Protection ‏API](/fraud-protection-rest/api/fraud-protection-rest/?azure-portal=true)، مع المعلومات التالية:
 
     - في حقل **deviceContextId**، قم بتعيين معرف جلسة عمل. 
     - في حقل **deviceContextDC** في كائن deviceContext object، قم بتعيين متغير **window.dfp.dc** من استجابة mdt.js. 
@@ -125,7 +125,7 @@ ms.locfileid: "8954914"
 إذا كنت لا تزال تواجه مشكلة، فاتصل بممثل Microsoft أو البريد الإلكتروني [dfphelp@microsoft.com](mailto:DFPHelp@microsoft.com).
 
 ## <a name="check-for-latency-throughout-the-system"></a>التحقق من زمن الانتقال في جميع أنحاء النظام 
-يشعر معظم عملاء Fraud Protection بالقلق من أن زمن الانتقال المتزايد قد يؤثر على سرعة المعاملات من طرف إلى طرف. تحقق من نظامك للتأكد من أن وقت الاستجابة الكبير لم يتم تقديمه عن غير قصد. نوصي بالتحقق من زمن الانتقال بين العوامل التالية:
+يشعر معظم عملاء Fraud Protection بالقلق من أن زمن الانتقال المتزايد قد يؤثر على سرعة الحركات من طرف إلى طرف. تحقق من نظامك للتأكد من أن وقت الاستجابة الكبير لم يتم تقديمه عن غير قصد. نوصي بالتحقق من زمن الانتقال بين العوامل التالية:
 
 - تحميل الصفحة الأولي (رطبة بالكامل) 
 - طلب وسم بصمات الأصابع

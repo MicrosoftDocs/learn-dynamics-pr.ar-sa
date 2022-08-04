@@ -4,15 +4,15 @@ title: إدارة الكلمات الأساسية
 metadata:
   title: إدارة الكلمات الأساسية
   description: تعرّف على إدارة الكلمات الأساسية.
-  ms.date: 03/23/2021
+  ms.date: 06/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 055702524d5323bf4eeca2a754394199e1cb4475
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6d299c1fd2e910a5b985b8e9ec3415f2bd944eaf
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435423"
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9046771"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-keywords.md)]"

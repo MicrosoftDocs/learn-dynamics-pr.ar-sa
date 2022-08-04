@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-apis-project-operations.develop-templates
+title: تطوير قوالب المشروع مع نسخ المشروع‬
+metadata:
+  title: تطوير قوالب المشروع مع نسخ المشروع‬
+  description: تعرف على كيفية تطوير قوالب المشاريع باستخدام "نسخ المشروع".
+  ms.date: 06/20/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: cacd22b4dfb0ad979a4770a798bcacd624a06d04
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9047210"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/develop-templates.md)]

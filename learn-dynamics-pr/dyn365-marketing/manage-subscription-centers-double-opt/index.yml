@@ -3,20 +3,20 @@ uid: learn-dynamics.manage-subscription-centers-double-opt
 metadata:
   title: إدارة مراكز الاشتراك والاشتراك المزدوج في Dynamics 365 Marketing
   description: تعرّف على إدارة مراكز الاشتراك والاشتراك المزدوج في Dynamics 365 Marketing.
-  ms.date: 04/01/2021
+  ms.date: 06/30/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4b2aa6ddf8667871950364758e9d3a8c9d2a0a68
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 5b8262f70bab696cc712de57d105e5a934d51b15
+  ms.sourcegitcommit: 5ae403322b7cec485d82f46c1e8b43b0486e35b4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748065"
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9098045"
 title: إدارة مراكز الاشتراك والاشتراك المزدوج في Dynamics 365 Marketing
-summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على إدارة مراكز الاشتراك والاشتراك المزدوج في Dynamics 365 Marketing. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء قائمة اشتراك.\n- إنشاء نموذج مركز الاشتراك.\n- إنشاء صفحة تسويق لمركز اشتراك.\n- تحديد مركز اشتراك في إعدادات المحتوى.\n- تعيين إعدادات المحتوى في رحلات العميل.\n"
-prerequisites: بلا
+summary: "[!include[](../includes/module-banner.md)] \nتعرّف على إدارة مراكز الاشتراك والاشتراك المزدوج في Dynamics 365 Marketing. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قائمة اشتراك.\n- إنشاء نموذج مركز الاشتراك.\n- تصميم صفحة تسويق لمركز اشتراك.\n- تحديد مركز اشتراك في إعدادات المحتوى.\n- تحديد سجل إعدادات المحتوى في رحلة العميل.\n"
+prerequisites: الفهم الأساسي لنماذج وصفحات التسويق في Dynamics 365 Marketing
 iconUrl: /learn/achievements/manage-subscription-centers-double-opt.svg
 levels:
 - intermediate

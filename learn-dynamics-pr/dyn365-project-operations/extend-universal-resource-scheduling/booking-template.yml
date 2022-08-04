@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-universal-resource-scheduling.booking-template
+title: تحرير قالب حجز لوحة الجدولة
+metadata:
+  title: تحرير قالب حجز لوحة الجدولة
+  description: تعرف على كيفية تحرير HTML الذي يتحكم في قالب الحجز.
+  ms.date: 06/28/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 97b7d2050c887c2f6f21bfe6f24666f62a11be1b
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9093003"
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/booking-template.md)]

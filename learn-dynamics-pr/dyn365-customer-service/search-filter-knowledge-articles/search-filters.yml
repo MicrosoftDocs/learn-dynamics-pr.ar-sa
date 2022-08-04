@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.search-filter-knowledge-articles.search-filters
+title: عوامل تصفية البحث عن المقالات المعرفية
+metadata:
+  title: عوامل تصفية البحث عن المقالات المعرفية
+  description: تعرف على عوامل تصفية البحث عن المقالات المعرفية.
+  ms.date: 06/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4768816b014ef4381180d987150ea66ba67df89d
+  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9090717"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/search-filters.md)]"

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 658e97b58ddcc7fa8ec2b7660c232f6fe521a18a
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: 22ff80e7d1b83ff13f71ebeda7accbcd4c298383
+ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024341"
+ms.lasthandoff: 06/24/2022
+ms.locfileid: "9046817"
 ---
-عادةً، لن يصل معظم المستخدمين النهائيين إلى بيانات Customer Insights مباشرةً من تطبيق Customer Insights. وسوف يستخدمون بيانات Customer Insights في التطبيقات التي يستخدمونها كل يوم. على سبيل المثال، قد يستخدم أحد المسوقين المقاطع التي تم إنشاؤها في Customer Insights في تطبيق تسويق مثل Dynamics 365 customer insights. قد تقوم مؤسسة مبيعات بإظهار بيانات Customer Insights في نظام CRM الخاص بها لمساعدة موظف المبيعات على توفير أفضل تجارب عملاء بوجه عام.
+عادةً، لن يصل معظم المستخدمين النهائيين إلى بيانات Customer Insights مباشرةً من تطبيق Customer Insights. وسوف يستخدمون بيانات Customer Insights في التطبيقات التي يستخدمونها كل يوم. على سبيل المثال، قد يستخدم أحد المسوقين المقاطع التي تم إنشاؤها في Customer Insights في تطبيق تسويق مثل Dynamics 365 Marketing. قد تقوم مؤسسة مبيعات بإظهار بيانات Customer Insights في نظام CRM الخاص بها لمساعدة موظف المبيعات على توفير أفضل تجارب عملاء بوجه عام.
 
 للوصول إلى هذه النقطة، ستحتاج إلى إنشاء بيئة Customer Insights الخاصة بك لدعم احتياجات المؤسسة. وعلى مستوى عالٍ، تتضمن العملية:
 

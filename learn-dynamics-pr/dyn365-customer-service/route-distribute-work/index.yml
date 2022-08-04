@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-dynamics.route-distribute-work
+metadata:
+  title: توجيه العمل وتوزيعه باستخدام التوجيه الموحد في Dynamics 365 Customer Service
+  description: تعرف على كيفية توجيه وتوزيع العمل من العملاء إلى الموظفين المناسبين باستخدام التوجيه الموحد في Dynamics 365 Customer Service.
+  ms.date: 06/16/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e0c7a55d95f2a7424a3efdde10b695d54013bf78
+  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9090719"
+title: توجيه العمل وتوزيعه باستخدام التوجيه الموحد في Dynamics 365 Customer Service
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  التوجيه الموحد هو قدرة توجيه وتعيين ذكية وقابلة للتطوير وذات مستوى مؤسسي. يمكنه توجيه عنصر العمل الوارد إلى قائمة الانتظار والمندوب الأنسب من خلال الالتزام بمتطلبات عنصر العمل ومطابقتها مع قدرات المندوب.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - قم بإعداد المكونات التي يتم تضمينها في تصنيف وتعيين عناصر العمل.
+
+  - قم بتصنيف عناصر العمل وتوجيه العمل إلى الموظفين.
+
+  - قم بإعداد قوائم الانتظار لتوزيع العمل.
+
+  - قم بتشغيل التشخيصات.
+prerequisites: المعرفة الأساسية بتطبيق خدمة العملاء
+iconUrl: /learn/achievements/route-distribute-work.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-customer-service
+- dynamics-365
+subjects:
+- customer-relationship-management
+units:
+- learn-dynamics.route-distribute-work.introduction
+- learn-dynamics.route-distribute-work.work-item-classification
+- learn-dynamics.route-distribute-work.routing-work
+- learn-dynamics.route-distribute-work.configure-queues
+- learn-dynamics.route-distribute-work.intelligent-routing
+- learn-dynamics.route-distribute-work.diagnostics
+- learn-dynamics.route-distribute-work.check
+- learn-dynamics.route-distribute-work.summary
+badge:
+  uid: learn-dynamics.route-distribute-work.badge

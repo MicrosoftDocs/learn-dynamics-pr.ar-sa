@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.unified-routing-distribute-work
+metadata:
+  title: توزيع العمل وتوجيهه في Dynamics 365 Customer Service
+  description: يصف مسار التعلم هذا كيفية توجيه العمل وتوزيعه باستخدام التوجيه الموحد في Dynamics 365 Customer Service.
+  ms.date: 06/27/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: 22a6a69a28c8341764ad70c7544ddec2fbb0564d
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9064318"
+title: توزيع العمل وتوجيهه في Dynamics 365 Customer Service
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  يصف مسار التعلم هذا كيفية توجيه العمل وتوزيعه في Dynamics 365 Customer Service باستخدام التوجيه الموحد.
+prerequisites: >
+  - المعرفة الأساسية بـ Dynamics 365 Customer Service
+
+  - الوصول إلى إصدار تجريبي أو إصدار مرخص من Dynamics 365
+iconUrl: /learn/achievements/unified-routing-distribute-work.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-customer-service
+subjects:
+- customer-relationship-management
+modules:
+- learn-dynamics.get-started-unified-routing
+- learn-dynamics.route-distribute-work
+- learn-dynamics.use-skill-based-routing
+- learn-dynamics.entity-record-routing
+trophy:
+  uid: learn-dynamics.unified-routing-distribute-work.trophy

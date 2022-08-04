@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.search-filter-knowledge-articles.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص البحث عن المقالات المعرفية وتصفيتها في Dynamics 365 Customer Service
+  ms.date: 06/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 53b4da5f36cf0a3ff295aad55e22222ee1fa1be5
+  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9090716"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

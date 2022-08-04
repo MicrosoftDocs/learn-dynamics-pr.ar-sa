@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.route-distribute-work.intelligent-routing
+title: الشروع في العمل باستخدام التوجيه الذكي
+metadata:
+  title: الشروع في العمل باستخدام التوجيه الذكي
+  description: تعرف على كيفية استخدام التنبؤ بالتوجه وتقدير الجهد لإنشاء قواعد التصنيف.
+  ms.date: 06/16/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f1338ccf6939c633cb38e5ec4f2ff667b95f900d
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063692"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/intelligent-routing.md)]

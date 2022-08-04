@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-unified-routing.basic-routing
+title: توجيه الحالات باستخدام مجموعات قواعد التحويل الأساسية
+metadata:
+  title: توجيه الحالات باستخدام مجموعات قواعد التحويل الأساسية
+  description: اكتشف كيفية توجيه الحالات باستخدام مجموعات قواعد التحويل الأساسية.
+  ms.date: 06/15/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a93ba6cd010818dc6a74f98c2d0733d36d01671e
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063706"
+durationInMinutes: 11
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/basic-routing.md)]"

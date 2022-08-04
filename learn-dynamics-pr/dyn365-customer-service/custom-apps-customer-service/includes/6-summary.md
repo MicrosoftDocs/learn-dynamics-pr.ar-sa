@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1aad7cdf32866cd2b1e457e9feab96879b26667a
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: c97cc8d96598ed15561ef91aec49f2c42c1a3e0e
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548454"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9062894"
 ---
 من حين لآخر، قد تحدث بعض المواقف حيث لا يمكن استيفاء المتطلبات بشكل فوري باستخدام Dynamics 365 Customer Service. وتتيح لك Microsoft Power Platform استيفاء العديد من الفجوات في المتطلبات بمجهود أقل ودون الحاجة إلى مهارات الترميز.
 
@@ -24,6 +24,6 @@ ms.locfileid: "8548454"
 
 - [الشروع في العمل باستخدام تطبيقات تستند إلى النموذج في Power Apps](/learn/modules/get-started-with-model-driven-apps-in-powerapps/?azure-portal=true)
 
-- [تضمين تطبيق اللوحة في نموذج يستند إلى نموذج](/power-apps/maker/model-driven-apps/embed-canvas-app-in-form?azure-portal=true)
+- [تضمين تطبيق اللوحة في نموذج يستند إلى نموذج](/power-apps/maker/model-driven-apps/embed-canvas-app-in-form/?azure-portal=true)
 
 - [مقدمة إلى مداخل Power Apps](/learn/modules/intro-portals/?azure-portal=true)

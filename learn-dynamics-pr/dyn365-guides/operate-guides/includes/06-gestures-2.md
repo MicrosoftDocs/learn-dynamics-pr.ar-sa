@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2e1a5c03d85dcf053882e01026212c08c3231a96627c0219dd9e546b977c2c5c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c703cf37a7a42eba0ccd5f3a11288d29ce6f0b6a
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7586990"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063220"
 ---
 للتنقل عبر دليل كمشغل في Dynamics 365 Guides، يمكنك استخدام نظرك وبعض الإيماءات في HoloLens 2.
 
@@ -52,4 +52,4 @@ ms.locfileid: "7586990"
 يحتوي HoloLens على مستشعرات يمكنها رؤية بضعة أقدام على كل جانب من جوانبك. عندما تستخدم الإيماءات، يجب عليك الاحتفاظ بها داخل هذا الإطار. بخلاف ذلك، لن يتمكن HoloLens من مشاهدتها. أثناء تنقلك، يتحرك الإطار معك. عندما تكون يدك داخل الإطار، يبدو المؤشر وكأنه حلقة. إذا تعذر على HoloLens رؤية يدك، يتحول المؤشر إلى نقطة.
 
 ### <a name="need-a-tutorial-on-gestures"></a>هل تحتاج إلى برنامج تعليمي بشأن الإيماءات؟
-للحصول على برنامج تعليمي حول بعض الإيماءات الأساسية، استخدم إيماءة الزهرة للانتقال إلى **بدء**، ثم حدد **تعلم الإيماءات**. إذا كنت تواجه مشكلة في الإيماءات، فراجع [الأسئلة المتداولة حول أجهزة HoloLens والصور المجسمة](https://support.microsoft.com/help/13456/hololens-and-holograms-faq/?azure-portal=true).
+للحصول على برنامج تعليمي حول بعض الإيماءات الأساسية، استخدم إيماءة الزهرة للانتقال إلى **بدء**، ثم حدد **تعلم الإيماءات**. إذا كنت تواجه مشكلة في الإيماءات، فراجع [الأسئلة المتداولة حول أجهزة HoloLens والصور المجسمة](/hololens/hololens-faq/?azure-portal=true).

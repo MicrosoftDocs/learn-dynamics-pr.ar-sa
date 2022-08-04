@@ -4,15 +4,15 @@ title: تسجيل نقاط العملاء المتوقعين وتأهيلهم
 metadata:
   title: تسجيل نقاط العملاء المتوقعين وتأهيلهم
   description: تعرّف على تسجيل نقاط العملاء المتوقعين وتأهيلهم.
-  ms.date: 03/24/2021
+  ms.date: 06/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7611098afd135e2f885392274e341271d8144257
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a6c574cfb3dcc522b340c084d96b3cfff472164c
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435320"
-durationInMinutes: 15
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092792"
+durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-qualify.md)]"

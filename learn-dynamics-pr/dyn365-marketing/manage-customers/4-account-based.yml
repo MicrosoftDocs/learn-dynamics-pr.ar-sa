@@ -4,15 +4,15 @@ title: التسويق القائم على الحسابات
 metadata:
   title: التسويق القائم على الحسابات
   description: تعرّف على التسويق القائم على الحساب.
-  ms.date: 03/24/2021
+  ms.date: 06/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a9793b30c048a36ea432379f3be77f02049d964d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b4a3bde34f267ea5464f50637bb875122fa1cfa8
+  ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435445"
-durationInMinutes: 7
+  ms.lasthandoff: 06/30/2022
+  ms.locfileid: "9092712"
+durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-account-based.md)]"

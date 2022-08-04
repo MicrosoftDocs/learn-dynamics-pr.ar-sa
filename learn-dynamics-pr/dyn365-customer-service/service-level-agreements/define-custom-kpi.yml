@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.service-level-agreements.define-custom-kpi
+title: تحديد مؤشرات الأداء الأساسية (KPI) المخصّصة.
+metadata:
+  title: تحديد مؤشرات الأداء الأساسية (KPI) المخصّصة.
+  description: تعرف على كيفية تحديد مؤشرات الأداء الأساسية لأي جدول تقوم بتمكينه لاتفاقيات مستوى الخدمة.
+  ms.date: 06/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 660ea9ecdeaa421432ee9551c700d345e5bcd836
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063729"
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/define-custom-kpi.md)]

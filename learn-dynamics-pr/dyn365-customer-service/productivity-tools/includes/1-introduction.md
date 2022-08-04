@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a1f7353a4c88459333206d4e3f1f978cab6f94da
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e02e8f15d68741288e645190792d21473bcc108d
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7335273"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9063043"
 ---
 في صناعة خدمة العملاء اليوم، يزداد الطلب على المندوبين باستمرار. يتوقع من المندوبين معالجة حجم أكبر من مشكلات العملاء وحلها بشكل أسرع والحفاظ على رضا العملاء العالي. وبالإضافة إلى ذلك، يحتاج المندوبون إلى تحقيق هذه الأهداف مع الالتزام بمعايير عملية مؤسستهم.
 
@@ -42,7 +42,7 @@ ms.locfileid: "7335273"
 
 ## <a name="set-up-dynamics-365-productivity-tools"></a>إعداد أدوات إنتاجية Dynamics 365
 
-إذا كانت مؤسستك تقوم بإنشاء القناة متعددة الاتجاهات لـ Customer Service بعد أبريل 2020، فسيتم تثبيت أدوات إنتاجية Dynamics 365 بالفعل في بيئتك افتراضياً. إذا قمت بتكوين البيئة قبل أبريل 2020، لم يتم تثبيت أدوات الإنتاجية بشكل افتراضي. في هذه الحالة، يمكنك تثبيتها يدوياً من [Microsoft AppSource](https://appsource.microsoft.com/product/dynamics-crm/mscrm.d365_productivity_tools-preview?flightCodes=d365productivitytoolspreview/?azure-portal=true). عندما تكون في Microsoft AppSource، ستظهر صفحة **أدوات إنتاجية Dynamics 365**. حدد الزر **الحصول عليها الآن**.
+إذا كانت مؤسستك تقوم بإنشاء القناة متعددة الاتجاهات لـ Customer Service بعد أبريل 2020، فسيتم تثبيت أدوات إنتاجية Dynamics 365 بالفعل في بيئتك افتراضياً. إذا قمت بتكوين البيئة قبل أبريل 2020، لم يتم تثبيت أدوات الإنتاجية بشكل افتراضي. في هذه الحالة، يمكنك تثبيتها يدوياً من [Microsoft AppSource](https://appsource.microsoft.com/product/dynamics-365/mscrm.d365_productivity_tools?tab=Overview/?azure-portal=true). عندما تكون في Microsoft AppSource، ستظهر صفحة **أدوات إنتاجية Dynamics 365**. حدد الزر **الحصول عليها الآن**.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لزر الحصول عليها الآن في صفحة أدوات إنتاجية Dynamics 365.](../media/1-3.png)](../media/1-3.png#lightbox)

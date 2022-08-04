@@ -1,0 +1,55 @@
+### YamlMime:Module
+uid: learn-dynamics.extend-apis-project-operations
+metadata:
+  title: توسيع واجهات API باستخدام Dynamics 365 Project Operations
+  description: تم تصميم مواد التدريب على المستوى المتوسط لاستكشاف وظائف وحالات استخدام واجهات API مع Dynamics 365 Project Operations.
+  ms.date: 06/20/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 82b820c934e0636d12eaddcdfec4efff811a08aa
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9047199"
+title: توسيع واجهات API باستخدام Dynamics 365 Project Operations
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يتضمن Dynamics 365 Project Operations واجهات API القياسية التي يمكنك استخدامها لتوسيع إمكاناتها القياسية. يمكنك تطبيق واجهات برمجة التطبيقات (API) هذه على حالات استخدام مختلفة، مثل ترحيل البيانات، وتكامل الأنظمة، وقابلية التوسع داخل التطبيق، من أجل التنفيذ التلقائي لعملية الأعمال المتعلقة بإنشاء وصيانة كيانات الجدولة (بمعنى آخر، المشاريع والبيانات ذات الصلة).
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - التعرف على معايير أداء واجهات برمجة تطبيقات (API) جدول المشروع وأفضل الممارسات لتحسين الاستخدام.
+
+  - التعرف على واجهات برمجة التطبيقات (API) الخاصة بجدول المشروع وكيفية استخدامها لأداء العمليات باستخدام كيانات الجدولة.
+
+  - التعرف على المزيد حول "نسخ واجهة برمجة تطبيقات المشروع" وكيفية استخدامها.
+prerequisites: >
+  لكي تنجح في هذه الوحدة، فإنك تحتاج إلى:
+
+  - المعرفة الأساسية بـ Dynamics 365 Project Operations
+
+  - المعرفة الأساسية بنظام Microsoft Dataverse الأساسي
+
+  - فهم #C وSDK
+iconUrl: /learn/achievements/extend-apis-project-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+- administrator
+products:
+- dynamics-project-operations
+- dynamics-365
+subjects:
+- process-workflow
+units:
+- learn-dynamics.extend-apis-project-operations.introduction
+- learn-dynamics.extend-apis-project-operations.perform-operations
+- learn-dynamics.extend-apis-project-operations.develop-templates
+- learn-dynamics.extend-apis-project-operations.check
+- learn-dynamics.extend-apis-project-operations.summary
+badge:
+  uid: learn-dynamics.extend-apis-project-operations.badge

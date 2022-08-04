@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c75aae3da64831d80e6d0c2a1e80076871df489e2070763a7e836ac17cd31438
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5af9f556bacb1425850d8adc289f7c9537b715a6
+ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7100820"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9062994"
 ---
 يقدم الفيديو التالي نظرة عامة على خيارات تصدير البيانات.
 
@@ -64,7 +64,7 @@ ms.locfileid: "7100820"
 
 ### <a name="installation-and-configuration"></a>التثبيت والتكوين 
 
-يتم تثبيت خدمة تصدير البيانات بواسطة مسؤول النظام عبر [AppSource](https://appsource.microsoft.com/product/dynamics-365/mscrm.44f192ec-e387-436c-886c-879923d8a448). بعد تثبيت خدمة تصدير البيانات، يتم إنشاء ملف تعريف تصدير واحد أو أكثر، يحدد كل منها مجموعة من الكيانات لنسخ البيانات من Dynamics 365 إلى قاعدة البيانات الوجهة.
+يتم تثبيت خدمة تصدير البيانات بواسطة مسؤول النظام عبر [AppSource](https://appsource.microsoft.com/en-US/marketplace/apps?search=Dynamics%20365&page=1). بعد تثبيت خدمة تصدير البيانات، يتم إنشاء ملف تعريف تصدير واحد أو أكثر، يحدد كل منها مجموعة من الكيانات لنسخ البيانات من Dynamics 365 إلى قاعدة البيانات الوجهة.
 
 تقوم ملفات تعريف التصدير بتكوين الكيانات والعلاقات لمزامنة البيانات مع قاعدة البيانات الوجهة. ويتم إنشاء المخطط الوجهة وتحديثه تلقائياً استناداً إلى تعريف الكيان والعلاقة. 
 
@@ -86,9 +86,9 @@ ms.locfileid: "7100820"
 
 تعد مساحة التخزين غير الكافية لقاعدة البيانات وانتهاء المُهلات لقاعدة بيانات Azure SQL أكثر الأسباب شيوعاً لفشل المزامنة، وهذا غالباً بسبب عدم كفاية خطة قاعدة بيانات Azure SQL. قد يلزمك التعاون مع مسؤول خدمات Azure لحل مشكلات القدرة الإنتاجية غير الكافية.
 
-### <a name="configuration-migration-tool"></a>أداة ترحيل التكوين
+### <a name="configuration-migration-tool"></a>Configuration Migration tool
 
-يتم تنزيل أداة ترحيل التكوين من [Nuget](https://xrm.tools). توفر هذه الأداة الميزات التالية:
+يتم تنزيل Configuration Migration tool من [Nuget](https://xrm.tools). توفر هذه الأداة الميزات التالية:
 
 - تمكينك من تحديد الكيانات والحقول. 
 - المساعدة في تجنب السجلات المكررة.
@@ -100,6 +100,6 @@ ms.locfileid: "7100820"
 - ضبط حقول **الوقت والتاريخ** تلقائياً.
 - التضمين كجزء من توزيع **Package Deployer**.
 
-دعنا نلقي نظرة على أداة ترحيل التكوين أثناء عملها.
+دعنا نلقي نظرة على Configuration Migration tool أثناء عملها.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWrznF]

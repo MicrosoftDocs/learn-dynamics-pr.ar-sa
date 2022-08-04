@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-skill-based-routing.intelligent-skill-finder
+title: إنشاء نماذج الباحث عن المهارات الذكية
+metadata:
+  title: إنشاء نماذج الباحث عن المهارات الذكية
+  description: تعرف على كيفية إنشاء نماذج الباحث عن المهارات الذكية.
+  ms.date: 06/17/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 036ff1eafb00ce4dd6b18eee4c729e08e4bac23d
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063722"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/intelligent-skill-finder.md)]"

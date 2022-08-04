@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-unified-routing.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص التوجيه الموحد لتطبيق Dynamics 365 Customer Service
+  ms.date: 06/15/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2f744fe32388e10d254bc73d250227e4a3494f61
+  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9090726"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

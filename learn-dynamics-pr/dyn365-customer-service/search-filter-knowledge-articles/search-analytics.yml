@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.search-filter-knowledge-articles.search-analytics
+title: تحليلات المقالات المعرفية
+metadata:
+  title: تحليلات المقالات المعرفية
+  description: تعرف على تحليلات المقالات المعرفية.
+  ms.date: 06/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8a7680147ad31360cfc409ae9c9a33cb6431d56b
+  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 06/29/2022
+  ms.locfileid: "9063712"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/search-analytics.md)]"

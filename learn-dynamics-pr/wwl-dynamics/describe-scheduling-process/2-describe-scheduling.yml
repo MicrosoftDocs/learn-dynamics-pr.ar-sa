@@ -4,17 +4,17 @@ title: وصف الجدولة
 metadata:
   title: وصف الجدولة
   description: وصف الجدولة
-  ms.date: 05/26/2022
+  ms.date: 06/22/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 41bf4057cd81e98f24dc5c41a519dda5853970fa
-  ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
+  ms.openlocfilehash: c94d4dc5a2ce4995dabd6bd2215bfc995f8e5c3a
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/26/2022
-  ms.locfileid: "8808013"
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9046640"
 azureSandbox: false
 labModal: false
 durationInMinutes: 4

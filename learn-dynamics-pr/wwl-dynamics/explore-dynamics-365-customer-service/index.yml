@@ -3,17 +3,17 @@ uid: learn.wwl.explore-dynamics-365-customer-service
 metadata:
   title: استكشاف Dynamics 365 Customer Service
   description: استكشاف Dynamics 365 Customer Service
-  ms.date: 06/09/2022
+  ms.date: 06/21/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: b42c2bf46109a02b6020785e7389edd5fa406390
-  ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
+  ms.openlocfilehash: 9fc76926d5984a34bc45b75feda62a15c4dd5f15
+  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/10/2022
-  ms.locfileid: "8948679"
+  ms.lasthandoff: 06/24/2022
+  ms.locfileid: "9046926"
 title: استكشاف Dynamics 365 Customer Service
 summary: تقدم هذه الوحدة النمطية للمتعلمين Dynamics 365 Customer Service، مع التركيز على العناصر الأساسية مثل الحالات ودورة حياة الحالة وصفوف الانتظار واتفاقيات مستوى الخدمة (SLA)
 abstract: >
@@ -27,7 +27,7 @@ abstract: >
 
   - وصف اتفاقيات مستوى الخدمة (SLA) والاستحقاقات
 prerequisites: >
-  بلا
+  لا شيء
 iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
