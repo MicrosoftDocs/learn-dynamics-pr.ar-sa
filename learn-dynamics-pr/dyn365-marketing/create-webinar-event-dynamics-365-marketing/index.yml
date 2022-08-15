@@ -34,7 +34,7 @@ units:
 - learn-dynamics.create-webinar-event-dynamics-365-marketing.3-create
 - learn-dynamics.create-webinar-event-dynamics-365-marketing.3a-create-teams
 - learn-dynamics.create-webinar-event-dynamics-365-marketing.4-connect
-- learn-dynamics.create-webinar-event-dynamics-365-marketing.4a-calendar
+#- learn-dynamics.create-webinar-event-dynamics-365-marketing.4a-calendar
 - learn-dynamics.create-webinar-event-dynamics-365-marketing.5-check
 - learn-dynamics.create-webinar-event-dynamics-365-marketing.6-summary
 badge:
