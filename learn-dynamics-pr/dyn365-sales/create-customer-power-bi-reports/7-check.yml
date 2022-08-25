@@ -3,33 +3,22 @@ uid: learn-dynamics.create-customer-power-bi-reports.7-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 08/03/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: f9cfa5ef6569f43841d90f02e96058deab3a5bc3
-  ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+  ms.openlocfilehash: 790d77870c51c33ea381720ce46112d961a45284
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "7436312"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9224552"
 durationInMinutes: 5
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: سمع مدير خدمة العملاء أن تطبيق Microsoft Power BI متوفر يعرض البيانات من ردود الاستطلاع Dynamics 365 Customer Voice. يمتلك المدير حق الوصول إلى Power BI ولكنه غير متأكد من كيفية الوصول إلى التطبيق. ما هي الخطوات التي يجب على المدير اتخاذها للوصول؟
-    choices:
-    - content: افتح Power BI Desktopثم ابحث عن Dynamics 365 Customer Voice تطبيق رضا العملاء في قسم المرئيات.
-      isCorrect: false
-      explanation: تتضمن المرئيات لـ Power BI المخططات والبطاقات والخرائط وما إلى ذلك. أنها لا تشمل التطبيقات.
-    - content: سجّل الدخول إلى Power BI، وحدد الحصول على البيانات، وابحث عن Dynamics 365 Customer Voice تطبيق رضا العملاء في AppSource، ثم حدد الحصول عليه الآن لتثبيت التطبيق.
-      isCorrect: true
-      explanation: يتم تخزين تطبيق رضا العملاء Dynamics 365 Customer Voice وتثبيته من Microsoft AppSource.
-    - content: سجّل الدخول إلى Dynamics 365 Customer Voice، ونزل Dynamics 365 Customer Voice تطبيق رضا العملاء، ثم استورد التطبيق إلى Power BI Desktop.
-      isCorrect: false
-      explanation: على الرغم من أن Dynamics 365 Customer Voice تستخدم مرئيات Power BI لإظهار تحليلات استجابة الاستطلاع، لا يتم تخزين تطبيق رضا العملاء في تلك المساحة.
   - content: طُلب من كاتب التقرير إنشاء تقرير Power BIباستخدام سجلات من مثيل Dynamics 365 Customer Voice. بعد تنزيل Power BI Desktop وتثبيته، يحتاجون إلى الحصول على البيانات الصحيحة. ما هي فئة اتصال البيانات التي يجب أن يبدأوا بها؟
     choices:
     - content: قاعدة البيانات

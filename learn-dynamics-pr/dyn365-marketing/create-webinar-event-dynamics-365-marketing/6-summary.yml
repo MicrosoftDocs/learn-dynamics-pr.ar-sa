@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص إنشاء حدث ندوة الإنترنت.
-  ms.date: 05/14/2021
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ac8e3503396c74c90952d75af31c7cf32df7959a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a9c95681959eb15ba8e7ed36c31deb007283fb04
+  ms.sourcegitcommit: f87c83829cf35c570193747a73a4172bcce5a6f0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435362"
-durationInMinutes: 3
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9126081"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

@@ -4,16 +4,16 @@ title: تسويات بنكية
 metadata:
   title: تسويات بنكية
   description: تصف هذه الوحدة التسويات البنكية في Dynamics 365 Finance.
-  ms.date: 04/25/2022
+  ms.date: 07/19/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aba86b47fd669449b3008edd7a842ae84de1fd21
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 5a51e58656823d905fe582ad05e445277fc02e5d
+  ms.sourcegitcommit: 51b5831dce806301f20590475f94c3b5fd75c070
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632785"
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179482"
 durationInMinutes: 18
 content: >-
   [!include[](../includes/unit-banner.md)]

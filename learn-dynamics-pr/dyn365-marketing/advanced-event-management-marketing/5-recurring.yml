@@ -4,15 +4,15 @@ title: إنشاء الأحداث المتكررة وإدارتها
 metadata:
   title: إنشاء الأحداث المتكررة وإدارتها
   description: نظرة عامة على إنشاء الاحداث المتكررة وإدارتها.
-  ms.date: 04/26/2021
+  ms.date: 07/07/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 54a6bd8191eaa71fdd27a3f4ff574a0f8f6bad1d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b854a2fcf5a2253b525fd323424197c994574c3f
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435367"
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127510"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-recurring.md)]"

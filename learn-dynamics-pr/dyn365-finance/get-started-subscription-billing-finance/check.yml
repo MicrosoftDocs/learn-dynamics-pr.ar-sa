@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-subscription-billing-finance.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/14/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9c36eec65a268e1356a970a70cf07700bc99d244
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179014"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: لإنهاء جدول الفوترة أو بند جدول الفوترة، ما الذي يجب أن تكون عليه حالة جدول الفوترة أو بند الفوترة؟
+    choices:
+    - content: انتظار
+      isCorrect: false
+      explanation: ‏‫غير صحيح. تعني حالة الانتظار أن جدول الفواتير أو بند جدول الفوترة متوقف بشكل مؤقت حالياً.
+    - content: نشط
+      isCorrect: true
+      explanation: صحيح. لإجراء إنهاء، يجب أن يكون لديك جدول فوترة أو بند جدول فوترة يعمل بشكل نشط.
+    - content: لا يهم
+      isCorrect: false
+      explanation: ‏‫غير صحيح. يجب أن يكون لديك حالة جدولة الفوترة الخاصة بك حتى تعمل.
+    - content: معلق
+      isCorrect: false
+      explanation: ‏‫غير صحيح. معلق يعني أنه تم إرسال الطلب ولكن لم يتم اتخاذ أي إجراء.
+  - content: أين يمكنك إنشاء جدول فوترة جديد؟
+    choices:
+    - content: تأجيلات الإيرادات والمصروفات
+      isCorrect: false
+      explanation: ‏‫غير صحيح. تسمح لك عمليات تأجيل الإيرادات والمصروفات بإلغاء العمليات اليدوية والاعتماد على الأنظمة الخارجية.
+    - content: تخصيص الإيرادات متعددة العناصر
+      isCorrect: false
+      explanation: ‏‫غير صحيح. يتيح لك تخصيص الإيرادات متعدد العناصر التعامل مع التسعير وتخصيص الإيرادات عبر عناصر متعددة.
+    - content: فوترة العقود المتكررة
+      isCorrect: true
+      explanation: صحيح. تتيح لك فوترة العقود المتكررة تمكين الفوترة المتكررة وإدارة الأسعار.
+  - content: لإنشاء جدول فوترة ينفذ وظيفة الحدث الرئيسي، ستحتاج إلى استخدام أي من الجداول التالية؟
+    choices:
+    - content: جداول الفوترة النشطة
+      isCorrect: true
+      explanation: صحيح. لتنفيذ أي نوع من الوظائف في جدول الفوترة، يجب أن تكون وظيفة يتم استخدامها بشكل فعّال.
+    - content: كل جداول الفوترة
+      isCorrect: false
+      explanation: ‏‫غير صحيح. ستتضمن جميع جداول الفوترة الأشخاص المعلقين والذين تم إنهاؤهم والنشطين.
+    - content: جداول الفوترة المنتهية
+      isCorrect: false
+      explanation: ‏‫غير صحيح. في حالة إنهاء جدول الفوترة، فإنه لم يعد هناك جدول فوترة تم إنشاؤه.
+    - content: جداول الفوترة المتوقفة مؤقتاً
+      isCorrect: false
+      explanation: ‏‫غير صحيح. إذا تم إيقاف جدول الفوترة مؤقتاً، فلن يتم استخدامه بشكل نشط ولن تحتاج إلى تنفيذ الوظائف فيه.

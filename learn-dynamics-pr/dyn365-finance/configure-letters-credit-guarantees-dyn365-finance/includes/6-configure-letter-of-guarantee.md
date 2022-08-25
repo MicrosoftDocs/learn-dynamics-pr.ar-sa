@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: db83b0dba236ad24a113ba589611dd83574d85b20bee044b7956cc5f72ee3ccb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: bba7c7a813f13f5a05f3990c3209aec9f0905c03
+ms.sourcegitcommit: a7ced0232c9d4964f59e42d376a5d13ec909f7d5
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7093513"
+ms.lasthandoff: 07/11/2022
+ms.locfileid: "9135232"
 ---
-يجب تنشيط خطاب الضمان كمستند بنكي قبل التمكن من البدء في الحركات التي تشتمل على خطابات اعتماد.
+يجب عليك تفعيل خطاب الضمان كمستند مصرفي قبل أن تتمكن من بدء الحركات التي تتضمن خطابات ضمان.
 
 1.  انتقل إلى **‏‫إدارة النقد والبنوك‬ > الإعداد > معلمات إدارة البنك والنقد**.
 2.  قم بتوسيع علامة التبويب السريعة **المستند البنكي**.

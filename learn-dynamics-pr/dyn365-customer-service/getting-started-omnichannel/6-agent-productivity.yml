@@ -4,15 +4,15 @@ title: المساعدة على تعزيز إنتاجية المندوب
 metadata:
   title: المساعدة على تعزيز إنتاجية المندوب
   description: تعرف على كيفية المساعدة على تعزيز إنتاجية المندوب.
-  ms.date: 12/31/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/03/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5999517e6a5135e2d855ebbacbd2d64d9ee4841b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 12f881a369252059c09475f1fb78b9ae6839e8d0
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365980"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9225653"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-agent-productivity.md)]"

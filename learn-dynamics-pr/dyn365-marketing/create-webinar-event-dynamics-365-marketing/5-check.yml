@@ -3,22 +3,22 @@ uid: learn-dynamics.create-webinar-event-dynamics-365-marketing.5-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 05/14/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 029dec12b48149ca7855b2b23a85148df8ca6a47
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0cd1965f1676a3c91eeecba88965c8fb370b41a1
+  ms.sourcegitcommit: f87c83829cf35c570193747a73a4172bcce5a6f0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435525"
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9126102"
 durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: أي مما يلي ليس خيارًا متاحًا لبث الندوة عبر الويب في Dynamics 365 Marketing؟
+  - content: أي مما يلي ليس خياراً متاحاً لبث الندوة عبر الويب في Dynamics 365 Marketing؟
     choices:
     - content: اجتماعات Teams
       isCorrect: false
@@ -26,12 +26,12 @@ quiz:
     - content: أحداث Teams المباشرة
       isCorrect: false
       explanation: أحداث Teams المباشرة متوفرة.
-    - content: غير ذلك
+    - content: أخرى
       isCorrect: false
       explanation: غير ذلك هو خيار جاهز لبث الندوة عبر الإنترنت مباشرة.
     - content: اجتماعات Zoom
       isCorrect: true
-      explanation: اجتماعات Zoom ليس خيارًا متوفرًا.
+      explanation: اجتماعات Zoom ليس خياراً متوفراً.
   - content: عند إعداد حدث، ما الذي يدل على أنه سيكون ندوة عبر الإنترنت؟
     choices:
     - content: تم تعيين تكوين ندوة الإنترنت على أنها حدث عبر الإنترنت.

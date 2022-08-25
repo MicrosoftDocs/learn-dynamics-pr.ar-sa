@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-subscription-billing-finance.enable-subscription-billing
+title: تمكين فوترة الاشتراك
+metadata:
+  title: تمكين فوترة الاشتراك
+  description: تعرف على كيفية تمكين فوترة الاشتراك.
+  ms.date: 07/14/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 132e16ac7e2767570721e61be1eedc9e361c6665
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179018"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/enable-subscription-billing.md)]"

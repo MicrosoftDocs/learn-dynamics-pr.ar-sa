@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.omnichannel-chat.4-survey
-title: استخدام استطلاعات ما قبل المحادثة
+title: العمل مع استطلاعات ما قبل المحادثة وما بعد المحادثة
 metadata:
-  title: استخدام استطلاعات ما قبل المحادثة
-  description: تعرف على كيفية العمل مع استطلاعات ما قبل المحادثة.
-  ms.date: 09/21/2021
+  title: العمل مع استطلاعات ما قبل المحادثة وما بعد المحادثة
+  description: تعرف على كيفية العمل مع استطلاعات ما قبل المحادثة وما بعد المحادثة.
+  ms.date: 07/25/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9eec3ec3332600b00a1ec8fe03c1768815bfd73e
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: f30276af51989022c739054ba989a4fd0f001ab5
+  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7515145"
+  ms.lasthandoff: 08/03/2022
+  ms.locfileid: "9223099"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-survey.md)]"

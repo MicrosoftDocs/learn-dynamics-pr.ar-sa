@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.get-started-advanced-configuration.2-overview-settings
-title: إعدادات قسم نظرة عامة
+title: نظرة عامة
 metadata:
-  title: إعدادات قسم نظرة عامة
+  title: نظرة عامة
   description: تكوين الإعدادات في قسم "نظرة عامة".
-  ms.date: 04/12/2021
+  ms.date: 07/26/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: efb462368bb2a60daffea38c93c564f144a78970
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 751c331034b70cd0637719074cf54325cca6f9be
+  ms.sourcegitcommit: f51d71bff43719bbbb8675596717d5d472dff9bd
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435497"
-durationInMinutes: 4
+  ms.lasthandoff: 07/28/2022
+  ms.locfileid: "9204041"
+durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]
 

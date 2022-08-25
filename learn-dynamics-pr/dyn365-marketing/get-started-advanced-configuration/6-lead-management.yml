@@ -4,17 +4,17 @@ title: إدارة العملاء المتوقعين
 metadata:
   title: إدارة العملاء المتوقعين
   description: تعرّف على الإعدادات في قسم إدارة العملاء المتوقعين.
-  ms.date: 04/12/2021
+  ms.date: 07/26/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f1b0cf33ed12655471cfd3862243f68e796721ee
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5e6d669c67ec5e9326845ee21d34a947a8fffbf7
+  ms.sourcegitcommit: f51d71bff43719bbbb8675596717d5d472dff9bd
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435361"
-durationInMinutes: 10
+  ms.lasthandoff: 07/28/2022
+  ms.locfileid: "9203981"
+durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]
 

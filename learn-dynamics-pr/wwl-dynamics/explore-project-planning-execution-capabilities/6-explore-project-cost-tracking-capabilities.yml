@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.explore-project-planning-execution-capabilities.explore-project-cost-tracking-capabilities
-title: 'استكشاف العرض التوضيحي لقدرات تعقب تكلفة المشروع: استكشاف طريقة عرض تعقب التكلفة'
+title: استكشاف إمكانات تتبع تكلفة المشروع
 metadata:
-  title: 'استكشاف العرض التوضيحي لقدرات تعقب تكلفة المشروع: استكشاف طريقة عرض تعقب التكلفة'
-  description: 'استكشاف العرض التوضيحي لقدرات تعقب تكلفة المشروع: استكشاف طريقة عرض تعقب التكلفة'
-  ms.date: 06/16/2022
+  title: استكشاف إمكانات تتبع تكلفة المشروع
+  description: استكشاف إمكانات تتبع تكلفة المشروع
+  ms.date: 08/02/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 642613066c2f02c65304a7314355aae5b1ca95ac
-  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.openlocfilehash: ee9627830ba0925a2c8860910521afd120c0db49
+  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/16/2022
-  ms.locfileid: "9021710"
+  ms.lasthandoff: 08/03/2022
+  ms.locfileid: "9223548"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 16beb74adc2045e3102b71f8d01e11c1ebd81818
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 555b4a6ae024cef5fc0471cc995f71602cbb18d3
+ms.sourcegitcommit: 6b7bb919150719d7f2b88c34b66a535036d417d3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361381"
+ms.lasthandoff: 07/25/2022
+ms.locfileid: "9189092"
 ---
 بعد دورة حياة عرض الأسعار، عندما يكون العميل جاهزاً للتقدم، فمن المحتمل أنه سيقدم أمراً. الأمر هو التزام من العميل بشراء المنتجات أو الخدمات. سيتم إنشاء معظم الأوامر كنتيجة مباشرة لعرض أسعار مقبول، ومع ذلك، هناك أوقات قد يلزم فيها إنشاء أمر غير مرتبط بعرض أسعار. 
 

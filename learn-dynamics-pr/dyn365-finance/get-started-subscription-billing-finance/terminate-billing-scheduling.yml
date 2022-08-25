@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-subscription-billing-finance.terminate-billing-scheduling
+title: إنهاء جداول الفوترة
+metadata:
+  title: إنهاء جداول الفوترة
+  description: تعرف عَلى كيفية إنهاء جدولة الفواتير.
+  ms.date: 07/14/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: dda766cd034d47d87eea8d1ee814bcbbc08b4853
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179007"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/terminate-billing-scheduling.md)]"

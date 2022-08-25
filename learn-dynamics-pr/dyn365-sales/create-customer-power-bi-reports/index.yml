@@ -3,21 +3,21 @@ uid: learn-dynamics.create-customer-power-bi-reports
 metadata:
   title: إنشاء تقارير Power BI للعميل في Dynamics 365 Customer Voice
   description: تعرف على كيفية إنشاء التقارير ولوحات المعلومات من بيانات Dynamics 365 Customer Voice الخاصة بك باستخدام Microsoft Power BI.
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/03/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: cc6592c4dbf148e48b8adea18bb76da532d975aa
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d758eed28a3d511da33fdaadb47de534223d07d3
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750063"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9225248"
 title: إنشاء تقارير Power BI للعميل في Dynamics 365 Customer Voice
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء التقارير ولوحات المعلومات من بيانات Dynamics 365 Customer Voice الخاصة بك باستخدام Microsoft Power BI.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- احصل على مقدمة أساسية لـ Power BI.\n- تعرف على كيفية استخدام قالب Power BI في Dynamics 365 Customer Voice.\n- تعرف على كيفية الاتصال ببيانات Dynamics 365 Customer Voice الخاصة بك من خلال Power BI.\n- أنشئ تقرير Power BI مخصصاً واحسب Net Promoter Score.\n"
-prerequisites: بلا
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- احصل على مقدمة أساسية لـ Power BI.\n- تعرف على كيفية استخدام قالب Power BI في Dynamics 365 Customer Voice.\n- تعرف على كيفية الاتصال ببيانات Dynamics 365 Customer Voice الخاصة بك من خلال Power BI.\n- أنشئ تقرير Power BI مخصصاً واحسب Net Promoter Score.\n"
+prerequisites: لا شيء
 iconUrl: /learn/achievements/create-customer-power-bi-reports.svg
 levels:
 - intermediate

@@ -4,17 +4,17 @@ title: استكشاف Dynamics 365 Fraud Protection
 metadata:
   title: استكشاف Dynamics 365 Fraud Protection
   description: استكشاف Dynamics 365 Fraud Protection
-  ms.date: 06/14/2022
+  ms.date: 07/13/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: d09197989cc071b48e02bf515d6bcd248b5a22c4
-  ms.sourcegitcommit: 6ff9cb62ba54399590302871628170367686827d
+  ms.openlocfilehash: eb8da607834376397b482c58a3e40e913b9ace13
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/14/2022
-  ms.locfileid: "9010612"
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147142"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

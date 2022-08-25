@@ -4,17 +4,17 @@ title: صف إمكانات إدارة الأصول في Dynamics 365 Field Servi
 metadata:
   title: صف إمكانات إدارة الأصول في Dynamics 365 Field Service
   description: صف إمكانات إدارة الأصول في Dynamics 365 Field Service
-  ms.date: 06/22/2022
+  ms.date: 07/19/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: bce8603c3731366d3d6c5df8acdacad7566c567e
-  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.openlocfilehash: 83dedff5830af8c2e498248f548c7a57c6399603
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/24/2022
-  ms.locfileid: "9046760"
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9178582"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2

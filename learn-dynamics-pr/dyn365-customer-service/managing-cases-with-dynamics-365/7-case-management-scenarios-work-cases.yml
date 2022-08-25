@@ -4,16 +4,16 @@ title: عمل إدارة الحالة مع سيناريوهات الحالات
 metadata:
   title: عمل إدارة الحالة مع سيناريوهات الحالات
   description: عمل إدارة الحالة مع سيناريوهات الحالات
-  ms.date: 09/03/2021
+  ms.date: 08/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: eee2f6051562eec95c5a06b26b75fda710b7ab4f
-  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
+  ms.openlocfilehash: c7a846ec93025a8c71fece8d41f6a65299c97552
+  ms.sourcegitcommit: 7301a88a9d669770be83ee33acd00b0025a7a728
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/07/2021
-  ms.locfileid: "7478589"
+  ms.lasthandoff: 08/06/2022
+  ms.locfileid: "9231391"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

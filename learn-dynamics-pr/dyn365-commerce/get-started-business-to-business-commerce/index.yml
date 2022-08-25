@@ -7,12 +7,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e0d6b3fb8ebf60888870892768feae8331b01de7
-  ms.sourcegitcommit: 5f8bd91bcb83b57e88d2b313c488cb7934fdfe77
+  ms.custom: intro-internal
+  ms.openlocfilehash: 4f1e40315e7ec29f7b368d46aba035a469b977a0
+  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/31/2022
-  ms.locfileid: "8815680"
+  ms.lasthandoff: 07/19/2022
+  ms.locfileid: "9174111"
 title: الشروع في العمل باستخدام التجارة الإلكترونية B2B في‬ Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة النمطية المفاهيم والمعلومات والعمليات الخاصة بموقع التجارة الإلكترونية الذي يتعلق بعمليات متاجرة عمل-عمل في Dynamics 365 Commerce. تقدم هذه الوحدة النمطية مفاهيم مهمة، مثل نظام إدارة المحتوى ومكتبة الوحدات. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة مفاهيم Dynamics 365 Commerce.\n-   اكتشاف مفاهيم Dynamics 365 Commerce ومفاهيم التجارة الإلكترونية ومتاجرة عمل-عمل.\n-   التعرف على مكتبة الوحدات.\n-   التعرف على نظام إدارة المحتوى.\n-   مراجعة إدارة الأصول الرقمية.\n"

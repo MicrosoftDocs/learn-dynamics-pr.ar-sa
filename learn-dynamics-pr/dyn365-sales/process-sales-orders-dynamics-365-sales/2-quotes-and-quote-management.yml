@@ -4,16 +4,16 @@ title: عروض الأسعار وإدارتها
 metadata:
   title: عروض الأسعار وإدارتها
   description: عروض الأسعار وإدارتها
-  ms.date: 09/16/2021
+  ms.date: 07/19/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a74d075518cfab1b962acbe6cdc3c88dd88baaca
-  ms.sourcegitcommit: 6402fa875c0008328cdc2ddd659a927dd0996f33
+  ms.openlocfilehash: b3024c73a4a767ad2e75916dde721f92bcceab7c
+  ms.sourcegitcommit: 51b5831dce806301f20590475f94c3b5fd75c070
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/20/2021
-  ms.locfileid: "7505743"
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179392"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

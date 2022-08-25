@@ -4,16 +4,16 @@ title: تصدير بيانات Customer Insights
 metadata:
   title: تصدير بيانات Customer Insights
   description: تعرف على كيفية تصدير بيانات Customer Insights.
-  ms.date: 05/31/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 07/26/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 336257422e4e7e2b08c578965b6cee60bbbd7ae4
-  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
+  ms.openlocfilehash: 3cd4860eac4fea474ce0bd5d637435327096e896
+  ms.sourcegitcommit: bf4797fc3a8b39430e1b6fddb7c06d5ab877a49a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/08/2022
-  ms.locfileid: "8944473"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9203371"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

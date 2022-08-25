@@ -7,15 +7,16 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fbb3410c992cdcf9206e31b873e00b65ccf57290
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.custom: intro-internal
+  ms.openlocfilehash: 44284fd8df2f7e76396d5cab0029c8972c5ac7b0
+  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748176"
+  ms.lasthandoff: 07/19/2022
+  ms.locfileid: "9174121"
 title: بدء استخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتوفر الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management البنية والنظام لعملية إدارة بيانات المنتج وتمكن من تحديد المنتجات وإصدارها ومراجعتها بطريقة خاضعة للرقابة تدعمها مهام سير العمل. تتيح إدارة التغيير الهندسي توثيق وتقييم تأثير وتطبيق التغييرات الهندسية طوال دورة حياة المنتج بالكامل.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تمكين الوظيفة الإضافية لإدارة التغيير الهندسي.\n- فهم الميزات في إدارة التغيير الهندسي.\n- تعرف على كيفية عمل عملية إدارة التغيير الهندسي من البداية حتى النهاية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تمكين الوظيفة الإضافية لإدارة التغيير الهندسي.\n- فهم الميزات في إدارة التغيير الهندسي.\n- تعرف على كيفية عمل عملية إدارة التغيير الهندسي من البداية حتى النهاية.\n"
 prerequisites: >
   - معرفة عمليات Supply Chain Management
 

@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 06/17/2022
+  ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: cfd8c42ca247623666449dd4aa884ef272c6cae3
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: f98ff0bf3d616cc0ac76dad7355ff48f06d59c27
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025476"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9224611"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2
@@ -49,10 +49,10 @@ quiz:
     choices:
     - content: Store Commerce لـ Windows.
       isCorrect: true
-      explanation: صحيح. يتم تثبيت تطبيق Store Commerce لنظام التشغيل Windows في جهاز نقطة البيع (POS) ويمكن تشغيله أيضًا في وضع عدم الاتصال.
+      explanation: صحيح. يتم تثبيت تطبيق Store Commerce لنظام التشغيل Windows في جهاز نقطة البيع (POS) ويمكن تشغيله أيضاً في وضع عدم الاتصال.
     - content: Store Commerce لـ iOS.
       isCorrect: false
-      explanation: غير صحيح.‬ تطبيق Store Commerce لنظام التشغيل iOS لا يدعم حاليًا وضع عدم الاتصال.
+      explanation: غير صحيح.‬ تطبيق Store Commerce لنظام التشغيل iOS لا يدعم حالياً وضع عدم الاتصال.
     - content: Store Commerce لـ Browsers.
       isCorrect: false
       explanation: غير صحيح.‬ يتم تثبيت Store Commerce لتطبيق Browser في سحابة Microsoft Azure. ولكي يعمل، يجب أن يكون لديك اتصال بالإنترنت.

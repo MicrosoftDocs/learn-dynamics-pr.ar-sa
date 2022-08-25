@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-business-partners-customers-commerce.manage-partners-websites
+title: إدارة شركاء الأعمال عَلى مواقع ويب B2B
+metadata:
+  title: إدارة شركاء الأعمال عَلى مواقع ويب B2B
+  description: تعلم كيفية إدارة شركاء الأعمال وإضافة العملاء كشركاء أعمال عَلى مواقع ويب B2B.
+  ms.date: 07/05/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8aff8f2b52c41035bb7978c53c53beead1d96d0a
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127625"
+durationInMinutes: 4
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/manage-partners-websites.md)]

@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.extend-project-operations
+metadata:
+  title: توسيع Dynamics 365 Project Operations
+  description: يساعدك مسار التعليم هذا في نشر وتوسيع القدرات القياسية لواجهات برمجة التطبيقات وإمكانيات توفير موارد المشروع في Universal Resource Scheduling.
+  ms.date: 07/5/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: ba32fc0cde96e612389638eb2543024d3f5c413a
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9178622"
+title: توسيع Dynamics 365 Project Operations
+summary: "[!include[](../../includes/lp-banner.md)]\n\nيساعدك مسار التعليم هذا في نشر الإمكانات القياسية لواجهات برمجة التطبيقات وإمكانيات توفير موارد المشروع وتحسينها وتوسيعها في Universal Resource Scheduling. يمكنك تطبيق واجهات برمجة التطبيقات هذه على حالات استخدام مختلفة لتنفيذ إجراءات الأعمال تلقائياً التي تتعلق بإنشاء كيانات الجدولة وصيانتها. بالإضافة إلى ذلك، توفر لوحة الجدولة نظرة عامة على توفر الموارد لحجز الموارد والتعيينات. \n"
+prerequisites: "- المعرفة بـ Dynamics 365 Project Operations\n- معرفة النظام الأساسي لـ Microsoft Dataverse\n- فهم #C وSDK\n- معرفة لغات HTML وCSS \n"
+iconUrl: /learn/achievements/extend-project-operations.svg
+levels:
+- intermediate
+roles:
+- developer
+- administrator
+products:
+- dynamics-365
+- dynamics-project-operations
+subjects:
+- process-workflow
+- development-tools
+- data-management
+modules:
+- learn-dynamics.extend-apis-project-operations
+- learn-dynamics.extend-universal-resource-scheduling
+- learn-dynamics.deploy-resource-scheduling-optimization
+trophy:
+  uid: learn-dynamics.extend-project-operations.trophy

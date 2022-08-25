@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d6660694a5ba07fd0778a4b983b49c2ee2d4b1b1509b8e9668f8e31febe916b7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d274d71866657fcce77472aeef8b3f5edb68dde2
+ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7140664"
+ms.lasthandoff: 07/05/2022
+ms.locfileid: "9114685"
 ---
 يدعم Project Operations خيارات توزيع متعددة لتتطابق مع متطلباتك. سواء كنت من عملاء Dynamics 365 الحاليين أو الجدد، بإمكان Project Operations دعم احتياجاتك.
 
@@ -18,7 +18,7 @@ ms.locfileid: "7140664"
 - Project Operations لسيناريوهات الموارد/المنتجات غير المخزنة
 - Project Operations لسيناريوهات المنتجات المخزنة/أوامر الإنتاج
 
-![رسم تخطيطي يوضح أنواع توزيع Project Operations.](../media/deployment-types.png)
+[![رسم تخطيطي يوضح أنواع توزيع Project Operations.](../media/deployment-types.png)](../media/deployment-types.png#lightbox)
 
 ## <a name="lite-deployment---deal-to-proforma-invoicing"></a>التوزيع الخفيف - التعامل مع الفواتير الأولية
 يتمتع نوع التوزيع الخفيف الخاص بـ Project Operations بالإمكانيات التالية للشركات القائمة على المشروع:

@@ -7,14 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ebb60019718279be0558c8e1a6756e56e0a8f4ec
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.custom: intro-internal
+  ms.openlocfilehash: 0d2dabb9ecb1aa070f94d5c359308ac3b3e2b9bb
+  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749627"
+  ms.lasthandoff: 07/19/2022
+  ms.locfileid: "9174082"
 title: الشروع في العمل مع عملية الترقية من Dynamics AX 2012 إلى تطبيقات التمويل والعمليات
-summary: "[!include[](../includes/module-banner.md)] \nعند الترقية من Microsoft Dynamics AX 2012 إلى Dynamics 365، يمكن للمؤسسات استخدام منهجية الترقية لتطبيقات التمويل والعمليات لاتباع عملية محددة مسبقًا، جنبًا إلى جنب مع الارتباطات والوثائق الداعمة، للتغلب على التحديات مع تغييرات النظام الأساسي والمنتج.\n"
+summary: "[!include[](../includes/module-banner.md)] \nعند الترقية من Microsoft Dynamics AX 2012 إلى Dynamics 365، يمكن للمؤسسات استخدام منهجية الترقية لتطبيقات التمويل والعمليات لاتباع عملية محددة مسبقاً، جنباً إلى جنب مع الارتباطات والوثائق الداعمة، للتغلب على التحديات مع تغييرات النظام الأساسي والمنتج.\n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- استراتيجية الترقية وأفضل الممارسات.\n- Microsoft Dynamics 365 Lifecycle Services.\n- إدارة دورة حياة التطبيق.\n- أدوات الحل في تطبيقات التمويل والعمليات مقارنة بتلك الموجودة في Dynamics AX 2012.\n"
 prerequisites: >
   - معرفه Dynamics AX 2012

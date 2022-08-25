@@ -4,15 +4,15 @@ title: حجز غرف فندقية للموظفين والمتحدثين والض
 metadata:
   title: حجز غرف فندقية للموظفين والمتحدثين والضيوف
   description: تعرّف على كيفية حجز غرف فندقية للموظفين والمتحدثين والضيوف.
-  ms.date: 04/27/2021
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 114c97963ad1f744eb54b28f072346cd586a494f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5a242fae9f7769a711b1cfa13af2db30e7c566ba
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435345"
-durationInMinutes: 3
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127363"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-book.md)]"

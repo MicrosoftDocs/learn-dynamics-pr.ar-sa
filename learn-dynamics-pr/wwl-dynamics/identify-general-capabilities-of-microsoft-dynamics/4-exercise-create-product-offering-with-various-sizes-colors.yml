@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.identify-general-capabilities-of-microsoft-dynamics-365-supply-chain-management.exercise-create-product-offering-with-various-sizes-colors
-title: 'تمرين: إنشاء عرض منتج بأحجام وألوان مختلفة'
+title: 'التمرين: إنشاء منتج جديد'
 metadata:
-  title: 'تمرين: إنشاء عرض منتج بأحجام وألوان مختلفة'
-  description: 'تمرين: إنشاء عرض منتج بأحجام وألوان مختلفة'
-  ms.date: 06/17/2022
+  title: 'التمرين: إنشاء منتج جديد'
+  description: 'التمرين: إنشاء منتج جديد'
+  ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 38d5eea07c0f15b9f52175a5d3ccd65138af20f9
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 0d9e02f537ea8abdbe5d6eb2b6faa62df84e34dd
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025522"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9224748"
 azureSandbox: false
 labId: 88376
 labModal: true

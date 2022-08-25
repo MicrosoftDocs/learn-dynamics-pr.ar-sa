@@ -3,26 +3,26 @@ uid: learn.wwl.learn-fundamentals-of-microsoft-dynamics-365-sales
 metadata:
   title: تعرف على أساسيات Microsoft Dynamics 365 Sales
   description: تعرف على أساسيات Microsoft Dynamics 365 Sales
-  ms.date: 04/27/2022
+  ms.date: 07/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 44d53bf29f001da4b643ab6dd7118644adee4ddc
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2f49a4b14cf248881e188d19de74f5700d947adc
+  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751971"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9200930"
 title: تعرف على أساسيات Microsoft Dynamics 365 Sales
 prerequisites: >
-  بلا
+  لا شيء
 summary: >
   يقدم مسار التعليم هذا للمتعلمين Dynamics 365 Sales.  سوف تتعرف على إمكانات المنتج الأساسية والأدوات الأخرى التي يمكنك استخدامها لإدارة عملية المبيعات بنجاح وفعالية.
 video:
   title: 'فيد المقدمة: تعرف على أساسيات Microsoft Dynamics ‏365 Sales'
   url: https://www.microsoft.com/videoplayer/embed/RE4UczY
-iconUrl: /learn/achievements/generic-trophy.svg
+iconUrl: /learn/achievements/learn-the-fundamentals-of-microsoft-dynamics-365-sales.svg
 levels:
 - beginner
 roles:

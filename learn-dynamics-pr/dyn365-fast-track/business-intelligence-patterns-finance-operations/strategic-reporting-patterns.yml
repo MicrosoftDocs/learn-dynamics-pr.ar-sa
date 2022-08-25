@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-intelligence-patterns-finance-operations.strategic-reporting-patterns
+title: أنماط التقارير الإستراتيجية
+metadata:
+  title: أنماط التقارير الإستراتيجية
+  description: تعرف عَلى سيناريوهات إعداد التقارير المالية والتنظيمية.
+  ms.date: 01/08/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 82705abd5894e442aaa8ca62849a7f1b707d846e
+  ms.sourcegitcommit: 90b2fb8366c65bce1c45671f8203b47b66e49643
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/01/2022
+  ms.locfileid: "9213726"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/strategic-reporting-patterns.md)]"

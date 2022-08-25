@@ -4,15 +4,15 @@ title: حماية البيانات والقانون العام لحماية ال
 metadata:
   title: حماية البيانات والقانون العام لحماية البيانات (GDPR)
   description: Dynamics 365 والامتثال مع القانون العام لحماية البيانات (GDPR).
-  ms.date: 04/06/2021
+  ms.date: 07/27/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4c08ac0dc2b5d2d87ddf223f1312b9db6c0ec16e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f2808082fd57e3b198d07fbf5fa6a3d240c17084
+  ms.sourcegitcommit: a8c62df9a18edce3c9952792c452ab1dbebe8d3d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435418"
-durationInMinutes: 5
+  ms.lasthandoff: 07/29/2022
+  ms.locfileid: "9207696"
+durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-data.md)]"

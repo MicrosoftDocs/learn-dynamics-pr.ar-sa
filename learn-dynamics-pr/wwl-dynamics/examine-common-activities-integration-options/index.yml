@@ -3,17 +3,17 @@ uid: learn.wwl.examine-common-activities-integration-options
 metadata:
   title: استكشاف أنشطة Dynamics 365 وخيارات التكامل الشائعة
   description: استكشاف أنشطة Dynamics 365 وخيارات التكامل الشائعة
-  ms.date: 06/20/2022
+  ms.date: 07/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 8dab8f4231b64d43dc83db25566efdf53f4b97a6
-  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.openlocfilehash: 2f6bc8cd929efff170e6b62d6706ae2feb0f9d66
+  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/24/2022
-  ms.locfileid: "9046910"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9201039"
 title: استكشاف أنشطة Dynamics 365 وخيارات التكامل الشائعة
 summary: في هذه الوحدة النمطية، سيتم تعريف المتعلمين بالإمكانات والأنشطة المشتركة عبر تطبيقات إشراك العملاء في Dynamics 365.
 abstract: >
@@ -26,7 +26,7 @@ abstract: >
   - وصف خيارات التكامل المختلفة المتاحة
 prerequisites: >
   لا شيء
-iconUrl: /learn/achievements/generic-badge.svg
+iconUrl: /learn/achievements/2-examine-common-activities-and-integration-options.svg
 levels:
 - beginner
 roles:

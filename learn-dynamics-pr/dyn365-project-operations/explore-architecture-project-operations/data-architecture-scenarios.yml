@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.explore-architecture-project-operations.data-architecture-scenarios
+title: سيناريوهات هندسة البيانات لعمليات التكامل والإعداد والتكوين
+metadata:
+  title: سيناريوهات هندسة البيانات لعمليات التكامل والإعداد والتكوين
+  description: تعرف على سيناريوهات هندسة البيانات لعمليات التكامل والإعداد والتكوين.
+  ms.date: 7/04/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4005e2daae4b2f7eee5c0ec197712fac04f5040b
+  ms.sourcegitcommit: cdd0f36392a9256d954ea532b7da620bb501a9bb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/06/2022
+  ms.locfileid: "9123125"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/data-architecture-scenarios.md)]"

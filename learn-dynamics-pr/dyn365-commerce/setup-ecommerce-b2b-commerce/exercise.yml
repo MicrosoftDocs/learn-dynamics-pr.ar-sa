@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.exercise
+title: تمرين - إنشاء الصفحة المقصودة لإدارة الحساب
+metadata:
+  title: تمرين - إنشاء الصفحة المقصودة لإدارة الحساب
+  description: خطوات إنشاء الصفحة المقصودة لإدارة الحساب.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2836303e48369219e43a3ef8d9e82920c8c4c365
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147310"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/exercise.md)]"

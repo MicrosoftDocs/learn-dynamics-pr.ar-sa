@@ -2,21 +2,21 @@
 uid: learn-bizapps.get-started-set-up-and-manage.8-knowledge-check
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 05/14/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/08/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6337684c4f75903243ebbcb21e5481f9c6d16788
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 31cca7cd2588a26e14d10df7e0b8f57d6f23fc14
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435521"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9132559"
 title: اختبر معلوماتك
 durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي من إمكانات التسويق التالية متاح على أنه إضافة في منتجات Dynamics 365؟
     choices:
@@ -34,14 +34,14 @@ quiz:
       isCorrect: false
   - content: ما الذي عليك تقديمه في أثناء إعداد Dynamics 365 Marketing للمرة الأولى؟
     choices:
-    - content: اسم الشركة وعنوان البريد الإلكتروني
-      explanation: اسم الشركة وعنوان البريد الإلكتروني غير مطلوبين على أنهما جزء من خطوات إعداد Dynamics 365 Marketing الأولية.
+    - content: اسم الشركة وعنوان الرسالة الإلكترونية
+      explanation: اسم الشركة وعنوان الرسالة الإلكترونية غير مطلوبين على أنهما جزء من خطوات إعداد Dynamics 365 Marketing الأولية.
       isCorrect: false
     - content: مركز الاشتراكات
       explanation: مراكز الاشتراكات ليست إحدى خطوات إعداد Dynamics 365 Marketing الأولية.
       isCorrect: false
     - content: عنوان الشارع الفعلي للمُرسل
-      explanation: يجب أن تتضمن جميع رسائل البريد الإلكتروني التسويقي المُرسلة بواسطة Dynamics 365 Marketing عنوان الشارع الفعلي لمؤسستك، والعديد من العناصر الأخرى المطلوبة. تساعد هذه المتطلبات على زيادة إمكانية وصول البريد الإلكتروني، فضلًا عن كونها تساعد في التأكد من التزامك بالمتطلبات القانونية الشائعة للبريد الإلكتروني التسويقي.
+      explanation: يجب أن تتضمن جميع رسائل الرسالة الإلكترونية التسويقي المُرسلة بواسطة Dynamics 365 Marketing عنوان الشارع الفعلي لمؤسستك، والعديد من العناصر الأخرى المطلوبة. تساعد هذه المتطلبات على زيادة إمكانية وصول الرسالة الإلكترونية، فضلاً عن كونها تساعد في التأكد من التزامك بالمتطلبات القانونية الشائعة للبريد الإلكتروني التسويقي.
       isCorrect: true
     - content: رقم هاتف الشركة
       explanation: رقم هاتف الشركة ليس أحد خطوات إعداد Dynamics 365 Marketing الأولية.

@@ -4,16 +4,16 @@ title: سيناريوهات إدارة الحالات
 metadata:
   title: سيناريوهات إدارة الحالات
   description: سيناريوهات إدارة الحالات
-  ms.date: 09/03/2021
+  ms.date: 08/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a3b1b90029136b207ccdb304b278a8502510a398
-  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
+  ms.openlocfilehash: 8d703199fbec3aeb6adb7d5790f0aa540c34bab9
+  ms.sourcegitcommit: 7301a88a9d669770be83ee33acd00b0025a7a728
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/07/2021
-  ms.locfileid: "7478597"
+  ms.lasthandoff: 08/06/2022
+  ms.locfileid: "9230734"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

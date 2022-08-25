@@ -4,15 +4,15 @@ title: إنشاء تطبيق Azure Active Directory
 metadata:
   title: إنشاء تطبيق Azure Active Directory
   description: تعرف على كيفية إنشاء تطبيق Azure Active Directory.
-  ms.date: 09/29/2021
+  ms.date: 07/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 42aff009b2f81e7161242857255a3b09550d9a30
-  ms.sourcegitcommit: e7659d30de4a9e795466e9211542a767dbc26e98
+  ms.openlocfilehash: 25e3d39a2083e7836ff781629087bb47f5b3022f
+  ms.sourcegitcommit: 6b7bb919150719d7f2b88c34b66a535036d417d3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/30/2021
-  ms.locfileid: "7582201"
+  ms.lasthandoff: 07/25/2022
+  ms.locfileid: "9189300"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-azure-active-directory-application.md)]"

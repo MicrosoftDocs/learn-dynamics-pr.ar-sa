@@ -3,28 +3,31 @@ uid: learn.wwl.explore-microsoft-dynamics-365-human-resources-core-capabilities
 metadata:
   title: استكشاف إمكانات الذاكرة الأساسية لـ Dynamics 365 Human Resources
   description: استكشاف إمكانات الذاكرة الأساسية لـ Dynamics 365 Human Resources
-  ms.date: 06/17/2022
+  ms.date: 07/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: fd9b981cbe68b4c11c46df9a3aa32fff4b064c7d
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: d9a353550283e903194eb413174ef7b5cb1c81e4
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9024930"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9133055"
 title: استكشاف إمكانات الذاكرة الأساسية لـ Dynamics 365 Human Resources
 summary: تقدم هذه الوحدة لك الإمكانات الأساسية لـ Microsoft Dynamics 365 Human Resources، بما في ذلك إدارة التعويضات والمزايا وأداء الموظفين والتأكد أن برامج الموارد البشرية لديك تلبي اللوائح العالمية المتغيرة.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
-  *   صف إمكانات التعويضات والمزايا
+  *   استكشف العاملين والمناصب.
 
-  *   توضيح ميزات التوافق
+  *   استكشاف إمكانات التعويضات والمزايا.
 
-  *   توضيح إمكانات إدارة الأداء
-prerequisites: ''
+  *   استكشاف ميزات التوافق.
+
+  *   استكشاف إمكانات إدارة الأداء.
+prerequisites: >
+  يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 iconUrl: /learn/achievements/dynamics-human-resources-capabilites.svg
 levels:
 - beginner

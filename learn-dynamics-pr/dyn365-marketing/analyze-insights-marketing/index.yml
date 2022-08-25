@@ -3,19 +3,19 @@ uid: learn-dynamics.analyze-insights-marketing
 metadata:
   title: تقييم مبادرات التسويق باستخدام التحليلات في Dynamics 365 Marketing
   description: تقييم التحليلات ومؤشرات الأداء الأساسية لجهودك التسويقية لفهم التأثير والأساليب الأفضل لجمهورك المستهدف.
-  ms.date: 03/23/2021
+  ms.date: 08/02/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c3bd688a2176101b54bf3705cd07e0174d486374
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a37c85dc608d7a10fc68b830adf180614356d25c
+  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748507"
+  ms.lasthandoff: 08/03/2022
+  ms.locfileid: "9223667"
 title: تقييم مبادرات التسويق باستخدام التحليلات في Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nتقييم التحليلات ومؤشرات الأداء الأساسية لجهودك التسويقية لفهم التأثير والأساليب الأفضل لجمهورك المستهدف. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- مراجعة النتائج القادمة من معلومات Dynamics 365 Marketing وتحليلها.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة النتائج القادمة من معلومات Dynamics 365 Marketing وتحليلها.\n"
 prerequisites: "- ينبغي وجود فهم أساسي للتنقل داخل Dynamics 365.\n- ينبغي وجود فهم أساسي عن كيفيه تفسير النتائج في اتخاذ قرارات التسويق. \n"
 iconUrl: /learn/achievements/analyze-insights-marketing.svg
 levels:

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-events-dynamics-365-finance-operations.activate-business-events
+title: تنشيط أحداث الأعمال
+metadata:
+  title: تنشيط أحداث الأعمال
+  description: تعرف على كيفية تنشيط أحداث الأعمال في تطبيقات التمويل والعمليات.
+  ms.date: 08/01/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: becf7bf18be1f06e216bf01564e301b5df4fc0b7
+  ms.sourcegitcommit: 90b2fb8366c65bce1c45671f8203b47b66e49643
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/01/2022
+  ms.locfileid: "9213929"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/activate-business-events.md)]

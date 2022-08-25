@@ -3,16 +3,16 @@ uid: learn-dynamics.review-authentication-dynamics-365-marketing.6-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص مراجعة المصادقة وأفضل ممارسات البريد الإلكتروني وGDPR.
-  ms.date: 04/06/2021
+  description: ملخص مراجعة المصادقة وأفضل ممارسات الرسالة الإلكترونية وGDPR.
+  ms.date: 07/27/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 077b710973ffb01c5e851e2e6800084dc5af3861
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3c05856cc7cc73aa51294a33dbbea106a12ac424
+  ms.sourcegitcommit: a8c62df9a18edce3c9952792c452ab1dbebe8d3d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435313"
-durationInMinutes: 5
+  ms.lasthandoff: 07/29/2022
+  ms.locfileid: "9207676"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

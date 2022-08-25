@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص وحدة تكوين Sales Insights
-  ms.date: 09/23/2021
+  ms.date: 08/03/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9d3ba8eef9a62f9229cfcedba4558e31e97281a0
-  ms.sourcegitcommit: 764b35d6328e063ffb8e1fbd09c7155ac5ae54c2
+  ms.openlocfilehash: f7f9903246b8a27046627d8aff41e4d56a4c262e
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "7562593"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9225288"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-summary.md)]"

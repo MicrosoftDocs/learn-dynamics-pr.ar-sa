@@ -3,22 +3,22 @@ uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
 metadata:
   title: تعلُّم أساسيات Dynamics 365 Human Resources
   description: تعلُّم أساسيات Dynamics 365 Human Resources
-  ms.date: 06/17/2022
+  ms.date: 07/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: dc97f450183c1f45f6a7ad3acdd3fc69eee05eb2
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: a9726edabd04db77d68136bba73c7fc4a1b38565
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025448"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9131862"
 title: تعلُّم أساسيات Dynamics 365 Human Resources
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
-  هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، وكلٍّ من تطبيقات التمويل والعمليات من Dynamics 365. ابدأ بمسار التعلم هذا لمعرفة المزيد حول Dynamics 365 Human Resources.
+  يقدم مسار التعليم هذا للمتعلمين تطبيق Dynamics 365 Human Resources. تعرف على قدرات الموارد البشرية الأساسية مثل التعويضات والمزايا وإدارة التوافق وإدارة الأداء وإدارة شؤون العاملين.
 iconUrl: /learn/achievements/dynamics-human-resources.svg
 levels:
 - beginner

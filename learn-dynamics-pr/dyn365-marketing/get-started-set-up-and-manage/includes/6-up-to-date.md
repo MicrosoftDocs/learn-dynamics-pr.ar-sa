@@ -1,11 +1,25 @@
 ---
-ms.openlocfilehash: 8938c12cc87b6126f2e49fcd42c6a88ebf7cdfb0
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: cd8ef03c7bef6da8568f8d3ca7f6ad3bf6f5c363
+ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7435469"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "9132170"
 ---
-تطور Microsoft الخدمات على الإنترنت وتحسنها باستمرار. تحديثات التسويق [تُرسل إلى جميع العملاء تلقائياً](https://cloudblogs.microsoft.com/dynamics365/it/2020/04/27/automatic-update-policy-for-dynamics-365-marketing/?azure-portal=true). يتبع تطبيق التسويق طريقة نشر تدريجية تتماشى مع جدولة نشر النظام الأساسي. ويُمكنك أيضًا تحديث الحلول يدويًا لإجراء عمليات التحقق من الصحة في البداية. تُتيح التحديثات اليدوية للعملاء تطبيق التحديثات واختبارها في مثيل آلية تحديد الوصول قبل تطبيقها على نظام الإنتاج.
+تطور Microsoft الخدمات على الإنترنت وتحسنها باستمرار. تحديثات التسويق [تُرسل إلى جميع العملاء تلقائياً](https://cloudblogs.microsoft.com/dynamics365/it/2020/04/27/automatic-update-policy-for-dynamics-365-marketing/?azure-portal=true). يتبع تطبيق التسويق طريقة نشر تدريجية تتماشى مع جدولة نشر النظام الأساسي. ويُمكنك أيضاً تحديث الحلول يدوياً لإجراء عمليات التحقق من الصحة في البداية. تُتيح التحديثات اليدوية للعملاء تطبيق التحديثات واختبارها في مثيل آلية تحديد الوصول قبل تطبيقها على نظام الإنتاج.
 
-لمزيد من المعلومات عن كيفية تطبيق التحديثات يدويًا على حلول Marketing، راجع [‬‏‫البحث عن التحديثات وتطبيقها على حلول Marketing الأساسية](/dynamics365/marketing/apply-updates?azure-portal=true#find-and-apply-updates-for-core-marketing-solutions).
+ستصدر Microsoft حالياً تحديثات لـ Dynamics 365 Marketing كل شهر أو نحو ذلك، مع تحديث رئيسي كل ستة أشهر. ولقد قمنا بالإعلان عن التحديثات الشهرية (والأخبار التسويقية الأخرى) في صفحة [ما الجديد في Dynamics 365 Marketing](/dynamics365/marketing/whats-new-marketing?azure-portal=true)، حيث أننا نقوم أيضاً بتلخيص كافة الميزات الجديدة وإصلاحات الأخطاء المضمنة مع كل إصدار. يتم وصف التوجيهات المستقبلية والإصدارات الرئيسية في [موقع ويب Dynamics 365 وخطط إصدار Power Platform](/dynamics365/release-plans/?azure-portal=true).
+
+يمكنك أيضاً معرفة وقت توفر أحد التحديثات من خلال التحقق من حالة تطبيقاتك وحلولك في إعدادات التسويق، كما هو موضح في الأقسام التالية.
+
+لعرض إصدار بيئة التسويق الخاصة بك:
+
+1.  افتح تطبيق التسويق.
+
+1.  حدد منتقي المنطقة في أسفل اليمين، ثم حدد **الإعدادات**.
+
+1.  ستفتح صفحة **نظرة عامة على الإعدادات**. انتقل إلى **النظرة العامة > الإصدارات**.
+
+1.  سيتم فتح صفحة الإصدارات. تحقق من حالة طلبك. إذا لم يكن التطبيق محدثاً، يمكنك اختيار تحديثه من هنا.
+
+لمزيد من المعلومات، راجع [‏‫المحافظة على تحديث Marketing‬](/dynamics365/marketing/apply-updates?azure-portal=true).

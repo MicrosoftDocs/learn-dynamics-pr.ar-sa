@@ -4,15 +4,15 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: هذه الوحدة تستعرض الوحدة النمطية لإعداد أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
-  ms.date: 02/26/2020
+  ms.date: 07/05/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8d876d8ff571ac7bb9016e4471fa90f1620fb080
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fe918081e4d88349c8b76f01b476cd46cf32c017
+  ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332597"
-durationInMinutes: 2
+  ms.lasthandoff: 07/05/2022
+  ms.locfileid: "9114587"
+durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-introduction.md)]"

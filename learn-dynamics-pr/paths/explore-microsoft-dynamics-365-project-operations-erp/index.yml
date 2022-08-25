@@ -3,22 +3,22 @@ uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 metadata:
   title: تعلُّم أساسيات Dynamics 365 Project Operations
   description: تعلُّم أساسيات Dynamics 365 Project Operations
-  ms.date: 06/17/2022
+  ms.date: 07/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 1aaeaf9e8beb3e78406ca39966d60f43e48bce7d
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: ac871de96f7be25dda2d8b57ae9b8f4c57808d1d
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025100"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9132360"
 title: تعلُّم أساسيات Dynamics 365 Project Operations
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
-  هل أنت جديد على Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، بالإضافة إلى كل من تطبيقات Dynamics 365 finance and operations. ابدأ بمسار التعلم هذا للتعرف على مكونات ERP في Dynamics 365 Project Operations.
+  يقدم مسار التعليم هذا للمتعلمين تطبيق Dynamics 365 Project Operations. تعرف على قدرات إدارة دورة حياة المشروع للمنتج، بالإضافة إلى إمكانيات تخطيط المشروع وتنفيذه.
 iconUrl: /learn/achievements/dynamics-project-operations.svg
 levels:
 - beginner

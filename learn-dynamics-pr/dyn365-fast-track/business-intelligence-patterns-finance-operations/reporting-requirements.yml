@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-intelligence-patterns-finance-operations.reporting-requirements
+title: متطلبات الإبلاغ وخيارات الحلول
+metadata:
+  title: متطلبات الإبلاغ وخيارات الحلول
+  description: تعرف عَلى كيف أن لأداة / تقنية / نهج إعداد التقارير نقاط قوتها الخاصة، ومن الحكمة استخدام مزيج من هذه الأساليب لتلبية احتياجات إعداد التقارير الإجمالية للتنفيذ.
+  ms.date: 07/14/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b99023c6507867199e07a2282411958cc6eb857f
+  ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9150818"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/reporting-requirements.md)]"

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.business-partner-users
+title: إضافة المستخدمين شركاء الأعمال
+metadata:
+  title: إضافة المستخدمين شركاء الأعمال
+  description: تعرف على كيفية إضافة مستخدمين شركاء الأعمال.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a00035c68dda29bff295cd9a79dcca6d91a07abf
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147325"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/business-partner-users.md)]"

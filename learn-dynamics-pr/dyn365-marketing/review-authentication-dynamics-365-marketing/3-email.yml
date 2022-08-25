@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.review-authentication-dynamics-365-marketing.3-email
-title: ‏‫أفضل ممارسات البريد الإلكتروني
+title: ‏‫أفضل ممارسات الرسالة الإلكترونية
 metadata:
-  title: ‏‫أفضل ممارسات البريد الإلكتروني
-  description: أفضل ممارسات البريد الإلكتروني التسويقي.
-  ms.date: 04/06/2021
+  title: ‏‫أفضل ممارسات الرسالة الإلكترونية
+  description: أفضل ممارسات الرسالة الإلكترونية التسويقي.
+  ms.date: 07/27/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3a6e721c56a50805b136c6c3df3d7807426db955
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 224901e1dcfe1fc8e32d3cbbe7186c0eaaab046d
+  ms.sourcegitcommit: a8c62df9a18edce3c9952792c452ab1dbebe8d3d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435440"
-durationInMinutes: 5
+  ms.lasthandoff: 07/29/2022
+  ms.locfileid: "9207646"
+durationInMinutes: 25
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-email.md)]"

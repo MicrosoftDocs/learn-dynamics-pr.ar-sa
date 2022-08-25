@@ -1,0 +1,62 @@
+### YamlMime:Module
+uid: learn-dynamics.order-management-b2b-commerce
+metadata:
+  title: إدارة الطلبات الخاصة بالتجارة الإلكترونية لـ B2B في Dynamics 365 Commerce
+  description: تعرف على كيفية إدارة الطلبات المجمعة والمتكررة مع الشركات الأخرى في Dynamics 365 Commerce.
+  ms.date: 07/18/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3d26796ba098ae92bb76d358ce5c458229e55957
+  ms.sourcegitcommit: 51b5831dce806301f20590475f94c3b5fd75c070
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179502"
+title: إدارة الطلبات الخاصة بالتجارة الإلكترونية لـ B2B في Dynamics 365 Commerce
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  على عكس عملاء متاجرة عمل-مستهلك (B2C)، يطلب عملاء B2B عادةً الأصناف بكميات كبيرة ويطلبون عدة مرات ويستخدمون إدارة الفواتير ويستخدمون طرق دفع محددة. تصف هذه الوحدة النمطية العمليات التي يجب إكمالها لتلبية احتياجات هؤلاء العملاء على مواقع التجارة الإلكترونية B2B لـ Dynamics 365 Commerce حتى تتمكن من توفير هذه الإمكانات المتنوعة.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تعرف على كيفية وضع الأوامر المجمعة في موقع التجارة الإلكترونية B2B.
+
+  - تعرف على كيفية وضع الأوامر بسرعة على موقع التجارة الإلكترونية B2B.
+
+  - اكتشف مفاهيم الفوترة لشركاء الأعمال على موقع B2B للتجارة الإلكترونية.
+
+  - تعرف على كيفية إعداد طرق الدفع لحساب العميل لشركاء الأعمال على مواقع التجارة الإلكترونية B2B.
+
+  - تعرف على كيفية إعداد حدود كمية المنتجات لمواقع التجارة الإلكترونية B2B.
+prerequisites: >
+  لإكمال هذه الوحدة النمطية، تحتاج إلى ما يلي:
+
+  - المعرفة بـ Dynamics 365 Commerce
+
+  - معرفة Dynamics 365 Commerce headquarters
+
+  - معرفة مواقع التجارة الإلكترونية B2B
+iconUrl: /learn/achievements/order-management-b2b-commerce.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-commerce
+- dynamics-365
+subjects:
+- business-applications
+units:
+- learn-dynamics.order-management-b2b-commerce.introduction
+- learn-dynamics.order-management-b2b-commerce.place-orders
+- learn-dynamics.order-management-b2b-commerce.manage-invoices
+- learn-dynamics.order-management-b2b-commerce.payment-methods
+- learn-dynamics.order-management-b2b-commerce.product-quantity
+- learn-dynamics.order-management-b2b-commerce.check
+- learn-dynamics.order-management-b2b-commerce.summary
+badge:
+  uid: learn-dynamics.order-management-b2b-commerce.badge

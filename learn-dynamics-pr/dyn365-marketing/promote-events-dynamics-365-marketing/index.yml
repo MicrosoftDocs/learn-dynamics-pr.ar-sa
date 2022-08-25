@@ -3,20 +3,20 @@ uid: learn-dynamics.promote-events-marketing
 metadata:
   title: ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Dynamics 365 Marketing
   description: تعرّف على كيفية ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Microsoft Dynamics 365 Marketing.
-  ms.date: 04/27/2021
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7f5722482de483f927678fda8c451cc58cef821a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9856c3d5a8fae981439a6aa22a28dfd90d55e409
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748231"
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127396"
 title: ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Dynamics 365 Marketing
-summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على كيفية ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Microsoft Dynamics 365 Marketing.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- يُمكنك ترقية الأحداث وتسجيل الحضور في الأحداث.\n- المتابعة بعد الحدث.\n"
-prerequisites: بلا
+summary: "[!include[](../includes/module-banner.md)] \nتعرّف على كيفية ترقية الأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Microsoft Dynamics 365 Marketing.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استخدم رسائل الرسالة الإلكترونية والمقاطع والرحلات لترقية الأحداث.\n- عرض تسجيلات الأحداث وإدارتها.\n- عرض حضور الحدث وإدارته.\n- المتابعة بعد الحدث.\n"
+prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Marketing
 iconUrl: /learn/achievements/promote-events-marketing.svg
 levels:
 - intermediate

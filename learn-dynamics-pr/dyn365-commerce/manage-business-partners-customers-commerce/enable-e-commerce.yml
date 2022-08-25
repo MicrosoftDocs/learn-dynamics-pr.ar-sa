@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-business-partners-customers-commerce.enable-e-commerce
+title: تمكين التجارة الإلكترونية B2B
+metadata:
+  title: تمكين التجارة الإلكترونية B2B
+  description: تعرف على كيفية تمكين التجارة الإلكترونية B2B.
+  ms.date: 07/05/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 65291c9909cd3ce80895127320ab6babbfdf2879
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127622"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/enable-e-commerce.md)]

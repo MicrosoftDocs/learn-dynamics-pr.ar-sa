@@ -3,26 +3,26 @@ uid: learn-dynamics.promote-events-marketing.8-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 04/27/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: de747e8e4d7c6915a2c766a8a5d2127f0f536bcb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0d02e4dd379333b38734f09394399ac97ab82527
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435369"
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127560"
 durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: بعد التخطيط للحدث، ما الذي عليك فعله للترويج له؟
     choices:
-    - content: يجب إعداد رحلة عميل ترسل رسائل تسويقية عبر البريد الإلكتروني إلى جميع جهات الاتصال ذات الصلة.
+    - content: يجب إعداد رحلة عميل ترسل رسائل تسويقية عبر الرسالة الإلكترونية إلى جميع جهات الاتصال ذات الصلة.
       isCorrect: true
-      explanation: سوف يحتاج المستخدمون إلى إعداد رحلة عميل لإرسال رسائل تسويقية عبر البريد الإلكتروني إلى جميع جهات الاتصال ذات الصلة.
+      explanation: سوف يحتاج المستخدمون إلى إعداد رحلة عميل لإرسال رسائل تسويقية عبر الرسالة الإلكترونية إلى جميع جهات الاتصال ذات الصلة.
     - content: إنشاء صفحة منتقل إليها لتسجيل الحضور.
       isCorrect: false
       explanation: أنت لست في حاجة إلى إنشاء صفحة منتقل إليها لتسجيل الحضور. يحتوي موقع ويب الحدث على صفحة للحضور من أجل التسجيل في الحدث الجاهز، ولذلك ليست هناك حاجة إلى إنشاء صفحة منتقل إليها.
@@ -40,6 +40,6 @@ quiz:
     - content: رحلات العميل
       isCorrect: false
       explanation: لا يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في منطقة رحلات العميل.
-    - content: رسائل البريد الإلكتروني التسويقي
+    - content: رسائل الرسالة الإلكترونية التسويقي
       isCorrect: false
-      explanation: لا يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في رسائل البريد الإلكتروني لتطبيق Marketing.
+      explanation: لا يُمكنك رؤية نظرة عامة واسعة على أنشطة التخطيط للأحداث في رسائل الرسالة الإلكترونية لتطبيق Marketing.

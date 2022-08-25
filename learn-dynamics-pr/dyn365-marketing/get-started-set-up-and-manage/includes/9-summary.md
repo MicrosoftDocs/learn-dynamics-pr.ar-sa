@@ -1,13 +1,11 @@
 ---
-ms.openlocfilehash: c00d1c141bd0f20de05aa656a955e4dbe8344a38a493e7c20b45cbe9dd62962e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d6c3175cfd25bf3fd2a9d232edb74873d8cf851a
+ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7435287"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "9131821"
 ---
-تطبيق Dynamics 365 Marketing قوي للغاية. إذ يمنحك الأدوات اللازمة لتحديد العملاء وإشراكهم بطرق هادفة ومخصصة. 
+يعمل Dynamics 365 Marketing على الارتقاء بتجارب العملاء، مما يسمح لك بتنظيم الرحلات الشخصية عبر جميع نقاط الاتصال لتقوية العلاقات وكسب الولاء. يعمل تطبيق Dynamics 365 Marketing بسلاسة مع Dynamics 365 Sales، وDynamics 365 Customer Insights، وMicrosoft Teams، ومنتجات أخرى ويسمح لك بعمل قرارات أسرع وأفضل باستخدام قوة البيانات والذكاء الاصطناعي.
 
-ويدمج المبيعات والتسويق معًا للتأكد من أن المعلومات المعنية حديثة. يُمكنك الوصول إلى جهات الاتصال الرئيسية والأنشطة الأخيرة والمشتريات السابقة والفرص المفتوحة.
-
-في هذه الوحدة، تعلمت طريقة ترخيص Dynamics 365 Marketing. كما تعلمت كيفية بدء استخدام Dynamics 365 Marketing وتشغيله مع الاحتفاظ بتطبيقات التسويق نشطة. 
+في هذه الوحدة، تعلمت طريقة إعداد وإدارة Dynamics 365 Marketing. تشرح الوحدة التالية في مسار التعلم هذا كيفية ضبط سلوك تطبيق التسويق وتعيين الإعدادات الافتراضية والتحقق من الحصص وإدارة إعدادات التسويق الأساسية والمزيد.

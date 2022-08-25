@@ -4,15 +4,15 @@ title: تكوين معلومات الاتصال
 metadata:
   title: تكوين معلومات الاتصال
   description: تعرف على كيفية تكوين معلومات الاتصال
-  ms.date: 09/23/2021
+  ms.date: 08/03/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6e47b98ccbfcb0376d9a36456ffc85bad178031a
-  ms.sourcegitcommit: 764b35d6328e063ffb8e1fbd09c7155ac5ae54c2
+  ms.openlocfilehash: d23d03e136a618bd111c8f6de6e2b15be3224d01
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "7562776"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9225643"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-connection-insights.md)]"

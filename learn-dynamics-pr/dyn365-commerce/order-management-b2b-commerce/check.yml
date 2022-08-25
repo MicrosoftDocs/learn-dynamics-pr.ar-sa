@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.order-management-b2b-commerce.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/18/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 075a8b44f9881691c67771d8ab70b10f1f22e441
+  ms.sourcegitcommit: 5abc7315866e526226ae246e2126d76b2078ad04
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/12/2022
+  ms.locfileid: "9140526"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: هل يمكنك استخدام حدود الرصيد لحسابات عملاء B2B الذين يرغبون في شراء منتجات على موقع التجارة الإلكترونية؟
+    choices:
+    - content: نعم، يجب تعيينه إلى حساب المؤسسة في Commerce headquarters.
+      isCorrect: true
+      explanation: صحيح. يمكنك استخدام حدود الرصيد لحسابات العملاء، إذا كان سجل شريك الأعمال في Commerce headquarters قد قام بتعيين حد الرصيد.
+    - content: لا، لا يمكن استخدامه لشراء أي شيء.
+      isCorrect: false
+      explanation: ‏‫غير صحيح. يمكن استخدام حدود الرصيد.
+  - content: ما المقصود بحدود كمية المنتج؟
+    choices:
+    - content: تحديد المتغيرات المختلفة للمنتجات التي يتم بيعها على موقع التجارة الإلكترونية
+      isCorrect: false
+      explanation: ‏‫غير صحيح. ولا يتم تحديد المتغيرات المختلفة والمقدار المتاح للمنتج من خلال حدود كمية المنتج.
+    - content: تحديد عدد المنتجات التي يتم بيعها في نفس الوقت في الأوامر الموجودة على موقع التجارة الإلكترونية
+      isCorrect: true
+      explanation: صحيح. قم بتمكين حدود جودة المنتج لوضع حد لعدد المنتجات التي يتم بيعها بنفس الأمر في نفس الوقت.
+    - content: تحديد عدد المنتجات المختلفة التي يمكن لبائع التجزئة بيعها
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لا تحدد حدود جودة المنتج من عدد المنتجات المختلفة التي يمكن أن يبيعها بائع التجزئة.
+  - content: ماذا يحدث عندما يطلب أحد العملاء فاتورة من موقع التجارة الإلكترونية عن طريق تحديد **طلب فاتورة** في صفحة **الفوترة**؟
+    choices:
+    - content: العميل يدفع الفاتورة.
+      isCorrect: false
+      explanation: ‏‫غير صحيح. عند تحديد **طلب فاتورة** في صفحة **الفوترة**، فإنه لا يتم دفع الفاتورة.
+    - content: تم تمكين القدرة على استخدام الفاتورة للدفع للطلبات.
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لم يتم تمكين القدرة على استخدام الفاتورة عن طريق تحديد **طلب الفواتير**.
+    - content: يتم إرسال الفاتورة إلى عنوان الرسالة الإلكترونية المسجل للمستخدم.
+      isCorrect: true
+      explanation: صحيح. يتم إرسال الفاتورة إلى عنوان الرسالة الإلكترونية المرتبط بالحساب.

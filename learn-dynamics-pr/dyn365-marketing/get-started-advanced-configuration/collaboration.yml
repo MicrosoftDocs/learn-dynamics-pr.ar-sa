@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-advanced-configuration.collaboration
+title: التعاون
+metadata:
+  title: التعاون
+  description: تعرف على المزيد حول التعاون باستخدام دردشة Teams.
+  ms.date: 07/26/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7e21ec46ea6dda9b483772239c0a586118ab4527
+  ms.sourcegitcommit: f51d71bff43719bbbb8675596717d5d472dff9bd
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/28/2022
+  ms.locfileid: "9204082"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/collaboration.md)]

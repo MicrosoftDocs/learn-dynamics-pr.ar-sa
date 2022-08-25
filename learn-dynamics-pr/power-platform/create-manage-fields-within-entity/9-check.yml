@@ -3,17 +3,17 @@ uid: learn-dynamics.create-manage-fields-within-entity.9-check
 metadata:
   title: إنشاء الأعمدة وإدارتها ضمن فحص المعلومات بالجدول
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
-  ms.date: 02/25/2021
+  ms.date: 07/08/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 00506ff4690487e4da26051c541d63a2193e8873
-  ms.sourcegitcommit: 873e588aad3605193671f98229ce0299dc1c7adc
+  ms.openlocfilehash: 02178e623b0d9cda9d458a168c285437f1485072
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/16/2022
-  ms.locfileid: "9019182"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9133354"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
@@ -23,16 +23,16 @@ quiz:
     choices:
     - content: نص متعدد الأسطر
       isCorrect: false
-      explanation: يعرض نوع العمود "اختيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من خيار، بينما يسمح نوع العمود "اختيار" بتحديد خيار واحد فقط.
-    - content: اختيار
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
+    - content: الاختيار
       isCorrect: false
-      explanation: يعرض نوع العمود "اختيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من خيار، بينما يسمح نوع العمود "اختيار" بتحديد خيار واحد فقط.
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
     - content: اختيارات
       isCorrect: true
-      explanation: يعرض نوع العمود "اختيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من خيار، بينما يسمح نوع العمود "اختيار" بتحديد خيار واحد فقط.
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
     - content: الصورة
       isCorrect: false
-      explanation: يعرض نوع العمود "اختيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من خيار، بينما يسمح نوع العمود "اختيار" بتحديد خيار واحد فقط.
+      explanation: يعرض نوع عمود "الخيارات" قائمة بالخيارات حيث يمكن تحديد أكثر من حقل واحد.
   - content: أي عبارة من العبارات التالية صحيحة فيما يتعلق بالمفاتيح البديلة؟
     choices:
     - content: يتم إنشاء المفاتيح البديلة تلقائياً لدعم المفاتيح الأساسية.

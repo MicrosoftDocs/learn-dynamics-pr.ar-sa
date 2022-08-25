@@ -4,15 +4,15 @@ title: إنشاء ‏‏قالب حدث
 metadata:
   title: إنشاء ‏‏قالب حدث
   description: نظرة عامة على إنشاء قالب حدث.
-  ms.date: 04/26/2021
+  ms.date: 07/07/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dbd34d7143fb4adb5e67b293fa64f001159ffee7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b7c96ae457fff3d7b4fd5507e3beb123e4915b2b
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435504"
-durationInMinutes: 5
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127520"
+durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-template.md)]"

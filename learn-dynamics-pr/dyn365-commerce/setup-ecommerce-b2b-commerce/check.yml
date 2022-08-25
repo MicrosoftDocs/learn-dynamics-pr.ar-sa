@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 5acd5dad6eb55f08f0892acaff31bb76778ce4cb
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147330"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من إعدادات مستوى الموقع تنطبق على سيناريوهات B2B؟
+    choices:
+    - content: انتهاء صلاحيه السمة والسلة
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لا تحدد السمات والسلات أي شيء عن سيناريوهات B2B.
+    - content: بادئة عنوان الصفحة ولاحقة عنوان الصفحة
+      isCorrect: false
+      explanation: ‏‫غير صحيح. البادئات واللاحقات ليس لها إعدادات محددة لسيناريوهات B2B.
+    - content: قم بتمكين مدفوعات حساب العميل وتمكين حدود كمية الأمر
+      isCorrect: true
+      explanation: صحيح. هذان الإعدادان مخصصان لسيناريوهات B2B، ويمكنك تحديدهما لـ B2B أو B2C أو تعطيلهما بشكل عام.
+  - content: ما الوحدتان النمطيتان اللتان تحتاجهما في صفحة تسجيل شريك الأعمال لإدارة اشتراكات شركاء الأعمال؟
+    choices:
+    - content: الوحدة النمطية لتسجيل الشريك ووحدة عنوان حساب الأعمال
+      isCorrect: true
+      explanation: صحيح. هناك حاجة للوحدتين النمطيتين لاشتراك الشريك وعناوين حساب الأعمال في صفحة تسجيل شريك الأعمال للتعامل مع الطلبات ومعلومات حساب الأعمال حول الشريك.
+    - content: الوحدة النمطية للشراء المجمع والوحدة النمطية للطلب السريع
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لا يلزم وجود الوحدات النمطية للشراء المجمع والوحدات النمطية للطلب السريع لصفحات تسجيل شركاء الأعمال.
+    - content: وحدة الرأس ووحدة التذييل
+      isCorrect: false
+      explanation: ‏‫غير صحيح. على الرغم من وجود رأس وتذييل على الصفحة، إلا أنهما ليسا ضروريين للاحتفاظ بمعلومات التسجيل الخاصة بشريك الأعمال.
+  - content: ما هو قالب الموقع الذي ستستخدمه لإنشاء صفحة رصيد فاتورة جديدة؟
+    choices:
+    - content: قالب رصيد الفاتورة
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لم يتم إنشاء أي قالب لأرصدة الفواتير بشكل خاص.
+    - content: قالب إدارة الحساب
+      isCorrect: true
+      explanation: صحيح. يحتوي قالب إدارة الحساب على جميع الوحدات النمطية لصفحة رصيد الفاتورة المضافة إليه بالفعل.
+    - content: قوالب الأوامر
+      isCorrect: false
+      explanation: ‏‫غير صحيح. قوالب الأوامر ليست قوالب مواقع، ولكنها قوالب لأوامر المنتجات.

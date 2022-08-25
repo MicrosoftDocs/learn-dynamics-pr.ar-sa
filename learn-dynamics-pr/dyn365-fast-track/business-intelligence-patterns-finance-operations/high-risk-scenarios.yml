@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-intelligence-patterns-finance-operations.high-risk-scenarios
+title: سيناريوهات عالية المخاطرة
+metadata:
+  title: سيناريوهات عالية المخاطرة
+  description: تعرف على السيناريوهات عالية الخطر أثناء تنفيذ المعلومات المهنية وتنفيذ إعداد التقارير.
+  ms.date: 07/14/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f9eb56b67faef755505cbf51d4d44cc06c1ad2aa
+  ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9150802"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/high-risk-scenarios.md)]"

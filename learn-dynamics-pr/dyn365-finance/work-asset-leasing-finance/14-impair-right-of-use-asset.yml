@@ -3,16 +3,16 @@ uid: learn-dynamics.work-asset-leasing-finance.14-impair-right-of-use-asset
 title: إضعاف حق استخدام الأصل
 metadata:
   title: إضعاف حق استخدام الأصل
-  description: التعرف على كيفية إضعاف حق استخدام الأصل في Dynamics 365 Finance.
-  ms.date: 03/04/2021
+  description: تعرف على كيفية إضعاف أصل حق الاستخدام في Dynamics 365 Finance.
+  ms.date: 07/05/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 28c53ba6793b6c5c8ff8d0b3cedb2a48cf4ee990
-  ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+  ms.openlocfilehash: 85e6dc8d48528feaae2723e2700ebf362dbb6683
+  ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/06/2021
-  ms.locfileid: "7893096"
+  ms.lasthandoff: 07/05/2022
+  ms.locfileid: "9114625"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/14-impair-right-of-use-asset.md)]"

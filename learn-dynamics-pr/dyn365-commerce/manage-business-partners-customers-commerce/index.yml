@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-dynamics.manage-business-partners-customers-commerce
+metadata:
+  title: إدارة شركاء الأعمال B2B والتدرجات الهرمية للعملاء في Dynamics 365 Commerce
+  description: تعرف على كيفية إدارة شركاء متاجرة عمل-عمل والتدرجات الهرمية للعملاء في Dynamics 365 Commerce.
+  ms.date: 07/05/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 96ee44a7ef557124eba0d622f63f6c11709ddfa8
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127617"
+title: إدارة شركاء الأعمال B2B والتدرجات الهرمية للعملاء في Dynamics 365 Commerce
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  لقد قمت بإعداد موقع التجارة الإلكترونية B2B وأنشأت صفحات تسجيل شركاء الأعمال وصفحات إدارة شركاء الأعمال الأخرى. والآن، ستحتاج إلى إكمال العمليات الأخرى لإدارة مؤسسات شركاء الأعمال ومستخدميها في Dynamics 365 Commerce.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تمكين التجارة الإلكترونية B2B.
+
+  - تعرف على كيانات التدرج الهرمي للعملاء.
+
+  - تعرف على عملية التوجيه لشركاء الأعمال.
+
+  - مراجعة كيفية إدارة شركاء الأعمال باستخدام التدرجات الهرمية للعملاء.
+
+  - مراجعة كيفية إدارة شركاء الأعمال على موقع B2B للتجارة الإلكترونية.
+prerequisites: معرفة Dynamics 365 Commerce وDynamics 365 Commerce Headquartersومواقع التجارة الإلكترونية B2B على الويب
+iconUrl: /learn/achievements/manage-business-partners-customers-commerce.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- administrator
+products:
+- dynamics-commerce
+- dynamics-365
+subjects:
+- business-applications
+units:
+- learn-dynamics.manage-business-partners-customers-commerce.introduction
+- learn-dynamics.manage-business-partners-customers-commerce.enable-e-commerce
+- learn-dynamics.manage-business-partners-customers-commerce.manage-partners-websites
+- learn-dynamics.manage-business-partners-customers-commerce.manage-partner-users
+- learn-dynamics.manage-business-partners-customers-commerce.check
+- learn-dynamics.manage-business-partners-customers-commerce.summary
+badge:
+  uid: learn-dynamics.manage-business-partners-customers-commerce.badge

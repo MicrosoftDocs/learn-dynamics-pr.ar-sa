@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-subscription-billing-finance.milestone-billing
+title: الفوترة الجزئية
+metadata:
+  title: الفوترة الجزئية
+  description: تعرف عَلى الفوترة الرئيسية.
+  ms.date: 07/14/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b852c9aa68a20338d76b2f86b803bdfcd3c5328f
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179010"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/milestone-billing.md)]"

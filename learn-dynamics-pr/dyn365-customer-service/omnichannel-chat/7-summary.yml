@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص عناصر واجهة مستخدم قناة التوزيع في القناة متعددة الاتجاهات لوحدة Dynamics 365 Customer Service
-  ms.date: 09/21/2021
+  ms.date: 07/25/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4ecca725a85bce0b4e88f9dbc5ab893ea30921df
-  ms.sourcegitcommit: ee8abbb4633572b6df5b44bb1f5862c9f1c2aff8
+  ms.openlocfilehash: 44510e81a6d100602794ed40f90a058e7cc0ecb3
+  ms.sourcegitcommit: 6957b5d9f563db96585e658f36fdd8ec21ecaa5e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/23/2021
-  ms.locfileid: "7513455"
+  ms.lasthandoff: 07/26/2022
+  ms.locfileid: "9193713"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

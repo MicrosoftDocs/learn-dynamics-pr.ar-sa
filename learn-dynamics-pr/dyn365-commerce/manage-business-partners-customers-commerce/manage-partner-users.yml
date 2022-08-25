@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-business-partners-customers-commerce.manage-partner-users
+title: إدارة المستخدمين شركاء الأعمال
+metadata:
+  title: إدارة المستخدمين شركاء الأعمال
+  description: تعلم كيفية تحرير مستخدم شريك الأعمال أو إزالته.
+  ms.date: 07/05/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1530dd30decef08907f67ad00bea73c7fd98400a
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127620"
+durationInMinutes: 3
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/manage-partner-users.md)]

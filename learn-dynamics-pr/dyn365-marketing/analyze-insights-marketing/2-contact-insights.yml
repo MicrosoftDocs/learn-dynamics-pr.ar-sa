@@ -3,16 +3,16 @@ uid: learn-dynamics.analyze-insights-marketing.2-contact-insights
 title: معلومات جهة الاتصال
 metadata:
   title: معلومات جهة الاتصال
-  description: معلومات جهة الاتصال.
-  ms.date: 03/23/2021
+  description: تعرّف على رؤى جهات الاتصال.
+  ms.date: 08/02/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 21d00e9f1ae88551364b939573807d389d2ee0e5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fa43f59b1cc442f7e814c58ea622ac6c6594c567
+  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435458"
+  ms.lasthandoff: 08/03/2022
+  ms.locfileid: "9223487"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-contact-insights.md)]"

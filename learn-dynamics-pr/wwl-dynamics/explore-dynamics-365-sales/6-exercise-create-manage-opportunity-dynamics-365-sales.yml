@@ -4,17 +4,17 @@ title: 'تمرين: إنشاء الفرص وإدارتها في Dynamics 365 Sal
 metadata:
   title: 'تمرين: إنشاء الفرص وإدارتها في Dynamics 365 Sales'
   description: 'تمرين: إنشاء الفرص وإدارتها في Dynamics 365 Sales'
-  ms.date: 07/01/2022
+  ms.date: 07/25/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: b1e84133ce686bc9367348ab6fda3ea964bb365b
-  ms.sourcegitcommit: d1f057126533fd52a9c2698a01032040367971f3
+  ms.openlocfilehash: 810504e6224fdc2db80da52008e932b4cd2a4f09
+  ms.sourcegitcommit: 6b7bb919150719d7f2b88c34b66a535036d417d3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/01/2022
-  ms.locfileid: "9110719"
+  ms.lasthandoff: 07/25/2022
+  ms.locfileid: "9189062"
 azureSandbox: true
 labModal: false
 durationInMinutes: 15

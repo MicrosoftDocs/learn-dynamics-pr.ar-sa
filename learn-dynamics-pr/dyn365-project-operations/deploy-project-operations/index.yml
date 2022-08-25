@@ -3,19 +3,19 @@ uid: learn-dynamics.deploy-project-operations
 metadata:
   title: نشر سيناريوهات Dynamics 365 Project Operations
   description: تدعم Microsoft Dynamics 365 Project Operations خيارات نشر متعددة لعملاء Dynamics 365 الجدد والحاليين.
-  ms.date: 06/14/2021
+  ms.date: 07/06/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1a84613f7d9a153bdd208a06d0f4d19bc73c0abb
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c890baf1e4bae99eccab973cc180886e6f663b68
+  ms.sourcegitcommit: cdd0f36392a9256d954ea532b7da620bb501a9bb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748221"
+  ms.lasthandoff: 07/06/2022
+  ms.locfileid: "9123115"
 title: نشر سيناريوهات Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيدعم Microsoft Dynamics 365 Project Operations خيارات نشر متعددة لتتطابق مع متطلباتك. سواء كنت من عملاء Dynamics 365 الحاليين أو الجدد، بإمكان Project Operations دعم احتياجاتك.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر Dynamics 365 Project Operations لسيناريوهات المنتجات غير المخزنة أو المورد.\n- نشر Dynamics 365 Project Operations لسيناريوهات النشر الخفيف.\n- نشر Dynamics 365 Project Operations لسيناريوهات أوامر الإنتاج أو المنتجات المخزنة.\n- تكوين خرائط جدول ثنائية الكتابة وتشغيلها.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- نشر Dynamics 365 Project Operations لسيناريوهات المنتجات غير المخزنة أو المورد.\n- نشر Dynamics 365 Project Operations لسيناريوهات النشر الخفيف.\n- نشر Dynamics 365 Project Operations لسيناريوهات أوامر الإنتاج أو المنتجات المخزنة.\n- تكوين خرائط جدول ثنائية الكتابة وتشغيلها.\n"
 prerequisites: معرفة عامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365، ومعرفة كيفية استخدام تطبيقات Dynamics 365.
 iconUrl: /learn/achievements/deploy-project-operations.svg
 levels:

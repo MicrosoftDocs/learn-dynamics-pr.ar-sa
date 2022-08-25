@@ -3,20 +3,20 @@ uid: learn-dynamics.analyze-insights-marketing.12-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 03/23/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 08/02/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c04d589bdfc21218ef6f046ca815dabcc022773f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 59c3cd6a1cb04d50d42e8d009bfbf67cfe198658
+  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435408"
-durationInMinutes: 5
+  ms.lasthandoff: 08/03/2022
+  ms.locfileid: "9223507"
+durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي من عوامل التصفية التالية متاح في منطقة المعلومات؟
     choices:
@@ -32,17 +32,17 @@ quiz:
     - content: جهة الاتصال
       isCorrect: false
       explanation: لا يُمكنك التصفية من سجل جهة الاتصال في منطقة المعلومات.
-  - content: أي مما يلي يعد شرطًا أساسيًا لعرض معلومات رحلة العميل؟
+  - content: أي مما يلي يعد شرطاً أساسياً لعرض معلومات رحلة العميل؟
     choices:
     - content: تضمين الشرائح
       isCorrect: false
-      explanation: الشرائح ليست شرطًا أساسيًا لعرض المعلومات.
+      explanation: المقاطع ليست شرطاً أساسياً لعرض المعلومات.
     - content: تضمين بريد إلكتروني تسويقي
       isCorrect: false
       explanation: لا يتعين عليك تضمين بريد إلكتروني تسويقي لبدء إنشاء المعلومات وعرضها.
     - content: العرض المباشر
       isCorrect: true
-      explanation: يُعد العرض المباشر شرطًا أساسيًا يجب أن يحدث قبل أن يكون للكيان معلومات لعرضها وإظهارها.
+      explanation: يُعد العرض المباشر شرطاً أساسياً يجب أن يحدث قبل أن يكون للكيان معلومات لعرضها وإظهارها.
     - content: تعيين تاريخ البدء اليوم
       isCorrect: false
       explanation: تعيين تاريخ البدء اليوم ليس أحد المتطلبات المسبقة لعرض المعلومات.

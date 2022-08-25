@@ -1,13 +1,17 @@
 ---
-ms.openlocfilehash: 3ed5ac6a64364fe2b67c8e21aa6f74ade6dad14f
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: e56a4e3a2ac76caf50412b91e69938c86137981e
+ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024672"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "9224433"
 ---
 [!INCLUDE[](../../../includes/unit-banner.md)]
 [!INCLUDE[](../../../includes/accessing-labs.md)]
+
+## <a name="objective"></a>الهدف
+
+تحتاج إلى إنشاء عملية فرز للمنتجات ذات الصلة التي يتم تخصيصها لقناة تجارية محددة والتي سيتم توفيرها في تاريخ لاحق. في هذا التمرين العملي، ستتعلم كيفية إنشاء تشكيلة منتجات جديدة.
 
 ## <a name="lab-steps"></a>خطوات المعمل
 تحتاج إلى إنشاء عملية فرز للمنتجات ذات الصلة التي يتم تخصيصها لقناة تجارية محددة والتي سيتم توفيرها في تاريخ لاحق.

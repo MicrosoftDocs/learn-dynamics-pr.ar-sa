@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.settings
+title: إعدادات مستوى الموقع
+metadata:
+  title: إعدادات مستوى الموقع
+  description: تعرف عَلى الإعدادات عَلى مستوى الموقع.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8b8ef8755800c84a3042a188f916f9e52a73d231
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147321"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/settings.md)]"

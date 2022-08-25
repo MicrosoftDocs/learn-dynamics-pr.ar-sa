@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.order-management-b2b-commerce.place-orders
+title: تقديم الأوامر
+metadata:
+  title: تقديم الأوامر
+  description: تعرّف عَلى كيفية السماح للمستخدمين بالطلب بالجملة حسب رقم العنصر.
+  ms.date: 07/18/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0c0a927ade44e14908a27b062b17363af912451e
+  ms.sourcegitcommit: 5abc7315866e526226ae246e2126d76b2078ad04
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/12/2022
+  ms.locfileid: "9140517"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/place-orders.md)]

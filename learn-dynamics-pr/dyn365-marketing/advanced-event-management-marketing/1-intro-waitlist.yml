@@ -4,15 +4,15 @@ title: مقدمة
 metadata:
   title: مقدمة
   description: نظرة عامة على ميزات Dynamics 365 Marketing المتقدمة.
-  ms.date: 04/26/2021
+  ms.date: 07/07/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b365caa4d999d9e97c8279d1e0a0c1145f736fcb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1579c80960bb8bfa51b9b8d51255133656f912c1
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435531"
-durationInMinutes: 3
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127550"
+durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/1-intro-waitlist.md)]"

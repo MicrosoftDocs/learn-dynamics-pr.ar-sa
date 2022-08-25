@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.review-authentication-dynamics-365-marketing
 metadata:
-  title: راجع مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR في Dynamics 365 Marketing
-  description: تعرّف على مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR.
-  ms.date: 04/06/2021
+  title: راجع مصادقة المجال وأفضل ممارسات الرسالة الإلكترونية وGDPR في Dynamics 365 Marketing
+  description: تناقش هذه الوحدة النمطية أهمية مصادقة المجال وأفضل ممارسات الرسالة الإلكترونية وكيف يمكن لـ Dynamics 365 Marketing مساعدة المؤسسات على العمل وفقاً للقانون العام لحماية البيانات (GDPR).
+  ms.date: 07/27/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3c4cb20afa49721e055d17b7b87e8ac097bc720f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: f43bf13d58da662ece50babcd9a37ee034ec8baa
+  ms.sourcegitcommit: a8c62df9a18edce3c9952792c452ab1dbebe8d3d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748699"
-title: راجع مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR في Dynamics 365 Marketing
-summary: "[!include[](../includes/module-banner.md)] \n\nتعرّف على مصادقة المجال وأفضل ممارسات البريد الإلكتروني وGDPR.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على مصادقة المجال\n- تعرّف على أفضل ممارسات البريد الإلكتروني\n- تعرّف على الاحتفاظ بالبيانات وGDPR\n"
-prerequisites: بلا
+  ms.lasthandoff: 07/29/2022
+  ms.locfileid: "9207706"
+title: راجع مصادقة المجال وأفضل ممارسات الرسالة الإلكترونية وGDPR في Dynamics 365 Marketing
+summary: "[!include[](../includes/module-banner.md)] \nتعرّف على مصادقة المجال وأفضل ممارسات الرسالة الإلكترونية وGDPR.  \n"
+abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- قم بمصادقة مجالك في Dynamics 365 Marketing \n- بناء سمعة الإرسال وحمايتها\n- إعداد Dynamics 365 للتوافق مع القانون العام لحماية البيانات\n"
+prerequisites: المعرفة الأساسية بـ Dynamics 365 Marketing
 iconUrl: /learn/achievements/review-authentication-dynamics-365-marketing.svg
 levels:
 - intermediate

@@ -4,16 +4,16 @@ title: استخدام Customer Insights مع Microsoft Power Platform
 metadata:
   title: استخدام Customer Insights مع Microsoft Power Platform
   description: تعرف على كيفية استخدام Customer Insights مع Microsoft Power Platform.
-  ms.date: 05/31/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 07/26/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c9a21640748a5b6826c5e03fbcb9e2fd71dd2c9d
-  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
+  ms.openlocfilehash: 8bab146fac4cc982990e6b5f8c80b42c45099147
+  ms.sourcegitcommit: bf4797fc3a8b39430e1b6fddb7c06d5ab877a49a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/08/2022
-  ms.locfileid: "8944343"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9203411"
 durationInMinutes: 12
 content: >-
   [!include[](../includes/unit-banner.md)]

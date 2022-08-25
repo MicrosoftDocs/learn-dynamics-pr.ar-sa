@@ -4,17 +4,17 @@ title: استكشاف ميزات التوافق
 metadata:
   title: استكشاف ميزات التوافق
   description: استكشاف ميزات التوافق
-  ms.date: 06/17/2022
+  ms.date: 07/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 8b34ad404f3d4fdc71c5f02bc1c5f754fadbbab0
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 183a8defe3f8b50d078374068b76abeb5b8e22e8
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025000"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9132200"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2

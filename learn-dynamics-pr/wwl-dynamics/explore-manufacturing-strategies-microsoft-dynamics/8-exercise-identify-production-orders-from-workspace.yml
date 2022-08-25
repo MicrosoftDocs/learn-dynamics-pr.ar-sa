@@ -4,17 +4,17 @@ title: 'تدريب: إنشاء أمر إنتاج'
 metadata:
   title: 'تدريب: إنشاء أمر إنتاج'
   description: 'تدريب: إنشاء أمر إنتاج'
-  ms.date: 06/17/2022
+  ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: b88cdd1f03061d651590a18849ec0465bfbb7c6d
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: f47cddc4ffae290d45964b169a171be54951208d
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025468"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9225493"
 azureSandbox: false
 labId: 88380
 labModal: true

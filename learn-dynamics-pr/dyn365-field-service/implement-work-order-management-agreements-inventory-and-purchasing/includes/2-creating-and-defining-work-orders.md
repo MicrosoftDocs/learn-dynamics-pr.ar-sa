@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 889a91e6a48c00470c057d7e724d125a4fd100b2
-ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+ms.openlocfilehash: 93621fe674fc5a8709021b4ba93a02883bd3c273
+ms.sourcegitcommit: 51b5831dce806301f20590475f94c3b5fd75c070
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "7503778"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "9179472"
 ---
 توجد طرق متعددة لإنشاء أوامر العمل في Microsoft Dynamics 365 Field Service. وتلبي هذه المرونة مختلف احتياجات المنظمات.
 
@@ -56,7 +56,7 @@ ms.locfileid: "7503778"
 
 - **نوع الحدث**: في علامة التبويب **Field Service** في الحالة، حدد نوع الحدث. سيضمن ذلك ملء المنتجات والخدمات والمهام الضرورية بأمر العمل.
 
-- **كود ضريبة المبيعات**: في سجل حساب الفرصة، أدخِل كود ضريبة مبيعات افتراضي. إذا كان الحساب معفياً من الضرائب، فدون ذلك في سجل الحساب أيضاً.
+- **كود ضريبة المبيعات**: في سجل حساب الحالة، أدخِل كود ضريبة مبيعات افتراضياً. إذا كان الحساب معفياً من الضرائب، فدون ذلك في سجل الحساب أيضاً.
 
 ## <a name="other-considerations-for-creating-work-orders"></a>اعتبارات أخرى لإنشاء أوامر العمل
 

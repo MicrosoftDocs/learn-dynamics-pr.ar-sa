@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.get-started-manufacturing-business-central
+metadata:
+  title: بدء التصنيع في Microsoft Dynamics 365 Business Central
+  description: هل تقوم بتصنيع المنتجات؟ يساعدك مسار التعليم هذا على فهم الوظائف المتوفرة في Business Central لمساعدتك في إدارة أعمالك.
+  ms.date: 07/28/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics365-business-central
+  ms.openlocfilehash: 34908c08386b1f5ad4b054b4cd5d5e83437fe19a
+  ms.sourcegitcommit: a5ae886f19b83dd321b63dd465e0abd453150eae
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/30/2022
+  ms.locfileid: "9210610"
+title: بدء التصنيع في Microsoft Dynamics 365 Business Central
+summary: هل تقوم بتصنيع المنتجات؟ يساعدك مسار التعليم هذا على فهم الوظائف المتوفرة في Business Central لمساعدتك في إدارة أعمالك.
+prerequisites: "- فهم أساسي لتطبيق Dynamics 365 Business Central \n- المعرفة الأساسية بعملية التصنيع\n"
+iconUrl: /learn/achievements/get-started-manufacturing-business-central.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-business-central
+subjects:
+- manufacturing-processes
+modules:
+- learn-dynamics.production-bill-materials
+- learn-dynamics.configure-routings
+- learn-dynamics.manage-production-orders
+trophy:
+  uid: learn-dynamics.get-started-manufacturing-business-central.trophy

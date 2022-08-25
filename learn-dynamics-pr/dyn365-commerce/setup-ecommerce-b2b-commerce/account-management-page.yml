@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.account-management-page
+title: الصفحة المقصودة "إدارة الحساب"
+metadata:
+  title: الصفحة المقصودة "إدارة الحساب"
+  description: تعرف على صفحة إدارة الحساب المقصودة.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: efdfdb3927a23b7a35ff740979122b90c09fc320
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147329"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/account-management-page.md)]"

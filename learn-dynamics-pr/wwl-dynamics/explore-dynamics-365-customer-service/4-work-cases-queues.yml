@@ -4,17 +4,17 @@ title: التعامل مع الحالات وقوائم الانتظار
 metadata:
   title: التعامل مع الحالات وقوائم الانتظار
   description: التعامل مع الحالات وقوائم الانتظار
-  ms.date: 06/21/2022
+  ms.date: 07/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 54d6a0e2f22be7f35ae699978e35cc54813f85c7
-  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.openlocfilehash: b60c723cb129d47480a123494cdd01338c85eb70
+  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/24/2022
-  ms.locfileid: "9046958"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9201362"
 azureSandbox: false
 labModal: false
 durationInMinutes: 5

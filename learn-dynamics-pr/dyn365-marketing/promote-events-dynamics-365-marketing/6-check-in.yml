@@ -4,15 +4,15 @@ title: عرض حضور الحدث وإدارته
 metadata:
   title: عرض حضور الحدث وإدارته
   description: تعرّف على عرض حضور الحدث وإدارته.
-  ms.date: 04/27/2021
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3fa5b62abd9f5eb6a99213c7790d06250ced9c8c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 53ee9de9e52ef42555f7e4fa1581a50b8746cfe5
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435391"
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127440"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-check-in.md)]"

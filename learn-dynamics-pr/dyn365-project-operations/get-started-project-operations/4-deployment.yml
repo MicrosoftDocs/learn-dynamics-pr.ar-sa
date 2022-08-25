@@ -4,15 +4,15 @@ title: أنواع النشر
 metadata:
   title: أنواع النشر
   description: تعرف على خيارات النشر المتعددة في Dynamics 365 Project Operations.
-  ms.date: 04/08/2021
+  ms.date: 07/04/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: adb61927acb080273b98adfee92701b70a73f6ab
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6ac8fab405a6ae8a593526234f22ce0a21416ab6
+  ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364133"
+  ms.lasthandoff: 07/05/2022
+  ms.locfileid: "9114733"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-deployment.md)]"

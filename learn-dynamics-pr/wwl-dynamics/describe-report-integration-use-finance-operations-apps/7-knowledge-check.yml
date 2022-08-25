@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: ‏التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 06/24/2022
+  ms.date: 08/05/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: ed2e74adab11f378ea1db38071390d9c6953c3cf
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: 87f43a90352a11f4a04e060e2d7e389bc0dd4dde
+  ms.sourcegitcommit: 7301a88a9d669770be83ee33acd00b0025a7a728
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9062864"
+  ms.lasthandoff: 08/06/2022
+  ms.locfileid: "9231750"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -34,7 +34,7 @@ quiz:
     - content: إعداد التقارير المالية
       isCorrect: true
       explanation: صحيح. إعداد التقارير المالية هي أداة لإعداد التقارير تُستخدم لإنشاء التقارير المالية.
-  - content: يمكنك استخدام Power BI Desktop لإنشاء تقارير Power BI. يمكنك إنشاء صفحات متعددة في Power BI Desktop وتصميم التقارير في كل صفحة. تحتاج إلى تطبيق عامل تصفية واحد لتصفية كل بيانات صفحة التقرير. ما الخيار الذي ينبغي تحديده؟
+  - content: يمكنك استخدام Power BI Desktop لإنشاء تقارير Power BI. يمكنك إنشاء صفحات متعددة في Power BI Desktop وتصميم التقارير في كل صفحة. تحتاج إلى تطبيق عامل تصفية واحد لتصفية البيانات لجميع صفحات التقرير. ما الخيار الذي ينبغي تحديده؟
     choices:
     - content: تقرير
       isCorrect: true

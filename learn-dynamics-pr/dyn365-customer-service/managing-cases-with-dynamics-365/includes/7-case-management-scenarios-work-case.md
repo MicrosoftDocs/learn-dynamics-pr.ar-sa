@@ -1,14 +1,15 @@
 ---
-ms.openlocfilehash: cf8919f3422eaf52cf93a21cb1409462e77bceac
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e9ba997d7fb2bc1b0d188e554a08a9d36bc1c9f3
+ms.sourcegitcommit: 7301a88a9d669770be83ee33acd00b0025a7a728
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7334381"
+ms.lasthandoff: 08/06/2022
+ms.locfileid: "9231411"
 ---
 لنتعرف على كيفية استخدام هذه الميزات في حل حالة أرسلها أحد العملاء.
 
-![رسم تخطيطي لعينة دورة حياة من المكالمة الهاتفية إلى الحالة.](../media/cm_unit5_5.png)
+> [!div class="mx-imgBorder"]
+> [![رسم تخطيطي لعينة دورة حياة من المكالمة الهاتفية إلى الحالة.](../media/cm_unit5_5.png)](../media/cm_unit5_5.png#lightbox)
 
 Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works. تتصل بمرسِل مركزي للإبلاغ عن مشكلة تواجهها الشركة. يُنشئ المُرسِل نشاط مكالمة هاتفية للمشكلة في Dynamics 365.
 
@@ -27,7 +28,7 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
 
     - يقضي المندوب 30 دقيقة في البحث والعمل على حل مشكلة Nancy.
     - يجد المندوب حلاً للمشكلة في مقالة معرفية موجودة في قاعدة المعارف.
-    - يرسل المندوب المقالة إلى Nancy عبر البريد الإلكتروني ويربطها بالحالة بوصفها الحل.
+    - يرسل المندوب المقالة إلى Nancy عبر الرسالة الإلكترونية ويربطها بالحالة بوصفها الحل.
     - يتم إنشاء مهمة تصف ما تم إنجازه والمدة التي استغرقتها (إجمالي 30 دقيقة في هذا المثال).
 
 - **الحل:** يغلق المندوب الحالة على أنها محلولة.
@@ -46,7 +47,8 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
 
 تعرض الصورة التالية بعض الأمثلة على كيفية استخدام التدرجات الهرمية للحالات في مؤسسة لدعم العملاء.
 
-![رسم تخطيطي للتدرجات الهرمية للحالات (الحالات الأصل/التابعة).](../media/cm_unit5_6.png)
+> [!div class="mx-imgBorder"]
+> [![رسم تخطيطي للتدرجات الهرمية للحالات (الحالات الأصل/التابعة).](../media/cm_unit5_6.png)](../media/cm_unit5_6.png#lightbox)
 
 ### <a name="important-case-hierarchy-information"></a>معلومات مهمة عن التدرج الهرمي للحالات
 
@@ -77,7 +79,8 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
 
 تعرض الصورة التالية بعض حالات الاستخدام المحتملة لهذه الميزة.
 
-![رسم تخطيطي لأمثلة لدمج الحالات في Dynamics 365.](../media/cm_unit5_7.png)
+> [!div class="mx-imgBorder"]
+> [![رسم تخطيطي لأمثلة لدمج الحالات في Dynamics 365.](../media/cm_unit5_7.png)](../media/cm_unit5_7.png#lightbox)
 
 ### <a name="additional-considerations-for-case-merging"></a>اعتبارات إضافية لدمج الحالات
 
@@ -95,8 +98,6 @@ Nancy Anderson هي عميلة تعمل في شركة تُدعى Adventure Works
 
 > [!NOTE]
 > تتم عمليات دمج السجلات البرمجية خارج نطاق هذه الوحدة.
-
-شاهِد الفيديو التالي حول العمل على حل الحالة.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IM1e]
 

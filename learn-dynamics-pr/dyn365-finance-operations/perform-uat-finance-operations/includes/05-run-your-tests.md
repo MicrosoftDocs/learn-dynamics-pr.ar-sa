@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a0d9ea0758c0320693328591e06f91f22d91024a
-ms.sourcegitcommit: 30fe1e3724fe666c25c4096a05197776b33ae54e
+ms.openlocfilehash: 8c858aa71c5b1d5ed5c2c0fc6a0a7c3fc3e9e154
+ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "8743306"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "9178640"
 ---
 لإجراء اختبارات قبول المستخدم، ستحتاج إلى إنشاء خطة اختبار ومجموعة اختبارات في Azure DevOps. وسيسمح لك هذا بإجراء مجموعة منظمة من حالات الاختبار وإدارة النتائج والاستقصاء عنها وتعقبها بسهولة.
 
@@ -43,6 +43,14 @@ ms.locfileid: "8743306"
 تعمل Regression Suite Automation Tool (RSAT) على خفض الوقت والتكلفة لاختبارات قبول المستخدم (UAT) بشكلٍ ملحوظ. كما تتيح RSAT لمستخدمي الطاقة الوظيفية تسجيل مهام العمل باستخدام "مسجل المهام" ثم تحويل التسجيلات إلى مجموعة من الاختبارات المؤتمتة دون الحاجة إلى كتابة كود مصدر. تعد RSAT متكاملة تماماً مع Microsoft Azure DevOps لتنفيذ الاختبارات وإعداد التقارير والتحقق. يتم إلغاء إقران معلمات الاختبارات من خطوات الاختبارات وتخزينها في ملفات بتنسيق Microsoft Excel.
 
 تنزيل الأداة ودليل المستخدم من [تطبيقات التمويل والعمليات، Regression Suite Automation Tool](https://www.microsoft.com/download/details.aspx?id=57357).
+
+#### <a name="trial-without-azure-devops-license"></a>إصدار تجريبي دون ترخيص Azure DevOps
+إذا لم يكن لدى مؤسستك حالياً اشتراك في ترخيص مستخدم خطة Azure DevOps الاختبارية، فلا تزال هناك خيارات لتشغيل نسخة تجريبية من أداة RSAT دون الاتصال بـ Azure DevOps. سيسمح لك ذلك باكتساب نظرة ثاقبة وتجربة قدرات أتمتة اختبار RSAT شخصياً قبل الالتزام الكامل بالاشتراك في Azure DevOps. 
+
+مع القدرة على تشغيل RSAT على أساس تجريبي دون الاشتراك في Azure DevOps، يمكن للمستخدم تحميل تسجيلات المهام يدوياً في RSAT. نظراً لأن هذا إصدار تجريبي، فإن المستخدم الذي يقوم بتحميل تسجيلات المهام فقط سيكون لديه القدرة على تشغيل أتمتة الاختبار من خلال الأداة. سيمكن تشغيل الإصدار التجريبي المستخدم من رؤية فوائد الأداة لمؤسسته قبل الالتزام باشتراك Azure DevOps. للوصول الكامل والقدرة على تشغيل RSAT كالمعتاد مع الاتصال بـ Azure DevOps. 
+
+للحصول على معلومات حول شراء ترخيص، راجع [تسعير Azure](https://azure.microsoft.com/pricing/details/devops/azure-devops-services).
+
 
 لمعرفة كيفية إنشاء خطة اختبار في Azure DevOps لاستخدامها مع الأداة "RSAT"، شاهد هذا الفيديو.
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4vx0I]

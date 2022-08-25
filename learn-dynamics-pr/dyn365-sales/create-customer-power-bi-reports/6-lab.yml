@@ -4,16 +4,16 @@ title: تمرين - الاتصال بالبيانات Dynamics 365 Customer Voic
 metadata:
   title: تمرين - الاتصال بالبيانات Dynamics 365 Customer Voice باستخدام Power BI
   description: خطوات الاتصال ببيانات Dynamics 365 Customer Voice باستخدام Power BI.
-  ms.date: 07/21/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/03/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: 4c20717bc564c0814cfc748f914f8a227b9f909d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a53cc637b3bfb31171961902242f921aa05e3c44
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7436208"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9224541"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-lab.md)]"

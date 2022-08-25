@@ -3,22 +3,22 @@ uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 metadata:
   title: تعلُّم أساسيات Dynamics 365 Supply Chain Management
   description: تعلُّم أساسيات Dynamics 365 Supply Chain Management
-  ms.date: 06/17/2022
+  ms.date: 07/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: 370d545a9267f7649d71cab7af150d8868274f99
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 90cffc4118533ef9a2319c2a37f716dc091f38fb
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9024283"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9132789"
 title: تعلُّم أساسيات Dynamics 365 Supply Chain Management
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
-  هل أنت جديد في Microsoft Dynamics 365؟ تقدم لك هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لإدارة موارد المؤسسة، وما تشترك فيه، إضافة إلى كلٍّ من تطبيقات financeوoperations. ابدأ بمسار التعليم هذا لمعرفة المزيد عن Dynamics 365 Supply Chain Management.
+  يقدم مسار التعليم هذا للمتعلمين تطبيقات Dynamics 365 Supply Chain Management. ستتعرف على الوظائف الأساسية للمنتج بالإضافة إلى مناقشة إمكانيات المستودعات والمخزون وكيفية عملها مع الاستفادة من استراتيجيات التصنيع المختلفة.
 iconUrl: /learn/achievements/dynamics-supply-chain-management.svg
 levels:
 - beginner

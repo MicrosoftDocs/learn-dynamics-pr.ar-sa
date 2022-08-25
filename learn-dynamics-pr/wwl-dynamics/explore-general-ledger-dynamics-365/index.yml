@@ -3,29 +3,29 @@ uid: learn.wwl.explore-general-ledger-dynamics-365
 metadata:
   title: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
   description: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
-  ms.date: 06/16/2022
+  ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: db06025e143a5a830e1d91d07af776dc895f3058
-  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.openlocfilehash: 67b0887a7f9103f4169a2743d918f830bd14186c
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/16/2022
-  ms.locfileid: "9021224"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9225593"
 title: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
-summary: تستكشف هذه الوحدة إمكانات Microsoft Dynamics 365 Finance لإدارة العمليات المحاسبية لتصنيف أصول الشركة وخصومها وحركاتها المالية وفرزها وتخزينها وتلخيصها.
+summary: في هذه الوحدة النمطية، ستكتشف دليل الحسابات، ثم تستكشف الأنواع المختلفة للأبعاد المالية وكيفية إعدادها. سوف يتم أيضاً الاطلاع على العمليات المالية الدورية.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
-  *   وصف مخططات الحسابات، بما في ذلك الحسابات الرئيسية، والميزانيات العمومية، وبيانات الإيرادات
+  *   وصف أدلة الحسابات، بما في ذلك الحسابات الرئيسية والتصنيف.
 
-  *   وصف الأبعاد المالية ومفاهيم مجموعة الأبعاد
+  *   وصف الأبعاد المالية ومفاهيم مجموعة الأبعاد.
 
-  *   وصف العمليات المالية الدورية
+  *   وصف العمليات المالية الدورية.
 prerequisites: >
-  بلا
+  يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 iconUrl: /learn/achievements/dynamics-general-ledger.svg
 levels:
 - beginner

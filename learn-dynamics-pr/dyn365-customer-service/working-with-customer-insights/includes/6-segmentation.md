@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f4fe49a9ac71d8b05d7f02eb23efa46d65841c4d
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: fe34d020c4cbe34c321fe7e2fe3cc15411231c7d
+ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024840"
+ms.lasthandoff: 08/03/2022
+ms.locfileid: "9223069"
 ---
 تسمح لك إمكانية التقسيم بتجميع عملائك بالاستناد إلى السمات الديموغرافية أو سمات الحركات أو السمات السلوكية. ويمكنك استخدام التقسيم لاستهداف الحملات الترويجية وأنشطة المبيعات وإجراءات دعم العملاء لتحقيق أهداف عملك.
 

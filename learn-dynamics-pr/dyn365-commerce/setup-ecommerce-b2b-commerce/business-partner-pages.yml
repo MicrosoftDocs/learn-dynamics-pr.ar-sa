@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.business-partner-pages
+title: إنشاء صفحات تسجيل شركاء الأعمال
+metadata:
+  title: إنشاء صفحات تسجيل شركاء الأعمال
+  description: تعرف على كيفية إنشاء صفحات تسجيل شركاء الأعمال.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: bc732928d42d5147a152aa98e3453b874648f999
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147304"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/business-partner-pages.md)]"

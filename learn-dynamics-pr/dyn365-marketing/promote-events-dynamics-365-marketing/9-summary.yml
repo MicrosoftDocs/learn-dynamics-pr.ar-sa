@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص الترويج للأحداث وإدارة التسجيل وتسجيلات الوصول ومراجعة النتائج في Dynamics 365 Marketing
-  ms.date: 04/27/2021
+  ms.date: 07/06/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f8bf929e0aa338ab20f5edd7241bc0fa789a8e63
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b2e1331ef84ec9ea7839061291f1696ad8e01e6e
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435368"
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127500"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-summary.md)]"

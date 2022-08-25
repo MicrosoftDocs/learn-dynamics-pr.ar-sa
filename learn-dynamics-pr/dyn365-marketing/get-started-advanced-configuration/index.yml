@@ -2,35 +2,38 @@
 uid: learn-bizapps.get-started-advanced-configuration
 metadata:
   title: التكوين المتقدم لتطبيق Dynamics 365 Marketing
-  description: يستخدم المسؤولون الإعدادات المتقدمة لتحسين سلوك التطبيق وتعيين الإعدادات الافتراضية والتحقق من الحصص النسبية‬ وإدارة ميزات الحدث وغيرها.
-  ms.date: 04/12/2021
+  description: يستخدم المسؤولون الإعدادات لضبط سلوك التطبيق وتعيين الإعدادات الافتراضية للتسويق والتحقق من الحصص وإدارة إعدادات التسويق الأساسية والمزيد.
+  ms.date: 07/26/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0c2c9572fc0bbb7251065d20f7bb0e99ff3b4971
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 6488ceb047acb3e4bab6a1647e75c3c201e55aad
+  ms.sourcegitcommit: f51d71bff43719bbbb8675596717d5d472dff9bd
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748230"
+  ms.lasthandoff: 07/28/2022
+  ms.locfileid: "9204071"
 title: التكوين المتقدم لتطبيق Dynamics 365 Marketing
-summary: >
-  [!include[](../includes/module-banner.md)]
-
-  يستخدم المسؤولون الإعدادات المتقدمة لتحسين سلوك التطبيق وتعيين الإعدادات الافتراضية والتحقق من الحصص النسبية‬ وإدارة ميزات الحدث وغيرها.
+summary: "[!include[](../includes/module-banner.md)]\nيستخدم المسؤولون الإعدادات لضبط سلوك التطبيق وتعيين الإعدادات الافتراضية للتسويق والتحقق من الحصص وإدارة إعدادات التسويق الأساسية والمزيد. \n"
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  في هذه الوحدة، ستتعرف على كيفية القيام بما يلي:
 
-  - تكوين الإعدادات المتقدمة، ومنها الإعدادات الخاصة بالمؤسسة وإدارة الأعمال والتسويق وإدارة الأحداث.
+  - الوصول إلى منطقة الإعدادات داخل Dynamics 365 Marketing
 
-  - مراجعة حدود الحصة النسبية.
+  - عرض الإصدارات وحدود حصة أرباح البائع النسبية وحدود الاستخدام.
 
-  - إدارة المحتوى التسويقي، مثل الصور والكلمات الأساسية ومجموعات المحتوى القابل لإعادة الاستخدام ومقاطع الفيديو.
+  - قم بتحديث الإعدادات الافتراضية للصفحات المقصودة ورسائل الرسالة الإلكترونية ورحلات العملاء والمزيد.
 
-  - إدارة القوالب.
+  - يمكنك إدارة إعدادات مشاركة العملاء بما في ذلك إعدادات التوافق وتكوين الجمهور وإعداد الإخطارات المباشرة وموفر الرسائل النصية القصيرة (SMS) وإدارة حساب الوسائط الاجتماعية والمزيد.
 
-  - دمج Microsoft Dynamics 365 Marketing مع LinkedIn.
-prerequisites: فهم أساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 وفهم أساسي لتطبيق Marketing application
+  - قم بتشغيل ميزات التعاون والدردشة في Microsoft Teams لاستخدامها داخل تطبيق التسويق.
+
+  - قم بإعداد الاتصالات بموفري ندوات الإنترنت وإدارة الإعدادات الافتراضية للأحداث.
+
+  - حدد كيفية مطابقة عمليات إرسال النماذج مع جهات الاتصال أو العملاء المتوقعين الموجودين وقم بتكوين نقاط العملاء المتوقعين وقم بتمكين Microsoft Dynamics 365 Connector لـ LinkedIn Lead Gen لبيئتك.
+
+  - حدد الكيانات التي تريد مزامنتها مع Dynamics 365 Marketing وقم بتوصيل بيئة Dynamics 365 Marketing الخاصة بك بـ Blob Storage Microsoft Azure، وقم بتوصيل Customer Insights ببيئة Dynamics 365 Marketing الخاصة بك.
+prerequisites: الفهم الأساسي لتطبيق Marketing
 iconUrl: /learn/achievements/advanced-configuration-marketing.svg
 levels:
 - intermediate
@@ -48,10 +51,12 @@ units:
 - learn-bizapps.get-started-advanced-configuration.2-overview-settings
 - learn-bizapps.get-started-advanced-configuration.3-email-marketing-settings
 - learn-bizapps.get-started-advanced-configuration.4-engage-customers
+- learn-bizapps.get-started-advanced-configuration.collaboration
 - learn-bizapps.get-started-advanced-configuration.5-configuring-event-management-settings
 - learn-bizapps.get-started-advanced-configuration.6-lead-management
 - learn-bizapps.get-started-advanced-configuration.7-data-management
 - learn-bizapps.get-started-advanced-configuration.8-other-settings
+- learn-bizapps.get-started-advanced-configuration.customize-marketing
 - learn-bizapps.get-started-advanced-configuration.9-knowledge-check
 - learn-bizapps.get-started-advanced-configuration.10-summary
 badge:

@@ -4,17 +4,17 @@ title: اكتشف العملاء والأنشطة
 metadata:
   title: اكتشف العملاء والأنشطة
   description: اكتشف العملاء والأنشطة
-  ms.date: 06/20/2022
+  ms.date: 07/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: d0d964cb92a0f8f4aa77c28822c30947f1f86ae3
-  ms.sourcegitcommit: 4b4b1bba9a2bd140f82ed4c36b363420921f41ce
+  ms.openlocfilehash: 6b663cc7c3e10a3853838d703f142a0fa8e4f0f4
+  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/20/2022
-  ms.locfileid: "9032345"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9201282"
 azureSandbox: false
 labModal: false
 durationInMinutes: 4

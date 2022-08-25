@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.business-intelligence-patterns-finance-operations.common-pitfalls-planning-solutions
+title: أفضل الممارسات والصعوبات الشائعة مع حلول المعلومات المهنية وإعدادات تخطيط التقارير
+metadata:
+  title: أفضل الممارسات والصعوبات الشائعة مع حلول المعلومات المهنية وإعدادات تخطيط التقارير
+  description: تعرف على كيفية التعامل مع المعلومات المهنية (BI) وإعداد التقارير باستخدام الأساليب التي تستند إلى السيناريو والإرشادات حول الأنماط الجيدة (أفضل الممارسات) والأنماط المضادة (الصعوبات).
+  ms.date: 07/14/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 84ad683848a2c81cc2ffb099729360b074b0a88e
+  ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9150795"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/common-pitfalls-planning-solutions.md)]"

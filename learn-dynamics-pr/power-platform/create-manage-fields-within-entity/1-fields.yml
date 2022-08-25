@@ -4,18 +4,18 @@ title: تعريف الأعمدة في Microsoft Dataverse
 metadata:
   title: تعريف الأعمدة في Dataverse
   description: اعرف كيفية تعريف الأعمدة في Dataverse.
-  ms.date: 02/25/2021
+  ms.date: 07/08/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 896b8bbf5bbf46f69e613d037a9121e955eeea63
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c84a4e68806fd847da6ffb31585e93e572ff690b
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457376"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9132669"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

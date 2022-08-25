@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.manage-business-partners-customers-commerce.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/05/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 11912114764a78052b1fe80c27b25d6611940671
+  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/07/2022
+  ms.locfileid: "9127614"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الوظائف التي تحتاج إلى تشغيلها في Commerce headquarters لتحديث التغييرات التي تم إجراؤها على المستخدمين في مؤسسة شريك أعمال من موقع التجارة الإلكترونية B2B إلى Commerce headquarters وقواعد بيانات القناة؟
+    choices:
+    - content: P-0001 و1010 (العملاء)
+      isCorrect: true
+      explanation: صحيح. ستعمل هاتان الوظيفتان على مزامنة البيانات مع Commerce headquarters وقاعدة بيانات القناة من موقع التجارة الإلكترونية B2B.
+    - content: لا شيء
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لن يتم إجراء التغييرات ما لم يتم تشغيل وظائف P-001 و1010 في Commerce headquarters.
+    - content: 1210 و1170
+      isCorrect: false
+      explanation: ‏‫غير صحيح. تهدف هذه الوظائف إلى تشغيل خدمات التسعير ومسجلات مهام نقاط البيع الموحدة، وليس لمزامنة بيانات مستخدم الأعمال مع Commerce headquarters أو قاعدة بيانات القناة.
+  - content: هل هذه العبارة خاطئة؟ يمكنك إضافة عملاء حاليين في Commerce headquarters ليكونوا شركاء أعمال في موقع التجارة الإلكترونية B2B.
+    choices:
+    - content: هذه العبارة خاطئة.
+      isCorrect: false
+      explanation: ‏‫غير صحيح. يمكنك إضافة عملاء حاليين من Commerce headquarters ليكونوا شركاء أعمال على موقع التجارة الإلكترونية B2B الخاص بك.
+    - content: العبارة صحيحة
+      isCorrect: true
+      explanation: صحيح. يمكنك إضافة عملاء حاليين من Commerce headquarters ليكونوا شركاء أعمال على موقع التجارة الإلكترونية B2B الخاص بك.
+  - content: ما هي الميزة داخل Commerce headquarters التي تحتاج إلى تمكينها للسماح بإدارة مستخدم مؤسسة شريك الأعمال؟
+    choices:
+    - content: كل ميزات وحدة البيع بالتجزئة والتجارة
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لا تحتاج إلى تمكين جميع ميزات الوحدة النمطية للبيع بالتجزئة والتجارة لإدارة المؤسسات الشريكة للتجارة الإلكترونية B2B والمستخدمين.
+    - content: ميزة **تمكين استخدام إمكانات التجارة الإلكترونية B2B**
+      isCorrect: true
+      explanation: صحيح. سيتعين عليك تمكين **تمكين استخدام ميزة إمكانيات التجارة الإلكترونية لـ B2B** لإنشاء سجلات التدرج الهرمي للعميل في Commerce headquarters. ستتيح لك هذه الميزة إدارة مؤسسات شركاء الأعمال ومستخدميها.
+    - content: لا توجد ميزات تحتاج إلى التمكين
+      isCorrect: false
+      explanation: ‏‫غير صحيح. ستحتاج إلى تمكين ميزة لضمان إمكانية إدارة المؤسسة ومستخدمي شركاء الأعمال في التجارة الإلكترونية B2B بشكل صحيح.

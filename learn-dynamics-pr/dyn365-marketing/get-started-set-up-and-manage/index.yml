@@ -2,26 +2,34 @@
 uid: learn-bizapps.get-started-set-up-and-manage
 metadata:
   title: إعداد Dynamics 365 Marketing وإدارته
-  description: تحويل المتطوعين المحتملين إلى علاقات عمل باستخدام Microsoft Dynamics 365 Marketing. تجاوز التسويق الأساسي عبر البريد الإلكتروني لتحديد المزيد من العملاء المتوقعين الجاهزين للمبيعات. سهولة ربط المبيعات والتسويق وأتمتة العمليات واتخاذ قرارات أكثر ذكاءً لزيادة عائد الاستثمار التسويقي إلى أقصى حد.
-  ms.date: 05/14/2021
+  description: هل أنت مهتم بتطبيقات التسويق؟ تشرح هذه الوحدة كيفية التسجيل للحصول على إصدار تجريبي مجاني أو شراء Dynamics 365 Marketing. كما تشرح كيفية إعداد بيئة التسويق الخاصة بك وإدارتها. بعد إعداد تطبيق Marketing، يمكنك البدء في إنشاء رحلات مخصصة ونماذج وصفحات تسويق وأحداث واستطلاعات للوصول إلى عملائك وإشراكهم عبر جميع نقاط الاتصال.
+  ms.date: 07/08/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 22a4e8d851db5bf0fef258ccbee0802d5b7d87f8
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2dd641bbb3419201c168273d8480d8ee6ff02a7b
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749420"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9132370"
 title: إعداد Dynamics 365 Marketing وإدارته
-summary: "[!include[](../includes/module-banner.md)]\n\nتحويل المتطوعين المحتملين إلى علاقات عمل باستخدام Microsoft Dynamics 365 Marketing. تجاوز التسويق الأساسي عبر البريد الإلكتروني لتحديد المزيد من العملاء المتوقعين الجاهزين للمبيعات. سهولة ربط المبيعات والتسويق وأتمتة العمليات واتخاذ قرارات أكثر ذكاءً لزيادة عائد الاستثمار التسويقي إلى أقصى حد. \n"
+summary: "[!include[](../includes/module-banner.md)]\nهل أنت مهتم بتطبيقات التسويق؟ تشرح هذه الوحدة كيفية التسجيل للحصول على إصدار تجريبي مجاني أو شراء Dynamics 365 Marketing.  \n"
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  ستتعلم في هذه الوحدة كيفية:
 
-  - تعرّف على Dynamics 365 Marketing
+  - التسجيل للحصول على إصدار تجريبي مجاني من Dynamics 365 Marketing
 
-  - تعرّف على طريقة إعداد Dynamics 365 Marketing وإدارته
-prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيقات Dynamics 365.
+  - شراء Dynamics 365 Marketing وإعداده
+
+  - إعادة تشغيل معالج الإعداد
+
+  - إدارة بيئات التسويق
+
+  - تحديث تطبيق التسويق
+
+  - إزالة تثبيت خدمات Dynamics 365 Marketing
+prerequisites: فهم أساسي لكيفية التنقل في تطبيقات Dynamics 365.
 iconUrl: /learn/achievements/set-up-and-manage-marketing.svg
 levels:
 - intermediate
@@ -38,6 +46,7 @@ units:
 - learn-bizapps.get-started-set-up-and-manage.1-introduction
 - learn-bizapps.get-started-set-up-and-manage.2-trial
 - learn-bizapps.get-started-set-up-and-manage.3-purchase
+- learn-dynamics.get-started-set-up-and-manage.portal-integrate
 - learn-bizapps.get-started-set-up-and-manage.4-modify
 - learn-bizapps.get-started-set-up-and-manage.5-manage
 - learn-bizapps.get-started-set-up-and-manage.6-up-to-date

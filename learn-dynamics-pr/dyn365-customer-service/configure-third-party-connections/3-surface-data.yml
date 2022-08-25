@@ -4,16 +4,16 @@ title: عرض بيانات العميل في تطبيقات Dynamics 365
 metadata:
   title: عرض بيانات العميل في تطبيقات Dynamics 365
   description: تعرّف على كيفية عرض بيانات العميل في تطبيقات Dynamics 365.
-  ms.date: 05/31/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 07/26/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 29bf9a4f5d2f4595a3e105b2de858460af4a037b
-  ms.sourcegitcommit: f4925b59501cb326204c28003f877391ab7cb41f
+  ms.openlocfilehash: d68c649a6d77e098ef9ee623a691ade772c45573
+  ms.sourcegitcommit: bf4797fc3a8b39430e1b6fddb7c06d5ab877a49a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/08/2022
-  ms.locfileid: "8944293"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9203321"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

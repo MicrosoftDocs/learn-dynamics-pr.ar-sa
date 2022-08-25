@@ -3,26 +3,26 @@ uid: learn.wwl.learn-fundamentals-dynamics-365-customer-service
 metadata:
   title: تعرف على أساسيات Microsoft Dynamics 365 Customer Service
   description: تعرف على أساسيات Microsoft Dynamics 365 Customer Service
-  ms.date: 04/27/2022
+  ms.date: 07/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: dcf2f5a6f976c5e55d962c876581901884e2ebfb
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 37b5287088563f38c9ccbeac6a9a233d68a965c7
+  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752007"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9201203"
 title: تعرف على أساسيات Microsoft Dynamics 365 Customer Service
 prerequisites: >
-  بلا
+  لا شيء
 summary: >
   يقدم مسار التعليم هذا للمتعلمين Dynamics 365 Customer Service. سوف تتعرف على إمكانات المنتج الأساسية والأدوات الأخرى التي يمكنك استخدامها لإدارة عملية الدعم للعملاء بفعالية وكفاءة.
 video:
   title: 'فيديو المقدمة: التعرف على أساسيات Microsoft Dynamics 365 Customer Service‏'
   url: https://www.microsoft.com/videoplayer/embed/RE4U2cE
-iconUrl: /learn/achievements/generic-trophy.svg
+iconUrl: /learn/achievements/learn-the-fundamentals-of-microsoft-dynamics-365-customer-service.svg
 levels:
 - beginner
 roles:
@@ -34,8 +34,8 @@ products:
 - dynamics-365
 - dynamics-customer-service
 subjects:
-- customer-relationship-management
 - communication
+- customer-relationship-management
 - knowledge-management
 modules:
 - learn.wwl.explore-dynamics-365-customer-service

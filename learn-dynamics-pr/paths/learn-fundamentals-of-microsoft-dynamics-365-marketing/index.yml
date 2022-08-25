@@ -3,26 +3,26 @@ uid: learn.wwl.learn-fundamentals-of-microsoft-dynamics-365-marketing
 metadata:
   title: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
   description: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
-  ms.date: 04/27/2022
+  ms.date: 07/26/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: b33e38aa827e5dfb5bb4db079a3e30060aa46f03
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 0695bca7666db8666d68f0d01ea8b7115b2f162b
+  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751980"
+  ms.lasthandoff: 07/27/2022
+  ms.locfileid: "9201116"
 title: تعلُّم أساسيات Microsoft Dynamics 365 Marketing
 prerequisites: >
-  بلا
+  لا شيء
 summary: >
   يقدم مسار التعليم هذا للمتعلمين الإمكانات الأساسية لـ Dynamics 365 Marketing.  ستتعرف على إمكانات المنتج الأساسية والأدوات الأخرى التي يمكنك استخدامها لإدارة أنشطة التسويق بنجاح وفعالية.
 video:
   title: 'فيديو المقدمة: التعرف على أساسيات Microsoft Dynamics ‏365 Marketing'
   url: https://www.microsoft.com/videoplayer/embed/RE4UczX
-iconUrl: /learn/achievements/generic-trophy.svg
+iconUrl: /learn/achievements/learn-the-fundamentals-of-microsoft-dynamics-365-marketing.svg
 levels:
 - beginner
 roles:

@@ -1,13 +1,17 @@
 ---
-ms.openlocfilehash: 4a244b115a5dfb938d6d98ad515c00676233d860
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: dbd5cccb4147151dadafc9d6033fc6ebf37189a0
+ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021444"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "9225068"
 ---
 [!INCLUDE[](../../../includes/unit-banner.md)]
 [!INCLUDE[](../../../includes/accessing-labs.md)]
+
+## <a name="objective"></a>الهدف
+
+الحساب الرئيسي هو المكون الرئيسي لمخطط الحسابات. هذا يساعد في هيكلة نظام المحاسبة للمؤسسة. في هذا التمرين المعملي، ستتعرف على واجهة المستخدم الخاصة بالحساب الرئيسي. سوف تتعلم أيضاً كيفية إنشاء حساب رئيسي جديد لمؤسستك.
 
 ## <a name="lab-steps"></a>خطوات المعمل
 

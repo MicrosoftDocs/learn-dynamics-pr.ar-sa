@@ -1,13 +1,17 @@
 ---
-ms.openlocfilehash: 9c34bdc9b3a393af5c1ef2fc56163e7a1f50df3f
-ms.sourcegitcommit: d1f057126533fd52a9c2698a01032040367971f3
+ms.openlocfilehash: ac65e3cefc487fd68f448fe9b58ba0b5f3924c77
+ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/01/2022
-ms.locfileid: "9110621"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "9225028"
 ---
 [!INCLUDE[](../../../includes/unit-banner.md)]
 [!INCLUDE[](../../../includes/accessing-labs.md)]
+
+## <a name="objective"></a>الهدف
+
+تعد دفتر اليومية ميزة مهمة لإدارة سلسلة التوريد التي تساعد على التحقق من المخزون الفعلي والمقارنة مع المخزون الفعلي في تخطيط موارد المؤسسات. ستتعلم في هذا المعمل كيفية إنشاء ونشر دفتر يومية جرد المخزون.
 
 ## <a name="lab-steps"></a>خطوات المعمل
 

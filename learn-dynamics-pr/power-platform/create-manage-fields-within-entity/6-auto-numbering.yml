@@ -4,18 +4,18 @@ title: إنشاء عمود ترقيم تلقائي
 metadata:
   title: إنشاء عمود ترقيم تلقائي
   description: تعرف على كيفية إنشاء عمود ترقيم تلقائي.
-  ms.date: 02/25/2021
+  ms.date: 07/08/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ROBOTS: NOINDEX
-  ms.openlocfilehash: d496d268e7652944fdbb9aa9094b31712cb6163c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e2dcc53bb3531eaee60aae4460ecf3248759c86d
+  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457375"
+  ms.lasthandoff: 07/10/2022
+  ms.locfileid: "9131764"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

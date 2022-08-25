@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-subscription-billing-finance.create-billing-schedules
+title: إنشاء جداول الفوترة
+metadata:
+  title: إنشاء جداول الفوترة
+  description: تعرف على كيفية إنشاء جداول الفوترة.
+  ms.date: 07/14/2022
+  author: oscarfranco
+  ms.author: oscarfranco
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ca5029474e7f1cd8c25c800ca42c6f6ebcf08c44
+  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/20/2022
+  ms.locfileid: "9179017"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/create-billing-schedules.md)]"

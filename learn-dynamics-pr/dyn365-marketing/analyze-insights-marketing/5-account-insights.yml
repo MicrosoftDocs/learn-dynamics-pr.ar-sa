@@ -4,15 +4,15 @@ title: معلومات الحساب
 metadata:
   title: معلومات الحساب
   description: معلومات الحساب.
-  ms.date: 03/23/2021
+  ms.date: 08/02/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 90966ceb1f41503a0518c01519e4aa7c5652607a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: da690d6505dc639be2ec53da20d5a7f424dc278f
+  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7435338"
+  ms.lasthandoff: 08/03/2022
+  ms.locfileid: "9223457"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-account-insights.md)]"

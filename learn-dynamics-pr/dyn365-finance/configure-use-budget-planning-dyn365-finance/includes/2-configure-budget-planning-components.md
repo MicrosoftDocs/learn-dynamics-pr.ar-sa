@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c4e2fa5e7654a343096028081a35f9312d0a52fd
-ms.sourcegitcommit: 4b4b1bba9a2bd140f82ed4c36b363420921f41ce
+ms.openlocfilehash: 336df75061c1be05cc32ae0b112c00f329e261ff
+ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/20/2022
-ms.locfileid: "9032315"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "9178670"
 ---
 تحتوي صفحة  **تكوين تخطيط الموازنة** على معظم الإعدادات التي تحتاجها لإعداد تخطيط الموازنة. تصف الأقسام التالية بعض العوامل الرئيسية التي يجب مراعاتها عند تكوين تخطيط الموازنة. بعد الانتهاء من التكوين، يمكنك إعداد عمليات تخطيط الموازنة. يمكنك عرض تكوين تخطيط الموازنة والحفاظ عليه بالانتقال إلى **إعداد الموازنة > الإعداد > تخطيط الموازنة > تكوين تخطيط الموازنة.**
 

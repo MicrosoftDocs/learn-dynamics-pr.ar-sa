@@ -4,17 +4,17 @@ title: استكشاف إدارة الأوامر الموزعة (DOM)
 metadata:
   title: استكشاف إدارة الأوامر الموزعة (DOM)
   description: استكشاف إدارة الأوامر الموزعة (DOM)
-  ms.date: 06/17/2022
+  ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-d365
-  ms.openlocfilehash: c336334bcdaa5d157c38475bb0ad968623ec7e1d
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 29e561afbed6406292c71eb183f2a76520a88393
+  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025050"
+  ms.lasthandoff: 08/04/2022
+  ms.locfileid: "9224998"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2

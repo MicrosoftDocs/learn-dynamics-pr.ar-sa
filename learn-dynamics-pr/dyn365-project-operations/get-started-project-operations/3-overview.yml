@@ -4,15 +4,15 @@ title: نظرة عامة حول ميزات عمليات المشروع
 metadata:
   title: نظرة عامة حول ميزات عمليات المشروع
   description: تعرف على نواحي الميزات في Dynamics 365 Project Operations.
-  ms.date: 04/08/2021
+  ms.date: 07/04/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a98ba40d418eec8b9139514452de4e493d4a89db
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 015133210029db786ad44ef4a0386279b71aeef2
+  ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351606"
-durationInMinutes: 10
+  ms.lasthandoff: 07/05/2022
+  ms.locfileid: "9114666"
+durationInMinutes: 13
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-overview.md)]"

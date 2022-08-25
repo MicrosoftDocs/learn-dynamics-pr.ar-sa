@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.setup-ecommerce-b2b-commerce.customer-balance-pages
+title: إنشاء صفحات ووحدات رصيد العميل وإعدادها
+metadata:
+  title: إنشاء صفحات ووحدات رصيد العميل وإعدادها
+  description: تعرف على كيفية إنشاء صفحات ووحدات رصيد العميل وإعدادها.
+  ms.date: 07/11/2022
+  author: cfrandall
+  ms.author: chriran
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9b227eb054cd747194345c83997947570f618334
+  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 07/14/2022
+  ms.locfileid: "9147309"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/customer-balance-pages.md)]"
