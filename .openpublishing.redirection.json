@@ -1,6 +1,96 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/01-introduction-to-workflows.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/02-configure-workflows.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/03-create-workflow-actions.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/04-build-custom-workflow-actions.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/05-build-advanced-workflows.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/06-check-your-knowledge.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/07-summary.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/index.md",
+      "redirect_url": "/learn/modules/intro-business-process-flows/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/01-overview-manage-data.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/02-duplicate-data-detection.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/03-import-data.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/04-export-data.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/05-bulk-data-delete.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/05a-report.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/05b-report-definition-language.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/06-knowledge-check.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/07-summary.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/manage-dynamics-365-data/index.md",
+      "redirect_url": "/learn/modules/load-export-data-create-data-views/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/designing-power-platform-deployments/9-identify-analyze-minimum-tech-requirements.md",
       "redirect_url": "/learn/modules/designing-power-platform-deployments/",
       "redirect_document_id": false
