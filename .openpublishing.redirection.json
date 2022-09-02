@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-engineering-change-management/03-enable.md",
+      "redirect_url": "/learn/modules/get-started-engineering-change-management/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/get-started-workflows-customer-engagement-apps/01-introduction-to-workflows.md",
       "redirect_url": "/learn/modules/intro-business-process-flows/",
       "redirect_document_id": false
