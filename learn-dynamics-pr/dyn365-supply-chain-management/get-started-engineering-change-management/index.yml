@@ -37,7 +37,7 @@ subjects:
 units:
 - learn-dynamics.get-started-engineering-change-management.01-introduction
 - learn-dynamics.get-started-engineering-change-management.02-features
-- learn-dynamics.get-started-engineering-change-management.03-enable
+#- learn-dynamics.get-started-engineering-change-management.03-enable
 - learn-dynamics.get-started-engineering-change-management.04-walkthrough-features
 - learn-dynamics.get-started-engineering-change-management.05-exercise-set-up-demo-data
 - learn-dynamics.get-started-engineering-change-management.06-exercise-create-engineering-product
