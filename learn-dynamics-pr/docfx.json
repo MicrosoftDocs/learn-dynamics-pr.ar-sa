@@ -534,7 +534,7 @@
         "dyn365-marketing/**/*.yml": "dynamics-365-marketing",
         "dyn365-project-operations/**/*.yml": "dynamics-365-project-operations",
         "dyn365-sales/**/*.yml": "dynamics-365-sales",
-        "dyn365-supply-chain-managment/**/*.yml": "dynamics-365-supply-chain",
+        "dyn365-supply-chain-management/**/*.yml": "dynamics-365-supply-chain",
         "power-platform/**/*.yml": "power-platform"
       }
     },
@@ -549,7 +549,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-customer-service/**/*.yml": [
           "ar-sa",
@@ -558,7 +559,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-guides/**/*.yml": [
           "ar-sa",
@@ -567,7 +569,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-field-service/**/*.yml": [
           "ar-sa",
@@ -576,7 +579,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
         "dyn365-finance/**/*.yml": [
             "ar-sa",
@@ -585,7 +589,8 @@
             "fr-fr",
             "it-it",
             "ja-jp",
-            "pt-br"
+            "pt-br",
+          "zh-cn"
       ],
         "dyn365-finance-operations/**/*.yml": [
           "ar-sa",
@@ -594,7 +599,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
         "dyn365-intelligent-order-management/**/*.yml": [
           "ar-sa",
@@ -603,7 +609,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
         "dyn365-marketing/**/*.yml": [
           "ar-sa",
@@ -612,7 +619,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-project-operations/**/*.yml": [
           "ar-sa",
@@ -621,7 +629,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-sales/**/*.yml": [
           "ar-sa",
@@ -630,7 +639,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-supply-chain-management/**/*.yml": [
         "ar-sa",
@@ -639,7 +649,8 @@
         "fr-fr",
         "it-it",
         "ja-jp",
-        "pt-br"
+        "pt-br",
+        "zh-cn"
       ],
       "power-platform/**/*.yml": [
           "ar-sa",
@@ -648,7 +659,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-commerce/**/*.yml": [
           "ar-sa",
@@ -657,7 +669,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
        "dyn365-human-resources/**/*.yml": [
           "ar-sa",
@@ -666,7 +679,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "dyn365-fraud-protection/**/*.yml": [
           "ar-sa",
@@ -675,7 +689,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "wwl-dynamics/**/*.yml": [
           "ar-sa",
@@ -684,7 +699,8 @@
           "fr-fr",
           "it-it",
           "ja-jp",
-          "pt-br"
+          "pt-br",
+          "zh-cn"
       ],
       "wwl-mba/**/*.yml": [
         "de-de",
