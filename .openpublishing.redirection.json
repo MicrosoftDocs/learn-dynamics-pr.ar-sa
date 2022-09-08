@@ -1,6 +1,166 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/1-introduction-components.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/2-unified-routing.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/3-work-streams.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/4-capacity.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/5-rules.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/6-check.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/7-summary.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/index.md",
+      "redirect_url": "/learn/modules/route-distribute-work/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/1-introduction.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/2-basic-routing.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/3-queues.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/4-record-routing.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/5-check.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/6-summary.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-customer-service/unified-routing/index.md",
+      "redirect_url": "/learn/modules/get-started-unified-routing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/1-common-asks-and-customizations.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/2-views-and-visualizations.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/3-mobile-form-rules.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/4-custom-commands.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/5-advanced-field-service-mobile-customizations.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/6-knowledge-check.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/7-summary.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-deliver-a-customized-mobile-experience/index.md",
+      "redirect_url": "/learn/modules/configure-field-service-mobile/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/1-field-service-mobile-application-overview.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/2-deploy-and-customize-the-mobile-application.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/3-install-and-configure-the-mobile-application-client.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/4-manage-mobile-projects.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/5-publishing-a-mobile-project.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/6-deploy-and-configure-mobile-application-projects.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/7-knowledge-check.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/8-summary-and-clean-up.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-field-service/implement-get-started-with-microsoft-dynamics-365-for-field-service-mobile/index.md",
+      "redirect_url": "/learn/modules/get-started-mobile-app/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-supply-chain-management/get-started-engineering-change-management/03-enable.md",
       "redirect_url": "/learn/modules/get-started-engineering-change-management/",
       "redirect_document_id": false
@@ -13453,27 +13613,27 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-human-resources/2-explore-compensation-benefits-capabilities.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-human-resources/3-explore-compensation-benefits-capabilities",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-human-resources/3-explore-compliance-features.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-human-resources/4-explore-compliance-features",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-human-resources/4-explore-performance-management-capabilities.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-human-resources/5-explore-performance-management-capabilities",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-human-resources/5-knowledge-check.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-human-resources/6-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-human-resources/6-summary.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-human-resources/7-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-fraud-protection/2-explore-how-reduces-fraud-losses-increases-bank-acceptance-rates.md",
@@ -13503,12 +13663,12 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/2-create-manage-work-breakdown-structures.md",
       "redirect_url": "/learn/modules/explore-project-planning-execution-capabilities/4-create-manage-work-breakdown-structures",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/4-invoice-capabilities.md",
       "redirect_url": "/learn/modules/explore-project-planning-execution-capabilities/5-invoice-capabilities",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/5-schedule-management-capabilities.md",
@@ -13528,7 +13688,7 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/11-knowledge-check.md",
       "redirect_url": "/learn/modules/explore-project-planning-execution-capabilities/7-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/8-review-project-costs.md",
@@ -13538,7 +13698,7 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/12-summary.md",
       "redirect_url": "/learn/modules/explore-project-planning-execution-capabilities/8-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-project-planning-execution-capabilities/9-explore-utilization-analysis.md",
@@ -13548,27 +13708,27 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-finance-core-capabilities/2-explore-use-cases-for-legal-entities.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/3-explore-use-cases-for-legal-entities",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-finance-core-capabilities/3-handle-regional-tax-reporting-requirements.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/4-handle-regional-tax-reporting-requirements",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-finance-core-capabilities/4-explore-cost-accounting-concepts.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/5-explore-cost-accounting-concepts",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-finance-core-capabilities/5-knowledge-check.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/7-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-finance-core-capabilities/6-summary.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/8-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/10-explore-retail-analytics-provide-centralized-retail-data-management.md",
@@ -13578,12 +13738,12 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/2-explore-retail-channels.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-commerce-capabilities/3-explore-retail-channels",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/3-explore-channel-management-concepts.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-commerce-capabilities/4-explore-channel-management-concepts",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/8-explore-customer-loyalty-concepts.md",
@@ -13598,7 +13758,7 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/11-knowledge-check.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-commerce-capabilities/8-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/9-explore-how-uses-dynamics-365-customer-insights.md",
@@ -13608,47 +13768,47 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-microsoft-dynamics-365-commerce-capabilities/12-summary.md",
       "redirect_url": "/learn/modules/explore-microsoft-dynamics-365-commerce-capabilities/9-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-accounts-payable-accounts-receivable-microsoft/4-exercise-create-vendor-payment-journal.md",
       "redirect_url": "/learn/modules/explore-accounts-payable-accounts-receivable-microsoft/",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-accounts-payable-accounts-receivable-microsoft/5-explore-core-components.md",
       "redirect_url": "/learn/modules/explore-accounts-payable-accounts-receivable-microsoft/4-explore-core-components",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-manufacturing-strategies-microsoft-dynamics/2-explore-manufacturing-strategies.md",
       "redirect_url": "/learn/modules/explore-manufacturing-strategies-microsoft-dynamics/3-explore-manufacturing-strategies",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-manufacturing-strategies-microsoft-dynamics/3-explore-item-tracking-tracing-processes.md",
       "redirect_url": "/learn/modules/explore-manufacturing-strategies-microsoft-dynamics/5-explore-item-tracking-tracing-processes",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-manufacturing-strategies-microsoft-dynamics/4-explore-shop-floor-management-tools.md",
       "redirect_url": "/learn/modules/explore-manufacturing-strategies-microsoft-dynamics/6-explore-shop-floor-management-tools",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-manufacturing-strategies-microsoft-dynamics/5-exercise-identify-production-orders-from-workspace.md",
       "redirect_url": "/learn/modules/explore-manufacturing-strategies-microsoft-dynamics/8-exercise-identify-production-orders-from-workspace",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-manufacturing-strategies-microsoft-dynamics/6-knowledge-check.md",
       "redirect_url": "/learn/modules/explore-manufacturing-strategies-microsoft-dynamics/9-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/explore-manufacturing-strategies-microsoft-dynamics/7-summary.md",
       "redirect_url": "/learn/modules/explore-manufacturing-strategies-microsoft-dynamics/10-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/2-differentiate-manufacturing-types.md",
@@ -13658,7 +13818,7 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/4-explore-product-master-records-product-variants.md",
       "redirect_url": "/learn/modules/identify-general-capabilities-of-microsoft-dynamics/3-explore-product-master-records-product-variants",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/3-explore-production-control-elements.md",
@@ -13668,12 +13828,12 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/5-exercise-create-product-offering-with-various-sizes-colors.md",
       "redirect_url": "/learn/modules/identify-general-capabilities-of-microsoft-dynamics/4-exercise-create-product-offering-with-various-sizes-colors",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/7-explore-trade-agreements-discounts.md",
       "redirect_url": "/learn/modules/identify-general-capabilities-of-microsoft-dynamics/5-explore-trade-agreements-discounts",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/6-explore-master-planning.md",
@@ -13683,12 +13843,12 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/9-summary.md",
       "redirect_url": "/learn/modules/identify-general-capabilities-of-microsoft-dynamics/7-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/identify-general-capabilities-of-microsoft-dynamics/8-knowledge-check.md",
       "redirect_url": "/learn/modules/identify-general-capabilities-of-microsoft-dynamics/6-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/get-introduced-finance-operations-apps/4-create-use-reports.md",
@@ -13738,12 +13898,12 @@
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/get-introduced-finance-operations-apps/13-knowledge-check.md",
       "redirect_url": "/learn/modules/get-introduced-finance-operations-apps/4-knowledge-check",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "learn-dynamics-pr/wwl-dynamics/get-introduced-finance-operations-apps/14-summary.md",
       "redirect_url": "/learn/modules/get-introduced-finance-operations-apps/5-summary",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }
