@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.manage-store-inventory-commerce.06-process-shipment-outbound
-title: معالجة شحنة أمر نقل صادر من نقطة البيع
+title: معالجة شحن أمر النقل الصادر من Store Commerce
 metadata:
-  title: معالجة شحنة أمر نقل صادر من نقطة البيع
-  description: تعلم كيفية معالجة شحنة أمر نقل صادر من نقطة البيع في Dynamics 365 Commerce.
+  title: معالجة شحن أمر النقل الصادر من Store Commerce
+  description: تعلم كيفية معالجة شحن أمر النقل الصادر من Store Commerce في Dynamics 365 Commerce.
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5f6debee59de135d70f246a6cb1cfa27e1a5c99c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: dc1b7bae804e290da0556934de854e4f8e9d6333
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352869"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300795"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/06-process-shipment-outbound.md)]"

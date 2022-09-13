@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 60a77a9d988ea35a19ea2928de6998156b923304
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 579e516ae91001635fb227ac029c74f8a70aa7b4
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7348105"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300737"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -25,7 +25,7 @@ quiz:
       explanation: تمكّن الخدمة في الوقت الفعلي المتاجر من استرداد البيانات من المركز الرئيسي، وليس العكس. تقوم الخدمات غير المتزامنة بتحميل البيانات إلى المركز الرئيسي.
     - content: يمكن للمخازن استرداد البيانات من المركز الرئيسي
       isCorrect: true
-      explanation: تمكّن الخدمة في الوقت الفعلي أجهزة نقاط البيع الفردية والمتاجر عبر الإنترنت من استرداد بيانات محددة من المركز الرئيسي في الوقت الفعلي.
+      explanation: تمكّن الخدمة في الوقت الفعلي أجهزة Store Commerce الفردية والمتاجر عبر الإنترنت من استرداد بيانات محددة من Headquarters في الوقت الفعلي.
   - content: ما الغرض من استخدام وظائف التحميل (وظائف P)؟
     choices:
     - content: للحصول على البيانات التي تم تغييرها من المركز الرئيسي إلى القنوات.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3e529acf2c8306f957e402dc7d62299668343ffb
-ms.sourcegitcommit: dccc09c6b13ef4bb976809b24af5e2d71b766fd4
+ms.openlocfilehash: b0d46732b2249add50860d59e916d1d0a8b21f3d
+ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "8740537"
+ms.lasthandoff: 08/23/2022
+ms.locfileid: "9321957"
 ---
 يأتي كل مستأجر ‪Microsoft Dynamics 365‬ بمجموعة متنوعة من التطبيقات والوظائف التي يجب على المؤسسة تثبيتها للاستفادة منها. يمكنك تثبيت هذه التطبيقات من خلال مركز مسؤولي Microsoft Power Platform.
 

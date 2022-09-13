@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-transactions-pos.02-create-cash-carry
-title: إنشاء حركات الدفع نقداً والاستلام فوراً‬ في نقطة البيع.
+title: إنشاء حركات الدفع نقداً والاستلام فوراً‬ في Store Commerce
 metadata:
-  title: إنشاء حركة الدفع نقداً والاستلام فوراً‬ في نقطة البيع.
-  description: تعرف على كيفية إنشاء حركات الدفع نقداً والاستلام فوراً‬ في نقطة البيع.
-  ms.date: 04/26/2021
+  title: إنشاء حركة الدفع نقداً والاستلام فوراً‬ في Store Commerce
+  description: تعرّف على كيفية إنشاء حركات الدفع نقداً والاستلام فوراً‬ في Store Commerce.
+  ms.date: 08/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 372ddc3276b7dc0e2a03e894156e0a7d866cdd6d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f7c61e863922acff5d166529b1484a66b672944e
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346274"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300176"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-create-cash-carry.md)]"

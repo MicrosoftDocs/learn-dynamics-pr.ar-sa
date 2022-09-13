@@ -2,20 +2,21 @@
 uid: learn-dynamics.introduction-development
 metadata:
   title: مقدمة حول التطوير باستخدام Microsoft Power Platform
-  description: ولذلك، فإنك تريد أن تكون مطورًا لـ Microsoft Power Platform! يعد هذا المسار التعليمي هو الخطوة الأولى في التعرف على الأنظمة الأساسية والأدوات والنظام البيئي الخاص بـ Microsoft Power Platform.
+  description: ولذلك، فإنك تريد أن تكون مطوراً لـ Microsoft Power Platform! يعد هذا المسار التعليمي هو الخطوة الأولى في التعرف على الأنظمة الأساسية والأدوات والنظام البيئي الخاص بـ Microsoft Power Platform.
   ms.date: 06/30/2019
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 67db0409919926f0da211d189bf2cbf03156e4f6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+  ms.openlocfilehash: f4f74057831d767c390cf0d8fd4f49a327beb094
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752043"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363637"
 title: مقدمة حول التطوير باستخدام Microsoft Power Platform
-summary: "[!include[](../../includes/lp-banner.md)]\n\nولذلك، فإنك تريد أن تكون مطورًا لـ Microsoft Power Platform! يعد هذا المسار التعليمي هو الخطوة الأولى في التعرف على الأنظمة الأساسية والأدوات والنظام البيئي لـ Microsoft Power Platform. \n"
+summary: "[!include[](../../includes/lp-banner.md)]\n\nولذلك، فإنك تريد أن تكون مطوراً لـ Microsoft Power Platform! يعد هذا المسار التعليمي هو الخطوة الأولى في التعرف على الأنظمة الأساسية والأدوات والنظام البيئي لـ Microsoft Power Platform. \n"
 prerequisites: >
   - الفهم الأساسي لـ Microsoft Power Platform.
 

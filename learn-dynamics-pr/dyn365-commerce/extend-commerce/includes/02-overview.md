@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1307a154306d3aeda0b7b91a6cb4f42c8c5909d8
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 8dcef3efe95ae2cd24257c4928618efdd4324cb3
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7334509"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9299836"
 ---
 يوضح الرسم التخطيطي التالي بنية ملحق التجارة.
 
@@ -19,11 +19,11 @@ ms.locfileid: "7334509"
   - Retail server (RS)
   - Commerce runtime (CRT)
   - قاعدة بيانات القناة
-  - نقطة بيع مجموعة التجزئة (CPOS)
+  - Store Commerce للمتصفحات
 
 - **العميل**
 
-  - نقطة البيع الحديثة (MPOS)
+  - Store Commerce لـ Windows
   - محطة الأجهزة (HWS)
 
 ## <a name="dynamics-365-commerce-app-marketplace"></a>Dynamics 365 Commerce سوق التطبيقات
@@ -48,7 +48,7 @@ ms.locfileid: "7334509"
 - خرائط
 - المراسلة‬ والمحادثة
 - عمليات الدفع
-- التخصيص
+- إضفاء الطابع الشخصي
 - التقييمات والمراجعات
 - الشحن
 - مشاركة وسائل التواصل الاجتماعي

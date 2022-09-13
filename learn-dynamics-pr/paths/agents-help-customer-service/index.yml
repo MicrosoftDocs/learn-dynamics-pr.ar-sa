@@ -7,13 +7,13 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: 3dd4f7f7316d6c92b7572fb5ad245958697b7faf
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 13c2b4518cdb5deffbec04cd9f0d05374ec18ab3
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9062944"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362531"
 title: يكون مندوبون المساعدة أكثر إنتاجيةً في Dynamics 365 Customer Service
 summary: >
   [!include[](../../includes/lp-banner.md)]

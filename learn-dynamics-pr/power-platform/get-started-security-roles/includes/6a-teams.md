@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: 979bf5c03d7ea6907f7265da4422f2c1c7cc500a
-ms.sourcegitcommit: 35d50364afa9a537b510a1a960faba6ea3af60da
+ms.sourcegitcommit: c7914edc86cd190a316f4e645fab2bdcec0d9595
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/01/2021
-ms.locfileid: "7467713"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "8617123"
 ---
 يعد استخدام فرق Microsoft Dataverse اختيارياً. ومع ذلك، توفر الفرق طريقة سهلة لمشاركة كائنات العمل وتتيح التعاون مع أشخاص آخرين عبر وحدات العمل. وعلى الرغم من أن الفريق ينتمي إلى وحدة عمل واحدة، إلا أنه يمكن أن يشمل مستخدمين من وحدات أعمال أخرى. يمكنك إقران مستخدم بأكثر من فريق واحد. 
 

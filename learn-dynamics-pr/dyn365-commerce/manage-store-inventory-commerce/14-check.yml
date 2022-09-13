@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5181b0cbcb2c2544545b6574ebc2dee21f3f2284
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b87d840beed149df1655fe649f7e426151954c88
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331297"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299816"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -22,7 +22,7 @@ quiz:
     choices:
     - content: دفاتر يومية جرد المخزون التي تم إنشاؤها في مقر Commerce الرئيسي
       isCorrect: true
-      explanation: يتم استخدام دفاتر يومية جرد المخزون التي تم إنشاؤها في مقر Commerce الرئيسي لطلب عمليات جرد المخزون لأحد المتاجر الموجودة في نقطة البيع.
+      explanation: يتم استخدام دفاتر يومية جرد المخزون التي تم إنشاؤها في Commerce Headquarters لطلب جرد المخزون لمتجر في Store Commerce.
     - content: دفتر يومية حركة المخزون في مقر Commerce الرئيسي
       isCorrect: false
       explanation: يتم استخدام دفاتر يومية حركات المخزون لنقل المخزون من موقع إلى آخر، ولا يتم استخدامها لجرد المخزون.

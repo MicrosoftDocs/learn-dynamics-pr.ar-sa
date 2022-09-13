@@ -7,19 +7,20 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 774c026b2d26373bae82f44450624286c28ed7b9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: power-apps
+  ms.subservice: dataverse-developer
+  ms.openlocfilehash: b3ede61e6b1fd9c2a4a9de4941b07fe68aae95bb
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752214"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362503"
 title: توسيع Microsoft Power Platform Microsoft Dataverse
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
 
-  يمكن أن يكون الشروع في العمل باستخدام توسيع Microsoft Power PlatformMicrosoft Dataverse مزعجًا. يبحث مسار التعليم هذا عن الأدوات والموارد المطلوبة لتوسيع Microsoft Power Platform. سنبدأ بالنظر إلى حزم SDK ونموذج قابلية للتوسيع وإطار الحدث. كما يغطي مسار التعليم هذا متى يتم استخدام المكونات الإضافية. تكوين المكونات الإضافية مع تسجيل المكونات الإضافية ونشرها.
+  يمكن أن يكون الشروع في العمل باستخدام توسيع Microsoft Power PlatformMicrosoft Dataverse مزعجاً. يبحث مسار التعليم هذا عن الأدوات والموارد المطلوبة لتوسيع Microsoft Power Platform. سنبدأ بالنظر إلى حزم SDK ونموذج قابلية للتوسيع وإطار الحدث. كما يغطي مسار التعليم هذا متى يتم استخدام المكونات الإضافية. تكوين المكونات الإضافية مع تسجيل المكونات الإضافية ونشرها.
 prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. \n- باشر العمل مع Power Apps وPower Automate وPower BI.\n- تجربة المطور العام.\n"
 iconUrl: /learn/achievements/extend-power-platform-common-data-service.svg
 levels:

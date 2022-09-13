@@ -8,19 +8,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 546f28db706092992dc2c7ba9c80f147d34ffbc1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: cac85808be0a9c1773df2fc2b73dbcf361d287bc
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7348093"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300109"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: ما هو المكون الذي يطلب منك كتابة الملحق الخاص بك في التجميع الخاص بك؟
     choices:
-    - content: نقطة البيع (POS)
+    - content: Store Commerce
       isCorrect: false
       explanation: ملحقات نقطة البيع هي ملحقات UX، مثل عناصر التحكم المخصصة وأزرار الأشرطة، بحيث لا تحتاج إلى كتابتها في التجميع الخاص بها.
     - content: Commerce runtime (CRT)
@@ -29,11 +29,11 @@ quiz:
     - content: Retail Server
       isCorrect: false
       explanation: يستخدم Retail Server وكيلاً لاستهلاك الإجراءات من ملحقات CSU.
-  - content: أي من الملحقات التالية لا يمكن إضافتها في طرق عرض نقطة البيع التي تحتوي على شبكة؟
+  - content: أي من الإضافات التالية لا يمكن إضافته في طرق عرض Store Commerce التي تحتوي على شبكة؟
     choices:
     - content: الأعمدة المخصصة
       isCorrect: false
-      explanation: يمكن إضافة الأعمدة المخصصة في الشبكة، بنفس طريقة أعمدة نقطة البيع القياسية.
+      explanation: يمكن إضافة أعمدة مخصصة في الشبكة، بنفس طريقة إضافة أعمدة Store Commerce القياسية.
     - content: عناصر التحكم المخصصة
       isCorrect: true
       explanation: لا يمكن إضافة عناصر التحكم المخصصة إلى الشبكة لأن عناصر التحكم تتطلب مساحة أكبر وسيصبح من الصعب الحفاظ على طريقة العرض.

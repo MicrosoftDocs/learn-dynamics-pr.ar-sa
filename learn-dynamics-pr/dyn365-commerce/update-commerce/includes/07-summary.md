@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 4f32ab65bcf7ee68c54759077a1f68baa8c0fec6c6ed33a6e58ebb20b2eaaa8c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b963c184f56aa0448e6664744c7e90045e2b45d8
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7060671"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9299984"
 ---
 تمكنك تحديثات Dynamics 365 Commerce من الحصول على أحدث الميزات والمعلومات الخاصة ببيئتك دائماً. تتوفر عدة خيارات لمساعدتك في إجراء عملية التحديث وفقاً لجدول الأعمال ومتطلباتك. 
 
 نوصي بتحديث Commerce باستخدام One Version، الذي يقوم بإجراء تحديثات تلقائية لبيئتك ويضمن احتواءها على أحدث الميزات وأحدث إصدار مثل جميع البيئات الأخرى. 
 
-تتوفر تحديثات MPOS أيضاً. ومع ذلك، بدلاً من التحديثات التلقائية، يمكن تحديث MPOS باستخدام المثبت اليدوي ذاتي الإعداد.
+كما تتوفر تحديثات لـ Store Commerce لـ Windows. ومع ذلك، بدلاً من التحديثات التلقائية، يمكن تحديث Store Commerce لـ Windows باستخدام مثبت الخدمة الذاتية‬ اليدوي.

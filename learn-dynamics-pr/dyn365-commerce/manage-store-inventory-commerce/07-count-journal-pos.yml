@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.manage-store-inventory-commerce.07-count-journal-pos
-title: إنشاء دفتر يومية الجرد وإكماله من نقطة البيع
+title: إنشاء دفتر يومية الجرد وإكماله من Store Commerce
 metadata:
-  title: إنشاء دفتر يومية الجرد وإكماله من نقطة البيع
-  description: تعرف على كيفية إنشاء دفتر يومية الجرد وإكماله من نقطة البيع في Dynamics 365 Commerce
+  title: إنشاء دفتر يومية الجرد وإكماله من Store Commerce
+  description: تعرف على كيفية إنشاء دفتر يومية الجرد وإكماله من Store Commerce في Dynamics 365 Commerce
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7db58d969d09dcd80d828b2cae482af1080fdfd3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 56b3f349f26beeca5b0a3d4f41a19d1a1e47cb68
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353926"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299391"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/07-count-journal-pos.md)]"

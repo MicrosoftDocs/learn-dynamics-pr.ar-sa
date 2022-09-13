@@ -7,21 +7,21 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fdc352a2f112ba85ffe60f4800d4e8cc31aa120f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 01dc33e5bd0097781e10575492eee916f2b54462
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753449"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300587"
 title: إدارة مخزون المتجر في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيوفر Dynamics 365 Commerce وظائف لإدارة مخزون المتجر، بما في ذلك إمكانات تجديد مخزون المتجر، وعمليات مخزون المخزن الواردة والصادرة، وجرد مخزون المتجر، وإمكانات البحث في مخزون المتجر.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف المفاهيم الأساسية لإدارة مخزون المتجر في Dynamics 365 Commerce.\n- تعرف على كيفية إدارة التزويد الأساسي لمخزون المتجر باستخدام مخزون من مستودع آخر أو مخزون آخر صادر من أمر شراء.\n- تعرف على كيفية استلام المخزون في المتجر باستخدام العملية الواردة.\n- تعرف على كيفية شحن أوامر التحويل الصادرة في المتجر باستخدام العملية الصادرة.\n- تعلم كيفية إجراء عمليات جرد المخزون في تطبيق نقطة البيع (POS).\n- تعرف على كيفية إجراء بحث في المخزون من نقطة البيع.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المفاهيم الأساسية لإدارة مخزون المتجر في Dynamics 365 Commerce.\n- تعرف على كيفية إدارة التزويد الأساسي لمخزون المتجر باستخدام مخزون من مستودع آخر أو مخزون آخر صادر من أمر شراء.\n- تعرف على كيفية استلام المخزون في المتجر باستخدام العملية الواردة.\n- تعرف على كيفية شحن أوامر التحويل الصادرة في المتجر باستخدام العملية الصادرة.\n- تعلم كيفية إجراء عمليات جرد المخزون في تطبيق Store Commerce.\n- تعرف على كيفية إجراء بحث في المخزون من Store Commerce.\n"
 prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
 
-  - المعرفة العامة بنقطة البيع
+  - المعرفة العامة بتطبيق Store Commerce
 iconUrl: /learn/achievements/manage-store-inventory-commerce.svg
 levels:
 - intermediate

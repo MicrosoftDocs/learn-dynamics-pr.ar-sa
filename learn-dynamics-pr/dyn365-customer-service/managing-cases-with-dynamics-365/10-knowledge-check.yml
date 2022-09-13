@@ -3,16 +3,16 @@ uid: learn-bizapps.customer-service-cases.10-knowledge-check
 metadata:
   title: إدارة الحالات بـ Microsoft Dynamics 365
   description: سيختبر فحص المعرفة هذا معرفتك بإدارة الحالات باستخدام Microsoft Dynamics 365.
-  ms.date: 09/03/2021
+  ms.date: 08/04/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bd6493061639a2d797e2c1d6e328d1f3217f04a3
-  ms.sourcegitcommit: 2b1b0bc569f7f1c77829e397a956bfd1c1fb6afe
+  ms.openlocfilehash: 080fede5aac56384b4bd5b59b3faf5ccc41d72d6
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/07/2021
-  ms.locfileid: "7478605"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356490"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
@@ -51,13 +51,13 @@ quiz:
       isCorrect: false
   - content: أثناء العمل على إحدى الحالات، قمت بإضافة نشاط مكالمة هاتفية لتسجيل مكالمة أجريتها للعميل.  أين سيتم عرض نشاط المكالمة الهاتفية في سجل الحالة؟
     choices:
-    - content: لوحة ذات صلة
+    - content: اللوحة ذات الصلة
       explanation: يتوفر المخطط الزمني في Dynamics 365 لمعظم السجلات بما في ذلك الحالات.  يعرض جميع الأنشطة والملاحظات والمنشورات لسجل بناءً على تاريخ إضافتها.  المصدر - إدارة حالات Dynamics 365
       isCorrect: false
     - content: سير إجراءات العمل
       explanation: يتوفر المخطط الزمني في Dynamics 365 لمعظم السجلات بما في ذلك الحالات.  يعرض جميع الأنشطة والملاحظات والمنشورات لسجل بناءً على تاريخ إضافتها.  المصدر - إدارة حالات Dynamics 365
       isCorrect: false
-    - content: سجل الجدول الزمني
+    - content: المخطط الزمني للسجل
       explanation: يتوفر المخطط الزمني في Dynamics 365 لمعظم السجلات بما في ذلك الحالات.  يعرض جميع الأنشطة والملاحظات والمنشورات لسجل بناءً على تاريخ إضافتها.  المصدر - إدارة حالات Dynamics 365
       isCorrect: true
     - content: قسم المعلومات العامة

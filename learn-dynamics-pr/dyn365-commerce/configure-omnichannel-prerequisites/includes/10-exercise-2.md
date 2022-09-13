@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 387cef78988fd18df57fdcac7b57aba1e67ab5c62e5e3db6776e73e39ebc18ce
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e454f3dbb0559cc914482d0adeb991aceedc7ae3
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7095601"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9300677"
 ---
-في هذا التدريب، ستقوم بإنشاء رمز معلومات جديد عندما يتم إلغاء منتج في نظام نقطة البيع (POS). 
+في هذا التدريب، ستقوم بإنشاء رمز معلومات جديد عند إبطال منتج في نظام Store Commerce. 
 
 1. في شركة **USRT**، انتقل إلى **Retail وCommerce> إعداد القناة > رموز المعلومات**.
 2. حدد **جديد‏‎**.

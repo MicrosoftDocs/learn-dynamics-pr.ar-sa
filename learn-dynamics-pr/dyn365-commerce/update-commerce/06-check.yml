@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c0922b83100a6a8de430127457ef278fea54f3cc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5d7a15e44ad03142de18ec3ccd47ebbea6059bc4
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7325656"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299707"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -29,11 +29,11 @@ quiz:
     - content: التحديث الذاتي
       isCorrect: false
       explanation: يتيح التحديث الذاتي للعملاء إمكانية تأخير التحديثات المحتملة مؤقتاً.
-  - content: بعد تحديث نقطة البيع الحديثة، أي من الخيارات التالية يُعد الخيار الصحيح فيما يتعلق بإعدادات التكوين؟
+  - content: بعد تحديث Store Commerce لنظام Windows، أي من الخيارات التالية يُعد الخيار الصحيح فيما يتعلق بإعدادات التكوين؟
     choices:
     - content: لا يتم تعديل إعدادات التكوين.
       isCorrect: true
-      explanation: سيستخدم المثبت إعدادات التكوين المثبتة حالياً، ولن يؤدي التحديث إلى تغيير إعدادات نقطة البيع الحديثة لـ Commerce.
+      explanation: سيستخدم المثبت إعدادات التكوين المثبتة حالياً، ولن يؤدي التحديث إلى تغيير إعدادات Commerce Store Commerce لنظام Windows.
     - content: يتم تعديل إعدادات التكوين.
       isCorrect: false
       explanation: لا يتم تعديل إعدادات التكوين القائمة أثناء عملية التحديث.

@@ -3,21 +3,20 @@ uid: learn-dynamics.connected-customer-service.5-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 10/07/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: eb582d3c2e5c5283863b9f79e4e1f738dc05de2e
-  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.openlocfilehash: 2f90d06ef2778fa8d79312f9099fb08ad183b084
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/26/2021
-  ms.locfileid: "7690849"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363816"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: قمت بإعداد Connected Customer Service. لقد كشف Azure IoT عن مشكلة في بيانات تتبع الاستخدام التي تم استلامها من جهاز IoT. ما الذي تم إنشاؤه في Dynamics 365 Customer Service كنتيجة لذلك؟
     choices:

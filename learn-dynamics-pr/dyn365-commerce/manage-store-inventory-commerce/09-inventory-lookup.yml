@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.manage-store-inventory-commerce.09-inventory-lookup
-title: بدء البحث في المخزون من نقطة البيع
+title: بدء البحث في المخزون من Store Commerce
 metadata:
-  title: بدء البحث في المخزون من نقطة البيع
-  description: تعرف على كيفية بدء البحث في المخزون من خلال نقطة البيع في Dynamics 365 Commerce.
+  title: بدء البحث في المخزون من Store Commerce
+  description: تعرف على كيفية بدء البحث في المخزون من خلال Store Commerce في Dynamics 365 Commerce.
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 30c3c79780aff252aaef8eda5eab9fc4b79a732a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5da0425e196016024a9e75b7f16e89422b99caff
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7344825"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300428"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/09-inventory-lookup.md)]"

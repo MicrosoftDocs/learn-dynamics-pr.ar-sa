@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.creating-and-designing-knowledge-management-solutions.5-knowledge-article-publication
-title: منشور مقالة معرفية
+title: منشور مقال معرفية
 metadata:
-  title: منشور مقالة معرفية
-  description: منشور مقالة معرفية
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  title: منشور مقال معرفية
+  description: منشور مقال معرفية
+  ms.date: 08/18/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 3ca7c0f21c848309d745c1999905f0d6e9c8931f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 38795b089fae58bb0538e1dd89a1479684c94ed3
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350904"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356261"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

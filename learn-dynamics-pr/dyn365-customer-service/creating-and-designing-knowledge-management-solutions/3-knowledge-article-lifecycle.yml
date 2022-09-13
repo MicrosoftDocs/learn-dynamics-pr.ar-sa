@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-bizapps.creating-and-designing-knowledge-management-solutions.3-knowledge-article-lifecycle
-title: دورة حياة مقالة معرفية
+title: دورة حياة مقال معرفي
 metadata:
-  title: دورة حياة مقالة معرفية
-  description: دورة حياة مقالة معرفية
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  title: دورة حياة مقال معرفي
+  description: دورة حياة مقال معرفي
+  ms.date: 08/18/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 9e58f19c83537e70856f0fa9d1e1bfffb5b6089b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 965b53c32633490cb3c056e2ca08931ef3f3695e
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330394"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356300"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

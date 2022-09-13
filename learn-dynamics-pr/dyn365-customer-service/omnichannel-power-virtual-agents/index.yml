@@ -3,19 +3,19 @@ uid: learn-dynamics.omnichannel-power-virtual-agents
 metadata:
   title: دمج روبوت Power Virtual Agents مع القناة متعددة الاتجاهات لـ Customer Service
   description: تعرف على كيفية دمج روبوت Power Virtual Agents مع القناة متعددة الاتجاهات لـ Microsoft Dynamics 365 Customer Service.
-  ms.date: 09/29/2021
+  ms.date: 07/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 87941144c9759325ea7893ea6bf9a3d17788b492
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3a8b1abd06a5bf9f54a3b246ba8f2447d2a411ec
+  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748534"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9344374"
 title: دمج روبوت Power Virtual Agents مع القناة متعددة الاتجاهات لـ Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية دمج روبوت Power Virtual Agents مع القناة متعددة الاتجاهات لـ Microsoft Dynamics 365 Customer Service. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء تطبيق Azure Active Directory. \n- تكوين روبوت Power Virtual Agents.\n- تكوين القناة متعددة الاتجاهات لـ Customer Service.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء تطبيق Azure Active Directory. \n- تكوين روبوت Power Virtual Agents.\n- تكوين القناة متعددة الاتجاهات لـ Customer Service.\n"
 prerequisites: فهم أساسي للروبوتات وDynamics 365 Customer Service
 iconUrl: /learn/achievements/omnichannel-power-virtual-agents.svg
 levels:

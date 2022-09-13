@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-retail-store-pos.08-activate-modern-pos
-title: تنشيط نقطة البيع الحديثة (MPOS)
+title: تنشيط Store Commerce لـ Windows.
 metadata:
-  title: تنشيط نقطة البيع الحديثة (MPOS)
-  description: تعرف على كيفية تنشيط MPOS في Dynamics 365 Commerce.
-  ms.date: 04/23/2021
+  title: تنشيط Store Commerce لـ Windows.
+  description: تعرف على كيفية تنشيط Store Commerce لـ Windows في Dynamics 365 Commerce.
+  ms.date: 08/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: be1451ec5d5a698e3a6c679c74a1b3ebcc7524ee
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 07d43afd5f54e2843dbfe1d0c86c0377d05c7e1f
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352034"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300941"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-activate-modern-pos.md)]"

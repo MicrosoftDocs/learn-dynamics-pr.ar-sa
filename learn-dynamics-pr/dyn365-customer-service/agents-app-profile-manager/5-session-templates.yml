@@ -8,12 +8,11 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: d78887b33d4ac6dc14c395e30d154b0bb4c547211a844d1243aee301d10f4f60
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: b31d35963af0266250e39df82b587a1967bc2eee
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7079705"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363429"
 durationInMinutes: 11
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-session-templates.md)]"

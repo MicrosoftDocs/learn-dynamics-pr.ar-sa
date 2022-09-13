@@ -1,21 +1,21 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.configure-use-pos-commerce
 metadata:
-  title: تكوين نقطة البيع واستخدامها في Dynamics 365 Commerce
-  description: يتم إنشاء بيانات الحركات في نقطة البيع (POS) ثم تحميلها إلى Dynamics 365 Commerce Headquarters للمعالجة.
-  ms.date: 07/16/2020
+  title: تكوين Store Commerce واستخدامها في Dynamics 365 Commerce
+  description: يتم إنشاء بيانات الحركات في Store Commerce ثم تحميلها إلى Dynamics 365 Commerce Headquarters للمعالجة.
+  ms.date: 08/11/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: b7f3dc533d0f17dbf644a99d3c1f435d1b6be862
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 5f89b1e31a102b62fb7bcecd0b7c465266d7469b
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752466"
-title: تكوين نقطة البيع واستخدامها في Dynamics 365 Commerce
-summary: "[!include[](../../includes/lp-banner.md)]\nيتم إنشاء بيانات الحركات في نقطة البيع (POS) ثم تحميلها إلى Dynamics 365 Commerce Headquarters للمعالجة. يصف مسار التعلم هذا كيفية تثبيت وتنشيط نقاط البيع، وكذلك كيفية إنشاء حركات يومية في نقطة البيع. \n"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300985"
+title: تكوين Store Commerce واستخدامها في Dynamics 365 Commerce
+summary: "[!include[](../../includes/lp-banner.md)]\nيتم إنشاء بيانات الحركات في Store Commerce ثم تحميلها إلى Dynamics 365 Commerce Headquarters للمعالجة. يصف مسار التعليم هذا كيفية تثبيت وتنشيط Store Commerce، وكذلك كيفية إنشاء حركات يومية في Store Commerce. \n> [!NOTE]\n> ينطبق المحتوى الموجود في مسار التعليم هذا أيضاً على retail modern POS (MPOS) وعلى cloud POS (CPOS)\n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce وقنوات Commerce
 

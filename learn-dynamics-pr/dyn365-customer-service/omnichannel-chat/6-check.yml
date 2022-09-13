@@ -3,20 +3,20 @@ uid: learn-dynamics.omnichannel-chat.6-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 09/21/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/25/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ecb9f04d731e5da19f08eb43dec848076edcdc3c
-  ms.sourcegitcommit: 9c8eb0ae0d0822aa6bdede9cf920e0f8f0674a87
+  ms.openlocfilehash: e79dabd7d22d236a763fa3dccc0b8528f5a87d9d
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2021
-  ms.locfileid: "7512011"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356178"
 durationInMinutes: 8
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: يمكنك تكوين قناة محادثة سيتم استخدامها على بوابة العملاء الخاصة بمؤسستك. من المهم حماية جميع هويات المناديب من العملاء. لا تريد المؤسسة أن يتم عرض أسماء عائلات المناديب للعميل. إذا لم يتم تغيير حقل اسم عرض المندوب على سجل قناة المحادثة، فما الذي سيتم عرضه للعملاء عند تفاعلهم مع المناديب أثناء دردشة المحادثة؟
     choices:

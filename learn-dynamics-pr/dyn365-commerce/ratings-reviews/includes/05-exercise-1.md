@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: f2ddbbe243d75ba4cc08573c2023ba82daa8c124f1a3103823ffe5f5d8eac776
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1850f317ba2998b306afaebf94867ddc1dc43842
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070248"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9299309"
 ---
 لأداء التمارين في هذه الوحدة، يجب عليك استخدام البيانات التجريبية للكيان القانوني USRT والوصول إلى منشئ موقع التجارة الإلكترونية من خلال LCS. 
 
 ## <a name="scenario"></a>السيناريو
 
-بصفتك مدير المنتجات في شركة Fabrikam، فأنت تريد تمكين ظهور تقييمات المنتجات في نقطة البيع بالتجزئة (Retail POS) في المتاجر الفعلية لشركة Fabrikam. 
+بصفتك مدير المنتجات في شركة Fabrikam، فأنت تريد تمكين ظهور تقييمات المنتجات في Retail Store Commerce في المتاجر الفعلية لشركة Fabrikam. 
 
 لمزامنة تقييمات المنتجات من خلال وظيفة دفعية وتعقب حالة الوظيفة، اتبع الخطوات التالية:
 

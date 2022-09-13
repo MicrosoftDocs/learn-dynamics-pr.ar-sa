@@ -4,16 +4,16 @@ title: استكشاف إمكانات إدارة الأحداث
 metadata:
   title: استكشاف إمكانات إدارة الأحداث
   description: استكشاف إمكانات إدارة الأحداث
-  ms.date: 07/18/2022
+  ms.date: 08/22/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b8b4b286c948a3c3d61b091d7fa15935dacd7bef
-  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+  ms.openlocfilehash: 891a829055a468c8af578f3974d25e347f8735d0
+  ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/19/2022
-  ms.locfileid: "9174251"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9322136"
 azureSandbox: false
 labModal: false
 durationInMinutes: 9

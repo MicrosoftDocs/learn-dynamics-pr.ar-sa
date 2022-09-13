@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: f5a26a7a67253ae95d7c80ba54c8609353cf41493813dec941ec5b87294d99ff
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b697d87a5a5ddc95e079fcd5709b1e351fe8bb11
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7131923"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9300266"
 ---
-أنت مسؤول النظام في مؤسستك وتحتاج إلى إنشاء منصب جديد لوظيفة **مدير المتجر‬‏‫** وتعيين أذونات نقاط البيع لهذا المنصب. 
+أنت مسؤول النظام في مؤسستك وتحتاج إلى إنشاء منصب جديد لوظيفة **مدير المتجر** وتعيين أذونات Store Commerce لهذا المنصب. 
 
 1. في شركة **USRT**، انتقل إلى **‬‏‫Retail وCommerce > الموظفين > المناصب**.
 2. حدد **جديد‎**.

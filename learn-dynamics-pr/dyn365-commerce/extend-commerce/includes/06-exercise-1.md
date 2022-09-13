@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6784e85540d96971e8226baff9c1dd9b8b11ab67df5ba46d072647ea8e200b7c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a5d6f79a7ca6139afde01d775a0511122dfe8db8
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7084146"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9299847"
 ---
 في هذا التمرين، ستقوم بتنفيذ مشغل ثم تسجيل الملحق وتصحيح CRT، والتحقق من صحة الملحق.
 
@@ -67,12 +67,12 @@ ms.locfileid: "7084146"
 
 لتسجيل الملحق، أكمل المهام التالية:
 
-1.  قم بنسخ ولصق مكتبة الملحقات إلى المجلد **...\RetailServer\webroot\bin\ext** ثم قم بتحديث ملف **commerceRuntime.ext.config** بمعلومات مكتبة الملحقات المخصصة الموجودة ضمن قسم التركيب. في هذا المثال، يُعد **Contoso.Commerce.Runtime.Services** اسم الملحق المخصص.
+1.  قم بنسخ ولصق مكتبة الملحقات إلى المجلد **...\RetailServer\webroot\bin\ext** ثم قم بتحديث ملف **commerceRuntime.ext.config** بمعلومات مكتبة الملحقات المخصصة الموجودة ضمن قسم التركيب. في هذا المثال، يعد **Contoso.Commerce.Runtime.Services** اسم الملحق المخصص.
 2.  لكي يعمل ملحق CRT في وضع دون الاتصال‬، قم بتحديث **...\Microsoft Dynamics 365\70\Retail Modern POS\ClientBroker\ext\CommerceRuntime.MPOSOffline.ext.config** ‫بمعلومات مكتبة الملحقات المخصصة الموجودة ضمن قسم التركيب. 
 3.  ‏‫قم بنسخ ولصق مكتبة الملحقات إلى **...\Microsoft Dynamics 365\70\Retail Modern POS\ClientBroker\ext**.
 
 ## <a name="debug-crt"></a>تصحيح CRT
-لتصحيح أخطاء CRT من نقطة البيع، قم بإرفاق المشروع الملحق CRT بعملية **w3wp.exe** (عملية IIS لخادم البيع بالتجزئة) عندما تكون نقطة البيع متصلة بخادم البيع بالتجزئة. 
+لتصحيح أخطاء CRT من Store Commerce، قم بإرفاق مشروع CRT الملحق بعملية **w3wp.exe** (عملية IIS لخادم Retail server) عندما يكون Store Commerce متصلاً بخادم Retail server. 
 
 بالنسبة لوضع عدم الاتصال، قم بإرفاق المشروع الملحق CRT بعملية **dllhost.exe**.
 
@@ -80,7 +80,7 @@ ms.locfileid: "7084146"
 
 للتحقق من صحة الملحق، أكمل المهام التالية:
 
-1.  تسجيل الدخول إلى نقطة البيع
-2.  البحث عن أي عميل في نقطة البيع ثم الانتقال إلى تفاصيل العميل. سيتم استدعاء طلب CRT السابق.
+1.  سجّل الدخول إلى Store Commerce.
+2.  ابحث عن أي عميل في Store Commerce ثم انتقل إلى تفاصيل العميل. سيتم استدعاء طلب CRT السابق.
 
 

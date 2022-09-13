@@ -4,16 +4,16 @@ title: إنشاء ‏‫‏‏صف Microsoft Dynamics 365
 metadata:
   title: إنشاء ‏‫‏‏صف Microsoft Dynamics 365
   description: تعرف على كيفية إنشاء صف Microsoft Dynamics 365.
-  ms.date: 12/21/2021
+  ms.date: 08/23/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4a958afeb860c565981687df504742caa7d5ae9f
-  ms.sourcegitcommit: 2c1f107c24ac03d3e1671cd316930ad836f70666
+  ms.openlocfilehash: 1e3a644ee4f4e53ca051fbb72046df58ead9525f
+  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/22/2021
-  ms.locfileid: "7945222"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9344198"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

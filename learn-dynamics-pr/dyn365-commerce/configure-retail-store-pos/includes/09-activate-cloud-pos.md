@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: e6215d66d00e9d3a9efb3cd255d98452eba4145be3ecab1a6b4c72355e14875b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4f64ee6f5a9960cbf2c83a212e28ac41924591f8
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7144263"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9299219"
 ---
-لا يتطلب تنشيط نقطة بيع المجموعة (CPOS) سوى إدخال عنوان URL في مستعرض مدعوم على جهاز نقطة البيع. ويتم العثور على عنوان URL هذا في الحقل **عنوان URL لنقطة بيع المجموعة** في صفحة **البيع بالتجزئة والتجارة > إعداد القناة > إعداد نقطة البيع > الأجهزة**. يتم ملء هذا الحقل تلقائياً عندما تقوم بتعيين الجهاز على أنه **نوع التطبيق** من **Retail Cloud POS**.
+لا يتطلب تنشيط Store Commerce لـ Browsers سوى إدخال عنوان URL في مستعرض مدعوم على جهاز Store Commerce. ويتم العثور على عنوان URL هذا في الحقل **عنوان URL لنقطة بيع المجموعة** في صفحة **البيع بالتجزئة والتجارة > إعداد القناة > إعداد نقطة البيع > الأجهزة**. يتم ملء هذا الحقل تلقائياً عندما تقوم بتعيين الجهاز على أنه **نوع التطبيق** من **Retail Cloud POS**.
  
 يتوفر تطبيق موجه.
 
-![ لقطة شاشة لصفحة بدء تنشيط Retail Cloud POS](../media/cpos-activate-ss.jpg)
+![ ‏‫لقطة شاشة لصفحة بدء تنشيط Store Commerce لـ Browsers](../media/cpos-activate-ss.jpg)
 
-شاهد مقطع الفيديو التالي لتتعلم كيفية تنشيط نقطة بيع المجموعة.
+شاهد الفيديو التالي لمعرفة كيفية تنشيط Store Commerce لـ Browsers.
 
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AmL7]
 
@@ -26,7 +26,7 @@ ms.locfileid: "7144263"
 
 ![ لقطة شاشة لصفحة إلغاء تنشيط السجل على جهاز آخر](../media/deactivate-register-ss.jpg)
 
-ستمر نقطة البيع بعد ذلك خلال خطوات التنشيط مرة أخرى. عند اكتمال التنشيط، سيتم إحضار المستخدم إلى شاشة **تسجيل الدخول** الخاصة بنقطة البيع.
+ستمر Store Commerce بعد ذلك خلال خطوات التنشيط مرة أخرى. عند اكتمال التنشيط، سيتم إحضار المستخدم إلى شاشة **تسجيل الدخول** الخاصة بـ Store Commerce.
  
 ![ لقطة شاشة لصفحة تسجيل الدخول في متجر Houston](../media/houston-sign-in-ss.jpg)
 

@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-commerce-channels.03-point-sale-store-operations
-title: نقطة البيع (POS) وعمليات المتجر
+title: عمليات Store Commerce والتخزين
 metadata:
-  title: نقطة البيع (POS) وعمليات المتجر
-  description: تصف هذه الوحدة عمليات نقطة البيع (POS) وعمليات التخزين في Dynamics 365 Commerce
+  title: عمليات Store Commerce والتخزين
+  description: تصف هذه الوحدة عمليات Store Commerce وعمليات التخزين في Dynamics 365 Commerce
   ms.date: 06/19/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ec10a792f4c8f5af73b4ba7e09891354e1b934ff
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4cc7c614a4fa221066ea22fe17d606fba59a15ce
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7336067"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300727"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-point-sale-store-operations.md)]"

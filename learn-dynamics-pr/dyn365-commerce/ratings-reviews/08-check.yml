@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 57977cb06d586898a1dd9d26fa461fcd80488565
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 05e654b1ca81a1a0f5e61ab62da08f1b82a5abc6
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360711"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299669"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -23,9 +23,9 @@ quiz:
     - content: Dynamics Lifecycle Services (LCS)
       isCorrect: true
       explanation: Lifecycle Services (LCS) هي مدخل تعاون يوفر بيئة ومجموعة من الخدمات والميزات المحدثة بشكل منتظم يمكنها مساعدتك على إدارة دورة حياة البرنامج الخاصة بعمليات تنفيذ تطبيقات Dynamics 365.
-    - content: تطبيقات Finance and Operations
+    - content: تطبيقات التمويل والعمليات
       isCorrect: false
-      explanation: تطورت تطبيقات Finance and Operations إلى تطبيقات مُصممة لغرض معين لمساعدتك في إدارة وظائف أعمال محددة، ولكن لا يمكنك الحفاظ على بيئات Commerce من هناك.
+      explanation: تطورت تطبيقات التمويل والعمليات إلى تطبيقات مُصممة لغرض معين لمساعدتك في إدارة وظائف أعمال محددة، ولكن لا يمكنك الحفاظ على بيئات Commerce من هناك.
     - content: Dynamics 365 Commerce
       isCorrect: false
       explanation: Dynamics 365 Commerce عبارة عن حل خاص بالتجارة الإلكترونية، حيث يمكنك بناء الولاء للعلامة التجارية من خلال مشاركات العملاء المخصصة، ولكن لا يمكنك تطبيق ميزات على البيئة الموجودة في التطبيق.
@@ -48,6 +48,6 @@ quiz:
     - content: تكوين مهمة مزامنة تقييمات المنتجات كوظيفة دفعية.
       isCorrect: true
       explanation: تكوين مهمة مزامنة تقييمات المنتج كوظيفة دفعية لمزامنة تقييمات المنتج من خدمة التقييمات والمراجعات هي الخطوة الأولى الصحيحة.
-    - content: اجعل تقييمات المنتج متاحة في نقطة البيع.
+    - content: اجعل تقييمات المنتج متاحة في Store Commerce.
       isCorrect: false
-      explanation: لا يتم عرض تقييمات المنتجات في نقطة البيع افتراضياً. لمساعدة العملاء في المتاجر على رؤية التقييمات والمراجعات، يجب تشغيل تقييمات المنتجات في نقطة البيع.
+      explanation: لا يتم عرض تقييمات المنتج في Store Commerce افتراضياً. لمساعدة العملاء في المتاجر على رؤية التقييمات والمراجعات، يجب تشغيل تقييمات المنتجات في Store Commerce.

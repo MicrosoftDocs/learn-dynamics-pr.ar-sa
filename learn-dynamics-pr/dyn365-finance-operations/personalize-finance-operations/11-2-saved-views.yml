@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops.11-2-saved-views
 title: طرق العرض المحفوظة
 metadata:
   title: طرق العرض المحفوظة
-  description: توضح هذه الوحدة كيفية العمل مع طرق العرض المحفوظة في تطبيقات Dynamics 365 Finance and Operations.
-  ms.date: 11/17/2021
+  description: توضح هذه الوحدة كيفية العمل مع طرق العرض المحفوظة في تطبيقات التمويل والعمليات في Dynamics 365.
+  ms.date: 08/17/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3ab77e49dc2e56a78cf4f36b404dda752ee47f90
-  ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
+  ms.openlocfilehash: 11085764eba89d99472e300f9d954943bad3d8c4
+  ms.sourcegitcommit: 024ab2d8571f8f94e6b1e884ba62c11bbfa062fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/17/2021
-  ms.locfileid: "7818333"
+  ms.lasthandoff: 08/18/2022
+  ms.locfileid: "9306997"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

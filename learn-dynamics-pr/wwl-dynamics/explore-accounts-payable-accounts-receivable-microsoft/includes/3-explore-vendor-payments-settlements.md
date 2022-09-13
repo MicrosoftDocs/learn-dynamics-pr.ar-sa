@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4cdb8b343bc7523cd7dd7ab6bac9f83efcec0b91
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: 2a19fadfd86803f7692853b74a626b24bcb513a5
+ms.sourcegitcommit: 7187f5418e56c9e5a90a3998460517b243c60792
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9024511"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "9242181"
 ---
 لمناقشة مدفوعات المورد، دعنا أولاً نفحص المكان الذي تتلاءم فيه مع عمليات الأعمال الخاصة بحسابات المدفوعات.
 
@@ -106,7 +106,7 @@ ms.locfileid: "9024511"
     250.00
   :::column-end:::
   :::column:::
-    29 ‏‏يونيو
+    28 ‏‏يونيو
   :::column-end:::
   :::column:::
     

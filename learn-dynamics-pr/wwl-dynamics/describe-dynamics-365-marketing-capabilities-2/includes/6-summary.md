@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 812bc53b9d4ccdae322f62c1f5e9e965ea964b80
-ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+ms.openlocfilehash: dd7d4bf18378accfa148e33c8db48f3d11ea9fae
+ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "8615031"
+ms.lasthandoff: 08/23/2022
+ms.locfileid: "9345134"
 ---
 كما ترى، يمكنك استكمال ميزات التشغيل التلقائي للتسويق الأساسي في Dynamics 365 Marketing بإمكانات تزايدية مثل Customer Voice أو Customer Insights.  وبذلك يمكنك إنشاء حلول تسويقية أكثر قوة قائمة على ممارسات التسويق التي أثبتت جدواها والتي تستهدف عملاء اليوم. 
 

@@ -4,15 +4,15 @@ title: المساعدة الذكية
 metadata:
   title: المساعدة الذكية
   description: تعرف على كيفية استخدام المساعدة الذكية.
-  ms.date: 08/07/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/16/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a1cc83ccfcca08c2d8c97a2883f095ee87a9fa65
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 74283ef953098808ffc58e5f12ef687279e0c943
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365964"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356626"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-smart-assist.md)]"

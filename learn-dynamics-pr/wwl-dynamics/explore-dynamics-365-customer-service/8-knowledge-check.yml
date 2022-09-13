@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: التحقق من المعرفة
   description: التحقق من المعرفة
-  ms.date: 07/26/2022
+  ms.date: 08/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 340fc90db2a1b28e567319749b8c0475c2f29b19
-  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
+  ms.openlocfilehash: a55760545c6add77cb3d968e0ee6ef387be570f6
+  ms.sourcegitcommit: 95cd9b85415c5105ee0265f66991410633840b6d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/27/2022
-  ms.locfileid: "9200920"
+  ms.lasthandoff: 08/08/2022
+  ms.locfileid: "9238331"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -34,7 +34,7 @@ quiz:
     - content: اللوحة ذات الصلة
       isCorrect: false
       explanation: غير صحيح. سيتم عرض نشاط المكالمة الهاتفية في المخطط الزمني للسجل.
-  - content: ما هو الحقل الذي يتم البحث فيه افتراضياً لتقديم اقتراحات المقالة المعرفية؟
+  - content: ما هو الحقل الذي يتم البحث فيه افتراضياً لتقديم اقتراحات المقال المعرفي؟
     choices:
     - content: الوصف‏‎
       isCorrect: false

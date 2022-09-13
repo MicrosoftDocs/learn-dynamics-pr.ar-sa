@@ -3,20 +3,20 @@ uid: learn-dynamics.omnichannel-power-virtual-agents.5-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
-  ms.date: 09/29/2021
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 07/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d851d244720141dfde922f689125ef4acdf5f9c8
-  ms.sourcegitcommit: e7659d30de4a9e795466e9211542a767dbc26e98
+  ms.openlocfilehash: a176c0ca8b6c41061bc708a93a11052effc69899
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/30/2021
-  ms.locfileid: "7582249"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356376"
 durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: ما هي عقدة المحادثة التي تريد إضافتها إلى الروبوت للمساعدة في بدء النقل إلى مندوب مباشر؟
     choices:

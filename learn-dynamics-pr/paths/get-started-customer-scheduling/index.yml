@@ -7,13 +7,13 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: d76f887f8ee7c1a1863468f61c246af607500795
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 1f929e53d03682857c73adbb9aae4eac676cb355
+  ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752160"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9321509"
 title: الشروع في التعامل مع جدولة Dynamics 365 Customer Service.
 summary: >
   [!include[](../../includes/lp-banner.md)]

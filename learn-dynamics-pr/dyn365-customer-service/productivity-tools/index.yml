@@ -3,19 +3,19 @@ uid: learn-dynamics.productivity-tools
 metadata:
   title: ابدأ باستخدام أدوات الإنتاجية Dynamics 365
   description: تساعد أدوات الإنتاجية Dynamics 365 المناديب على تنفيذ عملياتهم اليومية بشكل أسرع وبكفاءة وبأسلوب يتوافق مع العمليات.
-  ms.date: 08/07/2020
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/16/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2a1b38dad3afc5474b4e511c5fce611abe798132
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e0e3d7b755ba8c7b8573550842d257ca2a906f9f
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748328"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356396"
 title: ابدأ باستخدام أدوات الإنتاجية Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nتساعد أدوات الإنتاجية Dynamics 365 المناديب على تنفيذ عملياتهم اليومية بشكل أسرع وبكفاءة وبأسلوب يتوافق مع العمليات.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام وحدات الماكرو.\n- تعرف على كيفية استخدام الأتمتة.\n- استكشف استخدام البرامج النصية للمندوب.\n- تعرف على كيفية استخدام المساعدة الذكية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية استخدام وحدات الماكرو.\n- تعرف على كيفية استخدام الأتمتة.\n- استكشف استخدام البرامج النصية للمندوب.\n- تعرف على كيفية استخدام المساعدة الذكية.\n"
 prerequisites: بلا
 iconUrl: /learn/achievements/productivity-tools.svg
 levels:

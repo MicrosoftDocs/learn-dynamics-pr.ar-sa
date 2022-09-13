@@ -4,16 +4,15 @@ title: التعامل مع سجلات الحالات
 metadata:
   title: التعامل مع سجلات الحالات
   description: تعرف على كيفية التعامل مع سجلات الحالات.
-  ms.date: 08/03/2021
+  ms.date: 08/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: eac4be108773e41b0f565177a9a828d1dacc88ef3be695c032a84cddc5cf6a09
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 04590115898a18bd6cbf72eaa3e863c94a428d36
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7075875"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364356"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-cases.md)]"

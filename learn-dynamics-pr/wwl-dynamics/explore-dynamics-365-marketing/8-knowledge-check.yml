@@ -4,17 +4,17 @@ title: التحقق من المعرفة
 metadata:
   title: ‏التحقق من المعرفة
   description: ‏التحقق من المعرفة
-  ms.date: 04/26/2022
+  ms.date: 08/19/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 9aa80c4ff82e9179c1399d8f60694388e3834e90
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: f194003686aee712f331b6a23bfbdb41987fbf8a
+  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8632803"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9345136"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -41,7 +41,7 @@ quiz:
       explanation: صحيح. هذه الإجابة صحيحة لأن المقاطع الموجودة في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة.
     - content: تقسيم الحسابات المختلفة الموجودة في مدينة محددة
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن المقاطع في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة. لا تستند القطاعات على الحسابات.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن المقاطع في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة. لا تستند المقاطع إلى الحسابات.
     - content: أقسام معلومات العميل كما تظهر في النماذج
       isCorrect: false
       explanation: غير صحيح. هذه الإجابة غير صحيحة لأن المقاطع في Dynamics 365 Marketing تستند إلى جدول جهات الاتصال ويتم استهدافها استناداً إلى السمات الشائعة.
@@ -49,10 +49,10 @@ quiz:
     choices:
     - content: تفاصيل وسائل التواصل الاجتماعي.
       isCorrect: false
-      explanation: غير صحيح.‬ هذا غير صحيح لأن نقاط العميل المتوقع تعتمد على التفاعلات مع موقع الشركة على الويب، ولكنها لا تحسب في محتوى أو سلوك وسائل التواصل الاجتماعي العامة.
+      explanation: ‏‫غير صحيح. هذه الإجابة غير صحيحة لأن نقاط العميل المتوقع تعتمد على التفاعلات مع موقع الشركة على الويب، ولكنها لا تحسب في محتوى أو سلوك وسائل التواصل الاجتماعي العامة.
     - content: التفاعل مع المنافس.
       isCorrect: false
-      explanation: غير صحيح.‬ هذا غير صحيح لأن نقاط العميل المتوقع تعتمد على التفاعلات مع مؤسستك.
+      explanation: ‏‫غير صحيح. هذه إجابة غير صحيحة لأن نقاط العميل المتوقع تعتمد على التفاعلات مع مؤسستك.
     - content: التفاعلات مع مؤسستك.
       isCorrect: true
-      explanation: صحيح. هذا صحيح لأن تسجيل نقاط العميل المتوقع يعتمد على إجراءات مثل زيارة موقع الشركة على الويب أو إرسال نموذج أو حضور حدث.
+      explanation: صحيح. هذه إجابة صحيحة لأن تسجيل نقاط العميل المتوقع يعتمد على إجراءات مثل زيارة موقع الشركة على الويب أو إرسال نموذج أو حضور حدث.

@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.configure-retail-store-pos
 metadata:
-  title: تكوين متجر البيع بالتجزئة ونقطه البيع في Dynamics 365 Commerce
+  title: تكوين متجر البيع بالتجزئة وStore Commerce في Dynamics 365 Commerce
   description: يتيح Dynamics 365 Commerce التكوين المركزي وإدارة قنوات Commerce المتعددة.
-  ms.date: 04/23/2021
+  ms.date: 08/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1487275625975f706c276f00eddabe883b757d4f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3055b52948a0e61b6ab5ad833e0bbac5e8efadb3
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750125"
-title: تكوين متجر البيع بالتجزئة ونقطه البيع في Dynamics 365 Commerce
-summary: "[!include[](../includes/module-banner.md)] \nيتيح Dynamics 365 Commerce التكوين المركزي وإدارة قنوات Commerce المتعددة. تعتبر متطلبات عمليات تقليدية فريدة من نوعها مقارنة بقنوات Commerce الأخرى. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين ملفات التعريف وإنشاء السجلات والأجهزة.\n- تعرف على كيفية تصميم الإيصالات وتخطيطات الشاشة.\n- تعرف على كيفية تكوين بطاقة العامل وتعيين العمليات والأذونات.\n- تعرف على كيفية إنشاء متجر بيع بالتجزئة.\n- قم بتنشيط Modern POS ‏(MPOS) وCloud POS ‏(CPOS).\n"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299142"
+title: تكوين متجر البيع بالتجزئة وStore Commerce في Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيتيح Dynamics 365 Commerce التكوين المركزي وإدارة قنوات Commerce المتعددة. تعتبر متطلبات عمليات تقليدية فريدة من نوعها مقارنة بقنوات Commerce الأخرى. \n> [!NOTE]\n> ينطبق المحتوى الموجود في هذه الوحدة أيضاً على Store Commerce لـ Windows وStore Commerce للمتصفحات\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين ملفات التعريف وإنشاء السجلات والأجهزة.\n- تعرف على كيفية تصميم الإيصالات وتخطيطات الشاشة.\n- تعرف على كيفية تكوين بطاقة العامل وتعيين العمليات والأذونات.\n- تعرف على كيفية إنشاء متجر بيع بالتجزئة.\n- تنشيط Store Commerce لـ Windows وStore Commerce للمتصفحات.\n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce والقنوات المختلفة
 

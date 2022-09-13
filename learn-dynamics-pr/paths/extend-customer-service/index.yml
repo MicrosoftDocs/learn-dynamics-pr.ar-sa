@@ -7,13 +7,13 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.service: dynamics-365-customer-service
-  ms.openlocfilehash: 3fbdaafff563c91100e224a9f839a87cddbe6dd4
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: f0e4bd23f5c271e27459dc474bce78ceafef77c3
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752223"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363548"
 title: توسيع Dynamics 365 Customer Service
 summary: >
   [!include[](../../includes/lp-banner.md)]

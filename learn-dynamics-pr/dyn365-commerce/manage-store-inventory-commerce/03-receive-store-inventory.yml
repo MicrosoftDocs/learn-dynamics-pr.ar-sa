@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.manage-store-inventory-commerce.03-receive-store-inventory
-title: استلام مخزون المتجر من نقطة البيع
+title: استلام مخزون المتجر من Store Commerce
 metadata:
-  title: استلام مخزون المتجر من نقطة البيع
-  description: تعرف على كيفية استلام مخزون المتجر من نقطة البيع في Dynamics 365 Commerce.
+  title: استلام مخزون المتجر من Store Commerce
+  description: تعرف على كيفية استلام مخزون المتجر من Store Commerce في Dynamics 365 Commerce.
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 85da9eaecfb07228c07346701fa5b8a1b3da5496
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c674eff242a3328afc47b2c3138a952be288aef6
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326829"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299766"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03-receive-store-inventory.md)]"

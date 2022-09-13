@@ -3,16 +3,16 @@ uid: learn-bizapps.creating-and-designing-knowledge-management-solutions
 metadata:
   title: إنشاء حلول إدارة المعرفة في Dynamics 365 Customer Service
   description: تعرَّف على كيفية تصميم حلول إدارة المعرفة وإنشائها.
-  ms.date: 02/02/2019
-  author: davebeasley
-  ms.author: dbeasley
+  ms.date: 08/18/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1c5d79ec4d13f1583878da25cdea26d6b272b29f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 134874000e53a5e6e3e89d1be680853da8c736ca
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753490"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356407"
 title: إنشاء حلول إدارة المعرفة في Dynamics 365 Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,15 +20,15 @@ summary: >
 
   ستركز هذه الوحدة على بناء حلول إدارة المعرفة باستخدام 365 Microsoft Dynamics. وتقدم نظرة عامة على مختلف الخيارات المتوفرة لإدارة المعرفة، وتتضمن معلومات عن تحديد المقالات المعرفية، وإدارة إصدارات المقالات، ونشر المقالات.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - تحديد السيناريوهات التي يمكن استخدام مقالات معرفية فيها
 
   - إنشاء مقالات معرفية في Dynamics 365 وتحديدها
 
-  - إدارة دورة حياة المقالة المعرفية
+  - إدارة دورة حياة المقال المعرفي
 
-  - التحكم في إصدار المقالة، وترجمتها، وخيارات نشرها
+  - التحكم في إصدار المقال، وترجمته، وخيارات نشره
 prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365 ومعرفة عملية بالسجلات الأساسية المتوفرة. يُعد الإلمام بإنشاء الحالات وإدارتها في Dynamics 365 مفيداً أيضاً.
 iconUrl: /learn/achievements/create-and-design-knowledge-management-solutions.svg
 levels:

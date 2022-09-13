@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-transactions-pos.05-void
-title: الحركات اللاغية في نقطة البيع
+title: ‏‫الحركات اللاغية في Store Commerce
 metadata:
-  title: الحركات اللاغية في نقطة البيع
-  description: تعرف على الحركات اللاغية في نقطة البيع.
+  title: ‏‫الحركات اللاغية في Store Commerce
+  description: تعرف على كيفية إلغاء الحركات في Store Commerce.
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 731d96d3e3fa8d48f9603b3a052fe42d5562ce68
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 23a5499dba23b6a92fbb91938c1780ac8845c8a9
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362214"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300905"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05-void.md)]"

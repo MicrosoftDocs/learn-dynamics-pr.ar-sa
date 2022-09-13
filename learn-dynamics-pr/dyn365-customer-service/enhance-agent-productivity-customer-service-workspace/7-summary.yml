@@ -4,16 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص لتحسين إنتاجية الوكيل باستخدام مساحة عمل Dynamics 365 Customer Service
-  ms.date: 08/03/2021
+  ms.date: 08/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 978fd489508a2bf88463d4cba9c26daa6de01fb691972132ae913add8342272d
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 0456c53e089ad868d00f280540b8b7d76824fe9e
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7075859"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362463"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

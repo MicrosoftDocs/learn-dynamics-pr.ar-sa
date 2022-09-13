@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 18a33a9b14d1085b003f43c4d489679a4739251aa5f9f1f2d5887b84cb986666
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8ba39150ed9986c6e25c18ad3506631a1c476a1f
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7049056"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9300577"
 ---
-يتميز Dynamics 365 Commerce بمرونة تصميمه عبر العديد من القنوات المختلفة. وتتيح هذه المرونة إمكانية تنظيم متطلبات نقطة البيع الفريدة الخاصة ببائع التجزئة من خلال تصميم دقيق لمهام سير العمل في واجهة المستخدم. 
+يتميز Dynamics 365 Commerce بمرونة تصميمه عبر العديد من القنوات المختلفة. تسمح هذه المرونة بتبسيط متطلبات Store Commerce الفريدة لبائع التجزئة من خلال التصميم الدقيق لسير العمل في واجهة المستخدم. 
 
 تمت تغطية المفاهيم التالية في هذه الوحدة النمطية:
 

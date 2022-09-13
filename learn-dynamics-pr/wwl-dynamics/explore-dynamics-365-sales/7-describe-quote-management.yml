@@ -4,17 +4,17 @@ title: وصف إدارة عرض الأسعار
 metadata:
   title: وصف إدارة عرض الأسعار
   description: وصف إدارة عرض الأسعار
-  ms.date: 07/25/2022
+  ms.date: 08/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: 44cb00cbe97fbab52369bc87ac759fd28b26f688
-  ms.sourcegitcommit: 6b7bb919150719d7f2b88c34b66a535036d417d3
+  ms.openlocfilehash: 35938c28a445190d3a2fa8b5a53c728a29486bd8
+  ms.sourcegitcommit: 95cd9b85415c5105ee0265f66991410633840b6d
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/25/2022
-  ms.locfileid: "9189188"
+  ms.lasthandoff: 08/08/2022
+  ms.locfileid: "9238321"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

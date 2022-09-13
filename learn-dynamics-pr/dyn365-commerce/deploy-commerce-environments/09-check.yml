@@ -4,50 +4,50 @@ title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 06/24/2020
+  ms.date: 08/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: be0584ebb0ec4275dc4d8629eedaa45884add7a7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 31024cb1c16303a71189155825af3ea0b18886b0
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347051"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9299866"
 durationInMinutes: 8
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي نمط لديه الحد الأدنى من التوزيع مع المرونة؟
     choices:
-    - content: نقاط البيع السحابية فقط
+    - content: Store Commerce لـ Browsers فقط.
       isCorrect: false
-      explanation: نقطة بيع المجموعة لا تشغل أي مساحة، ولا تتضمن أي توزيع.
-    - content: المجموعة المزودة بنقطة بيع غير متصلة
+      explanation: Store Commerce لـ Browsers فقط لا تشغل أي مساحة، ولا تتضمن أي توزيع.‬
+    - content: Store Commerce لـ Browsers غير متصلة‬
       isCorrect: true
-      explanation: تتضمن المجموعة المزودة بنقطة بيع غير متصلة الحد الأدنى للتوزيع مع المرونة.
-    - content: نقطة بيع المجموعة المزودة بمحطة أجهزة
+      explanation: تتضمن Store Commerce لـ Browsers غير المتصلة‬ الحد الأدنى للتوزيع مع المرونة.
+    - content: Store Commerce لـ Browsers المزودة بمحطة أجهزة‬
       isCorrect: false
-      explanation: تتضمن نقطة بيع المجموعة المزودة بمحطة أجهزة نقطة بيع لا تشغل أي مساحة والحد الأدنى من التوزيع.
+      explanation: Store Commerce لـ Browsers المزودة بمحطة أجهزة‬ لا تشغل أي مساحة في Store Commerce، وتتضمن الحد الأدنى من التوزيع.‬‬
   - content: ما النمط الذي يسمح بالاتصال المباشر للأجهزة الطرفية غير المتصلة بالشبكة؟
     choices:
-    - content: نقطة بيع المجموعة المزودة بمحطة أجهزة
+    - content: Store Commerce لـ Browsers المزودة بمحطة أجهزة‬
       isCorrect: true
-      explanation: تسمح نقطة بيع المجموعة المزودة بمحطات أجهزة بالاتصال المباشر للأجهزة الطرفية غير المتصلة بالشبكة.
-    - content: المجموعة المزودة بنقطة بيع غير متصلة
+      explanation: تسمح Store Commerce لـ Browsers المزودة بمحطات أجهزة بالاتصال المباشر للأجهزة الطرفية غير المتصلة بالشبكة.
+    - content: Store Commerce لـ Browsers غير متصلة‬
       isCorrect: false
-      explanation: تستخدم ‏‫المجموعة المزودة بنقطة بيع غير متصلة محطة أجهزة بعيدة للأجهزة الطرفية.
+      explanation: تستخدم ‏‫Store Commerce لـ Browsers غير المتصلة محطة أجهزة بعيدة للأجهزة الطرفية.
     - content: وحدات CSU الموزعة في المجموعة الخاصة
       isCorrect: false
       explanation: تتطلب وحدة CSU اتصال الشبكة بالأجهزة الطرفية.
-  - content: من أين يمكنك إجراء التنزيل الشامل لأدوات تثبيت الوحدة الطرفية لنقطة البيع؟
+  - content: من أين يمكنك إجراء التنزيل الشامل لأدوات تثبيت الوحدة الطرفية في Store Commerce؟
     choices:
     - content: Lifecycle Services
       isCorrect: false
-      explanation: تساعد Lifecycle Services (LCS) على تحسين القدرة على التنبؤ والجودة لعمليات التنفيذ من خلال تبسيط عمليات التنفيذ وتوحيد معاييرها. لن تتمكن من تنزيل أدوات تثبيت الوحدة الطرفية لنقطة البيع من LCS.
+      explanation: تساعد Lifecycle Services (LCS) على تحسين القدرة على التنبؤ والجودة لعمليات التنفيذ من خلال تبسيط عمليات التنفيذ وتوحيد معاييرها. لن تتمكن من تنزيل أدوات تثبيت الوحدة الطرفية لـ Store Commerce من LCS.
     - content: التجارة الإلكترونية
       isCorrect: false
       explanation: التجارة الإلكترونية هي موقع على الإنترنت يسمح للعملاء بالشراء على أي جهاز.
     - content: التجارة
       isCorrect: true
-      explanation: Commerce كمركز رئيسي هو المكان الذي تحصل من خلاله على نظرة عامة على جميع القنوات وتوزيع القنوات. يمكنك إجراء التنزيل الشامل لأدوات تثبيت الوحدة الطرفية لنقطة البيع من توزيع القناة.
+      explanation: Commerce كمركز رئيسي هو المكان الذي تحصل من خلاله على نظرة عامة على جميع القنوات وتوزيع القنوات. يمكنك إجراء التنزيل الشامل لأدوات تثبيت الوحدة الطرفية لـ Store Commerce من توزيع القناة.

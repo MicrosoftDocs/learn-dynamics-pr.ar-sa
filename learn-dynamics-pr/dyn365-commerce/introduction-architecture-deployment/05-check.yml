@@ -8,27 +8,27 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d22eff506d28d9cf19b513e06796a6920f18e74c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 70379fa6573bfb7dd4b4d7652e2bf53f0331efdc
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363937"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300627"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: ما هو الفرق الرئيسي بين نقطة البيع السحابية‬ (CPOS) ‫ونقطة البيع الحديثة (MPOS)؟
+  - content: ما الفرق الرئيسي بين Store Commerce للمتصفحات وStore Commerce لنظام Windows؟
     choices:
-    - content: تقدم نقطة البيع السحابية إمكانات دون الاتصال بالإنترنت وإمكانات عبر الإنترنت.
+    - content: يوفر Store Commerce للمتصفحات إمكانات غير متصلة بالإنترنت وإمكانات عبر الإنترنت.
       isCorrect: false
-      explanation: تتوفر نقطة البيع السحابية عبر الإنترنت فقط.
-    - content: لا توفر نقطة البيع السحابية إمكانات دون الاتصال بالإنترنت.
+      explanation: يتوفر Store Commerce للمتصفحات عبر الإنترنت فقط.
+    - content: لا يحتوي Store Commerce للمتصفحات على إمكانات غير متصلة بالإنترنت.
       isCorrect: true
-      explanation: لا توفر نقطة البيع السحابية إمكانات دون الاتصال بالإنترنت. تتوفر نقطة البيع السحابية عبر الإنترنت فقط بينما تحتوي نقطة البيع الحديثة على إمكانات دون الاتصال بالإنترنت.
-    - content: لا يمكن استخدام نقطة البيع السحابية إلا على الأجهزة التي تعمل باللمس.
+      explanation: لا يحتوي Store Commerce للمتصفحات على إمكانات غير متصلة بالإنترنت. لا يتوفر Store Commerce للمتصفحات إلا عبر الإنترنت بينما يحتوي Store Commerce لنظام Windows على إمكانات غير متصلة بالإنترنت.
+    - content: لا يمكن استخدام Store Commerce للمتصفحات إلا على أجهزة الشاشات التي تعمل باللمس.
       isCorrect: false
-      explanation: يمكن استخدام نقطة البيع السحابية عبر نقاط متعددة، وليس فقط على الأجهزة التي تعمل باللمس.
+      explanation: يمكن استخدام v عبر نقاط متعددة، وليس فقط على الأجهزة التي تعمل باللمس.
   - content: أي من الخيارات التالية هو نظام عرض موقع الويب الموجه للعملاء الخاص بـ Commerce؟
     choices:
     - content: Dynamics 365 Commerce
@@ -37,14 +37,14 @@ quiz:
     - content: واجهة متجر التجارة الإلكترونية
       isCorrect: true
       explanation: تُعد واجهة متجر التجارة الإلكترونية بمثابة نظام عرض موقع الويب الموجه للعملاء.
-    - content: نقطة البيع السحابية
+    - content: Store Commerce للمتصفحات
       isCorrect: false
-      explanation: تُعد نقطة البيع السحابية بمثابة نظام نقاط البيع المستند إلى المتصفح.
+      explanation: يُعد Store Commerce للمتصفحات بمثابة نظام نقاط البيع المستند إلى المتصفح.
   - content: أي من الخيارات التالية يٌعد أفضل وصف لـ Commerce Scale Unit؟
     choices:
     - content: حل عبر الأنظمة الأساسية وتطبيق دون اتصال بالإنترنت
       isCorrect: false
-      explanation: تمثل نقطة البيع الحديثة حلاً عبر الأنظمة الأساسية لجميع العمليات داخل المتجر ويمكن نشرها كتطبيق يتمتع بإمكانات دون الاتصال بالإنترنت.
+      explanation: يمثل Store Commerce لنظام Windows حلاً عبر الأنظمة الأساسية لجميع العمليات داخل المتجر ويمكن نشرها كتطبيق يتمتع بإمكانات دون الاتصال بالإنترنت.
     - content: نقطة تكامل مركزية لجميع مناطق Commerce
       isCorrect: true
       explanation: تعمل Commerce Scale Unit كنقطة تكامل مركزية لكافة مناطق الأعمال التجارية وتقوم بتشغيل حل القناة متعددة الاتجاهات عبر المتاجر الفعلية والمتاجر الرقمية.

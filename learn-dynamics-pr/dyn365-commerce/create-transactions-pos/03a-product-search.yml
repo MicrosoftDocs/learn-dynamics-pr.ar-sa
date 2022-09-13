@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-transactions-pos.03a-product-search
-title: البحث عن المنتج والعميل في نقطة البيع
+title: البحث عن المنتج والعميل في Store Commerce
 metadata:
-  title: البحث عن المنتج والعميل في نقطة البيع
-  description: تعرف على البحث عن المنتج والعميل في نقطة البيع.
-  ms.date: 04/26/2021
+  title: البحث عن المنتج والعميل في Store Commerce
+  description: تعرف على البحث عن المنتج والعميل في Store Commerce.
+  ms.date: 08/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1691597d8c18ea65f446c52eb86d2ea05903bac9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 784ef696aa66dec913e4dc2bd5babb4dd6aaaa9f
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346262"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300995"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/03a-product-search.md)]"

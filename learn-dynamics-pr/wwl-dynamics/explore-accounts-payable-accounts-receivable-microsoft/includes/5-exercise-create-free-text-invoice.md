@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fee6edcf85f877cbd67d779d3ee0139a184dca27
-ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
+ms.openlocfilehash: dd4d2c3b3ffefb4e8bff6c4b85052145f3d38c79
+ms.sourcegitcommit: 7187f5418e56c9e5a90a3998460517b243c60792
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/04/2022
-ms.locfileid: "9224938"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "9242171"
 ---
 [!INCLUDE[](../../../includes/unit-banner.md)]
 [!INCLUDE[](../../../includes/accessing-labs.md)]
@@ -24,7 +24,7 @@ ms.locfileid: "9224938"
 
 5. في الحقل **حساب العميل**، أدخل **US-001**.
 
-6. انتقل إلى بند الفاتورة وحدد **601510** في الحساب **الرئيسي**.
+6. انتقل إلى بند الفاتورة وحدد **601600** في الحساب **الرئيسي**.
 
 يجب تحديث حقلي المجموعة الضريبية ومجموعة ضريبة الصنف تلقائياً باستخدام CA وAU/VI على التوالي.
 

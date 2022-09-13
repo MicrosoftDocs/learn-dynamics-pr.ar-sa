@@ -4,17 +4,17 @@ title: الملخص
 metadata:
   title: الملخص
   description: الملخص
-  ms.date: 02/02/2019
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/18/2022
+  author: KevSch
+  ms.author: kschimke
   ms.topic: interactive-tutorial
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 6002b3cdffa688f545936415b8583499cfffe785
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ac689f81c40404df2f52c4e4038217588d2cd233
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362946"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356586"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

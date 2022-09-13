@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a4fbedfec872469df000cb7ee23c19ac9de3a95e
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 491faf4b560faa6ad138efb8b4aa0ee3a7008b2b
+ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7360560"
+ms.lasthandoff: 08/23/2022
+ms.locfileid: "9322526"
 ---
 Microsoft Azure Data Lake Storage هو تجمع لا محدود للبيانات يمكن المؤسسات من تشغيل الإجراءات الذكية. فهو يزيل تعقيدات تناول وتخزين جميع بياناتك مع جعلها أسرع للتشغيل مع التحليلات المجمعة والمتدفقة والتفاعلية. 
 
@@ -12,7 +12,7 @@ Microsoft Azure Data Lake Storage هو تجمع لا محدود للبيانات
 
 يمكن لتطبيقات Finance and Operations استخدام Data Lake Storage لإمكانيات الذكاء الاصطناعي والتحليلات، مما يتيح لك الاستفادة من فعالية التكلفة ونقاط القوة لتقنية Azure Data Lake Storage. 
 
-يتوفر متجر الكيان في Azure Data Lake Storage بحيث يمكنك تمكين تحليلات الذكاء الاصطناعي المتقدمة، مثل الاستدلال على البيانات، عبر تطبيقات Finance and Operations والبيانات الأخرى في Azure Data Lake Storage. توفر تطبيقات Finance and Operations وصولاً مباشراً إلى البيانات غير المشمولة التي لم تتم تسويتها في وقت قريب من الوقت الحقيقي. 
+يتوفر متجر الكيان في Azure Data Lake Storage بحيث يمكنك تمكين تحليلات الذكاء الاصطناعي المتقدمة، مثل الاستدلال على البيانات، عبر تطبيقات Finance and Operations والبيانات الأخرى في Azure Data Lake Storage. توفر تطبيقات التمويل والعمليات وصولاً مباشراً إلى بيانات المعاملات التي لم تتم تسويتها في وقت قريب من الوقت الحقيقي. 
 
 تتوفر مخططات متجر الكيانات في Azure Data Lake Storage بحيث يمكنك الوصول مباشرةً إلى البيانات التي لم تتم تسويتها للتقارير والتحليلات. يتم تخزين القياسات المجمعة‬‏‫ في Data Lake Storage كنماذج للبيانات العامة التي تمكن سيناريوهات تجميع البيانات والتحليل الثري. على سبيل المثال، يمكن إرفاق بيانات القياس التجميعي Microsoft Power BI كتدفقات بيانات مرجعية واستخدامها في إعداد التقارير باستخدام Power BI. يمكن لمستخدمي Power إنشاء مجموعات بيانات وتقارير جديدة في Power BI Desktop.
 

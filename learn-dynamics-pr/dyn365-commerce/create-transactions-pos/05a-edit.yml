@@ -3,16 +3,16 @@ uid: learn-dynamics.create-transactions-pos.05a-edit
 title: تحرير أمر عميل موجود
 metadata:
   title: تحرير أمر عميل موجود
-  description: التعرف على كيفية تحرير أمر عميل موجود في نقطة بيع.
+  description: التعرف على كيفية تحرير أمر عميل موجود في Store Commerce.
   ms.date: 04/26/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8ac375a0ec8353e84b1c4a6cf73b979d83d7eefe
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c7e09fc636d67d95faf54ac8eae557a27eade32b
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358930"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300567"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/05a-edit.md)]"

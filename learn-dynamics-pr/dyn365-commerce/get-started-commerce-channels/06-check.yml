@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8ef4ec7ffd41dc0b19080bbf942f35831503e188
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 59b2a17a7a83657318698da5bd8c74213e597321
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7324770"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300294"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -29,7 +29,7 @@ quiz:
     - content: إدارة الأصول الرقمية
       isCorrect: false
       explanation: تُستخدم إدارة الأصول الرقمية لإدارة ملفات الوسائط في التجارة الإلكترونية، ولكنها تعتمد على ‏‫CMS بدون أجهزة ملحقة‬‬ كمكون رئيسي لإدارة البيانات.
-  - content: تسمح لك نقطة البيع الحديثة (MPOS) بإنجاز أي من المهام التالية؟
+  - content: يسمح لك Store Commerce لنظام Windows بإنجاز أي من المهام التالية؟
     choices:
     - content: إدارة قنوات التجارة الإلكترونية بشكل مركزي
       isCorrect: false
@@ -39,4 +39,4 @@ quiz:
       explanation: تتم إدارة قنوات مركز الاتصال بواسطة المركز الرئيسي لـ Commerce.
     - content: إدارة عمليات متجر البيع بالتجزئة مع وصول محدود إلى الشبكة
       isCorrect: true
-      explanation: تتيح لك MPOS إمكانية إنشاء متجر بيع بالتجزئة لتجار التجزئة المهتمين بالوصول الموثوق إلى الشبكة.
+      explanation: يتيح لك Store Commerce لنظام Windows إمكانية إنشاء متجر بيع بالتجزئة لتجار التجزئة المهتمين بالوصول الموثوق إلى الشبكة.

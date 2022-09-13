@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 80850fd9d28165b4a71a3b80aaac9247db0b66c1
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 570171ba00605f8e1b64d341ea22dfd0844fd3b4
+ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7360729"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "9299547"
 ---
 إن القدرة على تنفيذ أمر ما بمرور الوقت باستخدام إذن دفع واحد ممكنة مع الالتقاط المتزايد. على سبيل المثال، قد يتم تنفيذ أمر العميل في ثلاث شحنات. 
 
@@ -18,7 +18,7 @@ ms.locfileid: "7360729"
 
 
 > [!NOTE]
-> عند تنفيذ الطلبات من نقطة البيع والمركز الرئيسي لـ Commerce، يدعم Dynamics 365 Payment Connector for Adyen الالتقاط المتزايد بشكل جاهز.
+> عند تنفيذ الأوامر من Store Commerce وCommerce headquarters، يدعم Dynamics 365 Payment Connector لـ Adyen الالتقاط المتزايد بشكل جاهز.
 
 يمكنك العثور على موارد إضافية حول الالتقاط المتزايد هنا:
 

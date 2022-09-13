@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.configure-retail-store-pos.12-exercise-3
-title: 'تدريب: تنشيط الوحدة الطرفية لنقطة البيع'
+title: تدريب - تنشيط محطة Store Commerce للمتصفحات
 metadata:
-  title: 'تدريب: تنشيط الوحدة الطرفية لنقطة البيع'
-  description: تدرب على تنشيط الوحدة الطرفية لنقطة البيع في Dynamics 365 Commerce.
-  ms.date: 04/23/2021
+  title: تدريب - تنشيط محطة Store Commerce للمتصفحات
+  description: تدرب على تنشيط محطة Store Commerce للمتصفحات في Dynamics 365 Commerce.
+  ms.date: 08/15/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 41f3919159d9df50279898b409e7635d284f0be4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2d73b73ed2fb78aee4254b1e6a5da552293819c3
+  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356218"
+  ms.lasthandoff: 08/15/2022
+  ms.locfileid: "9300825"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/12-exercise-3.md)]"

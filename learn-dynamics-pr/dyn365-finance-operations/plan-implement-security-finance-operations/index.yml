@@ -3,19 +3,19 @@ uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops
 metadata:
   title: تخطيط الأمان وتنفيذه في تطبيقات التمويل والعمليات
   description: إذا كنت تفهم بنية الأمان لتطبيقات التمويل والعمليات، فيُمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات التمويل والعمليات في الحفاظ على أمان بَياناتك الحساسة، ويركز المستخدمون على أدوارهم.
-  ms.date: 03/16/2022
+  ms.date: 08/09/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2b8ac07b654be04f684c801d4790aae073ac4b61
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 00edbf9e0a53461aefa521751c413bad190ba77e
+  ms.sourcegitcommit: 7187f5418e56c9e5a90a3998460517b243c60792
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751024"
+  ms.lasthandoff: 08/09/2022
+  ms.locfileid: "9241984"
 title: تخطيط الأمان وتنفيذه في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nإذا كنت تفهم بنية الأمان لتطبيقات التمويل والعمليات، فيُمكنك تخصيصها لتناسب متطلبات أعمالك. تساعد تطبيقات التمويل والعمليات في الحفاظ على أمان بَياناتك الحساسة، ويركز المستخدمون على أدوارهم. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم بنية الأمان لتطبيقات التمويل والعمليات\n- تعرف على التشفير في تطبيقات التمويل والعمليات\n- إدارة المستخدمين\n- إدارة الأمان\n- تطبيق الفصل بين المهام\n- تشغيل تقارير الأمان\n- الحفاظ على التوافق مع متطلبات ترخيص المستخدم\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم بنية الأمان لتطبيقات التمويل والعمليات\n- تعرف على التشفير في تطبيقات التمويل والعمليات\n- إدارة المستخدمين\n- إدارة الأمان\n- تطبيق الفصل بين المهام\n- تشغيل تقارير الأمان\n- الحفاظ على التوافق مع متطلبات ترخيص المستخدم\n"
 prerequisites: المعرفة العامة بنظام Windows والقدرة على استخدام تطبيقات التمويل والعمليات للمعالجة الأساسية.
 iconUrl: /learn/achievements/plan-and-implement-security-in-dynamics-365-finance-ops.svg
 levels:
@@ -40,6 +40,7 @@ units:
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.4-set-up-and-apply-segregation-of-duties
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-run-security-reports
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.user-licensing-requirements
+- learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.security-diagnostics-task-recordings
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-2-extensible-data-security-policy
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.7-exercise-import-a-user-and-assign-security-role
 - learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.6-exercise-create-a-new-user-and-assign-a-security-role

@@ -4,16 +4,16 @@ title: تكوين قناة WeChat
 metadata:
   title: تكوين قناة WeChat
   description: تعرف على كيفية تكوين قناة WeChat.
-  ms.date: 01/13/2022
+  ms.date: 08/25/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: db0b7e2209f3f34bb1384160d19543e9cf555d0c
-  ms.sourcegitcommit: 10d757eeecd93c8c56396eca00fa61af2fef38d7
+  ms.openlocfilehash: 6aa1041f671ab4b70bb82339707edbd76e2e00cc
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "8009954"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356098"
 durationInMinutes: 7
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-configure-we-chat-channel.md)]"

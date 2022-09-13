@@ -3,21 +3,20 @@ uid: learn-dynamics.schedule-customer-service-scheduling.5-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 10/26/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: de8efce66a4106db6201b0c36342ccbe88b3bd27
-  ms.sourcegitcommit: 02114ca1b6f2674d26e02c4aaf530f01246e1dc3
+  ms.openlocfilehash: 1afa8bde30288887f1781fc808d1c38e1de3e23e
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/27/2021
-  ms.locfileid: "7700467"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364482"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي من الخيارات التالية يمكنك إضافته إلى خدمة لتحديد القواعد بهدف اختيار مجموعة من الموارد المطلوبة لتقديم الخدمة؟
     choices:
@@ -49,7 +48,7 @@ quiz:
       explanation: تستخدم جدولة Customer Service Universal Resource Scheduling لجدولة أنشطة الخدمة. وتوفر وظيفة الجدولة الأساسية المستخدمة بواسطة حلول Microsoft Dynamics 365 مثل Dynamics 365 Customer Service وDynamics 365 Field Service وDynamics 365 Project Operations.
   - content: ما الذي يجب عليك إعداده لإنشاء المواعيد في بداية الساعة ونهايتها بين الساعة 9:00 صباحاً والساعة 5:00 مساءً؟
     choices:
-    - content: متطلب المَورد
+    - content: متطلبات الموارد
       isCorrect: false
       explanation: متطلبات الموارد تحدد الموارد المطلوبة لإكمال الخدمة. يمكنك تضمين تفضيل التنفيذ عند إضافة قواعد متطلبات المورد إلى مجموعة المتطلبات.
     - content: الفاصل الزمني
@@ -60,4 +59,4 @@ quiz:
       explanation: تُستخدم المجموعات الزمنية لإنشاء فترات زمنية، لكن أوقات البدء للفترات الزمنية ستفحص الحجوزات الحالية بحثاً عن الموارد. نتيجة لذلك، لن تبدأ الفترات الزمنية دائماً في بداية الساعة ونهايتها.
     - content: التجمُّع
       isCorrect: false
-      explanation: التجمُّع عبارة عن مجموعة من الموارد المتشابهة والقابلة للتبديل والتي يمكن جدولتها لإحدى الخدمات. يستطيع المرسل لاحقًا تحديد مَورد من التجمُّع لاستكمال الخدمة.
+      explanation: التجمُّع عبارة عن مجموعة من الموارد المتشابهة والقابلة للتبديل والتي يمكن جدولتها لإحدى الخدمات. يستطيع المرسل لاحقاً تحديد مَورد من التجمُّع لاستكمال الخدمة.

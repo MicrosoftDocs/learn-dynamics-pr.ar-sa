@@ -4,15 +4,15 @@ title: الملخص
 metadata:
   title: الملخص
   description: ملخص لدمج روبوت Power Virtual Agents مع القناة متعددة الاتجاهات لـ Customer Service
-  ms.date: 09/29/2021
+  ms.date: 07/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4e5a90ebc0d5c3c99140c055510793d14ae26395
-  ms.sourcegitcommit: e7659d30de4a9e795466e9211542a767dbc26e98
+  ms.openlocfilehash: 50bf247a641741edb1d33d780600b1d32c1b9979
+  ms.sourcegitcommit: d9a5d6ce9de95633830f18fa2a3df6346ad0fd4f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/30/2021
-  ms.locfileid: "7582248"
+  ms.lasthandoff: 08/26/2022
+  ms.locfileid: "9356470"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

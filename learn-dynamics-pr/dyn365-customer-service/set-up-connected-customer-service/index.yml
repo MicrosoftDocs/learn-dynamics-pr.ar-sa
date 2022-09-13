@@ -7,20 +7,19 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: d4ea20798a3ed44b57dd142277b5976af2de12fb
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 082b4142ee400757ff7d8d4a7025c00ea2f713e9
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748101"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363567"
 title: البدء في استخدام Connected Customer Service for Dynamics 365 وAzure IoT
 summary: >
   [!include[](../includes/module-banner.md)]
 
   تعمل الوظيفة الإضافية Connected Customer Service لـ Microsoft Dynamics 365 على تكامل أجهزة IoT مع Microsoft Dynamics 365 Customer Service لمساعدة المؤسسات على إنشاء طريقة استباقية لخدمة العملاء.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - التعرّف على الوظيفة الإضافية Connected Customer Service لـ Microsoft Dynamics 365.
 
