@@ -7,16 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 6885de4422a2cddb190ceede416e93ff479e4db8
-  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
+  ms.service: powerapps
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: 370895e6c39f672f1c16c82dfe155bbb792c2e51
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/10/2022
-  ms.locfileid: "9131762"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362994"
 title: إنشاء الأعمدة وإدارتها داخل جدول في Dataverse
 summary: "[!include[](../includes/module-banner.md)]\n\nهل تريد إنشاء أعمدة بيانات جديدة أو استخدام أعمدة قياسية موجودة لحلول الأعمال الخاصة بك؟  ستوضح لك هذه الوحدة كيفية إدارة أعمدة جديدة أو إنشائها داخل جدول في Dataverse. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ماهية الأعمدة الموجودة في Dataverse.\n- تعرف على أنواع الأعمدة المتوفرة في Dataverse.\n- إضافة عمود إلى جدول.\n- تعرف على عامود الاسم الرئيسي الموجودة في Dataverse.\n- تحديد القيود المرتبطة بالأعمدة.\n- إنشاء عمود ذي ترقيم تلقائي.\n- إنشاء مفتاح بديل. \n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تعرف على ماهية الأعمدة الموجودة في Dataverse.\n- تعرف على أنواع الأعمدة المتوفرة في Dataverse.\n- إضافة عمود إلى جدول.\n- تعرف على عامود الاسم الرئيسي الموجودة في Dataverse.\n- تحديد القيود المرتبطة بالأعمدة.\n- إنشاء عمود ذي ترقيم تلقائي.\n- إنشاء مفتاح بديل. \n"
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
 iconUrl: /learn/achievements/create-manage-fields-within-entity.svg
 levels:

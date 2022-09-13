@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.planning-optimization.priority-based-planning
+title: التخطيط المستند إلى الأولوية
+metadata:
+  title: التخطيط المستند إلى الأولوية
+  description: تعرف على التخطيط المستند إلى الأولوية في Dynamics 365 Supply Chain Management.
+  ms.date: 08/27/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: fcc61682d0507a1842eebbdff9448c1bb4e19363
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364546"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/priority-based-planning.md)]"

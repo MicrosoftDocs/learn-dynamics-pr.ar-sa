@@ -3,17 +3,16 @@ uid: learn-dynamics.create-compensation-plans.7-process-plans
 title: معالجة خطط التعويض
 metadata:
   title: معالجة خطط التعويض
-  description: تعرّف على كيفية معالجة خطط التعويض.
+  description: تعرف على كيفية معالجة خطط التعويض.
   ms.date: 07/21/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 460bc14c4c9a7f03719f6940c0e240cb2072dc7b470020cdc90f6705048b50ba
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 6cf50b9917f786c35da035effa1111eb149664b5
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7129898"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362674"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-process-plans.md)]"

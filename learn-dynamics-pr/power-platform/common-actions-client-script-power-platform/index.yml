@@ -8,15 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 496d607d7268ac9da31d35cff394aa3d2bd48388
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.subservice: mda-developer
+  ms.openlocfilehash: fabc7ce035bce71fb982716191503f940ee74e61
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751314"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363350"
 title: تنفيذ الإجراءات الشائعة باستخدام البرنامج النصي للعميل‬
 summary: "[!include[](../includes/module-banner.md)]\n\nيتمثل هدف هذه الوحدة النمطية في مراجعة كيفية تحقيق إجراءات أتمتة تجربة المستخدم العامة من خلال البرنامج النصي للعميل. وتهدف هذه الوحدة النمطية إلى العمل كدليل عملي لكيفية حل السيناريوهات الواقعية التي تتم مواجهتها بشكل متكرر أثناء عمليات تنفيذ Microsoft Power Platform.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتب البرنامج النصي للعميل لتنفيذ الإجراءات الشائعة كما هو موضح في وحدات الوحدة النمطية. \n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- اكتب البرنامج النصي للعميل لتنفيذ الإجراءات الشائعة كما هو موضح في وحدات الوحدة النمطية. \n"
 prerequisites: "-  الفهم الأساسي لـ Microsoft Power Platform والخبرة في تطوير البرامج مقابل Microsoft stack وVisual Studio \n-  ويُفضل وجود خبرة في إدارة الحلول في Microsoft Azure.‬\n"
 iconUrl: /learn/achievements/common-actions-client-script-power-platform.svg
 levels:

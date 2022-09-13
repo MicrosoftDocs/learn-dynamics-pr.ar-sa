@@ -3,18 +3,18 @@ uid: learn-dynamics.work-with-manufacturing-execution.2-understand-manufacturing
 title: فهم عمليات تنفيذ التصنيع
 metadata:
   title: فهم عمليات تنفيذ التصنيع
-  description: تعرّف على فهم عمليات تنفيذ التصنيع في Supply Chain Management.
-  ms.date: 05/12/2021
+  description: تعرف على فهم عمليات تنفيذ التصنيع في Supply Chain Management.
+  ms.date: 08/17/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 78c256544e2401ae990987fe451ee4b1de6641bf
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ba179c8d072fcd26adb85d6ffe0f1982b3f55265
+  ms.sourcegitcommit: 024ab2d8571f8f94e6b1e884ba62c11bbfa062fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332549"
-durationInMinutes: 10
+  ms.lasthandoff: 08/18/2022
+  ms.locfileid: "9307248"
+durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]
 

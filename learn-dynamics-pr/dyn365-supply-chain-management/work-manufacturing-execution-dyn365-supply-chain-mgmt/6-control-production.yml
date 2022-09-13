@@ -4,17 +4,17 @@ title: مراقبة الإنتاج مع تنفيذ التصنيع
 metadata:
   title: مراقبة الإنتاج مع تنفيذ التصنيع
   description: تعرف على كيفية معالجة أوامر الإنتاج باستخدام تنفيذ التصنيع في Supply Chain Management.
-  ms.date: 05/12/2021
+  ms.date: 08/27/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 46e21bcac8f41681d28b44a9787d88eda0cafbf1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f7ccd161fe0220a58a988c92f1c1731ca664b0ad
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333195"
-durationInMinutes: 5
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363022"
+durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]
 

@@ -7,16 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: ff8bdbb488a5a79ec0c9315f1b6f4722f2ff85c8
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3057de16cf0b21f2c0c9c5bcc0e5c2c344077e77
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749259"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364206"
 title: تخصيص وتكوين تطبيق Dynamics 365 Field Service ‏Mobile
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية تخصيص وتكوين نماذج تطبيق Dynamics 365 Field Service ‏Mobile وطرق العرض ومخطط الموقع. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تخصيص وتحرير تطبيق الأجهزة المحمولة.\n- تكوين البيانات غير المتصلة والرموز الشريطية.\n- تمكين تتبع الموقع ودفع الإخطارات.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تخصيص وتحرير تطبيق الأجهزة المحمولة.\n- تكوين البيانات غير المتصلة والرموز الشريطية.\n- تمكين تتبع الموقع ودفع الإخطارات.\n"
 prerequisites: المعرفة الأساسية لتطبيق Microsoft Dynamics 365 Field Service
 iconUrl: /learn/achievements/configure-field-service-mobile.svg
 levels:

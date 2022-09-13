@@ -7,16 +7,15 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: d2e9be09908b314fa59f4386878c9fda5c55063e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 672a8ed723310f9f61a1690e8631c812fac9188e
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750089"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364016"
 title: إدارة مؤسستك باستخدام Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nتعلم كيفية استخدام التسلسلات الهرمية التنظيمية والتنبيهات والتوقيعات الإلكترونية وإدارة المستندات. بالإضافة إلى ذلك، ستتعرف على كيفية تعيين إعدادات البريد الإلكتروني والمناطق الزمنية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء تدرج هرمي مؤسسي.\n- تكوين التنبيهات واستخدامها.\n- إعداد وإدارة التنبيهات وقواعد التنبيه.\n- العمل مع التوقيعات الإلكترونية.\n- إعداد إدارة المستندات.\n- تكوين إعدادات البريد الإلكتروني والمناطق الزمنية.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- إنشاء تدرج هرمي مؤسسي.\n- تكوين التنبيهات واستخدامها.\n- إعداد وإدارة التنبيهات وقواعد التنبيه.\n- العمل مع التوقيعات الإلكترونية.\n- إعداد إدارة المستندات.\n- تكوين إعدادات البريد الإلكتروني والمناطق الزمنية.\n"
 prerequisites: المعرفة العامة بالموارد البشرية
 iconUrl: /learn/achievements/manage-organization.svg
 levels:

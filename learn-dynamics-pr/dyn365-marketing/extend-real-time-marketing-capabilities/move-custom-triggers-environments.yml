@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.extend-real-time-marketing-capabilities.move-custom-triggers-environments
+title: نقل المشغلات المخصصة بين البيئات
+metadata:
+  title: نقل المشغلات المخصصة بين البيئات
+  description: تعرف على كيفية نقل المشغلات المخصصة بين البيئات.
+  ms.date: 08/19/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c8d9bfde253bfc68d9a44144ce798ca0194f52ee
+  ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9325012"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/move-custom-triggers-environments.md)]"

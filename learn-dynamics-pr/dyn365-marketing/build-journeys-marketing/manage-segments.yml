@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.build-journeys-marketing.manage-segments
+title: إدارة المقاطع
+metadata:
+  title: إدارة المقاطع
+  description: تعرف على كيفية إدارة المقاطع.
+  ms.date: 08/19/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f14e1d41648012f981695fa8b6cb73bd0dcfdbe1
+  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9344965"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/manage-segments.md)]"

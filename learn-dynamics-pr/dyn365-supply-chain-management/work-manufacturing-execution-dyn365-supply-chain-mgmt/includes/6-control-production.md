@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df7f85d1d56e56dac3c4277a54977857c6d0837d
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: bf817b7d38e13631c53db594916a34a662260408
+ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7365515"
+ms.lasthandoff: 08/29/2022
+ms.locfileid: "9363032"
 ---
 ## <a name="production-feedback"></a>ملاحظات الإنتاج 
 عندما يقوم العمال بتسجيل الوقت واستهلاك الصنف في وظائف الإنتاج التي تم إعدادها لاستخدام الوقت والحضور، يتم ترحيل التسجيلات في أمر الإنتاج ذي الصلة.
@@ -17,7 +17,20 @@ ms.locfileid: "7365515"
 
 في صفحة **تحديد مورد وإجراء**، حدد مجموعة الموارد التي تريد نقل العمليات (الوظائف) منها، ثم حدد **فتح وحدة الإنتاج**.
 
-![لقطة شاشة لصفحة تحديد المورد والإجراء في Finance and Operations.](../media/resource-action.png)
+[![لقطة شاشة لصفحة تحديد المورد والإجراء في Finance and Operations.](../media/resource-action.png)](../media/resource-action.png#lightbox)
+
+### <a name="material-consumption-and-reservations-in-the-production-floor-execution-interface"></a>استهلاك المواد والحجوزات في واجهة تنفيذ طابق الإنتاج
+
+يمكن للشركات المصنعة الاستفادة من تجربة المستخدم الحديثة عند العمل مع أوامر الإنتاج والدُفعات حيث توجد اختلافات في استهلاك المواد الفعلي مقارنةً بالاستهلاك المخطط له. يمكن للعمال أيضاً إدارة حجوزات مجموعات المخزون والأرقام التسلسلية. يضمن ذلك دقة مستويات المخزون والتكلفة ويلبي متطلبات إمكانية تتبع المواد.
+
+يمكن للعمال استخدام واجهة تنفيذ طابق الإنتاج لتسجيل استهلاك المواد وأرقام الدُفعات والأرقام التسلسلية.
+
+تحتاج بعض الشركات المصنعة، وخاصة داخل صناعات العملية، إلى تسجيل مقدار المواد المستهلكة بشكل صريح لكل دفعة أو أمر إنتاج. على سبيل المثال، قد يستخدم العاملون مقياساً لوزن مقدار المواد المستهلكة عند العمل. لضمان إمكانية التتبع الكاملة للمواد،، تحتاج هذه المؤسسات أيضاً إلى تسجيل أرقام الدفعات التي تم استهلاكها عند إنتاج كل منتج.
+
+
+[![لقطة شاشة لواجهة تنفيذ طابق الإنتاج في Supply Chain Management.](../media/consumption-reservations.png)](../media/consumption-reservations.png#lightbox)
+
+لمزيد من المعلومات، راجع [كيفية استخدام العاملين لواجهة تنفيذ طابق الإنتاج](/dynamics365/supply-chain/production-control/production-floor-execution-use/?azure-portal=true)
 
 ## <a name="production-orders-overview"></a>نظرة عامة على أوامر الإنتاج
 

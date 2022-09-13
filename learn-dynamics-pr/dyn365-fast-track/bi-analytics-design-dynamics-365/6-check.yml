@@ -3,21 +3,20 @@ uid: learn-dynamics.bi-analytics-design-dynamics-365.6-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 07/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-fastrack
-  ms.openlocfilehash: 94e0aff16646be4e247b1983ee04514de755cbe33ad8bcd764aa591754a2f2a3
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 816b3e37568595b61925c2ccac7000d8edc54ba3
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7431752"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363696"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: اي من الخيارات التالية ليست جزءا من استراتيجية الحل لمعلومات الاعمال والتحليلات الخاصة بها ؟
     choices:

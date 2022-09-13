@@ -3,17 +3,16 @@ uid: learn-dynamics.manage-personnel.7-manage-performance
 title: إدارة الأداء
 metadata:
   title: إدارة الأداء
-  description: تعرّف على كيفية إدارة الأداء.
+  description: تعرف على كيفية إدارة الأداء.
   ms.date: 07/14/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: e1ef7645f8ef7c5cd16668ecf1eee7afb21ae6d39e593c5121cef8396c55a4ac
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 629a6e7869913246114fb3d4cd48aa81875b7b0c
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7053082"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362604"
 durationInMinutes: 14
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-manage-performance.md)]"

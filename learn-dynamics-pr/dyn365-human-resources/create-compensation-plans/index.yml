@@ -2,21 +2,20 @@
 uid: learn-dynamics.create-compensation-plans
 metadata:
   title: إنشاء خطط تعويض في Dynamics 365 Human Resources
-  description: تعرّف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في Microsoft Dynamics 365 Human Resources.
+  description: تعرف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في Microsoft Dynamics 365 Human Resources.
   ms.date: 07/21/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: a43b0aa27ca09c7dbd5f22cdd7135109b13759ac
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 7dd46f83c431ab89e6f270bf9e5946d0fb81fe48
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750925"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364096"
 title: إنشاء خطط تعويض في Dynamics 365 Human Resources
-summary: "[!include[](../includes/module-banner.md)] \nيساعدك Dynamics 365 Human Resources على توفير خطط تعويض تنافسية لموظفيك. تعرّف على كيفية تكوين خطط التعويض وإنشائها وتسجيل الموظفين ومعالجة خطط التعويض.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استكشف قدرات مساحة عمل إدارة التعويض في الموارد البشرية.\n- تعرّف على كيفية تكوين معلمات إدارة التعويض.\n- تعرّف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في الموارد البشرية .\n- تعرّف على كيفية إنشاء قواعد الأهلية لخطط التعويض.\n- تعرّف على كيفية تسجيل الموظفين في خطط التعويض.\n- تعرّف على كيفية معالجة خطط التعويض.\n"
+summary: "[!include[](../includes/module-banner.md)] \nيساعدك Dynamics 365 Human Resources على توفير خطط تعويض تنافسية لموظفيك. تعرف على كيفية تكوين خطط التعويض وإنشائها وتسجيل الموظفين ومعالجة خطط التعويض.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- استكشف قدرات مساحة عمل إدارة التعويض في الموارد البشرية.\n- تعرف على كيفية تكوين معلمات إدارة التعويض.\n- تعرف على كيفية إنشاء خطط تعويض ثابتة ومتغيرة في الموارد البشرية .\n- تعرف على كيفية إنشاء قواعد الأهلية لخطط التعويض.\n- تعرف على كيفية تسجيل الموظفين في خطط التعويض.\n- تعرف على كيفية معالجة خطط التعويض.\n"
 prerequisites: المعرفة العامة للمفاهيم وممارسات الموارد البشرية
 iconUrl: /learn/achievements/create-compensation-plans.svg
 levels:

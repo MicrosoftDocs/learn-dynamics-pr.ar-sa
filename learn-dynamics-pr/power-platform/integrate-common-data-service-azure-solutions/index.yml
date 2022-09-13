@@ -7,13 +7,14 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: bf473c36c1d36a9c8af3c546b108301b4059d178
-  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+  ms.openlocfilehash: ab86e3c504c4fe5c54e87b04255465a23f6b982f
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2022
-  ms.locfileid: "8841313"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363310"
 title: تكامل حلول Azure في Dataverse
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -21,7 +22,7 @@ summary: >
 
   الحصول على نظرة عامة متعمقة في الخيارات المتوفرة باستخدام Dataverse لتكامل البيانات والأحداث إلى Azure.
 abstract: >
-  خلال هذه الوحدة، سوف تتمكن مما يلي:
+  في هذه الوحدة، سوف تتعلم ما يلي:
 
   - نشر أحداث Dataverse إلى ناقل خدمة Microsoft Azure.
 

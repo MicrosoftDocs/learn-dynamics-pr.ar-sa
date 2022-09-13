@@ -7,16 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 55b6a684d59a5ebded98a7d6effa128c8e3b830f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: powerapps
+  ms.subservice: pcf
+  ms.openlocfilehash: ca668abeab815e2971cc2be6feac5279a64dc15e
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751269"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364236"
 title: الشروع في العمل باستخدام Power Apps component framework
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية الشروع في العمل باستخدام Microsoft Power Apps component framework.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على بنية Power Apps component framework.\n- تعرف على أدوات مكون Power Apps.  \n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تعرف على بنية Power Apps component framework.\n- تعرف على أدوات مكون Power Apps.  \n"
 prerequisites: بلا
 iconUrl: /learn/achievements/get-started-component-framework.svg
 levels:

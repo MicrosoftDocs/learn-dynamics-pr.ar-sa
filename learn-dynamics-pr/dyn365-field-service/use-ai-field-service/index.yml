@@ -2,21 +2,20 @@
 uid: learn-dynamics.use-ai-field-service
 metadata:
   title: استخدام الذكاء الاصطناعي في Dynamics 365 Field Service
-  description: تتحدث هذه الوحدة عن ميزات الذكاء الاصطناعي الرئيسية لمدة العمل واقتراحات كفاءة الموارد واقتراحات نوع الحادث واقتراحات تنبيه IoT. وتوضح أيضًا كيف يُمكن لمؤسستك استخدام هذه الميزات.
+  description: تتحدث هذه الوحدة عن ميزات الذكاء الاصطناعي الرئيسية لمدة العمل واقتراحات كفاءة الموارد واقتراحات نوع الحادث واقتراحات تنبيه IoT. وتوضح أيضاً كيف يُمكن لمؤسستك استخدام هذه الميزات.
   ms.date: 08/05/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: ed2eb54ab66dccc178de1b962f488a9f61ee937c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 63b69ae12c4e5b3f7dfec0c86a9ef02b32fb2fef
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749043"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362714"
 title: استخدام الذكاء الاصطناعي في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)] \nبالنسبة لمؤسسات Field Service، يمكن أن يكون للذكاء الاصطناعي تأثير كبير في الكفاءة التشغيلية الإجمالية، ورضا العملاء، والجدولة وغيره. يحتوي Microsoft Dynamics 365 Field Service على العديد من ميزات الذكاء الاصطناعي التي يمكن أن تساعدك على تنظيم كل شيء من الجدولة لتحسين كفاءة الفني. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على مدة العمل التنبؤية.\n- تعرّف على اقتراحات الذكاء الاصطناعي لنوع الحادث.\n- تعرّف على اقتراحات تنبيه IoT.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تعرف على مدة العمل التنبؤية.\n- تعرف على اقتراحات الذكاء الاصطناعي لنوع الحادث.\n- تعرف على اقتراحات تنبيه IoT.\n"
 prerequisites: فهم أساسي لتطبيق Dynamics 365 Field Service
 iconUrl: /learn/achievements/use-ai-field-service.svg
 levels:

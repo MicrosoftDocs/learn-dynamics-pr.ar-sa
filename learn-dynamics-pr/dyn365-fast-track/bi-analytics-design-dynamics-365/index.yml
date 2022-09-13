@@ -7,16 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-fastrack
-  ms.openlocfilehash: 6773e5d1c8166188c796bdd78248fd011dd44868
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 12960b6b086181be8cb4a88a2f5f7c53376bb239
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8754127"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363072"
 title: تصميم المعلومات المهنية والتحليلات لحلول Dynamics 365
 summary: "[!include[](../includes/module-banner.md)] \nيسمح لك تصميم المعلومات المهنية وتصميم التحليلات بقضاء وقت في مراجعه تخطيط المعلومات المهنية والتحليلات الشاملة وتحليل الورشة وتصميم التصميم لتوفير الإرشادات حول تكبير استخدام الميزات القياسية والمحاذاة لمخطط المنتج وإرشادات التصميم العامة. هذه الورشة غير معده لمراجعه الفجوة.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على ورشة عمل ذكاء الأعمال وتصميم التحليلات.\n- التحضير لورشة عمل تصميم تحليل المعلومات والتحليلات\n- تعرف على كيفية عقد ورشة عمل ذكاء الأعمال وتصميم التحليلات.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تعرف على ورشة عمل ذكاء الأعمال وتصميم التحليلات.\n- التحضير لورشة عمل تصميم تحليل المعلومات والتحليلات\n- تعرف على كيفية عقد ورشة عمل ذكاء الأعمال وتصميم التحليلات.\n"
 prerequisites: >
   - معرفة تطبيقات Dynamics 365
 

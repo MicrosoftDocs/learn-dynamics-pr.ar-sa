@@ -7,16 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 73a178e6f937d3d26fbb3cd0ef9875a7d7209e0c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: powerapps
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: ef929045f41868eea5a054e4de9d0c598536adf6
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750438"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364237"
 title: إدارة الجداول في Dataverse
 summary: "[!include[](../includes/module-banner.md)]\n\nتتشابه جداول Dataverse مع الجداول في قاعدة البيانات. يتضمن كل مثيل من قاعدة بيانات Dataverse مجموعة أساسية من الجداول التي توفر بنية للبيانات التي يتم استخدامها بواسطة تطبيقات الأعمال بشكل عام.  \n"
-abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي:\n- الجداول‏‎ في Dataverse.\n- أنواع الجداول المتوفرة في Dataverse. \n- إنشاء جدول مخصص.\n- تمكين المرفقات في جدول ما.\n- ما هي متطلبات التراخيص المطلوب تطبيقها لاستخدام كل نوع من أنواع الجداول.\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي:\n- الجداول‏‎ في Dataverse.\n- أنواع الجداول المتوفرة في Dataverse. \n- إنشاء جدول مخصص.\n- تمكين المرفقات في جدول ما.\n- ما متطلبات التراخيص المطلوب تطبيقها لاستخدام كل نوع من أنواع الجداول.\n"
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
 iconUrl: /learn/achievements/create-manage-entities.svg
 levels:

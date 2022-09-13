@@ -8,12 +8,11 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: 134857d202bd170581cafcbc0e3ab0a10cb152c4bd8593789a9e8d82bd947369
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 0016e2d2853b9257c0953b9b9cce9df6edf0c8f1
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7433979"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363152"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/9-summary.md)]"

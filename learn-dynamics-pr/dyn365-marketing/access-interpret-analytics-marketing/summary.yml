@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.access-interpret-analytics-marketing.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: ملخص للوصول إلى التحليلات وتفسيرها باستخدام Dynamics 365 Marketing
+  ms.date: 08/19/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 26623832da0a5b9a57c417788fb0df1264db72a0
+  ms.sourcegitcommit: 50259abf29af4ecbc9b420334d3850ea082df413
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/25/2022
+  ms.locfileid: "9350822"
+durationInMinutes: 2
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/summary.md)]

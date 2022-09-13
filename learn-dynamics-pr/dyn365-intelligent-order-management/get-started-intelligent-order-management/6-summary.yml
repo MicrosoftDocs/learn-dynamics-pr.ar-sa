@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-intelligent-order-management
-  ms.openlocfilehash: 0e78d041f06464e41a5136765168777a87d6ebdf7a78d71c8f520946de7af5af
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 4706839e421cf8042800e58cd449768c93be7916
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7098950"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362532"
 durationInMinutes: 1
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-summary.md)]"

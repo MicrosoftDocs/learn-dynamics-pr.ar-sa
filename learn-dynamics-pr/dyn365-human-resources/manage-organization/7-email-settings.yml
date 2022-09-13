@@ -3,17 +3,16 @@ uid: learn-dynamics.manage-organization.7-email-settings
 title: تكوين إعدادات البريد الإلكتروني
 metadata:
   title: تكوين إعدادات البريد الإلكتروني
-  description: تعرّف على كيفية تكوين إعدادات البريد الإلكتروني للمسؤولين والمستخدمين.
+  description: تعرف على كيفية تكوين إعدادات البريد الإلكتروني للمسؤولين والمستخدمين.
   ms.date: 07/29/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 29fbb9b94214ccfb44ca8ed359e5dac2aff81c6c488808b6cb98cca96076e175
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: be09f4643a27cda11e8f5d662df2138d60ec12ac
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7136058"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364028"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-email-settings.md)]"

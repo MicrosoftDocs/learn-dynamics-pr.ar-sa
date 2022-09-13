@@ -3,17 +3,16 @@ uid: learn-dynamics.configure-field-service-mobile.3-offline
 title: التكوين دون اتصال الإنترنت
 metadata:
   title: التكوين دون اتصال الإنترنت
-  description: تعرّف على كيفية إعداد المستخدمين والفرق وتعديلهم وإضافتهم إلى ملف تعريف غير متصل بالإنترنت، ثم إضافته إلى التطبيق.
+  description: تعرف على كيفية إعداد المستخدمين والفرق وتعديلهم وإضافتهم إلى ملف تعريف غير متصل بالإنترنت، ثم إضافته إلى التطبيق.
   ms.date: 07/22/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: 33c67e3420d5e104afe91c9365e7790726cbc636e58123a091b9a133bbda6b85
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: dcda5fe41b26b630fcde0fd172aa9edb283c8c35
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7433990"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363379"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-offline.md)]"

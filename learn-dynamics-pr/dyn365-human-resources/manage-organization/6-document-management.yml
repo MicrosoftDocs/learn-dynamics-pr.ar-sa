@@ -3,17 +3,16 @@ uid: learn-dynamics.manage-organization.6-document-management
 title: إعداد إدارة المستندات
 metadata:
   title: إعداد إدارة المستندات
-  description: تعرّف على كيفية إعداد معلمات إدارة المستندات.
+  description: تعرف على كيفية إعداد معلمات إدارة المستندات.
   ms.date: 07/29/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: e002dfe1c461f0523046aa7750006dfcd5b4a4862677b941cdb42ff031600e8c
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 77a8dd397df6b10a13a72555407edf973d4a5164
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7136064"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364284"
 durationInMinutes: 4
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/6-document-management.md)]"

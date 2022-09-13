@@ -4,17 +4,17 @@ title: تخزين تقارير المخزون المتاح
 metadata:
   title: تخزين تقارير المخزون المتاح
   description: تصف هذه الوحدة تخزين تقارير المخزون المتاح في Supply Chain Management.
-  ms.date: 01/11/2021
+  ms.date: 08/17/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: db87a53ef225654afe881c9df565bf638914a766
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5e5b3859a348ca9019370cd7d4bb15ae6d930951
+  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333219"
-durationInMinutes: 3
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "9345090"
+durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]
 

@@ -3,17 +3,16 @@ uid: learn-dynamics.configure-field-service-mobile.2-edit
 title: تحرير تطبيق الأجهزة المحمولة
 metadata:
   title: تحرير تطبيق الأجهزة المحمولة
-  description: تعرّف على كيفية تحرير كيانات خريطة الموقع على الشاشة الرئيسية وكيفية تحرير نماذج الحجز وأمر العمل.
+  description: تعرف على كيفية تحرير كيانات خريطة الموقع على الشاشة الرئيسية وكيفية تحرير نماذج الحجز وأمر العمل.
   ms.date: 07/22/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: 135bd9628491023d3bfc7fcc3ccefd606eba9055a1c9610838c3020af1a75013
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: a1b69c2465e2ce7e3dac558147febe279b676a32
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7433968"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362794"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-edit.md)]"

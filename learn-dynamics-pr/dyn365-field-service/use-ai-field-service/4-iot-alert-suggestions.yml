@@ -3,17 +3,16 @@ uid: learn-dynamics.use-ai-field-service.4-iot-alert-suggestions
 title: اقتراحات الذكاء الاصطناعي لتنبيهات IoT
 metadata:
   title: اقتراحات الذكاء الاصطناعي لتنبيهات IoT
-  description: تعرّف على اقتراحات الذكاء الاصطناعي لتنبيهات IoT.
+  description: تعرف على اقتراحات الذكاء الاصطناعي لتنبيهات IoT.
   ms.date: 08/05/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: 3bc28dd2afb31cff46962fd7f58f86ad1d2b08f8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 51a235319b0b21058521eeceb824f588c0c3b39e
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7434174"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362724"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-iot-alert-suggestions.md)]"

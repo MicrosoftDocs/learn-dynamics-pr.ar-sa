@@ -7,16 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.service: power-platform
-  ms.openlocfilehash: 6c5a235c91e4c773bf5d0a257fdfb388cbc85a8f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.service: powerapps
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: ff96f9c6c0969cee5641b53dddc647452f484fa3
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752868"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363528"
 title: العمل باستخدام الخيارات في Dataverse
 summary: "[!include[](../includes/module-banner.md)]\n\nهل تريد إنشاء قوائم اختيار قياسية يمكنك استخدامها عبر كل ما لديك على Power Apps؟  ستوضح لك هذه الوحدة كيفية إنشاء قوائم اختيار قياسية جديدة تسمى ب \"الاختيارات\" أو استخدامها في Dataverse.   \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على الاختيارات.\n- استكشف خياراتٍ قياسية.\n- إنشاء اختيار جديد أو تحرير اختيار موجود.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تعرف على الاختيارات.\n- استكشف خياراتٍ قياسية.\n- إنشاء اختيار جديد أو تحرير اختيار موجود.\n"
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
 iconUrl: /learn/achievements/working-with-option-sets.svg
 levels:

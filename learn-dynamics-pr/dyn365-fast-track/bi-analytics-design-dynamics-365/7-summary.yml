@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-fastrack
-  ms.openlocfilehash: 2d0b44c36743376b772c1174a737e5e488d6cc496697ad9b9f5938b90e8b8e74
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: f1684a65dadfef2c9d99ae4e556f8f054babb607
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7431721"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363062"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-summary.md)]"

@@ -8,12 +8,11 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-fast-track
-  ms.openlocfilehash: e3a9b203e7b3b9554d2d82108bbd3c8d59a9a2c9308009afc75c3a1f97c793a1
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: bd30943f0b72cbbe8d25139584138d6cb6fbe185
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7431757"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364413"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-follow-up.md)]"

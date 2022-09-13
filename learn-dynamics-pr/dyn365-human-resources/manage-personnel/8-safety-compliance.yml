@@ -3,17 +3,16 @@ uid: learn-dynamics.manage-personnel.8-safety-compliance
 title: السلامة والامتثال في مكان العمل
 metadata:
   title: السلامة والامتثال في مكان العمل
-  description: تعرّف على السلامة والامتثال في أماكن العمل.
+  description: تعرف على السلامة والامتثال في أماكن العمل.
   ms.date: 07/14/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 5f936defb2c08fe11bb6376d8c59a54988276c05abebeb88ac3bbdb64865d1d3
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: f2d2d0bde7a1e785835e9c5d440ebb66df864747
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7104836"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363936"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/8-safety-compliance.md)]"

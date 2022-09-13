@@ -8,15 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 16a28737822a1a077cc8b5c346289517274ef5ad
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.subservice: mda-developer
+  ms.openlocfilehash: b30c6dfc02c3516781273017316df9dc8e64e856
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751341"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363112"
 title: أتمتة مهام سير إجراءات العمل باستخدام البرنامج النصي للعميل
 summary: "[!include[](../includes/module-banner.md)]\n\nستركز هذه الوحدة على تثقيف المطورين حول كيفية أداء التقنيات الشائعة فيما يتعلق بأتمتة مهام سير إجراءات العمل، إلى جانب شرح سياق الوقت الذي يمكن فيه تطبيق هذه السيناريوهات. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- أتمتة إجراءات سير إجراءات العمل باستخدام أساليب JavaScript/TypeScript API. \n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- أتمتة إجراءات سير إجراءات العمل باستخدام أساليب JavaScript/TypeScript API. \n"
 prerequisites: >
   - الفهم الأساسي لـ Microsoft Power Platform
 

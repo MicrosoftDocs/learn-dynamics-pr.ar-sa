@@ -4,16 +4,16 @@ title: الجدولة وإعادة الجدولة
 metadata:
   title: الجدولة وإعادة الجدولة
   description: الجدولة وإعادة الجدولة
-  ms.date: 11/18/2021
+  ms.date: 06/15/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7cb6dad2514ed3a0ae6c54ca8a6800eace62333d
-  ms.sourcegitcommit: b2132239ec06257d470d1ecc2de0924c71d8a8d5
+  ms.openlocfilehash: fc2318a8174ea163de2db860259109d2a18fff5a
+  ms.sourcegitcommit: 255987d4391a04e0b5a680fdb573a720f97c706e
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/18/2021
-  ms.locfileid: "7826158"
+  ms.lasthandoff: 08/27/2022
+  ms.locfileid: "9360296"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

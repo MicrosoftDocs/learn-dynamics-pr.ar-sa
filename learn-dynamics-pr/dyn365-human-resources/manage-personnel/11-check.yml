@@ -8,13 +8,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: a142699f69d1cd46a96d44271961af3e6bda3addeea412d3ac3d3052b7c59ce0
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: c99c15569add47f86a4a3a52721dcf39e747ecc9
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7104860"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363996"
 durationInMinutes: 10
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

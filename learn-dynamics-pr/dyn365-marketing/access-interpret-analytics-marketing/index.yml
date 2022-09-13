@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-dynamics.access-interpret-analytics-marketing
+metadata:
+  title: الوصول إلى التحليلات وتفسيرها باستخدام Dynamics 365 Marketing
+  description: تعرف على كيفية الوصول إلى التحليلات وتفسيرها باستخدام Dynamics 365 Marketing.
+  ms.date: 08/19/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9b16258a2859a2f1b77ec89f04d9bf97a30410cb
+  ms.sourcegitcommit: 50259abf29af4ecbc9b420334d3850ea082df413
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/25/2022
+  ms.locfileid: "9351047"
+title: الوصول إلى التحليلات وتفسيرها باستخدام Dynamics 365 Marketing
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تفحص هذه الوحدة التحليلات والرؤى داخل منطقة العمل في الوقت الحقيقي لـ Dynamics 365 Marketing.
+abstract: >
+  في هذه الوحدة، سوف تتعلم ما يلي:
+
+  - عرض التحليلات التشغيلية للرحلة، بما في ذلك مقاييس تحسين الهدف والقناة والذكاء الاصطناعي.
+
+  - عرض التحليلات المجمعة للرحلة والقناة.
+prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics ‏365 Marketing
+iconUrl: /learn/achievements/access-interpret-analytics-marketing.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-marketing
+subjects:
+- business-applications
+units:
+- learn-dynamics.access-interpret-analytics-marketing.introduction
+- learn-dynamics.access-interpret-analytics-marketing.view-journey
+- learn-dynamics.access-interpret-analytics-marketing.view-aggregate
+- learn-dynamics.access-interpret-analytics-marketing.check
+- learn-dynamics.access-interpret-analytics-marketing.summary
+badge:
+  uid: learn-dynamics.access-interpret-analytics-marketing.badge

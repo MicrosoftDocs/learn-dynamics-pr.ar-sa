@@ -8,13 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.prod: learning-intelligent-order-management
-  ms.openlocfilehash: 5cf94eab8f8a75ff9d217d319c8466ce375391073f97b48d3683581da7d626a5
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: a7962693dcc33c90ac012c9297c883a5092d9862
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7109323"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362549"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.

@@ -3,17 +3,16 @@ uid: learn-dynamics.manage-organization.4-signatures
 title: إعداد التوقيعات الإلكترونية
 metadata:
   title: إعداد التوقيعات الإلكترونية
-  description: تعرّف على كيفية إعداد التوقيعات الإلكترونية.
+  description: تعرف على كيفية إعداد التوقيعات الإلكترونية.
   ms.date: 07/29/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-human-resources
-  ms.openlocfilehash: 3afe81dd2668d91156dc15917d7971874799d2d5e5f55624c50c79a71cb3ed00
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: ba14ff214ea35298a0e420e8d62b69cdb4bcd5ce
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7104887"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9364294"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-signatures.md)]"

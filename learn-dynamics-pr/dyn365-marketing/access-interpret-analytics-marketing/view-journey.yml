@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.access-interpret-analytics-marketing.view-journey
+title: عرض تحليلات الرحلات والقنوات
+metadata:
+  title: عرض تحليلات الرحلات والقنوات
+  description: تعرف على كيفية تقييم أداء الرحلة والتحليلات التشغيلية في الوقت الحقيقي تقريباً.
+  ms.date: 08/19/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 47435202f96da8fc33716f356c068d626ac8ea0f
+  ms.sourcegitcommit: 50259abf29af4ecbc9b420334d3850ea082df413
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 08/25/2022
+  ms.locfileid: "9350973"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/view-journey.md)]

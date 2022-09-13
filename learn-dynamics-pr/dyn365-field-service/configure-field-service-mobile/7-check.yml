@@ -3,21 +3,20 @@ uid: learn-dynamics.configure-field-service-mobile.7-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 07/22/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: 6b5d7e60324d226a51f0021f60f42dbbbd1f946c3ec8e9da4542eddbe560c068
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 6909e58dad86826dac276bc98f0b77eca93a257c
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7433917"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9363220"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: تريد إتاحة جدول الحالة للعاملين في الخطوط الأمامية للوصول إلى تطبيق Field Service Mobile. أي من الكيانات التالية تريد تعديله لإتاحة الوصول إلى جدول الحالة على التطبيق؟
     choices:
@@ -38,7 +37,7 @@ quiz:
     - content: مدخل متخذ Power Apps
       isCorrect: false
       explanation: ملفات التعريف غير المتصلة ليست ميزات فريدة لـ Dynamics 365 Field Service؛ إنها ميزات لـ Microsoft Power Platform. لهذا السبب، تم إنشاؤها وتحريرها من مدخل مركز إدارة Microsoft Power Platform. بعد إنشاء ملفات تعريف غير متصلة بالإنترنت، يمكنك تمكينها وربطها بالتطبيقات الفردية المستندة إلى النموذج.
-    - content: مدخل إدارة Microsoft 365
+    - content: مدخل مسؤول Microsoft 365
       isCorrect: false
       explanation: ملفات التعريف غير المتصلة ليست ميزات فريدة لـ Dynamics 365 Field Service؛ إنها ميزات لـ Microsoft Power Platform. لهذا السبب، تم إنشاؤها وتحريرها من مدخل مركز إدارة Microsoft Power Platform. بعد إنشاء ملفات تعريف غير متصلة بالإنترنت، يمكنك تمكينها وربطها بالتطبيقات الفردية المستندة إلى النموذج.
     - content: مدخل مركز إدارة Microsoft Power Platform

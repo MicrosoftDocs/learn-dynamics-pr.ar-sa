@@ -3,17 +3,16 @@ uid: learn-dynamics.set-up-field-service-work-items.2-install-setup
 title: التثبيت والإعداد
 metadata:
   title: التثبيت والإعداد
-  description: تعرّف على التثبيت والإعداد.
+  description: تعرف على التثبيت والإعداد.
   ms.date: 07/29/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-field-service
-  ms.openlocfilehash: be219ea68f91da6c86adb6a3095aa94e493f7ef4fd5fbbf93df9f498de0b110e
-  ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+  ms.openlocfilehash: 0c5a97a9630ec9babea7a77f6f75321e30337621
+  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2021
-  ms.locfileid: "7433991"
+  ms.lasthandoff: 08/29/2022
+  ms.locfileid: "9362744"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-install-setup.md)]"
