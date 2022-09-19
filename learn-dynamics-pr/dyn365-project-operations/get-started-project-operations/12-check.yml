@@ -28,12 +28,12 @@ quiz:
       explanation: بالنسبة للتوزيع الخفيف المعروف بالتعامل مع الفواتير الأولية، يمكن استخدام تطبيقات Customer Engagement‬ فقط.
     - content: Dynamics 365 Business Central
       isCorrect: false
-      explanation: لا يمكن استخدام عمليات المشروع مع Dynamics 365 Business Central.
+      explanation: لا يمكن استخدام Project Operations مع Dynamics 365 Business Central.
   - content: حدد أحد تدفقات العمليات التجارية التالية المعتمدة للصفقات المستندة إلى المشروع.
     choices:
     - content: ‏‫عميل متوقع لسير إجراءات عمل عملية فرصة محتملة‬
       isCorrect: true
-      explanation: يُعد العميل المتوقع لعمل عملية فرصة محتملة في عمليات المشروع ملحقاً للعميل المتوقع لسير إجراءات عملية فرصة في Dynamics 365 Sales.
+      explanation: يُعد العميل المتوقع لعمل عملية فرصة محتملة في Project Operations ملحقاً للعميل المتوقع لسير إجراءات عملية فرصة في Dynamics 365 Sales.
     - content: هاتف لعملية الحالة
       isCorrect: false
       explanation: يتم استخدام الهاتف لعملية الحالة في ‏‫Dynamics 365 Customer Service‬.
@@ -44,7 +44,7 @@ quiz:
     choices:
     - content: بدء > خطة > تنفيذ > مراقبة > إغلاق
       isCorrect: false
-      explanation: لا تُعد البدء والتنفيذ والمراقبة مراحل المشروع في عمليات المشروع.
+      explanation: لا تُعد البدء والتنفيذ والمراقبة مراحل المشروع في Project Operations.
     - content: عرض أسعار > خطة > تسليم > إكمال > إغلاق
       isCorrect: false
       explanation: المرحلة "جديد" مفقودة.
@@ -53,4 +53,4 @@ quiz:
       explanation: 'يستخدم سير إجراءات العمل الافتراضي المراحل: "جديد، عرض أسعار، خطة، تسليم، إكمال، إغلاق".'
     - content: بدء > خطة > تنفيذ > إغلاق
       isCorrect: false
-      explanation: لا تُعد البدء والتنفيذ مراحل المشروع في عمليات المشروع.
+      explanation: لا تُعد البدء والتنفيذ مراحل المشروع في Project Operations.

@@ -15,7 +15,7 @@ metadata:
   ms.locfileid: "8748274"
 title: توفير Dynamics 365 Fraud Protection
 summary: "[!include[](../includes/module-banner.md)] \nإن Microsoft Dynamics 365 Fraud Protection عبارة عن حل قائم على السحابة مصمم للتجارة الإلكترونية والمتاجر التقليدية والتجار متعدد القنوات للمساعدة في حماية إيراداتهم وسمعتهم من خلال توفير الأدوات والقدرات لتقليل الاحتيال وإساءة الاستخدام وتقليل النفقات التشغيلية وزيادة معدلات القبول، كل ذلك مع حماية حسابات المستخدمين من التعرض للاحتيال. عندما تقوم بإعداد مثيل Dynamics 365 Fraud Protection الخاص بك، سيتم تحديد بين أحد طريقتي التوفير.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر Microsoft Azure جديد.\n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر جديد.\n- تعرف على كيفية إعداد مثيل Dynamics 365 Fraud Protection تم شراؤه.\n- تعرف على كيفية تكوين وصول المستخدم.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر Microsoft Azure جديد.\n- التعرف على كيفية توفير مثيل Dynamics 365 Fraud Protection خلال استخدام مستأجر Azure جديد.\n- تعرف على كيفية إعداد مثيل Dynamics 365 Fraud Protection تم شراؤه.\n- تعرف على كيفية تكوين وصول المستخدم.\n"
 prerequisites: >
   - فهم أساسيات Dynamics 365 Fraud Protection
 

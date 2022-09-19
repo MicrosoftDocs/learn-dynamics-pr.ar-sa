@@ -25,7 +25,7 @@ quiz:
       explanation: تتم استضافة البيئات على Azure، لكن لا يتم توزيعها في Azure.
     - content: Lifecycle Services
       isCorrect: true
-      explanation: يتم توزيع البيئات وإدارتها في Microsoft Dynamics‏ 365 Lifecycle Services.
+      explanation: يتم توزيع البيئات وإدارتها في Microsoft Dynamics 365 Lifecycle Services.
     - content: Dataverse
       isCorrect: false
       explanation: تُعد Dataverse جزءاً من Microsoft Power Platform، ولا يتم استخدامها لتوزيع بيئات Finance and Operations.

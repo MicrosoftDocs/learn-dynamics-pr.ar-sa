@@ -34,8 +34,8 @@ quiz:
       isCorrect: false
   - content: ما الذي عليك تقديمه في أثناء إعداد Dynamics 365 Marketing للمرة الأولى؟
     choices:
-    - content: اسم الشركة وعنوان الرسالة الإلكترونية
-      explanation: اسم الشركة وعنوان الرسالة الإلكترونية غير مطلوبين على أنهما جزء من خطوات إعداد Dynamics 365 Marketing الأولية.
+    - content: اسم الشركة وعنوان البريد الإلكتروني
+      explanation: اسم الشركة وعنوان البريد الإلكتروني غير مطلوبين على أنهما جزء من خطوات إعداد Dynamics 365 Marketing الأولية.
       isCorrect: false
     - content: مركز الاشتراكات
       explanation: مراكز الاشتراكات ليست إحدى خطوات إعداد Dynamics 365 Marketing الأولية.
