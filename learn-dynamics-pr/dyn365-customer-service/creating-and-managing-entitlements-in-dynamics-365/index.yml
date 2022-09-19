@@ -3,19 +3,20 @@ uid: learn-bizapps.creating-and-managing-entitlements-in-dynamics-365
 metadata:
   title: إنشاء الاستحقاقات وإدارتها في Microsoft Dynamics 365 C‎ustomer Service
   description: ستركز هذه الوحدة على استحقاقات Microsoft Dynamics 365 وكيفية استخدامها لتحديد المعلومات المتعلقة بعقود الدعم وتعقُّبها. وتتضمن معلومات عن إنشاء الاستحقاقات وتحديدها، وإعداد شروط الاستحقاق وأنواعه، وتحديد السجلات ذات الصلة، وإدارة دورة حياة الاستحقاق.
-  ms.date: 08/10/2022
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 02/02/2019
+  author: davebeasley
+  ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3b16811ce6bb8b13f0eff46b3e7a773bc8fddfab
-  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.openlocfilehash: c8ad65e7bace34be07a5ad7e3fefd721a45bee9e
+  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9344140"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "7326753"
 title: إنشاء الاستحقاقات وإدارتها في Microsoft Dynamics 365 C‎ustomer Service
 summary: >
   [!include[](../includes/module-banner.md)]
+
 
   ستركز هذه الوحدة على استحقاقات Microsoft Dynamics 365 وكيفية استخدامها لتحديد المعلومات المتعلقة بعقود الدعم وتعقُّبها. وتتضمن معلومات عن إنشاء الاستحقاقات وتحديدها، وإعداد شروط الاستحقاق وأنواعه، وتحديد السجلات ذات الصلة، وإدارة دورة حياة الاستحقاق.
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- إنشاء سجلات الاستحقاق وتحديدها\n- التحكم عند تطبيق استحقاق ما \n- تحديد شروط استحقاق معين وقنوات مدعومة معيّنة\n- تحديد الاستحقاقات الخاصة بالمنتج أو الخاصة بجهة الاتصال\n- العمل باستخدام سجلات استحقاق متعددة لعميل معين\n- استخدام قوالب الاستحقاق للإسراع من وتيرة إنشاء استحقاقات جديدة\n"
@@ -29,8 +30,6 @@ roles:
 products:
 - dynamics-365
 - dynamics-customer-service
-subjects:
-- business-applications
 units:
 - learn-bizapps.creating-and-managing-entitlements-in-dynamics-365.1-entitlement-overview
 - learn-bizapps.creating-and-managing-entitlements-in-dynamics-365.2-creating-entitlement-records
