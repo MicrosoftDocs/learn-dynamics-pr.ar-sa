@@ -44,15 +44,7 @@ units:
 - learn.wwl.get-introduced-finance-operations-apps.introduction
 - learn.wwl.get-introduced-finance-operations-apps.discover-enterprise-resource-planning-erp
 - learn.wwl.get-introduced-finance-operations-apps.review-dynamics-365-use-cases
-- learn.wwl.get-introduced-finance-operations-apps.create-use-reports
-- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-exporting-excel
-- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-analyzing-data-with-power-bi
-- learn.wwl.get-introduced-finance-operations-apps.explore-microsoft-teams-integration-capabilities
-- learn.wwl.get-introduced-finance-operations-apps.integrate-dynamics-365-with-microsoft-word-excel
-- learn.wwl.get-introduced-finance-operations-apps.explore-options-for-managing-documents-by-using-sharepoint-online
-- learn.wwl.get-introduced-finance-operations-apps.explore-email-integration-capabilities
-- learn.wwl.get-introduced-finance-operations-apps.exercise-navigate-dynamics-365
-- learn.wwl.get-introduced-finance-operations-apps.exercise-explore-workspace-filtering
+- learn.wwl.get-introduced-finance-operations-apps.exercise-navigate-finance-operations-apps
 - learn.wwl.get-introduced-finance-operations-apps.knowledge-check
 - learn.wwl.get-introduced-finance-operations-apps.summary
 badge:

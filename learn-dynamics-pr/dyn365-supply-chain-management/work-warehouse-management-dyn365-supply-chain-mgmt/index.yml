@@ -29,7 +29,9 @@ products:
 - dynamics-finance-operations
 units:
 - learn-dynamics.work-with-warehouse-management.1-configure-mobile-device
-- learn-dynamics.work-with-warehouse-management.2-configure-work-type-menu-items
+- learn-dynamics.work-with-warehouse-management.1-2-setup-bar-codes
+- learn-dynamics.work-with-warehouse-management.2-configure-work-type-menu-items 
+- learn-dynamics.work-with-warehouse-management.2-2-mobile-app-step-instructions
 - learn-dynamics.work-with-warehouse-management.3-inbound-operations
 - learn-dynamics.work-with-warehouse-management.4-cycle-counting
 - learn-dynamics.work-with-warehouse-management.5-transfers-replenishment
@@ -40,12 +42,6 @@ units:
 - learn-dynamics.work-with-warehouse-management.7-cluster-picking
 - learn-dynamics.work-with-warehouse-management.8-packing-containerization
 - learn-dynamics.work-with-warehouse-management.9-exercise-configure-mobile-devices
-- learn-dynamics.work-with-warehouse-management.10-exercise-perform-inbound-operations
-- learn-dynamics.work-with-warehouse-management.14-exercise-perform-cycle-counting
-- learn-dynamics.work-with-warehouse-management.15-exercise-perform-transfers-replenishment
-- learn-dynamics.work-with-warehouse-management.16-exercise-configure-wave-processing
-- learn-dynamics.work-with-warehouse-management.12-exercise-perform-cluster-picking
-- learn-dynamics.work-with-warehouse-management.13-exercise-perform-packing-containerization
 - learn-dynamics.work-with-warehouse-management.17-knowledge-check
 - learn-dynamics.work-with-warehouse-management.18-summary
 badge:
