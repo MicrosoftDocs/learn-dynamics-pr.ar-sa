@@ -1,6 +1,61 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/1-introduction.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/2-asset-library.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/3-emails.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/4-push-notifications.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/5-text-messages.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/6-triggers.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/7-segments.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/8-journey.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/10-check.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/11-summary.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/index.md",
+      "redirect_url": "/training/paths/work-real-time-marketing/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-customer-service/work-distribution-omnichannel/1-introduction-components.md",
       "redirect_url": "/learn/modules/route-distribute-work/",
       "redirect_document_id": false
