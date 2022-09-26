@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enable-engineering-change-management.5-exercise
+title: التمرين - إنشاء قاعدة خطورة
+metadata:
+  title: التمرين - إنشاء قاعدة خطورة
+  description: ممارسة إنشاء قاعدة خطورة تتطلب تغيير مستند.
+  ms.date: 05/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8612955a9aac306773dc89bbb5f7a6eff595842a
+  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2022
+  ms.locfileid: "9405071"
+durationInMinutes: 13
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-exercise.md)]"

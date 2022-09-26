@@ -7,15 +7,15 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: dcca54766adc2a8df6a09e868ad447a94aec392f
-  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
+  ms.service: dynamics-365-sales
+  ms.openlocfilehash: 39d92d97dcdd489cdf46caa17876f96d4aa36cd0
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/27/2022
-  ms.locfileid: "9201077"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9369927"
 title: استخدام إمكانات المبيعات
-summary: تقدم هذه الوحدة التنبؤ بالمبيعات وLinkedIn Sales Navigator وDynamics 365 Sales Insights إلى المتعلمين.
+summary: تقدم هذه الوحدة التنبؤ بالمبيعات وLinkedIn Sales Navigator وDynamics 365 Sales Insights إلَى المتعلمين.
 abstract: >
   بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 

@@ -3,32 +3,27 @@ uid: learn.wwl.get-introduced-finance-operations-apps
 metadata:
   title: تعرف على تطبيقات المالية والعمليات
   description: تعرف على تطبيقات المالية والعمليات
-  ms.date: 10/18/2021
+  ms.date: 07/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 251b7bb8ec8c0d4b5ed430f831af38af7c5b24cf
-  ms.sourcegitcommit: 1589e8fc6a343d3713a9bd98ecba61faa8794c37
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 2a0e96acce114cc5429bfc2e61ad1efd49d0def4
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/18/2021
-  ms.locfileid: "7648514"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9370047"
 title: تعرف على تطبيقات المالية والعمليات
-summary: تناقش هذه الوحدة الإمكانات العامة التي تشاركها تطبيقات Microsoft Dynamics 365 finance and operations، بما في ذلك إعداد التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى، مثل Microsoft Excel وPower BI وWord وTeams.
+summary: تناقش هذه الوحدة النمطية القدرات العامة لمجموعة Microsoft Dynamics 365 من تطبيقات التمويل والعمليات، بما فِي ذلك التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى مثل Microsoft Excel وMicrosoft Word وPower BI وMicrosoft Teams.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
-  - وصف إمكانات إعداد التقارير المضمنة.
+  *   اكتشف مجموعة تطبيقات التمويل والتشغيل التي يمكنك استخدامها لتخطيط موارد المؤسسة.
 
-  - وصف خيارات تصدير البيانات إلى منتجات Microsoft الأخرى.
-
-  - وصف خيارات تحليل البيانات.
-
-  - وصف حالات الاستخدام وإمكانات التكامل مع منتجات Microsoft الأخرى.
-
-  - صف خيارات إدارة المستندات.
-prerequisites: ''
+  *   مراجعة حالات الاستخدام لتطبيقات التمويل والعمليات.
+prerequisites: >
+  لا شيء
 iconUrl: /learn/achievements/dynamics-get-started-finance-operations.svg
 levels:
 - beginner
@@ -40,6 +35,10 @@ roles:
 products:
 - dynamics-365
 - dynamics-finance-operations
+subjects:
+- finance-accounting
+- marketing-sales
+- supply-chain-management
 units:
 - learn.wwl.get-introduced-finance-operations-apps.introduction
 - learn.wwl.get-introduced-finance-operations-apps.discover-enterprise-resource-planning-erp

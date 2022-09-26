@@ -3,17 +3,18 @@ uid: learn-dynamics.get-started-security-roles.5-custom
 title: التمرين - إنشاء دور مخصص
 metadata:
   title: التمرين - إنشاء دور مخصص
-  description: تعرف على كيفية إنشاء دور مخصص في Microsoft Dataverse.
+  description: تعرف على كيفية إنشاء دور مخصص فِي Microsoft Dataverse.
   ms.date: 05/02/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: adacf942144eef53f5cdb2b21bf3bec4d6ee7bac
-  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.subservice: admin
+  ms.openlocfilehash: 63bf9aaec48a9ff43cda31d5cb9f0db4e88ed600
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/03/2022
-  ms.locfileid: "8666812"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426275"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

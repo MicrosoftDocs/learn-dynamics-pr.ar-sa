@@ -9,11 +9,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 420fc7b0cc989ea66d5e8521368e3a94cf164f17
-  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 3eee0cbfe47f38b9a95265d842c81d5c7427a237
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2022
-  ms.locfileid: "8841467"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425765"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-fetch-xml.md)]"

@@ -3,16 +3,16 @@ uid: learn-dynamics.configure-model-driven-apps-customer-engagement.11-knowledge
 metadata:
   title: اختبر معلوماتك
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 06/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a78c180d537f5090817ceae44a23bfb752881301
-  ms.sourcegitcommit: 6eb8dbfb33fa31743c4db4ddf5e5c9ed3796bc0c
+  ms.openlocfilehash: 3d93a2e0f11f2e9701e358f1fddd7a207274ba7f
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "8018144"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425175"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
@@ -32,7 +32,7 @@ quiz:
     - content: إنشاء سريع
       isCorrect: false
       explanation: استخدم نوع نموذج البطاقة لعرض بيانات النموذج على لوحة المعلومات.
-  - content: أي مما يلي لا يمكن إضافته إلى نموذج سريع؟
+  - content: أي عنصر من العناصر لا يمكن إضافته إلى نموذج سريع؟
     choices:
     - content: IFRAME
       isCorrect: true
@@ -43,12 +43,12 @@ quiz:
     - content: علامات التبويب
       isCorrect: false
       explanation: لا يمكن إضافة IFRAME إلى نموذج سريع.
-    - content: نص مكتوب
+    - content: برنامج نصي
       isCorrect: false
       explanation: لا يمكن إضافة IFRAME إلى نموذج سريع.
-  - content: ما هي الشبكة القابلة للتعديل؟
+  - content: ما هي الشبكة القابلة للتحرير؟
     choices:
-    - content: نموذج يستخدم لعرض لوحة المعلومات.
+    - content: نموذج يُستخدم لعرض لوحة معلومات.
       isCorrect: false
       explanation: الشبكة القابلة للتحرير هي عنصر تحكم خاص لتحرير الحقول من طريقة عرض دون فتح السجل.
     - content: وظيفة لإنشاء حقول جديدة.

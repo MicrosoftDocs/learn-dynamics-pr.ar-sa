@@ -9,12 +9,13 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 9087616e833f1017a12530cec82b7fd101bc5952
-  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
+  ms.subservice: admin
+  ms.openlocfilehash: d4e4615dfc4e47e8ad311de9b6c919901219204f
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/10/2022
-  ms.locfileid: "9132529"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426481"
 durationInMinutes: 8
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
@@ -35,16 +36,16 @@ quiz:
       explanation: يُظهر "مدخل مسؤول Microsoft Power Platform" بيانات الاستخدام.
   - content: أي مما يلي ينطبق على تحليلات Power Platform؟
     choices:
-    - content: يمكن تحليل بيئة واحدة فقط في كل مرة.
+    - content: يمكن تحليل بيئة واحدة فقط فِي كل مرة.
       isCorrect: true
       explanation: يمكنك التبديل بين البيئات للمراقبة، ولكن لا يمكن تحليل العديد منها معاً.
-    - content: يمكن إنشاء الرسومات بناءً على البيانات الموجودة في الجداول الخاصة بك.
+    - content: يمكن إنشاء الرسومات بناءً على البيانات الموجودة فِي الجداول الخاصة بك.
       isCorrect: false
       explanation: تقوم تحليلات Power Platform فقط بتحليل بيانات التعريف (بيانات حول البيانات)، مثل من تفاعل مع جدول، والجداول الأكثر استخداماً.
-    - content: لا يتم تعقب مقاييس واجهة برمجة التطبيقات في مركز مسؤولي Power Platform.
+    - content: لا يتم تعقب مقاييس واجهة برمجة التطبيقات فِي مركز مسؤولي Power Platform.
       isCorrect: false
       explanation: يتتبع Dataverse مكالمات API وسيخبرك بعدد المكالمات التي تم إجراؤها ومعدل نجاحها.
-    - content: لا يتم تعقب المستخدمين النشطين في مركز مسؤولي Power Platform.
+    - content: لا يتم تعقب المستخدمين النشطين فِي مركز مسؤولي Power Platform.
       isCorrect: false
       explanation: يعرض "التخصيص المتقدم لـ Power Apps" طريقة سريعة لإضافة مستخدمين وتعيين الأذونات.
   - content: أي مما يلي هو سبب لتمكين التدقيق؟
@@ -52,7 +53,7 @@ quiz:
     - content: إنها الطريقة الوحيدة للتراجع عن التغييرات غير المعتمدة أو غير المقصودة.
       isCorrect: false
       explanation: توجد النسخ الاحتياطية، ويمكن استخدامها للتراجع عن التغييرات، لكن هذا يتطلب ارتداداً كاملاً ولا يمكن إجراؤه على أجزاء.
-    - content: يسمح للمستخدمين بتحرير سجلات متعددة في وقت واحد.
+    - content: يسمح للمستخدمين بتحرير سجلات متعددة فِي وقت واحد.
       isCorrect: false
       explanation: يتعلق التدقيق بمراجعة التغييرات السابقة على البيانات، وليس بكيفية تفاعل المستخدمين مع تلك البيانات.
     - content: للالتزام بمتطلبات الامتثال.
@@ -60,4 +61,4 @@ quiz:
       explanation: يتيح لك التدقيق تتبع من قام بإجراء التغييرات وما هي هذه التغييرات، مما يسمح بإجراء عمليات مراجعة قوية.
     - content: لتعقب سعة تخزين Dataverse.
       isCorrect: false
-      explanation: تتم مراقبة سعة تخزين Dataverse في مدخل مسؤول Power Platform ولا تتعلق بالتدقيق.
+      explanation: تتم مراقبة سعة تخزين Dataverse فِي مدخل مسؤول Power Platform ولا تتعلق بالتدقيق.

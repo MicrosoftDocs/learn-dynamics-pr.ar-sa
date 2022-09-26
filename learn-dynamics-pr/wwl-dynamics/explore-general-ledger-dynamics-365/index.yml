@@ -1,25 +1,25 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-general-ledger-dynamics-365
 metadata:
-  title: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
-  description: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
+  title: استكشاف دفتر الأستاذ العام فِي Microsoft Dynamics 365 Finance
+  description: استكشاف دفتر الأستاذ العام فِي Microsoft Dynamics 365 Finance
   ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 67b0887a7f9103f4169a2743d918f830bd14186c
-  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
+  ms.service: dynamics-365-finance
+  ms.openlocfilehash: e038880c676a968f854dc8009c1d1f616d7470f8
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/04/2022
-  ms.locfileid: "9225593"
-title: استكشاف دفتر الأستاذ العام في Microsoft Dynamics 365 Finance
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368670"
+title: استكشاف دفتر الأستاذ العام فِي Microsoft Dynamics 365 Finance
 summary: في هذه الوحدة النمطية، ستكتشف دليل الحسابات، ثم تستكشف الأنواع المختلفة للأبعاد المالية وكيفية إعدادها. سوف يتم أيضاً الاطلاع على العمليات المالية الدورية.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
-  *   وصف أدلة الحسابات، بما في ذلك الحسابات الرئيسية والتصنيف.
+  *   وصف أدلة الحسابات، بما فِي ذلك الحسابات الرئيسية والتصنيف.
 
   *   وصف الأبعاد المالية ومفاهيم مجموعة الأبعاد.
 

@@ -4,16 +4,16 @@ title: نظرة عامة على تكوين المخططات
 metadata:
   title: نظرة عامة على تكوين المخططات
   description: يوفر نظرة عامة على الرسوم البيانية للتطبيقات التي تعتمد على النموذج.
-  ms.date: 06/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0a0ce84092a9f4feada5f76b7ebe0a9f7ae6ca07
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5695a55c89a064145ef64d18e61f55e4d17d0b1a
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337876"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425225"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn-dynamics.ingest-data-customer-insights.badge
 metadata:
-  title: 'Microsoft Badge: استيعاب البيانات في رؤى الحضور تم إصدارها من قبل Microsoft'
-  ms.openlocfilehash: 3f11d71a94dbd26a358322a1394725a1e135a2ac
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: استيعاب البيانات فِي Customer Insights تم إصدارها من قبل Microsoft'
+  ms.openlocfilehash: bc18b15e63fb1d22ee3ea6ed18ccc41fd3d12926
+  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772046"
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9392118"
 socialImageUrl: /learn/achievements/ingest-data-customer-insights-social.png

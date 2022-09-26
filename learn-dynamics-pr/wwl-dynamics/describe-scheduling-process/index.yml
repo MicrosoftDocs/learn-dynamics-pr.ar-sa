@@ -7,19 +7,19 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: 6a59b9c23cec491b78792e425e0c0fa152462065
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.service: dynamics-365-field-service
+  ms.openlocfilehash: 2d8805f2a2a6f93bac0c1ba00ad54c3fe9a43e16
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9178680"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9370208"
 title: وصف عمليه الجدولة
-summary: تقدم لك هذه الوحدة إمكانات الجدولة في Dynamics 365 Field Service إلى المتعلمين. كما تناقش إدارة الأصول وConnected Field Service.
+summary: تقدم لك هذه الوحدة إمكانات الجدولة فِي Dynamics 365 Field Service إلَى المتعلمين. كما تناقش إدارة الأصول وConnected Field Service.
 abstract: >
   بعد الانتهاء من هذه الوحدة، سوف تتمكن من القيام بما يلي:
 
-  *   وصف إمكانات الجدولة المتاحة في Dynamics 365 Field Service
+  *   وصف إمكانات الجدولة المتاحة فِي Dynamics 365 Field Service
 
   *   جدولة الموارد المؤهلة
 

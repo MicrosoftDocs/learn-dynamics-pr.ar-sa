@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.design-responsiveness-mind
+title: سيناريو تجربة المستخدم - تصميم مع مراعاة الاستجابة
+metadata:
+  title: سيناريو تجربة المستخدم - تصميم مع مراعاة الاستجابة
+  description: تعرف عَلى كيفية تصميم استدعاء غير متزامن لنظام خارجي يبدأ النظام ويحدّثه فِي الخلفية.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 18155f3670a53ca42ec4526ad6265194d617ec76
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393352"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/design-responsiveness-mind.md)]"

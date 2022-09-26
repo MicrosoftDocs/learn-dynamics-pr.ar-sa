@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 04391f70772d8759a0ab3cd85d72fa1f5dee721e
-  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
+  ms.openlocfilehash: 3b445f2fbb3d62eb5561a28ffe4ed296dac14506
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/03/2022
-  ms.locfileid: "9223059"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368897"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2
@@ -23,7 +22,7 @@ content: >
 quiz:
   title: ‏‫اختبر معلوماتك
   questions:
-  - content: ترغب Contoso في إعداد الموازنات لإدارة التوظيف. ما إمكانية الموازنة التي يجب أن تستخدمها؟
+  - content: ترغب Contoso فِي إعداد الموازنات لإدارة التوظيف. ما إمكانية الموازنة التي يجب أن تستخدمها؟
     choices:
     - content: المصروفات
       isCorrect: false
@@ -52,7 +51,7 @@ quiz:
       explanation: صحيح. صحيح. في خطاب الضمان، يوافق البنك على دفع مبلغ معين من المال لشخص ما إذا تخلف أحد عملاء البنك عن سداد دفعة أو التزام تجاه ذلك الشخص.
     - content: إعادة تقييم العملة
       isCorrect: false
-      explanation: غير صحيح.‬ توفر معلومات حول عملية إعادة تقييم العملة الأجنبية التي يمكنك تشغيلها لتحديث قيمة الحركات المفتوحة في حسابات المدفوعات وحسابات المقبوضات.
+      explanation: غير صحيح.‬ توفر معلومات حول عملية إعادة تقييم العملة الأجنبية التي يمكنك تشغيلها لتحديث قيمة الحركات المفتوحة فِي حسابات المدفوعات وحسابات المقبوضات.
     - content: إقرار الإيرادات
       isCorrect: false
-      explanation: غير صحيح.‬ يجب أن تكون الشركات التي تبيع عناصر متعددة، مثل المنتجات والخدمات والاشتراكات وغير ذلك، قادرة على تقسيم الأوامر متعددة العناصر بحيث يمكن التعرف على الإيرادات استناداً إلى مجموعة من الإرشادات الخاصة بالشركة والمجال.
+      explanation: غير صحيح.‬ يجب أن تكون الشركات التي تبيع عناصر متعددة، مثل المنتجات والخدمات والاشتراكات وغير ذلك، قادرة على تقسيم الأوامر متعددة العناصر بحيث يمكن التعرف على الإيرادات استناداً إلَى مجموعة من الإرشادات الخاصة بالشركة والمجال.

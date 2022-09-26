@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تعرف عَلى كيفية التعامل مع المشكلات فِي أداء النظام باستخدام الأنماط والأنماط المضادة.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f19c9b95cd19d1684d6ee75da277a277787bde0e
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393359"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/introduction.md)]"

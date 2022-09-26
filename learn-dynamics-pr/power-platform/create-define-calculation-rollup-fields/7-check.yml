@@ -9,12 +9,13 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: dbe3dd47a0a13a394eaf176faba6380338e58cc0
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: ceb94664c6dad00d656a794bcd05f2832977885c
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8551167"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9424924"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
@@ -33,7 +34,7 @@ quiz:
     - content: القيم المحتسبة متزامنة ويتم اجراؤها بمجرد إعادة بدئك Power Apps.
       isCorrect: false
       explanation: القيم المحتسبة غير متزامنة ويتم اجراؤها على أساس مجدول.
-  - content: يمكن إجراء القيم المحتسبة في كافة أنواع الأعمدة التالية فيما عدا ماذا؟
+  - content: يمكن إجراء القيم المحتسبة فِي كافة أنواع الأعمدة التالية فيما عدا ماذا؟
     choices:
     - content: العملة
       isCorrect: false
@@ -55,7 +56,7 @@ quiz:
     - content: تتم إدارة عمليات الحساب بمجرد حفظ صف.
       isCorrect: true
       explanation: تتم إدارة عمليات الحساب بمجرد حفظ صف.
-    - content: يمكن تحرير لأي مستخدم القيم في عمود عملية الحساب.
+    - content: يمكن تحرير لأي مستخدم القيم فِي عمود عملية الحساب.
       isCorrect: false
       explanation: تتم إدارة عمليات الحساب بمجرد حفظ صف.
     - content: لا يمكن إنشاء حسابات لأي عمود نص.

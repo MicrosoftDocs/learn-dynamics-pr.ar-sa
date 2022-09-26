@@ -4,16 +4,16 @@ title: نظرة عامة على لوحات المعلومات
 metadata:
   title: نظرة عامة على لوحات المعلومات
   description: يوفر نظرة عامة على الأنواع المختلفة من لوحات المعلومات المتاحة للتطبيقات التي تعتمد على النماذج
-  ms.date: 06/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8e690d43373bf42633068f84345254e3a670b6ac
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9ec3e4dab351cc69f9c16e03b23fbc4493d72338
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360685"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9424955"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

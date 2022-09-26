@@ -7,15 +7,15 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: b6e9235dc221bdc77d6c485905993571c0ae0e70
-  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: e8483baa7488c13432572c3264f64ffa20e79f67
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9345144"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368105"
 title: استكشف تطبيقات وإمكانات تسويقية أخرى
-summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة الأحداث في Dynamics 365 Customer Service.  كما يناقش Dynamics 365 Customer Voice وDynamics 365 Customer Insights.
+summary: تقدم هذه الوحدة النمطية للمتعلمين إمكانات إدارة الأحداث فِي Dynamics 365 Customer Service.  كما يناقش Dynamics 365 Customer Voice وDynamics 365 Customer Insights.
 abstract: >
   بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 

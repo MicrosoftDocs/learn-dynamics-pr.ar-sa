@@ -9,27 +9,28 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: fb1d363a83b3dd969813151ae657fe7faf21a401
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.subservice: dataverse-developer
+  ms.openlocfilehash: db7a5f2b5c3e65a9e544ab92746c001efec78f45
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8771672"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426215"
 durationInMinutes: 3
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: ما الآليات الجاهزة التي يجب أن نطبقها على منطق الأعمال بدون تعليمات برمجية في تطبيق يستند إلى نموذج؟
+  - content: ما الآليات الجاهزة التي يجب أن نطبقها على منطق الأعمال بدون تعليمات برمجية فِي تطبيق يستند إلَى نموذج؟
     choices:
     - content: قواعد العمل، مهام سير العمل، البرنامج النصي للعميل
       isCorrect: false
-      explanation: البرنامج النصي للعميل هو حل يستند إلى التعليمات البرمجية المخصصة المكتوبة بلغة JavaScript.
+      explanation: البرنامج النصي للعميل هو حل يستند إلَى التعليمات البرمجية المخصصة المكتوبة بلغة JavaScript.
     - content: الأعمدة المحسوبة، مهام سير العمل، المكونات الإضافية
       isCorrect: false
-      explanation: المكون الإضافي هو تجميع ‎.NET يحتوي على كود مخصص مكتوبة بلغة C#‎ ويمكنك تحميله إلى Microsoft Dataverse.
+      explanation: المكون الإضافي هو تجميع ‎.NET يحتوي على كود مخصص مكتوبة بلغة C#‎ ويمكنك تحميله إلَى Microsoft Dataverse.
     - content: قواعد العمل ومهام سير العمل والأعمدة المحسوبة
       isCorrect: true
-      explanation: تتوفر قواعد العمل ومهام سير العمل والأعمدة المحسوبة مع التطبيقات التي تستند إلى النموذج لتطبيق منطق الأعمال بدون كود.
+      explanation: تتوفر قواعد العمل ومهام سير العمل والأعمدة المحسوبة مع التطبيقات التي تستند إلَى النموذج لتطبيق منطق الأعمال بدون كود.
   - content: أيٌ مما يلي يمثّل آلية لتطبيق منطق الأعمال باستخدام التعليمات البرمجية؟
     choices:
     - content: المكونات الإضافية
@@ -37,11 +38,11 @@ quiz:
       explanation: يمكنك استخدام المكونات الإضافية لتطبيق منطق الأعمال باستخدام التعليمات البرمجية.
     - content: الأعمدة المحسوبة
       isCorrect: false
-      explanation: الأعمدة المحسوبة هي تعبيرات بسيطة تسمح بحساب القيمة الموجودة في عمود في الوقت الحقيقي باستخدام الثوابت وقيم الأعمدة الأخرى
+      explanation: الأعمدة المحسوبة هي تعبيرات بسيطة تسمح بحساب القيمة الموجودة فِي عمود فِي الوقت الحقيقي باستخدام الثوابت وقيم الأعمدة الأخرى
     - content: قواعد العمل
       isCorrect: false
       explanation: توفر قواعد العمل واجهة بسيطة لتنفيذ القواعد سريعة التغير وشائعة الاستخدام والحفاظ عليها والتي تطبّق المنطق وعمليات التحقق من الصحة بدون كتابة الكود.
-  - content: متى يمكنك استخدام خدمة المؤسسة للوصول إلى Dataverse؟
+  - content: متى يمكنك استخدام خدمة المؤسسة للوصول إلَى Dataverse؟
     choices:
     - content: عندما يكون التطبيق مكتوباً باستخدام تقنية المصدر المفتوح مثل Node.js.
       isCorrect: false

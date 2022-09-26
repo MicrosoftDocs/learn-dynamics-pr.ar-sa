@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: e00c0716977d983d123f68776aeb89f7fbe85496
-  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
+  ms.openlocfilehash: 6c8471542bda7f2ef3fa379e7ae1c58bfba26853
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/03/2022
-  ms.locfileid: "9223677"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368433"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2
@@ -23,7 +22,7 @@ content: >
 quiz:
   title: ‏‫اختبر معلوماتك
   questions:
-  - content: تريد Erika، وهي مديرة مشروع في Contoso رؤية الساعات الفعلية المتراكمة لمهمة مقارنة بالساعات المخططة في WBS. ما طريقة العرض الذي يجب أن تستخدمه Erika في WBS؟
+  - content: تريد Erika، وهي مديرة مشروع فِي Contoso رؤية الساعات الفعلية المتراكمة لمهمة مقارنة بالساعات المخططة فِي WBS. ما طريقة العرض الذي يجب أن تستخدمه Erika فِي WBS؟
     choices:
     - content: طريقة عرض تعقب الجهد
       isCorrect: true
@@ -34,17 +33,17 @@ quiz:
     - content: عرض التخطيط
       isCorrect: false
       explanation: غير صحيح.‬ عرض التخطيط يعرض التقدير الأساسي أو المخطط للجدول ومعلومات التكلفة.
-  - content: يحتاج Rodney، مدير المشروع في Contoso، إلى تخصيص موارد لمشروع جديد. يحتاج Rodney إلى التأكد أن هذه الموارد تفي بمتطلبات تعليمية معينة مع امتلاك سعة كافية أيضاً. هل هذا شيء يمكن لـ Rodney القيام به في Project Operations؟
+  - content: يحتاج Rodney، مدير المشروع فِي Contoso، إلَى تخصيص موارد لمشروع جديد. يحتاج Rodney إلَى التأكد أن هذه الموارد تفي بمتطلبات تعليمية معينة مع امتلاك سعة كافية أيضاً. هل هذا شيء يمكن لـ Rodney القيام به فِي Project Operations؟
     choices:
     - content: ليس تماماً. يمكن لـ Rodney تعيين مورد بناءً على تعليمهم ولكن ليس بناءً على قدرتهم.
       isCorrect: false
-      explanation: غير صحيح.‬ في Project Operations، يمكن لـ Rodney تعيين مشروع استناداً إلى سعة المورد ومدي توفره.
+      explanation: غير صحيح.‬ في Project Operations، يمكن لـ Rodney تعيين مشروع استناداً إلَى سعة المورد ومدي توفره.
     - content: نعم، يمكن لـ Rodney تخصيص الموارد بناءً على التعليم والقدرة.
       isCorrect: true
       explanation: صحيح. في Project Operations، يمكن لـ Rodney تعيين الموارد وجدولتها بناءً على تعليمهم ومهاراتهم وشهاداتهم وخبراتهم. يمكنه تعيين مشروع بناءً على قدرة المورد وتوافره.
     - content: ليس تماماً. يمكن لـ Rodney تعيين مورد بناءً على إمكاناتهم ولكن لا يمكنه مطابقة مورد بمشروع بناءً على تعليمهم.
       isCorrect: false
-      explanation: غير صحيح.‬ في Project Operations، يمكن لـ Rodney تعيين مشروع استناداً إلى سعة المورد ومدي توفره.
+      explanation: غير صحيح.‬ في Project Operations، يمكن لـ Rodney تعيين مشروع استناداً إلَى سعة المورد ومدي توفره.
   - content: أي مما يلي يُعد أحد مكونات قالب المشروع؟
     choices:
     - content: النطاق
@@ -52,7 +51,7 @@ quiz:
       explanation: غير صحيح.‬ نطاق المشروع ليس أحد مكونات القالب.
     - content: تقدير
       isCorrect: true
-      explanation: صحيح. تقديرات المشروع في قالب مشروع تعمل بنفس طريقة تقديرات المشروع في مشروع ما.
+      explanation: صحيح. تقديرات المشروع فِي قالب مشروع تعمل بنفس طريقة تقديرات المشروع فِي مشروع ما.
     - content: التنبؤ
       isCorrect: false
       explanation: غير صحيح.‬ غير صحيح.‬ تنبؤ المشروع ليس أحد مكونات القالب.

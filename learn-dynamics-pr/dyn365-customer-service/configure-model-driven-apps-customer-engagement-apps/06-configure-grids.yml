@@ -4,16 +4,16 @@ title: تكوين الشبكات
 metadata:
   title: تكوين الشبكة
   description: تعرف على كيفية تكوين الشبكات والشبكات الفرعية القابلة للتحرير
-  ms.date: 06/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6483bd934c884d9233997867169e6e2151a8fbd4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2066ff6fe4949078ebf4a045a9c0d854af9bfa23
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7358857"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425615"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

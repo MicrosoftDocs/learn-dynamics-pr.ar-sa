@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.continuous-number-sequence
+title: سيناريو ترحيل البيانات - التسلسل الرقمي المستمر
+metadata:
+  title: سيناريو ترحيل البيانات - التسلسل الرقمي المستمر
+  description: تعرف عَلى كيفية تجنب التسلسل الرقمي المستمر فِي عملية ترحيل البيانات.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 81c9be7187e29711839b443deb0c39617e1c5226
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393404"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/continuous-number-sequence.md)]"

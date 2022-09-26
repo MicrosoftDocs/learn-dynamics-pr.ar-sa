@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.create-transactions-pos
 metadata:
-  title: إنشاء الحركات في Store Commerce في Dynamics 365 Commerce
-  description: يمكن تنفيذ الحركات في Store Commerce في Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق.
+  title: إنشاء الحركات فِي Store Commerce فِي Dynamics 365 Commerce
+  description: يمكن تنفيذ الحركات فِي Store Commerce فِي Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق.
   ms.date: 08/12/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 270b08894855a2608b9ba8b9eefc2ab189195518
-  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+  ms.openlocfilehash: 8dbffdfc82a0263753ca35a7efdc9ecabf059dcb
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/15/2022
-  ms.locfileid: "9300034"
-title: إنشاء الحركات في Store Commerce في Dynamics 365 Commerce
-summary: "[!include[](../includes/module-banner.md)] \nيمكن تنفيذ الحركات في Store Commerce في Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق. \n> [!NOTE]\n> ينطبق المحتوى الموجود في هذه الوحدة أيضاً على Store Commerce لـ Windows وStore Commerce للمتصفحات\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء حركات الدفع نقداً والاستلام فوراً لعميل عابر.\n- أنشئ أمر عميل.\n- قم بإلغاء الحركات وإرجاعها.\n- قم بتعليق حركة واستدعائها. \n- تعامل مع الأصناف المتسلسلة. \n"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368333"
+title: إنشاء الحركات فِي Store Commerce فِي Dynamics 365 Commerce
+summary: "[!include[](../includes/module-banner.md)] \nيمكن تنفيذ الحركات فِي Store Commerce فِي Dynamics 365 Commerce لتسجيل المبيعات والعائدات بعدة طرق. \n> [!NOTE]\n> ينطبق المحتوى الموجود فِي هذه الوحدة النمطية أيضًا عَلى retail modern POS (MPOS) وعلى cloud POS (CPOS)\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- إنشاء حركات الدفع نقدًا والاستلام فورًا لعميل عابر.\n- أنشئ أمر عميل.\n- قم بإلغاء الحركات وإرجاعها.\n- قم بتعليق حركة واستدعائها. \n- تعامل مع الأصناف المتسلسلة. \n"
 prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 

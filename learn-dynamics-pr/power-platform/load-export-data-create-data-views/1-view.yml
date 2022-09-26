@@ -8,12 +8,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b399ced0cea0d8c14753e6105b6f49e195a91970
-  ms.sourcegitcommit: 6c08dc1282450e162141a968433f38943275aa63
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: b50f56ef905a9a24f9ec7d7a459ee131821dcd8a
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/01/2022
-  ms.locfileid: "8370008"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425666"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

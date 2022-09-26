@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.high-contention
+title: سيناريو الوظيفة الدفعية - تنافس كبير
+metadata:
+  title: سيناريو الوظيفة الدفعية - تنافس كبير
+  description: تعرف عَلى كيفية تقليل التنافس الكبير عَلى الوظائف الدفعية.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 97ad33c2ac63f04088ece0e5d57b22ef52bc3ccf
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393355"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/high-contention.md)]"

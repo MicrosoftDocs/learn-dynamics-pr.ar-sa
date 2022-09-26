@@ -2,34 +2,35 @@
 uid: learn-dynamics.working-with-option-sets.4-check
 metadata:
   title: العمل مع التحقق من معرفة الاختيارات
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 06/29/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 14193db004e979eebdd8b5011e12e9c649302939
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: 691ed09050ffd491bfd766f1510752bf7c5e305f
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7457540"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9424945"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: متى يمكنك إنشاء اختيار؟
     choices:
     - content: عندما تقوم بتحرير عمود حالي
       isCorrect: false
-      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو في وحدة الاختيار.
+      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو فِي وحدة الاختيار.
     - content: عند تحديد عمود جديد
       isCorrect: true
-      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو في وحدة الاختيار.
+      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو فِي وحدة الاختيار.
     - content: عندما تقوم بحذف عمود حالي
       isCorrect: false
-      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو في وحدة الاختيار.
+      explanation: يمكنك إنشاء اختيار عند تحديد عمود جديد أو فِي وحدة الاختيار.
   - content: أي مما يلي يمكن أن تحتويه الاختيارات؟
     choices:
     - content: الأرقام، أو الصور، أو النص

@@ -9,11 +9,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 3931d83b683558f40e94a67fe9209fe967e2ed4c
-  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 71f272491a966d7701e806f87bb78b3411b4b69a
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2022
-  ms.locfileid: "8841198"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425125"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/7-impersonate.md)]"

@@ -7,15 +7,15 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: 4b4268fb40ea047f7fda009fb551ee3adf30886e
-  ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
+  ms.service: dynamics-365-marketing
+  ms.openlocfilehash: 5f03d0d87a2505ab10d3585c646dc2713e4e0a38
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9322026"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368393"
 title: استكشاف Dynamics 365 Marketing
-summary: تقدم هذه الوحدة النمطية Dynamics 365 Marketing إلى المتعلمين مع التركيز على التسويق عبر البريد الإلكتروني وتقسيم العملاء ورحلات العملاء.
+summary: تقدم هذه الوحدة النمطية Dynamics 365 Marketing إلَى المتعلمين مع التركيز على التسويق عبر البريد الإلكتروني وتقسيم العملاء ورحلات العملاء.
 abstract: >
   بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
@@ -25,7 +25,7 @@ abstract: >
 
   - وصف كيفية استهداف العملاء بالشرائح
 
-  - اشرح كيفية إنشاء رحلات العملاء والاستفادة منها في Dynamics 365 Marketing
+  - اشرح كيفية إنشاء رحلات العملاء والاستفادة منها فِي Dynamics 365 Marketing
 
   - وصف إنشاء العملاء المتوقعين والمؤهلات
 prerequisites: >

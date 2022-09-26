@@ -9,11 +9,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 2298a11b943ef95a33ba83941a3bde95ed9c7aa1
-  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 3d2ddecaebf293bcfe31227a3273a494b90af5d3
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/03/2022
-  ms.locfileid: "8666544"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426115"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-formatting-api.md)]"

@@ -1,0 +1,62 @@
+### YamlMime:Module
+uid: learn-dynamics.solution-architecture-performance
+metadata:
+  title: أفضل ممارسات بنية حلول Dynamics 365 للأداء
+  description: تعرف عَلى كيفية إنشاء نظام فعّال باستخدام الأساليب التي تستند إلَى السيناريو والإرشادات حول الأنماط الجيدة (أفضل الممارسات) والأنماط المضادة (الصعوبات الشائعة).
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9436ca1cdecc47fd5ac7508890834c460ce2ddbd
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393345"
+title: أفضل ممارسات بنية حلول Dynamics 365 للأداء
+summary: "[!include[](../includes/module-banner.md)] \nيعد اختبار الأداء وتحسين تطبيقات التمويل والعمليات جزءًا أساسيًا من أي عملية تنفيذ. توفر هذه الوحدة منظورًا حول كيفية إنشاء نظام فعّال باستخدام النهج القائمة عَلى السيناريو والتوجيه بشأن الأنماط الجيدة (أفضل الممارسات) والأنماط المضادة (المخاطر الشائعة). \n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- اكتشف أفضل الممارسات للأداء ومدى توافق مع السيناريوهات الشائعة التي قد تواجهها أثناء عمليات التنفيذ.\n-   تعرّف عَلى سوء الفهم الشائع والممارسات السيئة حتى تتمكن من تجنبها عند مواجهة متطلبات مماثلة. \n"
+prerequisites: >
+  - معرفة استكشاف أخطاء الأداء لتطبيقات التمويل والعمليات
+
+  -   المعرفة التقنية بتطبيقات التمويل والعمليات
+
+  -   معرفة SQL وإطار عمل إدارة البيانات
+
+  -   المعرفة الوظيفية بتطبيقات التمويل والعمليات
+iconUrl: /learn/achievements/solution-architecture-performance.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- developer
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+- dynamics-commerce
+- dynamics-human-resources
+- dynamics-project-operations
+subjects:
+- business-applications
+- architecture
+units:
+- learn-dynamics.solution-architecture-performance.introduction
+- learn-dynamics.solution-architecture-performance.regular-maintenance
+- learn-dynamics.solution-architecture-performance.design-scalability
+- learn-dynamics.solution-architecture-performance.slow-user-interactions
+- learn-dynamics.solution-architecture-performance.design-responsiveness-mind
+- learn-dynamics.solution-architecture-performance.high-volume-messages
+- learn-dynamics.solution-architecture-performance.high-contention
+- learn-dynamics.solution-architecture-performance.entity-selection
+- learn-dynamics.solution-architecture-performance.continuous-number-sequence
+- learn-dynamics.solution-architecture-performance.extensible-data-security
+- learn-dynamics.solution-architecture-performance.report-design
+- learn-dynamics.solution-architecture-performance.throttling
+- learn-dynamics.solution-architecture-performance.pre-allocation
+- learn-dynamics.solution-architecture-performance.checklist
+- learn-dynamics.solution-architecture-performance.check
+- learn-dynamics.solution-architecture-performance.summary
+badge:
+  uid: learn-dynamics.solution-architecture-performance.badge

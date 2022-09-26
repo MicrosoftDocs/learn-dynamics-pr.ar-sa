@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-project-planning-execution-capabilities
 metadata:
-  title: استكشاف إمكانات تخطيط المشروع وتنفيذه في 365 Project Operations
-  description: استكشاف إمكانات تخطيط المشروع وتنفيذه في 365 Project Operations
+  title: استكشاف إمكانات تخطيط المشروع وتنفيذه فِي 365 Project Operations
+  description: استكشاف إمكانات تخطيط المشروع وتنفيذه فِي 365 Project Operations
   ms.date: 08/02/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 5a568ec831eb5a2628a960d53141328c6344a0c2
-  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
+  ms.service: dynamics-365-project-operations
+  ms.openlocfilehash: 8a54acfc6fc59b0494a7b56c7ee0b05a84c151fb
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/03/2022
-  ms.locfileid: "9223129"
-title: استكشاف إمكانات تخطيط المشروع وتنفيذه في 365 Project Operations
-summary: تقدم لك هذه الوحدة إمكانات تحليل وتنفيذ المشروع في Microsoft Dynamics 365 Project Operations لمساعدتك على تحسين إدارة الموارد وإدارة الجدول الزمني وإدارة الوقت والمصروفات لأعمالك المستندة إلى المشروع.
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9369741"
+title: استكشاف إمكانات تخطيط المشروع وتنفيذه فِي 365 Project Operations
+summary: تقدم لك هذه الوحدة إمكانات تحليل وتنفيذ المشروع فِي Microsoft Dynamics 365 Project Operations لمساعدتك على تحسين إدارة الموارد وإدارة الجدول الزمني وإدارة الوقت والمصروفات لأعمالك المستندة إلَى المشروع.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 

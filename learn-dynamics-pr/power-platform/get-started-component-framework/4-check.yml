@@ -9,12 +9,13 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: cd543519305fc20e669d08c6502a5d3b4356a7f2
-  ms.sourcegitcommit: ec07eb1b745c5f0958e24ba3a8cb5115246c9db2
+  ms.subservice: pcf
+  ms.openlocfilehash: 3768970c4fd75dc06ddd21a0341ca707267b548b
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/04/2022
-  ms.locfileid: "8700866"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426496"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -48,13 +49,13 @@ quiz:
     choices:
     - content: notifyOutputChanged
       isCorrect: true
-      explanation: يمكن استخدام الأسلوب notifyOutputChanged بواسطة تنفيذ التحكم لإعلام إطار العمل بأن لديه مخرجات جديدة. يتم تمرير هذا إلى عنصر التحكم كمعامل للأسلوب init.
+      explanation: يمكن استخدام الأسلوب notifyOutputChanged بواسطة تنفيذ التحكم لإعلام إطار العمل بأن لديه مخرجات جديدة. يتم تمرير هذا إلَى عنصر التحكم كمعامل للأسلوب init.
     - content: init
       isCorrect: false
       explanation: يُستخدم هذا الأسلوب init لتهيئة مثيل المكون.
     - content: updateView
       isCorrect: false
-      explanation: سيتم استدعاء هذا الأسلوب updateView عند تغيير أي قيمة في حقيبة الخصائص.
+      explanation: سيتم استدعاء هذا الأسلوب updateView عند تغيير أي قيمة فِي حقيبة الخصائص.
     - content: getOutputs
       isCorrect: false
       explanation: يتم استدعاء الأسلوب getOutputs بواسطة إطار العمل قبل أن يتلقى المكون البيانات الجديدة.

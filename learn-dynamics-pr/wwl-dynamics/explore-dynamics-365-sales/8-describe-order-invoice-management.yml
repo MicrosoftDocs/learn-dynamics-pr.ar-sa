@@ -4,17 +4,16 @@ title: وصف إدارة الأوامر والفواتير
 metadata:
   title: وصف إدارة الأوامر والفواتير
   description: وصف إدارة الأوامر والفواتير
-  ms.date: 08/08/2022
+  ms.date: 08/30/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: 3eb786d5ac181eb7cecf9f72106a68400a746e12
-  ms.sourcegitcommit: 95cd9b85415c5105ee0265f66991410633840b6d
+  ms.openlocfilehash: 6ad63a9d20f2fe7147adc8fc78c2625f63a33ab4
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/08/2022
-  ms.locfileid: "9238211"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9369532"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3

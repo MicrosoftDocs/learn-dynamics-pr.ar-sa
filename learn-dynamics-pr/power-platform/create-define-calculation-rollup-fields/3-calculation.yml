@@ -9,12 +9,13 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 0593f4c0a82fd60b0d83f89ac1bfcd7f3a6bbadf
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: 7c6407a7afe0cb82b5adb53e79532a724722c977
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8551185"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425995"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

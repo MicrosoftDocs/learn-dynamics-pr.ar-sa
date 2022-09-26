@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn.wwl.navigate-dynamics-customer-engagement-apps
 metadata:
-  title: التنقل في تطبيقات إشراك العملاء في Dynamics 365
-  description: التنقل في تطبيقات إشراك العملاء في Dynamics 365
+  title: التنقل فِي تطبيقات إشراك العملاء فِي Dynamics 365
+  description: التنقل فِي تطبيقات إشراك العملاء فِي Dynamics 365
   ms.date: 08/11/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: f3a32034dbe5b46aa1a267bfb61afe276373b837
-  ms.sourcegitcommit: aed6e5e171b5e5636b6cb2bd00851c61d2f4ad3a
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 1580e310747fc6da4504b9e3afcc1d9da9b47605
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2022
-  ms.locfileid: "9262616"
-title: التنقل في تطبيقات إشراك العملاء في Dynamics 365
-summary: تقدم هذه الوحدة النمطية للمتعلمين تطبيقات إشراك العملاء في Dynamics 365. ستتعرف على التطبيقات الفردية، وستتعلم كيفية التنقل من خلالها وتحديد موقع البيانات وتصفيتها.
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368590"
+title: التنقل فِي تطبيقات إشراك العملاء فِي Dynamics 365
+summary: تقدم هذه الوحدة النمطية للمتعلمين تطبيقات إشراك العملاء فِي Dynamics 365. ستتعرف على التطبيقات الفردية، وستتعلم كيفية التنقل من خلالها وتحديد موقع البيانات وتصفيتها.
 abstract: >
   بعد إِكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
@@ -25,9 +25,9 @@ abstract: >
 
   - فحص تطبيقات Dynamics 365 CRM المختلفة
 
-  - مراجعة الخيارات للوصول إلى التطبيقات
+  - مراجعة الخيارات للوصول إلَى التطبيقات
 
-  - تحديد مكان البيانات وتصفيتها في Dynamics 365
+  - تحديد مكان البيانات وتصفيتها فِي Dynamics 365
 prerequisites: ''
 iconUrl: /learn/achievements/navigate-dynamics-customer-engagement-apps.svg
 levels:

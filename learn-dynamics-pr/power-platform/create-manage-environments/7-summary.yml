@@ -3,18 +3,19 @@ uid: learn-dynamics.create-manage-environments.7-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: راجع ما تعلمته حول إنشاء البيئات وإدارتها في Microsoft Dataverse.
+  description: راجع ما تعلمته حول إنشاء البيئات وإدارتها فِي Microsoft Dataverse.
   ms.date: 02/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: bf1e23533eca9e91576f3bbbd381968990a3aa63
-  ms.sourcegitcommit: 791e5e6051ac726ceae36ef20281ce8c6d27e4fe
+  ms.subservice: admin
+  ms.openlocfilehash: d9b492b6fe9f9daafc093091ec55a6960f2cb3a1
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 02/01/2022
-  ms.locfileid: "8079243"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425045"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

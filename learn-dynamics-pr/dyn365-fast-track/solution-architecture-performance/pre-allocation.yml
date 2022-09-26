@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.pre-allocation
+title: سيناريو التسلسل الرقمي - التخصيص المسبق
+metadata:
+  title: سيناريو التسلسل الرقمي - التخصيص المسبق
+  description: تعرف عَلى التسلسل الرقمي غير المستمر لتقليل استدعاءات قاعدة البيانات.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c10f28494acde8907bf58544e3ec3b484b9f1055
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393357"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/pre-allocation.md)]"

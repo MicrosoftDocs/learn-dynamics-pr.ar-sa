@@ -7,13 +7,13 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365-customer-service
-  ms.openlocfilehash: 37b5287088563f38c9ccbeac6a9a233d68a965c7
-  ms.sourcegitcommit: 556a297ff65a9e0cbd5fa04e8821e897dded8fc9
+  ms.service: dynamics-365-customerservice
+  ms.openlocfilehash: 9e4534264b8b9d5fc196447a8b18c25940caa25d
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/27/2022
-  ms.locfileid: "9201203"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9369722"
 title: تعرف على أساسيات Microsoft Dynamics 365 Customer Service
 prerequisites: >
   لا شيء

@@ -9,31 +9,32 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 09d577f4412e6fdcf3dea84d5dae5bb8ef3d9fde
-  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 1936ddbe305974d875d2e7d94c46d2864ad27b36
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/03/2022
-  ms.locfileid: "8666892"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425035"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: ما هو المطلوب لاستخدام React مع مكون التعليمات البرمجية؟
     choices:
-    - content: نسخ ملفات اطار عمل React إلى مجلد مكون التعليمات البرمجية
+    - content: نسخ ملفات اطار عمل React إلَى مجلد مكون التعليمات البرمجية
       isCorrect: false
       explanation: استخدام --خيار إطار عمل React على Power Platform CLI.
     - content: استخدام --خيار إطار عمل React على Power Platform CLI
       isCorrect: true
-      explanation: يؤدي هذا إلى تكوين مكون التعليمات البرمجية لاستخدام React.
+      explanation: يؤدي هذا إلَى تكوين مكون التعليمات البرمجية لاستخدام React.
     - content: تحرير package.json يدوياً لتضمين React
       isCorrect: false
       explanation: استخدام --خيار إطار عمل React على Power Platform CLI.
     - content: تحرير ControlInput.Manifest.xml يدوياً لتضمين React.
       isCorrect: false
       explanation: استخدام --خيار إطار عمل React على Power Platform CLI.
-  - content: ما الأسلوب الذي ستستخدمه لتنسيق سلسلة في لغة معينة؟
+  - content: ما الأسلوب الذي ستستخدمه لتنسيق سلسلة فِي لغة معينة؟
     choices:
     - content: formatLocale
       isCorrect: false
@@ -47,20 +48,20 @@ quiz:
     - content: setLanguage
       isCorrect: false
       explanation: formatLanguage هو الأسلوب الذي قد تستخدمه لتنسيق سلسلة بلغة معينة.
-  - content: ما عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم؟
+  - content: ما عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب فِي أحد المكونات فِي عبارة عنصر التحكم؟
     choices:
     - content: يستخدم name="WebAPI" required="true"
       isCorrect: false
-      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب فِي أحد المكونات فِي عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
     - content: uses-feature name="CommonDataServiceAPI" required="true"
       isCorrect: false
-      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب فِي أحد المكونات فِي عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
     - content: uses-feature name="WebAPI" required="true"
       isCorrect: true
-      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب فِي أحد المكونات فِي عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
     - content: uses name="CommonDataServiceAPI" required="true"
       isCorrect: false
-      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب في أحد المكونات في عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
+      explanation: عنصر XML الصحيح الذي يحدد استخدام واجهة API الويب فِي أحد المكونات فِي عبارة عنصر التحكم uses-feature name="WebAPI" required="true".
   - content: ما اسم واجهة برمجة التطبيقات التي يمكنك استخدامها لتراكب نافذة منبثقة بداخل "مكوّن Power Apps"؟
     choices:
     - content: ComponentFramework.Popup.Popup

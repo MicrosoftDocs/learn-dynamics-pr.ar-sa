@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.wwl.learn-fundamentals-dynamics-365-customer-service.trophy
 metadata:
-  title: '‏‫Microsoft Trophy: تعرف على أساسيات إصدار Customer Service 365 Microsoft Dynamics من خلال Microsoft'
-  ms.openlocfilehash: fc9dfd397925baa8c2fb25f5b4e2e04eff00408f
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Trophy: تعرف على أساسيات إصدار Microsoft Dynamics 365 Customer Service من خلال Microsoft'
+  ms.openlocfilehash: 3064081c11a9f48194bb6c6711273cd3a0d992e0
+  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772441"
-socialImageUrl: /learn/achievements/generic-trophy-social.png
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9392220"
+socialImageUrl: /learn/achievements/learn-the-fundamentals-of-microsoft-dynamics-365-customer-service-social.png

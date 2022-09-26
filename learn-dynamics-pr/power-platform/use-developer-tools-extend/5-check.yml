@@ -9,27 +9,28 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 3a04761b00202daabf0fabe49932b4374b31ef1a
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.subservice: dataverse-developer
+  ms.openlocfilehash: dec363b95ae18216d462c1dc3b2903e48ae3d96c
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8771686"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9424965"
 durationInMinutes: 3
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: ما الأداة التي يمكن أن تستخدمها للاحتفاظ بتخصيصات التطبيق كملفات XML منفصلة وملفات أخرى يمكن تخزينها في نظام تحكم بالمصادر؟
+  - content: ما الأداة التي يمكن أن تستخدمها للاحتفاظ بتخصيصات التطبيق كملفات XML منفصلة وملفات أخرى يمكن تخزينها فِي نظام تحكم بالمصادر؟
     choices:
     - content: Package Deployer
       isCorrect: false
       explanation: يقوم Package Deployer بتمكين المسؤولين من توزيع الحزم على مثيل Microsoft Dataverse.
     - content: Plugin Registration Tool
       isCorrect: false
-      explanation: تُستخدم أداة Plugin Registration Tool لتسجيل المكونات الإضافية في مثيل Dataverse.
+      explanation: تُستخدم أداة Plugin Registration Tool لتسجيل المكونات الإضافية فِي مثيل Dataverse.
     - content: أداة إنشاء حزم الحلول
       isCorrect: true
-      explanation: أداة إنشاء حزم الحلول هي أداة تحلل حلول Dataverse بشكل عكسي إلى ملفات XML متعددة وملفات أخرى حتى تتم إدارتها بواسطة نظام تحكم بالمصادر.
+      explanation: أداة إنشاء حزم الحلول هي أداة تحلل حلول Dataverse بشكل عكسي إلَى ملفات XML متعددة وملفات أخرى حتى تتم إدارتها بواسطة نظام تحكم بالمصادر.
   - content: ما إطار عمل اللغة الذي تستخدمه لتطوير المكون الإضافي؟
     choices:
     - content: NET.
@@ -45,10 +46,10 @@ quiz:
     choices:
     - content: لتثبيت حل Dataverse كتطبيق للأجهزة المحمولة.
       isCorrect: false
-      explanation: لا يتم تثبيت حلول Dataverse كتطبيقات للأجهزة المحمولة، حيث يلزم استيرادها إلى بيئة Dataverse الهدف.
-    - content: لتثبيت حل واحد أو أكثر مع بيانات تكوين في بيئة Dataverse.
+      explanation: لا يتم تثبيت حلول Dataverse كتطبيقات للأجهزة المحمولة، حيث يلزم استيرادها إلَى بيئة Dataverse الهدف.
+    - content: لتثبيت حل واحد أو أكثر مع بيانات تكوين فِي بيئة Dataverse.
       isCorrect: true
-      explanation: يساعد Package Deployer على تسهيل عملية تثبيت حل واحد أو أكثر مع بيانات تكوين ومنطق تثبيت مخصص، في بيئة Dataverse.
-    - content: لإضافة بيانات التكوين إلى تطبيق لسطح المكتب.
+      explanation: يساعد Package Deployer على تسهيل عملية تثبيت حل واحد أو أكثر مع بيانات تكوين ومنطق تثبيت مخصص، فِي بيئة Dataverse.
+    - content: لإضافة بيانات التكوين إلَى تطبيق لسطح المكتب.
       isCorrect: false
-      explanation: لا يتم تثبيت حلول Dataverse وبياناته كتطبيقات لسطح المكتب، حيث يتعين استيرادها إلى بيئة Dataverse الهدف.
+      explanation: لا يتم تثبيت حلول Dataverse وبياناته كتطبيقات لسطح المكتب، حيث يتعين استيرادها إلَى بيئة Dataverse الهدف.

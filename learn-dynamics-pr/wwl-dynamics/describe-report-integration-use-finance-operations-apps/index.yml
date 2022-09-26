@@ -7,15 +7,15 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 0f3d3cf5b4c179dfe6f79068d10a5a74cde70989
-  ms.sourcegitcommit: 2172d090a077fab7bc258f79a2585fd5079bca95
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 7e14306d27fa0fdeb2222997247bd396c87295eb
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2022
-  ms.locfileid: "9360048"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9369266"
 title: إنشاء التقارير ودمج تطبيقات التمويل والعمليات
-summary: تقدم لك هذه الوحدة الإمكانات العامة لتطبيقات التمويل والعمليات، بما في ذلك إعداد التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى، مثل Microsoft Excel وMicrosoft Word وPower BI وSharePoint.
+summary: تقدم لك هذه الوحدة الإمكانات العامة لتطبيقات التمويل والعمليات، بما فِي ذلك إعداد التقارير المضمنة والتكامل مع منتجات Microsoft الأخرى، مثل Microsoft Excel وMicrosoft Word وPower BI وSharePoint.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 

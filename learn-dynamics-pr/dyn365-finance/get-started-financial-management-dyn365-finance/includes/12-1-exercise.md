@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e88372fff96a2f61493ecfac8f7314ba626fb760
-ms.sourcegitcommit: a3e0b43823528061898a74c31cdc0bc9a68f1c42
+ms.openlocfilehash: 17f9fe91ffbec707e04eb4fb9c5eca29aa5c2f45
+ms.sourcegitcommit: 10c3e93360912f746becefa701cfd77107abae09
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8843302"
+ms.lasthandoff: 09/14/2022
+ms.locfileid: "9476918"
 ---
 ## <a name="scenario"></a>السيناريو
 الآن بعد أن تعرفت على أساسيات Dynamics 365 Finance والوحدات والميزات التي يتضمنها، حان دورك للاستكشاف.
@@ -21,4 +21,4 @@ ms.locfileid: "8843302"
     > [!NOTE]
     > في بيئة المعمل هذه، يوجد مزيد من تطبيقات Dynamics 365 المثبتة أكثر من Dynamics 365 Finance. لذلك، سترى أيضاً وحدات ليست جزءاً من Finance. 
 
-3.  عند الانتهاء من استكشاف Dynamics 365 Finance، يمكنك إغلاق بيئة المختبر والعودة إلى وحدة Microsoft Learn.
+3.  عند الانتهاء من استكشاف Dynamics 365 Finance، يمكنك إغلاق بيئة المختبر والعودة إلى الوحدة النمطية التدريبية.

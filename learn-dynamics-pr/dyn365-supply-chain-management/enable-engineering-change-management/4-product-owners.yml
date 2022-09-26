@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enable-engineering-change-management.4-product-owners
+title: إعداد مالكي المنتجات
+metadata:
+  title: إعداد مالكي المنتجات
+  description: تعرّف على كيفية إنشاء مجموعة من المستخدمين تكون مسؤولة عن منتجات معينة.
+  ms.date: 05/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 7dad5c43f8604f37ec75d0e2f476715c36330194
+  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2022
+  ms.locfileid: "9405073"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-product-owners.md)]"

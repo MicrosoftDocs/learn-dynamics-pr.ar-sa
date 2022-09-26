@@ -7,15 +7,15 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 4768db8ac344aa2c484fb71f5ffcfc23a56a905b
-  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
+  ms.service: dynamics-365-supply-chain
+  ms.openlocfilehash: 59b92f256f86b0585d363028a88e19daf7ce6109
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/04/2022
-  ms.locfileid: "9224571"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9367984"
 title: تحديد الإمكانات العامة لـ Dynamics 365 Supply Chain Management
-summary: تقدم هذه الوحدة النمطية للمتعلمين القدرات الأساسية لـ Dynamics 365 Supply Chain Management، بما في ذلك أصول المنتجات ومتغيرات المنتج والتخطيط الرئيسي والاتفاقيات التجارية والخصومات.
+summary: تقدم هذه الوحدة النمطية للمتعلمين القدرات الأساسية لـ Dynamics 365 Supply Chain Management، بما فِي ذلك أصول المنتجات ومتغيرات المنتج والتخطيط الرئيسي والاتفاقيات التجارية والخصومات.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 

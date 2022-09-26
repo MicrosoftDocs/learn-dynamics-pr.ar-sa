@@ -8,12 +8,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b9847a401e1bf95fb9ccf96b8b92980b19f3fa0e
-  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 4bde20e4286604d47fb38d8580423723c80f44c5
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/03/2022
-  ms.locfileid: "8666588"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426455"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -46,17 +47,17 @@ quiz:
     - content: MSBuild
       isCorrect: true
       explanation: يُستخدم محرك الإنشاء MSBuild لإنشاء حزمة حل مكوّن Power Apps.
-  - content: أثناء إنشاء مكون شبكة مخصص، ما تنسيق الملف المدعوم لتحميل بيانات وهمية في Power Apps Component Test Harness؟
+  - content: أثناء إنشاء مكون شبكة مخصص، ما تنسيق الملف المدعوم لتحميل بيانات وهمية فِي Power Apps Component Test Harness؟
     choices:
     - content: CSV
       isCorrect: true
-      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية في Power Apps Component Test Harness.
+      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية فِي Power Apps Component Test Harness.
     - content: JSON
       isCorrect: false
-      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية في Power Apps Component Test Harness.
+      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية فِي Power Apps Component Test Harness.
     - content: XML
       isCorrect: false
-      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية في Power Apps Component Test Harness.
+      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية فِي Power Apps Component Test Harness.
     - content: PDF
       isCorrect: false
-      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية في Power Apps Component Test Harness.
+      explanation: أثناء إنشاء مكون شبكة مخصص، يتم دعم CSV لتحميل بيانات وهمية فِي Power Apps Component Test Harness.

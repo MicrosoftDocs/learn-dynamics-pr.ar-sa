@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.dynamics-365-service-level-agreements.badge
 metadata:
-  title: 'Microsoft Badge: قامت Microsoft بإصدار إدارة اتفاقيات مستوى الخدمة من خلال Dynamics 365 Customer Service'
-  ms.openlocfilehash: 600eaee93c2988f2eabaa80d71351dba86583b0a
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: تم إصدار اتفاقيات إدارة مستوى الخدمة مع Dynamics 365 Customer Service بواسطة Microsoft'
+  ms.openlocfilehash: 09270d58eb1e0bb7f181d18410b2966d22ad1aa3
+  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772369"
-socialImageUrl: /learn/achievements/service-level-agreements-social.png
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9392337"
+socialImageUrl: /learn/achievements/dynamics-365-service-level-agreements-social.png

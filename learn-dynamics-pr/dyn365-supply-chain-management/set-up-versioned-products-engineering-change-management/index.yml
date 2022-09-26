@@ -1,21 +1,21 @@
 ### YamlMime:Module
 uid: learn-dynamics.set-up-versioned-products-engineering-change-management
 metadata:
-  title: اعداد المنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
+  title: اعداد المنتجات ذات الإصدارات فِي Dynamics 365 Supply Chain Management
   description: تعد بيانات المنتج جزءاً مهماً من أي شركة تستخدم عمليات Supply Chain Management.
   ms.date: 04/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c3d45e054baf4bcc531653486917b8aa7338e825
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ceb60d1bf1bde816a320beb6a829af964096d5ae
+  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750620"
-title: اعداد المنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)] \nتعد بيانات المنتج جزءاً مهماً من أي شركة تستخدم عمليات Supply Chain Management. باستخدام الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management، يمكن للمصنعين استخدام إدارة قوية للبيانات والتحكم في الإصدار.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"
+  ms.lasthandoff: 09/02/2022
+  ms.locfileid: "9404245"
+title: اعداد المنتجات ذات الإصدارات فِي Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتعد بيانات المنتج جزءاً مهماً من أي شركة تستخدم عمليات Supply Chain Management. باستخدام إدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management، يمكن للمصنعين استخدام إدارة قوية للبيانات والتحكم فِي الإصدار.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"
 prerequisites: >
   - المعرفة العامة بعمليات Supply Chain Management
 

@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.report-design
+title: سيناريو التقرير - تصميم تقرير SSRS
+metadata:
+  title: سيناريو التقرير - تصميم تقرير SSRS
+  description: تعرف عَلى أفضل الممارسات عند المعالجة المسبقة لمصدر بيانات تقرير SSRS.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e063de24c55af33ccc6e3463a5e87d9f994d4b00
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393364"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/report-design.md)]"

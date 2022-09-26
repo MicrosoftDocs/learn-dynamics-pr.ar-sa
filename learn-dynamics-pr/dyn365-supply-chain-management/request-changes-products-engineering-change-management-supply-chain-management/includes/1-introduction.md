@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: fa9bef4961430c914d3b96bb77f847b7d55cd2576248f7153c6a0aa4d275eab3
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c4da878e538e66511403c838836f272e157eebb8
+ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7051615"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "9404293"
 ---
-توفر لك الوظيفة الإضافية لإدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management عمليات منظمة لإدارة التغييرات في المنتجات الهندسية. يمكنك استخدام عملية طلب التغيير الهندسي لاقتراح التغييرات وطلبها ثم استخدام عملية أمر التغيير الهندسي لإجراء التغييرات.
+توفر لك الوظيفة "إدارة التغييرات الهندسية" لـ Microsoft Dynamics 365 Supply Chain Management عمليات منظمة لإدارة التغييرات في المنتجات الهندسية. يمكنك استخدام عملية طلب التغيير الهندسي لاقتراح التغييرات وطلبها ثم استخدام عملية أمر التغيير الهندسي لإجراء التغييرات.
 
-بالإضافة إلى ذلك، يمكنك تكوين مهام سير العمل لكلا الخيارين. لمزيد من المعلومات، راجع [تمكين إدارة التغيير الهندسي للوحدة Dynamics 365 Supply Chain Management](/learn/modules/enable-engineering-change-management/?azure-portal=true). سواء اخترت استخدام مهام سير العمل أم لا، يتم إنشاء عملية لمراجعة التغييرات وتقييم تأثير التغييرات والموافقة عليها.
+بالإضافة إلى ذلك، يمكنك تكوين مهام سير العمل لكلا الخيارين. لمزيد من المعلومات، راجع الوحدة النمطية [تكوين إدارة التغييرات الهندسية لـ Dynamics 365 Supply Chain Management](/learn/modules/enable-engineering-change-management/?azure-portal=true). سواء اخترت استخدام مهام سير العمل أم لا، يتم إنشاء عملية لمراجعة التغييرات وتقييم تأثير التغييرات والموافقة عليها.
 
 سوف تتعرف في هذه الوحدة على:
 

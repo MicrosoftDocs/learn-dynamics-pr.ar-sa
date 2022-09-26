@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.design-scalability
+title: سيناريو الوظيفة الدفعية - تصميم قابلية التوسع
+metadata:
+  title: سيناريو الوظيفة الدفعية - تصميم قابلية التوسع
+  description: تعرف عَلى كيفية تقسيم المهمة إلَى أجزاء أصغر لتشغيل كل مهمة بشكل مستقل ومتوازٍ لإنتاجية أسرع.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e0de283f9d0bd487c1d9c2f52a322a5dd8569408
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393365"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/design-scalability.md)]"

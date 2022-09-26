@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: ae50baf75c7e7d86d957e32fe50db0195342ff5a
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.openlocfilehash: 9346b4d7a1599f90e2787b17e1e0a5d7e5b816f0
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9178621"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368153"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2

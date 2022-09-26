@@ -3,18 +3,19 @@ uid: learn-dynamics.integrate-common-data-service-azure-solutions.7-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص وحدة "التكامل مع حلول Azure في Microsoft Dataverse"
+  description: ملخص وحدة "التكامل مع حلول Azure فِي Microsoft Dataverse"
   ms.date: 06/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 75d3a8ec6716071ea8d29e9120c306ff4447bb02
-  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
+  ms.subservice: dataverse-developer
+  ms.openlocfilehash: f702496da61605050110ac133989b9f45f28ad1e
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2022
-  ms.locfileid: "8841180"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426535"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enable-engineering-change-management.6-check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 05/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0367bc75c12dec958ffed967a1f160fe4b27b5f3
+  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2022
+  ms.locfileid: "9405070"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما الغرض من إعداد قواعد الخطورة؟
+    choices:
+    - content: تعتبر قواعد الخطورة من إرشادات توجيهية للمستخدم لتتبع الخطورة وحسابها.
+      isCorrect: false
+      explanation: تتيح قواعد الخطورة درجات الخطورة المحسوبة تلقائياً.
+    - content: يتم إعداد قواعد الخطورة بحيث يتم حساب الخطورة تلقائياً.
+      isCorrect: true
+      explanation: تتيح قواعد الخطورة درجات الخطورة المحسوبة تلقائياً.
+    - content: تحدد قواعد الخطورة سير العمل الذي سيتم استخدامه.
+      isCorrect: false
+      explanation: لا تحدد قواعد الخطورة سير العمل الذي سيتم استخدامه.
+  - content: ما الميزة التي تحتاجها لتمكين استخدام إدارة التغيير الهندسي على المنتجات الحالية؟
+    choices:
+    - content: تفعيل إدارة التغيير بالمنتجات الحالية
+      isCorrect: true
+      explanation: يجب تمكين ميزة تمكين إدارة التغيير فِي المنتجات الحالية حتى تتمكن من استخدام إدارة التغيير الهندسي على المنتجات الحالية.
+    - content: إدارة التغيير الهندسي
+      isCorrect: false
+      explanation: يجب تمكين ميزة تمكين إدارة التغيير فِي المنتجات الحالية حتى تتمكن من استخدام إدارة التغيير الهندسي على المنتجات الحالية.
+    - content: إدارة التجارة
+      isCorrect: false
+      explanation: يجب تمكين ميزة تمكين إدارة التغيير فِي المنتجات الحالية حتى تتمكن من استخدام إدارة التغيير الهندسي على المنتجات الحالية.
+  - content: ماذا سيحدث عندما يكون مالك المنتج موجوداً، ويحاول مالك غير خاص بالمنتج إصدار هذا المنتج إلَى مؤسسة أخرى؟
+    choices:
+    - content: لا توجد وظيفة تقوم بإيقاف المستخدم من إصدار المنتج إلَى مؤسسة أخرى.
+      isCorrect: false
+      explanation: يمكن لأعضاء مالك المجموعة فقط إصدار المنتج.
+    - content: سيتلقى مالك المنتج غير الخاص بالمنتج تحذيراً بأنه ليس مالك المنتج ولكنه يمكنه إصدار المنتج إلَى مؤسسه أخرى.
+      isCorrect: false
+      explanation: يمكن لأعضاء مالك المجموعة فقط إصدار المنتج.
+    - content: لا يمكن لمالك غير خاص بالمنتج إصداره.
+      isCorrect: true
+      explanation: يمكن لأعضاء مالك المجموعة فقط إصدار المنتج.

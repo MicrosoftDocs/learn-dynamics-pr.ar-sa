@@ -1,22 +1,22 @@
 ### YamlMime:Module
 uid: learn-dynamics.manage-discrete-bom-route-versioned-products-scm
 metadata:
-  title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
+  title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات فِي Dynamics 365 Supply Chain Management
   description: تعرف على كيفية إنشاء منتج هندسي جديد، وتضمين قائمة مكونات الصنف والمسارات والتعامل مع التغييرات التي تم إجراؤها على المنتج.
   ms.date: 04/30/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c420f7316b525930130999c183a8b5d32b74cefe
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c3320158225654c2dceba2f1000b497949f784af
+  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750629"
-title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء منتج هندسي جديد، وتضمين قائمة مكونات الصنف والمسارات والتعامل مع التغييرات التي تم إجراؤها على المنتج في Microsoft Dynamics 365 Supply Chain Management.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية إنشاء منتج هندسي.\n- إصدار المنتج للكيانات القانونية الأخرى.\n- مراجعة إصدار منتج في كيان قانوني جاهز للعمل وقبوله.\n- صيانة دورة حياة المنتج.\n- قم بإجراء فحوصات الجاهزية على المنتج.\n"
-prerequisites: "- إعداد الوظيفة الإضافية لإدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management وتكوينها\n- المعرفة الأساسية لقوائم مكونات الصنف (BOMs) والطرق وعمليات Supply Chain Management  \n"
+  ms.lasthandoff: 09/02/2022
+  ms.locfileid: "9404102"
+title: إدارة قائمة مكونات الصنف للمنتج المنفصل والمسار للمنتجات ذات الإصدارات فِي Dynamics 365 Supply Chain Management
+summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء منتج هندسي جديد، وتضمين قائمة مكونات الصنف والمسارات والتعامل مع التغييرات التي تم إجراؤها على المنتج فِي Microsoft Dynamics 365 Supply Chain Management.\n"
+abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تعرف على كيفية إنشاء منتج هندسي.\n- إصدار المنتج للكيانات القانونية الأخرى.\n- مراجعة إصدار منتج فِي كيان قانوني جاهز للعمل وقبوله.\n- صيانة دورة حياة المنتج.\n- قم بإجراء فحوصات الجاهزية عَلى المنتج.\n"
+prerequisites: "- تم إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management\n- المعرفة الأساسية لقوائم مكونات الصنف (BOMs) والطرق وعمليات Supply Chain Management  \n"
 iconUrl: /learn/achievements/manage-discrete-bom-route-versioned-products-supply-chain-management.svg
 levels:
 - intermediate

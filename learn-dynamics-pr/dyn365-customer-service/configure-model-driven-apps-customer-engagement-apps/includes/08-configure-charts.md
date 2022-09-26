@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: 849f4a2e881cac2d673f2e5677c00c28f0bd3468b1196e135c035bdbf8fa10b6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cacd89ddc8b62adabe2d37a16c4966b907e040df
+ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7121537"
+ms.lasthandoff: 09/08/2022
+ms.locfileid: "9425187"
 ---
-توفر المخططات عرضاً تفاعلياً للبيانات. يقدم هذا الفيديو نظرة عامة على الرسوم البيانية.   
+توفر المخططات عرضاً تفاعلياً للبيانات. يقدم هذا الفيديو نظرة عامة على الرسوم البيانية.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWtCRa]

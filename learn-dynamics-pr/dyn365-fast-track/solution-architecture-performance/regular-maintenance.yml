@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.regular-maintenance
+title: سيناريو التكامل - الصيانة الدورية
+metadata:
+  title: سيناريو التكامل - الصيانة الدورية
+  description: تعرف عَلى كيفية إنشاء جدول صيانة منتظم وتأكد من أنه يتضمن تشغيل إجراءات التنظيف المناسبة.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: da94cef73cec9eb0b227035cca8634c03bb65855
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393370"
+durationInMinutes: 7
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/regular-maintenance.md)]"

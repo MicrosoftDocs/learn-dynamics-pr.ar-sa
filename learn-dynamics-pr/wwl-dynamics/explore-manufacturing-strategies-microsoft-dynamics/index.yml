@@ -1,27 +1,27 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-manufacturing-strategies-microsoft-dynamics-365-supply-chain-management
 metadata:
-  title: استكشاف إستراتيجيات التصنيع في Dynamics 365 Supply Chain Management
-  description: استكشاف إستراتيجيات التصنيع في Dynamics 365 Supply Chain Management
+  title: استكشاف إستراتيجيات التصنيع فِي Dynamics 365 Supply Chain Management
+  description: استكشاف إستراتيجيات التصنيع فِي Dynamics 365 Supply Chain Management
   ms.date: 08/03/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 98fe8d7c7e50720430529ab14cb7b1afb83f6b81
-  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
+  ms.service: dynamics-365-supply-chain
+  ms.openlocfilehash: 5bec2b41c565732bf3f7eed3f7a43525e7136d87
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/04/2022
-  ms.locfileid: "9224511"
-title: استكشاف إستراتيجيات التصنيع في Dynamics 365 Supply Chain Management
-summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain Management المستخدمة في تنفيذ إستراتيجيات التصنيع والأدوات المستخدمة لإدارة حالة إنتاج المحل.
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368258"
+title: استكشاف إستراتيجيات التصنيع فِي Dynamics 365 Supply Chain Management
+summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain Management المستخدمة فِي تنفيذ إستراتيجيات التصنيع والأدوات المستخدمة لإدارة حالة إنتاج المحل.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
 
   *   وصف أنواع التصنيع.
 
-  *   وصف إستراتيجيات التصنيع بما في ذلك التصنيع حسب الطلب (MTO)، والتصنيع للتخزين (MTS)، والتكوين حسب الطلب (CTO).
+  *   وصف إستراتيجيات التصنيع بما فِي ذلك التصنيع حسب الطلب (MTO)، والتصنيع للتخزين (MTS)، والتكوين حسب الطلب (CTO).
 
   *   وصف عمليات تتبع العناصر وتعقبها.
 

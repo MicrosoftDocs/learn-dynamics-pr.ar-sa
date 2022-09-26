@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: 89aec21a9552ea9ce833f68a7da612839ec4c67a
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.openlocfilehash: 0e920209cc5ee94e722aaa3e39d2684a2d0fa303
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9178571"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9368044"
 azureSandbox: false
 labModal: false
 durationInMinutes: 3
@@ -27,32 +26,32 @@ quiz:
     choices:
     - content: جزء عامل التصفية
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن الغرض من لوحة التصفية هو تصفية قائمة الموارد المعروضة في لوحة الجدولة.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن الغرض من لوحة التصفية هو تصفية قائمة الموارد المعروضة فِي لوحة الجدولة.
     - content: لوحة التفاصيل
       isCorrect: false
       explanation: هذه الإجابة غير صحيحة لأن لوحة التفاصيل توفر تفاصيل إضافية عن السجل عند تحديد مورد أو متطلب أو حجز.
     - content: لوحة المتطلبات
       isCorrect: true
       explanation: صحيح. هذه الإجابة صحيحة لأن الغرض من لوحة "المتطلبات" هو عرض أي متطلبات موارد غير مجدولة. من هنا يمكن جدولة الأصناف يدوياً أو باستخدام مساعد الجدولة.
-  - content: أي من العناصر التالية في Dynamics 365 Field Service يشير إلى قطعة من المعدات يمتلكها موقع العميل وتتم صيانتها فيه؟
+  - content: أي من العناصر التالية فِي Dynamics 365 Field Service يشير إلَى قطعة من المعدات يمتلكها موقع العميل وتتم صيانتها فيه؟
     choices:
     - content: جهاز العميل
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن مصطلح جهاز العميل غير مستخدم في Dynamics 365 Field Service.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن مصطلح جهاز العميل غير مستخدم فِي Dynamics 365 Field Service.
     - content: أصل العميل
       isCorrect: true
-      explanation: صحيح. هذه الإجابة صحيحة لأن أصول العميل في Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً في موقعه.
+      explanation: صحيح. هذه الإجابة صحيحة لأن أصول العميل فِي Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً فِي موقعه.
     - content: منتج أمر العمل
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا المصطلح يشير إلى المنتجات التي تتم إضافتها إلى أوامر العمل. تمثل هذه المنتجات التي قد يتم تثبيتها أو استهلاكها أثناء تنفيذ أمر العمل.
-  - content: عند مواجهة استثناء في قياس تتبع الاستخدام، ما نوع السجل الذي يتم إنشاؤه في Dynamics 365 Connected Field Service؟
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن هذا المصطلح يشير إلَى المنتجات التي تتم إضافتها إلَى أوامر العمل. تمثل هذه المنتجات التي قد يتم تثبيتها أو استهلاكها أثناء تنفيذ أمر العمل.
+  - content: عند مواجهة استثناء فِي قياس تتبع الاستخدام، ما نوع السجل الذي يتم إنشاؤه فِي Dynamics 365 Connected Field Service؟
     choices:
     - content: تنبيه IoT
       isCorrect: true
-      explanation: صحيح. هذه الإجابة صحيحة لأنه عند اكتشاف حالة شاذة بواسطة جهاز IoT، يتم إنشاء تنبيه IoT وظهوره في Dynamics 365.
+      explanation: صحيح. هذه الإجابة صحيحة لأنه عند اكتشاف حالة شاذة بواسطة جهاز IoT، يتم إنشاء تنبيه IoT وظهوره فِي Dynamics 365.
     - content: أصل العميل
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن أصول العميل في Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً في موقعه.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن أصول العميل فِي Dynamics 365 تمثل المعدات (الأصول) التي يمتلكها العميل والموجودة فعلياً فِي موقعه.
     - content: أمر العمل
       isCorrect: false
-      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن أوامر العمل تمثل أعمال الخدمة التي يجب إجراؤها في موقع العميل.
+      explanation: غير صحيح. هذه الإجابة غير صحيحة لأن أوامر العمل تمثل أعمال الخدمة التي يجب إجراؤها فِي موقع العميل.

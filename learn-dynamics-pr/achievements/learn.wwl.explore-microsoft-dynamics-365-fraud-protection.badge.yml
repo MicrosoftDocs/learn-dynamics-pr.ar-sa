@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.wwl.explore-microsoft-dynamics-365-fraud-protection.badge
 metadata:
-  title: 'Microsoft Badge: تم إصدار استكشاف Dynamics 365 Fraud Protection من خلال Microsoft'
-  ms.openlocfilehash: e7725c86d3be8818698495ccfbf207664479c3c4
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: تم إصدار استكشاف متاجرة عمل-عمل من Microsoft Dynamics 365، وStore Commerce وإمكانيات Clienteling بواسطة Microsoft'
+  ms.openlocfilehash: 6efe4881ef95aaedee2637c1698225fbbdb4c4a6
+  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772833"
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9392008"
 socialImageUrl: /learn/achievements/dynamics-fraud-protection-explore-social.png

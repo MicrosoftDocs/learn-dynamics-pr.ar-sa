@@ -4,16 +4,16 @@ title: عناصر النماذج
 metadata:
   title: عناصر النماذج
   description: إنشاء النماذج وتعديلها واستخدام عناصر التحكم في النماذج
-  ms.date: 02/28/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 08/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 02ee99fcc9d9945069f218e373e74127629201c8
-  ms.sourcegitcommit: 6c08dc1282450e162141a968433f38943275aa63
+  ms.openlocfilehash: 37a2282038ff39b49c815bdb27a273180113324b
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/01/2022
-  ms.locfileid: "8370024"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9424885"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

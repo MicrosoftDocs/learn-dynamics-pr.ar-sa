@@ -3,18 +3,19 @@ uid: learn-dynamics.common-actions-client-script-power-platform.6-summary
 title: الملخص
 metadata:
   title: الملخص
-  description: راجع ما تعلمته عن البرمجة النصية للعميل في التطبيقات المستندة إلى النموذج.
+  description: راجع ما تعلمته عن البرمجة النصية للعميل فِي التطبيقات المستندة إلَى النموذج.
   ms.date: 10/11/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 88fc6c9a5e7724e39fcc8acb42fb03e1d567861e
-  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 6338b6bd57d3acee020e3dab2e3816cdde3f08d3
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/12/2021
-  ms.locfileid: "7625001"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426665"
 durationInMinutes: 1
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: c61697104d121e0470a6d9ef3b6fdfb11ff35beb
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: 91d69d4aeb26330aeca2265ca4efe9da42661275
+ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9300063"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "9404137"
 ---
 يجب تطبيق بعض المتطلبات الأساسية لتتمكن من الشراء عبر الإنترنت والاستلام في المتجر (BOPIS):
 
-- تتطلب سيناريوهات BOPIS التي تتضمن الدفع بالبطاقة المدينة محطة أجهزة. يتم دمج محطة الأجهزة في Store Commerce لعملاء Windows وAndroid. إذا كنت تستخدم Store Commerce للمتصفحات أو Store Commerce لنظام iOS، فيجب إقران عميل Store Commerce بمحطة أجهزة مشتركة. 
+- تتطلب سيناريوهات BOPIS التي تتضمن الدفع بالبطاقة المدينة محطة أجهزة. تم تضمين محطة الأجهزة في Store Commerce لعملاء Windows وAndroid. إذا كنت تستخدم Store Commerce للمتصفحات أو نقطة البيع لنظام iOS، فيجب إقران عميل Store Commerce بمحطة أجهزة مشتركة. 
 - قم بتمكين الخيار **استخدام محطة الأجهزة** في Store Commerce لـ Windows.
 - قبل تسجيل الدخول إلى Store Commerce، تأكد من أن حساب Microsoft Azure Active Directory (Azure AD) الذي تستخدمه مرتبط بالعامل الذي قام بتسجيل الدخول.‬
 

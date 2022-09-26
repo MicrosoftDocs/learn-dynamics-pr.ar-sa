@@ -2,21 +2,22 @@
 uid: learn-dynamics.load-export-data-create-data-views.6-check
 metadata:
   title: تحميل البيانات وتصديرها وإنشاء الفحص المعرفي لطرق عرض البيانات
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 10/01/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d90ed74304f95663ea2da70ebf66cec9d41e4aff
-  ms.sourcegitcommit: ae593c0cd8c6621238ef498ffe35a0e2108a7987
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: 70d82c7c2172910c510a904faecb9476098d76fa
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/01/2021
-  ms.locfileid: "7590605"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426625"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لترى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: أي مما يلي يمكنك أن تستخدم فيه Excel مع جداول Microsoft Dataverse؟
     choices:
@@ -29,32 +30,32 @@ quiz:
     - content: إضافة الجداول وحذفها.
       isCorrect: false
       explanation: يمكنك إضافة بيانات الجدول أو تحريرها أو حذفها باستخدام Excel.
-    - content: إنشاء جداول جديدة وإضافة البيانات إلى الجدول الجديد.
+    - content: إنشاء جداول جديدة وإضافة البيانات إلَى الجدول الجديد.
       isCorrect: false
       explanation: يمكنك إضافة بيانات الجدول أو تحريرها أو حذفها باستخدام Excel.
-  - content: أي مما يلي يمكن القيام به في Dataverse؟
+  - content: أي مما يلي يمكن القيام به فِي Dataverse؟
     choices:
     - content: تصدير البيانات من جدول.
       isCorrect: true
-      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
+      explanation: يمكنك تصدير البيانات من جدول فِي Dataverse.
     - content: تصدير البيانات من جدول واحد أو أكثر على هيئة ملفات Markdown‬ مضغوطة.
       isCorrect: false
-      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
-    - content: تحميل البيانات من أي نوع من الملفات في جدول.
+      explanation: يمكنك تصدير البيانات من جدول فِي Dataverse.
+    - content: تحميل البيانات من أي نوع من الملفات فِي جدول.
       isCorrect: false
-      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
+      explanation: يمكنك تصدير البيانات من جدول فِي Dataverse.
     - content: كل ما سبق.
       isCorrect: false
-      explanation: يمكنك تصدير البيانات من جدول في Dataverse.
-  - content: أي من العبارات التالية غير صحيح بخصوص ‏‫طرق العرض؟
+      explanation: يمكنك تصدير البيانات من جدول فِي Dataverse.
+  - content: أي من العبارات التالية غير صحيح فيما يتعلق بطرق العرض؟
     choices:
     - content: يمكنك إنشاء العديد من طرق العرض لجدول.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بخصوص طرق العرض.
-    - content: يمكنك فرز البيانات وتصفيتها في إحدى طرق العرض.
+    - content: يمكنك فرز البيانات وتصفيتها فِي إحدى طرق العرض.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بخصوص طرق العرض.
-    - content: يمكنك اختيار الحقول المتوفرة في طريقة عرض وتحريرها في أي وقت.
+    - content: يمكنك اختيار الحقول المتوفرة فِي طريقة عرض وتحريرها فِي أي وقت.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بخصوص طرق العرض.
     - content: يمكنك إنشاء طريقتي عرض فقط لكل جدول.

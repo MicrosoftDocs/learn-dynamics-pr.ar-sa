@@ -1,20 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn.wwl.describe-scheduling-process.describe-asset-management-capabilities-dynamics-365-field-service
-title: صف إمكانات إدارة الأصول في Dynamics 365 Field Service
+title: صف إمكانات إدارة الأصول فِي Dynamics 365 Field Service
 metadata:
-  title: صف إمكانات إدارة الأصول في Dynamics 365 Field Service
-  description: صف إمكانات إدارة الأصول في Dynamics 365 Field Service
+  title: صف إمكانات إدارة الأصول فِي Dynamics 365 Field Service
+  description: صف إمكانات إدارة الأصول فِي Dynamics 365 Field Service
   ms.date: 07/19/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  ms.openlocfilehash: 83dedff5830af8c2e498248f548c7a57c6399603
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.openlocfilehash: 89d07c3a1ac280218f5a58fc8a3206afc2333279
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9178582"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9367681"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2

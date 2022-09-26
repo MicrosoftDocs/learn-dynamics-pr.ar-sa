@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 6c5a8348c27fa814a2d0099d1a273ccd0fddea85
-  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
+  ms.openlocfilehash: 585b8751400aa2ce17d88b41494641b1b71994fd
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/10/2022
-  ms.locfileid: "9132070"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9370088"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2
@@ -34,7 +33,7 @@ quiz:
     - content: التجارة والتسويق والموارد البشرية
       isCorrect: false
       explanation: غير صحيح.‬ التسويق هو تطبيق لإشراك العملاء ولا تتم إدارته بواسطة تطبيقات التمويل والعمليات.
-  - content: أي تطبيق تمويل وعمليات يمنحك رؤية في الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة؟
+  - content: أي تطبيق تمويل وعمليات يمنحك رؤية فِي الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة؟
     choices:
     - content: Dynamics 365 Commerce
       isCorrect: false
@@ -44,15 +43,15 @@ quiz:
       explanation: غير صحيح.‬ يركز Dynamics 365 Finance على جوانب الإدارة المالية للشركات. كما أنه لا يدير عمليات التخزين والنقل التجارية.
     - content: Dynamics 365 Supply Chain Management
       isCorrect: true
-      explanation: صحيح. يمنحك Dynamics 365 Supply Chain Management رؤية في الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة.
+      explanation: صحيح. يمنحك Dynamics 365 Supply Chain Management رؤية فِي الوقت الفعلي لعمليات أعمال التخزين والنقل لتقليل التكاليف وتقليل وقت التسليم وزيادة الدقة.
   - content: ما هو تطبيق التمويل والعمليات الذي يلبي إدارة التكاليف؟
     choices:
     - content: Dynamics 365 Supply Chain Management
       isCorrect: true
-      explanation: صحيح. تتيح لك إدارة التكلفة في Supply Chain Management العمل باستخدام التقييم والمحاسبة للمواد الخام والبضائع غير النهائية والبضائع النهائية والأصول قيد التشغيل.
+      explanation: صحيح. تتيح لك إدارة التكلفة فِي Supply Chain Management العمل باستخدام التقييم والمحاسبة للمواد الخام والبضائع غير النهائية والبضائع النهائية والأصول قيد التشغيل.
     - content: Dynamics 365 Finance
       isCorrect: false
       explanation: غير صحيح.‬ يلبي Dynamics 365 Finance احتياجات محاسبة التكاليف التي تتيح لك تجميع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية.  ويمكنك تحليل بيانات التكلفة وتلخيصها وتقييمها لتمكين الإدارة لاتخاذ أفضل القرارات الممكنة
     - content: Dynamics 365 Project Operations
       isCorrect: false
-      explanation: غير صحيح.‬ يدير Dynamics 365 Project Operations التكلفة الإجمالية للمشروع، ولكنه لا يشارك في تقدير التكاليف على مستوى المخزون.
+      explanation: غير صحيح.‬ يدير Dynamics 365 Project Operations التكلفة الإجمالية للمشروع، ولكنه لا يشارك فِي تقدير التكاليف على مستوى المخزون.

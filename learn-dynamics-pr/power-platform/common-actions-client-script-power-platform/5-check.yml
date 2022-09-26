@@ -3,52 +3,53 @@ uid: learn-dynamics.common-actions-client-script-power-platform.5-check
 title: اختبر معلوماتك
 metadata:
   title: اختبر معلوماتك
-  description: أجب عن الأسئلة التالية لترى ما تعلمته.
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   ms.date: 10/11/2021
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: c94229275ab4d72f0370c3ca11ba938c309d59e6
-  ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+  ms.subservice: mda-developer
+  ms.openlocfilehash: 6a46955426cf654d2b37231e76d85d908d07d5ac
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/12/2021
-  ms.locfileid: "7625009"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426175"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية لمعرفة ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف عَلى ما تعلمته.
   questions:
   - content: يجب استرداد قيمة عمود القيمة firstname لسجل جهة الاتصال. ما الطريقة التي تستخدمها؟
     choices:
     - content: formContext.getAttributeValue("firstname")
       isCorrect: false
-      explanation: لا تعد طريقة getAttributeValue طريقة صالحة في كائن سياق النموذج.
+      explanation: لا تعد طريقة getAttributeValue طريقة صالحة فِي كائن سياق النموذج.
     - content: formContext.getControl("fullname").getValue()
       isCorrect: false
-      explanation: تقوم طريقة getControl لكائن سياق النموذج بإرجاع كائن التحكم. يتوافق عنصر التحكم مع السمة، لكن يوفر طريقة getValue. يمكنك الوصول إلى السمة الأساسية باستخدام طريقة getAttribute.
+      explanation: تقوم طريقة getControl لكائن سياق النموذج بإرجاع كائن التحكم. يتوافق عنصر التحكم مع السمة، لكن يوفر طريقة getValue. يمكنك الوصول إلَى السمة الأساسية باستخدام طريقة getAttribute.
     - content: formContext.getAttribute("firstname").getValue()
       isCorrect: true
       explanation: تقوم طريقة getAttribute لسياق النموذج بإرجاع كائن السمة للعمود "firstname" وتقوم طريقة getValue بإرجاع القيمة الحالية للعمود.
-  - content: يشير البرنامج النصي للعميل الخاص بالنموذج الرئيسي لجدول الحساب إلى العمود accountclassificationcode. كيفية التأكد من أن البرنامج النصي لا يتوقف عن العمل ويعمل بشكلٍ صحيح عندما يقوم المنشؤون الآخرون بتحرير النموذج وربما إزالة العمود.
+  - content: يشير البرنامج النصي للعميل الخاص بالنموذج الرئيسي لجدول الحساب إلَى العمود accountclassificationcode. كيفية التأكد من أن البرنامج النصي لا يتوقف عن العمل ويعمل بشكلٍ صحيح عندما يقوم المنشؤون الآخرون بتحرير النموذج وربما إزالة العمود.
     choices:
     - content: في بداية النص البرمجي، إضافة الاستدعاء التالي تتطلب ("accountclassificationcode").
       isCorrect: false
-      explanation: لا توجد طريقة عمومية "تتطلب" في مكتبات البرمجة النصية الخاصة بالعميل. بالإضافة إلى ذلك، لا يتم التحقق من محتوى مكتبات البرامج النصية أو التحقق من صحته عند إزالة عناصر التحكم من النموذج.
-    - content: أضف عمود accountclassificationcode إلى تبعيات البرنامج النصي.
+      explanation: لا توجد طريقة عمومية "تتطلب" فِي مكتبات البرمجة النصية الخاصة بالعميل. بالإضافة إلَى ذلك، لا يتم التحقق من محتوى مكتبات البرامج النصية أو التحقق من صحته عند إزالة عناصر التحكم من النموذج.
+    - content: أضف عمود accountclassificationcode إلَى تبعيات البرنامج النصي.
       isCorrect: true
-      explanation: تحتوي موارد الويب في Dataverse على قائمة الحقول (الأعمدة) التابعة. وتضمن إضافة عمود إلى تلك القائمة أنه لا يمكن إزالته من النموذج وأنه متاح دائمًا للبرنامج النصي.
+      explanation: تحتوي موارد الويب فِي Dataverse عَلى قائمة الحقول (الأعمدة) التابعة. وتضمن إضافة عمود إلَى تلك القائمة أنه لا يمكن إزالته من النموذج وأنه متاح دائمًا للبرنامج النصي.
     - content: وقم بتمييز عمود accountclassificationcode بأنه للقراءة فقط.
       isCorrect: false
-      explanation: يضمن تمييز العمود بأنه "للقراءة فقط" أن عنصر التحكم يكون للقراءة فقط عندما يكون النموذج مفتوحًا في التطبيق. ولن يقوم بإيقاف المنشئين الآخرين من إزالة العمود من النموذج وإيقاف عمل البرنامج النصي.
-  - content: لقد طُلب منك إخفاء قسم "علامة تبويب" في نموذج تطبيق مستند إلى نموذج عندما تغير عمود "سبب الحالة" إلى قيمة معينة. ما الأحداث التي تحتاج إلى التعامل معها في هذا السيناريو؟
+      explanation: يضمن تمييز العمود بأنه "للقراءة فقط" أن عنصر التحكم يكون للقراءة فقط عندما يكون النموذج مفتوحًا فِي التطبيق. ولن يقوم بإيقاف المنشئين الآخرين من إزالة العمود من النموذج وإيقاف عمل البرنامج النصي.
+  - content: لقد طُلب منك إخفاء قسم "علامة تبويب" فِي نموذج تطبيق مستند إلَى نموذج عندما تغير عمود "سبب الحالة" إلَى قيمة معينة. ما الأحداث التي تحتاج إلَى التعامل معها فِي هذا السيناريو؟
     choices:
     - content: Form OnLoad, Attribute OnChange
       isCorrect: true
-      explanation: ستضمن معالجة Form OnLoad إظهار قسم "علامة تبويب" أو إخفاؤه عند تحميل صف البيانات. سيؤدي إرفاق معالج إلى حدث OnChange الخاص بعمود "سبب الحالة" إلى إظهار القسم أو إخفاؤه عند تغيير قيمة العمود.
+      explanation: ستضمن معالجة Form OnLoad إظهار قسم "علامة تبويب" أو إخفاؤه عند تحميل صف البيانات. سيؤدي إرفاق معالج إلَى حدث OnChange الخاص بعمود "سبب الحالة" إلَى إظهار القسم أو إخفاؤه عند تغيير قيمة العمود.
     - content: Form OnLoad, Form OnSave
       isCorrect: false
-      explanation: إذا لم تتم معالجة تغييرات السمات، فلن يتم عرض قسم "علامة تبويب" أو إخفاؤه بشكل صحيح عند تغيير قيمة العمود. إضافة إلى ذلك، لا تلزم معالجة Form OnSave في هذا السيناريو.
+      explanation: إذا لم تتم معالجة تغييرات السمات، فلن يتم عرض قسم "علامة تبويب" أو إخفاؤه بشكل صحيح عند تغيير قيمة العمود. إضافة إلَى ذلك، لا تلزم معالجة Form OnSave فِي هذا السيناريو.
     - content: Attribute OnChange, Form OnSave
       isCorrect: false
-      explanation: إذا لم تتم معالجة حدث Form OnLoad، فقد لا يتم إظهار قسم "علامة تبويب" أو إخفاؤه بناءً على قيمة العمود للصف الجاري تحميله. إضافة إلى ذلك، لا تلزم معالجة Form OnSave في هذا السيناريو.
+      explanation: إذا لم تتم معالجة حدث Form OnLoad، فقد لا يتم إظهار قسم "علامة تبويب" أو إخفاؤه بناءً عَلى قيمة العمود للصف الجاري تحميله. إضافة إلَى ذلك، لا تلزم معالجة Form OnSave فِي هذا السيناريو.

@@ -7,18 +7,18 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: a7edbfb466c634ea11b700c0abbe4a13d45ed21e
-  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
+  ms.service: dynamics-365-commerce
+  ms.openlocfilehash: acde63817d3005e50f93e85bfb719b85166db665
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/10/2022
-  ms.locfileid: "9131981"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9369618"
 title: تعلُّم أساسيات Dynamics 365 Commerce
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
-  يقدم مسار التعليم هذا المتعلمين إلى Dynamics 365 Commerce. سيتم تعريفك بالإمكانيات الأساسية للتطبيق، مثل إدارة القنوات والقنوات وإدارة الطلبات الموزعة بالإضافة إلى إمكانيات متاجرة عمل-عمل.
+  يقدم مسار التعليم هذا المتعلمين إلَى Dynamics 365 Commerce. سيتم تعريفك بالإمكانيات الأساسية للتطبيق، مثل إدارة القنوات والقنوات وإدارة الطلبات الموزعة بالإضافة إلَى إمكانيات متاجرة عمل-عمل.
 iconUrl: /learn/achievements/dynamics-commerce.svg
 levels:
 - beginner

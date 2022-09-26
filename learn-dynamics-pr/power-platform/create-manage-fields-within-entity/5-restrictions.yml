@@ -1,21 +1,22 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.create-manage-fields-within-entity.5-restrictions
-title: القيود التي تنطبق على الأعمدة في جدول
+title: القيود التي تنطبق على الأعمدة فِي جدول
 metadata:
-  title: القيود التي تنطبق على الأعمدة في جدول
-  description: تعرف على القيود التي تنطبق على الأعمدة في جدول.
+  title: القيود التي تنطبق على الأعمدة فِي جدول
+  description: تعرف على القيود التي تنطبق على الأعمدة فِي جدول.
   ms.date: 07/08/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
+  ms.subservice: dataverse-maker
   ROBOTS: NOINDEX
-  ms.openlocfilehash: 8fc67818bed4b035318ed1f8163a84938d28764e
-  ms.sourcegitcommit: cb1e6dbee2e17da730e94b25582ab1cd07a9fdb7
+  ms.openlocfilehash: 633fd6b79707f9e7555624209ff03570a5f607c5
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/10/2022
-  ms.locfileid: "9132469"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425635"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

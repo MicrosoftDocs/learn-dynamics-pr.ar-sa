@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.solution-architecture-performance.extensible-data-security
+title: سيناريو الأمان - أمان البيانات القابل للتوسيع عَلى مستوى الصف
+metadata:
+  title: سيناريو الأمان - أمان البيانات القابل للتوسيع عَلى مستوى الصف
+  description: تعرف عَلى الاعتبارات الهامة عند تنفيذ سياسات أمان البيانات الموسعة.
+  ms.date: 08/31/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 65dfb51a793a1dc4d4c96a77be7874e08d981908
+  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9393369"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/extensible-data-security.md)]"

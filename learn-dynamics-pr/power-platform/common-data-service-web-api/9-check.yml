@@ -9,12 +9,13 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 2454a661e7785a65e2e0a8484a500ac5430f44eb
-  ms.sourcegitcommit: aba63fc581b771b49a7826609e64b544c917af16
+  ms.subservice: mda-developer
+  ms.openlocfilehash: f76e76cfddce076d9afa955b3e6caa0b621b4fa5
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/02/2022
-  ms.locfileid: "8841706"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426775"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -30,25 +31,25 @@ quiz:
     - content: XML
       isCorrect: false
       explanation: بروتوكول Web API الأساسي لـ Dataverse هو OData.
-  - content: ماذا تسمى لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse؟
+  - content: ماذا تسمى لغة الاستعلام المستندة إلَى XML الخاصة بـ Dataverse؟
     choices:
     - content: FetchXML
       isCorrect: true
-      explanation: لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse هي FetchXML.
+      explanation: لغة الاستعلام المستندة إلَى XML الخاصة بـ Dataverse هي FetchXML.
     - content: XAML
       isCorrect: false
-      explanation: لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse هي FetchXML.
+      explanation: لغة الاستعلام المستندة إلَى XML الخاصة بـ Dataverse هي FetchXML.
     - content: QueryExpression
       isCorrect: false
-      explanation: لغة الاستعلام المستندة إلى XML الخاصة بـ Dataverse هي FetchXML.
-  - content: ما الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما؟
+      explanation: لغة الاستعلام المستندة إلَى XML الخاصة بـ Dataverse هي FetchXML.
+  - content: ما الاسم المستخدم للإشارة إلَى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما؟
     choices:
     - content: الفرق
       isCorrect: false
-      explanation: Delta هو الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما.
+      explanation: Delta هو الاسم المستخدم للإشارة إلَى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما.
     - content: الانحراف
       isCorrect: false
-      explanation: Delta هو الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما.
+      explanation: Delta هو الاسم المستخدم للإشارة إلَى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما.
     - content: Delta
       isCorrect: true
-      explanation: Delta هو الاسم المستخدم للإشارة إلى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما.
+      explanation: Delta هو الاسم المستخدم للإشارة إلَى بيانات مجموعة التغييرات عند قيامك بالتعقب مقابل جدول ما.

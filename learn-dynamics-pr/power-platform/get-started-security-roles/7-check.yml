@@ -8,12 +8,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2e0b638dda29f4d0d3ee023e856e32949983b04f
-  ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+  ms.subservice: admin
+  ms.openlocfilehash: 467b02196cb1ad56b9c144074fba2e6bde3ae0d5
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/03/2022
-  ms.locfileid: "8666856"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9425696"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
@@ -34,26 +35,26 @@ quiz:
       explanation: مسؤول التطبيق ليس دور أمان للمستخدم.
   - content: أي من العبارات التالية صحيحة عن المستخدمين؟
     choices:
-    - content: لا يمكنك إضافة مستخدمين للوصول إلى البيانات في Dataverse.
+    - content: لا يمكنك إضافة مستخدمين للوصول إلَى البيانات فِي Dataverse.
       isCorrect: false
-      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلى البيانات في Dataverse من Azure Active Directory.
-    - content: يمكن للمستخدمين العامين الموجودين خارج Azure Active Directory الوصول إلى بيانات Dataverse.
+      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلَى البيانات فِي Dataverse من Azure Active Directory.
+    - content: يمكن للمستخدمين العامين الموجودين خارج Azure Active Directory الوصول إلَى بيانات Dataverse.
       isCorrect: false
-      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلى البيانات في Dataverse من Azure Active Directory.
-    - content: يمكنك تمكين الوصول المجهول إلى أي بيانات في Dataverse.
+      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلَى البيانات فِي Dataverse من Azure Active Directory.
+    - content: يمكنك تمكين الوصول المجهول إلَى أي بيانات فِي Dataverse.
       isCorrect: false
-      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلى البيانات في Dataverse من Azure Active Directory.
-    - content: لا يمكنك إضافة مستخدمين للوصول إلى البيانات في Dataverse من ضمن Azure Active Directory.
+      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلَى البيانات فِي Dataverse من Azure Active Directory.
+    - content: لا يمكنك إضافة مستخدمين للوصول إلَى البيانات فِي Dataverse من ضمن Azure Active Directory.
       isCorrect: true
-      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلى البيانات في Dataverse من Azure Active Directory.
-  - content: تؤدي إضافة مستخدم Dataverse إلى تعيين هذا المستخدم تلقائياً إلى كافة الأدوار التالية باستثناء واحد؟
+      explanation: لا يمكنك إضافة مستخدم يمكنه الوصول إلَى البيانات فِي Dataverse من Azure Active Directory.
+  - content: تؤدي إضافة مستخدم Dataverse إلَى تعيين هذا المستخدم تلقائياً إلَى كافة الأدوار التالية باستثناء واحد؟
     choices:
     - content: المستخدم الأساسي
       isCorrect: false
-      explanation: لا يُضاف المستخدم تلقائياً إلى دور "مخصص النظام".
+      explanation: لا يُضاف المستخدم تلقائياً إلَى دور "مخصص النظام".
     - content: منشئ البيئة
       isCorrect: false
-      explanation: لا يُضاف المستخدم تلقائياً إلى دور "مخصص النظام".
+      explanation: لا يُضاف المستخدم تلقائياً إلَى دور "مخصص النظام".
     - content: مخصص النظام
       isCorrect: true
-      explanation: لا يُضاف المستخدم تلقائياً إلى دور "مخصص النظام".
+      explanation: لا يُضاف المستخدم تلقائياً إلَى دور "مخصص النظام".

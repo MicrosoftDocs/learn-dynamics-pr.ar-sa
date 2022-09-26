@@ -8,13 +8,12 @@ metadata:
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
-  ms.prod: learning-d365
-  ms.openlocfilehash: 6edf9e166fe73eac311bd249e4b373805c0e1e16
-  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
+  ms.openlocfilehash: 740e9bfb487ce0a1b78e9ca8f4481922025f84e7
+  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/03/2022
-  ms.locfileid: "9223130"
+  ms.lasthandoff: 08/31/2022
+  ms.locfileid: "9367682"
 azureSandbox: false
 labModal: false
 durationInMinutes: 2
@@ -23,29 +22,29 @@ content: >
 quiz:
   title: ‏‫اختبر معلوماتك
   questions:
-  - content: تقوم بتكامل Dynamics 365 Human Resource وDynamics 365 Finance باستخدام القوالب القياسية المتوفرة في مكامل البيانات. أي سيناريو من السيناريوهات التالية مدعوم؟
+  - content: تقوم بتكامل Dynamics 365 Human Resource وDynamics 365 Finance باستخدام القوالب القياسية المتوفرة فِي مكامل البيانات. أي سيناريو من السيناريوهات التالية مدعوم؟
     choices:
-    - content: يسمح القالب بتدفق البيانات من Finance إلى Human Resources.
+    - content: يسمح القالب بتدفق البيانات من Finance إلَى Human Resources.
       isCorrect: false
-      explanation: غير صحيح.‬ لا يسمح القالب بتدفق البيانات من Finance إلى Human Resources.
-    - content: يسمح القالب بتدفق البيانات من Human Resources إلى Finance.
+      explanation: غير صحيح.‬ لا يسمح القالب بتدفق البيانات من Finance إلَى Human Resources.
+    - content: يسمح القالب بتدفق البيانات من Human Resources إلَى Finance.
       isCorrect: true
-      explanation: صحيح. يسمح القالب بتدفق البيانات من Human Resources إلى Finance.
-    - content: سيسمح القالب بتدفق البيانات في كلا الاتجاهين.
+      explanation: صحيح. يسمح القالب بتدفق البيانات من Human Resources إلَى Finance.
+    - content: سيسمح القالب بتدفق البيانات فِي كلا الاتجاهين.
       isCorrect: false
       explanation: غير صحيح.‬ تدعم أداة مكامل البيانات تدفق البيانات أحادية الاتجاه فقط.
-  - content: تخبرك Maria، مديرة الموارد البشرية في Van Arsdel، أنها بحاجة إلى أداة للمساعدة في إدارة طلبات إجازات الموظفين. ما الميزة التي يجب عليك التحدث عنها؟
+  - content: تخبرك Maria، مديرة الموارد البشرية فِي Van Arsdel، أنها بحاجة إلَى أداة للمساعدة فِي إدارة طلبات إجازات الموظفين. ما الميزة التي يجب عليك التحدث عنها؟
     choices:
     - content: مساحة عمل الخدمة الذاتية للموظفين.
       isCorrect: true
-      explanation: صحيح. يمكن لموظفيك إرسال طلبات الإجازة، ويمكنك إدارتها، في مساحة عمل الخدمة الذاتية للموظف.
+      explanation: صحيح. يمكن لموظفيك إرسال طلبات الإجازة، ويمكنك إدارتها، فِي مساحة عمل الخدمة الذاتية للموظف.
     - content: تقويم وقت العمل.
       isCorrect: false
       explanation: غير صحيح.‬ تحدث مع Maria عن مساحة عمل الخدمة الذاتية للموظفين، لأنه يمكن لموظفيك إرسال طلبات الإجازة ويمكنك إدارتها. يعد إنشاء تقويم وقت العمل خطوة مطلوبة قبل إنشاء خطط إجازة لموظفيك.
     - content: خطط التعويض.
       isCorrect: false
-      explanation: غير صحيح.‬ تحدث مع Maria عن مساحة عمل الخدمة الذاتية للموظفين، لأنه يمكن لموظفيك إرسال طلبات الإجازة ويمكنك إدارتها. لا تساعد خطط التعويض في إدارة طلبات إجازة الموظفين.
-  - content: تم تكليف ماريا، مدير الموارد البشرية في Van Arsdel، بشغل وظيفتين متاحتين في قسم المبيعات داخلياً. ما الشاشة التي يجب أن تشاهدها للعثور على المرشحين الذين يتناسبون مع المهارات المطلوبة للوظيفتين؟
+      explanation: غير صحيح.‬ تحدث مع Maria عن مساحة عمل الخدمة الذاتية للموظفين، لأنه يمكن لموظفيك إرسال طلبات الإجازة ويمكنك إدارتها. لا تساعد خطط التعويض فِي إدارة طلبات إجازة الموظفين.
+  - content: تم تكليف ماريا، مدير الموارد البشرية فِي Van Arsdel، بشغل وظيفتين متاحتين فِي قسم المبيعات داخلياً. ما الشاشة التي يجب أن تشاهدها للعثور على المرشحين الذين يتناسبون مع المهارات المطلوبة للوظيفتين؟
     choices:
     - content: شاشة المرشحين.
       isCorrect: true

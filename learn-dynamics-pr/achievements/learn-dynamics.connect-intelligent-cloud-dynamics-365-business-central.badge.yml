@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn-dynamics.connect-intelligent-cloud-dynamics-365-business-central.badge
 metadata:
-  title: 'Microsoft Badge: تم إصدار الاتصال بالسحابة الذكية باستخدام Dynamics 365 Business Central بواسطة Microsoft'
-  ms.openlocfilehash: 16a18d391d33ef3e84eb94c53387acd8a4c04946
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: ترحيل البيانات المحلية إلَى Dynamics 365 Business Central تم إصدارها من قبل Microsoft'
+  ms.openlocfilehash: a35ada6bb73fecde5a701f1a1f0632c90ccf12e5
+  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772708"
+  ms.lasthandoff: 09/01/2022
+  ms.locfileid: "9392091"
 socialImageUrl: /learn/achievements/connect-intelligent-cloud-dynamics-365-business-central-social.png

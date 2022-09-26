@@ -3,18 +3,19 @@ uid: learn-dynamics.create-define-calculation-rollup-fields.6-exercise-2
 title: تمرين - إنشاء عمود عملية حساب
 metadata:
   title: تمرين - إنشاء عمود عملية حساب
-  description: إرشادات خطوه بخطوه حول كيفية إنشاء عمود عملية حساب في Microsoft Dataverse.
+  description: إرشادات خطوه بخطوه حول كيفية إنشاء عمود عملية حساب فِي Microsoft Dataverse.
   ms.date: 02/01/2022
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 12b31244f9b678056f370aacbacad97d752d0a0e
-  ms.sourcegitcommit: ed8c17dd8e1d47c00cdf7e6cf1aaa435ce228854
+  ms.subservice: dataverse-maker
+  ms.openlocfilehash: e6a36f6116b4b0775d2d232bc796d6e019c2be9c
+  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/06/2022
-  ms.locfileid: "8551101"
+  ms.lasthandoff: 09/08/2022
+  ms.locfileid: "9426475"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

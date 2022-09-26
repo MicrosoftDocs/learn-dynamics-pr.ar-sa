@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.enable-engineering-change-management.4-2-engineering-worfklows
+title: سير العمل الهندسي
+metadata:
+  title: سير العمل الهندسي
+  description: تعرف على كيفية العمل مع مهام سير العمل الهندسي.
+  ms.date: 05/17/2021
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f9bb1f2490f7aecb1cd57231f71159e313094b4f
+  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/02/2022
+  ms.locfileid: "9405076"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-2-engineering-worfklows.md)]"
