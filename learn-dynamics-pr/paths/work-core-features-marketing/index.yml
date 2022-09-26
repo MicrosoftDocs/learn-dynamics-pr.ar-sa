@@ -36,7 +36,7 @@ modules:
 - learn-dynamics.manage-customers
 - learn-dynamics.manage-forms-pages-subscriptions
 - learn-dynamics.manage-emails-journey
-- learn-dynamics.manage-content-event-triggers-journeys
+- #- learn-dynamics.manage-content-event-triggers-journeys
 - learn-dynamics.manage-subscription-centers-double-opt
 - learn-dynamics.manage-websites-redirects-social
 trophy:
