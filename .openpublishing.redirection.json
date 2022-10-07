@@ -1,5 +1,10 @@
 {
   "redirections": [
+     {
+      "source_path": "learn-dynamics-pr/dyn365-business-central/create-data-set/8-exercise.md",
+      "redirect_url": "/training/modules/create-data-set/",
+      "redirect_document_id": false
+    },
     {
       "source_path": "learn-dynamics-pr/dyn365-marketing/manage-content-event-triggers-journeys/1-introduction.md",
       "redirect_url": "/training/paths/work-real-time-marketing/",
