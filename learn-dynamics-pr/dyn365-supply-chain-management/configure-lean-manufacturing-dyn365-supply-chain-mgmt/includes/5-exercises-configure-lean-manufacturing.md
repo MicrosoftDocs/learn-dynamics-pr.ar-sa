@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 721437db20788dfa76e0d8a4a8ad87b3277f50c3f3847aac0e683f0a5cb3ce75
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 765d839d96722f48e6d367feaae2289c84428747
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7092098"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536529"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
-للحصول على أقصى استفادة من هذه التدريبات، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية في Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).
+لتحقيق الاستفادة القصوى من هذه التمارين، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services.
 
  
 ## <a name="exercise---create-a-value-stream"></a>تدريب - إنشاء تدفق قيم 

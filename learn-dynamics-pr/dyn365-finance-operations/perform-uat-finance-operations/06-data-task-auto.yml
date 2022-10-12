@@ -3,17 +3,17 @@ uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.06-data-task-automat
 title: أتمتة مهام البيانات
 metadata:
   title: أتمتة مهام البيانات
-  description: التعرف على أتمتة مهام البيانات في تطبيقات Finance and Operations.
+  description: تعرف على أتمتة مهمة البيانات في تطبيقات التمويل والعمليات.
   ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aeccafedfd43f09bc389dc2b0b72805286fc5b34
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 35f4bf6f330c658942580033ca6d495f4a3f49d9
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361953"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579828"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

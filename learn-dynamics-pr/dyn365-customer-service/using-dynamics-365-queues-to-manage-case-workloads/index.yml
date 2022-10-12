@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2eebfe5851799d5195b4a57811b0de47f8be017c
-  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.openlocfilehash: 9f503a7f167841c6b6167bf42c33d5e31dced151
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9344178"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513479"
 title: استخدم صفوف انتظار Microsoft Dynamics 365 Customer Service لإدارة أحمال عمل الحالة
 summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما تستخدم مراكز دعم العملاء صفوف الانتظار لإدارة توجيه الحالات الواردة حتى تتم معالجتها بطريقة منظمة وفي الوقت المناسب.         \n"
 abstract: >
@@ -28,7 +28,7 @@ abstract: >
 
   - إعداد جداول Dynamics 365 أخرى بحيث يمكن استخدامها مع صفوف الانتظار
 prerequisites: يجب أن يتمتع الجمهور المستهدف بالفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365. يعد الإلمام بإنشاء الحالات وإدارتها في Dynamics 365 مفيداً أيضاً.
-iconUrl: /learn/achievements/managing-customer-service-workloads-using-queues.svg
+iconUrl: /training/achievements/managing-customer-service-workloads-using-queues.svg
 levels:
 - intermediate
 roles:

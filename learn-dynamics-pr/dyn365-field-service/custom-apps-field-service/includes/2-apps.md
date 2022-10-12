@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 52e40c375a1a163b7c257077f0c52bbd6923c68a
-ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+ms.openlocfilehash: d349c6657d8a291ca16b78a1187bad4678830e08
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/06/2021
-ms.locfileid: "7893072"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9514080"
 ---
 قد لا تتم تلبية متطلبات معينة لعمليات الخدمة الميدانية في الميزات الجاهزة من Dynamics 365 Field Service. يوفر كل من Dynamics 365 وMicrosoft Power Platform العديد من الخيارات لتخصيص Dynamics 365 Field Service وتوسيعه لتلبية هذه المتطلبات. 
 
@@ -21,7 +21,7 @@ ms.locfileid: "7893072"
 - يمكنك بناء المكونات الإضافية لتنفيذ منطق الأعمال.
 
 > [!NOTE]
-> تتم تغطية التخصيص والتوسيع مع Microsoft Power Platform بواسطة الشهادتين [PL-200](/learn/certifications/exams/pl-200?azure-portal=true) و[PL-400](/learn/certifications/exams/pl-400?azure-portal=true).
+> تتم تغطية التخصيص والتوسيع مع Microsoft Power Platform بواسطة الشهادتين [PL-200](/certifications/exams/pl-200?azure-portal=true) و[PL-400](/certifications/exams/pl-400?azure-portal=true).
 
 في العديد من السيناريوهات، قد تجد أنه من المفيد إنشاء تطبيقات جديدة باستخدام Power Apps بدلاً من تخصيص تطبيق Dynamics 365 Field Service. على سبيل المثال، يمكنك إنشاء تطبيق جديد يشارك البيانات من خلال تطبيق Microsoft Dataverse مع Dynamics 365 Field Service، إذا لم تكن الوظيفة التي تحتاج إليها متوفرة بواسطة تطبيق Dynamics 365 Field Service.
 

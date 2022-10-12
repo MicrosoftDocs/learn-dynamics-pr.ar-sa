@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 1d11e3c0bc65b37323bd5841f05faa4871e21dc3e5f8f2da45b626241eeae72d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6d98a14760e27eb33735b6ba4d8b814f759d88c7
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7075144"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581648"
 ---
-توضح هذه الوحدة إعداد وتكوين الكيانات القانونية في تطبيقات Finance and Operations.
+توضح هذه الوحدة إعداد وتكوين الكيانات القانونية في تطبيقات التمويل والعمليات.
 
 بنهاية هذه الوحدة، ستكون قادراً على إعداد وتكوين الكيانات القانونية كخطوة أولى نحو مرحلة تنفيذ الإدارة المالية.
 
-سوف تتعرف في هذه الوحدة على كيفية:
+في هذه الوحدة، ستتعرف على كيفية القيام بما يلي:
 
 - يمكنك إنشاء كيان قانوني وإنشاء التسلسلات الرقمية. 
 - قم بإنشاء تسلسل رقمي.

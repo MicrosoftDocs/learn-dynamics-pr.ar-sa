@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd5effd9d6cf8af1e976110cb8c3242590f85ee5e6e4c80a454c04474359ce8a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d918e2c1fff813fa9d20a8c876ce986c74aa0f31
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087495"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581568"
 ---
 يمكنك إعداد المعلومات التي تكون دائماً هي المعلومات الافتراضية عند إدخال مورد جديد من خلال تجميع الموردين استناداً إلى الخصائص المتشابهة، مثل مشاركة نفس شروط الدفع أو مجموعة ضريبة المبيعات.
 
@@ -22,7 +22,7 @@ ms.locfileid: "7087495"
 
 **الحسابات الدائنة > الموردين > مجموعات الموردين**
  
-![لقطة شاشة لصفحة Finance and Operations مجموعات الموردين.](../media/vendor-groups.png)
+![لقطة شاشة لصفحة مجموعات موردي التمويل والعمليات.](../media/vendor-groups.png)
 
 ## <a name="example"></a>مثال 
 

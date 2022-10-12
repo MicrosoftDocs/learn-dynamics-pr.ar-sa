@@ -3,17 +3,17 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.3-
 title: إعداد التقارير المالية
 metadata:
   title: إعداد التقارير المالية
-  description: توضح هذه الوحدة إعداد التقارير المالية في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة التقارير المالية في تطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 125efe0e5984255c4052414b88d9c0dea5471c65
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b3711a911136ad787a6f4f6c79e93017be20ff14
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7333428"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573478"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

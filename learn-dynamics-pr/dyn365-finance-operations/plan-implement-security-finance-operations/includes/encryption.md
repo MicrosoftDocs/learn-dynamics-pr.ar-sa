@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2bdde922adbaa98654e5cf5c896f9e7b5f6f9d66
-ms.sourcegitcommit: 9adc0b78e181986a042bb4a7b22fe7aae27b62ba
+ms.openlocfilehash: a148eeb84ca35232df57b427443d6790d38ae469
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/16/2022
-ms.locfileid: "8454488"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9573528"
 ---
 ## <a name="encryption-at-rest"></a>التشفير في حالة السكون
 

@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 440195684b3ad12c5f6c30386c083b097095c1ad
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 310ce27d3812e26292dd21432d37da0f5719d149
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9368828"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510023"
 title: استكشاف إمكانات Microsoft Dynamics 365 Finance الأساسية
 summary: تقدم لك هذه الوحدة الإمكانات الأساسية لـ Microsoft Dynamics 365 Finance، بما فِي ذلك مناقشة الكيانات القانونية، وطريقة إدارة متطلبات إعداد التقارير الضريبية الإقليمية، ومفاهيم محاسبة التكاليف.
 abstract: >
@@ -30,7 +30,7 @@ abstract: >
   *   وصف مفاهيم دفاتر اليومية.
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
-iconUrl: /learn/achievements/dynamics-finance-operations-core-capabilities.svg
+iconUrl: /training/achievements/dynamics-finance-operations-core-capabilities.svg
 levels:
 - beginner
 roles:

@@ -3,17 +3,17 @@ uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.3-batch-process
 title: معالجة الدُفعات للتقارير وإعداد التنبيهات
 metadata:
   title: معالجة الدُفعات للتقارير وإعداد التنبيهات
-  description: توضح هذه الوحدة معالجة الدُفعات للتقارير وإعداد التنبيهات في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة المعالجة المجمعة للتقارير وإعداد التنبيهات في تطبيقات التمويل والعمليات.
   ms.date: 07/19/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f367cc6a9b20935278420064bf4c6e02e3628503
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.openlocfilehash: 24d5ec82656bd7ed2169e068cb3826f70b5e10bf
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9178720"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574279"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

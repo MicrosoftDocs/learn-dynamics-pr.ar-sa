@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 1c80247f350ada9382bddce0d577168f983cd53c02cb831445d54b479149134c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 42cc1e8f080a6c1c120a7b3012b545fe63589235
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7142374"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575658"
 ---
-خلال رحلة الترقية، يجب أن تكون قادراً على اتخاذ قرارات مدروسة بشأن سيناريوهات تكامل البيانات عند تنفيذ تطبيقات Finance and Operations. 
+خلال رحلة الترقية، يجب أن تكون قادراً على اتخاذ قرارات مدروسة بشأن سيناريوهات تكامل البيانات عند تنفيذ تطبيقات التمويل والعمليات. 
 
 عند اختيار نمط تكامل، تجب مراعاة عدة عوامل، مثل تلك التي تجب مراعاتها عند تنفيذ Dynamics AX 2012. والفرق أنك تعمل، الآن، على تطبيق قائم على السحابة داخل Azure. 
 
@@ -81,7 +81,7 @@ ms.locfileid: "7142374"
 تجب مراعاة العوامل الآتية المتعلقة بتنسيقات الملفات وقاموس المخطط/البيانات:
 
 - **تنسيقات الملفات** ملف ثابت و.NET TCP وXML وما شابه ذلك 
-- **مخطط الرسالة/واجهة برمجة التطبيقات (API)** - XSD / WSDL / OpenAPI (Swagger)
+- **مخطط الرسالة/واجهة برمجة التطبيقات** (API) - XSD / WSDL / OpenAPI (Swagger)‎
 
 ## <a name="data-mappingmetadata-definition"></a>تعيين البيانات/تحديد بيانات التعريف
 

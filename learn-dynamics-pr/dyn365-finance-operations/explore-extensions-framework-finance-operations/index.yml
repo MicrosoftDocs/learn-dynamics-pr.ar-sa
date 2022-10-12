@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d5a10f18e98e885276736e2c7e684a76d3deb375
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d1d4b1bc578dc31edafbd76761327c4a1ecad423
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749699"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581218"
 title: استكشف الامتدادات وإطار عمل الامتداد في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم تخصيص تطبيقات التمويل والعمليات باستخدام الملحقات، والتي تتيح لك إضافة وظائف لعناصر النموذج والتعليمات البرمجية المصدر في شجرة مكونات البرنامج (AOT) باستخدام Visual Studio. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على أسباب إنشاء الملحقات.\n- تحديد وقت استخدام نموذج طلب قابلية التوسع.\n- تعرف على مخاطر التخصيصات المتداخلة‬‏‬.\n- قم بتطوير التعليمات البرمجية التي من شأنها توسيع وظائف تطبيقات التمويل والعمليات.\n- تنفيذ إطار عمل SysOperationSandbox غير المتزامن.\n"
@@ -20,7 +20,7 @@ prerequisites: >
   - المعرفة الأساسية بتطبيقات التمويل والعمليات
 
   - خبرة بالترميز في لغة X++
-iconUrl: /learn/achievements/explore-extensions-framework-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/explore-extensions-framework-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

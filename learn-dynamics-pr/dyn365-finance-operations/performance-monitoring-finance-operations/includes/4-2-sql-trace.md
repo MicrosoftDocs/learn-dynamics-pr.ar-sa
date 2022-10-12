@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 8ac80430ea737b96f843d08df2041882b5415a42ed65c8b3a137226ffb4405e5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a5f14bdcacea7aeddb5761d0ce43b8270bdb5d85
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120288"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575408"
 ---
 هناك أداة أخرى يمكن للمطورين استخدامها لاختبار الأداء وتشخيص مشكلات الأداء وهي SQL Profiler. يمكنك الوصول إلى أداة Profiler من خلال SQL Server Management Studio. يمكنك من هنا استغلال إمكانيات التتبع من جانب الخادم لأداة SQL Server Profiler لتصدير تعريف تتبع يمكنك استخدامه لإنشاء مجموعة تستخدم نوع مُجمع Generic SQL Trace. 
 > [!NOTE]
 > ولا يمكن استخدام هذه الأداة إلا على مثيلات الطبقة 1 من Dynamics 365
 
-هناك العديد من الأسباب التي تجعلك ترغب في استخدام أداة SQL Profiler. على سبيل المثال، قد تحتاج إلى رؤية جميع الاستعلامات طويلة المدى على نظام خادم SQL، وليس فقط الاستعلامات طويلة المدى في تطبيقات Finance and Operations. 
+هناك العديد من الأسباب التي تجعلك ترغب في استخدام أداة SQL Profiler. على سبيل المثال، قد تحتاج إلى رؤية جميع الاستعلامات طويلة المدى على نظام خادم SQL، وليس فقط الاستعلامات طويلة المدى في تطبيقات التمويل والعمليات. 
 
 للوصول إلى SQL Profiler واستخدامه، اتبع الخطوات التالية:
 

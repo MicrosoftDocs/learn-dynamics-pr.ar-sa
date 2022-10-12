@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: d620e62a116736357a7363189e888d55f2446afa
-ms.sourcegitcommit: 7e7463b82916b5b36a89d2c4f45e6f1bd95c1792
+ms.openlocfilehash: 8e7a237ea3786044ae99591c50ba006de390f2e3
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "7945721"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9519221"
 ---
 تشتمل هذه الوحدة النمطية على تمرين عملي يجب إكماله.
 
 استخدم الموارد المجانية المتوفرة في التمرين العملي لإكمال التمارين في هذه الوحدة النمطية. لن تفرض عليك أي رسوم.
 
-[تسجيل الدخول لتشغيل التمرين العملي](/learn/modules/analyze-dynamics-365-sales-data/5-analyze-data?launch-lab=true)
+[تسجيل الدخول لتشغيل التمرين العملي](/training/modules/analyze-dynamics-365-sales-data/5-analyze-data?launch-lab=true)
 
 ## <a name="access-your-environment"></a>الوصول إلى بيئتك
 

@@ -1,16 +1,13 @@
 ---
-ms.openlocfilehash: 7af1ac2010d2606e582650e19317f6240160edf9
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 7d0351f62da39653beeff86e464e06e4606d8d7f
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7345851"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9505663"
 ---
 تتيح لك وحدة إدارة المستودعات في إدارة سلسلة التوريد إدارة عمليات المستودعات في شركات التصنيع والتوزيع والبيع بالتجزئة. وتتمتع هذه الوحدة النمطية بنطاق واسع من الميزات لدعم تسهيل المستودع في المستوي الأمثل، وفي أي وقت وتتضمن دعماً كاملاً لتنفيذ الأجهزة المحمولة بشكل كامل باستخدام ميزة مألوفة للمستخدم والبرمجة الوظيفية. 
 
 إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في إدارة سلسلة التوريد، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.
 
-لمزيد من المعلومات، راجع [التكوين والعمل باستخدام إدارة المستودعات في مسار التعليم Dynamics 365 Supply Chain Management](/learn/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).
-
-
-
+لمزيد من المعلومات، راجع [التكوين والعمل باستخدام إدارة المستودعات في مسار التعليم Dynamics 365 Supply Chain Management](/training/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: f1b7abd562fbc0cad79cdadda12a1cc083bad2b3
-ms.sourcegitcommit: bcaa98c836e42f392d54bfaf7055c7e87d922d41
+ms.openlocfilehash: 31c6497acc5f3f3ea625e195381e1ac8bacd10f3
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "7878616"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580278"
 ---
-طلب قسم الموارد البشرية في شركة **USMF** الوصول إلى تطبيقات Finance and Operations لموظف جديد تم تعيينه باعتباره كاتب الحسابات المقبوضات. وقد تم بالفعل إنشاء حساب مستخدم الدليل النشط كجزء من عملية الإعداد. 
+طلب قسم الموارد البشرية في شركة **USMF** الوصول إلى تطبيقات التمويل والعمليات لموظف جديد تم تعيينه باعتباره كاتب حسابات المدفوعات. وقد تم بالفعل إنشاء حساب مستخدم الدليل النشط كجزء من عملية الإعداد. 
 
 يجب عليك استيراد موظف جديد تم تعيينه وتعيين الافتراضي للشركة إلى **USMF** وإقران دور كاتب الحسابات المقبوضات.  
 

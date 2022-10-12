@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 628dd4bc7d6864e3888c6c4814b71a70c320e903
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 82bda6db2bc49344f507f75e12a33b1266ead648
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330108"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580048"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -29,11 +29,11 @@ quiz:
     - content: النطاق، والوقت، والموازنة
       isCorrect: false
       explanation: العناصر الرئيسية لمثلث إدارة المشروع هي النطاق والوقت والموازنة، ولكن يجب تضمين المخاطر لأنها عناصر مهمة يجب مراعاتها منذ بداية المشروع.
-  - content: ما المراحل الرئيسية التي تتعرض لها جميع مشروعات تنفيذ Finance and Operations؟
+  - content: ما المراحل الرئيسية التي تتعرض لها جميع مشروعات تنفيذ التمويل والعمليات؟
     choices:
     - content: التحليل، والتصميم، والاختبار، والتوزيع، والتشغيل
       isCorrect: false
-      explanation: وتكون هذه المراحل من منهجية LCS. يتم استخدام هذه المراحل أيضاً في مشروع LCS، ومع ذلك، فهي لا تزال جزءاً من المنهجية العامة للمشروع الذي يتضمن البدء والتنفيذ والإعداد والتشغيل.
+      explanation: وتكون هذه المراحل من منهجية Lifecycle Services. يتم استخدام هذه المراحل أيضاً في مشروع Lifecycle Services، ومع ذلك، فهي لا تزال جزءاً من المنهجية العامة للمشروع الذي يتضمن البدء والتنفيذ والإعداد والتشغيل.
     - content: البدء، والتصميم، والإنشاء، والتنفيذ، والإعداد، والتشغيل
       isCorrect: false
       explanation: يعد التصميم والإنشاء جزأين من مرحلة التنفيذ.

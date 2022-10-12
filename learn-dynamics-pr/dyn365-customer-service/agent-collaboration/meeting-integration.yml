@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.agent-collaboration.meeting-integration
+title: تكامل اجتماع Microsoft Teams في Dynamics 365
+metadata:
+  title: تكامل اجتماع Microsoft Teams في Dynamics 365
+  description: تعرف على المزيد حول تكامل اجتماعات Microsoft Teams.
+  ms.date: 09/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 80977205729938979936cc518e13d140198f1f98
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9567189"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/meeting-integration.md)]"

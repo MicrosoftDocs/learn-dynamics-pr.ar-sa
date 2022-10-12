@@ -2,10 +2,10 @@
 achievementUid: learn.defining-and-configure-bookable-resources.badge
 metadata:
   title: 'Microsoft Badge: قامت Microsoft بإصدار تكوين الموارد القابلة للحجز في Dynamics 365 Field Service'
-  ms.openlocfilehash: 71d807af98d80974e9eb1875142a9a733ba1b7ff
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: f25b65b6edbedd5c3c54700ec38efc940da3c23f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772938"
-socialImageUrl: /learn/achievements/defining-bookable-resources-in-microsoft-dynamics-365-for-field-service-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517591"
+socialImageUrl: /training/achievements/defining-bookable-resources-in-microsoft-dynamics-365-for-field-service-social.png

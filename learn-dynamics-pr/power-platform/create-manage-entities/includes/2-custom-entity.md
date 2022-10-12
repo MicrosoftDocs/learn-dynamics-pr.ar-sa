@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f7ae489d7532c18f3b704af60cecba450d38e658
-ms.sourcegitcommit: 4f20f318f03cd826ce19711af4dbdf89a4ef4bf3
+ms.openlocfilehash: 8adab599a8db20be8572bf021d05b27d503064a8
+ms.sourcegitcommit: 8953b85fb471a1ce2e6b442b97cec8040b96a9c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/11/2021
-ms.locfileid: "7798161"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "9539759"
 ---
 تعد إضافة جدول جديد إلى قاعدة بيانات Dataverse عملية بسيطة.
 
@@ -15,7 +15,7 @@ ms.locfileid: "7798161"
 
 1.  قم بتسجيل الدخول إلى Power Apps.
 
-1.  في جزء التنقل، حدد أو انقر فوق **البيانات** لتوسيعها ثم حدد أو انقر فوق **الكيانات**.
+1.  في جزء التنقل، حدد أو انقر فوق **Dataverse** لتوسيعه ثم حدد أو انقر فوق **الجداول**.
 
 1.  حدد **جدول جديد** من شريط الأوامر.
 

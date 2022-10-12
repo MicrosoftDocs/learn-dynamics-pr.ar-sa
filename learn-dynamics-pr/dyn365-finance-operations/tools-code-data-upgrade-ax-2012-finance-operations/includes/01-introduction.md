@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 0736e9281b23d22d32945ac058f23ba5f5f4d418eb45ab64397dc91fc5968db2
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4bd5d3c4cf445287e28a60a6f229003f4279c2e8
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130377"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579518"
 ---
-تدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات Finance and Operations. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics 365 Lifecycle Services لمساعدتك خلال العملية.
+تدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات التمويل والعمليات. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics Lifecycle Services لمساعدتك خلال العملية.
 
 وينقسم إجراء الترقية إلى ثلاث مراحل:
 
@@ -17,7 +17,7 @@ ms.locfileid: "7130377"
 
 [ ![مخطط المراحل الثلاثة لعملية الترقية الشاملة.](../media/overview.png) ](../media/overview.png#lightbox)
 
-وسيُعتبر تحديد منهجية الترقية من الخطوات الأولى التي تتخذها عند إعداد مشروع Lifecycle Services. في مشروع Lifecycle Services الجديد، حدّد منهجية المشروع **لترقيه AX 2012 إلى تطبيقات Dynamics 365 for Finance and Operations**، التي تم تصميمها خصيصاً لعملاء AX Dynamics 2012 الذين يقومون بالترقية. وتصف المنهجية المراحل الثلاث بالتفصيل كما توفر ارتباطات للوثائق الداعمة حول العملية. يمكنك إعداد مشروع Lifecycle Services قبل شراء Dynamics 365.   
+وسيُعتبر تحديد منهجية الترقية من الخطوات الأولى التي تتخذها عند إعداد مشروع Lifecycle Services. في مشروع Lifecycle Services الجديد، حدّد منهجية المشروع لـ **ترقية AX** 2012 إلى Dynamics 365 for Finance and Operations، التي تم تصميمها خصيصاً لعملاء Dynamics AX 2012 الذين يقومون بالترقية. وتصف المنهجية المراحل الثلاث بالتفصيل كما توفر ارتباطات للوثائق الداعمة حول العملية. يمكنك إعداد مشروع Lifecycle Services قبل شراء Dynamics 365.   
 
 اتبع الخطوات التالية لإنشاء مشروع Lifecycle Services للترقية: 
 
@@ -25,9 +25,9 @@ ms.locfileid: "7130377"
 1. حدد **تسجيل الدخول** وسجّل الدخول باستخدام حسابك في المؤسسة.  
 1. بعد تسجيل الدخول، حدد علامة الزائد (+) في قسم **المشاريع** لإنشاء مشروع جديد.  
 1. أدخِل **اسماً** و **وصفاً** للمشروع.  
-1. حدّد **Finance and Operations** **لاسم المنتج** و **إصدار المنتج**.  
+1. حدد **التمويل والعمليات** لـ **اسم المنتج** و **إصدار المنتج**.  
 1. حدد صناعتك في حقل **الصناعة**.  
-1. حدّد **ترقية AX 2012إلى Dynamics 365 for Finance and Operations** في حقل **المنهجية**.  
+1. حدد **ترقية AX 2012 إلى Dynamics 365 for Finance and Operations** في الحقل **المنهجية**.  
 1. حدد **إنشاء**. ستظهر كل مرحلة من مراحل منهجية الترقية على الشاشة، بطريقة مشابهة لطريقة ظهورها في لقطه الشاشة اللاحقة.  
     [ ![لقطة شاشة لصفحة منهجية الترقية.](../media/methodology.png) ](../media/methodology.png#lightbox)
 1. يمكنك تحديد كل مرحلة من المراحل والاطلاع على المهام التي يجب إكمالها في كل مرحلة، بالإضافة إلى وصف.  

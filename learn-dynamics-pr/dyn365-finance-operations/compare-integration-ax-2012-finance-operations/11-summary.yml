@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.compare-integration-ax-2012-finance-operations.11-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: ملخص مقارنة عمليات الدمج في تطبيقات Finance and Operations باستخدام وحدة Dynamics AX 2012.
+  title: الملخص‬
+  description: ملخص للوحدة النمطية مقارنة عمليات التكامل في إعداد التقارير والتحليلات في تطبيقات التمويل والعمليات باستخدام Dynamics AX 2012
   ms.date: 03/08/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6f420ab094850f0df0fcc432515b23e1a1e13e0d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: cd3721629bd36e43e78d6ba02ed90779d8191761
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335200"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575158"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/11-summary.md)]"

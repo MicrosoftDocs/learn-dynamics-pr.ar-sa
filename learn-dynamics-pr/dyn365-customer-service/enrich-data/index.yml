@@ -7,17 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c4dda2347c1eed83c462a13474bf226ce5457f96
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 821cbfa301efc113ffa9a29c1fd5c0a144751d34
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9024561"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520282"
 title: إثراء البيانات والتنبؤات من خلال Customer Insights
 summary: "[!include[](../includes/module-banner.md)] \nبادِر بإثراء بياناتك بمصادر بيانات أخرى واستخدِم الذكاء الاصطناعي لعمل تنبؤات استناداً إلى البيانات السابقة.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتوفرة في Customer Insights.\n- تكوين وظائف العلامة التجارية والاهتمام.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف خيارات الإثراء والتنبؤ المتوفرة في Customer Insights.\n- تكوين وظائف العلامة التجارية والاهتمام.\n- إثراء البيانات من خلال خدمات الشركاء.\n- إعداد نموذج للتنبؤ بخسارة العملاء وتكوينه.\n- إضافة نماذج مخصَّصة للتعلم الآلي.\n"
 prerequisites: بلا
-iconUrl: /learn/achievements/enrich-data.svg
+iconUrl: /training/achievements/enrich-data.svg
 levels:
 - intermediate
 roles:

@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 29ce6a2443cb26d5737ba078c941fac0e0a6223e57b0e83a4809e49ca0766e40
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c2662270c30c25016b52f5c8917d8dd9e433fa6b
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7057254"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536746"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 
-للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance and Operations والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في التمويل والعمليات والتي يتم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="scenario"></a>السيناريو
 

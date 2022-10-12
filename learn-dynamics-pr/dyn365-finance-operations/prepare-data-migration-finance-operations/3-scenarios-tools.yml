@@ -3,17 +3,17 @@ uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.3-common-
 title: سيناريوهات وأدوات الترحيل الشائعة
 metadata:
   title: سيناريوهات وأدوات الترحيل الشائعة
-  description: توضح هذه الوحدة سيناريوهات وأدوات الترحيل الشائعة في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة سيناريوهات الترحيل الشائعة والأدوات في تطبيقات التمويل والعمليات.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ea1dbaf4751d0d7c543efc3b13dfd06c2d15d6c3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1bc26df9be735b1870505bc1701f646067b17cb3
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339393"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574648"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

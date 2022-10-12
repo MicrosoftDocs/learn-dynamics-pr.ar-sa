@@ -8,19 +8,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-marketing
-  ms.openlocfilehash: ed08db9af4b7a69d160f78dfa3296e5894cbff79
-  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.openlocfilehash: a45cd2d786ff34cbb620ec6660ec2f902b39c578
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/07/2022
-  ms.locfileid: "9127395"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516878"
 title: إعداد Dynamics 365 Marketing وتكوين الإعدادات المتقدمة
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
   يعمل Dynamics 365 Marketing على الارتقاء بتجارب العملاء، مما يسمح لك بتنظيم الرحلات الشخصية عبر جميع نقاط الاتصال لتقوية العلاقات وكسب الولاء.
 prerequisites: "- فهم أساسي لكيفية التنقل في Dynamics 365. \n"
-iconUrl: /learn/achievements/get-started-with-marketing.svg
+iconUrl: /training/achievements/get-started-with-marketing.svg
 levels:
 - intermediate
 roles:

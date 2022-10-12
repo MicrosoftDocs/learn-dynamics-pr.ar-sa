@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 0dce3c0b301511345ee22121a31a27e58bf9e4d9be424ff25e13593f635aa6dd
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c7916ab3d28cc1a39dd773728b46c3da6a93d9ec
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130737"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580898"
 ---
-بصفتك مطوراً، أنت عادةً جزء من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات Finance and Operations. في هذه الوحدة، ستتعلم كيفية اتخاذ قرارات مدروسة بشأن سيناريو تكامل البيانات عند تنفيذ تطبيقات Finance and Operations.
+بصفتك مطورًا، فأنت عادةً جزء من سيناريوهات تكامل البيانات أثناء وبعد تنفيذ تطبيقات التمويل والعمليات. في هذه الوحدة، ستتعلم كيفية اتخاذ قرارات مدروسة بشأن سيناريو تكامل البيانات عند تنفيذ تطبيقات التمويل والعمليات.
 
 ## <a name="data-entities-and-integrations"></a>كيانات البيانات وحالات التكامل ##
 يتم استهلاك كيانات البيانات في سيناريوهات تكامل مختلفة، مثل استيراد البيانات وتصديرها، والتكامل، وخدمات OData. تُستخدم الخدمات المخصصة لعرض وظائف X++ للعملاء الخارجيين. يمكنك أيضاً الوصول إلى بياناتك في التطبيقات الخارجية مثلما في Microsoft Power Apps وMicrosoft Excel. 

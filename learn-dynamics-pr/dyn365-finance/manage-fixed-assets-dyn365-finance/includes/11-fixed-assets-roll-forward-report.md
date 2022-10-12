@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 802b8cca3bfdc58b259d9e22ef0de1e28bc228ab
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: b7ce3809644a77d67d56a01940c903ba17b1df0f
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7338662"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537376"
 ---
 يوفر التقرير  **تحويل الأصول الثابتة** ، بتنسيق Microsoft Excel سهل القراءة، بيانات الأصول الثابتة المفصلة التي تتطلبها لإقفال الفترة والقوائم المالية وتقارير الضرائب.
 
@@ -12,5 +12,5 @@ ms.locfileid: "7338662"
 
 يستخدم التقرير  **تدوير الأصول الثابتة**  إطار عمل التقارير الإلكترونية (ER).
 
-قبل أن تتمكن من تشغيل التقرير، يجب استيراد نموذج الأصول الثابتة وتكوينات تحويل الأصول الثابتة من Microsoft Dynamics Lifecycle Services (LCS). للحصول على إرشادات، راجع 
+قبل أن تتمكن من تشغيل التقرير، يجب استيراد نموذج الأصول الثابتة وتكوينات تحويل الأصول الثابتة من Microsoft Dynamics ‏Lifecycle Services. للحصول على إرشادات، راجع 
 [تنزيل تكوينات إعداد التقارير الإلكترونية من Lifecycle Services](/dynamics365/fin-ops-core/dev-itpro/analytics/download-electronic-reporting-configuration-lcs/?azure-portal=true) 

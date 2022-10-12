@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c7eb1aa7e02afb522ee7eefc7a1a3fbb72c15ee9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2df18351196d27123ec878652d5d64615ebe9b46
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749564"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573708"
 title: تخطيط دفتر العناوين العمومي وتكوينه في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -21,7 +21,7 @@ summary: >
   يُعد دفتر العناوين العمومي (GAB) مستودعًا مركزيًا للبيانات الرئيسية التي يجب تخزينها لجميع الأشخاص والمؤسسات الداخلية والخارجية التي تتفاعل معها الشركة. عند تغيير أحد العناوين، يتعين إجراء التحديث في مكان واحد فقط. ويتم تحديث جميع السجلات المرتبطة الأخرى تلقائيًا.
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- ما هو دفتر العناوين العمومي؟\n- كيفية عمل دفتر العناوين العمومي.\n- كيفية التخطيط لدفتر العناوين العمومي ودفاتر العناوين الأخرى\n"
 prerequisites: المعرفة العامة بتطبيقات التمويل والعمليات
-iconUrl: /learn/achievements/plan-config-global-address-book-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/plan-config-global-address-book-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

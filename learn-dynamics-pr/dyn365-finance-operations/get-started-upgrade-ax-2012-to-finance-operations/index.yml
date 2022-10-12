@@ -8,20 +8,20 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 0d2dabb9ecb1aa070f94d5c359308ac3b3e2b9bb
-  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+  ms.openlocfilehash: b14695b75802b29969b24df79f9bf41d6894af5e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/19/2022
-  ms.locfileid: "9174082"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580948"
 title: الشروع في العمل مع عملية الترقية من Dynamics AX 2012 إلى تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)] \nعند الترقية من Microsoft Dynamics AX 2012 إلى Dynamics 365، يمكن للمؤسسات استخدام منهجية الترقية لتطبيقات التمويل والعمليات لاتباع عملية محددة مسبقاً، جنباً إلى جنب مع الارتباطات والوثائق الداعمة، للتغلب على التحديات مع تغييرات النظام الأساسي والمنتج.\n"
-abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- استراتيجية الترقية وأفضل الممارسات.\n- Microsoft Dynamics 365 Lifecycle Services.\n- إدارة دورة حياة التطبيق.\n- أدوات الحل في تطبيقات التمويل والعمليات مقارنة بتلك الموجودة في Dynamics AX 2012.\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- استراتيجية الترقية وأفضل الممارسات.\n- Microsoft Dynamics Lifecycle Services.\n- إدارة دورة حياة التطبيق.\n- أدوات الحل في تطبيقات التمويل والعمليات مقارنة بتلك الموجودة في Dynamics AX 2012.\n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
   - معرفة عمليات التطوير
-iconUrl: /learn/achievements/get-started-upgrade-ax-2012-to-finance-operations.svg
+iconUrl: /training/achievements/get-started-upgrade-ax-2012-to-finance-operations.svg
 levels:
 - intermediate
 roles:

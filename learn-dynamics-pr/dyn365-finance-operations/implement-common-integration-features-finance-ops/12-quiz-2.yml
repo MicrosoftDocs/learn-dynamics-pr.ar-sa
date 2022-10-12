@@ -7,28 +7,28 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f6178d2a189e74f9c32e03c4ed9e0b07192bba7e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9b10595a4638f49059bc2602fe0e0493bc35e286
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346853"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576078"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
-  - content: أي مما يلي يسمح لك بالتكامل بين Dynamics 365 Sales وFinance and Operations؟
+  - content: أي مما يلي يسمح لك بالتكامل بين Dynamics 365 Sales والتمويل والعمليات؟
     choices:
     - content: يجب أن تقوم بإنشاء موصل مخصص.
       isCorrect: false
-      explanation: لست بحاجة إلى إعداد موصل مخصص نظراً لأنه يمكنك استخدام Microsoft Dataverse لتمكين تدفق البيانات بين تطبيقات Finance and Operations وDynamics 365 Sales.
-    - content: التكامل هو وظيفة مضمنة في Finance and Operations.
+      explanation: لست بحاجة إلى إعداد موصل مخصص نظراً لأنه يمكنك استخدام Microsoft Dataverse لتمكين تدفق البيانات بين تطبيقات التمويل والعمليات وDynamics 365 Sales.
+    - content: التكامل هو وظيفة مضمنة في التمويل والعمليات.
       isCorrect: false
-      explanation: يجب استخدام Dataverse لتمكين تدفق البيانات بين Finance and Operations وSales.
+      explanation: يجب استخدام Dataverse لتمكين تدفق البيانات بين التمويل والعمليات وSales.
     - content: Dataverse
       isCorrect: true
-      explanation: يمكنك استخدام Dataverse لتمكين تدفق البيانات بين Finance and Operations وSales. يمكن أن تتدفق معلومات العميل الموجودة في Sales إلى Finance and Operations. لا يتعين عليك نقل البيانات يدوياً أو استخدام أداة تكامل بيانات تابعة لجهة خارجية.
+      explanation: يمكنك استخدام Dataverse لتمكين تدفق البيانات بين التمويل والعمليات وSales. يمكن أن تتدفق معلومات العملاء في قسم المبيعات إلى التمويل والعمليات. لا يتعين عليك نقل البيانات يدوياً أو استخدام أداة تكامل بيانات تابعة لجهة خارجية.
   - content: اي من سيناريوهات الطباعة التالية يمكنه تصدير إصدار PDF؟
     choices:
     - content: طباعة ما تشاهده

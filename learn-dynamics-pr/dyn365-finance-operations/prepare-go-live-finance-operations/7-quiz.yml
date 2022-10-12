@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c7d08c1cc5b2fe01915b910015f1b0730c33f198
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e90f57efd55ea6f04036c898cedaedaff05ebbc4
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7338734"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578088"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:
@@ -22,13 +22,13 @@ quiz:
     choices:
     - content: يجب عليك توزيع بيئة جديدة ثم تطلق عليها بيئة تشغيل.
       isCorrect: false
-      explanation: يجب على جميع عملاء تطبيقات Finance and Operations استكمال مراجعة العرض المباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك.
+      explanation: جميع تطبيقات التمويل والعمليات التي يحتاجها العملاء لإكمال مراجعة عرض مباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك.
     - content: اتصل بالدعم الهندسي Dynamics Service Engineering (DSE).
       isCorrect: false
       explanation: يجب على العميل طلب توزيع بيئة التشغيل وإرساله إلى Microsoft فقط بعد انتهاء المهندس المعماري الخاص بـ FastTrack من التقييم.
     - content: استكمل مراجعة العرض المباشر مع فريق Microsoft FastTrack.
       isCorrect: true
-      explanation: يجب على جميع عملاء تطبيقات Finance and Operations استكمال مراجعة العرض المباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك.
+      explanation: جميع تطبيقات التمويل والعمليات التي يحتاجها العملاء لإكمال مراجعة عرض مباشر مع فريق Microsoft FastTrack قبل أن يتم توزيع بيئة التشغيل الخاصة بهم. يجب عليك إكمال هذا التقييم بنجاح قبل طلب بيئة التشغيل الخاصة بك.
   - content: عميلك جاهز لبدء العرض المباشر وطلب منك توزيع بيئة التشغيل من خلال اتصاله بفريق Microsoft FastTrack. ماذا يحدث بعد ذلك؟
     choices:
     - content: يقوم فريق Microsoft FastTrack بتوزيع بيئة التشغيل الخاصة بك.
@@ -39,7 +39,7 @@ quiz:
       explanation: يقوم دعم Dynamics Service Engineering (DSE) بتوزيع بيئة التشغيل بعد أن يستكمل فريق Microsoft FastTrack إنهاء التقييم.
     - content: يراجع فريق Microsoft FastTrack المشروع ويقدم تقييماً.
       isCorrect: true
-      explanation: بعد إرسال قائمة التحقق، سيقوم المهندس المعماري المعني بحلول Microsoft بمراجعة المشروع وتقديم تقييم يصف المخاطر المحتملة وأفضل الممارسات والتوصيات لبدء عرض مباشر ناجح للمشروع. في بعض الحالات، قد يقوم مهندس الحلول بتمييز عوامل المخاطرة وطلب خطة تقليل الأثر. عند اكتمال التقييم، سيشير المهندس المعماري للحلول إلى جاهزيتك لطلب بيئة الإنتاج في LCS.
+      explanation: بعد إرسال قائمة التحقق، سيقوم المهندس المعماري المعني بحلول Microsoft بمراجعة المشروع وتقديم تقييم يصف المخاطر المحتملة وأفضل الممارسات والتوصيات لبدء عرض مباشر ناجح للمشروع. في بعض الحالات، قد يقوم مهندس الحلول بتمييز عوامل المخاطرة وطلب خطة تقليل الأثر. عند اكتمال التقييم، سيشير مهندس الحلول إلى أنك جاهز لطلب بيئة الإنتاج في Lifecycle Services.
   - content: يطلب عميلك نسخة من قاعدة البيانات لاستعادتها في بيئة وضع الحماية. من المسؤول عن هذه العملية؟
     choices:
     - content: مسؤول خادم SQL Server
@@ -50,4 +50,4 @@ quiz:
       explanation: لا يتحمل فريق Microsoft FastTrack مسؤولية إنشاء نسخة من قاعده بيانات التشغيل.
     - content: الدعم الهندسي Dynamics Service Engineering (DSE)
       isCorrect: true
-      explanation: إذا احتاج العميل إلى طلب نسخة من قاعدة البيانات لاستعادتها إلى بيئة وضع الحماية، فيجب عليك إرسال الطلب إلى Dynamics Service Engineering (DSE) لنسخ قاعدة بيانات التشغيل وإتاحتها في مكتبة الأصول الخاصة بمشروع LCS.
+      explanation: إذا احتاج العميل إلى طلب نسخة من قاعدة البيانات لاستعادتها إلى بيئة وضع الحماية، فيجب عليك إرسال الطلب إلى Dynamics Service Engineering (DSE) لنسخ قاعدة بيانات التشغيل وإتاحتها في مكتبة الأصول الخاصة بمشروع Lifecycle Services.

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ac0a04910a393fbd399e0eefb846862468ea3df
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 82b55611db12c3b69b32b4ab83017dbf2159036b
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7436210"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9511673"
 ---
 ستحتاج إما إلى بيئة تجريبية أو بيئة تحديد الصلاحيات مع Sales Insights لإكمال هذه البرامج التعليمية.
 
@@ -50,4 +50,4 @@ ms.locfileid: "7436210"
 لقد تم الآن قطع اتصال جميع السجلات من التسلسل.
 
 > [!NOTE]
-> راجع [البرنامج التعليمي 2](/learn/modules/sales-sequence/3-connect/?azure-portal=true) لمعرفة كيفية توصيل هذا التسلسل بعملاء متوقعين. 
+> راجع [البرنامج التعليمي 2](/training/modules/sales-sequence/3-connect/?azure-portal=true) لمعرفة كيفية توصيل هذا التسلسل بعملاء متوقعين. 

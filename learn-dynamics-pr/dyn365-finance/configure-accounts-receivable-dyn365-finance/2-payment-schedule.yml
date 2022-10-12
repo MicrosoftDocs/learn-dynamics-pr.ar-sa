@@ -3,18 +3,18 @@ uid: learn-dynamics.configure-accounts-receivable-in-dynamics-365-finance-ops.2-
 title: جدول الدفع
 metadata:
   title: جدول الدفع
-  description: توضّح هذه الوحدة جداول الدفع في Dynamics 365 Finance.
+  description: تصف هذه الوحدة جداول الدفع في Dynamics 365 Finance.
   ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/accounts-receivables-set-up-overview
-  ms.openlocfilehash: 7e1b76bec0cac091fda2669936ba6136722c0db5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/accounts-receivables-set-up-overview
+  ms.openlocfilehash: 8a74158d03fbbc2b76174d6a79d40457d61455cb
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7360482"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559785"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

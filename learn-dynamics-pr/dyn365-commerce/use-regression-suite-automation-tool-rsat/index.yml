@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 18809dde40fddfa319629674868daba9480f291b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: be3494f4355f2ab882467b01fee03dbc6f9e334b
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8754402"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9537586"
 title: استخدام RSAT مع Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nتتيح لك Regression Suite Automation Tool ‏(RSAT) التحقق من صحة الاختبار لـ Dynamics 365 Commerce تلقائيًا. إنه يمكّن مستخدمي الطاقة الوظيفية من تسجيل المهام التجارية باستخدام مسجل الاختبار ثم تحويلها إلى مجموعة من الاختبارات الآلية للتحقق من صحة عناصر واجهة المستخدم والبيانات والعمليات التجارية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على ميزات RSAT.\n- تعرف على كيفية استخدام ميزة اختبار المُسجل لإنشاء حالات الاختبار وتكوينها وتشغيلها والتحقيق فيها والإبلاغ عنها. \n"
-prerequisites: "- الوصول إلى مستأجر العميل Dynamics 365 Lifecycle Services ‏(LCS) وAzure DevOps\n- المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce\n- المعرفة الأساسية بعمليات البيع بالتجزئة\n- تم تثبيت Microsoft Excel \n"
-iconUrl: /learn/achievements/rsat-commerce.svg
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ميزات RSAT.\n- تعرف على كيفية استخدام ميزة اختبار المُسجل لإنشاء حالات الاختبار وتكوينها وتشغيلها والتحقيق فيها والإبلاغ عنها. \n"
+prerequisites: "- الوصول إلى Dynamics Lifecycle Services لمستأجر العميل وAzure DevOps\n- المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce\n- المعرفة الأساسية بعمليات البيع بالتجزئة\n- تم تثبيت Microsoft Excel \n"
+iconUrl: /training/achievements/rsat-commerce.svg
 levels:
 - intermediate
 roles:

@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 920458cddb223f21f8b459ce42adec0c90ee2e66
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: f2d1fa2813d154aa898930fd9d29336832e09031
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7332141"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576108"
 ---
 
-يتمثل الهدف الرئيسي للفرق المشاركة في مشروع تنفيذ Finance and Operations في تلبية احتياجات أعمال العميل ضمن الإطار الزمني والموازنة المقررة أثناء إدارة جميع المخاطر التي تظهر على مدار الرحلة. 
+يتمثل الهدف الرئيسي للفرق المشاركة في مشروع تنفيذ التمويل والعمليات في تلبية احتياجات أعمال العميل ضمن الإطار الزمني والموازنة المقررة أثناء إدارة جميع المخاطر التي تظهر على مدار الرحلة. 
 
 يتطلب المشروع الناجح الجودة في التخطيط والتصميم والتسليم. لبلوغ أفضل مستوى من الجودة، ستحتاج إلى مراعاة عناصر مثلث إدارة المشروع، وهي: النطاق والموازنة والوقت. 
 
@@ -29,4 +29,4 @@ ms.locfileid: "7332141"
  
 ## <a name="fasttrack-customer-success-program"></a>برنامج نجاح عميل FastTrack
 
-بالنسبة لأي مشروع Finance and Operations، تقدم Microsoft خدمة برنامج FastTrack، حيث تحصل على التوجيه والتقييم من مهندسي حلول Microsoft FastTrack، الذين من شأنهم مساعدتك في تحقيق الهدف الرئيسي لمشروعك، وهو "البدء الفوري"، وبالتالي تعظيم فرصة نجاح تنفيذ Finance and Operations لديك. يمكنك معرفة المزيد حول برنامج FastTrack في [برنامج نجاح عميل FastTrack للوحدة النمطية Finance and Operations](/learn/modules/fasttrack-customer-success-program/?azure-portal=true). 
+بالنسبة لأي مشروع تمويل وعمليات، تقدم Microsoft خدمة برنامج FastTrack، حيث تحصل على التوجيه والتقييم من مهندسي حلول Microsoft FastTrack، الذين من شأنهم مساعدتك في تحقيق الهدف الرئيسي لمشروعك، وهو "البدء الفوري"، وبالتالي تعظيم فرصة نجاح تنفيذ تمويل وعمليات لديك. يمكنك معرفة المزيد حول برنامج FastTrack في [برنامج نجاح عميل FastTrack للوحدة النمطية](/training/modules/fasttrack-customer-success-program/?azure-portal=true). 

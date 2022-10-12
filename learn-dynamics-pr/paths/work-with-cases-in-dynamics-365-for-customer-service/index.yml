@@ -3,21 +3,21 @@ uid: learn-bizapps.customer-service-hub-cases-slas
 metadata:
   title: التعامل مع الحالات في Dynamics 365 Customer Service
   description: يركز مسار التعليم هذا على قدرات "إدارة الحالات" في Dynamics 365 Customer Service بما في ذلك خيارات إنشاء حالات وإدارة عملية دقة الحالة والتعامل مع تدرجات هرمية للحالات ودمج حالات مماثلة. يمكن استخدام الصفوف للاحتفاظ بأعباء العمل الخاصة بالحالة‬ لمندوبي خدمة العملاء وإدارتها.
-  ms.date: 06/28/2022
+  ms.date: 09/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: c389dd71471a0d01b41e5a6256d71489a49d60bc
-  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.openlocfilehash: 63d01098332f175dd2935318fb25ef5f6c8b6e36
+  ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9345112"
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9584182"
 title: التعامل مع الحالات في Dynamics 365 Customer Service
 summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\nالبدء كممثل خدمة عملاء. يركز مسار التعليم هذا على قدرات \"إدارة الحالات\" في Dynamics 365 Customer Service بما في ذلك خيارات إنشاء حالات وإدارة عملية دقة الحالة والتعامل مع تدرجات هرمية للحالات ودمج حالات مماثلة. يمكن استخدام الصفوف للاحتفاظ بأعباء العمل الخاصة بالحالة‬ لمندوبي خدمة العملاء وإدارتها.   \n"
 prerequisites: "- احصل على اشتراك تجريبي في Dynamics 365 Customer Service\n- المفاهيم الأساسية لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
-iconUrl: /learn/achievements/work-with-cases-and-slas-in-dynamics-365-for-customer-service.svg
+iconUrl: /training/achievements/work-with-cases-and-slas-in-dynamics-365-for-customer-service.svg
 levels:
 - beginner
 roles:
@@ -32,6 +32,7 @@ modules:
 - learn-bizapps.customer-service-get-started
 - learn-bizapps.customer-service-cases
 - learn-bizapps.using-dynamics-365-queues-to-manage-case-workloads
+- learn-dynamics.agent-collaboration
 - learn-dynamics.auto-create-records-hub
 trophy:
   uid: learn.customer-service-hub-cases-slas.trophy

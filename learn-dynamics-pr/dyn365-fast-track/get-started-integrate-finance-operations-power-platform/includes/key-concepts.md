@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d95a3bc45899f18cd255c2823b69f3a3e7ffca73
-ms.sourcegitcommit: d4e337fec838090ba1f4f09b61e2651be90b2b54
+ms.openlocfilehash: 8940bc20e528d096da63d23c1d07e05ff05049f6
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "8572632"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537984"
 ---
 يمكن تقسيم المفاهيم الأساسية للكتابة المزدوجة إلى قسمين متميزين. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "8572632"
 
 القسم الثاني من الميزات مرتبط بالتطبيق وسيناريوهات الدعم الوظيفي:
 
--   تجربة إعداد جاهزة من خلال Microsoft Dynamics 365 Lifecycle Services
+-   تجربة إعداد جاهزة من خلال Lifecycle Services Microsoft Dynamics
 
 -   أكثر من 100 مخطط كيان قابل للتخصيص وجاهز
 

@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 037ffb07cfb59f7a899c5946c7ed7283134c22f9
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 976f12e908377ddb9461d1a0bc07ab13e76e11d0
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8633622"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578018"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
@@ -25,10 +25,10 @@ quiz:
       explanation: صحيح. تعتمد أذونات تطبيقات التمويل والعمليات على نقطة النهاية؛ إذا كان لديك حق الوصول إلى نموذج أو زر، فيمكنك الوصول إلى البيانات الموجودة أسفله. في Dataverse، إذا كان لديك حق الوصول إلى فريق، وكان مالك السجلات هو الفريق الذي تعمل فيه، فعندئذٍ يكون لديك حق الوصول إلى البيانات.
     - content: تتمتع تطبيقات التمويل والعمليات بامتيازات ولدى Dataverse أذونات.
       isCorrect: false
-      explanation: غير صحيح.‬ هذه الإجابة ليست وصفاً صحيحاً للأذونات والامتيازات في أي من التطبيقين.
+      explanation: ‏‫غير صحيح. هذه الإجابة ليست وصفاً صحيحاً للأذونات والامتيازات في أي من التطبيقين.
     - content: لدى تطبيقات التمويل والعمليات أدوار ولدى Dataverse مسؤوليات.
       isCorrect: false
-      explanation: غير صحيح.‬ لا يحتوي Dataverse على مسؤوليات فيما يتعلق بنموذج الأمان.
+      explanation: ‏‫غير صحيح. لا يحتوي Dataverse على مسؤوليات فيما يتعلق بنموذج الأمان.
   - content: أي من الخيارات الثلاثة التالية عبارة عن أنماط للمصادقة للكيانات الافتراضية؟
     choices:
     - content: الوصول إلى تطبيقات التمويل والعمليات والوصول إلى المدخل والوصول إلى المكالمات من خدمة إلى خدمة
@@ -44,7 +44,7 @@ quiz:
     choices:
     - content: الكيانات الافتراضية
       isCorrect: false
-      explanation: غير صحيح.‬ الكيانات الافتراضية ليست جزءاً من اتصال الكتابة المزدوجة.
+      explanation: ‏‫غير صحيح. الكيانات الافتراضية ليست جزءاً من اتصال الكتابة المزدوجة.
     - content: فحص السلامة في معالج الكتابة المزدوجة
       isCorrect: true
       explanation: صحيح. سيوفر لك فحص السلامة التحقق المناسب من إمكانية إجراء الاتصال من تطبيقات التمويل والعمليات إلى Dataverse عندما يتم الانتهاء من جميع المعلومات المطلوبة مسبقاً لتثبيت بيئة Dataverse.

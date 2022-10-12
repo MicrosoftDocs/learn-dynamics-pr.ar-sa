@@ -9,12 +9,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: c69c5ad82ff3206cdfc1c1362d72acce76e5ce02
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 991facc1c54949bd5172e09ffe6a17559b642671
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752403"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508709"
 title: تكوين مؤسستك في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -29,7 +29,7 @@ prerequisites: >
   - المعرفة العامة بميزات الأجهزة المحمولة الأساسية والتنقل
 
   - فهم جيد لمتطلبات العملاء
-iconUrl: /learn/achievements/configure-your-organization-in-finance-and-ops.svg
+iconUrl: /training/achievements/configure-your-organization-in-finance-and-ops.svg
 levels:
 - intermediate
 - advanced

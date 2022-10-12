@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 546c8877219be4f653f4bc55fe551add1099c6aa
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c4732f7e65b67bc25a690a7181f59f4ffb931662
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751755"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505559"
 title: تسوية الحسابات البنكية في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -24,7 +24,7 @@ prerequisites: >
   - المعرفة الأساسية بكيفية التنقل في Business Central
 
   - فهم عملية إدارة النقدية القياسية لإحدى الشركات
-iconUrl: /learn/achievements/reconcile-bank-accounts-dynamics-365-business-central.svg
+iconUrl: /training/achievements/reconcile-bank-accounts-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

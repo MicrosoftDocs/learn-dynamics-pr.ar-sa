@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c25c1f8063b26f72d27ed7f8ac65fc2384185249
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: affac7e8c8b961f4f7d32390bfab5d5fcb095cb3
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750710"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514700"
 title: إعداد تقنية OCR الذكية واستخدامها لفواتير الموردين في Dynamics 365 Finance.
 summary: >
   [!include[](../includes/module-banner.md)]
 
   التعرّف البصري على الحروف (OCR) هي تقنية تمكّن المؤسسات من أتمتة استخراج البيانات من المستندات أو الصور الممسوحة ضوئيًا. يمكنك تحويل النص من المستند المصدر إلى بيانات يمكن قراءتها آليًا داخل Dynamics 365 Finance.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - إعداد التعرّف البصري على الحروف (OCR) في Dynamics 365 Finance.
 
@@ -32,7 +32,7 @@ prerequisites: >
   - المعرفة العامة بإجراءات فوترة الموردين
 
   - الاتصال بموفر خارجي للتعرف البصري على الأحرف (OCR)
-iconUrl: /learn/achievements/ocr-vendor-invoices-finance.svg
+iconUrl: /training/achievements/ocr-vendor-invoices-finance.svg
 levels:
 - intermediate
 roles:

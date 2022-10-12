@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 7bb49bece4a3bfcccd647bc87dce67998bd1719e
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: 3059b687e7fc7e90d647453e01d62467d4861c28
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021700"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9503895"
 ---
 في هذه الوحدة، تستكشف إمكانات تنفيذ المشروع وتحليله التي تشمل إدارة هياكل تقسيم العمل والتنبؤات والموازنات والفواتير وتحليل إمكانات تعقب تكلفة المشروع داخل Microsoft Dynamics 365 Project Operations.
 
-الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادرًا على:
+الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
 - وصف إمكانات تخطيط المشروع.
 
@@ -46,34 +46,34 @@ ms.locfileid: "9021700"
 
 لمزيد من الدراسة: 
 
-- [استكشاف إمكانات تخطيط المشروع وتنفيذه في Microsoft Dynamics 365 Project Operations](/learn/modules/explore-project-planning-execution-capabilities/)
+- [استكشاف إمكانات تخطيط المشروع وتنفيذه في Microsoft Dynamics 365 Project Operations](/training/modules/explore-project-planning-execution-capabilities/)
 
-- [بدء استخدام إدارة المشاريع في Dynamics 365 Project Operations](/learn/modules/get-started-project-management/)
+- [بدء استخدام إدارة المشاريع في Dynamics 365 Project Operations](/training/modules/get-started-project-management/)
 
-- [بدء استخدام Dynamics 365 Project Operations](/learn/modules/get-started-project-operations/)
+- [بدء استخدام Dynamics 365 Project Operations](/training/modules/get-started-project-operations/)
 
-- [استكشاف إمكانات إدارة جدول المشروع](/learn/modules/explore-project-planning-execution-capabilities/5-schedule-management-capabilities) 
+- [استكشاف إمكانات إدارة جدول المشروع](/training/modules/explore-project-planning-execution-capabilities/5-schedule-management-capabilities) 
 
-- [إنشاء توقعات المشروع والميزانيات وإدارتها](/learn/modules/explore-project-planning-execution-capabilities/3-create-manage-project-forecasts-budgets) 
+- [إنشاء توقعات المشروع والميزانيات وإدارتها](/training/modules/explore-project-planning-execution-capabilities/3-create-manage-project-forecasts-budgets) 
 
-- [إنشاء توقعات المشروع والميزانيات وإدارتها](/learn/modules/explore-project-planning-execution-capabilities/3-create-manage-project-forecasts-budgets) 
+- [إنشاء توقعات المشروع والميزانيات وإدارتها](/training/modules/explore-project-planning-execution-capabilities/3-create-manage-project-forecasts-budgets) 
 
-- [استكشف تحليل التدفقات النقدية](/learn/modules/explore-project-planning-execution-capabilities/7-explore-cash-flow-analysis) 
+- [استكشف تحليل التدفقات النقدية](/training/modules/explore-project-planning-execution-capabilities/7-explore-cash-flow-analysis) 
 
-- [استكشاف تحليل الاستخدام](/learn/modules/explore-project-planning-execution-capabilities/9-explore-utilization-analysis)
+- [استكشاف تحليل الاستخدام](/training/modules/explore-project-planning-execution-capabilities/9-explore-utilization-analysis)
 
-- [خطة المشروع - هيكل تنظيم العمل](/learn/modules/get-started-project-management/04-work-breakdown-structure) 
+- [خطة المشروع - هيكل تنظيم العمل](/training/modules/get-started-project-management/04-work-breakdown-structure) 
 
-- [إنشاء هياكل تنظيم العمل وإدارتها](/learn/modules/explore-project-planning-execution-capabilities/2-create-manage-work-breakdown-structures)
+- [إنشاء هياكل تنظيم العمل وإدارتها](/training/modules/explore-project-planning-execution-capabilities/2-create-manage-work-breakdown-structures)
 
-- [استكشاف إمكانات إعداد فواتير المشروع](/learn/modules/explore-project-planning-execution-capabilities/4-invoice-capabilities) 
+- [استكشاف إمكانات إعداد فواتير المشروع](/training/modules/explore-project-planning-execution-capabilities/4-invoice-capabilities) 
 
-- [الفواتير الأولية](/learn/modules/get-started-project-operations/10-proforma-invoicing) 
+- [الفواتير الأولية](/training/modules/get-started-project-operations/10-proforma-invoicing) 
 
-- [محاسبة المشروع](/learn/modules/get-started-project-operations/11-project-accounting)
+- [محاسبة المشروع](/training/modules/get-started-project-operations/11-project-accounting)
 
-- [استكشاف إمكانات تتبع تكلفة المشروع](/learn/modules/explore-project-planning-execution-capabilities/6-cost-tracking-capabilities) 
+- [استكشاف إمكانات تتبع تكلفة المشروع](/training/modules/explore-project-planning-execution-capabilities/6-cost-tracking-capabilities) 
 
-- [محاسبة المشروع](/learn/modules/get-started-project-operations/11-project-accounting)
+- [محاسبة المشروع](/training/modules/get-started-project-operations/11-project-accounting)
 
  

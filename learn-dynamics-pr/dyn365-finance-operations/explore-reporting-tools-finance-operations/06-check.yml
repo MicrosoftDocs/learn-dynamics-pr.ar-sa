@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0b8b6d32a8f83789a93e7e2d4280f7d92cd7e133
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 67f25cb625ef7eff374e3a6ee01885a00a9cead2
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357925"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582698"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -32,7 +32,7 @@ quiz:
     - content: إعداد التقارير المالية
       isCorrect: false
       explanation: يتم استخدام أداة إعداد التقارير المالية للإبلاغ عن بيانات المحاسبة.
-  - content: أنت تقوم بتنفيذ تطبيقات Finance and Operations وتحتاج إلى منح وصول المستخدم إلى بعض البيانات وعناصر القوائم ومنعه. ما الأدوات المتوفرة التي ستسمح لك بتنفيذ بذلك؟
+  - content: أنت تقوم بتنفيذ تطبيقات التمويل والعمليات وتحتاج إلى منح وصول المستخدم إلى بعض البيانات وعناصر القوائم ومنعه. ما الأدوات المتوفرة التي ستسمح لك بتنفيذ بذلك؟
     choices:
     - content: الأمان المستند إلى الدور
       isCorrect: false
@@ -57,6 +57,6 @@ quiz:
     - content: ويمكن استخدام PowerShell لتوزيع تقارير في بيئة التشغيل.
       isCorrect: false
       explanation: ويجب ألا يستخدم الأمر PowerShell لتوزيع التقارير في بيئة التشغيل.
-    - content: إذا كنت ترغب في توزيع تقارير إلى تطبيقات Finance and Operations، فيجب عليك استخدام PowerShell.
+    - content: إذا كنت ترغب في توزيع تقارير إلى تطبيقات التمويل والعمليات، فيجب عليك استخدام PowerShell.
       isCorrect: false
       explanation: كما يُتيح لك Visual Studio توزيع التقارير.

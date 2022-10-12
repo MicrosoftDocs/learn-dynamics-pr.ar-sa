@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a8682327162bc65fa3e3ecd2e40bb90c5d17eeea
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e576fa84f94412035e1985fe2b58138219b5ffd7
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749492"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520222"
 title: تكوين إدارة النقد والبنوك في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nمن خلال إدارة النقد والبنوك في Dynamics 365 Finance، يمكنك تسجيل وتسوية الحركات المالية مقابل كشف الحساب المصرفي وتحديد أنواع الحركات المصرفية مثل الودائع والأرصدة غير الكافية (NSF). \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء البنوك وتكوينها.\n- إنشاء تخطيطات البنوك وتكوينها.\n- تكوين معلمات إدارة النقد والبنوك.\n- إعداد بنوك الموردين والعملاء.\n- تكوين التنبؤات بالتدفقات النقدية والإبلاغ عنها.\n"
@@ -24,7 +24,7 @@ prerequisites: >
   - المعرفة العامة بالتنقل الأساسي في Finance
 
   - التعرف على كيفية إعداد دفتر الأستاذ العام في Finance
-iconUrl: /learn/achievements/configure-cash-and-bank-management-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-cash-and-bank-management-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

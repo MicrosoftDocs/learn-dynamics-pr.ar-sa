@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53a4d3d15bf03cdd785180910b39f8066cb323a1
-ms.sourcegitcommit: 9dbaf1f740d523335d1acbad28c8488652a81ff0
+ms.openlocfilehash: 4336ce7310773b74a75d44f50cff09616456fd82
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/10/2022
-ms.locfileid: "9247577"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576788"
 ---
 بالاضافه إلى استخدام الزر **تصميم** في وظيفة Excel الإضافية، يمكنك استخدام صفحة **مصمم مصنف Excel** لتصميم مصنف تصدير مخصص قابل للتحرير يحتوي على كيان ومجموعة من الحقول. لفتح صفحة **مصمم المصنف**، انتقل إلى **عام > عام >  تكامل Office > مصمم مصنف Excel**. 
 

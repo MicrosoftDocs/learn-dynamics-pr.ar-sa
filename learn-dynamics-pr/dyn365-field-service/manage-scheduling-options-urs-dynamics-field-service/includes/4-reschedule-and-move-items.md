@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9d79d5003cbae576745b00205c87583b277b9ca0
-ms.sourcegitcommit: 255987d4391a04e0b5a680fdb573a720f97c706e
+ms.openlocfilehash: 6c57b0ab952246563672eabf2e36e478b4788be0
+ms.sourcegitcommit: e406e95a6e3d1728c2deff3c1c56c78f45e93c34
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "9360286"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "9551632"
 ---
 في نقطة معينة، سيحدث شيء ما ينتج عنه إعادة جدولة أحد العناصر، أو استبدال مورد. قد يحدث هذا إذا كان العميل يعاني من تعارض مفاجئ، أو اتصل أحد الفنيين بالمرضى، أو إذا كانت هناك تقنية متخلفة بسبب العناصر التي تستغرق وقتاً أطول من المعتاد.
 

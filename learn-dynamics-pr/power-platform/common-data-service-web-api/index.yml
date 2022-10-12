@@ -9,17 +9,17 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: mda-developer
-  ms.openlocfilehash: c5415773699eebdd7f557d2efd223694c496c6d0
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 5a1e6b66f02248ed70fe9c155e691dd346c539d7
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363200"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510063"
 title: العمل باستخدام Web API لـ Dataverse
 summary: "[!include[](../includes/module-banner.md)] \n\nتعرف على كيفية العمل مع Web API لـ Dataverse.   \n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- التفاعل مع Web API لـ Dataverse باستخدام أداة Postman.\n- تخويل Dataverse باستخدام OAuth.\n- استخدام OData للاستعلام عن البيانات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التفاعل مع Web API لـ Dataverse باستخدام أداة Postman.\n- تخويل Dataverse باستخدام OAuth.\n- استخدام OData للاستعلام عن البيانات. \n"
 prerequisites: بلا
-iconUrl: /learn/achievements/common-data-service-web-api.svg
+iconUrl: /training/achievements/common-data-service-web-api.svg
 levels:
 - advanced
 roles:

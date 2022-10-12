@@ -3,17 +3,17 @@ uid: learn-dynamics.create-classes-dynamics-365-finance-operations.2-class
 title: إضافة فئة إلى مشروع
 metadata:
   title: إضافة فئة إلى مشروع
-  description: تعرف على كيفية إضافة فئة إلى مشروع في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إضافة فصل دراسي إلى مشروع في تطبيقات التمويل والعمليات.
   ms.date: 06/03/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 90224327893f9d3e76ee136a868a8fa3268592b8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e1d04e95090166808a0d7c73b69fea9b23e69c49
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330198"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575138"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

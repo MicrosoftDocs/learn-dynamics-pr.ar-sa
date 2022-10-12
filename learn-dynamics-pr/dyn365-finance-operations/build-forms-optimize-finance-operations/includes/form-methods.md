@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6e925260f197c7c940782f004e14b4123b014d1b
-ms.sourcegitcommit: 442020b85a494c94b76f90102daf2916649c8c2e
+ms.openlocfilehash: ab40e784c6d016343d76a4c0f90ccda8f81e99ae
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/28/2022
-ms.locfileid: "8490167"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576578"
 ---
 تعتبر النماذج عناصر رئيسة للنظام الأساسي لتطوير التمويل والعمليات. العديد من النماذج القياسية متوفرة بالفعل في التطبيق. 
 

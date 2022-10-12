@@ -8,17 +8,17 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customervoice
-  ms.openlocfilehash: e095e33ef6408b5ee8a49df59738131530e14a91
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 8ea4e58105218f3bdb6a3f90ab7bda1f601d1225
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750916"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514650"
 title: تضمين الاستطلاعات في موقع الويب الخاص بك باستخدام Dynamics 365 Customer Voice
 summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة، تعرف على كيفية تضمين الاستطلاع الخاص بك في موقع الويب الخاص بك.   \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على حالات الاستخدام لتضمين الاستطلاعات في موقع ويب.\n- تعرف على كيفية تضمين استطلاع في موقع ويب.\n- استخدم المتغيرات عند تضمين استطلاع واستخرج المتغيرات من بيانات السياق أو استجابة المسح.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على حالات الاستخدام لتضمين الاستطلاعات في موقع ويب.\n- تعرف على كيفية تضمين استطلاع في موقع ويب.\n- استخدم المتغيرات عند تضمين استطلاع واستخرج المتغيرات من بيانات السياق أو استجابة المسح.\n"
 prerequisites: بلا
-iconUrl: /learn/achievements/embed-surveys.svg
+iconUrl: /training/achievements/embed-surveys.svg
 levels:
 - intermediate
 roles:

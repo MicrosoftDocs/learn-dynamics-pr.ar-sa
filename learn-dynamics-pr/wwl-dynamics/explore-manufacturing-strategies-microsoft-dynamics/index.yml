@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-supply-chain
-  ms.openlocfilehash: 5bec2b41c565732bf3f7eed3f7a43525e7136d87
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: e5246d77cbd3181acd3665302691a51135a519d8
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9368258"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507359"
 title: استكشاف إستراتيجيات التصنيع فِي Dynamics 365 Supply Chain Management
 summary: تناقش هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain Management المستخدمة فِي تنفيذ إستراتيجيات التصنيع والأدوات المستخدمة لإدارة حالة إنتاج المحل.
 abstract: >
@@ -30,7 +30,7 @@ abstract: >
   *   وصف التخطيط الرئيسي.
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
-iconUrl: /learn/achievements/explore-manufacturing-strategies-microsoft-dynamics-365-supply.svg
+iconUrl: /training/achievements/explore-manufacturing-strategies-microsoft-dynamics-365-supply.svg
 levels:
 - beginner
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e02292088dc578ebeb2ba69e9578d605ee6e2ce0
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: f744fae346e7a9fdcaf7879dc923328dd80b0618
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7329287"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579898"
 ---
 توفر Lifecycle Services العديد من الميزات لمساعدتك في دعم البيئات التي تديرها. من صفحة **التفاصيل الكاملة** لأي بيئة، يمكنك إعادة تشغيل الخدمات الرئيسية ورؤية التغييرات التي تم تطبيقها على البيئة والوصول إلى الواجهتين الأمامية والخلفية للبيئة.
 
@@ -20,20 +20,20 @@ ms.locfileid: "7329287"
 
 ## <a name="additional-support"></a>دعم إضافي
 
-هناك عدة طرق يمكنك من خلالها الحصول على دعم إضافي في Lifecycle services لتطبيقات Finance and Operations.
+هناك عدة طرق يمكنك من خلالها الحصول على دعم إضافي في Lifecycle Services لتطبيقات التمويل والعمليات.
 
-### <a name="dynamics-365-community"></a>مجتمع Dynamics 365
+### <a name="dynamics-365-community"></a>Dynamics 365 Community
 
-مجتمع Dynamics 365 يمكنك فيه التفاعل مع الخبراء والنظراء الذين يستخدمون تطبيقات Dynamics 365 ويعملون بها. يمكنك هنا قراءة المنتديات والمدوّنات والوصول إلى الندوات عبر الإنترنت ومقاطع الفيديو والعثور على أحداث مفيدة. لبدء استخدام مجتمع Dynamics 365، انتقل إلى [‏‫مرحباً بك في مجتمع Dynamics 365](https://community.dynamics.com/?azure-portal=true) وسجّل الدخول باستخدام حسابك في Microsoft أو حساب العمل أو المؤسسة التعليمية لديك. يمكنك استكشاف المحتوى من خلال تسجيل الدخول أو دونه. إذا كنت تريد نشر سؤال أو تعليق أو تلقي إعلامات بالبريد الإلكتروني، فسيتعيّن عليك تسجيل الدخول.
+Dynamics 365 Community يمكنك فيه التفاعل مع الخبراء والنظراء الذين يستخدمون تطبيقات Dynamics 365 ويعملون بها. يمكنك هنا قراءة المنتديات والمدوّنات والوصول إلى الندوات عبر الإنترنت ومقاطع الفيديو والعثور على أحداث مفيدة. لبدء استخدام Dynamics 365 Community، انتقل إلى [‏‫مرحباً بك في Dynamics 365 Community](https://community.dynamics.com/?azure-portal=true) وسجّل الدخول باستخدام حسابك في Microsoft أو حساب العمل أو المؤسسة التعليمية لديك. يمكنك استكشاف المحتوى من خلال تسجيل الدخول أو دونه. إذا كنت تريد نشر سؤال أو تعليق أو تلقي إعلامات بالبريد الإلكتروني، فسيتعيّن عليك تسجيل الدخول.
 
 ### <a name="issue-search"></a>البحث عن المشاكل
 
-في Lifecycle Services، يمكنك استخدام أداة البحث عن المشاكل للبحث بسرعة عن مقالات قاعدة معارف Microsoft ‏(KB) والإصلاحات العاجلة والحلول البديلة والمشكلات التي تم الإبلاغ عنها. ضمن أداة البحث عن المشاكل، يمكنك أيضاً مراجعة المشاكل الحالية التي يجري الآن إصلاحها في منطقة عمل معيّنة من تطبيقات Dynamics 365 Finance and Operations والمشاكل التي تم إصلاحها.
+في Lifecycle Services، يمكنك استخدام أداة البحث عن المشاكل للبحث بسرعة عن مقالات قاعدة معارف Microsoft ‏(KB) والإصلاحات العاجلة والحلول البديلة والمشكلات التي تم الإبلاغ عنها. ضمن أداة البحث عن المشاكل، يمكنك أيضاً مراجعة المشاكل الحالية التي يجري الآن إصلاحها في منطقة عمل معيّنة من Dynamics 365 Finance and Operations Tools والمشاكل التي تم إصلاحها.
 
 [![مثال على المشاكل الحالية في أداة البحث عن المشاكل.](../media/issue-search-ss.png)](../media/issue-search-ss.png#lightbox)
 
-للوصول إلى أداة البحث عن المشاكل واستخدامها، افتح مشروعك في Lifecycle Services، ثم حدد لوحة **بحث عن المشاكل**. يمكنك هنا البحث عن مشكلة. بمجرد كتابة استعلام، ستتمكن من البحث في أي محتوى ذي صلة. لعرض معلومات حول حالة محتوى البحث عن المشاكل في Lifecycle Services، انتقل إلى [بحث عن المشاكل في Lifecycle Services ‏(LCS)](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/issue-search-lcs/?azure-portal=true).
+للوصول إلى أداة البحث عن المشاكل واستخدامها، افتح مشروعك في Lifecycle Services، ثم حدد لوحة **بحث عن المشاكل**. يمكنك هنا البحث عن مشكلة. بمجرد كتابة استعلام، ستتمكن من البحث في أي محتوى ذي صلة. لعرض معلومات حول حالة محتوى البحث عن المشاكل في Lifecycle Services، انتقل إلى [بحث عن المشاكل في Lifecycle Services](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/issue-search-lcs/?azure-portal=true).
 
 ### <a name="more-information"></a>مزيد من المعلومات
 
-لقراءة المزيد حول كيفية إدارة تجربة الدعم، انتقل إلى [إدارة تجارب دعم تطبيقات Finance and Operations](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/cloud-powered-support-lcs/?azure-portal=true).
+لقراءة المزيد حول كيفية إدارة تجربة الدعم، انتقل إلى [إدارة تجارب دعم تطبيقات التمويل والعمليات](/dynamics365/fin-ops-core/dev-itpro/lifecycle-services/cloud-powered-support-lcs/?azure-portal=true).

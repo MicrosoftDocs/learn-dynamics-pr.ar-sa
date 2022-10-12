@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3585bda9c3164c659ee0c24a1d75bf4bccb4a325
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 764f939b3839ea3de1a564b661e30ff66aad951c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351817"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579268"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -32,21 +32,21 @@ quiz:
     - content: SDK
       isCorrect: false
       explanation: لا يتم تضمين مجموعات أدوات SDK مع قوالب مكامل البيانات.
-  - content: لاستخدام OAuth 2.0 مع تطبيقات Finance and Operations، فإنه يجب أولاً تسجيل التطبيق. أين يمكنك القيام بذلك؟
+  - content: لاستخدام OAuth 2.0 مع تطبيقات التمويل والعمليات، فإنه يجب أولاً تسجيل التطبيق. أين يمكنك القيام بذلك؟
     choices:
     - content: الوحدة النمطية لإدارة النظام
       isCorrect: false
-      explanation: لم تقم بتسجيل تطبيقات Finance and Operations الخاصة بـ OAuth في الوحدة النمطية لإدارة النظام.
+      explanation: لم تقم بتسجيل تطبيقات التمويل والعمليات الخاصة بـ OAuth في الوحدة النمطية لإدارة النظام.
     - content: مركز تعليمات مسؤول Microsoft 365
       isCorrect: false
-      explanation: لم تقم بتسجيل تطبيقات Finance and Operations الخاصة بـ OAuth في مدخل Microsoft 365.
+      explanation: لم تقم بتسجيل تطبيقات التمويل والعمليات لـ OAuth في مدخل Microsoft 365.
     - content: مدخل Microsoft Azure
       isCorrect: true
-      explanation: لتسجيل تطبيقات Finance and Operations التي تستخدم OAuth، قم بالتسجيل في مدخل Microsoft Azure.
+      explanation: لتسجيل تطبيقات التمويل والعمليات التي تستخدم OAuth، قم بالتسجيل في مدخل Microsoft Azure.
     - content: مدخل Power Apps
       isCorrect: false
-      explanation: لم تقم بتسجيل تطبيقات Finance and Operations الخاصة بـ OAuth في مدخل Power Apps.
-  - content: أي مما يلي يُستخدم لتمكين تدفق البيانات بين تطبيقات Finance and Operations وغيره من تطبيقات Dynamics 365 الأخرى؟
+      explanation: لم تقم بتسجيل تطبيقات التمويل والعمليات لـ OAuth في مدخل Power Apps.
+  - content: أي مما يلي يُستخدم لتمكين تدفق البيانات بين تطبيقات التمويل والعمليات وغيره من تطبيقات Dynamics 365 الأخرى؟
     choices:
     - content: Power Automate
       isCorrect: false

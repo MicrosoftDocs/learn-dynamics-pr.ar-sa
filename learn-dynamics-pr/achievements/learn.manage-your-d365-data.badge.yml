@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.manage-your-d365-data.badge
 metadata:
-  title: 'Microsoft Badge: تم إصدار إدارة بيانات تطبيقات Dynamics 365إشراك العملاء الخاصة بك بواسطة Microsoft'
-  ms.openlocfilehash: 536765c3dcc4b20c412a1db73322a7b87305cfd8
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: تم إصدار إدارة بيانات تطبيقات Dynamics 365 Customer Engagement الخاصة بك بواسطة Microsoft'
+  ms.openlocfilehash: 228de6883d944cf1ac5e290de690e7b8dca581ae
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772965"
-socialImageUrl: /learn/achievements/manage-dynamics-365-data-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516028"
+socialImageUrl: /training/achievements/manage-dynamics-365-data-social.png

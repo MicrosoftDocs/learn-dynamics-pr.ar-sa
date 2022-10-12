@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.wwl.examine-core-capabilities-of-microsoft-dynamics-365-crm.trophy
 metadata:
-  title: 'Microsoft Trophy: افحص قدرات الذاكرة الأساسية لتطبيقات 365إشراك العملاء Microsoft Dynamics التي أصدرتها Microsoft'
-  ms.openlocfilehash: 4cf4bce6b3f2f8eaeb5fbf9bb56da2d5eaa441b0
-  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
+  title: 'Microsoft Trophy: افحص قدرات الذاكرة الأساسية لتطبيقات Microsoft Dynamics 365 customer engagement التي أصدرتها Microsoft'
+  ms.openlocfilehash: 3ec86e4a7f9736e2fab32da7a120e09c42c2d70b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/01/2022
-  ms.locfileid: "9392328"
-socialImageUrl: /learn/achievements/examine-core-capabilities-of-microsoft-dynamics-365-crm-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520328"
+socialImageUrl: /training/achievements/examine-core-capabilities-of-microsoft-dynamics-365-crm-social.png

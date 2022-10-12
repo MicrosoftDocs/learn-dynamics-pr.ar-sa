@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 4f928f4a36a19c481243b0ed50658614f766942dddf8ec9667063ec80579df44
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f16423a1bf7807d6b15946a2ab1e4ab884416fcb
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7100044"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582238"
 ---
-يُعد Visual Studio مركزاً لتطوير تطبيقات Finance and Operations. يتيح العثور على الوظائف الحالية وتوسيعها، أو إنشاء الوظائف الخاصة بك. كما يسمح لك بإتاحة تغييراتك للاختبار محلياً بمجرد الإنشاء والمزامنة.
+Visual Studio هي موطن التطوير لتطبيقات التمويل والعمليات. يتيح العثور على الوظائف الحالية وتوسيعها، أو إنشاء الوظائف الخاصة بك. كما يسمح لك بإتاحة تغييراتك للاختبار محلياً بمجرد الإنشاء والمزامنة.
 
 تعرفت في هذه الوحدة على كيفية إجراء المهام التالية في Visual Studio:
 

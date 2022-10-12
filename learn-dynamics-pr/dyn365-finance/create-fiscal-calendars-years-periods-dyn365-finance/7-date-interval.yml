@@ -3,18 +3,18 @@ uid: learn-dynamics.create-fiscal-calendars-years-periods-in-dynamics-365-financ
 title: إنشاء فترات تاريخ
 metadata:
   title: إنشاء فترات تاريخ
-  description: توضح هذه الوحدة كيفية إنشاء فترات تاريخ في Dynamics 365 Finance.
+  description: توضح هذه الوحدة كيفية إنشاء الفترات التاريخية في Dynamics 365 Finance.
   ms.date: 04/29/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
-  ms.openlocfilehash: 6c12c02ba3174d1dbe66213462af842c6a1c6cba
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
+  ms.openlocfilehash: 0a00765c35bb5beb6e18df3c263ce47f33a69856
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7356024"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559135"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

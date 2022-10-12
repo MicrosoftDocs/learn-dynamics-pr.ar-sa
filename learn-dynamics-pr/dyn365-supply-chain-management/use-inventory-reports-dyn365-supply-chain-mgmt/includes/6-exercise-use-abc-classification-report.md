@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9c07a3c79e68ab3cabbbdaee24bbac009119f5898ff3d512e082433a21e4c5a8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a521daa1ca126140e519fc740ddeb2fad90b2d98
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7108274"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536119"
 ---
 يطلب منك مديرك في شركة USMF إجراء بعض سيناريوهات تصنيف ABC الاختبارية على المخزون لشهر يناير 2016. يُطلب منك تشغيل تقريري تصنيف ABC يعرضان سيناريوهات مختلفة، مع التفاصيل التالية:
 
@@ -13,7 +13,7 @@ ms.locfileid: "7108274"
 
 ## <a name="before-you-begin"></a>قبل البدء 
 
-للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS). 
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services. 
 
 لتشغيل تقرير تصنيف ABC الذي يستخدم تصنيفات الإيرادات؛ 80 بالمائة (A) و15 بالمائة (B) و5 بالمائة (C)، اتبع الخطوات التالية: 
 

@@ -8,15 +8,15 @@ metadata:
   ms.author: oscarfranco
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: a4621ab82ff847aaffa51cb02a7ba82bc660b132
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.openlocfilehash: d726558346252589c2aedcfbd675f18f6c3619e2
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9179009"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582008"
 title: الشروع في العمل باستخدام فوترة الاشتراك في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nيمكّنك Dynamics 365 Finance من إدارة إيرادات الاشتراك والفوترة المتكررة من خلال العمل مع جداول الفوترة. للتوافق مع معايير المحاسبة الدولية ومعايير مبادئ المحاسبة المقبولة عموماً، تدعم Finance تخصيص الإيرادات متعددة العناصر للإيرادات لسيناريوهات الفوترة المتكررة.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية إعداد ميزة فوترة الاشتراك في تطبيقات التمويل والعمليات.\n- تعرف على كيفية إنشاء جداول الفوترة.\n- تعرف على كيفية إنشاء الفوترة الرئيسية.\n- تصور وإنشاء قوالب التأجيل.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على كيفية إعداد ميزة فوترة الاشتراك في تطبيقات التمويل والعمليات.\n- التعرف على كيفية إنشاء جداول الفوترة.\n- التعرف على كيفية إنشاء الفوترة الجزئية.\n- تصور وإنشاء قوالب التأجيل.\n"
 prerequisites: >
   - الفهم الأساسي للوظائف في Dynamics 365 Finance
 
@@ -25,7 +25,7 @@ prerequisites: >
   - المعرفة الأساسية بالعقود والجدولة في Dynamics 365 Finance
 
   - المعرفة الأساسية للمحاسبة (الإيرادات والاستهلاك والفواتير)
-iconUrl: /learn/achievements/get-started-subscription-billing-finance.svg
+iconUrl: /training/achievements/get-started-subscription-billing-finance.svg
 levels:
 - beginner
 roles:

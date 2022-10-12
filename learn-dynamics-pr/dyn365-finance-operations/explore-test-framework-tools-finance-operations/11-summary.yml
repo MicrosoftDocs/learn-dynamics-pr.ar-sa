@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
 title: الملخص
 metadata:
   title: الملخص
-  description: قم بمراجعة ما تعلمته بعد استكشاف إطار عمل الاختبار والأدوات لتطبيقات Finance and Operations.
+  description: راجع ما تعلمته بعد استكشاف إطار الاختبار والأدوات لتطبيقات التمويل والعمليات.
   ms.date: 07/01/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 782850b08dcac9c5b0c7e905628499f60d3e6a43
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6021cf2577f448e2a4bf9534485033dfcc4e8e57
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349176"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581158"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

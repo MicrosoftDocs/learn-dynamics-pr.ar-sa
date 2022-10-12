@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: d66ad9a759f99c648147dcaff7feda0d9193f8e1f1ae5609276343c492e285f0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 69b3b4a0bab0c13aa08924bfed3c5c30130dca21
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120328"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579678"
 ---
-يشير وضعا العرض والتحرير إلى ما إذا كنت تقوم بتحرير أو عرض سجل. هذا التمييز مهم، لأنه يساعد في منع التحديثات غير المقصودة للبيانات في تطبيقات Finance and Operations.
+يشير وضعا العرض والتحرير إلى ما إذا كنت تقوم بتحرير أو عرض سجل. هذا التمييز مهم، لأنه يساعد في منع التحديثات غير المقصودة للبيانات في تطبيقات التمويل والعمليات.
 
 يمكن استخدام وضعي العرض والتحرير في صفحات معينة لأغراض مختلفة:
 

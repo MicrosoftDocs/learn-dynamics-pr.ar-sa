@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-multi-session-experiences.manage-notification-settings
+title: إدارة إعدادات الإخطارات والقوالب
+metadata:
+  title: إدارة إعدادات الإخطارات والقوالب
+  description: تعلم كيفية إدارة إعدادات الإخطارات والقوالب.
+  ms.date: 09/22/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 2b266ed8ab6ed4e13828827016971d08018e3532
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582965"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/manage-notification-settings.md)]

@@ -3,18 +3,18 @@ uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.04-synchronize-confi
 title: مزامنة خطة الاختبار وتكوينها في Azure DevOps
 metadata:
   title: مزامنة خطة الاختبار وتكوينها في Azure DevOps
-  description: تعرف على كيفية مزامنة خطة الاختبار وتكوينها في Azure DevOps في تطبيقات Finance and Operations.
+  description: تعرف على كيفية مزامنة خطة الاختبار وتكوينها في Azure DevOps في تطبيقات التمويل والعمليات.
   ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/synchronize-bpm-vsts#configure-your-lcs-project-to-connect-to-azure-devops
-  ms.openlocfilehash: 989852e4d1898b594f0eacffc0d77478f7aacfe2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/lifecycle-services/synchronize-bpm-vsts#configure-your-lcs-project-to-connect-to-azure-devops
+  ms.openlocfilehash: e926d4eaafd34e657b24aa76dfaa07e169ac01ec
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7325481"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577418"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

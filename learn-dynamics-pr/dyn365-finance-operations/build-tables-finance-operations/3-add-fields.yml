@@ -3,17 +3,17 @@ uid: learn-dynamics.build-tables-dynamics-365-finance-operations.3-add-fields
 title: إضافة الحقول ومجموعات الحقول والفهارس والعلاقات
 metadata:
   title: إضافة الحقول ومجموعات الحقول والفهارس والعلاقات
-  description: تعرف على إضافة الحقول ومجموعات الحقول والفهارس والعلاقات في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إضافة الحقول ومجموعات الحقول والفهارس والعلاقات في تطبيقات التمويل والعمليات.
   ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f9d49d022f111ca6dcc6f222a3b736d2bb9a29e3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 51fa3b1f40e074f3380c64bda355ba3a4b5e63eb
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359786"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574078"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

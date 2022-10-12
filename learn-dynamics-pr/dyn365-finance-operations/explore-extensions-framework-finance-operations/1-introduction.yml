@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations
 title: مقدمة
 metadata:
   title: مقدمة
-  description: تقدم هذه الوحدة استكشاف الامتدادات وإطار عمل الامتداد في وحدة تطبيقات Finance and Operations.
+  description: تقدم هذه الوحدة استكشاف الامتدادات وإطار عمل الامتداد في وحدة تطبيقات التمويل والعمليات.
   ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0aed85ca3cb77c320f4d5a4ed7c43f58d210f3c8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: c13724a3ae71171fc2d2221258382255439d4d62
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365051"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577048"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

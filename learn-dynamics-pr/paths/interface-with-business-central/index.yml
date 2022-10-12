@@ -8,16 +8,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: e4522eb20cd710f85f8f8d39d56bff284bde7130
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9521e54ac9b51e98be3dde77f8f273c3538bf21d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752052"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504702"
 title: التعامل مع Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تود التعامل مع Business Central؟ سيتناول \"مسار التعليم\" هذا مناقشه التعامل مع الويب وخدمات نقل الحالة التمثيلية (REST) ووظائف API وAzure والتحكم في الوظائف الإضافية التي يمكن استخدامها للتعامل مع Business Central.  \n"
 prerequisites: "- الفهم الأساسي للغة البرمجة AL \n- الخبرة في لغات البرمجة الأخرى\n- المعرفة الأساسية لوظائف Business Central  \n"
-iconUrl: /learn/achievements/interface-with-business-central.svg
+iconUrl: /training/achievements/interface-with-business-central.svg
 levels:
 - intermediate
 roles:

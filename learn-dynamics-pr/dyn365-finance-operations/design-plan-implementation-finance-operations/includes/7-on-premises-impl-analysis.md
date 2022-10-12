@@ -1,20 +1,20 @@
 ---
-ms.openlocfilehash: 390d20843c7f9d474708806d5dc032cdf4096057
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: f354c756781a2a9daedead889f63f91d179e627e
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7359762"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582128"
 ---
-تعد هذه الوحدة ملخصاً لخطوة التحليل الخاصة بالتنفيذ المحلي لتطبيقات Finance and Operations، المعروفة باسم Dynamics 365 for Finance + Operations (المحلية).
+تعد هذه الوحدة ملخصاً لخطوة التحليل الخاصة بالتنفيذ المحلي لتطبيقات التمويل والعمليات، المعروفة باسم Finance + Operations (on-premises).
 
-## <a name="complete-lifecycle-services-lcs-project-configuration"></a>إكمال تكوين مشروع Lifecycle Services (LCS)
+## <a name="complete-lifecycle-services-project-configuration"></a>إكمال تكوين مشروع Lifecycle Services
 
 هذا هو نفس الأمر بالنسبة لتنفيذ مجموعة النظراء.
 
 ## <a name="on-premises-license"></a>الترخيص المحلي
 
-في إعدادات **المشروع**، ضمن **المؤسسة والملكية**، في الحقل **الرقم التسلسلي للترخيص**، أدخل الرقم التسلسلي الموجود في قسم **الخصائص** الخاص بملف الترخيص المحلي الذي قمت بتنزيله. يستخدم LCS الرقم التسلسلي للتحقق مما إذا كانت مؤسستك لديها تراخيص محلية صالحة.
+في إعدادات **المشروع**، ضمن **المؤسسة والملكية**، في الحقل **الرقم التسلسلي للترخيص**، أدخل الرقم التسلسلي الموجود في قسم **الخصائص** الخاص بملف الترخيص المحلي الذي قمت بتنزيله. يستخدم Lifecycle Services الرقم التسلسلي للتحقق مما إذا كانت مؤسستك لديها تراخيص محلية صالحة.
 
 ## <a name="invite-your-project-team"></a>دعوة فريق المشروع الخاص بك
 
@@ -56,6 +56,6 @@ ms.locfileid: "7359762"
 
 بعد التحليل وتدريبات الفروق/ التوافق، يجب عليك تحسين خطة مشروعك والحصول على المزيد من التواريخ الرئيسية المؤهلة. 
 
-قم بتحديث LCS للتأكد من أن جميع الأطراف تعمل خارج نفس المخطط الزمني. 
+قم بتحديث Lifecycle Services للتأكد من أن جميع الأطراف تعمل خارج نفس المخطط الزمني. 
 
  

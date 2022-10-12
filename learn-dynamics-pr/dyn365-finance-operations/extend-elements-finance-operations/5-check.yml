@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 80e7533b085ffb8c560666d9674a3e576d49180b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 917265c15162e0d5069f878f453b64678bd7ab58
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330144"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574898"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -31,7 +31,7 @@ quiz:
       explanation: تتم إضافة معالجات الأحداث إلى جدول باستخدام الامتدادات. يمكنك إنشاء فئة جديدة تقوم بتوسيع الجدول المرغوب وتمكين الوصول إلى حقوله وأساليبه.
     - content: يتم استخدام امتدادات الجداول عندما لا يمكن الحصول على السلوك المرغوب للعنصر من خلال التراكب.
       isCorrect: false
-      explanation: غير مسموح بالتراكب في تطبيقات Finance and Operations.  يتم إجراء التخصيصات باستخدام الامتدادات.
+      explanation: التراكب غير مسموح به في تطبيقات التمويل والعمليات.  يتم إجراء التخصيصات باستخدام الامتدادات.
   - content: تحتاج إلى إنشاء امتداد لنموذج FMCustomer.  أي المهام التالية لا يمكن إنجازه بعد إنشاء امتداد النموذج؟
     choices:
     - content: قم بتغيير نمط النموذج من التفاصيل الرئيسية إلى جدول المحتويات.

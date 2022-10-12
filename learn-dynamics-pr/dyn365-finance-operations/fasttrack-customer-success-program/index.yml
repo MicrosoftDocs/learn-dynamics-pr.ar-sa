@@ -7,18 +7,18 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 63196ca98acd66b72ae2f785f7744b7f66bd16f6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 08e20c54b604d166cd3494e98c6a134b08124043
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749663"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581098"
 title: وحدة برنامج نجاح العميل FastTrack لتطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)] \nتهدف خدمة Microsoft FastTrack إلى تسهيل تنفيذ مشروعك من خلال تقديم إرشادات حول أفضل الممارسات والإجابة على أسئلتك الإرشادية من موارد Microsoft الهندسية، ويلتزمون بجعل تجربتك مع Dynamics 365 وتطبيقات التمويل والعمليات ناجحة بشكل كبير.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على ميزات أن تكون جزءاً من برنامج FastTrack لنجاح التنفيذ. \n- اكتشف مستوى المشاركة من فريق Microsoft FastTrack مع مشروعك. \n- حدد الأدوار المطلوبة لتنفيذ التمويل والعمليات.  \n- تعرف على الموارد التي ستدعم مشروعك. \n- تعرف على دور مهندس الحلول الذي نظمته FastTrack.\n"
 prerequisites: >
   - المعرفة الأساسية لعمليات تنفيذ العملاء
-iconUrl: /learn/achievements/fasttrack-customer-success-program-finance-operations.svg
+iconUrl: /training/achievements/fasttrack-customer-success-program-finance-operations.svg
 levels:
 - intermediate
 roles:

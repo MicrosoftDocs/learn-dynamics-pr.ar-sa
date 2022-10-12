@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6200bd64a40fe88eb6210d5ecaed49e42a8e3efd
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 61be2ec0819adf058a3a04bca046f1671c72fc2f
+ms.sourcegitcommit: 73f955f564cef32287613fadd055cc67172f0941
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548698"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9568389"
 ---
 يحتوي كل مستعرض حديث تقريباً على ملحق تصحيح أخطاء يدعم التقاط نسبة استخدام الشبكة وتحليل محتوى الصفحة وتصحيح البرامج النصية للعميل. مجموعات الأدوات التالية هي تلك التي يتم استخدامها بشكل متكرر لإجراء عمليات تصحيح الأخطاء:
 
@@ -28,7 +28,7 @@ ms.locfileid: "8548698"
 
 وبدلاً من ذلك، يمكنك مراعاة كتابة الرسائل إلى وحدة التحكم. وفيما يأتي إحدى الدالات الصغيرة التي يمكنك إضافتها إلى المكتبات للمساعدة على إرسال أي رسائل تريد عرضها لوحدة التحكم عندما تكون مفتوحة.
 
-```csharp
+```javascript
 function writeToConsole(message)
 {
  if (typeof console != 'undefined') {

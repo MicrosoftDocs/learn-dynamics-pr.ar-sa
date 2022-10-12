@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: 7d5903de63b610443cb4ab897d159726a91caea2c2164e591612d463f5f90acb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1bf55d1b8ad3193cdca61fa5e98cbad5b81f9f56
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120271"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581718"
 ---
-ستحتاج إلى تثبيت مشروع تطبيقات Finance and Operations والبيئة من خلال Lifecycle Services (LCS) لأداء هذا التدريب. ستحتاج أيضاً إلى حساب للوصول إلى صفحة LCS.
+ستحتاج إلى تثبيت مشروع تطبيقات التمويل والعمليات والبيئة من خلال Lifecycle Services لأداء هذا التدريب. ستحتاج أيضاً إلى حساب للوصول إلى صفحة Lifecycle Services.
 
 ## <a name="scenario"></a>السيناريو
-تم تخويل مطور تطبيقات Finance and Operations بالتحقق من أداة مراقبة البيئة في LCS، للتأكد من سلاسة عمل البيئة.
+تم تخويل مطور تطبيقات التمويل والعمليات بالتحقق من أداة مراقبة البيئة في Lifecycle Services، للتأكد من سلاسة عمل البيئة.
 
-1.  في المستعرض الخاص بك، انتقل إلى صفحة **LCS** الرئيسية ([https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true)).
-2.  سجّل الدخول باستخدام بيانات اعتمادك الخاصة بـ LCS.
+1.  في المستعرض الخاص بك، انتقل إلى صفحة **Lifecycle Services** الرئيسية ([https://lcs.dynamics.com/v2](https://lcs.dynamics.com/v2/?azure-portal=true)).
+2.  قم بتسجيل الدخول باستخدام بيانات اعتماد Lifecycle Services الخاصة بك.
 3.  انتقل إلى مشروعك على الجانب الأيمن من الصفحة.
 4.  في القسم **البيئات** من الصفحة، حدد اسم البيئة الخاصة بك.
 5.  في الصفحة **تفاصيل البيئة**، حدد **مراقبة البيئة** في علامة التبويب السريعة **مراقبة**.

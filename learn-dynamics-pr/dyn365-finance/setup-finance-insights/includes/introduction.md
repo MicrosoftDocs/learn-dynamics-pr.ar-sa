@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: d3a10eabeed1961d4167c8ea7477198103a4fb93
-ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+ms.openlocfilehash: 6f05e4763a4c52d644f8130d40337854c233f23b
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "8716033"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537734"
 ---
 إن Finance Insights عبارة عن أداة تنبؤ قوية يمكنها مساعدة مؤسستك على توقع دفعات العملاء والتنبؤ بالتدفقات النقدية وإنشاء مقترحات الموازنة. الغرض من Finance Insights هو استخدام التعلم الآلي الذكي لتسهيل عمل المستخدمين ومنحهم الأدوات اللازمة لاتخاذ قرارات صائبة بشأن مؤسستهم. 
 
-تنقلك هذه الوحدة النمطية عبر الخطوات التالية لإعداد Finance Insights في Microsoft Dynamics 365 Finance:
+تنقلك هذه الوحدة النمطية عبر الخطوات التالية لإعداد Finance Insights في Finance 365 Microsoft Dynamics:
 
-- إعداد Microsoft Azure Active Directory (Azure AD).
+- إعداد Azure Active Directory Microsoft (Azure AD).
 - تمكين Microsoft Power Platform.
-- إعداد Finance Insights في Microsoft Dynamics 365 Lifecycle Services.
+- إعداد Finance Insights في Lifecycle Services Microsoft Dynamics.
 - تمكين توقعات دفع العميل والتنبؤ بالتدفقات النقدية ومقترحات الموازنة ضمن Dynamics 365 Finance.
 
 لاستخدام الوظيفة، ستحتاج إلى تثبيت الوظيفة الإضافية Finance Insights في بيئة Dynamics 365 Finance. للقيام بذلك، ستحتاج إلى المتطلبات التالية:

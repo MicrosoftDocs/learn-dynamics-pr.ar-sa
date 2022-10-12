@@ -1,20 +1,20 @@
 ---
-ms.openlocfilehash: 2a927ad5f075dbe531a6f495d883b8d87c58d8b9
-ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+ms.openlocfilehash: 15e07c59b357755fff3f976e1b8d3020799916d3
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/26/2022
-ms.locfileid: "8633645"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577798"
 ---
 يمكن أن تختلف عملية تثبيت الكتابة المزدوجة وإعدادها، اعتماداً على السيناريو ونقطة البداية للتنفيذ الفردي. من أجل الاتساق، افترض أنك تستوفي كافة المتطلبات الأساسية لبيئة تطبيقات التمويل والعمليات وأن بيئات Dataverse قد اكتملت. افترض أيضاً أن كل بيئة متاحة وتعمل وجاهزة للربط. 
 
 لمزيد من المعلومات، راجع [إرشادات إعداد الكتابة المزدوجة](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/connection-setup/?azure-portal=true).
 
-إذا كنت تقوم بنشر بيئة تطبيقات التمويل والعمليات مالية وبيئة Dataverse جديدة، فيمكنك استخدام نشر بيئة متكاملة. سيسمح لك هذا النشر بإعداد الكتابة المزدوجة مباشرةً من Lifecycle Services في Microsoft Dynamics ‏365، والتي ستكون تجربة سلسة لعملائك. 
+إذا كنت تقوم بنشر بيئة جديدة لتطبيقات التمويل والعمليات وبيئة Dataverse جديدة، فيمكنك استخدام عملية نشر بيئة متكاملة. ستسمح لك عملية النشر هذه بإعداد الكتابة المزدوجة مباشرةً من Microsoft Dynamics Lifecycle Services، الأمر الذي يشكّل تجربة سلسة لعملائك. 
 
 لمزيد من المعلومات، راجع [تمكين تكامل Microsoft Power Platform](/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-power-platform-integration/?azure-portal=true).
 
-إذا كانت لديك بيئة تطبيقات التمويل والعمليات حالية وبيئة Dataverse حالية مع قاعدة بيانات، فستقوم أولاً بإعداد الارتباط من خلال بيئة تطبيقات التمويل والعمليات. انتقل إلى مساحة العمل **إدارة البيانات** وحدد لوحة **الكتابة المزدوجة** لبدء عملية الربط. 
+إذا كانت لديك بيئة موجودة لتطبيقات التمويل والعمليات وبيئة Dataverse موجودة مع قاعدة بيانات، فستقوم أولاً بإعداد الارتباط من خلال بيئة تطبيقات التمويل والعمليات. انتقل إلى مساحة العمل **إدارة البيانات** وحدد الإطار المتجانب **الكتابة المزدوجة** لبدء عملية الربط. 
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة تعرض رابطاً جديداً بالبيئة.](../media/dual-write-install-link.png)](../media/dual-write-install-link.png#lightbox)

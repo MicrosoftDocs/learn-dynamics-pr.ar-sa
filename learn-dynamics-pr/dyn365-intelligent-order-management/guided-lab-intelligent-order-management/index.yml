@@ -7,17 +7,17 @@ metadata:
   author: oscarfranco
   ms.author: oscarfranco
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3dde14f0559d4c42eb9e5639d2d344426dca2df5
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: da3ce00054f5fbdfce2f18060186214b91669015
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750519"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504145"
 title: معمل موجه لـ Dynamics 365 Intelligent Order Management
 summary: "[!include[](../includes/module-banner.md)] \nتوفر Dynamics 365 Intelligent Order Management مجموعة من الإمكانات لمساعدة مؤسستك على تنسيق وتوحيد وتحسين الطلبات التي تم التقاطها في مزيج من القنوات والأنظمة من خلال نقطة تنسيق معالجة الأوامر. سيؤدي التوحيد والتحسين، جنباً إلى جنب مع الذكاء المدمج، إلى تحسين سرعة التسليم مع تقليل التكاليف. نتيجة لذلك، ستحقق المؤسسات تحسين رضا العملاء وإجمالي هامش الربح أعلى. من خلال Intelligent Order Management، يمكن للعملاء إدارة الطلبات حتى تنفيذها. تمكّن هذه الإمكانات المؤسسات من تنسيق تدفقات الطلبات عبر الأنظمة الأساسية والتطبيقات المختلفة.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء موفر.\n- إعداد مراجع اتصال النظام الأساسي.\n- إعداد اتصالات Microsoft Power Automate.\n- إضافة مثيل موفر.\n- إعداد السياسات.\n- إعداد عمليات سير عمل تنسيق معالجة الأوامر.\n- إعداد تعيينات المعرفات الداخلية والخارجية.\n- اختبر عملية الطلب من طرف إلى طرف في وقت التشغيل. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء موفر.\n- إعداد مراجع اتصال النظام الأساسي.\n- إعداد اتصالات Microsoft Power Automate.\n- إضافة مثيل موفر.\n- إعداد السياسات.\n- إعداد عمليات سير عمل تنسيق معالجة الأوامر.\n- إعداد تعيينات المعرفات الداخلية والخارجية.\n- اختبر عملية الطلب من طرف إلى طرف في وقت التشغيل. \n"
 prerequisites: الفهم الأساسي لـ Dynamics 365 Intelligent Order Management
-iconUrl: /learn/achievements/guided-lab-intelligent-order-management.svg
+iconUrl: /training/achievements/guided-lab-intelligent-order-management.svg
 levels:
 - intermediate
 roles:

@@ -3,17 +3,17 @@ uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-financ
 title: مصمم مصنف Excel
 metadata:
   title: مصمم مصنف Excel
-  description: توضح هذه الوحدة مصمم مصنفات Excel في Finance and Operations.
+  description: توضح هذه الوحدة مصمم مصنفات Excel في التمويل والعمليات.
   ms.date: 08/10/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5c07dddfd303f33bc264c0b96cec463d3f0f3482
-  ms.sourcegitcommit: 9dbaf1f740d523335d1acbad28c8488652a81ff0
+  ms.openlocfilehash: 12d4d4a973eaa3de6110b2a427c42c3e521b57ce
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/10/2022
-  ms.locfileid: "9247578"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576789"
 durationInMinutes: 13
 content: >-
   [!include[](../includes/unit-banner.md)]

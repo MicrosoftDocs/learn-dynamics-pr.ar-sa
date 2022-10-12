@@ -3,17 +3,17 @@ uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.03-environments
 title: توفير البيئات وإدارتها
 metadata:
   title: توفير البيئات وإدارتها
-  description: تعرف على كيفية توفير البيئات وإدارتها عن طريق استخدام Lifecycle Services في تطبيقات Finance and Operations.
+  description: تعرف على كيفية توفير البيئات وإدارتها عن طريق استخدام Lifecycle Services في تطبيقات التمويل والعمليات.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 710676feebdacbe07cb4234d7b5006dea6428320
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1fd274395d7501d9bb42d07173c3a5a9ca3a7598
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361435"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578128"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,17 +1,17 @@
 ---
-ms.openlocfilehash: 84b948bfe1ae94bfa11b110cbe5cb348d2399909
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 4c5b163933e6b7a65438170d43070664cd341a92
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7364756"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9506674"
 ---
 يمكن للأدوار المختلفة داخل المؤسسة استخدام أوامر الشراء لتحديث حالة أوامر الشراء وتعقبها. 
 
 على سبيل المثال، يستخدم مندوب الشراء أوامر الشراء لإنشاء قائمة بالمنتجات التي سيتم شراؤها من مورد معين، ثم يقوم بتسجيل المعلومات في أمر الشراء. ثم يرسل مندوب الشراء أمر الشراء إلى المورد المطلوب مراجعته وقبوله. بعد مراجعة المورد لأمر الشراء وقبوله، يقوم مندوب الشراء بتأكيده.
 
 وكحل بديل، يمكن إجراء هذه العملية من خلال **مدخل تعاون المورد**.
-لمزيد من المعلومات حول هذا المدخل، راجع [تكوين تعاون المورد وإدارته في Dynamics 365 Supply Chain Management](/learn/modules/configure-manage-vendor-collaboration-in-dynamics-365-finance-ops/?azure-portal=true).
+لمزيد من المعلومات حول هذا المدخل، راجع [تكوين تعاون المورد وإدارته في Dynamics 365 Supply Chain Management](/training/modules/configure-manage-vendor-collaboration-in-dynamics-365-finance-ops/?azure-portal=true).
 
 يمكن لعامل المستودع أيضاً استخدام أمر شراء للتحقق من حالة حركات المخزون والكمية الفعلية، وترحيل إيصال استلام المنتج عند استلام البضائع أو الخدمات من المورد. يمكن لموظف المحاسبة استخدام أمر شراء لإدخال فاتورة وإنشائها بحيث يمكن إجراء الدفع للمورد مقابل المنتجات المقدمة.
 
@@ -71,7 +71,7 @@ ms.locfileid: "7364756"
 
 -   **تم الانتهاء** - هذه هي حالة الموافقة النهائية.
 
-يمكنك معرفة المزيد حول كيفية إنشاء مهام سير العمل والعمل معها في الوحدة النمطية [العمل مع مهام سير العمل في تطبيقات Finance and Operations](/learn/modules/create-use-workflows-finance-operations/?azure-portal=true).
+يمكنك معرفة المزيد حول كيفية إنشاء مهام سير العمل والعمل معها في وحدة [العمل مع مهام سير العمل في تطبيقات التمويل والعمليات](/training/modules/create-use-workflows-finance-operations/?azure-portal=true).
 
 ### <a name="purchase-order-document-statuses"></a>حالات مستند أمر الشراء
 

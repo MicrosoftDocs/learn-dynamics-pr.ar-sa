@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-services-model-driven-apps.configure-mailboxes
+title: تكوين صناديق البريد
+metadata:
+  title: تكوين صناديق البريد
+  description: تعلم تكوين صناديق البريد.
+  ms.date: 09/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 035389fec11600893bb7b538b3e56fd99a901e3c
+  ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9584598"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/configure-mailboxes.md)]

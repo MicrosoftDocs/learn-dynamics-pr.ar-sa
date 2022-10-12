@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.get-started-with-workflows-in-dynamics-365.badge
 metadata:
-  title: 'Microsoft Badge: الشروع في العمل بإصدار بدء مهام سير العمل في Dynamics 365 forإشراك العملاء بواسطة Microsoft'
-  ms.openlocfilehash: 3c7c8191e804e2579d2cbc2b411c344205c3987a
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  title: 'Microsoft Badge: الشروع في العمل بإصدار بدء مهام سير العمل في Dynamics 365 for Customer Engagement بواسطة Microsoft'
+  ms.openlocfilehash: 4901fd9b49455b07e3cd9fe69c79a9d03fb6dc2b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772861"
-socialImageUrl: /learn/achievements/get-started-with-workflows-in-dynamics-365-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518071"
+socialImageUrl: /training/achievements/get-started-with-workflows-in-dynamics-365-social.png

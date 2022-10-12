@@ -1,11 +1,11 @@
 ### YamlMime:AchievementDetail
 achievementUid: learn.wwl.navigate-dynamics-apps-crm.badge
 metadata:
-  title: 'Microsoft Badge: تم إصدار التنقل فِي تطبيقات Dynamics 365إشراك العملاء من خلال Microsoft'
-  ms.openlocfilehash: 31e3b9344009cf7706c5301c42f6d39bc2fd2151
-  ms.sourcegitcommit: c9904780d8cdfe162d53a6827a4430761fbe63e0
+  title: 'Microsoft Badge: تم إصدار التنقل فِي تطبيقات Dynamics 365 customer engagement من خلال Microsoft'
+  ms.openlocfilehash: 9c104fe1298061f81cb1d5a9e7826852e5fa8d8d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/01/2022
-  ms.locfileid: "9391990"
-socialImageUrl: /learn/achievements/navigate-dynamics-customer-engagement-apps-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510451"
+socialImageUrl: /training/achievements/navigate-dynamics-customer-engagement-apps-social.png

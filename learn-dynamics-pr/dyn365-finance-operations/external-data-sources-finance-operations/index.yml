@@ -2,19 +2,19 @@
 uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations
 metadata:
   title: إدارة مصادر البيانات باستخدام مخازن البيانات الخارجية في تطبيقات التمويل والعمليات
-  description: غالباً ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات التمويل والعمليات، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل.
+  description: غالبًا ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات التمويل والعمليات، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل.
   ms.date: 04/29/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b9a4b317776c45152263120da352020c313ecd23
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a5fb9390452c67f16ca0dfcab7e471ed33cb5689
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749672"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573808"
 title: إدارة مصادر البيانات باستخدام مخازن البيانات الخارجية في تطبيقات التمويل والعمليات
-summary: "[!include[](../includes/module-banner.md)]\n\nغالباً ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات التمويل والعمليات، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل. \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nغالبًا ما يحتاج المسؤولون إلى الوصول إلى بياناتهم من تطبيقات التمويل والعمليات، لإجراء تحليلات تساعد في ضمان استيفاء معايير معينة أو مقاييس عمل. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على المفاهيم الأساسية لإحضار قاعدة البيانات الخاصة بك (BYOD) ومزاياها مقارنةً بمخزن الكيانات. \n- إنشاء مصادر بيانات مخصصة وإدارتها.\n- تعرف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل \n"
 prerequisites: >
   - الفهم المتقدم لتطبيقات التمويل والعمليات
@@ -24,7 +24,7 @@ prerequisites: >
   - الفهم الأساسي للبرمجة الموجهة للكائنات
 
   - الفهم الأساسي لهياكل SQL وقواعد البيانات
-iconUrl: /learn/achievements/external-data-sources-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/external-data-sources-dynamics-365-finance-operations.svg
 levels:
 - advanced
 roles:

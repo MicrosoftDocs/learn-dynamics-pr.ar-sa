@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 46023709f8900556d78a26d18a635efc11a98056
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 14709045f97b789788584610537a7b886e1eb5ce
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7333422"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9573628"
 ---
 تتيح التقارير المالية للمهنيين الماليين والتجاريين إنشاء البيانات المالية والحفاظ عليها وعرضها. ويتفوق على التقارير التقليدية لمساعدتك على تصميم أنواع متعددة من التقارير بشكلٍ فعال.
 
@@ -23,7 +23,7 @@ ms.locfileid: "7333422"
 - الأقسام
 - مجموعات من الاثنين
 
-يتم نشر قاعدة بيانات التقارير المالية في قاعدة بيانات SQL Azure الخاصة بها على نفس خدمة SQL Azure مثل مثيل تطبيقات Finance and Operations. هذا يعني أن قاعدة البيانات مكوّنة مسبقاً عند نشر تطبيقات Finance and Operations وترتبط تلقائياً بقواعد البيانات المتاحة حتى يتمكن مصمم التقارير المالية من الاتصال بها.
+يتم نشر قاعدة بيانات التقارير المالية في قاعدة بيانات SQL Azure الخاصة بها على نفس خدمة SQL Azure مثل مثيل تطبيقات التمويل والعمليات. هذا يعني أن قاعدة البيانات مكوّنة مسبقاً عند نشر تطبيقات التمويل والعمليات وترتبط تلقائياً بقواعد البيانات المتاحة حتى يتمكن مصمم التقارير المالية من الاتصال بها.
 
 ## <a name="report-designer"></a>مصمم التقارير
 
@@ -61,14 +61,14 @@ ms.locfileid: "7333422"
 - دليل الحسابات
 - دفتر الأستاذ
 
-لمزيد من المعلومات، راجع الوثائق التالية ومحتوى Microsoft Learn:
+لمزيد من المعلومات، راجع وثائق Microsoft Learn التالية ومحتوى التدريب:
 
 - [التقويمات المالية، والسنوات المالية، والفترات‬ الزمنية](/dynamics365/finance/budgeting/fiscal-calendars-fiscal-years-periods/?azure-portal=true)
 - [تخطيط دليل الحسابات](/dynamics365/finance/general-ledger/plan-chart-of-accounts/?azure-portal=true)
-- [تكوين العملات في Dynamics 365 Finance](/learn/modules/configure-currencies-dyn365-finance/?azure-portal=true)
-- [إنشاء التقويمات والسنوات والفترات المالية في Dynamics 365 Finance](/learn/modules/create-fiscal-calendars-years-periods-dyn365-finance/?azure-portal=true)
-- [تكوين مخطط الحسابات في Dynamics 365 Finance](/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true)
-- [تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance](/learn/modules/configure-ledgers-journals-dyn365-finance/?azure-portal=true)
+- [تكوين العملات في Dynamics 365 Finance](/training/modules/configure-currencies-dyn365-finance/?azure-portal=true)
+- [إنشاء التقويمات والسنوات والفترات المالية في Dynamics 365 Finance](/training/modules/create-fiscal-calendars-years-periods-dyn365-finance/?azure-portal=true)
+- [تكوين دليل الحسابات في Dynamics 365 Finance](/training/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true)
+- [تكوين دفاتر الأستاذ ودفاتر اليومية في Dynamics 365 Finance](/training/modules/configure-ledgers-journals-dyn365-finance/?azure-portal=true)
 
 يمكنك البحث عن قائمة **التقارير المالية** في المواقع التالية في Dynamics 365 Finance:
 
@@ -133,7 +133,7 @@ ms.locfileid: "7333422"
 يمكن أن يحتوي تعريف الصف على ما يصل إلى 20000 من صفوف الأبعاد المالية ويمكن أن يتضمن المعلومات التالية:
 
 - نص وصفي يضيف معنى للتقرير عن طريق إنشاء عناوين الأقسام والأسطر والمسافات، مثل النقدية أو إجمالي الإيرادات.
-- ارتباطات إلى البيانات المالية، والتي يمكن أن تتضمن قيم الأبعاد في تطبيقات Finance and Operations.
+- ارتباطات إلى البيانات المالية، والتي يمكن أن تتضمن قيم الأبعاد في تطبيقات التمويل والعمليات.
 - إجماليات الصفوف والمعادلات التي تستند إلى البيانات المالية المرتبطة.
 
 عادةً ما يحتوي كل صف في تعريف صف على أحد أنواع المعلومات التالية:

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: a8140d75cc714d7ef8942cccfd78ebc5f67962ce
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 840a8ec483e9cdd9228eb30371cd8088cca50549
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350550"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582480"
 ---
-في تطبيقات Finance and Operations، يمكنك تنفيذ المهام التالية باستخدام التقارير والاستعلامات:
+في تطبيقات التمويل والعمليات، يمكنك تنفيذ المهام التالية باستخدام التقارير والاستعلامات:
 
 - تصدير تقارير التطبيق كمستندات Word.
 - خيارات التصدير أثناء معاينة المستندات.

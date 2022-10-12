@@ -7,24 +7,24 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4038e81f359be3b6a753ad8170d8f215959087ef
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 5db24eed90f840b92f6a5143b2400d6c3212f4c4
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8754517"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9537636"
 title: توسيع Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيوفر النظام الأساسي لـ Dynamics 365 Commerce عدة تطوير برامج (SDK) غنية للمطورين لتخصيص وإضافة ميزات جديدة إلى المنتج. يوفر Commerce أيضًا مكتبة وحدات. توفر مكتبة الوحدة مجموعة من الوحدات الجاهزة وإجراءات البيانات والسمات التي يمكنك استخدامها لموقع التجارة الإلكترونية الخاص بك.   \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف المكونات المختلفة لـ Dynamics 365 Commerce. \n- تعرف على كيفية توسيع مكونات Commerce المختلفة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف المكونات المختلفة لـ Dynamics 365 Commerce. \n- تعرف على كيفية توسيع مكونات Commerce المختلفة.\n"
 prerequisites: >
   - الفهم العام لـ Microsoft Dynamics 365 Commerce
 
   - الفهم العام للوظيفة الإضافية للتجارة الإلكترونية لـ Microsoft Dynamics 365 Commerce
 
-  - نظرة عامة على مكونات توسيع Dynamics 365 Commerce
+  - نظرة عامة على مكونات ملحق Dynamics 365 Commerce
 
-  - المعرفة الأساسية بـ Dynamics 365 Lifecycle Services
-iconUrl: /learn/achievements/extend-commerce.svg
+  - المعرفة الأساسية بـ Dynamics Lifecycle Services
+iconUrl: /training/achievements/extend-commerce.svg
 levels:
 - advanced
 roles:

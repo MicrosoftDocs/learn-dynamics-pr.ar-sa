@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0dc1a78b62259cacaf0f2be9168dd2a5d5eaa40a5176efc1d2f7fb220ca82a51
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ce389d71f3fc67eca0a3b54166b28e64b891b7a1
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7052003"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536289"
 ---
 
 بصفتك مساعداً جديداً لمصمم المنتج في شركة USMF، فقد تلقيت مواصفات جديدة في جانب الحاوية. لم يتم إعداد صنف لهذه المواصفات. ولذلك، تحتاج إلى إنشاء قائمة مكونات صنف بسيطة مع بنود المكونات.
@@ -18,11 +18,11 @@ ms.locfileid: "7052003"
 ## <a name="before-you-begin"></a>قبل البدء
 
 
-لتحقيق الاستفادة القصوى من هذا التمرين، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).
+لتحقيق الاستفادة القصوى من هذا التمرين، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="to-create-the-bom-follow-these-steps"></a>لإنشاء قائمة مكونات الصنف (BOM)، اتبع الخطوات التالية.
                              
-1. في شركة USMF، انتقل إلى **إدارة معلومات المنتج > قوائم مكونات الأصناف والمعادلات > قوائم مكونات الأصناف**.
+1. في شركة USMF، انتقل إلى **إدارة معلومات المنتجات > قوائم مكونات الأصناف والمعادلات > قوائم مكونات الأصناف**.
 2.  حدد **جديد‏‎**.
 3.  في حقل **الاسم**، اكتب **سماعة عالية الجودة**.
 4.  في حقل **الموقع**، حدد **1**.

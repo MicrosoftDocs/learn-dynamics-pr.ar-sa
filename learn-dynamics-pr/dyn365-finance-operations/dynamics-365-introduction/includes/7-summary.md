@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 415394e08035e260c301ca343ad8c9a722631102
-ms.sourcegitcommit: 85778b3076a453a43a600b3490283993430edcfb
+ms.openlocfilehash: a463d2fb844547ed281d5a34b0498fa022d5ae2e
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "7497048"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574958"
 ---
-في هذه الوحدة يمكنك التعرف على بعض الإمكانات والمزايا الأساسية المتوفرة كجزء من Microsoft Dynamics 365. تضمنت هذه المقدمة مناقشة حول التحول الرقمي والحاجة إلى إنشاء تطبيقات أعمال معيارية حديثة تعمل معاً على نظام أساسي واحد. بالإضافة إلى ذلك، تعرفت على تطبيقات الأعمال المختلفة المتاحة كجزء من تطبيقات Customer Engagement، وتطبيقات Finance and Operations وتطبيقات Microsoft Power Platform.
+في هذه الوحدة يمكنك التعرف على بعض الإمكانات والمزايا الأساسية المتوفرة كجزء من Microsoft Dynamics 365. تضمنت هذه المقدمة مناقشة حول التحول الرقمي والحاجة إلى إنشاء تطبيقات أعمال معيارية حديثة تعمل معاً على نظام أساسي واحد. بالإضافة إلى ذلك، تعرفت على تطبيقات الأعمال المختلفة المتاحة كجزء من تطبيقات Customer Engagement وتطبيقات التمويل والعمليات وMicrosoft Power Platform.
 
 
 ## <a name="resources"></a>الموارد
@@ -38,7 +38,7 @@ ms.locfileid: "7497048"
 
 - اقرأ وثائق [Microsoft Dynamics 365 Field Service](/dynamics365/field-service/user-guide/?azure-portal=true) لمعرفة المزيد.
 
-### <a name="finance-and-operations-apps"></a>تطبيقات Finance and Operations
+### <a name="finance-and-operations-apps"></a>تطبيقات التمويل والعمليات
 
 - اقرأ وثائق [Microsoft Dynamics 365 Human Resources](/dynamics365/talent/talent-welcome/?azure-portal=true) لمعرفة المزيد.
 

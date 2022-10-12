@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5b3f1793ce2410117630efb0a2a8d1414a3a1de6
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: 4492fa96357d19c577a796f70d51a520416d390c
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021394"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9507695"
 ---
 لاستدعاء إحدى واجهات API لحماية الحساب في Dynamics 365 Fraud Protection، يجب أولاً تحديد نقطة النهاية الصحيحة من مستند Swagger في واجهة API في [Dynamics 365 Fraud Protection](/fraud-protection-rest/api/fraud-protection-rest).
 (يمكنك الرجوع إلى التمييز الأصفر في لقطة الشاشة التالية).
@@ -51,7 +51,7 @@ ms.locfileid: "9021394"
     >
     > إذا لم تكن قد طبقت بصمة الجهاز حتى الآن، فيمكنك المتابعة مع باقي الخطوات لمعرفة كيفية الحصول على نتيجة بدون بيانات بصمة الجهاز. يمكنك تخطي كتلة بصمة الجهاز تماماً في الوقت الحالي.
     >
-    > تُرجع واجهات APIs لحماية الحساب أعلى الدرجات (999) في حال عدم التكامل مع بصمة الجهاز. ضع في اعتبارك أن بصمة الجهاز هي شرط لتلقي أي نتائج مفيدة من نموذج مخاطر حماية الحساب في Dynamics 365 Fraud Protection. لمزيد من المعلومات، راجع [تطبيق بصمة الجهاز في Dynamics 365 Fraud Protection](/learn/modules/device-fingerprint-fraud-protection/?azure-portal=true).
+    > تُرجع واجهات APIs لحماية الحساب أعلى الدرجات (999) في حال عدم التكامل مع بصمة الجهاز. ضع في اعتبارك أن بصمة الجهاز هي شرط لتلقي أي نتائج مفيدة من نموذج مخاطر حماية الحساب في Dynamics 365 Fraud Protection. لمزيد من المعلومات، راجع [تطبيق بصمة الجهاز في Dynamics 365 Fraud Protection](/training/modules/device-fingerprint-fraud-protection/?azure-portal=true).
 
 ## <a name="sample-payload"></a>عينة الحمولة
 

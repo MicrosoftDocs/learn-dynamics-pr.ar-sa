@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 753678fa9b93ec41d37ddaccb8496c263a903b71456070b2cc255ad84a44cbae
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ae02faa34dce506d584b8bc16e6693d5623a84a3
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7136833"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577738"
 ---
-يمكنك تطوير برامج Windows PowerShell النصية للتفاعل مع تطبيقات Finance and Operations واستهلاك وظائف الإدارة.
+يمكنك تطوير برامج Windows PowerShell النصية للتفاعل مع تطبيقات التمويل والعمليات واستهلاك وظائف الإدارة.
 
 يُعد Windows PowerShell بمثابة سطر أوامر shell قائمة على المهام ولغة برمجة نصية مبنية على .NET. يساعد PowerShell مسؤولي النظام والمستخدمين المتميزين في تنفيذ المهام التلقائية التي تدير أنظمة التشغيل (Linux وmacOS وWindows) والعمليات بشكل سريع.
 

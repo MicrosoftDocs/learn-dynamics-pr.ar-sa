@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 415078c9c9d6d777034c7e4f1401452fd937abb2
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 6e160035d32efd57cb26bb56f554cfb3b9006fdc
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749025"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577318"
 title: مقارنة عمليات التكامل في تطبيقات التمويل والعمليات باستخدام Dynamics AX 2012
 summary: "[!include[](../includes/module-banner.md)] \nإذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات التمويل والعمليات، فينبغي أن تفهم سيناريوهات ومفاهيم تكامل Dynamics 365 المتاحة.    \n"
-abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- الفروق في بنية التكامل بين Dynamics AX 2012 تطبيقات التمويل والعمليات.\n- مفاهيم تكامل Dynamics 365 والأنظمة الأساسية والأدوات. \n- أحداث الأعمال لتمكين تكامل عمليات الأعمال.\n- أنماط وسيناريوهات التكامل\n- العوامل التي يجب مراعاتها عند تنفيذ التكامل.\n"
+abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- الفروق في بنية التكامل بين Dynamics AX 2012 وتطبيقات التمويل والعمليات.\n- مفاهيم تكامل Dynamics 365 والأنظمة الأساسية والأدوات. \n- أحداث الأعمال لتمكين تكامل عمليات الأعمال.\n- أنماط وسيناريوهات التكامل\n- العوامل التي يجب مراعاتها عند تنفيذ التكامل.\n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
-  - معرفة تطبيقات التمويل والعمليات
-iconUrl: /learn/achievements/compare-integration-ax-2012-finance-operations.svg
+  - المعرفة بتطبيقات التمويل والعمليات
+iconUrl: /training/achievements/compare-integration-ax-2012-finance-operations.svg
 levels:
 - intermediate
 roles:

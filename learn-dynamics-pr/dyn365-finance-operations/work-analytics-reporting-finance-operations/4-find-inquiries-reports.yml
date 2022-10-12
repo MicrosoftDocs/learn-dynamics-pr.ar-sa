@@ -3,17 +3,17 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.4-
 title: البحث عن الاستعلامات والتقارير
 metadata:
   title: البحث عن الاستعلامات والتقارير
-  description: توضح هذه الوحدة كيفية البحث عن الاستعلامات والتقارير في تطبيقات Finance and Operations.
+  description: توضح هذه الوحدة كيفية العثور على الاستعلامات والتقارير في تطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8b41479a935100cce314d59bc3a04c8695ba7ea1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 29074aa708d92109a8d92475f727cae4afd3933c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359738"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577958"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

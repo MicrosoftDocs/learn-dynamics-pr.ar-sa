@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fbb32fd24157e0e981d054c60cf8f5f3f99ecd50
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: 41a0f2f135dc16d0f48b381c7857bb58dcee969e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9063795"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520262"
 title: الشروع في العمل مع التوجيه الموحد في Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nلضمان رضا العملاء عن الخدمة المقدمة، ستقوم العديد من المؤسسات بربط عناصر العمل الواردة، مثل الحالات أو المكالمات الهاتفية أو طلبات الدردشة، بالمندوب الأكثر تأهيلاً للمساعدة في كل حاجة محددة.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على معلومات حول التوجيه الأساسي.\n- إعداد التوجيه الموحد.\n- إنشاء إعداد المستخدم وإدارته.\n- التعرف على قوائم الانتظار وتدفقات العمل.\n"
 prerequisites: المعرفة الأساسية بتطبيق خدمة العملاء
-iconUrl: /learn/achievements/get-started-unified-routing.svg
+iconUrl: /training/achievements/get-started-unified-routing.svg
 levels:
 - intermediate
 roles:

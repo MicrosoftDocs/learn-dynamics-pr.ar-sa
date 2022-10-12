@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 1850f317ba2998b306afaebf94867ddc1dc43842
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: b5114be8b80b94a38f19878edb358ae6b1459d14
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9299309"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9538004"
 ---
-لأداء التمارين في هذه الوحدة، يجب عليك استخدام البيانات التجريبية للكيان القانوني USRT والوصول إلى منشئ موقع التجارة الإلكترونية من خلال LCS. 
+لأداء التمارين في هذه الوحدة، يجب عليك استخدام البيانات التجريبية للكيان القانوني USRT والوصول إلى منشئ موقع التجارة الإلكترونية من خلال Lifecycle Services. 
 
 ## <a name="scenario"></a>السيناريو
 

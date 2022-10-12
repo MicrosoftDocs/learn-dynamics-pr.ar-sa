@@ -9,21 +9,21 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-developer
-  ms.openlocfilehash: c076ea04ecf616ed89c9b07182ba97ab52965a3e
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 189b54bdb9ea34b3686e304b4fa63282407a8da5
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9364166"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508598"
 title: مقدمة لتوسيع Microsoft Power Platform
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   ستركز هذه الوحدة على هيكل الحل الأساسي من منظور فني وخيارات قابلية التوسعة الموجودة. كما ستتناول أيضاً العنصر المهم دائماً لتطوير Microsoft Power Platform ألا وهو عملية اتخاذ القرار لتحديد حالات استخدام التكوين مقابل التعليمة البرمجية.
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تحديد العناصر التي تكوّن Microsoft Power Platform من الناحية المعمارية. \n- التعرُّف على مجالات القابلية للتوسعة المتوفرة لتخصيص Microsoft Power Platform من خلال التعليمة البرمجية.\n- اكتشاف الأساليب المختلفة لسيناريوهات العمل الشائعة فيما يتعلق بتحقيق القابلية للتوسعة عن طريق التكوين مقابل التعليمة البرمجية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد العناصر التي تكوّن Microsoft Power Platform من الناحية المعمارية. \n- التعرُّف على مجالات القابلية للتوسعة المتوفرة لتخصيص Microsoft Power Platform من خلال التعليمة البرمجية.\n- اكتشاف الأساليب المختلفة لسيناريوهات العمل الشائعة فيما يتعلق بتحقيق القابلية للتوسعة عن طريق التكوين مقابل التعليمة البرمجية. \n"
 prerequisites: الفهم الأساسي لـ Microsoft Power Platform، وخبرة في تطوير البرامج على Microsoft stack، وVisual Studio، ويُفضّل خبرة في إدارة الحلول في Azure.
-iconUrl: /learn/achievements/introduction-power-platform-extensibility-model.svg
+iconUrl: /training/achievements/introduction-power-platform-extensibility-model.svg
 levels:
 - advanced
 roles:

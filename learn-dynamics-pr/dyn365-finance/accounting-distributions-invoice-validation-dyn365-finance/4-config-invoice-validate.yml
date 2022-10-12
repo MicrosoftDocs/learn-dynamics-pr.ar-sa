@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/tasks/set-up-accounts-payable-invoice-matching-validation
-  ms.openlocfilehash: 0d9ad2ba350e079380cac393c29a599b58dec206
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/tasks/set-up-accounts-payable-invoice-matching-validation
+  ms.openlocfilehash: 6b07b21949c91c14e9328cd1d52bbdf6defc67bb
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363639"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559185"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

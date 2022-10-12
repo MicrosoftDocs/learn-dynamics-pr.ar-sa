@@ -3,17 +3,17 @@ uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations.2-data
 title: تحديد متطلبات مصدر بيانات التقرير للمصادر الخارجية
 metadata:
   title: تحديد متطلبات مصدر بيانات التقرير للمصادر الخارجية
-  description: تعرف على كيفية تحديد متطلبات مصدر بيانات التقرير للمصادر الخارجية للاستخدام في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تحديد متطلبات مصدر بيانات التقرير للمصادر الخارجية لاستخدامها في تطبيقات التمويل والعمليات.
   ms.date: 04/29/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 964b88d60307f835c38fcd01b5f2cd80d0a5cd65
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ea2ca2145ca567eb83dbf95eca01a6a7a36f5a84
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332785"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574878"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -3,18 +3,18 @@ uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.2-un
 title: فهم بنية الأمان
 metadata:
   title: فهم بنية الأمان
-  description: توضح هذه الوحدة بنية الأمان في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة بنية الأمان في تطبيقات التمويل والعمليات.
   ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/sysadmin/system-administration-home-page
-  ms.openlocfilehash: a3d563fff2ce9fe2ac848156d679ff3f49783e8c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/sysadmin/system-administration-home-page
+  ms.openlocfilehash: f34d88ff92e37f82dcb89aa37f36163880af5a15
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331139"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580308"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

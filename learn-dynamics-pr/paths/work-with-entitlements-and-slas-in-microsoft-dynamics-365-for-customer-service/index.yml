@@ -8,16 +8,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: d994b7e5592ed086293705882bd1addefa40766f
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: 2f64fe3f8198bbac844703b93fb2876e7a9de466
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9062793"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507466"
 title: التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة في Dynamics 365 Customer Service
 summary: "[!include[](../../dyn365-customer-service/includes/module-banner.md)]\nويركز مسار التعليم هذا على التعامل مع الاستحقاقات واتفاقيات مستوى الخدمة ف Microsoft Dynamics 365 Customer Service.  \n"
 prerequisites: "- الحصول على اشتراك تجريبي أو الوصول إلى Dynamics 365 Customer Service\n- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365\n- معرفة عملية بالسجلات الأساسية المتاحة  \n"
-iconUrl: /learn/achievements/work-with-entitlements-and-slas-dyn365-customer-service.svg
+iconUrl: /training/achievements/work-with-entitlements-and-slas-dyn365-customer-service.svg
 levels:
 - beginner
 roles:

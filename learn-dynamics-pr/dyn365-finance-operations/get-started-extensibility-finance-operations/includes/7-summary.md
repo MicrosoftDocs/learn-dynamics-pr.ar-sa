@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: 4b1cb976c9ba5a2dc579ea669cd3c3646198c24569f54c935d1b225efc815e1e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f902413db8974b8dfecb5ebbbdf7b95d9e1c31cb
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120470"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582588"
 ---
-يعد التطوير والتخصيص في تطبيقات Finance and Operations تجربة تختلف بشكل كبير عن Dynamics AX لعام 2012. من المهم فهم إطار عمل قابلية التوسعة وكيفية تطوير التخصيصات وتنفيذها من أجل الترقية. 
+يعد التطوير والتخصيص في تطبيقات التمويل والعمليات تجربة تختلف بشكل كبير عن Dynamics AX2012 . من المهم فهم إطار عمل قابلية التوسعة وكيفية تطوير التخصيصات وتنفيذها من أجل الترقية. 
 
 في هذه الوحدة النمطية، تعرفت على إطار عمل القابلية للتوسعة واستخدمت الطرازات وامتدادات الكائنات والفئات وطلبات القابلية للتوسعة. 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1c0926e301a318c06e8ebcdadf4be26910a52d4e
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: 4bafca41df1679059c7d0ca4ff5d93b6366f8072
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9300053"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9514760"
 ---
 قدمت لك هذه الوحدة Dynamics 365 Commerce. من مشاركة العملاء إلى المتاجر المادية والتجارة الإلكترونية، تعد التجارة حلاً كاملاً للبيع بالتجزئة.
 
@@ -34,7 +34,7 @@ ms.locfileid: "9300053"
 
 - راجع [الوثائق](/dynamics365/?azure-portal=true)
 
-- راجع [محتوى تعلم Commerce](/learn/dynamics365/commerce/?azure-portal=true)
+- راجع [محتوى تعلم Commerce](/training/dynamics365/commerce/?azure-portal=true)
 
 - راجع [تحديثات المنتجات](https://dynamics.microsoft.com/business-applications/product-updates/?azure-portal=true)
 

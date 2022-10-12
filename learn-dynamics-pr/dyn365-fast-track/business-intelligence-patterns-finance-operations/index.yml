@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9bdc4cd4c6dc2b4ba28d55327bfde1f3bb729666
-  ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+  ms.openlocfilehash: d2362338b3d111cc24e3547b6410969c9bc946fd
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/14/2022
-  ms.locfileid: "9150820"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580798"
 title: أفضل الممارسات لبنية حلول Dynamics 365 للمعلومات المهنية وإعداد التقارير
 summary: "[!include[](../includes/module-banner.md)] \nتعد المعلومات المهنية وإعداد التقارير جزءاً أساسياً من أي تنفيذ. تساعد هذه الوحدة مهندسي الحلول على إدراك المخاطر الشائعة (الأنماط المضادة) لتجنبها. بالإضافة إلى ذلك، يشرح أفضل الممارسات (الأنماط الجيدة) التي يجب على مهندسي الحلول اتباعها عند جمع وحل المعلومات المهنية واحتياجات إعداد التقارير. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على الممارسات والأنماط الموصى بها بالنسبة للمعلومات المهنية وحلول إعداد التقارير وتنفيذها عند مواجهة متطلبات مماثلة.\n-   تعرف على سوء الفهم الشائع والأنماط المضادة بحيث يمكنك تجنبها عند مواجهة متطلبات مماثلة. \n"
 prerequisites: >
-  - معرفة جميع المعلومات المهنية وخيارات إعداد التقارير في تطبيقات التمويل والعمليات
+  - المعرفة بجميع المعلومات المهنية وخيارات إعداد التقارير في تطبيقات التمويل والعمليات
 
-  -   المعرفة بالمستشار الوظيفي والمطور
-iconUrl: /learn/achievements/business-intelligence-patterns-finance-operations.svg
+  -   معرفة المستشار الوظيفي والمطور
+iconUrl: /training/achievements/business-intelligence-patterns-finance-operations.svg
 levels:
 - advanced
 roles:

@@ -3,17 +3,17 @@ uid: learn-dynamics.navigating-in-f-and-o.6-comparing-views
 title: مقارنة طرق العرض
 metadata:
   title: مقارنة طرق العرض
-  description: تصف هذه الوحدة طرق العرض المتنوعة المتوفرة في تطبيقات Finance and Operations - طريقة عرض الشبكة وطريقة عرض التفاصيل وطريقة عرض السطر وطريقة عرض الرأس.
+  description: تصف هذه الوحدة طرق العرض المتنوعة المتوفرة في تطبيقات التمويل والعمليات - طريقة عرض الشبكة وطريقة عرض التفاصيل وطريقة عرض السطر وطريقة عرض الرأس.
   ms.date: 02/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a05d7b60fd689eb0ccbfe63dd57ab1c1e503a706
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 590005d12b907b021d74d2c5cc05dea9e890543e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353704"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580838"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 57fd362ed967fa36ae970475d442f57349d2dec2
-ms.sourcegitcommit: e1b31037db4ed7bcbc24dddd4c300fd9741be859
+ms.openlocfilehash: 33a477d22d19a93ae2472c89057166999f0d7dae
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "7734193"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9506843"
 ---
 قد لا يتم تلبية العديد من متطلبات خدمة العملاء وعمليات الدعم مع العروض الأساسية لـ Dynamics 365 Customer Service. تعرض Dynamics 365 وMicrosoft Power Platform لك العديد من الخيارات لتخصيص Dynamics 365 Customer Service وتوسيعه لتلبية هذه المتطلبات، حيث يمكنك:
 
@@ -19,13 +19,13 @@ ms.locfileid: "7734193"
 - يمكنك بناء المكونات الإضافية لتنفيذ منطق الأعمال.
 
 > [!NOTE]
-> تتم تغطية التخصيص والتوسيع مع موضوعات Microsoft Power Platform بواسطة الشهادتين [PL-200](/learn/certifications/exams/pl-200?azure-portal=true) و[PL-400](/learn/certifications/exams/pl-400?azure-portal=true).
+> تتم تغطية التخصيص والتوسيع مع موضوعات Microsoft Power Platform بواسطة الشهادتين [PL-200](/certifications/exams/pl-200?azure-portal=true) و[PL-400](/certifications/exams/pl-400?azure-portal=true).
 
 بدلاً من تخصيص تطبيق Dynamics 365 Customer Service، في العديد من السيناريوهات، قد تجد أنه من المفيد إنشاء تطبيقات جديدة باستخدام Power Apps. مثلاً، قد يكون من الأسرع والأبسط إنشاء تطبيق جديد يشارك البيانات من خلال Dataverse مع Dynamics 365 Customer Service في حالة عدم توفير الوظيفة التي تطلبها بواسطة تطبيق Dynamics 365.
 
 ## <a name="example-scenario"></a>سيناريو مثال
 
-ضع في اعتبارك هذا السيناريو، حيث يكون لمركز الاتصال فريق ضمان الجودة الذي يستمع إلى المكالمات التي يجريها الوكلاء ثم يقيّمها مقابل مجموعة من السياسات. بينما يمكن لـ Microsoft Dynamics 365 Customer Service Insights إخبار المشرفين بمشاعر المكالمة، لا يمكنها التحقق من أن المندوب قد اتبع إرشادات التعامل مع المكالمة. يتطلب مركز الاتصال نظاماً لتسجيل نتائج فحص الجودة ثم تتبع حالات عدم المطابقة والإجراءات التصحيحية. يلزم توفر تطبيق جديد، لأنه لا يمكن تخصيص Customer Service Insights.
+ضع في اعتبارك هذا السيناريو، حيث يكون لمركز الاتصال فريق ضمان الجودة الذي يستمع إلى المكالمات التي يجريها المندوبين ثم يقيّمها مقابل مجموعة من السياسات. بينما يمكن لـ Microsoft Dynamics 365 Customer Service Insights إخبار المشرفين بمشاعر المكالمة، لا يمكنها التحقق من أن المندوب قد اتبع إرشادات التعامل مع المكالمة. يتطلب مركز الاتصال نظاماً لتسجيل نتائج فحص الجودة ثم تتبع حالات عدم المطابقة والإجراءات التصحيحية. يلزم توفر تطبيق جديد، لأنه لا يمكن تخصيص Customer Service Insights.
 
 قد يشمل الحل المحتمل لهذا المطلب ما يلي:
 

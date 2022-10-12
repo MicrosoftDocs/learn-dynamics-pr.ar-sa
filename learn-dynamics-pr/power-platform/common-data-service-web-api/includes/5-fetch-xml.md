@@ -1,24 +1,24 @@
 ---
-ms.openlocfilehash: abefc1003db22a28275a95af8d2176750e75fbdd
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 8adc060f49e9a42410647ebb134f808a792d951d
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7457557"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584201"
 ---
 FetchXML هي لغة استعلام قوية تم تطويرها بواسطة Microsoft لتمكين إجراء عمليات معقدة على بيانات Microsoft Dataverse. يوفر خيارات تصفية أكثر بكثير من موصلات OData، كما يسمح لك بمشاهدة تسميات البيانات المرجعية مثل تسميات "مجموعة الخيارات" أو حقول البحث.
 
 يمكنك تشغيل استعلامات FetchXML باستخدام الأساليب التالية:
 
--   عنوان API Dataverse للويب
+-   واجهة API للويب في Dataverse
 
 -   خدمة المؤسسة
 
-يمكنك أيضاً تطبيق مرشح FetchXML مخصص على حقل بحث داخل تطبيق مستند إلى نموذج. يسمح هذا الأسلوب بسيناريوهات بحث أكثر تعقيداً لا يمكن إنجازها بسهولة بصورة مبتكرة. لمزيد من المعلومات حول كيفية إكمال هذه العملية، راجع [مرجع API لعميل addCustomFilter](/powerapps/developer/model-driven-apps/clientapi/reference/controls/addcustomfilter/?azure-portal=true).
+يمكنك أيضاً تطبيق مرشح FetchXML مخصص على حقل بحث داخل تطبيق مستند إلى نموذج. يسمح هذا الأسلوب بسيناريوهات بحث أكثر تعقيداً لا يمكن إنجازها بسهولة بصورة مبتكرة. لمزيد من المعلومات حول كيفية إكمال هذه العملية، راجع [مرجع API لعميل addCustomFilter](/power-apps/developer/model-driven-apps/clientapi/reference/controls/addcustomfilter/?azure-portal=true).
 
 ### <a name="example-fetchxml-query"></a>مثال استعلام FetchXML
 
-يسترد نموذج الاستعلام التالي حقلي الحساب والاسم من كيان الحساب:
+يسترد نموذج الاستعلام التالي حقلي accountid والاسم من كيان الحساب:
 
 ```xml
 <fetch mapping='logical'>   
@@ -45,7 +45,7 @@ FetchXML هي لغة استعلام قوية تم تطويرها بواسطة Mi
 
 ### <a name="tools-to-help-build-your-queries"></a>أدوات للمساعدة في بناء استعلاماتك
 
-إذا كنت تستعلم عن بيانات مقابل تطبيق يستند إلى نموذج مبني على Common Data Service، فإن أبسط طريقة لإنشاء استعلامات FetchXML هي استخدام "البحث المتقدم"، والذي يحتوي على الدالة **Download FetchXML**. غالباً ما تكون بداية أولى ممتازة حتى لا تضطر إلى إنشاء XML من جديد، وذلك رغم أنك مقيّد بواجهة المستخدم فيما يتعلق بعوامل التصفية والبيانات ذات الصلة التي يمكنك سحبها.
+إذا كنت تستعلم عن بيانات مقابل تطبيق يستند إلى نموذج مبني على Dataverse، فإن أبسط طريقة لإنشاء استعلامات FetchXML هي استخدام "البحث المتقدم"، والذي يحتوي على الدالة **Download FetchXML**. غالباً ما تكون بداية أولى ممتازة حتى لا تضطر إلى إنشاء XML من جديد، وذلك رغم أنك مقيّد بواجهة المستخدم فيما يتعلق بعوامل التصفية والبيانات ذات الصلة التي يمكنك سحبها.
 
 ![لقطة شاشة لـ "تنزيل Fetch XML في البحث المتقدم".](../media/unit5-image1.png)
 
@@ -53,5 +53,5 @@ FetchXML هي لغة استعلام قوية تم تطويرها بواسطة Mi
 
 ### <a name="additional-resources"></a>الموارد الإضافية
 
-لاكتشاف تفاصيل متعمقة حول لغة استعلام FetchXML، انتقل إلى Microsoft Docs. يغطي القسم [استخدام FetchXML إلى بيانات الاستعلام](/powerapps/developer/common-data-service/use-fetchxml-construct-query/?azure-portal=true) عن البيانات العديد من الموضوعات المتقدمة مثل كيفية التعامل مع الترحيل والاستعلام عن البيانات الهرمية وغير ذلك الكثير.
+انتقل إلى Microsoft Learn لاكتشاف تفاصيل متعمقة حول لغة استعلام FetchXML. يغطي القسم [استخدام FetchXML إلى بيانات الاستعلام](/power-apps/developer/common-data-service/use-fetchxml-construct-query/?azure-portal=true) عن البيانات العديد من الموضوعات المتقدمة مثل كيفية التعامل مع الترحيل والاستعلام عن البيانات الهرمية وغير ذلك الكثير.
 

@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: a23a160c01c1b665fc06fcbe42f424838bec9a0a0e0281d1d6609ae7475e4898
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 5ba8a43e9e7e6f59984df3d064af8c7d15f7cb98
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7086562"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536489"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
-للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="scenario"></a>السيناريو
 
@@ -19,7 +19,7 @@ ms.locfileid: "7086562"
 
 ## <a name="create-the-kanban-rule-for-the-process-activity"></a>إنشاء قاعدة كانبان لنشاط العملية
 
-1.  لإنشاء قاعدة كانبان جديدة لنشاط العملية، انتقل إلى **إدارة معلومات المنتج> Lean manufacturing> قواعد كانبان**.
+1.  لإنشاء قاعدة كانبان جديدة لنشاط العملية، انتقل إلى **إدارة معلومات المنتجات> Lean manufacturing> قواعد كانبان**.
 
 2.  حدد **جديد‏‎**.
 
@@ -62,7 +62,7 @@ ms.locfileid: "7086562"
 ## <a name="create-the-kanban-rule-for-the-transfer-activity"></a>إنشاء قاعدة كانبان لنشاط التحويل
 
 
-1.  لإنشاء قاعدة كانبان جديدة لنشاط التحويل، انتقل إلى **إدارة معلومات المنتج> Lean manufacturing> قواعد كانبان**.
+1.  لإنشاء قاعدة كانبان جديدة لنشاط التحويل، انتقل إلى **إدارة معلومات المنتجات> Lean manufacturing> قواعد كانبان**.
 
 2.  حدد **جديد‏‎**.
 

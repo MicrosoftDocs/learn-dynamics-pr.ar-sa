@@ -1,20 +1,20 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.design-deployment-dynamics-365-finance-operations.8-frameworks
-title: أُطر عمل تطبيقات Finance and Operations
+title: إطارات عمل تطبيقات التمويل والعمليات
 metadata:
-  title: أُطر عمل تطبيقات Finance and Operations
-  description: تعرّف على أُطر عمل تطبيقات Finance and Operations.
+  title: إطارات عمل تطبيقات التمويل والعمليات
+  description: تعرف على أطر عمل تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/perf-test/testing-validation
-  ms.openlocfilehash: 3d957b84df4b16d75302a1aae4893653a689d1ca
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/perf-test/testing-validation
+  ms.openlocfilehash: ef539606c3a011d0bc1c6b5194cf41080ba4f429
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362031"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577098"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

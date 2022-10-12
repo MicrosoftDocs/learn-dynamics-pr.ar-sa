@@ -3,22 +3,22 @@ uid: learn-dynamics.getting-started-omnichannel
 metadata:
   title: بدء استخدام القناة متعددة الاتجاهات لـ Customer Service
   description: باستخدام القناة متعددة الاتجاهات لـ Customer Service، يمكن للمناديب تقديم الخدمة لعدة عملاء عبر قنوات مختلفة مباشرة من داخل بيئة Dynamics 365 لديهم. تتناول هذه الوحدة ميزات ووظائف القناة متعددة الاتجاهات.
-  ms.date: 08/03/2022
+  ms.date: 09/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: cbdf259706401fed18a9bc01de4622259bab60ba
-  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
+  ms.openlocfilehash: a83c1404b7c9c13561c7433c1dc2702d1f72a71b
+  ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/04/2022
-  ms.locfileid: "9225118"
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9584464"
 title: بدء استخدام القناة متعددة الاتجاهات لـ Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nباستخدام القناة متعددة الاتجاهات لـ Customer Service، يمكن للمناديب تقديم الخدمة لعدة عملاء عبر قنوات مختلفة مباشرة من داخل بيئة Dynamics 365 لديهم. تتناول هذه الوحدة ميزات ووظائف القناة متعددة الاتجاهات.    \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على تجربة المندوب وإدارة الجلسات.\n- العمل مع المحادثات وملخصات العملاء. \n"
-prerequisites: لا شيء
-iconUrl: /learn/achievements/getting-started-omnichannel.svg
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على تجربة المندوب وإدارة جلسات العمل.\n- العمل مع المحادثات وملخصات العملاء. \n"
+prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
+iconUrl: /training/achievements/getting-started-omnichannel.svg
 levels:
 - intermediate
 roles:
@@ -36,6 +36,7 @@ units:
 - learn-dynamics.getting-started-omnichannel.4-conversations
 - learn-dynamics.getting-started-omnichannel.5-customer-summary
 - learn-dynamics.getting-started-omnichannel.6-agent-productivity
+- learn-dynamics.getting-started-omnichannel.omnichannel-insights-dashboard
 - learn-dynamics.getting-started-omnichannel.6-check
 - learn-dynamics.getting-started-omnichannel.7-summary
 badge:

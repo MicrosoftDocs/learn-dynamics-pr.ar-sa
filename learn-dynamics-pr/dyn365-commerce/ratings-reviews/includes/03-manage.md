@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c97a47ce91244be45ddcea9002b631b3de716287
-ms.sourcegitcommit: 28b5b81155de28693455114a5fc5941cb314c9ef
+ms.openlocfilehash: a172371bd41dfddb8199a0dacbcd0f683a05563d
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8075656"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536599"
 ---
 يستخدم Commerce خدمات Microsoft Azure Cognitive Services للإشراف على نص المراجعة تلقائياً عن طريق تنقيح الكلمات البذيئة. بالإضافة إلى ذلك، يمكن للمشرفين استخدام أداة الإشراف على التقييمات والمراجعات للمهام اليدوية التالية:
 
@@ -13,7 +13,7 @@ ms.locfileid: "8075656"
 
 للوصول إلى ميزات الإشراف على التقييمات والمراجعات في أداة إدارة موقع التجارة الإلكترونية، اتبع الخطوات التالية:
 
-1.  قم بتسجيل الدخول إلى Dynamics Lifecycle Services (LCS).
+1.  قم بتسجيل الدخول إلى Dynamics Lifecycle Services.
 2.  افتح المشروع الذي يحتوي على البيئة حيث تريد تهيئة التجارة الإلكترونية.
 3.  في قسم **البيئات**، حدد البيئة.
 4.  ضمن **ميزات البيئة**، حدد **إدارة Commerce**.

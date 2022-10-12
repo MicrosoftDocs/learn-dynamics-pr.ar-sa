@@ -3,17 +3,17 @@ uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.04-asset-library
 title: إدارة مكتبات الأصول
 metadata:
   title: إدارة مكتبات الأصول
-  description: تعرف على كيفية إدارة مكتبات الأصول في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إدارة مكتبات الأصول في تطبيقات التمويل والعمليات.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 67a37fdabdf6a5619bd48acf9b30d2d9f32cdf0a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d2ee20d2e420ca1d87174fbd34dd2691e50e9524
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353716"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576678"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

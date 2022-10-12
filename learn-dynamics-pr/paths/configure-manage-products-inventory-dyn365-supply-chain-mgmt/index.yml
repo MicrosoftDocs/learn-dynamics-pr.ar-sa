@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: b521725d790a84ecef49813c8aef95aa443f08bb
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: b537b6d986be0ad350b58626e6fd704ef71348ff
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752529"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508754"
 title: تكوين المنتجات والمخزون في Dynamics 365 Supply Chain Management وإدارتها
 summary: "[!include[](../../includes/lp-banner.md)]\n\nمعلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات المختلفة لحل الأعمال، يلزم وجود معلومات وتكوينات خاصة بالمنتج لإدارة العمليات التجارية المرتبطة بمنتجات ومجموعات منتجات و‏‫قوائم مكونات أصناف وفئات منتجات. توضح لك تقارير المخزون بطرق متنوعة مقدار المخزون لديك وتشرح كيف تكون أكثر فاعلية في استثماراتك في المخزون. \n"
 prerequisites: >
@@ -24,7 +24,7 @@ prerequisites: >
   - المعرفة بإدارة المخزون.
 
   - المعرفة بإدارة المستودعات.
-iconUrl: /learn/achievements/configure-and-manage-products-and-inventory-in-dynamics-365-for-finance-ops.svg
+iconUrl: /training/achievements/configure-and-manage-products-and-inventory-in-dynamics-365-for-finance-ops.svg
 levels:
 - beginner
 roles:

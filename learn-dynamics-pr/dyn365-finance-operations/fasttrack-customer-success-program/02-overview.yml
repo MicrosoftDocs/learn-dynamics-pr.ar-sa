@@ -3,16 +3,16 @@ uid: learn-dynamics.fasttrack-customer-success-program.02-overview
 title: نظرة عامة حول برنامج FastTrack
 metadata:
   title: نظرة عامة حول برنامج FastTrack
-  description: تقدم هذه الوحدة نظرة عامة حول برنامج FastTrack لتطبيقات Finance and Operations
+  description: تقدم هذه الوحدة نظرة عامة حول برنامج FastTrack لتطبيقات التمويل والعمليات
   ms.date: 06/17/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 63ea1e7b38510ced43c1474f3d1f4a2fd07649fa
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b290b272c6939bfdabe43e975017e8dad4d1e30d
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365021"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581128"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-overview.md)]"

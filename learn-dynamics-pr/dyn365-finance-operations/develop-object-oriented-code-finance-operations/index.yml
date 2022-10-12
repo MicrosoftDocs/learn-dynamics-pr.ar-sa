@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dd722b3dc390bffa9adba8d3c2f24aee926c1132
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 529f383fd38be8cecadac928795bf29ddaeb2775
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749735"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575438"
 title: تطوير التعليمات البرمجية الموجهة للعناصر في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nتُعد البرمجة الموجهة للعناصر (OOP) نموذج برمجة تم تصميمه حول الكائنات وكيفية التعامل معها. تناقش هذه الوحدة مفاهيم البرمجة الموجهة للعناصر حتى تتمكن من تطوير التخصيصات في تطبيقات التمويل والعمليات. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف أهمية البرمجة الموجهة للعناصر لتطبيقات التمويل والعمليات.\n- تعرف على أهمية الفئات المجردة والتوريث في البرمجة الموجهة للعناصر.\n- التعرف على الواجهات.\n- استخدم سلسله الأوامر (CoC).\n- تعرف على كيفية تنفيذ تحديد النطاق في كود X++.\n- حدد وقت استخدام المراجع والقيم.\n"
@@ -20,7 +20,7 @@ prerequisites: >
   - الفهم الأساسي لـ Visual Studio
 
   - الفهم الأساسي لـ X++
-iconUrl: /learn/achievements/develop-object-oriented-code-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/develop-object-oriented-code-dynamics-365-finance-operations.svg
 levels:
 - beginner
 roles:

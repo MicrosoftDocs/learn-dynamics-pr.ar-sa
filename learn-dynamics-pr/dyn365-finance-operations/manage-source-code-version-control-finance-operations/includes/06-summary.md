@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: df9cc91abfffc88413958501aec6c0a00b66a2eea6a8e2c5b86f9dcee908da5f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2f69cbb4e38cd2cff2dfc6308807475e9dc1d36d
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7079041"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580848"
 ---
 
 
@@ -12,7 +12,7 @@ ms.locfileid: "7079041"
 
 يتيح لك التكامل بين Visual StudioوAzure DevOps القيام بما يأتي:
 
--   توصيل مشروع Azure DevOps بتطبيقات Finance and Operations.
+-   قم بتوصيل مشروع Azure DevOps بتطبيقات التمويل والعمليات.
 -   عرض التغييرات والحصول عليها والتراجع عنها.
 -   حل تعارضات الدمج لتجنب فقد العمل.
 -   إجراء مراجعات الكود لضمان أن يكون مصدرك أفضل ما يمكن أن يكون.

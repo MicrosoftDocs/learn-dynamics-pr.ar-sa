@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
 title: توثيق المشكلات وإصلاحها
 metadata:
   title: توثيق المشكلات وإصلاحها
-  description: تعرف على كيفية توثيق المشكلات الموجودة في تطبيقات Finance and Operations وإصلاحها.
+  description: تعرف على كيفية توثيق وإصلاح المشكلات في تطبيقات التمويل والعمليات.
   ms.date: 07/01/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8bda4b97e8e23d80e305bb8f5d9966f53228d57c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d83dc0096eb2ce889018d6e8c0f23f02048f478f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365045"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573818"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

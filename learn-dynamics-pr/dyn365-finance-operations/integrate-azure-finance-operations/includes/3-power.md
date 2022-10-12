@@ -1,28 +1,28 @@
 ---
-ms.openlocfilehash: 46d46275165b843664976413319d5b981dd5f0c8085196f49162bf90e80f39a0
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: c79db35d653b00780c76c4a8c5064726b516aeae
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099898"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578198"
 ---
-تتكامل تطبيقات Finance and Operations أيضاً مع Microsoft Power Platform.
-يدعم Power Automate هذا التكامل عبر الموصلات الخاصة به، في حين يصل Power BI وPower Apps إلى كيانات البيانات العامة التي يتم تخزينها في قاعدة بيانات تطبيقات Finance and Operations. 
+تتكامل تطبيقات التمويل والعمليات أيضًا مع Microsoft Power Platform.
+يدعم Power Automate هذا التكامل عبر الموصلات الخاصة به، في حين يصل Power BI وPower Apps إلى كيانات البيانات العامة التي يتم تخزينها في قاعدة بيانات تطبيقات التمويل والعمليات. 
 
 ## <a name="connect-to-power-automate"></a>الاتصال بـ Power Automate
 
-اتبع الخطوات التالية للبحث عن موصلات Power Automate لتطبيقات Finance and Operations. 
+اتبع الخطوات التالية للبحث عن موصلات Power Automate لتطبيقات التمويل والعمليات. 
 
 1.  في Power Automate، حدد رمز الترس لقائمة الإعدادات.
-2.  في القائمة المنسدلة، حدد **اتصالات**. اتصالات تطبيقات Finance and Operations، المدرجة كـ **Dynamics 365 for Fin & Ops** من بين قائمة الاتصالات المتوفرة.
+2.  في القائمة المنسدلة، حدد **اتصالات**. اتصالات تطبيقات التمويل والعمليات، المدرجة كـ **Dynamics 365 for Fin & Ops** من بين قائمة الاتصالات المتوفرة.
 
-    [![لقطة الشاشة هذه من Power Automate وتُظهر إضافة تطبيقات Finance and Operations كاتصال في صفحة إدارة اتصالاتك.](../media/flow.png)](../media/flow.png#lightbox)
+    [![لقطة الشاشة هذه من Power Automate وتُظهر إضافة تطبيقات التمويل والعمليات كاتصال في صفحة إدارة اتصالاتك.](../media/flow.png)](../media/flow.png#lightbox)
 
 4.  عند تحديد الاتصال المناسب، حدد **إنشاء اتصال** وقم بإعداد الاتصال عن طريق إدخال بيانات الاعتماد الخاصة بك. سيظهر الاتصال في **الاتصالات الخاصة بي** عندما تقوم بإعداده.
 
 ## <a name="connect-to-power-bi-desktop"></a>الاتصال بـ Power BI Desktop
   
-اتبع الخطوات التالية لتوصيل Power BI Desktop بتطبيقات Finance and Operations: 
+اتبع الخطوات التالية للاتصال بـ Power BI Desktop لتطبيقات التمويل والعمليات. 
 
 1.  حدد  **الحصول على البيانات** من شريط  **الصفحة الرئيسية** .
 2.  حدد الفئة **أخرى** .
@@ -35,7 +35,7 @@ ms.locfileid: "7099898"
 
 ## <a name="connect-to-power-apps"></a>الاتصال بـ Power Apps
 
-اتبع الخطوات التالية لتوصيل تطبيقات  Finance and Operations في Power Apps:
+اتبع الخطوات التالية للاتصال بتطبيقات التمويل والعمليات في Power Apps.
 
 
 1.  عند إنشاء تطبيق Power Apps جديد، حدد الخيار **بدء من البيانات**. 
@@ -44,9 +44,9 @@ ms.locfileid: "7099898"
 4.  انقر على **اتصال جديد.** 
 5.  حدد خيار **Dynamics 365 for Fin & Ops**.
 6.  حدد **إنشاء**. 
-7.  ستحتاج الآن إلى تحديد المثيل (بيئات تطبيقات Finance and Operations) والجدول (كيان بيانات) الذي تريد الاتصال به. تحتاج إلى التأكد من أنك مستخدم مسؤول للبيئة التي تحددها وأن لديك أذونات للوصول إلى الجدول (كيان البيانات) الذي تحدده. 
+7.  ستحتاج الآن إلى تحديد المثيل (بيئات تطبيقات التمويل والعمليات) والجدول (كيان بيانات) الذي تريد الاتصال به. تحتاج إلى التأكد من أنك مستخدم مسؤول للبيئة التي تحددها وأن لديك أذونات للوصول إلى الجدول (كيان البيانات) الذي تحدده. 
 
-     [![تعرض لقطة شاشة Power Apps تحديد مصادر البيانات في الشريط وتوصيل بيانات تطبيقات Finance and Operations ](../media/power-apps.png)](../media/power-apps.png#lightbox)
+     [![تعرض لقطة شاشة Power Apps هذه تحديد مصادر البيانات في الشريط وتوصيل بيانات تطبيقات التمويل والعمليات.](../media/power-apps.png)](../media/power-apps.png#lightbox)
   
 
 

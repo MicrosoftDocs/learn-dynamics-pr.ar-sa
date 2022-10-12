@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 176cd8694cd098e73d8447cb219aacfd17598cba
-ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+ms.openlocfilehash: 92867abc2dd200f8e44846d7346cea1c349aa6e8
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "9150816"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580788"
 ---
 تقدم هذه الوحدة سيناريوهات تقارير العمليات.
 
@@ -31,9 +31,9 @@ ms.locfileid: "9150816"
 
 ### <a name="pattern---use-an-oob-operational-workspace-along-with-an-analytical-workspace"></a>النمط - استخدم مساحة عمل تشغيلية خارج النطاق مع مساحة عمل تحليلية 
 
-النمط الجيد (أفضل الممارسات) هو استخدام مساحة عمل تشغيلية خارج النطاق إلى جانب مساحة عمل تحليلية. تحتوي بعض مساحات العمل التشغيلية عَلى علامة التبويب **تحليلات** تتضمن تقرير Power BI تفاعلياً يمكنك استخدامه لتحليل البيانات التشغيلية بفعالية ثم الانتقال إلى تطبيقات التمويل والعمليات.
+النمط الجيد (أفضل الممارسات) هو استخدام مساحة عمل تشغيلية خارج النطاق إلى جانب مساحة عمل تحليلية. تحتوي بعض مساحات العمل التشغيلية على علامة تبويب **تحليلات** تتضمن تقرير Power BI تفاعلي يمكنك استخدامه لتحليل البيانات التشغيلية بفعالية ثم الانتقال لأسفل إلى تطبيقات التمويل والعمليات.
 
-في هذا المثال، يمكن لمندوب التحصيل أن يبدأ بتقرير **رصيد متقادم** فِي Power BI، وتصفية الشركة المناسبة، والتنقل لأسفل فِي تطبيقات التمويل والعمليات للحصول عَلى مزيد من التفاصيل أو إكمال نشاط التحصيل. 
+في هذا المثال، يمكن لمندوب التجميع البدء بتقرير **الرصيد القديم** في Power BI، وتصفية الشركة المناسبة، والتنقل لأسفل في تطبيقات التمويل والعمليات للحصول على مزيد من التفاصيل أو إكمال نشاط التجميع. 
 
 يمكن للعملاء والشركاء توسيع تقارير Power BI تحليلية تفاعلية جديدة أو إنشائها وفقاً لمتطلباتها الفريدة.
 
@@ -72,7 +72,7 @@ ms.locfileid: "9150816"
 
 ### <a name="pattern---bring-machine-learning-and-ai-capabilities-with-finance-insights"></a>النمط - استفد من إمكانات التعلم الآلي والذكاء الاصطناعي من خلال Finance Insights 
 
-تستخدم ميزة Finance Insights من Microsoft Dynamics 365 Finance AI Builder لنقل التقارير التشغيلية إلى المستوى التالي من خلال غرس التنبؤ والتعلم الآلي. راجع [تحسين العمليات المالية باستخدام العمليات المشبعة بالذكاء الاصطناعي](https://info.microsoft.com/ww-Landing-Optimize-Financial-Operations-with-AI-Infused-Processes.html?) لمعرفة المزيد حول العمليات المشبعة بالذكاء الاصطناعي. راجع [إعداد Finance Insights والعمل معها فِي Dynamics 365 Financ](/learn/paths/setup-work-finance-insights/?azure-portal=true) لمعرفة المزيد حول Finance Insights. 
+تستخدم ميزة Finance Insights من Microsoft Dynamics 365 Finance AI Builder لنقل التقارير التشغيلية إلى المستوى التالي من خلال غرس التنبؤ والتعلم الآلي. راجع [تحسين العمليات المالية باستخدام العمليات المشبعة بالذكاء الاصطناعي](https://info.microsoft.com/ww-Landing-Optimize-Financial-Operations-with-AI-Infused-Processes.html?) لمعرفة المزيد حول العمليات المشبعة بالذكاء الاصطناعي. راجع [إعداد Finance Insights والعمل معها فِي Dynamics 365 Financ](/training/paths/setup-work-finance-insights/?azure-portal=true) لمعرفة المزيد حول Finance Insights. 
 
 ### <a name="anti-patterns"></a>الأنماط المضادة
 عندما يريد العميل تحسين عملية الجمع عن طريق التنبؤ، ضع فِي اعتبارك الأنماط المضادة (المزالق) التالية:
@@ -81,15 +81,15 @@ ms.locfileid: "9150816"
 
 ## <a name="scenario---business-needs-to-print-directly-to-a-network-printer"></a>السيناريو - يحتاج العمل إلى الطباعة مباشرة إلى طابعة شبكة
 
-في هذا السيناريو، يحتاج العمل إلى طباعة ملصقات لوحات الترخيص، وملصقات الشحن، ووثائق العمل، وتقارير SSRS أخرى من تطبيقات التمويل والعمليات مباشرة إلى طابعة الشبكة. 
+في هذا السيناريو، تحتاج الشركة إلى طباعة ملصقات لوحات الترخيص وملصقات الشحن ومستندات العمل وتقارير SSRS الأخرى من تطبيقات التمويل والعمليات مباشرة إلى طابعة شبكة. 
 
 ### <a name="pattern"></a>النمط
 
-استخدم [عامل توجيه المستندات](/learn/paths/setup-work-finance-insights/?azure-portal=true) (DRA)‎ للطباعة غير التفاعلية، مثل ملصقات المستودعات والتقارير المطبوعة عَلى دفعات وتقارير إدارة الطباعة. استخدم ميزة [PDF](/dynamics365/fin-ops-core/dev-itpro/analytics/preview-pdf-documents/?azure-portal=true) لطباعة تقارير SSRS التفاعلية.
+استخدم [Document Routing Agent](/training/paths/setup-work-finance-insights/?azure-portal=true) (DRA)‎ للطباعة غير التفاعلية، مثل ملصقات المستودعات والتقارير المطبوعة على دفعات وتقارير إدارة الطباعة. استخدم ميزة [PDF](/dynamics365/fin-ops-core/dev-itpro/analytics/preview-pdf-documents/?azure-portal=true) لطباعة تقارير SSRS التفاعلية.
 
-يمكّن DRA تطبيقات التمويل والعمليات من طباعة المستندات باستخدام طابعة محلية أو جهاز متصل بالشبكة فِي سيناريوهات غير تفاعلية أو تفاعلية.
+تمكن DRA تطبيقات التمويل والعمليات من طباعة المستندات باستخدام طابعة محلية أو جهاز متصل بالشبكة في سيناريوهات غير تفاعلية أو تفاعلية.
 
-[![رسم تخطيطي يُظهر كيفية تمكين DRA لتطبيقات التمويل والعمليات من طباعة المستندات.](../media/document-routing.png)](../media/document-routing.png#lightbox) 
+[![رسم تخطيطي يوضح كيف يمكّن D R A تطبيقات التمويل والعمليات من طباعة المستندات.](../media/document-routing.png)](../media/document-routing.png#lightbox) 
 
 SSRS هي ميزة PDF ممكّنة وستقدم تقريراً مباشرةً بتنسيق PDF، والذي يمكنك تنزيله محلياً أو طباعته مباشرةً باستخدام الطابعة المحلية / الشبكة التي أضفتها إلى جهازك.
 

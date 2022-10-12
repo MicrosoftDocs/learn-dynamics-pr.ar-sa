@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b1eb4e493effe76fb3bd85141ba861e960e1171f
-ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+ms.openlocfilehash: 3d4c7373f114e5dd10b42d58b825d31c4ac8f0d9
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "8629534"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578438"
 ---
 تمثل هذه الوحدة سيناريوهات استراتيجية البيئة.
 

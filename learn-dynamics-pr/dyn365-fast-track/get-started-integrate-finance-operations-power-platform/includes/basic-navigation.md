@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a24af46588dc923ff2d480fd88963d5189c541f9
-ms.sourcegitcommit: d4e337fec838090ba1f4f09b61e2651be90b2b54
+ms.openlocfilehash: 7e7d23e541db788a35d706c995a2d1dc6f931bfe
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "8572649"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574528"
 ---
 تستعرض هذه الوحدة الخطوات عالية المستوى لاستخدام وظيفة الكتابة المزدوجة وإعدادها. مساحة عمل **إدارة البيانات** داخل تطبيق التمويل والعمليات هي المنطقة الرئيسية، حيث يلزم الإعداد بعد تلبية متطلبات تثبيت تطبيق **الكتابة المزدوجة** (تم شرح التثبيت في وحدة أخرى).
 

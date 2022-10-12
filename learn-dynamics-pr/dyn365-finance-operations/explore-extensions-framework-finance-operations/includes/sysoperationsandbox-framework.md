@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 604a3fffae3f721fd1a0f0602541e5c7ccbc469b
-ms.sourcegitcommit: 442020b85a494c94b76f90102daf2916649c8c2e
+ms.openlocfilehash: e49de7debdebf674942d729de65950baf8a9b8e9
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/28/2022
-ms.locfileid: "8490149"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578828"
 ---
 توفر لك تطبيقات التمويل والعمليات عدة طرق لتشغيل عمليات تستغرق وقتًا طويلاً. 
 
