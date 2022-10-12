@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 765cecfb89606b8801434e47cf69c72eca340dce
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 1a541e45b0f8f7980a95005f22d8788a692dfa75
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587040"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508921"
 ---
 لتثبيت تطبيق HoloLens وتسجيل الدخول، اتبع الخطوات التالية.
 
@@ -42,4 +42,4 @@ ms.locfileid: "7587040"
     ![لقطة شاشة لمربع حوار تحديد الوضع.](../media/select-mode-operate-ss.png)
 
 > [!NOTE]
->إذا كنت مسؤول Dynamics 365 Guides، يمكنك تعيين دور **المشغل** إلى المشغلين حتى يتمكنوا من عرض الأدلة ولكن لا يمكنهم تحريرها. إذا قمت بتعيين دور **المشغل** لمستخدم، فيمكن للمستخدم أيضاً تخطي الخطوة الموجودة في مربع الحوار **تحديد الوضع** لتحديد دليل مباشرةً. لمزيد من المعلومات، راجع [تعيين أدوار المستخدمين](/learn/modules/guides-administrator/06-assign-roles/?azure-portal=true).
+>إذا كنت مسؤول Dynamics 365 Guides، يمكنك تعيين دور **المشغل** إلى المشغلين حتى يتمكنوا من عرض الأدلة ولكن لا يمكنهم تحريرها. إذا قمت بتعيين دور **المشغل** لمستخدم، فيمكن للمستخدم أيضاً تخطي الخطوة الموجودة في مربع الحوار **تحديد الوضع** لتحديد دليل مباشرةً. لمزيد من المعلومات، راجع [تعيين أدوار المستخدمين](/training/modules/guides-administrator/06-assign-roles/?azure-portal=true).

@@ -2,27 +2,27 @@
 uid: learn-dynamics.configure-public-sector-in-dynamics-365-finance-ops
 metadata:
   title: تكوين Dynamics 365 Finance للقطاع العام
-  description: يمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة وحسابات المقبوضات. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور.
+  description: يمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور.
   ms.date: 11/29/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8a1abf27c274a3ff4efdce99e75c857dc05db5c9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 6ab0044c0f3ac59d51ec5410695cc7fa38fb5bdd
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750545"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515525"
 title: تكوين Dynamics 365 Finance للقطاع العام
-summary: "[!include[](../includes/module-banner.md)]\n\nيمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة وحسابات المقبوضات. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور. \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nيمكّن Dynamics 365 Finance العمليات التجارية المشتركة بين القطاعين العام والخاص، مثل مهام إعداد الموازنة والشراء والحسابات الدائنة والحسابات المدينة. استخدم وظيفة القطاع العام للوفاء بالقواعد واللوائح ومتطلبات إعداد التقارير للمؤسسات التي تقدم خدماتها لقطاع الجمهور. \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إعداد الصناديق لللقطاع العام. \n- إعداد الأبعاد المشتقة.\n- إعداد تدرجات هرمية مالية مشتقة في القطاع العام.\n- إعداد وظيفة إدخالات دفتر الأستاذ المتقدمة للقطاع العام. \n- تكوين أكواد الفوترة للفواتير ذات النص الحر\n"
 prerequisites: >
   - فهم أساسي لعمليات التمويل والمحاسبة
 
   - القدرة على استخدام Finance للمعالجة الأساسية
 
-  - فهم عام لميزات الإدارة المالية، مثل الحسابات المصرفية وحسابات المدفوعات وحسابات المقبوضات والموازنة ومحاسبة الالتزام.
-iconUrl: /learn/achievements/configure-public-sector-in-dynamics-365-finance-ops.svg
+  - فهم عام لميزات الإدارة المالية، مثل الحسابات المصرفية وحسابات المدفوعات والحسابات المدينة والموازنة ومحاسبة الالتزام.
+iconUrl: /training/achievements/configure-public-sector-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

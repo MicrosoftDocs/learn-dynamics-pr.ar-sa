@@ -8,18 +8,18 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-human-resources
-  ms.openlocfilehash: 285164a90a6523a708181dd4e82e34dbdb886c7d
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: dda1a62d1d61734149a5e76a60097e082d35ad13
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9369703"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508683"
 title: تعلُّم أساسيات Dynamics 365 Human Resources
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
   يقدم مسار التعليم هذا للمتعلمين تطبيق Dynamics 365 Human Resources. تعرف على قدرات الموارد البشرية الأساسية مثل التعويضات والمزايا وإدارة التوافق وإدارة الأداء وإدارة شؤون العاملين.
-iconUrl: /learn/achievements/dynamics-human-resources.svg
+iconUrl: /training/achievements/dynamics-human-resources.svg
 levels:
 - beginner
 roles:

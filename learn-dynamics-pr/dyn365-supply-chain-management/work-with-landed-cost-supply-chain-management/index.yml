@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 36679354e7b094efa1b3a3fdb2738869112465c3
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 0e9adb97879f261ef5788ddbf7d0a3a781da7a8f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752682"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505613"
 title: العمل مع التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتساعد التكاليف شاملة التفريغ في Dynamics 365 Supply Chain Management تساعد مؤسستك في إجراء عمليات شحن واردة أكثر كفاءة. بالإضافة إلى ذلك، تسمح تكاليف الشحن شاملة التفريغ للمستخدمين بالتحكم المالي واللوجيستي الكامل في الشحن الذي تم استيراده من الشركة المصنعة إلى المستودع.  \n"
 abstract: "ستتعلم في هذه الوحدة كيفية: \n- إنشاء رحلة بحرية.\n- أضف سطور أوامر الشراء إلى حاوية (حاويات) الشحن.\n- معالجة البضائع في فواتير البضاعة بالطريق.\n- تعقب تتبع الرحلات البحرية القادمة ورحلات حاويات الشحن.\n- تقدير التكاليف شاملة التفريغ‬‬ وإدارتها.\n- العمل مع وظيفة المعالجة أثناء النقل. \n- معالجة حركات بالزيادة والنقصان‬.\n- تحديث التعقب لإبعاده.\n- العمل مع الاستفسارات والتقارير عن التكلفة شاملة التفريغ.\n"
 prerequisites: "- المعرفة العامة بعمليات الشحن الداخلي\n- المعرفة العامة بعمليات ووظائف سلسلة التوريد \n- التنقل العام في Dynamics 365 Supply Chain Management \n"
-iconUrl: /learn/achievements/work-with-landed-cost-supply-chain-management.svg
+iconUrl: /training/achievements/work-with-landed-cost-supply-chain-management.svg
 levels:
 - intermediate
 roles:

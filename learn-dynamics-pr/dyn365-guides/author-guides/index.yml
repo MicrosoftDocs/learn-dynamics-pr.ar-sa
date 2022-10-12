@@ -7,18 +7,18 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 100dfb5759d3a6526fb8b61a8b0b559696ed7cc3
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 69c0cd76bd5a2b9c304eba868e4ef287fe22ca27
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750253"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510264"
 title: تأليف دليل في Dynamics 365 Guides
 summary: "[!include[](../includes/module-banner.md)] \nبصفتك مؤلفاً يعمل باستخدام Dynamics 365 Guides، فستقوم بإنشاء الأدلة في تطبيق الكمبيوتر الشخصي وتطبيق HoloLens. يمكنك استخدام الصور ومقاطع الفيديو والصور المجسمة‬.\n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تأليف دليل في تطبيق الكمبيوتر الشخصي\n- تأليف دليل في تطبيق Hololens\n- إضافة نماذج ثلاثية (3D) الأبعاد أو وسائط ثنائية (2D) الأبعاد إلى الأدلة\n- فهم الإيماءات الخاصة بالتنقل والتأليف باستخدام HoloLens\n- تحويل النماذج ثلاثية الأبعاد لاستخدامها كصور مجسمة\n"
 prerequisites: >
   - المعرفة الأساسية بـ Dynamics 365 Guides
-iconUrl: /learn/achievements/author-guides.svg
+iconUrl: /training/achievements/author-guides.svg
 levels:
 - intermediate
 roles:

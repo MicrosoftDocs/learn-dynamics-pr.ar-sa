@@ -7,17 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 91f4ede4a70a7904c1246b4d5920e39a0eb52213
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c2afbe8dc0b86786df0c57f87985f7aaecff71aa
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753039"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511663"
 title: مقدمة إلى عرض القيمة الخاص بحل Microsoft Relationship Sales Solution‏ (MRS) لعملائك
 summary: "[!include[](../includes/module-banner.md)]\n\nاكتشف كيف يمكن أن تساعد حلول Microsoft Relationship Sales Solution‏ (MRS) عملاءك. تغطي هذه الوحدة التمهيدية عرض القيمة ومتطلبات التكامل وعملية وحدة SKU والمبادئ التوجيهية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- صِف قيمة MRS (حل Microsoft Relationship Sales Solution) لعملائك.\n- مراجعة خيارات ومتطلبات تكامل MRS.\n- فحص عملية وإرشادات وحدة SKU الخاصة بحلول MRS.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- صِف قيمة MRS (حل Microsoft Relationship Sales Solution) لعملائك.\n- مراجعة خيارات ومتطلبات تكامل MRS.\n- فحص عملية وإرشادات وحدة SKU الخاصة بحلول MRS.\n"
 prerequisites: بلا
-iconUrl: /learn/achievements/value-proposition-mrss.svg
+iconUrl: /training/achievements/value-proposition-mrss.svg
 levels:
 - beginner
 roles:

@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.badge
 metadata:
   title: 'Microsoft Badge: تحضير البيانات لنقل تطبيقات التمويل والعمليات تم إصدارها من قبل Microsoft'
-  ms.openlocfilehash: a56fc94de4e2d01fecab455b97f7d6b6a718ff3e
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 9cf8bdb88dcaca39c00add6dc90e901638faf4b0
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772874"
-socialImageUrl: /learn/achievements/prepare-data-migration-to-dynamics-365-finance-ops-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515049"
+socialImageUrl: /training/achievements/prepare-data-migration-to-dynamics-365-finance-ops-social.png

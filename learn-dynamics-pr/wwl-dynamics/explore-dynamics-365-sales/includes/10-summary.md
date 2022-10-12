@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ac5d16f15fda4509fefb2625d40ad6be45be1ecc
-ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+ms.openlocfilehash: 0b781731c2772a3aab9a3df1970e3ae18118b60b
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "8615121"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9502655"
 ---
 كما ترى، باستخدام Dynamics 365 Sales، تمتلك المؤسسات الأدوات اللازمة للتحكم في عملية دورة حياة المبيعات بالكامل وإدارتها. سواء كان موظفو المبيعات يبحثون عن طرق أكثر كفاءة لإنشاء سجلات فرص المبيعات، أو يحتاج مديرو المبيعات إلى رؤية وإدارة أفضل لدورة حياة المبيعات، فإن أدوات إدارة المبيعات المتوفرة في Dynamics 365 Sales تساعد طوال العملية بأكملها. 
 
@@ -62,10 +62,10 @@ ms.locfileid: "8615121"
  
 ## <a name="for-further-study"></a>لمزيد من الدراسة
 
-- [العمل باستخدام Dynamics 365 Sales Professional](/learn/paths/working-with-dynamics-sales-professional/)
+- [العمل باستخدام Dynamics 365 Sales Professional](/training/paths/working-with-dynamics-sales-professional/)
 
-- [إدارة العملاء المتوقعين باستخدام Dynamics 365 Sales](/learn/modules/manage-leads-dynamics-365-sales/)
+- [إدارة العملاء المتوقعين باستخدام Dynamics 365 Sales](/training/modules/manage-leads-dynamics-365-sales/)
 
-- [إدارة الفرص باستخدام Dynamics 365 Sales](/learn/modules/manage-opportunities-dynamics-365-sales/)
+- [إدارة الفرص باستخدام Dynamics 365 Sales](/training/modules/manage-opportunities-dynamics-365-sales/)
 
-- [معالجة أوامر المبيعات باستخدام Dynamics 365 Sales](/learn/modules/process-sales-orders-dynamics-365-sales/)
+- [معالجة أوامر المبيعات باستخدام Dynamics 365 Sales](/training/modules/process-sales-orders-dynamics-365-sales/)

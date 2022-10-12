@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 7023c8659e259c672ceba7f71824a4c2a5c12c03
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: 9405b82272c92e9c05dbb25c51769743fc99813d
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021739"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508578"
 ---
 لقد تعرفت في هذه الوحدة النمطية على القدرات العامة لمشاركة تطبيقات التمويل والعمليات. تتضمن هذه القدرات إعداد تقارير مدمجة والتكامل مع منتجات Microsoft الأخرى مثل Microsoft Excel، وMicrosoft Word، وPower BI، وSharePoint.
 
-الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادرًا على:
+الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
 - وصف إمكانات إعداد التقارير المضمنة.
 
@@ -40,8 +40,8 @@ ms.locfileid: "9021739"
 
 لمزيد من الدراسة:
 
-- [بدء استخدام Power BI](/learn/modules/get-started-with-power-bi/)
+- [بدء استخدام Power BI](/training/modules/get-started-with-power-bi/)
 
-- [تنفيذ ميزات التكامل المشتركة في تطبيقات التمويل والعمليات](/learn/modules/implement-common-integration-features-finance-ops/)
+- [تنفيذ ميزات التكامل المشتركة في تطبيقات التمويل والعمليات](/training/modules/implement-common-integration-features-finance-ops/)
 
  

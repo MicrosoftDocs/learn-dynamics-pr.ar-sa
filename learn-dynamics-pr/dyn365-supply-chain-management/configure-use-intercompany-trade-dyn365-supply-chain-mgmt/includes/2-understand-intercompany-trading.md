@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4929a19aa0283aa60e6c9355805e17091aae54f4
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 513985d85749f498fdb9fd3eefba0c64f38190d8
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7351511"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9507615"
 ---
 عند قيامك بإنشاء سلسلة أوامر بين الشركات الشقيقة، يتعقب Supply Chain Management جميع أوامر الشراء ذات الصلة وأوامر المبيعات المشتركة بين الشركات الشقيقة. 
 
@@ -81,4 +81,4 @@ ms.locfileid: "7351511"
 يقدم Supply Chain Management ميزات تساعدك في إعداد الحسابات المالية بين الشركات الشقيقة، والتي يمكن استخدامها مع الأوامر بين الشركات الشقيقة.
 توفر المحاسبة بين الشركات الشقيقة حركات دفتر الأستاذ للشركات التي تتعامل مع بعضها البعض، بما في ذلك الحركات المناسبة المستحقة من والمستحقة إلى.
 
-لمزيد من المعلومات فيما يتعلق بالمحاسبة بين الشركات الشقيقة، راجع [المحاسبة بين الشركات الشقيقة في Dynamics 365 Finance](/learn/modules/intercompany-accounting-dyn365-finance/?azure-portal=true). 
+لمزيد من المعلومات فيما يتعلق بالمحاسبة بين الشركات الشقيقة، راجع [المحاسبة بين الشركات الشقيقة في Dynamics 365 Finance](/training/modules/intercompany-accounting-dyn365-finance/?azure-portal=true). 

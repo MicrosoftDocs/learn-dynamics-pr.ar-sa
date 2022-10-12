@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2bffb3590fb0b1f4ab7e867d0d36aaa59f57bd95
-  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.openlocfilehash: 3980a3008f1fb12e994b966d8664b74b31069c2e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9344334"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513499"
 title: إدارة الحالات باستخدام مركز Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)]\nتتيح Microsoft Dynamics 365 for Customer Service للمؤسسات تقديم خدمة أفضل لعملائها، وإدارة عمليات تحميل المندوبين عن طريق توفير نطاق واسع من خيارات إدارة الحالات. سواء كان المندوبين يبحثون عن طرق أكثر فاعلية لإنشاء الحالات أو طرق أفضل لإدارة دورة حياة الحالة، يمكن لأدوات إدارة الحالة في Microsoft Dynamics 365مساعدتهم خلال عملية الإدارة.      \n"
 abstract: >
@@ -30,7 +30,7 @@ abstract: >
 
   - التعامل مع انتقالات سبب حالة للمشكلة وتكوين انتقالات الحالة المخصصة
 prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365 Customer Service ومعرفة عملية بالسجلات الأساسية المتوفرة.
-iconUrl: /learn/achievements/get-started-with-cases-for-dynamics-365-customer-service.svg
+iconUrl: /training/achievements/get-started-with-cases-for-dynamics-365-customer-service.svg
 levels:
 - intermediate
 roles:

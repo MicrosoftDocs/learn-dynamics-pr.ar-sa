@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4912e73643df2290341fe29c7c0e45f8c333b819
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d7324f7691e45edb7fbd063820b4cc433311f87b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748275"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511239"
 title: تنفيذ بصمات الجهاز Dynamics 365 Fraud Protection
 summary: "[!include[](../includes/module-banner.md)] \nإن بصمة الجهاز أو بصمات الآلة أو بصمات المستعرض هي المعلومات التي يتم جمعها فيما يتعلق بجهاز الكمبيوتر عن بُعد للتعريف. تجمع بصمات الأجهزة بيانات تتبع الاستخدام الهامة للجهاز أثناء إجراءات فورية حرجه لتقييم حركات التجارة الإلكترونية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تنفيذ بصمات الجهاز المباشر لدعم حماية الحساب لـ Dynamics 365 Fraud Protection.\n- تنفيذ بصمات الجهاز المباشر لدعم شراء \"حماية الحساب\" لـ Dynamics 365 Fraud Protection.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ بصمات الجهاز المباشر لدعم حماية الحساب لـ Dynamics 365 Fraud Protection.\n- تنفيذ بصمات الجهاز المباشر لدعم شراء \"حماية الحساب\" لـ Dynamics 365 Fraud Protection.\n"
 prerequisites: >
   - المعرفة الصناعية لمكافحة الاحتيال
 
@@ -24,7 +24,7 @@ prerequisites: >
   - نظام Dynamics 365 Fraud Protection متوفر
 
   - تم تثبيت تطبيق التاجر النموذجي
-iconUrl: /learn/achievements/device-fingerprint-fraud-protection.svg
+iconUrl: /training/achievements/device-fingerprint-fraud-protection.svg
 levels:
 - intermediate
 roles:

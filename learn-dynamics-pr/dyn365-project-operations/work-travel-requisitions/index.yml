@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3df79ff312cc9b071d61d573a13b100c8dcb5288
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9536178c8946769e38678f52878a6d0ed2b86f05
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748056"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9506714"
 title: التعامل مع طلبات السفر في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nباستخدام طلبات السفر، يمكن لمؤسستك التأكد من أن نفقات السفر التي يتم تكبدها للأعمال مرخصة واتباع سياسات المؤسسة، مع ضمان الحفاظ على الموازنات. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء طلب سفر.\n- مراجعة خيارات طلبات السفر.\n- التعرف على عملية الموافقة على طلب السفر. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء طلب سفر.\n- مراجعة خيارات طلبات السفر.\n- التعرف على عملية الموافقة على طلب السفر. \n"
 prerequisites: >
   - معرفة كيفية التنقل في وحدة إدارة المصروفات في Dynamics 365 Project Operations
 
   - معرفه عمليات إدارة المصروفات
-iconUrl: /learn/achievements/work-travel-requisitions.svg
+iconUrl: /training/achievements/work-travel-requisitions.svg
 levels:
 - intermediate
 roles:

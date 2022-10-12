@@ -2,19 +2,19 @@
 uid: learn-dynamics.configure-and-process-postdated-checks-in-dynamics-365-finance-ops
 metadata:
   title: تكوين ومعالجة الشيكات المؤجلة في Dynamics 365 Finance
-  description: الشيكات المؤجلة هي الشيكات التي يتم إصدارها لإجراء المدفوعات واستلامها في تاريخ لاحق. لذلك، لا يمكن صرف الشيك حتى التاريخ المحدد. يدعم Dynamics 365 Finance دورة الإدارة الكاملة للشيكات المؤجلة في كل من حسابات المقبوضات والحسابات الدائنة.
+  description: الشيكات المؤجلة هي الشيكات التي يتم إصدارها لإجراء المدفوعات واستلامها في تاريخ لاحق. لذلك، لا يمكن صرف الشيك حتى التاريخ المحدد. يدعم Dynamics 365 Finance دورة الإدارة الكاملة للشيكات المؤجلة في كل من الحسابات المدينة والحسابات الدائنة.
   ms.date: 03/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 38ad99bb42d8e92dab61464cb0eaab7e60bcf014
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a952f622923a307f8713258e232deeb6972e861a
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748962"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517062"
 title: تكوين ومعالجة الشيكات المؤجلة في Dynamics 365 Finance
-summary: "[!include[](../includes/module-banner.md)]\n\nالشيكات المؤجلة هي الشيكات التي يتم إصدارها لإجراء المدفوعات واستلامها في تاريخ لاحق. لذلك، لا يمكن صرف الشيك حتى التاريخ المحدد. يدعم Dynamics 365 Finance دورة الإدارة الكاملة للشيكات المؤجلة في كل من حسابات المقبوضات والحسابات الدائنة. \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nالشيكات المؤجلة هي الشيكات التي يتم إصدارها لإجراء المدفوعات واستلامها في تاريخ لاحق. لذلك، لا يمكن صرف الشيك حتى التاريخ المحدد. يدعم Dynamics 365 Finance دورة الإدارة الكاملة للشيكات المؤجلة في كل من الحسابات المدينة والحسابات الدائنة. \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- معالجة الشيكات بتاريخ لاحق. \n- إعداد شيكات بتاريخ لاحق.\n- تسجيل شيك بتاريخ لاحق لعميل وترحيله.\n- قم بتسوية شيك تم تأخير تاريخه لأحد العملاء.\n- تسجيل شيك بتاريخ لاحق وترحيله لمورد.\n- تسوية شيك بتاريخ لاحق لمورد.\n"
 prerequisites: >
   - المعرفة العامة بـ Microsoft Windows
@@ -28,7 +28,7 @@ prerequisites: >
   - الفهم العام لفوترة أمر الشراء
 
   - الفهم العام لفوترة أمر المبيعات
-iconUrl: /learn/achievements/configure-and-process-postdated-checks-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-and-process-postdated-checks-in-dynamics-365-finance-ops.svg
 levels:
 - advanced
 roles:

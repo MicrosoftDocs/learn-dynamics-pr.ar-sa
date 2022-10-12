@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6488ceb047acb3e4bab6a1647e75c3c201e55aad
-  ms.sourcegitcommit: f51d71bff43719bbbb8675596717d5d472dff9bd
+  ms.openlocfilehash: dd5fbeb3e2efe038bfe315c3b48bba330da55728
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/28/2022
-  ms.locfileid: "9204071"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514660"
 title: التكوين المتقدم لتطبيق Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)]\nيستخدم المسؤولون الإعدادات لضبط سلوك التطبيق وتعيين الإعدادات الافتراضية للتسويق والتحقق من الحصص وإدارة إعدادات التسويق الأساسية والمزيد. \n"
 abstract: >
@@ -34,7 +34,7 @@ abstract: >
 
   - حدد الكيانات التي تريد مزامنتها مع Dynamics 365 Marketing وقم بتوصيل بيئة Dynamics 365 Marketing الخاصة بك بـ Blob Storage Microsoft Azure، وقم بتوصيل Customer Insights ببيئة Dynamics 365 Marketing الخاصة بك.
 prerequisites: الفهم الأساسي لتطبيق Marketing
-iconUrl: /learn/achievements/advanced-configuration-marketing.svg
+iconUrl: /training/achievements/advanced-configuration-marketing.svg
 levels:
 - intermediate
 roles:

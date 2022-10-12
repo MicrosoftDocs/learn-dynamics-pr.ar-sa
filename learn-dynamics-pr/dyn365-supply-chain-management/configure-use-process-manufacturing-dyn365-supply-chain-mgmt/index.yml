@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2398cb33dc4952f44a3db4efea87e831fe533f24
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: eb35a42eba09c08c76f2f9b091a7a7e7f2c5261d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750483"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504843"
 title: تكوين التصنيع التحويلي في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -26,7 +26,7 @@ prerequisites: >
   - معرفه عمليات إدارة المخزون
 
   - معرفه عمليات إدارة المستودعات
-iconUrl: /learn/achievements/configure-process-manufacturing-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-process-manufacturing-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

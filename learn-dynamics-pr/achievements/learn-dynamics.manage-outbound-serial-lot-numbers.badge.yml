@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.manage-outbound-serial-lot-numbers.badge
 metadata:
   title: 'Microsoft Badge: إدارة الأرقام التسلسلية وأرقام الشحنات الصادرة في Dynamics 365 Business Central تم إصدارها من قبل Microsoft'
-  ms.openlocfilehash: bcdd06be42566fd765a930967d7f3d6e8d11994d
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 29752f9bb57ead1e14bfc1cac40877950d710c2f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772769"
-socialImageUrl: /learn/achievements/manage-outbound-serial-lot-numbers-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505308"
+socialImageUrl: /training/achievements/manage-outbound-serial-lot-numbers-social.png

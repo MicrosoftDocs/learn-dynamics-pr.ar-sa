@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 78e0115fdbbe296c07c2a0e4da8aa1b1872ba6bc
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 13da114aaa623755de17e24a7ca94e66a175f989
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750280"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9503138"
 title: الشروع في العمل باستخدام Dynamics 365 Finance
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -31,7 +31,7 @@ prerequisites: >
   - معرفة كيفية استخدام تطبيقات Dynamics 365
 
   - فهم أساسي لمفاهيم السحابة، وMicrosoft Power Platform
-iconUrl: /learn/achievements/get-started-financial-management-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/get-started-financial-management-in-dynamics-365-finance-ops.svg
 levels:
 - beginner
 roles:

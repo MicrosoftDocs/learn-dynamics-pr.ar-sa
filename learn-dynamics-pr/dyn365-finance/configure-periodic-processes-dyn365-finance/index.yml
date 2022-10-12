@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2c32f61d7392420155d8b1407fc2e95a521d0adc
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 74cb37b889f05b02a4813744d3a4f5ef8ccf5d9c
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748989"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508931"
 title: تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance.
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -24,7 +24,7 @@ prerequisites: >
   - معرفة العمليات المالية والمحاسبية
 
   - القدرة على استخدام Finance للمعالجة الأساسية
-iconUrl: /learn/achievements/configure-periodic-processes-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-periodic-processes-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

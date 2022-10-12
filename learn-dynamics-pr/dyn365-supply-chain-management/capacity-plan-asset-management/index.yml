@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d2ff756c1636b82c87c66e895e45c6d71145445e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ac1bfcd1bdeda152d6daea693a9c5f59ad01691c
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750898"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513379"
 title: العمل مع تخطيط القدرة الإنتاجية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nيساعد تخطيط القدرة الإنتاجية مؤسستك على تقدير قدرة حمل عمل أصولك. ويُعد ذلك من الأهمية بمكان نظراً لأنه يساعدك على التخطيط للصيانة، وتحديد أوامر العمل المخصصة لأصولك، سواءً كانت مجدولة أو غير مجدولة.  وتستعرض هذه الوحدة كيفية حساب القدرات الإنتاجية‬ لأصولك بالإضافة إلى التنبؤ باستهلاك الأصناف لأصولك على مدار فترة زمنية. \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- احسب القدرة الإنتاجية على أوامر العمل وبنود جدول الصيانة.\n- قم بإنشاء حساب تنبؤ لأوامر العمل وبنود جدول الصيانة.\n"
@@ -20,7 +20,7 @@ prerequisites: >
   - المعرفة العامة بإدارة الأصول وعمليات supply chain management.
 
   - القدرة على التنقل في Dynamics 365 Supply Chain Management.
-iconUrl: /learn/achievements/capacity-plan-asset-mgmt-dyn365-supply-chain-mgmt.svg
+iconUrl: /training/achievements/capacity-plan-asset-mgmt-dyn365-supply-chain-mgmt.svg
 levels:
 - intermediate
 roles:

@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4c2ef5c6864a30f25ff6571a365ce82962af9680
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 833ec357ff66cf780217696c18b93d7fb6079480
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752886"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505633"
 title: إعداد الأصول في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nقبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. ستوضح هذه الوحدة خلال الخطوات المتعلقة بكيفية إعداد الوظائف الرئيسية للأصول مثل كيفية إنشاء أنواع الأصول وإنشاء قوالب تقييم الحالة والتسجيلات على تلك الأصول وإنشاء حالات دورة حياة الأصول وإنشاء أنواع الأهمية الحيوية وغير ذلك الكثير.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد أنواع الأصول وإنشاءها.\n- راجع كيفية استخدام تقييمات الحالة لإدارة معداتك وصيانتها.\n- تعرف على كيفية استخدام عداد الأصول للمساعدة في تعقب خطط الصيانة واستخدامها.\n- مراجعة حالات دورة حياة الأصل وتحديد حالات الأصول.\n- قم بإعداد مستويات خدمة الأصول.\n- إنشاء مجموعات عاملين ومجموعات عاملي الصيانة.    \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد أنواع الأصول وإنشاءها.\n- راجع كيفية استخدام تقييمات الحالة لإدارة معداتك وصيانتها.\n- تعرف على كيفية استخدام عداد الأصول للمساعدة في تعقب خطط الصيانة واستخدامها.\n- مراجعة حالات دورة حياة الأصل وتحديد حالات الأصول.\n- قم بإعداد مستويات خدمة الأصول.\n- إنشاء مجموعات عاملين ومجموعات عاملي الصيانة.    \n"
 prerequisites: "- المعرفة العامة بإدارة الأصول. \n"
-iconUrl: /learn/achievements/setup-asset-management-dyn365-scm.svg
+iconUrl: /training/achievements/setup-asset-management-dyn365-scm.svg
 levels:
 - intermediate
 roles:

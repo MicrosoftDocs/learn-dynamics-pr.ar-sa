@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ea92aa1bd7512fb6ed6fd7dc15043960ed0940d2
-ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
+ms.openlocfilehash: a27abd91e4f217b140aec55cc22ffb74f604b97e
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "9013963"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508568"
 ---
 يوفر Microsoft Dynamics 365 Finance إمكانات لإدارة النقد والبنوك، وإدارة المصروفات، وإدارة الأصول الثابتة، وإعداد الموازنة.
 
@@ -14,7 +14,7 @@ ms.locfileid: "9013963"
 
 تتيح لك إدارة الأصول الثابتة التحكم في الأصول التي تمتلكها الشركة وتستخدمها في العمليات اليومية للشركة وليست مخصصة لإعادة بيعها للعملاء. تمتد الأعمار الإنتاجية لهذه الأصول لعدة سنوات.
 
-يوفر Dynamics 365 Finance أيضًا إمكانات إعداد الموازنة المدمجة مع ميزانيات دفتر الأستاذ، مثل موازنات القوى العاملة وموازنات الأصول الثابتة وموازنات المشروعات والتنبؤ بالطلب. تتوفر عدة منهجيات لتحديد الموازنات في مؤسستك، بما في ذلك الموازنة المستندة إلى صفر والموازنة التاريخية.
+يوفر Dynamics 365 Finance أيضاً إمكانات إعداد الموازنة المدمجة مع ميزانيات دفتر الأستاذ، مثل موازنات القوى العاملة وموازنات الأصول الثابتة وموازنات المشروعات والتنبؤ بالطلب. تتوفر عدة منهجيات لتحديد الموازنات في مؤسستك، بما في ذلك الموازنة المستندة إلى صفر والموازنة التاريخية.
 
 الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
@@ -56,10 +56,10 @@ ms.locfileid: "9013963"
 
 لمزيد من الدراسة:
 
-- [التعامل مع إدارة النقد والبنوك](/learn/modules/work-cash-bank-dyn365-dyn365-finance/)
+- [التعامل مع إدارة النقد والبنوك](/training/modules/work-cash-bank-dyn365-dyn365-finance/)
 
-- [بدء استخدام إدارة المصروفات](/learn/modules/get-started-expense-management/)
+- [بدء استخدام إدارة المصروفات](/training/modules/get-started-expense-management/)
 
-- [تكوين إدارة الأصول الثابتة](/learn/modules/configure-fixed-assets-mgmt-dyn365-finance/)
+- [تكوين إدارة الأصول الثابتة](/training/modules/configure-fixed-assets-mgmt-dyn365-finance/)
 
-- [تكوين واستخدام الموازنات الأساسية ورقابة الموازنة](/learn/modules/configure-use-basic-budgeting-budget-control-dyn365-finance/)
+- [تكوين واستخدام الموازنات الأساسية ورقابة الموازنة](/training/modules/configure-use-basic-budgeting-budget-control-dyn365-finance/)

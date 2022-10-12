@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 53283c5f57429a7a4e3a1e60f4763c227a53b215
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: ee99b24c350f11a2a9b5ee8dc79ccc2edde0fa67
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7348990"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9507705"
 ---
 تغطي هذه الوحدة النمطية الإجراءات الرئيسية في وحدة إدارة النقد والبنوك في Dynamics 365 Finance.
 
@@ -20,9 +20,9 @@ ms.locfileid: "7348990"
 
 | الموضوع | الارتباط  |
  | ------------- | ------------- |
- | تسوية الحسابات البنكية| [تكوين وإجراء عمليات دورية في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true)|
- | تحويل أرصدة البنك | [إعداد المحاسبة بين الشركات الشقيقة Dynamics 365 Finance](/learn/modules/intercompany-accounting-dyn365-finance/?azure-portal=true)|
-| إدارة خطابات الاعتماد وخطابات الضمان | [تكوين خطابات الاعتماد وخطابات الضمان في Finance](/learn/modules/configure-letters-credit-guarantees-dyn365-finance/?azure-portal=true)|
- | إنشاء دفع عن طريق طباعة الشيكات | [تنفيذ الإجراءات اليومية للحسابات الدائنة في Dynamics 365 Finance](/learn/modules/accounts-payable-daily-procedures-dyn365-finance/?azure-portal=true)|
-| إنشاء شيك بمبلغ مسترد يقوم بطباعة شيك | [تنفيذ الإجراءات اليومية للحسابات المدينة في Dynamics 365 Finance](/learn/modules/accounts-receivable-daily-procedures-dyn365-finance/?azure-portal=true)|
- | طرق الدفع | [تكوين الحسابات المدينة في Dynamics 365 Finance](/learn/modules/configure-accounts-receivable-dyn365-finance/?azure-portal=true)|
+ | تسوية الحسابات البنكية| [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance.](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true)|
+ | تحويل الأموال البنكية  | [المحاسبة بين الشركات الشقيقة في Dynamics 365 Finance](/training/modules/intercompany-accounting-dyn365-finance/?azure-portal=true)|
+| إدارة خطابات الاعتماد وخطابات الضمان | [تكوين خطابات الاعتماد وخطابات الضمان في Finance](/training/modules/configure-letters-credit-guarantees-dyn365-finance/?azure-portal=true)|
+ | إنشاء دفع عن طريق طباعة الشيكات | [تنفيذ الإجراءات اليومية للحسابات الدائنة في Dynamics 365 Finance](/training/modules/accounts-payable-daily-procedures-dyn365-finance/?azure-portal=true)|
+| إنشاء شيك بمبلغ مسترد يقوم بطباعة شيك | [تنفيذ الإجراءات اليومية لالحسابات المدينة في Dynamics 365 Finance](/training/modules/accounts-receivable-daily-procedures-dyn365-finance/?azure-portal=true)|
+ | طرق الدفع | [تكوين الحسابات المدينة في Dynamics 365 Finance](/training/modules/configure-accounts-receivable-dyn365-finance/?azure-portal=true)|

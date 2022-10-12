@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.debug-deploy-extension.badge
 metadata:
   title: 'Microsoft Badge: تصحيح الملحق ونشره في Dynamics 365 Business Central تم إصدارها من قبل Microsoft'
-  ms.openlocfilehash: 12639c57829cd61d1fdec7c59d4dfe2aba47d73a
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 35ecdadb516555c01b4110f61e9d49b70c2929a4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772238"
-socialImageUrl: /learn/achievements/debug-deploy-extension-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509942"
+socialImageUrl: /training/achievements/debug-deploy-extension-social.png

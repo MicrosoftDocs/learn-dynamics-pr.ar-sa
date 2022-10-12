@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 2724c0035921909ae85f399af2f2097ef5ad5423
-ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+ms.openlocfilehash: 6bc46e844bce44a825c5347c2f50aecd4b9e61ba
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "8771718"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9503975"
 ---
-توفر خدمات Azure السحابية ثروة من الوظائف وتمكن مطوري Microsoft Power Platform من تسخير إمكاناتها من خلال نقاط قابلية التوسعة المختلفة. تستعرض هذه الوحدة بعض تقنيات Azure في سياق كيفية تشغيل، أو ربما تشغيل، دور في تنفيذ Microsoft Power Platform المركز. يتضمن Azure العديد من الخدمات، ويجب أن يكون جميع مطوري Microsoft Power Platform على دراية بما يقدمه Azure. للحصول على نظرة عامة على جميع تقنيات Azure، راجع [موقع Azure على الويب](https://azure.microsoft.com/?azure-portal=true). لمزيد من التدريب المتعمق الذي سيعدك لخوض [اختبار أساسيات Microsoft Azure](/learn/certifications/exams/az-900/?azure-portal=true)، فكر في إكمال مسار تعليم أساسيات [Azure](/learn/paths/azure-fundamentals/?azure-portal=true).
+توفر خدمات Azure السحابية ثروة من الوظائف وتمكن مطوري Microsoft Power Platform من تسخير إمكاناتها من خلال نقاط قابلية التوسعة المختلفة. تستعرض هذه الوحدة بعض تقنيات Azure في سياق كيفية تشغيل، أو ربما تشغيل، دور في تنفيذ Microsoft Power Platform المركز. يتضمن Azure العديد من الخدمات، ويجب أن يكون جميع مطوري Microsoft Power Platform على دراية بما يقدمه Azure. للحصول على نظرة عامة على جميع تقنيات Azure، راجع [موقع Azure على الويب](https://azure.microsoft.com/?azure-portal=true). لمزيد من التدريب المتعمق الذي سيعدك لخوض [اختبار أساسيات Microsoft Azure](/certifications/exams/az-900/?azure-portal=true)، فكر في إكمال مسار تعليم أساسيات [Azure](/training/paths/azure-fundamentals/?azure-portal=true).
 
 يجب أن يصبح المطورون على دراية بقدرات التعليمات البرمجية المنخفضة لـ Microsoft Power Platform، حتى لا يعيدوا بناء شيء يقوم به بالفعل بشكل جيد. إذا كنت قادماً من خلفية مطور Azure، فقد يكون من السهل البدء بمكون Azure بدلاً من مكون Microsoft Power Platform. على سبيل المثال، إذا طُلب منك إنشاء دردشة آلية، فقد تنظر أولاً إلى Azure Bot Framework. بصفتك مطوراً يركز على Microsoft Power Platform، يمكنك أولاً البحث عن Power Virtual Agents لتنفيذ الدردشة الآلية. ثم استخدم مهارة Azure Bot Framework لزيادة قدرات الدردشة الآلية لـ Power Virtual Agent الذي قمت بإنشائه. باستخدام هذا الأسلوب، يتم إنشاء الحلول باستخدام التطوير السريع للتطبيقات في Microsoft Power Platform ولكن لا تزال تستفيد من التخصيصات العميقة الممكنة من خلال تضمين خدمات Azure والتعليمات البرمجية المخصصة.
 
@@ -49,15 +49,15 @@ ms.locfileid: "8771718"
 
 تتضمن Azure Cognitive Services واجهات برمجة التطبيقات ومجموعات تطوير البرامج (SDK) والخدمات المتوفرة لمساعدة المطورين على إضافة ميزات معرفية إلى تطبيقاتهم. يتيح إطار القابلية للتوسعة لـ Power Platform للمستخدمين دمج هذه الميزات في التطبيقات والتدفقات. يمكن تصنيف كتالوج الخدمات داخل Azure Cognitive Services إلى خمس ركائز رئيسية: الرؤية والكلام واللغة والبحث على الويب والقرار.
 
-لمزيد من التدريب المتعمق حول كيفية استخدام بعض ميزات الخدمات المعرفية، راجع مختلف [وحدات التعلم ومسارات التعليم المتوفرة التي تم وضع علامة عليها مع منتج الخدمات](/learn/browse/?products=azure-cognitive-services) المعرفية. لمزيد من المعلومات، راجع [وثائق Azure Cognitive Services](/azure/cognitive-services/?azure-portal=true).
+لمزيد من التدريب المتعمق حول كيفية استخدام بعض ميزات الخدمات المعرفية، راجع مختلف [وحدات التعلم ومسارات التعليم المتوفرة التي تم وضع علامة عليها مع منتج الخدمات](/training/browse/?products=azure-cognitive-services) المعرفية. لمزيد من المعلومات، راجع [وثائق Azure Cognitive Services](/azure/cognitive-services/?azure-portal=true).
 
 ## <a name="azure-bot-service"></a>خدمة روبوت Azure
 
-[توفر خدمة روبوت Azure](https://azure.microsoft.com/services/bot-services/?azure-portal=true) إطاراً يمكنك من خلاله إنشاء واختبار وتوزيع وإدارة الروبوتات الذكية كلها في مكان واحد. في كثير من الأحيان، تلعب الروبوتات دور الخدمة الذاتية للعملاء، وهو سيناريو شائع في تطبيق القناة متعددة الاتجاهات لـ Customer Service الخاص بـ Dynamics 365. تتوفر العديد من التطبيقات الأخرى لخدمة روبوت Azure، حيث يمكنك تحويل المهام البسيطة والمتكررة مثل جمع معلومات الملف الشخصي إلى إطار تفاعلي للأسئلة والأجوبة. لمزيد من المعلومات، راجع [وحدات تعلم خدمة روبوت Azure النمطية](/learn/browse/?products=azure-bot-service&azure-portal=true) وكذلك [وثائق خدمة روبوت Azure](/azure/bot-service/?azure-portal=true).
+[توفر خدمة روبوت Azure](https://azure.microsoft.com/services/bot-services/?azure-portal=true) إطاراً يمكنك من خلاله إنشاء واختبار وتوزيع وإدارة الروبوتات الذكية كلها في مكان واحد. في كثير من الأحيان، تلعب الروبوتات دور الخدمة الذاتية للعملاء، وهو سيناريو شائع في تطبيق القناة متعددة الاتجاهات لـ Customer Service الخاص بـ Dynamics 365. تتوفر العديد من التطبيقات الأخرى لخدمة روبوت Azure، حيث يمكنك تحويل المهام البسيطة والمتكررة مثل جمع معلومات الملف الشخصي إلى إطار تفاعلي للأسئلة والأجوبة. لمزيد من المعلومات، راجع [وحدات تعلم خدمة روبوت Azure النمطية](/training/browse/?products=azure-bot-service&azure-portal=true) وكذلك [وثائق خدمة روبوت Azure](/azure/bot-service/?azure-portal=true).
 
 يمكن للمطورين أيضا بناء مهارات Azure Bot Framework التي يمكن استخدامها مع Power Virtual Agents لتنفيذ معالجة التعليمات البرمجية المخصصة في روبوتات المحادثة ذات التعليمات البرمجية Power Virtual Agents المنخفضة. على سبيل المثال، يمكن للمهارة المخصصة استخدام سلسلة من الحوارات المخصصة للحصول على تفاعل أكثر تعقيداً مع مستخدم الروبوت مما هو ممكن مع مواضيع Power Virtual Agent.
 
-## <a name="azure-data-lake-and-azure-synapse-analytics"></a>Azure Data Lake وAzure Synapse Analytics
+## <a name="azure-data-lake-and-azure-synapse-analytics"></a>Azure Data Lake وتحليلات Azure Synapse
 
 تدعم بيانات Microsoft Power Platform بيانات [Azure Data Lake storage](https://azure.microsoft.com/services/storage/data-lake-storage/?azure-portal=true) مع Microsoft Dataverse وإطار عمل Common Data Model. يتيح الإنشاء على Microsoft Power Platform سيناريوهات التحليلات المعقدة حيث يمكنك استخدام أدوات البيانات الضخمة الصناعية مثل Power BI أو Azure HDInsight أو Azure Synapse.
 
@@ -69,7 +69,7 @@ ms.locfileid: "8771718"
 
 تم إنشاء Dataverse على رأس محرك [Azure SQL Database](https://azure.microsoft.com/services/sql-database/?azure-portal=true) ويتضمن اتصال بيانات SQL الذي يوفر وصولاً للقراءة فقط إلى بيانات الجدول لبيئة Dataverse الهدف. يمكن لمطوري SQL Server ذوي الخبرة استخدام التكنولوجيا المألوفة لتكون على الفور أكثر إنتاجية مع Dataverse. 
 
-يمكن لكل من Power Apps وPower Automate العمل مع البيانات في Azure SQL عبر موصل Azure SQL.
+يمكن لكلٍّ من Power Apps وPower Automate العمل مع البيانات في Azure SQL عبر موصل Azure SQL.
 
 ## <a name="other-services"></a>الخدمات الأخرى
 
@@ -86,4 +86,3 @@ ms.locfileid: "8771718"
 - أدوات المطورين
 
 يجب أن يكون مطورو Microsoft Power Platform على دراية بقدرات Azure للمساعدة على بناء وتوسيع حلول Microsoft Power Platform الفعالة.
-

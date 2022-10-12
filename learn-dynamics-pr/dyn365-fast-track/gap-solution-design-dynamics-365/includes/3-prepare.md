@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d8b570f090a1c4c6c92f097c2ac3445b044b8b58bdea6f476226ee295bcfd09b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: aff28e2c0bbd564155eedfde8229a0a12458f9ae
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7431748"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9517092"
 ---
 عادةً ما تستغرق ورشة تصميم حلول الثغرات حوالي ساعة إلى ثلاث ساعات. قد يختلف الوقت بناءً على مستوى التفاصيل المتاحة للمراجعة. سيعمل مهندس الحلول مع قيادة فريق التنفيذ لتخطيط ورشة العمل بناءً على تفاصيل الحلول التي تتم مراجعتها.
 
@@ -17,10 +17,10 @@ ms.locfileid: "7431748"
 - **مستندات حلول الثغرات** - وثائق تتضمن تفاصيل عن الحلول المقترحة التي تم تحديدها لسد الثغرات الموجودة.
 
 - **مستندات تحليل ثغرات الملاءمة** - الوثائق التي تقدم تفاصيل عن المجالات الوظيفية في عملية الأعمال التي تم تحديدها على أنها غير مدعومة من قبل النظام القياسي.
-    لمزيد من المعلومات، راجع [تنفيذ تحليل ثغرات الملاءمة](/learn/modules/fit-gap-analysis/?azure-portal=true).
+    لمزيد من المعلومات، راجع [تنفيذ تحليل ثغرات الملاءمة](/training/modules/fit-gap-analysis/?azure-portal=true).
 
 - **وثائق التصميم الوظيفي** - الوثائق التي تصف الميزات المخططة المضمنة في التخصيصات.
-    لمزيد من المعلومات، راجع [إنشاء مستندات التصميم الوظيفي (FDD)](/learn/modules/design-plan-implementation-finance-operations/12-design-doc/?azure-portal=true).
+    لمزيد من المعلومات، راجع [إنشاء مستندات التصميم الوظيفي (FDD)](/training/modules/design-plan-implementation-finance-operations/12-design-doc/?azure-portal=true).
 
 - **مستندات التصميم الفني** - الوثائق التي تصف بالتفصيل تصميم الحلول المخططة.
 

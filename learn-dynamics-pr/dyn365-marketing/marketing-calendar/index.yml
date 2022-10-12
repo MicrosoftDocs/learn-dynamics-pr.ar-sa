@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c3c915a856736b198f024074f10cdacf994cfcc7
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e35cb931ff77370794f8a98349de55c00644d94a
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748917"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505753"
 title: مراجعه تقويم التسويق في Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \n\nتصور أنشطة التسويق وعرض الكيانات والأنشطة ذات الصلة وتخصيص تقويمات التسويق.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- مراجعة تقويمات الكيان\n- مراجعة تقويمات النماذج\n- إنشاء تقويمات التسويق وتخصيصها\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة تقويمات الكيان\n- مراجعة تقويمات النماذج\n- إنشاء تقويمات التسويق وتخصيصها\n"
 prerequisites: الإلمام بخصائص Dynamics 365 Marketing
-iconUrl: /learn/achievements/marketing-calendar.svg
+iconUrl: /training/achievements/marketing-calendar.svg
 levels:
 - intermediate
 roles:

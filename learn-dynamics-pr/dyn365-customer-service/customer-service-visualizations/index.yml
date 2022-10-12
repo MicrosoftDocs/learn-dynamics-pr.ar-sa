@@ -7,16 +7,16 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7d31af6f20b97343159e2b4e7f7ea41028a19ba6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: f0a510d115dc68dce1903c136d788eb60e618af6
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750746"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514180"
 title: إنشاء الرسوم المرئية لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nيتضمن Microsoft Dynamics 365 Customer Service ميزات عديدة لإعداد التقارير وعرض البيانات لمساعدة المستخدمين على إدارة أعباء العمل الخاصة بالحالة‬ لديهم. ستتناول هذه الوحدة الخيارات التي وفرتها Customer Service.\n"
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - راجع تقارير البيانات وخيارات الرسوم المرئية في Dynamics 365 Customer Service.
 
@@ -26,7 +26,7 @@ abstract: >
 
   - اكتشف كيفية استخدام Microsoft Power BI لعرض بيانات Dynamics 365 Customer Service.
 prerequisites: المعرفة بـ Dynamics 365 Customer Service
-iconUrl: /learn/achievements/customer-service-visualizations.svg
+iconUrl: /training/achievements/customer-service-visualizations.svg
 levels:
 - intermediate
 roles:

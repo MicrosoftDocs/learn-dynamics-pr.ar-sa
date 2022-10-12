@@ -9,16 +9,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 4a23abebd308f4c6ab3ebb6f2837a5172eb9418e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 12086bf5e79ecad602455b24d2ad609c3e7134fb
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751746"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504004"
 title: تزويد الأصناف في Microsoft Dynamics 365 Business Central
 summary: هل أنت بحاجة إلى تزويد أصناف المخزون في عملك؟ سيظهر لك مسار التعليم خيارات يُمكنك استخدامها لتزويد الأصناف في Business Central بطريقة فعالة.
 prerequisites: "- الفهم الأساسي لكيفية التنقل في Business Central.\n- تعرف على كيفية إعداد الأصناف في Business Central \n- تعرف على كيفية إدخال أوامر الشراء وفهم طريقة عملها في Business Central\n"
-iconUrl: /learn/achievements/replenish-items-dynamics-365-business-central.svg
+iconUrl: /training/achievements/replenish-items-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

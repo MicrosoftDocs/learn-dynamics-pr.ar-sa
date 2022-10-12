@@ -8,16 +8,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 34908c08386b1f5ad4b054b4cd5d5e83437fe19a
-  ms.sourcegitcommit: a5ae886f19b83dd321b63dd465e0abd453150eae
+  ms.openlocfilehash: a3614d22fcfee409de53c87fda965b18e92f9b4a
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/30/2022
-  ms.locfileid: "9210610"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516887"
 title: بدء التصنيع في Microsoft Dynamics 365 Business Central
 summary: هل تقوم بتصنيع المنتجات؟ يساعدك مسار التعليم هذا على فهم الوظائف المتوفرة في Business Central لمساعدتك في إدارة أعمالك.
 prerequisites: "- فهم أساسي لتطبيق Dynamics 365 Business Central \n- المعرفة الأساسية بعملية التصنيع\n"
-iconUrl: /learn/achievements/get-started-manufacturing-business-central.svg
+iconUrl: /training/achievements/get-started-manufacturing-business-central.svg
 levels:
 - intermediate
 roles:

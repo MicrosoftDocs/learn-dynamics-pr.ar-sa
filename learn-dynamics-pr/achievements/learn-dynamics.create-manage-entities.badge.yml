@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.create-manage-entities.badge
 metadata:
   title: 'Microsoft Badge: تم إصدار إدارة الجداول في Dataverse بواسطة Microsoft'
-  ms.openlocfilehash: 0162612fb812abd1b6535810d74e47e85f3b678a
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: b8de8db7d7d7ccf7ddda5cc17f0bbf5a8979bcd6
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772239"
-socialImageUrl: /learn/achievements/create-manage-entities-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516667"
+socialImageUrl: /training/achievements/create-manage-entities-social.png

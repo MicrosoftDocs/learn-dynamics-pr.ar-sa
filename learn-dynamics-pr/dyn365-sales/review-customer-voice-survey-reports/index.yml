@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 29c3f5cbf2a505fe3d1dd0c41d1c824e4efe537f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 298ce14e232fb3d17fa81b171d3da7a2e3c65b7b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750647"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514640"
 title: مراجعة تقارير استطلاع Customer Voice
 summary: "[!include[](../includes/module-banner.md)] \nاعرف كيفية تحليل نتائج تقرير الاستطلاع في Dynamics 365 Customer Voice وتصفيتها وتصديرها.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تحليل تقارير استطلاع Dynamics 365 Customer Voice.\n- اعرف كيفية تصفية نتائج تقرير الاستطلاع وتصفيتها وتصديرها.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تحليل تقارير استطلاع Dynamics 365 Customer Voice.\n- اعرف كيفية تصفية نتائج تقرير الاستطلاع وتصفيتها وتصديرها.\n"
 prerequisites: المعرفة الأساسية بـ Microsoft Dynamics 365 Sales وDynamics 365 Customer Voice
-iconUrl: /learn/achievements/review-customer-voice-survey-reports.svg
+iconUrl: /training/achievements/review-customer-voice-survey-reports.svg
 levels:
 - intermediate
 roles:

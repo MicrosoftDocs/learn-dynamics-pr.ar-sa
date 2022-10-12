@@ -8,17 +8,17 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 37763a2b96170ba430efa74df4cdedc4b895394a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3dc34b542c27d216da32dc0984dbf209a98e9a5f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749196"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9506783"
 title: بدء العمل مع تطبيق Dynamics 365 Field Service ‏Mobile
 summary: "[!include[](../includes/module-banner.md)] \nتم إنشاء تطبيق Dynamics 365 Field Service ‏Mobile في Microsoft Power Platform ويوفر الأدوات التي تساعد العاملين على خدمة العملاء في هذا المجال. في أثناء العمل في هذا المجال، يُمكنهم الوصول إلى معلومات مهمة مثل أوامر العمل وقوائم أصول العملاء والحسابات وجهات الاتصال.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على كيفية نشر تطبيقات الأجهزة المحمولة واستخدامها.\n- تعرّف على أصول الخدمة.\n- استخدم البيانات المتصلة وغير المتصلة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على كيفية نشر تطبيقات الأجهزة المحمولة واستخدامها.\n- تعرّف على أصول الخدمة.\n- استخدم البيانات المتصلة وغير المتصلة.\n"
 prerequisites: فهم كامل لتطبيق Field Service.
-iconUrl: /learn/achievements/get-started-mobile-app.svg
+iconUrl: /training/achievements/get-started-mobile-app.svg
 levels:
 - intermediate
 roles:

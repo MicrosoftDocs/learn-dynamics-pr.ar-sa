@@ -7,21 +7,21 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dc414fff2924e53615d703abfa187a8d6b9fc42f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 17fa72b7898141a296a3b863f6e245d6058f4bc2
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748872"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504115"
 title: إدارة العملاء المتوقعين باستخدام Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   تتيح لك إمكانات إدارة العملاء المتوقعين في Microsoft Dynamics 365 التواصل مع عملائك بطريقة جديدة تماماً. تقدم هذه الوحدة لمحة عامة عن العملاء المتوقعين، وتصف الخيارات المختلفة لإنشاء العملاء المتوقعين وإدارتهم والعمل معهم طوال دورة حياتهم. كما يوفر معلومات حول تأهيل العملاء المحتملين واستبعادهم. كلما زاد عدد العملاء المحتملين لديك، زادت فرصك في الحصول على الفرص وإتمام الصفقات بنجاح.
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- دراسة عملية تأهيل العميل المحتمل في Dynamics 365 من البداية إلى النهاية\n- تحديد الخيارات المختلفة المتوفرة لإنشاء وتحديد العملاء المتوقعين\n- استخدام سير إجراءات العمل لإدارة دورة حياة المتطوع المحتمل\n- تأهيل العملاء المتوقعين إلغاء تأهيل العملاء المتوقعين\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- دراسة عملية تأهيل العميل المحتمل في Dynamics 365 من البداية إلى النهاية\n- تحديد الخيارات المختلفة المتوفرة لإنشاء وتحديد العملاء المتوقعين\n- استخدام سير إجراءات العمل لإدارة دورة حياة المتطوع المحتمل\n- تأهيل العملاء المتوقعين إلغاء تأهيل العملاء المتوقعين\n"
 prerequisites: يجب أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365، وأيضًا معرفة عملية بالسجلات الأساسية المتوفرة.
-iconUrl: /learn/achievements/manage-leads-d365-sales.svg
+iconUrl: /training/achievements/manage-leads-d365-sales.svg
 levels:
 - intermediate
 roles:

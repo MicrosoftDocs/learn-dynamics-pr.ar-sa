@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6ee73cc2fe2003c735399162f1eba25e2f1afed9
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 42dd70c13990a65b30ba80c6f00694c0d28a066d
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7358555"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9514610"
 ---
 فيما يلي مصطلحات التوجيه الأساسية في إدارة النقل:
 
@@ -144,4 +144,4 @@ ms.locfileid: "7358555"
 يمكنك جعل بعض أصناف المخزون متوفرة فقط للعملاء أو المورّدين، أو لكل من العملاء والمورّدين. بالنسبة لأي صنف تقوم بإعداده على أنه متوفر بشكل عام، لا يتم تطبيق عوامل تصفية العملاء وعوامل تصفية المورّدين.
 
 
-لمزيد من المعلومات حول عوامل التصفية، راجع [تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true) و[العمل مع إدارة المستودعات في Dynamics 365 Supply Chain Management](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول عوامل التصفية، راجع [تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management](/training/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true) و[العمل مع إدارة المستودعات في Dynamics 365 Supply Chain Management](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).

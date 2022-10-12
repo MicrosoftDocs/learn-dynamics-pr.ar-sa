@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d47b4968c8c0d59b4fbca8a20a0d2c80fab11991
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 12003b502389da76f6725c9f9236b5be9a713d32
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750862"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504783"
 title: إعداد طلبات الصيانة في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nلاستخدام مكونات الصيانة لإدارة الأصول في مؤسستك لـ Dynamics 365 Supply Chain Management، يجب أولاً إعداد إطار العمل. ستوضح هذه الوحدة كيفية تكوين طلبات الصيانة وأنواع الطلبات وحالات دورة الحياة وإنشاء مسؤوليات عامل الصيانة.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين طلبات الصيانة.\n- قم بمراجعة كيفية إعداد حالات دورة حياة.\n- تحديد كيفية إنشاء أنواع طلب الصيانة.\n- إنشاء مسؤوليات عمال الصيانة في إدارة الأصول. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تكوين طلبات الصيانة.\n- قم بمراجعة كيفية إعداد حالات دورة حياة.\n- تحديد كيفية إنشاء أنواع طلب الصيانة.\n- إنشاء مسؤوليات عمال الصيانة في إدارة الأصول. \n"
 prerequisites: >
   - المعرفة العامة بإدارة الأصول.
 
   - الإلمام بشروط الصيانة والعمليات.
 
   - القدرة على التنقل في Dynamics 365 Supply Chain Management.
-iconUrl: /learn/achievements/setup-maintenance-asset-management.svg
+iconUrl: /training/achievements/setup-maintenance-asset-management.svg
 levels:
 - intermediate
 roles:

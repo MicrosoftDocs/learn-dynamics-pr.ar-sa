@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 73a9a7ed24fa5d7fda29546d0107977d407a0215
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c29b03acdd24e056053bf76f2163256ded1842e8
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748953"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504184"
 title: استدعاء واجهة API في الوقت الحقيقي لـ Dynamics 365 Fraud Protection
 summary: "[!include[](../includes/module-banner.md)] \nمكّن المجموعة الكاملة من ميزات Dynamics 365 Fraud Protection عن طريق إرسال بيانات الحركات إلى واجهات API في الوقت الحقيقي. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تنفيذ تطبيقات واجهات API لحماية الحساب وحماية المشتريات.\n- تحليل استجابة API.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تنفيذ تطبيقات واجهات API لحماية الحساب وحماية المشتريات.\n- تحليل استجابة API.\n"
 prerequisites: "- تزويد Dynamics 365 Fraud Protection \n- تنفيذ بصمة الجهاز Dynamics 365 Fraud Protection\n- الوصول إلى مدخل Dynamics 365 Fraud Protection\n- تنزيل عميل Postman (أو أي عميل آخر من اختيارك)\n"
-iconUrl: /learn/achievements/call-real-item-apis.svg
+iconUrl: /training/achievements/call-real-item-apis.svg
 levels:
 - intermediate
 roles:

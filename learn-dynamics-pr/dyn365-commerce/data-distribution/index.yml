@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6fc94a2759cf631d62b4670132b81b916b99948a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a34111beaad90ef7fd9555266e279421a44a85de
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8754145"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516351"
 title: توزيع البيانات في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيستند توزيع البيانات في Dynamics 365 Commerce على Commerce Data Exchange، والذي ينقل البيانات بين المركز الرئيسي (HQ) في Commerce والقنوات المختلفة. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف مكونات توزيع البيانات وكيف تتم مزامنة البيانات بين Commerce Headquarters والقنوات المختلفة.\n- احصل على نظرة عامة على جدول التوزيع.\n- تعرف على الفرق بين الخدمة في الوقت الحقيقي وغير المتزامن. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف مكونات توزيع البيانات وكيف تتم مزامنة البيانات بين Commerce Headquarters والقنوات المختلفة.\n- احصل على نظرة عامة على جدول التوزيع.\n- تعرف على الفرق بين الخدمة في الوقت الحقيقي وغير المتزامن. \n"
 prerequisites: >
   - الفهم العام لقنوات Dynamics 365 Commerce
 
   - الفهم العام لبنية Dynamics 365 Commerce
-iconUrl: /learn/achievements/data-distribution-commerce.svg
+iconUrl: /training/achievements/data-distribution-commerce.svg
 levels:
 - intermediate
 roles:

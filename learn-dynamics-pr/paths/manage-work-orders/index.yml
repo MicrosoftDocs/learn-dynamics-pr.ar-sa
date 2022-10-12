@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-field-service
-  ms.openlocfilehash: c95e232de03c6654f4c08481817aa07a61aff3ae
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 4b713977b3c92b77ab9557322d8bdb320c6814e2
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751881"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511067"
 title: إدارة أوامر العمل في Dynamics 365 Field Service
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -21,7 +21,7 @@ summary: >
   هل تستخدم أوامر العمل لإدارة التفاعلات مع العملاء؟ يتناول مسار التعليم هذا كيفية استخدام أوامر العمل وإدارتها باستخدام Dynamics 365 Field Service.
 prerequisites: >
   - المعرفة الأساسية بتطبيق Dynamics 365 Field Service.
-iconUrl: /learn/achievements/manage-work-orders.svg
+iconUrl: /training/achievements/manage-work-orders.svg
 levels:
 - intermediate
 roles:

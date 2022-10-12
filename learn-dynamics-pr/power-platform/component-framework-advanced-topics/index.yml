@@ -9,17 +9,17 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: mda-developer
-  ms.openlocfilehash: dce68de20ed3a9bce52ff096867a94b8a8cf429c
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: a1b79ca34e61480efa908bf1d699b9d2f00d9074
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363627"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508618"
 title: استخدام الميزات المتقدمة مع Power Apps component framework
 summary: "[!include[](../includes/module-banner.md)] \nاحصل على تفاصيل حول كيفية توجيه سيناريوهات أكثر تعقيداً تنطبق على Power Apps component framework.  تتناول هذه الوحدة النمطية كيفية تحسين إطارات عمل العميل مثل React وAngular داخل مكون، إلى جانب كيفية مواجهة سيناريوهات مثل تحميل الملفات والترجمة والتكامل مع Web API لـ Microsoft Dataverse. \n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- استخدم API بتنسيقه في أحد مكونات Power Apps. \n- استخدام web API لـ Dataverse في أحد مكونات Power Apps.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استخدم API بتنسيقه في أحد مكونات Power Apps. \n- استخدام web API لـ Dataverse في أحد مكونات Power Apps.\n"
 prerequisites: يعتبر عمل التطوير السابق مفيداً.
-iconUrl: /learn/achievements/component-framework-advanced-topics.svg
+iconUrl: /training/achievements/component-framework-advanced-topics.svg
 levels:
 - advanced
 roles:

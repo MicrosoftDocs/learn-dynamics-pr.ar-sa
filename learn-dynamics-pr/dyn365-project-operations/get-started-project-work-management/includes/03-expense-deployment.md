@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 377511b50405b19d5b2ed829f47ccddf55c70877
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 2f7133d492de74d7a669e1549965f9869c2efd28
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7324377"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9513399"
 ---
 تدعم Project Operations القدرة على معالجة المصروفات. تحدث معالجة المصروفات مع المشروعات أو بدونها باستخدام سير عمل قابل للتخصيص من السياسات، وفئات الحركات، والموافقات.
 
@@ -14,7 +14,7 @@ ms.locfileid: "7324377"
 
 - **أساسي** - التوزيع الأساسي متوفر لـ **Project Operations للسيناريوهات المستندة إلى الموارد/غير المخزنة** و **‏‫التوزيع البسيط - التعامل مع الفواتير الأولية**.
 
-لمزيد من المعلومات، راجع [أنواع التوزيع]( /learn/modules/get-started-project-operations/4-deployment/?azure-portal=true).
+لمزيد من المعلومات، راجع [أنواع التوزيع]( /training/modules/get-started-project-operations/4-deployment/?azure-portal=true).
 
 ## <a name="full-expense"></a>المصروفات الكاملة
 يوفر توزيع المصروفات الكاملة إنفاذاً كاملاً للنهج يتضمن القدرة على إنشاء نُهج، مثل:
@@ -27,4 +27,3 @@ ms.locfileid: "7324377"
 
 ## <a name="basic-expense"></a>المصروفات الأساسية
 يسمح لك سيناريو توزيع المصروفات الأساسية بتسجيل المصروفات الأساسية مقابل المشروع.
-

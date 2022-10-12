@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 65e41d3482b984fe241bbe3b6d307fce1c512306
-  ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
+  ms.openlocfilehash: 52693f768e819f8c7b02ec42d3977a8c82b41436
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/05/2022
-  ms.locfileid: "9114567"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508861"
 title: بدء استخدام Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nيُمكّن Microsoft Dynamics 365 Project Operations مستخدمي الأعمال من التكيف مع بيئات العمل المتغيرة بسرعة. يوفر للشركات كل ما تحتاجه لإدارة دورة حياة المشروع من مبيعات المشروع إلى إعداد الفواتير والمحاسبة للمشاريع. يوفر تحليلات ورؤى قيّمة حول استخدام الموارد، والتوافر، والهوامش الإجمالية، وتتبع التقدم والإنفاق على المشاريع. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على مزايا Dynamics 365 Project Operations.\n- اكتشاف الميزات في Project Operations.\n"
@@ -25,7 +25,7 @@ prerequisites: >
   - معرفة كيفية استخدام تطبيقات Dynamics 365.
 
   - فهم أساسي لمفاهيم السحابة وMicrosoft Power Platform.
-iconUrl: /learn/achievements/get-started-project-operations.svg
+iconUrl: /training/achievements/get-started-project-operations.svg
 levels:
 - beginner
 roles:

@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dea5d6052d61e5b4978df5db4e1cd54c6a0c3350
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c1df3ec6d067e190418d989c48c745afe5aed5f9
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750208"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507595"
 title: تحويل المتطوعين المحتملين في Dynamics 365 Sales إلى العملاء في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nويتمثل الهدف المهم لمعظم الأعمال في تحويل المتطوعين المحتملين إلى العملاء، ثم الحفاظ على علاقة عمل مستمرة مع هؤلاء العملاء. يؤدي تكامل المتطوع المحتمل إلى النقدي‬ بواسطة الكتابة المزدوجة إلى إنشاء سير عمل يأخذ عرض أسعار وأمر ينشأ في Dynamics 365 Sales أو Dynamics 365 Supply Chain Management، ويجعل عرض الأسعار والأمر متاحين في كلا التطبيقين.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرَّف على كيفية إعداد التعيين في Dynamics 365 Sales وDynamics 365 Supply Chain Management\n- تعرَّف على كيفية مزامنة الأوامر وعروض الأسعار بين المبيعات وSupply Chain Management.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرَّف على كيفية إعداد التعيين في Dynamics 365 Sales وDynamics 365 Supply Chain Management\n- تعرَّف على كيفية مزامنة الأوامر وعروض الأسعار بين المبيعات وSupply Chain Management.\n"
 prerequisites: >
   - المعرفة العملية بـ Supply Chain Management
 
   - المعرفة العملية بالمبيعات
 
   - المعرفة بالمبيعات وعمليات Supply Chain Management
-iconUrl: /learn/achievements/convert-prospects-sales-customers.svg
+iconUrl: /training/achievements/convert-prospects-sales-customers.svg
 levels:
 - intermediate
 roles:

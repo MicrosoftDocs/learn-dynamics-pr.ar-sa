@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aeffe1aad3f0d1f76885ef51e42e8428cba510d9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 33bc3e1773364ebc3e10aa3e28c2b4e1ae9aa7c9
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753301"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515306"
 title: إنشاء حل المساعدة الذكية في القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nهل تريد إنشاء روبوتات مخصصة وتوصيلها بالبيئات لتقديم التوصيات ذات الصلة إلى المناديب؟ توضح هذه الوحدة كيفية إنشاء بطاقات تكيفية وروبوتات مخصصة وكيفية تمكين جزء الإنتاجية.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتب بطاقات تكيفية تعرض المحتوى لروبوت المساعدة الذكية.\n- إنشاء روبوت المساعدة الذكية.\n- إنشاء مستخدم روبوت.\n- إضافة روبوت المساعدة الذكية إلى دفق العمل.\n- تمكين جزء الإنتاجية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتب بطاقات تكيفية تعرض المحتوى لروبوت المساعدة الذكية.\n- إنشاء روبوت المساعدة الذكية.\n- إنشاء مستخدم روبوت.\n- إضافة روبوت المساعدة الذكية إلى دفق العمل.\n- تمكين جزء الإنتاجية.\n"
 prerequisites: لاستخدام المساعدة الذكية، يجب نشر حل أدوات إنتاجية Dynamics 365 في بيئتك. يمكنك تنزيله مجانًا من Microsoft AppSource.
-iconUrl: /learn/achievements/create-smart-assist-omnichannel.svg
+iconUrl: /training/achievements/create-smart-assist-omnichannel.svg
 levels:
 - intermediate
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 38269f61f4d64fd786b64ef87456931bd80ac748
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: 768063e88a426e9ad9478fcb9aad8231f4c6ddb1
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9405080"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508831"
 ---
 قبل استخدام وظيفة إدارة التغييرات الهندسية لـ Microsoft Dynamics 365 Supply Chain Management، يجب عليك أن تتأكد من تمكين مفتاح التكوين.
 
@@ -26,6 +26,6 @@ ms.locfileid: "9405080"
 بعد ذلك، ستحتاج إلى تشغيل مفتاح التكوين لإدارة التغييرات الهندسية باتباع الخطوات التالية:
 
 > [!NOTE]
-> يجب تشغيل مفتاح تكوين إضافي حتى تتمكن من العمل مع إصدارات المنتج. لمزيد من المعلومات، راجع [إنشاء مجموعات أبعاد المنتج باستخدام بُعد الإصدار](/learn/modules/set-up-versioned-products-engineering-change-management/5-dimension-groups/?azure-portal=true).
+> يجب تشغيل مفتاح تكوين إضافي حتى تتمكن من العمل مع إصدارات المنتج. لمزيد من المعلومات، راجع [إنشاء مجموعات أبعاد المنتج باستخدام بُعد الإصدار](/training/modules/set-up-versioned-products-engineering-change-management/5-dimension-groups/?azure-portal=true).
 
 الآن بعد أن قمت بتمكين الميزات المطلوبة لاستخدام وظيفة إدارة التغيير الهندسي، فأنت جاهز لإعداد الوظائف التي سيستخدمها عملك.

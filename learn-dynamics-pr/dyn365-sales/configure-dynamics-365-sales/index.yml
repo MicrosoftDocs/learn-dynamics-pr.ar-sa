@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 18e8c6cd248022e40390fa929177f97d373af63c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e0c89bba9d4bb38f4f5f23537663aa75c2f07050
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750501"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9512375"
 title: إعداد وتكوين Dynamics 365 Sales
 summary: "[!include[](../includes/module-banner.md)] \nيساعد Dynamics 365 Sales مندوبي المبيعات على بناء علاقات قوية مع عملائهم واتخاذ الإجراءات اللازمة بناءً على نتائج التحليلات وإغلاق المبيعات بشكل أسرع. كما أنه يساعد على تتبع الحسابات وجهات الاتصال، وتعزيز المبيعات من المتطوع المحتمل إلى الطلب، وإنشاء ضمانات المبيعات. تقدم هذه الوحدة النمطية تطبيق Dynamics 365 Sales وتشرح كيفية إعداد التطبيق.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على الميزات الرئيسية لـ Dynamics 365 Sales وكيف يمكن أن تساعد مؤسستك.\n- قم بتكوين الإعدادات الرئيسية التي يجب على المؤسسات تخصيصها عند إعداد التطبيق.\n- قم بإعداد أدوار الأمان المضمنة لمستخدمي المبيعات.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على الميزات الرئيسية لـ Dynamics 365 Sales وكيف يمكن أن تساعد مؤسستك.\n- قم بتكوين الإعدادات الرئيسية التي يجب على المؤسسات تخصيصها عند إعداد التطبيق.\n- قم بإعداد أدوار الأمان المضمنة لمستخدمي المبيعات.\n"
 prerequisites: المفاهيم الأساسية للتنقل في تطبيق Microsoft Dynamics 365 ومعرفة عملية بالسجلات الأساسية المستخدمة في سيناريوهات المبيعات
-iconUrl: /learn/achievements/configure-dynamics-365-sales.svg
+iconUrl: /training/achievements/configure-dynamics-365-sales.svg
 levels:
 - beginner
 roles:

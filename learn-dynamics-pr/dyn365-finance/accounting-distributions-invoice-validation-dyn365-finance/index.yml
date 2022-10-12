@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f4397d1a6a1a7a914a91a9c4b91d2ea8f9a33c44
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 7caa108ad1bcc3ec0d3cf664399346f40322b5eb
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749510"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515535"
 title: التعامل مع التوزيعات المحاسبية وعمليات التحقق من صحة الفواتير والتسويات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nتُستخدم التوزيعات المحاسبية لتحديد كيفية حساب المبلغ، مثل كيفية احتساب المصروفات أو الضرائب أو التكاليف في فاتورة المورّد. سيكون لكل مبلغ يجب احتسابه عند تسجيل فاتورة المورّد في دفتر اليومية توزيع محاسبي واحد أو أكثر. \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تسوية الحركات والتراجع عن التسويات. \n- توزيع الأموال باستخدام التوزيعات المحاسبية.\n- تكوين سياسات التحقق من صحة الفواتير.\n"
 prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n- الفهم العام لفوترة أمر الشراء \n- القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية\n"
-iconUrl: /learn/achievements/accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/accounting-distributions-invoice-validations-settlements-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1ec81a90354da66c0d5d2000e393946c153530a6
-ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
+ms.openlocfilehash: ec87d04e52557bdb14028aa154e489137f2641cb
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "8808076"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9503935"
 ---
 عرضت هذه الوحدة إمكانات إدارة الجدولة والأصول في Dynamics 365 Field Service. 
 
@@ -30,7 +30,7 @@ ms.locfileid: "8808076"
 
 ### <a name="dynamics-365-field-service"></a>Dynamics 365 Field Service
 
-- [موقع الويب](https://dynamics.microsoft.com/field-service/overview/) |[مدونة Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/) | [الوثائق](/dynamics365/field-service/user-guide) | [التعلم](/learn/browse/?products=dynamics-field-service)
+- [موقع الويب](https://dynamics.microsoft.com/field-service/overview/) |[مدونة Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/) | [الوثائق](/dynamics365/field-service/user-guide) | [التعلم](/training/browse/?products=dynamics-field-service)
 
 - [مجتمع Dynamics 365](https://community.dynamics.com/) 
 
@@ -60,6 +60,6 @@ ms.locfileid: "8808076"
 
 ## <a name="for-further-study"></a>لمزيد من الدراسة
 
-- [إدارة خيارات الجدولة في Dynamics 365 Field Service](/learn/modules/manage-scheduling-options-urs-dynamics-field-service/)
+- [إدارة خيارات الجدولة في Dynamics 365 Field Service](/training/modules/manage-scheduling-options-urs-dynamics-field-service/)
 
  

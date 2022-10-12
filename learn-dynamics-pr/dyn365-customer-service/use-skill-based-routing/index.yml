@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 020238b18250a7630378e0353c44318b5369f77a
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: f814413e1e5ad56e86bae640cecfdc7f951e42a0
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9063688"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510274"
 title: استخدام التوجيه المستند إلى المهارات في Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nتشتمل ميزة التوجيه الموحد في Dynamics 365 Customer Service على حل توجيه مستند إلى المهارات يساعد المؤسسات على معالجة المشكلات المتعلقة بالعميل بشكل أكثر فاعليةً. تساعد واجهته القابلة للتكوين على ضمان توجيه المحادثات إلى المندوبين الذين لديهم المهارات ومستويات الكفاءة التي تتطابق مع تلك المستويات المحددة في المحادثة الواردة.  \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على نماذج تقييم المهارات.\n- تعلم كيفية تعيين المندوبين للمهارات.\n- تعرف على الباحث عن المهارات الذكية.\n"
 prerequisites: تجربة مع تطبيق خدمة العملاء والتوجيه الموحد
-iconUrl: /learn/achievements/use-skill-based-routing.svg
+iconUrl: /training/achievements/use-skill-based-routing.svg
 levels:
 - intermediate
 roles:

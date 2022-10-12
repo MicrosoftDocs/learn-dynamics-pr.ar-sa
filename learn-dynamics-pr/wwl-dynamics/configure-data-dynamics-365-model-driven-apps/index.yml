@@ -8,12 +8,12 @@ metadata:
   ms.author: anjenni
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: 5bd42b6c803cfd7ae6df59e311b368288ef0511e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ab75f29c43ed9392857facbb3a6b9816f5c9de43
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8747903"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509447"
 title: تكوين البيانات في تطبيقات Dynamics 365 المستندة إلى النموذج
 summary: في هذه الوحدة، سيتعلم الطلاب كيفية تكوين الكيانات والحقول وعرض البيانات في النماذج وأتمتة عمليات الأعمال.
 abstract: >
@@ -28,7 +28,7 @@ abstract: >
   - أتمتة العمليات التجارية
 prerequisites: >
   يوصى بكل من مسارات التعرف على أساسيات Dynamics 365 وPower Platform ‏Fundamentals
-iconUrl: /learn/achievements/configure-data-dynamics-365-model-driven-apps.svg
+iconUrl: /training/achievements/configure-data-dynamics-365-model-driven-apps.svg
 levels:
 - beginner
 roles:

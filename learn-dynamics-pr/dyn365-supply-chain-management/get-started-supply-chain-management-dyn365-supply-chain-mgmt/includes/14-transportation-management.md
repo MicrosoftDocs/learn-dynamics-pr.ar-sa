@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7b7f0440a4472496d2a5fe402e202142764ee9f5
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 11c1b107609da9cd11ca61a85bf353cd9f1a8d91
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7328017"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508811"
 ---
 تتيح لك وحدة إدارة النقل في إدارة سلسلة التوريد استخدام وسائل النقل الخاصة بشركتك، وتتيح لك تحديد حلول الموردين والتوجيه للأوامر الواردة والصادرة.
  
@@ -17,4 +17,4 @@ ms.locfileid: "7328017"
 - تتوفر سيارات الشركة الخاصة للتسليم/الاستلام، ولكن لا يتم تحويل رسوم التوصيل إلى العملاء لأن أسعار المنتجات تشمل النقل.
 - يتم تقديم الخدمة اللوجستية من قبل كيان قانوني آخر في نفس الشركة.
 
-لمزيد من المعلومات، راجع [تكوين إدارة النقل والعمل بها في مسار تعلم Dynamics 365 Supply Chain Management](/learn/paths/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات، راجع [تكوين إدارة النقل والعمل بها في مسار تعلم Dynamics 365 Supply Chain Management](/training/paths/configure-work-transportation-mgmt-dyn365-supply-chain-mgmt/?azure-portal=true).

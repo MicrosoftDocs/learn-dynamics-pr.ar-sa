@@ -9,19 +9,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 3cee4959649f2ea345942c9b1f605f20d627e3ae
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d636a8c0c268463972ef461f4a6bf27ea3c735c6
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751692"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504684"
 title: إعداد الوظائف والموارد في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
   هل تود إعداد الوظائف في Dynamics 365 Business Central؟ يتناول مسار التعليم هذا كيفية إعداد الوظائف ودفاتر اليومية ومجموعات الترحيل والموارد والجداول الزمنية.
 prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- المعرفة بمخطط الحسابات.    \n- فهم كيفية تنظيم دفاتر اليومية.\n"
-iconUrl: /learn/achievements/set-up-jobs-resources.svg
+iconUrl: /training/achievements/set-up-jobs-resources.svg
 levels:
 - intermediate
 roles:

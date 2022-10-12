@@ -9,12 +9,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: c55475b45a9ee7de810416f40b8bd6c38f20f05b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: b2b9b9d2a7f1c925032c7f354bf7af58bf29d593
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752484"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510127"
 title: تكوين دفتر الأُستاذ العام واستخدامه في Dynamics 365 Finance
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -27,7 +27,7 @@ prerequisites: >
   - معرفة العمليات المالية والمحاسبية
 
   - فهم عام لفوترة أمر الشراء
-iconUrl: /learn/achievements/configure-and-use-the-general-ledger-in-dynamics-365-for-finance-and-operations.svg
+iconUrl: /training/achievements/configure-and-use-the-general-ledger-in-dynamics-365-for-finance-and-operations.svg
 levels:
 - beginner
 roles:

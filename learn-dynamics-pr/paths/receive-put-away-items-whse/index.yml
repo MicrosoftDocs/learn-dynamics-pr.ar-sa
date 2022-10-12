@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 764753e72938f1c007c1a1f419220d89ffb476ff
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 775c5111428a74db0685023bcd707004cda7bf65
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751773"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509477"
 title: استلام الأصناف وإبعادها في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -25,7 +25,7 @@ prerequisites: >
   - المعرفة الأساسية لإدارة المخزون في Business Central.
 
   - فهم مفاهيم إدارة المستودعات الأساسية في Business Central.
-iconUrl: /learn/achievements/receive-put-away-items-whse.svg
+iconUrl: /training/achievements/receive-put-away-items-whse.svg
 levels:
 - intermediate
 roles:

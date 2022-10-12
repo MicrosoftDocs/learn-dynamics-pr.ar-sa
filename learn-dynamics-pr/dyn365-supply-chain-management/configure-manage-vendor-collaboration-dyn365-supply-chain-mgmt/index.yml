@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4753819c38f128539c43d545deab1e96f6afe1e0
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 78b0678e83e8023ac0f1c480c651b9d8a8449918
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753021"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514630"
 title: تكوين تعاون المورد وإدارته في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nالسرعة والدقة والحل الرقمي عند التواصل مع الموردين هي حاجة أساسية لنجاح الأعمال. يوفر Dynamics 365 Supply Chain Management عمليات تعاون سلسة مع الموردين من خلال مدخل تعاون المورد. \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تكوين عمليات تعاون الموردين.\n- التعامل مع مساحة عمل تعاون المورد.\n- الاحتفاظ بشهادات المورد.\n- استخدام تعاون المورد كجزء من عملية التدبير إلى الدفع.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n"
-iconUrl: /learn/achievements/configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-manage-vendor-collaboration-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

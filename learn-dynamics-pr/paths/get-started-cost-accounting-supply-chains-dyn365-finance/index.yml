@@ -8,16 +8,16 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: bf0b15dc70a9968162fc2c00049894c80fa0a588
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: fc08a8c2368b8d448d901c1dfa18b68bcc358129
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752169"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511094"
 title: بدء استخدام محاسبة التكاليف لسلاسل التوريد في Dynamics 365 Finance
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك. \n"
 prerequisites: "- الفهم الأساسي لعمليات التمويل والمحاسبة\n - القدرة على استخدام Finance للمعالجة الأساسية\n - الفهم العام لسيناريوهات الأمر إلى النقد\n - الفهم العام لسيناريوهات الشراء إلى الدفع\n - الفهم العام لتكاليف المخزون والمستودع \n - الفهم العام لتكاليف التصنيع\n"
-iconUrl: /learn/achievements/get-started-cost-accounting-supply-chains-dyn365-finance.svg
+iconUrl: /training/achievements/get-started-cost-accounting-supply-chains-dyn365-finance.svg
 levels:
 - beginner
 roles:

@@ -7,12 +7,12 @@ metadata:
   author: jadaphillips
   ms.author: jadaphillips
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b091fd5135dd27cd19adb85ee779d018ae180cd6
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: b66f21718e4b4b76f09f9cea0aceeaf9190b0601
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425625"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514190"
 title: تكوين النماذج والمخططات ولوحات المعلومات فِي التطبيقات المستندة إلَى نموذج
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   ستتعرف فِي هذه الوحدة على النماذج، والشبكات، وطرق العرض، والمخططات، ولوحات المعلومات التي يمكن استخدامها فِي التطبيقات المستندة إلَى نموذج.
 abstract: >
-  في هذه الوحدة، سوف تتعلم ما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - التعرُّف على عناصر النموذج وعناصر التحكم فيه
 
@@ -36,7 +36,7 @@ abstract: >
 
   - التعرُّف على كيفية تكوين لوحات المعلومات
 prerequisites: بلا
-iconUrl: /learn/achievements/configure-model-driven-apps-customer-engagement.svg
+iconUrl: /training/achievements/configure-model-driven-apps-customer-engagement.svg
 levels:
 - intermediate
 roles:

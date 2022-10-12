@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.data-migration.badge
 metadata:
   title: 'Microsoft Badge: إنشاء استراتيجية ترحيل البيانات لحلول Dynamics 365 تم إصدارها من قبل Microsoft'
-  ms.openlocfilehash: ff2f95267ba479bcbf087bac8600f02666b72123
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 4917ad31e8e728ef00a4ee9a5c03de9b3b0460ae
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772164"
-socialImageUrl: /learn/achievements/data-migration-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511617"
+socialImageUrl: /training/achievements/data-migration-social.png

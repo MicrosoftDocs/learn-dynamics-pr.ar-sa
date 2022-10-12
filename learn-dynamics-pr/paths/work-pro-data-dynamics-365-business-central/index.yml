@@ -9,17 +9,17 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: fa4cdd5241814e6fb1da48da006f987ff521474f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 17bd00b0c0ef79a6aefb7220e416470b8544c5b8
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751422"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508628"
 title: يُمكنك التعامل مع البَيانات كمحترف في Business Central
 summary: هل ستبدأ الآن في استخدام Business Central؟ سيساعدك "مسار التعليم" هذا في التعرف على أنواع البَيانات في Business Central وكيفية العثور على المعلومات التي تحتاج إليها في التطبيق.
 prerequisites: >
   - بلا
-iconUrl: /learn/achievements/work-pro-data-dynamics-365-business-central.svg
+iconUrl: /training/achievements/work-pro-data-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f02dc23456ed051617ec1d7d74d1a3b244a8b7de
-ms.sourcegitcommit: 511e4ff6400ea73a0df7e817e74e16ceacf16d60
+ms.openlocfilehash: 0a208266cabf7a7a7be9efbca7bf99b93ca22e1a
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/15/2022
-ms.locfileid: "8420460"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9504125"
 ---
 غالباً ما يستخدم الموظفون بطاقات مدينة خاصة بالشركة لدفع المصروفات عندما يكونون في رحلات العمل. يقوم الموظفون بتسجيل هذه المصروفات في تقرير المصروفات. تأكد أنك تقوم باستيراد حركات البطاقة المدينة إلى Project Operations بحيث يُمكن مطابقتها مع الإدخالات في تقارير المصروفات. 
 
@@ -51,7 +51,7 @@ ms.locfileid: "8420460"
 
 ## <a name="schedule-transaction-imports"></a>جدولة حركات الاستيراد
 
-يُمكنك إعداد مهمة متكررة لاستيراد حركة البطاقة المدينة. لمزيد من المعلومات، راجع [إعداد مشروع البَيانات ووظيفة البَيانات المتكررة](/learn/modules/data-integrations-finance-operations/2-data-project/?azure-portal=true).
+يُمكنك إعداد مهمة متكررة لاستيراد حركة البطاقة المدينة. لمزيد من المعلومات، راجع [إعداد مشروع البَيانات ووظيفة البَيانات المتكررة](/training/modules/data-integrations-finance-operations/2-data-project/?azure-portal=true).
 
 عندما تقوم باستيراد معاملة البطاقة المدينة، يُمكنك إرفاق حركات لبنود حساب المصروفات. 
 

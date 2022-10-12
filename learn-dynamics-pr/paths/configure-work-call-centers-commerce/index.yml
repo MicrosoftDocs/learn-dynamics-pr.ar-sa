@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: 42b064f9f9b292039f794b92bee51963ca35c55b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 13a116aac4987704e6f4cb74f0b420ade5a29e18
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752448"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508736"
 title: تكوين مراكز الاتصال والتعامل معها في Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -23,7 +23,7 @@ prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/configure-work-call-centers-commerce.svg
+iconUrl: /training/achievements/configure-work-call-centers-commerce.svg
 levels:
 - intermediate
 roles:

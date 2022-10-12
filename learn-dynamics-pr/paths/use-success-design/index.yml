@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 603dd4048fb3baa0a0e325f5337c1d087822341a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9c24b89863e03d3bc97d8a132ed0530b57666d55
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751512"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504657"
 title: استخدام حلول Success by Design for Dynamics 365
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -25,7 +25,7 @@ prerequisites: >
   - تكون الخبرة السابقة كمهندس حلول لمشروع مفيدة
 
   - [تنزيل أمثلة القوالب](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true) لجميع ورش عمل الوحدة
-iconUrl: /learn/achievements/use-success-design.svg
+iconUrl: /training/achievements/use-success-design.svg
 levels:
 - advanced
 roles:

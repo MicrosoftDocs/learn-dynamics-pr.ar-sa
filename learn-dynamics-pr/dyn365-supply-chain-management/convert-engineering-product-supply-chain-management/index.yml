@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2888247f15946a3fb40c5467be005ce3b3811acf
-  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.openlocfilehash: c6c5bc4f2520dc84515c477db1c0ef19df49c0df
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2022
-  ms.locfileid: "9404195"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9503048"
 title: تحويل منتج موجود إلَى منتج هندسي فِي Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nالمنتج الهندسي فِي Dynamics 365 Supply Chain Management هو منتج يتم التحكم فِي إصداره من خلال إدارة التغييرات الهندسية لـ Microsoft Dynamics 365 Supply Chain Management. يمكنك تحويل منتج موجود إلَى منتج هندسي.\n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- تفعيل إدارة التغيير بالمنتجات الحالية.\n- تمكين فئات المنتجات الهندسية.\n- تشغيل معالج التحويل إلَى منتج هندسي.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تفعيل إدارة التغيير بالمنتجات الحالية.\n- تمكين فئات المنتجات الهندسية.\n- تشغيل معالج التحويل إلَى منتج هندسي.\n"
 prerequisites: >
   - معرفة عمليات Supply Chain Management.
 
   - كيفية التنقل فِي Dynamics 365 Supply Chain Management.
 
   - معرفة إدارة التغيير الهندسي.
-iconUrl: /learn/achievements/convert-engineering-product-supply-chain-management.svg
+iconUrl: /training/achievements/convert-engineering-product-supply-chain-management.svg
 levels:
 - intermediate
 roles:

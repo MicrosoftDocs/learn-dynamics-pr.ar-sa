@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3a9f2b4afc1c78702ea46666d4c02d47b677542e
-ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+ms.openlocfilehash: 5e92f079c459707eedea886b3ff19e68b8f1e14c
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9022878"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9510043"
 ---
 في الغالب، يكون لدى المؤسسات التي تنفّذ حلول Power Platform مستخدمون متميزون ومطورون محترفون يعملون جنبًا إلى جنب في المشروعات. ينشئ المستخدمون المتميزون التطبيقات التي من شأنها أن تساعد على تحسين مهمة الوظيفة أو تحسين الإنتاجية، بينما ينشئ المطورون المكونات الأكثر تقنية التي تعمل بها هذه الحلول.
 
@@ -44,7 +44,7 @@ ms.locfileid: "9022878"
 
 -   تطوير إستراتيجية مركز التميز الخاصة بك بهذه الدروس.
 
-يمكنك معرفة المزيد حول إنشاء مركز تميز Microsoft Power Platform هنا: [الشروع في العمل باستخدام مركز تميز Microsoft Power Platform.](/learn/modules/get-started-center-excellence/?azure-portal=true)
+يمكنك معرفة المزيد حول إنشاء مركز تميز Microsoft Power Platform هنا: [الشروع في العمل باستخدام مركز تميز Microsoft Power Platform.](/training/modules/get-started-center-excellence/?azure-portal=true)
 
 ## <a name="roles-and-responsibilities"></a>الأدوار والمسؤوليات
 

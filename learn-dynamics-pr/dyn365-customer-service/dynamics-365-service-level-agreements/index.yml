@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cc237b8f5147ddc1dfd341976c430f91a4d64c9a
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: 9b4fc3cfe7be873c1e0c4c950ae949eed0ac1d8e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9063260"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507795"
 title: إدارة اتفاقيات مستوى الخدمة باستخدام Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)]\nهل لديك اتفاقيات مستوى الخدمة مع عملائك؟ ستركز هذه الوحدة على اتفاقيات مستوى الخدمة في Dynamics 365 ومدى الاستفادة الممكنة منها في تحديد مؤشرات الأداء الأساسية (KPI) وتعقُّبها، بما في ذلك تحديد مرات إغلاق الأعمال وجداول ساعات العمل وتحديد شروط تشغيل اتفاقيات مستوى الخدمة، وتحديد اتفاقيات مستوى الخدمة، وبناء شروط اتفاقية مستوى الخدمة، وإدارة اتفاقيات مستوى الخدمة، والعمل باستخدام ‏‫حالات التوقف المؤقت لاتفاقية مستوى الخدمة.      \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- تحديد مؤشرات الأداء الرئيسية (KPI) التي يتم قياسها باستخدام SLA \n- تحديد مرات إغلاق الأعمال وساعات العمل\n- إنشاء SLA، بما في ذلك شروط التشغيل وإجراءاته\n- إنشاء بنود SLA\n- تحديد مؤشرات الأداء الأساسية (KPI) المخصّصة.\n- تمكين اتفاقيات مستوى الخدمة لكيانات متعددة\n- إدارة اتفاقيات مستوى الخدمة لمؤسسة ما\n"
 prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. يُعد الإلمام بإنشاء الحالات وإدارتها فضلاً عن الاستحقاق في Dynamics 365 مفيداً أيضاً.
-iconUrl: /learn/achievements/dynamics-365-service-level-agreements.svg
+iconUrl: /training/achievements/dynamics-365-service-level-agreements.svg
 levels:
 - intermediate
 roles:

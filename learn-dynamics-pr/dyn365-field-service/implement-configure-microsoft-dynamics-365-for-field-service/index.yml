@@ -7,16 +7,16 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1441f61ead0e0593c701d13d404bab5af3dce55c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 4ed8f05b616c626c03bd44483cd0f90af6912b76
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749169"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513449"
 title: تكوين Microsoft Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\n\nإحدى ميزات Dynamics 365 Field Service الرئيسية هي القدرة علي تكوينه حسب احتياجات مؤسستك.  قد يشمل ذلك تحديد اعتبارات التكوين الرئيسية، وتحديد المنتجات والخدمات، والعوامل الأخرى ذات الصلة، وتحديد أنواع أوامر العمل الضرورية، والحالات الفرعية، ومناطق الخدمة، وتكوين الحساب الذي سيدعم الوظيفة المطلوبة.      \n"
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - تحديد الاعتبارات الرئيسية لتكوين الخدمة
 
@@ -32,7 +32,7 @@ abstract: >
 
   - تكوين تفضيلات حساب Field Service
 prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  كما أنه من المهم فهم نظرة عامة أساسية عن الغرض من تطبيق Field Service واستخدامه.
-iconUrl: /learn/achievements/configure-microsoft-dynamics-365-field.svg
+iconUrl: /training/achievements/configure-microsoft-dynamics-365-field.svg
 levels:
 - intermediate
 roles:

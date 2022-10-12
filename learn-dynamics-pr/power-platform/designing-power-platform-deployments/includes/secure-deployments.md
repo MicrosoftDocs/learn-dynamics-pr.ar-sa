@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b79aba9b059c4737a69c129845cbb39bf87a1bd4
-ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+ms.openlocfilehash: 977f1b2d70b0685975a52d4c889421e3f2d2beb5
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9022868"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9506534"
 ---
 يُعد اعتبار الأمان من العناصر الأساسية لإدارة توزيع Power Platform. يعتبر الأمان أمرًا مهمًا لضمان وصول الجميع إلى البيانات التي يحتاجون إليها فقط، وكذلك لضمان عدم الوصول إلى بيانات الشركة من قبل التطبيقات أو الأشخاص الذين ليس مصرحًا لهم بالوصول إليها.
 
@@ -76,4 +76,4 @@ ms.locfileid: "9022868"
 
 لا يمنع هذا الإعداد لسياسات DLP التي تركز على المستأجر مسؤولي البيئة من إنشاء سياسات DLP الخاصة بهم على مستوى البيئة، إذا كانوا يريدون تقديم قيود أخرى أو تصنيف الموصلات المخصصة.
 
-يمكنك معرفة المزيد حول إنشاء سياسات DLP هنا: [تخطيط بيئة Microsoft Power Platform الخاصة بك وإدارتها.](/learn/modules/plan-manage-environment/?azure-portal=true)
+يمكنك معرفة المزيد حول إنشاء سياسات DLP هنا: [تخطيط بيئة Microsoft Power Platform الخاصة بك وإدارتها.](/training/modules/plan-manage-environment/?azure-portal=true)

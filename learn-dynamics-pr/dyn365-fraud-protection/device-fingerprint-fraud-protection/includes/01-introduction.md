@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: a717f55a680ee32e77a91eb945bccb59db0fe742
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 4e50b67c9fd941cfcd9fb5893634764e87faa452
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7582729"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9513419"
 ---
 في هذه الوحدة، ستستخدم **نموذج تطبيق التاجر**، المعروف باسم **نموذج التطبيق** لمحاكاة المعاملات من بيئة متجر التجارة الإلكترونية. عند الانتهاء من جميع الوحدات في هذه الوحدة، ستتمكن من دمج بصمات الجهاز في بيئة العميل واختبار أنها تعمل.  
 
 تأكد من أنك قد أخذت الوحدات التالية في Learn قبل البدء في هذه الوحدة:
 
-- [الشروع في العمل باستخدام Dynamics 365 Fraud Protection](/learn/modules/get-started-fraud-protection/?azure-portal=true)
-- [توفير Dynamics 365 Fraud Protection](/learn/modules/provision-fraud-protection/?azure-portal=true)
-- [تكوين نموذج بيانات التطبيق لـ Dynamics 365 Fraud Protection]( /learn/modules/configure-sample-app-fraud-protection/?azure-portal=true)
+- [الشروع في العمل باستخدام Dynamics 365 Fraud Protection](/training/modules/get-started-fraud-protection/?azure-portal=true)
+- [توفير Dynamics 365 Fraud Protection](/training/modules/provision-fraud-protection/?azure-portal=true)
+- [تكوين نموذج بيانات التطبيق لـ Dynamics 365 Fraud Protection]( /training/modules/configure-sample-app-fraud-protection/?azure-portal=true)
 
 تحتوي بصمة الجهاز، والمعروفة أيضاً باسم بصمة الجهاز، على المعلومات التي يتم جمعها حول جهاز الحوسبة عن بُعد (على سبيل المثال، جهاز كمبيوتر، وXbox، وجهاز لوحي، وما إلى ذلك) من أجل الغرض من تحديد الجهاز. تسمح بصمات الجهاز للمؤسسات بجمع معلومات مهمة عن بُعد حول الأجهزة المتصلة بخدماتها عبر الإنترنت. قد تتضمن المعلومات التي تم جمعها معلومات الأجهزة ومعلومات المستعرض والمعلومات الجغرافية وعنوان IP. 
 

@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 12e05a9ae4345837ce46eca204a36de05d2bef9f
-ms.sourcegitcommit: 3019c13bc265497c9cd42e5b96d972407680abe4
+ms.openlocfilehash: 8baa6d71577e131cebb1de3324ccbcf62024bdbe
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/28/2022
-ms.locfileid: "8361309"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9516982"
 ---
 تتيح الوحدة النمطية لـ Warehouse management في Dynamics 365 Supply Chain Management إدارة عمليات المستودع في شركات التصنيع والتوزيع والبيع بالتجزئة.
 
 تشتمل Warehouse management على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. فهي متكاملة تماماً مع العمليات التجارية الأخرى في Supply Chain Management، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.
 
-سوف تتعرف في هذه الوحدة على كيفية:
+في هذه الوحدة، ستتعرف على كيفية القيام بما يلي:
 
 -   إنشاء المستودعات والمواقع.
 -   تكوين مجموعات العمل والمناطق وتنسيق الموقع وملفات التعريف.
@@ -78,4 +78,4 @@ ms.locfileid: "8361309"
 -   انتقاء نظام المجموعة.
 -   توزيع البضائع البسيطة.
 
-لمزيد من المعلومات حول عمليات Warehouse management وكيفيه تنفيذها، راجع [العمل مع إدارة المستودعات في Dynamics 365 Supply Chain Management](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول عمليات Warehouse management وكيفيه تنفيذها، راجع [العمل مع إدارة المستودعات في Dynamics 365 Supply Chain Management](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true).

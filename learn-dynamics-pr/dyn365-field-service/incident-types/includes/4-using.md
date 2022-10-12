@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 159f51fb692baca57ddb92df01784b3ff75fe586
-ms.sourcegitcommit: cc0f31f19ab065c5f52bdddf92fe94e6b3c5b168
+ms.openlocfilehash: 74cf60db5dcb7100ae10edc5be8b7a88d16745d0
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/12/2021
-ms.locfileid: "7799474"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9509001"
 ---
 يمكنك استخدام نوع الحدث عن طريق إضافته إلى أمر عمل. من المنتجات والخدمات ومهام الخدمة والخصائص في نوع الحادث، سيقوم النظام بإنشاء منتجات وخدمات ومهام الخدمة والخصائص الخاصة بأمر العمل.
 
@@ -47,4 +47,4 @@ ms.locfileid: "7799474"
 
 يحتوي Microsoft Dynamics 365 Field Service على العديد من ميزات الذكاء الاصطناعي لمساعدة المسؤولين والمستخدمين، بما في ذلك ميزة لتحسين أنواع الحوادث من خلال تحليل أوامر العمل السابقة واقتراح التغييرات على أنواع الحوادث.
 
-للحصول على مزيد من المعلومات، راجع [استخدام AI في Dynamics 365 Field Service](/learn/modules/use-ai-field-service/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [استخدام AI في Dynamics 365 Field Service](/training/modules/use-ai-field-service/?azure-portal=true).

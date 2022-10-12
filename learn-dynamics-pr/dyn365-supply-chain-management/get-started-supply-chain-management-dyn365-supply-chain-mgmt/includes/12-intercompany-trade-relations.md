@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 9ad3669575cc0f4a844130ff6f25d65a800e1be5
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 6f07c1e82e6c4f4fa34a0563be51a5a7000a1db1
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7330911"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9505673"
 ---
 غالباً ما تشتري وتبيع المؤسسات الكبيرة بين الشركات التابعة لها. تسهل Supply Chain Management التجارة بين الشركات الشقيقة بحيث يمكن للكيانات القانونية للمنظمة تداول السلع في حين يتم إنشاء جميع الوثائق تلقائياً للكيانات القانونية المشاركة، مما يوفر الوقت والمال للمنظمة.
 
@@ -21,5 +21,4 @@ ms.locfileid: "7330911"
 ![رسم تخطيطي يوضح العمليات التجارية بين الشركات الشقيقة وتدفقات الحركات.](../media/intercompany-relations.png)
  
 
-لمزيد من المعلومات، راجع [تكوين واستخدام التجارة بين الشركات الشقيقة في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-intercompany-trade-dyn365-supply-chain-mgmt/?azure-portal=true). 
-
+لمزيد من المعلومات، راجع [تكوين واستخدام التجارة بين الشركات الشقيقة في Dynamics 365 Supply Chain Management](/training/modules/configure-use-intercompany-trade-dyn365-supply-chain-mgmt/?azure-portal=true). 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a9ed76981f0b93a1a1216d1de4ab942ec7d26de0
-ms.sourcegitcommit: 11facf4b2ac476f352571e0397ec58e8dc6e0b6a
+ms.openlocfilehash: 1fccbadfc87f8cdedc578abfe711261edd03aa39
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2021
-ms.locfileid: "7925242"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9505653"
 ---
 توضح الصورة التالية العمليات النموذجية للمؤسسة باستخدام وحدات إدارة المخزون وإدارة المستودعات في Supply Chain Management.
   
@@ -30,9 +30,9 @@ ms.locfileid: "7925242"
 
 لمزيد من المعلومات حول وحدات إدارة المخزون وإدارة المستودعات، راجع وحدات ومسارات التعلم التالية.
 
-- [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+- [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/training/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)
 
-- [تكوين مراقبة الجودة وإدارة الجودة والتعامل معهما في Dynamics 365 Supply Chain Management](/learn/modules/configure-work-quality-control-dyn365-supply-chain-mgmt/?azure-portal=true)
+- [تكوين مراقبة الجودة وإدارة الجودة والتعامل معهما في Dynamics 365 Supply Chain Management](/training/modules/configure-work-quality-control-dyn365-supply-chain-mgmt/?azure-portal=true)
  
-- [تكوين إدارة المستودعات والتعاون معها في Dynamics 365 Supply Chain Management](/learn/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true) 
+- [تكوين إدارة المستودعات والتعاون معها في Dynamics 365 Supply Chain Management](/training/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true) 
  

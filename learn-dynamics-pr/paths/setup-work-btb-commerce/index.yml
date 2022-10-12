@@ -8,12 +8,12 @@ metadata:
   ms.author: chriran
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: f4724a6fa9720bae91e44a43dbe69d6124800c14
-  ms.sourcegitcommit: aed6e5e171b5e5636b6cb2bd00851c61d2f4ad3a
+  ms.openlocfilehash: 0527da7b5dddac9ccd2902d9a8de216c36b05da2
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/11/2022
-  ms.locfileid: "9262418"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9502722"
 title: إعداد التجارة الإلكترونية B2B وإدارتها في Dynamics 365 Commerce
 summary: "[!include[](../../includes/lp-banner.md)]\nيقدم مسار التعليم هذا المفاهيم والمعلومات والعمليات الخاصة بموقع التجارة الإلكترونية المتعلقة بعمليات متاجرة عمل-عمل في Dynamics 365 Commerce. \n"
 prerequisites: >
@@ -22,7 +22,7 @@ prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/setup-work-btb-commerce.trophy.svg
+iconUrl: /training/achievements/setup-work-btb-commerce.trophy.svg
 levels:
 - intermediate
 roles:

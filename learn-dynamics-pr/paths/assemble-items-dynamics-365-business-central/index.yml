@@ -8,16 +8,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: e2078f081fe9f63a7555f4eb1eba544ad713126d
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 90cdc6e0df10c8303f3dea83949ddfbf02a6bb3a
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752637"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9502929"
 title: تجميع الأصناف في Microsoft Dynamics 365 Business Central
 summary: هل تقوم ببيع الأصناف المجمعة؟ يوفر مسار التعليم هذا المعلومات التي تحتاجها لإدارة التجميع والأصناف. كما يوفر خطوات لإنتاج الأصناف المجمعة للتخزين أو الطلب.
 prerequisites: "- فهم كيفية التنقل في تطبيق Business Central. \n- تعرف على كيفية إنشا أصناف \n- تعرف على كيفية معالجة أوامر المبيعات\n"
-iconUrl: /learn/achievements/assemble-items-dynamics-365-business-central.svg
+iconUrl: /training/achievements/assemble-items-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

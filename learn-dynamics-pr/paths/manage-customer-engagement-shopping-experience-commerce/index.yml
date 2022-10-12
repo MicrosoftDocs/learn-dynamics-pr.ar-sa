@@ -8,19 +8,19 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: c86fbf835a7d2ec4b1ac9630acfe9e6e7b6d7a3a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 01e7c9feec8aaccfa3210dd21b24cd29eb571490
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751953"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505568"
 title: إدارة مشاركة العملاء وتجربة التسوق في Dynamics 365 Commerce
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتساعد إدارة مشاركة العملاء وتحسين تجربة التسوق المستهلكين على اتخاذ قرارات شراء أفضل وبناء ولاء للعلامات التجارية لمتاجر التجزئة مما يؤدي في النهاية إلى زيادة الإيرادات. \n"
 prerequisites: >
   - المعرفة العامة بـ Dynamics 365 Commerce
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/manage-customer-engagement-shopping-experience-commerce.svg
+iconUrl: /training/achievements/manage-customer-engagement-shopping-experience-commerce.svg
 levels:
 - intermediate
 roles:

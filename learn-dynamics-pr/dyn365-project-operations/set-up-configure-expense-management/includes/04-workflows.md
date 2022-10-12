@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ab59cb97533488ea4868964e91e17c7087d6d1f5
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: a1aebe4c81382c9c5494620155be4d5a9cabee50
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7338609"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9507655"
 ---
 لإعداد عملية مراجعة لتقارير المصروفات في إدارة المصروفات، يمكنك استخدام نظام سير العمل. باستخدام مهام سير عمل إدارة المصروفات، سوف تقلل الوقت المستغرق بدءاً من تقديم المصروفات إلى وقت اعتمادها. 
 
@@ -25,4 +25,4 @@ ms.locfileid: "7338609"
 شاهد الفيديو التالي للاطلاع على أمثلة واقعية عن كيفية مساعدة مهام سير عمل إدارة المصروفات في معالجة المصروفات. 
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4J0Rk]
 
-للحصول على مزيد من المعلومات، راجع [التعامل مع مهام سير العمل في تطبيقات Finance and Operations]( /learn/modules/create-use-workflows-finance-operations/?azure-portal=true).
+لمزيد من المعلومات، راجع [التعامل مع عمليات سير العمل فِي تطبيقات التمويل والعمليات]( /training/modules/create-use-workflows-finance-operations/?azure-portal=true).

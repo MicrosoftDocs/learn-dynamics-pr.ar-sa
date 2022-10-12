@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 285ddb1537f79c7841e0e2487cc781f7d1643a12
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 622977e97fa0ca29c1b18108c84611dbe0294454
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9369116"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509387"
 title: تحديد إمكانات إدارة دورة حياة المشروع فِي Dynamics 365 Project Operations
 summary: تناقش هذه الوحدة النمطية الإمكانات الأساسية لـ Microsoft Dynamics Project Operations لمساعدتك على إدارة الجوانب المالية لأعمالك القائمة على المشروع.
 abstract: >
@@ -30,7 +30,7 @@ abstract: >
   - وصف إمكانات تسعير المشروع.
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
-iconUrl: /learn/achievements/identify-project-operations-capabilities.svg
+iconUrl: /training/achievements/identify-project-operations-capabilities.svg
 levels:
 - beginner
 roles:

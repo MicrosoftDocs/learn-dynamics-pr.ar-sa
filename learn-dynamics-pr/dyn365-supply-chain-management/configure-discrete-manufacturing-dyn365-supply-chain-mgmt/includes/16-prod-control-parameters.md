@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 85f0962862e503a21c892a4359680465fab340e8
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 14a2bf7629624c7a0a6dc775e69564ffe10c279f
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7350415"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9503068"
 ---
 يجب تحديد معلمات الإنتاج قبل التمكن من إنشاء الإنتاج أو تشغيله. يتم تعريف معلمات الإنتاج لتعكس بيئة الإنتاج الخاصة بك. يمكنك تحديد كيفية العمل باستخدام إنشاء وتقدير وجدولة وملاحظات الاستهلاك ومحاسبة التكاليف لأوامر الإنتاج.
 
@@ -32,7 +32,7 @@ ms.locfileid: "7350415"
 
     -   **حسب الشركة**: يتم دائماً استخدام المعلمات على مستوى الشركة.
 
-    -   **حسب الموقع**: يتم استخدام المعلمات الخاصة بالموقع المحدد. في حالة عدم تحديد أية معلمات خاصة بالموقع لموقع محدد، يستخدم Finance and Operations المعلمات المحددة للشركة.
+    -   **حسب الموقع**: يتم استخدام المعلمات الخاصة بالموقع المحدد. في حالة عدم تحديد أية معلمات خاصة بالموقع لموقع محدد، يستخدم التمويل والعمليات المعلمات المحددة للشركة.
 
 
 
@@ -208,5 +208,4 @@ ms.locfileid: "7350415"
 
 يتم استخدام علامة التبويب **Lean manufacturing** في الصفحة **معلمات التحكم في الإنتاج** لتحديد المعلمات الافتراضية التي يتم استخدامها عند إنشاء تدفقات الإنتاج والأنشطة في Lean manufacturing.
 
-لمزيد من المعلومات حول Lean manufacturing، راجع [تكوين Lean manufacturing واستخدامها في Dynamics 365 Supply Chain Management](/learn/paths/configure-use-lean-manufacturing-dyn365-supply-chain-mgmt/?azure-portal=true).
-
+لمزيد من المعلومات حول Lean manufacturing، راجع [تكوين Lean manufacturing واستخدامها في Dynamics 365 Supply Chain Management](/training/paths/configure-use-lean-manufacturing-dyn365-supply-chain-mgmt/?azure-portal=true).

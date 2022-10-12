@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: b80cb3fb6d653fcb7ae1b949098bb2ae110428f5
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: 8a5bee7bd0d84e93ea668f3e9c4a3daf17d8830c
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9404087"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9509634"
 ---
 يتم اجراء هذا التدريب فِي شركة **DEMF** فِي بيانات العرض التوضيحي القياسية لـ Dynamics 365 Supply Chain Management. يجب إعداد إدارة التغيير الهندسي. 
 
-لمزيد من المعلومات، راجع [إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management](/learn/paths/set-up-engineering-change-management/?azure-portal=true).
+لمزيد من المعلومات، راجع [إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management](/training/paths/set-up-engineering-change-management/?azure-portal=true).
 
 ## <a name="scenario"></a>السيناريو
 
@@ -18,7 +18,7 @@ ms.locfileid: "9404087"
 
 لإنشاء منتج هندسي جديد، اتبع الخطوات التالية:
 
-1.  انتقل إلَى **إدارة التغيير الهندسي > عام > المنتجات الصادرة**.
+1.  انتقل إلى **إدارة التغيير الهندسي > عام > المنتجات الصادرة**.
 
 1.  في جزء الإجراءات، فِي علامة التبويب  **المنتج** ، فِي المجموعة  **جديد** ، حدد  **منتج هندسي**.
 
@@ -66,7 +66,7 @@ ms.locfileid: "9404087"
 
 والآن بعد إنشاء منتج هندسي، ستصدر المنتج إلَى الشركة التشغيلية التي ستقوم بتصنيع المنتج. لإصدار المنتج، اتبع الخطوات التالية فِي الشركة **DEMF**:
 
-1.  انتقل إلَى  **إدارة معلومات المنتجات > المنتجات > المنتجات الصادرة**.
+1.  انتقل إلى  **إدارة معلومات المنتجات > المنتجات > المنتجات الصادرة**.
 
 1.  حدد المنتج  **Z1234**.
 

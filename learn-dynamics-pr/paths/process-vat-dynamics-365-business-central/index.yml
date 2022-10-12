@@ -9,16 +9,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 2df7a25ac5bfc5243df3d33b3108150a4d7fc59d
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c8276a94a448dfd168bbc37bf8502c0b4fd9c7d1
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751791"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9503995"
 title: معالجة ضريبة القيمة المضافة في Microsoft Dynamics 365 Business Central
 summary: هل تحتاج إلى إعداد ضريبة القيمة المضافة وحسابها لشركتك؟ استخدم مسار التعليم هذا الذي يحتوي على معلومات حول إعداد ضريبة القيمة المضافة ومعالجة ضريبة القيمة المضافة وحساب التسويات وترحيلها وإجراء تغيير في معدل ضريبة القيمة المضافة.
 prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central. \n- المعرفة والخبرة في العمل مع مجموعات الترحيل ومخطط الحسابات\n"
-iconUrl: /learn/achievements/vat-process-dynamics-365-business-central.svg
+iconUrl: /training/achievements/vat-process-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

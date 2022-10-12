@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1c52b236fb878dcec2eb169f68aa251310e5259e
-  ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+  ms.openlocfilehash: f73da8b3abdb3aa9c21112880dc9267a5c74cd34
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9344226"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504204"
 title: نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nيتيح عنصر واجهة مستخدم المحادثة للعملاء إمكانية الاتصال بمناديب الخدمة وتقديم المساعدة في الإجابة على استفساراتهم بسرعة. تتناول هذه الوحدة عملية نشر عناصر واجهة مستخدم المحادثة باستخدام القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء قناة محادثة.\n- السماح بتنزيل نسخ المحادثة المكتوبة والملفات.\n- العمل مع استطلاعات ما قبل المحادثة وما بعد المحادثة.\n- قم بتضمين عنصر واجهة مستخدم المحادثة في المدخل. \n"
 prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
-iconUrl: /learn/achievements/omnichannel-chat.svg
+iconUrl: /training/achievements/omnichannel-chat.svg
 levels:
 - intermediate
 roles:

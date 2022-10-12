@@ -8,17 +8,17 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: customer-insights
-  ms.openlocfilehash: 5c7a81e95238a6bc58b31239e8a826b4daa1822c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: bff68aa415981759895a6bf932da825433cec190
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8754292"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516331"
 title: استخدام معلومات المكالمات في خدمة العملاء
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على معلومات المكالمات في خدمة العملاء Microsoft Dynamics 365. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد معلومات المكالمات وتكوينها.\n- تعرف على الاحتفاظ بالبيانات وحذفها. \n- تحليل الأداء. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد معلومات المكالمات وتكوينها.\n- تعرف على الاحتفاظ بالبيانات وحذفها. \n- تحليل الأداء. \n"
 prerequisites: بلا
-iconUrl: /learn/achievements/customer-service-call-insights.svg
+iconUrl: /training/achievements/customer-service-call-insights.svg
 levels:
 - intermediate
 roles:

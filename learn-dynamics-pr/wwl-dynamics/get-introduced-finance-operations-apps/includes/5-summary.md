@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: 3589e2110c123ba299e24760793450bf5d85ecbf
-ms.sourcegitcommit: 4b4b1bba9a2bd140f82ed4c36b363420921f41ce
+ms.openlocfilehash: 59e3aa34723d9a0aff6dd4c2ebe779b15f1cb1a3
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/20/2022
-ms.locfileid: "9032509"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9503885"
 ---
 
 لقد تعرفت في هذه الوحدة النمطية على القدرات العامة لتطبيقات التمويل والعمليات. 
 
-الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادرًا على:
+الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
 - اكتشف مجموعة تطبيقات التمويل والتشغيل التي يمكنك استخدامها لتخطيط موارد المؤسسة.
 
@@ -25,6 +25,6 @@ ms.locfileid: "9032509"
 
 لمزيد من الدراسة:
 
-- [الشروع في العمل باستخدام تطبيقات التمويل والعمليات](/learn/paths/get-started-finance-operations/) 
+- [الشروع في العمل باستخدام تطبيقات التمويل والعمليات](/training/paths/get-started-finance-operations/) 
 
-- [التنقل في تطبيقات التمويل والعمليات](/learn/modules/navigate-finance-operations/)
+- [التنقل في تطبيقات التمويل والعمليات](/training/modules/navigate-finance-operations/)

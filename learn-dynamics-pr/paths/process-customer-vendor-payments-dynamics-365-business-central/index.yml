@@ -9,19 +9,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 44a4e3a4d8ca5315c1d0dfcf56d401a2b50010ac
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ee0d8c1aeaa48a8d7abfce6794639d2a60af2e98
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751809"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9502767"
 title: معالجة مدفوعات العميل والمورد في Microsoft Dynamics 365 Business Central
 summary: هل تتلقى مدفوعات من العملاء وتدفع للموردين؟ ستساعدك هذه الوحدة على تتبع كل منهما في إدارة النقدية ومعالجه هذه الحركات عند الضرورة في Business Central.
 prerequisites: >
   - الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365 Business Central وإدارة النقدية.
 
   - الفهم الأساسي لمخطط الحسابات.
-iconUrl: /learn/achievements/process-customer-vendor-payments-dynamics-365-business-central.svg
+iconUrl: /training/achievements/process-customer-vendor-payments-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

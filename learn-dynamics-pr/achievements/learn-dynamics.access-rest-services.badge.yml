@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.access-rest-services.badge
 metadata:
   title: 'Microsoft Badge: تم إصدار الوصول إلى خدمات REST من داخل Dynamics 365 Business Central من خلال Microsoft'
-  ms.openlocfilehash: c5df0dc7251361c6f6e9371a4994a488e9af4ddb
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 8cdbb97f45ef5d17e0097fb42538e777c999ac07
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772946"
-socialImageUrl: /learn/achievements/access-rest-services-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511644"
+socialImageUrl: /training/achievements/access-rest-services-social.png

@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a1e468f96ff10a188d0f994002f63643d738e234
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 22bf4251dff42fb6ecbe16ab00d6958a41618dad
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753920"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511989"
 title: التعامل مع توصيات المنتجات في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nتوصيات المنتجات هي إحدي ميزات التسوق الخاصة بالعملاء في Dynamics 365 Commerce. تستند التوصيات إلى اتجاهات الشراء للعملاء الآخرين في المتاجر عبر الإنترنت والمتاجر التقليدية. يتم تحليل اتجاهات الشراء باستخدام الذكاء الاصطناعي والتعلّم الآلي، مما يساعد Commerce على تقديم أنواع مختلفة من توصيات المنتجات ذات الصلة. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على كيفية تمكين توصيات المنتجات والتعامل معها.\n- تعرف على توصيات التعلّم الآلي وقوائم التوصيات والمعلمات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على كيفية تمكين توصيات المنتجات والتعامل معها.\n- تعرف على توصيات التعلّم الآلي وقوائم التوصيات والمعلمات. \n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce
 
@@ -24,7 +24,7 @@ prerequisites: >
   - الفهم العام للترويج في Commerce
 
   - فهم اتجاهات وعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/product-recommendations-commerce.svg
+iconUrl: /training/achievements/product-recommendations-commerce.svg
 levels:
 - intermediate
 roles:

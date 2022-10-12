@@ -7,12 +7,12 @@ metadata:
   author: cfrandall
   ms.author: chriran
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b55e01f85d7b405874d2225e02f58a0b5e06d3a0
-  ms.sourcegitcommit: a97c4ce912f3c119f52a99d729c32e737acb2cf9
+  ms.openlocfilehash: 51789218e5c6575251d12cbe48bd2ea2c5f7b662
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/14/2022
-  ms.locfileid: "9147306"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517102"
 title: قم بإعداد التجارة الإلكترونية B2B في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nفي هذه الوحدة النمطية، ستتعلم كيفية إعداد وظائف متاجرة عمل-عمل لموقع التجارة الإلكترونية الحالي الخاص بك. ستضمن الإضافات الجديدة إلى موقعك أن يتمتع شركاء عملك وعملائك بتجربة متكاملة عند زيارة موقعك. بالإضافة إلى ذلك، ستتعرف على إعدادات مستوى الموقع وكيفية إنشاء أنواع مختلفة من الصفحات. ستتعلم أيضاً كيفية استخدام مكتبة الوحدة النمطية لإضافة أو تعديل موقع التجارة الإلكترونية في منشئ الموقع لـ Dynamics 365 Commerce لشركائك في العمل. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة الإعدادات على مستوى الموقع للتجارة الإلكترونية في B2B.\n- إنشاء صفحات تسجيل شركاء الأعمال.\n- تعرف على صفحات إدارة الحساب المقصودة.\n- إنشاء صفحات رصيد العميل وصفحات نماذج الطلبات وصفحات الفاتورة وإعدادها.\n- اكتشف كيفية إضافة مستخدمين شركاء الأعمال.\n- تعرف على كيفية إضافة الوحدات النمطية إلى صفحات متنوعة لخيارات الشراء المجمعة وصفحات سلة التسوق.\n"
@@ -24,7 +24,7 @@ prerequisites: >
   - معرفة الوحدات النمطية لموقع التجارة الإلكترونية متاجرة عمل-مستهلك (B2C) (من عمل إلى مستهلك)
 
   - المعرفة الأساسية بقوالب منشئ مواقع التجارة وأجزائها وصفحاتها
-iconUrl: /learn/achievements/setup-ecommerce-b2b-commerce.svg
+iconUrl: /training/achievements/setup-ecommerce-b2b-commerce.svg
 levels:
 - intermediate
 roles:

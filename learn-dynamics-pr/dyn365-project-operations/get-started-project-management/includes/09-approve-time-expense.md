@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f095bbb408509dea918caf60ef74a56fcb18edbb
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: f80c0ee4fabf186244ea3c92a6e6696c91b5b527
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7348871"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9517042"
 ---
 
 
@@ -30,6 +30,4 @@ ms.locfileid: "7348871"
 3.  اختياري: قم بإضافة تعليق في مربع الحوار **تعليقات الرفض** لإخبار المستخدم بسبب رفض الإدخال.
 4.  حدد **موافق**. وسيتم إرجاع الإدخال إلى المستخدم.
 
-للحصول على مزيد من المعلومات، راجع ["التعامل مع إدارة المصروفات" في Dynamics 365 Project Operations]( /learn/paths/work-expense-management/?azure-portal=true).
-
-
+للحصول على مزيد من المعلومات، راجع ["التعامل مع إدارة المصروفات" في Dynamics 365 Project Operations]( /training/paths/work-expense-management/?azure-portal=true).

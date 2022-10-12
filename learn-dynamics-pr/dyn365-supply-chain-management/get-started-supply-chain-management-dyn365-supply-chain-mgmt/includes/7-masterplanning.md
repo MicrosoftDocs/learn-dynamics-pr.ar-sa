@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: da18518a452bb88126e3b909d79dbf03ea8ba7fc
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: ec0c381a53978ed1836219965ec3a3bc9086147f
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7332615"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508801"
 ---
 يسمح التخطيط الرئيسي للشركات بتحديد وموازنة الحاجة المستقبلية للمواد الخام والقدرة الإنتاجية على تحقيق أهداف الشركة. 
  
@@ -25,4 +25,4 @@ ms.locfileid: "7332615"
 - **تخطيط التنبؤ** - يحسب جدول التنبؤ إجمالي المتطلبات. وهي تستند إلى المشروعات المستقبلية (أو التوقعات) وتعمل على تمكين الشركات من إجراء التخطيط طويل الأمد للمواد والقدرة الإنتاجية. 
 - **التخطيط الرئيسي بين الشركات** - تحسب الخطة الرئيسية بين الشركات الشقيقة صافي المتطلبات عبر الكيانات القانونية. كما أنه يعمل على ربط العرض والطلب بين الشركات ليس فقط من أجل حركة العرض والطلب المؤكدة قصيرة المدى، ولكن أيضاً لحركات العرض والطلب طويلة الأجل والمخطط لها (التي لم يتم تاكيدها بعد). 
 
-لمزيد من المعلومات حول التخطيط الرئيسي، راجع وحدة [تكوين واستخدام التخطيط الرئيسي في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-master-planning-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول التخطيط الرئيسي، راجع وحدة [تكوين واستخدام التخطيط الرئيسي في Dynamics 365 Supply Chain Management](/training/modules/configure-use-master-planning-dyn365-supply-chain-mgmt/?azure-portal=true).

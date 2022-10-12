@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 270c1eda07a7de7b5c1f442a4103b270fcb684b6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 34c40d5de4075dae5918436cb9e9a5d7bb92ef3e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752187"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509522"
 title: توسيع تطبيقات التمويل والعمليات
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -28,7 +28,7 @@ prerequisites: >
   - المعرفة العامة بأنظمة تخطيط موارد المؤسسات (ERP).
 
   - المعرفة الأساسية ببيئة التطوير المتكامل (IDE) أو Visual Studio.
-iconUrl: /learn/achievements/extending-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/extending-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

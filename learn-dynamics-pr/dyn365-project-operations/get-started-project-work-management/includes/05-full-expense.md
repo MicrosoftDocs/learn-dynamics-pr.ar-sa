@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ef4972e8b16e39dac5343dad1bbc29c980a0eac0
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e5e88e3609fb937a86693d5b3c48e48fe7a8c58f
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7364115"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9505733"
 ---
 باستخدام التوزيع الكامل للمصروفات، يمكنك استخدام إمكانات إدارة المصروفات الإضافية من خلال:
 
@@ -35,7 +35,7 @@ ms.locfileid: "7364115"
 
 - يتم تقييم سياسات إدارة المصروفات مقابل الكيان المصدر بشكلٍ افتراضي. بالنسبة إلى السيناريوهات بين الشركات الشقيقة، يمكنك تعيين السياسة التي سيتم تقييمها مقابل الكيان الوجهة (الكيان المقترض) بدلاً من ذلك. لتشغيل السياسات مقابل الكيان الوجهة، قم بتشغيل ميزة **تقييم سياسة إدارة المصروفات مقابل الكيان القانوني المقترض** في مساحة عمل إدارة الميزات.
 
-للحصول على مزيد من المعلومات، راجع [سياسات تقارير المصروفات وقواعد المصروفات اليومية](/learn/modules/set-up-configure-expense-management/05-policies-per-diem-rules/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [سياسات تقارير المصروفات وقواعد المصروفات اليومية](/training/modules/set-up-configure-expense-management/05-policies-per-diem-rules/?azure-portal=true).
 
 ## <a name="import-credit-card-transactions"></a>استيراد ‏‏حركات بطاقات الائتمان
 يمكن إعداد حركات بطاقات الائتمان المرتبطة بالمصروفات بحيث يتم استيرادها تلقائياً وفقاً لجدولة متكررة. بدلاً من ذلك، يمكن استيراد الحركات يدوياً على النحو المطلوب. 
@@ -65,7 +65,7 @@ ms.locfileid: "7364115"
 - **طلب سلفة نقدية**- عمليات سير العمل الموافقة لطلبات السلفة النقدية.
 - **استرداد ضريبة القيمة المضافة** عمليات سير عمل الموافقة لاسترداد ضريبة القيمة المضافة (VAT).
 
-للحصول على مزيد من المعلومات، راجع [عمليات سير عمل إدارة المصروفات](/learn/modules/set-up-configure-expense-management/04-workflows/?azure-portal=true).
+للحصول على مزيد من المعلومات، راجع [عمليات سير عمل إدارة المصروفات](/training/modules/set-up-configure-expense-management/04-workflows/?azure-portal=true).
 
 ## <a name="expense-delegation"></a>تفويض المصروفات
 يمكن لمفوض المصروفات إنشاء تقارير المصروفات وإدارتها لموظف آخر.
@@ -94,8 +94,4 @@ ms.locfileid: "7364115"
 5.  حدد الإيصال من الكمبيوتر ثم حدد **تحميل**. بعد تحميل الإيصال، يتم استخراج قيم الإيصال تلقائياً.
 6.  يمكنك إنشاء بند مصروفات جديد من الإيصال أو مطابقته ببند مصروفات حالي.
 
-للحصول على مزيد من المعلومات وفيديو العرض التوضيحي، راجع [معالجة إيصالات المصروفات](/learn/modules/set-up-configure-expense-management/08-receipt-processing/?azure-portal=true).
-
-
-
-
+للحصول على مزيد من المعلومات وفيديو العرض التوضيحي، راجع [معالجة إيصالات المصروفات](/training/modules/set-up-configure-expense-management/08-receipt-processing/?azure-portal=true).

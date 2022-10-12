@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: edde3f962e94bc792af3a954df363adbd75fd8e5
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 548511af21bc8ccb512c0ce5e73097d8fb41448a
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748194"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513369"
 title: تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -24,7 +24,7 @@ prerequisites: >
   - المعرفة العامة بعمليات سلاسل التوريد وإدارة المخزون
 
   - القدرة على التنقل في Supply Chain Management وتنفيذ المهام الأساسية
-iconUrl: /learn/achievements/configure-inventory-management-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-inventory-management-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

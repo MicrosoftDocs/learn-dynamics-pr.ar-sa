@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d0532126b569014c6f074ce02ea7b5502acc6bf6
-ms.sourcegitcommit: ad6df5bfe53f2e54d46bbca86c0dd0cf17a9d49c
+ms.openlocfilehash: fd1f0e7b67d838812ba41b693785c70f2b90857c
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/16/2022
-ms.locfileid: "9303537"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9506833"
 ---
 تنتقل مؤسسات خدمة العملاء من مرحلة التفاعلات المستندة إلى العمليات ويديرها العملاء إلى مرحلة تقديم حلول ذكية. تستخدم المؤسسات الذكاء الاصطناعي لتقديم تفاصيل سياقية إلى المندوبين استناداً إلى ما يحدث في هذه الأثناء. تساعد هذه القدرة على العرض المحوري المستندة إلى الذكاء المناديب على تقديم أداء أفضل في مؤشرات الأداء الأساسية (KPIs) وتقديم تجربة أفضل للعملاء. عندما يصبح المندوبون أكثر كفاءة وإنتاجية، تنخفض التكاليف التي تتحملها المؤسسة لتشغيل مركز الاتصال.
 
@@ -31,5 +31,4 @@ ms.locfileid: "9303537"
 > [!div class="mx-imgBorder"]
 > [![يتم تقديم مقالات مفيدة محتملة تم العثور عليها بواسطة روبوت المساعدة الذكية إلى المندوب في جزء الإنتاجية.](../media/5-1.png)](../media/5-1.png#lightbox)
 
-لمزيد من المعلومات حول كيفية استخدام المساعدة الذكية، [قم بإنشاء حلول المساعدة الذكية في Dynamics 365 Customer Service.](/learn/modules/create-smart-assist-omnichannel/)
-
+لمزيد من المعلومات حول كيفية استخدام المساعدة الذكية، [قم بإنشاء حلول المساعدة الذكية في Dynamics 365 Customer Service.](/training/modules/create-smart-assist-omnichannel/)

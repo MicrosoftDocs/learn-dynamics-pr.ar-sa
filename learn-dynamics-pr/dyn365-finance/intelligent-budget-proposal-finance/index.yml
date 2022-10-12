@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 987a706fa5a3d2a5e0a65d0afc233abac36b3002
-  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.openlocfilehash: 675224a9a72faf8b62c202188bebce80327e572d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/24/2022
-  ms.locfileid: "9046873"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507735"
 title: مقترح الموازنة الذكية في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nيستخدم مقترح الموازنة الذكية في Dynamics 365 Finance التعلم الآلي لتحليل البيانات القديمة وإنشاء مقترح موازنة بالاستناد إلى النتائج.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشاف قدرات مقترحات الموازنة.\n-   إنشاء مقترح موازنة.\n-   تشغيل التقارير المالية في Report Designer.\n"
@@ -20,7 +20,7 @@ prerequisites: >
   - المعرفة العامة بالوحدة النمطية "إعداد الموازنة‬" في Dynamics 365 Finance
 
   -   المعرفة العامة بـ Report Designer
-iconUrl: /learn/achievements/intelligent-budget-proposal-finance.svg
+iconUrl: /training/achievements/intelligent-budget-proposal-finance.svg
 levels:
 - intermediate
 roles:

@@ -9,12 +9,12 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: power-apps
   ms.subservice: dataverse-developer
-  ms.openlocfilehash: 0352e1b9c97774dc421541772380199121ce93f3
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: ee73f6905270b44dd9928a772beaf798aaa1404f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363013"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509531"
 title: توسيع التطبيقات المستندة إلى النموذج لخبرة مستخدم Microsoft Power Platform
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -22,7 +22,7 @@ summary: >
 
   قم بإنشاء البرمجة النصية للعميل، وتنفيذ الإجراءات الشائعة بواسطة برنامج العميل النصي، وتغطية تدفق العمليات التجارية تلقائياً مع البرنامج النصي للعميل في مسار التعليم. تعرف على البرنامج النصي للعميل الذي يمكنه تنفيذ البرامج النصية وقواعدها وصيانتها. اكتشاف متى يتم استخدام برنامج العميل النصي بالإضافة إلى وقت عدم استخدام البرنامج النصي الخاص بالعميل.
 prerequisites: "- فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. \n- باشر العمل مع Power Apps وPower Automate وPower BI.\n- تجربة المطور العام.\n"
-iconUrl: /learn/achievements/extend-power-platform-model-driven-apps.svg
+iconUrl: /training/achievements/extend-power-platform-model-driven-apps.svg
 levels:
 - intermediate
 roles:

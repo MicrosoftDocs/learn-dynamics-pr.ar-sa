@@ -8,19 +8,19 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-supply-chain
-  ms.openlocfilehash: b589de60d3a9a1e2aaa71b67b542d081e04d1416
-  ms.sourcegitcommit: 21997c4ed9bb2f8e149467473a01c43e24b2d11a
+  ms.openlocfilehash: 3884d9df8084db11c68ae24484972c47bc15bb59
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "9321669"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507502"
 title: قم بإعداد التكلفة شاملة التفريغ والعمل معها في Dynamics 365 Supply Chain Management
 summary: "[!include[](../../includes/lp-banner.md)]\n\nتساعدك وحدة التكلفة شاملة التفريغ في Dynamics 365 Supply Chain Management تنظيم عمليات الشحن الواردة الخاصة بمؤسسك. حيث تمنح المستخدمين لديك التحكم المالي واللوجيستي الكامل على الشحن الذي تم استيراده من الشركة المصنعة إلى المستودع. توفر التكلفة شاملة التفريغ تقديرات التكاليف بطريقة دقيقة وفي التوقيت المناسب للتكاليف شاملة التفريغ للنفقات العامة مع توفير رؤية مالية ولوجستية متزايدة في سلسلة التوريد الموسعة في الوقت نفسه. وتساعد أيضاً على تقليل التكاليف الإدارية والأخطاء في التكاليف. في مسار التعليم هذا، ستتعرف على الإعداد الضروري داخل الوحدة النمطية للتكلفة شاملة التفريغ وكيفية استخدام الوظائف الجاهزة في التطبيق. \n"
 prerequisites: >
   - التعرف على Dynamics 365 Supply Chain Management
 
   - التعرف عمليات النقل
-iconUrl: /learn/achievements/setup-work-landed-cost-dyn365-supply-chain-mgmt.svg
+iconUrl: /training/achievements/setup-work-landed-cost-dyn365-supply-chain-mgmt.svg
 levels:
 - beginner
 roles:
