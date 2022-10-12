@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 63bcc66e5d634b3fe831006d00750cc66fc0e343fe7a450e887c992b55508fe7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 885c933bb3e6bde8fabc3a1555f429770c92cf9c
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099881"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579938"
 ---
-تتمثل إحدى ميزات تطبيقات Finance and Operations في التكامل السلس مع ‏‫التعلم الآلي من Azure‬، مثل ‏‫التنبؤ بالطلب‬، حيث يتم استخدامه للتنبؤ بالطلب من أوامر المبيعات في Dynamics 365 Supply Chain Management. لإنشاء التنبؤ الأساسي، يجب تمرير ملخص للحركات التاريخية إلى خدمة التعلم الآلي من Azure التي تتم استضافتها على Azure.
+تتمثل إحدى ميزات تطبيقات التمويل والعمليات في التكامل السلس مع ‏‫التعلم الآلي من Azure‬، مثل ‏‫التنبؤ بالطلب‬، حيث يتم استخدامه للتنبؤ بالطلب من أوامر المبيعات في Dynamics 365 Supply Chain Management. لإنشاء التنبؤ الأساسي، يجب تمرير ملخص للحركات التاريخية إلى خدمة التعلم الآلي من Azure التي تتم استضافتها على Azure.
 
 لتمكين خدمة خدمة التعلم الآلي من Azure للتنبؤ بطلب، اتبع الخطوات التالية:
 

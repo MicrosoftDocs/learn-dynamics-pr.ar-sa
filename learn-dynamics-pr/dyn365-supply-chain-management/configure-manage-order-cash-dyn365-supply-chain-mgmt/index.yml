@@ -2,22 +2,22 @@
 uid: learn-dynamics.configure-manage-order-to-cash
 metadata:
   title: تكوين عملية الأمر إلى النقد وإدارتها في Dynamics 365 Supply Chain Management
-  description: تدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير وحسابات المقبوضات في العملية التدفقات النقدية للشركة.
+  description: تدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير والحسابات المدينة في العملية التدفقات النقدية للشركة.
   ms.date: 02/25/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 352acb23a5f416b54e31e644ef40dfc3c9f84723
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 4bf840a5dbccf6f45c48a52d0ff9e3b56bd7d990
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748167"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511159"
 title: تكوين عملية الأمر إلى النقد وإدارتها في Dynamics 365 Supply Chain Management
-summary: "[!include[](../includes/module-banner.md)]\n\nتدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير وحسابات المقبوضات في العملية التدفقات النقدية للشركة.  \n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتدير عملية الأمر إلى النقد دورة حياة عملية المبيعات، والتي تتكون من عمليات فرعية لاستلام مبيعات العملاء ومعالجتها. تحدد وظائف الفواتير والحسابات المدينة في العملية التدفقات النقدية للشركة.  \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إجراء عملية الأمر إلى النقد.\n- تكوين العمولات واستخدامها.\n- تكوين البحث عن العميل والصنف.\n- إنشاء عروض أسعار المبيعات وتأكيدها.\n- إنشاء أوامر المبيعات وتأكيدها.\n- طباعة قوائم الانتقاء وترحيلها.\n- إنشاء فاتورة أمر مبيعات وترحيلها.\n- تكوين أكواد تعليق الأوامر.\n- معالجة مرتجعات العميل.\n- التعامل مع حجوزات أوامر المبيعات.\n"
-prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المبيعات\n- المعرفة العامة بإجراءات حسابات المقبوضات\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
-iconUrl: /learn/achievements/configure-and-manage-the-order-to-cash-process-in-dynamics-365-for-finance-ops.svg
+prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المبيعات\n- المعرفة العامة بإجراءات الحسابات المدينة\n- القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
+iconUrl: /training/achievements/configure-and-manage-the-order-to-cash-process-in-dynamics-365-for-finance-ops.svg
 levels:
 - intermediate
 roles:

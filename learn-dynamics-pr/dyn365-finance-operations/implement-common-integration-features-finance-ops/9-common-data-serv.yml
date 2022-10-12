@@ -3,17 +3,17 @@ uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-financ
 title: تكامل البيانات من مصادر متعددة في Microsoft Dataverse للتطبيقات
 metadata:
   title: تكامل البيانات من مصادر متعددة في Dataverse للتطبيقات
-  description: تصف هذه الوحدة كيفية تكامل البيانات من مصادر متعددة في Dataverse للتطبيقات في Finance and Operations.
+  description: تصف هذه الوحدة كيفية تكامل البيانات من مصادر متعددة في Dataverse في تطبيقات التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 892c81571efcc94923047c2caa47b6121507b12f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b636fd059048af93aa8fd3a10847eb05cb3e0668
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353728"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578578"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

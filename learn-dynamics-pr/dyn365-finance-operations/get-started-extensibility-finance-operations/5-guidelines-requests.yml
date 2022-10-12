@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-extensibility-finance-operations.5-guidelines-re
 title: إرشادات القابلية للتوسعة وطلباتها
 metadata:
   title: إرشادات القابلية للتوسعة وطلباتها
-  description: تعرف على الإرشادات الخاصة بطلبات قابلية التوسعة في إطار عمل قابلية التوسعة في تطبيقات Finance and Operations.
+  description: تعرف على الإرشادات الخاصة بطلبات قابلية التوسعة في إطار عمل قابلية التوسعة في تطبيقات التمويل والعمليات.
   ms.date: 03/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c72cee2c69eebcb137bb4149b6dd7b360ac9fdf0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 31431ab02fd5f71ef4462e582209723eaed0c5f5
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361977"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576129"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/5-guidelines-requests.md)]"

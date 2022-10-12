@@ -7,16 +7,16 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7aa2e7c06efa9be99a4e48fac61cf1a44b4d8593
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d3b62bf7bf313c0eb577f38d54fa332f78a4c31b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750656"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517022"
 title: تحسين علاقات العملاء باستخدام إدارة فعالة للحسابات بواسطة Dynamics 365 Customer Voice
 summary: "[!include[](../includes/module-banner.md)]\nتصف هذه الوحدة النمطية كيفية تحسين علاقات العملاء باستخدام الاستطلاعات ومقاييس الرضا في Dynamics 365 Customer Voice. علاوةً على ذلك، ستتعلّم كيفية استخدام جوانب Dynamics 365 Sales للحصول على رؤى قابلة للتنفيذ. \n"
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - اكتشاف كيفية الحصول على رؤى من عملائك باستخدام قالب تعليقات العملاء الدورية في Dynamics 365 Customer Voice.
 
@@ -26,7 +26,7 @@ abstract: >
 
   - اكتشاف أهمية جمع التعليقات في مساعدتك على تحسين العلاقات والبيع بطريقة فعالة لقاعدة عملائك الحالية.
 prerequisites: الفهم الأساسي لتطبيق Dynamics 365 Customer Voice
-iconUrl: /learn/achievements/improve-customer-relationships.svg
+iconUrl: /training/achievements/improve-customer-relationships.svg
 levels:
 - intermediate
 roles:

@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 722d2632af1be3c8ee9acbeaaccde545e466f68e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: f993e5129203321a535e5a09fc956674cba7e365
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750026"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508278"
 title: إنشاء المنتجات وأصول المنتجات في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
   معلومات المنتج هي العمود الفقري لسلسلة التوريد وتطبيقات البيع بالتجزئة في جميع الصناعات. في الوحدات النمطية المختلفة لحل الأعمال، يلزم وجود معلومات وإعدادات خاصة بالمنتج لإدارة دورات العمل المرتبطة بمنتجات أو مجموعات منتجات أو فئات منتجات محددة.
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء منتجات من النوع \"صنف\" و\"خدمة\".\n- إعداد تحويلات وحدة المنتج.\n- إعداد أوامر التحويل\n- إعداد إعدادات الأوامر الافتراضية.\n- إنشاء أصول المنتج باستخدام متغيرات محددة مسبقاً.\n- إنشاء التدرجات الهرمية للفئات وتكوينها.\n- إنشاء سمات المنتجات.\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Microsoft Dynamics 365 Supply Chain Management للمعالجة الأساسية\n"
-iconUrl: /learn/achievements/create-products-product-masters-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/create-products-product-masters-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

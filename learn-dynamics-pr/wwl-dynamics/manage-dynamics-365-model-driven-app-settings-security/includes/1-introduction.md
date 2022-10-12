@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 13c5c72f31f21e81e97705314cc3780f94519a56
-ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
+ms.openlocfilehash: c070374f824a73f0c821893eb6c1c4cd1f824540
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "8756117"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9505443"
 ---
 تعد الضوابط المناسبة على الوصول إلى البيانات جزءاً حيوياً من أي عمل تجاري. عندما تفهم بنية الأمان لتطبيقات Dynamics 365 المستندة إلى النماذج، سيصبح من السهل عليك تخصيص الأمان ليلائم متطلبات عملك.
 
@@ -32,7 +32,7 @@ ms.locfileid: "8756117"
 خلال هذه الوحدة، سنناقش متطلبات العمل في سياق مؤسسة من نسج خيالنا تسمى **Contoso Research**. Contoso Research هي شركة تقوم بتوظيف المشاركين في البحث، وتحتفظ بقاعدة بيانات للموضوعات، وتسهل مجموعات التركيز، وتجري استطلاعات على نطاق واسع. تبحث شركة Contoso Research في استخدام تطبيق Dynamics 365 الذي يستند إلى النموذج لتبسيط عمليات الأعمال الخاصة بهم. إنهم قلقون من كون متطلباتهم فريدة جداً بحيث لا يمكنهم استخدام حل خارج الإطار التقليدي. تتمثل وظيفتك في إظهار كيف يمكن لشركة Contoso Research تكوين تطبيق يستند إلى نموذج بسهولة لتلبية احتياجاتهم.
 
 > [!NOTE]
-> على الرغم من أن المحتوى في هذه الوحدة تمهيدية، إلا أنه يعتمد على المفاهيم الأساسية التي تم تقديمها في [Microsoft Dynamics ‏365 Fundamentals](/learn/paths/dynamics-365-fundamentals/) و[Microsoft Power Platform ‏Fundamentals](/learn/paths/power-plat-fundamentals/). إذا لم تكن معتاداً بالفعل على مكونات Power Platform أو تطبيقات Dynamics 365 المستندة إلى نموذج، يوصى بمسارات التعلم هذه.
+> على الرغم من أن المحتوى في هذه الوحدة تمهيدية، إلا أنه يعتمد على المفاهيم الأساسية التي تم تقديمها في [Microsoft Dynamics ‏365 Fundamentals](/training/paths/dynamics-365-fundamentals/) و[Microsoft Power Platform ‏Fundamentals](/training/paths/power-plat-fundamentals/). إذا لم تكن معتاداً بالفعل على مكونات Power Platform أو تطبيقات Dynamics 365 المستندة إلى نموذج، يوصى بمسارات التعلم هذه.
 
 في نهاية هذه الوحدة، ستكون قادراً على:
 - إدارة الأمن المستند إلى الدور

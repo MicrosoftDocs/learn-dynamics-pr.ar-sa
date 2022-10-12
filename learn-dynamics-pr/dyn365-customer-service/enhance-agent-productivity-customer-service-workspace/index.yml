@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e3fb6a64eafdc4d86573139bfb5acf3751e7d955
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 9919e4b5a70b98d0a019bf28b0b96a651b7cdae5
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363744"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520272"
 title: العمل على تحسين إنتاجية الوكيل من خلال مساحة عمل Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nباستخدام مساحة عمل Customer Service، يمكنك التأكد من أن الوكلاء مزودون بإمكانيات خدمة العملاء الأساسية التي اعتادوا استخدامها مع تطبيق مركز خدمة العملاء. كما ستزود الوكلاء بإمكانية فتح جلسات متعددة في وقت واحد وفي تجربة مساحة عمل واحدة.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- عرض السجلات وتحريرها.\n- التعامل مع المشكلات.\n"
 prerequisites: معرفة أساسية بتطبيق Microsoft Dynamics 365 Customer Service
-iconUrl: /learn/achievements/enhance-agent-productivity-customer-service-workspace.svg
+iconUrl: /training/achievements/enhance-agent-productivity-customer-service-workspace.svg
 levels:
 - intermediate
 roles:

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: e4c431693bfad5f1107a89c8ecc9060a9cdc8038
-ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+ms.openlocfilehash: e867de793c8ff4ee7eee127b879ed898414ca565
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "9063062"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9504164"
 ---
-في هذا الجزء من الوحدة النمطية، ستستخدم نموذج تطبيق التاجر للحماية من الاحتيال الذي قمت بتكوينه في وحدة [تكوين بيانات نموذج التطبيق لـ Dynamics 365 Fraud Protection](/learn/modules/configure-sample-app-fraud-protection/?azure-portal=true).  
+في هذا الجزء من الوحدة النمطية، ستستخدم نموذج تطبيق التاجر للحماية من الاحتيال الذي قمت بتكوينه في وحدة [تكوين بيانات نموذج التطبيق لـ Dynamics 365 Fraud Protection](/training/modules/configure-sample-app-fraud-protection/?azure-portal=true).  
 
 سلسلة الخطوات التي يجب عليك اتباعها لنشر بصمات الجهاز هي:
 

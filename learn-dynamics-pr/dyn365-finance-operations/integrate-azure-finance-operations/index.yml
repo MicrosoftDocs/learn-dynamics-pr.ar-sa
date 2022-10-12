@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: be53b1a332628a6ea6118e6505316bf71db86a5e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ca8846045babee2b858c7bf9cf5dfbc46e7d9c41
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751043"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580908"
 title: تكامل تطبيقات التمويل والعمليات مع Microsoft Azure
 summary: "[!include[](../includes/module-banner.md)]\n\nتم عمل تكامل بين تطبيقات التمويل والعمليات مع Microsoft Azure للمساعدة في تشغيل العديد من الإمكانات المضمنة بها، مثل البحث والذكاء. ستركز هذه الوحدة على عمليات التكامل السحابية المخصصة التي يمكنك إنشاؤها والتي تكون فريدة لاحتياجات تكامل مشروعك. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التطوير والتكامل باستخدام Logic Apps.\n- تكامل تطبيقات التمويل والعمليات مع تطبيقات المؤسسة.\n- تطوير وتكامل Microsoft Power Platform. \n- التنفيذ التلقائي لـ EAI وB2B وEDI والعمليات التجارية.\n- استخدام البيانات من خدمة التعلم الآلي من Azure.\n- تمكين الاتصال مع الخدمات الخارجية.\n"
@@ -22,7 +22,7 @@ prerequisites: >
   - الإلمام بالبرمجة الموجهة للعناصر
 
   - المعرفة الأساسية بـ Microsoft Dynamics Lifecycle Services
-iconUrl: /learn/achievements/integrate-azure-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/integrate-azure-dynamics-365-finance-operations.svg
 levels:
 - advanced
 roles:

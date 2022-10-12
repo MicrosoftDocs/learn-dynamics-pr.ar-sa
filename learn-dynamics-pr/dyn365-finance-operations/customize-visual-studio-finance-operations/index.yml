@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 07fa6c9e0b29d25bd9016f199fcb3687bb5c5a6e
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: d0d3f3a5e311f11670c761185ca5dc3a56d6cc7a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9063160"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573968"
 title: البدء في تطوير تطبيقات التمويل والعمليات باستخدام Visual Studio
 summary: "[!include[](../includes/module-banner.md)]\n\nVisual Studio هو بيئة التطوير المتكاملة (IDE) لتطبيقات التمويل والعمليات. يمكن للمطورين إنشاء حزم قابلة للنشر تحتوي على مشاريع وعناصر مخزنة كبيانات تعريف. يتيح التطوير في Visual Studio للمستخدمين تخصيص تجربة تطبيقات التمويل والعمليات. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء وبناء المشاريع والحزم القابلة للنشر في Visual Studio. \n- استخدم مستكشف التطبيقات لإدارة العناصر.\n- مزامنة تغييرات قاموس البيانات مع قاعدة بيانات التطبيق.\n- العمل في مصمم العنصر لإنشاء عناصر.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء وبناء المشاريع والحزم القابلة للنشر في Visual Studio. \n- استخدم مستكشف التطبيقات لإدارة العناصر.\n- مزامنة تغييرات قاموس البيانات مع قاعدة بيانات التطبيق.\n- العمل في مصمم العنصر لإنشاء عناصر.\n"
 prerequisites: >
-  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+  - الفهم الأساسي لأنظمة تخطيط موارد المؤسسة
 
   - الفهم الأساسي للميزات الجاهزة Visual Studio
-iconUrl: /learn/achievements/customize-using-vs-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/customize-using-vs-dynamics-365-finance-operations.svg
 levels:
 - beginner
 roles:

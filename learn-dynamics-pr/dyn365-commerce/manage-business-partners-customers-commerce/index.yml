@@ -7,12 +7,12 @@ metadata:
   author: cfrandall
   ms.author: chriran
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 96ee44a7ef557124eba0d622f63f6c11709ddfa8
-  ms.sourcegitcommit: 30b5b845531e4a8f36bb63fb40024c56ec5b0925
+  ms.openlocfilehash: 261c6c05137187d651be58a5ec028d59adf79a81
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/07/2022
-  ms.locfileid: "9127617"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510304"
 title: إدارة شركاء الأعمال B2B والتدرجات الهرمية للعملاء في Dynamics 365 Commerce
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -31,7 +31,7 @@ abstract: >
 
   - مراجعة كيفية إدارة شركاء الأعمال على موقع B2B للتجارة الإلكترونية.
 prerequisites: معرفة Dynamics 365 Commerce وDynamics 365 Commerce Headquartersومواقع التجارة الإلكترونية B2B على الويب
-iconUrl: /learn/achievements/manage-business-partners-customers-commerce.svg
+iconUrl: /training/achievements/manage-business-partners-customers-commerce.svg
 levels:
 - intermediate
 roles:

@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aa580ca030cc0ebbece8c7f2ed2a23fe253801de
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: d89753bef3912b909f290842dfc89074768ca0ba
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748908"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515166"
 title: بدء استخدام إدارة المشاريع في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتساعدك أدوات إدارة المشاريع في Dynamics 365 Project Operations في تشغيل المشاريع. تساعد أدوات الجدولة مديري المشروعات والفرق في الحفاظ على إنتاجيتهم. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على مراحل المشروع وتقويمات المشروع.\n- إنشاء خطة مشروع.\n- تقدير المشروع. \n- طلب موارد المشروع.\n- مراجعة الموارد.\n- تحديث مشروع.\n- تعقب عملية المشروع.\n- الموافقة على الوقت والمصروفات.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على مراحل المشروع وتقويمات المشروع.\n- إنشاء خطة مشروع.\n- تقدير المشروع. \n- طلب موارد المشروع.\n- مراجعة الموارد.\n- تحديث مشروع.\n- تعقب عملية المشروع.\n- الموافقة على الوقت والمصروفات.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات إدارة المشاريع
 
@@ -24,7 +24,7 @@ prerequisites: >
   - معرفة كيفية استخدام تطبيقات Dynamics 365
 
   - المعرفة الأساسية بـ Microsoft Dynamics 365 Project Operations
-iconUrl: /learn/achievements/get-started-project-management.svg
+iconUrl: /training/achievements/get-started-project-management.svg
 levels:
 - intermediate
 roles:

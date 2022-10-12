@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5ec49dbfa2f42778bb92c7deb7432958574cbef5
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 076de8645046933aa11ca048e5928c2445b63fcb
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8771571"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574178"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -25,7 +25,7 @@ quiz:
       explanation: صحيح. في Supply Chain Management، ستتكامل الإشعارات كإشعارات داخلية عند إدخالها في Sales لرأس مبيعات أو عميل.
     - content: الإشعارات الخارجية
       isCorrect: false
-      explanation: غير صحيح.‬ الإشعارات الخارجية، في حين يكون مرفق مدعوم في Supply Chain Management، ليس إشعارًا ستتكامل Sales منه.
+      explanation: غير صحيح.‬ الإشعارات الخارجية، في حين يكون مرفق مدعوم في Supply Chain Management، ليس إشعاراً ستتكامل Sales منه.
     - content: بلا
       isCorrect: false
       explanation: غير صحيح.‬ يضمن تكامل الإشعارات أن الإشعارات في Sales قد تكاملت مع المرفقات الموجودة في رؤوس المبيعات أو العملاء.
@@ -44,7 +44,7 @@ quiz:
     choices:
     - content: Dynamics 365 Sales
       isCorrect: false
-      explanation: غير صحيح.‬ تحتوي Sales على قيمة الأسعار التي تنشأ في تطبيقات التمويل والعمليات.
+      explanation: ‏‫غير صحيح. تحتوي Sales على قيمة الأسعار التي تنشأ في تطبيقات التمويل والعمليات.
     - content: تطبيقات التمويل والعمليات
       isCorrect: true
       explanation: صحيح. سيأتي السعر الرئيسي من تطبيقات التمويل والعمليات إذا تم إنشاء فاتورة. تحتفظ تطبيقات التمويل والعمليات بالسعر الذي سيتم نسخه باستخدام الكتابة المزدوجة. ستنعكس التغييرات في حال تغيير السعر.
@@ -53,4 +53,4 @@ quiz:
       explanation: غير صحيح.‬ Dataverse لا يحتفظ بالسعر الصحيح.
     - content: حاسبة أسعار
       isCorrect: false
-      explanation: غير صحيح.‬ حاسبة الأسعار ليست جزءًا من عملية المتطوع المحتمل إلى النقد.
+      explanation: غير صحيح.‬ حاسبة الأسعار ليست جزءاً من عملية المتطوع المحتمل إلى النقد.

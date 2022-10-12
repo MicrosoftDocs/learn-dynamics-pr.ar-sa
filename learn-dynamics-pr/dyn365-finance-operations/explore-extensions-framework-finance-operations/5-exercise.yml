@@ -4,16 +4,16 @@ title: تمرين عملي - توسيع EDT
 labId: 59574
 metadata:
   title: تمرين عملي - توسيع EDT
-  description: تدرب على توسيع EDT في تطبيقات Finance and Operations.
+  description: تدرب على تمديد EDT في تطبيقات التمويل والعمليات.
   ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ed376f733dd40cd8e8556b2647190cca8b8d1379
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d4f63ceb034efa222f035d10997a743c91f698d5
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361489"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582748"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/5-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2613d68c17135fb223d1d3b39334e8861febc4e7
-ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+ms.openlocfilehash: e20b6953ca50a48961d387c820cb90d61182bbcf
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/01/2022
-ms.locfileid: "9393366"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584152"
 ---
 يحتاج العميل إلَى وظيفة دفعية مخصصة للتشغيل كل ليلة ومعالجة آلاف السجلات. يبني الشريك الوظيفة الدفعية المطلوبة، وتعمل عَلى النحو المطلوب. ومع ذلك، فإن الوظيفة تستغرق وقتًا طويلاً وتمنع إكمال الوظائف الليلية خلال الوقت المخصص.
 
@@ -12,12 +12,12 @@ ms.locfileid: "9393366"
 
 يعني الحل القابل للتطوير أنه يمكنك تقسيم مهمة دفعية إلَى أجزاء أصغر، ويمكنك تشغيل كلّ منها بشكل مستقل وبالتوازي للسماح بإنتاجية أسرع. تتوفر تقنيات مختلفة لتختار من بينها، وتتم مناقشتها بالتفصيل فِي المقالات التالية:
 
-- **توازي الدُفعات** - [التوازي الدُفعي فِي AX – الجزء الأول | Microsoft Docs](/archive/blogs/axperf/batch-parallelism-in-ax-part-i/?azure-portal=true)
-- **نمذجة المهام الفردية** - [التوازي الدُفعي فِي AX – الجزء الثاني | Microsoft Docs](/archive/blogs/axperf/batch-parallelism-in-ax-part-ii/?azure-portal=ture)
-- **أهم عمليات الانتقاء** - [التوازي الدُفعي فِي AX – الجزء الثالث | Microsoft Docs](/archive/blogs/axperf/batch-parallelism-in-ax-part-iii/?azure-portal=true)
+- **توازي الدُفعات** - [التوازي الدُفعي فِي AX – الجزء الأول](/archive/blogs/axperf/batch-parallelism-in-ax-part-i/?azure-portal=true)
+- **نمذجة المهام الفردية** - [التوازي الدُفعي فِي AX – الجزء الثاني](/archive/blogs/axperf/batch-parallelism-in-ax-part-ii/?azure-portal=ture)
+- **أهم عمليات الانتقاء** - [التوازي الدُفعي فِي AX – الجزء الثالث](/archive/blogs/axperf/batch-parallelism-in-ax-part-iii/?azure-portal=true)
 
 ## <a name="anti-patterns"></a>الأنماط المضادة
 
-ضع فِي اعتبارك الأنماط المضادة (المزالق) التالية عند تصميم قابلية التوسع:
+ضع فِي اعتبارك الأنماط المضادة (المخاطر) التالية عند تصميم قابلية التوسع:
 - لا تختبر الوظائف الدفعية ببيانات تمثل أحجامًا حقيقية.
 - لا تصمم وظائف دفعية مع وضع التوازي فِي الاعتبار.

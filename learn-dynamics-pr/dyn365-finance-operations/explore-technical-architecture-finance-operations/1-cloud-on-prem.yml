@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-technical-architecture-dynamics-365-finance-operatio
 title: التفرقة بين المجموعة والبنية المحلية
 metadata:
   title: التفرقة بين المجموعة والبنية المحلية
-  description: في هذه الوحدة، سوف تتعلم حول الاختلافات بين المجموعة والبنية المحلية في تطبيقات Finance and Operations.
+  description: في هذه الوحدة، سوف تتعلم حول الاختلافات بين المجموعة والبنية المحلية في تطبيقات التمويل والعمليات.
   ms.date: 06/21/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f079b0633b651d5f27b894aa651719dda10c72cd
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6425ac4bbf28ba55e6ad1ae2011d51231bb8f11f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335164"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581188"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

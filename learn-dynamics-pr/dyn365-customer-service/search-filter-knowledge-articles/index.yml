@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5ce930e02a5b17987b4243ffad3ba7fa9de800f2
-  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.openlocfilehash: e6e06f318c6e71af3bdbed1ae60bb379ff0da985
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9090728"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509071"
 title: البحث في المقالات المعرفية وتصفيتها باستخدام Dynamics 365 Customer Service
 summary: "[!include[](../includes/module-banner.md)] \nتبحث هذه الوحدة في كيفية إعداد العديد من إمكانات البحث والتصفية المختلفة المتوفرة في Dynamics 365 Customer Service.      \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على المزيد حول عوامل تصفية البحث.\n- التعرف على البحث الموحد.\n- التعرف على الكلمات الأساسي المقترحة من الذكاء الاصطناعي.\n- التعرف على تحليلات البحث عن المعرفة.\n"
 prerequisites: المعرفة الأساسية بتطبيق Customer Service
-iconUrl: /learn/achievements/search-filter-knowledge-articles.svg
+iconUrl: /training/achievements/search-filter-knowledge-articles.svg
 levels:
 - intermediate
 roles:

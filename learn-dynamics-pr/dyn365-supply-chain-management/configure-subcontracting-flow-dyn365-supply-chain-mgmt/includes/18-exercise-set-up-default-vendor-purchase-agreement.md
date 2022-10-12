@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: ad5b2ac6f011d53cf703f05219606171b3e38b17934f524593ae83ac38698944
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 8aa95f6bd87140b641f5f2abdc7a04a022c1db65
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7103622"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536509"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
-للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة النمطية، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management والتي تم تثبيتها باستخدام Lifecycle Services‎‏ (LCS)‏‏‏‎. 
+للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة النمطية، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management والتي تم تثبيتها باستخدام Lifecycle Services‎‏‏‏‏‎. 
 
 ## <a name="scenario"></a>السيناريو
 ستقوم أولاً بإعداد مورد افتراضي لمستودع ثم إنشاء اتفاقية شراء مع هذا المورد. 

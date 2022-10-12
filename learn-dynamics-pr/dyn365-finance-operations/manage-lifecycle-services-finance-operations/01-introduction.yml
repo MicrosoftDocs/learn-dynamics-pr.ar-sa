@@ -3,17 +3,17 @@ uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.01-introduction
 title: مقدمة
 metadata:
   title: مقدمة
-  description: تستعرض هذه الوحدة الوحدة النمطية لإدارة عمليات تنفيذ تطبيقات Finance and Operations باستخدام Lifecycle Services.
+  description: تستعرض هذه الوحدة النمطية لإدارة عمليات تنفيذ تطبيقات التمويل والعمليات باستخدام Lifecycle Services.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7ee29752f15a906e7cd31ccbdb9329289eb6cf2e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4b513aa52b606926a6108e1227edd5266c66a59e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352737"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582848"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

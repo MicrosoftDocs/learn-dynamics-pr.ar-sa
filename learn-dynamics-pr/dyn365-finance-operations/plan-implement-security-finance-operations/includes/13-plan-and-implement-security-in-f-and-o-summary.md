@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 7f13a5239cdb0d4780d02d775cb5db5060ba7ad73006161020fdac1ce7770251
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: a25ad077d50535a90fd27a2ca21a18cdb55aa526
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053594"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579598"
 ---
-أنت الآن على دراية ببنية الأمان وميزات إدارة الأمان الخاصة تطبيقات Finance and Operations. لقد تعلمت كيفية إدارة المستخدمين وتعيين الأدوار إليهم. 
+أنت الآن على دراية ببنية الأمان وميزات إدارة الأمان الخاصة تطبيقات التمويل والعمليات. لقد تعلمت كيفية إدارة المستخدمين وتعيين الأدوار إليهم. 
 
 وباستخدام الفصل بين المهام، يمكنك إعداد قواعد لفصل المهام التي يجب تنفيذها بواسطة مستخدمين مختلفين.
 

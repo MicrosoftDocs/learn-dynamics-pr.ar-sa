@@ -8,19 +8,19 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-guides
-  ms.openlocfilehash: 44c89c7a4e1bfa9a9af05c466669a6f9f3bebccb
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 24e11906cf78835920be030ae03e56432b722602
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751440"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507475"
 title: التعامل مع Dynamics 365 Guides
 summary: "[!include[](../../includes/lp-banner.md)]\nإن Dynamics 365 Guides هو تطبيق الواقع المختلط الذي يعرض تعليمات ثلاثية الأبعاد خطوة بخطوة في مكان حدوث العمل، ما يمكّن الموظفين من تعلم المهام المعقدة وتنفيذها. في \"مسار التعليم\" هذا، ستتم تغطية أدوار المسؤول والمؤلف والعامل. \n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Guides
 
   - فهم كيفية استخدام Microsoft HoloLens
-iconUrl: /learn/achievements/work-dynamics-guides.svg
+iconUrl: /training/achievements/work-dynamics-guides.svg
 levels:
 - beginner
 roles:

@@ -7,18 +7,18 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c084670da22b109dc196ff8832d62f624734799d
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a890a8d74a1ac442c00d0f9abdaf5e0ab9933f84
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753102"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505853"
 title: مقدمه إلى هندسة وتوزيع Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيوفر Dynamics 365 Commerce إمكانات إدارية، يُشار إليها أيضًا باسم مكون Commerce Headquarters، والذي يمكّن تكوين المنتجات والموظفين والعمليات التجارية والوظائف الأخرى المطلوبة للأعمال. إنه أيضًا تطبيق يستخدمه عمال مركز الاتصال لتوفير مهام سير العمل المساعدة المتعلقة بـ Commerce. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على بنية ومكونات Commerce الأساسية.\n- اكتشف خيارات مخطط Commerce في المتجر.\n- تعرف على كيفية تحديد أفضل خيار مخطط لعمليات التوزيع في المتجر. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على بنية ومكونات Commerce الأساسية.\n- اكتشف خيارات مخطط Commerce في المتجر.\n- تعرف على كيفية تحديد أفضل خيار مخطط لعمليات التوزيع في المتجر. \n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce
-iconUrl: /learn/achievements/architecture-deployment-commerce.svg
+iconUrl: /training/achievements/architecture-deployment-commerce.svg
 levels:
 - beginner
 roles:

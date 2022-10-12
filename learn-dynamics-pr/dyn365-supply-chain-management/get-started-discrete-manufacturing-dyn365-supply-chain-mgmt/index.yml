@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0881904406e974443f72aec2479979f984af677b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c302fec60db9f2c379ba1c889b71075147b7d961
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8747985"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508268"
 title: بدء استخدام التصنيع المنفصلة في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -30,7 +30,7 @@ prerequisites: >
   - فهم كيفية التعامل مع إدارة المستودعات
 
   - القدرة على استخدام Supply Chain Management للمعالجة الأساسية
-iconUrl: /learn/achievements/get-started-discrete-manufacturing-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/get-started-discrete-manufacturing-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

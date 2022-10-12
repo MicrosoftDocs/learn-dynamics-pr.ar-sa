@@ -2,10 +2,10 @@
 achievementUid: learn-dynamics.send-notifications.badge
 metadata:
   title: 'Microsoft Badge: إرسال إخطارات في Dynamics 365 Business Central تم إصدارها من قبل Microsoft'
-  ms.openlocfilehash: a8a54661ceb99124481990cf9a2c534ce6f78751
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 8d2f05c628ed022b1f210603eac1dd58c4dfc1da
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772738"
-socialImageUrl: /learn/achievements/send-notifications-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513133"
+socialImageUrl: /training/achievements/send-notifications-social.png

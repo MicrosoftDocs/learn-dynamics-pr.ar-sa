@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a26185b7492ca9f885c0c1709cb3f194249dbac6
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: b68c34e4c01300bc7aaa6e3fe21ce5b69ff21f2e
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7354713"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9515775"
 ---
 
 بصفتك مطوراً، يتم تزويدك بالعديد من الأدوات التي تساعد في جعل عملية التطوير أسهل وأكثر كفاءة. كما تمكّنك خدمات Microsoft مثل Power Apps وPower Automate من توسيع نطاق التطبيق لتمكين مؤسستك من الاستفادة من كامل إمكاناتها.
@@ -15,11 +15,7 @@ ms.locfileid: "7354713"
 
 
 
-| الموضوع| الرابط|
+| الموضوع| الارتباط|
  | ------------- | ------------- |
- | تعرّف على كيفية إنشاء عمليات سير المهام باستخدام Power Automate.| [أتمتة عملية تجارية باستخدام مسار التعلّم Power Automate](/learn/paths/automate-process-using-flow/?azure-portal=true) |
- | معرفة المزيد حول Power Apps | [بدء استخدام Power Apps](/learn/modules/get-started-with-powerapps/?azure-portal=true)|
-
-
-
-
+ | تعرّف على كيفية إنشاء عمليات سير المهام باستخدام Power Automate.| [أتمتة عملية تجارية باستخدام مسار التعلّم Power Automate](/training/paths/automate-process-using-flow/?azure-portal=true) |
+ | معرفة المزيد حول Power Apps | [بدء استخدام Power Apps](/training/modules/get-started-with-powerapps/?azure-portal=true)|

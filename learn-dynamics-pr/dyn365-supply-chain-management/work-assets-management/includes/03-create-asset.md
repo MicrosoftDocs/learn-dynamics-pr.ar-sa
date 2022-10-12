@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7cfc4535fa808c5f3ef60047dc38f73d15a63d5c
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: dac00c8b78c79ef25153bece93e8f613c851e4f9
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7345791"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9509614"
 ---
 الآن بعد أن عرفت كيف يبدو سجل الأصول، يمكنك إنشاء سجل.
 
@@ -41,7 +41,7 @@ ms.locfileid: "7345791"
 - إذا كان الأصل ذو المستوى الأعلى يحتوي على أي أصول فرعية، فسيتم تثبيتها أيضاً على موقع العمل المحدد. 
 
 
-- تعرّف على المزيد حول تثبيت الأصول في مواقع العمل، انتقل إلى الوحدة [إعداد مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management](/learn/modules/setup-functional-locations-asset-management/?azure-portal=true).
+- تعرّف على المزيد حول تثبيت الأصول في مواقع العمل، انتقل إلى الوحدة [إعداد مواقع العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management](/training/modules/setup-functional-locations-asset-management/?azure-portal=true).
 
 
 بعد قيامك بإنشاء أصل، يمكنك الاستمرار في إضافة مزيد من المعلومات المرتبطة بالأصل من خلال الانتقال إلى صفحة **كل الأصول**، وتحديد الأصل، ثم تحديد الزر **تحرير** لإجراء التغييرات الخاصة بك. في الصفحة **كل الأصول**، ستشاهد علامات تبويب سريعة متعددة يمكنك من خلالها إدخال المعلومات الإضافية. 

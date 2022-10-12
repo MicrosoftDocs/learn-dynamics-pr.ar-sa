@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-upgrade-ax-2012-to-finance-operations.04-2-artif
 title: مقارنة المنتجات
 metadata:
   title: مقارنة المنتجات
-  description: تعرف على مقارنة المنتجات بين تطبيقات Dynamics AX 2012 وFinance and Operations.
+  description: تعرف على مقارنة المنتجات بين تطبيقات Dynamics AX 2012 وتطبيقات التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dee2eb303f456c52d1b863f723cede05be1c7325
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fbc0782c4f82e89d57501bbdbca813165ad9e9a8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327658"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580028"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-2-artifact.md)]"

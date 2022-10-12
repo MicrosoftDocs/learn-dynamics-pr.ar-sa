@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
 title: إجراء اختبارات الوحدة
 metadata:
   title: إجراء اختبارات الوحدة
-  description: تعرف على كيفية إجراء اختبارات الوحدة في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إجراء اختبارات الوحدة في تطبيقات التمويل والعمليات.
   ms.date: 07/01/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ad3e8a000845d29a0b9a155dbc7071d82b2d8a9e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b5c4d11a78031f8b5019d1d22e36568f9379d5a4
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340421"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580148"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

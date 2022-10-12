@@ -3,17 +3,17 @@ uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-financ
 title: إعداد طباعة الشبكة
 metadata:
   title: إعداد طباعة الشبكة
-  description: توضّح هذه الوحدة كيفية إعداد الطباعة عبر الشبكة في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية إعداد طباعة الشبكة في تطبيقات التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b6ae26491bc31c117a18911593699560e1ae3955
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fe324bbd02b3e15031ab11e34c74b3324af86d2e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334186"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578598"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

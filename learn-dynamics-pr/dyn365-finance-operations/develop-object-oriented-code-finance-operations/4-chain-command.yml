@@ -3,17 +3,17 @@ uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations
 title: تنفيذ سلسلة الأوامر
 metadata:
   title: تنفيذ سلسلة الأوامر
-  description: التعرف على كيفية تطبيق سلسله الأوامر في تطبيقات Finance and Operations.
+  description: التعرف على كيفية تطبيق سلسلة الأوامر في تطبيقات التمويل والعمليات.
   ms.date: 06/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7637bad73fae80d5e18f8ccc97e0b090b72bb6af
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f7c085e0a3b4bc3115615f130199fba454ad9505
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328255"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577078"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations
 title: تطوير تعليمات برمجية لتوسيع إطار عمل
 metadata:
   title: تطوير تعليمات برمجية لتوسيع إطار عمل
-  description: تعرّف على طريقة تطوير تعليمات برمجية لتوسيع إطار عمل في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تطوير التعليمات البرمجية لتوسيع إطار عمل في تطبيقات التمويل والعمليات.
   ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c30fbe77958483e94af7d5fb4354342e0c242450
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: eaa08cef2668a272c29119e977e9fb6765f4fa34
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361495"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581228"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

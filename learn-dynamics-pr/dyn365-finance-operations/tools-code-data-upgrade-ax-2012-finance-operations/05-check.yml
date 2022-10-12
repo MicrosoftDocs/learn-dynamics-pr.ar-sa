@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 78aac9293c685ddc49127d33f09f058b21e86960
-  ms.sourcegitcommit: c5fa8cc8d1fae5ff4dad3ce3590baef4d3e5c59c
+  ms.openlocfilehash: e20718347430efe96713e8544e28301a1b6c00a8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "7440984"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573508"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -32,7 +32,7 @@ quiz:
     - content: مساحة عمل إدارة البيانات
       isCorrect: false
       explanation: أداة ترقية الكود غير موجودة في "مساحة عمل إدارة البيانات".
-  - content: يحتاج فريقك إلى تحديد عمليات التخصيص التي تم تطويرها في ‎Dynamics AX 2012 والتي يمكن استبدالها بوظيفة أساسية في تطبيقات Finance and Operations. ما المرحلة التي يجب إكمال ذلك فيها؟
+  - content: يحتاج فريقك إلى تحديد عمليات التخصيص التي تم تطويرها في Dynamics AX 2012 والتي يمكن استبدالها بوظيفة أساسية في تطبيقات التمويل والعمليات. ما المرحلة التي يجب إكمال ذلك فيها؟
     choices:
     - content: التحليل
       isCorrect: true

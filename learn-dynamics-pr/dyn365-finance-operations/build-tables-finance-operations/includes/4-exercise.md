@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 301527b389c69dcdeaee05e93ce7ffe27afe3903
-ms.sourcegitcommit: ff754a1100e6f6918ac8857395d22fa96a3dc612
+ms.openlocfilehash: cede1c954b1d7ccf74ff89115990c3b73041400f
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "7917432"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575718"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
 يجب إيقاف تشغيل خدمة الدُفعة. فيما يلي الخطوات الخاصة بإيقاف تشغيل خدمة الدُفعة:
@@ -16,7 +16,7 @@ ms.locfileid: "7917432"
 
 
 ## <a name="scenario"></a>السيناريو
-طُلب من مطور تطبيقات Finance and Operations إنشاء جدول جديد لشركة إدارة الأسطول. تحتاج شركة Fleet Management إلى جمع معلومات العملاء بطريقة مختلفة عن صفحة **كافة العملاء** الجاهزة. وترغب في أن يحتوي الجدول على كل من البيانات الشخصية وبيانات الموقع باستخدام العناصر الموجودة في AOT.
+طُلب من مطور تطبيقات التمويل والعمليات إنشاء جدول جديد لشركة إدارة الأسطول. تحتاج شركة Fleet Management إلى جمع معلومات العملاء بطريقة مختلفة عن صفحة **كافة العملاء** الجاهزة. وترغب في أن يحتوي الجدول على كل من البيانات الشخصية وبيانات الموقع باستخدام العناصر الموجودة في AOT.
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد
 1.  قم بتصغير نافذة Microsoft Edge. 

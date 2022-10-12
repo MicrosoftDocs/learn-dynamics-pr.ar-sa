@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 218f6e287c7a765e338fd9679adaf361a068387e98e5208d7755daecc9148ae2
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: d04b91e93738f5afecf60f99433d319cb048da65
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120158"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536199"
 ---
 تحتاج إلى مساعدة المحاسب في شركة USMF، حول كيفية تكوين واستخدام أنظمة الاستحقاق في تطبيقات Finance. يرغب في استئجار سيارة من مورد مقابل 81،720 دولاراً أمريكياً وتسجيل المستحقات ضمن شروط الإيجار لمدة 24 شهراً. كما يرغب في فهم الخيارات **شهري** و **عدد الأيام** الموجودة في أنظمة الاستحقاق. 
 
 ## <a name="before-you-begin"></a>قبل البدء 
 
-للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة النمطية، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Finance والتي يتم تثبيتها باستخدام Lifecycle Services (LCS). 
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة النمطية، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في تطبيق Dynamics 365 Finance الذي تم تثبيته باستخدام Lifecycle Services. 
 
 ## <a name="create-accrual-schemes"></a>إنشاء أنظمة استحقاق 
 

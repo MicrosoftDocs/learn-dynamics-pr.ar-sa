@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: c06dce9dce8e390c5a51580aa02072b0fb47fa8f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: bfcccbde34eb401a89d7246e2a0eb38e294ffda3
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751926"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511076"
 title: إدارة شركة ذات مواقع متعددة في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -24,7 +24,7 @@ prerequisites: >
   - الفهم الأساسي لكيفية التنقل في تطبيق Microsoft Dynamics 365 Business Central.
 
   - معرفة عمليات المبيعات والشراء في Business Central.
-iconUrl: /learn/achievements/manage-multiple-locations.svg
+iconUrl: /training/achievements/manage-multiple-locations.svg
 levels:
 - intermediate
 roles:

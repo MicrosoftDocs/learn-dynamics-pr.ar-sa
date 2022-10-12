@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e0c7a55d95f2a7424a3efdde10b695d54013bf78
-  ms.sourcegitcommit: 68cf5de1b2e6af8ab4c453c1f156d17ef1d1b6d3
+  ms.openlocfilehash: 0f1a0893f135553ac9f07ef62621bc20308af506
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9090719"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515895"
 title: توجيه العمل وتوزيعه باستخدام التوجيه الموحد في Dynamics 365 Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -29,7 +29,7 @@ abstract: >
 
   - قم بتشغيل التشخيصات.
 prerequisites: المعرفة الأساسية بتطبيق خدمة العملاء
-iconUrl: /learn/achievements/route-distribute-work.svg
+iconUrl: /training/achievements/route-distribute-work.svg
 levels:
 - intermediate
 roles:

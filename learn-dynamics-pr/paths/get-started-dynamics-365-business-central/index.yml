@@ -8,17 +8,17 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 3ed70f67a8c9e50c166d745c8374d37001510a2a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: df880b28f0fc37372e6828673bbd384d6691c4f4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752151"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516914"
 title: الشروع في العمل باستخدام Microsoft Dynamics 365 Business Central
 summary: هل أنت مهتم بتطبيق Business Central؟ إذا كنت مهتماً، فإن مسار التعليم هذا يوفر لك مقدمة جيدة. ويتناول كيفية إعداد الإصدار التجريبي ويوفر بعض المعلومات الأساسية حول ما هو متوفر، كما يعرض بعض خيارات التخصيص التي يمكنك اجراؤها لتخصيص Business Central حسب استخدامك.
 prerequisites: >
   - بلا
-iconUrl: /learn/achievements/get-started-dynamics-365-business-central.svg
+iconUrl: /training/achievements/get-started-dynamics-365-business-central.svg
 levels:
 - beginner
 roles:

@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 440ddc5a70d2ed669a5f337888fc2e7acc02b0ce
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ba6553fcc47d5f58d8c4af06ef1176faf09c79f4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750492"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518371"
 title: استخدام مقاييس الهدف في Dynamics 365 Sales and Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   تحديد مقاييس خدمة العملاء، وإنشاء مقاييس الهدف، والعمل مع أعمدة العرض الإجمالي والاستعلامات.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - التحديد بالمقاييس اللازمة لبناء أهداف خدمة عملاء فعالة
 
@@ -30,7 +30,7 @@ abstract: >
 
   - إنشاء أعمدة العرض الإجمالي والاستعلامات المخصصة
 prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.  من المفيد أيضًا الإلمام بإنشاء وإدارة الحالات والاستحقاقات واتفاقيات مستوى الخدمة.
-iconUrl: /learn/achievements/goal-management.svg
+iconUrl: /training/achievements/goal-management.svg
 levels:
 - intermediate
 roles:

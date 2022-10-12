@@ -7,24 +7,24 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c97d1872485c5c9ef7b1f1dc4eb0466f38e93bb5
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a0fb915b2cc6ea6c2cfe2a58b9eb24f2fa23376f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751087"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580058"
 title: بدء استخدام إطار عمل القابلية للتوسع في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)] \nنظرًا لكون تطبيقات التمويل والعمليات حل سحابي، فقد نحى تطوير العناصر والتعليمات البرمجية للمؤسسات منحى التطوير لإجراء تحديثات مستمرة للتطبيق.  \n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- إطار عمل القابلية للتوسع وكيف تعمل الملحقات.\n- الطرق المختلفة لتخصيص التطبيق.\n- طرق مختلفة لتنفيذ ملحق التعليمات البرمجية.\n- كيفية إرسال طلب قابلية التوسعة.\n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
-  - معرفة تطبيقات التمويل والعمليات
+  - المعرفة بتطبيقات التمويل والعمليات
 
   - معرفة تقنيات التطوير
 
   - خبرة بالترميز في لغة X++
-iconUrl: /learn/achievements/get-started-extensibility-finance-operations.svg
+iconUrl: /training/achievements/get-started-extensibility-finance-operations.svg
 levels:
 - intermediate
 roles:

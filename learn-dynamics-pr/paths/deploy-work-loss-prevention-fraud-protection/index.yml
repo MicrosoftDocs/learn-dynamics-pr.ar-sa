@@ -8,17 +8,17 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-fraud-protection
-  ms.openlocfilehash: 8c6a6679388d248305f8abedaf99b1b920b3ed7d
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c7f9790a3c348d9b9774d797e2d307290f8afdae
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752295"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9502848"
 title: توزيع تفادي الخسائر والتعامل معها لـ Dynamics 365 Fraud Protection
 summary: "[!include[](../../includes/lp-banner.md)]\nتفادي الخسائر لـ Dynamics 365 Fraud Protection Microsoft هو حل قائم على السحابة مصمم لتقليل تكاليف الاحتيال في المتجر وتحسين الكفاءات التشغيلية والإيرادات. باستخدام قوة الذكاء الاصطناعي، يحدد تفادي الخسائر الحالات غير الطبيعية والأنماط التي قد تشير إلى الاحتيال في المتجر.  \n"
 prerequisites: >
   - المعرفة الصناعية لمكافحة الاحتيال
-iconUrl: /learn/achievements/deploy-work-loss-prevention-fraud-protection.svg
+iconUrl: /training/achievements/deploy-work-loss-prevention-fraud-protection.svg
 levels:
 - intermediate
 roles:

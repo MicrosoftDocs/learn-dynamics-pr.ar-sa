@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4296834fecd5f72c9705b75528e586b9df473546
-ms.sourcegitcommit: ecd492336fb5ca0f3ec190e48bd07415b82073a7
+ms.openlocfilehash: 457ce4fd29f6d48a672449e3d51c93c8cb31ee3e
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "9013833"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9502635"
 ---
 ناقشت هذه الوحدة إمكانات Microsoft Dynamics 365 Supply Chain Management المستخدمة للتحكم في العمليات اليومية للمستودع، بما في ذلك طرق حساب التكلفة وخيارات تكوين المستودع وإدارة المخزون.
 
@@ -56,44 +56,44 @@ ms.locfileid: "9013833"
 
 لمزيد من الدراسة:
 
-- [تكوين إدارة المستودعات](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/)
+- [تكوين إدارة المستودعات](/training/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/)
 
-- [استكشاف أساليب التكلفة](/learn/modules/explore-warehouse-inventory-management-capabilities/2-explore-costing-methods)
+- [استكشاف أساليب التكلفة](/training/modules/explore-warehouse-inventory-management-capabilities/2-explore-costing-methods)
 
-- [مقدمة حول كشف التكاليف](/learn/modules/work-costing-sheet-dyn365-supply-chain-mgmt/1-introduction)
+- [مقدمة حول كشف التكاليف](/training/modules/work-costing-sheet-dyn365-supply-chain-mgmt/1-introduction)
 
-- [استكشاف حالات الاستخدام لإدارة المستودعات](/learn/modules/explore-warehouse-inventory-management-capabilities/3-explore-use-cases-for-warehouse-management-systems-production-environments)
+- [استكشاف حالات الاستخدام لإدارة المستودعات](/training/modules/explore-warehouse-inventory-management-capabilities/3-explore-use-cases-for-warehouse-management-systems-production-environments)
 
-- [مزايا Supply Chain Management](/learn/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/2-benefits)
+- [مزايا Supply Chain Management](/training/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/2-benefits)
 
-- [مقدمة إلى تكوين إدارة المستودعات](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/1-introduction)
+- [مقدمة إلى تكوين إدارة المستودعات](/training/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/1-introduction)
 
-- [استكشاف أوامر الشراء ودفاتر يومية وصول الأصناف وتوزيع البضائع](/learn/modules/explore-warehouse-inventory-management-capabilities/4-explore-purchase-orders-item-arrival-journals-cross-docking)
+- [استكشاف أوامر الشراء ودفاتر يومية وصول الأصناف وتوزيع البضائع](/training/modules/explore-warehouse-inventory-management-capabilities/4-explore-purchase-orders-item-arrival-journals-cross-docking)
 
-- [توزيع البضائع](/learn/modules/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/05-cross-docking)
+- [توزيع البضائع](/training/modules/manufacture-warehouse-mgmt-dyn365-supply-chain-mgmt/05-cross-docking)
 
-- [حركة المخزون الواردة](/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/2-inbound)
+- [حركة المخزون الواردة](/training/modules/configure-inventory-management-dyn365-supply-chain-mgmt/2-inbound)
 
-- [عمليات حجز المخزون والانتقاء والتعبئة والتزويد والشحنات](/learn/modules/explore-warehouse-inventory-management-capabilities/5-explore-inventory-reservations-picking-packing-replenishment-shipments)
+- [عمليات حجز المخزون والانتقاء والتعبئة والتزويد والشحنات](/training/modules/explore-warehouse-inventory-management-capabilities/5-explore-inventory-reservations-picking-packing-replenishment-shipments)
 
-- [انتقاء أمر المبيعات للشحن](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/6-2-sales-order-picking-shipment-consolidation)
+- [انتقاء أمر المبيعات للشحن](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/6-2-sales-order-picking-shipment-consolidation)
 
-- [انتقاء مجموعة المستودعات](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/7-cluster-picking)
+- [انتقاء مجموعة المستودعات](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/7-cluster-picking)
 
-- [حاوية تعبئة المستودع](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/8-packing-container)
+- [حاوية تعبئة المستودع](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/8-packing-container)
 
-- [عمليات النقل إلى إدارة المستودعات](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/5-transfers)
+- [عمليات النقل إلى إدارة المستودعات](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/5-transfers)
 
-- [مفاهيم جرد المخزون](/learn/modules/explore-warehouse-inventory-management-capabilities/6-explore-inventory-counting-inventory-hand-concepts)
+- [مفاهيم جرد المخزون](/training/modules/explore-warehouse-inventory-management-capabilities/6-explore-inventory-counting-inventory-hand-concepts)
 
-- [الجرد الدوري في المستودع](/learn/modules/work-warehouse-management-dyn365-supply-chain-mgmt/4-cycle-counting)
+- [الجرد الدوري في المستودع](/training/modules/work-warehouse-management-dyn365-supply-chain-mgmt/4-cycle-counting)
 
-- [تكوين مراقبة الجودة](/learn/modules/configure-work-quality-control-dyn365-supply-chain-mgmt/3-configure)
+- [تكوين مراقبة الجودة](/training/modules/configure-work-quality-control-dyn365-supply-chain-mgmt/3-configure)
 
-- [مقدمة إلى مراقبة الجودة](/learn/modules/configure-work-quality-control-dyn365-supply-chain-mgmt/1-introduction)
+- [مقدمة إلى مراقبة الجودة](/training/modules/configure-work-quality-control-dyn365-supply-chain-mgmt/1-introduction)
 
-- [إدارة المخزون وإدارة المستودعات](/learn/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/6-inv-wms)
+- [إدارة المخزون وإدارة المستودعات](/training/modules/get-started-supply-chain-management-dyn365-supply-chain-mgmt/6-inv-wms)
 
-- [مقدمة إلى تكوين إدارة المستودعات](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/1-introduction)
+- [مقدمة إلى تكوين إدارة المستودعات](/training/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/1-introduction)
 
-- [عملية تكوين إدارة المستودعات](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/5-processes)
+- [عملية تكوين إدارة المستودعات](/training/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/5-processes)

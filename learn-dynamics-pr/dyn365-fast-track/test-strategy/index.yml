@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 605c072b4f5d1fc00dfc0ec49d943900c13ceff1
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 6bdc1ba3bc8cdff99f40ca3f4c69bbc3a178158d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748301"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517971"
 title: تخطيط استراتيجية اختبار لحل Dynamics 365 الخاص بك
 summary: "[!include[](../includes/module-banner.md)] \nاستراتيجية الاختبار وتحديد الثغرات في خطط الاختبار وتتم مناقشه المخاطر المحتملة في هذه الوحدة.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد أهداف الاختبار القابلة للقياس والنتائج الخاصة وغير القابلة للقياس.\n- تخطيط استراتيجية الاختبار بالكامل للحصول على تفاوض. \n- التعرف علي كيفيه تحضير ورشه مراجعه استراتيجية الاختبار وتنفيذه.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد أهداف الاختبار القابلة للقياس والنتائج الخاصة وغير القابلة للقياس.\n- تخطيط استراتيجية الاختبار بالكامل للحصول على تفاوض. \n- التعرف علي كيفيه تحضير ورشه مراجعه استراتيجية الاختبار وتنفيذه.\n"
 prerequisites: "- المعرفة الواسعة بالمستشار الوظيفي والمطور\n- تكون الخبرة السابقة كمهندس حلول لمشروع سابق مفيدة \n- تنزيل مثال لقالب ورشة العمل هذه من [موقع GitHub](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/tree/master/fasttrack/?azure-portal=true)\n"
-iconUrl: /learn/achievements/test-strategy.svg
+iconUrl: /training/achievements/test-strategy.svg
 levels:
 - advanced
 roles:

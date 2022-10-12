@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: 767e291b3479b784fb5f11fe737ff1e27307d344
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 8286c0508e10fb384149e9332abe6040b37f3c5d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9368024"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519005"
 title: استكشاف إمكانات Dynamics 365 Commerce
 summary: تعرفك هذه الوحدة على الإمكانات الأساسية لـ Microsoft Dynamics 365 Commerce بما فِي ذلك إدارة القنوات وإدارة الطلبات الموزعة وعمليات فرز المنتجات.
 abstract: >
@@ -28,7 +28,7 @@ abstract: >
   *   وصف تشكيلة المنتجات.
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
-iconUrl: /learn/achievements/dynamics-commerce-capabilities.svg
+iconUrl: /training/achievements/dynamics-commerce-capabilities.svg
 levels:
 - beginner
 roles:

@@ -9,12 +9,12 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: power-apps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: c21ad60024619224222b0d85af1550dbf2a9be55
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 6ec453c1e891e451eab87ee701468fef9962c9c3
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9362414"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9506608"
 title: الشروع في العمل باستخدام Dataverse
 video:
   title: الشروع في العمل باستخدام Dataverse
@@ -26,9 +26,9 @@ summary: >
   هل تريد معرفة كيفية بناء الحلول التي يمكنها رفع بنيه البيانات القياسية والعمل مع الحلول الأخرى التي تشترك في نفس نموذج البيانات؟  هل تريد توسيع النموذج القياسي لدعم الحلول المخصصة؟ سيوضح مسار التعليم هذا المفاهيم الخلفية والفوائد الخاصة بـ Dataverse. يتم أيضاً مناقشة إنشاء بيئة ووحدات ومجموعات حقول وخيارات.
 
 
-  يمكن أن يساعد مسار التعليم هذا على إعدادك لـ [Microsoft Certified: Microsoft Power Platform شهادة إقران منشئ التطبيق](/learn/certifications/power-platform-app-maker).
+  يمكن أن يساعد مسار التعليم هذا على إعدادك لـ [Microsoft Certified: Microsoft Power Platform شهادة إقران منشئ التطبيق](/certifications/power-platform-app-maker).
 prerequisites: "يتطلب العديد من القدرات والتدريبات ضمن المسار التعليمي أن تكون عضواً في \"دور المسؤول\" في بيئة ما، ويجب أن يكون لديك ترخيص Power Apps صالح.  إذا لم تكن قد أضفت دور المسؤول أو لم يكن لديك ترخيص Power Apps معين لك، فينبغي عليك إنشاء بيئة شخصية عن طريق الوصول إلى خطة Community Power Apps وإعداد بيئة شخصية باتباع الإرشادات المُشار اليها في قسم الملخص للوحدة الأولى. ستسمح لك خطة المجتمع باستخدام بيئة واحدة (بيئة المطور لديك) وإنشاء مثيل Dataverse لها والوصول إلى كافة إمكانيات ترخيص Power Apps. \n\nالقيود - تتيح خطة Community Power Apps تجربة جوانب Power Apps وDataverse ولكن لا يمكنك استخدامها لعمليات الإنتاج، ولا يمكنك نشر ومشاركة أي Power Apps أنشأته في هذه البيئة. \n"
-iconUrl: /learn/achievements/get-started-using-common-data-service.svg
+iconUrl: /training/achievements/get-started-using-common-data-service.svg
 levels:
 - beginner
 roles:

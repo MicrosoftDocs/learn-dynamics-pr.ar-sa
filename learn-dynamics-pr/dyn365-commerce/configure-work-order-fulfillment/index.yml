@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6a402d603fac4831fd56b89d025872d3faec9ac6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a1b99833b79dba4862fc9f91c78ae3e749c45f9c
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749286"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504254"
 title: التكوين والعمل مع تنفيذ الأوامر في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nفي الوقت الحالي، مع عمليات التجارة والنظام البيئي المتغير باستمرار، لا يعتبر السعر والمنتجات أهم العوامل لقرارات الشراء للعملاء. يهدف بائعو التجزئة إلى رحلة عميل تبرز من خلال المشاركة المخصصة والتفاعلات الخالية من الاحتكاكات والخبرات المتولدة عبر القناة متعددة الاتجاهات المتكاملة بشكل كامل.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف كيفية إعداد إدارة الأوامر الموزعة (DOM) ومعالجتها.\n- تعرف على تفاصيل القواعد وتكوين التكلفة والوساطة في الأوامر.\n- تعرف على تنفيذ أوامر المتجر وعمليات استلام أوامر العملاء.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف كيفية إعداد إدارة الأوامر الموزعة (DOM) ومعالجتها.\n- تعرف على تفاصيل القواعد وتكوين التكلفة والوساطة في الأوامر.\n- تعرف على تنفيذ أوامر المتجر وعمليات استلام أوامر العملاء.\n"
 prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 
   - فهم قنوات Commerce وقدراتها على تنفيذ الأوامر
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/configure-work-order-fulfillment-commerce.svg
+iconUrl: /training/achievements/configure-work-order-fulfillment-commerce.svg
 levels:
 - intermediate
 roles:

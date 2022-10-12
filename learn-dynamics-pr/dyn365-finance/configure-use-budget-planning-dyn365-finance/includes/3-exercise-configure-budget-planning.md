@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dfa2ff656ef50b9d7beeef1706faf0726cdbfac2
-ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+ms.openlocfilehash: cbb4a61c92370d5bce15737462303bd110eb8333
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "9150390"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537096"
 ---
 سيركز هذا التمرين بشكل خاص على العمليات أو مهام الأعمال التالية.
 
@@ -22,7 +22,7 @@ ms.locfileid: "9150390"
 
 ## <a name="prerequisites"></a>المتطلبات الأساسية
 
-لتحقيق أقصى استفادة من هذا التمرين، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Finance والتي تم تثبيتها باستخدام Lifecycle Services ‏(LCS)، وأن يتم توفيرها كمسؤول في المثيل. 
+لتحقيق أقصى استفادة من هذا التمرين، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Finance والتي تم تثبيتها باستخدام Lifecycle Services، وأن يتم توفيرها كمسؤول في المثيل. 
 
 لا تستخدم في وضع المستعرض الخاص لهذا التمرين ؛ قم بتسجيل الخروج من أي حساب آخر في المستعرض، إذا لزم الأمر، وقم بتسجيل الدخول باستخدام بيانات اعتماد مسؤول الشؤون المالية. عند تسجيل الدخول إلى Finance، يجب تحديد خانة الاختيار **ابقني مسجل الدخول**.
 

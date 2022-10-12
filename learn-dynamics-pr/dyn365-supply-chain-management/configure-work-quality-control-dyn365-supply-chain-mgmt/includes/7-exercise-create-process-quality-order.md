@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5782d900fb35c8aa3a5519f397b1f7c47ef298c4268a0223141436fb122a46b6
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 91accd24b64cac59d8d004757cc75deb9bb7556a
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7135304"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536300"
 ---
 بصفتك مدير الجودة في شركة **USMF**، تريد تمكين عملية إدارة الجودة حيث يجب فحص المخزون على الفور في وقت انتقاء منتج Surface pro.
 
@@ -12,7 +12,7 @@ ms.locfileid: "7135304"
 
 ## <a name="before-you-begin"></a>قبل البدء
 
-للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management والتي تم تثبيتها باستخدام Lifecycle Services‎‏ (LCS)‏‏‏‎.
+للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management والتي تم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="enable-quality-management"></a>تمكين إدارة الجودة 
 

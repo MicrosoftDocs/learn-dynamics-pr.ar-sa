@@ -8,12 +8,12 @@ metadata:
   ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: 99f20afc0b5c4162c7ced927a889a5879bd75563
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 1db7dd7f94c3c0866509b5c6c675021de2134dc5
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752583"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505595"
 title: تكوين التطبيقات في التمويل والعمليات
 prerequisites: >
   إما:
@@ -23,7 +23,7 @@ prerequisites: >
   - ما يعادل المعرفة على المستوى الميداني والإلمام بالوحدات النمطية
 summary: >
   وتُعد هذه الدورة التدريبية جسرًا بين الدورة التدريبية "أساسيات Dynamics 365" والدورة التدريبية الرئيسية "تطبيقات التمويل والعمليات في Dynamics 365".
-iconUrl: /learn/achievements/configure-dynamics-365-finance-operations-apps.svg
+iconUrl: /training/achievements/configure-dynamics-365-finance-operations-apps.svg
 levels:
 - beginner
 roles:

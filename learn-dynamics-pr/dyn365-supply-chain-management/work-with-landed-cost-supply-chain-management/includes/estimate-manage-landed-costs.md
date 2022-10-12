@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c855029777c64300009f79c236ab98a1771a499e
-ms.sourcegitcommit: 4bda725a9b4d6099817e52c732c2bd56d22f0970
+ms.openlocfilehash: 4864240de3a30b93036810685544989dfc6dff14
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "8396300"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9502938"
 ---
 تقدر Supply Chain Management التكلفة شاملة التفريغ بناءً على قواعد التكلفة التلقائية. في Supply Chain Management، يمكنك تحديد سيناريوهات أخرى لتقديم تقدير أكثر دقة ثم تخزين هذه السيناريوهات في النظام. نتيجة لذلك، يمكنك العودة لدراسة السيناريوهات لاحقاً ومقارنتها بالقيم الفعلية في التقرير. يمكنك أيضاً تغيير سعر أحد الأصناف.
 
@@ -21,7 +21,7 @@ ms.locfileid: "8396300"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لصفحة قوالب التكلفة والحقول المرتبطة بالقالب.](../media/cost-estimate-template.png)](../media/cost-estimate-template.png#lightbox)
 
-لمزيد من المعلومات، انتقل إلى [إعداد قيم معلمات تقدير التكاليف.](/learn/modules/set-up-landed-cost-supply-chain-management/8-costing-parameters/?azure-portal=true)
+لمزيد من المعلومات، انتقل إلى [إعداد قيم معلمات تقدير التكاليف.](/training/modules/set-up-landed-cost-supply-chain-management/8-costing-parameters/?azure-portal=true)
 
 ## <a name="create-a-cost-estimate"></a>إنشاء تقدير التكلفة
 
@@ -37,7 +37,7 @@ ms.locfileid: "8396300"
 
 1.  في مربع الحوار **إنشاء تقدير التكلفة شاملة التفريغ**، حدد **قالب التكلفة**، **تاريخ التقدير**، و **قالب الرحلة**. يمكنك أيضاً إضافة مزيد من التفاصيل حول أسعار صرف البند وعدد حاويات الشحن وحافظات الأوراق.
 
-1.  ثم حدد **موافق**. سيتم عرض صفحة **تقديرات التكلفة**.
+1.  حدد **موافق**. سيتم عرض صفحة **تقديرات التكلفة**.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لصفحة تقديرات التكلفة.](../media/cost-estimate.png)](../media/cost-estimate.png#lightbox)
@@ -46,7 +46,7 @@ ms.locfileid: "8396300"
 
 1.  حدد إصدار التكاليف ثم حدد خانة الاختيار **تحديث**.
 
-1.  ثم حدد **موافق**.
+1.  حدد **موافق**.
 
 ## <a name="manage-estimated-costs"></a>إدارة التكاليف المقدرة
 

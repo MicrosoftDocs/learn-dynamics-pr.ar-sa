@@ -3,17 +3,17 @@ uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations
 title: الملخص
 metadata:
   title: الملخص
-  description: راجع ما تعرفت عليه حول تطوير التعليمات البرمجية الموجهة للكائنات في تطبيقات Finance and Operations.
+  description: راجع ما تعلمته حول تطوير التعليمات البرمجية الموجهة للكائنات في تطبيقات التمويل والعمليات.
   ms.date: 06/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3bdc9c1f15771be9f009aa802eba46fd79d69353
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6de65706c5aad132c1cf6aa2ea09ce95ace44ad5
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351775"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575448"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

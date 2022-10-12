@@ -8,30 +8,30 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c2baa64b305c52e7c883f6e05a855e62c2222db1
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b5aaa8118afcf0d59796af0c04fd2e29e5d58d9a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346847"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579928"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
-  - content: أي مما يلي لا يحتوي على موصل مباشر لتطبيقات Finance and Operations؟
+  - content: أي مما يلي لا يحتوي على موصل مباشر لتطبيقات التمويل والعمليات؟
     choices:
     - content: Power Automate
       isCorrect: false
-      explanation: يحتوي Power Automate على موصلات مباشرة لتطبيقات Finance and Operations.
+      explanation: يحتوي Power Automate على موصلات مباشرة لتطبيقات التمويل والعمليات.
     - content: Azure Logic Apps
       isCorrect: false
-      explanation: تحتوي Azure Logic Apps على موصلات مباشرة لتطبيقات Finance and Operations.
+      explanation: تحتوي Azure Logic Apps على موصلات مباشرة لتطبيقات التمويل والعمليات.
     - content: Power BI
       isCorrect: true
-      explanation: للاتصال بتطبيقات Finance and Operations من Power BI، استخدم موصل OData.
+      explanation: للاتصال بتطبيقات التمويل والعمليات من Power BI، استخدم موصل OData.
     - content: Power Apps
       isCorrect: false
-      explanation: يمكن توصيل Power Apps مباشرة بتطبيقات Finance and Operations.
+      explanation: يمكن توصيل Power Apps مباشرة بتطبيقات التمويل والعمليات.
   - content: أي مما يلي لا يمكن تشغيله تلقائياً باستخدام Logic Apps؟
     choices:
     - content: إرسال إعلامات بالبريد الإلكتروني باستخدام Microsoft 365 عند وقوع أحداث في أنظمة وتطبيقات وخدمات مختلفة.
@@ -42,18 +42,18 @@ quiz:
       explanation: توفر Logic Apps موصلات إلى SFTP وFTP وAzure Storage.
     - content: يمكنك مراقبة التغريدات الخاصة بموضوع معين، وتحليل ‏‫التوجهات، وإنشاء تنبيهات أو مهام للأصناف التي تحتاج إلى المراجعة.
       isCorrect: false
-      explanation: تتوفر الموصلات لـ Twitter، ويتم إرسال تنبيات بالبريد الكتروني عبر Outlook، وتحليل النص، والعديد أنواع من المنطق.
-    - content: قم بتحديث الجداول في Power BI عند تغيير البيانات في تطبيقات Finance and Operations.
+      explanation: تتوفر الموصلات لـ Twitter، ويتم إرسال تنبيهات بالبريد الكتروني عبر Outlook، وتحليل النص، والعديد أنواع من المنطق.
+    - content: قم بتحديث الجداول في Power BI عند تغيير البيانات في تطبيقات التمويل والعمليات.
       isCorrect: true
       explanation: سيتم بالفعل تحديث جدول Power BI المتصل بدون مساعدة Logic Apps.
-  - content: أي مما يلي لست مطالباً بتسجيل خدمة لربطه بتطبيقات Finance and Operations؟
+  - content: أي مما يلي لست مطالباً بتسجيل خدمة لربطه بتطبيقات التمويل والعمليات؟
     choices:
     - content: Azure Active Directory
       isCorrect: false
-      explanation: يجب عليك تسجيل الخدمات مع Azure AD قبل توصيلها بتطبيقات Finance and Operations.
-    - content: تطبيقات Finance and Operations
+      explanation: يجب عليك تسجيل الخدمات مع Azure AD قبل توصيلها بتطبيقات التمويل والعمليات.
+    - content: تطبيقات التمويل والعمليات
       isCorrect: false
-      explanation: يُعد تسجيل الخدمة باستخدام تطبيقات Finance and Operations ضرورياً ليتم التعرف على الخدمة.
+      explanation: يُعد تسجيل الخدمة باستخدام تطبيقات التمويل والعمليات ضرورياً ليتم التعرف على الخدمة.
     - content: Lifecycle Services
       isCorrect: true
-      explanation: لا تحدد Lifecycle Services ما إذا كان بإمكان الخدمة الاتصال بتطبيقات Finance and Operations أم لا.
+      explanation: لا تحدد Lifecycle Services ما إذا كان بإمكان الخدمة الاتصال بتطبيقات التمويل والعمليات أم لا.

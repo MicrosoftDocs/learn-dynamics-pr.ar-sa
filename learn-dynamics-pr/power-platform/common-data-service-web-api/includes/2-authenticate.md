@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 156d8b02552a8e3a229f5a9c2ed9dc2283a964c2
-ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+ms.openlocfilehash: b0cb0d538edbd469c6b29424aed5e18fe7fed47a
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/24/2022
-ms.locfileid: "9046829"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584082"
 ---
 يقوم Microsoft Dataverse من Microsoft باستخدام OAuth 2.0 كمعيار مصادقة خاص به. يوفر OAuth 2.0 معياراً صناعياً لمصادقة تطبيقات العميل ومنحهم حق الوصول إلى أحد الموارد.
 
@@ -14,7 +14,7 @@ ms.locfileid: "9046829"
 
 **التخويل** هو عملية أو إجراء للتحقق مما إذا كان المستخدم المصادق عليه *مخولاً* بالوصول إلى الموارد التي يتم توفيرها. في الوقت الحالي، يكون تخويل Dataverse على مستوى مستأجر Azure AD، بينما يتم تفويض إدارة الأذونات التفصيلية للتطبيق بناءً على المستخدم المسجل الدخول حالياً. لذلك، لن تستخدم OAuth 2.0 للتحكم في الأمان على مستوى التطبيق، والذي يتم التعامل معه بدلاً من ذلك من خلال مركز مسؤولي Power Apps.
 
-إذا كنت تريد معرفة المزيد حول مفاهيم المصادقة والتخويل، فانتقل إلى قسم Azure Active Directory في Microsoft Docs: [أساسيات المصادقة](/azure/active-directory/develop/authentication-scenarios/?azure-portal=true).
+إذا كنت تريد معرفة المزيد حول مفاهيم المصادقة والتخويل، فراجع [أساسيات المصادقة](/azure/active-directory/develop/authentication-scenarios/?azure-portal=true).
 
 ## <a name="register-dataverse-apps-with-azure-ad"></a>تسجيل التطبيقات Dataverse باستخدام Azure AD
 
@@ -90,7 +90,7 @@ ms.locfileid: "9046829"
 
 التالي مقتطف من نموذج [التشغيل السريع المحسن](https://github.com/Microsoft/PowerApps-Samples/tree/master/cds/webapi/C%23/EnhancedQuickStart/?azure-portal=true) الذي يستخدم مكتبة المصادقة من Microsoft (‏MSAL). تطبق فئة OAuthMessageHandler التالية فئة مشتقة من [DelegatingHandler](/dotnet/api/system.net.http.delegatinghandler/?azure-portal=true) الذي سيتم تمريره إلى منشئ HttpClient. سيسمح لك هذا المعالج بتجاوز طريقة HttpClient.SendAsync، بحيث يتم تحديث الرمز المميز للوصول بواسطة مكالمات أسلوب AcquireToken\* مع كل طلب يرسله عميل Http.
 
-```odata
+```csharp
 
 class OAuthMessageHandler : DelegatingHandler
 
@@ -173,7 +173,7 @@ return base.SendAsync(request, cancellationToken);
 
 يمكنك بعد ذلك الحصول على طريقة مساعدة للحصول على مثيل HttpClient باستخدام المعالج:
 
-```odata
+```csharp
 static HttpClient GetHttpClient(string url, string clientId, string redirectUrl, string version = "v9.2")
 
 {
@@ -213,7 +213,7 @@ throw;
 
 وأخيراً، استخدام نسخة العميل لإجراء استدعاء لواجهة API للويب:
 
-```odata
+```csharp
 using (HttpClient client = GetHttpClient("https://yourenvname.api.crm.dynamics.com",
 
 "51f81489-12ee-4a9e-aaae-a2591f45987d", "http://localhost:8080"))

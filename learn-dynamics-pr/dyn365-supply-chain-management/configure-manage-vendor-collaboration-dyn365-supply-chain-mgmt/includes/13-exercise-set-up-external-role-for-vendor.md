@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 2653c312d0a6175adcb64dfb9599143743d142a24b13e105dd1276af46da26b7
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 540e4eab9ab523ec8b34ee19d190a131138786a5
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7139855"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536519"
 ---
 في هذا التدريب، ستقوم بإعداد دور خارجي لمورد لتعاون المورد.
 
 ## <a name="before-you-begin"></a>قبل البدء 
 
-لتحقيق الاستفادة القصوى من هذا التمرين، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).
+لتحقيق الاستفادة القصوى من هذا التمرين، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="to-create-the-external-role-follow-these-steps"></a>لإنشاء دور خارجي، اتبع الخطوات التالية.
 

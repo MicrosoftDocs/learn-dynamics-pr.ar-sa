@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 0ce649a69d9046fc8d3486256a7d628750541466
-ms.sourcegitcommit: 7e7463b82916b5b36a89d2c4f45e6f1bd95c1792
+ms.openlocfilehash: 1f7805a0554758b324cb1eb34cc4ecfde99edfbd
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "7945713"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574328"
 ---
 ## <a name="scenario"></a>السيناريو
 
-طالبت شركة Fleet Management مطور تطبيقات Finance and Operations بإنشاء دور جديد استنادً إلى منصب جديد يتم تعبئته ليشغله مدير Fleet Service Manager. يحتاج المدير إلى رسوم جمركية لإدارة السيارات والعملاء، بالإضافة إلى الرسوم الجمركية الأساسية المرتبطة بإدارة الأسطول.
+طالبت شركة Fleet Management مطور تطبيقات التمويل والعمليات بإنشاء دور جديد استنادً إلى منصب جديد يتم تعبئته ليشغله مدير Fleet Service Manager. يحتاج المدير إلى رسوم جمركية لإدارة السيارات والعملاء، بالإضافة إلى الرسوم الجمركية الأساسية المرتبطة بإدارة الأسطول.
 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد

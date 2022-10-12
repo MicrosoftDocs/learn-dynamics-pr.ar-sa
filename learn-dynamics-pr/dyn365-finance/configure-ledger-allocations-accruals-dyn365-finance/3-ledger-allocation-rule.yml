@@ -3,18 +3,18 @@ uid: learn-dynamics.configure-ledger-allocations-accruals-in-dynamics-365-financ
 title: تكوين قواعد توزيع دفتر الأستاذ
 metadata:
   title: تكوين قواعد توزيع دفتر الأستاذ
-  description: تعرف على كيفية تكوين قواعد توزيع دفتر الأستاذ في Dynamics 365 Finance
+  description: تعرف على كيفية تكوين قواعد توزيع دفتر الأستاذ في Dynamics 365 Finance.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/general-ledger/ledger-allocation-rules
-  ms.openlocfilehash: 2639451ba9f58c1c0f0a0c22db995917c4b5356c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/general-ledger/ledger-allocation-rules
+  ms.openlocfilehash: 4fd46c3c98893fd37b01553f2ee2b1de3b9f2cf2
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340391"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559545"
 durationInMinutes: 23
 content: >-
   [!include[](../includes/unit-banner.md)]

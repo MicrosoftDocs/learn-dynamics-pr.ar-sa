@@ -7,17 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d332f0d2cdbe52df4e16e82c5bf37a33d546b36e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 48714b5e3de2374701cda0c074dc7d4c00da2344
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749205"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504943"
 title: توزيع Resource Scheduling Optimization
 summary: "[!include[](../includes/module-banner.md)] \n\nتعرف على كيفية إعداد وتوزيع Resource Scheduling Optimization في هذه الوحدة النمطية. تشمل الموضوعات خيارات التكوين، وتحديد أهداف التحسين والنطاق بالإضافة إلى تحسين الجداول الزمنية.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد وتوزيع Resource Scheduling Optimization.\n- تعرف على خيارات التكوين وحدد أهداف التحسين والنطاقات والجداول الزمنية. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد وتوزيع Resource Scheduling Optimization.\n- تعرف على خيارات التكوين وحدد أهداف التحسين والنطاقات والجداول الزمنية. \n"
 prerequisites: بلا
-iconUrl: /learn/achievements/deploy-resource-scheduling-optimization.svg
+iconUrl: /training/achievements/deploy-resource-scheduling-optimization.svg
 levels:
 - intermediate
 roles:

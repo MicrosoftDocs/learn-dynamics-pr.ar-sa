@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eaa35edac763fff9a313fd9dfc067098262fae48
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 2a58987c3bf1fb5b49e553642fbac4cf81f00075
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7364262"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9512425"
 ---
 تقدم العديد من الشركات عدة طرق لدفع الفواتير المستحقة، مثل ما يلي:
 
@@ -34,7 +34,7 @@ ms.locfileid: "7364262"
 
 يمكن لكل بنك استخدام معيار مختلف لقبول بياناتك المالية بتنسيق معين، وهذا هو سبب أهمية إعداد التنسيقات بشكل صحيح.
 
-نوصيك باستخدام التقارير الإلكترونية في Finance بدلاً من تنسيقات الملفات لأن لديك العديد من القدرات. لمزيد من المعلومات حول إعداد التقارير الإلكترونية، راجع [تكوين التقارير الإلكترونية في Dynamics 365 Finance](/learn/modules/configure-electronic-reporting-finance-operations/?azure-portal=true).
+نوصيك باستخدام التقارير الإلكترونية في Finance بدلاً من تنسيقات الملفات لأن لديك العديد من القدرات. لمزيد من المعلومات حول إعداد التقارير الإلكترونية، راجع [تكوين التقارير الإلكترونية في Dynamics 365 Finance](/training/modules/configure-electronic-reporting-finance-operations/?azure-portal=true).
 
 يتم استخدام تنسيقات الملفات التالية في كل من الحسابات المدينة والحسابات الدائنة للتواصل مع البنوك إلكترونياً:
 

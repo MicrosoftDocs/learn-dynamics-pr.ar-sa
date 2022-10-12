@@ -7,20 +7,20 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 35d9e82aa39637cab0488bee3a61f6d127192f13
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e6d265dd3651318718e457795870d4ad12be5ef9
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748185"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514030"
 title: إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
   يتعلق البيع اليوم ببناء علاقات طويلة الأمد مع العملاء. يجب أن يراك العملاء كمستشار موثوق به يمكنهم الرجوع إليه عندما يحتاجون إلى التوجيه. يتعلق بناء العلاقات بمعرفة من هم عملاؤك وما يحتاجون إليه ومتى تتفاعل معهم. يعد Microsoft Social Engagement وLinkedIn Sales Navigator أمثلة على التطبيقات التي يمكنك دمجها مع Dynamics 365 لبناء هذه العلاقات.  بالإضافة إلى ذلك، فإن معرفة أي لعبة مبيعات يتم تنفيذها بناءً على مواقف محددة وفهم الصحة العامة لعلاقة العميل بمؤسستك يمكن أن يساعد في زيادة حجم وكمية المبيعات.
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشف أفضل الممارسات\n- العمل مع قواعد المبيعات\n- إدارة صحة العلاقة باستخدام Sales Insights\n- التعرف على ميزات Sales Navigator\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف أفضل الممارسات\n- العمل مع قواعد المبيعات\n- إدارة صحة العلاقة باستخدام Sales Insights\n- التعرف على ميزات Sales Navigator\n"
 prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضًا الإلمام بإنشاء الحالات وإدارتها أو إنشاء العملاء المتوقعين والفرص وإدارتها.
-iconUrl: /learn/achievements/manage-relationships-social-selling-d365-sales.svg
+iconUrl: /training/achievements/manage-relationships-social-selling-d365-sales.svg
 levels:
 - intermediate
 roles:

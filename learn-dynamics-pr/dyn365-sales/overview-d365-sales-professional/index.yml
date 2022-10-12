@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cfaef4cbcfbfb53244df1c0e3a20e44dbc62bf02
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2f892f814b478825612830b43b884b3fc3d0fd61
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748854"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517012"
 title: نظرة عامة على Dynamics 365 Sales Professional
 summary: "[!include[](../includes/module-banner.md)]\nما المقصود بـ Dynamics 365 Sales Professional وكيف يمكنني الشروع في العمل باستخدامه؟ ابدأ بالأساسيات. تعرف على كيف يساعدك Dynamics 365 Sales Professional في إدارة العملاء والعمل مع العملاء المتوقعين وإدارة المهام والمواعيد والبريد الإلكتروني والمكالمات الهاتفية. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعلُّم أساسيات Dynamics 365 Sales Professional\n- تعرف على الحسابات وجهات الاتصال\n- استكشف أنشطة مثل المكالمات الهاتفية والمواعيد والبريد الإلكتروني والمهام\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعلُّم أساسيات Dynamics 365 Sales Professional\n- تعرف على الحسابات وجهات الاتصال\n- استكشف أنشطة مثل المكالمات الهاتفية والمواعيد والبريد الإلكتروني والمهام\n"
 prerequisites: بلا
-iconUrl: /learn/achievements/overview-d365-sales-professional.svg
+iconUrl: /training/achievements/overview-d365-sales-professional.svg
 levels:
 - beginner
 roles:

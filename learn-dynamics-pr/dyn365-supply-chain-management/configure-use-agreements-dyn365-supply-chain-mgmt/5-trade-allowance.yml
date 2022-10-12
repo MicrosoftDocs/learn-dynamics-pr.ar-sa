@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/procurement/purchase-agreements
-  ms.openlocfilehash: 2bf39ab0b16682003677a142978a4db26dc76cf6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/supply-chain/procurement/purchase-agreements
+  ms.openlocfilehash: 7681e6a39a249f63e4910ca61c0493b69c543bd3
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340082"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559125"
 durationInMinutes: 12
 content: >-
   [!include[](../includes/unit-banner.md)]

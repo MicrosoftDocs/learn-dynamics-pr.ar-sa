@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: 2abe60a5ce3b4064b33a85e39ece324514fdb248f12d89f01676f47cc0a7bc41
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9fdf008048d2af386213a89be4eb403d9fef139a
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7069187"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581418"
 ---
-في حالة ترقية Dynamics AX2012 إلى تطبيقات Finance and Operations، تأكد من فهم سيناريوهات ومفاهيم تكامل Microsoft Dynamics 365المتوفرة. 
+إذا كنت تقوم بترقية Dynamics AX 2012 إلى تطبيقات التمويل والعمليات، تأكد من أنك تفهم سيناريوهات ومفاهيم تكامل Microsoft Dynamics المتاحة. 
 
-في هذه الوحدة النمطية، ستتعرف على الاختلافات الرئيسية مع مفاهيم وسيناريوهات التكامل من Dynamics AX2012 إلى تطبيقات Finance and Operations. بالإضافة إلى ذلك، ستراجع الأدوات والمفاهيم التي ستمكن مؤسستك من استخدام أدوات التكامل ووظائفه.
+في هذه الوحدة النمطية، ستتعرف على الاختلافات الرئيسية مع مفاهيم وسيناريوهات التكامل من Dynamics AX إلى تطبيقات التمويل والعمليات. بالإضافة إلى ذلك، ستراجع الأدوات والمفاهيم التي ستمكن مؤسستك من استخدام أدوات التكامل ووظائفه.

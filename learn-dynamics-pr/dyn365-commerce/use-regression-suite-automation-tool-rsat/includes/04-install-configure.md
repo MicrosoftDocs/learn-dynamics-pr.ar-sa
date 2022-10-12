@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: d58514fd4f8edba9aa2ae3b439a95991a2933b01
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: 0d09e226669a334e103e78e50e00406aa16a1018
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9300637"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582388"
 ---
-يمكنك تنزيل ملف حزمة Windows Installer‏ (MSI) لـ RSAT من [Regression Suite Automation Tool (RSAT لتطبيقات التمويل والعمليات)](https://www.microsoft.com/download/details.aspx?id=57357). انقر نقراً مزدوجاً فوق الملف MSI لتشغيله. بعد تثبيت RSAT، سيطالبك بمكتبات برنامج تشغيل مستعرض الويب وSelenium. إذا كانت المكتبات المطلوبة مفقودة، فسيقوم RSAT بتثبيتها لك تلقائياً.
+يمكنك تنزيل ملف حزمة Windows Installer‏ (MSI) لـ RSAT من [Regression Suite Automation Tool ‏(RSAT لتطبيقات التمويل والعمليات)](https://www.microsoft.com/download/details.aspx?id=57357). انقر نقراً مزدوجاً فوق الملف MSI لتشغيله. بعد تثبيت RSAT، سيطالبك بمكتبات برنامج تشغيل مستعرض الويب وSelenium. إذا كانت المكتبات المطلوبة مفقودة، فسيقوم RSAT بتثبيتها لك تلقائياً.
 
 يصف الإجراء التالي التكوين المطلوب لتشغيل حالات اختبار Store Commerce لتكوين RSAT.
 

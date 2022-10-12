@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 51d65f681c81ca59ad32dfa63b38a7486361dc56
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: d55716b959897fb5ce5b893bf78e30411fe0ee8d
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021524"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9511249"
 ---
 لإرسال طلب إلى خدمة Dynamics 365 Fraud Protection، تأكد من استدعاء نقطة النهاية الصحيحة على خدمة Dynamics 365 Fraud Protection لبيئة التكامل أو التشغيل، كما تقتضي الحاجة. يمكنك اختيار نقطة نهاية لاستخدامها من إعلام تغيير وSwagger API من خلال الانتقال إلى واجهة API‎ في [Dynamics 365 Fraud Protection](/fraud-protection-rest/api/fraud-protection-rest/).
 
@@ -53,7 +53,7 @@ ms.locfileid: "9021524"
 7.  عيّن قيمة **deviceContextId** في الحمولة إلى قيمة **session_id**، معرف جلسة العمل الفريد للجهاز الذي أنشأه التاجر أثناء عملية تطبيق بصمة الجهاز. لمزيد من المعلومات، راجع [إعداد بصمة الجهاز](/dynamics365/fraud-protection/device-fingerprinting/?azure-portal=true).
  
     > [!NOTE]
-    > إذا لم تكن قد طبقت بصمة الجهاز حتى الآن، فإن وحدة نمطية أخرى توفر لك فرصة إجراء ذلك. لمزيد من المعلومات، راجع [تطبيق بصمة الجهاز في Dynamics 365 Fraud Protection](/learn/modules/device-fingerprint-fraud-protection//?azure-portal=true). يمكنك متابعة الجزء المتبقي من هذه الوحدة النمطية لمعرفة كيفية الحصول على درجة من Dynamics 365 Fraud Protection عند إجراء استدعاء ناجح لواجهة API. يمكنك تخطي كتلة بصمة الجهاز تماماً في الوقت الحالي. (راجع الأسطر تحت التعليمات البرمجية التالية **"‏deviceContext":** في القسم **عينة حمولة حدث الشراء‬‏‫** لكتلة التعليمات البرمجية التي يجب تخطيها.) ومع ذلك، إذا توفرت لديك بيانات الجهاز، مثل عنوان IP، أضف **PurchaseId** باعتباره **deviceContextId**، ثم قدم المعلومات المتوفرة لديك لتلك الكتلة. 
+    > إذا لم تكن قد طبقت بصمة الجهاز حتى الآن، فإن وحدة نمطية أخرى توفر لك فرصة إجراء ذلك. لمزيد من المعلومات، راجع [تطبيق بصمة الجهاز في Dynamics 365 Fraud Protection](/training/modules/device-fingerprint-fraud-protection//?azure-portal=true). يمكنك متابعة الجزء المتبقي من هذه الوحدة النمطية لمعرفة كيفية الحصول على درجة من Dynamics 365 Fraud Protection عند إجراء استدعاء ناجح لواجهة API. يمكنك تخطي كتلة بصمة الجهاز تماماً في الوقت الحالي. (راجع الأسطر تحت التعليمات البرمجية التالية **"‏deviceContext":** في القسم **عينة حمولة حدث الشراء‬‏‫** لكتلة التعليمات البرمجية التي يجب تخطيها.) ومع ذلك، إذا توفرت لديك بيانات الجهاز، مثل عنوان IP، أضف **PurchaseId** باعتباره **deviceContextId**، ثم قدم المعلومات المتوفرة لديك لتلك الكتلة. 
 
 8.  تحقق من **حالة** و **نص** الاستجابة، ثم حدد **إرسال**. 
 

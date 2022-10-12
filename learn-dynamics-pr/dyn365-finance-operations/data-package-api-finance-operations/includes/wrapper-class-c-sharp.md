@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8633d3cf204f3c06d5796c070a387a1cb1ee0314
-ms.sourcegitcommit: c1e0c2e1de92b19183313a689ec3e6d97664ae20
+ms.openlocfilehash: 1dfdb0e9fc2ffb2aab64dc777bd2e6d2a5be64d1
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "8487861"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576398"
 ---
 لإنشاء فئة مجمعة، ستحتاج إلى استخدام بعض لغات البرمجة من .NET لاستهلاك خدمة ويب خارجية. يُمكن لتطبيقات التمويل والعمليات إنشاء مرجع لفئة التضمين والوصول إلى خدمة الويب الخارجية من خلال فئة التضمين.
 

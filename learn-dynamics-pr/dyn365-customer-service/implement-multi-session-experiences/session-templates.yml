@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.implement-multi-session-experiences.session-templates
+title: قوالب جلسات العمل
+metadata:
+  title: قوالب جلسات العمل
+  description: تعلم كيفية استخدام قوالب جلسات العمل.
+  ms.date: 09/22/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8da0e9f50c2846cb647fb17c4832897977d0e01b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582969"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/session-templates.md)]

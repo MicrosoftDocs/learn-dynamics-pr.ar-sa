@@ -3,17 +3,17 @@ uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations.3-cust
 title: إنشاء مصادر بيانات مخصصة وإدارتها
 metadata:
   title: إنشاء مصادر بيانات مخصصة وإدارتها
-  description: تعرف على كيفية إنشاء مصادر البيانات المخصصة وإدارتها لتطبيقات Finance and Operations.
+  description: تعرف على كيفية إنشاء مصادر البيانات المخصصة وإدارتها لتطبيقات التمويل والعمليات.
   ms.date: 04/29/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f87b9b2b2ca80fd54bd45f79f8f655c58e42fc73
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: bd7cfb79cdb7b5d135f8f39cdfc8002520d6b5b9
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340409"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574858"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

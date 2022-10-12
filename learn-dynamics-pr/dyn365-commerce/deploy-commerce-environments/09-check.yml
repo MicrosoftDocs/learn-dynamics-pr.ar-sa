@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 31024cb1c16303a71189155825af3ea0b18886b0
-  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+  ms.openlocfilehash: 796c5bc01ead6a270c490c2a7d7ffd98ceed77e3
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/15/2022
-  ms.locfileid: "9299866"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9538024"
 durationInMinutes: 8
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -44,7 +44,7 @@ quiz:
     choices:
     - content: Lifecycle Services
       isCorrect: false
-      explanation: تساعد Lifecycle Services (LCS) على تحسين القدرة على التنبؤ والجودة لعمليات التنفيذ من خلال تبسيط عمليات التنفيذ وتوحيد معاييرها. لن تتمكن من تنزيل أدوات تثبيت الوحدة الطرفية لـ Store Commerce من LCS.
+      explanation: تساعد Lifecycle Services على تحسين القدرة على التنبؤ والجودة لعمليات التنفيذ من خلال تبسيط عمليات التنفيذ وتوحيد معاييرها. لن تتمكن من تنزيل أدوات تثبيت الوحدة الطرفية لـ Store Commerce من Lifecycle Services.
     - content: التجارة الإلكترونية
       isCorrect: false
       explanation: التجارة الإلكترونية هي موقع على الإنترنت يسمح للعملاء بالشراء على أي جهاز.

@@ -3,17 +3,17 @@ uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.2-new-f
 title: إضافة نموذج جديد إلى مشروع وتطبيق نمط
 metadata:
   title: إضافة نموذج جديد إلى مشروع وتطبيق نمط
-  description: تعرف على كيفية إضافة نموذج جديد إلى مشروع وتطبيق نمط في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إضافة نموذج جديد إلى مشروع وتطبيق نمط في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0e46a860206a80991c09e5af0505310eccc1674a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 92315c17a181ceeb7d3ca2f8e7be16a02420216b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349260"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577698"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

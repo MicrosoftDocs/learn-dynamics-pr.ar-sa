@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.07-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: راجع ما تعلمته حول عمليات تنفيذ إدارة تطبيقات Finance and Operations باستخدام وحدة Lifecycle Services.
+  title: الملخص‬
+  description: راجع ما تعلمته حول عمليات تنفيذ إدارة تطبيقات التمويل والعمليات باستخدام وحدة Lifecycle Services.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6ad64c89cd53da38bac0fbf5c4407410b2b7cb50
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4a02a43e8b76b0fc09a77617740300a22a5df92e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361423"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577458"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

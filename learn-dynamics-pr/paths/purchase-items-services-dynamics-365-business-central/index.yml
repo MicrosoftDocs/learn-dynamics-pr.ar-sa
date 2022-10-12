@@ -9,16 +9,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: a4b139d2e1eec65d4d05b292c3e340ca6a1d7613
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 83169b6bd2097b414263a00290464af49eafc3e2
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751782"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511058"
 title: شراء الأصناف والخدمات في Microsoft Dynamics 365 Business Central
 summary: هل تحتاج إلى إنشاء مستندات شراء مثل أوامر الشراء وفواتير الشراء؟ يوضح لك "مسار التعليم" هذا كيفية إنشاء مستندات شراء ومعالجة أشياء مثل الخصومات وتكاليف الأصناف.
 prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central. \n- معرفة كيفية إعداد الأصناف والموردين\n"
-iconUrl: /learn/achievements/purchase-items-services-dynamics-365-business-central.svg
+iconUrl: /training/achievements/purchase-items-services-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

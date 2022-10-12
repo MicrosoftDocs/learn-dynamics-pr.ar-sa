@@ -3,17 +3,17 @@ uid: learn-dynamics.build-forms-optimize-dynamics-365-finance-operations.8-form-
 title: تحسين تحميل النماذج وأدائها
 metadata:
   title: تحسين تحميل النماذج وأدائها
-  description: التعرف على كيفية تحسين تحميل النماذج وأدائها في تطبيقات Finance and Operations.
+  description: تعرّف على كيفية تحسين تحميل النموذج والأداء في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 78b4c836239b4d8e2effb8fa60a93f847980b2d3
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a4b848da79206f484f41f96ec3060d2cbffa0728
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326538"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581898"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

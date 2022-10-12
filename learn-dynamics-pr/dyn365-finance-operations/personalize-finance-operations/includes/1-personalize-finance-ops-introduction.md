@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 73d7297942959b11d5dbe623eef10df24e4dcda26451b960e2dfbc7794a0ad9f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 515da0dd3f38908e73a3090988c2760c6cee26a3
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7141854"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579008"
 ---
-كل تخصيص تقوم به في تطبيقات Finance and Operations هو لك فقط، بغض النظر عن نوع التخصيص أو الشركة التي تتفاعل معها حالياً. التغييرات التي يقوم بها مستخدم واحد على الصفحة لا تؤثر على المستخدمين الآخرين في النظام.
+كل تخصيص تقوم به في تطبيقات التمويل والعمليات هو لك فقط، بغض النظر عن نوع التخصيص أو الشركة التي تتفاعل معها حالياً. التغييرات التي يقوم بها مستخدم واحد على الصفحة لا تؤثر على المستخدمين الآخرين في النظام.
 
 
 

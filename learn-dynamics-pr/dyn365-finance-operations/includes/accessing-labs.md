@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: eb01ede469dfa5f86f016a54954707cf182cd34e
-ms.sourcegitcommit: 7abba7cde8a343e247d5510e774950744942016c
+ms.openlocfilehash: 5551b354eab85f9fd505a50244590628bd8d7000
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/12/2022
-ms.locfileid: "9472657"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9573588"
 ---
 ## <a name="read-this-first---before-you-start-the-lab"></a>اقرأ هذا أولاً - قبل أن تبدء المعمل! 
 
@@ -18,7 +18,7 @@ ms.locfileid: "9472657"
     ![لقطة شاشة لكلمة مرور المسؤول.](../includes/admin-logon.png) 
 
 3. حدد **إدخال**. 
-4. سترى نافذة PowerShell وستظهر نافذة أوامر Windows. بعد مرور دقيقتين إلَى ثلاث دقائق، سيتم إغلاقها وسيفتح Microsoft Edge تلقائياً. انتظر حتى ينتقل إلَى صفحة **تسجيل الدخول** للتمويل والعمليات.  
+4. سترى نافذة PowerShell وستظهر نافذة أوامر Windows. بعد مرور دقيقتين إلَى ثلاث دقائق، سيتم إغلاقها وسيفتح Microsoft Edge تلقائيًا. انتظر حتى ينتقل إلَى صفحة **تسجيل الدخول** للتمويل والعمليات.  
 5. في صفحة **تسجيل الدخول** إلَى Microsoft فِي التمويل والعمليات، أدخل مؤشر الماوس فِي الحقل **اسم المستخدم**. 
 6. في علامة التبويب **الموارد** للشريط الجانبي للمعمل، أسفل عنوان **مدخل Azure**، حدد رمز **T** بجوار **اسم المستخدم**، ثم اضغط على **إدخال**. 
 

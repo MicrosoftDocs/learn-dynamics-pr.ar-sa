@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 6b5d75cd3c143055297bc28353e9f12d2c0baa2a
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 4cfbcf98fca55b2dc2824b375fc7a1918b336bc1
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7582727"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9507685"
 ---
 توفر الوظيفة الإضافية لمنع الفقدان لـ Microsoft Dynamics 365 Fraud Protection لبائعي التجزئة الاستفادة من المعرفة المتصلة من شبكة الاحتيال. تسمح لك بمكافحة الاحتيال المرتبط بالعائدات والخصومات غير الصحيحة وسوء التعامل مع البضائع ودوران المخزون باستخدام تقنية الذكاء الاصطناعي التكيفية والتعلم المستمر والتكيف مع أنماط الاحتيال المتطورة.
 
-قبل أن تبدأ هذه الوحدة، تأكد من توفير مثيل Dynamics 365 Fraud Protection. لمزيد من المعلومات، راجع [توفير Dynamics 365 Fraud Protection](/learn/modules/provision-fraud-protection/?azure-portal=true).
+قبل أن تبدأ هذه الوحدة، تأكد من توفير مثيل Dynamics 365 Fraud Protection. لمزيد من المعلومات، راجع [توفير Dynamics 365 Fraud Protection](/training/modules/provision-fraud-protection/?azure-portal=true).
 
 منع الفقدان لـ Dynamics 365 Fraud Protection هو حل مصمم للمساعدة في تحديد الخصومات وإرجاع الاحتيال. ينشأ هذا النوع من الاحتيال عادةً من الخصومات غير الصحيحة والعوائد غير الصحيحة التي يطبقها الموظفون في محطات نقاط البيع. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a93772458e5f2d890f35ec977463440d856c85c1
-ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+ms.openlocfilehash: 28912271cb74998671ad1beaff7c25df870e3a76
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "7690969"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9518351"
 ---
 تستند عمليات الانتقاء التي تم تناولها في هذه الوحدة النمطية إلى الإصدار الأبسط من عملية معالجة المستودعات.
 
@@ -134,10 +134,10 @@ ms.locfileid: "7690969"
 
 لمزيد من المعلومات حول الانتقاء وإدارة المستودعات، راجع الوحدات النمطية التالية:
 
--   [تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management](/learn/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management](/training/modules/configure-warehouse-management-dyn365-supply-chain-mgmt/?azure-portal=true)
 
--   [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/training/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)
 
--   [استخدام تقارير المخزون في Dynamics 365 Supply Chain Management](/learn/modules/use-inventory-reports-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [استخدام تقارير المخزون في Dynamics 365 Supply Chain Management](/training/modules/use-inventory-reports-dyn365-supply-chain-mgmt/?azure-portal=true)
 
--   [تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management](/learn/modules/configure-transportation-management-dyn365-supply-chain-mgmt/?azure-portal=true)
+-   [تكوين إدارة النقل والتعامل معها في Dynamics 365 Supply Chain Management](/training/modules/configure-transportation-management-dyn365-supply-chain-mgmt/?azure-portal=true)

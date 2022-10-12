@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f541809feeb44c0de5530da0b3e809cc5c50f0d0
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: e5d0691e73dc048bd0bb15e1105131263448840f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751006"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578068"
 title: إعداد الوظائف الدُفعية‬ في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nباستخدام الوظائف الدُفعية، يمكنك تجنب إبطاء جهاز الكمبيوتر أو الخادم أثناء ساعات العمل المعتادة. يمكنك تشغيل العديد من المهام في تطبيقات التمويل والعمليات كجزء من الوظائف الدُفعية. علي سبيل المثال، يمكن أن تتضمن الوظائف الدُفعية مهام تقارير الطباعة أو أداء الصيانة أو إرسال المستندات الإلكترونية.  \n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- ‏‫المعالجة الدُفعية‬\n- معالجة الدُفعة وخوادم الدُفعات\n- التخطيط لمخطط خادم الدُفعة \n- التخطيط لإدارة خادم الدُفعة \n- المعالجة الدُفعية للتقارير\n- نسخ وظيفة دفعية\n- تنشيط فترات الدُفعة\n- دور أمان مدير الوظيفة الدفعية\n- التشغيل من خلال الميزة\n- كيفية إلغاء تأمين دفتر يومية\n"
 prerequisites: المعرفة العامة بنظام Microsoft Windows، والقدرة على استخدام تطبيقات التمويل والعمليات للمعالجة الأساسية
-iconUrl: /learn/achievements/setup-batch-jobs-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/setup-batch-jobs-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

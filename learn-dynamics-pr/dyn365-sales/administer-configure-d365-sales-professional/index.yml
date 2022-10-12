@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 71c87d7675f0821297518b0020929ccf8dd289f3
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a0676a246b94818e3feb5c5f84af01aeb471cd32
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748047"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511179"
 title: إدارة Dynamics 365 Sales Professional وتكوينها
 summary: "[!include[](../includes/module-banner.md)]\nقم بالاتصال بـ SharePoint، واستورد البيانات، وأدر المستخدمين، واعمل مع الأنشطة الأخرى في Dynamics 365 Sales Professional. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- الاتصال بـ SharePoint\n- البحث في استيراد البيانات وتثبيت عينة البيانات\n- إدارة المستخدمين\n- إعداد البريد الإلكتروني\n- قوالب Word وقوالب Excel\n- تخصيص النماذج وطرق العرض\n- تعرف على كيفية قيام عمليات سير إجراءات العمل بتحسين الإنتاجية\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- الاتصال بـ SharePoint\n- البحث في استيراد البيانات وتثبيت عينة البيانات\n- إدارة المستخدمين\n- إعداد البريد الإلكتروني\n- قوالب Word وقوالب Excel\n- تخصيص النماذج وطرق العرض\n- تعرف على كيفية قيام عمليات سير إجراءات العمل بتحسين الإنتاجية\n"
 prerequisites: المعرفة الأساسية لعمليات المبيعات وإمكانات التنقل في Dynamics 365 Sales
-iconUrl: /learn/achievements/administer-configure-d365-sales-professional.svg
+iconUrl: /training/achievements/administer-configure-d365-sales-professional.svg
 levels:
 - intermediate
 roles:

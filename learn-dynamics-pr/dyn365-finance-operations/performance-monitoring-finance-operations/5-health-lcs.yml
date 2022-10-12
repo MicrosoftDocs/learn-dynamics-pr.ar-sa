@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.5-health-lcs
-title: مراقبة مقاييس سلامة الخادم في LCS
+title: مراقبة مقاييس صحة الخادم في Lifecycle Services
 metadata:
-  title: مراقبة مقاييس سلامة الخادم في LCS
-  description: تعرَّف على كيفية مراقبة مقاييس سلامة الخادم في LCS في تطبيقات Finance and Operations.
+  title: مراقبة مقاييس صحة الخادم في Lifecycle Services
+  description: تعرف على كيفية مراقبة مقاييس سلامة الخادم في Lifecycle Services في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 447f022643d569ace7f8ec774445633ef77cf291
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 359eaf872e1ae05b179d1e24b1d7bee3e065172c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347817"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575898"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

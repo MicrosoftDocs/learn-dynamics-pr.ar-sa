@@ -8,12 +8,12 @@ metadata:
   ms.author: jablak
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-cross-app
-  ms.openlocfilehash: e2ecf000ff46f9e2267293b1623a83b56bfb613e
-  ms.sourcegitcommit: 842505b41ee561acc87b6496b6040bd5851217f2
+  ms.openlocfilehash: 670ed45b795da0a46a837ac6be7633ef8913869c
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8756306"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509377"
 title: البدء بالتكوين وإضفاء الطابع الشخصي في تطبيقات التمويل والعمليات
 summary: في هذه الوحدة، تم تعريف المتعلمين بفكرة إضفاء الطابع الشخصي على بيئة تطبيقات التمويل والعمليات في Dynamics 365 لتناسب احتياجات أعمالهم. لقد تعلموا تسجيل الدخول وبعض المهام العامة المتعلقة بالبيئة.
 abstract: >
@@ -34,7 +34,7 @@ prerequisites: >
   -   فهم جيد لمتطلبات العملاء
 
   -   يوصى باستخدام أساسيات MB-901: Microsoft Dynamics 365
-iconUrl: /learn/achievements/introduce-configure-personalization-dynamics-365-finance-operations-apps.svg
+iconUrl: /training/achievements/introduce-configure-personalization-dynamics-365-finance-operations-apps.svg
 levels:
 - beginner
 roles:

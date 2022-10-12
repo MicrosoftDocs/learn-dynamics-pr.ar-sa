@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: 22a6a69a28c8341764ad70c7544ddec2fbb0564d
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: 798ea83e4f4cf7fddacffd2bd642263685c54cac
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9064318"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511040"
 title: توزيع العمل وتوجيهه في Dynamics 365 Customer Service
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -23,7 +23,7 @@ prerequisites: >
   - المعرفة الأساسية بـ Dynamics 365 Customer Service
 
   - الوصول إلى إصدار تجريبي أو إصدار مرخص من Dynamics 365
-iconUrl: /learn/achievements/unified-routing-distribute-work.svg
+iconUrl: /training/achievements/unified-routing-distribute-work.svg
 levels:
 - intermediate
 roles:

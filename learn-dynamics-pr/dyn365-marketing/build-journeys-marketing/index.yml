@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 971cba6df5e634a502214ff30a872ad91ee114e1
-  ms.sourcegitcommit: 2172d090a077fab7bc258f79a2585fd5079bca95
+  ms.openlocfilehash: 1e2e7238ef7512d60b16a7214d779c067bb03ce6
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2022
-  ms.locfileid: "9360088"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514680"
 title: تصميم الرحلات باستخدام Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nتغطي هذه الوحدة المقاطع والمشغلات والرحلات داخل منطقة العمل في الوقت الحقيقي في Dynamics 365 Marketing.\n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- إدارة المقاطع في التسويق في الوقت الحقيقي.\n- العمل مع المشغلات في التسويق في الوقت الحقيقي.\n- إنشاء رحلة في التسويق في الوقت الحقيقي.\n- تعيين هدف عمل وقياس مقدار التقدم خلال الرحلة.\n- تحديد وقت استخدام السمة مقابل فرعي إذا/ثم.\n- استخدام اختبار أ/ب ضمن رحلة العميل.\n- استخدام تحسين القناة خلال وقت التشغيل والمستند إلى الذكاء الاصطناعي.\n- راجع رفع المشغلات من رحلة لتشغيل رحلة أخرى أو تدفق Power Automate.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إدارة المقاطع في التسويق في الوقت الحقيقي.\n- العمل مع المشغلات في التسويق في الوقت الحقيقي.\n- إنشاء رحلة في التسويق في الوقت الحقيقي.\n- تعيين هدف عمل وقياس مقدار التقدم خلال الرحلة.\n- تحديد وقت استخدام السمة مقابل فرعي إذا/ثم.\n- استخدام اختبار أ/ب ضمن رحلة العميل.\n- استخدام تحسين القناة خلال وقت التشغيل والمستند إلى الذكاء الاصطناعي.\n- راجع رفع المشغلات من رحلة لتشغيل رحلة أخرى أو تدفق Power Automate.\n"
 prerequisites: الفهم الأساسي لتطبيق Microsoft Dynamics ‏365 Marketing
-iconUrl: /learn/achievements/build-journeys-marketing.svg
+iconUrl: /training/achievements/build-journeys-marketing.svg
 levels:
 - intermediate
 roles:

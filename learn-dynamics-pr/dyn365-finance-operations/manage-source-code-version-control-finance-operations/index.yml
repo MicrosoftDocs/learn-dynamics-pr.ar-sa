@@ -7,28 +7,28 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5cc1fcafe771f8b475d9a7c0ace45d6e207f2144
-  ms.sourcegitcommit: ebad633ef39fdb38c600e65df39ec2f74e09b867
+  ms.openlocfilehash: ca799968a427c4351d4da2bd176def974cbac376
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/29/2022
-  ms.locfileid: "9062834"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574488"
 title: إدارة التعليمات البرمجية المصدر باستخدام التحكم في الإصدار في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   عند التعاون مع مطورين آخرين، من الأهمية بمكان إدارة التعليمات البرمجية المصدر الخاصة بك باستخدام التحكم في الإصدار. بالنسبة لتطبيقات التمويل والعمليات، تتم إدارة التعليمات البرمجية المصدر باستخدام Azure DevOps في Visual Studio.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- ربط بيئة المطور الخاصة بك بمشروع Azure DevOps.\n- استخدام أفضل الممارسات للتحكم في الإصدار.\n- إدارة مراجعات التعليمات البرمجية وتنفيذها.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- ربط بيئة المطور الخاصة بك بمشروع Azure DevOps.\n- استخدام أفضل الممارسات للتحكم في الإصدار.\n- إدارة مراجعات التعليمات البرمجية وتنفيذها.\n"
 prerequisites: >
-  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+  - الفهم الأساسي لأنظمة تخطيط موارد المؤسسة
 
   - الفهم الأساسي لمفاهيم الترميز
 
   - المعرفة والقدرة على تطوير تطبيقات التمويل والعمليات
 
   - الفهم الأساسي لـ Visual Studio
-iconUrl: /learn/achievements/manage-source-code-using-version-control-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/manage-source-code-using-version-control-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

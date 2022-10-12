@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 83ba2f721b80dc8b3a663b20d5673647e35e864cfedf92b5ee5548fc891eb54b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: aeb51af4f39629cf5a95a22af55f71b9112a0723
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7047711"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536419"
 ---
 في هذا التدريب ستقوم بإنشاء واستخدام قالب إيصال.
 
 ## <a name="before-you-begin"></a>قبل البدء 
 
-للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance والتي يتم تثبيتها باستخدام Lifecycle services (LCS). 
+للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance والتي يتم تثبيتها باستخدام Lifecycle Services. 
 
 
 1.  انتقل إلى **دفتر الأستاذ العام > إدخالات دفتر اليومية > دفاتر اليومية العامة**. 

@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ceb60d1bf1bde816a320beb6a829af964096d5ae
-  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.openlocfilehash: 38f9b2cb109122910baa45ca9061ec2dd33407f4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2022
-  ms.locfileid: "9404245"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505643"
 title: اعداد المنتجات ذات الإصدارات فِي Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتعد بيانات المنتج جزءاً مهماً من أي شركة تستخدم عمليات Supply Chain Management. باستخدام إدارة التغيير الهندسي لـ Microsoft Dynamics 365 Supply Chain Management، يمكن للمصنعين استخدام إدارة قوية للبيانات والتحكم فِي الإصدار.\n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد المؤسسات الهندسية.\n- العمل مع تعيين إصدار المنتج.\n- إنشاء مجموعات أبعاد المنتجات باستخدام أبعاد الإصدار.\n- إنشاء حالات دورة حياة المنتج.\n- استخدام الفئات الهندسية.\n"
 prerequisites: >
   - المعرفة العامة بعمليات Supply Chain Management
 
   - الفهم العام لإدارة معلومات المنتجات
 
   - القدرة على استخدام Dynamics 365 Supply Chain Management للمعالجة الأساسية
-iconUrl: /learn/achievements/set-up-versioned-products-engineering-change-management.svg
+iconUrl: /training/achievements/set-up-versioned-products-engineering-change-management.svg
 levels:
 - intermediate
 roles:

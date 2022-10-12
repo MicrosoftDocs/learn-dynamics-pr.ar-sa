@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f1e05976a91fbdf103462c160eb938cd42d15f09
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3813302ed054969f8e6b4f0cc86df6801360dd5c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749744"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573858"
 title: الاختلافات الرئيسية بين Dynamics AX 2012 وتطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة للمتعلمين سحابة Microsoft Dynamics 365 وتراجع التغييرات الهيكلية والمكونات بين Dynamics AX 2012 وتطبيقات التمويل والعمليات. ومن خلال فهم هذه التغييرات، يمكنك اتخاذ قرارات أفضل لترقية حل Dynamics AX 2012 الخاص بك إلى Dynamics 365.  \n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- كيف تساعد Microsoft العملاء للقيام بالترقية.\n- The Microsoft Cloud.\n- الاختلافات الهيكلية والتشغيلية بين AX 2012 وتطبيقات التمويل والعمليات.\n"
@@ -20,7 +20,7 @@ prerequisites: >
   - معرفه Dynamics AX 2012
 
   - فهم تقنيات التطوير
-iconUrl: /learn/achievements/difference-ax2012-finance-operations.svg
+iconUrl: /training/achievements/difference-ax2012-finance-operations.svg
 levels:
 - intermediate
 roles:

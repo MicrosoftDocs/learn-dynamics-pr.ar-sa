@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: f955b1bec5f24bf55218d149fcf40b6c310d8ad0cfa2c440c7981c8264b32aa8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 309672d1799e94f0be2af335e26e3c3fac9d1302
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7109750"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582729"
 ---
-تقدم هذه الوحدة إمكانات أدوات إعداد التقارير المتنوعة في تطبيقات Finance and Operations ومتى تستخدمها. 
+تقدم هذه الوحدة إمكانات أدوات إعداد التقارير المتنوعة في تطبيقات التمويل والعمليات ومتى تستخدمها. 
 
 تجارب إعداد التقارير الخمسة هي:
 

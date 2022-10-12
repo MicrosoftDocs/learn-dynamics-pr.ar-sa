@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3fe988315e3f9abba999c0b11e68f68149767bab
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: d3727b4fea0554db80031a0247b35a2bd19bd3dc
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9299906"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575238"
 ---
 لإنشاء تسجيل باستخدام ميزة "مسجل الاختبارات"، تحتاج أولاً إلى تمكين التسجيل التجريبي في Store Commerce. لتشغيل وظيفة التسجيل التجريبي في Store Commerce، اتبع الخطوات التالية في Commerce:
 
@@ -38,7 +38,7 @@ ms.locfileid: "9299906"
 7.  بعد إنهاء جلسة التسجيل، يمكنك تحميل التسجيل عن طريق تحديد **حفظ إلى هذا الكمبيوتر**.
     ![لقطة شاشة لصفحة مسجل الاختبار تُظهر الخيار "حفظ إلى هذا الكمبيوتر".](../media/save-recording-ss.jpg)
 
-يتم حفظ ملف ‎.axtr في نظام الملفات المحلي. يجب تحميل هذا الملف يدوياً إلى LCS أو Azure DevOps ثم حذفه من نظام الملفات أو تأمينه.
+يتم حفظ ملف ‎.axtr في نظام الملفات المحلي. يجب تحميل هذا الملف يدوياً إلى Lifecycle Services ‏أو Azure DevOps ثم حذفه من نظام الملفات أو تأمينه.
 
 للتحميل إلى Azure DevOps مباشرةً:
 

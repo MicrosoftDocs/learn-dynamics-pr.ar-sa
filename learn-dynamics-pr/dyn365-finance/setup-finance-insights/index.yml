@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ba49b4fe9761bbec6a65a58acd97705d91124d61
-  ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+  ms.openlocfilehash: c4dcddaa7fafbe36ad8428700332bff065ca3e5c
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/05/2022
-  ms.locfileid: "8716087"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9537406"
 title: إعداد Finance Insights في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nيسمح إعداد Finance Insights لمؤسستك التنبؤ بمختلف جوانب Dynamics 365 Finance، مثل دفعات العميل والتدفقات النقدية ومقترحات الموازنة، باستخدام التعلم الآلي الذكي.\n"
-abstract: "في هذه الوحدة النمطية، ستقوم بما يلي:‬ \n- إعداد Finance Insights في Dynamics 365 Finance.\n- تعديل البيانات الخارجية التي سيتم استخدامها لإنشاء التنبؤ بالتدفقات النقدية.\n- معرفة كيفية إنشاء اتصال بين Finance وPower Apps.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:‬ \n- إعداد Finance Insights في Dynamics 365 Finance.\n- تعديل البيانات الخارجية التي سيتم استخدامها لإنشاء التنبؤ بالتدفقات النقدية.\n- معرفة كيفية إنشاء اتصال بين Finance وPower Apps.\n"
 prerequisites: >
-  - المعرفة العامة بـ Dynamics 365 Lifecycle Services
+  - المعرفة العامة بـ Dynamics Lifecycle Services
 
   - المعرفة العامة بإجراءات عمليات التحصيل والائتمان
 
   - المعرفة العامة بـ Azure Active Directory
-iconUrl: /learn/achievements/setup-finance-insights.svg
+iconUrl: /training/achievements/setup-finance-insights.svg
 levels:
 - intermediate
 roles:

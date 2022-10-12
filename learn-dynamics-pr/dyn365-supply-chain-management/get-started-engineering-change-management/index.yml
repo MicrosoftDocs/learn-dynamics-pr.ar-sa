@@ -8,20 +8,20 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 673fdbe225f334cf361148b744dbeb14f9f89ccd
-  ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+  ms.openlocfilehash: 97029114a5ad569eee21cca968e3289580948e77
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/02/2022
-  ms.locfileid: "9404089"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9506704"
 title: بدء استخدام إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتجلب إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management البنية والنظام إلَى عملية إدارة بيانات المنتج وتمكن من تحديد المنتجات وإصدارها ومراجعتها بطريقة خاضعة للرقابة تدعمها تدفقات العمل. تتيح إدارة التغيير الهندسي توثيق وتقييم تأثير وتطبيق التغييرات الهندسية طوال دورة حياة المنتج بالكامل.\n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- فهم الميزات فِي إدارة التغيير الهندسي.\n- تعرف على كيفية عمل عملية إدارة التغيير الهندسي من البداية حتى النهاية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم الميزات فِي إدارة التغيير الهندسي.\n- تعرف على كيفية عمل عملية إدارة التغيير الهندسي من البداية حتى النهاية.\n"
 prerequisites: >
   - معرفة عمليات Supply Chain Management
 
   - معرفه العمل باستخدام Dynamics 365 Supply Chain Management
-iconUrl: /learn/achievements/get-started-engineering-change-management.svg
+iconUrl: /training/achievements/get-started-engineering-change-management.svg
 levels:
 - intermediate
 roles:

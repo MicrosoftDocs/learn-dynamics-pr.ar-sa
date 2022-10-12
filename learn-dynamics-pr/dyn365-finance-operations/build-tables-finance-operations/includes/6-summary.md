@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: a10929f9de448cdf81bacb0611b5501296b5707048e4627f16e9874a28fa4f8b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 22b3b6f7cd705a7acc8f0bc70cc1cc374ec12bcc
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7125438"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577598"
 ---
-يتم استخدام الجداول عند تطوير النماذج في Visual Studio، وهي تظهر للمستخدم كصفحات في تطبيقات Finance and Operations. 
+يتم استخدام الجداول عند تطوير النماذج في Visual Studio، وهي تظهر للمستخدم كصفحات في تطبيقات التمويل والعمليات. 
 
 تحتوي الجداول على بيانات مثل معلومات الحركات وإدخالات دفتر اليومية والمنتجات وبيانات التعريف مثل إعدادات النظام.
 

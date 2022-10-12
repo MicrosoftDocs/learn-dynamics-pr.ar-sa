@@ -3,17 +3,17 @@ uid: learn-dynamics.design-plan-implementation-in-f-and-o.4-cloud-impl-design-an
 title: التطبيق السحابي - التصميم والتطوير
 metadata:
   title: التطبيق السحابي - التصميم والتطوير
-  description: تلخص هذه الوحدة خطوات التصميم والتطوير في عملية التطبيق السحابي لتطبيقات Finance and Operations.
+  description: تلخص هذه الوحدة خطوات التصميم والتطوير في عملية التطبيق السحابي لتطبيقات التمويل والعمليات.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: df246587283a9127c6972e4081fa460889513972
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4df13ea1f93bd60a9f384360f4419c0e11a603d3
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330180"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581298"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

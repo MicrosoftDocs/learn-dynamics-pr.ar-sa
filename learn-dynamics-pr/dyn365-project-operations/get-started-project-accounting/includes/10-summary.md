@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d4b003353af4db2848015236cdb75a8605b71266
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: db6da1e46840d27a5c2e764857ea042ee549009e
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7351612"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9515176"
 ---
 يقدم Project Operations حل عمل متصل مع القدرات المحاسبية للمشاريع للإدارة المالية في كل مرحلة من مراحل المشروع. وفي حين أن فريق المشروع يسجل الوقت والمصروفات والحركات الأخرى المرتبطة بالمشروع، يضمن محاسب المشروع أن يتم حساب هذه الحركات وتسجيلها بدقة في دفتر الأستاذ الفرعي للمشروع ودفتر الأستاذ العام.
 
@@ -13,4 +13,4 @@ ms.locfileid: "7351612"
 - القدرات المحاسبية للمشاريع في Project Operations.
 - استخدام الوقت والمواد وطرق فوترة الأسعار الثابتة لإقرار الإيرادات.
 
-للاطلاع على مزيد من المعلومات، راجع [الشروع في العمل باستخدام Dataverse](/learn/paths/get-started-cds/?azure-portal=true).
+للاطلاع على مزيد من المعلومات، راجع [الشروع في العمل باستخدام Dataverse](/training/paths/get-started-cds/?azure-portal=true).

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8c858aa71c5b1d5ed5c2c0fc6a0a7c3fc3e9e154
-ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+ms.openlocfilehash: 10ebf0d3ae6983cfa0ab2bcf9060cd890d4142a1
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "9178640"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577398"
 ---
 لإجراء اختبارات قبول المستخدم، ستحتاج إلى إنشاء خطة اختبار ومجموعة اختبارات في Azure DevOps. وسيسمح لك هذا بإجراء مجموعة منظمة من حالات الاختبار وإدارة النتائج والاستقصاء عنها وتعقبها بسهولة.
 
@@ -16,7 +16,7 @@ ms.locfileid: "9178640"
 
 4. أدخل اسماً للمجموعة.
 
-5. حدد **إضافة الحالي** وقم بالاستعلام عن العلامة **LCS: حالات الاختبار**.
+5. حدد **إضافة الحالي** وقم بالاستعلام عن العلامة **Lifecycle Services:Test Cases**.
 
 6. حدد **إجراء > إضافة حالات اختبار**.
 

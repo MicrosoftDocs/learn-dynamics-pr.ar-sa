@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0d3351b39b3b7be994e31992ec47f5bd6acb68b8
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 386fbf03181447369daaea5534f5694c3ff27220
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7325285"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9516271"
 ---
 تعتمد العمليات اللوجستية لبعض الشركات على كيانات قانونية أخرى داخل المؤسسة. ويتم التعامل مع مثل هذه العمليات باستخدام المبيعات والمشتريات بين الشركات الشقيقة لأن هذه الكيانات القانونية تحتوي على مخطط حسابات منفصل.
 
@@ -21,7 +21,7 @@ ms.locfileid: "7325285"
 
 عند إنشاء أمر مبيعات مشترك بين الشركات الشقيقة، يقوم Supply Chain Management تلقائياً بإنشاء أمر شراء مقابل. وبالمثل، يؤدي إنشاء أمر شراء مشترك بين الشركات الشقيقة إلى الإنشاء التلقائي لأمر مبيعات مشترك بين الشركات الشقيقة مقابل.
 
-لمعرفة المزيد من المعلومات بخصوص التجارة بين الشركات الشقيقة، راجع [تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management](/learn/modules/configure-use-intercompany-trade-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمعرفة المزيد من المعلومات بخصوص التجارة بين الشركات الشقيقة، راجع [تكوين التجارة بين الشركات الشقيقة واستخدامها في Dynamics 365 Supply Chain Management](/training/modules/configure-use-intercompany-trade-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 تقوم الخطط بين الشركات الشقيقة بتنفيذ ما يلي:
 
@@ -84,7 +84,7 @@ ms.locfileid: "7325285"
 
 7.  حدد علامة التبويب السريعة **تشغيل في الخلفية**.
 
-حدد خيارات الوظيفة الدفعية المناسبة. يعمل هذا التحديد على تشغيل التخطيط الرئيسي بين الشركات الشقيقة على خادم الدُفعة. لمعرفة المزيد من المعلومات حول معالجة الدُفعات، راجع [إعداد الوظائف الدفعية في تطبيقات Finance and Operations](/learn/modules/setup-batch-jobs-finance-operations/?azure-portal=true).
+حدد خيارات الوظيفة الدفعية المناسبة. يعمل هذا التحديد على تشغيل التخطيط الرئيسي بين الشركات الشقيقة على خادم الدُفعة. لمعرفة المزيد من المعلومات حول معالجة الدُفعات، راجع [إعداد وظائف الدفعات في تطبيقات التمويل والعمليات](/training/modules/setup-batch-jobs-finance-operations/?azure-portal=true).
 
 ## <a name="iterations-for-intercompany-master-planning"></a>تكرارات التخطيط الرئيسي بين الشركات الشقيقة
 

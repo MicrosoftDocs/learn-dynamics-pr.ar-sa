@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6fa3d38cc399e35ff2366dcef46a7a087405d4b5
-ms.sourcegitcommit: 5808c282bab7adb0afea850c2c8964b859502f8c
+ms.openlocfilehash: 846f518474eb4c90cd714674078cc415af5e30cc
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/06/2021
-ms.locfileid: "7893008"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9519731"
 ---
 يتم توفير الجدولة في Microsoft Dynamics 365 بواسطة Universal Resource Scheduling، وهي ميزة تُستخدم عبر Dynamics 365 Field Service، وCustomer Service وProject Operations لجدولة أوامر العمل وأنشطة الخدمة والمشاريع، على التوالي. توفر Universal Resource Scheduling معظم وظائف الجدولة التي ستختبرها في Field Service، مثل الموارد والخصائص وتفضيلات التنفيذ ووقت العمل والحجوزات ولوحات الجدولة. يمكنك استخدام Universal Resource Scheduling لجدولة السجلات لأي جدول ضمن Microsoft Dataverse.
 
@@ -270,7 +270,7 @@ ms.locfileid: "7893008"
 > [!IMPORTANT]
 > تحتاج إلى تحرير **البيانات التعريف لإعداد الحجز** وتعيين **تعطيل الإنشاء التلقائي لمتطلبات الحجز** إلى **نعم**; خلاف ذلك، سيكون لديك شرط مكرر عند حجز السجل الخاص بك.
 
-لمزيد من المعلومات، راجع [Universal Resource Scheduling في Microsoft Dynamics 365 for Field Service](/learn/paths/universal-resource-scheduling/?azure-portal=true) و[تمكين كيان للجدولة في Dynamics 365 Field Service](/dynamics365/field-service/schedule-new-entity?azure-portal=true).
+لمزيد من المعلومات، راجع [Universal Resource Scheduling في Microsoft Dynamics 365 for Field Service](/training/paths/universal-resource-scheduling/?azure-portal=true) و[تمكين كيان للجدولة في Dynamics 365 Field Service](/dynamics365/field-service/schedule-new-entity?azure-portal=true).
 
 ## <a name="booking-timestamps"></a>الطوابع الزمنية للحجز
 

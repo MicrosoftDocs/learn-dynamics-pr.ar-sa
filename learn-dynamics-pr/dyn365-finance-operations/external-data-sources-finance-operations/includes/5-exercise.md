@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 98939f36ac5f9b1e660cc9eca158dc71007306ea
-ms.sourcegitcommit: cb328bc84ba3aa30a4132fc88d056fe86a5c2076
+ms.openlocfilehash: 8c502aa289364db55175bf8e5cea6ce9908a2d56
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "7943313"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582638"
 ---
 ## <a name="scenario"></a>السيناريو
 
-باعتبارك مطور تطبيقات Finance and Operations، طلبت منك شركة Fleet Management إنشاء كيان بيانات لاستخدامه في عمليات تكامل البيانات.
+باعتبارك مطور تطبيقات التمويل والعمليات، طلبت منك شركة Fleet Management إنشاء كيان بيانات لاستخدامه في عمليات تكامل البيانات.
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1400d741278fe61c6870a3997416062a3bc265661ceb07d3c43be89abb8ffcba
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: f205b17d8d0ec9d9fc83bb09f8feddee6f0b27d5
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094282"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581235"
 ---
 عندما تحتاج إلى تغيير سلوك عنصر ما، فإنك تنشئ ملحقاً لذلك العنصر. تتطلب بعض العناصر كتابة تعليمات برمجية لتغيير سلوكها، مثل إضافة معالج الأحداث. في حالات أخرى، يمكنك إنشاء ملحق للفئة لتغيير تكوين العنصر.
 
@@ -43,7 +43,7 @@ public static void CustTable_onDeleted(Common sender, DataEventArgs e)
 {
 }
 ```
--   **`OnInserting` حدث** - يتم تشغيل هذا عند إدخال البيانات. علي سبيل المثال، يمكن أن يتم تشغيل هذا عند إضافة عميل جديد إلى تطبيقات Finance and Operations.
+-   **`OnInserting` حدث** - يتم تشغيل هذا عند إدخال البيانات. علي سبيل المثال، يمكن أن يتم تشغيل هذا عند إضافة عميل جديد إلى تطبيقات التمويل والعمليات.
 ```xpp
 /// <summary>
 ///

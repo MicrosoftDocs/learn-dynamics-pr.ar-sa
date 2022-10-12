@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 666a78dba33169d27c2c30e2aa3e3640db42a87b
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 242b0a7e6b5be9baa8d2c8b21a74149508c8fa02
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749474"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504194"
 title: تكوين العملات في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nفي السوق العالمي اليوم، تتلقى الشركات المدفوعات وترسلها باستخدام عملات مختلفة. يجب إدارة أسعار الصرف بشكل صحيح لتقليل الخسارة المالية عند قبول عملات متعددة. يمكن أن يساعدك فهم كيفية التنبؤ بمقدار الخسارة أو المكاسب الناتجة عن التغييرات في قيم أسعار الصرف على اتخاذ قرارات عمل ذكية للتعامل مع الخصومات والمدفوعات النقدية. \n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- أنواع مختلفة من العملات في Finance.\n- مفهوم عملة التحويل الثلاثي.\n- كيفية إعداد عمليات التحويل والعملات الخاصة بالكيان القانوني.\n- كيفية تكوين موفري أسعار الصرف.\n- كيفية استيراد أسعار الصرف من الموفرين.\n"
@@ -22,7 +22,7 @@ prerequisites: >
   - القدرة على استخدام Dynamics 365 Finance للمعالجة الأساسية.
 
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Finance.
-iconUrl: /learn/achievements/configure-currencies-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-currencies-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

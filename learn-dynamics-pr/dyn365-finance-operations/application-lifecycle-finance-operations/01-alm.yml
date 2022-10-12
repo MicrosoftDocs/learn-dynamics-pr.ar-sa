@@ -3,17 +3,17 @@ uid: learn-dynamics.application-lifecycle-dynamics-365-finance-operations.01-alm
 title: منهجيات إدارة دورة حياة التطبيقات (ALM)
 metadata:
   title: منهجيات إدارة دورة حياة التطبيقات (ALM)
-  description: تصف هذه الوحدة منهجيات إدارة دورة حياة التطبيقات (ALM) في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة منهجيات إدارة دورة حياة التطبيقات (ALM) في تطبيقات التمويل والعمليات.
   ms.date: 06/21/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 733fffa442ae41d2993b5a5f295a36bd65bba16d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 87a11cfd75ccb475b2fcb130514245985298810c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335937"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578398"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

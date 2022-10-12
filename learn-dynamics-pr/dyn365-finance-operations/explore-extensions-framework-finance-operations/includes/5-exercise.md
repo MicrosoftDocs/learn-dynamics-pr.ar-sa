@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: dedaa59ffc216a5b440b2d374c24187c775ecb02
-ms.sourcegitcommit: ec7a7829cee32ea154223a9e4281a09905e10caa
+ms.openlocfilehash: fcf9d5354017306e61473aae85c7c1313e5395ac
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "7827510"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582758"
 ---
 
 ## <a name="scenario"></a>السيناريو
 
-تطلب شركة Fleet Management من مطور تطبيقات Finance and Operations تغيير حقل إدخال رقمي في صفحة **العميل**. يقبل حقل **كود موقع الوكالة** 12 رقماً فقط، ويجب أن تكون الشركة قادرة على إدخال 14 رقماً. ونظراً لأن الشركة لا تحتاج إلى حقل جديد، فسينشئ المطور امتداداً لنوع `AgencyLocationCode` EDT في Visual Studio.
+تطلب شركة Fleet Management من مطور تطبيقات التمويل والعمليات تغيير حقل إدخال رقمي في صفحة **العميل**. يقبل حقل **كود موقع الوكالة** 12 رقماً فقط، ويجب أن تكون الشركة قادرة على إدخال 14 رقماً. ونظراً لأن الشركة لا تحتاج إلى حقل جديد، فسينشئ المطور امتداداً لنوع `AgencyLocationCode` EDT في Visual Studio.
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد
 1.  قم بتصغير نافذة Microsoft Edge. 

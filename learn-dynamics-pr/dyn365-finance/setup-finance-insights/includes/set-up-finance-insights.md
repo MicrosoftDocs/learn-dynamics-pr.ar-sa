@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f10c07f172e19d44fdb96a31e00c4b219c603a42
-ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+ms.openlocfilehash: 9055bcebeecbcde3257b44b62d5830430d98418d
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "8716141"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537724"
 ---
 تركز هذه الوحدة على استكشاف خطوات إعداد Finance Insights بنجاح. يجمع Finance Insights بطريقة ديناميكية وظائف من Dynamics 365 Finance بواسطة أدوات مثل Dataverse وAzure وAI Builder لتوفير أدوات تنبؤ فعالة. 
 
@@ -13,7 +13,7 @@ ms.locfileid: "8716141"
 لاستخدام Finance Insights، تأكد من إعداد المكونات التالية:
 
 1.  قم بإعداد Azure Active Directory (Azure AD) بحيث يمكن استخدامه مع Dataverse وتطبيقات Microsoft Power Platform:
-    - تأكد من أن دور **مالك المشروع** أو دور **مدير البيئة** في Dynamics 365 Lifecycle Services معين لك. يمكنك عرض هذا الإعداد في Lifecycle Services في **مستخدمو المشروع**.
+    - تأكد من أن دور **مالك المشروع** أو دور **مدير البيئة** في Dynamics Lifecycle Services معين لك. يمكنك عرض هذا الإعداد في Lifecycle Services في **مستخدمو المشروع**.
     - وتحتاج أيضاً إلى دور **مسؤول النظام** و **مخصص النظام** في مركز مسؤولي Microsoft Power Platform.
 2.  قم بإعداد **تكامل Power Platform** في Lifecycle Services. يمكنك تحديد ما إذا تم إعداد تكامل Power Platform في البيئة عن طريق مراجعة الصفحة **تكامل Power Platform**.
     
