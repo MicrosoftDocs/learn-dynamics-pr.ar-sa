@@ -9,12 +9,12 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: admin
-  ms.openlocfilehash: 967c68395b7f7d338de25beb08c729083a328450
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: cccc5bdfcd8471dbecafe7243b98bae29e812db9
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425055"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559375"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
@@ -50,15 +50,15 @@ quiz:
       explanation: تُستخدم أدوار الأمان لتقييد الوصول إلَى البيانات، وتقييد الوصول إلَى بيئة، وتقييد الإجراءات التي يمكن للمستخدمين تنفيذها على البيانات.
   - content: أي مما يلي ليس نوعاً من أنواع أدوار الأمان؟
     choices:
-    - content: المستخدم
+    - content: المستخدم الأساسي
       isCorrect: false
-      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة فِي Dataverse.
+      explanation: تعد أدوار أمان المستخدم الأساسي ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.
     - content: دور الأمان العمومي
       isCorrect: true
-      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة فِي Dataverse.
+      explanation: تعد أدوار أمان المستخدم الأساسي ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.
     - content: منشئ البيئة
       isCorrect: false
-      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة فِي Dataverse.
-    - content: التفويض
+      explanation: تعد أدوار أمان المستخدم الأساسي ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.
+    - content: تفويض
       isCorrect: false
-      explanation: تعد أدوار أمان المستخدم ومنشئ البيئة والمفوض خيارات صالحة فِي Dataverse.
+      explanation: تعد أدوار أمان المستخدم الأساسي ومنشئ البيئة والمفوض خيارات صالحة في Dataverse.

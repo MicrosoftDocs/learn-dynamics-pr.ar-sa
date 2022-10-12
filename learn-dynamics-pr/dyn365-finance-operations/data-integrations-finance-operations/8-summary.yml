@@ -2,18 +2,18 @@
 uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.8-summary
 title: الملخص
 metadata:
-  title: الملخص
-  description: راجع ما تعرفت عليه حول تكامل البيانات مع تطبيقات Finance and Operations.
+  title: الملخص‬
+  description: راجع ما تعلمته حول عمليات دمج البيانات باستخدام تطبيقات التمويل والعمليات.
   ms.date: 07/20/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1febdf1b239d43270a2ba8c7e15cd95c88955148
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6c4c4ff3e4d615bfd802cc75de47d50212c405dd
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362754"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577194"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

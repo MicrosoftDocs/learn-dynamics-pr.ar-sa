@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 40ee5fcb1cf44ae1ffda24d80e893b6a62e415aa
-ms.sourcegitcommit: 7fe0948c4dc50f715cc13b42becd8ecf855c9b6c
+ms.openlocfilehash: 07bedf44c574042906832eccdc60d094763bcc3e
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "8948787"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576288"
 ---
 يوضح الرسم التالي كيف تم إنشاء Microsoft Dynamics ‏365 المضمن في Microsoft Power Platform مع البيانات والذكاء المشترك.
 

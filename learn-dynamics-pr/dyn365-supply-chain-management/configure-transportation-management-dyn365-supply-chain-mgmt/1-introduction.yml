@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/transportation/transportation-management-overview
-  ms.openlocfilehash: 179ec45e551fd6d201bcfd12525597679a693556
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/supply-chain/transportation/transportation-management-overview
+  ms.openlocfilehash: be5a4bff36f93b8414b787799ee15524845e5545
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329885"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559585"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

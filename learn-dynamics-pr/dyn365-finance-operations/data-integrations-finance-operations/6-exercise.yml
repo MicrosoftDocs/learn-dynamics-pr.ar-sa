@@ -3,17 +3,17 @@ uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.6-exercise
 title: تدريب-إنشاء مشروع بيانات ووظيفة بيانات متكررة
 metadata:
   title: تدريب-إنشاء مشروع بيانات ووظيفة بيانات متكررة
-  description: تدرب على إنشاء مشروع بيانات ووظيفة بيانات متكررة في تطبيقات Finance and Operations.
+  description: تدرب على إنشاء مشروع بيانات ووظيفة بيانات متكررة في تطبيقات التمويل والعمليات.
   ms.date: 07/20/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0d7fc43e937a8f01e1b37bd258752388c0a12812
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a3decebaa2386550629145512df2992099c54730
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362037"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575598"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

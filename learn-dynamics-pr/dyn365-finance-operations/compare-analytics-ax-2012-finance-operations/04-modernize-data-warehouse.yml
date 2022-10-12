@@ -3,16 +3,16 @@ uid: learn-dynamics.compare-analytics-ax-2012-finance-operations.04-modernize-da
 title: تحديث مستودع البيانات
 metadata:
   title: تحديث مستودع البيانات
-  description: تعرف على كيفية تحديث مستودع البيانات عند الترقية إلى تطبيقات Finance and Operations.
+  description: تعرف على كيفية تحديث مستودع البيانات عند الترقية إلى تطبيقات التمويل والعمليات.
   ms.date: 03/09/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 395635663f1352e0eac409f2f2a85720ed5be8a7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a3b4a2d52039138d8b7b7063b40bba8286126805
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362778"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579328"
 durationInMinutes: 7
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/04-modernize-data-warehouse.md)]"

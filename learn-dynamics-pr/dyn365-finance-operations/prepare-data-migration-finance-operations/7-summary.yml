@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.7-prepare-data-migration-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: ملخص لبيانات الإعداد للترحيل إلى الوحدة النمطية لتطبيقات Finance and Operations
+  title: الملخص‬
+  description: ملخص عن إعداد البيانات للترحيل إلى وحدة تطبيقات التمويل والعمليات
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 365d86760731d1a83caf3755d961b597b534cd6f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 589d0a1cb6c763250e1a42a28f5337c980c89138
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7332087"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574598"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

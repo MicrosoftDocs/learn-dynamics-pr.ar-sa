@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 2a7536528b853c250ce31e93e2e96fa076325a59
-ms.sourcegitcommit: ff754a1100e6f6918ac8857395d22fa96a3dc612
+ms.openlocfilehash: fe487a10d22d0a3d6e3a46f1f5553fe4d90aaff0
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "7917503"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578268"
 ---
 ## <a name="scenario"></a>السيناريو
 
-طُلب من مطور تطبيقات Finance and Operations إنشاء نموذج جديد لشركة Fleet Management. وترغب الشركة في عمل صفحة بسيطة لإدخال معلومات العميل. يريدون أن يسحب النموذج الحقول من عنصر `CustTable`.
+طُلب من مطور تطبيقات التمويل والعمليات إنشاء نموذج جديد لشركة إدارة الأسطول. وترغب الشركة في عمل صفحة بسيطة لإدخال معلومات العميل. يريدون أن يسحب النموذج الحقول من عنصر `CustTable`.
 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد 

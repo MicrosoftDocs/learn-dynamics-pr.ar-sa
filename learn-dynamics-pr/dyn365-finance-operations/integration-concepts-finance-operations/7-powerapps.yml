@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.7-powerapps
-title: تكامل تطبيقات Finance and Operations مع التطبيقات الخارجية باستخدام Power Apps
+title: دمج تطبيقات التمويل والعمليات مع التطبيقات الخارجية باستخدام Power Apps
 metadata:
-  title: تكامل تطبيقات Finance and Operations مع التطبيقات الخارجية باستخدام Power Apps
-  description: تعرّف على كيفية تكامل تطبيقات Finance and Operations مع التطبيقات الخارجية باستخدام Power Apps.
+  title: دمج تطبيقات التمويل والعمليات مع التطبيقات الخارجية باستخدام Power Apps
+  description: تعرف على كيفية دمج تطبيقات التمويل والعمليات مع التطبيقات الخارجية باستخدام Power Apps.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 47a00ad7922c1154cb71e4efea968031ddcda37d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5860d4d2b4d72c1d30d5f915a3af856d102084e0
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7342563"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576758"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

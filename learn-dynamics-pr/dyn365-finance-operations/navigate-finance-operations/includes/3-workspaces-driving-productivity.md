@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 65e2e7de19770319e1d6ecec609912def94a0db5d7c0abee15628d1e32de11e2
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cac05d2b37bcd3a6024c5abe55c8292540cdc0e9
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058931"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579868"
 ---
 مساحة العمل هي محطة واحدة لأنشطة محددة. فيما يلي بعض الطرق التي يمكن أن تساعد بها مساحة العمل في زيادة الإنتاجية:
 
@@ -17,7 +17,7 @@ ms.locfileid: "7058931"
 - **التنقل حسب البيانات** - قضاء وقت أقل في التصفية للعثور على النتائج
 - **الوصول المباشر إلى المهام** - يمكن تنفيذ المهام مباشرة من مساحة العمل.
 
-شاهد هذا الفيديو لمعرفة كيفية استخدام ميزات المبيعات والتسويق باستخدام مساحة العمل في تطبيقات Finance and Operations.
+شاهد هذا الفيديو لمعرفة كيفية استخدام ميزات المبيعات والتسويق باستخدام مساحة العمل في تطبيقات التمويل والعمليات.
  
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE450W7]
 

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 8abb296cf994c6589d9aa9dae2b0363d3bb30e10242516e508a11a4789322e3c
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 90f7836473fc143ada3c6d5b1dc6a31d65a0423e
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120282"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537526"
 ---
-يتم عرض أدوات أداء SQL في LCS من خلال الصفحة **مراقبة البيئة** في علامة التبويب **رؤى SQL**. ضمن علامة التبويب هذه، يمكنك عرض **مقاييس الأداء**، و **تحليل الفهرس**، و **العرض المباشر**، و **الاستعلامات**، و **الإجراءات** لبيئة معينة.
+يتم عرض أدوات أداء SQL في Lifecycle Services من خلال الصفحة **مراقبة البيئة** في علامة التبويب **رؤى SQL**. ضمن علامة التبويب هذه، يمكنك عرض **مقاييس الأداء**، و **تحليل الفهرس**، و **العرض المباشر**، و **الاستعلامات**، و **الإجراءات** لبيئة معينة.
 
 ![لقطة شاشة لصفحة مراقبة البيئة ](../media/performance.png)
 

@@ -3,17 +3,17 @@ uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.4-per
 title: مراقبة الأداء باستخدام رؤي SQL
 metadata:
   title: مراقبة الأداء باستخدام رؤي SQL
-  description: تعرّف على كيفية مراقبة الأداء باستخدام رؤي SQL في تطبيقات Finance and Operations.
+  description: تعرّف على كيفية مراقبة الأداء باستخدام رؤي SQL في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6cc1745be2e9c8c784d59b812c100a6676bf1442
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e5103525ae14d5a8daa4dd9bb1d73a67444f0b0c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327640"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575908"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]
