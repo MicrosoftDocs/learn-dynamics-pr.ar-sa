@@ -3,17 +3,17 @@ uid: learn-dynamics.create-classes-dynamics-365-finance-operations.3-code
 title: إضافة الرمز والأساليب لتلبية متطلبات الأعمال
 metadata:
   title: إضافة الرمز والأساليب لتلبية متطلبات الأعمال
-  description: تعرف على كيفية إضافة الرمز والأساليب لتلبية متطلبات الأعمال في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إضافة التعليمات البرمجية والأساليب لتلبية متطلبات العمل في تطبيقات التمويل والعمليات.
   ms.date: 11/09/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c151815ce075391a21f79ffc98fa352adb738cbe
-  ms.sourcegitcommit: a607ee21bfbd3152f9260f0500782eb33d50f53f
+  ms.openlocfilehash: ff7f1f6864eed5083166cfd8a1d6abd0eaf3d77a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/09/2021
-  ms.locfileid: "7778809"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582308"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

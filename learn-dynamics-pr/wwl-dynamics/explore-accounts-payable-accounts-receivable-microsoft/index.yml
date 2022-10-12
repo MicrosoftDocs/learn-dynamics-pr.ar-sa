@@ -1,20 +1,20 @@
 ### YamlMime:Module
 uid: learn.wwl.explore-accounts-payable-accounts-receivable-microsoft-dynamics-365-finance
 metadata:
-  title: استكشف حسابات المدفوعات وحسابات المقبوضات فِي Dynamics 365 Finance
-  description: استكشف حسابات المدفوعات وحسابات المقبوضات فِي Dynamics 365 Finance
+  title: استكشف حسابات المدفوعات والحسابات المدينة فِي Dynamics 365 Finance
+  description: استكشف حسابات المدفوعات والحسابات المدينة فِي Dynamics 365 Finance
   ms.date: 08/08/2022
   author: wwlpublish
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: aeedefb6313b4865581654de2f5ba31e08d6e691
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: a30c2d191a0173a91f23edd7426158e1c938c08f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9368313"
-title: استكشف حسابات المدفوعات وحسابات المقبوضات فِي Dynamics 365 Finance
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509437"
+title: استكشف حسابات المدفوعات والحسابات المدينة فِي Dynamics 365 Finance
 summary: تستكشف هذه الوحدة النمطية إمكانات Microsoft Dynamics 365 Finance لإدارة العمليات المحاسبية التي ينطوي عليها الدفع للموردين أو الموزعين مقابل الخدمات المستلمة وتلقي المدفوعات مقابل البضائع أو الخدمات المقدمة.
 abstract: >
   بعد إكمال هذه الوحدة، ستتمكن من القيام بما يلي:
@@ -23,12 +23,12 @@ abstract: >
 
   *   صف مدفوعات الموردين والتسويات، بما فِي ذلك مفاهيم المطابقة الثلاثية.
 
-  *   وصف مكونات حسابات المقبوضات الأساسية، بما فِي ذلك العملاء وفواتير العملاء والفواتير ذات النص الحر.
+  *   وصف مكونات الحسابات المدينة الأساسية، بما فِي ذلك العملاء وفواتير العملاء والفواتير ذات النص الحر.
 
   *   وصف عمليات الرصيد والمجموعة.
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
-iconUrl: /learn/achievements/dynamics-finance-payable-accounts-receivable.svg
+iconUrl: /training/achievements/dynamics-finance-payable-accounts-receivable.svg
 levels:
 - beginner
 roles:

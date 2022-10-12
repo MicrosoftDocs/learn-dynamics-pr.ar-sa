@@ -3,17 +3,17 @@ uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365
 title: تطوير برامج Windows PowerShell النصية
 metadata:
   title: تطوير برامج Windows PowerShell النصية
-  description: تعرف على كيفية تطوير برامج Windows PowerShell النصية في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تطوير برامج Windows PowerShell النصية في تطبيقات التمويل والعمليات.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8eeeda94844c81952ba0a1ef00fd7879d01f2140
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6ebad95a40e12582912b0970aa9ce008eaf62dbf
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362079"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577728"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

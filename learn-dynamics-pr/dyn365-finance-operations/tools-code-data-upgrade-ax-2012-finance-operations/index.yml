@@ -7,26 +7,26 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1fdd9cc11a38b05cd2bbaed7127451fef4c24891
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 581d7de7d9155e9934c633185d3bf563a41edb1c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749528"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579478"
 title: أدوات ترقية البيانات والتعليمات البرمجية من Dynamics AX 2012 إلى تطبيقات التمويل والعمليات
-summary: "[!include[](../includes/module-banner.md)] \nتدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات التمويل والعمليات. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics 365 Lifecycle Services لمساعدتك خلال العملية. \n"
+summary: "[!include[](../includes/module-banner.md)] \nتدعم Microsoft الترقيات من Dynamics AX 2012 R2 وR3 إلى تطبيقات التمويل والعمليات. تكون جميع أدوات الترقية متاحة بشكل عام. تتوفر منهجية ترقية Microsoft Dynamics Lifecycle Services لمساعدتك خلال العملية. \n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- تقدير مهام الترقية وتحليلها.\n- قم بإجراء تحليل الملاءمة والفجوات، وقم بإنشاء خطة مشروع.\n- قم بإعداد قاعدة بيانات Dynamics AX 2012 للترقية.\n- قم بترقية التعليمات البرمجية والبيانات إلى تطبيقات التمويل والعمليات.\n- تحقق من صحة الترقية، وقم بإجراء اختبار وظيفي واختبار مرحلي. \n"
 prerequisites: >
   - معرفه Dynamics AX 2012
 
-  -   معرفة تطبيقات التمويل والعمليات
+  -   المعرفة بتطبيقات التمويل والعمليات
 
   - فهم تقنيات التطوير
 
   - معرفة Lifecycle Services
 
   - فهم SQL Server
-iconUrl: /learn/achievements/tools-code-data-upgrade-ax-2012-finance-operations.svg
+iconUrl: /training/achievements/tools-code-data-upgrade-ax-2012-finance-operations.svg
 levels:
 - intermediate
 roles:

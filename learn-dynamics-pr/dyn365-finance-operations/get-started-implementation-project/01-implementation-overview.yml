@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-implementation-project.01-implementation-overvie
 title: نظرة عامة على مشروع التنفيذ
 metadata:
   title: نظرة عامة على مشروع التنفيذ
-  description: تقدم هذه الوحدة نظرة عامة على مشروع تنفيذ Finance and Operations.
+  description: تستعرض هذه الوحدة نظرة عامة على مشروع تنفيذ تطبيقات التمويل والعمليات.
   ms.date: 07/27/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a5707bf718e2bf3e07a74c662531aed77997e8a8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1db798111d4c78ec16ce45e9ec2bd795fc37bc86
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351727"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576118"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/01-implementation-overview.md)]"

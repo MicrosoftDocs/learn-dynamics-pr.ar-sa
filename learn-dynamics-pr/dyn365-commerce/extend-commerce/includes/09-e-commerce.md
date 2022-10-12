@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 92568edba9b6281d1c6b061ffcb908521cffd60001192f06b9c338fc32a74104
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b3582fd106e0082304415346aac06ea44ee5ce92
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7126885"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537416"
 ---
 يوفر النظام الأساسي Commerce حزمة SDK غنية عبر الإنترنت لمنح المطور القابلية للتوسعة. ويوفر أيضاً مكتبة وحدات. 
 
@@ -49,7 +49,7 @@ ms.locfileid: "7126885"
 
 ## <a name="package-and-deploy"></a>الحزمة والتوزيع
 
-عندما تكون تكوينات موقعك المحلي (الوحدات وإجراءات البيانات والسمات) جاهزة للتوزيع في بيئتك عبر الإنترنت، ستقوم بحزمها وتوزيعها باستخدام Dynamics 365 Lifecycle Services.
+عندما تكون تكوينات موقعك المحلي (الوحدات وإجراءات البيانات والسمات) جاهزة للتوزيع في بيئتك عبر الإنترنت، ستقوم بحزمها وتوزيعها باستخدام Dynamics Lifecycle Services.
 
 شاهد مقطع الفيديو التالي للتعرف على كيفية حزم التكوينات وتوزيعها في بيئة التجارة الإلكترونية.
 

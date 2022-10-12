@@ -9,17 +9,17 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 633eb4c2eff3bff466d8e9365eacddd498063f93
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 55389f7080846986f2dd3958fb201247f9a79369
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9362924"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504627"
 title: تحميل/تصدير البيانات وإنشاء طرق عرض البيانات في Dataverse
 summary: "[!include[](../includes/module-banner.md)]\n\nيتيح لك Dataverse تحميل البيانات أو تصدير جداول من جداول أخرى باستخدام Microsoft Excel. يمكنك أيضاً إنشاء طرق عرض لمراجعة البيانات المخزنة في الجدول بسرعة.  \n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي:\n- عرض البيانات الموجودة في جدول.\n- إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها.\n- تحميل البيانات في جدول.\n- تصدير البيانات من جدول.\n- إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها.\n- استيراد البيانات باستخدام Power Query الموجود في مدخل الصانع \n- إنشاء تدفق بيانات جديد من أحد قوالب Excel \n- تعرف على تدفقات البيانات وتكامل Azure‬‏‫\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- عرض البيانات الموجودة في جدول.\n- إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها.\n- تحميل البيانات في جدول.\n- تصدير البيانات من جدول.\n- إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها.\n- استيراد البيانات باستخدام Power Query الموجود في مدخل الصانع \n- إنشاء تدفق بيانات جديد من أحد قوالب Excel \n- تعرف على تدفقات البيانات وتكامل Azure‬‏‫\n"
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
-iconUrl: /learn/achievements/load-export-data-create-data-views.svg
+iconUrl: /training/achievements/load-export-data-create-data-views.svg
 levels:
 - beginner
 roles:

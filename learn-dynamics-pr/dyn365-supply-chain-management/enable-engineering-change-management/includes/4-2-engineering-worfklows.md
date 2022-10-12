@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dfa9b98b306cc4029dda8ef6fe9a5e83dc6c8c84
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: 2165dd4837b7678d77f8a119b407b5ba9875a70a
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9405074"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9519171"
 ---
 يتم دعم إدارة التغيير الهندسي بشكل كامل من خلال مهام سير العمل المصممة خصيصاً لطلبات أوامر التغيير ومراجعات طلبات التغيير. يمكنك العثور على مهام سير العمل هذه بالانتقال إلَى **إدارة التغيير الهندسي > الإعداد > مهام سير العمل الهندسية**.
 
@@ -16,7 +16,7 @@ ms.locfileid: "9405074"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لنوعي سير العمل وعناصر سير العمل المتوفرة لكل منهما.](../media/workflow-options.png)](../media/workflow-options.png#lightbox)
 
-لمزيد من المعلومات، راجع [التعامل مع عمليات سير العمل فِي تطبيقات التمويل والعمليات](/learn/modules/create-use-workflows-finance-operations/?azure-portal=true).
+لمزيد من المعلومات، راجع [التعامل مع عمليات سير العمل فِي تطبيقات التمويل والعمليات](/training/modules/create-use-workflows-finance-operations/?azure-portal=true).
 
 ## <a name="workflow-approvers"></a>الموافقون عَلى سير العمل
 

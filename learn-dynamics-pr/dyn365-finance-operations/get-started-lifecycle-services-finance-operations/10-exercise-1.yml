@@ -3,17 +3,17 @@ uid: learn-dynamics.get-started-with-lcs.10-exercise-use-task-recorder-to-create
 title: تمرين - استخدام مسجل المهام لإنشاء تسجيل وتحريره
 metadata:
   title: تمرين - استخدام مسجل المهام لإنشاء تسجيل وتحريره
-  description: تدرب على استخدام مسجل المهام لإنشاء تسجيل وتحريره في تطبيقات Finance and Operations.
+  description: تدرب على استخدام مسجل المهام لإنشاء تسجيل وتحريره في تطبيقات التمويل والعمليات.
   ms.date: 05/25/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1b66a6f36e45b91841e35fc5994f58965438ae1e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 312e4cb2c368bf37871cadda430152182616b985
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365887"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578708"
 durationInMinutes: 19
 content: >-
   [!include[](../includes/unit-banner.md)]

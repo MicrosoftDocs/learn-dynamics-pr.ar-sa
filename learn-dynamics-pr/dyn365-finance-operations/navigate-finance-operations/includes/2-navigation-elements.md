@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 8715a85345e8c0567af75f7c0cc1ffd6ddd5863bd62518384aa8257d0c27abae
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 893e59aea93da73cb1eb183434a281462a89772b
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058952"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577448"
 ---
-لوحة المعلومات هي الصفحة الأولى التي ستشاهدها في تطبيقات Finance and Operations. تحتوي على إطارات متجانبة تظهر معلومات مختلفة. يمكنك العودة إلى لوحة المعلومات في أي وقت عن طريق النقر فوق تطبيقات Finance and Operations على شريط التنقل أعلى الإطار.
+لوحة المعلومات هي الصفحة الأولى التي ستشاهدها في تطبيقات التمويل والعمليات. تحتوي على إطارات متجانبة تظهر معلومات مختلفة. يمكنك العودة إلى لوحة المعلومات في أي وقت عن طريق النقر فوق تطبيقات التمويل والعمليات على شريط التنقل أعلى الإطار.
 
 [![لقطة شاشة للوحة المعلومات الرئيسية لتطبيقات Finance and Operation.](../media/main-dashboard-1.png)](../media/main-dashboard-1.png#lightbox)
 

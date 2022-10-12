@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 11d3d669cb09d545da9dadb6915be49e12289cdb
-ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+ms.openlocfilehash: 12bfcc7068bb2936a8854dcda3ec816265753963
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "7944510"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9573748"
 ---
 
 تريد استيراد مكتبة عمليات أعمال عالمية إلى مشروع Lifecycle Services الخاص بك وتعديل المكتبة لتقديم عمليات جديدة للطلب النقدي، والشراء للدفع، والبيانات المالية الأساسية. للقيام بذلك، يجب عليك:
@@ -21,7 +21,7 @@ ms.locfileid: "7944510"
     > [!NOTE]
     >  اعتماداً على نوع مشروع Lifecycle Services، يمكن الوصول إلى قائمة **أداة تكوين عمليات الأعمال** إما من قسم الأدوات (مخصص للشريك) أو من أيقونة القائمة. 
 4.  حدد **عرض هذه الصفحة في تجربة BPM المحدثة**.
-5.  حدد علامة القطع (...) لمكتبة **تطبيقات APQC Unified Library for Microsoft Finance and Operations (الخاصة بشهر مارس 2018) (لكل الصناعات)** وتحديد نسخ. 
+5.  حدد علامة القطع (...) لمكتبة **تطبيقات APQC Unified Library لتطبيقات التمويل والعمليات من Microsoft (الخاصة بشهر مارس 2018) (لكل الصناعات)** وتحديد نسخ. 
 6.  قم بإعادة تسمية المكتبة، ثم اختر **إنشاء**. 
 7.  ستكون مكتبة BPM الخاصة بك متاحة في قسم **مكتبات المشروع** وجاهزة للاستخدام في مشروع Lifecycle Services الخاص بك. 
 8.  حدد مكتبتك الجديدة. 

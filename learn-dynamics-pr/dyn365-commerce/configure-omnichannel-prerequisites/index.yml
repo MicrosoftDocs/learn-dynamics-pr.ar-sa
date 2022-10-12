@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7fb40bf9dce17668e6db838e0b931e3a63159d22
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9694e3f8aa3302d8a71b76226ba50708739914cf
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750737"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519791"
 title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nقبل إنشاء قنوات Dynamics 365 Commerce واستخدامها، يجب إكمال العديد من المتطلبات الأساسية. يتيح تكوين تلك المتطلبات الأساسية الحركات الناجحة في قنوات التجارة. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على متطلبات التكوين العامة الأساسية لقنوات Dynamics 365 Commerce وكيفية تكوينها. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على متطلبات التكوين العامة الأساسية لقنوات Dynamics 365 Commerce وكيفية تكوينها. \n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce
 
   - فهم عام لعمليات البيع بالتجزئة الأساسية
-iconUrl: /learn/achievements/configure-omni-channel-prerequisites-commerce.svg
+iconUrl: /training/achievements/configure-omni-channel-prerequisites-commerce.svg
 levels:
 - intermediate
 roles:

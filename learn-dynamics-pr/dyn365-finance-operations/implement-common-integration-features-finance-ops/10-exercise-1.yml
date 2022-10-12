@@ -4,16 +4,16 @@ title: معمل - التعامل مع تكامل Microsoft Office
 labId: 64196
 metadata:
   title: معمل - التعامل مع تكامل Microsoft Office
-  description: تدرّب على التعامل مع تكامل Microsoft Office في Finance and Operations.
+  description: ممارسة العمل مع التكامل Microsoft Office في التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b4e22219faa657589c2545379e2518669acbc4b7
-  ms.sourcegitcommit: 7012baa785a0c86835c7573ddfa53017aa5aed63
+  ms.openlocfilehash: 3385666b5865a20eff9f858aefc450f4e77d8d19
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/30/2021
-  ms.locfileid: "7868016"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576818"
 durationInMinutes: 30
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/10-exercise-work-office-integration.md)] \n[!include[](../includes/standalone-lab-end.md)]"

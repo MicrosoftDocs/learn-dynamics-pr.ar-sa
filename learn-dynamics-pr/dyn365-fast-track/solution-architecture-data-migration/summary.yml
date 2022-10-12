@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.solution-architecture-data-migration.summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: ملخص لمفاهيم ترحيل البيانات لتطبيقات التمويل والعمليات.
+  title: الملخص‬
+  description: ملخص عن مفاهيم ترحيل البيانات لتطبيقات التمويل والعمليات.
   ms.date: 04/18/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bdb746eb740d74f287f6cd18714c993f6c9e7933
-  ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+  ms.openlocfilehash: ec78dbaa7e27871a945b73063b0bd7f249a3a222
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/21/2022
-  ms.locfileid: "8629509"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580718"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

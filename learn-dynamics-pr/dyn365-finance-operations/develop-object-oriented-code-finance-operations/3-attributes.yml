@@ -3,17 +3,17 @@ uid: learn-dynamics.develop-object-oriented-code-dynamics-365-finance-operations
 title: استخدام السمات
 metadata:
   title: استخدام السمات
-  description: تعرف على كيفية استخدام السمات في تطبيقات Finance and Operations.
+  description: تعرف على كيفية استخدام السمات في تطبيقات التمويل والعمليات.
   ms.date: 06/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 43c74450d716e6203767574cb6a0adb2122b259a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7ad210ce1b4e53676e6aa7791cbe056e33d2eca2
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362724"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576278"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

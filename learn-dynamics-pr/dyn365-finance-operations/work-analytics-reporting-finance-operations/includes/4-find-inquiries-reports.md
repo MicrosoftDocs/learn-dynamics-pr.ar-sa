@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 0d3ea9f7ec9074fa2151c25ca099dd10dba5f3b2c55068852d943efc8706b220
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3c432abdf8f0b4ad6f3a01ef437d2e8e4b69444c
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099708"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577948"
 ---
-تتضمن تطبيقات Finance and Operations مئات التقارير والاستعلامات الجاهزة.
+تتضمن تطبيقات التمويل والعمليات مئات التقارير والاستعلامات الجاهزة.
 
-تحتوي معظم الوحدات النمطية في تطبيقات Finance and Operations على مجموعة عناصر القائمة التي تسمى **الاستعلامات والتقارير**.  
+تحتوي معظم الوحدات النمطية في تطبيقات التمويل والعمليات على مجموعة عناصر القائمة التي تسمى **الاستعلامات والتقارير**.  
 
 تعد لقطة الشاشة التالية مثالاً على عنصر قائمة **دفتر الأستاذ العام > الاستعلامات والتقارير**.
 

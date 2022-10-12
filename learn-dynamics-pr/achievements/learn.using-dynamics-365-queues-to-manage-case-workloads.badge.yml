@@ -2,10 +2,10 @@
 achievementUid: learn.using-dynamics-365-queues-to-manage-case-workloads.badge
 metadata:
   title: 'Microsoft Badge: استخدم قوائم انتظار Microsoft Dynamics 365 Customer Service لإدارة أحمال عمل الحالة التي تم إصدارها من خلال Microsoft'
-  ms.openlocfilehash: 73984c546805f465a4c7455467053a071f90b7b1
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: b0aebe79a3c61d4003619d1cc162a95cc9e74be4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772329"
-socialImageUrl: /learn/achievements/managing-customer-service-workloads-using-queues-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518062"
+socialImageUrl: /training/achievements/managing-customer-service-workloads-using-queues-social.png

@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 178edb36b3ddb5c9ca1edc9059caf4bf16203858
-  ms.sourcegitcommit: f87c83829cf35c570193747a73a4172bcce5a6f0
+  ms.openlocfilehash: 460d86afe9f0e114855e202ac8168f5626c74697
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/07/2022
-  ms.locfileid: "9126131"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520182"
 title: إنشاء حدث ندوة الإنترنت في Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nهل تحتاج إلى إنشاء ندوات الإنترنت؟ تشرح هذه الوحدة النمطية عملية إنشاء حدث ندوة الإنترنت داخل Dynamics 365 Marketing.\n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- قم بتكوين إعدادات ندوة الإنترنت لـ On24 وموفري ندوات الإنترنت الآخرين التابعين لجهات خارجية.\n- قم بإنشاء حدث ندوة الإنترنت باستخدام On24 أو موفري ندوات الإنترنت الآخرين التابعين لجهات خارجية.\n- إنشاء حدث ندوة الإنترنت باستخدام Microsoft Teams.\n- إنشاء نموذج التسجيل لحدث افتراضي.\n"
 prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Marketing
-iconUrl: /learn/achievements/create-webinar-event-dynamics-365-marketing.svg
+iconUrl: /training/achievements/create-webinar-event-dynamics-365-marketing.svg
 levels:
 - intermediate
 roles:

@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops.7-personalization-toolb
 title: شريط أدوات إضفاء الطابع الشخصي
 metadata:
   title: شريط أدوات إضفاء الطابع الشخصي
-  description: تصف هذه الوحدة شريط أدوات إضفاء الطابع الشخصي في Dynamics 365 لتطبيقات Finance and Operations.
+  description: تصف هذه الوحدة شريط أدوات إضفاء الطابع الشخصي في Dynamics 365 لتطبيقات التمويل والعمليات.
   ms.date: 11/17/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c0d2d4ebe531bd06ab2ae2df821cffc5ff416b1b
-  ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
+  ms.openlocfilehash: 9e74720a42223277a5d0e57453f24cb303bd6d50
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 11/17/2021
-  ms.locfileid: "7818380"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581698"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

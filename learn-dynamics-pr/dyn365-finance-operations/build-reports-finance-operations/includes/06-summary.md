@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: dba2a2028ac119fa748204c7e3c0bee77e6dd5e7b411ae52d41792c055bb86b8
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 030d0501a9b96b7bcb3bfad1a56758cb2686fcf1
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094523"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574108"
 ---
-تُعد SSRS وPower BI وExcel أدوات فعالة توفر لمطوري تطبيقات Finance and Operations ومستخدمي الطاقة القدرة على تصميم التقارير وإنشائها وتعديلها استناداً إلى متطلبات التقرير.
+تُعد SSRS و Power BI وExcel أدوات فعالة توفر لمطوري تطبيقات التمويل والعمليات ومستخدمي الطاقة القدرة على تصميم التقارير وإنشائها وتعديلها استناداً إلى متطلبات التقرير.
 
-وفي هذه الوحدة النمطية، تعرفت على كيفية إنشاء تقارير SSRS وتقارير Power BI وتقارير Excel وتعديلها باستخدام بيانات تطبيقات Finance and Operations.
+وفي هذه الوحدة، تعرفت على كيفية إنشاء تقارير SSRS، وتقارير Power BI، وتقارير Excel وتعديلها باستخدام بيانات تطبيقات التمويل والعمليات. 

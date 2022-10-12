@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 07a3c300360ef72284507dcdb531214b9dd83d87e5f220222fc0d7b41bbb7c1b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0838e744c9a01de72336620fb3668d39726d6de7
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7125410"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579208"
 ---
-تُمكّنك وظيفة تعقب التغييرات من تصدير البيانات بشكل متزايد من تطبيقات Finance and Operations باستخدام Data Management Framework.
+تُمكّنك وظيفة تعقب التغييرات من تصدير البيانات بشكل متزايد من تطبيقات التمويل والعمليات باستخدام Data Management Framework.
 للقيام بذلك، يجب عليك أولاً تمكين تعقب التغييرات للكيانات. إذا لم يتم تمكين تعقب التغييرات، يمكنك فقط تمكين تصدير كامل في كل مرة. 
 
 يدعم تعقب التغييرات كلاً من سيناريوهات إحضار قاعدة بياناتك الخاصة وسيناريوهات عدم إحضار قاعدة بياناتك الخاصة (non-BYOD). ويسمح BYOD بتعقب الحذف إذا كان الكيان يدعمه.

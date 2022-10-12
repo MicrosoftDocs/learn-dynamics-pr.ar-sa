@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: 9fd3d16dd8d82e320814feb568594c8aede9f757
-ms.sourcegitcommit: ec7a7829cee32ea154223a9e4281a09905e10caa
+ms.openlocfilehash: e10db9cc28128eb6dc82d98bede2ba29a207ab7b
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "7827494"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576168"
 ---
 
 ## <a name="scenario"></a>السيناريو
 
-طلبت شركة Fleet Management من مطور تطبيقات Finance and Operations تعديل المظهر والوظيفة لصفحة **العملاء** في الوحدة النمطية **إدارة الأسطول**. لتسريع العمليات الداخلية، تريد الشركة إضافة علامة تبويب إلى جزء الإجراءات مع زر يرتبط بالصفحة حتى يتمكنوا من إدخال فاتورة ذات نص حر. 
+طلبت شركة Fleet Management من مطور تطبيقات التمويل والعمليات تعديل المظهر والوظيفة لصفحة **العملاء** في الوحدة النمطية **إدارة الأسطول**. لتسريع العمليات الداخلية، تريد الشركة إضافة علامة تبويب إلى جزء الإجراءات مع زر يرتبط بالصفحة حتى يتمكنوا من إدخال فاتورة ذات نص حر. 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد
 

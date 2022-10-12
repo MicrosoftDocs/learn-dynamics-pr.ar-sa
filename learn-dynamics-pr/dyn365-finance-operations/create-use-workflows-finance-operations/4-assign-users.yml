@@ -3,17 +3,17 @@ uid: learn-dynamics.create-use-workflows-in-dynamics-365-finance-ops.4-assign-us
 title: تعيين مستخدمين لعناصر سير العمل
 metadata:
   title: تعيين مستخدمين لعناصر سير العمل
-  description: تعرف على كيفية تعيين المستخدمين لعناصر سير العمل في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تعيين المستخدمين لعناصر سير العمل في تطبيقات التمويل والعمليات.
   ms.date: 07/18/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ced7f282e6b0a6977106e2895e64733d6b5dcc6d
-  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+  ms.openlocfilehash: a3858258864fa425a0a5f2436d929771a990591e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/19/2022
-  ms.locfileid: "9174042"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581358"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: a17ceb6e0e328ecbe8a42822ec8a55061fa447905d50e10ee15b46c92e3d260f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 200c0d2ac6bb57a50c95848bbd3c65db2792c86a
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7113907"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536279"
 ---
 ## <a name="before-you-begin"></a>قبل البدء 
-للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services (LCS).
+للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Supply Chain Management والتي يتم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="scenario"></a>السيناريو 
 
@@ -47,7 +47,7 @@ ms.locfileid: "7113907"
 
 ## <a name="create-a-scheduled-kanban-rule"></a>إنشاء قاعدة كانبان مجدولة
 
-1.  انتقل إلى **إدارة معلومات المنتج > Lean manufacturing > قواعد كانبان**.
+1.  انتقل إلى **إدارة معلومات المنتجات > Lean manufacturing > قواعد كانبان**.
 
 2.  حدد **جديد‎**.
 

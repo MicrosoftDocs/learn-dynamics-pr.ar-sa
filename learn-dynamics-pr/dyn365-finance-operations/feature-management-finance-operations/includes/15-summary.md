@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: 4eeadba402064d1f1627b57385772670e5d1afff
-ms.sourcegitcommit: b2dc716b8876a7b7b24357c7530eab57517a8348
+ms.openlocfilehash: debb015004ac04ec11dbcc93b7fc4fa716c66265
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "7964162"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9573788"
 ---
-قدمت هذه الوحدة نظرة عامة حول كيفية العمل مع مساحة العمل **إدارة الميزات** في تطبيقات المالية والعمليات.
+قدمت هذه الوحدة نظرة عامة حول كيفية العمل مع مساحة العمل **إدارة الميزات** في تطبيقات التمويل والعمليات.
 
 للحصول على مزيد من المعلومات، راجع قسم **الأسئلة الشائعة (FAQ)** في [نظرة عامة على إدارة الميزات](/dynamics365/fin-ops-core/fin-ops/get-started/feature-management/feature-management-overview?azure-portal=true).

@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-extensions-framework-dynamics-365-finance-operations
 title: وحدات التخصيص
 metadata:
   title: وحدات التخصيص
-  description: تعرف على نماذج التخصيص في إطار عمل التوسيع في تطبيقات Finance and Operations.
+  description: تعرف على نماذج التخصيص في إطار عمل الامتداد في تطبيقات التمويل والعمليات.
   ms.date: 04/22/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: df0428ce0a08d0a9c610cb934a8c310369304683
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9c015164c007299e2a16ac549dba75a245193f17
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7354701"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578838"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

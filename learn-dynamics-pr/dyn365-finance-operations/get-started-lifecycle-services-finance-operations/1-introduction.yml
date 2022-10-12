@@ -3,17 +3,17 @@ uid: learn-dynamics.get-started-with-lcs.1-get-started-with-lcs-introduction
 title: مقدمة
 metadata:
   title: مقدمة إلى Lifecycle Services
-  description: مقدمة إلى Lifecycle Services لتطبيقات Finance and Operations
+  description: مقدمة إلى Lifecycle Services لتطبيقات التمويل والعمليات
   ms.date: 05/25/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 177d367fad64ed7232864ecb5f07bfae5e86bce7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6a8933934880bbd7778d7caaf7b6f1e2a8b10541
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7338764"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581028"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

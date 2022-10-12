@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 49ba7c66e5257020bbd8e0786f019f069ca0d8bc
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: 49f463ee9549fc895a182030f388d261cebef012
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9300166"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9518451"
 ---
 تعد الحركات النقدية هي أشهر حركات Store Commerce التي يتم فيها مسح العناصر. قد يتم، أو لا يتم، تحديد العميل في الأمر وكل المنتجات يتم الدفع مقابلها بالكامل. عند طرح عطاء الحركة، سيغادر العميل بالمنتجات. لا توجد إجراءات إضافية مطلوبة. 
 
@@ -12,7 +12,7 @@ ms.locfileid: "9300166"
 
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4AxcZ]
  
-يمكن تطبيق إجراءات حركات Store Commerce المحددة على الحركة، مثل إضافة العملاء وتطبيق التعليقات التي تم إدخالها من جانب العامل في الحركة وعلى مستوى تشكيلة الإنتاج، بالإضافة إلى تطبيق مندوبي المبيعات للعمولات والضرائب الرئيسية والمزيد. يتم تكوين إجراءات حركة Store Commerce في شبكة الأزرار في مخطط Store Commerce، كما هو موضح في [تكوين متجر بيع بالتجزئة وStore Commerce في الوحدة النمطية للحل Dynamics 365 Commerce](/learn/modules/configure-retail-store-pos//?azure-portal=true). 
+يمكن تطبيق إجراءات حركات Store Commerce المحددة على الحركة، مثل إضافة العملاء وتطبيق التعليقات التي تم إدخالها من جانب العامل في الحركة وعلى مستوى تشكيلة الإنتاج، بالإضافة إلى تطبيق مندوبي المبيعات للعمولات والضرائب الرئيسية والمزيد. يتم تكوين إجراءات حركة Store Commerce في شبكة الأزرار في مخطط Store Commerce، كما هو موضح في [تكوين متجر بيع بالتجزئة وStore Commerce في الوحدة النمطية للحل Dynamics 365 Commerce](/training/modules/configure-retail-store-pos//?azure-portal=true). 
 
 تتيح لك بعض عمليات Store Commerce تطبيق أنواع مختلفة من عروض الخصم والقسائم يدوياً، بشكل إجمالي، أو خصومات على مستوى تشكيلة الإنتاج عبر مبلغ أو نسبة مئوية، بالإضافة إلى زيادة الأسعار على مستوى تشكيلة الإنتاج. 
 

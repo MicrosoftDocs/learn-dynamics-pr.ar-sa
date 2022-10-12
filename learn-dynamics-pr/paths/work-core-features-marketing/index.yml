@@ -1,26 +1,26 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.work-core-features-marketing
 metadata:
-  title: العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing
-  description: تعرّف على كيفية استخدام تطبيق Marketing لتوجيه المتطوعين المحتملين والعملاء من خلال عملية المراسلة الآلية، وإنشاء النشاط ونقاط القرار التفاعلية. ستتعلم كيفية إنشاء المحتوى التسويقي وإدارتها مثل نماذج التسويق والصفحات التسويقية ورسائل البريد الإلكتروني التسويقية. إضافة إلى ذلك، ستتعلم كيفية تخصيص رسائلك لجمهور معين من خلال التقسيم إلى شرائح وإنشاء حملات آلية تُعرف باسم رحلات العميل.
-  ms.date: 04/13/2022
+  title: العمل باستخدام ميزات التسويق الصادر في Dynamics 365 Marketing
+  description: تعرّف على كيفية استخدام تطبيق Marketing لتوجيه العملاء والعملاء المتوقعين من خلال عملية المراسلة الآلية، وإنشاء النشاط ونقاط القرار التفاعلية. ستتعلم كيفية إنشاء المحتوى التسويقي وإدارتها مثل نماذج التسويق والصفحات التسويقية ورسائل البريد الإلكتروني التسويقية. إضافة إلى ذلك، ستتعلم كيفية تخصيص رسائلك لجمهور معين من خلال التقسيم إلى شرائح وإنشاء حملات آلية تُعرف باسم رحلات العميل.
+  ms.date: 09/21/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-marketing
-  ms.openlocfilehash: 5fd72112349f1e1d90d879250805708e7c627d64
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 03449f4712eea781809d25130aa5cfeac6197b49
+  ms.sourcegitcommit: 73f955f564cef32287613fadd055cc67172f0941
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751467"
-title: العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9568371"
+title: العمل باستخدام ميزات التسويق الصادر في Dynamics 365 Marketing
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
-  تعرّف على كيفية استخدام تطبيق Marketing لتوجيه المتطوعين المحتملين والعملاء من خلال عملية المراسلة الآلية، وإنشاء النشاط ونقاط القرار التفاعلية. ستتعلم كيفية إنشاء المحتوى التسويقي وإدارتها مثل نماذج التسويق والصفحات التسويقية ورسائل البريد الإلكتروني التسويقية. إضافة إلى ذلك، ستتعلم كيفية تخصيص رسائلك لجمهور معين من خلال التقسيم إلى شرائح وإنشاء حملات آلية تُعرف باسم رحلات العميل.
+  تعرّف على كيفية استخدام تطبيق Marketing لتوجيه العملاء والعملاء المتوقعين من خلال عملية المراسلة الآلية، وإنشاء النشاط ونقاط القرار التفاعلية. ستتعلم كيفية إنشاء المحتوى التسويقي وإدارتها مثل نماذج التسويق والصفحات التسويقية ورسائل البريد الإلكتروني التسويقية. إضافة إلى ذلك، ستتعلم كيفية تخصيص رسائلك لجمهور معين من خلال التقسيم إلى شرائح وإنشاء حملات آلية تُعرف باسم رحلات العميل.
 prerequisites: "- فهم أساسي لكيفية التنقل في Dynamics 365. \n"
-iconUrl: /learn/achievements/work-core-features-marketing.svg
+iconUrl: /training/achievements/work-core-features-marketing.svg
 levels:
 - intermediate
 roles:
@@ -36,7 +36,6 @@ modules:
 - learn-dynamics.manage-customers
 - learn-dynamics.manage-forms-pages-subscriptions
 - learn-dynamics.manage-emails-journey
-#- learn-dynamics.manage-content-event-triggers-journeys
 - learn-dynamics.manage-subscription-centers-double-opt
 - learn-dynamics.manage-websites-redirects-social
 trophy:

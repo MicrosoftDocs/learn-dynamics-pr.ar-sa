@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 6979f9dee58f918edfb829cb135d73d6c16da2eea270c6f136e65af5b4e2d80d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e2ac12b6bda64f12dfdc8306f972f3d1c391be1c
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130134"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536189"
 ---
 الشخص الذي سينفذ هذا الإجراء هو أمين الخزانة.
  
 ## <a name="before-you-begin"></a>قبل البدء 
 
-للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS). 
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance والتي يتم تثبيتها باستخدام Lifecycle Services. 
 
 يستخدم هذا الإجراء شركة USMF للعروض التوضيحية.
 

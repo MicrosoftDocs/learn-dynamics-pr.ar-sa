@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a1479fe5f496e347bba6eafeb6bd58e86b021c8a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a394834382e3c35635b5801d6569973f72430b06
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328386"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9537056"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -28,7 +28,7 @@ quiz:
       explanation: أداة التقييم الذاتي للمخاطر هي تطبيق آمن قائم على الويب تم تصميمه لمساعدة المديرين في تحديد الثغرات الأمنية وإدارتها لتقليل المخاطر.
     - content: Regression Suite Automation Tool
       isCorrect: true
-      explanation: RSAT هو اختصار للمصطلح Regression Suite Automation Tool، والذي يمكّن مستخدمي الطاقة الوظيفية من تسجيل مهام الأعمال باستخدام مسجل الاختبار وتحويلها إلى مجموعة من الاختبارات الآلية للتحقق من صحة عناصر واجهة المستخدم والبيانات وعملية الأعمال.
+      explanation: إن RSAT هو اختصار للمصطلح Regression Suite Automation Tool، والذي يمكّن مستخدمي الطاقة الوظيفية من تسجيل مهام الأعمال باستخدام مسجل الاختبار وتحويلها إلى مجموعة من الاختبارات الآلية للتحقق من صحة عناصر واجهة المستخدم والبيانات وعملية الأعمال.
   - content: لماذا يجب عليك استخدام RSAT؟
     choices:
     - content: للحفاظ على التعليمات البرمجية وكتابتها
@@ -36,7 +36,7 @@ quiz:
       explanation: تعمل بيئة التطوير على كتابة التعليمات البرمجية وصيانتها، على سبيل المثال Visual Studio، لذلك ليس RSAT هو ما يقوم بتمكينها.
     - content: لتطبيق تحديث
       isCorrect: false
-      explanation: لتطبيق تحديث على أي بيئة في Dynamics 365 Commerce، تحتاج إلى الوصول إلى LCS، وليس RSAT.
+      explanation: لتطبيق تحديث على أي بيئة في Dynamics 365 Commerce، تحتاج إلى الوصول إلى Lifecycle Services، وليس RSAT.
     - content: لأتمتة الاختبارات
       isCorrect: true
       explanation: لأتمتة الاختبارات، يتعين عليك استخدام RSAT، مما يقلل بشكل كبير من وقت وتكلفة اختبار قبول المستخدم ويوفر خيارات للتحقيق في فشل الاختبارات.

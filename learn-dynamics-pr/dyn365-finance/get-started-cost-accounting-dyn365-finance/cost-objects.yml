@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/cost-accounting/tasks/configure-cost-control-workspace-parameters
-  ms.openlocfilehash: c152995082fe97cd2b598cb8e83da2d3386e61d2
-  ms.sourcegitcommit: 28c6f0e9c300675df166282f95aebfd199c0beeb
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/cost-accounting/tasks/configure-cost-control-workspace-parameters
+  ms.openlocfilehash: ab92e6346d420c9cd6c2ba67b37a35cde10f4ddc
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "8457723"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559565"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

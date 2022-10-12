@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations.4-enterprise
-title: تكامل تطبيقات Finance and Operations مع تطبيقات المؤسسة
+title: تكامل تطبيقات التمويل والعمليات مع تطبيقات المؤسسة
 metadata:
-  title: تكامل تطبيقات Finance and Operations مع تطبيقات المؤسسة
-  description: تعرّف على طريقة تكامل تطبيقات Finance and Operations مع تطبيقات المؤسسة في تطبيقات Finance and Operations.
+  title: تكامل تطبيقات التمويل والعمليات مع تطبيقات المؤسسة
+  description: تعرف على كيفية دمج تطبيقات التمويل والعمليات مع تطبيقات المؤسسة في تطبيقات التمويل والعمليات.
   ms.date: 07/23/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5044817d32f37ef70ea2fa2a301c843903df3b5c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ef5eb8cf2ddccf474657b3b10faa035daf081bf1
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349140"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579968"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

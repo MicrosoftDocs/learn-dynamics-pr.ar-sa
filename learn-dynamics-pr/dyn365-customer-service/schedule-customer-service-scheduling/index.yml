@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 74257f6bd5463251c54d54ee25700d99cc96ae0f
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 27263763270aa7c151d5db0af37624d7270e12e0
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363577"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518441"
 title: جدولة الخدمات باستخدام جدولة Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -27,7 +27,7 @@ abstract: >
 
   - تعرف على كيفية إنشاء أنشطة الخدمة وجدولتها.
 prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Customer Service.
-iconUrl: /learn/achievements/schedule-customer-service-scheduling.svg
+iconUrl: /training/achievements/schedule-customer-service-scheduling.svg
 levels:
 - intermediate
 roles:

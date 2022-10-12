@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1f32c74d6ef58233c9e08ea12c5efb2326b6a920
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 58f3d81e353fede5f224d2995784fbcdf4c5fa5f
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7359940"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536219"
 ---
 يمكن إجراء عملية تحديث التجارة في عدة سيناريوهات. يتم تمييز هذه السيناريوهات بناءً على نوع التحديث الذي سيتم تطبيقه. السيناريوهات المحتملة هي:
 
@@ -46,7 +46,7 @@ ms.locfileid: "7359940"
 يتوفر نوعان من التحديثات:
 
 - **تحديث الجودة** – إصدار تراكمي يحتوي على إصلاحات للمشكلات المتعلقة بإصدار المنتج الذي تقوم بتشغيله حالياً.
-- **تحديث الخدمة** – الإصدار الذي يتم تطبيقه تلقائياً حالياً على البيئات استناداً إلى إعدادات التحديث في Lifecycle Services (LCS). وهو عبارة عن إصدار تراكمي يحتوي على ميزات ووظائف جديدة وتحديثات الجودة ذات الصلة المتوفرة بشكل عام.
+- **تحديث الخدمة** – الإصدار الذي يتم تطبيقه تلقائياً حالياً على البيئات استناداً إلى إعدادات التحديث في Lifecycle Services. وهو عبارة عن إصدار تراكمي يحتوي على ميزات ووظائف جديدة وتحديثات الجودة ذات الصلة المتوفرة بشكل عام.
 
-لمزيد من المعلومات، راجع [قم بتنزيل التحديثات من Lifecycle Services (LCS)](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs/?azure-portal=true#segment-update-option-by-product-and-version).
+لمزيد من المعلومات، راجع [قم بتنزيل التحديثات من Lifecycle Services](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs/?azure-portal=true#segment-update-option-by-product-and-version).
 

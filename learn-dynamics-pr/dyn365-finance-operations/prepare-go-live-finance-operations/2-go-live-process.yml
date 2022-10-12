@@ -3,18 +3,18 @@ uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.2-understand-go-
 title: فهم عملية العرض المباشر
 metadata:
   title: فهم عملية العرض المباشر
-  description: تعرف على عملية العرض المباشر في تطبيقات Finance and Operations.
+  description: تعرف على عملية العرض المباشر‬ في تطبيقات التمويل والعمليات.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
-  ms.openlocfilehash: e41366bc211ab3a05415fa2295575d0741dbbec7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
+  ms.openlocfilehash: 7aedffadaae02f8fa4d7c329a3838c2e47bfb05c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335104"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582799"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

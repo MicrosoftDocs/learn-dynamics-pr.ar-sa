@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e445b8395aaf82a75dcff620f396418c10d5f9d6
-ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+ms.openlocfilehash: 71f427b7871d1a046d5d3f7e9e075948d85841e1
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "9150796"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581548"
 ---
 في الوحدات التالية، ستتعلم كيفية التعامل مع المعلومات المهنية (BI) وإعداد التقارير باستخدام الأساليب القائمة على السيناريو والتوجيه بشأن الأنماط الجيدة (أفضل الممارسات) والأنماط المضادة (الصعوبات).
 

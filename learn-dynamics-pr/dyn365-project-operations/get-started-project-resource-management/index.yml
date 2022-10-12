@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e7cd43a0c9482b5130a7161589b5c14b3b79f6a3
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 34f5c4c83a56120ba88a630fa4d8131479a07fdd
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749411"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559145"
 title: بدء استخدام إدارة الموارد في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nالموارد هي الأصول الأكثر أهميةً في المؤسسة المستندة إلى الخدمات. إن القدرة على العثور على الموارد المناسبة في الوقت المناسب، وحجز تلك الموارد في المشاريع، ثم الاحتفاظ بها مستخدمة سيساعد المؤسسة على تحقيق أهداف الإيرادات وأهداف رضا العملاء. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرف على الحجوزات والتعيينات.\n- اكتشف الوظائف المختلفة لعرض تسوية الموارد.\n- استخدام حالات الحجز لتحديد عمليات الأعمال الفريدة لشركتك.\n- اكتشاف الخيارات المتاحة لمساعدتك في إدارة الموارد.\n- التعرف على أوضاع إدارة الموارد.\n- استكشاف طرق توزيع الحجز المختلفة التي يمكنك استخدامها.\n- التعرف على كيفية استخدام مساعد الجدولة لحجز الموارد.\n- التعرف على كيف يمكنك حجز مورد مباشرة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرف على الحجوزات والتعيينات.\n- اكتشف الوظائف المختلفة لعرض تسوية الموارد.\n- استخدام حالات الحجز لتحديد عمليات الأعمال الفريدة لشركتك.\n- اكتشاف الخيارات المتاحة لمساعدتك في إدارة الموارد.\n- التعرف على أوضاع إدارة الموارد.\n- استكشاف طرق توزيع الحجز المختلفة التي يمكنك استخدامها.\n- التعرف على كيفية استخدام مساعد الجدولة لحجز الموارد.\n- التعرف على كيف يمكنك حجز مورد مباشرة.\n"
 prerequisites: >
   - الفهم الأساسي لعمليات إدارة المشاريع
 
@@ -26,7 +26,7 @@ prerequisites: >
   - المعرفة الأساسية بـ Microsoft Dynamics 365 Project Operations
 
   - المعرفة الأساسية بأدارة المشاريع في Dynamics 365 Project Operations
-iconUrl: /learn/achievements/get-started-project-resource-management.svg
+iconUrl: /training/achievements/get-started-project-resource-management.svg
 levels:
 - intermediate
 roles:
@@ -35,7 +35,6 @@ roles:
 products:
 - dynamics-365
 - dynamics-project-operations
-- dynamics-finance-operations
 - dynamics-finance
 - dynamics-field-service
 subjects:

@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/cash-bank-management/foreign-currency-revaluation-accounts-payable-accounts-receivable
-  ms.openlocfilehash: 622b92912ceb04d2d39a1a97e97d6c9f91d3da0d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/cash-bank-management/foreign-currency-revaluation-accounts-payable-accounts-receivable
+  ms.openlocfilehash: 9a5d3fc402de69b9065a4f58e76896d88733a404
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357913"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559385"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

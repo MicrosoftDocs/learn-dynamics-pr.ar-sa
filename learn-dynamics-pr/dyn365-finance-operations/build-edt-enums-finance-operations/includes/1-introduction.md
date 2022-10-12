@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 77f086302183fed81a741caf180233081b1ef3ad951346183863539c792a62fb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9059f262106345dc164211b89bdf52246700d9dc
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7069223"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578318"
 ---
-في حين أن التعدادات الأساسية وأنوع EDT ليست جديدة على جميع المطورين، فمن المهم فهم كيفية استخدام أنواع البيانات هذه في التطوير لتطبيقات Finance and Operations.
+في حين أن التعدادات الأساسية وأنوع EDT ليست جديدة على جميع المطورين، فمن المهم فهم كيفية استخدام أنواع البيانات هذه في التطوير لتطبيقات التمويل والعمليات.
 
 في هذه الوحدة، ستتعلم متى تستخدم التعدادات الأساسية وأنواع EDT وما يتعلق بفوائد استخدام كل نوع.
  

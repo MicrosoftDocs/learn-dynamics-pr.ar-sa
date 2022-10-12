@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 69be9b774ad07a194c7363143bbf18bc545e7ee0
-ms.sourcegitcommit: 6b8e0ac9787eb58419aaba2ba91bbd2f37cab6bc
+ms.openlocfilehash: 0d6e0b979c68739e3642c250675d483d9364a94f
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "7966670"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576778"
 ---
 يعتبر Microsoft Power BI مجموعة من أدوات تحليل الأعمال التي تتيح لك تحليل البيانات ومشاركة الرؤى. باستخدام أدوات Power BI، يمكنك استكشاف البيانات وإنشاء تقارير ولوحات معلومات ثرية بسرعة. بعد ذلك، ستتمكن أنت وزملاؤك من استخدام التقارير بشكل تفاعلي على أجهزة متعددة. تستخدم تطبيقات التمويل والعمليات تطبيق Power BI لاكتشاف البيانات.
 
-يتكون Power BI من تطبيق Power BI Desktop وخدمة Power BI وPower BI للهواتف المحمولة. يمكنك استيراد البيانات وإنشاء التقارير باستخدام تطبيق Power BI Desktop، وتحويل البيانات إلى مرئيات غنية وتفاعلية. يمكنك الاتصال، على سبيل المثال لا الحصر، بكل من Microsoft SQL Server وقاعدة بيانات Microsoft Azure SQL وExcel وOracle وMySQL.
+يتكون Power BI من تطبيق Power BI Desktop وخدمة Power BI وPower BI للأجهزة المحمولة. يمكنك استيراد البيانات وإنشاء التقارير باستخدام تطبيق Power BI Desktop، وتحويل البيانات إلى مرئيات غنية وتفاعلية. يمكنك الاتصال، على سبيل المثال لا الحصر، بكل من Microsoft SQL Server وقاعدة بيانات Microsoft Azure SQL وExcel وOracle وMySQL.
 
 تم إنشاء لوحات معلومات Power BI مع وضع الدور التنفيذي للعمل في ذهنك.
 يمكنك نشر التقارير ومجموعات البيانات في خدمة Power BI لإنشاء لوحات معلومات ومشاركتها مع زملائك. لا يتعين عليك استخدام تطبيق Power BI Desktop لإنشاء التقارير. يمكنك تسجيل الدخول إلى Power BI واستيراد البيانات وإنشاء التقارير عبر الإنترنت. يمكن بعد ذلك استخدام أصناف التقرير في لوحات المعلومات.
@@ -33,7 +33,7 @@ ms.locfileid: "7966670"
 
 يمكنك فتح محتوى Power BI عن طريق تحديد الزر **فتح في Power BI**.
 
-شاهد عرضاً توضيحياً حول بكيفية استخدام Power BI في التمويل والعمليات في الفيديو التالي.
+شاهد عرضًا توضيحيًا حول بكيفية استخدام Power BI في التمويل والعمليات في الفيديو التالي.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWRtvf]
 

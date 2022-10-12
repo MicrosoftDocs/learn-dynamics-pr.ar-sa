@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a6cf98cb565fbd13941772924852b508bb4a508c
-ms.sourcegitcommit: a1faf32ce3cccd1f026ba5871feba9e8d0798f88
+ms.openlocfilehash: 61d7365794921ee36bb6a746093d146ae3cf87ff
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "7818349"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536766"
 ---
 الفوترة الإلكترونية لـ Finance وDynamics 365 Supply Chain Management هو حل قابل للتطوير الفائق متعدد المؤسسات يسمح بمعالجة مستندات الفاتورة الإلكترونية القابلة للتخصيص وتبادل المستندات. يتم تنفيذ المنطق خارج Finance وSupply Chain Management، وقواعد المعالجة والتكامل قابلة للتخصيص بحرية. الخدمة مخصصة أساساً لمعالجة الفواتير الإلكترونية في إعدادات العمل بين الشركات والحكومة، على الرغم من أنه يمكن تخصيصها للاستخدامات الأخرى أيضاً.
 
@@ -20,4 +20,4 @@ ms.locfileid: "7818349"
 - تصدير واستيراد وتكامل مدمج، وسهولة التوسعة في معالجة مستندات الفاتورة الإلكترونية
 - سهولة إعادة استخدام نفس تكوينات التصدير والاستيراد والتكامل عبر الشركات
 
-لاستخدام الفوترة الإلكترونية، يجب عليك تثبيتها من مشروعك في Microsoft Dynamics Lifecycle Services (LCS). بعد ذلك، اتبع إجراء الإعداد لتشغيل التكامل مع Finance أو Supply Chain Management. لمزيد من المعلومات، راجع [الشروع في العمل باستخدام الفوترة الإلكترونية](/dynamics365/finance/localizations/e-invoicing-get-started/?azure-portal=true).
+لاستخدام الفوترة الإلكترونية، يجب عليك تثبيتها من مشروعك في Microsoft Dynamics Lifecycle Services‏. بعد ذلك، اتبع إجراء الإعداد لتشغيل التكامل مع Finance أو Supply Chain Management. لمزيد من المعلومات، راجع [الشروع في العمل باستخدام الفوترة الإلكترونية](/dynamics365/finance/localizations/e-invoicing-get-started/?azure-portal=true).

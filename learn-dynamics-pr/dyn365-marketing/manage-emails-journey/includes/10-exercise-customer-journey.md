@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b8b0fef2a6560d7c9ebffcbfaf0af07652cf3b98
-ms.sourcegitcommit: d67445e34d1e3f2d5fd557e28e1a57763d50e760
+ms.openlocfilehash: c88fd772ceb6eed230fa352c2389515a8c376abc
+ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "9181950"
+ms.lasthandoff: 09/21/2022
+ms.locfileid: "9559205"
 ---
 لتطبيق معلومات المعرفية المتعلقة بـ Dynamics 365 Marketing على أرض الواقع، الخاص بك في الاجراء، وفرنا لك سيناريو لمساعدتك على إنشاء وإطلاق رحلة عميل بسيطة. تشتمل أجزاء السيناريو الأربعة على عناصر: إنشاء نماذج جهات اتصال بسيطة، وإنشاء شريحة، وتصميم رسالة بريد الكتروني وإعداد رحلة لإرسالها عبر الرسالة الإلكترونية إلى الشريحة المحددة.
 

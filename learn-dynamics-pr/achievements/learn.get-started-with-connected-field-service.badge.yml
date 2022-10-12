@@ -2,10 +2,10 @@
 achievementUid: learn.get-started-with-connected-field-service.badge
 metadata:
   title: 'Microsoft Badge: الشروع في بدء تشغيل Connected Field Service for Dynamics 365 وAzure IoT الذي أصدرته Microsoft'
-  ms.openlocfilehash: 041b1d9ea3229d01c8cb2855e4f28fa5ed07959b
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: e48691f66fe412a39150c67c6e10290df035df7e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8772060"
-socialImageUrl: /learn/achievements/get-started-with-connected-field-service-social.png
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518089"
+socialImageUrl: /training/achievements/get-started-with-connected-field-service-social.png

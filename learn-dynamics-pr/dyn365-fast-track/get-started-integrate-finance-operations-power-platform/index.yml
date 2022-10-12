@@ -8,26 +8,26 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: aebf51cdf674e8358d557cf15b75bd3ad3a36d8e
-  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+  ms.openlocfilehash: 934e58dab41c024c3e9bcb695cb024b9ca4db9d1
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/19/2022
-  ms.locfileid: "9174321"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575868"
 title: بدء تكامل تطبيقات التمويل والعمليات مع Microsoft Power Platform.
 summary: "[!include[](../includes/module-banner.md)] \nتعمل تطبيقات التمويل والعمليات وMicrosoft Dataverse معاً لتقديم تجربة مترابطة. تقدم هذه الوحدة إمكانات تكامل Microsoft Dynamics 365لكيانات الكتابة المزدوجة والافتراضية، ثم تراجع البنية والاعتبارات لمساعدتك على اختيار التقنية المناسبة لسيناريوهات مختلفة.\n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- راجع إمكانات Microsoft Dynamics 365عبر التطبيقات.\n- اكتشف نهج التوحيد أو التقارب في Dynamics 365.\n- تعرّف على ميزة الكتابة المزدوجة وبنيتها ومفاهيمها الرئيسية.\n-  تعرّف على الكيانات/الجداول الافتراضية وبنيتها ونمذجة الكيانات.\n-  راجع جانب تصميم الحل لاختيار التقنية الصحيحة وكيف تكمل كيانات/ جدول الكتابة المزدوجة والافتراضية بعضها البعض.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة إمكانات Microsoft Dynamics 365 عبر التطبيقات.\n- اكتشاف نهج التوحيد أو التقارب في Dynamics 365.\n- التعرّف على ميزة الكتابة المزدوجة وبنيتها ومفاهيمها الرئيسية.\n-  التعرّف على الكيانات/الجداول الظاهرية وبنيتها ونمذجة الكيانات.\n-  مراجعة جانب تصميم الحل لاختيار التقنية الصحيحة وكيف تكمل الكتابة المزدوجة والكيانات/الجداول الظاهرية بعضها البعض.\n"
 prerequisites: >
   - المعرفة الأساسية بتطبيقات التمويل والعمليات
 
-  - المعرفة الأساسية بـ Microsoft Power Platform
+  - المعرفة الأساسية بتطبيق Microsoft Power Platform
 
-  - معرفة Microsoft Dataverse
+  - المعرفة بتطبيق Microsoft Dataverse
 
-  - معرفة كيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات
+  - المعرفة بكيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات
 
-  - معرفة إمكانات تكامل Microsoft Dynamics 365 Lifecycle Services
-iconUrl: /learn/achievements/get-started-integrate-finance-operations-power-platform.svg
+  - المعرفة بإمكانات تكامل Microsoft Dynamics Lifecycle Services
+iconUrl: /training/achievements/get-started-integrate-finance-operations-power-platform.svg
 levels:
 - intermediate
 roles:

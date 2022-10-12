@@ -8,19 +8,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 320f85e4191cd46c4a85f14354e8dd6856db1736
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5fd5494082838140a8c4cd135a4a99aefcb120f3
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335206"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575178"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: يجب إعداد مهمة الدُفعة في مساحة عمل إدارة البيانات التي ستقوم بتصدير بيانات العميل من تطبيقات Finance and Operations. أي نوع أنواع التكامل هذا؟
+  - content: يجب إعداد مهمة الدُفعة في مساحة عمل إدارة البيانات التي ستقوم بتصدير بيانات العميل من تطبيقات التمويل والعمليات. أي نوع أنواع التكامل هذا؟
     choices:
-    - content: متزامنة
+    - content: متزامن
       isCorrect: false
       explanation: لن تكون المهمة المتكررة متزامنة.
     - content: غير متزامنة
@@ -29,7 +29,7 @@ quiz:
     - content: ثنائية الاتجاه
       isCorrect: false
       explanation: يتم تدفق البيانات في اتجاه واحد في هذا السيناريو.
-  - content: ما المفهوم الذي تستخدمه إذا كنت بحاجة إلى تلقي الأنظمة الخارجية إخطارات من تطبيقات Finance and Operations؟
+  - content: ما المفهوم الذي تستخدمه إذا كنت بحاجة إلى تلقي الأنظمة الخارجية إخطارات من تطبيقات التمويل والعمليات؟
     choices:
     - content: سير العمل
       isCorrect: false
@@ -42,8 +42,8 @@ quiz:
       explanation: لا تمنحك Dataverse سير العمل القدرة على تلقي إخطارات خارج Dynamics 365.
     - content: أحداث الأعمال
       isCorrect: true
-      explanation: يمكنك استخدام أحداث الأعمال لجعل الأنظمة الخارجية تتلقى إخطارات من تطبيقات Finance and Operations.
-  - content: ما الخدمة التي يتم استخدامها لمصادقة تطبيقات Finance and Operations؟
+      explanation: يمكنك استخدام أحداث الأعمال لجعل الأنظمة الخارجية تتلقى إخطارات من تطبيقات التمويل والعمليات.
+  - content: ما الخدمة المستخدمة لمصادقة تطبيقات التمويل والعمليات؟
     choices:
     - content: مصادقة Windows
       isCorrect: false

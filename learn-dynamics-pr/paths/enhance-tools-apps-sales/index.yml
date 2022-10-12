@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.enhance-tools-apps-sales
+metadata:
+  title: تحسين Dynamics 365 Sales بواسطة الأدوات والتطبيقات
+  description: تعمل أدوات مثل تطبيقات Microsoft 365 وميزات الذكاء المضمنة وتطبيق Dynamics 365 للأجهزة المحمولة على تمكين مندوبي المبيعات لاستخدام Dynamics 365 Sales بأقصى إمكانياته. يغطي مسار التعليم هذا الأدوات والتطبيقات الإضافية التي تسمح لفريق المبيعات بإنشاء تجارب عملاء متماسكة، حتى أثناء التنقل.
+  ms.date: 09/26/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-sales
+  ms.openlocfilehash: afa42d6516ad4719b770ea188996abdabef6d7e2
+  ms.sourcegitcommit: 32e3bb7a860f6694403e520de039732c9a90c51f
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/27/2022
+  ms.locfileid: "9592692"
+title: تحسين Dynamics 365 Sales بواسطة الأدوات والتطبيقات
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تعمل أدوات مثل تطبيقات Microsoft 365 وميزات الذكاء المضمنة وتطبيق Dynamics 365 للأجهزة المحمولة على تمكين مندوبي المبيعات لاستخدام Dynamics 365 Sales بأقصى إمكانياته. يغطي مسار التعليم هذا الأدوات والتطبيقات الإضافية التي تسمح لفريق المبيعات بإنشاء تجارب عملاء متماسكة، حتى أثناء التنقل.
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365.
+iconUrl: /training/achievements/enhance-tools-apps-sales.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- business-user
+products:
+- dynamics-365
+- dynamics-sales
+subjects:
+- marketing-sales
+modules:
+- learn-dynamics.use-services-model-driven-apps
+- learn-dynamics.embedded-intelligence
+- learn-dynamics.get-started-sales-mobile-app
+trophy:
+  uid: learn-dynamics.enhance-tools-apps-sales.trophy

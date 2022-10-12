@@ -8,17 +8,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f38f9d38d2baecbf5a500e4da1a1835d6ac5ee16
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5b02ef98f19ab6263ca4176804a1fd08c97e6626
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362634"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576718"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: أي أنواع التكاملات التالية يجب عليك تحديدها عند الحاجة إلى استيراد البيانات بشكل غير متزامن إلى تطبيقات Finance and Operations من نظام طرف آخر على أساس بالساعة؟
+  - content: أي أنواع التكاملات التالية يجب عليك تحديدها عند الحاجة إلى استيراد البيانات بشكل غير متزامن إلى تطبيقات التمويل والعمليات من نظام طرف آخر على أساس بالساعة؟
     choices:
     - content: تكامل OData
       isCorrect: false

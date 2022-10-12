@@ -2,17 +2,17 @@
 uid: learn-dynamics.dynamics-translation-service
 metadata:
   title: ترجمة تطبيقات Dynamics 365 وتوثيقها باستخدام Dynamics 365 Translation Service
-  description: لترجمة حلول Microsoft Dynamics 365 وتوثيقها، أو لإضافة دعم اللغة لمنتجات Dynamics 365 الموجودة، يمكنك استخدام Microsoft Dynamics 365 Translation Service من خلال Microsoft Dynamics 365 Lifecycle Services.
+  description: لترجمة حلول Microsoft Dynamics 365وتوثيقها، أو لإضافة دعم اللغة لمنتجات Dynamics 365 الموجودة، يمكنك استخدام Microsoft Dynamics 365 Translation Service من خلال Microsoft DynamicsLifecycle Services .
   ms.date: 09/30/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f86250000fd760082e3438b1eb08a27d84e02632
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c93d20bf30e7cd33317e9327ac30bf4fbd1ed6d8
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749717"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9536389"
 title: ترجمة تطبيقات Dynamics 365 وتوثيقها باستخدام Dynamics 365 Translation Service
 summary: "[!include[](../includes/module-banner.md)] \nابدأ ترجمة حلول Microsoft Dynamics 365 وتوثيقها، أو أضف دعم اللغة لمنتجات Dynamics 365 الموجودة باستخدام Microsoft Dynamics 365 Translation Service من خلال Microsoft Dynamics 365 Lifecycle Services. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على وظائف Dynamics 365 Translation Service وميزاتها.\n- أرسل طلبات الترجمة لواجهة المستخدم وملفات التوثيق لمنتجات Dynamics 365 المدعومة.\n- ابدأ مراجعة إخراج طلب الترجمة وتحريره لإعادة إنشاء ترجمات جديدة.\n- استخدم أداة Align \"المحاذاة\" لإنشاء ذاكرة ترجمة لطلبات الترجمة المستقبلية.\n"
@@ -22,7 +22,7 @@ prerequisites: >
   - عمل تجارب لحلول الإنشاء بالنسبة لمنتجات Dynamics 365
 
   - الفهم العام لـ Lifecycle Services
-iconUrl: /learn/achievements/dynamics-translation-service.svg
+iconUrl: /training/achievements/dynamics-translation-service.svg
 levels:
 - intermediate
 roles:

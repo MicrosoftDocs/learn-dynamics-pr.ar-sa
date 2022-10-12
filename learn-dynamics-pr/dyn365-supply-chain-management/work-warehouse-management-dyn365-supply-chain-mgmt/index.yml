@@ -3,21 +3,21 @@ uid: learn-dynamics.work-with-warehouse-management
 metadata:
   title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
   description: تتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في Supply Chain Management، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.
-  ms.date: 06/04/2021
+  ms.date: 11/24/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e32e685d16d0c8e283d322830fbcca8b6a92226e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4df508b15860993438f7d2067f59eb20d4f23a34
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334965"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504085"
 title: التعامل مع إدارة المستودعات في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتتيح وحدة إدارة المستودعات في Dynamics 365 Supply Chain Management إدارة عمليات المستودعات في مجالات التصنيع والتوزيع والبيع بالتجزئة. وتشتمل على نطاق واسع من الميزات لدعم أداة إنشاء المستودع في المستوي الأمثل، في أي وقت. إن إدارة المستودعات متكاملة تماماً مع العمليات التجارية الأخرى في Supply Chain Management، مثل النقل، والتصنيع، والتحكم في الجودة، والشراء، والتحويل، والمبيعات، والمرتجعات.  \n"
-abstract: "سوف تتعرف في هذه الوحدة على كيفية تنفيذ: \n- العمليات الواردة\n- العمليات الصادرة\n- انتقاء نظام المجموعة\n- التعبئة والتعبئة في حاويات\n- الجرد الدوري\n- التحويلات والتزويد\n"
+abstract: "في هذه الوحدة النمطية، ستتعرّف على كيفيه العمل مع: \n- رموز شريطي GS1 وشفرات الاستجابة السريعة \n- العمليات الواردة\n- العمليات الصادرة\n- انتقاء نظام المجموعة\n- التعبئة والحاويات\n- الجرد الدوري\n- التحويلات والتزويد\n- التطبيق المحمول Warehouse Management\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Supply Chain Management للمعالجة الأساسية \n"
-iconUrl: /learn/achievements/work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
+iconUrl: /training/achievements/work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
 levels:
 - intermediate
 roles:
@@ -27,10 +27,12 @@ products:
 - dynamics-365
 - dynamics-scm
 - dynamics-finance-operations
+subjects:
+- supply-chain-management
 units:
 - learn-dynamics.work-with-warehouse-management.1-configure-mobile-device
 - learn-dynamics.work-with-warehouse-management.1-2-setup-bar-codes
-- learn-dynamics.work-with-warehouse-management.2-configure-work-type-menu-items 
+- learn-dynamics.work-with-warehouse-management.2-configure-work-type-menu-items
 - learn-dynamics.work-with-warehouse-management.2-2-mobile-app-step-instructions
 - learn-dynamics.work-with-warehouse-management.3-inbound-operations
 - learn-dynamics.work-with-warehouse-management.4-cycle-counting

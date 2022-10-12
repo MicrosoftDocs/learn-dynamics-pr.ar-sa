@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e5d5fc0103f1793d59b79315865c55a5a870da13
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: faf0de61e2736f7031b6b59852c907fef0c462fe
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748644"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519101"
 title: إعداد أوامر العمل في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \nتُستخدم أوامر العمل لتعقب مهام الصيانة وإدارتها في إدارة الأصول لـ Dynamics 365 Supply Chain Management. قبل أن تتمكن مؤسستك من استخدام أوامر العمل، ينبغي تكوينها أولاً بناءً على الهيكل التنظيمي والعمليات. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء أنواع وفئات الوظائف\n- تحديد حالات دورة حياة أمر العمل وأنواعها لأوامر العمل\n- تحديد التكاليف المرتبطة بالمشاريع المتعلقة بمشاريع إدارة الأصول\n- إنشاء تعريفات مستوى الخدمة لأوامر العمل \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء أنواع وفئات الوظائف\n- تحديد حالات دورة حياة أمر العمل وأنواعها لأوامر العمل\n- تحديد التكاليف المرتبطة بالمشاريع المتعلقة بمشاريع إدارة الأصول\n- إنشاء تعريفات مستوى الخدمة لأوامر العمل \n"
 prerequisites: >
   - المعرفة العامة بإدارة الأصول وعمليات Supply Chain Management.
 
   - القدرة على التنقل في Dynamics 365 Supply Chain Management.
-iconUrl: /learn/achievements/setup-work-orders-asset-mgmt-dyn365-scm.svg
+iconUrl: /training/achievements/setup-work-orders-asset-mgmt-dyn365-scm.svg
 levels:
 - intermediate
 roles:

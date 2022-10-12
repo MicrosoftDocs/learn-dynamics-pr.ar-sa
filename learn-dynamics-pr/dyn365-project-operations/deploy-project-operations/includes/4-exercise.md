@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: e4481b39a187d165f6cb18804d78b98e78f690570f67a81ebe9ee376b9a9a592
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7d875d110a3cdef2b1987fc508749934eb4cc25b
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7092546"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536866"
 ---
-في هذا التمرين، ستقوم بتوفير بيئة مستضافة على السحابة لـ Finance and Operations باستخدام Microsoft Dynamics ‏365 Lifecycle Services. ستكون مهمتك الأولى هي إنشاء مشروع جديد في Lifecycle Services، ثم منح موافقة المسؤول على اشتراك Azure.
+في هذا التمرين، ستقوم بتوفير بيئة مستضافة على السحابة للتمويل والعمليات باستخدام Microsoft Dynamics ‏Lifecycle Services. ستكون مهمتك الأولى هي إنشاء مشروع جديد في Lifecycle Services، ثم منح موافقة المسؤول على اشتراك Azure.
 
-بعد ذلك، ستقوم بتكوين عنصر التحكم في الوصول إلى اشتراك Azure وإضافة موصل Azure إلى مشروع Lifecycle Services. بعد ذلك، ستقوم بنشر بيئة Finance and Operations.
+بعد ذلك، ستقوم بتكوين عنصر التحكم في الوصول إلى اشتراك Azure وإضافة موصل Azure إلى مشروع Lifecycle Services. بعد ذلك، سننشر بيئة التمويل والعمليات.
 
 ## <a name="sign-in-and-create-a-new-project-in-lifecycle-services"></a>تسجيل الدخول إلى وإنشاء مشروع جديد في Lifecycle Services
 
@@ -26,9 +26,9 @@ ms.locfileid: "7092546"
 
 1. في جزء **إنشاء مشروع**، أكمل الإعدادات التالية، ثم حدد **إنشاء**.
 
-    - **الاسم** - Contoso Robotics F&O
+    - **الاسم** -‏ Contoso Robotics F&O
 
-    - **اسم المنتج** و **إصدار المنتج** - Finance and Operations
+    - **اسم المنتج** و **إصدار المنتج** - التمويل والعمليات
 
     - **المجال** - الخدمات المهنية
 
@@ -75,14 +75,14 @@ ms.locfileid: "7092546"
 
 ## <a name="add-an-azure-connector-to-the-lifecycle-services-project"></a>إضافة موصل Azure إلى مشروع Lifecycle Services
 
-في هذه المهمة، ستضيف موصل Azure الذي سيتم استخدامه لنشر بيئة Finance and Operations على Azure.
+في هذه المهمة، ستضيف موصل Azure الذي سيتم استخدامه لنشر بيئة التمويل والعمليات على Azure.
 
 1. قم بتبديل علامة تبويب مستعرض الويب إلى صفحة **مشروع** **Lifecycle Services**.
 
-1. في صفحة **Contoso Robotics F&O**، قم بالتمرير إلى قسم **البيئات**، ثم حدد **إعدادات Microsoft Azure**.
+1. في صفحة **Contoso Robotics F&O**، قم بالتمرير إلى قسم **البيئات**، وحدد **إعدادات Microsoft Azure**.
 
     > [!div class="mx-imgBorder"]
-    > [![لقطة شاشة لصفحة Contoso ‏Robotics F&O مع تمييز إعدادات Microsoft Azure.](../media/microsoft-azure-settings-ss.png)](../media/microsoft-azure-settings-ss.png#lightbox)
+    > [![لقطة شاشة لصفحة Contoso Robotics F&O مع تمييز إعدادات Microsoft Azure.](../media/microsoft-azure-settings-ss.png)](../media/microsoft-azure-settings-ss.png#lightbox)
 
 1. في صفحة **إعدادات المشروع**، ضمن **موصلات Azure**، حدد **+ إضافة**.
 
@@ -114,9 +114,9 @@ ms.locfileid: "7092546"
 
 1. حدد **Lifecycle Services** للعودة إلى الصفحة **الرئيسية لـ Lifecycle Services**.
 
-## <a name="provision-finance-and-operations-and-project-operations-environments"></a>توفير بيئات Finance and Operations وProject Operations
+## <a name="provision-finance-and-operations-and-project-operations-environments"></a>توفير التمويل والعمليات وبيئات Project Operations
 
-في هذه المهمة، ستضيف مخططاً جديداً في مدخل Lifecycle Services لنشر Finance and Operations في بيئة مستضافة على السحابة لجهاز Azure الظاهري. في الوقت نفسه، ستقوم بتكوين الإعدادات لنشر مستأجر Project Operations.
+في هذه المهمة، ستضيف مخططاً جديداً في مدخل Lifecycle Services لنشر التمويل والعمليات في بيئة مستضافة على السحابة لجهاز Azure الظاهري. في الوقت نفسه، ستقوم بتكوين الإعدادات لنشر مستأجر Project Operations.
 
 1. في صفحة **Lifecycle Services** الرئيسية، حدد اسم مشروعك.
 
@@ -130,7 +130,7 @@ ms.locfileid: "7092546"
 
 1. في جزء **تحديد مخطط البيئة**، حدد **DEVTEST**.
 
-1. حدد **Finance and Operations - تطوير (10.0.18 مع تحديث النظام الأساسي 39)** أو إصدار أحدث.
+1. حدد **تطوير (10.0.18 مع تحديث النظام الأساسي 39)** أو إصدار أحدث.
 
 1. في جزء **نشر البيئة**، في مربع **اسم البيئة**، أدخل **بيئة FO**، ثم حدد **إعدادات متقدمة**.
 
@@ -151,10 +151,10 @@ ms.locfileid: "7092546"
 1. في صفحة **Contoso Robotics F&O**، ضمن قسم **البيئات**، لاحظ أن الحالة تكون **في قائمة الانتظار**.
 
     > [!div class="mx-imgBorder"]
-    > [![لقطة شاشة لصفحة Contoso ‏Robotics F&O مع تمييز بيئة FO.](../media/status-queued-ss.png)](../media/status-queued-ss.png#lightbox)
+    > [![لقطة شاشة لصفحة Contoso Robotics F&O مع تمييز بيئة FO.](../media/status-queued-ss.png)](../media/status-queued-ss.png#lightbox)
 
     > [!NOTE]
-    > قد يستغرق نشر Finance and Operations أكثر من سبع ساعات حتى يكتمل. اضغط على المفتاح F5 بشكل دوري لتحديث الحالة.
+    > قد يستغرق نشر التمويل والعمليات أكثر من سبع ساعات حتى يكتمل. اضغط على المفتاح F5 بشكل دوري لتحديث الحالة.
 
 1. عندما تُظهر الحالة **تم النشر**، حدد اسم البيئة لمراجعة تفاصيل النشر.
 
@@ -162,9 +162,9 @@ ms.locfileid: "7092546"
 
 ## <a name="establish-a-dual-write-connection"></a>قم بتأسيس اتصال ثنائي الكتابة
 
-في هذه المهمة، ستقوم بإنشاء اتصال الكتابة المزدوجة بين Finance and Operations وProject Operations.
+في هذه المهمة، ستقوم بإنشاء اتصال الكتابة المزدوجة بين التمويل والعمليات وProject Operations.
 
-1. في صفة **Finance and Operations** الرئيسية، في قائمة التنقل، حدد **مساحات العمل > إدارة البيانات**.
+1. في صفحة **التمويل والعمليات** الرئيسية، في قائمة التنقل، حدد **مساحات العمل > إدارة البيانات**.
 
 1. في صفحة **إدارة البيانات**، حدد إطار متجانب **الكتابة المزدوجة**.
 
@@ -192,7 +192,7 @@ ms.locfileid: "7092546"
 
     - خرائط كيان‬ الكتابة المزدوجة في Dynamics 365 Project Operations
 
-    - خرائط كيان‬ الكتابة المزدوجة في Dynamics 365 Finance and Operations
+    - تعيينات كيان الكتابة المزدوجة لـ Dynamics 365 Finance and Operations
 
     ينبغي أن يستغرق تطبيق الحلول أقل من دقيقة واحدة.
 

@@ -3,17 +3,17 @@ uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.5-2-
 title: سياسات أمان البيانات المفصلة
 metadata:
   title: سياسات أمان البيانات المفصلة
-  description: تصف هذه الوحدة كيفية استخدام سياسات أمان البيانات المفصلة في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية استخدام سياسات أمان البيانات الموسعة في تطبيقات التمويل والعمليات.
   ms.date: 09/18/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9564fbb0eb767653eaf362e33836d455f6dd8c34
-  ms.sourcegitcommit: a2eaa51541feec74146566f0e95416112902a685
+  ms.openlocfilehash: 73cfbeaaa5352d8e6c5d536e133083413c76fb5e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "7507503"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580324"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

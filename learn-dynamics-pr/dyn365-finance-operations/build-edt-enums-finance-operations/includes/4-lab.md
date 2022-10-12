@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: d78943f86a7311a4c69f4dc89ab31b3d69db3529
-ms.sourcegitcommit: ff754a1100e6f6918ac8857395d22fa96a3dc612
+ms.openlocfilehash: c6b76c13efb54a95a1bc2856ed2fc622773137b5
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "7917479"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582358"
 ---
 ## <a name="scenario"></a>السيناريو
 
-كُلف مطور تطبيقات Finance and Operations بإنشاء تعداد أساسي جديد لشركة Fleet Management. إذ تحتاج الشركة إلى جمع معلومات حول نوع المركبة عند تسجيل مركبة جديدة من أجل الصيانة. وترغب في استخدام قائمة منسدلة في واجهة المستخدم مع خيارات للسيارة والشاحنة وسيارات الدفع الرباعي الرياضية والشاحنة المغلقة.
+كُلف تطبيقات التمويل والعمليات بإنشاء تعداد أساسي جديد لشركة Fleet Management. إذ تحتاج الشركة إلى جمع معلومات حول نوع المركبة عند تسجيل مركبة جديدة من أجل الصيانة. وترغب في استخدام قائمة منسدلة في واجهة المستخدم مع خيارات للسيارة والشاحنة وسيارات الدفع الرباعي الرياضية والشاحنة المغلقة.
 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد

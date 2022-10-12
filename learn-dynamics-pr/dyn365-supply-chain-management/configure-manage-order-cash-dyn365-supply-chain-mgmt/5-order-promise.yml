@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/delivery-dates-available-promise-calculations
-  ms.openlocfilehash: 182464a3f4026ffdaf870ed5b871c5b6227ed64b
-  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/delivery-dates-available-promise-calculations
+  ms.openlocfilehash: a96d87adf3334e6abf2909f87af772b2aa85f2a9
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/26/2021
-  ms.locfileid: "7690989"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559645"
 durationInMinutes: 18
 content: >-
   [!include[](../includes/unit-banner.md)]

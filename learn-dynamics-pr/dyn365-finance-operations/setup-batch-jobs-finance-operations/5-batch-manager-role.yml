@@ -3,17 +3,17 @@ uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.5-batch-manager
 title: دور مدير وظيفة الدُّفعة
 metadata:
   title: دور مدير وظيفة الدُّفعة
-  description: توضح هذه الوحدة دور مدير الدُّفعة في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة دور مدير الدُفعات في تطبيقات التمويل والعمليات.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f9d07ad57bcbfcfc4f2b53568e1fec3605f73082
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ccf3161fe8be1f3d91a839a83bb65404ff1de8e3
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352701"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574258"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

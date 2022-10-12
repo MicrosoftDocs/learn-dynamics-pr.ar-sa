@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0aafc6f0bf410e9ac7fe71d6ed33e44d0fbb3a84ce7827fca6988f44c9022953
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 643410c6784ac70dc6a2640b2862b96b16eee7a5
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7109868"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577608"
 ---
 شاهد هذا الفيديو للتعرف على كيفية إنشاء مساحة عمل مخصصة.
  > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4MvtU]
@@ -16,7 +16,7 @@ ms.locfileid: "7109868"
 ## <a name="before-you-begin"></a>قبل البدء 
 
 
-لإكمال هذا التدريب، ستحتاج إلى الوصول إلى بيئة تحتوي على عينة قياسية من البيانات في تطبيقات Finance and Operations، ومتصلة بـ Power BI.
+لإكمال هذا التدريب، ستحتاج إلى الوصول إلى بيئة تحتوي على عينة قياسية من البيانات في تطبيقات التمويل والعمليات، ومتصلة بـ Power BI.
 
 ## <a name="create-a-new-workspace"></a>إنشاء مساحة عمل جديدة 
 

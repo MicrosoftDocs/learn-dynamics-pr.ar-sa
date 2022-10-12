@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.11-work-data-management-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: ملخص العمل مع إدارة البيانات في وحدة تطبيقات Finance and Operations
+  title: الملخص‬
+  description: ملخص وحدة العمل مع إدارة البيانات في تطبيقات التمويل والعمليات
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 088d89e311e8be18a9a190282ff064ded9568825
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 24d8517035d4d4716ca98182816737abd4e7d50c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352683"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582458"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

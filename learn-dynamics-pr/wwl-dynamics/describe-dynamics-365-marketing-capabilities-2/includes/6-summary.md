@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dd7d4bf18378accfa148e33c8db48f3d11ea9fae
-ms.sourcegitcommit: a164eda8b8ba2b11422692d36e1d0aedef5d4fd4
+ms.openlocfilehash: 00ab20312e80bfcc5197397ec0ccbdb90c1fc874
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/23/2022
-ms.locfileid: "9345134"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9507379"
 ---
 كما ترى، يمكنك استكمال ميزات التشغيل التلقائي للتسويق الأساسي في Dynamics 365 Marketing بإمكانات تزايدية مثل Customer Voice أو Customer Insights.  وبذلك يمكنك إنشاء حلول تسويقية أكثر قوة قائمة على ممارسات التسويق التي أثبتت جدواها والتي تستهدف عملاء اليوم. 
 
@@ -34,9 +34,9 @@ ms.locfileid: "9345134"
 
  ## <a name="for-further-study"></a>لمزيد من الدراسة
 
-- [العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing](/learn/paths/work-core-features-marketing/)
+- [العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing](/training/paths/work-core-features-marketing/)
 
-- [إدارة الأحداث في Dynamics 365 Marketing](/learn/paths/manage-events-dynamics-365-marketing/)
+- [إدارة الأحداث في Dynamics 365 Marketing](/training/paths/manage-events-dynamics-365-marketing/)
 
 - [Customer Voice](/dynamics365/marketing/customer-voice)
 

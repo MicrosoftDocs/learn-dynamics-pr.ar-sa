@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3f2e4c67d27ee4cedffffc27b827de928d1daf329aaa1b841381897ca358f179
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2de50c4f00b7697ef513b2d6add2991c1a3848de
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7082935"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536200"
 ---
 تلخص هذه الوحدة مراحل تصميم وتطوير عملية تنفيذ Finance + Operations (محلياً).
 
@@ -30,7 +30,7 @@ ms.locfileid: "7082935"
 
 ## <a name="identify-a-gold-build-and-sign-off"></a>تحديد الإصدار الذهبي وتسجيل الخروج
 
-حدد الإصدار الذهبي الذي تريد استخدامه لبيئة الإنتاج الخاصة بك. بعد تحديد الإصدار، قم بتحميله إلى مكتبة أصول Lifecycle Services (LCS) وقم بتمييزه على أنه إصدار ذهبي.
+حدد الإصدار الذهبي الذي تريد استخدامه لبيئة الإنتاج الخاصة بك. بعد تحديد الإصدار، قم بتحميله إلى مكتبة أصول Lifecycle Services وقم بتمييزه على أنه إصدار ذهبي.
 
 ## <a name="revise-milestone-dates"></a>مراجعة التواريخ الهامة
 

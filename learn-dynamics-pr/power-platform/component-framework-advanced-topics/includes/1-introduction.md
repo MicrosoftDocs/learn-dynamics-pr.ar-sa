@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b36747cedec27e52d3dd9baffcb7379b40d62acf
-ms.sourcegitcommit: d923ddcaa6b0e6740cbcf77535cb6de781dc6b19
+ms.openlocfilehash: 96217e4ce1e91dc03a0ef66d4f4622027f16550c
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/03/2022
-ms.locfileid: "8666571"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9583903"
 ---
 إن React عبارة عن إطار عمل عميل قياسي تم بناؤه لبناء واجهات المستخدم. وهو يوفر طريقة تعريفية لإنشاء واجهات مستخدم تفاعلية ويوفر آلية لتغليف المكونات لإنشاء واجهات مستخدم معقدة تدير حالات المكونات وشديدة التفاعل. نظراً لكتابة React في JavaScript، يمكنك استخدام إطار العمل هذا ضمن مكون Power Apps.
 
@@ -20,10 +20,10 @@ ms.locfileid: "8666571"
 > [نزّل الملفات](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/power-apps-component-framework/FacePileComponent.zip) لاستخدامها مع هذا التمرين.
 
 في هذا المثال، ستقوم ببناء مكون يستخدم مكون Facepile Fluent UI. يُظهر Facepile قائمة بالوجوه أو الأحرف الأولى من الأسماء في بحث أفقي، حيث كل دائرة تمثل شخصاً.
-هناك مثال عملي عن استخدام هذا البحث وهو سرد المساهمين في مقال أو سجل، مثل ما قد تراه في Microsoft Docs، كما يظهر في الصورة التالية.
+هناك مثال عملي عن استخدام هذا البحث وهو سرد المساهمين في مقال أو سجل، مثل ما قد تراه في Microsoft Learn، كما يظهر في الصورة التالية.
 
 
-![لقطة شاشة لـ Facepile، مكون UI Fabric.](../media/facepile.png)
+![لقطة شاشة لمكون Facepile UI Fabric](../media/facepile.png)
 
 ### <a name="initialize-your-components-project"></a>تهيئة مشروع المكون الخاص بك
 لتهيئة مشروع المكون الخاص بك، اتبع الخطوات التالية:

@@ -2,20 +2,20 @@
 uid: learn-dynamics.business-events-dynamics-365-finance-operations
 metadata:
   title: استخدام أحداث الأعمال في تطبيقات التمويل والعمليات
-  description: توفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات التمويل والعمليات. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال.
+  description: توفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي إعلامات من تطبيقات التمويل والعمليات. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال.
   ms.date: 08/01/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4507a5aca0f8faa8acdb658eecc3f5c74af71776
-  ms.sourcegitcommit: 90b2fb8366c65bce1c45671f8203b47b66e49643
+  ms.openlocfilehash: f66317733803e67427cc9dba839355c7d52f8056
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/01/2022
-  ms.locfileid: "9213716"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580608"
 title: استخدام أحداث الأعمال في تطبيقات التمويل والعمليات
-summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي الإعلامات من تطبيقات التمويل والعمليات. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على إطار عمل الحدث للأعمال.\n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n- أحداث الأعمال في Microsoft Power Automate.\n- الأمان المستند إلى الدور لأحداث الأعمال.\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتوفر أحداث الأعمال آلية تتيح للأنظمة الخارجية تلقي إعلامات من تطبيقات التمويل والعمليات. وبهذه الطريقة، يمكن للأنظمة تنفيذ إجراءات العمل استجابة لأحداث الأعمال. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على إطار عمل الحدث للأعمال.\n- تنفيذ أحداث الأعمال الجديدة من خلال ملحق الفئة. \n- أحداث الأعمال في Microsoft Power Automate.\n- الأمان المستند إلى الدور لأحداث الأعمال.\n"
 prerequisites: >
   - الإلمام بتطبيقات التمويل والعمليات
 
@@ -24,7 +24,7 @@ prerequisites: >
   - معرفة إطار عمل الملحق في تطبيقات التمويل والعمليات
 
   - فهم كيفية إنشاء ملحق فئة جديد وإضافة أساليب جديدة
-iconUrl: /learn/achievements/business-events-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/business-events-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

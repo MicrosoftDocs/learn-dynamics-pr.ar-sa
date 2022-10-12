@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: beab7416487b90acbacce28a186ca061f6e5551f
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 9d01916a0f9b2b3d9c0751e8f708d8b5f44e82b4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9369423"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519015"
 title: استكشاف إدارة المصروفات، وإدارة الأصول الثابتة، و‏‫إعداد الموازنة فِي Dynamics 365 Finance
 summary: استكشف النقد وإدارة البنوك واكتشف الوظائف الأساسية لإدارة المصروفات وتعلم كيفية إدارة الأصول الثابتة وراجع إمكانات إعداد الميزانية فِي Dynamics 365 Finance.
 abstract: >
@@ -28,7 +28,7 @@ abstract: >
   *   وصف إمكانات إعداد الموازنة
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
-iconUrl: /learn/achievements/dynamics-expense-management-budgeting.svg
+iconUrl: /training/achievements/dynamics-expense-management-budgeting.svg
 levels:
 - beginner
 roles:

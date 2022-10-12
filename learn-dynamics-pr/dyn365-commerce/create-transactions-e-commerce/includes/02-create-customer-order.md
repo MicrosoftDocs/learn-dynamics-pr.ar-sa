@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: c1c7cc22910b663825490f89df22642c5a1d0027
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: a2b8516bcb77cadc7baf266eb700d012a74bbcfe
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9299886"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536259"
 ---
 لإنشاء أوامر العميل الخاصة بالتجارة الإلكترونية (عملية الانتقاء والشحن)، اتبع الإجراء التالي:
 
-1. انتقل إلى موقع التجارة الإلكترونية باتباع الارتباط في Microsoft Dynamics365 Lifecycle Services، في علامة التبويب **التجارة الإلكترونية**.
+1. انتقل إلى موقع التجارة الإلكترونية باتباع الارتباط الوارد في Microsoft Dynamics ‏Lifecycle Services، في علامة التبويب **التجارة الإلكترونية**.
 2. انتقل إلى صفحة المنتج، وحدد متغير المنتج، ثم حدد الزر **إضافة إلى الحقيبة**. 
 3. انتقل إلى صفحة منتج مختلف، وحدد متغير المنتج، ثم حدد الزر **إضافة إلى الحقيبة**.
 

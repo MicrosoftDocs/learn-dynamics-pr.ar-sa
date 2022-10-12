@@ -3,17 +3,17 @@ uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365
 title: تعديل نطاق متغير
 metadata:
   title: تعديل نطاق متغير
-  description: تعرف على كيفية تعديل نطاق متغير في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تعديل نطاق متغير في تطبيقات التمويل والعمليات.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bbbb55246cd8de0e19c3483ede816cd98fd7a84d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9750c9bf302115d6c92144d24d0ae39b645570ad
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339519"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581918"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

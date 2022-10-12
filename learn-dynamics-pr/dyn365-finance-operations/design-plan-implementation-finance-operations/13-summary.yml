@@ -2,18 +2,18 @@
 uid: learn-dynamics.design-plan-implementation-in-f-and-o.13-design-plan-implementation-in-f-and-o-summary
 title: الملخص
 metadata:
-  title: الملخص
-  description: ملخص تصميم وتخطيط تنفيذ وحدة تطبيقات Finance and Operations
+  title: الملخص‬
+  description: ملخص لتصميم عملية تنفيذ تطبيقات التمويل والعمليات وتخطيطها
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 91e8d41788c223539ef1d7169343edde47bde04a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ae760f435e199c0886b5c249b71e4b764f880404
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340439"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575468"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -8,27 +8,27 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d2c3afefd08808634df7aa4d5fa7476ce56f3208
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 65f92e1dad05f9ea3233c12ab4021c5b256901d7
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362712"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573868"
 durationInMinutes: 6
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف عَلى ما تعلمته.
   questions:
-  - content: تقوم مؤسستك بتحديث Dynamics AX ‏2012 إلى Finance and Operations. وأنت الآن مستعد لتوزيع البيئات. أي الخدمات الآتية يتم استخدامها لتوزيع بيئات تطبيقات Finance and Operations؟
+  - content: تقوم مؤسستك بتحديث Dynamics AX 2012 للتمويل والعمليات. وأنت الآن مستعد لتوزيع البيئات. أي الخدمات الآتية يتم استخدامها لتوزيع بيئات تطبيقات التمويل والعمليات؟
     choices:
     - content: Microsoft Azure
       isCorrect: false
       explanation: تتم استضافة البيئات على Azure، لكن لا يتم توزيعها في Azure.
     - content: Lifecycle Services
       isCorrect: true
-      explanation: يتم توزيع البيئات وإدارتها في Microsoft Dynamics 365 Lifecycle Services.
+      explanation: يتم توزيع البيئات وإدارتها في Microsoft Dynamics Lifecycle Services.
     - content: Dataverse
       isCorrect: false
-      explanation: تُعد Dataverse جزءاً من Microsoft Power Platform، ولا يتم استخدامها لتوزيع بيئات Finance and Operations.
+      explanation: تُعد Dataverse جزءاً من Microsoft Power Platform، ولا يتم استخدامها لتوزيع بيئات التمويل والعمليات.
     - content: AppSource
       isCorrect: false
       explanation: يتعذر توزيع البيئات في AppSource.
@@ -43,11 +43,11 @@ quiz:
     - content: تتم إدارة التشغيل بواسطة شريك التنفيذ لديك.
       isCorrect: false
       explanation: تتم إدارة التشغيل من قِبل Microsoft فقط.
-  - content: هل يلزم استخدام Lifecycle Services لتنفيذ تطبيقات Finance and Operations الخاصة بك؟
+  - content: هل يلزم استخدام Lifecycle Services لتنفيذ تطبيقات التمويل والعمليات الخاصة بك؟
     choices:
     - content: نعم
       isCorrect: true
-      explanation: يلزم استخدام Lifecycle Services لتنفيذ تطبيقات Finance and Operations الخاصة بك.
+      explanation: يلزم استخدام Lifecycle Services لتنفيذ تطبيقات التمويل والعمليات الخاصة بك.
     - content: لا
       isCorrect: false
-      explanation: يلزم استخدام Lifecycle Services لتنفيذ تطبيقات Finance and Operations الخاصة بك.
+      explanation: يلزم استخدام Lifecycle Services لتنفيذ تطبيقات التمويل والعمليات الخاصة بك.

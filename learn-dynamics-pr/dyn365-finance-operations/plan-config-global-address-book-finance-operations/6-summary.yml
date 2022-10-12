@@ -3,17 +3,17 @@ uid: learn-dynamics.plan-config-global-address-book-in-dynamics-365-finance-ops.
 title: الملخص
 metadata:
   title: الملخص
-  description: ملخص خطة وتكوين دفتر العناوين العمومي (GAB) في الوحدة النمطية لتطبيقات Finance and Operations.
+  description: ملخص خطة وتكوين دفتر العناوين العمومي (GAB) في الوحدة النمطية لتطبيقات التمويل والعمليات.
   ms.date: 01/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5f2cca00d4a16d40da30d49b1a1f6140529d6244
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b36158d33a48b0acba3db2b9511a303576bac64c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329245"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581668"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

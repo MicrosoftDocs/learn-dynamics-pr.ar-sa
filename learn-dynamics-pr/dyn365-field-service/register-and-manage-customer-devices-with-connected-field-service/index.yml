@@ -7,12 +7,12 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c0e01673690373b9e28b1e2bbd15a4eb0744c781
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: cd8a7d06f6044a9d69dc191cff32e9fa01b6a603
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749088"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9520242"
 title: تسجيل وإدارة الأجهزة باستخدام Connected Field Service لـ Dynamics 365 وAzure IoT
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,7 +20,7 @@ summary: >
 
   ستركز هذه الوحدة النمطية على تسجيل أجهزة IoT ومراقبتها باستخدام حل Connected Field Service بما في ذلك تسجيل الجهاز (المادي وغير المادي)، والعمل مع الأجهزة المتماثلة، وتبسيط إدارة الجهاز والتفاعلات.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - التفريق بين أجهزة IoT (المادية وغير المادية)
 
@@ -30,7 +30,7 @@ abstract: >
 
   - استخدام الأوامر للتفاعل مع أجهزة IoT
 prerequisites: "- تم توزيع مثيل Microsoft Dynamics 365مع Microsoft Dynamics 365 Field Service\n- تم توزيع Connected Field Service\n- تم إعداد Azure IoT Hub وتوزيعه لإكمال التدريبات المعملية. \n"
-iconUrl: /learn/achievements/register-and-manage-customer-devices-with-connected-field-service.svg
+iconUrl: /training/achievements/register-and-manage-customer-devices-with-connected-field-service.svg
 levels:
 - intermediate
 roles:

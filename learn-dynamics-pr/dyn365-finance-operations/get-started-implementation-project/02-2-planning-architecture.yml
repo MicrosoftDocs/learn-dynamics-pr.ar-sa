@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-implementation-project.02-2-planning-architectur
 title: تخطيط التنفيذ والبنية الخاصة به
 metadata:
   title: تخطيط التنفيذ والبنية الخاصة به
-  description: توضح هذه الوحدة تخطيط مشروع تنفيذ Finance and Operations وبنية المنتج.
+  description: توضح هذه الوحدة تخطيط تطبيقات التمويل والعمليات مشروع تنفيذ وبنية المنتج.
   ms.date: 07/27/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 1d570686567bb5d7d544054bf951a4dac5af6eec
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1b919648b97c8485ad062ebecb2dd1d19d5077e2
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365893"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582558"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-2-planning-architecture.md)]"

@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 29b7f2d1afd9a28027f0783b69301e1ce69c90d9
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8d647a4d3af4c496339cff9ffa833f98bbe7e54b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7349230"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575088"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -32,7 +32,7 @@ quiz:
     - content: قم بتحرير VendorInvoiceLineEntity مباشرةً.
       isCorrect: false
       explanation: يعتبر VendorInvoiceLineEntity كيان نظام تم تأمينه، حتى يتعذر عليك القيام بذلك إذا حاولت.
-  - content: متى يصبح الكود الخاص بك متاحاً محلياً في تطبيقات Finance and Operations؟
+  - content: متى يصبح الكود الخاص بك متاحًا محليًا في تطبيقات التمويل والعمليات؟
     choices:
     - content: عند قيامك بالحفظ
       isCorrect: false
@@ -45,7 +45,7 @@ quiz:
       explanation: لا يؤثر إيداع التغييرات في التحكم بالمصادر على بيانات التعريف.
     - content: عند قيامك بالبناء.
       isCorrect: true
-      explanation: البناء هو ما يقوم بإنشاء بيانات التعريف لتعكس الكود الخاص بك، أما بيانات التعريف فهي ما تستخدمه تطبيقات Finance and Operations لتحديد سلوكياتها.
+      explanation: البناء هو ما يقوم بإنشاء بيانات التعريف لتعكس الكود الخاص بك، أما بيانات التعريف فهي ما تستخدمه تطبيقات التمويل والعمليات لتحديد سلوكياتها.
   - content: لقد قمت بتمديد جدول لإضافة حقول في Visual studio، وقمت بإجراء بناء، لكنك لا ترى الحقول الجديدة التي أضفتها إلى الجدول. أي من الإجراءات التالية يجب عليك تنفيذها لضمان تحديث تمديد الجدول الخاص بك وعرضه في الجدول؟
     choices:
     - content: تصحيح كود الجدول

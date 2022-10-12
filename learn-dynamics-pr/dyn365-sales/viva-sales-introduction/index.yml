@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-dynamics.viva-sales-introduction
+metadata:
+  title: مقدمة إلى مبيعات Viva
+  description: تعرّف على الميزات والوظائف الأساسية لمبيعات Viva.
+  ms.date: 09/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8bfdb820aa66365896a60b5e6d61071a4c1e2420
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9567453"
+title: مقدمة إلى مبيعات Viva
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  إن مبيعات Microsoft Viva عبارة عن تطبيق لتجربة المستخدم يستخدم Microsoft 365 وMicrosoft Teams لالتقاط البيانات والوصول إليها وتسجيلها تلقائياً في نظام إدارة علاقات العملاء. نحن نناقش نظرة عامة أساسية حول الوظائف الأساسية التي توفرها مبيعات Viva جنباً إلى جنب مع بعض المزايا الأساسية للبائعين التي يمكن أن تساعدهم في التركيز بشكل أكبر على المبيعات بدلاً من تعقب المعلومات المتعلقة بالبيع.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - التعرّف على مبيعات Viva.
+
+  - اكتشاف الميزات والوظائف الأساسية لمبيعات Viva.
+
+  - مراجعة معلومات التثبيت الرئيسية.
+prerequisites: الفهم الأساسي لنظام Dynamics 365 أو Salesforce CRM والإلمام بتطبيق Microsoft Teams أو Microsoft Outlook.
+iconUrl: /learn/achievements/viva-sales-introduction.svg
+levels:
+- beginner
+roles:
+- business-user
+- administrator
+- business-analyst
+products:
+- dynamics-sales
+- viva
+subjects:
+- business-applications
+units:
+- learn-dynamics.viva-sales-introduction.introduction
+- learn-dynamics.viva-sales-introduction.viva-sales-features
+- learn-dynamics.viva-sales-introduction.basic-installation
+- learn-dynamics.viva-sales-introduction.check
+- learn-dynamics.viva-sales-introduction.summary
+badge:
+  uid: learn-dynamics.viva-sales-introduction.badge

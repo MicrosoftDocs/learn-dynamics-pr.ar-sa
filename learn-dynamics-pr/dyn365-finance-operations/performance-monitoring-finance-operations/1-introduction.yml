@@ -3,17 +3,17 @@ uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.1-int
 title: مقدمة
 metadata:
   title: مقدمة
-  description: تقدم هذه الوحدة التعامل مع أدوات الأداء والمراقبة في وحدة تطبيقات Finance and Operations.
+  description: تقدم هذه الوحدة التعامل مع أدوات الأداء والمراقبة في وحدة تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 375f1be1809d3bff975b7e76e6473ccf36294fc5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9618a7cfc1693245126747b10c24bb1ec04970a3
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346835"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581738"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

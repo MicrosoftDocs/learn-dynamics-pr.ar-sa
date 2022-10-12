@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 1f460da8899d3b861d13e49c42a086243f51113107c828c017348424ca7ecb06
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 2cd3aaf9d02de10df59d60b571772dabb97f0e66
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7091838"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536319"
 ---
 في هذا التدريب، ستقوم بتأكيد أمر مخطط‬.
 
 ### <a name="before-you-begin"></a>قبل البدء
 
-للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management، والتي تم تثبيتها باستخدام Lifecycle Services‎‏ (LCS)‏‏‏‎.
+للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management، والتي تم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="open-the-planned-order"></a>فتح أمر مخطط
 

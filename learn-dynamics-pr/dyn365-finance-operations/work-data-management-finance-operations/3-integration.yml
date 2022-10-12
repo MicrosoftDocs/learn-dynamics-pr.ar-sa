@@ -3,18 +3,18 @@ uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.3-data
 title: استخدام وحدات البيانات لإدارة البيانات وتكاملها
 metadata:
   title: استخدام وحدات البيانات لإدارة البيانات وتكاملها
-  description: توضح هذه الوحدة كيفية استخدام وحدات البيانات لإدارة البيانات وتكاملها في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية استخدام كيانات البيانات لإدارة البيانات وتكاملها في تطبيقات التمويل والعمليات.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/data-entities-data-packages?toc=/fin-and-ops/toc.json
-  ms.openlocfilehash: d0081dfe04ab58786263357e644128f9889beda2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/data-entities-data-packages?toc=/fin-and-ops/toc.json
+  ms.openlocfilehash: c5d0ed102a320453e11d46a81034553b83b85e4c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326502"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574218"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

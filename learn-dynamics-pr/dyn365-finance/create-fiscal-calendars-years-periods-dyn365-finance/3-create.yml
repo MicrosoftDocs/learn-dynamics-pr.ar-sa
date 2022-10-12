@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
-  ms.openlocfilehash: 1594b54af7637aefebc3003bab1b56c923ae3977
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/budgeting/fiscal-calendars-fiscal-years-periods
+  ms.openlocfilehash: 96d7fc1d4c5775da4c38cd7bb3c352463e9044ee
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329161"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559155"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

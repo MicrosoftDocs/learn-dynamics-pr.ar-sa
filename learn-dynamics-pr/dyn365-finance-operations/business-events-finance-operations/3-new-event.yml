@@ -3,17 +3,17 @@ uid: learn-dynamics.business-events-dynamics-365-finance-operations.3-new-event
 title: إنشاء حدث أعمال جديد
 metadata:
   title: إنشاء حدث أعمال جديد
-  description: تعرف على كيفية إنشاء حدث أعمال جديد في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إنشاء حدث عمل جديد في تطبيقات التمويل والعمليات.
   ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 59048e1d649c39d23df635791c7d1020a20c3a6b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 246b63bc7b420a1bc205617cf0c038184d2757c9
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351847"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582328"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

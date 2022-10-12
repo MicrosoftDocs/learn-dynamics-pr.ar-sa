@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 2b07a4bb3330b247d1ea317bff81d7d287a52a72c663b8974a2b4eee4ee17fd5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 292ea9fe1a7dbb213808675ae3f313ce8e661d4f
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7099783"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575998"
 ---
 
-عند ترقية إصدارات تطبيقات Finance and Operations، قد لا يعمل الكود الحالي دائماً بالشكل المقصود في التطبيق الجديد.
+عند ترقية إصدارات تطبيقات التمويل والعمليات، قد لا يعمل الكود الحالي دائماً بالشكل المقصود في التطبيق الجديد.
 
 ستساعدك أفضل الممارسات الآتية على التنقل في عملية ترقية الكود:
 

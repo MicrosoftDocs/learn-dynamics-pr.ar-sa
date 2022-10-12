@@ -3,17 +3,17 @@ uid: learn-dynamics.plan-and-implement-security-in-dynamics-365-finance-ops.7-ex
 title: تدريب - استيراد مستخدم وتعيين دور أمان له
 metadata:
   title: تدريب - استيراد مستخدم وتعيين دور أمان له
-  description: تدرب على استيراد مستخدم وتعيين دور أمان في تطبيقات Finance and Operations.
+  description: تدرب على استيراد مستخدم وتعيين دور أمان في تطبيقات التمويل والعمليات.
   ms.date: 04/23/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 393ebb6cbe64f318a4d45288566b1671637d2cfc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e76ba4d643f93e813067c85cfdf2a4a32ce2433a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339399"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580268"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

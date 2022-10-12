@@ -1,23 +1,23 @@
 ### YamlMime:Module
 uid: learn-dynamics.harmonize-business-concepts-finance-operations-power-platform
 metadata:
-  title: مواءمة مفاهيم الأعمال بين تطبيقات التمويل والعمليات وبين Microsoft Power Platform
+  title: مواءمة مفاهيم الأعمال بين تطبيقات التمويل والعمليات وMicrosoft Power Platform
   description: تقدم هذه الوحدة النمطية مهام سير إجراءات العمل بين تطبيقات التمويل والعمليات.
   ms.date: 05/17/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f746bec72f20a7b1899702adb04c1b140345ba98
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: 9cafe17f12a83ef509e5248433b0f24f8c28a7e5
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8771574"
-title: مواءمة مفاهيم الأعمال بين تطبيقات التمويل والعمليات وبين Microsoft Power Platform
-summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة النمطية مهام سير إجراءات العمل بين تطبيقات التمويل والعمليات وMicrosoft Power Platform، بما في ذلك كيفية تمكين توافق المفاهيم باستخدام الكتابة المزدوجة.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرّف على سيناريو المتطوع المحتمل إلى النقدي.\n-   استكشاف مفاهيم نموذج الطرف ودفتر العناوين العمومي. \n-   تعرّف على تكامل Dynamics 365 Field Service وإدارة الأصول باستخدام تطبيقات التمويل والعمليات. \n"
-prerequisites: "- المعرفة الأساسية بمفاهيم التكامل بين تطبيقات التمويل والعمليات وMicrosoft Power Platform، وMicrosoft Dataverse باستخدام الكتابة المزدوجة \n-   المعرفة الأساسية بالكتابة المزدوجة \n-   المعرفة الأساسية والعملية بتطبيقات التمويل والعمليات\n- المعرفة الأساسية بـ Microsoft Power Platform \n- المعرفة العملية بتطبيقات تفاعل العميل\n-   معرفة Microsoft Dataverse\n-   معرفة كيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات\n-   معرفة إمكانات تكامل Dynamics 365 Lifecycle Services\n"
-iconUrl: /learn/achievements/harmonize-business-concepts-finance-operations-power-platform.svg
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578448"
+title: مواءمة مفاهيم الأعمال بين تطبيقات التمويل والعمليات وMicrosoft Power Platform
+summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة النمطية مهام سير إجراءات العمل بين تطبيقات التمويل والعمليات وMicrosoft Power Platform، بما في ذلك كيفية مؤامة المفاهيم باستخدام الكتابة المزدوجة.  \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرّف على سيناريو العميل المتوقع إلى النقدية.\n-   استكشاف مفاهيم نموذج الطرف ودفتر العناوين العمومي. \n-   التعرّف على تكامل Dynamics 365 Field Service وإدارة الأصول باستخدام تطبيقات التمويل والعمليات. \n"
+prerequisites: "- المعرفة الأساسية بمفاهيم التكامل بين تطبيقات التمويل والعمليات وMicrosoft Power Platform، وMicrosoft Dataverse باستخدام الكتابة المزدوجة \n-   المعرفة الأساسية بالكتابة المزدوجة \n-   المعرفة الأساسية والعملية بتطبيقات التمويل والعمليات\n- المعرفة الأساسية بتطبيق Microsoft Power Platform \n- المعرفة العملية بتطبيقات تفاعل العملاء\n-   المعرفة بتطبيق Microsoft Dataverse\n-   المعرفة بكيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات\n-   المعرفة بإمكانات تكامل Dynamics Lifecycle Services\n"
+iconUrl: /training/achievements/harmonize-business-concepts-finance-operations-power-platform.svg
 levels:
 - advanced
 roles:

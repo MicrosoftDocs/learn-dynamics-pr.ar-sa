@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8c6d949d95f2aab5750962f6cf8ed7ccca02fad1
-ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+ms.openlocfilehash: b074b65647125f20c5daab8d1829b833649e95be
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "9025474"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584172"
 ---
 يقدم Dynamics 365 Commerce حلاً قناة متعددة الاتجاهات كاملاً يوحد المكتب الخلفي والمتجر ومركز الاتصال والتجارب الرقمية. 
 
@@ -14,7 +14,7 @@ ms.locfileid: "9025474"
 
 تُستخدم عمليات الفرز لتحديد المنتجات المتوفرة للبيع وفي أي قنوات يتم توفرها خلال فترات زمنية محددة. 
 
-الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادرًا على:
+الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
 - وصف إمكانات Commerce.
 
@@ -38,8 +38,8 @@ ms.locfileid: "9025474"
 
 لمزيد من الدراسة:
 
-- [مقدمة إلى Dynamics 365 Commerce - Learn | Microsoft Docs](/learn/modules/dynamics-365-commerce-introduction/)
+- [مقدمة إلَى Dynamics 365 Commerce](/training/modules/dynamics-365-commerce-introduction/)
 
-- [الشروع في العمل باستخدام قنوات Dynamics 365 Commerce - Learn | Microsoft Docs](/learn/modules/get-started-commerce-channels/) 
+- [الشروع في العمل باستخدام قنوات Dynamics 365 Commerce](/training/modules/get-started-commerce-channels/) 
 
-- [إدارة الأوامر الموزعة (DOM) - Learn | Microsoft Docs](/learn/modules/configure-work-order-fulfillment/02-distributed-order-management) 
+- [إدارة الأوامر الموزعة (DOM)](/training/modules/configure-work-order-fulfillment/02-distributed-order-management) 

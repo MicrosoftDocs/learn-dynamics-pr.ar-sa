@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: e6b003a696d4b1e91d9a7fdf9dc06aef351f5893
-ms.sourcegitcommit: 6b8e0ac9787eb58419aaba2ba91bbd2f37cab6bc
+ms.openlocfilehash: 804530fe6fbb98960fd2aca7aa034dc1abf911c0
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "7966679"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579998"
 ---
-يمكنك استخدام تكامل Microsoft Office في تطبيقات المالية والعمليات لتصدير البيانات إلى Excel. بعد التعديل، إذا لزم الأمر، ستتمكن من إعادة نشره، ثم إنشاء مصنف Excel كقالب باستخدام مصمم المصنف.
+يمكنك استخدام تكامل Microsoft Office في تطبيقات التمويل والعمليات لتصدير البيانات إلى Excel. بعد التعديل، إذا لزم الأمر، ستتمكن من إعادة نشره، ثم إنشاء مصنف Excel كقالب باستخدام مصمم المصنف.
 
 توفر لك إمكانات تكامل  Microsoft Office بيئة إنتاجية تساعدك في إنجاز المهمة باستخدام منتجات Office.
 
@@ -38,7 +38,7 @@ ms.locfileid: "7966679"
 
 تم إنشاء تطبيق Excel باستخدام إطار عمل Apps for Office. يوفر إطار العمل هذا واجهة برمجة تطبيقات (API) الويب (API) المستندة إلى JavaScript والتي تمكن التطبيقات من الاتصال بتطبيقات Office. 
 
-وتتمثل أكبر ميزة لهذا الإطار في أنه يمكن تشغيل التطبيقات في مثيلات Excel المحلية (Win32) وExcel Online (‏Microsoft 365) وExcel على Apple iPad. 
+أكبر ميزة لهذا الإطار هي أنه يمكن تشغيل التطبيقات في مثيلات Excel المحلية (Win32) وExcel Online (‏Microsoft 365) وExcel على Apple iPad. 
 
 لتسهيل إدخال البيانات، يوفر تطبيق Excel عمليات البحث والمساعدة في البيانات. توفر حقول التاريخ منتقي التاريخ، وتوفر حقول التعداد (التعداد) قائمة تعداد، وتوفر العلاقات بحثاً عن العلاقة.
 

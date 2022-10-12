@@ -2,18 +2,18 @@
 uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.2-batch-processing-and-batch-servers
 title: معالجة الدُفعة وخوادم الدُفعات
 metadata:
-  title: معالجة الدُفعة وخوادم الدُفعات
-  description: توضح هذه الوحدة معالجة الدُفعات وخوادم الدُفعات في تطبيقات Finance and Operations.
+  title: معالجة الدُفعة‬ وخوادم الدُفعات
+  description: توضح هذه الوحدة معالجة الدُفعات وخوادم الدُفعات في تطبيقات التمويل والعمليات.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9b7ced08d9b41a209927d9c2811a68c6516a76ed
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 60df321fb30f2f4c729956f26427d67e8787bcad
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341832"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575298"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

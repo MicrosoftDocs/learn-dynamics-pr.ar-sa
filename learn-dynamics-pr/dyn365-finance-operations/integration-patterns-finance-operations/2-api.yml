@@ -3,17 +3,17 @@ uid: learn-dynamics.integration-patterns-dynamics-365-finance-operations.2-api
 title: تحديد واجهة برمجة تطبيقات (API) تكامل
 metadata:
   title: تحديد واجهة برمجة تطبيقات (API) تكامل
-  description: تعرف على كيفية اختيار واجهة برمجة تطبيقات (API) تكامل في تطبيقات Finance and Operations.
+  description: تعرف على كيفية اختيار واجهة برمجة تطبيقات للتكامل في تطبيقات التمويل والعمليات.
   ms.date: 07/19/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 787c5352983548df973b5195679f118b006def41
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: ffe8c72096640498695fd617ffa17461e178bff8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361441"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574509"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

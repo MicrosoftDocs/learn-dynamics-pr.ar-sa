@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: b0d3e572c2ebfc7fec0eb10ec657e40a9f924eb1fe70bac1d754f405f378df75
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 049a9e983cca82b1b1762955b04c0261a4365bc9
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7087257"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537486"
 ---
 يجب تكوين إعداد الموازنة الأساسية للشركة الخاصة بك. حدد الشركة **USMF** للتدريب والتعرف على الكيفية.
 
 ## <a name="before-you-begin"></a>قبل البدء
 
-للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance والتي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Finance والتي يتم تثبيتها باستخدام Lifecycle Services.
 
 ## <a name="instructions"></a>الإرشادات 
 

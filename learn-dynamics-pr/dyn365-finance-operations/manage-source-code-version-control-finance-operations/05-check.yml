@@ -8,17 +8,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dc64c2049b50ee43762c44f553fd5962233b74f7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 50ddbc9418bb76a4fb0ce7d346fb7df610823ce8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350592"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577438"
 durationInMinutes: 5
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف عَلى ما تعلمته.
   questions:
-  - content: تقوم بإعداد Visual Studio للاتصال بـ Azure DevOps على جهاز يستضيف بيئة تطبيقات Finance and Operations. فأي مما يأتي يجب عليك القيام به؟
+  - content: تقوم بإعداد Visual Studio للاتصال بـ Azure DevOps على جهاز يستضيف بيئة تطبيقات التمويل والعمليات. فأي مما يأتي يجب عليك القيام به؟
     choices:
     - content: تعيين أذونات مساحة العمل على "مساحة العمل العامة" (محدودة).
       isCorrect: false
@@ -28,7 +28,7 @@ quiz:
       explanation: يجب تعيين المجلد "المشاريع" للفرع في التحكم بالمصادر على المجلد "المشاريع" الخاص بمستندات Visual Studio المحلية.
     - content: تعيين المجلد "بيانات التعريف" للفرع في التحكم بالمصادر على المجلد "الدليل المحلي للحزم" في محرك أقراص AOS.
       isCorrect: true
-      explanation: يعمل تعيين بيانات التعريف على المجلد "الدليل المحلي للحزم" على السماح لبيئة تطبيقات Finance and Operations المستضافة محلياً بتشغيل الكود الذي تم إنشاؤه محلياً في Visual Studio.
+      explanation: يعمل تعيين بيانات التعريف على المجلد "الدليل المحلي للحزم" على السماح لبيئة تطبيقات التمويل والعمليات المستضافة محلياً بتشغيل الكود الذي تم إنشاؤه محلياً في Visual Studio.
     - content: تعيين موقع مساحة العمل على "الخادم".
       isCorrect: false
       explanation: يجب تعيين موقع مساحة العمل على "محلي".

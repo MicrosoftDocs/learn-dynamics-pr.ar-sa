@@ -7,17 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7932445d516d1337424f93e62064e266806e25a3
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9ff989fef0a9a957ff9d49fc786d17906c79f3e2
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750199"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508851"
 title: البرامج التعليمية لاستوديو المساعد في Dynamics 365 Sales Insights
 summary: "[!include[](../includes/module-banner.md)] \n\nيمكن أن يؤدي عرض الأفكار الصحيحة في الوقت المناسب إلى إحداث فرق كبير في الإنتاجية. من المهم تقديم رؤى ذات صلة للبائعين وهي أيضًا مهمة صعبة. توفر Sales Insights العديد من الأفكار المبتكرة من خلال مساعد العلاقة، ولكن بمرور الوقت اكتشفنا أن كل مؤسسة وكل فريق مبيعات مختلف. للمساعدة في ضمان استمرار ارتباط المساعد، سمحنا لك بإضافة رؤى مخصصة وعرضها لفرقك. باستخدام Microsoft Power Automate، يسمح لك استوديو المساعد بإنشاء رؤى من خلال رمز منخفض بدون رمز. \n\nفي هذه الوحدة، ستتعلم كيفية إنشاء رؤى مخصصة متنوعة باستخدام Power Automate. تساعدك البرامج التعليمية التالية على البدء برؤية أساسية مخصصة، معادل مرحباً بالعالم، ونعمل تدريجياً على زيادة التعقيد بينما نمضي قدماً. \n  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء بطاقة معلومات أساسية.\n- إنشاء نموذج رؤى.\n- تكوين رؤى أسبوعية.\n- إنشاء رؤى تذكير.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء بطاقة معلومات أساسية.\n- إنشاء نموذج رؤى.\n- تكوين رؤى أسبوعية.\n- إنشاء رؤى تذكير.\n"
 prerequisites: مؤسسة Dynamics 365 Sales مثبتة عليها [Sales Insights](https://aka.ms/buysalesai/?azure-portal=true). يمكنك إنشاء مؤسسة [تجريبية](https://trials.dynamics.com/?azure-portal=true) وتثبيت [Sales Insights](https://aka.ms/getsalesinsights/?azure-portal=true) من AppSource.
-iconUrl: /learn/achievements/tutorials-sales-insights.svg
+iconUrl: /training/achievements/tutorials-sales-insights.svg
 levels:
 - intermediate
 roles:

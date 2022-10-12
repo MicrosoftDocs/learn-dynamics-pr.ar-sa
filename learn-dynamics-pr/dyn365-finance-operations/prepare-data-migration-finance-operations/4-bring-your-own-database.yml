@@ -3,18 +3,18 @@ uid: learn-dynamics.prepare-data-migration-to-dynamics-365-finance-ops.4-bring-y
 title: إحضار قاعدة بياناتك الخاصة (BYOD)
 metadata:
   title: إحضار قاعدة بياناتك الخاصة (BYOD)
-  description: تصف هذه الوحدة ميزة BYOD لتكوين وتصدير قواعد البيانات إلى Finance and Operations تطبيقات.
+  description: تصف هذه الوحدة ميزة BYOD لتكوين وتصدير قواعد البيانات إلى تطبيقات التمويل والعمليات.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/analytics/export-entities-to-your-own-database
-  ms.openlocfilehash: c2946c4754e7d3ea57638b33eae764c1784f8397
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/analytics/export-entities-to-your-own-database
+  ms.openlocfilehash: 6aa73d0b4e806ce99aafe95d2c40a193c4aaab22
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341838"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574618"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

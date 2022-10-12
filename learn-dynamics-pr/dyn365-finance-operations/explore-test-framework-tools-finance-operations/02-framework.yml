@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
 title: إطار عمل اختبار الوحدة
 metadata:
   title: إطار عمل اختبار الوحدة
-  description: تعرف على إطار عمل اختبار الوحدة في تطبيقات Finance and Operations.
+  description: تعرف على إطار عمل حدث الأعمال في تطبيقات التمويل والعمليات.
   ms.date: 07/01/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a2df4d7032f120b789a8a99dc262a5d9af4f6950
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2a18b7e92a3063339198f5518ea1bcb5552e978d
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330150"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582685"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

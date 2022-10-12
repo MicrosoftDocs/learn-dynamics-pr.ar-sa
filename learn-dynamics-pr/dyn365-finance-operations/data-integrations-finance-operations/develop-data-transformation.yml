@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a77e94a18d6a96c5578838da2cf74ada01d26dde
-  ms.sourcegitcommit: f3a874e20e600228d925f93f97a0402023909c2b
+  ms.openlocfilehash: ecc6350f8993973d7e771ef83d1379f10db28810
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 03/24/2022
-  ms.locfileid: "8484227"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575568"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

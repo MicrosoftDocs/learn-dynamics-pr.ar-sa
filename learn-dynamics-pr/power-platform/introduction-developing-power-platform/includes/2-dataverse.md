@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a99929d915b9cd09b400caf6ddbfa071887d8927
-ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+ms.openlocfilehash: 73f8f0d479d5e991d535ae6b2adcbaaf22e993e9
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "8771678"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9583855"
 ---
 يتيح لك Dataverse تخزين البيانات التي تستخدمها تطبيقات الأعمال وإدارتها بأمان. يتم تخزين البيانات داخل Dataverse ضمن مجموعة من الجداول (يشار إليها سابقاً باسم الكيانات). الجدول عبارة عن مجموعة من الصفوف (يشار إليها سابقاً باسم السجلات) والأعمدة (يشار إليها سابقاً باسم الحقول/السمات). يتم تصميم كل عمود في الجدول لتخزين نوع معين من البيانات، على سبيل المثال، الاسم والعمر والراتب وما إلى ذلك. يتضمن Dataverse مجموعة أساسية من الجداول القياسية التي تغطي سيناريوهات نموذجية، ولكن يمكنك أيضاً إنشاء جداول مخصصة خاصة بمؤسستك ثم تعبئتها بالبيانات باستخدام Power Query. ‏‫يمكن لمنشئي التطبيقات بعد ذلك استخدام Power Apps لإنشاء تطبيقات ثرية تستخدم هذه البيانات.
 
@@ -45,7 +45,7 @@ ms.locfileid: "8771678"
 
 بصفتك مطور Power Platform، تحتاج إلى فهم الفجوات الموجودة بين ما يمكن إنجازه من خلال التكوين مقابل الكود. في بعض الأحيان، يمكن ألا توفر الميزات الحالية الوظائف اللازمة لتلبية المتطلبات ويوفر Dataverse نقاطاً متعددة حيث يمكن للمطورين توسيع الوظائف المشتركة باستخدام الكود.
 
-لتحديد الفجوات حيث لا توجد ميزات بالفعل، فمن المهم لجميع مطوري Power Platform التعرف على قدرات Dataverse. إذا لم تكن على دراية ببناء التطبيقات باستخدام Power Apps التي تستخدم Dataverse, فإننا نوصيك بإكمال مسار التعليم [إنشاء تطبيق مستند إلى النموذج في Power Apps](/learn/paths/create-app-models-business-processes/?azure-portal=true) واستعراض [إنشاء تطبيق اللوحة من البداية باستخدام Microsoft Dataverse](/power-apps/maker/canvas-apps/data-platform-create-app-scratch/?azure-portal=true) في Power Apps وثائق المنشئ.
+لتحديد الفجوات حيث لا توجد ميزات بالفعل، فمن المهم لجميع مطوري Power Platform التعرف على قدرات Dataverse. إذا لم تكن على دراية ببناء التطبيقات باستخدام Power Apps التي تستخدم Dataverse, فإننا نوصيك بإكمال مسار التعليم [إنشاء تطبيق مستند إلى النموذج في Power Apps](/training/paths/create-app-models-business-processes/?azure-portal=true) واستعراض [إنشاء تطبيق اللوحة من البداية باستخدام Microsoft Dataverse](/power-apps/maker/canvas-apps/data-platform-create-app-scratch/?azure-portal=true) في Power Apps وثائق المنشئ.
 
 ## <a name="types-of-extensibility"></a>أنواع قابلية التوسعة
 
@@ -57,7 +57,7 @@ ms.locfileid: "8771678"
 
 تقوم مداخل Power Apps باستخدام [لغة قوالب Liquid](/power-apps/maker/portals/liquid/liquid-overview/?azure-portal=true) لبناء محتوى ويب ديناميكي قائم على Dataverse وJavaScript لتوسيع تجربة المستخدم على صفحات الويب التي تتفاعل مع Dataverse.
 
-في حين أن تطبيقات اللوحة لا توفر قدرات البرمجة النصية، إلا أنها مبنية باستخدام [Microsoft Power Fx](/power-platform/power-fx/overview/?azure-portal=true). Power Fx هي لغة ذات عدد قليل من الأكواد سيتم استخدامها عبر Microsoft Power Platform. إنها لغة برمجة ذات أغراض عامة وكتابة قوية وتوضيحية وعملية. يجب أن يشعر مطورو النظام الأساسي الأكفاء بالراحة عند استخدام اللغة وتحريرها في ملفات المصدر إذا لزم الأمر، ويكونوا قادرين على تصحيح التطبيقات باستخدام أدوات مثل Monitor. لمزيد من المعلومات، راجع [نظرة عامة على Power Apps باستخدام المراقب](/power-apps/maker/monitor-overview/?azure-portal=true).
+في حين أن تطبيقات اللوحة لا توفر قدرات البرمجة النصية، إلا أنها مبنية باستخدام [Microsoft Power Fx](/power-platform/power-fx/overview/?azure-portal=true). Power Fx هي لغة ذات عدد قليل من الرموز سيتم استخدامها عبر Microsoft Power Platform. إنها لغة برمجة ذات أغراض عامة وكتابة قوية وتوضيحية وعملية. يجب أن يشعر مطورو النظام الأساسي الأكفاء بالراحة عند استخدام اللغة وتحريرها في ملفات المصدر إذا لزم الأمر، ويكونوا قادرين على تصحيح التطبيقات باستخدام أدوات مثل Monitor. لمزيد من المعلومات، راجع [نظرة عامة على Power Apps باستخدام المراقب](/power-apps/maker/monitor-overview/?azure-portal=true).
 
 TypeScript هي لغة مُوصى باستخدامها في العديد من سيناريوهات البرمجة النصية. نظراً إلى أنه يتم تحويل TypeScript إلى JavaScript، يتم تعميم كلتا اللغتين في مصطلح "برنامج نصي للعميل". باستخدام البرنامج النصي للعميل، يمكنك تكوين معالجات أحداث النماذج بالطريقة نفسها التي تستخدمها لتكوين عنصر نموذج HTML. يمكنك أيضاً استدعاء وظائف البرنامج النصي من داخل شريط الأوامر (الشريط) ويمكن أن تستهلك موارد ويب البرنامج النصي للعميل من داخل موارد ويب HTML.
 
@@ -90,6 +90,6 @@ TypeScript هي لغة مُوصى باستخدامها في العديد من س
 
 ## <a name="consuming-the-common-data-model"></a>استخدام Common Data Model
 
-يتم الاحتفاظ بCommon Data Model في [GitHub](https://github.com/microsoft/CDM/?azure-portal=true). يتم الاحتفاظ بالمخططات على أنها ملفات بتنسيق json. يمكن العثور على مرجع الكيان الكامل في [Microsoft Docs](/common-data-model/schema/core/applicationCommon/overview/?azure-portal=true). توفر Microsoft أيضاً [متصفح الكيان المرئي](https://microsoft.github.io/CDM/?azure-portal=true) الذي يسمح للمستخدمين بالتنقل بشكلٍ مرئي بين كيانات Common Data Model.
+يتم الاحتفاظ بCommon Data Model في [GitHub](https://github.com/microsoft/CDM/?azure-portal=true). يتم الاحتفاظ بالمخططات على أنها ملفات بتنسيق json. يمكن العثور على مرجع الكيان بالكامل في [نظرة عامة على applicationCommon](/common-data-model/schema/core/applicationCommon/overview/?azure-portal=true). توفر Microsoft أيضاً [متصفح الكيان المرئي](https://microsoft.github.io/CDM/?azure-portal=true) الذي يسمح للمستخدمين بالتنقل بشكلٍ مرئي بين كيانات Common Data Model.
 
 عند البناء مقابل Common Data Model، تحتاج إلى فهم نهج الطبقات التي يتم اتباعه لبناء مخطط التطبيق المخصص. في أساس تطبيق Common Data Model يوجد مخطط أساسي يحتوي على كيانات شائعة الاستخدام مثل "الحساب" و"جهة الاتصال". ومن ثمَّ، يمكنك وضع وظيفة أو نماذج خاصة بالمجال لزيادة تسريع تطوير التطبيق المخصص الخاص بك، وبعد ذلك يمكنك بناء النماذج الخاصة بك. نوصيك بأنه إذا كان لديك سيناريو شائع تكون على أساسه إعادة استخدام البيانات ذات قيمة، فيجب عليك الانضمام إلى Open Data Initiative وبدء الإسهام في Common Data Model أيضاً.

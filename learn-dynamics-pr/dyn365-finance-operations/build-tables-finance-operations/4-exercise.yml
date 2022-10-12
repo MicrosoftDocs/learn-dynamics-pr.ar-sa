@@ -4,16 +4,16 @@ title: تمرين عملي - إنشاء جدول وإضافة حقول وإنش�
 labId: 63330
 metadata:
   title: تمرين عملي - إنشاء جدول وإضافة حقول وإنشاء مجموعات الحقول
-  description: تدّرب على إنشاء جدول وإضافة حقول وإنشاء مجموعات الحقول في تطبيقات Finance and Operations.
+  description: تدّرب على إنشاء جدول وإضافة حقول وإنشاء مجموعات الحقول في تطبيقات التمويل والعمليات.
   ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 55cc60b511c7e73f08606d3defd12a79b691c9e7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 71422727754a34a56a729557f3ebfdace4469362
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340469"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575708"
 durationInMinutes: 20
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)]\n[!include[](includes/4-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

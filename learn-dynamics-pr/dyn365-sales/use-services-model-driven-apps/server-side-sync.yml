@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-services-model-driven-apps.server-side-sync
+title: المزامنة من جانب الخادم
+metadata:
+  title: المزامنة من جانب الخادم
+  description: تعرّف على كيفية استخدام المزامنة من جانب الخادم.
+  ms.date: 09/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 24da91ba7c8ab41291d067559aa1c67d322e4dc2
+  ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9584590"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/server-side-sync.md)]

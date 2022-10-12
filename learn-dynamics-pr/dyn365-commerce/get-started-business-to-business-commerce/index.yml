@@ -8,17 +8,17 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 4f1e40315e7ec29f7b368d46aba035a469b977a0
-  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+  ms.openlocfilehash: 3e5940b49f5632befa388ef6ad7c28e8f9ccea35
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/19/2022
-  ms.locfileid: "9174111"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578028"
 title: الشروع في العمل باستخدام التجارة الإلكترونية B2B في‬ Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة النمطية المفاهيم والمعلومات والعمليات الخاصة بموقع التجارة الإلكترونية الذي يتعلق بعمليات متاجرة عمل-عمل في Dynamics 365 Commerce. تقدم هذه الوحدة النمطية مفاهيم مهمة، مثل نظام إدارة المحتوى ومكتبة الوحدات. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة مفاهيم Dynamics 365 Commerce.\n-   اكتشاف مفاهيم Dynamics 365 Commerce ومفاهيم التجارة الإلكترونية ومتاجرة عمل-عمل.\n-   التعرف على مكتبة الوحدات.\n-   التعرف على نظام إدارة المحتوى.\n-   مراجعة إدارة الأصول الرقمية.\n"
 prerequisites: "- المعرفة الأساسية بتطبيقات التمويل والعمليات\n-   المعرفة الأساسية بتطبيق Dynamics 365 Commerce \n-   المعرفة بعمليات البيع بالتجزئة\n"
-iconUrl: /learn/achievements/get-started-business-to-business-commerce.svg
+iconUrl: /training/achievements/get-started-business-to-business-commerce.svg
 levels:
 - beginner
 roles:

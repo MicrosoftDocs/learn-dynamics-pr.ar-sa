@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1373594fd399a5e8fbb2f27b472ea40df80a1d25
-ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+ms.openlocfilehash: 18509b53e0191e807a6ce86a762c82512de2623d
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "9174053"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577838"
 ---
 
 يجب أن يكون لديك كيان قانوني واحد على الأقل لتمثيل أعمالك في تطبيقات التمويل والعمليات. يمكن للكيان القانوني إبرام عقود قانونية ومطلوب منه إعداد البيانات المالية التي تقوم بالإبلاغ عن أداءها.

@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 38bdd1708c0ed1911c223360ca5cbbcb0e69280c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 79fe7df670c67489d445bde50e0318ed1e2e8dd9
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749645"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581068"
 title: الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات. \n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- موقع مستندات Microsoft\n- التعليمات المضمّنة في المنتجات\n- كيفية تخصيص مواضيع التعليمات\n- حماية الخصوصية والبيانات الشخصية الخاصة بعملاءك\n"
-prerequisites: بلا
-iconUrl: /learn/achievements/get-help-with-d365-f-and-o.svg
+prerequisites: لا شيء
+iconUrl: /training/achievements/get-help-with-d365-f-and-o.svg
 levels:
 - beginner
 roles:

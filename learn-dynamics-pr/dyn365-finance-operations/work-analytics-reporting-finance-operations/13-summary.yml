@@ -2,18 +2,18 @@
 uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.13-analytics-reporting-summary
 title: الملخص
 metadata:
-  title: الملخص
-  description: ملخص العمل مع التقارير والتحليلات في الوحدة النمطية لتطبيقات Finance and Operations.
+  title: الملخص‬
+  description: ملخص العمل مع التقارير والتحليلات في الوحدة النمطية لتطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f25b4750ca2d4cd77d80c36580d9bda5bdc83fc7
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4fb5aa84afd2589fb6ee15f70a78f6a586ddd932
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7364985"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573479"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

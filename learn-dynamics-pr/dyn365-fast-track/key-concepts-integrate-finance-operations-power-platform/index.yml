@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 100f18555139b2e77ce4c2bdd7c6e3a04b88241a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2c9a3f215b364dc7dc0371cfe4a12d89ed565523
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753647"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577808"
 title: استخدام المفاهيم الأساسية والإعداد لدمج تطبيقات التمويل والعمليات مع Microsoft Power Platform
-summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة إمكانات Microsoft Dynamics 365 وMicrosoft Dataverse، وتصف كيانات/جداول الكتابة المزدوجة والافتراضية، وتستعرض مفاهيم التطبيق الأساسي بين التطبيقين.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- راجع تماثل التطبيق الرئيسي، مثل مفهوم الشركة ونموذج الأمان الخاص بالتمويل والعمليات وMicrosoft Dataverse.\n-   اكتشف المصادقة والتخويل لتطبيقات التمويل والعمليات وDataverse لكيانات الكتابة المزدوجة والافتراضية.\n- قم بإعداد كيانات الكتابة المزدوجة والافتراضية.\n"
-prerequisites: "-   المعرفة الأساسية بمفاهيم التكامل بين تطبيقات التمويل والعمليات وDataverse باستخدام كيانات الكتابة المزدوجة والافتراضية\n-   المعرفة الأساسية بكيانات الكتابة المزدوجة والافتراضية\n-   المعرفة الأساسية بتطبيقات التمويل والعمليات \n-   المعرفة الأساسية بـ Microsoft Power Platform \n-   معرفة Microsoft Dataverse \n-   معرفة كيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات \n-   معرفة إمكانات تكامل Microsoft Dynamics 365 Lifecycle Services \n"
-iconUrl: /learn/achievements/key-concepts-integrate-finance-operations-power-platform.svg
+summary: "[!include[](../includes/module-banner.md)] \nتقدم هذه الوحدة إمكانات Microsoft Dynamics 365 وMicrosoft Dataverse، وتصف الكتابة المزدوجة والكيانات/الجداول الظاهرية، وتراجع مفاهيم التطبيق الأساسية بين التطبيقين.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- مراجعة تماثل التطبيق الرئيسي، مثل مفهوم الشركة ونموذج الأمان الخاص بالتمويل والعمليات وMicrosoft Dataverse.\n-   اكتشف المصادقة والتخويل لتطبيقات التمويل والعمليات وDataverse للكتابة المزدوجة والكيانات/الجداول الظاهرية.\n- إعداد الكتابة المزدوجة والكيانات الظاهرية.\n"
+prerequisites: "-   المعرفة الأساسية بمفاهيم التكامل بين تطبيقات التمويل والعمليات وDataverse باستخدام الكتابة المزدوجة والكيانات الظاهرية\n-   المعرفة الأساسية بالكتابة المزدوجة والكيانات الظاهرية\n-   المعرفة الأساسية بتطبيقات التمويل والعمليات \n-   المعرفة الأساسية بتطبيق Microsoft Power Platform \n-   المعرفة بتطبيق Microsoft Dataverse \n-   المعرفة بكيانات بيانات تطبيقات التمويل والعمليات ومساحة عمل إدارة البيانات \n-   المعرفة بإمكانات تكامل Microsoft Dynamics Lifecycle Services \n"
+iconUrl: /training/achievements/key-concepts-integrate-finance-operations-power-platform.svg
 levels:
 - advanced
 roles:

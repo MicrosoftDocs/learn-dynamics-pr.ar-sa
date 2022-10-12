@@ -3,17 +3,17 @@ uid: learn-dynamics.external-data-sources-dynamics-365-finance-operations.4-perf
 title: تحسين كيانات البيانات لتحقيق أداء أفضل
 metadata:
   title: تحسين كيانات البيانات لتحقيق أداء أفضل
-  description: تعرّف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل في تطبيقات التمويل والعمليات.
   ms.date: 04/29/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 29cd201885475d88c666349691fbb7a39fed4543
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9f1987da151fa518d51dd431a25e8b765ae574dd
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331193"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580508"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

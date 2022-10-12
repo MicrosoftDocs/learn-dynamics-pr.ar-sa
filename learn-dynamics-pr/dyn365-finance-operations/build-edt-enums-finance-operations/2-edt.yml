@@ -3,17 +3,17 @@ uid: learn-dynamics.build-edt-enums-dynamics-365-finance-operations.2-edt
 title: أنواع البيانات الموسعة وخصائص العناصر
 metadata:
   title: أنواع البيانات الموسعة وخصائص العناصر
-  description: تعرف على أنواع البيانات الموسعة وخصائص العناصر في تطبيقات Finance and Operations.
+  description: تعرف على أنواع البيانات الموسعة وخصائص العناصر في تطبيقات التمويل والعمليات.
   ms.date: 06/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2336dec8c3091da3c9498a840a91aef23a400c43
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e78802d2722405f95de796e2fc15a1e56b70fc4e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7366495"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576638"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

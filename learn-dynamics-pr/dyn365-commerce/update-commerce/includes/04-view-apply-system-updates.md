@@ -1,24 +1,24 @@
 ---
-ms.openlocfilehash: e28a1bfc6e21e1f89867f773f657b6560f1c39ee
-ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+ms.openlocfilehash: a72fa976baea643c2464ec8839d33489f5ff69d4
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "9300697"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536109"
 ---
 لعرض التحديثات المتوفرة لبيئتك، اتبع الخطوات التالية:
 
-1. قم بتسجيل الدخول إلى LCS باستخدام بيانات اعتمادك.
-2. في مشروع LCS، حدد بيئة.
+1. قم بتسجيل الدخول إلى Lifecycle Services باستخدام بيانات الاعتماد الخاصة بك.
+2. في مشروع Lifecycle Services، حدد بيئة.
 3. في صفحة **تفاصيل البيئة** قم بالتمرير لأسفل لرؤية **التحديثات المتاحة**.
 
-    [![لقطة شاشة لصفحة التحديثات المتوفرة في LCS](../media/available-updates-ss.jpg)](../media/available-updates-ss.jpg#lightbox)
+    [![لقطة شاشة لصفحة التحديثات المتوفرة في Lifecycle Services](../media/available-updates-ss.jpg)](../media/available-updates-ss.jpg#lightbox)
  
 
-لتطبيق تحديث على بيئة غير إنتاجية باستخدام LCS، اتبع الخطوات التالية:
+لتطبيق تحديث على بيئة غير إنتاجية باستخدام Lifecycle Services، اتبع الخطوات التالية:
 
-1. قم بتسجيل الدخول إلى LCS باستخدام بيانات اعتمادك.
-2. في مشروع LCS، حدد بيئة.
+1. قم بتسجيل الدخول إلى Lifecycle Services باستخدام بيانات الاعتماد الخاصة بك.
+2. في مشروع Lifecycle Services، حدد بيئة.
 3. افتح عرض **تفاصيل البيئة** للبيئة حيث تريد تطبيق التحديث.
 4. حدد التحديث الذي تريد تثبيته في قسم **التحديثات المتوفرة**.
 5. حدد **عرض التحديث**.
@@ -44,13 +44,13 @@ ms.locfileid: "9300697"
 
 ## <a name="update-a-commerce-scale-unit"></a>تحديث Commerce Scale Unit 
 
-لتحديث (Microsoft-managed) Commerce Scale Unit (CSU)، اتبع الخطوات التالية:
+لتحديث Commerce Scale Unit ‏(CSU) (المُدارة بواسطة Microsoft)، اتبع الخطوات التالية:
 
-1. قم بتسجيل الدخول إلى LCS باستخدام بيانات اعتمادك.
+1. قم بتسجيل الدخول إلى Lifecycle Services باستخدام بيانات الاعتماد الخاصة بك.
 
-2. في مشروع LCS، حدد بيئتك التجارية.
+2. في مشروع Lifecycle Services، حدد بيئة Commerce الخاصة بك.
 
-3. في قسم **إدارة البيئة** حدد **إدارة** في قسم **ميزات البيئة** بجوار **التجارة**.
+3. في قسم **إدارة البيئة** حدد **إدارة** في قسم **ميزات البيئة** بجوار **Commerce**.
 
     [![لقطة شاشة لمثال لوظيفة الإدارة](../media/update-manage-ss.jpg)](../media/update-manage-ss.jpg#lightbox)
     

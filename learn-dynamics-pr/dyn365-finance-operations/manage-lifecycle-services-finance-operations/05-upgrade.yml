@@ -3,17 +3,17 @@ uid: learn-dynamics.manage-lcs-dynamics-365-finance-operations.05-upgrade
 title: إدارة عملية ترقية الأكواد
 metadata:
   title: إدارة عملية ترقية الأكواد
-  description: تعرف على كيفية إدارة عملية ترقية الأكواد في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إدارة عملية ترقية الأكواد في تطبيقات التمويل والعمليات.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cddf4fb2c89a7383ce7abf9ed7d423af3eb55d3e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4d23c56ac3adfea7aa1766992d86587d489b8c6a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7338758"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575988"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

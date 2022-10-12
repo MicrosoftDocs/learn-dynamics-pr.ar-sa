@@ -3,17 +3,17 @@ uid: learn-dynamics.design-and-build-mobile-apps-for-dynamics-365-finance-ops.9-
 title: عرض توضيحي
 metadata:
   title: عرض توضيحي
-  description: توضح هذه الوحدة كيفية إنشاء تطبيقات الأجهزة المحمولة واستخدامها في تطبيقات Finance and Operations.
+  description: توضح هذه الوحدة كيفية إنشاء تطبيقات الأجهزة المحمولة واستخدامها في تطبيقات التمويل والعمليات.
   ms.date: 03/08/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2450ceb5781eba159e75325870e1472562005178
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3e87bb597d445ce88eb54d6f92a96db01c372a8e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335194"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582188"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

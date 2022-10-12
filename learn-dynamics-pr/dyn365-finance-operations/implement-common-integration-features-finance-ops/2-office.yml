@@ -3,17 +3,17 @@ uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-financ
 title: تكامل Microsoft Office
 metadata:
   title: تكامل Microsoft Office
-  description: توضح هذه الوحدة كيفية استخدام تكامل Microsoft Office في Finance and Operations لتصدير البيانات إلى Excel.
+  description: تصف هذه الوحدة كيفية استخدام تكامل Microsoft Office في التمويل والعمليات لتصدير البيانات إلى Excel.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d85534cb77639a92e052bfda5b19754efc6f4811
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d027b5bdb3835a1f1e651a2aeef87456b6f49bac
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365869"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579988"
 durationInMinutes: 12
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.use-services-model-driven-apps.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: d32e33f7be7bd1f1c878684e87d47e78ce9a9135
+  ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9584617"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
+  questions:
+  - content: تريد أن يتمكن المستخدمون من ربط المستندات بسجلات Dynamics 365 بسهولة. من المهم أن يتمكن جميع المستخدمين من الوصول بسهولة إلى هذه المستندات، وإذا لزم الأمر، يمكن للمستخدمين بسهولة إعادة المستندات إلى إصدار سابق. كيف تقدم هذا؟
+    choices:
+    - content: تكامل OneNote
+      isCorrect: false
+      explanation: توفر إمكانات تكامل Dynamics 365 مع Microsoft SharePoint للمؤسسة القدرة على إقران مخزن المستندات وإدارته في SharePoint مباشرةً من سجلات Dynamics 365. بمجرد التكوين، يوفر هذا العمود الفقري لعمليات التكامل الأخرى مثل OneDrive for Business وOne Note.
+    - content: الملاحظات والمرفقات
+      isCorrect: false
+      explanation: توفر إمكانات تكامل Dynamics 365 مع Microsoft SharePoint للمؤسسة القدرة على إقران مخزن المستندات وإدارته في SharePoint مباشرةً من سجلات Dynamics 365. بمجرد التكوين، يوفر هذا العمود الفقري لعمليات التكامل الأخرى مثل OneDrive for Business وOne Note.
+    - content: تكامل Yammer
+      isCorrect: false
+      explanation: توفر إمكانات تكامل Dynamics 365 مع Microsoft SharePoint للمؤسسة القدرة على إقران مخزن المستندات وإدارته في SharePoint مباشرةً من سجلات Dynamics 365. بمجرد التكوين، يوفر هذا العمود الفقري لعمليات التكامل الأخرى مثل OneDrive for Business وOne Note.
+    - content: تكامل SharePoint
+      isCorrect: true
+      explanation: توفر إمكانات تكامل Dynamics 365 مع Microsoft SharePoint للمؤسسة القدرة على إقران مخزن المستندات وإدارته في SharePoint مباشرةً من سجلات Dynamics 365. بمجرد التكوين، يوفر هذا العمود الفقري لعمليات التكامل الأخرى مثل OneDrive for Business وOne Note.
+  - content: تحتاج إلى تكوين Microsoft Dataverse للعمل مع Microsoft Exchange محلي. عند تكوين ملف تعريف خادم البريد الإلكتروني، ما نوع الخادم الذي يجب عليك تحديده؟
+    choices:
+    - content: مختلط
+      isCorrect: true
+      explanation: يؤدي تكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" إلى تمكين Dataverse للعمل مع Microsoft Exchange ‏المحلي.
+    - content: POP3/SMTP
+      isCorrect: false
+      explanation: يؤدي تكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" إلى تمكين Dataverse للعمل مع Microsoft Exchange ‏المحلي.
+    - content: محلي
+      isCorrect: false
+      explanation: يؤدي تكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" إلى تمكين Dataverse للعمل مع Microsoft Exchange ‏المحلي.
+    - content: خدمات ويب Exchange
+      isCorrect: false
+      explanation: يؤدي تكوين ملف تعريف خادم البريد الإلكتروني إلى "مختلط" إلى تمكين Dataverse للعمل مع Microsoft Exchange ‏المحلي.
+  - content: أحد الأسباب الرئيسية التي تجعل الأشخاص يستخدمون Dataverse للتطبيقات هو تخزين جميع ___________ العملاء في مكان واحد، بحيث يمكن لأي شخص لديه الأذونات المناسبة رؤية جميع سجلات العملاء ذات الصلة. املاء الفراغ.
+    choices:
+    - content: رسائل البريد الإلكتروني
+      isCorrect: false
+      explanation: يسمح Dataverse للمؤسسات بتخزين جميع اتصالات العملاء في مكان واحد. يتضمن ذلك رسائل البريد الإلكتروني والرسائل والمكالمات الهاتفية والمواعيد والمزيد.
+    - content: الخطابات
+      isCorrect: false
+      explanation: يسمح Dataverse للمؤسسات بتخزين جميع اتصالات العملاء في مكان واحد. يتضمن ذلك رسائل البريد الإلكتروني والرسائل والمكالمات الهاتفية والمواعيد والمزيد.
+    - content: الملاحظات
+      isCorrect: false
+      explanation: يسمح Dataverse للمؤسسات بتخزين جميع اتصالات العملاء في مكان واحد. يتضمن ذلك رسائل البريد الإلكتروني والرسائل والمكالمات الهاتفية والمواعيد والمزيد.
+    - content: الاتصالات
+      isCorrect: true
+      explanation: يسمح Dataverse للمؤسسات بتخزين جميع اتصالات العملاء في مكان واحد. يتضمن ذلك رسائل البريد الإلكتروني والرسائل والمكالمات الهاتفية والمواعيد والمزيد.

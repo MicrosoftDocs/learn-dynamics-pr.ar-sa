@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2f6f38000786b31d86eca6aa7a2f0750be10d6ec
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c447abfa032d438882a295e6a7d3ca93be710fba
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751078"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579748"
 title: الشروع في العمل باستخدام Lifecycle Services لتطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nلتثبيت تطبيقات التمويل والعمليات وصيانتها في سحابة Microsoft Azure أو محليًا، يجب عليك استخدام Microsoft Dynamics Lifecycle Services لإدارة العملية. لنبدأ من خلال النظر في الوظائف العامة والأدوات.   \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات خدمات دورة الحياة لتطبيقات التمويل والعمليات\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشكلات وتحليل النتائج\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم وظائف وأدوات Lifecycle Services لتطبيقات التمويل والعمليات\n- إعادة استخدام الأصول الموجودة ونسخ البيانات ومشاركتها\n- فهم وظيفة مسجل المهام\n- إنشاء نموذج عملية أعمال \n- تحديد الثغرات وتحليلها باستخدام أداة تكوين عمليات الأعمال\n- تشغيل أداة البحث عن المشكلات وتحليل النتائج\n"
 prerequisites: >
   - المعرفة العامة بـ Microsoft Windows
 
@@ -24,7 +24,7 @@ prerequisites: >
   - خبرة في استخدام Windows Server وActive Directory والشبكات
 
   - فهم SQL Server ووحدات التحكم بالمجال وخدمات الويب
-iconUrl: /learn/achievements/get-started-with-lcs.svg
+iconUrl: /training/achievements/get-started-with-lcs.svg
 levels:
 - intermediate
 roles:

@@ -7,15 +7,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 253e37751bdf2f70946fea86962985ab7639ff35
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: bc717158bf2ebda9cc664d9b53c3d1fb065c9a97
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748480"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519201"
 title: تكوين lean manufacturing في Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)]\n\nتتكون بنية lean manufacturing في Dynamics 365 Supply Chain Management من تدفقات الإنتاج والأنشطة وقواعد كانبان. يمكنك استخدام lean manufacturing في بيئة تصنيع موحدة تجمع بين العديد من استراتيجيات التوريد والإنتاج والاستعانة بالمصادر.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تكوين المعلمات.  \n- إنشاء تدفقات القيم.\n- إنشاء تدفقات الإنتاج.\n- تكوين خلايا عمل lean manufacturing.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تكوين المعلمات.  \n- إنشاء تدفقات القيم.\n- إنشاء تدفقات الإنتاج.\n- تكوين خلايا عمل lean manufacturing.\n"
 prerequisites: >
   - المعرفة العامة بعمليات التصنيع
 
@@ -26,7 +26,7 @@ prerequisites: >
   - فهم كيفية التعامل مع إدارة المستودعات
 
   - القدرة على استخدام Supply Chain Management للمعالجة الأساسية
-iconUrl: /learn/achievements/configure-lean-manufacturing-in-microsoft-dynamics-365-for-finance-and-operations.svg
+iconUrl: /training/achievements/configure-lean-manufacturing-in-microsoft-dynamics-365-for-finance-and-operations.svg
 levels:
 - intermediate
 roles:

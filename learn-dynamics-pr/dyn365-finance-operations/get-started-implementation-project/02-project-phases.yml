@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-implementation-project.02-project-phases
 title: مراحل المشروع
 metadata:
   title: مراحل المشروع
-  description: تستعرض هذه الوحدة المراحل المختلفة لمشروع تنفيذ Finance and Operations.
+  description: تستعرض هذه الوحدة المراحل المختلفة لمشروع تنفيذ تطبيقات التمويل والعمليات.
   ms.date: 07/27/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5a5748df075ba7a8462ef5e7810444ad26e44a30
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 03208a76a963831de6cb68ba6ad1aedd5587c4ec
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347877"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574809"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/02-project-phases.md)]"

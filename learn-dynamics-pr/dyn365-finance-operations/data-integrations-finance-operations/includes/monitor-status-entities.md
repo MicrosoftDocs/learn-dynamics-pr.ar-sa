@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 093926a9085f6f23d8a4d31a01e8ceb775dee1ca
-ms.sourcegitcommit: 442020b85a494c94b76f90102daf2916649c8c2e
+ms.openlocfilehash: 53cba23383cf726c05c1059c80d14635ace30462
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/28/2022
-ms.locfileid: "8490176"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579248"
 ---
 كيان البَيانات عبارة عن مجموعة من جدول واحد أو عدة جداول مرتبطة ببعضها البعض مما يسهل تجريد الاتصال الداخلي بينهما. تلعب كيانات البَيانات دورًا مهمًا في عملية التكامل. باستخدام كيان بَيانات، يُمكنك تشغيل تكامل متزامن من خلال نقاط نهاية OData. 
 

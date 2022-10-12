@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/azure/devops/test/run-manual-tests?view=azure-devops
-  ms.openlocfilehash: 3c76b2f1c864b265ea0d121aeb28e04426c9192c
-  ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+  ms.custom: https://learn.microsoft.com/azure/devops/test/run-manual-tests?view=azure-devops
+  ms.openlocfilehash: a612d13fa82d7a9aa9cb3eff8a97fe8eb9a08577
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9178650"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577408"
 durationInMinutes: 17
 content: >-
   [!include[](../includes/unit-banner.md)]

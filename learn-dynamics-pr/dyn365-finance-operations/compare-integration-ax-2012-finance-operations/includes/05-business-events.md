@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 5922fb63488c06b6e27918de8cf42c852779a124
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 589c082aedc0ec312e78b3b82bd1962624913fca
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7351835"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575198"
 ---
-تعمل أحداث الأعمال على تمكين عمليات تكامل سير العمل بين تطبيقات Finance and Operations والأنظمة الخارجية بطريقة منفصلة. 
+تعمل أحداث الأعمال على تمكين عمليات تكامل سير العمل بين تطبيقات التمويل والعمليات والأنظمة الخارجية بطريقة منفصلة. 
 
 - **أحداث الأعمال الثابتة**- يجب ألا يتم إرسال أحداث أعمال خاطئة إلى المستلم. إذا تم إرسال حدث أعمال خاص بتأكيد أمر الشراء، فيجب على المستلم الوثوق في أن أمر الشراء تم تأكيده بالفعل. يجب أن يضمن اختيار التصميم طبيعة الحركات هذه. 
 
@@ -20,6 +20,4 @@ ms.locfileid: "7351835"
 
 ![الرسم التخطيطي للأنواع المختلفة من أحداث الأعمال.](../media/business-event.png)
 
-للحصول على مزيد من المعلومات، راجع [استهلاك أحداث الأعمال في تطبيقات Finance and Operations.](/learn/modules/business-events-finance-operations/?azure-portal=true).
-
-
+لمزيد من المعلومات، راجع [تستهلك الأحداث التجارية في تطبيقات التمويل والعمليات.](/training/modules/business-events-finance-operations/?azure-portal=true).

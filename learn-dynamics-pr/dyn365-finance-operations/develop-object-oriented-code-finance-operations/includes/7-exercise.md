@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: c63c735bb07bcee1ae3b1f8e88f4c5fa8d03bb57607a49c47947b3422d7d51f4
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 6f028f7e5966bf59dc72803f16b38dde8bad1a6d
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7094337"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579055"
 ---
 أنت مطور يجب عليه أن يقوم بإجراء تخصيص لأسلوب إدراج `CustTable`. عند إنشاء العميل، إذا كان التقدير الائتماني للعميل أقل من 200، فيجب حظر العميل لجميع عمليات التسليم والفواتير. يجب أن تظهر مطالبة لتنبيه الشخص الذي يقوم بإدخال تفاصيل العميل. 
  
 ## <a name="before-you-begin"></a>قبل البدء
 
-للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في تطبيقات Finance and Operations والتي يتم تثبيتها باستخدام Lifecycle Services (LCS). ستحتاج أيضاً إلى بيئة مطور وترخيص تجريبي أو دائم باستخدام Visual Studio.
+للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في تطبيقات التمويل والعمليات والتي يتم تثبيتها باستخدام Lifecycle Services. ستحتاج أيضاً إلى بيئة مطور وترخيص تجريبي أو دائم باستخدام Visual Studio.
 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد

@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 986833ae75b15d5db7974c6b8f1d74cea59e8850
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7916c1d314b37e312860e27e2557135f5e69b568
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362001"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581108"
 durationInMinutes: 3
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -25,7 +25,7 @@ quiz:
       explanation: لا تستخدم Visual Studio لإنشاء مشروع تصدير.
     - content: مساحة عمل إدارة البيانات
       isCorrect: true
-      explanation: يمكنك إنشاء مشروعات تصدير البيانات في مساحة عمل إدارة البيانات في تطبيقات Finance and Operations.
+      explanation: يمكنك إنشاء مشاريع تصدير البيانات في مساحة عمل إدارة البيانات في تطبيقات التمويل والعمليات.
     - content: SQL Server Management Studio
       isCorrect: false
       explanation: لا تستخدم SQL Server Management Studio لإنشاء مشروع تصدير.

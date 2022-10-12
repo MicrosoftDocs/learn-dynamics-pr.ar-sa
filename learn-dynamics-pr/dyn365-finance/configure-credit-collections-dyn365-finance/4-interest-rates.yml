@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/set-up-interest-rates-interest-code
-  ms.openlocfilehash: a47ddf7e3bfcb37d01d59244b6701e93d1f2249b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/financials/accounts-receivable/set-up-interest-rates-interest-code
+  ms.openlocfilehash: 649bc4284a689b8a1b9e6e843c763e848ec87288
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363609"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559735"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

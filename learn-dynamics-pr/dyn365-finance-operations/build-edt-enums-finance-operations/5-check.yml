@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ce1ea9d5bddaf5672a6bfa3b90342c1d4e178ba2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f71fd1f109649bfb1eb99af02e9af8f103a3759e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326544"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574148"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -32,7 +32,7 @@ quiz:
     - content: سلسلة من الحروف الرقمية والأبجدية.
       isCorrect: false
       explanation: يتم تخزين القيم الرقمية فقط في قاعدة البيانات.
-  - content: نوصي باستخدام أنواع EDT كلما أمكن في ترميز تطبيقات Finance and Operations. أي من هذه العبارات ليس ضمن مزايا استخدام أنواع EDT؟
+  - content: نوصي باستخدام أنواع EDT كلما أمكن في ترميز تطبيقات التمويل والعمليات. أي من هذه العبارات ليس ضمن مزايا استخدام أنواع EDT؟
     choices:
     - content: أنواع EDT أسهل بكثير في التحويل البرمجي.
       isCorrect: true
@@ -46,7 +46,7 @@ quiz:
     - content: يمكن توارث الخصائص من أنواع EDT الأصل.
       isCorrect: false
       explanation: ترث أنواع EDT الخصائص من الأصل الخاص بها، ويمكن استخدامها بتنسيق هرمي.
-  - content: يمكن عرض التعداد الأساسي بطرق متعددة في واجهة مستخدم تطبيقات Finance and Operations. أي مما يلي ليس مثالاً لكيفية عرض Enum أساسي في واجهة المستخدم؟
+  - content: يمكن عرض التعداد الأساسي بطرق متعددة في واجهة مستخدم تطبيقات التمويل والعمليات. أي مما يلي ليس مثالاً لكيفية عرض Enum أساسي في واجهة المستخدم؟
     choices:
     - content: أزرار الخيارات
       isCorrect: false

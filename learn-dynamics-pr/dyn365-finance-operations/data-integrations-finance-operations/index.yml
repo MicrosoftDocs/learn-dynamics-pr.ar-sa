@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 908753857510aee2257a665ca493a45d28cd40d8
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 6195c7dcd5dbbf2abdee1715042e268a2fd86df8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363726"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573938"
 title: عمليات تكامل البَيانات مع تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n[!include[](../includes/specific-module-banner.md)]\n\nيُعد التكامل مكوناً مهماً في تنفيذ تطبيقات التمويل والعمليات. يُمكنك عن طريق تنفيذ التكامل المتكرر تمكين تبادل المستندات أو الملفات بين تطبيقات التمويل والعمليات وتطبيقات أو خدمات الجهة الخارجية. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد مشروع بَيانات.\n- إعداد وظيفة بَيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- مراقبة الحالة وتوافر الكيانات.\n- تطوير عمليات تحويل البَيانات.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويُمكنك استخدام كيانات البَيانات المركبة.\n- ويُمكنك عمل تكامل بين كيانات البَيانات المركبة.\n- ويُمكنك تصدير كيانات البيانات المركبة.\n- التعرّف على Azure Data Lake ومتجر الكيان، وكيفية تغيير البيانات في Azure Data Lake\n- التعرّف على تقارب Microsoft Power Platform.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد مشروع بَيانات.\n- إعداد وظيفة بَيانات متكررة.\n- تحديد تفويض للتكامل باستخدام OAuth.\n- مراقبة الحالة وتوافر الكيانات.\n- تطوير عمليات تحويل البَيانات.\n- استخدم Microsoft Dataverse لمزامنة الكيانات بين تطبيقات Dynamics 365.\n- ويُمكنك استخدام كيانات البَيانات المركبة.\n- ويُمكنك عمل تكامل بين كيانات البَيانات المركبة.\n- ويُمكنك تصدير كيانات البيانات المركبة.\n- التعرّف على Azure Data Lake ومتجر الكيان، وكيفية تغيير البيانات في Azure Data Lake\n- التعرّف على تقارب Microsoft Power Platform.\n"
 prerequisites: >
   - الفهم الأساسي لأنظمة تخطيط موارد المؤسسة
 
   - الفهم الأساسي للبرمجة الموجهة للكائنات
-iconUrl: /learn/achievements/data-integrations-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/data-integrations-dynamics-365-finance-operations.svg
 levels:
 - advanced
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ee1ec145a7ee529681ff7acc951b7c146056d201
-ms.sourcegitcommit: 442020b85a494c94b76f90102daf2916649c8c2e
+ms.openlocfilehash: b6a173f4c8ea173f36067afd486d1e4d6c64aad4
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/28/2022
-ms.locfileid: "8490194"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581844"
 ---
 الجداول هي العناصر الرئيسية للنظام الأساسي لتطوير تطبيقات التمويل والعمليات. تتوفر بالفعل العديد من الجداول القياسية في التطبيق. يُمكنك أيضًا إنشاء جدول مخصص جديد. 
 

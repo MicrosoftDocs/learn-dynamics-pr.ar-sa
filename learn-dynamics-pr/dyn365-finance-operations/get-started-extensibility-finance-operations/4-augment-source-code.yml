@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-extensibility-finance-operations.4-augment-sourc
 title: زيادة الكود المصدر
 metadata:
   title: زيادة الكود المصدر
-  description: تعرف على كيفية زيادة الكود المصدر باستخدام إطار عمل قابلية التوسعة في تطبيقات Finance and Operations.
+  description: تعرف على كيفية زيادة الكود المصدر باستخدام إطار عمل قابلية التوسعة في تطبيقات التمويل والعمليات.
   ms.date: 03/15/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 596fd02b6a654dad2a9e132a949c7de3e27585c0
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6173cfba331f5089fb40ad291563f4609714c1bf
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327676"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581038"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/4-augment-source-code.md)]"

@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/sales-returns
-  ms.openlocfilehash: e425e00c9a7c426f44b09813bf857d0b67ef6323
-  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/supply-chain/warehousing/sales-returns
+  ms.openlocfilehash: 2457607bee40564fddcac7a3ab5c2757a067bbb2
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/26/2021
-  ms.locfileid: "7690968"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559505"
 durationInMinutes: 30
 content: >-
   [!include[](../includes/unit-banner.md)]

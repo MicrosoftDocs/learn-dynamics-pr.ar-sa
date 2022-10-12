@@ -9,17 +9,17 @@ metadata:
   ms.topic: interactive-tutorial
   ms.custom: testing
   coverage: testing
-  ms.openlocfilehash: 2f8c762b4675a291b6fe77f53f4e4ae3c3f36624
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2aa21053ed8a5b2f5169b7b827a5ac88ee0f32b7
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750044"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518361"
 title: العمل مع Dynamics 365 Sales Insights
 summary: "[!include[](../includes/module-banner.md)] \nيستغرق بناء علاقة قوية وطويلة الأمد مع العميل وقتاً وجهداً. يحتاج مديرو الحسابات إلى التواصل مع العملاء بشكل منتظم والحفاظ على فهم كامل لمن هو هذا العميل وما يحتاجون إليه. تركز هذه الوحدة على Dynamics 365 Embedded Intelligence، والتي يمكن للشركات استخدامها للمساعدة في بناء علاقات العملاء هذه باستخدام ميزاتها مثل مساعد العلاقة والالتقاط التلقائي وتتبع البريد الإلكتروني ورؤى المبيعات.    \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- نشر وتكوين بطاقات العلاقة المتقدمة.\n- استخدام ميزة الالتقاط التلقائي لتحديد الاتصالات ذات الصلة.\n- تكوين واستهلاك ميزة تتبع البريد الإلكتروني.\n- إعداد ميزة Sales Insights وسلامة العلاقة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- نشر وتكوين بطاقات العلاقة المتقدمة.\n- استخدام ميزة الالتقاط التلقائي لتحديد الاتصالات ذات الصلة.\n- تكوين واستهلاك ميزة تتبع البريد الإلكتروني.\n- إعداد ميزة Sales Insights وسلامة العلاقة.\n"
 prerequisites: المعرفة الأساسية بـ Dynamics 365 Sales
-iconUrl: /learn/achievements/working-with-sales-insights.svg
+iconUrl: /training/achievements/working-with-sales-insights.svg
 levels:
 - intermediate
 roles:

@@ -8,18 +8,18 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: b6dbd560be7a4a51a643ab3c2219d519dc3ad458
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 5712720ed2c957e3d665f8a9b33a69fc87827982
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9368937"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509540"
 title: تعرّف على أساسيات Dynamics 365 Finance
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
-  سيقوم مسار التعليم هذا بتعريف المتعلمين بتطبيق Dynamics 365 Finance. تعرف على القدرات الأساسية ودفاتر الأستاذ العام وحسابات المدفوعات وحسابات المقبوضات بالإضافة إلَى إدارة المصروفات وإدارة الأصول الثابتة وإعداد الميزانية.
-iconUrl: /learn/achievements/dynamics-explore-finance-fundamentals.svg
+  سيقوم مسار التعليم هذا بتعريف المتعلمين بتطبيق Dynamics 365 Finance. تعرف على القدرات الأساسية ودفاتر الأستاذ العام وحسابات المدفوعات والحسابات المدينة بالإضافة إلَى إدارة المصروفات وإدارة الأصول الثابتة وإعداد الميزانية.
+iconUrl: /training/achievements/dynamics-explore-finance-fundamentals.svg
 levels:
 - beginner
 roles:

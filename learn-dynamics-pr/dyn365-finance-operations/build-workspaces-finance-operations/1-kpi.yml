@@ -3,17 +3,17 @@ uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations.1-kpi
 title: تصميم مؤشرات الأداء الأساسية (KPI)
 metadata:
   title: تصميم مؤشرات الأداء الأساسية (KPI)
-  description: توضح هذه الوحدة كيفية تصميم مؤشرات الأداء الأساسية (KPI) في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية تصميم مؤشرات الأداء الرئيسية في تطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 28453d75b4d607fff9de0ede1f8b35e755547ac5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4b90f2af391ba8821f35774e9a58065f6f6f5ba8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7324599"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581818"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

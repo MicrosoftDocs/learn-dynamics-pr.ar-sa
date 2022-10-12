@@ -8,18 +8,18 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 878c5872e3cd8a551dbea84dcb5cd721d751194a
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 1995b9cbb07037202b6f4e04d2e772d56144ec4f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9368581"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504729"
 title: تعلُّم أساسيات Dynamics 365 Project Operations
 prerequisites: >
   يجب أن يكون لديك فهم أساسي للمبادئ المالية والعمليات التجارية. إن فهم الحوسبة السحابية مفيد، لكنه ليس ضرورياً.
 summary: >
   يقدم مسار التعليم هذا للمتعلمين تطبيق Dynamics 365 Project Operations. تعرف على قدرات إدارة دورة حياة المشروع للمنتج، بالإضافة إلَى إمكانيات تخطيط المشروع وتنفيذه.
-iconUrl: /learn/achievements/dynamics-project-operations.svg
+iconUrl: /training/achievements/dynamics-project-operations.svg
 levels:
 - beginner
 roles:

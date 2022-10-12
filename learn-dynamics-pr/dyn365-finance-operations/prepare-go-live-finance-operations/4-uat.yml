@@ -3,18 +3,18 @@ uid: learn-dynamics.prepare-go-live-in-dynamics-365-finance-ops.4-perform-user-a
 title: إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك
 metadata:
   title: إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك
-  description: تعرّف على إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك في تطبيقات Finance and Operations.
+  description: تعرّف على إجراء اختبارات قبول المستخدم (UAT) في الحل الخاص بك في تطبيقات التمويل والعمليات.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
-  ms.openlocfilehash: 8fadff4a84f990979997311b144c0cca974b324c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/fin-and-ops/imp-lifecycle/prepare-go-live
+  ms.openlocfilehash: 6a91720ae5ba6373892a18b89942c991960a4c94
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7338740"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574398"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

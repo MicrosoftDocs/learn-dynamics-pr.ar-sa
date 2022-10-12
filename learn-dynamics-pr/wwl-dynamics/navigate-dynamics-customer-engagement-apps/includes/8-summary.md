@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6b9e164c71ed0aa2687911a67b93160ec510666f
-ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+ms.openlocfilehash: 6ddc80a39b2d77ec40ae363133abf2dd8ab993f5
+ms.sourcegitcommit: e406e95a6e3d1728c2deff3c1c56c78f45e93c34
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "8954954"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "9551740"
 ---
 كما ترى، تضمن الإمكانات الأساسية المتوفرة فِي تطبيقات Dynamics 365 CRM أن لديك خبرة عمل متسقة بغض النظر عن المهمة التي تقوم بها. من تطبيقات المبيعات والتسويق المصممة للمساعدة فِي تحديد العملاء المحتملين وتحويلهم إلَى علاقات طويلة الأمد، إلَى التطبيقات المصممة للمساعدة فِي خدمة العملاء، تضمن تطبيقات Dynamics 365 CRM أن لديك الأدوات اللازمة لإشراك عملائك بشكل كامل عبر جميع جوانب عملك.
 
@@ -28,7 +28,7 @@ ms.locfileid: "8954954"
 
  -  [موقع الويب](https://dynamics.microsoft.com/)
  -  [مدونة Dynamics 365 Team ](https://community.dynamics.com/365/b/365teamblog)
- -  [الوثائق](https://docs.microsoft.com/)
+ -  [الوثائق](/)
  -  الأحداث
  -  [Community](https://community.dynamics.com/)
  -  [قناة YouTube ](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ)
@@ -55,8 +55,8 @@ ms.locfileid: "8954954"
 
 ### <a name="microsoft-dataverse"></a>Microsoft Dataverse
 
- -  [مقدمة إلَى Microsoft Dataverse](/learn/modules/introduction-common-data-service/)
- -  [البدء باستخدام Microsoft Dataverse](/learn/paths/get-started-cds/)
+ -  [مقدمة إلَى Microsoft Dataverse](/training/modules/introduction-common-data-service/)
+ -  [البدء باستخدام Microsoft Dataverse](/training/paths/get-started-cds/)
 
 ### <a name="search-and-filter-data"></a>البحث فِي البيانات وتصفيتها
 

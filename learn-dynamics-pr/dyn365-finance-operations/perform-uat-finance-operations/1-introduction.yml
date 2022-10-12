@@ -3,17 +3,17 @@ uid: learn-dynamics.perform-uat-in-dynamics-365-finance-ops.01-perform-uat-intro
 title: مقدمة
 metadata:
   title: مقدمة
-  description: تعرف على كيفية إجراء اختبارات قبول المستخدم (UAT) لتطبيقات Finance and Operations.
+  description: تعرّف على إجراء اختبارات قبول المستخدم (UAT) للحل الخاص بك في تطبيقات التمويل والعمليات.
   ms.date: 12/10/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 848d296812843adb6ad255b5a9f8357d0808cb22
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 8544cc678ab8e7209b90745e138e144dc328da1e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328189"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575928"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -3,17 +3,17 @@ uid: learn-dynamics.get-started-with-lcs.9-get-product-updates-from-lcs
 title: الحصول على تحديثات المنتجات من Lifecycle Services
 metadata:
   title: الحصول على تحديثات المنتجات من Lifecycle Services
-  description: توضح هذه الوحدة كيفية الحصول على تحديثات المنتج من Lifecycle Services وتطبيقها على مثيل تطبيقات Finance and Operations.
+  description: توضح هذه الوحدة كيفية الحصول على تحديثات المنتج من Lifecycle Services وتطبيقها على مثيل تطبيقات التمويل والعمليات.
   ms.date: 12/21/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a7c9dd58e4fb5ec3f9be926298be4d6155be548b
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 79de261ea23a20b5540dfb493ea771c1d63e3b22
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944566"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580959"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

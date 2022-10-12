@@ -3,16 +3,16 @@ uid: learn-dynamics.business-intelligence-patterns-finance-operations.summary
 title: الملخص
 metadata:
   title: الملخص
-  description: لقد تعرفت عَلى الممارسات الجيدة (الأنماط) والممارسات السيئة (الأنماط المضادة) لإعداد التقارير وذكاء الأعمال فِي تطبيقات التمويل والعمليات.
+  description: لقد تعرفت على الممارسات الجيدة (الأنماط) والممارسات السيئة (الأنماط المضادة) لإعداد التقارير والمعلومات المهنية في تطبيقات التمويل والعمليات.
   ms.date: 07/14/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3e15a43bfe6e64855ed515cacc21bebcb74dbb38
-  ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+  ms.openlocfilehash: bff85c178d2cd31653d51477c805fdb1e2418db5
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/14/2022
-  ms.locfileid: "9150797"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580768"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

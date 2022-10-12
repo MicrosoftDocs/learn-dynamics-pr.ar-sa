@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 021780189a2f7dd9c7530f705a2c4c0e637b5d68829f702e8586318afc483371
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 151c62f9e6f68c14fe5e68789a161f62e84c5c17
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058769"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9575258"
 ---
 يؤدي التحقق من صحة رقم الحساب المصرفي الدولي (IBAN) إلى زيادة مقدار التحقق من الصحة الذي يتم إجراؤه عند إضافة رقم IBAN إلى حساب بنكي.
 
@@ -14,7 +14,7 @@ ms.locfileid: "7058769"
 
 في حالة الانتقال إلى **إدارة النقد والبنوك > الإعداد > بنى IBAN**، لاحظ أن بنى IBAN لكل بلد أو منطقة يتم إعدادها تلقائياً. وإذا كنت ترغب في تخصيص البنى لبلد أو منطقة معينين، فيمكنك تحريرها.
  
-![لقطة شاشة لصفحة بنى IBAN في Finance and Operations.](../media/iban-structures.png)
+![لقطة شاشة لصفحة هياكل IBAN للتمويل والعمليات.](../media/iban-structures.png)
 
 
 ستكون تعريفات البنى جزءاً من كل إصدار جديد. يمكنك استخدام قائمة **إعادة تعيين البنى** لتحميل أحدث التعريفات بعد كل تحديث.
