@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6c1efe012a394f5ca7dca8a4059e4f363dad88ae
-  ms.sourcegitcommit: 2172d090a077fab7bc258f79a2585fd5079bca95
+  ms.openlocfilehash: f9cfa01beaa571c162c5a41cf434138ab9fa593e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/27/2022
-  ms.locfileid: "9360108"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511219"
 title: توسيع إمكانات التسويق في الوقت الحقيقي داخل Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nتشرح هذه الوحدة كيفية توسيع إمكانات التسويق في الوقت الفعلي لـ Dynamics 365 Marketing لإنشاء تجارب مخصصة تتحدث مباشرة مع احتياجات عملائك أثناء تفاعلهم مع مؤسستك.\n"
-abstract: "في هذه الوحدة، سوف تتعلم ما يلي: \n- إنشاء مشغلات مخصصة.\n- تشغيل إجراء خارج رحلة.\n- نقل المشغلات المخصصة عبر البيئات.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء مشغلات مخصصة.\n- تشغيل إجراء خارج رحلة.\n- نقل المشغلات المخصصة عبر البيئات.\n"
 prerequisites: خبرة في تطوير تطبيقات تجربة العملاء وMicrosoft Power Automate
-iconUrl: /learn/achievements/extend-real-time-marketing-capabilities.svg
+iconUrl: /training/achievements/extend-real-time-marketing-capabilities.svg
 levels:
 - intermediate
 roles:

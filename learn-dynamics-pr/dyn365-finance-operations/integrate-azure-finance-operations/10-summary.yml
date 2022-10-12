@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations.10-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: راجع ما تعرفت عليه حول تكامل تطبيقات Finance and Operations باستخدام Microsoft Azure.
+  title: الملخص‬
+  description: راجع ما تعلمته حول دمج تطبيقات التمويل والعمليات باستخدام Microsoft Azure.
   ms.date: 07/23/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 833854e48f118919c7cb578841417baefdd919e4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 65285a6ad572d7d18e93d647130cb7adc86a9b80
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365026"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579698"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

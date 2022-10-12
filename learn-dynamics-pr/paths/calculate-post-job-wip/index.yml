@@ -9,19 +9,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 89279432dad56a40bcbd37f4fe96044434895bce
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 99ec4a642afe0a355bb87d77b3cd6e7411ad6f5d
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752592"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510145"
 title: حساب WIP الخاصة بالوظيفة وترحيلها في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
   هل تريد التعرّف على WIP الخاصة بالوظيفة في Business Central؟ تتناول هذه الوحدة أساليب WIP وكيفية حسابها وكذلك كيفية إقفال وظيفة.
 prerequisites: "- الفهم الأساسي لطريقة التنقل في تطبيق Dynamics 365 Business Central.\n- فهم تكاليف العمل ومفاهيم العمل قيد التنفيذ    \n"
-iconUrl: /learn/achievements/calculate-post-job-wip.svg
+iconUrl: /training/achievements/calculate-post-job-wip.svg
 levels:
 - intermediate
 roles:

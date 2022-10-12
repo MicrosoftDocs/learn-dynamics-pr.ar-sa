@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 14a880f66251abb52cf9f23500aaf73e7b3bcfc3
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: eca4bc544b061453c9c77298111570227fac5a96
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9404088"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9502998"
 ---
 بعد الانتهاء من إعداد إدارة التغييرات الهندسية لـ Microsoft Dynamics 365 Supply Chain Management، تكون مستعداً لإنشاء منتجات هندسية جديدة، وإعداد قوائم مكونات الأصناف (BOM) والمسارات، وإصدار المنتجات لاستخدامها في التطبيق. 
 
 تتيح لك إدارة التغيير الهندسي الحصول على سجل واحد للحقيقة لصيانة المنتج. إذا كان المنتج يتطلب تغييراً في تكوينه أو قائمة مكونات الصنف أو مساره، فيجب أن يحدث التغيير في الشركة الهندسية، ومن ثم يجب إعادة إصداره إلى الشركات المشغلة. يمكن للشركة المشغلة إجراء تغييرات لوجستية على قائمة المواد في كيانها القانوني، ولكن هذه التغييرات محدودة.
 
-لمزيد من المعلومات حول الإعداد والتكوين، راجع [إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management](/learn/paths/set-up-engineering-change-management/?azure-portal=true) لمسار التعلم.
+لمزيد من المعلومات حول الإعداد والتكوين، راجع [إعداد إدارة التغيير الهندسي لـ Dynamics 365 Supply Chain Management](/training/paths/set-up-engineering-change-management/?azure-portal=true) لمسار التعلم.

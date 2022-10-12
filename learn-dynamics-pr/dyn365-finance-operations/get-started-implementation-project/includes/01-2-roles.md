@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f67848c4310431fd3e2d46ffd917d83c7f783726
-ms.sourcegitcommit: 46742f5550dc268c06d1ec046547b1dd3a1581a7
+ms.openlocfilehash: ef01b41e8c309ecb7dbe231438a5a93a2a3837a1
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/07/2022
-ms.locfileid: "8098377"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574838"
 ---
 بإمكان تنفيذ مشاريع تطبيقات التمويل والعمليات أن يكون كبيراً ومعقداً، وغالباً ما يتضمن استخدام المهارات والمعرفة من عدد كبير من الأفراد. يجلب كل شخص موهبة وخبرة فريدة من نوعها، ويتشارك الأفراد في جهد العمل معاً وتنسيق المهام.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4fd94b4b93cc459f52208c32685a96b3a54749a5
-ms.sourcegitcommit: 68eac93cef16e9007b7a7bbb6bc852a5575ddd5b
+ms.openlocfilehash: 5a5896907f2005cf1cdf07b3618ca4b1073d768c
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "8322836"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9506863"
 ---
 تصف هذه الوحدة مزيداً من القدرات بالتفصيل لـ Commerce. وتغطي الوحدة السابقة القدرات الشاملة داخل Commerce لتنظيم المخزون والعملاء وتقاطع كل منهما. تركز هذه الوحدة على الجوانب الخاصة بتلك الميزات التي تدعم إنشاء أعمال Commerce الناجحة وتنفيذها. 
 
@@ -21,7 +21,7 @@ ms.locfileid: "8322836"
 - **العملاء** - يساعدك على استخدام Dynamics 365 Customer Service لإنشاء أوامر العملاء وإدارتها، وإدارة أوامر الإرجاع والاستبدال، وإرسال الكتالوجات، وإعداد برامج الولاء، وعرض معاملات العملاء.
 - **المخزون** - إدارة المخزون الفعلي وجرد المخزون. أيضاً، استخدم هذه الميزة لإعداد قواعد التزويد وحزم المنتجات للتسويق والرموز الشريطية والتسميات وإدارة مواقع الإرجاع وفئات الخدمة.
 
-تساعدك ميزات Commerce retail headquarters أيضاً في إدارة الطلبات وبرامج الاستمرارية والمهام ومهام سير عمل البيع بالتجزئة. لمعرفة المزيد حول تكوين Commerce، راجع [العمل في ترويج البضائع في Dynamics 365 Commerce](/learn/modules/work-merchandising/?azure-portal=true).
+تساعدك ميزات Commerce retail headquarters أيضاً في إدارة الطلبات وبرامج الاستمرارية والمهام ومهام سير عمل البيع بالتجزئة. لمعرفة المزيد حول تكوين Commerce، راجع [العمل في ترويج البضائع في Dynamics 365 Commerce](/training/modules/work-merchandising/?azure-portal=true).
 
 
 ## <a name="channel-management"></a>إدارة القناة

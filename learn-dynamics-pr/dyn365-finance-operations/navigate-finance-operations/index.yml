@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 864434419e7ad69d6f9d2cecdbfa8245dd5d3781
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 81095e7527b73aa22d4096c22e6ac0344fd2c3d4
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749600"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579038"
 title: التنقل في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -20,8 +20,8 @@ summary: >
 
   تعرف على اكتشاف كيفية التنقل في تطبيقات التمويل والعمليات وتحديد موقع ما تحتاجه بسرعة.
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- كيف تعمل مساحات العمل على زيادة الإنتاجية\n- تقنيات التصفية\n- البحث في تطبيقات التمويل والعمليات\n- مقارنة طرق العرض\n- أوضاع العرض والتحرير\n"
-prerequisites: بلا
-iconUrl: /learn/achievements/navigating-in-f-and-o.svg
+prerequisites: لا شيء
+iconUrl: /training/achievements/navigating-in-f-and-o.svg
 levels:
 - beginner
 roles:

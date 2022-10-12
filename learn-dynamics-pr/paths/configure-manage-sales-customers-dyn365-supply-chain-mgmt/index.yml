@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: a41d887e91d8aed6748bd2fe4a7842be54470db4
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 104d84ff985794caa988f88cf160f31c33ca0d39
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752511"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519072"
 title: تكوين المبيعات والعملاء وإدارتهم في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -29,8 +29,8 @@ prerequisites: >
 
   - المعرفة بإدارة المخزون.
 
-  - المعرفة بإجراءات حسابات المقبوضات.
-iconUrl: /learn/achievements/configure-manage-sales-customers-in-dynamics-365-scm.svg
+  - المعرفة بإجراءات الحسابات المدينة.
+iconUrl: /training/achievements/configure-manage-sales-customers-in-dynamics-365-scm.svg
 levels:
 - intermediate
 roles:

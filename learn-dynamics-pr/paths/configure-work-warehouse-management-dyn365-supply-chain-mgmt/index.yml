@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 4503fcd1ddaffb4cab1d7d79d6035921983c1a7c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 847b1cb925828abe072af7d0569cd6486738a737
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752412"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511112"
 title: تكوين إدارة المستودعات في Dynamics 365 Supply Chain Management والتعامل معه
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -26,7 +26,7 @@ prerequisites: >
   - القدرة على استخدام Supply Chain Management للمعالجة الأساسية.
 
   - المعرفة بإجراءات المستودع.
-iconUrl: /learn/achievements/configure-and-work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
+iconUrl: /training/achievements/configure-and-work-with-warehouse-management-in-dynamics-365-for-finance-ops.svg
 levels:
 - intermediate
 roles:

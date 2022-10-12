@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0809853de41042f98cd849ba79d7ae3e7d0552a1
-ms.sourcegitcommit: 638bab9b0642ad3d3698e559bdfe044fb14354f7
+ms.openlocfilehash: 43afe5ce13ee4ac10e5cb6f3baef903800e3ab59
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "8548553"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584444"
 ---
 لفهم كيفية توسيع Microsoft Dataverse بشكل أفضل، من المفيد التعرف على بنيته الأساسية. نظراً لأن Dataverse عبارة عن نظام أساسي للبرامج كخدمة، فإن معظم هذه التفاصيل مثل تخزين البيانات الأساسية، يتم استخراجها بنجاح منا كمطورين ويمكننا التركيز على عناصر أكثر إثارة للاهتمام مثل إنشاء منطق عمل مخصص والتكامل مع التطبيقات الأخرى. يوضح الرسم أدناه هذه المكونات الأساسية، والأقسام المميزة هي المناطق التي يمكن لمطوري PowerApp المستند إلى النموذج توسيع التعليمات البرمجية للاستفادة منها.
 
@@ -19,7 +19,7 @@ ms.locfileid: "8548553"
 
 عند إنشاء جدول مخصص، يتم تخزين بيانات التعريف الخاصة بهذا الجدول وسماته وعلاقاته بالجداول الأخرى ومكونات واجهة المستخدم (مثل النماذج وطرق العرض) كبيانات تعريف في النظام.
 
-يعرض Dataverse أيضاً نقطة نهاية OData V4 RESTful، والمعروفة باسم Web API، والتي يمكن الاستفادة منها لعرض البيانات الأولية ومعالجتها داخل مثيل Dataverse. تتمثل إحدى الآليات الشائعة لتصفح بيانات التعريف للحل في زيادة مستعرض بيانات التعريف. توفر Microsoft هذا كحل يمكنك تثبيته في تطبيقك. تم العثور على الروابط الحالية ضمن وثائق المطور ضمن [Microsoft Docs](/power-apps/developer/common-data-service/browse-your-metadata?azure-portal=true). يمكن تثبيت هذه الأداة في أي PowerApp يستند إلى نموذج مبني على Dataverse. بالإضافة إلى ذلك، [تحتوي XrmToolbox](https://www.xrmtoolbox.com/plugins/MsCrmTools.MetadataBrowser/?azure-portal=true) على أداة مستعرض بيانات تعريف مجتمعية متوفرة.
+يعرض Dataverse أيضاً نقطة نهاية OData V4 RESTful، والمعروفة باسم Web API، والتي يمكن الاستفادة منها لعرض البيانات الأولية ومعالجتها داخل مثيل Dataverse. تتمثل إحدى الآليات الشائعة لتصفح بيانات التعريف للحل في زيادة مستعرض بيانات التعريف. توفر Microsoft هذا كحل يمكنك تثبيته في تطبيقك. يمكن العثور على الارتباطات الحالية عند [استعراض تعريفات الجداول في البيئة الخاصة بك](/power-apps/developer/common-data-service/browse-your-metadata?azure-portal=true). يمكن تثبيت هذه الأداة في أي PowerApp مستند إلى النموذج ومضمن في Dataverse. بالإضافة إلى ذلك، [تحتوي XrmToolbox](https://www.xrmtoolbox.com/plugins/MsCrmTools.MetadataBrowser/?azure-portal=true) على أداة مستعرض بيانات تعريف مجتمعية متوفرة.
 
 ### <a name="net-assemblies-plug-ins"></a>تجميعات .NET (المكونات الإضافية)
 

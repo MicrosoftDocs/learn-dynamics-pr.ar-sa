@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e4cbcf60fa64a80a21ac8f4e2090af4d77cb3efe2a98a634782bf67beae1d1f5
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 98e3dc95aa44e3e7b9f7cd457fbffc5343d919f9
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7053797"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580474"
 ---
 يضع الاتحاد الأوروبي معياراً عالمياً جديداً لحماية الخصوصية والبيانات الشخصية للمواطنين والمقيمين في الاتحاد الأوروبي (EU). تنظم لوائح الخصوصية هذه معالجة واستخدام البيانات الشخصية لمواطني الاتحاد الأوروبي والمقيمين فيه. ويترتب على عدم الامتثال للوائح الخصوصية هذه عواقب وخيمة.
 
@@ -17,4 +17,4 @@ ms.locfileid: "7053797"
 - تصدير بياناتهم الشخصية.
 
 
-للحصول على معلومات خاصة بالامتثال للوائح الخصوصية وتطبيقات Finance and Operations، راجع "مدخل الثقة بالخدمة" [Service Trust Portal]( https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted/?azure-portal=true).
+للحصول على معلومات خاصة بالامتثال للوائح الخصوصية وتطبيقات التمويل والعمليات، راجع  [Service Trust Portal]( https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted/?azure-portal=true).

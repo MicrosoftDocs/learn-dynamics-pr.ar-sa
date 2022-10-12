@@ -3,17 +3,17 @@ uid: learn-dynamics.design-plan-implementation-in-f-and-o.9-on-premises-impl-tes
 title: التنفيذ المحلي - الاختبار والنشر والتشغيل
 metadata:
   title: التنفيذ المحلي - الاختبار والنشر والتشغيل
-  description: تلخص هذه الوحدة خطوات اختبار ونشر عملية تنفيذ تطبيقات Finance and Operations محلياً.
+  description: تلخص هذه الوحدة خطوات اختبار ونشر عملية تنفيذ تطبيقات التمويل والعمليات محلياً.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 47e3845470748c16ab562739b3e969e216544515
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 1dfdda3d5238257a1a432d0150e8978b428632ec
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362736"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575458"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

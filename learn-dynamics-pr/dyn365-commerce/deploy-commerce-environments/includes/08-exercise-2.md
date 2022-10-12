@@ -1,20 +1,20 @@
 ---
-ms.openlocfilehash: b2c6a37675dd232f6139db7f264ec59064c78b2c09bbb4968a0ce219eb1a5d87
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 33c6f101e2d9f79bad657dbe48feb324f39d7308
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070366"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537596"
 ---
 طُلب من مطور Commerce توزيع موقع تجارة إلكترونية لإحدى الشركات. 
  
 
 ## <a name="before-you-begin"></a>قبل البدء 
-ستحتاج إلى الوصول إلى Microsoft Dynamics Lifecycle Services (LCS). 
+ستحتاج إلى الوصول إلى Microsoft Dynamics ‏Lifecycle Services. 
  
 ### <a name="to-deploy-an-e-commerce-site-follow-these-steps"></a>لتوزيع موقع تجارة إلكترونية، اتبع الخطوات التالية:
 
-1.  قم بتسجيل الدخول إلى LCS باستخدام بيانات الاعتماد الخاصة بك. 
+1.  قم بتسجيل الدخول إلى Lifecycle Services باستخدام بيانات الاعتماد الخاصة بك. 
 2.  من **كل المشروعات**، حدد مشروعك. 
 3.  حدد بيئتك ضمن قسم **البيئات**.
 4.  من صفحة **تفاصيل البيئة**، حدد **إدارة**. 

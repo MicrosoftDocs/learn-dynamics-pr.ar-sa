@@ -7,17 +7,17 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6a6a9fd9f58eaed191aa8ad5f7a5d37ca135a0d1
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 50364c6e5a96525e09312dd640679b707fd38f2e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749052"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508991"
 title: جدولة الأطقم والمرافق وتجمع الموارد في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\n\nتعامل مع خيارات الجدولة الأكثر تقدمًا التي قد تتضمن موارد متعددة أو مرافق محددة. استخدم تجمع الموارد لتوفير عناصر نائبة لجدولة مجموعات الموارد. جدولة الأطقم للعمل في عناصر محددة. جدولة مرافق محددة يُمكن استخدامها للمساعدة في تقديم خدمة معينة.    \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد تجمعات الموارد في جدولة السيناريوهات واستخدامها\n- استخدم ميزة جدولة المرافق لحجز مرافق معينة للعمل \n- تحديد وجدولة الأطقم باستخدام لوحة الجدولة\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- تحديد تجمعات الموارد في جدولة السيناريوهات واستخدامها\n- استخدم ميزة جدولة المرافق لحجز مرافق معينة للعمل \n- تحديد وجدولة الأطقم باستخدام لوحة الجدولة\n"
 prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  نوصي بالإلمام بتحديد الموارد وإمكانات الجدولة الأساسية المتوفرة في Universal Resource Scheduling.
-iconUrl: /learn/achievements/scheduling-crews-facilities-and-resource-pooling-in-microsoft-dynamics-365-for-field-service.svg
+iconUrl: /training/achievements/scheduling-crews-facilities-and-resource-pooling-in-microsoft-dynamics-365-for-field-service.svg
 levels:
 - intermediate
 roles:

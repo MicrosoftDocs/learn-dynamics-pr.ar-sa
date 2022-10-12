@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 09a8be81b166f1e34b6111f626360f6f3dea8600
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: b3a276c690ae743c0814f385a8d320c1e2f8827f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9364146"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513519"
 title: تسجيل الأجهزة وإدارتها باستخدام Connected Customer Service for Dynamics 365 وAzure IoT
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -31,7 +31,7 @@ abstract: >
 
   - تعرف على كيفية إرسال الأوامر إلى أجهزة IoT.
 prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Customer Service.
-iconUrl: /learn/achievements/connected-customer-service-devices.svg
+iconUrl: /training/achievements/connected-customer-service-devices.svg
 levels:
 - intermediate
 roles:

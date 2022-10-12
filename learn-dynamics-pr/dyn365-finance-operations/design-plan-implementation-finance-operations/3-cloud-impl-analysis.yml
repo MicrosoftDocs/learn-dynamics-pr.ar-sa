@@ -3,17 +3,17 @@ uid: learn-dynamics.design-plan-implementation-in-f-and-o.3-cloud-impl-analysis
 title: تنفيذ السحابة - التحليل
 metadata:
   title: تنفيذ السحابة - التحليل
-  description: تعد هذه الوحدة ملخصاً للخطوات الواردة في خطوة التحليل الخاصة بتنفيذ السحابة لتطبيقات Finance and Operations.
+  description: تعد هذه الوحدة ملخصاً للخطوات الواردة في خطوة التحليل الخاصة بتنفيذ السحابة لتطبيقات التمويل والعمليات.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aec13a1c91a1c0e30a7c37b0fec7521d2a284da5
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: eca5eb398ee96b62de8939e0de10e6a4878b08b4
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335188"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579098"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

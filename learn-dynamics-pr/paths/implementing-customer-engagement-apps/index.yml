@@ -8,12 +8,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-platform
-  ms.openlocfilehash: ba4121101518d1b25b107298515aa91954a662af
-  ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+  ms.openlocfilehash: 9aa9a398e924e701ef1d83240d0b090e4f391cec
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/16/2022
-  ms.locfileid: "9021534"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9510082"
 title: التعامل مع مستأجري Microsoft Power Platform والبيئات والاشتراكات وتطبيقات Dynamics 365
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -21,7 +21,7 @@ summary: >
 
   إنشاء مستأجري Microsoft Power Platform والمثيلات وتصميمها وإدارتها بما في ذلك التخطيط لعمليات التوزيع متعددة المثيلات وإدارة أساليب المصادقة وإدارة التحديثات والنسخ الاحتياطي للمثيلات واستعادتها وتثبيت عملاء Microsoft Dynamics 365 وإدارتهم والسماح بالوصول إلى ميزات مختلفة لجميع المستخدمين في المؤسسة.
 prerequisites: يُفضل فهم البنية الأساسية الرئيسية لـ Microsoft Power Platform والوصول إلى ميزات مختلفة اعتماداً على تراخيص المستخدم بالإضافة إلى المعرفة بتدفقات المهام وPower Apps.
-iconUrl: /learn/achievements/implementing-customer-engagement-online.svg
+iconUrl: /training/achievements/implementing-customer-engagement-online.svg
 levels:
 - intermediate
 roles:

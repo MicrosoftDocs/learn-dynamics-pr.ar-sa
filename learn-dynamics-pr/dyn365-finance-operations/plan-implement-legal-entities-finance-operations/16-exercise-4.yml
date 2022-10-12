@@ -4,16 +4,16 @@ title: المعمل - إعداد تسلسل رقمي
 labId: 76401
 metadata:
   title: المعمل - إعداد تسلسل رقمي
-  description: مارس إعداد تسلسل رقمي في تطبيقات Finance and Operations.
+  description: مارس إعداد تسلسل رقمي في تطبيقات التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0068b0a2c936de067b45885151b91e7f2301941b
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e18344ef2ce6521a8767bda5fa9d4212e5797274
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339423"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574668"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/16-exercise-set-up-number-sequence.md)] \n[!include[](../includes/standalone-lab-end.md)]"

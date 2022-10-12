@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dced93886745ac9fa65880c80d3d0aaabb3087e8fcf4dcbd5eecf109dab54d46
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: e106dc7c480cf359d4cc6c237e1682acfc05e414
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7074281"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536549"
 ---
 ![ رسم لإيصال يظهر عبر عدسة مكبرة.](../media/receipt-c.png)
 
@@ -23,9 +23,9 @@ ms.locfileid: "7074281"
 > [!NOTE]
 > تتوفر معالجة إيصال المصروفات فقط لبيئات من الطبقة +2، وهي بيئات تشغيل وبيئات اختبار معزولة.
 
-بالنسبة إلى إمكانات المصروفات المتقدمة هذه، قم بتثبيت الوظيفة الإضافية **خدمة إدارة المصروفات** من أجل Project Operations ثم تمكين الميزات في المثيل المتوفر لديك. يمكنك الوصول إلى الوظيفة الإضافية من مشروعك في Microsoft Dynamics 365 Lifecycle Services. 
+بالنسبة إلى إمكانات المصروفات المتقدمة هذه، قم بتثبيت الوظيفة الإضافية **خدمة إدارة المصروفات** من أجل Project Operations ثم تمكين الميزات في المثيل المتوفر لديك. يمكنك الوصول إلى الوظيفة الإضافية من مشروعك في Microsoft Dynamics ‏Lifecycle Services. 
 
-1.  سجّل الدخول إلى Lifecycle Services وافتح البيئة المرغوبة.
+1.  سجّل الدخول إلى Lifecycle Services وافتح بيئتك المطلوبة.
 2.  انتقل إلى **التفاصيل الكاملة**.
 3.  حدد **صيانة** أو مرِّر لأسفل إلى علامة التبويب السريعة **وظائف الإضافية للبيئة**.
 4.  حدد **تثبيت وظيفة إضافية جديدة**.

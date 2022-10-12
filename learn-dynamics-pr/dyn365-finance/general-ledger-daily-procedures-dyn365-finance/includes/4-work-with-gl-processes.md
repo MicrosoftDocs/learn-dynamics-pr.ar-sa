@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 05af65e6812362f45af44dc334e54da28cf14f0e
-ms.sourcegitcommit: 4a1e5fd180688ba7b2e7a15570dc30f8abd71498
+ms.openlocfilehash: d1becaa08e7bb6f1f30ff41f742850a8f1dace72
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "7817208"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578928"
 ---
 استخدم دفتر الأستاذ العام لتحديد السجلات المالية للمؤسسة وإدارتها. دفتر الأستاذ العام هو سجل إدخالات الدائن والمدين. تُصنّف هذه الإدخالات باستخدام الحسابات المدرجة في مخطط الحسابات.
 
@@ -28,19 +28,19 @@ ms.locfileid: "7817208"
 
 بغض النظر عن تسجيل دفتر اليومية، ضع في اعتبارك العمليات الأخرى التي يمكنك تنفيذها في دفتر الأستاذ العام:
 
-- **عملية إغلاق المعاملات** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- **توزيع الحركات** - لمزيد من المعلومات، راجع [تكوين تخصيصات دفتر الأستاذ والمستحقات في Dynamics 365 Finance](/learn/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
-- **الإمساك بحسابات دفتر الأستاذ** - لمزيد من المعلومات، راجع [تكوين دليل الحسابات في Dynamics 365 Finance](/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
-- **إقفال الحركات** - ‏‫لمزيد من المعلومات، [راجع تكوين العمليات الدورية وإجراؤها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- **تخصيص التكاليف والإيرادات** - لمزيد من المعلومات، راجع [تكوين تخصيصات دفتر الأستاذ والمستحقات في Dynamics 365 Finance](/learn/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
-- **توقع التدفق النقدي ومتطلبات العملة** - لمزيد من المعلومات، راجع [تكوين مخطط الحسابات في Dynamics 365 Finance](/learn/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
-- **إزالة الحركات** - ‏‫لمزيد من المعلومات، راجع [تكوين العمليات الدورية وإجراؤها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- **إعادة تقييم مبالغ العملة** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- **تحويل عملة المحاسبة** - لمزيد من المعلومات، راجع [تكوين العملات في Dynamics 365 Finance](/learn/modules/configure-currencies-dyn365-finance/?azure-portal=true).
-- **إعداد تقارير ما قبل الإقفال** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- **إنشاء مستندات إلكترونية** -     لمزيد من المعلومات، راجع [تكوين التقارير الإلكترونية في Dynamics 365 Finance](/learn/modules/configure-electronic-reporting-finance-operations/?azure-portal=true).
-- **إغلاق الدفاتر** - ‏‫لمزيد من المعلومات، راجع [تكوين العمليات الدورية وإجراؤها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
-- **إغلاق الشهر والفترة والسنة المالية** - ‏‫لمزيد من المعلومات، راجع [تكوين العمليات الدورية وإجراؤها في Dynamics 365 Finance](/learn/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **عملية إغلاق الحركات** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **توزيع الحركات** - لمزيد من المعلومات، راجع [تكوين تخصيصات دفتر الأستاذ والمستحقات في Dynamics 365 Finance](/training/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
+- **الحفاظ على حسابات دفتر الأستاذ** - لمزيد من المعلومات، راجع [تكوين دليل الحسابات في Dynamics 365 Finance](/training/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
+- **إغلاق الحركات** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **تخصيص التكاليف والإيرادات** - لمزيد من المعلومات، راجع [تكوين تخصيصات دفتر الأستاذ والمستحقات في Dynamics 365 Finance](/training/modules/configure-ledger-allocations-accruals-dyn365-finance/?azure-portal=true).
+- **توقع التدفق النقدي ومتطلبات العملة** - لمزيد من المعلومات، راجع [تكوين دليل الحسابات في Dynamics 365 Finance](/training/modules/configure-chart-accounts-dyn365-finance/?azure-portal=true).
+- **التخلص من الحركات** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **إعادة تقييم مبالغ العملة** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **تحويل عملة المحاسبة** - لمزيد من المعلومات، راجع [تكوين العملات في Dynamics 365 Finance](/training/modules/configure-currencies-dyn365-finance/?azure-portal=true).
+- **إعداد تقارير ما قبل الإقفال** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **إنشاء مستندات إلكترونية** - لمزيد من المعلومات، راجع[ تكوين التقارير الإلكترونية في Dynamics 365 Finance](/training/modules/configure-electronic-reporting-finance-operations/?azure-portal=true).
+- **إغلاق الحجوزات** - لمزيد من المعلومات، راجع [تكوين العمليات الدورية وتنفيذها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
+- **إغلاق الشهر والفترة والسنة المالية** - ‏‫لمزيد من المعلومات، راجع [تكوين العمليات الدورية وإجراؤها في Dynamics 365 Finance](/training/modules/configure-periodic-processes-dyn365-finance/?azure-portal=true).
 
 ## <a name="dual-currency"></a>العملة المزدوجة 
 
@@ -71,7 +71,7 @@ ms.locfileid: "7817208"
 
 ## <a name="posting-multiple-journals"></a>ترحيل دفاتر يومية متعددة 
 
-يمكن لتطبيقات Finance ترحيل دفاتر يومية متعددة تضم عمليات كبيرة بالوضع الدفعي.  كما يمكنك ترحيل العديد من دفاتر اليومية التي قمت بإنشائها ليس فقط في دفتر الأستاذ العام ولكن أيضاً في حسابات المقبوضات والحسابات الدائنة‏‎ والمشروعات والأصول الثابتة.  يمكنك ترحيل دفاتر اليومية فوراً أو إعدادها كوظيفة لمعالجة الدفعات.
+يمكن لتطبيقات Finance ترحيل دفاتر يومية متعددة تضم عمليات كبيرة بالوضع الدفعي.  كما يمكنك ترحيل العديد من دفاتر اليومية التي قمت بإنشائها ليس فقط في دفتر الأستاذ العام ولكن أيضاً في الحسابات المدينة والحسابات الدائنة‏‎ والمشروعات والأصول الثابتة.  يمكنك ترحيل دفاتر اليومية فوراً أو إعدادها كوظيفة لمعالجة الدفعات.
 
 يمكنك استخدام خيار القائمة **ترحيل دفاتر اليومية** لترحيل دفاتر يومية متعددة تضم عمليات كبيرة بالوضع الدفعي. كما يمكن ترحيل العديد من دفاتر اليومية التي قمت بإنشائها في الوحدات النمطية التالية من خلال تحديد خيار القائمة **ترحيل دفاتر اليومية**:
 
@@ -113,4 +113,4 @@ ms.locfileid: "7817208"
 يمكنك التنقل لأسفل في الأرصدة لعرض الحركات التي تُشكّل الرصيد.
  
 
-[ ![لقطة شاشة Finance and Operations لصفحة ميزان المراجعة.](../media/trial-balance.png) ](../media/trial-balance.png#lightbox)
+[ ![لقطة شاشة لصفحة رصيد الإصدار التجريبي من تطبيق التمويل والعمليات.](../media/trial-balance.png) ](../media/trial-balance.png#lightbox)

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f1db8386fe7e6615a73c377e91f91999a8b0ba53
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: c5250dc4521b5fefa1384db24462d0c5a622031f
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7361405"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537456"
 ---
 غالباً ما يكون لدى البلدان والمناطق المختلفة متطلبات قانونية فيما يتعلق بتنسيق المستندات الإلكترونية الواردة والصادرة. تقوم وظيفة التقارير الإلكترونية (ER) بإدارة تلك التنسيقات خلال دورة حياتها. بالإضافة إلى ذلك، فإن التغييرات العادية المحتملة في المتطلبات من قبل الهيئات الحكومية أو البنوك تعني أنه يجب تحديث مستندات العمل وفقاً لذلك.
 
@@ -20,7 +20,7 @@ ms.locfileid: "7361405"
 - ينطبق التنسيق على إصدارات مختلفة.
 - يمكن إنشاء تنسيق مخصص يستند إلى تنسيق آخر. ستقوم وظيفة التقارير الإلكترونية بترقية التنسيق المخصص تلقائياً عند تغيير التنسيق الأصلي.
 - إنها الأداة القياسية الأساسية لدعم الترجمة.
-- يمكن توزيع التنسيقات من خلال Microsoft Dynamics Lifecycle Services (LCS)‎.
+- يمكن توزيع التنسيقات من خلال Microsoft DynamicsLifecycle Services ‎.
 
 لمزيد من المعلومات الفنية حول مواضيع التقارير الإلكترونية التالية، انتقل إلى [نظرة عامة على التقارير الإلكترونية (ER)](/dynamics365/fin-ops-core/dev-itpro/analytics/general-electronic-reporting?azure-portal=true&toc=/dynamics365/commerce/toc.json).
 

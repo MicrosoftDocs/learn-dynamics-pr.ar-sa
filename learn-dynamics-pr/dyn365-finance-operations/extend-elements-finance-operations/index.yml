@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: df6fc60d0cafa5f64e7efa3a58c015d4639243e0
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 6a61b8367c6ed560593e0ce89ed2dafc450e4c3a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751096"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580118"
 title: توسيع العناصر في تطبيقات التمويل والعمليات
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -30,7 +30,7 @@ prerequisites: >
   - فهم كيفية إنشاء ملحق فئة جديد وإضافة أساليب جديدة
 
   - معرفة كيفية إضافة أساليب معالج الأحداث إلى فئة
-iconUrl: /learn/achievements/extend-elements-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/extend-elements-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

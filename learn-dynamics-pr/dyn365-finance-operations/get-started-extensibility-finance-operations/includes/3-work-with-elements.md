@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ff72b6d0413849db8cecc617f29d652d980c2d4a
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 8d47619726aeb47c30d497efeb3b7cf572e56b21
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7361971"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9581048"
 ---
 عند التعامل مع الملحقات، يمكنك تخصيص التطبيق بثلاث طرق مختلفة:
 
@@ -14,4 +14,4 @@ ms.locfileid: "7361971"
 
 - **زيادة التعليمات البرمجية المصدر** – عندما تقوم بزيادة (توسيع) التعليمات البرمجية المصدر، فإنك تقوم بتوسيع المنطق وتعديله لعملك باستخدام مفاهيم مثل التفاف الأسلوب أو التفويضات.
 
-لمزيد من المعلومات، راجع [توسيع العناصر في تطبيقات Finance and Operations.](/learn/modules/extend-elements-finance-operations/?azure-portal=true).
+لمزيد من المعلومات، راجع [توسيع العناصر في تطبيقات التمويل والعمليات.](/training/modules/extend-elements-finance-operations/?azure-portal=true).

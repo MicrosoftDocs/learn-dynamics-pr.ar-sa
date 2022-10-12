@@ -3,17 +3,17 @@ uid: learn-dynamics.get-started-xpp-dynamics-365-finance-operations.4-sql
 title: استخدم X++ لكتابة عبارات SQL
 metadata:
   title: استخدم X++ لكتابة عبارات SQL
-  description: تعرّف على كيفية استخدام X++ لكتابة عبارات SQL في تطبيقات Finance and Operations.
+  description: تعرّف على كيفية استخدام X++ لكتابة عبارات SQL في تطبيقات التمويل والعمليات.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fd5829eb3d553656983cf892488cdf87e90975fb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 2f1971cdfaf61c45c744c59ee724f42c57114437
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346859"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582508"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

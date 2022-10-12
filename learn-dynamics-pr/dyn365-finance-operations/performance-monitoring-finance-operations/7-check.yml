@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7d6125bcfdcc0daf5659ea1d9b95398d28e7f048
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a09f5ecae9ef40d86da0903a2df25a58cef3602d
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7347811"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580448"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -25,32 +25,32 @@ quiz:
       explanation: تُستخدم مجموعة SDK الخاصة بالأداء لاختبار البيئة في ظل ظروف التحميل العادية والفعلية.
     - content: مراقبة السلامة
       isCorrect: false
-      explanation: تُستخدم مراقبة السلامة في LCS لمراقبة البيئات.
+      explanation: تُستخدم مراقبة السلامة في Lifecycle Services لمراقبة البيئات.
     - content: رؤى SQL
       isCorrect: false
       explanation: يتم استخدام رؤى SQL لتحليل الأداء واستكشاف الأخطاء وإصلاحها المتقدم. لا تستهلك عمليات التتبع.
     - content: محلل التتبع
       isCorrect: true
       explanation: محلل التتبع هو أداة أداء تستهلك عمليات التتبع وتحلل أداء البيئة.
-  - content: تحتاج إلى رؤية نشاط مستخدم فردي في بيئة معينة. كيف يتم إنجاز هذه المهمة؟
+  - content: تحتاج إلى رؤية نشاط مستخدم فردي في بيئة معينة. كيف ستنجز هذه المهمة؟
     choices:
-    - content: تحقق من مراقب النشاط في LCS.
+    - content: تحقق من مراقب النشاط في Lifecycle Services.
       isCorrect: true
-      explanation: للاطلاع على نشاط مستخدم فردي لبيئة معينة، تحقق من مراقب النشاط في LCS.
+      explanation: للاطلاع على نشاط مستخدم فردي لبيئة معينة، تحقق من مراقب النشاط في Lifecycle Services.
     - content: استخدم Visual Studio لتشغيل التشخيص.
       isCorrect: false
       explanation: لا يستخدم Visual Studio لمراقبة نشاط المستخدم.
-    - content: تحقق من صفحة التفاصيل الكاملة لبيئةٍ في LCS.
+    - content: تحقق من صفحة التفاصيل الكاملة بحثًا عن بيئة في Lifecycle Services.
       isCorrect: false
-      explanation: تعرض لك صفحة التفاصيل الكاملة في LCS تفاصيلاً خاصة بالبيئة، وليس المستخدم. وهي لا تعرض تفاصيل عن نشاط المستخدم في بيئة معينة.
-    - content: استعرض الوحدة النمطية لإدارة النظام في تطبيقات Finance and Operations.
+      explanation: تعرض لك صفحة التفاصيل الكاملة في Lifecycle Services تفاصيلاً خاصة بالبيئة، وليس المستخدم. وهي لا تعرض تفاصيل عن نشاط المستخدم في بيئة معينة.
+    - content: عرض وحدة إدارة النظام في تطبيقات التمويل والعمليات.
       isCorrect: false
       explanation: لن تعرض لك الوحدة النمطية لإدارة النظام تفاصيل عن نشاط المستخدم في بيئة معينة.
-  - content: هل صحيح أنه يتم إرسال بعض عمليات التشخيص بمقاييس السلامة في LCS مباشرةً إلى فريق هندسة الخدمات في Microsoft؟
+  - content: هل صحيح أنه يتم إرسال بعض عمليات التشخيص بمقاييس السلامة في Lifecycle Services مباشرةً إلى فريق هندسة الخدمات في Microsoft؟
     choices:
     - content: نعم
       isCorrect: true
-      explanation: يتم إرسال بعض التشخيصات مباشرةً إلى Microsoft من واجهة المقاييس الصحية في LCS ليقوم بمراجعتها الفريق الهندسي.
+      explanation: يتم إرسال بعض التشخيصات مباشرةً إلى Microsoft من واجهة المقاييس الصحية في Lifecycle Services ليقوم بمراجعتها الفريق الهندسي.
     - content: لا
       isCorrect: false
-      explanation: العبارة صحيحة بشأن أنه يتم إرسال بعض التشخيصات من لوحة معلومات مقاييس الصحة في LCS مباشرةً إلى فريق هندسة الخدمات في Microsoft.
+      explanation: العبارة صحيحة بشأن أنه يتم إرسال بعض التشخيصات من لوحة معلومات مقاييس الصحة في Lifecycle Services مباشرةً إلى فريق هندسة الخدمات في Microsoft.

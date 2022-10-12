@@ -2,27 +2,27 @@
 uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations
 metadata:
   title: العمل باستخدام أدوات الأداء والمراقبة في تطبيقات التمويل والعمليات
-  description: تعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services (LCS) لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات التمويل والعمليات.
+  description: تعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 05c689bb37205f6b3f5904349f3c13487efb10fa
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 85c93718e0a9125082d20e964d47269404c4cedc
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751033"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580438"
 title: العمل باستخدام أدوات الأداء والمراقبة في تطبيقات التمويل والعمليات
-summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services (LCS) لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات التمويل والعمليات. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تشخيص مشكلات الأداء باستخدام محلل التتبع.\n- استكشف اختبار حمل العمل باستخدام Performance SDK.\n- راقب الأداء باستخدام لوحة معلومات رؤى SQL.\n- مراقبة مقاييس سلامة الخادم في LCS.\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية استخدام أدوات الأداء وأدوات مراقبة بيئة Lifecycle Services لتحسين تجربة التحقق من الصحة والاختبار في تطبيقات التمويل والعمليات. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تشخيص مشكلات الأداء باستخدام محلل التتبع.\n- استكشف اختبار حمل العمل باستخدام Performance SDK.\n- راقب الأداء باستخدام لوحة معلومات رؤى SQL.\n- مراقبة مقاييس صحة الخادم في Microsoft Dynamics Lifecycle Services.\n"
 prerequisites: >
   - الفهم المتقدم لـ Visual Studio
 
   - الفهم الأساسي للبيانات الوظيفية وعمليات الأعمال
 
-  - الفهم الأساسي والتنقل في LCS
-iconUrl: /learn/achievements/performance-monitoring-dynamics-365-finance-operations.svg
+  - الفهم الأساسي والتنقل في Lifecycle Services
+iconUrl: /training/achievements/performance-monitoring-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

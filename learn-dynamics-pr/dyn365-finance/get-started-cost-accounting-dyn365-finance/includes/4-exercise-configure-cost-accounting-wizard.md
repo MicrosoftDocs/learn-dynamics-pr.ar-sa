@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 7632b3ac0af38c04a3de182b875da201be8e9c02e25d570f69387a921da3f03a
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 718ac8ccc072cb8f8f2b688efb4bd925ac6f169f
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7078539"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9537446"
 ---
 يحتاج المدير المالي (CFO) لشركة GBSI، إلى تكوين مساحة عمل **التحكم في التكلفة** لتحليل التكاليف حسب القسم لفترات مختلفة لمقارنة المصروفات الفعلية مقابل الموازنة. استخدم الإجراء التالي لاستخدام معالج **الشروع في العمل** لإنشاء ما يحتاجه المدير المالي.
 
 ## <a name="before-you-begin"></a>قبل البدء 
 
-للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Finance والتي يتم تثبيتها باستخدام Lifecycle Services (LCS). 
+للحصول على أقصى استفادة من هذا التدريب، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Finance الذي تم تثبيته باستخدام Lifecycle Services. 
 
 1.  في شركة GBSI، انتقل إلى **محاسبة التكاليف > الإعداد > بدء الاستخدام**.
 2.  حدد الصفحة الرئيسية لـ **محاسبة التكاليف**.

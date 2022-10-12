@@ -3,17 +3,17 @@ uid: learn-dynamics.build-reports-dynamics-365-finance-operations.04-exercise-de
 title: تمرين - إنشاء تقرير وتوزيعه
 metadata:
   title: تمرين - إنشاء تقرير وتوزيعه
-  description: التدرب على إنشاء تقرير وتوزيعه في تطبيقات Finance and Operations.
+  description: التدرب على إنشاء تقرير وتوزيعه في تطبيقات التمويل والعمليات.
   ms.date: 06/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 64153712cbae0a9714fb31bad09aad8783dbd57e
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 9aa19033c84d5011bf5f6086da9cad651314e14c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7363687"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575728"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

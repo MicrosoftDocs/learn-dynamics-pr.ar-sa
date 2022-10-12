@@ -8,12 +8,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-customerservice
-  ms.openlocfilehash: 13c2b4518cdb5deffbec04cd9f0d05374ec18ab3
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: e0fd0b85ef55624a621511cf0375bf136f9f0b13
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9362531"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505604"
 title: يكون مندوبون المساعدة أكثر إنتاجيةً في Dynamics 365 Customer Service
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -21,7 +21,7 @@ summary: >
   هل ترغب في تحسين إنتاجية المندوبين؟ يناقش هذا المسار الخيارات لمساعدة المندوبين على زيادة إنتاجيتهم عند استخدام تطبيق Customer Service.
 prerequisites: >
   - المعرفة الأساسية بتطبيق Dynamics 365 Customer Service.
-iconUrl: /learn/achievements/agents-help-customer-service.svg
+iconUrl: /training/achievements/agents-help-customer-service.svg
 levels:
 - intermediate
 roles:

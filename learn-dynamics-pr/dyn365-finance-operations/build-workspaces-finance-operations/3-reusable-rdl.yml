@@ -3,17 +3,17 @@ uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations.3-reusable-
 title: إنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL
 metadata:
   title: إنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL
-  description: توضح هذه الوحدة كيفية قم بإنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL في Finance and Operations.
+  description: تصف هذه الوحدة كيفية إنشاء وظائف تقارير مخصصة قابلة لإعادة الاستخدام باستخدام RDL في تطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cf5556929a5d0d038e0bfba350c5a02727785a5c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 000ba4d41b2266044c3e63222acddfd46edee871
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326532"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574058"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

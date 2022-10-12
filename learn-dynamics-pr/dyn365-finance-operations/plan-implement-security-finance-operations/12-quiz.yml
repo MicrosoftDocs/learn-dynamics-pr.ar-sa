@@ -7,18 +7,18 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7dbc6fcd92b730c9cfc92c21f1d80403300e1958
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: f33da9e6859f31e8bf8661a74bc1879b1d1d196e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341844"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581578"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: أي من العبارات التالية تصف الأمان المستند إلى الدور في تطبيقات Finance and Operations؟
+  - content: أي من العبارات التالية تصف الأمان المستند إلى الدور في تطبيقات التمويل والعمليات؟
     choices:
     - content: يمكن تعيين الرسم الجمركي لدور أمان واحد فقط.
       isCorrect: false
@@ -28,11 +28,11 @@ quiz:
       explanation: يمكن تعيين الامتياز لأدوار أمان متعددة.
     - content: يتم منح الوصول لأدوار الأمان فقط.
       isCorrect: true
-      explanation: يتم منح الوصول إلى أدوار الأمان فقط، وليس على المستخدمين الفرديين.
+      explanation: يتم منح الوصول إلى أدوار الأمان فقط، وليس إلى المستخدمين الفرديين.
     - content: لا يمكن تعريف دور أمان كمجموعة من أدوار الأمان الأخرى.
       isCorrect: false
       explanation: يمكن تعريف دور أمان كمجموعة من أدوار الأمان الأخرى. يمكن القيام بذلك باستخدام ميزات النسخ المتماثل والنسخ.
-  - content: أي من صفحات الأمان التالية في تطبيقات Finance and Operations يتم استخدامها لإدارة الامتيازات؟
+  - content: أي من صفحات الأمان التالية في تطبيقات التمويل والعمليات يتم استخدامها لإدارة الامتيازات؟
     choices:
     - content: ‏‏تعيين المستخدمين إلى دور
       isCorrect: false
@@ -46,7 +46,7 @@ quiz:
     - content: حسابات أمان المستخدم غير النشطة
       isCorrect: false
       explanation: لا يتوفر لصفحة حسابات أمان المستخدم غير النشطة الخيار لإدارة الامتيازات.
-  - content: أي من تقارير الأمان التالية في تطبيقات Finance and Operations توفر طريقة عرض للأذونات الفعالة لكل دور أمان؟
+  - content: أي من تقارير الأمان التالية في تطبيقات التمويل والعمليات توفر طريقة عرض للأذونات الفعالة لكل دور أمان؟
     choices:
     - content: تعيينات أدوار المستخدمين
       isCorrect: false
@@ -64,7 +64,7 @@ quiz:
     choices:
     - content: الفصل بين المهام
       isCorrect: true
-      explanation: تساعد صفحة الفصل بين المهام تطبيقات Finance and Operations على التوافق مع المتطلبات التنظيمية، مثل تلك التي Sarbanes-Oxley (SOX) ومقاييس إعداد التقارير المالية الدولية (معايير IFRS) وإدارة الأغذية والعقاقير الأمريكية (FDA).
+      explanation: تساعد صفحة الفصل بين المهام تطبيقات التمويل والعمليات على التوافق مع المتطلبات التنظيمية، مثل تلك التي Sarbanes-Oxley (SOX) ومقاييس إعداد التقارير المالية الدولية (معايير IFRS) وإدارة الأغذية والعقاقير الأمريكية (FDA).
     - content: الأدوار الخارجية
       isCorrect: false
       explanation: وتتيح صفحة الأدوار الخارجية للمسؤولين إمكانية تعيين أدوار الأمان إلى دور خارجي، مثل العميل أو المورد.

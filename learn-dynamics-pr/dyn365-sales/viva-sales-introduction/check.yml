@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.viva-sales-introduction.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: c281ccb82b4047cfda867311dbc9617acda29eda
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9567456"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
+  questions:
+  - content: من سيكون المستخدمون الأساسيون لمبيعات Viva؟
+    choices:
+    - content: 'بائعون '
+      isCorrect: true
+      explanation: البائعون هم المستخدمون الأساسيون لمبيعات Viva.
+    - content: مديرو المبيعات
+      isCorrect: false
+      explanation: سيستخدم مديرو المبيعات Viva Sales، لكن البائعين هم المستخدمون الأساسيون لمبيعات Viva.
+    - content: الإدارة العليا
+      isCorrect: false
+      explanation: ستستخدم الإدارة العليا مبيعات Viva، لكن البائعين سيكونون المستخدمين الأساسيين لمبيعات Viva.
+    - content: تنفيذ أمر المستودع
+      isCorrect: false
+      explanation: من المحتمل ألا يستخدم تنفيذ أمر المستودع مبيعات Viva كثيراً.
+  - content: في أي تطبيقات Microsoft 365 تظهر إمكانات مبيعات Viva؟
+    choices:
+    - content: Teams فقط
+      isCorrect: false
+      explanation: تظهر إمكانات مبيعات Viva في Teams وفي Outlook.
+    - content: Teams وOutlook
+      isCorrect: true
+      explanation: تظهر إمكانات مبيعات Viva في Teams وفي Outlook.
+    - content: Outlook فقط
+      isCorrect: false
+      explanation: تظهر إمكانات مبيعات Viva في Teams وفي Outlook.
+    - content: Microsoft Word
+      isCorrect: false
+      explanation: تظهر إمكانات مبيعات Viva في Teams وفي Outlook.
+  - content: ما تطبيقات CRM التي تعمل مبيعات Viva معها خارج Dynamics 365؟
+    choices:
+    - content: Salesforce
+      isCorrect: true
+      explanation: خارج Dynamics 365، تعمل مبيعات Viva مع Salesforce CRM.
+    - content: Oracle
+      isCorrect: false
+      explanation: خارج Dynamics 365، تعمل مبيعات Viva مع Salesforce CRM.
+    - content: SAP
+      isCorrect: false
+      explanation: خارج Dynamics 365، تعمل مبيعات Viva مع Salesforce CRM.
+    - content: Hubspot
+      isCorrect: false
+      explanation: خارج Dynamics 365، تعمل مبيعات Viva مع Salesforce CRM.

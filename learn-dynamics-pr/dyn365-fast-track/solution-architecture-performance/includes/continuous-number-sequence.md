@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: f36cb24741b759c38632b45ac30469e7adde3f1d
-ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+ms.openlocfilehash: f938c2e922c4dae2aec6ced38a89da8c64c176f5
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/01/2022
-ms.locfileid: "9393403"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584162"
 ---
 بالنسبة لسيناريو ترحيل البيانات، يجب عَلى العميل استيراد أربعة ملايين معاملة مفتوحة. يستخدم "إطار عمل إدارة البيانات" (DMF) و **CustInvoiceJournalLineEntity**، والذي يدعم عمليات الاستيراد الموازية. بالإضافة إلَى ذلك، يقسم العميل الملف إلَى ملفات متعددة ثم يبدأ عمليات استيراد متوازية متعددة من خلال DMF. ومع ذلك، لا يعمل الاستيراد. رغم أن النتائج تُظهر أن البنية الأساسية ليست العقبة، يفتح العميل بطاقة دعم مع Microsoft لمراجعة البنية الأساسية.
 
@@ -17,11 +17,11 @@ ms.locfileid: "9393403"
 يتضمن حل هذا السيناريو الخطوات التالية:
 
 1. قم بتضمين رقم الإيصال كجزء من مجموعة بيانات الاستيراد.
-2. قم بتعيين التسلسل الرقمي مؤقتًا إلَى **يدوي** (يدوي: نعم).
+2. قم بتعيين التسلسل الرقمي مؤقتاً إلَى **يدوي** (يدوي: نعم).
 3. أكمل ترحيل البيانات.
 4. بعد الإكمال والتحقق من الصحة بنجاح، قم بتعيين التسلسل الرقمي مرة أخرى إلَى الوضع **المستمر** (يدوي: لا، مستمر: نعم).
 
-لمزيد من المعلومات، راجع [إعداد التسلسلات الرقمية عَلى أساس فردي - Finance and Operations | Dynamics 365 | Microsoft Docs](/dynamics365/fin-ops-core/fin-ops/organization-administration/tasks/set-up-number-sequences-individual-basis/?azure-portal=true)
+لمزيد من المعلومات، راجع [إعداد التسلسلات الرقمية على أساس فردي](/dynamics365/fin-ops-core/fin-ops/organization-administration/tasks/set-up-number-sequences-individual-basis/?azure-portal=true).
 
 ## <a name="anti-pattern"></a>النمط المضاد
 

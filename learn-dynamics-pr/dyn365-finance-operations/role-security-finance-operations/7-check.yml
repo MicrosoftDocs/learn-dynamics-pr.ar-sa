@@ -8,17 +8,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f715685a58cfea315741fdd348e7a245180ada37
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e81ee172eeb67753f01d35c4e44b59ee41590b27
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7352713"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574308"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
   questions:
-  - content: أي من عناصر الأمان التالية سيتم استخدامه لمنح حق الوصول إلى عنصر قائمة أو حقل معين في تطبيقات Finance and Operations؟
+  - content: أي من عناصر الأمان التالية سيتم استخدامه لمنح حق الوصول إلى عنصر قائمة أو حقل معين في تطبيقات التمويل والعمليات؟
     choices:
     - content: الرسوم
       isCorrect: false
@@ -46,17 +46,17 @@ quiz:
     - content: الامتياز
       isCorrect: false
       explanation: تم تعيين امتياز لرسم. بالرغم من أنه يمكن تخصيصه لمستخدم، إلا أنه لا يوصي بذلك. في التسلسل الهرمي للأمان، يكون الإذن أعلى بقليلٍ من التحكم الأمني متعدد المستويات.
-  - content: ما إطار العمل المستخدم لتعيين سياسات أمان البيانات لأدوار الأمان في تطبيقات Finance and Operations؟
+  - content: ما إطار العمل المستخدم لتعيين سياسات أمان البيانات لأدوار الأمان في تطبيقات التمويل والعمليات؟
     choices:
     - content: ‏‫إطار أمان البيانات القابل للتوسع
       isCorrect: true
       explanation: يتم استخدام إطار عمل أمان البيانات القابل للتوسيع (XDS) لتعيين سياسات أمان البيانات لأدوار الأمان، التي تمنع الوصول إلى جدول أو صف أو حقل معين.
     - content: إطار عمل أذونات الأمان
       isCorrect: false
-      explanation: إطار عمل أذونات الأمان غير موجود في تطبيقات Finance and Operations.
+      explanation: إطار عمل أذونات الأمان غير موجود في تطبيقات التمويل والعمليات.
     - content: إطار أمان البيانات المسموح به
       isCorrect: false
-      explanation: إطار عمل أمان البيانات المسموح به غير موجود في تطبيقات Finance and Operations.
+      explanation: إطار أمن البيانات المسموح به غير موجود في تطبيقات التمويل والعمليات.
     - content: إطار عمل أمان مستوى السجل
       isCorrect: false
-      explanation: تم استخدام إطار عمل أمان مستوى السجل (RLS) في Microsoft Dynamics AX 2012 والإصدارات السابقة من Dynamics وليس تطبيقات Finance and Operations.
+      explanation: تم استخدام إطار عمل أمان مستوى السجل (RLS) في Microsoft Dynamics AX 2012 والإصدارات السابقة من Dynamics وليس تطبيقات التمويل والعمليات.

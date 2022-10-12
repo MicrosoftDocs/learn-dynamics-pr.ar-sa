@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: bf224ecdbfa187f1399d4bef3c0c81b6896bb3ec
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: e1507c60ffea3f81f76178fb5a3ac2789b05a7be
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340445"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575508"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
@@ -40,7 +40,7 @@ quiz:
     - content: حزم البرامج القابلة للنشر
       isCorrect: false
       explanation: تُستخدم حزم البرامج القابلة للنشر لنشر التعليمات البرمجية في بيئة، ولا يمكن استخدامها مع أداة RSAT.
-  - content: أي مما يلي ليس مفهوم أعمال ذا صلة يجب مراعاته قبل وأثناء تنفيذ تطبيقات Finance and Operations؟
+  - content: أي مما يلي ليس مفهوم أعمال ذا صلة يجب مراعاته قبل وأثناء تنفيذ تطبيقات التمويل والعمليات؟
     choices:
     - content: عدد المستخدمين
       isCorrect: false

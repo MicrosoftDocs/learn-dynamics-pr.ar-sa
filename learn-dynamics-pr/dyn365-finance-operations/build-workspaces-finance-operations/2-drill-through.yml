@@ -3,17 +3,17 @@ uid: learn-dynamics.build-workspaces-dynamics-365-finance-operations.2-drill-thr
 title: إنشاء عناصر مساحة عمل التنقل
 metadata:
   title: إنشاء عناصر مساحة عمل التنقل
-  description: توضح هذه الوحدة كيفية إنشاء عناصر مساحة عمل التنقل في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية إنشاء عناصر مساحة عمل للتنقيب في تطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 03c29d11e7a908cd28a02b5b3b90f00bc6d854fc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fb0dc6c50c764f929842890a8854d2365725c40e
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362061"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575698"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -3,17 +3,17 @@ uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.8-sum
 title: الملخص
 metadata:
   title: الملخص
-  description: راجع ما تعرفت عليه حول العمل مع أدوات الأداء والمراقبة في وحدة تطبيقات Finance and Operations.
+  description: راجع ما تعرفت عليه حول العمل مع أدوات الأداء والمراقبة في وحدة تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 81221607e633461f4c2e6f9162b6019a8a7733ec
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 860634903f750502f0a570d5770ff864f34e949b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7327634"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580828"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

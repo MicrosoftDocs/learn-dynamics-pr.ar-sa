@@ -9,12 +9,12 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: ca548db0a838b3ac90d168317f2f0c128f983c44
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 2fb0db57e65f2d66da7ad53c6540f7407eb8c1cb
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9362364"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9505513"
 title: إنشاء أعمدة الحساب أو القيم المحتسبة وتحديدها في Dataverse
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -32,7 +32,7 @@ abstract: >
 
   - إنشاء عمود عملية الحساب.
 prerequisites: فهم المواضيع التي تمت تغطيتها في "الشروع في العمل باستخدام مسار Dataverse التعليمي وهذا المسار التعليمي.
-iconUrl: /learn/achievements/create-define-calculation-rollup-fields.svg
+iconUrl: /training/achievements/create-define-calculation-rollup-fields.svg
 levels:
 - intermediate
 roles:

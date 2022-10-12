@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8b137dac9e0e62a49c02dd8cfbae7b615b80ebab
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c77a956ceb4fa53e4609782c7034f2ae2e156091
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753012"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518341"
 title: إدارة النقل في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -21,7 +21,7 @@ summary: >
   تساعدك وحدة إدارة النقل في Dynamics 365 Supply Chain Management على العثور على الطريقة الأكثر فعالية لتوصيل البضائع إلى عملائك. تحسب إدارة النقل الطريقة الأقل تكلفة والأسرع لتسليم البضائع وتتيح لك تحديد البائعين وحلول التوجيه للأوامر الواردة والصادرة.
 abstract: "سوف تتعرف في هذه الوحدة على كيفية تنفيذ: \n- تخطيط النقل\n- التوجيه\n- التقييم\n- العمليات الواردة\n- تحميل العمليات\n- العمليات الصادرة\n"
 prerequisites: "- المعرفة العامة بـ Supply Chain Management \n- المعرفة العامة بإجراءات المخزون\n- المعرفة الأساسية بإجراءات المستودع\n- القدرة على استخدام Supply Chain Management للمعالجة الأساسية\n"
-iconUrl: /learn/achievements/configure-work-with-transportation-management-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/configure-work-with-transportation-management-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

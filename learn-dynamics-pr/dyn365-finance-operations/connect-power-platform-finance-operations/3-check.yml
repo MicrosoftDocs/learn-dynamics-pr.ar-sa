@@ -8,17 +8,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6780636307cfd040dfea0704828056e026bca1fb
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 712a995e4b320bdcab9217db420c568fc263f929
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350646"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581378"
 durationInMinutes: 4
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف عَلى ما تعلمته.
   questions:
-  - content: أنت مطور لشركة Contoso ‏Electronics وتحتاج إلى إنشاء تطبيق Power App يستخدم البيانات الموجودة في CustTable. لقد حددت المثيل، والآن تحتاج إلى تحديد الجدول الذي ستستخدمه لمصدر البيانات داخل التطبيق. عندما تحاول العثور على CustTable، لا يمكنك العثور عليه في قائمة اختيار جدول في Power Apps. ما الذي يمكنك التحقق منه لتشخيص سبب عدم عرض الجدول؟
+  - content: أنت مطور لشركة Contoso Electronics وتحتاج إلى إنشاء تطبيق Power App يستخدم البيانات الموجودة في CustTable. لقد حددت المثيل، والآن تحتاج إلى تحديد الجدول الذي ستستخدمه لمصدر البيانات داخل التطبيق. عندما تحاول العثور على CustTable، لا يمكنك العثور عليه في قائمة اختيار جدول في Power Apps. ما الذي يمكنك التحقق منه لتشخيص سبب عدم عرض الجدول؟
     choices:
     - content: تأكد من تمكين كيان البيانات في مساحة عمل إدارة البيانات.
       isCorrect: false
@@ -28,8 +28,8 @@ quiz:
       explanation: يجب أن يكون كيان البيانات عاماً.
     - content: تحقق من تعيين الخاصية IsPublic في كيان البيانات إلى "نعم".
       isCorrect: true
-      explanation: تحتاج إلى التحقق من أن كيان البيانات عام؛ إذا لم يكن عاماً، فلن تتمكن من الوصول إليه خارج تطبيقات Finance and Operations
-  - content: أي من العبارات التالية يعتبر صحيحاً فيما يتعلق بتكوين الكتابة المزدوجة في تطبيقات Finance and Operations؟
+      explanation: تحتاج إلى التحقق من أن كيان البيانات عام؛ إذا لم يكن عامًا، فلن تتمكن من الوصول إليه خارج تطبيقات التمويل والعمليات.
+  - content: أي من العبارات التالية يعتبر صحيحًا فيما يتعلق بتكوين الكتابة المزدوجة في تطبيقات التمويل والعمليات؟
     choices:
     - content: تم تكوين الكتابة المزدوجة في مساحة عمل إدارة الميزات.
       isCorrect: false
@@ -37,9 +37,9 @@ quiz:
     - content: يجب أن تكون مسؤولاً عن بيئة Microsoft Dataverse لإنشاء الارتباط بين التطبيقات.
       isCorrect: true
       explanation: عند إنشاء الارتباط بين التطبيقين، سترى فقط بيئات Dataverse التي تكون مسؤولاً فيها.
-    - content: تم إنشاء الارتباط بين تطبيقات Finance and Operations والتطبيق المستند إلى النموذج في Microsoft Azure.
+    - content: تم إنشاء الارتباط بين تطبيقات التمويل والعمليات والتطبيق المستند إلى النموذج في Microsoft Azure.
       isCorrect: false
-      explanation: يتم إجراء الإعداد في تطبيقات Finance and Operations.
-    - content: تم إنشاء الارتباط بين تطبيقات Finance and Operations والتطبيق المستند إلى النموذج في Dynamics Lifecycle Services ‏(LCS).
+      explanation: يتم الإعداد في تطبيقات التمويل والعمليات.
+    - content: تم إنشاء الارتباط بين تطبيقات التمويل والعمليات والتطبيق المستند إلى النموذج في Microsoft Dynamics Lifecycle Services.
       isCorrect: false
-      explanation: يتم إجراء الإعداد في تطبيقات Finance and Operations.
+      explanation: يتم الإعداد في تطبيقات التمويل والعمليات.

@@ -9,17 +9,17 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 26b8ff5b6530a0c0f02dfb7f3d16a071dd40e804
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: 601cc33b16915eef5152379135298ad145d8de11
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363499"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9502685"
 title: إنشاء علاقة بين الجداول في Dataverse
 summary: "[!include[](../includes/module-banner.md)]\n\nهل تحتاج لإنشاء علاقات بين الجداول؟ ستظهر هذه الوحدة كيفية فصل البيانات في الجداول وسبب العلاقة بين الجداول لإنشاء حلول تجارية معقدة وفعالة. سيتم أيضاً شرح الأنواع المختلفة للعلاقات التي يمكنك تحديدها بين الجداول في Dataverse. \n"
 abstract: "ستتعرف في هذه الوحدة على: \n- لماذا يجب عليك تقسيم البيانات التي تستخدمها الحلول الخاصة بك إلى العديد من الجداول.\n- لماذا يجب عليك ربط أحد الجداول بجدول آخر.\n- كيفية بناء العلاقات بين الجداول.\n- كيفية تحديد نوع العلاقة الصحيح عند إنشاء حلول باستخدام Dataverse.\n"
 prerequisites: فهم المواضيع التي تمت تغطيتها في "الشروع في العمل باستخدام مسار Dataverse التعليمي.
-iconUrl: /learn/achievements/create-relationship-between-cds-entities.svg
+iconUrl: /training/achievements/create-relationship-between-cds-entities.svg
 levels:
 - intermediate
 roles:

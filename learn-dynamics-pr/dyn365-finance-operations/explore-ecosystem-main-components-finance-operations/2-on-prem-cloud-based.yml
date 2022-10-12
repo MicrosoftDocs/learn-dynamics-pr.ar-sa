@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.explore-ecosystem-main-components-dynamics-365-finance-operations.2-on-prem-cloud-based
-title: تطبيقات Finance + Operations المحلية وتطبيقات Finance and Operations المستندة إلى السحابة
+title: تطبيقات Finance + Operations (on-premises) المحلية وتطبيقات التمويل والعمليات المستندة إلى السحابة
 metadata:
-  title: تطبيقات Finance + Operations المحلية وتطبيقات Finance and Operations المستندة إلى السحابة
-  description: التعرف على تطبيقات Finance + Operations المحلية وتطبيقات Finance and Operations المستندة إلى السحابة
+  title: تطبيقات Finance + Operations (on-premises) المحلية وتطبيقات التمويل والعمليات المستندة إلى السحابة
+  description: تعرف على تطبيقات Finance + Operations (on-premises) المحلية وتطبيقات التمويل والعمليات المستندة إلى السحابة
   ms.date: 06/18/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 52a6671b3002d4396755ed83e6c3ec1e72fe04f2
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4d121ae4e20a3cf9e9f0b7b0ca529996986ca8f6
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351763"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581248"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

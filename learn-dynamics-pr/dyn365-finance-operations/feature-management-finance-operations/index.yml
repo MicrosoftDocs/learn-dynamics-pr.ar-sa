@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dbc75601c056b9c115e357602789f62016c94512
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 59e76d9bfc74a478a56f2816043a6eb75597dad1
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749681"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580108"
 title: إدارة الميزات في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)] \nيتم إضافة الميزات وتحديثها في كل إصدار. توفر تجربة إدارة الميزات مساحة عمل حيث يمكنك عرض قائمة بالميزات التي تم تسليمها في كل إصدار. بعد ذلك، يمكنك استخدام مساحة العمل لعرض وثائق الميزة، ولتمكين الميزات أو تعطيلها.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرّف على مساحة عمل إدارة الميزات في تطبيقات التمويل والعمليات.\n- اكتشاف متى يتم تمكين الميزات وكيفية تمكينها، بما في ذلك كيفية تعطيل الميزات وإعادة جدولتها.\n- التعرّف على كيفية التحقق من وجود تحديثات للميزات وتعيين الأدوار.\n"
@@ -20,7 +20,7 @@ prerequisites: >
   - المعرفة الأساسية بتطبيقات التمويل والعمليات
 
   - فهم كيفية إدارة الميزات لتطبيقات التمويل والعمليات
-iconUrl: /learn/achievements/feature-management-finance-operations.svg
+iconUrl: /training/achievements/feature-management-finance-operations.svg
 levels:
 - intermediate
 roles:

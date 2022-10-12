@@ -3,17 +3,17 @@ uid: learn-dynamics.build-tables-dynamics-365-finance-operations.1-create
 title: إنشاء الجداول وحقول الجدول
 metadata:
   title: إنشاء الجداول وحقول الجدول
-  description: التعرف على كيفية إنشاء الجداول وحقول الجداول في تطبيقات Finance and Operations.
+  description: التعرف على كيفية إنشاء الجداول وحقول الجداول في تطبيقات التمويل والعمليات.
   ms.date: 05/04/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b6b8dabe148a58fe90f1d8af1e6298cdd0d06367
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a910f2b2ae52eb7f2d40dbf2192842b875bea124
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339513"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574088"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

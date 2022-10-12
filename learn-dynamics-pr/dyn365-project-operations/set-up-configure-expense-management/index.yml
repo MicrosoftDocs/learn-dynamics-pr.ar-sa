@@ -7,17 +7,17 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ad09af13bf597a99d7b6818cafd11b726556b4c5
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: f6c98f178077bb9eb652e4f37086cc76708facaa
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750674"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518411"
 title: إعداد إدارة المصروفات وتكوينها في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتوفر وحدة إدارة المصروفات للمستخدمين عملية أبسط لمعالجة المصروفات. مساحة عمل إدارة المصروفات هي المكان الذي يمكن للمستخدمين إرسال مصروفاتهم فيه، في حين أن مهام سير عمل إدارة المصروفات والميزات مثل التعرّف البصري على الحروف (OCR) لفحص الإيصالات يمكن أن تساعد في تحسين عمليات حساب مؤسستك.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- اكتشاف مساحة عمل إدارة المصروفات.\n- التعرف على كيفية تشغيل ميزة إعادة تصور تقارير المصروفات.\n- مراجعة معلمات إدارة المصروفات.\n- التعرف على وظيفة سير العمل لإدارة المصروفات.\n- قم بإعداد نهج المصروفات وتقييم النهج باستخدام منضدة عمل التدقيق.\n- قم بإعداد خيارات مصروفات حساب المسافة بالأميال.\n- قم بإعداد معالجة معاملات البطاقات المدينة واستيراد معاملات الرصيد.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشاف مساحة عمل إدارة المصروفات.\n- التعرف على كيفية تشغيل ميزة إعادة تصور تقارير المصروفات.\n- مراجعة معلمات إدارة المصروفات.\n- التعرف على وظيفة سير العمل لإدارة المصروفات.\n- قم بإعداد نهج المصروفات وتقييم النهج باستخدام منضدة عمل التدقيق.\n- قم بإعداد خيارات مصروفات حساب المسافة بالأميال.\n- قم بإعداد معالجة معاملات البطاقات المدينة واستيراد معاملات الرصيد.\n"
 prerequisites: "- معرفه عمليات إدارة المصروفات\n- المعرفة الأساسية لكيفية التنقل في تطبيقات تمويل وعمليات Microsoft Dynamics 365  \n"
-iconUrl: /learn/achievements/set-up-configure-expense-management.svg
+iconUrl: /training/achievements/set-up-configure-expense-management.svg
 levels:
 - intermediate
 roles:

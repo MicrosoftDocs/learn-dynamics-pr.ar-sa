@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 669229da4f54f1adaa3728cf7ed5f1dc0b1ad45a
-  ms.sourcegitcommit: 2d9a31d2afaf95e55867b4f86c88e84eb9d57fc0
+  ms.openlocfilehash: bb5c01579a7b897b8018b1922fd1b436e28a73a6
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/01/2022
-  ms.locfileid: "9105845"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9513429"
 title: إنشاء حدث في الموقع في Dynamics 365 Marketing
 summary: "[!include[](../includes/module-banner.md)] \nهل تدير الأحداث وتنظمها؟ تشرح هذه الوحدة عملية إنشاء حدث في الموقع وإدارة تفاصيل الحدث، بما في ذلك الجلسات، والمتحدثين، والجهات الراعية، والتسجيل، والتصاريح، والمزيد داخل Dynamics 365 Marketing.\n"
 abstract: "في هذه الوحدة، ستتعرف على كيفية القيام بما يلي: \n- إنشاء حدث شخصي في Dynamics 365 Marketing.\n- إدارة الجلسات، والمتحدثين، والجهات الراعية.\n- تكوين خيارات التسجيل وإعداد مسارات الأحداث.\n- الحصول على معلومات إضافية حول الحدث، بما في ذلك التفاصيل المالية وأعضاء فريق الحدث. \n- تخصيص محتوى التقويم لهذا الحدث.\n- إدارة لوجستيات الحدث.\n- نشر الحدث وعرض موقع ويب الحدث.\n"
 prerequisites: المعرفة الأساسية بتطبيق Dynamics 365 Marketing
-iconUrl: /learn/achievements/create-event-marketing.svg
+iconUrl: /training/achievements/create-event-marketing.svg
 levels:
 - intermediate
 roles:

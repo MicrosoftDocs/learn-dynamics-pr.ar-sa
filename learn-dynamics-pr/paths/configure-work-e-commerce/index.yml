@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: fcbb5099797cc3741ab0b9c012b5cd663e2276a5
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2c84d04c066047173e55fa4c56709d85d525e96b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752439"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9502902"
 title: تكوين التجارة الإلكترونية والتعامل معها في Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -23,7 +23,7 @@ prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce
 
   - فهم قنوات التجارة عبر الإنترنت وموقع التجارة الإلكترونية
-iconUrl: /learn/achievements/configure-work-e-commerce.svg
+iconUrl: /training/achievements/configure-work-e-commerce.svg
 levels:
 - intermediate
 roles:

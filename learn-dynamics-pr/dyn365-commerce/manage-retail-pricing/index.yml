@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 79a6902628808b5f36ae980810b7a4e7ffd0593e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 4e940a1976908e4eae836d70fe77eb673d98b9e2
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753084"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509121"
 title: إدارة تسعير البيع بالتجزئة في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيحتوي Dynamics 365 Commerce على محرك تسعير بقناة متعددة الاتجاهات يمكن استخدامه عبر جميع Commerce. إن امتلاك هذا الإصدار الفردي من البيانات التي يمكن لقنوات Commerce استخدامها لسحب الأسعار والخصومات وأولويات الخصم والقسائم والعروض الترويجية، يعني أن الأسعار يمكن أن تكون متسقة أو خاصة بالقناة حسب الحاجة. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعرف على سعر المبيعات وتسويات الأسعار.\n- تعرف على محرك تسعير البيع بالتجزئة وتفاصيله.\n- تعرف على كيفية تكوين مجموعات الأسعار.\n- اكتشف أنواع خصومات البيع بالتجزئة وتعامل معها. \n- تعرف على تقارير الأسعار. \n- التعرف علي كيفيه استخدام محرك تشعير Dynamics 365 Commerce لإنشاء عرض أسعار مبيعات في Dynamics 365 Sales.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على سعر المبيعات وتسويات الأسعار.\n- تعرف على محرك تسعير البيع بالتجزئة وتفاصيله.\n- تعرف على كيفية تكوين مجموعات الأسعار.\n- اكتشف أنواع خصومات البيع بالتجزئة وتعامل معها. \n- تعرف على تقارير الأسعار. \n- التعرف علي كيفيه استخدام محرك تشعير Dynamics 365 Commerce لإنشاء عرض أسعار مبيعات في Dynamics 365 Sales.\n"
 prerequisites: >
-  - المعرفة الأساسية بـ Dynamics 365 Commerce
+  - المعرفة الأساسية بتطبيق Dynamics 365 Commerce
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/manage-retail-pricing-commerce.svg
+iconUrl: /training/achievements/manage-retail-pricing-commerce.svg
 levels:
 - intermediate
 roles:

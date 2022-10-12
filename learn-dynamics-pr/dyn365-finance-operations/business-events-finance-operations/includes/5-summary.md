@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: aa05f5d3b19afe03f0478173a5c92b1dd2aa5dd6
-ms.sourcegitcommit: 90b2fb8366c65bce1c45671f8203b47b66e49643
+ms.openlocfilehash: 68b6d3304cfb6880497c01229bc760bcd86489d0
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/01/2022
-ms.locfileid: "9213805"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579348"
 ---
 يجب فهم الهدف من التقاط حدث الأعمال بوضوح. بمعنى آخر، تحتاج إلى تحديد سبب التقاط حدث الأعمال وكيفية استخدامه بواسطة المستلم.
 
@@ -31,10 +31,9 @@ ms.locfileid: "9213805"
 
   
 
-| الموضوع| الرابط|
+| الموضوع| الارتباط|
  | ------------- | ------------- |
  | أحداث الأعمال| [نظرة عامة على أحداث الأعمال](/dynamics365/fin-ops-core/dev-itpro/business-events/home-page/?azure-portal=true)|
  | عملية التطوير وأفضل ممارسات تنفيذ أحداث الأعمال.|  [وثائق مطور أحداث الأعمال](/dynamics365/fin-ops-core/dev-itpro/business-events/business-events-dev-doc/?azure-portal=true)|
- | إدارة البيانات | [قم بالعمل باستخدام إدارة البَيانات في تطبيقات التمويل والعمليات](/learn/modules/work-data-management-finance-operations/?azure-portal=true)|
- | توسيع العناصر في تطبيقات التمويل والعمليات| [توسيع العناصر في تطبيقات التمويل والعمليات](/learn/modules/extend-elements-finance-operations/?azure-portal=true)|
-
+ | إدارة البيانات | [العمل باستخدام إدارة البَيانات في تطبيقات التمويل والعمليات](/training/modules/work-data-management-finance-operations/?azure-portal=true)|
+ | توسيع العناصر في تطبيقات التمويل والعمليات| [توسيع العناصر في تطبيقات التمويل والعمليات](/training/modules/extend-elements-finance-operations/?azure-portal=true)|

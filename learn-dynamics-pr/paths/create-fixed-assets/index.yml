@@ -9,16 +9,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 21f93ed1ce7b03db96ac05eea7c87cc739cef9a4
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 77087dfba590b17c49076c61f3942d8de3509c80
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752367"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511103"
 title: إنشاء أصول ثابتة في Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تعلم كيفية إنشاء سجلات للأصول الثابتة في Business Central؟ سيوضح لك \"مسار التعليم\" هذا كيفية إنشاء أصول ثابتة. كما سيناقش خيارات الإهلاك وكيفية إعداد أصول المكونات. \n"
 prerequisites: "- الفهم الأساسي للإهلاك والأصول الثابتة\n- المعرفة الأساسية بكيفية التنقل في Business Central    \n"
-iconUrl: /learn/achievements/create-fixed-assets.svg
+iconUrl: /training/achievements/create-fixed-assets.svg
 levels:
 - intermediate
 roles:

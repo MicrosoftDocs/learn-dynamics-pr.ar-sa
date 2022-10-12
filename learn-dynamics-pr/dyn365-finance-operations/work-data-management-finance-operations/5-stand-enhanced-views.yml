@@ -3,17 +3,17 @@ uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.5-stan
 title: استخدام طرق العرض القياسية والمحسنة للإطارات المتجانبة
 metadata:
   title: استخدام طرق العرض القياسية والمحسنة للإطارات المتجانبة
-  description: توضح هذه الوحدة استخدام طرق العرض القياسية والمحسنة للإطارات المتجانبة في تطبيقات Finance and Operations.
+  description: توضح هذه الوحدة استخدام طرق العرض القياسية والمحسنة للإطارات المتجانبة في تطبيقات التمويل والعمليات.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 790e1a8e7160ca36ff2bc8e8020701b985293fbd
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4deab3f4844234230996d4e5ad078fdd1430e636
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359732"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579388"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

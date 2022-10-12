@@ -3,17 +3,17 @@ uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.3-per
 title: اختبار الحمل باستخدام Performance SDK
 metadata:
   title: اختبار الحمل باستخدام Performance SDK
-  description: تعرف على كيفية اختبار الحمل باستخدام Performance SDK في تطبيقات Finance and Operations.
+  description: تعرف على كيفية اختبار الحمل باستخدام Performance SDK في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0b9ca147c17b03cfbcd87f7311ee3a3d96ce92db
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 0af7e3496a67bff4de877bcd47d16b8bdb37cc1f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329281"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577028"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

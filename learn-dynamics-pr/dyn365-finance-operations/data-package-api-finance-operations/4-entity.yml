@@ -3,18 +3,18 @@ uid: learn-dynamics.data-package-api-dynamics-365-finance-operations.4-entity
 title: إدارة تعقب تغييرات الكيان
 metadata:
   title: إدارة تعقب تغييرات الكيان
-  description: تعرّف على طريقة إدارة تعقب تغييرات الكيان في تطبيقات Finance and Operations.
+  description: تعرّف على طريقة إدارة تعقب تغييرات الكيان في تطبيقات التمويل والعمليات.
   ms.date: 07/18/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/entity-change-track
-  ms.openlocfilehash: 03b3b36059bd974c01ef11bc829c2bded9d78010
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/entity-change-track
+  ms.openlocfilehash: 72def2a87800110998ed8b8bacf41ec1ea1acde5
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7340451"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579198"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -7,21 +7,21 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: e32ddeec812cc8f3d36b912e68ba8402ed4d4781
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: f57ce7d04b42b92f1bbc03023a6b052a0f96314b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750053"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507645"
 title: إدارة الفرص باستخدام Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   تسهل إمكانات إدارة الفرص في Microsoft Dynamics 365 إدارة الفرص وتحويل المزيد من العملاء المتوقعين. في هذه الوحدة النمطية، ستتعلم كيف ومتى يتم استخدام الفرص وإدارتها في Dynamics 365. ستتعرف أيضًا على خيارات إنشاء الفرص وعلاقاتها مع السجلات الأخرى وكيفية إدارتها طوال دورة حياتها. من خلال توفير عرض كامل للعميل، يساعدك Dynamics 365 على كسب المزيد من الصفقات.
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحديد السيناريوهات التي يمكن فيها استخدام الفرص\n- إنشاء وتحديد الفرص\n- العمل مع سجلات الفرصة ذات الصلة\n- إدارة فرصة طوال دورة حياتها\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحديد السيناريوهات التي يمكن فيها استخدام الفرص\n- إنشاء وتحديد الفرص\n- العمل مع سجلات الفرصة ذات الصلة\n- إدارة فرصة طوال دورة حياتها\n"
 prerequisites: يجب أن يكون لدى الجمهور المستهدف فهم أساسي لكيفية التنقل في تطبيق Dynamics 365، وأيضًا معرفة عملية بالسجلات الأساسية المتوفرة. الإلمام بالعمل مع العملاء المتوقعين مفيد أيضًا ولكنه ليس مطلوباً.
-iconUrl: /learn/achievements/manage-opportunities-d365-sales.svg
+iconUrl: /training/achievements/manage-opportunities-d365-sales.svg
 levels:
 - intermediate
 roles:

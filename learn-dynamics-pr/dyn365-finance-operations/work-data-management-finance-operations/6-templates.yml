@@ -3,18 +3,18 @@ uid: learn-dynamics.work-with-data-management-in-dynamics-365-finance-ops.6-temp
 title: استخدام القوالب في إدارة البيانات
 metadata:
   title: استخدام القوالب في إدارة البيانات
-  description: تصف هذه الوحدة كيفية استخدام القوالب في إدارة البيانات في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية استخدام القوالب في إدارة البيانات في تطبيقات التمويل والعمليات.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/configuration-data-templates?toc=/fin-and-ops/toc.json
-  ms.openlocfilehash: 602ee494803a5fca70200c1aca7fc099b1d70c9f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/configuration-data-templates?toc=/fin-and-ops/toc.json
+  ms.openlocfilehash: 5c3e0835a2d51b6cd3d0fb67588899be7554b19b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362604"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582448"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

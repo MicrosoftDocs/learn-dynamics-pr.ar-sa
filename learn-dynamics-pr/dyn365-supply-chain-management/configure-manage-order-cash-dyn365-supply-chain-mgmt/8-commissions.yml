@@ -8,13 +8,13 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.custom: https://docs.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/tasks/set-up-sales-commission-rules
-  ms.openlocfilehash: 21bb49fbb6b9b8202780eae8dba2768636709d42
-  ms.sourcegitcommit: 05a011c560322e506df954dc765b608a7c062dd8
+  ms.custom: https://learn.microsoft.com/dynamics365/unified-operations/supply-chain/sales-marketing/tasks/set-up-sales-commission-rules
+  ms.openlocfilehash: b4ebdc2fde58f8ea3f8cfba93ec31858f4e4aa74
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 10/26/2021
-  ms.locfileid: "7690986"
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9559675"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

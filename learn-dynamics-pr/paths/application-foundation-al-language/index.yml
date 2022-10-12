@@ -8,16 +8,16 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: e943ba67e132acef6c357eca5ec0740803e6d042
-  ms.sourcegitcommit: c3d3ea2a6b876f1fd5dbdb548b8c69f963f53e01
+  ms.openlocfilehash: 78e79cd2327313dde2582c5383f81003e01d3f19
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/18/2022
-  ms.locfileid: "9027694"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509567"
 title: تعرف على البنية الأساسية للتطبيق باستخدام لغة البرمجة AL لـ Microsoft Dynamics 365 Business Central
 summary: "[!include[](../../includes/lp-banner.md)]\nهل تود بدء تطوير حلول باستخدام لغة التطبيق (AL) لـ Business Central؟ يقدم مسار التعليم هذا AL ويناقش العبارات والوحدات البرمجية (codeunits) والوظائف والأحداث والمشغلات والمزيد. \n"
 prerequisites: "- معرفة كيفية إنشاء مشروع AL Extension جديد\n- المعرفة الأساسي بـ Dynamics 365 Business Central وطريقة عمله    \n- تجربة المطور السابقة باستخدام AL أو لغة برمجة أخرى ذات فائدة كبيرة\n"
-iconUrl: /learn/achievements/application-foundation-al-language.svg
+iconUrl: /training/achievements/application-foundation-al-language.svg
 levels:
 - intermediate
 - beginner

@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 25b71b13855ffd3a963a1439a2e0b30528c7c138
-  ms.sourcegitcommit: 51b5831dce806301f20590475f94c3b5fd75c070
+  ms.openlocfilehash: a0142ef742d19cfa3a38e99ea379878560c8ec8a
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/20/2022
-  ms.locfileid: "9179312"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509011"
 title: إدارة أوامر العمل والاتفاقيات والمخزون والشراء في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\nاستفد من الاتفاقيات للمساعدة في إنشاء أوامر العمل وفقاً لجدول زمني محدد مسبقاً مثل سيناريوهات الصيانة الوقائية.  بالإضافة إلى ذلك، من خلال الاستفادة من المخزون، يمكنهم إدارة مستويات المخزون بشكل أكثر فعالية في المستودعات والتأكد من أن الفنيين لديهم ما يحتاجون إليه لتقديم الخدمات لعملائهم أثناء تواجدهم في الحقل.     يحتوي Dynamics 365 على العديد من العناصر الأساسية التي يمكن تكوينها لتخصيص تنفيذ Field Service بشكل أفضل لتلبية الاحتياجات المطلوبة للمؤسسة.  \n"
 abstract: >
@@ -28,7 +28,7 @@ abstract: >
 
   - تحديد وإدارة المخزون والمستودعات
 prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد فهم تطبيق Field Service.
-iconUrl: /learn/achievements/work-order-management-agreements-inventory-and-purchasing-in-microsoft-dynamics-365-for-field-service.svg
+iconUrl: /training/achievements/work-order-management-agreements-inventory-and-purchasing-in-microsoft-dynamics-365-for-field-service.svg
 levels:
 - intermediate
 roles:

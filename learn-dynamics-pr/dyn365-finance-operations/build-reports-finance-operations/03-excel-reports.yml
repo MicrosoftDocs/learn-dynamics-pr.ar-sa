@@ -3,17 +3,17 @@ uid: learn-dynamics.build-reports-dynamics-365-finance-operations.03-excel-repor
 title: إنشاء وتعديل التقارير التي تستخدم Excel
 metadata:
   title: إنشاء وتعديل التقارير التي تستخدم Excel
-  description: تعرف على كيفية إنشاء وتعديل التقارير التي تستخدم Excel في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إنشاء وتعديل التقارير التي تستخدم Excel في تطبيقات التمويل والعمليات.
   ms.date: 06/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a4254f38cfd233326a1b0aaea315bf2c664b7292
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: eae1385d08f35b9d5696f2a3f3ff98b92fb0fe81
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7357955"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576558"
 durationInMinutes: 4
 content: >-
   [!include[](../includes/unit-banner.md)]

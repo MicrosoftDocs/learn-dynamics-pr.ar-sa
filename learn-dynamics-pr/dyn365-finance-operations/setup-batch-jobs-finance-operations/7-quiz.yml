@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 279dc4f2b9c2dac9de4859960dbc27b3af191eba
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 95cc48d29ac6f87c785be13249bcfc654624c62c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341826"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573618"
 title: اختبر معلوماتك
 durationInMinutes: 10
 quiz:
@@ -64,7 +64,7 @@ quiz:
       explanation: مهمة الدُفعة هي نشاط يتم تشغيله بواسطة وظيفة دفعية. يمكنك إضافة مهام مجمعة لها أنواع متعددة من التبعيات إلى وظيفة دُفعية.
     - content: إطار عمل الدُفعة
       isCorrect: true
-      explanation: يوفر إطار عمل الدُفعات بيئة معالجة دُفعات غير متزامنة قائمة على الخادم يمكنها معالجة المهام عبر مثيلات متعددة لـ Application Object Server‏ (AOS). إن AOS هي الواجهة بين تطبيق العميل، مثل المستعرض وقاعدة بيانات تطبيقات Finance and Operations.
+      explanation: يوفر إطار عمل الدُفعات بيئة معالجة دُفعات غير متزامنة قائمة على الخادم يمكنها معالجة المهام عبر مثيلات متعددة لـ Application Object Server‏ (AOS). إن AOS هي الواجهة بين تطبيق العميل، مثل المستعرض وقاعدة بيانات تطبيقات التمويل والعمليات.
     - content: مجموعة الدُفعات
       isCorrect: false
       explanation: مجموعة الدُفعات هي سمة مهمة دُفعة. تتيح مجموعة الدُفعات للمسؤول تحديد أو تحديد مثيل AOS الذي يقوم بتشغيل المهمة.
@@ -78,7 +78,7 @@ quiz:
       explanation: مستخدم لديه دور أمان مدير وظيفة الدُفعة، لديه حق الوصول لنسخ وظيفة دُفعة.
     - content: إنشاء وظيفة دُفعة غير مخطط لها
       isCorrect: false
-      explanation: تعد القدرة على إنشاء وظائف مجمعة غير مخططة أحد الامتيازات المعينة لدور أمان مدير وظيفة الدُفعة.
+      explanation: تعد القدرة على إنشاء وظيفة دفعية غير مخططة أحد الامتيازات المعينة لدور أمان مدير وظيفة الدُفعة.
     - content: حدد النطاقات الزمنية التي يمكن خلالها تنفيذ المهام.
       isCorrect: false
       explanation: يمكن لدور أمان مدير وظيفة الدُفعة تحديد النطاقات الزمنية التي يمكن خلالها تنفيذ الوظائف.

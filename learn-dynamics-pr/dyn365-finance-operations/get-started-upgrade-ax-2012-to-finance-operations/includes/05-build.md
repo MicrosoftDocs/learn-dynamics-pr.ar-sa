@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 6614857d1f7a08a2a6702a4a81f109aa5be5b594
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 6dedd814a931a5e3b78a5217c98da7f25d59791c
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7324517"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580018"
 ---
-البناء عملية أخذ كود مصدر ثم إنتاج عناصر بناء يمكن للنظام تشغيلها، مثل الملفات الثنائية. في Dynamics AX2012، تختلف عمليات البناء عن عمليات البناء الموجودة في تطبيقات Finance and Operations. 
+البناء عملية أخذ كود مصدر ثم إنتاج عناصر بناء يمكن للنظام تشغيلها، مثل الملفات الثنائية. في Dynamics AX 2012، تختلف الإنشاءات عن الإنشاءات في تطبيقات التمويل والعمليات. 
 
 على سبيل المثال، عمليات البناء المؤتمتة‬ إلزامية لمساعدتك على الآتي:
 
@@ -42,7 +42,7 @@ ms.locfileid: "7324517"
 ## <a name="deployment"></a>التوزيع
 عندما يتم بناء الكود، ستكون جاهزاً لتوزيعه. لا تحتوي الحزمة القابلة للتوزيع على الكود المصدر، لكنها تحتوي على الثنائيات المطلوبة لبيئة وقت التشغيل. للعثور على البناء، يمكنك استخدام مسارات Microsoft Azure والعثور على حزمة البناء في **عناصر البناء**. بعد تنزيل حزمة قابلة للتوزيع، يمكنك إما توزيعها يدوياً بواسطة تحميل الحزمة إلى Lifecycle Services ثم تطبيقها على إحدى البيئات أو يمكنك استخدام التوزيع المؤتمت (الخاص بالبيئات غير الإنتاجية فقط). 
 
-للحصول على مزيد من المعلومات، راجع [Dynamics 365 Finance and Operations الأدوات](https://marketplace.visualstudio.com/items?itemName=Dyn365FinOps.dynamics365-finops-tools). 
+لمزيد من المعلومات، راجع [أدوات Dynamics 365 Finance and Operations Tools](https://marketplace.visualstudio.com/items?itemName=Dyn365FinOps.dynamics365-finops-tools). 
 
 شاهد الفيديو التالي للحصول على عرض توضيحي للنشر الثنائي إلى بيئة في Lifecycle Services. 
 

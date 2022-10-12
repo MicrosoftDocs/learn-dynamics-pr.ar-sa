@@ -2,17 +2,17 @@
 uid: learn-dynamics.difference-ax2012-finance-operations.08-summary
 title: الملخص
 metadata:
-  title: الملخص
-  description: ملخص وحدة الاختلافات الرئيسية بين Dynamics AX 2012وتطبيقات ‎Finance and Operations.
+  title: الملخص‬
+  description: ملخص حول بنية التكامل بين Dynamics AX 2012و تطبيقات التمويل والعمليات.
   ms.date: 02/05/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 65620234bb0987a56c38bd0122a3cb4ef3a76107
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3a66719ae12bac57b619701ae068ba749a691533
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362706"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579078"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-summary.md)]"

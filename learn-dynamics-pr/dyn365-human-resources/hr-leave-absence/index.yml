@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 184a3f92fae90d6318f773a8b02641e7adb731ed
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a84711244f5727007e5a4c6e7a608e993d902c3c
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748944"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9503118"
 title: إدارة الإجازة والغياب في Dynamics 365 Human Resources
 summary: "[!include[](../includes/module-banner.md)] \nتعرف على كيفية إنشاء خطط الإجازات وإدارة طلبات الإجازات في Dynamics 365 Human Resources.\n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استكشف إمكانات مساحة عمل الإجازة والغياب في Human Resources.\n- تعرف على كيفية تكوين معلمات الإجازة والغياب.\n- تعرف على كيفية إنشاء خطة إجازة وغياب في Human Resources.\n- تعرف على كيفية تعيين الموظفين إلى خطة إجازة وغياب.\n- إنشاء برنامج حيث يمكن للموظفين شراء إجازة وبيعها.\n- تعرف على كيفية إدارة طلبات الإجازات.\n- تعرف على كيفية استخدام تطبيق Dynamics 365 Human Resources في Microsoft Teams.\n"
 prerequisites: المعرفة العامة للمفاهيم وممارسات Human Resources
-iconUrl: /learn/achievements/hr-leave-absence.svg
+iconUrl: /training/achievements/hr-leave-absence.svg
 levels:
 - beginner
 roles:

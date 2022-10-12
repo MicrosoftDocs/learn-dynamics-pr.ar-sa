@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2b8829273a8695c9133f20069444e295adf3b395
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 709d7738414c2904f870b696e9c17019fc269bb4
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7351745"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582098"
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -32,21 +32,21 @@ quiz:
     - content: نماذج التطبيق
       isCorrect: false
       explanation: يتم استخدام نماذج التطبيقات أثناء إنشاء الحزم القابلة للنشر.
-  - content: ما أنواع التقارير المتوفرة لتطبيقات Finance and Operations؟
+  - content: ما أنواع التقارير المتوفرة لتطبيقات التمويل والعمليات؟
     choices:
     - content: SQL Server Reporting Services
       isCorrect: false
-      explanation: تتوفر SQL Server Reporting Services أو تقارير SSRS مع تطبيقات Finance and Operations.
+      explanation: تتوفر SQL Server Reporting Services أو تقارير SSRS مع تطبيقات التمويل والعمليات.
     - content: Power BI
       isCorrect: false
-      explanation: يتوفر Power BI بتنسيقات متعددة في تطبيقات Finance and Operations
+      explanation: Power BI متوفر بتنسيقات متعددة في تطبيقات التمويل والعمليات
     - content: التقارير المالية
       isCorrect: false
-      explanation: هناك العديد من التقارير المالية المضمنة في تطبيقات Finance and Operations.
+      explanation: هناك العديد من التقارير المالية المضمنة في تطبيقات التمويل والعمليات.
     - content: كل ما سبق
       isCorrect: true
-      explanation: جميع الإجابات صحيحة. تشتمل تقارير تطبيقات Finance and Operations على تقارير SSRS وتقارير Power BI والتقارير المالية عن طريق استخدام مصمم التقارير المالية.
-  - content: أي من نماذج التطبيق التالية يشتمل على معظم العناصر الموجودة في الوحدات النمطية لتطبيقات Finance and Operations؟
+      explanation: جميع الإجابات صحيحة. تشتمل تقارير تطبيقات التمويل والعمليات على تقارير SSRS وتقارير Power BI والتقارير المالية عن طريق استخدام مصمم التقارير المالية.
+  - content: أي من نماذج التطبيق التالية يشتمل على معظم العناصر الموجودة في الوحدات النمطية لتطبيقات التمويل والعمليات؟
     choices:
     - content: مركز التطبيق
       isCorrect: false
@@ -56,7 +56,7 @@ quiz:
       explanation: تم العثور على بعض العناصر في نموذج أساس التطبيق، ولكن الجزء الأكبر موجود في مجموعة التطبيق.
     - content: مجموعة التطبيق
       isCorrect: true
-      explanation: يتم العثور على معظم العناصر التي تشكل الوحدات النمطية لتطبيقات Finance and Operations في مجموعة التطبيق.
+      explanation: يتم العثور على معظم العناصر التي تشكل الوحدات النمطية لتطبيقات التمويل والعمليات في مجموعة التطبيق.
     - content: النظام الأساسي للتطبيق
       isCorrect: false
       explanation: لا يشتمل نموذج النظام الأساسي للتطبيق على بعض العناصر ولكن معظم العناصر موجودة في مجموعه التطبيق.

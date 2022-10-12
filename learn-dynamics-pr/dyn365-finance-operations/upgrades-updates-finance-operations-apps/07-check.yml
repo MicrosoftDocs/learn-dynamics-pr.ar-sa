@@ -8,35 +8,35 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 713e12a1214f02f898756643eca4b88973da473c
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 26a4393c36ccf31757ea188bc85341138eb1411d
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359756"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579448"
 durationInMinutes: 4
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: ما إخراج ترقية الكود أثناء ترقية AX‏ 2012 إلى Finance and Operations؟
+  - content: ما إخراج ترقية الكود أثناء ترقية AX 2012 إلى التمويل والعمليات؟
     choices:
     - content: تقرير تحليل الفروق والملاءمة وتحليل الكود
       isCorrect: false
-      explanation: يتم إجراء تحليل الفروق والملاءمة بواسطة المستخدم، وليس بواسطة أداة ترقية الكود. إجراء تحليل الفروق والملاءمة بعد توزيع بيئة العرض التوضيحي في مدخل LCS الجديد الخاص بك للتحقق من الاختلافات في البرنامج لإجراءات العمل الخاصة بك من أجل تحديد الفروق المحتملة أو تأكيد عدم وجود أي فروق.
+      explanation: يتم إجراء تحليل الفروق والملاءمة بواسطة المستخدم، وليس بواسطة أداة ترقية الكود. إجراء تحليل الفروق والملاءمة بعد توزيع بيئة العرض التوضيحي في مدخل Lifecycle Services الجديد الخاص بك للتحقق من الاختلافات في البرنامج لإجراءات العمل الخاصة بك من أجل تحديد الفروق المحتملة أو تأكيد عدم وجود أي فروق.
     - content: تقرير ملخص الترحيل، بما في ذلك معلومات التخصيص وتقرير قائمة "المهام"
       isCorrect: true
       explanation: يُعد تقرير "ملخص الترحيل" ملخص تحليل الكود ويتضمن معلومات التخصيص. وتُعد قائمة "المهام" تقريراً آخر يمثل تقديرات أولية لجهد التطوير.
     - content: تحليل عمليات الترقية وتحليل الكود
       isCorrect: false
       explanation: يُعد تحليل عمليات الترقية جزءاً من إخراج خطة إنشاء مشروع لتقدير الجهد المبذول لتحضير AX‏ 2012. كما يُعد تحليل الكود جزءاً من ترقية الكود.
-  - content: في أي إصدار يمكنك استخدام "أداة ترحيل البيانات (DMT)" للترقية إلى أحدث إصدار من Finance and Operations؟
+  - content: في أي إصدار يمكنك استخدام "أداة ترحيل البيانات (DMT)" للترقية إلى أحدث إصدار من التمويل والعمليات؟
     choices:
-    - content: الترقية من AX ‏2012 إلى Finance and Operations
+    - content: الترقية من AX 2012 إلى التمويل والعمليات
       isCorrect: false
       explanation: يتم استخدام "أداة ترحيل البيانات" في ترقية AX ‏2009.
-    - content: الترقية من 8.0 إلى الإصدار 10 لـ Finance and Operations
+    - content: الترقية من 8.0 إلى الإصدار 10 للتمويل والعمليات
       isCorrect: false
       explanation: يتم استخدام "أداة ترحيل البيانات" في ترقية AX ‏2009.
-    - content: الترقية من AX ‏2009 إلى Finance and Operations
+    - content: الترقية من AX 2009 إلى التمويل والعمليات
       isCorrect: true
       explanation: يتم استخدام "أداة ترحيل البيانات" في ترقية AX ‏2009.

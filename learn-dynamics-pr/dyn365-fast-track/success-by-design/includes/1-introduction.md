@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 308f91e51dd85ce0dc15f5d7f645cb6dc2322de6
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: b331428dc2744fda6f83a95856816dfbfdc7cd48
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7431844"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9517082"
 ---
-FastTrack لـ Microsoft Dynamics ‏365 (مثل تطبيقات Dynamics 365 Sales أو Dynamics 365 Customer Service أو Unified Operations) هي خدمة نجاح عملاء Microsoft. إنه مصمم لمساعدة العملاء والشركاء على تحقيق نشر ناجح لـ Microsoft Power Platform وDynamics 365. لتقديم هذه الخدمة، يقوم مهندسو حلول FastTrack باستخدام Success by Design. مشاركة فريق FastTrack متاحة لمشاريع العملاء التي تلبي [متطلبات الأهلية لـ FastTrack](/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365?azure-portal=true). نظراً لأن ليس كل المشاريع مؤهلة، تقوم Microsoft بعمل نسخة مخصصة من Success by Design متاحة للشركاء والعملاء لاستخدامها بمفردها. يفحص مسار التعليم [استخدام حلول تطبيقات Success by Design for Dynamics 365](/learn/paths/use-success-design/?azure-portal=true) هذا الإصدار وكيف يكن للشركاء والعملاء استخدام Success by Design لتحقيق نشر ناجح لـ Microsoft Power Platform أو Dynamics 365.
+FastTrack لـ Microsoft Dynamics ‏365 (مثل تطبيقات Dynamics 365 Sales أو Dynamics 365 Customer Service أو Unified Operations) هي خدمة نجاح عملاء Microsoft. إنه مصمم لمساعدة العملاء والشركاء على تحقيق نشر ناجح لـ Microsoft Power Platform وDynamics 365. لتقديم هذه الخدمة، يقوم مهندسو حلول FastTrack باستخدام Success by Design. مشاركة فريق FastTrack متاحة لمشاريع العملاء التي تلبي [متطلبات الأهلية لـ FastTrack](/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365?azure-portal=true). نظراً لأن ليس كل المشاريع مؤهلة، تقوم Microsoft بعمل نسخة مخصصة من Success by Design متاحة للشركاء والعملاء لاستخدامها بمفردها. يفحص مسار التعليم [استخدام حلول تطبيقات Success by Design for Dynamics 365](/training/paths/use-success-design/?azure-portal=true) هذا الإصدار وكيف يكن للشركاء والعملاء استخدام Success by Design لتحقيق نشر ناجح لـ Microsoft Power Platform أو Dynamics 365.
 
 Success by Design هو الإرشادات الوصفية (أساليب وأفضل الممارسات) لتصميم حل Dynamics 365 وإنشائه ونشره. يعتمد Success by Design على خبرة Microsoft في توفير الإشراف الهندسي عبر آلاف عمليات النشر مع مئات الشركاء من خلال برنامج FastTrack على مر السنين. أساسياته هي بنية وتصميم جيد للحلول، وقدرات تقنية لخط إنتاج Dynamics 365، وأساليب مثبتة لتحديات التصميم والتنفيذ التي تنشأ أثناء تحول عملية الأعمال وتنفيذها.
 

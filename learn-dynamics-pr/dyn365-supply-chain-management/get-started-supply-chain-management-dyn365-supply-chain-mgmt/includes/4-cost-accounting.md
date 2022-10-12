@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b71f9f106fb64b93e58dbf7b811d011585d1f645
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 23df417ef1a48f9a828c87efce4b054796c0623f
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7352451"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9508258"
 ---
 تتيح لك محاسبة التكاليف جمع البيانات من مصادر مختلفة، مثل دفتر الأستاذ العام ودفاتر الأستاذ الفرعية والموازنات والمعلومات الإحصائية. يمكنك بعد ذلك تحليل بيانات التكلفة وتلخيصها وتقييمها حتى تتمكن الإدارة من اتخاذ أفضل القرارات الممكنة لتحديثات الأسعار والموازنات والتحكم في التكاليف وما إلى ذلك.
 
@@ -14,5 +14,4 @@ ms.locfileid: "7352451"
  
 ![لقطة شاشة تُظهر صفحة مراقبة التكاليف.](../media/cost-control.png)
 
-لمزيد من المعلومات، راجع [الشروع في العمل مع محاسبة التكاليف لسلاسل الإمداد في مسار التعليم في Dynamics 365 Finance](/learn/paths/get-started-cost-accounting-supply-chains-dyn365-finance/?azure-portal=true). 
-
+لمزيد من المعلومات، راجع [الشروع في العمل مع محاسبة التكاليف لسلاسل الإمداد في مسار تعليم Dynamics 365 Finance](/training/paths/get-started-cost-accounting-supply-chains-dyn365-finance/?azure-portal=true). 

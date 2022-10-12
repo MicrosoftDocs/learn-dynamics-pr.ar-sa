@@ -3,24 +3,33 @@ uid: learn-dynamics.product-catalog
 metadata:
   title: إدارة وتنظيم كتالوج المنتج الخاص بك باستخدام Dynamics 365 Sales
   description: يساعد Microsoft Dynamics 365 على تنظيم وإدارة حتى كتالوج المنتجات الأكثر تعقيداً لدعم عملائك في سيناريوهات مشاركة العملاء (على سبيل المثال، المبيعات وخدمة العمود). في هذه الوحدة، ستتعلم كيفية تحديد المنتجات والمجموعات والحزم والاستفادة من خصائص المنتج وتحديد قوائم الأسعار. ستتعرف أيضاً على خيارات التسعير لزيادة الاتساق والكفاءة.
-  ms.date: 09/16/2021
+  ms.date: 12/31/2021
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d4b2a680398e12d7085ecfa1e711806f89399de3
-  ms.sourcegitcommit: 161388e1abd83ba12d50010142309f615d0decbb
+  ms.openlocfilehash: 68580039c3e472cbaf3fd3799bb9051a1406029b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/19/2021
-  ms.locfileid: "7503161"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507635"
 title: إدارة وتنظيم كتالوج المنتج الخاص بك باستخدام Dynamics 365 Sales
 summary: >
   [!include[](../includes/module-banner.md)]
 
   يساعد Microsoft Dynamics 365 على تنظيم وإدارة حتى كتالوج المنتجات الأكثر تعقيداً لدعم عملائك في سيناريوهات مشاركة العملاء (على سبيل المثال، المبيعات وخدمة العمود). في هذه الوحدة، ستتعلم كيفية تحديد المنتجات والمجموعات والحزم والاستفادة من خصائص المنتج وتحديد قوائم الأسعار. ستتعرف أيضاً على خيارات التسعير لزيادة الاتساق والكفاءة.
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد مجموعات الوحدات للمساعدة في التحكم في كيفية بيع المنتجات\n- إنشاء تدرجات هرمية لمجموعة المنتجات تتضمن حزم المنتجات والمنتجات الفردية\n- إعداد بيانات تسعير المنتج عن طريق إنشاء قوائم الأسعار وبنود قائمة الأسعار\n- استخدام قوائم الخصومات لتوفير أسعار الخصم بالحجم\n"
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - إعداد مجموعات الوحدات للمساعدة في التحكم في كيفية بيع المنتجات
+
+  - إنشاء تدرجات هرمية لمجموعة المنتجات تتضمن حزم المنتجات والمنتجات الفردية
+
+  - إعداد بيانات تسعير المنتج عن طريق إنشاء قوائم الأسعار وبنود قائمة الأسعار
+
+  - استخدام قوائم الخصومات لتوفير أسعار الخصم بالحجم
 prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. يمكن أن يكون الإلمام بأساسيات المبيعات الأساسية مثل العملاء المتوقعين والفرص والأوامر والفواتير مفيداً أيضاً.
-iconUrl: /learn/achievements/manage-product-catalog-d365-sales.svg
+iconUrl: /training/achievements/manage-product-catalog-d365-sales.svg
 levels:
 - intermediate
 roles:
@@ -29,6 +38,8 @@ roles:
 products:
 - dynamics-365
 - dynamics-sales
+subjects:
+- marketing-sales
 units:
 - learn-dynamics.product-catalog.1-product-catalog-overview
 - learn-dynamics.product-catalog.2-currencies-and-currency-management

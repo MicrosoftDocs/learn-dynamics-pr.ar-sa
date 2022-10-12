@@ -4,16 +4,16 @@ title: معمل - إنشاء نموذج
 labId: 64122
 metadata:
   title: معمل - إنشاء نموذج
-  description: ‏‫‏‫التدرّب على إنشاء نموذج في تطبيقات Finance and Operations.
+  description: تدرب على إنشاء نموذج في تطبيقات التمويل والعمليات.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 8d4c50b21310d03d0abe97cbe50c5472eeecf7ac
-  ms.sourcegitcommit: ff754a1100e6f6918ac8857395d22fa96a3dc612
+  ms.openlocfilehash: 864e234b2fa5c4c7e2a8f8b9f781eede59140611
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/13/2021
-  ms.locfileid: "7917504"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578277"
 durationInMinutes: 30
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs.md)] \n[!include[](includes/9-exercise.md)] \n[!include[](../includes/standalone-lab-end.md)]"

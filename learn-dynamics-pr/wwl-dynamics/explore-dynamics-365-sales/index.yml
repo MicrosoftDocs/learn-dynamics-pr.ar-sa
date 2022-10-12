@@ -8,12 +8,12 @@ metadata:
   ms.author: ceabrams
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-sales
-  ms.openlocfilehash: c33a62626f07af2655f7ffdeedcc426cb2c923a3
-  ms.sourcegitcommit: 2daf7805ad2cc01f616bbd9eb7c0e083f02e84d6
+  ms.openlocfilehash: 732ef8569f8542302e2a87a4c2e5e46154c05f7f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "9370178"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508151"
 title: استكشاف Dynamics 365 Sales
 summary: تقدم هذه الوحدة النمطية Dynamics 365 Sales إلَى المتعلمين مع التركيز على إدارة العملاء المتوقعين ومؤهلات العملاء المتوقعين والفرص وأوامر المبيعات كجزء من دورة حياة المبيعات القياسية.
 abstract: >
@@ -29,8 +29,8 @@ abstract: >
 
   - شرح معالجة أوامر المبيعات باستخدام Dynamics 365 Sales
 prerequisites: >
-  لا شيء
-iconUrl: /learn/achievements/1-explore-dynamics-365-sales.svg
+  بلا
+iconUrl: /training/achievements/1-explore-dynamics-365-sales.svg
 levels:
 - beginner
 roles:

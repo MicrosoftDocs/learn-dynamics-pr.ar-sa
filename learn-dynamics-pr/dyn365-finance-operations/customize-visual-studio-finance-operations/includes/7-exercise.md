@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 99370cf7bcf245131a6e8d19ec48abf3688e446a
-ms.sourcegitcommit: b94bf0957921479438b9518ec047e5eaa5b44e3b
+ms.openlocfilehash: 88aceddf76465f1c69ac78959b2e2a6260440285
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "7922999"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9577228"
 ---
 ## <a name="scenario"></a>السيناريو
-يُعد مطور تطبيقات Finance and Operations موظفاً جديداً في شركة Fleet Management. يحتاج المطور إلى إنشاء المشروع الخاص به في Visual Studio لبدء تطوير عناصر جديدة. تم تكليف المطور بإنشاء نوع البيانات الملحقة (EDT) للون السيارة.
+يُعد مطور تطبيقات التمويل والعمليات موظفاً جديداً في شركة Fleet Management. يحتاج المطور إلى إنشاء المشروع الخاص به في Visual Studio لبدء تطوير عناصر جديدة. تم تكليف المطور بإنشاء نوع البيانات الملحقة (EDT) للون السيارة.
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد
 

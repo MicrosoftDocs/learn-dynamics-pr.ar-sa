@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3809b0d61bd56704036a032bc1b8629f9f2011e7
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: ed524f8ca357632148829eb3294fdba1a54900be
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749447"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519231"
 title: تنفيذ الإجراءات اليومية لدفتر الأستاذ العام في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)]\n\nيساعد Dynamics 365 Finance في جعل معالجة دفتر اليومية العامة أسهل ويضمن التقاط البيانات الصحيحة وعدم المساس بالرقابة الداخلية. دعنا نتعرف على عمليات دفتر الأستاذ العام، ثم ننفذ الإجراءات اليومية في دفتر الأستاذ العام. \n"
 abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- عمليات دفتر الأستاذ العام. \n- حسابات التحكم في الرصيد.\n- عناصر التحكم في دفتر اليومية.\n- قوالب الإيصالات.\n- تسويات دفتر الأستاذ.\n"
@@ -24,7 +24,7 @@ prerequisites: >
   - معرفة التنقل الأساسي في Finance
 
   - التعرف على كيفية إعداد دفتر الأستاذ العام في Finance
-iconUrl: /learn/achievements/general-ledger-daily-procedures-in-dynamics-365-finance-ops.svg
+iconUrl: /training/achievements/general-ledger-daily-procedures-in-dynamics-365-finance-ops.svg
 levels:
 - intermediate
 roles:

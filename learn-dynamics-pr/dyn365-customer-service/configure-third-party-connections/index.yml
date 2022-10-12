@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 22367243c503f703ca0f9dcbe2ae408710f6864a
-  ms.sourcegitcommit: bf4797fc3a8b39430e1b6fddb7c06d5ab877a49a
+  ms.openlocfilehash: 76f746bbe1c89a3fcb1730685d1e65cccda13b1f
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/27/2022
-  ms.locfileid: "9203382"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515296"
 title: إدارة الاتصالات الخارجية باستخدام Customer Insights
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -31,7 +31,7 @@ abstract: >
 
   - استخدام واجهات برمجة التطبيقات (API) من Customer Insights.
 prerequisites: المعرفة الأساسية بتطبيقات Customer Insights وDynamics 365 المتعلقة بالعملاء.
-iconUrl: /learn/achievements/configure-third-party-connections.svg
+iconUrl: /training/achievements/configure-third-party-connections.svg
 levels:
 - intermediate
 roles:

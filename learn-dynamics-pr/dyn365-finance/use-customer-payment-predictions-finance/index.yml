@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 5c3ba309fcb0c6a431423855ed2a7c783baba160
-  ms.sourcegitcommit: 8594c8c897c84afee64be07d76b49d8e1ed405e1
+  ms.openlocfilehash: d467a97850e8b722e49bf87cc0dce7f4294fd008
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/19/2022
-  ms.locfileid: "8770466"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507715"
 title: استخدام توقعات دفع العميل في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nتتيح ميزة توقعات دفع العميل في Dynamics 365 Finance للمؤسسات تصور العملاء الذين من المحتمل أن يسددوا الدفع في الوقت المحدد والعملاء الذين من المحتمل أن يسددوا الدفع في وقت متأخر. تعمل هذه الميزة على تحسين عملية التحصيلات لأنها تمنح المؤسسات الفطنة التي تسمح لها بتحديد العملاء الذين يجب تعقبهم، بسبب الدفعات المتأخرة المتوقعة. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تحليل توقعات دفع العميل.\n- تحسين توقعات دفع العميل.\n-   معرفة كيفية حساب احتمالات الدفع. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تحليل توقعات دفع العميل.\n- تحسين توقعات دفع العميل.\n-   معرفة كيفية حساب احتمالات الدفع. \n"
 prerequisites: >
   -   المعرفة العامة بالوحدة النمطية "عمليات التحصيل والائتمان‬" في Dynamics 365 Finance
 
   -   المعرفة العامة بـ AI Builder
-iconUrl: /learn/achievements/use-customer-payment-predictions-finance.svg
+iconUrl: /training/achievements/use-customer-payment-predictions-finance.svg
 levels:
 - intermediate
 roles:

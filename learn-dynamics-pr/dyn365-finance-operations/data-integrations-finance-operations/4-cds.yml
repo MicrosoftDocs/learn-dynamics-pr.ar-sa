@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.data-integrations-dynamics-365-finance-operations.4-cds
-title: عمليات تكامل Microsoft Dataverse
+title: Microsoft Dataverse تكاملات
 metadata:
-  title: عمليات تكامل Dataverse
-  description: تعرف على عمليات تكامل Dataverse في تطبيقات Finance and Operations.
+  title: Dataverse تكاملات
+  description: تعرف على Dataverse عمليات الدمج في تطبيقات التمويل والعمليات.
   ms.date: 07/20/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: f6d268e9d4a86a365e4ac7ffbb72a1a89ab1bf33
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: d9fec007f02b36ffb5181e890b22b9812462492f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7361531"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575618"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

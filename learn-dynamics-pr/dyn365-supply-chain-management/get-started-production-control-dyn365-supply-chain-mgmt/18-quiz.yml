@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 563b3b11ec4f9ff384186c55b5be9688a295cde8
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 06b70a453e2796f7202becd97d33e7f01d67bfce
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7365611"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9536479"
 title: اختبر معلوماتك
 durationInMinutes: 10
 quiz:
@@ -73,9 +73,9 @@ quiz:
       explanation: يتم استخدام دفتر يومية بطاقة الوظيفة للإبلاغ عن العمالة بتفاصيل مثل أوقات البدء والانتهاء.
   - content: أين تم إنشاء ذاكرة التخزين المؤقتة Redis لإعداد IoT؟
     choices:
-    - content: Lifecycle services
+    - content: Lifecycle Services
       isCorrect: false
-      explanation: لم تقم بتكوين ذاكرة التخزين المؤقتة Redis وإعدادها في LCS.
+      explanation: لم تقم بتكوين ذاكرة التخزين المؤقتة Redis وإعدادها في Lifecycle Services.
     - content: صفحة محددات Supply Chain Management
       isCorrect: false
       explanation: لا يمكنك إعداد ذاكرة التخزين المؤقتة Redis في المحددات.

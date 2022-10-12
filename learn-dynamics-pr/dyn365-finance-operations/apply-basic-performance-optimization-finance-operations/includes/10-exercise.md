@@ -1,14 +1,14 @@
 ---
-ms.openlocfilehash: 3e67c0dbd6a92c474332a5df4249f1091d1b9884
-ms.sourcegitcommit: ff754a1100e6f6918ac8857395d22fa96a3dc612
+ms.openlocfilehash: 9897f095be40d28950d2b8d18e369f831178a8c3
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "7917431"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578348"
 ---
 
 ## <a name="scenario"></a>السيناريو
-بصفتك مطور تطبيقات Finance and Operations يمكنك استخدام فئات قابلة للتشغيل لاختبار الكود الخاص بك. في هذا التمرين المعملي، ستقوم بإنشاء مشروع جديد في Visual Studio، وكتابة فئة قابلة للتشغيل، ثم تشغيل الكود داخل التطبيق للتأكد من أنه يعمل كما هو متوقع.
+بصفتك مطور تطبيقات التمويل والعمليات يمكنك استخدام فئات قابلة للتشغيل لاختبار الكود الخاص بك. في هذا التمرين المعملي، ستقوم بإنشاء مشروع جديد في Visual Studio، وكتابة فئة قابلة للتشغيل، ثم تشغيل الكود داخل التطبيق للتأكد من أنه يعمل كما هو متوقع.
 
 
 ## <a name="create-a-new-project"></a>إنشاء مشروع جديد

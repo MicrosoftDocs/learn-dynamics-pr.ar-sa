@@ -7,12 +7,12 @@ metadata:
   author: oscarfranco
   ms.author: oscarfranco
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 82b820c934e0636d12eaddcdfec4efff811a08aa
-  ms.sourcegitcommit: 1619b2f0d1c8648728fda1c09721aa0c87e2546d
+  ms.openlocfilehash: d20ab808f18651b24a4cdb0545e34cfffccd91c7
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/24/2022
-  ms.locfileid: "9047199"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504135"
 title: توسيع واجهات API باستخدام Dynamics 365 Project Operations
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -34,7 +34,7 @@ prerequisites: >
   - المعرفة الأساسية بنظام Microsoft Dataverse الأساسي
 
   - فهم #C وSDK
-iconUrl: /learn/achievements/extend-apis-project-operations.svg
+iconUrl: /training/achievements/extend-apis-project-operations.svg
 levels:
 - intermediate
 roles:

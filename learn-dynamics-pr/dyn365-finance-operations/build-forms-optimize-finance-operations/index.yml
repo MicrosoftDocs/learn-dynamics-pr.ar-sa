@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d1b8f039ad65a26277f58fd05545890f5ed0874d
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 29703e57e41569d79ac61cce86b3d51c8da46105
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749834"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575758"
 title: إنشاء النماذج وتحسين أداء النموذج في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nيتم إنشاء النماذج وإدارتها في Visual Studio وسيتم عرضها على المستخدم كصفحات ويب. وتوضح هذه الوحدة كيفية إنشاء النماذج وإدارتها في بيئة مطوري تطبيقات التمويل والعمليات، إلى جانب كيفية تحسين أداء النماذج. \n"
 abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء نموذج جديد.\n- تطبيق نمط نموذج.\n- أضف مصدر بَيانات إلى نموذج.\n- أضف الشبكات والحقول والمجموعات إلى نموذج.\n- فهم أساليب النماذج.\n- اكتشف أنواع عناصر القائمة.\n- قم بإنشاء عنصر قائمة وإضافته إلى نموذج.\n- قم بتشغيل نموذج واختبر وظائفه.\n- تعرف على الأدوات المستندة إلى المستعرض وPerformance Timer المستخدمة لتحسين أداء النموذج.\n"
 prerequisites: >
-  - الفهم الأساسي لأنظمه تخطيط موارد المؤسسة
+  - الفهم الأساسي لأنظمة تخطيط موارد المؤسسة
 
   - الفهم الأساسي للبرمجة الموجهة للكائنات
 
   - المعرفة الأساسية بتطبيقات التمويل والعمليات
-iconUrl: /learn/achievements/build-forms-optimize-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/build-forms-optimize-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

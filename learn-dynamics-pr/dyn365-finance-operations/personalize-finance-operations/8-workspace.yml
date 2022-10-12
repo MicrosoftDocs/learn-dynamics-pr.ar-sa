@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops.8-personalize-a-workspa
 title: تخصيص مساحة عمل
 metadata:
   title: تخصيص مساحة عمل
-  description: تصف هذه الوحدة تخصيص مساحة عمل في Dynamics 365 لتطبيقات Finance and Operations.
+  description: تصف هذه الوحدة كيفية تخصيص مساحة عمل في Dynamics 365 لتطبيقات التمويل والعمليات.
   ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 21b8cbdc5c6d21b28ed073dd506a800ad77bc59d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 6fd4073732e7926762ee81c3245f514965bcdd2b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328171"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580368"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

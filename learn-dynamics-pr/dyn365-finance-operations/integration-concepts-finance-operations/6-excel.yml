@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.integration-concepts-dynamics-365-finance-operations.6-excel
-title: تكامل تطبيقات Finance and Operations مع Microsoft Excel
+title: تكامل تطبيقات التمويل والعمليات مع Microsoft Excel
 metadata:
-  title: تكامل تطبيقات Finance and Operations مع Microsoft Excel
-  description: تعرّف على كيفية تكامل تطبيقات Finance and Operations مع Microsoft Excel.
+  title: تكامل تطبيقات التمويل والعمليات مع Microsoft Excel
+  description: تعرف على كيفية دمج تطبيقات التمويل والعمليات مع Microsoft Excel.
   ms.date: 12/15/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4a786fbbc42dae852bcd0305360ddea3b0886eac
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 41d2495fdc33c4c14ca8eead5215701dfbbe852b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7331157"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9580878"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

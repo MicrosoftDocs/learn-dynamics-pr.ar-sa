@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3f8607cea067923a560e00a247ab1c78c53949a
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 200d1e9b7ce7d4e40593a5133a48afca876f1b10
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7333434"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9579458"
 ---
 يتضمن تحديث الإصدار هذا إعادة التحويل البرمجي بدون إصلاحات عاجلة، ودمج حزمة قابلة للتوزيع وتطبيقها، ثم التحقق من الصحة وتسجيل الخروج. وهو لا يتضمن ترقية بيانات. تشتمل العملية عالية المستوى للتحديث من الإصدار 8.0 إلى الإصدار 10.0.X على المهام التالية:
 
@@ -16,5 +16,5 @@ ms.locfileid: "7333434"
 6.  التوزيع إلى بيئات مستهدفة للتحقق من صحتها.
 7.  التوزيع إلى الإنتاج.
 
-لمعرفة المزيد حول الترقيات والتحديثات، راجع وثائق [عملية النقل إلى آخر تحديث من Finance and Operations](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-latest-update/?azure-portal=true).
+لمعرفة المزيد حول الترقيات والتحديثات، راجع [وثائق عملية النقل إلى آخر تحديث من وثائق التمويل والعمليات](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-latest-update/?azure-portal=true).
 

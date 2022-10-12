@@ -4,15 +4,15 @@ title: استخدام واجهة المندوب
 metadata:
   title: استخدام واجهة المندوب
   description: تعلم كيفية استخدام واجهة المندوب.
-  ms.date: 08/03/2022
+  ms.date: 09/22/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 02de3eceaa26596ff14967fa7b1f349fdd11b656
-  ms.sourcegitcommit: 6ac76810604a424ccb4647d2f05dbec7f76f5e52
+  ms.openlocfilehash: f253b90a4e1d907247eb3b78c7ea1d972d3df0ef
+  ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/04/2022
-  ms.locfileid: "9225278"
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9584504"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/2-agent-experience.md)]"

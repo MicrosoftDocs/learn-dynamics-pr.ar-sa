@@ -9,19 +9,19 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 191a849c305645f55a81778270dc442c385fae9c
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 1617aa1acd4c73b50f8d0c6702a3f20e5aa923e8
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751665"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508664"
 title: إعداد Microsoft Dynamics 365 Business Central لإعداد التقارير
 summary: هل تود استخدام "Business Central" مع تطبيقات أخرى أو توفير البَيانات في السحابة؟ إِذن، مسار التعليم هذا يناسبك. ويتضمن أيضًا وحدة تتناول تغيير كيفية ظهور المستندات في Business Central.
 prerequisites: >
   - الفهم الأساسي للتعامل مع Business Central وPower BI والسحابة.
 
   - بعض المعلومات الأساسية عن طباعه المستندات والتقارير وتنسيقها.
-iconUrl: /learn/achievements/setup-reporting-dynamics-365-business-central.svg
+iconUrl: /training/achievements/setup-reporting-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

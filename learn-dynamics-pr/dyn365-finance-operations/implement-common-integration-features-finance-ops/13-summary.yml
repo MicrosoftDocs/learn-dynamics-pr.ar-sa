@@ -2,18 +2,18 @@
 uid: learn-dynamics.implement-common-integration-features-in-dynamics-365-finance-ops.13-common-integration-fo-summary
 title: الملخص
 metadata:
-  title: الملخص
-  description: ملخص تنفيذ ميزات التكامل المشتركة في وحدة تطبيقات Finance and Operations.
+  title: الملخص‬
+  description: ملخص حول تنفيذ ميزات التكامل المشتركة في وحدة تطبيقات التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 73bb241446d582f9ffdcf0888f6c3d3944de18fc
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: b3047b4e9b1fa5cd3a108e28d9918f847ba7c2d3
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7324505"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576048"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

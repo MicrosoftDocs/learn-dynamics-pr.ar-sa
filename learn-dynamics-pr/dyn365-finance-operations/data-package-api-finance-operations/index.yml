@@ -2,20 +2,20 @@
 uid: learn-dynamics.data-package-api-dynamics-365-finance-operations
 metadata:
   title: تنفيذ واجهة برمجة التطبيقات (API) لحزمة إدارة البَيانات لتطبيقات التمويل والعمليات
-  description: تتيح لك واجهة برمجة التطبيقات (API) الخاصة بنقل الحالة التمثيلية (REST) الخاصة بحزمة إطار عمل إدارة البَيانات التكامل مع تطبيقات التمويل والعمليات باستخدام حزم البَيانات.
+  description: تتيح لك واجهة برمجة التطبيقات (API) الخاصة بـ Representational state transfer (REST) الخاصة بحزمة إطار عمل إدارة البَيانات التكامل مع تطبيقات التمويل والعمليات باستخدام حزم البَيانات.
   ms.date: 03/23/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4e8adb1d711c8d3de07aee2349c2b29a6389aeb2
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 0514102fc532c3375dc6cffc5097e73072b9478f
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749780"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9579158"
 title: تنفيذ واجهة برمجة التطبيقات (API) لحزمة إدارة البَيانات لتطبيقات التمويل والعمليات
-summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لك واجهة برمجة التطبيقات (API) الخاصة بنقل الحالة التمثيلية (REST) الخاصة بحزمة إطار عمل إدارة البَيانات التكامل مع تطبيقات التمويل والعمليات باستخدام حزم البَيانات. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم باستيراد واجهات برمجة التطبيقات (API) وتصديرها بين عمليات النشر السحابية لتطبيقات التمويل والعمليات وعمليات النشر المحلية.\n- استيراد وتصدير واجهات برمجة التطبيقات (API) بين عمليات النشر المحلية.\n- استخدم GetExecutionSummaryStatus للحصول على حالة وتوافر واجهات برمجة التطبيقات (API).\n- إنشاء فئات برنامج التضمين باستخدام C# وX++\n"
+summary: "[!include[](../includes/module-banner.md)]\n\nتتيح لك واجهة برمجة التطبيقات (API) الخاصة بـ Representational state transfer (REST) الخاصة بحزمة إطار عمل إدارة البَيانات التكامل مع تطبيقات التمويل والعمليات باستخدام حزم البَيانات. \n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- قم باستيراد واجهات برمجة التطبيقات (API) وتصديرها بين عمليات التوزيع السحابية لتطبيقات التمويل والعمليات وعمليات التوزيع المحلية.\n- استيراد وتصدير واجهات برمجة التطبيقات (API) بين عمليات التوزيع المحلية.\n- استخدم GetExecutionSummaryStatus للحصول على حالة وتوافر واجهات برمجة التطبيقات (API).\n- إنشاء فئات برنامج التضمين باستخدام C# وX++\n"
 prerequisites: >
   - المعرفة الأساسية بتطبيقات التمويل والعمليات
 
@@ -24,7 +24,7 @@ prerequisites: >
   - خبرة التطوير باستخدام لغة البرمجة X++
 
   - الفهم الأساسي لعمليات التكامل المتكررة ومفاهيم تكامل البَيانات
-iconUrl: /learn/achievements/data-package-api-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/data-package-api-dynamics-365-finance-operations.svg
 levels:
 - advanced
 roles:

@@ -7,17 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4b3db5dca1b1efe0cdf4218fb51f9dd47c027b01
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 584d94743fa36a218dd5e26b2ffb768f97aa8cc4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8753251"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9509081"
 title: دمج تطبيقات Office وDynamics 365 Customer Engagement
 summary: "[!include[](../includes/module-banner.md)]\n\nاستخدم القوالب ومنتجات Office لتوسيع إمكانيات تطبيقات Dynamics 365 Customer Engagement. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استكشف خيارات القوالب والأمان.\n- دراسة الكيفية التي تتكامل بها منتجات Office مع Dynamics 365.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استكشف خيارات القوالب والأمان.\n- دراسة الكيفية التي تتكامل بها منتجات Office مع Dynamics 365.\n"
 prerequisites: فهم تطبيقات Dynamics 365 for Customer Engagement.
-iconUrl: /learn/achievements/integrate-office-and-dynamics-365-customer-engagement.svg
+iconUrl: /training/achievements/integrate-office-and-dynamics-365-customer-engagement.svg
 levels:
 - beginner
 roles:

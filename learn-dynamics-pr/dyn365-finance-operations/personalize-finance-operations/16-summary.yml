@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.personalize-dynamics-365-finance-ops.16-personalize-finance-ops-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: ملخص الوحدة النمطية لإضفاء الطابع الشخصي على تطبيقات Finance and Operations.
+  title: الملخص‬
+  description: ملخص للوحدة النمطية "إضفاء الطابع الشخصي على تطبيقات التمويل والعمليات".
   ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0829b6d80be0c38ff09a7e1f78a2b7530e2a5c28
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 11b095da79d18f139fab05ba578c78e3f1979a97
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7328183"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574738"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

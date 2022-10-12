@@ -8,12 +8,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 01d9e60ae85bfde4c3b2517e6ac746aa4ad91a71
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 56a21bba1ee9802ead888db752f52d796210b8f8
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334240"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581368"
 durationInMinutes: 10
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته
@@ -42,7 +42,7 @@ quiz:
       explanation: يمكن استدعاء الأساليب التي تم تعريفها على أنها `private` من الأساليب ضمن نفس الفئة.
     - content: أسلوب `access`
       isCorrect: false
-      explanation: لا يوجد الأسلوب `access` في تطبيقات Finance and Operations.
+      explanation: أسلوب `access` غير موجود في تطبيقات التمويل والعمليات.
     - content: أسلوب `protected`
       isCorrect: false
       explanation: يمكن استدعاء الأساليب التي تم تعريفها على أنها `protected` فقط من الأساليب في الفئة أو الأساليب الموجودة في فئة فرعيه للفئة.
@@ -53,7 +53,7 @@ quiz:
       explanation: يتم استخدام عبارة `where` لتحديد الحالة التي سيقوم أسلوب التحديث باختبارها أثناء معالجة كل صف في الجدول `SampleTable`.
     - content: تحديد موقع sampleTable.AccountNum == “1234”
       isCorrect: false
-      explanation: العبارة "تحديد الموقع" غير موجودة في الترميز الخاص بتطبيقات Finance and Operations.
+      explanation: العبارة "تحديد الموقع" غير موجودة في الترميز الخاص بتطبيقات التمويل والعمليات.
     - content: الانضمام sampleTable.AccountNum == “1234”
       isCorrect: false
       explanation: تربط العبارة `join` بين جدولين في عمود مشترك بين كلا الجدولين. وهي لا تحدد موقع سجل معين.

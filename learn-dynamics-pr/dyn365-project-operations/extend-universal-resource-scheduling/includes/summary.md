@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2b20b9249e0b01dfe831dbbae42ac4e9267dfbec
-ms.sourcegitcommit: 387570c3e18c5bac18992a0b71b9740aa99cba9a
+ms.openlocfilehash: c9b952634c5583c2334d4cfd8073a751afc4754e
+ms.sourcegitcommit: 5a5f934bb5589a60351e42ecabca55cc0c536e61
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/30/2022
-ms.locfileid: "9092996"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "9595059"
 ---
 قدمت لك هذه الوحدة النمطية لوحة الجدولة في Project Operations، وهو الجزء الأساسي من Universal Resource Scheduling.
 
@@ -22,4 +22,4 @@ ms.locfileid: "9092996"
 
 - [تحرير قالب حجز لوحة الجدولة في Dynamics 365 Field Service](/dynamics365/field-service/booking-template/?azure-portal=true)
 
-- [مرحباً بك في Font Awesome Docs](https://fontawesome.com/docs/?azure-portal=true)
+- [مرحباً بك في Font Awesome documentation](https://fontawesome.com/docs/?azure-portal=true)

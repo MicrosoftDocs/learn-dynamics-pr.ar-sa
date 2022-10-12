@@ -3,17 +3,17 @@ uid: learn-dynamics.integrate-azure-dynamics-365-finance-operations.8-optimize
 title: تحسين كيانات البيانات لتحقيق أداء أفضل
 metadata:
   title: تحسين كيانات البيانات لتحقيق أداء أفضل
-  description: تعرّف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تحسين كيانات البيانات لتحقيق أداء أفضل في تطبيقات التمويل والعمليات.
   ms.date: 07/23/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cac49ff763c6b17fc2035f40461224f63a48a740
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4a6d9d5c085bd414bc734c4c4a6a94adf45e1a59
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334180"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577519"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

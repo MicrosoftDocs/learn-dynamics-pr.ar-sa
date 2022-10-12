@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-project-operations
-  ms.openlocfilehash: 21cb6f571aa960069f478f07294a7ea82e78e9bc
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 920b0522e1e5170ad3b43e5740c06d40269b8adf
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752133"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516896"
 title: بدء استخدام الميزات الموجودة في Dynamics 365 Project Operations
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -23,7 +23,7 @@ prerequisites: >
   - المعرفة الأساسية لعمليات إدارة المشاريع.
 
   - المعرفة العامة بكيفية التنقل في Dynamics 365 Project Operations.
-iconUrl: /learn/achievements/get-started-features-project-operations.svg
+iconUrl: /training/achievements/get-started-features-project-operations.svg
 levels:
 - intermediate
 roles:

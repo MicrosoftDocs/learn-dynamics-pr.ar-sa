@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e836c58419458c5038a66b12b5ef26626149f934
-ms.sourcegitcommit: bfcf3cb276d50978eba5dd4b8268a26abfd9783a
+ms.openlocfilehash: 41e0bd59dff09aaa9ac2cd34c833af6a64e45f56
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "7436308"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9518381"
 ---
 ستحتاج إما إلى بيئة تجريبية أو بيئة تحديد الصلاحيات مع Sales Insights لإكمال هذه البرامج التعليمية.
 
@@ -87,7 +87,7 @@ ms.locfileid: "7436308"
 
 ## <a name="step-5-save-the-sequence"></a>الخطوة 5: احفظ التسلسل
 
-احفظ التسلسل الذي تم إنشاؤه ليكون متوفرًا لمؤسستك.
+احفظ التسلسل الذي تم إنشاؤه ليكون متوفراً لمؤسستك.
 
 ![يحتوي تسلسل البرنامج التعليمي على بريد إلكتروني للمقدمة، وانتظر ليوم واحد، ومتابعة إجراءات المكالمة. زر حفظ في أعلى اليمين.](../media/tutorial-1-9.png)
 
@@ -113,6 +113,6 @@ ms.locfileid: "7436308"
 ![اكتب اسم التسلسل في مربع البحث لفتحه.](../media/tutorial-1-12.png)
 
 > [!NOTE]
-> راجع [البرنامج التعليمي 2](/learn/modules/sales-sequence/3-connect/?azure-portal=true) لمعرفة كيفية توصيل هذا التسلسل بعملاء متوقعين. 
+> راجع [البرنامج التعليمي 2](/training/modules/sales-sequence/3-connect/?azure-portal=true) لمعرفة كيفية توصيل هذا التسلسل بعملاء متوقعين. 
 
  

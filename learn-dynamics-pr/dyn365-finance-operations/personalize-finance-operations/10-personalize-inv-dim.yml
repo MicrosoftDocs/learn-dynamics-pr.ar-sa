@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops.10-personalize-inventor
 title: تخصيص أبعاد المخزون
 metadata:
   title: تخصيص أبعاد المخزون
-  description: تصف هذه الوحدة كيفية تخصيص أبعاد المخزون في Dynamics 365 for Finance and Operations تطبيقات.
+  description: تصف هذه الوحدة تخصيص أبعاد المخزون في Dynamics 365 لتطبيقات التمويل والعمليات.
   ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: a255f3d7d7322e65d1e179da9574f8c28e3f7e60
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: a921e7a71d759b004b4de5a0cd845daebd98374c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362628"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578988"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

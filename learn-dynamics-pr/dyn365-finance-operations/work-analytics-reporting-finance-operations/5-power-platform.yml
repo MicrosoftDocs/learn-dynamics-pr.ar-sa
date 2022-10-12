@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.5-power-platform
-title: تكوين تطبيقات Finance and Operations لحلول Microsoft Power Platform
+title: تكوين تطبيقات التمويل والعمليات لـ Microsoft Power Platform
 metadata:
-  title: تكوين تطبيقات Finance and Operations لحلول Microsoft Power Platform
-  description: توضح هذه الوحدة كيفية تكوين تطبيقات Finance and Operations لحلول Microsoft Power Platform في تطبيقات Finance and Operations.
+  title: تكوين تطبيقات التمويل والعمليات لـ Microsoft Power Platform
+  description: تصف هذه الوحدة كيفية تكوين تطبيقات التمويل والعمليات لـ Microsoft Power Platform في تطبيقات التمويل والعمليات.
   ms.date: 02/01/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0293a3ca302b965b8995aac0b7a09dbcd293b9c6
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 4689cddf61ddf63f701e9f94babc5022f44fc288
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7336826"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577928"
 durationInMinutes: 8
 content: >-
   [!include[](../includes/unit-banner.md)]

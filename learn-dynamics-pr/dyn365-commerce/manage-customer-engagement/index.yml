@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 959d88f3b6c5b559f9f05b196637df7cce0c2ff5
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c42ca8ae6b3775859426e8d834a0a52f1e79a224
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752799"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511309"
 title: إدارة مشاركة العملاء في Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nالهدف من أي نشاط تجاري للبيع بالتجزئة هو زيادة المبيعات، مع زيادة رضا العملاء أيضًا عن العلامة التجارية لمتجر التجزئة. يدعم Dynamics 365 Commerce برامج الولاء، والانتماءات، وبطاقات الهدايا، التي يمكن أن تساعد في تحفيز العملاء على التعامل مع العلامة التجارية لتاجر التجزئة.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم مفاهيم إدارة الولاء.\n- تعرف على كيفية تكوين برامج الولاء.\n- تعرف على الانتماءات.\n- تعرف على بطاقات الهدايا.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم مفاهيم إدارة الولاء.\n- تعرف على كيفية تكوين برامج الولاء.\n- تعرف على الانتماءات.\n- تعرف على بطاقات الهدايا.\n"
 prerequisites: >
   - الفهم العام لـ Dynamics 365 Commerce وقنواتها
 
   - الفهم العام لتسعير البيع بالتجزئة وخصائصه
 
   - فهم عام لبرامج الولاء للبيع بالتجزئة والحوافز وبطاقات الهدايا
-iconUrl: /learn/achievements/customer-engagement-commerce.svg
+iconUrl: /training/achievements/customer-engagement-commerce.svg
 levels:
 - intermediate
 roles:

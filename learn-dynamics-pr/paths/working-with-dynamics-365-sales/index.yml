@@ -1,27 +1,26 @@
 ### YamlMime:LearningPath
 uid: learn-dynamics.dynamics-365-for-sales
 metadata:
-  title: العمل مع مسار تعلّم Dynamics 365 Sales
-  description: قم بتوليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة مع Microsoft Dynamics 365 Sales. يغطي مسار التعلّم هذا العناصر الأساسية لتطبيق المبيعات.
-  ms.date: 08/12/2021
+  title: العمل مع مسار تعليم Dynamics 365 Sales
+  description: تمكّن من توليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة باستخدام Microsoft Dynamics 365 Sales. يغطي مسار التعليم هذا العناصر الأساسية لتطبيق Sales.
+  ms.date: 09/26/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-sales
-  ms.openlocfilehash: 08de8b0fe2101f130e7471084660a5e5be3f853f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3dc649ac9784e755240b971c8ad64edaa1f83cbd
+  ms.sourcegitcommit: 32e3bb7a860f6694403e520de039732c9a90c51f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751359"
+  ms.lasthandoff: 09/27/2022
+  ms.locfileid: "9592683"
 title: العمل مع Dynamics 365 Sales
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
-
-  قم بتوليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة مع Microsoft Dynamics 365 Sales. يغطي مسار التعلّم هذا العناصر الأساسية لتطبيق المبيعات.
-prerequisites: من المفترض أن يتمتع الجمهور المستهدف بفهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضًا الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
-iconUrl: /learn/achievements/working-with-dynamics-365-for-sales.svg
+  تمكّن من توليد العملاء المتوقعين وإنشاء الفرص والاستفادة من المعلومات الذكية المضمنة باستخدام Microsoft Dynamics 365 Sales. يغطي مسار التعليم هذا العناصر الأساسية لتطبيق Sales.
+prerequisites: فهم أساسي لكيفية التنقل في تطبيق Dynamics 365. من المفيد أيضاً الإلمام بإنشاء وإدارة الفرص والفرص، بالإضافة إلى كتالوج منتجات Dynamics 365.
+iconUrl: /training/achievements/working-with-dynamics-365-for-sales.svg
 levels:
 - intermediate
 roles:
@@ -35,7 +34,6 @@ modules:
 - learn-dynamics.configure-dynamics-365-sales
 - learn-dynamics.lead-management
 - learn-dynamics.opportunity-management
-- learn-dynamics.embedded-intelligence
 - learn-dynamics.product-catalog
 - learn-dynamics.sales-order-processing
 - learn-dynamics.relationship-management-and-social-selling

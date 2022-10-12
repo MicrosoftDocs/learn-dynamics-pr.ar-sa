@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 61a98e73bd0c5ecb5fd97066293e34533baf4824
-ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+ms.openlocfilehash: ac8aa2f49974b8fd005d8b05fcf4c644bfdecc82
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/01/2022
-ms.locfileid: "9393363"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9576918"
 ---
-مثيل إنتاج تطبيقات التمويل والعمليات للعميل لديه العديد من تقارير SQL Server Reporting Services (SSRS) المخصصة. تستغرق بعض تقارير SSRS وقتًا طويلاً للتشغيل. لاحظ العميل أنه خلال ساعات العمل، يتم انقضاء مهلة بعض تقارير SSRS. 
+يحتوي مثيل إنتاج تطبيقات التمويل والعمليات للعميل على العديد من تقارير SQL Server Reporting Services (‏SSRS) المخصصة. تستغرق بعض تقارير SSRS وقتًا طويلاً للتشغيل. لاحظ العميل أنه خلال ساعات العمل، يتم انقضاء مهلة بعض تقارير SSRS. 
 
 ## <a name="pattern---preprocess-ssrs-report-data-source"></a>النمط - مصدر بيانات تقرير SSRS للعملية المسبقة
 

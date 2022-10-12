@@ -3,17 +3,17 @@ uid: learn-dynamics.design-plan-implementation-in-f-and-o.7-on-premises-impl-ana
 title: التنفيذ المحلي - التحليل
 metadata:
   title: التنفيذ المحلي - التحليل
-  description: تلخص هذه الوحدة خطوة تحليل التنفيذ المحلي لتطبيقات Finance and Operations.
+  description: هذه الوحدة عبارة عن ملخص لخطوة التحليل الخاصة بالتنفيذ المحلي لتطبيقات التمويل والعمليات.
   ms.date: 02/28/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0156af94dc8e7ec8be209256935969213809a9cf
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 297e189ce0daf1ddf36ffb52bad9e1f934e25f93
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7330174"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582158"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: efa6f331eda6bb617aae67aacc45855949d9a99f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 9038614ee47ba18a1e4f82f2380a31e72aa168dc
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748863"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511693"
 title: إدارة المشروعات في Dynamics 365 Customer Voice
 summary: "[!include[](../includes/module-banner.md)] \nتشرح هذه الوحدة كيفية إضافة مشروعات إلى Dynamics 365 Customer Voice، وكيفية نسخ الاستطلاعات من مشروع إلى آخر، وكيفية نسخ المشروعات من خلال بيئات Dataverse مختلفة. تعد مشاركة المشروعات أمرًا سهلاً، وستساعدك على التعاون بشكل أفضل مع الزملاء.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إنشاء مشروعات.\n- نقل الاستطلاعات ونسخها.\n- نسخ المشروعات.\n- مشاركة المشروعات.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إنشاء مشروعات.\n- نقل الاستطلاعات ونسخها.\n- نسخ المشروعات.\n- مشاركة المشروعات.\n"
 prerequisites: الفهم الأساسي لـ Microsoft Dynamics 365 Sales وDynamics 365 Customer Voice
-iconUrl: /learn/achievements/manage-projects-customer-voice.svg
+iconUrl: /training/achievements/manage-projects-customer-voice.svg
 levels:
 - intermediate
 roles:

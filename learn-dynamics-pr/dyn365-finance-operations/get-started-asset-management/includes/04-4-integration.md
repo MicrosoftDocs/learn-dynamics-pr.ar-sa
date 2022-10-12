@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b2cf4ba131a81e4612044f36226bf1238e94cfd9
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: e681b39cc30762604bd1ef66099215442757d362
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7335134"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578728"
 ---
 تقدم هذه الوحدة نظرة عامة حول عمليات التكامل المتوفرة مع إدارة الأصول.
 
@@ -33,7 +33,7 @@ ms.locfileid: "7335134"
 
 توفر ‏‫أحداث الأعمال‬ إطار عمل يسمح للأنظمة الخارجية بتلقي الإعلامات من Supply Chain Management. وباستخدام هذه الوظيفة، يمكن للأنظمة تنفيذ إجراءات العمل استجابةً لأحداث الأعمال عند تشغيل إجراءات العمل.
 
-لمزيد من المعلومات حول أحداث الأعمال، راجع وحدة [استهلاك أحداث الأعمال في تطبيقات Finance and Operations](/learn/modules/business-events-finance-operations/?azure-portal=true).
+لمزيد من المعلومات حول أحداث الأعمال، راجع الوحدة النمطية [استهلاك أحداث الأعمال في تطبيقات التمويل والعمليات](/training/modules/business-events-finance-operations/?azure-portal=true).
 
 يتيح استخدام وظائف أحداث الأعمال مع إدارة الأصول للمستخدمين إمكانية الوصول إلى مستندات الأعمال من خلال الاستفادة من Microsoft Power Automate والتطبيقات المنطقية. ويتم تضمين مشغلات لطلبات الصيانة وتغييرات حالة أمر العمل في إطار عمل ‏‫أحداث الأعمال.
 

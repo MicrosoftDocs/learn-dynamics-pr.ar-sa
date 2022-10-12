@@ -3,17 +3,17 @@ uid: learn-dynamics.setup-batch-jobs-in-dynamics-365-finance-ops.4-copy-a-batch-
 title: نسخ وظيفة دفعية
 metadata:
   title: نسخ وظيفة دفعية
-  description: توضح هذه الوحدة كيفية نسخ وظيفة دفعية في تطبيقات Finance and Operations.
+  description: توضح هذه الوحدة كيفية نسخ وظيفة دفعية في تطبيقات التمويل والعمليات.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 50a56e0c21f9af4bc8e9fa1c51039d0064b71f59
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 7a273a80b60eb5e14fcafcf02b5bb2278b4edebf
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7342557"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574268"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

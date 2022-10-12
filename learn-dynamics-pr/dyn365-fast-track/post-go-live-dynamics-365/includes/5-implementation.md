@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c3d4274273a7870a47b06309e29e8a2f26fd22e0
-ms.sourcegitcommit: 4efbdca72ca2f229c7b045aae0b506a50c751f07
+ms.openlocfilehash: 6ce2f466b2b5a82d727ee1aa89e49c39c09dabe8
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7431859"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9514130"
 ---
 تصف الأقسام التالية كيفية تطبيق ورشة عمل ما بعد العرض المباشر، ثم تقوم بإدارة جلسات المتابعة للحصول على مزيد من المعلومات التفصيلية.
 
@@ -49,4 +49,4 @@ ms.locfileid: "7431859"
 
 يجب استخدام الدروس المستفادة التي تم تجميعها خلال ورش عمل المشاركة وSuccess by Design حتى بعد التنفيذ.
 
-بالنسبة للبرامج أو المشاريع الأكبر حجماً، يجب على فريق التنفيذ التفكير في تشغيل مراجعات Success by Design داخلياً. يمكنك استخدام مواد التدريب ذاتية الخدمة [استخدام حلول Success by Design for Dynamics 365](/learn/paths/use-success-design/?azure-portal=true) المتوفرة على الإنترنت.
+بالنسبة للبرامج أو المشاريع الأكبر حجماً، يجب على فريق التنفيذ التفكير في تشغيل مراجعات Success by Design داخلياً. يمكنك استخدام مواد التدريب ذاتية الخدمة [استخدام حلول Success by Design for Dynamics 365](/training/paths/use-success-design/?azure-portal=true) المتوفرة على الإنترنت.

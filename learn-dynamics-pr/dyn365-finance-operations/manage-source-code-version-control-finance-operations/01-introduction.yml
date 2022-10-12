@@ -3,17 +3,17 @@ uid: learn-dynamics.manage-source-code-using-version-control-dynamics-365-financ
 title: مقدمة
 metadata:
   title: مقدمة
-  description: تعرض هذه الوحدة النمطية الكود المصدر باستخدام التحكم بالإصدار الخاص لتطبيقات Finance and Operations.
+  description: تعرض هذه الوحدة النمطية الكود المصدر باستخدام التحكم بالإصدار الخاص لتطبيقات التمويل والعمليات.
   ms.date: 07/03/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: df9b2a1a21147ee32828c037958ae0beab3d6632
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: fc97251da7e3998cf2d26233f2941ac6c165a1a9
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7341862"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9575968"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

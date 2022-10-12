@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 2bdda5e425c5adf4cc9f3a5a1cfa5498b24d6abd
-  ms.sourcegitcommit: d7294287dd8c3c9927edfa280939cd493cd5eda6
+  ms.openlocfilehash: 35cd5d754f458c7898515ad24b207b4dab1046ba
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/19/2022
-  ms.locfileid: "9174174"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507665"
 title: بدء استخدام إدارة مبيعات المشاريع في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتختلف عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المشروع عن عمليات المبيعات المستخدمة في مؤسسة مستندة إلى المنتج. والسبب في ذلك أن دورات المبيعات الخاصة بالمؤسسات المستندة إلى المشروع أطول، وتتطلب تقنيات تقدير مخصصة لتحليل عروض الأسعار وإنشائها لكل صفقة.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعلم كيفية إنشاء قوائم الأسعار.\n- إنشاء عملاء المشاريع المتوقعين والفرص.\n-  التعرف على كيفية إنشاء عروض أسعار لعقود المشاريع.\n"
@@ -25,7 +25,7 @@ prerequisites: >
   -  معرفة كيفية استخدام تطبيقات Dynamics 365
 
   -  المعرفة الأساسية بـ Dynamics 365 Project Operations
-iconUrl: /learn/achievements/get-started-project-sales-management.svg
+iconUrl: /training/achievements/get-started-project-sales-management.svg
 levels:
 - intermediate
 roles:

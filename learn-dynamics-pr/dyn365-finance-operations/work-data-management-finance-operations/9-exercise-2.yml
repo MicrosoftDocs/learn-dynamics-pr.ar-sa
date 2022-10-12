@@ -4,16 +4,16 @@ title: معمل - تصدير البيانات باستخدام مساحة عمل
 labId: 64193
 metadata:
   title: معمل - تصدير البيانات باستخدام مساحة عمل إدارة البيانات
-  description: ‏‫التدرّب على تصدير البيانات من تطبيقات Finance and Operations.
+  description: تدرب على تصدير البيانات من تطبيقات التمويل والعمليات.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b70d54137aa2f7d03355bb9db54d4ad432815007
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 03860bc6f7f7ce792cea3834638dd942f604de73
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944470"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9582428"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)]\n[!include[](../includes/accessing-labs-2.md)]\n[!include[](includes/9-exercise-export-import-data.md)] \n[!include[](../includes/standalone-lab-end.md)]"

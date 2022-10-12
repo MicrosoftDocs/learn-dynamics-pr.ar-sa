@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 658511251d0e37b9d3ce255cacd9734c997d7909
-  ms.sourcegitcommit: 8ef05ee71b327df2079f80bb06c5e6a6269b8fc3
+  ms.openlocfilehash: 520afb1f5313e07cd48bf45e2685a91db246ab8c
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/03/2022
-  ms.locfileid: "9223299"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578238"
 title: إنشاء مساحات عمل في تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nتُعد مساحات العمل مراكز عمل مخصصة مع البيانات والتقارير والحركات ويتم تصميمها لزيادة كفاءه المهام اليومية. ويمكن للمطورين إنشاء مساحات العمل وتعديلها. توجد العديد من الأسباب لتصميم وإنشاء مساحة عمل في بيئة المطور بدلاً من واجهة المستخدم. على سبيل المثال، قد تتطلب أعمالك وجود إطارات متجانبة لمؤشرات الأداء الرئيسية (KPI) أو المكونات التحليلية أو مكونات استخلاص البيانات أو الميزات المتقدمة الأخرى التي لا يمكن إنشاؤها أو تعديلها في واجهة المستخدم. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تصميم مؤشرات الأداء الرئيسية (KPIs) وإنشاؤها.\n- إنشاء عناصر مساحة العمل.\n- استخدم لغة تعريف التقرير (RDL) لإنشاء تقارير مخصصة.\n- تنفيذ مكونات التقارير في مساحات العمل.\n"
+abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تصميم مؤشرات الأداء الرئيسية (KPIs) وإنشاؤها.\n- إنشاء عناصر مساحة العمل.\n- استخدم لغة تعريف التقرير (RDL) لإنشاء تقارير مخصصة.\n- تنفيذ مكونات التقارير في مساحات العمل.\n"
 prerequisites: >
   - المعرفة الأساسية بتطبيقات التمويل والعمليات.
 
   - الوصول إلى بيئة تحتوي على عينة قياسية من البيانات في تطبيقات التمويل والعمليات، ومتصلة بـ Microsoft Power BI.
-iconUrl: /learn/achievements/build-workspaces-dynamics-365-finance-operations.svg
+iconUrl: /training/achievements/build-workspaces-dynamics-365-finance-operations.svg
 levels:
 - intermediate
 roles:

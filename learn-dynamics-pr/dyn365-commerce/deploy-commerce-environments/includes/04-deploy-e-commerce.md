@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6d7c15289cb30480adb0f480efa8c4349fd3bf9640305305bcc78c2aa18265da
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ee2559e2d65e64d92d3a08c2f5ea8e7c3e90e003
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7070377"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536856"
 ---
 
 ميزة مرخصة بشكل منفصل، لا يتم تضمين e-Commerce لـ Dynamics 365 Commerce في ترخيص Dynamics 365 Commerce. 
@@ -17,7 +17,7 @@ ms.locfileid: "7070377"
 
 عندما تقوم بتفعيل e-Commerce وإنشاء ملكية مجموعة الأمان، إذا قمت بإنشاء مجموعة الأمان، فهذا لا يعني أنك عضو فيها أيضاً. سوف تحتاج إلى إضافة نفسك كعضو في تلك المجموعة الأمنية بحيث عندما تتم تهيئة e-Commerce في وقت لاحق، يمكنك الوصول إلى e-Commerce Site Builder. يمكن تعديل أذونات E-Commerce بعد التهيئة من منشأ الموقع. وكجزء من عملية التهيئة، ينبغي دائماً إسناد دور أمان مسؤول e-Commerce إلى مجموعة من المستخدمين الذين سيحتاجون إلى الوصول إلى الإعدادات في وقت لاحق.
  
-مع التهيئة الناجحة لوحدة CSU، يمكنك تحديد علامة تبويب **e-Commerce** لصفحة **توزيع Commerce وإعدادها** في LCS.
+مع التهيئة الناجحة لوحدة CSU، يمكنك تحديد علامة تبويب **e-Commerce** لصفحة **توزيع Commerce وإعدادها** في Lifecycle Services.
 
  
 في علامة تبويب **e-Commerce**، حدد **إعداد**.

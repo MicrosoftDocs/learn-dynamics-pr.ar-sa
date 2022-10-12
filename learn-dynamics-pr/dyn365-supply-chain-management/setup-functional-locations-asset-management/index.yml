@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4d018513f9014436ff626139eb046aad0dc0f383
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 3ff6341fd8890f4ea93433e811859772fdecdfba
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749367"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9519121"
 title: اعداد المواقع الوظيفية في إدارة الأصول لـ Dynamics 365 Supply Chain Management
 summary: "[!include[](../includes/module-banner.md)] \n\nقبل أن تبدء مؤسستك في استخدام إدارة الأصول في Dynamics 365 Supply Chain Management، ينبغي أولاً إنشاء البنية. تُستخدم المواقع الوظيفية لتحديد مكان تثبيت الأصول الفعلية.\n"
 abstract: "ستتعرف في هذه الوحدة على كيفية إعداد: \n- حالات دورة حياة موقع العمل\n- نماذج دورة حياة موقع العمل\n- أنواع مواقع العمل\n- أنواع السمات\n"
@@ -22,7 +22,7 @@ prerequisites: >
   - المعرفة العامة بالتنقل الأساسي في Supply Chain Management.
 
   - معرفة عمليات Supply Chain Management.
-iconUrl: /learn/achievements/setup-func-loc-asset-mgmt-dyn365-supply-chain-mgmt.svg
+iconUrl: /training/achievements/setup-func-loc-asset-mgmt-dyn365-supply-chain-mgmt.svg
 levels:
 - intermediate
 roles:

@@ -3,16 +3,16 @@ uid: learn-dynamics.key-concepts-integrate-finance-operations-power-platform.sum
 title: الملخص
 metadata:
   title: الملخص
-  description: في هذه الوحدة النمطية، تعرفت على العديد من الميزات الرئيسية المقترنة بالارتباط بين Dataverse وتطبيقات التمويل والعمليات.
+  description: في هذه الوحدة، تعرفت على العديد من الميزات الرئيسية المقترنة بالارتباط بين Dataverse وتطبيقات التمويل والعمليات.
   ms.date: 04/20/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 79b94dec98fe00d44f06c6b423f7381c8db70f3c
-  ms.sourcegitcommit: 57280be436b54e2a16d9ec60b653628c9c0051be
+  ms.openlocfilehash: 13ba73c7e1bda8ba14599ea7bbf24bfea16c6f04
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/26/2022
-  ms.locfileid: "8633623"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577769"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

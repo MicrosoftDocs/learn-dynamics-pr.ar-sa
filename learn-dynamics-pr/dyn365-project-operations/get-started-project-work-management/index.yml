@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d07ec2dc000a5fc33079ac2b3da35d1fb25de8d8
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: be3ce808e1caa715807535eefc15f85593947d50
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748074"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511189"
 title: بدء استخدام إدارة العمل في Dynamics 365 Project Operations
 summary: "[!include[](../includes/module-banner.md)] \nتبسيط تعقب الوقت وإدارة المصروفات مع Microsoft Dynamics 365 Project Operations. يمكنك الإرسال، والموافقة، والمعالجة، والتسوية بين إدخالات الوقت والنفقات على الفور لسداد أسرع وفواتير العميل.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تعلم كيفية إنشاء إدخالات الوقت وإرسالها.\n- اكتشاف نوعين من نماذج توزيع المصروفات.\n- التعرف على كيفية التقاط إدخالات المصروفات وإرسالها واستدعاؤها وحذفها.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعلم كيفية إنشاء إدخالات الوقت وإرسالها.\n- اكتشاف نوعين من نماذج توزيع المصروفات.\n- التعرف على كيفية التقاط إدخالات المصروفات وإرسالها واستدعاؤها وحذفها.\n"
 prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Microsoft Dynamics ‏365
 
   - معرفة كيفية استخدام تطبيقات Dynamics 365
 
   - المعرفة الأساسية بـ Microsoft Dynamics 365 Project Operations
-iconUrl: /learn/achievements/get-started-project-work-management.svg
+iconUrl: /training/achievements/get-started-project-work-management.svg
 levels:
 - intermediate
 roles:

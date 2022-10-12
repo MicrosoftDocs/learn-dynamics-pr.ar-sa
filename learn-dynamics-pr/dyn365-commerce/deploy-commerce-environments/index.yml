@@ -7,26 +7,26 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fb0b59d31da3c61d1b4951c189ca86b76e8db06f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: c70f879fe608fa4cb52eaf147773b35f0d1440e0
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8754411"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9536679"
 title: نشر بيئات Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nنشر بيئة Dynamics 365 Commerce مختلف عن نشر بيئات Dynamics 365 العادية. يعد نشر Commerce Scale Unit والتجارة الإلكترونية، والتأكد من خطوات ما بعد التوفير الصحيحة في Commerce Headquarters من المكونات النموذجية لتطبيق Commerce. \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- استيعاب نماذج التوزيع المتنوعة. \n- التعرف علي كيفية توزيع وحدات Cloud Scale Units في Dynamics Lifecycle Services ‏(LCS).\n- التعرف على كيفية توزيع التجارة الإلكترونية. \n- التعرف على التوزيع الجماعي.   \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- استيعاب نماذج التوزيع المتنوعة. \n- التعرف علي كيفية نشر Commerce Scale Units في Microsoft Dynamics Lifecycle Services.\n- التعرف على كيفية توزيع التجارة الإلكترونية. \n- التعرف على التوزيع الجماعي.   \n"
 prerequisites: >
   - فهم بنية Dynamics 365 Commerce
 
-  - معرفة عمليات النشر
+  - المعرفة بعمليات النشر
 
-  - الوصول إلى مشروع LCS والأذونات اللازمة لنشر بيئة
+  - الوصول إلى مشروع Lifecycle Services والأذونات اللازمة لنشر بيئة
 
   - اشتراك Microsoft Azure كمسؤول مساعد
 
-  - التحقق من اتصال اشتراك Azure بمشروع LCS
-iconUrl: /learn/achievements/deploy-commerce-environments.svg
+  - التحقق من اتصال اشتراك Azure بمشروع Lifecycle Services
+iconUrl: /training/achievements/deploy-commerce-environments.svg
 levels:
 - intermediate
 roles:

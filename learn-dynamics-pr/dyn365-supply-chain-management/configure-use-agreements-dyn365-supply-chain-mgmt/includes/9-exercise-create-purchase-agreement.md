@@ -1,16 +1,16 @@
 ---
-ms.openlocfilehash: 3333e26b60407ccb1f367c4a8f4addc00c6a0cf3f3346dc8cf5e4b98227df65d
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 272195876132b54ae4368fde54996d9df6012a55
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7052398"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536329"
 ---
 لقد وافقت على سعر 100 من الصنف رقم D0002 بسعر 145.50 دولاراً أمريكياً مع المورد Fabrikam. الآن، تحتاج إلى إعداد اتفاقية الشراء.
 
 ## <a name="before-you-begin"></a>قبل البدء 
 
-للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management والتي تم تثبيتها باستخدام Lifecycle Services‎‏ (LCS)‏‏‏‎.
+للاستفادة إلى أقصى حد من هذه التدريبات وغيرها في هذه الوحدة، نوصي بأن يكون لديك بيانات العينة القياسية المتوفرة في Supply Chain Management والتي تم تثبيتها باستخدام Lifecycle Services.
 
 1.  انتقل إلى **التدبير والتوريد > اتفاقيات الشراء > اتفاقيات الشراء**.
 2.  حدد **جديد‎**.
