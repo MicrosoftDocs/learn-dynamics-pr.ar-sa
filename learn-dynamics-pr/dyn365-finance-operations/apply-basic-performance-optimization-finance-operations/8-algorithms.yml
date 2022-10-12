@@ -3,17 +3,17 @@ uid: learn-dynamics.apply-basic-performance-optimization-techniques-dynamics-365
 title: تطبيق خوارزميات المعالجة المتوازية
 metadata:
   title: تطبيق خوارزميات المعالجة المتوازية
-  description: تعرف علة كيفية تطبيق خوارزميات المعالجة المتوازية في تطبيقات Finance and Operations.
+  description: تعرف على كيفية تطبيق خوارزميات المعالجة المتوازية في تطبيقات التمويل والعمليات.
   ms.date: 06/02/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: d576fb8332a3fbc4aeeb7d7c82d3cbc440edb11d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 477309bd61a51b57aff5c13bcef840fd61d6ec69
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7362085"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574158"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

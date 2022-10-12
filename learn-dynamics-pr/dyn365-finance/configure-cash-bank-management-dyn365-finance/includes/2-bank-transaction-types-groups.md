@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: fbecb3da265e164a68f9a323adb606005b495395
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 3a32f3375ce8e5889cbe8ad151580f1a1f1ab872
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7352659"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9520232"
 ---
 ## <a name="bank-transaction-types"></a>أنواع الحركات البنكية 
 
@@ -45,4 +45,4 @@ ms.locfileid: "7352659"
 
 على سبيل المثال، قد تتضمن مجموعة من التحويلات أنواع الحركات البنكية مثل التحويل والتحويل البنكي.
 
-لمزيد من المعلومات حول طرق الدفع المختلفة، راجع [طرق دفع الحسابات الدائنة](/learn/modules/configure-accounts-payable-dyn365-finance/9-method-payment/?azure-portal=true) و[طرق دفع حسابات المقبوضات](/learn/modules/configure-accounts-receivable-dyn365-finance/7-methods-payment-control/?azure-portal=true).
+لمزيد من المعلومات حول طرق الدفع المختلفة، راجع [طرق دفع الحسابات الدائنة](/training/modules/configure-accounts-payable-dyn365-finance/9-method-payment/?azure-portal=true) و[طرق دفع الحسابات المدينة](/training/modules/configure-accounts-receivable-dyn365-finance/7-methods-payment-control/?azure-portal=true).

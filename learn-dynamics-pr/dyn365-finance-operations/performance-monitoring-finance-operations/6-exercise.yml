@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.performance-monitoring-dynamics-365-finance-operations.6-exercise
-title: تدريب-استخدام أداه مراقبة البيئة في LCS
+title: تدريب - استخدام أداه مراقبة البيئة في Lifecycle Services
 metadata:
-  title: تدريب-استخدام أداه مراقبة البيئة في LCS
-  description: تدرب على استخدام أداه مراقبة البيئة في LCS.
+  title: تدريب - استخدام أداه مراقبة البيئة في Lifecycle Services
+  description: الممارسة باستخدام أداه مراقبة البيئة في Lifecycle Services.
   ms.date: 07/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 780d9ae70f09ec31d8efed6c24cf8ed4d032dc27
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 170286865caf26a99f858ddefc0aa911dffbbfca
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7346829"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9536927"
 durationInMinutes: 15
 content: >-
   [!include[](../includes/unit-banner.md)]

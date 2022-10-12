@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3b41b3252a97f1ad61568fd787d14de227096856
-  ms.sourcegitcommit: 11bef0429a06db7e1b44fd02f21fc8cb985a2910
+  ms.openlocfilehash: 3ea47fdf3775d67c88ba16c86e8fc20a342d4030
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 12/21/2021
-  ms.locfileid: "7944582"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573758"
 title: اختبر معلوماتك
 durationInMinutes: 16
 quiz:
@@ -22,7 +22,7 @@ quiz:
     choices:
     - content: المستودع المركزي لـ Lifecycle Services
       isCorrect: false
-      explanation: لا يوجد شيء في Lifecycle Services يسمى المستودع المركزي. ومع ذلك، فإن Lifecycle Services هي المستودع المركزي لمعظم الأدوات لإعداد ونشر مشروع لتطبيقات Finance and Operations أو Dynamics 365 Commerce.
+      explanation: لا يوجد شيء في Lifecycle Services يسمى المستودع المركزي. ومع ذلك، يعد Lifecycle Services هو المستودع المركزي لمعظم الأدوات التي تستخدمها لإعداد وتوزيع مشروع لتطبيقات التمويل والعمليات أو Dynamics 365 Commerce.
     - content: مساحة عمل مشروع Lifecycle Services
       isCorrect: true
       explanation: توفر مساحة عمل Lifecycle Services Project منهجية محددة توضح كل مرحلة من مراحل مشروعك، وتوفر مراحل رئيسية عالية المستوى يتم استخدامها لتعقب التسليمات وأهداف المشروع.
@@ -33,7 +33,7 @@ quiz:
     choices:
     - content: مراقبة السلامة
       isCorrect: false
-      explanation: مراقبة السلامة ليست مصطلحاً مستخدماً في تطبيقات Finance and Operations
+      explanation: الفحص الصحي ليس مصطلحًا مستخدمًا في تطبيقات التمويل والعمليات
     - content: مراقبة البيئة
       isCorrect: true
       explanation: تسمح مراقبة البيئة بمراقبة السلامة التشغيلية للبيئات الخاصة بك. وهي تحتوي على طرق عرض ظاهرة لكي تتمكن من تحليل الأداء حسب المكون والبيئة والمشروع والمؤسسة.
@@ -42,7 +42,7 @@ quiz:
       explanation: مراقبة النظام ليست هي المصطلح الصحيح لهذا الموقف.
     - content: التحليل البيئي
       isCorrect: false
-      explanation: التحليل البيئي ليس مصطلحاً مستخدماً في تطبيقات Finance and Operations.
+      explanation: التحليل البيئي ليس مصطلحاً مستخدماً في تطبيقات التمويل والعمليات.
   - content: ما هي الخطوة الأولى الموصى بها قبل الاتصال بمشروع Lifecycle Services لاسترداد تسجيلات المهام؟
     choices:
     - content: حدد مشروع Lifecycle Services للاتصال به.
@@ -85,25 +85,25 @@ quiz:
     - content: .txt
       isCorrect: false
       explanation: .txt ليس نوع الملف المستخدم لحفظ مهمة تسجيل كتسجيل مطور.
-  - content: ما الذي يتيح لك إنشاء وعرض وتعديل تدفقات العمليات القياسية داخل Finance and Operations تطبيقات؟
+  - content: ما الذي يتيح لك إنشاء وعرض وتعديل تدفقات العمليات القياسية داخل تطبيقات التمويل والعمليات؟
     choices:
     - content: أداة تكوين عمليات الأعمال (BPM)
       isCorrect: true
-      explanation: يتيح لك أداة تكوين عمليات الأعمال (BPM) إنشاء تدفقات العملية القياسية وعرضها وتعديلها داخل Finance and Operations تطبيقات. تقوم BPM بتوحيد تدفقات العملية والتوثيق واستخدامها طوال دورة حياة التنفيذ.
+      explanation: يتيح لك أداة تكوين عمليات الأعمال (BPM) إنشاء تدفقات العملية القياسية وعرضها وتعديلها داخل تطبيقات التمويل والعمليات. تقوم BPM بتوحيد تدفقات العملية والتوثيق واستخدامها طوال دورة حياة التنفيذ.
     - content: مسجل المهام
       isCorrect: false
       explanation: مسجل المهام هو أداة يمكنك استخدامها لتسجيل الإجراءات التي تتخذها في واجهة مستخدم المنتج (UI).
     - content: حزمة قابلة للنشر
       isCorrect: false
-      explanation: الحزمة القابلة للنشر هي وحدة نشر يمكن تطبيقها على أي Finance and Operations بيئة تطبيقات.
+      explanation: الحزمة القابلة للنشر هي وحدة نشر يمكن تطبيقها على أي بيئة تطبيقات التمويل والعمليات.
     - content: التكوين ومدير البيانات
       isCorrect: false
       explanation: يتيح لك مدير التكوين والبيانات نسخ التكوين من مثيل إلى آخر.
-  - content: أين ستبحث عن الحلول الحالية والحلول للمشكلات المعروفة في Finance and Operations تطبيقات؟
+  - content: أين ستبحث عن الحلول الحالية والحلول للمشكلات المعروفة في تطبيقات التمويل والعمليات؟
     choices:
     - content: أدلة المهام
       isCorrect: false
-      explanation: دليل المهام عبارة عن تجربة تفاعلية خاضعة للرقابة وموجهة تقودك خلال خطوات مهمة أو عملية تجارية.
+      explanation: ودليل المهمة عبارة عن خبرة إرشادية تفاعلية محكومة وموجهة تقودك خلال الخطوات الخاصة بمهمة أو عملية أعمال.
     - content: مكتبة الأصول المشتركة
       isCorrect: false
       explanation: تستخدم Microsoft وشركاؤها مكتبة الأصول المشتركة لمشاركة الأصول عبر العديد من المستأجرين والمشاريع والبيئات في Lifecycle Services.
@@ -112,7 +112,7 @@ quiz:
       explanation: إدارة الحلول عبارة عن مجموعة من الأدوات، مثل حزم البرامج القابلة للنشر، والشعارات، والتقارير المخصصة، التي يمكن تطبيقها على مشروع جديد، لذلك عندما يتم نشر البيئة، ستتضمن جميع العناصر الأثرية
     - content: بحث عن قضية
       isCorrect: true
-      explanation: يساعدك البحث عن المشكلات في العثور على الحلول والحلول الحالية للمشكلات المعروفة في Finance and Operations تطبيقات. يمكنك استخدام البحث عن المشكلات للبحث عن مشكلات المنتج وتحديد ما إذا كان قد تم حل المشكلة أم أنها مفتوحة أم بها حل بديل.
+      explanation: يساعدك البحث عن المشكلات في العثور على الحلول والحلول الحالية للمشكلات المعروفة في تطبيقات التمويل والعمليات. يمكنك استخدام البحث عن المشكلات للبحث عن مشكلات المنتج وتحديد ما إذا كان قد تم حل المشكلة أم أنها مفتوحة أم بها حل بديل.
   - content: ما الأداة التي ستستخدمها لنشر Microsoft Dynamics بيئات على Microsoft Azure؟
     choices:
     - content: أداة إعداد المشروع

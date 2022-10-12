@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 126ec2d7c06146d6c3770cfa514c474e4df44b853efcd1a8ba825663f99a78e2
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9ccd2d51e4ecf57e3b1f9e8dbb46955a1d17f4d9
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7086611"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536499"
 ---
 ## <a name="before-you-begin"></a>قبل البدء
-لتحقيق الاستفادة القصوى من التمارين في هذه الوحدة النمطية، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services ‏(LCS).‬
+لتحقيق الاستفادة القصوى من التمارين في هذه الوحدة النمطية، ننصحك بأن تكون عينة البيانات القياسية متوفرة في Supply Chain Management التي يتم تثبيتها باستخدام Lifecycle Services.‬
 
 تم استلام أمر مبيعات لمجموعات مكبرات صوت باللون الأخضر، يؤدي إلى تشغيل وظائف كانبان للأحداث لمجموعة مكبرات صوت في خلية عمل التغليف والتعبئة ومجموعات أدوات مكبرات الصوت في خلية عمل تجميع مكبرات الصوت. عليك إنتاج مجموعات مواد مكبر الصوت وأجهزة مكبرات الصوت لتنفيذ أمر مبيعات العميل.
 

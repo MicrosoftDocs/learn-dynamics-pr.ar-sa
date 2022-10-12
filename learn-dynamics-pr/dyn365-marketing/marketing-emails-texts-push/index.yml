@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.marketing-emails-texts-push
+metadata:
+  title: إنشاء رسائل بريد إلكتروني ورسائل نصية وإعلامات منبثقة في Dynamics 365 Marketing
+  description: تعرف على كيفية إنشاء رسائل بريد إلكتروني ورسائل نصية وإعلامات منبثقة في Dynamics 365 Marketing.
+  ms.date: 09/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ffcbc37505a3a9c0b191154ad33091bba7526baa
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9567311"
+title: إنشاء رسائل بريد إلكتروني ورسائل نصية وإعلامات منبثقة في Dynamics 365 Marketing
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تغطي هذه الوحدة النمطية رسائل البريد الكتروني والرسائل النصية والاعلامات المنبثقة والأصول والتخصيص داخل منطقه العمل في Dynamics 365 Marketing في الوقت الحقيقي.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - إنشاء بريد إلكتروني ونشره.
+
+  - تحسين رسائل البريد الإلكتروني من خلال استخدام كتل المحتوى وأفكار المحتوى.
+
+  - تحميل الصور إلى مكتبة الملفات واستخدام الصور في المحتوى التسويقي.
+
+  - إنشاء رسالة نصية ونشرها.
+
+  - إنشاء إعلام منبثق ونشره.
+
+  - إضافة التخصيص إلى رسائل البريد الإلكتروني والرسائل النصية والإعلامات المنبثقة.
+prerequisites: الفهم الأساسي لتطبيق‏‎‏ Microsoft Dynamics 365 Marketing
+iconUrl: /learn/achievements/marketing-emails-texts-push.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- dynamics-marketing
+subjects:
+- business-applications
+units:
+- learn-dynamics.marketing-emails-texts-push.introduction
+- learn-dynamics.marketing-emails-texts-push.create-email
+- learn-dynamics.marketing-emails-texts-push.manage-assets
+- learn-dynamics.marketing-emails-texts-push.create-messages
+- learn-dynamics.marketing-emails-texts-push.create-push
+- learn-dynamics.marketing-emails-texts-push.personalize-content
+- learn-dynamics.marketing-emails-texts-push.check
+- learn-dynamics.marketing-emails-texts-push.summary
+badge:
+  uid: learn-dynamics.marketing-emails-texts-push.badge

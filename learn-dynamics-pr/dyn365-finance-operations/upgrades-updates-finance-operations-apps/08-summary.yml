@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.upgrades-updates-finance-operations-apps.08-summary
-title: الملخص
+title: الملخص‬
 metadata:
-  title: الملخص
-  description: ملخص وحدة التحديثات والترقيات الخاصة بتطبيقات Finance and Operations
+  title: الملخص‬
+  description: ملخص وحدة التحديثات والترقيات الخاصة بتطبيقات التمويل والعمليات
   ms.date: 04/12/2020
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2eff1e367b5eea0bd868b0b1a70e154e8b2ee97f
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 38958e3a41dc30a458920d592bb6069e91739fe1
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7354623"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9573608"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/08-summary.md)]"

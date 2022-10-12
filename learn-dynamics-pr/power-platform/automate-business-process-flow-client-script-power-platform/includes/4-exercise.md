@@ -1,21 +1,21 @@
 ---
-ms.openlocfilehash: 2b53fffeb9c21898b74b47bd18ffc7e8fb5300b4
-ms.sourcegitcommit: 7dfc0768b02855de806a520a0ae1edd2f4de5093
+ms.openlocfilehash: cc6807db0629e47ed821a4c683fae102b02bf422
+ms.sourcegitcommit: 73f955f564cef32287613fadd055cc67172f0941
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "7625697"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9568409"
 ---
 في هذا التمرين، سوف تستخدم البرنامج النصي الخاص بالعميل لتنفيذ متطلبات العمل الخاصة بإنشاء أعمدة في النموذج المطلوب استناداً إلى القيم الموجودة في جدول ذي صلة. وستقوم بتعيين مستوى متطلبات الأعمدة في نموذج الفكرة في عينة تطبيق "تحدي الابتكار" استناداً إلى قيمة الأعمدة في جدول التحدي. لتنفيذ ذلك، سوف تستخدم الطرق Xrm.WebAPI لاسترداد البيانات المرتبطة.
 
 > [!IMPORTANT]
-> استخدم بيئة اختبار مع توفير Microsoft Dataverse وعينات التطبيقات الممكنة. وإذا لم يتوفر لديك، فيمكنك الاشتراك في [خطة المجتمع](https://powerapps.microsoft.com/communityplan/?azure-portal=true).
+> استخدم بيئة اختبار مع توفير Microsoft Dataverse وعينات التطبيقات الممكنة. إذا لم يكن لديك واحد، فيمكنك الاشتراك في [خطة المجتمع](https://powerapps.microsoft.com/communityplan/?azure-portal=true).
 
 ## <a name="task-1---prepare-solution"></a>المهمة 1 - إعداد الحل
 
 في هذه المهمة، ستقوم بإنشاء حل وإضافة الجداول الموجودة إلى الحل وإضافة أعمدة جديدة وإعداد النموذج الرئيسي لأحد الجداول التي أضفتها إلى الحل.
 
-1.  انتقل إلى [Power Apps مدخل المنشيء](https://make.powerapps.com/?azure-portal=true) وتأكد من أنك في البيئة الصحيحة التي تم فيها تمكين عينة التطبيقات.
+1.  انتقل إلى [مدخل منشئ Power Apps](https://make.powerapps.com/?azure-portal=true) وتأكد من أنك في البيئة الصحيحة التي تم فيها تمكين عينة التطبيقات.
 
     > [!div class="mx-imgBorder"]
     > [![لقطة شاشة لمعامل تطوير اسم البيئة.](../media/environment-name.png)](../media/environment-name.png#lightbox)
@@ -133,7 +133,7 @@ ms.locfileid: "7625697"
 
 1.  أضف الدالات الموجودة أدناه إلى **IdeaForm.js**. يجب أن يكون للدالات أسماء فريدة أو تستخدم مساحة اسم لضمان التفرد.
 
-    ```csharp
+    ```javascript
     function LearnLab_handleIdeaOnLoad(executionContext) {
     }
     function LearnLab_handleChallengeOnChange(executionContext) {
@@ -142,7 +142,7 @@ ms.locfileid: "7625697"
 
 1.  أضف البرنامج النصي الوارد أدناه إلى الدالة **OnLoad‎**. يقوم هذا البرنامج النصي بتسجيل معالج الأحداث **OnChange‎**، ويجب عليك التعامل مع التغيير في حالة تغييرات التحدي المرتبط.
 
-    ```csharp
+    ```javascript
     var formContext = executionContext.getFormContext();
     formContext.getAttribute('sample_originatingchallengeid').addOnChange(LearnLab_handleChallengeOnChange);
     ```
@@ -152,13 +152,13 @@ ms.locfileid: "7625697"
 
 1.  أضف البرنامج النصي الوارد أدناه إلى الدالة **OnChange‎**. هذا الكود يحصل ببساطة على formContext.
 
-    ```csharp
+    ```javascript
     var formContext = executionContext.getFormContext();
     ```
 
 1. أضف الدالة الواردة أدناه إلى ملف **IdeaForm‎**. سيتم استدعاء هذه الدالة من كل من الدالتين OnLoad وOnChange وسيتم تمرير formContext كوسيطة. سيكون هذا هو المكان الذي تقوم فيه بتطبيق منطق الأعمال لتعيين مستويات المتطلبات.
 
-    ```csharp
+    ```javascript
     function LearnLab_setRequiredFields(formContext) {
     
     }
@@ -166,13 +166,13 @@ ms.locfileid: "7625697"
 
 1. ستحصل أولاً على قيم البحث عن التحدي. أضف البرنامج النصي الوارد أدناه إلى الدالة **setRequiredFields‎‎**. لقد حصلنا على \'sample\_originatingchallengeid' من خصائص العمود في مستكشف الحلول.
 
-    ```csharp
+    ```javascript
     var challenge = formContext.getAttribute('sample_originatingchallengeid').getValue();
     ```
 
-1. وبعد ذلك، سيمكنك التحقق مما إذا كانت **قيمة التحدي** فارغة. أضف البرنامج النصي الوارد أدناه إلى الدالة **setRequiredFields‎‎**.
+1. وبعد ذلك، سيمكنك التحقق مما إذا كانت قيمة **التحدي** فارغة. أضف البرنامج النصي الوارد أدناه إلى الدالة **setRequiredFields‎‎**.
 
-    ```csharp
+    ```javascript
     if (challenge != null) {
         }
         else{
@@ -181,7 +181,7 @@ ms.locfileid: "7625697"
 
 1. ستجعل الأعمدة غير مطلوبة إذا كان التحدي فارغاً. أضف البرنامج النصي أدناه داخل **الآخر**. وهذا يضمن أنه إذا لم يتم تحديد التحدي، فلن تكون الأعمدة مطلوبة.
 
-    ```csharp
+    ```javascript
     formContext.getAttribute("sample_investmentrequired").setRequiredLevel('none');
     formContext.getAttribute("sample_timetoroimonths").setRequiredLevel('none');
     ```
@@ -189,11 +189,11 @@ ms.locfileid: "7625697"
 1. يجب أن يبدو **IdeaForm‎** الآن مثل الصورة أدناه.
 
     > [!div class="mx-imgBorder"]
-    > [![لقطة شاشة لنموذج الفكرة مع نص مضاف.](../media/idea-form.png)](../media/idea-form.png#lightbox)
+    > [![لقطة شاشة لـ Ideaform مع نص مضاف.](../media/idea-form.png)](../media/idea-form.png#lightbox)
 
 1. ستحصل على معرف **التحدي** المرتبط إذا لم يكن التحدي فارغاً. أضف البرنامج النصي الوارد أدناه جملة **إذا**.
 
-    ```csharp
+    ```javascript
     var challengeId = challenge[0].id;
     ```
 
@@ -202,7 +202,7 @@ ms.locfileid: "7625697"
     > [!NOTE]
     > استبدل **‎crc8c** بالبادئة الواردة في المهمة 1.
 
-    ```csharp
+    ```javascript
     Xrm.WebApi.retrieveRecord("sample_challenge", challengeId, "?$select=crc8c_investmentrequired,crc8c_roirequired").then(
                 function success(result) {
                      
@@ -218,7 +218,7 @@ ms.locfileid: "7625697"
     > [!NOTE]
     > استبدل **‎crc8c** بالبادئة الواردة في المهمة 1.
 
-    ```csharp
+    ```javascript
     var investmentRequired = 'none';
     var roiRequired = 'none';
     if (result.crc8c_investmentrequired) {
@@ -234,7 +234,7 @@ ms.locfileid: "7625697"
 
 1. ستقوم بتسجيل رسالة الخطأ إذا تسببت **retrieveRecord‎** في حدوث خطأ. أضف البرنامج النصي الوارد أدناه إلى الدالة error. يمكنك أيضاً استخدام طرق من Xrm.Navigation لإظهار مربع حوار للمستخدم مع الخيارات المناسبة إذا لزم الأمر.
 
-    ```csharp
+    ```javascript
     console.log(error.message);
     ```
 
@@ -245,7 +245,7 @@ ms.locfileid: "7625697"
 
 1. ستقوم باستدعاء **LearnLab**\_**setRequiredFileds** من كلتا الدالتين **OnLoad** و **OnChange**. أضف البرنامج النصي الوارد أدناه إلى الدالتين **OnLoad** و **OnChange**.
 
-    ```csharp
+    ```javascript
     LearnLab_setRequiredFields(formContext)
     ```
 
@@ -260,7 +260,7 @@ ms.locfileid: "7625697"
 
 في هذه المهمة، ستقوم بتحميل البرنامج النصي الذي قمت بإنشائه إلى البيئة الخاصة بك.
 
-1.  انتقل إلى [Power Apps مدخل المنشيء](https://make.powerapps.com/?azure-portal=true) وتأكد من وجودك في البيئة الصحيحة.
+1.  انتقل إلى [Power Apps Maker Portal](https://make.powerapps.com/?azure-portal=true) وتأكد من وجودك في البيئة الصحيحة.
 
 1.  حدد **الحلول** وانقر لفتح حل **واجهة API‎ للويب "تحدي الابتكار"‬‏‫**.
 
@@ -284,7 +284,7 @@ ms.locfileid: "7625697"
 
 1.  يجب أن يحتوي الحل الآن على جدول **التحدي** وجدول الفكرة ومَورد الويب **IdeaForm.js**.
 
-1. لا تنتقل خارج هذه الصفحة.
+1. لا تخرج من هذه الصفحة.
 
 ## <a name="task-4---edit-form"></a>المهمة 4 - تحرير نموذج
 
@@ -328,7 +328,7 @@ ms.locfileid: "7625697"
 
 في هذه المهمة، ستختبر البرنامج النصي الخاص بك.
 
-1.  انتقل إلى [Power Apps مدخل المنشيء](https://make.powerapps.com/?azure-portal=true) وتأكد من وجودك في البيئة الصحيحة.
+1.  انتقل إلى [Power Apps Maker Portal](https://make.powerapps.com/?azure-portal=true) وتأكد من وجودك في البيئة الصحيحة.
 
 1.  حدد **التطبيقات** وانقر لفتح تطبيق **تحدي الابتكار**.
 

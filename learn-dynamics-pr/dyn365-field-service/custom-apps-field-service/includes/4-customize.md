@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 7a8b87e7152d2fe2925626e1d7d342cdbb573319
-ms.sourcegitcommit: 1b9d23cafd682a07d083297f4d83426c6bdee67c
+ms.openlocfilehash: 5b6f4b57646d61071f1b366ea3d1131a14a446b2
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2021
-ms.locfileid: "7880268"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9519741"
 ---
 تضم Dynamics 365 Field Service العديد من المجالات حيث يمكنك تخصيص الوظيفة.
 يمكنك إجراء هذه التخصيصات الموثقة في Dynamics 365 Field Service لتغيير طريقة عمل تطبيقات Field Service.
@@ -51,7 +51,7 @@ ms.locfileid: "7880268"
 
 - **طرق العرض** - تقديم قائمة سجلات لجدول ما.
 
-لمزيد من المعلومات، راجع [تخصيص وتكوين تطبيق Dynamics 365 Field Service Mobile](/learn/modules/configure-field-service-mobile/?azure-portal=true) و[استخدام Microsoft Power Platform لتكوين تطبيق الأجهزة المحمولة Field Service (Dynamics 365)](/dynamics365/field-service/mobile-power-utilize-platform?azure-portal=true).
+لمزيد من المعلومات، راجع [تخصيص وتكوين تطبيق Dynamics 365 Field Service Mobile](/training/modules/configure-field-service-mobile/?azure-portal=true) و[استخدام Microsoft Power Platform لتكوين تطبيق الأجهزة المحمولة Field Service (Dynamics 365)](/dynamics365/field-service/mobile-power-utilize-platform?azure-portal=true).
 
 ## <a name="geocoding"></a>الترميز الجغرافي
 

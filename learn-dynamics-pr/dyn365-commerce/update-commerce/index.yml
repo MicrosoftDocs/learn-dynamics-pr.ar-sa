@@ -7,22 +7,22 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c3274fc8866be24a658402233932773b020a73a5
-  ms.sourcegitcommit: 719553652dcf44322f1628d12e79bc870ba0ddd1
+  ms.openlocfilehash: 34828a4d456bae748889e8c5becb115b6e86f4fa
+  ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/15/2022
-  ms.locfileid: "9299487"
+  ms.lasthandoff: 09/19/2022
+  ms.locfileid: "9537286"
 title: تحديث Dynamics 365 Commerce
 summary: "[!include[](../includes/module-banner.md)] \nيقدم إصدار واحد حلاً إلى طراز تحديث خدمة تأجير البرامج (SaaS) للتطبيق Dynamics 365 Commerce لمنح العملاء الفرصة لتحديث بيئتهم من خلال أحدث عمليات الإصلاحات السريعة والتحسينات والوظائف الجديدة.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على تحديثات الخدمة والإجراءات لتطبيق التحديثات.\n- تعرف على كيفية تحديث تطبيق Store Commerce لـ Windows. \n"
 prerequisites: >
   - المعرفة الأساسية بعمليات البيع بالتجزئة
 
-  - معرفة عامة بخدمات Dynamics Lifecycle Services ‏(LCS)، وStore Commerce، ومثبت الخدمة الذاتية
+  - المعرفة العامة بـ Microsoft Dynamics Lifecycle Services وStore Commerce ومثبت الخدمة الذاتية
 
   - الفهم العام لبنية Commerce ومكوناتها
-iconUrl: /learn/achievements/update-commerce.svg
+iconUrl: /training/achievements/update-commerce.svg
 levels:
 - intermediate
 roles:

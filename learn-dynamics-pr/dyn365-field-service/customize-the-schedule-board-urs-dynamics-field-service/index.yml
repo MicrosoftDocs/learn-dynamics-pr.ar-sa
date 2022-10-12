@@ -7,17 +7,17 @@ metadata:
   author: davebeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 581a44853e0dc5ed60db54731fb96281d794213f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: a3438a7065c7ad7cc956a22946041c32a1071a6e
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749214"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9518431"
 title: تخصيص لوحة الجدولة في Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)]\n\nأصبح تصميم لوحة الجدولة لتسهيل الجدولة أمرًا ممكنًا من خلال لوحات الجدولة المتعددة وطرق العرض وخيارات لوحة الجدولة. سننظر في كيفية تكوين عوامل التصفية والاستعلامات والكيانات للاستخدام مع لوحة الجدولة.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:\n- تحديد كل جزء في لوحة الجدولة \n- تحرير طرق عرض لوحة الجدولة وتلميحات الأدوات \n- تحرير جزء الخطة \n- تنبيهات لوحة الجدولة \n- تمديد لوحة الجدولة باستخدام JavaScript وHTML\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- تحديد كل جزء في لوحة الجدولة \n- تحرير طرق عرض لوحة الجدولة وتلميحات الأدوات \n- تحرير جزء الخطة \n- تنبيهات لوحة الجدولة \n- تمديد لوحة الجدولة باستخدام JavaScript وHTML\n"
 prerequisites: الفهم الأساسي لكيفية التنقل في تطبيق Dynamics 365، بالإضافة إلى معرفة عملية بالسجلات الأساسية المتاحة.  إن الإلمام بإمكانات الجدولة الأساسية المتوفرة في Universal Resource Scheduling مفيد للغاية.
-iconUrl: /learn/achievements/customizing-the-schedule-board-in-microsoft-dynamics-365-for-field-service.svg
+iconUrl: /training/achievements/customizing-the-schedule-board-in-microsoft-dynamics-365-for-field-service.svg
 levels:
 - intermediate
 roles:

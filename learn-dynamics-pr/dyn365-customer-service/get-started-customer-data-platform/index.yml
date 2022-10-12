@@ -7,27 +7,27 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: fe5d2a067020156cfb27fe7d43a0834bec8217a6
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 882d8a3eba41325f02da158cd930db4e7bf067a8
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025268"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9516321"
 title: بدء استخدام Dynamics 365 Customer Insights
 summary: >
   [!include[](../includes/module-banner.md)]
 
   ابدأ استخدام Dynamics 365 Customer Insights وتعرّف على كيفية الحصول على رؤى من عملائك.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - استكشف "النظام الأساسي لبيانات العملاء" وتعرف على سبب أهميتها للمؤسسات.
 
   - ابدأ العمل باستخدام مع Dynamics 365 Customer Insights، بما في ذلك الوصول إلى التطبيق والتنقل إلى الإمكانات المختلفة.
 
   - تعرّف على إمكانية Customer Insights وكيفية البدء في العمل معها.
-prerequisites: لا شيء
-iconUrl: /learn/achievements/get-started-customer-data-platform.svg
+prerequisites: بلا
+iconUrl: /training/achievements/get-started-customer-data-platform.svg
 levels:
 - intermediate
 roles:

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 264a0b8fc2ea5ca433e7420c391c14bfb4ba1a86
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: a77ab23b738f6d57476065a8b8a59aba4cdee108
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021344"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9517951"
 ---
 وصفت هذه الوحدة النمطية كيفية تمكين المجموعة الكاملة من ميزات Dynamics 365 Fraud Protection عن طريق إرسال بيانات الحركات إلى واجهات API في الوقت الحقيقي. تعمل إمكانيات حماية الحساب وحماية المشتريات‬ في Dynamics 365 Fraud Protection في الوقت الحقيقي.
 
@@ -15,7 +15,7 @@ ms.locfileid: "9021344"
 
 لمزيد من المعلومات حول قدرات Fraud Protection، حدد الارتباطات التالية:
 
-- [Fraud Protection على Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-fraud-protection/?azure-portal=true)
+- [Fraud Protection على Learn](/training/browse/?expanded=dynamics-365&products=dynamics-fraud-protection/?azure-portal=true)
 
 - [صفحة ويب لمنتج Fraud Protection](/dynamics365/fraud-protection)
 
