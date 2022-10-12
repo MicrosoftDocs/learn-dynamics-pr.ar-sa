@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-commerce
-  ms.openlocfilehash: b555e40649f304ddcb2e930867d49306bfe6af65
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: b6c90627e59d99f21f7fdaa28d2b4b180b919294
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8752430"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508727"
 title: تكوين المتطلبات الأساسية للقناة متعددة الاتجاهات والتعامل معها في Dynamics 365 Commerce
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -23,7 +23,7 @@ prerequisites: >
   - المعرفة العامة بالتنقل الأساسي داخل Dynamics 365 Commerce
 
   - المعرفة الأساسية بعمليات البيع بالتجزئة
-iconUrl: /learn/achievements/work-configure-omnichannel-commerce.svg
+iconUrl: /training/achievements/work-configure-omnichannel-commerce.svg
 levels:
 - intermediate
 roles:

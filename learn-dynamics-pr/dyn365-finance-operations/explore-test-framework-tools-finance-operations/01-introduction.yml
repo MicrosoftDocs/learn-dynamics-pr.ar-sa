@@ -3,17 +3,17 @@ uid: learn-dynamics.explore-test-framework-tools-dynamics-365-finance-operations
 title: مقدمة
 metadata:
   title: مقدمة
-  description: تقدم هذه الوحدة، الوحدة النمطية "استكشاف إطار عمل الاختبار والأدوات المضمنة في تطبيقات Finance and Operations".
+  description: تقدم هذه الوحدة، الوحدة النمطية استكشاف إطار عمل الاختبار والأدوات المضمنة في تطبيقات التمويل والعمليات.
   ms.date: 07/01/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 3977d19c0ed57b2251c4599ca9cbd6541120cc78
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 926e78b7774f09b63ca50bdd46863f688d021747
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7335158"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578778"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

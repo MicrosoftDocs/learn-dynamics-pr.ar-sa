@@ -8,17 +8,17 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 20b8cfffd859a983d958885d3a907e8b71a90e19
-  ms.sourcegitcommit: 6d89a68fa258a52927b444de3507785dead574ea
+  ms.openlocfilehash: 970b79f7ec77b52a5f599a224db5595c5edb9f91
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9025228"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9514750"
 title: إنشاء ملف تعريف موحّد للعملاء في Dynamics 365 Customer Insights
 summary: "[!include[](../includes/module-banner.md)] \n\nDynamics 365 Customer Insights عبارة عن نظام أساسي لبيانات العملاء (CDP) سهل الاستخدام ومرن يساعد على إطلاق العنان للرؤى والتعمق في فهم عملائك. ستتعرّف في هذه الوحدة على إنشاء ملف تعريف موحّد للعملاء في Customer Insights.  \n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- التعرُّف على طريقة إنشاء مثيل من مثيلات Customer Insights. \n- التعرُّف على طريقة استيعاب البيانات.\n- التعرُّف على توحيد البيانات. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- التعرُّف على طريقة إنشاء مثيل من مثيلات Customer Insights. \n- التعرُّف على طريقة استيعاب البيانات.\n- التعرُّف على توحيد البيانات. \n"
 prerequisites: بلا
-iconUrl: /learn/achievements/unified-customer-profile.svg
+iconUrl: /training/achievements/unified-customer-profile.svg
 levels:
 - intermediate
 roles:

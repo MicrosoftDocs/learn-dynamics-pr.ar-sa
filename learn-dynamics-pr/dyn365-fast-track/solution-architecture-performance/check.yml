@@ -8,15 +8,15 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ab10d4222e3fcf61abec89d35f4d3eebf69c9226
-  ms.sourcegitcommit: 20c987e5ad19236137f3bdbaaae524d0864711b2
+  ms.openlocfilehash: acd820cd93c0c2553c824b8da65e0c092470cde6
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/01/2022
-  ms.locfileid: "9393354"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578418"
 durationInMinutes: 10
 quiz:
-  title: أجب عن الأسئلة التالية للوقوف عَلى ما تعلمته.
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
   questions:
   - content: عند تحليل المشكلات المتعلقة بالأداء، أي من الأدوات التالية يمكنك استخدامها؟
     choices:
@@ -85,6 +85,6 @@ quiz:
     - content: الأبعاد المالية
       isCorrect: true
       explanation: صحيح. سياسات أمان البيانات القابلة للتوسيع (XDS) غير مدعومة للأبعاد المالية.
-    - content: لا شيء من الخيارات
+    - content: بلا من الخيارات
       isCorrect: false
       explanation: غير صحيح. سياسات أمان البيانات القابلة للتوسيع (XDS) غير مدعومة للأبعاد المالية فقط.

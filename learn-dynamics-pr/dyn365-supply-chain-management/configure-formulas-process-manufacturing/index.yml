@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c36b5b2c9f5a2d6607571efe52396b036b5ffdf7
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 1ce82fbb92a29147cd8ce375bae5775fa9d65e87
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750889"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9511169"
 title: تكوين المعادلات للتصنيع التحويلي في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -25,7 +25,7 @@ prerequisites: >
   - معرفه عمليات إدارة المخزون
 
   - معرفه عمليات إدارة المستودعات
-iconUrl: /learn/achievements/configure-formulas-process-manufacturing.svg
+iconUrl: /training/achievements/configure-formulas-process-manufacturing.svg
 levels:
 - intermediate
 roles:

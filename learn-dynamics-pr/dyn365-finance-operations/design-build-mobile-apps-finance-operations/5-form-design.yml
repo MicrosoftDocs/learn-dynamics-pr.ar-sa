@@ -3,17 +3,17 @@ uid: learn-dynamics.design-and-build-mobile-apps-for-dynamics-365-finance-ops.5-
 title: متطلبات تصميم النماذج
 metadata:
   title: متطلبات تصميم النماذج
-  description: تصف هذه الوحدة متطلبات تصميم النموذج لتطبيقات الأجهزة المحمولة في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة متطلبات تصميم النموذج لتطبيقات الأجهزة المحمولة في تطبيقات التمويل والعمليات.
   ms.date: 07/05/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ab49e95a3af5017d4c9b2fdcf186883fe1f78a4f
-  ms.sourcegitcommit: 186f8c86b937e0b753cc9dcc38ca43b7306d50fb
+  ms.openlocfilehash: 4d2f3e79bded97640fe22a5773a91095b26d711a
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 07/05/2022
-  ms.locfileid: "9114636"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9576388"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

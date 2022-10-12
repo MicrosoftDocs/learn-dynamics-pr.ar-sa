@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6a3fad3dd21992f8c4a67abbcac5f23d9b571a72
-ms.sourcegitcommit: a776159b2b746af24d69f1e7aa67d3e872df05f7
+ms.openlocfilehash: 013055b1b424f4f99f8de5ce6dbf3e997b83e9b3
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "8716159"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582768"
 ---
 تشرح هذه الوحدة كيفية إنشاء مشروع تكامل البيانات. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "8716159"
     1. حدد **إنشاء**.
 4.  افتح [بيئات Power Apps](https://admin.powerplatform.microsoft.com/home/?azure-portal=true) ثم اتبع الخطوات التالية:
     1. إنشاء مشاريع تكامل البيانات للقوالب التالية باستخدام مجموعة الاتصال التي أنشأتها:
-        - نتيجة معلومات دفع العميل‬ (Dataverse إلى التمويل والعمليات، الإصدار 10.0.17+)
+        - نتيجة معلومات دفع العميل‬ (Dataverse إلى التمويل والعمليات، الإصدار +10.0.17)
         - نتائج السلسلة الزمنية للتدفق النقدي (Dataverse إلى التمويل والعمليات)
         - نتائج السلسلة الزمنية للموازنة (Dataverse إلى التمويل والعمليات)
     1. قم بتعيين الجدولة المناسبة لكل مشروع.

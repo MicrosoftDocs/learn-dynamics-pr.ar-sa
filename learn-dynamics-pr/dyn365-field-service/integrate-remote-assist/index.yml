@@ -7,17 +7,17 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 60551c860f4eeeb89c151f44bab1409e8238288e
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 2c599fecc3abe166067c65efb775fe90220994ce
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8749115"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9515845"
 title: دمج Dynamics 365 Remote Assist مع Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)] \nكما يُمكن للمؤسسات التي تستخدم Dynamics 365 Field Service إدارة أوامر العمل تمكين الفنيين من إجراء مكالمات مساعدة عن بُعد في سياق أوامر العمل.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- تشغيل الأجهزة المحمولة للمساعدة عن بُعد من الحجز‬‏‫.\n- مراجعة معلومات أمر العمل.\n- ترحيل معلومات المكالمة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تشغيل الأجهزة المحمولة للمساعدة عن بُعد من الحجز‬‏‫.\n- مراجعة معلومات أمر العمل.\n- ترحيل معلومات المكالمة.\n"
 prerequisites: "- مستأجر Microsoft Azure مع اشتراك Dynamics 365 واشتراك Dynamics 365 Remote Assist \n- وصول المسؤول لإضافة مثيل مستأجر Dynamics 365 أو تحديثه\n- تطبيق Dynamics 365 Field Service المُثبت \n"
-iconUrl: /learn/achievements/integrate-remote-assist.svg
+iconUrl: /training/achievements/integrate-remote-assist.svg
 levels:
 - intermediate
 roles:

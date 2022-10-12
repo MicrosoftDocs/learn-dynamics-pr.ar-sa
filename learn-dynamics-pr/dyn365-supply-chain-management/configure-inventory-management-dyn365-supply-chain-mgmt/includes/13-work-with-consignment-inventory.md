@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 21d523141182af2510a1ae0691a3215e7d07b1d7
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 0e9d485c314df62828138bc11553aa5a729e62ef
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7328041"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9511653"
 ---
 مخزون الشحن هو المخزون المملوك لأحد الموردين ويتم تخزينه في موقعك. عندما تكون مستعداً لاستهلاك المخزون أو استخدامه، فإنك تتولى ملكية المخزون. 
 
@@ -42,9 +42,8 @@ ms.locfileid: "7328041"
 - **المنتجات المستلمة من مخزون الشحن**: تعرض معلومات حول الأصناف والكميات التي تم تحديث إيصالات استلام المنتجات لها أثناء عملية تغيير الملكية.
 - **مخزون الشحن الفعلي**: إظهار معلومات حول أصناف الشحن المتوقع تسليمها والأصناف المتوفرة فعلياً في موقع العميل.
 
-لمزيد من المعلومات حول تعاون المورد، راجع [تكوين وإدارة تعاون المورد في Dynamics 365 Supply Chain Management](/learn/modules/configure-manage-vendor-collaboration-dyn365-supply-chain-mgmt/?azure-portal=true).
+لمزيد من المعلومات حول تعاون المورد، راجع [تكوين وإدارة تعاون المورد في Dynamics 365 Supply Chain Management](/training/modules/configure-manage-vendor-collaboration-dyn365-supply-chain-mgmt/?azure-portal=true).
 
 ## <a name="tracking-dimension-group"></a>مجموعة أبعاد التعقب 
 
 يجب أن تكون الأصناف التي سيتم استخدامها في عمليات الشحن مرتبطة بمجموعة أبعاد التعقب حيث يتم تعيين بُعد المالك على **نشط**. يحتوي بُعد المالك دائماً على **المخزون الفعلي** وخيارات **المخزون المالي** المحددة. لا يتم تحديد خيار **خطة التغطية حسب البُعد** مطلقاً.
-

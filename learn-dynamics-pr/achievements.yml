@@ -1,190 +1,195 @@
 ### YamlMime:Achievements
 achievements:
+- uid: learn-dynamics.manage-content-event-triggers-journeys.badge
+  type: badge
+  title: إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing
+  summary: إدارة المحتوى ومشغّلات الأحداث والرحلات في التسويق في الوقت الحقيقي باستخدام Dynamics 365 Marketing
+  iconUrl: /training/achievements/manage-content-event-triggers-journeys.svg
 - uid: learn-dynamics.work-distribution-omnichannel.badge
   type: badge
   title: التوجيه وتوزيع العمل فِي القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
   summary: التوجيه وتوزيع العمل فِي القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
-  iconUrl: /learn/achievements/work-distribution-omnichannel.svg
+  iconUrl: /training/achievements/work-distribution-omnichannel.svg
 - uid: learn-dynamics.unified-routing.badge
   type: badge
   title: الشروع فِي العمل مع التوجيه الموحد باستخدام Dynamics 365 Customer Service
   summary: الشروع فِي العمل مع التوجيه الموحد باستخدام Dynamics 365 Customer Service
-  iconUrl: /learn/achievements/unified-routing.svg
+  iconUrl: /training/achievements/unified-routing.svg
 - uid: learn.deliver-a-customized-mobile-experience.badge
   type: badge
   title: تقديم تجربة مخصصة للأجهزة المحمولة فِي Dynamics 365 Field Service
   summary: تقديم تجربة مخصصة للأجهزة المحمولة فِي Dynamics 365 Field Service
-  iconUrl: /learn/achievements/deliver-a-customized-mobile-experience.svg
+  iconUrl: /training/achievements/deliver-a-customized-mobile-experience.svg
 - uid: learn.get-started-with-microsoft-dynamics-365-for-field-service-mobile.badge
   type: badge
   title: بدء استخدام تطبيق Microsoft Dynamics 365 Field Service للأجهزة المحمولة
   summary: بدء استخدام تطبيق Microsoft Dynamics 365 Field Service للأجهزة المحمولة
-  iconUrl: /learn/achievements/get-started-with-microsoft-dynamics-365-field-service-mobile.svg
+  iconUrl: /training/achievements/get-started-with-microsoft-dynamics-365-field-service-mobile.svg
 - uid: learn.get-started-with-workflows-in-dynamics-365.badge
   type: badge
   title: الشروع فِي العمل باستخدام عمليات سير العمل فِي Dynamics 365 for Customer Engagement
   summary: الشروع فِي العمل باستخدام عمليات سير العمل فِي Dynamics 365 for Customer Engagement
-  iconUrl: /learn/achievements/get-started-with-workflows-in-dynamics-365.svg
+  iconUrl: /training/achievements/get-started-with-workflows-in-dynamics-365.svg
 - uid: learn.manage-your-d365-data.badge
   type: badge
   title: إدارة بيانات تطبيقات Dynamics 365 Customer Engagement الخاصة بك
   summary: إدارة بيانات تطبيقات Dynamics 365 Customer Engagement الخاصة بك
-  iconUrl: /learn/achievements/manage-dynamics-365-data.svg
+  iconUrl: /training/achievements/manage-dynamics-365-data.svg
 - uid: learn-dynamics.microsoft-power-platform-mobile-management.badge
   type: badge
   title: إدارة Microsoft Power Platform للأجهزة المحمولة
   summary: إدارة Microsoft Power Platform للأجهزة المحمولة
-  iconUrl: /learn/achievements/microsoft-power-platform-mobile-management.svg
+  iconUrl: /training/achievements/microsoft-power-platform-mobile-management.svg
 - uid: learn-dynamics.managing-dynamics-365-clients.badge
   type: badge
   title: إدارة عملاء Dynamics 365
   summary: إدارة عملاء Dynamics 365
-  iconUrl: /learn/achievements/managing-dynamics-365-clients.svg
+  iconUrl: /training/achievements/managing-dynamics-365-clients.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-commerce.badge
   type: badge
   title: مقدمة عن Dynamics 365 Commerce
   summary: مقدمة عن Dynamics 365 Commerce
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-retail.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-retail.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365.badge
   type: badge
   title: مقدمة عن Microsoft Dynamics 365
   summary: مقدمة عن Microsoft Dynamics 365
-  iconUrl: /learn/achievements/introduction-to-microsoft-dynamics-365.svg
+  iconUrl: /training/achievements/introduction-to-microsoft-dynamics-365.svg
 - uid: learn-dynamics.go-live-review-unified-operations.badge
   type: badge
   title: تشغيل مراجعه استعداد البث المباشر لتطبيقات العمليات الموحدة
   summary: تشغيل مراجعه استعداد البث المباشر لتطبيقات العمليات الموحدة
-  iconUrl: /learn/achievements/go-live-review-unified-operations.svg
+  iconUrl: /training/achievements/go-live-review-unified-operations.svg
 - uid: learn-dynamics.solution-blueprint-unified-operations.badge
   type: badge
   title: إنشاء مخطط حلول لتطبيقات العمليات الموحدة
   summary: إنشاء مخطط حلول لتطبيقات العمليات الموحدة
-  iconUrl: /learn/achievements/solution-blueprint-unified-operations.svg
+  iconUrl: /training/achievements/solution-blueprint-unified-operations.svg
 - uid: learn-dynamics.user-experience.badge
   type: badge
   title: تنفيذ إستراتيجية تجربة المستخدم لحلول Dynamics 365
   summary: تنفيذ إستراتيجية تجربة المستخدم لحلول Dynamics 365
-  iconUrl: /learn/achievements/user-experience.svg
+  iconUrl: /training/achievements/user-experience.svg
 - uid: learn-dynamics.go-live-readiness.badge
   type: badge
   title: قم بتقييم جاهزية البث المباشر لتطبيقات Dynamics 365إشراك العملاء
   summary: قم بتقييم جاهزية البث المباشر لتطبيقات Dynamics 365إشراك العملاء
-  iconUrl: /learn/achievements/go-live-readiness.svg
+  iconUrl: /training/achievements/go-live-readiness.svg
 - uid: learn-dynamics.use-success-design-unified-operations.trophy
   type: trophy
   title: استخدام Success by Design لحلول تطبيقات العمليات الموحدة
   summary: استخدام Success by Design لحلول تطبيقات العمليات الموحدة
-  iconUrl: /learn/achievements/use-success-design-unified-operations.svg
+  iconUrl: /training/achievements/use-success-design-unified-operations.svg
 - uid: learn-dynamics.web-resources-power-platform.badge
   type: badge
   title: مقدمة عن مصادر الويب
   summary: مقدمة عن مصادر الويب
-  iconUrl: /learn/achievements/web-resources-power-platform.svg
+  iconUrl: /training/achievements/web-resources-power-platform.svg
 - uid: learn-dynamics.configure-message-channels.badge
   type: badge
   title: قم بتكوين قنوات الرسائل فِي القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
   summary: قم بتكوين قنوات الرسائل فِي القناة متعددة الاتجاهات لـ Dynamics 365 Customer Service
-  iconUrl: /learn/achievements/configure-message-channels.svg
+  iconUrl: /training/achievements/configure-message-channels.svg
 - uid: learn.voc-managing-driving-action-from-surveys.badge
   type: badge
   title: إدارة وتوجيه الإجراءات من الاستجابات الخاصة بالاستقصاء باستخدام صوت العميل لـ Dynamics 365
   summary: إدارة وتوجيه الإجراءات من الاستجابات الخاصة بالاستقصاء باستخدام صوت العميل لـ Dynamics 365
-  iconUrl: /learn/achievements/managing-and-driving-actions-from-surveys.svg
+  iconUrl: /training/achievements/managing-and-driving-actions-from-surveys.svg
 - uid: learn.work-with-business-process-flows-dynamics-365.badge
   type: badge
   title: إنشاء سير إجراءات العمل للتطبيقات المستندة إلَى النموذج فِي Dynamics 365
   summary: إنشاء سير إجراءات العمل للتطبيقات المستندة إلَى النموذج فِي Dynamics 365
-  iconUrl: /learn/achievements/work-with-business-process-flows-dynamics-365.svg
+  iconUrl: /training/achievements/work-with-business-process-flows-dynamics-365.svg
 - uid: learn.voc-response-routing-survey-scoring.badge
   type: badge
   title: خيارات توجيه الردود وخيارات تسجيل الاستطلاع فِي صوت العميل لـ Dynamics 365
   summary: خيارات توجيه الردود وخيارات تسجيل الاستطلاع فِي صوت العميل لـ Dynamics 365
-  iconUrl: /learn/achievements/response-routing-and-survey-options.svg
+  iconUrl: /training/achievements/response-routing-and-survey-options.svg
 - uid: learn.designing-voc-surveys.badge
   type: badge
   title: تصميم صوت العميل لاستطلاعات Dynamics 365
   summary: تصميم صوت العميل لاستطلاعات Dynamics 365
-  iconUrl: /learn/achievements/designing-voc-surveys.svg
+  iconUrl: /training/achievements/designing-voc-surveys.svg
 - uid: learn.dyn365-voice-of-customer.trophy
   type: trophy
   title: صوت العميل لـ Dynamics 365
   summary: صوت العميل لـ Dynamics 365
-  iconUrl: /learn/achievements/creating-surveys-with-microsoft-dynamics-365-voice-of-the-customer.svg
+  iconUrl: /training/achievements/creating-surveys-with-microsoft-dynamics-365-voice-of-the-customer.svg
 - uid: learn-dynamics.forms-pro.badge
   type: badge
   title: قم بإنشاء أول استطلاع باستخدام Microsoft Forms Pro
   summary: قم بإنشاء أول استطلاع باستخدام Microsoft Forms Pro
-  iconUrl: /learn/achievements/forms-pro.svg
+  iconUrl: /training/achievements/forms-pro.svg
 - uid: learn-dynamics.send-survey-forms-pro.badge
   type: badge
   title: قم بإرسال استطلاع باستخدام Microsoft Forms Pro
   summary: قم بإرسال استطلاع باستخدام Microsoft Forms Pro
-  iconUrl: /learn/achievements/send-survey-forms-pro.svg
+  iconUrl: /training/achievements/send-survey-forms-pro.svg
 - uid: learn-dynamics.surfacing-dynamics-365-and-cds-data-on-the-portal.badge
   type: badge
   title: تأمين بيانات Common Data Service فِي مداخل Dynamics 365
   summary: تأمين بيانات Common Data Service فِي مداخل Dynamics 365
-  iconUrl: /learn/achievements/surfacing-dynamics-365-and-cds-data-on-the-portal.svg
+  iconUrl: /training/achievements/surfacing-dynamics-365-and-cds-data-on-the-portal.svg
 - uid: learn-dynamics.provisioning-and-administering-d365-portals.badge
   type: badge
   title: توفير وإدارة مداخل Dynamics 365
   summary: توفير وإدارة مداخل Dynamics 365
-  iconUrl: /learn/achievements/provisioning-and-administering-portal.svg
+  iconUrl: /training/achievements/provisioning-and-administering-portal.svg
 - uid: learn-dynamics.authentication-user-management-portals.badge
   type: badge
   title: إدارة المستخدمين والمصادقة فِي مداخل Dynamics 365
   summary: إدارة المستخدمين والمصادقة فِي مداخل Dynamics 365
-  iconUrl: /learn/achievements/authentication-user-management-portals.svg
+  iconUrl: /training/achievements/authentication-user-management-portals.svg
 - uid: learn-dynamics.work-with-portals.trophy
   type: trophy
   title: العمل مع المداخل فِي Microsoft Dynamics 365
   summary: العمل مع المداخل فِي Microsoft Dynamics 365
-  iconUrl: /learn/achievements/work-with-portals.svg
+  iconUrl: /training/achievements/work-with-portals.svg
 - uid: learndynamics.access-cds-data.badge
   type: badge
   title: الوصول إلَى بيانات Common Data Service فِي مداخل Dynamics 365
   summary: الوصول إلَى بيانات Common Data Service فِي مداخل Dynamics 365
-  iconUrl: /learn/achievements/portal-authentication.svg
+  iconUrl: /training/achievements/portal-authentication.svg
 - uid: learn-dynamics.portal-security.badge
   type: badge
   title: تأمين محتوى مداخل Dynamics 365
   summary: تأمين محتوى مداخل Dynamics 365
-  iconUrl: /learn/achievements/portal-security.svg
+  iconUrl: /training/achievements/portal-security.svg
 - uid: learn-dynamics.develop-portals.badge
   type: badge
   title: التطوير باستخدام مداخل Dynamics 365
   summary: التطوير باستخدام مدخل Dynamics 365
-  iconUrl: /learn/achievements/extending-dynamics-365-portals.svg
+  iconUrl: /training/achievements/extending-dynamics-365-portals.svg
 - uid: learn-dynamics.extend-portals.trophy
   type: trophy
   title: قم بتوسيع مداخل Dynamics 365
   summary: قم بتوسيع مداخل Dynamics 365
-  iconUrl: /learn/achievements/extend-portals.svg
+  iconUrl: /training/achievements/extend-portals.svg
 - uid: learn-dynamics.portal-content-management.badge
   type: badge
   title: إنشاء محتوى فِي مداخل Dynamics 365
   summary: إنشاء محتوى فِي مداخل Dynamics 365
-  iconUrl: /learn/achievements/portal-content-management.svg
+  iconUrl: /training/achievements/portal-content-management.svg
 - uid: learn-dynamics.portal-components.badge
   type: badge
   title: العمل مع مكونات مدخل Dynamics 365
   summary: العمل مع مكونات مدخل Dynamics 365
-  iconUrl: /learn/achievements/portal-components.svg
+  iconUrl: /training/achievements/portal-components.svg
 - uid: learn-dynamics.configure-dynamics-365-starter-portals.badge
   type: badge
   title: تكوين مداخل Dynamics 365
   summary: تكوين مداخل Dynamics 365
-  iconUrl: /learn/achievements/introduction-to-portals.svg
+  iconUrl: /training/achievements/introduction-to-portals.svg
 - uid: learn-dynamics.get-started-portals.trophy
   type: trophy
   title: الشروع فِي العمل باستخدام مداخل Dynamics 365
   summary: الشروع فِي العمل باستخدام مداخل Dynamics 365
-  iconUrl: /learn/achievements/get-started-portals.svg
+  iconUrl: /training/achievements/get-started-portals.svg
 - uid: learn-dynamics.introduction-to-d365-portals.badge
   type: badge
   title: مقدمة عن مداخل Dynamics 365
   summary: مقدمة عن مداخل Dynamics 365
-  iconUrl: /learn/achievements/introduction-to-portals.svg
+  iconUrl: /training/achievements/introduction-to-portals.svg
 - uid: learn-dynamics.dyn365-sample-path.trophy
   type: trophy
   title: مسار العينة - Dyn365
@@ -199,321 +204,321 @@ achievements:
   type: trophy
   title: العمل باستخدام Dynamics 365 Marketing
   summary: العمل باستخدام Dynamics 365 Marketing
-  iconUrl: /learn/achievements/work-core-features-marketing.svg
+  iconUrl: /training/achievements/work-core-features-marketing.svg
 - uid: learn.get-started-with-marketing.trophy
   type: trophy
   title: الشروع فِي العمل باستخدام Dynamics 365 Marketing
   summary: الشروع فِي العمل باستخدام Dynamics 365 Marketing
-  iconUrl: /learn/achievements/get-started-with-marketing.svg
+  iconUrl: /training/achievements/get-started-with-marketing.svg
 - uid: learn-bizapps.get-started-with-marketing.trophy
   type: trophy
   title: الشروع فِي العمل باستخدام Dynamics 365 Marketing
   summary: الشروع فِي العمل باستخدام Dynamics 365 Marketing
-  iconUrl: /learn/achievements/get-started-with-marketing.svg
+  iconUrl: /training/achievements/get-started-with-marketing.svg
 - uid: learn-wwl.learn-business-value-d365-and-power-platform.trophy
   type: trophy
   title: تعرف على القيمة التجارية لـ Microsoft Dynamics 365 ولـ Power Platform
   summary: تعرف على القيمة التجارية لـ Microsoft Dynamics 365 ولـ Power Platform
-  iconUrl: /learn/achievements/d365-sfa-learning-path.svg
+  iconUrl: /training/achievements/d365-sfa-learning-path.svg
 - uid: learn-wwl.d365-for-finance-and-ops.badge
   type: badge
   title: Dynamics 365 for Finance and Operations
   summary: Dynamics 365 for Finance and Operations
-  iconUrl: /learn/achievements/d365-for-finance-and-ops.svg
+  iconUrl: /training/achievements/d365-for-finance-and-ops.svg
 - uid: learn-wwl.welcome-to-msft-business-applications-generalist.badge
   type: badge
   title: مرحباً بك فِي Microsoft Business Applications
   summary: مرحباً بك فِي Microsoft Business Applications
-  iconUrl: /learn/achievements/welcome-to-msft-business-applications-generalist.svg
+  iconUrl: /training/achievements/welcome-to-msft-business-applications-generalist.svg
 - uid: learn-dynamics.dyn-power-plat-bus-app-fundamentals.trophy
   type: trophy
   title: Dynamics 365 وPower Platform Fundamentals
   summary: Dynamics 365 وPower Platform Fundamentals
-  iconUrl: /learn/achievements/dyn-power-plat-bus-app-fundamentals.svg
+  iconUrl: /training/achievements/dyn-power-plat-bus-app-fundamentals.svg
 - uid: learn-wwl.intro-d365-and-power-platform.badge
   type: badge
   title: تطبيقات Dynamics 365 وPower Platform
   summary: تطبيقات Dynamics 365 وPower Platform
-  iconUrl: /learn/achievements/intro-d365-and-power-platform.svg
+  iconUrl: /training/achievements/intro-d365-and-power-platform.svg
 - uid: learn-wwl.dynamics-365-ai-insights-driven-business-applications.badge
   type: badge
   title: تطبيقات الأعمال التي تستند إلَى تحليلات الذكاء الاصطناعي لـ Dynamics 365
   summary: تطبيقات الأعمال التي تستند إلَى تحليلات الذكاء الاصطناعي لـ Dynamics 365
-  iconUrl: /learn/achievements/dynamics-365-ai-insights-driven-business-applications.svg
+  iconUrl: /training/achievements/dynamics-365-ai-insights-driven-business-applications.svg
 - uid: learn.wwl.differentiate-between-dynamics-365-business-central-other-dynamics.badge
   type: badge
   title: التفرقة بين Dynamics 365 Business Central وتطبيقات التمويل والعمليات الأخرى
   summary: التفرقة بين Dynamics 365 Business Central وتطبيقات التمويل والعمليات الأخرى
-  iconUrl: /learn/achievements/generic-badge.svg
+  iconUrl: /training/achievements/generic-badge.svg
 - uid: learn.wwl.explore-dynamics-365-business-central-core-capabilities.badge
   type: badge
   title: استكشاف إمكانات الذاكرة الأساسية لـ Dynamics 365 Business Central
   summary: استكشاف إمكانات الذاكرة الأساسية لـ Dynamics 365 Business Central
-  iconUrl: /learn/achievements/generic-badge.svg
+  iconUrl: /training/achievements/generic-badge.svg
 - uid: learn.wwl.explore-microsoft-dynamics-365-business-central.trophy
   type: trophy
   title: تعلُّم أساسيات Microsoft Dynamics 365 Business Central
   summary: تعلُّم أساسيات Microsoft Dynamics 365 Business Central
-  iconUrl: /learn/achievements/generic-trophy.svg
+  iconUrl: /training/achievements/generic-trophy.svg
 - uid: learn-wwl.intro-to-business-applications.badge
   type: badge
   title: مقدمة عن Microsoft Business Applications
   summary: مقدمة عن Microsoft Business Applications
-  iconUrl: /learn/achievements/intro-to-business-applications.svg
+  iconUrl: /training/achievements/intro-to-business-applications.svg
 - uid: learn-wwl.achieve-business-transformation-with-microsoft-catalyst.badge
   type: badge
   title: الحصول على تحويل الأعمال باستخدام Microsoft Catalyst
   summary: الحصول على تحويل الأعمال باستخدام Microsoft Catalyst
-  iconUrl: /learn/achievements/achieve-business-transformation-with-microsoft-catalyst.svg
+  iconUrl: /training/achievements/achieve-business-transformation-with-microsoft-catalyst.svg
 - uid: learn-wwl.d365-for-business-central.badge
   type: badge
   title: Dynamics 365 Business Central
   summary: Dynamics 365 Business Central
-  iconUrl: /learn/achievements/d365-for-business-central.svg
+  iconUrl: /training/achievements/d365-for-business-central.svg
 - uid: learn-wwl.d365-finance.badge
   type: badge
   title: Dynamics 365 Finance
   summary: Dynamics 365 Finance
-  iconUrl: /learn/achievements/d365-for-finance-and-ops.svg
+  iconUrl: /training/achievements/d365-for-finance-and-ops.svg
 - uid: learn-wwl.d365-for-customer-service.badge
   type: badge
   title: Dynamics 365 Customer Service
   summary: Dynamics 365 Customer Service
-  iconUrl: /learn/achievements/d365-for-customer-service.svg
+  iconUrl: /training/achievements/d365-for-customer-service.svg
 - uid: learn-wwl.d365-for-field-service.badge
   type: badge
   title: Dynamics 365 Field Service
   summary: Dynamics 365 Field Service
-  iconUrl: /learn/achievements/d365-for-field-service.svg
+  iconUrl: /training/achievements/d365-for-field-service.svg
 - uid: learn-wwl.d365-for-marketing.badge
   type: badge
   title: Dynamics 365 Marketing
   summary: Dynamics 365 Marketing
-  iconUrl: /learn/achievements/d365-for-marketing.svg
+  iconUrl: /training/achievements/d365-for-marketing.svg
 - uid: learn-wwl.d365-for-retail.badge
   type: badge
   title: Dynamics 365 Commerce
   summary: Dynamics 365 Commerce
-  iconUrl: /learn/achievements/d365-for-retail.svg
+  iconUrl: /training/achievements/d365-for-retail.svg
 - uid: learn-wwl.d365-for-sales.badge
   type: badge
   title: Dynamics 365 Sales
   summary: Dynamics 365 Sales
-  iconUrl: /learn/achievements/d365-for-sales.svg
+  iconUrl: /training/achievements/d365-for-sales.svg
 - uid: learn-wwl.d365-for-talent.badge
   type: badge
   title: Dynamics 365 Human Resources
   summary: Dynamics 365 Human Resources
-  iconUrl: /learn/achievements/d365-for-talent.svg
+  iconUrl: /training/achievements/d365-for-talent.svg
 - uid: learn-wwl.dynamics-365-supply-chain-management.badge
   type: badge
   title: Dynamics 365 Supply Chain Management
   summary: Dynamics 365 Supply Chain Management
-  iconUrl: /learn/achievements/d365-for-finance-and-ops.svg
+  iconUrl: /training/achievements/d365-for-finance-and-ops.svg
 - uid: learn-wwl.intro-power-platform.badge
   type: badge
   title: Power Platform - المقدمة وقيمة الأعمال والعروض التوضيحية
   summary: Power Platform - المقدمة وقيمة الأعمال والعروض التوضيحية
-  iconUrl: /learn/achievements/intro-to-power-platform.svg
+  iconUrl: /training/achievements/intro-to-power-platform.svg
 - uid: learn.wwl.dynamics-365-customer-insights.badge
   type: badge
   title: Dynamics 365 Customer Insights
   summary: Dynamics 365 Customer Insights
-  iconUrl: /learn/achievements/dynamics-365-customer-insights.svg
+  iconUrl: /training/achievements/dynamics-365-customer-insights.svg
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals.trophy
   type: trophy
   title: أساسيات Microsoft Dynamics 365
   summary: أساسيات Microsoft Dynamics 365
-  iconUrl: /learn/achievements/microsoft-dynamics-365-fundamentals.svg
+  iconUrl: /training/achievements/microsoft-dynamics-365-fundamentals.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-sales.badge
   type: badge
   title: مقدمة عن Dynamics 365 Sales
   summary: مقدمة عن Dynamics 365 Sales
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-sales.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-sales.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-customer-service.badge
   type: badge
   title: مقدمة عن Dynamics 365 Customer Service
   summary: مقدمة عن Dynamics 365 Customer Service
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-customer-service.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-customer-service.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-field-service.badge
   type: badge
   title: مقدمة عن Dynamics 365 Field Service
   summary: مقدمة عن Dynamics 365 Field Service
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-field-service.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-marketing.badge
   type: badge
   title: مقدمة عن Dynamics 365 Marketing
   summary: مقدمة عن Dynamics 365 Marketing
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-marketing.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-marketing.svg
 - uid: learn-dynamics.wwl.connect-analyze-dynamics-365-data.badge
   type: badge
   title: قم بتوصيل بيانات Dynamics 365 وتحليلها
   summary: قم بتوصيل بيانات Dynamics 365 وتحليلها
-  iconUrl: /learn/achievements/connect-and-analyze-your-microsoft-dynamics-365-data.svg
+  iconUrl: /training/achievements/connect-and-analyze-your-microsoft-dynamics-365-data.svg
 - uid: learn-dynamics.wwl.dynamics-365-customer-data-platform-customer-engagement-apps-integration.badge
   type: badge
   title: استكشف عمليات تكامل التطبيقات التي تستند إلَى النموذج من Microsoft ومن Dynamics 365 Customer Insights
   summary: استكشف عمليات تكامل التطبيقات التي تستند إلَى النموذج من Microsoft ومن Dynamics 365 Customer Insights
-  iconUrl: /learn/achievements/microsoft-customer-engagement-apps-integrations.svg
+  iconUrl: /training/achievements/microsoft-customer-engagement-apps-integrations.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-business-central.badge
   type: badge
   title: مقدمة عن Dynamics 365 Business Central
   summary: مقدمة عن Dynamics 365 Business Central
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-business-central.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-business-central.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-finance.badge
   type: badge
   title: مقدمة عن Dynamics 365 Finance
   summary: مقدمة عن Dynamics 365 Finance
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-finance.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-finance.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-human-resources.badge
   type: badge
   title: مقدمة عن Dynamics 365 Human Resources
   summary: مقدمة عن Dynamics 365 Human Resources
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-human-resources.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-human-resources.svg
 - uid: learn-dynamics.wwl.introduction-dynamics-365-supply-chain-management.badge
   type: badge
   title: مقدمة عن Dynamics 365 Supply Chain Management
   summary: مقدمة عن Dynamics 365 Supply Chain Management
-  iconUrl: /learn/achievements/introduction-to-dynamics-365-supply-chain-management.svg
+  iconUrl: /training/achievements/introduction-to-dynamics-365-supply-chain-management.svg
 - uid: learn-dynamics.wwl.principles-cloud-computing-dynamics-365-deployment.badge
   type: badge
   title: مبادئ الحوسبة السحابية والتوزيع
   summary: مبادئ الحوسبة السحابية والتوزيع
-  iconUrl: /learn/achievements/principles-cloud-computing-deployment.svg
+  iconUrl: /training/achievements/principles-cloud-computing-deployment.svg
 - uid: learn-dynamics.wwl.recognize-dynamics-365-security.badge
   type: badge
   title: التعرف على أمان Dynamics 365
   summary: التعرف على أمان Dynamics 365
-  iconUrl: /learn/achievements/recognize-microsoft-dynamics-365-security.svg
+  iconUrl: /training/achievements/recognize-microsoft-dynamics-365-security.svg
 - uid: learn-dynamics.wwl.microsoft-finance-operations-apps-integrations​​.badge
   type: badge
   title: استكشف عمليات تكامل تطبيقات التمويل والعمليات من Microsoft
   summary: تتمثل الميزة الرئيسية لـ 365 Microsoft Dynamics فِي أنه يمكنك دمجه مع حلول Microsoft الأخرى وعدد لا يحصى من تطبيقات الجهات الخارجية بسهولة. اكتشف عمليات التكامل المتاحة لتطبيقات التمويل والعمليات.
-  iconUrl: /learn/achievements/microsoft-finance-and-operations-apps-integration.svg
+  iconUrl: /training/achievements/microsoft-finance-and-operations-apps-integration.svg
 - uid: learn.wwl.explore-microsoft-dynamics-365-marketing.trophy
   type: trophy
   title: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Marketing'
   summary: هل أنت جديد على Dynamics 365؟ تقدم هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لـإشراك العملاء والعناصر التي يشتركون فيها بالإضافة إلَى كل تطبيق من تطبيقات Dynamics 365إشراك العملاء. ابدأ بمسار التعليم هذا للتعرف على Dynamics 365 Marketing.
-  iconUrl: /learn/achievements/explore-microsoft-dynamics-365-marketing.svg
+  iconUrl: /training/achievements/explore-microsoft-dynamics-365-marketing.svg
 - uid: learn.wwl.explore-microsoft-dynamics-365-sales.trophy
   type: trophy
   title: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Sales'
   summary: هل أنت جديد على Dynamics 365؟ تقدم هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لـإشراك العملاء والعناصر التي يشتركون فيها بالإضافة إلَى كل تطبيق من تطبيقاتإشراك العملاء. ابدأ بمسار التعليم هذا للتعرف على Dynamics 365 Sales.
-  iconUrl: /learn/achievements/explore-microsoft-dynamics-365-sales.svg
+  iconUrl: /training/achievements/explore-microsoft-dynamics-365-sales.svg
 - uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-field-service.trophy
   type: trophy
   title: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Field Service'
   summary: هل أنت جديد على Dynamics 365؟ تقدم هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لـإشراك العملاء والعناصر التي يشتركون فيها بالإضافة إلَى كل تطبيق من تطبيقات Dynamics 365إشراك العملاء. ابدأ بمسار التعليم هذا للتعرف على Dynamics 365 Field Service.
-  iconUrl: /learn/achievements/explore-microsoft-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/explore-microsoft-dynamics-365-field-service.svg
 - uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm.trophy
   type: trophy
   title: 'أساسيات Microsoft Dynamics 365 (CRM): استكشاف Dynamics 365 Project Operations'
   summary: هل أنت جديد على Dynamics 365؟ تقدم هذه السلسلة المكونة من خمسة أجزاء المفاهيم الأساسية لـإشراك العملاء والعناصر التي يشتركون فيها بالإضافة إلَى كل تطبيق من تطبيقات Dynamics 365إشراك العملاء. ابدأ بمسار التعليم هذا للتعرف على مكونات إدارة علاقات العملاء فِي Dynamics 365 Project Operations.
-  iconUrl: /learn/achievements/explore-microsoft-dynamics-365-project-operations-crm.svg
+  iconUrl: /training/achievements/explore-microsoft-dynamics-365-project-operations-crm.svg
 - uid: learn.wwl.get-introduced-to-dynamics-365-customer-engagement-apps.badge
   type: badge
   title: تعرف على تطبيقاتإشراك العملاء
   summary: تشرح هذه الوحدة النمطية تطبيقات Dynamics 365إشراك العملاء وميزاتها المشتركة، بما فِي ذلك التكامل والإبلاغ والبحث.
-  iconUrl: /learn/achievements/get-introduced-to-the-dynamics-365-customer-engagement-apps.svg
+  iconUrl: /training/achievements/get-introduced-to-the-dynamics-365-customer-engagement-apps.svg
 - uid: learn.wwl.examine-dynamics-365-marketing.badge
   type: badge
   title: استكشاف Dynamics 365 Marketing
   summary: تقدم لك هذه الوحدة النمطية أساسيات Dynamics 365 Marketing.
-  iconUrl: /learn/achievements/examine-dynamics-365-marketing.svg
+  iconUrl: /training/achievements/examine-dynamics-365-marketing.svg
 - uid: learn.wwl.describe-dynamics-365-marketing-capabilities.badge
   type: badge
   title: وصف إمكانات Dynamics 365 Marketing
   summary: تقدم لك هذه الوحدة النمطية مهام التسويق الأساسية فِي Dynamics 365 Marketing.
-  iconUrl: /learn/achievements/describe-dynamics-365-marketing-capabilities.svg
+  iconUrl: /training/achievements/describe-dynamics-365-marketing-capabilities.svg
 - uid: learn.wwl.review-additional-marketing-apps.badge
   type: badge
   title: مراجعة تطبيقات التسويق الإضافية
   summary: تشرح هذه الوحدة النمطية تطبيقات التسويق الأخرى التي تم دمجها مع Dynamics 365 Marketing.
-  iconUrl: /learn/achievements/review-additional-marketing-apps.svg
+  iconUrl: /training/achievements/review-additional-marketing-apps.svg
 - uid: learn.wwl.examine-dynamics-365-sales.badge
   type: badge
   title: شرح Dynamics 365 Sales
   summary: تشرح لك هذه الوحدة النمطية Dynamics 365 Sales وكيفية دعمها لعملية المبيعات.
-  iconUrl: /learn/achievements/examine-dynamics-365-sales.svg
+  iconUrl: /training/achievements/examine-dynamics-365-sales.svg
 - uid: learn.wwl.manage-sales-lifecycle-with-dynamics-365-sales.badge
   type: badge
   title: إدارة دورة حياة المبيعات باستخدام Dynamics 365 Sales
   summary: ستتعلم فِي هذه الوحدة النمطية طريقة تنفيذ عمليات المبيعات المحددة فِي Dynamics 365 Sales.
-  iconUrl: /learn/achievements/manage-the-sales-lifecycle-with-dynamics-365-sales.svg
+  iconUrl: /training/achievements/manage-the-sales-lifecycle-with-dynamics-365-sales.svg
 - uid: learn.wwl.review-additional-sales-apps.badge
   type: badge
   title: مراجعة تطبيقات المبيعات الإضافية
   summary: تشرح هذه الوحدة النمطية تطبيقات المبيعات الإضافية التي تم دمجها مع Dynamics 365 Sales.
-  iconUrl: /learn/achievements/review-additional-sales-apps.svg
+  iconUrl: /training/achievements/review-additional-sales-apps.svg
 - uid: learn.wwl.examine-dynamics-365-customer-service.badge
   type: badge
   title: استكشاف Dynamics 365 Customer Service
   summary: تشرح لك هذه الوحدة النمطية Dynamics 365 Customer Service وكيفية دعمها لعملية خدمة العملاء.
-  iconUrl: /learn/achievements/review-additional-customer-service-apps.svg
+  iconUrl: /training/achievements/review-additional-customer-service-apps.svg
 - uid: learn.wwl.describe-dynamics-365-customer-service-components.badge
   type: badge
   title: وصف مكونات Dynamics 365 Customer Service
   summary: ستتعرف فِي هذه الوحدة النمطية على كيفية تنفيذ عمليات خدمة العملاء المحددة فِي Dynamics 365 Customer Service.
-  iconUrl: /learn/achievements/describe-dynamics-365-customer-service-components.svg
+  iconUrl: /training/achievements/describe-dynamics-365-customer-service-components.svg
 - uid: learn.wwl.review-other-customer-service-apps.badge
   type: badge
   title: مراجعة تطبيقات خدمة العملاء الأخرى
   summary: تشرح هذه الوحدة النمطية تطبيقات خدمة العملاء الأخرى التي تم دمجها مع Dynamics 365 Customer Service.
-  iconUrl: /learn/achievements/review-additional-customer-service-apps.svg
+  iconUrl: /training/achievements/review-additional-customer-service-apps.svg
 - uid: learn.wwl.examine-dynamics-365-field-service.badge
   type: badge
   title: استكشاف Dynamics 365 Field Service
   summary: تقدم لك هذه الوحدة النمطية Dynamics 365 Field Service وكيف يدعم عمليات الخدمة الميدانية.
-  iconUrl: /learn/achievements/examine-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/examine-dynamics-365-field-service.svg
 - uid: learn.wwl.generate-work-orders-dynamics-365-field-service.badge
   type: badge
   title: إنشاء أوامر العمل فِي Dynamics 365 Field Service
   summary: تقدم لك هذه الوحدة النمطية أوامر العمل وعمليات الفحص فِي Dynamics 365 Field Service.
-  iconUrl: /learn/achievements/generate-work-orders-in-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/generate-work-orders-in-dynamics-365-field-service.svg
 - uid: learn.wwl.describe-scheduling-capabilities-of-dynamics-365-field-service.badge
   type: badge
   title: وصف إمكانات الجدولة فِي Dynamics 365 Field Service
   summary: تقدم لك هذه الوحدة النمطية إمكانات الجدولة فِي Dynamics 365 Field Service.
-  iconUrl: /learn/achievements/describe-the-scheduling-capabilities-of-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/describe-the-scheduling-capabilities-of-dynamics-365-field-service.svg
 - uid: learn.wwl.examine-inventory-management-capabilities-of-dynamics-365-field-service.badge
   type: badge
   title: افحص إمكانات إدارة المخزون لـ Dynamics 365 Field Service
   summary: تقدم لك هذه الوحدة النمطية كيفية إدارة المخزون فِي Dynamics 365 Field Service.
-  iconUrl: /learn/achievements/examine-inventory-management-capabilities-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/examine-inventory-management-capabilities-dynamics-365-field-service.svg
 - uid: learn.wwl.review-asset-management-capabilities-of-dynamics-365-field-service.badge
   type: badge
   title: راجع إمكانات إدارة الأصول الخاصة بـ Dynamics 365 Field Service
   summary: تقدم لك هذه الوحدة النمطية كيفية إدارة الأصول فِي Dynamics 365 Field Service.
-  iconUrl: /learn/achievements/review-the-asset-management-capabilities-dynamics-365-field-service.svg
+  iconUrl: /training/achievements/review-the-asset-management-capabilities-dynamics-365-field-service.svg
 - uid: learn.wwl.examine-dynamics-365-project-operations.badge
   type: badge
   title: استكشاف Dynamics 365 Project Operations
   summary: تقدم لك هذه الوحدة النمطية Dynamics 365 Project Operations وكيف يدعم الخدمات المستندة إلَى المشروع.
-  iconUrl: /learn/achievements/examine-dynamics-365-project-operations.svg
+  iconUrl: /training/achievements/examine-dynamics-365-project-operations.svg
 - uid: learn.wwl.describe-sales-capabilities-of-dynamics-365-project-operations.badge
   type: badge
   title: وصف إمكانات المبيعات فِي Dynamics 365 Project Operations
   summary: تعرفك هذه الوحدة النمطية على عملية المبيعات فِي Dynamics 365 Project Operations.
-  iconUrl: /learn/achievements/describe-sales-capabilities-dynamics-365.svg
+  iconUrl: /training/achievements/describe-sales-capabilities-dynamics-365.svg
 - uid: learn.wwl.plan-projects-with-dynamics-365-project-operations.badge
   type: badge
   title: تخطيط المشروعات باستخدام Dynamics 365 Project Operations
   summary: تعرفك هذه الوحدة النمطية على إمكانات إدارة المشروع وإدارة فريق المشروع وإدارة المصروفات فِي Dynamics 365 Project Operations.
-  iconUrl: /learn/achievements/plan-projects-with-dynamics-365-project-operations.svg
+  iconUrl: /training/achievements/plan-projects-with-dynamics-365-project-operations.svg
 - uid: learn.wwl.review-resource-utilization-capabilities-of-dynamics-365-project-operations.badge
   type: badge
   title: مراجعة إمكانات استخدام الموارد فِي Dynamics 365 Project Operations
   summary: تعرفك هذه الوحدة النمطية على إمكانات جدولة موارد المشروع وإدارة موارد المشروع وإمكانات استخدام موارد Dynamics 365 Project Operations.
-  iconUrl: /learn/achievements/review-resource-utilization-capabilities-dynamics-project-operations.svg
+  iconUrl: /training/achievements/review-resource-utilization-capabilities-dynamics-project-operations.svg
 - uid: learn.wwl.introduction-configuration-dynamics-365-model-driven-apps.trophy
   type: trophy
   title: مقدمة فِي التكوين فِي التطبيقات المستندة إلَى نموذج Dynamics 365
   summary: مقدمة فِي التكوين فِي التطبيقات المستندة إلَى نموذج Dynamics 365
-  iconUrl: /learn/achievements/introduction-configuration-d365-model-driven-apps.svg
+  iconUrl: /training/achievements/introduction-configuration-d365-model-driven-apps.svg
 metadata:
-  ms.openlocfilehash: f73f0337658f81ceeaec7539f8dabc95efc7b37a
-  ms.sourcegitcommit: b731bf531992133e0e41cef91604a90d1996d822
+  ms.openlocfilehash: 98c0b66bffaa31951da59aea58293dc0efff4fb5
+  ms.sourcegitcommit: f355dc928e640144e8d0a36a2a309d187f0705c1
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9445728"
+  ms.lasthandoff: 09/23/2022
+  ms.locfileid: "9588887"

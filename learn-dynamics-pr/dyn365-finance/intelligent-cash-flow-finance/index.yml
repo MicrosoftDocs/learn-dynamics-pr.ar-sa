@@ -7,20 +7,20 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 54238a99f4b8da58c3ace929b646baf1140d717a
-  ms.sourcegitcommit: 1f21b444fac517af6257f3cc6d64bdc5f434fd58
+  ms.openlocfilehash: 23d9ec434d35a77259b2b6ab5ad95881beb2ce04
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 06/17/2022
-  ms.locfileid: "9022836"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504903"
 title: التدفق النقدي الذكي في Dynamics 365 Finance
 summary: "[!include[](../includes/module-banner.md)] \nإن التدفق النقدي الذكي عبارة عن أداة في Finance Insights تسمح لك بإنشاء تنبؤات بالتدفقات النقدية ذكية وقابلة للتحرير في Dynamics 365 Finance. باستخدام إمكانية التنبؤ بالتدفق النقدي، يمكنك مقارنة التدفقات النقدية المتوقعة بالتدفقات النقدية الفعلية لتحسين التنبؤ بمرور الوقت. \n"
-abstract: "في هذه الوحدة النمطية، ستقوم بما يلي: \n- اعرف كيف يمكن لإمكانية التنبؤ بالتدفق النقدي أن تساعد الشركات في إدارة رصيدها النقدي.\n-   تعرف على ما يدخل في التنبؤ بالتدفق النقدي في Dynamics 365 Finance.\n-   تعرّف على طرق تحسين دقة التنبؤ بالتدفق النقدي.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اعرف كيف يمكن لإمكانية التنبؤ بالتدفق النقدي أن تساعد الشركات في إدارة رصيدها النقدي.\n-   تعرف على ما يدخل في التنبؤ بالتدفق النقدي في Dynamics 365 Finance.\n-   تعرّف على طرق تحسين دقة التنبؤ بالتدفق النقدي.\n"
 prerequisites: >
   - المعرفة العامة بالوحدة النمطية "عمليات التحصيل والائتمان‬" في Dynamics 365 Finance
 
   - المعرفة العامة بـ AI Builder
-iconUrl: /learn/achievements/intelligent-cash-flow-finance.svg
+iconUrl: /training/achievements/intelligent-cash-flow-finance.svg
 levels:
 - intermediate
 roles:

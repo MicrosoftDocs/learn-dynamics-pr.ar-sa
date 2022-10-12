@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-started-sales-mobile-app.summary
+title: الملخص‬
+metadata:
+  title: الملخص‬
+  description: ملخص البدء في العمل مع تطبيق Dynamics 365 Sales للأجهزة المحمولة.
+  ms.date: 09/20/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: cfe2d0fcdce5a6e7cf9dd3e2f66b4557e15e966b
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9567454"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

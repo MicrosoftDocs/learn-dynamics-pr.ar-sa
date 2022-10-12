@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 5d907822c05fb29caa919c0d80e29a5ad8d0f289
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 75f775bb5466aabac522615fb563ef79361a2c61
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7587076"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9515226"
 ---
 يمكن دمج كلٍّ من Dynamics 365 Field Service وDynamics 365 Supply Chain Management (وحدة إدارة الأصول) في Dynamics 365 Guides
 
@@ -16,7 +16,7 @@ ms.locfileid: "7587076"
 
 ### <a name="enable-your-technicians-to-use-dynamics-365-guides-for-work-orders"></a>تمكين الفنيين من استخدام Dynamics 365 Guides لأوامر العمل
 
-1.  أنشئ دليلاً باستخدام كمبيوتر Dynamics 365 Guides وتطبيقات HoloLens. للحصول على معلومات حول إنشاء دليل، راجع [دليل المؤلف في Dynamics 365 Guides](/learn/modules/author-guides/?azure-portal=true).
+1.  أنشئ دليلاً باستخدام كمبيوتر Dynamics 365 Guides وتطبيقات HoloLens. للحصول على معلومات حول إنشاء دليل، راجع [دليل المؤلف في Dynamics 365 Guides](/training/modules/author-guides/?azure-portal=true).
     
 1.  أنشئ أمر عمل Field Service وأرفق مهمة خدمة به.
 
@@ -26,7 +26,7 @@ ms.locfileid: "7587076"
     
         [ ![لقطة شاشة لعرض مهام الخدمة مع تحديد إضافة مهمة خدمة أمر العمل الجديدة.](../media/add-new-task-ssm.png) ](../media/add-new-task-ssm.png#lightbox) 
 
-    1.  في طريقة عرض **مهمة خدمة أمر العمل الجديدة**، حدد نوع المهمة، وقدم وصفًا اختياريًا، ثم حدد دليلاً للإقران بمهمة الخدمة. حدد **حفظ** عند الانتهاء.
+    1.  في طريقة عرض **مهمة خدمة أمر العمل الجديدة**، حدد نوع المهمة، وقدم وصفاً اختيارياً، ثم حدد دليلاً للإقران بمهمة الخدمة. حدد **حفظ** عند الانتهاء.
 
 1.  تعيين أمر العمل إلى مورد (الفني). للقيام بذلك، تحتاج إلى إنشاء حجز للمورد:
 
@@ -36,7 +36,7 @@ ms.locfileid: "7587076"
  
         [![لقطة شاشة لطريقة عرض "حجز مورد جديد قابل للحجز".](../media/schedule-select-resource-ssm.png) ](../media/schedule-select-resource-ssm.png#lightbox)
 
-1.  اطلب من الفني الخاص بك تشغيل تطبيق Dynamics 365 Guides على HoloLens. بعد تسجيل الدخول، سيرى الفني علامة التبويب **Field Service**. تعرض علامة التبويب الدليل (وأي أدلة أخرى مخصصة لهم) جنبًا إلى جنب مع وصف موجز للحجز ومتى تمت جدولة هذا الطلب.
+1.  اطلب من الفني الخاص بك تشغيل تطبيق Dynamics 365 Guides على HoloLens. بعد تسجيل الدخول، سيرى الفني علامة التبويب **Field Service**. تعرض علامة التبويب الدليل (وأي أدلة أخرى مخصصة لهم) جنباً إلى جنب مع وصف موجز للحجز ومتى تمت جدولة هذا الطلب.
 
 ![لقطة شاشة لصفحة تحديد الدليل مع عرض علامة التبويب Field Service.](../media/select-guide-3-ss.png)  
 
@@ -47,9 +47,9 @@ ms.locfileid: "7587076"
 
 ## <a name="integrate-dynamics-365-supply-chain-management-asset-management-module-with-dynamics-365-guides"></a>دمج Dynamics 365 Supply Chain Management (وحدة إدارة الأصول) في Dynamics 365 Guides
 
-يمكنك أيضًا دمج وحدة إدارة الأصول في Dynamics 365 Supply Chain Management مع Dynamics 365 Guides للاستفادة من أدلة الواقع المختلط في عمليات سير عمل الصيانة والخدمة اليومية. 
+يمكنك أيضاً دمج وحدة إدارة الأصول في Dynamics 365 Supply Chain Management مع Dynamics 365 Guides للاستفادة من أدلة الواقع المختلط في عمليات سير عمل الصيانة والخدمة اليومية. 
 
-إذا كان هناك دليل مرتبط بأمر عمل إدارة الأصول، فعندما يفتح العامل قائمة فحص الصيانة لأمر العمل في تطبيق Finance and Operations ‏(Dynamics 365) للأجهزة المحمولة (1)، تُظهر تفاصيل البند أن الدليل متوفر (2). يمكن للعامل بعد ذلك العثور على الدليل وفتحه في تطبيق Dynamics 365 Guides HoloLens ‏(3).
+إذا كان هناك دليل مرتبط بأمر عمل إدارة الأصول، فعندما يفتح العامل قائمة فحص الصيانة لأمر العمل في تطبيق التمويل والعمليات ‏(Dynamics 365) للأجهزة المحمولة (1)، تُظهر تفاصيل البند أن الدليل متوفر (2). يمكن للعامل بعد ذلك العثور على الدليل وفتحه في تطبيق Dynamics 365 Guides HoloLens ‏(3).
 
 [ ![لقطات من قائمة مراجعة الصيانة وتفاصيل الخط في الدليل والدليل في تطبيق HoloLens.](../media/asset-management-integration-ssm.jpg)](../media/asset-management-integration-ssm.jpg#lightbox)
 

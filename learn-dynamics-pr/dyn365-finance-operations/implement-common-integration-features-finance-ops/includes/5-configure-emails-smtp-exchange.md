@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: be9d88aa53e9f45aa07736ec7048e30fbfb5c700
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: d1da1b60dae8db1b959529c8d428461a7446bd49
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9404205"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9578638"
 ---
 يتأثر سلوك النظام الفرعي للبريد الإلكتروني بمجموعة من تكوينات المسؤول وتكوين المستخدم وخيارات المستخدم.
 
@@ -95,7 +95,7 @@ ms.locfileid: "9404205"
 
 ## <a name="send-mail-via-smtp"></a>إرسال بريد إلكتروني عبر SMTP 
 
-يمكن أيضاً إنشاء عمليات سير عمل بريد إلكتروني يتم تمكينها من خلال إطار عمل SysEmail فِي مربع حوار بريد إلكتروني بسيط ثم إرسالها من خلال Simple Mail Transfer Protocol (**SMTP**).
+يمكن أيضًا إنشاء عمليات سير عمل بريد إلكتروني يتم تمكينها من خلال إطار عمل SysEmail فِي مربع حوار بريد إلكتروني بسيط ثم إرسالها من خلال Simple Mail Transfer Protocol (**SMTP**).
 
 1.  في تطبيقات التمويل والعمليات، انتقل إلَى صفحة **معلمات البريد الإلكتروني**.
 2.  حدد **إعدادات SMTP**.

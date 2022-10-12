@@ -3,17 +3,17 @@ uid: learn-dynamics.build-reports-dynamics-365-finance-operations.01-ssrs-report
 title: إنشاء وتعديل التقارير التي تستخدم SSRS
 metadata:
   title: إنشاء وتعديل التقارير التي تستخدم SSRS
-  description: تعرف على كيفية إنشاء وتعديل التقارير التي تستخدم SSRS في تطبيقات Finance and Operations.
+  description: تعرف على كيفية إنشاء وتعديل التقارير التي تستخدم Excel في تطبيقات التمويل والعمليات.
   ms.date: 06/15/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c48b53e273d0d6b0fc9dd67d173940a497a76e59
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 76ad258d5e1a71ca025939e64487899d146720dc
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7334252"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581868"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

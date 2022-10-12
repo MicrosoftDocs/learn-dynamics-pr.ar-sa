@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4b8c043183f53921c51760b337a781f5891490f6
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: cf7b1cb88cc2e719cfa21fb3ab4b9050659b0098
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748011"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9506664"
 title: تكامل التدبير بين Dynamics 365 Supply Chain Management وDynamics 365 Field Service
 summary: >
   [!include[](../includes/module-banner.md)]
 
   يمكن تكامل وظيفة التدبير في Dynamics 365 Supply Chain Management وDynamics 365 Field Service من خلال الكتابة المزدوجة وكذلك تمكين حالات استخدام الوظائف التبادلية من خلال تعيينات الجداول ومنطق الحلول وطرق العرض والنماذج.
 abstract: >
-  خلال هذه الوحدة النمطية، سوف تتمكن مما يلي:
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
 
   - معرفة المتطلبات الأساسية اللازمة لتكامل Supply Chain Management باستخدام Field Service.
 
@@ -38,7 +38,7 @@ prerequisites: >
   - معرفة عملية لـ Dynamics 365 Field Service.
 
   - معرفة عمليات التدبير.
-iconUrl: /learn/achievements/procurement-field-service-supply-chain-management.svg
+iconUrl: /training/achievements/procurement-field-service-supply-chain-management.svg
 levels:
 - intermediate
 roles:

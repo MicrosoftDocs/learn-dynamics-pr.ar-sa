@@ -7,19 +7,19 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4dcf9b3c691b50c35443700764a9ca89cdfcf11a
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 324c12f6fc926ef3a114304d94a1268f3e357de4
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8748436"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9504803"
 title: معالجة أوامر الشراء في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../includes/module-banner.md)]
 
 
   يمكن للمؤسسات استخدام أوامر الشراء لتسجيل معلومات حول البضائع والخدمات التي يشترونها من موردين مختلفين. تعرف على معالجة أوامر الشراء في Dynamics 365 Supply Chain Management.
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- إعداد معلمات أوامر الشراء \n- استخدام إدارة تغيير أمر الشراء.\n- إنشاء أمر شراء.\n- استخدام حالات وصول الأصناف ونظرة عامة على الوصول.\n- إنشاء مرتجعات المورد.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- إعداد معلمات أوامر الشراء \n- استخدام إدارة تغيير أمر الشراء.\n- إنشاء أمر شراء.\n- استخدام حالات وصول الأصناف ونظرة عامة على الوصول.\n- إنشاء مرتجعات المورد.\n"
 prerequisites: >
   - المعرفة العامة بـ Supply Chain Management
 
@@ -30,7 +30,7 @@ prerequisites: >
   - معرفة كيفية إنشاء مهام سير العمل والتعامل معها في Supply Chain Management
 
   - معرفة كيفية تنفيذ المعالجة الأساسية في إدارة Supply Chain Management
-iconUrl: /learn/achievements/process-purchase-orders-in-dynamics-365-for-finance-ops.svg
+iconUrl: /training/achievements/process-purchase-orders-in-dynamics-365-for-finance-ops.svg
 levels:
 - intermediate
 roles:

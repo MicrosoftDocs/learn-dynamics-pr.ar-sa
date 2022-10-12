@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: c91b728ac691ca4514157fef1065db5d68a660e4
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 6a9fe7e2fbee298200fd0b798529a49b54ac9439
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7364127"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9510214"
 ---
 تدعم Project Operations القدرة على معالجة المصروفات. تحدث معالجة المصروفات مع المشروعات أو بدونها باستخدام سير عمل قابل للتخصيص من السياسات، وفئات الحركات، والموافقات.
 
@@ -33,6 +33,6 @@ ms.locfileid: "7364127"
 
 في هذا النموذج، ستحتاج إلى إعداد وتعريف سياسات المصروفات التي يتعين على العاملين اتباعها عند إدخال وتقديم تقارير المصروفات وطلبات السفر. وستحتاج أيضاً إلى إعداد وتحديد عملية سير عمل لمراجعة طلبات السفر والموافقة عليها ووثائق المصروفات وطلبات السلفة النقدية.
 
-[![لقطة شاشة لصفحة مصروفات Finance and Operations Onsite.](../media/onsite-expenses-ss.png)](../media/onsite-expenses-ss.png#lightbox)
+[![لقطة شاشة لصفحة مصروفات التمويل والعمليات في الموقع.](../media/onsite-expenses-ss.png)](../media/onsite-expenses-ss.png#lightbox)
 
-تعرف على المزيد حول تعقب الوقت وإدارة المصروفات في [‏‫بدء استخدام إدارة العمل في Dynamics 365 Project Operations](/learn/modules/get-started-project-work-management/?azure-portal=true).
+تعرف على المزيد حول تعقب الوقت وإدارة المصروفات في [‏‫بدء استخدام إدارة العمل في Dynamics 365 Project Operations](/training/modules/get-started-project-work-management/?azure-portal=true).

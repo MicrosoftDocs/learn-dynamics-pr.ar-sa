@@ -1,26 +1,23 @@
 ---
-ms.openlocfilehash: 5739018aeedbaac8a914fa3f637c67238e613a93
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 764a620e1a79c09455125cb0636baac0989d4175
+ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7327688"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "9584059"
 ---
-يُعد [موقع Microsoft Docs](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) المصدر الرئيسي لتعليمات المنتجات لتطبيقات Finance and Operations.
+تُعد [وثائق تطبيق التمويل والعمليات](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) في Microsoft Learn هو المصدر الأساسي لمساعدة المنتج لتطبيقات التمويل والعمليات.
 
-يوفر موقع Docs ما يلي:
+يوفر Microsoft Learn:
 
 - مجموعة غنية من موضوعات تعليمات المنتجات التي يمكن تحسينها بواسطة أعضاء المجتمع داخل Microsoft وخارجها.
 - طريقة سريعة للوصول إلى أنواع مختلفة من المحتوى حول النظام، بما في ذلك الموضوعات ومقاطع الفيديو.
 
+موقع ويب Microsoft Learn عام تماماً، ولا يتطلب تسجيل الدخول البحث عنه. يمكنك استخدام محرك البحث المفضل للبحث عن المحتوى.
 
+في ما يلي مثال لمقالة Microsoft Learn حول lean manufacturing:
 
-موقع Docs عام تماماً، ولا يتطلب تسجيل الدخول البحث عنه. يمكنك استخدام محرك البحث المفضل للبحث عن المحتوى.
-
-في ما يلي مثال لصفحة على Docs حول lean manufacturing:
-
-[![لقطة شاشة لمثال على صفحة في موقع Docs.](../media/docs-site.png)](../media/docs-site.png#lightbox)
-
+[![لقطة شاشة تُظهر مثالاً عن سير عمل في مقالة Microsoft Learn.](../media/docs-site.png)](../media/docs-site.png#lightbox)
 
 إذا كان لديك اقتراح حول الوثائق، فنحن نرحب بك لتسجيل الدخول لترك تعليقات لنا. يمكنك حتى تحرير الوثائق بنفسك.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a3cf212bdc828494bc737a6e87e12a872c6b57a5
-ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+ms.openlocfilehash: 4611428fae7b2fbdedbe23bd9504798a5dbd0b1a
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "8629511"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9580208"
 ---
 تقدم هذه الوحدة سيناريوهات متطلبات البيانات التاريخية. 
 

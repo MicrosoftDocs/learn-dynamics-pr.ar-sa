@@ -3,17 +3,17 @@ uid: learn-dynamics.personalize-dynamics-365-finance-ops.2-customization-versus-
 title: فهم الاختلافات بين التخصيص وإضفاء الطابع الشخصي
 metadata:
   title: فهم الاختلافات بين التخصيص وإضفاء الطابع الشخصي
-  description: توضح هذه الوحدة الاختلافات بين التخصيص وإضفاء الطابع الشخصي في تطبيقات Finance and Operations.
+  description: تشرح هذه الوحدة الاختلافات بين التخصيص والتخصيص في تطبيقات التمويل والعمليات.
   ms.date: 05/27/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 9d17ab568fd6060e7ada4ca9b293578e5c287820
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 751985162bbc0f8fe31a4d3951daf8d1e6d15cc6
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7329269"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581669"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

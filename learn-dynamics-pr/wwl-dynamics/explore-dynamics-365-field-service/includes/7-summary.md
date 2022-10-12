@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: ea9978879e98917ce399c9267d677ea524c63ef3
-ms.sourcegitcommit: 123c88d6a708c6712b009406865104f45d2e495a
+ms.openlocfilehash: 52ac599cb2c03bb43f7186d575125daaae61aa49
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "8807923"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9509427"
 ---
 كما ترى، فإن Dynamics 365 Field Service يزود مؤسستك بالأدوات التي تحتاجها لإدارة تقديم الخدمات في الموقع لعملائك وإدارة القوى العاملة المتنقلة لديك. من خلال توفير الأدوات التي تساعدك في إنشاء أوامر العمل، وجدولة الفنيين وإيفادهم، وتنفيذ أوامر العمل، وإدارة الأصول والخدمات، والمخزون والفوترة، تساعد Dynamics 365 Field Service على ضمان حصول الفنيين لديك على كل ما يحتاجون إليه لزيادة الإصلاح لأول مرة معدلات. 
 
@@ -29,7 +29,7 @@ ms.locfileid: "8807923"
 
 ### <a name="dynamics-365-field-service"></a>Dynamics 365 Field Service
 
--  [موقع الويب](https://dynamics.microsoft.com/field-service/overview/) |[مدونة Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/) | [الوثائق](/dynamics365/field-service/user-guide) | [التعلم](/learn/browse/?products=dynamics-field-service)
+-  [موقع الويب](https://dynamics.microsoft.com/field-service/overview/) |[مدونة Dynamics 365](https://cloudblogs.microsoft.com/dynamics365/) | [الوثائق](/dynamics365/field-service/user-guide) | [التعلم](/training/browse/?products=dynamics-field-service)
 
 -  [مجتمع Dynamics 365](https://community.dynamics.com/) 
 
@@ -59,8 +59,8 @@ ms.locfileid: "8807923"
 
  ## <a name="for-further-study"></a>لمزيد من الدراسة
 
- - [إدارة أوامر العمل في Dynamics 365 Field Service](/learn/paths/manage-work-orders/)
+ - [إدارة أوامر العمل في Dynamics 365 Field Service](/training/paths/manage-work-orders/)
 
- - [عمليات الفحص في Dynamics 365 Field Service](/learn/modules/inspections/)
+ - [عمليات الفحص في Dynamics 365 Field Service](/training/modules/inspections/)
 
  

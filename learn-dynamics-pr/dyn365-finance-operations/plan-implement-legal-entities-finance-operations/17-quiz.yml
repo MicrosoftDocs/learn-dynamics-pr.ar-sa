@@ -7,18 +7,18 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: cc6f55f8cb6fd0d539f108ec1db4727ee68856a4
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 919aadb6bca9075c733c6bac82e0bcfa00bb516b
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7339417"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9577828"
 title: اختبر معلوماتك
 durationInMinutes: 5
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: اي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات Finance and Operations تتحكم في حدود الإنفاق لإحدى الشركات التجارية؟
+  - content: أي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات التمويل والعمليات تتحكم في حدود الإنفاق لإحدى الشركات التجارية؟
     choices:
     - content: التحكم الداخلي في النفقات
       isCorrect: false
@@ -32,7 +32,7 @@ quiz:
     - content: التحكم الداخلي في دفعة الموردين
       isCorrect: false
       explanation: يحدد التحكم الداخلي في دفعة الموردين سياسة تتحقق من صحة المورد الذي يُصرح لموظفي الحسابات الدائنة بإصدار مدفوعات له.
-  - content: اي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات Finance and Operations تحدد سياسات الشراء لإحدى الشركات التجارية؟
+  - content: أي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات التمويل والعمليات تحدد سياسات الشراء لإحدى الشركات التجارية؟
     choices:
     - content: التحكم الداخلي في النفقات
       isCorrect: false
@@ -46,7 +46,7 @@ quiz:
     - content: التحكم الداخلي في دفعة الموردين
       isCorrect: false
       explanation: يحدد التحكم الداخلي في دفعة الموردين سياسة تتحقق من صحة المورد الذي يُصرح لموظفي الحسابات الدائنة بإصدار مدفوعات له.
-  - content: اي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات Finance and Operations يتحقق من المورد الذي تم تخويل موظفي حسابات المقبوضات المشتريات لإنشاء دفعة له؟
+  - content: أي من أغراض التدرج الهرمي للمؤسسات التالية في تطبيقات التمويل والعمليات يتحقق من المورد الذي تم تخويل موظفي حسابات المقبوضات المشتريات لإنشاء دفعة له؟
     choices:
     - content: التحكم الداخلي في النفقات
       isCorrect: false

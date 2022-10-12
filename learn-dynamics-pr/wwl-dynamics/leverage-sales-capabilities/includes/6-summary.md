@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0bed7df3e967eb42a42ed02f83d37769c897556b
-ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+ms.openlocfilehash: b1c9bd4fc199c6a8b9cec5cac31e979304807022
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "8615058"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9510923"
 ---
 كما ترى، من خلال استكمال إدارة دورة حياة المبيعات وإمكانات التشغيل التلقائي للمبيعات في Dynamics 365 Sales مع تطبيقات مثل LinkedIn Sales Navigator وSales Insights، يمكنك إنشاء حل بيع متكيف لمساعدتك على بناء علاقات مستدامة طويلة الأمد مع عملائك. 
 
@@ -52,6 +52,6 @@ ms.locfileid: "8615058"
 
 ## <a name="for-further-study"></a>لمزيد من الدراسة
 
-- [إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales](/learn/modules/manage-relationships-social-selling-dynamics-365-sales/)
+- [إدارة العلاقات مع بيع العلاقة في Dynamics 365 Sales](/training/modules/manage-relationships-social-selling-dynamics-365-sales/)
 
-- [العمل مع Dynamics 365 Sales Insight](/learn/paths/work-sales-insights/)
+- [العمل مع Dynamics 365 Sales Insight](/training/paths/work-sales-insights/)

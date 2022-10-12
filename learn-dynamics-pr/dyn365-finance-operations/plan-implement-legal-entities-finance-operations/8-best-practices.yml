@@ -3,17 +3,17 @@ uid: learn-dynamics.plan-implement-legal-entities-in-dynamics-365-finance-ops.8-
 title: أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية
 metadata:
   title: أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية
-  description: تصف هذه الوحدة أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية في تطبيقات Finance and Operations.
+  description: تصف هذه الوحدة أفضل الممارسات لنمذجة المؤسسات والتدرجات الهرمية في تطبيقات التمويل والعمليات.
   ms.date: 05/12/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 27c12b7f4eca95283bb1e1a4d3c8087c5af36e35
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 5792f6b36259f3d593e2c89a163659c9237aac36
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7353644"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9581608"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

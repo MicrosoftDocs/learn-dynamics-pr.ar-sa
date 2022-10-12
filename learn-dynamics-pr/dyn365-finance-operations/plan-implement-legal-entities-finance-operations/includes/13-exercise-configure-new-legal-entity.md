@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: a23c4f9f724a508008ca578ff83f2f21bb9b6422b7b29375a982716df4b4a271
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: b2e6555d62fcf0ae95fc4cf220dbb3c0f2f8db42
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7130519"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574678"
 ---
 ## <a name="scenario"></a>السيناريو
 الكيان القانوني هو مؤسسة يتم تعريفها من خلال التسجيل مع سلطة قانونية. يمكن للكيانات القانونية إبرام عقود ويُطلب منها إعداد بيانات تقدم تقارير عن أدائها. 
 
-ستقوم بإنشاء كيان قانوني في تطبيقات Finance and Operations.
+ستنشئ كيانًا قانونيًا في تطبيقات التمويل والعمليات.
 
 
 1.  انتقل إلى **إدارة المؤسسة** > **المؤسسات** > **الكيانات القانونية**.

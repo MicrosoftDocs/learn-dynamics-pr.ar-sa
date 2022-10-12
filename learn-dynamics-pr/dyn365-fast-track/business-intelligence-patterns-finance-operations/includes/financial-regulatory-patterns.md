@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 716fc608861a90a01ab125a992413337876d7968
-ms.sourcegitcommit: 666957722ed442bf7d691d20721f601186860129
+ms.openlocfilehash: 9ca2321d61bb4b0ab421a6274fc16f8a32d525ce
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "9150800"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9574578"
 ---
 تصف هذه الوحدة سيناريوهات إعداد التقارير المالية والتنظيمية.
 
@@ -14,7 +14,7 @@ ms.locfileid: "9150800"
 
 ### <a name="pattern---use-the-financial-reporting-feature-to-generate-financial-reporting"></a>النمط - استخدم ميزة إعداد التقارير المالية لإنشاء التقارير المالية 
 
-[يتم تضمين تقارير Financial Reporting المالية](/dynamics365/fin-ops-core/dev-itpro/analytics/financial-reporting-intro/?azure-portal=true)، المعروفة سابقاً باسم "Management Reporter"، ضمن تطبيقات التمويل والعمليات. يمكنك استخدام هذه الأداة لتصميم التقارير المالية وإنشائها. لبدء إعداد التقارير المالية، توفر Microsoft العديد من التقارير المالية الافتراضية، والتي يمكنك تعديلها لتلائم احتياجات العمل لأي عميل.
+تم تضمين [Financial Reporting](/dynamics365/fin-ops-core/dev-itpro/analytics/financial-reporting-intro/?azure-portal=true)، المعروف سابقاً باسم Management Reporter، في تطبيقات التمويل والعمليات. يمكنك استخدام هذه الأداة لتصميم التقارير المالية وإنشائها. لبدء إعداد التقارير المالية، توفر Microsoft العديد من التقارير المالية الافتراضية، والتي يمكنك تعديلها لتلائم احتياجات العمل لأي عميل.
 
 ### <a name="anti-patterns"></a>الأنماط المضادة
 

@@ -1,15 +1,15 @@
 ---
-ms.openlocfilehash: 55ea1ab3b5e3534ee26bbb16eb819f60b5d99ad88bc763c101654bf699fe7a69
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: ad5ebdd28f8778870d0b9f05d7a66aab92b672c6
+ms.sourcegitcommit: 43cf7aeea286fbe9cf6210881c11bfacecdf4d9a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7109678"
+ms.lasthandoff: 09/19/2022
+ms.locfileid: "9536579"
 ---
 توضح لك الخطوات الآتية كيفية استخدام سجل الفواتير لتسجيل الفواتير ثم استخدام دفتر يومية الموافقة لتحديث حسابات المصروفات.
 
 ## <a name="before-you-begin"></a>قبل البدء ##
-لتحقيق أقصى استفادة من هذا التمرين والتمارين الأخرى الواردة في هذه الوحدة، نوصي بأن يكون لديك بيانات النماذج القياسية المتوفرة في Dynamics 365 Finance التي تم تثبيتها عبر Lifecycle services.
+للحصول على أقصى استفادة من هذا التدريب وغيره من التدريبات الأخرى في هذه الوحدة النمطية، نوصيك بأن يكون متوفر لديك بيانات العينة القياسية المتوفرة في Dynamics 365 Finance والتي يتم تثبيتها باستخدام Lifecycle Services.
  
 
 ## <a name="create-and-post-an-invoice"></a>إنشاء فاتورة وترحيلها 

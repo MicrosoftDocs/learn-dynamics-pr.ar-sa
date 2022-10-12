@@ -8,12 +8,12 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.service: dynamics-365-finance
-  ms.openlocfilehash: 8bba50af158f56191c7631ddd74e9694315ba13f
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: b3cae7165dde0584c18c2bec64d4e92c84b941d5
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751503"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9507493"
 title: استخدام إدارة المستودعات في التصنيع في Dynamics 365 Supply Chain Management
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -28,7 +28,7 @@ prerequisites: >
   - فهم كيفية التعامل مع إدارة المخزون.
 
   - فهم كيفية التعامل مع إدارة المستودعات.
-iconUrl: /learn/achievements/use-warehouse-manufacturing-dyn365-fo.svg
+iconUrl: /training/achievements/use-warehouse-manufacturing-dyn365-fo.svg
 levels:
 - intermediate
 roles:

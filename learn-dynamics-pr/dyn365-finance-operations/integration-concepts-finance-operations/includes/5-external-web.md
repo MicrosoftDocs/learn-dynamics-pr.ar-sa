@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: d5fc09723b1ef877af84e7de75d77e25badf1562eb5a3e712aae94a4204a4bdb
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 95933ca53e3305ad725f7919e6755b9a6a6f7b31
+ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7120393"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "9582878"
 ---
-بإضافة مكتبات الفئات الجديدة لتطبيقات Finance and Operations، يمكنك استهلاك خدمات الويب.
+بإضافة مكتبات الفئات الجديدة لتطبيقات التمويل والعمليات، يمكنك استهلاك خدمات الويب.
 
 توضح لك الخطوات التالية كيفية استهلاك خدمة `StockQuote` خارجية باستخدام X++‎.
 

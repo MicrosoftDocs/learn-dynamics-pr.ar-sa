@@ -3,17 +3,17 @@ uid: learn-dynamics.work-with-analytics-reporting-in-dynamics-365-finance-ops.2-
 title: فهم الأنواع المختلفة للتقارير والاستعلامات
 metadata:
   title: فهم الأنواع المختلفة للتقارير والاستعلامات
-  description: توضح هذه الوحدة الأنواع المختلفة للتقارير والاستعلامات في تطبيقات التمويل والعمليات.
+  description: تصف هذه الوحدة الأنواع المختلفة من التقارير والاستفسارات في تطبيقات التمويل والعمليات.
   ms.date: 08/10/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: c196e6f7c8b66071dc191e17084324515eff1fa8
-  ms.sourcegitcommit: 9dbaf1f740d523335d1acbad28c8488652a81ff0
+  ms.openlocfilehash: 839a09c2f4066bdd3b07a5177c179da9ee930f07
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/10/2022
-  ms.locfileid: "9247048"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9578054"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

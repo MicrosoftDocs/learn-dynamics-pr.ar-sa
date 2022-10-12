@@ -7,12 +7,12 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 696ca2ca4be5d8972692e1aad0eb36e689be209a
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 64cb2c4cef8695e062c1dd40917632d36267d9c6
+  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7326508"
+  ms.lasthandoff: 09/22/2022
+  ms.locfileid: "9574248"
 title: اختبر معلوماتك
 durationInMinutes: 10
 quiz:
@@ -36,7 +36,7 @@ quiz:
       explanation: يحدث ترحيل البيانات عندما يمكنك ترحيل بيانات المرجع والرسالة والمستندات من الأنظمة القديمة أو الخارجية.
     - content: إعداد تكوينات القياس ونسخها
       isCorrect: false
-      explanation: يمكن استخدام إعداد التكوينات ونسخها لنسخ التكوينات بين الشركات أو البيئات وتكوين العمليات أو الوحدات النمطية باستخدام بيئة Lifecycle Services ‏(LCS).
+      explanation: يمكن استخدام إعداد التكوينات ونسخها لنسخ التكوينات بين الشركات أو البيئات وتكوين العمليات أو الوحدات النمطية باستخدام بيئة Lifecycle Services.
     - content: التكامل
       isCorrect: true
       explanation: يمكن استخدام التكامل عند الحاجة إلى التكامل المستند إلى الخدمة في الوقت الحقيقي، أو عندما تحتاج إلى تكامل غير متزامن.
@@ -65,14 +65,14 @@ quiz:
     - content: حزم البيانات
       isCorrect: false
       explanation: حزمة البيانات هي ملف مضغوط واحد يحتوي على بيان مشروع البيانات، واختيارياً، ملفات البيانات المطلوبة لتشغيل مشروع البيانات.
-  - content: تحتاج إلى السماح بالوصول إلى سجلات العميل الخاصة بك خارج تطبيقات Finance and Operations ليتم عرضها في تطبيق Power. أي مما يلي يجب إعداده لإنجاز هذا العمل؟
+  - content: تحتاج إلى السماح بالوصول إلى سجلات العميل الخاصة بك خارج تطبيقات التمويل والعمليات ليتم عرضها في Power App. أي مما يلي يجب إعداده لإنجاز هذا العمل؟
     choices:
     - content: بيانات الوظيفة
       isCorrect: false
-      explanation: تسمح وظيفة البيانات الآن بالوصول خارج Finance and Operations تطبيقات.
+      explanation: تسمح وظيفة البيانات الآن بالوصول خارج تطبيقات التمويل والعمليات.
     - content: مشروع البيانات
       isCorrect: false
-      explanation: يسمح مشروع البيانات الآن بالوصول خارج تطبيقات Finance and Operations.
-    - content: كيان البيانات
+      explanation: يسمح مشروع البيانات الآن بالوصول خارج تطبيقات التمويل والعمليات.
+    - content: كيان البَيانات
       isCorrect: true
       explanation: يسمح كيان البيانات بعرض البيانات خارج Dynamics 365. بدون كيان بيانات، لا يمكن الوصول إلى البيانات في تطبيق Power.

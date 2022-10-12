@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 74dd0920147497fcf0f99508fde1108bbb866020
-ms.sourcegitcommit: 18b7d9242ff767b37c2454b338d659b33ae45c03
+ms.openlocfilehash: d453554f4270c77aa21444d65521fb877b6ddf7e
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "8614941"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9505463"
 ---
 كما ترى، يوفر لك Dynamics 365 Marketing مجموعة كبيرة من الأدوات للمساعدة في التحكم في إستراتيجية تسويق العملاء بالكامل لمؤسستك وإدارتها. تساعدك أدوات إنشاء قوائم العملاء المتوقعين و‏‫مجموع النقاط على تحديد العملاء المحتملين واستهدافهم بشكل فعال كما تساعدك على تحويلهم إلى علاقات أعمال. تساعدك الأدوات المتكاملة في إنشاء محتوى تسويقي بسرعة وتحديد رحلات العميل وإدارة الأحداث. 
 
@@ -59,4 +59,4 @@ ms.locfileid: "8614941"
 
 ## <a name="for-further-study"></a>لمزيد من الدراسة
 
-- [العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing](/learn/paths/work-core-features-marketing/)
+- [العمل باستخدام الميزات الأساسية في Dynamics 365 Marketing](/training/paths/work-core-features-marketing/)

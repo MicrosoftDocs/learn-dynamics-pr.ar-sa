@@ -9,12 +9,12 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.service: dynamics365-business-central
-  ms.openlocfilehash: 5ceec3506782e9a1d98b965469541f2e9103b1e9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 369e0b72322f2aa5246b6ef04c5e26e696311edd
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8751557"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9508637"
 title: استخدام دفاتر اليومية في Microsoft Dynamics 365 Business Central
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -24,7 +24,7 @@ prerequisites: >
   - المعرفة الأساسية بكيفية التنقل في Business Central
 
   - فهم مفاهيم محاسبة عامة فيما يتعلق بإدارة دفتر الأستاذ العام ومخطط الحسابات
-iconUrl: /learn/achievements/use-journals-dynamics-365-business-central.svg
+iconUrl: /training/achievements/use-journals-dynamics-365-business-central.svg
 levels:
 - intermediate
 roles:

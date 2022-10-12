@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 78438b85f36e55dcec97ae0ddd90fc869e2270da
-ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+ms.openlocfilehash: 0bf4a03264bd0a395968ed38ad693896a4a1cf2c
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7363395"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9514620"
 ---
 تمت مراجعة أربع خطوات أساسية في هذا السيناريو استنادا إلى هذه الصورة.
  
@@ -59,4 +59,4 @@ ms.locfileid: "7363395"
 بعد ذلك، تقوم آنيا، مسؤولة الدفاتر، باستلام الفاتورة لأمر الشراء ومعالجتها. وفي وقت لاحق من الأسبوع، تقوم أبرل، منسقة الحسابات المدينة، بإنشاء مقترح دفع وطباعة شيك لـ Trey Electronics.
 
 > [!NOTE] 
-> لا توفر هذه الوحدة معرفة دقيقة لعملية الاستلام والفوترة؛ وتتم فقط مناقشة العمليات الإجمالية من التدبير إلى الشراء. لمزيد من المعلومات، راجع [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/learn/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true)و[تنفيذ الإجراءات اليومية للحسابات المدينة في Dynamics 365 Finance .](/learn/modules/accounts-payable-daily-procedures-dyn365-finance/?azure-portal=true)
+> لا توفر هذه الوحدة معرفة دقيقة لعملية الاستلام والفوترة؛ وتتم فقط مناقشة العمليات الإجمالية من التدبير إلى الشراء. لمزيد من المعلومات، راجع [تكوين إدارة المخزون والتعامل معها في Dynamics 365 Supply Chain Management](/training/modules/configure-inventory-management-dyn365-supply-chain-mgmt/?azure-portal=true) و[تنفيذ الإجراءات اليومية للحسابات الدائنة في Dynamics 365 Finance.](/training/modules/accounts-payable-daily-procedures-dyn365-finance/?azure-portal=true)

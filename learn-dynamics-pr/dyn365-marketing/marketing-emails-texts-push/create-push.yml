@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.marketing-emails-texts-push.create-push
+title: إنشاء الإعلامات المنبثقة
+metadata:
+  title: إنشاء الإعلامات المنبثقة
+  description: تعلّم كيفية تصميم الإعلامات المنبثقة وتخصيصها وكيفية تحرير المباشرة منها.
+  ms.date: 09/21/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 13dc2fcfd7fcec0db032b3860fabdbee93bc5842
+  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/21/2022
+  ms.locfileid: "9567314"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/create-push.md)]

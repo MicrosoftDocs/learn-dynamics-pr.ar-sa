@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: 90319dc6e695cdce53990a8a06bdbc3652bb6bd8
-ms.sourcegitcommit: 24d9968aa50d817923b7ffaef674b71d2c06238a
+ms.openlocfilehash: 24cc9fc65002e280912e30d0cc44d2af149b284a
+ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2022
-ms.locfileid: "9021749"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9502645"
 ---
 في Dynamics 365 Finance، الشركات هي النوع الوحيد من الكيانات القانونية التي يمكنك إنشاؤها، ويرتبط كل كيان قانوني بمعرّف الشركة. يعتبر إنشاء كيان قانوني هو الخطوة الأولى للتنفيذ.
 
 بواسطة Dynamics 365 Finance، يمكنك بسهولة معالجة متطلبات تقارير الضرائب الإقليمية باستخدام مجموعات ضريبة المبيعات ومجموعة ضريبة مبيعات الصنف ورموز تقارير ضريبة المبيعات.
 
-يمكنك أيضًا الاستفادة من إمكانات محاسبة التكاليف وتتبع تكاليفك من خلال أنواع التكلفة.
+يمكنك أيضاً الاستفادة من إمكانات محاسبة التكاليف وتتبع تكاليفك من خلال أنواع التكلفة.
 
-الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادرًا على:
+الآن بعد أن راجعت هذه الوحدة، يجب أن تكون قادراً على:
 
 - وصف استكشاف إمكانات Finance وميزاته>
 
@@ -40,40 +40,40 @@ ms.locfileid: "9021749"
 
 لمزيد من الدراسة:
 
-- [نظرة عامة على Dynamics 365 Finance](/learn/modules/get-started-financial-management-dyn365-finance/3-overview)
+- [نظرة عامة على Dynamics 365 Finance](/training/modules/get-started-financial-management-dyn365-finance/3-overview)
 
-- [مزايا Dynamics 365 Finance](/learn/modules/get-started-financial-management-dyn365-finance/2-benefits)
+- [مزايا Dynamics 365 Finance](/training/modules/get-started-financial-management-dyn365-finance/2-benefits)
 
-- [إنشاء كيان قانوني](/learn/modules/plan-implement-legal-entities-finance-operations/2-create-legal-entity)
+- [إنشاء كيان قانوني](/training/modules/plan-implement-legal-entities-finance-operations/2-create-legal-entity)
 
-- [دفتر الأستاذ العام](/learn/modules/get-started-financial-management-dyn365-finance/4-general-ledger)
+- [دفتر الأستاذ العام](/training/modules/get-started-financial-management-dyn365-finance/4-general-ledger)
 
-- [تحديد ما إذا كنت تريد اتخاذ نموذج للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل](/learn/modules/plan-implement-legal-entities-finance-operations/6-legal-entities-vs-oper-units)
+- [تحديد ما إذا كنت تريد اتخاذ نموذج للمؤسسات الداخلية ككيانات قانونية أو وحدات تشغيل](/training/modules/plan-implement-legal-entities-finance-operations/6-legal-entities-vs-oper-units)
 
-- [معالجة متطلبات تقارير الضرائب الإقليمية](/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/3-handle-regional-tax-reporting-requirements)
+- [معالجة متطلبات تقارير الضرائب الإقليمية](/training/modules/explore-microsoft-dynamics-365-finance-core-capabilities/3-handle-regional-tax-reporting-requirements)
 
-- [بدء استخدام الضريبة](/learn/modules/get-started-financial-management-dyn365-finance/6-tax)
+- [بدء استخدام الضريبة](/training/modules/get-started-financial-management-dyn365-finance/6-tax)
 
-- [مقدمة حول تكوين الضريبة](/learn/modules/configure-tax-module-dyn365-finance/1-introduction)
+- [مقدمة حول تكوين الضريبة](/training/modules/configure-tax-module-dyn365-finance/1-introduction)
 
-- [تكوين هيئات ضريبة المبيعات](/learn/modules/configure-tax-module-dyn365-finance/3-authorities)
+- [تكوين هيئات ضريبة المبيعات](/training/modules/configure-tax-module-dyn365-finance/3-authorities)
 
-- [مقدمة عن محاسبة التكاليف](/learn/modules/get-started-cost-accounting-dyn365-finance/1-introduction)
+- [مقدمة عن محاسبة التكاليف](/training/modules/get-started-cost-accounting-dyn365-finance/1-introduction)
 
-- [تكوين مساحة عمل التحكم في التكلفة](/learn/modules/get-started-cost-accounting-dyn365-finance/2-configure-cost-control-workspace)
+- [تكوين مساحة عمل التحكم في التكلفة](/training/modules/get-started-cost-accounting-dyn365-finance/2-configure-cost-control-workspace)
 
-- [العمل باستخدام معالج الشروع في محاسبة التكاليف](/learn/modules/get-started-cost-accounting-dyn365-finance/3-work-cost-accounting-wizard)
+- [العمل باستخدام معالج الشروع في محاسبة التكاليف](/training/modules/get-started-cost-accounting-dyn365-finance/3-work-cost-accounting-wizard)
 
-- [استكشاف مفاهيم محاسبة التكاليف](/learn/modules/explore-microsoft-dynamics-365-finance-core-capabilities/4-explore-cost-accounting-concepts)
+- [استكشاف مفاهيم محاسبة التكاليف](/training/modules/explore-microsoft-dynamics-365-finance-core-capabilities/4-explore-cost-accounting-concepts)
 
-- [محاسبة التكاليف](/learn/modules/get-started-financial-management-dyn365-finance/12-cost-accounting) 
+- [محاسبة التكاليف](/training/modules/get-started-financial-management-dyn365-finance/12-cost-accounting) 
 
-- [فهم الأنواع المختلفة من دفاتر اليومية وإعدادها](/learn/modules/configure-ledgers-journals-dyn365-finance/2-types)
+- [فهم الأنواع المختلفة من دفاتر اليومية وإعدادها](/training/modules/configure-ledgers-journals-dyn365-finance/2-types)
 
-- [معالجة إدخال دفتر اليومية](/learn/modules/general-ledger-daily-procedures-dyn365-finance/3-process-journal-entry)
+- [معالجة إدخال دفتر اليومية](/training/modules/general-ledger-daily-procedures-dyn365-finance/3-process-journal-entry)
 
-- [تكوين دفاتر اليومية واستخدامها](/learn/modules/configure-ledgers-journals-dyn365-finance/4-journals)
+- [تكوين دفاتر اليومية واستخدامها](/training/modules/configure-ledgers-journals-dyn365-finance/4-journals)
 
-- [تكوين مجموعات ضريبة المبيعات ومجموعات ضريبة مبيعات الأصناف](/learn/modules/configure-tax-module-dyn365-finance/6-tax-groups-item-sales-tax) 
+- [تكوين مجموعات ضريبة المبيعات ومجموعات ضريبة مبيعات الأصناف](/training/modules/configure-tax-module-dyn365-finance/6-tax-groups-item-sales-tax) 
 
-- [إعداد أكواد تقارير ضريبة المبيعات](/learn/modules/configure-tax-module-dyn365-finance/10-reporting-codes) 
+- [إعداد أكواد تقارير ضريبة المبيعات](/training/modules/configure-tax-module-dyn365-finance/10-reporting-codes) 

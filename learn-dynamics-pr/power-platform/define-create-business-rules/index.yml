@@ -9,12 +9,12 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: ad20b46f6a7d589eef82b85eaf2ed20b5e248015
-  ms.sourcegitcommit: a3c50c90e8fa530b2bd45a8d504db56bc979a6cb
+  ms.openlocfilehash: f5abf3b1a83360fa792b7cc01f9d57ad9c5f4d10
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/29/2022
-  ms.locfileid: "9363489"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9506544"
 title: تعريف قواعد العمل وإنشاؤها في Dataverse
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -28,7 +28,7 @@ abstract: >
 
   - إنشاء قواعد العمل وإدارتها في Dataverse.
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج
-iconUrl: /learn/achievements/define-create-business-rules.svg
+iconUrl: /training/achievements/define-create-business-rules.svg
 levels:
 - intermediate
 roles:

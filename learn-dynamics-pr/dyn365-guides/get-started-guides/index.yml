@@ -8,18 +8,18 @@ metadata:
   ms.author: cstorega
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: c66fbd89b3b731a7dea8116a4ac96a03428da3f9
-  ms.sourcegitcommit: 64e86f514eec48c83b66bf0aff95b90d7c4cf4ee
+  ms.openlocfilehash: 949fa38037e2cc6034c430eebac7309e22a1063b
+  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 05/13/2022
-  ms.locfileid: "8750934"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "9517921"
 title: الشروع في العمل باستخدام Dynamics 365 Guides
 summary: "[!include[](../includes/module-banner.md)] \nإن Microsoft Dynamics 365 Guides هو تطبيق الواقع المختلط الذي يعرض تعليمات ثلاثية الأبعاد خطوة بخطوة في مكان حدوث العمل، مما يمكّن الموظفين من تعلم المهام المعقدة وتنفيذها. استخدم Dynamics 365 Guides لتقليل الأخطاء وتوحيد المهارات وسد الفجوات المعرفية وتحسين التدريب والعمليات الجارية.\n"
-abstract: "خلال هذه الوحدة النمطية، سوف تتمكن مما يلي: \n- فهم إمكانيات Dynamics 365 Guides\n- تعرف على الأدوار المتنوعة التي تستخدم Dynamics 365 Guides\n- تعرف على كيفية تكامل Dynamics 365 Guides مع تطبيقات Dynamics 365 الأخرى\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فهم إمكانيات Dynamics 365 Guides\n- تعرف على الأدوار المتنوعة التي تستخدم Dynamics 365 Guides\n- تعرف على كيفية تكامل Dynamics 365 Guides مع تطبيقات Dynamics 365 الأخرى\n"
 prerequisites: >
   - بلا
-iconUrl: /learn/achievements/get-started-guides.svg
+iconUrl: /training/achievements/get-started-guides.svg
 levels:
 - beginner
 roles:
