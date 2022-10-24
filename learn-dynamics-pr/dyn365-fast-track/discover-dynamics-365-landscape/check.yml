@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.discover-dynamics-365-landscape.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1aef2f9f6ae5b376c63610c7f9a9cb526921adbc
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612498"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما المقصود بالتوزيع المختلط؟
+    choices:
+    - content: البنية التحتية والبيانات كلها مستضافة في السحابة
+      isCorrect: false
+      explanation: غير صحيح. هذا الخيار هو توزيع عبر الإنترنت أو عَلى السحابة وهو جزء فقط من التوزيع المختلط.
+    - content: تتم استضافة البنية التحتية والبيانات عَلى الخادم المحلي الخاص بك
+      isCorrect: false
+      explanation: غير صحيح. يعد هذا الخيار عملية توزيع محلية وهو جزء فقط من عملية توزيع مختلطة.
+    - content: بعض تطبيقات خط الأعمال الخاصة بك متصلة بالإنترنت بينما يكون بعضها محليًا
+      isCorrect: true
+      explanation: صحيح. يتم التوزيع المختلط عندما تكون بعض تطبيقات الأعمال الخاصة بك متصلة بالإنترنت، بينما يكون بعضها محليًا. يتكامل Dynamics 365 مع العديد من الأنظمة المختلفة ويمكن أن يلعب دوراً في نموذج النشر المختلط.
+  - content: ما تطبيق Dynamics 365 الذي يسمح لك بتعزيز علاقات العملاء الدائمة من خلال الأدوات الذكية؟
+    choices:
+    - content: Dynamics 365 Sales
+      isCorrect: false
+      explanation: غير صحيح. تساعد إمكانيات Dynamics 365 Sales المؤسسات عَلى تسريع الإيرادات من خلال حل مشاركة مبيعات تعاوني قائم عَلى الرؤى.
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: false
+      explanation: غير صحيح. تساعد إمكانيات Dynamics 365 Supply Chain Management في التخفيف من مشكلات سلسلة التوريد بإمكانيات قوية، مثل الرؤية في الوقت الفعلي والتخطيط السريع واستمرارية الأعمال.
+    - content: Dynamics 365 Commerce
+      isCorrect: true
+      explanation: صحيح. تعزز إمكانيات Dynamics 365 Commerce علاقات دائمة من خلال أدوات ذكية تعزز علامتك التجارية.
+  - content: ما أنواع التكامل المخصص الثلاثة الأكثر شيوعًا لـ Dynamics 365؟
+    choices:
+    - content: سحابة، مختلطة، متصلة
+      isCorrect: false
+      explanation: غير صحيح. هذه الخيارات هي أنواع التوزيع وليست عمليات تكامل.
+    - content: CRM، ERP، ETL
+      isCorrect: false
+      explanation: غير صحيح. هذه الخيارات هي أنواع من الحلول وليست تكاملات.
+    - content: العملية وواجهة المستخدم والبيانات
+      isCorrect: true
+      explanation: صحيح. هذه الخيارات هي أكثر أنواع التكامل شيوعًا لـ Dynamics 365.

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.test-dynamics-365-implementation.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: fac19e0eed99165afcb18fdf4b281833a5457111
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9619384"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: من يقوم بالاختبار في اختبار قبول المستخدم؟
+    choices:
+    - content: Microsoft
+      isCorrect: false
+      explanation: غير صحيح. تقوم Microsoft بإجراء اختبار قابلية التوسع.
+    - content: مهندسون معماريون للحلول
+      isCorrect: false
+      explanation: غير صحيح. يجب أن يشارك مهندسو الحلول في تخطيط الاختبار.
+    - content: مستشارون وظيفيون
+      isCorrect: false
+      explanation: غير صحيح. يجب أن يقوم المستشارون الوظيفيون باختبار الوحدة لأنهم يقومون بإنشاء العناصر.
+    - content: المستخدمون
+      isCorrect: true
+      explanation: صحيح. يتم إجراء اختبار قبول المستخدم من قِبل المستخدمين.
+  - content: أيّ من الاختيارات التالية هو اختبار وظيفي؟
+    choices:
+    - content: اختبار الاختراق
+      isCorrect: false
+      explanation: غير صحيح. اختبار الاختراق هو اختبار غير وظيفي.
+    - content: اختبار الأداء
+      isCorrect: false
+      explanation: غير صحيح. اختبار الأداء هو اختبار غير وظيفي.
+    - content: اختبار النظام
+      isCorrect: true
+      explanation: صحيح. اختبار النظام هو اختبار وظيفي يركز عَلى الاختبار الشامل للعمليات المتعددة.
+  - content: ما تقنية الاختبار الجيدة لرصد المشكلات البسيطة التي يتم تقديمها بعد اكتمال الاختبار العام طوال فترة المشروع؟
+    choices:
+    - content: اختبار الأداء
+      isCorrect: false
+      explanation: غير صحيح. في حين أنه قد يحدد مشكلات الأداء، فإن اختبار الأداء لن يكون جيدًا مثل استخدام الاختبار الآلي القابل للتكرار.
+    - content: الاختبار الآلي
+      isCorrect: true
+      explanation: صحيح. يمكن أن يؤدي تنفيذ بعض الاختبارات الآلية المتكررة إلَى اكتشاف المشكلات التي تحدث بسبب التغييرات في جميع أنحاء المشروع.
+    - content: اختبار الوصول
+      isCorrect: false
+      explanation: غير صحيح. على الرغم من أن اختبار إمكانية الوصول قد يحدد مشكلات إمكانية الوصول، إلا أنه لن يكون جيدًا مثل استخدام الاختبار الآلي القابل للتكرار.

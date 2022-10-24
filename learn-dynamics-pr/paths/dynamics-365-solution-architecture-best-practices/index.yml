@@ -1,0 +1,47 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.dynamics-365-solution-architecture-best-practices
+metadata:
+  title: أفضل ممارسات بنية حلول Dynamics 365
+  description: تعرف على أفضل ممارسات بنية حلول Dynamics 365.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: dynamics-365-cross-app
+  ms.openlocfilehash: 4025a2df57a2251e7fc3528fdcc953472981614c
+  ms.sourcegitcommit: 7022b43f41ad8561919621fe1947178d145172dc
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 09/30/2022
+  ms.locfileid: "9601490"
+title: أفضل ممارسات بنية حلول Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  تم تصميم FastTrack for Dynamics 365 لمساعدة العملاء والشركاء على تحقيق نشر ناجح لحلول Dynamics 365. شارك مهندسو حلول FastTrack في أكثر من 2000 عملية تنفيذ ناجحة لتطبيقات Dynamics 365. يتم تجميع الدروس المستفادة من هذه المشاركات لتقديم إرشادات قائمة على السيناريوهات مع أنماط (أفضل الممارسات أو النهج لحل مشكلة) وأنماط مضادة (ممارسات أو نهج سيئة أو سوء فهم) تغطي مجالات مختلفة من الحل.
+
+
+  يساعد مسار التعليم هذا مهندسي حلول العملاء/الشركاء على تبني أفضل الممارسات وتجنب المزالق الشائعة أثناء التنفيذ. على الرغم من أن السيناريوهات غير شاملة إلا أن هذه الوحدات ستمكن مهندس الحلول من التعلم من خبرات عمليات التنفيذ الأخرى
+prerequisites: "- المعرفة الواسعة بالمستشار الوظيفي والمطور.\n- تكون الخبرة السابقة كمهندس حلول لمشروع سابق مفيدة.\n- [استخدام حلول Success by Design for Dynamics 365](/training/paths/use-success-design//?azure-portal=true) \n"
+iconUrl: /training/achievements/dynamics-365-solution-architecture-best-practices.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics-365
+- dynamics-finance-operations
+- dynamics-finance
+- dynamics-scm
+- dynamics-commerce
+- dynamics-human-resources
+- dynamics-project-operations
+subjects:
+- architecture
+- business-applications
+modules:
+- learn-dynamics.business-intelligence-patterns-finance-operations
+- learn-dynamics.solution-architecture-data-migration
+- learn-dynamics.solution-architecture-performance
+trophy:
+  uid: learn-dynamics.dynamics-365-solution-architecture-best-practices.trophy

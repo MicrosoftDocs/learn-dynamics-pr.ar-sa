@@ -1,19 +1,19 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-help-with-f-and-o.3-microsoft-docs-site
-title: موقع Microsoft Docs
+title: موقع Microsoft Learn
 metadata:
-  title: موقع Microsoft Docs
-  description: تتناول الوحدة Microsoft Learn وكيفية الوصول إليها.
+  title: موقع Microsoft Learn
+  description: تتناول هذه الوحدة Microsoft Learn وكيفية الوصول إليه.
   ms.date: 02/11/2019
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 30ed14daea0728dba65774f726050cd84cb94fda
-  ms.sourcegitcommit: e406e95a6e3d1728c2deff3c1c56c78f45e93c34
+  ms.openlocfilehash: 44577a859b46945b34203dbbcef26444395c40f7
+  ms.sourcegitcommit: 5a5f934bb5589a60351e42ecabca55cc0c536e61
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/20/2022
-  ms.locfileid: "9551671"
+  ms.lasthandoff: 09/27/2022
+  ms.locfileid: "9595098"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

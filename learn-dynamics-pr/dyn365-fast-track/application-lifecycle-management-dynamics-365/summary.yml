@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.application-lifecycle-management-dynamics-365.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: لقد تعرفت على إدارة دورة حياة التطبيق (ALM) ومشاركة الفريق فيها.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ffb9abb9d86eecf12752555b66338715aa354c8c
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623542"
+durationInMinutes: 4
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

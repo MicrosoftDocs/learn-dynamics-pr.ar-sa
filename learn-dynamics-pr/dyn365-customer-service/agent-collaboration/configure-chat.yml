@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.agent-collaboration.configure-chat
-title: تكوين محادثة Microsoft Teams في Customer Service
+title: إعداد دردشة Microsoft Teams في Customer Service
 metadata:
-  title: تكوين محادثة Microsoft Teams في Customer Service
-  description: تعرف على طريقة تكوين محادثة Microsoft Teams.
+  title: إعداد دردشة Microsoft Teams في Customer Service
+  description: تعرف على كيفية إعداد دردشة Microsoft Teams في Dynamics 365 Customer Service.
   ms.date: 09/21/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: aeca45527a8522f90a3649123bd551a8abae1df3
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: 5d96dd335e854c9198bec48d21da2ae94052912b
+  ms.sourcegitcommit: 118a1ed3f7123032f53ea321e1b39d59e04cad04
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567182"
+  ms.lasthandoff: 10/06/2022
+  ms.locfileid: "9633280"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/configure-chat.md)]"

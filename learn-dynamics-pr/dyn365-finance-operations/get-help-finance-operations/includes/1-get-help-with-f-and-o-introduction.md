@@ -1,11 +1,11 @@
 ---
-ms.openlocfilehash: 1a24916b6f5f1f9837842e5c75f622f93995ace1
-ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+ms.openlocfilehash: e20e0de468b7a980f6587baef245e430ade7720f
+ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/22/2022
-ms.locfileid: "9580498"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "9639380"
 ---
-التعرف على كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات، بالإضافة إلى القانون العام لحماية البيانات (GDPR). 
+تعرف على كيفية الحصول على المساعدة واعرف المزيد حول تطبيقات التمويل والعمليات، بالإضافة إلى حماية الخصوصية والبيانات الشخصية لعملائك.
 
-يمكنك الحصول علي تدريب وتعليمات للحصول على تطبيقات التمويل والعمليات من مواقع Microsoft الرسمية على الويب مثل وثائق [Microsoft Learn ](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) وتدريب [Microsoft Learn](/training/?azure-portal=true). إضافة إلى ذلك، ومن داخل التطبيقات، يمكنك العثور على تعليمات تتبع السياق في موقع المستندات، وفي دلائل المهام المخزنة في مكتبة في [Lifecycle Services (LCS)](https://lcs.dynamics.com/?azure-portal=true).
+يمكنك الحصول على تدريب ومساعدة لتطبيقات التمويل والعمليات من مواقع الويب الرسمية مثل وثائق [Microsoft Learn و](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) تدريباتها [Microsoft Learn ](/training/?azure-portal=true). بالإضافة إلى ذلك، من داخل التطبيقات، يمكنك العثور على تعليمات حساسة للسياق في وثائق Microsoft Learn وفي أدلة المهام المخزنة في مكتبة في [Lifecycle Services](https://lcs.dynamics.com/?azure-portal=true).

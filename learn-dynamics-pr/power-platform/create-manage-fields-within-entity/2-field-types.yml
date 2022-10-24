@@ -4,19 +4,18 @@ title: أنواع الأعمدة في Microsoft Dataverse
 metadata:
   title: أنواع الأعمدة في Dataverse
   description: تعرف على أنواع الأعمدة المتوفرة في Dataverse.
-  ms.date: 07/08/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 6bbaaef38bbefbfab2c0b30c4e20ee024afdb8e2
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 36421dcded98e13dc4383116d306c765f47eaea4
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9426415"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624873"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

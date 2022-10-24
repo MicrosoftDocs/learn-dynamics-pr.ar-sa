@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.discover-dynamics-365-landscape.capabilities-business-applications
+title: قدرات تطبيقات العمل
+metadata:
+  title: قدرات تطبيقات العمل
+  description: كتطبيقات الأعمال، تم تطوير Dynamics 365 وDynamics 365 وMicrosoft Power Platform وتم تعتيم هذه الخطوط إلَى خيارات أكثر شمولية.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 87ae4df6715b48be95c9daa130a2f585098077ca
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612501"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/capabilities-business-applications.md)]"

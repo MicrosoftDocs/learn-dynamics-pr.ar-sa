@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 76507ee446524217f52be857b1a1245b675101ce43e7694d643966e31fb2cd7f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 1f3543b2eacc62687fae706ab16ba46e55e06d9e
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7058310"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9597093"
 ---
-حدد Project Operations للسيناريو المستند إلى المنتجات المخزنة أو الإنتاج إذا كنت قد نشرت بالفعل وتستخدم تطبيقات Finance and Operations، وMicrosoft Dynamics 365 Supply Chain Management، وميزات التصنيع.
+حدد Project Operations للسيناريو المخزن أو المستند إلى الإنتاج إذا كنت قد نشرت بالفعل وتستخدم تطبيقات التمويل والعمليات، وميزات Microsoft Dynamics 365 Supply Chain Management، وميزات التصنيع.
 
 يتم استخدام السيناريو المستند إلى المنتجات المخزنة أو الإنتاج لشركات الهندسة المعمارية والهندسة والاستشارات والتصنيع المستند إلى المشاريع.
 

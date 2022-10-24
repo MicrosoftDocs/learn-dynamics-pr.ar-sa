@@ -1,23 +1,23 @@
 ---
-ms.openlocfilehash: 2d8f00b11de248aa1445a444acab88b8399c9009a22cad9142fb5b8aa6aa5226
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 606f9a59107faea6f5da3b4142462a225dbdf537
+ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7457328"
+ms.lasthandoff: 10/05/2022
+ms.locfileid: "9624598"
 ---
 قد تعلمت في هذه الوحدة ما يلي:
 
--   الأعمدة في Microsoft Dataverse.
+- الأعمدة في Microsoft Dataverse.
 
--   أنواع الأعمدة المتوفرة في Dataverse.
+- أنواع الأعمدة المتوفرة في Dataverse.
 
--   إضافة عمود إلى جدول.
+- إضافة عمود إلى جدول.
 
--   عمود **الاسم الأساسي** ولما يتم استخدامه.
+- عمود **الاسم الأساسي** ولما يتم استخدامه.
 
--   القيود المرتبطة بالأعمدة في Dataverse.
+- القيود المرتبطة بالأعمدة في Dataverse.
 
--   إنشاء عمود الترقيم التلقائي.
+- إنشاء عمود الترقيم التلقائي.
 
--   إنشاء مفتاح بديل. 
+- إنشاء مفتاح بديل.

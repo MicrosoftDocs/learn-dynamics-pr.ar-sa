@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.introduction-business-applications-professional.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/23/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 8bbafb0ddd7c400b16f324c1c6c08fbae24f1353
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612465"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أيّ من الاختيارات التالية يصف بشكل أفضل محترف تطبيقات الأعمال؟
+    choices:
+    - content: شخص يمكنه تحديد المشكلات وتنظيم المشكلات.
+      isCorrect: false
+      explanation: غير صحيح. في حين أن هذا التحديد جزء من الإجابة، إلا أنه غير مكتمل. متخصص تطبيقات الأعمال هو شخص يمكنه تحديد المشكلات وتنظيم المشكلات وتحديد الحلول وتنفيذ الحلول.
+    - content: شخص يمكنه تحديد الحلول وتنفيذ الحلول.
+      isCorrect: false
+      explanation: غير صحيح. في حين أن هذا التحديد جزء من الإجابة، إلا أنه غير مكتمل. متخصص تطبيقات الأعمال هو شخص يمكنه تحديد المشكلات وتنظيم المشكلات وتحديد الحلول وتنفيذ الحلول.
+    - content: شخص يمكنه تحديد المشكلات وتنظيمها وتحديد الحلول وتنفيذ الحلول.
+      isCorrect: true
+      explanation: صحيح. متخصص تطبيقات الأعمال هو شخص يمكنه تحديد المشكلات وتنظيم المشكلات وتحديد الحلول وتنفيذ الحلول.
+  - content: إذا كنت تريد التعرف عَلى حالات الاستخدام لكل منتج من منتجات Dynamics 365، فأيّ من الخيارات التالية سيكون أفضل مورد؟
+    choices:
+    - content: استكشف Dynamics 365 في جولة إرشادية من Microsoft.
+      isCorrect: true
+      explanation: صحيح. من خلال استكشاف "الجولة الإرادية من Microsoft"، يمكنك التعرف عَلى حالات الاستخدام لكل عرض.
+    - content: انتقل إلَى Microsoft.com.
+      isCorrect: false
+      explanation: غير صحيح. بينما ستجد عَلى الأرجح بعض معلومات Dynamics 365 من خلال البحث عَلى Microsoft.com، فإن "الجولة الإرشادية من Microsoft" هو مورد أفضل.
+    - content: ابحث عَلى Bing.com.
+      isCorrect: false
+      explanation: غير صحيح. بينما ستجد عَلى الأرجح بعض معلومات Dynamics 365 من خلال البحث عَلى Bing.com، فإن "الجولة الإرشادية من Microsoft" هو مورد أفضل.
+  - content: أيّ من الخيارات التالية سيكون مناسبًا لبدء مهنة كمتخصص في تطبيقات الأعمال واستخدام هذه الوحدة لمساعدتهم في طريقهم؟
+    choices:
+    - content: شخص تخرج مؤخرًا من المدرسة.
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة ليست هي الأفضل لأن أيًا من الإجابات سيكون مناسبًا لبدء مهنة في Dynamics 365 كمحترف في تطبيقات الأعمال.
+    - content: متغير وظيفي عمل سابقًا في مبيعات التجزئة.
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة ليست هي الأفضل لأن أيًا من الإجابات سيكون مناسبًا لبدء مهنة في Dynamics 365 كمحترف في تطبيقات الأعمال.
+    - content: متغير وظيفي عمل سابقًا في خدمة العملاء.
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة ليست هي الأفضل لأن أيًا من الإجابات سيكون مناسبًا لبدء مهنة في Dynamics 365 كمحترف في تطبيقات الأعمال.
+    - content: مورد داخلي لمشروع الشركة.
+      isCorrect: false
+      explanation: غير صحيح. هذه الإجابة ليست هي الأفضل لأن أيًا من الإجابات سيكون مناسبًا لبدء مهنة في Dynamics 365 كمحترف في تطبيقات الأعمال.
+    - content: أيّ من هذه الإجابات مناسبة.
+      isCorrect: true
+      explanation: صحيح. يمكن لأي شخص يريد الحصول عَلى وظيفة في Dynamics 365 أن يبدأ بهذه الوحدة. سيتم تطبيق المهارات والمعرفة التي ستحصل عليها في سلسلة مسارات التعلم عبر كل عضو تقريبًا في فريق مشروع Dynamics 365، بغض النظر عن نقطة البداية.

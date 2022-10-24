@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.application-lifecycle-management-dynamics-365.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ce0027cc9a2fe925ceb315cc5a0838ab57ca6313
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623347"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أي من الخيارات التالية عبارة عن أمثلة للأدوات التي يمكن استخدامها بشكل شائع لدعم عمليات ALM الخاصة بك؟
+    choices:
+    - content: Azure DevOps وGitHub
+      isCorrect: true
+      explanation: صحيح. Azure DevOps وGitHub هما مثالان عَلى الأدوات المستخدمة بشكل شائع لدعم عمليات ALM.
+    - content: Power Automate
+      isCorrect: false
+      explanation: غير صحيح. Power Automate هي خدمة تساعدك عَلى إنشاء مهام سير عمل مؤتمتة بين تطبيقاتك وخدماتك المفضلة لمزامنة الملفات والحصول عَلى الإشعارات وجمع البيانات والمزيد.
+    - content: تطبيقات Azure Logic
+      isCorrect: false
+      explanation: غير صحيح. Microsoft Azure Logic Appsعبارة عن نظام أساسي قائم عَلى السحابة لإنشاء عمليات سير عمل مؤتمتة وتشغيلها تدمج تطبيقاتك وبياناتك وخدماتك وأنظمتك.
+  - content: ما هو عنصر العمل المستخدم في عمليات ALM؟
+    choices:
+    - content: لإرسال زيارة ميدانية مع Dynamics 365 Field Service
+      isCorrect: false
+      explanation: غير صحيح. يتم استخدام أمر العمل لإرسال زيارة ميدانية باستخدام Dynamics 365 Field Service.
+    - content: لإدارة ميزانية المشروع
+      isCorrect: false
+      explanation: غير صحيح. يستخدم تطبيق الميزانية لإدارة ميزانية المشروع.
+    - content: لتتبع العمل الذي يحتاج إلَى إكمال أو المهمة / القضايا
+      isCorrect: true
+      explanation: صحيح. عنصر العمل هو حجر الزاوية للتعاون وتعقب العمل كجزء من عملية ALM.
+  - content: أي من الخيارات التالية ليس Microsoft Power Platform نوع بيئة؟
+    choices:
+    - content: بيئة الاختبار المعزولة
+      isCorrect: false
+      explanation: غير صحيح. بيئة الاختبار المعزولة هي Microsoft Power Platform نوع البيئة.
+    - content: ALM
+      isCorrect: true
+      explanation: صحيح. ALM ليس نوع Microsoft Power Platform بيئة صالحًا.
+    - content: الإنتاج
+      isCorrect: false
+      explanation: غير صحيح. الإنتاج نوع Microsoft Power Platform من البيئة.

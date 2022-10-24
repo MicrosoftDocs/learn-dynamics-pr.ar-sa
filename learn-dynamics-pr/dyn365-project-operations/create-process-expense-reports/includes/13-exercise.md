@@ -1,13 +1,13 @@
 ---
-ms.openlocfilehash: 6ff7c96dc35d806b244f251c422cc7d27f5d1959
-ms.sourcegitcommit: b94bf0957921479438b9518ec047e5eaa5b44e3b
+ms.openlocfilehash: aa52c36e0d27346fd2ce0345485330c12175cef6
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "7922967"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596940"
 ---
 > [!NOTE]
-> وتكون عملية إنشاء تقرير مصروفات في Finance and Operations بنفس الطريقة الموجودة في Project Operations. بالتالي، ستقوم بتنفيذ هذا المعمل في Finance and Operations، لأننا لا نمتلك حالياً بيئة Project Operations متوفرة في Microsoft Learn.
+> عملية إنشاء تقرير المصروفات هي نفسها في التمويل والعمليات مثلما أنها هي نفسها في Project Operations. بالتالي، سوف تقوم أنت بتنفيذ هذا الاختبار المعملي في التمويل والعمليات، لأننا لا نمتلك حالياً بيئة Project Operations متوفرة في Microsoft Learn.
 > ومع ذلك، يمكنك الوصول إلى بيئة تجريبية لـ Project Operations عن طريق تحديد **الشروع في العمل** في الركن العلوي الأيسر من صفحة [Dynamics 365 Project Operations على microsoft.com](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true) إذا كنت تفضل تجربة التمرين العملي هناك.
 
 في هذا المعمل، ستقوم بما يلي:

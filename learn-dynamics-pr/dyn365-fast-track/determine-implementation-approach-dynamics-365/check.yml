@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.determine-implementation-approach-dynamics-365.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 324e101085bd43e3d76c442925d2e63fbff3852a
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612566"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: ما هي منهجية الشلال؟
+    choices:
+    - content: منهجية المشروع التي تستخدم نهجًا تكراريًا
+      isCorrect: false
+      explanation: غير صحيح. يمكن أيضًا تسمية النهج التكراري بالرشاقة. نهج الشلال هو عندما يتم تحديد النطاق والتخطيط والتفاصيل قبل بدء التطوير.
+    - content: عندما يتم تحديد بعض التفاصيل قبل التطوير
+      isCorrect: false
+      explanation: غير صحيح. يصف هذا الاختيار نهجًا رشيقًا. النهج الرشيق هو عندما يتم تحديد الصورة والأهداف الكبيرة في البداية، ثم تستمر مخرجات المشروع في نوع من النهج التكراري.
+    - content: عندما يتم تحديد جميع متطلبات المشروع قبل التطوير
+      isCorrect: true
+      explanation: صحيح. نهج الشلال هو عندما يتم تحديد النطاق والتخطيط والتفاصيل قبل بدء التطوير.
+  - content: أي من الأنشطة التالية لا تحدث بشكل عام في مرحلة ما قبل البيع؟
+    choices:
+    - content: طلب ردود عَلى الاقتراح
+      isCorrect: false
+      explanation: غير صحيح. يتمثل النشاط الأساسي للمبيعات المسبقة في دعم فريق المبيعات عند هبوط المشروع. تتضمن هذه العملية طلبات تقديم العروض والردود عليها.
+    - content: إثبات مفهوم العرض التوضيحي
+      isCorrect: false
+      explanation: غير صحيح. يتمثل النشاط الأساسي للمبيعات المسبقة في دعم فريق المبيعات عند هبوط المشروع. ستشمل هذه العملية عرضًا لإثبات صحة المفهوم.
+    - content: جمع المتطلبات
+      isCorrect: true
+      explanation: صحيح. سيحدث قدر صغير من مناقشة المتطلبات خلال مرحلة ما قبل البيع، ولكن لن يتم جمع المتطلبات الحقيقية قبل بدء المشروع.
+  - content: أين ستجد حزم التعليمات البرمجية الجاهزة للنشر في Lifecycle Services؟
+    choices:
+    - content: كقسم فرعي لبلاط المراحل
+      isCorrect: false
+      explanation: غير صحيح. تحتوي مجموعة المراحل عَلى مراحل المنهجية المختارة. أقسامها الفرعية هي المهام.
+    - content: في مكتبة الأصول
+      isCorrect: true
+      explanation: صحيح. يتم تخزين الأصول مثل النسخ الاحتياطية والأقراص الثابتة الافتراضية وحزم البيانات والأكواد في مكتبة الأصول.
+    - content: في مجموعة البيئات
+      isCorrect: false
+      explanation: غير صحيح. تحتوي مجموعة البيئات عَلى ارتباطات إلَى البيئات المستضافة والمحلية.

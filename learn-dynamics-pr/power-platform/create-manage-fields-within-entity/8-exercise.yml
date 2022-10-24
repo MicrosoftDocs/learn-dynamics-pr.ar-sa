@@ -4,18 +4,18 @@ title: التمارين
 metadata:
   title: التمارين
   description: التمارين
-  ms.date: 07/08/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: d58527f709f58043c5620fb34d443df647c794c6
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 2ea441f73b94c8e8e0f94248af141aeb68247fe3
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9426255"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624713"
 durationInMinutes: 20
 content: >-
   [!include[](../includes/unit-banner.md)]

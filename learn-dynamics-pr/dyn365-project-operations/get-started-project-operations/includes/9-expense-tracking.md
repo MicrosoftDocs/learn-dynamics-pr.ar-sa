@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 6a9fe7e2fbee298200fd0b798529a49b54ac9439
-ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+ms.openlocfilehash: cf6103f74caba030310d06555556e96fbcda11cd
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2022
-ms.locfileid: "9510214"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596579"
 ---
 تدعم Project Operations القدرة على معالجة المصروفات. تحدث معالجة المصروفات مع المشروعات أو بدونها باستخدام سير عمل قابل للتخصيص من السياسات، وفئات الحركات، والموافقات.
 

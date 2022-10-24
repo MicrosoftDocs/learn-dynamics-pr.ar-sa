@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.digitally-transform-with-dynamics-365.assignment
+title: تعيين
+metadata:
+  title: تعيين
+  description: استكشف صفحة التحول الرقمي.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e3c221441f95085fd5046003e8194dbc9ca3d3f6
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612551"
+durationInMinutes: 20
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/assignment.md)]"

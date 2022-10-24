@@ -4,19 +4,18 @@ title: متطلبات الترخيص لكل نوع جدول
 metadata:
   title: متطلبات الترخيص لكل نوع جدول
   description: تعرف على متطلبات الترخيص التي يجب استخدامها لكل نوع جدول.
-  ms.date: 06/27/2019
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 02e439119204771be7a57de8fe0479766b9c6683
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 431eb811f5a23ca5bae4ae758f3fc1b6c4907695
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9426555"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624813"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

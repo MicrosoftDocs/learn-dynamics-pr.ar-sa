@@ -7,12 +7,13 @@ metadata:
   author: DaveBeasley
   ms.author: dbeasley
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 2c599fecc3abe166067c65efb775fe90220994ce
-  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+  ms.service: dynamics-365-remote-assist, dynamics-365-field-service
+  ms.openlocfilehash: 5c620726dbe272ab2f08ae218c6e0ae295f0f794
+  ms.sourcegitcommit: 42b46af96c8fe9ce15fe96abaa00f8a574b4ee02
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "9515845"
+  ms.lasthandoff: 09/28/2022
+  ms.locfileid: "9595855"
 title: دمج Dynamics 365 Remote Assist مع Dynamics 365 Field Service
 summary: "[!include[](../includes/module-banner.md)] \nكما يُمكن للمؤسسات التي تستخدم Dynamics 365 Field Service إدارة أوامر العمل تمكين الفنيين من إجراء مكالمات مساعدة عن بُعد في سياق أوامر العمل.\n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تشغيل الأجهزة المحمولة للمساعدة عن بُعد من الحجز‬‏‫.\n- مراجعة معلومات أمر العمل.\n- ترحيل معلومات المكالمة.\n"

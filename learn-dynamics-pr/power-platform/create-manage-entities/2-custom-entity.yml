@@ -4,19 +4,18 @@ title: إنشاء جدول مخصص
 metadata:
   title: إنشاء جدول مخصص
   description: تعرف على كيفية إنشاء جدول مخصص في Dataverse.
-  ms.date: 06/27/2019
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 098a7cb80c727d211cfae22251fbaa97b7756e85
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 86dd85c02917bb2a363b40cc2936afe89e6f7544
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425345"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624608"
 durationInMinutes: 10
 content: >-
   [!include[](../includes/unit-banner.md)]

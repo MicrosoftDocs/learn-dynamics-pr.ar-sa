@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.test-dynamics-365-implementation.test-types
+title: أنواع الاختبارات
+metadata:
+  title: أنواع الاختبارات
+  description: تعرف على أنواع الاختبار.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1c5be444a60f97f8f25ff29bf429ef8fca7295f0
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9619373"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/test-types.md)]"

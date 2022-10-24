@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.discover-dynamics-365-landscape.other-technologies
+title: Dynamics 365 مع تقنيات Microsoft الأخرى
+metadata:
+  title: Dynamics 365 مع تقنيات Microsoft الأخرى
+  description: يمكنك نشر تطبيقات Dynamics 365 مع بعضها البعض، مع تطبيقات وخدمات Microsoft الأخرى، ومع العديد من برامج الشركاء وتطبيقاتهم.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1d6193111482e9cd38d4fa5ae54046ca80e41887
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612490"
+durationInMinutes: 15
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/other-technologies.md)]"

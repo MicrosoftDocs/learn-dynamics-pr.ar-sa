@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.digitally-transform-with-dynamics-365.explore-possibilities
+title: استكشف الاحتمالات
+metadata:
+  title: استكشف الاحتمالات
+  description: تعرف على الاحتمالات.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a53f14104d1aa1e38e742890b978f5608e2028ed
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612542"
+durationInMinutes: 5
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/explore-possibilities.md)]"

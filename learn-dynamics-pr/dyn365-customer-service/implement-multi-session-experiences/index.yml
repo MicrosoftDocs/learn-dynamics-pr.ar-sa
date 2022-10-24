@@ -7,12 +7,12 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 746599080f318aafd7e0dcafc40b9f1fb78241cd
-  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+  ms.openlocfilehash: c767e0ba18aeee4dd2bca6ee690d67235d1fbc52
+  ms.sourcegitcommit: 5a5f934bb5589a60351e42ecabca55cc0c536e61
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2022
-  ms.locfileid: "9582976"
+  ms.lasthandoff: 09/27/2022
+  ms.locfileid: "9594979"
 title: تنفيذ تجارب متعددة جلسات العمل في Dynamics 365 Customer Service
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -28,8 +28,8 @@ abstract: >
   - استخدام قوالب جلسات العمل لتقديم البيانات للمندوبين مع حقول وتطبيقات مختلفة
 
   - إدارة إعدادات الإخطارات والقوالب
-prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
-iconUrl: /learn/achievements/implement-multi-session-experiences.svg
+prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service
+iconUrl: /training/achievements/implement-multi-session-experiences.svg
 levels:
 - intermediate
 roles:

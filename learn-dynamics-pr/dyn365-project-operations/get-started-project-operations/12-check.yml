@@ -8,24 +8,24 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: b9b6bcb3cb5ecb037cf2ab20a8558c404e3d398c
-  ms.sourcegitcommit: 48208de97634165f7a2a6184f681219294e7c862
+  ms.openlocfilehash: cd9c7bbc24957c0c581de15dd1936ae413b0f611
+  ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/18/2021
-  ms.locfileid: "7394790"
+  ms.lasthandoff: 09/28/2022
+  ms.locfileid: "9596664"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: التوزيع الخفيف - هو التعامل مع الفواتير الأولية‬، أي من قدرات تطبيقات Dynamics 365 التالية يمكنه استخدامها؟
+  - content: النشر الخفيف - التعامل مع سيناريو الفواتير الأولية يمكنه الاستعانة بإمكانات أي من تطبيقات Dynamics 365 التالية؟
     choices:
-    - content: تطبيقات Finance and Operations
+    - content: تطبيقات التمويل والعمليات
       isCorrect: false
-      explanation: يمكن استخدام تطبيقات Finance and Operations في Project Operations لسيناريو المورد/غير المخزن وProject Operations لسيناريو أمر الإنتاج/المخزن.
+      explanation: يمكن استخدام تطبيقات التمويل والعمليات في Project Operations لسيناريو المورد/غير المخزن وProject Operations لسيناريو أمر الإنتاج/المخزن.
     - content: تطبيقات Customer Engagement
       isCorrect: true
-      explanation: بالنسبة للتوزيع الخفيف المعروف بالتعامل مع الفواتير الأولية، يمكن استخدام تطبيقات Customer Engagement‬ فقط.
+      explanation: بالنسبة للتوزيع الخفيف المعروف بالتعامل مع الفواتير الأولية، يمكن استخدام تطبيقات تفاعل العملاء‬ فقط.
     - content: Dynamics 365 Business Central
       isCorrect: false
       explanation: لا يمكن استخدام Project Operations مع Dynamics 365 Business Central.

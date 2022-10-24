@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-know-dynamics-365-customers.basic-company-information
+title: المعلومات الأساسية للشركة
+metadata:
+  title: المعلومات الأساسية للشركة
+  description: تعرف على المكان الذي تستقي منه الأساسيات حول شركه العميل.
+  ms.date: 09/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e4fe39f9d07e0dca35b58e68278fd71a11ccee2c
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612481"
+durationInMinutes: 15
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/basic-company-information.md)]

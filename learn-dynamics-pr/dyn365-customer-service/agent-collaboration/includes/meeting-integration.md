@@ -1,25 +1,28 @@
 ---
-ms.openlocfilehash: 5b5ef645b7850161bfe31358ede742b0397d44ed
-ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+ms.openlocfilehash: 7daaec69ab1ec0e6914a8bd2450b82c3f6910002
+ms.sourcegitcommit: 118a1ed3f7123032f53ea321e1b39d59e04cad04
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/21/2022
-ms.locfileid: "9567190"
+ms.lasthandoff: 10/06/2022
+ms.locfileid: "9633142"
 ---
-تتيح ميزة تكامل اجتماعات Microsoft Teams لمندوبي Dynamics 365 Customer Service إمكانية الوصول بسرعة إلى السجلات وتحديثها في Microsoft Teams قبل الاجتماع وخلاله وبعده مع عملائهم. بمجرد تمكينها، يتم تزويد المندوبين والمشرفين في مؤسستك بتجربة متماسكة وسلسة بين Dynamics 365 وTeams. يمكن للعملاء استخدام وظيفة الاجتماعات لتلبية احتياجات العملاء بكفاءة أكبر.
+تتيح ميزة تكامل اجتماعات Microsoft Teams لمندوبي Dynamics 365 Customer Service إمكانية الوصول بسرعة إلى السجلات وتحديثها في Microsoft Teams قبل الاجتماع وخلاله وبعده مع عملائهم.
+بعد تمكين الميزة، يتم تزويد المندوبين والمشرفين في مؤسستك بتجربة متماسكة وسلسة بين Dynamics 365 وTeams.
+يمكن للعملاء استخدام وظيفة الاجتماعات لتلبية احتياجات العملاء بكفاءة أكبر.
 
-يتم تمكين تكامل الاجتماعات في تطبيق **مركز مسؤولي Customer Service**. حدد **التعاون** ضمن مجموعة **خبرة المندوب** واختر **إدارة** بجوار **تكامل الاجتماعات باستخدام Teams**. قم بتعيين مفتاح التبديل على **تشغيل‏‎**.
+يمكنك تمكين تكامل الاجتماع في **مركز مسؤولي Customer Service**.
+حدد **التعاون** ضمن مجموعة **خبرة المندوب**، ثم حدد **إدارة** بجوار **تكامل الاجتماعات باستخدام Teams**. قم بتعيين مفتاح التبديل على **تشغيل‏‎**.
 
-للتأكد من أن الميزة ستعمل بشكل صحيح، ستحتاج إلى تكوين الوظائف التالية:
+للتأكد من أن الميزة ستعمل بشكل صحيح، ستحتاج إلى إعداد الوظائف التالية:
 
--   **مزامنة التقويمات:** يضمن هذا الإعداد الاختياري إضافة الاجتماعات التي تم إنشاؤها في Dynamics 365 إلى Microsoft Outlook وTeams، وظهورها في تقويمات المندوب. لمزيد من المعلومات، راجع [إعداد المزامنة على جانب الخادم للبريد الإلكتروني والمواعيد وجهات الاتصال والمهام - Power Platform](/power-platform/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks/?azure-portal=true).
+-   **مزامنة التقويمات** - يضمن هذا الإعداد الاختياري إضافة الاجتماعات التي تم إنشاؤها في Dynamics 365 إلى Microsoft Outlook وTeams وأنها تظهر في تقويمات المندوبين. لمزيد من المعلومات، راجع [‎إعداد المزامنة على جانب الخادم للبريد الإلكتروني والمواعيد وجهات الاتصال والمهام](/power-platform/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks/?azure-portal=true).
 
--   **إضافة الاجتماعات والانضمام إليها:** يضمن هذا الإعداد المطلوب قيام أحد المندوبين بإنشاء اجتماعات Microsoft Teams والانضمام إليها مباشرة من Dynamics 365. 
-    لمزيد من المعلومات، راجع [إدارة إعدادات الميزات - Power Platform](/power-platform/admin/settings-features/?azure-portal=true).
+-   **إضافة الاجتماعات والانضمام إليها** - يضمن هذا الإعداد المطلوب قيام أحد المندوبين بإنشاء اجتماعات Microsoft Teams والانضمام إليها مباشرةً من Dynamics 365.
+    لمزيد من المعلومات، راجع [إدارة إعدادات الميزات](/power-platform/admin/settings-features/?azure-portal=true).
 
-**استخدام تكامل اجتماعات Microsoft Teams في Customer Service**
+#### <a name="use-microsoft-teams-meeting-integration-in-customer-service"></a>استخدام تكامل اجتماعات Microsoft Teams في Customer Service
 
-توفر ميزة تكامل اجتماعات Teams تجربة اجتماع موحدة تساعدك، بصفتك مندوباً، على تقليل عبء العمل الإداري وزيادة الإنتاجية. يمكن الوصول إلى سجلات Dynamics 365 أثناء إجراء اجتماع عبر Microsoft Teams، والتي يمكنك الرجوع إليها وإجراء محادثات ذات صلة بالسياق مع عملائك. يمكنك أيضاً تدوين الملاحظات للمساعدة على توفير الوقت وزيادة الإنتاجية واستخدام بيانات أفضل داخل مؤسستك.
+توفر ميزة تكامل اجتماعات Teams تجربة اجتماع موحدة تساعدك، بصفتك مندوباً، على تقليل حمل العمل الإداري وزيادة الإنتاجية. يمكن الوصول إلى سجلات Dynamics 365 أثناء قيامك بعقد اجتماع عبر Microsoft Teams. يمكنك الرجوع إلى هذه السجلات لإجراء محادثات ذات صلة بالسياق مع عملائك. بالإضافة إلى ذلك، يمكنك تدوين الملاحظات للمساعدة على توفير الوقت وزيادة الإنتاجية واستخدام بيانات أفضل داخل مؤسستك.
 
 كمندوب، يمكنك:
 
@@ -29,72 +32,72 @@ ms.locfileid: "9567190"
 
 -   تسجيل الملاحظات والمهام بسلاسة أثناء اجتماع Microsoft Teams، ومزامنة هذه الملاحظات والمهام تلقائياً مع السجلات في Dynamics 365.
 
-## <a name="meeting-lifecycle"></a>دورة حياة الاجتماع
+## <a name="meeting-life-cycle"></a>دورة حياة الاجتماع
 
-يمكن تقسيم دورة حياة الاجتماع إلى المراحل التالية، مع تلبية كل مرحلة لمهام بعينها:
+يمكنك تقسيم دورة حياة الاجتماع إلى المراحل التالية، بحيث تلبي كل مرحلة مهاماً محددة:
 
--   ما قبل الاجتماع: في هذه المرحلة، تحتاج إلى تنفيذ المهام التالية:
+-   **ما قبل الاجتماع** - في هذه المرحلة، ستحتاج إلى تنفيذ المهام التالية:
 
-    -   [إنشاء اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#create-a-teams-meeting)
+    -   [إنشاء اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#create-a-teams-meeting).
 
-    -   [الانضمام إلى اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#join-a-teams-meeting)
+    -   [الانضمام إلى اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#join-a-teams-meeting).
 
-    -   [إضافة تطبيق Dynamics 365 إلى اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#add-dynamics-365-app-to-a-teams-meeting)
+    -   [إضافة تطبيق Dynamics 365 إلى اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#add-dynamics-365-app-to-a-teams-meeting).
 
-    -   [استخدام تطبيق Dynamics 365 لعرض معلومات السجل وتحديثها](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-the-dynamics-365-app)
+    -   [استخدام تطبيق Dynamics 365 لعرض معلومات السجل وتحديثها](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-the-dynamics-365-app).
 
--   أثناء الاجتماع: في هذه المرحلة، تحتاج إلى تنفيذ المهام التالية:
+-   **أثناء الاجتماع** - في هذه المرحلة، ستحتاج إلى تنفيذ المهام التالية:
 
-    -   استخدام اللوحة الجانبية لعرض معلومات السجل وتحديثها
+    -   استخدام اللوحة الجانبية لعرض معلومات السجل وتحديثها.
 
-    -   [التعامل مع الملاحظات أثناء الاجتماع](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-notes-during-a-meeting)
+    -   [التعامل مع الملاحظات أثناء الاجتماع](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-notes-during-a-meeting).
 
-    -   [التعامل مع المهام أثناء الاجتماع](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-tasks-during-a-meeting)
+    -   [التعامل مع المهام أثناء الاجتماع](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-tasks-during-a-meeting).
 
-    -   [التعامل مع الأنشطة أثناء الاجتماع](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-activities-during-a-meeting)
+    -   [التعامل مع الأنشطة أثناء الاجتماع](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-activities-during-a-meeting).
 
--   بعد الاجتماع: في هذه المرحلة، تحتاج إلى تنفيذ المهمة التالية:
-
-    -   [استخدام تطبيق Dynamics 365 لعرض معلومات السجل وتحديثها](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-the-dynamics-365-app)
+-   **بعد الاجتماع** - في هذه المرحلة، تحتاج إلى [استخدام تطبيق Dynamics 365 لعرض معلومات السجل وتحديثها](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#work-with-the-dynamics-365-app).
 
 
 ### <a name="create-a-teams-meeting"></a>إنشاء اجتماع Teams
 
-يمكنك إنشاء اجتماع Teams إما من Dynamics 365 أو Microsoft Outlook. أثناء إنشاء اجتماع Teams، تأكد من ربط سجل Dynamics 365 بالاجتماع. يتيح لك ربط أحد السجلات بالاجتماع عرض تفاصيل السجل قبل الاجتماع، وفي اللوحة الجانبية أثناء الاجتماع، وبعد الاجتماع.
+يمكنك إنشاء اجتماع Teams من Dynamics 365 أو Microsoft Outlook. أثناء إنشاء اجتماع Teams، تأكد من ربط سجل Dynamics 365 بالاجتماع. يتيح لك ربط أحد السجلات بالاجتماع عرض تفاصيل السجل قبل الاجتماع، وفي اللوحة الجانبية أثناء الاجتماع، وبعد الاجتماع.
 
-يمكنك ربط سجل Dynamics 365 من خلال تحديد السجل ذي الصلة. عند ربط سجل قبل الاجتماع ، تتم إضافة تطبيق Dynamics 365 تلقائياً إلى الاجتماع، ويمكنك الاطّلاع على تفاصيل السجل المرتبط في اللوحة الجانبية. إذا لم يكن السجل مرتبطاً بالاجتماع، فلن تتمكن من الاطّلاع على تفاصيل السجل المرتبط. في مثل هذه الحالة، يجب إضافة تطبيق Dynamics 365 إلى الاجتماع قبل البدء فيه، وذلك للحصول على تجربة أفضل.
+يمكنك ربط سجل Dynamics 365 من خلال تحديد السجل ذي الصلة.
+عند ربط سجل قبل الاجتماع، تتم إضافة تطبيق Dynamics 365 تلقائياً إلى الاجتماع، ويمكنك عرض تفاصيل السجل المرتبط في اللوحة الجانبية. إذا لم يكن السجل مرتبطاً بالاجتماع، فلن تتمكن من عرض تفاصيل السجل المرتبط. في مثل هذه الحالة، يجب عليك إضافة تطبيق Dynamics 365 إلى الاجتماع قبل بدئه حتى تتمتع بتجربة أفضل.
 
 #### <a name="create-teams-meetings-in-dynamics-365"></a>إنشاء اجتماعات Teams في Dynamics 365
 
-يمكنك إنشاء اجتماع Teams إما من المخطط الزمني لأحد السجلات أو من خلال صفحة الأنشطة. للحصول على إرشادات خطوة بخطوة لإنشاء اجتماع Teams، راجع [إنشاء اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#create-a-teams-meeting).
+يمكنك إنشاء اجتماع Teams من المخطط الزمني لأحد السجلات أو من خلال صفحة الأنشطة. للحصول على إرشادات خطوة بخطوة، راجع [إنشاء اجتماع Teams](/dynamics365/customer-service/use-teams-meetings?azure-portal=true#create-a-teams-meeting).
 
 #### <a name="create-teams-meetings-in-microsoft-outlook"></a>إنشاء اجتماعات Teams في Microsoft Outlook
 
-يمكنك إنشاء اجتماع Teams في Microsoft Outlook، ولكن لن يتم ربط الاجتماع بسجل Dynamics 365 تلقائياً. يجب تثبيت تطبيق Dynamics 365 app for Outlook لربط الاجتماع بسجل Dynamics 365. بعد تثبيت التطبيق، افتحه وابحث عن السجل في حقل **تعيين بخصوص** .
+يمكنك إنشاء اجتماع Teams في Microsoft Outlook، ولكن لن يتم ربط الاجتماع بسجل Dynamics 365 تلقائياً. يجب عليك تثبيت Dynamics 365 App for Outlookلربط الاجتماع بسجل Dynamics 365. بعد تثبيت التطبيق، افتحه وابحث عن السجل في حقل **تعيين بخصوص**. 
 
-للحصول على معلومات حول إنشاء اجتماع Teams في Microsoft Outlook، راجع [جدولة اجتماع Teams من Outlook](https://support.microsoft.com/office/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f).
+لمزيد من المعلومات حول إنشاء اجتماع Teams في Microsoft Outlook، راجع [جدولة اجتماع Teams من Outlook](https://support.microsoft.com/office/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f).
 
-للحصول على معلومات حول استخدام تطبيق Dynamics 365 App for Outlook، راجع 
-[التنقل الأساسي في App for Outlook (تطبيقات Dynamics 365)](/dynamics365/outlook-app/user/basic-navigation/?azure-portal=true).
+لمزيد من المعلومات حول استخدام تطبيق Dynamics 365 App for Outlook، راجع [التنقل الأساسي في App for Outlook (تطبيقات Dynamics 365)](/dynamics365/outlook-app/user/basic-navigation/?azure-portal=true).
 
-## <a name="add-dynamics-365-app-to-a-teams-meeting"></a>إضافة تطبيق Dynamics 365 إلى اجتماع Teams
+## <a name="add-the-dynamics-365-app-to-a-teams-meeting"></a>إضافة تطبيق Dynamics 365 إلى اجتماع Teams
 
-يمكن إضافة تطبيق Dynamics 365 بإحدى طريقتين:
+يمكنك إضافة تطبيق Dynamics 365 بإحدى طريقتين:
 
--   **إضافة التطبيق تلقائياً**: إذا قمت بربط سجل Dynamics 365 باجتماع أثناء إنشائه في Dynamics 365 أو Microsoft Outlook، تتم إضافة تطبيق Dynamics 365 تلقائياً إلى الاجتماع. يتيح لك ذلك عرض تفاصيل السجل قبل الاجتماع وخلاله وبعده.
+-   **إضافة التطبيق تلقائياً** - إذا قمت بربط سجل Dynamics 365 باجتماع أثناء إنشائه في Dynamics 365 أو Microsoft Outlook، فستتم إضافة تطبيق Dynamics 365 تلقائياً إلى الاجتماع. يتيح لك هذا النهج عرض تفاصيل السجل قبل الاجتماع وخلاله وبعده.
 
--   **إضافة التطبيق يدوياً**: إذا لم تقم بربط سجل Dynamics 365 باجتماع أثناء إنشائه في Dynamics 365 أو Microsoft Outlook، فمن المستحسن إضافة التطبيق إلى الاجتماع قبل الانضمام إلى اجتماع Teams للحصول على تجربة أفضل.
+-   **إضافة التطبيق يدوياً** - إذا لم تقم بربط سجل Dynamics 365 باجتماع أثناء إنشائه في Dynamics 365 أو Microsoft Outlook، فإننا نوصيك بإضافة التطبيق إلى الاجتماع قبل الانضمام إلى اجتماع Teams للحصول على تجربة أفضل.
 
 لإضافة تطبيق قبل اجتماع، أرسل دعوة الاجتماع أولاً، ثم افتح الاجتماع في Teams. حدد **إضافة علامة تبويب**، وابحث عن تطبيق Dynamics 365، ثم أضفه.
 
-لإضافة تطبيق أثناء اجتماع، بعد بدء الاجتماع، حدد 
-**إضافة تطبيق** في عناصر تحكم الاجتماع في المنطقة العلوية اليسرى من الشاشة، وابحث عن تطبيق Dynamics 365 وأضفه.
+لإضافة تطبيق أثناء اجتماع، بعد بدء الاجتماع، حدد **إضافة تطبيق** في عناصر تحكم الاجتماع في المنطقة العلوية اليمنى من الشاشة، وابحث عن تطبيق Dynamics 365، ثم أضفه.
 
 ### <a name="work-with-the-dynamics-365-app"></a>العمل مع تطبيق Dynamics 365
 
-يسمح لك تطبيق Dynamics 365 بعرض معلومات السجل المرتبطة بأحد الاجتماعات. يمكن عرض تفاصيل السجل قبل الاجتماع وفي اللوحة الجانبية أثناء الاجتماع وبعد الاجتماع. افتح الاجتماع في Teams، ثم حدد علامة التبويب **Dynamics 365** . يمكنك تنفيذ كافة الإجراءات على السجل المرتبط كما تفعل في Dynamics 365 Customer Service.
+يسمح لك تطبيق Dynamics 365 بعرض معلومات السجل المرتبطة بأحد الاجتماعات. يمكنك عرض تفاصيل السجل قبل الاجتماع وفي اللوحة الجانبية أثناء الاجتماع وبعد الاجتماع.
+افتح الاجتماع في Teams، ثم حدد علامة التبويب **Dynamics 365**. 
+يمكنك تنفيذ كافة الإجراءات على السجل المرتبط كما تفعل في Dynamics 365 Customer Service.
 
-لعرض تفاصيل السجل أثناء الاجتماع، حدد رمز تطبيق Dynamics 365 في شريط أدوات الاجتماع الموجود في المنطقة اليسرى العليا من الشاشة. يتم عرض تفاصيل السجل في لوحة جانبية. يمكنك عرض المعلومات وتحديثها مثل الملاحظات والمهام.
+لعرض تفاصيل السجل أثناء الاجتماع، حدد رمز تطبيق Dynamics 365 في شريط أدوات الاجتماع الموجود في المنطقة العلوية اليمنى من الشاشة.
+سيتم عرض تفاصيل السجل في لوحة جانبية. يمكنك عرض المعلومات وتحديثها مثل الملاحظات والمهام.
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لتفاصيل الاتصال في التطبيق.](../media/contact-details.png)](../media/contact-details.png#lightbox)
@@ -107,8 +110,9 @@ ms.locfileid: "9567190"
 
 #### <a name="join-a-teams-meeting-from-dynamics-365"></a>الانضمام إلى اجتماع Teams من Dynamics 365
 
-1.  افتح سجل الاجتماع من **المخطط الزمني** أو من صفحة 
-    **الأنشطة** .
+للانضمام إلى اجتماع Teams من Dynamics 365، اتبع الخطوات التالية:
+
+1.  افتح سجل الاجتماع من  **المخطط الزمني** أو من صفحة **الأنشطة**. 
 
 1.  نفذ أحد الإجراءات التالية:
 
@@ -121,7 +125,9 @@ ms.locfileid: "9567190"
 
 #### <a name="join-a-teams-meeting-from-microsoft-outlook"></a>الانضمام إلى اجتماع Teams من Microsoft Outlook
 
-1.  افتح حدث التقويم.
+للانضمام إلى اجتماع Teams من Microsoft Outlook، اتبع الخطوات التالية:
+
+1.  فتح حدث التقويم.
 
 1.  نفذ أحد الإجراءات التالية:
 

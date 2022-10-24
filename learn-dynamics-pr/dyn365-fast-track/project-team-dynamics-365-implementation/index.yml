@@ -1,0 +1,56 @@
+### YamlMime:Module
+uid: learn-dynamics.project-team-dynamics-365-implementation
+metadata:
+  title: التعرف على فريق المشروع لعمليات تنفيذ Dynamics 365
+  description: يمكن أن يكون تنفيذ مشروعات Dynamics 365 كبيراً ومعقداً، وغالباً ما يتضمن استخدام المهارات والمعرفة من العديد من الأفراد.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 9db29a0d59c97e47fad0c49181bf623111671059
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623487"
+title: التعرف على فريق المشروع لعمليات تنفيذ Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nيمكن أن يكون تنفيذ مشروعات Dynamics 365 كبيراً ومعقداً، وغالباً ما يتضمن استخدام المهارات والمعرفة من العديد من الأفراد. يجلب كل شخص موهبة وخبرة فريدة من نوعها، ويتشارك الأفراد في جهد العمل معاً وتنسيق المهام. يختلف كل مشروع عن الآخر وسيكون له مجموعته الخاصة من الأشخاص في فريق المشروع. \n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- حدد أعضاء فريق المشروع وحملة الأسهم من العملاء.\n-   تعرف على دور المستشار الموجود في فريق المشروع.\n"
+prerequisites: لا شيء
+iconUrl: /learn/achievements/project-team-dynamics-365-implementation.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- student
+- functional-consultant
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.project-team-dynamics-365-implementation.introduction
+- learn-dynamics.project-team-dynamics-365-implementation.project-team-members
+- learn-dynamics.project-team-dynamics-365-implementation.customer-roles
+- learn-dynamics.project-team-dynamics-365-implementation.your-role
+- learn-dynamics.project-team-dynamics-365-implementation.assignment
+- learn-dynamics.project-team-dynamics-365-implementation.check
+- learn-dynamics.project-team-dynamics-365-implementation.summary
+badge:
+  uid: learn-dynamics.project-team-dynamics-365-implementation.badge

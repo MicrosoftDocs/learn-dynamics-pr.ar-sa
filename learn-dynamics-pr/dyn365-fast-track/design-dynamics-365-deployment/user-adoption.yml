@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-dynamics-365-deployment.user-adoption
+title: تبني المستخدم
+metadata:
+  title: تبني المستخدم
+  description: تعلم كيفية التشجيع على تبني المستخدم.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: f991463c43cfcad4260a95f5aa34cd87adb71bd1
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9619441"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/user-adoption.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 91106ec1cded06b5252efe75adbdb41fec6d3cd94988dafb197260008d076c9f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 3480d07bf31a4354d1a831f086ea9e5be485fc09
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7046470"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596890"
 ---
 عند انتهاء مهمة الصيانة، تكون الخطوة التالية هي تسجيل الاستهلاك وترحيل المعلومات إلى دفاتر اليومية. 
 
@@ -82,4 +82,4 @@ ms.locfileid: "7046470"
 4.  الأبعاد المالية من الصنف
 
 > [!NOTE]
-> يتم التحقق من صحة كافة مجموعات الأبعاد المالية. في حالة وجود أي مجموعات غير صالحة، سيتم تفريغها. هذا الإعداد قياسي للعديد من تطبيقات Finance and Operations.
+> يتم التحقق من صحة كافة مجموعات الأبعاد المالية. في حالة وجود أي مجموعات غير صالحة، فإنه سيتم إفراغها. هذا الإعداد قياسي للعديد من تطبيقات التمويل والعمليات.

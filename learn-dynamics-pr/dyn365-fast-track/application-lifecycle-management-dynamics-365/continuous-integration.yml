@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.application-lifecycle-management-dynamics-365.continuous-integration
+title: التكامل المستمر والنشر المستمر
+metadata:
+  title: التكامل المستمر والنشر المستمر
+  description: التكامل المستمر والنشر المستمر (CI/CD) هو ممارسة تم تبنيها من قبل الفرق للكشف عن الأخطاء في وقت أقرب وتقليل الجهد المبذول للعثور على المشكلات.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 507f46b7a2b83856250a10f84461db6268bb00d2
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623211"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/continuous-integration.md)]"

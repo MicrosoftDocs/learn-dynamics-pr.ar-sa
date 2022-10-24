@@ -4,17 +4,17 @@ title: تكوين فرق Dataverse للأمان
 metadata:
   title: تكوين فرق Dataverse للأمان
   description: تعرف على كيفية تكوين فرق Dataverse للأمان.
-  ms.date: 05/02/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: admin
-  ms.openlocfilehash: 7a061a74a2f40a229cc625be3c3ec753628acd40
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: d5f2a1eeb177ff2a7d10415adcf6840bd2609584
+  ms.sourcegitcommit: 328e62aa0c8e2873cbd813483692e394a5d4da51
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425426"
+  ms.lasthandoff: 10/12/2022
+  ms.locfileid: "9644236"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

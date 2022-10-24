@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.project-team-dynamics-365-implementation.summary
+title: الملخص
+metadata:
+  title: الملخص
+  description: لقد تعلمت الأدوار المختلفة في مشروع وأن العديد من الأدوار تشارك على مستوى العميل.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 56384673882ff3e0c7422a381016feb05a98107a
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612443"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

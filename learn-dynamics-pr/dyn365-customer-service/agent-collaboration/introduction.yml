@@ -3,16 +3,16 @@ uid: learn-dynamics.agent-collaboration.introduction
 title: مقدمة
 metadata:
   title: مقدمة
-  description: مقدمة عن تعاون المندوب.
+  description: مقدمة إلى تعاون المندوبين في Dynamics 365 Customer Service
   ms.date: 09/21/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 08e9a4dc25af7bfea42550327daa31552a6c0c24
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: ba56a4186db0a20e3743324ed9db5c0a8cfb52a5
+  ms.sourcegitcommit: 118a1ed3f7123032f53ea321e1b39d59e04cad04
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567177"
+  ms.lasthandoff: 10/06/2022
+  ms.locfileid: "9633221"
 durationInMinutes: 3
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/introduction.md)]"

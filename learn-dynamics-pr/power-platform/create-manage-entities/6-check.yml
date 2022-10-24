@@ -3,19 +3,18 @@ uid: learn-dynamics.create-manage-entities.6-check
 metadata:
   title: إنشاء اختبار معلومات الجداول وإدارتها
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
-  ms.date: 06/27/2019
-  author: KevSch
-  ms.author: kschimke
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 62e111b9c10a2f5fd09d7632988ef7e6c5063457
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: f22d8ab841a75459d471cddb9577f6b70d04d83c
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425165"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9625013"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
@@ -23,7 +22,7 @@ quiz:
   questions:
   - content: ما هو نوع الجدول الذي لا يُعد جزءاً من Dataverse؟
     choices:
-    - content: القياسية
+    - content: القياسي
       isCorrect: false
       explanation: تُعد الجداول القياسية والمعقدة والمقيدة هي كافة أنواع الجداول فِي Dataverse.
     - content: ‏‏المعقدة
@@ -39,11 +38,11 @@ quiz:
     choices:
     - content: يمكن للعملاء إضافة جداول مقيدة إلَى Dataverse.
       isCorrect: true
-      explanation: لا يمكن للعملاء إضافة جداول مقيدة إلَى Dataverse، لذلك هذا خطأ بالفعل.
+      explanation: لا يمكن للعملاء إضافة جداول مقيدة إلَى Dataverse، لذلك يعدُّ هذا خطأ بالفعل.
     - content: تُخزن الجداول المقيدة بيانات التكوين الخاصة بالمنتج وتحافظ عليها لمنتجات Dynamics 365 التي لا تُستخدم عادةً خارج تطبيق Dynamics.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
-    - content: يكون الجدول المقيد مصحوباً بمنطق متقدم يقوم بإنشاء البيانات والحفاظ عليها بطريقة معينة عند استخدامها فِي منتج Dynamics 365.
+    - content: يكون الجدول المقيد مصحوباً بمنطق متقدم يقوم بإنشاء البيانات والحفاظ عليها بطريقة معينة عند استخدامها ضِمن منتج Dynamics 365.
       isCorrect: false
       explanation: تُعد هذه العبارة صحيحة بشأن الجداول المقيدة.
     - content: تتطلب الجداول المقيدة ترخيص منتج Dynamics 365 معين أو خطة Dynamics 365.

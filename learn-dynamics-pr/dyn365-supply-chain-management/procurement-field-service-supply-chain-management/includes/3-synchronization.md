@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d68d740ee0124d39dc8b37fdcf827cc51f188e13
-ms.sourcegitcommit: 971396efb8e68a74511ae8ca417a67c4d9cef8ff
+ms.openlocfilehash: 21b03feb6c7cd4a6682888eb70b972fd2cd2df5c
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "7599859"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596554"
 ---
 يجب مزامنة البيانات المرجعية بين Supply Chain Management وDataverse لإنشاء أوامر شراء جديدة وللعمل مع أوامر الشراء الحالية. لتحديد الجداول التي يجب تمكينها لخريطة معينه، يمكنك استخدام وظيفة الكتابة الأولية للكشف عن علاقات الجداول وتحديد الجداول التي يجب تمكينها.
 استخدم مساحة عمل **إدارة البيانات** لتكوين الكتابة المزدوجة. 
@@ -20,17 +20,17 @@ ms.locfileid: "7599859"
   - المنتجات المميزة الصادرة‬ من Dataverse
 
     > [!div class="mx-imgBorder"]
-    > [![لقطه شاشه Finance and Operationsلكل من علامة التبويب تفاصيل الصفحة لكافة المنتجات مزدوجة الكتابة.](../media/products.png)](../media/products.png#lightbox)
+    > [![لقطه شاشه لكل من علامة تبويب تفاصيل الصفحة لكافة المنتجات مزدوجة الكتابة للتمويل والعمليات.](../media/products.png)](../media/products.png#lightbox)
 
 - **المواقع**
 
     > [!div class="mx-imgBorder"]
-    > [![لقطه شاشه Finance and Operationsلكل من علامة التبويب تفاصيل الصفحة والمواقع مزدوجة الكتابة.](../media/sites.png)](../media/sites.png#lightbox)
+    > [![لقطه شاشه لعلامة تبويب تفاصيل الصفحة للمواقع مزدوجة الكتابة للتمويل والعمليات.](../media/sites.png)](../media/sites.png#lightbox)
 
 - **المستودعات**
 
     > [!div class="mx-imgBorder"]
-    > [![لقطه شاشه Finance and Operationsلكل من علامة التبويب تفاصيل الصفحة والمستودع مزدوج الكتابة.](../media/warehouses.png)](../media/warehouses.png#lightbox)
+    > [![لقطه شاشه لعلامة تبويب تفاصيل الصفحة للمستودعات مزدوجة الكتابة للتمويل والعمليات.](../media/warehouses.png)](../media/warehouses.png#lightbox)
 
 - **قوالب فئة التدبير** - تتضمن الأمثلة علي هذه القوالب:
 
@@ -45,22 +45,22 @@ ms.locfileid: "7599859"
 - **قوالب الموردين**، مثل المورد V2
 
     > [!div class="mx-imgBorder"]
-    > [![لقطه شاشه Finance and Operationsلكل من علامة التبويب تفاصيل الصفحة وموردي V2 مزدوجي الكتابة.](../media/vendors.png)](../media/vendors.png#lightbox)
+    > [![لقطه شاشه لعلامة تبويب تفاصيل الصفحة لبائعي V2 مزدوجي الكتابة للتمويل والعمليات.](../media/vendors.png)](../media/vendors.png#lightbox)
 
-- **قوالب شخص جهة الاتصال**، مثل جات اتصال CDS V2
+- **قوالب شخص جهة الاتصال**، مثل جهات اتصال CDS V2
 
     > [!div class="mx-imgBorder"]
-    > [![لقطه شاشه Finance and Operationsلكل من علامة التبويب تفاصيل الصفحة وجهات اتصال CDS V2 مزدوجة الكتابة.](../media/contact.png)](../media/contact.png#lightbox)
+    > [![لقطه شاشه لعلامة تبويب تفاصيل الصفحة ‏‫لجهات اتصال CDS V2‬ المزدوجة الكتابة للتمويل والعمليات.](../media/contact.png)](../media/contact.png#lightbox)
 
 - **قوالب العاملين**، مثل العامل
 
     > [!div class="mx-imgBorder"]
-    > [![لقطه شاشه Finance and Operationsلكل من علامة التبويب تفاصيل الصفحة والعامل مزدوج الكتابة.](../media/worker.png)](../media/worker.png#lightbox)
+    > [![لقطه شاشه لعلامة تبويب تفاصيل الصفحة للعاملين مزدوجي الكتابة للتمويل والعمليات.](../media/worker.png)](../media/worker.png#lightbox)
 
 تتم مزامنة الجداول لضمان توفر كافة مستندات Supply Chain Management (أوامر الشراء وإيصالات استلام المنتجات) في Dataverse. فيما يلي مثال علي الجداول التي تحتاج إلى تزامن.
 
 > [!div class="mx-imgBorder"]
-> [![لقطة شاشة  Finance and Operations للصفحة مزدوجة الكتابة.](../media/synced-tables.png)](../media/synced-tables.png#lightbox)
+> [![لقطة شاشة لصفحة مزدوجة الكتابة للتمويل والعمليات.](../media/synced-tables.png)](../media/synced-tables.png#lightbox)
 
 ## <a name="account-and-vendor-tables"></a>جداول الحساب والمورد
 

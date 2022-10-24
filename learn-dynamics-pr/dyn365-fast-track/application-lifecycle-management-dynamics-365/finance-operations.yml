@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.application-lifecycle-management-dynamics-365.finance-operations
+title: بيئات تطبيقات التمويل والعمليات.
+metadata:
+  title: بيئات تطبيقات التمويل والعمليات.
+  description: 'في تطبيقات التمويل والعمليات، ستحتاج إلى مراعاة اعتبارات أخرى عند إعداد البيئات:'
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b3827cd7a2c5c91f3d0750416ba72e307fdc840d
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623390"
+durationInMinutes: 8
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/finance-operations.md)]"

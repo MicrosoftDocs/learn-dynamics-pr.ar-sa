@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn-dynamics.application-lifecycle-management-dynamics-365
+metadata:
+  title: إدارة دورة حياة البرنامج في Dynamics 365
+  description: إستراتيجية ALM (إدارة دورة حياة البرنامج) هي مكان توفير الإرشادات والدعم للفريق الذي يقوم بتوزيع تطبيقات Dynamics 365.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 3c59902f561b0364c63438c0e9754e1a68729dc7
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623257"
+title: إدارة دورة حياة البرنامج في Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nأثناء العمل كجزء من فريق المشروع، ستشارك في عملية إدارة دورة حياة البرنامج (ALM) التي تم تأسيسها للفريق. إستراتيجية ALM هي مكان توفير الإرشادات والدعم للفريق الذي يقوم بتوزيع تطبيقات Dynamics 365. ALM غير محددة لـ Dynamics 365؛ تم اعتمادها للاستخدام من ممارسات تطوير البرامج التقليدية. بصفتك عضواً في الفريق، لن تقوم بتحديد عملية ALM، ولكنها ستؤثر على كيفية عملك في المشروع. إن معرفة بعض أساسيات ALM يمكن أن يساعدك في أن تكون عضو فريق أكثر فعالية.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف كيفية تطبيق ALM على مشاريع Dynamics 365.\n-   تعرف على كيفية المشاركة في عمليات ALM.\n-   تصور كيفية استخدام أنواع مختلفة من البيئات لـ ALM. \n"
+prerequisites: "- الفهم الأساسي لتطبيقات Dynamics 365\n-   المعرفة الأساسية بتطبيق Microsoft Power Platform \n"
+iconUrl: /learn/achievements/application-lifecycle-management-dynamics-365.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- student
+- maker
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.application-lifecycle-management-dynamics-365.introduction
+- learn-dynamics.application-lifecycle-management-dynamics-365.common-app-lifecycle-concept
+- learn-dynamics.application-lifecycle-management-dynamics-365.your-role-app-lifecycle
+- learn-dynamics.application-lifecycle-management-dynamics-365.customer-engagement
+- learn-dynamics.application-lifecycle-management-dynamics-365.finance-operations
+- learn-dynamics.application-lifecycle-management-dynamics-365.business-central-environments
+- learn-dynamics.application-lifecycle-management-dynamics-365.continuous-integration
+- learn-dynamics.application-lifecycle-management-dynamics-365.assignment
+- learn-dynamics.application-lifecycle-management-dynamics-365.check
+- learn-dynamics.application-lifecycle-management-dynamics-365.summary
+badge:
+  uid: learn-dynamics.application-lifecycle-management-dynamics-365.badge

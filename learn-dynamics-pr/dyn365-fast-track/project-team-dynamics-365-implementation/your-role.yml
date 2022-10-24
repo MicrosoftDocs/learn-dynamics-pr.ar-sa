@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.project-team-dynamics-365-implementation.your-role
+title: دورك في مشروع
+metadata:
+  title: دورك في مشروع
+  description: تعرف على كيف يمكنك أن تكون مشاركاً نشطاً في فريق الإنشاء، وإجراء التخصيصات على النظام من المتطلبات التي ساعدت في جمعها وتوثيقها.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 50cab0fdf88f66ff6b7d65bf43b74a321233e1b0
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612442"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/your-role.md)]"

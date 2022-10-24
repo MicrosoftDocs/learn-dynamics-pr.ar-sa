@@ -8,12 +8,13 @@ metadata:
   ms.author: kschimke
   ms.topic: interactive-tutorial
   ms.custom: intro-internal
-  ms.openlocfilehash: 0580906769f5bfbe69937bf3643034c202c0c678
-  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+  ms.service: dynamics-365-remote-assist
+  ms.openlocfilehash: d4a98c214088b82bac6f22a74c91ea9b2c18ead3
+  ms.sourcegitcommit: 42b46af96c8fe9ce15fe96abaa00f8a574b4ee02
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "9511973"
+  ms.lasthandoff: 09/28/2022
+  ms.locfileid: "9595845"
 title: بدء الاستخدام مع إجراء مكالمات Remote Assist
 summary: "[!include[](../includes/module-banner.md)] \nتعرّف على ميزات Remote Assist وكيف تُساعد الفنيين في حل المشكلات بسرعة. \n"
 abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على المستخدمين والأدوار.\n- اكتشف خيارات الجهاز المختلفة.\n"

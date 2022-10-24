@@ -4,17 +4,17 @@ title: تدفق البيانات وتكامل Azure‬‏‫
 metadata:
   title: تدفق البيانات وتكامل Azure‬‏‫
   description: تعرّف على تدفقات البيانات وتكامل Azure‬‏‫.
-  ms.date: 10/01/2021
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 15207c8fbdce01445a98d29ca500049cbe991c38
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: eee8a792c8639a361fef61c640d87e3815a947fc
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425515"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624883"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

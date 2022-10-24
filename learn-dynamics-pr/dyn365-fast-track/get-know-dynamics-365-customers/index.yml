@@ -1,0 +1,77 @@
+### YamlMime:Module
+uid: learn-dynamics.get-know-dynamics-365-customers
+metadata:
+  title: تعرف على عملاء Dynamics 365 الخاصين بك
+  description: تعرف على كيفية التعرف على عملائك ومجالاتهم، واستخدام مخططاً والحصول على شهادات.
+  ms.date: 09/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b36a4716dec99423dcdd89483a802d178a186f6f
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623282"
+title: تعرف على عملاء Dynamics 365 الخاصين بك
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  تعرف على كيفية أن تكون مستشاراً وظيفياً فعالاً في مشروع Dynamics 365 من خلال التعرف على عميلك. من مشروع إلى آخر، قد تختلف جهة الاتصال المباشرة بالعملاء والطريقة التي تستخدمها الشركة لتنظيم فرق العمل في المشاريع. تصف هذه الوحدة المهارات والتقنيات التي يمكن تطبيقها لتكون أكثر فعالية من خلال التفاعل بشكل مباشر أو غير مباشر مع العميل.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - اكتشاف عدة طرق لمعرفة عملائك ومجالاتهم.
+
+  - التعرف على كيفية مساعدة المخطط في إعطاء رؤية لمشروع ما.
+
+  - الحصول على شهادات من المتخصصين في هذا المجال حول تجاربهم مع العملاء.
+prerequisites: >
+  هذه هي المتطلبات الأساسية للنجاح مع هذه الوحدة:
+
+  - الفهم الأساسي للبرامج واحتياجات الأعمال التلقائية
+
+  - التعرف على أساسيات المسار التعليمي لمشاريع Dynamics 365
+
+  - المعرفة الأساسية للوظيفة وقيمة تطبيقات Dynamics 365 والأعمال
+    - [Microsoft Dynamics ‏365 Fundamentals ‏(ERP)](/certifications/exams/mb-920/?azure-portal=true)
+    - [Microsoft Dynamics ‏365 Fundamentals ‏(CRM)](/certifications/exams/mb-910/?azure-portal=true)
+    - [الشروع في العمل باستخدام Microsoft Dynamics 365 Business Central](/learn/paths/get-started-dynamics-365-business-central/?azure-portal=true)
+iconUrl: /learn/achievements/get-know-dynamics-365-customers.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- functional-consultant
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.get-know-dynamics-365-customers.introduction
+- learn-dynamics.get-know-dynamics-365-customers.basic-company-information
+- learn-dynamics.get-know-dynamics-365-customers.talk-talk
+- learn-dynamics.get-know-dynamics-365-customers.listen
+- learn-dynamics.get-know-dynamics-365-customers.ask-good-questions
+- learn-dynamics.get-know-dynamics-365-customers.make-roadmap
+- learn-dynamics.get-know-dynamics-365-customers.assignment
+- learn-dynamics.get-know-dynamics-365-customers.check
+- learn-dynamics.get-know-dynamics-365-customers.summary
+badge:
+  uid: learn-dynamics.get-know-dynamics-365-customers.badge

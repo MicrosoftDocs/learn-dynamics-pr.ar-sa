@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.determine-implementation-approach-dynamics-365.lifecycle-services
+title: Lifecycle Services
+metadata:
+  title: Lifecycle Services
+  description: إن Lifecycle Services عبارة عن مساحة عمل تعاونية مستندة إلى المجموعة، حيث يتم تخزين جميع المعلومات الأساسية حول المشروع.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4a80de9b67218befd098c9fbc1fcb7a0c482c00b
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612562"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/lifecycle-services.md)]"

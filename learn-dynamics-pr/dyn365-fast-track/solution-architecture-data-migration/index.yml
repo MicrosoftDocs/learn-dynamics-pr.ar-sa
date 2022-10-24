@@ -3,23 +3,23 @@ uid: learn-dynamics.solution-architecture-data-migration
 metadata:
   title: أفضل ممارسات بنية حلول Dynamics 365 لترحيل البيانات
   description: تعرّف على كيفية كون ترحيل البيانات جزءاً أساسياً من أي تطبيق.
-  ms.date: 04/18/2022
+  ms.date: 09/29/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 278b3bc41d8b660b3bd5bfc4f27ee86487ae3347
-  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+  ms.openlocfilehash: a204fdb95dec5cc4553a21551311fdebe10888fe
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2022
-  ms.locfileid: "9578428"
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612094"
 title: أفضل ممارسات بنية حلول Dynamics 365 لترحيل البيانات
 summary: "[!include[](../includes/module-banner.md)] \nيُعد ترحيل البيانات جزءاً أساسياً من أي تطبيق. اتبع أفضل الممارسات (الأنماط) الموضحة في هذه الوحدة وتجنب الصعوبات الشائعة (الأنماط المضادة). \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف أفضل ممارسات ترحيل البيانات ونفذها عندما تواجه متطلبات مماثلة.\n- تعرّف على سوء الفهم الشائع والممارسات السيئة حتى تتمكن من تجنبها عند مواجهة متطلبات مماثلة.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- اكتشف أفضل ممارسات ترحيل البيانات ونفذها عندما تواجه متطلبات مماثلة.\n- تعرّف على المفاهيم المغلوطة الشائعة والممارسات السيئة حتى تتمكن من تجنبها عند مواجهة متطلبات مماثلة.\n"
 prerequisites: >
-  - المعرفة بإطار عمل إدارة البيانات في تطبيقات التمويل والعمليات
+  - المعرفة بإطار عمل إدارة البيانات (DMF) في تطبيقات التمويل والعمليات
 
-  - معرفة المستشار الوظيفي والمطور
+  - الفهم الوظيفي والمعرفة التقنية
 
   - معرفة التقنيات الخاصة بترحيل البيانات وتحويل البيانات
 iconUrl: /training/achievements/solution-architecture-data-migration.svg

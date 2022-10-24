@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn-dynamics.determine-implementation-approach-dynamics-365
+metadata:
+  title: تحديد نهج التنفيذ لمشروع Dynamics 365 الخاص بك
+  description: وتقوم هذه الوحدة باستكشاف الميزات التي يوفرها منهج التنفيذ والأنواع الشائعة التي يتم استخدامها لمشاريع Dynamics 365.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 0b36c5e0a2f2801162a50cf9bef929143833d4c9
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623281"
+title: تحديد نهج التنفيذ لمشروع Dynamics 365 الخاص بك
+summary: "[!include[](../includes/module-banner.md)] \nيُعد اعتماد نهج تنفيذ وتطبيقه على مشروع Dynamics 365 أمراً مهماً لتوجيه المشروع إلى نشر ناجح. وتقوم هذه الوحدة باستكشاف الميزات التي يوفرها منهج التنفيذ والأنواع الشائعة التي يتم استخدامها لمشاريع Dynamics 365.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على أهمية تطبيق نهج التنفيذ.\n-   اكتشف الأنواع الشائعة لمناهج التنفيذ المستخدمة في مشاريع Dynamics 365.\n-   استكشاف مناهج التنفيذ المختلفة لتطبيقات Dynamics 365 المختلفة\n"
+prerequisites: >
+  - فهم أساسي لتصميم تطبيقات الأعمال
+
+  -   المعرفة الأساسية بتطبيقات Dynamics 365
+iconUrl: /learn/achievements/determine-implementation-approach-dynamics-365.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- student
+- functional-consultant
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.determine-implementation-approach-dynamics-365.introduction
+- learn-dynamics.determine-implementation-approach-dynamics-365.project-methodology
+- learn-dynamics.determine-implementation-approach-dynamics-365.project-phases
+- learn-dynamics.determine-implementation-approach-dynamics-365.lifecycle-services
+- learn-dynamics.determine-implementation-approach-dynamics-365.assignment
+- learn-dynamics.determine-implementation-approach-dynamics-365.check
+- learn-dynamics.determine-implementation-approach-dynamics-365.summary
+badge:
+  uid: learn-dynamics.determine-implementation-approach-dynamics-365.badge

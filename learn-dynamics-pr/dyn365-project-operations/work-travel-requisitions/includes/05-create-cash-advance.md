@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a32511b7a19fe5b2b785c54fa1e5c498d5556c40e736857d6fc1674ad71a5d9f
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 4de5fa78f6ec3f8f71e02262a293cb416d5ce28f
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7114718"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596920"
 ---
 يتم تقديم السلفة النقدية للمصروفات المحتملة التي يتحملها الموظف قبل سفره لتغطية تكاليف السفر المقدَّرة. تسمح السُلف النقدية للشركات بالبقاء داخل حدود الموازنة وتقليل العبء المالي للعاملين ممن قد لا يمكنهم تحمُل مصروفات السداد في وقت لاحق.
 
@@ -23,4 +23,4 @@ ms.locfileid: "7114718"
 6.  في الحقل **المبلغ**، أدخِل مبلغ الأموال الذي تطلبه.
 7.  حدد **حفظ**. قد تحتوي بعض الشركات على سير عمل للسُلف النقدية، ولكنها ليست مطلوبة بشكل منتظم.
 
-[![لقطة شاشة من Finance and Operations الصفحة "السُلف النقدية".](../media/create-cash-advance-ss.png)](../media/create-cash-advance-ss.png#lightbox)
+[![لقطة شاشة لصفحة السُلف النقدية الخاصة بالتمويل والعمليات.](../media/create-cash-advance-ss.png)](../media/create-cash-advance-ss.png#lightbox)

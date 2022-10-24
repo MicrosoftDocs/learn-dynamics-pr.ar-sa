@@ -3,18 +3,18 @@ uid: learn-dynamics.create-manage-fields-within-entity.9-check
 metadata:
   title: إنشاء الأعمدة وإدارتها ضمن فحص المعلومات بالجدول
   description: أجب عن الأسئلة التالية للوقوف على ما تعلمته‬.
-  ms.date: 07/08/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: c81197b3583f7a045ad77577570e24c6abd51d4b
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: ccc312653a8fa302320e0f2cfaecccc48d3b4643
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425275"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624993"
 title: اختبر معلوماتك
 durationInMinutes: 6
 quiz:
@@ -45,17 +45,17 @@ quiz:
     - content: المفتاح الأساسي لجدول ما هو GUID، وبالرغم من كونه عديم القيمة للمستخدمين، يمكن لمفتاح بديل المساعدة فِي التعرف على المفتاح.
       isCorrect: false
       explanation: تحسن المفاتيح البديلة أداء قاعدة البيانات والعمل باستخدام البيانات.
-  - content: كيف تجعل العمود مطلوباً؟
+  - content: كيف تصنع عموداً مطلوباً؟
     choices:
-    - content: حذف الحقل من الجدول.
+    - content: احذف الحقل من الجدول.
       isCorrect: false
-      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلَى جدول.
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها أنت إلَى جدول.
     - content: إنشاء عمود جديد.
       isCorrect: false
-      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلَى جدول.
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها أنت إلَى جدول.
     - content: قم بتحرير العمود وتغيير القائمة المنسدلة المطلوبة.
       isCorrect: true
-      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلَى جدول.
-    - content: إضافة عمود إلَى جدول.
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها أنت إلَى جدول.
+    - content: إضافة عمود إلى جدول.
       isCorrect: false
-      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها إلَى جدول.
+      explanation: هناك قائمة منسدلة "مطلوبة" لكل عمود تضيفها أنت إلَى جدول.

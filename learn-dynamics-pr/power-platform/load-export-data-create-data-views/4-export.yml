@@ -4,17 +4,17 @@ title: تصدير البيانات من جدول
 metadata:
   title: تصدير البيانات من جدول
   description: تعرّف على كيفية تصدير البيانات من أحد الجداول.
-  ms.date: 02/28/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: fbe8fe67ee9aa9e0f5a27558ea777ab3f7377385
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 1ba3a947ab2d546961f7da2a85a462b667c74b60
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9426365"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624470"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

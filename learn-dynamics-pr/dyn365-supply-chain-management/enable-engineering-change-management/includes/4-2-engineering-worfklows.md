@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 2165dd4837b7678d77f8a119b407b5ba9875a70a
-ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+ms.openlocfilehash: f4b245457ec477a06b7a93e533cf1b6766f9b0af
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2022
-ms.locfileid: "9519171"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596644"
 ---
 يتم دعم إدارة التغيير الهندسي بشكل كامل من خلال مهام سير العمل المصممة خصيصاً لطلبات أوامر التغيير ومراجعات طلبات التغيير. يمكنك العثور على مهام سير العمل هذه بالانتقال إلَى **إدارة التغيير الهندسي > الإعداد > مهام سير العمل الهندسية**.
 
@@ -16,11 +16,11 @@ ms.locfileid: "9519171"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لنوعي سير العمل وعناصر سير العمل المتوفرة لكل منهما.](../media/workflow-options.png)](../media/workflow-options.png#lightbox)
 
-لمزيد من المعلومات، راجع [التعامل مع عمليات سير العمل فِي تطبيقات التمويل والعمليات](/training/modules/create-use-workflows-finance-operations/?azure-portal=true).
+لمزيد من المعلومات، راجع [التعامل مع تدفقات العمل فِي تطبيقات التمويل والعمليات](/training/modules/create-use-workflows-finance-operations/?azure-portal=true).
 
-## <a name="workflow-approvers"></a>الموافقون عَلى سير العمل
+## <a name="workflow-approvers"></a>الموافقون على سير العمل
 
-يمكنك إعداد حملة الأسهم كموافقين فِي مهام سير العمل الهندسية، مثل:
+يمكنك إعداد حملة الأسهم كموافقين في مهام سير العمل الهندسية، مثل:
 
 - **مالكو المنتج** - لمزيد من المعلومات حول مالكي المنتجات، راجع [مالكو المنتجات](/dynamics365/supply-chain/engineering-change-management/product-owner/?azure-portal=true).
 

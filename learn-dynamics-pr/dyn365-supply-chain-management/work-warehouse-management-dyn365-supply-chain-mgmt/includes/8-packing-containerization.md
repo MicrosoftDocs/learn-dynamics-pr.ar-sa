@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 471e59a37636644a3e15bf2bcca8624723decc45
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: f7e6b0a2d22fd6a53611f501af65b1a14f8559cf
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9404215"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596723"
 ---
 ## <a name="set-up-manual-packing"></a>إعداد التعبئة اليدوية
 
@@ -100,8 +100,8 @@ ms.locfileid: "9404215"
 
 - قالب فرز صادر فِي **إدارة المستودعات والمحاسبة > الإعداد > التعبئة** 
 
-- تم تحديد سياسة التعبئة فِي الحاويات فِي **الحاويات > سياسة التعبئة فِي الحاويات** مع **الموقع الافتراضي للفرز**.
+- تم تحديد سياسة تعبئة الحاويات فِي **الحاويات > سياسة التعبئة فِي الحاويات** مع **الموقع الافتراضي للفرز**.
 
-    [![لقطة شاشة لصفحة سياسات تعبئة حاوية Finance and Operations.](../media/container-packing-policy-ssm.png)](../media/container-packing-policy-ssm.png#lightbox)
+    [![لقطة شاشة لصفحة سياسات تعبئة حاوية التمويل والعمليات.](../media/container-packing-policy-ssm.png)](../media/container-packing-policy-ssm.png#lightbox)
 
-- تعيين موضع الفرز الصادر ضمن **التعبئة والتعبئة فِي الحاويات**
+- تعيين موضع الفرز الصادر ضمن **الحزم والتعبئة فِي الحاويات**

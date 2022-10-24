@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.design-dynamics-365-deployment.questions
+title: الأسئلة
+metadata:
+  title: الأسئلة
+  description: أسئلة يجب طرحها للتعرف على احتياجات عميلك.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: b3204bf520198d0c72be41f12cd601da8df56559
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9619455"
+durationInMinutes: 12
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/questions.md)]"

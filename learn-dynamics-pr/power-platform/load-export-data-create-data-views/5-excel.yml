@@ -4,17 +4,17 @@ title: إضافة البيانات الموجودة فِي جدول باستخد
 metadata:
   title: إضافة البيانات الموجودة فِي جدول باستخدام Excel أو تحديثها أو حذفها
   description: تعرّف على كيفية إضافة البيانات الموجودة فِي جدول أو تحديثها أو حذفها باستخدام Microsoft Excel.
-  ms.date: 02/28/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 9ec9a904aab170f3b720e6279ef343b897d3dc8a
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 28fddf543d219776bc83436cd12a92db29998207
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425535"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624452"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

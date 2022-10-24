@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.evaluate-requirements-dynamics-365-projects.map-requirements
+title: تعيين المتطلبات
+metadata:
+  title: تعيين المتطلبات
+  description: تعرف على كيفية تعيين المتطلبات لإمكانات تطبيق Dynamics 365.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 371bc14ff8604815959dcac7725e92162810467d
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9619407"
+durationInMinutes: 10
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/map-requirements.md)]

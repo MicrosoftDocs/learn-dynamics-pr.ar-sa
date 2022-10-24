@@ -3,16 +3,16 @@ uid: learn-dynamics.deploy-project-operations.3-resource-non-stocked
 title: Project Operations لسيناريوهات الموارد أو غير المخزنة
 metadata:
   title: Project Operations لسيناريوهات الموارد أو غير المخزنة
-  description: تعلم كيفية نشر Project Operations بدون Finance and Operations وMicrosoft Dynamics 365 Customer Engagement تطبيقات.
+  description: تعرف على كيفيه نشر Project Operations بدون تطبيقات التمويل والعمليات وتطبيقات Microsoft Dynamics 365 Customer Engagement.
   ms.date: 06/14/2021
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 823b86e79090c496578dc6d8a3576a393c7ece10
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: de2eac56e8a6f24f3cd811b487ca44fae0d18f3e
+  ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7350466"
+  ms.lasthandoff: 09/28/2022
+  ms.locfileid: "9596624"
 durationInMinutes: 23
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/3-resource-non-stocked.md)]"

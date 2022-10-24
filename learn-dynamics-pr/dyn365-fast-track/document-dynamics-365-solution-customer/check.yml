@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.document-dynamics-365-solution-customer.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 72b6daa4dfd033c9e4a60b8152ca647bc3e0707d
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9619439"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: أيّ من المكونات التالية تجب إزالته من وثائق النظام النهائية؟
+    choices:
+    - content: المتطلبات الوظيفية التي تم تنفيذها
+      isCorrect: false
+      explanation: ‏‫غير صحيح. لأن المستندات النهائية يجب أن توضح بالضبط كيف تم إنشاء النظام، من الجيد تضمين المتطلبات الوظيفية التي تم تنفيذها.
+    - content: متطلبات الأداء التي تم اختبارها
+      isCorrect: false
+      explanation: غير صحيح. من الجيد تضمين متطلبات الأداء التي تم اختبارها لأن المستندات النهائية يجب أن تعكس دائمًا النظام كما تم إنشاؤه.
+    - content: المتطلبات الوظيفية التي لم يتم تنفيذها مطلقًا
+      isCorrect: true
+      explanation: صحيح. يجب أن تعكس المستندات النهائية دائمًا النظام كما تم إنشاؤه.
+  - content: أيّ من الخيارات التالية ليس نوعًا شائعًا من الوثائق التي قد تنتجها لمشروع Dynamics 365؟
+    choices:
+    - content: وثائق المستخدم
+      isCorrect: false
+      explanation: غير صحيح. وثائق المستخدم هي وثائق شائعة قد تنتجها.
+    - content: وثائق تطبيق Microsoft Dynamics 365
+      isCorrect: true
+      explanation: صحيح. لا تحتاج إلَى إنتاج وثائق تطبيق Dynamics 365 لأنها متاحة للجمهور عَلى learn.microsoft.com.
+    - content: توثيق النظام
+      isCorrect: false
+      explanation: غير صحيح. وثائق النظام الخاصة بحلك هي وثائق شائعة قد تنتجها.
+  - content: أيّ من الأساليب التالية سيكون أفضل للاستخدام إذا كنت تريد أن توثق للمستخدمين كيفية استخدام عملية الأعمال التي قمت بتنفيذها؟
+    choices:
+    - content: فيديو قصير يوضح كيفية إتمام العملية
+      isCorrect: true
+      explanation: صحيح. سيوضح مقطع فيديو قصير كيف كنت تنوي استخدام هذه العملية.
+    - content: لقطة شاشة لمصمم تدفق إجراءات العمل
+      isCorrect: false
+      explanation: غير صحيح. قد يكون هذا الأسلوب مناسبًا لجمهور تقني ولكن ليس للمستخدمين.
+    - content: وثيقة مع وصف كل خطوة
+      isCorrect: false
+      explanation: غير صحيح. لن يساعدهم هذا المستند في معرفة كيفية استخدام هذه العملية.

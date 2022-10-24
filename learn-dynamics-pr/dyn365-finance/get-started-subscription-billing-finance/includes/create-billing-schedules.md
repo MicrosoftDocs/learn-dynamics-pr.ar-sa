@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dcbe547163424d1736d721fd979d4f76cad6ed6e
-ms.sourcegitcommit: cab4ff39b861c29a6fabfe0344646a06ad9482fc
+ms.openlocfilehash: abe7285150eebf71a98e95502b33df40fc208a35
+ms.sourcegitcommit: 328e62aa0c8e2873cbd813483692e394a5d4da51
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "9179016"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "9644434"
 ---
 يمنحك Finance الفرصة لفصل فوترة العقود المتكررة إلى مجموعات، والتي تطبق القيم الافتراضية للمجموعة تلقائياً. تساعد هذه الميزة في تسهيل عملية إعداد جدولة فوترة جديد، ويمكنك ضبط القيم الافتراضية إذا رغبت في ذلك.
 
@@ -85,5 +85,3 @@ ms.locfileid: "9179016"
 
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لسطر الإضافة ضمن علامة التبويب سريع.](../media/fast-tab.png)](../media/fast-tab.png#lightbox)
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE51vj1]

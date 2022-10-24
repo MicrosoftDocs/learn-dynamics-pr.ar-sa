@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 177f5b9d40ca2cdde25be5d7b1260f967fef4fd8
-ms.sourcegitcommit: 7301a88a9d669770be83ee33acd00b0025a7a728
+ms.openlocfilehash: 826bba11f40710394cee0347be0bf27abd56e11d
+ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2022
-ms.locfileid: "9231439"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "9639305"
 ---
 غالباً ما تفضل المؤسسات إنشاء الحالات تلقائياً في حالات محددة. على سبيل المثال، قد يكون لدى مؤسستك اسم مستعار للبريد الإلكتروني مثل `support@microsoft.com` الذي تستخدمه لطلبات الدعم. بالنسبة لأي طلبات بريد إلكتروني يتم إرسالها إلى هذا الاسم المستعار، يجب إنشاء الحالات تلقائياً في Microsoft Dynamics 365 وربطها بالعميل الذي أرسل الرسالة الإلكترونية.
 
@@ -96,9 +96,6 @@ ms.locfileid: "9231439"
 > [!div class="mx-imgBorder"]
 > [![لقطة شاشة لعناصر القاعدة مع خياري التحريك لأعلى والتحريك لأسفل للقواعد.](../media/cm_unit3_5.png)](../media/cm_unit3_5.png#lightbox)
 
-
 بعد تنشيط قاعدة، تبدأ في تعريف الحالات لأنشطة الرسالة الإلكترونية التي يتم إرسالها إلى قائمة انتظار معينة.
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2IOG5]
 
 لمزيد من المعلومات حول إنشاء السجل تلقائياً وتحديث القواعد، راجع [إعداد القواعد لإنشاء السجلات أو تحديثها تلقائياً](/dynamics365/customer-engagement/customer-service/set-up-rules-to-automatically-create-or-update-records).

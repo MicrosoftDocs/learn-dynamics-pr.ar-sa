@@ -1,23 +1,24 @@
 ---
-ms.openlocfilehash: 764a620e1a79c09455125cb0636baac0989d4175
-ms.sourcegitcommit: 42a0faa4dc64a860f6457449b0792257c2254757
+ms.openlocfilehash: e04c2bf7229eb517acb21201c81590adae89b113
+ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/23/2022
-ms.locfileid: "9584059"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "9639362"
 ---
-تُعد [وثائق تطبيق التمويل والعمليات](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) في Microsoft Learn هو المصدر الأساسي لمساعدة المنتج لتطبيقات التمويل والعمليات.
+تُعد [وثائق تطبيق التمويل والعمليات](/dynamics365/fin-ops-core/fin-ops/?azure-portal=true) في Microsoft Learn هي المصدر الأساسي لمساعدة المنتج لتطبيقات التمويل والعمليات.
 
-يوفر Microsoft Learn:
+توفر وثائق Microsoft Learn:
 
 - مجموعة غنية من موضوعات تعليمات المنتجات التي يمكن تحسينها بواسطة أعضاء المجتمع داخل Microsoft وخارجها.
 - طريقة سريعة للوصول إلى أنواع مختلفة من المحتوى حول النظام، بما في ذلك الموضوعات ومقاطع الفيديو.
 
-موقع ويب Microsoft Learn عام تماماً، ولا يتطلب تسجيل الدخول البحث عنه. يمكنك استخدام محرك البحث المفضل للبحث عن المحتوى.
+موقع ويب وثائق Microsoft Learn عام تماماً، ولا يتطلب تسجيل الدخول للبحث فيه. يمكنك استخدام محرك البحث المفضل للبحث عن المحتوى.
 
-في ما يلي مثال لمقالة Microsoft Learn حول lean manufacturing:
+فيما يلي مثال لمقالة وثائق Microsoft Learn حول التصنيع الخالي من الهدر:
 
-[![لقطة شاشة تُظهر مثالاً عن سير عمل في مقالة Microsoft Learn.](../media/docs-site.png)](../media/docs-site.png#lightbox)
+> [!div class="mx-imgBorder"]
+> [![لقطة شاشة تُظهر مثالاً عن سير عمل في مقالة وثائق Microsoft Learn.](../media/docs-site.png)](../media/docs-site.png#lightbox)
 
 إذا كان لديك اقتراح حول الوثائق، فنحن نرحب بك لتسجيل الدخول لترك تعليقات لنا. يمكنك حتى تحرير الوثائق بنفسك.
 

@@ -1,18 +1,18 @@
 ### YamlMime:ModuleUnit
 uid: learn-dynamics.get-started-sales-mobile-app.configure-push-notifications
-title: تكوين الإعلامات المؤقتة
+title: إعداد الإعلامات المؤقتة
 metadata:
-  title: تعرف على كيفية تكوين الإعلامات المؤقتة.
-  description: تكوين الإعلامات المؤقتة
+  title: إعداد الإعلامات المؤقتة
+  description: تعرف على كيفية إعداد الإعلامات المؤقتة.
   ms.date: 09/20/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0ec7ab8b3fda0c3e82fceef6022273987bb9e330
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: 0145632c1001e3905a7b977c0d7234dff8d9e742
+  ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567434"
+  ms.lasthandoff: 10/07/2022
+  ms.locfileid: "9639076"
 durationInMinutes: 10
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/configure-push-notifications.md)]"

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.get-know-dynamics-365-customers.check
+title: اختبر معلوماتك
+metadata:
+  title: اختبر معلوماتك
+  description: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  ms.date: 09/30/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 527dda6d3f424fdffba7a01d66923f63539e22f2
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612480"
+durationInMinutes: 6
+quiz:
+  title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
+  questions:
+  - content: تحتاج المؤسسة إلَى تعزيز النماذج المالية والتشغيلية للتكيف بشكل أسرع، والعمل بشكل أكثر ذكاءً، والأداء بشكل أفضل. ما هو منتج Dynamics 365 الذي سيمكّن هذا الهدف؟
+    choices:
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: false
+      explanation: غير صحيح. Dynamics 365 Supply Chain Management يسمح للمؤسسات بإنشاء سلسلة إمداد ذكية وقابلة للتكيف وإنشاء رؤى قابلة للتنفيذ لزيادة الكفاءة وزيادة الإنتاجية.
+    - content: Dynamics 365 Sales
+      isCorrect: false
+      explanation: غير صحيح. يستخدم Dynamics 365 Sales الرؤى المستندة إلَى الذكاء الاصطناعي لتسريع نمو الإيرادات من خلال حل تعاوني ورقمي لمشاركة المبيعات.
+    - content: Dynamics 365 Finance
+      isCorrect: true
+      explanation: صحيح. يمكّنك Dynamics 365 Finance من إعادة تصور نماذج التشغيل المالية والتجارية للاستعداد والاستجابة والازدهار في مواجهة الاضطراب.
+  - content: ما هي ملاحظات إصدار Microsoft؟
+    choices:
+    - content: قائمة طلبات الميزات المقبولة
+      isCorrect: false
+      explanation: غير صحيح. تنشر Microsoft ملاحظات الإصدار مع تفاصيل التغييرات القادمة لمكونات Dynamics 365 وMicrosoft Power Platform. من خلال الإلمام بهذه التغييرات، يمكنك المساعدة في تحديد ما قد يكون ذا صلة بحل عميلك. في بعض الحالات، يمكنك تأجيل إنشاء حل مخصص قليلاً ثم الانتظار حتى يتم إصدار الميزة الموجودة في خارطة طريق Microsoft.
+    - content: إصدارات مرتين في العام تعرض بالتفصيل التغييرات القادمة لمكونات Dynamics 365 وMicrosoft Power Platform
+      isCorrect: true
+      explanation: صحيح. تنشر Microsoft ملاحظات الإصدار مع تفاصيل التغييرات القادمة لمكونات Dynamics 365 وMicrosoft Power Platform. من خلال الإلمام بهذه التغييرات، يمكنك المساعدة في تحديد ما قد يكون ذا صلة بحل عميلك. في بعض الحالات، يمكنك تأجيل إنشاء حل مخصص قليلاً ثم الانتظار حتى يتم إصدار الميزة الموجودة في خارطة طريق Microsoft.
+    - content: قائمة المستخدمين المطلوبة الميزات الجديدة
+      isCorrect: false
+      explanation: غير صحيح. تنشر Microsoft ملاحظات الإصدار مع تفاصيل التغييرات القادمة لمكونات Dynamics 365 وMicrosoft Power Platform. من خلال الإلمام بهذه التغييرات، يمكنك المساعدة في تحديد ما قد يكون ذا صلة بحل عميلك. في بعض الحالات، يمكنك تأجيل إنشاء حل مخصص قليلاً ثم الانتظار حتى يتم إصدار الميزة الموجودة في خارطة طريق Microsoft.
+    - content: تقارير ربع سنوية عن الميزات المهملة
+      isCorrect: false
+      explanation: غير صحيح. تنشر Microsoft ملاحظات الإصدار مع تفاصيل التغييرات القادمة لمكونات Dynamics 365 وMicrosoft Power Platform. من خلال الإلمام بهذه التغييرات، يمكنك المساعدة في تحديد ما قد يكون ذا صلة بحل عميلك. في بعض الحالات، يمكنك تأجيل إنشاء حل مخصص قليلاً ثم الانتظار حتى يتم إصدار الميزة الموجودة في خارطة طريق Microsoft.
+  - content: ماذا يعني إهمال ميزة؟
+    choices:
+    - content: يطلب العميل تعطيل الميزة
+      isCorrect: false
+      explanation: غير صحيح. تعلن Microsoft عن الإهمال لجميع مستخدمي التطبيق. إنه ليس شيئًا يمكن طلبه.
+    - content: تم اكتشاف خطأ في الوظيفة الأساسية
+      isCorrect: false
+      explanation: غير صحيح. تحدث الأخطاء في بعض الأحيان، ولكن الإهمال هو التقاعد المخطط لميزة مسماة.
+    - content: تم إيقاف الميزة ولن تكون متاحة بعد الآن
+      isCorrect: true
+      explanation: صحيح. من حين لآخر، مع تحديث المنتجات، لم تعد هناك حاجة لبعض الميزات ويتم الإعلان عنها عَلى أنها مهملة.

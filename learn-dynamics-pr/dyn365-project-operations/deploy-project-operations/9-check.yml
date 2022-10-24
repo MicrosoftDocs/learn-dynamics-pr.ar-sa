@@ -8,31 +8,31 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: dd957f144b41dbc4bef71943b37863e3f7634f01
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3021c5b6c5ed5a81b11977b8b9250d66f40eb1df
+  ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7359685"
+  ms.lasthandoff: 09/28/2022
+  ms.locfileid: "9596604"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
-  - content: إذا كانت شركتك تستخدم حالياً تطبيقات Customer Engagement وتطبيقات Finance and Operations، ما السيناريو الذي يجب استخدامه لنشر Project Operations؟
+  - content: إذا كانت شركتك تستخدم حالياً تطبيقات Customer Engagement وتطبيقات التمويل والعمليات، فما السيناريو الذي يجب استخدامه لنشر Project Operations؟
     choices:
     - content: Project Operations لأمر المنتجات المخزنة أو أمر الإنتاج
       isCorrect: false
-      explanation: يمكنك استخدام Project Operations لسيناريو أمر الإنتاج أو المنتجات المخزنة للسيناريوهات المستندة إلى المخزون مع تطبيقات Finance and Operations الموجودة فقط.
-    - content: نشر خفيف
+      explanation: يمكنك استخدام Project Operations لسيناريو أمر الإنتاج أو المنتجات المخزنة للسيناريوهات المستندة إلى المخزون مع تطبيقات التمويل والعمليات الموجودة فقط.
+    - content: النشر الخفيف
       isCorrect: false
       explanation: يمكنك استخدام سيناريو النشر الخفيف في المواقف مع Customer Engagement الموجود أو عند التكامل مع أنظمة تخطيط موارد المؤسسات (ERPs) من مصادر أخرى فقط.
     - content: Project Operations للمورد أو المنتجات غير المخزنة
       isCorrect: true
-      explanation: استخدم Project Operations لسيناريو الموارد أو المنتجات غير المخزنة للسيناريوهات المستندة إلى الموارد مع Customer Engagement الموجود وتطبيقات Finance and Operations.
+      explanation: استخدم Project Operations لسيناريو الموارد أو المنتجات غير المخزنة للسيناريوهات المستندة إلى الموارد مع تطبيقات Customer Engagement وتطبيقات التمويل والعمليات الموجودة فقط.
     - content: استبيان نشر Project Operations
       isCorrect: false
       explanation: استبيان نشر Project Operations هو الأداة المستخدمة لتحديد سيناريو النشر المطلوب استخدامه، اعتماداً على الإجابات المتوفرة.
-  - content: استخدمت شركتك استبيان نشر Project Operations. تم تحديد أنه يجب عليك استخدام سيناريو نشر خفيف لنشر Project Operations. لقد قمت بتثبيت التطبيق وتعيين تراخيص للمستخدمين في مركز إدارة Microsoft 365. فما الذي ينبغي لك فعله بعد ذلك؟
+  - content: استخدمت شركتك استبيان نشر Project Operations. تم تحديد أنه يجب عليك استخدام سيناريو النشر الخفيف لنشر Project Operations. لقد قمت بتثبيت التطبيق وتعيين تراخيص للمستخدمين في مركز مسؤول Microsoft 365. فما الذي يجب عليك فعله بعد ذلك؟
     choices:
     - content: استخدم Lifecycle Services لتثبيت Project Operations.
       isCorrect: false
@@ -43,20 +43,20 @@ quiz:
     - content: استخدم مركز إدارة Microsoft Power Platform لتثبيت Project Operations.
       isCorrect: true
       explanation: يمكنك فقط تثبيت Project Operations باستخدام سيناريو النشر الخفيف من مركز إدارة Microsoft Power Platform.
-    - content: تكوين وتشغيل مخططات الكتابة المزدوجة.
+    - content: تكوين مخططات الكتابة المزدوجة وتشغيلها.
       isCorrect: false
-      explanation: يمكنك فقط تكوين وتشغيل مخططات الكتابة المزدوجة من تطبيقات Finance and Operations.
-  - content: نجحت شركتك في نشر تطبيقات Finance and Operations وProject Operations بنجاح باستخدام Lifecycle Services. ومع ذلك، لا تتم مزامنة الحركات من Project Operations مع تطبيقات Finance and Operations. فما الذي ينبغي عليك فعله؟
+      explanation: يمكنك فقط تكوين الخرائط مزدوجة الكتابة وتشغيلها من تطبيقات التمويل والعمليات.
+  - content: لقد نجحت شركتك في نشر تطبيقات التمويل والعمليات وProject Operations باستخدام Lifecycle Services. ومع ذلك، لا تتم مزامنة المعاملات من Project Operations مع تطبيقات التمويل والعمليات. ما الذي يجب عليك فعله؟
     choices:
     - content: تكوين Microsoft ActiveSync.
       isCorrect: false
-      explanation: إن Microsoft ActiveSync هو تطبيق مزامنة بيانات الأجهزة المحمولة الذي تم إصداره في الأصل في عام 1991. لا يمكن مزامنة الحركات من Project Operations إلى تطبيقات Finance and Operations.
+      explanation: إن Microsoft ActiveSync هو تطبيق مزامنة بيانات الأجهزة المحمولة الذي تم إصداره في الأصل في عام 1991. لا يمكنه مزامنة المعاملات من Project Operations إلى تطبيقات التمويل والعمليات.
     - content: تكوين Azure File Sync.
       isCorrect: false
-      explanation: تتيح لك Azure File Sync مركزية مشاركات الملفات في ملفات Azure. لا يمكنها مزامنة الحركات من Project Operations إلى تطبيقات Finance and Operations.
-    - content: تكوين واستخدام مخططات جداول الكتابة المزدوجة.
+      explanation: تتيح لك Azure File Sync مركزية مشاركات الملفات في ملفات Azure. لا يقوم بمزامنة المعاملات من Project Operations إلى تطبيقات التمويل والعمليات.
+    - content: تكوين مخططات جداول الكتابة المزدوجة واستخدامها.
       isCorrect: true
-      explanation: يجب تكوين واستخدام مخططات جداول الكتابة المزدوجة لمزامنة الحركات من Project Operations.
+      explanation: يجب تكوين مخططات جداول الكتابة المزدوجة واستخدامها لمزامنة الحركات من Project Operations.
     - content: تكوين وتثبيت Azure AD ‏Connect.
       isCorrect: false
-      explanation: يتيح لك Azure AD ‏Connect مزامنة Active Directory المحلي إلى Microsoft Azure Active Directory (Azure AD). لا يقوم بمزامنة الحركات من Project Operations إلى تطبيقات Finance and Operations.
+      explanation: يتيح لك Azure AD ‏Connect مزامنة Active Directory المحلي إلى Microsoft Azure Active Directory (Azure AD). لا يقوم بمزامنة المعاملات من Project Operations إلى تطبيقات التمويل والعمليات.

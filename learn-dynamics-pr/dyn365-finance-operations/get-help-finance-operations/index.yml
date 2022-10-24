@@ -3,19 +3,19 @@ uid: learn-dynamics.get-help-with-f-and-o
 metadata:
   title: الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات
   description: توضح هذه الوحدة كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات.
-  ms.date: 02/11/2019
+  ms.date: 10/07/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 79fe7df670c67489d445bde50e0318ed1e2e8dd9
-  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+  ms.openlocfilehash: 0e3cb332f94a592201f7e5f9c738410867511b95
+  ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2022
-  ms.locfileid: "9581068"
+  ms.lasthandoff: 10/07/2022
+  ms.locfileid: "9639352"
 title: الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات
 summary: "[!include[](../includes/module-banner.md)]\n\nتعرف على كيفية الحصول على التعليمات ومعرفة المزيد حول تطبيقات التمويل والعمليات. \n"
-abstract: "في هذه الوحدة النمطية، ستتعرف على ما يلي: \n- موقع مستندات Microsoft\n- التعليمات المضمّنة في المنتجات\n- كيفية تخصيص مواضيع التعليمات\n- حماية الخصوصية والبيانات الشخصية الخاصة بعملاءك\n"
+abstract: "في هذه الوحدة، ستتعرف على ما يلي: \n- وثائق Microsoft Learn\n- التعليمات المضمّنة في المنتجات\n- كيفية تخصيص مواضيع التعليمات\n- حماية الخصوصية والبيانات الشخصية الخاصة بعملائك\n"
 prerequisites: لا شيء
 iconUrl: /training/achievements/get-help-with-d365-f-and-o.svg
 levels:

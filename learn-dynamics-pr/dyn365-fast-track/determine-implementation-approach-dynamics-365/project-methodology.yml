@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.determine-implementation-approach-dynamics-365.project-methodology
+title: منهجية المشروع
+metadata:
+  title: منهجية المشروع
+  description: تعرف على مزايا المنهجية المختلفة لمشروع Dynamics 365.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: e60ec58caee4ad9c5fbbf8605d9ec55386141afc
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612559"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/project-methodology.md)]"

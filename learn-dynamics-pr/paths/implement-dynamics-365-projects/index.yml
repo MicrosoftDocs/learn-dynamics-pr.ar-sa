@@ -1,0 +1,61 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.implement-dynamics-365-projects
+metadata:
+  title: تنفيذ مشاريع Dynamics 365
+  description: أثناء تنفيذ حلول Dynamics 365، لديك العديد من الاعتبارات. ويشمل ذلك التصميم للمستخدمين ومشاركه الحلول والتقدم مع حملة الأسهم واختبار الحلول وتوثيقها والمشاركة في إدارة دورة حياة البرنامج الذي وضعه فريقك.
+  ms.date: 10/04/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: business-applications
+  ms.openlocfilehash: 9fa736af7e343efdb15f88f168db4ab62e39a864
+  ms.sourcegitcommit: 0bf9f1c607d5fb2ef9a3bc635a6d8fcd393d46b7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9627297"
+title: تنفيذ مشاريع Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  أثناء تنفيذ حلول Dynamics 365، لديك العديد من الاعتبارات. ويشمل ذلك التصميم للمستخدمين ومشاركه الحلول والتقدم مع حملة الأسهم واختبار الحلول وتوثيقها والمشاركة في إدارة دورة حياة البرنامج الذي وضعه فريقك. وبصفتك مستشاراً في مشروع ما تمتلك فرص رائعة من المعرفة للتأثير على التصميم ومشاركة التقدم مع حملة الأسهم على طول الطريق.
+prerequisites: >
+  - [تعرّف على أساسيات مشاريع Dynamics 365](/training/paths/learn-fundamentals-dynamics-365-projects/)
+
+  - [تصميم حلول Dynamics 365](/training/paths/design-dynamics-365-solutions/)
+iconUrl: /training/achievements/implement-dynamics-365-projects.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- functional-consultant
+- student
+- business-user
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+modules:
+- learn-dynamics.design-dynamics-365-deployment
+- learn-dynamics.present-business-applications-designs
+- learn-dynamics.document-dynamics-365-solution-customer
+- learn-dynamics.test-dynamics-365-implementation
+- learn-dynamics.application-lifecycle-management-dynamics-365
+trophy:
+  uid: learn-dynamics.implement-dynamics-365-projects.trophy

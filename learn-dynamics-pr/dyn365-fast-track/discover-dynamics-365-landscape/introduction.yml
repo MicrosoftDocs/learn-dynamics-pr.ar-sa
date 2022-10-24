@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.discover-dynamics-365-landscape.introduction
+title: مقدمة
+metadata:
+  title: مقدمة
+  description: تعرف على كيفية تقديم تطبيقات Microsoft Dynamics ‏365 للأعمال العديد من التطبيقات والخدمات لمساعدتك في إنشاء الحلول.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 1a268dc711e5abf9f4c82970b77b0b3df3b92de0
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612491"
+durationInMinutes: 1
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/introduction.md)]"

@@ -4,17 +4,17 @@ title: إضافة أو تعطيل مستخدم بيئة
 metadata:
   title: إضافة أو تعطيل مستخدم بيئة
   description: تعرف على كيفية إضافة أو تعطيل مستخدم بيئة أو تعطيله فِي Microsoft Dataverse.
-  ms.date: 05/02/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: admin
-  ms.openlocfilehash: 087efe11faedb286ce496e11db233dfcd394c1da
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: bd94b4c3e1d005ca141e71d1e73e6df4f2ed4827
+  ms.sourcegitcommit: 328e62aa0c8e2873cbd813483692e394a5d4da51
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425965"
+  ms.lasthandoff: 10/12/2022
+  ms.locfileid: "9644274"
 durationInMinutes: 3
 content: >-
   [!include[](../includes/unit-banner.md)]

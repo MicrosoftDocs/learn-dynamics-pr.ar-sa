@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 537bad325f901561ed508e56b386b3c4311103237d171d118eb12e252753e588
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 9dc4048a88602e45028275f4cb9129f25e0cadcf
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7092473"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596822"
 ---
 يتكامل Dynamics 365 Project Operations مع حل إدارة قوائم المشروعات Microsoft Project Portfolio Management وتطبيقات Microsoft وحلول الصناعة الأخرى:
 
@@ -16,4 +16,4 @@ ms.locfileid: "7092473"
 
 -   شركاء Microsoft
 
-في هذه الوحدة النمطية، تعرفت على بنية المنتج الخاصة بـ Project Operations وكيف يمكن أن يساعد "Project for the web" "مشروع للويب" في تعميق إمكانية التشغيل التفاعلي مع Dynamics 365. لقد تعرفت أيضاً على كيفية تكامل إطار عمل الكتابة الثنائية فيما بين تطبيقات Finance and Operations وDataverse والمعلمات المتعلقة بترخيص المنتج.
+في هذه الوحدة النمطية، تعرفت على بنية المنتج الخاصة بـ Project Operations وكيف يمكن أن يساعد "Project for the web" "مشروع للويب" في تعميق إمكانية التشغيل التفاعلي مع Dynamics 365. لقد تعلمت أيضًا كيف يتكامل إطار عمل الكتابة المزدوجة بين تطبيقات التمويل والعمليات، وDataverse، والمعلمات حول ترخيص المنتج.

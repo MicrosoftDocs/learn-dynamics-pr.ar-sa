@@ -8,30 +8,30 @@ metadata:
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 4ece792bd60aed79ad7255ffeb843eb299829b0d
-  ms.sourcegitcommit: 8773c31cceaa4d9a36c62c964a2b414c6e0656f3
+  ms.openlocfilehash: 3b2cf50d0995dfa206065c8c73a996350f5e182d
+  ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "7337587"
+  ms.lasthandoff: 09/28/2022
+  ms.locfileid: "9597180"
 durationInMinutes: 6
 quiz:
   title: أجب عن الأسئلة التالية للوقوف على ما تعلمته.
   questions:
   - content: ما وظيفة الكتابة المزدوجة في Dynamics 365؟
     choices:
-    - content: تقوم الكتابة المزدوجة بدمج تطبيقات Finance and Operations مع Microsoft SQL Server.
+    - content: تدمج الكتابة المزدوجة تطبيقات التمويل والعمليات مع Microsoft SQL Server.
       isCorrect: false
-      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات Finance and Operations. ومع ذلك، لا يمكن دمجها مع Microsoft SQL Server.
-    - content: تقوم الكتابة المزدوجة بدمج تطبيقات Finance and Operations مع تطبيقات Customer Engagement.
+      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات التمويل والعمليات. ومع ذلك، لا يمكن دمجها مع Microsoft SQL Server.
+    - content: تدمج خاصية الكتابة المزدوجة تطبيقات التمويل والعمليات مع تطبيقات Customer Engagement.
       isCorrect: true
-      explanation: توفر ميزة الكتابة المزدوجة تفاعلاً شبه فوري بين تطبيقات Customer Engagement وتطبيقات Finance and Operations.
+      explanation: توفر ميزة الكتابة المزدوجة تفاعلاً شبه فوري بين تطبيقات Customer Engagement وتطبيقات التمويل والعمليات.
     - content: تقوم الكتابة المزدوجة بدمج Dynamics 365 Business Central مع تطبيقات Customer Engagement.
       isCorrect: false
-      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات Finance and Operations.
-    - content: تقوم الكتابة المزدوجة بإدارة خدمات الاسترداد لقاعدة بيانات Finance and Operations.
+      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات التمويل والعمليات.
+    - content: تقوم الكتابة المزدوجة بإدارة خدمات الاسترداد لقاعدة بيانات التمويل والعمليات.
       isCorrect: false
-      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات Finance and Operations ولكنها ليست مدمجة في خدمة استرداد.
+      explanation: الكتابة المزدوجة هي وظيفة في تطبيقات التمويل والعمليات لكنها ليست مدمجة في خدمة التعافي من الكوارث.
   - content: ما برنامج إدارة المشاريع المدمج مباشرةً في تطبيق Project Operations؟
     choices:
     - content: Project for the Web

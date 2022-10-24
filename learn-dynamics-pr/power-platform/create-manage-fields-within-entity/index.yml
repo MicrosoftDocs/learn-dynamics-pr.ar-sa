@@ -3,21 +3,39 @@ uid: learn-dynamics.create-manage-fields-within-entity
 metadata:
   title: إنشاء الأعمدة وإدارتها داخل جدول في Microsoft Dataverse
   description: تعرف على كيفية إنشاء أعمدة الجداول وإدارتها في تطبيقات Dataverse.
-  ms.date: 07/08/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 44a0e043ed466dbde91ba203b621358abe151f45
-  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+  ms.openlocfilehash: b4c11f01aac3fbb6445f2f6439a1ad1bf8d55422
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "9508608"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624578"
 title: إنشاء الأعمدة وإدارتها داخل جدول في Dataverse
-summary: "[!include[](../includes/module-banner.md)]\n\nهل تريد إنشاء أعمدة بيانات جديدة أو استخدام أعمدة قياسية موجودة لحلول الأعمال الخاصة بك؟  ستوضح لك هذه الوحدة كيفية إدارة أعمدة جديدة أو إنشائها داخل جدول في Dataverse. \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على ماهية الأعمدة الموجودة في Dataverse.\n- تعرف على أنواع الأعمدة المتوفرة في Dataverse.\n- إضافة عمود إلى جدول.\n- تعرف على عامود الاسم الرئيسي الموجودة في Dataverse.\n- تحديد القيود المرتبطة بالأعمدة.\n- إنشاء عمود ذي ترقيم تلقائي.\n- إنشاء مفتاح بديل. \n"
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  هل تريد إنشاء أعمدة بيانات جديدة أو استخدام أعمدة قياسية موجودة لحلول الأعمال الخاصة بك؟  ستوضح لك هذه الوحدة كيفية إدارة أعمدة جديدة أو إنشائها داخل جدول في Dataverse.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - تعرف على ماهية الأعمدة الموجودة في Dataverse.
+
+  - تعرف على أنواع الأعمدة المتوفرة في Dataverse.
+
+  - إضافة عمود إلى جدول.
+
+  - تعرف على عامود الاسم الرئيسي الموجودة في Dataverse.
+
+  - تحديد القيود المرتبطة بالأعمدة.
+
+  - إنشاء عمود ذي ترقيم تلقائي.
+
+  - إنشاء مفتاح بديل.
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
 iconUrl: /training/achievements/create-manage-fields-within-entity.svg
 levels:

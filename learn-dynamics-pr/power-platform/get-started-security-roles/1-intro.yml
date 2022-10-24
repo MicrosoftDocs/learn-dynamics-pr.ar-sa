@@ -4,17 +4,17 @@ title: مقدمة إلى أدوار البيئة
 metadata:
   title: مقدمة إلى أدوار البيئة
   description: تعرف على المعلومات الأساسية حول أدوار البيئة في Microsoft Dataverse.
-  ms.date: 05/02/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: admin
-  ms.openlocfilehash: c4b0dc8514351dbe1b7c77c9944880e1ff0bfc93
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 3ebfbc5716d2644a83d96d50efe803fd3d44d36c
+  ms.sourcegitcommit: 328e62aa0c8e2873cbd813483692e394a5d4da51
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9426635"
+  ms.lasthandoff: 10/12/2022
+  ms.locfileid: "9644464"
 durationInMinutes: 2
 content: >-
   [!include[](../includes/unit-banner.md)]

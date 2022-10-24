@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b988b3a6b7c71b025161100b6ec0944ce16f8d8605bd6bf30537fd4bd5012e2e
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: af5686fe8487cd512e74d5b5e49c7be3edce0cad
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7052451"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596694"
 ---
 
 في Supply Chain Management، يمكنك إنشاء اتفاقيات شراء وإقرانها بتدفقات الإنتاج. تحتوي اتفاقية الشراء على جميع معلومات التسعير الخاصة بالخدمة المرتبطة، والتي يوفرها المقاول الفرعي.
@@ -25,7 +25,7 @@ ms.locfileid: "7052451"
 
 **مراقبة الإنتاج> إعدادات> الموردين> الموردين**
 
-[![لقطة شاشة على Finance and Operations صفحة موردي.](../media/resource-1.png)](../media/resource-1.png#lightbox) 
+[![لقطة شاشة لصفحة موارد التمويل والعمليات.](../media/resource-1.png)](../media/resource-1.png#lightbox) 
 
 يجب تعيين فئة تكلفة وقت التشغيل مع نوع مجموعة تكلفة "الاستعانة بمصادر خارجية مباشرة" إلى خلية العمل. لا نحتاج إلى فئات التكلفة للإعداد والكمية.
 

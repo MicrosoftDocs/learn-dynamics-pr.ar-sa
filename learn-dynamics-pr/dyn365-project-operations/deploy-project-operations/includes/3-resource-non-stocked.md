@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: ce8313a02fb1e1ae55d26ae56a9fc734c1b7ffad3002b29d6c0d2815016dfc0b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: cd4350643aa2ae6cc2eaf592efef7e409c0a9313
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7115040"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596665"
 ---
-حدد سيناريو Project Operations للمورد أو غير المخزن إذا كنت جديداً في Project Operations وإذا لم تقم بنشر تطبيقات Finance and Operations وتطبيقات Microsoft Dynamics 365 Customer Engagement.
+حدد سيناريو عمليات المشروع للمورد أو غير المخزن إذا كنت جديدًا في Project Operations وإذا لم تقم بنشر تطبيقات المالية والعمليات وتطبيقات Microsoft Dynamics 365 Customer Engagement.
 
 عملية نشر Project Operations لسيناريو مورد أو غير مخزّن كما يلي:
 
@@ -14,17 +14,17 @@ ms.locfileid: "7115040"
 
     - Project Operations‏ (CRM)
     - Office 365 Project Operations
-    - تطبيقات Finance and Operations
+    - تطبيقات التمويل والعمليات
     - تعيين التراخيص للمستخدمين
-    - سجل للاشتراك في Microsoft Azure
+    - سجل لأجل الاشتراك في Microsoft Azure
 
-1. توفير بيئة Finance and Operations:
+1. توفير بيئة التمويل والعمليات:
 
     - قم بإنشاء مشروع جديد في Lifecycle Services
     - يوافق المسؤول على اشتراك Azure
     - قم بتكوين التحكم في الوصول إلى Azure
-    - أضف Azure Connector إلى مشروع Lifecycle Services
-    - نشر بيئة Finance and Operations
+    - إضافة موصل Azure إلى مشروع Lifecycle Services
+    - نشر بيئة تمويل وعمليات
      
 1. إجراءات ما بعد النشر:
     - قم بتأسيس اتصال ثنائي الكتابة.
@@ -34,22 +34,22 @@ ms.locfileid: "7115040"
 
 ## <a name="redeem-software-subscriptions"></a>استرداد اشتراكات البرامج
 
-لتحسين تجربة التعلم الخاصة بك في هذه الوحدة، يمكنك الوصول إلى بيئة تجريبية لـ Project Operations عن طريق تحديد **البدء** في الزاوية العلوية اليمنى من صفحة [Dynamics 365 Project Operations](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
+لتحسين تجربة التعلم الخاصة بك في هذه الوحدة، يمكنك الوصول إلى بيئة تجريبية لـ Project Operations عن طريق تحديد **البدء** في الزاوية العلوية اليمنى من صفحة [Dynamics 365 Project Operations ](https://dynamics.microsoft.com/project-operations/overview/?azure-portal=true).
 
-## <a name="provision-a-finance-and-operations-environment"></a>توفير بيئة Finance and Operations
+## <a name="provision-a-finance-and-operations-environment"></a>توفير بيئة التمويل والعمليات:
 
-شاهد الفيديو التالي للحصول على عرض توضيحي لكيفية توفير بيئة Finance and Operations باستخدام خدمات دورة الحياة.
+شاهد الفيديو التالي للحصول على عرض توضيحي لكيفية توفير بيئة التمويل والعمليات باستخدام Lifecycle Services.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWzk1O]
 
 ## <a name="establish-a-dual-write-connection"></a>قم بتأسيس اتصال ثنائي الكتابة
 
-يتم إجراء الاتصال تلقائياً عند استخدام Lifecycle Services لنشر Finance and Operations التي تتضمن نشر بيئة Dataverse.
+يتم إجراء الاتصال تلقائيًا عند استخدام Lifecycle Services لنشر التمويل والعمليات التي تتضمن نشر بيئة Dataverse.
 
 > [!div class="mx-imgBorder"]
-> [![لقطة شاشة لإعدادات النشر (Finance and Operations) وضع الحماية Power Platform مع تعيين القالب على معيار Dynamics 365.](../media/power-platform-integration-ss.png)](../media/power-platform-integration-ss.png#lightbox)
+> [![لقطة شاشة لإعدادات النشر (التمويل والعمليات) Sandbox بقالب Power Platform تم تعيينه إلى معيار Dynamics 365.](../media/power-platform-integration-ss.png)](../media/power-platform-integration-ss.png#lightbox)
 
-يمكنك أيضاً إعداد اتصال الكتابة المزدوجة يدوياً باستخدام معالج في Finance and Operations.
+يمكنك أيضاً إعداد اتصال الكتابة المزدوجة يدوياً باستخدام معالج في التمويل والعمليات.
 
 شاهد الفيديو التالي للحصول على عرض توضيحي لكيفية إعداد اتصال الكتابة المزدوجة باستخدام المعالج.
 
@@ -83,7 +83,7 @@ ms.locfileid: "7115040"
 
 لتكوين خرائط الكتابة المزدوجة وتشغيلها، اتبع الخطوات التالية:
 
-1. في صفحة **الكتابة المزدوجة** في Finance and Operations، في مربع **بحث** (الزاوية العلوية اليمنى)، أدخل **دقة المشروع** لتضييق نطاق النتائج.
+1. في صفحة **الكتابة المزدوجة** في التمويل والعمليات، في خانة **البحث** (الزاوية اليمنى العليا)، أدخل **Project Res** لتضييق النتائج.
 
 1. حدد **أدوار موارد المشروع لجميع الشركات (فئات الموارد القابلة للحجز)**، ثم حدد **تشغيل**.
 

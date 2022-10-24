@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1b87d6458443ea36bd9b6a7c4a4c08e072de5ff7
-ms.sourcegitcommit: ae475ea7fc270d2fb85dff9f535ab6224019bfa9
+ms.openlocfilehash: 9b91aafb30ecb1ccfdc1350602fd77f5a567ccbd
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "8782151"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596910"
 ---
 قبل إجراء أي من عمليات Warehouse management باستخدام جهاز محمول، يجب تكوينه لـ Dynamics 365 Supply Chain Management.
 
@@ -26,7 +26,7 @@ ms.locfileid: "8782151"
 
 يتم استخدام فئات العمل لتحديد أوامر العمل التي يمكن لجهاز المحمول معالجتها إذا كان صنف القائمة سيقوم بمعالجة العمل الحالي.
 
-![لقطة شاشة لفئات عمل تطبيقات التمويل والعمليات.](../media/work-classes-ss.png)
+![لقطة شاشة لفئات عمل التمويل والعمليات.](../media/work-classes-ss.png)
 
 على سبيل المثال، قد يتضمن أمر العمل أوامر شراء أو عمليات التحويل والإيصالات أو التزويد أو أوامر الإرجاع. سيقوم صنف القائمة فقط بمعالجة العمل الخاص بنوع أمر العمل المحدد.
 
@@ -183,7 +183,7 @@ ms.locfileid: "8782151"
 2.  قم بحذف السطر المتوافق مع الجهاز الذي ترغب في إزالة صلاحية الوصول اليه. تذكر **معرف العميل** الذي يتم استخدامه للجهاز الذي تمت إزالته، ستحتاجه لاحقاً.
 
 
-3.  سجل الدخول إلى مدخل Azure على [https://portal.azure.com](https://portal.azure.com/).
+3.  قم بتسجيل الدخول إلى مدخل Azure على [https://portal.azure.com](https://portal.azure.com/).
 
 4.  حدد رمز **Active Directory** في القائمة اليمنى وتأكد من أنك في الدليل الصحيح.
 

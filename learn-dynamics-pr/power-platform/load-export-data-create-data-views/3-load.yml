@@ -4,17 +4,17 @@ title: تحميل البيانات في جدول
 metadata:
   title: تحميل البيانات في جدول
   description: تعرف على كيفية تحميل البيانات في جدول.
-  ms.date: 02/28/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: f73f084e26755ec3d3f5d56eb1ec56a52ee2b9e4
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 0fbbaea35351f6675c9600564cb1a6b5eb9aae99
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9426525"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624823"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]

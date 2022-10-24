@@ -4,17 +4,17 @@ title: فهم أدوار الأمان المتعلقة بالمستخدم واف
 metadata:
   title: فهم أدوار الأمان المتعلقة بالمستخدم، وافتراضيات دور الأمان
   description: معرفة المزيد حول أدوار الأمان المتعلقة بالمستخدم وافتراضيات دور الأمان.
-  ms.date: 05/02/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: admin
-  ms.openlocfilehash: b1e08762d0dd814cb1af6b2025a1a78549c20e68
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 6fc04d23d686da07a1cee1e1197c2e48fac2639f
+  ms.sourcegitcommit: 328e62aa0c8e2873cbd813483692e394a5d4da51
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425185"
+  ms.lasthandoff: 10/12/2022
+  ms.locfileid: "9644235"
 durationInMinutes: 6
 content: >-
   [!include[](../includes/unit-banner.md)]

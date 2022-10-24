@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-sales-mobile-app.deploy-mobile-app
 title: نشر تطبيق الأجهزة المحمولة
 metadata:
   title: نشر تطبيق الأجهزة المحمولة
-  description: تعرّف على كيفية نشر تطبيق الأجهزة المحمولة.
+  description: تعرف على كيفية نشر تطبيق Dynamics 365 Sales للأجهزة المحمولة.
   ms.date: 09/20/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 6990671f523902e56ad5911956dee503b1dacad8
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: a860e40eed2ecd9206c5973af28420669761de94
+  ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567439"
+  ms.lasthandoff: 10/07/2022
+  ms.locfileid: "9639409"
 durationInMinutes: 5
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/deploy-mobile-app.md)]"

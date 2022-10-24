@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.evaluate-requirements-dynamics-365-projects.techniques
+title: التقنيات
+metadata:
+  title: التقنيات
+  description: تعرف علي التقنيات اللازمة لالتقاط المتطلبات وإدارتها.
+  ms.date: 10/05/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6d9f153f23004693b8b2ed460ee11d25bbdb5c9a
+  ms.sourcegitcommit: 0bf9f1c607d5fb2ef9a3bc635a6d8fcd393d46b7
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9627420"
+durationInMinutes: 8
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/techniques.md)]

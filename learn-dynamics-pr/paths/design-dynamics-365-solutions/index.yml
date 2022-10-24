@@ -1,0 +1,57 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.design-dynamics-365-solutions
+metadata:
+  title: تصميم حلول Dynamics 365
+  description: على الرغم من أهمية التكنولوجيا، إلا أن تصميم الحلول باستخدام Dynamics 365 هو أكثر من مجرد تكنولوجيا. يجب أن تعرف عملائك وتتحدث لغة مجالهم. تحتاج إلى فهم كيفية جمع المتطلبات وتوثيقها. ستقوم باستكشاف عمليات الأعمال وتحددها وتعينها إلى وظائف لتنفيذ الحلول باستخدام Dynamics 365.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: business-applications
+  ms.openlocfilehash: 5fb7efcd07f26c26d901eadd28e6e328f5423823
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9620388"
+title: تصميم حلول Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  على الرغم من أهمية التكنولوجيا، إلا أن تصميم الحلول باستخدام Dynamics 365 هو أكثر من مجرد تكنولوجيا. يجب أن تعرف عملائك وتتحدث لغة مجالهم. تحتاج إلى فهم كيفية جمع المتطلبات وتوثيقها. ستقوم باستكشاف عمليات الأعمال وتحددها وتعينها إلى وظائف لتنفيذ الحلول باستخدام Dynamics 365. يُعد مسار التعليم هذا رفيقاً رائعاً لمعرفة المعلومات التقنية المتزايدة مع وضع التكنولوجيا مع اعتبارات تصميم الحل.
+prerequisites: >
+  - [تعرّف على أساسيات مشاريع Dynamics 365](/training/paths/learn-fundamentals-dynamics-365-projects/)
+iconUrl: /training/achievements/design-dynamics-365-solutions.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- functional-consultant
+- student
+- business-user
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+modules:
+- learn-dynamics.get-know-dynamics-365-customers
+- learn-dynamics.evaluate-requirements-dynamics-365-projects
+- learn-dynamics.business-process-mapping-dynamics-365
+trophy:
+  uid: learn-dynamics.design-dynamics-365-solutions.trophy

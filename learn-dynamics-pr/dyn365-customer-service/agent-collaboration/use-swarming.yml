@@ -3,16 +3,16 @@ uid: learn-dynamics.agent-collaboration.use-swarming
 title: استخدام تكوين الأسراب‬ لدعم العملاء
 metadata:
   title: استخدام تكوين الأسراب‬ لدعم العملاء
-  description: تعرف على كيفية استخدام تكوين الأسراب‬ لدعم العملاء
+  description: تعلم كيفية استخدام تكوين أسراب دعم العملاء.
   ms.date: 09/21/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 0342d6c8236c0e4917ce51e5faf428c8131ef713
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: fc1fa5a61a76cb661619bfbb9a6d1cc648ec2b32
+  ms.sourcegitcommit: 118a1ed3f7123032f53ea321e1b39d59e04cad04
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567180"
+  ms.lasthandoff: 10/06/2022
+  ms.locfileid: "9633249"
 durationInMinutes: 8
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/use-swarming.md)]"

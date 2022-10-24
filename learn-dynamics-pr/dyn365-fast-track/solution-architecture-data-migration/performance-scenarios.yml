@@ -4,15 +4,15 @@ title: سيناريوهات الأداء
 metadata:
   title: سيناريوهات الأداء
   description: تعرّف على سيناريوهات الأداء عند ترحيل البيانات.
-  ms.date: 04/18/2022
+  ms.date: 09/29/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 7b1be72fa492c5d287ed8e76d4a33f171882c8a9
-  ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+  ms.openlocfilehash: 44ef64ef3452d29e91c044ce1db1e2fc0c844412
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/21/2022
-  ms.locfileid: "8629517"
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612044"
 durationInMinutes: 15
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/performance-scenarios.md)]"

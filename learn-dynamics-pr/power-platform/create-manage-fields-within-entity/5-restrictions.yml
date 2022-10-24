@@ -4,19 +4,18 @@ title: القيود التي تنطبق على الأعمدة فِي جدول
 metadata:
   title: القيود التي تنطبق على الأعمدة فِي جدول
   description: تعرف على القيود التي تنطبق على الأعمدة فِي جدول.
-  ms.date: 07/08/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: power-platform
   ms.subservice: dataverse-maker
-  ROBOTS: NOINDEX
-  ms.openlocfilehash: 633fd6b79707f9e7555624209ff03570a5f607c5
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 0204506c93deb5cf851576c46198aed7f72aa401
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425635"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624843"
 durationInMinutes: 5
 content: >-
   [!include[](../includes/unit-banner.md)]

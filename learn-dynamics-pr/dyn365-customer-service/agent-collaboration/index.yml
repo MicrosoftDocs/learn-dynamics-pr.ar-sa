@@ -7,17 +7,17 @@ metadata:
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 64b4e4f5f38889825de23950df3b70d4421759f5
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: faae2831e2997f13ed998037e99b5d25dc1a475a
+  ms.sourcegitcommit: 118a1ed3f7123032f53ea321e1b39d59e04cad04
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567184"
+  ms.lasthandoff: 10/06/2022
+  ms.locfileid: "9633269"
 title: تعاون المندوبين في Dynamics 365 Customer Service.
-summary: "[!include[](../includes/module-banner.md)] \nيتضمن Dynamics 365 Customer Service ميزات تعاون متعددة لمساعدة المندوبين على تحديد الخبراء بسهولة، والمشاركة مع أقرانهم في Microsoft Teams وحتى إعداد الاجتماعات معهم.  باستخدام ميزات التعاون المتوفرة، بإمكان المؤسسات تحويل أعمالها إلى مركز موحد ومتماسك لخدمة العملاء.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- فحص الدردشة المضمنة باستخدام Teams\n- التعرّف على تكوين أسراب دعم العملاء باستخدام Teams\n- مشاركة سجلات Dynamics 365 في Microsoft Teams\n"
-prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service.
-iconUrl: /learn/achievements/agent-collaboration.svg
+summary: "[!include[](../includes/module-banner.md)] \nتتضمن Dynamics 365 Customer Service ميزات تعاون متعددة لمساعدة المندوبين على تحديد الخبراء. كما تساعد المندوبين على التفاعل مع الاجتماعات وإعدادها مع النظراء في Microsoft Teams. يمكن للمؤسسات استخدام ميزات التعاون المتاحة لتحويل أعمالها إلى مركز خدمة عملاء موحد.\n"
+abstract: "في هذه الوحدة، ستتمكن مما يلي:‬ \n- فحص الدردشة المضمنة من خلال استخدام Teams.\n- التعرّف على تكوين أسراب دعم العملاء من خلال استخدام Teams.\n- مشاركة سجلات Dynamics 365 في Microsoft Teams.\n"
+prerequisites: الفهم الأساسي لـ Dynamics 365 Customer Service
+iconUrl: /training/achievements/agent-collaboration.svg
 levels:
 - intermediate
 roles:

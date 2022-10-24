@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.digitally-transform-with-dynamics-365.connected-ecosystem
+title: نظام بيئي متصل
+metadata:
+  title: نظام بيئي متصل
+  description: تعرف على النظام البيئي المتصل.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: ba96033802d8a702d0ed1ba9b825d2d4de8c9263
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612547"
+durationInMinutes: 3
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/connected-ecosystem.md)]"

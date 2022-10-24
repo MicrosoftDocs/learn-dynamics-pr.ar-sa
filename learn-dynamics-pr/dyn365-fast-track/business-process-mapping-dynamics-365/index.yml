@@ -1,0 +1,59 @@
+### YamlMime:Module
+uid: learn-dynamics.business-process-mapping-dynamics-365
+metadata:
+  title: تعيين إجراءات العمل لـ Dynamics 365
+  description: في هذه الوحدة، سوف تتعرف على كيفية استخدام التقنيات، مثل التظليل، لاكتشاف إجراءات العمل للعملاء. بالإضافة إلى ذلك، ستقوم باستكشاف كيفية تعيين إجراءات العمل إلى Dynamics 365.
+  ms.date: 10/03/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 97523cef11734342a5442389129d8a1db4a68260
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623398"
+title: تعيين إجراءات العمل لـ Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتعد إجراءات العمل جزءاً من كيفية إنجاز العملاء لأعمالهم. ولكي تنجح في تنفيذ حل تطبيق الأعمال، ستحتاج إلى تحديد حل الأعمال وفهمه وترجمته إلى الحل الجديد الذي تقوم بتوزيعه. في هذه الوحدة، سوف تتعرف على كيفية استخدام التقنيات، مثل التظليل، لاكتشاف إجراءات العمل للعملاء. بالإضافة إلى ذلك، ستقوم باستكشاف كيفية تعيين إجراءات العمل إلى Dynamics 365.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على العمليات من خلال استخدام تقنية التظليل.\n- تعرف على كيفية تحديد الأحداث الرئيسية في إحدى العمليات.\n- استكشف الخيارات المختلفة لتعيين عملية إلى Dynamics 365.\n- تعلم من المتخصصين في هذا المجال حول تجاربهم مع إجراءات العمل للعملاء.\n"
+prerequisites: >
+  - الفهم الأساسي للبرامج واحتياجات الأعمال التلقائية
+
+  - المعرفة الأساسية للوظيفة وقيمة تطبيقات Dynamics 365 والأعمال
+iconUrl: /learn/achievements/business-process-mapping-dynamics-365.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- student
+- functional-consultant
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.business-process-mapping-dynamics-365.introduction
+- learn-dynamics.business-process-mapping-dynamics-365.shadow-user
+- learn-dynamics.business-process-mapping-dynamics-365.understand-business-process
+- learn-dynamics.business-process-mapping-dynamics-365.map-process-branches-conditions
+- learn-dynamics.business-process-mapping-dynamics-365.assignment
+- learn-dynamics.business-process-mapping-dynamics-365.check
+- learn-dynamics.business-process-mapping-dynamics-365.summary
+badge:
+  uid: learn-dynamics.business-process-mapping-dynamics-365.badge

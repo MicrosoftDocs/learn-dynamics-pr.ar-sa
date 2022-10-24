@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 467a104f9d9bac693fb9e75e794419e35ed701ce
-ms.sourcegitcommit: 6249d85c7f7ed660cc22c1e962a157e8b23dff6d
+ms.openlocfilehash: fd3651bc6ba25adb1abce09680b765cbcb7f3698
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/24/2022
-ms.locfileid: "9348615"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596802"
 ---
 كجزء من تكوين المستودع، عليك تمكين عمليات المستودع وفقاً لمتطلبات العمل التجاري. أحد أهم المكونات التي يتعين عليك تكوينها هو قوالب الموجة وقوالب العمل وأوعية العمل وتوجيهات الموقع. 
 
@@ -43,7 +43,7 @@ ms.locfileid: "9348615"
 
 يُستخدم قالب العمل لإنشاء عمل المستودع ومعالجته في مراحل مختلفة من عملية إدارة المستودعات. يجب تحديد قالب عمل صالح مثل الانتقاء - وضع في أزواج.
 
-[![لقطة شاشة لصفحة قوالب عمل Finance and Operations.](../media/work-templates.png)](../media/work-templates.png#lightbox)
+[![لقطة شاشة لصفحة قوالب عمل التمويل والعمليات.](../media/work-templates.png)](../media/work-templates.png#lightbox)
 
 **‏‫تجميع قوالب الموجة** يمكن أيضاً استخدامه في Supply Chain Management. فهو يتيح التجميع والتقسيم حسب الوظيفة المتاحة بالفعل في قالب الموجة. يمكن أن يكون استخدام هذه الوظيفة مفيداً في المستودع حيث يتم إنشاء الموجات استناداً إلى معايير محددة لكن إنشاء الموجات تلقائياً مفضّل على الإنشاء اليدوي.
 

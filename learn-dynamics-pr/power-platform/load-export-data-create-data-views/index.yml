@@ -3,21 +3,41 @@ uid: learn-dynamics.load-export-data-create-data-views
 metadata:
   title: تحميل/تصدير البيانات وإنشاء طرق عرض البيانات في Microsoft Dataverse
   description: تعرف على كيفية عرض البيانات الموجودة في جداول Dataverse وتحميلها وتصديرها.
-  ms.date: 02/28/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.service: powerapps
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 55389f7080846986f2dd3958fb201247f9a79369
-  ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+  ms.openlocfilehash: d00a6c7ecd251a449ef97d23c8a5972002462f11
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "9504627"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624434"
 title: تحميل/تصدير البيانات وإنشاء طرق عرض البيانات في Dataverse
-summary: "[!include[](../includes/module-banner.md)]\n\nيتيح لك Dataverse تحميل البيانات أو تصدير جداول من جداول أخرى باستخدام Microsoft Excel. يمكنك أيضاً إنشاء طرق عرض لمراجعة البيانات المخزنة في الجدول بسرعة.  \n"
-abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي:\n- عرض البيانات الموجودة في جدول.\n- إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها.\n- تحميل البيانات في جدول.\n- تصدير البيانات من جدول.\n- إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها.\n- استيراد البيانات باستخدام Power Query الموجود في مدخل الصانع \n- إنشاء تدفق بيانات جديد من أحد قوالب Excel \n- تعرف على تدفقات البيانات وتكامل Azure‬‏‫\n"
+summary: >
+  [!include[](../includes/module-banner.md)]
+
+  يتيح لك Dataverse تحميل البيانات أو تصدير جداول من جداول أخرى باستخدام Microsoft Excel. يمكنك أيضاً إنشاء طرق عرض لمراجعة البيانات المخزنة في الجدول بسرعة.
+abstract: >
+  خلال هذه الوحدة، سوف تتمكن مما يلي:
+
+  - عرض البيانات الموجودة في جدول.
+
+  - إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها.
+
+  - تحميل البيانات في جدول.
+
+  - تصدير البيانات من جدول.
+
+  - إضافة البيانات الموجودة في جدول باستخدام Excel أو تحديثها أو حذفها.
+
+  - استيراد البيانات باستخدام Power Query الموجود في مدخل الصانع
+
+  - إنشاء تدفق بيانات جديد من أحد قوالب Excel
+
+  - تعرف على تدفقات البيانات وتكامل Azure‬‏‫
 prerequisites: الفهم الأساسي لماهية قاعدة البيانات ودورها في أحد حلول البرامج.
 iconUrl: /training/achievements/load-export-data-create-data-views.svg
 levels:

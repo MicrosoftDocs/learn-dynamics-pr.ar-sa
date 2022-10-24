@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 0ea56ae2d58763e1b10d117f0a8092a2a9ae959c
-ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+ms.openlocfilehash: d1fcb422631a6877310a2ec6c7245f0717f1b66a
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2022
-ms.locfileid: "9506644"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596574"
 ---
 عادةً ما تتوفّر لدى الشركات شحنات متعددة وعمليات استلام متعددة للمخزون كل يوم. تؤدي هذه التحركات إلى تغيير حالة المخزون المتاح بشكل مستمر. 
 
@@ -26,4 +26,4 @@ ms.locfileid: "9506644"
 - حسب المحجوز الفعلي (تمثل طريقة العرض هذه الكمية المحجوزة).
 - حسب المتاح الفعلي (تمثل طريقة العرض هذه الكمية المتاحة بدون أي حجوزات).
 
-لمزيد من المعلومات حول كيفية تكوين تطبيق للأجهزة المحمولة، يُرجى الرجوع إلى [تصميم وبناء تطبيقات الأجهزة المحمولة من أجل تطبيقات التمويل والعمليات](/training/modules/design-build-mobile-apps-finance-operations/?azure-portal=true).
+لمزيد من المعلومات حول كيفية تكوين تطبيق للأجهزة المحمولة، يُرجى الرجوع إلى [تصميم وبناء تطبيقات الأجهزة المحمولة لأجل تطبيقات التمويل والعمليات](/training/modules/design-build-mobile-apps-finance-operations/?azure-portal=true).

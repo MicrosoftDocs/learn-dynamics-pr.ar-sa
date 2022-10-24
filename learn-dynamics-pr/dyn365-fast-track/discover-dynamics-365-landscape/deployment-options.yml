@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.discover-dynamics-365-landscape.deployment-options
+title: خيارات النشر
+metadata:
+  title: خيارات النشر
+  description: عمليات النشر السحابية أكثر أماناً وغالباً ما تحتوي على وظائف إضافية غير متوفرة في عمليات النشر المحلية. يتم تبسيط الصيانة والترقيات، وفي كثير من الحالات، تديرها Microsoft.
+  ms.date: 09/29/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 4088ff2a5f6e4ad6c5b4a14529f4f07f1b14501a
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612497"
+durationInMinutes: 10
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/deployment-options.md)]"

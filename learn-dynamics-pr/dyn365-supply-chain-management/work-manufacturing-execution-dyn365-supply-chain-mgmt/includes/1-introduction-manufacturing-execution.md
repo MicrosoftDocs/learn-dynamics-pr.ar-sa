@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e8e2a76b8e8b801a12750da5f4553347322b95b91f1bc2941b6410a1fc447f80
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 7920b12db7e7506982453bd23f0af4f8a44d6e05
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7128474"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596534"
 ---
 يتعلق تنفيذ التصنيع (ME) بإلقاء نظرة ثاقبة فورية على ما يحدث، مما يتيح للعاملين معرفة ما يجب القيام به، وبشأن توفير المعلومات المطلوبة لتوجيه العاملين وإرشادهم. بالإضافة إلى ذلك، يوفر تنفيذ التصنيع (ME) القدرة على تسجيل التكاليف ومراقبة الأداء وتتبع تاريخ الإنتاج، وهو أمر بالغ الأهمية لعملية تنفيذ التصنيع.
 
@@ -30,7 +30,7 @@ ms.locfileid: "7128474"
 
 -   **أنشطة المشروع** - تعرض صفحة قائمة بجميع أنشطة المشروع التي تم إصدارها لتنفيذ التصنيع.
 
-    [![لقطة شاشة لأنشطة مشروع Finance and Operations.](../media/project-activities.png) .](../media/project-activities.png#lightbox)
+    [![لقطة شاشة لأنشطة مشروع التمويل والعمليات.](../media/project-activities.png).](../media/project-activities.png#lightbox)
 
 انتقل إلى **التحكم بالإنتاج > تنفيذ التصنيع > معالجه الرسائل** لإنشاء وإدارة الرسائل التي ستظهر في الصفحة **تسجيل الوظائف**.
 
@@ -38,41 +38,41 @@ ms.locfileid: "7128474"
 
 -   **التسجيلات الأولية** - تعرض قائمة بكافة التسجيلات غير المؤرشفة.
 
-    [![لقطة شاشة لتسجيلات Finance and Operations الأولية.](../media/raw-registrations.png) .](../media/raw-registrations.png#lightbox)
+    [![لقطة شاشة للتسجيلات الأولية للتمويل والعمليات.](../media/raw-registrations.png).](../media/raw-registrations.png#lightbox)
 
 -   **محفوظات التسجيل** - تعرض قائمة بالتسجيلات التي تم تعديلها وتفاصيلها.
 
-    [![لقطة شاشة لمحفوظات تسجيل Finance and Operations.](../media/registration-history.png) .](../media/registration-history.png#lightbox)
+    [![لقطة شاشة لتاريخ تسجيل التمويل والعمليات.](../media/registration-history.png).](../media/registration-history.png#lightbox)
 
 -   **تسجيلات مرحَّلة** - تعرض قائمة مصفاة من التسجيلات التي تمت الموافقة عليها وترحيلها.
 
 -   **أرشيف التسجيلات الأولية** - يعرض قائمة التسجيلات التي تمت أرشفتها.
 
-    [![لقطة شاشة لأرشيف تسجيلات Finance and Operations الأولية.](../media/raw-registrations-archive.png) .](../media/raw-registrations-archive.png#lightbox)
+    [![لقطة شاشة لأرشيف التسجيلات الأولية للتمويل والعمليات.](../media/raw-registrations-archive.png).](../media/raw-registrations-archive.png#lightbox)
 
 **التحكم بالإنتاج > إعداد > تنفيذ التصنيع > محددات تنفيذ التصنيع**
 
 -   **محددات تنفيذ التصنيع** - تقوم بإعداد محددات تنفيذ التصنيع في الوحدة النمطية للتحكم بالإنتاج.
 
-    [![لقطه شاشة لمحددات تنفيذ تصنيع Finance and Operations.](../media/manufacturing-execution-parameters.png) .](../media/manufacturing-execution-parameters.png#lightbox)
+    [![لقطة شاشة لمعلمات تنفيذ التصنيع للتمويل والعمليات.](../media/manufacturing-execution-parameters.png).](../media/manufacturing-execution-parameters.png#lightbox)
 
 -   **الإعدادات الافتراضية لأمر الإنتاج** - تحدد المحددات التي تتكامل مع ميزات تنفيذ التصنيع بالوحدة النمطية للتحكم بالإنتاج.
 
-    [![لقطة شاشة لإعداد Finance and Operations الافتراضي لأمر إنتاج.](../media/prod-order-default.png).](../media/prod-order-default.png#lightbox)
+    [![لقطة شاشة لأمر الإنتاج الافتراضي في التمويل والعمليات.](../media/prod-order-default.png).](../media/prod-order-default.png#lightbox)
 
 -   **الإعدادات الافتراضية لأمر الإنتاج حسب الموقع** - تحدد المحددات الخاصة بالموقع التي تدمج ميزات تنفيذ التصنيع مع وحدة التحكم بالإنتاج.
 
-    [![لقطة شاشة لإعداد Finance and Operations الافتراضي لأمر الإنتاج حسب الموقع.](../media/prod-order-default-by-site.png).](../media/prod-order-default-by-site.png#lightbox)
+    [![لقطة شاشة لأمر الإنتاج الافتراضي في التمويل والعمليات حسب الموقع.](../media/prod-order-default-by-site.png).](../media/prod-order-default-by-site.png#lightbox)
 
 -   **تكوين الوحدات الطرفية لبطاقة الوظيفة** - تقوم بتحرير صفحات التسجيل الحالية وتكوين صفحات التسجيل الجديدة.
 
-    [![‎‏‎لقطة شاشة لتكوين الوحدات الطرفية لبطاقة الوظيفة لـ Finance and Operations.](../media/configure-job-card-terminal.png).](../media/configure-job-card-terminal.png#lightbox)
+    [![لقطة شاشة لتكوين الوحدات الطرفية لبطاقة الوظيفة للأجهزة في التمويل والعمليات‬.](../media/configure-job-card-terminal.png).](../media/configure-job-card-terminal.png#lightbox)
 
 -   **تكوين بطاقة وظيفة للأجهزة** - يعرض قائمة بالأجهزة الموجودة. يمكنك أيضاً استخدام هذه الصفحة لتغيير محددات الجهاز.
 
 **التحكم بالإنتاج > إعداد > مجموعات المستندات** - تقوم بإعداد مجموعات المستندات.
 تحدد المجموعات العاملين الذين يمكنهم قراءة أنواع المستندات المختلفة.
 
-[![لقطة شاشة لمجموعات مستندات Finance and Operations.](../media/document-groups.png).](../media/document-groups.png#lightbox)
+[![لقطة شاشة لمجموعات مستندات التمويل والعمليات.](../media/document-groups.png).](../media/document-groups.png#lightbox)
 
 **التحكم بالإنتاج> إعداد> الإنتاج> مفاتيح التخصيص** - يحدد مفتاح التخصيص الذي يجب تطبيقه على تسجيلات الوظائف المعبأة في منطقة معينة.

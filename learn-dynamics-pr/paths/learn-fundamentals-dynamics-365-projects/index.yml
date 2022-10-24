@@ -1,0 +1,65 @@
+### YamlMime:LearningPath
+uid: learn-dynamics.learn-fundamentals-dynamics-365-projects
+metadata:
+  title: تعرّف على أساسيات مشاريع Dynamics 365
+  description: تعرف على أساسيات مشاريع Dynamics 365، وفهم أفضل للتحويل الرقمي، وخدمات وتطبيقات Dynamics 365، وأعضاء فريق المشروع وحملة الأسهم، وأنواع مناهج التنفيذ لمشاريع Dynamics 365.  سيقوم هذا الأساس بإعدادك لمتابعة التعلم وتحضيرك لمشروعك الأول
+  ms.date: 10/01/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.service: business-applications
+  ms.openlocfilehash: 1ce75458532932e221feb502b46188e41bf13490
+  ms.sourcegitcommit: 7710129884e79bd01f1f02b3a66fa0f5f1d2b269
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/03/2022
+  ms.locfileid: "9620387"
+title: تعرّف على أساسيات مشاريع Dynamics 365
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+
+  بصفتك محترفاً في تطبيقات الأعمال، من المهم فهم تفاصيل المجال الأساسية. سيساعدك مسار التعليم هذا على فهم أفضل للتحويل الرقمي، وخدمات وتطبيقات Dynamics 365، وأعضاء فريق المشروع وحملة الأسهم، وأنواع مناهج التنفيذ لمشاريع Dynamics 365.  سيقوم هذا الأساس بإعدادك لمتابعة التعلم وتحضيرك لمشروعك الأول.
+prerequisites: >
+  لا يلزم وجود معرفة مسبقة أو شهادة. ومن المفيد أن يكون لديك فهم لأسباب حاجة الأعمال إلى حلول للبرامج وأن تكون على دراية بالتدريب لأي من مسارات التعليم التالية:
+
+  - [Microsoft Dynamics ‏365 Fundamentals ‏(CRM)](/certifications/exams/mb-910)
+
+  - [Microsoft Dynamics ‏365 Fundamentals ‏(ERP)](/certifications/exams/mb-920)
+
+  - [الشروع في العمل باستخدام Microsoft Dynamics 365 Business Central](/learn/paths/get-started-dynamics-365-business-central/)
+iconUrl: /training/achievements/learn-fundamentals-dynamics-365-projects.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- functional-consultant
+- student
+- business-user
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+modules:
+- learn-dynamics.introduction-business-applications-professional
+- learn-dynamics.digitally-transform-with-dynamics-365
+- learn-dynamics.project-team-dynamics-365-implementation
+- learn-dynamics.determine-implementation-approach-dynamics-365
+- learn-dynamics.discover-dynamics-365-landscape
+trophy:
+  uid: learn-dynamics.learn-fundamentals-dynamics-365-projects.trophy

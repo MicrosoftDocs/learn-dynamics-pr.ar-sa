@@ -1,0 +1,62 @@
+### YamlMime:Module
+uid: learn-dynamics.introduction-business-applications-professional
+metadata:
+  title: مقدمة لتصبح محترفاً في تطبيقات الأعمال
+  description: وتقدم هذه الوحدة Microsoft Dynamics 365 والتحويل الرقمي وفرق المشروع وحملة الأسهم ومناهج التنفيذ.
+  ms.date: 09/23/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: a762b8e98a24cb52a599f679621d91d1d581d0c2
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623311"
+title: مقدمة لتصبح محترفاً في تطبيقات الأعمال
+summary: "[!include[](../includes/module-banner.md)] \nمحترف تطبيقات الأعمال هو شخص يمكنه تحديد المشكلات وتنظيم المشكلات وتحديد الحلول وتنفيذ الحلول. وعادةً ما يشار إلى هذا الشخص باسم مستشار وظيفي أو محلل أعمال أو منشئ تطبيق. يتم تضمين بعض الخصوصيات المحددة في تعريف كل وظيفة، ويعتمد التعريف غالباً على كل مؤسسة فردية وفريق مشروع.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرف على المسار إلى النجاح كمحترف في تطبيقات الأعمال.\n- اكتشف مجتمع Dynamics 365 وموارده.\n- استكشف الشهادات المتوفرة لمحترفي Dynamics 365.\n"
+prerequisites: >
+  لا يلزم وجود معرفة مسبقة أو شهادة. ومن المفيد أن يكون لديك فهم لأسباب حاجة الأعمال إلى حلول للبرامج وأن تكون على دراية بالتدريب لأي من مسارات التعليم التالية:
+
+  - [Microsoft Dynamics ‏365 Fundamentals ‏(CRM)](/certifications/exams/mb-910)
+
+  - [Microsoft Dynamics ‏365 Fundamentals ‏(ERP)](/certifications/exams/mb-920)
+
+  - [الشروع في العمل باستخدام Microsoft Dynamics 365 Business Central](/learn/paths/get-started-dynamics-365-business-central/)
+iconUrl: /learn/achievements/introduction-business-applications-professional.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- functional-consultant
+- student
+- business-user
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.introduction-business-applications-professional.introduction
+- learn-dynamics.introduction-business-applications-professional.ensure-success
+- learn-dynamics.introduction-business-applications-professional.explore-professional-community
+- learn-dynamics.introduction-business-applications-professional.guided-tours
+- learn-dynamics.introduction-business-applications-professional.check
+- learn-dynamics.introduction-business-applications-professional.summary
+badge:
+  uid: learn-dynamics.introduction-business-applications-professional.badge

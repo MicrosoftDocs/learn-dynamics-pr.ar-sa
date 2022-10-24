@@ -1,0 +1,62 @@
+### YamlMime:Module
+uid: learn-dynamics.digitally-transform-with-dynamics-365
+metadata:
+  title: التحويل رقمياً باستخدام Dynamics 365
+  description: التحويل الرقمي هو دمج التكنولوجيا الرقمية في جميع مجالات الأعمال. الهدف من التحويل الرقمي هو تغيير كيفية عمل المؤسسات وتقديم قيمة للعملاء.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 32e831dd02b4a0e591153c6f817dd8f043e989b9
+  ms.sourcegitcommit: 2ec44900664ae52029c3b55f95c95e71b2bd2eb9
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/04/2022
+  ms.locfileid: "9623228"
+title: التحويل رقمياً باستخدام Dynamics 365
+summary: "[!include[](../includes/module-banner.md)] \nتسمح تطبيقات أعمال Dynamics 365 للمؤسسات بتحويل مؤسستها رقمياً. تزيل التطبيقات تعقيد أنظمة إدارة علاقات العملاء (CRM) وإدارة موارد المؤسسة (ERP) المنفصلة عن طريق إنشاء تطبيقات أعمال معيارية حديثة تعمل معاً على نظام أساسي واحد. تمنح التطبيقات المؤسسات المرونة في اعتماد التكنولوجيا عندما تحتاج إليها للمساعدة في تحسين نتائج الأعمال.\n"
+abstract: "خلال هذه الوحدة، سوف تتمكن مما يلي: \n- تعرّف على كيفية استخدام الشركات لتقنية التحويل.\n- اكتشف قيمة تطبيقات Dynamics 365.\n- تعلم كيف يمكن لتطبيقات الأعمال العمل مع التقنيات الأخرى.\n"
+prerequisites: الفهم الأساسي لسبب حاجة الأعمال إلى التكنولوجيا.
+iconUrl: /learn/achievements/digitally-transform-with-dynamics-365.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- student
+- business-analyst
+- maker
+products:
+- dynamics-365
+- dynamics-finance
+- dynamics-finance-operations
+- dynamics-sales
+- dynamics-marketing
+- dynamics-scm
+- dynamics-business-central
+- dynamics-field-service
+- dynamics-customer-service
+- dynamics-project-operations
+- dynamics-human-resources
+- dynamics-iom
+- power-apps
+- power-automate
+- common-data-service
+subjects:
+- business-applications
+units:
+- learn-dynamics.digitally-transform-with-dynamics-365.introduction
+- learn-dynamics.digitally-transform-with-dynamics-365.digital-feedback-loop
+- learn-dynamics.digitally-transform-with-dynamics-365.apps
+- learn-dynamics.digitally-transform-with-dynamics-365.power-platform
+- learn-dynamics.digitally-transform-with-dynamics-365.modern-workplace
+- learn-dynamics.digitally-transform-with-dynamics-365.other-products
+- learn-dynamics.digitally-transform-with-dynamics-365.connected-ecosystem
+- learn-dynamics.digitally-transform-with-dynamics-365.explore-possibilities
+- learn-dynamics.digitally-transform-with-dynamics-365.put-together
+- learn-dynamics.digitally-transform-with-dynamics-365.cloud-partner-program
+- learn-dynamics.digitally-transform-with-dynamics-365.assignment
+- learn-dynamics.digitally-transform-with-dynamics-365.check
+- learn-dynamics.digitally-transform-with-dynamics-365.summary
+badge:
+  uid: learn-dynamics.digitally-transform-with-dynamics-365.badge

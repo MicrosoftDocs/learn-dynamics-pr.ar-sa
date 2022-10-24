@@ -3,16 +3,16 @@ uid: learn-dynamics.get-started-sales-mobile-app.manage-records
 title: إدارة السجلات
 metadata:
   title: إدارة السجلات
-  description: تعرف على كيفية إدارة السجلات.
+  description: تعرف على كيفية إدارة السجلات في تطبيق Dynamics 365 Sales للأجهزة المحمولة.
   ms.date: 09/20/2022
   author: KevSch
   ms.author: kschimke
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 888c7c257bc18d613a344a8f41027e8eb90b6809
-  ms.sourcegitcommit: b553b85e16cc744acb7223ab5348070f6e26a4fe
+  ms.openlocfilehash: 6229cd78dc916956bd239849454ea3276a38f08a
+  ms.sourcegitcommit: c7da060c6aba7e8815ae515d2291e8a818cbba20
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/21/2022
-  ms.locfileid: "9567440"
+  ms.lasthandoff: 10/07/2022
+  ms.locfileid: "9639535"
 durationInMinutes: 12
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/manage-records.md)]"

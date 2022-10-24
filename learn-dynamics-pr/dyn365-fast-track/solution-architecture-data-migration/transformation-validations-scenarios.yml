@@ -4,15 +4,15 @@ title: سيناريوهات التحويلات والتحقق منها
 metadata:
   title: سيناريوهات التحويلات والتحقق منها
   description: تعرّف على سيناريوهات التحويلات والتحقق من صحة ترحيل البيانات.
-  ms.date: 04/18/2022
+  ms.date: 09/29/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: 996ae47288145221d8308f93e404f2bd2a40cfb5
-  ms.sourcegitcommit: 279b2ff8381f5222be79daff932b62fa212e392b
+  ms.openlocfilehash: 05a6c4a8d80ecbc1446e5fd3972833a1ef0c7a1b
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 04/21/2022
-  ms.locfileid: "8629520"
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9611994"
 durationInMinutes: 6
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/transformation-validations-scenarios.md)]"

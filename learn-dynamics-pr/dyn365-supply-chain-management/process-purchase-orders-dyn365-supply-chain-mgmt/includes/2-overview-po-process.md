@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4c5b163933e6b7a65438170d43070664cd341a92
-ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+ms.openlocfilehash: a9d8cddd43aba302d98f6c0ba6b3e2d99a340a4c
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2022
-ms.locfileid: "9506674"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9597190"
 ---
 يمكن للأدوار المختلفة داخل المؤسسة استخدام أوامر الشراء لتحديث حالة أوامر الشراء وتعقبها. 
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 1664edbd86efcd78cead232b2d2deb12c4e69bc684774cb1d9af7b399494b29b
-ms.sourcegitcommit: 511a76b204f93d23cf9f7a70059525f79170f6bb
+ms.openlocfilehash: 0202f66641e8cf16fd920a9b8eaf65966729c7f6
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "7047074"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596852"
 ---
 
 مزايا Dynamics 365 Project Operations هي:
@@ -17,5 +17,5 @@ ms.locfileid: "7047074"
 - **يمكن لـ Finance تبسيط محاسبة المشاريع** - مع إدارة تعقب الوقت والمصروقات، وتكلفة المشروع، وإعداد الميزانية، والفواتير، وإقرار الإيرادات، والامتثال، وإبراز مقاييس سلامة الأعمال الرئيسية.
 
 
-يعد Project Operations قوياً من تلقاء نفسه ولكن يمكن توسيعه باستخدام الإمكانات الإضافية من تطبيقات Dynamics 365، بما في ذلك Dynamics 365 Marketing، وDynamics 365 Human Resources، وDynamics 365 Customer Service، وتطبيقات Finance and Operations، والمزيد. سواء كنت ترغب في الحصول على وظائف إضافية لتطبيق Dynamics 365 آخر أو إضافة تطبيق مخصص تم إنشاؤه باستخدام Microsoft Power Apps، فإن كل شيء يعمل معاً ويعمل كما تتوقع لأنهم يشتركون في الأساس المشترك لسحابة خاصة ومتوافقة - حل تسليمها.
+يعد Project Operations قوياً من تلقاء نفسه ولكن يمكن توسيعه باستخدام الإمكانات الإضافية من تطبيقات Dynamics 365، بما في ذلك Dynamics 365 Marketing، و، Dynamics 365 Human Resources، وDynamics 365 Customer Service، وتطبيقات التمويل والعمليات وما هو أكثر من ذلك. سواء كنت ترغب في الحصول على وظائف إضافية لتطبيق Dynamics 365 آخر أو إضافة تطبيق مخصص تم إنشاؤه باستخدام Microsoft Power Apps، فإن كل شيء يعمل معاً ويعمل كما تتوقع لأنهم يشتركون في الأساس المشترك لحل خاص ومتوافق يتم تسليمه عبر السحابة.
 

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 386fbf03181447369daaea5534f5694c3ff27220
-ms.sourcegitcommit: b214fdb68f932da234d60906b9fe7a1d294c0af0
+ms.openlocfilehash: baf6c852bc2c281714a2e08e3bb9baf642dd2913
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2022
-ms.locfileid: "9516271"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9596544"
 ---
 تعتمد العمليات اللوجستية لبعض الشركات على كيانات قانونية أخرى داخل المؤسسة. ويتم التعامل مع مثل هذه العمليات باستخدام المبيعات والمشتريات بين الشركات الشقيقة لأن هذه الكيانات القانونية تحتوي على مخطط حسابات منفصل.
 

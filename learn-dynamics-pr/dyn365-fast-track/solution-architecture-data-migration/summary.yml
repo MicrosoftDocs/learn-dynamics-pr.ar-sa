@@ -4,15 +4,15 @@ title: الملخص‬
 metadata:
   title: الملخص‬
   description: ملخص عن مفاهيم ترحيل البيانات لتطبيقات التمويل والعمليات.
-  ms.date: 04/18/2022
+  ms.date: 09/29/2022
   author: cstorega
   ms.author: cstorega
   ms.topic: interactive-tutorial
-  ms.openlocfilehash: ec78dbaa7e27871a945b73063b0bd7f249a3a222
-  ms.sourcegitcommit: c1858cd3b2bd6663edff36e214795d4934ad3ddf
+  ms.openlocfilehash: 32b4377a846ecbb923af0a6d128b9eccec21ad45
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/22/2022
-  ms.locfileid: "9580718"
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612034"
 durationInMinutes: 2
 content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/summary.md)]"

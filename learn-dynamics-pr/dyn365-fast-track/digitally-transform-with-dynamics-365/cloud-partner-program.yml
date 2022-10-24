@@ -1,0 +1,18 @@
+### YamlMime:ModuleUnit
+uid: learn-dynamics.digitally-transform-with-dynamics-365.cloud-partner-program
+title: Microsoft Cloud Partner Program
+metadata:
+  title: Microsoft Cloud Partner Program
+  description: تعرف على Microsoft Cloud Partner Program.
+  ms.date: 09/26/2022
+  author: cstorega
+  ms.author: cstorega
+  ms.topic: interactive-tutorial
+  ms.openlocfilehash: 6bdab8d52a8db15bd7a99291892766b092131bd5
+  ms.sourcegitcommit: 490729d6b819203f65b1a04508069dff1ca07256
+  ms.translationtype: HT
+  ms.contentlocale: ar-SA
+  ms.lasthandoff: 10/01/2022
+  ms.locfileid: "9612549"
+durationInMinutes: 2
+content: "[!include[](../includes/unit-banner.md)] \n[!include[](includes/cloud-partner-program.md)]"

@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: d22b9537ed40f6183d2ff31f6937de84d38547f6
-ms.sourcegitcommit: 25d64783ca6b8521eb4960df6ceee686e1d8a2b2
+ms.openlocfilehash: 90ab580013e695543b8dec3c965666aa8f3e5f35
+ms.sourcegitcommit: b364f2e6dabd073ec1c9fd9d1bb6efe295ce9d2f
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "9404225"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "9597063"
 ---
 ## <a name="purchase-order-receipts"></a>عمليات استلام أوامر الشراء
  
@@ -19,7 +19,7 @@ ms.locfileid: "9404225"
 4.  يمكن تخصيص القائمة لعاملين مختلفين.
 
     > [!div class="mx-imgBorder"]
-    > ![لقطة شاشة لقائمة Finance and Operations Mobile لإدارة المستودعات.](../media/mobile-menu-ss.png)
+    > ![لقطة شاشة لقائمة الأجهزة المحمولة الخاصة بالتمويل والعمليات لإدارة المستودعات.](../media/mobile-menu-ss.png)
 
 5.  يتم الوصول إلى وظيفة **الاستلام** في الجهاز المحمول عن طريق تحديد **استلام الشراء**.
     > [!div class="mx-imgBorder"]
@@ -93,7 +93,7 @@ ms.locfileid: "9404225"
     -  قم بإعداد **قالب عمل** لـ **نوع أمر العمل > أمر الشراء** مع **تفاصيل قالب العمل** مع **نوع العمل** الخاص بـ **الانتقاء** و **فحص الجودة** و **الوضع**
 
 
-        [![لقطة شاشة لصفحة قوالب عمل Finance and Operations مع تمييز سطر فحص الجودة.](../media/quality-work-template-ssm.png)](../media/quality-work-template-ssm.png#lightbox)
+        [![لقطة شاشة لصفحة قوالب عمل التمويل والعمليات مع تمييز سطر فحص الجودة.](../media/quality-work-template-ssm.png)](../media/quality-work-template-ssm.png#lightbox)
     
     
 
@@ -179,7 +179,7 @@ ms.locfileid: "9404225"
 
 لتمكين عمليات الاستلام في مستودع يختلف عن المستودع الذي تم إعداده في المستند المصدر، فأنت بحاجة إلى الانتقال إلى علامة التبويب السريعة **Warehouse management > الإعدادات > المستودع > المواقع > المستودع**.
 
-[![لقطة شاشة لعلامة التبويب السريعة Finance and Operations Warehouse مع تعيين الحقل السماح للمستخدمين على الأجهزة المحمولة بالاستلام إلى نعم.](../media/sites-1-ssm.png)](../media/sites-1-ssm.png#lightbox)
+[![لقطة شاشة لعلامة التبويب السريعة للتمويل والعمليات مع تعيين حقل السماح للمستخدمين على الأجهزة المحمولة بالاستلام إلى "نعم".](../media/sites-1-ssm.png)](../media/sites-1-ssm.png#lightbox)
 
 يمكنك تمكين الخيار للسماح للمستخدمين الموجودين على الجهاز المحمول بالاستلام في مستودع آخر. 
 

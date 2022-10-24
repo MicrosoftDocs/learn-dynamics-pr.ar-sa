@@ -4,17 +4,17 @@ title: إنشاء طرق عرض البيانات الموجودة في جدول 
 metadata:
   title: إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها
   description: تعرف على كيفية إنشاء طرق عرض البيانات الموجودة في جدول أو تحريرها.
-  ms.date: 02/28/2022
-  author: DaveBeasley
-  ms.author: dbeasley
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
   ms.topic: interactive-tutorial
   ms.subservice: dataverse-maker
-  ms.openlocfilehash: 515d0013dc043cd7377c10507349e5972516ab48
-  ms.sourcegitcommit: 3d0771c696ccb012cf2e3d793e9337267d178797
+  ms.openlocfilehash: 4fe728a3bfda1c73d22645a613d7f6e79dbc8056
+  ms.sourcegitcommit: 20a57233db44ded09a862a3b69bb30383d08ab00
   ms.translationtype: HT
   ms.contentlocale: ar-SA
-  ms.lasthandoff: 09/08/2022
-  ms.locfileid: "9425295"
+  ms.lasthandoff: 10/05/2022
+  ms.locfileid: "9624637"
 durationInMinutes: 7
 content: >-
   [!include[](../includes/unit-banner.md)]
