@@ -1,6 +1,10 @@
 {
   "redirections": [
-     {
+    {
+      "source_path": "learn-dynamics-pr/dyn365-guides/guides-administrator/03-upgrade.md",
+      "redirect_url": "/training/modules/guides-administrator/",
+      "redirect_document_id": false
+    },    {
       "source_path": "learn-dynamics-pr/dyn365-business-central/create-data-set/8-exercise.md",
       "redirect_url": "/training/modules/create-data-set/",
       "redirect_document_id": false
