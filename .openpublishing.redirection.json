@@ -1,6 +1,31 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/application-lifecycle-management/index.md",
+      "redirect_url": "/training/modules/application-lifecycle-management-strategy/",
+      "redirect_document_id": false
+    },    
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/application-lifecycle-management/4-summary.md",
+      "redirect_url": "/training/modules/application-lifecycle-management-strategy/",
+      "redirect_document_id": false
+    },    
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/application-lifecycle-management/3-check.md",
+      "redirect_url": "/training/modules/application-lifecycle-management-strategy/",
+      "redirect_document_id": false
+    },    
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/application-lifecycle-management/2-alm-workshop-topics.md",
+      "redirect_url": "/training/modules/application-lifecycle-management-strategy/",
+      "redirect_document_id": false
+    },    
+    {
+      "source_path": "learn-dynamics-pr/dyn365-fast-track/application-lifecycle-management/1-introduction.md",
+      "redirect_url": "/training/modules/application-lifecycle-management-strategy/",
+      "redirect_document_id": false
+    }, 
+    {   
       "source_path": "learn-dynamics-pr/dyn365-customer-service/dynamics-365-service-level-agreements/1-sla-oveview.md",
       "redirect_url": "/training/modules/service-level-agreements/",
       "redirect_document_id": false
@@ -54,7 +79,8 @@
       "source_path": "learn-dynamics-pr/dyn365-guides/guides-administrator/03-upgrade.md",
       "redirect_url": "/training/modules/guides-administrator/",
       "redirect_document_id": false
-    },    {
+    },    
+    {
       "source_path": "learn-dynamics-pr/dyn365-business-central/create-data-set/8-exercise.md",
       "redirect_url": "/training/modules/create-data-set/",
       "redirect_document_id": false
