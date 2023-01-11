@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-finance-operations/personalize-finance-operations/6-work-personalize.md",
+      "redirect_url": "/training/modules/personalize-finance-operations/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-fast-track/application-lifecycle-management/index.md",
       "redirect_url": "/training/modules/application-lifecycle-management-strategy/",
       "redirect_document_id": false
