@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-dynamics-pr/dyn365-sales/manage-relationships-social-selling-dynamics-365-sales/4-social-selling-assistant.md",
+      "redirect_url": "/training/modules/manage-relationships-social-selling-dynamics-365-sales/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-dynamics-pr/dyn365-finance-operations/personalize-finance-operations/6-work-personalize.md",
       "redirect_url": "/training/modules/personalize-finance-operations/",
       "redirect_document_id": false
